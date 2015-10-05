@@ -1,0 +1,81 @@
+exclude: ["Gemfile", "Gemfile.lock", vendor]
+
+# Site settings
+title: 'Boris Schapira'
+tagline: 'Life is too short to be small'
+email: borisschapira@gmail.com
+description:      'The popular <a href="http://hyde.getpoole.com/" target="_blank">Hyde theme</a> for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, now with instant-search capabilities. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a> and <a href="https://www.algolia.com/" target="_blank">Algolia</a>'
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://borisschapira.com" # the base hostname & protocol for your site
+twitter_username: borisschapira
+github_username:  borisschapira
+
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+name: 'Boris Schapira'
+author:
+  name:           'Boris Schapira'
+  url:            https://borisschapira.com/
+
+paginate:         5
+
+# Algolia
+gems:
+  - algoliasearch-jekyll
+  - jekyll-archives
+  - jekyll-picture-tag
+  - jekyll-feed
+
+algolia:
+  application_id: '97EL687MDM'
+  index_name: 'jekyll_dev'
+  read_only_api_key: '45e74dfb46facf8ee7f3038c305a9a7e'
+  excluded_files:
+    - 404.html
+    - index.html
+
+jekyll-archives:
+  enabled: []
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+jekyll-archives:
+  enabled: []
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
+picture:
+  source: "assets/images/_fullsize"
+  output: "generated"
+  markup: "picture"
+  presets:
+    default:
+      ppi: [1, 1.5]
+      attr:
+        class: "gallery-pict"
+        itemprop: "image"
+      source_medium:
+        media: "(min-width: 40em)"
+        width: "600"
+        height: "300"
+      source_default:
+        width: "300"
