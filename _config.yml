@@ -10,6 +10,8 @@ url: "http://borisschapira.com" # the base hostname & protocol for your site
 twitter_username: borisschapira
 github_username:  borisschapira
 
+format_date: '%A %-d %B %Y'
+
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
