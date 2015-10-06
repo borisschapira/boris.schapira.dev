@@ -1,0 +1,12 @@
+/* Fuschia */
+.theme-base-0g .sidebar {
+  background-color: #d00b6d;
+}
+.theme-base-0g .content a,
+.theme-base-0g .related-posts li a:hover {
+  color: #d00b6d;
+}
+
+.footnotes {
+  margin-top: 4em;
+}

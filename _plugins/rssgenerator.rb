@@ -60,7 +60,7 @@ module Jekyll
 
       # File creation and writing
       rss_path = ensure_slashes(site.config['rss_path'] || "/")
-      rss_name = site.config['rss_name'] || "rss.xml"
+      rss_name = site.config['rss_name'] || "feed.xml"
       full_path = File.join(site.dest, rss_path)
       ensure_dir(full_path)
       File.open("#{full_path}#{rss_name}", "w") { |f| f.write(rss) }

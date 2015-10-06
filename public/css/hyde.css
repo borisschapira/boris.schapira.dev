@@ -247,12 +247,3 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
-
-/* Fuschia */
-.theme-base-0g .sidebar {
-  background-color: #d00b6d;
-}
-.theme-base-0g .content a,
-.theme-base-0g .related-posts li a:hover {
-  color: #d00b6d;
-}

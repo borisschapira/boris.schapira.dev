@@ -13,6 +13,13 @@ $(function(config) {
 
   // Input listening for queries
   var $searchInput = $('.js-algolia__input');
+
+  var searchQuery = getParameterByName('query') || getParameterByName('s');
+	if (searchQuery) {
+		$searchInput.val(searchQuery);
+    onQueryChange();
+	}
+
   $searchInput.on('keyup', onQueryChange);
 
   // Content to hide/show when searching
@@ -99,6 +106,13 @@ $(function(config) {
     event.preventDefault();
     return false;
   }
+
+  function getParameterByName(name) {
+		name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+		var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+		results = regex.exec(location.search);
+		return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+	}
 
   window.setTimeout(function() {
     var selector = getAnchorSelector(window.location.hash);

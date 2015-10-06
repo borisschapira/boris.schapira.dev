@@ -14,7 +14,14 @@ title: Home
 
     <span class="post-date">{{ post.date | localize: '%A %-d %B %Y' }}</span>
 
-    {{ post.content }}
+    {% if post.content contains "<!-- more -->" %}
+      {{ post.content | split:"<!-- more -->" | first % }}
+      <p>
+        <a href="{{ site.baseurl }}{{ post.url }}">Lire la suite →</a>
+      </p>
+    {% else %}
+      {{ post.content }}
+    {% endif %}
   </div>
   {% endfor %}
 </div>

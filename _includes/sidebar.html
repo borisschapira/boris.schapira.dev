@@ -31,6 +31,27 @@
       <span class="sidebar-nav-item">{{ site.time | localize: ":short" }}</span>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <div id="follow-icons">
+    	{% if site.social.wordpress != nil %}
+        <a title="Suivez-moi sur Wordpress" href="{{ site.social.wordpress }}"><i class="fa fa-wordpress fa-2x"></i></a>
+      {% endif %}
+      {% if site.social.dribbble != nil %}<a title="{{ __('follow_me') }} Dribble" href="{{ site.social.dribbble }}"><i class="fa fa-dribbble fa-2x"></i></a>{% endif %}
+      {% if site.social.gplus != nil %}<a title="{{ __('follow_me') }} Google Plus" href="{{ site.social.gplus }}"><i class="fa fa-google-plus-square fa-2x"></i></a>{% endif %}
+      {% if site.social.vimeo != nil %}<a title="{{ __('follow_me') }} Vimeo" href="{{ site.social.vimeo }}"><i class="fa fa-vimeo-square fa-2x"></i></a>{% endif %}
+      {% if site.social.youtube != nil %}<a title="{{ __('follow_me') }} Youtube" href="{{ site.social.youtube }}"><i class="fa fa-youtube-square fa-2x"></i></a>{% endif %}
+      {% if site.social.codepen != nil %}<a title="{{ __('follow_me') }} Codepen" href="{{ site.social.codepen }}"><i class="fa fa-codepen fa-2x"></i></a>{% endif %}
+      {% if site.social.instagram != nil %}<a title="{{ __('follow_me') }} Instagram" href="{{ site.social.instagram }}"><i class="fa fa-instagram fa-2x"></i></a>{% endif %}
+      {% if site.social.tumblr != nil %}<a title="{{ __('follow_me') }} Tumblr" href="{{ site.social.tumblr }}"><i class="fa fa-tumblr-square fa-2x"></i></a>{% endif %}
+      {% if site.social.flickr != nil %}<a title="{{ __('follow_me') }} Flickr" href="{{ site.social.flickr }}"><i class="fa fa-flickr fa-2x"></i></a>{% endif %}
+      {% if site.social.pinterest != nil %}<a title="{{ __('follow_me') }} Pinterest" href="{{ site.social.pinterest }}"><i class="fa fa-pinterest-square fa-2x"></i></a>{% endif %}
+      {% if site.social.github != nil %}<a title="{{ __('follow_me') }} Github" href="{{ site.social.github }}"><i class="fa fa-github-square fa-2x"></i></a>{% endif %}
+      {% if site.social.facebook != nil %}<a title="{{ __('follow_me') }} Facebook" href="{{ site.social.facebook }}"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
+      {% if site.social.twitter != nil %}<a title="{{ __('follow_me') }} Twitter" href="{{ site.social.twitter }}"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
+      {% if site.social.linkedin != nil %}<a title="{{ __('follow_me') }} LinkedIn" href="{{ site.social.linkedin }}"><i class="fa fa-linkedin-square fa-2x"></i></a>{% endif %}
+      <a title="{{ __('subscribe_rss') }}" href="/feed.xml"><i class="fa fa-rss-square fa-2x"></i></a>
+      {% if site.social.mailto != nil %}<a title="{{ __('mailto') }} href="mailto:{{ site.social.mailto }}"><i class="fa fa-envelope-square fa-2x"></i></a>{% endif %}
+    </div>
+
+    <p>&copy; {{ site.time | date: '%Y' }}.</p>
   </div>
 </div>

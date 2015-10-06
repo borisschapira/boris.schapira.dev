@@ -1,4 +1,4 @@
-exclude: ["Gemfile", "Gemfile.lock", vendor]
+exclude: ["Gemfile", "Gemfile.lock", "vendor", "node_modules", "gulpfile.js"]
 
 # Site settings
 title: 'Boris Schapira'
@@ -17,13 +17,29 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+permalink:        /:year/:month/:title
 relative_permalinks: true
 
 name: 'Boris Schapira'
 author:
   name:           'Boris Schapira'
   url:            https://borisschapira.com/
+social:
+	# wordpress: https://profiles.wordpress.org/borisschapira-1
+	# dribbble: http://dribbble.com/borisschapira
+	# gplus: https://plus.google.com/+BorisSchapira
+	# vimeo: https://vimeo.com/borisSchapira
+	# youtube: https://youtube.com/borisSchapira
+	# codepen: http://codepen.io/borisschapira
+	# instagram: http://instagram.com/borisschapira
+	# tumblr: http://tumblr.com/borisschapira
+	flickr: http://flickr.com/borisschapira
+	# pinterest: http://pinterest.com/borisschapira
+	github: http://github.com/borisschapira
+	facebook: https://www.facebook.com/boris.schapira
+	twitter: http://twitter.com/borisschapira
+	linkedin: http://linkedin.com/in/borisschapira
+	# mailto: borisschapira@gmail.com
 
 paginate:         5
 
