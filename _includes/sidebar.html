@@ -29,6 +29,7 @@
       {% endfor %}
     </nav>
 
+    {% comment %}
     <div id="follow-icons">
     	{% if site.social.wordpress != nil %}
         <a title="Suivez-moi sur Wordpress" href="{{ site.social.wordpress }}"><i class="fa fa-wordpress fa-2x"></i></a>
@@ -49,7 +50,7 @@
       <a title="{{ __('subscribe_rss') }}" href="/feed.xml"><i class="fa fa-rss-square fa-2x"></i></a>
       {% if site.social.mailto != nil %}<a title="{{ __('mailto') }} href="mailto:{{ site.social.mailto }}"><i class="fa fa-envelope-square fa-2x"></i></a>{% endif %}
     </div>
+    {% endcomment %}
 
-    <p>&copy; {{ site.time | date: '%Y' }}.</p>
   </div>
 </div>

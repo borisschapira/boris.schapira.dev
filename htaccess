@@ -5,7 +5,7 @@ permalink: .htaccess
 
 Redirect permanent /feed /feed.xml
 
-ErrorDocument 404 /404/
+ErrorDocument 404 /404.html
 
 #Rewriting
 RedirectMatch 301 ^/unepetitelibellule(.*)$ http://lacuisinedelibellule.fr$1

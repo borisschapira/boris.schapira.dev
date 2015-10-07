@@ -5,9 +5,20 @@ exclude: ["Gemfile", "Gemfile.lock", "vendor", "node_modules", "gulpfile.js", "r
 title: 'Boris Schapira'
 tagline: 'Life is too short to be small'
 email: borisschapira@gmail.com
-description:      'The popular <a href="http://hyde.getpoole.com/" target="_blank">Hyde theme</a> for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, now with instant-search capabilities. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a> and <a href="https://www.algolia.com/" target="_blank">Algolia</a>'
-baseurl: "" # the subpath of your site, e.g. /blog/
+description:      'Le blog personnel de Boris Schapira'
+baseurl: ""
 url: "http://borisschapira.com" # the base hostname & protocol for your site
+future: false
+show_drafts: false
+lsi: false
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 
 # Author
 name: 'Boris Schapira'
@@ -36,15 +47,22 @@ relative_permalinks: true
 paginate:         5
 
 # Tagging
-tag_page_layout: tag_page
-tag_page_dir: tag
+tag_page_layout: tag
+tag_page_dir: tags
+
+# Assets
+assets:
+  js_compressor:  uglifier
+  css_compressor: sass
+  cache: true
 
 # Algolia
 gems:
+  - jekyll-sitemap
   - algoliasearch-jekyll
   - jekyll-archives
   - jekyll-picture-tag
-  - jekyll-feed
+  - jekyll-twitter-plugin
 
 algolia:
   application_id: '97EL687MDM'
@@ -66,7 +84,7 @@ jekyll-archives:
     month: "/:year/:month/"
 
 picture:
-  source: "assets/images/_fullsize"
+  source: "_assets/images/_fullsize"
   output: "generated"
   markup: "picture"
   presets:
@@ -83,3 +101,12 @@ picture:
         width: "430"
       source_default:
         width: "320"
+
+twitter:
+  consumer_key: 9JKsWYyRs3YmutyrTCLrBRxD7
+  consumer_secret: cOsDNGzAcnCx17HYxBqkFclSD15VYsOu3mX9wuqS55ZZZCHIw9
+  access_token: 10339172-k8oQMF4cH6kSph8UXuxvMFNaMIsfmur6uarxBHhIM
+  access_token_secret: uekrSoSanv2Fk7X6T36H7RXeRCDl1cBGISeAnBjIdNvMz
+
+youtube:
+  api_key: AIzaSyCjxrXef176AuPxGHgBgi3OtkbzWkLpx70
