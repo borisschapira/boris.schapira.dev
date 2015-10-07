@@ -1,4 +1,5 @@
-exclude: ["Gemfile", "Gemfile.lock", "vendor", "node_modules", "gulpfile.js"]
+# Exlusions
+exclude: ["Gemfile", "Gemfile.lock", "vendor", "node_modules", "gulpfile.js", "rsync.sh"]
 
 # Site settings
 title: 'Boris Schapira'
@@ -7,43 +8,36 @@ email: borisschapira@gmail.com
 description:      'The popular <a href="http://hyde.getpoole.com/" target="_blank">Hyde theme</a> for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, now with instant-search capabilities. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a> and <a href="https://www.algolia.com/" target="_blank">Algolia</a>'
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://borisschapira.com" # the base hostname & protocol for your site
-twitter_username: borisschapira
-github_username:  borisschapira
 
-format_date: '%A %-d %B %Y'
-
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-
-# Permalinks
-permalink:        /:year/:month/:title
-relative_permalinks: true
-
+# Author
 name: 'Boris Schapira'
 author:
   name:           'Boris Schapira'
   url:            https://borisschapira.com/
-
-social:
   flickr: 'http://flickr.com/borisschapira'
   github: 'http://github.com/borisschapira'
   facebook: 'https://www.facebook.com/boris.schapira'
   twitter: 'http://twitter.com/borisschapira'
   linkedin: 'http://linkedin.com/in/borisschapira'
 
-# pinterest: http://pinterest.com/borisschapira
-# mailto: borisschapira@gmail.com
-# wordpress: https://profiles.wordpress.org/borisschapira-1
-# dribbble: http://dribbble.com/borisschapira
-# gplus: https://plus.google.com/+BorisSchapira
-# vimeo: https://vimeo.com/borisSchapira
-# youtube: https://youtube.com/borisSchapira
-# codepen: http://codepen.io/borisschapira
-# instagram: http://instagram.com/borisschapira
-# tumblr: http://tumblr.com/borisschapira
+# Formats
+format_date: '%A %-d %B %Y'
 
+# Writing configuration
+markdown:         kramdown
+highlighter:      rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Posts links and pagination
+permalink:        :year/:month/:title
+relative_permalinks: true
 paginate:         5
+
+# Tagging
+tag_page_layout: tag_page
+tag_page_dir: tag
 
 # Algolia
 gems:
@@ -61,27 +55,15 @@ algolia:
     - index.html
 
 jekyll-archives:
-  enabled: []
-  layout: 'archive'
+  enabled:
+    - "year"
+    - "month"
+  layouts:
+    year: "archives-year"
+    month: "archives-month"
   permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
-
-tag_page_layout: tag_page
-tag_page_dir: tag
-
-jekyll-archives:
-  enabled: []
-  layout: 'archive'
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
+    year: "/:year/"
+    month: "/:year/:month/"
 
 picture:
   source: "assets/images/_fullsize"
@@ -89,13 +71,15 @@ picture:
   markup: "picture"
   presets:
     default:
-      ppi: [1, 1.5]
-      attr:
-        class: "gallery-pict"
-        itemprop: "image"
-      source_medium:
-        media: "(min-width: 40em)"
-        width: "600"
-        height: "300"
+      ppi: [1, 2]
+      source_640:
+        media: "(min-width: 580px)"
+        width: "640"
+      source_530:
+        media: "(min-width: 470px)"
+        width: "530"
+      source_430:
+        media: "(min-width: 350px)"
+        width: "430"
       source_default:
-        width: "300"
+        width: "320"

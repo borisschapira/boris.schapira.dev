@@ -47,7 +47,7 @@ Mon code est architecturé en deux dépôts. Un dépôt contient les articles du
 
 Lorsque je réalise une modification sur cette logique applicative, une notification est envoyée à [Codeship](https://codeship.com/), une solution d'intégration continue, qui s'occupe de valider que l'ensemble de la chaîne de compilation est valide : récupération de la dernière version du code, récupération des articles inclus dans un submodule git[^4], compilation de tout cela en un site Web et quelques tests pour vérifier que tout est à la bonne place.
 
-Si cette étape d'intégration est valide et que j'ai contribué du code sur la branche <i lang="en">master</i>, alors [Codeship](https://codeship.com/) s'occupe du déploiement du site statique ainsi généré chez mon hébergeur, <a href="https://www.alwaysdata.com/">alwaysdata</a>.
+Si cette étape d'intégration est valide et que j'ai contribué du code sur la branche <i lang="en">master</i>, alors [Codeship](https://codeship.com/) s'occupe du déploiement du site statique ainsi généré chez mon hébergeur, <a href="https://www.alwaysdata.com/">alwaysdata</a>. Le dernier déploiement a été réalisé le {{ site.time | localize: '%A %-d %B %Y' }}.
 
 [^3]: Lire à ce propos [cet excellent article de Romy sur les syntaxes légères](http://romy.tetue.net/syntaxes-legeres-pour-rediger)
 
