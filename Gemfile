@@ -13,8 +13,7 @@ group :jekyll_plugins do
   gem 'jekyll-archives'
   gem 'jekyll-tagging'
 # Assets
-  gem "jekyll-assets"
-  gem "autoprefixer-rails"
+  gem "octopress-autoprefixer"
 # Picture tag
   gem 'jekyll-picture-tag', '~> 0.2.3'
 # Twitter
