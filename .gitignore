@@ -2,7 +2,7 @@ _site
 .sass-cache
 .tweet-cache
 .bundle
-vendor/
+/vendor/
 rsync.sh
 _algolia_api_key
 .jekyll-assets-cache
