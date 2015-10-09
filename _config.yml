@@ -1,5 +1,5 @@
 # Exlusions
-exclude: ["Gemfile", "Gemfile.lock", "vendor", "node_modules", "gulpfile.js", "rsync.sh"]
+exclude: ["Gemfile", "Gemfile.lock", "vendor", "node_modules", "gulpfile.js", "rsync.sh", "autoprefixer.yml"]
 
 # Site settings
 title: 'Boris Schapira'

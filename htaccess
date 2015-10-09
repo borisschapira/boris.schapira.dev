@@ -50,7 +50,7 @@ SetEnv TZ Europe/Paris
 
 # BEGIN CSP AND CLICKJACKING AND XSS AND NOSNIFF
 <IfModule mod_headers.c>
-# Header set Content-Security-Policy "default-src 'none'; font-src 'self'; script-src 'unsafe-inline' 'self' www.google-analytics.com ajax.googleapis.com cdn.jsdelivr.net; connect-src 'self' *.algolia.net *.algolianet.com; img-src 'self' borisschapira.com www.gravatar.com www.google-analytics.com; style-src 'unsafe-inline' 'self';"
+Header set Content-Security-Policy-Report-Only "default-src 'none'; font-src 'self'; script-src 'unsafe-inline' 'self' www.google-analytics.com ajax.googleapis.com cdn.jsdelivr.net borisschapira.com; connect-src 'self' *.algolia.net *.algolianet.com; img-src 'self' borisschapira.com www.gravatar.com www.google-analytics.com; style-src 'unsafe-inline' 'self'; report-uri /csp-parser.php ;"
 Header set X-XSS-Protection "1; mode=block"
 Header always set X-Content-Type-Options "nosniff"
 Header set X-UA-Compatible "IE=Edge,chrome=1"
