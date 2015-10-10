@@ -1,13 +1,15 @@
 # Exlusions
 exclude: ["Gemfile", "Gemfile.lock", "vendor", "node_modules", "gulpfile.js", "rsync.sh", "autoprefixer.yml"]
+include: [".well-known"]
 
 # Site settings
 title: 'Boris Schapira'
 tagline: 'Life is too short to be small'
 email: borisschapira@gmail.com
-description:      'Le blog personnel de Boris Schapira'
+description:      'Blog personnel de Boris Schapira'
 baseurl: ""
-url: "http://borisschapira.com" # the base hostname & protocol for your site
+url: "http://borisschapira.com"
+lang: fr
 
 # Author
 name: 'Boris Schapira'
@@ -19,6 +21,7 @@ author:
   facebook: 'https://www.facebook.com/boris.schapira'
   twitter: 'http://twitter.com/borisschapira'
   linkedin: 'http://linkedin.com/in/borisschapira'
+  feed: 'http://borisschapira.com/feed.xml'
 
 # Formats
 format_date: '%A %-d %B %Y'

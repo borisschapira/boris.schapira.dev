@@ -29,28 +29,24 @@
       {% endfor %}
     </nav>
 
-    {% comment %}
     <div id="follow-icons">
-    	{% if site.social.wordpress != nil %}
-        <a title="Suivez-moi sur Wordpress" href="{{ site.social.wordpress }}"><i class="fa fa-wordpress fa-2x"></i></a>
-      {% endif %}
-      {% if site.social.dribbble != nil %}<a title="{{ __('follow_me') }} Dribble" href="{{ site.social.dribbble }}"><i class="fa fa-dribbble fa-2x"></i></a>{% endif %}
-      {% if site.social.gplus != nil %}<a title="{{ __('follow_me') }} Google Plus" href="{{ site.social.gplus }}"><i class="fa fa-google-plus-square fa-2x"></i></a>{% endif %}
-      {% if site.social.vimeo != nil %}<a title="{{ __('follow_me') }} Vimeo" href="{{ site.social.vimeo }}"><i class="fa fa-vimeo-square fa-2x"></i></a>{% endif %}
-      {% if site.social.youtube != nil %}<a title="{{ __('follow_me') }} Youtube" href="{{ site.social.youtube }}"><i class="fa fa-youtube-square fa-2x"></i></a>{% endif %}
-      {% if site.social.codepen != nil %}<a title="{{ __('follow_me') }} Codepen" href="{{ site.social.codepen }}"><i class="fa fa-codepen fa-2x"></i></a>{% endif %}
-      {% if site.social.instagram != nil %}<a title="{{ __('follow_me') }} Instagram" href="{{ site.social.instagram }}"><i class="fa fa-instagram fa-2x"></i></a>{% endif %}
-      {% if site.social.tumblr != nil %}<a title="{{ __('follow_me') }} Tumblr" href="{{ site.social.tumblr }}"><i class="fa fa-tumblr-square fa-2x"></i></a>{% endif %}
-      {% if site.social.flickr != nil %}<a title="{{ __('follow_me') }} Flickr" href="{{ site.social.flickr }}"><i class="fa fa-flickr fa-2x"></i></a>{% endif %}
-      {% if site.social.pinterest != nil %}<a title="{{ __('follow_me') }} Pinterest" href="{{ site.social.pinterest }}"><i class="fa fa-pinterest-square fa-2x"></i></a>{% endif %}
-      {% if site.social.github != nil %}<a title="{{ __('follow_me') }} Github" href="{{ site.social.github }}"><i class="fa fa-github-square fa-2x"></i></a>{% endif %}
-      {% if site.social.facebook != nil %}<a title="{{ __('follow_me') }} Facebook" href="{{ site.social.facebook }}"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
-      {% if site.social.twitter != nil %}<a title="{{ __('follow_me') }} Twitter" href="{{ site.social.twitter }}"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
-      {% if site.social.linkedin != nil %}<a title="{{ __('follow_me') }} LinkedIn" href="{{ site.social.linkedin }}"><i class="fa fa-linkedin-square fa-2x"></i></a>{% endif %}
-      <a title="{{ __('subscribe_rss') }}" href="/feed.xml"><i class="fa fa-rss-square fa-2x"></i></a>
-      {% if site.social.mailto != nil %}<a title="{{ __('mailto') }} href="mailto:{{ site.social.mailto }}"><i class="fa fa-envelope-square fa-2x"></i></a>{% endif %}
+    	{% if site.author.wordpress != nil %}<a title="Suivez-moi sur Wordpress" href="{{ site.author.wordpress }}"><i class="icon-wordpress"></i></a>{% endif %}
+      {% if site.author.dribbble != nil %}<a title="Suivez-moi sur Dribble" href="{{ site.author.dribbble }}"><i class="icon-dribbble"></i></a>{% endif %}
+      {% if site.author.gplus != nil %}<a title="Suivez-moi sur Google Plus" href="{{ site.author.gplus }}"><i class="icon-gplus"></i></a>{% endif %}
+      {% if site.author.vimeo != nil %}<a title="Suivez-moi sur Vimeo" href="{{ site.author.vimeo }}"><i class="icon-vimeo"></i></a>{% endif %}
+      {% if site.author.youtube != nil %}<a title="Suivez-moi sur Youtube" href="{{ site.author.youtube }}"><i class="icon-youtube"></i></a>{% endif %}
+      {% if site.author.codepen != nil %}<a title="Suivez-moi sur Codepen" href="{{ site.author.codepen }}"><i class="icon-codepen"></i></a>{% endif %}
+      {% if site.author.instagram != nil %}<a title="Suivez-moi sur Instagram" href="{{ site.author.instagram }}"><i class="icon-instagram"></i></a>{% endif %}
+      {% if site.author.tumblr != nil %}<a title="Suivez-moi sur Tumblr" href="{{ site.author.tumblr }}"><i class="icon-tumblr"></i></a>{% endif %}
+      {% if site.author.flickr != nil %}<a title="Suivez-moi sur Flickr" href="{{ site.author.flickr }}"><i class="icon-flickr"></i></a>{% endif %}
+      {% if site.author.pinterest != nil %}<a title="Suivez-moi sur Pinterest" href="{{ site.author.pinterest }}"><i class="icon-pinterest"></i></a>{% endif %}
+      {% if site.author.github != nil %}<a title="Suivez-moi sur Github" href="{{ site.author.github }}"><i class="icon-github"></i></a>{% endif %}
+      {% if site.author.facebook != nil %}<a title="Suivez-moi sur Facebook" href="{{ site.author.facebook }}"><i class="icon-facebook"></i></a>{% endif %}
+      {% if site.author.twitter != nil %}<a title="Suivez-moi sur Twitter" href="{{ site.author.twitter }}"><i class="icon-twitter"></i></a>{% endif %}
+      {% if site.author.linkedin != nil %}<a title="Suivez-moi sur LinkedIn" href="{{ site.author.linkedin }}"><i class="icon-linkedin"></i></a>{% endif %}
+      {% if site.author.feed != nil %}<a title="Abonnez-vous au flux" href="/feed.xml"><i class="icon-feed"></i></a>{% endif %}
+      {% if site.author.mailto != nil %}<a title="Ecrivez-moi !" href="mailto:{{ site.author.mailto }}"><i class="icon-mail"></i></a>{% endif %}
     </div>
-    {% endcomment %}
 
   </div>
 </div>

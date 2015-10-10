@@ -1,0 +1,15 @@
+---
+layout: null
+---
+
+/* Auteur */
+Mon rôle sur ce projet: Mon nom
+Site: e-mail, lien vers un formulaire de contact, etc.
+Twitter: votre compte Twitter
+Location: Ville, Pays
+
+/* SITE */
+Last update:  {{ site.time | date:'%Y/%m/%d' }}
+Standards: HTML5, CSS3, JS ES2015
+Components: Modernizr, jQuery, etc.
+Software: Jekyll

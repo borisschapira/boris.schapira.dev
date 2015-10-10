@@ -7,15 +7,6 @@
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-  <meta name="theme-color" content="#f1b6d3">
-
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
-  </title>
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
@@ -36,4 +27,68 @@
   <meta name="twitter:creator" content="@borisschapira" />
   <meta name="twitter:site" content="@borisschapira.com" />
 
+  {% if page.title == "Accueil" %}
+    <title itemprop="name">{{ site.title }} &middot; {{ site.tagline }}</title>
+    <link rel="canonical" href="{{ site.url }}" itemprop="url" />
+    <meta name="description" content="{{ site.description }}" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ site.title }} &middot; {{ site.tagline }}" />
+  {% else %}
+    {% if page.type == "year" %}
+      <title>{{ site.title }} &middot; année {{ page.date | localize: "%Y" }}</title>
+      <meta name="description" content="Billets publiés en {{ page.date | localize: "%Y" }}" />
+      <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="{{ site.title }} &middot; année {{ page.date | localize: "%Y" }}" />
+    {% else %}
+      {% if page.type == "month" %}
+        <title>{{ site.title }} &middot; {{ page.date | localize: '%B %Y' }}</title>
+        <meta name="description" content="Billets publiés en {{ page.date | localize: '%B %Y'  }}" />
+        <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="{{ site.title }} &middot; {{ page.date | localize: '%B %Y' }}" />
+      {% else %}
+        {% if page.tag %}
+          <title>{{ page.tag }} &middot; {{ site.title }}</title>
+          <meta name="description" content="Billets classés dans « {{ page.tag }} »" />
+          <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+          <meta property="og:type" content="website" />
+          <meta property="og:title" content="{{ page.tag }} &middot; {{ site.title }}" />
+        {% else %}
+          <title>{{ page_title }} &middot; {{ site.title }}</title>
+          <meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 200 | strip_newlines | escape_once }}" />
+          <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+          <meta property="og:type" content="article" />
+          <meta property="og:title" content="{{ page_title }} &middot; {{ site.title }}" />
+          <meta property="article:author" content="https://www.facebook.com/borisschapira" />
+          {% for tag in page.tags %}
+            <meta property="article:tag" content="{{ tag }}" />
+          {% endfor %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+
+  <!-- Real favicon generator -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png?v=Jyy6g5Wmnw">
+  <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png?v=Jyy6g5Wmnw">
+  <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png?v=Jyy6g5Wmnw">
+  <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png?v=Jyy6g5Wmnw">
+  <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png?v=Jyy6g5Wmnw">
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png?v=Jyy6g5Wmnw">
+  <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png?v=Jyy6g5Wmnw">
+  <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png?v=Jyy6g5Wmnw">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png?v=Jyy6g5Wmnw">
+  <link rel="icon" type="image/png" href="/favicon-32x32.png?v=Jyy6g5Wmnw" sizes="32x32">
+  <link rel="icon" type="image/png" href="/android-chrome-192x192.png?v=Jyy6g5Wmnw" sizes="192x192">
+  <link rel="icon" type="image/png" href="/favicon-96x96.png?v=Jyy6g5Wmnw" sizes="96x96">
+  <link rel="icon" type="image/png" href="/favicon-16x16.png?v=Jyy6g5Wmnw" sizes="16x16">
+  <link rel="manifest" href="/manifest.json?v=Jyy6g5Wmnw">
+  <link rel="shortcut icon" href="/favicon.ico?v=Jyy6g5Wmnw">
+  <meta name="apple-mobile-web-app-title" content="BorisSchapira.com">
+  <meta name="application-name" content="BorisSchapira.com">
+  <meta name="msapplication-TileColor" content="#d00b6d">
+  <meta name="msapplication-TileImage" content="/mstile-144x144.png?v=Jyy6g5Wmnw">
+  <meta name="theme-color" content="#d00b6d">
 </head>
