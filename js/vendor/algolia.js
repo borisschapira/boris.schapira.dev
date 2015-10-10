@@ -6,6 +6,8 @@ layout: null
 $(function(config) {
   'use strict';
 
+  moment.locale('fr');
+
   var applicationId = config.applicationId;
   var apiKey = config.apiKey;
   var indexName = config.indexName;
@@ -17,12 +19,6 @@ $(function(config) {
 
   // Input listening for queries
   var $searchInput = $('.js-algolia__input');
-
-  var searchQuery = getParameterByName('query') || getParameterByName('s');
-	if (searchQuery) {
-		$searchInput.val(searchQuery);
-    onQueryChange();
-	}
 
   var delay = (function() {
     var timer = 0;
@@ -139,7 +135,12 @@ $(function(config) {
     }
   }, 100);
 
-
+  var searchQuery = getParameterByName('query') || getParameterByName('s');
+  if (searchQuery) {
+    $searchInput.val(searchQuery);
+    onQueryChange();
+  }
+  
 }({
   'applicationId': '{{ site.algolia.application_id }}',
   'indexName': '{{ site.algolia.index_name }}',
