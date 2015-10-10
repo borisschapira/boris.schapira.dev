@@ -2,13 +2,6 @@
 layout: null
 ---
 
-window.ALGOLIA_CONFIG = {
-  'applicationId': '{{ site.algolia.application_id }}',
-  'indexName': '{{ site.algolia.index_name }}',
-  'apiKey': '{{ site.algolia.read_only_api_key }}',
-  'baseurl': '{{ site.baseurl }}'
-}
-
 // Init the search box
 $(function(config) {
   'use strict';
@@ -133,4 +126,9 @@ $(function(config) {
   }, 100);
 
 
-}(window.ALGOLIA_CONFIG));
+}({
+  'applicationId': '{{ site.algolia.application_id }}',
+  'indexName': '{{ site.algolia.index_name }}',
+  'apiKey': '{{ site.algolia.read_only_api_key }}',
+  'baseurl': '{{ site.baseurl }}'
+}));

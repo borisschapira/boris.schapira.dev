@@ -9,7 +9,7 @@
       <p class="lead">{{ site.tagline }}</p>
     </div>
 
-    <input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Recherche" title="Recherche" />
+    <input type="text" class="js algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Recherche" title="Recherche" />
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Accueil</a>
@@ -30,22 +30,54 @@
     </nav>
 
     <div id="follow-icons">
-    	{% if site.author.wordpress != nil %}<a title="Suivez-moi sur Wordpress" href="{{ site.author.wordpress }}"><i class="icon-wordpress"></i></a>{% endif %}
-      {% if site.author.dribbble != nil %}<a title="Suivez-moi sur Dribble" href="{{ site.author.dribbble }}"><i class="icon-dribbble"></i></a>{% endif %}
-      {% if site.author.gplus != nil %}<a title="Suivez-moi sur Google Plus" href="{{ site.author.gplus }}"><i class="icon-gplus"></i></a>{% endif %}
-      {% if site.author.vimeo != nil %}<a title="Suivez-moi sur Vimeo" href="{{ site.author.vimeo }}"><i class="icon-vimeo"></i></a>{% endif %}
-      {% if site.author.youtube != nil %}<a title="Suivez-moi sur Youtube" href="{{ site.author.youtube }}"><i class="icon-youtube"></i></a>{% endif %}
-      {% if site.author.codepen != nil %}<a title="Suivez-moi sur Codepen" href="{{ site.author.codepen }}"><i class="icon-codepen"></i></a>{% endif %}
-      {% if site.author.instagram != nil %}<a title="Suivez-moi sur Instagram" href="{{ site.author.instagram }}"><i class="icon-instagram"></i></a>{% endif %}
-      {% if site.author.tumblr != nil %}<a title="Suivez-moi sur Tumblr" href="{{ site.author.tumblr }}"><i class="icon-tumblr"></i></a>{% endif %}
-      {% if site.author.flickr != nil %}<a title="Suivez-moi sur Flickr" href="{{ site.author.flickr }}"><i class="icon-flickr"></i></a>{% endif %}
-      {% if site.author.pinterest != nil %}<a title="Suivez-moi sur Pinterest" href="{{ site.author.pinterest }}"><i class="icon-pinterest"></i></a>{% endif %}
-      {% if site.author.github != nil %}<a title="Suivez-moi sur Github" href="{{ site.author.github }}"><i class="icon-github"></i></a>{% endif %}
-      {% if site.author.facebook != nil %}<a title="Suivez-moi sur Facebook" href="{{ site.author.facebook }}"><i class="icon-facebook"></i></a>{% endif %}
-      {% if site.author.twitter != nil %}<a title="Suivez-moi sur Twitter" href="{{ site.author.twitter }}"><i class="icon-twitter"></i></a>{% endif %}
-      {% if site.author.linkedin != nil %}<a title="Suivez-moi sur LinkedIn" href="{{ site.author.linkedin }}"><i class="icon-linkedin"></i></a>{% endif %}
-      {% if site.author.feed != nil %}<a title="Abonnez-vous au flux" href="/feed.xml"><i class="icon-feed"></i></a>{% endif %}
-      {% if site.author.mailto != nil %}<a title="Ecrivez-moi !" href="mailto:{{ site.author.mailto }}"><i class="icon-mail"></i></a>{% endif %}
+    	{% if site\.author\.wordpress != nil %}
+<a title="Suivez-moi sur Wordpress" href="{{ site.author.wordpress }}"><svg class="icon icon-wordpress2"><use xlink:href="#icon-wordpress2"></use></svg></a>
+{% endif %}
+      {% if site\.author\.dribbble != nil %}
+<a title="Suivez-moi sur Dribble" href="{{ site.author.dribbble }}"><svg class="icon icon-dribbble2"><use xlink:href="#icon-dribbble2"></use></svg></a>
+{% endif %}
+      {% if site\.author\.gplus != nil %}
+<a title="Suivez-moi sur Google Plus" href="{{ site.author.gplus }}"><svg class="icon icon-google-plus2"><use xlink:href="#icon-google-plus2"></use></svg></a>
+{% endif %}
+      {% if site\.author\.vimeo != nil %}
+<a title="Suivez-moi sur Vimeo" href="{{ site.author.vimeo }}"><svg class="icon icon-vimeo2"><use xlink:href="#icon-vimeo2"></use></svg></a>
+{% endif %}
+      {% if site\.author\.youtube != nil %}
+<a title="Suivez-moi sur Youtube" href="{{ site.author.youtube }}"><svg class="icon icon-youtube3"><use xlink:href="#icon-youtube3"></use></svg></a>
+{% endif %}
+      {% if site\.author\.codepen != nil %}
+<a title="Suivez-moi sur Codepen" href="{{ site.author.codepen }}"><svg class="icon icon-codepen"><use xlink:href="#icon-codepen"></use></svg></a>
+{% endif %}
+      {% if site\.author\.instagram != nil %}
+<a title="Suivez-moi sur Instagram" href="{{ site.author.instagram }}"><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg></a>
+{% endif %}
+      {% if site\.author\.tumblr != nil %}
+<a title="Suivez-moi sur Tumblr" href="{{ site.author.tumblr }}"><svg class="icon icon-tumblr2"><use xlink:href="#icon-tumblr2"></use></svg></a>
+{% endif %}
+      {% if site\.author\.flickr != nil %}
+<a title="Suivez-moi sur Flickr" href="{{ site.author.flickr }}"><svg class="icon icon-flickr3"><use xlink:href="#icon-flickr3"></use></svg></a>
+{% endif %}
+      {% if site\.author\.pinterest != nil %}
+<a title="Suivez-moi sur Pinterest" href="{{ site.author.pinterest }}"><svg class="icon icon-pinterest2"><use xlink:href="#icon-pinterest2"></use></svg></a>
+{% endif %}
+      {% if site\.author\.github != nil %}
+<a title="Suivez-moi sur Github" href="{{ site.author.github }}"><svg class="icon icon-github4"><use xlink:href="#icon-github4"></use></svg></a>
+{% endif %}
+      {% if site\.author\.facebook != nil %}
+<a title="Suivez-moi sur Facebook" href="{{ site.author.facebook }}"><svg class="icon icon-facebook2"><use xlink:href="#icon-facebook2"></use></svg></a>
+{% endif %}
+      {% if site\.author\.twitter != nil %}
+<a title="Suivez-moi sur Twitter" href="{{ site.author.twitter }}"><svg class="icon icon-twitter2"><use xlink:href="#icon-twitter2"></use></svg></a>
+{% endif %}
+      {% if site\.author\.linkedin != nil %}
+<a title="Suivez-moi sur LinkedIn" href="{{ site.author.linkedin }}"><svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg></a>
+{% endif %}
+      {% if site\.author\.feed != nil %}
+<a title="Abonnez-vous au flux" href="/feed.xml"><svg class="icon icon-feed3"><use xlink:href="#icon-feed3"></use></svg></a>
+{% endif %}
+      {% if site\.author\.mailto != nil %}
+<a title="Ecrivez-moi !" href="mailto:{{ site.author.mailto }}"><svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg></a>
+{% endif %}
     </div>
 
   </div>

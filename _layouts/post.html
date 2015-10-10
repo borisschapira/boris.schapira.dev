@@ -2,11 +2,13 @@
 layout: default
 ---
 
-<div class="post">
+<div id="content" class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | localize: '%A %-d %B %Y' }}</span>
   {{ content }}
 </div>
+
+{% include elevator.html %}
 
 <div class="related">
   <h2>Ces articles peuvent également vous intéresser :</h2>
