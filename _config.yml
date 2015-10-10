@@ -76,7 +76,7 @@ jekyll-archives:
 
 picture:
   source: "_assets/images/_fullsize"
-  output: "generated"
+  output: "img"
   markup: "picture"
   presets:
     default:
