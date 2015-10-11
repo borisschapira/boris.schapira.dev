@@ -121,7 +121,7 @@ GEM
     ruby-nuggets (1.0.0)
       nuggets (= 1.0.0)
     safe_yaml (1.0.4)
-    sass (3.4.18)
+    sass (3.4.19)
     simple_oauth (0.3.1)
     subexec (0.2.3)
     thread_safe (0.3.5)
@@ -147,7 +147,7 @@ GEM
       unf_ext
     unf_ext (0.0.7.1)
     yajl-ruby (1.2.1)
-    yt (0.25.8)
+    yt (0.25.9)
       activesupport
 
 PLATFORMS
@@ -162,6 +162,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-tagging
   jekyll-twitter-plugin
+  kramdown
   octopress-autoprefixer
   rouge
   sass

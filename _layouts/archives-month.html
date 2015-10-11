@@ -17,12 +17,12 @@ layout: default
 
     {% if post.content contains "<!-- more -->" %}
       {{ post.content | split:"<!-- more -->" | first % }}
-      <p>
-        <a href="{{ site.baseurl }}{{ post.url }}">Lire la suite →</a>
-      </p>
     {% else %}
-      {{ post.content }}
+      {{ post.excerpt | markdownify }}
     {% endif %}
+    <p>
+      <a href="{{ site.baseurl }}{{ post.url }}">Lire la suite →</a>
+    </p>
   </div>
   {% endfor %}
 </div>

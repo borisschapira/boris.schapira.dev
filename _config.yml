@@ -27,12 +27,12 @@ author:
 format_date: '%A %-d %B %Y'
 
 # Writing configuration
-markdown:         kramdown
-highlighter:      rouge
+markdown:    kramdown
+highlighter: rouge
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  smart_quotes:  ["lsquo", "rsquo", "ldquo", "rdquo"]
 
 # Posts links and pagination
 permalink:        :year/:month/:title
