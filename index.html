@@ -6,39 +6,79 @@ title: Home
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
+
+    <span class="post-date">{{ post.date | localize: '%A %-d %B %Y' }}</span>
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
-
-    <span class="post-date">{{ post.date | localize: '%A %-d %B %Y' }}</span>
-
-    {% if post.content contains "<!-- more -->" %}
-      {{ post.content | split:"<!-- more -->" | first % }}
-      <p>
-        <a href="{{ site.baseurl }}{{ post.url }}">Lire la suite →</a>
-      </p>
-    {% else %}
-      {{ post.content }}
-    {% endif %}
+    <div class="post-content">
+      {% if post.content contains "<!-- more -->" %}
+        {{ post.content | split:"<!-- more -->" | first % }}
+        <p>
+          <a href="{{ site.baseurl }}{{ post.url }}">Lire la suite →</a>
+        </p>
+      {% else %}
+        {{ post.content }}
+      {% endif %}
+    </div>
   </div>
   {% endfor %}
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Plus anciens</a>
-  {% else %}
-    <span class="pagination-item older">Plus anciens</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Plus récents</a>
+{% if paginator.total_pages > 1 %}
+  <ul class="pagination">
+    {% if paginator.previous_page %}
+      {% if paginator.previous_page == 1 %}
+        <li><a href="/">&laquo;</a></li>
+      {% else %}
+        <li><a href="/{{paginator.previous_page}}">&laquo;</a></li>
+      {% endif %}
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Plus récents</a>
+      <li class="disabled">&laquo;</li>
     {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Plus récents</span>
-  {% endif %}
-</div>
+
+    {% if paginator.page == 1 %}
+      <li><strong>1</strong></li>
+    {% else %}
+      <li><a href="/">1</a></li>
+    {% endif %}
+
+    {% assign page_start = 2 %}
+    {% if paginator.page > 5 %}
+      {% assign page_start = paginator.page | minus: 2 %}
+      <li class="disabled">…</li>
+    {% endif %}
+
+    {% assign page_end = paginator.total_pages | minus: 1 %}
+    {% assign to_end = paginator.total_pages | minus: paginator.page %}
+    {% if to_end > 4 %}
+      {% assign page_end = paginator.page | plus: 2 %}
+    {% endif %}
+
+    {% for index in (page_start..page_end) %}
+      {% if index == paginator.page %}
+        <li><strong>{{index}}</strong></li>
+      {% else %}
+        <li><a href="/{{index}}">{{index}}</a></li>
+      {% endif %}
+    {% endfor %}
+
+    {% if to_end > 4 %}
+      <li class="disabled">…</li>
+    {% endif %}
+
+    {% if paginator.page == paginator.total_pages %}
+      <li><strong>{{paginator.page}}</strong></li>
+    {% else %}
+      <li><a href="/{{paginator.total_pages}}">{{paginator.total_pages}}</a></li>
+    {% endif %}
+
+    {% if paginator.next_page %}
+      <li><a href="/{{paginator.next_page}}">&raquo;</a></li>
+    {% else %}
+      <li class="disabled">&raquo;</li>
+    {% endif %}
+  </ul>
+{% endif %}

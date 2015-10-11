@@ -32,11 +32,13 @@ highlighter:      rouge
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  smart_quotes:  ["lsquo", "rsquo", "ldquo", "rdquo"]
 
 # Posts links and pagination
 permalink:        :year/:month/:title
 relative_permalinks: true
-paginate:         5
+paginate:            5
+paginate_path:       "/:num/"
 
 # Tagging
 tag_page_layout: tag

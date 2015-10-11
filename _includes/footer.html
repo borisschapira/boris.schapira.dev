@@ -1,10 +1,10 @@
 <script id="algolia__template" type="text/template">
 {% raw %}
   <div class="algolia__result">
-    <a class="algolia__result-link" href="{{ full_url }}#algolia:{{ css_selector }}">{{{ _highlightResult.title.value }}}</a>
     {{#posted_at}}
     <div class="algolia__result-date">{{ posted_at_readable }}</div>
     {{/posted_at}}
+    <a class="algolia__result-link" href="{{ full_url }}#algolia:{{ css_selector }}">{{{ _highlightResult.title.value }}}</a>
     <div class="algolia__result-text">{{{ _highlightResult.text.value }}}</div>
   </div>
 {% endraw %}
@@ -26,7 +26,7 @@
 <script src="//cdn.jsdelivr.net/algoliasearch.helper/2.1.0/algoliasearch.helper.min.js"></script>
 <script src="//cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js"></script>
 <script src="//cdn.jsdelivr.net/momentjs/2.10.3/moment.min.js"></script>
-<script src="{{ site.baseurl }}/js/vendor/algolia.js"></script>
 <script src="{{ site.baseurl }}/js/vendor/elevator.min.js"></script>
-<script src="{{ site.baseurl }}/js/elevator.js"></script>
+<script src="{{ site.baseurl }}/js/behaviour.js"></script>
+<script src="{{ site.baseurl }}/js/vendor/algolia.js"></script>
 <script src="{{ site.baseurl }}/js/analytics.js"></script>

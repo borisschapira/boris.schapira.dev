@@ -1,11 +1,13 @@
+$color-fuschia: #d00b6d;
+
 /* Fuschia */
 .theme-base-0g {
   .sidebar {
-    background-color: #d00b6d;
+    background-color: $color-fuschia;
   }
   .content a,
   .related-posts li a:hover {
-    color: #d00b6d;
+    color: $color-fuschia;
   }
 }
 
@@ -17,5 +19,105 @@
   text-align: center;
   a {
     cursor: pointer;
+  }
+}
+
+/* Meta data line below post title */
+.post-date {
+  margin-bottom: 0;
+}
+
+.post-content {
+  h2:first-child {
+  	font-style: italic;
+  	font-weight: normal;
+  	font-size: 1.6em;
+  	line-height: 1.2em;
+  	margin-top: -0.3em;
+  	margin-bottom: 1em;
+  	letter-spacing: 0;
+  }
+
+  blockquote {
+    font-size: 1.1rem;
+    border-left: .25rem solid $color-fuschia;
+
+    cite {
+      font-size: 1rem;
+      margin-top: 1em;
+      display: block;
+    }
+    
+  }
+
+  li {
+    margin: 1rem 0;
+  }
+}
+
+/* Pagination HTML & CSS code from nhoizey */
+.pagination {
+  font-size: 1.2em;
+  margin: 3em auto;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+
+  li {
+    flex-grow: 1;
+    text-align: center;
+
+    &.dist1, &.dist2, &.dist3, &.extreme {
+      display: none;
+    }
+
+    @media (min-width: 20em) {
+      &.extreme {
+        display: block;
+      }
+
+      &.ellipsis1 {
+        display: none;
+      }
+    }
+
+    @media (min-width: 25em) {
+      &.dist1 {
+        display: block;
+      }
+
+      &.ellipsis2 {
+        display: none;
+      }
+    }
+
+    @media (min-width: 30em) {
+      &.dist2 {
+        display: block;
+      }
+
+      &.ellipsis3 {
+        display: none;
+      }
+    }
+
+    a, strong, &.disabled {
+      padding: .1em .3em;
+      border: 2px solid #fff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      border-color: $color-fuschia;
+    }
+
+    strong {
+      font-weight: 400;
+      background-color: $color-fuschia;
+      border-color: $color-fuschia;
+      color: #fff;
+    }
   }
 }
