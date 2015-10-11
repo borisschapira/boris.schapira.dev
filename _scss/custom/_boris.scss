@@ -47,11 +47,28 @@ $color-fuschia: #d00b6d;
       margin-top: 1em;
       display: block;
     }
-    
+
   }
 
   li {
     margin: 1rem 0;
+  }
+
+  figure {
+
+  	picture, img {
+  		margin-left: auto;
+  		margin-right: auto;
+  		max-width: 100%;
+  	}
+
+  	figcaption {
+      margin-left: auto;
+  		margin-right: auto;
+      font-style: italic;
+      max-width: 80%;
+      text-align: center;
+  	}
   }
 }
 

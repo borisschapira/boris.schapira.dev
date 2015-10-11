@@ -59,7 +59,7 @@ gems:
 
 algolia:
   application_id: '97EL687MDM'
-  index_name: 'jekyll_dev'
+  index_name: 'jekyll'
   read_only_api_key: '45e74dfb46facf8ee7f3038c305a9a7e'
   excluded_files:
     - 404.html
@@ -77,8 +77,8 @@ jekyll-archives:
     month: "/:year/:month/"
 
 picture:
-  source: "_assets/images/_fullsize"
-  output: "img"
+  source: "assets/images"
+  output: "assets/images/generated"
   markup: "picture"
   presets:
     default:

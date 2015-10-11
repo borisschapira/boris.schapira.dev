@@ -36,6 +36,8 @@ Celui-ci est complété, via [Bundler](http://bundler.io/), par plusieurs gems R
 
 [^2]: La technique de localisation est détaillée dans le [guide de démarrage Jekyll de Thomas Brelet](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/#localiser-jekyll).
 
+Jekyll ayant tendance à produire du code HTML très "aéré" et aucun moteur de rendu Markdown ne m'ayant convaincu quant à sa capacité à traité certaines spécificités typographiques françaises, j'ai suivi mis en place un script de remplacement et de compression, libre adaptation de [ce tutoriel de Sylvain Durand](https://www.sylvaindurand.org/ameliorer-la-typographie-avec-jekyll/ "Améliorer la typographie avec Jekyll").
+
 La recherche instantanée est le fruit du branchement du site sur [Algolia](https://www.algolia.com/), une solution très performante d'indexation et de recherche côté client qui a le mérite de proposer un [exemple d'implémentation pour Jekyll](https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/ "Add instant search to your blog or documentation using our Jekyll plugin") qui cadrait parfaitement avec mon besoin.
 
 En local, j'utilise également [node](https://nodejs.org/), et plus particulièrement [gulp](http://gulpjs.com/) et [browsersync](http://www.browsersync.io/), pour que mon navigateur se mette seul à jour au fil de mes sauvegardes[^5].
