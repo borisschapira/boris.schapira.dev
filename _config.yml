@@ -6,7 +6,7 @@ include: [".well-known"]
 title: 'Boris Schapira'
 tagline: 'Life is too short to be small'
 email: borisschapira@gmail.com
-description:      'Blog personnel de Boris Schapira'
+description: "Blog personnel de Boris Schapira"
 baseurl: ""
 url: "http://borisschapira.com"
 lang: fr
