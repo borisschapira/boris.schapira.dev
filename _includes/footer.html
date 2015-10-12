@@ -30,3 +30,12 @@
 <script src="{{ site.baseurl }}/js/behaviour.js"></script>
 <script src="{{ site.baseurl }}/js/vendor/algolia.js"></script>
 <script src="{{ site.baseurl }}/js/analytics.js"></script>
+{% if site.eu_cookie_law.active %}
+<div id="cookies-monster" class="hidden">
+  Ce site utilise des cookies.  {% if site.eu_cookie_law.more_url %}<span class="more"><a href="{{ site.eu_cookie_law.more_url }}">En savoir plus</a> ou {% endif %}<button
+    class="cookies-monster-accepted"
+    href="#cookies-monster"
+  >Accepter</button></span>
+</div>
+<script type="text/javascript" src="{{ site.baseurl }}/js/vendor/cookies-monster.js"></script>
+{% endif %}
