@@ -138,3 +138,9 @@ $color-fuschia: #d00b6d;
     }
   }
 }
+
+#tag-cloud {
+  @for $i from 1 through 50 {
+    .set-#{$i} { font-size: (0.7 + 0.1 * $i) * 1rem; }
+  }
+}

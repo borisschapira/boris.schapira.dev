@@ -69,6 +69,18 @@ algolia:
   excluded_files:
     - 404.html
     - index.html
+  settings:
+    attributesToIndex:
+      - title
+      - h1
+      - h2
+      - h3
+      - h4
+      - h5
+      - h6
+      - unordered(text)
+      - unordered(tags)
+      - unordered(slug)
 
 jekyll-archives:
   enabled:
