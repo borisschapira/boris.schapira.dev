@@ -10,6 +10,7 @@ description: "Blog personnel de Boris Schapira"
 baseurl: ""
 url: "http://borisschapira.com"
 lang: fr
+mainColor: '#d00b6d'
 
 # Author
 name: 'Boris Schapira'
@@ -48,6 +49,7 @@ paginate_path:       "/:num/"
 # Tagging
 tag_page_layout: tag
 tag_page_dir: tags
+tag_permalink_style: pretty
 
 sass:
   sass_dir: _scss

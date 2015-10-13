@@ -55,3 +55,5 @@ Si cette étape d'intégration est valide et que j'ai contribué du code sur la 
 [^3]: Lire à ce propos [cet excellent article de Romy sur les syntaxes légères](http://romy.tetue.net/syntaxes-legeres-pour-rediger)
 
 [^4]: Ne ratez pas cette [présentation complète des submodules git par Christophe Porteneuve](http://www.git-attitude.fr/2014/12/31/git-submodules/)
+
+Si tout se passe bien, alors le site se retrouve en Production. Pour en réduire la surface d'attaque par injection de code côté client, je tente d'utiliser les <em lang="en">Content Security Policies</em> en mode "rapport", c'est-à-dire sans impact pour l'utilisateur, en attendant le jour où je serais prêt à activer réellement le blocage. Si la problématique vous intéresse, je vous conseille [la lecture de ses slides lors de Paris Web 2015](http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/#/ "Content Security Policy, Nicolas Hoffmann, Paris Web 2015"). 
