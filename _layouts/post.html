@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div id="content" class="post">
-  <span class="post-date">{{ page.date | localize: '%A %-d %B %Y' }}</span>
+  <span class="post-date">{{ page.date | localize: '%A %-d' }} <a href="{{ site.baseurl }}/{{ page.date | localize: '%Y/%m' }}" title="Articles de {{ page.date | localize: '%B %Y' }}">{{ page.date | localize: '%B' }}</a> <a href="{{ site.baseurl }}/{{ page.date | localize: '%Y' }}" title="Articles de {{ page.date | localize: '%Y' }}">{{ page.date | localize: '%Y' }}</a></span>
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-content">
     {{ content }}

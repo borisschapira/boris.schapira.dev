@@ -1,4 +1,5 @@
 $color-fuschia: #d00b6d;
+$color-gray: rgb(154,154,154);
 
 /* Fuschia */
 .theme-base-0g {
@@ -6,9 +7,19 @@ $color-fuschia: #d00b6d;
     background-color: $color-fuschia;
   }
   .content a,
+  .content .post-date a:hover,
   .related-posts li a:hover {
     color: $color-fuschia;
   }
+
+  /* Meta data line below post title */
+  .post-date {
+    margin-bottom: 0;
+    a {
+      color: $color-gray;
+    }
+  }
+
 }
 
 .footnotes {
@@ -20,11 +31,6 @@ $color-fuschia: #d00b6d;
   a {
     cursor: pointer;
   }
-}
-
-/* Meta data line below post title */
-.post-date {
-  margin-bottom: 0;
 }
 
 .post-content {
@@ -69,6 +75,18 @@ $color-fuschia: #d00b6d;
       max-width: 80%;
       text-align: center;
   	}
+  }
+
+  strong {
+    color: $color-fuschia;
+  }
+
+  a {
+    text-decoration: underline;
+
+    &.reversefootnote {
+      text-decoration: none;
+    }
   }
 }
 

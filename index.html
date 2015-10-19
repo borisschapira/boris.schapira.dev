@@ -7,7 +7,7 @@ title: Accueil
   {% for post in paginator.posts %}
   <div class="post">
 
-    <span class="post-date">{{ post.date | localize: '%A %-d %B %Y' }}</span>
+    <span class="post-date">{{ post.date | localize: '%A %-d' }} <a href="{{ site.baseurl }}/{{ post.date | localize: '%Y/%m' }}" title="Articles de {{ post.date | localize: '%B %Y' }}">{{ post.date | localize: '%B' }}</a> <a href="{{ site.baseurl }}/{{ post.date | localize: '%Y' }}" title="Articles de {{ post.date | localize: '%Y' }}">{{ post.date | localize: '%Y' }}</a></span>
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}

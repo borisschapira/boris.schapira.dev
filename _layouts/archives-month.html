@@ -2,21 +2,19 @@
 layout: default
 ---
 
-<h1>{{ page.date | localize: '%B %Y' }}</h1>
+<h1>Articles publiés en {{ page.date | localize: '%B %Y' }}</h1>
 
 <div class="posts">
   {% for post in page.posts reversed %}
   <div class="post">
+    <span class="post-date">{{ post.date | localize: '%A %-d' }} {{ post.date | localize: '%B' }} <a href="{{ site.baseurl }}/{{ post.date | localize: '%Y' }}" title="Articles de {{ post.date | localize: '%Y' }}">{{ post.date | localize: '%Y' }}</a></span>
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h2>
-
-    <span class="post-date">{{ post.date | localize: '%A %-d %B %Y' }}</span>
-
     {% if post.content contains "<!-- more -->" %}
-      {{ post.content | split:"<!-- more -->" | first % }}
+      {{ post.content | split:"<!-- more -->" | first | markdownify % }}
     {% else %}
       {{ post.excerpt | markdownify }}
     {% endif %}

@@ -1,6 +1,6 @@
 # Exlusions
 exclude: ["Gemfile", "Gemfile.lock", "vendor", "node_modules", "gulpfile.js", "rsync.sh", "autoprefixer.yml"]
-include: [".well-known"]
+include: [".well-known", ".htaccess"]
 
 # Site settings
 title: 'Boris Schapira'
