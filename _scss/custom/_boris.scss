@@ -1,6 +1,13 @@
 $color-fuschia: #d00b6d;
 $color-gray: rgb(154,154,154);
 
+/* Lisibility */
+body {
+  text-rendering: optimizeSpeed;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 /* Fuschia */
 .theme-base-0g {
   .sidebar {
@@ -10,6 +17,18 @@ $color-gray: rgb(154,154,154);
   .content .post-date a:hover,
   .related-posts li a:hover {
     color: $color-fuschia;
+  }
+
+  abbr, acronym
+  {
+	  border-bottom: .1em dotted $color-fuschia;
+  }
+
+  hr {
+    color: $color-fuschia;
+    background-color: $color-fuschia;
+    border: 0;
+    height: 1px;
   }
 
   /* Meta data line below post title */
