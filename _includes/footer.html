@@ -1,3 +1,9 @@
+<footer id="footer">
+  <div class="wrap">
+    <p><small>©&nbsp;{{ 'now' | date: "%Y" }} Boris Schapira | <a href="/about.html#sous-le-capt">via Jekyll</a></small></p>
+  </div>
+</footer>
+
 <script id="algolia__template" type="text/template">
 {% raw %}
   <div class="algolia__result">
@@ -32,10 +38,10 @@
 <script src="{{ site.baseurl }}/js/analytics.js"></script>
 {% if site.eu_cookie_law.active %}
 <div id="cookies-monster" class="hidden">
-  Ce site utilise des cookies.  {% if site.eu_cookie_law.more_url %}<span class="more"><a href="{{ site.eu_cookie_law.more_url }}">En savoir plus</a> ou {% endif %}<button
+  Ce site utilise des cookies. {% if site.eu_cookie_law.more_url %}<span class="more"><a href="{{ site.eu_cookie_law.more_url }}" title="Cookies : le grand bug - Blog Temesis">En savoir plus</a>ou {% endif %}<button
     class="cookies-monster-accepted"
     href="#cookies-monster"
-  >Accepter</button></span>
+  >accepter</button></span>
 </div>
 <script type="text/javascript" src="{{ site.baseurl }}/js/vendor/cookies-monster.js"></script>
 {% endif %}

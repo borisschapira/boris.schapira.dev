@@ -1,0 +1,15 @@
+title: "Un peu de romantisme"
+date: 2007-08-24 12:30:16
+categories:
+  - Télévision
+---
+
+Comme quoi on peut faire une belle pub avec des jeunes qui s'aiment et ça fait plaisir. Par contre je préfère quand même la version rédigée à la version orale&#8230;
+
+<!-- more -->
+
+Merci à [l'équipe de com' de Clairefontaine](//www.clairefontaine.com/communication/actualites-evenements/), qui devrait penser à un partenariat avec Skyblog.
+
+<div>
+**[Pub clairefontaine](//www.dailymotion.com/video/x2tlqn_pub-clairefontaine_ads)**
+_envoyé par [PierroST](//www.dailymotion.com/PierroST)_</div>
