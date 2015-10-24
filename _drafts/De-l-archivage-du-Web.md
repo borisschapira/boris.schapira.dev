@@ -9,7 +9,7 @@ tags:
 Importante [discussion](https://twitter.com/htmlvv/status/575720039225098241) sur Twitter, suite à une prise de position récente de Jake Archibald :
 
 > Pages that are empty without JS: dead to history (archive-org), unreliable for search results (despite any search engine claims of JS support, check it yourself), and thus ignorable.
->   <cite>["js;dr = JavaScript required; Didn’t Read."](//tantek.com/2015/069/t1/js-dr-javascript-required-dead), Jake Archibald</cite>
+>   <cite>["js;dr = JavaScript required; Didn’t Read."](http://tantek.com/2015/069/t1/js-dr-javascript-required-dead), Jake Archibald</cite>
 
 Cette prise de position clairement opposée à l'actuelle tendance des sites _Single Page Application_ (SPA) est intéressante parce qu'elle soulève en réalité plusieurs questions.
 
