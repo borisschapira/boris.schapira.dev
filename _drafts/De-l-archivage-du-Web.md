@@ -1,8 +1,8 @@
+---
+layout: post
 title: "De l'archivage du Web"
+date: 2014-05-05 12:32:21
 tags:
-id: 9113
-
-categories:
   - Divers
 ---
 
