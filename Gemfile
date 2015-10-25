@@ -15,6 +15,7 @@ group :jekyll_plugins do
   gem 'jekyll-tagging'
 # Assets
   gem "octopress-autoprefixer"
+  gem "jekyll-assets"
 # Picture tag
   gem 'jekyll-picture-tag', '~> 0.2.3'
 # Twitter

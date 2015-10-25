@@ -57,11 +57,4 @@ window.onload = function() {
           doy : 4  // The week that contains Jan 4th is the first week of the year.
       }
   });
-
-  var elevator = new Elevator({
-    element: document.querySelector('.elevator'),
-    targetElement: document.querySelector('#top'),
-    mainAudio: '/assets/music/elevator.mp3',
-    endAudio: '/assets/music/ding.mp3'
-  });
 }

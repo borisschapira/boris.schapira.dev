@@ -1,7 +1,3 @@
----
-layout: null
----
-
 // Init the search box
 $(function(config) {
   'use strict';
@@ -138,8 +134,8 @@ $(function(config) {
   }
 
 }({
-  'applicationId': '{{ site.algolia.application_id }}',
-  'indexName': '{{ site.algolia.index_name }}',
-  'apiKey': '{{ site.algolia.read_only_api_key }}',
-  'baseurl': '{{ site.baseurl }}'
+  'applicationId': '97EL687MDM',
+  'indexName': 'jekyll',
+  'apiKey': '45e74dfb46facf8ee7f3038c305a9a7e',
+  'baseurl': ''
 }));

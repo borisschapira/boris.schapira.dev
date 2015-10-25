@@ -95,6 +95,15 @@ jekyll-archives:
     year: "/:year/"
     month: "/:year/:month/"
 
+assets:
+  compress:
+    css: true
+    js: true
+  cache: ".asset-cache"
+  digest: true
+  js_compressor:  "uglifier"
+  css_compressor: "sass"
+
 picture:
   source: "assets/images"
   output: "assets/images/generated"

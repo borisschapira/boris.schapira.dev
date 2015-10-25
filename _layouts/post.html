@@ -10,27 +10,11 @@ layout: default
   </div>
 </div>
 
+{% include elevator.html %}
+
 {% assign source = page.path | split: '/' %}
 <p class="contrib">
   Si vous voulez signaler une erreur ou proposer une modification de ce texte, proposez une <a href="https://github.com/borisschapira/blog/blob/master/{{ page.date | date: "%Y/%m" }}/{{ source.last }}">modification des sources</a> ou laissez moi un <a href="https://github.com/borisschapira/blog/issues/new?title=Article%20%22{{page.url}}%22">message</a>.
 </p>
 
-{% include elevator.html %}
-
-{% comment %}
-<div class="related">
-  <h2>Ces articles peuvent également vous intéresser :</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | localize: '%A %-d %B %Y' }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-{% endcomment %}
+{% include related.html %}

@@ -32,16 +32,14 @@
 <script src="//cdn.jsdelivr.net/algoliasearch.helper/2.1.0/algoliasearch.helper.min.js"></script>
 <script src="//cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js"></script>
 <script src="//cdn.jsdelivr.net/momentjs/2.10.3/moment.min.js"></script>
-<script src="{{ site.baseurl }}/js/vendor/elevator.min.js"></script>
-<script src="{{ site.baseurl }}/js/behaviour.js"></script>
-<script src="{{ site.baseurl }}/js/vendor/algolia.js"></script>
-<script src="{{ site.baseurl }}/js/analytics.js"></script>
+{% javascript main %}
+
 {% if site.eu_cookie_law.active %}
-<div id="cookies-monster" class="hidden">
-  Ce site utilise des cookies. {% if site.eu_cookie_law.more_url %}<span class="more"><a href="{{ site.eu_cookie_law.more_url }}" title="Cookies : le grand bug - Blog Temesis">En savoir plus</a>ou {% endif %}<button
-    class="cookies-monster-accepted"
-    href="#cookies-monster"
-  >accepter</button></span>
-</div>
-<script type="text/javascript" src="{{ site.baseurl }}/js/vendor/cookies-monster.js"></script>
+  <div id="cookies-monster" class="hidden">
+    Ce site utilise des cookies. {% if site.eu_cookie_law.more_url %}<span class="more"><a href="{{ site.eu_cookie_law.more_url }}" title="Cookies : le grand bug - Blog Temesis">En savoir plus</a>ou {% endif %}<button
+      class="cookies-monster-accepted"
+      href="#cookies-monster"
+    >accepter</button></span>
+  </div>
+  {% javascript vendors/cookies-monster %}
 {% endif %}
