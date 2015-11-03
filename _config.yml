@@ -43,7 +43,7 @@ kramdown:
 # Posts links and pagination
 permalink:        :year/:month/:title
 relative_permalinks: true
-paginate:            5
+paginate:            10
 paginate_path:       "/:num/"
 
 # Tagging

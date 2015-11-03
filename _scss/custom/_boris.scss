@@ -15,6 +15,7 @@ body {
   }
   .content a,
   .content .post-date a:hover,
+  .content .post-tags a:hover,
   .related-posts li a:hover {
     color: $color-fuschia;
   }
@@ -32,11 +33,16 @@ body {
   }
 
   /* Meta data line below post title */
-  .post-date {
+  .post-date, .post-tags {
+    display: inline-block;
     margin-bottom: 0;
     a {
       color: $color-gray;
     }
+  }
+
+  .post-tags::before {
+      content: "\00a0·\00a0";
   }
 
   .contrib{

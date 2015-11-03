@@ -2,11 +2,28 @@
 layout: default
 ---
 <h2>{{ page.tag }}</h2>
-<ul>
+<section class="posts">
 {% for post in page.posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }} | Tags: {{ post | tags }})</li>
+  <article class="post">
+    {% include post-head.html post=post showtags=false %}
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+    <div class="post-content">
+      {% if post.content contains "<!-- more -->" %}
+        {{ post.content | split:"<!-- more -->" | first % }}
+      {% else %}
+        {{ post.excerpt | markdownify }}
+      {% endif %}
+      <p>
+        <a href="{{ site.baseurl }}{{ post.url }}">Lire la suite →</a>
+      </p>
+    </div>
+  </article>
 {% endfor %}
-</ul>
+</section>
 
 <div id="tag-cloud">
   {{ site | tag_cloud }}
