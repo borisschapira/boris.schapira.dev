@@ -4,7 +4,7 @@
 //= require vendors/moment_fr
 //= require analytics
 
-if(UpUp){
+if(typeof UpUp !== 'undefined'){
   UpUp.debug();
   UpUp.start({
     'content-url': 'offline.html',
