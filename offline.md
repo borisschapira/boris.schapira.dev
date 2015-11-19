@@ -12,7 +12,7 @@ Ne vous inquiétez pas : tout sera encore là à votre retour.
 
 <figure>
   <picture>
-    <img srcset="/assets/images/shared/man-beach-love-sand.jpg">
+    <img src="/assets/images/shared/man-beach-love-sand.jpg" alt="Un homme traçant un coeur sur la plage avec un baton de bois">
   </picture>
   <figcaption>Bonne journée !</figcaption>
 </figure>
