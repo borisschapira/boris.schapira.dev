@@ -41,7 +41,7 @@ kramdown:
   syntax_highlighter: rouge
 
 # Posts links and pagination
-permalink:        :year/:month/:title
+permalink:        :year/:month/:title/
 relative_permalinks: true
 paginate:            10
 paginate_path:       "/:num/"
