@@ -4,6 +4,7 @@
 //= require vendors/moment_fr
 //= require analytics
 
+UpUp.debug();
 UpUp.start({
   'content-url': 'offline.html',
   'assets': ['/css/main.css', '/assets/images/shared/man-beach-love-sand.jpg']

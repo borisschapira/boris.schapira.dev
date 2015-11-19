@@ -458,7 +458,7 @@ RewriteRule ^([a-z0-9\-\._]+)$ /.well-known/$1 [L,NC]
 # Forced to add 'unsafe-eval' in order to be able tu use Algolia (based on
 # Hogan.js that uses eval() )
 <IfModule mod_headers.c>
-Header set Content-Security-Policy-Report-Only "default-src 'none'; font-src 'self'; media-src 'self'; script-src 'self' 'unsafe-eval' 'sha256-XnNQECY9o-nIv2Qgcd1A39YarwxTm10rhdzegH_JBxY=' syndication.twitter.com www.google-analytics.com ajax.googleapis.com cdn.jsdelivr.net platform.twitter.com; connect-src 'self' *.algolia.net *.algolianet.com cdn.jsdelivr.net; img-src 'self' data: avatars.borisschapira.com www.google-analytics.com *.ytimg.com *.googleusercontent.com *.twimg.com platform.twitter.com syndication.twitter.com; style-src 'unsafe-inline' 'self' platform.twitter.com; frame-src 'self' platform.twitter.com syndication.twitter.com; report-uri /csp-parser.php ;"
+Header set Content-Security-Policy-Report-Only "default-src 'none'; font-src 'self'; media-src 'self'; script-src 'self' 'unsafe-eval' 'sha256-XnNQECY9o-nIv2Qgcd1A39YarwxTm10rhdzegH_JBxY=' syndication.twitter.com www.google-analytics.com ajax.googleapis.com cdn.jsdelivr.net platform.twitter.com; connect-src 'self' *.algolia.net *.algolianet.com cdn.jsdelivr.net www.google-analytics.com; img-src 'self' data: avatars.borisschapira.com www.google-analytics.com *.ytimg.com *.googleusercontent.com *.twimg.com platform.twitter.com syndication.twitter.com; style-src 'unsafe-inline' 'self' platform.twitter.com; frame-src 'self' platform.twitter.com syndication.twitter.com; report-uri /csp-parser.php ;"
 </IfModule>
 
 # ------------------------------------------------------------------------------
