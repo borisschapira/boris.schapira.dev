@@ -34,7 +34,7 @@ eu_cookie_law:
 
 # Offline experiments with UpUp
 offline:
-  active: true
+  active: false
 
 # Writing configuration
 markdown:    kramdown
