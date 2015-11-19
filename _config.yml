@@ -32,6 +32,10 @@ eu_cookie_law:
   active: true
   more_url: http://blog.temesis.com/post/2015/02/16/Cookies-le-grand-bug
 
+# Offline experiments with UpUp
+offline:
+  active: true
+
 # Writing configuration
 markdown:    kramdown
 highlighter: rouge
