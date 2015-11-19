@@ -4,6 +4,12 @@
 //= require vendors/moment_fr
 //= require analytics
 
+UpUp.start({
+  'content-url': 'offline.html',
+  'assets': ['/css/main.css', '/assets/images/shared/man-beach-love-sand.jpg']
+});
+
+/* Elevator.js */
 window.onload = function() {
   var elevator = new Elevator({
     element: document.querySelector('.elevator'),
