@@ -5,20 +5,20 @@ layout: compress
 {% comment %}https://www.sylvaindurand.org/ameliorer-la-typographie-avec-jekyll/{% endcomment %}
 {% assign temp1 = content | split: '<pre>' %}
 {% for temp2 in temp1 %}
-  {% assign temp3 = temp2 | split: '</pre>' %}
-  {% if temp3.size == 2 %}
-    <pre>{{ temp3.first | newline_to_br }}</pre>
-  {% endif %}
-  {% assign t = temp3.last %}
-  {% assign t = t | replace: '&ldquo;' , '«&#160;' %}
-  {% assign t = t | replace: '&rdquo;' , '&#160;»' %}
-  {% assign t = t | replace: '“' , '«&#160;' %}
-  {% assign t = t | replace: '”' , '&#160;»' %}
-  {% assign t = t | replace: ' :',       '&#160;:' %}
-  {% assign t = t | replace: ' %',       '&#160;%' %}
-  {% assign t = t | replace: ' ;', '&#8239;;' %}
-  {% assign t = t | replace: ' !', '&#8239;!' %}
-  {% assign t = t | replace: ' ?', '&#8239;?' %}
-  {{ t | split: ' ' | join: ' ' }}
+{% assign temp3 = temp2 | split: '</pre>' %}
+{% if temp3.size == 2 %}
+  <pre>{{ temp3.first | newline_to_br }}</pre>
+{% endif %}
+{% assign t = temp3.last %}
+{% assign t = t | replace: '&ldquo;' , '«&#160;' %}
+{% assign t = t | replace: '&rdquo;' , '&#160;»' %}
+{% assign t = t | replace: '“' , '«&#160;' %}
+{% assign t = t | replace: '”' , '&#160;»' %}
+{% assign t = t | replace: ' :',       '&#160;:' %}
+{% assign t = t | replace: ' %',       '&#160;%' %}
+{% assign t = t | replace: ' ;', '&#8239;;' %}
+{% assign t = t | replace: ' !', '&#8239;!' %}
+{% assign t = t | replace: ' ?', '&#8239;?' %}
+{{ t | split: ' ' | join: ' ' }}
 {% endfor %}
 {% endcapture %}{{ compress | strip_newlines }}
