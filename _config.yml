@@ -1,5 +1,5 @@
 # Exlusions
-exclude: ["Gemfile", "Gemfile.lock", "vendor", "node_modules", "gulpfile.js", "rsync.sh", "autoprefixer.yml"]
+exclude: ["Gemfile", "Gemfile.lock", "vendor", "node_modules", "gulpfile.js", "rsync.sh", "autoprefixer.yml", "_posts_prod", "_posts_dev"]
 include: [".well-known", ".htaccess"]
 
 # Site settings
