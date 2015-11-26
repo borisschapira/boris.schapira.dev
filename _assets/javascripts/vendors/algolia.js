@@ -36,7 +36,7 @@ $(function(config) {
         dd : "%d jours",
         M : "un mois",
         MM : "%d mois",
-        y : "un ann",
+        y : "un an",
         yy : "%d ans"
     },
     ordinalParse : /\d{1,2}(er|ème)/,
