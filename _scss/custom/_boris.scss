@@ -1,4 +1,6 @@
 $color-fuschia: #d00b6d;
+$color-green: rgb(47, 244, 246);
+$color-green-faded: rgb(195, 244, 220);
 $color-gray: rgb(154,154,154);
 
 /* Lisibility */
@@ -204,4 +206,18 @@ body {
   @for $i from 1 through 50 {
     .set-#{$i} { font-size: (0.7 + 0.1 * $i) * 1rem; }
   }
+}
+
+.algolia__result-link .algolia__result-highlight {
+  background-color: $color-green-faded;
+  background-color: rgba(47,244,146,0.2);
+}
+
+.algolia__result-text .algolia__result-highlight {
+  text-shadow: 0px 0px 6px rgba(47,244,146,0.2);
+  font-weight:bold;
+}
+
+::selection{
+  background-color: $color-green-faded;
 }

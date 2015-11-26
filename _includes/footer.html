@@ -6,13 +6,15 @@
 
 <script id="algolia__template" type="text/template">
 {% raw %}
-  <div class="algolia__result">
+  <article id="content" class="algolia__result post" itemscope itemtype="http://schema.org/BlogPosting">
     {{#posted_at}}
-    <div class="algolia__result-date">{{ posted_at_readable }}</div>
+    <header>
+        <span class="post-date algolia__result-date">{{ posted_at_readable }}</span>
+    </header>
     {{/posted_at}}
-    <a class="algolia__result-link" href="{{ full_url }}#algolia:{{ css_selector }}">{{{ _highlightResult.title.value }}}</a>
-    <div class="algolia__result-text">{{{ _highlightResult.text.value }}}</div>
-  </div>
+    <h1 class="post-title"><a class="algolia__result-link" href="{{ full_url }}#algolia:{{ css_selector }}">{{{ _highlightResult.title.value }}}</a></h1>
+    <div class="algolia__result-text post-content">{{{ _highlightResult.text.value }}}</div>
+  </article>
 {% endraw %}
 </script>
 <script id="algolia__template--no-results" type="text/template">
