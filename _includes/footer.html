@@ -37,6 +37,12 @@
 {% if site.offline.active %}
   <script src="/upup.min.js"></script>
 {% endif %}
+<script type="text/javascript">
+  var gadata = {
+    categories: ['{{ page.category }}'],
+    tags: [{% for tag in page.tags %}'{{ tag }}'{% endfor %}],
+  }
+</script>
 {% javascript main %}
 
 {% if site.eu_cookie_law.active %}

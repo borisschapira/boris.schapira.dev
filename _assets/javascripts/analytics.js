@@ -4,5 +4,7 @@
 t=e.getElementsByTagName(v)[0];n.async=1;n.src=i;t.parentNode.insertBefore(n,t)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+ga('set', 'dimension1', gadata.categories);
+ga('set', 'dimension2', gadata.tags);
 ga('create', 'UA-4257717-9', 'auto');
 ga('send', 'pageview');
