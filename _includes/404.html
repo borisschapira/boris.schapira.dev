@@ -1,10 +1,46 @@
 <div class="page">
-  <h1 class="page-title">Oh, non ! Ce contenu est introuvable&#8230;</h1>
-  <p class="lead">Ouch, c'est vraiment embarassant. Je n'arrive pas à trouver la page que vous cherchez. Mauvais lien, erreur de frappe ? Difficile à dire.</p>
-  <p>
-    Peut-être qu'une recherche pourrait vous aider ? Si en revanche vous pensez qu'il s'agit d'une erreur, n'hésitez pas à me le dire ! Dans tous les cas, désolé pour le désagrément.
+  {% if include.showtitle == true %}<h1 class="page-title">Oh, non ! Ce contenu est introuvable&#8230;</h1>
+  {% endif %}
+  {% if include.issearch == true %}
+  <p class="lead">
+    J'ai beau cherché, rien à faire. Vraiment désolé. Il parait que ça arrive aux meilleurs d'être un peu&#8230; parfois&#8230; Enfin bref, vous avez compris.
+
+    On fera mieux la prochaine fois.
   </p>
+  {% else %}
+  <p class="lead">
+    Ouch, c'est vraiment embarassant. Je n'arrive pas à trouver la page que vous cherchez. Mauvais lien, erreur de frappe ? Difficile à dire.
+  </p>
+  {% endif %}
+  {% if include.showsearch == true %}
+  <p>
+    Peut-être qu'une recherche pourrait vous aider ? Allez, je la lance pour vous (regardez, juste en dessous).
+  </p>
+  <script type="text/javascript">
+  (function ready(fn) {
+    if (document.readyState != 'loading'){
+      fn();
+    } else {
+      document.addEventListener('DOMContentLoaded', fn);
+    }
+    })(function()
+      {
+        var href = window.location.href;
+        var $searchInput = $('.js-algolia__input');
+        var value = href.substr(href.slice(0, -1).lastIndexOf('/')+1);
+        value = value.lastIndexOf('/') + 1 == value.length ? value.slice(0, -1) : value;
+        $searchInput.val(value).keyup();
+      }
+    );
+  </script>
+  {% endif %}
+  {% if include.issearch == true %}
+  <p>
+    A ce niveau-là d'incompétence, ce n'est plus un café que je vais devoir offrir&#8230;
+  </p>
+  {% else %}
   <p>
     A l'occasion, passez prendre un café, on en reparlera en rigolant.
   </p>
+  {% endif %}
 </div>
