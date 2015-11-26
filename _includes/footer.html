@@ -40,7 +40,7 @@
 <script type="text/javascript">
   var gadata = {
     categories: ['{{ page.category }}'],
-    tags: [{% for tag in page.tags %}'{{ tag }}'{% endfor %}],
+    tags: ['{{ page.tags | join "','" }}'],
   }
 </script>
 {% javascript main %}
