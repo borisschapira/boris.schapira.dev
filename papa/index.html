@@ -15,14 +15,7 @@ category: Papa
       </a>
     </h1>
     <div class="post-content">
-      {% if post.content contains "<!-- more -->" %}
-        {{ post.content | split:"<!-- more -->" | first % }}
-      {% else %}
-        {{ post.excerpt | markdownify }}
-      {% endif %}
-      <p>
-        <a href="{{ site.baseurl }}{{ post.url }}">Lire la suite →</a>
-      </p>
+        {{ post.content }}
     </div>
   </article>
   {% endif %}
