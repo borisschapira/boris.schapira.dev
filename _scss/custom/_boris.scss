@@ -14,6 +14,10 @@ body {
 .theme-base-0g {
   .sidebar {
     background-color: $color-fuschia;
+
+    .sidebar-nav-item {
+      color: #fff;
+    }
   }
   .content a,
   .content .post-date a:hover,

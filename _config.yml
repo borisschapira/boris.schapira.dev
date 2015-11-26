@@ -11,6 +11,7 @@ baseurl: ""
 url: "https://borisschapira.com"
 lang: fr
 mainColor: '#d00b6d'
+rss_post_limit: 20
 
 # Author
 name: 'Boris Schapira'
