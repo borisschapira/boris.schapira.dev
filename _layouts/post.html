@@ -14,7 +14,7 @@ layout: default
 
 {% assign source = page.path | split: '/' %}
 <p class="contrib">
-  Si vous voulez signaler une erreur ou proposer une modification de ce texte, proposez une <a href="https://github.com/borisschapira/blog/blob/master/{{ page.date | date: "%Y/%m" }}/{{ source.last }}">modification des sources</a> ou laissez moi un <a href="https://github.com/borisschapira/blog/issues/new?title=Article%20%22{{page.url}}%22">message</a>.
+  Si vous voulez signaler une erreur ou proposer une modification de ce texte, proposez une <a href="https://github.com/borisschapira/blog/blob/master/{% if (page.category | downcap) == 'papa' %}papa/{% endif %}{{ page.date | date: "%Y/%m" }}/{{ source.last }}">modification des sources</a> ou laissez moi un <a href="https://github.com/borisschapira/blog/issues/new?title=Article%20%22{{page.url}}%22">message</a>.
 </p>
 
 {% include related.html %}

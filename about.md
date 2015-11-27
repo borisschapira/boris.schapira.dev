@@ -30,9 +30,10 @@ Celui-ci est complété, via [Bundler](http://bundler.io/), par plusieurs gems R
 * la gestion des archives est assurée par `jekyll-archives` ;
 * la gestion des étiquettes et catégories est assurée par `jekyll-tagging` ;
 * la génération et la sélection automatique de la bonne taille d'image est assurée par `jekyll-picture-tag` ;
-* les flux sont générés par `jekyll-feed` ;
 * la coloration syntaxique est offert par `rouge` ;
-* l'internationalisation est permise par `i18n` et le `i18n_filter`[^2].
+* l'internationalisation est permise par `i18n` et le `i18n_filter`[^2] ;
+* la manipulations des ressources statiques (JS, CSS) à la compilation est gérée par `jekyll-assets` ;
+* les vidéos Youtube et les tweets sont inclus à la compilation via `jekyll-youtube-lazyloading` et 'jekyll-twitter-plugin'.
 
 [^2]: La technique de localisation est détaillée dans le [guide de démarrage Jekyll de Thomas Brelet](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/#localiser-jekyll).
 
@@ -56,4 +57,4 @@ Si cette étape d'intégration est valide et que j'ai contribué du code sur la 
 
 [^4]: Ne ratez pas cette [présentation complète des submodules git par Christophe Porteneuve](http://www.git-attitude.fr/2014/12/31/git-submodules/)
 
-Si tout se passe bien, alors le site se retrouve en Production. Pour en réduire la surface d'attaque par injection de code côté client, je tente d'utiliser les <em lang="en">Content Security Policies</em> en mode "rapport", c'est-à-dire sans impact pour l'utilisateur, en attendant le jour où je serais prêt à activer réellement le blocage. Si la problématique vous intéresse, je vous conseille [la lecture de ses slides lors de Paris Web 2015](http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/#/ "Content Security Policy, Nicolas Hoffmann, Paris Web 2015"). 
+Si tout se passe bien, alors le site se retrouve en Production. Pour en réduire la surface d'attaque par injection de code côté client, je tente d'utiliser les <em lang="en">Content Security Policies</em> en mode "rapport", c'est-à-dire sans impact pour l'utilisateur, en attendant le jour où je serais prêt à activer réellement le blocage. Si la problématique vous intéresse, je vous conseille [la lecture de ses slides lors de Paris Web 2015](http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/#/ "Content Security Policy, Nicolas Hoffmann, Paris Web 2015").
