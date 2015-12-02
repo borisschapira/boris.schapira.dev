@@ -21,7 +21,7 @@ title: Accueil
         {{ post.excerpt | markdownify }}
       {% endif %}
       <p>
-        <a href="{{ site.baseurl }}{{ post.url }}">Lire la suite →</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" title="{{post.title}}">Lire la suite →</a>
       </p>
     </div>
   </article>

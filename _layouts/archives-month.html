@@ -4,10 +4,10 @@ layout: default
 
 <h1>Articles publiés en {{ page.date | localize: '%B %Y' }}</h1>
 
-<div class="posts">
+<section class="posts">
   {% for post in page.posts reversed %}
-  <div class="post">
-    <span class="post-date">{{ post.date | localize: '%A %-d' }} {{ post.date | localize: '%B' }} <a href="{{ site.baseurl }}/{{ post.date | localize: '%Y' }}" title="Articles de {{ post.date | localize: '%Y' }}">{{ post.date | localize: '%Y' }}</a></span>
+  <article class="post">
+    {% include post-head.html post=post showtags=false %}
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
@@ -19,8 +19,8 @@ layout: default
       {{ post.excerpt | markdownify }}
     {% endif %}
     <p>
-      <a href="{{ site.baseurl }}{{ post.url }}">Lire la suite →</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" title="{{post.title}}">Lire la suite →</a>
     </p>
-  </div>
+  </darticleiv>
   {% endfor %}
 </div>
