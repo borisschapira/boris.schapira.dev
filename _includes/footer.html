@@ -29,13 +29,13 @@
 </style>
 </noscript>
 
-<script src="//cdn.jsdelivr.net/jquery/2.1.4/jquery.min.js"></script>
-<script src="//cdn.jsdelivr.net/algoliasearch/3.6.0/algoliasearch.min.js"></script>
-<script src="//cdn.jsdelivr.net/algoliasearch.helper/2.1.0/algoliasearch.helper.min.js"></script>
-<script src="//cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js"></script>
-<script src="//cdn.jsdelivr.net/momentjs/2.10.3/moment.min.js"></script>
+<script src="//cdn.jsdelivr.net/jquery/2.1.4/jquery.min.js" defer></script>
+<script src="//cdn.jsdelivr.net/algoliasearch/3.6.0/algoliasearch.min.js" defer></script>
+<script src="//cdn.jsdelivr.net/algoliasearch.helper/2.1.0/algoliasearch.helper.min.js" defer></script>
+<script src="//cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" defer></script>
+<script src="//cdn.jsdelivr.net/momentjs/2.10.3/moment.min.js" defer></script>
 {% if site.offline.active %}
-  <script src="/upup.min.js"></script>
+  <script src="/upup.min.js" defer></script>
 {% endif %}
 <script type="text/javascript">
   var gadata = {
@@ -43,7 +43,7 @@
     tags: ['{{ page.tags | join "','" }}'],
   }
 </script>
-{% javascript main %}
+{% javascript main defer%}
 
 {% if site.eu_cookie_law.active %}
   <div id="cookies-monster" class="hidden">
