@@ -10,6 +10,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+img {
+  margin-bottom: 0;
+}
+
 /* Fuschia */
 .theme-base-0g {
   .sidebar {
@@ -90,6 +94,8 @@ body {
   }
   figure {
 
+    text-align:center;
+
     /** http://www.24joursdeweb.fr/2015/pseudo-elements-pseudos-mais-puissants/ **/
 
     a {
@@ -121,6 +127,7 @@ body {
       margin-right: auto;
       max-width: 100%;
     }
+
     figcaption {
       margin-left: auto;
       margin-right: auto;
