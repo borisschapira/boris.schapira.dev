@@ -14,7 +14,6 @@ body {
 .theme-base-0g {
   .sidebar {
     background-color: $color-fuschia;
-
     .sidebar-nav-item {
       color: #fff;
     }
@@ -25,12 +24,10 @@ body {
   .related-posts li a:hover {
     color: $color-fuschia;
   }
-
-  abbr, acronym
-  {
-	  border-bottom: .1em dotted $color-fuschia;
+  abbr,
+  acronym {
+    border-bottom: 0.1em dotted $color-fuschia;
   }
-
   hr {
     color: $color-fuschia;
     background-color: $color-fuschia;
@@ -39,98 +36,108 @@ body {
   }
 
   /* Meta data line below post title */
-  .post-date, .post-tags {
+  .post-date,
+  .post-tags {
     display: inline-block;
     margin-bottom: 0;
     a {
       color: $color-gray;
     }
   }
-
   .post-tags::before {
-      content: "\00a0·\00a0";
+    content: "\00a0·\00a0";
   }
-
-  .contrib{
+  .contrib {
     border: 1px solid $color-fuschia;
     padding: 10px;
     color: #333;
   }
-
   .related {
-    border-top: none
+    border-top: none;
   }
 }
-
 .footnotes {
   margin-top: 5em;
 }
-
 .elevator {
   text-align: center;
   margin-bottom: 4em;
-
   a {
     cursor: pointer;
   }
 }
-
 .post-content {
   h2:first-child {
-  	font-style: italic;
-  	font-weight: normal;
-  	font-size: 1.6em;
-  	line-height: 1.2em;
-  	margin-top: -0.3em;
-  	margin-bottom: 1em;
-  	letter-spacing: 0;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 1.6em;
+    line-height: 1.2em;
+    margin-top: -0.3em;
+    margin-bottom: 1em;
+    letter-spacing: 0;
   }
-
   blockquote {
     font-size: 1.1rem;
-    border-left: .25rem solid $color-fuschia;
-
+    border-left: 0.25rem solid $color-fuschia;
     cite {
       font-size: 1rem;
       margin-top: 1em;
       display: block;
     }
-
   }
-
   li {
     margin: 1rem 0;
   }
-
   figure {
 
-  	picture, img {
-  		margin-left: auto;
-  		margin-right: auto;
-  		max-width: 100%;
-  	}
+    /** http://www.24joursdeweb.fr/2015/pseudo-elements-pseudos-mais-puissants/ **/
 
-  	figcaption {
+    a {
+      position: relative;
+      display: inline-block;
+    }
+    a::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      opacity: 0;
+      box-shadow: 0 0 100px 0 #000 inset;
+      transition: opacity 0.3s ease-in-out;
+      background: rgba(0,0,0,.5) center no-repeat url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgNzY4IDc2OCIgZmlsbD0iI2ZmZmZmZiI+CjxwYXRoIGQ9Ik0zMjAgMzJxNTguNSAwIDExMS44NzUgMjIuODc1dDkxLjg3NSA2MS4zNzUgNjEuMzc1IDkxLjg3NSAyMi44NzUgMTExLjg3NXEwIDUwLjI1LTE2LjM3NSA5Ni4yNXQtNDYuNjI1IDgzLjVsMTgxLjc1IDE4MS41cTkuMjUgOS4yNSA5LjI1IDIyLjc1IDAgMTMuNzUtOS4xMjUgMjIuODc1dC0yMi44NzUgOS4xMjVxLTEzLjUgMC0yMi43NS05LjI1bC0xODEuNS0xODEuNzVxLTM3LjUgMzAuMjUtODMuNSA0Ni42MjV0LTk2LjI1IDE2LjM3NXEtNTguNSAwLTExMS44NzUtMjIuODc1dC05MS44NzUtNjEuMzc1LTYxLjM3NS05MS44NzUtMjIuODc1LTExMS44NzUgMjIuODc1LTExMS44NzUgNjEuMzc1LTkxLjg3NSA5MS44NzUtNjEuMzc1IDExMS44NzUtMjIuODc1ek0zMjAgOTZxLTQ1LjUgMC04NyAxNy43NXQtNzEuNSA0Ny43NS00Ny43NSA3MS41LTE3Ljc1IDg3IDE3Ljc1IDg3IDQ3Ljc1IDcxLjUgNzEuNSA0Ny43NSA4NyAxNy43NSA4Ny0xNy43NSA3MS41LTQ3Ljc1IDQ3Ljc1LTcxLjUgMTcuNzUtODctMTcuNzUtODctNDcuNzUtNzEuNS03MS41LTQ3Ljc1LTg3LTE3Ljc1ek0zMjAgMTkycTEzLjI1IDAgMjIuNjI1IDkuMzc1dDkuMzc1IDIyLjYyNXY2NGg2NHExMy4yNSAwIDIyLjYyNSA5LjM3NXQ5LjM3NSAyMi42MjUtOS4zNzUgMjIuNjI1LTIyLjYyNSA5LjM3NWgtNjR2NjRxMCAxMy4yNS05LjM3NSAyMi42MjV0LTIyLjYyNSA5LjM3NS0yMi42MjUtOS4zNzUtOS4zNzUtMjIuNjI1di02NGgtNjRxLTEzLjI1IDAtMjIuNjI1LTkuMzc1dC05LjM3NS0yMi42MjUgOS4zNzUtMjIuNjI1IDIyLjYyNS05LjM3NWg2NHYtNjRxMC0xMy4yNSA5LjM3NS0yMi42MjV0MjIuNjI1LTkuMzc1eiIvPgo8L3N2Zz4=);
+    }
+    a:hover::before,
+    a:focus::before {
+      opacity: 1;
+    }
+
+    /** **/
+
+    picture,
+    img {
       margin-left: auto;
-  		margin-right: auto;
+      margin-right: auto;
+      max-width: 100%;
+    }
+    figcaption {
+      margin-left: auto;
+      margin-right: auto;
       font-style: italic;
       max-width: 80%;
       text-align: center;
-  	}
+    }
   }
-
   strong {
     color: $color-fuschia;
   }
-
   a {
     text-decoration: underline;
-
     &.reversefootnote {
       text-decoration: none;
     }
   }
-
   .canonical {
     display: block;
     margin: 2em auto;
@@ -148,55 +155,49 @@ body {
   display: flex;
   justify-content: center;
   align-items: baseline;
-
   li {
     flex-grow: 1;
     text-align: center;
-
-    &.dist1, &.dist2, &.dist3, &.extreme {
+    &.dist1,
+    &.dist2,
+    &.dist3,
+    &.extreme {
       display: none;
     }
-
     @media (min-width: 20em) {
       &.extreme {
         display: block;
       }
-
       &.ellipsis1 {
         display: none;
       }
     }
-
     @media (min-width: 25em) {
       &.dist1 {
         display: block;
       }
-
       &.ellipsis2 {
         display: none;
       }
     }
-
     @media (min-width: 30em) {
       &.dist2 {
         display: block;
       }
-
       &.ellipsis3 {
         display: none;
       }
     }
-
-    a, strong, &.disabled {
-      padding: .1em .3em;
+    a,
+    strong,
+    &.disabled {
+      padding: 0.1em 0.3em;
       border: 2px solid #fff;
       text-decoration: none;
     }
-
     a:hover {
       border-color: $color-fuschia;
     }
-
     strong {
       font-weight: 400;
       background-color: $color-fuschia;
@@ -205,23 +206,21 @@ body {
     }
   }
 }
-
 #tag-cloud {
   @for $i from 1 through 50 {
-    .set-#{$i} { font-size: (0.7 + 0.1 * $i) * 1rem; }
+    .set-#{$i} {
+      font-size: (0.7 + 0.1 * $i) * 1rem;
+    }
   }
 }
-
 .algolia__result-link .algolia__result-highlight {
   background-color: $color-green-faded;
   background-color: rgba(47,244,146,0.2);
 }
-
 .algolia__result-text .algolia__result-highlight {
-  text-shadow: 0px 0px 6px rgba(47,244,146,0.2);
-  font-weight:bold;
+  text-shadow: 0 0 6px rgba(47,244,146,0.2);
+  font-weight: bold;
 }
-
-::selection{
+ ::selection {
   background-color: $color-green-faded;
 }
