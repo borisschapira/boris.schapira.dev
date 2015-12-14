@@ -113,7 +113,7 @@ $(function(config) {
 
   // Handle typing query
   function onQueryChange() {
-    lastQuery = $searchInput.val();
+    lastQuery = $(this).val();
     if (lastQuery.length === 0) {
       hideResults();
       return false;
