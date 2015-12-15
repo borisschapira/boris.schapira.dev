@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Exclusions
-exclude: ["Gemfile", "Gemfile.lock", "vendor", "node_modules", "gulpfile.js", "rsync.sh", "autoprefixer.yml"]
+exclude: ["Gemfile", "Gemfile.lock", "vendor", "node_modules", "scripts, "autoprefixer.yml"]
 include: [".well-known", ".htaccess"]
 
 # Site settings
