@@ -30,27 +30,31 @@
 </noscript>
 
 <script src="//cdn.jsdelivr.net/jquery/2.1.4/jquery.min.js" defer></script>
+
 <script src="//cdn.jsdelivr.net/algoliasearch/3.6.0/algoliasearch.min.js" defer></script>
 <script src="//cdn.jsdelivr.net/algoliasearch.helper/2.1.0/algoliasearch.helper.min.js" defer></script>
 <script src="//cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" defer></script>
 <script src="//cdn.jsdelivr.net/momentjs/2.10.3/moment.min.js" defer></script>
-{% if site.offline.active %}
-  <script src="/upup.min.js" defer></script>
-{% endif %}
+
 <script type="text/javascript">
   var gadata = {
     categories: ['{{ page.category }}'],
     tags: ['{{ page.tags | join "','" }}'],
   }
 </script>
-{% javascript main defer%}
+
+<script src="/assets/scripts/vendors/algolia.js" defer></script>
+<script src="/assets/scripts/vendors/elevator.min.js" defer></script>
+<script src="/assets/scripts/vendors/moment_fr.js" defer></script>
+<script src="/assets/scripts/analytics.js" defer></script>
+<script src="/assets/scripts/main.js" defer></script>
 
 {% if site.eu_cookie_law.active %}
+  <script src="/assets/scripts/vendors/cookies-monster.js" defer></script>
   <div id="cookies-monster" class="hidden">
     Ce site utilise des cookies. {% if site.eu_cookie_law.more_url %}<span class="more"><a href="{{ site.eu_cookie_law.more_url }}" title="Cookies : le grand bug - Blog Temesis">En savoir plus</a> ou {% endif %}<a
       class="cookies-monster-accepted"
       href="#cookies-monster"
     >Accepter</a></span>
   </div>
-  {% javascript vendors/cookies-monster %}
 {% endif %}

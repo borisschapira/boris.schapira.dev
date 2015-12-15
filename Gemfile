@@ -1,26 +1,13 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll'
-gem 'kramdown'
-gem 'rouge'
+gem 'jekyll', '~> 3.0', '>= 3.0.1'
 gem 'i18n'
-gem 'yt'
-gem 'uglifier'
 
 group :jekyll_plugins do
-# Live search
-  gem 'algoliasearch-jekyll', '~> 0.3'
-# Archives and tagging
-  gem 'jekyll-archives'
-  gem 'jekyll-tagging'
-# Assets
-  gem "octopress-autoprefixer"
-  gem "jekyll-assets"
-# Picture tag
-  gem 'jekyll-picture-tag', '~> 0.2.3'
-# Twitter
-  gem 'jekyll-twitter-plugin'
-  gem "sass", :require => "sass" # http://stackoverflow.com/a/6191046
-# SEO
+  gem 'jekyll-responsive_image'
+  gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
+  gem 'jekyll-archives'
+  gem 'algoliasearch-jekyll'
+  gem 'octopress-autoprefixer'
 end
