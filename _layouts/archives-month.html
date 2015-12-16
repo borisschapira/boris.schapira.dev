@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>Articles publiés en {{ page.date | localize: '%B %Y' }}</h1>
+<h1 class="page-title">Articles publiés en {{ page.date | localize: '%B %Y' }}</h1>
 
 <section class="posts">
   {% for post in page.posts reversed %}
