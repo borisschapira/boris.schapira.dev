@@ -4,4 +4,4 @@
     {% endfor %}
 {% endcapture %}
 
-<img src="/{{ path }}" srcset="{{ srcset | strip_newlines }} /{{ original.path }} {{ original.width }}w">
+<img src="/{{ path }}" srcset="{{ srcset | strip_newlines }} /{{ original.path }} {{ original.width }}w" sizes="(min-width:20em) and (max-width:50em) 20em, (min-width:50em) 40em" />

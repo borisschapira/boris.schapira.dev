@@ -6,6 +6,10 @@ tags:
   - Politique
 ---
 
+Rien ne permet, à ce jour, de présumer ce que Marine Le Pen pourrait faire des pouvoirs exorbitants dont ne cesse de se doter la puissance administrative. Mais le risque est réel. Par un mécanisme insidieux mais tout à fait visible, les pouvoirs publics, faute de pouvoir détecter la menace terroriste avant qu’elle ne frappe, répondent à l’émotion de l’opinion en bouleversant, sous nos yeux, les équilibres fondamentaux qui garantissent nos libertés.
+
+
+
 Je suis, en général, honoré de faire partie d'un pays avec un certain jeu de valeurs et chanceux qu'on y vive bien.
 
 En ce moment, les tendances sécuritaires exposent les citoyens à leur propre gouvernement : je trouve que ça craint.
@@ -27,6 +31,7 @@ Et même si on en sort dans 2 mois 1/2, on n'a aucune garantie expliquant pourqu
 http://www.france3.fr/emissions/documentaires/20h45-denoncer-sous-l-occupation_116738
 
 Plus précisément : j'ai été choqué par la chronologie des événements, finalement assez lente et que je connaissais mal. Elle montre à quel point les gens sont prêts à utiliser les ressources à leur disposition pour faire du mal à leur voisin. Et au moment où tu te dis que l'après sera mieux, tu vois la délation des collabos, avec les mêmes connards qui ont juste changé de camps...
+
 
 
 
