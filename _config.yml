@@ -53,6 +53,7 @@ gems:
   - algoliasearch-jekyll
   - jekyll-paginate
   - octopress-autoprefixer
+  - octopress-debugger
 
 jekyll-archives:
   enabled:
@@ -93,6 +94,11 @@ responsive_image:
     - width: 1400
       quality: 90
 
+  # [Optional, Default: assets]
+  # Use this parameter if your images are stored in subfolders
+  # and you want to keep the folder arrangement
+  base_path: assets/images
+
   # [Optional, Default: assets/resized/%{filename}-%{width}x%{height}.%{extension}]
   # The template used when generating filenames for resized images. Must be a
   # relative path.
@@ -104,4 +110,4 @@ responsive_image:
   #   %{width}       Width of the resized image
   #   %{height}      Height of the resized image
   #
-  output_path_format: assets/resized/%{width}/%{basename}
+  output_path_format: assets/resized/%{folderpath}/%{width}/%{basename}

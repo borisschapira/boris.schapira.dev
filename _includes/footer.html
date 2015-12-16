@@ -35,14 +35,7 @@
 <script src="//cdn.jsdelivr.net/algoliasearch.helper/2.1.0/algoliasearch.helper.min.js" defer></script>
 <script src="//cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" defer></script>
 <script src="//cdn.jsdelivr.net/momentjs/2.10.3/moment.min.js" defer></script>
-
-<script type="text/javascript">
-  var gadata = {
-    categories: ['{{ page.category }}'],
-    tags: ['{{ page.tags | join "','" }}'],
-  }
-</script>
-
+<input type="hidden" id="data-analytics" value="{&quot;categories&quot;:[&quot;{{ page.category }}&quot;],&quot;tags&quot;:[&quot;{{ page.tags | join:"&quot;,&quot;" }}&quot;]}"/>
 <script src="/assets/scripts/vendors/algolia.js" defer></script>
 <script src="/assets/scripts/vendors/elevator.min.js" defer></script>
 <script src="/assets/scripts/vendors/moment_fr.js" defer></script>

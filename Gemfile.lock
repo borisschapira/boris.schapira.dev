@@ -13,6 +13,8 @@ GEM
       execjs
       json
     awesome_print (1.6.1)
+    byebug (8.2.1)
+    coderay (1.1.0)
     colorator (0.1)
     execjs (2.6.0)
     ffi (1.9.10)
@@ -45,12 +47,23 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
     mercenary (0.3.5)
+    method_source (0.8.2)
     mini_portile2 (2.0.0)
     nokogiri (1.6.7)
       mini_portile2 (~> 2.0.0.rc2)
     octopress-autoprefixer (2.0.0)
       autoprefixer-rails
       jekyll (~> 3.0)
+    octopress-debugger (1.0.2)
+      jekyll
+      pry-byebug
+    pry (0.10.3)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
+    pry-byebug (3.3.0)
+      byebug (~> 8.0)
+      pry (~> 0.10)
     rb-fsevent (0.9.6)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
@@ -58,6 +71,7 @@ GEM
     rouge (1.10.1)
     safe_yaml (1.0.4)
     sass (3.4.20)
+    slop (3.6.0)
 
 PLATFORMS
   ruby
@@ -71,6 +85,7 @@ DEPENDENCIES
   jekyll-responsive_image
   jekyll-sitemap
   octopress-autoprefixer
+  octopress-debugger
 
 BUNDLED WITH
    1.10.6

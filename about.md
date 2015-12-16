@@ -28,12 +28,9 @@ Ce site est produit par [Jekyll](https://jekyllrb.com/), un générateur de site
 Celui-ci est complété, via [Bundler](http://bundler.io/), par plusieurs gems Ruby correspondant à différents besoins :
 
 * la gestion des archives est assurée par `jekyll-archives` ;
-* la gestion des étiquettes et catégories est assurée par `jekyll-tagging` ;
-* la génération et la sélection automatique de la bonne taille d'image est assurée par `jekyll-picture-tag` ;
+* la génération et la sélection automatique de la bonne taille d'image est assurée par `jekyll-responsive_image` ;
 * la coloration syntaxique est offert par `rouge` ;
 * l'internationalisation est permise par `i18n` et le `i18n_filter`[^2] ;
-* la manipulations des ressources statiques (JS, CSS) à la compilation est gérée par `jekyll-assets` ;
-* les vidéos Youtube et les tweets sont inclus à la compilation via `jekyll-youtube-lazyloading` et 'jekyll-twitter-plugin'.
 
 [^2]: La technique de localisation est détaillée dans le [guide de démarrage Jekyll de Thomas Brelet](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/#localiser-jekyll).
 
@@ -41,7 +38,7 @@ Jekyll ayant tendance à produire du code HTML très "aéré" et aucun moteur de
 
 La recherche instantanée est le fruit du branchement du site sur [Algolia](https://www.algolia.com/), une solution très performante d'indexation et de recherche côté client qui a le mérite de proposer un [exemple d'implémentation pour Jekyll](https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/ "Add instant search to your blog or documentation using our Jekyll plugin") qui cadrait parfaitement avec mon besoin.
 
-En local, j'utilise également [node](https://nodejs.org/), et plus particulièrement [gulp](http://gulpjs.com/) et [browsersync](http://www.browsersync.io/), pour que mon navigateur se mette seul à jour au fil de mes sauvegardes[^5].
+En local, j'utilise parfois également [node](https://nodejs.org/), et plus particulièrement [gulp](http://gulpjs.com/) et [browsersync](http://www.browsersync.io/), pour que mon navigateur se mette seul à jour au fil de mes sauvegardes[^5].
 
 [^5]: voir [l'article de Vladimir Iakovlev](https://nvbn.github.io/2015/06/19/jekyll-browsersync/ "Add live reloading to Jekyll with Gulp and Browsersync").
 
@@ -58,3 +55,13 @@ Si cette étape d'intégration est valide et que j'ai contribué du code sur la 
 [^4]: Ne ratez pas cette [présentation complète des submodules git par Christophe Porteneuve](http://www.git-attitude.fr/2014/12/31/git-submodules/)
 
 Si tout se passe bien, alors le site se retrouve en Production. Pour en réduire la surface d'attaque par injection de code côté client, je tente d'utiliser les <em lang="en">Content Security Policies</em> en mode "rapport", c'est-à-dire sans impact pour l'utilisateur, en attendant le jour où je serais prêt à activer réellement le blocage. Si la problématique vous intéresse, je vous conseille [la lecture de ses slides lors de Paris Web 2015](http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/#/ "Content Security Policy, Nicolas Hoffmann, Paris Web 2015").
+
+### Contrôle de l'activité en ligne
+
+Afin de contrôler ce qui se passe sur mon site (notamment pour détecter des tentatives d'injections), j'ai positionné un certain nombre de règles [Content Security Policy](https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9/CSP) et des rapports sont enregistrés dans une base de données à chaque infraction[^7].
+
+[^7]: Merci à [Nicolas Hoffman](https://twitter.com/Nico3333fr) de m'avoir sensibilisé à cette problématique durant [sa présentation à Paris Web 2015](http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/ "CSP: Content Security Policy").
+
+Parce que je suis curieux, j'ai installé Google Analytics. Je suis conscient que certains d'entre vous veulent un peu d'intimité. Je vous encourage, dans ce cas, à faire comme moi : bloquer l'ensemble des domaines auxquels vous ne souhaitez pas faire confiance, au sein de votre navigateur ou ailleurs sur votre machine. Ça passe par la manipulation de votre fichier `hosts` et il y a des scripts pour automatiser tout ça[^6]. Enfin, contraitement aux <em lang="en">ads blockers</em>, c'est transparent en performance.
+
+[^6]: J'utilise pour ma part les [scripts de blocage de domaines de Steven Black](https://github.com/StevenBlack/hosts).
