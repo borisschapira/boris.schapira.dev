@@ -48,6 +48,7 @@ eu_cookie_law:
   more_url: http://blog.temesis.com/post/2015/02/16/Cookies-le-grand-bug
 
 gems:
+  - jekyll-assets
   - jekyll-sitemap
   - jekyll-archives
   - algoliasearch-jekyll
@@ -74,6 +75,13 @@ jekyll-archives:
 # Pagination
 paginate: 5
 paginate_path: "/:num/"
+
+assets:
+  prefix: "/assets"
+  sources:
+    - _assets/scripts
+  js_compressor:  "uglifier"
+  css_compressor: "sass"
 
 responsive_image:
   # [Required]
