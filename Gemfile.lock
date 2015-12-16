@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/borisschapira/jekyll-responsive-image.git
+  revision: 43f6b2c58ce7188e619bf963ab8b2ee7b07ea741
+  specs:
+    jekyll-responsive_image (0.13.0)
+      jekyll (>= 2.0, < 4.0)
+      rmagick
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -32,9 +40,6 @@ GEM
     jekyll-archives (2.1.0)
       jekyll (>= 2.4)
     jekyll-paginate (1.1.0)
-    jekyll-responsive_image (0.13.0)
-      jekyll (>= 2.0, < 4.0)
-      rmagick
     jekyll-sass-converter (1.3.0)
       sass (~> 3.2)
     jekyll-sitemap (0.9.0)
@@ -82,7 +87,7 @@ DEPENDENCIES
   jekyll (~> 3.0, >= 3.0.1)
   jekyll-archives
   jekyll-paginate
-  jekyll-responsive_image
+  jekyll-responsive_image!
   jekyll-sitemap
   octopress-autoprefixer
   octopress-debugger

@@ -9,11 +9,11 @@ category: Papa
   {% for post in papas %}
   <article class="post">
     {% include post-head.html post=post showtags=false %}
-    <h1 class="post-title">
+    <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h2>
     <div class="post-content">
         {{ post.content }}
     </div>

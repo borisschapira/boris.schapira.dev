@@ -468,7 +468,7 @@ Header set Content-Security-Policy-Report-Only "default-src 'none'; font-src 'se
 <IfModule mod_headers.c>
 Header set X-XSS-Protection "1; mode=block"
 Header always set X-Content-Type-Options "nosniff"
-Header set X-UA-Compatible "IE=Edge,chrome=1"
+Header set X-UA-Compatible "IE=Edge"
 Header always set X-FRAME-OPTIONS "DENY"
 </IfModule>
 

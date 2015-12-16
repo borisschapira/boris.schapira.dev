@@ -45,21 +45,31 @@ img {
       color: $color-gray;
     }
   }
-  .post-tags,
-  .post-category {
-    &::before {
-      content: "\00a0·\00a0";
-    }
-  }
+
   .contrib {
     border: 1px solid $color-fuschia;
     padding: 10px;
     color: #333;
   }
-  .related {
-    border-top: none;
+
+}
+
+.post-tags,
+.post-category {
+  &::before {
+    content: "\00a0·\00a0";
   }
 }
+
+.related {
+  border-top: none;
+}
+
+.post-title,
+.page-title {
+  font-size: 2rem;
+}
+
 .footnotes {
   margin-top: 5em;
 }
