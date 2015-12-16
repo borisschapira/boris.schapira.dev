@@ -1,3 +1,5 @@
+export JEKYLL_ENV=developpement;
+
 mv _posts _posts_prod;
 mkdir _posts;
 mkdir _posts/papa;
