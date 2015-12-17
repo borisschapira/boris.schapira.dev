@@ -80,8 +80,9 @@ assets:
   prefix: "/assets"
   sources:
     - _assets/scripts
+    - _assets/styles
   js_compressor:  "uglifier"
-  css_compressor: "sass"
+  css_compressor: "scss"
 
 responsive_image:
   # [Required]
