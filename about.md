@@ -27,6 +27,7 @@ Les points de vue et opinions exprimés sur ce blog n'engagent que moi, et en au
 Ce site est produit par [Jekyll](https://jekyllrb.com/), un générateur de sites statiques en Ruby.
 Celui-ci est complété, via [Bundler](http://bundler.io/), par plusieurs gems Ruby correspondant à différents besoins :
 
+* la gestion des ressources statiques (hors images) est assurée par `jekyll-assets` ;
 * la gestion des archives est assurée par `jekyll-archives` ;
 * la génération et la sélection automatique de la bonne taille d'image est assurée par `jekyll-responsive_image` ;
 * la coloration syntaxique est offert par `rouge` ;
