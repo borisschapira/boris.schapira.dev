@@ -8,7 +8,7 @@ git push origin master --force;
 rm -rf .git; 
 git init; 
 git remote add origin git@github.com:borisschapira/blog-private.git; 
-git checkout master;
+git branch --set-upstream-to=origin/master master;
 git add -A; 
 git commit -m "Publication";
 git pull origin master --rebase;
