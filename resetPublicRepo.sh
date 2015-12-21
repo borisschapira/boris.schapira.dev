@@ -11,4 +11,5 @@ git remote add origin git@github.com:borisschapira/blog-private.git;
 git checkout master;
 git add -A; 
 git commit -m "Publication";
+git pull origin master --rebase;
 git push origin master;
