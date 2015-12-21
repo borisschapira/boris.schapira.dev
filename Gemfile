@@ -9,7 +9,7 @@ group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
   gem 'jekyll-archives'
-  gem 'algoliasearch-jekyll', :git => 'https://github.com/algolia/algoliasearch-jekyll.git', :branch => 'master'
+  gem 'algoliasearch-jekyll'
   gem 'octopress-autoprefixer'
   gem 'octopress-debugger'
 end
