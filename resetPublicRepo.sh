@@ -1,0 +1,15 @@
+git push; 
+rm -rf .git; 
+git init; 
+git remote add origin git@github.com:borisschapira/blog.git; 
+git add -A; 
+git commit -m "Initial commit"; 
+git push origin master --force;
+rm -rf .git; 
+git init; 
+git remote add origin git@github.com:borisschapira/blog-private.git; 
+git checkout master;
+git add -A; 
+git commit -m "Publication";
+git pull origin master --rebase;
+git push;

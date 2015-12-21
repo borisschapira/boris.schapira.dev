@@ -1,0 +1,17 @@
+---
+date: 2014-10-05 16:02:05+00:00
+layout: post
+title: C'est ta vie
+category: Papa
+hidden: true
+---
+
+> \- A château, papa!
+> \- C'est ça ton château?
+> \- Ouiiiiii
+> \- Alors maman ce sera la princesse?
+> \- Oui et moi a reine !
+> \- Ben non. Toi, tu seras le roi, pas la reine !
+> \- Ah ?
+> \- Oui, non, remarque... Tu sais quoi ? Tu seras ce que tu voudras mon coeur et on t'aimera tout pareil !
+
