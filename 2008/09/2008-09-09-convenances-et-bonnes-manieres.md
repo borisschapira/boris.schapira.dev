@@ -3,7 +3,7 @@ layout: post
 title: "Convenances et bonnes manières"
 date: 2008-09-09 12:50:35
 tags:
-  - Egalité
+  - Égalité
   - Humour
   - Insolite
   - Société

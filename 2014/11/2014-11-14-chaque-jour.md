@@ -4,7 +4,7 @@ title: "Chaque jour"
 date: 2014-11-14 10:00:27
 tags:
   - Société
-  - Egalité
+  - Égalité
 ---
 
 ## \#HeForShe

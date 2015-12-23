@@ -4,7 +4,7 @@ title: "#HeForShe, dans le secondaire aussi"
 date: 2015-03-09 23:07:31
 tags:
   - Société
-  - Egalité
+  - Égalité
 ---
 
 La classe est bondée. Le vacarme, assourdissant. Personne n'a l'air de vouloir se taire. Il est à demi-penché sur elle, la complimente lourdement sur son décolleté pendant qu'elle lui répète d'aller s'asseoir, que c'est l'heure, visiblement gênée.

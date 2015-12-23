@@ -4,7 +4,7 @@ title: "Egalité et Liberté mises à mal"
 date: 2010-08-02 12:02:10
 tags:
   - Politique
-  - Egalité
+  - Égalité
 ---
 
 > "La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens **sans distinction d'origine**, de race ou de religion. Elle respecte toutes les croyances. Son organisation est décentralisée."

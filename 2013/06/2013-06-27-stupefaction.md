@@ -4,7 +4,7 @@ title: "Stupéfaction"
 date: 2013-06-27 22:38:21
 tags:
   - Société
-  - Egalité
+  - Égalité
 ---
 
 Jeune papa pour la seconde fois, je décide ce soir de porter mon fils en écharpe, comme je l'avais déjà fait pour son grand frère.

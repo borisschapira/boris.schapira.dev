@@ -5,7 +5,7 @@ date: 2009-12-09 23:31:48
 tags:
   - Politique
   - Religion
-  - Egalité
+  - Égalité
 ---
 
 En lisant la [tribune de Nicolas Sarkozy dans Le Monde](http://www.lemonde.fr/idees/article/2009/12/08/m-sarkozy-respecter-ceux-qui-arrivent-respecter-ceux-qui-accueillent_1277422_3232.html) d'aujourd'hui, j'ai été pris d'un **persistant malaise**. D'abord parce que le Chef de l'Etat s'adresse à moi (enfin à nous, mais donc indirectement à ma petite personne) et ensuite parce que ce qu'il m'écrit me choque (et c'est problématique parce qu'en tant que Président de mon pays, il parle un peu en mon nom&#8230;).

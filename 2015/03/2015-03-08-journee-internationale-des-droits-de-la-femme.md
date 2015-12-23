@@ -4,7 +4,7 @@ title: "Journée Internationale des Droits de la Femme"
 date: 2015-03-08 23:10:47
 tags:
   - Société
-  - Egalité
+  - Égalité
 ---
 
 J'ai beaucoup réfléchi à ce que je pourrais faire d'utile de cette "journée". J'ai fini par aller voir ma femme pour lui poser la question très sérieusement&#8230;
