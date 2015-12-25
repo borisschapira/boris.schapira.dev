@@ -1,0 +1,38 @@
+{% if post %}
+  {% assign postPage = false %}
+{% else %}
+  {% assign postPage = true %}
+  {% assign post = page %}
+{% endif %}
+
+{% comment %}
+<div>Page : {{ page.url  }}</div>
+<div>Post : {{ post.url }}</div>
+<div>{{ postPage }}</div>
+{% endcomment %}
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting"{% if postPage %} id="content"{% endif %}>
+  {% include post-head.html post=post showtags=false %}
+  <h2 class="post-title p-name">
+    {% if postPage %}
+        {{ post.title }}
+    {% else %}
+    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    {% endif %}
+  </h2>
+
+  <div class="post-content">
+    {% if postPage %}
+      {{ content }}
+    {% else %}
+      {% if post.content contains "<!-- more -->" %}
+        {{ post.content | split:"<!-- more -->" | first % }}
+      {% else %}
+        {{ post.excerpt | markdownify }}
+      {% endif %}
+      <p>
+        <a href="{{ site.baseurl }}{{ post.url }}" title="{{post.title}}">Lire la suite →</a>
+      </p>
+    {% endif %}
+  </div>
+</article>

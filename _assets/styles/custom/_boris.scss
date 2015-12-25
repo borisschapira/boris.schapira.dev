@@ -22,7 +22,6 @@ img {
     }
   }
   .content a,
-  .post header span a:hover,
   .related-posts li a:hover {
     color: $color-fuschia;
   }
@@ -38,7 +37,8 @@ img {
   }
 
   /* Meta data line below post title */
-  .post header span {
+  .post header span,
+  .post header time {
     display: inline-block;
     margin-bottom: 0;
     a {
@@ -51,11 +51,14 @@ img {
     color: #333;
   }
 }
-.post-tags,
-.post-category {
+.p-tags,
+.p-category {
   &::before {
     content: "\00a0·\00a0";
   }
+}
+html .content .post .p-header .p-author {
+  display:none;
 }
 .related {
   border-top: none;
@@ -247,19 +250,19 @@ img {
     height: 100%;
   }
 }
-.PageNavigation {
+.page-navigation {
   font-size: 14px;
   display: block;
   width: auto;
   overflow: hidden;
 }
-.PageNavigation a {
+.page-navigation a {
   display: block;
   width: 50%;
   float: left;
   margin: 1em 0;
 }
-.PageNavigation .next {
+.page-navigation .next {
   text-align: right;
 }
 .sidebar {
@@ -275,12 +278,10 @@ img {
   display: none;
   .sidebar-nav-item {
     display: inline-block;
-    &::after {
-      content: "|";
-      padding: 0 5px;
-    }
-    &:last-of-type::after {
-      content: "";
+    padding: 0 0.5em;
+    border-right: solid 1px white;
+    &:last-of-type{
+      border-right: none;
     }
   }
 }

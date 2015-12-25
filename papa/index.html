@@ -4,21 +4,11 @@ title: Papa
 category: Papa
 ---
 
-<h1 class="page-title">Avec mes enfants...</h1>
+<h1 class="page-title">Avec mes enfants</h1>
 
 <section class="posts papa">
   {% assign papas = (site.posts | where: "category" , "Papa") %}
   {% for post in papas %}
-  <article class="post">
-    {% include post-head.html post=post showtags=false %}
-    <h2 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h2>
-    <div class="post-content">
-        {{ post.content }}
-    </div>
-  </article>
+    {% include post.html %}
   {% endfor %}
 </section>

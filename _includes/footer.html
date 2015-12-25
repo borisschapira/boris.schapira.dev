@@ -9,7 +9,7 @@
   <article id="content" class="algolia__result post" itemscope itemtype="http://schema.org/BlogPosting">
     {{#posted_at}}
     <header>
-        <span class="post-date algolia__result-date">{{ posted_at_readable }}</span>
+        <span class="p-date algolia__result-date">{{ posted_at_readable }}</span>
     </header>
     {{/posted_at}}
     <h1 class="post-title"><a class="algolia__result-link" href="{{ full_url }}#algolia:{{ css_selector }}">{{{ _highlightResult.title.value }}}</a></h1>
