@@ -6,7 +6,7 @@ categories:
   - Politique
 ---
 
-Petite pensée pour la partie de ma famille qui vit en Martinique et pour ma soeur qui a eu la chance d'avoir un gâteau pour son anniversaire (ni rigolez pas, ça n'est vraiment pas facile en ce moment là-bas).
+Petite pensée pour la partie de ma famille qui vit en Martinique et pour ma sœur qui a eu la chance d'avoir un gâteau pour son anniversaire (ni rigolez pas, ça n'est vraiment pas facile en ce moment là-bas).
 
 Il faut croire que les antillais, que dis-je, les gens qui vivent aux Antilles, sont moins français que les Français de Métropole. Je ne vois que ça.
 

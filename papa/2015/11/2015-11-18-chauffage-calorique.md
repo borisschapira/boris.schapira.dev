@@ -7,7 +7,7 @@ hidden: true
 ---
 
 > \- Maman, j'ai froid [en chouinant bien entendu]
-> \- Tiens mon coeur, je vais te mettre une petite couverture
+> \- Tiens mon cœur, je vais te mettre une petite couverture
 > \- Maman, j'ai encore froid
 > \- Attends, chéri, attends que la couverture te réchauffe un peu...
 > \- Maman, j'ai toujours froid

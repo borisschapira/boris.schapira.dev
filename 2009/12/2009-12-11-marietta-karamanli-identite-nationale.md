@@ -36,7 +36,7 @@ Merci égalemment  à [Mathilde Mathieu](//blogs.mediapart.fr/blog/mathilde-math
 >
 > Mon quatrième sentiment à l'égard de la France a été le bonheur d'être dans un pays ayant le goût des autres. Ce pays a encore la réputation d'aimer les autres, de les reconnaître et de les accueillir quand ils en ont envie ou besoin. Jeune, je savais que la France avait su accueillir mes compatriotes grecs, ceux qui étaient considérés comme déloyaux ou dangereux par l'État des colonels.
 >
-> De façon plus générale, j'ai toujours eu la sensation que notre pays était curieux des cultures des autres et apte à oeuvrer dans le monde sans penser en être le maître. J'ai le souvenir de ces touristes français curieux de la Grèce antique, que je rencontrais au bureau de poste de ma ville et avec lesquels je partageais quelques mots de français. D'une certaine façon, la France a su donner l'exemple ; c'est parce qu'elle sait être ouverte qu'elle rayonne et est aimée.
+> De façon plus générale, j'ai toujours eu la sensation que notre pays était curieux des cultures des autres et apte à œuvrer dans le monde sans penser en être le maître. J'ai le souvenir de ces touristes français curieux de la Grèce antique, que je rencontrais au bureau de poste de ma ville et avec lesquels je partageais quelques mots de français. D'une certaine façon, la France a su donner l'exemple ; c'est parce qu'elle sait être ouverte qu'elle rayonne et est aimée.
 >
 > [&#8230;]
 >

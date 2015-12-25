@@ -7,7 +7,7 @@ hidden: true
 ---
 
 > \- Papa, pardon.
-> \- Pardon, mais pourquoi mon coeur ?
+> \- Pardon, mais pourquoi mon cœur ?
 > \- Pardon de dire tout à l'heure, c'est nul aller à les courses avec papa...
 > \- Ah parce qu'au final, ça t'a plu ?
 > \- Oui, rigolo faire à les courses avec Papa.

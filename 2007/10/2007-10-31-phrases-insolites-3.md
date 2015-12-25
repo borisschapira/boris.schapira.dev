@@ -12,7 +12,7 @@ _C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!_
 _**<!-- more -->
 
 Esprit de famille&nbsp;:**
-_"Ma femme elle n'aime tellement pas ses neveux qu’elle les appelle les ragnagnas parce que, tu vois, chaque fois que sa soeur vient avec eux, elle est de mauvais poil pour une semaine."
+_"Ma femme elle n'aime tellement pas ses neveux qu’elle les appelle les ragnagnas parce que, tu vois, chaque fois que sa sœur vient avec eux, elle est de mauvais poil pour une semaine."
 
 _**Mentalité bien française&#8230;**
 _«&nbsp;- Vous avez vu ces feignasses de médecins? Y sont encore en grève!

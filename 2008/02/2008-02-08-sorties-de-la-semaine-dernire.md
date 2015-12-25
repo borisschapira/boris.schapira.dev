@@ -20,7 +20,7 @@ Je n'ai pas encore pris le temps de monter mes vid&#233;os du concert mais je va
 
 **Vendredi 1er&nbsp;: No Country + Planet Hollywood**
 
-Vendredi c'est d&#233;tente apr&#232;s une journ&#233;e de boulot harassante. Petit cin&#233;ma sur les champs (19,80 euros pour un adulte et une &#233;tudiante, ouch) puis saut de puce (de Libellule&nbsp;?) jusqu'au Planet Hollywood pour un d&#238;ner en amoureux compl&#232;tement improvis&#233; (le romantisme avec ma ch&#233;rie, c'est facile et &#231;a tient en trois mots&nbsp;: viande de boeuf). Retour fatigu&#233;s mais d&#233;tendus dans notre &quot;Home, sweet home&quot; apr&#232;s avoir &#233;cum&#233; la Fnac et Virgin pour (finir par ne pas) trouver des entr&#233;es pour l'expo Cosmo Mania de la Cit&#233; des Sciences.
+Vendredi c'est d&#233;tente apr&#232;s une journ&#233;e de boulot harassante. Petit cin&#233;ma sur les champs (19,80 euros pour un adulte et une &#233;tudiante, ouch) puis saut de puce (de Libellule&nbsp;?) jusqu'au Planet Hollywood pour un d&#238;ner en amoureux compl&#232;tement improvis&#233; (le romantisme avec ma ch&#233;rie, c'est facile et &#231;a tient en trois mots&nbsp;: viande de bœuf). Retour fatigu&#233;s mais d&#233;tendus dans notre &quot;Home, sweet home&quot; apr&#232;s avoir &#233;cum&#233; la Fnac et Virgin pour (finir par ne pas) trouver des entr&#233;es pour l'expo Cosmo Mania de la Cit&#233; des Sciences.
 
 **Samedi 2&nbsp;: Golf d'Auteil**
 
