@@ -5,11 +5,11 @@ gem 'i18n'
 
 group :jekyll_plugins do
   gem 'jekyll-assets'
-  gem 'jekyll-responsive_image', :git => 'https://github.com/borisschapira/jekyll-responsive-image.git'
+  gem 'jekyll-responsive_image', :github => 'borisschapira/jekyll-responsive-image'
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
   gem 'jekyll-archives'
-  gem 'algoliasearch-jekyll'
+  gem 'algoliasearch-jekyll', :github => 'algolia/algoliasearch-jekyll'
   gem 'octopress-autoprefixer'
   gem 'octopress-debugger'
   gem 'jekyll-compose'

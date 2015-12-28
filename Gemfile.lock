@@ -1,5 +1,15 @@
 GIT
-  remote: https://github.com/borisschapira/jekyll-responsive-image.git
+  remote: git://github.com/algolia/algoliasearch-jekyll.git
+  revision: 43ad19567e1f8a1ec582a61db710197690326324
+  specs:
+    algoliasearch-jekyll (0.5.3)
+      algoliasearch (~> 1.4)
+      awesome_print (~> 1.6)
+      json (~> 1.8)
+      nokogiri (~> 1.6)
+
+GIT
+  remote: git://github.com/borisschapira/jekyll-responsive-image.git
   revision: fdee40fdeb362e67a4688a5b5bb05102e2571fda
   specs:
     jekyll-responsive_image (0.13.0)
@@ -13,11 +23,6 @@ GEM
     algoliasearch (1.6.1)
       httpclient (~> 2.4)
       json (>= 1.5.1)
-    algoliasearch-jekyll (0.5.3)
-      algoliasearch (~> 1.4)
-      awesome_print (~> 1.6)
-      json (~> 1.8)
-      nokogiri (~> 1.6)
     autoprefixer-rails (6.2.2)
       execjs
       json
@@ -100,7 +105,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  algoliasearch-jekyll
+  algoliasearch-jekyll!
   i18n
   jekyll (~> 3.0, >= 3.0.1)
   jekyll-archives

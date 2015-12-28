@@ -67,6 +67,26 @@ jekyll-archives:
     year: "/:year/"
     month: "/:year/:month/"
 
+algolia:
+application_id: '97EL687MDM'
+index_name: 'jekyll'
+read_only_api_key: '45e74dfb46facf8ee7f3038c305a9a7e'
+excluded_files:
+- 404.html
+- index.html
+settings:
+attributesToIndex:
+  - title
+  - h1
+  - h2
+  - h3
+  - h4
+  - h5
+  - h6
+  - unordered(text)
+  - unordered(tags)
+  - unordered(slug)
+
 # Tagging
 # tag_page_layout: tag
 # tag_page_dir: tags
