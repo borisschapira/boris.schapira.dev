@@ -18,6 +18,6 @@ J'avais déjà annoncé de nombreuses améliorations pour la future version de L
 *   <span>l’option de  **transfert automatique des e-mails** de certains expéditeurs vers une autre adresse e-mail : les utilisateurs peuvent dorénavant sélectionner les expéditeurs, dont les e-mails seront automatiquement transférés de Windows Live Hotmail vers l’email de leur choix</span>
 *   <span>Fonction de **message d’absence** : cette fonction permet d’activer un message d’absence lors de l’envoi d’un message et lorsque l’utilisateur est absent, un message est envoyé à l’expéditeur pour le signaler</span>
 
-<span>En ce qui me concerne les fonctionnalités de transfert et de compatibilité Outlook me seront des plus utiles. Je suis néanmoins curieux de voir le coktail Live Hotmail / Compte Exchange / Calendrier partagés par Outlook Connector&#8230; wait'n see&nbsp;!</span>
+<span>En ce qui me concerne les fonctionnalités de transfert et de compatibilité Outlook me seront des plus utiles. Je suis néanmoins curieux de voir le coktail Live Hotmail / Compte Exchange / Calendrier partagés par Outlook Connector… wait'n see&nbsp;!</span>
 
 <span>Et vous, que pensez-vous de ces améliorations&nbsp;? Quelle fonctionnalité souhaiteriez-vous voir dans Live Hotmail&nbsp;?</span>

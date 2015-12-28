@@ -7,7 +7,7 @@ tags:
   - Subprime
 ---
 
-On parle beaucoup en ce moment des "Subprimes" qui feraient s'écrouler les banques et qui obligeraient les institutions régulatrices à  injecter des liquidités sur le marché pour ne pas que tout s'effondre. On pourrait penser qu'il s'agit de choses très complexes mais en réalité il s'agit de petits problèmes humains qui mis bout-à -bout&#8230;
+On parle beaucoup en ce moment des "Subprimes" qui feraient s'écrouler les banques et qui obligeraient les institutions régulatrices à  injecter des liquidités sur le marché pour ne pas que tout s'effondre. On pourrait penser qu'il s'agit de choses très complexes mais en réalité il s'agit de petits problèmes humains qui mis bout-à -bout…
 
 Les "Subprimes" sont des crédits immobiliers. Plus précisement, ce sont des crédits accordés à  des personnes dont le risque d'échec du remboursement est grand. Ils ont peut-être déjà  un antécédent de non-remboursement ou alors plusieurs crédits, et du coup essuient les refus des organismes de crédit traditionnels ("prime market"). Heureusement, le "subprime market" est là .
 

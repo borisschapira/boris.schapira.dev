@@ -21,13 +21,13 @@ Prenons quelques chiffres sur le piratage des jeux vidéo sur Torrentfreak, le b
 - The Sims 2&nbsp;: 1 150 000 téléchargements.
 - Assassin's Creed&nbsp;: 1 070 000 téléchargements.
 - Crysis&nbsp;: 940 000 téléchargements
-&#8230;
+…
 
 Pourquoi ces jeux, qui ne sont pas forcément en tête des ventes, ont-ils été piratés&nbsp;?
 
-Facile, diront les physiciens adeptes de Sir Isaac Newton&nbsp;: action implique réaction. Dans ce cas précis, ce qui a valu à ces jeux d'être aussi piraté, c'est sûrement leur forte protection contre&#8230; le piratage.
+Facile, diront les physiciens adeptes de Sir Isaac Newton&nbsp;: action implique réaction. Dans ce cas précis, ce qui a valu à ces jeux d'être aussi piraté, c'est sûrement leur forte protection contre… le piratage.
 
-En obligeant le joueur à être connecté à Internet ou en protégeant le support au point de le rendre incompatible avec de nombreux lecteurs, les éditeurs ont forcé les joueurs à pirater les œuvres&#8230; y compris pour en profiter légalement. Que dire d'un jeu familial comme les Sims, dont on interdit l'installation sur plusieurs ordinateurs&nbsp;? Quand la famille paie plusieurs centaines d'euros pour l'ensemble des ajouts de contenus commercialisés, ne serait-il pas normal de lui laisser la possibilité d'installer le jeu sur plusieurs ordinateurs&nbsp;?
+En obligeant le joueur à être connecté à Internet ou en protégeant le support au point de le rendre incompatible avec de nombreux lecteurs, les éditeurs ont forcé les joueurs à pirater les œuvres… y compris pour en profiter légalement. Que dire d'un jeu familial comme les Sims, dont on interdit l'installation sur plusieurs ordinateurs&nbsp;? Quand la famille paie plusieurs centaines d'euros pour l'ensemble des ajouts de contenus commercialisés, ne serait-il pas normal de lui laisser la possibilité d'installer le jeu sur plusieurs ordinateurs&nbsp;?
 
 ## Des solutions existent
 

@@ -16,7 +16,7 @@ Puis on s'est séparé
 Chacun pour soi est reparti
 Dans l'tourbillon d'la vie
 Je l'ai revu un soir aie aie aie
-Ca fait deja un fameux bail__&#8230;"_
+Ca fait deja un fameux bail__…"_
 
 &nbsp;
 

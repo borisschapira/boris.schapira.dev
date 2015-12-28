@@ -6,7 +6,7 @@ tags:
   - Management
 ---
 
-Avant de véritablement commencer à lire "Business Model Generation" (dont je ferai une critique plus tard), j'ai pris trois jours pour lire ce livre, prêté par Oncle Tom&#8230;
+Avant de véritablement commencer à lire "Business Model Generation" (dont je ferai une critique plus tard), j'ai pris trois jours pour lire ce livre, prêté par Oncle Tom…
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-08-24/1.png" title="Voir en plus grand">

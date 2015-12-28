@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Phrases Insolites&#8230; #11"
+title: "Phrases Insolites… #11"
 date: 2008-09-01 08:00:42
 tags:
   - Humour
@@ -17,17 +17,17 @@ Religion 2.0**
 
 **Crédulité**
 - Sur France-Info, ils expliquent que la consommation d'héroïne augmente en France
-- Ils ont sûrement fait leur relevés pendant un passage de Maradona&#8230;
+- Ils ont sûrement fait leur relevés pendant un passage de Maradona…
 - Ah bon&nbsp;? Maradona est passé à Paris&nbsp;?
 
 **Le VDM du trader**
-- Salut à tous. Le taux &#8230; est à 3,40%, le &#8230; est à 2,30%, le&#8230; quelqu'un m'écoute&nbsp;?
+- Salut à tous. Le taux … est à 3,40%, le … est à 2,30%, le… quelqu'un m'écoute&nbsp;?
 - [Silence]
-- Bon ben je sers à rien&#8230; si c'est comme ça, j'arrête de parler.
+- Bon ben je sers à rien… si c'est comme ça, j'arrête de parler.
 - [voix de haut-parleur] Non, non, continue, c'est agréable, ça fait un bruit de fond.
 - Vie de merde.
 
 **Les problématiques de l'été**
 - Alors, c'est quoi le plus gros projets du mois d'août&nbsp;?
 - Trouver un site accessible avec les clips de Rihanna.
-- Ah ouais, quand même&#8230;
+- Ah ouais, quand même…

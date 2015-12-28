@@ -22,7 +22,7 @@ Exemple des idées reçues que je rencontre chaque jour chez mon client actuel&n
 > There is no such thing as a free lunch
 >   <cite>[Milton Friedman](http://fr.wikipedia.org/wiki/Milton_Friedman)) </cite>
 
-*   Corrélation et causalité sont des termes proches mais dissociés. Si les évènements A et B interviennent en même temps à plusieurs reprises, rien ne dit que A entraine B. Garder ça en tête permet de prendre avec recul les analyses (financières, politiques ou au bistrot du coin&#8230;) qu'on nous présente comme irréfutables&nbsp;!
+*   Corrélation et causalité sont des termes proches mais dissociés. Si les évènements A et B interviennent en même temps à plusieurs reprises, rien ne dit que A entraine B. Garder ça en tête permet de prendre avec recul les analyses (financières, politiques ou au bistrot du coin…) qu'on nous présente comme irréfutables&nbsp;!
 
 **Et vous,** contre quelle idée reçue voudriez-vous lutter&nbsp;?
 

@@ -31,13 +31,13 @@ Les sujets abordés dépendent, quant-à-eux, des cursus dans lesquels ces inter
 ## Education Civique
 * Informatique et libertés&nbsp;: un sujet qui aborde les notions de citoyenneté, vie en collectivité, égalité et justice abordés en 4ème
 * Internet comme un medium&nbsp;: rappel du rôle des médias et de la protection assurée par leur pluralité. Notion de _doute_ sur les informations trouvées et technique de recoupement.
-* Données personnelles&nbsp;: modélisation et traitement, ce qu'il est possible de savoir sur vous sans le savoir&#8230;
-* Harcèlement&nbsp;: en ligne aussi, vous en êtes peut-être victime&#8230; ou bourreau. Que faire&nbsp;?
+* Données personnelles&nbsp;: modélisation et traitement, ce qu'il est possible de savoir sur vous sans le savoir…
+* Harcèlement&nbsp;: en ligne aussi, vous en êtes peut-être victime… ou bourreau. Que faire&nbsp;?
 * Démocratie&nbsp;: de la démocratie représentative à la démocratie participative
 
 ## Philosophie
 
-Suivant les séries et les sujets, de nombreux sujets abordables sur le Travail (hyper-connexion, accomplissement), l'Art, la Société et les échanges, Libertés et Devoir, la Morale, l'Identité&#8230;
+Suivant les séries et les sujets, de nombreux sujets abordables sur le Travail (hyper-connexion, accomplissement), l'Art, la Société et les échanges, Libertés et Devoir, la Morale, l'Identité…
 
 ## Histoire-Géographie
 

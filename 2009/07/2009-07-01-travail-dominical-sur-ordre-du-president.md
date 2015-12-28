@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Travail dominical&#8230; sur ordre du Président"
+title: "Travail dominical… sur ordre du Président"
 date: 2009-07-01 09:44:18
 tags:
   - Politique

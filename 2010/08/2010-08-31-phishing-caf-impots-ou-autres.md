@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Phishing CAF, Impôts ou autres&#8230;"
+title: "Phishing CAF, Impôts ou autres…"
 date: 2010-08-31 18:13:33
 ---
 
@@ -10,7 +10,7 @@ Je me permets aujourd'hui de citer une fameuse légende d'un tableau de  [René
 
 <!-- more -->
 
-Ce mail n'a bien sûr rien à voir avec la CAF. En cliquant sur le lien fourni,  la victime arrive sur une page qui imite le site de la CAF et l'incite à entrer des informations confidentielles. Nul doute que quelqu'un de mal attentionné passera après pour détourner ses prestations sociales&#8230;
+Ce mail n'a bien sûr rien à voir avec la CAF. En cliquant sur le lien fourni,  la victime arrive sur une page qui imite le site de la CAF et l'incite à entrer des informations confidentielles. Nul doute que quelqu'un de mal attentionné passera après pour détourner ses prestations sociales…
 
 <figure>
   <a data-featherlight="image" href="/assets/images/2010-08-31/1.jpg" title="Voir en plus grand">

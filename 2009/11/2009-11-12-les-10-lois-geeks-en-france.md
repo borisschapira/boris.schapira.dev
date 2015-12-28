@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Les 10 lois Geeks&#8230; en France (v1.1)"
+title: "Les 10 lois Geeks… en France (v1.1)"
 date: 2009-11-12 14:28:56
 tags:
   - Culture

@@ -14,7 +14,7 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;! Et quand c
 
 > **Client** : Je pense qu'on tient là une piste d'évolution intéressante qu'il faudrait implémenter. Non d'ailleurs, c'est tellement important que c'est limite un problème que ça ne soit pas déjà développé. D'ailleurs on va marquer ça comme anomalie et demander un développement urgent.
 >
-[&#8230; plusieurs jours plus tard]
+[… plusieurs jours plus tard]
 >
 > **Développeur** : Voilà, c'est fait. Ça m'a pris du temps, mais le résultat est conforme à vos attentes.
 > **Client** : Hum, je pense qu'en fait cette fonctionnalité est inutile, nous ne l'utiliserons donc pas.
@@ -30,7 +30,7 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;! Et quand c
 
 ## Cheaters sometimes win
 
-> **Utilisateur** : Au moment de la saisie, j'ai validé sans regarder. Vous pouvez corriger l'entrée en base, parce que les informations saisies sont inexactes et ça pourrait faire planter l'application sur certains postes&#8230;
+> **Utilisateur** : Au moment de la saisie, j'ai validé sans regarder. Vous pouvez corriger l'entrée en base, parce que les informations saisies sont inexactes et ça pourrait faire planter l'application sur certains postes…
 > **Développeur** : Et dans vos processus métier, vous ne vérifiez jamais avant de valider vos saisies&nbsp;?
 > **Utilisateur** : Non, pas vraiment. Mais c'est pas grave parce que je connais une faille dans l'application et ça finit par marcher quand même.
 > **Développeur** : Et vous n'avez rien dit ? Vous faites ça depuis longtemps&nbsp;?!
@@ -53,5 +53,5 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;! Et quand c
 > **Equipe B** : Cette modification a été demandée par l'équipe A. Elle ne doit donc pas nous être affectée. Merci de le signaler à l'équipe A.
 > **Consultant** : C'est ce que j'ai fait. Ils m'ont répondu de m'adresser à l'équipe B.
 > **Equipe B** : Nous les appelons pour régler ça.
-> **Consultant** : Euh, excusez moi mais il s'agit vraiment d'une manipulation simple, c'est l'histoire de 5 minutes, vraiment&#8230;
+> **Consultant** : Euh, excusez moi mais il s'agit vraiment d'une manipulation simple, c'est l'histoire de 5 minutes, vraiment…
 > **Equipe B** : Non mais attendez, vous êtes externe, vous ne comprenez pas comment cela se passe ici. Nous contactons l'équipe A et s'il le faut, le supérieur. Nous allons tirer tout ça au clair, même s'il faut 3 semaines.

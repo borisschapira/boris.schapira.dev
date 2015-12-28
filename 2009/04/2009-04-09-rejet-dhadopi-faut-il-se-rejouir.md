@@ -16,6 +16,6 @@ Autant je suis opposé à la loi Création et Internet, autant je trouve qu'on a
 
 Et aujourd'hui, que voit-on&nbsp;? Plus d'une quinzaine de députés qui ont ramené leur postérieur sur les bancs de l'Assemblée pour voter contre le projet de loi parce qu'ils n'auraient pas aimé que la CMP soit revenue sur la double peine supprimée lors des débats&nbsp;? Mais où étaient-ils [à ce moment-là](http://www.numerama.com/magazine/12527-la-loi-hadopi-votee-a-la-sauvette-par-16-deputes.html)&nbsp;? Pourquoi ne sont-ils pas venus pour faire entendre les voix qu'ils représentent au moment où cela comptait&nbsp;?
 
-Je suis contre le projet de loi Hadopi mais l'attitude de l'opposition ne vaut pas mieux que celle du gouvernement. De tous les côtés, ce dossier est traité par dessus la jambe et avec des méthodes pour le moins douteuses&#8230;
+Je suis contre le projet de loi Hadopi mais l'attitude de l'opposition ne vaut pas mieux que celle du gouvernement. De tous les côtés, ce dossier est traité par dessus la jambe et avec des méthodes pour le moins douteuses…
 
 [![](//vidberg.blog.lemonde.fr/2009/04/09/mais-que-faisaient-les-deputes-de-la-majorite/)](http://vidberg.blog.lemonde.fr/2009/04/09/mais-que-faisaient-les-deputes-de-la-majorite/)

@@ -11,7 +11,7 @@ J'ai eu l'occasion de passer mes journées de la semaine dernière aux côtés d
 
 <!-- more -->
 
-J'ai commencé par écouter d'une oreille distraite puis en rentrant le soir chez moi et même en joggant. En fait, je dois l'avouer, je suis devenu accro à **Genetically Modified** dont le plus grand tort est de ne pas encore être achetable à la Fnac (j'ai bien essayé Deezer, mais il traite un seul mp3 depuis dix jours&#8230; ).
+J'ai commencé par écouter d'une oreille distraite puis en rentrant le soir chez moi et même en joggant. En fait, je dois l'avouer, je suis devenu accro à **Genetically Modified** dont le plus grand tort est de ne pas encore être achetable à la Fnac (j'ai bien essayé Deezer, mais il traite un seul mp3 depuis dix jours… ).
 
 Attention, je ne dis pas que j'aime chacun des titres de l'album. Pour être parfaitement honnête, j'apprécie énormément les morceaux _Genetically Modified_, _Fake It_ et _Periplus_. Ils sont de fabuleuses introductions aux morceaux suivants _Lost in crazy day_ et _My better side_.
 

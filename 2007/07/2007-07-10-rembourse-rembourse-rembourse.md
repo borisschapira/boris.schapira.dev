@@ -13,6 +13,6 @@ Symptôme&nbsp;: le cercle vert qui normalement entoure le bouton d'allumage dev
 
 Microsoft a donc décidé d'étendre la garantie de 1 à 3 ans pour toutes les machines, y compris déjà vendues, et de rembourser les frais précédemment engagé (je suppose que le nombre de justificatifs à avoir conservé dépasse largement la conception de l'archivage légal d'un joueur moyen).
 
-Il ne me reste plus qu'à écrire à Bill pour savoir si **ma garantie de 3 ans payée au prix fort **sur argumentaire de défaillance de la console mono lettrique me sera déduite de mon prochain achat de jeu&#8230;
+Il ne me reste plus qu'à écrire à Bill pour savoir si **ma garantie de 3 ans payée au prix fort **sur argumentaire de défaillance de la console mono lettrique me sera déduite de mon prochain achat de jeu…
 
-A voir aussi sur Lapytsh.com et [New York Times](https://myaccount.nytimes.com/auth/login?URI=www-nc.nytimes.com/2007/07/06/business/06soft.html&amp;REFUSE_COOKIE_ERROR=SHOW_ERROR) (entre autres)&#8230;
+A voir aussi sur Lapytsh.com et [New York Times](https://myaccount.nytimes.com/auth/login?URI=www-nc.nytimes.com/2007/07/06/business/06soft.html&amp;REFUSE_COOKIE_ERROR=SHOW_ERROR) (entre autres)…

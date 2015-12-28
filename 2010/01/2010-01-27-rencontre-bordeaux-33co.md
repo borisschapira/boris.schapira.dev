@@ -9,7 +9,7 @@ tags:
 
 Maintenant que la page parisienne de ma vie est tournée (et je ne suis pas mécontent), il est temps pour moi de découvrir les opportunités qu'offre Bordeaux. Cette ville, magnifique et que j'aime, je la connais finalement assez mal, surtout au niveau du tissus socio-économique.
 
-En tant que consultant pour [Clever-Age Bordeaux](http://www.clever-age.com/fr/agencies/bordeaux/), je risque d'être souvent au contact des entreprises locales. Mieux vaut donc connaitre leur taille moyenne, les secteurs porteurs, les inconvénients et les avantages de la position géographique&#8230;  Je me suis dit qu'une bonne solution pour remédier à ce manque de connaissances serait de rencontrer des gens et de leur poser la question.
+En tant que consultant pour [Clever-Age Bordeaux](http://www.clever-age.com/fr/agencies/bordeaux/), je risque d'être souvent au contact des entreprises locales. Mieux vaut donc connaitre leur taille moyenne, les secteurs porteurs, les inconvénients et les avantages de la position géographique…  Je me suis dit qu'une bonne solution pour remédier à ce manque de connaissances serait de rencontrer des gens et de leur poser la question.
 
 C'est tout bête, mais il paraît que ça marche assez bien.
 

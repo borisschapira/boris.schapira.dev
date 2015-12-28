@@ -7,7 +7,7 @@ tags:
   - Grève
 ---
 
-Ce n'est pas parce que je ne fais pas grève que ça m'empêche d'essayer de comprendre pourquoi les autres la font. Pour l'instant, en gros, ça donne ça&#8230;_
+Ce n'est pas parce que je ne fais pas grève que ça m'empêche d'essayer de comprendre pourquoi les autres la font. Pour l'instant, en gros, ça donne ça…_
 _
 
 <span style="text-decoration: underline"><!-- more -->

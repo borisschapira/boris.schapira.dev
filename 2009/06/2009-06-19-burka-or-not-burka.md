@@ -10,6 +10,6 @@ En discutant aujourd'hui avec des collègues, je me suis rendu compte à quel po
 
 <!-- more -->
 
-Je peux néanmoins comprendre les motifs d'une telle proposition. Je ne suis moi-même pas enjoué de voir des femmes porter la burka ; je ne peux pas m'empêcher de me dire qu'elles seraient mieux sans. Mais je conçois aussi que pour une certaine partie d'entre elles que je ne saurais quantifier, il peut s'agir d'un choix personnel fruit d'une conviction profonde et que mon avis sur la question n'a rien à faire là-dedans, tant qu'elles ne la portent pas dans des lieux laïques (services de l'Etat, Education Nationale, Justice&#8230;).
+Je peux néanmoins comprendre les motifs d'une telle proposition. Je ne suis moi-même pas enjoué de voir des femmes porter la burka ; je ne peux pas m'empêcher de me dire qu'elles seraient mieux sans. Mais je conçois aussi que pour une certaine partie d'entre elles que je ne saurais quantifier, il peut s'agir d'un choix personnel fruit d'une conviction profonde et que mon avis sur la question n'a rien à faire là-dedans, tant qu'elles ne la portent pas dans des lieux laïques (services de l'Etat, Education Nationale, Justice…).
 
 A-t-on, dès lors, le droit de voter une loi allant contre leur liberté de porter le vêtement de leur choix, et au nom de quoi&nbsp;?

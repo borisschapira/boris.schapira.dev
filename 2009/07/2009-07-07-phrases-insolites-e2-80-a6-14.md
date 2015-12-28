@@ -16,15 +16,15 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
 > \- I engage myself if I say ok to him&nbsp;!
 
 Qui voulait certainement dire&nbsp;: Je m'engage en lui donnant mon accord.
-&#8230; mais qui ne veut, en fait, rien dire en anglais.
+… mais qui ne veut, en fait, rien dire en anglais.
 
 > "Gentlemen Quarterly".. ah oui, c'est pour les mecs de quarante ans&nbsp;!
 
-&#8230;ou pas, puisque "Quarterly" veut dire "Trimestriel".
+…ou pas, puisque "Quarterly" veut dire "Trimestriel".
 
 ## Respecte tes ainés
 
-> \- Up, c'est l'histoire d'un vieux qui accroche des ballons sur sa maison pour s'envoler&#8230;
+> \- Up, c'est l'histoire d'un vieux qui accroche des ballons sur sa maison pour s'envoler…
 > \- Ah ben p$%^#n, s'ils pouvaient tous faire ça&nbsp;!
 
 ## Evidence
@@ -34,6 +34,6 @@ Qui voulait certainement dire&nbsp;: Je m'engage en lui donnant mon accord.
 
 ## Un truc entre les jambes
 
-> \- Tu vois, moi, ce que je voudrais, c'est une nouvelle moto. Un truc dont je sentirais la puissance entre mes jambes. Un truc qui va plus vite&#8230;
+> \- Tu vois, moi, ce que je voudrais, c'est une nouvelle moto. Un truc dont je sentirais la puissance entre mes jambes. Un truc qui va plus vite…
 > \- Qu'est-ce que t'attends&nbsp;?
-> \- Il faut que j'en trouve une avec l'ABS&#8230; sinon ma femme ne veut pas.
+> \- Il faut que j'en trouve une avec l'ABS… sinon ma femme ne veut pas.

@@ -7,7 +7,7 @@ tags:
   - Égalité
 ---
 
-J'ai beaucoup réfléchi à ce que je pourrais faire d'utile de cette "journée". J'ai fini par aller voir ma femme pour lui poser la question très sérieusement&#8230;
+J'ai beaucoup réfléchi à ce que je pourrais faire d'utile de cette "journée". J'ai fini par aller voir ma femme pour lui poser la question très sérieusement…
 
 <!-- more -->
 

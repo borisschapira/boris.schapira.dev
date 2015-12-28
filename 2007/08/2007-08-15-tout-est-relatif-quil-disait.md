@@ -7,7 +7,7 @@ tags:
 ---
 
 D'esprit cartésien, j'ai toujours cru en l'immuabilité de certaines choses. Pour moi, ma droite est du côté où j'écris, ce qui ne change jamais et par conséquent, ma gauche est de l'autre côté. Pour moi, un nombre plus grand qu'un autre le sera toujours demain et je ne conçois pas que ces choses changent.
-Et pourtant, conduire en Ile-De-France chamboule tout&#8230;
+Et pourtant, conduire en Ile-De-France chamboule tout…
 
 Pas plus tard qu'hier matin, je pensais que ma droite était du côté du pied avec lequel je tape dans les ballons et donc par conséquent ma gauche du côté opposé. Mais alors que je me faisais cette réflexion, plusieurs voitures m'ont doublé. Puisque le code de la route n'autorise que le doublement par la gauche et que clairement, ma gauche était de l'autre côté, j'en ai rapidement déduis que mes deux côtés avaient été inversés. Ma perception du monde avait changée sans qu'on me prévienne.
 

@@ -21,11 +21,11 @@ Je suis également persuadé qu'une mutation lente va, durant dix prochaines ann
 >
 > <cite>[Neelie Kroes, vice-présidente de la Commission européenne chargée de la stratégie numérique](http://frenchweb.fr/labsence-de-competences-numeriques-est-une-nouvelle-forme-dillettrisme/147096 "Neelie Kroes: layout: postL’absence de compétences numériques est une nouvelle forme d’illettrisme&nbsp;» &quot;, FrenchWeb.fr")</cite>
 
-Ces profils existent déjà. Je les croise lors de mes missions. Ils ne sont pas informaticiens, mais comptables, secrétaires, commerciaux, politiques, journalistes&#8230; Et même parfois ouvriers, agents d'entretien, chauffeurs&#8230; Ils sont souvent précurseurs au sein de leurs structures et n'ont besoin de notre aide que pour appuyer des stratégies numériques déjà amorcées, ou pour les inscrire dans la durée. Ils se renseignent, apprennent, influencent et mettent en place les briques d'un système d'information sans même le savoir.
+Ces profils existent déjà. Je les croise lors de mes missions. Ils ne sont pas informaticiens, mais comptables, secrétaires, commerciaux, politiques, journalistes… Et même parfois ouvriers, agents d'entretien, chauffeurs… Ils sont souvent précurseurs au sein de leurs structures et n'ont besoin de notre aide que pour appuyer des stratégies numériques déjà amorcées, ou pour les inscrire dans la durée. Ils se renseignent, apprennent, influencent et mettent en place les briques d'un système d'information sans même le savoir.
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2014-04-03/1.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-04-03/1.png alt="Un schéma montrant que devant une tâche répétitive, les &quot;geeks&quot; perdent du temps à mettre en place une solution algorithmique&#8230; qui s'avère rentable sur le long terme." %}
+      {% responsive_image path: assets/images/2014-04-03/1.png alt="Un schéma montrant que devant une tâche répétitive, les &quot;geeks&quot; perdent du temps à mettre en place une solution algorithmique… qui s'avère rentable sur le long terme." %}
   </a>
   <figcaption>Gestion des tâches répétitives par les "geeks" et les "non-geeks". Difficile de trouver la paternité, même si plusieurs sources remontent à Bruno Oliveira.</figcaption>
 </figure>

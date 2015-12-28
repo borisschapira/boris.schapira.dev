@@ -15,4 +15,4 @@ series: Hadopi
 
 Tandis que le [Conseil Constitutionnel se cache dans la manche de son veston](//www.authueil.org/?2009/10/22/1472-la-non-decision-hadopi-2) et laisse passer Hadopi 2, [la France perd 8 places dans le dernier classement mondial de la liberté de la presse de RSF](//www.jegoun.net/2009/10/liberte-de-la-presse.html). Pendant ce temps, nous, les français, [acharnés à lutter contre le népotisme de leur président](//777socrate.blogspot.com/2009/10/jean-sarkozy-un-fils-papa.html), savourons [une victoire qui n'est pas la nôtre](http://www.toreador.fr/2009/10/23/paso-doble-n%c2%b0154-tout-est-perdu-fors-lhonneur/).
 
-> "&#8230;le travail du Président n'est pas d'exercer le pouvoir, mais d'en détourner l'attention."
+> "…le travail du Président n'est pas d'exercer le pouvoir, mais d'en détourner l'attention."

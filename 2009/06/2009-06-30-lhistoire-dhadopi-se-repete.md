@@ -7,7 +7,7 @@ tags:
   - Hadopi
 ---
 
-Alors qu'Hadopi 2 fait parler de lui, il est bon de regarder du côté d'Hadopi premier du nom&#8230;
+Alors qu'Hadopi 2 fait parler de lui, il est bon de regarder du côté d'Hadopi premier du nom…
 
 **<!-- more -->
 

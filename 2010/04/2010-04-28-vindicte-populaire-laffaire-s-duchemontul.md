@@ -7,7 +7,7 @@ tags:
   - Égalité
 ---
 
-Personne ne se serait intéressé à S. Duchemontul si on n'avait pas arrêté sa femme au volant pour **conduite en état d'ivresse**. Depuis, c'est la folie médiatique. La France entière semble se passionner pour ce cheminot qui, il faut bien le dire, attire à lui toutes les inimitiés&#8230;
+Personne ne se serait intéressé à S. Duchemontul si on n'avait pas arrêté sa femme au volant pour **conduite en état d'ivresse**. Depuis, c'est la folie médiatique. La France entière semble se passionner pour ce cheminot qui, il faut bien le dire, attire à lui toutes les inimitiés…
 
 <!-- more -->
 
@@ -17,4 +17,4 @@ Il ne se passe plus un jour sans que l'homme ne fasse la une d'un journal télé
 
 > "Ce n'est pas parce qu'une enquête a déjà eu lieu chez Pôle Emploi et qu'on n'y a rien trouvé que cela nous empêche de ré-ouvrir le dossier et de fouiller jusqu'à ce que l'on trouve ce que l'on y cherche", aurait déclaré un porte-parole du Ministère.
 
-Cela vous semble aberrant&nbsp;? A moi aussi. Pourtant, S.Duchemontul existe mais il s'appelle Liès Hebbad. Et il n'est pas catholique, mais musulman. Ah, mais ça change tout, alors&nbsp;? En tout cas, j'en connais [un qui voudrait bien lui parler](http://cestlagene.com/2010/04/27/petite-explication-entre-quatre-yeux/)&#8230;
+Cela vous semble aberrant&nbsp;? A moi aussi. Pourtant, S.Duchemontul existe mais il s'appelle Liès Hebbad. Et il n'est pas catholique, mais musulman. Ah, mais ça change tout, alors&nbsp;? En tout cas, j'en connais [un qui voudrait bien lui parler](http://cestlagene.com/2010/04/27/petite-explication-entre-quatre-yeux/)…

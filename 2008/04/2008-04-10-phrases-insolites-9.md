@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Phrases insolites&#8230; #9"
+title: "Phrases insolites… #9"
 date: 2008-04-10 09:41:40
 tags:
   - Humour
@@ -17,18 +17,18 @@ ONU tout puissant**
 - Ouais mais non moi je te parle de l’acteur, pas du rôle&nbsp;! "
 
 **Un petit pas pour l'homme**
-" - Oui, le réchauffement climatique, moi, ça m’inquiète. Alors je fais des petites choses, tu vois, pour pas aggraver le truc&#8230; je prends pas la voiture, je fais plus le ménage avec l’aspirateur, j’utilise le micro-ondes au lieu du four&#8230; "
+" - Oui, le réchauffement climatique, moi, ça m’inquiète. Alors je fais des petites choses, tu vois, pour pas aggraver le truc… je prends pas la voiture, je fais plus le ménage avec l’aspirateur, j’utilise le micro-ondes au lieu du four… "
 
 **Deux bons tiers, facile**
 " - Il paraît qu’un tiers des français pense que TF1 est une chaîne publique.
 - Ça fait deux tiers de cons.
-- &#8230; "
+- … "
 
 **Chewbacca style**
 " Le chat, quand il n’a plus ses poils, qu’est-ce qui est maigre&nbsp;! Peut-être toi aussi faudrait essayer&nbsp;? "
 
 **Pasta bang**
-" Ah les paquets d'un kilo c'est bien, il faudrait qu'on en achète. Faut dire qu’on consomme beaucoup&#8230; des pâtes."
+" Ah les paquets d'un kilo c'est bien, il faudrait qu'on en achète. Faut dire qu’on consomme beaucoup… des pâtes."
 
 **L'homme en couple se repère facilement**
 " - Laisse tomber lui il est pas libre.

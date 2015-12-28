@@ -28,7 +28,7 @@ series:
 
 ## Echanges
 
-[Kaelig](http://sudweb.fr/2014/orateurs.html#kaelig-deloumeau-prigent "Kaelig, Peter Parker des moquettes") animait une conférence qui parlait d'un langage en vigueur au [Guardian](http://www.theguardian.com/uk "The Guardian"). Mais pas, comme nous aurions pu le penser, d'un langage de développement. Non, Kaelig nous parlait d'un langage commun entre métiers différents (développeurs, designers&#8230;), pour fluidifier les échanges et revenir à l'essentiel&nbsp;: produire un contenu ensemble plutôt que les uns à côté des autres, isolés par les barrières de nos langues respectives. SASS était au cœur du sujet mais il n'était que l'outil permettant d'exprimer ce langage commun. Une vraie leçon de management de projets technologiques et une réponse plutôt probante au problème de l'aubergine&nbsp;!
+[Kaelig](http://sudweb.fr/2014/orateurs.html#kaelig-deloumeau-prigent "Kaelig, Peter Parker des moquettes") animait une conférence qui parlait d'un langage en vigueur au [Guardian](http://www.theguardian.com/uk "The Guardian"). Mais pas, comme nous aurions pu le penser, d'un langage de développement. Non, Kaelig nous parlait d'un langage commun entre métiers différents (développeurs, designers…), pour fluidifier les échanges et revenir à l'essentiel&nbsp;: produire un contenu ensemble plutôt que les uns à côté des autres, isolés par les barrières de nos langues respectives. SASS était au cœur du sujet mais il n'était que l'outil permettant d'exprimer ce langage commun. Une vraie leçon de management de projets technologiques et une réponse plutôt probante au problème de l'aubergine&nbsp;!
 
 ## Créativité
 

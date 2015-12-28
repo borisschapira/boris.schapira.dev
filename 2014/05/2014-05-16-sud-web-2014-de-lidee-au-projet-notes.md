@@ -10,11 +10,11 @@ tags:
 
 ## Transcript de <em lang="en">Lightning Talk</em>, Sud&nbsp;Web&nbsp;2014
 
-En tant que consultant et chef de projet chez [Clever Age](http://www.clever-age.com/fr/ "Clever Garden, Clever Age, Clever Presence - 100% digital") ou professeur chez [Ingesup](http://www.ingesup.com/ "Ecole supérieure d"), je suis amené à aider régulièrement des clients, des collègues ou des étudiants à donner vie à des produits logiciels. Ces produits ne sont, à la base, que de simples idées comme vous, moi, pouvons en avoir souvent. Je suis sûr qu'ici-même, à cet instant, après d'aussi nombreuses prestations de qualité, les idées ne manquent pas. Mais souvent, nous ne savons pas trop quoi faire de ces idées, nous avons peur de les utiliser. Nous les laissons s’envoler, nous avons du mal à les formaliser ou nous n'arrivons pas à convaincre d'autres personnes de leur intérêt pour qu'ils nous suivent&#8230;
+En tant que consultant et chef de projet chez [Clever Age](http://www.clever-age.com/fr/ "Clever Garden, Clever Age, Clever Presence - 100% digital") ou professeur chez [Ingesup](http://www.ingesup.com/ "Ecole supérieure d"), je suis amené à aider régulièrement des clients, des collègues ou des étudiants à donner vie à des produits logiciels. Ces produits ne sont, à la base, que de simples idées comme vous, moi, pouvons en avoir souvent. Je suis sûr qu'ici-même, à cet instant, après d'aussi nombreuses prestations de qualité, les idées ne manquent pas. Mais souvent, nous ne savons pas trop quoi faire de ces idées, nous avons peur de les utiliser. Nous les laissons s’envoler, nous avons du mal à les formaliser ou nous n'arrivons pas à convaincre d'autres personnes de leur intérêt pour qu'ils nous suivent…
 
 <!-- more -->
 
-Au fil des années, pour faire mon travail, j'ai découvert plusieurs outils méthodologiques plus ou moins complexes qui aident à passer d'une idée à un projet. Ces outils dont vous avez peut-être déjà entendu parler&nbsp;: Lean Canvas, Service Design&#8230; peuvent parfois paraître intimidants et certains hésitent à les utiliser. Mon objectif aujourd'hui est de rappeler que ces méthodes sont toutes basées sur trois concepts-clés très simples, qui ne doivent pas vous effrayez&nbsp;: Capturer, Conceptualiser et Confronter. Ce n'est pas plus compliqué que ça.
+Au fil des années, pour faire mon travail, j'ai découvert plusieurs outils méthodologiques plus ou moins complexes qui aident à passer d'une idée à un projet. Ces outils dont vous avez peut-être déjà entendu parler&nbsp;: Lean Canvas, Service Design… peuvent parfois paraître intimidants et certains hésitent à les utiliser. Mon objectif aujourd'hui est de rappeler que ces méthodes sont toutes basées sur trois concepts-clés très simples, qui ne doivent pas vous effrayez&nbsp;: Capturer, Conceptualiser et Confronter. Ce n'est pas plus compliqué que ça.
 
 ## Capturer
 
@@ -49,4 +49,4 @@ Capturer, Conceptualiser, Confronter&nbsp;: voilà les trois clés que vous retr
 
 Quand je vois ce qu’est devenu Sud Web aujourd’hui, je suis très heureux de me dire que cette idée-là, ce concept de réunir les métiers du Web dans le Sud Ouest, ne soit pas tombé dans l’oubli. Merci donc à la Thym qui transpire pour nous chaque année.
 
-A vous de jouer maintenant, avec vos idées ou au service de celles de vos clients. Le Service Design, Lean Canvas&#8230; sont des outils que tout le monde peut utiliser, mais ce ne sont que des outils. La matière première, ce sont vos idées.
+A vous de jouer maintenant, avec vos idées ou au service de celles de vos clients. Le Service Design, Lean Canvas… sont des outils que tout le monde peut utiliser, mais ce ne sont que des outils. La matière première, ce sont vos idées.

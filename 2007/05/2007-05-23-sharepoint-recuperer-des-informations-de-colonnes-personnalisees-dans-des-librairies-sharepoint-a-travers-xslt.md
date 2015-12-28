@@ -6,7 +6,7 @@ tags:
   - Sharepoint
 ---
 
-Lorsque vous utilisez un _Content Query Web Part_, le comportement associé par défaut pour la présentation des informations est celui contenu dans le fichier XML situé à l&#039;adresse _&lt;root&gt;/Style Library/XSL Style Sheet/ItemStyle.xsl_, entre les balises _&lt;xsl:template name=&quot;Default&quot;&#8230;_ et _&lt;/xsl:template&gt;._
+Lorsque vous utilisez un _Content Query Web Part_, le comportement associé par défaut pour la présentation des informations est celui contenu dans le fichier XML situé à l&#039;adresse _&lt;root&gt;/Style Library/XSL Style Sheet/ItemStyle.xsl_, entre les balises _&lt;xsl:template name=&quot;Default&quot;…_ et _&lt;/xsl:template&gt;._
 
 Cette mise en page par défaut a donc cette tête&nbsp;:
 

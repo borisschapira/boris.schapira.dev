@@ -34,7 +34,7 @@ _-Vidéo qui fait passer [Cyprien](http://www.cyprien.fr/?2007/11/03/186-je-pass
 
 <div>&#xA0;</div>
 
-<div>Et sur BFM Radio, que j'écoute tous les matins, c'est le même schéma. Iphone par-ci, iPhone par-là&#8230; &quot;Vous allez l'acheter&quot;, &quot;On se l'arrache&quot;, &quot;Tout le monde le veut&quot;, &quot;C'est la folie iPhone&quot;&#8230;</div>
+<div>Et sur BFM Radio, que j'écoute tous les matins, c'est le même schéma. Iphone par-ci, iPhone par-là… &quot;Vous allez l'acheter&quot;, &quot;On se l'arrache&quot;, &quot;Tout le monde le veut&quot;, &quot;C'est la folie iPhone&quot;…</div>
 
 <div>&#xA0;</div>
 

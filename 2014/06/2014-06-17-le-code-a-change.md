@@ -24,7 +24,7 @@ Si je suis plutôt d'accord avec le premier argument, le second me gêne profond
 >
 >   II. - Au début de la deuxième phrase, les mots&nbsp;: layout: postIls contribuent&nbsp;» sont remplacés par les mots&nbsp;: layout: postLes écoles, les collèges, les lycées et les établissements d'enseignement supérieur contribuent&nbsp;».
 
-Bien que nos députés s'y soient mis à 35 (incroyable) pour le signer, ce texte est d'une grande stupidité et [je ne suis pas le seul à l'écrire](http://nicolas.biri.name/posts/2014-06-16-l-education-et-l-informatique.html "L") (allez-y, ne serait-ce que pour voir la vidéo). Mais d'abord, regardons pourquoi on en arrive là&#8230;
+Bien que nos députés s'y soient mis à 35 (incroyable) pour le signer, ce texte est d'une grande stupidité et [je ne suis pas le seul à l'écrire](http://nicolas.biri.name/posts/2014-06-16-l-education-et-l-informatique.html "L") (allez-y, ne serait-ce que pour voir la vidéo). Mais d'abord, regardons pourquoi on en arrive là…
 
 ## Pourquoi on pourrait _a priori_ être d'accord
 
@@ -46,7 +46,7 @@ Bref, si on s'arrêtait là, on pourrait se dire qu'en effet, le _codage_ a sa p
 > La science informatique est une science formelle, dont l'objet d'étude est le calcul au sens large, c'est-à-dire non pas exclusivement arithmétique, mais en rapport avec tout type d'information que l'on peut représenter de manière symbolique par une suite de nombres.
 >   [Wikipedia](http://fr.wikipedia.org/wiki/Informatique#Science_informatique "Science Informatique &quot;, Wikipedia")
 
-L'informatique englobe un certain nombre de champs d'études qui vont bien au-delà du _code_. Car le _code_ n'est qu'une façon de dire ce qu'on veut à une machine. Là où la science informatique a une vraie valeur, c'est dans sa définition de grands concepts d'infrastructure, d'algorithmie, de stockage&#8230; qui permettent de bien définir ce qu'on veut. Apprendre le code à des élèves ne les fera pas devenir chef de chantier, ça leur donnera uniquement une pelle pour creuser. Un peu comme si, du français, on n'apprenait que les mots, mais pas la grammaire, la conjugaison, l'analyse de textes de grandes auteurs&#8230;
+L'informatique englobe un certain nombre de champs d'études qui vont bien au-delà du _code_. Car le _code_ n'est qu'une façon de dire ce qu'on veut à une machine. Là où la science informatique a une vraie valeur, c'est dans sa définition de grands concepts d'infrastructure, d'algorithmie, de stockage… qui permettent de bien définir ce qu'on veut. Apprendre le code à des élèves ne les fera pas devenir chef de chantier, ça leur donnera uniquement une pelle pour creuser. Un peu comme si, du français, on n'apprenait que les mots, mais pas la grammaire, la conjugaison, l'analyse de textes de grandes auteurs…
 
 ### Non, l'informatique n'est pas essentielle
 
@@ -60,7 +60,7 @@ Si vous le voulez, vous pourrez apprendre la logistique, la mécanique et un nou
 
 ### Les cordonniers sont des gens qui n'ont vraiment pas de bol
 
-L'informatique, en tant que science de l'information, est très bien lotie. Vous connaissez l'expression "Les cordonniers sont les plus mal chaussés"&nbsp;? **Nous, c'est l'inverse**. Il est incroyablement facile de trouver de la formation en ligne concernant le code et l'informatique en général. Tutoriaux, MOOC, blogs, entreprises&#8230; tout le monde partage son savoir, en discute, le remet en cause régulièrement.
+L'informatique, en tant que science de l'information, est très bien lotie. Vous connaissez l'expression "Les cordonniers sont les plus mal chaussés"&nbsp;? **Nous, c'est l'inverse**. Il est incroyablement facile de trouver de la formation en ligne concernant le code et l'informatique en général. Tutoriaux, MOOC, blogs, entreprises… tout le monde partage son savoir, en discute, le remet en cause régulièrement.
 
 Evidemment, le niveau de compétence varie énormément d'un site à un autre. Certaines sources d'informations sont fiables, d'autres non. Certaines instruisent, d'autres donnent des astuces. Mais je préférerais de loin que le système éducatif continue à apprendre à nos enfants à faire des recherches documentaires efficaces - en recoupant, justement, les informations - sur le sujet de leur choix plutôt qu'il les forme à coder des boucles itératives. Ils auront tout le loisir d'apprendre ça sur Internet plus tard, s'ils le souhaitent.
 
@@ -72,7 +72,7 @@ Alors que faire&nbsp;? D'un côté, l'importance du code est indéniable. De l'a
 
 En fait, l'Education Nationale n'est pas complètement stupide (peu importe ce qu'en pense le législateur) et il existe un truc extraordinaire qui s'appelle le **socle commun des connaissances et des compétences**. Ce socle présente ce que tout élève doit savoir et maîtriser à la fin de la scolarité obligatoire. Dans ce socle figurent la compétence mathématique et les compétences de base en sciences et technologies.
 
-Ces compétences sont, bien sûr, enseignées à travers plusieurs matières dont les Mathématiques, la Physique, la Chimie, l'Histoire (oui, l'Impression ou la Revolution Industrielle, c'est aussi de l'histoire des Sciences), la Philosophie et l'Education Civique (pour l'enseignement du concept d'information, son importance et le contrat social entre les citoyens et l'Etat à qui ils confient la sécurité de leur vie privée)&#8230; et la Technologie.
+Ces compétences sont, bien sûr, enseignées à travers plusieurs matières dont les Mathématiques, la Physique, la Chimie, l'Histoire (oui, l'Impression ou la Revolution Industrielle, c'est aussi de l'histoire des Sciences), la Philosophie et l'Education Civique (pour l'enseignement du concept d'information, son importance et le contrat social entre les citoyens et l'Etat à qui ils confient la sécurité de leur vie privée)… et la Technologie.
 
 > En sixième, le domaine d'application retenu est&nbsp;: les moyens de transports.
 >   * analyse de produits (objets techniques peu complexes) pour comprendre les besoins essentiels ou créés auxquels ils répondent, leur constitution et leur fonctionnement,
@@ -90,7 +90,7 @@ Mais ce n'est pas la seule opportunité qui s'offre au législateur&nbsp;: l'ouv
 *   Une craie et un dessin au sol suffisent à enseigner le tri par bulle.
 *   Ils sont ravis d'apprendre les bases de la stéganographie. Apprenez-leur un [chiffre de César](http://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage "Chiffre de César &quot;, Wikipedia"), vous verrez !
 *   Distribuer une balle à chacun, alignez-les en file indienne et faites passer un seau dans lequel chacun pose sa balle avant de passer à son voisin. Parfait, ils ont maîtrisé l'itération. Comment décider à quel moment donner le seau, et si la file est circulaire, à quel moment le récupérer&nbsp;? Parfait, vous venez de les sensibiliser à la condition de sortie.
-*   &#8230; etc.
+*   … etc.
 
 Cette approche à plusieurs avantages&nbsp;:
 

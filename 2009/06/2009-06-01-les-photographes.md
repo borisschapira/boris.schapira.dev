@@ -7,9 +7,9 @@ tags:
   - Mariage
 ---
 
-Nous revenons de 4 jours sur Bordeaux durant lesquels nous avons fait le tour de quelques photographes&#8230;
+Nous revenons de 4 jours sur Bordeaux durant lesquels nous avons fait le tour de quelques photographes…
 
-<!-- more --> Les tarifs sont dans une fourchette 700-900€ pour une prestation sur la journée avec album 70+ photos à la clé. Les prix des retirages varient énormément (de 0,5 à 9,5€ par photo), comme ceux des albums supplémentaires (entre 40€ pour un livre photo "grand commerce" et 250€ pour un bel album en cuir relié réalisé à la main avec parfois un peu de scrapbooking) mais ce n'est rien par rapport au prix d'un CD contenant les photos HD libres de droits (de 0 à&#8230; 800 €&nbsp;!).
+<!-- more --> Les tarifs sont dans une fourchette 700-900€ pour une prestation sur la journée avec album 70+ photos à la clé. Les prix des retirages varient énormément (de 0,5 à 9,5€ par photo), comme ceux des albums supplémentaires (entre 40€ pour un livre photo "grand commerce" et 250€ pour un bel album en cuir relié réalisé à la main avec parfois un peu de scrapbooking) mais ce n'est rien par rapport au prix d'un CD contenant les photos HD libres de droits (de 0 à… 800 €&nbsp;!).
 
 Pour vous évitez de tomber dans le panneau, voici les photographe à éviter&nbsp;:
 
@@ -19,7 +19,7 @@ L'artiste n'est pas un photographe, il est un chanteur de la Star Ac' qui s'igno
 
 L'artiste attache une grande valeur à la matière. Il imprimera toutes vos photos sur papier glacé pour vous les montrer. Si vous n'en prenez que 40 sur 600, il jettera les autres. L'artiste vit de son art et ne paie pas de malus écologique (le prix du tirage est de toute façon inclus dans le forfait).
 
-L'artiste ne fait pas de photos "comme les autres". Attendez vous donc à quelques surprises&#8230;
+L'artiste ne fait pas de photos "comme les autres". Attendez vous donc à quelques surprises…
 
 ### L'industriel
 
@@ -31,7 +31,7 @@ Le problème de l'industriel est que le nombre a tué la créativité. Ses photo
 
 L'Ultra-Discount se cache à proximité d'un quartier dédié au Discount, ou d'une grande enseigne connue pour ses alléchant tarifs. Son argument de choc, c'est la réduction des prix. Concrètement, il vous propose exactement les mêmes tarifs que ses collègues (voire même plus cher), mais parce que c'est vous, que vous êtes unique et qu'il vous aime bien, il vous fait une réduction de X pourcent sur les deux albums des parents. Formidable, non&nbsp;?
 
-Bon, là, vous commencez normalement à vous poser la question&nbsp;: X %, c'est cool, mais sur quel montant&nbsp;? Et c'est là que l'Ultra-Discount vous allume. Il vous propose en fait une réduction à partir du tarif de l'album initial (aux environs de 800 €). Donc si on prend une réduction de -50% ("Enorme", vous répetera le photographe), cela vous fait l'album supplémentaire à&#8230; deux fois plus cher qu'ailleurs&nbsp;!
+Bon, là, vous commencez normalement à vous poser la question&nbsp;: X %, c'est cool, mais sur quel montant&nbsp;? Et c'est là que l'Ultra-Discount vous allume. Il vous propose en fait une réduction à partir du tarif de l'album initial (aux environs de 800 €). Donc si on prend une réduction de -50% ("Enorme", vous répetera le photographe), cela vous fait l'album supplémentaire à… deux fois plus cher qu'ailleurs&nbsp;!
 
 ### Conclusion
 

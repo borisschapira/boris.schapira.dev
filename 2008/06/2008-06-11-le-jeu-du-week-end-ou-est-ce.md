@@ -6,7 +6,7 @@ categories:
   - Humour
 ---
 
-Saurez-vous retrouver certains lieu un peu&#8230; spéciaux&nbsp;? Un rond point particulièrement tordu&nbsp;? Une école dont le panneau destiné aux automobilistes est dans la cour&nbsp;? Un dessin cochon visible depuis l'espace&nbsp;?
+Saurez-vous retrouver certains lieu un peu… spéciaux&nbsp;? Un rond point particulièrement tordu&nbsp;? Une école dont le panneau destiné aux automobilistes est dans la cour&nbsp;? Un dessin cochon visible depuis l'espace&nbsp;?
 
 Essayez un peu pour voir&nbsp;! Si vous séchez, dézoomez&nbsp;:)
 

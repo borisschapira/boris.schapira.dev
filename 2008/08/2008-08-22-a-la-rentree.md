@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A la rentrée&#8230;"
+title: "A la rentrée…"
 date: 2008-08-22 17:28:12
 tags:
   - Education

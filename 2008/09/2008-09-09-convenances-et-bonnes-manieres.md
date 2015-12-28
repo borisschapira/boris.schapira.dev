@@ -15,7 +15,7 @@ La femme est au cœur de toutes les attentions. Dès l'entrevue avec le jeune ho
 
 > Avant une entrevue, on prévient les deux jeunes gens. Parfois, pour ménager la susceptibilité de la jeune fille, on prévient seulement le jeune homme.
 
-S'en suit bien sûr le protocole de la requête. J'ai appris qu'il est de bon ton que ce soit le père du jeune homme qui demande la main de la jeune fille à son géniteur. Il est moins bien vu que le jeune homme vienne lui-même demander la main de la jeune fille, mais cela peut être toléré s'il vient accompagné de ses deux parents&#8230; Bien évidemment, il ne demande pas son avis à la jeune fille qui, si on comprend bien la citation de début de paragraphe, n'est peut-être même pas au courant.
+S'en suit bien sûr le protocole de la requête. J'ai appris qu'il est de bon ton que ce soit le père du jeune homme qui demande la main de la jeune fille à son géniteur. Il est moins bien vu que le jeune homme vienne lui-même demander la main de la jeune fille, mais cela peut être toléré s'il vient accompagné de ses deux parents… Bien évidemment, il ne demande pas son avis à la jeune fille qui, si on comprend bien la citation de début de paragraphe, n'est peut-être même pas au courant.
 
 A elle, ensuite, d'être la plus docile et la plus raffinée. Ainsi :
 

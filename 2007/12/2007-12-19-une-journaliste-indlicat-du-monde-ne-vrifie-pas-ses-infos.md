@@ -22,7 +22,7 @@ La phrase manque de classe et laisse suggérer que Microsoft France envoie tous 
 
 Bref, il est difficile de parler de rémunération et on se demande comment ce journaliste, qu'on peut supposer sérieux puisque travaillant pour un journal sérieux, en est arrivé à cette conclusion rapide.
 
-# A moins que&#8230;
+# A moins que…
 
 A moins que par "rémunération" le journaliste n'ait souhaité souligner les liens étroits qui existent entre Microsoft France et ses MSP ou les avantages "en licence" dont ceux-ci disposent. En effet, et à l'image des autres partenaires de la firme, les MSP se voient gratifiés d'abonnements offerts afin d'avoir une vision totale des gammes de produits proposés. Mais soyons clairs, il s'agit bien d'évaluer des solutions professionnelles : Microsoft n'offre ni les XBox, ni les jeux. Je ne suis même pas sûr qu'on ait XNA dans le package mais c'est à vérifier.
 
@@ -34,4 +34,4 @@ Bien sûr et je ne le cache pas, le programme remercie ses plus actifs collabora
 
 Le journaliste qui a publié cet article est certainement quelqu'un de sérieux qui s'est bêtement laissé tenter (peut-être pour la première fois) à un copier-coller sans vérification de ses sources. C'est si facile de trouver de l'anti-Microsoft, il suffit de tendre le bras et de se servir.
 
-D'ailleurs en fouillant bien on se rend compte qu'il existe parmi les antis une grande quantité de pro-Google ou de pro-Apple&#8230; qui disposent aussi de programmes ambassadeurs dont on parle moins parce que les invitations à des bêtas ou des Summer Camp (Google) ou les contrats d'équipements exclusifs des facultés (Apple) sont moins aguicheurs qu'un gros titre mettant en cause l'intégrité d'étudiants passionnés qui n'avaient rien demandé.
+D'ailleurs en fouillant bien on se rend compte qu'il existe parmi les antis une grande quantité de pro-Google ou de pro-Apple… qui disposent aussi de programmes ambassadeurs dont on parle moins parce que les invitations à des bêtas ou des Summer Camp (Google) ou les contrats d'équipements exclusifs des facultés (Apple) sont moins aguicheurs qu'un gros titre mettant en cause l'intégrité d'étudiants passionnés qui n'avaient rien demandé.

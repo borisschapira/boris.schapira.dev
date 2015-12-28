@@ -12,7 +12,7 @@ La situation est tendue pour Microsoft&nbsp;: le Windows Phone Marketplace est o
 
 <!-- more -->
 
-### Un choix complet de modèles économiques&#8230;
+### Un choix complet de modèles économiques…
 
 La soumission d'application supportera les formats commerciaux connus&nbsp;: gratuit, gratuit avec publicités et payant, avec la possibilité de définir via une API les modalités de test (notamment le sous-ensemble des fonctionnalités concerné). Il suffira de s'affranchir de 99$ de frais annuels pour pouvoir soumettre autant d'applications payantes que voulu mais une limitation à 5 applications gratuites sera mise en place (au delà, le développeur devra s'acquitter de 19.99$ par application). La soumission de mise-à-jour restera gratuite et illimitée. Enfin, afin de faciliter la distribution des applications, il sera désormais possible de publier une application à l'international sans que cela ne compte comme autant de publications que de marchés visés.
 
@@ -20,10 +20,10 @@ Ces nouvelles déclarations s'adressent à la fois aux groupes internationaux, q
 
 Les utilisateurs pourront régler directement par carte bleue ou via leur facture d'opérateur si un accord été pris entre Microsoft et leur opérateur. Toute la gestion des applications se fera via l'[interface développeur](http://developer.windowsphone.com "Site Windows Phone dédié au développeurs")[](http://developer.windowsphone.com/). Comme avant, 70% du C.A. reviendra au développeur, Microsoft et ses partenaires télécoms se partageant les 30% restant. Le paiement se fera sur une base mensuelle, à partir de 200$ cumulés internationalement.
 
-### &#8230;  mais une validation de contenu toujours obligatoire
+### …  mais une validation de contenu toujours obligatoire
 
 Malheureusement, si on trouve davantage de libertés au cœur des possibilités commerciales, il n'en est pas de même concernant la validation des applications avant leur apparitions sur le WP Marketplace. Certaines interdictions se comprennent (comme celle de reproduire du contenu protégé, ou d'encourager la haine), mais d'autres risquent de handicaper la plate-forme.
 
-Il n'y aura ainsi aucun contenu faisant volontairement ou non la promotion de l'alcool, du tabac, des armes et des drogues, aucun contenu adulte (sexe, nudité, en image, texte ou piste audio), aucune application s'apparentant à du piratage (selon qui&nbsp;?) ou de la violence (la liste des interdits est assez longue&nbsp;: décapitation, morceaux de corps, strangulation, manuels expliquant comment être violent avec un autre être humain&#8230; ils sont précis chez Microsoft). Même les injures sont interdites.
+Il n'y aura ainsi aucun contenu faisant volontairement ou non la promotion de l'alcool, du tabac, des armes et des drogues, aucun contenu adulte (sexe, nudité, en image, texte ou piste audio), aucune application s'apparentant à du piratage (selon qui&nbsp;?) ou de la violence (la liste des interdits est assez longue&nbsp;: décapitation, morceaux de corps, strangulation, manuels expliquant comment être violent avec un autre être humain… ils sont précis chez Microsoft). Même les injures sont interdites.
 
-De quoi voir de beaux dérapages,  à l'instar du MarketPlace d'Apple, avec des interdictions de dictionnaires (contenant forcément des références sexuelles et éventuellement des grossièretés), de jeux (GTA&nbsp;?) ou de manuels de karaté. Espérons que Microsoft saura être plus fin que la firme de Cupertino&#8230;
+De quoi voir de beaux dérapages,  à l'instar du MarketPlace d'Apple, avec des interdictions de dictionnaires (contenant forcément des références sexuelles et éventuellement des grossièretés), de jeux (GTA&nbsp;?) ou de manuels de karaté. Espérons que Microsoft saura être plus fin que la firme de Cupertino…

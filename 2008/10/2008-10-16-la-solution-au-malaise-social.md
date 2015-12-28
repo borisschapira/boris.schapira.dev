@@ -24,4 +24,4 @@ categories:
 > 
 > [Le Parisien](http://www.leparisien.fr/une/marseillaise-huee-80-des-francais-choques-16-10-2008-277626.php)
 
-Toutes mes félicitations au gouvernement pour ces décisions courageuses qui prennent le problème à bras le corps. Avec ça, on va avancer, c'est sûr&#8230;
+Toutes mes félicitations au gouvernement pour ces décisions courageuses qui prennent le problème à bras le corps. Avec ça, on va avancer, c'est sûr…

@@ -6,7 +6,7 @@ categories:
   - Technologie
 ---
 
-![](/images/)La véritable bible du über-geek, le petit livre rouge du technophile connecté, la lecture au bureau qu'il vous faut afficher&#8230; vient de paraître dans [le bon kiosque d'Olivier Ezratty](http://www.oezratty.net/wordpress/2009/rapport-ces-2009/).
+![](/images/)La véritable bible du über-geek, le petit livre rouge du technophile connecté, la lecture au bureau qu'il vous faut afficher… vient de paraître dans [le bon kiosque d'Olivier Ezratty](http://www.oezratty.net/wordpress/2009/rapport-ces-2009/).
 
 Comme chaque année, vous y retrouverez une synthèse (enfin si on peut appeler ce monument de 192 pages une synthèse) de tout ce qui a été présenté au CES 2009 accompagnée de parallèles et de comparaisons, d'analyses et de tableaux récapitulatifs.
 

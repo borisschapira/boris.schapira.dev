@@ -6,7 +6,7 @@ tags:
   - Outils
 ---
 
-Hier était présentée en grandes pompes la prochaine mouture de l’OS de Microsoft, nom de code "Windows 8". À chaud, on peut déjà relever quelques points : rétrocompatibilité Windows 7, performances améliorées, cibles "tablettes", nouvelle interface au look <em lang="en">Flat Design</em>, Internet Explorer 10, nouvelles modalités de login (il était temps), développement HTML/JS, Marketplace, compatibilité des applications Windows Phone&#8230; mais ce sera probablement l’objet d’un futur article.
+Hier était présentée en grandes pompes la prochaine mouture de l’OS de Microsoft, nom de code "Windows 8". À chaud, on peut déjà relever quelques points : rétrocompatibilité Windows 7, performances améliorées, cibles "tablettes", nouvelle interface au look <em lang="en">Flat Design</em>, Internet Explorer 10, nouvelles modalités de login (il était temps), développement HTML/JS, Marketplace, compatibilité des applications Windows Phone… mais ce sera probablement l’objet d’un futur article.
 
 <!-- more -->
 

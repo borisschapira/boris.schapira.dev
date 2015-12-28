@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VBA, Extensions OpenOffice&#8230; les langages de script bureautiques"
+title: "VBA, Extensions OpenOffice… les langages de script bureautiques"
 date: 2007-09-10 10:00:36
 tags:
   - Développement
@@ -24,8 +24,8 @@ Pour des raisons de rapidité et de simplicité, le modèle de plug-in a été r
 
 Mais personnellement, je ne conseille pas OpenOffice pour ce type d'utilisation. Voici pourquoi :
 
-*   Le processus de production de l'add-on est un cauchemar. Là où Microsoft Office vous permet de créer, en mode code ou juste en enregistrant vos actions, une fonction informatisée puis de l'enregistrer en fichier, OpenOffice vous impose de nombreuses étapes visant à fournir votre code mais également toute l'implémentation des menus permettant d'y faire appel. Un outil permettant d'automatiser le procesus existe mais n'a pas été mis à jour depuis des années&#8230;
-*   Dans la mesure où le développement d'OpenOffice.org n'est pas directement relié à ses utilisateurs par un contrat financier fort comme l'achat de licence, le modèle de gestion des add-ons peut très bien évoluer d'une version à l'autre (comme cela s'est fait à la version 2.0.4). Impossible d'obtenir une certification de la pérennité de ses développements dans ce contexte&#8230;
+*   Le processus de production de l'add-on est un cauchemar. Là où Microsoft Office vous permet de créer, en mode code ou juste en enregistrant vos actions, une fonction informatisée puis de l'enregistrer en fichier, OpenOffice vous impose de nombreuses étapes visant à fournir votre code mais également toute l'implémentation des menus permettant d'y faire appel. Un outil permettant d'automatiser le procesus existe mais n'a pas été mis à jour depuis des années…
+*   Dans la mesure où le développement d'OpenOffice.org n'est pas directement relié à ses utilisateurs par un contrat financier fort comme l'achat de licence, le modèle de gestion des add-ons peut très bien évoluer d'une version à l'autre (comme cela s'est fait à la version 2.0.4). Impossible d'obtenir une certification de la pérennité de ses développements dans ce contexte…
 
 Cependant, il reste des points dont Microsoft devraient s'inspirer :
 

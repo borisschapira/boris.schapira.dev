@@ -19,7 +19,7 @@ Il n'y a rien qui vous empêchait, dès hier, de créer des sites Web HTML5 et C
 
 C'est en réunissant quelques collègues de l'équipe "Plate-Forme et Outils Web" qu'est né la "<del>Rogue</del> Team" à l'origine de ce [Web Standard Update pour Visual Studio 2010](https://visualstudiogallery.msdn.microsoft.com:443/a15c3ce9-f58f-42b7-8668-53f6cdc2cd83 "Téléchargement de Web Standards Update pour Microsoft Visual Studio 2010 SPI et Visual Web Developer Express 2010 SP1") qui ajoute à Visual Studio le support d'HTML5, de CSS3 et de nouvelles fonctionnalités JavaScript.
 
-Au menu des fonctionnalités HTML5, on pourra citer&nbsp;: Video, Audio, Input typés, support du Drag &amp; Drop, [WAI-ARIA](//www.w3.org/WAI/intro/aria) pour l'accessibilité, [Microdatas](http://www.w3.org/TR/microdata/) &amp; [Schema.org](http://schema.org/docs/gs.html) (ce sont les SEO qui vont sauter de joie)&#8230;
+Au menu des fonctionnalités HTML5, on pourra citer&nbsp;: Video, Audio, Input typés, support du Drag &amp; Drop, [WAI-ARIA](//www.w3.org/WAI/intro/aria) pour l'accessibilité, [Microdatas](http://www.w3.org/TR/microdata/) &amp; [Schema.org](http://schema.org/docs/gs.html) (ce sont les SEO qui vont sauter de joie)…
 
 Côté API navigateurs&nbsp;: [Geo-Location](http://dev.w3.org/geo/api/spec-source.html) et [Local Storage](http://www.w3.org/TR/webstorage/).
 

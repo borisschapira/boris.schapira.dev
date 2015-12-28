@@ -14,7 +14,7 @@ tags:
 >
 > Alexandre Delaigue et Stéphane Menia, [Sexe, drogue… et économie](http://econoclaste.org.free.fr/econoclaste/?page_id=163 "Sexe, drogue… et économie")
 
-Nous avons une grande tendance, en France, à sacraliser le vote. Peut-être s'est-on tellement battu pour l'avoir que nous considérons qu'il s'agit du seul mécanisme d'expression citoyenne. Cela nous a amené, au fil des années, à négliger les indécis. Sauf que&#8230;
+Nous avons une grande tendance, en France, à sacraliser le vote. Peut-être s'est-on tellement battu pour l'avoir que nous considérons qu'il s'agit du seul mécanisme d'expression citoyenne. Cela nous a amené, au fil des années, à négliger les indécis. Sauf que…
 
 <!-- more -->
 

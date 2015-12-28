@@ -9,7 +9,7 @@ tags:
 canonical: http://blog.clever-age.com/fr/2012/11/16/comment-mettre-en-place-une-strategie-de-performance-web/
 ---
 
-Dans ce nouvel article consacré à la performance Web, nous nous attarderons sur la partie "stratégie et culture d’entreprise" ou comment un enjeu technique peut devenir une aventure de longue haleine&#8230;
+Dans ce nouvel article consacré à la performance Web, nous nous attarderons sur la partie "stratégie et culture d’entreprise" ou comment un enjeu technique peut devenir une aventure de longue haleine…
 
 <!-- more -->
 
@@ -52,7 +52,7 @@ A ce niveau, vous avez suffisamment d’expérience sur le SI de l’entreprise 
 
 Problème : dans la mesure où vous analysez la production, vous arrivez toujours trop tard. Il est grand temps d’anticiper en réalisant des tests de performance sur les environnements internes, avant que le code ne soit livré. L’occasion, peut-être, de déployer une [instance privée de WebPageTest.org](https://sites.google.com/a/webpagetest.org/docs/private-instances) et de passer par l’API pour lancer certains tests.
 
-C’est une phase où la difficulté est organisationnelle, car suivant la taille du site ou sa volumétrie, vos relevés de performance "à la main" sur plusieurs environnements commencent à être coûteux en temps&#8230;
+C’est une phase où la difficulté est organisationnelle, car suivant la taille du site ou sa volumétrie, vos relevés de performance "à la main" sur plusieurs environnements commencent à être coûteux en temps…
 
 ### Niveau 3 - l’automatisation
 
@@ -62,7 +62,7 @@ Plusieurs solutions sont possibles : la première, la plus évidente, est d’a
 
 Rien ne vous empêche cependant de réaliser l’investissement nécessaire à une véritable amélioration de votre trousse à outils en basculant vers la mesure de l’expérience réelle des utilisateurs. Il peut s’agir de Peer Testing, c’est-à-dire de mesurer la performance de votre site sur une population cible (à la façon d’un Focus Group), ou de mesures réalisées en JavaScript et renvoyées à vos serveurs ou à un service externe.
 
-On peut citer, dans ce domaine : [Gomez RUM](//www.compuware.com/en_us/application-performance-management/products/user-experience-management/real-user-monitoring-enterprise.html), [Google Analytics](//www.google.com/intl/fr/analytics/),[Boomerang](//www.lognormal.com/boomerang/doc/), [New Relic RUM](http://newrelic.com/browser-monitoring), [Episodes 2](http://stevesouders.com/episodes2/)&#8230;
+On peut citer, dans ce domaine : [Gomez RUM](//www.compuware.com/en_us/application-performance-management/products/user-experience-management/real-user-monitoring-enterprise.html), [Google Analytics](//www.google.com/intl/fr/analytics/),[Boomerang](//www.lognormal.com/boomerang/doc/), [New Relic RUM](http://newrelic.com/browser-monitoring), [Episodes 2](http://stevesouders.com/episodes2/)…
 
 L’avantage est évident : vous n’êtes plus dans un contexte de test provoqué, mais bien dans une visualisation de l’expérience réelle de vos visiteurs, qui ont probablement une façon bien à eux d’utiliser le site, différente de la vôtre. Vos mesures sont plus fiables et la corrélation avec les indicateurs métier n’en est que meilleure. Vous vous rapprochez des populations métier/commerce, car vous parlez désormais le même langage : celui qui s’articule non-pas autour d’une notion technique, mais autour du client.
 
@@ -74,6 +74,6 @@ Mais comme un grand pouvoir implique de grandes responsabilités, il est désorm
 
 ### Niveau 5 - la constance
 
-Vous y êtes, vous contrôlez la performance Web du ou des sites de l’entreprise. Votre vision de la performance est bien sûr troublée par des imprévus mineurs mais vous êtes globalement maître des temps de réponse du site. Il s’agit à cette étape de pérenniser le travail effectué : réalisation de tableaux de bord contenant des indicateurs mis-à-jour en temps réel sur les différents environnements mesurés, analyse de l’impact commercial avant la livraison, définition de refontes alliant métier et performance&#8230; etc.
+Vous y êtes, vous contrôlez la performance Web du ou des sites de l’entreprise. Votre vision de la performance est bien sûr troublée par des imprévus mineurs mais vous êtes globalement maître des temps de réponse du site. Il s’agit à cette étape de pérenniser le travail effectué : réalisation de tableaux de bord contenant des indicateurs mis-à-jour en temps réel sur les différents environnements mesurés, analyse de l’impact commercial avant la livraison, définition de refontes alliant métier et performance… etc.
 
 Et si vous avez encore 5 minutes, n’hésitez pas à rejoindre la communauté des Web Performers français qui s’articule aujourd’hui autour du projet d’analyse des [bonnes pratiques WebPerf OpQuast](https://checklists.opquast.com/webperf/workshops/status/discussion). On vous attends !

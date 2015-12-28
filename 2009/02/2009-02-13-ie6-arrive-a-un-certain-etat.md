@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IE6 : «&#160;Arrivé à un certain état&#8230;&#160;»"
+title: "IE6 : «&#160;Arrivé à un certain état…&#160;»"
 date: 2009-02-13 10:27:31
 tags:
   - Développement

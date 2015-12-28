@@ -7,7 +7,7 @@ tags:
 series: Dangers du Net
 ---
 
-Depuis que j'ai orienté mes études dans l'informatique, mes amis m'appellent souvent pour résoudre leurs problèmes de configuration ou de virus, quand il ne s'agit pas d'arnaques sur le web. Non pas que cela me dérange, mais je me dis souvent qu'avec un peu plus de sensibilisation et d'information, cela n'arriverait pas. J'ai donc décidé d'écrire quelques articles pour éclairer les choses&#8230;
+Depuis que j'ai orienté mes études dans l'informatique, mes amis m'appellent souvent pour résoudre leurs problèmes de configuration ou de virus, quand il ne s'agit pas d'arnaques sur le web. Non pas que cela me dérange, mais je me dis souvent qu'avec un peu plus de sensibilisation et d'information, cela n'arriverait pas. J'ai donc décidé d'écrire quelques articles pour éclairer les choses…
 
 <!-- more -->
 
@@ -24,4 +24,4 @@ Ainsi, pour lutter contre les PC zombies, il y a quelques gestes très simples q
 *   Avoir des logiciels à jour
 *   Sans oublier le contrôle parental !
 
-Ces quelques gestes simples suffisent, dans l'immense majorité des cas, à éradiquer la plupart des problèmes de "PC zombie" dont on vient de parler. Mais pour que cela se sache, il est nécessaire de faire de la pédagogie et donc de répéter, répéter, répéter encore&#8230;
+Ces quelques gestes simples suffisent, dans l'immense majorité des cas, à éradiquer la plupart des problèmes de "PC zombie" dont on vient de parler. Mais pour que cela se sache, il est nécessaire de faire de la pédagogie et donc de répéter, répéter, répéter encore…

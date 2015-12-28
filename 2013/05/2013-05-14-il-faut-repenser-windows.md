@@ -52,9 +52,9 @@ Windows 8 (et Windows Phone) est né de ce manque, de cette absence. Microsoft e
   <figcaption>L’écran d’accueil de Windows 8&nbsp;: l’écran d’accueil de Windows 8 est un bel exemple d’interface "Modern UI" en Flat Design</figcaption>
 </figure>
 
-Une nouvelle interface, au design innovant (qui a participé à la tendance "Flat Design" qu’on voit fleurir en ce moment), avec laquelle l’utilisateur interagit d’une façon inédite sous Windows. D’un point de vue fonctionnel, une très bonne synthèse de toutes les tendances du moment. Sauf que&#8230;
+Une nouvelle interface, au design innovant (qui a participé à la tendance "Flat Design" qu’on voit fleurir en ce moment), avec laquelle l’utilisateur interagit d’une façon inédite sous Windows. D’un point de vue fonctionnel, une très bonne synthèse de toutes les tendances du moment. Sauf que…
 
-&#8230; sauf que pour conserver le cœur de Windows, pour justement convaincre les millions d’utilisateurs et de développeurs Windows, Microsoft n’a pas osé tout changer et Windows 8 n’est pas que Modern UI.
+… sauf que pour conserver le cœur de Windows, pour justement convaincre les millions d’utilisateurs et de développeurs Windows, Microsoft n’a pas osé tout changer et Windows 8 n’est pas que Modern UI.
 
 Windows reste un système de bureau qui s’utilise avec une souris et un clavier et pour lequel les gros doigts des utilisateurs de tablettes n’ont aucun intérêt. Windows 8 ne déroge pas à la règle. Derrière l’interface innovante se cache un bureau qui a très peu changé depuis Windows 98, à la fois visuellement et dans les usages. Il faut dire que Windows est un système hérité, sur lequel les utilisateurs s’attendent à pouvoir conserver leurs habitudes. De la nouveauté, ils en veulent, mais tant que les logiciels Windows 98 continuent à s’exécuter.
 
@@ -73,7 +73,7 @@ Ainsi, le "problème" de Windows 8 ne vient pas nécessairement de sa nouvelle i
   <a data-featherlight="image" href="/assets/images/2013-05-14/5.jpg" title="Voir en plus grand">
     {% responsive_image path: assets/images/2013-05-14/5.jpg alt="Un Rubik's Cube" %}
   </a>
-  <figcaption>Agencer les sensibilités peut-être un sacré casse-tête&#8230;</figcaption>
+  <figcaption>Agencer les sensibilités peut-être un sacré casse-tête…</figcaption>
 </figure>
 
 Faut-il faire table rase de ce Windows pour préparer le suivant&nbsp;? Non, bien sûr, et j’irais même plus loin en disant qu’il faudrait peu de choses pour redonner de la cohérence au produit. Il est juste nécessaire de séparer les usages. D’un côté, un Windows dédié aux tablettes et 100% Modern UI (c’est déjà le cas de Windows RT, mais avec des contraintes de développement pénibles). De l’autre, un Windows en pur “bureau”, sans mixité forcée avec la nouvelle interface et qui assure la rétro-compatibilité nécessaire à de nombreux usages bureautiques.

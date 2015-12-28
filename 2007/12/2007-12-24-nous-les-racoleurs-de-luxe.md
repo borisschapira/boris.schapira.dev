@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nous&#8230; les racoleurs de luxe"
+title: "Nous… les racoleurs de luxe"
 date: 2007-12-24 22:14:21
 tags:
   - Technologie

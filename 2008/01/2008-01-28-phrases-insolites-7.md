@@ -11,7 +11,7 @@ _C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!_
 
 <!-- more -->
 
-On dit que la vérité sort de la bouche des enfants&#8230;
+On dit que la vérité sort de la bouche des enfants…
 
 Ces deux-là devaient avoir dans les 6 ou 7 ans et jouaient avec leurs petits personnages&nbsp;:
 

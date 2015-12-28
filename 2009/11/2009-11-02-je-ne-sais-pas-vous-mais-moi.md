@@ -33,11 +33,11 @@ Mon assureur/banquier ne me reçoit jamais dans le** **hall de son **palace**. L
 
 Je ne suis pas** <acronym title="Best Friend Forever (Meilleur(e)s ami(e)s pour la vie)">_BFF_ </acronym>avec un produit laitier**, et je pense que si ça m'arrive un jour, j'envisagerais de consulter.
 
-&#8230; etc
+… etc
 
 Moi, je serais un publicitaire TV, je m'inquiéterais. Je ne sais pas si tout le monde est comme moi mais j'ai quand même l'impression que de moins en moins de gens sont sensibles à ce genre de réclames. Ou alors il faudrait faire des **campagnes croisées**, qui mélangeraient les spots pour plus d'efficacité&nbsp;:
 
 *   Juste avant une campagne de la SPA, une réclame pour un chocolat bien connu emballé par des marmottes
 *   Au milieu de la campagne "Dites non à la drogue", la réclame des produits laitiers avec les petits bonhommes blanc qui prennent une douche de lait aux mamelles de la vache. Efficacité garantie.
-*   Vous connaissez cette pub pour du pain de mie où un conducteur freine brutalement tandis que le passager arrière se voit sauver par le moelleux d'une tartine&nbsp;? Imaginez qu'elle passe juste avant une pub "choc" de la sécurité routière&#8230;
-Avouez que ça aurait de la gueule&nbsp;! Ce serait de mauvais goût, certes, mais ça resterait dans les mémoires&#8230;
+*   Vous connaissez cette pub pour du pain de mie où un conducteur freine brutalement tandis que le passager arrière se voit sauver par le moelleux d'une tartine&nbsp;? Imaginez qu'elle passe juste avant une pub "choc" de la sécurité routière…
+Avouez que ça aurait de la gueule&nbsp;! Ce serait de mauvais goût, certes, mais ça resterait dans les mémoires…

@@ -6,7 +6,7 @@ tags:
   - Education
 ---
 
-## parce que bon, là, on rate un truc&#8230;
+## parce que bon, là, on rate un truc…
 
 Je suis sorti du lycée en sachant me servir d’un compas et d’une équerre, mais sans savoir comment calculer les intérêts actualisés d’un prêt.
 

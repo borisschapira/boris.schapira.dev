@@ -15,7 +15,7 @@ _Note&nbsp;: et voilà, c'est fini, pfiou&nbsp;! Pour les curieux, [les <em lang
 On m'a dit un jour&nbsp;:
 > Les experts ne sont pas toujours des experts avant de prendre la parole&nbsp;: c'est leur prise de parole qui fait que nous les considérons comme des experts.
 
-Je ne sais pas pourquoi. Peut-être parce que nous savons, au fond de nous, que la prise de parole nécessite un travail important en amont, sans forcément arriver à l'évaluer&#8230;
+Je ne sais pas pourquoi. Peut-être parce que nous savons, au fond de nous, que la prise de parole nécessite un travail important en amont, sans forcément arriver à l'évaluer…
 
 Il y a quelques mois, j'ai soumis une idée pour un <em lang="en">[Lightning Talk](https://en.wikipedia.org/wiki/Lightning_talk)</em> (une courte présentation) pour Sud Web&nbsp;: **"De l'idée au projet"**.
 
@@ -41,7 +41,7 @@ Une fois qu'on a l'idée, encore faut-il démarrer l'écriture. Ma principale di
 
 ### J-23&nbsp;: La répétition
 
-Dans un exercice oral comme celui-là, le rythme et la répétition sont importants, ainsi que l'utilisation de repères simples à se remémorer. Il est ainsi possible de reformuler légèrement les trois points principaux de manière à pouvoir en parler sous une forme qui sonne juste. J'ai opté pour des verbes, symboles d'action, et je les ai pris commençant tous trois par un "C"&#8230; parce que c'est marrant&nbsp;:
+Dans un exercice oral comme celui-là, le rythme et la répétition sont importants, ainsi que l'utilisation de repères simples à se remémorer. Il est ainsi possible de reformuler légèrement les trois points principaux de manière à pouvoir en parler sous une forme qui sonne juste. J'ai opté pour des verbes, symboles d'action, et je les ai pris commençant tous trois par un "C"… parce que c'est marrant&nbsp;:
 
 *   Capturer,
 *   Conceptualiser,
@@ -94,4 +94,4 @@ Je m'aperçois également que j'ai lu mes notes pendant l'appel, ce qui est un a
 
 Je suis environ à 1200 mots, ce qui est très loin de mon premier jet initial inférieur à 800 mots, mais je maîtrise assez bien l’enchaînement qui contient davantage de répétitions et de tic de langages qui facilitent sa mémorisation. Par contre, là où ça peut coincer, c'est que je me minute régulièrement à 7-8 minutes (*note post-présentation&nbsp;: cela sera en effet mon chrono*).
 
-Plus ça va, plus je me rends compte qu'un <em lang="en">Lightning Talk</em> est, par bien des aspects, plus compliqué à produire qu'une présentation de 30 minutes où on peut laisse davantage de place à l'improvisation. Advienne que pourra, plus moyen de faire demi-tour et évidemment hors de question de retoucher aux <em lang="en">slides</em> au denier moment. J'aviserai sur place, en fonction de notre conformité au planning. S'il le faut, j'irai plus vite sur certaines parties&#8230; si je peux.
+Plus ça va, plus je me rends compte qu'un <em lang="en">Lightning Talk</em> est, par bien des aspects, plus compliqué à produire qu'une présentation de 30 minutes où on peut laisse davantage de place à l'improvisation. Advienne que pourra, plus moyen de faire demi-tour et évidemment hors de question de retoucher aux <em lang="en">slides</em> au denier moment. J'aviserai sur place, en fonction de notre conformité au planning. S'il le faut, j'irai plus vite sur certaines parties… si je peux.

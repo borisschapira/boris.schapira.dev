@@ -9,7 +9,7 @@ tags:
 
 Maxime, un ami Esieen, pose de justes questions dans un commentaire de mon précédent article qui mérite une réponse. J'ai fait quelques coupes dans le commentaires original pour aller à l'essentiel, mais vous pouvez le retrouver ici.
 
-> Mes questions portent sur les DRM (Digital Rights Management, que certains surnomment les Digital Restrictions Management), intégrés de manière avancée dans Vista&#8230;
+> Mes questions portent sur les DRM (Digital Rights Management, que certains surnomment les Digital Restrictions Management), intégrés de manière avancée dans Vista…
 >
 > Pour ceux qui savent pas, en gros les DRM donnent des pouvoirs qui vous appartenaient jadis, à Microsoft et aux géants des médias, comme le pouvoir de décider quel programme on peut utiliser ou non sur son ordinateur, le pouvoir d'installer de nouveaux programmes (cette fois à l'insu de son plein gré), ou encore le pouvoir de restreindre l'accès à certains programmes, voire à ses propres fichiers de données.
 >
@@ -17,7 +17,7 @@ Maxime, un ami Esieen, pose de justes questions dans un commentaire de mon préc
 >
 > Je précise aussi que pour que l'ordinateur puisse vous signifier ce que vous ne pouvez pas faire, il vous surveille en continu, ce qui utilise inutilement (pas selon le point de vue de Microsoft) de la puissance de calcul et de la mémoire D'où un besoin d'avoir une configuration plus puissante, même si vous voulez simplement continuer à utiliser les mêmes logiciels.
 >
-> [&#8230;]
+> […]
 >
 > Est-ce que c'est au contraire un sujet tabou [les libertés]&nbsp;? Pourquoi Microsoft n'utilise pas sa formidable popularité planétaire pour répandre de meilleures idées&nbsp;?
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Encore de la marge&#8230;"
+title: "Encore de la marge…"
 date: 2014-05-13 09:23:59
 tags:
   - Front-End

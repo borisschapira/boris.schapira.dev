@@ -15,4 +15,4 @@ Il existe différents moyen de ramener une image à un ensemble de valeurs compa
 
 Plutôt que d'enlever des lignes ou colonnes entières de pixels lors d'un redimensionnement (méthode traditionnelle), on ne supprime que les tracés d'intérêt faible. Ainsi, l'image obtenue présente un contenu similaire à l'image d'origine. Bien sûr et comme l'ordinateur ne peut pas toujours faire la différence entre le négligeable et l'important, il est possible de donner une forte valeur manuellement à certaines zones pour éviter leur disparition.
 
-La documentation complète du professeur [Ariel Shamir ](http://www.faculty.idc.ac.il/arik/)se trouve ici (50 Mo et un taux de transfet très bas&#8230; mais pour qui s'intéresse au traitement d'images, c'est passionnant).
+La documentation complète du professeur [Ariel Shamir ](http://www.faculty.idc.ac.il/arik/)se trouve ici (50 Mo et un taux de transfet très bas… mais pour qui s'intéresse au traitement d'images, c'est passionnant).

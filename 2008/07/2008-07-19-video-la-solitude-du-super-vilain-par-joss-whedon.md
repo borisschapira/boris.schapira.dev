@@ -12,7 +12,7 @@ Joss Whedon reviens. Rappelons qu'il est l'auteur des séries TV [Roseanne, ](//
 
 <!-- more -->
 
-Beaucoup seraient prêts à donner un organe pour avoir un dixième du talent de monsieur. Alors quand il revient sur un projet Online puis DVD impliquant [Neil Patrick Harris (Barney dans How I Met Your Mother)](//en.wikipedia.org/wiki/Neil_Patrick_Harris "Neil Patrick Harris"), [Nathan Fillion (déjà à l'affiche dans Serenity)](//en.wikipedia.org/wiki/Nathan_Fillion "Nathan Fillion") et [Felicia Day (une ancienne "tueuse" dans Buffy)](http://en.wikipedia.org/wiki/Felicia_Day "Felicia Day")&#8230; on sent le gros délire. Mais on ne s'attend pas forcément au mésaventures d'un super-vilain qui essaie de draguer&#8230; sa voisine de lavomatic. Rajoutez à ça qu'il s'agit d'un comédie musicale, et vous tenez le pompon&nbsp;!
+Beaucoup seraient prêts à donner un organe pour avoir un dixième du talent de monsieur. Alors quand il revient sur un projet Online puis DVD impliquant [Neil Patrick Harris (Barney dans How I Met Your Mother)](//en.wikipedia.org/wiki/Neil_Patrick_Harris "Neil Patrick Harris"), [Nathan Fillion (déjà à l'affiche dans Serenity)](//en.wikipedia.org/wiki/Nathan_Fillion "Nathan Fillion") et [Felicia Day (une ancienne "tueuse" dans Buffy)](http://en.wikipedia.org/wiki/Felicia_Day "Felicia Day")… on sent le gros délire. Mais on ne s'attend pas forcément au mésaventures d'un super-vilain qui essaie de draguer… sa voisine de lavomatic. Rajoutez à ça qu'il s'agit d'un comédie musicale, et vous tenez le pompon&nbsp;!
 
 <span class="important">[Les deux premiers épisodes sont déjà en ligne mais plus pour très longtemps&nbsp;!](http://drhorrible.com/)</span>
 

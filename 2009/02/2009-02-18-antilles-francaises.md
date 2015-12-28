@@ -16,6 +16,6 @@ Il aurait fallu envoyer à notre Président une facture de supermarché. Qu'il c
 
 Et bien en fait&nbsp;: non. Le salaire net moyen en 2006 en Martinique, c'était 21 198 euros, contre 23 306 pour la Métropole. Et la différence en encore plus grave pour un ouvrier, payé 16 000 euros en moyenne en Martinique, contre 17 083 euros pour son équivalent en Métropole ([chiffres INSEE](http://www.insee.fr/fr/themes/theme.asp?theme=3&amp;sous_theme=1&amp;type=2&amp;nivgeo=23)).
 
-Je me demande comment notre Président peut encore faire l'économie d'un déplacement sur place. Peut-être qu'il a peur&nbsp;? Après tout, la Martinique, il connait assez peu. Si je me souviens bien, il y est allé en avril dernier pour l'enterrement d'Aimé Césaire&#8230; qui lui avait offert son "Discours sur le colonialisme" de 1950 lors de sa précédente visite en mars 2006\. C'est sûr, ça refroidit.
+Je me demande comment notre Président peut encore faire l'économie d'un déplacement sur place. Peut-être qu'il a peur&nbsp;? Après tout, la Martinique, il connait assez peu. Si je me souviens bien, il y est allé en avril dernier pour l'enterrement d'Aimé Césaire… qui lui avait offert son "Discours sur le colonialisme" de 1950 lors de sa précédente visite en mars 2006\. C'est sûr, ça refroidit.
 
 **Alors Nicolas, même pas cap'&nbsp;?**

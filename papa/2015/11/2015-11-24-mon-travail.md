@@ -24,5 +24,5 @@ hidden: true
 
 <figure>
   {% responsive_image path: assets/images/papa/2015-11-24/1.gif alt="Gif animé présentant Mal, le héros de la série Firefly en train d'hésiter à intervenir dans une conversation" %}
-  <figcaption>Euh&#8230; non, rien.</figcaption>
+  <figcaption>Euh… non, rien.</figcaption>
 </figure>

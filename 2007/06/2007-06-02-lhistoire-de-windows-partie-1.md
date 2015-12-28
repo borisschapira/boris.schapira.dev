@@ -7,7 +7,7 @@ tags:
   - Windows
 ---
 
-On décrie souvent les systèmes d'exploitation de Microsoft, et c'est vrai qu'ils ne sont pas parfait et que beaucoup se sont imposés grâce aux partenariats constructeurs permettant à Microsoft de s'assurer de la pré-installation de Windows à l'achat d'une nouvelle machine. À l'approche de la sortie de Windows Vista, j'ai voulu faire un bref retour sur l'histoire des systèmes d'exploitation vendus par Microsoft&#8230;
+On décrie souvent les systèmes d'exploitation de Microsoft, et c'est vrai qu'ils ne sont pas parfait et que beaucoup se sont imposés grâce aux partenariats constructeurs permettant à Microsoft de s'assurer de la pré-installation de Windows à l'achat d'une nouvelle machine. À l'approche de la sortie de Windows Vista, j'ai voulu faire un bref retour sur l'histoire des systèmes d'exploitation vendus par Microsoft…
 
 <!-- more -->
 
@@ -15,7 +15,7 @@ On décrie souvent les systèmes d'exploitation de Microsoft, et c'est vrai qu'i
 
 En 1985 apparaît le premier opus de la série Windows, une interface graphique tournant sur le système d'exploitation MS-DOS. Windows 1.0 est très limité dans ses fonctionnalités et doit faire face à de sévères concurrents tels que VisioCorp, Quaterdeck, Digital Research, IBM (TopView) et bien sûr Apple Macintosh sorti un an auparavant.
 
-Windows bénéficiait déjà des atouts qu'on lui connaît aujourd'hui&nbsp;: interface graphique, gestion unifiée des périphériques, transferts de données entre programme, icônes, support de la souris ou système de menus communs (Fichier, Édition, Outils, Affichage&#8230;)
+Windows bénéficiait déjà des atouts qu'on lui connaît aujourd'hui&nbsp;: interface graphique, gestion unifiée des périphériques, transferts de données entre programme, icônes, support de la souris ou système de menus communs (Fichier, Édition, Outils, Affichage…)
 
 A l'époque, la configuration requise (512Ko de RAM et un disque dur) était assez haut-de-gamme mais devait permettre l'exécution en simultanée de plusieurs programmes.
 

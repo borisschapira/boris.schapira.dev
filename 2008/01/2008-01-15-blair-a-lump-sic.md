@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blair à l'UMP&#8230; (sic)"
+title: "Blair à l'UMP… (sic)"
 date: 2008-01-15 12:24:24
 categories:
   - Politique
@@ -18,4 +18,4 @@ D'ailleurs, les réflexions de l'opposition à l'issue du congrès étaient tout
 
 Pour moi les questions importantes que cela soulève sont&nbsp;: Où sont les "réformateurs" du PS&nbsp;? Pourquoi ce ne sont pas eux qui invitent Tony Blair à leurs congrès&nbsp;? Parfois j'ai l'impression qu'on n'a plus deux partis en France mais un seul avec un choix à faire&nbsp;: continuer ou sanctionner. Pas d'alternative. La politique des municipales c'est "stop ou encore", "votez pour conserver". C'est un peu la Star Ac', sauf qu'on ne peut pas voter depuis son canapé.
 
-On est loin de la "_nouvelle politique_" qu'on avait entrevu pendant les présidentielles&#8230; et le taux de participation s'en fera sentir.
+On est loin de la "_nouvelle politique_" qu'on avait entrevu pendant les présidentielles… et le taux de participation s'en fera sentir.

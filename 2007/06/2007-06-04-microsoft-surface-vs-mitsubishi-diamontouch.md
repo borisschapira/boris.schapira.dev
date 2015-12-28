@@ -11,4 +11,4 @@ Quelques jours à peine après la divulgation par Microsoft de son projet [Surfa
 
 <!-- more -->
 
-Loin d'être fâcheuse, cette concurrence devrait accélérer la mise à la disposition du public de ce type d'interface d'avenir et nous ne pouvons que nous en réjouir. À noter que la société Intuilab, partenaire de Mitsubishi, est française&#8230; cocorico !
+Loin d'être fâcheuse, cette concurrence devrait accélérer la mise à la disposition du public de ce type d'interface d'avenir et nous ne pouvons que nous en réjouir. À noter que la société Intuilab, partenaire de Mitsubishi, est française… cocorico !

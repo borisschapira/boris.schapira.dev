@@ -24,5 +24,5 @@ Je ne dis pas que son livre n'est pas intéressant. Il ouvre plusieurs pistes p
 *   donner du contrôle aux utilisateurs
 *   éliminer les intermédiaires
 *   ne pas aller contre le marché mais lui offrir une plate-forme
-*   &#8230;
+*   …
 Bref, une réflexion intéressante mais qui se renouvelle peu de chapitres en chapitres.

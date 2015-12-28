@@ -10,7 +10,7 @@ _**<em>À la croisée des mondes_** est une saga en trois tomes, écrite par Phi
 
 <!-- more -->
 
-Avant de commencer, je tiens à vous prévenir&nbsp;: n'allez pas sur Wikipédia pour avoir des informations sur cette saga. L'article s'attarde énormément sur le côté polémique de l'œuvre et se permet de dévoiler certaines informations capitales&#8230; c'est maladroit.
+Avant de commencer, je tiens à vous prévenir&nbsp;: n'allez pas sur Wikipédia pour avoir des informations sur cette saga. L'article s'attarde énormément sur le côté polémique de l'œuvre et se permet de dévoiler certaines informations capitales… c'est maladroit.
 
 Ce qu'il y a en revanche de très bien est à l'initiative de l’équipe de communication du film (en salles actuellement je crois) qui a distribué en guise de publicité les premiers chapitres de «&nbsp;La boussole d’or&nbsp;». Faire découvrir le roman original est toujours le plus beau cadeau qu'on puisse faire quand il s'agit de présenter une adaptation cinéma.
 
@@ -18,13 +18,13 @@ Tout commence dans un monde alternatif au nôtre qui mélange une ambiance de XI
 
 **<strong>**Ok mais pourquoi en parler&nbsp;?</strong>
 
-On y trouve, et c'est une chose rare dans les romans de Fantasy, une importante mise en valeur de la femme, qu'elle soit sauveuse de l'humanité, sage tentatrice ou manipulatrice. Le roman est également teinté d'une forte critique des intégrismes qu'ils soient religieux ou scientifiques. Cela fait ressentir au lecteur un mélange de mysticisme (les concepts de l'âme, du fantôme, du retour à la Terre&#8230;) et de négation de l'existence d'une force toute-puissante (y compris masculine).
+On y trouve, et c'est une chose rare dans les romans de Fantasy, une importante mise en valeur de la femme, qu'elle soit sauveuse de l'humanité, sage tentatrice ou manipulatrice. Le roman est également teinté d'une forte critique des intégrismes qu'ils soient religieux ou scientifiques. Cela fait ressentir au lecteur un mélange de mysticisme (les concepts de l'âme, du fantôme, du retour à la Terre…) et de négation de l'existence d'une force toute-puissante (y compris masculine).
 
 J'ai lu que le roman était souvent opposé au _Monde de Narnia_ dans lequel la foi en Dieu prend au contraire le dessus sur la pensée individuelle et critique. Je pense que je lirais d'ici peu quelques-uns des romans pour me faire ma propre idée.
 
 **Et le film&nbsp;?**
 
-J'espère que l'adaptation cinéma ne se laissera pas aller à la niaiserie car les romans sont loin d'être des modèles de littérature infantile. Au contraire, j'ai même trouvé des passages assez durs et je pense profondément que cela peut faire un excellent film&#8230; mais pas un conte de Noël pour les enfants comme pourrait le penser le public. Je pronostique donc un résultat mitigé en salles obscures&#8230; dommage.
+J'espère que l'adaptation cinéma ne se laissera pas aller à la niaiserie car les romans sont loin d'être des modèles de littérature infantile. Au contraire, j'ai même trouvé des passages assez durs et je pense profondément que cela peut faire un excellent film… mais pas un conte de Noël pour les enfants comme pourrait le penser le public. Je pronostique donc un résultat mitigé en salles obscures… dommage.
 
 En tout cas moi j'attends ma chérie et on court au Gaumont&nbsp;!
 

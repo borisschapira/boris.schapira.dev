@@ -18,4 +18,4 @@ _**Rappelez-vous, novembre 2008, c'était ça&nbsp;:**_
 *   Le **17**, Citigroup annonce un plan de licenciement concernant 75000 salariés.
 *   Le **19**, Le Figaro fait dispaitre de sa Une une bague de Rachida Dati d'une valeur de 15 600 euros.
 *   Le **28**, Vittorio de Filippis est interpellé à son domicile. S'en suit pour lui une journée surréaliste et humiliante, en plein Etats Généraux de la Presse.
-*   Le **30**, Frederic Lefebvre remet sur la table l'idée de détecter la délinquance dès la maternelle. Une idée formidable que la France entière approuve&#8230;
+*   Le **30**, Frederic Lefebvre remet sur la table l'idée de détecter la délinquance dès la maternelle. Une idée formidable que la France entière approuve…

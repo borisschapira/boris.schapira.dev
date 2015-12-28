@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Phrases insolites&#8230; #4"
+title: "Phrases insolites… #4"
 date: 2007-11-28 20:13:51
 tags:
   - Humour
@@ -15,18 +15,18 @@ Le temps est relatif**_
 " - Ne le prends pas mal mais tu as une petite mine.
 - Ah bon&nbsp;? Pourtant je suis rentré de vacances il n'y a pas longtemps.
 - C’est-à-dire&nbsp;?
-- Hum&#8230; 6, non 7 mois&#8230; ah oui. Déjà."
+- Hum… 6, non 7 mois… ah oui. Déjà."
 
 _**Parfums chimiques**_
 " - Et comme boisson, vous avez quoi&nbsp;?
-- Avec bulles&nbsp;? Comme une pharmacie&nbsp;: Coca, Fanta, Orangina&#8230;"
+- Avec bulles&nbsp;? Comme une pharmacie&nbsp;: Coca, Fanta, Orangina…"
 
 _**Addiction**_
 " - Tu aurais un Métro ou un 20 Minutes&nbsp;?
-- Ben non, tu sais bien&#8230; si je vois un Sudoku, je replonge."
+- Ben non, tu sais bien… si je vois un Sudoku, je replonge."
 
 _**Premier film en amoureux**_
-" - Comme elle n’est pas française, on nous a posé des questions&#8230; Nos métiers, nos parents, le dernier restau, le premier film&#8230;etc.
+" - Comme elle n’est pas française, on nous a posé des questions… Nos métiers, nos parents, le dernier restau, le premier film…etc.
 - Et alors&nbsp;?
 - Ben j’me suis planté sur le film.
 - Ah bon&nbsp;?!
@@ -35,7 +35,7 @@ _**Premier film en amoureux**_
 _**Ma chérie résume les RPG**_
 " - Tu joues à ton jeu fabuleux, dont tu parlais sur ton blog avec les trucs bizarres en ligne, où ils se tapent dessus mais pas vraiment, avec des trucs qui sortent de leur dos et qui démolissent les monstres en face et après ils se font massacrer&nbsp;? "
 
-_**Les antibiotiques et l'iPhone&#8230;**_
+_**Les antibiotiques et l'iPhone…**_
 " - C’est un nouveau [téléphone]&nbsp;?
 - Oui, il a un grand écran et il est tactile.
 - Ah alors c’est un iPhone&nbsp;?
@@ -49,4 +49,4 @@ _**Les antibiotiques et l'iPhone&#8230;**_
 _**Vive [Fonebook](https://sites.google.com/site/rossdargan/)**_
 " - Tu t’amuses à récupérer les photos de tout le monde sur ton téléphone&nbsp;?
 - Euh, non, c’est une appli qui synchronise mes contacts Outlook avec Facebook.
-- Va falloir que je m’inscrive sur ce truc-là alors sinon personne ne va plus m’appeler&#8230;&nbsp;»
+- Va falloir que je m’inscrive sur ce truc-là alors sinon personne ne va plus m’appeler…&nbsp;»

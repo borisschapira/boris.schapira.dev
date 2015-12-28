@@ -6,7 +6,7 @@ date: 2008-05-03 22:43:07
 categories:
 ---
 
-44 ans. À 44 ans, je veux être marié et père de plusieurs enfants. J'aimerai ma femme et la respecterai, j'inculquerai à mes enfants de bonnes valeurs, sans les gâter. À 44 ans, j'espère que je serais encore en bonne condition physique. À 44 ans, je travaillerais beaucoup, parce que j'aurais des responsabilités qui l'exigeront. Il faudra bien ça pour pouvoir payer les études des enfants&#8230; Je rentrerai de temps en temps à la maison avec des fleurs ou des croissants et nous partirons en vacances avec les enfants ou en amoureux.
+44 ans. À 44 ans, je veux être marié et père de plusieurs enfants. J'aimerai ma femme et la respecterai, j'inculquerai à mes enfants de bonnes valeurs, sans les gâter. À 44 ans, j'espère que je serais encore en bonne condition physique. À 44 ans, je travaillerais beaucoup, parce que j'aurais des responsabilités qui l'exigeront. Il faudra bien ça pour pouvoir payer les études des enfants… Je rentrerai de temps en temps à la maison avec des fleurs ou des croissants et nous partirons en vacances avec les enfants ou en amoureux.
 
 44 ans, c'est demain. 44 ans, c'est le fruit de tout ce que je ferai à partir de maintenant. 44 ans, c'est un peu aujourd'hui.
 

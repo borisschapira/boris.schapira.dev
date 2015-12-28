@@ -7,7 +7,7 @@ tags:
   - Mariage
 ---
 
-Au [Salon du Mariage de la Porte de Cham­per­ret](http://www.salonmariagefete.com/), nous avons pu discuter avec de nombreux acteurs du mariage : maquilleurs, décorateurs, traiteurs, préparateurs religieux, couturiers&#8230;
+Au [Salon du Mariage de la Porte de Cham­per­ret](http://www.salonmariagefete.com/), nous avons pu discuter avec de nombreux acteurs du mariage : maquilleurs, décorateurs, traiteurs, préparateurs religieux, couturiers…
 
 Ils sont tous d'accord sur une chose : la date sera fixée par la réservation de la salle de réception. Si on obtient la salle, on obtient le sésame pour le reste. Évidemment, il faut s’y prendre tôt. Hors de question de réserver la salle 2 jours avant le mariage et d'aller ensuite à la Mairie la bouche en cœur.
 

@@ -139,7 +139,7 @@ Matthieu se retrouve à gérer :
 	<li>un test A/B impliquant une variation de la structure de navigation...</li>
 </ul>
 
-&#8230; soit 18 combinaisons possibles pour chaque visiteur et une augmentation considérable des coûts de maintenance (car désormais, pour reproduire un bug, il faut se mettre dans la même configuration que le navigateur client sur lequel il s’est produit). Coûts auxquels s’ajoute la problématique du suivi, car le dernier test a pour conséquence directe de fausser les mesures analytiques existantes, qui jusqu’à présent se basaient sur les URLs.
+… soit 18 combinaisons possibles pour chaque visiteur et une augmentation considérable des coûts de maintenance (car désormais, pour reproduire un bug, il faut se mettre dans la même configuration que le navigateur client sur lequel il s’est produit). Coûts auxquels s’ajoute la problématique du suivi, car le dernier test a pour conséquence directe de fausser les mesures analytiques existantes, qui jusqu’à présent se basaient sur les URLs.
 
 <h2>Les Tests A/B, s'outiller</h2>
 

@@ -24,7 +24,7 @@ Pas de quoi être fiers. Même si la France vivait l'occupation ce sont tout de 
 
 **Celui qui l'a ressuscité**
 
-Nicolas Sarkozy ne s'est pas fait que des amis dans la population enseignante, c'est le moins que l'ont puisse dire. Et lire à haute voix une lettre qui réveille les sentiments patriotiques des jeunes français tout en sachant que le soir même en rentrant chez eux ils verront les journaux félicitant Nicolas Sarkozy de cette initiative (et répétant à quel point c'est courageux en pleine période divorce&#8230; ). Je comprends que ça les chiffonne franchement.
+Nicolas Sarkozy ne s'est pas fait que des amis dans la population enseignante, c'est le moins que l'ont puisse dire. Et lire à haute voix une lettre qui réveille les sentiments patriotiques des jeunes français tout en sachant que le soir même en rentrant chez eux ils verront les journaux félicitant Nicolas Sarkozy de cette initiative (et répétant à quel point c'est courageux en pleine période divorce… ). Je comprends que ça les chiffonne franchement.
 
 **Mon avis**
 
@@ -32,7 +32,7 @@ Rendre l'Histoire et la Politique plus humaines est une bonne idée. Il faut arr
 
 Cependant, je ne suis pas certain que Guy Moquet soit le bon exemple. D'abord parce que sa (courte) histoire est trop politisée (à la fois dans le passé et dans le présent) mais aussi parce que la lecture d'une lettre un jour ne changera pas fondamentalement la perception d'une matière (voir deux si on ajoute l'instruction civique) dans les yeux des lycéens le reste de l'année.
 
-Alors que faut-il faire&nbsp;? Ne pas lire la lettre&nbsp;? Non, je ne pense pas que ça serve à grand chose si ce n'est à frustrer les élèves dont les amis leur en parleront plus tard. Non, autant la lire et leur donner une vraie explication, complète et sans vérités cachées, y compris sur le r&#xF4;le de la France collabo. Prévoir plusieurs dizaines de minutes pour répondre aux questions&#8230;
+Alors que faut-il faire&nbsp;? Ne pas lire la lettre&nbsp;? Non, je ne pense pas que ça serve à grand chose si ce n'est à frustrer les élèves dont les amis leur en parleront plus tard. Non, autant la lire et leur donner une vraie explication, complète et sans vérités cachées, y compris sur le r&#xF4;le de la France collabo. Prévoir plusieurs dizaines de minutes pour répondre aux questions…
 
 &#xA0;
 

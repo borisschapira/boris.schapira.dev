@@ -7,7 +7,7 @@ tags:
   - Crise
 ---
 
-A force de diaboliser la profession, ça devait arriver. Ce qui est bien, c'est que dans ces cas-là tout le monde y passe&nbsp;: véritable décisionnaires et les autres qui n'ont rien fait, rien demandé, et peut-être même ce mec sympa que vous aviez croisé il y a dix ans et qui vous avait fait une autorisation de découvert plus cool à un moment où c'était tendu pour vous&#8230;
+A force de diaboliser la profession, ça devait arriver. Ce qui est bien, c'est que dans ces cas-là tout le monde y passe&nbsp;: véritable décisionnaires et les autres qui n'ont rien fait, rien demandé, et peut-être même ce mec sympa que vous aviez croisé il y a dix ans et qui vous avait fait une autorisation de découvert plus cool à un moment où c'était tendu pour vous…
 
 <!-- more -->
 

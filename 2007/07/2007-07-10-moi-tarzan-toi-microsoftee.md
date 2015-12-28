@@ -10,11 +10,11 @@ categories:
 C'est toujours super _touchy_, le vocabulaire d'entreprise. À moins d'être un _truly performer_, seule une bonne _KB_ ou quelques années d'XP permettent de comprendre ce qui se dit. De plus, l'apprentissage du vocabulaire est _transactionel_ et nécessite plusieurs _rollback_ à  chaque _switch_ de direction. À ça se rajoute un état d'esprit du Microsoftee _by design_ qui donne de drôles d'échanges.
 
 Par exemple, cette **conversation de geeks à  propos de Home Server**&nbsp;:
-"-Tu vois, l'idée c'est que tu vas voir la grand-mère en vacances, tu veux lui montrer une photo du gamin, tu allumes ton smartphone, il se connecte à  ton ordi chez toi et te rapatrie la photo en direct&#8230;
-- Ah ouais ça a l'air bien&#8230; mais tu pars souvent en vacances en laissant ton pc allumé, toi?
-- Ben&#8230; euh&#8230; non&#8230;
+"-Tu vois, l'idée c'est que tu vas voir la grand-mère en vacances, tu veux lui montrer une photo du gamin, tu allumes ton smartphone, il se connecte à  ton ordi chez toi et te rapatrie la photo en direct…
+- Ah ouais ça a l'air bien… mais tu pars souvent en vacances en laissant ton pc allumé, toi?
+- Ben… euh… non…
 - Bien, alors tu mets la photo sur ton smartphone en partant, non&nbsp;?
-- &#8230;"
+- …"
 
 Certains consultants suréquipés on aussi parfois **quelques feedbacks pleins de pragmatisme **:
 "- La messagerie unifiée pour un Microsoftee, c'est quand tu te fais lire un mail par une synthèse vocale qui n'est qu'une synthèse vocale. Là  , tu te rends compte que ton téléphone, c'est un smartphone, et que tu aurais pu lire plus vite qu'elle ne le dicte. Non mais sinon pour quelqu'un qui n'a qu'un téléphone normal, c'est bien."

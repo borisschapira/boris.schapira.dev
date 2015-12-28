@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Phrases insolites&#8230;"
+title: "Phrases insolites…"
 date: 2007-09-25 06:44:02
 tags:
   - Humour
@@ -11,10 +11,10 @@ _C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!_
 
 <!-- more -->
 
-Petit florilège de paroles en l’air, capturées au détour d’un couloir, dans le métro, au boulot&#8230; Du voyeurisme&nbsp;? Oui, sûrement&#8230; mais ces quelques mots m'ont quand même interpellé&#8230;
+Petit florilège de paroles en l’air, capturées au détour d’un couloir, dans le métro, au boulot… Du voyeurisme&nbsp;? Oui, sûrement… mais ces quelques mots m'ont quand même interpellé…
 
 "- On fait un gâteau au chocolat tout fait ce soir&nbsp;?
-- Non, rappelle-toi la dernière fois, on avait mis ¾ d’heures, c’est pas si facile&#8230;"
+- Non, rappelle-toi la dernière fois, on avait mis ¾ d’heures, c’est pas si facile…"
 
 "- Elle n’est pas monté nous voir, la salo%#&nbsp;?
 - Si, elle est juste derrière toi."

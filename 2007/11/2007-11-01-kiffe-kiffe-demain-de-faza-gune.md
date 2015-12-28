@@ -6,7 +6,7 @@ categories:
   - Littérature
 ---
 
-_Je viens de finir de lire "Kiffe kiffe demain". Je l'ai vu l'autre jour en presse et le titre m'a rappelé un reportage télé sur Faïza Guène, l'auteur. Il paraitrait que c'est un des livres français les plus lus à l'étranger. Il fallait donc que je le lise. L'envie de savoir ce qu'on pouvait lire de français dans les autres pays&#8230;_
+_Je viens de finir de lire "Kiffe kiffe demain". Je l'ai vu l'autre jour en presse et le titre m'a rappelé un reportage télé sur Faïza Guène, l'auteur. Il paraitrait que c'est un des livres français les plus lus à l'étranger. Il fallait donc que je le lise. L'envie de savoir ce qu'on pouvait lire de français dans les autres pays…_
 
 <!-- more -->
 

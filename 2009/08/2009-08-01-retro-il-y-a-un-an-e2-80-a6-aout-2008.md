@@ -16,7 +16,7 @@ _**Rappelez-vous, août 2008, c'était ça&nbsp;:**_
 *   Le **11**, le Dalaï Lama, de passage en France, refuse de rencontrer Nicolas Sarkozy après que ce dernier ait refusé de défendre ouvertement les droits du Tibet face aux autorités chinoises.
 *   Le **13**, un professeur français est condamné à 500 euros d'amende pour avoir giflé un élève
 *   Le **15**, George W. Bush annonce son soutien à la Géorgie, entrant en conflit ouvert avec le président russe Dmitry Medvedev et Nicolas Sarkozy qui a participé à la rédaction de l'article 5 du cessez-le-feu, jugé trop permissif par le président américain.
-*   Le **18**, la Russie fait semblant de retirer ses troupes&#8230; mais se réserve le droit de laisser des "milices de maintien de la paix".
+*   Le **18**, la Russie fait semblant de retirer ses troupes… mais se réserve le droit de laisser des "milices de maintien de la paix".
 *   Le **20**, Usen Bolt établit un nouveau record du monde au 200m et devient l'homme le plus rapide du monde.
 *   Le **22**, Human Rights Watch confirme l'utilisation d'obus à fragmentation dans la guerre opposant Russie et Géorgie et dénonce la condition des civils pris entre deux feux.
 *   Le **23**, Barrack Obama annonce que s'il est élu, son vice-président sera Joe Biden.

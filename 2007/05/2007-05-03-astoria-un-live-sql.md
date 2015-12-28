@@ -8,7 +8,7 @@ tags:
   - Web
 ---
 
-Microsoft l'a annoncé au Mix 2007&nbsp;: le projet Astoria va révolutionner le Web. Oui, bon, on nous l'a déjà faite cent fois celle-là , alors on va creuser un peu plus le concept&#8230;
+Microsoft l'a annoncé au Mix 2007&nbsp;: le projet Astoria va révolutionner le Web. Oui, bon, on nous l'a déjà faite cent fois celle-là , alors on va creuser un peu plus le concept…
 
 Pour l'instant, les pages web sont composées d'une partie statique, c'est-à -dire qui ne change pas et dont le code est visible chez l'internaute tel que le webmaster l'a programmé ; et d'une partie dynamique, crée ou ramenée d'ailleurs lorsque l'internaute le veut.
 

@@ -6,9 +6,9 @@ tags:
   - Nouvel an
 ---
 
-Vous ne trouvez pas qu'il est vraiment difficile de faire ses vœux aujourd'hui&nbsp;? Imaginons que vous vouliez envoyer un message à vos connaissances&#8230;
+Vous ne trouvez pas qu'il est vraiment difficile de faire ses vœux aujourd'hui&nbsp;? Imaginons que vous vouliez envoyer un message à vos connaissances…
 
-Il faut déjà consolider son carnet d'adresse. Pour ma part, cela veut dire centraliser les informations disponibles dans (au moins)&nbsp;: Twitter, Facebook, Viadeo, LinkedIn, Windows Live Messenger, GMail, Outllook, mon Lotus pro et mon téléphone&#8230;
+Il faut déjà consolider son carnet d'adresse. Pour ma part, cela veut dire centraliser les informations disponibles dans (au moins)&nbsp;: Twitter, Facebook, Viadeo, LinkedIn, Windows Live Messenger, GMail, Outllook, mon Lotus pro et mon téléphone…
 
 Une fois ces contacts récupérés, il faut encore trier&nbsp;: leur numéro de téléphone portable perso, leur numéro de téléphone portable pro, leur fixe (de plus en plus facultatif), leur(s) email(s) pro, leur(s) email(s) perso, leur page web ou leur Twitter ainsi que leur adresse postale, si disponible.
 

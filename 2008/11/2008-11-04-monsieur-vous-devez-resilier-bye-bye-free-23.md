@@ -9,7 +9,7 @@ tags:
   - Me, myself and I
 ---
 
-**Free **et moi, c'était une grande et belle histoire. Mais quand j'ai voulu **déménager**, ça s'est avéré très **problématique**. Après plus d'une heure de **Hotline **pour un problème qui ne nécessitait pas mon intervention, j'avais craqué. Nous sommes le lendemain, je rappelle pour avoir des informations à jour, plus de 20 jours après la validation de ma demande de déménagement et 8 jours après le début du premier mois normalement facturé&#8230;
+**Free **et moi, c'était une grande et belle histoire. Mais quand j'ai voulu **déménager**, ça s'est avéré très **problématique**. Après plus d'une heure de **Hotline **pour un problème qui ne nécessitait pas mon intervention, j'avais craqué. Nous sommes le lendemain, je rappelle pour avoir des informations à jour, plus de 20 jours après la validation de ma demande de déménagement et 8 jours après le début du premier mois normalement facturé…
 
 **Appel au 08 11 92 30 92.** Attente&nbsp;: 3:00\. J'explique mon souci.
 "- On va regarder.
@@ -27,7 +27,7 @@ tags:
 - Il n'est pas éligible, monsieur. Faites la procédure d'inscription en même temps que moi sur Free.fr, et vous allez voir qu'il n'est pas disponible.
 - Mais c'est pas le problème&nbsp;! J'ai fais cette procédure il y a plusieurs semaines. Le site a validé le numéro. J'attends qu'on m'installe ma ligne, là. Il doit bien y avoir une solution&nbsp;! Si ça se trouve, il n'est pas éligible sur Free.fr parce que justement, une procédure est en cours. Ça ne vous semblerait pas logique&nbsp;?
 - Monsieur, nous ne pouvons rien faire. Il faut que vous résiliez cet abonnement.
-- Pardon&nbsp;? Mais qu'est-ce que vous voulez que je résilie, je n'ai même pas de ligne&#8230; Bon ok, ça m'énerve là, on va résilier. On ne peut pas faire ça par téléphone&nbsp;?
+- Pardon&nbsp;? Mais qu'est-ce que vous voulez que je résilie, je n'ai même pas de ligne… Bon ok, ça m'énerve là, on va résilier. On ne peut pas faire ça par téléphone&nbsp;?
 - Non monsieur, il faut un courrier et votre Freebox. Une fois la ligne résiliée, vous pourrez faire une nouvelle demande de ligne. Pour la procédure de résiliation, contactez le 1044.
 _Temps Hotline&nbsp;: 1h49_
 

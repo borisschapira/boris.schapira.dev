@@ -20,7 +20,7 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
 > \- Non mais attends, on la connait tous la réponse à la question "Quel est votre plus grand défaut&nbsp;?"
 > \- Bah ouais, c'est "Je suis trop perfectionniste".
 > \- T'imagine si on disait la vérité&nbsp;?
-> \- Genre "Je suis un gros tire-au-flanc"&#8230;
+> \- Genre "Je suis un gros tire-au-flanc"…
 > \- Ou "j'aime pas les gens"&nbsp;!
 
 ## Sherlock Holmes par correspondance

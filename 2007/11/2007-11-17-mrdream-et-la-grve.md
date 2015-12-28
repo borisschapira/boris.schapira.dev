@@ -6,7 +6,7 @@ tags:
   - Grève
 ---
 
-_Rien &#224; voir mais&#8230;&nbsp;: si vous avez 5 minutes, je suis toujours en qu&#234;te de r&#233;ponses pour le __post d'avant__ ^^_
+_Rien &#224; voir mais…&nbsp;: si vous avez 5 minutes, je suis toujours en qu&#234;te de r&#233;ponses pour le __post d'avant__ ^^_
 
 Les vid&#233;os de [MrDream](http://www.cyprien.fr/?2007/11/17/208-la-greve-pour-les-nuls) sont excellentes, je ne le dirais jamais assez.
 

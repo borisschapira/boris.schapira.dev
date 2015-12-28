@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Phrases insolites&#8230; #5"
+title: "Phrases insolites… #5"
 date: 2007-12-18 06:16:23
 tags:
   - Humour
@@ -12,7 +12,7 @@ _C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!_
 **<!-- more -->
 
 Finance ou jeux vidéos
-**" - &#8230; et ça s’appelle les Hedge Funds.
+**" - … et ça s’appelle les Hedge Funds.
 - Comme les hérissons&nbsp;?
 - Quoi&nbsp;? 
 - Mais, rappelle-toi la Game Gear&nbsp;: Sonic the Hedge Hog&nbsp;!"
@@ -21,11 +21,11 @@ Finance ou jeux vidéos
 **" - Tu connais les RSS&nbsp;?
 - Ça va merci, j’ai été en cours d’Histoire comme tout le monde."
 
-**On ne dit pas&#8230;
+**On ne dit pas…
 " **- Tu sais qu’untel s’est marié&nbsp;?
 - Ah bon, avec quoi&nbsp;?"
 
-**On ne dit pas&#8230; le retour**
+**On ne dit pas… le retour**
 " - Ça tu vois, c’est vous qui peut savoir, pas moi."
 
 **Croqueuse

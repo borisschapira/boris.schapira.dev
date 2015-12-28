@@ -12,7 +12,7 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
 
 ## Barbe de 3 jours
 
-> Tu piques fort aujourd'hui&#8230; je peux t'appeler Gratounette&nbsp;?
+> Tu piques fort aujourd'hui… je peux t'appeler Gratounette&nbsp;?
 
 ## Ingénieurs Vs. Commerciaux&nbsp;: Fight&nbsp;!
 

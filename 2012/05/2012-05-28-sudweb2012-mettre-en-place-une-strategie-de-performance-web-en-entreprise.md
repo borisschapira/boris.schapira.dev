@@ -8,7 +8,7 @@ series:
   - Sud Web 2012
 ---
 
-J'avais prévu depuis plusieurs mois de me rendre à Toulous pour les conférences et ateliers Sud Web 2012, et j'avais même proposé un sujet. Même si ma proposition n'avait pas été sélectionnée, j'étais fier d'y aller et de rencontrer des gens unis par leurs valeurs&nbsp;: les standards du Web, l'innovation, l'agilité&#8230;
+J'avais prévu depuis plusieurs mois de me rendre à Toulous pour les conférences et ateliers Sud Web 2012, et j'avais même proposé un sujet. Même si ma proposition n'avait pas été sélectionnée, j'étais fier d'y aller et de rencontrer des gens unis par leurs valeurs&nbsp;: les standards du Web, l'innovation, l'agilité…
 
 Finalement, suite à un désistement de Bert Bos (W3C), [je suis devenu <em lang="en">speaker</em> quand même](http://sudweb.fr/2012/talk/mise-en-place-dune-strategie-de-performance-en-entreprise/ "Sud Web 2012 - &quot;Mettre en place une stratégie de Performance Web en entreprise&quot; par Boris Schapira")&nbsp;!
 

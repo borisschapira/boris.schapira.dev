@@ -18,7 +18,7 @@ Il y a quelques jours sont venus dans les locaux de Microsoft des enseignants en
 
 <!-- more -->
 
-.NET Framework, Windows Forms, C#, ADO.NET, ASP.NET, .NET 3.0&#8230; Nous avons essayé d'être exhaustifs.
+.NET Framework, Windows Forms, C#, ADO.NET, ASP.NET, .NET 3.0… Nous avons essayé d'être exhaustifs.
 
 Afin de rendre un peu sympa leur dernier jour chez Microsoft, Michel et moi-même avons été chargés de leur faire un petit tour des dernières technos à la place de Benjamin Gauthey, en déplacement à Marseille.
 

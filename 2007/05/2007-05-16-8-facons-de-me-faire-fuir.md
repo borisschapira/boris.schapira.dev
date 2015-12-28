@@ -27,15 +27,15 @@ Malheureusement, ce n'est pas le cas de tous. Petit guide des choses qui m'ont f
 
 > Votre profil Monster fait état d'une recherche de stage de fin d'études
 
-* Comme quoi, certains chasseurs consultent des bases vieilles de plusieurs mois&#8230;
+* Comme quoi, certains chasseurs consultent des bases vieilles de plusieurs mois…
 
 > Votre profil Monster fait état d'une recherche de stage ouvrier en industrie
 
-* &#8230; ou de plusieurs années&nbsp;!
+* … ou de plusieurs années&nbsp;!
 
 > Nous voudrions vous rencontrer afin d'établir avec vous votre projet professionnel et de vous présenter immédiatement un de nos clients pour qui vous travailleriez.
 
-* Ah, on sent que mon projet professionnel va être très important dans le processus d'attribution de mes missions&#8230; ou pas.
+* Ah, on sent que mon projet professionnel va être très important dans le processus d'attribution de mes missions… ou pas.
 
 > Chez nous, la politique n'est pas de vous former dès votre arrivée, alors que vous sortez justement de plusieurs longues et fastidieuses années d'études. Nous vous présenterons rapidement des projets de grande ampleur appuyés d'objectifs forts vous impliquant réellement.
 

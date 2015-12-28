@@ -9,11 +9,11 @@ tags:
 
 > Aujourd’hui stratégie IT et stratégie d’affaire ne font plus qu’un. Fini l’alignement, on _synchronise_, et il subsiste un exercice de réflexion stratégique unique où la composante technologique fait partie intégrante de la stratégie d’affaire.
 >
->   [&#8230;]
+>   […]
 >
 >   Tout le monde a du se réinventer, du PDG aux équipes de rédaction et bien sûr au sein des équipes informatiques.
 >
->   [&#8230;]
+>   […]
 >
 >   Cette richesse interactive a permis de moduler les tarifs en tenant compte du niveau d’interactivité.
 >

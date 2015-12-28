@@ -8,14 +8,14 @@ tags:
   - Web
 ---
 
-Tous vos amis créent leurs blogs, vous croulez sous les sites de news et vous êtes toujours surpris de voir à quelle vitesse le web s'est transformé en un aussi grand bazar où tout va très vite&#8230; trop vite. Il existe une solution pour gérer vos suivis. Pour bien la comprendre, je vous propose un petit historique du Web&nbsp;:
+Tous vos amis créent leurs blogs, vous croulez sous les sites de news et vous êtes toujours surpris de voir à quelle vitesse le web s'est transformé en un aussi grand bazar où tout va très vite… trop vite. Il existe une solution pour gérer vos suivis. Pour bien la comprendre, je vous propose un petit historique du Web&nbsp;:
 
 **A l'origine était le contenu
 **
 
 Aux tous débuts d'Internet, et pendant quelques longues années, la page Web régnait en maître. C'était l'ère de la mise à disposition&nbsp;: l'auteur exposait sa production, et les visiteurs devaient se déplacer (et déjà connaî tre l'adresse) pour en profiter.
 
-Après cette première période de servitude de l'internaute vint l'ère du tout-par-mail. Vous trouviez un site sympa&nbsp;? Plus besoin de vous déplacer: vous vous inscriviez à la "newsletter" et hop, le tour était joué. À vous les mails de résumés de matchs de foot, les recettes de cuisine, les astuces pour améliorer votre swing, les conseils jardinages&#8230;
+Après cette première période de servitude de l'internaute vint l'ère du tout-par-mail. Vous trouviez un site sympa&nbsp;? Plus besoin de vous déplacer: vous vous inscriviez à la "newsletter" et hop, le tour était joué. À vous les mails de résumés de matchs de foot, les recettes de cuisine, les astuces pour améliorer votre swing, les conseils jardinages…
 
 Et très vite, entre tous ces mails et les publicités non-sollicitées, votre boite aux lettres était saturée. Paix à son âme.
 

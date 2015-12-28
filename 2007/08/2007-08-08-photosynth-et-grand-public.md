@@ -22,6 +22,6 @@ PhotoSynth est donc un service qu'il sera s&ucirc;rement difficile de proposer a
 
 L'étape suivante est une mise à  disposition de votre galerie PhotoSynth à  la consultation des autres utilisateurs et, entre deux communautés de partage dont les valeurs semblent communes, la réunion des espaces et des contributions.
 
-La grande question qui revient est encore la même que la première&nbsp;: quelle est la montée en charge de PhotoSynth. C'est-à -dire&nbsp;: combien de photos peut-il gérer, de quelle qualité, par combien de contributeurs, quel niveau d'informations sur l'appareil ayant pris la photo, l'heure de la prise de vue&#8230;
+La grande question qui revient est encore la même que la première&nbsp;: quelle est la montée en charge de PhotoSynth. C'est-à -dire&nbsp;: combien de photos peut-il gérer, de quelle qualité, par combien de contributeurs, quel niveau d'informations sur l'appareil ayant pris la photo, l'heure de la prise de vue…
 
 Bref, encore un peu de travail pour faire de ce projet fou un vrai service aux utilisateurs.

@@ -17,7 +17,7 @@ Il n’y a pas de façon "standard" de mesurer la performance web mais plusieurs
 
 1. Se connecte au serveur hébergeant le site et lui demande de renvoyer le contenu de la page HTML
 2. Reçoit le contenu de la page HTML
-3. Interprète le code HTML pour comprendre comment est structurée la page et de quels objets supplémentaires (images, mises en forme, scripts&#8230;) elle a besoin pour être rendue
+3. Interprète le code HTML pour comprendre comment est structurée la page et de quels objets supplémentaires (images, mises en forme, scripts…) elle a besoin pour être rendue
 4. Charge l’ensemble des ressources en question
 5. Affiche la page
 6. Exécute d’autres script après le chargement, impliquant eux-même le chargement de nouvelles ressources et le déclenchement d’animations
@@ -53,7 +53,7 @@ La mesure de la performance du site passe alors par la compréhension de plusieu
 
 **Description**&nbsp;: une site n’est pas qu’une page HTML mais également un ensemble de ressources multimédia. Le Load Time est le temps nécessaire au navigateur pour rendre tous les éléments visibles (textes, images, mises en forme) et invisibles comme les scripts Javascripts. La mesure du Load Time étant renvoyée nativement par tous les navigateurs, il est facile à capturer et est donc souvent utilisé comme élément de comparaison pour la performance Web de deux sites, souvent à tort.
 
-**Quels problèmes&nbsp;?**&nbsp;: le Load Time doit être recoupé avec ce qu’il représente, en l’occurence le temps de chargement des ressources utilisées par la page. Un fort Load Time peut donc être symptomatique d’un trop grand nombre de ressources (le navigateur ayant des limitations sur le nombre de téléchargement simultanés qu’il peut lancé), d’un problème dans la récupération de celles-ci (réseau, par exemple) ou tout simplement de ressources trop grosses (images mal dimensionnée, contenus animés&#8230;).
+**Quels problèmes&nbsp;?**&nbsp;: le Load Time doit être recoupé avec ce qu’il représente, en l’occurence le temps de chargement des ressources utilisées par la page. Un fort Load Time peut donc être symptomatique d’un trop grand nombre de ressources (le navigateur ayant des limitations sur le nombre de téléchargement simultanés qu’il peut lancé), d’un problème dans la récupération de celles-ci (réseau, par exemple) ou tout simplement de ressources trop grosses (images mal dimensionnée, contenus animés…).
 
 **Impacts**: le Load Time est souvent considéré comme le moment auquel un site devient interactif, à tort. Gonflé par des scripts de récupération de statistiques qui n’ont aucun impact sur l’utilisateur, le Load Time est alors déclenché bien après que la page soit devenue véritablement interactive. Ceci étant, le Load Time étant souvent utilisé comme mesure comparative, un site a tout intérêt à le minimiser et donc à déporter ces scripts plus tard dans la chronologie d’exécution.
 

@@ -9,12 +9,12 @@ tags:
 ---
 
 **Petit bilan de la situation&nbsp;: la crise sème le doute parmi l'ensemble des banques, qui n'osent plus se prêter de l'argent entre elles, sans parler des entreprises et des particuliers. Quelle solution le gouvernement propose-t-il?
-Petite réflexion personnelle qui vous permettra, peut-être, de plomber vos prochains diners entre amis&#8230;
+Petite réflexion personnelle qui vous permettra, peut-être, de plomber vos prochains diners entre amis…
 **
 
 <span style="text-decoration: underline">Pourquoi l'Etat prête-il aux riches&nbsp;?</span>
 
-Les banquiers sont rationnels&nbsp;: d'un côté, ils ont envie de prêter et d'emprunter aux autres banquiers pour relancer leurs activités de financement (sur lesquels ils font bien évidemment des marges &nbsp;:twisted: ) mais de l'autre, ils craignent une chute de la solvabilité des banques débitrices, c'est-à-dire de leur capacité à rembourser l'emprunt. Il faut dire que les exemples récents de faillite ne rassurent pas &nbsp;:eek: &nbsp;! Personne ne prête donc à personne et surtout pas aux entreprises&#8230;
+Les banquiers sont rationnels&nbsp;: d'un côté, ils ont envie de prêter et d'emprunter aux autres banquiers pour relancer leurs activités de financement (sur lesquels ils font bien évidemment des marges &nbsp;:twisted: ) mais de l'autre, ils craignent une chute de la solvabilité des banques débitrices, c'est-à-dire de leur capacité à rembourser l'emprunt. Il faut dire que les exemples récents de faillite ne rassurent pas &nbsp;:eek: &nbsp;! Personne ne prête donc à personne et surtout pas aux entreprises…
 
 L'Etat décide d'intervenir. Son objectif est de relancer le financement des entreprises et il dispose de différents leviers dont, par exemple&nbsp;:
 
@@ -33,7 +33,7 @@ Imaginons maintenant que la situation ne s'ameliore pas. L'Etat se retrouvera do
 
 L'Etat ne peut évidemment pas jouer à ce petit jeu trop longtemps et pour de trop gros montants car si son endettement est trop fort, sa solvabilité s'en trouvera affectée. Cependant les quantités chiffrables que l'on peut mettre derrière "longtemps" et "trop gros" étant toutes relatives, on comprend aisément que la dette, malgré tout ce qu'on peut en dire lors des grandes élections, n'est pas véritablement un problème.
 
-Oui [chérie](http://www.lacuisinedelibellule.fr/), je sais que tu es comptable et que tu refuses d'accepter cela &nbsp;:( mais l'Etat peut renouveler sa dette de façon infinie sans porter préjudice à l'Economie&#8230;
+Oui [chérie](http://www.lacuisinedelibellule.fr/), je sais que tu es comptable et que tu refuses d'accepter cela &nbsp;:( mais l'Etat peut renouveler sa dette de façon infinie sans porter préjudice à l'Economie…
 
 <span style="text-decoration: underline">Cela va-t-il aider&nbsp;?</span>
 
@@ -45,4 +45,4 @@ Alors voilà, j'ai rédigé cet article pour que certaines notions soient plus c
 
 Une piste qui curieusement n'a pas été abordée par les socialistes &nbsp;:rolleyes: (qui en sont d'habitude friands) est celle de la nationalisation. Je m'étonne de cette absence de proposition qui, si elle peut être critiquée tout autant que la solution choisie par le gouvernent, a le mérite d'ouvrir le débat. De toutes façons cette solution les arrange aussi puisqu'à court terme elle augmente le déficit, constat qu'ils ne manqueront pas de souligner au bilan de Nicolas Sarkozy lors des prochaines élections. Mais peut-être suis-je mauvaise langue, auquel cas je serai ravi d'être éclairé dans les commentaires.
 
-Enfin, je ne crois pas avoir vu non plus de mentions concernant l'orientation du crédit. L'Etat précise-t-il à quels secteurs les banques qui empruntent doivent elles-mêmes prêter&nbsp;? Il aurait peut-être été judicieux d'en profiter pour soutenir une campagne d'investissement sur des projets à forte valeur ajoutée pour l'Etat mais pas forcément pour la Finance comme l'environnement, le logement, l'emploi, la santé, l'éducation&#8230; Personnellement, je tiendrais les c***** des plus grands banquiers du pays dans ma main, j'en profiterais pour leur demander quelques sacrifices qui m'arrangent ;)
+Enfin, je ne crois pas avoir vu non plus de mentions concernant l'orientation du crédit. L'Etat précise-t-il à quels secteurs les banques qui empruntent doivent elles-mêmes prêter&nbsp;? Il aurait peut-être été judicieux d'en profiter pour soutenir une campagne d'investissement sur des projets à forte valeur ajoutée pour l'Etat mais pas forcément pour la Finance comme l'environnement, le logement, l'emploi, la santé, l'éducation… Personnellement, je tiendrais les c***** des plus grands banquiers du pays dans ma main, j'en profiterais pour leur demander quelques sacrifices qui m'arrangent ;)

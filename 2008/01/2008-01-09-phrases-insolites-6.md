@@ -28,18 +28,18 @@ C'est sûr, c'est rare**
 - Belle gueule, jantes larges."
 
 **Pressé de reprendre**
-"Ouais, ouais, bonne année, tout ça&#8230; bon on bosse où on joue au scrabble en tong&nbsp;?"
+"Ouais, ouais, bonne année, tout ça… bon on bosse où on joue au scrabble en tong&nbsp;?"
 
 **Tire-au-flanc**
 " - Non mais vas-y, tu peux rentrer chez toi.
-- Tu es sûr&nbsp;? Ca me dérange pas de rester&#8230;
+- Tu es sûr&nbsp;? Ca me dérange pas de rester…
 - Non non c'est bon. Tu veux rester ou quoi&nbsp;?
-- Ben&#8230; quand c'est moi qui rentre le premier à la maison, je dois faire à bouffer pour les mômes&#8230;"
+- Ben… quand c'est moi qui rentre le premier à la maison, je dois faire à bouffer pour les mômes…"
 
-**Une ange passe&#8230;**
+**Une ange passe…**
 " - C'est silencieux la salle de marché, non&nbsp;?
-- Normal, A&#8230;.. est rentrée de vacances.
+- Normal, A….. est rentrée de vacances.
 - C'est une responsable de quelque chose&nbsp;?
 - Je ne sais pas. C'est la superbe brune à quatre rangées sur ta droite.
-- &#8230;
-- &#8230;"
+- …
+- …"

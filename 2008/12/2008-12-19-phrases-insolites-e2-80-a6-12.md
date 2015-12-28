@@ -17,7 +17,7 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
 > \- Tiens, la voilà.
 > \- Ah, ok. C'est du JPY&nbsp;?
 > \- Non, de l'EUR.
-> \- &#8230; ah.
+> \- … ah.
 
 ## Défi
 
@@ -32,7 +32,7 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
 
 > \- Ce mec est un lâche, une histoire de fou à lui tout seul&nbsp;!
 > \- C'est-à-dire&nbsp;?
-> \- Ben&#8230; sans queue ni tête.
+> \- Ben… sans queue ni tête.
 
 ## La visite des lutins
 

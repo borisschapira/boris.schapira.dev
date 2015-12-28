@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Et ce qui devait arriver arriva&#8230;"
+title: "Et ce qui devait arriver arriva…"
 date: 2009-01-22 10:21:24
 categories:
   - Finance
@@ -10,4 +10,4 @@ Le gouvernement et les médias, à force d'exacerber le mépris envers les banqu
 
 <!-- more -->
 
-Une conseillère vient d'en faire les frais, poignardée à mort par un de ses clients qui voulait récupérer de l'argent d'une assurance vie qu'il avait souscrite. Coïncidence, on retrouve aujourd'hui-même dans Le Parisien une interview de Jérôme Kerviel où il explique toute l'immoralité de son ancien métier et le cynisme du monde de la Finance&#8230;
+Une conseillère vient d'en faire les frais, poignardée à mort par un de ses clients qui voulait récupérer de l'argent d'une assurance vie qu'il avait souscrite. Coïncidence, on retrouve aujourd'hui-même dans Le Parisien une interview de Jérôme Kerviel où il explique toute l'immoralité de son ancien métier et le cynisme du monde de la Finance…

@@ -11,4 +11,4 @@ tags:
 
 Apparement, il existe des solutions. Je suis tombé par hasard sur [WP Hive](//wp-hive.com/) (ça fait un peu SGA, ou c'est moi&nbsp;?) qui offre une solution alléchante, mais l'annonce de la [fusion prochaine des branches de développement de Wordpress et Wordpress MU](http://technosailor.com/2009/05/30/wordcamp-sf-announcement-wordpress-and-wordpress-mu-to-merge/) m'encourage à attendre encore un peu.
 
-Je sais que je ne suis pas le seul à rencontrer ce problème, mais je n'ai pas encore eu l'occasion de discuter avec les autres blogueurs multi-casquettes. Comment font-il&nbsp;? J'aimerais bien le savoir&#8230;
+Je sais que je ne suis pas le seul à rencontrer ce problème, mais je n'ai pas encore eu l'occasion de discuter avec les autres blogueurs multi-casquettes. Comment font-il&nbsp;? J'aimerais bien le savoir…

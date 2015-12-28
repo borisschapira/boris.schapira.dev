@@ -11,7 +11,7 @@ tags:
 
 S&#233;rieusement, &#231;a ne vous agace pas un peu vous, cette sauce du &quot;2.0&quot;&#160;&nbsp;?</p>
 
-Ce qui m'emb&#234;te n'est pas qu'on voit fleurir de plus en plus de site joliment con&#231;us, avec des composantes de syndications de contenus, des outils collaboratifs et du multim&#233;dia&#8230; &#231;a c'est plut&#244;t sympa, &#231;a relance l'industrie du web et &#231;a pause les bases de nouvelles probl&#233;matiques multim&#233;dias et sociales.
+Ce qui m'emb&#234;te n'est pas qu'on voit fleurir de plus en plus de site joliment con&#231;us, avec des composantes de syndications de contenus, des outils collaboratifs et du multim&#233;dia… &#231;a c'est plut&#244;t sympa, &#231;a relance l'industrie du web et &#231;a pause les bases de nouvelles probl&#233;matiques multim&#233;dias et sociales.
 
 &#160; 
 

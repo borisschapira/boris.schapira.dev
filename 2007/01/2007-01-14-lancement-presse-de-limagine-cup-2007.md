@@ -6,7 +6,7 @@ tags:
   - MSP
 ---
 
-Ce soir a eu lieu le lancement officiel de l'Imagine Cup 2007, dont la finale se jouera cet été en Corée. Au cœur d'un très chic restaurant parisien de l'avenue Georges V, divers invités réunis par Microsoft pour l'occasion pouvait apprécier un excellent buffet asiatique en regardant les présentations de Microsoftees rôdés aux technologies .NET. Journalistes, spécialistes et étudiants en ont pris plein la vue&#8230;
+Ce soir a eu lieu le lancement officiel de l'Imagine Cup 2007, dont la finale se jouera cet été en Corée. Au cœur d'un très chic restaurant parisien de l'avenue Georges V, divers invités réunis par Microsoft pour l'occasion pouvait apprécier un excellent buffet asiatique en regardant les présentations de Microsoftees rôdés aux technologies .NET. Journalistes, spécialistes et étudiants en ont pris plein la vue…
 
 <!-- more -->
 

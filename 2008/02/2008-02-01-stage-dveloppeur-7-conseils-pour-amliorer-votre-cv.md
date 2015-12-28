@@ -16,7 +16,7 @@ tags:
 
 3) Dans le listing de vos exp&#233;riences/projets, **insistez sur les comp&#233;tences acquises et les responsabilit&#233;s**. Les &#233;nonc&#233;s pompeux n&#8217;int&#233;ressent personne.
 
-4) **Ne vous &#233;talez pas sur le listing des langages de d&#233;veloppement que vous avez &quot;aper&#231;u&quot;**. Concentrez-vous sur ceux vers lesquels vous voulez vous orienter. &#199;a vous &#233;vitera notamment d&#8217;avoir &#224; expliquer en entretien qu&#8217;en fait vous avez fait un demi-TP sur la question et encore de loin parce que vous &#233;tiez malade&#8230; 
+4) **Ne vous &#233;talez pas sur le listing des langages de d&#233;veloppement que vous avez &quot;aper&#231;u&quot;**. Concentrez-vous sur ceux vers lesquels vous voulez vous orienter. &#199;a vous &#233;vitera notamment d&#8217;avoir &#224; expliquer en entretien qu&#8217;en fait vous avez fait un demi-TP sur la question et encore de loin parce que vous &#233;tiez malade… 
 
 5) **D&#233;taillez votre comp&#233;tence** dans chacun des langages en faisant par exemple **r&#233;f&#233;rence** &#224; un stage ou un projet interne explicit&#233; ailleurs dans le CV. Si vous &#234;tes novice, soyez pr&#234;t &#224; donner des exemples d'initiatives personnelles destin&#233;es &#224; am&#233;liorer votre niveau. 
 

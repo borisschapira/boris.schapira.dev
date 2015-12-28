@@ -6,7 +6,7 @@ categories:
   - Télévision
 ---
 
-Comme quoi on peut faire une belle pub avec des jeunes qui s'aiment et ça fait plaisir. Par contre je préfère quand même la version rédigée à la version orale&#8230;
+Comme quoi on peut faire une belle pub avec des jeunes qui s'aiment et ça fait plaisir. Par contre je préfère quand même la version rédigée à la version orale…
 
 <!-- more -->
 

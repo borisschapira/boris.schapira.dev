@@ -33,4 +33,4 @@ De plus :
 *   Son compilateur est lui-même en JavaScript, ouvrant la porte à des compilations à la volée
 *   Il est livré avec des add-ins pour la coloration syntaxique sous Sublime Text 2, Vim et Emacs
 
-A vous d’essayer désormais, et de vous faire une idée&#8230;
+A vous d’essayer désormais, et de vous faire une idée…
