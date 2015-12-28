@@ -12,4 +12,5 @@ group :jekyll_plugins do
   gem 'algoliasearch-jekyll'
   gem 'octopress-autoprefixer'
   gem 'octopress-debugger'
+  gem 'jekyll-compose'
 end
