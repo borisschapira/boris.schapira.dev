@@ -12,7 +12,7 @@ _Pour ne pas commettre les erreurs du passé, encore faut-il [s'en souvenir](/?
 _**Rappelez-vous, septembre 2008, c'était ça&nbsp;:**_
 
 *   le **2**, Google livre sa première version de Chrome, son navigateur. Et pour septembre 2009, un nouvel OS&nbsp;?
-*   le **7**, le gouvernement des Etats-Unis place les établissements bancaires Freddie Mac et Fannie Mae sous tutelle, marquant le début d'une nouvelle phase de la crise financière. Le début de plusieurs très (trop) longues semaines (et week-ends) de boulot pour moi, à l'époque Commando en salle de marché…
+*   le **7**, le gouvernement des États-Unis place les établissements bancaires Freddie Mac et Fannie Mae sous tutelle, marquant le début d'une nouvelle phase de la crise financière. Le début de plusieurs très (trop) longues semaines (et week-ends) de boulot pour moi, à l'époque Commando en salle de marché…
 *   le **8**, suite à un accord entre N. Sarkozy et D. Medvedev, il est décidé que 200 casques bleus seront envoyés en Ossétie en échange du retrait des forces armées russes sous 30 jours.
 *   le **12**, le collectif "Non à Edvige" demande l'abandon du fichier après des semaines de polémique. [Mon avis](/blog/edvige-la-verite-est-ailleurs/) était plus contrasté.
 *   le **14**, après une fin de semaine et un week-end entier de réflexion, Bank Of America rachète Merril Lynch.

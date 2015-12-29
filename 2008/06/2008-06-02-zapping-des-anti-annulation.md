@@ -18,13 +18,13 @@ _"[C'est] une mise en cause de l'égalité hommes-femmes, les hommes ne pouvant 
 
 _"[Cette décision] bafoue le droit des femmes à disposer de leur corps et à vivre librement, comme les hommes, leur sexualité"_ s'exclame-t-on, au **Parti Socialiste**. Parce qu'elle en aurait eu une, de sexualité, avec ce mari-là&nbsp;? Vous croyez vraiment qu'il l'aurait touchée à nouveau&nbsp;? Elle aurait pu aller voir ailleurs, certes, mais vous avouerez qu'on fait mieux comme mariage, non&nbsp;?
 
-_"Une telle décision est une atteinte à l'intégrité des femmes et une violation aux droits fondamentaux de tout individu"_ ajoute la **secrétaire d'Etat au droit des femmes **Valérie Létard. Je ne demande qu'à la croire mais j'aimerais qu'elle me prouve en quoi le mensonge est un droit fondamental de l'individu… pour ce qui est de l'intégrité des femmes, il ne faudrait quand même pas aller trop loin.
+_"Une telle décision est une atteinte à l'intégrité des femmes et une violation aux droits fondamentaux de tout individu"_ ajoute la **secrétaire d'État au droit des femmes **Valérie Létard. Je ne demande qu'à la croire mais j'aimerais qu'elle me prouve en quoi le mensonge est un droit fondamental de l'individu… pour ce qui est de l'intégrité des femmes, il ne faudrait quand même pas aller trop loin.
 
 Marie-Jeanne Vidaillet-Peretti, du Conseil national des femmes françaises, est même_ "prête (…) pour aider la jeune femme concernée à aller jusqu'en cour de cassation"_. Quel grand cœur, tout de même&nbsp;!
 
 _"C'est une décision inadmissible. Reconnaître que la virginité est une qualité essentielle pour les femmes et pour l'annulation d'un mariage, c'est revenir des années en arrière. [… C'est une] fatwa contre la liberté des femmes […]"_, précise **Ni Pute Ni Soumises**. Ah, on touche le point sensible, celui qui fait sauter au plafond&nbsp;: les époux sont musulmans. Alors là, oui, forcément, ça change tout. Il s'agit forcément d'une décision à caractère religieux. Ils ont beau être tous deux demandeurs de l'annulation, les vrais coupables sont les imams…
 
-_"J’ai cru que l’on parlait d’un verdict rendu à Kandahar"_, ajoute **Fadela Amara**, secrétaire d’Etat à la Ville.
+_"J’ai cru que l’on parlait d’un verdict rendu à Kandahar"_, ajoute **Fadela Amara**, secrétaire d’État à la Ville.
 
 _"[On] voit de plus en plus de jeunes filles qui utilisent la reconstruction chirurgicale de l'hymen pour arriver vierges au mariage. […] Ça nous revient de partout, pas seulement des banlieues (…) et pas seulement chez les musulmans, on l'entend dans beaucoup de lycées et c'est très inquiétant pour la régression des mentalités." _s'inquiète Sabine Salmon, de **Femmes Solidaires**. C'est vrai qu'il faut s'inquiéter. Si on ajoute à ça le nombre de femmes de 40 ans qui se font refaire les seins pour garder l'attention de leur mari, je pense qu'on peut faire un procès à l'ensemble de la chirurgie mammo-vaginale de France&nbsp;!
 

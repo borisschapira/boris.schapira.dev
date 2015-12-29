@@ -6,7 +6,7 @@ tags:
   - Finance
 ---
 
-Lors du **G20**, qui démarrera d'ici quelques minutes, les chefs d'Etat des plus grand puissants pays du monde devraient aborder l'épineux problèmes de la régulation de la Finance internationale. À cette occasion, je vous invite à lire (ou à relire) mes trois résumés des _Entretiens de l’AMF 2008_ dont les conclusions pourront servir lors des réflexions de ces prochains jours.
+Lors du **G20**, qui démarrera d'ici quelques minutes, les chefs d'État des plus grand puissants pays du monde devraient aborder l'épineux problèmes de la régulation de la Finance internationale. À cette occasion, je vous invite à lire (ou à relire) mes trois résumés des _Entretiens de l’AMF 2008_ dont les conclusions pourront servir lors des réflexions de ces prochains jours.
 
 1. [_Régulation de la gestion d’actifs face aux défis européens et internationaux._](/blog/les-entretiens-de-lamf-2008-13-regulation-de-la-gestion-dactifs/)
 2. [_Régulation pour les produits traités de gré à gré&nbsp;?_](/blog/les-entretiens-de-lamf-2008-23-regulation-des-produits-traites-de-gre-a-gre/)

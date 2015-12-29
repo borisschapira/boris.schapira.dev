@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Etat d'urgence permanent"
+title: "État d'urgence permanent"
 date: 2015-12-27 08:00:00
 tags:
   - Politique
@@ -8,13 +8,13 @@ tags:
 
 Je ne comprends pas.
 
-Ceci étant, ce n'est pas nouveau. Je n'ai pas compris non plus pourquoi nous étions entré dans un Etat d'Urgence prolongé en novembre. Il semble donc normal que je ne comprenne pas pourquoi nous sommes en train d'en enlever le verrou temporel.
+Ceci étant, ce n'est pas nouveau. Je n'ai pas compris non plus pourquoi nous étions entré dans un État d'Urgence prolongé en novembre. Il semble donc normal que je ne comprenne pas pourquoi nous sommes en train d'en enlever le verrou temporel.
 
 <!-- more -->
 
 ## Toujours plus
 
-**Nous nous dirigeons vers Etat d'Urgence qui durera 6 mois, un an… toujours**. L'Etat d'Urgence n'est que la nouvelle couche de Vigipirate… [dont le niveau n'a quasiment jamais baissé une fois remonté](https://fr.wikipedia.org/wiki/Plan_Vigipirate#Historique_du_plan_Vigipirate "Historique du plan Vigipirate"), à ceci près que cette fois-ci, les droits fondamentaux ne sont plus protégés. Rien que ça.
+**Nous nous dirigeons vers État d'Urgence qui durera 6 mois, un an… toujours**. L'État d'Urgence n'est que la nouvelle couche de Vigipirate… [dont le niveau n'a quasiment jamais baissé une fois remonté](https://fr.wikipedia.org/wiki/Plan_Vigipirate#Historique_du_plan_Vigipirate "Historique du plan Vigipirate"), à ceci près que cette fois-ci, les droits fondamentaux ne sont plus protégés. Rien que ça.
 
 Nous sommes en train d'ouvrir des possibles détestables, soutenus par un concentration absurde des pouvoirs de la République. Le risque est très présent et n'est soutenu que par une volonté : celle de montrer qu'on agit devant une menace terroriste face à laquelle, en réalité, nous sommes bien impuissants.
 

@@ -22,7 +22,7 @@ L'intérêt pour les SI est logistique : les machines ne sont plus gérées lo
 
 Autant dire que le travail des développeurs va s'en trouver révisé en profondeur. Plus question de produire du code manquant d'optimisation&nbsp;: **chaque requête superflue aura une conséquence sonnante et trébuchante**. Sans compter les besoins en bande passante au niveau de l'entreprise, qui échangera régulièrement des données avec le datacenter. Mais Microsoft a toujours une solution : l'installation de serveurs de cache dédiés, en local. La boucle est bouclée.
 
-Le métier de DBA sera certainement aussi affecté par ces modifications, la plupart des interventions sur les fermes externes pouvant être réalisées par les équipes locales. Dernière profession concernée&nbsp;: les juristes. Ils ont également de beaux jours devant eux, avec l'arrivée des réglementations internationales dans les politiques de continuité d'activité et de sécurité. En effet, **en cas de problèmes dans un datacenter du Nuage, où se trouvera la responsabilité légale** ? Dans le datacenter le plus proche, dans une version répliquée, dans le pays du client, aux Etats-Unis ?
+Le métier de DBA sera certainement aussi affecté par ces modifications, la plupart des interventions sur les fermes externes pouvant être réalisées par les équipes locales. Dernière profession concernée&nbsp;: les juristes. Ils ont également de beaux jours devant eux, avec l'arrivée des réglementations internationales dans les politiques de continuité d'activité et de sécurité. En effet, **en cas de problèmes dans un datacenter du Nuage, où se trouvera la responsabilité légale** ? Dans le datacenter le plus proche, dans une version répliquée, dans le pays du client, aux États-Unis ?
 
 ### Seven Heaven
 

@@ -31,6 +31,6 @@ Pour autant, nos députés sont-ils stupides ou mal renseignés&nbsp;? Bien sûr
 
 On se retrouve donc avec une frange des députés prête à défendre des idéaux tant que cela correspond à son ressenti. Il suffit donc de manipuler ce ressenti pour lui faire voter n'importe quoi. Par exemple, mettre un point d'orgue autour du rôle de cette surveillance. "Uniquement pour les terroristes", qu'on vous dit. Peu importe que la notion de terrorisme ne soit pas définie et que le texte inclut aussi les mouvements sociaux…
 
-Avec des raisonnements comme ça, je ne vous raconte pas comme j'ai hâte que nous ayons les moyens techniques d'enregistrer et d'analyser toutes les conversations orales ! Et sans même parler de cette hypothèse techniquement farfelue (mais qui a le mérite de souligner le danger), je donne 5 ans pour qu'on assiste aux premiers détournements du renseignement d'Etat avec des affaires d'espionnage de l'opposition, par exemple.
+Avec des raisonnements comme ça, je ne vous raconte pas comme j'ai hâte que nous ayons les moyens techniques d'enregistrer et d'analyser toutes les conversations orales ! Et sans même parler de cette hypothèse techniquement farfelue (mais qui a le mérite de souligner le danger), je donne 5 ans pour qu'on assiste aux premiers détournements du renseignement d'État avec des affaires d'espionnage de l'opposition, par exemple.
 
 Et ne nous leurrons pas&nbsp;: cela arrivera que ce texte soit voté ou non, car il n'est que la légalisation de pratiques qui ont déjà lieu, de l'aveu même de ses instigateurs.

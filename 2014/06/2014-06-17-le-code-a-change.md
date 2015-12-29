@@ -72,7 +72,7 @@ Alors que faire&nbsp;? D'un côté, l'importance du code est indéniable. De l'a
 
 En fait, l'Education Nationale n'est pas complètement stupide (peu importe ce qu'en pense le législateur) et il existe un truc extraordinaire qui s'appelle le **socle commun des connaissances et des compétences**. Ce socle présente ce que tout élève doit savoir et maîtriser à la fin de la scolarité obligatoire. Dans ce socle figurent la compétence mathématique et les compétences de base en sciences et technologies.
 
-Ces compétences sont, bien sûr, enseignées à travers plusieurs matières dont les Mathématiques, la Physique, la Chimie, l'Histoire (oui, l'Impression ou la Revolution Industrielle, c'est aussi de l'histoire des Sciences), la Philosophie et l'Education Civique (pour l'enseignement du concept d'information, son importance et le contrat social entre les citoyens et l'Etat à qui ils confient la sécurité de leur vie privée)… et la Technologie.
+Ces compétences sont, bien sûr, enseignées à travers plusieurs matières dont les Mathématiques, la Physique, la Chimie, l'Histoire (oui, l'Impression ou la Revolution Industrielle, c'est aussi de l'histoire des Sciences), la Philosophie et l'Education Civique (pour l'enseignement du concept d'information, son importance et le contrat social entre les citoyens et l'État à qui ils confient la sécurité de leur vie privée)… et la Technologie.
 
 > En sixième, le domaine d'application retenu est&nbsp;: les moyens de transports.
 >   * analyse de produits (objets techniques peu complexes) pour comprendre les besoins essentiels ou créés auxquels ils répondent, leur constitution et leur fonctionnement,

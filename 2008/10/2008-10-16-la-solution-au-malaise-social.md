@@ -20,7 +20,7 @@ categories:
 > [Le Monde](http://www.lemonde.fr/sport/article/2008/10/15/marseillaise-sifflee-le-match-aurait-du-etre-interrompu-selon-francois-fillon_1106925_3242.html)
 
 **3\. Déporter le problème là où il se verra moins**
-> François Fillon avait donné le ton dès hier matin&nbsp;: «&nbsp;Il aurait fallu arrêter le match&nbsp;», gronde le Premier ministre. Dans la foulée, son secrétaire d’Etat aux Sports, Bernard Laporte, allait plus loin, recommandant de ne plus disputer à Paris de matchs avec les ex-colonies du Maghreb. Sa proposition&nbsp;? Les jouer «&nbsp;chez eux ou alors en province&nbsp;».
+> François Fillon avait donné le ton dès hier matin&nbsp;: «&nbsp;Il aurait fallu arrêter le match&nbsp;», gronde le Premier ministre. Dans la foulée, son secrétaire d’État aux Sports, Bernard Laporte, allait plus loin, recommandant de ne plus disputer à Paris de matchs avec les ex-colonies du Maghreb. Sa proposition&nbsp;? Les jouer «&nbsp;chez eux ou alors en province&nbsp;».
 > 
 > [Le Parisien](http://www.leparisien.fr/une/marseillaise-huee-80-des-francais-choques-16-10-2008-277626.php)
 

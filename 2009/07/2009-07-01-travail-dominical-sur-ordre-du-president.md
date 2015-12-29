@@ -16,7 +16,7 @@ Néanmoins, je tenais à féliciter Nicolas Sarkozy pour cette fabuleuse citatio
 > Est-ce qu'il est normal que le dimanche, quand Mme Obama veut avec ses filles visiter les magasins parisiens, je dois passer un coup de téléphone pour les faire ouvrir?
 > <cite>Nicolas Sarkozy, 30 juin 2009</cite>
 
-Outre l'originalité stylistique du français pratiqué par notre représentant national, je suis consterné de voir que pour une femme et ses filles (fussent-elles les plus puissantes femmes et filles du monde), notre Président se sente obligé de faire pression sur des citoyens ayant mérité leur repos ou du moins, se l'ayant vu promis par la loi. En effet, le travail dominical sur la base du volontariat est-il vraiment "volontaire" lorsqu'il est imposé par le chef de l'Etat ? J'ai hâte d'avoir l'avis d'[Eolas](http://www.maitre-eolas.fr/) là-dessus.
+Outre l'originalité stylistique du français pratiqué par notre représentant national, je suis consterné de voir que pour une femme et ses filles (fussent-elles les plus puissantes femmes et filles du monde), notre Président se sente obligé de faire pression sur des citoyens ayant mérité leur repos ou du moins, se l'ayant vu promis par la loi. En effet, le travail dominical sur la base du volontariat est-il vraiment "volontaire" lorsqu'il est imposé par le chef de l'État ? J'ai hâte d'avoir l'avis d'[Eolas](http://www.maitre-eolas.fr/) là-dessus.
 Mais de toutes façons, Nicolas Sarkozy l'a dit&nbsp;:
 
 > Il ne s'agit pas de dire que tout le monde va travailler le dimanche, je n'ai jamais dit ça.

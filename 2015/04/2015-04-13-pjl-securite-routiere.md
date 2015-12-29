@@ -13,7 +13,7 @@ series:
 
 <!-- more -->
 
-> J'ai donc été le premier à soutenir ce projet lors de sa présentation au Sénat, puis, en procédure accélérée, à l'Assemblée Nationale. Il s'agissait d'installer dans chaque véhicule un dispositif de captation des pratiques automobiles. Évidemment, il n'était pas question de mettre en place une surveillance de masse&nbsp;: les données étaient récupérées de manière anonyme sur les serveurs de l'Etat, dans le seul objectif de réaliser des analyses statistiques et de déterminer, éventuellement, les comportements déviants.
+> J'ai donc été le premier à soutenir ce projet lors de sa présentation au Sénat, puis, en procédure accélérée, à l'Assemblée Nationale. Il s'agissait d'installer dans chaque véhicule un dispositif de captation des pratiques automobiles. Évidemment, il n'était pas question de mettre en place une surveillance de masse&nbsp;: les données étaient récupérées de manière anonyme sur les serveurs de l'État, dans le seul objectif de réaliser des analyses statistiques et de déterminer, éventuellement, les comportements déviants.
 >
 >   Pour cela, étaient enregistrés les accélérations, le freinage, la position géographique, l’utilisation des phares et des essuie-glaces, l'allumage de la radio ou de l'allume-cigare, l'ouverture des boites à gants, la présence de passagers… Un point d'orgue était mis à n'enregistrer aucune conversation entre personnes, mais uniquement les durées de celles-ci.
 >

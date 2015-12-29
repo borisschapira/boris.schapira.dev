@@ -26,7 +26,7 @@ Richard est banquier. C'est lui qui a prêté à  Mickael avec de forts intér�
 
 ~~
 
-La maison de Mary perd en valeur parce que la demande de biens immobiliers aux Etats-Unis stagne. Pour que ses titres conservent leur valeur, Richard décide d'augmenter le taux du crédit de Mickael. Mais celui-ci n'arrive plus à  joindre les deux bouts, et n'arrive pas à  payer.
+La maison de Mary perd en valeur parce que la demande de biens immobiliers aux États-Unis stagne. Pour que ses titres conservent leur valeur, Richard décide d'augmenter le taux du crédit de Mickael. Mais celui-ci n'arrive plus à  joindre les deux bouts, et n'arrive pas à  payer.
 
 ~~
 
@@ -46,7 +46,7 @@ Raoûl décide des emprunts accordés par la banque où il travaille et voit arr
 
 ~~
 
-Alerandra est décisionnaire dans une grande banque centrale (comme la BCE en Europe ou la FED aux Etats-Unis). Les liquidités, ce n'est pas ce qui manque ici. Mais si on ne fait pas rapidement quelque chose, le marché court à  la faillite. Elle conseille donc à  ses supérieurs de prêter de l'argent aux banques qui en ont besoin afin de réguler ce qu'on appelle déjà  un minikrach. Mais ses supérieurs ont déjà  mis en place des stratégies à  long terme qui imposent la hausse des taux directeurs, et les banques ne sont pas forcément intéressées par des emprunts qui peuvent leur coûter cher.
+Alerandra est décisionnaire dans une grande banque centrale (comme la BCE en Europe ou la FED aux États-Unis). Les liquidités, ce n'est pas ce qui manque ici. Mais si on ne fait pas rapidement quelque chose, le marché court à  la faillite. Elle conseille donc à  ses supérieurs de prêter de l'argent aux banques qui en ont besoin afin de réguler ce qu'on appelle déjà  un minikrach. Mais ses supérieurs ont déjà  mis en place des stratégies à  long terme qui imposent la hausse des taux directeurs, et les banques ne sont pas forcément intéressées par des emprunts qui peuvent leur coûter cher.
 
 ~~
 
