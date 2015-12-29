@@ -14,7 +14,7 @@ Basculer l'État d'urgence de la loi de 1955 à la Consitution n'est pas un dét
 Malheureusement (ou insidieusement), des deux articles que contient ce projet, on ne parlera que de [la déchéance de nationalité](/2015/12/analyse-du-projet-de-revision-constitutionnelle-decheance-de-nationalite/ "L'analyse du projet de révision constitutionnelle : la déchéance de nationalité"), elle aussi dramatique mais surtout bien plus médiatique car moins technique.
 
 <figure>
-  <a data-featherlight="image" href="https://flic.kr/p/49QKir" title="Voir en plus grand">
+  <a href="https://flic.kr/p/49QKir" title="Voir en plus grand">
       {% responsive_image path: assets/images/2015-12-28/1.jpg alt="Un panneau jaune indiquant une diversion posé sur un trottoir." %}
   </a>
   <figcaption>"Diversion" par Daniel Lobo (CC-by-2.0)</figcaption>
