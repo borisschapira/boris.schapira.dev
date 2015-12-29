@@ -5,7 +5,7 @@ title: Accueil
 
 <section class="posts">
   {% for post in paginator.posts %}
-    {% include post.html %}
+    {% include post.html postPage=false %}
   {% endfor %}
 </section>
 

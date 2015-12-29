@@ -1,20 +1,11 @@
-{% if post %}
-  {% assign postPage = false %}
-{% else %}
-  {% assign postPage = true %}
+{% if include.postPage %}
   {% assign post = page %}
 {% endif %}
 
-{% comment %}
-<div>Page : {{ page.url  }}</div>
-<div>Post : {{ post.url }}</div>
-<div>{{ postPage }}</div>
-{% endcomment %}
-
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting"{% if postPage %} id="content"{% endif %}>
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting"{% if include.postPage %} id="content"{% endif %}>
   {% include post-head.html post=post showtags=false %}
   <h2 class="post-title p-name">
-    {% if postPage %}
+    {% if include.postPage %}
         {{ post.title }}
     {% else %}
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -22,7 +13,7 @@
   </h2>
 
   <div class="post-content">
-    {% if postPage %}
+    {% if include.postPage %}
       {{ content }}
     {% else %}
       {% if post.content contains "<!-- more -->" %}
