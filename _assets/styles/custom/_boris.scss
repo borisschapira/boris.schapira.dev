@@ -328,3 +328,12 @@ html .content .post .p-header .p-author {
       display: block;
   }
 }
+@media (min-width: 48em) {
+  /* About section */
+  .sidebar-nav .sidebar-nav-item {
+      display: block;
+      padding: 0 0.5em;
+      border-right: none;
+    }
+  }
+}
