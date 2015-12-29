@@ -431,30 +431,23 @@ RewriteRule ^(.+/)?index(\.html)?$ /%1 [R=301,L]
 RewriteCond %{REQUEST_FILENAME} !-f
 
 # Some very common, then less common "well-known" patterns
-RewriteCond %{REQUEST_URI} =/android-chrome-[\d]{2}x[\d]{2}.png [OR]
-RewriteCond %{REQUEST_URI} =/android-chrome-[\d]{3}x[\d]{3}.png [OR]
-RewriteCond %{REQUEST_URI} =/apple-touch-icon[\d]{2}x[\d]{2}.png [OR]
-RewriteCond %{REQUEST_URI} =/apple-touch-icon[\d]{3}x[\d]{3}.png [OR]
+RewriteCond %{REQUEST_URI} ^/android-chrome-[\d]{2}x[\d]{2}\.png$ [OR]
+RewriteCond %{REQUEST_URI} ^/android-chrome-[\d]{3}x[\d]{3}\.png$ [OR]
+RewriteCond %{REQUEST_URI} ^/apple-touch-icon[\d]{2}x[\d]{2}\.png$ [OR]
+RewriteCond %{REQUEST_URI} ^/apple-touch-icon[\d]{3}x[\d]{3}\.png$ [OR]
 RewriteCond %{REQUEST_URI} =/apple-touch-icon-precomposed.png [OR]
 RewriteCond %{REQUEST_URI} =/apple-touch-icon.png [OR]
 RewriteCond %{REQUEST_URI} =/browserconfig.xml [OR]
 RewriteCond %{REQUEST_URI} =/favicon.jpg [OR]
 RewriteCond %{REQUEST_URI} =/favicon.ico [OR]
-RewriteCond %{REQUEST_URI} =/favicon-[\d]{2}x[\d]{2}.png [OR]
-RewriteCond %{REQUEST_URI} =/favicon-[\d]{3}x[\d]{3}.png [OR]
+RewriteCond %{REQUEST_URI} ^/favicon-[\d]{2}x[\d]{2}\.png$ [OR]
+RewriteCond %{REQUEST_URI} ^/favicon-[\d]{3}x[\d]{3}\.png$ [OR]
 RewriteCond %{REQUEST_URI} =/manifest.json [OR]
-RewriteCond %{REQUEST_URI} =/mstile-[\d]{2}x[\d]{2}.png [OR]
-RewriteCond %{REQUEST_URI} =/mstile-[\d]{3}x[\d]{3}.png [OR]
+RewriteCond %{REQUEST_URI} ^/mstile-[\d]{2}x[\d]{2}\.png$ [OR]
+RewriteCond %{REQUEST_URI} ^/mstile-[\d]{3}x[\d]{3}\.png$ [OR]
 RewriteCond %{REQUEST_URI} =/robots.txt [OR]
 RewriteCond %{REQUEST_URI} =/safari-pinned-tab.svg [OR]
-RewriteCond %{REQUEST_URI} =/crossdomain.xml [OR]
-RewriteCond %{REQUEST_URI} =/foaf.rdf [OR]
-RewriteCond %{REQUEST_URI} =/w3c/p3p.xml [OR]
-RewriteCond %{REQUEST_URI} ^/google[\da-f]{16}\.html$ [OR]
-RewriteCond %{REQUEST_URI} ^/y_key_[\da-f]{16}\.html$ [OR]
-RewriteCond %{REQUEST_URI} =/BingSiteAuth.xml$ [OR]
-RewriteCond %{REQUEST_URI} =/myopenid-hosted-verification.html [OR]
-RewriteCond %{REQUEST_URI} =/humans.txt
+RewriteCond %{REQUEST_URI} ^/google[\da-f]{16}\.html$
 
 # To further limit possible issues (e.g. if you mess up the conditions above),
 # we only match files at the root, not folders or files in subfolders
@@ -491,45 +484,6 @@ Header always set X-FRAME-OPTIONS "DENY"
     deny from all
     satisfy all
 </Files>
-
-# ----------------------------------------------------------------------
-# Put favicon resources in the favicon folder
-# https://github.com/fvsch/scripts-and-snippets/blob/master/apache/rewrite-well-known.conf
-# ----------------------------------------------------------------------
-
-RewriteCond %{REQUEST_FILENAME} !-f
-
-# Some very common, then less common "well-known" patterns
-RewriteCond %{REQUEST_URI} ^/apple-touch-icon-.*\.html$ [OR]
-RewriteCond %{REQUEST_URI} =/favicon.jpg [OR]
-RewriteCond %{REQUEST_URI} =/favicon.ico [OR]
-RewriteCond %{REQUEST_URI} =/robots.txt [OR]
-RewriteCond %{REQUEST_URI} =/crossdomain.xml [OR]
-RewriteCond %{REQUEST_URI} =/apple-touch-icon.png [OR]
-RewriteCond %{REQUEST_URI} =/apple-touch-icon-precomposed.png [OR]
-RewriteCond %{REQUEST_URI} =/favicon.jpg [OR]
-RewriteCond %{REQUEST_URI} =/favicon.ico [OR]
-RewriteCond %{REQUEST_URI} ^/favicon-[\d]{2}x[\d]{2}.png$ [OR]
-RewriteCond %{REQUEST_URI} ^/favicon-[\d]{3}x[\d]{3}.png$ [OR]
-RewriteCond %{REQUEST_URI} ^/android-chrome-[\d]{2}x[\d]{2}.png$ [OR]
-RewriteCond %{REQUEST_URI} ^/android-chrome-[\d]{3}x[\d]{3}.png$ [OR]
-RewriteCond %{REQUEST_URI} =/robots.txt [OR]
-RewriteCond %{REQUEST_URI} =/crossdomain.xml [OR]
-RewriteCond %{REQUEST_URI} =/apple-touch-icon.png [OR]
-RewriteCond %{REQUEST_URI} =/apple-touch-icon-precomposed.png [OR]
-RewriteCond %{REQUEST_URI} =/foaf.rdf [OR]
-RewriteCond %{REQUEST_URI} =/w3c/p3p.xml [OR]
-RewriteCond %{REQUEST_URI} ^/google[\da-f]{16}\.html$ [OR]
-RewriteCond %{REQUEST_URI} ^/ms-tile-.*\.png$ [OR]
-RewriteCond %{REQUEST_URI} ^/y_key_[\da-f]{16}\.html$ [OR]
-RewriteCond %{REQUEST_URI} =/BingSiteAuth.xml$ [OR]
-RewriteCond %{REQUEST_URI} =/myopenid-hosted-verification.html [OR]
-RewriteCond %{REQUEST_URI} =/humans.txt [OR]
-RewriteCond %{REQUEST_URI} =/manifest.json
-
-# To further limit possible issues (e.g. if you mess up the conditions above),
-# we only match files at the root, not folders or files in subfolders
-RewriteRule ^([a-z0-9\-\._]+)$ /.well-known/$1 [L,NC]
 
 # ##############################################################################
 # # Jokes                                                                      #
