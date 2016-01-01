@@ -6,4 +6,4 @@ git add -A;
 git commit -m "Publication"; 
 git push origin master --force;
 rm -rf .git; 
-mv .git.back .git;
+mv .git.bak .git;
