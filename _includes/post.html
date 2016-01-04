@@ -3,7 +3,7 @@
 {% endif %}
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting"{% if include.postPage %} id="content"{% endif %}>
-  {% include post-head.html post=post showtags=false %}
+  {% include post-head.html post=post showtags=include.showtags showcategory=include.showcategory %}
   <h2 class="post-title p-name">
     {% if include.postPage %}
         {{ post.title }}

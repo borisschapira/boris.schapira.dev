@@ -33,10 +33,13 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      {% if (page.category | downcap) == 'papa' %}
-        <a class="sidebar-nav-item active" href="{{ site.baseurl }}/papa/">Avec mes enfants</a>
-      {% else %}
-        <a class="sidebar-nav-item" href="{{ site.baseurl }}/papa/">Avec mes enfants</a>
+      {% assign papa_posts = (site.posts | where: "category" , "Papa") %}
+      {% if papa_posts.size > 0 %}
+        {% if (page.category | downcap) == 'papa' %}
+          <a class="sidebar-nav-item active" href="{{ site.baseurl }}/papa/">Avec mes enfants</a>
+        {% else %}
+          <a class="sidebar-nav-item" href="{{ site.baseurl }}/papa/">Avec mes enfants</a>
+        {% endif %}
       {% endif %}
     </nav>
 

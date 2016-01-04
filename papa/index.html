@@ -9,6 +9,6 @@ category: Papa
 <section class="posts papa">
   {% assign papas = (site.posts | where: "category" , "Papa") %}
   {% for post in papas %}
-    {% include post.html postPage=false %}
+    {% include post.html postPage=false showtags=false showCategory=false %}
   {% endfor %}
 </section>
