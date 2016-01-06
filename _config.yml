@@ -30,6 +30,7 @@ author:
   twitter: 'http://twitter.com/borisschapira'
   linkedin: 'http://linkedin.com/in/borisschapira'
   feed: 'http://borisschapira.com/feed.xml'
+  mailto: 'contact%40borisschapira.com'
 
 # Build settings
 markdown: kramdown
