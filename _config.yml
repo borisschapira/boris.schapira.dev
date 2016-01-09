@@ -18,6 +18,7 @@ description: "Blog personnel de Boris Schapira"
 baseurl: ""
 url: "https://borisschapira.com"
 lang: fr
+timezone: Europe/Paris
 
 # Author
 name: 'Boris Schapira'
