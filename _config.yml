@@ -133,10 +133,11 @@ responsive_image:
   # relative path.
   #
   # Parameters available are:
+  #   %{dirname}     Directory of the file relative to `base_path` (assets/sub/dir/some-file.jpg => sub/dir)
   #   %{basename}    Basename of the file (assets/some-file.jpg => some-file.jpg)
   #   %{filename}    Basename without the extension (assets/some-file.jpg => some-file)
   #   %{extension}   Extension of the file (assets/some-file.jpg => jpg)
   #   %{width}       Width of the resized image
   #   %{height}      Height of the resized image
   #
-  output_path_format: assets/resized/%{folderpath}/%{width}/%{basename}
+  output_path_format: assets/resized/%{dirname}/%{width}/%{basename}

@@ -5,7 +5,7 @@ gem 'i18n'
 
 group :jekyll_plugins do
   gem 'jekyll-assets'
-  gem 'jekyll-responsive_image', :github => 'borisschapira/jekyll-responsive-image'
+  gem 'jekyll-responsive_image', :github => 'wildlyinaccurate/jekyll-responsive-image'
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
   gem 'jekyll-archives'
