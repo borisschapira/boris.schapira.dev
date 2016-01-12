@@ -2,6 +2,8 @@
 layout: post
 title: "Stupéfaction"
 date: 2013-06-27 22:38:21
+category: Citoyen
+hidden: true
 tags:
   - Société
   - Égalité

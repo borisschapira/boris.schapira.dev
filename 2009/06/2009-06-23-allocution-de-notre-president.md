@@ -2,6 +2,8 @@
 layout: post
 title: "Allocution de notre président"
 date: 2009-06-23 16:13:12
+category: Citoyen
+hidden: true
 tags:
   - Société
   - France

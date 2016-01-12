@@ -2,6 +2,8 @@
 layout: post
 title: "Ecouter et réfléchir"
 date: 2015-01-12 20:58:02
+category: Citoyen
+hidden: true
 tags:
   - Société
 series:

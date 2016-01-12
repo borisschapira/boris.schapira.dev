@@ -2,6 +2,8 @@
 layout: post
 title: "[Rétro] Il y a un an… septembre 2008."
 date: 2009-09-01 09:00:06
+category: Citoyen
+hidden: true
 tags:
   - Société
   - Rétro

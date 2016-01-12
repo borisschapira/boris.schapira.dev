@@ -2,6 +2,8 @@
 layout: post
 title: "FaisMesDevoirs : darwin chez les Ados"
 date: 2009-03-05 17:27:48
+category: Citoyen
+hidden: true
 tags:
   - Société
   - Éducation

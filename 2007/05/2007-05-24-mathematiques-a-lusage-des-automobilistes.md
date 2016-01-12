@@ -2,6 +2,8 @@
 layout: post
 title: "Mathématiques à l'usage des automobilistes"
 date: 2007-05-24 08:01:29
+category: Citoyen
+hidden: true
 tags:
   - Société
   - Sécurité routière

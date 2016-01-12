@@ -2,6 +2,8 @@
 layout: post
 title: "Publicités stupides"
 date: 2009-11-02 09:54:24
+category: Citoyen
+hidden: true
 tags:
   - Société
   - "Billet d'humeur"

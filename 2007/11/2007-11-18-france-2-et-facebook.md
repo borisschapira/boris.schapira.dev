@@ -2,6 +2,8 @@
 layout: post
 title: "France 2 et Facebook"
 date: 2007-11-18 22:45:54
+category: Citoyen
+hidden: true
 tags:
   - Société
   - Technologie

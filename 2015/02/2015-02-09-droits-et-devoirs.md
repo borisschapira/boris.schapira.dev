@@ -2,6 +2,8 @@
 layout: post
 title: "Droits et devoirs"
 date: 2015-02-09 16:50:54
+category: Citoyen
+hidden: true
 tags:
   - Société
   - Emploi

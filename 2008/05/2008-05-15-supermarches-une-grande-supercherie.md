@@ -2,6 +2,8 @@
 layout: post
 title: "Supermarchés : une grande supercherie ?"
 date: 2008-05-15 14:11:41
+category: Citoyen
+hidden: true
 tags:
   - Société
   - "Billet d'humeur"

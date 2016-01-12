@@ -2,6 +2,8 @@
 layout: post
 title: "Journée Internationale des Droits de la Femme"
 date: 2015-03-08 23:10:47
+category: Citoyen
+hidden: true
 tags:
   - Société
   - Égalité

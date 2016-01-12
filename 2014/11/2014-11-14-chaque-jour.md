@@ -2,6 +2,8 @@
 layout: post
 title: "Chaque jour"
 date: 2014-11-14 10:00:27
+category: Citoyen
+hidden: true
 tags:
   - Société
   - Égalité

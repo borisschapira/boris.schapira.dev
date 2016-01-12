@@ -2,6 +2,8 @@
 layout: post
 title: "Dérapages du langage"
 date: 2015-01-15 11:17:52
+category: Citoyen
+hidden: true
 tags:
   - Société
 series:

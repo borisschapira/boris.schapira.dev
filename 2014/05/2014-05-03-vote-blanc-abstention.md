@@ -2,6 +2,8 @@
 layout: post
 title: "Vote blanc, abstention"
 date: 2014-05-03 12:52:32
+category: Citoyen
+hidden: true
 tags:
   - Société
   - Politique
