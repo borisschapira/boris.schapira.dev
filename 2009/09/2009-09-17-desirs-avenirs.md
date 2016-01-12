@@ -2,8 +2,9 @@
 layout: post
 title: "Désirs d'Avenirs : un vrai raté"
 date: 2009-09-17 09:58:29
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
   - "Billet d'humeur"
 ---

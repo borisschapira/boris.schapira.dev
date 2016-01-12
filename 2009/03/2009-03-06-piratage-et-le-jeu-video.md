@@ -2,8 +2,9 @@
 layout: post
 title: "Piratage : et le jeu vidéo ?"
 date: 2009-03-06 14:36:45
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 series: Hadopi
 ---

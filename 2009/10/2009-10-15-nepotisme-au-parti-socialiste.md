@@ -2,8 +2,9 @@
 layout: post
 title: "Népotisme au Parti Socialiste"
 date: 2009-10-15 10:06:20
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - France
   - Jean Sarkozy
 ---

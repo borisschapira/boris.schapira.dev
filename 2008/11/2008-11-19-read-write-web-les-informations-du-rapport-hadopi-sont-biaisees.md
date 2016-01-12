@@ -2,8 +2,9 @@
 layout: post
 title: "Read Write Web : les informations du rapport Hadopi sont biaisées"
 date: 2008-11-19 16:42:51
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 series: Hadopi
 ---

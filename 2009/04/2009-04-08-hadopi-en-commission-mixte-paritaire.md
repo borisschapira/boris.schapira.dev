@@ -2,8 +2,9 @@
 layout: post
 title: "Hadopi en Commission Mixte Paritaire"
 date: 2009-04-08 16:08:26
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 series: Hadopi
 ---

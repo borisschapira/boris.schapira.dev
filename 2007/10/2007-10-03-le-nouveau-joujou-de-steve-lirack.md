@@ -2,8 +2,9 @@
 layout: post
 title: "Le nouveau joujou de Steve : l'iRack"
 date: 2007-10-03 07:02:39
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Apple
 ---
 

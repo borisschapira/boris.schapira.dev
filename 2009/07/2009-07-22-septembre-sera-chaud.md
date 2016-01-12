@@ -2,8 +2,9 @@
 layout: post
 title: "Septembre sera chaud"
 date: 2009-07-22 22:45:05
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 series: Hadopi
 ---

@@ -2,8 +2,9 @@
 layout: post
 title: "Mariage annulé : les politiques prolongent le cauchemar de la mariée"
 date: 2008-06-03 08:31:36
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Justice
   - Religion
 ---

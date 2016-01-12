@@ -2,8 +2,9 @@
 layout: post
 title: "Marietta Karamanli - Identité Nationale"
 date: 2009-12-11 16:49:43
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Égalité
   - Religion
 ---

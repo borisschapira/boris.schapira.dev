@@ -2,8 +2,9 @@
 layout: post
 title: "Informations dans la durée"
 date: 2014-09-15 09:28:16
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Histoire
 ---
 

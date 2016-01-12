@@ -2,8 +2,9 @@
 layout: post
 title: "Facebook a dit : il va bien"
 date: 2009-07-29 08:30:46
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
   - "Billet d'humeur"
   - Facebook

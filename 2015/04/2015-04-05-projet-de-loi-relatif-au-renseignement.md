@@ -2,8 +2,9 @@
 layout: post
 title: "«&#160;Projet de Loi relatif au renseignement&#160;»"
 date: 2015-04-05 22:59:23
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 series:
   - Loi Renseignement

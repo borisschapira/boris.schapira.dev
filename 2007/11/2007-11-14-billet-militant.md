@@ -2,8 +2,9 @@
 layout: post
 title: "Billet militant"
 date: 2007-11-14 07:15:46
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Société
   - Grève
 ---

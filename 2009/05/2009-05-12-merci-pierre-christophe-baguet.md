@@ -2,8 +2,9 @@
 layout: post
 title: "Merci, Pierre-Christophe Baguet"
 date: 2009-05-12 23:31:44
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 series: Hadopi
 ---

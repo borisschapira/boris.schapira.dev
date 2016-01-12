@@ -2,8 +2,9 @@
 layout: post
 title: "Rejet d'Hadopi. Faut-il se réjouir ?"
 date: 2009-04-09 16:12:08
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 series: Hadopi
 ---

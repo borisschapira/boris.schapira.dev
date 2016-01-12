@@ -2,8 +2,9 @@
 layout: post
 title: "Nicolas Sarkozy, Le Monde et les musulmans"
 date: 2009-12-09 23:31:48
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Religion
   - Égalité
 ---

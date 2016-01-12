@@ -2,8 +2,9 @@
 layout: post
 title: "Travail dominical… sur ordre du Président"
 date: 2009-07-01 09:44:18
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Emploi
   - France
   - Sarkozy

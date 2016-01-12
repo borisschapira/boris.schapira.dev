@@ -2,8 +2,9 @@
 layout: post
 title: "Un peu d'actu politique et financière"
 date: 2008-02-07 08:18:56
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - France
 ---
 

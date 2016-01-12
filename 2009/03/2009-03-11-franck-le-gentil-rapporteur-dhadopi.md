@@ -2,8 +2,9 @@
 layout: post
 title: "Franck, le gentil rapporteur d'Hadopi"
 date: 2009-03-11 11:57:43
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 series: Hadopi
 ---

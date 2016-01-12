@@ -2,8 +2,9 @@
 layout: post
 title: "Boursiers et Grandes Ecoles"
 date: 2010-05-08 12:14:16
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Éducation
 ---
 

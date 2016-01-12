@@ -2,8 +2,9 @@
 layout: post
 title: "L'histoire d'Hadopi se répète"
 date: 2009-06-30 16:38:54
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Hadopi
 ---
 

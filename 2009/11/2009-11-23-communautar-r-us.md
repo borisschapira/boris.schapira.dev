@@ -2,8 +2,9 @@
 layout: post
 title: "Communautar'r'us"
 date: 2009-11-23 15:32:24
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - "Billet d'humeur"
   - France
   - Religion

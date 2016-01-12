@@ -2,8 +2,9 @@
 layout: post
 title: "Vers une solution au téléchargement illégal"
 date: 2007-05-04 12:44:26
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 ---
 

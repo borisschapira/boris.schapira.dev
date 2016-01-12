@@ -2,8 +2,9 @@
 layout: post
 title: "Le zapping des anti-annulation"
 date: 2008-06-02 09:01:25
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Justice
   - Religion
 ---

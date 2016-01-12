@@ -2,8 +2,9 @@
 layout: post
 title: "Combien faudra-t-il de morts pour censurer Internet…"
 date: 2008-12-24 08:30:40
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
   - Publicité
   - Web

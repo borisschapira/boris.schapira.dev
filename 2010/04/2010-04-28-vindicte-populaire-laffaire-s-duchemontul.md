@@ -2,8 +2,9 @@
 layout: post
 title: "Vindicte populaire : l'affaire S. Duchemontul"
 date: 2010-04-28 16:13:14
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Égalité
 ---
 

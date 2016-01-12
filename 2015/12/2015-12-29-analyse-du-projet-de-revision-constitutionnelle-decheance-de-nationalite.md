@@ -2,8 +2,9 @@
 layout: post
 title: "L'analyse du projet de révision constitutionnelle : la déchéance de nationalité"
 date: 2015-12-29 08:00:00
+category: Citoyen
+hidden: true
 tags:
-  - Politique
 ---
 
 > Nous n’épiloguerons pas sur les promesses du gouvernement selon lesquelles «&nbsp;seules les infractions criminelles les plus graves peuvent justifier une sanction telle que la déchéance de nationalité prononcée à l’encontre de Français de naissance&nbsp;» puisqu’il appartiendra à la Loi de les fixer, et que rien n’interdit à ce que d’éventuelles réformes législatives n’en élargissent l’application.

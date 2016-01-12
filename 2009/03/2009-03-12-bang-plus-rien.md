@@ -2,8 +2,9 @@
 layout: post
 title: "Hadopi : BANG, plus rien"
 date: 2009-03-12 18:19:31
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 series: Hadopi
 ---

@@ -2,8 +2,9 @@
 layout: post
 title: "Détournement médiatique"
 date: 2009-10-23 10:08:15
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 series: Hadopi
 ---

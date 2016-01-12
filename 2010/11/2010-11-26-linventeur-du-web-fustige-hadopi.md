@@ -2,8 +2,9 @@
 layout: post
 title: "L'inventeur du Web fustige Hadopi"
 date: 2010-11-26 10:04:04
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Vie privée
 ---
 

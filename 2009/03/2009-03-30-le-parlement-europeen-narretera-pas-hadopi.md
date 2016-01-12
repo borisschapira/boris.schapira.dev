@@ -2,8 +2,9 @@
 layout: post
 title: "Le Parlement Européen n'arrêtera pas Hadopi"
 date: 2009-03-30 18:44:38
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 series: Hadopi
 ---

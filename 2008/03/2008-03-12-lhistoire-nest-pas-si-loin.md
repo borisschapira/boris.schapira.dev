@@ -2,8 +2,9 @@
 layout: post
 title: "L'Histoire n'est pas si loin…"
 date: 2008-03-12 15:07:25
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Insolite
 ---
 

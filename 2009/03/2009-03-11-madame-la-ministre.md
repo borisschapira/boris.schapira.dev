@@ -2,8 +2,9 @@
 layout: post
 title: "Madame la Ministre,"
 date: 2009-03-11 17:40:00
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 series: Hadopi
 ---

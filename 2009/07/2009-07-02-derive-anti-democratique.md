@@ -2,8 +2,9 @@
 layout: post
 title: "Dérive anti-démocratique"
 date: 2009-07-02 15:07:16
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Assemblée Nationale
   - "Billet d'humeur"
 ---

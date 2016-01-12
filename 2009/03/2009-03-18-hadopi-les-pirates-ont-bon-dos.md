@@ -2,8 +2,9 @@
 layout: post
 title: "Hadopi : les «&#160;Pirates&#160;» ont bon dos"
 date: 2009-03-18 12:35:59
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 series: Hadopi
 ---

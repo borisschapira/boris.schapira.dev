@@ -2,8 +2,9 @@
 layout: post
 title: "Les griefs des grévistes"
 date: 2009-01-29 10:10:02
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Grève
 ---
 

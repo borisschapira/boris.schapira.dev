@@ -2,8 +2,9 @@
 layout: post
 title: "PJL Sécurité Routière"
 date: 2015-04-13 08:03:16
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 series:
   - Loi Renseignement

@@ -2,8 +2,9 @@
 layout: post
 title: "Elections présidentielles 2007 #3"
 date: 2007-05-03 18:48:48
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Débat
   - Présidentielles
 ---

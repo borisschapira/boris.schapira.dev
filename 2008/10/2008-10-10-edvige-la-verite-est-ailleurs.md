@@ -2,8 +2,9 @@
 layout: post
 title: "Edvige, la vérité est ailleurs"
 date: 2008-10-10 13:04:58
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Sécurité
 ---
 

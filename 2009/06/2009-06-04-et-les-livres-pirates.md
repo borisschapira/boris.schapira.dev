@@ -2,8 +2,9 @@
 layout: post
 title: "Et les livres piratés ?"
 date: 2009-06-04 13:29:59
+category: Citoyen
+hidden: true
 tags:
-  - Politique
   - Numérique
 series: Hadopi
 ---
