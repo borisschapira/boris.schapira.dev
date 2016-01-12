@@ -339,3 +339,11 @@ html .content .post .p-header .p-author {
       border-right: none;
   }
 }
+
+.separator {
+  height: 1rem;
+}
+
+sup::before{
+  content:"\0202F";
+}

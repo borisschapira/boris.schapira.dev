@@ -13,15 +13,30 @@
 
     <nav class="sidebar-nav">
       {% if page.url == "/" %}
-        <a class="sidebar-nav-item active" href="{{ site.baseurl }}/">Blog</a>
+        <a class="sidebar-nav-item active" href="{{ site.baseurl }}/">Professionnel</a>
       {% else %}
-        <a class="sidebar-nav-item" href="{{ site.baseurl }}/">Blog</a>
+        <a class="sidebar-nav-item" href="{{ site.baseurl }}/">Professionnel</a>
       {% endif %}
 
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
+      {% assign papa_posts = (site.posts | where: "category" , "Papa") %}
+      {% if papa_posts.size > 0 %}
+        {% if (page.category | downcap) == 'papa' %}
+          <a class="sidebar-nav-item active" href="{{ site.baseurl }}/papa/">Papa</a>
+        {% else %}
+          <a class="sidebar-nav-item" href="{{ site.baseurl }}/papa/">Papa</a>
+        {% endif %}
+      {% endif %}
+
+      {% assign cit_posts = (site.posts | where: "category" , "Citoyen") %}
+      {% if cit_posts.size > 0 %}
+        {% if (page.category | downcap) == 'citoyen' %}
+          <a class="sidebar-nav-item active" href="{{ site.baseurl }}/politique/">Citoyen</a>
+        {% else %}
+          <a class="sidebar-nav-item" href="{{ site.baseurl }}/politique/">Citoyen</a>
+        {% endif %}
+      {% endif %}
+
+      <div class="separator"><!-- --></div>
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
@@ -33,14 +48,6 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      {% assign papa_posts = (site.posts | where: "category" , "Papa") %}
-      {% if papa_posts.size > 0 %}
-        {% if (page.category | downcap) == 'papa' %}
-          <a class="sidebar-nav-item active" href="{{ site.baseurl }}/papa/">Avec mes enfants</a>
-        {% else %}
-          <a class="sidebar-nav-item" href="{{ site.baseurl }}/papa/">Avec mes enfants</a>
-        {% endif %}
-      {% endif %}
     </nav>
 
     {% include sidebar-follow-icons.html %}
