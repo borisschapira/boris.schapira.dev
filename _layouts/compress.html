@@ -11,12 +11,12 @@ layout: compress
 {% endif %}
 {% assign t = temp3.last %}
 {% assign t = t | replace: '...' , '&#8230;' %}
-{% assign t = t | replace: '&ldquo;' , '«&#160;' %}
-{% assign t = t | replace: '&rdquo;' , '&#160;»' %}
-{% assign t = t | replace: '“' , '«&#160;' %}
-{% assign t = t | replace: '”' , '&#160;»' %}
-{% assign t = t | replace: ' :',       '&#160;:' %}
-{% assign t = t | replace: ' %',       '&#160;%' %}
+{% assign t = t | replace: '&ldquo;' , '«&#8239;' %}
+{% assign t = t | replace: '&rdquo;' , '&#8239;»' %}
+{% assign t = t | replace: '“' , '«&#8239;' %}
+{% assign t = t | replace: '”' , '&#8239;»' %}
+{% assign t = t | replace: ' :',       '&nbsp;:' %}
+{% assign t = t | replace: ' %',       '&#8239;%' %}
 {% assign t = t | replace: ' ;', '&#8239;;' %}
 {% assign t = t | replace: ' !', '&#8239;!' %}
 {% assign t = t | replace: ' ?', '&#8239;?' %}
