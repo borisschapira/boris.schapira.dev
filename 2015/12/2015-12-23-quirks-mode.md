@@ -2,6 +2,8 @@
 layout: post
 title: Quirks Mode
 date: 2015-12-23 16:00:00
+category: Citoyen
+hidden: true
 tags:
   - Égalité
 ---
