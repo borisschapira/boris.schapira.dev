@@ -13,30 +13,30 @@
 
     <nav class="sidebar-nav">
       {% if page.url == "/" %}
-        <a class="sidebar-nav-item active" href="{{ site.baseurl }}/">Professionnel</a>
+        <a class="sidebar-nav-item active" href="{{ site.baseurl }}/">En vrac</a>
       {% else %}
-        <a class="sidebar-nav-item" href="{{ site.baseurl }}/">Professionnel</a>
+        <a class="sidebar-nav-item" href="{{ site.baseurl }}/">En vrac</a>
+      {% endif %}
+
+      {% assign cit_posts = (site.posts | where: "category" , "Citoyen") %}
+      {% if cit_posts.size > 0 %}
+        {% if page.category == 'Citoyen' %}
+          <a class="sidebar-nav-item active" href="{{ site.baseurl }}/citoyen/">Citoyen</a>
+        {% else %}
+          <a class="sidebar-nav-item" href="{{ site.baseurl }}/citoyen/">Citoyen</a>
+        {% endif %}
       {% endif %}
 
       {% assign papa_posts = (site.posts | where: "category" , "Papa") %}
       {% if papa_posts.size > 0 %}
-        {% if (page.category | downcap) == 'papa' %}
+        {% if page.category == 'Papa' %}
           <a class="sidebar-nav-item active" href="{{ site.baseurl }}/papa/">Papa</a>
         {% else %}
           <a class="sidebar-nav-item" href="{{ site.baseurl }}/papa/">Papa</a>
         {% endif %}
       {% endif %}
 
-      {% assign cit_posts = (site.posts | where: "category" , "Citoyen") %}
-      {% if cit_posts.size > 0 %}
-        {% if (page.category | downcap) == 'citoyen' %}
-          <a class="sidebar-nav-item active" href="{{ site.baseurl }}/politique/">Citoyen</a>
-        {% else %}
-          <a class="sidebar-nav-item" href="{{ site.baseurl }}/politique/">Citoyen</a>
-        {% endif %}
-      {% endif %}
-
-      <div class="separator"><!-- --></div>
+      <div class="sidebar-nav-item separator"><!-- --></div>
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}

@@ -1,0 +1,19 @@
+---
+layout: default
+title: Citoyen
+category: Citoyen
+---
+
+<header class="category">
+<h1 class="page-title">Je suis un citoyen</h1>
+<p>
+  français, du monde et des Internets.
+</p>
+</header>
+
+<section class="posts citoyen">
+  {% assign pols = (site.posts | where: "category" , "Citoyen") %}
+  {% for post in pols %}
+    {% include post.html postPage=false showtags=false showCategory=false %}
+  {% endfor %}
+</section>

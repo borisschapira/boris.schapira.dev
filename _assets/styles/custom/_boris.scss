@@ -2,7 +2,6 @@ $color-fuschia: #d00b6d;
 $color-green: rgb(47, 244, 246);
 $color-green-faded: rgb(195, 244, 220);
 $color-gray: rgb(154,154,154);
-
 /* Lisibility */
 body {
   text-rendering: optimizeSpeed;
@@ -12,7 +11,6 @@ body {
 img {
   margin-bottom: 0;
 }
-
 /* Fuschia */
 .theme-base-0g {
   .sidebar {
@@ -35,7 +33,6 @@ img {
     border: 0;
     height: 1px;
   }
-
   /* Meta data line below post title */
   .post header span,
   .post header time {
@@ -51,6 +48,11 @@ img {
     color: #333;
   }
 }
+header.category {
+  text-align: center;
+  margin-bottom: 2rem;
+  display: none;
+}
 .p-tags,
 .p-category {
   &::before {
@@ -58,7 +60,7 @@ img {
   }
 }
 html .content .post .p-header .p-author {
-  display:none;
+  display: none;
 }
 .related {
   border-top: none;
@@ -101,7 +103,6 @@ html .content .post .p-header .p-author {
   }
   figure {
     text-align: center;
-
     /** http://www.24joursdeweb.fr/2015/pseudo-elements-pseudos-mais-puissants/ **/
     a {
       position: relative;
@@ -123,7 +124,6 @@ html .content .post .p-header .p-author {
     a:focus::before {
       opacity: 1;
     }
-
     /** **/
     picture,
     img {
@@ -155,7 +155,6 @@ html .content .post .p-header .p-author {
     padding: 10px;
   }
 }
-
 /* Pagination HTML & CSS code from nhoizey */
 .pagination {
   font-size: 1.2em;
@@ -271,16 +270,15 @@ html .content .post .p-header .p-author {
 }
 /* About section */
 .sidebar-about {
-  display:none;
+  display: none;
 }
-
 /* Navbar items */
 .sidebar-nav {
   display: none;
   .sidebar-nav-item {
     display: block;
     padding: 0 0.5em;
-    &:last-of-type{
+    &:last-of-type {
       border-right: none;
     }
   }
@@ -290,16 +288,14 @@ html .content .post .p-header .p-author {
 }
 .algolia__input {
   width: 100%;
-  margin-bottom:0;
+  margin-bottom: 0;
 }
-
 .sidebar:hover .sidebar-nav,
 .sidebar:hover .follow-icons {
-    display: block;
+  display: block;
 }
-
 .content {
-  padding-top:    1rem;
+  padding-top: 1rem;
   padding-bottom: 1rem;
 }
 @media (min-width: 28em) {
@@ -308,42 +304,42 @@ html .content .post .p-header .p-author {
   }
   .algolia__input {
     width: auto;
-    margin-bottom:1rem;
+    margin-bottom: 1rem;
   }
-
   .sidebar-nav,
-  .follow-icons{
-    display:block;
+  .follow-icons,
+  header.category {
+    display: block;
   }
-
   .sidebar-nav .sidebar-nav-item {
-      display: inline-block;
-      border-right: solid 1px white;
+    display: inline-block;
+    border-right: solid 1px white;
+    &.separator {
+      display: none;
+    }
   }
-
   .content {
-    padding-top:    4rem;
-    padding-bottom: 4rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
   }
 }
 @media (min-width: 33em) {
   /* About section */
   .sidebar-about {
-      display: block;
+    display: block;
   }
 }
 @media (min-width: 48em) {
   /* About section */
-  .sidebar-nav .sidebar-nav-item {
-      display: block;
-      border-right: none;
+  .sidebar-nav .sidebar-nav-item,
+  .sidebar-nav .sidebar-nav-item.separator {
+    display: block;
+    border-right: none;
   }
 }
-
 .separator {
   height: 1rem;
 }
-
-sup::before{
-  content:"\0202F";
+sup::before {
+  content: "\0202F";
 }

@@ -99,7 +99,7 @@
   </a>
   {% endif %}
   {% if site\.author\.feed != nil %}
-  <a rel="me" title="Abonnez-vous au flux" href="{% if (page.category | downcap) == 'papa' %}/papa{% endif %}/feed.xml">
+  <a rel="me" title="Abonnez-vous au flux" href="{% if page.category == 'Papa' %}/papa{% endif %}/feed.xml">
     <svg class="icon icon-feed3">
       <use xlink:href="#icon-feed3"></use>
     </svg>
