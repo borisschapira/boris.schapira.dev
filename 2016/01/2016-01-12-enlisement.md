@@ -15,7 +15,7 @@ Aujourd'hui, marchant à côté d'un homme en robe (que je pense être une robe 
 > \- Bah, t'inquiètes pas, va, bientôt t'auras plus de problème, les juges auront disparu.
 > \- C'est clair, il n'y aura que nous !
 
-J'ai voulu dire quelque chose. Je ne l'a pas fait. J'ai eu peur des représailles.
+J'ai voulu dire quelque chose. Je ne l'a pas fait. J'ai eu [peur des représailles](http://leplus.nouvelobs.com/contribution/1468581-des-policiers-des-juges-et-des-lois-pour-nous-faire-taire-je-vous-presente-alfred.html).
 
 J'ai eu **peur** des **représailles** de la **Police**.
 
