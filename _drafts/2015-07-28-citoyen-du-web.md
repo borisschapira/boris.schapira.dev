@@ -1,5 +1,6 @@
+---
+layout: post
 title: Citoyen du Web
-date: 2015-07-28 08:22:10
 ---
 
 //www.ekino.com/recrutement/

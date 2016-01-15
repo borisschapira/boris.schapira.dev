@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "De l'archivage du Web"
-date: 2014-05-05 12:32:21
-tags:
-  - Divers
 ---
 
 Importante [discussion](https://twitter.com/htmlvv/status/575720039225098241) sur Twitter, suite à une prise de position récente de Jake Archibald :

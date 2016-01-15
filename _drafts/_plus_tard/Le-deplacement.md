@@ -1,9 +1,6 @@
+---
+layout: post
 title: "Le déplacement"
-tags:
-id: 9127
-
-categories:
-  - Divers
 ---
 
 Quand on m'a parlé pour la première fois du projet, je n'ai pas tout compris, mais cela ne m'a pas étonné. Rentrer dans un projet, c'est souvent comme ouvrir un livre au milieu : ça donne une idée du style de management, mais ça ne permet pas de juger du contenu.

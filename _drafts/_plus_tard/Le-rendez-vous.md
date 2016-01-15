@@ -1,9 +1,6 @@
+---
+layout: post
 title: "Le rendez-vous"
-tags:
-id: 8711
-
-categories:
-  - Memory Lane
 ---
 
 Aujourd'hui, c'est le grand jour. J'accompagne l'équipe interne pour la présentation officielle du projet auprès de Grand-Patron de Grosse-Organisation. Le moment est crucial : le site n'est destiné qu'à un usage interne, pour les hauts cadres de l'entreprise et niveau cadre, on ne peut pas faire plus haut que lui.
