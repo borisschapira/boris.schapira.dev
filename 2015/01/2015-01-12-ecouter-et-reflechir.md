@@ -29,7 +29,7 @@ Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers jou
 
 > \-   Ils disent qu'on ne voit pas assez de musulmans dans les manifestations…
 >
-> \-   En même temps, à force de croire qu'il y a 30% de musulmans en France, ça choque quand on se rend compte que c'est pas le cas.
+> \-   En même temps, à force de croire qu'il y a 30 % de musulmans en France, ça choque quand on se rend compte que c'est pas le cas.
 >
 > \-   Moi ce que j'aimerais bien comprendre, c'est comment il compte "voir" des musulmans. Ils ont des badges&nbsp;? Comment ça se passe&nbsp;?
 

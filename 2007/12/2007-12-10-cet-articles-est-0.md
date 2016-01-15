@@ -15,7 +15,7 @@ Ce qui m'emb&#234;te n'est pas qu'on voit fleurir de plus en plus de site jolime
 
 &#160; 
 
-Ce qui m'horripile, c'est ce besoin de &quot;faire 2.0&quot;. Prenons un site tout neuf, tout beau, avec un business potentiel important. Comment va-t-on l'appeler&nbsp;? 98% de chances pour que &#231;a finisse par -er, -r ou -eo, que &#231;a fasse 2 ou 3 syllabes, sans doublement de consomnes mais possiblement des voyelles en double.    
+Ce qui m'horripile, c'est ce besoin de &quot;faire 2.0&quot;. Prenons un site tout neuf, tout beau, avec un business potentiel important. Comment va-t-on l'appeler&nbsp;? 98 % de chances pour que &#231;a finisse par -er, -r ou -eo, que &#231;a fasse 2 ou 3 syllabes, sans doublement de consomnes mais possiblement des voyelles en double.    
 Super les gars, rappelez-moi combien vous &#234;tes pay&#233;s pour pondre des noms aussi fades&nbsp;?
 
 Et je ne parle pas encore de ceux qui se r&#233;clament du 2.0 parce qu'ils ont trouv&#233; un concept un peu nouveau. &quot;Oui, nous faisons des sites web d&#233;di&#233;s &#224; l'iPhone. C'est un peu le web mobile 2.0&quot;. Non ma cocotte, c'est juste un site optimis&#233; pour l'iPhone, il ne faut pas tout m&#233;langer. Vous avez utilis&#233; un peu d'Ajax, c'est super beau et franchement, &#231;a fait envie. Pourquoi ne pas construire ton argumentaire l&#224;-dessus plut&#244;t que de plaider la pseudo-appartenance &#224; un courant marketing&nbsp;?

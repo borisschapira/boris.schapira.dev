@@ -12,7 +12,7 @@ Il faut croire que les antillais, que dis-je, les gens qui vivent aux Antilles, 
 
 **100 salariés manifesteraient 15 jours dans le Gers que Sarkozy y serait déjà. Plus de 200 000 actifs vivent depuis 5 semaines une grève sans précédent&nbsp;: il envoie des CRS et demande à un comité Théodule d'enterrer l'affaire.**
 
-Il aurait fallu envoyer à notre Président une facture de supermarché. Qu'il comprenne que le kilo de tomate était en décembre dernier à 7 euros et que pour manger un yaourt, ça coûte presque moins cher d'importer la vache. On nous dit qu'un quart de la population est fonctionnaire et gagne 40% de plus qu'en métropole. Mais alors ils doivent avoir un salaire moyen super élevé, non&nbsp;?
+Il aurait fallu envoyer à notre Président une facture de supermarché. Qu'il comprenne que le kilo de tomate était en décembre dernier à 7 euros et que pour manger un yaourt, ça coûte presque moins cher d'importer la vache. On nous dit qu'un quart de la population est fonctionnaire et gagne 40 % de plus qu'en métropole. Mais alors ils doivent avoir un salaire moyen super élevé, non&nbsp;?
 
 Et bien en fait&nbsp;: non. Le salaire net moyen en 2006 en Martinique, c'était 21 198 euros, contre 23 306 pour la Métropole. Et la différence en encore plus grave pour un ouvrier, payé 16 000 euros en moyenne en Martinique, contre 17 083 euros pour son équivalent en Métropole ([chiffres INSEE](http://www.insee.fr/fr/themes/theme.asp?theme=3&amp;sous_theme=1&amp;type=2&amp;nivgeo=23)).
 

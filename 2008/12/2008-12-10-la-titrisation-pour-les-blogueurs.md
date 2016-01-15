@@ -9,7 +9,7 @@ categories:
 
 Titriser, c'est transformer un ensemble d'actifs en un ensemble de titres négociables. Si les banquiers peuvent le faire, pourquoi les blogueurs n'en profiteraient pas&nbsp;?
 
-Imaginez par exemple que vous avez mis à disposition d'un autre blogueur un **espace publicitaire** chez vous, en échange d'une créance ("Pour l'instant mon blog fait 0,3% de tes visites mais dès que j'ai autant de visites que toi je te laisse un même espace sur mon blog"). Les risques associés à cette créance sont nombreux&nbsp;:
+Imaginez par exemple que vous avez mis à disposition d'un autre blogueur un **espace publicitaire** chez vous, en échange d'une créance ("Pour l'instant mon blog fait 0,3 % de tes visites mais dès que j'ai autant de visites que toi je te laisse un même espace sur mon blog"). Les risques associés à cette créance sont nombreux&nbsp;:
 
 *   **Défaillance du débiteur**&nbsp;: "En fait, mon blog n'a pas de visiteurs donc j'arrête et je me lance dans la fabrication de poupées vaudou en cachous pré-mâché. Désolé."
 *   **Risque sur le taux d'intérêt**&nbsp;: "Ouais, je sais, ça fait 4 mois que tu me fais de la pub et tu voudrais que je t'en fasse pendant 4 mois à mon tour mais tu comprends, le prix de la pub a changé. Pour être équitable, je te ferais de la pub pendant 3 jours."

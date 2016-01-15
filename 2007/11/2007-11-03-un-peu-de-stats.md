@@ -17,7 +17,7 @@ tags:
 
 *   En dehors de ce pic, une stable moyenne de visiteurs uniques à environ 75 VU/jour, à pondérer avec les 75 adhérents RSS (mais je doute que ce soit les même sinon quel intérêt&nbsp;?)
 
-*   Ceux qui arrivent ici passent pour 60% par un lien sur un autre site, 20% par un moteur de recherche et les autres connaissent déjà.
+*   Ceux qui arrivent ici passent pour 60 % par un lien sur un autre site, 20 % par un moteur de recherche et les autres connaissent déjà.
 
 *   Encore beaucoup de gens arrivent ici en tapant &quot;_poisson lanterne_&quot; dans Google. Les pauvres, ils doivent être bien déçus (si quelqu'un me fait un vrai article sur le poisson lanterne, je m'engage à le publier pour qu'ils trouvent quelque chose à se mettre sous la dent en arrivant).
 

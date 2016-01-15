@@ -9,7 +9,7 @@ series:
 canonical: http://blog.clever-age.com/fr/2013/05/14/il-faut-repenser-windows/
 ---
 
-Windows 8 se vend mal. Même si une centaine de millions de licences se sont écoulées depuis la sortie de l’OS, toutes ne sont pas activées et Windows 8 ne représente que 3 à 5% du parc PC. Il y a des choses à changer dans Windows. Et vite.
+Windows 8 se vend mal. Même si une centaine de millions de licences se sont écoulées depuis la sortie de l’OS, toutes ne sont pas activées et Windows 8 ne représente que 3 à 5 % du parc PC. Il y a des choses à changer dans Windows. Et vite.
 
 <!-- more -->
 
@@ -76,7 +76,7 @@ Ainsi, le "problème" de Windows 8 ne vient pas nécessairement de sa nouvelle i
   <figcaption>Agencer les sensibilités peut-être un sacré casse-tête…</figcaption>
 </figure>
 
-Faut-il faire table rase de ce Windows pour préparer le suivant&nbsp;? Non, bien sûr, et j’irais même plus loin en disant qu’il faudrait peu de choses pour redonner de la cohérence au produit. Il est juste nécessaire de séparer les usages. D’un côté, un Windows dédié aux tablettes et 100% Modern UI (c’est déjà le cas de Windows RT, mais avec des contraintes de développement pénibles). De l’autre, un Windows en pur “bureau”, sans mixité forcée avec la nouvelle interface et qui assure la rétro-compatibilité nécessaire à de nombreux usages bureautiques.
+Faut-il faire table rase de ce Windows pour préparer le suivant&nbsp;? Non, bien sûr, et j’irais même plus loin en disant qu’il faudrait peu de choses pour redonner de la cohérence au produit. Il est juste nécessaire de séparer les usages. D’un côté, un Windows dédié aux tablettes et 100 % Modern UI (c’est déjà le cas de Windows RT, mais avec des contraintes de développement pénibles). De l’autre, un Windows en pur “bureau”, sans mixité forcée avec la nouvelle interface et qui assure la rétro-compatibilité nécessaire à de nombreux usages bureautiques.
 
 Malheureusement, je sais également que ce que je préconise est impossible&nbsp;: toute division de la marque ou de la gamme nuira à l’image de marque de Windows, en plus de coûter très cher en maintenance à Microsoft. Mais imposer aux utilisateurs cette double interface ne fonctionnera pas longtemps. Nous avons tous des schémas mentaux associés aux produits que nous utilisons. Deux schémas pour un même produit, cela ne fonctionne pas.
 

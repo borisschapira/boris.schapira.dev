@@ -59,7 +59,7 @@ Se pose ensuite un problème technique car par souci de cohérence, Matthieu sou
 
 Reste à choisir la version qui sera affichée à la première visite d’un client. De nouveau, une décision doit être prise pour savoir comment seront traités les utilisateurs : quelle quantité de visiteurs verra la version B, sur quels critères seront-ils choisis et sur quel périmètre du site le test aura-t-il lieu : toutes les fiches produit ou seulement certaines ? Pour ne pas influencer les résultats, la technique du test A/B impose de trouver un critère parfaitement indépendant, mais ce n’est pas évident !
 
-Matthieu et son équipe décident de s’en remettre à un tirage au sort, qui délivrera la version de contrôle à 99% des utilisateurs et la version B à 1% seulement, sur tout le site. Ainsi, si la version B ne réalise pas ses promesses, cela ne sera que peu préjudiciable à l’activité.
+Matthieu et son équipe décident de s’en remettre à un tirage au sort, qui délivrera la version de contrôle à 99 % des utilisateurs et la version B à 1 % seulement, sur tout le site. Ainsi, si la version B ne réalise pas ses promesses, cela ne sera que peu préjudiciable à l’activité.
 
 Matthieu se rend compte que sous couvert d’objectivité, l’équipe a déjà fait de nombreux choix très subjectifs :
 
@@ -108,7 +108,7 @@ Enfin, durant les quelques jours pendant lesquels le test a été effectué, le 
 
 Tout cela enseigne beaucoup à Matthieu… sur la façon de faire des tests A/B. Mais sur le visuel produit, aucune conclusion n’est possible : il va falloir réitérer l’expérience en la contrôlant mieux.
 <h2>Les Tests A/B, quand les autres s’en mêlent</h2>
-Finalement, Matthieu et son équipe reproduisent le test avec de meilleures mesures et un volume significatif, ce qui leur permet de bien isoler les résultats. Contrairement à ce qu’ils avaient pensé, la version B est moins performante, aussi le site est-il à nouveau basculé à 100% sur sur la version avec visuel produit. Même si Matthieu est frustré de ne pas comprendre les raisons du résultat, lui qui pensait que la vidéo ne pourrait être que plus attrayante, il est tout de même satisfait de l’avoir obtenu et sa Direction l’en félicite.
+Finalement, Matthieu et son équipe reproduisent le test avec de meilleures mesures et un volume significatif, ce qui leur permet de bien isoler les résultats. Contrairement à ce qu’ils avaient pensé, la version B est moins performante, aussi le site est-il à nouveau basculé à 100 % sur sur la version avec visuel produit. Même si Matthieu est frustré de ne pas comprendre les raisons du résultat, lui qui pensait que la vidéo ne pourrait être que plus attrayante, il est tout de même satisfait de l’avoir obtenu et sa Direction l’en félicite.
 
 Fiers de ce succès, l’équipe de Matthieu se voit confier de plus en plus de demandes de tests, en provenance notamment des équipes Marketing qui y trouvent un moyen formidable de mesurer l’activité des visiteurs. Mais de nombreux problèmes techniques se posent, car certains tests, simples sur le papier, obligent notamment à maintenir plusieurs architectures logicielles incompatibles entre elles. Matthieu et son équipe sont obligés de mettre ces tests en attente, le temps de ré-écrire une partie du code pour pouvoir y injecter des dépendances. Et d’autres demandes, elles aussi mises en attente pour un délai indéterminé, nécessitent de modifier l’infrastructure technique. Beaucoup de dépenses qui n’étaient pas au budget...
 

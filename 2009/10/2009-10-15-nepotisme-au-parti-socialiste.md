@@ -21,6 +21,6 @@ Jugez plutôt son parcours, et vous comprendrez&nbsp;:
 
 Comme vous pouvez le voir, il n'y a pas qu'à l'UMP que de jeunes premiers sans expérience et sans diplôme supérieur finissent par occuper des postes où ils ont soi-disant une légitimité par qu'ils ont été élus à des élection où ils n'ont pour seul mérite que celui d'avoir un père qui a demandé à ce qu'ils soient présentés comme uniques candidats de leur parti. Et je suis ravi de voir que je ne suis pas le seul à le [penser](http://www.jegoun.net/2009/10/martine-aubry-vs-jean-sarkozy.html)&nbsp;!
 
-[Adrien Therio](http://fr.wikipedia.org/wiki/Adrien_Th%C3%A9rio) disait&nbsp;: "si tous les parents choisissaient les noms de leurs enfants avec soin, le monde en serait changé. Un nom, c'est la moitié de la personnalité." Il avait oublié de préciser que c'était aussi, dans certains milieux, 90% du salaire.
+[Adrien Therio](http://fr.wikipedia.org/wiki/Adrien_Th%C3%A9rio) disait&nbsp;: "si tous les parents choisissaient les noms de leurs enfants avec soin, le monde en serait changé. Un nom, c'est la moitié de la personnalité." Il avait oublié de préciser que c'était aussi, dans certains milieux, 90 % du salaire.
 
 P.S.&nbsp;: Authueil nous fait part d'un réel [népotisme socialiste](http://www.authueil.org/?2009/10/15/1465-nepotisme-socialiste), soulignant un cas parmi d'autres de nomination d'un fils-à-papa. Dommage que Frederic Lefebvre n'ait pas été au courant avant, ça lui aurait évité de dire une grosse bêtise.

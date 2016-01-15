@@ -7,7 +7,7 @@ tags:
   - Economie
 ---
 
-La BCE réduit ses taux autant qu'elle peut (le taux directeur est passé de 4,25% à 2,50% en cinq mois), prête davantage et plus longtemps et accepte un plus grand nombre d'actifs en garantie. L'État a souscrit des titres pour 10,5 milliards d'euros  dont plus de 5 milliards ont déjà été fournis afin de renforcer les fonds propres de nos banques et la caisse de refinancement dispose d'une capacité totale d'emprunt-prêt de 320 milliards.
+La BCE réduit ses taux autant qu'elle peut (le taux directeur est passé de 4,25 % à 2,50 % en cinq mois), prête davantage et plus longtemps et accepte un plus grand nombre d'actifs en garantie. L'État a souscrit des titres pour 10,5 milliards d'euros  dont plus de 5 milliards ont déjà été fournis afin de renforcer les fonds propres de nos banques et la caisse de refinancement dispose d'une capacité totale d'emprunt-prêt de 320 milliards.
 
 Malgré cela, [la confiance ne revient pas](//www.agefi.fr/articles/la-defiance-persiste-entre-les-banques-indique-la-bce-1057818.html) et ce ne sont pas les [récentes découvertes transatlantiques](http://tempsreel.nouvelobs.com/?xtmc=madoff&amp;xtcr=4) qui vont changer la donne. Avant même l'affaire Madoff, le crédit n'était pas au beau fixe. Comme l'expliquait Christian Noyer, gouverneur de la Banque de France, le 10 décembre dernier&nbsp;:
 

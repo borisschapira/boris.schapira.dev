@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Joyeux Noël 2008 : -50% chez LaFraise !"
+title: "Joyeux Noël 2008 : -50 % chez LaFraise !"
 date: 2008-12-25 00:01:46
 
 tags:
   - LaFraise
 ---
 
-Je vous souhaite un joyeux Noël 2009, et pour que cela soit encore plus sympa, j'offre** 8 bons de réductions à -50% **sur le site [LaFraise.com](https://www.lafraise.com/)
+Je vous souhaite un joyeux Noël 2009, et pour que cela soit encore plus sympa, j'offre** 8 bons de réductions à -50 % **sur le site [LaFraise.com](https://www.lafraise.com/)
 
 <!-- more -->
 

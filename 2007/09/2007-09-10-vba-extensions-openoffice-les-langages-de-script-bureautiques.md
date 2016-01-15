@@ -20,7 +20,7 @@ Souvent peu ou pas formés, les salariés exprimant ces besoins ont souvent reco
 
 Si vous êtes utilisateurs d'OpenOffice vous pouvez également avoir accès à ce type de développements. Avant la version 2.0.4 d'Open Office, les modèles de développements étaient variés puisque pour produire un plug-in UNO (Universal Network Object), vous pouviez utiliser C, C++, Java ou Python. Légèrement plus complexes que les scripts VBA (notamment via la gestion des bridges de communication IDL), ils permettaient aussi de répondre à des demandes plus pointues.
 
-Pour des raisons de rapidité et de simplicité, le modèle de plug-in a été revu depuis la version 2.04 et c'est désormais un gestionnaire du type de celui de Firefox qui permet aux utilisateurs de gérer leurs plugins en toute simplicité. Ces derniers, installables en un clic via un fichier .OXT, sont ensuite gérables via l'installateur de paquets situés dans les options (on retrouve à 100% la gestion de Microsoft Office). De plus, le langage de script est très proche de VBA, ce qui facilite les transitions.
+Pour des raisons de rapidité et de simplicité, le modèle de plug-in a été revu depuis la version 2.04 et c'est désormais un gestionnaire du type de celui de Firefox qui permet aux utilisateurs de gérer leurs plugins en toute simplicité. Ces derniers, installables en un clic via un fichier .OXT, sont ensuite gérables via l'installateur de paquets situés dans les options (on retrouve à 100 % la gestion de Microsoft Office). De plus, le langage de script est très proche de VBA, ce qui facilite les transitions.
 
 Mais personnellement, je ne conseille pas OpenOffice pour ce type d'utilisation. Voici pourquoi :
 

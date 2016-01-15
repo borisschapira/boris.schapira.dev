@@ -31,7 +31,7 @@ Le problème de l'industriel est que le nombre a tué la créativité. Ses photo
 
 L'Ultra-Discount se cache à proximité d'un quartier dédié au Discount, ou d'une grande enseigne connue pour ses alléchant tarifs. Son argument de choc, c'est la réduction des prix. Concrètement, il vous propose exactement les mêmes tarifs que ses collègues (voire même plus cher), mais parce que c'est vous, que vous êtes unique et qu'il vous aime bien, il vous fait une réduction de X pourcent sur les deux albums des parents. Formidable, non&nbsp;?
 
-Bon, là, vous commencez normalement à vous poser la question&nbsp;: X %, c'est cool, mais sur quel montant&nbsp;? Et c'est là que l'Ultra-Discount vous allume. Il vous propose en fait une réduction à partir du tarif de l'album initial (aux environs de 800 €). Donc si on prend une réduction de -50% ("Enorme", vous répetera le photographe), cela vous fait l'album supplémentaire à… deux fois plus cher qu'ailleurs&nbsp;!
+Bon, là, vous commencez normalement à vous poser la question&nbsp;: X %, c'est cool, mais sur quel montant&nbsp;? Et c'est là que l'Ultra-Discount vous allume. Il vous propose en fait une réduction à partir du tarif de l'album initial (aux environs de 800 €). Donc si on prend une réduction de -50 % ("Enorme", vous répetera le photographe), cela vous fait l'album supplémentaire à… deux fois plus cher qu'ailleurs&nbsp;!
 
 ### Conclusion
 

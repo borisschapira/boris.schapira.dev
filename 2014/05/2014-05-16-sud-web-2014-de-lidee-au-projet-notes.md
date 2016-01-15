@@ -10,7 +10,7 @@ tags:
 
 ## Transcript de <em lang="en">Lightning Talk</em>, Sud&nbsp;Web&nbsp;2014
 
-En tant que consultant et chef de projet chez [Clever Age](http://www.clever-age.com/fr/ "Clever Garden, Clever Age, Clever Presence - 100% digital") ou professeur chez [Ingesup](http://www.ingesup.com/ "Ecole supérieure d"), je suis amené à aider régulièrement des clients, des collègues ou des étudiants à donner vie à des produits logiciels. Ces produits ne sont, à la base, que de simples idées comme vous, moi, pouvons en avoir souvent. Je suis sûr qu'ici-même, à cet instant, après d'aussi nombreuses prestations de qualité, les idées ne manquent pas. Mais souvent, nous ne savons pas trop quoi faire de ces idées, nous avons peur de les utiliser. Nous les laissons s’envoler, nous avons du mal à les formaliser ou nous n'arrivons pas à convaincre d'autres personnes de leur intérêt pour qu'ils nous suivent…
+En tant que consultant et chef de projet chez [Clever Age](http://www.clever-age.com/fr/ "Clever Garden, Clever Age, Clever Presence - 100 % digital") ou professeur chez [Ingesup](http://www.ingesup.com/ "Ecole supérieure d"), je suis amené à aider régulièrement des clients, des collègues ou des étudiants à donner vie à des produits logiciels. Ces produits ne sont, à la base, que de simples idées comme vous, moi, pouvons en avoir souvent. Je suis sûr qu'ici-même, à cet instant, après d'aussi nombreuses prestations de qualité, les idées ne manquent pas. Mais souvent, nous ne savons pas trop quoi faire de ces idées, nous avons peur de les utiliser. Nous les laissons s’envoler, nous avons du mal à les formaliser ou nous n'arrivons pas à convaincre d'autres personnes de leur intérêt pour qu'ils nous suivent…
 
 <!-- more -->
 

@@ -20,7 +20,7 @@ La publicité en ligne est devenue, faute d’une meilleure solution, la princip
 
 Sans contexte de régulation, son usage empiète un peu plus chaque jour sur les contours flous de la vie privée, au dépend d’usagers qui manifestent leur sentiment d’agression par l’usage massif de bloqueurs publicitaires[^chiffres]. Un véritable marché du blocage publicitaire émerge, constitué de solutions techniques et d’accords secrets, dans les navigateurs comme sur smartphones[^mobile]. Face à ce phénomène, certains producteurs n’hésitent plus à bloquer l’accès à leurs contenus aux utilisateurs refusant la publicité, envoyant ainsi un signal extrêmement négatif à leur audience.
 
-[^chiffres]: D’après une étude PageFair, ces AdBlockers seraient installés chez 35% des internautes européens, 41% des 16-29 ans. UCBrowser et Maxthon, qui revendiquent plus de 600 millions d’utilisateurs en Asie, sont également partenaires de solutions de blocage.
+[^chiffres]: D’après une étude PageFair, ces AdBlockers seraient installés chez 35 % des internautes européens, 41 % des 16-29 ans. UCBrowser et Maxthon, qui revendiquent plus de 600 millions d’utilisateurs en Asie, sont également partenaires de solutions de blocage.
 
 [^mobile]: L’Ad Blocker d’iOS 9, par exemple, repose sur un modèle commercial où les annonceurs devront payer pour voir leurs pubs affichées.
 

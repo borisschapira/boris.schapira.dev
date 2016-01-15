@@ -98,7 +98,7 @@ Toutes les applications devront être récupérées à partir du Windows Phone M
   <figcaption>The Harvest, un Hack’n’Slash prometteur pour Windows Phone</figcaption>
 </figure>
 
-Mais si le MarketPlace de Microsoft se distingue de celui d’Apple sur ce point, il est en très proche sur d’autres. Ainsi, le partage des revenus sera de 70%-30% entre les développeurs et Microsoft. Développeurs, qui devront s’acquitter d’une licence annuelle de développement comprenant 5 comptes pour 99$. Le développeur souhaitant proposer des applications gratuites n’aura pas d’autres coûts et pourra ajouter de la publicité. La soumission d’une application payante coûtera en revanche 99$ supplémentaires.
+Mais si le MarketPlace de Microsoft se distingue de celui d’Apple sur ce point, il est en très proche sur d’autres. Ainsi, le partage des revenus sera de 70%-30 % entre les développeurs et Microsoft. Développeurs, qui devront s’acquitter d’une licence annuelle de développement comprenant 5 comptes pour 99$. Le développeur souhaitant proposer des applications gratuites n’aura pas d’autres coûts et pourra ajouter de la publicité. La soumission d’une application payante coûtera en revanche 99$ supplémentaires.
 
 ### Développements&nbsp;: des portages sur tous les écrans
 

@@ -45,7 +45,7 @@ On se doute bien évidemment que non. L'État, comme toute organisation, dispose
 
 # Mon État a-t-il la côte sur le marché ?
 
-Les solvabilités perçues des États varient au fil du temps. Il existe cependant des tendances qui visent à privilégier des États par rapport à d'autres. L'Allemagne, par exemple, avec ses forts excédents commerciaux et sa faible inflation, est assez appréciée : on considère qu'elle dispose d'un fort potentiel de croissance sur de longues périodes. La France, en revanche, souffre des politiques des années 1970 qui ont abouti à d'importants déficit commerciaux et à une grosse inflation. Ces problèmes ont depuis été corrigés par l'augmentation des taux d'intérêts par la BCE. C'est de cette époque que nous héritons notre chômage chronique. Mais on peut toujours se rassurer en se disant que c'est pire ailleurs : la dette de l'Italie s'élève à plus de 100% de son PIB. Les agences de notations donnent même une meilleure note à certaines entreprises italiennes qu'à l'État…
+Les solvabilités perçues des États varient au fil du temps. Il existe cependant des tendances qui visent à privilégier des États par rapport à d'autres. L'Allemagne, par exemple, avec ses forts excédents commerciaux et sa faible inflation, est assez appréciée : on considère qu'elle dispose d'un fort potentiel de croissance sur de longues périodes. La France, en revanche, souffre des politiques des années 1970 qui ont abouti à d'importants déficit commerciaux et à une grosse inflation. Ces problèmes ont depuis été corrigés par l'augmentation des taux d'intérêts par la BCE. C'est de cette époque que nous héritons notre chômage chronique. Mais on peut toujours se rassurer en se disant que c'est pire ailleurs : la dette de l'Italie s'élève à plus de 100 % de son PIB. Les agences de notations donnent même une meilleure note à certaines entreprises italiennes qu'à l'État…
 
 # Comment savoir si un État emprunte trop ?
 
@@ -53,7 +53,7 @@ Contrairement à ce que voudraient nous faire croire bon nombre de politiciens, 
 
 # Les dettes des États sont-elles limitées ?
 
-En Europe, le Pacte de Stabilité et de Croissance, dans sa mouture de 2005, impose aux États de conserver l'encours de leur dette en dessous des 60% de PIB. Pour satisfaire ce critère, les États doivent donc travailler parallèlement à la réduction de la dette et à l'augmentation du PIB. En cas de non-respect des conditions du PSC, le Conseil se réserve le droit de recourir à des sanctions, qui n'ont cependant rien d'automatique.
+En Europe, le Pacte de Stabilité et de Croissance, dans sa mouture de 2005, impose aux États de conserver l'encours de leur dette en dessous des 60 % de PIB. Pour satisfaire ce critère, les États doivent donc travailler parallèlement à la réduction de la dette et à l'augmentation du PIB. En cas de non-respect des conditions du PSC, le Conseil se réserve le droit de recourir à des sanctions, qui n'ont cependant rien d'automatique.
 
 # Mais alors, on s'en fiche, de la dette ?
 
