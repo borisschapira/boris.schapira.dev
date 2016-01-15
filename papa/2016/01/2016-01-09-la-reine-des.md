@@ -13,6 +13,6 @@ Séquence "danse et musique". Évidemment, les garçons ont choisi "Libérée, D
 > \- Tu as compris pourquoi elle partait&nbsp;?
 > \- Oui, elle part parce qu'elle fait des prouts comme [prénom de son petit frère]. Et tout là-bas loin dans la montagne, il y a personne. Elle peut faire plein, plein de prouts&nbsp;!
 > \- Euh, ok… des prouts.
-> \- Mais non, Papa, pas des prouts normals, des prouts de neige ! C'est la reine des prouts des neiges&nbsp;!"
+> \- Mais non, Papa, pas des prouts normals, des prouts de neige ! C'est la reine des prouts des neiges&nbsp;!
 
 Le titre de la chanson prend tout son sens.
