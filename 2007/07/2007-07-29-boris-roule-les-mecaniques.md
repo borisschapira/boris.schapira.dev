@@ -12,6 +12,6 @@ Voilà , ma fabuleuse Saab-900 toute neuve et personnalisée (sans commentaires)
 
 <!-- more -->
 
-En une demi-heure, j'ai découvert le jeu, je me suis lancé dans un tournoi duquel je suis sorti 3ème avec quelques sous en poches, j'ai refait la moitié de ma Saab à neuf et j'ai gagné un deuxième tournoi pour lequel Jaguar m'a offert une voiture de collection et des réductions sur l'achat de différentiels pour améliorer la stabilité de ma monture.
+En une demi-heure, j'ai découvert le jeu, je me suis lancé dans un tournoi duquel je suis sorti 3<sup>e</sup> avec quelques sous en poches, j'ai refait la moitié de ma Saab à neuf et j'ai gagné un deuxième tournoi pour lequel Jaguar m'a offert une voiture de collection et des réductions sur l'achat de différentiels pour améliorer la stabilité de ma monture.
 
 J'adore ce jeu.

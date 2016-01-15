@@ -6,7 +6,7 @@ category: Papa
 hidden: true
 ---
 
-Séquence "danse et musique". Évidemment, les garçons ont choisi "Libérée, Délivrée" d'Anais Delva que nous écoutons en boucle pour la 27e fois. J'en profite pour voir si mon aîné a bien compris l'histoire&nbsp;:
+Séquence "danse et musique". Évidemment, les garçons ont choisi "Libérée, Délivrée" d'Anais Delva que nous écoutons en boucle pour la 27<sup>e</sup> fois. J'en profite pour voir si mon aîné a bien compris l'histoire&nbsp;:
 
 > \- Tu aimes la chanson, mais est-ce que tu connais l'histoire au moins&nbsp;?
 > \- Oui, c'est la grande méchante un peu gentille de la sœur qui s'en va très là-haut dans la montagne.
