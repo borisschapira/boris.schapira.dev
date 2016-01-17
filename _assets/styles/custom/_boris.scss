@@ -25,8 +25,17 @@ img {
   }
   abbr,
   acronym {
+    font-size: 1em;
+    font-weight: normal;
+    color: darken($color-gray, 40);
+    text-transform: none;
+  }
+  abbr[title],
+  acronym[title] {
+    cursor: help;
     border-bottom: 0.1em dotted $color-fuschia;
   }
+
   hr {
     color: $color-fuschia;
     background-color: $color-fuschia;
