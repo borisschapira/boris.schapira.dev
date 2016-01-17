@@ -18,7 +18,7 @@ Voici les principales conclusions auxquelles sont arrivés les analystes :
 *   La spécialisation du blog est considérée comme le deuxième critère de sélection le plus important
 *   La notoriété d'un blog n'est pas gage de qualité
 *   Les blogs sont consultés principalement pour trouver des avis d'experts et spécialistes
-*   La consultation des blogs via les flux RSS est très répandue *ce qui me laisse à penser que les visiteurs sont eux-mêmes des experts, tant le standard RSS peine (à tort) à démarrer
+*   La consultation des blogs via les flux <abbr title="Really Simple Syndication" lang="en">RSS</abbr> est très répandue *ce qui me laisse à penser que les visiteurs sont eux-mêmes des experts, tant le standard <abbr title="Really Simple Syndication" lang="en">RSS</abbr> peine (à tort) à démarrer
 *   13 % des interrogés lisent régulièrement plus de 100 blogs
 
 L'étude complète est disponible sur le site de VTech.

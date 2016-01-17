@@ -18,7 +18,7 @@ Fonctionnalités recherchées&nbsp;:
 *   possibilité de sauvegarder un marque-page avec titre, description et mots-clés, y compris constitués de plusieurs mots ;
 *   possibilité d'importer des marque-pages en masse (éventuellement via un service tiers ou une API, je devrais pouvoir me débrouiller) ;
 *   possibilité de rattacher un marque-page à une liste plus précise&nbsp;: via un mot-clé (qui ne serait, du coup, pas répété dans la liste) ou via une requête plus élaborée ;
-*   possibilité de consulter les marque-pages sous la forme d'un flux <abbr title="Really Simple Syndication">RSS</abbr> suffisamment bien formé pour pouvoir en extraire les mots-clés de manière efficace.
+*   possibilité de consulter les marque-pages sous la forme d'un flux <abbr title="Really Simple Syndication" lang="en">RSS</abbr> suffisamment bien formé pour pouvoir en extraire les mots-clés de manière efficace.
 
 J'ouvre à peine la réflexion, donc pour l'instant j'ai envisagé&nbsp;:
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qu'est-ce qu'un RSS ?"
+title: "Qu'est-ce qu'un <abbr title="Really Simple Syndication" lang="en">RSS</abbr> ?"
 date: 2007-04-15 14:35:54
 tags:
   - Technologie
@@ -26,13 +26,13 @@ De toutes les manières, les webmaster en avaient assez de devoir produire, souv
 
 Reprenons notre réflexion: l'internaute veut pouvoir suivre les publications d'un site sans pour autant s'engager dans la divulgation d'infos confidentielles ou la gestion à outrance d'e-mails. Il veut un truc simple qui lui permettrait de suivre le fil des publications à son gré. Le webmaster, ou plutôt l'auteur, souhaite avant tout qu'on n'entrave pas sa créativité. Il veut pouvoir publier quand il le veut tout en étant sûr que le lecteur fidèle sera au courant même sans venir sur le site.
 
-C'est là qu'intervient le moteur de flux RSS et l'agrégateur de flux RSS. Les mots sont pompeux mais j'ai comme à mon habitude une belle comparaison pour étayer l'explication. Imaginez un barrage en aval d'une grande montagne. L'eau qui parvient à ce barrage provient de multiples affluents et se retrouve contenue par celui-ci jusqu'à ce qu'on ouvre les vannes. Un moteur de flux est un affluent. À partir du contenu d'un site, il génère automatiquement un fichier -notre rivière- que l'on appelle un flux.
+C'est là qu'intervient le moteur de flux <abbr title="Really Simple Syndication" lang="en">RSS</abbr> et l'agrégateur de flux RSS. Les mots sont pompeux mais j'ai comme à mon habitude une belle comparaison pour étayer l'explication. Imaginez un barrage en aval d'une grande montagne. L'eau qui parvient à ce barrage provient de multiples affluents et se retrouve contenue par celui-ci jusqu'à ce qu'on ouvre les vannes. Un moteur de flux est un affluent. À partir du contenu d'un site, il génère automatiquement un fichier -notre rivière- que l'on appelle un flux.
 
 Un agrégateur est un barrage. Il retient pour vous le fil de l'actualité, c'est-à -dire l'ensemble du contenu des sites que vous aimez. Mais comme tout barrage, il vous permet également de relâcher la pression. Soit au compte goutte, article par article au fil de votre lecture, soit un flux complet, soit tous.
 
 **Et concrètement, chez moi&nbsp;?**
 
-Il existe plusieurs types d'agrégateurs RSS&nbsp;: intégrés aux navigateurs ou à part, en ligne sur un site web ou lancés depuis votre ordinateur. En fait, le navigateur que vous utilisez gère déjà probablement les flux RSS. Pour cela, cherchez l'[icône](https://www.google.com/search?q=icone+rss&amp;gws_rd=ssl) (standard international des flux RSS) et ouvrez dans une nouvelle fenêtre le flux RSS en cliquant sur "[S'inscrire au flux RSS 2.0](/feed/)".
+Il existe plusieurs types d'agrégateurs RSS&nbsp;: intégrés aux navigateurs ou à part, en ligne sur un site web ou lancés depuis votre ordinateur. En fait, le navigateur que vous utilisez gère déjà probablement les flux RSS. Pour cela, cherchez l'[icône](https://www.google.com/search?q=icone+rss&amp;gws_rd=ssl) (standard international des flux RSS) et ouvrez dans une nouvelle fenêtre le flux <abbr title="Really Simple Syndication" lang="en">RSS</abbr> en cliquant sur "[S'inscrire au flux <abbr title="Really Simple Syndication" lang="en">RSS</abbr> 2.0](/feed/)".
 
 Une nouvelle page devrait alors s'ouvrir, vous affichant l'ensemble des articles dans un format particulier. Cliquez sur le lien "M'abonner à ce flux". C'est fini. Dans Internet Explorer 7, vous pouvez dès lors cliquer sur l'étoile des Favoris situées en haut à droite, puis sélectionnez "Flux". L'ensemble des flux auxquels vous êtes inscrits (l'ensemble des "rivières" que votre "barrage" intercepte) s'affiche, avec en gras ceux qui contiennent des articles non-lus.
 

@@ -15,7 +15,7 @@ tags:
 
 *   2 216 visiteurs uniques pour Octobre… dont 545 le 26 Octobre grâce à un lien en provenance semble-t-il de [Kokipol](http://www.kopikol.net/?id=34147) (pour un article dont je pensais qu'il n'intéresserait personne… je me demande si ceux à qui ça a plu ont lu celui sur la crise des subprimes… j'aurais bien aimé avoir leur avis).
 
-*   En dehors de ce pic, une stable moyenne de visiteurs uniques à environ 75 VU/jour, à pondérer avec les 75 adhérents RSS (mais je doute que ce soit les même sinon quel intérêt&nbsp;?)
+*   En dehors de ce pic, une stable moyenne de visiteurs uniques à environ 75 VU/jour, à pondérer avec les 75 adhérents <abbr title="Really Simple Syndication" lang="en">RSS</abbr> (mais je doute que ce soit les même sinon quel intérêt&nbsp;?)
 
 *   Ceux qui arrivent ici passent pour 60 % par un lien sur un autre site, 20 % par un moteur de recherche et les autres connaissent déjà.
 
