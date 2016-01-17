@@ -8,7 +8,7 @@ tags:
   - Me, myself and I
 ---
 
-3 jours que ma Libellule et moi coupons l'arrivée d'eau de l'appartement après chaque utilisation. Comme la voisine du 2<sup>e</sup> a été inondée (mais pas par nous, c'est encore un autre morceau de l'immeuble qui part en sucette), on a même eu droit à une coupure générale d'eau dans la soirée et pour toute la nuit…
+3 jours que ma Libellule et moi coupons l'arrivée d'eau de l'appartement après chaque utilisation. Comme la voisine du 2e a été inondée (mais pas par nous, c'est encore un autre morceau de l'immeuble qui part en sucette), on a même eu droit à une coupure générale d'eau dans la soirée et pour toute la nuit…
 
 Nous ne pouvons pas prendre de congés pour accueillir le plombier. Dans notre bail est précisé que nous ne pouvons donner nos clés qu'à notre propriétaire (dont nous ne connaissons pas l'adresse ou le numéro) ou un de ses représentants. L'agence veut nous envoyer un "plombier avec qui elle a l'habitude de travailler". Mais il n'intervient pas le week-end et ne dispose d'aucun document officiel attestant d'un rattachement à l'agence. Idem pour le concierge.
 

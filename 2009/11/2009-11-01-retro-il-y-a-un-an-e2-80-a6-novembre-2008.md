@@ -13,7 +13,7 @@ _Pour ne pas commettre les erreurs du passé, encore faut-il [s'en souvenir](/?s
 
 _**Rappelez-vous, novembre 2008, c'était ça&nbsp;:**_
 
-*   Le **4**, Barack Obama devient le 44<sup>e</sup> président des États-Unis.
+*   Le **4**, Barack Obama devient le 44e président des États-Unis.
 *   Le **7**, le taux de chomâge aux États-Unis atteint son plus haut niveau depuis 14 ans.
 *   Le **10**, le gouvernement américain lance un deuxième plan de soutien à AIG, offrant un soutien de 150 milliard de dollars, le plus important de l'histoire du pays.
 *   Le **16**, Martine Aubry est élue à la tête du PS malgré diverses accusations de manipulations des votes.

@@ -25,5 +25,5 @@ C'est marrant mais quand je vois ce genre de tentatives de censure d'un _nouveau
 
 Mais bon, nous n'avons rien à dire. Monsieur a mis en route un serveur, c'est un expert :
 
-> j’ai passé quelques bouts de nuits […] dans certaines caves du 18<sup>e</sup> arrondissement – peut-être y étiez-vous aussi, monsieur Bloche ? – pour mettre en route des serveurs. Je connais donc **parfaitement** Internet.
+> j’ai passé quelques bouts de nuits […] dans certaines caves du 18e arrondissement – peut-être y étiez-vous aussi, monsieur Bloche ? – pour mettre en route des serveurs. Je connais donc **parfaitement** Internet.
 >   <cite>[Frédéric Lefebvre à l'Assemblée Nationale](http://www.assemblee-nationale.fr/13/cri/2008-2009/20090103.asp)</cite>
