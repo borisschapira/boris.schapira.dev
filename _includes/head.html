@@ -58,7 +58,7 @@
           <meta property="og:title" content="{{ page.tag }} &middot; {{ site.title }}" />
         {% else %}
           {% if page.canonical != nil %}<link rel="canonical" href="{{ page.canonical }}" itemprop="url" />{% endif %}
-          <title>{{ page.title }} &middot; {{ site.title }}</title>
+          <title>{{ page.title | strip_html }} &middot; {{ site.title }}</title>
           <meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 200 | strip_newlines | escape_once }}" />
           <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
           <meta property="og:type" content="article" />
