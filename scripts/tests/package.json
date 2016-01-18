@@ -1,0 +1,35 @@
+{
+  "name": "tbc-eboutique",
+  "version": "1.0.0",
+  "description": "Eboutique TBC Test Suite",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "jscs *.js test -x",
+    "test": "mocha",
+    "integ": "env BASE_URL=integ mocha",
+    "recette": "env BASE_URL=recette mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.clever-age.net:keolis/tbc-eboutique.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "cheerio": "^0.19.0",
+    "co": "^4.6.0",
+    "mocha": "^2.3.4",
+    "mocha-generators": "^1.2.0",
+    "moment": "^2.10.6",
+    "nightmare": "^2.0.9",
+    "queryselectorall": "^0.1.0"
+  },
+  "jshintConfig": {
+    "esnext": true,
+    "expr": true
+  },
+  "engines" : {
+    "node" : ">=5.2.0"
+  }
+}
