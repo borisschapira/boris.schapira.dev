@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qu'est-ce qu'un <abbr title="Really Simple Syndication" lang="en">RSS</abbr> ?"
+title: "Qu'est-ce qu'un RSS ?"
 date: 2007-04-15 14:35:54
 tags:
   - Technologie
