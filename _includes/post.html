@@ -14,12 +14,16 @@
 
   <div class="post-content">
     {% if include.postPage %}
-      {{ content }}
+      {{ post.content }}
     {% else %}
       {% if post.content contains "<!-- more -->" %}
         {{ post.content | split:"<!-- more -->" | first % }}
       {% else %}
-        {{ post.excerpt | markdownify }}
+        {% if post.content.size < 500 %}
+          {{ post.content }}
+        {% else %}
+          {{ post.excerpt | markdownify }}
+        {% endif %}
       {% endif %}
       <p>
         <a href="{{ site.baseurl }}{{ post.url }}" title="{{post.title}}">Lire la suite →</a>
