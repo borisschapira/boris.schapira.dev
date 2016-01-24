@@ -24,5 +24,4 @@ layout: microtypo
     {% assign t = t | replace: ' ?', '&#8239;?' %}
     {{ t }}
   {% endfor %}
-{% endcapture %}
-{{ source }}
+{% endcapture %}{{ source | replace_regex: '\n\s*\n', '' }}

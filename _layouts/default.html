@@ -10,7 +10,7 @@ layout: microtypo
 
     {% include sidebar.html %}
 
-    <div class="content container">
+    <div class="content container" role="main">
       <div class="algolia__initial-content js-algolia__initial-content">{{ content }}</div>
 
       <div class="algolia__search-content js-algolia__search-content">
@@ -20,5 +20,6 @@ layout: microtypo
     </div>
 
   {% include footer.html %}
+  {% include symbols.svg %}
   </body>
 </html>
