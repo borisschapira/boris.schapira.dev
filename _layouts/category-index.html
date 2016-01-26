@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{% unless page.content == '' %}
+  <p>{{ page.content }}</p>
+{% endunless %}
+
+<section class="posts">
+  {% for post in site.categories.[page.category] %}
+    {% include post.html postPage=false showtags=false showCategory=false %}
+  {% endfor %}
+</section>

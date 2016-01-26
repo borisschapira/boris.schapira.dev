@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: category-index
 title: Avec mes enfants…
 category: Papa
 ---
@@ -10,10 +10,3 @@ category: Papa
     comblé qui a souvent des anecdotes croustillantes à partager.
   </p>
 </header>
-
-<section class="posts papa">
-  {% assign papas = (site.posts | where: "category" , "Papa") %}
-  {% for post in papas %}
-    {% include post.html postPage=false showtags=false showCategory=false %}
-  {% endfor %}
-</section>
