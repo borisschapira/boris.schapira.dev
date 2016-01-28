@@ -276,6 +276,10 @@ html .content .post .p-header .p-author {
 }
 .sidebar {
   padding: 0.5rem 1rem;
+
+  .icon {
+    max-width:40px;
+  }
 }
 /* About section */
 .sidebar-about {

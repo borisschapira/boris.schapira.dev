@@ -43,11 +43,11 @@
       <div class="sidebar-nav-item separator"><!-- --></div>
 
       {% if page.url == "/search/" %}
-        <a class="sidebar-nav-item active" href="{{ site.baseurl }}/search/">      <svg style="max-width:40px" class="icon icon-search">
+        <a class="sidebar-nav-item active" href="{{ site.baseurl }}/search/">      <svg class="icon icon-search">
                 <use xlink:href="#icon-search"></use>
               </svg> Recherche</a>
       {% else %}
-        <a class="sidebar-nav-item" href="{{ site.baseurl }}/search/">      <svg style="max-width:40px" class="icon icon-search">
+        <a class="sidebar-nav-item" href="{{ site.baseurl }}/search/">      <svg class="icon icon-search">
                 <use xlink:href="#icon-search"></use>
               </svg> Recherche</a>
       {% endif %}
@@ -56,11 +56,11 @@
       {% for node in pages_list %}
         {% if node.title != null and node.url != "/offline.html" and node.layout == "page" %}
           {% if page.url == node.url %}
-            <a class="sidebar-nav-item active" href="{{ site.baseurl }}{{ node.url }}"><svg style="max-width:40px" class="icon icon-info">
+            <a class="sidebar-nav-item active" href="{{ site.baseurl }}{{ node.url }}"><svg class="icon icon-info">
                     <use xlink:href="#icon-info"></use>
                   </svg> {{ node.title }}</a>
           {% else %}
-            <a class="sidebar-nav-item" href="{{ site.baseurl }}{{ node.url }}"><svg style="max-width:40px" class="icon icon-info">
+            <a class="sidebar-nav-item" href="{{ site.baseurl }}{{ node.url }}"><svg class="icon icon-info">
                     <use xlink:href="#icon-info"></use>
                   </svg> {{ node.title }}</a>
           {% endif %}
