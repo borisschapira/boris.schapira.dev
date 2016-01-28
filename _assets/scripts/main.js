@@ -2,19 +2,19 @@
 //= require vendors/moment_fr
 
 //= require vendors/jquery.2.1.4.min
-
 //= require vendors/featherlight.min
-
-//= require vendors/algoliasearch.3.10.2.jquery.min
-//= require vendors/algoliasearch.helper.2.8.0.min
-
-//= require vendors/algolia
 
 //= require vendors/cookies-monster
 
 //= require vendors/elevator.min
 
 //= require analytics
+
+/* Add relative time */
+moment.locale('fr');
+$('header time').each(function(){
+  $(this).append(' (' + moment($(this).attr('datetime')).fromNow() + ')');
+});
 
 /* Elevator.js */
 window.onload = function() {

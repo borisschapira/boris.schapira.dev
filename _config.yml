@@ -74,8 +74,8 @@ algolia:
   index_name: 'jekyll'
   read_only_api_key: '45e74dfb46facf8ee7f3038c305a9a7e'
 excluded_files:
-- 404.html
-- index.html
+  - 404.html
+  - index.html
 settings:
 attributesToIndex:
   - title

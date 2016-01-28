@@ -9,42 +9,60 @@
       <p class="lead">{{ site.tagline }}</p>
     </div>
 
-    <input type="text" class="js algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Recherche" title="Recherche" />
+    <div class="sidebar-search">
+    {%if page.loadSearch %}
+        <input type="text" class="js algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Recherche" autofocus title="Recherche" />
+    {% endif %}
+    </div>
 
     <nav class="sidebar-nav">
       {% if page.url == "/" %}
-        <a class="sidebar-nav-item active" href="{{ site.baseurl }}/">En vrac</a>
+        <a class="sidebar-nav-item category active" href="{{ site.baseurl }}/">En vrac</a>
       {% else %}
-        <a class="sidebar-nav-item" href="{{ site.baseurl }}/">En vrac</a>
+        <a class="sidebar-nav-item category" href="{{ site.baseurl }}/">En vrac</a>
       {% endif %}
 
       {% assign cit_posts = (site.posts | where: "category" , "Citoyen") %}
       {% if cit_posts.size > 0 %}
         {% if page.category == 'Citoyen' %}
-          <a class="sidebar-nav-item active" href="{{ site.baseurl }}/citoyen/">Citoyen</a>
+          <a class="sidebar-nav-item category active" href="{{ site.baseurl }}/citoyen/">Citoyen</a>
         {% else %}
-          <a class="sidebar-nav-item" href="{{ site.baseurl }}/citoyen/">Citoyen</a>
+          <a class="sidebar-nav-item category" href="{{ site.baseurl }}/citoyen/">Citoyen</a>
         {% endif %}
       {% endif %}
 
       {% assign papa_posts = (site.posts | where: "category" , "Papa") %}
       {% if papa_posts.size > 0 %}
         {% if page.category == 'Papa' %}
-          <a class="sidebar-nav-item active" href="{{ site.baseurl }}/papa/">Papa</a>
+          <a class="sidebar-nav-item category active" href="{{ site.baseurl }}/papa/">Papa</a>
         {% else %}
-          <a class="sidebar-nav-item" href="{{ site.baseurl }}/papa/">Papa</a>
+          <a class="sidebar-nav-item category" href="{{ site.baseurl }}/papa/">Papa</a>
         {% endif %}
       {% endif %}
 
       <div class="sidebar-nav-item separator"><!-- --></div>
 
+      {% if page.url == "/search/" %}
+        <a class="sidebar-nav-item active" href="{{ site.baseurl }}/search/">      <svg style="max-width:40px" class="icon icon-search">
+                <use xlink:href="#icon-search"></use>
+              </svg> Recherche</a>
+      {% else %}
+        <a class="sidebar-nav-item" href="{{ site.baseurl }}/search/">      <svg style="max-width:40px" class="icon icon-search">
+                <use xlink:href="#icon-search"></use>
+              </svg> Recherche</a>
+      {% endif %}
+
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null and node.url != "/offline.html" and node.layout == "page" %}
           {% if page.url == node.url %}
-            <a class="sidebar-nav-item active" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+            <a class="sidebar-nav-item active" href="{{ site.baseurl }}{{ node.url }}"><svg style="max-width:40px" class="icon icon-info">
+                    <use xlink:href="#icon-info"></use>
+                  </svg> {{ node.title }}</a>
           {% else %}
-            <a class="sidebar-nav-item" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+            <a class="sidebar-nav-item" href="{{ site.baseurl }}{{ node.url }}"><svg style="max-width:40px" class="icon icon-info">
+                    <use xlink:href="#icon-info"></use>
+                  </svg> {{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
