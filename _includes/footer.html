@@ -37,6 +37,9 @@
 {% if include.loadSearch %}
   {% javascript search defer%}
 {% endif %}
+{% if page.permalink == '404.html' %}
+  {% javascript 404 defer%}
+{% endif %}
 
 {% if site.eu_cookie_law.active %}
   <div id="cookies-monster" class="hidden">

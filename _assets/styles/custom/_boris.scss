@@ -14,10 +14,8 @@ img {
 /* Fuschia */
 .theme-base-0g {
   .sidebar {
+    color: rgba(255,255,255,0.5);
     background-color: $color-fuschia;
-    .sidebar-nav-item {
-      color: #fff;
-    }
   }
   .content a,
   .related-posts li a:hover {
@@ -35,7 +33,6 @@ img {
     cursor: help;
     border-bottom: 0.1em dotted $color-fuschia;
   }
-
   hr {
     color: $color-fuschia;
     background-color: $color-fuschia;
@@ -276,40 +273,57 @@ html .content .post .p-header .p-author {
 }
 .sidebar {
   padding: 0.5rem 1rem;
-
+  ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    font-size: 0;
+    li {
+      display: inline;
+      a {
+        font-size: 1rem;
+      }
+    }
+  }
   .icon {
-    max-width:40px;
+    max-width: 40px;
   }
 }
 /* About section */
 .sidebar-about {
   display: none;
 }
-/* Navbar items */
-.sidebar-nav {
-  display: none;
-  .sidebar-nav-item {
-    display: block;
-    padding: 0;
-    &:last-of-type {
-      border-right: none;
-    }
-  }
-}
 .follow-icons {
-  display: none;
+  display: block;
 }
 .algolia__input {
   width: 100%;
   margin-bottom: 0;
 }
-.sidebar:hover .sidebar-nav,
-.sidebar:hover .follow-icons {
-  display: block;
-}
 .content {
   padding-top: 1rem;
   padding-bottom: 1rem;
+}
+.categories .sidebar-nav-item {
+  &::after {
+    content: '·';
+    font-size: 1rem;
+    padding: 0 0.2rem;
+  }
+  &:last-of-type::after {
+    content: '';
+  }
+}
+.secondary .sidebar-nav-item {
+  display: inline-block;
+  &::after {
+    content: '';
+    font-size: 1rem;
+    padding: 0 0.2rem;
+  }
+  &:last-of-type::after {
+    content: '';
+  }
 }
 @media (min-width: 28em) {
   .sidebar {
@@ -324,13 +338,6 @@ html .content .post .p-header .p-author {
   header.category {
     display: block;
   }
-  .sidebar-nav .sidebar-nav-item {
-    display: inline-block;
-    border-right: solid 1px white;
-    &.separator {
-      display: none;
-    }
-  }
   .content {
     padding-top: 2rem;
     padding-bottom: 2rem;
@@ -341,17 +348,35 @@ html .content .post .p-header .p-author {
   .sidebar-about {
     display: block;
   }
+
+  .sidebar-about h1 {
+    font-size: 2rem;
+  }
+
+  .sidebar-about .lead {
+    font-size: 1rem;
+  }
 }
 @media (min-width: 48em) {
   /* About section */
-  .sidebar-nav .sidebar-nav-item,
-  .sidebar-nav .sidebar-nav-item.separator {
+  .sidebar-nav .sidebar-nav-item {
     display: block;
     border-right: none;
+    &::after {
+      content: '';
+    }
   }
-}
-.separator {
-  height: 1rem;
+  .sidebar-about h1 {
+    font-size: 3.25rem;
+  }
+
+  .sidebar-about .lead {
+    font-size: 1.5rem;
+  }
+
+  .sidebar .categories {
+    margin-bottom: 1rem;
+  }
 }
 sup::before {
   content: "\0202F";

@@ -16,23 +16,6 @@
   <p>
     Peut-être qu'une recherche pourrait vous aider ? Allez, je la lance pour vous (regardez, juste en dessous).
   </p>
-  <script type="text/javascript">
-  (function ready(fn) {
-    if (document.readyState != 'loading'){
-      fn();
-    } else {
-      document.addEventListener('DOMContentLoaded', fn);
-    }
-    })(function()
-      {
-        var href = window.location.href;
-        var $searchInput = $('.js-algolia__input');
-        var value = href.substr(href.slice(0, -1).lastIndexOf('/')+1);
-        value = value.lastIndexOf('/') + 1 == value.length ? value.slice(0, -1) : value;
-        $searchInput.val(value).keyup();
-      }
-    );
-  </script>
   {% endif %}
   {% if include.issearch == true %}
   <p>

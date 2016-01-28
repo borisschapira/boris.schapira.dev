@@ -9,63 +9,49 @@
       <p class="lead">{{ site.tagline }}</p>
     </div>
 
-    <div class="sidebar-search">
-    {%if page.loadSearch %}
-        <input type="text" class="js algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Recherche" autofocus title="Recherche" />
+    {% if page.loadSearch %}
+      <div class="sidebar-search">
+        <input type="text" class="js algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Recherche" autofocus title="Recherche"/>
+      </div>
     {% endif %}
-    </div>
 
     <nav class="sidebar-nav">
-      {% if page.url == "/" %}
-        <a class="sidebar-nav-item category active" href="{{ site.baseurl }}/">En vrac</a>
-      {% else %}
-        <a class="sidebar-nav-item category" href="{{ site.baseurl }}/">En vrac</a>
-      {% endif %}
+      <ul class="categories">
+        {% capture nocat %}x{{ page.category }}{% endcapture %}
+        <li class="sidebar-nav-item {% if nocat == "x" %} active{% endif %}">
+          <a href="{{ site.baseurl }}/">En vrac</a>
+        </li>
 
-      {% assign cit_posts = (site.posts | where: "category" , "Citoyen") %}
-      {% if cit_posts.size > 0 %}
-        {% if page.category == 'Citoyen' %}
-          <a class="sidebar-nav-item category active" href="{{ site.baseurl }}/citoyen/">Citoyen</a>
-        {% else %}
-          <a class="sidebar-nav-item category" href="{{ site.baseurl }}/citoyen/">Citoyen</a>
+        {% assign cit_posts = (site.posts | where: "category" , "Citoyen") %}
+        {% if cit_posts.size > 0 %}
+          <li class="sidebar-nav-item{% if page.category == 'Citoyen' %} active{% endif %}">
+            <a href="{{ site.baseurl }}/citoyen/">Citoyen</a>
+          </li>
         {% endif %}
-      {% endif %}
 
-      {% assign papa_posts = (site.posts | where: "category" , "Papa") %}
-      {% if papa_posts.size > 0 %}
-        {% if page.category == 'Papa' %}
-          <a class="sidebar-nav-item category active" href="{{ site.baseurl }}/papa/">Papa</a>
-        {% else %}
-          <a class="sidebar-nav-item category" href="{{ site.baseurl }}/papa/">Papa</a>
+        {% assign papa_posts = (site.posts | where: "category" , "Papa") %}
+        {% if papa_posts.size > 0 %}
+          <li class="sidebar-nav-item{% if page.category == 'Papa' %} active {% endif %}">
+            <a href="{{ site.baseurl }}/papa/">Papa</a>
+          </li>
         {% endif %}
-      {% endif %}
+      </ul>
 
-      <div class="sidebar-nav-item separator"><!-- --></div>
+      <ul class="secondary">
 
-      {% if page.url == "/search/" %}
-        <a class="sidebar-nav-item active" href="{{ site.baseurl }}/search/">      <svg class="icon icon-search">
-                <use xlink:href="#icon-search"></use>
-              </svg> Recherche</a>
-      {% else %}
-        <a class="sidebar-nav-item" href="{{ site.baseurl }}/search/">      <svg class="icon icon-search">
-                <use xlink:href="#icon-search"></use>
-              </svg> Recherche</a>
-      {% endif %}
-
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null and node.url != "/offline.html" and node.layout == "page" %}
-          {% if page.url == node.url %}
-            <a class="sidebar-nav-item active" href="{{ site.baseurl }}{{ node.url }}"><svg class="icon icon-info">
-                    <use xlink:href="#icon-info"></use>
-                  </svg> {{ node.title }}</a>
-          {% else %}
-            <a class="sidebar-nav-item" href="{{ site.baseurl }}{{ node.url }}"><svg class="icon icon-info">
-                    <use xlink:href="#icon-info"></use>
-                  </svg> {{ node.title }}</a>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
+        <li class="sidebar-nav-item {% if page.url == "/search/" %} active {% endif %}">
+          <a href="{{ site.baseurl }}/search/">
+            <svg class="icon icon-search">
+              <use xlink:href="#icon-search"></use>
+            </svg>&nbsp;Recherche</a>
+        </li>
+        <li class="sidebar-nav-item{% if page.url == '/about/' %} active{% endif %}">
+          <a href="{{ site.baseurl }}{{ node.url }}">
+            <svg class="icon icon-info">
+              <use xlink:href="#icon-info"></use>
+            </svg>&nbsp;À&nbsp;propos</a>
+        </li>
+      </ul>
     </nav>
 
     {% include sidebar-follow-icons.html %}

@@ -1,27 +1,15 @@
 ---
 title: "404: contenu introuvable (pourtant on a bien cherché)"
 permalink: 404.html
+layout: default
+loadSearch: true
 ---
-<!DOCTYPE html>
-<html lang="{{ site.lang }}" itemscope itemtype="https://schema.org/WebPage">
 
-  {% include head.html %}
+{% include 404.html showsearch=true showtitle=true%}
 
-  <body id="top" class="theme-base-0g">
+<div class="algolia__initial-content js-algolia__initial-content"></div>
 
-    {% include sidebar.html %}
-
-    <div class="content container">
-      {% include 404.html showsearch=true showtitle=true%}
-
-      <div class="algolia__initial-content js-algolia__initial-content"></div>
-
-      <div class="algolia__search-content js-algolia__search-content">
-        <h1 class="page-title">Recherche</h1>
-        <div class="posts algolia__results"></div>
-      </div>
-    </div>
-
-  {% include footer.html %}
-  </body>
-</html>
+<div class="algolia__search-content js-algolia__search-content">
+  <h1 class="page-title">Recherche</h1>
+  <div class="posts algolia__results"></div>
+</div>
