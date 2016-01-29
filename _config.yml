@@ -32,6 +32,7 @@ author:
   linkedin: 'http://linkedin.com/in/borisschapira'
   feed: 'http://borisschapira.com/feed.xml'
   mailto: 'contact%40borisschapira.com'
+  slack: 'https://slackin-borisschapiracom.herokuapp.com/'
 
 # Build settings
 markdown: kramdown

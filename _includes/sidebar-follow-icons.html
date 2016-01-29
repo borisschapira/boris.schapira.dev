@@ -111,6 +111,14 @@
       </svg>
     </a>
   </li>
+  {% endif %} {% if site\.author\.slack != nil %}
+  <li>
+    <a rel="me" title="Rejoignez le Slack" href="{{ site.author.slack }}">
+      <svg class="icon icon-slack">
+        <use xlink:href="#icon-slack"></use>
+      </svg>
+    </a>
+  </li>
   {% endif %} {% if site\.author\.feed != nil %}
   <li>
     <a rel="me" title="Abonnez-vous au flux" href="{% if page.category == 'Papa' %}/papa{% endif %}/feed.xml">

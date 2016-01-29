@@ -11,12 +11,7 @@ layout: microtypo
     {% include sidebar.html %}
 
     <div class="content container" role="main">
-      <div class="algolia__initial-content js-algolia__initial-content">{{ content }}</div>
-
-      <div class="algolia__search-content js-algolia__search-content">
-        <h1 class="page-title">Recherche</h1>
-        <div class="posts algolia__results"></div>
-      </div>
+      {{ content }}
     </div>
 
   {% include footer.html loadSearch=page.loadSearch  %}

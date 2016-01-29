@@ -7,7 +7,7 @@ layout: default
 
 {% assign source = page.path | split: '/' %}
 <p class="contrib">
-  Si vous voulez signaler une erreur ou proposer une modification de ce texte, proposez une <a href="https://github.com/borisschapira/blog/blob/master/{% if page.category == 'Papa' %}papa/{% endif %}{{ page.date | date: "%Y/%m" }}/{{ source.last }}">modification des sources</a>, ouvrez un <a href="https://github.com/borisschapira/blog/issues/new?title=Article%20%22{{page.url}}%22">ticket</a> ou envoyez-moi un <a href="https://twitter.com/share?text=%40borisschapira+Concernant">tweet</a>.
+  Si vous voulez signaler une erreur ou proposer une modification de ce texte, proposez une <a href="https://github.com/borisschapira/blog/blob/master/{% if page.category == 'Papa' %}papa/{% endif %}{{ page.date | date: "%Y/%m" }}/{{ source.last }}">modification des sources <svg class="icon icon-git"><use xlink:href="#icon-git"></use></svg></a>, ouvrez un <a href="https://github.com/borisschapira/blog/issues/new?title=Article%20%22{{page.url}}%22">ticket <svg class="icon icon-github4"><use xlink:href="#icon-github4"></use></svg></a>, envoyez-moi un <a href="https://twitter.com/share?text=%40borisschapira+Concernant">tweet <svg class="icon icon-twitter2"><use xlink:href="#icon-twitter2"></use></svg></a>{% if site\.author\.slack != nil %} ou <a href="{{ site.author.slack }}">rejoignez-moi sur Slack <svg class="icon icon-slack"><use xlink:href="#icon-slack"></use></svg></a>{% endif %}.
 </p>
 
 {% include post-navigation.html %}
