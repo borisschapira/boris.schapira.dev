@@ -2,6 +2,7 @@
 layout: post
 title: "Premier dessin numérique"
 category: Papa
+hidden: true
 main_image: "assets/images/papa/2016-01-27/1.png"
 ---
 
