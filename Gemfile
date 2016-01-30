@@ -2,7 +2,6 @@ source "https://rubygems.org"
 
 gem 'jekyll', '~> 3.0', '>= 3.0.1'
 gem 'i18n'
-gem 'tidy-html5', :github => 'moneyadviceservice/tidy-html5-gem'
 
 group :jekyll_plugins do
   gem 'jekyll-assets'

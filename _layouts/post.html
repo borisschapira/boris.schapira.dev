@@ -3,7 +3,6 @@ layout: default
 ---
 
 {% include post.html postPage=true showtags=false showcategory=true %}
-{% include elevator.html %}
 
 {% assign source = page.path | split: '/' %}
 <p class="contrib">
@@ -12,6 +11,6 @@ layout: default
 
 {% include post-navigation.html %}
 
-{% comment %}
+{% include elevator.html %}
+
 {% include post-related.html %}
-{% endcomment %}
