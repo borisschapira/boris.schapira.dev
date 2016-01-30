@@ -3,7 +3,7 @@ layout: post
 title: "Premier dessin numérique"
 categories:
  - Papa
-og_image: "assets/images/papa/2016-01-27/1.png"
+main_image: "assets/images/papa/2016-01-27/1.png"
 ---
 
 Pendant que le petit faisait sa sieste, j'ai appris au grand à utiliser le <em lang="en">trackpad</em> pour dessiner sur l'ordinateur avec GIMP.
