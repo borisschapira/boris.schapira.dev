@@ -5,8 +5,15 @@ layout: default
 {% include post.html postPage=true showtags=false showcategory=true %}
 
 {% assign source = page.path | split: '/' %}
+{% assign title_encoded = post.title | url_encode %}
+{% capture url %}{{ site.url }}{{ site.baseurl }}{{ post.url }}{% endcapture %}
+{% assign url_encoded = url | url_encode %}
+<p class="discuss">
+  Si cet article vous a plu, n'hésitez pas à le partager sur <a target="_blank" rel="nofollow" href="https://twitter.com/share?text={{ title_encoded }}+par+@borisschapira" title="Partager cet article sur Twitter">sur Twitter&nbsp;<svg class="icon icon-twitter2"><use xlink:href="#icon-twitter2"></use></svg></a> ou <a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u={{ url_encoded }}" title="Partager cet article sur Facebook">Facebook&nbsp;<svg class="icon icon-facebook2"><use xlink:href="#icon-facebook2"></use></svg></a>.{% if site\.author\.slack != nil %} Vous pouvez aussi  venir en discuter de manière publique ou privée <a target="_blank" rel="nofollow" href="{{ site.author.slack }}" title="Rejoindre le Slack de {{ site.url }}">sur Slack&nbsp;<svg class="icon icon-slack"><use xlink:href="#icon-slack"></use></svg></a>.{% endif %}
+</p>
+
 <p class="contrib">
-  Si vous voulez signaler une erreur ou proposer une modification de ce texte, proposez une <a href="https://github.com/borisschapira/blog/blob/master/{% if page.category == 'Papa' %}papa/{% endif %}{{ page.date | date: "%Y/%m" }}/{{ source.last }}">modification des sources <svg class="icon icon-git"><use xlink:href="#icon-git"></use></svg></a>, ouvrez un <a href="https://github.com/borisschapira/blog/issues/new?title=Article%20%22{{page.url}}%22">ticket <svg class="icon icon-github4"><use xlink:href="#icon-github4"></use></svg></a>, envoyez-moi un <a href="https://twitter.com/share?text=%40borisschapira+Concernant">tweet <svg class="icon icon-twitter2"><use xlink:href="#icon-twitter2"></use></svg></a>{% if site\.author\.slack != nil %} ou <a href="{{ site.author.slack }}">rejoignez-moi sur Slack <svg class="icon icon-slack"><use xlink:href="#icon-slack"></use></svg></a>{% endif %}.
+  Si vous voulez signaler une erreur ou proposer une modification de ce texte, proposez une <a href="https://github.com/borisschapira/blog/blob/master/{% if page.category == 'Papa' %}papa/{% endif %}{{ page.date | date: "%Y/%m" }}/{{ source.last }}">modification des sources&nbsp;<svg class="icon icon-git"><use xlink:href="#icon-git"></use></svg></a>, ou ouvrez un <a href="https://github.com/borisschapira/blog/issues/new?title=Article%20%22{{page.url}}%22">ticket&nbsp;<svg class="icon icon-github4"><use xlink:href="#icon-github4"></use></svg></a>.
 </p>
 
 {% include post-navigation.html %}

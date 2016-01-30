@@ -1,6 +1,6 @@
 $color-fuschia: #d00b6d;
-$color-green: rgb(47, 244, 246);
-$color-green-faded: rgb(195, 244, 220);
+$color-green: complement($color-fuschia);
+$color-green-faded: lighten($color-green, 20);
 $color-gray: rgb(154,154,154);
 /* Lisibility */
 body {
@@ -49,9 +49,20 @@ img {
     }
   }
   .contrib {
-    border: 1px solid $color-fuschia;
+    border: 1px solid darken($color-fuschia,20);
     padding: 10px;
     color: #333;
+    a {
+      color: darken($color-fuschia,20);
+    }
+  }
+  .discuss {
+    border: 1px solid $color-green;
+    padding: 10px;
+    color: #333;
+    a {
+      color: darken($color-green, 10);
+    }
   }
 }
 header.category {
@@ -348,11 +359,9 @@ html .content .post .p-header .p-author {
   .sidebar-about {
     display: block;
   }
-
   .sidebar-about h1 {
     font-size: 2rem;
   }
-
   .sidebar-about .lead {
     font-size: 1rem;
   }
@@ -369,11 +378,9 @@ html .content .post .p-header .p-author {
   .sidebar-about h1 {
     font-size: 3.25rem;
   }
-
   .sidebar-about .lead {
     font-size: 1.5rem;
   }
-
   .sidebar .categories {
     margin-bottom: 1rem;
   }
