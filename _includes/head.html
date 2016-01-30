@@ -18,10 +18,10 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
   <!-- Social Media -->
-  {% capture og_image_defined %}x{{ page.og_image }}{% endcapture %}
-  {% capture og_image_exists %}{% file_exists {{ page.og_image }} %}{% endcapture %}
-  {% if og_image_defined != 'x' and og_image_exists == "true" %}
-    <meta property="og:image" content="{{ site.url }}/{{page.og_image}}" />
+  {% capture main_image_defined %}x{{ page.main_image }}{% endcapture %}
+  {% capture main_image_exists %}{% file_exists {{ page.main_image }} %}{% endcapture %}
+  {% if main_image_defined != 'x' and main_image_exists == "true" %}
+    <meta property="og:image" content="{{ site.url }}/{{page.main_image}}" />
   {% else %}
     {% capture cat_image_path %}assets/images/category/{{ page.category | slugify }}.png{% endcapture %}
     {% capture cat_image %}{% file_exists {{ cat_image_path }} %}{% endcapture %}
@@ -31,7 +31,6 @@
       <meta property="og:image" content="https://avatars.borisschapira.com/boris_1light_300_fuchsia.jpg" />
     {% endif %}
   {% endif %}
-
   <meta property="og:site_name" content="Boris Schapira" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:creator" content="@borisschapira" />
