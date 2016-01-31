@@ -23,7 +23,7 @@ Nous y sommes depuis 78 jours[^1], l'État a mené 3000 perquisitions pour about
 > 4 enquêtes anti-terroristes.
 > 1 mise en examen.
 
-[^1]: [Est-ce que c'est encore l'État d'Urgece ?](https://estcequecestencoreletatdurgence.fr/)
+[^1]: [Est-ce que c'est encore l'État d'Urgence ?](https://estcequecestencoreletatdurgence.fr/)
 
 Plusieurs milliers de personnes violées dans leur intimité, des dizaines de personnes enfermées chez elles pour avoir [pris des photos avec leur téléphone portable](http://www.lemonde.fr/police-justice/article/2016/01/22/etat-d-urgence-le-conseil-d-etat-suspend-pour-la-premiere-fois-une-assignation-a-residence_4852070_1653578.html) ou avoir des opinions différentes, [privées de travail, d'étude, de vie familiale](http://www.bastamag.net/Vivre-sous-l-etat-d-urgence-le-recit-des-assignes-a-residence-et-des-interdits) , [ne pouvant se rendre à leur propre procès sans enfreindre cette assignation](http://delinquance.blog.lemonde.fr/2015/12/08/etat-durgence-un-assigne-en-garde-a-vue-pour-avoir-assiste-a-son-refere-liberte/)… pour une seule mise en examen ?
 
