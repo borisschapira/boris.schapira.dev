@@ -2,8 +2,6 @@
 layout: post
 title: "Chez les développeurs, les femmes gagnent 14 % de moins que les hommes, que faire ?"
 date: 2016-01-20 08:00:00
-category: Citoyen
-hidden: true
 tags:
   - Égalité
 ---
@@ -18,7 +16,7 @@ tags:
 
 Je vous encourage à lire l'ensemble du commentaire qui montre bien à quel point l'environnement de travail et la culture française du développement (très influencée par la culture américaine) peuvent être hostiles à la présence de femmes.
 
-J'ajoute qu'en dehors de mieux embaucher, de mieux payer et de mieux se comporter avec les femmes, nous pouvons aussi changer nos propres comportements pour réduire cette surface de discrimination. 
+J'ajoute qu'en dehors de mieux embaucher, de mieux payer et de mieux se comporter avec les femmes, nous pouvons aussi changer nos propres comportements pour réduire cette surface de discrimination.
 
 Par exemple, dans ma vie professionnelle, j'ai souvent été qualifié de femme parce que je :
 
@@ -36,5 +34,3 @@ Je vais vous dire une choses : non seulement ça ne me choque pas d'être qualif
 * et qui a des centres d'intérêts en dehors du boulot (et pas : _"qui n'est pas pleinement investie"_).
 
 Je suis sûr qu'il y a plein de femmes talentueuses dans nos métiers. Je travaille ou ai déjà travaillé avec plusieurs d'entre elles, et je serais ravi d'en rencontrer davantage.
-
-
