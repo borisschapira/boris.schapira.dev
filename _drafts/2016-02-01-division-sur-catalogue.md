@@ -10,7 +10,7 @@ series: Diviser
 
 ## sur catalogue
 
-Drôle d'article que celui-ci, réflexion de papa qui fait écho à une perspective [citoyenne](/2016/02/marketing-politique/ "Marketing Politique") et critique sur le Web.
+Drôle d'article que celui-ci, réflexion de papa qui fait écho à une perspective [citoyenne](/2016/02/marketing-politique/ "Marketing Politique") et une critique d'un certain Web.
 
 <!-- more -->
 
