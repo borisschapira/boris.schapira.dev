@@ -1,14 +1,14 @@
 ---
+date: 2016-02-01 08:00:00
 layout: post
 title: "Xénophobes"
-date: 2016-01-31 22:00:00
 category: Citoyen
 hidden: true
 tags:
   - Égalité
 ---
 
-J'écrivais, il y a peu, que je pensais que [les français n'avaient pas soif de laïcité](/2016/01/laicite/ "Laïcité") mais étaient, en réalité, terrifiés par un ennemi imaginaire. Aujourd'hui, je découvre ce terrifiant sondage du _Journal du Dimanche_ (en fin d'article).
+J'écrivais, il y a peu, que je pensais que [les français n'avaient pas soif de laïcité](/2016/01/laicite/ "Laïcité") mais étaient, en réalité, terrifiés par un ennemi imaginaire. Dimanche, je découvrais ce terrifiant sondage du _Journal du Dimanche_ (en fin d'article).
 
 Les réponses ne me surprennent pas, elles soulignent ce que que je craignais déjà : pour beaucoup la "normalité française" est réprésentée par une persone blanche aux racines chrétiennes. Tout ce qui sort de ce cadre laisse un souvenir plus fort et remonte plus facilement en mémoire lorsque ce genre de question survient.
 

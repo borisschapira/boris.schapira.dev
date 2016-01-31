@@ -3,6 +3,8 @@ date: 2016-02-20 09:00:00+00:00
 layout: post
 title: "Pumpipumpe"
 category: Citoyen
+tags:
+  - Collaborer
 ---
 
 J'ai commandé des [Pumpipumpe](http://www.pumpipumpe.ch/ca-functionne-ainsi/), de petits stickers à coller sur la boîte au lettre pour signaler à ses voisins ce qu'on est en mesure de prêter. J'aime l'idée. Je me dis qu'elle créé un lien local, social, simple, tout en participant à une réduction consciente de la consommation.
