@@ -11,9 +11,9 @@ main_image: assets/images/2016-01-31/1.png
 
 Hier avaient lieu des manifestations partout en France pour appeler à l'arrêt de l'État d'Urgence. Parallèlement, un sondage explique que [79 % des franças seraient favorables à sa prolongation](http://www.atlantico.fr/decryptage/79-pourcents-francais-favorables-prolongation-etat-urgence-jerome-fourquet-2568017.html). La réponse est surprenante parce que la question est mal posée.
 
-Soyons honnêtes : 100 % les français sont favorables à être protégés. Je pense qu'il y en a juste 25 % qui savent que ça peut se faire sans supprimer les libertés et 75 % qui l'ignorent et qui comprennent qu'on leur demande s'ils se sentiraient en sécurité sans protection…
+Soyons honnêtes : 100 % des français sont favorables à être protégés. Je pense qu'il y en a juste 25 % qui savent que ça peut se faire sans supprimer les libertés et 75 % qui l'ignorent et qui comprennent qu'on leur demande s'ils se sentiraient en sécurité sans protection…
 
-**Ce sondage ne mesure pas les soutiens à l'État d'Urgence mais le niveau de menace ressenti par les Français**. Dans un contexte où nos politiques alimentent régulièrement la paranoïa en refusant de communiquer clairement sur la réalité de la menace, nous sommes impuissants, obligés de faire confiance, pour nôtre sécurité, aux mêmes personnes qui nous privent de nos libertés.
+**Ce sondage ne mesure pas les soutiens à l'État d'Urgence mais le niveau de menace ressenti par les Français**. Dans un contexte où nos politiques alimentent régulièrement la paranoïa en refusant de communiquer clairement sur la réalité de la menace, nous sommes impuissants, obligés de faire confiance, pour notre sécurité, aux mêmes personnes qui nous privent de nos libertés.
 
 Or l'État d'Urgence est indépendant d'un niveau de sécurité. Il s'agit d'une période, censée durer 12 jours, qui donne à l'État des moyens supplémentaires pour lutter contre une situation exceptionelle, comme notamment **une mise en parenthèse des droits de l'Homme**.
 
@@ -32,7 +32,7 @@ Comprenez-moi bien : je ne dis pas que tous les gens concernés étaient blancs 
 Je reste persuadé que si tous les sondés savaient ça, le résultat ne serait pas du tout le même.
 
 <figure>
-  <a data-featherlight="image" href="assets/images/2016-01-31/1.png" title="Voir en plus grand">
+  <a data-featherlight="image" href="/assets/images/2016-01-31/1.png" title="Voir en plus grand">
       {% responsive_image path: assets/images/2016-01-31/1.png alt="Infographie récapitulant ce qu'est l'État d'Urgence" longdesc="http://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Qu-est-ce-que-l-etat-d-urgence" %}
   </a>
   <figcaption><cite><a href="http://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Qu-est-ce-que-l-etat-d-urgence">"Qu'est-ce que l'État d'Urgence ?"</a>, site du Ministère de l'Intérieur</figcaption>
