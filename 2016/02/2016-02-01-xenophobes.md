@@ -12,7 +12,7 @@ J'écrivais, il y a peu, que je pensais que [les français n'avaient pas soif de
 
 Les réponses ne me surprennent pas, elles soulignent ce que que je craignais déjà : pour beaucoup la "normalité française" est réprésentée par une persone blanche aux racines chrétiennes. Tout ce qui sort de ce cadre laisse un souvenir plus fort et remonte plus facilement en mémoire lorsque ce genre de question survient.
 
-Plus troublant : le lien entre faciès et religion. Le sondage parle d'altercations, d'insultes et de violences. Moi, les rares fois où j'ai affaire à des gens qui m'insultent, je ne prends rarement le temps de faire connaissance avec eux pour tailler le bout de gras pour leur demander d'où ils viennent et comprendre leurs croyances…
+Plus troublant : le lien entre faciès et religion. Le sondage parle d'altercations, d'insultes et de violences. Moi, les rares fois où j'ai affaire à des gens qui m'insultent, je ne prends pas le temps de tailler le bout de gras pour leur demander d'où ils viennent et comprendre leurs croyances…
 
 J'en viens donc au vrai scandale : qu'un sondage pareil soit réalisé. Comme [celui sur la prolongation de l'État d'Urgence](/2016/01/favorables/ "Favorables ?"), il me semble évident que la question est mal posée. Qui est le pyromane qui, au _JDD_, s'est dit que la réalisation de ce sondage et sa publication, sachant tous les biais qu'il comporte et tous les stéréotypes qu'il véhicule, était une bonne idée ?
 
