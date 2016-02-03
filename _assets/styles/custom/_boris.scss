@@ -2,12 +2,19 @@ $color-fuschia: #d00b6d;
 $color-green: complement($color-fuschia);
 $color-green-faded: lighten($color-green, 20);
 $color-gray: rgb(154,154,154);
+
+
+/* Fonts loading (see https://github.com/bramstein/fontfaceobserver/)*/
+html.fonts-loaded {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+}
 /* Lisibility */
 body {
   text-rendering: optimizeSpeed;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 img {
   margin-bottom: 0;
 }
