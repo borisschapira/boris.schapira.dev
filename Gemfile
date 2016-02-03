@@ -9,7 +9,7 @@ group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
   gem 'jekyll-archives'
-  gem 'algoliasearch-jekyll', :github => 'algolia/algoliasearch-jekyll'
+  gem 'algoliasearch-jekyll'
   gem 'octopress-autoprefixer'
   gem 'octopress-debugger'
   gem 'jekyll-compose'
