@@ -2,87 +2,59 @@
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-
-  <link rel="shortcut icon" href="//avatars.borisschapira.com/boris_1light_150_fuchsia.jpg"/>
-
-  <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
 
   <!-- CSS -->
   {% css main %}
 
-  <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-144-precomposed.png">
-  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.author.feed }}">
 
   <!-- Social Media -->
-  {% capture main_image_defined %}x{{ page.main_image }}{% endcapture %}
-  {% capture main_image_exists %}{% file_exists {{ page.main_image }} %}{% endcapture %}
-  {% if main_image_defined != 'x' and main_image_exists == "true" %}
-    <meta property="og:image" content="{{ site.url }}/{{page.main_image}}" />
-  {% else %}
-    {% capture cat_image_path %}assets/images/category/{{ page.category | slugify }}.png{% endcapture %}
-    {% capture cat_image %}{% file_exists {{ cat_image_path }} %}{% endcapture %}
-    {% if cat_image == "true" %}
-      <meta property="og:image" content="{{ site.url }}/{{ cat_image_path }}" />
-    {% else %}
-      <meta property="og:image" content="https://avatars.borisschapira.com/boris_1light_300_fuchsia.jpg" />
-    {% endif %}
+  {% include head-compute-socials.html %}
+
+  <title itemprop="name">{{ socialTitle }}</title>
+
+  {% if page.category != nil %}
+  <link rel="canonical" href="{{ page.canonical }}" />
   {% endif %}
-  <meta property="og:site_name" content="Boris Schapira" />
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:creator" content="@borisschapira" />
-  <meta name="twitter:site" content="@borisschapira.com" />
+
+  <meta name="description" content="{{ socialDescription }}" />
+  <meta property="og:url" content="{{ socialUrl }}" />
+  <meta property="og:type" content="{{ socialType }}" />
+  <meta property="og:title" content="{{ socialTitle }}" />
+  <meta property="og:image" content="{{ socialImage }}" />
+  <meta property="og:site_name" content="{{ socialSitename }}" />
+  <meta property="article:author" content="{{ site.author.facebook }}" />
+  <meta property="article:published_time" content="{{ socialDate }}" />
+
+  {% if page.category != nil %}
+  <meta property="article:section" content="{{ page.category }}" />
+  {% endif %}
+
+  {% for tag in page.tags %}
+    <meta property="article:tag" content="{{ tag }}" />
+  {% endfor %}
+
+  <meta name="twitter:card" content="summary_large_images" />
+  <meta name="twitter:domain" content="{{ site.domain }}" />
+  <meta name="twitter:title" content="{{ socialTitle }}" />
+  <meta name="twitter:description" content="{{ socialDescription }}" />
+  <meta property="twitter:label1" content="Par" />
+  <meta property="twitter:data1" content="{{ socialAuthor }}" />
+
+  {% if page.category != nil %}
+    <meta property="twitter:label2" content="Catégorie" />
+    <meta property="twitter:data2" content="{{ page.category }}" />
+  {% endif %}
+
+  <meta name="twitter:image" content="{{ socialImage }}">
+  <meta name="twitter:creator" content="{{ site.author.twitter_username }}" />
+  <meta name="twitter:site" content="{{ site.author.twitter_username }}" />
   <meta name="twitter:widgets:link-color" content="{{ site.mainColor }}">
   <meta name="twitter:widgets:border-color" content="{{ site.mainColor }}">
   <meta name="twitter:dnt" content="on">
   <meta name="twitter:widgets:csp" content="on">
-
-  {% if page.title == "Accueil" %}
-    <title itemprop="name">{{ site.title }} &middot; {{ site.tagline }}</title>
-    <link rel="canonical" href="{{ site.url }}" />
-    <meta name="description" content="{{ site.description }}" />
-    <meta property="og:url" content="{{ site.url }}" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="{{ site.title }} &middot; {{ site.tagline }}" />
-  {% else %}
-    {% if page.type == "year" %}
-      <title>{{ site.title }} &middot; année {{ page.date | localize: "%Y" }}</title>
-      <meta name="description" content="Billets publiés en {{ page.date | localize: "%Y" }}" />
-      <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-      <meta property="og:type" content="website" />
-      <meta property="og:title" content="{{ site.title }} &middot; année {{ page.date | localize: "%Y" }}" />
-    {% else %}
-      {% if page.type == "month" %}
-        <title>{{ site.title }} &middot; {{ page.date | localize: '%B %Y' }}</title>
-        <meta name="description" content="Billets publiés en {{ page.date | localize: '%B %Y'  }}" />
-        <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content="{{ site.title }} &middot; {{ page.date | localize: '%B %Y' }}" />
-      {% else %}
-        {% if page.tag %}
-          <title>{{ page.tag }} &middot; {{ site.title }}</title>
-          <meta name="description" content="Billets classés dans « {{ page.tag }} »" />
-          <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-          <meta property="og:type" content="website" />
-          <meta property="og:title" content="{{ page.tag }} &middot; {{ site.title }}" />
-        {% else %}
-          {% if page.canonical != nil %}<link rel="canonical" href="{{ page.canonical }}" itemprop="url" />{% endif %}
-          <title>{{ page.title | strip_html }} &middot; {{ site.title }}</title>
-          <meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 200 | strip_newlines | escape_once }}" />
-          <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-          <meta property="og:type" content="article" />
-          <meta property="og:title" content="{{ page.title }} &middot; {{ site.title }}" />
-          <meta property="article:author" content="https://www.facebook.com/borisschapira" />
-          {% for tag in page.tags %}
-            <meta property="article:tag" content="{{ tag }}" />
-          {% endfor %}
-        {% endif %}
-      {% endif %}
-    {% endif %}
-  {% endif %}
 
   <!-- Real favicon generator -->
   <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png?v=NmmdjmNgRx">

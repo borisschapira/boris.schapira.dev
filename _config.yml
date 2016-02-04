@@ -19,9 +19,11 @@ baseurl: ""
 url: "https://borisschapira.com"
 lang: fr
 timezone: Europe/Paris
+mainColor: '#d00b6d'
 
 # Author
 name: 'Boris Schapira'
+domain: 'borisschapira.com'
 author:
   name:           'Boris Schapira'
   url:            https://borisschapira.com/
@@ -29,8 +31,9 @@ author:
   github: 'http://github.com/borisschapira'
   facebook: 'https://www.facebook.com/boris.schapira'
   twitter: 'http://twitter.com/borisschapira'
+  twitter_username: '@borisschapira'
   linkedin: 'http://linkedin.com/in/borisschapira'
-  feed: 'http://borisschapira.com/feed.xml'
+  feed: '/feed.xml'
   mailto: 'contact%40borisschapira.com'
   slack: 'https://slackin-borisschapiracom.herokuapp.com/'
 
