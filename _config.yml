@@ -54,6 +54,11 @@ gems:
   - octopress-autoprefixer
   - octopress-debugger
 
+# Build settings
+markdown: kramdown
+kramdown:
+  hard_wrap: true
+
 jekyll-archives:
   enabled:
     - "year"
