@@ -37,15 +37,6 @@ author:
   mailto: 'contact%40borisschapira.com'
   slack: 'https://slackin-borisschapiracom.herokuapp.com/'
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  input: GFM
-  hard_wrap: true
-  syntax_highlighter: rouge
-
 # Posts links and pagination
 permalink: :year/:month/:title/
 
@@ -78,21 +69,20 @@ algolia:
   application_id: '97EL687MDM'
   index_name: 'jekyll'
   read_only_api_key: '45e74dfb46facf8ee7f3038c305a9a7e'
-excluded_files:
-  - 404.html
-  - index.html
-settings:
-attributesToIndex:
-  - title
-  - h1
-  - h2
-  - h3
-  - h4
-  - h5
-  - h6
-  - unordered(text)
-  - unordered(tags)
-  - unordered(slug)
+  excluded_files:
+    - 404.html
+    - index.html
+  settings:
+    attributesToIndex:
+      - title
+      - h1
+      - h2
+      - h3
+      - h4
+      - h5
+      - h6
+      - unordered(text)
+      - unordered(slug)
 
 # Tagging
 # tag_page_layout: tag
