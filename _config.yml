@@ -43,6 +43,7 @@ highlighter: rouge
 
 kramdown:
   input: GFM
+  hard_wrap: true
   syntax_highlighter: rouge
 
 # Posts links and pagination

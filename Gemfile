@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 3.0', '>= 3.0.1'
+gem "jekyll", :github => "jekyll/jekyll"
 gem 'i18n'
 
 group :jekyll_plugins do
