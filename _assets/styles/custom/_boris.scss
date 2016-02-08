@@ -2,8 +2,6 @@ $color-fuschia: #d00b6d;
 $color-green: complement($color-fuschia);
 $color-green-faded: lighten($color-green, 20);
 $color-gray: rgb(154,154,154);
-
-
 /* Fonts loading (see https://github.com/bramstein/fontfaceobserver/)*/
 html.fonts-loaded {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -14,7 +12,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 img {
   margin-bottom: 0;
 }
@@ -57,19 +54,44 @@ img {
   }
   .contrib {
     border: 1px solid darken($color-fuschia,20);
-    padding: 10px;
-    color: #333;
     a {
       color: darken($color-fuschia,20);
     }
   }
-  .discuss {
+  .discuss, .share {
     border: 1px solid $color-green;
-    padding: 10px;
-    color: #333;
     a {
       color: darken($color-green, 10);
     }
+    input[type="submit"] {
+      padding: 5px 15px;
+      background: $color-green;
+      border: 0 none;
+      cursor: pointer;
+    }
+  }
+  .contrib,
+  .discuss,
+  .share {
+    margin: 20px 0;
+    color: #333;
+    p,
+    form {
+      margin: 0;
+      padding: 10px;
+    }
+    form {
+      display: flex;
+      input[type="submit"] {
+        flex: 1;
+      }
+      input[type="text"] {
+        flex: 3;
+      }
+    }
+  }
+  .nowrap {
+    display: inline-block;
   }
 }
 header.category {
