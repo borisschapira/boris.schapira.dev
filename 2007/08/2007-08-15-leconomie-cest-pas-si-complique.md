@@ -19,4 +19,4 @@ Problème&nbsp;: l'inflation oblige les organismes de prêt à  augmenter les t
 
 Voilà , maintenant vous pouvez comprendre ce que disent les journalistes à  la télé. Ca n'était pas si compliqué, si&nbsp;?
 
-Et si la curiosité vous anime toujours, vous pouvez aller jusqu'à  lire quelques articles d'Economie (par exemple la définition de l'inflation - [//fr.wikipedia.org/wiki/Inflation](http://fr.wikipedia.org/wiki/Inflation) -, ça ne fait pas de mal) voire même acheter un ou deux livres (soyons fous).
+Et si la curiosité vous anime toujours, vous pouvez aller jusqu'à  lire quelques articles d'Economie (par exemple [la définition de l'inflation sur Wikipédia](http://fr.wikipedia.org/wiki/Inflation), ça ne fait pas de mal) voire même acheter un ou deux livres (soyons fous).

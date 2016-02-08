@@ -10,7 +10,7 @@ Hier était présentée en grandes pompes la prochaine mouture de l’OS de Micr
 
 <!-- more -->
 
-<em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Présentation de Windows8 à la conférence //BUILD/](http://blog.clever-age.com/fr/2011/09/14/presentation-de-windows8-a-la-conference-build/).</em>
+<em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Présentation de Windows8 à la conférence BUILD](http://blog.clever-age.com/fr/2011/09/14/presentation-de-windows8-a-la-conference-build/).</em>
 
 La position commerciale, en revanche, mérite qu’on s’y attarde car le discours sous-jacent est :
 
