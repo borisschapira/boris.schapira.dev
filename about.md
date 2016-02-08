@@ -24,7 +24,9 @@ Les points de vue et opinions exprimés sur ce blog n'engagent que moi, et en au
 
 ### Développement
 
-Ce site est produit par [Jekyll](https://jekyllrb.com/), un générateur de sites statiques en Ruby.
+Consultant en Web Performance depuis quelques années, j'ai décidé un jour de ne pas être le cordonnier mal chaussé. Depuis, dans une saine compétition avec mon collègue [Nicolas Hoizey](http://nicolas-hoizey.com/), je n'ai de cesse d'en améliorer [les temps de réponse](http://www.webpagetest.org/testlog.php?days=365&filter=borisschapira.com&all=on "Tests de performance WebPageTest lancés sur ce site"). 
+
+Ce site est généré via [Jekyll](https://jekyllrb.com/), un générateur de sites statiques en Ruby.
 Celui-ci est complété, via [Bundler](http://bundler.io/), par plusieurs gems Ruby correspondant à différents besoins :
 
 * la gestion des ressources statiques (hors images) est assurée par `jekyll-assets` ;
