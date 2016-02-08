@@ -1,5 +1,4 @@
 //= require vendors/fontfaceobserver.min
-//= require vendors/instantclick.min
 
 /*
 	Fonts are loaded through @font-face rules in the CSS whenever an element references them.
@@ -25,5 +24,3 @@
 			w.document.documentElement.className += " fonts-loaded";
 		});
 }( this ));
-
-InstantClick.init();

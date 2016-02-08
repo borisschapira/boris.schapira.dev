@@ -1,6 +1,3 @@
-//= require vendors/moment.2.10.3.min
-//= require vendors/moment_fr
-
 //= require vendors/jquery.2.1.4.min
 //= require vendors/featherlight.min
 
@@ -9,12 +6,6 @@
 //= require vendors/elevator.min
 
 //= require analytics
-
-/* Add relative time */
-moment.locale('fr');
-$('header time').each(function(){
-  $(this).append(' (' + moment($(this).attr('datetime')).fromNow() + ')');
-});
 
 /* Elevator.js */
 window.onload = function() {

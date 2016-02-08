@@ -3,24 +3,6 @@
     <p><small>©&nbsp;{{ 'now' | date: "%Y" }} Boris Schapira | <a href="/about/#sous-le-capt">via Jekyll</a></small></p>
   </div>
 </footer>
-
-<script id="algolia__template" type="text/template">
-{% raw %}
-  <article id="content" class="algolia__result post" itemscope itemtype="https://schema.org/BlogPosting">
-    {{#posted_at}}
-    <header>
-        <span class="p-date algolia__result-date">{{ posted_at_readable }}</span>
-    </header>
-    {{/posted_at}}
-    <h1 class="post-title"><a class="algolia__result-link" href="{{ full_url }}#algolia:{{ css_selector }}">{{{ _highlightResult.title.value }}}</a></h1>
-    <div class="algolia__result-text post-content">{{{ _highlightResult.text.value }}}</div>
-  </article>
-{% endraw %}
-</script>
-<script id="algolia__template--no-results" type="text/template">
-  {% include 404.html issearch=true%}
-</script>
-
 <noscript>
 <style type="text/css" scoped>
 .js {
@@ -30,10 +12,27 @@
 </noscript>
 
 {% if include.loadSearch %}
+  <script id="algolia__template" type="text/template">
+  {% raw %}
+    <article id="content" class="algolia__result post" itemscope itemtype="https://schema.org/BlogPosting">
+      {{#posted_at}}
+      <header>
+          <span class="p-date algolia__result-date">{{ posted_at_readable }}</span>
+      </header>
+      {{/posted_at}}
+      <h1 class="post-title"><a class="algolia__result-link" href="{{ full_url }}#algolia:{{ css_selector }}">{{{ _highlightResult.title.value }}}</a></h1>
+      <div class="algolia__result-text post-content">{{{ _highlightResult.text.value }}}</div>
+    </article>
+  {% endraw %}
+  </script>
+  <script id="algolia__template--no-results" type="text/template">
+    {% include 404.html issearch=true%}
+  </script>
   <script crossorigin="anonymous" integrity="sha256-jIAAmB65ff5CEFvV6DRfRWjHFwqq+AHeV4le8f8PYp4=" src="https://cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" defer ></script>
 {% endif %}
 <input type="hidden" id="data-analytics" value="{&quot;environment&quot;:&quot;{{ jekyll.environment }}&quot;,&quot;categories&quot;:[&quot;{{ page.category }}&quot;],&quot;tags&quot;:[&quot;{{ page.tags | join:"&quot;,&quot;" }}&quot;]}"/>
 {% javascript critical %}
+{% javascript instant data-no-instant %}
 {% javascript main defer:"defer"%}
 {% if include.loadSearch %}
   {% javascript search defer:"defer"%}
