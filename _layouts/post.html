@@ -17,9 +17,9 @@ layout: default
 
 <div class="share">
   <p>
-    Si cet article vous a plu, n'hésitez pas à le partager sur <a target="_blank" rel="nofollow" href="https://twitter.com/share?text={{ title_encoded }}+par+@borisschapira" title="Partager cet article sur Twitter">sur Twitter&nbsp;<svg class="icon icon-twitter2"><use xlink:href="#icon-twitter2"></use></svg></a> ou <a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u={{ url_encoded }}" title="Partager cet article sur Facebook">Facebook&nbsp;<svg class="icon icon-facebook2"><use xlink:href="#icon-facebook2"></use></svg></a>. Si vous commentez ailleurs, n'hésitez pas à me donner l'URL (je traite à la main, soyez patients) :
+    Si cet article vous a plu, n'hésitez pas à le partager sur <a target="_blank" rel="nofollow" href="https://twitter.com/share?text={{ title_encoded }}+par+{{ site.author.twitter_username|raw }}" title="Partager cet article sur Twitter">sur Twitter&nbsp;<svg class="icon icon-twitter2"><use xlink:href="#icon-twitter2"></use></svg></a> ou <a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u={{ url_encoded }}" title="Partager cet article sur Facebook">Facebook&nbsp;<svg class="icon icon-facebook2"><use xlink:href="#icon-facebook2"></use></svg></a>. Si vous commentez ailleurs, n'hésitez pas à me donner l'URL (je traite à la main, soyez patients) :
   </p>
-  <form enctype="text/plain" method="get" action="mailto:contact@borisschapira.com">
+  <form enctype="text/plain" method="get" action="mailto:{{ site.author.mailto|raw }}">
     <input type="text" name="body" size="30" placeholder="https://">
     <input type="submit" value="Mentionner">
     <input type="hidden" name="subject" value="Webmention pour &quot;{{page.title}}&quot;">
@@ -28,8 +28,8 @@ layout: default
 
 <div class="contrib">
   <p>
-    Si vous détectez une erreur et que vous avez un compte Github, vous pouvez proposer une <a rel="nofollow" href="https://github.com/borisschapira/blog/blob/master/{% if page.category == 'Papa' %}papa/{% endif %}{{ page.date | date: " %Y/%m " }}/{{ source.last }}">modification des <span class="nowrap">sources&nbsp;<svg class="icon icon-git"><use xlink:href="#icon-git"></use></svg></span></a>,
-    ou ouvrir un <a class="nowrap" href="https://github.com/borisschapira/blog/issues/new?title=Article%20%22{{page.url}}%22" rel="nofollow">ticket&nbsp;<svg class="icon icon-github4"><use xlink:href="#icon-github4"></use></svg></a>.
+    Si vous détectez une erreur et que vous avez un compte Github, vous pouvez proposer une <a rel="nofollow" href="{{ site.author.github|raw }}/blog/blob/master/{% if page.category == 'Papa' %}papa/{% endif %}{{ page.date | date: " %Y/%m " }}/{{ source.last }}">modification des <span class="nowrap">sources&nbsp;<svg class="icon icon-git"><use xlink:href="#icon-git"></use></svg></span></a>,
+    ou ouvrir un <a class="nowrap" href="{{ site.author.github|raw }}/blog/issues/new?title=Article%20%22{{page.url}}%22" rel="nofollow">ticket&nbsp;<svg class="icon icon-github4"><use xlink:href="#icon-github4"></use></svg></a>.
   </p>
 </div>
 

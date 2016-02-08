@@ -28,7 +28,7 @@ author:
   name:           'Boris Schapira'
   url:            https://borisschapira.com/
   flickr: 'http://flickr.com/borisschapira'
-  github: 'http://github.com/borisschapira'
+  github: 'https://github.com/borisschapira'
   facebook: 'https://www.facebook.com/boris.schapira'
   twitter: 'http://twitter.com/borisschapira'
   twitter_username: '@borisschapira'
@@ -58,6 +58,9 @@ gems:
 markdown: kramdown
 kramdown:
   hard_wrap: true
+
+webmention:
+  api_key: "0Tri1ghLmt5bSIyEwnkdGg"
 
 jekyll-archives:
   enabled:
