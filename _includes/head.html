@@ -15,8 +15,9 @@
 
   <title itemprop="name">{{ socialTitle }}</title>
 
-  {% if page.category != nil %}
-  <link rel="canonical" href="{{ page.canonical }}" />
+  {% capture x_canonical %}x{{ page.canonical }}{% endcapture %}
+  {% if x_canonical != "x" %}
+    <link rel="canonical" href="{{ page.canonical }}" />
   {% endif %}
 
   <meta name="description" content="{{ socialDescription }}" />
@@ -71,7 +72,7 @@
   <link rel="icon" type="image/png" href="/favicon-96x96.png?v=NmmdjmNgRx" sizes="96x96">
   <link rel="icon" type="image/png" href="/favicon-16x16.png?v=NmmdjmNgRx" sizes="16x16">
   <link rel="manifest" href="/manifest.json?v=NmmdjmNgRx">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg?v=NmmdjmNgRx" color="#d00b6d">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg?v=NmmdjmNgRx">
   <link rel="shortcut icon" href="/favicon.ico?v=NmmdjmNgRx">
   <meta name="msapplication-TileColor" content="#d00b6d">
   <meta name="msapplication-TileImage" content="/mstile-144x144.png?v=NmmdjmNgRx">
