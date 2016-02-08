@@ -22,7 +22,7 @@ task :webmention do
     end
     all_webmentions = open(cache_all_webmentions) { |f| YAML.load(f) }
     all_webmentions.each_pair do |source, targets|
-      puts "Accessing webmentions of #{source}"
+      puts "\n#{source}"
       if ! sent_webmentions[source] or ! sent_webmentions[source].kind_of?(Array)
         sent_webmentions[source] = Array.new
       end

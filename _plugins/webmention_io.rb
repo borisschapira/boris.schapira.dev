@@ -409,6 +409,19 @@ module Jekyll
           end
           webmentions[source] = targets
         end
+        site.posts.docs.each do |post|
+          source = "#{site.config['url']}#{post.url}"
+          targets = []
+          if post.data['in_reply_to']
+            targets.push(post.data['in_reply_to'])
+          end
+          post.content.scan(/(?:https?:)?\/\/[^\s)#"]+/) do |match|
+            if ! targets.find_index( match )
+              targets.push(match)
+            end
+          end
+          webmentions[source] = targets
+        end
         File.open(cache_file, 'w') { |f| YAML.dump(webmentions, f) }
       end
     end
