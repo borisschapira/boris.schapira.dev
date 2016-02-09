@@ -335,6 +335,10 @@ html .content .post .p-header .p-author {
 }
 .follow-icons {
   display: block;
+  li a:hover {
+    text-decoration: none;
+    color: $color-green;
+  }
 }
 .algolia__input {
   width: 100%;
