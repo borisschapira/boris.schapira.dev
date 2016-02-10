@@ -37,4 +37,15 @@ layout: default
 
 {% include elevator.html %}
 
+{% capture this_url %}{{ site.url }}{{ page.url }}{% endcapture %}
+{% capture redirect %}{{ site.url }}{{ page.canonical }}{% endcapture %}
+<section id="webmentions">
+  <h2>Ils en parlent :</h2>
+  {% if redirect != site.url %}
+    {% webmentions this_url redirect %}
+  {% else %}
+    {% webmentions this_url %}
+  {% endif %}
+</section>
+
 {% include post-related.html %}

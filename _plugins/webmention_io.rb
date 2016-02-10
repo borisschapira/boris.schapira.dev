@@ -11,6 +11,7 @@
 require 'json'
 require 'net/http'
 require 'uri'
+require 'i18n'
 
 WEBMENTION_CACHE_DIR = File.expand_path('../../.cache', __FILE__)
 FileUtils.mkdir_p(WEBMENTION_CACHE_DIR)
@@ -96,7 +97,7 @@ module Jekyll
     end
 
     def html_output_for(response)
-      body = '<p class="webmentions__not-found">No webmentions were found</p>'
+      body = '<p class="webmentions__not-found">Aucune webmention n\'a été trouvée.</p>'
 
       if response and response['links']
         webmentions = parse_links(response['links'])
@@ -194,7 +195,7 @@ module Jekyll
               if matches
                 title = matches[1].strip
               else
-                title = 'No title available'
+                title = 'Sans titre'
               end
             end
 
@@ -268,8 +269,13 @@ module Jekyll
           #  link_title = title
           #end
 
+          if I18n.backend.send(:translations).empty?
+            I18n.backend.load_translations Dir[File.join(File.dirname(__FILE__),'../_locales/*.yml')]
+          end
+          I18n.locale = :fr
+
           pubdate_iso = pubdate.strftime('%FT%T%:z')
-          pubdate_formatted = pubdate.strftime('%-d %B %Y')
+          pubdate_formatted = I18n.l pubdate, :format => '%A %-d %B %Y'
           published_block = "<time class=\"webmention__pubdate dt-published\" datetime=\"#{pubdate_iso}\">#{pubdate_formatted}</time>"
 
           meta_block = ''
@@ -281,7 +287,7 @@ module Jekyll
               meta_block << ' | '
             end
             if url
-              meta_block << "<a class=\"webmention__source u-url\" href=\"#{url}\">Permalink</a>"
+              meta_block << "<a class=\"webmention__source u-url\" href=\"#{url}\">Permalien</a>"
             end
           end
           if meta_block
@@ -333,7 +339,6 @@ module Jekyll
           webmention << '</article></li>'
 
           cached_webmentions[target][the_date][id] = webmention
-
         end
 
       }
@@ -426,7 +431,6 @@ module Jekyll
       end
     end
   end
-
 end
 
 Liquid::Template.register_tag('webmentions', Jekyll::WebmentionsTag)
