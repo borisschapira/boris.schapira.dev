@@ -3,7 +3,7 @@ layout: post
 title: "HTTP Archive : comprendre le présent en observant le passé"
 date: 2015-09-04 09:15:00
 tags:
-  - Fornt-End
+  - Front-End
   - Performance Web
 canonical: http://blog.clever-age.com/fr/2015/09/04/http-archive-comprendre-le-present-en-observant-le-passe/
 ---
