@@ -49,6 +49,8 @@ gems:
   - jekyll-assets
   - jekyll-sitemap
   - jekyll-archives
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
   - algoliasearch-jekyll
   - jekyll-paginate
   - octopress-autoprefixer

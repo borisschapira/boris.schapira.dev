@@ -4,48 +4,12 @@ layout: default
 
 {% include post.html postPage=true showtags=false showcategory=true %}
 
-{% assign source = page.path | split: '/' %}
-{% assign title_encoded = post.title | url_encode %}
-{% capture url %}{{ site.url }}{{ site.baseurl }}{{ post.url }}{% endcapture %}
-{% assign url_encoded = url | url_encode %}
-<div class="discuss">
-  <p>
-    Envie de discuter de cet article avec d'autres lecteurs ? Rejoignez-nous <a target="_blank" rel="nofollow" href="{{ site.author.slack }}" title="Rejoindre le Slack de {{ site.url }}">sur <span class="nowrap">Slack&nbsp;<svg class="icon icon-slack"><use xlink:href="#icon-slack"></use></svg></span></a>.
-    Vous préférez me contacter directement ? N'hésitez pas à <a rel="me" target="_blank" title="Contacter Boris par mail" href="mailto:{{ site.author.mailto }}?subject=Page%20%22{{page.title}}%22&body=url+%3D+{{page.url}}+%0D%0A%0D%0ABonjour%2C%0D%0A%0D%0A%7B%7B+N%27h%C3%A9sitez+pas+%C3%A0+prendre+quelques+minutes+pour+vous+pr%C3%A9senter+si+c%27est+votre+premier+envoi.+%7D%7D%0D%0A%0D%0A%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%0D%0A%0D%0A%7B%7B+%C3%89crivez+ici+votre+message+%7D%7D%0D%0A%0D%0A%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85">m'envoyer un <span class="nowrap">mail&nbsp;<svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg></span></a>.
-  </p>
-</div>
-
-<div class="share">
-  <p>
-    Si cet article vous a plu, n'hésitez pas à le partager sur <a target="_blank" rel="nofollow" href="https://twitter.com/share?text={{ title_encoded }}+par+{{ site.author.twitter_username|raw }}" title="Partager cet article sur Twitter">sur Twitter&nbsp;<svg class="icon icon-twitter2"><use xlink:href="#icon-twitter2"></use></svg></a> ou <a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u={{ url_encoded }}" title="Partager cet article sur Facebook">Facebook&nbsp;<svg class="icon icon-facebook2"><use xlink:href="#icon-facebook2"></use></svg></a>. Si vous commentez ailleurs, n'hésitez pas à me donner l'URL (je traite à la main, soyez patients) :
-  </p>
-  <form enctype="text/plain" method="get" action="mailto:{{ site.author.mailto|raw }}">
-    <input type="text" name="body" size="30" placeholder="https://">
-    <input type="submit" value="Mentionner">
-    <input type="hidden" name="subject" value="Webmention pour &quot;{{page.title}}&quot;">
-  </form>
-</div>
-
-<div class="contrib">
-  <p>
-    Si vous détectez une erreur et que vous avez un compte Github, vous pouvez proposer une <a rel="nofollow" href="{{ site.author.github|raw }}/blog/blob/master/{% if page.category == 'Papa' %}papa/{% endif %}{{ page.date | date: " %Y/%m " }}/{{ source.last }}">modification des <span class="nowrap">sources&nbsp;<svg class="icon icon-git"><use xlink:href="#icon-git"></use></svg></span></a>,
-    ou ouvrir un <a class="nowrap" href="{{ site.author.github|raw }}/blog/issues/new?title=Article%20%22{{page.url}}%22" rel="nofollow">ticket&nbsp;<svg class="icon icon-github4"><use xlink:href="#icon-github4"></use></svg></a>.
-  </p>
-</div>
+{% include post-dsc.html %}
 
 {% include post-navigation.html %}
 
 {% include elevator.html %}
 
-{% capture this_url %}{{ site.url }}{{ page.url }}{% endcapture %}
-{% capture redirect %}{{ site.url }}{{ page.canonical }}{% endcapture %}
-<section id="webmentions">
-  <h2>Ils en parlent :</h2>
-  {% if redirect != site.url %}
-    {% webmentions this_url redirect %}
-  {% else %}
-    {% webmentions this_url %}
-  {% endif %}
-</section>
+{% include post-mentions.html %}
 
 {% include post-related.html %}

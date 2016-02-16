@@ -1,10 +1,9 @@
-<section id="webmentions">
-  <h2>Ils en parlent :</h2>
-  {% capture this_url %}{{ site.url }}{{ page.url }}{% endcapture %}
-  {% capture redirect %}{{ site.url }}{{ page.redirect_from }}{% endcapture %}
-  {% if redirect != site.url %}
-    {% webmentions this_url redirect %}
-  {% else %}
-    {% webmentions this_url %}
-  {% endif %}
-</section>
+{% capture this_url %}{{ site.url }}{{ page.url }}{% endcapture %}
+{% capture count %}{% webmention_count this_url %}{% endcapture %}
+{% capture count %}{{ count | minus:1 }}{% endcapture %}
+{% unless count contains '-' %}
+  <section id="webmentions">
+    <h2>Ils en parlent :</h2>
+      {% webmentions this_url %}
+  </section>
+{% endunless %}

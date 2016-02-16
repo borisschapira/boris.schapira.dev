@@ -383,12 +383,17 @@ module Jekyll
 
     def initialize(tagName, text, tokens)
       super
-      @api_endpoint = 'http://webmention.io/api/count'
+      @api_endpoint = 'http://webmention.io/api/mentions'
+      # add an arbitrarily high perPage to trump pagination
+      @api_suffix = '&perPage=9999'
     end
 
     def html_output_for(response)
-      count = response['count'] || '0'
-      "<span class=\"webmention-count\">#{count}</span>"
+      count = 0
+      if response and response['links']
+        count = response['links'].size
+      end
+      count
     end
 
   end
