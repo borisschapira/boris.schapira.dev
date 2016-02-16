@@ -1,5 +1,5 @@
 ---
-date: 2016-02-07 22:10:44+00:00
+date: 2016-02-15 22:10:44+00:00
 layout: post
 title: "Division"
 category: Papa
@@ -66,7 +66,7 @@ Je ne m'étalerai pas sur les stéréotypes purement féminins, il y aurait tout
 
 Quoi faire contre ça ? Exiger de ses enfants qu'ils jouent avec des jouets diversifiés ? Je crois qu'il s'agirait, à l'autre extrême, d'une grave erreur. Les enfants ont besoin d'avoir le choix mais ont aussi besoin d'apprendre la vie. En jouant à des jeux "de garçons" avec ses copains, mon aîné apprend les fondements de la constitution d'un groupe social. Ensemble, ils élaborent des règles qu'ils sont les seuls à connaître, ce qui renforce leur cohésion. Par l'apprentissage de nouvelles règles apportées au fil du jeu par les participants, ils créent une histoire qui sera ensuite narrée aux absents ou servira à la constitution de souvenirs communs. Bref, c'est hyper important que je ne m'incruste pas dans ce truc-là : ça fait partie de sa construction.
 
-En revanche, ces jeux n'ont pas nécessairement à être violents parce qu'il s'agit de garçons : du coup, quand nous sommes ensemble, je leur propose le choix avec d'autres types d'activités. Le bac à sable est, par exemple, un d'endroit où les garçons débordent d'imagination. On s'y retrouve souvent à "faire la cuisine comme avec Maman". Rien de sexiste là-dedans, leur maman étant vraiment une fan de pâtisserie. 
+En revanche, ces jeux n'ont pas nécessairement à être violents parce qu'il s'agit de garçons : du coup, quand nous sommes ensemble, je leur propose le choix avec d'autres types d'activités. Le bac à sable est, par exemple, un d'endroit où les garçons débordent d'imagination. On s'y retrouve souvent à "faire la cuisine comme avec Maman". Rien de sexiste là-dedans, leur maman étant vraiment une fan de pâtisserie.
 
 À la maison, nous détournons des clichés : les pirates cherchent un trésor, mais surtout, vives des aventures dignes d'Indiana Jones. Nous fabriquons des pistolets à bonbon, pour tirer sur les gens qui ont faim. Ils veulent être des super-héros ? Très bien, alors ils sont des supermans dont le super-souffle permet d'enlever les femmes mortes qui gênent les passants !
 
@@ -93,6 +93,6 @@ Le problème c'est qu'avec ce genre de construction psychologique, on apprend à
 
 ## À nous de jouer
 
-Si je ne parlais pas à mes copains de ma passion pour les Barbie, ce n'est pas parce que j'en avais honte. Je le vivais très bien et je jouais régulièrement avec mes copines qui elles, trouvaient génial qu'un garçon s'intéresse aussi à _leur_ univers. Je n'en parlais pas parce qu'**on m'a appris à être impuissant** face à leur réaction, et que je ne voulais pas voir du rejet ou de l'incompréhension dans leurs yeux. Il m'a fallu des années pour assumer cette partie de moi-même et la paternité m'a permis de pleinement me rendre compte de ces biais et de ces impuissances. 
+Si je ne parlais pas à mes copains de ma passion pour les Barbie, ce n'est pas parce que j'en avais honte. Je le vivais très bien et je jouais régulièrement avec mes copines qui elles, trouvaient génial qu'un garçon s'intéresse aussi à _leur_ univers. Je n'en parlais pas parce qu'**on m'a appris à être impuissant** face à leur réaction, et que je ne voulais pas voir du rejet ou de l'incompréhension dans leurs yeux. Il m'a fallu des années pour assumer cette partie de moi-même et la paternité m'a permis de pleinement me rendre compte de ces biais et de ces impuissances.
 
 Je suis conscient que mes garçons auront certainement d'autres défis à relever, pour lesquels je ne pourrais rien faire. Leur donner les clés d'une imagination libre, en revanche, c'est entre mes mains.
