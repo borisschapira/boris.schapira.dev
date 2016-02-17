@@ -8,26 +8,20 @@ series: Diviser
 
 ## Diviser pour mieux régner
 
-Drôle d'article que celui-ci, réflexion citoyenne qui fait écho à ma [vie de papa](/2016/02/division-sur-catalogue/ "Division sur catalogue") et une critique d'un certain Web.
-
-<!-- more -->
-
 > En politique et en sociologie, **diviser pour régner** (du latin "<em lang="latin">Divide ut regnes</em>") est une stratégie visant à semer la discorde et à opposer les éléments d'un tout pour les affaiblir et à user de son pouvoir pour les influencer. Cela permet de réduire des concentrations de pouvoir en éléments qui ont moins de puissance que celui qui met en œuvre la stratégie, et permet de régner sur une population alors que cette dernière, si elle était unie, aurait les moyens de faire tomber le pouvoir en question.
 > <cite>"[Diviser pour régner](https://fr.wikipedia.org/wiki/Diviser_pour_r%C3%A9gner)", Wikipédia</cite>
 
+<!-- more -->
+
 ### Nous ne sommes jamais que de grands enfants
 
-Quand j'observe le monde politique actuel, je me dis que nous ne sommes pas beaucoup plus avancés que nos enfants : nous avons juste d'autres façons de gérer nos incompréhensions. Plutôt que de mimer les choses qui nous échappent avec des représentations physiques miniatures, nous créons des concepts, des valeurs, des principes et des lois qui régissent une existence qui nous semble, sinon, incohérente et injuste.
+Quand j'observe le monde politique actuel, je me dis que nous ne sommes pas beaucoup plus avancés que nos enfants : nous avons juste d'autres façons de gérer nos incompréhensions. Plutôt que de mimer les choses qui nous échappent avec des représentations physiques miniatures, nous créons des concepts, des valeurs, des principes et des lois qui régissent une existence qui nous semble incohérente car injuste.
 
 [Comme pour les jouets](/2016/02/division-sur-catalogue/ "Division sur catalogue"), certains voudraient nous forcer la main, nous emmener avec eux et, pour cela, cherchent à nous convaincre en nous envoyant des signaux nous incitant, très tôt, à nous diviser. 
 
-Le premier d'entre eux est l'injonction de choisir notre camp entre "Droite" et "Gauche". Peu importe qu'il s'agisse de constructions inventées de toutes pièces qui regroupent des réalités complexes et variables dans le temps. L'important, c'est que chaque individu sache rapidement retrouver, dans le catalogue de jouets politique, la page contenant le discours fait pour lui.
+Le premier d'entre eux est l'injonction de choisir notre camp entre "Droite" et "Gauche". Peu importe qu'il s'agisse de constructions inventées de toutes pièces qui regroupent des réalités complexes et variables dans le temps. L'important, c'est que chaque individu sache rapidement retrouver, dans le catalogue de jouets politique, la page contenant le discours fait pour lui. Comme pour les jouets, on redécoupe ensuite en sous-catégories (genre, religion, <abbr title="Catégorie Socioprofessionnelle">CSP</abrr>) pour être sûr que chaque citoyen se sente bien concerné et qu'il ne remettra pas en question l'intégrité du candidat en allant creuser le discours global. Clientélisme ? Non, en rhétorique politicienne, on appelle ça "être à l'écoute".
 
-Comme pour les jouets, on redécoupe ensuite en sous-catégories (genre, religion, <abbr title="Catégorie Socioprofessionnelle">CSP</abrr>) pour être sûr que chaque citoyen se sente bien concerné et qu'il ne remettra pas en question l'intégrité du candidat en allant creuser le discours global. Clientélisme ? Non, en rhétorique politicienne, on appelle ça "être à l'écoute".
-
-On se retrouve ainsi avec des élus habiles qui savent servir un certain discours à un homme de 53 ans, cadre administratif, de gauche, lors d'une assemblée du CRIF pour en servir un radicalement différent à une jeune femme au foyer, chrétienne et présidente d'une association des parents d'élèves. 
-
-L'important n'est pas d'assurer une cohérence dans le programme (on ne demande pas aux Barbies de rentrer dans les voitures des Playmobil, voyons), mais bien d'adresser chaque élément de langage à des stéréotypes clairement identifiés. **Plus les groupes se détestent entre eux, mieux la stratégie fonctionne** : ils n'iront pas discuter ensemble des incohérences du programme politique concerné.
+On se retrouve ainsi avec des élus habiles qui savent servir un certain discours à un homme de 53 ans, cadre administratif, de gauche, lors d'une assemblée du CRIF pour en servir un radicalement différent à une jeune femme au foyer, chrétienne et présidente d'une association des parents d'élèves. L'important n'est pas d'assurer une cohérence dans le programme (on ne demande pas aux Barbies de rentrer dans les voitures des Playmobil, voyons), mais bien d'adresser chaque élément de langage à des stéréotypes clairement identifiés. **Plus les groupes se détestent entre eux, mieux la stratégie fonctionne** : ils n'iront pas discuter ensemble des incohérences du programme politique concerné.
 
 ### Un imaginaire construit
 
