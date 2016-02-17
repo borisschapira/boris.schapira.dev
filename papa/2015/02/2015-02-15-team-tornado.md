@@ -1,5 +1,5 @@
 ---
-date: 2015-02-15 18:47:56+00:00
+date: 2015-02-15 18:47:56
 layout: post
 title: Team Tornado
 category: Papa

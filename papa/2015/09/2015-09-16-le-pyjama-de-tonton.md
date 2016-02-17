@@ -1,5 +1,5 @@
 ---
-date: 2015-09-16 15:47:56+00:00
+date: 2015-09-16 15:47:56
 layout: post
 title: Le pyjama de tonton
 category: Papa

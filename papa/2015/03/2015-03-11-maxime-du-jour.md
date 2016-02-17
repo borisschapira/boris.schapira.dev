@@ -1,5 +1,5 @@
 ---
-date: 2015-03-11 19:56:03+00:00
+date: 2015-03-11 19:56:03
 layout: post
 title: Maxime du (dernier) jour
 category: Papa

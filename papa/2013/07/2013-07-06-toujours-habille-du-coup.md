@@ -1,5 +1,5 @@
 ---
-date: 2013-07-06 09:00:43+00:00
+date: 2013-07-06 09:00:43
 layout: post
 title: Toujours habillé, du coup
 category: Papa

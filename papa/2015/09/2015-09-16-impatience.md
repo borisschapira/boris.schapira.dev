@@ -1,5 +1,5 @@
 ---
-date: 2015-09-16 20:22:27+00:00
+date: 2015-09-16 20:22:27
 layout: post
 title: Impatience
 category: Papa

@@ -1,5 +1,5 @@
 ---
-date: 2014-12-11 13:50:57+00:00
+date: 2014-12-11 13:50:57
 layout: post
 title: Premiers mots du deuxième
 category: Papa

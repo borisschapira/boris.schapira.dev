@@ -1,5 +1,5 @@
 ---
-date: 2013-07-03 08:59:02+00:00
+date: 2013-07-03 08:59:02
 layout: post
 title: Productivité
 category: Papa

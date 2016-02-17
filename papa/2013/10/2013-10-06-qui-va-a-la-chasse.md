@@ -1,5 +1,5 @@
 ---
-date: 2013-10-06 09:22:41+00:00
+date: 2013-10-06 09:22:41
 layout: post
 title: Qui va à la chasse
 category: Papa

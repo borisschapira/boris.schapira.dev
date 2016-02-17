@@ -1,5 +1,5 @@
 ---
-date: 2015-02-10 23:55:45+00:00
+date: 2015-02-10 23:55:45
 layout: post
 title: Pas préparés
 category: Papa

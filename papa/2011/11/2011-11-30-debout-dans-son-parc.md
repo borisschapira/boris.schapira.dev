@@ -1,5 +1,5 @@
 ---
-date: 2011-11-30 17:33:56+00:00
+date: 2011-11-30 17:33:56
 layout: post
 title: Debout dans son parc
 category: Papa

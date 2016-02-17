@@ -1,5 +1,5 @@
 ---
-date: 2015-02-22 16:36:37+00:00
+date: 2015-02-22 16:36:37
 layout: post
 title: Partout chez lui
 category: Papa

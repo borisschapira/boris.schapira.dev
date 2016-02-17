@@ -1,5 +1,5 @@
 ---
-date: 2016-02-16 21:10:44+00:00
+date: 2016-02-16 21:10:44
 layout: post
 title: "Juste un papa"
 category: Papa

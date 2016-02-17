@@ -1,5 +1,5 @@
 ---
-date: 2014-03-04 14:55:41+00:00
+date: 2014-03-04 14:55:41
 layout: post
 title: Inscription du grand à l'école
 category: Papa

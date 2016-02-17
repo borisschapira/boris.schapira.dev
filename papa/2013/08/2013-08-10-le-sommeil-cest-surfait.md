@@ -1,5 +1,5 @@
 ---
-date: 2013-08-10 16:21:24+00:00
+date: 2013-08-10 16:21:24
 layout: post
 title: Le sommeil, c'est surfait
 category: Papa

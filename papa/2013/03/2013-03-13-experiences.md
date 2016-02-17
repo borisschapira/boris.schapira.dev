@@ -1,5 +1,5 @@
 ---
-date: 2013-03-13 16:17:44+00:00
+date: 2013-03-13 16:17:44
 layout: post
 title: Expériences
 category: Papa

@@ -1,5 +1,5 @@
 ---
-date: 2015-03-08 15:47:25+00:00
+date: 2015-03-08 15:47:25
 layout: post
 title: Retrouvée
 category: Papa

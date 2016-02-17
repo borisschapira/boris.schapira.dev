@@ -1,5 +1,5 @@
 ---
-date: 2011-08-25 16:49:51+00:00
+date: 2011-08-25 16:49:51
 layout: post
 title: Cupidon du cracra
 category: Papa

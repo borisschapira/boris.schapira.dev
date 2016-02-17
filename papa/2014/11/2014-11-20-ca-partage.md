@@ -1,5 +1,5 @@
 ---
-date: 2014-11-20 13:21:43+00:00
+date: 2014-11-20 13:21:43
 layout: post
 title: Ça, "partage".
 category: Papa

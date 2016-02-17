@@ -1,5 +1,5 @@
 ---
-date: 2014-04-13 15:50:35+00:00
+date: 2014-04-13 15:50:35
 layout: post
 title: Un week-end normal
 category: Papa

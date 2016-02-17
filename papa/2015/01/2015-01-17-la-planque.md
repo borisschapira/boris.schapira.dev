@@ -1,5 +1,5 @@
 ---
-date: 2015-01-17 17:39:02+00:00
+date: 2015-01-17 17:39:02
 layout: post
 title: La planque
 category: Papa

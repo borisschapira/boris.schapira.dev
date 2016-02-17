@@ -1,5 +1,5 @@
 ---
-date: 2015-03-07 14:37:13+00:00
+date: 2015-03-07 14:37:13
 layout: post
 title: Solidaires
 category: Papa

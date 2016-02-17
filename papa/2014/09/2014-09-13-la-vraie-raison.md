@@ -1,5 +1,5 @@
 ---
-date: 2014-09-13 15:36:08+00:00
+date: 2014-09-13 15:36:08
 layout: post
 title: La VRAIE raison
 category: Papa

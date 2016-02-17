@@ -1,5 +1,5 @@
 ---
-date: 2015-12-14 18:34:44+00:00
+date: 2015-12-14 18:34:44
 layout: post
 title: Paie ton éducation
 category: Papa

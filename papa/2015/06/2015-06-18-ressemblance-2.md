@@ -1,5 +1,5 @@
 ---
-date: 2015-06-18 18:34:43+00:00
+date: 2015-06-18 18:34:43
 layout: post
 title: 'Ressemblance #2'
 category: Papa

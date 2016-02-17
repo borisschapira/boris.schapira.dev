@@ -1,5 +1,5 @@
 ---
-date: 2014-08-10 15:38:22+00:00
+date: 2014-08-10 15:38:22
 layout: post
 title: Chapcheup
 category: Papa

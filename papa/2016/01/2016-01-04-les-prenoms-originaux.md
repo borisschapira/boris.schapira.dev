@@ -1,5 +1,5 @@
 ---
-date: 2016-01-04 08:05:44+00:00
+date: 2016-01-04 08:05:44
 layout: post
 title: Les prénoms originaux
 category: Papa

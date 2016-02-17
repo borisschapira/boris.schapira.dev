@@ -1,5 +1,5 @@
 ---
-date: 2016-01-16 12:00:44+00:00
+date: 2016-01-16 12:00:44
 layout: post
 title: Tu préfères…
 category: Papa

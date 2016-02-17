@@ -1,5 +1,5 @@
 ---
-date: 2015-08-18 15:56:28+00:00
+date: 2015-08-18 15:56:28
 layout: post
 title: Le même à la maison
 category: Papa

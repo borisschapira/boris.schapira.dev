@@ -1,5 +1,5 @@
 ---
-date: 2015-10-23 12:51:34+00:00
+date: 2015-10-23 12:51:34
 layout: post
 title: Relativité
 category: Papa

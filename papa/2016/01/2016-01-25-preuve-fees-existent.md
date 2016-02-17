@@ -1,5 +1,5 @@
 ---
-date: 2016-01-25 22:10:44+00:00
+date: 2016-01-25 22:10:44
 layout: post
 title: La preuve
 category: Papa

@@ -1,5 +1,5 @@
 ---
-date: 2015-11-13 14:02:23+00:00
+date: 2015-11-13 14:02:23
 layout: post
 title: Les activités des grands
 category: Papa

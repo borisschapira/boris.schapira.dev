@@ -1,5 +1,5 @@
 ---
-date: 2013-09-29 09:10:09+00:00
+date: 2013-09-29 09:10:09
 layout: post
 title: Sur la porte, bordel
 category: Papa

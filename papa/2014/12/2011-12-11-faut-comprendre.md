@@ -1,5 +1,5 @@
 ---
-date: 2011-12-11 21:33:56+00:00
+date: 2011-12-11 21:33:56
 layout: post
 title: Faut comprendre !
 category: Papa

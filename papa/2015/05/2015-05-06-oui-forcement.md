@@ -1,5 +1,5 @@
 ---
-date: 2015-05-06 19:42:51+00:00
+date: 2015-05-06 19:42:51
 layout: post
 title: Oui, forcément
 category: Papa

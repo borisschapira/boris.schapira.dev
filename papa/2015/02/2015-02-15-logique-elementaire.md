@@ -1,5 +1,5 @@
 ---
-date: 2015-02-15 13:49:33+00:00
+date: 2015-02-15 13:49:33
 layout: post
 title: Logique élémentaire
 category: Papa

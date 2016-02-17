@@ -1,5 +1,5 @@
 ---
-date: 2015-01-22 13:36:40+00:00
+date: 2015-01-22 13:36:40
 layout: post
 title: Quand on dit des bêtises
 category: Papa

@@ -1,5 +1,5 @@
 ---
-date: 2014-06-18 15:42:40+00:00
+date: 2014-06-18 15:42:40
 layout: post
 title: Agenda de ministre
 category: Papa

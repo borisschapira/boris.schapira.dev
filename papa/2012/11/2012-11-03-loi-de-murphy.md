@@ -1,5 +1,5 @@
 ---
-date: 2012-11-03 07:58:43+00:00
+date: 2012-11-03 07:58:43
 layout: post
 title: Loi de Murphy
 category: Papa

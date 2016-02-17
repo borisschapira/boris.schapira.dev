@@ -1,5 +1,5 @@
 ---
-date: 2016-01-03 14:05:44+00:00
+date: 2016-01-03 14:05:44
 layout: post
 title: WeMoms
 category: Papa

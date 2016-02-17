@@ -1,5 +1,5 @@
 ---
-date: 2015-06-18 19:19:09+00:00
+date: 2015-06-18 19:19:09
 layout: post
 title: Freud rules
 category: Papa

@@ -1,5 +1,5 @@
 ---
-date: 2015-03-01 08:58:07+00:00
+date: 2015-03-01 08:58:07
 layout: post
 title: Personnages de dessins animés
 category: Papa

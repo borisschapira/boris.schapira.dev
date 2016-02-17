@@ -1,5 +1,5 @@
 ---
-date: 2014-11-18 07:40:52+00:00
+date: 2014-11-18 07:40:52
 layout: post
 title: Attribut de "grand"
 category: Papa

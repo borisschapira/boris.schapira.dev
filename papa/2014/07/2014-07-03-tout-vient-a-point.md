@@ -1,5 +1,5 @@
 ---
-date: 2014-07-03 08:19:39+00:00
+date: 2014-07-03 08:19:39
 layout: post
 title: Tout vient à point...
 category: Papa

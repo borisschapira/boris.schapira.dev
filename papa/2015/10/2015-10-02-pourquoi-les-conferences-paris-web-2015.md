@@ -1,5 +1,5 @@
 ---
-date: 2015-10-02 19:03:08+00:00
+date: 2015-10-02 19:03:08
 layout: post
 title: Pourquoi les conférences (Paris Web 2015)
 category: Papa

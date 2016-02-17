@@ -1,5 +1,5 @@
 ---
-date: 2014-09-03 21:07:08+00:00
+date: 2014-09-03 21:07:08
 layout: post
 title: Reformulation
 category: Papa

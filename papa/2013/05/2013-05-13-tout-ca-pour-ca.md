@@ -1,5 +1,5 @@
 ---
-date: 2013-05-13 08:15:08+00:00
+date: 2013-05-13 08:15:08
 layout: post
 title: Tout ça pour ça
 category: Papa

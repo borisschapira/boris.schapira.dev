@@ -1,5 +1,5 @@
 ---
-date: 2012-11-26 16:18:41+00:00
+date: 2012-11-26 16:18:41
 layout: post
 title: Encore un rendez-vous à la crèche
 category: Papa

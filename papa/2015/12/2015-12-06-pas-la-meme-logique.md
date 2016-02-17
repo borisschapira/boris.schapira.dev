@@ -1,5 +1,5 @@
 ---
-date: 2015-12-06 20:34:44+00:00
+date: 2015-12-06 20:34:44
 layout: post
 title: Pas la même logique
 category: Papa

@@ -1,5 +1,5 @@
 ---
-date: 2016-02-15 22:10:44+00:00
+date: 2016-02-15 22:10:44
 layout: post
 title: "Division"
 category: Papa

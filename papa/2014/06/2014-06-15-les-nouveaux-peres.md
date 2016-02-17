@@ -1,5 +1,5 @@
 ---
-date: 2014-06-15 13:21:47+00:00
+date: 2014-06-15 13:21:47
 layout: post
 title: Les nouveaux pères
 category: Papa

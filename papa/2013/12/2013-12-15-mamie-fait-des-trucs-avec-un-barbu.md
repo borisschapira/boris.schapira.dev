@@ -1,5 +1,5 @@
 ---
-date: 2013-12-15 15:58:24+00:00
+date: 2013-12-15 15:58:24
 layout: post
 title: Mamie fait des trucs avec un barbu
 category: Papa

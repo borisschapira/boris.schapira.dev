@@ -1,5 +1,5 @@
 ---
-date: 2016-02-01 07:10:44+00:00
+date: 2016-02-01 07:10:44
 layout: post
 title: Captain Obvious
 category: Papa

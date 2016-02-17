@@ -1,5 +1,5 @@
 ---
-date: 2012-10-22 07:53:01+00:00
+date: 2012-10-22 07:53:01
 layout: post
 title: Culture musicale
 category: Papa

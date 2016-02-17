@@ -1,5 +1,5 @@
 ---
-date: 2016-02-10 22:10:44+00:00
+date: 2016-02-10 22:10:44
 layout: post
 title: La lumière de la musique
 category: Papa

@@ -1,5 +1,5 @@
 ---
-date: 2014-03-01 10:07:47+00:00
+date: 2014-03-01 10:07:47
 layout: post
 title: Accessibilité
 category: Papa

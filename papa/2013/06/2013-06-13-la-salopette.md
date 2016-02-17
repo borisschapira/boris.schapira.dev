@@ -1,5 +1,5 @@
 ---
-date: 2013-06-13 08:16:56+00:00
+date: 2013-06-13 08:16:56
 layout: post
 title: La salopette
 category: Papa

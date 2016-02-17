@@ -1,5 +1,5 @@
 ---
-date: 2013-11-02 10:22:56+00:00
+date: 2013-11-02 10:22:56
 layout: post
 title: Décodeur requis
 category: Papa

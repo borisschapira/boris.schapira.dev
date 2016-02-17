@@ -1,5 +1,5 @@
 ---
-date: 2013-12-14 11:48:26+00:00
+date: 2013-12-14 11:48:26
 layout: post
 title: Les chaussettes
 category: Papa

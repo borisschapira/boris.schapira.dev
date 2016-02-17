@@ -1,5 +1,5 @@
 ---
-date: 2015-07-19 11:53:35+00:00
+date: 2015-07-19 11:53:35
 layout: post
 title: Reconnaissant mais pas trop
 category: Papa

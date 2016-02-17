@@ -1,5 +1,5 @@
 ---
-date: 2014-05-17 15:47:17+00:00
+date: 2014-05-17 15:47:17
 layout: post
 title: Comptines
 category: Papa

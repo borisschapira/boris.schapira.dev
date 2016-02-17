@@ -1,5 +1,5 @@
 ---
-date: 2015-03-26 07:45:35+00:00
+date: 2015-03-26 07:45:35
 layout: post
 title: L'épée magique
 category: Papa

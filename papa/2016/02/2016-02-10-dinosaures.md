@@ -1,5 +1,5 @@
 ---
-date: 2016-02-10 19:10:44+00:00
+date: 2016-02-10 19:10:44
 layout: post
 title: Dinosaures
 category: Papa

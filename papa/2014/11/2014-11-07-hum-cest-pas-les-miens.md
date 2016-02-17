@@ -1,5 +1,5 @@
 ---
-date: 2014-11-07 15:35:02+00:00
+date: 2014-11-07 15:35:02
 layout: post
 title: '"Hum... c''est pas les miens ?"'
 category: Papa

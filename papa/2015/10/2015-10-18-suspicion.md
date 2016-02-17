@@ -1,5 +1,5 @@
 ---
-date: 2015-10-18 06:31:02+00:00
+date: 2015-10-18 06:31:02
 layout: post
 title: Suspicion
 category: Papa

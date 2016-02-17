@@ -1,5 +1,5 @@
 ---
-date: 2014-03-03 15:00:37+00:00
+date: 2014-03-03 15:00:37
 layout: post
 title: C'était le bon temps
 category: Papa

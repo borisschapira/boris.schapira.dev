@@ -1,5 +1,5 @@
 ---
-date: 2014-02-21 15:52:17+00:00
+date: 2014-02-21 15:52:17
 layout: post
 title: Les Poupées Chattes
 category: Papa

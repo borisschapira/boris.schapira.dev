@@ -1,5 +1,5 @@
 ---
-date: 2016-01-25 07:10:44+00:00
+date: 2016-01-25 07:10:44
 layout: post
 title: Grabouillage
 category: Papa

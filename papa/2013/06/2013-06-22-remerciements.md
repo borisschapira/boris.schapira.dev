@@ -1,5 +1,5 @@
 ---
-date: 2013-06-22 16:15:33+00:00
+date: 2013-06-22 16:15:33
 layout: post
 title: Remerciements
 category: Papa

@@ -1,5 +1,5 @@
 ---
-date: 2013-09-08 16:08:59+00:00
+date: 2013-09-08 16:08:59
 layout: post
 title: Quitte à regarder des dessins animés...
 category: Papa

@@ -1,5 +1,5 @@
 ---
-date: 2015-11-24 07:57:58+00:00
+date: 2015-11-24 07:57:58
 layout: post
 title: Mon travail
 category: Papa

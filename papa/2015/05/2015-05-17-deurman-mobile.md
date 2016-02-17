@@ -1,5 +1,5 @@
 ---
-date: 2015-05-17 05:06:42+00:00
+date: 2015-05-17 05:06:42
 layout: post
 title: Deurman mobile
 category: Papa

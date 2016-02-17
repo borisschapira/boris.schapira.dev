@@ -1,5 +1,5 @@
 ---
-date: 2014-10-25 12:54:49+00:00
+date: 2014-10-25 12:54:49
 layout: post
 title: Où sont les femmes ?
 category: Papa

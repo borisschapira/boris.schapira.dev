@@ -1,5 +1,5 @@
 ---
-date: 2014-01-27 08:57:26+00:00
+date: 2014-01-27 08:57:26
 layout: post
 title: 'L''Ass. Mat de la mort : le contrat'
 category: Papa

@@ -1,5 +1,5 @@
 ---
-date: 2013-10-04 16:06:35+00:00
+date: 2013-10-04 16:06:35
 layout: post
 title: Le Bon Coin
 category: Papa

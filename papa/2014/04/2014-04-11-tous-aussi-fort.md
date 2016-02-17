@@ -1,5 +1,5 @@
 ---
-date: 2014-04-11 14:48:16+00:00
+date: 2014-04-11 14:48:16
 layout: post
 title: Tous aussi fort
 category: Papa

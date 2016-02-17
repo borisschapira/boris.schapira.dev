@@ -1,5 +1,5 @@
 ---
-date: 2014-02-20 09:03:52+00:00
+date: 2014-02-20 09:03:52
 layout: post
 title: Ça commence mal
 category: Papa

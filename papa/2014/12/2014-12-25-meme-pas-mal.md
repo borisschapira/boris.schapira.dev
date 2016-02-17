@@ -1,5 +1,5 @@
 ---
-date: 2014-12-25 15:16:49+00:00
+date: 2014-12-25 15:16:49
 layout: post
 title: Même pas mal
 category: Papa

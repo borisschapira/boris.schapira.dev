@@ -1,5 +1,5 @@
 ---
-date: 2015-11-18 18:55:07+00:00
+date: 2015-11-18 18:55:07
 layout: post
 title: Chauffage calorique
 category: Papa

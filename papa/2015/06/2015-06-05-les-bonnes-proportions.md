@@ -1,5 +1,5 @@
 ---
-date: 2015-06-05 17:43:01+00:00
+date: 2015-06-05 17:43:01
 layout: post
 title: Les bonnes proportions
 category: Papa

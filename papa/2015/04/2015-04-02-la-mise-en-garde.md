@@ -1,5 +1,5 @@
 ---
-date: 2015-04-02 19:14:22+00:00
+date: 2015-04-02 19:14:22
 layout: post
 title: La mise en garde
 category: Papa

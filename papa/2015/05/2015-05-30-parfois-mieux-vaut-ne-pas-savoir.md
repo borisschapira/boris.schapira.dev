@@ -1,5 +1,5 @@
 ---
-date: 2015-05-30 16:35:42+00:00
+date: 2015-05-30 16:35:42
 layout: post
 title: Parfois, mieux vaut ne pas savoir
 category: Papa

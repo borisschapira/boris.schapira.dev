@@ -1,5 +1,5 @@
 ---
-date: 2014-06-14 15:45:04+00:00
+date: 2014-06-14 15:45:04
 layout: post
 title: Coup de blues
 category: Papa

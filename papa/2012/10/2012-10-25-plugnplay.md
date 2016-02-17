@@ -1,5 +1,5 @@
 ---
-date: 2012-10-25 07:56:56+00:00
+date: 2012-10-25 07:56:56
 layout: post
 title: Plug'n'Play
 category: Papa

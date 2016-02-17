@@ -1,5 +1,5 @@
 ---
-date: 2014-05-31 14:22:54+00:00
+date: 2014-05-31 14:22:54
 layout: post
 title: Vive la technologie
 category: Papa

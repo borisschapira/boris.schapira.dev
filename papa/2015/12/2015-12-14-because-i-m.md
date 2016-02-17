@@ -1,5 +1,5 @@
 ---
-date: 2015-12-14 08:34:44+00:00
+date: 2015-12-14 08:34:44
 layout: post
 title: Because I'm Ba*man
 category: Papa

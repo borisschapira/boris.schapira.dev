@@ -1,5 +1,5 @@
 ---
-date: 2014-11-08 15:20:57+00:00
+date: 2014-11-08 15:20:57
 layout: post
 title: Adopte un sol
 category: Papa

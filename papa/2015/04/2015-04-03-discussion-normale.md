@@ -1,5 +1,5 @@
 ---
-date: 2015-04-03 11:56:39+00:00
+date: 2015-04-03 11:56:39
 layout: post
 title: Discussion normale...
 category: Papa

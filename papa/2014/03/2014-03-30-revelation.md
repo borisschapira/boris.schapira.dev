@@ -1,5 +1,5 @@
 ---
-date: 2014-03-30 07:51:50+00:00
+date: 2014-03-30 07:51:50
 layout: post
 title: Révélation
 category: Papa

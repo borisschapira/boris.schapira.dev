@@ -1,5 +1,5 @@
 ---
-date: 2015-03-12 11:14:55+00:00
+date: 2015-03-12 11:14:55
 layout: post
 title: Preuves à charge
 category: Papa

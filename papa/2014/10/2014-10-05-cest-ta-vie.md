@@ -1,5 +1,5 @@
 ---
-date: 2014-10-05 16:02:05+00:00
+date: 2014-10-05 16:02:05
 layout: post
 title: C'est ta vie
 category: Papa

@@ -1,5 +1,5 @@
 ---
-date: 2014-09-04 14:04:37+00:00
+date: 2014-09-04 14:04:37
 layout: post
 title: Troisième jour d'école
 category: Papa

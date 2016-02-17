@@ -1,5 +1,5 @@
 ---
-date: 2014-11-14 14:02:37+00:00
+date: 2014-11-14 14:02:37
 layout: post
 title: Chaque jour
 category: Papa

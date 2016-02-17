@@ -1,5 +1,5 @@
 ---
-date: 2015-08-19 16:14:45+00:00
+date: 2015-08-19 16:14:45
 layout: post
 title: Maintenant, il donne son avis...
 category: Papa

@@ -1,5 +1,5 @@
 ---
-date: 2014-10-03 18:34:51+00:00
+date: 2014-10-03 18:34:51
 layout: post
 title: L'amoureuse
 category: Papa

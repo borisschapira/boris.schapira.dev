@@ -1,5 +1,5 @@
 ---
-date: 2014-04-11 11:50:00+00:00
+date: 2014-04-11 11:50:00
 layout: post
 title: Les pommes des joues
 category: Papa

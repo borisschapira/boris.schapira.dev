@@ -1,5 +1,5 @@
 ---
-date: 2013-06-22 08:57:36+00:00
+date: 2013-06-22 08:57:36
 layout: post
 title: Retour de la maternité
 category: Papa

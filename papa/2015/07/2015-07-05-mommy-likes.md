@@ -1,5 +1,5 @@
 ---
-date: 2015-07-05 21:12:06+00:00
+date: 2015-07-05 21:12:06
 layout: post
 title: Mommy likes...
 category: Papa

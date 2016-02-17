@@ -1,5 +1,5 @@
 ---
-date: 2015-02-04 20:00:14+00:00
+date: 2015-02-04 20:00:14
 layout: post
 title: Cuisine de grands
 category: Papa

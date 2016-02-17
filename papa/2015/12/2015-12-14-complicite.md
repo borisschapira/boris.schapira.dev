@@ -1,5 +1,5 @@
 ---
-date: 2015-12-14 12:34:44+00:00
+date: 2015-12-14 12:34:44
 layout: post
 title: Complicité
 category: Papa

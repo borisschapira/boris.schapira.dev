@@ -1,5 +1,5 @@
 ---
-date: 2014-11-23 13:53:18+00:00
+date: 2014-11-23 13:53:18
 layout: post
 title: Souvenir d'enfance
 category: Papa

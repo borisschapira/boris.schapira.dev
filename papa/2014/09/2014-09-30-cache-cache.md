@@ -1,5 +1,5 @@
 ---
-date: 2014-09-30 07:09:13+00:00
+date: 2014-09-30 07:09:13
 layout: post
 title: Cache-cache
 category: Papa

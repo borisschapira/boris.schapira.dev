@@ -1,5 +1,5 @@
 ---
-date: 2011-01-28 17:27:17+00:00
+date: 2011-01-28 17:27:17
 layout: post
 title: C'est pas très coordonné tout ça
 category: Papa
