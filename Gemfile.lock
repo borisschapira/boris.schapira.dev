@@ -45,6 +45,7 @@ GEM
     coderay (1.1.0)
     colorator (0.1)
     concurrent-ruby (1.0.0)
+    diff-lcs (1.2.5)
     execjs (2.6.0)
     fastimage (1.9.0)
       addressable (~> 2.3.5)
@@ -104,6 +105,19 @@ GEM
       ffi (>= 0.5.0)
     rmagick (2.15.4)
     rouge (1.10.1)
+    rspec (3.4.0)
+      rspec-core (~> 3.4.0)
+      rspec-expectations (~> 3.4.0)
+      rspec-mocks (~> 3.4.0)
+    rspec-core (3.4.2)
+      rspec-support (~> 3.4.0)
+    rspec-expectations (3.4.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.4.0)
+    rspec-mocks (3.4.1)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.4.0)
+    rspec-support (3.4.1)
     ruby-nuggets (1.0.0)
       nuggets (= 1.0.0)
     safe_yaml (1.0.4)
@@ -133,6 +147,7 @@ DEPENDENCIES
   jekyll-tagging-related_posts
   octopress-autoprefixer
   octopress-debugger
+  rspec
 
 BUNDLED WITH
    1.10.6
