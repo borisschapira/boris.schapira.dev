@@ -4,7 +4,7 @@ layout: post
 title: "BetterBack : pour une meilleure posture"
 ---
 
-Suite aux conseils de mon cousin, je me suis procuré un [<i lang="en">BetterBack</i>](http://getbetterback.com/). Expéience d'achat très positive, attente un peu longue (2 mois environ) mais finalement un produit bien fini et agréable au touché.
+Suite aux conseils de mon cousin, je me suis procuré un [<i lang="en">BetterBack</i>](http://getbetterback.com/). Expérience d'achat très positive, attente un peu longue (2 mois environ) mais finalement un produit bien fini et agréable au touché.
 
 Au début, je me suis demandé comment ça se mettait mais en réalité, il suffit d'une seule utilisation pour "piger le truc" [^nda]. Plusieurs collègues me l'ont emprunté pour essayer et ont confirmé la facilité d'utilisation [^nda2].
 
