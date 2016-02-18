@@ -2,5 +2,5 @@
 <header class="p-header">
     {% assign datetime = include.post.date | date_to_xmlschema %}
     <time class="p-date dt-published" datetime="{{ datetime }}">{{ include.post.date | localize: '%A %-d' }} <a href="{{ site.baseurl }}/{{ include.post.date | localize: '%Y/%m/' }}" title="Articles de {{ include.post.date | localize: '%B %Y' }}">{{ include.post.date | localize: '%B' }}</a> <a href="{{ site.baseurl }}/{{ include.post.date | localize: '%Y/' }}" title="Articles de {{ include.post.date | localize: '%Y' }}">{{ include.post.date | localize: '%Y' }}</a></time>{% if include.showcategory and include.post.category != nil %}<span class="p-category"><a href="{{ site.baseurl }}/{{include.post.category|downcase]}}/">{{ include.post.category }}</a></span>{% endif %}{% if include.showtags == true %}<span class="p-tags">{{ include.post | tags }}</span>{% endif %}
-    <span class="p-readtime" title="Environ {{ readtime }} min. de lecture">{{ readtime }} min.</span><span class="p-author h-card">{{ site.author.name }}</span>
+    <span class="p-readtime nowrap" title="Environ {{ readtime }} min. de lecture"><svg class="icon icon-clock"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-clock"></use></svg> {{ readtime }} min.</span><span class="p-author h-card">{{ site.author.name }}</span>
 </header>

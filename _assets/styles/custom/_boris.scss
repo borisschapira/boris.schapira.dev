@@ -327,10 +327,17 @@ html .content .post .p-header .p-author {
       }
     }
   }
-  .icon {
-    max-width: 40px;
-  }
 }
+
+.icon {
+    max-width: 40px;
+    &.icon-clock {
+        margin: -0.15em 0;
+        width: 0.7em;
+        color: lighten($color-gray,10);
+    }
+}
+
 /* About section */
 .sidebar-about {
   display: none;
