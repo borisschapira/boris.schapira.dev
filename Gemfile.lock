@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jekyll/jekyll.git
-  revision: 5e6aef6138794c6c69e74e8e111d093f4c3db2af
+  revision: f0b8db0d72eb82b200f1977488caf9a149bfee6b
   specs:
     jekyll (3.1.1)
       colorator (~> 0.1)

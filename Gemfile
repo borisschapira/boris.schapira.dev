@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", :github => "jekyll/jekyll"
-gem "rspec"
+gem 'jekyll', :github => 'jekyll/jekyll'
+gem 'rspec'
 gem 'i18n'
 
 group :jekyll_plugins do
