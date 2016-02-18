@@ -13,7 +13,7 @@ Maxime, un ami Esieen, pose de justes questions dans un commentaire de mon préc
 >
 > Pour ceux qui savent pas, en gros les DRM donnent des pouvoirs qui vous appartenaient jadis, à Microsoft et aux géants des médias, comme le pouvoir de décider quel programme on peut utiliser ou non sur son ordinateur, le pouvoir d'installer de nouveaux programmes (cette fois à l'insu de son plein gré), ou encore le pouvoir de restreindre l'accès à certains programmes, voire à ses propres fichiers de données.
 >
-> Lisez bien votre license Vista, il y a un paragraphe contenant "You consent to being spied upon by Microsoft, through the 'Windows Genuine Advantage' system" ou encore "You give Microsoft the right, through programs like Windows Defender, to delete programs from your system that it decides are spyware."
+> Lisez bien votre license Vista, il y a un paragraphe contenant "You consent to being spied upon by Microsoft, through the 'Windows Genuine Advantage' system" ou encore "You give Microsoft the right, through programs like Windows Defender, to delete programs from your system that it decides are spyware."
 >
 > Je précise aussi que pour que l'ordinateur puisse vous signifier ce que vous ne pouvez pas faire, il vous surveille en continu, ce qui utilise inutilement (pas selon le point de vue de Microsoft) de la puissance de calcul et de la mémoire D'où un besoin d'avoir une configuration plus puissante, même si vous voulez simplement continuer à utiliser les mêmes logiciels.
 >
