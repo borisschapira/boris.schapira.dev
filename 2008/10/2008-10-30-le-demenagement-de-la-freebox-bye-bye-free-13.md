@@ -9,10 +9,9 @@ tags:
   - Me, myself and I
 ---
 
-Mon histoire avec **Free **est aussi longue que ma relation au **Web**. Free m'a accompagné dans mon premier studio. Free m'a offert mon premier abonnement **Triple-Play**. J'ai été co-administrateur d'un réseau étudiant de 180 machines connectées sur 3 Freebox. Et lorsque j'ai déménagé à Boulogne, j'ai pris ma **Freebox **sous le bras. Autant dire que Free et moi étions devenus inséparables. **Je pardonnais beaucoup à Free**, même de m'avoir prélevé pendant plusieurs mois des sommes relatives à une freebox que je leur avais renvoyé (et qu'ils ont miraculeusement trouvée trois jours après que j'aie dénoncé la supercherie… sans pour autant me rembourser). Si je fais cette introduction, c'est pour que vous compreniez bien à quel **degré d'énervement** Free m'a poussé dans ce qui n'est qu'un simple **déménagement **entre deux appartements avec **conservation de la Freebox**.
-<p style="text-align:center">![Internet by transCam](/images/)
-Si seulement ça avait été aussi simple que ça…
-"Internet" by [transCam](http://flickr.com/photos/transkamp/54371294/)
+Mon histoire avec **Free **est aussi longue que ma relation au **Web**. Free m'a accompagné dans mon premier studio. Free m'a offert mon premier abonnement **Triple-Play**. J'ai été co-administrateur d'un réseau étudiant de 180 machines connectées sur 3 Freebox. Et lorsque j'ai déménagé à Boulogne, j'ai pris ma **Freebox **sous le bras. Autant dire que Free et moi étions devenus inséparables. **Je pardonnais beaucoup à Free**, même de m'avoir prélevé pendant plusieurs mois des sommes relatives à une freebox que je leur avais renvoyé (et qu'ils ont miraculeusement trouvée trois jours après que j'aie dénoncé la supercherie… sans pour autant me rembourser). Si je fais cette introduction, c'est pour que vous compreniez bien à quel **degré d'énervement** Free m'a poussé dans ce qui n'est qu'un simple **déménagement** entre deux appartements avec **conservation de la Freebox**.
+
+> Si seulement ça avait été aussi simple que ça…
 
 Ayant fait ma demande au milieu du mois d'Août, j'avais été informé de sa parfaite réception. Un conseiller m'avait assuré que je perdrais ma connexion dans mon ancien appartement au 31, et que je la retrouverais quelques jours plus tard dans le nouveau logement. Conformément à la procédure, mon interface de connexion relative à mon ancien appartement avait été désactivée (l'abonnement étant résilié), ne me laissant accès qu'à l'interface Free relative à mon nouvel appartement, très épurée. Après l'emménagement, je la surveillais donc pour connaitre l'avancée de l'installation. Et puis un jour, je vois&nbsp;: "Problème à la connexion, contactez Free". C'était le début de la fin.
 

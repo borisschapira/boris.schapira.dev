@@ -8,8 +8,6 @@ tags:
   - Société
 ---
 
-![Homme](/images/)
-
 Il y a quelques jours, Mme Schapira et moi-même nous sommes rendus à une conférence organisée par National Geographic à l'ENS Paris. Nous y avons rencontré **Spencer Wells, généticien des populations**, qui nous a présenté le projet dont il est responsable. C'en est suivi un débat impliquant Franz Manni (CNRS), Pierre Darlu (CNRS), Lluis QUINTANA-MURCI (CNRS, Institut Pasteur) et bien sûr, Spencer Wells. Et je peux vous dire que **c'était vraiment passionnant, et que j'ai vraiment envie d'en partager un peu avec vous.**
 
 Pour commencer, disons qu'il y a deux façons d'explorer le temps à la recherche de notre Histoire. Nous pouvons soit observer des éléments du passé que nous trouvons (corps, outils, pièces de poterie, écritures…) et tenter de comprendre comment les choses se sont passées, soit **partir de ce que nous avons aujourd'hui** et remontrer le cours du temps. Le plus simple, quand on pratique cette seconde méthode, est de commencer par ce qu'on sait, puis de continuer avec les écrits que l'on trouve. Certains arrivent à construire avec cette technique des arbres généalogiques impressionnants. Le problème, c'est qu'on ne peut pas aller bien loin. Du moins à l'échelle de l'Humanité.
