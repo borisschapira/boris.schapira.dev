@@ -32,7 +32,7 @@ Un agrégateur est un barrage. Il retient pour vous le fil de l'actualité, c'es
 
 **Et concrètement, chez moi&nbsp;?**
 
-Il existe plusieurs types d'agrégateurs RSS&nbsp;: intégrés aux navigateurs ou à part, en ligne sur un site web ou lancés depuis votre ordinateur. En fait, le navigateur que vous utilisez gère déjà probablement les flux RSS. Pour cela, cherchez l'[icône](https://www.google.com/search?q=icone+rss&amp;gws_rd=ssl) (standard international des flux RSS) et ouvrez dans une nouvelle fenêtre le flux <abbr title="Really Simple Syndication" lang="en">RSS</abbr> en cliquant sur "[S'inscrire au flux <abbr title="Really Simple Syndication" lang="en">RSS</abbr> 2.0](/feed/)".
+Il existe plusieurs types d'agrégateurs RSS&nbsp;: intégrés aux navigateurs ou à part, en ligne sur un site web ou lancés depuis votre ordinateur. En fait, le navigateur que vous utilisez gère déjà probablement les flux RSS. Pour cela, cherchez l'[icône](https://www.google.com/search?q=icone+rss&amp;gws_rd=ssl) (standard international des flux RSS) et ouvrez dans une nouvelle fenêtre le flux <abbr title="Really Simple Syndication" lang="en">RSS</abbr> en cliquant sur "[S'inscrire au flux <abbr title="Really Simple Syndication" lang="en">RSS</abbr> 2.0](/feed.xml)".
 
 Une nouvelle page devrait alors s'ouvrir, vous affichant l'ensemble des articles dans un format particulier. Cliquez sur le lien "M'abonner à ce flux". C'est fini. Dans Internet Explorer 7, vous pouvez dès lors cliquer sur l'étoile des Favoris situées en haut à droite, puis sélectionnez "Flux". L'ensemble des flux auxquels vous êtes inscrits (l'ensemble des "rivières" que votre "barrage" intercepte) s'affiche, avec en gras ceux qui contiennent des articles non-lus.
 
