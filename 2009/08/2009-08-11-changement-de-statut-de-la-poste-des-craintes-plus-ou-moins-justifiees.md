@@ -8,10 +8,6 @@ tags:
   - France
 ---
 
-**NDA&nbsp;:** comme souvent, l'intérêt d'un article n'est pas dans l'article lui-même mais dans les commentaires. N'hésitez pas à enrichir votre lecture avec les commentaires d'[Olmon](/blog/changement-de-statut-de-la-poste-des-craintes-plus-ou-moins-justifiees/), [Briscard ](/blog/changement-de-statut-de-la-poste-des-craintes-plus-ou-moins-justifiees/)et [le Coucou](/blog/changement-de-statut-de-la-poste-des-craintes-plus-ou-moins-justifiees/).
-
-* * *
-
 Je lis [ça et là](//lespriviliegiesparlent.blogspot.com/2009/08/le-changement-de-statut-de-la-poste-bon.html) des [articles de blog](//unclavesien.blogspot.com/2009/07/pour-un-referendum-populaire-sur-la.html) sur la privatisation de la Poste. Marianne 2 demande même la tenue d'un [référendum sur la question](http://web.archive.org/web/20090927141954///www.marianne2.fr:80/Privatisation-de-La-Poste-exigez-un-referendum-!_a91324.html?) (sans proposer de solutions pour le financer, hein, faut pas pousser non plus). Je ne peux pas m’empêcher d’y mettre mon grain de sel, m’étant fait expliquer pas mal de choses il y a quelques mois par ma Libellule, qui rédigeait un mémoire sur cette question (elle a d’ailleurs validé cet article pour que je sois sûr de ne pas écrire de bêtises ou de dénaturer son travail).
 
 ### Les faits
@@ -33,9 +29,3 @@ Alors on peut toujours crier pour que l'ouverture à la concurrence ne se produ
 A force de reculer la privatisation de la Poste sans pour autant en renforcer la qualité de service, l’État français prend un retard conséquent qui aura un impact certain&nbsp;: l’incapacité de La Poste à faire face à la concurrence. Et je parle de DP mais j’oublie Ciblex, Geodis, DHL, GLS, TNT, FedEx, UPS… qui prendront rapidement à bras le corps le marché des colis (80 % du marché français en valeur), s’ils n’ont pas déjà commencé (et c’est ça en moins pour le chiffre d’affaire de la Poste).
 
 Qu’on s’oppose à l’ouverture à la concurrence des activités de courrier, je peux comprendre. La nécessité pour l’État de maitriser tous les flux nécessaires au fonctionnement du pays se conçoit (d’ailleurs, n’est-ce pas la base des textes [Hadopi](//fr.wikipedia.org/wiki/Loi_Hadopi) et [Loppsi](//fr.wikipedia.org/wiki/Loi_d%27orientation_et_de_programmation_pour_la_s%C3%A9curit%C3%A9_int%C3%A9rieure)&nbsp;?). Bon c’est vrai qu’entre l’électricité, le gaz, les télécoms, les autoroutes, le [chemin de fer](http://jen-airienadireetalors.20minutes-blogs.fr/archive/2009/03/08/la-mise-en-concurrence-est-sur-les-rails.html) et l’eau, on est déjà bien foutus de ce côté-là, mais rien n’empêche de continuer à se battre. Mais accepter l’ouverture à la concurrence des activités de courrier et refuser tout changement à la Poste, c’est reculer pour mieux la faire sauter.
-
-&lt;
-
-p style="text-align: center">![&quot;Si la Poste n](/images/)
-"Si la Poste n'avait pas existé, personne n'aurait reçu ma lettre"
-s'est ému ce jeune garçon préférant rester anonyme.

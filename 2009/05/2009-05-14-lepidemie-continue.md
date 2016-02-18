@@ -7,7 +7,7 @@ tags:
   - Economie
 ---
 
-J'avais déjà parlé de l'[épidémie](/blog/lepidemie/), pronostiquant une aggravation de la situation suite à la multiplication des comportements à risques.
+J'avais déjà parlé de l'[épidémie](/2009/01/lepidemie/), pronostiquant une aggravation de la situation suite à la multiplication des comportements à risques.
 
 C'est aujourd'hui un fait reconnu par [l'autorité compétente](https://www.banque-france.fr/accueil.html), qui vient de livrer un rapport d'analyse affichant ce chiffre inquiétant&nbsp;: 748 000 foyers infectieux ont été [hospitalisés](http://web.archive.org/web/20111103225325///www.lafinancepourtous.com:80/Procedure-devant-la-commission-de.html) ces cinq dernières années en France. En augmentation de 16 % par rapport au premier trimestre 2009, le nombre de cas a atteint un pic en mars avec 21 747 cas déclarés.
 

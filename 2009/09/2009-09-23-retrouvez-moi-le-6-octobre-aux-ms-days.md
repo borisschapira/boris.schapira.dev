@@ -16,4 +16,4 @@ Je viendrai représenter [Nexdotnet, le pôle .NET de NEXEO](//nexdotnet.nexeo.f
 *   **16h45** Comment passer en douceur à Office 2010 et SharePoint 2010&nbsp;?
 *   **18h00** Silverlight 3&nbsp;: nouveautés et scénarios entreprise avec .NET RIA Services
 
-N'hésitez pas à me contacter [en commentaires](/blog/retrouvez-moi-le-6-octobre-aux-ms-days/), sur [Twitter](https://twitter.com/borisschapira) ou par mail si vous voulez qu'on se donne rendez-vous pour discuter là-bas, ou tout simplement une **invitation** !
+N'hésitez pas à me contacter [en commentaires](/2009/09/retrouvez-moi-le-6-octobre-aux-ms-days/), sur [Twitter](https://twitter.com/borisschapira) ou par mail si vous voulez qu'on se donne rendez-vous pour discuter là-bas, ou tout simplement une **invitation** !
