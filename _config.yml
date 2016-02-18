@@ -36,6 +36,8 @@ author:
   feed: '/feed.xml'
   mailto: 'contact%40borisschapira.com'
   slack: 'https://slackin-borisschapiracom.herokuapp.com/'
+  reading_speed_en: 478
+  reading_speed_fr: 723
 
 # Posts links and pagination
 permalink: :year/:month/:title/
@@ -102,6 +104,9 @@ algolia:
 # Pagination
 paginate: 20
 paginate_path: "/:num/"
+
+# The average reading speed, in number of words by minute
+reading_speed: 200
 
 assets:
   prefix: "/assets"

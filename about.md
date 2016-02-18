@@ -37,6 +37,10 @@ Celui-ci est complété, via [Bundler](http://bundler.io/), par plusieurs gems R
 
 [^2]: La technique de localisation est détaillée dans le [guide de démarrage Jekyll de Thomas Brelet](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/#localiser-jekyll).
 
+La durée de lecture est calculée en considérant une vitesse de lecture moyenne de {{ site.reading_speed }} mots par minute. Votre vitesse de lecture est probablement différente [^rs], ce n'est qu'indicatif. 
+
+[^rs]: la mienne est d'un peu plus de {{ site.author.reading_speed_fr }} mots en français et de {{ site.author.reading_speed_en }} en anglais (à plus de 80 % de rétention, sinon ça ne compte pas). 
+
 Jekyll ayant tendance à produire du code HTML très "aéré" et aucun moteur de rendu Markdown ne m'ayant convaincu quant à sa capacité à traité certaines spécificités typographiques françaises, j'ai suivi mis en place un script de remplacement et de compression, libre adaptation de [ce tutoriel de Sylvain Durand](https://www.sylvaindurand.org/ameliorer-la-typographie-avec-jekyll/ "Améliorer la typographie avec Jekyll"). De plus, Jekyll ne semble pas proposer de syntaxe simple pour la navigation précédent/suivant au sein d'une même catégorie, j'utilise donc [ce plugin d'Adams Clarkson](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/ "Jekyll Post Navigation Within a Category").
 
 La recherche instantanée est le fruit du branchement du site sur [Algolia](https://www.algolia.com/), une solution très performante d'indexation et de recherche côté client qui a le mérite de proposer un [exemple d'implémentation pour Jekyll](https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/ "Add instant search to your blog or documentation using our Jekyll plugin") qui cadrait parfaitement avec mon besoin.
