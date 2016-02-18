@@ -48,6 +48,7 @@ img {
   .post header time {
     display: inline-block;
     margin-bottom: 0;
+    color: $color-gray;
     a {
       color: $color-gray;
     }
@@ -100,7 +101,8 @@ header.category {
   display: none;
 }
 .p-tags,
-.p-category {
+.p-category,
+.p-readtime {
   &::before {
     content: "\00a0·\00a0";
   }
