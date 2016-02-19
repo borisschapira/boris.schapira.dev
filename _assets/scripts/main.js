@@ -1,6 +1,3 @@
-//= require vendors/jquery.2.1.4.min
-//= require vendors/featherlight.min
-
 //= require vendors/cookies-monster
 
 //= require vendors/elevator.min

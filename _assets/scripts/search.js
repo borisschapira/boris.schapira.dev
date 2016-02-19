@@ -1,3 +1,6 @@
+//= require vendors/jquery.2.1.4.min
+//= require vendors/featherlight.min
+
 //= require vendors/moment.2.10.3.min
 //= require vendors/moment_fr
 
