@@ -3,6 +3,7 @@ date: 2016-02-15 22:10:44
 layout: post
 title: "Division"
 category: Papa
+hidden: true
 tags:
   - Égalité
 series: Diviser
@@ -26,7 +27,7 @@ Parfois, de la couleur venait aider au repérage des catégories : le bleu pour 
 
 J'étais fasciné par le monde de Barbie. Pas la poupée, en soi, que je trouvais assez cruche, mais parce que tout, dans sa vie, était paisible et esthétique (ce qui se traduisait, en gros, à cet âge-là, par "_Woaw, elle est trop belle sa voiture. Woaw, elle a un poney !_"). Dans la vie de Barbie, tout allait toujours bien. Alors que les jouets des garçons ne parlaient que de guerre, de conflits, de luttes…
 
-Entendez-moi bien, j'avais des Transformers et des Chevaliers de Zodiaque, j'adorai Goldorak et je me prenais pour un Super Sayen à mes heures, mais ça ne pouvait pas être tout ce que le monde avait à offrir. J'ai longtemps cherché davantage.
+Entendez-moi bien, j'avais des Transformers et des Chevaliers du Zodiaque, j'adorai Goldorak et je me prenais pour un Super Sayen à mes heures, mais ça ne pouvait pas être tout ce que le monde avait à offrir. J'ai longtemps cherché davantage.
 
 Au final, les jouets de construction ont eu ma préférence. Ils avaient l'avantage d'être "socialement acceptables" et tout y était à inventer, je pouvais y imaginer tous les scénarios, y compris celui où le Lego® spationaute faisait la cuisine et où les pirates se retrouvaient à s'occuper d'un bébé à bord de leur bateau.
 
@@ -42,7 +43,7 @@ Avec un peu de recul, on distingue très facilement, en plus du genre, d'autres 
 
 ## Une vision bien triste du monde
 
-Je crois que l'influence de ces catalogues est terrible, car ils présentent un monde bien plus inégalitaire qu'il ne l'est vraiment. Par exemple, il est aujourd'hui possible d'être un homme infirmier, mais vôtre enfant ne trouvera pas de costume d'infirmier. Il sera éduqué à comprendre que les infirmiers sont des infirmières et que les hommes, eux, sont médecins (le petit préjugé sexiste inculqué qui poursuivra votre enfant toute toute sa vie, c'est cadeau).
+Je crois que l'influence de ces catalogues est terrible, car ils présentent un monde bien plus inégalitaire qu'il ne l'est vraiment. Par exemple, il est aujourd'hui possible d'être un homme infirmier, mais votre enfant ne trouvera pas de costume d'infirmier. Il sera éduqué à comprendre que les infirmiers sont des infirmières et que les hommes, eux, sont médecins (le petit préjugé sexiste inculqué qui poursuivra votre enfant toute toute sa vie, c'est cadeau).
 
 Même dans le respect d'une licence importante comme un film Disney, le message est déformé. Prenons "Brave" (Rebelle) et son héroine Mérida : une jeune archère forte et audacieuse, têtue, qui n'a pas peur de déchirer sa robe et de vivre <em lang="en">into the wild</em>. Une occasion en or pour une marque habituée à mettre en scène l'affrontement de changer la perception des femmes en proposant des jouets qui viennent empiéter dans l'imaginaire "garçons" !
 
@@ -55,7 +56,7 @@ Même dans le respect d'une licence importante comme un film Disney, le message 
 
 Si votre fille veut devenir pompier, il faudra qu'elle comprenne qu'il s'agit d'un métier d'homme. À la place, on lui proposera plutôt des images favorisant son épanouissement dans des rôles de fantaisie, de création "mode" ou de tâches ménagères.
 
-Par de costume d'ouvrière BTP, pas de costume de policière. L'autre jour, je suis tombé sur un costume "scientifique" composé d'une blouse blanche et d'une paire de grosses lunettes. Il n'était proposé que chez les garçons. J'ai bien cherché, je ne vois que deux conclusiosn possibles : soit les filles n'ont pas de nez, soit elles n'ont pas les bras fixés comme les garçons. En dehors de ça, je ne vois ce qui empêche le déguisement d'être unisexe.
+Pas de costume d'ouvrière BTP, pas de costume de policière. L'autre jour, je suis tombé sur un costume "scientifique" composé d'une blouse blanche et d'une paire de grosses lunettes. Il n'était proposé que chez les garçons. J'ai bien cherché, je ne vois que deux conclusiosn possibles : soit les filles n'ont pas de nez, soit elles n'ont pas les bras fixés comme les garçons. En dehors de ça, je ne vois ce qui empêche le déguisement d'être unisexe.
 
 > De quoi a-t-on peur en laissant des garçons jouer à la poupée ?
 > Qu'ils deviennent de bons pères ?
@@ -68,7 +69,7 @@ Quoi faire contre ça ? Exiger de ses enfants qu'ils jouent avec des jouets dive
 
 En revanche, ces jeux n'ont pas nécessairement à être violents parce qu'il s'agit de garçons : du coup, quand nous sommes ensemble, je leur propose le choix avec d'autres types d'activités. Le bac à sable est, par exemple, un d'endroit où les garçons débordent d'imagination. On s'y retrouve souvent à "faire la cuisine comme avec Maman". Rien de sexiste là-dedans, leur maman étant vraiment une fan de pâtisserie.
 
-À la maison, nous détournons des clichés : les pirates cherchent un trésor, mais surtout, vives des aventures dignes d'Indiana Jones. Nous fabriquons des pistolets à bonbon, pour tirer sur les gens qui ont faim. Ils veulent être des super-héros ? Très bien, alors ils sont des supermans dont le super-souffle permet d'enlever les femmes mortes qui gênent les passants !
+À la maison, nous détournons des clichés : les pirates cherchent un trésor, mais surtout, vivent des aventures dignes d'Indiana Jones. Nous fabriquons des pistolets à bonbon, pour tirer sur les gens qui ont faim. Ils veulent être des super-héros ? Très bien, alors ils sont des supermans dont le super-souffle permet d'enlever les feuilles mortes qui gênent les passants !
 
 Malheureusement, tout cela ne suffit pas. Tous les jours, je vois "les catalogues" gagner du terrain dans leur imaginaire. À force de leur présenter une vision du monde, ils finissent par y croire.
 
@@ -95,4 +96,4 @@ Le problème c'est qu'avec ce genre de construction psychologique, on apprend à
 
 Si je ne parlais pas à mes copains de ma passion pour les Barbie, ce n'est pas parce que j'en avais honte. Je le vivais très bien et je jouais régulièrement avec mes copines qui elles, trouvaient génial qu'un garçon s'intéresse aussi à _leur_ univers. Je n'en parlais pas parce qu'**on m'a appris à être impuissant** face à leur réaction, et que je ne voulais pas voir du rejet ou de l'incompréhension dans leurs yeux. Il m'a fallu des années pour assumer cette partie de moi-même et la paternité m'a permis de pleinement me rendre compte de ces biais et de ces impuissances.
 
-Je suis conscient que mes garçons auront certainement d'autres défis à relever, pour lesquels je ne pourrais rien faire. Leur donner les clés d'une imagination libre, en revanche, c'est entre mes mains.
+Je suis conscient que mes garçons auront certainement d'autres défis à relever, pour lesquels je ne pourrai rien faire. Leur donner les clés d'une imagination libre, en revanche, c'est entre mes mains.
