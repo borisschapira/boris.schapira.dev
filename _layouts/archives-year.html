@@ -2,25 +2,11 @@
 layout: default
 ---
 
-<h1 class="page-title">Articles publiés en {{ page.date | localize: '%Y' }}</h1>
-
 <section class="posts">
-  {% for post in page.posts reversed %}
-  <article class="post">
-    {% include post-head.html post=post showtags=false %}
-    <h2 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h2>
-    {% if post.content contains "<!-- more -->" %}
-      {{ post.content | split:"<!-- more -->" | first | markdownify % }}
-    {% else %}
-      {{ post.excerpt | markdownify }}
-    {% endif %}
-    <p>
-      <a href="{{ site.baseurl }}{{ post.url }}" title="{{post.title}}">Lire la suite →</a>
-    </p>
-  </article>
-  {% endfor %}
+    <header class="posts-h">
+        <h1 class="page-title">Articles publiés en {{ page.date | localize: '%Y' }}</h1>
+    </header>
+    {% for post in page.posts reversed %}
+        {% include post.html postPage=false %}
+    {% endfor %}
 </section>

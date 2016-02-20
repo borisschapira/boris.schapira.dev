@@ -7,6 +7,9 @@ html.fonts-loaded {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 /* Lisibility */
+.hide {
+    display:none;
+}
 body {
   text-rendering: optimizeSpeed;
   -webkit-font-smoothing: antialiased;
@@ -94,7 +97,7 @@ img {
     display: inline-flex;
   }
 }
-header.category {
+header.posts-h {
   text-align: center;
   margin-bottom: 2rem;
   display: none;
@@ -387,7 +390,7 @@ html .content .post .p-header .p-author {
   }
   .sidebar-nav,
   .follow-icons,
-  header.category {
+  header.posts-h {
     display: block;
   }
   .content {
