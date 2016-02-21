@@ -34,6 +34,9 @@
 {% javascript critical %}
 {% javascript instant data-no-instant %}
 {% javascript main defer:"defer"%}
+{% if page.loadTwitterWjs %}
+  {% javascript twitter-wjs %}
+{% endif %}
 {% if include.loadSearch %}
   {% javascript search defer:"defer"%}
 {% endif %}

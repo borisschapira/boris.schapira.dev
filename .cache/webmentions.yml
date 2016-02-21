@@ -13,18 +13,27 @@ https://borisschapira.com/about/:
 - http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/
 - https://www.sylvaindurand.org/ameliorer-la-typographie-avec-jekyll/
 - http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/
-- https://www.algolia.com/
-- https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/
 - https://nodejs.org/
 - http://gulpjs.com/
 - http://www.browsersync.io/
 - https://nvbn.github.io/2015/06/19/jekyll-browsersync/
 - https://fr.wikipedia.org/wiki/Markdown
 - https://codeship.com/
+- http://rspec.info/
+- https://github.com/borisschapira/blog
+- https://github.com/gjtorikian/html-proofer
 - https://www.alwaysdata.com/
 - http://romy.tetue.net/syntaxes-legeres-pour-rediger
 - http://www.git-attitude.fr/2014/12/31/git-submodules/
 - http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/
+- https://www.filamentgroup.com/lab/font-events.html
+- http://www.growingwiththeweb.com/2014/09/making-abbr-elements-touch-accessible.html
+- https://www.algolia.com/
+- https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/
+- https://jquery.com/
+- http://twitter.github.io/hogan.js/
+- http://momentjs.com/
+- http://instantclick.io/
 - https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9/CSP
 - https://twitter.com/Nico3333fr
 - https://github.com/StevenBlack/hosts
@@ -653,8 +662,7 @@ https://borisschapira.com/2008/10/lit-au-service-du-trading/:
 - https://login.yahoo.com/config/login?.src=flickrsignin&amp;.pc=8190&amp;.scrumb=0&amp;.pd=c%3DH6T9XcS72e4mRnW3NpTAiU8ZkA--&amp;.intl=fr&amp;.lang=fr&amp;mg=1&amp;.done=https%3A%2F%2Flogin.yahoo.com%2Fconfig%2Fvalidate%3F.src%3Dflickrsignin%26.pc%3D8190%26.scrumb%3D0%26.pd%3Dc%253DJvVF95K62e6PzdPu7MBv2V8-%26.intl%3Dfr%26.done%3Dhttps%253A%252F%252Fwww.flickr.com%252Fsignin%252Fyahoo%252F%253Fredir%253D%25252Fphotos%25252Fjohnniewalker%25252F359440369%25252F
 https://borisschapira.com/2008/10/coup-de-gueule-et-petite-explication-economique/:
 - http://www.lacuisinedelibellule.fr/
-https://borisschapira.com/2008/10/le-demenagement-de-la-freebox-bye-bye-free-13/:
-- http://flickr.com/photos/transkamp/54371294/
+https://borisschapira.com/2008/10/le-demenagement-de-la-freebox-bye-bye-free-13/: []
 https://borisschapira.com/2008/11/le-plus-faible-des-hommes/: []
 https://borisschapira.com/2008/11/monsieur-vous-devez-resilier-bye-bye-free-23/: []
 https://borisschapira.com/2008/11/premiere-tache-fixer-la-date/:
@@ -699,8 +707,6 @@ https://borisschapira.com/2008/12/combien-faudra-t-il-de-morts-pour-censurer-int
 - http://www.assemblee-nationale.fr/13/cri/2008-2009/20090103.asp
 - //blog.lefigaro.fr/hightech/2008/12/quand-frederic-lefebvre-pille.html
 - http://blog.lefigaro.fr/hightech/2008/12/quand-frederic-lefebvre-pille.html
-https://borisschapira.com/2008/12/joyeux-noel-200-50-chez-lafraise/:
-- https://www.lafraise.com/
 https://borisschapira.com/2008/12/les-entretiens-de-lamf-2008-33-suivi-du-controle-dans-les-societes-cotees/:
 - //fr.wikipedia.org/wiki/Call
 - //en.wikipedia.org/wiki/Equity_swap
@@ -708,7 +714,6 @@ https://borisschapira.com/2008/12/les-entretiens-de-lamf-2008-33-suivi-du-contro
 https://borisschapira.com/2008/12/identite-utilisateurs-ideologie-un-tres-bon-article-sur-linux/:
 - https://flic.kr/p/4rSp4
 - http://www.framablog.org/index.php/post/2008/12/27/linux-influence-anciens-utilisateurs-windows
-https://borisschapira.com/2008/12/mon-beau-sapin-recolte-61400-euros/: []
 https://borisschapira.com/2008/12/voeux-2009-enfin-presque/: []
 https://borisschapira.com/2009/01/retro-il-y-a-un-an-janvier-2008/: []
 https://borisschapira.com/2009/01/dette-publique/:
@@ -723,8 +728,6 @@ https://borisschapira.com/2009/01/lepidemie/:
 - https://www.google.fr/search?q=credit+revolving
 - https://www.google.fr/search?q=surendettement
 - https://www.google.fr/search?q=emprunt+facile
-https://borisschapira.com/2009/01/mon-agenda-pour-les-techdays-j-28/:
-- http://www.microsoft.com/fr-fr/default.aspx
 https://borisschapira.com/2009/01/la-nomination-de-nkm-nest-pas-forcement-une-bonne-nouvelle/:
 - http://www.lefigaro.fr/flash-actu/2009/01/14/01011-20090114FILWWW00511-bilan-immigration-truque-et-inhumain.php
 - //blog.lefigaro.fr/hightech/2008/12/quand-frederic-lefebvre-pille.html
@@ -878,7 +881,7 @@ https://borisschapira.com/2009/05/hadopi-vote-demain-a-lassemblee/:
 - //www.laquadrature.net/fr/hadopithon-24-heures-pour-faire-entendre-sa-voix
 - http://owni.fr/2009/04/30/hadopi-et-ha-pres-les-industries-culturelle-face-a-leur-responsabilite-citoyenne/
 https://borisschapira.com/2009/05/merci-pierre-christophe-baguet/:
-- //darklg.me/2009/05/merci-michel-herbillon/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A%20darklg%20%28Darklg%20-%20Int%C3%A9gration%2C%20d%C3%A9veloppement%20web%2C%20SEO%2C%20caf%C3%A9ine%29
+- //darklg.me/2009/05/merci-michel-herbillon/
 - http://www2.assemblee-nationale.fr/decouvrir-l-assemblee/role-et-pouvoirs-de-l-assemblee-nationale/le-depute/l-election-des-deputes
 https://borisschapira.com/2009/05/lepidemie-continue/:
 - https://www.banque-france.fr/accueil.html
@@ -892,7 +895,6 @@ https://borisschapira.com/2009/05/serveur-nas-et-disques-durs-commandes/:
 - //www.ldlc.com/fiche/PB00077547.html
 - //www.ldlc.com/fiche/PB00082857.html
 - //www.teulliac.com/search/ReadyNas
-- http://www.teulliac.com/search/ReadyNas
 - http://www.lesgeeks.net/article-engeeklopedie/waf.html
 https://borisschapira.com/2009/06/retro-il-y-a-un-an-e2-80-a6-juin-2008/: []
 https://borisschapira.com/2009/06/les-photographes/: []
@@ -1892,3 +1894,14 @@ https://borisschapira.com/2016/02/juste-un-papa/:
 https://borisschapira.com/2016/02/betterback-meilleure-posture/:
 - http://getbetterback.com/
 - https://www.youtube.com/embed/hh7FRU3Qjzw
+https://borisschapira.com/2016/02/marketing-politique/:
+- https://fr.wikipedia.org/wiki/Diviser_pour_r%C3%A9gner
+- https://twitter.com/Francisdelo/status/700281351975649280
+- //platform.twitter.com/widgets.js
+- https://twitter.com/borisschapira/timelines/701154483708043264
+- http://www.arte.tv/magazine/trepalium/fr
+- https://twitter.com/borisschapira/timelines/701162053386506242
+https://borisschapira.com/2016/02/delivree/: []
+https://borisschapira.com/2016/02/madame-irma-time/:
+- http://www.irmatime.com/fr/
+https://borisschapira.com/2016/02/la-nuance/: []
