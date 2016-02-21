@@ -1,0 +1,21 @@
+/* abbr touch by Daniel Imms */
+#abbr-tooltip {
+  position: fixed;
+  top: -5em;
+  left: 0;
+  right: 0;
+  background-color: lighten($color-green, 40);
+  border-bottom: 1px solid darken($color-green,40);
+  text-align: center;
+  font-size: 1.4em;
+  padding: 1em .5em;
+  transition: bottom cubic-bezier(.73,0,.27,1) .3s;
+
+  // Layer hack to force the tooltip on to another layer
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+
+  &.visible {
+    top: 0em;
+  }
+}

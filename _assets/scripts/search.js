@@ -8,7 +8,7 @@
 //= require vendors/algoliasearch.helper.2.8.0.min
 
 // Init the search box
-$(function(config) {
+$(function (config) {
   'use strict';
 
   moment.locale('fr');
@@ -25,18 +25,18 @@ $(function(config) {
   // Input listening for queries
   var $searchInput = $('.js-algolia__input');
 
-  var delay = (function() {
+  var delay = (function () {
     var timer = 0;
-    return function(callback, ms) {
+    return function (callback, ms) {
       clearTimeout(timer);
       timer = setTimeout(callback, ms);
     };
   })();
 
-  $searchInput.on('keyup', function(){
-    delay(function() {
-				onQueryChange();
-		}, 150);
+  $searchInput.on('keyup', function () {
+    delay(function () {
+      onQueryChange();
+    }, 150);
   });
 
   // Content to hide/show when searching
@@ -55,7 +55,6 @@ $(function(config) {
     window.scroll(0, 0);
     $initialContent.addClass('algolia__initial-content--hidden');
     $searchContent.addClass('algolia__search-content--active');
-
   }
   function hideResults() {
     $initialContent.removeClass('algolia__initial-content--hidden');
@@ -83,7 +82,7 @@ $(function(config) {
   }
 
   function renderResults(data) {
-    return $.map(data.hits, function(hit) {
+    return $.map(data.hits, function (hit) {
       if (hit.posted_at) {
         hit.posted_at_readable = moment.unix(hit.posted_at).fromNow();
       }
@@ -106,7 +105,7 @@ $(function(config) {
   function scrollPageToSelector(selector) {
     var target = $('.page,.post').find(selector);
     var targetOffset = target[0].getBoundingClientRect().top + window.pageYOffset - 20;
-    window.setTimeout(function() {
+    window.setTimeout(function () {
       window.scroll(0, targetOffset);
     }, 100);
   }
@@ -125,13 +124,13 @@ $(function(config) {
   }
 
   function getParameterByName(name) {
-		name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
-		var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
-		results = regex.exec(location.search);
-		return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
-	}
+    name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+    var regex = new RegExp('[\\?&]' + name + '=([^&#]*)'),
+    results = regex.exec(location.search);
+    return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+  }
 
-  window.setTimeout(function() {
+  window.setTimeout(function () {
     var selector = getAnchorSelector(window.location.hash);
     if (selector) {
       scrollPageToSelector(selector);
@@ -143,7 +142,6 @@ $(function(config) {
     $searchInput.val(searchQuery);
     onQueryChange();
   }
-
 }({
   'applicationId': '97EL687MDM',
   'indexName': 'jekyll',
