@@ -32,7 +32,7 @@ Nos rhéteurs, habiles, savent servir un certain discours à un homme de 53 ans,
 
 ### Un imaginaire construit
 
-La politique est pourtant une compétence complexe, qui requiert à la fois des compétences pointues en économie mais aussi une bonne compréhension des mécaniques juridiques, de ce qui constitue la Culture et les Valeurs d'un pays, ainsi qu'un grand talent pédagogique et du courage pour expliquer ce qui n'est pas simple.
+La politique est pourtant une affaire complexe, qui requiert à la fois des compétences pointues en économie mais aussi une bonne compréhension des mécaniques juridiques, de ce qui constitue la culture et les valeurs d'un pays, ainsi qu'un grand talent pédagogique et du courage pour expliquer ce qui n'est pas simple.
 
 À la place, nous avons des conteurs qui nous narrent des récits faciles à assimiler. Dans la jungle des absurdités, citons par exemple :
 
@@ -42,13 +42,13 @@ La politique est pourtant une compétence complexe, qui requiert à la fois des 
 
 En ce moment, en France, on est à fond sur le "problème musulman". C'est un problème qu'on a construit de toute pièce ces quinze dernières années, en prenant les actions de quelques connards et en soulignant bien qu'ils étaient musulmans plutôt que, par exemple, des connards. Et plutôt que de mettre en place les mesures nécessaires à remettre les connards à leur place, nous avons stigmatisé les musulmans.
 
-Ce "problème" tend à nous faire simplifier une population, "les musulmans", comme on simplifierait le clivage entre jouets pour filles et jouets pour garçons. Nous sommes une catégorie, et il faudrait qu'ils soient l'autre. Peu importe que personne ne sache vraiment définir ce qu'il met derrière le mot "musulman" : origine ethnique, sociale, politique, géographique, inclination spirituelle, dogme… Le musulman est juste un nouvel "autre". Comme l'immigré, il est un "barbare" dont l'existence suffit à définir, par opposition, la nôtre.
+Ce "problème" tend à nous faire simplifier une population, "les musulmans", comme on simplifierait le clivage entre jouets pour filles et jouets pour garçons. Peu importe que personne ne sache vraiment définir ce qu'il met derrière le mot "musulman" : origine ethnique, sociale, politique, géographique, inclination spirituelle, dogme… Le musulman est juste un nouvel "autre". Comme l'immigré, il est un "barbare" dont l'existence suffit à définir, par opposition, la nôtre.[Le musulman n'est qu'un nouveau juif](/2016/02/citations/ "Citations").
 
 Mais la xénophobie n'est pas le seul schéma narratif du moment. Nous avons aussi les "fonctionnaires fainéants", la "lutte des classes", le "travail, c'est la vie" (vive [Trepalium](http://www.arte.tv/magazine/trepalium/fr)).
 
 <a class="twitter-timeline" href="https://twitter.com/borisschapira/timelines/701162053386506242" data-widget-id="701162915014057984">Trepalium</a>
 
-Ces gammes de jouets sont juste moins porteuses en ce moment. Mais notez un schéma récurrents : chacune d'entre elle est porteuse d'un schéma de lutte et de division. Ne méprenez pas mon propos, je ne remets pas en cause cete façon de voir le monde. J'adhére moi-même, et souvent instinctivement, à plusieurs d'entre elles.
+Ces gammes de jouets sont juste moins porteuses en ce moment. Mais notez un schéma récurrent : chacune d'entre elles est porteuse d'un schéma de lutte et de division. Ne méprenez pas mon propos, je ne remets pas en cause cette façon de voir le monde. J'adhére moi-même, et souvent instinctivement, à plusieurs d'entre elles.
 
 C'est juste qu'il devient très difficile de se construire sa propre vision, de retrouver son imaginaire pour **penser un autre monde, orienté vers la collaboration**.
 
