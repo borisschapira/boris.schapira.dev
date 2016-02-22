@@ -10,7 +10,7 @@ Après deux jours de lutte, nous avons finalement trouvé _Doudou bleu_, peluche
 
 <!-- more -->
 
-Vous vous rappelez [du réveil du 24](/2016/01/au-reveil/) ? Et bien disons que nôtre réaction a été un peu… virulente. Les garçons n'étant pas habitués à nous voir pousser des cris de bêtes sauvages aussi tôt le matin, ils ont compris qu'ils avaient fait une bêtise et se sont mis en tête de ranger leur chambre seuls. Ils s'en sont très bien sorti, d'ailleurs, allant jusqu'à secouer les tapis et passer le balai eux-mêmes.
+Vous vous rappelez [du réveil du 24](/2016/01/au-reveil/) ? Et bien disons que notre réaction a été un peu… virulente. Les garçons n'étant pas habitués à nous voir pousser des cris de bêtes sauvages aussi tôt le matin, ils ont compris qu'ils avaient fait une bêtise et se sont mis en tête de ranger leur chambre seuls. Ils s'en sont très bien sorti, d'ailleurs, allant jusqu'à secouer les tapis et passer le balai eux-mêmes.
 
 En revanche, depuis, c'est la panique : _Doudou bleu_ a disparu. Couchers interminables, réveils en pleine nuit… nous l'avons donc cherché : dans les bacs de jouets sous et à côté du lit, dans les paniers à linge, sous les meubles, dans les coffres, dans les sacs et corbeille, dans le bureau, du côté de la TV… rien à faire, _Doudou bleu_ semblait être parti en voyage.
 

@@ -24,7 +24,7 @@ Ensuite, j'ai réalisé un dessin sous sa dictée :
 > On peut lui mettre une barbe comme toi ?
 > Papa, on a oublié les cheveux de dessus les yeux [les sourcils] !
 
-Puis il a appris à manipuler lui-même le curser pour poser des étoiles de toutes les couleurs :
+Puis il a appris à manipuler lui-même le curseur pour poser des étoiles de toutes les couleurs :
 
 <figure>
   <a data-featherlight="image" href="/assets/images/papa/2016-01-27/2.png" title="Voir en plus grand">
@@ -33,7 +33,7 @@ Puis il a appris à manipuler lui-même le curser pour poser des étoiles de tou
   <figcaption>Martin Vidberg n'a qu'à bien se tenir, la concurrence arrive !</figcaption>
 </figure>
 
-Il a ensuite appris à dessiner lui même des traits et a décidé de réaliser son propre dessin, complètement réalisé par lui.
+Il a ensuite appris à dessiner des traits et a décidé de réaliser son propre dessin, complètement réalisé par lui.
 
 Mesdames et messieurs, j'ai l'honneur de vous présenter… <a data-featherlight="image" href="/assets/images/papa/2016-01-27/3.png">le pistolet à bonbons</a>. Je pense qu'il tient un concept :D
 
