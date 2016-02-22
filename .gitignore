@@ -8,3 +8,4 @@ _site
 rsync.sh
 _algolia_api_key
 .jekyll-assets-cache
+/tmp/
