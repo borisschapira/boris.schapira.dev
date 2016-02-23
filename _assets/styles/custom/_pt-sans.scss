@@ -3,7 +3,11 @@
   font-family: 'PT Sans';
   font-style: normal;
   font-weight: 400;
-  src: local('PT Sans'), local('PTSans-Regular'), url(/assets/fonts/pt-sans-regular.woff2) format('woff2');
+  src: local('PT Sans'), local('PTSans-Regular'), url(/assets/fonts/pt-sans-regular.woff2) format('woff2'),
+  url(/assets/fonts/pt-sans-regular.eot?#iefix) format('embedded-opentype'),
+  url(/assets/fonts/pt-sans-regular.woff) format('woff'),
+  url(/assets/fonts/pt-sans-regular.ttf) format('truetype'),
+  url(/assets/fonts/pt-sans-regular.svg#pt_sansregular) format('svg');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 /* latin */
@@ -11,6 +15,10 @@
   font-family: 'PT Sans';
   font-style: normal;
   font-weight: 700;
-  src: local('PT Sans Bold'), local('PTSans-Bold'), url(/assets/fonts/pt-sans-bold.woff2) format('woff2');
+  src: local('PT Sans Bold'), local('PTSans-Bold'), url(/assets/fonts/pt-sans-bold.woff2) format('woff2'),
+  url(/assets/fonts/pt-sans-bold.eot?#iefix) format('embedded-opentype'),
+  url(/assets/fonts/pt-sans-bold.woff) format('woff'),
+  url(/assets/fonts/pt-sans-bold.ttf) format('truetype'),
+  url(/assets/fonts/pt-sans-bold.svg#pt_sansregular) format('svg');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
