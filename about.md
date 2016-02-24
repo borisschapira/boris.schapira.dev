@@ -6,23 +6,23 @@ date: 2015-10-05 17:15:20
 
 ## <i lang="en">Me, myself & I</i>
 
-Ingénieur de formation[^1], je travaille aujourd'hui pour [Clever Age](http://www.clever-age.com/fr/ "Clever Age"). J'y accompagne mes clients lors de missions de conseil, de gestion de projets, de formation et parfois (mais de plus en plus rarement) de développements. Vous avez pu me rencontrer autour de problématiques liées au Service Design, à la Finance de Marché, à l'e-Commerce ou à la Performance Web.
+Ingénieur de formation[^1], je travaille aujourd'hui pour [Clever Age](http://www.clever-age.com/fr/ "Clever Age"). J'y accompagne mes clients lors de missions de conseil, de gestion de projets, de formation et parfois (mais de plus en plus rarement) de développements. Vous avez pu me rencontrer autour de problématiques liées au Service Design, à la Finance de Marché, à l'e-Commerce, à la Performance Web ou au choix d'une solution référentielle (<abbr lang="en" title="Content Management System">CMS</abbr>, <abbr lang="en" title="Digital Asset Management">DAM</abbr>, <abbr lang="en" title="Online Video Platform">OVP</abbr>) ou logicielle (choix d'un <i lang="en">framework</i>).
 
-J'enseigne à [Ingésup Bordeaux](http://www.ingesup.com/ "Ingesup") mais je serais aussi ravi de [venir discuter avec vous contre un sandwich](http://www.brownbaglunch.fr/baggers.html#Boris_Schapira_Bordeaux "BrownBagLunch France"). Vous pouvez m'avoir croiser dans plusieurs conférences de Barcelone à Paris, mais ma petite préférence reste [Sud Web](http://sudweb.fr/ "SudWeb.fr").
+Je suis convaincu que le partage de l'information est bénéfique à tous. J'enseigne à [Ingésup Bordeaux](http://www.ingesup.com/ "Ingesup") mais je serais aussi ravi de [venir discuter avec vous contre un sandwich](http://www.brownbaglunch.fr/baggers.html#Boris_Schapira_Bordeaux "BrownBagLunch France"). Vous pouvez m'avoir croisé dans plusieurs conférences, de Barcelone à Paris, mais ma petite préférence reste [Sud Web](http://sudweb.fr/ "SudWeb.fr").
 
-J'aime comprendre les problématiques de mes clients sans leur imposer celles des développeurs (et réciproquement). Je ne rechigne pas contre une chocolatine le matin, une pizza à midi et un énorme câlin avec mes deux garçons et ma femme le soir. Je n'aime pas les discussions qui n'avancent pas, les processus qui les favorisent et les choux-fleurs.
+J'aime comprendre les problématiques de mes clients sans leur imposer celles des développeurs (et réciproquement). Je ne rechigne pas contre une chocolatine le matin, une pizza à midi et un énorme câlin avec mes deux garçons et ma femme le soir. Je n'aime pas les discussions qui n'avancent pas, les processus qui les favorisent et les choux fleurs.
 
 [^1]: Mon CV complet est disponible [sur LinkedIn](https://www.linkedin.com/in/borisschapira CV de Boris SCHAPIRA sur LinkedIn")
 
 ## Mentions légales
 
-Je suis le principal auteur et l'unique responsable des contenus publiés sur ce site. En revanche, les marques citées sur ce site sont propriétaires des sociétés qui les ont déposé. L’ensemble de ce site est soumis au droit français.
+Je suis le principal auteur et l'unique responsable des contenus publiés sur ce site. En revanche, les marques citées sur ce site sont propriétaires des sociétés qui les ont déposés. L’ensemble de ce site est soumis au droit français.
 
 Les points de vue et opinions exprimés sur ce blog n'engagent que moi, et en aucun cas mes employeurs ou clients, mon hébergeur ou toute autre personne physique ou morale.
 
-## Sous le capôt
+## Sous le capot
 
-Consultant en Web Performance depuis quelques années, j'ai décidé un jour de ne pas être le cordonnier mal chaussé. Depuis, dans une saine compétition avec mon collègue [Nicolas Hoizey](http://nicolas-hoizey.com/), je n'ai de cesse d'en améliorer [les temps de réponse](http://www.webpagetest.org/testlog.php?days=365&filter=borisschapira.com&all=on "Tests de performance WebPageTest lancés sur ce site"). 
+Consultant en Web Performance depuis quelques années, j'ai décidé un jour de ne pas être le cordonnier mal chaussé. Depuis, dans une saine compétition avec mon collègue [Nicolas Hoizey](http://nicolas-hoizey.com/), je n'ai de cesse d'en améliorer [les temps de réponse](http://www.webpagetest.org/testlog.php?days=365&filter=borisschapira.com&all=on "Tests de performance WebPageTest lancés sur ce site").
 
 ### Côté serveur
 
@@ -36,9 +36,9 @@ Ce site est généré via [Jekyll](https://jekyllrb.com/), un générateur de si
 
 [^2]: La technique de localisation est détaillée dans le [guide de démarrage Jekyll de Thomas Brelet](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/#localiser-jekyll).
 
-La durée de lecture est calculée en considérant une vitesse de lecture moyenne de {{ site.reading_speed }} mots par minute. Votre vitesse de lecture est probablement différente[^rs], ce n'est qu'indicatif. 
+La durée de lecture est calculée en considérant une vitesse de lecture moyenne de {{ site.reading_speed }} mots par minute. Votre vitesse de lecture est probablement différente[^rs], ce n'est qu'indicatif.
 
-[^rs]: la mienne est d'un peu plus de {{ site.author.reading_speed_fr }} mots en français et de {{ site.author.reading_speed_en }} en anglais (à plus de 80 % de rétention, sinon ça ne compte pas). 
+[^rs]: la mienne est d'un peu plus de {{ site.author.reading_speed_fr }} mots en français et de {{ site.author.reading_speed_en }} en anglais (à plus de 80 % de rétention, sinon ça ne compte pas).
 
 Jekyll ayant tendance à produire du code HTML très "aéré" et aucun moteur de rendu Markdown ne m'ayant convaincu quant à sa capacité à traité certaines spécificités typographiques françaises, j'ai mis en place un script de remplacement et de compression, libre adaptation de [ce tutoriel de Sylvain Durand](https://www.sylvaindurand.org/ameliorer-la-typographie-avec-jekyll/ "Améliorer la typographie avec Jekyll"). De plus, Jekyll ne semble pas proposer de syntaxe simple pour la navigation précédent/suivant au sein d'une même catégorie, j'utilise donc [ce plugin d'Adams Clarkson](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/ "Jekyll Post Navigation Within a Category").
 
@@ -62,12 +62,12 @@ Si tout se passe bien, alors le site se retrouve en Production. Pour en réduire
 
 ### Côté Client
 
-Le chargement des polices privilégie la vitesse en affichant une première version avant qu'elles soient disponibles puis une seconde version une fois les polices chargées, sans clignottement au remplacement[^font].
+Le chargement des polices privilégie la vitesse en affichant une première version avant qu'elles soient disponibles puis une seconde version une fois les polices chargées, sans clignotement au remplacement[^font].
 
 [^font]: Les [articles du Filament Group sur le chargement des polices](https://www.filamentgroup.com/lab/font-events.html) sont de très bonnes références si le sujet vous intéresse.
 
-Une partie de mon code CSS et JS est dédiée à l'accessibilité et j'essaie également de contribuer de manière responsable, pour être le plus inclusif possible à la fois envers les personnes, mais aussi envers les contextes (par exemple, j'utilise la librairie [abbr-touch](http://www.growingwiththeweb.com/2014/09/making-abbr-elements-touch-accessible.html) pour permettre aux personnes en situation de mobilité de visualiser la définition d'une abbréviation ou d'un acronyme.
- 
+Une partie de mon code CSS et JS est dédiée à l'accessibilité et j'essaie également de contribuer de manière responsable, pour être le plus inclusif possible à la fois envers les personnes, mais aussi envers les contextes (par exemple, j'utilise la librairie [abbr-touch](http://www.growingwiththeweb.com/2014/09/making-abbr-elements-touch-accessible.html) pour permettre aux personnes en situation de mobilité de visualiser la définition d'une abréviation ou d'un acronyme.
+
 La recherche instantanée est le fruit du branchement du site sur [Algolia](https://www.algolia.com/), une solution très performante d'indexation et de recherche côté client qui a le mérite de proposer un [exemple d'implémentation pour Jekyll](https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/ "Add instant search to your blog or documentation using our Jekyll plugin") qui cadrait parfaitement avec mon besoin. Il faudra néanmoins que je repasse dessus car le code JavaScript nécessaire me semble un peu complexe ([jQuery](https://jquery.com/), [Hogan](http://twitter.github.io/hogan.js/), [MomentJs](http://momentjs.com/)… je dois pouvoir faire plus simple).
 
 J'ai ajouté au site [InstantClick](http://instantclick.io/), une librairie JavaScript qui augmente considérablement la vitesse perçue en préchargement les pages internes au survol des liens, donnant l'impression à l'utilisateur que l'ensemble du site est préchargé, comme dans une application web <i lang="en">single page</i>.
@@ -76,6 +76,6 @@ Afin de contrôler ce qui se passe sur mon site (notamment pour détecter des te
 
 [^7]: Merci à [Nicolas Hoffman](https://twitter.com/Nico3333fr) de m'avoir sensibilisé à cette problématique durant [sa présentation à Paris Web 2015](http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/ "CSP: Content Security Policy").
 
-Parce que je suis curieux, j'ai installé Google Analytics. Je suis conscient que certains d'entre vous veulent un peu d'intimité. Je vous encourage, dans ce cas, à faire comme moi : bloquer l'ensemble des domaines auxquels vous ne souhaitez pas faire confiance, au sein de votre navigateur ou ailleurs sur votre machine. Ça passe par la manipulation de votre fichier `hosts` et il y a des scripts pour automatiser tout ça[^6]. Enfin, contraitement aux <i lang="en">ads blockers</i>, c'est transparent en performance.
+Parce que je suis curieux, j'ai installé Google Analytics. Je suis conscient que certains d'entre vous veulent un peu d'intimité. Je vous encourage, dans ce cas, à faire comme moi : bloquer l'ensemble des domaines auxquels vous ne souhaitez pas faire confiance, au sein de votre navigateur ou ailleurs sur votre machine. Ça passe par la manipulation de votre fichier `hosts` et il y a des scripts pour automatiser tout ça[^6]. Enfin, contrairement aux <i lang="en">ads blockers</i>, c'est transparent en performance.
 
 [^6]: J'utilise pour ma part les [scripts de blocage de domaines de Steven Black](https://github.com/StevenBlack/hosts).
