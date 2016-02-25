@@ -1,0 +1,1 @@
+load 'tasks/webmention.rake'

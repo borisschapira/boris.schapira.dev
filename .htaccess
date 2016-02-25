@@ -471,11 +471,13 @@ Header set Content-Security-Policy "default-src 'none'; manifest-src 'self'; fon
 # | XSS & CLICKJACKING                                                         |
 # ------------------------------------------------------------------------------
 
+# If you want to deny iFrames, add
+# Header always set X-FRAME-OPTIONS "DENY"
+
 <IfModule mod_headers.c>
 Header set X-XSS-Protection "1; mode=block"
 Header always set X-Content-Type-Options "nosniff"
 Header set X-UA-Compatible "IE=Edge"
-Header always set X-FRAME-OPTIONS "DENY"
 </IfModule>
 
 # Protect the .htaccess
