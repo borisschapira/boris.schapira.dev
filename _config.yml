@@ -57,6 +57,7 @@ gems:
   - jekyll-paginate
   - octopress-autoprefixer
   - octopress-debugger
+  - jemoji
 
 # Build settings
 markdown: kramdown
@@ -151,3 +152,6 @@ responsive_image:
   #   %{height}      Height of the resized image
   #
   output_path_format: assets/resized/%{dirname}/%{width}/%{basename}
+
+emoji:
+  src: "/assets"

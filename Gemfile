@@ -20,4 +20,5 @@ group :jekyll_plugins do
   gem 'octopress-autoprefixer'
   gem 'octopress-debugger'
   gem 'jekyll-compose'
+  gem 'jemoji'
 end
