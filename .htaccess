@@ -342,8 +342,23 @@ RewriteRule . %1/%2 [R=301,L]
 FileETag None
 
 # ------------------------------------------------------------------------------
-# | Expires headers (for better cache control)                                 |
+# | Expires headers (and cache control)                                 |
 # ------------------------------------------------------------------------------
+
+<ifmodule mod_headers.c>
+  <filesmatch "\\.(ico|jpe?g|png|gif|swf|gz|ttf)$">
+    Header set Cache-Control "max-age=2592000, public"
+  </filesmatch>
+  <filesmatch "\\.(css)$">
+    Header set Cache-Control "max-age=2592000, public"
+  </filesmatch>
+  <filesmatch "\\.(js)$">
+    Header set Cache-Control "max-age=2592000, private"
+  </filesmatch>
+  <filesmatch "\\.(html|htm)$">
+    Header set Cache-Control "max-age=7200, public"
+  </filesmatch>
+</ifmodule>
 
 # The following expires headers are set pretty far in the future. If you don't
 # control versioning with filename-based cache busting, consider lowering the
