@@ -1,15 +1,27 @@
 ---
 https://borisschapira.com/404.html: []
-https://borisschapira.com/about/:
+https://borisschapira.com/papa/feed.xml: []
+https://borisschapira.com/feed.xml:
+- http://www.w3.org/2005/Atom
+https://borisschapira.com/citoyen/feed.xml: []
+https://borisschapira.com/citoyen/: []
+https://borisschapira.com/: []
+https://borisschapira.com/papa/: []
+https://borisschapira.com/about/me/:
 - http://www.clever-age.com/fr/
+- https://www.linkedin.com/in/borisschapira
 - http://www.ingesup.com/
 - http://www.brownbaglunch.fr/baggers.html
 - http://sudweb.fr/
-- https://www.linkedin.com/in/borisschapira
+https://borisschapira.com/about/: []
+https://borisschapira.com/search/: []
+https://borisschapira.com/about/the-blog/:
 - http://nicolas-hoizey.com/
 - http://www.webpagetest.org/testlog.php?days=365&filter=borisschapira.com&all=on
+- https://github.com/hexojs/hexo
 - https://jekyllrb.com/
 - http://bundler.io/
+- https://github.com/borisschapira/jekyll/blob/master/Gemfile
 - http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/
 - https://www.sylvaindurand.org/ameliorer-la-typographie-avec-jekyll/
 - http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/
@@ -37,14 +49,6 @@ https://borisschapira.com/about/:
 - https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9/CSP
 - https://twitter.com/Nico3333fr
 - https://github.com/StevenBlack/hosts
-https://borisschapira.com/citoyen/feed.xml: []
-https://borisschapira.com/feed.xml:
-- http://www.w3.org/2005/Atom
-https://borisschapira.com/papa/feed.xml: []
-https://borisschapira.com/papa/: []
-https://borisschapira.com/citoyen/: []
-https://borisschapira.com/: []
-https://borisschapira.com/search/: []
 https://borisschapira.com/2005/01/test-typo/:
 - //coucou
 https://borisschapira.com/2006/08/petits-utilitaires-du-quotidien-sous-xp/: []
@@ -853,12 +857,27 @@ https://borisschapira.com/2009/04/rejet-dhadopi-faut-il-se-rejouir/:
 - //vidberg.blog.lemonde.fr/2009/04/09/mais-que-faisaient-les-deputes-de-la-majorite/
 https://borisschapira.com/2009/04/quel-disque-choisir/:
 - http://www.teulliac.com/killzone-2-sinvite-au-sony-style-store/
+https://borisschapira.com/2009/04/les-kits-pour-certification-microsoft/:
+- http://www.microsoft.com/france/formation/cert/default.mspx
+- http://www.amazon.fr/bases-d%C3%A9veloppement-dapplications-avec-NET/dp/2100506161/ref=sr_1_1?ie=UTF8&s=books&qid=1236176048&sr=8-1
+- http://www.amazon.fr/MCTS-Self-Paced-Training-Exam-70-536/dp/0735622779/ref=sr_1_3?ie=UTF8&s=english-books&qid=1236176048&sr=8-3
+- http://www.amazon.com/MCTS-Self-Paced-Training-Exam-70-536/dp/0735622779/ref=sr_1_1?ie=UTF8&s=books&qid=1236176209&sr=1-1
+- http://www.amazon.com/Self-Paced-Training-70-536-70-528-70-547/dp/0735623767/ref=sr_1_2?ie=UTF8&s=books&qid=1236176209&sr=1-2
 https://borisschapira.com/2009/05/retro-il-y-a-un-an-e2-80-a6-mai-2008/: []
 https://borisschapira.com/2009/05/carrington-blog-20-fr/:
 - http://crowdfavorite.com/
 - http://poedit.net/download
 - https://codeload.github.com/borisschapira/wordpress-theme-carring-tonBlog2Fr/zip/master
 - http://theme.co/x/
+https://borisschapira.com/2009/05/silverlight-pour-mac-moonlight-pour-linux/:
+- http://tirania.org/blog/
+- http://www.go-mono.com/moonlight/
+- http://tirania.org/blog/archive/2009/May-04.html
+- http://blogs.msdn.com/clauer/archive/2009/01/08/screencast-installation-de-moonlight-sur-linux-en-seulement-quelques-clics.aspx
+- http://arstechnica.com/open-source/news/2009/01/obama-inauguration-shines-on-linux-too-with-moonlight.ars
+- http://www.apple.com/downloads/macosx/development_tools/silverlight.html
+- http://www.eclipse4sl.org/blog/uncategorized/announcing-eclipse4sl-technology-preview-for-macintosh-platform/
+- http://blogs.msdn.com/SublimaCtion/
 https://borisschapira.com/2009/05/hadopi-vote-demain-a-lassemblee/:
 - //stanetdam.com/2009/04/29/les-points-sensibles-de-la-loi-hadopi/
 - //blog.lefigaro.fr/hightech/2009/04/hadopi-faudra-t-il-aussi-surve.html
@@ -899,6 +918,8 @@ https://borisschapira.com/2009/05/serveur-nas-et-disques-durs-commandes/:
 https://borisschapira.com/2009/06/retro-il-y-a-un-an-e2-80-a6-juin-2008/: []
 https://borisschapira.com/2009/06/les-photographes/: []
 https://borisschapira.com/2009/06/et-les-livres-pirates/: []
+https://borisschapira.com/2009/06/problem-steps-recorder-psr-outil-de-support-sous-windows-seven/:
+- http://fr.wikipedia.org/wiki/Recette_(informatique
 https://borisschapira.com/2009/06/les-5-contre-verite-des-iphone-addicts/: []
 https://borisschapira.com/2009/06/2013-en-direct-de-la-fourgonnette/:
 - http://www.20minutes.fr/france/331937-20090611-hadopi-franck-riester-veut-creer-juges-specialises
@@ -918,6 +939,11 @@ https://borisschapira.com/2009/07/travail-dominical-sur-ordre-du-president/:
 - http://www.maitre-eolas.fr/
 https://borisschapira.com/2009/07/derive-anti-democratique/:
 - http://www.authueil.org/?2009/01/16/1177-le-temps-de-la-deliberation
+https://borisschapira.com/2009/07/mono-les-manchots-nont-rien-a-craindre/:
+- http://www.microsoft.com/interop/cp/default.mspx
+- http://www.ecma-international.org/publications/standards/Ecma-334.htm
+- http://www.ecma-international.org/publications/standards/Ecma-335.htm
+- http://twitter.com/CLaueR/status/2511453056
 https://borisschapira.com/2009/07/phrases-insolites-e2-80-a6-14/: []
 https://borisschapira.com/2009/07/video-xbox-natal-project-milo/: []
 https://borisschapira.com/2009/07/maries/: []
@@ -936,6 +962,8 @@ https://borisschapira.com/2009/07/facebook-a-dit-il-va-bien/:
 - http://tempsreel.nouvelobs.com/politique/20090729.OBS5783/nicolas-sarkozy-ma-sante-est-bonne-mais-il-faut-que-je-me-repose.html
 - http://www.dailymotion.com/video/x3ebmm_le-portable-de-nicolas-sarkozy
 - http://www.zdnet.fr/actualites/les-internautes-anglophones-davantage-victimes-de-vol-d-identite-39384348.htm
+https://borisschapira.com/2009/07/powershell-2-0-rtm/:
+- http://blogs.technet.com/powershell/archive/2009/07/28/windows-powershell-2-0-est-rtm.aspx
 https://borisschapira.com/2009/08/retro-il-y-a-un-an-e2-80-a6-aout-2008/: []
 https://borisschapira.com/2009/08/comment-gerer-plusieurs-wordpress/:
 - http://korben.info/comment-mettre-a-jour-plusieurs-wordpress-en-une-seule-fois.html
@@ -946,6 +974,10 @@ https://borisschapira.com/2009/08/bonus-trading-deux-pdf-pour-mieux-comprendre/:
 - http://www.cerna.ensmp.fr
 - //olivier.godechot.free.fr/hopfichiers/Godechot_CAE_Bonus_risque.pdf
 - http://olivier.godechot.free.fr/hoprubrique.php?id_rub=21
+https://borisschapira.com/2009/08/une-application-net-sur-iphone/:
+- http://www.mono-project.com/MonoTouch
+- http://msdn.microsoft.com/fr-fr/library/ms172192.aspx
+- http://www.mono-project.com/MonoTouch_Beta
 https://borisschapira.com/2009/08/changement-de-statut-de-la-poste-des-craintes-plus-ou-moins-justifiees/:
 - //lespriviliegiesparlent.blogspot.com/2009/08/le-changement-de-statut-de-la-poste-bon.html
 - //unclavesien.blogspot.com/2009/07/pour-un-referendum-populaire-sur-la.html
@@ -979,6 +1011,7 @@ https://borisschapira.com/2009/09/retrouvez-moi-le-6-octobre-aux-ms-days/:
 - https://twitter.com/borisschapira
 https://borisschapira.com/2009/09/rencontre-avec-le-geneticien-spencer-wells/: []
 https://borisschapira.com/2009/09/budget-2010-et-litanie-sur-la-dette-publique/: []
+https://borisschapira.com/2009/09/le-virus-du-developpeur/: []
 https://borisschapira.com/2009/10/retro-il-y-a-un-an-e2-80-a6-octobre-2008/: []
 https://borisschapira.com/2009/10/nexdotnet/:
 - http://www.nexeo.fr/
@@ -989,8 +1022,14 @@ https://borisschapira.com/2009/10/nexdotnet/:
 - http://nexdotnet.nexeo.fr/2009/08/10/lastuce-du-jour-rendre-msdn-lisible/
 - http://nexdotnet.nexeo.fr/2009/08/08/lastuce-du-jour-mettre-votre-code-cvb-net-en-forme/
 - http://nexdotnet.nexeo.fr/2009/08/06/free-ebook-mastering-powershell/
+https://borisschapira.com/2009/10/linqpad/:
+- http://wilfriedwoivre.wordpress.com/2009/09/18/linqpad-lditeur-linq-par-excellence/
+- http://linqpad.net/
 https://borisschapira.com/2009/10/phrases-insolites-e2-80-a6-15/:
 - http://desencyclopedie.wikia.com/wiki/Echelle_Trehorel
+https://borisschapira.com/2009/10/thread-threadpool/:
+- http://fr.wikipedia.org/wiki/Processus_l%C3%A9ger
+- http://blogs.codes-sources.com/vko/archive/2009/09/16/thread-ou-threadpool.aspx
 https://borisschapira.com/2009/10/retour-des-microsoft-days-2009/:
 - //www.microsoft.com/france/microsoft-days/
 - //www.nexeo.fr/
@@ -1046,6 +1085,11 @@ https://borisschapira.com/2009/11/les-10-lois-geeks-en-france/:
 - http://web.archive.org/web/20131102064716///www.wired.com:80/geekdad/2009/11/10-geeky-laws-that-should-exist-but-dont/
 https://borisschapira.com/2009/11/8-choses-que-vous-ne-savez-pas-sur-mme-schapira/: []
 https://borisschapira.com/2009/11/communautar-r-us/: []
+https://borisschapira.com/2009/11/entrees-distinctes-et-datatable/:
+- http://blogs.dotnet-france.com/juliend/post/MonoTouch-Votre-premiere-application-NET-pour-IPhone.aspx
+- http://wilfriedwoivre.wordpress.com/2009/10/01/trucs-et-astuces-le-dbuggeur-visual-studio/
+- http://tomlev.wordpress.com/2009/10/06/c-4-0-implementer-un-objet-dynamique-personnalise/
+- http://blogs.developpeur.org/tom/archive/2009/09/17/wpf-des-exemples-sur-l-extensibilit-des-designers-silverlight-wpf-dans-visual-studio-2010-beta-2.aspx
 https://borisschapira.com/2009/11/bitdefender-internet-security-2010/: []
 https://borisschapira.com/2009/12/nicolas-sarkozy-le-monde-et-les-musulmans/:
 - http://www.lemonde.fr/idees/article/2009/12/08/m-sarkozy-respecter-ceux-qui-arrivent-respecter-ceux-qui-accueillent_1277422_3232.html
@@ -1055,6 +1099,7 @@ https://borisschapira.com/2009/12/marietta-karamanli-identite-nationale/:
 - //blogs.mediapart.fr/blog/mathilde-mathieu
 - http://blogs.mediapart.fr/blog/mathilde-mathieu/111209/moi-deputee-francaise-etrangere-pendant-la-moitie-de-ma-vie
 - http://2007-2012.nosdeputes.fr/seance/3100
+https://borisschapira.com/2009/12/mono-is-feature-complete/: []
 https://borisschapira.com/2009/12/phrases-insolites-e2-80-a6-17/: []
 https://borisschapira.com/2009/12/les-entretiens-de-lamf-2009/: []
 https://borisschapira.com/2009/12/xbrl-pour-lechange-de-donnees-financieres/:
@@ -1905,3 +1950,47 @@ https://borisschapira.com/2016/02/delivree/: []
 https://borisschapira.com/2016/02/madame-irma-time/:
 - http://www.irmatime.com/fr/
 https://borisschapira.com/2016/02/la-nuance/: []
+https://borisschapira.com/2016/02/amp-bookmarklet/:
+- http://blog.clever-age.com/fr/2016/02/08/amp-project-booste-le-chargement-des-pages-web/
+- https://gist.github.com/borisschapira/f240f1db4490e5902af0
+https://borisschapira.com/2016/02/jekyll-codeship/:
+- http://nicolas-hoizey.com/
+- http://www.webpagetest.org/testlog.php?days=365&filter=borisschapira.com&all=on
+- https://github.com/hexojs/hexo
+- https://jekyllrb.com/
+- http://bundler.io/
+- https://github.com/borisschapira/jekyll/blob/master/Gemfile
+- http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/
+- https://www.sylvaindurand.org/ameliorer-la-typographie-avec-jekyll/
+- http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/
+- https://nodejs.org/
+- http://gulpjs.com/
+- http://www.browsersync.io/
+- https://nvbn.github.io/2015/06/19/jekyll-browsersync/
+- https://fr.wikipedia.org/wiki/Markdown
+- https://codeship.com/
+- http://rspec.info/
+- https://github.com/borisschapira/blog
+- https://github.com/gjtorikian/html-proofer
+- https://www.alwaysdata.com/
+- http://romy.tetue.net/syntaxes-legeres-pour-rediger
+- http://www.git-attitude.fr/2014/12/31/git-submodules/
+- http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/
+- https://www.filamentgroup.com/lab/font-events.html
+- http://www.growingwiththeweb.com/2014/09/making-abbr-elements-touch-accessible.html
+- https://www.algolia.com/
+- https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/
+- https://jquery.com/
+- http://twitter.github.io/hogan.js/
+- http://momentjs.com/
+- http://instantclick.io/
+- https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9/CSP
+- https://twitter.com/Nico3333fr
+- https://github.com/StevenBlack/hosts
+https://borisschapira.com/2016/02/revenu-de-base/:
+- http://magazine.ouishare.net/fr/2016/02/les-secrets-bien-gardes-du-revenu-universel/
+- http://www.lemonde.fr/les-decodeurs/article/2016/02/24/les-chomeurs-ne-sont-pas-responsables-du-deficit-et-de-la-dette-de-l-assurance-chomage_4870857_4355770.html
+- http://www.controverses-minesparistech-4.fr/~groupe16/
+- http://www.controverses-minesparistech-4.fr/~groupe16/2015/06/01/en-bref/
+- http://rue89bordeaux.com/2015/12/le-revenu-de-base-dans-laccord-ps-eelv-pour-la-region/
+- https://www.youtube.com/embed/z9N0v4UGFHo?list=PLkzjbW_sNXE_fywK-iKQ0HJF_DcMRQTNG
