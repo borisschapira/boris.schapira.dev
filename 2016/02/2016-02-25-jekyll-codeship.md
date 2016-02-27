@@ -58,7 +58,7 @@ Si cette étape d'intégration est valide et que le code est bien contribué sur
 
 [^4]: Ne ratez pas cette [présentation complète des submodules git par Christophe Porteneuve](http://www.git-attitude.fr/2014/12/31/git-submodules/)
 
-Si tout se passe bien, alors le site se retrouve en Production. Pour en réduire la surface d'attaque par injection de code côté client, j'utilise les <i lang="en">Content Security Policies</i> en mode "bloquant", après les avoir utilisé pendant longtemps en mode "rapport". Si la problématique vous intéresse, je vous conseille [la lecture de ses slides lors de Paris Web 2015](http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/#/ "Content Security Policy, Nicolas Hoffmann, Paris Web 2015").
+Si tout se passe bien, alors le site se retrouve en Production.
 
 ### Côté Client
 
