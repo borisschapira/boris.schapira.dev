@@ -1,3 +1,2 @@
-export JEKYLL_ENV=developpement
-
-bundle exec jekyll serve --limit_posts 10 --host 0.0.0.0 --incremental --drafts --future
+#!/bin/bash
+JEKYLL_ENV=developpement bundle exec rake build:preview

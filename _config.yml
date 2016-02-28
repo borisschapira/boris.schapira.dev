@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Exclusions
-exclude: ["Gemfile", "Gemfile.lock", "vendor", "node_modules", "scripts", "autoprefixer.yml", "LICENSE.md", "README.md", "scripts", "webmention.Rakefile", "spec"]
+exclude: ["Gemfile", "Gemfile.lock", "vendor", "node_modules", "scripts", "autoprefixer.yml", "LICENSE.md", "README.md", "scripts", "webmention.Rakefile", "spec", "Rakefile"]
 include: [".well-known", ".htaccess"]
 
 # Site settings
@@ -20,6 +20,7 @@ url: "https://borisschapira.com"
 lang: fr
 timezone: Europe/Paris
 mainColor: '#d00b6d'
+incremental: true
 
 # Author
 name: 'Boris Schapira'
@@ -64,9 +65,6 @@ markdown: kramdown
 kramdown:
   hard_wrap: true
 
-webmention:
-  api_key: "0Tri1ghLmt5bSIyEwnkdGg"
-
 jekyll-archives:
   enabled:
     - "year"
@@ -77,30 +75,6 @@ jekyll-archives:
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
-
-algolia:
-  application_id: '97EL687MDM'
-  index_name: 'jekyll'
-  read_only_api_key: '45e74dfb46facf8ee7f3038c305a9a7e'
-  excluded_files:
-    - 404.html
-    - index.html
-  settings:
-    attributesToIndex:
-      - title
-      - h1
-      - h2
-      - h3
-      - h4
-      - h5
-      - h6
-      - unordered(text)
-      - unordered(slug)
-
-# Tagging
-# tag_page_layout: tag
-# tag_page_dir: tags
-# tag_permalink_style: pretty
 
 # Pagination
 paginate: 20
@@ -155,3 +129,25 @@ responsive_image:
 
 emoji:
   src: "/assets"
+
+webmention:
+  api_key: "0Tri1ghLmt5bSIyEwnkdGg"
+
+algolia:
+  application_id: '97EL687MDM'
+  index_name: 'jekyll'
+  read_only_api_key: '45e74dfb46facf8ee7f3038c305a9a7e'
+  excluded_files:
+    - 404.html
+    - index.html
+  settings:
+    attributesToIndex:
+      - title
+      - h1
+      - h2
+      - h3
+      - h4
+      - h5
+      - h6
+      - unordered(text)
+      - unordered(slug)

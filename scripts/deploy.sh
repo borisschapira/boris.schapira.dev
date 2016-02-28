@@ -1,1 +1,2 @@
-rsync --delete --exclude .ssh -zvclrOt -e "ssh" _site/. borisschapira_codeship@ssh-borisschapira.alwaysdata.net:/home/borisschapira/www/jekyll
+#!/bin/bash
+JEKYLL_ENV=production bundle exec rake build:deploy

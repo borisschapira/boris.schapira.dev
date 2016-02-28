@@ -1,1 +1,2 @@
-bundle exec htmlproof ./_site  --disable-external --empty-alt-ignore true
+#!/bin/bash
+JEKYLL_ENV=production bundle exec rake postbuild:test:test_generated
