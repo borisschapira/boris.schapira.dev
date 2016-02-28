@@ -20,7 +20,7 @@ exclude:
 include:
   - ".well-known"
   - ".htaccess"
-  
+
 # Site settings
 name: 'Boris Schapira'
 title: 'Boris Schapira'
@@ -143,12 +143,12 @@ emoji:
   src: "/assets"
 
 webmention:
-  api_key: "0Tri1ghLmt5bSIyEwnkdGg"
+  api_key: "…"
 
 algolia:
-  application_id: '97EL687MDM'
-  index_name: 'jekyll'
-  read_only_api_key: '45e74dfb46facf8ee7f3038c305a9a7e'
+  application_id: '…'
+  index_name: '…'
+  read_only_api_key: '…'
   excluded_files:
     - 404.html
     - index.html
