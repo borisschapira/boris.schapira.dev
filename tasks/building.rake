@@ -3,7 +3,7 @@ namespace :build do
   # Use: rake clean
   desc "Clean Jekyll build"
   task :clean do
-#    cleanup
+    cleanup
   end
 
   desc 'Preview on local machine (server with --auto)'
