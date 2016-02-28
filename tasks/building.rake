@@ -72,3 +72,5 @@ namespace :build do
   end
 
 end
+
+task :build => "build:preview"

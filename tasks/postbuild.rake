@@ -4,20 +4,57 @@ require "json"
 require "yaml"
 
 namespace :postbuild do
+
+  task :test => ["test:posts", "test:kiss"]
+
   namespace :test do
 
     # Use: rake clean
     desc "Test source content and generated result"
-    task :all => [:test_content, :test_generated]
+    task :default => [:posts, :kiss]
 
-    desc "desc1"
-    task :test_content => :environment do
-      sh 'rspec --format doc'
+    desc "Test if content Front-Matter is YAML-valid"
+    task :posts do
+      @posts = []
+      Dir.glob('_posts/**/*.{md,markdown}').each do |p|
+          @posts << p
+      end
+      @posts.each do |post|
+        begin
+          YAML.load_file(post)
+        rescue Exception => e
+          puts post
+          puts e.message
+          raise "Post syntax is not valid"
+        end
+      end
+      puts "#{@posts.size} valid posts"
     end
 
-    desc "desc2"
-    task :test_generated => :environment do
+    desc "Test if generated website is valid (do not test external links)"
+    task :kiss do
       sh 'htmlproof ./_site  --disable-external --empty-alt-ignore true'
+    end
+
+    desc "Test the generated website external links"
+    task :externals do
+      sh 'htmlproof ./_site --empty-alt-ignore true'
+    end
+
+    desc "Test the generated website alt messages on images"
+    task :alt do
+      sh 'htmlproof ./_site  --disable-external'
+    end
+
+  end
+
+  namespace :search do
+
+    desc 'Index content for search (Algolia)'
+    task :index, [:env] do |t, args|
+      args.with_defaults(:env => 'prod')
+      config_file = "_config_#{args[:env]}.yml"
+      sh "jekyll algolia push --config _config.yml,#{config_file}"
     end
 
   end

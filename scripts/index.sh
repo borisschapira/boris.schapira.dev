@@ -1,3 +1,2 @@
-export JEKYLL_ENV=production;
-
-bundle exec jekyll algolia push;
+#!/bin/bash
+JEKYLL_ENV=production bundle exec rake postbuild:search:index

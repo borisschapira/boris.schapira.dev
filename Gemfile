@@ -6,7 +6,6 @@ gem 'i18n'
 group :jekyll_tests do
   gem 'ffi', :github => 'ffi/ffi', :branch => 'elcapt'
   gem 'html-proofer'
-  gem 'rspec'
 end
 
 group :jekyll_plugins do
