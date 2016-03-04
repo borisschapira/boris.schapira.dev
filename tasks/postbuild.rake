@@ -14,7 +14,7 @@ namespace :postbuild do
     matchdata = text.match(/^deploy_dir: (.*)$/)
     if matchdata
       deploy_dir = matchdata[1]
-      sh "rsync --delete --exclude .ssh -zvclrOt -e ssh _site/ #{deploy_dir}"
+      sh "rsync --delete-after --exclude .ssh -crvzlOt -e ssh _site/ #{deploy_dir}"
       time = Time.new
       File.open("_last_deploy.txt", 'w') {|f| f.write(time) }
     else

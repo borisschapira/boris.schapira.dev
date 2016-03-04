@@ -24,13 +24,15 @@ Je suis convaincu que le partage de l'information est bénéfique à tous : j'en
 
 Il y a plusieurs sujets dont j'aimerai parler : si cela vous intéresse aussi, parlons-en et organisons des conférences ensemble.
 
-### Être père, ma meilleure expérience professionnelle
+### Mon pire client a 5 ans
 
-Devenir Papa a profondément changer la vision que j'avais de mon métier et de moi même. Être un bon père est un défi de chaque jour qui fait de moi une meilleure personne et m'apporte énormément dans mes responsabilités de consultant en terme de compréhension, de pédagogie, d'accompagnent au succès… et, plus souvent qu'à mon goût, de patience !
+Devenir Papa a profondément changé la vision que j’avais de mon métier et de moi même. Être un bon père est un défi de chaque jour qui fait de moi une meilleure personne et m’apporte énormément dans mes responsabilités de consultant en terme de compréhension, de pédagogie, d’accompagnent au succès et, plus souvent qu’à mon goût… de patience.
+
+<ins datetime="2016-03-03T11:04:29">J'en parlerai bientôt à [Sud Web 2016](http://sudweb.fr/2016/)</ins>
 
 ### Où sont les valeurs du Web ?
 
-Le Web est né de valeurs d'accessibilité et d'égalité fantastiques. Presque 30 ans plus tard, les idéaux de nos hippies fondateurs sont bien maltraités : aux mains des plus grands groupes, le Web est devenu une machine capitaliste qui néglige souvent ces engagements. Pire encore, ceux qui le font n'y croit plus et rares sont les entreprises du Web à encore valoriser l'accessibilité, la qualité, l'égalité entre tous les utilisateurs quelle que soit leur origine ethnique ou leur sexe. Il nous faut changer cela.
+Le Web est né de valeurs d'accessibilité et d'égalité fantastiques. Presque 30 ans plus tard, que sont devenus les idéaux de nos hippies fondateurs ?
 
 ### Pas de fatalité, il suffit de s'impliquer
 
@@ -43,3 +45,19 @@ Le Web est un domaine passionnant pour qui s'intéresse à l'économie et à l'o
 ### Le statique, c'est fantastique
 
 Mon dada du moment, qui allie Performance Web et syntaxe à balisage léger : les générateurs de sites statiques. Ils sont l'accomplissement d'un retour à la simplicité, dans un monde logiciel où il n'est pas forcément nécessaire d'avoir une base de données et des requêtes à tout va pour offrir à ses utilisateurs des contenus faiblements, voire pas du tout dynamiques ou personnalisés. <i lang="en">Jekyll is the new Wordpress</i>.
+
+### Internet, espace d'opportunités… et de risques (cible : 12 ans et +)
+
+Le Web a pris une importance capitale dans nos vies. Mais les jeunes (et les moins jeunes) ne sont pas toujours au courant des problématiques que cela soulève et des changements de société qu'il nous faut comprendre. Au travers d'une quinzaine de problématiques dans lesquelles piocher, je vous propose de monter des ateliers d'échanges et d'information pour mieux sensibiliser aux usages d'Internet.
+
+### Internet, espace d'opportunités… et de risques (cible : 12 ans et +)
+
+Le Web a pris une importance capitale dans nos vies. Mais les jeunes (et les moins jeunes) ne sont pas toujours au courant des problématiques que cela soulève et des changements de société qu'il nous faut comprendre. Au travers d'une quinzaine de problématiques dans lesquelles piocher, je vous propose de monter des ateliers d'échanges et d'information pour mieux sensibiliser aux usages d'Internet.
+
+### Le vocabulaire du Web
+
+Car chaque branche d'activité, le monde du Web a son propre vocabulaire, parfois très mouvant. Vous êtes perdu entre l'intégration continue, le Responsive Web Design, les noeuds du DOM, les CMS, les PIM et les DAM, et ne comprenez pas le rapport que ça peut avoir avec l'UX et le SVG ? Parlons-en, vous verrez, ce n'est pas si compliqué.
+
+### La Performance Web, pourquoi et comment ?
+
+Avec le déplacement d'un certain nombre d'usages vers des périphérique nomades (téléphones, montres, appareils connectés), la fluidité d'utilisation devient une problématique critique. La performance Web est une des composantes de cette fluidité. Nous verrons ensemble comment l'optimiser. Ceci étant, suivant l’organisation et la culture de votre entreprise, conserver ce gain dans le temps peut être délicat et tenir davantage de la conduite du changement que de l’identification et l'implémentation d'optimisations.
