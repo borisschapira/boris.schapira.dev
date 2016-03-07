@@ -4,7 +4,6 @@ _site
 .tweet-cache
 .bundle
 /vendor/
-/assets/resized
 rsync.sh
 _algolia_api_key
 .jekyll-assets-cache
