@@ -23,31 +23,9 @@ namespace :postbuild do
     end
   end
 
-  task :test => ["test:posts", "test:kiss"]
+  task :test => ["test:kiss"]
 
   namespace :test do
-
-    # Use: rake clean
-    desc "Test source content and generated result"
-    task :default => [:posts, :kiss]
-
-    desc "Test if content Front-Matter is YAML-valid"
-    task :posts do
-      @posts = []
-      Dir.glob('_posts/**/*.{md,markdown}').each do |p|
-          @posts << p
-      end
-      @posts.each do |post|
-        begin
-          YAML.load_file(post)
-        rescue Exception => e
-          puts post
-          puts e.message
-          raise "Post syntax is not valid"
-        end
-      end
-      puts "#{@posts.size} valid posts"
-    end
 
     desc "Test if generated website is valid (do not test external links)"
     task :kiss do

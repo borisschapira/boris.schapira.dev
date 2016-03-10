@@ -2,7 +2,7 @@ namespace :build do
 
   # Use: rake clean
   desc "Clean Jekyll build"
-  task :clean do
+  task :clean => "prebuild:test" do
     cleanup
   end
 
