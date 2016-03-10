@@ -4,6 +4,8 @@ layout: post
 title: "Revenu de base"
 category: Citoyen
 hidden: true
+tags:
+ - Emploi
 ---
 
 > Le revenu universel suppose la primauté de l’équité et du social sur l’efficacité et l’économique.
