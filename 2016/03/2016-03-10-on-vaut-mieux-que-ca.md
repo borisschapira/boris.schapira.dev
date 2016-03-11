@@ -30,6 +30,8 @@ C'est vraiment dommage, car ce texte cherche à étendre à un maximum de salari
 
 J'en arrive au plus triste : au risque de perdre une partie de la gauche[^pierre] **ce projet n'est absolument pas le fruit des différentes études qui ont amené à sa rédaction**. Par exemple, le rapport de Jean-Denis Combrexelle[^rapport], tout en faisant la promotion d'une réforme importante, ne revenait pas sur le socle minimal de droits accordé aux salariés. Mieux, il y développait l'idée que la représentation sociale devait être mieux valorisée et permettre des accords à l'avantage de l'entreprise en assurant, en contrepartie, leur limitation temporelle (pas de reconduction tacite).
 
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1674229897/size=large/bgcol=ffffff/linkcol=d00b6d/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://l1consolable.bandcamp.com/track/on-vaut-mieux-que-a">On vaut mieux que ça! by L&#39;1consolable</a></iframe>
+
 [^pierre]: y compris dans les rangs de la Ministre dont la plume, [Pierre Jacquemain, a claqué la porte du cabinet](http://www.humanite.fr/pourquoi-jai-demissionne-du-cabinet-el-khomri-600542).
 
 [^rapport]: Rapport "[La négociation collective, le travail et l’emploi](/assets/docs/2016-03-10/rapport_combrexelle.pdf)", dont une [synthèse](/assets/docs/2016-03-10/synthese_combrexelle.pdf) est également disponible.
