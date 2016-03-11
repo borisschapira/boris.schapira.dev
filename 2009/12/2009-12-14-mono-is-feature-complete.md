@@ -9,4 +9,4 @@ tags:
 
 C’est Marek Safar qui l’annonce sur son blog et chez NexDotNet, ça nous rend tous choses… <i lang="en">Well done guys</i> !
 
-Cette implémentation n’est pas encore complète : le comportement du mot clé `dynamic est peu compatible avec les types valeurs et Mono a décidé de ne pas développer la compatibilité COM (ce qui se comprendra, étant donnée l’absence de COM sur les plateformes concernées par MONO.
+Cette implémentation n’est pas encore complète : le comportement du mot clé `dynamic` est peu compatible avec les types valeurs et Mono a décidé de ne pas développer la compatibilité COM (ce qui se comprendra, étant donnée l’absence de COM sur les plateformes concernées par MONO.
