@@ -10,6 +10,6 @@ Ils étaient en train de se déshabiller à la salle de bain, pour aller prendre
 
 > Papa, [son frère] a son doigt qui _tencule_ dans le _poop_ !
 
-Bien sûr, son grand frère lui montrait sur leur tapis de bain — aux motifs marins — la tentacule d'un poulpe.
+Bien sûr, son grand frère lui montrait sur leur tapis de bain — aux motifs marins — le tentacule d'un poulpe.
 
 Vous aviez compris quoi :stuck_out_tongue_winking_eye: ?
