@@ -14,7 +14,9 @@ Consultant en Web Performance depuis quelques années, j'ai décidé un jour de 
 
 ### Côté serveur
 
-J'ai commencé par jeter mon blog Wordpress pour le remplacer par un générateur de site statique en <i lang="en">node</i>, [Hexo](https://github.com/hexojs/hexo). Après avoir déterminé les limites de l'outil et contribué à quelques <i lang="en">plugins</i>, j'ai décidé de migrer vers [<i lang="en">Jekyll</i>](https://jekyllrb.com/), plus rapide, plus abouti et dont la communauté Ruby me semblait plus mûre.
+J'ai commencé par jeter mon blog Wordpress pour le remplacer par un générateur de site statique[^static] en <i lang="en">node</i>, [Hexo](https://github.com/hexojs/hexo). Après avoir déterminé les limites de l'outil et contribué à quelques <i lang="en">plugins</i>, j'ai décidé de migrer vers [<i lang="en">Jekyll</i>](https://jekyllrb.com/), plus rapide, plus abouti et dont la communauté Ruby me semblait plus mûre.
+
+[^static]: Frank Taillandier a merveilleusement bien croqué la [mouvance statique](http://frank.taillandier.me/2016/03/08/les-gestionnaires-de-contenu-statique/) sur son blog.
 
 Mes dépendances Ruby sont gérées par [Bundler](http://bundler.io/) :
 
