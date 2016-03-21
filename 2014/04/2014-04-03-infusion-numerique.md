@@ -25,7 +25,7 @@ Ces profils existent déjà. Je les croise lors de mes missions. Ils ne sont pas
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2014-04-03/1.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-04-03/1.png alt="Un schéma montrant que devant une tâche répétitive, les &quot;geeks&quot; perdent du temps à mettre en place une solution algorithmique… qui s'avère rentable sur le long terme." %}
+      {% responsive_image path: assets/images/2014-04-03/1.png alt: "Un schéma montrant que devant une tâche répétitive, les &quot;geeks&quot; perdent du temps à mettre en place une solution algorithmique… qui s'avère rentable sur le long terme." %}
   </a>
   <figcaption>Gestion des tâches répétitives par les "geeks" et les "non-geeks". Difficile de trouver la paternité, même si plusieurs sources remontent à Bruno Oliveira.</figcaption>
 </figure>

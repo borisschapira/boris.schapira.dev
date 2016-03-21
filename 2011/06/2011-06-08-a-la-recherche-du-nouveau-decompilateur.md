@@ -12,7 +12,7 @@ Si comme moi vous développez en .NET depuis un bout de temps, vous avez probabl
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2011-06-08/il_spy.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2011-06-08/il_spy.png alt="Capture d'écran de IL.Spy" %}
+      {% responsive_image path: assets/images/2011-06-08/il_spy.png alt: "Capture d'écran de IL.Spy" %}
   </a>
   <figcaption>IL.Spy est une alternative à Reflector</figcaption>
 </figure>

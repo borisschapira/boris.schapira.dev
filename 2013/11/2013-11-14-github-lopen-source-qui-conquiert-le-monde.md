@@ -18,7 +18,7 @@ Ce qui avait commencé, en octobre 2007, comme un projet personnel, sans intenti
 
 <figure>
   <a href="//davidfischer.github.io/gdc2/#languages/All">
-    {% responsive_image path: assets/images/2013-11-14/1.png alt="Une carte naïve du monde, avec des zones accentuées" %}
+    {% responsive_image path: assets/images/2013-11-14/1.png alt: "Une carte naïve du monde, avec des zones accentuées" %}
   </a>
   <figcaption>Projet de visualisation des données de la Timeline publique de GitHub, par David Fischer.</figcaption>
 </figure>
@@ -33,7 +33,7 @@ Il est désormais possible, pour n’importe quel développeur de créer un dép
 
 <figure>
   <a href="https://octodex.github.com/codercat/">
-    {% responsive_image path: assets/images/2013-11-14/2.jpg alt="Un dessin représentant une chimère chat/poulpe, déguisée en développeur" %}
+    {% responsive_image path: assets/images/2013-11-14/2.jpg alt: "Un dessin représentant une chimère chat/poulpe, déguisée en développeur" %}
   </a>
   <figcaption>&laquo;&nbsp;The CoderCat&nbsp;&raquo;, un des très nombreux détournements de la mascotte de GitHub, l’Octocat, par Cameron McEfee.</figcaption>
 </figure>
@@ -50,7 +50,7 @@ Mais si GitHub remporte autant de succès, c’est aussi qu’il intervient au b
 
 <figure>
   <a href="https://octodex.github.com/baracktocat/">
-    {% responsive_image path: assets/images/2013-11-14/3.jpg alt="Un dessin représentant une chimère chat/poulpe, pasticheant la campagne &laquo;&nbsp;Yes We Can&nbsp;&raquo; de Barack Obama" %}
+    {% responsive_image path: assets/images/2013-11-14/3.jpg alt: "Un dessin représentant une chimère chat/poulpe, pasticheant la campagne &laquo;&nbsp;Yes We Can&nbsp;&raquo; de Barack Obama" %}
   </a>
   <figcaption>&laquo;&nbsp;The Baraktocat&nbsp;&raquo;, par Cameron McEfee</figcaption>
 </figure>
@@ -78,7 +78,7 @@ Ce processus, classique, est entièrement supporté par la plate-forme, mais ell
 
 <figure>
   <a href="https://octodex.github.com/daftpunktocat-thomas/">
-    {% responsive_image path: assets/images/2013-11-14/4.gif alt="Un dessin représentant une chimère chat/poulpe, déguisée en un des Daft Punk" %}
+    {% responsive_image path: assets/images/2013-11-14/4.gif alt: "Un dessin représentant une chimère chat/poulpe, déguisée en un des Daft Punk" %}
   </a>
   <figcaption>&laquo;&nbsp;The Daftpunktocat (Thomas)&nbsp;&raquo;, par James Kang</figcaption>
 </figure>

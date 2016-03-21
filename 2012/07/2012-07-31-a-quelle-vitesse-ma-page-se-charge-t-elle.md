@@ -26,7 +26,7 @@ La mesure de la performance du site passe alors par la compréhension de plusieu
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2012-07-31/1.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2012-07-31/1.png alt="Schéma présentant les différentes étapes du chargement d'une page Web" %}
+      {% responsive_image path: assets/images/2012-07-31/1.png alt: "Schéma présentant les différentes étapes du chargement d'une page Web" %}
   </a>
   <figcaption>Les différentes étapes du chargement d'une page Web</figcaption>
 </figure>

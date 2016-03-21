@@ -18,7 +18,7 @@ Ce qu'il manquait à cette grandes messe en l'honneur du nouvel OS, ce sont les 
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-02-16/people-hub.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-02-16/people-hub.png alt="Des captures d'écran sur Windows Phone 7" %}
+      {% responsive_image path: assets/images/2010-02-16/people-hub.png alt: "Des captures d'écran sur Windows Phone 7" %}
   </a>
   <figcaption>Le Hub People devrait réunir toutes les informations de vos contacts</figcaption>
 </figure>

@@ -8,7 +8,7 @@ main_image: assets/images/2016-02-25/jekyll.png
 Depuis plusieurs mois, ce blog est propulsé par Jekyll et Codeship. Une page explicative existe, mais elle est "vivante" et si je change quelque chose demain, elle évoluera. J'utilise donc un article daté pour figer un peu les choses, et tant pis pour le contenu dupliqué.
 
 <figure>
-      {% responsive_image path: assets/images/2016-02-25/jekyll.png alt="Un tube à essai rempli d'une potion pétillante rouge écarlate" %}
+      {% responsive_image path: assets/images/2016-02-25/jekyll.png alt: "Un tube à essai rempli d'une potion pétillante rouge écarlate" %}
   <figcaption>Jekyll</figcaption>
 </figure>
 

@@ -20,7 +20,7 @@ Outre les classiques onglets explorateurs de DOM, Console, Debugger, Réseau, il
 
 <figure>
   <a data-featherlight="image" href="/assets/images/2013-07-02/1.png" title="Voir en plus grand">
-    {% responsive_image path: assets/images/2013-07-02/1.png alt="Capture d'écran de l'onglet 'UI Responsiveness' des outils de développement d'Internet Explorer 11" %}
+    {% responsive_image path: assets/images/2013-07-02/1.png alt: "Capture d'écran de l'onglet 'UI Responsiveness' des outils de développement d'Internet Explorer 11" %}
   </a>
   <figcaption>Le panel d'analyse de la réactivité de l'interface sera d'une aide précieuse dans l'évaluation des optimisations à réaliser pour améliorer la performance ressentie.</figcaption>
 </figure>

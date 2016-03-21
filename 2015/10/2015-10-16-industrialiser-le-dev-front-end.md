@@ -42,7 +42,7 @@ S’il y a bien un domaine dans lequel l’innovation galope en ce moment, c’e
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2015-10-16/2.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2015-10-16/2.png alt="Une liste assez longue de termes techniques du Web" %}
+      {% responsive_image path: assets/images/2015-10-16/2.png alt: "Une liste assez longue de termes techniques du Web" %}
   </a>
   <figcaption>Le Web aujourd'hui : HTML + JS + CSS ?</figcaption>
 </figure>
@@ -67,7 +67,7 @@ Un développeur ou intégrateur qui, à code source égal, est le seul détenteu
 
 <figure>
 <a href="https://flic.kr/p/bYm7uu" title="Voir sur Flickr">
-      {% responsive_image path: assets/images/2015-10-16/1.jpg alt="Un chien triste" %}
+      {% responsive_image path: assets/images/2015-10-16/1.jpg alt: "Un chien triste" %}
   </a>
   <figcaption><b>pitiful</b> par latteda - CC BY 2.0</figcaption>
 </figure>
@@ -96,7 +96,7 @@ Une fois qu'on réassemble, cela donne la chaine complète :
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2015-10-16/3.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2015-10-16/3.png alt="L'ensemble de la chaine sous la forme d'un schéma" %}
+      {% responsive_image path: assets/images/2015-10-16/3.png alt: "L'ensemble de la chaine sous la forme d'un schéma" %}
   </a>
   <figcaption>Une chaine d'industrialisation assez complète</figcaption>
 </figure>
@@ -107,7 +107,7 @@ Il existe une très importante variété d'outils sur le marché, ayant tous leu
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2015-10-16/5.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2015-10-16/5.png alt="De nombreuses solutions répondant chacune à un ou plusieurs besoins exprimés" %}
+      {% responsive_image path: assets/images/2015-10-16/5.png alt: "De nombreuses solutions répondant chacune à un ou plusieurs besoins exprimés" %}
   </a>
   <figcaption>Niveau offre, c'est la fête</figcaption>
 </figure>
@@ -116,7 +116,7 @@ Ma préférence ? Aucune.
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2015-10-16/4.gif" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2015-10-16/4.gif alt="Une image animée présentant un homme qui applaudit de manière ironique" %}
+      {% responsive_image path: assets/images/2015-10-16/4.gif alt: "Une image animée présentant un homme qui applaudit de manière ironique" %}
   </a>
   <figcaption>Je sais, ne me remerciez pas.</figcaption>
 </figure>
@@ -127,7 +127,7 @@ Mon conseil est donc le suivant : réunissez votre équipe de production Front E
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2015-10-16/6.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2015-10-16/6.png alt="Des individus discutant et autour, les logos des solutions Yeoman et Brunch" %}
+      {% responsive_image path: assets/images/2015-10-16/6.png alt: "Des individus discutant et autour, les logos des solutions Yeoman et Brunch" %}
   </a>
   <figcaption>Vôtre industrialisation, vôtre discussion</figcaption>
 </figure>

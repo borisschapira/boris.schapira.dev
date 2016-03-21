@@ -9,7 +9,7 @@ tags:
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2009-07-27/1.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2009-07-27/1.jpg alt="Photos de la souris sous toutes les coutures" %}
+      {% responsive_image path: assets/images/2009-07-27/1.jpg alt: "Photos de la souris sous toutes les coutures" %}
   </a>
 </figure>
 
@@ -19,7 +19,7 @@ Après le [test de l'Arc Mouse](//borisschapira.com/2009/02/microsoft-arc-mouse-
 
 <figure>
   <a data-featherlight="image" href="/assets/images/2009-07-27/2.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2009-07-27/2.jpg alt="Dimensions de la souris" %}
+      {% responsive_image path: assets/images/2009-07-27/2.jpg alt: "Dimensions de la souris" %}
   </a>
 </figure>
 

@@ -19,7 +19,7 @@ Après de telles définitions, le découpage est aisé&nbsp;: au sein d'une bali
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-05-03/sidebar.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-05-03/sidebar.png alt="Une capture de la sidebar du blog au moment où j'écris ces ligne, avec des zones numérotées" %}
+      {% responsive_image path: assets/images/2010-05-03/sidebar.png alt: "Une capture de la sidebar du blog au moment où j'écris ces ligne, avec des zones numérotées" %}
   </a>
   <figcaption>La barre latérale de BorisSchapira.com</figcaption>
 </figure>

@@ -13,7 +13,7 @@ Olivier Chambon, aka Babozor, que beaucoup connaissent via son [podcast](http:/
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2012-09-11/1.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2012-09-11/1.jpg alt="Un schéma explicatif des règles, inventées à partir de la norme HTML5" %}
+      {% responsive_image path: assets/images/2012-09-11/1.jpg alt: "Un schéma explicatif des règles, inventées à partir de la norme HTML5" %}
   </a>
   <figcaption>cHTeMeLe, le jeu de plateau certifié HTML5</figcaption>
 </figure>

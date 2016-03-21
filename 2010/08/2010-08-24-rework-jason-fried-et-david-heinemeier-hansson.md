@@ -10,7 +10,7 @@ Avant de véritablement commencer à lire "Business Model Generation" (dont je f
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-08-24/1.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-08-24/1.png alt="Jaquette du livre" %}
+      {% responsive_image path: assets/images/2010-08-24/1.png alt: "Jaquette du livre" %}
   </a>
   <figcaption>Rework</figcaption>
 </figure>

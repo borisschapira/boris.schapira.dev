@@ -14,7 +14,7 @@ Je comprends immédiatement qu'ils jouent à leur jeu favori. Je me précipite d
 
 <figure>
   <a data-featherlight="image" href="/assets/images/papa/2015-02-15/1.jpg" title="Voir en plus grand">
-    {% responsive_image path: assets/images/papa/2015-02-15/1.jpg alt="Logo des Déménageurs Bretons" %}
+    {% responsive_image path: assets/images/papa/2015-02-15/1.jpg alt: "Logo des Déménageurs Bretons" %}
   </a>
   <figcaption>Leur jeu favori</figcaption>
 </figure>

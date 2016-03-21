@@ -20,7 +20,7 @@ Internet n'est plus un outil pour moi. Il tient une place dans mon identité. Je
 
 <figure>
 <a href="http://kindofnormal.com/img/truth_facts/2014/03/07.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-04-17/1.jpg alt="Un schéma humoristique comparant la durée pendant laquelle un humain peut se passer de choses essentielles comme manger, boire... et avoir accès à Internet" %}
+      {% responsive_image path: assets/images/2014-04-17/1.jpg alt: "Un schéma humoristique comparant la durée pendant laquelle un humain peut se passer de choses essentielles comme manger, boire... et avoir accès à Internet" %}
   </a>
 </figure>
 

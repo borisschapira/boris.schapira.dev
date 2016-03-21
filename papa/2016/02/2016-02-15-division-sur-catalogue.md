@@ -49,7 +49,7 @@ Même dans le respect d'une licence importante comme un film Disney, le message 
 
 <figure>
   <a data-featherlight="image" href="/assets/images/2016-02-01/1.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2016-02-01/1.jpg alt="Publicité pour le &quot;Nerf Rebelle Agent Secret Pistolet&quot;" %}
+      {% responsive_image path: assets/images/2016-02-01/1.jpg alt: "Publicité pour le &quot;Nerf Rebelle Agent Secret Pistolet&quot;" %}
   </a>
   <figcaption>Bah non, mon bon monsieur : quand les filles se tirent dessus, c'est pour s'envoyer des messages secrets écrits du bout de leurs ongles vernis sur des flèches en paillettes, bien sûr !</figcaption>
 </figure>

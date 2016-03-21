@@ -13,7 +13,7 @@ Qu'elle devienne un jour ou non la solution du plus grand nombre m'importe peu. 
 
 <figure>
   <a href="https://flic.kr/p/4rSp4" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2008-12-30/1.jpg alt="Manchots royaux et manchots Papou dans un parc zoologique" %}
+      {% responsive_image path: assets/images/2008-12-30/1.jpg alt: "Manchots royaux et manchots Papou dans un parc zoologique" %}
   </a>
   <figcaption>"Linux" par Tripu (CC-BY-NC/2.0)</figcaption>
 </figure>

@@ -14,7 +14,7 @@ Ce mail n'a bien sûr rien à voir avec la CAF. En cliquant sur le lien fourni,�
 
 <figure>
   <a data-featherlight="image" href="/assets/images/2010-08-31/1.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-08-31/1.jpg alt="Capture d'écran de la tentative de phishing" %}
+      {% responsive_image path: assets/images/2010-08-31/1.jpg alt: "Capture d'écran de la tentative de phishing" %}
   </a>
   <figcaption>Tentative de Phishing imitant un courrier de la CAF</figcaption>
 </figure>

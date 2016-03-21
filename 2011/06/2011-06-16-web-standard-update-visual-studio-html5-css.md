@@ -12,7 +12,7 @@ Il n'y a rien qui vous empêchait, dès hier, de créer des sites Web HTML5 et C
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2011-06-16/vshtml5.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2011-06-16/vshtml5.png alt="Logo de Visual Studio surplombant le logo d'HTML5" %}
+      {% responsive_image path: assets/images/2011-06-16/vshtml5.png alt: "Logo de Visual Studio surplombant le logo d'HTML5" %}
   </a>
   <figcaption>Logo non-officiel de Web Standard Update, proposé par Scott Hanselman</figcaption>
 </figure>

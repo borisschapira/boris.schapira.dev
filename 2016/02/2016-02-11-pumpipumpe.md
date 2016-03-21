@@ -13,7 +13,7 @@ J'espère que certains voisins adhéreront également. L'envoi n'est pas cher et
 
 <figure>
   <a data-featherlight="image" href="/assets/images/2016-02-20/1.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2016-02-20/1.jpg alt="Une boite au lettre rouge sur laquelle des autocollants Pumpipumpe ont été apposés" %}
+      {% responsive_image path: assets/images/2016-02-20/1.jpg alt: "Une boite au lettre rouge sur laquelle des autocollants Pumpipumpe ont été apposés" %}
   </a>
   <figcaption>Les autocollants sont suffisement petits pour qu'on puisse en loger autant que voulu sur une boîte.</figcaption>
 </figure>

@@ -21,7 +21,7 @@ Pour bien comprendre le problème, il faut remonter dans le temps et observer la
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2013-05-14/1.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2013-05-14/1.png alt="L’interface graphique fenêtrée&nbsp;: depuis la naissance de Windows, la GUI n’a pas énormément évolué" %}
+      {% responsive_image path: assets/images/2013-05-14/1.png alt: "L’interface graphique fenêtrée&nbsp;: depuis la naissance de Windows, la GUI n’a pas énormément évolué" %}
   </a>
   <figcaption>L’interface graphique fenêtrée&nbsp;: depuis la naissance de Windows, la GUI n’a pas énormément évolué</figcaption>
 </figure>
@@ -38,7 +38,7 @@ Ce que Microsoft avait, c’est un système d’exploitation à la couverture pl
 
 <figure>
   <a data-featherlight="image" href="/assets/images/2013-05-14/2.png" title="Voir en plus grand">
-    {% responsive_image path: assets/images/2013-05-14/2.png alt="Windows Mobile 5.0 Macallan (fin 2004)&nbsp;: l’interface de Windows Mobile était pensée pour la productivité bureautique et rien d’autre" %}
+    {% responsive_image path: assets/images/2013-05-14/2.png alt: "Windows Mobile 5.0 Macallan (fin 2004)&nbsp;: l’interface de Windows Mobile était pensée pour la productivité bureautique et rien d’autre" %}
   </a>
   <figcaption>Windows Mobile 5.0 Macallan (fin 2004)&nbsp;: l’interface de Windows Mobile était pensée pour la productivité bureautique et rien d’autre</figcaption>
 </figure>
@@ -47,7 +47,7 @@ Windows 8 (et Windows Phone) est né de ce manque, de cette absence. Microsoft e
 
 <figure>
   <a data-featherlight="image" href="/assets/images/2013-05-14/3.jpg" title="Voir en plus grand">
-    {% responsive_image path: assets/images/2013-05-14/3.jpg alt="L’écran d’accueil de Windows 8&nbsp;: l’écran d’accueil de Windows 8 est un bel exemple d’interface &quot;Modern UI&quot; en Flat Design" %}
+    {% responsive_image path: assets/images/2013-05-14/3.jpg alt: "L’écran d’accueil de Windows 8&nbsp;: l’écran d’accueil de Windows 8 est un bel exemple d’interface &quot;Modern UI&quot; en Flat Design" %}
   </a>
   <figcaption>L’écran d’accueil de Windows 8&nbsp;: l’écran d’accueil de Windows 8 est un bel exemple d’interface "Modern UI" en Flat Design</figcaption>
 </figure>
@@ -60,7 +60,7 @@ Windows reste un système de bureau qui s’utilise avec une souris et un clavie
 
 <figure>
   <a data-featherlight="image" href="/assets/images/2013-05-14/4.png" title="Voir en plus grand">
-    {% responsive_image path: assets/images/2013-05-14/4.png alt="L’interface graphique fenêtrée de Windows 8&nbsp;: derrière le design Modern UI se dévoile une GUI Windows très classique" %}
+    {% responsive_image path: assets/images/2013-05-14/4.png alt: "L’interface graphique fenêtrée de Windows 8&nbsp;: derrière le design Modern UI se dévoile une GUI Windows très classique" %}
   </a>
   <figcaption>L’interface graphique fenêtrée de Windows 8&nbsp;: derrière le design Modern UI se dévoile une GUI Windows très classique</figcaption>
 </figure>
@@ -71,7 +71,7 @@ Ainsi, le "problème" de Windows 8 ne vient pas nécessairement de sa nouvelle i
 
 <figure>
   <a data-featherlight="image" href="/assets/images/2013-05-14/5.jpg" title="Voir en plus grand">
-    {% responsive_image path: assets/images/2013-05-14/5.jpg alt="Un Rubik's Cube" %}
+    {% responsive_image path: assets/images/2013-05-14/5.jpg alt: "Un Rubik's Cube" %}
   </a>
   <figcaption>Agencer les sensibilités peut-être un sacré casse-tête…</figcaption>
 </figure>

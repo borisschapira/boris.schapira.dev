@@ -17,7 +17,7 @@ Malheureusement (ou insidieusement), des deux articles que contient ce projet, o
 
 <figure>
   <a href="https://flic.kr/p/49QKir" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2015-12-28/1.jpg alt="Un panneau jaune indiquant une diversion posé sur un trottoir." %}
+      {% responsive_image path: assets/images/2015-12-28/1.jpg alt: "Un panneau jaune indiquant une diversion posé sur un trottoir." %}
   </a>
   <figcaption>"Diversion" par Daniel Lobo (CC-by-2.0)</figcaption>
 </figure>

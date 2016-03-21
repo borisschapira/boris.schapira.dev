@@ -12,7 +12,7 @@ J'ai commencé par lui montrer comment dessiner un petit loup :
 
 <figure>
   <a data-featherlight="image" href="/assets/images/papa/2016-01-27/1.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/papa/2016-01-27/1.png alt="Le logo de GIMP (un petit loup avec un pinceau dans la bouche) en dessin naif" %}
+      {% responsive_image path: assets/images/papa/2016-01-27/1.png alt: "Le logo de GIMP (un petit loup avec un pinceau dans la bouche) en dessin naif" %}
   </a>
   <figcaption>Quel talent ! À se demander pourquoi j'ai encore besoin de graphistes !</figcaption>
 </figure>
@@ -28,7 +28,7 @@ Puis il a appris à manipuler lui-même le curseur pour poser des étoiles de to
 
 <figure>
   <a data-featherlight="image" href="/assets/images/papa/2016-01-27/2.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/papa/2016-01-27/2.png alt="Notre bonhomme-patate des étoiles, barbu à cheveux longs" %}
+      {% responsive_image path: assets/images/papa/2016-01-27/2.png alt: "Notre bonhomme-patate des étoiles, barbu à cheveux longs" %}
   </a>
   <figcaption>Martin Vidberg n'a qu'à bien se tenir, la concurrence arrive !</figcaption>
 </figure>
