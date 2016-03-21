@@ -8,13 +8,19 @@
         {% assign datetime = post.date | date_to_xmlschema %}
         <time class="p-date dt-published" datetime="{{ datetime }}">{{ post.date | localize: '%A %-d' }} <a href="{{ site.baseurl }}/{{ post.date | localize: '%Y/%m/' }}" title="Articles de {{ post.date | localize: '%B %Y' }}">{{ post.date | localize: '%B' }}</a> <a href="{{ site.baseurl }}/{{ post.date | localize: '%Y/' }}" title="Articles de {{ post.date | localize: '%Y' }}">{{ post.date | localize: '%Y' }}</a></time>{% if post.category != nil %}<span class="p-category"><a href="{{ site.baseurl }}/{{post.category|downcase]}}/">{{ post.category }}</a></span>{% endif %}<span class="p-readtime nowrap" title="Environ {{ readtime }} min. de lecture"><svg class="icon icon-clock"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-clock"></use></svg> {{ readtime }} min.</span><span class="p-author h-card">{{ site.author.name }}</span>
     </header>
-  <h2 class="post-title p-name">
+
+  {% capture hn %}h2{% endcapture %}
+  {% unless page.hideCustomHead %}
+    {% capture hn %}h3{% endcapture %}
+  {% endunless %}
+
+  <{{hn}} class="post-title p-name">
     {% if include.postPage %}
         {{ post.title }}
     {% else %}
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     {% endif %}
-  </h2>
+  </{{hn}}>
 
   <div class="post-content">
     {% if include.postPage %}
