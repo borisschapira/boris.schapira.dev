@@ -8,7 +8,9 @@ tags:
 ---
 
 > Mais quels effets aurait cette réforme sur un entrepreneur ?
->
+
+<!-- more -->
+
 > Pour le savoir, prenons un nouveau cas fictif (toujours non exhaustif), celui de Delphine. A 42 ans, cette femme a créé et dirige depuis cinq ans une PME de 55 salariés. Le scénario se place là encore dans l’hypothèse où le projet de loi sur la réforme du droit du travail serait voté dans sa version initiale.
 > <cite>"[Ce qui changerait pour Delphine, 42 ans, chef d’entreprise, avec la 'loi travail'](http://www.lemonde.fr/les-decodeurs/article/2016/03/08/ce-qui-changerait-pour-delphine-42-ans-chef-d-entreprise-avec-la-loi-travail_4878844_4355770.html)", Samuel Laurent pour [Les Décodeurs](http://www.lemonde.fr/les-decodeurs/)</cite>
 
