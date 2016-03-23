@@ -14,7 +14,7 @@ tags:
 > So I would like to say thank you to Doug Wilson. For all of your hard work.
 > <cite>"[The Unbelievable History of the Express JavaScript Framework](http://thefullstack.xyz/history-express-javascript-framework/)", Dor Tzur</cite>
 
-Derrière la plupart des outils de notre quotidien, il y a des hommes et des femmes qui contribuent discrètement à leur succès et qui se donnent de leur temps sur des projets dont vous n'entendrez jamais parlé ou sur d'autres que vous utilisez tous les jours[^firefox]. Ils ne sont pas toujours isolés, font parfois partie de structures qui ont de forts intérêts dans ces projets[^giga].
+Derrière la plupart des outils de notre quotidien, il y a des hommes et des femmes qui contribuent discrètement à leur succès et qui se donnent de leur temps sur des projets dont vous n'entendrez jamais parler ou sur d'autres que vous utilisez tous les jours[^firefox]. Ils ne sont pas toujours isolés, font parfois partie de structures qui ont de forts intérêts dans ces projets[^giga].
 
 [^giga]: dire que j'écrivais déjà ça [il y a 9 ans](/2007/08/le-mythe-de-la-giga-communaute-open-source/ "Le mythe de la giga-communauté open source"), les mythes ont la vie dure.
 
@@ -24,5 +24,5 @@ Cette confusion injuste mais naturelle, qu'on retrouve également dans [les déb
 
 **Merci**.
 
-[^bower]: Bower, un des projets <i lang="en">front end</i> les plus utilisé au monde, est également maintenu par une seule personne, [Adam Stankiewicz](https://twitter.com/sheerun)).
-[^firefox]: Firefox, Wikipédia… ne sont pas des acquis et peuvent disparaitrent un jour.
+[^bower]: Bower, un des projets <i lang="en">front end</i> les plus utilisés au monde, est également maintenu par une seule personne, [Adam Stankiewicz](https://twitter.com/sheerun)).
+[^firefox]: Firefox, Wikipédia… ne sont pas des acquis et peuvent disparaître un jour.
