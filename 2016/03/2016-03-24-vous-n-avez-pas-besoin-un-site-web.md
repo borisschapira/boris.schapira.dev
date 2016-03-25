@@ -16,7 +16,7 @@ Pour beaucoup de marques ou d'institutionnels, il constitue souvent un canal d'�
 
 Aborder la transformation numérique, ce n'est pas ça. L'enjeu est ailleurs.
 
-Il vous faut comprendre les motivations de vos visiteurs (externes ou internes à votre entreprise) et y répondre. Le RWD n'a de sens que si vous êtes capable de l'adapté aux contextes d'utilisation. Créez une offre de services ou d'information qui correspond aux objectifs de visite. Non, aucun de vos client et aucun de vos salariés ne se connecte sur votre site de bon matin pour le seul plaisir de voir si quelque chose a changé.
+Il vous faut comprendre les motivations de vos visiteurs (externes ou internes à votre entreprise) et y répondre. Le RWD n'a de sens que si vous êtes capable de l'adapter aux contextes d'utilisation. Créez une offre de services ou d'information qui correspond aux objectifs de visite. Non, aucun de vos client et aucun de vos salariés ne se connecte sur votre site de bon matin pour le seul plaisir de voir si quelque chose a changé.
 
 Vous devez comprendre vos processus de publication pour les automatiser. Si vous avez besoin d'un site qui affiche votre catalogue de produits, ne demandez pas à un secrétaire de re-saisir ce qui est déjà dans l'ERP, branchez-le directement[^humour] ou mieux encore, adoptez une solution référentielle qui sera alimentée directement par vos responsables produits et alimentera tous vos canaux (web, mais aussi papier, par exemple).
 
