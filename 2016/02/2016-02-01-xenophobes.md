@@ -11,7 +11,7 @@ tags:
 
 J'écrivais, il y a peu, que je pensais que [les français n'avaient pas soif de laïcité](/2016/01/laicite/ "Laïcité") mais étaient, en réalité, terrifiés par un ennemi imaginaire. Dimanche, je découvrais ce terrifiant sondage du _Journal du Dimanche_ (en fin d'article).
 
-Les réponses ne me surprennent pas, elles soulignent ce que que je craignais déjà : pour beaucoup la "normalité française" est réprésentée par une persone blanche aux racines chrétiennes. Tout ce qui sort de ce cadre laisse un souvenir plus fort et remonte plus facilement en mémoire lorsque ce genre de question survient.
+Les réponses ne me surprennent pas, elles soulignent ce que que je craignais déjà : pour beaucoup la "normalité française" est réprésentée par une persone blanche aux racines chrétiennes. Tout ce qui sort de ce cadre laisse un souvenir plus fort et remonte plus facilement en mémoire lorsque ce genre de question survient. [Nous avons peur de ce qui sort de notre normalité](http://blog.francetvinfo.fr/classe-eco/2015/11/29/vertus-et-vices-de-la-comedie-securitaire.html).
 
 Plus troublant : le lien entre faciès et religion. Le sondage parle d'altercations, d'insultes et de violences. Moi, les rares fois où j'ai affaire à des gens qui m'insultent, je ne prends pas le temps de tailler le bout de gras pour leur demander d'où ils viennent et comprendre leurs croyances…
 
