@@ -4,6 +4,7 @@ layout: post
 title: Cinquième anniversaire du grand
 category: Papa
 hidden: true
+main_image: assets/images/papa/2016-01-16/1.gif
 ---
 
 Ils était 3 selon la Police, 27 d'après les organisateurs.
