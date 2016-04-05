@@ -34,6 +34,6 @@ Ils sont encore très jeunes, trop jeunes pour comprendre beaucoup de choses rel
 
 J'espère qu'ils grandiront en comprenant que tout le monde peut être fort et se sentir vulnérable, que tout le monde peut être intelligent ou avoir des doutes, que tout le monde peut être sensible et pleurer, que personne n'a besoin que la société lui dicte qui il doit être et à quoi il doit ressembler et qu’ils ont le droit de souffrir de tout ça et de le refuser et de venir me voir pour en parler.
 
-Est-ce que je suis tolérant&nbsp;? Non. Je suis aussi intransigeant que la plupart des gens&nbsp;: je ne tolérerai aucune forme de discrimination et n'hésiterais pas à entamer un dialogue pour y mettre un terme, chaque fois que cela sera nécessaire. Est-ce que je suis féministe&nbsp;? Probablement, si votre définition du féminisme est celle de l'égalité et pas celle d'une discrimination positive à l'égard des femmes.
+Est-ce que je suis tolérant&nbsp;? Non. Je suis aussi intransigeant que la plupart des gens, sur plein de choses, et je suis très souvent condescendant, même. Est-ce que je suis féministe&nbsp;? Probablement.
 
 Et je ferai chaque jour les efforts qu'il faut pour que mes fils grandissent avec ces valeurs.
