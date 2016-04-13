@@ -4,10 +4,8 @@ title: "Stage «&#160;Développeur&#160;» : 3 rappels pour préparer votre entr
 date: 2008-02-27 00:06:19
 tags:
   - Emploi
-  - Technologie
-  - Emploi
-  - Recrutement
-  - Stage
+series:
+  - Stage en développement
 ---
 
 1. Au t&#233;l&#233;phone ou par email, **demandez le num&#233;ro** de la personne qui doit vous rencontrer et gardez-le avec vous. &#199;a peut servir en cas d'**emp&#234;chement** ou de **retard**. Faute avou&#233;e &#233;tant &#224; moiti&#233; pardonn&#233;e, on vous en voudra moins d'appeler pour annoncer 30 minutes de retard que d'arriver 15 minutes en retard sans pr&#233;venir…

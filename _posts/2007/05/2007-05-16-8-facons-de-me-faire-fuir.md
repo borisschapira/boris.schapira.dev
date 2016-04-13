@@ -4,7 +4,6 @@ title: "8 façons de me faire fuir"
 date: 2007-05-16 18:56:03
 tags:
   - Emploi
-  - Monster
 ---
 
 Depuis plusieurs semaines, je reçois diverses offres (une à deux par jour) de sociétés souhaitant apparemment m'intégrer à leurs équipes. Ces mails sont pour la plupart très bien rédigés, s'accompagnent de coup de fils aimables et donnent suite à des entretiens.
