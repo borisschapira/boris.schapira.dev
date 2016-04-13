@@ -29,17 +29,17 @@ namespace :postbuild do
 
     desc "Test if generated website is valid (do not test external links)"
     task :kiss do
-      sh 'htmlproof ./_site  --disable-external --empty-alt-ignore true'
+      sh 'htmlproofer ./_site  --disable-external --empty-alt-ignore true'
     end
 
     desc "Test the generated website external links"
     task :externals do
-      sh 'htmlproof ./_site --empty-alt-ignore true'
+      sh 'htmlproofer ./_site --empty-alt-ignore true'
     end
 
     desc "Test the generated website alt messages on images"
     task :alt do
-      sh 'htmlproof ./_site  --disable-external'
+      sh 'htmlproofer ./_site  --disable-external'
     end
 
   end
