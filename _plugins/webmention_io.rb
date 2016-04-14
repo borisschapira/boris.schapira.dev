@@ -339,6 +339,7 @@ module Jekyll
           webmention << '</article></li>'
 
           cached_webmentions[target][the_date][id] = webmention
+
         end
 
       }
@@ -383,17 +384,11 @@ module Jekyll
 
     def initialize(tagName, text, tokens)
       super
-      @api_endpoint = 'http://webmention.io/api/mentions'
-      # add an arbitrarily high perPage to trump pagination
-      @api_suffix = '&perPage=9999'
+      @api_endpoint = 'http://webmention.io/api/count'
     end
 
     def html_output_for(response)
-      count = 0
-      if response and response['links']
-        count = response['links'].size
-      end
-      count
+      count = response['count'] || '0'
     end
 
   end
@@ -406,19 +401,6 @@ module Jekyll
       webmentions = {}
       if defined?(WEBMENTION_CACHE_DIR)
         cache_file = File.join(WEBMENTION_CACHE_DIR, 'webmentions.yml')
-        site.pages.each do |post|
-          source = "#{site.config['url']}#{post.url}"
-          targets = []
-          if post.data['in_reply_to']
-            targets.push(post.data['in_reply_to'])
-          end
-          post.content.scan(/(?:https?:)?\/\/[^\s)#"]+/) do |match|
-            if ! targets.find_index( match )
-              targets.push(match)
-            end
-          end
-          webmentions[source] = targets
-        end
         site.posts.docs.each do |post|
           source = "#{site.config['url']}#{post.url}"
           targets = []
@@ -436,6 +418,7 @@ module Jekyll
       end
     end
   end
+
 end
 
 Liquid::Template.register_tag('webmentions', Jekyll::WebmentionsTag)
