@@ -14,7 +14,7 @@ namespace :build do
 
 
   desc 'Generate for deployment (but do not deploy)'
-  task :generate, [:env,:deployment_configuration] => :clean do |t, args|
+  task :generate, [:env,:deployment_configuration] => "prebuild:test" do |t, args|
     args.with_defaults(:env => 'prod', :deployment_configuration => 'deploy')
     config_file = "_config_#{args[:env]}.yml"
     deploy_file = "_config_#{args[:deployment_configuration]}.yml"
