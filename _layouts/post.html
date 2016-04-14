@@ -54,13 +54,12 @@ layout: default
     <a href="#top" title="Vers l'infini et... euh, non, ramenez-moi juste en haut, merci.">&#11014;</a>
 </div>
 
-{% capture this_url %}{{ site.url }}{{ page.url }}{% endcapture %}
-{% capture count %}{% webmention_count this_url %}{% endcapture %}
+{% capture count %}{% webmention_count url %}{% endcapture %}
 {% capture count %}{{ count | minus:1 }}{% endcapture %}
 {% unless count contains '-' %}
 <section id="webmentions">
     <h2>Ils en parlent :</h2>
-    {% webmentions this_url %}
+    {% webmentions url %}
 </section>
 {% endunless %}
 
