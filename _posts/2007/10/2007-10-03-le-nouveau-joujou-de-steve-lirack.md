@@ -10,7 +10,7 @@ tags:
 
 A part les rires en fond sonore, la vidéo est un régal de second degré. Et comme souvent dans un bon sketch, le meilleur est à la fin.
 
-[Présentation de l'Apple iRack](//www.koreus.com/video/irack.html) via [Koreus](http://www.koreus.com/modules/news/)
+[Présentation de l'Apple iRack](http://www.koreus.com/video/irack.html) via [Koreus](http://www.koreus.com/modules/news/)
 
 Tiens j'en profites pour bien rigoler des récents doutes autour de l'iPhone et d'Orange… un peu comme si les journalistes français découvraient la loi. Voici pourtant ce que je publiais il y a plus d'un mois sur Lapytsh&nbsp;:
 

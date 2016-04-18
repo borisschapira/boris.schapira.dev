@@ -28,9 +28,9 @@ Exemple des idées reçues que je rencontre chaque jour chez mon client actuel&n
 
 Allez hop, je transforme ce billet en chaine et je le transmets à&nbsp;:
 
-*   [Aratta](//lifeinmuenchen.blogspot.com/) ([réponse ici](http://lifeinmuenchen.blogspot.com/2008/11/ides-reues.html))
-*   [Garçon](//cafecroissant.fr/) ([réponse ici](http://cafecroissant.fr/2008/les-idees-recues-en-chaine/))
-*   [VinZoo](//www.vinzblog.com/) ([réponse ici](http://www.vinzblog.com/idees-recues))
+*   [Aratta](http://lifeinmuenchen.blogspot.com/) ([réponse ici](http://lifeinmuenchen.blogspot.com/2008/11/ides-reues.html))
+*   [Garçon](http://cafecroissant.fr/) ([réponse ici](http://cafecroissant.fr/2008/les-idees-recues-en-chaine/))
+*   [VinZoo](http://www.vinzblog.com/) ([réponse ici](http://www.vinzblog.com/idees-recues))
 *   et bien sûr [Libellule](http://www.lacuisinedelibellule.fr/)&nbsp;!
 
 Avec eux, on devrait apprendre des choses intéressantes et variées à l'encontre des croyances populaires&nbsp;!

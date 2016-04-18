@@ -10,7 +10,7 @@ categories:
 
 <div></div>
 
-<div>Voici pour vous le dernier épisode, en français et en anglais, avec le transcript si vous préférez lire que voir. À noter pour les nomades&nbsp;: il est possible de télécharger la vidéo ou la bande son sur la page dédiée ([ici en français](//www.bnpparibas.com), [ici en anglais](http://www.bnpparibas.com)).</div>
+<div>Voici pour vous le dernier épisode, en français et en anglais, avec le transcript si vous préférez lire que voir. À noter pour les nomades&nbsp;: il est possible de télécharger la vidéo ou la bande son sur la page dédiée ([ici en français](http://www.bnpparibas.com), [ici en anglais](http://www.bnpparibas.com)).</div>
 
 <div></div>
 

@@ -10,7 +10,7 @@ categories:
 
 44 ans, c'est demain. 44 ans, c'est le fruit de tout ce que je ferai à partir de maintenant. 44 ans, c'est un peu aujourd'hui.
 
-44 ans, c'est l'âge auquel Thierry L. vient d'apprendre qu'il était atteint de la [maladie de Charcot,](//fr.wikipedia.org/wiki/Maladie_de_Charcot) incurable et mortelle. Thierry L. À trois enfants et une femme. Thierry L. À une [carrière](http://www.rothschild.com/). Et Thierry L. va mourir.
+44 ans, c'est l'âge auquel Thierry L. vient d'apprendre qu'il était atteint de la [maladie de Charcot,](http://fr.wikipedia.org/wiki/Maladie_de_Charcot) incurable et mortelle. Thierry L. À trois enfants et une femme. Thierry L. À une [carrière](http://www.rothschild.com/). Et Thierry L. va mourir.
 
 Des gens comme Thierry L., il y en a beaucoup. Des gens heureux ou malheureux que la maladie frappe pour une raison inconnue. Etant donné que c'est toujours injuste et cruel, on finit par se blinder. On détourne les yeux, on ne veut plus voir.
 

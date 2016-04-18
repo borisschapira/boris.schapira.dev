@@ -6,7 +6,7 @@ categories:
   - Politique
 ---
 
-[![Tony Blair photographié par Fr@nçois](//flickr.com/photos/francois_lafite/2187460579/)](http://flickr.com/photos/francois_lafite/2187460579/)
+[![Tony Blair photographié par Fr@nçois](http://flickr.com/photos/francois_lafite/2187460579/)](http://flickr.com/photos/francois_lafite/2187460579/)
 
 La présence de Tony Blair au Conseil National de l'UMP est fortement symptomatique des déséquilibres politiques en France&nbsp;:
 

@@ -18,4 +18,4 @@ L’écriture est rapide, soignée mais peu descriptive. Au moins le roman n’a
 
 Je conseille donc ce roman à ceux qui comme moi ont oublié l’addiction littéraire et voudraient s'y remettre.
 
-Prochain achat&nbsp;? Déjà commis. Je me suis jeté sur le livre de [Bénédicte](//police.etc.over-blog.net/) (présidente du fan-club des [Bleus, sur M6](http://police.etc.over-blog.net/article-12835909.html))&nbsp;: un ouvrage (très) dur mais (très) vrai, simple, cru mais pas vulgaire. Du moins d'après les 35 pages que j'ai lues dans le Métro au retour du boulot hier.
+Prochain achat&nbsp;? Déjà commis. Je me suis jeté sur le livre de [Bénédicte](http://police.etc.over-blog.net/) (présidente du fan-club des [Bleus, sur M6](http://police.etc.over-blog.net/article-12835909.html))&nbsp;: un ouvrage (très) dur mais (très) vrai, simple, cru mais pas vulgaire. Du moins d'après les 35 pages que j'ai lues dans le Métro au retour du boulot hier.

@@ -9,12 +9,12 @@ tags:
 
 &lt;
 
-p style="text-align: center">[![Hey guys, I captured the mouse!](//www.flickr.com/photos/53611153@N00/316668966/ "Hey guys, I captured the mouse!")](http://www.flickr.com/photos/53611153@N00/316668966/ "Hey guys, I captured the mouse!")
-[](//creativecommons.org/licenses/by/2.0/ "Attribution License") [photo](//www.photodropper.com/photos/) credit: [Darwin Bell](http://www.flickr.com/photos/53611153@N00/316668966/ "Darwin Bell")
+p style="text-align: center">[![Hey guys, I captured the mouse!](http://www.flickr.com/photos/53611153@N00/316668966/ "Hey guys, I captured the mouse!")](http://www.flickr.com/photos/53611153@N00/316668966/ "Hey guys, I captured the mouse!")
+[](http://creativecommons.org/licenses/by/2.0/ "Attribution License") [photo](http://www.photodropper.com/photos/) credit: [Darwin Bell](http://www.flickr.com/photos/53611153@N00/316668966/ "Darwin Bell")
 
 Sous l'impulsion de la [nouvelle top model des blogs](http://catpointzero.com/?p=474), je réponds à la nouvelle chaine qui occupe les blogueurs l'été&nbsp;: les défis réalisés et à réaliser sur son blog. Une question difficile car je n'ai pas vraiment de "défi" sur le blog. Je vais donc mettre 5 fiertés et 5 hontes. Oui je suis comme ça, moi, je change les règles si je veux&nbsp;!
 
-Et je veux désormais connaître les 10 défis de ma [Libellule](//www.lacuisinedelibellule.fr/), de Chris et de [Bénédicte ](//police.etc.over-blog.net/)qui pourra ainsi confirmer que [les blogueurs sont des](http://police.etc.over-blog.net/article-22115593.html)…
+Et je veux désormais connaître les 10 défis de ma [Libellule](http://www.lacuisinedelibellule.fr/), de Chris et de [Bénédicte ](http://police.etc.over-blog.net/)qui pourra ainsi confirmer que [les blogueurs sont des](http://police.etc.over-blog.net/article-22115593.html)…
 
 <span style="text-decoration: underline">_**5 fiertés de blogueur **_</span>:
 

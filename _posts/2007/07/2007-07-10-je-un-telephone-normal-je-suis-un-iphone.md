@@ -10,4 +10,4 @@ Merci beaucoup à Eric de Geek Mag et [Monsieur Dream](http://www.cyprien.fr/ind
 
 <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x2fj4m" allowfullscreen></iframe>
 
-[Quasi-test : Iphone vs telephone portable normal](//www.dailymotion.com/video/x2fj4m_quasi-test-iphone-vs-telephone-port_tech) _par [MonsieurDream](http://www.dailymotion.com/MonsieurDream)_
+[Quasi-test : Iphone vs telephone portable normal](http://www.dailymotion.com/video/x2fj4m_quasi-test-iphone-vs-telephone-port_tech) _par [MonsieurDream](http://www.dailymotion.com/MonsieurDream)_

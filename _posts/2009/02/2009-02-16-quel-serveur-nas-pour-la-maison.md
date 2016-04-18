@@ -12,7 +12,7 @@ Ce n'est plus possible. Entre les Isos des build de Seven et de Vista, les binai
 
 Je suis donc à la recherche d'une bonne solution de stockage et il m'a semblé que l'installation d'un serveur NAS à la maison faisait partie des meilleures. En plus, discrètement placé dans la cuisine, ça peut passer pour un grille-pain…
 
-J'ai commencé à regarder chez NETGEAR, et le [SC101T](//www.netgear.com/Products/Storage/NetworkStorage/SC101T.aspx) m'a fait de l'œil. Mais [Tsad](https://twitter.com/tsad) m'a aussitôt conseillé sur Twitter le [ReadyNASDuo](http://www.netgear.com/Products/Storage/ReadyNASDuo/RND2110.aspx), bien plus professionnel. Reste à trouver une solution peu onéreuse pour relier tout ça au Wifi sans avoir besoin de démonter la Neuf Box… si ça vaut le coup. En effet, j'ai entendu dire qu'un NAS en wifi relevait du cauchemar car les temps d'accès sont très lents.
+J'ai commencé à regarder chez NETGEAR, et le [SC101T](http://www.netgear.com/Products/Storage/NetworkStorage/SC101T.aspx) m'a fait de l'œil. Mais [Tsad](https://twitter.com/tsad) m'a aussitôt conseillé sur Twitter le [ReadyNASDuo](http://www.netgear.com/Products/Storage/ReadyNASDuo/RND2110.aspx), bien plus professionnel. Reste à trouver une solution peu onéreuse pour relier tout ça au Wifi sans avoir besoin de démonter la Neuf Box… si ça vaut le coup. En effet, j'ai entendu dire qu'un NAS en wifi relevait du cauchemar car les temps d'accès sont très lents.
 
 Je ne suis pas à la recherche d'une solution de stockage qui remplacerait les disques locaux des PC de la maison (pas question de se servir du NAS pour lire et travailler sur des fichiers à travers le réseau) donc ça ne m'inquiète pas trop (mais un peu quand même).
 
