@@ -55,46 +55,50 @@ img {
       color: $color-gray;
     }
   }
-  .contrib {
-    border: 1px solid darken($color-fuschia,20);
-    a {
-      color: darken($color-fuschia,20);
+  .post footer {
+    font-size: 0.8em;
+    .contrib {
+      /* border: 1px solid darken($color-fuschia,20);*/
+      a {
+        color: darken($color-fuschia,20);
+      }
     }
-  }
-  .discuss, .share {
-    border: 1px solid $color-green;
-    a {
-      color: darken($color-green, 10);
-    }
-    input[type="submit"] {
-      padding: 5px 15px;
-      background: $color-green;
-      border: 0 none;
-      cursor: pointer;
-    }
-  }
-  .contrib,
-  .discuss,
-  .share {
-    margin: 20px 0;
-    color: #333;
-    p,
-    form {
-      margin: 0;
-      padding: 10px;
-    }
-    form {
-      display: flex;
+    .discuss,
+    .share {
+      /*border: 1px solid $color-green;*/
+      a {
+        color: darken($color-green, 10);
+      }
       input[type="submit"] {
-        flex: 1;
-      }
-      input[type="text"] {
-        flex: 3;
+        padding: 5px 15px;
+        background: $color-green;
+        border: 0 none;
+        cursor: pointer;
       }
     }
-  }
-  .nowrap {
-    display: inline-flex;
+    .contrib,
+    .discuss,
+    .share {
+      margin: 20px 0;
+      color: #333;
+      p,
+      form {
+        margin: 0;
+        padding: 10px;
+      }
+      form {
+        display: flex;
+        input[type="submit"] {
+          flex: 1;
+        }
+        input[type="text"] {
+          flex: 3;
+        }
+      }
+    }
+    .nowrap {
+      display: inline-flex;
+    }
   }
 }
 header.posts-h {
@@ -119,7 +123,8 @@ html .content .post .p-header .p-author {
 .page-title {
   font-size: 2rem;
 }
-.footnotes {
+.footnotes,
+.post-footer {
   margin-top: 5em;
 }
 .elevator {
