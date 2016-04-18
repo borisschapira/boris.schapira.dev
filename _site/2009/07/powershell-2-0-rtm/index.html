@@ -4,7 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />  <!-- CSS -->
-  <link type="text/css" rel="stylesheet" href="/assets/main-45e304ed500eb0ce527177c6e7e6e56818a571301398eb95de0115b002e88f21.css">  <!-- WebMentions -->  <link rel="pingback" href="https://webmention.io/webmention?forward=https://webmention.io/borisschapira.com/webmention" />
+  <link type="text/css" rel="stylesheet" href="/assets/main-638092be53061edad64609d7a32c3e239e4005366898a9d641393b79f20092db.css">  <!-- WebMentions -->  <link rel="pingback" href="https://webmention.io/webmention?forward=https://webmention.io/borisschapira.com/webmention" />
   <link rel="webmention" href="https://webmention.io/borisschapira.com/webmention" />  <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">  <!-- Social Media -->  <title itemprop="name">PowerShell 2.0 RTM &middot; Boris Schapira</title>    <link rel="canonical" href="http://www.nexeo.fr/blog/2009/07/31/powershell-2-0-rtm/" data-proofer-ignore/>  <meta name="description" content="A l’instar des systèmes d’exploitation Windows 7 et Windows Server 2008 R2, PowerShell 2 vient lui aussi de passer en version RTM. Logique, puisque PowerShell 2 sera intégré dans ces deux systèmes dès leur sortie." />
   <meta property="og:url" content="https://borisschapira.com/2009/07/powershell-2-0-rtm/" />
@@ -122,7 +122,10 @@
       </svg>
     </a>
   </li></ul>  </div>
-</div>    <div class="content container" role="main"><article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting" id="content">    <header class="p-header">        <time class="p-date dt-published" datetime="2009-07-31T02:00:00+02:00">vendredi 31 <a href="/2009/07/" title="Articles de juillet 2009">juillet</a> <a href="/2009/" title="Articles de 2009">2009</a></time><span class="p-readtime nowrap" title="Environ 1 min. de lecture"><svg class="icon icon-clock"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-clock"></use></svg> 1 min.</span><span class="p-author h-card">Boris Schapira</span>
+</div>    <div class="content container" role="main"><article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting" id="content">
+    <header class="p-header">        <time class="p-date dt-published" datetime="2009-07-31T02:00:00+02:00">vendredi 31 <a href="/2009/07/" title="Articles de juillet 2009">juillet</a> <a href="/2009/" title="Articles de 2009">2009</a></time>
+<span class="p-readtime nowrap" title="Environ 1 min. de lecture"><svg class="icon icon-clock"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-clock"></use></svg> 1 min.</span>
+<span class="p-author h-card">Boris Schapira</span>
     </header>  <h3 class="post-title p-name">        PowerShell 2.0 RTM  </h3>  <div class="post-content">      <p>A l’instar des systèmes d’exploitation Windows 7 et Windows Server 2008 R2, <strong>PowerShell 2</strong> vient lui aussi de passer en <a href="http://blogs.technet.com/powershell/archive/2009/07/28/windows-powershell-2-0-est-rtm.aspx">version RTM</a>. Logique, puisque PowerShell 2 sera intégré dans ces deux systèmes dès leur sortie.</p><p>Rappelons à toutes fins utiles que PowerShell est une interface en ligne de commande basée sur le framework Microsoft .NET. A ce titre, il est possible de faire des choses très sympathiques avec de l’Orienté Objet. Un exemple&#8239;? La gestion des service&nbsp;:</p><p>```<br />
 [System.ServiceProcess.ServiceController]::GetServices(‘MonService’) (new-Object System.ServiceProcess.ServiceController(‘Service’,’MonService’)).Start() (new-Object System.ServiceProcess.ServiceController(‘Service’,’MonService’)).WaitForStatus(‘Running’,(new-timespan -seconds 5))<br />
 ``</p><p>PowerShell 2 se distinguera notamment de sa version précédente via plusieurs nouvelles fonctionnalités telles que&nbsp;:</p><ul>
@@ -131,29 +134,18 @@
   <li>Fonctions avancées</li>
   <li>Support WMI étendu</li>
   <li>Nouvelles cmdlets</li>
-</ul><p>De quoi s’amuser quelques temps à enrichir les outils d’administrations de nos serveurs&#8239;!</p>  </div>
-</article><div class="discuss">
+</ul><p>De quoi s’amuser quelques temps à enrichir les outils d’administrations de nos serveurs&#8239;!</p>      <footer class="post-footer"><div class="discuss share">
   <p>
-    Envie de discuter de cet article avec d'autres lecteurs&#8239;? Rejoignez-nous <a target="_blank" rel="noopener nofollow" href="https://slackin-borisschapiracom.herokuapp.com/" title="Rejoindre le Slack de https://borisschapira.com">sur <span class="nowrap">Slack&nbsp;<svg class="icon icon-slack"><use xlink:href="#icon-slack"></use></svg></span></a>.
-    Vous préférez me contacter directement&#8239;? N'hésitez pas à <a rel="noopener me" target="_blank" title="Contacter Boris par mail" href="mailto:contact%40borisschapira.com?subject=Page%20%22PowerShell 2.0 RTM%22&body=url+%3D+/2009/07/powershell-2-0-rtm/+%0D%0A%0D%0ABonjour%2C%0D%0A%0D%0A%7B%7B+N%27h%C3%A9sitez+pas+%C3%A0+prendre+quelques+minutes+pour+vous+pr%C3%A9senter+si+c%27est+votre+premier+envoi.+%7D%7D%0D%0A%0D%0A%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%0D%0A%0D%0A%7B%7B+%C3%89crivez+ici+votre+message+%7D%7D%0D%0A%0D%0A%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85">m'envoyer un <span class="nowrap">mail&nbsp;<svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg></span></a>.
+    Envie de discuter de cet article&#8239;? Rejoignez-moi <a target="_blank" rel="noopener nofollow" href="https://slackin-borisschapiracom.herokuapp.com/" title="Rejoindre le Slack de https://borisschapira.com">sur <span class="nowrap">Slack&nbsp;<svg class="icon icon-slack"><use xlink:href="#icon-slack"></use></svg></span></a> ou <a rel="noopener me" target="_blank" title="Contacter Boris par mail" href="mailto:contact%40borisschapira.com?subject=Page%20%22PowerShell 2.0 RTM%22&body=url+%3D+/2009/07/powershell-2-0-rtm/+%0D%0A%0D%0ABonjour%2C%0D%0A%0D%0A%7B%7B+N%27h%C3%A9sitez+pas+%C3%A0+prendre+quelques+minutes+pour+vous+pr%C3%A9senter+si+c%27est+votre+premier+envoi.+%7D%7D%0D%0A%0D%0A%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%0D%0A%0D%0A%7B%7B+%C3%89crivez+ici+votre+message+%7D%7D%0D%0A%0D%0A%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85">envoyez-moi un <span class="nowrap">mail&nbsp;<svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg></span></a>. Si cet article vous a plu, n'hésitez pas à le partager sur <a target="_blank" rel="noopener  nofollow" href="https://twitter.com/share?text=PowerShell%202.0%20RTM+par+@borisschapira" title="Partager cet article sur Twitter">sur Twitter&nbsp;<svg class="icon icon-twitter2"><use xlink:href="#icon-twitter2"></use></svg></a> ou <a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fborisschapira.com%2F2009%2F07%2Fpowershell-2-0-rtm%2F" title="Partager cet article sur Facebook">Facebook&nbsp;<svg class="icon icon-facebook2"><use xlink:href="#icon-facebook2"></use></svg></a>.
   </p>
-</div><div class="share">
-  <p>
-    Si cet article vous a plu, n'hésitez pas à le partager sur <a target="_blank" rel="noopener  nofollow" href="https://twitter.com/share?text=PowerShell%202.0%20RTM+par+@borisschapira" title="Partager cet article sur Twitter">sur Twitter&nbsp;<svg class="icon icon-twitter2"><use xlink:href="#icon-twitter2"></use></svg></a> ou <a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fborisschapira.com%2F2009%2F07%2Fpowershell-2-0-rtm%2F" title="Partager cet article sur Facebook">Facebook&nbsp;<svg class="icon icon-facebook2"><use xlink:href="#icon-facebook2"></use></svg></a>. Si vous commentez ailleurs, n'hésitez pas à me donner l'URL (je traite à la main, soyez patients)&nbsp;:
-  </p>
-  <form enctype="text/plain" method="get" action="mailto:contact%40borisschapira.com">
-    <input type="text" name="body" placeholder="https://">
-    <input type="submit" value="Mentionner">
-    <input type="hidden" name="subject" value="Webmention pour &quot;PowerShell 2.0 RTM&quot;">
-  </form>
 </div><div class="contrib">
   <p>
     Si vous détectez une erreur et que vous avez un compte Github, vous pouvez proposer une <a rel="nofollow" href="https://github.com/borisschapira/blog/blob/master/2009/07/2009-07-31-powershell-2-0-rtm.md">modification des <span class="nowrap">sources&nbsp;<svg class="icon icon-git"><use xlink:href="#icon-git"></use></svg></span></a>,
     ou ouvrir un <a class="nowrap" href="https://github.com/borisschapira/blog/issues/new?title=Article%20%22/2009/07/powershell-2-0-rtm/%22" rel="nofollow">ticket&nbsp;<svg class="icon icon-github4"><use xlink:href="#icon-github4"></use></svg></a>.
   </p>
-</div><div class="page-navigation">        <a class="prev" rel="nofollow" href="/2009/07/facebook-a-dit-il-va-bien/" title="Facebook a dit&nbsp;: il va bien">&laquo; Facebook a dit&nbsp;: il va bien</a>        <a class="next" rel="nofollow" href="/2009/08/retro-il-y-a-un-an-e2-80-a6-aout-2008/" title="[Rétro] Il y a un an… août 2008.">[Rétro] Il y a un an… août 2008. &raquo;</a></div><div class="js elevator">
-    <a href="#top" title="Vers l'infini et&#8230; euh, non, ramenez-moi juste en haut, merci.">&#11014;</a>
-</div><div class="related">
+</div>
+</footer>  </div>
+</article><div class="page-navigation">        <a class="prev" rel="nofollow" href="/2009/07/facebook-a-dit-il-va-bien/" title="Facebook a dit&nbsp;: il va bien">&laquo; Facebook a dit&nbsp;: il va bien</a>        <a class="next" rel="nofollow" href="/2009/08/retro-il-y-a-un-an-e2-80-a6-aout-2008/" title="[Rétro] Il y a un an… août 2008.">[Rétro] Il y a un an… août 2008. &raquo;</a></div><div class="related">
     <h2>Ces articles peuvent également vous intéresser&nbsp;:</h2>
     <ul>        <li class="relatedPost">
             <a href="/2009/12/mono-is-feature-complete/">Mono C# compiler is now C# 4.0 feature complete            </a>
