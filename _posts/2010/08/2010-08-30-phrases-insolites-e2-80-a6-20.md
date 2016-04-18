@@ -12,16 +12,16 @@ _C’est fou ce qu’on peut entendre quand on tend l’oreille…_
 
 ## Drague Sociale (et hyper macho, mais je suis sûr qu'une fille aurait pu sortir ça pour les mecs)
 
-> \- C'est quand même triste ces filles qui ne veulent pas présenter leurs copines ou sœur à leur mec, parce qu'elles sont plus jolies.
-> \- T'imagines, la réalité augmentée de demain&nbsp;: tu dragues une fille et apparait en sur-impression la pile de toutes les photos des autres filles célibataires de son cercle social. Comme ça, t'es sûr de pas choper la plus moche&nbsp;!
-> \- T'imagines, pendant que tu la dragues *imite le mouvement de parcours d'album sur l'iPhone*&nbsp;!
+> - C'est quand même triste ces filles qui ne veulent pas présenter leurs copines ou sœur à leur mec, parce qu'elles sont plus jolies.
+> - T'imagines, la réalité augmentée de demain&nbsp;: tu dragues une fille et apparait en sur-impression la pile de toutes les photos des autres filles célibataires de son cercle social. Comme ça, t'es sûr de pas choper la plus moche&nbsp;!
+> - T'imagines, pendant que tu la dragues *imite le mouvement de parcours d'album sur l'iPhone*&nbsp;!
 
 ## Tous les goûts…
 
-> \- Je vous ai mis un sirop Anis parce qu'on n'avait plus de Menthe.
-> \- Ah, c'est bizarre, ce n'est pas vraiment ce que nous avions commandé…
-> \- Vous aviez commandé quoi&nbsp;?
-> \- Pomme et pêche.
+> - Je vous ai mis un sirop Anis parce qu'on n'avait plus de Menthe.
+> - Ah, c'est bizarre, ce n'est pas vraiment ce que nous avions commandé…
+> - Vous aviez commandé quoi&nbsp;?
+> - Pomme et pêche.
 
 ## Cake
 
