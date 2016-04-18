@@ -6,9 +6,9 @@ category: Papa
 hidden: true
 ---
 
-> \- Maman, pourquoi tu fais du grabouillage ?
-> \- Ah non, je te remercie… c'est ma signature.
-> \- Ah, d'accord.
+> - Maman, pourquoi tu fais du grabouillage ?
+> - Ah non, je te remercie… c'est ma signature.
+> - Ah, d'accord.
 
 Cinq minutes après, il me confiera :
 

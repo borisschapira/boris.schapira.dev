@@ -147,6 +147,12 @@ html .content .post .p-header .p-author {
   blockquote {
     font-size: 1.1rem;
     border-left: 0.25rem solid $color-fuschia;
+    li {
+      list-style-type: none;
+    }
+    li::before {
+      content: "—";
+    }
     cite {
       font-size: 1rem;
       margin-top: 1em;
