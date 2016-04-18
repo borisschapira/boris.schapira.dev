@@ -13,7 +13,7 @@ tags:
   </a>
 </figure>
 
-Après le [test de l'Arc Mouse](//borisschapira.com/2009/02/microsoft-arc-mouse-avis-personnel/)], voici que Microsoft Hardware m'envoie la Wireless Mobile Mouse 6000 en test. En voyant arriver cette souris d'un design assez commun, je sous-estimais profondément sa capacité à me rendre accro…
+Après le [test de l'Arc Mouse](/2009/02/microsoft-arc-mouse-avis-personnel/)], voici que Microsoft Hardware m'envoie la Wireless Mobile Mouse 6000 en test. En voyant arriver cette souris d'un design assez commun, je sous-estimais profondément sa capacité à me rendre accro…
 
 **Installation (sous Windows)&nbsp;:** A l'instar de l'Arc Mouse, l'installation est simplissime. Une toute petite clé USB sort de la souris sur pression d'un bouton. Une fois branchée sur le PC, elle dépasse d'à peine 3 ou 4 millimètres. Les pilotes sont inclus, ce qui assure une utilisation immédiate sur tout système Windows (j'ai essayé XP, Vista et Windows 7). **20/20**
 

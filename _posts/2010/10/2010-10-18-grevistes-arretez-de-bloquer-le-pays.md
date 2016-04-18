@@ -7,7 +7,7 @@ hidden: true
 tags:
 ---
 
-Écrivez plutôt à votre député, expliquez-lui que vous n'êtes pas d'accord et qu'il n'aura pas votre voix en 2012, aux prochaines [élections législatives](//fr.wikipedia.org/wiki/%C3%89lections_l%C3%A9gislatives_fran%C3%A7aises_de_2012). Pour voir l'activité de votre député, c'est [ici](http://www.nosdeputes.fr/circonscription "Carte des circonscriptions sur NosDeputes.fr"). Pour savoir s'il a voté pour cette réforme, voyez ci-après et pour lui écrire, c'est [par là](https://wiki.laquadrature.net/Memoire_politique "Mémoire Polique de la Quadrature du Net"). Vous pouvez même faire de même avec [vos sénateurs](http://www.senat.fr/senateurs/sencir.html "Ecrire à ses sénateurs").
+Écrivez plutôt à votre député, expliquez-lui que vous n'êtes pas d'accord et qu'il n'aura pas votre voix en 2012, aux prochaines [élections législatives](http://fr.wikipedia.org/wiki/%C3%89lections_l%C3%A9gislatives_fran%C3%A7aises_de_2012). Pour voir l'activité de votre député, c'est [ici](http://www.nosdeputes.fr/circonscription "Carte des circonscriptions sur NosDeputes.fr"). Pour savoir s'il a voté pour cette réforme, voyez ci-après et pour lui écrire, c'est [par là](https://wiki.laquadrature.net/Memoire_politique "Mémoire Polique de la Quadrature du Net"). Vous pouvez même faire de même avec [vos sénateurs](http://www.senat.fr/senateurs/sencir.html "Ecrire à ses sénateurs").
 
 **Ne prenez pas vos concitoyens en otage&nbsp;: effrayez vos élus.**
 <!-- more -->

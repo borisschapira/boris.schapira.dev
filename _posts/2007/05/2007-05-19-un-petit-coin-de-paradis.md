@@ -16,6 +16,6 @@ Donc je récapitule : un propriétaire civique propose de louer des chambres dan
 M. et Mme WIEDER FISCHER
 28, le bas de la Goulotte
 70270 MELISEY
-Tél : 03 84 20 08 37 - Fax : 03 84 20 08 37 ](//office-tourisme-melisey.fr/gites-etapes.php?id=343000175&amp;idcrit=2000008)
+Tél : 03 84 20 08 37 - Fax : 03 84 20 08 37 ](http://office-tourisme-melisey.fr/gites-etapes.php?id=343000175&amp;idcrit=2000008)
 
 Pour conclure, ces quelques mots de l'artiste à propos de son œuvre : "Oui, c'est embêtant, les hommes se plaignent beaucoup parce que leurs femmes veulent la même chose à la maison".

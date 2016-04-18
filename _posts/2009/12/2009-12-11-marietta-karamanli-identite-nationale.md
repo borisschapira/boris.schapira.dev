@@ -11,7 +11,7 @@ tags:
 
 ## Merci pour ce témoignage, Madame
 
-Merci égalemment  à [Mathilde Mathieu](//blogs.mediapart.fr/blog/mathilde-mathieu) de l'avoir rapporté [sur MediaPart](http://blogs.mediapart.fr/blog/mathilde-mathieu/111209/moi-deputee-francaise-etrangere-pendant-la-moitie-de-ma-vie))
+Merci égalemment  à [Mathilde Mathieu](http://blogs.mediapart.fr/blog/mathilde-mathieu) de l'avoir rapporté [sur MediaPart](http://blogs.mediapart.fr/blog/mathilde-mathieu/111209/moi-deputee-francaise-etrangere-pendant-la-moitie-de-ma-vie))
 
 <!-- more -->
 

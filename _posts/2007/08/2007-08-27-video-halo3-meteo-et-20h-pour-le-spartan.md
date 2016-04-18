@@ -12,9 +12,9 @@ Deux nouvelles vidéo virales (à l'heure où j'écris, Lapytsh n'en n'a vu qu'u
 <div>
 **Halo à la Météo (film2)**
 [Video](http://www.wat.tv/videos "Toutes les videos")
-_Envoyé par [Halo3](//www.wat.tv/Halo3) sur [wat.tv](http://www.wat.tv)_</div>
+_Envoyé par [Halo3](http://www.wat.tv/Halo3) sur [wat.tv](http://www.wat.tv)_</div>
 
 <div>
 **Halo3 au maquillage **
 [Video](http://www.wat.tv/videos "Toutes les videos")
-_Envoyé par [Halo3](//www.wat.tv/Halo3) sur [wat.tv](http://www.wat.tv)_</div>
+_Envoyé par [Halo3](http://www.wat.tv/Halo3) sur [wat.tv](http://www.wat.tv)_</div>

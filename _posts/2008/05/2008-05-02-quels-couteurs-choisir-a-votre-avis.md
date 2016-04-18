@@ -10,7 +10,7 @@ Mon adaptateur USB Mini/Jack commence sérieusement à rendre l'âme et mon [cas
 
 Problème&nbsp;: je n'y connais absolument rien. À priori, j'opte pour des écouteurs intra-auriculaires mais c'est surtout parce que j'ai l'impression que ce sont les seuls qui ne ressortent pas quand on court. Ayant déjà essayé les oreillettes tour-d'oreille avec les [Sony MDR-J10](http://www.amazon.fr/Sony-Ecouteurs-intra-auriculaires-MDR-J10L-Couleur/dp/B00007EDM8), j'ai été assez déçu parce qu'elles ne tiennent pas et le son n'est pas d'une très bonne qualité…
 
- [![earphones](//flickr.com/photos/timlawrenz/224518559/)](http://flickr.com/photos/timlawrenz/224518559/)
+ [![earphones](http://flickr.com/photos/timlawrenz/224518559/)](http://flickr.com/photos/timlawrenz/224518559/)
 
 Donc voilà, je suis un peu perdu dans le monde des caresseurs de tympans. Bien évidemment, je voudrais que ça me permette de bien profiter de mes films et fichiers audio. Mais je voudrais aussi pouvoir courir avec tout en gardant la possibilité de ranger le tout dans ma sacoche en arrivant au travail.
 

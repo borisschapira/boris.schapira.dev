@@ -7,7 +7,7 @@ tags:
   - MSDays
 ---
 
-Je viendrai représenter [Nexdotnet, le pôle .NET de NEXEO](//nexdotnet.nexeo.fr/) au [Microsoft Days](http://www.microsoft.com/france/microsoft-days/) le 6 octobre prochain. Pour ceux qui voudraient m'y rencontrer, voici mon planning&nbsp;:
+Je viendrai représenter [Nexdotnet, le pôle .NET de NEXEO](http://nexdotnet.nexeo.fr/) au [Microsoft Days](http://www.microsoft.com/france/microsoft-days/) le 6 octobre prochain. Pour ceux qui voudraient m'y rencontrer, voici mon planning&nbsp;:
 
 *   **09h30** Le Cloud Computing et le Système d'Information&nbsp;: Enjeux, opportunités et mise en ouvre
 *   **11h00** Développement ASP.NET et ASP.NET MVC

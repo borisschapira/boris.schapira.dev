@@ -14,7 +14,7 @@ Je suis terriblement amusé de voir que les péripéties que j'ai vécu avec Mon
 Pour faire bref :
 
 *   Au début, [il se lance tranquillement](http://fake6tm.free.fr/blog/index.php?2007/06/16/39-recherche-d-emploi-mode-d-emploi)
-*   Il s'applique à rédiger son CV et à [le rendre disponible](//fake6tm.free.fr/blog/index.php?2007/06/18/41-recherche-d-emploi-etape-20) sur [des sites](//fake6tm.free.fr/blog/index.php?2007/06/20/44-recherche-d-emploi-premiers-resultats) comme [Viadeo](http://fr.viadeo.com/fr/profile/pierre-jean.bourgery).
+*   Il s'applique à rédiger son CV et à [le rendre disponible](http://fake6tm.free.fr/blog/index.php?2007/06/18/41-recherche-d-emploi-etape-20) sur [des sites](http://fake6tm.free.fr/blog/index.php?2007/06/20/44-recherche-d-emploi-premiers-resultats) comme [Viadeo](http://fr.viadeo.com/fr/profile/pierre-jean.bourgery).
 *   Rapidement, [les contacts arrivent](http://fake6tm.free.fr/blog/index.php?2007/06/21/45-recherche-d-emploi-resultats) et il décide de tenter Monster…
 *   … et se retrouve très rapidement [submergé de réponses](http://fake6tm.free.fr/blog/index.php?2007/06/22/46-monsterfr-la-boite-de-pandore-des-temps-modernes) !
 *   Surpris, [il hésite](http://fake6tm.free.fr/blog/index.php?2007/06/23/47-questionnement) à s'inscrire ailleurs, de peur de ne pas pouvoir supporter les demandes.

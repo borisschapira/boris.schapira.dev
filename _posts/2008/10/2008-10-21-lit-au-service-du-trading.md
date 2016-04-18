@@ -9,7 +9,7 @@ tags:
   - Nexeo
 ---
 
-[![Société Générale - Damien Roue](//flickr.com/photos/damienroue/2618107379/)](http://flickr.com/photos/damienroue/2618107379/)
+[![Société Générale - Damien Roue](http://flickr.com/photos/damienroue/2618107379/)](http://flickr.com/photos/damienroue/2618107379/)
 
 La **salle de marché** s'excite. La courbe de taux se retourne et le Trading a besoin d'**outils** pour prendre les bonnes **décisions**. Appels téléphonique aux Commandos, envois de mails ou cris à travers la salle&nbsp;: nous sommes immédiatement au courant. En croisant divers référentiels, nous extrayons la liste d'**opérations** concernées, puis lançons nos applicatifs et fournissons quelques minutes plus tard les indicateurs désirés.
 
