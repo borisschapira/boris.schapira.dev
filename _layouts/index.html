@@ -14,12 +14,12 @@ layout: default
 
     {% if nocat == "x" %}
         {% for post in paginator.posts %}
-            {% include post.html postPage=false %}
+            {% include post.html.liquid postPage=false %}
         {% endfor %}
-        {% include pagination.html %}
+        {% include pagination.html.liquid %}
     {% else %}
         {% for post in site.categories.[page.category] %}
-            {% include post.html postPage=false %}
+            {% include post.html.liquid postPage=false %}
         {% endfor %}
     {% endif %}
 </section>

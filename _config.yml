@@ -58,6 +58,11 @@ author:
 # Posts links and pagination
 permalink: :year/:month/:title/
 
+# Collections
+collections:
+  confs:
+    output: true
+
 # EU Cookie law
 eu_cookie_law:
   active: true
@@ -109,7 +114,7 @@ assets:
 responsive_image:
   # [Required]
   # Path to the image template.
-  template: _includes/responsive-image.html
+  template: _includes/responsive-image.html.liquid
 
   # [Optional, Default: 85]
   # Quality to use when resizing images.

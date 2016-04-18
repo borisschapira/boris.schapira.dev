@@ -4,17 +4,17 @@ layout: microtypo
 <!DOCTYPE html>
 <html lang="{{ site.lang }}" itemscope itemtype="https://schema.org/WebPage">
 
-  {% include head.html %}
+  {% include head.html.liquid %}
 
   <body id="top" class="theme-base-0g">
 
-    {% include sidebar.html %}
+    {% include sidebar.html.liquid %}
 
     <div class="content container" role="main">
       {{ content }}
     </div>
 
-  {% include footer.html loadSearch=page.loadSearch  %}
-  {% include symbols.svg %}
+  {% include footer.html.liquid loadSearch=page.loadSearch  %}
+  {% include symbols.svg.liquid %}
   </body>
 </html>
