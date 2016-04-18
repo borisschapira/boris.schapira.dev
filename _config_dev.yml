@@ -22,7 +22,6 @@ algolia:
 
 # Development configuration (comment for Production)
 
-limit_posts: 10
+limit_posts: 20
 host: 0.0.0.0
-show_drafts: true
 future: true
