@@ -24,7 +24,7 @@ Je réfléchis, la question n'est pas simple.
 Tandis qu'il acquiesce, je le sens qui réfléchit.
 
 > —  Moi, je me sauve moi, Papa, je ne veux pas être mort.
-> —  Personne ne te l'a demander, mon cœur. Ni Maman ni moi n'avons prévu de nous faire manger par des baleines. Ne t'inquiète pas.
+> —  Personne ne te l'a demandé, mon cœur. Ni Maman ni moi n'avons prévu de nous faire manger par des baleines. Ne t'inquiète pas.
 
 Mais plusieurs minutes après, il revient quand même sur le sujet :
 
@@ -32,6 +32,7 @@ Mais plusieurs minutes après, il revient quand même sur le sujet :
 > —  Même si tu meurs ?
 > —  Même si je meurs.
 > —  C'est très courageux, ça, mais c'est aussi terrible. Je ne veux pas, moi, que tu meures !
-> —  Mais non, oh, Papa, c'est pas grave, c'est pas grave : la fée elle viendra me sauver après, comme Pinocchio !
+> —  Mais non, oh, Papa, c'est pas grave : la fée elle viendra me sauver après, comme Pinocchio !
 
-Logique.
+Logique.  
+Mais moins courageux, du coup.
