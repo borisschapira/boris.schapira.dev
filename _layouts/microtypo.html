@@ -14,6 +14,7 @@ layout: microtypo
     {% assign t = t | replace_regex: '(\s)+(\d+)(\s)?x(\s)?(?=\d)', '\1\2\3&times;\3' %}
     {% assign t = t | replace_regex: '(\d+)(€|$)', '\1&nbsp;\2' %}
     {% assign t = t | replace_regex: '(€|$)(\d+)', '\1&nbsp;\2' %}
+    {% assign t = t | replace_regex: '(—|&mdash;)(\s)', '\1&nbsp;' %}
     {% assign t = t | replace: '...' , '&#8230;' %}
     {% assign t = t | replace: '&ldquo;' , '«&#8239;' %}
     {% assign t = t | replace: '&rdquo;' , '&#8239;»' %}
