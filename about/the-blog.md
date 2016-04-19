@@ -8,6 +8,8 @@ Je suis le principal auteur et l'unique responsable des contenus publiés sur ce
 
 Les points de vue et opinions exprimés sur ce blog n'engagent que moi, et en aucun cas mes employeurs ou clients, mon hébergeur ou toute autre personne physique ou morale.
 
+Si vous souhaitez copier, modifier ou redistribuer certains contenus, vous devez respecter les termes de la [licence creative commons CC-BY]http://creativecommons.org/licenses/by/3.0/fr/).
+
 ## Sous le capot
 
 Consultant en Web Performance depuis quelques années, j'ai décidé un jour de ne pas être le cordonnier mal chaussé. Depuis, dans une saine compétition avec mon collègue [Nicolas Hoizey](http://nicolas-hoizey.com/), je n'ai de cesse d'en améliorer [les temps de réponse](http://www.webpagetest.org/testlog.php?days=365&filter=borisschapira.com&all=on "Tests de performance WebPageTest lancés sur ce site").
