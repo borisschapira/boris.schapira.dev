@@ -6,6 +6,10 @@
 
   <!-- CSS -->
   {% css core %}
+  {% if page.category.size > 0 %}
+      {% capture catdown %}{{ page.category|downcase }}{% endcapture %}
+      {% capture themeColor %}{{ site.data.styles[catdown].color }}{% endcapture %}
+  {% endif %}
   {% case page.category %}
     {% when 'Citoyen' %}
       {% css citoyen data-instant-track %}
