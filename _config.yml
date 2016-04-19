@@ -26,7 +26,7 @@ include:
 name: 'Boris Schapira'
 title: 'Boris Schapira'
 email: borisschapira@gmail.com
-tagline: 'Life is too short to be small'
+tagline: '<span lang="en">Life is too short to be small</span>'
 description: "Mon blog personnel, sur lequel je partage quelques avis sur mon métier mais aussi sur ma vie de parent et de citoyen"
 baseurl: ""
 url: "https://borisschapira.com"
