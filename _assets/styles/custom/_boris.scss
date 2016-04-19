@@ -1,7 +1,7 @@
-$color-fuschia: #d00b6d;
-$color-green: complement($color-fuschia);
-$color-green-faded: lighten($color-green, 20);
+$color-complement: complement($color-main);
+$color-complement-faded: lighten($color-complement, 20);
 $color-gray: rgb(154,154,154);
+
 /* Fonts loading (see https://github.com/bramstein/fontfaceobserver/)*/
 html.fonts-loaded {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -22,11 +22,11 @@ img {
 .theme-base-0g {
   .sidebar {
     color: rgba(255,255,255,0.5);
-    background-color: $color-fuschia;
+    background-color: $color-main;
   }
   .content a,
   .related-posts li a:hover {
-    color: $color-fuschia;
+    color: $color-main;
   }
   abbr,
   acronym {
@@ -37,11 +37,11 @@ img {
   abbr[title],
   acronym[title] {
     cursor: help;
-    border-bottom: 0.1em dotted lighten($color-fuschia, 40);
+    border-bottom: 0.1em dotted lighten($color-main, 40);
   }
   hr {
-    color: $color-fuschia;
-    background-color: $color-fuschia;
+    color: $color-main;
+    background-color: $color-main;
     border: 0;
     height: 1px;
   }
@@ -58,20 +58,20 @@ img {
   .post footer {
     font-size: 0.8em;
     .contrib {
-      /* border: 1px solid darken($color-fuschia,20);*/
+      /* border: 1px solid darken($color-main,20);*/
       a {
-        color: darken($color-fuschia,20);
+        color: darken($color-main,20);
       }
     }
     .discuss,
     .share {
-      /*border: 1px solid $color-green;*/
+      /*border: 1px solid $color-complement;*/
       a {
-        color: darken($color-green, 10);
+        color: darken($color-complement, 10);
       }
       input[type="submit"] {
         padding: 5px 15px;
-        background: $color-green;
+        background: $color-complement;
         border: 0 none;
         cursor: pointer;
       }
@@ -146,7 +146,7 @@ html .content .post .p-header .p-author {
   }
   blockquote {
     font-size: 1.1rem;
-    border-left: 0.25rem solid $color-fuschia;
+    border-left: 0.25rem solid $color-main;
     li {
       list-style-type: none;
     }
@@ -201,7 +201,7 @@ html .content .post .p-header .p-author {
     }
   }
   strong {
-    color: $color-fuschia;
+    color: $color-main;
   }
   a {
     text-decoration: underline;
@@ -212,7 +212,7 @@ html .content .post .p-header .p-author {
   .canonical {
     display: block;
     margin: 2em auto;
-    border: 1px dotted $color-fuschia;
+    border: 1px dotted $color-main;
     padding: 10px;
   }
 }
@@ -270,12 +270,12 @@ footer .wrap {
       text-decoration: none;
     }
     a:hover {
-      border-color: $color-fuschia;
+      border-color: $color-main;
     }
     strong {
       font-weight: 400;
-      background-color: $color-fuschia;
-      border-color: $color-fuschia;
+      background-color: $color-main;
+      border-color: $color-main;
       color: #fff;
     }
   }
@@ -288,7 +288,7 @@ footer .wrap {
   }
 }
 .algolia__result-link .algolia__result-highlight {
-  background-color: $color-green-faded;
+  background-color: $color-complement-faded;
   background-color: rgba(47,244,146,0.2);
 }
 .algolia__result-text .algolia__result-highlight {
@@ -296,7 +296,7 @@ footer .wrap {
   font-weight: bold;
 }
  ::selection {
-  background-color: $color-green-faded;
+  background-color: $color-complement-faded;
 }
 .videoWrapper {
   position: relative;
@@ -363,7 +363,7 @@ footer .wrap {
   display: block;
   li a:hover {
     text-decoration: none;
-    color: $color-green;
+    color: $color-complement;
   }
 }
 .algolia__input {
@@ -448,7 +448,7 @@ sup::before {
   content: "\0202F";
 }
 #instantclick-bar {
-  background: $color-fuschia;
+  background: $color-main;
 }
 
 /** a11y **/
@@ -464,7 +464,7 @@ sup::before {
   &:focus,
   &:active {
     color: #fff;
-    background-color:$color-fuschia;
+    background-color:$color-main;
     left: auto;
     top: auto;
     width: 50%;
