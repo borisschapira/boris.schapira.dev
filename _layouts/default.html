@@ -7,10 +7,10 @@ layout: microtypo
   {% include head.html.liquid %}
 
   <body id="top" class="theme-base-0g">
-
+    <a class="skip-main" href="#main">Aller directement au contenu principal</a>
     {% include sidebar.html.liquid %}
 
-    <div class="content container" role="main">
+    <div id="main" class="content container" role="main">
       {{ content }}
     </div>
 
