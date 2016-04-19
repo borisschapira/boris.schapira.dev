@@ -5,7 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- CSS -->
-  {% css main %}
+  {% css core %}
+  {% case page.category %}
+    {% when 'Citoyen' %}
+      {% css citoyen data-instant-track %}
+    {% when 'Papa' %}
+      {% css papa data-instant-track %}
+    {% else %}
+      {% css main data-instant-track %}
+  {% endcase %}
 
   <!-- WebMentions -->
   {% comment %}<link rel="pingback" href="https://webmention.io/borisschapira.com/xmlrpc" />{% endcomment %}
