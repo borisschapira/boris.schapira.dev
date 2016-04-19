@@ -2,10 +2,6 @@ $color-complement: complement($color-main);
 $color-complement-faded: lighten($color-complement, 20);
 $color-gray: rgb(154,154,154);
 
-/* Fonts loading (see https://github.com/bramstein/fontfaceobserver/)*/
-html.fonts-loaded {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-}
 /* Lisibility */
 .hide {
     display:none;
