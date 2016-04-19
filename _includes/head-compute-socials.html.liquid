@@ -21,20 +21,21 @@
     {% capture socialAuthor %}{{ page.by }}{% endcapture %}
   {% endif %}
   {% comment %} Page Title, description and URL {% endcomment %}
-  {% capture socialTitle %}{{ site.title }} &middot; {{ site.tagline }}{% endcapture %}
+  {% capture socialTitle %}{{ site.title }}{% endcapture %}
   {% capture socialDescription %}{{ site.description }}{% endcapture %}
   {% capture socialUrl %}{{ site.url }}{{ page.url }}{% endcapture %}
   {% capture socialType %}website{% endcapture %}
-  {% if page.type == "year" %}
+
+  {% case page.type %}
+
+  {% when "year" %}
     {% capture socialTitle %}Année {{ page.date | localize: "%Y" }} &middot; {{ site.title }}{% endcapture %}
     {% capture socialDescription %}Billets publiés en {{ page.date | localize: "%Y" }}{% endcapture %}
-  {% endif %}
-  {% if page.type == "month" %}
+  {% when "month" %}
     {% capture socialTitle %}{{ page.date | localize: '%B %Y' }} &middot; {{ site.title }}{% endcapture %}
     {% capture socialDescription %}Billets publiés en {{ page.date | localize: '%B %Y'  }}{% endcapture %}
-  {% endif %}
-  {% if page.layout == "post" %}
+  {% else %}
     {% capture socialTitle %}{{ page.title | strip_html }} &middot; {{ site.title }}{% endcapture %}
     {% capture socialDescription %}{{ page.excerpt | strip_html | truncatewords: 200 | strip_newlines | escape_once }}{% endcapture %}
     {% capture socialType %}article{% endcapture %}
-  {% endif %}
+  {% endcase %}
