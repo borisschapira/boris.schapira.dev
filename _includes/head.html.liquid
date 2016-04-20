@@ -4,20 +4,16 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <!-- CSS -->
+  <!-- CSS and color -->
   {% css core %}
+  {% capture themeColor %}{{ site.data.styles.default.color }}{% endcapture %}
   {% if page.category.size > 0 %}
       {% capture catdown %}{{ page.category|downcase }}{% endcapture %}
       {% capture themeColor %}{{ site.data.styles[catdown].color }}{% endcapture %}
+      {% css '{{ site.data.styles[catdown].css }}' data-instant-track %}
+  {% else %}
+      {% css '{{ site.data.styles.default.color }}' data-instant-track %}
   {% endif %}
-  {% case page.category %}
-    {% when 'Citoyen' %}
-      {% css citoyen data-instant-track %}
-    {% when 'Papa' %}
-      {% css papa data-instant-track %}
-    {% else %}
-      {% css main data-instant-track %}
-  {% endcase %}
 
   <!-- WebMentions -->
   {% comment %}<link rel="pingback" href="https://webmention.io/borisschapira.com/xmlrpc" />{% endcomment %}
@@ -69,8 +65,8 @@
   <meta name="twitter:image" content="{{ socialImage }}">
   <meta name="twitter:creator" content="{{ site.author.twitter_username }}" />
   <meta name="twitter:site" content="{{ site.author.twitter_username }}" />
-  <meta name="twitter:widgets:link-color" content="{{ site.mainColor }}">
-  <meta name="twitter:widgets:border-color" content="{{ site.mainColor }}">
+  <meta name="twitter:widgets:link-color" content="{{ themeColor }}">
+  <meta name="twitter:widgets:border-color" content="{{ themeColor }}">
   <meta name="twitter:dnt" content="on">
   <meta name="twitter:widgets:csp" content="on">
 
@@ -93,10 +89,5 @@
   <link rel="shortcut icon" href="/favicon.ico?v=NmmdjmNgRx" data-proofer-ignore>
   <meta name="msapplication-TileColor" content="#d00b6d" data-proofer-ignore>
   <meta name="msapplication-TileImage" content="/mstile-144x144.png?v=NmmdjmNgRx" data-proofer-ignore>
-  {% capture themeColor %}{{ site.data.styles.default.color }}{% endcapture %}
-  {% if page.category.size > 0 %}
-      {% capture catdown %}{{ page.category|downcase }}{% endcapture %}
-      {% capture themeColor %}{{ site.data.styles[catdown].color }}{% endcapture %}
-  {% endif %}
   <meta name="theme-color" content="{{ themeColor }}">
 </head>
