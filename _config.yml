@@ -32,7 +32,6 @@ baseurl: ""
 url: "https://borisschapira.com"
 lang: fr
 timezone: Europe/Paris
-mainColor: '#d00b6d'
 incremental: true
 profile: true
 encoding: utf-8
