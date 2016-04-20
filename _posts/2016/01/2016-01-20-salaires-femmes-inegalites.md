@@ -3,6 +3,7 @@ layout: post
 title: "Chez les développeurs, les femmes gagnent 14 % de moins que les hommes, que faire ?"
 date: 2016-01-20 08:00:00
 tags:
+  - HeForShe
   - Égalité
 ---
 

@@ -5,6 +5,7 @@ title: "Division"
 category: Papa
 hidden: true
 tags:
+  - HeForShe
   - Égalité
 series: Diviser
 ---
