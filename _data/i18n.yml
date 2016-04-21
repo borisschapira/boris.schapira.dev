@@ -1,0 +1,17 @@
+category:
+  default:
+    en: "General"
+    fr: "En vrac"
+  citizen:
+    en: "Citizen"
+    fr: "Citoyen"
+  dad:
+    en: "Dad"
+    fr: "Papa"
+page:
+  search:
+    en: "Search"
+    fr: "Recherche"
+  about:
+    en: "About"
+    fr: "À propos"
