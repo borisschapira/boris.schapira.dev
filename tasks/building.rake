@@ -2,12 +2,12 @@ namespace :build do
 
   # Use: rake clean
   desc "Clean Jekyll build"
-  task :clean => "prebuild:test" do
+  task :clean => "prebuild:test" do |t, args|
     cleanup
   end
 
   desc 'Preview on local machine (server with --auto)'
-  task :preview => :clean do
+  task :preview => :clean do |t, args|
     jekyll('serve --config _config.yml,_config_dev.yml')
   end
   task :serve => :preview

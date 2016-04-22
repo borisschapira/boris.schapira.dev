@@ -5,6 +5,29 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+# Lang configuration
+lang: fr
+base-url: "/"
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: fr
+      base-url: ""
+      category: default
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+    scope:
+      path: "en"
+    values:
+      lang: en
+      base-url: "en/"
+
 # Exclusions
 exclude:
   - ".cache"
@@ -28,9 +51,7 @@ title: 'Boris Schapira'
 email: borisschapira@gmail.com
 tagline: '<span lang="en">Life is too short to be small</span>'
 description: "Mon blog personnel, sur lequel je partage quelques avis sur mon métier mais aussi sur ma vie de parent et de citoyen"
-baseurl: ""
 url: "https://borisschapira.com"
-lang: fr
 timezone: Europe/Paris
 incremental: true
 profile: true
@@ -74,7 +95,6 @@ gems:
   - jekyll/tagging
   - jekyll-tagging-related_posts
   - algoliasearch-jekyll
-  - jekyll-paginate
   - octopress-autoprefixer
   - octopress-debugger
   - jemoji
@@ -94,10 +114,6 @@ jekyll-archives:
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
-
-# Pagination
-paginate: 20
-paginate_path: "/:num/"
 
 # The average reading speed, in number of words by minute
 reading_speed: 200

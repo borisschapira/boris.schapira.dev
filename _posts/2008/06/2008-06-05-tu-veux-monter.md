@@ -13,8 +13,8 @@ p style="text-align: center">[![CIMG3027](http://farm3.static.flickr.com/2223/25
 
 Trois hommes, visiblement trois amis, font le tour d'une superbe [Vantage ](http://fr.wikipedia.org/wiki/Aston_Martin_V8_Vantage)en commentant…
 
-> —  Le mec qui la conduit, quel **** quand même&nbsp;!
-> —  M'en parle pas, sérieux, regarde un peu ces courbes, et les phares&nbsp;!
+> — Le mec qui la conduit, quel **** quand même&nbsp;!
+> — M'en parle pas, sérieux, regarde un peu ces courbes, et les phares&nbsp;!
 
 Je m'approche, fais quelques photos, commence à discuter avec les trois trentenaires. Soudain, l'un d'entre eux révèle un porte-clé Aston-Martin. Il appuie sur un bouton, la voiture s'ouvre. Nous restons bouche bée.
 
