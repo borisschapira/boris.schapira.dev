@@ -15,11 +15,11 @@ tags:
 > Gender equality is your issue too
 >   <cite>Emma Watson, [Discours aux Nations Unies](https://www.youtube.com/watch?v=Q0Dg226G2Z8) ([traduction française](http://www.unwomen.org/fr/news/stories/2014/9/emma-watson-gender-equality-is-your-issue-too))</cite>
 
+<!-- more -->
+
 <div class="videoWrapper">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/Q0Dg226G2Z8" frameborder="0" allowfullscreen></iframe>
 </div>
-
-<!-- more -->
 
 Chaque jour, j'essaie d'expliquer à mes garçons comment devenir des hommes, ce qui n'est pas évident, car je n'ai pas vraiment de définition moi-même. Alors je leur apprends surtout à devenir des chouettes êtres humains et à explorer leurs possibilités à eux, sans se soucier de l'extérieur.
 
