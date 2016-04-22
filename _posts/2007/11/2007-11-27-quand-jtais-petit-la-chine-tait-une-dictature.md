@@ -6,8 +6,6 @@ categories:
   - Politique
 ---
 
-[](http://flickr.com/photos/peterfuchs/1951611087/)</p>
-
 Quand j&#8217;&#233;tais petit, la Chine &#233;tait une dictature. On parlait de camps de travaux forc&#233;s, de dirigeants corrompus alli&#233;s de l&#8217;URSS… &#199;a me faisait un peu penser aux histoires de mon grand-p&#232;re sur l&#8217;Italie fasciste&nbsp;: &#231;a me navrait et surtout, &#231;a m&#8217;ennuyait.
 
 Pendant quelques ann&#233;es, qui ont sans doute co&#239;ncid&#233; avec la chute de l&#8217;empire sovi&#233;tique, je n&#8217;ai plus entendu parler de la Chine. Et puis soudainement, l&#8217;image du pays &#224; changer. On invitait des r&#233;alisateurs chinois &#224; Cannes, Disney sortait Mulan, on s&#8217;est soudainement rendu-compte que nos jouets d&#8217;enfants venaient de l&#224; (&#171; Made in China &#187; pour un m&#244;me &#231;a veut surtout dire que &#231;a a &#233;t&#233; fabriqu&#233; au m&#234;me endroit que le reste. &#199;a n'est qu'apr&#232;s qu'on se rend compte qu'on parle d'un pays manufacturier…).
