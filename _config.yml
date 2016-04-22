@@ -95,7 +95,6 @@ gems:
   - jekyll/tagging
   - jekyll-tagging-related_posts
   - algoliasearch-jekyll
-  - jekyll-paginate
   - octopress-autoprefixer
   - octopress-debugger
   - jemoji
@@ -115,10 +114,6 @@ jekyll-archives:
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
-
-# Pagination
-paginate: 20
-paginate_path: "/:num/"
 
 # The average reading speed, in number of words by minute
 reading_speed: 200
