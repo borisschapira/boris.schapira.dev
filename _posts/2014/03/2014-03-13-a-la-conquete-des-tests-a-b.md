@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A la conquête des Tests A/B"
+i18n-key: conquering-ab-testing
 date: 2014-03-13 14:42:00
 tags:
   - Front-End
@@ -161,9 +162,9 @@ La première d’entre elles concerne la fonction d’adaptation. En effet, tout
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2014-03-13/5.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/5.png alt: "Une représentation mathématique en 3D présentant un maximum local" %}
+      {% responsive_image path: assets/images/2014-03-13/5.png alt: "A 3D representation of a local maximum" %}
   </a>
-  <figcaption>Parfois, on a l'illusion de l'optimisation. Alors que le sommet est plus loin.</figcaption>
+  <figcaption>Sometimes, optimization is an illusion. The real objective is higher.</figcaption>
 </figure>
 
 Imaginons, par exemple, que nous procédions à une analyse multivariée composée de deux tests ayant chacun une quinzaine de variations (le cas est extrême, mais il sert la démonstration). Jouer sur les variations des deux tests consiste alors à se déplacer sur le plan jaune du graphe ci-joint, à la recherche d’un maximum de performance. Rien ne nous permettrait, une fois arrivés en haut du sommet jaune, de savoir qu’il en existe un plus grand sommet ailleurs et que nous l’aurions trouvé en poursuivant nos tests sur un plus grand nombre de variations.

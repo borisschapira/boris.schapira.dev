@@ -4,12 +4,12 @@
 
 {% assign source = page.path | split: '/' %}
 {% assign title_encoded = post.title | url_encode %}
-{% capture url %}{{ site.url }}{{ site.baseurl }}{{ post.url }}{% endcapture %}
+{% capture url %}{{ site.url | append:page.base-url | append:post.url }}{% endcapture %}
 
 <article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting"{% if include.postPage %} id="content"{% endif %}>
     <header class="p-header">
         {% assign datetime = post.date | date_to_xmlschema %}
-        <time class="p-date dt-published" datetime="{{ datetime }}">{{ post.date | localize: '%A %-d' }} <a href="{{ site.baseurl }}/{{ post.date | localize: '%Y/%m/' }}" title="Articles de {{ post.date | localize: '%B %Y' }}">{{ post.date | localize: '%B' }}</a> <a href="{{ site.baseurl }}/{{ post.date | localize: '%Y/' }}" title="Articles de {{ post.date | localize: '%Y' }}">{{ post.date | localize: '%Y' }}</a></time>{% if post.category != nil %}<span class="p-category"><a href="{{ site.baseurl }}/{{post.category|downcase]}}/">{{ post.category }}</a></span>{% endif %}{% include reading_time.html.liquid content=post.content %}<span class="p-author h-card">{{ site.author.name }}</span>
+        <time class="p-date dt-published" datetime="{{ datetime }}">{{ post.date | localize: '%A %-d' }} <a href="{{ site.base-url }}{{ post.date | localize: '%Y/%m/' }}" title="Articles de {{ post.date | localize: '%B %Y' }}">{{ post.date | localize: '%B' }}</a> <a href="{{ site.base-url }}{{ post.date | localize: '%Y/' }}" title="Articles de {{ post.date | localize: '%Y' }}">{{ post.date | localize: '%Y' }}</a></time>{% if post.category != 'default' %}<span class="p-category"><a href="{{ page.base-url }}/{{post.category|downcase]}}/">{{ post.category }}</a></span>{% endif %}{% include reading_time.html.liquid content=post.content %}<span class="p-author h-card">{{ site.author.name }}</span>
     </header>
 
   {% capture hn %}h2{% endcapture %}
@@ -21,27 +21,26 @@
     {% if include.postPage %}
         {{ post.title }}
     {% else %}
-    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ post.url }}">{{ post.title }}</a>
     {% endif %}
   </{{hn}}>
 
   <div class="post-content">
     {% if include.postPage %}
       {{ post.content }}
-
       {% include post_footer.html.liquid content=post.content %}
     {% else %}
       {% if post.content contains "<!-- more -->" %}
-        {{ post.content | split:"<!-- more -->" | first % }}
+        {{ post.content | split:"<!-- more -->" | first | markdownify % }}
+      {% elsif post.content contains "<figure>" %}
+        {{ post.content | split:"<figure>" | first | markdownify % }}
+      {% elsif post.content.size < 500 %}
+        {{ post.content | markdownify }}
       {% else %}
-        {% if post.content.size < 500 %}
-          {{ post.content }}
-        {% else %}
-          {{ post.excerpt | markdownify }}
-        {% endif %}
+        {{ post.excerpt | markdownify }}
       {% endif %}
       <p>
-        <a href="{{ site.baseurl }}{{ post.url }}" title="{{post.title}}">Lire la suite →</a>
+        <a href="{{ post.url }}" title="{{post.title}}">Lire la suite →</a>
       </p>
     {% endif %}
   </div>

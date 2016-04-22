@@ -4,22 +4,24 @@ layout: default
 
 {% include post.html.liquid postPage=true showtags=false %}
 
-<div class="page-navigation">
-    {% if page.category %}
-        {% assign previous = page.previous_in_category %}
-        {% assign next = page.next_in_category %}
-    {% else %}
-        {% assign previous = page.previous %}
-        {% assign next = page.next %}
-    {% endif %}
+{% comment %}
+    <div class="page-navigation">
+        {% if page.category %}
+            {% assign previous = page.previous_in_category %}
+            {% assign next = page.next_in_category %}
+        {% else %}
+            {% assign previous = page.previous %}
+            {% assign next = page.next %}
+        {% endif %}
 
-    {% if previous.url %}
-        <a class="prev" rel="nofollow" href="{{previous.url}}" title="{{previous.title}}">&laquo; {{previous.title}}</a>
-    {% endif %}
-    {% if next.url %}
-        <a class="next" rel="nofollow" href="{{next.url}}" title="{{next.title}}">{{next.title}} &raquo;</a>
-    {% endif %}
-</div>
+        {% if previous.url %}
+            <a class="prev" rel="nofollow" href="{{previous.url}}" title="{{previous.title}}">&laquo; {{previous.title}}</a>
+        {% endif %}
+        {% if next.url %}
+            <a class="next" rel="nofollow" href="{{next.url}}" title="{{next.title}}">{{next.title}} &raquo;</a>
+        {% endif %}
+    </div>
+{% endcomment %}
 
 {% if content.size > 2000 %}
 <div class="js elevator">
@@ -27,6 +29,6 @@ layout: default
 </div>
 {% endif %}
 
-{% include post_webmentions.html.liquid url=url %}
+{% comment %} {% include post_webmentions.html.liquid url=url %} {% endcomment %}
 
 {% include post_related.html.liquid posts=site.related_posts %}

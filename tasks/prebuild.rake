@@ -10,8 +10,10 @@ namespace :prebuild do
   namespace :test do
 
     desc "Executes the jekyll doctor"
-    task :doctor do
-      sh 'jekyll doctor'
+    task :doctor do |t, args|
+      args.with_defaults(:env => 'prod')
+      config_file = "_config_#{args[:env]}.yml"
+      jekyll("doctor --config _config.yml,#{config_file}")
     end
 
     desc "Test if content Front-Matter is YAML-valid"
@@ -32,6 +34,11 @@ namespace :prebuild do
       puts "#{@posts.size} valid posts"
     end
 
+  end
+
+  # launch jekyll
+  def jekyll(directives = '')
+    sh 'jekyll ' + directives
   end
 
 end
