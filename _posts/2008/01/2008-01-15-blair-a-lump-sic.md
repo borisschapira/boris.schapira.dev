@@ -6,12 +6,10 @@ categories:
   - Politique
 ---
 
-[![Tony Blair photographié par Fr@nçois](http://flickr.com/photos/francois_lafite/2187460579/)](http://flickr.com/photos/francois_lafite/2187460579/)
-
 La présence de Tony Blair au Conseil National de l'UMP est fortement symptomatique des déséquilibres politiques en France&nbsp;:
 
-*   Une droite qui se donne des moyens pour lancer des réformes (après, libre à tous d'être d'accord ou non).
-*   Une gauche complètement asservie par ses propres rivalités et que même les démocrates étrangers préfèrent fuir.
+*   une droite qui se donne des moyens pour lancer des réformes (après, libre à tous d'être d'accord ou non) ;
+*   une gauche complètement asservie par ses propres rivalités et que même les démocrates étrangers préfèrent fuir.
 
 D'ailleurs, les réflexions de l'opposition à l'issue du congrès étaient toutes plus aigries les unes que les autres. Chacun dénigrait la présence de l'ex-Prime Minister et se réclamait celui "_qui a à cœur de le transformer_" [comprendre&nbsp;: le Parti Socialiste] en référence à une citation de Tony Blair disant&nbsp;:
 > "Je suis un politicien de centre gauche. Aux États-Unis, je serais démocrate. Au Royaume-Uni, je suis travailliste. En France, je serais probablement… au gouvernement&nbsp;! Non, je plaisante&nbsp;! Je reste avec ma famille politique. Je serais au Parti socialiste, mais aux côtés de ceux qui ont à cœur de le transformer."
