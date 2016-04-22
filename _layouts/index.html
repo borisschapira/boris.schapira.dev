@@ -12,14 +12,12 @@ layout: default
         </header>
     {% endunless %}
 
-    {% if nocat == "x" %}
-        {% for post in paginator.posts %}
-            {% include post.html.liquid postPage=false %}
-        {% endfor %}
-        {% include pagination.html.liquid %}
+    {% if page.lang == 'en' %}
+        {% assign the_posts=site.posts | where:"lang", page.lang %}
     {% else %}
-        {% for post in site.categories.[page.category] %}
-            {% include post.html.liquid postPage=false %}
-        {% endfor %}
+        {% assign the_posts= site.categories.[page.category] | where:"lang", page.lang %}
     {% endif %}
+    {% for post in the_posts %}
+        {% include post.html.liquid postPage=false %}
+    {% endfor %}
 </section>

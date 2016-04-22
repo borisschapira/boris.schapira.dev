@@ -2,6 +2,7 @@
 layout: page
 title: Bonjour, je suis Boris
 date: 2015-10-05 17:15:20
+i18n-key: about-me
 ---
 
 ## ravi de vous rencontrer

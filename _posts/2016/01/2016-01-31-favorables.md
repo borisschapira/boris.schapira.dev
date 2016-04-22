@@ -11,6 +11,8 @@ main_image: assets/images/2016-01-31/1.png
 
 Hier avaient lieu des manifestations partout en France pour appeler à l'arrêt de l'État d'Urgence. Parallèlement, un sondage explique que [79 % des franças seraient favorables à sa prolongation](http://www.atlantico.fr/decryptage/79-pourcents-francais-favorables-prolongation-etat-urgence-jerome-fourquet-2568017.html "&quot;79% des Français favorables à une prolongation de l'état d'urgence&quot;, Jérôme Fourquet pour Atlantico"). La réponse est surprenante parce que la question est mal posée.
 
+<!-- more -->
+
 Soyons honnêtes : 100 % des français sont favorables à être protégés. Je pense qu'il y en a juste 25 % qui savent que ça peut se faire sans supprimer les libertés et 75 % qui l'ignorent et qui comprennent qu'on leur demande s'ils se sentiraient en sécurité sans protection…
 
 **Ce sondage ne mesure pas les soutiens à l'État d'Urgence mais le niveau de menace ressenti par les Français**. Dans un contexte où nos politiques alimentent régulièrement la paranoïa en refusant de communiquer clairement sur la réalité de la menace, nous sommes impuissants, obligés de faire confiance, pour notre sécurité, aux mêmes personnes qui nous privent de nos libertés.

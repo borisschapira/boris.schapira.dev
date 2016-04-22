@@ -2,7 +2,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}/" itemprop="url">
+        <a href="{{ site.base-url }}{{ page.base-url }}" itemprop="url">
           {{ site.title }}
         </a>
       </h1>
@@ -11,45 +11,62 @@
 
     {% if page.loadSearch %}
       <div class="sidebar-search">
-        <input type="text" class="js algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Recherche" autofocus title="Recherche"/>
+        <input type="text" class="js algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="{% t Recherche %}" autofocus title="{% t Recherche %}"/>
       </div>
     {% endif %}
 
     <nav class="sidebar-nav">
       <ul class="categories">
-        {% capture nocat %}x{{ page.category }}{% endcapture %}
-        <li class="sidebar-nav-item {% if nocat == "x" %} active{% endif %}">
-          <a href="{{ site.baseurl }}/">En vrac</a>
+        <li class="sidebar-nav-item {% if page.category.size == 0 %} active{% endif %}">
+          <a href="{{ site.base-url }}{{ page.base-url }}">{% t En vrac %}</a>
         </li>
 
-        {% assign cit_posts = (site.posts | where: "category" , "Citoyen") %}
+        {% assign cit_posts = (site.posts | where: "category" , 'Citoyen' | where: "lang" , page.lang) %}
         {% if cit_posts.size > 0 %}
           <li class="sidebar-nav-item{% if page.category == 'Citoyen' %} active{% endif %}">
-            <a href="{{ site.baseurl }}/citoyen/">Citoyen</a>
+            <a href="{{ site.base-url }}{{ page.base-url | append: 'citoyen' }}">{% t Citoyen %}</a>
           </li>
         {% endif %}
 
-        {% assign papa_posts = (site.posts | where: "category" , "Papa") %}
+        {% assign papa_posts = (site.posts | where: "category" , 'Papa' | where: "lang" , page.lang) %}
         {% if papa_posts.size > 0 %}
           <li class="sidebar-nav-item{% if page.category == 'Papa' %} active {% endif %}">
-            <a href="{{ site.baseurl }}/papa/">Papa</a>
+            <a href="{{ site.base-url }}{{ page.base-url | append: 'papa' }}">{% t Papa %}</a>
           </li>
         {% endif %}
       </ul>
 
+      <div class="lang">
+        <ul>
+          {% if page.i18n-key == 'home' %}
+            {% if page.lang == 'fr' %}
+              <li><a class="en" href="{{ site.base-url | append: 'en' }}">en</a></li>
+            {% elsif page.lang == 'en' %}
+              <li><a class="fr" href="{{ site.base-url }}">fr</a></li>
+            {% endif %}
+          {% else %}
+            {% for translation in translations %}
+              {% if translation.lang != page.lang %}
+                <li><a class="{{ translation.lang }}" href="{{ translation.url }}">{{ translation.lang }}</a></li>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        </ul>
+      </div>
+
       <ul class="secondary">
 
         <li class="sidebar-nav-item {% if page.url == "/search/" %} active {% endif %}">
-          <a href="{{ site.baseurl }}/search/" data-no-instant>
+          <a href="{{ site.base-url }}{{ page.base-url }}{% t recherche %}" data-no-instant>
             <svg class="icon icon-search">
               <use xlink:href="#icon-search"></use>
-            </svg>&nbsp;Recherche</a>
+            </svg>&nbsp;{% t Recherche %}</a>
         </li>
-        <li class="sidebar-nav-item{% if page.url == '/about/' %} active{% endif %}">
-          <a href="{{ site.baseurl }}/about/">
+        <li class="sidebar-nav-item{% if page.i18n-key == 'about' %} active{% endif %}">
+          <a href="{{ site.base-url }}{{ page.base-url }}{% t a-propos %}">
             <svg class="icon icon-info">
               <use xlink:href="#icon-info"></use>
-            </svg>&nbsp;À&nbsp;propos</a>
+            </svg>&nbsp;{% t À propos %}</a>
         </li>
       </ul>
     </nav>
