@@ -24,14 +24,14 @@
         {% assign cit_posts = (site.posts | where: "category" , 'Citoyen' | where: "lang" , page.lang) %}
         {% if cit_posts.size > 0 %}
           <li class="sidebar-nav-item{% if page.category == 'Citoyen' %} active{% endif %}">
-            <a href="{{ site.base-url }}{{ page.base-url | append: 'citoyen' }}">{% t Citoyen %}</a>
+            <a href="{{ site.base-url }}{{ page.base-url | append: 'citoyen/' }}">{% t Citoyen %}</a>
           </li>
         {% endif %}
 
         {% assign papa_posts = (site.posts | where: "category" , 'Papa' | where: "lang" , page.lang) %}
         {% if papa_posts.size > 0 %}
           <li class="sidebar-nav-item{% if page.category == 'Papa' %} active {% endif %}">
-            <a href="{{ site.base-url }}{{ page.base-url | append: 'papa' }}">{% t Papa %}</a>
+            <a href="{{ site.base-url }}{{ page.base-url | append: 'papa/' }}">{% t Papa %}</a>
           </li>
         {% endif %}
       </ul>
@@ -57,13 +57,13 @@
       <ul class="secondary">
 
         <li class="sidebar-nav-item {% if page.url == "/search/" %} active {% endif %}">
-          <a href="{{ site.base-url }}{{ page.base-url }}{% t recherche %}" data-no-instant>
+          <a href="{{ site.base-url }}{{ page.base-url }}{% t recherche %}/" data-no-instant>
             <svg class="icon icon-search">
               <use xlink:href="#icon-search"></use>
             </svg>&nbsp;{% t Recherche %}</a>
         </li>
         <li class="sidebar-nav-item{% if page.i18n-key == 'about' %} active{% endif %}">
-          <a href="{{ site.base-url }}{{ page.base-url }}{% t a-propos %}">
+          <a href="{{ site.base-url }}{{ page.base-url }}{% t a-propos %}/">
             <svg class="icon icon-info">
               <use xlink:href="#icon-info"></use>
             </svg>&nbsp;{% t À propos %}</a>
