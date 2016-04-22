@@ -6,6 +6,21 @@ GIT
     ffi (1.9.10)
 
 GIT
+  remote: git://github.com/jekyll/jekyll.git
+  revision: 6d0bab5d59ec1f138b97b63c2d39cbd4f2f3c645
+  branch: master
+  specs:
+    jekyll (3.1.2)
+      colorator (~> 0.1)
+      jekyll-sass-converter (~> 1.0)
+      jekyll-watch (~> 1.1)
+      kramdown (~> 1.3)
+      liquid (~> 3.0)
+      mercenary (~> 0.3.3)
+      rouge (~> 1.7)
+      safe_yaml (~> 1.0)
+
+GIT
   remote: git://github.com/wildlyinaccurate/jekyll-responsive-image.git
   revision: 68cf843bd7f324e1fc4840bbb8e337db7c81acc1
   specs:
@@ -65,15 +80,6 @@ GEM
       yell (~> 2.0)
     httpclient (2.7.1)
     i18n (0.7.0)
-    jekyll (3.1.3)
-      colorator (~> 0.1)
-      jekyll-sass-converter (~> 1.0)
-      jekyll-watch (~> 1.1)
-      kramdown (~> 1.3)
-      liquid (~> 3.0)
-      mercenary (~> 0.3.3)
-      rouge (~> 1.7)
-      safe_yaml (~> 1.0)
     jekyll-archives (2.1.0)
       jekyll (>= 2.4)
     jekyll-assets (2.1.3)
@@ -160,7 +166,7 @@ DEPENDENCIES
   ffi!
   html-proofer
   i18n
-  jekyll (~> 3.1, >= 3.1.2)
+  jekyll!
   jekyll-archives
   jekyll-assets
   jekyll-compose
