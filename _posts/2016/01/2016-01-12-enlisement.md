@@ -11,9 +11,9 @@ Tous les jours, ce sentiment gênant d'être dans un pays qui bascule. Où se tr
 
 Aujourd'hui, marchant à côté d'un homme en robe (que je pense être une robe d'avocat, même si j'avoue ne pas être un expert de l'habit), je croise un groupe de 5 policiers. Regards méprisants envers mon voisin, puis, relativement fort pour que la rue entière entende :
 
-> —  Atcha ! [S'adressant à ses collègues] Pardon, hein, ça me fait ça à chaque fois que je vois un juge…
-> —  Bah, t'inquiètes pas, va, bientôt t'auras plus de problème, les juges auront disparu.
-> —  C'est clair, il n'y aura que nous !
+> — Atcha ! [S'adressant à ses collègues] Pardon, hein, ça me fait ça à chaque fois que je vois un juge…
+> — Bah, t'inquiètes pas, va, bientôt t'auras plus de problème, les juges auront disparu.
+> — C'est clair, il n'y aura que nous !
 
 J'ai voulu dire quelque chose. Je ne l'a pas fait. J'ai eu [peur des représailles](http://leplus.nouvelobs.com/contribution/1468581-des-policiers-des-juges-et-des-lois-pour-nous-faire-taire-je-vous-presente-alfred.html).
 

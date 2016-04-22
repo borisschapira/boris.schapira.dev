@@ -20,16 +20,16 @@ Je n'attends pas qu'ils se taisent et lance&nbsp;:
 
 Je m'adresse ensuite plus directement à lui, mais suffisamment fort pour que tout le monde entende&nbsp;:
 
-> —  Et je voulais te dire, il est très sympa, ton sweat !
-> —  Ah merci m'sieur, je l'ai acheté sur un site US.
-> —  Non, vraiment, il est sympa. Il te va bien, il met bien en valeur tes pectoraux.
-> —  Euh… merci.
+> — Et je voulais te dire, il est très sympa, ton sweat !
+> — Ah merci m'sieur, je l'ai acheté sur un site US.
+> — Non, vraiment, il est sympa. Il te va bien, il met bien en valeur tes pectoraux.
+> — Euh… merci.
 
 La classe est désormais toute ouïe, on entendrait une mouche volée…
 
 > &#45; Et j'ajouterais même qu'il va très bien avec ton jean, qui lui, met en valeur tes fesses.
-> —  Mais, euh… monsieur&nbsp;?!
-> —  Ça te gêne, les compliments&nbsp;? Pourquoi&nbsp;? Parce que tu ne m'as rien demandé&nbsp;? Et bien dis-toi que elle, c'est pareil. C'est valable pour toi mais aussi pour les autres.
+> — Mais, euh… monsieur&nbsp;?!
+> — Ça te gêne, les compliments&nbsp;? Pourquoi&nbsp;? Parce que tu ne m'as rien demandé&nbsp;? Et bien dis-toi que elle, c'est pareil. C'est valable pour toi mais aussi pour les autres.
 
 Puis, à toute la classe&nbsp;:
 
