@@ -4,8 +4,8 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ page.category }} · {{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
+    <title>{% unless page.category == 'default' %}{{ page.category }} · {% endunless %}{{ site.title | xml_escape }}</title>
+    <description>{% unless page.category == 'default' %}{{ page.title }} {{ page.description | xml_escape }}{% else %}{{site.description | xml_escape }}{% endunless %}</description>
     <link>{{ site.url | append:page.base-url }}/</link>
     <atom:link href="{{ "/feed.xml" | prepend: page.base-url | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
