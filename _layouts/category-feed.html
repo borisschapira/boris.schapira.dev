@@ -11,7 +11,8 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.categories.[page.category] limit:20 %}
+    {% assign the_posts = (site.categories.[page.category]| where: "lang" , page.lang | limit: 20) %}
+    {% for post in the_posts %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         {% if post.author.name %}
