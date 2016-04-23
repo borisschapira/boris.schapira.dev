@@ -121,7 +121,7 @@
   </li>
   {% endif %} {% if site\.author\.feed != nil %}
   <li>
-    <a rel="me nofollow" title="Abonnez-vous au flux" href="{% if page.category == 'Papa' %}/papa{% endif %}/feed.xml">
+    <a rel="me nofollow" title="Abonnez-vous au flux" href="/{% unless page.category == 'default' %}{{ page.category | downcase }}/{% endunless %}feed.xml">
       <svg class="icon icon-feed3">
         <use xlink:href="#icon-feed3"></use>
       </svg>

@@ -18,10 +18,20 @@ defaults:
       category: default
   -
     scope:
-      path: ""
       type: "posts"
     values:
       layout: post
+  -
+    scope:
+      path: "_posts/fr/papa"
+    values:
+      category: Papa
+  -
+    scope:
+      path: "_posts/fr/citoyen"
+    values:
+      category: Citoyen
+  -
     scope:
       path: "en"
     values:
