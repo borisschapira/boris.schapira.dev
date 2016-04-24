@@ -2,21 +2,20 @@
 
 require 'i18n'
 
-LOCALE = :fr # set your locale
-
 # Create folder "_locales" and put some locale file from https://github.com/svenfuchs/rails-i18n/tree/master/rails/locale
 module Jekyll
   module I18nFilter
     # Example:
     #   {{ post.date | localize: "%d.%m.%Y" }}
     #   {{ post.date | localize: ":short" }}
-    def localize(input, format=nil)
+    def localize(input, format=nil, locale=nil)
+      locale='fr' unless locale
       load_translations
       format = (format =~ /^:(\w+)/) ? $1.to_sym : format
 
       # Force the locale each time otherwise `jekyll serve` will fail with
       # "Liquid Exception: :en is not a valid locale" each time a regeneration happens
-      I18n.locale = LOCALE
+      I18n.locale = locale
 
       I18n.l input, :format => format
     end
