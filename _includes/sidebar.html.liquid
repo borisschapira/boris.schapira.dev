@@ -40,14 +40,26 @@
         <ul>
           {% if page.i18n-key == 'home' %}
             {% if page.lang == 'fr' %}
-              <li><a class="en" href="{{ site.base-url | append: 'en' }}">en</a></li>
+              <li><a class="en" href="{{ site.base-url | append: 'en' }}">
+                <svg class="icon flag-en">
+                  <use xlink:href="#flag-en"></use>
+                </svg>
+              </a></li>
             {% elsif page.lang == 'en' %}
-              <li><a class="fr" href="{{ site.base-url }}">fr</a></li>
+              <li><a class="fr" href="{{ site.base-url }}">
+                <svg class="icon flag-fr">
+                  <use xlink:href="#flag-fr"></use>
+                </svg>
+              </a></li>
             {% endif %}
           {% else %}
             {% for translation in translations %}
               {% if translation.lang != page.lang %}
-                <li><a class="{{ translation.lang }}" href="{{ translation.url }}">{{ translation.lang }}</a></li>
+                <li><a class="{{ translation.lang }}" href="{{ translation.url }}">
+                  <svg class="icon flag-{{ translation.lang }}">
+                    <use xlink:href="#flag-{{ translation.lang }}"></use>
+                  </svg>
+                </a></li>
               {% endif %}
             {% endfor %}
           {% endif %}
