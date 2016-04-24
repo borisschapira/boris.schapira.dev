@@ -21,6 +21,7 @@ defaults:
       type: "posts"
     values:
       layout: post
+      hidden: false
   -
     scope:
       path: "_posts/fr/papa"
