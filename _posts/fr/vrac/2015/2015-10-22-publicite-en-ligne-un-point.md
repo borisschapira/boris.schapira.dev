@@ -1,6 +1,7 @@
 ---
 title: "Publicité en ligne&nbsp;: un point sur la situation"
 date: 2015-10-22 11:00:00
+i18n-key: online-advertising
 tags:
   - Publicité
   - Scripts tiers
