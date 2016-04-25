@@ -1,7 +1,10 @@
 # [BorisSchapira.com](https://borisschapira.com)
 
-My Jekyll v3 setup. Some explaination (in french), here : [https://borisschapira.com/about/](https://borisschapira.com/about/)
+My Jekyll v3 setup.
 
 ## License
 
-Open sourced under the [MIT license](LICENSE.md).
+* Structure of this website released under MIT License
+* Content of this website released under CC-by License
+
+See [LICENSE.md](LICENSE.md).
