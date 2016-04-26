@@ -32,10 +32,12 @@
     {% else %}
       {% if post.content contains "<!-- more -->" %}
         {{ post.content | split:"<!-- more -->" | first | markdownify % }}
-      {% elsif post.content contains "<figure>" %}
-        {{ post.content | split:"<figure>" | first | markdownify % }}
       {% elsif post.content.size < 500 %}
-        {{ post.content | markdownify }}
+        {% if post.content contains "<figure>" %}
+          {{ post.content | split:"<figure>" | first | markdownify % }}
+        {% else %}
+          {{ post.content | markdownify }}
+        {% endif %}
       {% else %}
         {{ post.excerpt | markdownify }}
       {% endif %}
