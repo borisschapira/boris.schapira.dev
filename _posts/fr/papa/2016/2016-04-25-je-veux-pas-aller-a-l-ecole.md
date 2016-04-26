@@ -21,7 +21,7 @@ Sur son visage, je lis la surprise :
 > — Très bien. Mais tu risques aussi perdre tes copains.
 > — Ah bon ?
 
-Je sens pointé le début d'un doute, alors j'explique :
+Je sens pointer le début d'un doute, alors j'explique :
 
 > — Oui, au début, ils seront tristes de ne pas te voir mais ils finiront par vivre leur vie et puis ils passeront dans la classe supérieure, puis dans l'école des grands et toi tu seras toujours là, à la maison. Ils feront des trucs super comme éboueur, super-héros de l'espace ou coiffeur[^1] et le soir ils boiront l'apéro sans toi pour se raconter leur journée.
 > — Mais moi je veux boire l'apéro avec les copains !
