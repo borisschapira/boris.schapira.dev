@@ -12,8 +12,8 @@ Ingénieur de formation[^1], je travaille pour [Clever Age](http://www.clever-ag
 Vous avez pu me rencontrer autour de problématiques liées au Service Design, à la Finance de Marché, à l'e-Commerce, à la Qualité et la Performance Web ou au choix d'une solution référentielle (<abbr lang="en" title="Content Management System">CMS</abbr>, <abbr lang="en" title="Digital Asset Management">DAM</abbr>, <abbr lang="en" title="Online Video Platform">OVP</abbr>) ou logicielle (choix d'un <i lang="en">framework</i>).
 
 <figure>
-<a href="https://certified.opquast.com/certificate/V085B7/"><img role="img" src="https://data.oqs-cdn.com/openbadges/issuer_V085B7.svg" width="200" height="200" alt="Certificat Qualité web de Boris Schapira"></a>
-<figcaption>Certificat Qualité web - niveau Expert</figcaption>
+  <a href="https://certified.opquast.com/certificate/V085B7/"><img role="img" src="/assets/images/shared/issuer_v085b7.svg" width="200" height="200" alt="Un certificat OpQuast composé de 5 étoiles, avec écrit &quote;Expert&quote;"></a>
+  <figcaption>Certificat Qualité web - niveau Expert</figcaption>
 </figure>
 
 La plupart du temps, j'accompagne mes clients sur des projets mais ma vraie passion, c'est de comprendre leurs mécaniques de création de valeur pour les optimiser à l'aide d'outils numériques et leur permettre d'améliorer leur(s) service(s) et produit(s).
