@@ -7,7 +7,7 @@ GIT
 
 GIT
   remote: git://github.com/jekyll/jekyll.git
-  revision: 6d0bab5d59ec1f138b97b63c2d39cbd4f2f3c645
+  revision: 6ed193277d2675595c23c3eebad154f109b51b53
   branch: master
   specs:
     jekyll (3.1.2)
@@ -55,12 +55,12 @@ GEM
     autoprefixer-rails (6.3.6)
       execjs
     awesome_print (1.6.1)
-    byebug (8.2.4)
+    byebug (8.2.5)
     coderay (1.1.1)
     colorator (0.1)
     colored (1.2)
     concurrent-ruby (1.0.1)
-    ethon (0.8.1)
+    ethon (0.9.0)
       ffi (>= 1.3.0)
     execjs (2.6.0)
     fastimage (1.9.0)
@@ -78,7 +78,7 @@ GEM
       parallel (~> 1.3)
       typhoeus (~> 0.7)
       yell (~> 2.0)
-    httpclient (2.7.1)
+    httpclient (2.7.2)
     i18n (0.7.0)
     jekyll-archives (2.1.0)
       jekyll (>= 2.4)
@@ -98,8 +98,8 @@ GEM
     jekyll-tagging-related_posts (0.2.1)
       jekyll (~> 3.0)
       jekyll-tagging (~> 1.0.0)
-    jekyll-watch (1.3.1)
-      listen (~> 3.0)
+    jekyll-watch (1.4.0)
+      listen (~> 3.0, < 3.1)
     jemoji (0.6.2)
       gemoji (~> 2.0)
       html-pipeline (~> 2.2)
