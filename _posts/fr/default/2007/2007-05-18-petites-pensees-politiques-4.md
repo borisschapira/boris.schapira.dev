@@ -13,7 +13,7 @@ Juppé, c'est un peu comme Polnareff. Tout le monde sait qu'il chante moins bien
 
 Une française d'origine maghrébine au gouvernement, c'est bien. Lui donner l'Intérieur ou la Justice pour pas qu'il n'y aie de problèmes dans les banlieues, c'est déjà plus discutable. J'espère qu'il ne s'agit pas de ça.
 
-La première intervention du Premier Ministre sur une chaine privée (TF1), c'est aussi un symbôle. Mais est-ce le bon&nbsp;?
+La première intervention du Premier Ministre sur une chaine privée (TF1), c'est aussi un symbole. Mais est-ce le bon&nbsp;?
 
 Un président qui le jour de la nomination de son gouvernement prend les dossiers en mains, c'est bien. À ce demander pourquoi aucun président de droite comme de gauche n'avait encore gouverné comme ça. Pourvu que ça mène quelque part, et que ça dure.
 
