@@ -10,7 +10,7 @@ En tant qu'intervenant dans une école post-BAC, je suis sollicité par de nombr
 
 ## Soyez conscient qu'il ne s'agit pas d'un stage
 
-Pour une entreprise, prendre un candidat en alternance ou en stage, ce n'est pas la même chose. L'alternance est un pari sur l'avenir, une promesse de formation continue, le symbole d'une envie, en amont, de travailler ensemble. Ayez donc l'amabilité d'envoyer vos courriers plusieurs moi à l'avance pour laisser aux entreprises à qui vous les destinez le temps de la réflexion.
+Pour une entreprise, prendre un candidat en alternance ou en stage, ce n'est pas la même chose. L'alternance est un pari sur l'avenir, une promesse de formation continue, le symbole d'une envie, en amont, de travailler ensemble. Ayez donc l'amabilité d'envoyer vos courriers plusieurs mois à l'avance pour laisser aux entreprises à qui vous les destinez le temps de la réflexion.
 
 ## Explicitez votre planning d'alternance
 
