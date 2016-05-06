@@ -3,8 +3,7 @@ date: 2016-04-12 09:00:00
 title: "La candidature qui fait mouche"
 tags:
  - Emploi
-series:
- - Stage en développement
+ - "Trouver un stage ou une alternance"
 ---
 
 > Vous cherchez du travail dans le Web : vous venez de terminer votre CV, vous mitraillez les agences de votre secteur de votre lettre de motivation, confiants, motivés. Quand soudain, votre candidature arrive dans ma boite mail…
