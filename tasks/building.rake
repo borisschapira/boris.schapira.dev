@@ -16,8 +16,8 @@ namespace :build do
       ans = STDIN.gets.chomp
       exit if ans != 'Y'
     end
-    
-    jekyll('serve --config _config.yml,_config_dev.yml')
+
+    jekyll('serve --config _config.yml,_config_dev.yml -L')
   end
   task :serve => :preview
 

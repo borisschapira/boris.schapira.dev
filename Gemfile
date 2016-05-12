@@ -19,4 +19,5 @@ group :jekyll_plugins do
   gem 'octopress-debugger'
   gem 'jekyll-compose'
   gem 'jemoji'
+  gem 'jekyll-livereload'
 end
