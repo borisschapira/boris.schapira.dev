@@ -18,8 +18,7 @@ namespace :build do
       ans = STDIN.gets.chomp
       exit if ans != 'Y'
     end
-
-    jekyll("serve --config _config.yml,#{config_file}")
+    jekyll("serve --config _config.yml,_config_decks.yml,#{config_file}")
   end
   task :serve => :preview
 
@@ -40,7 +39,7 @@ namespace :build do
     end
 
     puts 'Building…'
-    jekyll("build --config _config.yml,#{config_file},#{deploy_file}")
+    jekyll("build --config _config.yml,_config_decks.yml,#{config_file},#{deploy_file}")
     puts 'Cleaning BOMs…'
     sh './scripts/postprocess.sh ./_site'
   end

@@ -11,7 +11,7 @@ namespace :prebuild do
 
     desc "Executes the jekyll doctor"
     task :doctor do |t, args|
-      jekyll("doctor --config _config.yml")
+      jekyll("doctor")
     end
 
     desc "Test if content Front-Matter is YAML-valid"
