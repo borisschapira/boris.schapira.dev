@@ -1,5 +1,4 @@
 ---
-date: 2013-12-15 15:58:24
 title: Mamie fait des trucs avec un barbu
 ---
 

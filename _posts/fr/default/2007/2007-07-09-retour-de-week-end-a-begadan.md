@@ -1,6 +1,5 @@
 ---
 title: "Retour de Week End à Begadan"
-date: 2007-07-09 18:45:23
 tags:
   - Me, myself and I
   - Amis et famille

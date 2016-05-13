@@ -1,5 +1,4 @@
 ---
-date: 2013-09-08 16:08:59
 title: Quitte à regarder des dessins animés...
 ---
 

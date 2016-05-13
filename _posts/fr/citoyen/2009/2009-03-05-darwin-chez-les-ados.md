@@ -1,6 +1,5 @@
 ---
 title: "FaisMesDevoirs : darwin chez les Ados"
-date: 2009-03-05 17:27:48
 tags:
   - Société
   - Éducation

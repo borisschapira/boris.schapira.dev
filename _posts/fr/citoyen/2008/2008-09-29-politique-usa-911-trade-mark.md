@@ -1,6 +1,5 @@
 ---
 title: "Politique USA : 9/11, Trade Mark"
-date: 2008-09-29 01:23:05
 tags:
   - USA
 ---

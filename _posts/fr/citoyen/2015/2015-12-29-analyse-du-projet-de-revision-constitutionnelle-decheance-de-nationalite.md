@@ -1,6 +1,5 @@
 ---
 title: "L'analyse du projet de révision constitutionnelle : la déchéance de nationalité"
-date: 2015-12-29 08:00:00
 tags:
 ---
 

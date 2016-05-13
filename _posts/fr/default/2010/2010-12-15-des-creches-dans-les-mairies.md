@@ -1,6 +1,5 @@
 ---
 title: "Des crèches dans les mairies"
-date: 2010-12-15 09:59:14
 tags:
   - Laïcité
 ---

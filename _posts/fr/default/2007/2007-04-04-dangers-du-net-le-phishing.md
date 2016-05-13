@@ -1,6 +1,5 @@
 ---
 title: "Dangers du Net : le <em lang=\"en\">Phishing</em>"
-date: 2007-04-04 08:00:33
 tags:
   - Vulgarisation
 series: Dangers du Net

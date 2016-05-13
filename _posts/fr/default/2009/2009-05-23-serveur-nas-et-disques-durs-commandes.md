@@ -1,6 +1,5 @@
 ---
 title: "Serveur NAS et disques durs commandés"
-date: 2009-05-23 18:41:35
 tags:
   - Technologie
   - NAS

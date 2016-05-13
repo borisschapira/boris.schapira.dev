@@ -1,6 +1,5 @@
 ---
 title: "[Vidéo Halo3] Météo et 20h pour le Spartan"
-date: 2007-08-27 20:10:03
 tags:
   - Buzz
   - Halo3

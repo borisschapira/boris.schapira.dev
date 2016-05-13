@@ -1,6 +1,5 @@
 ---
 title: "Sharepoint et interopérabilité"
-date: 2007-06-28 17:44:14
 tags:
   - Développement
   - Interopérabilité

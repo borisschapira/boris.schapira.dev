@@ -1,6 +1,5 @@
 ---
 title: "Microsoft Arc Mouse, avis personnel"
-date: 2009-02-24 07:12:46
 tags:
   - Technologie
   - Souris

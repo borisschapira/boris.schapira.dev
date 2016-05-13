@@ -1,6 +1,5 @@
 ---
 title: "Je ne suis pas Charlie, je suis français."
-date: 2015-01-09 17:39:18
 tags:
   - Société
 series:

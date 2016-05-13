@@ -1,5 +1,4 @@
 ---
-date: 2015-11-13 14:02:23
 title: Les activités des grands
 ---
 

@@ -1,5 +1,4 @@
 ---
-date: 2015-02-15 18:47:56
 title: Team Tornado
 ---
 

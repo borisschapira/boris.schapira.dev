@@ -1,6 +1,5 @@
 ---
 title: "Passage en Next-Gen"
-date: 2007-05-14 19:33:59
 tags:
   - Technologie
   - XBox360

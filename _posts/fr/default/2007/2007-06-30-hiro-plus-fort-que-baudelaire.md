@@ -1,6 +1,5 @@
 ---
 title: "Hiro plus fort que Baudelaire"
-date: 2007-06-30 12:30:06
 tags:
   - Télévision
   - Heroes

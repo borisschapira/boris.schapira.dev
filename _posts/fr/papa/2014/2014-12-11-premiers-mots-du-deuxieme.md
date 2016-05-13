@@ -1,5 +1,4 @@
 ---
-date: 2014-12-11 13:50:57
 title: Premiers mots du deuxième
 ---
 

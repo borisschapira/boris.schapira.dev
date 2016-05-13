@@ -1,5 +1,4 @@
 ---
-date: 2015-03-26 07:45:35
 title: L'épée magique
 ---
 

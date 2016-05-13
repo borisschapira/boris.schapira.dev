@@ -1,6 +1,5 @@
 ---
 title: "Journée Internationale des Droits de la Femme"
-date: 2015-03-08 23:10:47
 tags:
   - HeForShe
   - Société

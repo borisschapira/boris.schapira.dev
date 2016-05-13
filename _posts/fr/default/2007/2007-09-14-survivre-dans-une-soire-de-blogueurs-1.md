@@ -1,6 +1,5 @@
 ---
 title: "Survivre dans une soirée de blogueurs #1"
-date: 2007-09-14 07:00:46
 categories:
 ---
 

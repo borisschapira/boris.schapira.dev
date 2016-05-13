@@ -1,6 +1,5 @@
 ---
 title: "A la recherche du nouveau décompilateur"
-date: 2011-06-08 15:15:17
 tags:
   - Outils
 ---

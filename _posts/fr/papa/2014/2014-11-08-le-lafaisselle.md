@@ -1,5 +1,4 @@
 ---
-date: 2014-11-08 14:11:23
 title: Le lafaisselle
 ---
 

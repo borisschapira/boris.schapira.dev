@@ -1,5 +1,4 @@
 ---
-date: 2014-03-01 10:07:47
 title: Accessibilité
 ---
 

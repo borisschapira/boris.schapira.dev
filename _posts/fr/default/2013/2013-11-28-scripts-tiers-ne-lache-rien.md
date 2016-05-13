@@ -1,6 +1,5 @@
 ---
 title: "Scripts tiers&nbsp;: on ne lâche rien !"
-date: 2013-11-28 08:31:46
 tags:
   - Scripts Tiers
   - Performance Web

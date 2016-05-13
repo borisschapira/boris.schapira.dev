@@ -1,6 +1,5 @@
 ---
 title: "Une leçon d'Histoire"
-date: 2010-02-24 19:57:10
 tags:
   - Me, myself and I
 ---

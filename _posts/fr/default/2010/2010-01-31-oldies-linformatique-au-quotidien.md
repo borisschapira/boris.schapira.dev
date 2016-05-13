@@ -1,6 +1,5 @@
 ---
 title: "1979&nbsp;: bientôt l'informatique au quotidien"
-date: 2010-01-31 15:59:08
 tags:
   - Histoire
 ---

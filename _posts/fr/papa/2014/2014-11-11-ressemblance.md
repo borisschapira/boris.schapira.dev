@@ -1,5 +1,4 @@
 ---
-date: 2014-11-11 15:28:33
 title: Ressemblance
 ---
 

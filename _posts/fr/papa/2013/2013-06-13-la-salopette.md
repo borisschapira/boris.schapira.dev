@@ -1,5 +1,4 @@
 ---
-date: 2013-06-13 08:16:56
 title: La salopette
 ---
 

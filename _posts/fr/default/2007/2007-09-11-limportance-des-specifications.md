@@ -1,6 +1,5 @@
 ---
 title: "L'importance des spécifications"
-date: 2007-09-11 08:26:14
 categories:
   - Développement
 ---

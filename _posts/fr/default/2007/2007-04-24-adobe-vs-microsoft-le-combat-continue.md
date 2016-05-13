@@ -1,6 +1,5 @@
 ---
 title: "Adobe Vs. Microsoft, le combat continue"
-date: 2007-04-24 12:10:02
 tags:
   - Technologie
   - Interopérabilité

@@ -1,6 +1,5 @@
 ---
 title: "Le stage, CDD déguisé"
-date: 2011-04-19 14:24:45
 tags:
   - Emploi
 ---

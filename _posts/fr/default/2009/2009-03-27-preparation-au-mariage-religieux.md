@@ -1,6 +1,5 @@
 ---
 title: "Préparation au mariage religieux"
-date: 2009-03-27 17:29:04
 tags:
   - Me, myself and I
   - Mariage

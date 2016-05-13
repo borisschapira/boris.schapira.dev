@@ -1,5 +1,4 @@
 ---
-date: 2016-02-16 21:10:44
 title: "Juste un papa"
 ---
 

@@ -1,9 +1,12 @@
 ---
-date: 2016-04-18 09:00:00
 title: "Sortir Mamie"
 ---
 
-Il me dirige sur le chemin qui amène de chez sa Mamie à chez son arrière grand-mère, "Mémé". À un moment, il se trompe et nous partons sur la mauvaise route. Je décide donc de lui faire remarquer :
+Il me dirige sur le chemin qui amène de chez sa Mamie à chez son arrière grand-mère, "Mémé".
+
+<!-- more -->
+
+À un moment, il se trompe et nous partons sur la mauvaise route. Je décide donc de lui faire remarquer :
 
 > — Tu es sûr que c'est par là ?
 > — Ah non, ça c'est le chemin de la ballade de Mamie !

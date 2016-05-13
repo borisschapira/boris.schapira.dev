@@ -1,6 +1,5 @@
 ---
 title: "Bienvenue au nouveau lecteur des blogs"
-date: 2008-03-19 08:39:48
 tags:
   - Sarkozy
 ---

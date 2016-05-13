@@ -1,6 +1,5 @@
 ---
 title: "Knight Industry Three Thousand"
-date: 2008-03-19 15:58:28
 tags:
   - Culture
   - Souvenir

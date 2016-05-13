@@ -1,6 +1,5 @@
 ---
 title: "Nouveautés Live Hotmail de Septembre"
-date: 2007-08-27 11:55:01
 tags:
   - Buzz
   - Windows Live

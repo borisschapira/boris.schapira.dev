@@ -1,6 +1,5 @@
 ---
 title: "Première tâche : fixer la date"
-date: 2008-11-11 18:05:41
 tags:
   - Me, myself and I
   - Mariage

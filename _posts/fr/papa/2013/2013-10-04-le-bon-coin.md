@@ -1,5 +1,4 @@
 ---
-date: 2013-10-04 16:06:35
 title: Le Bon Coin
 ---
 

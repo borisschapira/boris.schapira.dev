@@ -1,5 +1,4 @@
 ---
-date: 2013-12-07 15:59:36
 title: Protectrice
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Un peu d'actu politique et financière"
-date: 2008-02-07 08:18:56
 tags:
   - France
 ---

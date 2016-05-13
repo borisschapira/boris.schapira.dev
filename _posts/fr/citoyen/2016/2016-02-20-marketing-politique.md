@@ -1,5 +1,4 @@
 ---
-date: 2016-02-19 21:00:00
 title: "Diviser"
 tags:
   - Égalité

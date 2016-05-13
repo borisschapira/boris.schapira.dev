@@ -1,6 +1,5 @@
 ---
 title: "Les dernières technos Microsoft ? Un enjeu de Civilization"
-date: 2007-07-09 17:19:52
 tags:
   - Humour
   - Technologie

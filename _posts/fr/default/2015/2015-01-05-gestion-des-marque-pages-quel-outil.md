@@ -1,6 +1,5 @@
 ---
 title: "Gestion des marque-pages&nbsp;: quel outil&nbsp;?"
-date: 2015-01-05 12:32:21
 tags:
   - Outils
   - Veille

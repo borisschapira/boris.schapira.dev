@@ -1,7 +1,6 @@
 ---
 ---
 title: "Ras la tronche des sondages"
-date: 2007-11-10 17:15:20
 tags:
   - Société
   - France

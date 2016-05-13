@@ -1,6 +1,5 @@
 ---
 title: "En3mots fait peau neuve"
-date: 2007-06-12 12:33:36
 tags:
   - En3Mots
 ---

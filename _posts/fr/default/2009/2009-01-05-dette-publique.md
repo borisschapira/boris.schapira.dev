@@ -1,6 +1,5 @@
 ---
 title: "Dette Publique Française"
-date: 2009-01-05 14:33:15
 tags:
   - Finance
   - Politique

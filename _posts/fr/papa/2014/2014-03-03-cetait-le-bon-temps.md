@@ -1,5 +1,4 @@
 ---
-date: 2014-03-03 15:00:37
 title: C'était le bon temps
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Avis construit d'un cheminot et problème dans les facs"
-date: 2007-11-15 23:22:53
 tags:
   - Emploi
   - Politique

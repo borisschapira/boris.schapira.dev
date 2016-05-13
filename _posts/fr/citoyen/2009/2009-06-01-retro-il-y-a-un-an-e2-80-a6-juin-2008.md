@@ -1,6 +1,5 @@
 ---
 title: "[Rétro] Il y a un an… juin 2008."
-date: 2009-06-01 14:09:48
 tags:
   - Société
   - Rétro

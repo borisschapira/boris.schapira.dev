@@ -1,6 +1,5 @@
 ---
 title: "Publicités stupides"
-date: 2009-11-02 09:54:24
 tags:
   - Société
   - "Billet d'humeur"

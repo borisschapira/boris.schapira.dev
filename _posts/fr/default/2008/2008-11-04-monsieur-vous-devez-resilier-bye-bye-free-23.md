@@ -1,6 +1,5 @@
 ---
 title: "«&#160;Monsieur, vous devez résilier&#160;» (Bye-bye Free 2/3)"
-date: 2008-11-04 09:20:45
 tags:
   - Boulogne
   - FAI

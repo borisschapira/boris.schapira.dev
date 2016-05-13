@@ -1,5 +1,4 @@
 ---
-date: 2013-08-10 16:21:24
 title: Le sommeil, c'est surfait
 ---
 

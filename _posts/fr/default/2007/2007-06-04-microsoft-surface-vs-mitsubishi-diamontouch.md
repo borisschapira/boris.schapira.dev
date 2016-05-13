@@ -1,6 +1,5 @@
 ---
 title: "Microsoft Surface Vs. Mitsubishi DiamonTouch"
-date: 2007-06-04 11:55:48
 tags:
   - Technologie
   - Microsoft Surface

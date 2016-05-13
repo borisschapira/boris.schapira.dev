@@ -1,5 +1,4 @@
 ---
-date: 2015-09-16 15:47:56
 title: Le pyjama de tonton
 ---
 

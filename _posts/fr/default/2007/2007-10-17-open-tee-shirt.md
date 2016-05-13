@@ -1,6 +1,5 @@
 ---
 title: "Open Tee-Shirt"
-date: 2007-10-17 21:56:21
 tags:
   - Développement
   - Imagine Cup

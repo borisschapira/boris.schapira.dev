@@ -1,5 +1,4 @@
 ---
-date: 2016-02-16 22:10:44
 title: "BetterBack : pour une meilleure posture"
 ---
 

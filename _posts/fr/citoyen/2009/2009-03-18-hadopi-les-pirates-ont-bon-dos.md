@@ -1,6 +1,5 @@
 ---
 title: "Hadopi : les «&#160;Pirates&#160;» ont bon dos"
-date: 2009-03-18 12:35:59
 tags:
   - Numérique
 series: Hadopi

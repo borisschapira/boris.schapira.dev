@@ -1,6 +1,5 @@
 ---
 title: "Stéréotypes de BAC+5"
-date: 2008-07-07 15:00:43
 tags:
   - "Billet d'humeur"
   - Publicité

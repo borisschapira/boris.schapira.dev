@@ -1,6 +1,5 @@
 ---
 title: "Bonjour Neuf ! (Bye-bye Free 3/3)"
-date: 2008-11-25 14:31:40
 tags:
   - Boulogne
   - FAI

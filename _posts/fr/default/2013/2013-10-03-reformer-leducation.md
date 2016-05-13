@@ -1,6 +1,5 @@
 ---
 title: "Réformer l'Education&nbsp;?"
-date: 2013-10-03 08:48:22
 tags:
   - Education
 ---

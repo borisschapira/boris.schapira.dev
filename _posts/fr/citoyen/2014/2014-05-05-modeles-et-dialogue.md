@@ -1,6 +1,5 @@
 ---
 title: "Modèle et dialogue"
-date: 2014-05-05 12:32:21
 tags:
   - Société
 ---

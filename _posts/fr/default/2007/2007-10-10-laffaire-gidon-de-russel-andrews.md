@@ -1,6 +1,5 @@
 ---
 title: "«&#160;L'affaire Gidéon&#160;», Russel Andrews"
-date: 2007-10-10 20:00:19
 categories:
   - Littérature
 ---

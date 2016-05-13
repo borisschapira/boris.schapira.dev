@@ -1,6 +1,5 @@
 ---
 title: "Réflexions autour de Note2Be"
-date: 2008-03-07 18:52:11
 tags:
   - Société
   - Éducation

@@ -1,6 +1,5 @@
 ---
 title: "cHTeMeLe : financer un jeu de cartes basé sur HTML"
-date: 2012-09-11 14:26:50
 tags:
   - Front-End
   - Insolite

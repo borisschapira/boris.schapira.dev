@@ -1,6 +1,5 @@
 ---
 title: "Microsoft Seadragon : un Hippocampe au cœur de la Toile"
-date: 2007-03-31 11:00:00
 tags:
   - Outils
 ---

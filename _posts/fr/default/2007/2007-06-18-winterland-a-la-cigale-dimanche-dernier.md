@@ -1,6 +1,5 @@
 ---
 title: "Winterland à la Cigale dimanche dernier…"
-date: 2007-06-18 18:16:18
 tags:
   - Musique
   - Silent Fall (ex Winterland)

@@ -1,6 +1,5 @@
 ---
 title: "Retrouvez-moi le 6 octobre aux MS Days"
-date: 2009-09-23 14:09:54
 tags:
   - Microsoft
   - MSDays

@@ -1,6 +1,5 @@
 ---
 title: "Retour sur : Projet Epsilon"
-date: 2011-02-20 14:33:30
 tags:
   - Me, myself and I
 ---

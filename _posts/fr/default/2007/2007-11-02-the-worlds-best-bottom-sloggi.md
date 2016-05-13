@@ -1,6 +1,5 @@
 ---
 title: "The world's best bottom (Sloggi)"
-date: 2007-11-02 22:39:30
 tags:
   - Sexy
 ---

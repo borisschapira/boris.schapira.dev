@@ -1,6 +1,5 @@
 ---
 title: "Promouvoir une culture numérique"
-date: 2015-04-10 14:29:12
 tags:
   - Education
   - Transformation numérique

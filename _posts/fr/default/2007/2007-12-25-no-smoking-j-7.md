@@ -1,6 +1,5 @@
 ---
 title: "No smoking, J-7"
-date: 2007-12-25 22:19:27
 categories:
   - Société
 ---

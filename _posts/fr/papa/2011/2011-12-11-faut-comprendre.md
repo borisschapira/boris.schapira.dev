@@ -1,5 +1,4 @@
 ---
-date: 2011-12-11 21:33:56
 title: Faut comprendre !
 ---
 

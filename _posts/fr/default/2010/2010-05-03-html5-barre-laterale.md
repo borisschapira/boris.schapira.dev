@@ -1,6 +1,5 @@
 ---
 title: "[HTML5] Barre latérale"
-date: 2010-05-03 10:28:57
 tags:
   - Front-End
   - Projets

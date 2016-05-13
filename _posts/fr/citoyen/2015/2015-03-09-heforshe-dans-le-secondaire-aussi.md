@@ -1,6 +1,5 @@
 ---
 title: "#HeForShe, dans le secondaire aussi"
-date: 2015-03-09 23:07:31
 tags:
   - HeForShe
   - Société

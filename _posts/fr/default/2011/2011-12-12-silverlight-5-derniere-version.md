@@ -1,6 +1,5 @@
 ---
 title: "Silverlight 5 : dernière version ?"
-date: 2011-12-12 13:09:18
 tags:
   - Outils
 ---

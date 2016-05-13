@@ -1,5 +1,4 @@
 ---
-date: 2015-03-08 19:47:13
 title: Bruits suspects
 ---
 

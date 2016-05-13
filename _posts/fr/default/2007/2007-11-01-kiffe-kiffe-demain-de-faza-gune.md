@@ -1,6 +1,5 @@
 ---
 title: "«&#160;Kiffe kiffe demain&#160;», Faïza Guène"
-date: 2007-11-01 07:15:51
 categories:
   - Littérature
 ---

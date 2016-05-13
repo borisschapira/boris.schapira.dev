@@ -1,6 +1,5 @@
 ---
 title: "URGENT : Recherche d'un développeur XNA"
-date: 2007-08-13 20:45:23
 tags:
   - Imagine Cup
   - XNA

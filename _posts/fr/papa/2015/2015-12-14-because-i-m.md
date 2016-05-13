@@ -1,5 +1,4 @@
 ---
-date: 2015-12-14 08:34:44
 title: Because I'm Ba*man
 ---
 

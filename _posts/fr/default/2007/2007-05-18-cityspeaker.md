@@ -1,6 +1,5 @@
 ---
 title: "CitySpeaker"
-date: 2007-05-18 18:38:01
 tags:
   - Culture
   - Publicité

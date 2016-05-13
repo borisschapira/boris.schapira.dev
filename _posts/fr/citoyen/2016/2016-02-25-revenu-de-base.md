@@ -1,5 +1,4 @@
 ---
-date: 2016-02-26 07:49:00
 title: "Revenu de base"
 tags:
  - Emploi

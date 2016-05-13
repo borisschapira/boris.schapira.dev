@@ -1,6 +1,5 @@
 ---
 title: "Preview - Final Fantasy XIII"
-date: 2009-05-18 21:38:15
 tags:
   - Jeu Video
   - Final Fantasy

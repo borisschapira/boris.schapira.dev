@@ -1,5 +1,4 @@
 ---
-date: 2014-11-23 13:53:18
 title: Souvenir d'enfance
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Développeurs Web : 10 conseils ultimes…"
-date: 2011-05-13 13:52:29
 tags:
   - Front-End
 ---

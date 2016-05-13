@@ -1,6 +1,5 @@
 ---
 title: "Moments frustrants"
-date: 2014-11-08 11:48:28
 tags:
   - Front-End
   - Conférences

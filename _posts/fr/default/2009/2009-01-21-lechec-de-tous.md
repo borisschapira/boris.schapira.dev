@@ -1,6 +1,5 @@
 ---
 title: "L'échec de tous"
-date: 2009-01-21 13:45:24
 categories:
   - Politique
 ---

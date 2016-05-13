@@ -1,6 +1,5 @@
 ---
 title: "Découvrez et formez-vous avec le Coach C#"
-date: 2007-05-07 11:35:32
 tags:
   - .NET
 ---

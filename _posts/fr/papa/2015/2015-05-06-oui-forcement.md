@@ -1,5 +1,4 @@
 ---
-date: 2015-05-06 19:42:51
 title: Oui, forcément
 ---
 

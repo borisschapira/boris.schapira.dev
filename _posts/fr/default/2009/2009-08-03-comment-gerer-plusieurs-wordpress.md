@@ -1,6 +1,5 @@
 ---
 title: "Comment gérer plusieurs Wordpress ?"
-date: 2009-08-03 13:29:21
 tags:
   - Technologie
   - Wordpress

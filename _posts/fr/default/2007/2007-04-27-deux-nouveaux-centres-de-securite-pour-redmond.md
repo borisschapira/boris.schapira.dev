@@ -1,6 +1,5 @@
 ---
 title: "Microsoft : 2 nouveaux centres de sécurité en Europe"
-date: 2007-04-27 12:53:20
 categories:
   - Technologie
 ---

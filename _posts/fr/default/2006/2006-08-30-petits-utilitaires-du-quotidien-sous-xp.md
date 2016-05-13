@@ -1,6 +1,5 @@
 ---
 title: "Petits utilitaires du quotidien sous XP"
-date: 2006-08-30 11:29:34
 tags:
   - Outils
 ---

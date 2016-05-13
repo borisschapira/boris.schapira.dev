@@ -1,6 +1,5 @@
 ---
 title: "Crash de la BDD"
-date: 2007-07-31 12:10:35
 
 tags:
   - Crash

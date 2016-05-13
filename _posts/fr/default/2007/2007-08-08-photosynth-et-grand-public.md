@@ -1,6 +1,5 @@
 ---
 title: "PhotoSynth et grand public"
-date: 2007-08-08 19:20:42
 tags:
   - Buzz
   - PhotoSynth

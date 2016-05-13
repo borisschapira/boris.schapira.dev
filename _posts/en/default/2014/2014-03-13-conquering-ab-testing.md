@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Conquering A/B Testing"
-date: 2014-03-13 00:00:01
 i18n-key: conquering-ab-testing
 canonical: "http://blog.clever-age.com/en/2015/12/14/conquering-ab-testing/"
 ---

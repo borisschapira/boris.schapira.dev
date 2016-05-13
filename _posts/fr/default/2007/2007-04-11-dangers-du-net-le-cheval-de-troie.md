@@ -1,6 +1,5 @@
 ---
 title: "Dangers du Net : le Cheval de Troie"
-date: 2007-04-11 19:13:57
 tags:
   - Vulgarisation
 series: Dangers du Net

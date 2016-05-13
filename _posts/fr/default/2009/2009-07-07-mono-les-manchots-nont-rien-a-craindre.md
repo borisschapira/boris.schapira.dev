@@ -1,6 +1,5 @@
 ---
 title: "Mono : les manchots n’ont rien à craindre"
-date: 2009-07-07 00:00:00
 canonical: "http://www.nexeo.fr/blog/2009/07/07/mono-les-manchots-nont-rien-a-craindre/"
 tags:
  - Nexdotnet

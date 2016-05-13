@@ -1,6 +1,5 @@
 ---
 title: "Grand méchant capital"
-date: 2008-03-18 11:33:09
 tags:
   - Finance
   - Société

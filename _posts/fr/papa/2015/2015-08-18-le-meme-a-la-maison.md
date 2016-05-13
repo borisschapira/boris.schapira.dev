@@ -1,5 +1,4 @@
 ---
-date: 2015-08-18 15:56:28
 title: Le même à la maison
 ---
 

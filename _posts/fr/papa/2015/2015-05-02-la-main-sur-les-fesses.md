@@ -1,5 +1,4 @@
 ---
-date: 2015-05-02 20:42:52
 published: false
 title: La main sur les fesses
 ---

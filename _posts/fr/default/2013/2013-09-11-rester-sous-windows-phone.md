@@ -1,6 +1,5 @@
 ---
 title: "Rester sous Windows Phone…"
-date: 2013-09-11 08:57:35
 tags:
   - Me, myself and I
   - Mobilité

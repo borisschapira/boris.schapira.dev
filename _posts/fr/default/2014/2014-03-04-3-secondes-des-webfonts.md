@@ -1,6 +1,5 @@
 ---
 title: "3 secondes & des WebFonts"
-date: 2014-04-03 14:40:00
 tags:
   - Front-End
   - Performance Web

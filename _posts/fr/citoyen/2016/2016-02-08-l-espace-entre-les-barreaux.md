@@ -1,5 +1,4 @@
 ---
-date: 2016-02-08 09:00:00
 title: "L'espace entre les barreaux"
 tags:
  - "État d'urgence"

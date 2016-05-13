@@ -1,6 +1,5 @@
 ---
 title: "Jeux vidéo responsables"
-date: 2010-03-15 15:20:22
 tags:
   - Jeu Video
 ---

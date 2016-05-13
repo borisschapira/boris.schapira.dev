@@ -1,6 +1,5 @@
 ---
 title: "Un seul site vous manque, et tout le web est cassé"
-date: 2014-06-20 18:11:00
 tags:
   - Front-End
   - Performance Web

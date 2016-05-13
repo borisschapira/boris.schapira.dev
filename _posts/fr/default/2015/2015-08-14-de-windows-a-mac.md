@@ -1,6 +1,5 @@
 ---
 title: De Windows à Mac
-date: 2015-08-14 08:22:11
 tags:
   - Me, myself and I
   - Outils

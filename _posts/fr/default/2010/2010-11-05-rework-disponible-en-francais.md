@@ -1,6 +1,5 @@
 ---
 title: "«&#160;Rework, réussir autrement&#160;», disponible en français"
-date: 2010-11-05 09:32:04
 tags:
   - Management
 ---

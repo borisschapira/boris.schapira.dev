@@ -1,5 +1,4 @@
 ---
-date: 2016-02-01 08:00:00
 title: "Xénophobes"
 tags:
   - Égalité

@@ -1,6 +1,5 @@
 ---
 title: "Népotisme au Parti Socialiste"
-date: 2009-10-15 10:06:20
 tags:
   - France
   - Jean Sarkozy

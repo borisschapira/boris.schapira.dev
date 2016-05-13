@@ -1,6 +1,5 @@
 ---
 title: "Phrases insolites… #5"
-date: 2007-12-18 06:16:23
 tags:
   - Humour
   - Insolite

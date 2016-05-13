@@ -1,6 +1,5 @@
 ---
 title: "Lancement presse de l'Imagine Cup 2007"
-date: 2007-01-14 11:45:25
 tags:
   - MSP
 ---

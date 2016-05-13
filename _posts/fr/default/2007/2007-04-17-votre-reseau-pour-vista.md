@@ -1,6 +1,5 @@
 ---
 title: "Votre réseau pour Vista"
-date: 2007-04-17 09:05:10
 tags:
   - Technologie
   - Windows Vista

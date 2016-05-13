@@ -1,6 +1,5 @@
 ---
 title: "Impressionnant traitement d'images"
-date: 2007-08-29 08:06:43
 tags:
   - Technologie
   - Web

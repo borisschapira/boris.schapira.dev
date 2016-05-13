@@ -1,6 +1,5 @@
 ---
 title: "Le poulet est bon pour la santé"
-date: 2007-12-18 19:54:36
 categories:
   - Littérature
 ---

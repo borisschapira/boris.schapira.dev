@@ -1,6 +1,5 @@
 ---
 title: "Droits et devoirs"
-date: 2015-02-09 16:50:54
 tags:
   - Société
   - Emploi

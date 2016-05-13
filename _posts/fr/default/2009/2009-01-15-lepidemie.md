@@ -1,6 +1,5 @@
 ---
 title: "L'épidémie"
-date: 2009-01-15 07:31:41
 tags:
   - Finance
   - Economie

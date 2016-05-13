@@ -1,6 +1,5 @@
 ---
 title: "«&#160;J'aime les artistes&#160;», nouveau bulletin de l'Armée d'Italie"
-date: 2009-03-30 18:22:32
 tags:
   - Numérique
 series: Hadopi

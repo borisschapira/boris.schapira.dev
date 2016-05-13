@@ -1,6 +1,5 @@
 ---
 title: "Société recherche stagiaire expérimenté"
-date: 2011-01-06 20:24:30
 tags:
   - Emploi
 ---

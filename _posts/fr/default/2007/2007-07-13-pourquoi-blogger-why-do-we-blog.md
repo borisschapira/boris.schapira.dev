@@ -1,6 +1,5 @@
 ---
 title: "Pourquoi blogger ? | Why do we blog ?"
-date: 2007-07-13 13:20:39
 tags:
   - Blogosphère
   - Réflexion

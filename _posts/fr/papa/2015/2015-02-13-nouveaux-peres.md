@@ -1,5 +1,4 @@
 ---
-date: 2015-02-13 23:55:06
 title: Nouveaux pères
 ---
 

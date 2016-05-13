@@ -1,6 +1,5 @@
 ---
 title: "Opera Dragonfly Search Form is great"
-date: 2012-05-30 14:02:05
 tags:
   - Outils
 series:

@@ -1,6 +1,5 @@
 ---
 title: "Deepfish : le poisson lanterne de Microsoft"
-date: 2007-04-01 09:36:44
 tags:
   - Outils
 ---

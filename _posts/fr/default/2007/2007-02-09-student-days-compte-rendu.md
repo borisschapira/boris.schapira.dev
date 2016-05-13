@@ -1,6 +1,5 @@
 ---
 title: "Student Days : compte-rendu"
-date: 2007-02-09 00:03:15
 tags:
   - Conférences
 ---

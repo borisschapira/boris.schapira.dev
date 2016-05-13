@@ -1,6 +1,5 @@
 ---
 title: "Rose - La liste"
-date: 2007-03-27 08:00:15
 categories:
   - Musique
   - Me, myself and I

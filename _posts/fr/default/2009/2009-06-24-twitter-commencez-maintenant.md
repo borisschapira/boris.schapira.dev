@@ -1,6 +1,5 @@
 ---
 title: "Twitter : commencez maintenant"
-date: 2009-06-24 00:06:09
 tags:
   - Technologie
   - Microblogging

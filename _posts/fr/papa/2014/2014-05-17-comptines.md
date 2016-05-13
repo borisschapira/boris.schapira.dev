@@ -1,5 +1,4 @@
 ---
-date: 2014-05-17 15:47:17
 title: Comptines
 ---
 

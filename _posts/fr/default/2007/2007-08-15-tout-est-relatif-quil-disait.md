@@ -1,6 +1,5 @@
 ---
 title: "Tout est relatif, qu'il disait !"
-date: 2007-08-15 13:00:27
 tags:
   - Sécurité routière
 ---

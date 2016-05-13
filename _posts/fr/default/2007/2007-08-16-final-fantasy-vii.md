@@ -1,6 +1,5 @@
 ---
 title: "Final Fantasy VII"
-date: 2007-08-16 18:46:31
 tags:
   - Jeu Video
   - Final Fantasy

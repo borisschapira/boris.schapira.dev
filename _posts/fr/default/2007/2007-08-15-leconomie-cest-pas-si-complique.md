@@ -1,6 +1,5 @@
 ---
 title: "L'Economie, c'est pas si compliqué"
-date: 2007-08-15 06:25:09
 tags:
   - Economie
   - Subprime

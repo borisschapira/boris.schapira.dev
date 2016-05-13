@@ -1,5 +1,4 @@
 ---
-date: 2015-05-12 06:38:02
 title: La Nounou du parking
 ---
 

@@ -1,5 +1,4 @@
 ---
-date: 2013-05-13 08:15:08
 title: Tout ça pour ça
 ---
 

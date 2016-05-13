@@ -1,6 +1,5 @@
 ---
 title: "Un petit coin de paradis"
-date: 2007-05-19 18:00:44
 categories:
   - Me, myself and I
 ---

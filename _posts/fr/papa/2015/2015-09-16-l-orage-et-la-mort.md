@@ -1,5 +1,4 @@
 ---
-date: 2015-09-16 20:34:49
 title: L'orage et la mort
 ---
 

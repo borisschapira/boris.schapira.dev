@@ -1,6 +1,5 @@
 ---
 title: "3 grosses news sur Silverlight"
-date: 2007-05-02 08:30:59
 tags:
   - Développement
   - .NET

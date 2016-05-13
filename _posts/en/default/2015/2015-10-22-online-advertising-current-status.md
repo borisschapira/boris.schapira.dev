@@ -1,6 +1,5 @@
 ---
 title: "Online Advertising: The Current Status"
-date: 2015-10-22 11:00:00
 i18n-key: online-advertising
 tags:
   - Publicité

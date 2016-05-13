@@ -1,5 +1,4 @@
 ---
-date: 2016-02-10 19:10:44
 title: Dinosaures
 ---
 

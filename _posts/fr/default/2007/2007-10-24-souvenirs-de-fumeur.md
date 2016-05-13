@@ -1,6 +1,5 @@
 ---
 title: "Souvenirs de fumeur"
-date: 2007-10-24 21:03:25
 
 tags:
   - Memory Lane

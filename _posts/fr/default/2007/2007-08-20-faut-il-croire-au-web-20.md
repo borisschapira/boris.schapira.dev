@@ -1,6 +1,5 @@
 ---
 title: "Faut-il croire au Web 2.0 ?"
-date: 2007-08-20 06:00:00
 tags:
   - Technologie
   - Web

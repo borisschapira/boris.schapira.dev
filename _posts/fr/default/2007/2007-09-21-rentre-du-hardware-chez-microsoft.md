@@ -1,6 +1,5 @@
 ---
 title: "Rentrée du Hardware chez Microsoft"
-date: 2007-09-21 19:33:32
 tags:
   - Technologie
   - Hardware

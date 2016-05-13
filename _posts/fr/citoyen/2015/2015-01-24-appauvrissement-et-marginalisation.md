@@ -1,6 +1,5 @@
 ---
 title: "Appauvrissent et marginalisation"
-date: 2015-01-24 12:32:21
 tags:
 ---
 

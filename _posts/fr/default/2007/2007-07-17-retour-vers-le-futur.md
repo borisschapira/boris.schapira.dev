@@ -1,6 +1,5 @@
 ---
 title: "Retour vers le futur"
-date: 2007-07-17 07:24:47
 tags:
   - .NET
 ---

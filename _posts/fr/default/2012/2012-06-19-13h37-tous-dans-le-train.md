@@ -1,6 +1,5 @@
 ---
 title: "13h37 : tous dans le train !"
-date: 2012-06-19 13:37:25
 tags:
   - Scripts Tiers
   - Front-End

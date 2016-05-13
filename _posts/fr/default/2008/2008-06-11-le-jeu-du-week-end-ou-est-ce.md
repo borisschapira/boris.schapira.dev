@@ -1,6 +1,5 @@
 ---
 title: "Où est-ce (leave Charlie alone !) ?"
-date: 2008-06-11 01:17:30
 categories:
   - Humour
 ---

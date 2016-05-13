@@ -1,6 +1,5 @@
 ---
 title: "Geek stuff again"
-date: 2007-08-02 21:10:23
 tags:
   - Humour
   - Technologie

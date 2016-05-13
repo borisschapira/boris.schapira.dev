@@ -1,5 +1,4 @@
 ---
-date: 2015-07-19 11:53:35
 title: Reconnaissant mais pas trop
 ---
 

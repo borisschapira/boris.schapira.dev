@@ -1,6 +1,5 @@
 ---
 title: "Qu'est-ce qu'un RSS ?"
-date: 2007-04-15 14:35:54
 tags:
   - Technologie
   - RSS

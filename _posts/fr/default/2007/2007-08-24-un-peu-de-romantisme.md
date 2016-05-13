@@ -1,6 +1,5 @@
 ---
 title: "Un peu de romantisme"
-date: 2007-08-24 12:30:16
 categories:
   - Télévision
 ---

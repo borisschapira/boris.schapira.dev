@@ -1,6 +1,5 @@
 ---
 title: "Ipol : le retour"
-date: 2007-09-30 20:41:21
 categories:
   - Politique
 ---

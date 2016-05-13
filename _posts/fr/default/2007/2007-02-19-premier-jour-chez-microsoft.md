@@ -1,6 +1,5 @@
 ---
 title: "Premier jour chez Microsoft !"
-date: 2007-02-19 23:00:36
 tags:
   - Me, myself and I
 ---

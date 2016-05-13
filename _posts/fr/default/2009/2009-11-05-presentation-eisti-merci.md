@@ -1,6 +1,5 @@
 ---
 title: "Présentation EISTI - Merci"
-date: 2009-11-05 19:19:32
 tags:
   - Emploi
   - Finance

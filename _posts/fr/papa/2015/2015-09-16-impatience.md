@@ -1,5 +1,4 @@
 ---
-date: 2015-09-16 20:22:27
 title: Impatience
 ---
 

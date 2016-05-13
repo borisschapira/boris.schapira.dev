@@ -1,5 +1,4 @@
 ---
-date: 2016-01-25 22:10:44
 title: La preuve
 main_image: assets/images/papa/2016-01-25/1.gif
 ---

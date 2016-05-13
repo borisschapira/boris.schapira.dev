@@ -1,6 +1,5 @@
 ---
 title: "Collectivités et contrôle des investissements"
-date: 2009-11-12 09:51:35
 tags:
   - Finance
   - Politique

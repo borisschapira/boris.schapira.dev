@@ -1,6 +1,5 @@
 ---
 title: "France 2 et Facebook"
-date: 2007-11-18 22:45:54
 tags:
   - Société
   - Technologie

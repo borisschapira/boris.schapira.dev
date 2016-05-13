@@ -1,6 +1,5 @@
 ---
 title: "Imagine Cup 2008 : site en ligne"
-date: 2007-08-10 12:32:16
 tags:
   - Technologie
   - Imagine Cup

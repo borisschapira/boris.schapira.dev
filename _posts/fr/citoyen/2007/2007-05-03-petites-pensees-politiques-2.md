@@ -1,6 +1,5 @@
 ---
 title: "Elections présidentielles 2007 #2"
-date: 2007-05-03 07:30:13
 tags:
   - Débat
   - IPol

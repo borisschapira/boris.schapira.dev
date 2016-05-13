@@ -1,6 +1,5 @@
 ---
 title: "L’astuce du jour : LinqPad pour vos requêtes"
-date: 2009-10-06 00:00:00
 canonical: "http://www.nexeo.fr/blog/2009/10/06/lastuce-du-jour-thread-ou-threadpool/"
 tags:
  - Nexdotnet

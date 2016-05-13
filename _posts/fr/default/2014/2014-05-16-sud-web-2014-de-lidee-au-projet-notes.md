@@ -1,6 +1,5 @@
 ---
 title: "De l'Idée au Projet"
-date: 2014-05-16 11:05:07
 tags:
   - Partage
   - Service Design

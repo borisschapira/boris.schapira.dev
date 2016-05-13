@@ -1,6 +1,5 @@
 ---
 title: "Un polochon contre la crise ?"
-date: 2009-02-17 22:33:42
 tags:
   - Finance
   - Crise

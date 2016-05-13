@@ -1,6 +1,5 @@
 ---
 title: "Départ de SGCIB"
-date: 2009-03-31 18:49:19
 tags:
   - Emploi
   - Finance

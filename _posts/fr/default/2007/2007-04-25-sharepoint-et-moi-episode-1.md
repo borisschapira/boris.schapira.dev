@@ -1,6 +1,5 @@
 ---
 title: "SharePoint et moi - Episode 1"
-date: 2007-04-25 12:20:44
 tags:
   - Technologie
   - Microsoft Office

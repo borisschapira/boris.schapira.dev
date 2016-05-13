@@ -1,6 +1,5 @@
 ---
 title: "My Girlfriend is DIRT"
-date: 2007-07-03 13:29:47
 tags:
   - Jeu Video
   - Libellule

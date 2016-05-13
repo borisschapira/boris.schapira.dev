@@ -1,6 +1,5 @@
 ---
 title: "Useless iPhone of Kant"
-date: 2008-12-08 17:40:31
 tags:
   - Humour
   - Technologie

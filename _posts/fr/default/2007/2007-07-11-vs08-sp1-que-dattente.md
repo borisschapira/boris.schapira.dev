@@ -1,6 +1,5 @@
 ---
 title: "Visual Studio 2008, SP1 : que d'attente !"
-date: 2007-07-11 12:32:22
 tags:
   - .NET
   - Windows

@@ -1,6 +1,5 @@
 ---
 title: "Humain ?"
-date: 2015-12-21 14:44:00
 tags:
   - Science
 ---

@@ -1,6 +1,5 @@
 ---
 title: "VBA, Extensions OpenOffice… les langages de script bureautiques"
-date: 2007-09-10 10:00:36
 tags:
   - Développement
   - Microsoft Office

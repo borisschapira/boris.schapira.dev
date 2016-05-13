@@ -1,6 +1,5 @@
 ---
 title: "Hadopi en Commission Mixte Paritaire"
-date: 2009-04-08 16:08:26
 tags:
   - Numérique
 series: Hadopi

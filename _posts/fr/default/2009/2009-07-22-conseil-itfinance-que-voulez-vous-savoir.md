@@ -1,6 +1,5 @@
 ---
 title: "Présentation EISTI - Que voulez-vous savoir ?"
-date: 2009-07-22 16:07:31
 tags:
   - Emploi
   - Finance

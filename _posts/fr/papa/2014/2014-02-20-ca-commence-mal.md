@@ -1,5 +1,4 @@
 ---
-date: 2014-02-20 09:03:52
 title: Ça commence mal
 ---
 

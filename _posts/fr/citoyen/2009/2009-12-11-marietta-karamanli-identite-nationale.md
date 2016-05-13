@@ -1,6 +1,5 @@
 ---
 title: "Marietta Karamanli - Identité Nationale"
-date: 2009-12-11 16:49:43
 tags:
   - Égalité
   - Religion

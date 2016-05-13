@@ -1,5 +1,4 @@
 ---
-date: 2013-11-02 10:22:56
 title: Décodeur requis
 ---
 

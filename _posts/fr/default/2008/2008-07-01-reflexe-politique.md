@@ -1,6 +1,5 @@
 ---
 title: "Réflexe politique"
-date: 2008-07-01 17:29:40
 categories:
   - Politique
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Ecouter et réfléchir"
-date: 2015-01-12 20:58:02
 tags:
   - Société
 series:

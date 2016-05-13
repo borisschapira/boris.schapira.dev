@@ -1,5 +1,4 @@
 ---
-date: 2016-02-19 22:10:44
 title: "Madame Irma"
 main_image: assets/images/papa/2016-02-19/irma.jpg
 ---

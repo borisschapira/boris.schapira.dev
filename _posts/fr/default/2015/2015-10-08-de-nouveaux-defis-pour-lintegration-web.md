@@ -1,6 +1,5 @@
 ---
 title: "De nouveaux défis pour l’intégration web"
-date: 2015-10-08 15:00:00
 tags:
   - Front-End
 canonical: http://blog.clever-age.com/fr/2013/11/14/github-l-open-source-qui-conquiert-le-monde/

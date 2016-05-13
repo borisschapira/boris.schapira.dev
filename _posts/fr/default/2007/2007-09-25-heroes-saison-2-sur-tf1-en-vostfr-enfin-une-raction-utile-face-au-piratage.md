@@ -1,6 +1,5 @@
 ---
 title: "Heroes Saison 2 sur TF1 en VOSTFR"
-date: 2007-09-25 22:24:37
 tags:
   - Télévision
   - Heroes

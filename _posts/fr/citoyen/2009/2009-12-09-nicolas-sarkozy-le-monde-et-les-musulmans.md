@@ -1,6 +1,5 @@
 ---
 title: "Nicolas Sarkozy, Le Monde et les musulmans"
-date: 2009-12-09 23:31:48
 tags:
   - Religion
   - Égalité

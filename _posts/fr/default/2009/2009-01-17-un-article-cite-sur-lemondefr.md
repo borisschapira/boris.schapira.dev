@@ -1,6 +1,5 @@
 ---
 title: "Un article cité sur LeMonde.fr"
-date: 2009-01-17 23:43:49
 categories:
   - Politique
 ---

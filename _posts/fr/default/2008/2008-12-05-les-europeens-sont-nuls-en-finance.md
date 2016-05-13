@@ -1,6 +1,5 @@
 ---
 title: "Les européens sont nuls en Finance"
-date: 2008-12-05 08:28:20
 tags:
   - Finance
   - Economie

@@ -1,6 +1,5 @@
 ---
 title: "Forza 2 Motorsport : preview"
-date: 2007-07-29 09:53:33
 tags:
   - Jeu Video
   - Forza Motorsport 2

@@ -1,6 +1,5 @@
 ---
 title: "Rencontre avec le généticien Spencer Wells"
-date: 2009-09-28 09:23:51
 tags:
   - Science
   - Science

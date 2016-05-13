@@ -1,5 +1,4 @@
 ---
-date: 2015-03-01 08:58:07
 title: Personnages de dessins animés
 ---
 

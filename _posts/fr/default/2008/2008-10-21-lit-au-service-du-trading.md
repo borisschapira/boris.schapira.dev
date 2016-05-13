@@ -1,6 +1,5 @@
 ---
 title: "L'IT au service du Trading"
-date: 2008-10-21 20:53:42
 tags:
   - Finance
   - Technologie

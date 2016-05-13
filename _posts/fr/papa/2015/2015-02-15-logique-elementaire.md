@@ -1,5 +1,4 @@
 ---
-date: 2015-02-15 13:49:33
 title: Logique élémentaire
 ---
 

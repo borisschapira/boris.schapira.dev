@@ -1,6 +1,5 @@
 ---
 title: "Week-end prolongé sur Bordeaux"
-date: 2007-08-14 19:15:57
 tags:
   - Me, myself and I
   - Amis et famille

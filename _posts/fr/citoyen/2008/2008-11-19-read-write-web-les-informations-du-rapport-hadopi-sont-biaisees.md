@@ -1,6 +1,5 @@
 ---
 title: "Read Write Web : les informations du rapport Hadopi sont biaisées"
-date: 2008-11-19 16:42:51
 tags:
   - Numérique
 series: Hadopi

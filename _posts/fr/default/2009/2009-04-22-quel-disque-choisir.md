@@ -1,6 +1,5 @@
 ---
 title: "Quel disque choisir ?"
-date: 2009-04-22 09:28:25
 tags:
   - Technologie
   - NAS

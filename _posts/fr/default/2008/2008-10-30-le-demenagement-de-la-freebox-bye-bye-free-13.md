@@ -1,6 +1,5 @@
 ---
 title: "Le déménagement de la Freebox (Bye-bye Free 1/3)"
-date: 2008-10-30 09:06:25
 tags:
   - Boulogne
   - FAI

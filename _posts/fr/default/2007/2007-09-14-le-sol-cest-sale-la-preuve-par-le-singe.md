@@ -1,6 +1,5 @@
 ---
 title: "Le sol c'est sale, la preuve par le singe"
-date: 2007-09-14 23:40:52
 categories:
   - Humour
 ---

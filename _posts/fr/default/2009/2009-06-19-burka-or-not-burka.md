@@ -1,6 +1,5 @@
 ---
 title: "Burka or not burka"
-date: 2009-06-19 14:53:59
 categories:
   - Société
 ---

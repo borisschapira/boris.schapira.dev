@@ -1,5 +1,4 @@
 ---
-date: 2014-11-07 15:35:02
 title: '"Hum... c''est pas les miens ?"'
 ---
 

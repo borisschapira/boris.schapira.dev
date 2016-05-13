@@ -1,6 +1,5 @@
 ---
 title: "Rejet d'Hadopi. Faut-il se réjouir ?"
-date: 2009-04-09 16:12:08
 tags:
   - Numérique
 series: Hadopi

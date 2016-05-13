@@ -1,6 +1,5 @@
 ---
 title: "Adobe Shadow, le Graal du développement Front-End mobile ?"
-date: 2012-03-09 13:25:00
 tags:
   - Front-End
   - Outils

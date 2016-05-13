@@ -1,6 +1,5 @@
 ---
 title: "Coupe budgétaire au Planning Familial"
-date: 2009-02-04 10:32:31
 categories:
   - Politique
 ---

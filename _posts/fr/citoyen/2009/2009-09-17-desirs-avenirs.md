@@ -1,6 +1,5 @@
 ---
 title: "Désirs d'Avenirs : un vrai raté"
-date: 2009-09-17 09:58:29
 tags:
   - Numérique
   - "Billet d'humeur"

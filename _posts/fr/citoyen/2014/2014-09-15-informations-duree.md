@@ -1,6 +1,5 @@
 ---
 title: "Informations dans la durée"
-date: 2014-09-15 09:28:16
 tags:
   - Histoire
 ---

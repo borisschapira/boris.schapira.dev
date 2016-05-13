@@ -1,6 +1,5 @@
 ---
 title: "8 façons de me faire fuir"
-date: 2007-05-16 18:56:03
 tags:
   - Emploi
 ---

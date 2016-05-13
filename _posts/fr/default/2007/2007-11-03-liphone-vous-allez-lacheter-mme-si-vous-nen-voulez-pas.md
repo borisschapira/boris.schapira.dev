@@ -1,6 +1,5 @@
 ---
 title: "L'iPhone, vous allez l'acheter (même si vous n'en voulez pas)"
-date: 2007-11-03 15:25:40
 tags:
   - "Billet d'humeur"
   - Buzz

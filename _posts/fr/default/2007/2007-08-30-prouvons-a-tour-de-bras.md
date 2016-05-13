@@ -1,6 +1,5 @@
 ---
 title: "Prouvons à tour de bras"
-date: 2007-08-30 16:31:56
 categories:
   - Politique
 ---

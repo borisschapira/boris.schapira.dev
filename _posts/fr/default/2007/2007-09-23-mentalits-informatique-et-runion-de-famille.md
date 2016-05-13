@@ -1,6 +1,5 @@
 ---
 title: "Mentalités, informatique et réunion de famille"
-date: 2007-09-23 18:35:53
 tags:
   - Amis et famille
   - Facebook

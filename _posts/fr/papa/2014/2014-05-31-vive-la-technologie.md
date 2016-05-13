@@ -1,5 +1,4 @@
 ---
-date: 2014-05-31 14:22:54
 title: Vive la technologie
 ---
 

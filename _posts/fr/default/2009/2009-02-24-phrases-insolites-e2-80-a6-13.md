@@ -1,6 +1,5 @@
 ---
 title: "Phrases Insolites… #13"
-date: 2009-02-24 18:25:24
 tags:
   - Humour
   - Insolite

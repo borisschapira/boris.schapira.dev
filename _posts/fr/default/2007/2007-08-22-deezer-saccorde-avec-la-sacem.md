@@ -1,6 +1,5 @@
 ---
 title: "Deezer s'accorde avec la SACEM"
-date: 2007-08-22 12:30:52
 tags:
   - Musique
   - Deezer

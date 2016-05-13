@@ -1,5 +1,4 @@
 ---
-date: 2012-11-26 16:18:41
 title: Encore un rendez-vous à la crèche
 ---
 

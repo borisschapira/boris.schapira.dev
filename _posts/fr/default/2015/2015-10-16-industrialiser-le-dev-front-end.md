@@ -1,6 +1,5 @@
 ---
 title: "Industrialiser le dév. Front-End"
-date: 2015-10-16 10:00:00
 tags:
   - Front-End
   - Outils

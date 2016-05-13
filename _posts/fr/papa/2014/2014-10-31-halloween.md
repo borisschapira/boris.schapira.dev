@@ -1,5 +1,4 @@
 ---
-date: 2014-10-31 21:56:02
 title: Halloween
 ---
 

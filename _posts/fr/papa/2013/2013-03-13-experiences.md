@@ -1,5 +1,4 @@
 ---
-date: 2013-03-13 16:17:44
 title: Expériences
 ---
 

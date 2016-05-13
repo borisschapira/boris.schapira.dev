@@ -1,6 +1,5 @@
 ---
 title: "Que vaut vraiment l'action Google ?"
-date: 2007-10-09 07:42:16
 tags:
   - Finance
   - Google

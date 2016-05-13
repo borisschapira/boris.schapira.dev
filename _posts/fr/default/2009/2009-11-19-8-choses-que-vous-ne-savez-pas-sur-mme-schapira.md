@@ -1,6 +1,5 @@
 ---
 title: "8 choses que vous ne savez pas sur Mme Schapira"
-date: 2009-11-19 21:30:36
 tags:
   - "Billet d'humeur"
   - Me, myself and I

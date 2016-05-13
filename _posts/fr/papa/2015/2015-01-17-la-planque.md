@@ -1,5 +1,4 @@
 ---
-date: 2015-01-17 17:39:02
 title: La planque
 ---
 

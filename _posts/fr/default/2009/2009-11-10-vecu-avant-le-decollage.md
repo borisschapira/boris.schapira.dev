@@ -1,6 +1,5 @@
 ---
 title: "[Vécu] Avant le décollage…"
-date: 2009-11-10 10:34:34
 tags:
   - "Billet d'humeur"
 ---

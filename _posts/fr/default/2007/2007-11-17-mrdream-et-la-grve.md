@@ -1,6 +1,5 @@
 ---
 title: "MrDream et la grève"
-date: 2007-11-17 18:38:13
 tags:
   - Grève
 ---

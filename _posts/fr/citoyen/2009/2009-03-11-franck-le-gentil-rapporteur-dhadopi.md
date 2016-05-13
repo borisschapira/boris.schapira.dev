@@ -1,6 +1,5 @@
 ---
 title: "Franck, le gentil rapporteur d'Hadopi"
-date: 2009-03-11 11:57:43
 tags:
   - Numérique
 series: Hadopi

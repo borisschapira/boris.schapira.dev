@@ -1,5 +1,4 @@
 ---
-date: 2016-02-10 22:10:44
 title: La lumière de la musique
 ---
 

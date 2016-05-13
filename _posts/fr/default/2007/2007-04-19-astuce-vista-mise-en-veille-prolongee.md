@@ -1,6 +1,5 @@
 ---
 title: "Astuce Vista : mise en veille prolongée"
-date: 2007-04-19 20:16:47
 tags:
   - Technologie
   - Windows Vista

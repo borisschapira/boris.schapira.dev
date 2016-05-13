@@ -1,6 +1,5 @@
 ---
 title: "Dérive anti-démocratique"
-date: 2009-07-02 15:07:16
 tags:
   - Assemblée Nationale
   - "Billet d'humeur"

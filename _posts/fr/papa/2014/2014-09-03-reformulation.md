@@ -1,5 +1,4 @@
 ---
-date: 2014-09-03 21:07:08
 title: Reformulation
 ---
 

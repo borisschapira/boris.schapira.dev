@@ -1,6 +1,5 @@
 ---
 title: "Un collègue rejoint les MSP !"
-date: 2007-05-14 19:15:59
 tags:
   - MSP
 ---

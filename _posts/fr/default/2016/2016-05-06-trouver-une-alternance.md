@@ -1,5 +1,4 @@
 ---
-date: 2016-05-06 09:00:00
 title: "Trouver une alternance"
 tags:
  - Emploi

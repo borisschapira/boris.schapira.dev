@@ -1,5 +1,4 @@
 ---
-date: 2016-02-15 22:10:44
 title: "Division"
 tags:
   - HeForShe

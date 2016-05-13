@@ -1,6 +1,5 @@
 ---
 title: "Dangers du Net : Introduction"
-date: 2007-04-04 07:00:58
 tags:
   - Vulgarisation
 series: Dangers du Net

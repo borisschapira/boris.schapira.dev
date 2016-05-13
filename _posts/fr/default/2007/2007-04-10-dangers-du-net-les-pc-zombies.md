@@ -1,6 +1,5 @@
 ---
 title: "Dangers du Net : les PC-Zombies"
-date: 2007-04-10 06:16:43
 tags:
   - Vulgarisation
 series: Dangers du Net

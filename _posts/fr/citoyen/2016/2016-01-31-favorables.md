@@ -1,6 +1,5 @@
 ---
 title: "Favorables ?"
-date: 2016-01-31 09:00:00
 tags:
   - "État d'urgence"
 main_image: assets/images/2016-01-31/1.png

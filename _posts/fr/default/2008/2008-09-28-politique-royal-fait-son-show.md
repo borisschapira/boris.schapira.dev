@@ -1,6 +1,5 @@
 ---
 title: "Politique : Royal fait son show"
-date: 2008-09-28 22:09:39
 categories:
   - Politique
 ---

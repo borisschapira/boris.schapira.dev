@@ -1,6 +1,5 @@
 ---
 title: "Dangers du Net : le Pharming"
-date: 2007-04-05 08:00:47
 tags:
   - Vulgarisation
 series: Dangers du Net

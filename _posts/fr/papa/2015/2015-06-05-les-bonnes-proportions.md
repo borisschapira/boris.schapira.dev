@@ -1,5 +1,4 @@
 ---
-date: 2015-06-05 17:43:01
 title: Les bonnes proportions
 ---
 

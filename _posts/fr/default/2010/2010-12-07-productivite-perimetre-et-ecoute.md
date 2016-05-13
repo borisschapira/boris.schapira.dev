@@ -1,6 +1,5 @@
 ---
 title: "Productivité, périmètre et écoute"
-date: 2010-12-07 14:30:44
 tags:
   - Management
 ---

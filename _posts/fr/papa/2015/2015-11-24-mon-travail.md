@@ -1,5 +1,4 @@
 ---
-date: 2015-11-24 07:57:58
 title: Mon travail
 ---
 

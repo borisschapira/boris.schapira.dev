@@ -1,6 +1,5 @@
 ---
 title: "Incompréhension"
-date: 2009-04-08 13:45:32
 categories:
   - Société
 ---

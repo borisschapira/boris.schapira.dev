@@ -1,6 +1,5 @@
 ---
 title: "BitDefender Internet Security 2010"
-date: 2009-11-29 23:32:24
 categories:
   - Technologie
 ---

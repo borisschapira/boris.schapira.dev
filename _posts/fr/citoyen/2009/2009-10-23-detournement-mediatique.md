@@ -1,6 +1,5 @@
 ---
 title: "Détournement médiatique"
-date: 2009-10-23 10:08:15
 tags:
   - Numérique
 series: Hadopi

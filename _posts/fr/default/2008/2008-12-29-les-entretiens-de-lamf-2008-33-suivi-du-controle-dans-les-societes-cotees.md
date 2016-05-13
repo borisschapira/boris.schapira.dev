@@ -1,6 +1,5 @@
 ---
 title: "Les Entretiens de l’AMF 2008 (3/3) : suivi du contrôle dans les sociétés cotées."
-date: 2008-12-29 12:23:41
 categories:
   - Finance
 ---

@@ -1,5 +1,4 @@
 ---
-date: 2015-02-21 16:37:20
 title: En attendant l'immunité
 ---
 

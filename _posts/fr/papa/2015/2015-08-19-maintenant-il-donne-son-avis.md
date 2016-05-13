@@ -1,5 +1,4 @@
 ---
-date: 2015-08-19 16:14:45
 title: Maintenant, il donne son avis...
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "On ne peut pas inviter tout le monde…"
-date: 2008-11-23 19:44:26
 categories:
 ---
 

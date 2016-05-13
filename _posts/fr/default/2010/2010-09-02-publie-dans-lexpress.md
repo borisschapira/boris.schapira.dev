@@ -1,6 +1,5 @@
 ---
 title: "Publié dans L'Express"
-date: 2010-09-02 14:02:44
 tags:
   - Me, myself and I
 ---

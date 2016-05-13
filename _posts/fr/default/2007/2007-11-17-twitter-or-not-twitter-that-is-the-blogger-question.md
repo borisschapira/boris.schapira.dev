@@ -1,6 +1,5 @@
 ---
 title: "Que vaut Twitter ?"
-date: 2007-11-17 10:00:42
 tags:
   - Technologie
   - "Billet d'humeur"

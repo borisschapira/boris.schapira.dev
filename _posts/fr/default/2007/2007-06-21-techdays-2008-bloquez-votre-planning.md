@@ -1,6 +1,5 @@
 ---
 title: "TechDays 2008 : bloquez votre planning"
-date: 2007-06-21 13:58:14
 tags:
   - Techdays
 ---

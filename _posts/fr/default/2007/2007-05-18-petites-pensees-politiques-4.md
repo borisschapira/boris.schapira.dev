@@ -1,6 +1,5 @@
 ---
 title: "Elections présidentielles 2007 #4"
-date: 2007-05-18 20:59:40
 categories:
   - Politique
 ---

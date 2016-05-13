@@ -1,6 +1,5 @@
 ---
 title: "MIT Open Course Ware"
-date: 2007-03-23 08:14:04
 tags:
   - Education
 ---

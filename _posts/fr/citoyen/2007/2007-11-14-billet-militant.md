@@ -1,6 +1,5 @@
 ---
 title: "Billet militant"
-date: 2007-11-14 07:15:46
 tags:
   - Société
   - Grève

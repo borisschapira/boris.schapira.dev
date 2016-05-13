@@ -1,6 +1,5 @@
 ---
 title: "DRM, le rôle de Microsoft"
-date: 2007-03-14 08:35:51
 tags:
   - Vie privée
   - Numérique

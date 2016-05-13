@@ -1,6 +1,5 @@
 ---
 title: "Microsoft aide les pays émergeants"
-date: 2007-04-19 18:01:00
 tags:
   - Technologie
   - Microsoft

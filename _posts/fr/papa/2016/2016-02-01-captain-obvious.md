@@ -1,5 +1,4 @@
 ---
-date: 2016-02-01 07:10:44
 title: Captain Obvious
 ---
 

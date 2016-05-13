@@ -1,6 +1,5 @@
 ---
 title: "GitHub communique sur son monitoring de la performance"
-date: 2012-09-06 14:26:51
 tags:
   - Performance Web
 canonical: http://blog.clever-age.com/fr/2012/09/06/github-communique-sur-son-monitoring-de-la-performance/

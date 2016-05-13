@@ -1,6 +1,5 @@
 ---
 title: "Infusion numérique"
-date: 2014-04-03 12:43:03
 tags:
   - Transformation numérique
   - Emploi

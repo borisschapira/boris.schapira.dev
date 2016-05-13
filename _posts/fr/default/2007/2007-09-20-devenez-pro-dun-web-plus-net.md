@@ -1,6 +1,5 @@
 ---
 title: "Devenez pro d'un Web plus Net"
-date: 2007-09-20 06:21:04
 tags:
   - Développement
   - Technologie

@@ -1,5 +1,4 @@
 ---
-date: 2016-01-16 19:00:44
 title: Cinquième anniversaire du grand
 main_image: assets/images/papa/2016-01-16/1.gif
 ---

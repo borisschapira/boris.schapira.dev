@@ -1,6 +1,5 @@
 ---
 title: "Brown Bag Lunch, faisons connaissance"
-date: 2014-02-17 12:00:44
 tags:
   - Me, myself and I
   - Conférences

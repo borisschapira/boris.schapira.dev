@@ -1,5 +1,4 @@
 ---
-date: 2015-07-05 21:12:06
 title: Mommy likes...
 ---
 

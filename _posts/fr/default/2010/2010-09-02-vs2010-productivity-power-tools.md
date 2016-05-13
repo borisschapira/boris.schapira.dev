@@ -1,6 +1,5 @@
 ---
 title: "[VS2010] Productivity Power Tools"
-date: 2010-09-02 13:42:58
 tags:
   - Outils
 ---

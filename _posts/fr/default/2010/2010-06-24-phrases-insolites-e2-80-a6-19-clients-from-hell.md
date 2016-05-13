@@ -1,6 +1,5 @@
 ---
 title: "Phrases Insolites… #19 : Clients From Hell"
-date: 2010-06-24 11:15:26
 series:
   - Phrases insolites
 ---

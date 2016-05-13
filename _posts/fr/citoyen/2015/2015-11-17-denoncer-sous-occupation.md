@@ -1,6 +1,5 @@
 ---
 title: "Dénoncer sous l'occupation"
-date: 2015-11-17 08:00:00
 tags:
 ---
 

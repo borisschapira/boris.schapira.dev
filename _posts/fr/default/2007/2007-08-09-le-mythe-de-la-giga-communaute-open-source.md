@@ -1,6 +1,5 @@
 ---
 title: "Le mythe de la giga-communauté Open Source"
-date: 2007-08-09 06:00:59
 tags:
   - Développement
   - Logiciel Libre

@@ -1,6 +1,5 @@
 ---
 title: "Facebook et moi"
-date: 2008-01-07 06:55:06
 tags:
   - Médias Sociaux
   - Technologie

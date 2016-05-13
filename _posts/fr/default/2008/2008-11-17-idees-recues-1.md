@@ -1,6 +1,5 @@
 ---
 title: "Idées reçues #1"
-date: 2008-11-17 12:04:30
 tags:
   - Finance
   - "Billet d'humeur"

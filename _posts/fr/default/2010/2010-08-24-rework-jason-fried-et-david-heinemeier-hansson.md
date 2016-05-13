@@ -1,6 +1,5 @@
 ---
 title: "«&#160;Rework&#160;», Jason Fried et David Heinemeier Hansson"
-date: 2010-08-24 09:26:48
 tags:
   - Management
 ---

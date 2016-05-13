@@ -1,6 +1,5 @@
 ---
 title: "Sorties de la semaine dernière"
-date: 2008-02-08 08:30:23
 tags:
   - Boulogne
   - Libellule

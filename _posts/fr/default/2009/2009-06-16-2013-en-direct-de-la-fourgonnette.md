@@ -1,6 +1,5 @@
 ---
 title: "2013 en direct de la fourgonnette"
-date: 2009-06-16 09:33:32
 tags:
   - Humour
   - Politique

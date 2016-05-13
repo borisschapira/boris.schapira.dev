@@ -1,6 +1,5 @@
 ---
 title: "Coup de Gueule et petite explication économique"
-date: 2008-10-23 01:05:33
 tags:
   - Finance
   - "Billet d'humeur"

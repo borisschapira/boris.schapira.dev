@@ -1,6 +1,5 @@
 ---
 title: "Budget 2010 et litanie sur la Dette Publique"
-date: 2009-09-28 09:51:44
 tags:
   - Finance
   - Politique

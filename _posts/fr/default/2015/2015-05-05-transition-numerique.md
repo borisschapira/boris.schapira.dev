@@ -1,6 +1,5 @@
 ---
 title: "Transition numérique"
-date: 2015-05-05 10:57:11
 tags:
   - Transformation numérique
   - Presse

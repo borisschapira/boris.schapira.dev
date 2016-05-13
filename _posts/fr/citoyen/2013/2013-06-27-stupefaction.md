@@ -1,6 +1,5 @@
 ---
 title: "Stupéfaction"
-date: 2013-06-27 22:38:21
 tags:
   - Société
   - Égalité

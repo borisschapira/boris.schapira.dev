@@ -1,6 +1,5 @@
 ---
 title: "PJL Sécurité Routière"
-date: 2015-04-13 08:03:16
 tags:
   - Numérique
 series:

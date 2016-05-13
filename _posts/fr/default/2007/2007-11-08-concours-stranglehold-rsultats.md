@@ -1,6 +1,5 @@
 ---
 title: "Concours StrangleHold : résultats"
-date: 2007-11-08 21:02:08
 tags:
   - Technologie
   - Concours

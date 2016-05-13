@@ -1,6 +1,5 @@
 ---
 title: "Avec TypeScript, Microsoft espère offrir à JavaScript les outils pour se développer"
-date: 2012-10-03 14:36:59
 tags:
   - Outils
   - Front-End

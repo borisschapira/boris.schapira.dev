@@ -1,5 +1,4 @@
 ---
-date: 2014-07-03 08:19:39
 title: Tout vient à point...
 ---
 
