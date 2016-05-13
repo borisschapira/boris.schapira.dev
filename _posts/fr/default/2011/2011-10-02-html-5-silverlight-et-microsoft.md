@@ -1,6 +1,5 @@
 ---
 title: "HTML 5, Silverlight et Microsoft"
-date: 2011-10-02 16:55:01
 tags:
   - Front-End
 ---

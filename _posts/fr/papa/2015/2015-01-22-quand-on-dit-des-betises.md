@@ -1,5 +1,4 @@
 ---
-date: 2015-01-22 13:36:40
 title: Quand on dit des bêtises
 ---
 

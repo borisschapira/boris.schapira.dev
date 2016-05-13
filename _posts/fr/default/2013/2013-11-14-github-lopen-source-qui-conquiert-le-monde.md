@@ -1,6 +1,5 @@
 ---
 title: "GitHub, l’Open-Source qui conquiert le monde"
-date: 2013-11-14 08:46:51
 tags:
   - Transformation numérique
   - Open Source

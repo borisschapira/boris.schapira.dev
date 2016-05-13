@@ -1,5 +1,4 @@
 ---
-date: 2014-10-25 12:54:49
 title: Où sont les femmes ?
 ---
 

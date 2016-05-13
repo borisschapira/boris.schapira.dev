@@ -1,6 +1,5 @@
 ---
 title: "Quels écouteurs choisir ? A votre avis ?"
-date: 2008-05-02 22:42:52
 tags:
   - Me, myself and I
 ---

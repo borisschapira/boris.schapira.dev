@@ -1,6 +1,5 @@
 ---
 title: "Skype révèle les raisons du crash"
-date: 2007-08-21 06:38:11
 tags:
   - Technologie
   - Crash

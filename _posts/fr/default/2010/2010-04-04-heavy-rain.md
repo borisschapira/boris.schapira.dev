@@ -1,6 +1,5 @@
 ---
 title: "[PS3] Heavy Rain"
-date: 2010-04-04 19:21:42
 tags:
   - Jeu Video
 ---

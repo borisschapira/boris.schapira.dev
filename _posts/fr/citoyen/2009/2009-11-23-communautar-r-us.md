@@ -1,6 +1,5 @@
 ---
 title: "Communautar'r'us"
-date: 2009-11-23 15:32:24
 tags:
   - "Billet d'humeur"
   - France

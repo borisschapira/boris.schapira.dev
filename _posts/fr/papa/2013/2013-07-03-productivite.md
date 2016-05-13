@@ -1,5 +1,4 @@
 ---
-date: 2013-07-03 08:59:02
 title: Productivité
 ---
 

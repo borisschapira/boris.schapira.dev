@@ -1,6 +1,5 @@
 ---
 title: "Les Entretiens de l'AMF 2009"
-date: 2009-12-26 18:18:42
 tags:
   - Finance
 ---

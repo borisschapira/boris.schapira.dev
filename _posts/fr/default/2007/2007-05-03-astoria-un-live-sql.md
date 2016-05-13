@@ -1,6 +1,5 @@
 ---
 title: "Astoria : un Live SQL ?"
-date: 2007-05-03 19:30:12
 tags:
   - Technologie
   - MIX07

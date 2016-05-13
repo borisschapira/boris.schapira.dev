@@ -1,5 +1,4 @@
 ---
-date: 2015-06-18 18:34:43
 title: 'Ressemblance #2'
 ---
 

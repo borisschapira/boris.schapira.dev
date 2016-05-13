@@ -1,6 +1,5 @@
 ---
 title: "Et ce qui devait arriver arriva…"
-date: 2009-01-22 10:21:24
 categories:
   - Finance
 ---

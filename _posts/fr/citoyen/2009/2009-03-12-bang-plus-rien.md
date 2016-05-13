@@ -1,6 +1,5 @@
 ---
 title: "Hadopi : BANG, plus rien"
-date: 2009-03-12 18:19:31
 tags:
   - Numérique
 series: Hadopi

@@ -1,6 +1,5 @@
 ---
 title: "Et les livres piratés ?"
-date: 2009-06-04 13:29:59
 tags:
   - Numérique
 series: Hadopi

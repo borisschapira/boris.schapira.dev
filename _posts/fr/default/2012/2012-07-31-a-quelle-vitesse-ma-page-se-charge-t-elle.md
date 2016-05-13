@@ -1,6 +1,5 @@
 ---
 title: "«&#160;A quelle vitesse ma page se charge-t-elle ?&#160;»"
-date: 2012-07-31 19:50:09
 tags:
   - Performance Web
 canonical: http://blog.clever-age.com/fr/2012/07/31/webperf-a-quelle-vitesse-ma-page-se-charge-t-elle/

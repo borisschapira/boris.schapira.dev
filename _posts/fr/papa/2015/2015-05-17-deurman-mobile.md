@@ -1,5 +1,4 @@
 ---
-date: 2015-05-17 05:06:42
 title: Deurman mobile
 ---
 

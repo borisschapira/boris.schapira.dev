@@ -1,5 +1,4 @@
 ---
-date: 2014-12-20 13:46:39
 title: Chacun sa cuillère
 ---
 

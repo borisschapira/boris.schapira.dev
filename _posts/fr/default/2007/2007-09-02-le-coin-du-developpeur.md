@@ -1,6 +1,5 @@
 ---
 title: "Le coin du développeur"
-date: 2007-09-02 06:15:50
 tags:
   - Développement
   - .NET

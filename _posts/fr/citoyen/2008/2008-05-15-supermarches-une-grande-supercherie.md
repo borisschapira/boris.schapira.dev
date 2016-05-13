@@ -1,6 +1,5 @@
 ---
 title: "Supermarchés : une grande supercherie ?"
-date: 2008-05-15 14:11:41
 tags:
   - Société
   - "Billet d'humeur"

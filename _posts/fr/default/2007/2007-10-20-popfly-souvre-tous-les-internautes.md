@@ -1,6 +1,5 @@
 ---
 title: "Popfly s'ouvre à tous les internautes"
-date: 2007-10-20 01:05:22
 tags:
   - Technologie
   - Popfly

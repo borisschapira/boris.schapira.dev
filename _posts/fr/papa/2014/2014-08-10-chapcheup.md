@@ -1,5 +1,4 @@
 ---
-date: 2014-08-10 15:38:22
 title: Chapcheup
 ---
 

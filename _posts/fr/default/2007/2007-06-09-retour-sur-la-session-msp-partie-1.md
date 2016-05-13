@@ -1,6 +1,5 @@
 ---
 title: "Retour sur la session MSP (partie 1)"
-date: 2007-06-09 09:41:50
 tags:
   - Imagine Cup
   - MSP

@@ -1,6 +1,5 @@
 ---
 title: "Stargate Univers : rendez-nous SG1"
-date: 2009-10-19 22:13:04
 tags:
   - Culture
   - Télévision

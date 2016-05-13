@@ -1,6 +1,5 @@
 ---
 title: "Maîtrise et expertise"
-date: 2015-03-25 08:56:30
 tags:
   - Management
 ---

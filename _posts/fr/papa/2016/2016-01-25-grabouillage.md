@@ -1,5 +1,4 @@
 ---
-date: 2016-01-25 07:10:44
 title: Grabouillage
 ---
 

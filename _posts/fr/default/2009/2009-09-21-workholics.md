@@ -1,6 +1,5 @@
 ---
 title: "Workholics"
-date: 2009-09-21 09:25:36
 tags:
   - Emploi
   - Technologie

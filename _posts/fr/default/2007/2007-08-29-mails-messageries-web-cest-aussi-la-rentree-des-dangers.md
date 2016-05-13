@@ -1,6 +1,5 @@
 ---
 title: "Mails, Messageries, Web… C'est aussi la rentrée des dangers"
-date: 2007-08-29 12:40:21
 tags:
   - Vulgarisation
 series: Dangers du Net

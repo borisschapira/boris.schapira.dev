@@ -1,6 +1,5 @@
 ---
 title: Quirks Mode
-date: 2015-12-23 16:00:00
 tags:
   - Égalité
 ---

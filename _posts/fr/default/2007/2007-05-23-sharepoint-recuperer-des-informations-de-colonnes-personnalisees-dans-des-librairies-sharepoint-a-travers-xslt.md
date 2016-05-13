@@ -1,6 +1,5 @@
 ---
 title: "[SharePoint] Récupérer des informations de colonnes personnalisées dans des Librairies SharePoint à travers XSLT"
-date: 2007-05-23 08:11:23
 tags:
   - Sharepoint
 ---

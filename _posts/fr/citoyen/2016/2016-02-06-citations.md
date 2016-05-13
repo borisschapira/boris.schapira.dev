@@ -1,5 +1,4 @@
 ---
-date: 2016-02-06 09:00:00
 title: "Citations"
 tags:
   - Égalité

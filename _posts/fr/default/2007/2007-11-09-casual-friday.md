@@ -1,6 +1,5 @@
 ---
 title: "Casual Friday"
-date: 2007-11-09 18:20:39
 categories:
   - Blogosphère
 ---

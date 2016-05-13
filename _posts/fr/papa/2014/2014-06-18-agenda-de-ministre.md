@@ -1,5 +1,4 @@
 ---
-date: 2014-06-18 15:42:40
 title: Agenda de ministre
 ---
 

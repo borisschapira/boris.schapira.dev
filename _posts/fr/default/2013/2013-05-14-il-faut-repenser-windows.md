@@ -1,6 +1,5 @@
 ---
 title: "Il faut repenser Windows"
-date: 2013-05-14 10:31:26
 tags:
   - Outils
 series:

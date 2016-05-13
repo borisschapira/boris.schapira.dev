@@ -1,5 +1,4 @@
 ---
-date: 2015-03-11 19:56:03
 title: Maxime du (dernier) jour
 ---
 

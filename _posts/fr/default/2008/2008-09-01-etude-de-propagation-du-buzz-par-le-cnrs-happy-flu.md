@@ -1,6 +1,5 @@
 ---
 title: "Étude de propagation du Buzz par le CNRS : Happy Flu"
-date: 2008-09-01 15:00:32
 tags:
   - Technologie
   - Buzz

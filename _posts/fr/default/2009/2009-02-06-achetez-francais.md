@@ -1,6 +1,5 @@
 ---
 title: "Achetez français"
-date: 2009-02-06 15:05:27
 categories:
   - Finance
   - Politique

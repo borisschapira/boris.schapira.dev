@@ -1,6 +1,5 @@
 ---
 title: "Faire ses vœux pour 2009"
-date: 2008-12-31 15:30:18
 tags:
   - Nouvel an
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Présentation de Windows8 à la conférence //BUILD/"
-date: 2011-09-14 12:40:47
 tags:
   - Outils
 ---

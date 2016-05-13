@@ -1,6 +1,5 @@
 ---
 title: "[Video] Xbox Natal : Project Milo"
-date: 2009-07-12 15:57:01
 categories:
   - Jeu Video
 ---

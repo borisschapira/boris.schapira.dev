@@ -1,6 +1,5 @@
 ---
 title: "Le vilain méchant investisseur et le trader fou"
-date: 2008-05-31 09:59:34
 tags:
   - Finance
   - "Billet d'humeur"

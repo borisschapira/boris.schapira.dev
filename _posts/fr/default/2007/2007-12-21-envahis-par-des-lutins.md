@@ -1,6 +1,5 @@
 ---
 title: "Envahis par des lutins"
-date: 2007-12-21 13:00:03
 tags:
   - Insolite
   - Photos

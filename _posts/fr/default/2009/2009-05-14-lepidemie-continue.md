@@ -1,6 +1,5 @@
 ---
 title: "L'épidémie continue"
-date: 2009-05-14 13:05:05
 tags:
   - Finance
   - Economie

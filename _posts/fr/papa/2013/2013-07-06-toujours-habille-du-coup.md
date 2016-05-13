@@ -1,5 +1,4 @@
 ---
-date: 2013-07-06 09:00:43
 title: Toujours habillé, du coup
 ---
 

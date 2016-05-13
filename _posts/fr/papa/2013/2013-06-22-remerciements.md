@@ -1,5 +1,4 @@
 ---
-date: 2013-06-22 16:15:33
 title: Remerciements
 ---
 

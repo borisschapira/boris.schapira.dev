@@ -1,6 +1,5 @@
 ---
 title: "Le zapping des anti-annulation"
-date: 2008-06-02 09:01:25
 tags:
   - Justice
   - Religion

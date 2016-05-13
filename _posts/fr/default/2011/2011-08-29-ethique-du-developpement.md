@@ -1,6 +1,5 @@
 ---
 title: "Ethique du développement"
-date: 2011-08-29 07:52:29
 tags:
   - Management
 ---

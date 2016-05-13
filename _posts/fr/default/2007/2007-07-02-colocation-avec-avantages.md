@@ -1,6 +1,5 @@
 ---
 title: "Colocation avec avantages"
-date: 2007-07-02 13:20:05
 tags:
   - Boulogne
 ---

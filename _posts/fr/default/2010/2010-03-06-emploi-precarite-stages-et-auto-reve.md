@@ -1,6 +1,5 @@
 ---
 title: "Emploi, précarité, stages et auto-rêve"
-date: 2010-03-06 23:15:27
 tags:
   - Emploi
 ---

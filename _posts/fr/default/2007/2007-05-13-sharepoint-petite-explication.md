@@ -1,6 +1,5 @@
 ---
 title: "SharePoint : petite explication"
-date: 2007-05-13 21:12:36
 tags:
   - Technologie
   - Microsoft Office

@@ -1,6 +1,5 @@
 ---
 title: "DRM, l'autorité indépendante est mise en place"
-date: 2007-04-10 09:00:28
 tags:
   - Vie privée
   - Numérique

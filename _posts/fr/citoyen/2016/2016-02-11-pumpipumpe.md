@@ -1,5 +1,4 @@
 ---
-date: 2016-02-11 09:00:00
 title: "Pumpipumpe"
 tags:
   - Collaboration

@@ -1,6 +1,5 @@
 ---
 title: "Fuzz a été condamné"
-date: 2008-03-27 13:41:05
 tags:
   - Blogosphère
   - Politique

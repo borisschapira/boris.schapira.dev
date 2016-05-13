@@ -1,5 +1,4 @@
 ---
-date: 2015-10-02 19:03:08
 title: Pourquoi les conférences (Paris Web 2015)
 ---
 

@@ -1,5 +1,4 @@
 ---
-date: 2013-09-29 09:10:09
 title: Sur la porte, bordel
 ---
 

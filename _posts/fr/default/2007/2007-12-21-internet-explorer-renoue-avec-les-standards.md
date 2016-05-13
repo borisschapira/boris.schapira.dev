@@ -1,6 +1,5 @@
 ---
 title: "Internet Explorer renoue avec les standards"
-date: 2007-12-21 19:37:17
 tags:
   - Technologie
   - Internet Explorer

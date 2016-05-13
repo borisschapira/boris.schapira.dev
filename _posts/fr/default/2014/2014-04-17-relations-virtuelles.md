@@ -1,6 +1,5 @@
 ---
 title: "Relations [virtuelles]"
-date: 2014-04-17 08:45:52
 tags:
   - Me, myself and I
 ---

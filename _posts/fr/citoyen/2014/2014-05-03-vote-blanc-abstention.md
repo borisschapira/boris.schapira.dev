@@ -1,6 +1,5 @@
 ---
 title: "Vote blanc, abstention"
-date: 2014-05-03 12:52:32
 tags:
   - Société
   - Politique

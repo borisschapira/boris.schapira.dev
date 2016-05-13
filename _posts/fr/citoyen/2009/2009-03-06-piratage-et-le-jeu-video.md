@@ -1,6 +1,5 @@
 ---
 title: "Piratage : et le jeu vidéo ?"
-date: 2009-03-06 14:36:45
 tags:
   - Numérique
 series: Hadopi

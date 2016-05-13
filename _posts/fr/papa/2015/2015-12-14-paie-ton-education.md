@@ -1,5 +1,4 @@
 ---
-date: 2015-12-14 18:34:44
 title: Paie ton éducation
 ---
 

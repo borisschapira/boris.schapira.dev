@@ -1,6 +1,5 @@
 ---
 title: "Twitter, ce mégaphone"
-date: 2009-02-26 18:36:54
 tags:
   - Technologie
   - "Billet d'humeur"

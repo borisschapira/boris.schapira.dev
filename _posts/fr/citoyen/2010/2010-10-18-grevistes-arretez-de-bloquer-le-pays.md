@@ -1,6 +1,5 @@
 ---
 title: "Grévistes, arrêtez de bloquer le pays…"
-date: 2010-10-18 07:01:56
 tags:
 ---
 

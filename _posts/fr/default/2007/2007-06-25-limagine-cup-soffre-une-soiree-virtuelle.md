@@ -1,6 +1,5 @@
 ---
 title: "L'Imagine Cup s'offre une soirée virtuelle"
-date: 2007-06-25 18:30:12
 tags:
   - Imagine Cup
 ---

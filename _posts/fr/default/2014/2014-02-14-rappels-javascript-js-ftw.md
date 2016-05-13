@@ -1,6 +1,5 @@
 ---
 title: "Rappels JavaScript&nbsp;: JS FTW !"
-date: 2014-02-14 15:51:56
 tags:
   - Conférences
 ---

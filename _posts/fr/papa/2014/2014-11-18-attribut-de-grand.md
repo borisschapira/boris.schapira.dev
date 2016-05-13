@@ -1,5 +1,4 @@
 ---
-date: 2014-11-18 07:40:52
 title: Attribut de "grand"
 ---
 

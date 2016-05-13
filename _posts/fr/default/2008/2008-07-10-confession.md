@@ -1,6 +1,5 @@
 ---
 title: "Confession"
-date: 2008-07-10 08:35:26
 tags:
   - Insolite
   - Me, myself and I

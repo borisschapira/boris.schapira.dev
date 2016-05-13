@@ -1,5 +1,4 @@
 ---
-date: 2014-11-08 15:20:57
 title: Adopte un sol
 ---
 

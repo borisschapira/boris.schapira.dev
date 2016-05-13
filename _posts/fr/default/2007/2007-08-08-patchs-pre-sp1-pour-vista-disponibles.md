@@ -1,6 +1,5 @@
 ---
 title: "Patchs pré-SP1 pour Vista disponibles"
-date: 2007-08-08 11:40:30
 tags:
   - Technologie
   - Compatibilité

@@ -1,6 +1,5 @@
 ---
 title: "Le Paradoxe du Smartphone"
-date: 2010-04-09 10:58:10
 tags:
   - Mobilité
 series:

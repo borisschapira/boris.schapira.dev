@@ -1,6 +1,5 @@
 ---
 title: "«&#160;A la Croisée des Mondes&#160;», Philip Pullman"
-date: 2007-12-14 03:04:18
 categories:
   - Littérature
 ---

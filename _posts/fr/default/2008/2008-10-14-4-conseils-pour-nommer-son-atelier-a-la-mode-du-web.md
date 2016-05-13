@@ -1,6 +1,5 @@
 ---
 title: "4 conseils pour nommer son atelier à la mode du Web"
-date: 2008-10-14 17:42:31
 tags:
   - Humour
   - Technologie

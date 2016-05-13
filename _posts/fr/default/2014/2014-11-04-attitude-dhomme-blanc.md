@@ -1,6 +1,5 @@
 ---
 title: "Attitude d'homme blanc"
-date: 2014-11-04 21:40:25
 tags:
   - Front-End
   - Accessibilité

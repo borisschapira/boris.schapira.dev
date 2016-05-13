@@ -1,6 +1,5 @@
 ---
 title: "Windows Server 2008 et Windows Vista vérifieront-ils les Critères Communs ?"
-date: 2007-08-21 12:15:49
 tags:
   - Technologie
   - Windows Server 2008

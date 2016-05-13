@@ -1,6 +1,5 @@
 ---
 title: "Hairspray, j'ai adoré !"
-date: 2007-09-01 19:57:23
 categories:
   - Cinema
 ---

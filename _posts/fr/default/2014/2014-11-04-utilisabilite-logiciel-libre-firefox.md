@@ -1,6 +1,5 @@
 ---
 title: "Utilisabilité&nbsp;: le cas Firefox"
-date: 2014-11-04 12:20:58
 tags:
   - Logiciel Libre
   - Service Design

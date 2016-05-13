@@ -1,6 +1,5 @@
 ---
 title: "Windows Phone 7 : Tour d'horizon"
-date: 2010-05-19 10:25:54
 tags:
   - Mobilité
 series: Windows Phone

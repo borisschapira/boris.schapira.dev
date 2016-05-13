@@ -1,6 +1,5 @@
 ---
 title: "Un(e) journaliste indélicat(e) du Monde ne vérifie pas ses infos"
-date: 2007-12-19 23:28:53
 tags:
   - Technologie
   - "Billet d'humeur"

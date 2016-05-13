@@ -1,5 +1,4 @@
 ---
-date: 2014-09-04 14:04:37
 title: Troisième jour d'école
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Phrases… (spéciales grévistes)"
-date: 2007-11-07 05:02:32
 tags:
   - Grève
 ---

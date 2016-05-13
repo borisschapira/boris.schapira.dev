@@ -1,5 +1,4 @@
 ---
-date: 2013-12-14 11:48:26
 title: Les chaussettes
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Recherche d'un coupable"
-date: 2010-11-30 09:53:34
 tags:
   - Société
   - Vie privée

@@ -1,6 +1,5 @@
 ---
 title: "Sécurité et contrôle au cœur de Windows Vista"
-date: 2007-02-01 09:20:18
 tags:
   - Conférences
   - Windows

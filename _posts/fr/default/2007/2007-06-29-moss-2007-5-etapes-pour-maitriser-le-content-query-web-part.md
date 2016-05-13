@@ -1,6 +1,5 @@
 ---
 title: "[MOSS 2007] 5 étapes pour le Content Query Web Part"
-date: 2007-06-29 10:12:35
 tags:
   - Développement
   - Content Query Web Part

@@ -1,6 +1,5 @@
 ---
 title: "L'Imagine Cup, c'est quoi au juste ?"
-date: 2007-06-01 12:00:54
 tags:
   - Développement
   - Imagine Cup

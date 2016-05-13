@@ -1,6 +1,5 @@
 ---
 title: "Konami Code Bookmarklet"
-date: 2014-01-22 09:13:14
 tags:
   - Projets
 ---

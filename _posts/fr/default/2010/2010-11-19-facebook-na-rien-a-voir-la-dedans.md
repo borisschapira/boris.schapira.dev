@@ -1,6 +1,5 @@
 ---
 title: "Facebook n'a rien à voir là-dedans"
-date: 2010-11-19 16:17:16
 tags:
   - Emploi
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Demain c'est Noël (Edit : après-demain ?)"
-date: 2007-12-22 14:45:27
 tags:
   - Libellule
 ---

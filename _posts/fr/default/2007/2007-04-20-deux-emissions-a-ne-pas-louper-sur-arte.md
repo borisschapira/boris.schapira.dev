@@ -1,6 +1,5 @@
 ---
 title: "Deux émissions à ne pas louper sur Arte"
-date: 2007-04-20 16:42:21
 tags:
   - Technologie
   - Apple

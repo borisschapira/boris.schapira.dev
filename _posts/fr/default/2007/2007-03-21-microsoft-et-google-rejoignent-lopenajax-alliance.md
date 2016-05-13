@@ -1,6 +1,5 @@
 ---
 title: "Microsoft et Google rejoignent l'OpenAjax Alliance"
-date: 2007-03-21 18:09:52
 tags:
   - Open Source
 ---

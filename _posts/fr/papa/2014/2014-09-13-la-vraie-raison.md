@@ -1,5 +1,4 @@
 ---
-date: 2014-09-13 15:36:08
 title: La VRAIE raison
 ---
 

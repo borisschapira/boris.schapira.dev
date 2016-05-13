@@ -1,6 +1,5 @@
 ---
 title: "Le plus faible des hommes"
-date: 2008-11-03 23:29:18
 tags:
   - Me, myself and I
   - Mariage

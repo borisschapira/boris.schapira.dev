@@ -1,6 +1,5 @@
 ---
 title: "A venir sur Boris-Schapira.com"
-date: 2007-06-10 23:51:48
 categories:
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Le retard est-il Geekement Correct ?"
-date: 2007-10-04 08:30:59
 tags:
   - Blogosphère
   - Geekement Correct

@@ -1,6 +1,5 @@
 ---
 title: "Phishing CAF, Impôts ou autres…"
-date: 2010-08-31 18:13:33
 ---
 
 ## Ceci n'est pas une pipe

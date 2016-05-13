@@ -1,6 +1,5 @@
 ---
 title: "Monster : chasseurs en folie"
-date: 2007-03-09 20:00:23
 tags:
   - Emploi
   - Me, myself and I

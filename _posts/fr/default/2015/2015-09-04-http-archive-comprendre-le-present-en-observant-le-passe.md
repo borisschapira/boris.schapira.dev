@@ -1,6 +1,5 @@
 ---
 title: "HTTP Archive : comprendre le présent en observant le passé"
-date: 2015-09-04 09:15:00
 tags:
   - Front-End
   - Performance Web

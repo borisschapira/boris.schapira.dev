@@ -1,6 +1,5 @@
 ---
 title: "Monster : ça continue pour les autres"
-date: 2007-07-01 08:55:12
 tags:
   - Emploi
   - Humour

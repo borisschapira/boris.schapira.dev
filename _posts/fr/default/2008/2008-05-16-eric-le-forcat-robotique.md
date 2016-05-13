@@ -1,6 +1,5 @@
 ---
 title: "Eric, le forçat robotique"
-date: 2008-05-16 12:53:49
 tags:
   - Blogosphère
   - GeekMag

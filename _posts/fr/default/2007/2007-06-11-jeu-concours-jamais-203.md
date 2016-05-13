@@ -1,6 +1,5 @@
 ---
 title: "Jeu-Concours : Jamais 203"
-date: 2007-06-11 13:10:35
 tags:
   - Technologie
   - Buzz

@@ -1,6 +1,5 @@
 ---
 title: "«&#160;Je suis un tél normal - Je suis un iPhone&#160;»"
-date: 2007-07-10 19:10:54
 tags:
   - GeekMag
 ---

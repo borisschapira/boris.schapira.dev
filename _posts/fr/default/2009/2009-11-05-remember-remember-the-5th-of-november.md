@@ -1,6 +1,5 @@
 ---
 title: "«&#160;Remember², the 5th of November…&#160;»"
-date: 2009-11-05 06:47:39
 categories:
   - Politique
 ---

@@ -1,6 +1,5 @@
 ---
 title: "En province"
-date: 2010-04-20 07:21:53
 tags:
   - Me, myself and I
 ---

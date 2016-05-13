@@ -1,6 +1,5 @@
 ---
 title: "Jour des Projets ESIEE : les prix"
-date: 2007-06-27 12:41:01
 tags:
   - ESIEE
 ---

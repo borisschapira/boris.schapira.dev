@@ -1,5 +1,4 @@
 ---
-date: 2014-06-14 15:45:04
 title: Coup de blues
 ---
 

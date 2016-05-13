@@ -1,6 +1,5 @@
 ---
 title: "Conseils pour l'installation d'un projet Sf2 sous Windows 8 (WAMP)"
-date: 2013-07-01 16:54:44
 tags:
   - Back-End
 ---

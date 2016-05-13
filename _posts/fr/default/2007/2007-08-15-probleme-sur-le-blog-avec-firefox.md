@@ -1,6 +1,5 @@
 ---
 title: "Problème sur le blog avec Firefox"
-date: 2007-08-15 00:30:57
 categories:
   - Blogosphère
 ---

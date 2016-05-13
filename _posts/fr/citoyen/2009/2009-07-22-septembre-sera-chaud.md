@@ -1,6 +1,5 @@
 ---
 title: "Septembre sera chaud"
-date: 2009-07-22 22:45:05
 tags:
   - Numérique
 series: Hadopi

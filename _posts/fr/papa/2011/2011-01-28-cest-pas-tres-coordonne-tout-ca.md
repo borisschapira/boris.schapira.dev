@@ -1,5 +1,4 @@
 ---
-date: 2011-01-28 17:27:17
 title: C'est pas très coordonné tout ça
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Nos données personnelles, enjeu d'avenir"
-date: 2013-10-17 12:40:36
 tags:
   - Vie Privée
   - Scripts Tiers

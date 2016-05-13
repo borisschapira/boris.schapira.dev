@@ -1,5 +1,4 @@
 ---
-date: 2014-10-03 18:34:51
 title: L'amoureuse
 ---
 

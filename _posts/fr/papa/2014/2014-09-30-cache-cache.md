@@ -1,5 +1,4 @@
 ---
-date: 2014-09-30 07:09:13
 title: Cache-cache
 ---
 

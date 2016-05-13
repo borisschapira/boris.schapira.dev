@@ -1,6 +1,5 @@
 ---
 title: "«&#160;Métronome&#160;», Lorànt Deutsch"
-date: 2010-03-24 13:34:59
 tags:
   - Histoire
 ---

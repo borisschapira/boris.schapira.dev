@@ -1,6 +1,5 @@
 ---
 title: "Bonus, Trading : deux PDF pour mieux comprendre"
-date: 2009-08-07 13:53:21
 categories:
   - Finance
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Remboursé, remboursé, remboursé !!!"
-date: 2007-07-10 18:03:42
 tags:
   - Technologie
   - XBox360

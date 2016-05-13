@@ -1,6 +1,5 @@
 ---
 title: "«&#160;What Would Google Do&#160;», Jeff Jarvis"
-date: 2009-10-20 18:22:45
 tags:
   - Littérature
   - Technologie

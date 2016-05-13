@@ -1,6 +1,5 @@
 ---
 title: "«&#160;J'étais là&#160;», Zazie"
-date: 2008-02-19 08:34:08
 categories:
   - Musique
 ---

@@ -1,6 +1,5 @@
 ---
 title: "[Sud Web 2012] «&#160;Mettre en place une stratégie de Performance Web&#160;» - Article"
-date: 2012-11-16 10:10:17
 tags:
   - Performance Web
   - Conférences

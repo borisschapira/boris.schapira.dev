@@ -1,6 +1,5 @@
 ---
 title: "Les 10 défis du blogueurs"
-date: 2008-08-26 13:55:17
 tags:
   - Blogosphère
   - Chaine

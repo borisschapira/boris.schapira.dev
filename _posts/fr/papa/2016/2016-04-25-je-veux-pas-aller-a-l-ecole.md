@@ -1,5 +1,4 @@
 ---
-date: 2016-04-18 09:00:00
 title: "Je veux pas aller à l'école"
 ---
 

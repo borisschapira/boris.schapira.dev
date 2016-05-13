@@ -1,6 +1,5 @@
 ---
 title: "La solution au malaise social ?"
-date: 2008-10-16 08:44:07
 categories:
   - Politique
 ---

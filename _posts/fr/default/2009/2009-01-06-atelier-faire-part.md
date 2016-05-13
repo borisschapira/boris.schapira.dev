@@ -1,6 +1,5 @@
 ---
 title: "Atelier Faire-Part"
-date: 2009-01-06 17:19:58
 tags:
   - Me, myself and I
   - Mariage

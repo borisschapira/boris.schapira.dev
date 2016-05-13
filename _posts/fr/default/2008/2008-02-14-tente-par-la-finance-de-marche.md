@@ -1,6 +1,5 @@
 ---
 title: "Tenté par un stage en Finance de Marché ?"
-date: 2008-02-14 13:30:12
 tags:
   - SGCIB
   - Stage

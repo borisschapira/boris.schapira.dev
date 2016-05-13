@@ -1,6 +1,5 @@
 ---
 title: "«&#160;Mettre en place une stratégie de Performance Web en entreprise&#160;» - Slides & Vidéo"
-date: 2012-05-28 14:51:46
 tags:
   - Performance Web
 series:

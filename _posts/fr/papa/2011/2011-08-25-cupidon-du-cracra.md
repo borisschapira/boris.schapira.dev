@@ -1,5 +1,4 @@
 ---
-date: 2011-08-25 16:49:51
 title: Cupidon du cracra
 ---
 

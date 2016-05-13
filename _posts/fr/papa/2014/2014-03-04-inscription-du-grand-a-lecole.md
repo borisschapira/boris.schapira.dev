@@ -1,5 +1,4 @@
 ---
-date: 2014-03-04 14:55:41
 title: Inscription du grand à l'école
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Travail dominical… sur ordre du Président"
-date: 2009-07-01 09:44:18
 tags:
   - Emploi
   - France

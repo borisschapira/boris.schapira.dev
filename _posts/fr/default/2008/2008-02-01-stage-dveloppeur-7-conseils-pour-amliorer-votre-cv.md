@@ -1,6 +1,5 @@
 ---
 title: "Stage «&#160;Développeur&#160;» : 7 conseils pour améliorer votre CV"
-date: 2008-02-01 06:04:23
 tags:
   - Emploi
   - "Trouver un stage ou une alternance"

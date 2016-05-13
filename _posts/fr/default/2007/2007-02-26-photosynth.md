@@ -1,6 +1,5 @@
 ---
 title: "PhotoSynth : déjà fait à l'ESIEE"
-date: 2007-02-26 22:20:55
 tags:
   - Me, myselft and I
 ---

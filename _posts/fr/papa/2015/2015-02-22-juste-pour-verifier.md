@@ -1,5 +1,4 @@
 ---
-date: 2015-02-22 14:39:37
 title: Juste pour vérifier
 ---
 

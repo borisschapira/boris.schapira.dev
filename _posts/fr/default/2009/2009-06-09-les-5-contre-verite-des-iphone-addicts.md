@@ -1,6 +1,5 @@
 ---
 title: "Les 5 contre-vérités des iPhone-addicts"
-date: 2009-06-09 14:14:40
 tags:
   - Technologie
   - "Billet d'humeur"

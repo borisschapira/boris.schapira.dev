@@ -1,6 +1,5 @@
 ---
 title: "Une grosse journée de Commando"
-date: 2008-05-26 16:33:46
 tags:
   - Finance
   - Emploi

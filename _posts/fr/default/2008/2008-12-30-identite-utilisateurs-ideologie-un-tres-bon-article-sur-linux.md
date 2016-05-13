@@ -1,6 +1,5 @@
 ---
 title: "Identité, utilisateurs, idéologie : un très bon article sur Linux"
-date: 2008-12-30 11:00:54
 tags:
   - Technologie
   - Liens

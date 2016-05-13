@@ -1,5 +1,4 @@
 ---
-date: 2013-06-22 08:57:36
 title: Retour de la maternité
 ---
 

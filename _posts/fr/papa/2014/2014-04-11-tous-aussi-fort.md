@@ -1,5 +1,4 @@
 ---
-date: 2014-04-11 14:48:16
 title: Tous aussi fort
 ---
 

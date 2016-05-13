@@ -1,6 +1,5 @@
 ---
 title: "Conférence ESIEE - C'est fini !"
-date: 2007-02-02 00:05:29
 tags:
   - Technologie
   - ESIEE

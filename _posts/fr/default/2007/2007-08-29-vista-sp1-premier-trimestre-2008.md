@@ -1,6 +1,5 @@
 ---
 title: "(Exclusif) Vista SP1 : premier trimestre 2008"
-date: 2007-08-29 15:52:28
 tags:
   - Technologie
   - Windows Vista

@@ -1,6 +1,5 @@
 ---
 title: "Vagrant, Windows et NFS"
-date: 2014-06-23 11:14:45
 tags:
   - Outils
   - Windows

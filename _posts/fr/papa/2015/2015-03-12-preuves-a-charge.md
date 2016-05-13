@@ -1,5 +1,4 @@
 ---
-date: 2015-03-12 11:14:55
 title: Preuves à charge
 ---
 

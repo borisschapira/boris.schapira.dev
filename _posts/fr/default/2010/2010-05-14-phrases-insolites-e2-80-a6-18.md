@@ -1,6 +1,5 @@
 ---
 title: "Phrases Insolites… #18"
-date: 2010-05-14 09:36:29
 series:
   - Phrases insolites
 ---

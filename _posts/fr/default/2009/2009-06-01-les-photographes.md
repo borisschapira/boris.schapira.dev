@@ -1,6 +1,5 @@
 ---
 title: "Les Photographes"
-date: 2009-06-01 14:38:55
 tags:
   - Me, myself and I
   - Mariage

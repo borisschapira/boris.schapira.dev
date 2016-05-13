@@ -1,6 +1,5 @@
 ---
 title: "PhotoSynth est désormais ouvert au public"
-date: 2008-08-21 11:37:31
 tags:
   - Technologie
   - PhotoSynth

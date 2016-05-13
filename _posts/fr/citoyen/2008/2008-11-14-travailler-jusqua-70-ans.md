@@ -1,6 +1,5 @@
 ---
 title: "Travailler jusqu'à 70 ans"
-date: 2008-11-14 06:28:15
 tags:
   - Emploi
   - Loi

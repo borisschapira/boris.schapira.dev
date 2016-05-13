@@ -1,6 +1,5 @@
 ---
 title: "Choix et vocations (coup de gueule)"
-date: 2007-09-25 23:01:31
 tags:
   - "Billet d'humeur"
   - Éducation

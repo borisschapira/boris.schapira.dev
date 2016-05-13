@@ -1,6 +1,5 @@
 ---
 title: "Expert ou pas ?"
-date: 2015-09-23 09:15:00
 tags:
   - Management
 ---

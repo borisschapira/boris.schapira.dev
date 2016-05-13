@@ -1,6 +1,5 @@
 ---
 title: "Windows Vista ne mange pas la mémoire"
-date: 2007-11-04 12:40:00
 tags:
   - Développement
   - Windows Vista

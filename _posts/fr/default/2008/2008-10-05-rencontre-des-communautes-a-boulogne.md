@@ -1,6 +1,5 @@
 ---
 title: "Rencontre des communautés à Boulogne"
-date: 2008-10-05 18:00:35
 tags:
   - Technologie
   - Boulogne

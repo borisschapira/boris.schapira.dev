@@ -1,6 +1,5 @@
 ---
 title: "La route sera longue (mais les femmes vont apprécier)"
-date: 2008-12-17 14:54:47
 tags:
   - Finance
   - Economie

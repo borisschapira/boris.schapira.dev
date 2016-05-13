@@ -1,6 +1,5 @@
 ---
 title: "«&#160;Notes From a Big Country&#160;», Bill Bryson"
-date: 2009-09-15 09:47:59
 categories:
   - Humour
   - Littérature

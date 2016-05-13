@@ -1,6 +1,5 @@
 ---
 title: "F12 de IE11&nbsp;: du nouveau pour les développeurs"
-date: 2013-07-02 10:51:58
 tags:
   - Outils
   - Performance Web

@@ -1,5 +1,4 @@
 ---
-date: 2016-01-17 10:00:44
 title: Comme sur des rails
 ---
 

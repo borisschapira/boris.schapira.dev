@@ -1,5 +1,4 @@
 ---
-date: 2015-12-06 20:34:44
 title: Pas la même logique
 ---
 

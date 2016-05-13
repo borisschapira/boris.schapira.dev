@@ -1,6 +1,5 @@
 ---
 title: "Bienvenue à / Welcome to Regenerate Thumbnails 2.1.0"
-date: 2010-11-21 17:53:08
 tags:
   - Me, myself and I
   - Projets

@@ -1,6 +1,5 @@
 ---
 title: "Gérer ses dépendances avec Bower ?"
-date: 2015-06-29 15:00:00
 tags:
   - Front-End
   - Outils

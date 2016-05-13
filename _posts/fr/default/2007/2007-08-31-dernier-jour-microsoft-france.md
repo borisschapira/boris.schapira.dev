@@ -1,6 +1,5 @@
 ---
 title: "Dernier jour @ Microsoft France"
-date: 2007-08-31 22:32:21
 categories:
 ---
 

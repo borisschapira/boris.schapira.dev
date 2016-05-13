@@ -1,5 +1,4 @@
 ---
-date: 2015-04-02 19:14:22
 title: La mise en garde
 ---
 

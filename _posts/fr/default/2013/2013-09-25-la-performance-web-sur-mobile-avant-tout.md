@@ -1,6 +1,5 @@
 ---
 title: "La performance Web, sur Mobile avant tout"
-date: 2013-09-25 08:34:14
 tags:
   - Mobilité
   - Performance Web

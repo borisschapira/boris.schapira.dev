@@ -1,5 +1,4 @@
 ---
-date: 2016-01-04 08:05:44
 title: Les prénoms originaux
 ---
 

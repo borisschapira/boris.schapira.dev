@@ -1,6 +1,5 @@
 ---
 title: "Mise à l'épreuve : Windows Live Writer"
-date: 2007-05-29 08:05:04
 tags:
   - Technologie
   - Windows Live Writer

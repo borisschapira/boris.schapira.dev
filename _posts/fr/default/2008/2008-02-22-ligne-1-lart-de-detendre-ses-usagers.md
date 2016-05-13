@@ -1,6 +1,5 @@
 ---
 title: "Ligne 1 : l'art de détendre ses usagers"
-date: 2008-02-22 05:42:08
 categories:
 ---
 

@@ -1,5 +1,4 @@
 ---
-date: 2012-11-03 07:58:43
 title: Loi de Murphy
 ---
 

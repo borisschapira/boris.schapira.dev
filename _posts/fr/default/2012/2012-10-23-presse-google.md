@@ -1,6 +1,5 @@
 ---
 title: "Presse & Google"
-date: 2012-10-23 14:25:36
 tags:
   - Transformation numérique
   - Presse

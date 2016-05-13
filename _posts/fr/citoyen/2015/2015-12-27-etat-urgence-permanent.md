@@ -1,6 +1,5 @@
 ---
 title: "État d'urgence permanent"
-date: 2015-12-27 08:00:00
 tags:
  - "État d'urgence"
 ---

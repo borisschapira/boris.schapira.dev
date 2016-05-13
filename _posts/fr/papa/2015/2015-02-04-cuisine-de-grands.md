@@ -1,5 +1,4 @@
 ---
-date: 2015-02-04 20:00:14
 title: Cuisine de grands
 ---
 

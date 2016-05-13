@@ -1,6 +1,5 @@
 ---
 title: "«&#160;Deus Ex : Human Revolution&#160;» Trailer"
-date: 2010-06-05 11:58:04
 tags:
   - Jeu Video
 ---

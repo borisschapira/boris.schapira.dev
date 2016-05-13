@@ -1,6 +1,5 @@
 ---
 title: "Antilles «&#160;françaises&#160;» ?"
-date: 2009-02-18 19:55:08
 categories:
   - Politique
 ---

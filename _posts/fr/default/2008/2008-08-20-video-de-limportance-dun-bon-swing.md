@@ -1,6 +1,5 @@
 ---
 title: "[Video] De l'importance d'un bon swing"
-date: 2008-08-20 08:00:12
 categories:
   - Humour
 ---

@@ -1,5 +1,4 @@
 ---
-date: 2016-03-09 10:10:44
 title: Tencule dans le poop
 ---
 

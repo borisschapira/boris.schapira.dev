@@ -1,5 +1,4 @@
 ---
-date: 2016-04-12 09:00:00
 title: "La candidature qui fait mouche"
 tags:
  - Emploi

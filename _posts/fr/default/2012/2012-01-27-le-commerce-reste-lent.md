@@ -1,6 +1,5 @@
 ---
 title: "L’e-commerce reste lent"
-date: 2012-01-27 13:17:50
 tags:
   - E-Commerce
   - Performance Web

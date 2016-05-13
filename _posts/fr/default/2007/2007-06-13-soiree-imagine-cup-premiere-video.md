@@ -1,6 +1,5 @@
 ---
 title: "Soirée Imagine Cup : première vidéo"
-date: 2007-06-13 18:36:16
 tags:
   - Imagine Cup
 ---

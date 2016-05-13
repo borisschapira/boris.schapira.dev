@@ -1,6 +1,5 @@
 ---
 title: "Quelles nouveautés pour C# 4.0"
-date: 2009-02-11 11:48:14
 tags:
   - .NET
 ---

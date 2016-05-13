@@ -1,6 +1,5 @@
 ---
 title: "5 choses que vous ne savez (peut-être) pas sur Vincent-San"
-date: 2007-09-02 11:19:22
 categories:
 ---
 

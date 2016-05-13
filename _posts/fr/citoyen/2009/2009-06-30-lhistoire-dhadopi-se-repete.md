@@ -1,6 +1,5 @@
 ---
 title: "L'histoire d'Hadopi se répète"
-date: 2009-06-30 16:38:54
 tags:
   - Hadopi
 ---

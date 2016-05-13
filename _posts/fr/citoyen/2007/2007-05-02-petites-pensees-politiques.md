@@ -1,6 +1,5 @@
 ---
 title: "Elections présidentielles 2007 #1"
-date: 2007-05-02 23:21:59
 tags:
   - Débat
   - Présidentielles

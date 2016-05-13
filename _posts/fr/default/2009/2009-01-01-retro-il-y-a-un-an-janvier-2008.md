@@ -1,6 +1,5 @@
 ---
 title: "[Rétro] Il y a un an… janvier 2008."
-date: 2009-01-01 12:00:06
 tags:
   - Rétro
 ---

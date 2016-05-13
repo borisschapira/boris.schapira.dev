@@ -1,5 +1,4 @@
 ---
-date: 2012-10-22 07:53:01
 title: Culture musicale
 ---
 

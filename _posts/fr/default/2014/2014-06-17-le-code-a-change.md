@@ -1,6 +1,5 @@
 ---
 title: "Le code a changé"
-date: 2014-06-17 09:00:28
 tags:
   - Education
 ---

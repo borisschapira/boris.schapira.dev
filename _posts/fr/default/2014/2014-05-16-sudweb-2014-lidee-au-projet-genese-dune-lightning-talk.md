@@ -1,6 +1,5 @@
 ---
 title: "Préparation d'une miniconférence"
-date: 2014-05-16 00:39:18
 tags:
   - Conférences
 series:

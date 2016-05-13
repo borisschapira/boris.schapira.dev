@@ -1,5 +1,4 @@
 ---
-date: 2014-06-15 13:21:47
 title: Les nouveaux pères
 ---
 

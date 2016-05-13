@@ -1,6 +1,5 @@
 ---
 title: "Cet article est *.0"
-date: 2007-12-10 09:01:36
 tags:
   - Technologie
   - "Billet d'humeur"

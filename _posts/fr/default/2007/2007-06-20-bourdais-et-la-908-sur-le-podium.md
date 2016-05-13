@@ -1,6 +1,5 @@
 ---
 title: "Bourdais et la 908 sur le podium"
-date: 2007-06-20 12:40:13
 tags:
   - Jeu Video
   - Forza Motorsport 2

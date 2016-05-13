@@ -1,6 +1,5 @@
 ---
 title: "Soutenez la Quadrature du Net"
-date: 2011-04-04 09:38:42
 tags:
   - Société
   - Transformation numérique

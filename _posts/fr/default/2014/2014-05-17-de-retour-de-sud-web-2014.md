@@ -1,6 +1,5 @@
 ---
 title: "De retour de Sud Web 2014"
-date: 2014-05-17 22:17:34
 tags:
   - Conférences
 series:

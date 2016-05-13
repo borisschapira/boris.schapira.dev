@@ -1,5 +1,4 @@
 ---
-date: 2014-10-05 16:02:05
 title: C'est ta vie
 ---
 

@@ -1,5 +1,4 @@
 ---
-date: 2014-11-08 13:20:57
 title: Wagner's World
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "L'âme légère"
-date: 2009-01-19 16:34:39
 categories:
 ---
 

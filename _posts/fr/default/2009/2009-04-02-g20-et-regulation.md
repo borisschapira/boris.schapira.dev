@@ -1,6 +1,5 @@
 ---
 title: "G20 et régulation"
-date: 2009-04-02 09:54:41
 tags:
   - Finance
 ---

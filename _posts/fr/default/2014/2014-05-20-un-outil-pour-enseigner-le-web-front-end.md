@@ -1,6 +1,5 @@
 ---
 title: "Un outil pour enseigner le Web Front-End"
-date: 2014-05-20 18:45:27
 tags:
   - Education
   - Outils

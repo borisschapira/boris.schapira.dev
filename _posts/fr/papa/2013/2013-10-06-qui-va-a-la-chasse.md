@@ -1,5 +1,4 @@
 ---
-date: 2013-10-06 09:22:41
 title: Qui va à la chasse
 ---
 

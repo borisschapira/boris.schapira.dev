@@ -1,6 +1,5 @@
 ---
 title: "Search++ pour Windows Vista"
-date: 2007-03-07 12:31:26
 tags:
   - Outils
 ---

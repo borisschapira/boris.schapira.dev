@@ -1,6 +1,5 @@
 ---
 title: "ComplexIT : les IT se moquent des IT"
-date: 2007-04-18 08:30:08
 tags:
   - Développement
   - TechNet

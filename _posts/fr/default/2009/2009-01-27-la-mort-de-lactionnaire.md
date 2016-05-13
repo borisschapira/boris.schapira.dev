@@ -1,6 +1,5 @@
 ---
 title: "La mort de l'actionnaire"
-date: 2009-01-27 14:16:33
 tags:
   - Finance
   - Politique

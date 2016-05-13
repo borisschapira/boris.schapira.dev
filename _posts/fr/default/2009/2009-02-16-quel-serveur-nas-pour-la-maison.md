@@ -1,6 +1,5 @@
 ---
 title: "Quel serveur NAS pour la maison ?"
-date: 2009-02-16 15:20:41
 tags:
   - Technologie
   - NAS

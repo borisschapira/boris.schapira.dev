@@ -1,5 +1,4 @@
 ---
-date: 2014-01-27 12:08:07
 title: Logique administrative
 ---
 

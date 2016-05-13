@@ -1,6 +1,5 @@
 ---
 title: "L'avenir est un long passé"
-date: 2014-02-06 08:25:42
 tags:
   - Société
   - Histoire

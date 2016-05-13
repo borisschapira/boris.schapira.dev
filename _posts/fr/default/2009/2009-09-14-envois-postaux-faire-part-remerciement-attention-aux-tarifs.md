@@ -1,6 +1,5 @@
 ---
 title: "Envois postaux : attention aux tarifs"
-date: 2009-09-14 13:54:11
 tags:
   - Me, myself and I
   - Mariage

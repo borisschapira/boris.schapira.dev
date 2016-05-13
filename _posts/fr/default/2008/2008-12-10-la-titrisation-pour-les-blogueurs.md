@@ -1,6 +1,5 @@
 ---
 title: "La titrisation pour les blogueurs"
-date: 2008-12-10 13:15:12
 categories:
   - Finance
   - Humour

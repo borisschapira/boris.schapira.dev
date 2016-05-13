@@ -1,6 +1,5 @@
 ---
 title: "Windows Phone 7 : où sont les applications ?"
-date: 2010-02-16 12:42:28
 tags:
   - Mobilité
 series:

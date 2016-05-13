@@ -1,6 +1,5 @@
 ---
 title: Moutons électriques
-date: 2015-07-27 11:51:45
 tags:
   - Intelligence Artificielle
 ---

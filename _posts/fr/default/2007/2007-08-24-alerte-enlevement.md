@@ -1,6 +1,5 @@
 ---
 title: "Alerte enlèvement : relayer, mais pas trop"
-date: 2007-08-24 16:20:00
 categories:
   - Développement
   - Politique

@@ -1,5 +1,4 @@
 ---
-date: 2015-03-07 14:37:13
 title: Solidaires
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "BNP-Paribas EcoTV : Subprimes & Croissance (Subprimes & Economic Growth)"
-date: 2007-09-09 12:00:14
 categories:
   - Finance
 ---

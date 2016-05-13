@@ -1,6 +1,5 @@
 ---
 title: "Windows Phone 7 : MarketPlace"
-date: 2010-06-11 09:31:15
 tags:
   - Mobilité
 series:

@@ -1,6 +1,5 @@
 ---
 title: "Silverlight pour Mac, Moonlight pour Linux"
-date: 2009-05-06 00:00:00
 canonical: "http://www.nexeo.fr/blog/2009/05/06/silverlight-pour-mac-moonlight-pour-linux/"
 tags:
  - Nexdotnet

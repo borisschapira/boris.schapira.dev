@@ -1,5 +1,4 @@
 ---
-date: 2013-10-01 09:16:42
 title: Faisons marcher les réseaux
 ---
 

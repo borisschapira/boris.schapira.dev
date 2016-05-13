@@ -1,5 +1,4 @@
 ---
-date: 2015-05-30 16:35:42
 title: Parfois, mieux vaut ne pas savoir
 ---
 

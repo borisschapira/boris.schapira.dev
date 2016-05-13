@@ -1,6 +1,5 @@
 ---
 title: "[Vécu] Le virus du développeur"
-date: 2009-09-30 15:13:44
 canonical: "http://www.nexeo.fr/blog/2009/09/30/vecu-le-virus-du-developpeur/"
 tags:
  - Nexdotnet

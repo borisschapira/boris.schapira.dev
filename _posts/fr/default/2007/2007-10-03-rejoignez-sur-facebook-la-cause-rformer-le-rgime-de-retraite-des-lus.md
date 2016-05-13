@@ -1,6 +1,5 @@
 ---
 title: "Rejoignez sur Facebook la cause «&#160;Réformer le régime de retraite des élus&#160;»"
-date: 2007-10-03 22:39:21
 categories:
   - Politique
 ---

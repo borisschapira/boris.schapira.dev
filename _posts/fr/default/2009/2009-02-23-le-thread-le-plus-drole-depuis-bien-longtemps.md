@@ -1,6 +1,5 @@
 ---
 title: "Le thread le plus drôle depuis bien longtemps…"
-date: 2009-02-23 11:16:32
 categories:
   - Humour
 ---

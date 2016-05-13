@@ -1,6 +1,5 @@
 ---
 title: "A propos d'Education…"
-date: 2008-05-19 15:59:22
 tags:
   - Société
   - "Billet d'humeur"

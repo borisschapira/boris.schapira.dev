@@ -1,6 +1,5 @@
 ---
 title: "Une journée de boulot ordinaire chez Microsoft France (ou alors pas du tout)"
-date: 2007-06-30 10:45:30
 tags:
   - Emploi
   - Microsoft

@@ -1,6 +1,5 @@
 ---
 title: "Ces bénéfices qui font tâche"
-date: 2007-08-20 22:16:45
 tags:
   - Société
   - Publicité

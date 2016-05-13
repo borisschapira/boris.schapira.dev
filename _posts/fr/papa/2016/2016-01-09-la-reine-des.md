@@ -1,5 +1,4 @@
 ---
-date: 2016-01-09 11:15:44
 title: La Reine des…
 ---
 

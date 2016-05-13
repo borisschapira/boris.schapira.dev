@@ -1,6 +1,5 @@
 ---
 title: "Microsoft pour les étudiants"
-date: 2007-05-31 19:38:56
 categories:
   - Technologie
 ---

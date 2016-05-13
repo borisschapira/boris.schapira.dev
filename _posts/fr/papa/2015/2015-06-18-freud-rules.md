@@ -1,5 +1,4 @@
 ---
-date: 2015-06-18 19:19:09
 title: Freud rules
 ---
 

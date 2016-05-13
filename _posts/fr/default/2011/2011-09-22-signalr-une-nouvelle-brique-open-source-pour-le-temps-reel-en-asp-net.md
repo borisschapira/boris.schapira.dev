@@ -1,6 +1,5 @@
 ---
 title: "SignalR, une nouvelle brique Open Source pour le temps réel en ASP.NET"
-date: 2011-09-22 13:03:05
 tags:
   - Back-End
 ---

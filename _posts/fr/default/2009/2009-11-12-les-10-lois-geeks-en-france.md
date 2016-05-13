@@ -1,6 +1,5 @@
 ---
 title: "Les 10 lois Geeks… en France (v1.1)"
-date: 2009-11-12 14:28:56
 tags:
   - Culture
   - Geek

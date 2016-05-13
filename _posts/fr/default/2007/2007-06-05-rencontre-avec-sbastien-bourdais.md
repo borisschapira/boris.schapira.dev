@@ -1,6 +1,5 @@
 ---
 title: "Rencontre avec Sébastien Bourdais"
-date: 2007-06-05 06:59:31
 tags:
   - Jeu Video
   - Forza Motorsport 2

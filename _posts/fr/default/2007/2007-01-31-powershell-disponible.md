@@ -1,6 +1,5 @@
 ---
 title: "Powershell disponible"
-date: 2007-01-31 17:40:23
 tags:
   - Développement
   - Technologie

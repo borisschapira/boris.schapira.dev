@@ -1,6 +1,5 @@
 ---
 title: "De MS-DOS à Vista"
-date: 2007-06-02 12:00:20
 tags:
   - Technologie
   - Windows

@@ -1,6 +1,5 @@
 ---
 title: "Le serpent qui se mord le pneu"
-date: 2009-01-26 15:13:36
 categories:
 ---
 

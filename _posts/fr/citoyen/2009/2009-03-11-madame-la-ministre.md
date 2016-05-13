@@ -1,6 +1,5 @@
 ---
 title: "Madame la Ministre,"
-date: 2009-03-11 17:40:00
 tags:
   - Numérique
 series: Hadopi

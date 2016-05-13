@@ -1,6 +1,5 @@
 ---
 title: "Coup de cœur musical : Nameless"
-date: 2007-09-17 06:00:16
 tags:
   - Musique
   - Nameless

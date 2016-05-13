@@ -1,5 +1,4 @@
 ---
-date: 2016-04-20 09:00:00
 title: "Les femmes dans l'Histoire"
 main_image: assets/images/2016-04-20/0.jpg
 tags:

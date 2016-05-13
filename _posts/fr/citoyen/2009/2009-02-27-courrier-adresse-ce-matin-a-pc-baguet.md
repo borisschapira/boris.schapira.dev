@@ -1,6 +1,5 @@
 ---
 title: "Courrier adressé ce matin à P.C. BAGUET"
-date: 2009-02-27 16:22:59
 tags:
   - Numérique
 series: Hadopi

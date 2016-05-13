@@ -1,6 +1,5 @@
 ---
 title: "Drôle de coincidence"
-date: 2007-05-08 19:09:47
 tags:
   - Me, myself and I
 ---

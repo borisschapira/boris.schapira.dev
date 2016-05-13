@@ -1,6 +1,5 @@
 ---
 title: "Boulogne 2 - 0 Boris"
-date: 2007-04-24 21:00:19
 tags:
   - Boulogne
 ---

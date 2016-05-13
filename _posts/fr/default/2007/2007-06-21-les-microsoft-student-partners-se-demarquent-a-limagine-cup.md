@@ -1,6 +1,5 @@
 ---
 title: "Les Microsoft Student Partners se démarquent à l'Imagine Cup"
-date: 2007-06-21 13:45:14
 tags:
   - Technologie
   - Imagine Cup

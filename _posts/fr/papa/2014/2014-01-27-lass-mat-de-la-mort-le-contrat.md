@@ -1,5 +1,4 @@
 ---
-date: 2014-01-27 08:57:26
 title: 'L''Ass. Mat de la mort : le contrat'
 ---
 

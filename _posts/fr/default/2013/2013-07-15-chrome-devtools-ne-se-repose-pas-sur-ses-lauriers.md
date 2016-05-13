@@ -1,6 +1,5 @@
 ---
 title: "Chrome DevTools ne se repose pas sur ses lauriers"
-date: 2013-07-15 10:49:20
 tags:
   - Outils
   - Performance Web

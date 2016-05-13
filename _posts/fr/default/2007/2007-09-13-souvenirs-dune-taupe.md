@@ -1,6 +1,5 @@
 ---
 title: "Souvenirs d'une taupe"
-date: 2007-09-13 22:45:14
 categories:
 ---
 

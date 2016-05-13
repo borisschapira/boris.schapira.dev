@@ -1,6 +1,5 @@
 ---
 title: "Groupes, causes et amis dans Facebook"
-date: 2007-10-22 07:32:12
 tags:
   - Facebook
 ---

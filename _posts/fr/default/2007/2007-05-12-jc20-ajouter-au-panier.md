@@ -1,6 +1,5 @@
 ---
 title: "JC2.0 : Ajouter au panier ?"
-date: 2007-05-12 19:44:42
 tags:
   - Humour
   - ESIEE

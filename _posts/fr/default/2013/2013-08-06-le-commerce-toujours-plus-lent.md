@@ -1,6 +1,5 @@
 ---
 title: "L’e-commerce, toujours plus lent"
-date: 2013-08-06 17:48:01
 tags:
   - E-Commerce
   - Performance Web

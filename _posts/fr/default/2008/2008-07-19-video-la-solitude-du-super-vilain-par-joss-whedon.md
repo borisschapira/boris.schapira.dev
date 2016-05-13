@@ -1,6 +1,5 @@
 ---
 title: "«&#160;Dr Horrible Sing-Along Blog&#160;», Joss Whedon"
-date: 2008-07-19 01:05:38
 categories:
   - Bande Dessinée
   - Humour

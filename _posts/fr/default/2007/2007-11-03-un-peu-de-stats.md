@@ -1,6 +1,5 @@
 ---
 title: "Un peu de stats"
-date: 2007-11-03 10:00:31
 tags:
   - Statistiques
   - Wikio

@@ -1,5 +1,4 @@
 ---
-date: 2015-02-22 16:36:37
 title: Partout chez lui
 ---
 

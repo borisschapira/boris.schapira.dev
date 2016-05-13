@@ -1,6 +1,5 @@
 ---
 title: "BootScout : poisson ou véritable révolution ?"
-date: 2007-04-03 12:40:00
 tags:
   - Outils
 ---

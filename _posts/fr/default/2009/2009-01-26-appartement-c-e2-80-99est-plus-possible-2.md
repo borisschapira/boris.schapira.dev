@@ -1,6 +1,5 @@
 ---
 title: "Appartement, c’est plus possible #2"
-date: 2009-01-26 13:10:52
 tags:
   - Appartement
   - "Billet d'humeur"

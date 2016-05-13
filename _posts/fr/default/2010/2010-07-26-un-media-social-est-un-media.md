@@ -1,6 +1,5 @@
 ---
 title: "Un média social est un canal"
-date: 2010-07-26 16:00:03
 tags:
   - Transformation numérique
 ---

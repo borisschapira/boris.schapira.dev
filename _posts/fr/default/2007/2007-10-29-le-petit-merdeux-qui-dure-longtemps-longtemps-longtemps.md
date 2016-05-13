@@ -1,6 +1,5 @@
 ---
 title: "Le petit merdeux qui dure longtemps, longtemps, longtemps…"
-date: 2007-10-29 19:40:01
 categories:
 ---
 

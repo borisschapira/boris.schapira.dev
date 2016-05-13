@@ -1,6 +1,5 @@
 ---
 title: "Rencontre Viadeo «&#160;Bordeaux 33CO&#160;»"
-date: 2010-01-27 23:09:41
 tags:
   - Emploi
   - Me, myself and I

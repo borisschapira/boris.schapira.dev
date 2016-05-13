@@ -1,6 +1,5 @@
 ---
 title: "Etude VTech sur la fréquentation des blogs"
-date: 2007-05-09 20:08:04
 tags:
   - RSS
 ---

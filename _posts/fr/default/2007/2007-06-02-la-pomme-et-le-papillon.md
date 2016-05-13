@@ -1,6 +1,5 @@
 ---
 title: "La Pomme et le Papillon"
-date: 2007-06-02 08:49:57
 tags:
   - Technologie
   - Apple

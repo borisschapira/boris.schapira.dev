@@ -1,6 +1,5 @@
 ---
 title: "Changement de statut de la Poste : des craintes plus ou moins justifiées"
-date: 2009-08-11 21:11:19
 tags:
   - France
 ---

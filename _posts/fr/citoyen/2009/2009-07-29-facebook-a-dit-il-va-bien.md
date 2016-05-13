@@ -1,6 +1,5 @@
 ---
 title: "Facebook a dit : il va bien"
-date: 2009-07-29 08:30:46
 tags:
   - Numérique
   - "Billet d'humeur"

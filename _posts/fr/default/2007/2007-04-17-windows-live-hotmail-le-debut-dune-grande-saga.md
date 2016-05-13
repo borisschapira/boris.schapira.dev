@@ -1,6 +1,5 @@
 ---
 title: "Windows Live Hotmail à l'affiche"
-date: 2007-04-17 12:30:08
 tags:
   - Technologie
   - Windows Live Hotmail

@@ -1,6 +1,5 @@
 ---
 title: "La nomination de NKM n'est pas *forcément* une bonne nouvelle"
-date: 2009-01-16 06:40:46
 categories:
   - Politique
 ---

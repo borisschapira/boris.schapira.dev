@@ -1,6 +1,5 @@
 ---
 title: "TechDays : les nouveautés de la plénière #2"
-date: 2009-02-11 10:01:22
 tags:
   - Conférences
 ---

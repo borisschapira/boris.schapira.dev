@@ -1,6 +1,5 @@
 ---
 title: "Photos : merci"
-date: 2009-07-25 14:58:49
 tags:
   - Me, myself and I
   - Mariage

@@ -1,5 +1,4 @@
 ---
-date: 2014-02-21 15:52:17
 title: Les Poupées Chattes
 ---
 

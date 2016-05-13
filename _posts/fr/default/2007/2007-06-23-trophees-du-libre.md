@@ -1,6 +1,5 @@
 ---
 title: "Trophées du Libre"
-date: 2007-06-23 10:45:52
 tags:
   - Développement
   - Concours

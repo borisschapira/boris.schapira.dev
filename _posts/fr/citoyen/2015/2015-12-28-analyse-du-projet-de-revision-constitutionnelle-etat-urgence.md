@@ -1,6 +1,5 @@
 ---
 title: "L'analyse du projet de révision constitutionnelle : l'État d'urgence"
-date: 2015-12-28 08:00:00
 tags:
  - "État d'urgence"
 ---

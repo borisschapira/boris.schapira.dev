@@ -1,6 +1,5 @@
 ---
 title: "Histoire d'un minikrach"
-date: 2007-08-18 17:08:29
 tags:
   - Finance
   - Economie

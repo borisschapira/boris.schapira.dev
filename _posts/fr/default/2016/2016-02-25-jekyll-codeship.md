@@ -1,5 +1,4 @@
 ---
-date: 2016-02-25 21:00:00
 title: "Un blog avec Jekyll et Codeship"
 main_image: assets/images/2016-02-25/jekyll.png
 ---

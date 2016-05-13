@@ -1,6 +1,5 @@
 ---
 title: Enlisement
-date: 2016-01-12 09:00:00
 tags:
 ---
 

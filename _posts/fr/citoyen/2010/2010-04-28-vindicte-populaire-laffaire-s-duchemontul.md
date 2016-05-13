@@ -1,6 +1,5 @@
 ---
 title: "Vindicte populaire : l'affaire S. Duchemontul"
-date: 2010-04-28 16:13:14
 
 tags:
   - Égalité

@@ -1,6 +1,5 @@
 ---
 title: "Ouverture du Café Windows Vista"
-date: 2007-05-02 19:30:03
 tags:
   - Technologie
   - Windows Vista

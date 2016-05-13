@@ -1,6 +1,5 @@
 ---
 title: "Hadopi : vote demain à l'Assemblée"
-date: 2009-05-11 16:18:58
 tags:
   - Numérique
 series: Hadopi

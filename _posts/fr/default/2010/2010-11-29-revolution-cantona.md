@@ -1,6 +1,5 @@
 ---
 title: "Révolution Cantona"
-date: 2010-11-29 14:55:11
 tags:
   - Finance
 ---

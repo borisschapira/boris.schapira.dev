@@ -1,6 +1,5 @@
 ---
 title: "L'inventeur du Web fustige Hadopi"
-date: 2010-11-26 10:04:04
 tags:
   - Vie privée
 ---

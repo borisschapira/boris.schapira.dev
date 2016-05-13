@@ -1,6 +1,5 @@
 ---
 title: "Projet NexDotNet : présentation"
-date: 2009-10-01 16:01:37
 tags:
   - Me, myself and I
   - Nexeo

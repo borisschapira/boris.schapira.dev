@@ -1,6 +1,5 @@
 ---
 title: "Carrington Blog 2.0 FR"
-date: 2009-05-02 13:49:54
 tags:
   - Développement
   - Wordpress

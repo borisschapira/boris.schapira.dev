@@ -1,6 +1,5 @@
 ---
 title: "Chromium : l'âge adulte"
-date: 2009-11-09 21:26:45
 tags:
   - Technologie
   - Google

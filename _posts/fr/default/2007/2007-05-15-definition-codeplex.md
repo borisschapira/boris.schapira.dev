@@ -1,6 +1,5 @@
 ---
 title: "Définition : CodePlex"
-date: 2007-05-15 07:02:52
 tags:
   - Développement
   - Technologie

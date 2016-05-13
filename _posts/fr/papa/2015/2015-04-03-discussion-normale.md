@@ -1,5 +1,4 @@
 ---
-date: 2015-04-03 11:56:39
 title: Discussion normale...
 ---
 

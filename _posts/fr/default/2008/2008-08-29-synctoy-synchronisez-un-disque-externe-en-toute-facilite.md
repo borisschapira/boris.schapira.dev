@@ -1,6 +1,5 @@
 ---
 title: "SyncToy : synchronisez un disque externe en toute facilité"
-date: 2008-08-29 16:00:54
 tags:
   - Technologie
   - Microsoft

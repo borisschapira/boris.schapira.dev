@@ -1,6 +1,5 @@
 ---
 title: "Si tu peux bloguer, tu peux courir"
-date: 2007-08-27 20:21:09
 categories:
 ---
 

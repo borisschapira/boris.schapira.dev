@@ -1,6 +1,5 @@
 ---
 title: "Rapport CES 2009 d'Olivier Ezratty"
-date: 2009-01-22 13:57:46
 categories:
   - Technologie
 ---

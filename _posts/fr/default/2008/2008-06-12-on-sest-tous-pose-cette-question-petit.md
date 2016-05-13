@@ -1,6 +1,5 @@
 ---
 title: "On s'est tous posé cette question, petit…"
-date: 2008-06-12 01:22:08
 categories:
   - Culture
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Blair à l'UMP… (sic)"
-date: 2008-01-15 12:24:24
 categories:
   - Politique
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Tout va bien, merci."
-date: 2008-12-07 22:46:18
 tags:
   - Me, myself and I
 ---

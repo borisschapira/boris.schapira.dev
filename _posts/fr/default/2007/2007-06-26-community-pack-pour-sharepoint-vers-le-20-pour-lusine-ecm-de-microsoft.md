@@ -1,6 +1,5 @@
 ---
 title: "Community Pack pour SharePoint : vers le «&#160;2.0&#160;» pour l'usine ECM de Microsoft ?"
-date: 2007-06-26 08:04:40
 tags:
   - AJAX
   - CodePlex

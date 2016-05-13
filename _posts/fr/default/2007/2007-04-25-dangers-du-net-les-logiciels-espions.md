@@ -1,6 +1,5 @@
 ---
 title: "Dangers du Net : les logiciels espions"
-date: 2007-04-25 08:22:55
 tags:
   - Vulgarisation
 series: Dangers du Net

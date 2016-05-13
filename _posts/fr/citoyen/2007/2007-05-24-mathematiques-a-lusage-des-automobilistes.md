@@ -1,6 +1,5 @@
 ---
 title: "Mathématiques à l'usage des automobilistes"
-date: 2007-05-24 08:01:29
 tags:
   - Société
   - Sécurité routière
