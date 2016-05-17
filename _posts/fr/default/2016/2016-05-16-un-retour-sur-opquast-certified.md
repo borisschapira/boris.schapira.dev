@@ -40,11 +40,11 @@ J'avais trois craintes en démarrant la formation :
 
 1. qu'il soit très orienté vers les bonnes pratiques d'intégration HTML liées à l'accessibilité ;
 2. que les bonnes pratiques soient trop manichéennes, déconnectées de la réalité ;
-3. qu'il contienne, comme souvent dans les certifications, de nombreuses choses qui n'intéresse pas directement mon métier.
+3. qu'il contienne, comme souvent dans les certifications, de nombreuses choses qui n'intéressent pas directement mon métier.
 
 Au contraire, la formation ne force pas ses arguments, avançant tout en nuances. Elle aborde une grande variété de sujet sans jamais aller trop profondément dans les détails d'implémentation, ne lassant jamais le lecteur qui ne se sentirait pas concerné. Mieux, les supports insistent régulièrement sur le recul nécessaire à l'appréciation de la pertinence des pratiques. Bref, Opquast Certified® incite à réfléchir.
 
-J'y ai reconnu, à plusieurs reprises, mon positionnement de chef de projet : avoir des connaissances transverses sur l'ensemble des métiers mais aussi l'intégralité des étapes du processus d’élaboration d’un site web pour y appliquer pragmatisme et méthode, au service d'un objectif qui est très rarement technique.
+J'y ai reconnu, à plusieurs reprises, mon positionnement de chef de projet : avoir des connaissances transverses sur l'ensemble des métiers mais aussi sur l'intégralité des étapes du processus d’élaboration d’un site web pour y appliquer pragmatisme et méthode, au service d'un objectif qui est très rarement technique.
 
 ## <span lang="la">In fine</span>
 
