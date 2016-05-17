@@ -27,6 +27,8 @@ layout: default
 </div>
 {% endif %}
 
-{% include post_webmentions.html.liquid url=url %}
+{% if jekyll.environment != "developpement" %}
+    {% include post_webmentions.html.liquid url=url %}
+{% endif %}
 
 {% include post_related.html.liquid posts=site.related_posts %}
