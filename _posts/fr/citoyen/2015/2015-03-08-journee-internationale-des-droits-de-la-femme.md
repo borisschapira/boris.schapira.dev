@@ -1,5 +1,6 @@
 ---
 title: "Journée Internationale des Droits de la Femme"
+main_image: assets/images/shared/he-for-she-logo.jpg
 tags:
   - HeForShe
   - Société

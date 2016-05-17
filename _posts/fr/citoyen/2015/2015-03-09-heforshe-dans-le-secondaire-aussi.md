@@ -1,5 +1,6 @@
 ---
 title: "#HeForShe, dans le secondaire aussi"
+main_image: assets/images/shared/he-for-she-logo.jpg
 tags:
   - HeForShe
   - Société
