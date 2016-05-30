@@ -74,7 +74,7 @@ Malheureusement, tout cela ne suffit pas. Tous les jours, je vois "les catalogue
 
 Les jouets ne sont évidemment pas responsables de tous les maux mais ils en sont le premier symptôme. Par le jouet, l'enfant s'approprie un réel qui lui échappe et qu'il met en scène pour mieux le comprendre. En scénarisant cette mise en scène avec nos propres biais, nous construisons de futurs adultes aux repères imposés qui mettront des années à dépasser ces constructions (certains n'y arriveront jamais), voire les pousseront plus loin que ce que nous craignons déjà.
 
-> Les viviers d’hommes pour les métiers de la petite enfance sont à chercher notamment du côté des réorientations et des « secondes carrières » (Flandre, Allemagne, Écosse). Il est plus facile de transgresser les normes professionnelles masculines à l’âge adulte qu’à l’adolescence.
+> Les viviers d’hommes pour les métiers de la petite enfance sont à chercher notamment du côté des réorientations et des «&nbsp;secondes carrières&nbsp;» (Flandre, Allemagne, Écosse). Il est plus facile de transgresser les normes professionnelles masculines à l’âge adulte qu’à l’adolescence.
 > <cite>"[Lutter contre les stéréotypes filles-garçons, un enjeu d'égalité et de mixité dès l'enfance](http://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/archives/CGSP_Stereotypes_filles_garcons_web.pdf)", travaux coordonnés par Marie-Cécile Naves et Vanessa Wisnia-Weill en janvier 2014 pour le [Commissariat général à la stratégie et à la prospective](http://www.strategie.gouv.fr/).</cite>
 
 ## Le pourquoi derrière tout ça
