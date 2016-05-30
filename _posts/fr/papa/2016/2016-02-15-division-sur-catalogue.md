@@ -16,7 +16,7 @@ series: Diviser
 
 Quand j'étais môme, il y avait toujours un catalogue de jouet dans la maison. Les jouets y étaient présentés par type : voitures, animaux de la ferme, personnages, poupées…
 
-Très peu de photos d'enfants étaient utilisées. Peut-être que les moyens de l'époque n'étaient pas ceux d'aujourd'hui : c'était sûrement facile de découper une silhouette sans Photoshop. Du coup, on voyait surtout les jouets, dans des suggestions de présentations qui devaient être fournies par les fabricants tant elles étaient similaires d'un catalogue à l'autre.
+Très peu de photos d'enfants étaient utilisées. Peut-être que les moyens de l'époque n'étaient pas ceux d'aujourd'hui : c'était sûrement difficile de découper une silhouette précise sans Photoshop. Du coup, on voyait surtout les jouets, dans des suggestions de présentations qui devaient être fournies par les fabricants tant elles étaient similaires d'un catalogue à l'autre.
 
 > Woaw, elle est trop belle sa voiture !
 
