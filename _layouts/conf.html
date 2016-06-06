@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="page">
+  {% if page.date %}
+  <header class="p-header">
+      {% assign datetime = page.date | date_to_xmlschema %}
+      <time class="p-date dt-published" datetime="{{ datetime }}">{{ page.event }}&nbsp;— {{ page.date | localize: '%A %-d %B %Y', page.lang }}</time>
+  </header>
+  {% endif %}
+  <h2 class="page-title">{{ page.title }}</h2>
+  <div class="post-content">
+    {% if page.content.size > 1 %}
+    {{ page.content }}
+    {% else %}
+    {{ page.description | raw }}
+    {% endif %}
+  </div>
+</div>
+
+{% if content.size > 2000 %}
+<div class="js elevator">
+    <a href="#top" title="Vers l'infini et... euh, non, ramenez-moi juste en haut, merci.">&#11014;</a>
+</div>
+{% endif %}

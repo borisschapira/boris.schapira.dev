@@ -1,15 +1,12 @@
 ---
 title: "Industrialiser le dév. Front-End"
-tags:
-  - Front-End
-  - Outils
-series:
-  - Industrialisation du Front-End
+description: "Qu'on parle d'intégration HTML ou de développement Front-End, on ne s'outille plus en 2015 comme en 2005. De nombreux outils existent désormais pour faciliter les processus de démarrage, composition, construction et déploiement. Prenons quelques minutes pour en parler."
+date: 2015-10-16
+event: Bdx.IO 2015
 ---
 
 Transcription de mon <em lang="en">lightning talk</em> pour Bdx.io 2015 pour les absents, les malentendants ou les gens qui s'ennuient !
 
-* Vidéo (à venir)
 * [Slides](http://www.slideshare.net/bschapira/industrialiser-le-dev-front-end-54151018)
 * [Site officiel de Bdx.io](http://www.bdx.io/)
 * [Bdx.io sur Lanyrd](http://lanyrd.com/2015/bdxio/)
