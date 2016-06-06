@@ -18,6 +18,11 @@ defaults:
       category: default
   -
     scope:
+      path: "_confs"
+    values:
+      layout: conf
+  -
+    scope:
       type: "posts"
     values:
       layout: post

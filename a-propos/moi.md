@@ -3,6 +3,7 @@ layout: page
 title: Bonjour, je suis Boris
 date: 2015-10-05 17:15:20
 i18n-key: about-me
+permalink: /a-propos/moi/index.html
 ---
 
 ## ravi de vous rencontrer
@@ -23,18 +24,3 @@ J'aime les chocolatines[^choc] le matin, une pizza à midi et un énorme câlin 
 [^choc]: Mais si vous appelez ça autrement, c'est bien aussi.
 
 [^1]: Mon CV complet est disponible [sur LinkedIn](https://www.linkedin.com/in/borisschapira CV de Boris SCHAPIRA sur LinkedIn")
-
-## Partager, encore et toujours
-
-Je suis convaincu que le partage de l'information est bénéfique à tous : j'enseigne à [Ingésup Bordeaux](http://www.ingesup.com/ "Ingesup") ; je serais aussi ravi de [venir discuter avec vous contre un sandwich](http://www.brownbaglunch.fr/baggers.html#Boris_Schapira_Bordeaux "BrownBagLunch France") ; vous pouvez m'avoir croisé dans plusieurs conférences, de Barcelone à Paris, mais ma petite préférence reste [Sud Web](http://sudweb.fr/ "SudWeb.fr").
-
-Il y a plusieurs sujets dont j'aimerai parler : si cela vous intéresse aussi, parlons-en et organisons des conférences ensemble.
-
-<div class="conf-subjects">
-{% for conf in site.confs %}
-  <article class="conf-subject">
-    <h3><a href="{{ conf.url }}">{{ conf.title }}</a></h3>
-    {{ conf.content }}
-  </article>
-{% endfor %}
-</div>
