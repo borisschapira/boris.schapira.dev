@@ -40,7 +40,7 @@ En ce moment, en France, on est à fond sur le "problème musulman". C'est un pr
 
 Ce "problème" tend à nous faire simplifier une population, "les musulmans", comme on simplifierait le clivage entre jouets pour filles et jouets pour garçons. Peu importe que personne ne sache vraiment définir ce qu'il met derrière le mot "musulman" : origine ethnique, sociale, politique, géographique, inclination spirituelle, dogme… Le musulman est juste un nouvel "autre". Comme l'immigré, il est un "barbare" dont l'existence suffit à définir, par opposition, la nôtre.[Le musulman n'est qu'un nouveau juif](/2016/02/citations/ "Citations").
 
-Mais la xénophobie n'est pas le seul schéma narratif du moment. Nous avons aussi les "fonctionnaires fainéants", la "lutte des classes", le "travail, c'est la vie" (vive [Trepalium](http://www.arte.tv/magazine/trepalium/fr)).
+Mais la xénophobie n'est pas le seul schéma narratif du moment. Nous avons aussi les "fonctionnaires fainéants", la "lutte des classes", l'Europe qui étouffe ses États membres, les discriminations envers les femmes, le "travail, c'est la vie" (vive [Trepalium](http://www.arte.tv/magazine/trepalium/fr))…
 
 <a class="twitter-timeline" href="https://twitter.com/borisschapira/timelines/701162053386506242" data-widget-id="701162915014057984">Trepalium</a>
 
