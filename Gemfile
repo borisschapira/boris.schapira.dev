@@ -9,6 +9,7 @@ group :jekyll_tests do
 end
 
 group :jekyll_plugins do
+  gem 'jekyll-post-files'
   gem 'jekyll-assets'
   gem 'jekyll-tagging-related_posts'
   gem 'jekyll-responsive_image', :github => 'wildlyinaccurate/jekyll-responsive-image'
