@@ -7,7 +7,7 @@ GIT
 
 GIT
   remote: git://github.com/jekyll/jekyll.git
-  revision: b539c32364d941e1f0b23de41b7367419191eb18
+  revision: 70aa8a4e37cdbb935d8aacda3d6c6b598c2c91bb
   branch: master
   specs:
     jekyll (3.2.0.pre.beta1)
@@ -58,7 +58,7 @@ GEM
     awesome_print (1.7.0)
     byebug (9.0.5)
     coderay (1.1.1)
-    colorator (1.0.0)
+    colorator (1.1.0)
     colored (1.2)
     concurrent-ruby (1.0.2)
     em-websocket (0.5.1)
