@@ -6,7 +6,7 @@ categories:
 ---
 
 > Pour mieux faire comprendre le fonctionnement et le potentiel de la technologie blockchain le Collectif Bam et Blockchain France ont utilisé la métaphore d’un scénario qui parle à tous : la corvée de vaisselle.
-> <cite>"[La blockchain expliquée à un enfant de cinq ans](http://consocollaborative.com/tribune/la-blockchain-expliquee-a-un-enfant-de-5-ans/)", collectif Blockain France</cite>
+> <cite>"[La blockchain expliquée à un enfant de cinq ans](http://consocollaborative.com/tribune/la-blockchain-expliquee-a-un-enfant-de-5-ans/)", collectif Blockchain France</cite>
 
 Le concept de <i lang="en">blockchain</i> est suffisement peu intuitif pour que des analogies soient nécessaires. Elles doivent être simples pour faire passer des messages clairs, porteurs des principes fondamentaux : la notion d'enregistrement, de consensus de validation, d'utilisation de la méfiance entre acteurs comme garantie de confiance (car il s'agit bien de ça).
 
