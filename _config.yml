@@ -120,6 +120,7 @@ gems:
   - octopress-autoprefixer
   - octopress-debugger
   - jemoji
+  - jekyll-post-files
 
 # Build settings
 markdown: kramdown
