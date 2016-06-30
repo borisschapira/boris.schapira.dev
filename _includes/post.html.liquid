@@ -3,6 +3,7 @@
 {% endif %}
 
 {% assign source = page.path | split: '/' %}
+{% assign folderName = source.last | split: '.' | first %}
 {% assign title_encoded = post.title | url_encode %}
 {% capture url %}{{ site.url | append:page.base-url | append:post.url }}{% endcapture %}
 
