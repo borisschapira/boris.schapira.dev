@@ -16,7 +16,7 @@ Les référentiels Opquast et Clever Age, c'est une histoire d'amour qui dure de
   <figcaption>Logo d'Opquast Certified®</figcaption>
 </figure>
 
-En septembre 2015, Olivier [annonçait sur le blog de Cleve Age](http://blog.clever-age.com/fr/2015/09/15/plateforme-dentrainement-opquast-certified/) que chaque consultant pouvait, s'il le souhaitait, avoir un accès à la plate-forme d'entrainement Opquast Certified®. Le temps de m'organiser et j'ai répondu à son appel le mois dernier.
+En septembre 2015, Olivier [annonçait sur le blog de Clever Age](http://blog.clever-age.com/fr/2015/09/15/plateforme-dentrainement-opquast-certified/) que chaque consultant pouvait, s'il le souhaitait, avoir un accès à la plate-forme d'entrainement Opquast Certified®. Le temps de m'organiser et j'ai répondu à son appel le mois dernier.
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [{{ page.title }}]({{ page.canonical }}).</em>
 
