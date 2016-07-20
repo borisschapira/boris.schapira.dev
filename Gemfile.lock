@@ -39,13 +39,14 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     addressable (2.4.0)
-    algoliasearch (1.9.0)
+    algoliasearch (1.10.0)
       httpclient (~> 2.7.1)
       json (>= 1.5.1)
-    algoliasearch-jekyll (0.7.0)
+    algoliasearch-jekyll (1.0.0.beta.pre.1)
       algoliasearch (~> 1.4)
       appraisal (~> 2.1.0)
       awesome_print (~> 1.6)
+      html-hierarchy-extractor (~> 1.0)
       json (~> 1.8)
       nokogiri (~> 1.6)
       verbal_expressions (~> 0.1.5)
@@ -74,6 +75,10 @@ GEM
       addressable (~> 2)
     forwardable-extended (2.6.0)
     gemoji (2.1.0)
+    html-hierarchy-extractor (1.0.2)
+      awesome_print (~> 1.6)
+      json (~> 1.8)
+      nokogiri (~> 1.6)
     html-pipeline (2.4.1)
       activesupport (>= 2, < 5)
       nokogiri (>= 1.4)
@@ -176,7 +181,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  algoliasearch-jekyll
+  algoliasearch-jekyll (~> 1.0.0.beta.pre.1)
   ffi!
   html-proofer
   i18n
