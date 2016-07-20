@@ -23,7 +23,7 @@ layout: microtypo
       {% assign t = t | replace: ' ;', '&#8239;;' %}
       {% assign t = t | replace: ' !', '&#8239;!' %}
       {% assign t = t | replace: ' ?', '&#8239;?' %}
-      {% assign t = t | replace_regex: '(\s)+(\d+)(\s)?(px|h|%)(\s)?', '\1\2&#8239;\4\5' %}
+      {% assign t = t | replace_regex: '(\s)+(\d+)(\s)?(px|%)(\s|.)', '\1\2&#8239;\4\5' %}
 
     {% elsif page.lang == 'en' %}
       {% assign t = t | replace: ' :', ':' %}
