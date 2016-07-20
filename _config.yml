@@ -192,6 +192,7 @@ webmention:
   api_key: "…"
 
 algolia:
+  lazy_update: true
   application_id: '…'
   index_name: '…'
   read_only_api_key: '…'
