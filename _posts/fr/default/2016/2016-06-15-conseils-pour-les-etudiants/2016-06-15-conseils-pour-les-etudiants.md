@@ -27,7 +27,7 @@ Plus spécifiquement, concernant le RWD :
 
 # Équipe projet :
 
-Vous allez faire des dizaines de projets où l'on vous demandera des fiches d'équipe. Prenez l'habitude d'en écrire, avec un design adapté. Ayez toujours de quoi faire votre petite fiche sous la main : une photo qui vous valorise, un descriptif de votre profil (savoir-faire, savoir-être) vous décrivant.
+Vous allez faire des dizaines de projets où l'on vous demandera des fiches d'équipe. Prenez l'habitude d'en écrire, avec un design adapté. Ayez toujours de quoi faire votre petite fiche sous la main : une photo qui vous valorise et un descriptif de votre profil (savoir-faire, savoir-être, précédentes expériences).
 
 N'hésitez pas à introduire une représentation visuelle de vos responsabilités :
 
