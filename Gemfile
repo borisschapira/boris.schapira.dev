@@ -3,6 +3,7 @@ ruby '2.3.1'
 
 gem 'jekyll', :github => 'jekyll', :branch => 'master'
 gem 'i18n'
+gem 'sprockets', '3.6.3'
 
 group :jekyll_tests do
   gem 'ffi', :github => 'ffi/ffi', :branch => 'elcapt'
