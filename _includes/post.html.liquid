@@ -33,18 +33,24 @@
     {% else %}
       {% if post.content contains "<!-- more -->" %}
         {{ post.content | split:"<!-- more -->" | first | markdownify % }}
-      {% elsif post.content.size < 500 %}
+        <p>
+          <a href="{{ post.url }}" title="{{post.title}}">{% t Lire la suite %} →</a>
+        </p>
+      {% elsif post.content.size < 1000 %}
         {% if post.content contains "<figure>" %}
           {{ post.content | split:"<figure>" | first | markdownify % }}
+          <p>
+            <a href="{{ post.url }}" title="{{post.title}}">{% t Lire la suite %} →</a>
+          </p>
         {% else %}
           {{ post.content | markdownify }}
         {% endif %}
       {% else %}
         {{ post.excerpt | markdownify }}
+        <p>
+          <a href="{{ post.url }}" title="{{post.title}}">{% t Lire la suite %} →</a>
+        </p>
       {% endif %}
-      <p>
-        <a href="{{ post.url }}" title="{{post.title}}">{% t Lire la suite %} →</a>
-      </p>
     {% endif %}
   </div>
 </article>
