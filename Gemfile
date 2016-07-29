@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 ruby '2.3.1'
 
-gem 'jekyll', :github => 'jekyll', :branch => 'master'
+gem 'jekyll', '3.2'
+
 gem 'i18n'
 gem 'sprockets', '3.6.3'
 
