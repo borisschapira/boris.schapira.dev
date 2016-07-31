@@ -7,7 +7,9 @@ namespace :build do
   end
 
   desc 'Preview on local machine (server with --auto)'
-  task :preview => :clean do |t, args|
+  task :preview, [:env] => :clean do |t, args|
+    args.with_defaults(:env => 'dev')
+    config_file = "_config_#{args[:env]}.yml"
     if rake_running then
       puts "\n\nWarning! An instance of rake seems to be running (it might not be *this* Rakefile, however).\n"
       puts "Building while running other tasks (e.g., preview), might create a website with broken links.\n\n"
@@ -17,7 +19,7 @@ namespace :build do
       exit if ans != 'Y'
     end
 
-    jekyll('serve --config _config.yml,_config_dev.yml')
+    jekyll("serve --config _config.yml,#{config_file}")
   end
   task :serve => :preview
 
