@@ -1,12 +1,14 @@
 $color-complement: complement($color-main);
 $color-complement-faded: lighten($color-complement, 20);
 $color-gray: rgb(154,154,154);
+$color-bg : lighten($color-main, 99 - lightness($color-main));
 
 /* Lisibility */
 .hide {
     display:none;
 }
 body {
+  background-color: $color-bg;
   text-rendering: optimizeSpeed;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -14,12 +16,15 @@ body {
 img {
   margin-bottom: 0;
 }
+
 /* Fuschia */
 .theme-base-0g {
   .sidebar {
     color: rgba(255,255,255,0.5);
     background-color: $color-main;
+    background-image: url($texture);
   }
+
   .content a,
   .related-posts li a:hover {
     color: $color-main;
@@ -102,6 +107,16 @@ header.posts-h {
   margin-bottom: 2rem;
   display: none;
 }
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    /* Retina-specific stuff here */
+    .theme-base-0g {
+      .sidebar {
+        background-image: url($texture-2X);
+      }
+    }
+}
+
 .p-tags,
 .p-category,
 .p-readtime {
