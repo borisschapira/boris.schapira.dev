@@ -10,7 +10,7 @@ layout: microtypo
   {% assign lang=site.lang %}
 {% endif %}
 <!DOCTYPE html>
-<html lang="{{ page.lang ? page.lang : site.lang }}" itemscope itemtype="https://schema.org/WebPage">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}" itemscope itemtype="https://schema.org/WebPage">
 
   {% include head.html.liquid %}
 
