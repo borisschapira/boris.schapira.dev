@@ -112,7 +112,6 @@ GEM
       jekyll-tagging (~> 1.0.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
-    jekyll_post_files (1.1.0)
     jemoji (0.7.0)
       activesupport (~> 4.0)
       gemoji (~> 2.0)
@@ -189,7 +188,6 @@ DEPENDENCIES
   jekyll-responsive_image!
   jekyll-sitemap
   jekyll-tagging-related_posts
-  jekyll_post_files
   jemoji
   octopress-autoprefixer
   octopress-debugger
