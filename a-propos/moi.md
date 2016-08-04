@@ -19,7 +19,7 @@ Vous avez pu me rencontrer autour de problématiques liées au Service Design, 
 
 La plupart du temps, j'accompagne mes clients sur des projets mais ma vraie passion, c'est de comprendre leurs mécaniques de création de valeur pour les optimiser à l'aide d'outils numériques et leur permettre d'améliorer leur(s) service(s) et produit(s).
 
-J'aime les chocolatines[^choc] le matin, une pizza à midi et un énorme câlin avec mes deux garçons et ma femme le soir. Je n'aime pas les discussions qui n'avancent pas, les processus qui les favorisent et les choux fleurs.
+J'aime les chocolatines[^choc] le matin, une pizza à midi et un énorme câlin avec mes deux garçons et ma femme le soir. De profil [INTJ](https://fr.wikipedia.org/wiki/INTJ), je n'aime pas les discussions qui n'avancent pas, les processus qui les favorisent et les choux fleurs.
 
 [^choc]: Mais si vous appelez ça autrement, c'est bien aussi.
 
