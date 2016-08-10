@@ -11,7 +11,9 @@ namespace :prebuild do
 
     desc "Executes the jekyll doctor"
     task :doctor do |t, args|
-      jekyll("doctor")
+      args.with_defaults(:env => 'prod')
+      config_file = "_config_#{args[:env]}.yml"
+      jekyll("doctor --config _config.yml,_config_decks.yml,#{config_file}")
     end
 
     desc "Test if content Front-Matter is YAML-valid"
