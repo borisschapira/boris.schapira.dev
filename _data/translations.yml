@@ -15,7 +15,7 @@ en:
   "Si cet article vous a plu, n'hésitez pas à le partager": "If you enjoyed reading this, please share it"
   "par": "by"
   "Partager cet article": "Share this post on"
-  "Si vous détectez une erreur et que vous avez un compte Github": If you're a Githuber and you've detected a mistake"
+  "Si vous détectez une erreur et que vous avez un compte Github": "If you're a Githuber and you've detected a mistake"
   "vous pouvez proposer une": please submit a
   "modification des": modification of the
   "sources": source code
@@ -27,3 +27,5 @@ en:
   "Ecrivez-moi !": "Send me an email !"
   "Environ": ""
   "min de lecture": "min of reading time"
+  "Ces articles peuvent également vous intéresser": "You may also be interested by this posts"
+  "Série": "Serie"
