@@ -9,47 +9,51 @@
 lang: fr
 base-url: "/"
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       lang: fr
       base-url: ""
       category: default
-  -
-    scope:
+  - scope:
       path: "_confs"
     values:
       layout: conf
-  -
-    scope:
+  - scope:
       type: "posts"
     values:
       layout: post
       hidden: false
-  -
-    scope:
+  - scope:
       path: "_posts/fr/papa"
     values:
       category: Papa
-  -
-    scope:
+  - scope:
       path: "_posts/fr/citoyen"
     values:
       category: Citoyen
-  -
-    scope:
+  - scope:
       path: "en"
     values:
       lang: en
       base-url: "en/"
-  -
-    scope:
+  - scope:
       path: "_posts/en"
     values:
       lang: en
       base-url: "en/"
-
+  - scope:
+      type: decks
+    values:
+      layout: deck
+  - scope:
+      type: slides
+    values:
+      layout: slide
+  - scope:
+      type: cursus
+    values:
+      layout: cursus
 # Exclusions
 exclude:
   - ".cache"
@@ -104,6 +108,15 @@ permalink: :year/:month/:title/
 collections:
   confs:
     output: true
+  slides :
+    output: true
+    permalink: /:path/
+  decks :
+    output: true
+    permalink: /:path/
+  cursus :
+    output: true
+    permalink: /slides/:path/
 
 # EU Cookie law
 eu_cookie_law:

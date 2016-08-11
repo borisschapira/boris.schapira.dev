@@ -12,11 +12,8 @@ layout: default
         </header>
     {% endunless %}
 
-    {% if page.lang == 'en' %}
-        {% assign the_posts=site.posts | where:"lang", page.lang |  where:"hidden", false %}
-    {% else %}
-        {% assign the_posts= site.categories.[page.category] | where:"lang", page.lang |  where:"hidden", false %}
-    {% endif %}
+    {% assign the_posts=site.categories[page.category] | where:"lang", page.lang |  where:"hidden", false %}
+
     {% for post in the_posts %}
         {% include post.html.liquid postPage=false %}
     {% endfor %}
