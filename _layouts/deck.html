@@ -1,3 +1,6 @@
+---
+layout: microtypo
+---
 <!doctype html>
 <html lang="en">
   <head>
@@ -11,7 +14,7 @@
       {% endif %}
     </title>
 
-    <meta name="author" content="{{ site.author }}" />
+    <meta name="author" content="{{ site.author.name }}" />
 
     <!-- Description -->
     {% if page.description %}
@@ -44,13 +47,9 @@
       var link = document.createElement( 'link' );
       link.rel = 'stylesheet';
       link.type = 'text/css';
-      link.href = window.location.search.match( /print-pdf/gi ) ? '{{ "/assets/revealjs/css/print/pdf.css" | prepend: site.baseurl }}' : '{{ "/assets/revealjs/css/print/paper.css" | prepend: site.baseurl }}';
+      link.href = window.location.search.match( /print-pdf/gi )?'{{ "/assets/revealjs/css/print/pdf.css" | prepend: site.baseurl }}':'{{ "/assets/revealjs/css/print/paper.css" | prepend: site.baseurl }}';
       document.getElementsByTagName( 'head' )[0].appendChild( link );
     </script>
-
-    <link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | prepend: site.baseurl }}" />
-
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!--[if lt IE 9]>
     <script src="lib/js/html5shiv.js"></script>
@@ -58,8 +57,6 @@
   </head>
 
   <body>
-    <a class="logo" href="../"><img class="logo" src="{{ "/assets/images/arrow-up.svg" | prepend: site.baseurl }}"
-	 title="Logo"></a>
     {% assign previous_depth = 1 %}
     <noscript>
       <h1>{{ page.title }}</h1>

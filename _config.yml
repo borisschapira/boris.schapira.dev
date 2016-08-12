@@ -8,6 +8,9 @@
 # Lang configuration
 lang: fr
 base-url: "/"
+formation:
+  assets:
+    url: "/assets/images/formation/"
 defaults:
   - scope:
       path: ""
