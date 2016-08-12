@@ -11,25 +11,8 @@
       {% endif %}
     </title>
 
-    <meta name="author" content="{{ site.author }}" />
-
-    <!-- Description -->
-    {% if page.description %}
-      <meta name="description" content="{{ page.description }}" />
-    {% else %}
-      <meta name="description" content="{{ site.description }}">
-    {% endif %}
-
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-
+    <meta name="author" content="{{ site.author.name }}" / />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-
-    <link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | prepend: site.baseurl }}" />
-
-		<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!--[if lt IE 9]>
     <script src="lib/js/html5shiv.js"></script>
@@ -55,6 +38,7 @@
       {% endif %}
     {% endfor %}
     {%if prevurl%}<a href="{{prevurl | prepend: site.baseurl}}">previous</a>{%endif%}
+    <a href="{{ page.cursus.url }}">back to cursus</a>
     {%if nexturl%}<a href="{{nexturl | prepend: site.baseurl}}">next</a>{%endif%}
   </body>
 </html>
