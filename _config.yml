@@ -73,6 +73,7 @@ exclude:
 include:
   - ".well-known"
   - ".htaccess"
+  - ".htpasswd"
 
 # Site settings
 name: 'Boris Schapira'
