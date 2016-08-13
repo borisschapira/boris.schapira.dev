@@ -1,0 +1,52 @@
+
+.two-floating-elements,
+.two-columns {
+  > p,
+  > ul,
+  > ol {
+	max-width: 50%;
+	float: left;
+	font-size: 0.9em;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 50%;
+
+	&:last-child {
+	  padding-left: 0.25em;
+	}
+	&:first-child {
+	  padding-right: 0.25em;
+	}
+
+	margin-left: 0;
+  }
+
+  > p {
+	text-align: center;
+  }
+}
+
+.two-columns-lists {
+  > ul,
+  > ol {
+	&:only-of-type {
+	  display: table;
+	  width: 100%;
+	  > li {
+		display: table-cell;
+		margin-left: 10px;
+
+		li {
+		  display: list-item;
+		}
+	  }
+	}
+
+	margin-left: 0;
+  }
+}
+
+.table-compact table {
+  font-size: 0.6em;
+}
