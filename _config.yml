@@ -46,6 +46,10 @@ defaults:
       lang: en
       base-url: "en/"
   - scope:
+      type: cursus
+    values:
+      layout: cursus
+  - scope:
       type: decks
     values:
       layout: deck
@@ -53,10 +57,6 @@ defaults:
       type: slides
     values:
       layout: slide
-  - scope:
-      type: cursus
-    values:
-      layout: cursus
 # Exclusions
 exclude:
   - ".cache"
@@ -114,10 +114,10 @@ collections:
     output: true
   slides :
     output: true
-    permalink: /:path/
+    permalink: /slides/:path/
   decks :
     output: true
-    permalink: /:path/
+    permalink: /slides/:path/
   cursus :
     output: true
     permalink: /slides/:path/

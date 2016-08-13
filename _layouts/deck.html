@@ -2,7 +2,7 @@
 layout: microtypo
 ---
 <!doctype html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
     <meta charset="utf-8">
 
@@ -29,15 +29,17 @@ layout: microtypo
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
     <link rel="stylesheet" href="{{ "/assets/revealjs/css/reveal.css" | prepend: site.baseurl }}"/>
-    {%if page.theme %}
-			{% if page.theme == "clever" %}
-        <link rel="stylesheet" href="{{ "/css/" | prepend: site.baseurl | append: page.theme | append: '.css' }}" id="theme"/>
+    {%if page.theme or page.cursus.theme or page.deck.theme %}
+      {% assign the_theme = page.theme || page.cursus.theme %}
+			{% if the_theme == "clever" %}
+        {% css 'reveal_boris' data-instant-track %}
 			{% else %}
-			   <link rel="stylesheet" href="{{ "/assets/revealjs/css/theme/" | prepend: site.baseurl | append: page.theme | append: '.css' }}" id="theme"/>
+			   <link rel="stylesheet" href="{{ "/assets/revealjs/css/theme/" | prepend: site.baseurl | append: the_theme | append: '.css' }}" id="theme"/>
 			{% endif %}
     {% else %}
       <link rel="stylesheet" href="{{ "/assets/revealjs/css/theme/black.css" | prepend: site.baseurl }}" id="theme"/>
     {% endif %}
+    {% css 'reveal_custom' data-instant-track %}
 
     <!-- Code syntax highlighting -->
     <link rel="stylesheet" href="{{ "/assets/revealjs/lib/css/zenburn.css" | prepend: site.baseurl }}"/>
@@ -75,6 +77,7 @@ layout: microtypo
           {% assign previous_depth = slide.depth %}
         {% endfor %}
       </ul>
+      <a href="../">{% t Retour %}</a>
     </noscript>
     <div class="reveal">
       <div class="slides">
