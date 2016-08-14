@@ -54,7 +54,7 @@ layout: microtypo
       {% endif %}
     {% endfor %}
     {%if prevurl%}<a href="{{prevurl | prepend: site.baseurl}}">{% t Précédent %}</a>{% endif %}
-    <a href="../">{% t Retour %}</a>
+    <a href="{{ page.deck.url | prepend: site.baseurl }}">{% t Retour %}</a>
     {%if nexturl%}<a href="{{nexturl | prepend: site.baseurl}}">{% t Suivant %}</a>{% endif %}
   </body>
 </html>

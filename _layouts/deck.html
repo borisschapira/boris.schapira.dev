@@ -77,7 +77,7 @@ layout: microtypo
           {% assign previous_depth = slide.depth %}
         {% endfor %}
       </ul>
-      <a href="../">{% t Retour %}</a>
+      <a href="{{ page.cursus.url | prepend: site.baseurl }}">{% t Retour %}</a>
     </noscript>
     <div class="reveal">
       <div class="slides">
