@@ -13,7 +13,7 @@ namespace :prebuild do
     task :doctor do |t, args|
       args.with_defaults(:env => 'prod')
       config_file = "_config_#{args[:env]}.yml"
-      jekyll("doctor --config _config.yml,_config_decks.yml,#{config_file}")
+      jekyll("doctor --config _config.yml,#{config_file}")
     end
 
     desc "Test if content Front-Matter is YAML-valid"
