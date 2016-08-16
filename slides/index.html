@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Présentations
 ---
 
 <h2>{% t Formations disponibles %}</h2>
@@ -7,7 +8,7 @@ layout: default
 <ul>
 {% for cursus in site.cursus %}
   <li>
-    <a href="{{ cursus.url | prepend: site.baseurl }}" data-no-instant>{{ cursus.title }}</a>
+    <a href="{{ cursus.url | prepend: site.baseurl }}" data-no-instant>{{ cursus.title }} {% if cursus.protected %}(accès sécurisé){% endif %}</a>
   </li>
 {% endfor %}
 </ul>
