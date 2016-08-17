@@ -59,38 +59,63 @@ layout: microtypo
   </head>
 
   <body>
-    {% assign previous_depth = 1 %}
     <noscript>
       <h1>{{ page.title }}</h1>
       <ul>
+        {% assign the_first_slide = page.slides | first %}
+        {% assign the_first_path_array = the_first_slide.path | split:"/" %}
+        {% assign previous_depth = 1 %}
+        {% assign previous_root = the_first_path_array[3] %}
+
         {% for slide in page.slides %}
-          {% if slide.depth > previous_depth %}
+
+          {% assign the_path_array = slide.path | split:"/" %}
+          {% assign the_depth = the_path_array | size %}
+          {% assign the_root = the_path_array[3] %}
+
+          {% if the_root != previous_root %}
+            {% assign previous_root = the_root %}
+            </ul><ul>
+          {% elsif the_depth > previous_depth %}
+            {% assign previous_depth = depth %}
             <ul>
-          {% elsif slide.depth < previous_depth %}
+          {% elsif the_depth < previous_depth %}
+            {% assign previous_depth = depth %}
             </ul>
           {% endif %}
 
           <li>
             <a href="{{ slide.url | prepend: site.baseurl }}">{{ slide.title }}</a>
           </li>
-
-          {% assign previous_depth = slide.depth %}
         {% endfor %}
       </ul>
       <a href="{{ page.cursus.url | prepend: site.baseurl }}">{% t Retour %}</a>
     </noscript>
     <div class="reveal">
       <div class="slides">
-				{% for slide in page.slides %}
-					{% if slide.depth > previous_depth %}
-						<section>
-					{% elsif slide.depth < previous_depth %}
-						</section>
-					{% endif %}
+        {% assign the_first_slide = page.slides | first %}
+        {% assign the_first_path_array = the_first_slide.path | split:"/" %}
+        {% assign previous_depth = 1 %}
+        {% assign previous_root = the_first_path_array[3] %}
 
-					{% include slide.html %}
+        {% for slide in page.slides %}
 
-          {% assign previous_depth = slide.depth %}
+          {% assign the_path_array = slide.path | split:"/" %}
+          {% assign the_depth = the_path_array | size %}
+          {% assign the_root = the_path_array[3] %}
+
+          {% if the_root != previous_root %}
+            {% assign previous_root = the_root %}
+            </section><section>
+          {% elsif the_depth > previous_depth %}
+            {% assign previous_depth = depth %}
+            <section>
+          {% elsif the_depth < previous_depth %}
+            {% assign previous_depth = depth %}
+            </section>
+          {% endif %}
+
+          {% include slide.html %}
 				{% endfor %}
       </div>
     </div>

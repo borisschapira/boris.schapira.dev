@@ -1,52 +1,49 @@
-
-.two-floating-elements,
-.two-columns {
-  > p,
-  > ul,
-  > ol {
-	max-width: 50%;
-	float: left;
-	font-size: 0.9em;
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
-	width: 50%;
-
-	&:last-child {
-	  padding-left: 0.25em;
-	}
-	&:first-child {
-	  padding-right: 0.25em;
-	}
-
-	margin-left: 0;
-  }
-
-  > p {
-	text-align: center;
-  }
-}
-
-.two-columns-lists {
-  > ul,
-  > ol {
-	&:only-of-type {
-	  display: table;
-	  width: 100%;
-	  > li {
-		display: table-cell;
-		margin-left: 10px;
-
-		li {
-		  display: list-item;
+$mainFontSize: 36px;
+$marginLeft: 10px;
+.reveal {
+	[class^="columns-"] {
+		 > ul,
+		> ol {
+			&:only-of-type {
+				list-style-type: none;
+			}
+			margin-left: 0;
 		}
-	  }
 	}
-
-	margin-left: 0;
-  }
-}
-
-.table-compact table {
-  font-size: 0.6em;
+	.columns-2 {
+		 > ul,
+		> ol {
+			&:only-of-type {
+				columns: 2;
+			}
+		}
+	}
+	.columns-3 {
+		 > ul,
+		> ol {
+			&:only-of-type {
+				columns: 3;
+			}
+		}
+	}
+	.table-compact table {
+		font-size: 0.6em;
+	}
+	noscript li:first-of-type {
+		font-size: 1.2em;
+		margin: 12px 0 12px #{-1 * $mainFontSize};
+		list-style-type: none;
+	}
+	img {
+		max-height: 14em;
+	}
+	.centered {
+		> ul,
+		> ol,
+		> p {
+			&:only-of-type {
+				text-align: center;
+			}
+		}
+	}
 }
