@@ -29,11 +29,6 @@ $marginLeft: 10px;
 	.table-compact table {
 		font-size: 0.6em;
 	}
-	noscript li:first-of-type {
-		font-size: 1.2em;
-		margin: 12px 0 12px #{-1 * $mainFontSize};
-		list-style-type: none;
-	}
 	img {
 		max-height: 14em;
 	}
@@ -45,5 +40,12 @@ $marginLeft: 10px;
 				text-align: center;
 			}
 		}
+	}
+}
+noscript {
+	li:first-of-type {
+		font-size: 1.2em;
+		margin: 12px 0 12px #{-1 * $mainFontSize};
+		list-style-type: none;
 	}
 }

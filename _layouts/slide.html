@@ -36,25 +36,28 @@ layout: microtypo
   </head>
 
   <body>
-    {% assign slide=page %}
-		{% include slide.html %}
+    <div class="reveal">
+      {% assign slide=page %}
+  		{% include slide.html %}
 
-    {% for item in slide.deck.slides  %}
-      {% if item.deck.key == slide.deck.key and item.cursus.key == slide.cursus.key %}
-        {% if item.title == page.title %}
-          {% unless forloop.first %}
-            {% assign prevurl = prev.url %}
-          {% endunless %}
-          {% unless forloop.last %}
-            {% assign next = slide.deck.slides[forloop.index] %}
-            {% assign nexturl = next.url %}
-          {% endunless %}
+      {% for item in slide.deck.slides  %}
+        {% if item.deck.key == slide.deck.key and item.cursus.key == slide.cursus.key %}
+          {% if item.title == page.title %}
+            {% unless forloop.first %}
+              {% assign prevurl = prev.url %}
+            {% endunless %}
+            {% unless forloop.last %}
+              {% assign next = slide.deck.slides[forloop.index] %}
+              {% assign nexturl = next.url %}
+            {% endunless %}
+          {% endif %}
+          {% assign prev = item %}
         {% endif %}
-        {% assign prev = item %}
-      {% endif %}
-    {% endfor %}
-    {%if prevurl%}<a href="{{prevurl | prepend: site.baseurl}}">{% t Précédent %}</a>{% endif %}
-    <a href="{{ page.deck.url | prepend: site.baseurl }}">{% t Retour %}</a>
-    {%if nexturl%}<a href="{{nexturl | prepend: site.baseurl}}">{% t Suivant %}</a>{% endif %}
+      {% endfor %}
+      {%if prevurl%}<a href="{{prevurl | prepend: site.baseurl}}">{% t Précédent %}</a>{% endif %}
+      <a href="{{ page.deck.url | prepend: site.baseurl }}">{% t Retour %}</a>
+      {%if nexturl%}<a href="{{nexturl | prepend: site.baseurl}}">{% t Suivant %}</a>{% endif %}
+      {% javascript analytics %}
+    </div>
   </body>
 </html>
