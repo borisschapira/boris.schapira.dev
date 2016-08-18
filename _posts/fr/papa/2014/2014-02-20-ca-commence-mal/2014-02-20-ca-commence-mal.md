@@ -6,7 +6,7 @@ Réveil douloureux.
 
 Je m'endors sur le canapé en préparant les biberons.
 
-  Oui mon lapin, on va mettre Oui-Oui.
+> Oui mon lapin, on va mettre Oui-Oui.
 
 Ou pas. C'est les vacances, donc ils ont changé la programmation. Et de toutes façons, impossible de mettre la main sur la télécommande.
 
@@ -16,7 +16,7 @@ Pendant que je nettoie, le petit sort de son tapis en deux secondes, s'approche 
 
 Au moment de partir, je me rends compte que la poussette double est dans le coffre de la voiture, avec ma femme, à 15km de la maison. Tant pis, le grand marchera alors, pourvu qu'il ne pleuve pas.
 
-  Tiens, et si on passait par là ?
+> Tiens, et si on passait par là ?
 
 Raté, c'était une mauvaise idée. Ça nous rallonge de 10 minutes. Il se met à pleuvoir.
 
