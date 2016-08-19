@@ -35,7 +35,7 @@ Elle subissait beaucoup et sa force n'était pas tant dans sa capacité à frapp
 > Buffy, c'était Sangoku avec du vernis.
 {: class="emphasis"}
 
-La plupart des séries que je regarde ou apprécie aujourd'hui contient des personnages féminins forts : Korra, Sansa, Veronica, May, Cat, Kara, Zoe…
+La plupart des séries que je regarde ou apprécie aujourd'hui contient des personnages féminins forts : Korra, Sansa, Veronica, May, Cat, Kara, Zoe, Dutch/Yala…
 
 Je me suis rendu compte qu'un personnage féminin fort était pour moi un gage de qualité dans une œuvre. Je ne trouve pas l'œuvre meilleure parce qu'un personnage féminin fort y est décrit ou y est central mais je trouve peu crédible une œuvre ou un tel personnage n'existerait pas parce qu'il ne peut pas exister de monde où des hommes sont forts et des femmes ne le sont pas : il s'agit juste d'un monde où on ne regarde que les hommes.
 
