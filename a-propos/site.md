@@ -10,7 +10,7 @@ Je suis le principal auteur et l'unique responsable des contenus publiés sur ce
 
 Les points de vue et opinions exprimés sur ce blog n'engagent que moi, et en aucun cas mes employeurs ou clients, mon hébergeur ou toute autre personne physique ou morale.
 
-Si vous souhaitez copier, modifier ou redistribuer certains contenus, vous devez respecter les termes de la [licence creative commons CC-BY]http://creativecommons.org/licenses/by/3.0/fr/).
+Si vous souhaitez copier, modifier ou redistribuer certains contenus, vous devez respecter les termes de la [licence creative commons CC-BY](http://creativecommons.org/licenses/by/3.0/fr/).
 
 ## Sous le capot
 
