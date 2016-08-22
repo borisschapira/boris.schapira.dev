@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /2016/08/valeurs/
+Disallow: /admin
