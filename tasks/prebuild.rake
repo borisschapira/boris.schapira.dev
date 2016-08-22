@@ -10,7 +10,7 @@ namespace :prebuild do
   namespace :test do
 
     desc "Executes the jekyll doctor"
-    task :doctor do |t, args|
+    task :doctor, [:env] do |t, args|
       args.with_defaults(:env => 'prod')
       config_file = "_config_#{args[:env]}.yml"
       jekyll("doctor --config _config.yml,#{config_file}")
