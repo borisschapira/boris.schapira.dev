@@ -219,6 +219,12 @@ html .content .post .p-header .p-author {
       max-width: 100%;
       min-width: 70%;
     }
+    .gallery {
+      display: flex;
+      img {
+        min-width: none;
+      }
+    }
     figcaption {
       margin-left: auto;
       margin-right: auto;
@@ -510,4 +516,9 @@ sup {
 
 .lang {
   /*display: none;*/
+}
+
+.twitter-tweet-rendered {
+  margin-left: auto;
+  margin-right: auto;
 }

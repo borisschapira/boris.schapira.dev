@@ -2,12 +2,13 @@ namespace :build do
 
   # Use: rake clean
   desc "Clean Jekyll build"
-  task :clean => "prebuild:test" do |t, args|
+  task :clean, [:env] => "prebuild:test" do |t, args|
     cleanup
   end
 
   desc 'Preview on local machine (server with --auto)'
   task :preview, [:env] => :clean do |t, args|
+    puts "Preview task args were: #{args}"
     args.with_defaults(:env => 'dev')
     config_file = "_config_#{args[:env]}.yml"
     if rake_running then
