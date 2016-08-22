@@ -1,7 +1,5 @@
 ---
 title: "Mal du pays"
-categories:
- - papa
 ---
 
 Quinze jours loin de la maison, c'est long pour un petit bonhomme de 3 ans.

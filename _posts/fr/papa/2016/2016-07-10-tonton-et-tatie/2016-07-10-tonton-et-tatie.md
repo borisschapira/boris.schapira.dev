@@ -1,7 +1,5 @@
 ---
 title: "Tonton et Tatie"
-categories:
- - papa
 ---
 
 Voyage chez mon père. Tous les matins, ma sœur s'occupe des enfants avec patience pendant des heures, enchainant après le petit déjeuner des dessins et des puzzles. Mon frère joue avec eux l'après-midi avec les figurines qu'il a gardé de sa propre enfance.
