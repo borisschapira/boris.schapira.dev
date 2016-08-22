@@ -1,7 +1,5 @@
 ---
 title: "Et le feu ça brule"
-categories:
- - papa
 ---
 
 Voyage chez mon père, qui possède une piscine. Rapidement, le grand teste. Le petit, lui, reste au bord.

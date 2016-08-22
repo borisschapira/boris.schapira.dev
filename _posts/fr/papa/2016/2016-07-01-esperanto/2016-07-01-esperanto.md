@@ -1,7 +1,5 @@
 ---
 title: "Esperanto"
-categories:
- - papa
 ---
 
 Comme beaucoup le savent, nous sommes capables de reconnaitre les mots "Papa" et "Maman" dans de nombreuses langues[^exp]. Mais rien n'expliquera jamais pourquoi les enfants sont en mesure de reconnaitre le mot "pâtes" dans 42 langues.

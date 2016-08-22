@@ -1,7 +1,5 @@
 ---
 title: "Mon petit bordelais"
-categories:
- - papa
 ---
 
 Au moment de se brosser les dents, agacement du petit dernier.
