@@ -22,7 +22,7 @@ module Jekyll
 
     def load_translations
       if I18n.backend.send(:translations).empty?
-        I18n.backend.load_translations Dir[File.join(File.dirname(__FILE__),'../_locales/*.yml')]
+        I18n.backend.load_translations Dir[File.join(File.dirname(__FILE__),'../_data/_locales/*.yml')]
       end
     end
   end

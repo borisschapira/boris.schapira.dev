@@ -23,5 +23,6 @@ group :jekyll_plugins do
   gem 'jekyll-compose'
   gem 'jemoji'
   gem 'jekyll-livereload'
-  gem 'jekyll-admin'
+  # gem 'jekyll-admin'
+  gem 'jekyll-microtypo'
 end
