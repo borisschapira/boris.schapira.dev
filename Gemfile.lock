@@ -102,10 +102,12 @@ GEM
     jekyll-livereload (0.2.1)
       em-websocket (~> 0.5)
       jekyll (~> 3.0)
-    jekyll-microtypo (0.0.2)
+    jekyll-microtypo (0.0.4)
       jekyll (>= 3.0, < 4.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
+    jekyll-seo-tag (2.0.0)
+      jekyll (~> 3.1)
     jekyll-sitemap (0.11.0)
       addressable (~> 2.4.0)
     jekyll-tagging (1.0.1)
@@ -190,6 +192,7 @@ DEPENDENCIES
   jekyll-livereload
   jekyll-microtypo
   jekyll-responsive_image!
+  jekyll-seo-tag
   jekyll-sitemap
   jekyll-tagging-related_posts
   jemoji
