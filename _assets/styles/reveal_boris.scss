@@ -6,6 +6,7 @@
 // This file has been copied over from
 // ../../bower_components/reveal.js/css/theme/source/default.scss
 // Default mixins and settings -----------------
+@import "core";
 @import "vendor/reveal/default/mixins";
 @import "vendor/reveal/mixins";
 @import "vendor/reveal/default/settings";
@@ -97,18 +98,11 @@ img.print-logo {
 	border: 1px;
   font-size: 0.7em;
 	thead {
-	  background-color: hexToRgba($editorMainColor, 0.2);
+	  background-color: hexToRgba($editorMainColor, 0.05);
 	}
 	th, td {
-	  border: 1px solid hexToRgba($editorMainColor, 0.3);
+	  border: 1px solid hexToRgba($editorMainColor, 0.1);
 	  padding: 5px;
-	}
-  }
-
-  // Code formating
-  p, li {
-	code {
-	  background-color: hexToRgba($editorMainColor, 0.3);
 	}
   }
 
@@ -117,7 +111,7 @@ img.print-logo {
 	padding-left: 2vw;
 	border-color: $editorMainColor;
 	border-left: 10px solid $editorMainColor;
-	box-shadow: 0 0 2px hexToRgba($editorMainColor, 0.5);
+	box-shadow: 0 0 2px hexToRgba($editorMainColor, 0.3);
 	width: 90%;
 
 	cite {

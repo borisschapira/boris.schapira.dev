@@ -141,9 +141,6 @@ layout: microtypo
         // Optional reveal.js plugins
         dependencies: [
           { src: '{{ "/assets/revealjs/lib/js/classList.js" | prepend: site.baseurl }}', condition: function() { return !document.body.classList; } },
-          { src: '{{ "/assets/revealjs/plugin/markdown/marked.js" | prepend: site.baseurl }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: '{{ "/assets/revealjs/plugin/markdown/markdown.js" | prepend: site.baseurl }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: '{{ "/assets/revealjs/plugin/highlight/highlight.js" | prepend: site.baseurl }}', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
           { src: '{{ "/assets/revealjs/plugin/zoom-js/zoom.js" | prepend: site.baseurl }}', async: true },
           { src: '{{ "/assets/revealjs/plugin/notes/notes.js" | prepend: site.baseurl }}', async: true }
         ]
