@@ -7,6 +7,7 @@ tags:
 ---
 
 > Que pensez-vous du plan d'action suivant :
+>
 > 1. les embaucher
 > 2. les payer
 > 3. les garder
