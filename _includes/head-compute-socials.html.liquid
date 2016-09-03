@@ -1,17 +1,11 @@
   {% comment %} Date {% endcomment %}
   {% capture socialDate %}{{ page.date | date: "%Y-%m-%d" }}{% endcapture %}
   {% comment %} Image {% endcomment %}
-  {% capture main_image_defined %}x{{ page.main_image }}{% endcapture %}
-  {% capture main_image_exists %}{% file_exists {{ page.main_image }} %}{% endcapture %}
   {% capture socialImage %}https://avatars.borisschapira.com/boris_1light_300_fuchsia.jpg{% endcapture %}
-  {% if main_image_defined != 'x' and main_image_exists == "true" %}
+  {% if page.main_image %}
     {% capture socialImage %}{{ site.url }}/{{ page.main_image }}{% endcapture %}
   {% else %}
-    {% capture cat_image_path %}assets/images/category/{{ page.category | slugify }}.png{% endcapture %}
-    {% capture cat_image %}{% file_exists {{ cat_image_path }} %}{% endcapture %}
-    {% if cat_image == "true" %}
-      {% capture socialImage %}{{ site.url }}/{{ cat_image_path }}{% endcapture %}
-    {% endif %}
+    {% capture socialImage %}{{ site.url }}/assets/images/category/{{ page.category | slugify }}.png{% endcapture %}
   {% endif %}
   {% comment %} Site Name {% endcomment %}
   {% capture socialSitename %}{{ site.name }}{% endcapture %}

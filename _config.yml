@@ -70,6 +70,9 @@ exclude:
   - "Rakefile"
   - "tmp"
   - "vendor"
+  - _posts/**/*.jpg
+  - _posts/**/*.png
+  - _posts/**/*.gif
 include:
   - ".well-known"
   - ".htaccess"
@@ -126,17 +129,6 @@ collections:
 eu_cookie_law:
   active: true
   more_url: http://blog.temesis.com/post/2015/02/16/Cookies-le-grand-bug
-
-gems:
-  - jekyll-assets
-  - jekyll-sitemap
-  - jekyll-archives
-  - jekyll/tagging
-  - jekyll-tagging-related_posts
-  - algoliasearch-jekyll
-  - octopress-autoprefixer
-  - octopress-debugger
-  - jemoji
 
 # Build settings
 markdown: kramdown

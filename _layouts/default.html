@@ -1,6 +1,7 @@
 ---
 layout: microtypo
 ---
+{% assign the-lang = page.lang | default: site.lang | default: "fr" %}
 {% assign translations=site.posts | where:"i18n-key", page.i18n-key | sort: 'lang' %}
 {% if translations.size == 0 %}
   {% assign translations=site.pages | where:"i18n-key", page.i18n-key | sort: 'lang' %}
