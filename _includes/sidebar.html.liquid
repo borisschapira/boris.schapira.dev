@@ -21,20 +21,17 @@
           <a href="{{ site.base-url }}{{ page.base-url }}">{% t En vrac %}</a>
         </li>
 
-        {% assign cit_posts = (site.posts | where: "category" , 'Citoyen' | where: "lang" , page.lang) %}
-        {% if cit_posts.size > 0 %}
+        {% if the-lang == 'fr' %}
+
           <li class="sidebar-nav-item{% if page.category == 'Citoyen' %} active{% endif %}">
             <a href="{{ site.base-url }}{{ page.base-url | append: 'citoyen/' }}">{% t Citoyen %}</a>
           </li>
-        {% endif %}
 
-        {% assign papa_posts = (site.posts | where: "category" , 'Papa' | where: "lang" , page.lang) %}
-        {% if papa_posts.size > 0 %}
           <li class="sidebar-nav-item{% if page.category == 'Papa' %} active {% endif %}">
             <a href="{{ site.base-url }}{{ page.base-url | append: 'papa/' }}">{% t Papa %}</a>
           </li>
+
         {% endif %}
-      </ul>
 
       <div class="lang">
         {% include i18n_flags.html.liquid %}

@@ -11,19 +11,16 @@ group :jekyll_tests do
   gem 'html-proofer'
 end
 
-group :jekyll_plugins do
-  gem 'jekyll-assets'
-  gem 'jekyll-tagging-related_posts'
-  gem 'jekyll-responsive_image', :github => 'wildlyinaccurate/jekyll-responsive-image'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-archives'
-  gem 'algoliasearch-jekyll', '~> 1.0.0.beta.pre.1'
-  gem 'octopress-autoprefixer'
-  gem 'octopress-debugger'
-  gem 'jekyll-compose'
-  gem 'jemoji'
-  gem 'jekyll-livereload'
-  # gem 'jekyll-admin'
-  gem 'jekyll-microtypo'
-  gem 'jekyll-seo-tag'
-end
+# group :jekyll_plugins do
+gem 'jekyll-assets', group: :jekyll_plugins
+gem 'jekyll-archives', group: :jekyll_plugins
+gem 'jekyll-sitemap', group: :jekyll_plugins
+gem 'jekyll-tagging-related_posts', group: :jekyll_plugins
+gem 'jekyll-responsive_image', :github => 'wildlyinaccurate/jekyll-responsive-image', group: :jekyll_plugins
+gem 'algoliasearch-jekyll', '~> 1.0.0.beta.pre.1', group: :jekyll_plugins
+gem 'octopress-autoprefixer', group: :jekyll_plugins
+gem 'jemoji', group: :jekyll_plugins
+gem 'jekyll-livereload', group: :jekyll_plugins
+gem 'jekyll-microtypo', group: :jekyll_plugins
+gem 'jekyll-postfiles', group: :jekyll_plugins
+# end
