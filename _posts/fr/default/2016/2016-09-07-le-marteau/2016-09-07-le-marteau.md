@@ -35,6 +35,6 @@ Dans une mission de conseil en choix de solutions, il y a toujours une des alter
 Mais en général, au final…
 
 <figure>
-  <img src="crying.gif" alt="Zac Efront pleurant"/>
+  <img src="crying.gif" alt="Zac Efron pleurant"/>
   <figcaption>Je finis quand même par être obligé d'intégrer le marteau à l'étude.</figcaption>
 </figure>
