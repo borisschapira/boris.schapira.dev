@@ -45,18 +45,6 @@ defaults:
     values:
       lang: en
       base-url: "en/"
-  - scope:
-      type: cursus
-    values:
-      layout: cursus
-  - scope:
-      type: decks
-    values:
-      layout: deck
-  - scope:
-      type: slides
-    values:
-      layout: slide
 # Exclusions
 exclude:
   - ".cache"
@@ -115,15 +103,6 @@ permalink: :year/:month/:title/
 collections:
   confs:
     output: true
-  slides :
-    output: true
-    permalink: /slides/:path/
-  decks :
-    output: true
-    permalink: /slides/:path/
-  cursus :
-    output: true
-    permalink: /slides/:path/
 
 # EU Cookie law
 eu_cookie_law:
