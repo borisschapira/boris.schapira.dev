@@ -26,8 +26,9 @@
   <!-- Social Media -->
   {% include head-compute-socials.html.liquid %}
 
-  <title itemprop="name">{{ socialTitle }}</title>
-
+  <!-- nomicrotypo -->
+  <title itemprop="name">{{ socialTitle | strip_html }}</title>
+  
   {% capture x_canonical %}x{{ page.canonical }}{% endcapture %}
   {% if x_canonical != "x" %}
     <link rel="canonical" href="{{ page.canonical }}" data-proofer-ignore/>
@@ -77,4 +78,5 @@
   <link rel="manifest" href="/manifest.json?v=sdjfbf4" data-proofer-ignore>
   <link rel="mask-icon" href="/safari-pinned-tab.svg?v=sdjfbf4" color="#5bbad5" data-proofer-ignore>
   <meta name="theme-color" content="{{ themeColor }}">
+  <!-- endnomicrotypo -->
 </head>
