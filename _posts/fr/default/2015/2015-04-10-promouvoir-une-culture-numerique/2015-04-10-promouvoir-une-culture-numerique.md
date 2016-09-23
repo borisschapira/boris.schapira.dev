@@ -27,7 +27,7 @@ Les sujets abordés dépendent, quant-à-eux, des cursus dans lesquels ces inter
 -----------
 
 ## Education Civique
-* Informatique et libertés&nbsp;: un sujet qui aborde les notions de citoyenneté, vie en collectivité, égalité et justice abordés en 4ème
+* Informatique et libertés&nbsp;: un sujet qui aborde les notions de citoyenneté, vie en collectivité, égalité et justice abordés en 4e
 * Internet comme un medium&nbsp;: rappel du rôle des médias et de la protection assurée par leur pluralité. Notion de _doute_ sur les informations trouvées et technique de recoupement.
 * Données personnelles&nbsp;: modélisation et traitement, ce qu'il est possible de savoir sur vous sans le savoir…
 * Harcèlement&nbsp;: en ligne aussi, vous en êtes peut-être victime… ou bourreau. Que faire&nbsp;?
