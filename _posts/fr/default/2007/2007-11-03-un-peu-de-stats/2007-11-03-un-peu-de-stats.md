@@ -7,9 +7,9 @@ tags:
 
 *   Un pagerank **PR4** depuis environ… **8h**&nbsp;! Après tout, ça fait juste 1 an que le blog existe. Il était temps que Google se réveille (on va voir si ça change quelque chose dans les mois qui viennent).</p>
 
-*   **846ème** au **[classement général des blogs - Wikio](http://www.wikio.fr/)** (42331 blogs recensés)
+*   **846e** au **[classement général des blogs - Wikio](http://www.wikio.fr/)** (42331 blogs recensés)
 
-*   **417ème** au **[classement des blogs francophones ayant la bannière rotative Critéo](http://widget.criteo.com/transverse/AutoRollTop?m1=top&amp;m2=2) **(oui mais sur combien en tout&nbsp;?)
+*   **417e** au **[classement des blogs francophones ayant la bannière rotative Critéo](http://widget.criteo.com/transverse/AutoRollTop?m1=top&amp;m2=2) **(oui mais sur combien en tout&nbsp;?)
 
 *   2 216 visiteurs uniques pour Octobre… dont 545 le 26 Octobre grâce à un lien en provenance semble-t-il de [Kokipol](http://www.kopikol.net/?id=34147) (pour un article dont je pensais qu'il n'intéresserait personne… je me demande si ceux à qui ça a plu ont lu celui sur la crise des subprimes… j'aurais bien aimé avoir leur avis).
 
