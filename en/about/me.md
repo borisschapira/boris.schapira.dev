@@ -20,6 +20,4 @@ Specializing in Quality management, Web performance and mobile Web, I'm thrilled
 
 I care a lot, so [I also share a lot](/en/about/sharing/).
 
-
-
 [^1]: my full <i lang="en">résumé</i> is available, in french, [on LinkedIn](https://www.linkedin.com/in/borisschapira CV de Boris SCHAPIRA sur LinkedIn")
