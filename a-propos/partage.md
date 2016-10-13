@@ -2,7 +2,7 @@
 layout: page
 title: Partager, encore et toujours
 date: 2015-10-05 17:15:20
-i18n-key: about-me
+i18n-key: about-share
 permalink: /a-propos/partage/index.html
 ---
 

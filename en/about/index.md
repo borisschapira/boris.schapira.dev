@@ -6,4 +6,4 @@ i18n-key: about
 ---
 
 * [… me ?](/en/about/me/)
-* [… this website ?](/en/about/website/)
+* [… what I share ?](/en/about/sharing/)
