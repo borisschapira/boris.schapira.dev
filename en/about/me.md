@@ -18,7 +18,7 @@ You may have meet me during events or conferences, talking about Service Design
 
 Specializing in Quality management, Web performance and mobile Web, I'm thrilled about understanding the challenges of the new usages and experiences of the users. 
 
-I care a lot, so [I also share a lot](/about/sharing/).
+I care a lot, so [I also share a lot](/en/about/sharing/).
 
 
 
