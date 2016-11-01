@@ -1,8 +1,11 @@
 ---
 title: "Mon pire client a cinq ans"
 description: "Devenir Papa a profondément changé la vision que j’avais de mon métier et de moi même. Être un bon père est un défi de chaque jour qui fait de moi une meilleure personne et m’apporte énormément dans mes responsabilités de consultant en terme de compréhension, de pédagogie, d’accompagnent au succès et, plus souvent qu’à mon goût… de patience."
-date: 2016-05-27
-event: Sud Web 2016
+events: 
+  - name: "Sud Web 2016"
+    date: 2016-05-27 
+  - name: "Agile Tour Bordeaux 2016"
+    date: 2016-10-28
 ---
 
 <div class="videoWrapper">
@@ -44,7 +47,7 @@ J’ai d'abord demandé à mes fils d’avoir la notion du temps, alors qu’ils
 
 Je n’ai pas reconnu leur **frustration** comme **légitime** car **pour moi**, leur activité n’était pas pertinente. En leur **refusant ma considération**, je n’ai pas su reconnaitre et accompagner leur **deuil**.
 
-Ma réaction de colère n’était liée à qu’à **mon propre stress**, à mon incapacité à me projeter plus loin dans la soirée : j’étais énervé parce que je jugeais la situation comme **inconfortable**. Elle ne l’était pas tant que ça et, prise avec humour, aurait pu me faire rire.
+Ma réaction de colère n’était liée à qu’à **mon propre stress**, à mon incapacité à me projeter plus loin dans la soirée : j’étais énervé parce que je jugeais la situation comme **inconfortable**. Elle ne l’était pas tant que ça et, prise avec humour, elle aurait pu me faire rire.
 
 Je n’ai pas su reconnaitre leur **excitation** du soir comme ce qu’elle était : une **peur** que la journée se termine, une inquétude face à l’inconnu. Et je n’ai pas su voir que **la fatigue les empêchaient d’exprimer cette peur**. Ils avaient besoin d’être accompagnés dans un **processus** répété et **identifiable** pour garder leur angoisse **sous contrôle**.
 
@@ -52,8 +55,8 @@ Je n’ai pas su reconnaitre leur **excitation** du soir comme ce qu’elle éta
 
 Dans mon métier, le conseil, on parle souvent de pedagogie, d'éducation, d'accompagnement. Si on n'y fait pas attention, on peut rapidement avoir une attitude paternaliste avec nos clients. Mais **paternaliste n'est pas paternel**.
 
-Être père m'a appris qu'on ne rendait pas service à des personnes en les forçant à rentrer dans notre univers. Qu'on ne pouvait pas les convaincre de force ou par la menace. Accompagné, élever, c'est avant tout paver le chemin et donner des repères, qu'ils soient suivi ou non. Ils sont au moins vu. Inconsciemment, ils participent à l'évolution.
+Être père m'a appris qu'on ne rendait pas service à des personnes en les forçant à rentrer dans notre univers. Qu'on ne pouvait pas les convaincre de force ou par la menace. Accompagné, élever, c'est avant tout paver le chemin et donner des repères, qu'ils soient suivis ou non. Ils sont au moins vu. Inconsciemment, ils participent à l'évolution.
 
-Pour emporter l'adhésion, il faut aborder l'univers de l’autre, se l’approprier  et savoir comment y apporter les éléments essentiels. Il n’y a qu’en entrant soi-même dans les mécanismes internes d’une entreprise ou d’une personne qu’on peut lui offrir le meilleur service.
+Pour emporter l'adhésion, il faut aborder l'univers de l’autre, se l’approprier  et savoir comment y apporter les éléments essentiels. Il n’y a qu’en entrant soi-même dans les mécanismes internes d’une entreprise ou d’un groupe qu’on peut lui offrir le meilleur service, du moins celui qui a la plus grande valeur.
 
-Et souvent, ça implique de donner un peu de sa personne.
+Et souvent, ça implique de donner un peu de sa personne, trouver des moyens détournés et ludiques, utiliser des métaphores narratives (comme ici), apporter de la créativité et de la sérendipité… bref, de l'agilité.
