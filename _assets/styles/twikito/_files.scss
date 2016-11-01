@@ -1,0 +1,8 @@
+[href$=".pdf"]:not(.npe)::after {
+  content: "\00A0(pdf)";
+  font-size: 0.8em;
+}
+[href$=".zip"]:not(.npe)::after {
+  content: "\00A0(zip)";
+  font-size: 0.8em;
+}

@@ -3,10 +3,12 @@ layout: default
 ---
 
 <div class="page">
-  {% if page.date %}
+  {% if page.events %}
   <header class="p-header">
-      {% assign datetime = page.date | date_to_xmlschema %}
-      <time class="p-date dt-published" datetime="{{ datetime }}">{{ page.event }}&nbsp;— {{ page.date | localize: '%A %-d %B %Y', page.lang }}</time>
+      {% for event in page.events %}
+        {% assign datetime = event.date | date_to_xmlschema %}
+        <time class="p-date dt-published" datetime="{{ datetime }}">{{ event.name }}&nbsp;— {{ event.date | localize: '%A %-d %B %Y', page.lang }}</time>
+      {% endfor %}
   </header>
   {% endif %}
   <h2 class="page-title">{{ page.title }}</h2>
