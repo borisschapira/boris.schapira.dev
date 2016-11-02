@@ -16,7 +16,7 @@ Les semaines passent.
 
 Nouvel imprévu sur le projet. La problématique concerne très exactement le domaine sur lequel est intervenu le Toréador. Les retours de l'équipe sont mauvais. Personne ne comprend comment fonctionne le code car rien de ce qui a été ajouté n'a été documenté et les couches d'abstraction utilisées ne font pas partie des _patterns_ maitrisés par l'équipe. Des processus avaient été mis en place sur la Production mais ils ne semblent pas avoir été utilisés. Résultat, l'équipe ne sait plus comment revenir en arrière ou intervenir à nouveau. Le Toréador est injoignable ou trop occupé par un autre projet pour revenir.
 
-L'équipe discute, cherche, émet des hypothèses, teste, analyse les résultats, tente de trouver la meilleure solution et finalement, forte de plusieurs heures de luttes, parvient à remettre le projet sur les rails. Chemin faisant, ils comprennent le code du Toréador mais ne parvienne pas à légitimer sa complexité. Avec leur connaissance de l'application et du besoin du client, ils envisagent une solution plus simple. Malheureusement, les parties-prenantes s'y opposent : trop de temps été dépensé sur ce besoin, il faut passer à la suite.
+L'équipe discute, cherche, émet des hypothèses, teste, analyse les résultats, tente de trouver la meilleure solution et finalement, forte de plusieurs heures de luttes, parvient à remettre le projet sur les rails. Chemin faisant, ils comprennent le code du Toréador mais ne parvienne pas à légitimer sa complexité. Avec leur connaissance de l'application et du besoin du client, ils envisagent une solution plus simple. Malheureusement, les parties-prenantes s'y opposent : trop de temps a été dépensé sur ce besoin, il faut passer à la suite.
 
 ## Un problème de perception
 
