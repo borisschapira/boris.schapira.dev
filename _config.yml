@@ -119,8 +119,8 @@ jekyll-archives:
     - "year"
     - "month"
   layouts:
-    year: "archives-year"
-    month: "archives-month"
+    year: "archives"
+    month: "archives"
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
@@ -137,39 +137,13 @@ assets:
   css_compressor: "scss"
 
 responsive_image:
-  # [Required]
-  # Path to the image template.
   template: _includes/responsive-image.html.liquid
-
-  # [Optional, Default: 85]
-  # Quality to use when resizing images.
   default_quality: 90
-
-  # [Optional, Default: []]
-  # An array of resize configuration objects. Each object must contain at least
-  # a `width` value.
   sizes:
-    - width: 320  # [Required] How wide the resized image will be.
-      quality: 80 # [Optional] Overrides default_quality for this size.
+    - width: 320
+      quality: 80
     - width: 640
-
-  # [Optional, Default: assets]
-  # Use this parameter if your images are stored in subfolders
-  # and you want to keep the folder arrangement
   base_path: assets/images
-
-  # [Optional, Default: assets/resized/%{filename}-%{width}x%{height}.%{extension}]
-  # The template used when generating filenames for resized images. Must be a
-  # relative path.
-  #
-  # Parameters available are:
-  #   %{dirname}     Directory of the file relative to `base_path` (assets/sub/dir/some-file.jpg => sub/dir)
-  #   %{basename}    Basename of the file (assets/some-file.jpg => some-file.jpg)
-  #   %{filename}    Basename without the extension (assets/some-file.jpg => some-file)
-  #   %{extension}   Extension of the file (assets/some-file.jpg => jpg)
-  #   %{width}       Width of the resized image
-  #   %{height}      Height of the resized image
-  #
   output_path_format: assets/resized/%{dirname}/%{width}/%{basename}
 
 emoji:
