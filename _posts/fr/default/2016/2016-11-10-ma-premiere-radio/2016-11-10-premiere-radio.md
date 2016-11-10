@@ -1,5 +1,6 @@
 ---
 title: "Ma première radio"
+main_image: 2016/11/premiere-radio/radio.png
 ---
 
 J'ai été invité par les enfants du club radio de [l'association Ricochet](http://www.ricochetasso.fr/) pour parler du Web et de mon métier. Nous avons aussi parlé de qualité, d'accessibilité, de sécurité… J'ai été très surpris par la maturité des questions posées !
