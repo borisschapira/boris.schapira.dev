@@ -22,7 +22,8 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
-    addressable (2.4.0)
+    addressable (2.5.0)
+      public_suffix (~> 2.0, >= 2.0.2)
     algoliasearch (1.12.0)
       httpclient (~> 2.8.2.4)
       json (>= 1.5.1)
@@ -38,7 +39,7 @@ GEM
       bundler
       rake
       thor (>= 0.14.0)
-    autoprefixer-rails (6.5.1.1)
+    autoprefixer-rails (6.5.3)
       execjs
     awesome_print (1.7.0)
     colorator (1.1.0)
@@ -53,7 +54,7 @@ GEM
     execjs (2.7.0)
     extras (0.1.0)
       forwardable-extended (~> 2.5)
-    fastimage (2.0.0)
+    fastimage (2.0.1)
       addressable (~> 2)
     forwardable-extended (2.6.0)
     gemoji (2.1.0)
@@ -76,7 +77,8 @@ GEM
     http_parser.rb (0.6.0)
     httpclient (2.8.2.4)
     i18n (0.7.0)
-    jekyll (3.2.0)
+    jekyll (3.3.1)
+      addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
@@ -101,10 +103,10 @@ GEM
     jekyll-microtypo (0.0.6)
       jekyll (>= 3.0, < 4.0)
     jekyll-postfiles (2.0.0)
-    jekyll-sass-converter (1.4.0)
+    jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
-    jekyll-sitemap (0.11.0)
-      addressable (~> 2.4.0)
+    jekyll-sitemap (0.12.0)
+      jekyll (~> 3.3)
     jekyll-tagging (1.0.1)
       ruby-nuggets
     jekyll-tagging-related_posts (0.2.1)
@@ -135,7 +137,8 @@ GEM
     parallel (1.9.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
-    rack (1.6.4)
+    public_suffix (2.0.4)
+    rack (1.6.5)
     rake (11.3.0)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
@@ -166,7 +169,7 @@ DEPENDENCIES
   ffi!
   html-proofer
   i18n
-  jekyll (= 3.2)
+  jekyll (~> 3.3)
   jekyll-archives
   jekyll-assets
   jekyll-livereload
@@ -177,7 +180,7 @@ DEPENDENCIES
   jekyll-tagging-related_posts
   jemoji
   octopress-autoprefixer
-  sprockets (= 3.6.3)
+  sprockets (~> 3.6.3)
 
 RUBY VERSION
    ruby 2.3.1p112
