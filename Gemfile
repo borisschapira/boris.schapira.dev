@@ -1,10 +1,10 @@
 source "https://rubygems.org"
 ruby '2.3.1'
 
-gem 'jekyll', '3.2'
+gem 'jekyll', '~>3.3'
 
 gem 'i18n'
-gem 'sprockets', '3.6.3'
+gem 'sprockets', '~>3.6.3'
 
 group :jekyll_tests do
   gem 'ffi', :github => 'ffi/ffi', :branch => 'elcapt'
