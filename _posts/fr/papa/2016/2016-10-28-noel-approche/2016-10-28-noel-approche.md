@@ -14,7 +14,7 @@ Halloween étant passé, les discussions vont déjà bon train à la maison conc
 
 Métalleux, 5 ans, me décrit la moitié d'un magasin de jouets. Tout y passe : des camions, des poupées, des déguisements, des loisirs créatifs, des livres, des vêtements… Pendant ce temps, Baryton reste muet. 
 
-> — Tu pense que tu n'auras pas de cadeaux ?  
+> — Tu penses que tu n'auras pas de cadeaux ?  
 > — Non.  
 > — Tu as été sage, pourtant.  
 > — Oui, je sais. Mais moi je n'ai besoin de rien. Je suis heureux, moi. Il faut que le Père Noël donne des cadeaux aux enfants qui n'ont pas de jouets !
