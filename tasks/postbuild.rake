@@ -29,7 +29,7 @@ namespace :postbuild do
 
     desc "Test if generated website is valid (do not test external links)"
     task :kiss do
-      sh 'htmlproofer ./_site  --disable-external --empty-alt-ignore true --file-ignore "/\.\/_site\/assets\/revealjs\//"'
+      sh 'htmlproofer ./_site  --disable-external --empty-alt-ignore true'
     end
 
     desc "Test the generated website external links"
