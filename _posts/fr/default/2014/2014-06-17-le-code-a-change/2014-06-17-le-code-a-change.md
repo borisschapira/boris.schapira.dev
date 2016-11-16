@@ -1,7 +1,11 @@
 ---
-title: "Le code a changé"
+title: 'Le code a changé'
 tags:
-  - Education
+    - Education
+date: '2014-06-17'
+section: default
+lang: fr
+type: post
 ---
 
 ## ou l'absurdité d'une PPL sur le code à l'Ecole

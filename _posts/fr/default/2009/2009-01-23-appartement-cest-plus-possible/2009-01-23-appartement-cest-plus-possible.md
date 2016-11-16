@@ -1,9 +1,13 @@
 ---
-title: "Appartement, c'est plus possible"
+title: 'Appartement, c''est plus possible'
 tags:
-  - Appartement
-  - "Billet d'humeur"
-  - Me, myself and I
+    - Appartement
+    - 'Billet d''humeur'
+    - 'Me, myself and I'
+date: '2009-01-23'
+section: default
+lang: fr
+type: post
 ---
 
 Gros ras-le-bol et article très personnel (j'aurais prévenu). C'est fini, j'en ai marre. On va trouver autre chose et se casser. 940€ par moi de loyer pour 37m², des murs moisis et maintenant des fuites. Trop, c'est trop.

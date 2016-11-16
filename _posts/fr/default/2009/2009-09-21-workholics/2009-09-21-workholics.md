@@ -1,10 +1,14 @@
 ---
-title: "Workholics"
+title: Workholics
 tags:
-  - Emploi
-  - Technologie
-  - "Billet d'humeur"
-  - SmartPhone
+    - Emploi
+    - Technologie
+    - 'Billet d''humeur'
+    - SmartPhone
+date: '2009-09-21'
+section: default
+lang: fr
+type: post
 ---
 
 L'**avènement** des nouvelles technologies de **mobilité** (ordinateurs de plus en plus léger, wifi, connections sécurisées aux réseaux d'entreprises, smartphones) a développé chez certains cadres une véritable addiction au travail, incitée par une demande accrue des entreprises à pouvoir **joindre leurs collaborateurs n'importe où et n'importe quand**.

@@ -1,8 +1,12 @@
 ---
-title: "L’astuce du jour : LinqPad pour vos requêtes"
-canonical: "http://www.nexeo.fr/blog/2009/10/06/lastuce-du-jour-thread-ou-threadpool/"
+title: 'L’astuce du jour : LinqPad pour vos requêtes'
+canonical: 'http://www.nexeo.fr/blog/2009/10/06/lastuce-du-jour-thread-ou-threadpool/'
 tags:
- - Nexdotnet
+    - Nexdotnet
+date: '2009-10-06'
+section: default
+lang: fr
+type: post
 ---
 
 Aujourd’hui, retour sur une question fondamentale : faut-il utiliser `Thread` ou `ThreadPool` ?

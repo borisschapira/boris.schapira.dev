@@ -1,7 +1,11 @@
 ---
-title: "Rejoignez sur Facebook la cause «&#160;Réformer le régime de retraite des élus&#160;»"
+title: 'Rejoignez sur Facebook la cause «&#160;Réformer le régime de retraite des élus&#160;»'
 categories:
-  - Politique
+    - Politique
+date: '2007-10-03'
+section: default
+lang: fr
+type: post
 ---
 
 > Nous souhai­tons que soit déposé à l’As­sem­blée Natio­nale un amen­de­ment visant à réfor­mer le régime spécial de retraite des élus.

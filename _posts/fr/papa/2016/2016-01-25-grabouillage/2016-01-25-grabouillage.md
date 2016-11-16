@@ -1,5 +1,9 @@
 ---
 title: Grabouillage
+date: '2016-01-25'
+section: papa
+lang: fr
+type: post
 ---
 
 > — Maman, pourquoi tu fais du grabouillage ?

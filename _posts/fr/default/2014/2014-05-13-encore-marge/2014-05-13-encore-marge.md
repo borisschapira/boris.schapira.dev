@@ -1,8 +1,12 @@
 ---
-title: "Encore de la marge…"
+title: 'Encore de la marge…'
 tags:
-  - Front-End
-  - Mobilité
+    - Front-End
+    - Mobilité
+date: '2014-05-13'
+section: default
+lang: fr
+type: post
 ---
 
 ## Pour mieux apprivoiser nos matériels

@@ -1,7 +1,11 @@
 ---
-title: "Demain c'est Noël (Edit : après-demain ?)"
+title: 'Demain c''est Noël (Edit : après-demain ?)'
 tags:
-  - Libellule
+    - Libellule
+date: '2007-12-22'
+section: default
+lang: fr
+type: post
 ---
 
 **Re-Edit**&nbsp;: Elle a fini par arriver, mais on ne sait pas où sont les bagages (qui contenaient notamment les cadeaux de Noël pour la famille)…

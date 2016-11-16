@@ -1,9 +1,13 @@
 ---
-title: "Nouveautés Live Hotmail de Septembre"
+title: 'Nouveautés Live Hotmail de Septembre'
 tags:
-  - Buzz
-  - Windows Live
-  - Windows Live Hotmail
+    - Buzz
+    - 'Windows Live'
+    - 'Windows Live Hotmail'
+date: '2007-08-27'
+section: default
+lang: fr
+type: post
 ---
 
 J'avais déjà annoncé de nombreuses améliorations pour la future version de Live Hotmail. Mais c'est aujourd'hui que je reçois la **fiche technique de la mise à jour Live Hotmail de Septembre** alors autant en faire profiter les autres. Voici la liste des améliorations&nbsp;:

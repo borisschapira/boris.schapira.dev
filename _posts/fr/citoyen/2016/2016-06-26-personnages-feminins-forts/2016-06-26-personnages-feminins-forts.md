@@ -1,7 +1,11 @@
 ---
-title: "Des personnages féminins forts"
+title: 'Des personnages féminins forts'
 tags:
-  - Égalité
+    - Égalité
+date: '2016-06-26'
+section: citoyen
+lang: fr
+type: post
 ---
 
 > Je pense que la vraie force de Sansa c'est qu'elle ne se bat pas. Dans un monde où c'est la solution de base, Sansa est [un] des personnages avec l'évolution la plus intéressante.

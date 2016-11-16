@@ -1,8 +1,12 @@
 ---
-title: "Mails, Messageries, Web… C'est aussi la rentrée des dangers"
+title: 'Mails, Messageries, Web… C''est aussi la rentrée des dangers'
 tags:
-  - Vulgarisation
-series: Dangers du Net
+    - Vulgarisation
+series: 'Dangers du Net'
+date: '2007-08-29'
+section: default
+lang: fr
+type: post
 ---
 
 Lundi matin **Renaud Marcadet**, chef de produit Microsoft Office chez Microsoft France, donnait [sur BFM](http://bfmbusiness.bfmtv.com/) quelques conseils de rentrée pour prendre de bons réflexes avec les mails laissés à l'abandon pendant de longues semaines de dorage de pilule.

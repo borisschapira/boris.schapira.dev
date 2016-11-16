@@ -1,5 +1,9 @@
 ---
-title: "Je suis un Papa"
+title: 'Je suis un Papa'
+date: '2016-06-03'
+section: papa
+lang: fr
+type: post
 ---
 
 Grosse colère du grand.

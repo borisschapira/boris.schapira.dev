@@ -1,12 +1,16 @@
 ---
-title: "Publicité en ligne&nbsp;: un point sur la situation"
+title: 'Publicité en ligne&nbsp;: un point sur la situation'
 i18n-key: online-advertising
 tags:
-  - Publicité
-  - Scripts tiers
-  - Transformation numérique
-  - Presse
-canonical: http://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-point-sur-la-situation/
+    - Publicité
+    - 'Scripts tiers'
+    - 'Transformation numérique'
+    - Presse
+canonical: 'http://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-point-sur-la-situation/'
+date: '2015-10-22'
+section: default
+lang: fr
+type: post
 ---
 
 ## Une guerre aux multiples facettes
@@ -74,7 +78,7 @@ Reste une morale à ne pas oublier : la publicité est une problématique créé
 
 Si vous le pouvez, préférez toujours des *business model* basés sur la plus-value de vos contenus plutôt que sur leur proposition à bas coût, ou sans frais : vous envoyez un mauvais signal et il est dur d’en sortir *a posteriori*.
 
----
+***
 
 ## Aller plus loin, en savoir plus
 
@@ -83,4 +87,4 @@ Quelques liens proposés par des lecteurs :
 * ["What will happend next will amaze you"](http://idlewords.com/talks/what_happens_next_will_amaze_you.htm) de Maciej Cegłowski, proposé par [@akramfares](https://twitter.com/akramfares)
 * ["Publicité en ligne : où va l'argent ?"](https://piacentino.com/jb/2015/publicite-en-ligne-ou-va-largent) de Jb Piacentino, proposé par [@eliesl](https://twitter.com/eliesl)
 
----
+***

@@ -1,7 +1,11 @@
 ---
-title: "[PS3] Heavy Rain"
+title: '[PS3] Heavy Rain'
 tags:
-  - Jeu Video
+    - 'Jeu Video'
+date: '2010-04-04'
+section: default
+lang: fr
+type: post
 ---
 
 Heavy Rain est une exclusivité PS3 réalisée par Quantic Dream, studio à l'origine de [Fahrenheit](http://fr.wikipedia.org/wiki/Fahrenheit_%28jeu_vid%C3%A9o%29) et [The Nomad Soul](http://fr.wikipedia.org/wiki/The_Nomad_Soul), deux excellents jeux ayant reçu à leur sortie de bonnes critiques sans rencontrer leur public. Heavy Rain ne dérogera pas à la règles. Certains adoreront, d'autres détesteront. Car Heavy Rain n'est pas vraiment un jeu vidéo mais une nouvelle implémentation du concept de loisir interactif.

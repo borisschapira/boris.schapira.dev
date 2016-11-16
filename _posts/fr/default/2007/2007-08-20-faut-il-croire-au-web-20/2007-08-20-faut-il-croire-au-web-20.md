@@ -1,8 +1,12 @@
 ---
-title: "Faut-il croire au Web 2.0 ?"
+title: 'Faut-il croire au Web 2.0 ?'
 tags:
-  - Technologie
-  - Web
+    - Technologie
+    - Web
+date: '2007-08-20'
+section: default
+lang: fr
+type: post
 ---
 
 <font face="Calibri">

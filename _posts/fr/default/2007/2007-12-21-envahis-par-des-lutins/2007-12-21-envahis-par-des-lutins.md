@@ -1,9 +1,13 @@
 ---
-title: "Envahis par des lutins"
+title: 'Envahis par des lutins'
 tags:
-  - Insolite
-  - Photos
-  - SGCIB
+    - Insolite
+    - Photos
+    - SGCIB
+date: '2007-12-21'
+section: default
+lang: fr
+type: post
 ---
 
 Prenez une salle de marché très sérieuse (très).

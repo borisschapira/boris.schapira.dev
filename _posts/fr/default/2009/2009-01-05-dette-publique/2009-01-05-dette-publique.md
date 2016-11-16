@@ -1,10 +1,14 @@
 ---
-title: "Dette Publique Française"
+title: 'Dette Publique Française'
 tags:
-  - Finance
-  - Politique
-  - Dette publique
-  - Economie
+    - Finance
+    - Politique
+    - 'Dette publique'
+    - Economie
+date: '2009-01-05'
+section: default
+lang: fr
+type: post
 ---
 
 Au menu aujourd'hui, des éléments de réponse aux questions suivantes :

@@ -1,7 +1,11 @@
 ---
-title: "Silverlight 5 : dernière version ?"
+title: 'Silverlight 5 : dernière version ?'
 tags:
-  - Outils
+    - Outils
+date: '2011-12-12'
+section: default
+lang: fr
+type: post
 ---
 
 L’équipe de développement de Silverlight a annoncé vendredi la disponibilité de Silverlight 5\. Au niveau des nouveautés : l’intégration des objets 3D déjà présents dans XNA, quelques avancées qui rapprochent les expériences dans et hors du navigateur et de nouvelles fonctionnalités pour la lecture vidéo (mode avance rapide avec correction du pitch, par exemple). Mais la vraie plus-value de cette version est la gestion des breackpoints dans les bindings, attendue avec beaucoup d’impatience par la communauté depuis de nombreux mois.

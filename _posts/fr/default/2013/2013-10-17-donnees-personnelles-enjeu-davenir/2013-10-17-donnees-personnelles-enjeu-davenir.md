@@ -1,8 +1,12 @@
 ---
-title: "Nos données personnelles, enjeu d'avenir"
+title: 'Nos données personnelles, enjeu d''avenir'
 tags:
-  - Vie Privée
-  - Scripts Tiers
+    - 'Vie Privée'
+    - 'Scripts Tiers'
+date: '2013-10-17'
+section: default
+lang: fr
+type: post
 ---
 
 J'écrivais l'année dernière, pour [le Train de 13h37](http://letrainde13h37.fr/6/scripts-tiers-appels-induits-ne-perdez-pas-le-controle-de-votre-site/ "&quot;Scripts tiers &amp; appels induits&nbsp;: ne perdez pas le contrôle de votre site&quot; &quot;, LeTrainDe13h37")&nbsp;:

@@ -1,7 +1,11 @@
 ---
-title: "Hairspray, j'ai adoré !"
+title: 'Hairspray, j''ai adoré !'
 categories:
-  - Cinema
+    - Cinema
+date: '2007-09-01'
+section: default
+lang: fr
+type: post
 ---
 
 Sur les conseils de collègues et de voisins, je me suis rendu cet après-midi au cinéma pour une petite pause obscure entre deux joggings (4h de sport dans la semaine, j'avais bien besoin de me remettre…). Je n'ai pas été déçu.

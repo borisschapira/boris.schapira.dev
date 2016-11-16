@@ -1,7 +1,11 @@
 ---
-title: "Une leçon d'Histoire"
+title: 'Une leçon d''Histoire'
 tags:
-  - Me, myself and I
+    - 'Me, myself and I'
+date: '2010-02-24'
+section: default
+lang: fr
+type: post
 ---
 
 Mon père est juif, ma mère est catholique. Aucun des deux n'est pratiquant aussi à l'heure du choix me concernant, ils ont préféré ne pas le faire. Du coup, je ne me posais pas vraiment de questions sur la foi, mais plutôt sur l'Histoire de ma famille. Chaque fois que j'abordais mes origines, on me parlait systématiquement d'Israël. Je ne comprenais pas bien les enjeux issus de l'instauration d'un État juif sur les territoires palestiniens mais j'avais saisi que tout ça me dépassait franchement. En grandissant, j'ai eu la chance d'avoir des professeurs d'Histoire-Géo extraordinaires qui m'ont fait connaître la politique (ce qui ne veut pas dire qu'ils politisaient leurs cours, une nuance qu'on oublie souvent), la vie civique et le sens critique. L'un d'entre eux m'a particulièrement marqué.

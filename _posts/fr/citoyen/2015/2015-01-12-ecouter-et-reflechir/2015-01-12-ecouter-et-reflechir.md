@@ -1,9 +1,13 @@
 ---
-title: "Ecouter et réfléchir"
+title: 'Ecouter et réfléchir'
 tags:
-  - Société
+    - Société
 series:
-  - Charlie Hebdo
+    - 'Charlie Hebdo'
+date: '2015-01-12'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers jours.
@@ -13,7 +17,7 @@ Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers jou
 > Et pourtant, c’est justement ça l’amalgame et la discrimination. Quand il y a eu plusieurs élèves qui ont refusé de faire la minute de silence, mais que celui dont on parle est justement le musulman – je suppose que tous les autres ne l’étaient pas alors pour eux c’est juste de la discipline. Pour le musulman par contre, c’est forcément à cause de la religion.
 >   <cite>["Le désarroi d’une prof qui parle de layout: postCharlie&nbsp;» à ses élèves – Amalgame au quotidien"](https://n.survol.fr/n/le-desarroi-dune-prof-qui-parle-de-charlie-a-ses-eleves-amalgame-au-quotidien), Eric Daspet</cite>
 
----
+***
 
 > —   Dans la majorité des quartiers musulmans, il ne se passe rien.
 >
@@ -21,7 +25,7 @@ Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers jou
 >
 > —   Oui, c'est pareil. Enfin c'est souvent comme ça, quoi.
 
----
+***
 
 > —   Ils disent qu'on ne voit pas assez de musulmans dans les manifestations…
 >
@@ -29,7 +33,7 @@ Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers jou
 >
 > —   Moi ce que j'aimerais bien comprendre, c'est comment il compte "voir" des musulmans. Ils ont des badges&nbsp;? Comment ça se passe&nbsp;?
 
----
+***
 
 > —   On manifeste parce qu'on s'identifie. Ces victimes, c'est un peu nous. C'est une attaque contre les valeurs de la France.
 >
@@ -39,7 +43,7 @@ Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers jou
 >
 > —   Le rapport, c'est que ces juifs étaient aussi français que les journalistes de Charlie. Mais il n'y avait pas 3 millions de personne dans les rues pour eux…
 
----
+***
 
 > —   Les héros n'ont pas tous une cape. Merci, et bravo à ceux qui risquent leur vie pour la nôtre.
 >
@@ -51,12 +55,12 @@ Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers jou
 >
 > —   Non mais Rémi Fraisse, **c'est pas pareil**.
 
----
+***
 
 > Je ne peux m’empêcher de me demander ce qui se serait passé si la cible des fanatiques bas du plafond n’avait pas été Charlie Hebdo mais Valeur Actuelle ou Minute.
 >   <cite>["Charlie"](http://esquisses.clochix.net/2015/01/11/Charlie/), par Clochix</cite>
 
----
+***
 
 > —   Aujourd'hui tout le monde parle de la liberté d'expression, de l'interdiction de brider le discours. Il y a un mois, tout le monde demandait qu'on vire Eric Zemmour et qu'on l'empêche de parler.
 >
@@ -64,22 +68,22 @@ Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers jou
 >
 > —   Ouais, il n'empêche qu'on l'a quand même viré !
 
----
+***
 
 > [Femme très émue, au milieu des manifestations] Aujourd'hui, on est un seul peuple, on est unit. **Français de souche ou musulmans**, finalement, on est tous là.
 
----
+***
 
 <blockquote class="twitter-tweet" lang="fr"><p lang="fr" dir="ltr">Un réseau terroriste forgé presque intégralement en prison. Vous ne voulez toujours pas d&#39;une réforme du système carcéral?</p>&mdash; Robin Berjon (@robinberjon) <a href="https://twitter.com/robinberjon/status/553840819728560128">10 Janvier 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
----
+***
 
 > —   T'as vu, le mec, il était caché sous un évier, derrière les portes battantes.
 >
 > —   Ah ben putain… moi je serais pas rentré. Et je serais mort.
 
----
+***
 
 > —   On manifeste pour nos libertés, et ils nous répondent qu'ils veulent les brider.
 >

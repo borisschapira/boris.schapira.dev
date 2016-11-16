@@ -1,7 +1,11 @@
 ---
-title: "Le sol c'est sale, la preuve par le singe"
+title: 'Le sol c''est sale, la preuve par le singe'
 categories:
-  - Humour
+    - Humour
+date: '2007-09-14'
+section: default
+lang: fr
+type: post
 ---
 
 Petit échange entendu il y a quelques jours… le petit bonhomme comptait moins d'années que les doigts d'une main…

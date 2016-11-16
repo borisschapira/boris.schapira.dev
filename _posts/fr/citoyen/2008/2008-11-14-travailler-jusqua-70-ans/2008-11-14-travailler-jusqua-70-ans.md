@@ -1,9 +1,13 @@
 ---
-title: "Travailler jusqu'à 70 ans"
+title: 'Travailler jusqu''à 70 ans'
 tags:
-  - Emploi
-  - Loi
-  - Société
+    - Emploi
+    - Loi
+    - Société
+date: '2008-11-14'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Dans le cadre du [projet de loi de financement pour 2009](http://www.assemblee-nationale.fr/13/dossiers/plfss_2009.asp) a été votée la **prolongation du travail volontaire jusqu'à 70 ans**. La presse a très largement couvert le sujet pour des raisons plus ou moins discutables. Pour ma part, **j'avoue être inquiet**, mais pas forcément pour les raisons qu'on croit…

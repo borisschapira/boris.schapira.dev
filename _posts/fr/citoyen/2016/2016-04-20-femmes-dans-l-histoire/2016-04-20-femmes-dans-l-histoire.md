@@ -1,9 +1,13 @@
 ---
-title: "Les femmes dans l'Histoire"
+title: 'Les femmes dans l''Histoire'
 main_image: assets/images/2016-04-20/0.jpg
 tags:
-  - HeForShe
-  - Égalité
+    - HeForShe
+    - Égalité
+date: '2016-04-20'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Plusieurs initiatives récentes permettent de rappeler que l'Histoire est écrite par les vainqueurs, c'est-à-dire les hommes, pour les hommes et en prenant bien soin d'en écarter les femmes.

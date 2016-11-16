@@ -1,5 +1,9 @@
 ---
 title: Dinosaures
+date: '2016-02-10'
+section: papa
+lang: fr
+type: post
 ---
 
 > — C'est le gros méchant dinosaure féroce !

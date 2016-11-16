@@ -1,10 +1,14 @@
 ---
-title: "Publicités stupides"
+title: 'Publicités stupides'
 tags:
-  - Société
-  - "Billet d'humeur"
-  - Publicité
-  - Télévision
+    - Société
+    - 'Billet d''humeur'
+    - Publicité
+    - Télévision
+date: '2009-11-02'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Plus ça va, moins je comprends les publicités à la télévision. Outre quelques réclames d'agences innovantes qui arrivent à me surprendre une fois tous les trimestres, c'est absurdité sur absurdité. À croire que nous sommes tous complètement stupides. C'est affligeant.

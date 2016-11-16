@@ -1,5 +1,9 @@
 ---
-title: Partout chez lui
+title: 'Partout chez lui'
+date: '2015-02-22'
+section: papa
+lang: fr
+type: post
 ---
 
 > — A voir la maison de Papa-Maman !

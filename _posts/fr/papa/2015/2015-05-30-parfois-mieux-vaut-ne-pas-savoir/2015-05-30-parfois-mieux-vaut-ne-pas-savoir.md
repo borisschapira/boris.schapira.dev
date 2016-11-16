@@ -1,5 +1,9 @@
 ---
-title: Parfois, mieux vaut ne pas savoir
+title: 'Parfois, mieux vaut ne pas savoir'
+date: '2015-05-30'
+section: papa
+lang: fr
+type: post
 ---
 
 > — Papa, Maman, j'ai vomi !

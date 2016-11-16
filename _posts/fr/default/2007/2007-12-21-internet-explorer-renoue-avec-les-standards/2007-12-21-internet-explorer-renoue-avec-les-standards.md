@@ -1,9 +1,13 @@
 ---
-title: "Internet Explorer renoue avec les standards"
+title: 'Internet Explorer renoue avec les standards'
 tags:
-  - Technologie
-  - Internet Explorer
-  - Web
+    - Technologie
+    - 'Internet Explorer'
+    - Web
+date: '2007-12-21'
+section: default
+lang: fr
+type: post
 ---
 
 C'est annonc&#233; depuis quelques jours par [l'&#233;quipe de d&#233;veloppement](http://web.archive.org/web/20150429200301///blogs.msdn.com/b/ie/archive/2007/12/19/internet-explorer-8-and-acid2-a-milestone.aspx)&nbsp;: une version en d&#233;veloppement d'Internet Explorer valide le test Acid2 de compatibilit&#233; CSS2\. Ca veut dire, dans les grandes lignes, qu'Internet Explorer 8 respectera les standards de la programmation Web d&#233;finit mondialement (ce qui n'est pas tout-&#224;-fait le cas aujourd'hui). </p>

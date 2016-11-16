@@ -1,7 +1,11 @@
 ---
-title: "Comme un seul homme"
+title: 'Comme un seul homme'
 tags:
-  - open source
+    - 'open source'
+date: '2016-03-22'
+section: default
+lang: fr
+type: post
 ---
 
 > Somewhere in the internet there’s a guy named Doug Wilson ([@blipsofadoug](https://twitter.com/blipsofadoug)). And for the past 3 years, he’s the one who’s been taking care of Express for the rest of us.

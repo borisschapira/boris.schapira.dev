@@ -1,6 +1,10 @@
 ---
-title: "Le serpent qui se mord le pneu"
-categories:
+title: 'Le serpent qui se mord le pneu'
+categories: null
+date: '2009-01-26'
+section: default
+lang: fr
+type: post
 ---
 
 **-** Tu vois, je ne comprends pas. Je prends le RER tous les matins et sur le parking, il y a autant de places "handicapés" que de places normales, on ne peut jamais se garer&nbsp;!

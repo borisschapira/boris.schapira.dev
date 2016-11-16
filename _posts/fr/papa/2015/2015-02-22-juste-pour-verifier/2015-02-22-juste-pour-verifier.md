@@ -1,5 +1,9 @@
 ---
-title: Juste pour vérifier
+title: 'Juste pour vérifier'
+date: '2015-02-22'
+section: papa
+lang: fr
+type: post
 ---
 
 > — Dis, chérie, de toi à moi, juste pour vérifier, toi aussi tu as un deuxième toi dans la tête ?

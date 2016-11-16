@@ -1,7 +1,11 @@
 ---
-title: "[Vécu] Avant le décollage…"
+title: '[Vécu] Avant le décollage…'
 tags:
-  - "Billet d'humeur"
+    - 'Billet d''humeur'
+date: '2009-11-10'
+section: default
+lang: fr
+type: post
 ---
 
 Un voyage en avion est toujours une aventure. Même pour un vol court, je n'ai jamais vu un passager n'ayant pas une histoire à raconter. Notre dernier voyage n'a pas échappé à cette règle et je suis sûr que je ne suis pas le seul à trouver certaines situations particulièrement absurdes. Petit (façon de parler) récit de notre début de vol…

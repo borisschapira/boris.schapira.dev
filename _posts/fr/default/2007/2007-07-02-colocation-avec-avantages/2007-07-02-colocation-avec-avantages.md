@@ -1,7 +1,11 @@
 ---
-title: "Colocation avec avantages"
+title: 'Colocation avec avantages'
 tags:
-  - Boulogne
+    - Boulogne
+date: '2007-07-02'
+section: default
+lang: fr
+type: post
 ---
 
 **EDIT&nbsp;:** La réponse de l'intéressée

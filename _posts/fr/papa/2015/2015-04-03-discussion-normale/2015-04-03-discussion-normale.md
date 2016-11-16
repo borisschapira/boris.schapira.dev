@@ -1,5 +1,9 @@
 ---
-title: Discussion normale...
+title: 'Discussion normale...'
+date: '2015-04-03'
+section: papa
+lang: fr
+type: post
 ---
 
 > — On l'avait depuis combien de temps, déjà, le robot hachoir ?

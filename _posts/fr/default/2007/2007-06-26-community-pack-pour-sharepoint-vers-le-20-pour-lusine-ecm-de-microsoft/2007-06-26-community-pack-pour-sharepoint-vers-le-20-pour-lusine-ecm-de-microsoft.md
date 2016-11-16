@@ -1,9 +1,13 @@
 ---
-title: "Community Pack pour SharePoint : vers le «&#160;2.0&#160;» pour l'usine ECM de Microsoft ?"
+title: 'Community Pack pour SharePoint : vers le «&#160;2.0&#160;» pour l''usine ECM de Microsoft ?'
 tags:
-  - AJAX
-  - CodePlex
-  - Sharepoint
+    - AJAX
+    - CodePlex
+    - Sharepoint
+date: '2007-06-26'
+section: default
+lang: fr
+type: post
 ---
 
 Microsoft sort aujourd'hui un pack additionnel pour Microsoft Office SharePoint Server 2007 (MOSS 2007 pour les intimes).

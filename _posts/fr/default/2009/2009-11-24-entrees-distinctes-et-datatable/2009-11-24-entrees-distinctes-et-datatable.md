@@ -1,8 +1,12 @@
 ---
-title: "Entrées distinctes et DataTable"
-canonical: "http://www.nexeo.fr/blog/2009/11/24/entrees-distinctes-et-datatabl/"
+title: 'Entrées distinctes et DataTable'
+canonical: 'http://www.nexeo.fr/blog/2009/11/24/entrees-distinctes-et-datatabl/'
 tags:
- - Nexdotnet
+    - Nexdotnet
+date: '2009-11-24'
+section: default
+lang: fr
+type: post
 ---
 
 Vous avez souvent eu un `DataSet` dont vous vouliez considérer une colonne pour alimenter une liste déroulante pour réaliser, par exemple, un filtre ?

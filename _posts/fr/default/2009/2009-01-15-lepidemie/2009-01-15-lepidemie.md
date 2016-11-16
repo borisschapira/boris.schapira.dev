@@ -1,8 +1,12 @@
 ---
-title: "L'épidémie"
+title: 'L''épidémie'
 tags:
-  - Finance
-  - Economie
+    - Finance
+    - Economie
+date: '2009-01-15'
+section: default
+lang: fr
+type: post
 ---
 
 Le problème a été découvert sur le tard, beaucoup étaient déjà atteints. Les spécialistes, qui jusque-là n'avaient rien vu, ont produit des contre-mesures, pour [aider les victimes](http://www.dossierfamilial.com/argent/droits-demarches/surendettement-des-aides-pour-s-en-sortir,545). Malheureusement, il était déjà trop tard. La plupart d'entre elles vivotaient quelques années puis [finissaient par sombrer](http://blog.credit-immobilier-direct.fr/rachat-credit/victimes-surendettement-credit-revolving-parenthese-radio-kenza-20081215).

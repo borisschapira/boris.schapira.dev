@@ -1,7 +1,11 @@
 ---
-title: "Faire ses vœux pour 2009"
+title: 'Faire ses vœux pour 2009'
 tags:
-  - Nouvel an
+    - 'Nouvel an'
+date: '2008-12-31'
+section: default
+lang: fr
+type: post
 ---
 
 Vous ne trouvez pas qu'il est vraiment difficile de faire ses vœux aujourd'hui&nbsp;? Imaginons que vous vouliez envoyer un message à vos connaissances…

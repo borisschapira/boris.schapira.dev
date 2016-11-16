@@ -1,10 +1,14 @@
 ---
-title: "Chaque jour"
+title: 'Chaque jour'
 main_image: assets/images/shared/he-for-she-logo.jpg
 tags:
-  - HeForShe
-  - Société
-  - Égalité
+    - HeForShe
+    - Société
+    - Égalité
+date: '2014-11-14'
+section: citoyen
+lang: fr
+type: post
 ---
 
 ## \#HeForShe

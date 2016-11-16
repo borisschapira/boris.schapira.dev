@@ -1,10 +1,14 @@
 ---
-title: "L'iPhone, vous allez l'acheter (même si vous n'en voulez pas)"
+title: 'L''iPhone, vous allez l''acheter (même si vous n''en voulez pas)'
 tags:
-  - "Billet d'humeur"
-  - Buzz
-  - iPhone
-  - Publicité
+    - 'Billet d''humeur'
+    - Buzz
+    - iPhone
+    - Publicité
+date: '2007-11-03'
+section: default
+lang: fr
+type: post
 ---
 
 Imaginez, vous allumez votre télé sur le journal d'informations. Le journaliste prend la parole&nbsp;:

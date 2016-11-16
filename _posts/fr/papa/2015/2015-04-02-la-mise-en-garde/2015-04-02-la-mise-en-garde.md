@@ -1,5 +1,9 @@
 ---
-title: La mise en garde
+title: 'La mise en garde'
+date: '2015-04-02'
+section: papa
+lang: fr
+type: post
 ---
 
 En sortie avec le petit dernier de 20 mois :

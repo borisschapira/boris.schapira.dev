@@ -1,8 +1,12 @@
 ---
-title: "Droits et devoirs"
+title: 'Droits et devoirs'
 tags:
-  - Société
-  - Emploi
+    - Société
+    - Emploi
+date: '2015-02-09'
+section: citoyen
+lang: fr
+type: post
 ---
 
 > Chacun a le **devoir** de travailler et le **droit** d'obtenir un emploi.

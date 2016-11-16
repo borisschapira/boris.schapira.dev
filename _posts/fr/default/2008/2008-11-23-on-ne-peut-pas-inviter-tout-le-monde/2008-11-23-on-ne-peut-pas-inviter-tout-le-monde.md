@@ -1,6 +1,10 @@
 ---
-title: "On ne peut pas inviter tout le monde…"
-categories:
+title: 'On ne peut pas inviter tout le monde…'
+categories: null
+date: '2008-11-23'
+section: default
+lang: fr
+type: post
 ---
 
 Quand on prépare son mariage, il faut aussi choisir qui inviter. Honnêtement, si tout était possible, je voudrais inviter la Terre entière à ce grand moment mais il faut bien faire des choix. On ne peut d'abord pas se permettre financièrement d'inviter 500 personnes et de plus, je préfèrerais qu'on ait suffisement peu d'invités à notre mariage pour se rappeler qui était là et pouvoir parler avec tout le monde (même si tous ceux qui se sont mariés m'expliquent à chaque fois que c'est impossible).

@@ -1,10 +1,14 @@
 ---
-title: "Cet article est *.0"
+title: 'Cet article est *.0'
 tags:
-  - Technologie
-  - "Billet d'humeur"
-  - Mobilité
-  - Web
+    - Technologie
+    - 'Billet d''humeur'
+    - Mobilité
+    - Web
+date: '2007-12-10'
+section: default
+lang: fr
+type: post
 ---
 
 S&#233;rieusement, &#231;a ne vous agace pas un peu vous, cette sauce du &quot;2.0&quot;&#160;&nbsp;?</p>

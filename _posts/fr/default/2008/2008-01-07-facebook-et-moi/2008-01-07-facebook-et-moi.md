@@ -1,9 +1,13 @@
 ---
-title: "Facebook et moi"
+title: 'Facebook et moi'
 tags:
-  - Médias Sociaux
-  - Technologie
-  - Facebook
+    - 'Médias Sociaux'
+    - Technologie
+    - Facebook
+date: '2008-01-07'
+section: default
+lang: fr
+type: post
 ---
 
 Quand j&#8217;ai commenc&#233; &#224; l&#8217;utiliser je trouvais le concept frais, novateur et int&#233;ressant. Avoir en un clin d&#8217;&#339;il un contact permanent avec les personnes de sa vie &#233;tait tout de m&#234;me une sacr&#233;e promesse&nbsp;! Un ou deux groupes marrants, l&#8217;inscription &#224; quelques Network pour parfaire mon profil puis quelques applications pour rendre la page de profil plus personnelle, plus riche et voil&#224; que je faisais partie de la communaut&#233; et que je pouvais retrouver mes potes. Grisant. </p>

@@ -1,7 +1,11 @@
 ---
-title: "État d'urgence permanent"
+title: 'État d''urgence permanent'
 tags:
- - "État d'urgence"
+    - 'État d''urgence'
+date: '2015-12-27'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Je ne comprends pas.

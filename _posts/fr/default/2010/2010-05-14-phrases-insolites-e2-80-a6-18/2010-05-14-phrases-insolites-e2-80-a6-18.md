@@ -1,7 +1,11 @@
 ---
-title: "Phrases Insolites… #18"
+title: 'Phrases Insolites… #18'
 series:
-  - Phrases insolites
+    - 'Phrases insolites'
+date: '2010-05-14'
+section: default
+lang: fr
+type: post
 ---
 
 C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!

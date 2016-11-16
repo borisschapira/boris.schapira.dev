@@ -1,7 +1,11 @@
 ---
-title: "Ethique du développement"
+title: 'Ethique du développement'
 tags:
-  - Management
+    - Management
+date: '2011-08-29'
+section: default
+lang: fr
+type: post
 ---
 
 Nous sommes tous de mauvais développeurs dans la mesure où aucun code n’est parfait et où les habitudes des uns ne sont pas celles des autres. Ceci étant dit, ce n’est pas une raison pour ne pas faire attention à la qualité du code qu’on contribue. La qualité de code n’est pas réservée à un responsable donné, pendant une campagne donnée.

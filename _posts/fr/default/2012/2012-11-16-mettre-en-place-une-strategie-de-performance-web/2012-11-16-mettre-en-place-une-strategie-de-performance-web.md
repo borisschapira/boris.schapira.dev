@@ -1,10 +1,14 @@
 ---
-title: "[Sud Web 2012] «&#160;Mettre en place une stratégie de Performance Web&#160;» - Article"
+title: '[Sud Web 2012] «&#160;Mettre en place une stratégie de Performance Web&#160;» - Article'
 tags:
-  - Performance Web
-  - Conférences
-  - Sud Web
-canonical: http://blog.clever-age.com/fr/2012/11/16/comment-mettre-en-place-une-strategie-de-performance-web/
+    - 'Performance Web'
+    - Conférences
+    - 'Sud Web'
+canonical: 'http://blog.clever-age.com/fr/2012/11/16/comment-mettre-en-place-une-strategie-de-performance-web/'
+date: '2012-11-16'
+section: default
+lang: fr
+type: post
 ---
 
 Dans ce nouvel article consacré à la performance Web, nous nous attarderons sur la partie "stratégie et culture d’entreprise" ou comment un enjeu technique peut devenir une aventure de longue haleine…

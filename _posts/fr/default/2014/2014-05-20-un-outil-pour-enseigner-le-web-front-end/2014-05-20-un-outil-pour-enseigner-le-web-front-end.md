@@ -1,12 +1,16 @@
 ---
-title: "Un outil pour enseigner le Web Front-End"
+title: 'Un outil pour enseigner le Web Front-End'
 tags:
-  - Education
-  - Outils
-  - Front-End
-  - Conférences
+    - Education
+    - Outils
+    - Front-End
+    - Conférences
 series:
-  - Sud Web 2014
+    - 'Sud Web 2014'
+date: '2014-05-20'
+section: default
+lang: fr
+type: post
 ---
 
 ## suite d'un atelier Sud Web 2014

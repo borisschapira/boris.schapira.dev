@@ -1,6 +1,10 @@
 ---
-title: "Survivre dans une soirée de blogueurs #3"
-categories:
+title: 'Survivre dans une soirée de blogueurs #3'
+categories: null
+date: '2007-09-29'
+section: default
+lang: fr
+type: post
 ---
 
 _Episodes #1 et #2_</p>

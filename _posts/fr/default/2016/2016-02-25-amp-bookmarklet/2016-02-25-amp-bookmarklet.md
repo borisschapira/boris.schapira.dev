@@ -1,5 +1,9 @@
 ---
-title: "Amp Bookmarklet"
+title: 'Amp Bookmarklet'
+date: '2016-02-25'
+section: default
+lang: fr
+type: post
 ---
 
 Les premières pages <abbr title="Accelerated Mobile Pages">AMP</abbr> apparaissent dans les résultats de recherche Google.

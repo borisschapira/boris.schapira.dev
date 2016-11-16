@@ -1,9 +1,13 @@
 ---
-title: "Scripts tiers&nbsp;: on ne lâche rien !"
+title: 'Scripts tiers&nbsp;: on ne lâche rien !'
 tags:
-  - Scripts Tiers
-  - Performance Web
-canonical: http://blog.clever-age.com/fr/2013/11/28/scripts-tiers-on-ne-lache-rien/
+    - 'Scripts Tiers'
+    - 'Performance Web'
+canonical: 'http://blog.clever-age.com/fr/2013/11/28/scripts-tiers-on-ne-lache-rien/'
+date: '2013-11-28'
+section: default
+lang: fr
+type: post
 ---
 
 Les scripts tiers que nous incluons dans nos sites nous en font perdre le contrôle. Même s’ils nous font gagner du temps ou nous procurent des fonctionnalités difficiles à substituer par un développement interne, il est très difficile d’en maîtriser les impacts en terme de performance, de sécurité, de conformité aux politiques de développement interne, de maintenance… Chaque inclusion est donc la conséquence d’une analyse du "pour" et du "contre"… à condition de savoir mesurer le "contre".

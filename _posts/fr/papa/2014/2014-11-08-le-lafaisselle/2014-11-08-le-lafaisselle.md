@@ -1,5 +1,9 @@
 ---
-title: Le lafaisselle
+title: 'Le lafaisselle'
+date: '2014-11-08'
+section: papa
+lang: fr
+type: post
 ---
 
 > — Papa, surprise !

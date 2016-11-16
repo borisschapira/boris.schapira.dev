@@ -1,5 +1,9 @@
 ---
-title: Chacun sa cuillère
+title: 'Chacun sa cuillère'
+date: '2014-12-20'
+section: papa
+lang: fr
+type: post
 ---
 
 > — Et tu veux quoi comme cuillère ?

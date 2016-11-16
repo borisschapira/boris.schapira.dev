@@ -1,8 +1,12 @@
 ---
-title: "Franck, le gentil rapporteur d'Hadopi"
+title: 'Franck, le gentil rapporteur d''Hadopi'
 tags:
-  - Numérique
+    - Numérique
 series: Hadopi
+date: '2009-03-11'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Cher Franck, toi le rapporteur du texte “Création et internet”, toi qui viens de donner [une interview à Challenges dans laquelle tu réponds aux critiques](http://www.challenges.fr/high-tech/), il faut qu'on parle. Sais-tu que tes réponses m'ont tellement choqué que j'ai décidé d'arrêter le [Black Out](http://www.laquadrature.net/fr/black-out-et-apres) complet de mon site&nbsp;? De toutes façons, l'examen est en train d'être saucissonné en nombreuses séances éparses, comme tout texte sensible qu'on essaie d'étouffer, et il devient de plus en plus dur de marquer le coup médiatiquement… Au moins les medias se sont-il décidé à en parler, ce n'est déjà pas si mal.

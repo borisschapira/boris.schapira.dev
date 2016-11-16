@@ -1,9 +1,13 @@
 ---
-title: "GitHub, l’Open-Source qui conquiert le monde"
+title: 'GitHub, l’Open-Source qui conquiert le monde'
 tags:
-  - Transformation numérique
-  - Open Source
-canonical: http://blog.clever-age.com/fr/2013/11/14/github-l-open-source-qui-conquiert-le-monde/
+    - 'Transformation numérique'
+    - 'Open Source'
+canonical: 'http://blog.clever-age.com/fr/2013/11/14/github-l-open-source-qui-conquiert-le-monde/'
+date: '2013-11-14'
+section: default
+lang: fr
+type: post
 ---
 
 Difficile pour un développeur, en 2013, de ne pas savoir se servir de GitHub. Bien que jeune, la plate-forme d’hébergement de projets logiciels est probablement aujourd’hui le plus gros dépôt collaboratif du monde avec plus de trois millions d’utilisateurs et six millions de dépôts.

@@ -1,5 +1,9 @@
 ---
 title: 'Ressemblance #2'
+date: '2015-06-18'
+section: papa
+lang: fr
+type: post
 ---
 
 > — Et on t'a déjà dit que tu me ressemblais beaucoup quand j'étais petit ?

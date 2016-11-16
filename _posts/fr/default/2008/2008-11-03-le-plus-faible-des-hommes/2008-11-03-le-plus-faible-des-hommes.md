@@ -1,8 +1,12 @@
 ---
-title: "Le plus faible des hommes"
+title: 'Le plus faible des hommes'
 tags:
-  - Me, myself and I
-  - Mariage
+    - 'Me, myself and I'
+    - Mariage
+date: '2008-11-03'
+section: default
+lang: fr
+type: post
 ---
 
 Les films mentent. Le moment parfait ne vient jamais tout seul. Les mots les plus élaborés s'oublient très vite et les situations les mieux préparées… ne se déroulent jamais comme prévues. Hugh Grant est un tricheur.

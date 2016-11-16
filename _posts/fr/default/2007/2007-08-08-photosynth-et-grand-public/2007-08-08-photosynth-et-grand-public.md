@@ -1,9 +1,13 @@
 ---
-title: "PhotoSynth et grand public"
+title: 'PhotoSynth et grand public'
 tags:
-  - Buzz
-  - PhotoSynth
-  - Windows Live
+    - Buzz
+    - PhotoSynth
+    - 'Windows Live'
+date: '2007-08-08'
+section: default
+lang: fr
+type: post
 ---
 
 J'ai tenté de reprendre un article pas si vieux (j'en ai juste posté 280 depuis) pour rendre son argumentaire plus clair. Voyons-voir si j'y arrive.

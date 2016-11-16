@@ -1,8 +1,12 @@
 ---
-title: "DRM, le rôle de Microsoft"
+title: 'DRM, le rôle de Microsoft'
 tags:
-  - Vie privée
-  - Numérique
+    - 'Vie privée'
+    - Numérique
+date: '2007-03-14'
+section: default
+lang: fr
+type: post
 ---
 
 Maxime, un ami Esieen, pose de justes questions dans un commentaire de mon précédent article qui mérite une réponse. J'ai fait quelques coupes dans le commentaires original pour aller à l'essentiel, mais vous pouvez le retrouver ici.

@@ -1,7 +1,11 @@
 ---
-title: "L'histoire d'Hadopi se répète"
+title: 'L''histoire d''Hadopi se répète'
 tags:
-  - Hadopi
+    - Hadopi
+date: '2009-06-30'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Alors qu'Hadopi 2 fait parler de lui, il est bon de regarder du côté d'Hadopi premier du nom…

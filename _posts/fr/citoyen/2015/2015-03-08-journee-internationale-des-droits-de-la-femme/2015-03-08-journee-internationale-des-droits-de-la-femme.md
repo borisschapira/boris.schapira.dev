@@ -1,10 +1,14 @@
 ---
-title: "Journée Internationale des Droits de la Femme"
+title: 'Journée Internationale des Droits de la Femme'
 main_image: assets/images/shared/he-for-she-logo.jpg
 tags:
-  - HeForShe
-  - Société
-  - Égalité
+    - HeForShe
+    - Société
+    - Égalité
+date: '2015-03-08'
+section: citoyen
+lang: fr
+type: post
 ---
 
 J'ai beaucoup réfléchi à ce que je pourrais faire d'utile de cette "journée". J'ai fini par aller voir ma femme pour lui poser la question très sérieusement…

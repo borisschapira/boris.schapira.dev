@@ -1,5 +1,9 @@
 ---
-title: Reconnaissant mais pas trop
+title: 'Reconnaissant mais pas trop'
+date: '2015-07-19'
+section: papa
+lang: fr
+type: post
 ---
 
 > — Papa, pardon.

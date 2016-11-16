@@ -1,9 +1,13 @@
 ---
-title: "Ces bénéfices qui font tâche"
+title: 'Ces bénéfices qui font tâche'
 tags:
-  - Société
-  - Publicité
-  - Tabac
+    - Société
+    - Publicité
+    - Tabac
+date: '2007-08-20'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Comme beaucoup d'entre vous, je ([re](http://www.suchablog.com/toxic-corp-une-pub-anti-tabac-interdite/))découvre la publicité contre le tabac "Toxic Corp."

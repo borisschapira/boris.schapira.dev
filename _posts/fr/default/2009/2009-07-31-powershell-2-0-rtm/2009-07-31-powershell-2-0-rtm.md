@@ -1,8 +1,12 @@
 ---
-title: "PowerShell 2.0 RTM"
-canonical: "http://www.nexeo.fr/blog/2009/07/31/powershell-2-0-rtm/"
+title: 'PowerShell 2.0 RTM'
+canonical: 'http://www.nexeo.fr/blog/2009/07/31/powershell-2-0-rtm/'
 tags:
- - Nexdotnet
+    - Nexdotnet
+date: '2009-07-31'
+section: default
+lang: fr
+type: post
 ---
 
 A l’instar des systèmes d’exploitation Windows 7 et Windows Server 2008 R2, **PowerShell 2** vient lui aussi de passer en [version RTM](http://blogs.technet.com/powershell/archive/2009/07/28/windows-powershell-2-0-est-rtm.aspx). Logique, puisque PowerShell 2 sera intégré dans ces deux systèmes dès leur sortie.

@@ -1,7 +1,11 @@
 ---
-title: "BNP-Paribas EcoTV : Subprimes & Croissance (Subprimes & Economic Growth)"
+title: 'BNP-Paribas EcoTV : Subprimes & Croissance (Subprimes & Economic Growth)'
 categories:
-  - Finance
+    - Finance
+date: '2007-09-09'
+section: default
+lang: fr
+type: post
 ---
 
 <div>Petite découverte dans ma recherche d'explications du monde de la finance en ligne, les podcasts EcoTV de la BNP-Paribas. Je trouve l'initiative très bonne et je me demande si d'autres grandes banques ont la même démarche.</div>

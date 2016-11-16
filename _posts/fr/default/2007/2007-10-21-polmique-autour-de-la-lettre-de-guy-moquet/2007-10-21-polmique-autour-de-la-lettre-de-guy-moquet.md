@@ -1,7 +1,11 @@
 ---
-title: "Polémique autour de la «&#160;Lettre de Guy Moquet&#160;»"
+title: 'Polémique autour de la «&#160;Lettre de Guy Moquet&#160;»'
 categories:
-  - Politique
+    - Politique
+date: '2007-10-21'
+section: default
+lang: fr
+type: post
 ---
 
 **_---_**

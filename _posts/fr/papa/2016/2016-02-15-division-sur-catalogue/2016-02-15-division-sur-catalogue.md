@@ -1,9 +1,13 @@
 ---
-title: "Division"
+title: Division
 tags:
-  - HeForShe
-  - Égalité
+    - HeForShe
+    - Égalité
 series: Diviser
+date: '2016-02-15'
+section: papa
+lang: fr
+type: post
 ---
 
 ## sur catalogue

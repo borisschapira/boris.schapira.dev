@@ -1,7 +1,11 @@
 ---
-title: "Emploi, précarité, stages et auto-rêve"
+title: 'Emploi, précarité, stages et auto-rêve'
 tags:
-  - Emploi
+    - Emploi
+date: '2010-03-06'
+section: default
+lang: fr
+type: post
 ---
 
 Aujourd'hui en France, certains luttent contre la précarité et essaie de s'assurer un quotidien prévisible grâce à un emploi stable. Pas d'emploi ou une période d'essai en cours, c'est l'impossibilité de souscrire un prêt à un taux raisonnable, des difficultés pour louer un appartement, l'incertitude de savoir si on pourra payer les courses du mois prochain. La crainte du chômage rend les gens suspicieux. Et on se prend à rêver de réussite facile, pour sortir des emmerdes.

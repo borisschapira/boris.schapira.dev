@@ -1,8 +1,12 @@
 ---
-title: "Phrases Insolites… #15"
+title: 'Phrases Insolites… #15'
 tags:
-  - Humour
-  - Insolite
+    - Humour
+    - Insolite
+date: '2009-10-02'
+section: default
+lang: fr
+type: post
 ---
 
 _C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!_

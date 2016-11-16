@@ -1,8 +1,12 @@
 ---
-title: "Préparation au mariage religieux"
+title: 'Préparation au mariage religieux'
 tags:
-  - Me, myself and I
-  - Mariage
+    - 'Me, myself and I'
+    - Mariage
+date: '2009-03-27'
+section: default
+lang: fr
+type: post
 ---
 
 Bon, je vais être honnête, les trucs religieux bien-pensants, ce n'est pas ma tasse de thé. J'ai fait mon collège et mon lycée chez les jésuites, j'ai appris plein de choses intéressantes, mais pour ce qui est du dogme ou de la foi, j'en suis très loin. De toutes façons, je ne suis même pas baptisé. Autant dire que c'était mal parti. Et pourtant…

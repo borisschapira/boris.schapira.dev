@@ -1,7 +1,11 @@
 ---
-title: "Découvrez et formez-vous avec le Coach C#"
+title: 'Découvrez et formez-vous avec le Coach C#'
 tags:
-  - .NET
+    - .NET
+date: '2007-05-07'
+section: default
+lang: fr
+type: post
 ---
 
 Source&nbsp;: [Centre de développement C#](http://msdn.microsoft.com/en-us/vstudio/bb409645.aspx)

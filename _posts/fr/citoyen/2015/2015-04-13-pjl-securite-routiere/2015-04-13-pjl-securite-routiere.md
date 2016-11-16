@@ -1,9 +1,13 @@
 ---
-title: "PJL Sécurité Routière"
+title: 'PJL Sécurité Routière'
 tags:
-  - Numérique
+    - Numérique
 series:
-  - Loi Renseignement
+    - 'Loi Renseignement'
+date: '2015-04-13'
+section: citoyen
+lang: fr
+type: post
 ---
 
 > La menace sur nos routes était insupportable&nbsp;: plus de 3000 morts par an, vous imaginez&nbsp;?

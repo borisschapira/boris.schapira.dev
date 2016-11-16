@@ -1,9 +1,13 @@
 ---
-title: "Preview - Final Fantasy XIII"
+title: 'Preview - Final Fantasy XIII'
 tags:
-  - Jeu Video
-  - Final Fantasy
-  - Playstation
+    - 'Jeu Video'
+    - 'Final Fantasy'
+    - Playstation
+date: '2009-05-18'
+section: default
+lang: fr
+type: post
 ---
 
 La soirée Final Fantasy à laquelle Playstation m'a convié m'a donné l'occasion de visionner la version Blu-Ray d'Advent Children, mais elle m'a aussi permis de mettre la main sur la démo d'un des prochains opus de la plus célèbre série de RPG de tous les temps&nbsp;: Final Fantasy XIII. Prévu pour sortir en 2010, Final Fantasy XIII affiche des **graphismes spectaculaires** et des animations d'un niveau exemplaire, quoique peu nombreuses dans cette démo.

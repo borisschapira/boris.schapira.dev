@@ -1,10 +1,14 @@
 ---
-title: "«&#160;What Would Google Do&#160;», Jeff Jarvis"
+title: '«&#160;What Would Google Do&#160;», Jeff Jarvis'
 tags:
-  - Littérature
-  - Technologie
-  - Medias
-  - Web
+    - Littérature
+    - Technologie
+    - Medias
+    - Web
+date: '2009-10-20'
+section: default
+lang: fr
+type: post
 ---
 
 _**What Would Google Do**, que vous trouverez en français sous le titre __La Méthode Google est un essai de Jeff Jarvis, professeur de journalisme à NYU et homme de medias. Il y dissèque la stratégie de Google pour en extraire quelques grands principes et ensuite les appliquer à plusieurs types d'entreprises._

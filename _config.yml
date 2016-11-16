@@ -8,9 +8,6 @@
 # Lang configuration
 lang: fr
 base-url: "/"
-formation:
-  assets:
-    url: "/assets/images/formation/"
 defaults:
   - scope:
       path: ""
@@ -37,11 +34,6 @@ defaults:
       category: Citoyen
   - scope:
       path: "en"
-    values:
-      lang: en
-      base-url: "en/"
-  - scope:
-      path: "_posts/en"
     values:
       lang: en
       base-url: "en/"

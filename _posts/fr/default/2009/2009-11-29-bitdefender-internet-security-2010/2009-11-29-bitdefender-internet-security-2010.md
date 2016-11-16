@@ -1,7 +1,11 @@
 ---
-title: "BitDefender Internet Security 2010"
+title: 'BitDefender Internet Security 2010'
 categories:
-  - Technologie
+    - Technologie
+date: '2009-11-29'
+section: default
+lang: fr
+type: post
 ---
 
 _En sortant de la dernière Mixblog, j'ai reçu comme chaque blogueur un sac contenant un certain nombre de cadeaux dont une boite **BitDefender Internet Security 2010**. Même si je ne suis pas un professionnel des antivirus, je tenais à remercier BitDefender en installant BIS 2010 sur mon Windows 7…_

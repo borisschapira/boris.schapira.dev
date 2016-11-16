@@ -1,7 +1,11 @@
 ---
-title: "Le thread le plus drôle depuis bien longtemps…"
+title: 'Le thread le plus drôle depuis bien longtemps…'
 categories:
-  - Humour
+    - Humour
+date: '2009-02-23'
+section: default
+lang: fr
+type: post
 ---
 
 Ça se passe chez Henri Michel. Le principe est simple&nbsp;: raconter un film ou une émission à l'envers, en quelques mots. Les résultats sont assez vite hilarants.

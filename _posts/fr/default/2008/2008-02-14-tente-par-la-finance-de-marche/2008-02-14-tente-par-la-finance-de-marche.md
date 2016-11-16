@@ -1,8 +1,12 @@
 ---
-title: "Tenté par un stage en Finance de Marché ?"
+title: 'Tenté par un stage en Finance de Marché ?'
 tags:
-  - SGCIB
-  - Stage
+    - SGCIB
+    - Stage
+date: '2008-02-14'
+section: default
+lang: fr
+type: post
 ---
 
 Vous êtes étudiant de formation Ingénieur niveau Bac +5.

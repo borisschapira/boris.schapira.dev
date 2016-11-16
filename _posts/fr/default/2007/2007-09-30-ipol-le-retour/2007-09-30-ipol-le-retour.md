@@ -1,7 +1,11 @@
 ---
-title: "Ipol : le retour"
+title: 'Ipol : le retour'
 categories:
-  - Politique
+    - Politique
+date: '2007-09-30'
+section: default
+lang: fr
+type: post
 ---
 
 A l'origine, Ipol était un blog journalistique (tenu par des professionnels de Canal+, Paris Première, Reservoir Prod, Image et compagnie) qui diffusait de manière hebdomadaire une émission de quelques minutes sur la campagne présidentielle telle qu'elle était vécue en ligne. Ipol revenait ainsi régulièrement sur les ouvertures et mises-à-jour de sites politiques, sur les réunions politiques impliquant des blogueurs ou plus généralement ce média participatif (LE mot tendance des présidentielles 2007) qu'est le web.

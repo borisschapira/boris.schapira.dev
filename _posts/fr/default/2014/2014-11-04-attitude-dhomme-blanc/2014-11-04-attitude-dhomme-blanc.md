@@ -1,8 +1,12 @@
 ---
-title: "Attitude d'homme blanc"
+title: 'Attitude d''homme blanc'
 tags:
-  - Front-End
-  - Accessibilité
+    - Front-End
+    - Accessibilité
+date: '2014-11-04'
+section: default
+lang: fr
+type: post
 ---
 
 > En juin dernier, Fiona Taylor Gorringe soulevait une question intéressante sur son blog&nbsp;:

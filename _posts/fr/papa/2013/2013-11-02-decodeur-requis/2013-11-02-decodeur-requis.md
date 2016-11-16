@@ -1,5 +1,9 @@
 ---
-title: Décodeur requis
+title: 'Décodeur requis'
+date: '2013-11-02'
+section: papa
+lang: fr
+type: post
 ---
 
 > — Papa, papa !

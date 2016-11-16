@@ -1,7 +1,11 @@
 ---
-title: "Le syndrôme du marteau"
+title: 'Le syndrôme du marteau'
 tags:
-  - Conseil
+    - Conseil
+date: '2016-09-07'
+section: default
+lang: fr
+type: post
 ---
 
 Dans une mission de conseil en choix de solutions, il y a toujours une des alternatives qui se retrouve là pour des raisons politiques évidentes, tant elle est loin du besoin. J'appelle ça **le syndrôme du marteau**.
@@ -28,13 +32,13 @@ Dans une mission de conseil en choix de solutions, il y a toujours une des alter
 
 
 <figure>
-  <img src="not-hurting.gif" alt="Rachel Mac Adams, en robe de soirée, regard triste, prononce en anglais la phrase : 'I'm notre trying to hurt you' — 'Je n'essaie pas de te faire du mal'"/>
+  <img src="{{ page.url }}not-hurting.gif" alt="Rachel Mac Adams, en robe de soirée, regard triste, prononce en anglais la phrase : 'I'm notre trying to hurt you' — 'Je n'essaie pas de te faire du mal'"/>
   <figcaption>Ça me met dans cet état.</figcaption>
 </figure>
 
 Mais en général, au final…
 
 <figure>
-  <img src="crying.gif" alt="Zac Efron pleurant"/>
+  <img src="{{ page.url }}crying.gif" alt="Zac Efron pleurant"/>
   <figcaption>Je finis quand même par être obligé d'intégrer le marteau à l'étude.</figcaption>
 </figure>

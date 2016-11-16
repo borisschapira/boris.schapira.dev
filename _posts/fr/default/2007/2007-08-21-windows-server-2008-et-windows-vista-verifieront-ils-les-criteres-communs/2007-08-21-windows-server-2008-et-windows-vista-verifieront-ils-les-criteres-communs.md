@@ -1,9 +1,13 @@
 ---
-title: "Windows Server 2008 et Windows Vista vérifieront-ils les Critères Communs ?"
+title: 'Windows Server 2008 et Windows Vista vérifieront-ils les Critères Communs ?'
 tags:
-  - Technologie
-  - Windows Server 2008
-  - Windows Vista
+    - Technologie
+    - 'Windows Server 2008'
+    - 'Windows Vista'
+date: '2007-08-21'
+section: default
+lang: fr
+type: post
 ---
 
 Les Critères Communs, décrits par le [NIAP](https://www.niap-ccevs.org/index.cfm?&amp;CFID=271507&amp;CFTOKEN=510b74cc682fa98f-789578AF-A471-243B-5D522F6FC64D77AE), définissent des standards en termes d'objectifs de sécurité et de conformité à  ces objectifs.

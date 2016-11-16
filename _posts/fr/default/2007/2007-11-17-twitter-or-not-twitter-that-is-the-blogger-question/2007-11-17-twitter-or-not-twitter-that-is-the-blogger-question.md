@@ -1,9 +1,13 @@
 ---
-title: "Que vaut Twitter ?"
+title: 'Que vaut Twitter ?'
 tags:
-  - Technologie
-  - "Billet d'humeur"
-  - Microblogging
+    - Technologie
+    - 'Billet d''humeur'
+    - Microblogging
+date: '2007-11-17'
+section: default
+lang: fr
+type: post
 ---
 
 Pour l'instant j'utilise Frazr comme microblog pour afficher des phrases en rotation dans un widget. Ce que j'aime bien chez Frazr, c'est la simplicité. L'interface est épurée et les fonctionnalités ne sont pas compliquées non plus. Tout est clair et joliment présenté, ce qui a le mérite de rendre le microblog plus agréable que quand j'avais commencé sur Twitter.

@@ -1,7 +1,11 @@
 ---
-title: "Microsoft : 2 nouveaux centres de sécurité en Europe"
+title: 'Microsoft : 2 nouveaux centres de sécurité en Europe'
 categories:
-  - Technologie
+    - Technologie
+date: '2007-04-27'
+section: default
+lang: fr
+type: post
 ---
 
 Poursuivant la politique de lutte contre les applications malveillantes entamée par l'entreprise, Vinny Gulloto (un responsable de chez Microsoft) vient d'annoncer la création de deux centres de protection à Dublin et Tokyo.

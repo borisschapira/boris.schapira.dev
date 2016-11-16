@@ -1,8 +1,12 @@
 ---
-title: "Hadopi : les «&#160;Pirates&#160;» ont bon dos"
+title: 'Hadopi : les «&#160;Pirates&#160;» ont bon dos'
 tags:
-  - Numérique
+    - Numérique
 series: Hadopi
+date: '2009-03-18'
+section: citoyen
+lang: fr
+type: post
 ---
 
 C'est quand même bien pratique, le vocabulaire. Prenez un groupe de gens qui télécharge de la musique ou des films sur Internet. Parmi eux, vous avez des gens conscients qu'ils nuisent à un certain système de rémunération des artistes, mais qui le font quand même. D'autres ne pensent nuire qu'aux majors, qui elles-même nuisent aux artistes en les exploitant. D'autres ne sont pas conscients d'enfreindre un système et ne se sont jamais posés la question, se contentant de reproduire un schéma social… Leurs différences ne sont pas importantes&nbsp;: ils téléchargent tous de la musique. Ce sont des **Pirates**.

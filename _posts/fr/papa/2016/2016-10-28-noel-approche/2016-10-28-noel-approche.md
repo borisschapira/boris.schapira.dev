@@ -1,5 +1,9 @@
 ---
-title: Noël approche
+title: 'Noël approche'
+date: '2016-10-28'
+section: papa
+lang: fr
+type: post
 ---
 
 Halloween étant passé, les discussions vont déjà bon train à la maison concernant Noël.

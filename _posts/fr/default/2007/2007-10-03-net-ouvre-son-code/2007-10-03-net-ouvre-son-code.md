@@ -1,8 +1,12 @@
 ---
-title: ".NET ouvre son code"
+title: '.NET ouvre son code'
 tags:
-  - Développement
-  - .NET
+    - Développement
+    - .NET
+date: '2007-10-03'
+section: default
+lang: fr
+type: post
 ---
 
 Un des gros reproches (parfois à raison) du monde du libre envers le Framework .NET est l'impossibilité de voir exactement ce qui s'y déroule. Microsoft a décidé d'y remédier en publiant une partie du code source du framework .NET dès février 2008.

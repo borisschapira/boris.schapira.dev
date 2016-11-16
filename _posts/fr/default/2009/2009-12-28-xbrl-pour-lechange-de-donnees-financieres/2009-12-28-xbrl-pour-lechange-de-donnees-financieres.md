@@ -1,9 +1,13 @@
 ---
-title: "XBRL pour l'échange de données financières"
+title: 'XBRL pour l''échange de données financières'
 tags:
-  - Finance
-  - Technologie
-  - Economie
+    - Finance
+    - Technologie
+    - Economie
+date: '2009-12-28'
+section: default
+lang: fr
+type: post
 ---
 
 Je vous propose aujourd'hui une introduction au <acronym title="eXtensible Business Reporting Language">XBRL</acronym>, langage dont vous avez sûrement déjà entendu / vous entendrez parler durant les prochaines années dans la sphère informatico-financière…</em>

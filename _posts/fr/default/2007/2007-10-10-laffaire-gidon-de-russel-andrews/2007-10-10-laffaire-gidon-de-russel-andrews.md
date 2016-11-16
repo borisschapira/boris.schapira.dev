@@ -1,7 +1,11 @@
 ---
-title: "«&#160;L'affaire Gidéon&#160;», Russel Andrews"
+title: '«&#160;L''affaire Gidéon&#160;», Russel Andrews'
 categories:
-  - Littérature
+    - Littérature
+date: '2007-10-10'
+section: default
+lang: fr
+type: post
 ---
 
 _Heureusement que ma Libellule est là pour me rappeller à l’ordre&nbsp;: cela fait plus d’une semaine que j’ai dévoré l’Affaire Gideon, et pas un article pour en parler. J’ai une excuse&nbsp;: je m’en remettais._

@@ -1,8 +1,12 @@
 ---
-title: "Silverlight, nouveau nom de WPF/E"
+title: 'Silverlight, nouveau nom de WPF/E'
 tags:
-  - Développement
-  - Silverlight
+    - Développement
+    - Silverlight
+date: '2007-04-16'
+section: default
+lang: fr
+type: post
 ---
 
 WPF existait en version embarquable sur XP et MacOS sous le nom WPF/E ("E" pour Everywhere). Il faudra désormais l'appelé Silverlight. De plus amples informations devraient être disponibles sous peu sur [le site dédié](http://www.microsoft.com/silverlight/).

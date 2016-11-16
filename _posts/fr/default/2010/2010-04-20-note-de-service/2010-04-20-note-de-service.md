@@ -1,7 +1,11 @@
 ---
-title: "En province"
+title: 'En province'
 tags:
-  - Me, myself and I
+    - 'Me, myself and I'
+date: '2010-04-20'
+section: default
+lang: fr
+type: post
 ---
 
 En ce moment, j'ai plein d'envies. Depuis que je suis parti de Paris, en fait. Avec plus de deux heures par jour passées sous terre, la Ville Lumière me rendait surtout aveugle. Depuis mon retour à Bordeaux, je vois à nouveau et je respire.

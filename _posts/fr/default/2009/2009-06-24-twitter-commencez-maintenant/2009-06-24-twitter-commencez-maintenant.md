@@ -1,8 +1,12 @@
 ---
-title: "Twitter : commencez maintenant"
+title: 'Twitter : commencez maintenant'
 tags:
-  - Technologie
-  - Microblogging
+    - Technologie
+    - Microblogging
+date: '2009-06-24'
+section: default
+lang: fr
+type: post
 ---
 
 Twitter est un peu plus qu'un phénomène de mode. C'est un outil disruptif qui modifie la perception que l'on peut avoir d'Internet. Le fil d'actualités de Facebook sans l'inutile autour. Le strict nécessaire.

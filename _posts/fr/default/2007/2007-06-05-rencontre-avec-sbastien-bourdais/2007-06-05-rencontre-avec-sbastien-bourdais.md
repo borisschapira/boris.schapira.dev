@@ -1,10 +1,14 @@
 ---
-title: "Rencontre avec Sébastien Bourdais"
+title: 'Rencontre avec Sébastien Bourdais'
 tags:
-  - Jeu Video
-  - Forza Motorsport 2
-  - Sébastien Bourdais
-  - XBox360
+    - 'Jeu Video'
+    - 'Forza Motorsport 2'
+    - 'Sébastien Bourdais'
+    - XBox360
+date: '2007-06-05'
+section: default
+lang: fr
+type: post
 ---
 
 Hier, j'ai rencontré [Sébastien Bourdais](http://www.sebastien-bourdais.com/), triple champion du monde de Champcar (je n'y connais pas grand chose, mais j'ai compris que c'était un peu comme la F1 à ceci près que tout le monde court sur la même voiture donc seul le talent du pilote compte).

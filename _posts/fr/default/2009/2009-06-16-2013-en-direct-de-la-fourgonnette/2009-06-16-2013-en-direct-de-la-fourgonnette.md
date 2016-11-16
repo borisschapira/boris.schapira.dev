@@ -1,11 +1,15 @@
 ---
-title: "2013 en direct de la fourgonnette"
+title: '2013 en direct de la fourgonnette'
 tags:
-  - Humour
-  - Politique
-  - "Billet d'humeur"
-  - Hadopi
-  - Microsoft
+    - Humour
+    - Politique
+    - 'Billet d''humeur'
+    - Hadopi
+    - Microsoft
+date: '2009-06-16'
+section: default
+lang: fr
+type: post
 ---
 
 Témoignage en direct du futur :

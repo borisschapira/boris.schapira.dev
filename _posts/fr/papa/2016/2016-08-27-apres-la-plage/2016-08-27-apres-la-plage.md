@@ -1,5 +1,9 @@
 ---
-title: "Après la plage"
+title: 'Après la plage'
+date: '2016-08-27'
+section: papa
+lang: fr
+type: post
 ---
 
 Nous avions oublié de prendre un rechange au :koala:, nous lui expliquons donc qu'il va resté en maillot le temps d'aller manger.

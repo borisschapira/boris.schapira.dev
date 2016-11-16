@@ -1,9 +1,13 @@
 ---
-title: "Travail dominical… sur ordre du Président"
+title: 'Travail dominical… sur ordre du Président'
 tags:
-  - Emploi
-  - France
-  - Sarkozy
+    - Emploi
+    - France
+    - Sarkozy
+date: '2009-07-01'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Selon moi, le travail dominical mérite une réflexion calme et concertée de l'ensemble des acteurs concernés pour assurer un maximum de liberté et de sécurité à tous. Je ne suis ni pour, ni contre (bien au contraire, comme dirait l'autre).

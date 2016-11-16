@@ -1,8 +1,12 @@
 ---
-title: "Vote blanc, abstention"
+title: 'Vote blanc, abstention'
 tags:
-  - Société
-  - Politique
+    - Société
+    - Politique
+date: '2014-05-03'
+section: citoyen
+lang: fr
+type: post
 ---
 
 ## Un citoyen, c'est davantage qu'un bulletin. Mais le bulletin a un sens.

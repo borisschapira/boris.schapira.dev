@@ -1,7 +1,11 @@
 ---
-title: "Un petit coin de paradis"
+title: 'Un petit coin de paradis'
 categories:
-  - Me, myself and I
+    - 'Me, myself and I'
+date: '2007-05-19'
+section: default
+lang: fr
+type: post
 ---
 
 Nous venons de passer plusieurs jours dans cette sympathique région qu'est la [Vallée de L'Ognon (autour de Melisey)](http://www.tourisme.fr/295/office-de-tourisme-melisey.htm) au début du mois.

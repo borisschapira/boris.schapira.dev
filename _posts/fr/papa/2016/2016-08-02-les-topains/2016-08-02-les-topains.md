@@ -1,5 +1,9 @@
 ---
-title: "Les topains"
+title: 'Les topains'
+date: '2016-08-02'
+section: papa
+lang: fr
+type: post
 ---
 
 Le petit chante une chanson, visiblement inventée par ses soins à partir de bribes d'autres chansons et comptines.

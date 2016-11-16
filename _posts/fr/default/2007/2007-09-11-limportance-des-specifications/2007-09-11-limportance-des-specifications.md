@@ -1,7 +1,11 @@
 ---
-title: "L'importance des spécifications"
+title: 'L''importance des spécifications'
 categories:
-  - Développement
+    - Développement
+date: '2007-09-11'
+section: default
+lang: fr
+type: post
 ---
 
 L’expérience lors de mon stage chez Microsoft de deux projets «&nbsp;évolutifs&nbsp;» a souligné dans mon esprit une réalité du monde du développement&nbsp;: bon nombre de projets se déroulent mal car le contour fonctionnel des projets sont instables ou mal définis. Mais préconiser un renforcement des méthodologies pour mieux spécifier un projet n’est pas forcément intéressant car les besoins peuvent évoluer entre la phase de spécification et la mise en production.

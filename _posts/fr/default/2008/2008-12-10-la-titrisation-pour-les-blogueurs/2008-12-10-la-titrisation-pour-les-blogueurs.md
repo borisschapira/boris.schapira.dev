@@ -1,8 +1,12 @@
 ---
-title: "La titrisation pour les blogueurs"
+title: 'La titrisation pour les blogueurs'
 categories:
-  - Finance
-  - Humour
+    - Finance
+    - Humour
+date: '2008-12-10'
+section: default
+lang: fr
+type: post
 ---
 
 Titriser, c'est transformer un ensemble d'actifs en un ensemble de titres négociables. Si les banquiers peuvent le faire, pourquoi les blogueurs n'en profiteraient pas&nbsp;?

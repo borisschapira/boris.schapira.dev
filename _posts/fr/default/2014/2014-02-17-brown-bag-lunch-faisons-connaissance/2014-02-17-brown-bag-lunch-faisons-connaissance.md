@@ -1,8 +1,12 @@
 ---
-title: "Brown Bag Lunch, faisons connaissance"
+title: 'Brown Bag Lunch, faisons connaissance'
 tags:
-  - Me, myself and I
-  - Conférences
+    - 'Me, myself and I'
+    - Conférences
+date: '2014-02-17'
+section: default
+lang: fr
+type: post
 ---
 
 Je rejoins une nouvelle initiative, celle des [Brown Bag Lunches](http://www.brownbaglunch.fr).

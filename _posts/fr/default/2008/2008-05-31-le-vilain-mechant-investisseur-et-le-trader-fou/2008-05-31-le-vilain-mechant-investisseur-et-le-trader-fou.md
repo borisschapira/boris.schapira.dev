@@ -1,8 +1,12 @@
 ---
-title: "Le vilain méchant investisseur et le trader fou"
+title: 'Le vilain méchant investisseur et le trader fou'
 tags:
-  - Finance
-  - "Billet d'humeur"
+    - Finance
+    - 'Billet d''humeur'
+date: '2008-05-31'
+section: default
+lang: fr
+type: post
 ---
 
 La Finance de marché n’a pas bonne image et ce ne sont pas les récents évènements qui en ont amélioré la perception pas les citoyens français. À droite comme à gauche, une vision commune considère la Finance comme un domaine de l'économie dont les conséquences se résument invariablement à des drames sociaux comme les délocalisations, les plans de restructuration ou la perte de l'épargne des bons français. Au cœur de cette perception, deux légendes entretiennent le mythe. D'abord, l'actionnaire diabolique à la recherche d'un profit rapide et ensuite, le trader fou.

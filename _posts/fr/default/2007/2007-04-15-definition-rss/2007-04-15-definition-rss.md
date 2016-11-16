@@ -1,9 +1,13 @@
 ---
-title: "Qu'est-ce qu'un RSS ?"
+title: 'Qu''est-ce qu''un RSS ?'
 tags:
-  - Technologie
-  - RSS
-  - Web
+    - Technologie
+    - RSS
+    - Web
+date: '2007-04-15'
+section: default
+lang: fr
+type: post
 ---
 
 Tous vos amis créent leurs blogs, vous croulez sous les sites de news et vous êtes toujours surpris de voir à quelle vitesse le web s'est transformé en un aussi grand bazar où tout va très vite… trop vite. Il existe une solution pour gérer vos suivis. Pour bien la comprendre, je vous propose un petit historique du Web&nbsp;:

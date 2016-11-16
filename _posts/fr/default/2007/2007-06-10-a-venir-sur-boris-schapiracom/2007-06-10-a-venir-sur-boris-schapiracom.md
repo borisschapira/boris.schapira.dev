@@ -1,6 +1,10 @@
 ---
-title: "A venir sur Boris-Schapira.com"
-categories:
+title: 'A venir sur Boris-Schapira.com'
+categories: null
+date: '2007-06-10'
+section: default
+lang: fr
+type: post
 ---
 
 *   Un dossier sur ma vision de l'industrie du Logiciel Libre (mon gros morceau du moment).

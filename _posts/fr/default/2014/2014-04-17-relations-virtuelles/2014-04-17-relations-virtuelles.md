@@ -1,7 +1,11 @@
 ---
-title: "Relations [virtuelles]"
+title: 'Relations [virtuelles]'
 tags:
-  - Me, myself and I
+    - 'Me, myself and I'
+date: '2014-04-17'
+section: default
+lang: fr
+type: post
 ---
 
 > We know that happiness is mainly being satisfied with people that we like, spending time with people that we like. There are other pleasures, but this is dominant.

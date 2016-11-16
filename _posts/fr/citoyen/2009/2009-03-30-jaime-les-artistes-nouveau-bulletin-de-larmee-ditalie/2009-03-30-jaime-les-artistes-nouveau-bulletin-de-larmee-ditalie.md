@@ -1,8 +1,12 @@
 ---
-title: "«&#160;J'aime les artistes&#160;», nouveau bulletin de l'Armée d'Italie"
+title: '«&#160;J''aime les artistes&#160;», nouveau bulletin de l''Armée d''Italie'
 tags:
-  - Numérique
+    - Numérique
 series: Hadopi
+date: '2009-03-30'
+section: citoyen
+lang: fr
+type: post
 ---
 
 > Cet épisode démontre malheureusement, de façon particulièrement claire, la différence de philosophie et de méthode qui oppose le site j’aimelesartistes.fr et, au-delà, les défenseurs du projet de loi Création et Internet, aux groupes de pression qui en sont les adversaires. Il illustre une nouvelle fois la nécessité d’un "Internet civilisé", où tous les points de vue peuvent librement s’exprimer sans risquer d’être les victimes de la loi du plus fort."

@@ -1,7 +1,11 @@
 ---
-title: "Groupes, causes et amis dans Facebook"
+title: 'Groupes, causes et amis dans Facebook'
 tags:
-  - Facebook
+    - Facebook
+date: '2007-10-22'
+section: default
+lang: fr
+type: post
 ---
 
 Depuis quelques semaines, je me pose des questions sur l'utilisation de Facebook, des groupes, des causes et des amis. 

@@ -1,8 +1,12 @@
 ---
-title: "Marietta Karamanli - Identité Nationale"
+title: 'Marietta Karamanli - Identité Nationale'
 tags:
-  - Égalité
-  - Religion
+    - Égalité
+    - Religion
+date: '2009-12-11'
+section: citoyen
+lang: fr
+type: post
 ---
 
 ## Merci pour ce témoignage, Madame

@@ -1,5 +1,9 @@
 ---
-title: Debout dans son parc
+title: 'Debout dans son parc'
+date: '2011-11-30'
+section: papa
+lang: fr
+type: post
 ---
 
 Clairement le début d'une **nouvelle ère**. 

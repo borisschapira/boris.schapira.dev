@@ -1,8 +1,12 @@
 ---
-title: "Retour de Week End à Begadan"
+title: 'Retour de Week End à Begadan'
 tags:
-  - Me, myself and I
-  - Amis et famille
+    - 'Me, myself and I'
+    - 'Amis et famille'
+date: '2007-07-09'
+section: default
+lang: fr
+type: post
 ---
 
 Petit week-end annuel avec mes amis de lycée.

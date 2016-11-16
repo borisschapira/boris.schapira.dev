@@ -1,7 +1,11 @@
 ---
-title: "Les griefs des grévistes"
+title: 'Les griefs des grévistes'
 tags:
-  - Grève
+    - Grève
+date: '2009-01-29'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Ce n'est pas parce que je ne fais pas grève que ça m'empêche d'essayer de comprendre pourquoi les autres la font. Pour l'instant, en gros, ça donne ça…_

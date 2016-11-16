@@ -1,5 +1,9 @@
 ---
-title: Encore un rendez-vous à la crèche
+title: 'Encore un rendez-vous à la crèche'
+date: '2012-11-26'
+section: papa
+lang: fr
+type: post
 ---
 
 Quand les responsables de crèches essaient absolument de te faire placer ton gosse ailleurs :

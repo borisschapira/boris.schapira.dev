@@ -1,5 +1,9 @@
 ---
-title: "En attendant le Bordeaux Geek Festival"
+title: 'En attendant le Bordeaux Geek Festival'
+date: '2016-05-15'
+section: papa
+lang: fr
+type: post
 ---
 
 Maman finit de se préparer pendant que les garçons, déjà déguisés, poireautent en attendant de partir pour le [<abbr title="Bordeaux Geek Festival">BGF</abbr>](http://geek-festival.fr/).

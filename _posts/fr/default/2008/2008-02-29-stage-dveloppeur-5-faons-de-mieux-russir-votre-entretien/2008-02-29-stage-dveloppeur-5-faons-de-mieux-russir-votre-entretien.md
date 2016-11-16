@@ -1,8 +1,12 @@
 ---
-title: "Stage «&#160;Développeur&#160;» : 5 façons de mieux réussir votre entretien"
+title: 'Stage «&#160;Développeur&#160;» : 5 façons de mieux réussir votre entretien'
 tags:
-  - Emploi
-  - "Trouver un stage ou une alternance"
+    - Emploi
+    - 'Trouver un stage ou une alternance'
+date: '2008-02-29'
+section: default
+lang: fr
+type: post
 ---
 
 1. **Respirez**. Vous avez d&#233;j&#224; franchi le plus gros de la s&#233;lection. Votre pr&#233;sence entre ces murs d&#233;note d&#8217;un certain int&#233;r&#234;t pour votre profil. On ne vous a pas invit&#233; par charit&#233;, mais parce qu&#8217;on croit d&#233;j&#224; un peu en vous. Alors **ne soyez pas le seul &#224; ne pas y croire**…

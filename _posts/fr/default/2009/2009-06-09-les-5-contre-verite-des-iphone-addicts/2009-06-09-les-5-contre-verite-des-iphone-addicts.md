@@ -1,9 +1,13 @@
 ---
-title: "Les 5 contre-vérités des iPhone-addicts"
+title: 'Les 5 contre-vérités des iPhone-addicts'
 tags:
-  - Technologie
-  - "Billet d'humeur"
-  - iPhone
+    - Technologie
+    - 'Billet d''humeur'
+    - iPhone
+date: '2009-06-09'
+section: default
+lang: fr
+type: post
 ---
 
 Tout le foin autour de la sortie du firmware 3.0 et de l'iPhone 3Gs m'exaspère, mais je dois reconnaître que les commerciaux d'Apple savent jouer avec l'alchimie des multitudes. Pour preuve, les meilleurs vendeurs d'iPhone sont les propriétaires d'iPhone. Il faut les voir essayer de vous convaincre que&nbsp;:

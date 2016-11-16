@@ -1,7 +1,11 @@
 ---
-title: "Réformer l'Education&nbsp;?"
+title: 'Réformer l''Education&nbsp;?'
 tags:
-  - Education
+    - Education
+date: '2013-10-03'
+section: default
+lang: fr
+type: post
 ---
 
 ## parce que bon, là, on rate un truc…

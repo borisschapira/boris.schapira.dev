@@ -1,9 +1,13 @@
 ---
-title: "Twitter, ce mégaphone"
+title: 'Twitter, ce mégaphone'
 tags:
-  - Technologie
-  - "Billet d'humeur"
-  - Microblogging
+    - Technologie
+    - 'Billet d''humeur'
+    - Microblogging
+date: '2009-02-26'
+section: default
+lang: fr
+type: post
 ---
 
 Pour certains, Twitter est un instrument social. Il leur permet de garder le contact avec beaucoup de gens dont ils n'auraient pas de nouvelles autrement. Pour d'autres, c'est un mégaphone&nbsp;: un porte-voix mondial qui leur permet de faire la publicité de leurs <span style="text-decoration: line-through">sources de revenu</span> blogs ou de se laisser aller à certains travers…

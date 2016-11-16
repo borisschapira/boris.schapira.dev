@@ -1,7 +1,11 @@
 ---
-title: "La solution au malaise social ?"
+title: 'La solution au malaise social ?'
 categories:
-  - Politique
+    - Politique
+date: '2008-10-16'
+section: default
+lang: fr
+type: post
 ---
 
 **1\. Trouver des coupables et les rabaisser

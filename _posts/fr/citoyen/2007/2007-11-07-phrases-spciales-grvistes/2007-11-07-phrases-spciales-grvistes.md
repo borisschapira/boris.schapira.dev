@@ -1,7 +1,11 @@
 ---
-title: "Phrases… (spéciales grévistes)"
+title: 'Phrases… (spéciales grévistes)'
 tags:
-  - Grève
+    - Grève
+date: '2007-11-07'
+section: citoyen
+lang: fr
+type: post
 ---
 
 _Un représentant d&#x2019;un syndicat de cheminots sur France2, le 19 octobre&nbsp;:      

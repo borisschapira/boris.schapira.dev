@@ -1,7 +1,11 @@
 ---
-title: "[SharePoint] Récupérer des informations de colonnes personnalisées dans des Librairies SharePoint à travers XSLT"
+title: '[SharePoint] Récupérer des informations de colonnes personnalisées dans des Librairies SharePoint à travers XSLT'
 tags:
-  - Sharepoint
+    - Sharepoint
+date: '2007-05-23'
+section: default
+lang: fr
+type: post
 ---
 
 Lorsque vous utilisez un _Content Query Web Part_, le comportement associé par défaut pour la présentation des informations est celui contenu dans le fichier XML situé à l&#039;adresse _&lt;root&gt;/Style Library/XSL Style Sheet/ItemStyle.xsl_, entre les balises _&lt;xsl:template name=&quot;Default&quot;…_ et _&lt;/xsl:template&gt;._

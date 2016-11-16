@@ -1,7 +1,11 @@
 ---
-title: "Les Entretiens de l’AMF 2008 (3/3) : suivi du contrôle dans les sociétés cotées."
+title: 'Les Entretiens de l’AMF 2008 (3/3) : suivi du contrôle dans les sociétés cotées.'
 categories:
-  - Finance
+    - Finance
+date: '2008-12-29'
+section: default
+lang: fr
+type: post
 ---
 
 _Le 6 novembre dernier avaient lieu les Entretiens de l’AMF 2008\. Les objectifs de ces tables rondes auxquelles participait Christine LAGARDE, étaient définis par l’air du temps:_

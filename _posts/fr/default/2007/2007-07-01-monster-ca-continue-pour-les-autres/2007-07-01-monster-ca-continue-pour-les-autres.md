@@ -1,10 +1,14 @@
 ---
-title: "Monster : ça continue pour les autres"
+title: 'Monster : ça continue pour les autres'
 tags:
-  - Emploi
-  - Humour
-  - Emploi
-  - Monster
+    - Emploi
+    - Humour
+    - Emploi
+    - Monster
+date: '2007-07-01'
+section: default
+lang: fr
+type: post
 ---
 
 Je suis terriblement amusé de voir que les péripéties que j'ai vécu avec Monster durant ma recherche d'emploi arrivent à d'autres. Aujourd'hui, l'ami [Pierre-Jean](http://fr.viadeo.com/fr/profile/pierre-jean.bourgery) qui recherche des opportunités viables à son retour du Canada avec un Bac +5 survitaminé.

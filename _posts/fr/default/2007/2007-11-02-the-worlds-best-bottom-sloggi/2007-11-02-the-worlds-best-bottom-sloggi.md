@@ -1,7 +1,11 @@
 ---
-title: "The world's best bottom (Sloggi)"
+title: 'The world''s best bottom (Sloggi)'
 tags:
-  - Sexy
+    - Sexy
+date: '2007-11-02'
+section: default
+lang: fr
+type: post
 ---
 
 Le concours **Show Me You Sloggi** organisé par la marque éponyme vient de se terminer.

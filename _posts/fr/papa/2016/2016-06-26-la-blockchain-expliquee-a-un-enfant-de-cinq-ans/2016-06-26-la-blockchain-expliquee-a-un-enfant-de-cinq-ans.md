@@ -1,8 +1,12 @@
 ---
-title: "La blockchain expliquée à un enfant de cinq ans"
+title: 'La blockchain expliquée à un enfant de cinq ans'
 categories:
- - default
- - papa
+    - default
+    - papa
+date: '2016-06-26'
+section: papa
+lang: fr
+type: post
 ---
 
 > Pour mieux faire comprendre le fonctionnement et le potentiel de la technologie blockchain le Collectif Bam et Blockchain France ont utilisé la métaphore d’un scénario qui parle à tous : la corvée de vaisselle.
