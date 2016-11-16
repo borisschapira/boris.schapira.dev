@@ -37,6 +37,10 @@ defaults:
     values:
       lang: en
       base-url: "en/"
+  - scope:	
+       path: "_posts/en"		
+    values:				
+       base-url: "en/"
 # Exclusions
 exclude:
   - ".cache"
