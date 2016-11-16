@@ -1,8 +1,12 @@
 ---
-title: "Les Photographes"
+title: 'Les Photographes'
 tags:
-  - Me, myself and I
-  - Mariage
+    - 'Me, myself and I'
+    - Mariage
+date: '2009-06-01'
+section: default
+lang: fr
+type: post
 ---
 
 Nous revenons de 4 jours sur Bordeaux durant lesquels nous avons fait le tour de quelques photographes…

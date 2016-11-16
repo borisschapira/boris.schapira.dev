@@ -1,7 +1,11 @@
 ---
-title: "Où est-ce (leave Charlie alone !) ?"
+title: 'Où est-ce (leave Charlie alone !) ?'
 categories:
-  - Humour
+    - Humour
+date: '2008-06-11'
+section: default
+lang: fr
+type: post
 ---
 
 Saurez-vous retrouver certains lieu un peu… spéciaux&nbsp;? Un rond point particulièrement tordu&nbsp;? Une école dont le panneau destiné aux automobilistes est dans la cour&nbsp;? Un dessin cochon visible depuis l'espace&nbsp;?

@@ -1,5 +1,9 @@
 ---
-title: Freud rules
+title: 'Freud rules'
+date: '2015-06-18'
+section: papa
+lang: fr
+type: post
 ---
 
 > — Chéri, tout va bien en bas ? Tu ne fais pas de bêtises, hein ?

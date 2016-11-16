@@ -1,7 +1,11 @@
 ---
-title: "Un peu de romantisme"
+title: 'Un peu de romantisme'
 categories:
-  - Télévision
+    - Télévision
+date: '2007-08-24'
+section: default
+lang: fr
+type: post
 ---
 
 Comme quoi on peut faire une belle pub avec des jeunes qui s'aiment et ça fait plaisir. Par contre je préfère quand même la version rédigée à la version orale…

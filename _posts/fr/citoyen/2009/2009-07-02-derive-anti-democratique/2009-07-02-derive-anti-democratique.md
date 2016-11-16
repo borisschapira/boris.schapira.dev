@@ -1,8 +1,12 @@
 ---
-title: "Dérive anti-démocratique"
+title: 'Dérive anti-démocratique'
 tags:
-  - Assemblée Nationale
-  - "Billet d'humeur"
+    - 'Assemblée Nationale'
+    - 'Billet d''humeur'
+date: '2009-07-02'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Lorsque je lis l'actualité du Gouvernement, j'ai de plus en plus l'impression que le Parlement (autrement appelé Assemblée Nationale) est présenté comme un obstacle, un parcours du combattant durant lequel les "meilleures" lois sont sabotées par de vils députés.

@@ -1,14 +1,18 @@
 ---
-title: "3 grosses news sur Silverlight"
+title: '3 grosses news sur Silverlight'
 tags:
-  - Développement
-  - .NET
-  - Buzz
-  - Compatibilité
-  - MIX07
-  - Silverlight
-  - Thomas Lebrun
-  - Windows Live
+    - Développement
+    - .NET
+    - Buzz
+    - Compatibilité
+    - MIX07
+    - Silverlight
+    - 'Thomas Lebrun'
+    - 'Windows Live'
+date: '2007-05-02'
+section: default
+lang: fr
+type: post
 ---
 
 Le MIX, un des plus gros évènements de la sphère Microsoft, a débuté il y a peu. L'occasion pour la firme de dévoiler aux journalistes présents de nombreuses nouveautés, et de confirmer les percées technologiques de ces derniers mois.

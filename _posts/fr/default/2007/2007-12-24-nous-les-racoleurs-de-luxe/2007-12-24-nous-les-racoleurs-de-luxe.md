@@ -1,9 +1,13 @@
 ---
-title: "Nous… les racoleurs de luxe"
+title: 'Nous… les racoleurs de luxe'
 tags:
-  - Technologie
-  - Buzz
-  - Web
+    - Technologie
+    - Buzz
+    - Web
+date: '2007-12-24'
+section: default
+lang: fr
+type: post
 ---
 
 Qualit&#233; &#233;ditoriale et mon&#233;tisation du contenu semblent deux ingr&#233;dients d&#233;licats &#224; doser pour les blogueurs. 

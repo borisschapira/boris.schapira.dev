@@ -1,5 +1,9 @@
 ---
-title: "Arnacœur"
+title: Arnacœur
+date: '2016-08-31'
+section: papa
+lang: fr
+type: post
 ---
 
 À son petit regard malicieux, je vois qu'il n'est pas mielleux pour rien…

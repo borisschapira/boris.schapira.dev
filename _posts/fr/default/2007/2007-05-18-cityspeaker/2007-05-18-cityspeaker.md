@@ -1,8 +1,12 @@
 ---
-title: "CitySpeaker"
+title: CitySpeaker
 tags:
-  - Culture
-  - Publicité
+    - Culture
+    - Publicité
+date: '2007-05-18'
+section: default
+lang: fr
+type: post
 ---
 
 A l'approche des **vacances** d'été et alors que les petits week-ends font fureur, beaucoup d'entre nous sont à la recherche du **bon plan touristique** de l'été. Et si c'était dans votre lecteur mp3 qu'il fallait chercher&nbsp;?

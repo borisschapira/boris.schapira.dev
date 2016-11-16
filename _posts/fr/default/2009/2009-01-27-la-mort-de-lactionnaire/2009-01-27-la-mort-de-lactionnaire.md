@@ -1,9 +1,13 @@
 ---
-title: "La mort de l'actionnaire"
+title: 'La mort de l''actionnaire'
 tags:
-  - Finance
-  - Politique
-  - Crise
+    - Finance
+    - Politique
+    - Crise
+date: '2009-01-27'
+section: default
+lang: fr
+type: post
 ---
 
 Je lis beaucoup, à propos de la manifestation de jeudi prochain, qu'elle aurait vocation à s'opposer à un capitalisme amoral (j'avais déjà parlé du [méchant investisseur](/2008/05/le-vilain-mechant-investisseur-et-le-trader-fou/)) et à mettre fin au statut de l'actionnaire. J'ai même lu dans les prospectus syndicaux que c'était la fin de l'actionnariat et le retour à un capitalisme familial, bien plus stable…

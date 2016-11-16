@@ -1,8 +1,12 @@
 ---
-title: "Ouverture du Café Windows Vista"
+title: 'Ouverture du Café Windows Vista'
 tags:
-  - Technologie
-  - Windows Vista
+    - Technologie
+    - 'Windows Vista'
+date: '2007-05-02'
+section: default
+lang: fr
+type: post
 ---
 
 Microsoft lance le <s title="Ce site n'existe plus">Web Café pour Windows Vista</s>, un nouveau site dont l'objectif est de réunir les diverses communautés autour de Windows Vista.

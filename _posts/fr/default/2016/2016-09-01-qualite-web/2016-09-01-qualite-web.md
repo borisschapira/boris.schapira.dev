@@ -1,7 +1,11 @@
 ---
-title: "Qualité Web, deuxième édition"
+title: 'Qualité Web, deuxième édition'
 tags:
-  - Qualité
+    - Qualité
+date: '2016-09-01'
+section: default
+lang: fr
+type: post
 ---
 
 > Après deux années de travail, j'ai le plaisir de vous annoncer **la parution de la deuxième édition du livre qualité Web** aux <a href="http://www.editions-eyrolles.com/Livre/9782212144338/qualite-web-la-reference-des-professionnels-du-web" hreflang="fr">éditions Eyrolles</a>. Vous pouvez depuis ce matin le commander chez votre libraire. En quelques chiffres, cette deuxième édition augmentée comporte environ 500 pages, 130 illustrations, 226 bonnes pratiques, 11 chapitres, 11 check-lists complémentaires, 70 recommandations, 1 glossaire, 1 bibliographie et toujours pas de raton-laveur (ça ne rentrait pas).

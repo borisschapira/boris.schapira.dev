@@ -1,5 +1,9 @@
 ---
-title: La lumière de la musique
+title: 'La lumière de la musique'
+date: '2016-02-10'
+section: papa
+lang: fr
+type: post
 ---
 
 Il arrive dans le salon en pyjama, les yeux plissés, une trace de drap le long de la joue :

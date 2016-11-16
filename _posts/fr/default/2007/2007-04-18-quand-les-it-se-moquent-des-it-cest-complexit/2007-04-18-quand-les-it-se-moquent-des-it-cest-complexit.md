@@ -1,8 +1,12 @@
 ---
-title: "ComplexIT : les IT se moquent des IT"
+title: 'ComplexIT : les IT se moquent des IT'
 tags:
-  - Développement
-  - TechNet
+    - Développement
+    - TechNet
+date: '2007-04-18'
+section: default
+lang: fr
+type: post
 ---
 
 Lorsque deux IT se rencontrent autour d'une émission du type "Question pour un Champion", ça donne ComplexIT&nbsp;!

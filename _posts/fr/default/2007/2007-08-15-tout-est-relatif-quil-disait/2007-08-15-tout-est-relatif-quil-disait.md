@@ -1,7 +1,11 @@
 ---
-title: "Tout est relatif, qu'il disait !"
+title: 'Tout est relatif, qu''il disait !'
 tags:
-  - Sécurité routière
+    - 'Sécurité routière'
+date: '2007-08-15'
+section: default
+lang: fr
+type: post
 ---
 
 D'esprit cartésien, j'ai toujours cru en l'immuabilité de certaines choses. Pour moi, ma droite est du côté où j'écris, ce qui ne change jamais et par conséquent, ma gauche est de l'autre côté. Pour moi, un nombre plus grand qu'un autre le sera toujours demain et je ne conçois pas que ces choses changent.

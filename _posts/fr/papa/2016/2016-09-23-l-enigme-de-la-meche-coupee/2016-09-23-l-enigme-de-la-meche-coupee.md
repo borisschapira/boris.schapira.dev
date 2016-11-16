@@ -1,6 +1,10 @@
 ---
-title: L'énigme de la mèche coupée
+title: 'L''énigme de la mèche coupée'
 published: false
+date: '2016-09-23'
+section: papa
+lang: fr
+type: post
 ---
 
 Ou comment se retrouver en plein Agatha Christie avec deux garçons.

@@ -1,9 +1,13 @@
 ---
-title: "L’e-commerce reste lent"
+title: 'L’e-commerce reste lent'
 tags:
-  - E-Commerce
-  - Performance Web
-canonical: http://blog.clever-age.com/fr/2012/01/27/l-e-commerce-reste-lent/
+    - E-Commerce
+    - 'Performance Web'
+canonical: 'http://blog.clever-age.com/fr/2012/01/27/l-e-commerce-reste-lent/'
+date: '2012-01-27'
+section: default
+lang: fr
+type: post
 ---
 
 StrangeLoop vient de publier son rapport annuel de sur la performance Web des sites e-commerces. Se basant sur le classement Alexa, ils ont moyenné les performances de plus de 2000 sites. Les résultats sont plutôt surprenants.

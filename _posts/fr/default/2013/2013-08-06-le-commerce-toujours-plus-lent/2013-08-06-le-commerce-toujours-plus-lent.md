@@ -1,9 +1,13 @@
 ---
-title: "L’e-commerce, toujours plus lent"
+title: 'L’e-commerce, toujours plus lent'
 tags:
-  - E-Commerce
-  - Performance Web
-canonical: http://blog.clever-age.com/fr/2013/08/06/l-e-commerce-toujours-plus-lent/
+    - E-Commerce
+    - 'Performance Web'
+canonical: 'http://blog.clever-age.com/fr/2013/08/06/l-e-commerce-toujours-plus-lent/'
+date: '2013-08-06'
+section: default
+lang: fr
+type: post
 ---
 
 StrangeLoop (faisant désormais partie de Radware) vient de publier son rapport annuel sur la performance Web des sites e-commerces. Se basant sur le classement Alexa, ils ont moyenné les performances de plus de 500 vendeurs. Et comme [l’année dernière](/2012/01/le-commerce-reste-lent/), les résultats sont décevants.

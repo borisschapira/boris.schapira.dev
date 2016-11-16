@@ -1,8 +1,12 @@
 ---
-title: "Allocution de notre président"
+title: 'Allocution de notre président'
 tags:
-  - Société
-  - France
+    - Société
+    - France
+date: '2009-06-23'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Le président de la République, lors de son allocution lundi 22 juin à Versailles, s'est clairement exprimé, après la propositions de certains députés de créer une commission d'enquête sur ce sujet&nbsp;:

@@ -1,9 +1,13 @@
 ---
-title: "Un seul site vous manque, et tout le web est cassé"
+title: 'Un seul site vous manque, et tout le web est cassé'
 tags:
-  - Front-End
-  - Performance Web
+    - Front-End
+    - 'Performance Web'
 canonical: http//blog.clever-age.com/fr/2014/06/20/un-seul-site-vous-manque-et-tout-le-web-est-casse/
+date: '2014-06-20'
+section: default
+lang: fr
+type: post
 ---
 Ce détournement de la fameuse citation d'Alphonse de Lamartine est bien sûr dédié à la chute, hier dans la matinée, de Facebook.
 

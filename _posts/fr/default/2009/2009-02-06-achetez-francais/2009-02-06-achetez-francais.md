@@ -1,8 +1,12 @@
 ---
-title: "Achetez français"
+title: 'Achetez français'
 categories:
-  - Finance
-  - Politique
+    - Finance
+    - Politique
+date: '2009-02-06'
+section: default
+lang: fr
+type: post
 ---
 
 Le principe de la relance par la demande, façon Keynes, c'est une solution parmi d'autres à une situation économique défavorable où l'État verse de l'argent sous diverses formes aux familles (comme, par exemple, la suppression de la première tranche de l'impôt sur le revenu, l'augmentation des allocations familiales,  une meilleure indemnisation du chômage pour les jeunes et les personnes en CDD…) qui le dépensent et relancent l'activité des entreprises qui à leur tour enrichissent les familles et créant des emplois et en augmentant les rémunérations de leurs salariés. Normalement, comme l'économie est relancée, les entreprises paient davantage d'impôts et l'État se rembourse.

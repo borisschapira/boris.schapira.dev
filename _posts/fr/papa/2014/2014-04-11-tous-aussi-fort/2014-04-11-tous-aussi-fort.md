@@ -1,5 +1,9 @@
 ---
-title: Tous aussi fort
+title: 'Tous aussi fort'
+date: '2014-04-11'
+section: papa
+lang: fr
+type: post
 ---
 
 > — Bonne nuit chéri, je t'aime plus que tout.

@@ -1,6 +1,10 @@
 ---
-title: "Appauvrissent et marginalisation"
-tags:
+title: 'Appauvrissent et marginalisation'
+tags: null
+date: '2015-01-24'
+section: citoyen
+lang: fr
+type: post
 ---
 
 > La marginalisation politique a placé les gens dans une forme de vide politique et de sens qu’ils remplissent avec tout et n’importe quoi: de l’identité, de la religion, mais aussi des théories du complot, de l’antisémitisme, puis parfois des choses plus radicales. Ce monde est aussi devenu plus conservateur, plus homophobe, plus sexiste – comme on l’a vu lors de la polémique sur les ABCD de l’égalité.

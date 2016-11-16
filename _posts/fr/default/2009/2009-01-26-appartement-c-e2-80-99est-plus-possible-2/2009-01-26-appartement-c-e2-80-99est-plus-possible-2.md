@@ -1,9 +1,13 @@
 ---
-title: "Appartement, c’est plus possible #2"
+title: 'Appartement, c’est plus possible #2'
 tags:
-  - Appartement
-  - "Billet d'humeur"
-  - Me, myself and I
+    - Appartement
+    - 'Billet d''humeur'
+    - 'Me, myself and I'
+date: '2009-01-26'
+section: default
+lang: fr
+type: post
 ---
 
 3 jours que ma Libellule et moi coupons l'arrivée d'eau de l'appartement après chaque utilisation. Comme la voisine du 2e a été inondée (mais pas par nous, c'est encore un autre morceau de l'immeuble qui part en sucette), on a même eu droit à une coupure générale d'eau dans la soirée et pour toute la nuit…

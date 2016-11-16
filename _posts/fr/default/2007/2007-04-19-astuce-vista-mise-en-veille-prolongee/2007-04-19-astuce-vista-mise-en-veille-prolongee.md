@@ -1,8 +1,12 @@
 ---
-title: "Astuce Vista : mise en veille prolongée"
+title: 'Astuce Vista : mise en veille prolongée'
 tags:
-  - Technologie
-  - Windows Vista
+    - Technologie
+    - 'Windows Vista'
+date: '2007-04-19'
+section: default
+lang: fr
+type: post
 ---
 
 Aujourd'hui j'ai eu besoin de place sur mon disque dur pour une installation conséquente. Je parcours mes documents, supprime l'inutile, et lance le nettoyage du disque (clic droit sur le disque, puis `Propriétés`, puis `Nettoyage du disque`). Vista tourne quelques secondes puis m'affiche la liste des fichiers "nettoyables".

@@ -1,7 +1,11 @@
 ---
-title: "«&#160;Je suis un tél normal - Je suis un iPhone&#160;»"
+title: '«&#160;Je suis un tél normal - Je suis un iPhone&#160;»'
 tags:
-  - GeekMag
+    - GeekMag
+date: '2007-07-10'
+section: default
+lang: fr
+type: post
 ---
 
 Merci beaucoup à Eric de Geek Mag et [Monsieur Dream](http://www.cyprien.fr/index.php/2007/08/30/115-je-ne-veux-pas-etre-dans-la-tete-d-un-pro-mac-fanatise/) pour cette vidéo qui récapitule bien ce que je pense de l'iPhone… même si au niveau du prix il ne fait jamais que confirmer les pratiques tarifaires d'Apple (je ne m'acharne donc pas à dire qu'il est trop cher. Il vaut simplement ce qu'un fan de la pomme est d'habitude prêt à mettre).

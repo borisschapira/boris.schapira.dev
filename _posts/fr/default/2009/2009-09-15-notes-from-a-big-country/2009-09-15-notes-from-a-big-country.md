@@ -1,8 +1,12 @@
 ---
-title: "«&#160;Notes From a Big Country&#160;», Bill Bryson"
+title: '«&#160;Notes From a Big Country&#160;», Bill Bryson'
 categories:
-  - Humour
-  - Littérature
+    - Humour
+    - Littérature
+date: '2009-09-15'
+section: default
+lang: fr
+type: post
 ---
 
 _**Notes from a Big Country** est un hilarant recueil d'articles écrits par Bill Bryson pour __The Mail on Sunday's Night and Day pendant les années 90's. Chaque colonne de Bryson explique un point particulier de la culture américaine, vu par un américain de retour dans son pays après 20 ans d'expatriation._

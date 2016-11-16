@@ -1,10 +1,14 @@
 ---
-title: "Concours StrangleHold : résultats"
+title: 'Concours StrangleHold : résultats'
 tags:
-  - Technologie
-  - Concours
-  - StrangleHold
-  - XBox360
+    - Technologie
+    - Concours
+    - StrangleHold
+    - XBox360
+date: '2007-11-08'
+section: default
+lang: fr
+type: post
 ---
 
 <table cellspacing="0" cellpadding="2" width="600" border="0"><tbody>     <tr>       <td valign="top" width="300"><u>1er prix&nbsp;:</u> Vincent FERT</td>        <td valign="top" width="300">&#160;</td>     </tr>      <tr>       <td valign="top" width="300"><u>2&#232;me prix&nbsp;:</u> Marc GILLET</td>        <td valign="top" width="300">&#160;</td>     </tr>      <tr>       <td valign="top" width="300"><u>Du 3&#232;me au 30&#232;me&nbsp;:</u> </td>        <td valign="top" width="300">&#160;</td>     </tr>      <tr>       <td valign="top" width="300">VOLAT Jos&#233;phine          

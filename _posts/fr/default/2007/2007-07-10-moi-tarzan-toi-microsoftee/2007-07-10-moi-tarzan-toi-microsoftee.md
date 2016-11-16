@@ -1,6 +1,10 @@
 ---
-title: "Moi tarzan, toi Microsoftee"
-categories:
+title: 'Moi tarzan, toi Microsoftee'
+categories: null
+date: '2007-07-10'
+section: default
+lang: fr
+type: post
 ---
 
 **Ne rien comprendre au paragraphe suivant est un signe de non-appartenance à  ma division chez MS.**

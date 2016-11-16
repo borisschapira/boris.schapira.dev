@@ -1,7 +1,11 @@
 ---
-title: "«&#160;Deus Ex : Human Revolution&#160;» Trailer"
+title: '«&#160;Deus Ex : Human Revolution&#160;» Trailer'
 tags:
-  - Jeu Video
+    - 'Jeu Video'
+date: '2010-06-05'
+section: default
+lang: fr
+type: post
 ---
 
 Deus Ex est un excellent jeu, sorti sur PC et Mac en 2000, utilisant de manière novatrice le FPS en y incorporant d'importants éléments de RPG, le tout dans un monde cyber-punk cohérent et autour d'une trame bien ficelée. Dix ans plus tard arrive le troisième opus de la série….

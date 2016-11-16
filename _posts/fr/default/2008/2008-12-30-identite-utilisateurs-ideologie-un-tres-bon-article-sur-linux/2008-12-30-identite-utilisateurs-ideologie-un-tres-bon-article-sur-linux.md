@@ -1,8 +1,12 @@
 ---
-title: "Identité, utilisateurs, idéologie : un très bon article sur Linux"
+title: 'Identité, utilisateurs, idéologie : un très bon article sur Linux'
 tags:
-  - Technologie
-  - Liens
+    - Technologie
+    - Liens
+date: '2008-12-30'
+section: default
+lang: fr
+type: post
 ---
 
 Il est assez rare que je parle de **Linux** et comme j'ai fait partie des **Microsoft Student Partners**, beaucoup pensent que je n'apprécie pas ce système. C'est faux. Je n'en suis pas familier, mais je l'apprécie pour un nombre incalculable de raisons dont la première est qu'il propose une alternative.

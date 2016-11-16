@@ -1,5 +1,9 @@
 ---
-title: Dans la peau
+title: 'Dans la peau'
+date: '2016-11-13'
+section: papa
+lang: fr
+type: post
 ---
 
 De la musique passe, calme. Baryton, 3 ans, est couché à côté de moi, calme, prêt à s'endormir. 
@@ -14,6 +18,6 @@ Soudain, je perçois un mouvement. Doucement, il s’assoit dans le lit puis ten
 
 
 <figure>
-  <img src="billy.gif" alt="Billy Elliot est habité par la musique et danse sur les toits en compagnie d'un ami"/>
+  <img src="{{ page.url }}billy.gif" alt="Billy Elliot est habité par la musique et danse sur les toits en compagnie d'un ami"/>
   <figcaption>Mon petit artiste <3</figcaption>
 </figure>

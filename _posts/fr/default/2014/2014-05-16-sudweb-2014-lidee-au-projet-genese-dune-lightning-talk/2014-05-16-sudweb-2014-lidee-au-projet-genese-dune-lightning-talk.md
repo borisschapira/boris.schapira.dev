@@ -1,9 +1,13 @@
 ---
-title: "Préparation d'une miniconférence"
+title: 'Préparation d''une miniconférence'
 tags:
-  - Conférences
+    - Conférences
 series:
-  - Sud Web 2014
+    - 'Sud Web 2014'
+date: '2014-05-16'
+section: default
+lang: fr
+type: post
 ---
 
 ## génèse de ma conférence pour Sud Web 2014

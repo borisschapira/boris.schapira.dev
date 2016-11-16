@@ -1,8 +1,12 @@
 ---
-title: "Promouvoir une culture numérique"
+title: 'Promouvoir une culture numérique'
 tags:
-  - Education
-  - Transformation numérique
+    - Education
+    - 'Transformation numérique'
+date: '2015-04-10'
+section: default
+lang: fr
+type: post
 ---
 
 ## il n'est jamais trop tard

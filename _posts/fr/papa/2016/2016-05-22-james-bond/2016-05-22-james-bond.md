@@ -1,5 +1,9 @@
 ---
-title: "James Bond"
+title: 'James Bond'
+date: '2016-05-22'
+section: papa
+lang: fr
+type: post
 ---
 
 Dans les James Bond, le méchant gâche toujours son plan machiavélique en le divulguant trop tôt.

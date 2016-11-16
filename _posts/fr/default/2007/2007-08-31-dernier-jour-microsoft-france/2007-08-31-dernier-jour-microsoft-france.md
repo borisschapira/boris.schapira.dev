@@ -1,6 +1,10 @@
 ---
-title: "Dernier jour @ Microsoft France"
-categories:
+title: 'Dernier jour @ Microsoft France'
+categories: null
+date: '2007-08-31'
+section: default
+lang: fr
+type: post
 ---
 
 Comme vous pouvez le constater, c'est dur. Surtout quand il faut libérer des bras pour saisir les cadeaux… Tous les gens que j'ai rencontré m'ont posé les mêmes questions, alors autant donner les réponses ici.

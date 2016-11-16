@@ -1,8 +1,12 @@
 ---
-title: "Une mort triviale"
+title: 'Une mort triviale'
 i18n-key: death-the-trivial-way
 tags:
-  - Intelligence Artificielle
+    - 'Intelligence Artificielle'
+date: '2016-08-09'
+section: default
+lang: fr
+type: post
 ---
 
 > D'un côté, il est possible que nous développions une superintelligence qui soit comme un dieu au creu de notre main, nous assurant un monde d'abondance et d'immortalité. Mais d'un autre côté, il est fort probable que nous créerons une superintelligence qui causera l'extinction de l'humanité d'une manière rapide et triviale.

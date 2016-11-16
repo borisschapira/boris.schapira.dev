@@ -1,5 +1,9 @@
 ---
-title: "Papy fâché"
+title: 'Papy fâché'
+date: '2016-04-18'
+section: papa
+lang: fr
+type: post
 ---
 
 Parkour, deux ans et demi, refuse de mettre son manteau pour sortir, alors que son grand-père lui demande. Comme il persiste, son grand-père élève la voix. Ayant refusé de faire la sieste, Parkour est épuisé et fond en larmes, criant son refus.

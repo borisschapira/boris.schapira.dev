@@ -1,9 +1,13 @@
 ---
-title: "Quel serveur NAS pour la maison ?"
+title: 'Quel serveur NAS pour la maison ?'
 tags:
-  - Technologie
-  - NAS
-  - Stockage
+    - Technologie
+    - NAS
+    - Stockage
+date: '2009-02-16'
+section: default
+lang: fr
+type: post
 ---
 
 Ce n'est plus possible. Entre les Isos des build de Seven et de Vista, les binaires d'installation de Visual Studio 2005 et 2008 (et les fichiers après installation), les photos de vacances et les scans de documents officiels, les films de famille <span style="text-decoration: line-through">et les autres</span>, le disque de mon PC explose. Je me bats régulièrement pour faire de la place sur le disque de 260Go mais c'est aussi ça l'inconvénient d'un portable&nbsp;: ce n'est pas très extensible…

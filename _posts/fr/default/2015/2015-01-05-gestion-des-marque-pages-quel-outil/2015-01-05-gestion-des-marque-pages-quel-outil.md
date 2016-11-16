@@ -1,8 +1,12 @@
 ---
-title: "Gestion des marque-pages&nbsp;: quel outil&nbsp;?"
+title: 'Gestion des marque-pages&nbsp;: quel outil&nbsp;?'
 tags:
-  - Outils
-  - Veille
+    - Outils
+    - Veille
+date: '2015-01-05'
+section: default
+lang: fr
+type: post
 ---
 
 Depuis la revente de [delicious](http://delicious.com) par Yahoo! et son quasi-abandon par AVOS, j'avais migré ma veille sur Diigo mais suite à la récente décision de Diigo d'abandonner les listes (qui permettaient pourtant un partage plus sélectif), je suis à la recherche d'une nouvelle solution de gestion des marque-pages.

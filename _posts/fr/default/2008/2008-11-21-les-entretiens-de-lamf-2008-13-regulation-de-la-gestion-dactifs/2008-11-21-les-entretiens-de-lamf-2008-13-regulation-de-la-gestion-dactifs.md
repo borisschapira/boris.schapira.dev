@@ -1,7 +1,11 @@
 ---
-title: "Les Entretiens de l'AMF 2008 (1/3) : régulation de la gestion d'actifs"
+title: 'Les Entretiens de l''AMF 2008 (1/3) : régulation de la gestion d''actifs'
 categories:
-  - Finance
+    - Finance
+date: '2008-11-21'
+section: default
+lang: fr
+type: post
 ---
 
 _Le 6 novembre dernier avaient lieu les Entretiens de l'AMF 2008\. Les objectifs de ces tables rondes auxquelles participait Christine LAGARDE, étaient définis par l'air du temps&nbsp;:_

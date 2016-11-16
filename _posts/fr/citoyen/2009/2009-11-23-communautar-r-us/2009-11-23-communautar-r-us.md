@@ -1,9 +1,13 @@
 ---
-title: "Communautar'r'us"
+title: 'Communautar''r''us'
 tags:
-  - "Billet d'humeur"
-  - France
-  - Religion
+    - 'Billet d''humeur'
+    - France
+    - Religion
+date: '2009-11-23'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Le document envoyé par Eric Besson aux préfets pour la conduite des débats sur l’Identité Nationale contient cette question épineuse&nbsp;:

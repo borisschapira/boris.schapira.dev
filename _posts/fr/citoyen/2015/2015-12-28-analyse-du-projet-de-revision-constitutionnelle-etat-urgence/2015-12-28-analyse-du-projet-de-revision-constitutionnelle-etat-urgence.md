@@ -1,7 +1,11 @@
 ---
-title: "L'analyse du projet de révision constitutionnelle : l'État d'urgence"
+title: 'L''analyse du projet de révision constitutionnelle : l''État d''urgence'
 tags:
- - "État d'urgence"
+    - 'État d''urgence'
+date: '2015-12-28'
+section: citoyen
+lang: fr
+type: post
 ---
 
 > C’est ainsi que loin de constituer une garantie pour les droits et libertés fondamentaux, le projet de révision constitutionnelle constitue une régression en ce qu’il grave dans le marbre de la Constitution, la possibilité pour le législateur de «&nbsp;renouveler&nbsp;» les «&nbsp;outils&nbsp;» que les «&nbsp;forces de sécurité&nbsp;» pourront mettre en action en violation des droits et libertés.

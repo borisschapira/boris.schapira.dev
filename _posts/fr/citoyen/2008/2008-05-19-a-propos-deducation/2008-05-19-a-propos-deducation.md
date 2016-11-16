@@ -1,10 +1,14 @@
 ---
-title: "A propos d'Education…"
+title: 'A propos d''Education…'
 tags:
-  - Société
-  - "Billet d'humeur"
-  - Éducation
-  - Grève
+    - Société
+    - 'Billet d''humeur'
+    - Éducation
+    - Grève
+date: '2008-05-19'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Mon grand-père me racontait souvent son internat lycéen. Séparé de sa famille de plusieurs dizaines de kilomètres, il était néanmoins heureux d'avoir la chance de recevoir une éducation.Ces valeurs se sont perdues, ou est-ce moi qui disjoncte&nbsp;?

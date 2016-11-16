@@ -1,5 +1,9 @@
 ---
-title: Logique élémentaire
+title: 'Logique élémentaire'
+date: '2015-02-15'
+section: papa
+lang: fr
+type: post
 ---
 
 > — C'est quoi que tu manges, là ?

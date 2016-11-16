@@ -1,6 +1,10 @@
 ---
 published: false
-title: La main sur les fesses
+title: 'La main sur les fesses'
+date: '2015-05-02'
+section: papa
+lang: fr
+type: post
 ---
 
 Mon grand devient juste assez grand pour commencer à croire qu'il peut donner des conseils aux adultes...

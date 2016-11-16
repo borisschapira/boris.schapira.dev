@@ -1,6 +1,10 @@
 ---
-title: "Survivre dans une soirée de blogueurs #2"
-categories:
+title: 'Survivre dans une soirée de blogueurs #2'
+categories: null
+date: '2007-09-14'
+section: default
+lang: fr
+type: post
 ---
 
 _Divers sont les pièges à éviter lorsqu&#x2019;on décide de se rendre dans une de ces fabuleuses soirées de blogueurs o&#xF9; l&#x2019;on peut rencontrer autant de personnages captivants que de croc-cartes à la recherche de contacts influents&#x2026;_

@@ -1,8 +1,12 @@
 ---
-title: "Alerte enlèvement : relayer, mais pas trop"
+title: 'Alerte enlèvement : relayer, mais pas trop'
 categories:
-  - Développement
-  - Politique
+    - Développement
+    - Politique
+date: '2007-08-24'
+section: default
+lang: fr
+type: post
 ---
 
 Suite à un précédent mouvement de la blogosphère pour diffuser le message d'Alerte Enlèvement relatif à la disparition du petit Enis, plusieurs blogueurs ont reçu une injonction des autorités compétentes demandant poliment mais fermement la suppression de la photo du petit garçon afin de ne pas encourir de risques juridiques. Suite à cette démarche, une **petite réaction personnelle**&nbsp;:

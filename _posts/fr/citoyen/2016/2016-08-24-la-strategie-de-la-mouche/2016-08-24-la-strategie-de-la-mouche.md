@@ -1,8 +1,12 @@
 ---
-title: "La stratégie de la mouche"
+title: 'La stratégie de la mouche'
 tags:
-  - État d'urgence
-  - Terrorisme
+    - 'État d''urgence'
+    - Terrorisme
+date: '2016-08-24'
+section: citoyen
+lang: fr
+type: post
 ---
 
 > Les terroristes tiennent notre imagination captive, et l’utilisent contre nous. Sans cesse, nous rejouons les attaques terroristes dans notre petit théâtre mental, nous repassant en boucle les attaques du 11 Septembre ou les attentats de Bruxelles. Pour cent personnes tuées, cent millions s’imaginent désormais qu’il y a un terroriste tapi derrière chaque arbre. Il en va de la responsabilité de chaque citoyen et de chaque citoyenne de libérer son imagination, et de se rappeler quelles sont les vraies dimensions de la menace. C’est notre propre terreur intérieure qui incite les médias à traiter obsessionnellement du terrorisme et le gouvernement à réagir de façon démesurée.

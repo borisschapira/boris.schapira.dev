@@ -1,8 +1,12 @@
 ---
-title: "La route sera longue (mais les femmes vont apprécier)"
+title: 'La route sera longue (mais les femmes vont apprécier)'
 tags:
-  - Finance
-  - Economie
+    - Finance
+    - Economie
+date: '2008-12-17'
+section: default
+lang: fr
+type: post
 ---
 
 La BCE réduit ses taux autant qu'elle peut (le taux directeur est passé de 4,25 % à 2,50 % en cinq mois), prête davantage et plus longtemps et accepte un plus grand nombre d'actifs en garantie. L'État a souscrit des titres pour 10,5 milliards d'euros  dont plus de 5 milliards ont déjà été fournis afin de renforcer les fonds propres de nos banques et la caisse de refinancement dispose d'une capacité totale d'emprunt-prêt de 320 milliards.

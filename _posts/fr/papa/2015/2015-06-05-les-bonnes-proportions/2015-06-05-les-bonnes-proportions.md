@@ -1,5 +1,9 @@
 ---
-title: Les bonnes proportions
+title: 'Les bonnes proportions'
+date: '2015-06-05'
+section: papa
+lang: fr
+type: post
 ---
 
 > — chetchup Papa !

@@ -1,8 +1,12 @@
 ---
-title: "Le zapping des anti-annulation"
+title: 'Le zapping des anti-annulation'
 tags:
-  - Justice
-  - Religion
+    - Justice
+    - Religion
+date: '2008-06-02'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Drame&nbsp;! Un juge a annulé un mariage à la demande du mari au prétexte que la fiancée avait menti sur sa virginité. Officieusement, cet homme de loi éclairé a permis à une femme de ne pas passer le restant de sa vie avec un gros con à l'esprit étriqué mais officiellement, il est de bon ton de s'indigner. Petit tour des citations et commentaires personnels…

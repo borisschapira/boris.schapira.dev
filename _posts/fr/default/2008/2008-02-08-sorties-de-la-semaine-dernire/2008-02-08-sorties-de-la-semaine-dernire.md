@@ -1,10 +1,14 @@
 ---
-title: "Sorties de la semaine dernière"
+title: 'Sorties de la semaine dernière'
 tags:
-  - Boulogne
-  - Libellule
-  - Nameless
-  - Nexeo
+    - Boulogne
+    - Libellule
+    - Nameless
+    - Nexeo
+date: '2008-02-08'
+section: default
+lang: fr
+type: post
 ---
 
 **Mardi 29&nbsp;: Soir&#233;e Fanny's Party**</p>

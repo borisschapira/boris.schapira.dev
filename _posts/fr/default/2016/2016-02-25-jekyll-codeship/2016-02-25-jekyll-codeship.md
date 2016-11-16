@@ -1,6 +1,10 @@
 ---
-title: "Un blog avec Jekyll et Codeship"
+title: 'Un blog avec Jekyll et Codeship'
 main_image: assets/images/2016-02-25/jekyll.png
+date: '2016-02-25'
+section: default
+lang: fr
+type: post
 ---
 
 Depuis plusieurs mois, ce blog est propulsé par Jekyll et Codeship. Une page explicative existe, mais elle est "vivante" et si je change quelque chose demain, elle évoluera. J'utilise donc un article daté pour figer un peu les choses, et tant pis pour le contenu dupliqué.

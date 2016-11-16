@@ -1,5 +1,9 @@
 ---
-title: "La griffure"
+title: 'La griffure'
+date: '2016-05-24'
+section: papa
+lang: fr
+type: post
 ---
 
 Le petit pleure. Il a le genou ensanglanté, causée par une longue griffure. Je comprends immédiatement qu'il s'agit de Mozart, notre chaton, et m'apprête à le punir. Mon petit sèche immédiatement ses larmes.

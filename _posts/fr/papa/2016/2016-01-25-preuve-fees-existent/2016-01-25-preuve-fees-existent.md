@@ -1,6 +1,10 @@
 ---
-title: La preuve
+title: 'La preuve'
 main_image: assets/images/papa/2016-01-25/1.gif
+date: '2016-01-25'
+section: papa
+lang: fr
+type: post
 ---
 
 Nous achetons des couches "garçon" et "fille" pour notre fils de 5 ans qui, j'estime, a le droit d'aimer à la fois les motos, les dinosaures, les danseuses et les fées. Curieusement, les paquets de couches "fille" sont systématiquement 15&thinsp;cts plus chers que celles pour garçon.

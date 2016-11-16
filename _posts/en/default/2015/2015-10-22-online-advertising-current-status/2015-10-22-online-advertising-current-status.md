@@ -1,11 +1,16 @@
 ---
-title: "Online Advertising: The Current Status"
+title: 'Online Advertising: The Current Status'
 i18n-key: online-advertising
 tags:
-  - Advertising
-  - Digital Transformation
-  - Press
-canonical: http://blog.clever-age.com/en/2015/12/14/online-advertising-the-current-status/
+    - Publicité
+    - 'Scripts tiers'
+    - 'Transformation numérique'
+    - Presse
+canonical: 'http://blog.clever-age.com/en/2015/12/14/online-advertising-the-current-status/'
+date: '2015-10-22'
+section: default
+lang: en
+type: post
 ---
 
 ## A Multifaceted War

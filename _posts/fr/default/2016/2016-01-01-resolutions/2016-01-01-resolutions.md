@@ -1,7 +1,11 @@
 ---
-title: Mes résolutions
+title: 'Mes résolutions'
 tags:
-  - Me, myself & I
+    - 'Me, myself & I'
+date: '2016-01-01'
+section: default
+lang: fr
+type: post
 ---
 ## pour 2016
 

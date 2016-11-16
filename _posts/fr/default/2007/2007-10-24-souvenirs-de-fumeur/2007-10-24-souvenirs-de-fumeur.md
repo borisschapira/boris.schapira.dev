@@ -1,9 +1,12 @@
 ---
-title: "Souvenirs de fumeur"
-
+title: 'Souvenirs de fumeur'
 tags:
-  - Memory Lane
-  - Tabac
+    - 'Memory Lane'
+    - Tabac
+date: '2007-10-24'
+section: default
+lang: fr
+type: post
 ---
 
 J’avais promis de jogger. J’avais promis de perdre du poids et de ne pas recommencer à fumer. J’ai joggé presque 2 mois. Je n’ai pas pris de poids jusqu’à hier et j’ai repris la cigarette depuis 2 semaines. Je pense qu’on peut dire que c’est un échec. Mais l'avantage, outre de me rassasier en nicotine, c’est que la cigarette me rappelle beaucoup, beaucoup de souvenirs. Pour une raison que j’ignore et qui n’a, je pense, rien de neurologique (si tant est que quelque chose puisse ne rien avoir de neurologique), fumer me rappelle quelques moments de ma vie où j’avais une cigarette à la main. Ce sont mes souvenirs de fumeurs.

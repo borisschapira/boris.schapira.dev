@@ -1,7 +1,11 @@
 ---
-title: "Retour sur : Projet Epsilon"
+title: 'Retour sur : Projet Epsilon'
 tags:
-  - Me, myself and I
+    - 'Me, myself and I'
+date: '2011-02-20'
+section: default
+lang: fr
+type: post
 ---
 
 Plus d'un mois après la livraison en Production du projet **Epsilon**, beaucoup de choses ont changé. L'occasion pour moi de revenir à la Genèse du projet.

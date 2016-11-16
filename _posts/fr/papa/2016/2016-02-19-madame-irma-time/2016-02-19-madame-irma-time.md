@@ -1,6 +1,10 @@
 ---
-title: "Madame Irma"
+title: 'Madame Irma'
 main_image: assets/images/papa/2016-02-19/irma.jpg
+date: '2016-02-19'
+section: papa
+lang: fr
+type: post
 ---
 
 Dictateur, 5 ans, n'est pas très patient. Pour qu'il apprenne à gérer le temps qui passe, j'ai décidé de lui apprendre à lire l'heure mais pour un petit garçon qui a du mal à reconnaître et mémoriser l'ordre des chiffres, pas facile !

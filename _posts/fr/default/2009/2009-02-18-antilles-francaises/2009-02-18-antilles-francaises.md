@@ -1,7 +1,11 @@
 ---
-title: "Antilles «&#160;françaises&#160;» ?"
+title: 'Antilles «&#160;françaises&#160;» ?'
 categories:
-  - Politique
+    - Politique
+date: '2009-02-18'
+section: default
+lang: fr
+type: post
 ---
 
 Petite pensée pour la partie de ma famille qui vit en Martinique et pour ma sœur qui a eu la chance d'avoir un gâteau pour son anniversaire (ni rigolez pas, ça n'est vraiment pas facile en ce moment là-bas).

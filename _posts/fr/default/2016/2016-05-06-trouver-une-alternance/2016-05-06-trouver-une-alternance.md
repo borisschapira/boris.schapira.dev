@@ -1,8 +1,12 @@
 ---
-title: "Trouver une alternance"
+title: 'Trouver une alternance'
 tags:
- - Emploi
- - "Trouver un stage ou une alternance"
+    - Emploi
+    - 'Trouver un stage ou une alternance'
+date: '2016-05-06'
+section: default
+lang: fr
+type: post
 ---
 
 En tant qu'intervenant dans une école post-BAC, je suis sollicité par de nombreux étudiants en recherche d'une alternance. Je vais essayer de centraliser ici les retours que je leur fais :

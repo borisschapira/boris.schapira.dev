@@ -1,8 +1,12 @@
 ---
-title: "Soutenez la Quadrature du Net"
+title: 'Soutenez la Quadrature du Net'
 tags:
-  - Société
-  - Transformation numérique
+    - Société
+    - 'Transformation numérique'
+date: '2011-04-04'
+section: citoyen
+lang: fr
+type: post
 ---
 
 La **[Quadrature du Net](https://support.laquadrature.net/)** informe et donne les outils nécessaires à la compréhension de textes et de projets liberticides, et pas seulement sur Internet. Elle fournit également une plate-forme d'action citoyenne collaborative et riche, et tout cela avec seulement deux salariés.

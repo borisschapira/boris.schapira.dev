@@ -1,8 +1,12 @@
 ---
-title: "Deezer s'accorde avec la SACEM"
+title: 'Deezer s''accorde avec la SACEM'
 tags:
-  - Musique
-  - Deezer
+    - Musique
+    - Deezer
+date: '2007-08-22'
+section: default
+lang: fr
+type: post
 ---
 
 [BlogMusik](http://www.hugedomains.com/domain_profile.cfm?d=blogmusik&amp;e=com), jeune société crée en France en juin 2006, a changé de nom pour [Deezer](http://www.deezer.com) et signé des accords avec la SACEM…

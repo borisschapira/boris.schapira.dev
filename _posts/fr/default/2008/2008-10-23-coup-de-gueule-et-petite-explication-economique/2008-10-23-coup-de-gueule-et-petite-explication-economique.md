@@ -1,9 +1,13 @@
 ---
-title: "Coup de Gueule et petite explication économique"
+title: 'Coup de Gueule et petite explication économique'
 tags:
-  - Finance
-  - "Billet d'humeur"
-  - Economie
+    - Finance
+    - 'Billet d''humeur'
+    - Economie
+date: '2008-10-23'
+section: default
+lang: fr
+type: post
 ---
 
 **Petit bilan de la situation&nbsp;: la crise sème le doute parmi l'ensemble des banques, qui n'osent plus se prêter de l'argent entre elles, sans parler des entreprises et des particuliers. Quelle solution le gouvernement propose-t-il?

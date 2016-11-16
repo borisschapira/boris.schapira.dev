@@ -1,9 +1,13 @@
 ---
-title: "Rencontre avec le généticien Spencer Wells"
+title: 'Rencontre avec le généticien Spencer Wells'
 tags:
-  - Science
-  - Science
-  - Société
+    - Science
+    - Science
+    - Société
+date: '2009-09-28'
+section: default
+lang: fr
+type: post
 ---
 
 Il y a quelques jours, Mme Schapira et moi-même nous sommes rendus à une conférence organisée par National Geographic à l'ENS Paris. Nous y avons rencontré **Spencer Wells, généticien des populations**, qui nous a présenté le projet dont il est responsable. C'en est suivi un débat impliquant Franz Manni (CNRS), Pierre Darlu (CNRS), Lluis QUINTANA-MURCI (CNRS, Institut Pasteur) et bien sûr, Spencer Wells. Et je peux vous dire que **c'était vraiment passionnant, et que j'ai vraiment envie d'en partager un peu avec vous.**

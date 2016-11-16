@@ -1,7 +1,11 @@
 ---
-title: "Rapport CES 2009 d'Olivier Ezratty"
+title: 'Rapport CES 2009 d''Olivier Ezratty'
 categories:
-  - Technologie
+    - Technologie
+date: '2009-01-22'
+section: default
+lang: fr
+type: post
 ---
 
 La véritable bible du über-geek, le petit livre rouge du technophile connecté, la lecture au bureau qu'il vous faut afficher… vient de paraître dans [le bon kiosque d'Olivier Ezratty](http://www.oezratty.net/wordpress/2009/rapport-ces-2009/).

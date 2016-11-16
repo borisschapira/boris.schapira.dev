@@ -1,8 +1,12 @@
 ---
-title: "Mentalités, informatique et réunion de famille"
+title: 'Mentalités, informatique et réunion de famille'
 tags:
-  - Amis et famille
-  - Facebook
+    - 'Amis et famille'
+    - Facebook
+date: '2007-09-23'
+section: default
+lang: fr
+type: post
 ---
 
 Pour tout esprit normalement constitué ces trois mots n'ont rien à faire ensemble. À la limite, les deux extrêmes s'entrechoquent-ils assez souvent mais celui du milieu y est rarement pour grand chose.

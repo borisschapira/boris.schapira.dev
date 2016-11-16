@@ -1,6 +1,10 @@
 ---
-title: Cinquième anniversaire du grand
+title: 'Cinquième anniversaire du grand'
 main_image: assets/images/papa/2016-01-16/1.gif
+date: '2016-01-16'
+section: papa
+lang: fr
+type: post
 ---
 
 Ils était 3 selon la Police, 27 d'après les organisateurs.

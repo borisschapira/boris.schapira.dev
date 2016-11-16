@@ -1,5 +1,9 @@
 ---
-title: Les prénoms originaux
+title: 'Les prénoms originaux'
+date: '2016-01-04'
+section: papa
+lang: fr
+type: post
 ---
 
 > À la crèche, un parent appelle son enfant.

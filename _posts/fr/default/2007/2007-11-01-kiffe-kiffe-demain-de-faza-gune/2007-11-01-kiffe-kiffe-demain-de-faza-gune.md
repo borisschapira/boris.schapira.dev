@@ -1,7 +1,11 @@
 ---
-title: "«&#160;Kiffe kiffe demain&#160;», Faïza Guène"
+title: '«&#160;Kiffe kiffe demain&#160;», Faïza Guène'
 categories:
-  - Littérature
+    - Littérature
+date: '2007-11-01'
+section: default
+lang: fr
+type: post
 ---
 
 _Je viens de finir de lire "Kiffe kiffe demain". Je l'ai vu l'autre jour en presse et le titre m'a rappelé un reportage télé sur Faïza Guène, l'auteur. Il paraitrait que c'est un des livres français les plus lus à l'étranger. Il fallait donc que je le lise. L'envie de savoir ce qu'on pouvait lire de français dans les autres pays…_

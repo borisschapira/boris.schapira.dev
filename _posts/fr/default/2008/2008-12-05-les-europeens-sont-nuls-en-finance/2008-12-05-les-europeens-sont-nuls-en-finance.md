@@ -1,9 +1,13 @@
 ---
-title: "Les européens sont nuls en Finance"
+title: 'Les européens sont nuls en Finance'
 tags:
-  - Finance
-  - Economie
-  - Parlement Européen
+    - Finance
+    - Economie
+    - 'Parlement Européen'
+date: '2008-12-05'
+section: default
+lang: fr
+type: post
 ---
 
 En période de crise, tout le monde donne son avis sur ce que devrait ou ne devrait pas faire le gouvernement, les entreprises et la BCE pour permettre aux familles de retrouver leur "**pouvoir d'achat**". De ces discussions n'émane que très rarement une idée objective du problème et une esquisse de solution. Et pour cause&nbsp;: **les européens sont nuls en Economie et en Finance&nbsp;! **

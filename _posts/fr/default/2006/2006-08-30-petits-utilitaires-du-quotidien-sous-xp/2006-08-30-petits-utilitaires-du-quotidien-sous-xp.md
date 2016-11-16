@@ -1,7 +1,11 @@
 ---
-title: "Petits utilitaires du quotidien sous XP"
+title: 'Petits utilitaires du quotidien sous XP'
 tags:
-  - Outils
+    - Outils
+date: '2006-08-30'
+section: default
+lang: fr
+type: post
 ---
 
 Je suis quasiment certain de regretter cet inventaire dans quelques années, mais sait-on jamais, peut-être cela me donnera-t-il un autre regard ?

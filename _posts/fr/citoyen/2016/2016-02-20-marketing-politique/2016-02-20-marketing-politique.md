@@ -1,9 +1,13 @@
 ---
-title: "Diviser"
+title: Diviser
 tags:
-  - Égalité
+    - Égalité
 series: Diviser
 loadTwitterWjs: true
+date: '2016-02-20'
+section: citoyen
+lang: fr
+type: post
 ---
 
 ## pour mieux régner

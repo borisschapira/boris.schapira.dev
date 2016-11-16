@@ -1,5 +1,9 @@
 ---
-title: Le pyjama de tonton
+title: 'Le pyjama de tonton'
+date: '2015-09-16'
+section: papa
+lang: fr
+type: post
 ---
 
 On a reçu le pyjama envoyé par Tonton pour le petit. Je suis jaloux.

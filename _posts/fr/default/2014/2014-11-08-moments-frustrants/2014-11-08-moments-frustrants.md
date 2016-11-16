@@ -1,8 +1,12 @@
 ---
-title: "Moments frustrants"
+title: 'Moments frustrants'
 tags:
-  - Front-End
-  - Conférences
+    - Front-End
+    - Conférences
+date: '2014-11-08'
+section: default
+lang: fr
+type: post
 ---
 
 Paris Web 2014 était un bel événement. Si vous n'avez pas encore lu [le beau résumé](http://fr.clever-age.com/veille/blog/nous-etions-a-paris-web-2014.html) que nous avons monté avec Marie et Vincent sur le sujet, n'hésitez pas (et je ne dis pas ça uniquement parce que j'ai passé 3 jours à réfléchir aux axes de l'article). Vous avez aussi [le résumé plus personnel de Marie](http://marieguillaumet.com/paris-web-2014-mon-compte-rendu/), seule cette fois, et plein d'autres sur le [Lanyrd de Paris Web 2014](http://lanyrd.com/2014/parisweb/).

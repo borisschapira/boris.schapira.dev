@@ -1,8 +1,12 @@
 ---
-title: "Atelier Faire-Part"
+title: 'Atelier Faire-Part'
 tags:
-  - Me, myself and I
-  - Mariage
+    - 'Me, myself and I'
+    - Mariage
+date: '2009-01-06'
+section: default
+lang: fr
+type: post
 ---
 
 Lorsque j'en ai parlé à Bibou, il n'était franchement pas enchanté par l'idée, mais j'ai insisté, et il a fini par céder&nbsp;!

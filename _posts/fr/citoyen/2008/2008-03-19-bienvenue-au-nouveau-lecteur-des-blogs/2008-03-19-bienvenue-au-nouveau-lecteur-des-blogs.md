@@ -1,7 +1,11 @@
 ---
-title: "Bienvenue au nouveau lecteur des blogs"
+title: 'Bienvenue au nouveau lecteur des blogs'
 tags:
-  - Sarkozy
+    - Sarkozy
+date: '2008-03-19'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Toutes mes félicitations à toi,

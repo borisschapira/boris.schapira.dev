@@ -1,11 +1,15 @@
 ---
-title: "Fuzz a été condamné"
+title: 'Fuzz a été condamné'
 tags:
-  - Blogosphère
-  - Politique
-  - Justice
-  - Presse-Citron
-  - Web
+    - Blogosphère
+    - Politique
+    - Justice
+    - Presse-Citron
+    - Web
+date: '2008-03-27'
+section: default
+lang: fr
+type: post
 ---
 
 [Fuzz a été condamné](http://www.presse-citron.net/?2008/03/27/3217-affaire-olivier-martinez-vs-fuzz-fuzz-condamne), une décision qui m'attriste.

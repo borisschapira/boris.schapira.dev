@@ -1,9 +1,13 @@
 ---
-title: "De retour de Sud Web 2014"
+title: 'De retour de Sud Web 2014'
 tags:
-  - Conférences
+    - Conférences
 series:
-  - Sud Web 2014
+    - 'Sud Web 2014'
+date: '2014-05-17'
+section: default
+lang: fr
+type: post
 ---
 
 ## De beaux projets, de belles personnes

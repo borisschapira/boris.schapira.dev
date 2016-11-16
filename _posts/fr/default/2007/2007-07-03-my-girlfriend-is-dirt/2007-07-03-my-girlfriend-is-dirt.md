@@ -1,9 +1,13 @@
 ---
-title: "My Girlfriend is DIRT"
+title: 'My Girlfriend is DIRT'
 tags:
-  - Jeu Video
-  - Libellule
-  - XBox360
+    - 'Jeu Video'
+    - Libellule
+    - XBox360
+date: '2007-07-03'
+section: default
+lang: fr
+type: post
 ---
 
 _Hier soir, petite session XBox360 en couple. Après avoir **téléchargé et lancé la démo de [Colin McRae DIRT](http://www.codemasters.com/fr/?territory=French) depuis le XBox Live**, direction l'Allemagne pour un circuit en dur au volant d'une Subaru, puis les États-Unis pour une étape de rallye dans le sable. Il faut se rendre à l'évidence, ma chérie est une professionnelle de l'automobile. _

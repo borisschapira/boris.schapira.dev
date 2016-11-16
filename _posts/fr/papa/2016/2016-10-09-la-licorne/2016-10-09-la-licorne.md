@@ -1,5 +1,9 @@
 ---
-title: La licorne
+title: 'La licorne'
+date: '2016-10-09'
+section: papa
+lang: fr
+type: post
 ---
 
 Le grand a pris l'habitude de ranger sa chambre en musique. Au bout de dix minutes, il descend pour demander un morceau particulier.

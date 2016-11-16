@@ -1,7 +1,11 @@
 ---
-title: "1979&nbsp;: bientôt l'informatique au quotidien"
+title: '1979&nbsp;: bientôt l''informatique au quotidien'
 tags:
-  - Histoire
+    - Histoire
+date: '2010-01-31'
+section: default
+lang: fr
+type: post
 ---
 
 > Si vous avez des idées sur comment utiliser ces ordinateurs, vous pouvez prendre contact avec cette mission.

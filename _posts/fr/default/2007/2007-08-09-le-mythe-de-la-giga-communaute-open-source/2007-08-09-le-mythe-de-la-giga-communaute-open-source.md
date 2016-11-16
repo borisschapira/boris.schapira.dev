@@ -1,8 +1,12 @@
 ---
-title: "Le mythe de la giga-communauté Open Source"
+title: 'Le mythe de la giga-communauté Open Source'
 tags:
-  - Développement
-  - Logiciel Libre
+    - Développement
+    - 'Logiciel Libre'
+date: '2007-08-09'
+section: default
+lang: fr
+type: post
 ---
 
 Je trouvais que le blog était un peu en manque de commentaires alors je me suis dit que j'allais faire un petit article polémique, histoire de lever la critique. Aujourd'hui, je veux revenir sur un mythe qui m'énerve&nbsp;: les logiciels libres seraient le fruit du travail de millions de développeurs unis tous ensemble, main dans la main en chantant. C'est bien sûr faux.

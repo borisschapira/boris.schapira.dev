@@ -1,8 +1,12 @@
 ---
-title: "[Test] Microsoft Wireless Mobile Mouse 6000"
+title: '[Test] Microsoft Wireless Mobile Mouse 6000'
 tags:
-  - Hardware
-  - Test
+    - Hardware
+    - Test
+date: '2009-07-27'
+section: default
+lang: fr
+type: post
 ---
 
 <figure>

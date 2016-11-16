@@ -1,7 +1,11 @@
 ---
-title: "Des crèches dans les mairies"
+title: 'Des crèches dans les mairies'
 tags:
-  - Laïcité
+    - Laïcité
+date: '2010-12-15'
+section: default
+lang: fr
+type: post
 ---
 
 Je suis contre la mise en place d'une crèche dans une mairie. Par respect pour les croyants, d'une part , car je trouve que c'est un transfert du monde religieux vers le monde culturel qui enlève à la crèche son symbole chrétien ; par esprit laïc d'autre part, car cela reste un signe issue de la religion qui n'a rien à faire dans un lieu de la République.

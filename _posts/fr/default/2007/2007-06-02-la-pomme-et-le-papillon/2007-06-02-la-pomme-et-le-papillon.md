@@ -1,10 +1,14 @@
 ---
-title: "La Pomme et le Papillon"
+title: 'La Pomme et le Papillon'
 tags:
-  - Technologie
-  - Apple
-  - Interview
-  - Microsoft
+    - Technologie
+    - Apple
+    - Interview
+    - Microsoft
+date: '2007-06-02'
+section: default
+lang: fr
+type: post
 ---
 
 _"On s'est connu, on s'est reconnu

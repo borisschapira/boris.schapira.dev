@@ -1,8 +1,12 @@
 ---
-title: "Courrier adressé ce matin à P.C. BAGUET"
+title: 'Courrier adressé ce matin à P.C. BAGUET'
 tags:
-  - Numérique
+    - Numérique
 series: Hadopi
+date: '2009-02-27'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Monsieur le député,

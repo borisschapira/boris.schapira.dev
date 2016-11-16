@@ -1,7 +1,11 @@
 ---
-title: "Révolution Cantona"
+title: 'Révolution Cantona'
 tags:
-  - Finance
+    - Finance
+date: '2010-11-29'
+section: default
+lang: fr
+type: post
 ---
 
 Imaginez que, par hasard où [sur appel d'un ancien footballeur vendeur de rasoirs jetables](https://www.bakchich.info/france/2010/10/12/la-cantona-revolution-58811 "Appel à la révolution d&#039;Eric Cantona sur Bakchich.info"), nous soyons des millions à nous déplacer un beau jour de décembre pour retirer nos fonds des banques dans lesquelles nous les avons placé.

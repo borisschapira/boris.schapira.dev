@@ -1,8 +1,12 @@
 ---
-title: "Infusion numérique"
+title: 'Infusion numérique'
 tags:
-  - Transformation numérique
-  - Emploi
+    - 'Transformation numérique'
+    - Emploi
+date: '2014-04-03'
+section: default
+lang: fr
+type: post
 ---
 
 > L’idée centrale de [l']ouvrage [de Tyler Cowen] est que l’évolution technologique va totalement polariser le monde du travail entre des travailleurs hyper complémentaires aux machines intelligentes et très bien rémunérés et une masse informe d’individus peu compatibles et clairement laissés sur le bas côté.

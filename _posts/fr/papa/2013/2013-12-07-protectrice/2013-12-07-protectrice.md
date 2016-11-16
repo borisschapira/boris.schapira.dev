@@ -1,5 +1,9 @@
 ---
 title: Protectrice
+date: '2013-12-07'
+section: papa
+lang: fr
+type: post
 ---
 
 Ma femme rentre énervée un soir :

@@ -1,7 +1,11 @@
 ---
-title: "La nomination de NKM n'est pas *forcément* une bonne nouvelle"
+title: 'La nomination de NKM n''est pas *forcément* une bonne nouvelle'
 categories:
-  - Politique
+    - Politique
+date: '2009-01-16'
+section: default
+lang: fr
+type: post
 ---
 
 **Et si finalement, la nomination de NKM n'était pas une bonne nouvelle pour le Web&nbsp;? Réfléchissons à la suite d'évènement qui a amené à cette nomination…**

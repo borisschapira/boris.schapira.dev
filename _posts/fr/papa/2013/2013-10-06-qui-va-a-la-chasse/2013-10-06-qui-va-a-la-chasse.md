@@ -1,5 +1,9 @@
 ---
-title: Qui va à la chasse
+title: 'Qui va à la chasse'
+date: '2013-10-06'
+section: papa
+lang: fr
+type: post
 ---
 
 > — Papa, biberon ! 

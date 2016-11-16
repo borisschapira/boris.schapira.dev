@@ -1,5 +1,9 @@
 ---
-title: "L'arnacœur"
+title: 'L''arnacœur'
+date: '2016-04-09'
+section: papa
+lang: fr
+type: post
 ---
 
 > — Tu sais, je suis fâché. Je n'aime pas quand tu tapes ton grand frère.

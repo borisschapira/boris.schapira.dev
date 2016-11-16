@@ -1,7 +1,11 @@
 ---
-title: "Web Standard Update pour Visual Studio 2010 : support de HTML5 & CSS3"
+title: 'Web Standard Update pour Visual Studio 2010 : support de HTML5 & CSS3'
 tags:
-  - Front-End
+    - Front-End
+date: '2011-06-16'
+section: default
+lang: fr
+type: post
 ---
 
 Il n'y a rien qui vous empêchait, dès hier, de créer des sites Web HTML5 et CSS3 en ASP.NET WebForms ou MVC avec Visual Studio. Des schémas de validation existaient, il suffisait de les télécharger et de les installer. Cependant, il fallait dire au revoir à l'Intellisense et à la prise en charge de certaines balises. Microsoft, sous l'impulsion de [Mads Kristensen](http://madskristensen.net/ "Blog de Mads Kristensen"), vient de faire un gigantesque pas en avant en faveur des standards W3C et c'est une excellente nouvelle&nbsp;!

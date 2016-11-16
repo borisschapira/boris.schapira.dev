@@ -1,9 +1,13 @@
 ---
-title: "F12 de IE11&nbsp;: du nouveau pour les développeurs"
+title: 'F12 de IE11&nbsp;: du nouveau pour les développeurs'
 tags:
-  - Outils
-  - Performance Web
-canonical: http://blog.clever-age.com/fr/2013/07/02/f12-de-ie11-du-nouveau-pour-les-developpeurs/
+    - Outils
+    - 'Performance Web'
+canonical: 'http://blog.clever-age.com/fr/2013/07/02/f12-de-ie11-du-nouveau-pour-les-developpeurs/'
+date: '2013-07-02'
+section: default
+lang: fr
+type: post
 ---
 
 Cela fait un petit moment que je n’avais pas vu de challenger sérieux aux Dev. Tools de Chrome (de nombreuses études montrent que Firebug pénalise le Firefox sur lequel il est installé, faussant ainsi les mesures réalisées au niveau WebPerf, par exemple).

@@ -1,7 +1,11 @@
 ---
-title: "SignalR, une nouvelle brique Open Source pour le temps réel en ASP.NET"
+title: 'SignalR, une nouvelle brique Open Source pour le temps réel en ASP.NET'
 tags:
-  - Back-End
+    - Back-End
+date: '2011-09-22'
+section: default
+lang: fr
+type: post
 ---
 
 Cela faisait longtemps qu’on l’attendait et la voici : la réponse de Microsoft aux technologies de Web Temps Réel qui fleurissent autour de Node.js.

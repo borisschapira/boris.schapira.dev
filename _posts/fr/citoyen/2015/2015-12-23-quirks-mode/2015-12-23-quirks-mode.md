@@ -1,7 +1,11 @@
 ---
-title: Quirks Mode
+title: 'Quirks Mode'
 tags:
-  - Égalité
+    - Égalité
+date: '2015-12-23'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Discussion avec ma femme cet après-midi. Elle a eu ces mots très justes à propos de la réaction de la _Manif pour Tous_ à la campagne publicitaire du nouveau catalogue Super U.

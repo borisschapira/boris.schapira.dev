@@ -1,8 +1,12 @@
 ---
-title: "Les 10 défis du blogueurs"
+title: 'Les 10 défis du blogueurs'
 tags:
-  - Blogosphère
-  - Chaine
+    - Blogosphère
+    - Chaine
+date: '2008-08-26'
+section: default
+lang: fr
+type: post
 ---
 
 &lt;

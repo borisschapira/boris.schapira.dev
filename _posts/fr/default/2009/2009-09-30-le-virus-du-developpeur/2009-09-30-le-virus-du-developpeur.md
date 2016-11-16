@@ -1,8 +1,12 @@
 ---
-title: "[Vécu] Le virus du développeur"
-canonical: "http://www.nexeo.fr/blog/2009/09/30/vecu-le-virus-du-developpeur/"
+title: '[Vécu] Le virus du développeur'
+canonical: 'http://www.nexeo.fr/blog/2009/09/30/vecu-le-virus-du-developpeur/'
 tags:
- - Nexdotnet
+    - Nexdotnet
+date: '2009-09-30'
+section: default
+lang: fr
+type: post
 ---
 
 Je ne sais pas vous, mais moi je suis toujours très excité quand j’apprends un truc nouveau dans le Framework .NET. Je commence par me demander comment il marche, si cette nouvelle méthode est plus performante que l’ancienne, si son implémentation dans une solution existante prendrait du temps…

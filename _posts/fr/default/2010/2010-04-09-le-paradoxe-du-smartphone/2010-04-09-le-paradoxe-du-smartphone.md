@@ -1,9 +1,13 @@
 ---
-title: "Le Paradoxe du Smartphone"
+title: 'Le Paradoxe du Smartphone'
 tags:
-  - Mobilité
+    - Mobilité
 series:
-  - Windows Phone
+    - 'Windows Phone'
+date: '2010-04-09'
+section: default
+lang: fr
+type: post
 ---
 
 Il y a quelques semaines a été annoncé Windows Phone 7 Series, devenu depuis Windows Phone 7\. Plus qu'un simple OS, il s'inscrit dans une stratégie plus massive d'établissement d'un écosystème entre développeurs, éditeurs, constructeurs et clients autour d'une place de marché unifiée, comme ses concurrents Apple et Android…

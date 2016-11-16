@@ -1,7 +1,11 @@
 ---
-title: "Premier jour chez Microsoft !"
+title: 'Premier jour chez Microsoft !'
 tags:
-  - Me, myself and I
+    - 'Me, myself and I'
+date: '2007-02-19'
+section: default
+lang: fr
+type: post
 ---
 
 J'ai passé aujourd'hui ma première journée au cœur du département Services de Microsoft France. Accueilli par Jean-Marc Sennechael, j'ai été conduit à travers quelques étapes administratives avant de profiter d'une présentation de la structure de cette grande entreprise et de mon rôle…

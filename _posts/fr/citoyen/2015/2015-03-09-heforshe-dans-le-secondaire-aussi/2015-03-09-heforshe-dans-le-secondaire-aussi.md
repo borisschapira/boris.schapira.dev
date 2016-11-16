@@ -1,10 +1,14 @@
 ---
-title: "#HeForShe, dans le secondaire aussi"
+title: '#HeForShe, dans le secondaire aussi'
 main_image: assets/images/shared/he-for-she-logo.jpg
 tags:
-  - HeForShe
-  - Société
-  - Égalité
+    - HeForShe
+    - Société
+    - Égalité
+date: '2015-03-09'
+section: citoyen
+lang: fr
+type: post
 ---
 
 La classe est bondée. Le vacarme, assourdissant. Personne n'a l'air de vouloir se taire. Il est à demi-penché sur elle, la complimente lourdement sur son décolleté pendant qu'elle lui répète d'aller s'asseoir, que c'est l'heure, visiblement gênée.

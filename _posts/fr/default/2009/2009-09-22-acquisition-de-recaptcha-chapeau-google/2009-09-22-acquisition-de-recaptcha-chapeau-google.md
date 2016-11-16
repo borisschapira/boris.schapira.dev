@@ -1,7 +1,11 @@
 ---
-title: "Acquisition de ReCaptcha, chapeau Google"
+title: 'Acquisition de ReCaptcha, chapeau Google'
 categories:
-  - Technologie
+    - Technologie
+date: '2009-09-22'
+section: default
+lang: fr
+type: post
 ---
 
 Je ne suis pas un fervent défenseur de la firme californienne mais là, je dois avouer qu'ils ont fait l'une des meilleures opérations d'acquisition qui soit. Explications.

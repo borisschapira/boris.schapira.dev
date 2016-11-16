@@ -1,7 +1,11 @@
 ---
-title: "Incompréhension"
+title: Incompréhension
 categories:
-  - Société
+    - Société
+date: '2009-04-08'
+section: default
+lang: fr
+type: post
 ---
 
 La barrière de la langue est parfois infranchissable. Mais parfois, l'émotion suffit.

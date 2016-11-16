@@ -1,8 +1,12 @@
 ---
-title: "Hadopi en Commission Mixte Paritaire"
+title: 'Hadopi en Commission Mixte Paritaire'
 tags:
-  - Numérique
+    - Numérique
 series: Hadopi
+date: '2009-04-08'
+section: citoyen
+lang: fr
+type: post
 ---
 
 > Les députés peuvent donc modifier le texte comme ils le veulent, transformer Christine Albanel et bête de corrida avec plein de banderilles, le texte qui sortira <span style="text-decoration: line-through">du bureau de la ministre</span> de la CMP ressemblera très étrangement à celui du Sénat, voire pire, à celui déposé par le gouvernement au début de la procédure.

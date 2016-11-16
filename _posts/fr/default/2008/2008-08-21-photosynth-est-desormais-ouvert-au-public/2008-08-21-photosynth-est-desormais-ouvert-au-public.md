@@ -1,8 +1,12 @@
 ---
-title: "PhotoSynth est désormais ouvert au public"
+title: 'PhotoSynth est désormais ouvert au public'
 tags:
-  - Technologie
-  - PhotoSynth
+    - Technologie
+    - PhotoSynth
+date: '2008-08-21'
+section: default
+lang: fr
+type: post
 ---
 
 Je serais peut-être le 100e à vous parler de [**PhotoSynth** ](https://photosynth.net/)aujourd'hui, mais vous n'y couperez pas. Je suis l'actualité de ce projet depuis mes tous premiers jours de Microsoft Most Valuable Student il y a 3 ans&nbsp;!

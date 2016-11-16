@@ -1,8 +1,12 @@
 ---
-title: "[Rétro] Il y a un an… mai 2008."
+title: '[Rétro] Il y a un an… mai 2008.'
 tags:
-  - Société
-  - Rétro
+    - Société
+    - Rétro
+date: '2009-05-01'
+section: citoyen
+lang: fr
+type: post
 ---
 
 _Pour ne pas commettre les erreurs du passé, encore faut-il [s'en souvenir](/?s=[R%C3%A9tro]). _

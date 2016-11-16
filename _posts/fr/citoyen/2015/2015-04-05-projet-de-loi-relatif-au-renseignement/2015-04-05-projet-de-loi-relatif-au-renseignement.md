@@ -1,9 +1,13 @@
 ---
-title: "«&#160;Projet de Loi relatif au renseignement&#160;»"
+title: '«&#160;Projet de Loi relatif au renseignement&#160;»'
 tags:
-  - Numérique
+    - Numérique
 series:
-  - Loi Renseignement
+    - 'Loi Renseignement'
+date: '2015-04-05'
+section: citoyen
+lang: fr
+type: post
 ---
 
 Ce projet m'inquiète pour de nombreuses raisons qui se résument rapidement en&nbsp;:

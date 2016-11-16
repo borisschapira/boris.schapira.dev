@@ -1,10 +1,14 @@
 ---
-title: "Un retour sur Opquast Certified®"
+title: 'Un retour sur Opquast Certified®'
 tags:
- - Qualité
- - Certification
-canonical: http://blog.clever-age.com/fr/2016/05/16/un-retour-sur-opquast-certified/
+    - Qualité
+    - Certification
+canonical: 'http://blog.clever-age.com/fr/2016/05/16/un-retour-sur-opquast-certified/'
 main_image: assets/images/2016-05-16/logo_opquast_certified.png
+date: '2016-05-16'
+section: default
+lang: fr
+type: post
 ---
 
 Les référentiels Opquast et Clever Age, c'est une histoire d'amour qui dure depuis plusieurs années. Nombreux sont les consultants ayant collaboré à leur écriture et les discussions internes sont suffisamment nombreuses pour que tout le monde sache de quoi il s'agit.

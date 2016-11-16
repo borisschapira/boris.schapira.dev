@@ -1,5 +1,9 @@
 ---
-title: C'est ta vie
+title: 'C''est ta vie'
+date: '2014-10-05'
+section: papa
+lang: fr
+type: post
 ---
 
 > — A château, papa!
