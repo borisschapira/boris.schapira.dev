@@ -1,6 +1,6 @@
 ---
 title: 'La règle du fruit'
-date: '2016-04-31'
+date: '2016-04-30'
 section: papa
 lang: fr
 type: post
