@@ -19,21 +19,21 @@ _C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!_
 
 ## Règle n°1&nbsp;: Mme Schapira a toujours raison
 
-> — Tu chantes faux, là.
-> — Non, pas du tout.
-> — Si si, je t'assure.
+> — Tu chantes faux, là.  
+> — Non, pas du tout.  
+> — Si si, je t'assure.  
 > — Impossible, je suis parfaitement la voix de Balavoine. Tu oses dire que Balavoine chante faux&nbsp;?
 
 ## Envie de passé #1
 
-> — T'as vu, c'est les photos de la Fête de la Fraternité de Ségolène Royal
+> — T'as vu, c'est les photos de la Fête de la Fraternité de Ségolène Royal  
 > — C'est ça Désirs d'Avenir&nbsp;? Bah tu parles d'un avenir, y'a que des vieux&nbsp;!
 
 ## Envie de passé #2
 
-> — Qu'est-ce que tu fais&nbsp;?
-> — Ben ça se voit pas, je clique ici [sur le bouton en haut à droite du site de Désirs d'Avenir]
-> — Et alors&nbsp;?
+> — Qu'est-ce que tu fais&nbsp;?  
+> — Ben ça se voit pas, je clique ici [sur le bouton en haut à droite du site de Désirs d'Avenir]  
+> — Et alors&nbsp;?  
 > — Bah il se passe rien. Mon désir d'avenir, ça serait qu'il se passe quelque chose. Ca serait un bon début.
 
 ## Echelle de Trehorel
@@ -42,6 +42,6 @@ _C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!_
 
 ## Bug Master Fail
 
-> — Fais voir ton code, je vais le trouver moi le bug.
+> — Fais voir ton code, je vais le trouver moi le bug.  
 > — Tu sais quoi faire pour le corriger&nbsp;?
 -> \ Non mais je m'y connais en bugs&nbsp;: normalement, c'est moi qui les code.

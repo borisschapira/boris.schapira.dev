@@ -10,12 +10,12 @@ Je regarde "La Belle et le Clochard" avec les enfants. La scène des pâtes à l
 
 <!-- more -->
 
-> [Moi] : ils sont amoureux ?
-> [Tous les deux] : ah, oui !
-> [Grand] : et ils font des bisous !
-> [Moi] : comme Papa et Maman alors !
-> [Petit] : oui. Maman, elle est belle. Elle est plus belle que Belle.
-> [Moi] : et Papa ?
+> [Moi] : ils sont amoureux ?  
+> [Tous les deux] : ah, oui !  
+> [Grand] : et ils font des bisous !  
+> [Moi] : comme Papa et Maman alors !  
+> [Petit] : oui. Maman, elle est belle. Elle est plus belle que Belle.  
+> [Moi] : et Papa ?  
 > [Petit] : Papa, il est plus clochard que Clochard !
 
 <figure>

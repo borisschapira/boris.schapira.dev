@@ -21,7 +21,7 @@ Exemple des idées reçues que je rencontre chaque jour chez mon client actuel&n
 *   Il est tout-à-fait possible d'être développeur, de comprendre une salle de marché, de s'intéresser aux systèmes d'informations comme à l'Économie (et à bien d'autres choses). Mettre les gens dans des petites boites et penser qu'ils sont incapables d'en sortir est une négation du potentiel de chacun.
 *   Les Traders n'ont pas de solution miracle pour gagner beaucoup d'argent très vite.
 
-> There is no such thing as a free lunch
+> There is no such thing as a free lunch  
 >   <cite>[Milton Friedman](http://fr.wikipedia.org/wiki/Milton_Friedman)) </cite>
 
 *   Corrélation et causalité sont des termes proches mais dissociés. Si les évènements A et B interviennent en même temps à plusieurs reprises, rien ne dit que A entraine B. Garder ça en tête permet de prendre avec recul les analyses (financières, politiques ou au bistrot du coin…) qu'on nous présente comme irréfutables&nbsp;!

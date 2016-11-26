@@ -6,10 +6,10 @@ lang: fr
 type: post
 ---
 
-> — A voir la maison de Papa-Maman !
-> — C'est aussi ta maison mon amour.
-> — Non pas maison à moi, à Papa-Maman.
-> — Ah bon, mais alors c'est où chez toi ?
+> — A voir la maison de Papa-Maman !  
+> — C'est aussi ta maison mon amour.  
+> — Non pas maison à moi, à Papa-Maman.  
+> — Ah bon, mais alors c'est où chez toi ?  
 > — Chez moi, là !
 
 Il me montre sa tête et rajoute :

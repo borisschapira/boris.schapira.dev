@@ -57,6 +57,7 @@ exclude:
   - _posts/**/*.jpg
   - _posts/**/*.png
   - _posts/**/*.gif
+  - _posts/**/*.pdf
 include:
   - ".well-known"
   - ".htaccess"

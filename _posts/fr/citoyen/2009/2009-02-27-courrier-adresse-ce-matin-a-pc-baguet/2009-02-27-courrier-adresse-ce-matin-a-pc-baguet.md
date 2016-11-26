@@ -13,7 +13,7 @@ Monsieur le député,
 
 Tout d'abord, je souhaiterais vous remercier pour le travail que vous effectuez à l'Assemblée et notamment pour votre intervention du 17 février dernier durant laquelle vous expliquiez que&nbsp;:
 
-> les éditeurs de CD et de DVD devront réaliser des efforts considérables, faute de quoi l'internaute sera effectivement poussé au piratage. Les éditeurs doivent en prendre conscience. Grâce aux techniques qui se sont développées au cours des dernières années, on peut maintenant éditer des CD musicaux à des prix tout à fait raisonnables ; pourtant, les prix restent exorbitants.
+> les éditeurs de CD et de DVD devront réaliser des efforts considérables, faute de quoi l'internaute sera effectivement poussé au piratage. Les éditeurs doivent en prendre conscience. Grâce aux techniques qui se sont développées au cours des dernières années, on peut maintenant éditer des CD musicaux à des prix tout à fait raisonnables ; pourtant, les prix restent exorbitants.  
 > <cite>Pierre-Christophe BAGUET, [Compte-rendu de la Commission des lois constitutionnelles, de la législation et de l'administration générale de la République, séance du 17 février 2009, 16h15](http://www.assemblee-nationale.fr/13/pdf/cr-cloi/08-09/c0809027.pdf).
 
 Mr BAGUET, vous vous êtes manifestement déjà intéressé aux problématiques soulevées par le piratage, le respect des droits d'auteur et la loi "Création et Internet", dont je souhaiterais vous parler aujourd'hui.

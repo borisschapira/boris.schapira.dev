@@ -13,7 +13,7 @@ La BCE réduit ses taux autant qu'elle peut (le taux directeur est passé de 4,2
 
 Malgré cela, [la confiance ne revient pas](http://www.agefi.fr/articles/la-defiance-persiste-entre-les-banques-indique-la-bce-1057818.html) et ce ne sont pas les [récentes découvertes transatlantiques](http://tempsreel.nouvelobs.com/?xtmc=madoff&amp;xtcr=4) qui vont changer la donne. Avant même l'affaire Madoff, le crédit n'était pas au beau fixe. Comme l'expliquait Christian Noyer, gouverneur de la Banque de France, le 10 décembre dernier&nbsp;:
 
-> "En zone euro, les banques déposent à la BCE tous les jours environ 200 milliards d’euros de liquidités. Ce sont des sommes qu’en temps normal elles se seraient prêtées entre elles. Le marché sera normalisé et la confiance restaurée quand ce chiffre se sera rapproché de zéro"
+> "En zone euro, les banques déposent à la BCE tous les jours environ 200 milliards d’euros de liquidités. Ce sont des sommes qu’en temps normal elles se seraient prêtées entre elles. Le marché sera normalisé et la confiance restaurée quand ce chiffre se sera rapproché de zéro"  
 > [Interview accordée au Figaro](http://www.lefigaro.fr/economie/2008/12/10/04001-20081210ARTFIG00545-les-banques-francaises-sont-solides-.php)
 
 Et les crédits aux ménages et entreprises dans tout ça&nbsp;? Les foyers doivent montrer patte blanche (apport personnel élevé, garanties importantes) pour emprunter à des taux nominaux qui, s'ils ont ralenti leur croissance, restent très élevés (et surtout, ne reflètent pas -encore&nbsp;?- les baisses des taux directeurs). Les PME aussi souffrent de difficultés, [malgré l'aide de leur Secrétaire d'État](http://tempsreel.nouvelobs.com/). La croissance des crédits va assurément marquer un repli.

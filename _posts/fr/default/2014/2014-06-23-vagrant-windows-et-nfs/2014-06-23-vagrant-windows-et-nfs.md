@@ -11,7 +11,7 @@ type: post
 
 Si vous développez avec Vagrant sous Windows, vous avez probablement déjà vu ce message&nbsp;:
 
-> **Windows users**: NFS folders do not work on Windows hosts. Vagrant will ignore your request for NFS synced folders on Windows.
+> **Windows users**: NFS folders do not work on Windows hosts. Vagrant will ignore your request for NFS synced folders on Windows.  
 >   <cite>[NFS - Synced Folders - Vagrant Documentation](https://docs.vagrantup.com/v2/synced-folders/nfs.html "NFS - Synced Folders - Vagrant Documentation")</cite>
 
 Ce temps est révolu ! Voici un plugin très pratique, qui permet d'activer NFS sous Windows pour vos _boxes_ Vagrant. Il s'agit de [vagrant-winnfsd](https://github.com/GM-Alex/vagrant-winnfsd "Dépôt GitHub du plugin vagrant-winnfsd"), qui s'installe par un simple&nbsp;:

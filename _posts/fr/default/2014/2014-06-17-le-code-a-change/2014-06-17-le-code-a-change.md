@@ -18,11 +18,11 @@ Si je suis plutôt d'accord avec le premier argument, le second me gêne profond
 
 <!-- more -->
 
-> L'article L. 121-1 du code de l'éducation est ainsi modifié&nbsp;:
+> L'article L. 121-1 du code de l'éducation est ainsi modifié&nbsp;:  
 >
->   I. - Après la première phrase, sont insérées deux phrases ainsi rédigées&nbsp;:
+>   I. - Après la première phrase, sont insérées deux phrases ainsi rédigées&nbsp;:  
 >
->   layout: postLes **objectifs prioritaires** assignés aux écoles sont l'**apprentissage de la langue française, la maîtrise de la lecture, de l'écriture, l'utilisation des mathématiques et l'apprentissage du code informatique**. Ces savoirs doivent impérativement être acquis lors de l'entrée au collège.&nbsp;»
+>   layout: postLes **objectifs prioritaires** assignés aux écoles sont l'**apprentissage de la langue française, la maîtrise de la lecture, de l'écriture, l'utilisation des mathématiques et l'apprentissage du code informatique**. Ces savoirs doivent impérativement être acquis lors de l'entrée au collège.&nbsp;»  
 >
 >   II. - Au début de la deuxième phrase, les mots&nbsp;: layout: postIls contribuent&nbsp;» sont remplacés par les mots&nbsp;: layout: postLes écoles, les collèges, les lycées et les établissements d'enseignement supérieur contribuent&nbsp;».
 
@@ -30,7 +30,7 @@ Bien que nos députés s'y soient mis à 35 (incroyable) pour le signer, ce text
 
 ## Pourquoi on pourrait _a priori_ être d'accord
 
-> Software is eating the world
+> Software is eating the world  
 >   <cite>[Marc Andressen](http://fr.wikipedia.org/wiki/Marc_Andreessen "Marc Andreessen &quot;, Wikipedia")</cite>
 
 Le monde logiciel fait partie intégrante de notre vie&nbsp;: la plupart des appareils qui étaient auparavant mécaniques embarque désormais des micro-contrôleurs, qui exécutent des routines écrites par des développeurs. Tous les secteurs sont progressivement concernés par cette révolution qui altère profondément le paysage économique mondial depuis une cinquantaine d'années, avec une fulgurante accélération ces 15 dernières années, grâce au Web.
@@ -45,7 +45,7 @@ Bref, si on s'arrêtait là, on pourrait se dire qu'en effet, le _codage_ a sa p
 
 ### Coder n'est pas jouer
 
-> La science informatique est une science formelle, dont l'objet d'étude est le calcul au sens large, c'est-à-dire non pas exclusivement arithmétique, mais en rapport avec tout type d'information que l'on peut représenter de manière symbolique par une suite de nombres.
+> La science informatique est une science formelle, dont l'objet d'étude est le calcul au sens large, c'est-à-dire non pas exclusivement arithmétique, mais en rapport avec tout type d'information que l'on peut représenter de manière symbolique par une suite de nombres.  
 >   [Wikipedia](http://fr.wikipedia.org/wiki/Informatique#Science_informatique "Science Informatique &quot;, Wikipedia")
 
 L'informatique englobe un certain nombre de champs d'études qui vont bien au-delà du _code_. Car le _code_ n'est qu'une façon de dire ce qu'on veut à une machine. Là où la science informatique a une vraie valeur, c'est dans sa définition de grands concepts d'infrastructure, d'algorithmie, de stockage… qui permettent de bien définir ce qu'on veut. Apprendre le code à des élèves ne les fera pas devenir chef de chantier, ça leur donnera uniquement une pelle pour creuser. Un peu comme si, du français, on n'apprenait que les mots, mais pas la grammaire, la conjugaison, l'analyse de textes de grandes auteurs…
@@ -76,11 +76,11 @@ En fait, l'Education Nationale n'est pas complètement stupide (peu importe ce q
 
 Ces compétences sont, bien sûr, enseignées à travers plusieurs matières dont les Mathématiques, la Physique, la Chimie, l'Histoire (oui, l'Impression ou la Revolution Industrielle, c'est aussi de l'histoire des Sciences), la Philosophie et l'Education Civique (pour l'enseignement du concept d'information, son importance et le contrat social entre les citoyens et l'État à qui ils confient la sécurité de leur vie privée)… et la Technologie.
 
-> En sixième, le domaine d'application retenu est&nbsp;: les moyens de transports.
->   * analyse de produits (objets techniques peu complexes) pour comprendre les besoins essentiels ou créés auxquels ils répondent, leur constitution et leur fonctionnement,
->   * découverte et la mise en œuvre de moyens élémentaires de fabrication,
->   * usage raisonné des technologies de l’information et de la communication.
->   * évolution des objets à travers le temps.
+> En sixième, le domaine d'application retenu est&nbsp;: les moyens de transports.  
+>   * analyse de produits (objets techniques peu complexes) pour comprendre les besoins essentiels ou créés auxquels ils répondent, leur constitution et leur fonctionnement,  
+>   * découverte et la mise en œuvre de moyens élémentaires de fabrication,  
+>   * usage raisonné des technologies de l’information et de la communication.  
+>   * évolution des objets à travers le temps.  
 >   <cite>[Wikipedia, "Technologie dans les collèges français"](http://fr.wikipedia.org/wiki/Technologie_dans_les_coll%C3%A8ges_fran%C3%A7ais)</cite>
 
 Il serait donc peut-être pertinent qu'on offre aux professeurs de Technologie l'opportunité de mieux enseigner leur matière avant de proposer d'ajouter des choses au programme, non&nbsp;?

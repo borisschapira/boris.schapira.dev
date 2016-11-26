@@ -6,8 +6,8 @@ lang: fr
 type: post
 ---
 
-> — Maman, pourquoi tu fais du grabouillage ?
-> — Ah non, je te remercie… c'est ma signature.
+> — Maman, pourquoi tu fais du grabouillage ?  
+> — Ah non, je te remercie… c'est ma signature.  
 > — Ah, d'accord.
 
 Cinq minutes après, il me confiera :

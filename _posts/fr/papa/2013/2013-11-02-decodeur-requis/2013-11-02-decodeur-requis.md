@@ -6,10 +6,10 @@ lang: fr
 type: post
 ---
 
-> — Papa, papa !
-> — Oui chéri ?
-> — Maman, fâchée !
-> — Maman est fâchée, mais pourquoi ?
+> — Papa, papa !  
+> — Oui chéri ?  
+> — Maman, fâchée !  
+> — Maman est fâchée, mais pourquoi ?  
 > — Maman fâchée, bite papa pas levée !
 
 Il fallait donc comprendre : Maman est fâchée parce qu'elle a appuyé sur le **bip** (la télécommande), et la barrière du parking ne s'est pas levée.

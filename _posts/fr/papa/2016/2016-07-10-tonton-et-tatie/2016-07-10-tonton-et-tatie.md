@@ -12,9 +12,9 @@ Puzzle vs. Power Rangers, le combat n'était pas équitable…
 
 <!-- more -->
 
-> — Alors, tu es content d'être ici mon petit bonhomme ?
-> — Yi ! Tonton y joue avec les Popower !
-> — Avec les Power Rangers, oui. Et Tatie ?
-> — Tatie ?
-> — Oui, tu sais, Tatie, elle s'occupe beaucoup de vous.
+> — Alors, tu es content d'être ici mon petit bonhomme ?  
+> — Yi ! Tonton y joue avec les Popower !  
+> — Avec les Power Rangers, oui. Et Tatie ?  
+> — Tatie ?  
+> — Oui, tu sais, Tatie, elle s'occupe beaucoup de vous.  
 > — Ah, oui. Tatie… Tatie elle fait… Tatie elle fait les chocolats ! Elle fait bien les chocolats, Tatie !

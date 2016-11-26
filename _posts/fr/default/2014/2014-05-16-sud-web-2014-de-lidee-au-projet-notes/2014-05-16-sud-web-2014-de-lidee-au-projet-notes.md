@@ -46,7 +46,7 @@ Ici aussi, des outils méthodologiques existent. Par exemple, pour faciliter la 
 
 Capturer, Conceptualiser, Confronter&nbsp;: voilà les trois clés que vous retrouverez dans n'importe quelle méthode et qui permettent de surmonter la procrastination, la peur et l'excès de confiance en soi. L’investissement en temps est toujours conséquent et n’aboutit que rarement à un succès mais comme le disait Thomas Edison&nbsp;:
 
-> None of my inventions came by accident. I see a worthwhile **need to be met** and I make **trial after trial** until it comes. What it boils down to is one per cent inspiration and ninety-nine per cent perspiration.
+> None of my inventions came by accident. I see a worthwhile **need to be met** and I make **trial after trial** until it comes. What it boils down to is one per cent inspiration and ninety-nine per cent perspiration.  
 > <cite>Thomas Edison</cite>
 
 Quand je vois ce qu’est devenu Sud Web aujourd’hui, je suis très heureux de me dire que cette idée-là, ce concept de réunir les métiers du Web dans le Sud Ouest, ne soit pas tombé dans l’oubli. Merci donc à la Thym qui transpire pour nous chaque année.

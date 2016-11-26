@@ -12,7 +12,7 @@ _**Frednetick **se posait hier la question «[Et si l'on se passait du Parlement
 
 <!-- more -->
 
-> "I've witnessed first hand the power of ideas, I've seen people kill in the name of them, and die defending them… but you cannot kiss an idea, cannot touch it, or hold it… ideas do not bleed, they do not feel pain, they do not love… And it is not an idea that I miss, it is a man… A man that made me remember the Fifth of November. À man that I will never forget."
+> "I've witnessed first hand the power of ideas, I've seen people kill in the name of them, and die defending them… but you cannot kiss an idea, cannot touch it, or hold it… ideas do not bleed, they do not feel pain, they do not love… And it is not an idea that I miss, it is a man… A man that made me remember the Fifth of November. À man that I will never forget."  
 > Evey Hammond, _V for Vendetta (2005)_
 
 Évidemment, la solution de Fawkes, que l'on pourrait résumer par "tuer et tout faire péter", bien qu'elle ait été parfaitement logique en son époque, semblerait aujourd'hui plus difficile à mettre en place, et bien inutile.

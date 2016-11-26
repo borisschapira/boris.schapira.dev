@@ -8,8 +8,8 @@ type: post
 
 En sortie avec le petit dernier de 20 mois :
 
-> — Pap'a, pap'a, facìon !
-> — Quoi ?
+> — Pap'a, pap'a, facìon !  
+> — Quoi ?  
 > — Pap'a facìon la youte 'ture !
 
 Ça m'a pris quelques secondes et puis j'ai compris...

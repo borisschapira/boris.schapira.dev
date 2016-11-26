@@ -8,7 +8,7 @@ lang: fr
 type: post
 ---
 
-> Si vous avez des idées sur comment utiliser ces ordinateurs, vous pouvez prendre contact avec cette mission.
+> Si vous avez des idées sur comment utiliser ces ordinateurs, vous pouvez prendre contact avec cette mission.  
 > <cite>Arlette Chabot</cite>
 
 <!-- more -->

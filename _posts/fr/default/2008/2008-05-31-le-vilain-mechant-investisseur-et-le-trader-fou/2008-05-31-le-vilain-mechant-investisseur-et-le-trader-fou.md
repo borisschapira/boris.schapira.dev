@@ -17,12 +17,12 @@ Quand ce n'est pas cette vision qui domine, c'est celle du trader fou, spéculat
 
 Et ce ne sont pas nos chefs d'État qui aident à changer cette image&nbsp;:
 
-> On fait de l’argent sur le dos des gens et après on fiche tout le monde dehors. La dictature financière, ça suffit.
+> On fait de l’argent sur le dos des gens et après on fiche tout le monde dehors. La dictature financière, ça suffit.  
 > <cite>Jacques Chirac, Le Monde, 30 mai 2006</cite>
 
 &nbsp;
  
-> La libre concurrence n’est pas plus compatible avec les dumpings de toutes sortes que le capitalisme entrepreneurial n’est compatible avec la prise totale de pouvoir par la finance et la soumission de la logique de la production à la logique financière
+> La libre concurrence n’est pas plus compatible avec les dumpings de toutes sortes que le capitalisme entrepreneurial n’est compatible avec la prise totale de pouvoir par la finance et la soumission de la logique de la production à la logique financière  
 > <cite>Nicolas Sarkozy, Conférence de presse de l’Élysée, 8 janvier 2008</cite>
 
 Ce qui est vicieux avec cet état des choses, c'est qu'on oublie totalement le rôle de l'investisseur et du spéculateur dans la vision "normative" de la Finance, ne retenant que la façon dont on fait la Finance aujourd'hui. L'investisseur entrevoit les bénéfices à court terme d'évolutions d'entreprises à long terme. Lorsqu'il investit dans une entreprise, il investit sur son potentiel de réussite à 10, 20, 30 ans. Et lorsqu'il se retire d'une entreprise, ce n'est pas pour provoquer des licenciements, mais au contraire pour réinvestir dans un autre support de création d'emploi.

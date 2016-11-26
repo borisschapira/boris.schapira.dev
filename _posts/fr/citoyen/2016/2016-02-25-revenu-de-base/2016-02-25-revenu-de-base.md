@@ -8,7 +8,7 @@ lang: fr
 type: post
 ---
 
-> Le revenu universel suppose la primauté de l’équité et du social sur l’efficacité et l’économique.
+> Le revenu universel suppose la primauté de l’équité et du social sur l’efficacité et l’économique.  
 > <cite>"[Les secrets bien gardés du revenu universel](http://magazine.ouishare.net/fr/2016/02/les-secrets-bien-gardes-du-revenu-universel/)", Diana Filippova</cite>
 
 Une lecture un peu technique si vous n'avez pas les fondements du concept[^dossier]. Le point évoqué souligne la difficulté qu'on peut avoir à aborder politiquement le sujet : nous vivons dans une société qui préfère [financer à perte la recherche d'emploi](http://www.lemonde.fr/les-decodeurs/article/2016/02/24/les-chomeurs-ne-sont-pas-responsables-du-deficit-et-de-la-dette-de-l-assurance-chomage_4870857_4355770.html) que d'indemniser des chômeurs sans contrepartie. Le social n'a pas la primauté sur l'économie.

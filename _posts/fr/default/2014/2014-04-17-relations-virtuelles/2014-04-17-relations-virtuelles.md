@@ -8,7 +8,7 @@ lang: fr
 type: post
 ---
 
-> We know that happiness is mainly being satisfied with people that we like, spending time with people that we like. There are other pleasures, but this is dominant.
+> We know that happiness is mainly being satisfied with people that we like, spending time with people that we like. There are other pleasures, but this is dominant.  
 >
 > ["The riddle of experience vs. memory"](http://www.ted.com/talks/daniel_kahneman_the_riddle_of_experience_vs_memory "&quot;The riddle of experience vs. memory&quot;, Daniel Kahneman &quot;, TED"), Daniel Kahneman &quot;, TED
 

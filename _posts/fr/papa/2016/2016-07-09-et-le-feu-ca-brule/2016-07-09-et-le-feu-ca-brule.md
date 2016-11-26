@@ -10,9 +10,9 @@ Voyage chez mon père, qui possède une piscine. Rapidement, le grand teste. Le 
 
 <!-- more -->
 
-> — Tu ne veux pas y aller, chéri ?
-> — Non, elle est méchante la piyine.
-> — Ah bon ?
+> — Tu ne veux pas y aller, chéri ?  
+> — Non, elle est méchante la piyine.  
+> — Ah bon ?  
 > — Yi, la piyine elle m'a mouillé le pied, Papa !
 
 <figure>

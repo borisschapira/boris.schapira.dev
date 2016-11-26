@@ -12,7 +12,7 @@ type: post
 
 ## pour mieux régner
 
-> En politique et en sociologie, **diviser pour régner** (du latin "<em lang="latin">Divide ut regnes</em>") est une stratégie visant à semer la discorde et à opposer les éléments d'un tout pour les affaiblir et à user de son pouvoir pour les influencer. Cela permet de réduire des concentrations de pouvoir en éléments qui ont moins de puissance que celui qui met en œuvre la stratégie, et permet de régner sur une population alors que cette dernière, si elle était unie, aurait les moyens de faire tomber le pouvoir en question.
+> En politique et en sociologie, **diviser pour régner** (du latin "<em lang="latin">Divide ut regnes</em>") est une stratégie visant à semer la discorde et à opposer les éléments d'un tout pour les affaiblir et à user de son pouvoir pour les influencer. Cela permet de réduire des concentrations de pouvoir en éléments qui ont moins de puissance que celui qui met en œuvre la stratégie, et permet de régner sur une population alors que cette dernière, si elle était unie, aurait les moyens de faire tomber le pouvoir en question.  
 > <cite>"[Diviser pour régner](https://fr.wikipedia.org/wiki/Diviser_pour_r%C3%A9gner)", Wikipédia</cite>
 
 <!-- more -->

@@ -11,7 +11,7 @@ lang: fr
 type: post
 ---
 
-> Avec **113** participants issus de 18 pays, les Trophées du libre sont sans conteste **le plus grand concours jamais organisé pour la promotion de la cause du libre** auprès des utilisateurs de logiciels. Les développeurs qui remporteront cette récompense obtiendront la visibilité qui leur est due. (…) Je suis très honoré de venir remettre leur Trophée aux gagnants et les remercie d'avance pour leur contribution à leur propre liberté d'expression ainsi qu'à celle des autres.
+> Avec **113** participants issus de 18 pays, les Trophées du libre sont sans conteste **le plus grand concours jamais organisé pour la promotion de la cause du libre** auprès des utilisateurs de logiciels. Les développeurs qui remporteront cette récompense obtiendront la visibilité qui leur est due. (…) Je suis très honoré de venir remettre leur Trophée aux gagnants et les remercie d'avance pour leur contribution à leur propre liberté d'expression ainsi qu'à celle des autres.  
 >   <cite>[Richard Stallman](http://fr.wikipedia.org/wiki/Richard_Stallman), président de la première édition en 2003</cite>
 
 C'est formidable de voir un tel élan d'inventivité et de création et je vois beaucoup de contributeurs historiques du libre que cela fait rêver.

@@ -21,22 +21,22 @@ Je n'attends pas qu'ils se taisent et lance&nbsp;:
 
 Je m'adresse ensuite plus directement à lui, mais suffisamment fort pour que tout le monde entende&nbsp;:
 
-> — Et je voulais te dire, il est très sympa, ton sweat !
-> — Ah merci m'sieur, je l'ai acheté sur un site US.
-> — Non, vraiment, il est sympa. Il te va bien, il met bien en valeur tes pectoraux.
+> — Et je voulais te dire, il est très sympa, ton sweat !  
+> — Ah merci m'sieur, je l'ai acheté sur un site US.  
+> — Non, vraiment, il est sympa. Il te va bien, il met bien en valeur tes pectoraux.  
 > — Euh… merci.
 
 La classe est désormais toute ouïe, on entendrait une mouche volée…
 
-> &#45; Et j'ajouterais même qu'il va très bien avec ton jean, qui lui, met en valeur tes fesses.
-> — Mais, euh… monsieur&nbsp;?!
+> &#45; Et j'ajouterais même qu'il va très bien avec ton jean, qui lui, met en valeur tes fesses.  
+> — Mais, euh… monsieur&nbsp;?!  
 > — Ça te gêne, les compliments&nbsp;? Pourquoi&nbsp;? Parce que tu ne m'as rien demandé&nbsp;? Et bien dis-toi que elle, c'est pareil. C'est valable pour toi mais aussi pour les autres.
 
 Puis, à toute la classe&nbsp;:
 
-> Vous trouvez qu'on a trop de femmes dans l'informatique&nbsp;? Parfait, alors continuez comme ça, vous comprendrez que ça ne risquera pas de changer. Si elles vous disent non, c'est non. Et si elles ne vous disent pas oui, posez la question. Le consentement, c'est la clé.
+> Vous trouvez qu'on a trop de femmes dans l'informatique&nbsp;? Parfait, alors continuez comme ça, vous comprendrez que ça ne risquera pas de changer. Si elles vous disent non, c'est non. Et si elles ne vous disent pas oui, posez la question. Le consentement, c'est la clé.  
 >
-> On ne parle que de ça, ensemble, depuis des semaines&nbsp;: comment se mettre à la place des utilisateurs, comment s'assurer qu'ils comprennent nos produits plutôt que d'essayer d'imposer notre vision…
+> On ne parle que de ça, ensemble, depuis des semaines&nbsp;: comment se mettre à la place des utilisateurs, comment s'assurer qu'ils comprennent nos produits plutôt que d'essayer d'imposer notre vision…  
 >
 > Faites pareil dans votre vie personnelle&nbsp;: draguez en prenant soin de ne pas vous imposer. Je suis sûr que vous êtes vachement plus intéressants quand vous parlez de vous que quand vous faites vos boloss, là !
 
