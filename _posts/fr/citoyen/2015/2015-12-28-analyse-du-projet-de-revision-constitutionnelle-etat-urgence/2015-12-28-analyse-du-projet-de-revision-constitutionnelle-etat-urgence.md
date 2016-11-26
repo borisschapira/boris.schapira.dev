@@ -8,7 +8,7 @@ lang: fr
 type: post
 ---
 
-> C’est ainsi que loin de constituer une garantie pour les droits et libertés fondamentaux, le projet de révision constitutionnelle constitue une régression en ce qu’il grave dans le marbre de la Constitution, la possibilité pour le législateur de «&nbsp;renouveler&nbsp;» les «&nbsp;outils&nbsp;» que les «&nbsp;forces de sécurité&nbsp;» pourront mettre en action en violation des droits et libertés.
+> C’est ainsi que loin de constituer une garantie pour les droits et libertés fondamentaux, le projet de révision constitutionnelle constitue une régression en ce qu’il grave dans le marbre de la Constitution, la possibilité pour le législateur de «&nbsp;renouveler&nbsp;» les «&nbsp;outils&nbsp;» que les «&nbsp;forces de sécurité&nbsp;» pourront mettre en action en violation des droits et libertés.  
 > <cite><a href="http://www.pauljorion.com/blog/2015/12/27/lanalyse-du-projet-de-revision-constitutionnelle-letat-durgence-1/#more-81257">"L'analyse du projet de révision constitutionnelle : l'État d'urgence"</a>, par Cédric Mas</cite>
 
 Basculer l'État d'urgence de la loi de 1955 à la Consitution n'est pas un détail. Il est **critique** que nos députés gardent la tête froide et amendent ce projet en y ajoutant les garde-fous nécessaires, pour en limiter les atteintes aux libertés, la durée et les causes d'application.

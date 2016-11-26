@@ -9,7 +9,7 @@ lang: fr
 type: post
 ---
 
-> L’idée centrale de [l']ouvrage [de Tyler Cowen] est que l’évolution technologique va totalement polariser le monde du travail entre des travailleurs hyper complémentaires aux machines intelligentes et très bien rémunérés et une masse informe d’individus peu compatibles et clairement laissés sur le bas côté.
+> L’idée centrale de [l']ouvrage [de Tyler Cowen] est que l’évolution technologique va totalement polariser le monde du travail entre des travailleurs hyper complémentaires aux machines intelligentes et très bien rémunérés et une masse informe d’individus peu compatibles et clairement laissés sur le bas côté.  
 >
 > <cite>["Le système éducatif français en phase avec l’avenir (troll à méditer)"](http://econoclaste.org.free.fr/econoclaste/?p=12046 "&quot;Le système éducatif français en phase avec l’avenir (troll à méditer)&quot;, Stéphane Menia &quot;, Econoclaste") par Stéphane Menia pour Econoclaste</cite>
 
@@ -19,7 +19,7 @@ Le marché de l'emploi est en constante mutation. Dans la branche des Services, 
 
 Je suis également persuadé qu'une mutation lente va, durant dix prochaines années, voir s'imposer une séparation naturelle entre ceux qui sont capables de mettre à profit l'outil informatique pour réaliser les missions qui leur sont confiées et les autres. Je ne parle pas de savoir se servir d'un traitement de texte ou d'un progiciel pour répéter la même tâche _ad nauseam_ mais bien de connaitre les bases de la recherche d'information, du traitement de données ciblées comme plus générales, de l'automatisation de la production de livrables ou de la modularisation de la boite à outils de l'entreprise.
 
-> D’ici 2020 – autant dire demain – 90 % des emplois nécessiteront des compétences numériques, et nous ne sommes pas prêts.
+> D’ici 2020 – autant dire demain – 90 % des emplois nécessiteront des compétences numériques, et nous ne sommes pas prêts.  
 >
 > <cite>[Neelie Kroes, vice-présidente de la Commission européenne chargée de la stratégie numérique](http://frenchweb.fr/labsence-de-competences-numeriques-est-une-nouvelle-forme-dillettrisme/147096 "Neelie Kroes: layout: postL’absence de compétences numériques est une nouvelle forme d’illettrisme&nbsp;» &quot;, FrenchWeb.fr")</cite>
 

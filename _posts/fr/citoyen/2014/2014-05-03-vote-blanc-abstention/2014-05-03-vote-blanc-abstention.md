@@ -11,7 +11,7 @@ type: post
 
 ## Un citoyen, c'est davantage qu'un bulletin. Mais le bulletin a un sens.
 
-> Mais si les électeurs se déplacent, c'est aussi par altruisme&nbsp;: plus l'électeur est motivé par le bien-être de sa communauté ou de son pays, et non par son seul intérêt égoïste, et plus il retire de satisfaction de son acte.
+> Mais si les électeurs se déplacent, c'est aussi par altruisme&nbsp;: plus l'électeur est motivé par le bien-être de sa communauté ou de son pays, et non par son seul intérêt égoïste, et plus il retire de satisfaction de son acte.  
 >
 >
 > Alexandre Delaigue et Stéphane Menia, [Sexe, drogue… et économie](http://econoclaste.org.free.fr/econoclaste/?page_id=163 "Sexe, drogue… et économie")

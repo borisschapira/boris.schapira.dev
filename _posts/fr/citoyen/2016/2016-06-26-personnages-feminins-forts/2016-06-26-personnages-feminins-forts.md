@@ -8,7 +8,7 @@ lang: fr
 type: post
 ---
 
-> Je pense que la vraie force de Sansa c'est qu'elle ne se bat pas. Dans un monde où c'est la solution de base, Sansa est [un] des personnages avec l'évolution la plus intéressante.
+> Je pense que la vraie force de Sansa c'est qu'elle ne se bat pas. Dans un monde où c'est la solution de base, Sansa est [un] des personnages avec l'évolution la plus intéressante.  
 > <cite>"[Les personnages féminins forts : bagarre mais pas seulement](http://www.mirionmalle.com/2015/06/les-personnages-feminins-forts-bagarre.html)" sur Commando Culotte, le blog de Mirion Malle</cite>
 
 Plus jeune, j'ai énormément apprécié le personnage de Buffy Summers et je pense que cela a profondément changé la façon dont je perçois la <i lang="en">Pop Culture</i>.

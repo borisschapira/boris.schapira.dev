@@ -8,9 +8,9 @@ lang: fr
 type: post
 ---
 
-> **Vous n’avez pas besoin d’un site web.**
+> **Vous n’avez pas besoin d’un site web.**  
 >
-> Ça parait con dit comme ça, de ma part. Je mange grâce aux centaines de sites web qu’on a réalisé depuis des années.
+> Ça parait con dit comme ça, de ma part. Je mange grâce aux centaines de sites web qu’on a réalisé depuis des années.  
 > <cite>"[Vous n’avez pas besoin d’un site web.](http://fuuuccckkk.tumblr.com/post/141622101754/vous-navez-pas-besoin-dun-site-web)"</cite>
 
 Non, ça n'est pas con et je pense même que _c'est le meilleur conseil qu'on puisse donner à de nombreux apporteurs de projets_. Un site web, seul, est rarement la solution à un problème ou la réponse à un besoin.

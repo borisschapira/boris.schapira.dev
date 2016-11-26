@@ -12,9 +12,9 @@ type: post
 
 <!-- more -->
 
-> During the last 3 years, Doug probably solved a bug that would have affected your production application. During this time he most likely improved your server’s runtime performance without you even realizing it.
+> During the last 3 years, Doug probably solved a bug that would have affected your production application. During this time he most likely improved your server’s runtime performance without you even realizing it.  
 >
-> So I would like to say thank you to Doug Wilson. For all of your hard work.
+> So I would like to say thank you to Doug Wilson. For all of your hard work.  
 > <cite>"[The Unbelievable History of the Express JavaScript Framework](http://thefullstack.xyz/history-express-javascript-framework/)", Dor Tzur</cite>
 
 Derrière la plupart des outils de notre quotidien, il y a des hommes et des femmes qui contribuent discrètement à leur succès et qui donnent de leur temps sur des projets dont vous n'entendrez jamais parler ou sur d'autres que vous utilisez tous les jours[^firefox]. Ils ne sont pas toujours isolés, font parfois partie de structures qui ont de forts intérêts dans ces projets[^giga].

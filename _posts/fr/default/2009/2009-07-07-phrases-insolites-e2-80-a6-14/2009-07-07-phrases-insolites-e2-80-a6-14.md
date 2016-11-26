@@ -26,16 +26,16 @@ Qui voulait certainement dire&nbsp;: Je m'engage en lui donnant mon accord.
 
 ## Respecte tes ainés
 
-> — Up, c'est l'histoire d'un vieux qui accroche des ballons sur sa maison pour s'envoler…
+> — Up, c'est l'histoire d'un vieux qui accroche des ballons sur sa maison pour s'envoler…  
 > — Ah ben p$%^#n, s'ils pouvaient tous faire ça&nbsp;!
 
 ## Evidence
 
-> — L'appli marche chez toi et pas chez moi. Il y a visiblement un truc que tu as et que je n'ai pas.
+> — L'appli marche chez toi et pas chez moi. Il y a visiblement un truc que tu as et que je n'ai pas.  
 > — La classe&nbsp;?
 
 ## Un truc entre les jambes
 
-> — Tu vois, moi, ce que je voudrais, c'est une nouvelle moto. Un truc dont je sentirais la puissance entre mes jambes. Un truc qui va plus vite…
-> — Qu'est-ce que t'attends&nbsp;?
+> — Tu vois, moi, ce que je voudrais, c'est une nouvelle moto. Un truc dont je sentirais la puissance entre mes jambes. Un truc qui va plus vite…  
+> — Qu'est-ce que t'attends&nbsp;?  
 > — Il faut que j'en trouve une avec l'ABS… sinon ma femme ne veut pas.

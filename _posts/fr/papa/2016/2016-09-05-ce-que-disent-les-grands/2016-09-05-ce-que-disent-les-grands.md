@@ -10,8 +10,8 @@ Ce soir, le grand a débarassé la table à la demande de sa mère, en ne se tro
 
 <!-- more -->
 
-> — C'est très bien chéri, tu peux être fier de toi.
-> — Mais j'ai fait ce que Papa et Maman ont dit.
+> — C'est très bien chéri, tu peux être fier de toi.  
+> — Mais j'ai fait ce que Papa et Maman ont dit.  
 > — C'est encore mieux ! C'est bien, mon fils, tu iras loin !
 
 

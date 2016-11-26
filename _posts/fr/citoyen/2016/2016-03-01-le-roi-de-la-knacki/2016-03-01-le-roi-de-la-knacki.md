@@ -31,10 +31,10 @@ Je me suis rapproché et suis désormais en face de lui, à environ 50 centimèt
 
 Un silence s'installe, que je romps rapidement en parlant, moi aussi, très fort pour que toute sa cour entende bien :
 
-> — Excusez-moi, je n'ai pas pu m'empêcher d'entendre. On peut avoir son nom ?
-> — Hein ?! Euh, le nom de qui ?
-> — De la jeune fille dont vous parlez. On a tellement de détails sur elle, on voudrait la connaitre maintenant.
-> — Hein ?! Mais, euh, non !
+> — Excusez-moi, je n'ai pas pu m'empêcher d'entendre. On peut avoir son nom ?  
+> — Hein ?! Euh, le nom de qui ?  
+> — De la jeune fille dont vous parlez. On a tellement de détails sur elle, on voudrait la connaitre maintenant.  
+> — Hein ?! Mais, euh, non !  
 > — Allez, ça serait sympa ! On serait pas bien, là, tous ensemble, à sâlir sa réputation ? Ça irait plus vite que si c'est juste vous, non ? Et puis on pourrait avoir son adresse, aussi, pour aller lui jeter des pierres. Ça aurait de la gueule !
 
 Il se décompose. Silence pesant autour de nous. Les jeunes ont honte, les adultes aussi. Le crocodile regarde ses pieds. Le bus manœuvre vers un arrêt, j'en profite pour retourner m'assoir. Le groupe recommence doucement à chuchoter, tous les regards pointés vers le crocodile. Après 5 ou 6 arrêts, nous arrivons à leur collège : ils descendent en silence.

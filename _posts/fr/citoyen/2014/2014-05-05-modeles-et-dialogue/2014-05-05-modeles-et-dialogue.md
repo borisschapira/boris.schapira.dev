@@ -8,7 +8,7 @@ lang: fr
 type: post
 ---
 
-> Our ordinary conceptual system, in terms of which we both think and act, is fundamentally metaphorical in nature.
+> Our ordinary conceptual system, in terms of which we both think and act, is fundamentally metaphorical in nature.  
 >   <cite>George Lakoff, [Metaphors We Live By](http://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html "Metaphors We Live By, Lakoff, Johnson")</cite>
 
 Est-ce que notre monde est profondément influencé par la façon dont nous le représentons par le langage ou est-ce le langage que nous construisons pour adapter le monde à notre perception... difficile de le dire. Ce qui est sûr, c'est que la façon dont nous disons les choses explique bien des choses sur la façon dont nous les percevons ou souhaitons qu'elles évoluent.
@@ -17,9 +17,9 @@ Un exemple tout bête : "le dialogue social" et les "partenaires sociaux". Notez
 
 Et en même temps, j'entendais il y a quelques temps une chroniqueuse expliquer sur Europe, dans une de ces émissions que seuls les parents écoutent :
 
-> Quand les enfants quittent le monde des vacances, parfois passées avec les grands parents, pour rejoindre le chemin de l'Ecole, il est important que les parents fassent attention à ce qu'ils disent.
+> Quand les enfants quittent le monde des vacances, parfois passées avec les grands parents, pour rejoindre le chemin de l'Ecole, il est important que les parents fassent attention à ce qu'ils disent.  
 >
-> Il est possible que vos enfants n'aient pas fait que des choses que vous auriez valider et que vous n'approuviez pas les actions de vos parents et beaux-parents mais il ne faut jamais le dire devant l'enfant car lui de retiendra qu'une chose : qu'un enfant peut, s'il le souhaite, contredire les actions et les décisions de ses parents.
+> Il est possible que vos enfants n'aient pas fait que des choses que vous auriez valider et que vous n'approuviez pas les actions de vos parents et beaux-parents mais il ne faut jamais le dire devant l'enfant car lui de retiendra qu'une chose : qu'un enfant peut, s'il le souhaite, contredire les actions et les décisions de ses parents.  
 >
 > Il appliquera à son propre cas ce que vous appliquez au vôtre. Si c'est une réaction normale et souhaitable chez un adolescent, elle doit être évitée chez les plus jeunes, qui ont besoin de repères.
 

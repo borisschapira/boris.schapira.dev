@@ -59,7 +59,7 @@ Si votre fille veut devenir pompier, il faudra qu'elle comprenne qu'il s'agit d'
 
 Pas de costume d'ouvrière BTP, pas de costume de policière. L'autre jour, je suis tombé sur un costume "scientifique" composé d'une blouse blanche et d'une paire de grosses lunettes. Il n'était proposé que chez les garçons. J'ai bien cherché, je ne vois que deux conclusiosn possibles : soit les filles n'ont pas de nez, soit elles n'ont pas les bras fixés comme les garçons. En dehors de ça, je ne vois ce qui empêche le déguisement d'être unisexe.
 
-> De quoi a-t-on peur en laissant des garçons jouer à la poupée ?
+> De quoi a-t-on peur en laissant des garçons jouer à la poupée ?  
 > Qu'ils deviennent de bons pères ?
 
 Je ne m'étalerai pas sur les stéréotypes purement féminins, il y aurait tout un nouvel article à écrire (peut-être si j'ai une fille un jour…). Même si Mattel a récemment décidé de créer [des Barbies rondes, grandes ou petites](http://time.com/barbie-new-body-cover-story/), les mensurations de la pépette ont complexé plus d'une gamine de manière durable. On se retrouve avec des adolescentes qui se demandent pourquoi elles ne peuvent pas passer un poing complet entre leur cuisse. Comme si c'était un impératif physiologique, comme si toutes les femmes étaient faites comme ça…
@@ -78,7 +78,7 @@ Malheureusement, tout cela ne suffit pas. Tous les jours, je vois "les catalogue
 
 Les jouets ne sont évidemment pas responsables de tous les maux mais ils en sont le premier symptôme. Par le jouet, l'enfant s'approprie un réel qui lui échappe et qu'il met en scène pour mieux le comprendre. En scénarisant cette mise en scène avec nos propres biais, nous construisons de futurs adultes aux repères imposés qui mettront des années à dépasser ces constructions (certains n'y arriveront jamais), voire les pousseront plus loin que ce que nous craignons déjà.
 
-> Les viviers d’hommes pour les métiers de la petite enfance sont à chercher notamment du côté des réorientations et des «&nbsp;secondes carrières&nbsp;» (Flandre, Allemagne, Écosse). Il est plus facile de transgresser les normes professionnelles masculines à l’âge adulte qu’à l’adolescence.
+> Les viviers d’hommes pour les métiers de la petite enfance sont à chercher notamment du côté des réorientations et des «&nbsp;secondes carrières&nbsp;» (Flandre, Allemagne, Écosse). Il est plus facile de transgresser les normes professionnelles masculines à l’âge adulte qu’à l’adolescence.  
 > <cite>"[Lutter contre les stéréotypes filles-garçons, un enjeu d'égalité et de mixité dès l'enfance](http://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/archives/CGSP_Stereotypes_filles_garcons_web.pdf)", travaux coordonnés par Marie-Cécile Naves et Vanessa Wisnia-Weill en janvier 2014 pour le [Commissariat général à la stratégie et à la prospective](http://www.strategie.gouv.fr/).</cite>
 
 ## Le pourquoi derrière tout ça

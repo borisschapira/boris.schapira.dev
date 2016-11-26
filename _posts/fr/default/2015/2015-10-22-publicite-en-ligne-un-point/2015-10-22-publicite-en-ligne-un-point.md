@@ -33,7 +33,7 @@ Ces pratiques quantitatives déprécient les contenus et leur valorisation publi
 
 Pour tout dire, la solution est devenue si inacceptable que même l’industrie de la publicité en ligne, représentée par l’IAB[^IAB], le confirme :
 
-> We messed up. As technologists, tasked with delivering content and services to users, we lost track of the user experience.
+> We messed up. As technologists, tasked with delivering content and services to users, we lost track of the user experience.  
 > <cite>Scott Cunningham dans <a href="http://www.iab.com/news/lean/">Getting LEAN with Digital Ad UX</a></cite>
 
 [^IAB]: L’Internet Advertising Bureau, la principale association de professionnels de la publicité en ligne regroupant de nombreux acteurs de l’écosystème publicitaire : agences, régies, partenaires, hébergeurs. Habituellement, l’IAB promeut massivement la publicité en ligne en finançant des études sur son efficacité. Ce constat d’échec est un séisme.
