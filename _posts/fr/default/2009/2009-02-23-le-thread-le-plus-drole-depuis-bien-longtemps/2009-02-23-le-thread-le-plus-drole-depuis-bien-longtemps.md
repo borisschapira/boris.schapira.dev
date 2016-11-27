@@ -2,8 +2,8 @@
 title: 'Le thread le plus drôle depuis bien longtemps…'
 categories:
     - Humour
+    - default
 date: '2009-02-23'
-section: default
 lang: fr
 type: post
 ---

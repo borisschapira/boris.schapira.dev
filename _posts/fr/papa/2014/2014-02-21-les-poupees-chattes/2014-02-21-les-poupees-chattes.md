@@ -1,9 +1,10 @@
 ---
 title: 'Les Poupées Chattes'
 date: '2014-02-21'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Ma femme écoutait "[Buttons](https://www.youtube.com/watch?v=VCLxJd1d84s)" des Poupées Chattes :

@@ -6,9 +6,10 @@ tags:
     - 'Dette publique'
     - Economie
 date: '2009-01-05'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Au menu aujourd'hui, des éléments de réponse aux questions suivantes :

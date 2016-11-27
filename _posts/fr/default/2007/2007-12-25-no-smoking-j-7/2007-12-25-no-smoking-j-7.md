@@ -2,8 +2,8 @@
 title: 'No smoking, J-7'
 categories:
     - Société
+    - default
 date: '2007-12-25'
-section: default
 lang: fr
 type: post
 ---

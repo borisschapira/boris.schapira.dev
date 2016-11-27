@@ -1,9 +1,10 @@
 ---
 title: 'Faut comprendre !'
 date: '2011-12-11'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Le grand continue d'essayer de communiquer avec nous en utilisant sa syntaxe de l'espace. Parfois, on a du mal à comprendre :

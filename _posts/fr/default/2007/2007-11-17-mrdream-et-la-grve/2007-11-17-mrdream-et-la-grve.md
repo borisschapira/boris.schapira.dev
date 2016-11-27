@@ -3,9 +3,10 @@ title: 'MrDream et la grève'
 tags:
     - Grève
 date: '2007-11-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 _Rien &#224; voir mais…&nbsp;: si vous avez 5 minutes, je suis toujours en qu&#234;te de r&#233;ponses pour le __post d'avant__ ^^_

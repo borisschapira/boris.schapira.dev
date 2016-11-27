@@ -2,8 +2,8 @@
 title: '«&#160;J''étais là&#160;», Zazie'
 categories:
     - Musique
+    - default
 date: '2008-02-19'
-section: default
 lang: fr
 type: post
 ---

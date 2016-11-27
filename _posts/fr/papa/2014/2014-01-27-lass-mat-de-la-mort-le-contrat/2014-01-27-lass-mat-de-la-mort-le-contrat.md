@@ -1,9 +1,10 @@
 ---
 title: 'L''Ass. Mat de la mort : le contrat'
 date: '2014-01-27'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Il commence à m'énerver, à ne pas vouloir lâcher son modèle de contrat basé sur la défiance.  

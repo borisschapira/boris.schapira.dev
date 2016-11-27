@@ -4,9 +4,10 @@ tags:
     - Égalité
     - 'État d''urgence'
 date: '2016-02-01'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 J'écrivais, il y a peu, que je pensais que [les français n'avaient pas soif de laïcité](/2016/01/laicite/ "Laïcité") mais étaient, en réalité, terrifiés par un ennemi imaginaire. Dimanche, je découvrais ce terrifiant sondage du _Journal du Dimanche_ (en fin d'article).

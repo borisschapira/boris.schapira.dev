@@ -5,9 +5,10 @@ tags:
     - 'Windows Live Writer'
     - Wordpress
 date: '2007-05-29'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Même quand on travaille dans l'informatique et qu'on met un point d'honneur à se tenir au courant de certains usages, on ne les pratique pas forcément. C'est pourquoi je ne me tourne que maintenant vers l'éditeur d'articles de blog orienté Client. Jusqu'à présent, j'écrivais purement et simplement mes articles dans l'interface de WordPress, bénéficiant parfois du correcteur orthographique de Word quand cela me semblait nécessaire (c'est-à -dire rarement au moment où je faisais vraiment des fautes, malheureusement).

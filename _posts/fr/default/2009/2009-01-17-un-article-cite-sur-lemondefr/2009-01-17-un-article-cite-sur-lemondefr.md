@@ -2,8 +2,8 @@
 title: 'Un article cité sur LeMonde.fr'
 categories:
     - Politique
+    - default
 date: '2009-01-17'
-section: default
 lang: fr
 type: post
 ---

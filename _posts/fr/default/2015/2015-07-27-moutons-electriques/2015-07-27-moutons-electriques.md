@@ -3,9 +3,10 @@ title: 'Moutons électriques'
 tags:
     - 'Intelligence Artificielle'
 date: '2015-07-27'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Deux articles m'ont récemment fait réfléchir, tous les deux traitants de problématiques liées à l'intelligence.

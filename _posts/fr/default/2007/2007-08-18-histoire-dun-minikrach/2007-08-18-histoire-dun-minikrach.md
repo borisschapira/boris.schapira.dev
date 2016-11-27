@@ -5,9 +5,10 @@ tags:
     - Economie
     - Subprime
 date: '2007-08-18'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 J'ai tenté d'expliquer dans un précédent article les raisons de la crise des Subprimes. Depuis, les choses ont évolué et il est nécessaire d'aller un peu plus loin dans la compréhension des personnages…

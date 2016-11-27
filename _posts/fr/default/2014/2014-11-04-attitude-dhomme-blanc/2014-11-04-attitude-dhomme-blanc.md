@@ -4,9 +4,10 @@ tags:
     - Front-End
     - Accessibilité
 date: '2014-11-04'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 > En juin dernier, Fiona Taylor Gorringe soulevait une question intéressante sur son blog&nbsp;:  

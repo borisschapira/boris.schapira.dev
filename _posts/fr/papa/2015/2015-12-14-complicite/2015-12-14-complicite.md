@@ -1,9 +1,10 @@
 ---
 title: Complicité
 date: '2015-12-14'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Je n'ai pas grand chose de drôle à partager, aujourd'hui. Je voudrais juste me souvenir de ce week-end où, les garçons, vous avez été plus complices que jamais. Parfois à nos dépends, mais toujours ensemble.

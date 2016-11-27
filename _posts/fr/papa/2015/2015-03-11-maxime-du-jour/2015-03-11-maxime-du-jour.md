@@ -1,9 +1,10 @@
 ---
 title: 'Maxime du (dernier) jour'
 date: '2015-03-11'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Toujours profiter d'eux comme si c'était le dernier jour.

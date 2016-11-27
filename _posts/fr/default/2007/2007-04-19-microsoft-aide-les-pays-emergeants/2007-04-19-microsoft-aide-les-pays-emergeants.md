@@ -5,9 +5,10 @@ tags:
     - Microsoft
     - 'Microsoft Office'
 date: '2007-04-19'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Bill Gates a annoncé aujourd'hui à Beijing le lancement d'un programme permettant aux populations des **pays émergeants** d'obtenir des **versions allégées de Windows, Office et d'autres logiciels pour 3$**.

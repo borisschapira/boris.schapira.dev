@@ -4,9 +4,10 @@ tags:
     - Technologie
     - Wordpress
 date: '2009-08-03'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 En tant que webmaster de plusieurs blogs Wordpress, je me heurte à un problème récurrent&nbsp;: à chaque mise-à-jour du moteur, d'un plugin ou d'un thème, je dois m'occuper des différents sites un par un (encore que pour le moteur, [Korben a proposé un script pas mal foutu](http://korben.info/comment-mettre-a-jour-plusieurs-wordpress-en-une-seule-fois.html)). Si on rajoute le site de test sur lequel je vérifie d'abord la compatibilité des plugins, cela commence à faire beaucoup de temps perdu pour une tâche qui pourrait être unique.

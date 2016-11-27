@@ -5,9 +5,10 @@ tags:
     - Finance
     - Consulting
 date: '2009-07-22'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Une Ecole d'Ingénieurs m'a récemment proposé d'animer, à la rentrée 2009, une conférence sur le métier de Consultant IT/Finance. Cela me laisse assez perplexe…

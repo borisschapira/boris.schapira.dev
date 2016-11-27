@@ -2,8 +2,8 @@
 title: '[Video] Xbox Natal : Project Milo'
 categories:
     - 'Jeu Video'
+    - default
 date: '2009-07-12'
-section: default
 lang: fr
 type: post
 ---

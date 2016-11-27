@@ -4,9 +4,10 @@ tags:
     - Musique
     - Deezer
 date: '2007-08-22'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 [BlogMusik](http://www.hugedomains.com/domain_profile.cfm?d=blogmusik&amp;e=com), jeune société crée en France en juin 2006, a changé de nom pour [Deezer](http://www.deezer.com) et signé des accords avec la SACEM…

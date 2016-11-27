@@ -3,9 +3,10 @@ title: '8 façons de me faire fuir'
 tags:
     - Emploi
 date: '2007-05-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Depuis plusieurs semaines, je reçois diverses offres (une à deux par jour) de sociétés souhaitant apparemment m'intégrer à leurs équipes. Ces mails sont pour la plupart très bien rédigés, s'accompagnent de coup de fils aimables et donnent suite à des entretiens.

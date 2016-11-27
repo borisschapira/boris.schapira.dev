@@ -3,8 +3,8 @@ title: 'La titrisation pour les blogueurs'
 categories:
     - Finance
     - Humour
+    - default
 date: '2008-12-10'
-section: default
 lang: fr
 type: post
 ---

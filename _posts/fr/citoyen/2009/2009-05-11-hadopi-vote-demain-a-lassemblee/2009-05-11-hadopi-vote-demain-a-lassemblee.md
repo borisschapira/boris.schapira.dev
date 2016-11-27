@@ -4,9 +4,10 @@ tags:
     - Numérique
 series: Hadopi
 date: '2009-05-11'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 Cela fait des semaines que ça dure, et où en sommes-nous&nbsp;? Malgré l'absence complète de résolutions des [problèmes déjà soulevés par le texte](http://stanetdam.com/2009/04/29/les-points-sensibles-de-la-loi-hadopi/), la proposition de loi dite "Hadopi" étend toujours plus son influence néfaste sur la vie privée des citoyens en les rendant responsables de tous les dispositifs acquis en leur nom&nbsp;: connexion internet, [courriers électroniques](http://blog.lefigaro.fr/hightech/2009/04/hadopi-faudra-t-il-aussi-surve.html)… bientôt les [SMS ](http://www.lemonde.fr/societe/article/2009/05/04/garde-a-vue-pour-avoir-recu-un-sms-tendancieux_1188469_3224.html)?

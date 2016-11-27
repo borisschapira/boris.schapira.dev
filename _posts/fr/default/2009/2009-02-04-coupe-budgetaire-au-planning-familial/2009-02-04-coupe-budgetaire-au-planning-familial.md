@@ -2,8 +2,8 @@
 title: 'Coupe budgétaire au Planning Familial'
 categories:
     - Politique
+    - default
 date: '2009-02-04'
-section: default
 lang: fr
 type: post
 ---

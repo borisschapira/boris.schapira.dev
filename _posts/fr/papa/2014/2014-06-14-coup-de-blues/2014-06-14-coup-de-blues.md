@@ -1,9 +1,10 @@
 ---
 title: 'Coup de blues'
 date: '2014-06-14'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Ma femme a une petite mine :

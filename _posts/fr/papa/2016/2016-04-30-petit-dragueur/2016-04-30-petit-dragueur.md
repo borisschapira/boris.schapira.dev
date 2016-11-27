@@ -1,9 +1,10 @@
 ---
 title: 'Petit dragueur'
 date: '2016-04-30'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Gros câlin avec mon petit koala…

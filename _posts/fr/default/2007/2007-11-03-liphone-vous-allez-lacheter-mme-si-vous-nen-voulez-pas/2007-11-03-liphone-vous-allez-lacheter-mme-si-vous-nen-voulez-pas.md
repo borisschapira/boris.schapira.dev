@@ -6,9 +6,10 @@ tags:
     - iPhone
     - Publicité
 date: '2007-11-03'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Imaginez, vous allumez votre télé sur le journal d'informations. Le journaliste prend la parole&nbsp;:

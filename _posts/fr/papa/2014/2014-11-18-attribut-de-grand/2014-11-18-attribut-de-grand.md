@@ -1,9 +1,10 @@
 ---
 title: 'Attribut de "grand"'
 date: '2014-11-18'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — Moi, grand a plus tard, avoir un poil de couille !  

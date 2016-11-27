@@ -1,8 +1,8 @@
 ---
 title: '«&#160;I am Legend&#160;» : c''est vous qui voyez'
-categories: null
+categories:
+    - default
 date: '2007-12-23'
-section: default
 lang: fr
 type: post
 ---

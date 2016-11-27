@@ -2,9 +2,10 @@
 title: 'De retour de l''Agile Tour 2016'
 published: false
 date: '2016-11-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 ## 8e édition bordelaise

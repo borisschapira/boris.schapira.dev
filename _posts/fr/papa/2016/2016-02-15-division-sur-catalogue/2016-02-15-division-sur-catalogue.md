@@ -5,9 +5,10 @@ tags:
     - Égalité
 series: Diviser
 date: '2016-02-15'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 ## sur catalogue

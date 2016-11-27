@@ -3,9 +3,10 @@ title: 'Colocation avec avantages'
 tags:
     - Boulogne
 date: '2007-07-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 **EDIT&nbsp;:** La réponse de l'intéressée

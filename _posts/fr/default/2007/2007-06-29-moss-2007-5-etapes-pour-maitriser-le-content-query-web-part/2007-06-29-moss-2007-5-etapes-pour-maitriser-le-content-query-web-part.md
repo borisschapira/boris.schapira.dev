@@ -5,9 +5,10 @@ tags:
     - 'Content Query Web Part'
     - 'MOSS 2007'
 date: '2007-06-29'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Le Content Query Web Part est le module Web pour Microsoft Office SharePoint Server 2007 permettant de récupérer une liste quelconque du site courant pour l'afficher dans la page. Voici quelques explications pour apprendre à s'en servir.

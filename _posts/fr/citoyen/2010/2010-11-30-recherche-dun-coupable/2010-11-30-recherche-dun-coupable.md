@@ -5,9 +5,10 @@ tags:
     - 'Vie privée'
     - Sécurité
 date: '2010-11-30'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 La sortie de dizaines de milliers de documents confidentiels par [Wikileaks](http://wikileaks.org/) fait, en ce moment, grand bruit. D'abord par la quantité des documents confidentiels ainsi dévoilés, mais surtout par leur qualité et leur actualité, des nombreux diplomates y apparaissant étant encore en poste. À n'en pas douter, ces fuites risquent d'assécher un terrain diplomatique ou le tact et la maitrise tendent à fluidifier les relations. Alors on cherche un coupable.

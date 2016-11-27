@@ -1,9 +1,10 @@
 ---
 title: 'L''orage et la mort'
 date: '2015-09-16'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Discussion avec le grand. Parfois, je ne sais pas trop où il m'emmène...

@@ -1,9 +1,10 @@
 ---
 title: 'Ce que disent les grands'
 date: '2016-09-05'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Ce soir, le grand a débarassé la table à la demande de sa mère, en ne se trompant pas. Il a d'abord empilé les couverts, puis les assiettes en mettant l'assiette remplie de couverts sur le dessus, comme cela se fait. Nous étions bouche bée.

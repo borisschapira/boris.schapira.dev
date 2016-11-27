@@ -1,9 +1,10 @@
 ---
 title: 'Je suis un Papa'
 date: '2016-06-03'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Grosse colère du grand.

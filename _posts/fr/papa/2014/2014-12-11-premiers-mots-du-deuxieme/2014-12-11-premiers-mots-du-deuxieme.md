@@ -1,9 +1,10 @@
 ---
 title: 'Premiers mots du deuxième'
 date: '2014-12-11'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Mon second prononce ses premiers mots hors "papa/maman". Et une fois lancé, c'est le florilège. En deux jours, on a eu : tracteur, jus, manger, tête, nez, zizi et... quéquette.

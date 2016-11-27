@@ -7,9 +7,10 @@ tags:
     - Hadopi
     - Microsoft
 date: '2009-06-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Témoignage en direct du futur :

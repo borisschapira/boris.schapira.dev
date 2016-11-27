@@ -2,8 +2,8 @@
 title: 'Un peu de romantisme'
 categories:
     - Télévision
+    - default
 date: '2007-08-24'
-section: default
 lang: fr
 type: post
 ---

@@ -4,9 +4,10 @@ tags:
     - Hardware
     - Test
 date: '2009-07-27'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 <figure>

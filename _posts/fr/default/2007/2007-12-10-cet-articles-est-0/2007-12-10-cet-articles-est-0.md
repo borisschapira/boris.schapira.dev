@@ -6,9 +6,10 @@ tags:
     - Mobilité
     - Web
 date: '2007-12-10'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 S&#233;rieusement, &#231;a ne vous agace pas un peu vous, cette sauce du &quot;2.0&quot;&#160;&nbsp;?</p>

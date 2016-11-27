@@ -3,9 +3,10 @@ title: 'HTML 5, Silverlight et Microsoft'
 tags:
     - Front-End
 date: '2011-10-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 C’est pendant la conférence D9 d’All Things Digital que Microsoft a dévoilé Windows 8 et sa nouvelle interface dynamique. Redmond compte sur cette nouvelle interface inspirée de Windows Phone, qui cohabitera avec l’interface traditionnelle tout en étant plus adaptée aux tablettes, pour encourager le développement d’applications HTML5.

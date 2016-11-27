@@ -1,9 +1,10 @@
 ---
 title: 'Où sont les femmes ?'
 date: '2014-10-25'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — Mais qu'est-ce que vous faites là ?  

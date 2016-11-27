@@ -1,9 +1,10 @@
 ---
 title: 'Captain Obvious'
 date: '2016-02-01'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Le petit dernier, 2 ans ½, et ses réflexions profondes…

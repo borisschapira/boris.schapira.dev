@@ -3,9 +3,10 @@ title: 'Mes résolutions'
 tags:
     - 'Me, myself & I'
 date: '2016-01-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 ## pour 2016
 

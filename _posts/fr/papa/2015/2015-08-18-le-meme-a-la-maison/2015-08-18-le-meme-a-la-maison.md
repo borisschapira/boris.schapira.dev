@@ -1,9 +1,10 @@
 ---
 title: 'Le même à la maison'
 date: '2015-08-18'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Les vacances, c'est aussi l'occasion de compatir pour les parents des copains de mes enfants.

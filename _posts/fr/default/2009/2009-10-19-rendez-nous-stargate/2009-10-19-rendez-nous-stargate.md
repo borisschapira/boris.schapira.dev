@@ -6,9 +6,10 @@ tags:
     - Stargate
     - Télévision
 date: '2009-10-19'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Je suis un grand fan de Stargate SG1\. J'ai commencé à regarder la série en 1999 sur M6, et j'ai continué avec toutes les saisons et toutes les rediffusions que j'ai pu trouver depuis. Je n'ai raté aucun épisode. Quand le spin-of Stargate Atlantis est sorti, je lui ai même laissé sa chance. Pourtant la première saison était, disons-le, peu inspirée. J'ai suivi SG1 et SGA pendant une décennie, si fidèle au poste que quand ma femme veut me faire un compliment, elle me dit que je suis le meilleur mari de tous les Univers connus des Anciens. Ça vous donne le niveau.

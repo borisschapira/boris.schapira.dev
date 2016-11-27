@@ -1,9 +1,10 @@
 ---
 title: 'Because I''m Ba*man'
 date: '2015-12-14'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — Papa, pourquoi Batman s'appelle Batman ?  

@@ -1,9 +1,10 @@
 ---
 title: 'Comme nous'
 date: '2016-05-31'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Discussion à propos de Mozart, notre chaton.

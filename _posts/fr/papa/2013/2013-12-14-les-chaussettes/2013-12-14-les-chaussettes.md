@@ -1,9 +1,10 @@
 ---
 title: 'Les chaussettes'
 date: '2013-12-14'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > Mais voyons, les chaussettes ce n'est pas fait pour jouer ! Regardez-moi ça, tu en as mis partout ! Les chaussettes, c'est pour aller dans les chaussures, pas pour étaler partout ! Tu n'es pas très mignon. Range-moi tout ça à sa place !

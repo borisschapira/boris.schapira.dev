@@ -4,9 +4,10 @@ tags:
     - Emploi
     - 'Me, myself and I'
 date: '2007-03-09'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Il y a quelques jours Benjamin Gauthey me confirmait autour d'un café que faire un stage chez Microsoft France allait me rapporter beaucoup d'offres de chasseurs de profils. Voulant tester, j'ai mis ce matin mon CV à jour sur [Monster.fr](http://www.monster.fr/)…

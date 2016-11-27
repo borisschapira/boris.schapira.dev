@@ -2,8 +2,8 @@
 title: '[Video] De l''importance d''un bon swing'
 categories:
     - Humour
+    - default
 date: '2008-08-20'
-section: default
 lang: fr
 type: post
 ---

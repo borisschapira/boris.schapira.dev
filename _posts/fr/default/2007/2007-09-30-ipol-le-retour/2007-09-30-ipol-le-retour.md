@@ -2,8 +2,8 @@
 title: 'Ipol : le retour'
 categories:
     - Politique
+    - default
 date: '2007-09-30'
-section: default
 lang: fr
 type: post
 ---

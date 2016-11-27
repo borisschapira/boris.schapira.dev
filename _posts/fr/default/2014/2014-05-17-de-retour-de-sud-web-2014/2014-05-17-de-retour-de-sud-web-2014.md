@@ -5,9 +5,10 @@ tags:
 series:
     - 'Sud Web 2014'
 date: '2014-05-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 ## De beaux projets, de belles personnes

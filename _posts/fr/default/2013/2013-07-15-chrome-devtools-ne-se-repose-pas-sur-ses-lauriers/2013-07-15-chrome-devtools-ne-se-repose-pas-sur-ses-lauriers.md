@@ -5,9 +5,10 @@ tags:
     - 'Performance Web'
 canonical: 'http://blog.clever-age.com/fr/2013/07/15/chrome-devtools-ne-se-repose-pas-sur-ses-lauriers/'
 date: '2013-07-15'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Alors qu’ils sont déjà reconnus comme étant d’excellente facture, voire même un cran au-dessus de la concurrence, les outils pour développeurs de Chrome ont encore bénéficié d’une exceptionnelle amélioration dans Chrome 28, disponible sur la branche _stable_.

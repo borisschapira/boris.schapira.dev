@@ -4,9 +4,10 @@ tags:
     - Emploi
     - 'Trouver un stage ou une alternance'
 date: '2016-04-06'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 > Vous cherchez du travail dans le Web : vous venez de terminer votre CV, vous mitraillez les agences de votre secteur de votre lettre de motivation, confiants, motivés. Quand soudain, votre candidature arrive dans ma boite mail…  

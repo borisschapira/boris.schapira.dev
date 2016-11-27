@@ -1,9 +1,10 @@
 ---
 title: 'Je veux pas aller à l''école'
 date: '2016-04-25'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Jour de rentrée. Tout se passe bien, les enfants sont prêts. Quand soudain arrive **LE** moment.

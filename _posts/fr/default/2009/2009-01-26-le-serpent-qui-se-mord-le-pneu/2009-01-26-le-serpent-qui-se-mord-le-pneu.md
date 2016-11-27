@@ -1,8 +1,8 @@
 ---
 title: 'Le serpent qui se mord le pneu'
-categories: null
+categories:
+    - default
 date: '2009-01-26'
-section: default
 lang: fr
 type: post
 ---

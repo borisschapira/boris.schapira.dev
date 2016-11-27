@@ -3,9 +3,10 @@ title: 'Publié dans L''Express'
 tags:
     - 'Me, myself and I'
 date: '2010-09-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 L'article sur [« Métronome » de Lorànt Deutsch](/2010/03/livre-metronome/) a attiré l'attention d'Annabel Benhaiem, journaliste de L'Express qui m'a interviewé par téléphone début juin. Suite à ce sympathique échange et à ceux qu'elle a sans doute eu avec d'autres blogueurs et/ou lecteurs, elle a rédigé un article qui a été [publié sur LExpress.fr](http://www.lexpress.fr/culture/livre/metronome-de-lorant-deutsch-un-phenomene-de-societe_914995.html "Lien vers &quot;Métronome de Lorànt Deutsch, un phénomène de société?&quot; sur LExpress.fr").

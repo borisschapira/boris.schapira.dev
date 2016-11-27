@@ -3,9 +3,10 @@ title: 'Éduquons nos garçons'
 tags:
     - Éducation
 date: '2016-11-25'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Et si on éduquait les garçons. <a href="https://twitter.com/hashtag/violencesfaitesauxfemmes?src=hash">#violencesfaitesauxfemmes</a> <a href="https://t.co/8PlAkD8nRD">pic.twitter.com/8PlAkD8nRD</a></p>&mdash; Monsieur Q (@_MonsieurQ_) <a href="https://twitter.com/_MonsieurQ_/status/802157382218510336">25 novembre 2016</a></blockquote>

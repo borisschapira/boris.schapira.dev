@@ -1,9 +1,10 @@
 ---
 title: 'Quand on dit des bêtises'
 date: '2015-01-22'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — Tu veux m'aider à faire à manger ? Très bien, alors on va commencer par lancer les pâtes pour ton frère.  

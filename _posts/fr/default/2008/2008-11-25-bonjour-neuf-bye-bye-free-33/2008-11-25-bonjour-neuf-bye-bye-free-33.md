@@ -6,9 +6,10 @@ tags:
     - Free
     - 'Me, myself and I'
 date: '2008-11-25'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 _**Free **et moi, c’était une grande et belle histoire. Mais quand j’ai voulu **déménager**, ça s’est avéré très **problématique**. Après plus d’une heure de **Hotline **pour un problème qui ne nécessitait pas mon intervention, [j’avais craqué](/2008/10/le-demenagement-de-la-freebox-bye-bye-free-13/). J'avais rappelé le lendemain et au bout de **plusieurs heures de support**, on m'avait annoncé qu'[on ne pouvait plus rien pour moi](/2008/11/monsieur-vous-devez-resilier-bye-bye-free-23/)… Hors de question de rester chez ce fournisseur, il fallait que je passe à autre chose…_

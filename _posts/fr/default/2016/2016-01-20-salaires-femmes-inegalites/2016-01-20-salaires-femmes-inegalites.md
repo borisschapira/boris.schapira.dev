@@ -5,9 +5,10 @@ tags:
     - HeForShe
     - Égalité
 date: '2016-01-20'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 > Que pensez-vous du plan d'action suivant :  

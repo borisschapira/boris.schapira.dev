@@ -4,9 +4,10 @@ i18n-key: death-the-trivial-way
 tags:
     - 'Intelligence Artificielle'
 date: '2016-08-09'
-section: default
 lang: en
 type: post
+categories:
+    - default
 ---
 
 > On the one hand, it’s possible we’ll develop ASI that’s like a god in a box, bringing us a world of abundance and immortality. But on the other hand, it’s very likely that we will create ASI that causes humanity to go extinct in a quick and trivial way.  

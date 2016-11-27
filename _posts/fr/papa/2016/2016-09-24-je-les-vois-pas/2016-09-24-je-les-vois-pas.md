@@ -1,9 +1,10 @@
 ---
 title: 'Je les vois pas !'
 date: '2016-09-24'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Despote, 3 ans, se regarde fixement dans le miroir.

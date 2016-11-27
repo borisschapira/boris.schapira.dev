@@ -7,9 +7,10 @@ tags:
     - Etudiants
     - Grève
 date: '2007-11-15'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Au hasard d'un blog j'ai trouv&#233; l'avis d'un cheminot. C'est int&#233;ressant, c'est argument&#233; et &#231;a ne fait que confirmer ce que je pense&nbsp;: &#224; d&#233;faut de laisser aux agents leurs 37,5 ann&#233;es de cotisations et d&#233;parts en pr&#233;-retraite, il faudrait surtout leur donner plus de salaires et des primes.</p>

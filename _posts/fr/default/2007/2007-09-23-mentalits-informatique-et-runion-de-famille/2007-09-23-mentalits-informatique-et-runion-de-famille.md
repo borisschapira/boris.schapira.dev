@@ -4,9 +4,10 @@ tags:
     - 'Amis et famille'
     - Facebook
 date: '2007-09-23'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Pour tout esprit normalement constitué ces trois mots n'ont rien à faire ensemble. À la limite, les deux extrêmes s'entrechoquent-ils assez souvent mais celui du milieu y est rarement pour grand chose.

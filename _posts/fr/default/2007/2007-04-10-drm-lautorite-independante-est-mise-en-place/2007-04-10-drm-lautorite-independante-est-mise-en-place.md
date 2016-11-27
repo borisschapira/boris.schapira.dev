@@ -4,9 +4,10 @@ tags:
     - 'Vie privée'
     - Numérique
 date: '2007-04-10'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Après un précédent débat sur la gestion des droits numériques et le rôle de Microsoft, l'actualité nous rattrape. C'est en effet aujourd'hui qu'a été officialisée l'autorité en charge de la copie privée. Elle se compose de&nbsp;:

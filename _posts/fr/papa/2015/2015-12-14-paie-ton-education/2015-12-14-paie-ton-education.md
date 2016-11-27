@@ -1,9 +1,10 @@
 ---
 title: 'Paie ton éducation'
 date: '2015-12-14'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — Allez, on rentre vite, on enlève les chaussures, les manteaux et…  

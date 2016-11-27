@@ -6,9 +6,10 @@ tags:
     - Interview
     - Microsoft
 date: '2007-06-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 _"On s'est connu, on s'est reconnu

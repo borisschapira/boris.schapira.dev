@@ -4,9 +4,10 @@ tags:
     - 'Me, myself and I'
     - 'Amis et famille'
 date: '2007-07-09'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Petit week-end annuel avec mes amis de lycée.

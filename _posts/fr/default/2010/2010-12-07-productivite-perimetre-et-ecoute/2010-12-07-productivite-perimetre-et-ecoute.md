@@ -3,9 +3,10 @@ title: 'Productivité, périmètre et écoute'
 tags:
     - Management
 date: '2010-12-07'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 La plupart des projets informatiques échouent à cause d'un mauvais management. Il n'y a pas forcément de responsable(s) à désigner, et il n'est pas évident de trouver les éléments à améliorer, qui peuvent varier d'un projet à l'autre voire d'un sprint (en Scrum) à l'autre. Néanmoins, l'expérience montre que certains besoins reviennent régulièrement.

@@ -2,8 +2,8 @@
 title: 'Les Entretiens de l''AMF 2008 (1/3) : régulation de la gestion d''actifs'
 categories:
     - Finance
+    - default
 date: '2008-11-21'
-section: default
 lang: fr
 type: post
 ---

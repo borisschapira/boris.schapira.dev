@@ -3,9 +3,10 @@ title: 'Jour des Projets ESIEE : les prix'
 tags:
     - ESIEE
 date: '2007-06-27'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 **PRIX DE L'INNOVATION 2007**

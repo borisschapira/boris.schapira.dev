@@ -7,9 +7,10 @@ tags:
     - Nexeo
     - SGCIB
 date: '2009-03-31'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Vendredi dernier a eu lieu un grand pot de départ dans ma salle de marché.

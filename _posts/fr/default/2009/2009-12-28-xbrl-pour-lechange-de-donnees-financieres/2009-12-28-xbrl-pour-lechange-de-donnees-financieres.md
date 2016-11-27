@@ -5,9 +5,10 @@ tags:
     - Technologie
     - Economie
 date: '2009-12-28'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Je vous propose aujourd'hui une introduction au <acronym title="eXtensible Business Reporting Language">XBRL</acronym>, langage dont vous avez sûrement déjà entendu / vous entendrez parler durant les prochaines années dans la sphère informatico-financière…</em>

@@ -4,9 +4,10 @@ tags:
     - Economie
     - Subprime
 date: '2007-08-15'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 On parle beaucoup en ce moment des "Subprimes" qui feraient s'écrouler les banques et qui obligeraient les institutions régulatrices à  injecter des liquidités sur le marché pour ne pas que tout s'effondre. On pourrait penser qu'il s'agit de choses très complexes mais en réalité il s'agit de petits problèmes humains qui mis bout-à -bout…

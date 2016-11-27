@@ -5,9 +5,10 @@ tags:
     - CodePlex
     - Sharepoint
 date: '2007-06-26'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Microsoft sort aujourd'hui un pack additionnel pour Microsoft Office SharePoint Server 2007 (MOSS 2007 pour les intimes).

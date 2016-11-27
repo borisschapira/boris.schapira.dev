@@ -4,9 +4,10 @@ tags:
     - Numérique
 series: Hadopi
 date: '2009-02-27'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 Monsieur le député,

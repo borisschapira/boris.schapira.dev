@@ -1,8 +1,8 @@
 ---
 title: 'L''âme légère'
-categories: null
+categories:
+    - default
 date: '2009-01-19'
-section: default
 lang: fr
 type: post
 ---

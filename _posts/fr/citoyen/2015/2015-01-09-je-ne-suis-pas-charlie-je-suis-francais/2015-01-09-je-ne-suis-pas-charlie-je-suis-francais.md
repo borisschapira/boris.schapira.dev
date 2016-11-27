@@ -5,9 +5,10 @@ tags:
 series:
     - 'Charlie Hebdo'
 date: '2015-01-09'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 ## précisions pour ceux qui s'offusquent

@@ -6,9 +6,10 @@ tags:
     - 'Project Hoshimi'
     - Web
 date: '2007-06-21'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Je viens de recevoir la [Newsletter MSDN Flash](http://msdn.microsoft.com/en-us/aa570311.aspx) publiée par [Laurent](http://blogs.msdn.com/b/laurelle/) et je ne peux pas m'empêcher de relever la suprématie des [Microsoft Student Partners (MSP)](https://www.microsoftstudentpartners.com) vainqueurs de la Finale française de l'Imagine Cup. Certains iront donc en finale internationale&nbsp;:

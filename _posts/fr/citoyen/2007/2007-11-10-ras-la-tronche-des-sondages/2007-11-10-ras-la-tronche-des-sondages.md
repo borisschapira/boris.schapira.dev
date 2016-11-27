@@ -4,9 +4,10 @@ tags:
     - Société
     - France
 date: '2007-11-10'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 C'est un peu mon sujet récurrent du moment mais pour une fois ce n'est pas ma faute&nbsp;: c'est celle d'un sondeur qui m'a appelé ce matin pour me demander ce que je pensais des grèves en série… le pauvre.

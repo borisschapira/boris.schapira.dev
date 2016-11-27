@@ -1,9 +1,10 @@
 ---
 title: 'Le cadeau de noël'
 date: '2016-11-25'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Nouvelle discussion sur les cadeaux de noël. À nouveau, on prend le petit à parti pour savoir ce qu'il voudrait demander au Père Noël.

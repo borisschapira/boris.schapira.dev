@@ -3,9 +3,10 @@ title: '[Rétro] Il y a un an… janvier 2008.'
 tags:
     - Rétro
 date: '2009-01-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 _Pour ne pas commettre les erreurs du passé, encore faut-il [s'en souvenir](/?s=[R%C3%A9tro])._

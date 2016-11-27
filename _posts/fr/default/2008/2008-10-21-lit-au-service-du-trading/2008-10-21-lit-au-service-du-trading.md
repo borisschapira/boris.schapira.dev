@@ -6,9 +6,10 @@ tags:
     - Emploi
     - Nexeo
 date: '2008-10-21'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 La **salle de marché** s'excite. La courbe de taux se retourne et le Trading a besoin d'**outils** pour prendre les bonnes **décisions**. Appels téléphonique aux Commandos, envois de mails ou cris à travers la salle&nbsp;: nous sommes immédiatement au courant. En croisant divers référentiels, nous extrayons la liste d'**opérations** concernées, puis lançons nos applicatifs et fournissons quelques minutes plus tard les indicateurs désirés.

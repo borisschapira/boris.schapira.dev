@@ -1,8 +1,8 @@
 ---
 title: 'Survivre dans une soirée de blogueurs #2'
-categories: null
+categories:
+    - default
 date: '2007-09-14'
-section: default
 lang: fr
 type: post
 ---

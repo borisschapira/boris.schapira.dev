@@ -2,8 +2,8 @@
 title: 'Le poulet est bon pour la santé'
 categories:
     - Littérature
+    - default
 date: '2007-12-18'
-section: default
 lang: fr
 type: post
 ---

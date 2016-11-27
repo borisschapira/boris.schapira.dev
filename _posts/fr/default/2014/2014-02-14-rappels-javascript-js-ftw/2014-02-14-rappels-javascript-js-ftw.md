@@ -3,9 +3,10 @@ title: 'Rappels JavaScript&nbsp;: JS FTW !'
 tags:
     - Conférences
 date: '2014-02-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 J'ai animé il y a quelques jours une présentation chez [Clever Age](http://www.clever-age.com/fr/) autour de JavaScript.

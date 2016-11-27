@@ -3,8 +3,8 @@ title: 'Achetez français'
 categories:
     - Finance
     - Politique
+    - default
 date: '2009-02-06'
-section: default
 lang: fr
 type: post
 ---

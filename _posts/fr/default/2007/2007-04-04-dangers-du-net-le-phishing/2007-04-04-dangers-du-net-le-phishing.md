@@ -4,9 +4,10 @@ tags:
     - Vulgarisation
 series: 'Dangers du Net'
 date: '2007-04-04'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Dans cette série d'articles de vulgarisation sur les dangers du Net, nous allons commencer par aborder le <em lang="en">Phishing</em>,

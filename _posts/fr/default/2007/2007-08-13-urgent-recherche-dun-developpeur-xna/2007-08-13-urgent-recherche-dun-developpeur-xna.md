@@ -4,9 +4,10 @@ tags:
     - 'Imagine Cup'
     - XNA
 date: '2007-08-13'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Message de [Richard Clark,](http://blogs.developpeur.org/richardc/archive/2007/08/13/urgent-cherche-d-veloppeur-xna-pour-ms-imagine-cup-2008.aspx) à  faire circuler&nbsp;:

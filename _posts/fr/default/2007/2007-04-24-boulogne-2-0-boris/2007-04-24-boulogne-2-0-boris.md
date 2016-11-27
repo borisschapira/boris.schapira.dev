@@ -3,9 +3,10 @@ title: 'Boulogne 2 - 0 Boris'
 tags:
     - Boulogne
 date: '2007-04-24'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 *   **8h20** Sortie de l'appartement, frais et confiant&nbsp;: la journée va être bonne (si j'avais su&nbsp;!)

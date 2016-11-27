@@ -4,9 +4,10 @@ tags:
     - Blogosphère
     - Réflexion
 date: '2007-07-13'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 > The discipline of blogging, and the concomitant comments you receive from readers, will improve your thinking, researching, writing, editing, graphic design, and editing skills. You are in total control. You are writer, editor, publisher, and marketing expert. You have the freedom and responsibility for the entire production and distribution of your material.  

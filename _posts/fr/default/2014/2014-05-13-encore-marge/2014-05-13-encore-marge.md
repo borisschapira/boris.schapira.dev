@@ -4,9 +4,10 @@ tags:
     - Front-End
     - Mobilité
 date: '2014-05-13'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 ## Pour mieux apprivoiser nos matériels

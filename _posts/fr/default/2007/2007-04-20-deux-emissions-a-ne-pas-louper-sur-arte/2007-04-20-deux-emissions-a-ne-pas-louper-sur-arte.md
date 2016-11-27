@@ -7,9 +7,10 @@ tags:
     - IBM
     - Microsoft
 date: '2007-04-20'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Dans un contexte tendu de positions dominantes (rachat de DoubleClick par Google, procès de Bruxelles envers Microsoft), deux émissions pertinentes sur Arte&nbsp;:

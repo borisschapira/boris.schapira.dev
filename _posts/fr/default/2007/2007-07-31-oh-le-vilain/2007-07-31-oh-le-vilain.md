@@ -3,9 +3,10 @@ title: 'Crash de la BDD'
 tags:
     - Crash
 date: '2007-07-31'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Voilà  , je viens d'avoir le droit à  un joli crash de ma base de données avec suppression de mes tables. Heureusement que je fais des sauvegardes automatiques régulières…
