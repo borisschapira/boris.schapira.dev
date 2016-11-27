@@ -5,9 +5,10 @@ tags:
     - Société
     - 'Billet d''humeur'
 date: '2008-03-18'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 A la fin de la seconde guerre mondiale, la France a subi deux phénomènes parallèles&nbsp;: la reprise en main des activités économiques du pays par l'État (nationalisation, fonctionnarisme) et une très forte croissance, plutôt mécanique en raison des terribles épisodes traversés précédemment.

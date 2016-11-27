@@ -5,9 +5,10 @@ tags:
     - Boulogne
     - Microsoft
 date: '2008-10-05'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Lundi avait lieu la première réunion des Communautés Microsoft au Bureau à Boulogne. Comme je me ballade dans la galaxie Microsoft depuis plusieurs années (ancien MVS puis MSP, ancien stagiaire MCS, membre éclair et pas forcément très utile du GUWIV…), j'ai décidé d'y faire un tour, invité par les <span style="text-decoration: line-through">spécialistes du baby-foot</span> responsables Communauté de Massy.

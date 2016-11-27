@@ -1,9 +1,10 @@
 ---
 title: Solidaires
 date: '2015-03-07'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Le grand fait une connerie. Il se prend un soufflet, pleure, se fâche, passe 10 minutes à bouder, s'excuse, promet de ne plus le refaire et on finit avec un câlin.

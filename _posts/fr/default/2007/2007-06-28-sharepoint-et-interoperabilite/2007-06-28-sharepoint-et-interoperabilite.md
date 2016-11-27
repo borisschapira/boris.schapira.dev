@@ -5,9 +5,10 @@ tags:
     - Interopérabilité
     - Sharepoint
 date: '2007-06-28'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Certaines questions sur SharePoint sont récurrentes&nbsp;: comment le connecter à des ERP comme SAP, Oracle Financials ou encore Siebel&nbsp;? Comment effectuer une recherche dans une base de données Lotus Notes&nbsp;? Quels webpart utiliser pour optimiser ces connections&nbsp;?

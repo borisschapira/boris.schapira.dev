@@ -4,9 +4,10 @@ tags:
     - Front-End
     - Projets
 date: '2010-05-03'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Ces derniers jours, deux ouvrages alimentent mes temps libres: **Dive Into HTML 5** de Mark Pilgrim que je lis directement [à cette adresse](http://diveintohtml5.info "&quot;Dive Into HMTL5&quot; by Mark Pilgrilm") et **Transcender CSS**, d'Andy Clarke, acheté [chez Amazon](http://www.amazon.fr/Transcender-CSS-Sublimez-design-web/dp/2212121075/ref=pd_rhf_p_t_4 "&quot;Transcender CSS&quot; by Andy Clarke on Amazon.fr").

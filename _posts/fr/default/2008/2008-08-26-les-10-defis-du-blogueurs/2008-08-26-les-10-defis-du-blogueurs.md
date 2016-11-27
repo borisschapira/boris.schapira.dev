@@ -4,9 +4,10 @@ tags:
     - Blogosphère
     - Chaine
 date: '2008-08-26'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 &lt;

@@ -1,9 +1,10 @@
 ---
 title: 'Sortir Mamie'
 date: '2016-04-17'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Il me dirige sur le chemin qui amène de chez sa Mamie à chez son arrière grand-mère, "Mémé".

@@ -3,9 +3,10 @@ title: 'En3mots fait peau neuve'
 tags:
     - En3Mots
 date: '2007-06-12'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 J'en parle assez régulièrement et un peu partout depuis la création de l'offre il y a deux ans&nbsp;: j'adore ce service. Comme le site vient de muer pour un look plus "2.0", j'en profite pour faire une piq&ucirc;re de rappel.

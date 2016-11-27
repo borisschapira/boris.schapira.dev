@@ -4,9 +4,10 @@ tags:
     - Finance
     - Google
 date: '2007-10-09'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 On parle beaucoup du cours de l'action Google, qui avoisine dernièrement les 600 dollars.

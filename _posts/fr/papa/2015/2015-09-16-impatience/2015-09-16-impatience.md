@@ -1,9 +1,10 @@
 ---
 title: Impatience
 date: '2015-09-16'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Son oncle lui a offert un nouveau pyjama "de super héros" :

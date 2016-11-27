@@ -4,9 +4,10 @@ canonical: 'http://www.nexeo.fr/blog/2009/12/14/mono-c-compiler-is-now-c-4-0-fea
 tags:
     - Nexdotnet
 date: '2009-12-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 C’est Marek Safar qui l’annonce sur son blog et chez NexDotNet, ça nous rend tous choses… <i lang="en">Well done guys</i> !

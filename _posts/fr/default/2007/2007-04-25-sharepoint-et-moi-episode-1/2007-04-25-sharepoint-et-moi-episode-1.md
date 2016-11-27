@@ -6,9 +6,10 @@ tags:
     - Sharepoint
     - 'Visual Basic'
 date: '2007-04-25'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Deux mois de stages chez Microsoft France, c'est déjà beaucoup et en même temps peu. Il y a tant à apprendre ici&nbsp;!

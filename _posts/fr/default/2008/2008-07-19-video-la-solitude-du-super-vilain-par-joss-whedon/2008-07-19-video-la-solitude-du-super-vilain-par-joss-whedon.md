@@ -4,8 +4,8 @@ categories:
     - 'Bande Dessinée'
     - Humour
     - Musique
+    - default
 date: '2008-07-19'
-section: default
 lang: fr
 type: post
 ---

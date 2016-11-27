@@ -5,9 +5,10 @@ tags:
     - 'Forza Motorsport 2'
     - XBox360
 date: '2007-07-29'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Voilà , ma fabuleuse Saab-900 toute neuve et personnalisée (sans commentaires). C'est donc la première voiture que je conduis depuis que ma chérie m'a ramené Forza 2 Motorsport à la maison (c'est pas beau ça, les mecs&nbsp;?), et regardez comment je mets déjà un vent à tout le monde&nbsp;!

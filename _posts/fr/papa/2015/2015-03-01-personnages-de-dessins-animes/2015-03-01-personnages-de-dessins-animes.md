@@ -1,9 +1,10 @@
 ---
 title: 'Personnages de dessins animés'
 date: '2015-03-01'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — Tu le reconnais lui ?  

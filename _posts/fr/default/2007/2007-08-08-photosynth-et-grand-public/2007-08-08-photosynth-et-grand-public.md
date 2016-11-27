@@ -5,9 +5,10 @@ tags:
     - PhotoSynth
     - 'Windows Live'
 date: '2007-08-08'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 J'ai tenté de reprendre un article pas si vieux (j'en ai juste posté 280 depuis) pour rendre son argumentaire plus clair. Voyons-voir si j'y arrive.

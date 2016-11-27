@@ -3,9 +3,10 @@ title: 'Infobésité et rébellion'
 tags:
     - Éducation
 date: '2016-11-23'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 Trois lectures qui se font écho et rappellent que seule l'éducation permet de se prémunir contre l'émergence de comportements issus de situations d'impuissance.

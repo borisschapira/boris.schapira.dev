@@ -2,8 +2,8 @@
 title: 'Quand j''étais petit, la Chine était une dictature'
 categories:
     - Politique
+    - default
 date: '2007-11-27'
-section: default
 lang: fr
 type: post
 ---

@@ -1,9 +1,10 @@
 ---
 title: 'Phishing CAF, Impôts ou autres…'
 date: '2010-08-31'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 ## Ceci n'est pas une pipe

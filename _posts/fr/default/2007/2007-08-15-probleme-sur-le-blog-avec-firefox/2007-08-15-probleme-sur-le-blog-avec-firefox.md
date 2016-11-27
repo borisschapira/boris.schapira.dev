@@ -2,8 +2,8 @@
 title: 'Problème sur le blog avec Firefox'
 categories:
     - Blogosphère
+    - default
 date: '2007-08-15'
-section: default
 lang: fr
 type: post
 ---

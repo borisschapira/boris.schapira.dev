@@ -6,9 +6,10 @@ tags:
     - Facebook
     - France
 date: '2009-07-29'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 Ils en ont tous fait un titre ce matin. Le [Point](http://www.lepoint.fr/actualites-politique/2009-07-29/sarkozy-assure-qu-il-va-tres-bien-sur-facebook/917/0/365173), [Europe 1](http://www.europe1.fr/actus), l'[Express](http://www.lexpress.fr/actualite/depeches/), le [Nouvel Obs ](http://tempsreel.nouvelobs.com/politique/20090729.OBS5783/nicolas-sarkozy-ma-sante-est-bonne-mais-il-faut-que-je-me-repose.html)et bien d'autres l'affirment&nbsp;: Nicolas Sarkozy va bien, puisqu'_il_ l'a dit sur Facebook.

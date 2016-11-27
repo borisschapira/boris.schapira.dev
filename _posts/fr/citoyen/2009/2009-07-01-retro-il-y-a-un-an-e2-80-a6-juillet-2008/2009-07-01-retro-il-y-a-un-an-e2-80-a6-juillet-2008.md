@@ -4,9 +4,10 @@ tags:
     - Société
     - Rétro
 date: '2009-07-01'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 _Pour ne pas commettre les erreurs du passé, encore faut-il [s'en souvenir](/?s=[R%C3%A9tro])._

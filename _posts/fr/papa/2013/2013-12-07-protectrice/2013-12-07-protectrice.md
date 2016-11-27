@@ -1,9 +1,10 @@
 ---
 title: Protectrice
 date: '2013-12-07'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Ma femme rentre énervée un soir :

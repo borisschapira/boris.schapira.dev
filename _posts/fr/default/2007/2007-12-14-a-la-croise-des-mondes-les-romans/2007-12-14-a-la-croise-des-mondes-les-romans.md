@@ -2,8 +2,8 @@
 title: '«&#160;A la Croisée des Mondes&#160;», Philip Pullman'
 categories:
     - Littérature
+    - default
 date: '2007-12-14'
-section: default
 lang: fr
 type: post
 ---

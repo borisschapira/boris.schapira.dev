@@ -4,9 +4,10 @@ tags:
     - Numérique
 series: Hadopi
 date: '2009-03-12'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 Coupables, innocents, inconscients, mal informés… nous seront tous demain, avec Hadopi, les héros d'histoires absurdes. M'inspirant d'un [article de Glazman](http://www.glazman.org/weblog/dotclear/index.php?post/2009/03/12/HADOPI-bang-plus-rien), j'ai décidé d'en écrire quelques-unes, mais on pourrait encore en écrire des centaines…. l'avenir nous dira si elles se réaliseront !

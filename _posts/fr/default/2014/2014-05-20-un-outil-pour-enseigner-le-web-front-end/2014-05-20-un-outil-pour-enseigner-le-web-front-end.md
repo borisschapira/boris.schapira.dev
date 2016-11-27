@@ -8,9 +8,10 @@ tags:
 series:
     - 'Sud Web 2014'
 date: '2014-05-20'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 ## suite d'un atelier Sud Web 2014

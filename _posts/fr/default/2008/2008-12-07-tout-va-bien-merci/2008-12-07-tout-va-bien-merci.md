@@ -3,9 +3,10 @@ title: 'Tout va bien, merci.'
 tags:
     - 'Me, myself and I'
 date: '2008-12-07'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Cher Père Noël,

@@ -1,9 +1,10 @@
 ---
 title: 'Comme Papa'
 date: '2016-11-19'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Libellule attend avec l'aîné dans la salle d'attente de l'orthophoniste. 

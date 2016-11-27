@@ -3,9 +3,10 @@ title: 'Réformer l''Education&nbsp;?'
 tags:
     - Education
 date: '2013-10-03'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 ## parce que bon, là, on rate un truc…

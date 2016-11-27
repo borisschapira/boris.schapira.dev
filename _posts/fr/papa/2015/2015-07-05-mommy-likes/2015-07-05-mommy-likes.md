@@ -1,9 +1,10 @@
 ---
 title: 'Mommy likes...'
 date: '2015-07-05'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — On fait un dessin pour maman ?  

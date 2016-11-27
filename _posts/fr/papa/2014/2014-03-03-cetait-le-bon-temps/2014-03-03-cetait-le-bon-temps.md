@@ -1,9 +1,10 @@
 ---
 title: 'C''était le bon temps'
 date: '2014-03-03'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Il fut un temps où une "journée de repos" voulait dire que j'allais me reposer.

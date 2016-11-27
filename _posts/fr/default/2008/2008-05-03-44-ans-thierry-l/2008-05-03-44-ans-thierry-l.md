@@ -1,8 +1,8 @@
 ---
 title: '44 ans (Thierry L.)'
-categories: null
+categories:
+    - default
 date: '2008-05-03'
-section: default
 lang: fr
 type: post
 ---

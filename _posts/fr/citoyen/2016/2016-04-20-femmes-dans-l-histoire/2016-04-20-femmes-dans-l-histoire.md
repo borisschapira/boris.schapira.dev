@@ -5,9 +5,10 @@ tags:
     - HeForShe
     - Égalité
 date: '2016-04-20'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 Plusieurs initiatives récentes permettent de rappeler que l'Histoire est écrite par les vainqueurs, c'est-à-dire les hommes, pour les hommes et en prenant bien soin d'en écarter les femmes.

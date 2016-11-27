@@ -2,8 +2,8 @@
 title: 'Un petit coin de paradis'
 categories:
     - 'Me, myself and I'
+    - default
 date: '2007-05-19'
-section: default
 lang: fr
 type: post
 ---

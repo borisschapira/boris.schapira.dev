@@ -1,9 +1,10 @@
 ---
 title: 'Le docteur'
 date: '2016-10-07'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > – Papa, quand Maman va aller chez le docteur ?  

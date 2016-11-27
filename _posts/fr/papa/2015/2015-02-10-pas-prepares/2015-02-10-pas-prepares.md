@@ -1,9 +1,10 @@
 ---
 title: 'Pas préparés'
 date: '2015-02-10'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 On ne nous prépare jamais à la fatigue. Cette fatigue incroyable issue d'heures, voire de jours, à essayer de garder son calme pour ne pas en balancer un par la fenêtre.

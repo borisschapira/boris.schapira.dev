@@ -1,9 +1,10 @@
 ---
 title: 'Mon travail'
 date: '2015-11-24'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — Papa, ton travail c'est aider le chef ?  

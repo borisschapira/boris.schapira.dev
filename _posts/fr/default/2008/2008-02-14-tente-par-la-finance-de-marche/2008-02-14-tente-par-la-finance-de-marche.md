@@ -4,9 +4,10 @@ tags:
     - SGCIB
     - Stage
 date: '2008-02-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Vous êtes étudiant de formation Ingénieur niveau Bac +5.

@@ -1,9 +1,10 @@
 ---
 title: 'Chauffage calorique'
 date: '2015-11-18'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — Maman, j'ai froid [en chouinant bien entendu]  

@@ -3,9 +3,10 @@ title: 'L''espace entre les barreaux'
 tags:
     - 'État d''urgence'
 date: '2016-02-08'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 > [...] chacune de ces mesures réduit insensiblement l’espacement des barreaux, les petits espaces de liberté où nous nous échappions, où nous prenions une gorgée d’air.  

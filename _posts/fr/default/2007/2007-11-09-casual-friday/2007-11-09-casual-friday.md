@@ -2,8 +2,8 @@
 title: 'Casual Friday'
 categories:
     - Blogosphère
+    - default
 date: '2007-11-09'
-section: default
 lang: fr
 type: post
 ---

@@ -2,8 +2,8 @@
 title: '«&#160;Remember², the 5th of November…&#160;»'
 categories:
     - Politique
+    - default
 date: '2009-11-05'
-section: default
 lang: fr
 type: post
 ---

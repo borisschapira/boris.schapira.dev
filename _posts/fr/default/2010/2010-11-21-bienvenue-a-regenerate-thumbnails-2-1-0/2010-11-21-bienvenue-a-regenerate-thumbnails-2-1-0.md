@@ -4,9 +4,10 @@ tags:
     - 'Me, myself and I'
     - Projets
 date: '2010-11-21'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Une nouvelle version du plugin Wordpress [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) est disponible, avec quelques améliorations issues d'un de mes projets personnels.

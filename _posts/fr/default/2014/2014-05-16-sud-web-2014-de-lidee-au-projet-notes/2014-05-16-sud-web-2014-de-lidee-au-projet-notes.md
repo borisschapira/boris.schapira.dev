@@ -5,9 +5,10 @@ tags:
     - 'Service Design'
     - Conférences
 date: '2014-05-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 ## Transcript de <em lang="en">Lightning Talk</em>, Sud&nbsp;Web&nbsp;2014

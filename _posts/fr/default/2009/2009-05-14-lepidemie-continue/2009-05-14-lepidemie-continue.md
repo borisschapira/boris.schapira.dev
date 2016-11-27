@@ -4,9 +4,10 @@ tags:
     - Finance
     - Economie
 date: '2009-05-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 J'avais déjà parlé de l'[épidémie](/2009/01/lepidemie/), pronostiquant une aggravation de la situation suite à la multiplication des comportements à risques.

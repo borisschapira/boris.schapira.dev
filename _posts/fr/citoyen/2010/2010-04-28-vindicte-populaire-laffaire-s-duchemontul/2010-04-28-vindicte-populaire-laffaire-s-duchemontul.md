@@ -3,9 +3,10 @@ title: 'Vindicte populaire : l''affaire S. Duchemontul'
 tags:
     - Égalité
 date: '2010-04-28'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 Personne ne se serait intéressé à S. Duchemontul si on n'avait pas arrêté sa femme au volant pour **conduite en état d'ivresse**. Depuis, c'est la folie médiatique. La France entière semble se passionner pour ce cheminot qui, il faut bien le dire, attire à lui toutes les inimitiés…

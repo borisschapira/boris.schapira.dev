@@ -6,9 +6,10 @@ tags:
     - Société
     - Égalité
 date: '2014-11-14'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 ## \#HeForShe

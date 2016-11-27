@@ -4,9 +4,10 @@ tags:
     - Emploi
     - 'Trouver un stage ou une alternance'
 date: '2008-02-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 1. Privil&#233;giez les **en-t&#234;tes concis et lisible**. N'&#233;crivez pas en tout petit les informations capitales que sont vos nom, pr&#233;nom, t&#233;l&#233;phone et email.

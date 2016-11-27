@@ -3,9 +3,10 @@ title: 'État d''urgence permanent'
 tags:
     - 'État d''urgence'
 date: '2015-12-27'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 Je ne comprends pas.

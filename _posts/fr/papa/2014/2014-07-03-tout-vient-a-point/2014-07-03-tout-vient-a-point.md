@@ -1,9 +1,10 @@
 ---
 title: 'Tout vient à point...'
 date: '2014-07-03'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — Papa, pas cracteur à ça !  

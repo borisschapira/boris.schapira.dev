@@ -3,9 +3,10 @@ title: '«&#160;Métronome&#160;», Lorànt Deutsch'
 tags:
     - Histoire
 date: '2010-03-24'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Il y a quelques années, j'étais allé voir [Victor les enfant au pouvoir](http://www.agoravox.fr/culture-loisirs/culture/article/victor-ou-les-enfants-au-pouvoir-29501), avec Lorànt Deutsch. À la fin de la représentation, mon père avait emmené ma grand-mère et mes frère et sœur rencontrer les acteurs, dont Deutsch lui-même. Sa rencontre les avait enchantés et j'ai toujours gardé depuis une certaine sympathie pour l'acteur.

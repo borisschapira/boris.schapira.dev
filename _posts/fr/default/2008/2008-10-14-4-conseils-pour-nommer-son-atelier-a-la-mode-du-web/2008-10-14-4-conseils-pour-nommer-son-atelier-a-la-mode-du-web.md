@@ -6,9 +6,10 @@ tags:
     - 'Billet d''humeur'
     - Web
 date: '2008-10-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Rien de plus simple.

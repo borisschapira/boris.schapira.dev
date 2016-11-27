@@ -1,9 +1,10 @@
 ---
 title: 'Maintenant, il donne son avis...'
 date: '2015-08-19'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — Oh la la, je ne sais pas pourquoi on ne t'as pas appelé Silence, toi, ça nous aurait peut être aidé...  

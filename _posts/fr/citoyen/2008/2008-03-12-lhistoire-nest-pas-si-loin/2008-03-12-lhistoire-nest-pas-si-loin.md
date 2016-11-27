@@ -3,9 +3,10 @@ title: 'L''Histoire n''est pas si loin…'
 tags:
     - Insolite
 date: '2008-03-12'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 **Update&nbsp;: [Lazare Ponticelli, le dernier poilu survivant de la première guerre mondiale, est décédé](http://tempsreel.nouvelobs.com/societe/20080312.OBS4716/le-dernier-poilu-est-mort.html?idfx=RSS_notr) à l'âge de 110 ans.**

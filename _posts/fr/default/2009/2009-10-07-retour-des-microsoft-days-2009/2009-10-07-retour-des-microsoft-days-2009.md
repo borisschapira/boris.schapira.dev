@@ -5,9 +5,10 @@ tags:
     - Microsoft
     - MSDays
 date: '2009-10-07'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Du 6 au 8 octobre ont lieu les [Microsoft Days](http://www.microsoft.com/france/microsoft-days/) à Issy-Les-Moulineaux (d'autres villes villes seront visitées jusqu'au 4 novembre). Arrivé à 9h30 le 6 au matin pour représenter [Nexeo](http://www.nexeo.fr/) en compagnie du reste de l'équipe [Nexdotnet](http://nexdotnet.nexeo.fr/) (tous munis d'un beau badge décideur), j'ai assisté à plusieurs conférences. Et le moins que l'on puisse dire, c'est que le sentiment général à la sortie de cet évènement est plus que mitigé. **Finies les années de "techtainment"**, de technologie au service du plaisir. Changement de stratégie. **Nous ne sommes plus à l'ère de l'enthousiasme**, mais à celui de l'efficacité. La crise est passée par là et c'est une véritable pluie d'austérité qui semble s'être abattue sur les SI. **Au menu&nbsp;: réduction des coûts, contrôle et externalisation.**

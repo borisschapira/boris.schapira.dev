@@ -3,9 +3,10 @@ title: '#OnVautMieuxQueCa'
 tags:
     - Emploi
 date: '2016-03-10'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 > Mais quels effets aurait cette réforme sur un entrepreneur ?

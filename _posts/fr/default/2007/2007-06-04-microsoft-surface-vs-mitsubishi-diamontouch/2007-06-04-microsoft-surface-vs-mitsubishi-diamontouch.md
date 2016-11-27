@@ -4,9 +4,10 @@ tags:
     - Technologie
     - 'Microsoft Surface'
 date: '2007-06-04'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Quelques jours à peine après la divulgation par Microsoft de son projet [Surface](http://www.microsoft.com/surface/fr-fr), il est important de rappeler que la technologie impliquée n'est pas une propriété exclusive de l'éditeur. En effet, en cherchant un peu, on trouve de nombreux projets similaires chez d'autres grands labos de recherche, comme par exemple le Mitsubishi Electric Research Lab et sa [DiamondTouch](http://en.wikipedia.org/wiki/DiamondTouch).

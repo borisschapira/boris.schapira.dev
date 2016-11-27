@@ -2,8 +2,8 @@
 title: 'Réflexe politique'
 categories:
     - Politique
+    - default
 date: '2008-07-01'
-section: default
 lang: fr
 type: post
 ---

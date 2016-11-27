@@ -3,9 +3,10 @@ title: 'Revenu de base'
 tags:
     - Emploi
 date: '2016-02-25'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 > Le revenu universel suppose la primauté de l’équité et du social sur l’efficacité et l’économique.  

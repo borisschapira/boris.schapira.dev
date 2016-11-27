@@ -3,8 +3,8 @@ title: 'Alerte enlèvement : relayer, mais pas trop'
 categories:
     - Développement
     - Politique
+    - default
 date: '2007-08-24'
-section: default
 lang: fr
 type: post
 ---

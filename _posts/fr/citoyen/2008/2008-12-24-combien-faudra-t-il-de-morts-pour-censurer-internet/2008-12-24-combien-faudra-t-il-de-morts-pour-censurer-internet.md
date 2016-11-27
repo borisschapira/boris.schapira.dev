@@ -5,9 +5,10 @@ tags:
     - Publicité
     - Web
 date: '2008-12-24'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 > L’absence de régulation financière a provoqué des faillites. L’absence de régulation du Net provoque chaque jour des victimes ! Combien faudra-t-il de ** jeunes filles violées** pour que les autorités réagissent ? Combien faudra-t-il de **morts** suite à l’absorption de faux médicaments ? Combien faudra-t-il d’ **adolescents manipulés** ? Combien faudra-t-il de **bombes artisanales** explosant aux quatre coins du monde ? Combien faudra-t-il de **créateurs ruinés** par le pillage de leurs œuvres ?  

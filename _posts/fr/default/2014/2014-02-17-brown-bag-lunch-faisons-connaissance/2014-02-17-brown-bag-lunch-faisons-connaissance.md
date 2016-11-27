@@ -4,9 +4,10 @@ tags:
     - 'Me, myself and I'
     - Conférences
 date: '2014-02-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Je rejoins une nouvelle initiative, celle des [Brown Bag Lunches](http://www.brownbaglunch.fr).

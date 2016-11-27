@@ -2,8 +2,8 @@
 title: 'BitDefender Internet Security 2010'
 categories:
     - Technologie
+    - default
 date: '2009-11-29'
-section: default
 lang: fr
 type: post
 ---

@@ -3,9 +3,10 @@ title: 'MIT Open Course Ware'
 tags:
     - Education
 date: '2007-03-23'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Une initiative à souligner&nbsp;: le <acronym lang="en" title="Massachusetts Institute Of Technology">MIT</acronym> ouvre ses cours aux internautes via sa plate-forme [MIT Open Course Ware](http://ocw.mit.edu/index.htm).

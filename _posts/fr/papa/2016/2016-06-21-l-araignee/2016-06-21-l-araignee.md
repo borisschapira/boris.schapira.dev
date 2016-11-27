@@ -1,9 +1,10 @@
 ---
 title: 'L''araignée'
 date: '2016-06-21'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Il y avait une araignée à côté de la piscine dans laquelle les garçons barbotaient, alors leur Papy a dit qu'il fallait l'écraser.

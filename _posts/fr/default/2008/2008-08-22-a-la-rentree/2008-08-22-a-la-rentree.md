@@ -5,9 +5,10 @@ tags:
     - Société
     - Chaine
 date: '2008-08-22'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 _À la rentrée_, les sacs n'étaient pas chargés de décorations pré-inscrites. Ils étaient plus ou moins unis et c'est nous qui en faisions des ramassis de mauvais-goût, avec du temps, de la patience, du blanco et des feutres.

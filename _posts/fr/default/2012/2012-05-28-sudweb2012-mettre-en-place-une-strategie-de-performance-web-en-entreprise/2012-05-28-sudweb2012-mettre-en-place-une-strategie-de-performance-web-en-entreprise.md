@@ -5,9 +5,10 @@ tags:
 series:
     - 'Sud Web 2012'
 date: '2012-05-28'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 J'avais prévu depuis plusieurs mois de me rendre à Toulous pour les conférences et ateliers Sud Web 2012, et j'avais même proposé un sujet. Même si ma proposition n'avait pas été sélectionnée, j'étais fier d'y aller et de rencontrer des gens unis par leurs valeurs&nbsp;: les standards du Web, l'innovation, l'agilité…

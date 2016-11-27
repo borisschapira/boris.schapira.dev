@@ -5,9 +5,10 @@ tags:
     - 'Final Fantasy'
     - Playstation
 date: '2007-08-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 _Il y a des livres qui vous marquent, des films qui vous hantent. De la même manière, certains jeux vidéos restent à jamais gravés dans votre histoire. Celui-ci aura toujours une valeur particulière pour moi._

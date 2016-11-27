@@ -6,9 +6,10 @@ tags:
     - 'Sud Web'
 canonical: 'http://blog.clever-age.com/fr/2012/11/16/comment-mettre-en-place-une-strategie-de-performance-web/'
 date: '2012-11-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Dans ce nouvel article consacré à la performance Web, nous nous attarderons sur la partie "stratégie et culture d’entreprise" ou comment un enjeu technique peut devenir une aventure de longue haleine…

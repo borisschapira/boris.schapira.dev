@@ -1,8 +1,8 @@
 ---
 title: 'Souvenirs d''une taupe'
-categories: null
+categories:
+    - default
 date: '2007-09-13'
-section: default
 lang: fr
 type: post
 ---

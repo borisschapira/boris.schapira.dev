@@ -4,9 +4,10 @@ tags:
     - Humour
     - Insolite
 date: '2007-09-25'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 _C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!_

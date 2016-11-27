@@ -2,8 +2,8 @@
 title: 'L''échec de tous'
 categories:
     - Politique
+    - default
 date: '2009-01-21'
-section: default
 lang: fr
 type: post
 ---

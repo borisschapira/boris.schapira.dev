@@ -1,9 +1,10 @@
 ---
 title: Projection
 date: '2016-06-17'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Discussion entre le grand et sa maman.

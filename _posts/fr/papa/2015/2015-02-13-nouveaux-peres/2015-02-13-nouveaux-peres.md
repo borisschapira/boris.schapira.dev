@@ -1,9 +1,10 @@
 ---
 title: 'Nouveaux pères'
 date: '2015-02-13'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Ma femme, avec une amie enceinte :

@@ -4,7 +4,6 @@ categories:
     - default
     - papa
 date: '2016-06-26'
-section: papa
 lang: fr
 type: post
 ---

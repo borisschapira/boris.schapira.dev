@@ -1,9 +1,10 @@
 ---
 title: 'L''Ass. Mat de la mort : le gros énervement'
 date: '2014-05-25'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Le matin, j'explique :

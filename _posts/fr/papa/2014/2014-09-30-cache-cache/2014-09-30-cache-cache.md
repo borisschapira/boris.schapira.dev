@@ -1,9 +1,10 @@
 ---
 title: Cache-cache
 date: '2014-09-30'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — Allo chérie ? Dis-moi, elles sont où les chaussures des enfants ?  

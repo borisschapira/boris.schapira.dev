@@ -1,9 +1,10 @@
 ---
 title: Ressemblance
 date: '2014-11-11'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Des mois que j'explique à ma femme que notre petit dernier ressemble à son père et, plus généralement, à la lignée masculine de sa famille.

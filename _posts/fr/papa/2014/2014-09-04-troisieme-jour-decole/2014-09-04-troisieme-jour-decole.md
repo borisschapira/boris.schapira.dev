@@ -1,9 +1,10 @@
 ---
 title: 'Troisième jour d''école'
 date: '2014-09-04'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Il repère les lieux, puis se dirige vers la maîtresse :

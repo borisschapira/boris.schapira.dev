@@ -2,8 +2,8 @@
 title: 'Prouvons à tour de bras'
 categories:
     - Politique
+    - default
 date: '2007-08-30'
-section: default
 lang: fr
 type: post
 ---

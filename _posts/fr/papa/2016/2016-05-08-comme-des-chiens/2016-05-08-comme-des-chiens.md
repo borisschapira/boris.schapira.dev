@@ -1,9 +1,10 @@
 ---
 title: 'Comme des chiens'
 date: '2016-05-08'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Je regarde "La Belle et le Clochard" avec les enfants. La scène des pâtes à la bolognaise leur plait beaucoup.

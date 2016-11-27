@@ -4,9 +4,10 @@ canonical: 'http://www.nexeo.fr/blog/2009/06/05/problem-steps-recorder-psr-outil
 tags:
     - Nexdotnet
 date: '2009-06-05'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Le récit des différentes étapes menant à une erreur est toujours délicat pour les utilisateurs comme pour les équipes de support qui souhaiteraient disposer de plus d’informations pour un prodiguer les conseils les plus spécifiques à la situation. Windows 7 introduit un nouvel outil qui devrait faciliter cette étape du support : **Problem Steps Recorder**.

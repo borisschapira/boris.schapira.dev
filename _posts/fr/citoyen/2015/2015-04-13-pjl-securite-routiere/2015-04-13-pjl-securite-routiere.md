@@ -5,9 +5,10 @@ tags:
 series:
     - 'Loi Renseignement'
 date: '2015-04-13'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 > La menace sur nos routes était insupportable&nbsp;: plus de 3000 morts par an, vous imaginez&nbsp;?

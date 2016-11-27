@@ -5,9 +5,10 @@ tags:
 series:
     - 'Sud Web 2014'
 date: '2014-05-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 ## génèse de ma conférence pour Sud Web 2014

@@ -3,9 +3,10 @@ title: 'Société recherche stagiaire expérimenté'
 tags:
     - Emploi
 date: '2011-01-06'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 J'ai reçu aujourd'hui, sur Viadeo, une offre digne de [Yattu](http://livre.fnac.com/a3597520/Yatuu-Moi-20-ans-diplomee-motivee-exploitee). Je ne livrerai pas la société émettrice en pâture à vos commentaires acerbes, mais si la RH qui m'a envoyé cette offre passe par là, j'aimerai bien qu'elle lise la suite et se rende compte…

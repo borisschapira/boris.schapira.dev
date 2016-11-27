@@ -1,9 +1,10 @@
 ---
 title: 'L''amoureuse'
 date: '2014-10-03'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — Et elle, tu l'aimes bien ?  

@@ -4,9 +4,10 @@ tags:
     - Numérique
 series: Hadopi
 date: '2009-04-09'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 **[](http://vidberg.blog.lemonde.fr/2009/04/09/mais-que-faisaient-les-deputes-de-la-majorite/)Je n'aime pas du tout la façon dont l'opposition traite le projet de loi Création et Internet. Il fallait que je le dise.**

@@ -6,9 +6,10 @@ tags:
     - 'Dette publique'
     - Economie
 date: '2009-09-28'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 François Fillon vient de présenter le budget 2010 et, comme on s'y attendait, l'évaluation de la [Dette Publique](/2009/01/dette-publique/) laisse songueur. Attendez-vous donc à la stupide rengaine habituelle sur la Dette&nbsp;:

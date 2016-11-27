@@ -5,9 +5,10 @@ tags:
 series: Diviser
 loadTwitterWjs: true
 date: '2016-02-20'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 ## pour mieux régner

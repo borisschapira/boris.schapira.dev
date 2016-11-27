@@ -4,9 +4,10 @@ tags:
     - Technologie
     - Web
 date: '2007-08-20'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 <font face="Calibri">

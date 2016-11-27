@@ -4,9 +4,10 @@ tags:
     - Développement
     - Web
 date: '2009-08-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 C'est le grand débat qui anime les communauté de développeurs depuis plusieurs années. Michael J. Braude et Jeff Atwood résument les arguments des deux camps.

@@ -5,9 +5,10 @@ tags:
     - Photos
     - SGCIB
 date: '2007-12-21'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Prenez une salle de marché très sérieuse (très).

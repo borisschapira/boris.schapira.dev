@@ -1,9 +1,10 @@
 ---
 title: 'Cuisine de grands'
 date: '2015-02-04'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Il est délicatement en train de tartiner sa mousse au chocolat sur une biscotte, puis décore l'ensemble avec des éclats de chips et un morceau de bonbon.

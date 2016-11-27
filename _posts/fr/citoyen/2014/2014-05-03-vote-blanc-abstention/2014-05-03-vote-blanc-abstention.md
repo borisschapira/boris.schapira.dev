@@ -4,9 +4,10 @@ tags:
     - Société
     - Politique
 date: '2014-05-03'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 ## Un citoyen, c'est davantage qu'un bulletin. Mais le bulletin a un sens.

@@ -3,9 +3,10 @@ title: 'Le nouveau joujou de Steve : l''iRack'
 tags:
     - Apple
 date: '2007-10-03'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 A part les rires en fond sonore, la vidéo est un régal de second degré. Et comme souvent dans un bon sketch, le meilleur est à la fin.

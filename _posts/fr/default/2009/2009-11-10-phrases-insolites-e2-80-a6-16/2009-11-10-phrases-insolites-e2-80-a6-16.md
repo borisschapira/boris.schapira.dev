@@ -4,9 +4,10 @@ tags:
     - Humour
     - Insolite
 date: '2009-11-10'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!

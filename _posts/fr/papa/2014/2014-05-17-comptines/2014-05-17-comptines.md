@@ -1,9 +1,10 @@
 ---
 title: Comptines
 date: '2014-05-17'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Ma femme a écouté des comptines avec les petits. Elle est un peu remontée :

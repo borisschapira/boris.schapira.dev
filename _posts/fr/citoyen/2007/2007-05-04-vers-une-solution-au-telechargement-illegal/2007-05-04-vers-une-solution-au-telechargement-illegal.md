@@ -3,9 +3,10 @@ title: 'Vers une solution au téléchargement illégal'
 tags:
     - Numérique
 date: '2007-05-04'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 Tandis que le débat présidentiel fait rage, [de discrètes lois sont votées](http://www.lemonde.fr/idees/article/2007/04/20/l-etat-veut-il-tuer-internet-en-france-par-philippe-jannet_899116_3232.html) (suites logiques de la DADVSI) pour réduire à peau de chagrin la liberté d'entreprendre des entreprises informatiques françaises. Ces lois convergent vers le suivi des activités des internautes et la protection des données.

@@ -2,8 +2,8 @@
 title: 'Microsoft : 2 nouveaux centres de sécurité en Europe'
 categories:
     - Technologie
+    - default
 date: '2007-04-27'
-section: default
 lang: fr
 type: post
 ---

@@ -3,9 +3,10 @@ title: 'Le code a changé'
 tags:
     - Education
 date: '2014-06-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 ## ou l'absurdité d'une PPL sur le code à l'Ecole

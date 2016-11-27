@@ -1,9 +1,10 @@
 ---
 title: 'De l''art d''être précis'
 date: '2016-06-19'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Toujours, toujours être précis dans la consigne. Par exemple : "Ne fais pas pipi sur toi".

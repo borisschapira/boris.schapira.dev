@@ -2,8 +2,8 @@
 title: 'Antilles «&#160;françaises&#160;» ?'
 categories:
     - Politique
+    - default
 date: '2009-02-18'
-section: default
 lang: fr
 type: post
 ---

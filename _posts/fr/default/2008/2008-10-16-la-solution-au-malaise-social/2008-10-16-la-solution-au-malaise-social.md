@@ -2,8 +2,8 @@
 title: 'La solution au malaise social ?'
 categories:
     - Politique
+    - default
 date: '2008-10-16'
-section: default
 lang: fr
 type: post
 ---

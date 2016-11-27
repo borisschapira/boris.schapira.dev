@@ -3,9 +3,10 @@ title: 'Quels écouteurs choisir ? A votre avis ?'
 tags:
     - 'Me, myself and I'
 date: '2008-05-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Mon adaptateur USB Mini/Jack commence sérieusement à rendre l'âme et mon [casque tour-de-cou](http://www.amazon.fr/Creative-Casque-audio-HQ-80/dp/B000JU9N5Y/ref=sr_1_7?ie=UTF8&amp;s=electronics&amp;qid=1209761138&amp;sr=1-7) commence sérieusement à me faire mal aux oreilles (au premier et au second degré), il est donc grand temps pour moi de renouveler l'un comme l'autre.

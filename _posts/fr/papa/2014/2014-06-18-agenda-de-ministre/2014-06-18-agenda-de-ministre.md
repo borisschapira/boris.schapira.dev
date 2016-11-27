@@ -1,9 +1,10 @@
 ---
 title: 'Agenda de ministre'
 date: '2014-06-18'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — Allez, petit dictateur, à table!  

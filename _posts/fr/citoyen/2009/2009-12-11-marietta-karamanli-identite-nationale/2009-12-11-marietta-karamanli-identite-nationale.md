@@ -4,9 +4,10 @@ tags:
     - Égalité
     - Religion
 date: '2009-12-11'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
 ---
 
 ## Merci pour ce témoignage, Madame

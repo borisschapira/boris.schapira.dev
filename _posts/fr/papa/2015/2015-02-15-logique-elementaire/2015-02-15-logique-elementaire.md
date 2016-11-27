@@ -1,9 +1,10 @@
 ---
 title: 'Logique élémentaire'
 date: '2015-02-15'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — C'est quoi que tu manges, là ?  

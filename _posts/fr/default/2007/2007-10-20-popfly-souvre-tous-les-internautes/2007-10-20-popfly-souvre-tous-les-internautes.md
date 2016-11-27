@@ -5,9 +5,10 @@ tags:
     - Popfly
     - Silverlight
 date: '2007-10-20'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 [Popfly](http://popfly.ms/) est un outil de &quot;création d'applications pour tous&quot; proposé par Microsoft pour mettre en avant les capacités de la technologie [Silverlight](http://msdn.microsoft.com/en-us/silverlight/bb187358.aspx) concurrente de [Flash](http://www.adobe.com/products/flash.html) et [AIR](http://www.adobe.com/products/air.html) sur le Net.</p>

@@ -3,9 +3,10 @@ title: '[VS2010] Productivity Power Tools'
 tags:
     - Outils
 date: '2010-09-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Visual Studio 2010 est assez riche en fonctionnalités à l’origine mais on trouve toujours deux ou trois choses sur lesquelles se plaindre, surtout si on est habitué à utiliser d’autres <acronym title="Integrated Development Environment&nbsp;: environnement de développement intégré (comme souvent, l’anagramme français EDI est moins utilisé que son équivalent anglophone)">IDE</acronym> (comme Eclipse). Heureusement, Visual Studio est extensible, et on trouve déjà de nombreux outils, dont les Productivity Power Tools.

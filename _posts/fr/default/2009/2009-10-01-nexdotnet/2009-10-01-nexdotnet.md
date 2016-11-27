@@ -4,9 +4,10 @@ tags:
     - 'Me, myself and I'
     - Nexeo
 date: '2009-10-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Il y a plusieurs mois, [Nexeo](http://www.nexeo.fr/) a lancé une **consultation** auprès de ses collaborateurs pour transformer l'entreprise. Plusieurs groupes de réflexion ont été créés traitant de sujets divers comme le rôle du consultant, l'image de Nexeo ou encore les pôles de compétences des collaborateurs. Avec un collègue, nous nous sommes demandé ce que nous pouvions faire pour participer&nbsp;: nous avons créé **[Nexdotnet](http://nexdotnet.nexeo.fr/)**.

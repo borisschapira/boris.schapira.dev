@@ -3,9 +3,10 @@ title: 'Microsoft Seadragon : un Hippocampe au cœur de la Toile'
 tags:
     - Outils
 date: '2007-03-31'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Seadragon est un projet en cours aux Microsoft Live Labs. Il est issu du rachat en février 2006 par Microsoft de la société Seadragon Software, fondée en 2003 et de son concept novateur de navigation.

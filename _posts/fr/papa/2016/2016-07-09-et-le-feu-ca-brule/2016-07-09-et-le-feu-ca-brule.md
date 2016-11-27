@@ -1,9 +1,10 @@
 ---
 title: 'Et le feu ça brule'
 date: '2016-07-09'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 Voyage chez mon père, qui possède une piscine. Rapidement, le grand teste. Le petit, lui, reste au bord.

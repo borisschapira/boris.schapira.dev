@@ -2,8 +2,8 @@
 title: 'Burka or not burka'
 categories:
     - Société
+    - citoyen
 date: '2009-06-19'
-section: citoyen
 lang: fr
 type: post
 ---

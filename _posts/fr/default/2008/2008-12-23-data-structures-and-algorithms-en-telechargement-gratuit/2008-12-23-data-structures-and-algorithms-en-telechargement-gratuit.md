@@ -2,8 +2,8 @@
 title: '«&#160;Data Structures and Algorithms&#160;» en téléchargement gratuit'
 categories:
     - Développement
+    - default
 date: '2008-12-23'
-section: default
 lang: fr
 type: post
 ---

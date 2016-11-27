@@ -1,9 +1,10 @@
 ---
 title: 'Hier Demain'
 date: '2016-03-27'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
 ---
 
 > — Tu as une petite mine, mon poussin, on dirait que tu n'as pas fait la sieste…  

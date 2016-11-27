@@ -4,9 +4,10 @@ tags:
     - 'Logiciel Libre'
     - 'Service Design'
 date: '2014-11-04'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 ## L'UX, souvent un tabou dans les communautés du logiciel libre

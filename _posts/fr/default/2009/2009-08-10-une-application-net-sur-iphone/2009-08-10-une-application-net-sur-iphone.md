@@ -4,9 +4,10 @@ canonical: 'http://www.nexeo.fr/blog/2009/08/10/une-application-net-sur-iphone/'
 tags:
     - Nexdotnet
 date: '2009-08-10'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Non, vous ne rêvez pas. Les joies du .NET seront bientôt accessibles aux développeurs iPhone (et respectivement, les joies de l’iPhone aux développeurs .NET) grâce aux développeurs du projet Mono !

@@ -1,9 +1,10 @@
 ---
 title: 'BetterBack : pour une meilleure posture'
 date: '2016-02-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
 ---
 
 Suite aux conseils de mon cousin, je me suis procuré un [<i lang="en">BetterBack</i>](http://getbetterback.com/). Expérience d'achat très positive, attente un peu longue (2 mois environ) mais finalement un produit bien fini et agréable au toucher.
