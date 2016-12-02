@@ -29,7 +29,6 @@
   <div class="post-content">
     {% if include.postPage %}
       {{ post.content }}
-      {% include post_footer.html.liquid content=post.content %}
     {% else %}
       {% if post.content contains "<!-- more -->" %}
         {{ post.content | split:"<!-- more -->" | first | markdownify % }}
