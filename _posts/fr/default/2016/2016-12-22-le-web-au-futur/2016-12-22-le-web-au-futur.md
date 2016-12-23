@@ -163,11 +163,11 @@ Contrairement à vous, vos commanditaires ne sont pas nécessairement des profes
 
 Prenez donc le temps, en amont, de réfléchir à la pérennité de ce que vous produisez et prenez vos décisions en gardant en tête que :
 
-+ un site, ça se maintient, par des acteurs qui doivent avoir à la fois le savoir, le savoir-faire et informations nécessaires à l'exécution des tâches qui leurs seront confiées. Pensez au futur : pensez à elles ;
-+ la solution n'ayant aucun bug n'existe pas : tant que les logiciels seront créés par des humains, ils contiendront des erreurs. Privilégiez les solutions mettant rapidement des correctifs à disposition et dont la communauté est saine. Vous savez peut-être distinguer un bon d'un mauvais module. Rien ne garantit que votre successeur sera dans le même cas.
-+ si le code n'est pas compréhensible en l'état, envisagez la formation nécessaire à la mise à jour technique des solutions et maintenez l'information sur cette "dette de formation" dans le temps, ainsi que les noms des personnes pouvant la combler.
-+ pensez à prévenir vos commanditaires que la maintenance a un coût et que le marché n'est pas homogène. Est-ce qu’il est plus facile de trouver un développeur PHP ou un développeur .NET ? Est-ce que chaque surcoût s'associe d'un avantage qui a du sens pour le projet ? Suivant la typologie financière, technique ou culturelle du client et des types de solution recherchées, cette question est pertinente !
-+ La documentation d'installation, de développement, de mise en Production vous gonfle ? Écrivez des scripts versionnés. Ils vous serviront durant le développement et feront un excellent point d'entrée pour vos successeurs.
++ **un site, ça se maintient**, par des acteurs qui doivent avoir à la fois le savoir, le savoir-faire et informations nécessaires à l'exécution des tâches qui leurs seront confiées. Pensez au futur : pensez à elles ;
++ **la solution n'ayant aucun bug n'existe pas** : tant que les logiciels seront créés par des humains, ils contiendront des erreurs. Privilégiez les solutions mettant rapidement des correctifs à disposition et dont la communauté est saine. Vous savez peut-être distinguer un bon d'un mauvais module. Rien ne garantit que votre successeur sera dans le même cas.
++ si le code n'est pas compréhensible en l'état, **envisagez la formation nécessaire** à la mise à jour technique des solutions et maintenez l'information sur cette "dette de formation" dans le temps, ainsi que les noms des personnes pouvant la combler.
++ pensez à prévenir vos commanditaires que la maintenance a un coût et que **le marché n'est pas homogène**. Est-ce qu’il est plus facile de trouver un développeur PHP ou un développeur .NET ? Est-ce que chaque surcoût s'associe d'un avantage qui a du sens pour le projet ? Suivant la typologie financière, technique ou culturelle du client et des types de solution recherchées, cette question est pertinente !
++ La documentation d'installation, de développement, de mise en Production vous gonfle ? **Écrivez des scripts versionnés**. Ils vous serviront durant le développement et feront un excellent point d'entrée pour vos successeurs.
 
 ## Demain ne meurt jamais
 
