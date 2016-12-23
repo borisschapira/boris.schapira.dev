@@ -109,7 +109,7 @@ Que se passera-t-il dans quatre ans, quand une développeuse ou un développeur 
 ## Penser à la quatrième dimension
 
 > Le bon code, c'est le code que je comprends.
-> <cite>"<a href="http://www.commitstrip.com/fr/2016/06/07/good-code/" title="&quot;Le bon code&quot; sur CommitStrip">Le bon code</a>", CommitStrip</a>
+> <cite>"<a href="http://www.commitstrip.com/fr/2016/06/07/good-code/" title="&quot;Le bon code&quot; sur CommitStrip">Le bon code</a>", CommitStrip
 
 La structure de votre code n'a pas qu'une incidence sur votre projet. Un bon code est avant tout un code facile à comprendre et pour cela, il faut connaître les bonnes pratiques et les <i lang="en">patterns</i> **régulièrement** utilisés, mais aussi prendre sur soi pour éviter les couches d'abstractions inutiles.
 
