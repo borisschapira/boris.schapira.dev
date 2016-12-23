@@ -10,7 +10,7 @@
   if (w.document.documentElement.className.indexOf('fonts-loaded') > -1) {
     return;
   }
-  var fontA = new w.FontFaceObserver('Cabin', {
+  var fontA = new w.FontFaceObserver('Open Sans', {
     weight: 400
   });
 
