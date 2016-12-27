@@ -16,7 +16,7 @@ Trois lectures qui se font écho et rappellent que seule l'éducation permet de 
 ***
 
 > Overall, young people’s ability to reason about the information on the Internet can be summed up in one word: bleak. Our “digital natives” may be able to fit between Facebook and Twitter while simultaneously uploading a selfe to Instagram and texting a friend. But when it comes to evaluating information that fows through social media channels, they are easily duped.  
-> <cite>"[Evaluation information: the cornerstone of civic online reasoning]({{page.url}}executive_summary_11.21.16.pdf)", Stanford History Education Group, produced with the support of the Robert R. McCormick Foundation</cite>
+> <cite>"[Evaluation information: the cornerstone of civic online reasoning]({{ page.url }}executive_summary_11.21.16.pdf)", Stanford History Education Group, produced with the support of the Robert R. McCormick Foundation</cite>
 
 Nos jeunes sont naïfs et croient ce qui leur est dit sur des canaux dont ils ont l'impression qu'ils sont modelés à leur image. Cela n'a sûrement rien de nouveau et nous étions sûrement pareils au même âge mais exposés à moins de canaux, moins personnalisés et diffusant moins de messages.
 
