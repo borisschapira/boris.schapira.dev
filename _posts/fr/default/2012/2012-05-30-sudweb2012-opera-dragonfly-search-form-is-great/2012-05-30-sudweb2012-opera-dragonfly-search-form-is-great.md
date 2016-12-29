@@ -5,13 +5,13 @@ tags:
 series:
     - 'Sud Web 2012'
 date: '2012-05-30'
-lang: fr
+lang: en
 type: post
 categories:
     - default
 ---
 
-_I had planned for several months to go to Toulouse for the [SudWeb Conference and Workshops](http://sudweb.fr/2012/), and I had even proposed a subject. Even if my submission had not been selected, I was very proud to go there and meet people united by the common values of Web Standards, innovation, agility… and long story short, [I finaly became a speacker](http://sudweb.fr/2012/talk/mise-en-place-dune-strategie-de-performance-en-entreprise/ "Sud Web 2012 - &quot;Mettre en place une stratégie de Performance Web en entreprise&quot; par Boris Schapira") (but that's another story)_
+_I had planned for several months to go to Toulouse for the [SudWeb Conference and Workshops](http://sudweb.fr/2012/), and I had even proposed a subject. Even if my submission had not been selected, I was very proud to go there and meet people united by the common values of Web Standards, innovation, agility… and long story short, I finaly became a speacker but that's another story._
 
 <!-- more -->
 

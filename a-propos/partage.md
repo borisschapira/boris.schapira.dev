@@ -15,9 +15,9 @@ Il y a plusieurs sujets dont j'aimerai parler : si cela vous intéresse aussi, p
 {% assign the_subjects=site.confs %}
 <div class="conf-subjects">
 {% for conf in the_subjects %}
-  {% unless conf.event %}
+  {% unless conf.events %}
     <article class="conf-subject">
-      <h3>{{ conf.title }}</h3>
+      <h3>{{ conf.title }}<br/><small>un sujet pour tous les {{ conf.target }}</small></h3>
       {{ conf.description | raw }}
     </article>
   {% endunless %}
@@ -31,10 +31,10 @@ Il y a plusieurs sujets dont j'ai déjà parlé, n'hésitez pas à jeter un œil
 {% assign the_subjects=site.confs %}
 <div class="conf-subjects">
 {% for conf in the_subjects %}
-  {% if conf.event %}
+  {% if conf.events %}
     <article class="conf-subject">
-      <h3><a href="{{ conf.url }}">{{ conf.title }}</a></h3>
-      {{ conf.description }}
+      <h3><a href="{{ conf.url }}">{{ conf.title }}<br/><small>un sujet pour tous les {{ conf.target }}</small></a></h3>
+      {{ conf.description | raw }}
     </article>
   {% endif %}
 {% endfor %}
