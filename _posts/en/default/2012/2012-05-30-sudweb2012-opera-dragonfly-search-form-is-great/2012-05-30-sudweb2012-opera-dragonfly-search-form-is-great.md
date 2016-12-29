@@ -1,9 +1,5 @@
 ---
 title: 'Opera Dragonfly Search Form is great'
-tags:
-    - Outils
-series:
-    - 'Sud Web 2012'
 date: '2012-05-30'
 lang: en
 type: post
