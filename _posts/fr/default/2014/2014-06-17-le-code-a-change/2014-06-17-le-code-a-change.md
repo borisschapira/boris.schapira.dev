@@ -23,9 +23,9 @@ Si je suis plutôt d'accord avec le premier argument, le second me gêne profond
 >
 >   I. - Après la première phrase, sont insérées deux phrases ainsi rédigées&nbsp;:  
 >
->   layout: postLes **objectifs prioritaires** assignés aux écoles sont l'**apprentissage de la langue française, la maîtrise de la lecture, de l'écriture, l'utilisation des mathématiques et l'apprentissage du code informatique**. Ces savoirs doivent impérativement être acquis lors de l'entrée au collège.&nbsp;»  
+>   "Les **objectifs prioritaires** assignés aux écoles sont l'**apprentissage de la langue française, la maîtrise de la lecture, de l'écriture, l'utilisation des mathématiques et l'apprentissage du code informatique**. Ces savoirs doivent impérativement être acquis lors de l'entrée au collège."
 >
->   II. - Au début de la deuxième phrase, les mots&nbsp;: layout: postIls contribuent&nbsp;» sont remplacés par les mots&nbsp;: layout: postLes écoles, les collèges, les lycées et les établissements d'enseignement supérieur contribuent&nbsp;».
+>   II. - Au début de la deuxième phrase, les mots&nbsp;: "Ils contribuent" sont remplacés par les mots&nbsp;: "Les écoles, les collèges, les lycées et les établissements d'enseignement supérieur contribuent".
 
 Bien que nos députés s'y soient mis à 35 (incroyable) pour le signer, ce texte est d'une grande stupidité et [je ne suis pas le seul à l'écrire](http://nicolas.biri.name/posts/2014-06-16-l-education-et-l-informatique.html "L") (allez-y, ne serait-ce que pour voir la vidéo). Mais d'abord, regardons pourquoi on en arrive là…
 
