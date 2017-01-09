@@ -16,7 +16,7 @@ Merci égalemment  à [Mathilde Mathieu](http://blogs.mediapart.fr/blog/mathilde
 
 <!-- more -->
 
-> Il est […] toujours complexe de définir ce qu'est le sentiment d'être français. Le mot sentiment désigne lui-même à la fois des sensations et une conscience. **Il est périlleux que ce soit l'État qui cherche à dire ce que cela signifie et, ainsi, à layout: postcadrer&nbsp;» des sentiments.** En la matière, il ne peut dire layout: postle vrai&nbsp;» car il ne peut y avoir d'objectivité.  
+> Il est […] toujours complexe de définir ce qu'est le sentiment d'être français. Le mot sentiment désigne lui-même à la fois des sensations et une conscience. **Il est périlleux que ce soit l'État qui cherche à dire ce que cela signifie et, ainsi, à «&nbsp;cadrer&nbsp;» des sentiments.** En la matière, il ne peut dire «&nbsp;le vrai&nbsp;» car il ne peut y avoir d'objectivité.  
 >
 > Je voudrais vous faire part de ma propre expérience, celle de devenir française, ayant été une étrangère pendant une moitié de ma vie.  
 >
@@ -30,7 +30,7 @@ Merci égalemment  à [Mathilde Mathieu](http://blogs.mediapart.fr/blog/mathilde
 >
 > Mon troisième sentiment pour la France a été le plaisir de me savoir reconnue pour ce que j'étais.  
 >
-> Plus tard, en lisant Ferdinand Buisson, philosophe, pédagogue, et ministre de la IIIe République, j'ai découvert que c'était ce qu'il nommait layout: postl'individualisme de conscience&nbsp;». **Ici, vous pouvez être vous-même et ne pas être défini exclusivement par votre famille, votre religion, votre travail ou votre entreprise, votre pays d'origine, ou encore vos préférences sexuelles. Vous êtes, quelque part, layout: postindépendant&nbsp;» d'eux. On y pratique non pas la coexistence des particularismes mais le partage de ce qu'il y a de meilleur dans les individualités et les valeurs.**  
+> Plus tard, en lisant Ferdinand Buisson, philosophe, pédagogue, et ministre de la IIIe République, j'ai découvert que c'était ce qu'il nommait «&nbsp;l'individualisme de conscience&nbsp;». **Ici, vous pouvez être vous-même et ne pas être défini exclusivement par votre famille, votre religion, votre travail ou votre entreprise, votre pays d'origine, ou encore vos préférences sexuelles. Vous êtes, quelque part, «&nbsp;indépendant&nbsp;» d'eux. On y pratique non pas la coexistence des particularismes mais le partage de ce qu'il y a de meilleur dans les individualités et les valeurs.**  
 >
 > Par ailleurs, **cet individualisme n'est pas l'individualisme de concurrence** qui est aujourd'hui valorisé et vanté partout, jusqu'aux plus hauts sommets de l'État. Être puissant, riche, riche parmi les puissants ou puissant parmi les riches, cette ivresse-là qui s'empare de celui qui a devancé ses semblables ou est en passe de le faire, qui veut constamment dominer et qui se comporte comme tous les riches et les puissants du monde, ce n'est pas cela qui m'a fait choisir la France.  
 >
@@ -42,7 +42,7 @@ Merci égalemment  à [Mathilde Mathieu](http://blogs.mediapart.fr/blog/mathilde
 >
 > […]  
 >
-> Selon moi, **parler de l'identité nationale comme de quelque chose d'objectif et d'immuable qu'on pourrait layout: postvaloriser&nbsp;», comme le dit le site du ministère, c'est impossible**.  
+> Selon moi, **parler de l'identité nationale comme de quelque chose d'objectif et d'immuable qu'on pourrait «&nbsp;valoriser&nbsp;», comme le dit le site du ministère, c'est impossible**.  
 >
 > […]  
 >
