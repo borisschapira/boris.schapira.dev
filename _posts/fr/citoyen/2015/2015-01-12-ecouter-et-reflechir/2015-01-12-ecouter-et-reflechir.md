@@ -16,7 +16,7 @@ Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers jou
 <!-- more -->
 
 > Et pourtant, c’est justement ça l’amalgame et la discrimination. Quand il y a eu plusieurs élèves qui ont refusé de faire la minute de silence, mais que celui dont on parle est justement le musulman – je suppose que tous les autres ne l’étaient pas alors pour eux c’est juste de la discipline. Pour le musulman par contre, c’est forcément à cause de la religion.  
->   <cite>["Le désarroi d’une prof qui parle de layout: postCharlie&nbsp;» à ses élèves – Amalgame au quotidien"](https://n.survol.fr/n/le-desarroi-dune-prof-qui-parle-de-charlie-a-ses-eleves-amalgame-au-quotidien), Eric Daspet</cite>
+>   <cite>["Le désarroi d’une prof qui parle de «&nbsp;Charlie&nbsp;» à ses élèves – Amalgame au quotidien"](https://n.survol.fr/n/le-desarroi-dune-prof-qui-parle-de-charlie-a-ses-eleves-amalgame-au-quotidien), Eric Daspet</cite>
 
 ***
 

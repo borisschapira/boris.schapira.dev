@@ -29,7 +29,7 @@ Des outils méthodologiques existent. Par exemple, si vous sentez que votre espr
 
 ## Conceptualiser
 
-Cette phase d'ouverture d'esprit vous permettra de disposer de suffisamment d’informations pour tenter de conceptualiser votre idée, c’est-à-dire de la modeler, de la layout: postmettre en boite&nbsp;», de la faire rentrer dans des cases.
+Cette phase d'ouverture d'esprit vous permettra de disposer de suffisamment d’informations pour tenter de conceptualiser votre idée, c’est-à-dire de la modeler, de la «&nbsp;mettre en boite&nbsp;», de la faire rentrer dans des cases.
 
 L'objectif de cette phase est de vérifier que votre idée de projet est complète, c’est-à-dire qu’elle n’omet aucune des grandes questions que vous devriez vous poser. Prenons l'exemple du [Lean Canvas](http://leanstack.com/ "Business Model Canvas Optimized for Lean Startup &quot;, Lean Canvas"), déjà [présenté par Camille Roux lors de Sud Web 2012](http://vimeo.com/53160076 "&quot;Testez votre idée en quelques heures&quot;, Camille Roux &quot;, Sud Web 2012")&nbsp;: il vous propose des définir votre projet au travers de grands axes&nbsp;: vos utilisateurs, le problème d'origine, votre solution et sa pertinence, par quel moyen vous allez apporter cette solution aux utilisateurs, quels revenus seront générés, pour quels coûts… L'objectif de ce _canvas_, de cette grille, est de faire le tour de la question, de manière à ne rien oublier.
 

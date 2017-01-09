@@ -22,7 +22,7 @@ Je suis également persuadé qu'une mutation lente va, durant dix prochaines ann
 
 > D’ici 2020 – autant dire demain – 90 % des emplois nécessiteront des compétences numériques, et nous ne sommes pas prêts.  
 >
-> <cite>[Neelie Kroes, vice-présidente de la Commission européenne chargée de la stratégie numérique](http://frenchweb.fr/labsence-de-competences-numeriques-est-une-nouvelle-forme-dillettrisme/147096 "Neelie Kroes: layout: postL’absence de compétences numériques est une nouvelle forme d’illettrisme&nbsp;» &quot;, FrenchWeb.fr")</cite>
+> <cite>[Neelie Kroes, vice-présidente de la Commission européenne chargée de la stratégie numérique](http://frenchweb.fr/labsence-de-competences-numeriques-est-une-nouvelle-forme-dillettrisme/147096 "Neelie Kroes: «&nbsp;L’absence de compétences numériques est une nouvelle forme d’illettrisme&nbsp;» &quot;, FrenchWeb.fr")</cite>
 
 Ces profils existent déjà. Je les croise lors de mes missions. Ils ne sont pas informaticiens, mais comptables, secrétaires, commerciaux, politiques, journalistes… Et même parfois ouvriers, agents d'entretien, chauffeurs… Ils sont souvent précurseurs au sein de leurs structures et n'ont besoin de notre aide que pour appuyer des stratégies numériques déjà amorcées, ou pour les inscrire dans la durée. Ils se renseignent, apprennent, influencent et mettent en place les briques d'un système d'information sans même le savoir.
 

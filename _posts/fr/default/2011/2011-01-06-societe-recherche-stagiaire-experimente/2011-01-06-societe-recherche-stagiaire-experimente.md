@@ -33,7 +33,7 @@ Ca fait un moment que je n'ai plus fait de stage mais peut-être que pour le pla
 
 Il va quand même falloir que je révise un peu. Les diagrammes de couches, les archi réseaux… je n'ai pas fait tout ça depuis l'Ecole d'Ingénieur mais bon, ça devrait revenir sans problème. Et puis si j'avais vraiment déjà fait **des** stages (comme dans **plusieurs**), j'aurais peut-être fini par avoir un contrat, non&nbsp;? Donc finalement c'est pas plus mal.
 
-> Vous êtes autonome, rigoureux,layout: postjusqu'au bout&nbsp;» et possédez un bon sens du service
+> Vous êtes autonome, rigoureux,«&nbsp;jusqu'au bout&nbsp;» et possédez un bon sens du service
 
 Pas de souci, je n'ai pas de vie. Je commence le boulot à 6h le matin, finis à minuit et entre les deux, je me contente d'aller prendre une douche, de m'alimenter, et de faire quelques courses pour mon maître de stage.
 
