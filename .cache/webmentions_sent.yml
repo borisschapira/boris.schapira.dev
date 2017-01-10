@@ -9544,4 +9544,10 @@ https://borisschapira.com/2016/12/le-web-au-futur/:
 - http://platform.twitter.com/widgets.js
 - http://platform.twitter.com/widgets.js
 - http://platform.twitter.com/widgets.js
+<<<<<<< HEAD
 - http://platform.twitter.com/widgets.js
+||||||| parent of 4bc64260... Build --skip-ci
+=======
+- http://platform.twitter.com/widgets.js
+https://borisschapira.com/2016/12/resolutions/: []
+>>>>>>> 4bc64260... Build --skip-ci
