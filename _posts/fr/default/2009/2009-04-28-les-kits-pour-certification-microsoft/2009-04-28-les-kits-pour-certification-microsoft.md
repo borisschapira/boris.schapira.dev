@@ -25,4 +25,4 @@ Nous conseillons de passer les certifications en anglais pour plusieurs raisons 
 * les questions de certification pour les tests d’entrainement sont plus facilement trouvables en anglais ;
 * les e-books us/en sont plus facilement trouvables en anglais qu’en français.
 
-Il est donc préférable de travailler à partir de ressources anglophones dans un contexte d’apprentissage. Mais rien ne vous empêche d’avoir en bibliothèque quelques ouvrages en français pour dépanner un oubli de langue :wink:
+Il est donc préférable de travailler à partir de ressources anglophones dans un contexte d’apprentissage. Mais rien ne vous empêche d’avoir en bibliothèque quelques ouvrages en français pour dépanner un oubli de langue.
