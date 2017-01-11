@@ -7,7 +7,7 @@ categories:
     - default
 ---
 
-**J’entre dans un magasin**. Une personne avec un papier et un crayon me demande si ça ne me dérange pas qu’elle prenne des notes sur ce que je fais. Je lui dis que oui mais elle n'en tient pas compte et commence. Elle me suis pendant toute ma visite.
+**J’entre dans un magasin**. Une personne avec un papier et un crayon me demande si ça ne me dérange pas qu’elle prenne des notes sur ce que je fais. Je lui dis que oui mais elle n'en tient pas compte et commence. Elle me suit pendant toute ma visite.
 
 ***
 
