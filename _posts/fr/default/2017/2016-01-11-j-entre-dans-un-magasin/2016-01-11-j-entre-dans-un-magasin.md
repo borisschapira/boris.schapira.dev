@@ -7,15 +7,25 @@ categories:
     - default
 ---
 
+Et si le e-commerce se produisait dans la vraie vie (ou comment prendre du recul sur des pratiques qui se sont imposées et semblent naturelles, mais privent la plupart du temps l'utilisateur de tout consentement)…
+
+***
+
 **J’entre dans un magasin**. Une personne avec un papier et un crayon me demande si ça ne me dérange pas qu’elle prenne des notes sur ce que je fais. Je lui dis que oui mais elle n'en tient pas compte et commence. Elle me suit pendant toute ma visite.
 
 ***
 
-**J’entre dans un magasin**. Un vendeur se précipite vers moi en criant : "Ah, Hélène, vous revoilà, ça fait plaisir." Il m’a confondu avec ma femme qui était passée par là quelques minutes avant.
+**J’entre dans un magasin**. Un vendeur se précipite vers moi en criant : 
+
+> Ah, Hélène, vous revoilà, ça fait plaisir.
+
+Il m’a confondu avec ma femme qui était passée par là quelques minutes avant.
 
 ***
 
-**J’entre dans un magasin** de jouets. Une autre personne rentre après moi et m’interpelle : "Hey, je sais que vous aimez les barbecues parce que je vous ai vu au rayon grillade du Auchan avant-hier. Ça vous dirait que je vous emmène dans un magasin qui vend des barbecues ?"
+**J’entre dans un magasin** de jouets. Une autre personne rentre après moi et m’interpelle : 
+
+> Hey, je sais que vous aimez les barbecues parce que je vous ai vu au rayon grillade du Auchan avant-hier. Ça vous dirait que je vous emmène dans un magasin qui vend des barbecues ?
 
 ***
 
