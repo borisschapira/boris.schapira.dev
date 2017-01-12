@@ -146,9 +146,6 @@ responsive_image:
 emoji:
   src: "/assets"
 
-webmention:
-  api_key: "…"
-
 algolia:
   lazy_update: true
   application_id: '…'
