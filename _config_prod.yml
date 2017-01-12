@@ -1,6 +1,3 @@
-webmention:
-  api_key: "0Tri1ghLmt5bSIyEwnkdGg"
-
 algolia:
   application_id: '97EL687MDM'
   index_name: 'jekyll'

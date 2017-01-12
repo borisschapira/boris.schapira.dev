@@ -1,8 +1,0 @@
-{% capture count %}{% webmention_count include.url %}{% endcapture %}
-{% capture count %}{{ count | minus:1 }}{% endcapture %}
-{% unless count contains '-' %}
-<section id="webmentions">
-    <h2>Ils en parlent :</h2>
-    {% webmentions include.url %}
-</section>
-{% endunless %}
