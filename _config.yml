@@ -74,6 +74,7 @@ timezone: Europe/Paris
 incremental: true
 profile: true
 encoding: utf-8
+lsi: true
 
 # Author
 name: 'Boris Schapira'
