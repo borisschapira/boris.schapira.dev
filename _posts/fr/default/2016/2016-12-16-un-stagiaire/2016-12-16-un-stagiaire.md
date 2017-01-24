@@ -25,7 +25,7 @@ Accueillir un·e stagiaire de troisième et prendre le temps d'échanger avec el
 
 Quand nous rencontrons un problème dans la formalisation d'une problématique technique en code, nous avons quasiment tous l'habitude de parler à un collègue pour essayer de dénouer la situation. Un stagiaire de troisième, c'est le [canard en plastique](https://fr.wikipedia.org/wiki/M%C3%A9thode_du_canard_en_plastique) du monde du travail. C'est en lui expliquant votre vie professionnelle que vous allez mettre rapidement le doigt sur ce qui peut la rendre compliquée ou, au contraire, géniale (ou les deux, chacun ses goûts).
 
-## Les sujets abordés
+## Les sujets abordés {#memo}
 
 Je jette ce à quoi je pense, j'essaierai d'alimenter davantage ultérieurement :
 
