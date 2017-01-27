@@ -15,7 +15,7 @@
           <span class="p-date algolia__result-date">{{ posted_at_readable }}</span>
       </header>
       {{/posted_at}}
-      <h1 class="post-title"><a class="algolia__result-link" href="{{ full_url }}#algolia:{{ css_selector }}">{{{ _highlightResult.title.value }}}</a></h1>
+      <h1 class="post-title"><a class="algolia__result-link" href="{{ full_url }}">{{{ _highlightResult.title.value }}}</a></h1>
       <div class="algolia__result-text post-content">{{{ _highlightResult.text.value }}}</div>
     </article>
   {% endraw %}
