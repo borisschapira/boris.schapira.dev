@@ -76,6 +76,9 @@ profile: true
 encoding: utf-8
 lsi: true
 
+microtypo:
+  median: true
+
 # Author
 name: 'Boris Schapira'
 domain: 'borisschapira.com'
