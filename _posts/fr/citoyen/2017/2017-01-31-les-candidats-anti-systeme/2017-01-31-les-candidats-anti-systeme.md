@@ -1,5 +1,5 @@
 ---
-title: 'Les candidat·e·s anti-système'
+title: 'Les anti-système'
 tags:
     - Présidentielle
 date: '2017-01-31'
