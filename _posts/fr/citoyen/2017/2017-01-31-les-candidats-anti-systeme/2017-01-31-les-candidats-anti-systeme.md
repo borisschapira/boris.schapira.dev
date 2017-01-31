@@ -1,0 +1,30 @@
+---
+title: 'Les candidat·e·s anti-système'
+tags:
+    - Présidentielle
+date: '2017-01-31'
+lang: fr
+type: post
+categories:
+    - citoyen
+---
+
+> Je suis le candidat anti-système, donc votez pour moi.
+
+Ou pas.
+
+<!-- more -->
+
+<q>Je suis contre le système</q>, <q>le système est corrompu</q>, <q>Machin est le candidat du système</q>. **Stop**.
+
+Déjà, vous êtes tou·te·s les candidat·e·s du système, sinon vous ne seriez pas là, à beugler comme des vaches à la Foire à la saucisse. Vous avez noué des alliances pendant des années, vous n'avez pu éclore politiquement qu'au fil de présences médiatique et d'opiniâtres débat de partis. Vous ne devez votre position qu'aux arrangements réalisés en collaboration ou contre vos aînés. Vous êtes le produit des attente du pays et de ses institutions. Vous n'auriez pas pu exister politiquement à une autre époque ou un autre endroit. Vous êtes donc complètement les candidat·e·s du système
+
+Et c'est tant mieux.
+
+Vous êtes conservateur·trice ? Vous connaissez déjà le système, donc saurez le défendre.  
+Vous êtes progressiste ? Vous aurez plus de facilité à conduire les changements que vous voulez voir dans le monde.  
+Vous saurez constituer un gouvernement car, étant dans le système, vous saurez déterminer vos champions pour vous aider à la tâche, dans le respect de ce système qui garantit, accessoirement, le poste auquel vous prétendez.
+
+Dans notre système politique actuel (et j'insiste sur **actuel**, car ce n'est pas une fatalité), il n'est pas possible qu'un·e candidat extérieur au fonctionnement du système politique puisse faire un bon travail sans perturber les institutions et l'économie.
+
+Ne soyez donc pas le candidat de l'anti-système.
