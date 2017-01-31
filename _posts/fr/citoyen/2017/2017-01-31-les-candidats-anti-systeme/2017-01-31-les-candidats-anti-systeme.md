@@ -17,7 +17,7 @@ Ou pas.
 
 <q>Je suis contre le système</q>, <q>le système est corrompu</q>, <q>Machin est le candidat du système</q>. **Stop**.
 
-Déjà, vous êtes tou·te·s les candidat·e·s du système, sinon vous ne seriez pas là, à beugler comme des vaches à la Foire à la saucisse. Vous avez noué des alliances pendant des années, vous n'avez pu éclore politiquement qu'au fil de présences médiatique et d'opiniâtres débat de partis. Vous ne devez votre position qu'aux arrangements réalisés en collaboration ou contre vos aînés. Vous êtes le produit des attente du pays et de ses institutions. Vous n'auriez pas pu exister politiquement à une autre époque ou un autre endroit. Vous êtes donc complètement les candidat·e·s du système
+Déjà, vous êtes tou·te·s les candidat·e·s du système, sinon vous ne seriez pas là, à beugler comme des vaches à la Foire à la saucisse. Vous avez noué des alliances pendant des années, vous n'avez pu éclore politiquement qu'au fil de présences médiatique et d'opiniâtres débats de partis. Vous ne devez votre position actuelle qu'aux arrangements réalisés en collaboration ou contre vos aînés. Vous êtes le produit des attente du pays et de ses institutions. Vos propositions n'auraient pas pu exister politiquement à une autre époque ou un autre endroit. Vous êtes donc complètement les candidat·e·s du système.
 
 Et c'est tant mieux.
 
