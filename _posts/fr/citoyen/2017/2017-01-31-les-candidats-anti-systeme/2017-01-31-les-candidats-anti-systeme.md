@@ -21,10 +21,10 @@ Déjà, vous êtes tou·te·s les candidat·e·s du système, sinon vous ne seri
 
 Et c'est tant mieux.
 
-Vous êtes conservateur·trice ? Vous connaissez déjà le système, donc saurez le défendre.  
-Vous êtes progressiste ? Vous aurez plus de facilité à conduire les changements que vous voulez voir dans le monde.  
-Vous saurez constituer un gouvernement car, étant dans le système, vous saurez déterminer vos champions pour vous aider à la tâche, dans le respect de ce système qui garantit, accessoirement, le poste auquel vous prétendez.
+**Vous êtes conservateur·trice ?** Vous connaissez déjà le système, donc saurez le défendre.  
+**Vous êtes progressiste ?** Vous aurez plus de facilité à conduire les changements que vous voulez voir dans le monde.  
+Vous saurez constituer un gouvernement car, étant dans le système, vous saurez déterminer vos champions pour vous aider à la tâche, dans le respect de ce système qui garantit, accessoirement, **le poste auquel vous prétendez**.
 
-Dans notre système politique actuel (et j'insiste sur **actuel**, car ce n'est pas une fatalité), il n'est pas possible qu'un·e candidat extérieur au fonctionnement du système politique puisse faire un bon travail sans perturber les institutions et l'économie.
+Dans notre système politique actuel (et j'insiste sur **actuel**, car ce n'est pas une fatalité), il n'est pas possible qu'un·e candidat·e extérieur·e au fonctionnement du système politique puisse faire un bon travail sans perturber les institutions et l'économie.
 
-Ne soyez donc pas le candidat de l'anti-système.
+Ne soyez donc pas le candidat ou la candidate anti-système.
