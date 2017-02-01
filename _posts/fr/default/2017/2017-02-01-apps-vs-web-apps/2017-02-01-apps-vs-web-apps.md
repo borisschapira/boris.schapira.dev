@@ -49,7 +49,7 @@ Supposons que ça ne soit pas un problème pour nous (on s'intéresserait exacte
 
 Suivant la catégorie, les satisfactions relatives au côté applicatif ne sont pas du tout comparables : les meilleurs outils de productivité et jeux, par exemple, semblent être proches du natif. En revanche, les applications de cuisine ne semblent pas du tout en tirer partie. En creusant un peu les besoins concernés, cela fait sens : les outils de productivités ont souvent besoin d'accéder aux fonctionnalités de manipulation de fichiers du système et les jeux ont besoin de puissance et d'une bonne maîtrise de la programmation parallèle, il est donc normal qu'ils soient développés au plus proche du système d'exploitation.
 
-On a le sentiment qu'en appliquant des raisonnements de bon sens sur l'ensemble des catégories, on devrait pourquoi trouver des tendances. Un jeu serait alors toujours meilleur en natif, un site de cuisine n'en tirerait aucun avantage… mais rapidement, on se rend compte que cela ne marche pas pour toutes les catégories. Le e-commerce, par exemple, ne semble pas affecté par le type d'applications…
+On a le sentiment qu'en appliquant des raisonnements de bon sens sur l'ensemble des catégories, on devrait pouvoir trouver des tendances. Un jeu serait alors toujours meilleur en natif, un site de cuisine n'en tirerait aucun avantage… mais rapidement, on se rend compte que cela ne marche pas pour toutes les catégories. Le e-commerce, par exemple, ne semble pas affecté par le type d'applications…
 
 ## Et les budgets ?
 
