@@ -43,7 +43,7 @@ Imaginons désormais que l'on observe la satisfaction en fonction du type d'appl
 
 Les tendances semblent clairement moins évidentes.
 
-On se rend rapidement compte que les catégories affichées sont très limitées. Pas de réseaux sociaux, par exemple. Nous avons donc ici une vision extrêmement parcellaire du marché, qui peut considérablement modifier la pertinence des conclusions précédentes. Ce bien est très courant dans les études que je lis ça et là. Faites-y attention. 
+On se rend rapidement compte que les catégories affichées sont très limitées. Pas de réseaux sociaux, par exemple. Nous avons donc ici une vision extrêmement parcellaire du marché, qui peut considérablement modifier la pertinence des conclusions précédentes. Ce biais est très courant dans les études que je lis ça et là. Faites-y attention. 
 
 Supposons que ça ne soit pas un problème pour nous (on s'intéresserait exactement à ces types d'applications) et continuons l'analyse.
 
@@ -70,7 +70,7 @@ Autre tendance visible : on trouve des hauts budgets dans les applications e-com
 
 ## Mais alors, les chiffres ne disent rien ?
 
-Les chiffres sont très difficile à interpréter car les causes et les effets s'entremêlent quand on commence à mélanger une technologie sous-jacente et un besoin fonctionnel : nous sommes en plein paradoxe de Yule-Simpson[^ys] : peu importe les groupes constitués (prix, objectif, satisfaction…), les corrélations observées en combiné ne sont pas cohérentes avec ce qui s'observe dans chacun des groupes. Il manque des informations qui influencent l'ensemble des facteurs.
+Les chiffres sont très difficiles à interpréter car les causes et les effets s'entremêlent quand on commence à mélanger une technologie sous-jacente et un besoin fonctionnel. Nous sommes en plein paradoxe de Yule-Simpson[^ys] : peu importe les groupes constitués (prix, objectif, satisfaction…), les corrélations observées en combiné ne sont pas cohérentes avec ce qui s'observe dans chacun des groupes. Il manque des informations qui influencent l'ensemble des facteurs.
 
 [^ys]: Un paradoxe statistique très perturbant, très bien décrit par David Louapre dans [l'épisode 7 de Science Étonnante](https://www.youtube.com/watch?v=vs_Zzf_vL2I).
 
@@ -78,11 +78,9 @@ Un très bon exemple est *l'application impossible* : cette application dont vou
 
 Un autre bon exemple est celui de ce client qui avait besoin d’un très grand contrôle sur l’interface de son application mais ne voulait pas croire à la pertinence d’un investissement sur du développement <span lang="en">cross-platform</span>, arguant que ⅔ des utilisateurs mobiles n'installent jamais d’applications autre que des réseaux sociaux… sauf que son application était destinée à une cible B2B incitée à installer l’application pour des besoins administratifs. Cette cible et cette stratégie d'acquisition spécifiques rendaient les statistiques citées complètement invalides.
 
-Pour avoir une vision d'ensemble, il faudrait aborder l'ensemble de chaque projet : spécifications fonctionnelles et technique, analyse de la cible (en âge, <abbr title="Catégorie Socio-Professionnelle">CSP</abbr>, emplacement, culture…), niveau d'information et de compétence des équipes, plate-forme de développement existante ou acquise, pérennité du développement, chiffre d'affaire espéré, stratégie de déploiement, tendances plus globales du marché…
-
 ## Une vision d’ensemble
 
-Pour prendre de bonnes décisions, il faut aborder l’ensemble de chaque projet : spécifications fonctionnelles et technique, analyse de la cible (en âge, CSP, emplacement, culture…), niveau d’information et de compétence des équipes, plate-forme de développement existante ou acquise, pérennité du développement, chiffre d’affaire espéré, stratégie de déploiement et de maintenance…
+Pour prendre de bonnes décisions, il faut aborder l’ensemble de chaque projet : spécifications fonctionnelles et technique, analyse de la cible (en âge, <abbr title="Catégorie Socio-Professionnelle">CSP</abbr>, emplacement, culture…), niveau d’information et de compétence des équipes, plate-forme de développement existante ou acquise, pérennité du développement, chiffre d’affaire espéré, stratégie de déploiement et de maintenance…
 
 Pour l’instant, aucun algorithme <span lang="en">Big Data</span> n’est capable de prendre le recul nécessaire par rapport à un besoin que, souvent, le commanditaire lui-même ne sait pas formaliser. Il reste nécessaire de passer du temps à affiner ce besoin, le cadrer, et déterminer au cas par cas les solutions qui ne peuvent pas être que techniques.  
 Si vous avez envie de dire que les <abbr lang="en" title="Progressive Web Apps">PWA</abbr> sont prometteuses et qu’il est temps de vous y intéresser, allez-y (j’y crois moi-même énormément). De là à dire qu’il faut abandonner les applications natives et les places de marché dans tous les cas, il y a un pas que je ne franchirai pas.
