@@ -178,3 +178,12 @@ Vous l'aurez compris : pour Noël, je voudrais que nous réalisions tous que fai
 </div>
 
 Pour faire quelque chose de pérenne, il faut autant comprendre le présent qu'imaginer l’avenir, mais rien ne sert de l’appeler trop fort. Il n'est pas sourd et arrivera bien assez vite.
+
+***
+
+Des ressources m'ont été proposée par [Antoine Fauchié](https://www.quaternum.net/2016/12/24/concevoir-des-sites-web-pour-le-futur/), et elles ont entièrement leur place ici. Si l'article vous a plu, n'hésitez pas à creuser en lisant :
+
+* "[Resilient Web Design](https://resilientwebdesign.com/)", de Jeremy Keith, il livre à lire en ligne (ou hors-ligne) ;
+* "[The Future Web Wants You](https://briankardell.wordpress.com/2016/08/24/the-future-web-wants-you/)", par Brian Kardell ;
+* "[The Future of the Web](http://alistapart.com/article/the-future-of-the-web)", par Matt Griffin ;
+* et enfin "[Arrêtez le Web](http://www.la-grange.net/2015/08/04/stop)", par Karl Dubost.
