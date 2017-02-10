@@ -29,6 +29,6 @@
       {% capture socialDescription %}Billets publiés en {{ page.date | localize: '%B %Y', page.lang }}{% endcapture %}
     {% else %}
       {% capture socialTitle %}{{ page.title | strip_html }} &middot; {{ site.title }}{% endcapture %}
-      {% capture socialDescription %}{{ page.excerpt | strip_html | truncatewords: 200 | strip_newlines | escape_once }}{% endcapture %}
-      {% capture socialType %}article{% endcapture %}
+      {% capture socialDescription %}{% unless page.excerpt == blank %}{{ page.excerpt}}{% else %}{% unless page.description == blank %}{{ page.description }}{% else %}{{ site.description }}{% endunless %}{% endunless %}{% endcapture %}
+      {% capture socialDescription %}{{ socialDescription | strip_html | truncatewords: 50 | strip_newlines | escape_once }}{% endcapture %}
   {% endcase %}
