@@ -1,7 +1,7 @@
 ---
 layout: index
 title: Home
-description: Food for thoughs
+description: "<strong>I am a Web professionnal</strong> that tries to understand what people need to make the web a better place."
 hideCustomHead: true
 i18n-key: home
 ---

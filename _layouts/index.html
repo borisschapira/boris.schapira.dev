@@ -5,7 +5,6 @@ layout: default
 <section class="posts">
     {% unless page.hideCustomHead or page.title == '' and page.description == '' %}
         <header class="posts-h{% if nocat == 'x' %} hide {% endif %}">
-            <h2 class="page-title">{{ page.title }}</h2>
             <p>
                 {{ page.description }}
             </p>

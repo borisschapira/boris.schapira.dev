@@ -28,12 +28,11 @@
 
   <!-- nomicrotypo -->
   <title itemprop="name">{{ socialTitle | strip_html }}</title>
-  
+
   {% capture x_canonical %}x{{ page.canonical }}{% endcapture %}
   {% if x_canonical != "x" %}
     <link rel="canonical" href="{{ page.canonical }}" data-proofer-ignore/>
   {% endif %}
-
   <meta name="description" content="{{ socialDescription }}" />
   <meta property="og:url" content="{{ socialUrl }}" />
   <meta property="og:type" content="{{ socialType }}" />
