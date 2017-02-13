@@ -107,7 +107,7 @@ Qu'attend-on&nbsp;?
 
 ### Vraiment prendre le taureau par les cornes
 
-Mais tout cela doit s'effacer derrière une réalité bien plus forte&nbsp;: l'informatique n'est pas un impératif d'enseignement, c'est **un impératif de Culture de l'ensemble de la Société**, au même titre qu'un [bagage essentiel de plein de petites choses qui manquent pour être des individus libres dans la France d'aujourd'hui](http://2013/10/reformer-leducation/).
+Mais tout cela doit s'effacer derrière une réalité bien plus forte&nbsp;: l'informatique n'est pas un impératif d'enseignement, c'est **un impératif de Culture de l'ensemble de la Société**, au même titre qu'un [bagage essentiel de plein de petites choses qui manquent pour être des individus libres dans la France d'aujourd'hui](/2013/10/reformer-leducation/).
 
 Pour toutes les raisons déjà évoquées, l'informatique a une influence considérable sur la vie de nos citoyens&nbsp;: pas demain, pas après-demain, **aujourd'hui**. C'est donc la génération actuelle d'actifs qu'il faudrait convaincre et éduquer en parlant davantage des problématiques liées aux données.
 
