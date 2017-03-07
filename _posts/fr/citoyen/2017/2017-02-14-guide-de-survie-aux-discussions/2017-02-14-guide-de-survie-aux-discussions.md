@@ -11,7 +11,7 @@ categories:
 
 Sur un de ses profils, **Yann Leroux**, auteur de [Psy et Geek](http://www.psyetgeek.com/), [Superhéros sur le divan](http://superherossurledivan.blogspot.fr/) (entre autres) a partagé un guide de survie aux discussions sur les réseaux sociaux.
 
-Je me permets de le reprendre ci-dessous (avec son autorisation) pour y revenir à chaque fois que j'aurais la tentation de participer à une discussions stériles mais aussi pour donner à mes interlocuteurs les éléments nécessaires à me faire taire si jamais j'y participais malgré tout.
+Je me permets de le reprendre ci-dessous (avec son autorisation) pour y revenir à chaque fois que j'aurais la tentation de participer à une discussion stérile mais aussi pour donner à mes interlocuteurs les éléments nécessaires à me faire taire si jamais j'y participais malgré tout.
 
 <!-- more -->
 
