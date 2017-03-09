@@ -13,4 +13,4 @@ Ils étaient en train de se déshabiller à la salle de bain, pour aller prendre
 
 Bien sûr, son grand frère lui montrait sur leur tapis de bain — aux motifs marins — le tentacule d'un poulpe.
 
-Vous aviez compris quoi :stuck_out_tongue_winking_eye: ?
+Vous aviez compris quoi ?

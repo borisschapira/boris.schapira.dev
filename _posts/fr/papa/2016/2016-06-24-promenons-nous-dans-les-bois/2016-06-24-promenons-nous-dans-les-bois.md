@@ -16,4 +16,4 @@ Une petite chanson pour les calmer avant de dormir… On arrive sur la fin, je f
 > — Euh, non, mon chou. Tu connais la chanson, à la fin le loup met son pantalon et tombe.  
 > — Non, ce soir il est fatigué le loup, il va allé au dodo. Il manye personne, il va diyerctement au lit !
 
-Comme résister à une telle autorité :heart_eyes: ?
+Comme résister à une telle autorité ?
