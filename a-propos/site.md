@@ -26,7 +26,6 @@ Mes dépendances Ruby sont gérées par [Bundler](http://bundler.io/) :
 
 * pour la gestion des ressources statiques (hors images) : `jekyll-assets` ;
 * pour la gestion des archives : `jekyll-archives` ;
-* pour le support des emojis : `jemoji` ;
 * pour la génération d'images <i lang="en">responsive</i> : `jekyll-responsive_image` ;
 * pour le `sitemap.xml` : `jekyll-sitemap`.
 
