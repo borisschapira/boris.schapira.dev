@@ -165,7 +165,7 @@ DEPENDENCIES
   gsl
   html-proofer
   i18n
-  jekyll (~> 3.3)
+  jekyll (~> 3.4)
   jekyll-archives
   jekyll-assets
   jekyll-livereload
