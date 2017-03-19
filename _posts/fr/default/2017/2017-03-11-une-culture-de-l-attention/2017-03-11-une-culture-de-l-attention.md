@@ -11,8 +11,7 @@ Notre existence numérique se mesure quasi-exclusivement à l'attention que nous
 
 ## <q>If it bleeds, it leads.</q> <cite>Formule Anglo-saxone</cite>
 
-La recherche de [l'accroche la plus putassière](https://medium.com/social-media-tips/30-ultimate-headline-formulas-for-tweets-posts-articles-and-emails-2a00fd69f680#.nl0vu7ic7 
- "&quot;30 Ultimate Headline Formulas for Tweets Posts Articles and Emails&quot;, Kevan Lee") ne concerne plus que les éditorialistes. Nous sommes tous devenus de potentiels pourvoyeurs [d'informations fallacieuses](https://medium.com/@ketch/click-on-this-f-cking-outrage-that-is-not-at-all-what-it-seems-a199e6699ad3#.6sozu26wr "&quot;Click on this f**cking outrage (that is not at all what it seems).&quot;, Daniel Ketchell"), d'indignations aussi chancelantes que fugaces, de louanges sans convictions.
+La recherche de [l'accroche la plus putassière](https://medium.com/social-media-tips/30-ultimate-headline-formulas-for-tweets-posts-articles-and-emails-2a00fd69f680#.nl0vu7ic7 "&quot;30 Ultimate Headline Formulas for Tweets Posts Articles and Emails&quot;, Kevan Lee") ne concerne plus que les éditorialistes. Nous sommes tous devenus de potentiels pourvoyeurs [d'informations fallacieuses](https://medium.com/@ketch/click-on-this-f-cking-outrage-that-is-not-at-all-what-it-seems-a199e6699ad3#.6sozu26wr "&quot;Click on this f**cking outrage (that is not at all what it seems).&quot;, Daniel Ketchell"), d'indignations aussi chancelantes que fugaces, de louanges sans convictions.
 
 > La réalité est que nos indignations sont pléthoriques, nos complaintes écrites à chauds, nos doléances mal pensées, nos coups de gueule inaudibles, et de fait je trouve, nos chagrins difficiles à croire.
 > <cite>"[Je me fous de la mort de Bowie, de Cohen, de Prince…](http://www.the-drone.com/magazine/je-me-fous-de-la-mort-de-bowie-de-cohen-de-prince/)" par Clément Mathon</cite> 
