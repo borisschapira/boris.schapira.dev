@@ -58,6 +58,12 @@ De fil en aiguille s’enchainent les amalgames simplistes et les pertes d’inf
 
 ***
 
+J'entre dans un magasin pour acheter des bougies. Un des vendeurs me recommande, pour une raison qui m'échappe, des préservatifs. Poli, je n'ose pas le rembarrer et accepte même de le suivre dans le rayon pour qu'il me présente son offre. Je finis quand même par lui dire que je ne suis pas intéressé et retourne acheter ma bougie. 
+
+Ce vendeur me propose désormais des préservatifs à chaque visite, en ajoutant <q>parce que vous aviez l'air intéressé la dernière fois !</q>.
+
+***
+
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Sk7cOqB9Dk" frameborder="0" allowfullscreen></iframe>
 </div>
