@@ -31,7 +31,7 @@ Je jette ce à quoi je pense, j'essaierai d'alimenter davantage ultérieurement 
 
 * Ambiance :
     * Manière dont les gens s'adressent les uns aux autres et se placent dans les bureaux.
-    * Utilisation de l'anglais, du franglais, d'un vocubulaire un peu spécifique au <i lang="en">digital</i> (et vive les doigts).
+    * Utilisation de l'anglais, du franglais, d'un vocabulaire un peu spécifique au <i lang="en">digital</i> (et vive les doigts).
     * Comment on se bat avec nos outils tout le temps !
 * Technique :
     * HTML (la sémantique : donne un sens aux choses qu'on écrit à l'intérieur), CSS (coordonne la présentation), JS (permet d'ajouter des comportements et des interactions ou de pallier à certains problèmes d'implémentation)
