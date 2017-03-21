@@ -111,14 +111,6 @@
       </svg>
     </a>
   </li>
-  {% endif %} {% if site\.author\.slack != nil %}
-  <li>
-    <a class="npe" rel="me nofollow" title="{% t Envoyer un message %} {% t sur %} Slack" href="{{ site.author.slack }}">
-      <svg class="icon icon-slack">
-        <use xlink:href="#icon-slack"></use>
-      </svg>
-    </a>
-  </li>
   {% endif %} {% if site\.author\.feed != nil %}
   <li>
     <a class="npe" rel="me nofollow" title="{% t Abonnez-vous au flux %}" href="/{% unless page.category == 'default' %}{{ page.category | downcase }}/{% endunless %}feed.xml">
