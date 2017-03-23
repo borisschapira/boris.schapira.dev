@@ -10,7 +10,7 @@ permalink: /a-propos/moi/index.html
 
 Ingénieur de formation[^1], je travaille pour [Clever Age](http://www.clever-age.com/fr/ "Clever Age"). J'y accompagne mes clients lors de missions de conseil, de gestion de projets, de formation et parfois (mais de plus en plus rarement) de développements.
 
-Vous avez pu me rencontrer autour de problématiques liées au Service Design, à la Finance de Marché, à l'e-Commerce, à la Qualité et la Performance Web ou au choix d'une solution référentielle (<abbr lang="en" title="Content Management System">CMS</abbr>, <abbr lang="en" title="Digital Asset Management">DAM</abbr>, <abbr lang="en" title="Online Video Platform">OVP</abbr>) ou logicielle (choix d'un <i lang="en">framework</i>).
+Vous avez pu me rencontrer autour de problématiques liées au Service Design, à la Finance de Marché, à l'e-Commerce, à la Qualité et la Performance Web ou au choix d'une solution référentielle (<abbr lang="en" title="Content Management System">CMS</abbr>, <abbr lang="en" title="Digital Asset Management">DAM</abbr>, <abbr lang="en" title="Online Video Platform">OVP</abbr>) ou logicielle (choix d'un <em lang="en">framework</em>).
 
 <figure>
   <a href="https://certified.opquast.com/certificate/V085B7/"><img role="img" src="/assets/images/shared/issuer_v085b7.svg" width="200" height="200" alt="Un certificat OpQuast composé de 5 étoiles, avec écrit &quote;Expert&quote;"></a>

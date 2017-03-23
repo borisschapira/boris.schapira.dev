@@ -26,7 +26,7 @@ Vous devez comprendre vos processus de publication pour les automatiser. Si vous
 
 [^humour]: l'ERP, pas le secrétaire. Enfin, c'est vous qui voyez.
 
-Communiquez intelligement sur les réseaux sociaux : ça ne sert à rien d'y être si vous ne savez pas quoi y dire, comment le dire, comment  écouter et répondre aux retours. Si vous n'offrez pas un interlocuteur ayant du <i lang="en">leadership</i>, vos clients discuteront ailleurs, entre eux, sans vous inclure dans la conversation et vous aurez perdu à la fois la capacité de comprendre leurs problèmes mais aussi d'influencer leur perception en leur apportant de nouvelles informations ou une certaine proximité.
+Communiquez intelligement sur les réseaux sociaux : ça ne sert à rien d'y être si vous ne savez pas quoi y dire, comment le dire, comment  écouter et répondre aux retours. Si vous n'offrez pas un interlocuteur ayant du <em lang="en">leadership</em>, vos clients discuteront ailleurs, entre eux, sans vous inclure dans la conversation et vous aurez perdu à la fois la capacité de comprendre leurs problèmes mais aussi d'influencer leur perception en leur apportant de nouvelles informations ou une certaine proximité.
 
 N'oubliez pas que vous vous adressez à des êtres humains : vous ferez rarement mieux que de les mettre en face d'autres êtres humains. Intégrez un dispositif relationel (on parle souvent de relation client mais encore une fois, parfois le client est interne), mesurez sa performance en qualifiant aux mieux les échanges et le suivi des problèmes identifiés… tout ça n'a rien à voir avec le Web ! Le Web n'est qu'un canal supplémentaire qui, automatisé, peut vous offrir un plus grand périmètre d'actions.
 

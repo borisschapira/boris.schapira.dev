@@ -7,7 +7,7 @@ categories:
     - default
 ---
 
-Suite aux conseils de mon cousin, je me suis procuré un [<i lang="en">BetterBack</i>](http://getbetterback.com/). Expérience d'achat très positive, attente un peu longue (2 mois environ) mais finalement un produit bien fini et agréable au toucher.
+Suite aux conseils de mon cousin, je me suis procuré un [<em lang="en">BetterBack</em>](http://getbetterback.com/). Expérience d'achat très positive, attente un peu longue (2 mois environ) mais finalement un produit bien fini et agréable au toucher.
 
 <!-- more -->
 
@@ -21,8 +21,8 @@ Au début, je me suis demandé comment ça se mettait mais en réalité, il suff
     <iframe width="560" height="315" src="https://www.youtube.com/embed/hh7FRU3Qjzw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Je me sers du <i lang="en">BetterBack</i> comme d'un outil de rééducation : par sessions de 10 à 15 minutes toutes les 3 ou 4 heures. Je m'installe à mon poste, "enfile" les anses et me concentre sur ma tâche en cours. Les premiers temps, au bout de 5 minutes, je sentais mon dos chauffer, mais ce n'est plus le cas. Les premiers jours, j'ai également eu des courbatures à des endroits étranges. Je pensais être un peu timbré jusqu'à ce que mes collègues me confirment les mêmes symptômes.
+Je me sers du <em lang="en">BetterBack</em> comme d'un outil de rééducation : par sessions de 10 à 15 minutes toutes les 3 ou 4 heures. Je m'installe à mon poste, "enfile" les anses et me concentre sur ma tâche en cours. Les premiers temps, au bout de 5 minutes, je sentais mon dos chauffer, mais ce n'est plus le cas. Les premiers jours, j'ai également eu des courbatures à des endroits étranges. Je pensais être un peu timbré jusqu'à ce que mes collègues me confirment les mêmes symptômes.
 
-Au fil des utilisations, j'ai commencé à me corriger. Au début, j'avais un déclic une fois par jour, et corrigeais ma posture. Maintenant, c'est plus régulier et il arrive parfois que je me surprenne à être bien assis, même sans le <i lang="en">BetterBack</i>. Je n'ai plus du sensation de chaleur, ni de courbatures : la posture avec le <i lang="en">BetterBack</i> me semble naturelle.
+Au fil des utilisations, j'ai commencé à me corriger. Au début, j'avais un déclic une fois par jour, et corrigeais ma posture. Maintenant, c'est plus régulier et il arrive parfois que je me surprenne à être bien assis, même sans le <em lang="en">BetterBack</em>. Je n'ai plus du sensation de chaleur, ni de courbatures : la posture avec le <em lang="en">BetterBack</em> me semble naturelle.
 
 Pour ceux qui habitent Bordeaux et veulent essayer, je suis souvent disponible pour un café. C'est encore le meilleur moyen de savoir si ça vous plait et, pourquoi pas, l'acheter à deux ou trois pour le partager au bureau. <ins datetime="2016-02-18" title="Ajout au 18 février 2016">Je viens de recevoir de _BetterBack_ un coupon de réduction de 10 % : **HUGS**. De rien !</ins>

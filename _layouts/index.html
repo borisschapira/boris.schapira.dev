@@ -2,7 +2,7 @@
 layout: default
 ---
 {% capture nocat %}x{{ page.category }}{% endcapture %}
-<section class="posts">
+<section class="posts" aria-label="{% t Tous les articles %}" >
     {% unless page.hideCustomHead or page.title == '' and page.description == '' %}
         <header class="posts-h{% if nocat == 'x' %} hide {% endif %}">
             <p>

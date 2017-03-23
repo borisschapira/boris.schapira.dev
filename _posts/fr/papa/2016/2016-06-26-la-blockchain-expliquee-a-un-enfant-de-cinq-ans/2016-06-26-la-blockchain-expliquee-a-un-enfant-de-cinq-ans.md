@@ -8,7 +8,7 @@ lang: fr
 type: post
 ---
 
-Le concept de <i lang="en">blockchain</i> est suffisement peu intuitif pour que des analogies soient nécessaires. Elles doivent être simples pour faire passer des messages clairs, porteurs des principes fondamentaux : la notion d'enregistrement, de consensus de validation, d'utilisation de la méfiance entre acteurs comme garantie de confiance (car il s'agit bien de ça).
+Le concept de <span lang="en">blockchain</span> est suffisement peu intuitif pour que des analogies soient nécessaires. Elles doivent être simples pour faire passer des messages clairs, porteurs des principes fondamentaux : la notion d'enregistrement, de consensus de validation, d'utilisation de la méfiance entre acteurs comme garantie de confiance (car il s'agit bien de ça).
 
 <!-- more -->
 
