@@ -1,6 +1,6 @@
 $color-complement: complement($color-main);
 $color-complement-faded: lighten($color-complement, 20);
-$color-gray: rgb(154,154,154);
+$color-gray: rgb(112,112,112);
 $color-bg : lighten($color-main, 99 - lightness($color-main));
 
 /* Lisibility */
