@@ -9,12 +9,12 @@ categories:
     - default
 ---
 
-> Après deux années de travail, j'ai le plaisir de vous annoncer **la parution de la deuxième édition du livre qualité Web** aux <a href="http://www.editions-eyrolles.com/Livre/9782212144338/qualite-web-la-reference-des-professionnels-du-web" hreflang="fr">éditions Eyrolles</a>. Vous pouvez depuis ce matin le commander chez votre libraire. En quelques chiffres, cette deuxième édition augmentée comporte environ 500 pages, 130 illustrations, 226 bonnes pratiques, 11 chapitres, 11 check-lists complémentaires, 70 recommandations, 1 glossaire, 1 bibliographie et toujours pas de raton-laveur (ça ne rentrait pas).  
-> <cite>"[Qualité Web, deuxième édition](http://blog.temesis.com/post/2016/08/25/Qualite-Web-deuxieme-edition)", Élie Sloim</cite>
-
 Quel que soit votre rôle dans la chaine de valeur du Web, je ne saurais que trop vous conseiller l'achat de cet ouvrage qui vaut largement son prix et vous permettra d'en découvrir [les faces cachées](https://www.quaternum.net//2016/08/26/les-faces-cachees-du-web/).
 
 <!-- more -->
+
+> Après deux années de travail, j'ai le plaisir de vous annoncer **la parution de la deuxième édition du livre qualité Web** aux <a href="http://www.editions-eyrolles.com/Livre/9782212144338/qualite-web-la-reference-des-professionnels-du-web" hreflang="fr">éditions Eyrolles</a>. Vous pouvez depuis ce matin le commander chez votre libraire. En quelques chiffres, cette deuxième édition augmentée comporte environ 500 pages, 130 illustrations, 226 bonnes pratiques, 11 chapitres, 11 check-lists complémentaires, 70 recommandations, 1 glossaire, 1 bibliographie et toujours pas de raton-laveur (ça ne rentrait pas).  
+> <cite>"[Qualité Web, deuxième édition](http://blog.temesis.com/post/2016/08/25/Qualite-Web-deuxieme-edition)", Élie Sloim</cite>
 
 D'abord, pour l'explication de l'ensemble des bonnes pratiques qui nous aident, chaque jour, à rendre le web meilleur et dont la pérennité n'est plus à démontrer.
 

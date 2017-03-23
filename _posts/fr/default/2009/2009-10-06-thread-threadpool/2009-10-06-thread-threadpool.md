@@ -1,5 +1,5 @@
 ---
-title: 'L’astuce du jour : LinqPad pour vos requêtes'
+title: 'L’astuce du jour : Thread ou ThreadPool ?'
 canonical: 'http://www.nexeo.fr/blog/2009/10/06/lastuce-du-jour-thread-ou-threadpool/'
 tags:
     - Nexdotnet
