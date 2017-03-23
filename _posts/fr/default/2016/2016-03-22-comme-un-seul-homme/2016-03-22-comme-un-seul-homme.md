@@ -24,9 +24,9 @@ Derrière la plupart des outils de notre quotidien, il y a des hommes et des fem
 
 Ce n'est pas la première fois que j'entends l'histoire d'un projet open source supporté par une unique personne. Peu importe la taille du projet ou sa notoriété[^bower], le service rendu par un projet open source est souvent perçu comme _gratuit à produire_ parce qu'il est _gratuit à l'usage_.
 
-Cette confusion injuste mais naturelle, qu'on retrouve également dans [les déboires actuels de la Presse en ligne gratuite](http://blog.temesis.com/post/2016/03/21/Chers-producteurs-de-contenus-les-bonnes-pratiques), n'est possible que parce que le <i lang="en">Business Model</i> du Libre est ailleurs. Mais un peu de gratitude ne fait pas de mal.
+Cette confusion injuste mais naturelle, qu'on retrouve également dans [les déboires actuels de la Presse en ligne gratuite](http://blog.temesis.com/post/2016/03/21/Chers-producteurs-de-contenus-les-bonnes-pratiques), n'est possible que parce que le <em lang="en">Business Model</em> du Libre est ailleurs. Mais un peu de gratitude ne fait pas de mal.
 
 **Merci**.
 
-[^bower]: Bower, un des projets <i lang="en">front end</i> les plus utilisés au monde, est également maintenu par une seule personne, [Adam Stankiewicz](https://twitter.com/sheerun)).
+[^bower]: Bower, un des projets <em lang="en">front end</em> les plus utilisés au monde, est également maintenu par une seule personne, [Adam Stankiewicz](https://twitter.com/sheerun)).
 [^firefox]: Firefox, Wikipédia… ne sont pas des acquis et peuvent disparaître un jour.

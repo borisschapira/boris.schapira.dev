@@ -36,6 +36,6 @@ Combient prennent vraiment le temps de douter de toutes les informations qu'il v
 
 L'éducation aux médias fait partie de l'enseignement secondaire mais en dehors de la réclame, qui reste assez simple à analyser, les communiqués sont des créations complexes, mêlant image, texte, fréquence d'affichage, manipulation des émotions et des idées préconçues, phénomènes de désinformation de masse…
 
-Il faut déconstruire le message (les <i lang="en">fact-checker</i> font un travail remarquable), mais également la composition de ses canaux de diffusion, son inscription dans une narration contrôlée dans le temps et les stéréotypes sur lesquels son interprétation inconsciente se construit.
+Il faut déconstruire le message (les <em lang="en">fact-checker</em> font un travail remarquable), mais également la composition de ses canaux de diffusion, son inscription dans une narration contrôlée dans le temps et les stéréotypes sur lesquels son interprétation inconsciente se construit.
 
 Peut-on former l'ensembler de la population à faire ça ?

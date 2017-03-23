@@ -18,7 +18,7 @@ _Pour ne pas heurter la sensibilité des plus jeunes, je prends sur moi de rempl
 
 > […] et là, tu vois, je lui mets ma Knacki dans la casserole du chocolat alors elle crie, parce que c'est pas là qu'on met les Knacki, tu vois […]
 
-Je l'observe. C'est un [crocodile](http://projetcrocodiles.tumblr.com) de 13 ans, peut-être moins, fin, probablement grand pour son âge. Il porte une casquette, un survêtement bleu foncé, une moustache naissante et beaucoup de boutons d'acné. D'une de ses poches dépasse ostensiblement un paquet de cigarette. Il monologue en direction d'un autre jeune homme, plus petit, qui acquiesse sans parler. Derrière eux, une dizaine d'autres jeunes, garçons et filles, dont certain‧e‧s sont retourné‧e‧s pour mieux dévorer son discours très <i lang="en">trash</i>.
+Je l'observe. C'est un [crocodile](http://projetcrocodiles.tumblr.com) de 13 ans, peut-être moins, fin, probablement grand pour son âge. Il porte une casquette, un survêtement bleu foncé, une moustache naissante et beaucoup de boutons d'acné. D'une de ses poches dépasse ostensiblement un paquet de cigarette. Il monologue en direction d'un autre jeune homme, plus petit, qui acquiesse sans parler. Derrière eux, une dizaine d'autres jeunes, garçons et filles, dont certain‧e‧s sont retourné‧e‧s pour mieux dévorer son discours très <span lang="en">trash</span>.
 
 > […] alors j'continue parce que plus elle crie, plus j'aime faire la cuisine, tu vois […]
 

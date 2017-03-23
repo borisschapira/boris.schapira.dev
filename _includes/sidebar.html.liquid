@@ -1,4 +1,4 @@
-<div class="sidebar">
+<div class="sidebar" role="navigation">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
@@ -10,7 +10,7 @@
     </div>
 
     {% if page.loadSearch %}
-      <div class="sidebar-search">
+      <div class="sidebar-search" role="search">
         <input type="text" class="js algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="{% t Recherche %}" autofocus title="{% t Recherche %}"/>
       </div>
     {% endif %}
