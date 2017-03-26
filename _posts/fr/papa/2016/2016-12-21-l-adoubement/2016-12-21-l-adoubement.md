@@ -1,5 +1,5 @@
 ---
-title: L'adoubement
+title: 'L''adoubement'
 date: '2016-12-21'
 lang: fr
 type: post

@@ -1,5 +1,5 @@
 ---
-title: Le justicier des férias
+title: 'Le justicier des férias'
 date: '2016-12-19'
 lang: fr
 type: post

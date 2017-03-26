@@ -1,5 +1,5 @@
 ---
-title: La stènaltite
+title: 'La stènaltite'
 date: '2017-03-05'
 lang: fr
 type: post

@@ -1,5 +1,5 @@
 ---
-title: Revenu de base
+title: 'Revenu de base'
 date: '2017-02-08'
 lang: fr
 type: post

@@ -1,5 +1,5 @@
 ---
-title: Un plat pour Halloween
+title: 'Un plat pour Halloween'
 date: '2016-12-08'
 lang: fr
 type: post

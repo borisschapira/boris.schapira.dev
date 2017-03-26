@@ -1,5 +1,5 @@
 ---
-title: La ceinture
+title: 'La ceinture'
 date: '2017-03-26'
 lang: fr
 type: post

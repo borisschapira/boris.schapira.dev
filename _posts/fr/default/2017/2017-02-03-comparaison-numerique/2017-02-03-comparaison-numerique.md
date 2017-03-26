@@ -1,5 +1,5 @@
 ---
-title: "Comparaison numérique"
+title: 'Comparaison numérique'
 date: '2017-02-03'
 lang: fr
 type: post

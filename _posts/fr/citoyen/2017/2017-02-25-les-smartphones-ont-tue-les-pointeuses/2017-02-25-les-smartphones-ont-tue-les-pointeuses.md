@@ -1,6 +1,6 @@
 ---
 title: 'Les smartphones ont tué les pointeuses'
-date: '2017-02-16'
+date: '2017-02-25'
 lang: fr
 type: post
 categories:

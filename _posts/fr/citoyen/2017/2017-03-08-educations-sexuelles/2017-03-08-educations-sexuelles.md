@@ -1,5 +1,5 @@
 ---
-title: "Éducations sexuelles"
+title: 'Éducations sexuelles'
 date: '2017-03-08'
 lang: fr
 type: post
