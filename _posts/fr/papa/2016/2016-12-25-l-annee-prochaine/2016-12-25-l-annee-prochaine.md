@@ -1,5 +1,5 @@
 ---
-title: L'année prochaine
+title: 'L''année prochaine'
 date: '2016-12-25'
 lang: fr
 type: post

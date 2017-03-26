@@ -1,5 +1,5 @@
 ---
-title: "(Web) Apps : il n'y a pas de balle en argent"
+title: '(Web) Apps : il n''y a pas de balle en argent'
 date: '2017-02-01'
 lang: fr
 canonical: 'http://blog.clever-age.com/fr/2017/02/01/app-ou-web-apps-il-ny-a-pas-de-balle-en-argent/'

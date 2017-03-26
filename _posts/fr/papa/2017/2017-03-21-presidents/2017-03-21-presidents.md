@@ -1,5 +1,5 @@
 ---
-title: Eux, Présidents
+title: 'Eux, Présidents'
 date: '2017-03-21'
 lang: fr
 type: post

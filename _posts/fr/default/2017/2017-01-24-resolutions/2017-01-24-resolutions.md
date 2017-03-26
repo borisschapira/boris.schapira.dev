@@ -1,5 +1,5 @@
 ---
-title: 'Résolutions'
+title: Résolutions
 tags:
     - 'Me, myself & I'
 date: '2017-01-24'

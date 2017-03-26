@@ -1,5 +1,5 @@
 ---
-title: Perdre une heure
+title: 'Perdre une heure'
 date: '2017-03-25'
 lang: fr
 type: post

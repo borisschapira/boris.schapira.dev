@@ -1,5 +1,5 @@
 ---
-title: "Anesthésier les consciences"
+title: 'Anesthésier les consciences'
 date: '2017-03-21'
 lang: fr
 type: post

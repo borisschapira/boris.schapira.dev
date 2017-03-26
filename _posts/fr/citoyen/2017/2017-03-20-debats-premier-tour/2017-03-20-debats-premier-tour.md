@@ -1,5 +1,5 @@
 ---
-title: "Devant le (premier ?) débat du (premier ?) tour"
+title: 'Devant le (premier ?) débat du (premier ?) tour'
 date: '2017-03-20'
 lang: fr
 type: post

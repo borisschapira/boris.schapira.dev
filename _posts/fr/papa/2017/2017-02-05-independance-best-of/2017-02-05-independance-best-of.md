@@ -1,5 +1,5 @@
 ---
-title: Indépendance, le best-of
+title: 'Indépendance, le best-of'
 date: '2017-02-05'
 lang: fr
 type: post

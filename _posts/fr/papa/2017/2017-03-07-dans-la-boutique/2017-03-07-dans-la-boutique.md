@@ -1,5 +1,5 @@
 ---
-title: Dans la boutique
+title: 'Dans la boutique'
 date: '2017-03-07'
 lang: fr
 type: post
