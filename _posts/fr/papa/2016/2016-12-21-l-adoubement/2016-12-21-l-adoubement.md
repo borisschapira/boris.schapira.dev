@@ -11,8 +11,8 @@ Journée "ménage" à la maison. Mon grand me regarde tandis que je nettoie le l
 
 <!-- more -->
 
-> — Papa, je peux faire le ménage aussi, moi ?
-> — Holà, je ne sais pas chéri. Papa, c'est le roi de l'éponge !
+> — Papa, je peux faire le ménage aussi, moi ?  
+> — Holà, je ne sais pas chéri. Papa, c'est le roi de l'éponge !  
 > — Je peux être ton chevalier ?
 
 Alors il a prêté serment :

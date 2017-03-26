@@ -15,6 +15,7 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
 <!-- more -->
 
 ## Réussir son entretien #1
+
 > — Dans votre groupe d'ami, vous êtes qui&nbsp;?  
 > — Bah, j'ai pas d'amis donc bon, le groupe, c'est moi.
 
