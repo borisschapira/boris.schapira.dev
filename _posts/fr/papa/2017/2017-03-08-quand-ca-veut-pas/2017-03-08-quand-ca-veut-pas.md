@@ -15,8 +15,8 @@ C'est évidemment le moment choisi par mon aîné pour aller [parachuter un goth
 
 Pendant ce temps, le petit râle parce qu'il n'aime pas les vêtements que je lui ai sorti. Il change de pull trois fois, puis va mettre ses chaussures. Pour une raisons qui m'échappe au début, il remonte les bras chargés de boites de céréales.
 
-> — On peut emmener les céréales chez Paul ?
-> — Euh, non, chéri, il y a à manger là-bas…
+> — On peut emmener les céréales chez Paul ?  
+> — Euh, non, chéri, il y a à manger là-bas…  
 > — Mais Paul, peut-être qu'il n'a pas de céréales, Paul ?
 
 Je lui explique donc que Paul n'est pas une personne mais une boulangerie. Crise de larmes : il pensait qu'on allait chez Paul, son copain de classe. Il est déçu.

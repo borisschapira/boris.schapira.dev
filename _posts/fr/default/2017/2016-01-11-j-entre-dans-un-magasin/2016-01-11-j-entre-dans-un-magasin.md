@@ -51,9 +51,9 @@ De fil en aiguille s’enchainent les amalgames simplistes et les pertes d’inf
 
 **J’entre dans un magasin de vêtements**. Il ressemble comme deux gouttes d’eau au magasin dans lequel j’étais juste avant. Les produits sont disposés de la même manière, les couleurs sont les mêmes, la musique est la même. Lorsque j'interroge le propriétaire, il me confirme :
 
-> — J’ai fait appel à une entreprise, me dit le propriétaire. Ils m'ont dit qu'ils avaient des modèles de magasins prêts à l'emploi.
-> — Ah, je me disais justement que j'avais déjà vu cet agencement quelque part…
-> — Ah ? Où ça ?
+> — J’ai fait appel à une entreprise, me dit le propriétaire. Ils m'ont dit qu'ils avaient des modèles de magasins prêts à l'emploi.  
+> — Ah, je me disais justement que j'avais déjà vu cet agencement quelque part…  
+> — Ah ? Où ça ?  
 > — Des pompes funèbres.
 
 ***

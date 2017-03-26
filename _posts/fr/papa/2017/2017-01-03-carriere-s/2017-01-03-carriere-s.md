@@ -11,6 +11,6 @@ Nous expliquons régulièrement aux enfants que nous les aimerons quoi qu'il arr
 
 <!-- more -->
 
-> — Je serai toujours votre bébé quand je serai clown ?
-> — Tu ne veux plus être mi-pompier mi-policier ?
+> — Je serai toujours votre bébé quand je serai clown ?  
+> — Tu ne veux plus être mi-pompier mi-policier ?  
 > — Si, mais après. Je vais pas faire le même métier toute ma vie quand même ! Je veux être plein de métiers, moi, papa !

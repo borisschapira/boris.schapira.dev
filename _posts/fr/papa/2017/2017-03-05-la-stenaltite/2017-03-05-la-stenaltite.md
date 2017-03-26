@@ -9,10 +9,10 @@ categories:
 
 Le petit fait de la pâte à modeler. Curieux, je lui demande ce qu'il est en train de façonner :
 
-> — Une Stènaltite !
-> — … euh, un stalactite ?
-> — Non, une stènaltite !
-> — Je suis désolé, je ne comprends pas.
+> — Une Stènaltite !  
+> — … euh, un stalactite ?  
+> — Non, une stènaltite !  
+> — Je suis désolé, je ne comprends pas.  
 > — PAPA, JE FAIS UNE STERNE ARCTIQUE !
 
 <figure>

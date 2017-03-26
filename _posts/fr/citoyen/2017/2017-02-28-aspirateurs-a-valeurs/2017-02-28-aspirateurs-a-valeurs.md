@@ -7,9 +7,9 @@ categories:
     - citoyen
 ---
 
-> — Uber :  la plus grande compagnie de taxi au monde, ne possède aucun véhicule.
-> — Facebook : la plus grande compagnie media au monde, ne créé aucun contenu.
-> — Alibaba : le plus gros commerçant au monde, n'a pas de stocks.
+> — Uber :  la plus grande compagnie de taxi au monde, ne possède aucun véhicule.  
+> — Facebook : la plus grande compagnie media au monde, ne créé aucun contenu.  
+> — Alibaba : le plus gros commerçant au monde, n'a pas de stocks.  
 > — Airbnb : le plus grand fournisseur de logement au monde, ne possède aucun bien immobilier.
 
 Doctolib aspire les patientèles des médecins sans soigner, Just Eat (Allo Resto) nourrit les gens à domicile sans préparer un seul plat, Ornikar aide à passer le permis sans gérer de flotte de véhicules… la liste est longue.
