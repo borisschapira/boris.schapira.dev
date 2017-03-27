@@ -1,6 +1,7 @@
 $color-complement: complement($color-main);
 $color-complement-faded: lighten($color-complement, 20);
 $color-gray: rgb(112,112,112);
+$color-lightgray : lighten($color-gray, 40 - lightness($color-main));
 $color-bg : lighten($color-main, 99 - lightness($color-main));
 
 /* Lisibility */
@@ -248,6 +249,11 @@ html .content .post .p-header .p-author {
     margin: 2em auto;
     border: 1px dotted $color-main;
     padding: 10px;
+  }
+  ins {
+    text-decoration: none;
+    border: 1px solid $color-lightgray;
+    padding: 3px;
   }
 }
 footer .wrap {
