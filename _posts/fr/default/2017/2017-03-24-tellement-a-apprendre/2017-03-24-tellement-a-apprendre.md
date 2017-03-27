@@ -7,7 +7,7 @@ categories:
     - default
 ---
 
-Un de mes collègues a partagé une synthèse de différents outils Devops qu'il a trouvé sur LinkedIn…
+Un de mes collègues a partagé une synthèse de différents outils Devops qu'il a trouvé sur LinkedIn… J'ai colorisé les outils que j'avais déjà utilisé dans le cadre de projets.
 
 <!-- more -->
 
@@ -15,12 +15,12 @@ Un de mes collègues a partagé une synthèse de différents outils Devops qu'il
   <a data-featherlight="image" href="/assets/images/2017-03-24/known.jpg" title="Voir en plus grand">
       {% responsive_image path: assets/images/2017-03-24/known.jpg alt: "Un graphique, principalement en noir et blanc, présentant différents outils Devops classés en catégories : collaboration, compilation, tests, déploiements et maintenance opérationnelle. Sur les 150 outils listés, une cinquantaine est en couleur, pour être démarquée." %}
   </a>
-  <figcaption>J'ai colorisé les outils que j'avais déjà utilisé dans le cadre de projets.</figcaption>
+  <figcaption>Infographie réalisée par James Bowman dans son article «&nbsp;<a href="http://www.jamesbowman.me/post/continuous-delivery-tool-landscape/"><span lang="en">Continuous delivery tool landscape</span></a>&nbsp;»</figcaption>
 </figure>
 
-Je connais à peine ⅓ des outils de l'infographie[^source], mais l'exercice est intéressant. 
+Je connais à peine ⅓ des outils de l'infographie[^others], mais l'exercice est intéressant. 
 
-[^source]: Je ne connais pas la source de l'infographie. Si quelqu'un la trouve, qu'il me la signale et je l'ajouterai.
+[^others]: Si ce genre d'infographies vous intéressent, vous devriez également apprécier [IT Landscape for sysadmins](http://sysadmin.it-landscape.info/) d'Alen Krmelj et [The Periodic Table of Devops Tools](https://xebialabs.com/Periodic-Table-of-devops-Tools) de XebiaLabs.
 
 ## Il me permet de mieux diagnostiquer mon degré d'autonomie
 
