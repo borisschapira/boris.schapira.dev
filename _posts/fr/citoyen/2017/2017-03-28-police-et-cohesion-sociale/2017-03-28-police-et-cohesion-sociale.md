@@ -36,6 +36,6 @@ Loin de stéréotype, cette interview du politologue Sebastian Roché est tout s
 >
 > […] La période est effectivement très mauvaise pour répondre à la réforme de la sécurité publique. Les policiers sont très sollicités pour des tâches ingrates : gardes, patrouilles… La base est très mécontente. Le pouvoir politique est, lui, avant tout focalisé sur l’évitement des attentats avec, par exemple, le déploiement des militaires qui lui sert avant tout à se protéger.
 >
-> <cite>"[Si on ne veille pas à renforcer la cohésion, ça risque d'éclater](https://notes.desbenoit.net/astroturfing-gerasimov)", Sebastian Roché, propos recueillis par Paul Turenne avec Lucine Hugonnard</cite>
+> <cite>"[Si on ne veille pas à renforcer la cohésion, ça risque d'éclater](http://www.placegrenet.fr/2017/01/12/sebastian-roche-on-ne-veille-a-renforcer-cohesion-ca-risque-declater/118029)", Sebastian Roché, propos recueillis par Paul Turenne avec Lucine Hugonnard</cite>
 
 Au passage, je ne crois pas l'avoir dit ici mais je vous invite à vous abonner au [Panier à salade](http://us12.campaign-archive2.com/home/?u=93670423e9243101afcfcae19&id=3c8978e498). Vous recevrez chaque semaine une sélection d'articles sur l'actualité Police-Justice, issus de grands quotidiens ou de rédactions indépendantes constituées de journalistes.
