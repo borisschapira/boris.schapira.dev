@@ -37,7 +37,7 @@ Il a clairement une attitude similaire dans de nombreuses structures qui cherche
 
 ## Agile contraint
 
-L'Agile porte souvent très mal son nom. Prenons <span lang="en">Scrum</span> (qui n'est qu'une des dizaines de façons de faire de l'Agile) : chaque rôle, chaque règle, chaque temps est défini pour apporter un certain bénéfice à l'équipe et lui permettre de déjouer des situations problématiques bien connues. Chaque <em lang="en">Scrumbut</em> est une entaille à ce mécanisme, une épine dans le pied de l'équipe qui l'empêche de marcher et qui détruit à chaque pas la confiance que l'équipe pourrait avoir placer dans la méthodologie.
+L'Agile porte souvent très mal son nom. Prenons <span lang="en">Scrum</span> (qui n'est qu'une des dizaines de façons de faire de l'Agile) : chaque rôle, chaque règle, chaque temps est défini pour apporter un certain bénéfice à l'équipe et lui permettre de déjouer des situations problématiques bien connues. Chaque <em lang="en">Scrumbut</em> est une entaille à ce mécanisme, une épine dans le pied de l'équipe qui l'empêche de marcher et qui détruit à chaque pas la confiance que l'équipe pourrait avoir placé dans la méthodologie.
 
 Quand vous multipliez les <em lang="en">Scrumbuts</em>, souvent parce que vous pensez que cela permet de "mieux adapter" <span lang="en">Scrum</span> à votre entreprise, vous négligez en réalité les apports de la méthodologie et espérez qu'en reproduisant quelques artefacts qui vous arrangent (souvent, les plus visibles et qui coûtent le moins cher), vous en tirerez les même avantages que ceux qui vous en disent du bien.
 
