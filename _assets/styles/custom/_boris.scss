@@ -9,7 +9,7 @@ $color-bg : lighten($color-main, 99 - lightness($color-main));
     display:none;
 }
 body {
-  background-color: $color-bg;
+  background-color: #fff;
   text-rendering: optimizeSpeed;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
