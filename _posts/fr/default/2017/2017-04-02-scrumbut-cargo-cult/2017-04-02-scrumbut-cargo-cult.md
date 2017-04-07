@@ -7,7 +7,7 @@ categories:
     - default
 ---
 
-Les <em lang="en">Scrumbuts</em> désignent l'ensemble des entorses à <span lang="en">Scrum</span> auxquelles les équipes recourrent lorsqu'elles n'arrivent pas à appliquer correctement cette fameuse méthodologie Agile.
+Les <em lang="en">Scrumbuts</em> désignent l'ensemble des entorses à <span lang="en">Scrum</span> auxquelles les équipes recourent lorsqu'elles n'arrivent pas à appliquer correctement cette fameuse méthodologie Agile.
 
 <!-- more -->
 
