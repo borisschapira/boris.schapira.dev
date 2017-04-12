@@ -24,3 +24,7 @@ layout: default
 {% include post_footer.html.liquid content=post.content %}
 
 {% include post_related.html.liquid posts=site.related_posts %}
+
+{% if page.comments == true %}
+  {% include comments.html.liquid %}
+{% endif %}

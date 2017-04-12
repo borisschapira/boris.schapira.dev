@@ -1,8 +1,4 @@
 //= require vendors/jquery.2.1.4.min
-
-//= require vendors/moment.2.10.3.min
-//= require vendors/moment_fr
-
 //= require vendors/algoliasearch.3.10.2.jquery.min
 //= require vendors/algoliasearch.helper.2.8.0.min
 

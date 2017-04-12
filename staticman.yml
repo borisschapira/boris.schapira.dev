@@ -1,7 +1,7 @@
 comments:
   allowedFields     : ['name', 'email', 'url', 'message']
   branch            : "master"
-  commitMessage     : "New comment."
+  commitMessage     : "New comment --skip-ci"
   filename          : "comment-{@timestamp}"
   format            : "yaml"
   moderation        : true
