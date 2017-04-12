@@ -23,6 +23,8 @@ defaults:
       type: "posts"
     values:
       layout: post
+      comments: false
+      comments_locked: false
       hidden: false
   - scope:
       path: "_posts/fr/papa"

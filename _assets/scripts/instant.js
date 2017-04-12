@@ -1,5 +1,4 @@
 //= require vendors/instantclick.min
-
 //= require vendors/touchtap-event.js
 //= require vendors/abbr-touch.js
 
