@@ -39,15 +39,6 @@
   {% javascript 404 defer:"defer"%}
 {% endif %}
 
-{% if site.eu_cookie_law.active %}
-  <div id="cookies-monster" class="hidden">
-    Ce site utilise des cookies. {% if site.eu_cookie_law.more_url %}<span class="more"><a href="{{ site.eu_cookie_law.more_url }}" title="Cookies : le grand bug - Blog Temesis">En savoir plus</a> ou {% endif %}<a
-      class="cookies-monster-accepted"
-      href="#cookies-monster"
-    >Accepter</a></span>
-  </div>
-{% endif %}
-
 {% if page.maths %}
 <script type="text/javascript"
     src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">

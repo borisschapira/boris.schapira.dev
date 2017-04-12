@@ -75,6 +75,10 @@ incremental: true
 profile: true
 encoding: utf-8
 lsi: true
+repository: borisschapira/jekyll-bs
+
+staticman:
+  branch: master
 
 microtypo:
   median: true
@@ -103,11 +107,6 @@ permalink: :year/:month/:title/
 collections:
   confs:
     output: true
-
-# EU Cookie law
-eu_cookie_law:
-  active: true
-  more_url: http://blog.temesis.com/post/2015/02/16/Cookies-le-grand-bug
 
 # Build settings
 markdown: kramdown
