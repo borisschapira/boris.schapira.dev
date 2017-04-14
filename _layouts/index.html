@@ -13,7 +13,32 @@ layout: default
 
     {% assign the_posts=site.categories[page.category] | where:"lang", page.lang |  where:"hidden", false %}
 
-    {% for post in the_posts %}
-        {% include post.html.liquid postPage=false %}
-    {% endfor %}
+    {% if page.paginator %}
+        {% assign paginator = page.paginator %}
+        {% for post in paginator.posts %}
+            {% include post.html.liquid postPage=false %}
+        {% endfor %}
+
+        {% include pagination.html.liquid %}
+
+        <!-- Pagination links -->
+        <div class="pagination">
+        {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+        {% else %}
+            <span class="previous">Previous</span>
+        {% endif %}
+        <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+        {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+        {% else %}
+            <span class="next ">Next</span>
+        {% endif %}
+        </div>
+        
+    {% else %}
+        {% for post in the_posts %}
+            {% include post.html.liquid postPage=false %}
+        {% endfor %}
+    {% endif %}
 </section>

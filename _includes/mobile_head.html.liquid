@@ -15,11 +15,11 @@
 
         {% if the-lang == 'fr' %}
 
-          <li class="sidebar-nav-item{% if page.category == 'Citoyen' %} active{% endif %}">
+          <li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}">
             <a href="{{ site.base-url }}{{ page.base-url | append: 'citoyen/' }}">{% t Citoyen %}</a>
           </li>
 
-          <li class="sidebar-nav-item{% if page.category == 'Papa' %} active {% endif %}">
+          <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}">
             <a href="{{ site.base-url }}{{ page.base-url | append: 'papa/' }}">{% t Papa %}</a>
           </li>
 

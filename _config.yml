@@ -23,17 +23,17 @@ defaults:
       type: "posts"
     values:
       layout: post
-      comments: false
+      comments: true
       comments_locked: false
       hidden: false
   - scope:
       path: "_posts/fr/papa"
     values:
-      category: Papa
+      category: papa
   - scope:
       path: "_posts/fr/citoyen"
     values:
-      category: Citoyen
+      category: citoyen
   - scope:
       path: "en"
     values:

@@ -30,6 +30,6 @@ Agacé de ne pas retrouver son nom, je finis par lui poser la question.
 
 La Qualité implique souvent de relever des problèmes d'implémentation et, quand il s'agit de code tiers, de demander aux responsables de corriger. Jamais, avant cet échange, je ne m'étais autant rendu compte de l'existence de ces personnes, de ces gens qui ne sont pas forcément formés à la qualité et ne comprennent pas, au moment où elles reçoivent les demandes, les motivations sous-jacentes.
 
-Je n'ai pas arrêté de créer des tickets mais je le fais toujours avec la plus grande bienveillance. Je continue à être poli et essaie désormais d'inclure des références permettant à mon interlocuteur·trice de comprendre.
+Je n'ai pas arrêté de créer des tickets mais je le fais toujours avec la plus grande bienveillance. Je continue à être poli et essaie désormais d'inclure des références vers des référentiels permettant à mon interlocuteur·trice de comprendre ma motivation.
 
-Et je n'oublie pas non plus qu'il existe peut-être encore, quelque part, quelqu'un qui me déteste même s'il ne me connait pas.
+Il existe peut-être encore, quelque part, quelqu'un qui me déteste même s'il ne me connait pas.
