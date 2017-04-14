@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- CSS and color -->
+  <!-- nomicrotypo -->
   {% css core %}
   {% capture themeColor %}{{ site.data.styles.default.color }}{% endcapture %}
   {% if page.category.size > 0 %}
@@ -14,6 +15,7 @@
   {% else %}
       {% css '{{ site.data.styles.default.css }}' data-instant-track %}
   {% endif %}
+  <!-- endnomicrotypo -->
 
   <!-- WebMentions -->
   {% comment %}<link rel="pingback" href="https://webmention.io/borisschapira.com/xmlrpc" />{% endcomment %}
