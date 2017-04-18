@@ -87,6 +87,14 @@
       </svg>
     </a>
   </li>
+  {% endif %} {% if site\.author\.mastodon != nil %}
+  <li>
+    <a class="npe" rel="me nofollow" title="{% t Suivez-moi %} {% t sur %} Mastodon" href="{{ site.author.mastodon }}">
+      <svg class="icon icon-mastodon">
+        <use xlink:href="#icon-mastodon"></use>
+      </svg>
+    </a>
+  </li>
   {% endif %} {% if site\.author\.facebook != nil %}
   <li>
     <a class="npe" rel="me nofollow" title="{% t Suivez-moi %} {% t sur %} Facebook" href="{{ site.author.facebook }}">
