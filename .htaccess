@@ -180,8 +180,20 @@ AddDefaultCharset utf-8
 # # HTTPS (SSL)                                                                |
 # ------------------------------------------------------------------------------
 
+<IfModule mod_rewrite.c>
 RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{SERVER_NAME}%{REQUEST_URI} [R,L]
+</IfModule>
+
+# ------------------------------------------------------------------------------
+# # www to non-www                                                             |
+# ------------------------------------------------------------------------------
+
+<IfModule mod_rewrite.c>
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+</IfModule>
 
 # ------------------------------------------------------------------------------
 # | Converting all UPERCASE to lowercase URL                                   |
@@ -486,13 +498,11 @@ Header set Content-Security-Policy "default-src 'none'; manifest-src 'self'; fon
 # | XSS & CLICKJACKING                                                         |
 # ------------------------------------------------------------------------------
 
-# If you want to deny iFrames, add
-# Header always set X-FRAME-OPTIONS "DENY"
-
 <IfModule mod_headers.c>
 Header set X-XSS-Protection "1; mode=block"
-Header always set X-Content-Type-Options "nosniff"
 Header set X-UA-Compatible "IE=Edge"
+Header always set X-Content-Type-Options "nosniff"
+Header always set X-FRAME-OPTIONS "DENY"
 </IfModule>
 
 # Protect the .htaccess
