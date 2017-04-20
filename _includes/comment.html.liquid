@@ -27,7 +27,7 @@
     {{ include.message | markdownify }}
 
     {% unless include.replying_to != 0 or page.comments_locked == true %}
-      <a rel="nofollow" class="npe" href="#comment-{{ include.index }}" onclick="return addComment.moveForm('comment-{{ include.index }}', '{{ include.index }}', 'respond', '{{ page.slug }}')">{% t Répondre à %} {{ include.name }}</a>
+      <a rel="nofollow" class="reply-to npe" href="#comment-{{ include.index }}" data-comm-id="comment-{{ include.index }}" data-parent-id="{{ include.index }}" data-respond-id="respond" data-post-id="{{ page.slug }}">{% t Répondre à %} {{ include.name }}</a>
     {% endunless %}
   </div>
 </li>
