@@ -14,3 +14,9 @@ comments:
       type          : "date"
       options:
         format      : "iso8601"
+  akismet:
+    enabled: false
+    author: 'name'
+    authorEmail: 'email'
+    authorUrl: 'url'
+    content: 'message'

@@ -27,7 +27,7 @@ Quand je rencontre une entreprise me disant qu'elle a échoué à mettre en plac
 
 Le <em lang="en">Cargo Cult</em> désigne l'attitude des habitants des archipels Vanuatu (et, plus largement, de Mélanésie), témoins de l'installation des américains sur leur sol pendant la seconde guerre mondiale et, surtout, l'arrivée des avions et des navires de ravitaillement qui leurs livraient de nombreuses marchandises. Eux qui n'avaient jamais connu de système économique comparable, de production industrielle, ne pouvaient pas deviner que ces produits étaient le fruit de la production d'autres hommes. Pour eux, ce ravitaillement était **magique, divin**.
 
-Ils se mirent, peu à peu, à **reproduire ce qu'ils voyaient**, adoptant des comportements qu'ils observaient dans l'espoir de voir arriver de nouveaux bateaux ou avions. Certains se sont mis à coupé des fleurs pour les mettres dans des vases pendant que d'autres ont carrément construit de fausses cabines radio ou de fausses pistes d'atterissage, espérant que cela ferait revenir les cargos.
+Ils se mirent, peu à peu, à **reproduire ce qu'ils voyaient**, adoptant des comportements qu'ils observaient dans l'espoir de voir arriver de nouveaux bateaux ou avions. Certains se sont mis à couper des fleurs pour les mettres dans des vases pendant que d'autres ont carrément construit de fausses cabines radio ou de fausses pistes d'atterissage, espérant que cela ferait revenir les cargos.
 
 Ce phénomène anthropologique est souvent utilisé en informatique pour moquer les développeurs qui copient du code d'autres et le réutilisent sans pleinement maitriser son impact[^tzi].
 
