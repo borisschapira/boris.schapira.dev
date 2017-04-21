@@ -30,7 +30,6 @@
       <a rel="nofollow" class="reply-to npe" href="#comment-{{ include.index }}" data-comm-id="comment-{{ include.index }}" data-parent-id="{{ include.index }}" data-respond-id="respond" data-post-id="{{ page.slug }}">{% t Répondre à %} {{ include.name }}</a>
     {% endunless %}
   </div>
-</li>
 
 {% capture i %}{{ include.index }}{% endcapture %}
 {% assign replies = site.data.comments[page.slug] | where_exp: 'item', 'item.replying_to == i' %}
@@ -50,3 +49,5 @@
   {% endfor %}
   </ul>
 {% endif %}
+
+</li>
