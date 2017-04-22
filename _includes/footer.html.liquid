@@ -33,6 +33,9 @@
 {% else %}
   {% javascript main-en defer:"defer"%}
 {% endif %}
+{% if page.type == 'post' %}
+  {% javascript comments %}
+{% endif %}
 {% if page.loadTwitterWjs %}
   {% javascript twitter-wjs %}
 {% endif %}
