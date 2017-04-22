@@ -1,5 +1,4 @@
 //= require analytics
-//= require comments
 //= require vendors/moment.2.10.3.min
 //= require vendors/moment_fr
 
