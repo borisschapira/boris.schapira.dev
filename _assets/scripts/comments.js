@@ -6,18 +6,19 @@
 // Completly snatched from Michael Rose's MadeMistake blog post https://mademistakes.com/articles/improving-jekyll-static-comments/
 $('.reply-to').on('click', function (event) {
   $this = $(this);
+
   var commId = $this.data('commId'),
     parentId = $this.data('parentId'),
     respondId = $this.data('respondId'),
     postId = $this.data('postId');
 
   var div, element, style, cssHidden,
-    comm = $('#' + commId),
-    respond = $('#' + respondId),
-    cancel = $('#cancel-comment-reply-link'),
-    parent = $('#comment-replying-to'),
-    post = $('#comment-post-slug'),
-    commentForm = respond.find('form')[0];
+    comm = $('#' + commId)[0],
+    respond = $('#' + respondId)[0],
+    cancel = $('#cancel-comment-reply-link')[0],
+    parent = $('#comment-replying-to')[0],
+    post = $('#comment-post-slug')[0];
+  var commentForm =$('#' + respondId + ' form')[0];
 
   if (!comm || !respond || !cancel || !parent || !commentForm) {
     return;
@@ -25,31 +26,31 @@ $('.reply-to').on('click', function (event) {
 
   postId = postId || false;
 
-  if (!$('#sm-temp-form-div')) {
+  if ($('#sm-temp-form-div').length <= 0) {
     div = document.createElement('div');
     div.id = 'sm-temp-form-div';
     div.style.display = 'none';
     respond.parentNode.insertBefore(div, respond);
   }
 
-  comm[0].parentNode.insertBefore(respond[0], comm[0].nextSibling);
+  comm.parentNode.insertBefore(respond, comm.nextSibling);
   if (post && postId) {
     post.value = postId;
   }
   parent.value = parentId;
-  cancel[0].style.display = '';
+  cancel.style.display = '';
 
-  cancel[0].onclick = function () {
-    var temp = $('#' + 'sm-temp-form-div'),
-      respond = $('#' + respondId);
+  cancel.onclick = function () {
+    var temp = $('#' + 'sm-temp-form-div')[0],
+      respond = $('#' + respondId)[0];
 
     if (!temp || !respond) {
       return;
     }
 
     $('#comment-replying-to').value = null;
-    temp[0].parentNode.insertBefore(respond[0], temp[0]);
-    temp[0].parentNode.removeChild(temp[0]);
+    temp.parentNode.insertBefore(respond, temp);
+    temp.parentNode.removeChild(temp);
     this.style.display = 'none';
     this.onclick = null;
     return false;
