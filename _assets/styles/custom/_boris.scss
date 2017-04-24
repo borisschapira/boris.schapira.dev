@@ -4,6 +4,10 @@ $color-gray: rgb(112,112,112);
 $color-lightgray : lighten($color-gray, 40 - lightness($color-main));
 $color-bg : lighten($color-main, 99 - lightness($color-main));
 
+html {
+  font-size: calc( 16px + (20 - 16)*(100vw - 400px) / (760-400) );
+}
+
 /* Lisibility */
 .hide {
     display:none;
