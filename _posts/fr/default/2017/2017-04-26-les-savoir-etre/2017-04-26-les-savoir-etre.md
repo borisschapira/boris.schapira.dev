@@ -46,7 +46,7 @@ Un·e candidat·e ne connait pas, <span lang="la">a priori</span>, l'organisatio
 
 * Curieux, pose quelques questions
 * Cherche à s'informer sur les savoir-faire
-* S'informe sur l'organisation du travail…)
+* S'informe sur l'organisation du travail
 
 Les tâches confiées et l'équipe à qui elles sont confiées ne sont qu'une partie du travail. L'organisation du travail, à la fois dans la méthode que dans les réglementations internes, constitue une part importante de la vie de l'entreprise. J'aurais assez peu d'enclin à embaucher une personne qui ne serait pas sensible à son environnement ou exprimerait, dès l'entretien, peu d'intérêt pour le collectif.
 
