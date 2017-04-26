@@ -55,8 +55,9 @@ Les tâches confiées et l'équipe à qui elles sont confiées ne sont qu'une pa
 * Développe des points de vue personnels
 * Assume ses choix, se prononce clairement
 * Illustre, argumente et remet en question
+* Reconnait ses limites
 
-Pour enrichir l'équipe un·e candidat·e doit aussi être capable d'émettre une analyse non-stéréotypée et de l'assumer par des explications claires et convaincantes. Je détermine souvent ce point en posant à la personne des questions qui divisent la communauté. Le point de vue du candidat ou de la candidate m'intéresse alors peu, c'est la qualité de l'argumentation que j'analyse.
+Pour enrichir l'équipe un·e candidat·e doit aussi être capable d'émettre une analyse non-stéréotypée et de l'assumer par des explications claires et convaincantes. Je détermine souvent ce point en posant à la personne des questions qui divisent la communauté. Le point de vue du candidat ou de la candidate m'intéresse alors peu, c'est la qualité de l'argumentation que j'analyse. Un aveu de méconnaissance du sujet est également une bonne chose, si tant est que le candidat ou la candidate propose ensuite d'émettre des hypothèses construites.
 
 ## Capacité d'investissement
 
