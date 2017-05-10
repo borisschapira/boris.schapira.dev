@@ -82,6 +82,13 @@ repository: borisschapira/jekyll-bs
 staticman:
   branch: master
 
+# ReCaptcha with Staticman
+# Encrypted secret :  https://api.staticman.net/v2/encrypt/YOUR-SECRET
+recaptcha:
+  key: '…'
+  secret: '…'
+  encrypted_secret: '…'
+
 microtypo:
   median: true
 
