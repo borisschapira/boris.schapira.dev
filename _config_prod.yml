@@ -1,7 +1,7 @@
 recaptcha:
   key: '6LdcuiAUAAAAAL7xHfw3gTz603bDtSlzBo1DO9lx'
   secret: '6LdcuiAUAAAAAMCixgeP0f4AGjIaV0Y1UTRenMRp'
-  encrypted_secret: 'Bcw91a8UDZZ+G901svOuEtFNFp3rFuXQtXsbvpF2JGmmV9nvrXci2qeKk3Q1CBPCdletya2G+U2YimGva44SeQ7iJnoJkGEMQqg+dE/f+7mPhv9jpzYcP42OwbKRbd7acZ1e5pz/tPMWpzNofzIdSEjba80wAJQT1gw96PFdsXM='
+  encrypted_secret: 'SdJ7ib962U9rgDdzcXpyeKpfPqDZLNqV3UzEhGD0TEXJqwdCrjhGtFqtnPkJRC2IUnGfhUQGnlvC9OC+F+XU15LGrymiieA9sSQTTxSVDHwq4kE/EAzDkgBhWqi396WVmRvdmKnpoFQ7Rj+CdL8K+mYtTDx/+/pvax0vlkoX+oU='
 
 algolia:
   application_id: '97EL687MDM'
