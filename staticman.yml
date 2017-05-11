@@ -20,3 +20,7 @@ comments:
     authorEmail: 'email'
     authorUrl: 'url'
     content: 'message'
+  reCaptcha:
+    enabled: true
+    siteKey: "6LdcuiAUAAAAAL7xHfw3gTz603bDtSlzBo1DO9lx"
+    secret: "SdJ7ib962U9rgDdzcXpyeKpfPqDZLNqV3UzEhGD0TEXJqwdCrjhGtFqtnPkJRC2IUnGfhUQGnlvC9OC+F+XU15LGrymiieA9sSQTTxSVDHwq4kE/EAzDkgBhWqi396WVmRvdmKnpoFQ7Rj+CdL8K+mYtTDx/+/pvax0vlkoX+oU="
