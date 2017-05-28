@@ -16,7 +16,7 @@ Le petit dernier et sa mère se font des bisous…
 > — Et sur la joue ?  
 > — Oui ! SMACK !  
 > — Tu me fais un bisous sur le front ?  
-> — Non parce que y'a des cheveux. Je veux pas faire des bisous sur tes cheveux. J'aime pas trop ta peinture.  
+> — Non parce que y'a des cheveux. Je veux pas faire des bisous sur tes cheveux. J'aime pas trop ta peinture.
 
 <figure>
   <img src="{{ page.url }}peinture.gif" alt="Lady Gaga met de la peinture dans ses cheveux."/>
