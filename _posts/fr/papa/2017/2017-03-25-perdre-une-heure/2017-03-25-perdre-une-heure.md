@@ -9,7 +9,7 @@ categories:
 
 Hey, les gens sans enfants ! 
 
-Demain vous allez vous réveillez et on vous aura volé du sommeil, lâchement.
+Demain vous allez vous réveiller et on vous aura volé du sommeil, lâchement.
 
 Nous, c'est tous les jours (et des fois c'est deux ou trois heures).
 
