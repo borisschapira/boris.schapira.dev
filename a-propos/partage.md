@@ -10,7 +10,7 @@ Je suis convaincu que le partage de l'information est bénéfique à tous : j'en
 
 ## Les sujets dont j'aimerais parler
 
-Il y a plusieurs sujets dont j'aimerai parler : si cela vous intéresse aussi, parlons-en et organisons des conférences ensemble.
+Il y a plusieurs sujets dont j'aimerai parler : si cela vous intéresse aussi, parlons-en, écrivons ou organisons des conférences ensemble.
 
 {% assign the_subjects=site.confs %}
 <div class="conf-subjects">
