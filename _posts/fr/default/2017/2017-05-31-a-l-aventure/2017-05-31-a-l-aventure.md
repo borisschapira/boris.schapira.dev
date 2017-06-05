@@ -1,6 +1,7 @@
 ---
 title: "À l'aventure"
 date: '2017-05-31'
+main_image: assets/images/2017-05-31/forest.jpg
 lang: fr
 type: post
 categories:
@@ -68,6 +69,11 @@ Depuis mars, je continue bien sûr à travailler pour Clever Age dans le cadre d
 Je n'ai pas encore cherché d'emploi sur Périgueux, mais cela ne m'a pas empêché d'être curieux sur les entreprises implantées là-bas et, plus globalement, en Dordogne. J'ai également suivi deux ateliers au Node sur la fixation des prix et le développement d'une activité d'entrepreneur "au cas où". Autant profiter de ce que Bordeaux peut offrir de meilleur tant que j'y suis encore.
 
 L'isolation géographique ne m'inquiète pas. J'ai, depuis longtemps, pris conscience que mon identité était indissociable du Réseau et que je serais un peu chez moi partout, tant que j'aurais une connexion. Que les gens soient physiquement proches de moi ne renforce pas mes relations avec eux et [mes amitiés les plus sincères sont virtuelles](/2014/04/relations-virtuelles/).
+
+<figure>
+      {% responsive_image path: assets/images/2017-05-31/forest.jpg alt: "Une forêt" %}
+      <figcaption>par Nejc Košir (<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.fr" title="Description de la licence Creative Commons 0">licence CC0</a>)</figcaption>
+</figure>
 
 Sept ans, c'est long. Il restera sûrement toujours un peu de Clever Age en moi, cette entreprise dans laquelle je me suis tant investi et qui me l'a bien rendu. Mes collègues bordelais me manqueront, mais aussi les nantais, les lyonnais, les parisiens, les montpelliérains de Clever Institut, les visites en Suisse, les conf-call avec Hong-Kong ou Singapour. Hasard du calendrier, je quitte Clever tandis que par le biais [d'un autre rachat](https://www.clever-age.com/fr/news/clevertoday-rejoint-le-groupe-cleverage/), un ami d'un autre temps rejoint le navire depuis le Québec. Puisque je vous dis que le monde virtuel est tout petit !
 
