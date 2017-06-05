@@ -16,7 +16,8 @@
         {% if site.data.comments[page.slug].size > 0 %}
           <ul class="comments">
           {% assign comments = site.data.comments[page.slug] | where_exp: 'item', "item.replying_to == ''" %}
-          {% for comment in comments %}
+          {% assign sortedcomments = comments | sort: 'date' %}
+          {% for comment in sortedcomments %}
             {% assign index       = forloop.index %}
             {% assign r           = comment.replying_to %}
             {% assign replying_to = r | to_integer %}
