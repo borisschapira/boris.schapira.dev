@@ -7,13 +7,13 @@ categories:
     - papa
 ---
 
-Ce soir, mon koala nous raconte sa journée à l'école. Journée pendant laquelle ses camarades et lui ont fêter son anniversaire.
+Ce soir, mon koala nous raconte sa journée à l'école. Journée pendant laquelle ses camarades et lui ont fêté son anniversaire.
 
 <!-- more -->
 
 > On a mangé le gâteau, il était gros. Il y en avait deux qu'on a amené, et un que ma copine elle a amené. Et on a eu des bonbons aussi, et du jus. Moi, j'ai bu plein de jus…
 
-Je l'écoute, attend qu'il ait fini, puis l'interroge.
+Je l'écoute, attend qu'il ait fini, puis l'interroger.
 
 > Il était bon, ce gâteau ?
 
