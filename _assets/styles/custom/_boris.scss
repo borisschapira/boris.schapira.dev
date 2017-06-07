@@ -258,6 +258,11 @@ html .content .post .p-header .p-author {
     text-decoration: none;
     border: 1px solid $color-lightgray;
     padding: 3px;
+
+    &.bloc {
+      padding: 15px;
+      display: block;
+    }
   }
 }
 footer .wrap {
