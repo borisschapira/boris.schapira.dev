@@ -107,7 +107,7 @@ Il sort de la poche de sa veste un Nokia sorti entre 2004 et 2006, écran LCD, c
   <figcaption>Je suis en totale panique.</figcaption>
 </figure>
 
-L'ensemble du projet tombe à l'eau. Je regarde autour de moi, espérant que quelqu'un me sauvera à mon tour et détournera la conversation vers un autre sujet. J'oublie qu'ils sont tous bien plus terrifiés que moi. Personne ne dit rien. Il silence pesant s'installe pendant une minute qui me semble durer une éternité.
+L'ensemble du projet tombe à l'eau. Je regarde autour de moi, espérant que quelqu'un me sauvera à mon tour et détournera la conversation vers un autre sujet. J'oublie qu'ils sont tous bien plus terrifiés que moi. Personne ne dit rien. Un silence pesant s'installe pendant une minute qui me semble durer une éternité.
 
 Grand-Patron comprend, s'emporte sur le temps qu'on lui fait perdre et nous demande de sortir.
 
