@@ -8,7 +8,7 @@ categories:
 ---
 
 > Woaw, tu as trop de chances, tu as plein de discussions super avec tes fils !
-> <cite>Une maman, sur [WeMoms](http://localhost:4000/2016/01/wemoms-app/)</cite>
+> <cite>Une maman, sur [WeMoms](/2016/01/wemoms-app/)</cite>
 
 Je vous rassure, c'est loin d'être toujours le cas. Si on enlève tous les moments où ils se battent, parlent pour faire exprès de couper la parole de l'autre où chantent à tue-tête à 23&#8239;h, les dialogues sont finalement assez réduits…
 
