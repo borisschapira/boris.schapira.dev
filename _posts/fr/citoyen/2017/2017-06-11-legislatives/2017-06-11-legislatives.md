@@ -14,7 +14,7 @@ Rappelons le principe d'un député : il est censé prendre l'avis de sa circons
 
 <!-- more -->
 
-Que nous a-t-on, encore une fois, proposé durant ces législatives 2017 ? Une très grande variété de candidats, parfois plus de 25 par circonscription et, pour autant, très peu de différences. À chaque fois, ces personnes annoncent directement dans quel parti elles sont et seront, peu importe l'avis des citoyens. "Voici mon parti, votez pour moi afin que je puisse respecter les consignes qui me sont données par d'autres que vous".
+Que nous a-t-on, encore une fois, proposé durant ces législatives 2017 ? Une très grande variété de candidats, parfois plus de 25 par circonscription et, pour autant, très peu de différences. À chaque fois, ces personnes annoncent directement dans quel parti elles sont et seront, peu importe l'avis des citoyens. "Voici mon parti, votez pour moi afin que je puisse respecter les consignes qui me sont donner par d'autres que vous".
 
 Où sont les candidats qui annoncent, à l'inverse, leur agenda de consultation en cas d'élection ? Aucun non plus pour proposer de nouvelles plate-formes d'échange, en sollicitant des centres d'appels (un numéro vert lié à des prestataires capables de réaliser une synthèse) ou le Web, tout simplement, avec des applications de consultations citoyennes. Où ?
 
