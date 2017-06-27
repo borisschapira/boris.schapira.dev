@@ -1,5 +1,5 @@
 ---
-title: 'La réfléxion'
+title: 'La réflexion'
 date: '2017-06-23'
 lang: fr
 type: post
