@@ -45,6 +45,7 @@ img {
   acronym[title] {
     cursor: help;
     border-bottom: 0.1em dotted lighten($color-main, 40);
+    text-decoration: inherit;
   }
   hr {
     color: $color-main;
