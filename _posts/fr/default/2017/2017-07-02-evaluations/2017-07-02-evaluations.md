@@ -72,6 +72,4 @@ Idéalement, il faudrait le faire deux fois : la première fois, les élèves pr
 
 En réalité, nous sommes souvent limités par le temps que cela consomme sur le volume d'heure du cursus. Cependant, je note toujours une différence de comportement après l'exercice. Il n'y a rien de plus difficile que de noter objectivement un ou une camarade.
 
----
-
 Et vous, comment notez-vous ?
