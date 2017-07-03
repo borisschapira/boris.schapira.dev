@@ -22,6 +22,6 @@ Le grand de six ans explique comment jouer à la Bataille à son petit frère. T
   <figcaption>Il est ensuite sorti de la pièce, comme un chevalier noir.</figcaption>
 </figure>
 
----
+***
 
 <small><i>Dédicace spéciale à Ravana, que je n'ai jamais vu dans la même pièce que Batman.</i></small>
