@@ -1,5 +1,6 @@
 ---
 title: '(Web) Apps : il n''y a pas de balle en argent'
+i18n-key: no-silver-bullet
 date: '2017-02-01'
 lang: fr
 canonical: 'http://blog.clever-age.com/fr/2017/02/01/app-ou-web-apps-il-ny-a-pas-de-balle-en-argent/'
@@ -8,7 +9,7 @@ categories:
     - default
 ---
 
-Je suis encore tombé récemment sur un article qui annonçait calmement la fin des applications mobiles, en disant que le <abbr title="Responsive Web Design" lang="en">RWD</abbr> et les <span lang="en">Progressive Web Apps (PWA)</span> étaient la réponse à l’ensemble des besoins des organisations, chiffres d’installation des applications à la clé. Pourtant, l’utilisation des chiffres n’est pas si évidente que ça. Il existe de nombreux pièges qui peuvent nous inciter, par intuition, à conclure de manière erronée quant à la réalité.
+Je suis encore tombé récemment sur un article qui annonçait calmement la fin des applications mobiles, en disant que le <abbr title="Responsive Web Design" lang="en">RWD</abbr> et les <span lang="en">Progressive Web Apps (PWA)</span> étaient la réponse à l’ensemble des besoins des organisations, chiffres d’installation des applications à la clé. Comme le disait Frederick Brooks, il n’y a pas de technique miraculeuse (<q lang="en">No silver bullet</q>) en génie logiciel. L’utilisation des chiffres n’est pas si évidente que ça et il existe de nombreux pièges qui peuvent nous inciter, par intuition, à conclure de manière erronée quant à la réalité.
 
 Faisons ensemble un petit tour d’horizon des biais de logique liés à cette pratique.
 
