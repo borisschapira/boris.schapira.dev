@@ -1,5 +1,5 @@
 ---
-title: 'Législatives'
+title: Législatives
 date: '2017-06-11'
 lang: fr
 type: post

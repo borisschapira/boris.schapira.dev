@@ -1,5 +1,5 @@
 ---
-title: "Le rendez-vous"
+title: 'Le rendez-vous'
 date: '2017-05-15'
 lang: fr
 type: post

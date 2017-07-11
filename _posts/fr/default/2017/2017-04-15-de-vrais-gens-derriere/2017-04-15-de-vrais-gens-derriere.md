@@ -1,5 +1,5 @@
 ---
-title: "De vrais gens, derrière"
+title: 'De vrais gens, derrière'
 date: '2017-04-15'
 lang: fr
 type: post
