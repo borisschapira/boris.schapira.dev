@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+tags:
+    - anecdotes
 ---
 
 Il y a parfois des souvenirs, des échanges, qui font de vous le professionnel que vous êtes. En voici un lié à la Qualité…
