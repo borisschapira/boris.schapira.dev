@@ -1,5 +1,5 @@
 ---
-title: "Évaluations"
+title: Évaluations
 date: '2017-07-02'
 lang: fr
 type: post
