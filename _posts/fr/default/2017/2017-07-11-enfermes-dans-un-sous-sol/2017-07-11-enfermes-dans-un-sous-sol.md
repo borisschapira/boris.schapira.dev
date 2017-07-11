@@ -58,7 +58,7 @@ Hors de question. Mon commercial exprime son désaccord d'un calme ardent. J'exp
 
 J'en eus froid dans le dos. C'en était trop pour mon commercial qui se leva, menaçant, et m'ordonna de faire pareil. Merci, au revoir, le temps que je comprennes ce qui s'était passé, nous étions déjà dehors, en route vers le métro. J'étais encore sous le choc.
 
-> — Tu crois qu'ils peuvent faire ce qu'ils ont dit.
+> — Tu crois qu'ils peuvent faire ce qu'ils ont dit ?
 > — Non, aucune chance. Ils sont juste aux abois parce qu'ils ne doivent plus avoir d'argent.
 > — Je ne comprends pas.
 > — Ils doivent avoir un partenariat avec DUPONT. Comme ils n'ont plus de fonds, ils ont dû demander à DUPONT de faire pression pour voir s'ils pouvaient obtenir quelque chose. C'est un mouvement stupide : nous ne développerons rien de plus. Ils peuvent toujours se brosser pour avoir leur nouveau lot.
