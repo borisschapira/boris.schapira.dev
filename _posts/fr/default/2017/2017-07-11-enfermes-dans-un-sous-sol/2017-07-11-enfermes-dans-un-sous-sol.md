@@ -13,7 +13,7 @@ Alors que je m'apprête à tourner une page professionnelle, je ressens le besoi
 
 <!-- more -->
 
-Ce projet e-commerce était relativement simple mais la stack technologique choisie par le client en amont du projet était peu mature. Bien que les languages utilisés soient robustes, le projet reposait sur des solutions récentes qui n'avaient jamais, ou très peu, été confrontée à la réalité du terrain.
+Ce projet e-commerce était relativement simple mais la stack technologique choisie par le client en amont du projet était peu mature. Bien que les langages utilisés soient robustes, le projet reposait sur des solutions récentes qui n'avaient jamais, ou très peu, été confrontée à la réalité du terrain.
 
 Nous n'avions jamais travaillé sur ces solutions donc nous avons décidé de monter rapidement en compétence en incluant dans l'équipe des sous-traitants expérimentés. Durant la réunion de lancement, le partage des tâches avait été acté. Certaines composantes du projet, notamment liées aux responsabilités légales et bancaires, restaient à la charge du client.
 
