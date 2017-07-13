@@ -23,6 +23,11 @@ namespace :postbuild do
     end
   end
 
+  desc 'Coverage scanner for SonarQube'
+  task :coverage do
+    sh 'sonar-scanner'
+  end
+
   task :test => ["test:kiss"]
 
   namespace :test do

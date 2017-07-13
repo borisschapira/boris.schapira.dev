@@ -9,3 +9,4 @@ _algolia_api_key
 _site/
 .sass-cache/
 .jekyll-metadata
+.scannerwork

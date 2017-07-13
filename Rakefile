@@ -3,4 +3,5 @@ load 'tasks/building.rake'
 load 'tasks/postbuild.rake'
 
 task :default => ["build:preview"]
+task :sonar => ["postbuild:coverage"]
 task :dryrun => ["build:generate","postbuild:test"]

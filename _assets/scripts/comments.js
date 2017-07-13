@@ -5,7 +5,7 @@
 // Released under the GNU General Public License - https://wordpress.org/about/gpl/
 // Completly snatched from Michael Rose's MadeMistake blog post https://mademistakes.com/articles/improving-jekyll-static-comments/
 $('.reply-to').on('click', function (event) {
-  $this = $(this);
+  var $this = $(this);
 
   var commId = $this.data('commId'),
     parentId = $this.data('parentId'),
