@@ -38,7 +38,7 @@ GEM
       bundler
       rake
       thor (>= 0.14.0)
-    autoprefixer-rails (7.1.2)
+    autoprefixer-rails (7.1.2.2)
       execjs
     awesome_print (1.8.0)
     classifier-reborn (2.1.0)
@@ -74,7 +74,7 @@ GEM
       yell (~> 2.0)
     http_parser.rb (0.6.0)
     httpclient (2.8.3)
-    i18n (0.8.4)
+    i18n (0.8.6)
     jekyll (3.5.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -107,11 +107,11 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (1.1.1)
       jekyll (~> 3.3)
-    jekyll-tagging (1.0.1)
-      ruby-nuggets
-    jekyll-tagging-related_posts (0.2.2)
+    jekyll-tagging (1.1.0)
+      nuggets
+    jekyll-tagging-related_posts (1.0.0)
       jekyll (~> 3.0)
-      jekyll-tagging (~> 1.0.0)
+      jekyll-tagging (~> 1.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     json (1.8.6)
@@ -125,7 +125,7 @@ GEM
     minitest (5.10.2)
     nokogiri (1.8.0)
       mini_portile2 (~> 2.2.0)
-    nuggets (1.0.0)
+    nuggets (1.5.0)
     octopress-autoprefixer (2.0.1)
       autoprefixer-rails
       jekyll (~> 3.0)
@@ -140,10 +140,12 @@ GEM
       ffi (>= 0.5.0, < 2)
     rmagick (2.16.0)
     rouge (1.11.1)
-    ruby-nuggets (1.0.0)
-      nuggets (= 1.0.0)
     safe_yaml (1.0.4)
-    sass (3.4.24)
+    sass (3.5.1)
+      sass-listen (~> 4.0.0)
+    sass-listen (4.0.0)
+      rb-fsevent (~> 0.9, >= 0.9.4)
+      rb-inotify (~> 0.9, >= 0.9.7)
     sprockets (3.6.3)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
