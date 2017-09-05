@@ -7,7 +7,7 @@ i18n-key: about-me
 
 ## nice to meet you
 
-I'm a french engineer[^1] currently working for [Clever Age](http://www.clever-age.com/en/ "Clever Age"). I accompany my clients on custom developments (both Front-End and Back-End, mainly using PHP and the .NET Framework), project management (both as a project manager or an Agile coach) or during their digital transformation on several projects, sometimes over several years. 
+I'm a french engineer[^1], Customer Success Manager for [Dareboost](http://www.dareboost.com/en/ "Website speed test, Website quality analysis - Dareboost"). Dareboost is a <abbr title="Software as a Service">SaaS</abbr> auditing service that analyse your website's quality and performances. My role is to analyse customer journey(s) by gathering feedbacks, then check with customers to ensure that they are on track with their performance objectives and, if not, see if I can help with an even broader use of Dareboost.
 
 You may have meet me during events or conferences, talking about Service Design, Finance, e-Commerce or the choice of a data management solution : (<abbr lang="en" title="Content Management System">CMS</abbr>, <abbr lang="en" title="Digital Asset Management">DAM</abbr>, <abbr lang="en" title="Online Video Platform">OVP</abbr>)…
 
