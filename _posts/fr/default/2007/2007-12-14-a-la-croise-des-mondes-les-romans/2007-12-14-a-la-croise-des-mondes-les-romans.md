@@ -1,5 +1,6 @@
 ---
-title: '«&#160;A la Croisée des Mondes&#160;», Philip Pullman'
+title: '«&nbsp;A la Croisée des Mondes&nbsp;», Philip Pullman'
+category:
     - default
 date: '2007-12-14'
 lang: fr

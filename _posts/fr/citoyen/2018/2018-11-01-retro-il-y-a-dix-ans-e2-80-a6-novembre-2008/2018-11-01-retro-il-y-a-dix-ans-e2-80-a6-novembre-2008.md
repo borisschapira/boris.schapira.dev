@@ -1,18 +1,19 @@
 ---
-title: '[Rétro] Il y a un an… novembre 2008.'
+title: '[Rétro] Il y a dix ans… novembre 2008.'
 tags:
-    - Société
     - Rétro
-date: '2009-11-01'
+date: '2018-11-01'
 lang: fr
 type: post
 categories:
     - citoyen
 ---
 
-_Pour ne pas commettre les erreurs du passé, encore faut-il [s'en souvenir](/?s=[R%C3%A9tro]). _
+Pour ne pas commettre les erreurs du passé, encore faut-il s'en souvenir.
 
-_**Rappelez-vous, novembre 2008, c'était ça&nbsp;:**_
+<!-- more -->
+
+## Rappelez-vous : novembre 2008
 
 *   Le **4**, Barack Obama devient le 44e président des États-Unis.
 *   Le **7**, le taux de chomâge aux États-Unis atteint son plus haut niveau depuis 14 ans.

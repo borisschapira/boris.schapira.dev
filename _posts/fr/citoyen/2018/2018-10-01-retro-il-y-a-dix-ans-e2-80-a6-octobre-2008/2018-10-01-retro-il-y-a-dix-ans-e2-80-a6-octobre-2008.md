@@ -1,18 +1,19 @@
 ---
-title: '[Rétro] Il y a un an… octobre 2008.'
+title: '[Rétro] Il y a dix ans… octobre 2008.'
 tags:
-    - Société
     - Rétro
-date: '2009-10-01'
+date: '2018-10-01'
 lang: fr
 type: post
 categories:
     - citoyen
 ---
 
-_Pour ne pas commettre les erreurs du passé, encore faut-il [s'en souvenir](/?s=[R%C3%A9tro])._
+Pour ne pas commettre les erreurs du passé, encore faut-il s'en souvenir.
 
-_**Rappelez-vous, octobre 2008, c'était ça&nbsp;:**_
+<!-- more -->
+
+## Rappelez-vous : octobre 2008
 
 *   Le **3**, Georges Bush Jr. signe un chèque de 700,000,000,000 dollars finançant un plan d'urgence de stabilisation de l'économie. Oui oui, 11 zéros.
 *   Le  **6**, les cours de Bourse sont à nouveau suspendus en Russie après des chutes brutales de 20%
