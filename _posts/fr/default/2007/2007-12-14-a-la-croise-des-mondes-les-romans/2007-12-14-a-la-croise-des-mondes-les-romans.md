@@ -1,6 +1,6 @@
 ---
 title: '«&nbsp;A la Croisée des Mondes&nbsp;», Philip Pullman'
-category:
+categories:
     - default
 date: '2007-12-14'
 lang: fr
