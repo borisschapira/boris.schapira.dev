@@ -1,18 +1,19 @@
 ---
-title: '[Rétro] Il y a un an… septembre 2008.'
+title: '[Rétro] Il y a dix ans… septembre 2008.'
 tags:
-    - Société
     - Rétro
-date: '2009-09-01'
+date: '2018-09-01'
 lang: fr
 type: post
 categories:
     - citoyen
 ---
 
-_Pour ne pas commettre les erreurs du passé, encore faut-il [s'en souvenir](/?s=[R%C3%A9tro])._
+Pour ne pas commettre les erreurs du passé, encore faut-il s'en souvenir.
 
-_**Rappelez-vous, septembre 2008, c'était ça&nbsp;:**_
+<!-- more -->
+
+## Rappelez-vous : septembre 2008
 
 *   le **2**, Google livre sa première version de Chrome, son navigateur. Et pour septembre 2009, un nouvel OS&nbsp;?
 *   le **7**, le gouvernement des États-Unis place les établissements bancaires Freddie Mac et Fannie Mae sous tutelle, marquant le début d'une nouvelle phase de la crise financière. Le début de plusieurs très (trop) longues semaines (et week-ends) de boulot pour moi, à l'époque Commando en salle de marché…
