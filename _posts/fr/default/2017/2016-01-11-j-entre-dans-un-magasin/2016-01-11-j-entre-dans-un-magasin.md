@@ -104,7 +104,7 @@ et il s'en va. Il revient cinq minutes après en courant. J'ai à peine le temps
 
 Intrigué, je me dirige vers le TorcheCulcul Triple Épaisseur. Il ne reste qu'un lot.
 
-> Mr Schapire, dernière chance pour du TorcheCulcul Triple Épaisseur ! Après, ça sera trop tard !
+> Mr Schapira, dernière chance pour du TorcheCulcul Triple Épaisseur ! Après, ça sera trop tard !
 
 Cette fois, j'ai compris. Je prends le TorcheCulcul Triple Épaisseur et je repars avec. Le vendeur, satisfait, va chercher son chariot élévateur. Il a une pleine palette de TorcheCulcul en stock, à remettre en rayon.
 
