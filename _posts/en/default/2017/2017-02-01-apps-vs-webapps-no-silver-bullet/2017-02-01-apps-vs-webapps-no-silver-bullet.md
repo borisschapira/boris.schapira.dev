@@ -13,6 +13,10 @@ I recently read an article that proclaimed the end of mobile apps, insisting tha
 
 Let's take a look at the different logical biases related to this topic.
 
+<!-- more -->
+
+<em class="canonical">**Note&nbsp;:** this post has been published first on the [Clever Age](http://www.clever-age.com/en/) website in [(Web) Apps: There is no silver bullet](https://blog.clever-age.com/en/2017/07/07/web-apps-there-is-no-silver-bullet/).</em>
+
 ## Web or native?
 
 Let's imagine that we want to evaluate the user satisfaction for various applications: pure native applications, cross-platform applications, semi-hybrid applications with React Native, "installed" <abbr title="Progressive Web Apps">PWAs</abbr> on Android 6, not-installed <abbr title="Progressive Web Apps">PWAs</abbr> and non-progressive Web App. With these measurements, we would be able to produce a graph with the level of satisfaction on the x-axis while the y-axis represents how close to a "native application" the app is.

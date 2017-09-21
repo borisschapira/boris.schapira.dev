@@ -1,5 +1,5 @@
 ---
-title: 'Pourquoi blogger ? | Why do we blog ?'
+title: 'Pourquoi blogger ? &#124; Why do we blog ?'
 tags:
     - Blogosphère
     - Réflexion

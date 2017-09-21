@@ -16,7 +16,14 @@ categories:
 
 ## A Multifaceted War
 
-Online advertising has become — for lack of a better solution — the main source of income for many content producers. In the absence of any regulations, online advertising increasingly oversteps the blurred lines of privacy, at the expense of users who then express their feeling of being abused through massive resort to ad blockers[^1]. A true ad blocking market is emerging, consisting of technical solutions and secret agreements, in browsers as well as on smartphones[^0]. Faced with this phenomenon, some online editors no longer hesitate to block access to their content to users running ad blockers, which sends a very negative signal to their audience.
+Online advertising has become — for lack of a better solution — the main source of income for many content producers. 
+
+<!-- more -->
+
+<em class="canonical">**Note&nbsp;:** this post has been published first on the [Clever Age](http://www.clever-age.com/en/) website in [Online Advertising: The Current Status'](http://blog.clever-age.com/en/2015/12/14/online-advertising-the-current-status/).</em>
+
+
+In the absence of any regulations, online advertising increasingly oversteps the blurred lines of privacy, at the expense of users who then express their feeling of being abused through massive resort to ad blockers[^1]. A true ad blocking market is emerging, consisting of technical solutions and secret agreements, in browsers as well as on smartphones[^0]. Faced with this phenomenon, some online editors no longer hesitate to block access to their content to users running ad blockers, which sends a very negative signal to their audience.
 
 [^0]: The ad blocker of iOS 9, for example, relies on a business model in which advertisers must pay to have their ads displayed.
 
