@@ -154,6 +154,7 @@ responsive_image:
     - width: 320
       quality: 80
     - width: 640
+      quality: 90
   base_path: assets/images
   output_path_format: assets/resized/%{dirname}/%{width}/%{basename}
 
