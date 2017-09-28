@@ -18,7 +18,7 @@ Il y a quelques jours, j'ai revu une amie qui habite à l'étranger. Elle était
 > – Ils s'appellent les italiens. Leur pays, c'est l'Italie.  
 > – Comme la petite fille de la copine ?  
 > – Ah, non. Elle vit où ma copine ? Tu le sais, on en a déjà parlé.  
-> – Ah oui, elle vit en lasagne s!
+> – Ah oui, elle vit en lasagnes !
 
 <figure>
   <video autoplay="autoplay" loop="loop">
