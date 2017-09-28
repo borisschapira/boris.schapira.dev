@@ -11,7 +11,8 @@ L'autre jour, nous avons tenté d'expliquer aux enfants la différence entre aim
 
 <!-- more -->
 
-> – … par exemple, je vous aime. Mais j'espère qu'un jour, vous vivrez votre propre vie. Vous aurez votre amoureux ou votre amoureuse, votre maison, et on se verra souvent mais on ne vivre pas ensemble. Mais peu importe si vous restez où si vous partez, je vous aimerai toujours. Par contre, votre maman, c'est mon amoureuse. Si elle s'en va demain, je l'aimerai toujours, mais je serais malheureux. Parce que c'est mon amoureuse, j'ai envie de passer toute ma vie avec elle.  
+> Par exemple, je vous aime. Mais j'espère qu'un jour, vous vivrez votre propre vie. Vous aurez votre amoureux ou votre amoureuse, votre maison, et on se verra souvent mais on ne vivra pas ensemble. Peu importe si vous restez où si vous partez, je vous aimerai toujours et je ne serai pas triste. 
+> Par contre, votre maman, c'est mon amoureuse. Si elle s'en va demain, je l'aimerai toujours, mais je serais malheureux. Parce que c'est mon amoureuse, j'ai envie de passer toute ma vie avec elle. Vous voyez la différence ?  
 > – Moi, je veux rester toute ma vie avec vous, Papa et Maman.  
 > – Et si tu rencontres un amoureux ou une amoureuse ?  
 > – Eh ben moi, quand j'aurais un amoureux, il m'aimera aussi alors il sera d'accord qu'on vient tous les deux vivre avec vous !  
