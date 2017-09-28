@@ -60,6 +60,7 @@ exclude:
   - _posts/**/*.png
   - _posts/**/*.gif
   - _posts/**/*.pdf
+  - _posts/**/*.mp4
 include:
   - ".well-known"
   - ".htaccess"

@@ -21,6 +21,9 @@ Lui, qui est d'habitude si impatient, a attendu parfois les coureurs plus de cin
 Les bonnes valeurs.
 
 <figure>
-  <img src="{{ page.url }}proud.gif" alt="Un homme qui distribue des boissons dans les gradins d'un stade américain fait un signe en direction d'une personne hors-champ. Dessous, une légende : PROUD OF YOU, SON"/>
+  <video autoplay="autoplay" loop="loop">
+    <source src="{{ page.url }}proud.gif.mp4" type="video/mp4" />
+    <img src="{{ page.url }}proud.gif" alt="Un homme qui distribue des boissons dans les gradins d'un stade américain fait un signe en direction d'une personne hors-champ. Dessous, une légende : PROUD OF YOU, SON"/>
+  </video>
   <figcaption>On est fiers de toi, fiston.</figcaption>
 </figure>
