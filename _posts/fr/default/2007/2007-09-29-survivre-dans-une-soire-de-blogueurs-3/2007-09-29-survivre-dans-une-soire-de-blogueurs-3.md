@@ -5,6 +5,8 @@ categories:
 date: '2007-09-29'
 lang: fr
 type: post
+publishDate: '2007-09-29'
+locale: fr_FR
 ---
 
 _Episodes #1 et #2_</p>

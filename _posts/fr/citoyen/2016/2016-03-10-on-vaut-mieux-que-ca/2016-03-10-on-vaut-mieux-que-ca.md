@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-03-10'
+locale: fr_FR
 ---
 
 > Mais quels effets aurait cette réforme sur un entrepreneur ?

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-03-07'
+locale: fr_FR
 ---
 
 Le grand fait une connerie. Il se prend un soufflet, pleure, se fâche, passe 10 minutes à bouder, s'excuse, promet de ne plus le refaire et on finit avec un câlin.

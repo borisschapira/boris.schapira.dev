@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-02-16'
+locale: fr_FR
 ---
 
 Ce n'est plus possible. Entre les Isos des build de Seven et de Vista, les binaires d'installation de Visual Studio 2005 et 2008 (et les fichiers après installation), les photos de vacances et les scans de documents officiels, les films de famille <span style="text-decoration: line-through">et les autres</span>, le disque de mon PC explose. Je me bats régulièrement pour faire de la place sur le disque de 260Go mais c'est aussi ça l'inconvénient d'un portable&nbsp;: ce n'est pas très extensible…

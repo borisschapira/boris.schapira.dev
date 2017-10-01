@@ -6,6 +6,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-02-19'
+locale: fr_FR
 ---
 
 Dictateur, 5 ans, n'est pas très patient. Pour qu'il apprenne à gérer le temps qui passe, j'ai décidé de lui apprendre à lire l'heure mais pour un petit garçon qui a du mal à reconnaître et mémoriser l'ordre des chiffres, pas facile !

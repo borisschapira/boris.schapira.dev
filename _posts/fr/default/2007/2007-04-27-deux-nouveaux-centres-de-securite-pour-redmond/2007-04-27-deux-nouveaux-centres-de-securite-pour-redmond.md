@@ -6,6 +6,8 @@ categories:
 date: '2007-04-27'
 lang: fr
 type: post
+publishDate: '2007-04-27'
+locale: fr_FR
 ---
 
 Poursuivant la politique de lutte contre les applications malveillantes entamée par l'entreprise, Vinny Gulloto (un responsable de chez Microsoft) vient d'annoncer la création de deux centres de protection à Dublin et Tokyo.

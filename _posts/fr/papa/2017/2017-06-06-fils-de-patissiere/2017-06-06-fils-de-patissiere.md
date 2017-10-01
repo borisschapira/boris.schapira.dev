@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-06-06'
+locale: fr_FR
 ---
 
 Ce soir, mon koala nous raconte sa journée à l'école. Journée pendant laquelle ses camarades et lui ont fêté son anniversaire.

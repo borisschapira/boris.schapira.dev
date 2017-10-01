@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-04-18'
+locale: fr_FR
 ---
 
 Parkour, deux ans et demi, refuse de mettre son manteau pour sortir, alors que son grand-père lui demande. Comme il persiste, son grand-père élève la voix. Ayant refusé de faire la sieste, Parkour est épuisé et fond en larmes, criant son refus.

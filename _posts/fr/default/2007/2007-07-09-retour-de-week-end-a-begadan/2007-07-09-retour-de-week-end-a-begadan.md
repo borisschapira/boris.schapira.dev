@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-07-09'
+locale: fr_FR
 ---
 
 Petit week-end annuel avec mes amis de lycée.

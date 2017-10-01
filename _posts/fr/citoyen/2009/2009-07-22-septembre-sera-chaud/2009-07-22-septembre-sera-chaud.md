@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-07-22'
+locale: fr_FR
 ---
 
 Alors que s'entament les discussions autour d'Hadopi 2 à l'Assemblée Nationale, on commence à peine à le sentir&nbsp;: le sujet n'est pas prêt d'être consensuel. Mais entre l'explosion des affects et les déchirements politiques [au sein de l'opposition](http://tempsreel.nouvelobs.com/) comme au sein de la majorité, j'ai l'impression que la saga Hadopi arrive à point pour rappeler aux politiques qu'ils sont élus par le peuple, et que le peuple n'est pas très content de la situation actuelle.

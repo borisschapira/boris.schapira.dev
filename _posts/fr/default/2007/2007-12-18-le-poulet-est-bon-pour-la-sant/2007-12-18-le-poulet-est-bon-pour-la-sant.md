@@ -6,6 +6,8 @@ categories:
 date: '2007-12-18'
 lang: fr
 type: post
+publishDate: '2007-12-18'
+locale: fr_FR
 ---
 
 Je le disais il y a déjà quelques temps mais visiblement je suis de moins en moins seul à le penser. La preuve&nbsp;? J'ai réussi à en faire consommer à ma mère (facile) et j'en ai vu encore plein dans les rayons les plus en vue de la gare (moins facile). Il parait même que certains cuistots l'ont sélectionné pour [leur carte](http://police.etc.over-blog.net/article-14580115.html).

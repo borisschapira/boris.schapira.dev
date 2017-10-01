@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-03-28'
+locale: fr_FR
 ---
 
 Mon petit dernier vient d'apprendre à faire un cœur avec ses doigts. Il voudrait savoir le découper dans une feuille de papier…

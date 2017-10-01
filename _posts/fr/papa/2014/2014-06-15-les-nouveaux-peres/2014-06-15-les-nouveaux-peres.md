@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-06-15'
+locale: fr_FR
 ---
 
 Les "nouveaux pères" ou comment on construit une génération de pères "à l'ancienne" qui ne veulent pas être des premiers de la classe.

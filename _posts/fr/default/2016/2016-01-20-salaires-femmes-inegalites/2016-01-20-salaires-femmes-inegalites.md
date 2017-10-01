@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-01-20'
+locale: fr_FR
 ---
 
 > Que pensez-vous du plan d'action suivant :  

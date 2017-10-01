@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2017-01-24'
+locale: fr_FR
 ---
 ## Retour sur 2016
 

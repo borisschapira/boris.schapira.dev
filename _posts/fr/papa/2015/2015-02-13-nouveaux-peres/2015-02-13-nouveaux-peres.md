@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-02-13'
+locale: fr_FR
 ---
 
 Ma femme, avec une amie enceinte :

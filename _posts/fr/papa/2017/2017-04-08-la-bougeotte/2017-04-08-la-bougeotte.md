@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-04-08'
+locale: fr_FR
 ---
 
 Mon plus jeune fils ne tient pas en place deux minutes. Rester assis, pour lui, est un défi de chaque instant. 

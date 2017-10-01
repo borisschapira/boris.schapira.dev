@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2008-03-19'
+locale: fr_FR
 ---
 
 Toutes mes félicitations à toi,

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-04-09'
+locale: fr_FR
 ---
 
 > — Tu sais, je suis fâché. Je n'aime pas quand tu tapes ton grand frère.  

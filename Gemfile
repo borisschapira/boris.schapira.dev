@@ -26,4 +26,5 @@ gem 'jekyll-responsive_image', group: :jekyll_plugins
 gem 'jekyll-sitemap', group: :jekyll_plugins
 gem 'jekyll-tagging-related_posts', group: :jekyll_plugins
 gem 'octopress-autoprefixer', group: :jekyll_plugins
+gem 'jekyll-paginate-v2', '~> 1.8', '>= 1.8.1', group: :jekyll_plugins
 # end

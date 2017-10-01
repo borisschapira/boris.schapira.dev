@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2007-11-14'
+locale: fr_FR
 ---
 
 Aujourd'hui, demain, et tous les autres jours où vous ferez grève, j'irais travailler quand même.Vous ne me bloquerez pas, vous ne m'arrêterez pas, vous n'arrêterez pas l'activité de mon entreprise ou de la France.

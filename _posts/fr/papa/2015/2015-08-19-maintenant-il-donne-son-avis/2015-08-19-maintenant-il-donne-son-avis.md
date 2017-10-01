@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-08-19'
+locale: fr_FR
 ---
 
 > — Oh la la, je ne sais pas pourquoi on ne t'as pas appelé Silence, toi, ça nous aurait peut être aidé...  

@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-22'
+locale: fr_FR
 ---
 
 [BlogMusik](http://www.hugedomains.com/domain_profile.cfm?d=blogmusik&amp;e=com), jeune société crée en France en juin 2006, a changé de nom pour [Deezer](http://www.deezer.com) et signé des accords avec la SACEM…

@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-02-01'
+locale: fr_FR
 ---
 
 J'écrivais, il y a peu, que je pensais que [les français n'avaient pas soif de laïcité](/2016/01/laicite/ "Laïcité") mais étaient, en réalité, terrifiés par un ennemi imaginaire. Dimanche, je découvrais ce terrifiant sondage du _Journal du Dimanche_ (en fin d'article).

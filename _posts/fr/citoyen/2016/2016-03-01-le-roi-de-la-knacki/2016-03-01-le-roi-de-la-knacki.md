@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-03-01'
+locale: fr_FR
 ---
 
 Je rentre dans le bus et m'installe. Comme tous les jours, je porte un casque qui me protège, un peu, du bruit ambiant. Aujourd'hui, ça ne sert à rien : un adolescent parle tellement fort qu'il est impossible de ne pas l'entendre.

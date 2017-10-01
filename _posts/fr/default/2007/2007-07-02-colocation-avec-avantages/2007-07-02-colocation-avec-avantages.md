@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-07-02'
+locale: fr_FR
 ---
 
 **EDIT&nbsp;:** La réponse de l'intéressée

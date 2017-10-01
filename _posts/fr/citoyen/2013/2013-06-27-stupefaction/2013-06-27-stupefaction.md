@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2013-06-27'
+locale: fr_FR
 ---
 
 Jeune papa pour la seconde fois, je décide ce soir de porter mon fils en écharpe, comme je l'avais déjà fait pour son grand frère.

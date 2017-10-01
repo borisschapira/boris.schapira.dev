@@ -4,53 +4,55 @@
       {% if paginator.previous_page == 1 %}
         <li><a href="/" title="Accueil">&lsaquo;</a></li>
       {% else %}
-        <li><a href="/{{paginator.previous_page}}"  title="Page précédente">&lsaquo;</a></li>
+        <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"  title="Page précédente">&lsaquo;</a></li>
       {% endif %}
     {% else %}
       <li class="disabled">&lsaquo;</li>
     {% endif %}
 
-    {% if paginator.page == 1 %}
-      <li><strong>1</strong></li>
-    {% else %}
-      <li><a href="/" title="Accueil">1</a></li>
-    {% endif %}
-
-    {% assign page_start = 2 %}
-    {% if paginator.page > 5 %}
-      {% assign page_start = paginator.page | minus: 2 %}
-      <li class="disabled">…</li>
-    {% endif %}
-
-    {% assign page_end = paginator.total_pages | minus: 1 %}
-    {% assign to_end = paginator.total_pages | minus: paginator.page %}
-    {% if to_end > 4 %}
-      {% assign page_end = paginator.page | plus: 2 %}
-    {% endif %}
-
-    {% for index in (page_start..page_end) %}
-      {% if index == paginator.page %}
-        <li><strong>{{index}}</strong></li>
+    {% comment %}
+      {% if paginator.page == 1 %}
+        <li><strong>1</strong></li>
       {% else %}
-        <li><a href="/{{index}}" title="Page {{index}}">{{index}}</a></li>
+        <li><a href="/" title="Accueil">1</a></li>
       {% endif %}
-    {% endfor %}
 
-    {% if to_end > 4 %}
-      <li class="disabled">…</li>
-    {% endif %}
+      {% assign page_start = 2 %}
+      {% if paginator.page > 5 %}
+        {% assign page_start = paginator.page | minus: 2 %}
+        <li class="disabled">…</li>
+      {% endif %}
 
-    {% if paginator.page == paginator.total_pages %}
-      <li><strong>{{paginator.page}}</strong></li>
-    {% else %}
-      <li><a href="/{{paginator.total_pages}}" title="Dernière page">{{paginator.total_pages}}</a></li>
-    {% endif %}
+      {% assign page_end = paginator.total_pages | minus: 1 %}
+      {% assign to_end = paginator.total_pages | minus: paginator.page %}
+      {% if to_end > 4 %}
+        {% assign page_end = paginator.page | plus: 2 %}
+      {% endif %}
+
+      {% for index in (page_start..page_end) %}
+        {% if index == paginator.page %}
+          <li><strong>{{index}}</strong></li>
+        {% else %}
+          <li><a href="/{{index}}" title="Page {{index}}">{{index}}</a></li>
+        {% endif %}
+      {% endfor %}
+
+      {% if to_end > 4 %}
+        <li class="disabled">…</li>
+      {% endif %}
+
+      {% if paginator.page == paginator.total_pages %}
+        <li><strong>{{paginator.page}}</strong></li>
+      {% else %}
+        <li><a href="/{{paginator.total_pages}}" title="Dernière page">{{paginator.total_pages}}</a></li>
+      {% endif %}
+    {% endcomment %}
 
     {% if paginator.next_page %}
       {% if paginator.next_page == paginator.total_pages %}
         <li class="disabled">&raquo;</li>
       {% else %}
-        <li><a href="/{{paginator.next_page}}" title="Page suivante">&rsaquo;</a></li>
+        <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" title="Page suivante">&rsaquo;</a></li>
       {% endif %}
     {% else %}
       <li class="disabled">&rsaquo;</li>

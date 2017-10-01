@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-06-23'
+locale: fr_FR
 ---
 
 Si vous développez avec Vagrant sous Windows, vous avez probablement déjà vu ce message&nbsp;:

@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-12-31'
+locale: fr_FR
 ---
 
 Vous ne trouvez pas qu'il est vraiment difficile de faire ses vœux aujourd'hui&nbsp;? Imaginons que vous vouliez envoyer un message à vos connaissances…

@@ -6,6 +6,8 @@ categories:
 date: '2007-10-21'
 lang: fr
 type: post
+publishDate: '2007-10-21'
+locale: fr_FR
 ---
 
 Lundi doit être lue aux lycéens la &quot;Lettre de Guy Moquet&quot; et on entend déjà plusieurs groupes enseignants qui se refusent à lire la lettre aux élèves. Mais pourquoi&nbsp;?

@@ -7,6 +7,8 @@ categories:
     - default
 tags:
     - anecdotes
+publishDate: '2017-05-15'
+locale: fr_FR
 ---
 
 [Le souvenir du mois dernier](/2017/04/de-vrais-gens-derriere/) en a appelé un autre, tout aussi mémorable…

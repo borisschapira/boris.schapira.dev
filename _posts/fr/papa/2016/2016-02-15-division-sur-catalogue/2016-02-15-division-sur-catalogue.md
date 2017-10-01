@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-02-15'
+locale: fr_FR
 ---
 
 ## sur catalogue

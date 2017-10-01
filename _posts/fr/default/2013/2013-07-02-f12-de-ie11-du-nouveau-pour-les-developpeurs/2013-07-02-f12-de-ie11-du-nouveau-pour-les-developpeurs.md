@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2013-07-02'
+locale: fr_FR
 ---
 
 Cela fait un petit moment que je n’avais pas vu de challenger sérieux aux Dev. Tools de Chrome (de nombreuses études montrent que Firebug pénalise le Firefox sur lequel il est installé, faussant ainsi les mesures réalisées au niveau WebPerf, par exemple).

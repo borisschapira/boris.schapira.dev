@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-04-02'
+locale: fr_FR
 ---
 
 Lors du **G20**, qui démarrera d'ici quelques minutes, les chefs d'État des plus grand puissants pays du monde devraient aborder l'épineux problèmes de la régulation de la Finance internationale. À cette occasion, je vous invite à lire (ou à relire) mes trois résumés des _Entretiens de l’AMF 2008_ dont les conclusions pourront servir lors des réflexions de ces prochains jours.

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-06-13'
+locale: fr_FR
 ---
 
 > — Et qu'est-ce qu'il te manque, là, chéri ?  

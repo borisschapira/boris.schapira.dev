@@ -5,6 +5,8 @@ categories:
 date: '2009-01-19'
 lang: fr
 type: post
+publishDate: '2009-01-19'
+locale: fr_FR
 ---
 
 Parfois, mon âme s'envole. Ca ne vous arrive pas, à vous&nbsp;? Les symptômes sont pourtant évidents&nbsp;! Vous faisiez quelque chose d'important et la minute d'après, vous vous retrouvez le regard vide, concentré sur un élément flottant dans l'air dont seul votre cerveau perçoit l'existence invisible. Vous vous réveillez soudain de votre torpeur et reprenez votre activité… Vous sentez le léger sommeil qui vous parcourt&nbsp;? C'est votre âme qui retrouve son enveloppe après un petit tour…

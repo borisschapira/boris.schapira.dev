@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-02-14'
+locale: fr_FR
 ---
 
 Vous êtes étudiant de formation Ingénieur niveau Bac +5.

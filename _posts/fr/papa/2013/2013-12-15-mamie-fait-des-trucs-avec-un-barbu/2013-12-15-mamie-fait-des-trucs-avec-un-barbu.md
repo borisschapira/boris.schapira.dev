@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-12-15'
+locale: fr_FR
 ---
 
 > — Allez mon cœur, papa chante et tu complètes les trous : Petit papa...  

@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2018-03-03'
+locale: fr_FR
 ---
 
 Pour ne pas commettre les erreurs du passé, encore faut-il s'en souvenir.

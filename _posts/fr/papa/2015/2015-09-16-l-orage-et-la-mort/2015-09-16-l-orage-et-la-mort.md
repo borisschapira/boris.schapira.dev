@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-09-16'
+locale: fr_FR
 ---
 
 Discussion avec le grand. Parfois, je ne sais pas trop où il m'emmène...

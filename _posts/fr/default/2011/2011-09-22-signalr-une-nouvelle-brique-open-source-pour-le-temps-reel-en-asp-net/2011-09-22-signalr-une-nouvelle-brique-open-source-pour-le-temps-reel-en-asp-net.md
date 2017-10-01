@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2011-09-22'
+locale: fr_FR
 ---
 
 Cela faisait longtemps qu’on l’attendait et la voici : la réponse de Microsoft aux technologies de Web Temps Réel qui fleurissent autour de Node.js.

@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2013-08-06'
+locale: fr_FR
 ---
 
 StrangeLoop (faisant désormais partie de Radware) vient de publier son rapport annuel sur la performance Web des sites e-commerces. Se basant sur le classement Alexa, ils ont moyenné les performances de plus de 500 vendeurs. Et comme [l’année dernière](/2012/01/le-commerce-reste-lent/), les résultats sont décevants.

@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-06-01'
+locale: fr_FR
 ---
 
 Nous revenons de 4 jours sur Bordeaux durant lesquels nous avons fait le tour de quelques photographes…

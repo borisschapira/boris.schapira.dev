@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-06-21'
+locale: fr_FR
 ---
 
 Il y avait une araignée à côté de la piscine dans laquelle les garçons barbotaient, alors leur Papy a dit qu'il fallait l'écraser.

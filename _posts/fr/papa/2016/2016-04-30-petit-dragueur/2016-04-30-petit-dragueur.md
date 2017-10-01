@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-04-30'
+locale: fr_FR
 ---
 
 Gros câlin avec mon petit koala…

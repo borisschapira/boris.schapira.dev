@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-09-13'
+locale: fr_FR
 ---
 
 Un dîner classique avec les enfants, ma femme craque :

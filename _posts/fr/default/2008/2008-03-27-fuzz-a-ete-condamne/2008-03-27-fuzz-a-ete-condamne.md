@@ -11,6 +11,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-03-27'
+locale: fr_FR
 ---
 
 [Fuzz a été condamné](http://www.presse-citron.net/?2008/03/27/3217-affaire-olivier-martinez-vs-fuzz-fuzz-condamne), une décision qui m'attriste.

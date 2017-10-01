@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-19'
+locale: fr_FR
 ---
 
 Bill Gates a annoncé aujourd'hui à Beijing le lancement d'un programme permettant aux populations des **pays émergeants** d'obtenir des **versions allégées de Windows, Office et d'autres logiciels pour 3$**.

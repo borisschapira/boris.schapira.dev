@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-03-07'
+locale: fr_FR
 ---
 
 Ce week-end, je rentre dans une boutique de belles chemises et de cravates. Le grand me suit. 

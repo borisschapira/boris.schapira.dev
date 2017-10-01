@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-06-17'
+locale: fr_FR
 ---
 
 Votre collègue a fait une <abbr title="Pull Request">PR</abbr> ou une <abbr title="Merge Request">MR</abbr> et vous ne comprenez pas pourquoi elle ne passe pas le _build_ ? Vous pouvez la récupérer en local pour l'exécuter.

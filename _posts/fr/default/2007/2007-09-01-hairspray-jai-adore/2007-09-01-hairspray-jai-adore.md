@@ -6,6 +6,8 @@ categories:
 date: '2007-09-01'
 lang: fr
 type: post
+publishDate: '2007-09-01'
+locale: fr_FR
 ---
 
 Sur les conseils de collègues et de voisins, je me suis rendu cet après-midi au cinéma pour une petite pause obscure entre deux joggings (4h de sport dans la semaine, j'avais bien besoin de me remettre…). Je n'ai pas été déçu.

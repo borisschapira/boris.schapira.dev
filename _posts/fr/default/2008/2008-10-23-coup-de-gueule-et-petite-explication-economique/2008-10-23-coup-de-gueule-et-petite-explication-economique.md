@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-10-23'
+locale: fr_FR
 ---
 
 **Petit bilan de la situation&nbsp;: la crise sème le doute parmi l'ensemble des banques, qui n'osent plus se prêter de l'argent entre elles, sans parler des entreprises et des particuliers. Quelle solution le gouvernement propose-t-il?

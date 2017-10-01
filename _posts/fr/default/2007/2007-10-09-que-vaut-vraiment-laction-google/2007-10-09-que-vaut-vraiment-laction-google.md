@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-10-09'
+locale: fr_FR
 ---
 
 On parle beaucoup du cours de l'action Google, qui avoisine dernièrement les 600 dollars.

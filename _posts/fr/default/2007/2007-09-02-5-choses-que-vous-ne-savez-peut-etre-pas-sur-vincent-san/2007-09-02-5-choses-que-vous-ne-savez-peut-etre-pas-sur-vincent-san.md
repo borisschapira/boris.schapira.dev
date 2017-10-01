@@ -5,6 +5,8 @@ categories:
 date: '2007-09-02'
 lang: fr
 type: post
+publishDate: '2007-09-02'
+locale: fr_FR
 ---
 
 En tant que fidèle lecteur du blog, fidèle relecteur de mes fautes de design et de grammaire, fidèle animateur de mes commentaires et fidèle camarade qui m'avait retrouvé, il y a longtemps de cela, le titre d'un film, Vincent-san mérite bien qu'on révèle quelques-un de ses secrets&nbsp;:

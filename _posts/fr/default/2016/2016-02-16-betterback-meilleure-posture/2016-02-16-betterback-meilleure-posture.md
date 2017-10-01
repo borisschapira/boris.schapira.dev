@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-02-16'
+locale: fr_FR
 ---
 
 Suite aux conseils de mon cousin, je me suis procuré un [<em lang="en">BetterBack</em>](http://getbetterback.com/). Expérience d'achat très positive, attente un peu longue (2 mois environ) mais finalement un produit bien fini et agréable au toucher.

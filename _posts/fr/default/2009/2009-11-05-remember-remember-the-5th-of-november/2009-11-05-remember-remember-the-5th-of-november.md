@@ -6,6 +6,8 @@ categories:
 date: '2009-11-05'
 lang: fr
 type: post
+publishDate: '2009-11-05'
+locale: fr_FR
 ---
 
 _**Frednetick **se posait hier la question «[Et si l'on se passait du Parlement&nbsp;?](http://frednetick.fr/)». Hasard du calendrier, il a un jour d'avance (ou beaucoup de retard) sur **Guy Fawkes**, qui lui-même avait décidé de [prendre les choses en main](http://fr.wikipedia.org/wiki/Conspiration_des_poudres) dès 1605…_

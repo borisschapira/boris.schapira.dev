@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-02-25'
+locale: fr_FR
 ---
 
 > Le revenu universel suppose la primauté de l’équité et du social sur l’efficacité et l’économique.  

@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2008-11-19'
+locale: fr_FR
 ---
 
 > Le "Rapport Hadopi", offert gracieusement aujourd’hui mercredi 19 novembre à la Ministre de la Culture, n’est ni plus ni moins qu’une opération d’intox, reprise en cœur dans les média la semaine dernière, menée par l’industrie de la Culture et destinée à influencer le parlement, qui doit voter la loi Hadopi en janvier prochain.  

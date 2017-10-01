@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-15'
+locale: fr_FR
 ---
 
 D'esprit cartésien, j'ai toujours cru en l'immuabilité de certaines choses. Pour moi, ma droite est du côté où j'écris, ce qui ne change jamais et par conséquent, ma gauche est de l'autre côté. Pour moi, un nombre plus grand qu'un autre le sera toujours demain et je ne conçois pas que ces choses changent.

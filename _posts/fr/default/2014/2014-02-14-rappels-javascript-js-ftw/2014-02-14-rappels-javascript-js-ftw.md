@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-02-14'
+locale: fr_FR
 ---
 
 J'ai animé il y a quelques jours une présentation chez [Clever Age](http://www.clever-age.com/fr/) autour de JavaScript.

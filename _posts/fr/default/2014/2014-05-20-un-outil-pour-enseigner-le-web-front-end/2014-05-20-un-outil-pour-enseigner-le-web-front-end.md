@@ -12,6 +12,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-05-20'
+locale: fr_FR
 ---
 
 ## suite d'un atelier Sud Web 2014

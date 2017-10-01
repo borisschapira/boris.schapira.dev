@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-01-04'
+locale: fr_FR
 ---
 
 > À la crèche, un parent appelle son enfant.  

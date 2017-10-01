@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2011-11-30'
+locale: fr_FR
 ---
 
 Clairement le début d'une **nouvelle ère**. 

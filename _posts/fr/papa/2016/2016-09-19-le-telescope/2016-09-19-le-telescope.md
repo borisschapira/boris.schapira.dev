@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-09-19'
+locale: fr_FR
 ---
 
 Excité par le visionnage de l'Exoconférence, je parle d'espace aux garçons.

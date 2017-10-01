@@ -5,6 +5,8 @@ categories:
 date: '2007-09-14'
 lang: fr
 type: post
+publishDate: '2007-09-14'
+locale: fr_FR
 ---
 
 _Divers sont les pièges à éviter lorsqu&#x2019;on décide de se rendre dans une de ces fabuleuses soirées de blogueurs o&#xF9; l&#x2019;on peut rencontrer autant de personnages captivants que de croc-cartes à la recherche de contacts influents&#x2026;_

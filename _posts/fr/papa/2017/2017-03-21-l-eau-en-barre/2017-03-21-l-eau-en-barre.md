@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-03-21'
+locale: fr_FR
 ---
 
 En reprenant mes notes (qui sont légion), je retombe sur une anecdote, jamais reprise ici, qui date d'octobre dernier…

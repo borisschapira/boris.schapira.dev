@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-12-07'
+locale: fr_FR
 ---
 
 Ma femme rentre énervée un soir :

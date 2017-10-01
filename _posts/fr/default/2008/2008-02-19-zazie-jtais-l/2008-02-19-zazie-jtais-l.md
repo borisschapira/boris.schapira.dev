@@ -6,6 +6,8 @@ categories:
 date: '2008-02-19'
 lang: fr
 type: post
+publishDate: '2008-02-19'
+locale: fr_FR
 ---
 
 J'ai toujours bien aimé les chansons de Zazie. Réfléchies, engagées, parfois à sens multiples et souvent d'une originalité que peu d'artistes sont capables de conserver avec le temps. Avec ce nouveau single, elle confirme tout le bien que je pense d'elle.

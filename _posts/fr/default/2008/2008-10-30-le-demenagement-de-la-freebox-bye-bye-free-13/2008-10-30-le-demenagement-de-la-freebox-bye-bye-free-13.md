@@ -10,6 +10,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-10-30'
+locale: fr_FR
 ---
 
 Mon histoire avec **Free **est aussi longue que ma relation au **Web**. Free m'a accompagné dans mon premier studio. Free m'a offert mon premier abonnement **Triple-Play**. J'ai été co-administrateur d'un réseau étudiant de 180 machines connectées sur 3 Freebox. Et lorsque j'ai déménagé à Boulogne, j'ai pris ma **Freebox **sous le bras. Autant dire que Free et moi étions devenus inséparables. **Je pardonnais beaucoup à Free**, même de m'avoir prélevé pendant plusieurs mois des sommes relatives à une freebox que je leur avais renvoyé (et qu'ils ont miraculeusement trouvée trois jours après que j'aie dénoncé la supercherie… sans pour autant me rembourser). Si je fais cette introduction, c'est pour que vous compreniez bien à quel **degré d'énervement** Free m'a poussé dans ce qui n'est qu'un simple **déménagement** entre deux appartements avec **conservation de la Freebox**.

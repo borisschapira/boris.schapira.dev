@@ -6,6 +6,8 @@ categories:
 date: '2008-06-11'
 lang: fr
 type: post
+publishDate: '2008-06-11'
+locale: fr_FR
 ---
 
 Saurez-vous retrouver certains lieu un peu… spéciaux&nbsp;? Un rond point particulièrement tordu&nbsp;? Une école dont le panneau destiné aux automobilistes est dans la cour&nbsp;? Un dessin cochon visible depuis l'espace&nbsp;?

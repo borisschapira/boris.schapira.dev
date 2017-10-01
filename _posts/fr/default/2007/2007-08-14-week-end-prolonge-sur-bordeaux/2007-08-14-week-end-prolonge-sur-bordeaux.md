@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-14'
+locale: fr_FR
 ---
 
 Ca faisait longtemps que je n'étais pas redescendu dans le sud-ouest voir la famille et j'avoue que prendre un jour pour rallonger un peu le week-end, et bien ça change tout.

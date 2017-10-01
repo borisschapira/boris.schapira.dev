@@ -6,6 +6,8 @@ categories:
 date: '2008-10-16'
 lang: fr
 type: post
+publishDate: '2008-10-16'
+locale: fr_FR
 ---
 
 **1\. Trouver des coupables et les rabaisser

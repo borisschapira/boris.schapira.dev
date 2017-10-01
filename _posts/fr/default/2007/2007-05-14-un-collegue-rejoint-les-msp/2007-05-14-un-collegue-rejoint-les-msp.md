@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-05-14'
+locale: fr_FR
 ---
 
 La communauté Microsoft Student Partner intègre régulièrement de nouveaux membres passionnés de technologies. Ces nouveaux étudiants ne sont pas forcément des cracks en informatique, mais ils ont la passion de la chose, cette envie d'avancer, de comprendre, de découvrir et de faire découvrir.

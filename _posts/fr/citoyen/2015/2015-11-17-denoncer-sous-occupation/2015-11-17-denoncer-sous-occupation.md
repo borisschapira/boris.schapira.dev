@@ -6,6 +6,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-11-17'
+locale: fr_FR
 ---
 
 > Les Français ont massivement dénoncé sous l’Occupation. Loin d’être cachée, loin d’être un acte individuel honteux, la délation est un acte social, un devoir. Si tout le monde est concerné, ennemis de l’État, communistes, résistants, gaullistes...la dénonciation antisémite reste sans aucun doute la plus redoutable. Elle représente 15 % des actes de dénonciation mais chaque lettre, chaque information est immédiatement vérifiée et le dénoncé traqué.  

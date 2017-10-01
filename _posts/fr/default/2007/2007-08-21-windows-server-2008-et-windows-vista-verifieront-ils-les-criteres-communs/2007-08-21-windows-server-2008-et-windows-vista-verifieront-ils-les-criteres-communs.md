@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-21'
+locale: fr_FR
 ---
 
 Les Critères Communs, décrits par le [NIAP](https://www.niap-ccevs.org/index.cfm?&amp;CFID=271507&amp;CFTOKEN=510b74cc682fa98f-789578AF-A471-243B-5D522F6FC64D77AE), définissent des standards en termes d'objectifs de sécurité et de conformité à ces objectifs.

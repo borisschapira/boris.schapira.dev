@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-06-16'
+locale: fr_FR
 ---
 
 Souvent, pour être parent, il faut beaucoup de patience. Et parfois, juste, beaucoup de mémoire car il faut se rappeler de tout, tout ce qu'on a dit.

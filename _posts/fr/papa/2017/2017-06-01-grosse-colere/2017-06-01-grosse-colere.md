@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-06-01'
+locale: fr_FR
 ---
 
 Mon grand veut qu'on écoute la bande originale de [Double Kick Heroes](http://www.doublekickheroes.rocks/) (un jeu Steam dont on a croisé les développeur au Bordeaux Geek Festival) parce qu'il kiffe la jaquette du CD. Piste 5, Death Metal.

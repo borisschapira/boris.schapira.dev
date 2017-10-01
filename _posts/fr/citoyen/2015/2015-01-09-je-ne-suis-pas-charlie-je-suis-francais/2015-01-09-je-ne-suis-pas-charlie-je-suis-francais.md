@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-01-09'
+locale: fr_FR
 ---
 
 ## précisions pour ceux qui s'offusquent

@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2007-05-03'
+locale: fr_FR
 ---
 
 Je retire ce que je disais, les médias n'ont pas attendu la fin de l'élection présidentielle pour dire qui a été le meilleur dans le débat&nbsp;: un sondage Opinionway pour le Figaro et LCI leur permet d'affirmer la supériorité de Nicolas Sarkozy pour 53 % des 978 français interrogés (contre 37 % pour la candidate Mme Royal).

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-02-15'
+locale: fr_FR
 ---
 
 > — C'est quoi que tu manges, là ?  

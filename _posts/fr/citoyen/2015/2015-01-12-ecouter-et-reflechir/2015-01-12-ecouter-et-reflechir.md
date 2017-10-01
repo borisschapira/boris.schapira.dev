@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-01-12'
+locale: fr_FR
 ---
 
 Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers jours.

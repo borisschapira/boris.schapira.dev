@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-12-11'
+locale: fr_FR
 ---
 
 ## Merci pour ce témoignage, Madame

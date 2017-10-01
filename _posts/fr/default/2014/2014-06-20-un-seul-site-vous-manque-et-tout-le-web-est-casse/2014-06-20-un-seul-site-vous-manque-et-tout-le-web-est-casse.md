@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-06-20'
+locale: fr_FR
 ---
 Ce détournement de la fameuse citation d'Alphonse de Lamartine est bien sûr dédié à la chute, hier dans la matinée, de Facebook.
 

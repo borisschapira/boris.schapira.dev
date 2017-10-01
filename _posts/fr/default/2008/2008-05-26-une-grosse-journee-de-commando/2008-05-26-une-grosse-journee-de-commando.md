@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-05-26'
+locale: fr_FR
 ---
 
 On me demande souvent en quoi consiste mon métier. Officiellement, cela s'appelle "Commando Front Office" mais entre nous, c'est avant tout un poste d'ingénieur en développement informatique. Malgré cela, il est difficile de ranger notre équipe de 5 personnes dans un stéréotype courant. "Support informatique" ne met pas en avant l'aspect fonctionnel de nos interventions et "Support Front et Middle Office" efface notre activité de développement informatique, pourtant au cœur du métier. Le plus simple est donc, peut-être, de raconter ce que peut être une bonne journée de travail. Désolé pour les mots barbares, mais si je commence à tout expliquer l'article va être très, très long…

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-02-01'
+locale: fr_FR
 ---
 
 Le petit dernier, 2 ans ½, et ses réflexions profondes…

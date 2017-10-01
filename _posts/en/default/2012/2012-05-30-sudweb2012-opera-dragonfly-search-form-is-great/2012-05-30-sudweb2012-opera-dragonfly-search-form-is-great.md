@@ -5,6 +5,8 @@ lang: en
 type: post
 categories:
     - default
+publishDate: '2012-05-30'
+locale: en_US
 ---
 
 _I had planned for several months to go to Toulouse for the [SudWeb Conference and Workshops](http://sudweb.fr/2012/), and I had even proposed a subject. Even if my submission had not been selected, I was very proud to go there and meet people united by the common values of Web Standards, innovation, agility… and long story short, I finaly became a speacker but that's another story._

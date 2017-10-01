@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-09-24'
+locale: fr_FR
 ---
 
 Despote, 3 ans, se regarde fixement dans le miroir.

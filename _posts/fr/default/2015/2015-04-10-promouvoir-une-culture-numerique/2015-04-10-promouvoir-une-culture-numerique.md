@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-04-10'
+locale: fr_FR
 ---
 
 ## il n'est jamais trop tard

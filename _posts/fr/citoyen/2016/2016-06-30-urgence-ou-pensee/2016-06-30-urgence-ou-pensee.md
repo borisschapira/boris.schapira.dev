@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-06-30'
+locale: fr_FR
 ---
 
 > Et plus ça dure, plus le refrain s'épuise. Faire vite, répondre tout de suite ! Entrer dans la course-poursuite en se disant qu'après tout, on a les jambes pour reprendre le dessus. Et si finalement, c'était une partie du piège ? Tant que l'on court, on oublie de regarder autour. Si cette urgence nous empêche de penser, quelles blessures peut-elle bien panser ?  

@@ -5,6 +5,8 @@ categories:
 date: '2007-06-10'
 lang: fr
 type: post
+publishDate: '2007-06-10'
+locale: fr_FR
 ---
 
 *   Un dossier sur ma vision de l'industrie du Logiciel Libre (mon gros morceau du moment).

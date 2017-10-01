@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-06-17'
+locale: fr_FR
 ---
 
 ## ou l'absurdité d'une PPL sur le code à l'Ecole

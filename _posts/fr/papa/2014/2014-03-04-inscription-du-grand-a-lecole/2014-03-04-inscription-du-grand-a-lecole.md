@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-03-04'
+locale: fr_FR
 ---
 
 On nous a affecté à la Maternelle qui ne nous arrange pas logistiquement, donc on a fait une dérogation qui va prendre 15 jours à être traitée.

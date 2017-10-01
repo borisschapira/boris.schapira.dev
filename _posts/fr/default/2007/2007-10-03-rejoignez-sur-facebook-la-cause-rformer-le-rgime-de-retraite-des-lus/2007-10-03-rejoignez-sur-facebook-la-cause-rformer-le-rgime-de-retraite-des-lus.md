@@ -6,6 +6,8 @@ categories:
 date: '2007-10-03'
 lang: fr
 type: post
+publishDate: '2007-10-03'
+locale: fr_FR
 ---
 
 > Nous souhai­tons que soit déposé à l’As­sem­blée Natio­nale un amen­de­ment visant à réfor­mer le régime spécial de retraite des élus.  

@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-03-07'
+locale: fr_FR
 ---
 
 Je viens de mettre la main sur un très sympa petit Add-on pour Vista, développé par un Microsoftee de la Windows Dev Team&nbsp;: [Brandon Paddock](http://brandonlive.com/2007/02/22/new-tool-i-made-for-vista-start/).

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-01-22'
+locale: fr_FR
 ---
 
 > — Tu veux m'aider à faire à manger ? Très bien, alors on va commencer par lancer les pâtes pour ton frère.  

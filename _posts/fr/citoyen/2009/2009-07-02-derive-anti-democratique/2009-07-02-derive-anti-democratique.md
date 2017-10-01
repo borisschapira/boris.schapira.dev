@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-07-02'
+locale: fr_FR
 ---
 
 Lorsque je lis l'actualité du Gouvernement, j'ai de plus en plus l'impression que le Parlement (autrement appelé Assemblée Nationale) est présenté comme un obstacle, un parcours du combattant durant lequel les "meilleures" lois sont sabotées par de vils députés.

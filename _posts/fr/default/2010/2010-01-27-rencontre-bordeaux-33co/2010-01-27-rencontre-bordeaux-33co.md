@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-01-27'
+locale: fr_FR
 ---
 
 Maintenant que la page parisienne de ma vie est tournée (et je ne suis pas mécontent), il est temps pour moi de découvrir les opportunités qu'offre Bordeaux. Cette ville, magnifique et que j'aime, je la connais finalement assez mal, surtout au niveau du tissus socio-économique.

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2017-02-28'
+locale: fr_FR
 ---
 
 > — Uber :  la plus grande compagnie de taxi au monde, ne possède aucun véhicule.  

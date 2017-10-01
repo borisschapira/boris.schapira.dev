@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-02-05'
+locale: fr_FR
 ---
 
 Petite sélection des plus beaux moments d'ingratitude de mes fils qui prennent leur indépendance, pour mon plus grand plaisir (mais avec un petit pincement au cœur quand même).

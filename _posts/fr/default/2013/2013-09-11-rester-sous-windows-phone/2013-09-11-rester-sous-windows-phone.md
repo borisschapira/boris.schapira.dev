@@ -10,6 +10,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2013-09-11'
+locale: fr_FR
 ---
 
 Je ne sais plus quoi penser de Windows Phone. J'aime beaucoup la plate-forme, autant au niveau de son architecture logicielle que de son design, mais j'ai du mal à voir son avenir.

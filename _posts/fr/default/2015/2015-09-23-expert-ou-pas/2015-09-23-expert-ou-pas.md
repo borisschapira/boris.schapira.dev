@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-09-23'
+locale: fr_FR
 ---
 
 En entreprise, une compétence est rarement absolue, elle s'évalue souvent en fonction d'un savoir-faire, d'un savoir-être ou d'un savoir-communiquer qui ne peut se mesurer que par rapport à d'autres. Du novice à l'expert, il faut gérer les différents niveaux d'intuition pour constituer les meilleures équipes, celle qui permettent à chacun de s'épanouir dans le niveau de compétence ciblé (qui n'est pas nécessairement le plus haut en terme d'expertise).

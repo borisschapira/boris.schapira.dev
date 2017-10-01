@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-04-17'
+locale: fr_FR
 ---
 
 Il me dirige sur le chemin qui amène de chez sa Mamie à chez son arrière grand-mère, "Mémé".

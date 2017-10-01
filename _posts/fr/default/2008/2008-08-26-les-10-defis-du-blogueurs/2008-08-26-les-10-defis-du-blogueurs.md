@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-08-26'
+locale: fr_FR
 ---
 
 &lt;

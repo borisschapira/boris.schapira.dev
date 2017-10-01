@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-01-27'
+locale: fr_FR
 ---
 
 Il commence à m'énerver, à ne pas vouloir lâcher son modèle de contrat basé sur la défiance.  

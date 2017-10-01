@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-03-14'
+locale: fr_FR
 ---
 
 Ce n'était QUE hier. Donc aujourd'hui, debout 5h25. Normal.

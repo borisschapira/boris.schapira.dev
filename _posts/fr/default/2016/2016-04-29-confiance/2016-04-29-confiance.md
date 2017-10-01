@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-04-29'
+locale: fr_FR
 ---
 
 Un de mes clients souhaite me parler de son projet, que nous avons réalisé. Il a besoin d'y apporter des évolutions et souhaite mon avis. J'essaie de répondre à la fois avec une présentation claire des limites du projet mais aussi la proposition détaillée d'une solution potentielle, ne cachant pas les coûts associés et explicitant les complexités, y compris fonctionnelles.

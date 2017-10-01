@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-05-13'
+locale: fr_FR
 ---
 
 J'avais promis de rédiger un article de présentation de SharePoint, le voici. Mais même après plusieurs mois de stage, il est encore difficile de décrire avec précision l'ensemble des possibilités de SharePoint, tant la solution semble vaste et complète. Pour faire simple, voici les grandes lignes.

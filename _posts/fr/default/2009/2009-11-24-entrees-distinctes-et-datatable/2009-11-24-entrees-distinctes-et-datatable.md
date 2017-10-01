@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-11-24'
+locale: fr_FR
 ---
 
 Vous avez souvent eu un `DataSet` dont vous vouliez considérer une colonne pour alimenter une liste déroulante pour réaliser, par exemple, un filtre ?

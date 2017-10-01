@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-05-13'
+locale: fr_FR
 ---
 
 ## Pour mieux apprivoiser nos matériels

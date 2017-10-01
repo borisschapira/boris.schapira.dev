@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-01-31'
+locale: fr_FR
 ---
 
 > Si vous avez des idées sur comment utiliser ces ordinateurs, vous pouvez prendre contact avec cette mission.  

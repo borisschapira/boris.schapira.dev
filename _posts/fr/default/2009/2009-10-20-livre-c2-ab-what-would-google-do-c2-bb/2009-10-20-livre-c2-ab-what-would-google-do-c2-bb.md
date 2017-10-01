@@ -10,6 +10,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-10-20'
+locale: fr_FR
 ---
 
 _**What Would Google Do**, que vous trouverez en français sous le titre __La Méthode Google est un essai de Jeff Jarvis, professeur de journalisme à NYU et homme de medias. Il y dissèque la stratégie de Google pour en extraire quelques grands principes et ensuite les appliquer à plusieurs types d'entreprises._

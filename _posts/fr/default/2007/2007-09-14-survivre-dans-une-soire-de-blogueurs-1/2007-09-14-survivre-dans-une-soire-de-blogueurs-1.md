@@ -5,6 +5,8 @@ categories:
 date: '2007-09-14'
 lang: fr
 type: post
+publishDate: '2007-09-14'
+locale: fr_FR
 ---
 
 Divers sont les pièges à éviter lorsqu’on décide de se rendre dans une de ces fabu­leuses soirées de blogueurs où l’on peut rencon­trer autant de person­nages capti­vants que de croc-cartes à la recherche de contacts influents…

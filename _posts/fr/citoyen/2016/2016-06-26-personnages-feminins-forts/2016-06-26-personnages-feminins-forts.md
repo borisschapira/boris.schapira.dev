@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-06-26'
+locale: fr_FR
 ---
 
 > Je pense que la vraie force de Sansa c'est qu'elle ne se bat pas. Dans un monde où c'est la solution de base, Sansa est [un] des personnages avec l'évolution la plus intéressante.  

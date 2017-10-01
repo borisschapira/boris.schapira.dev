@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-16'
+locale: fr_FR
 ---
 
 WPF existait en version embarquable sur XP et MacOS sous le nom WPF/E ("E" pour Everywhere). Il faudra désormais l'appelé Silverlight. De plus amples informations devraient être disponibles sous peu sur [le site dédié](http://www.microsoft.com/silverlight/).

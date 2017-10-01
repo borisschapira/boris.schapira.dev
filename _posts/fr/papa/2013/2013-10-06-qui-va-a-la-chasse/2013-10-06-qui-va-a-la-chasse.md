@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-10-06'
+locale: fr_FR
 ---
 
 > — Papa, biberon !  

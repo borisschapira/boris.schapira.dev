@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-05-12'
+locale: fr_FR
 ---
 
 J'adore les gens qui ne te connaissent pas et posent des questions quand même. Avec mon grand, ils finissent toujours mal à-l'aise.

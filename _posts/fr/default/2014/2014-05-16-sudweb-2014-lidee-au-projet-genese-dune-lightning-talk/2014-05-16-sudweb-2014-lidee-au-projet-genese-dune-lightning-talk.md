@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-05-16'
+locale: fr_FR
 ---
 
 ## génèse de ma conférence pour Sud Web 2014

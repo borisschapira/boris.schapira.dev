@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-09-25'
+locale: fr_FR
 ---
 
 On retrouve un microscope chez ma mère alors j'en profite pour montrer aux garçons quelques trucs.

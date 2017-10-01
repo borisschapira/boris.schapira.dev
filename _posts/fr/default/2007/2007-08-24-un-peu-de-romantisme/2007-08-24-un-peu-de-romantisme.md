@@ -6,6 +6,8 @@ categories:
 date: '2007-08-24'
 lang: fr
 type: post
+publishDate: '2007-08-24'
+locale: fr_FR
 ---
 
 Comme quoi on peut faire une belle pub avec des jeunes qui s'aiment et ça fait plaisir. Par contre je préfère quand même la version rédigée à la version orale…

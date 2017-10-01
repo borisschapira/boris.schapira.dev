@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-12-25'
+locale: fr_FR
 ---
 
 Il est 04h15 et, aussi rare que cela soit, mon grand chuchote.

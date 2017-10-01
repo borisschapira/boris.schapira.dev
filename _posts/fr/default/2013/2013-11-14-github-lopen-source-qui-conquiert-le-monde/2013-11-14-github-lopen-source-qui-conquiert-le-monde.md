@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2013-11-14'
+locale: fr_FR
 ---
 
 Difficile pour un développeur, en 2013, de ne pas savoir se servir de GitHub. Bien que jeune, la plate-forme d’hébergement de projets logiciels est probablement aujourd’hui le plus gros dépôt collaboratif du monde avec plus de trois millions d’utilisateurs et six millions de dépôts.

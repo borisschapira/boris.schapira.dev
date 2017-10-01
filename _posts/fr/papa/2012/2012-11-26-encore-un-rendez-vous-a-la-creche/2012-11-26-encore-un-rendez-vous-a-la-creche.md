@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2012-11-26'
+locale: fr_FR
 ---
 
 Quand les responsables de crèches essaient absolument de te faire placer ton gosse ailleurs :

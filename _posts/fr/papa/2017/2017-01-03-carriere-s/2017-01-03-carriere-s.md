@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-01-03'
+locale: fr_FR
 ---
 
 Nous expliquons régulièrement aux enfants que nous les aimerons quoi qu'il arrive, quoi qu'ils deviennent dans la vie.

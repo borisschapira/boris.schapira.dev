@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-09-26'
+locale: fr_FR
 ---
 
 ## Valorisation vs. Priorisation

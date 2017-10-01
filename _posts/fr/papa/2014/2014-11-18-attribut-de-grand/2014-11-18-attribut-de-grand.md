@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-11-18'
+locale: fr_FR
 ---
 
 > — Moi, grand a plus tard, avoir un poil de couille !  

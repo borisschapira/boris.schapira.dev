@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-12-23'
+locale: fr_FR
 ---
 
 Discussion avec ma femme cet après-midi. Elle a eu ces mots très justes à propos de la réaction de la _Manif pour Tous_ à la campagne publicitaire du nouveau catalogue Super U.

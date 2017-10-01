@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-11-04'
+locale: fr_FR
 ---
 
 ## L'UX, souvent un tabou dans les communautés du logiciel libre

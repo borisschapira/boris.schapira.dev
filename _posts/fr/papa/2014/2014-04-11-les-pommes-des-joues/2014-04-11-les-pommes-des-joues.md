@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-04-11'
+locale: fr_FR
 ---
 
 > — C'est bien chéri, je suis très fier de toi, tu manges bien ta pomme.  

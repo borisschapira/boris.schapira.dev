@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-11-26'
+locale: fr_FR
 ---
 
 En parlant de la difficulté d'aider un étudiant pendant un travail dirigé :

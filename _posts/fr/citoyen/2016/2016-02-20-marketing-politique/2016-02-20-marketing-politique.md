@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-02-20'
+locale: fr_FR
 ---
 
 ## pour mieux régner

@@ -7,6 +7,8 @@ canonical: 'http://blog.clever-age.com/fr/2017/02/01/app-ou-web-apps-il-ny-a-pas
 type: post
 categories:
     - default
+publishDate: '2017-02-01'
+locale: fr_FR
 ---
 
 Je suis encore tombé récemment sur un article qui annonçait calmement la fin des applications mobiles, en disant que le <abbr title="Responsive Web Design" lang="en">RWD</abbr> et les <span lang="en">Progressive Web Apps (PWA)</span> étaient la réponse à l’ensemble des besoins des organisations, chiffres d’installation des applications à la clé. Comme le disait Frederick Brooks, il n’y a pas de technique miraculeuse (<q lang="en">No silver bullet</q>) en génie logiciel. L’utilisation des chiffres n’est pas si évidente que ça et il existe de nombreux pièges qui peuvent nous inciter, par intuition, à conclure de manière erronée quant à la réalité.

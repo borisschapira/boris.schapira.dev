@@ -6,6 +6,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-02-25'
+locale: fr_FR
 ---
 
 Depuis plusieurs mois, ce blog est propulsé par Jekyll et Codeship. Une page explicative existe, mais elle est "vivante" et si je change quelque chose demain, elle évoluera. J'utilise donc un article daté pour figer un peu les choses, et tant pis pour le contenu dupliqué.

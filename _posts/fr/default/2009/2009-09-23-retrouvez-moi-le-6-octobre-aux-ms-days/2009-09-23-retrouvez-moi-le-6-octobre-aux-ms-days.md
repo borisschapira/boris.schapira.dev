@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-09-23'
+locale: fr_FR
 ---
 
 Je viendrai représenter [Nexdotnet, le pôle .NET de NEXEO](http://nexdotnet.nexeo.fr/) au [Microsoft Days](http://www.microsoft.com/france/microsoft-days/) le 6 octobre prochain. Pour ceux qui voudraient m'y rencontrer, voici mon planning&nbsp;:

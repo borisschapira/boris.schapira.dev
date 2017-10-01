@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-03-30'
+locale: fr_FR
 ---
 
 Depuis l'adoption, le 26 mars 2009, du rapport Lambrinidis au Parlement Européen, j'appréhende la reprise des débats autour d'Hadopi. Beaucoup de mes collègues blogueurs ont crié au succès, à la fin de la lutte.

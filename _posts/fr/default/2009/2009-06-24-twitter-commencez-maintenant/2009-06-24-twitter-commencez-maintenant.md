@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-06-24'
+locale: fr_FR
 ---
 
 Twitter est un peu plus qu'un phénomène de mode. C'est un outil disruptif qui modifie la perception que l'on peut avoir d'Internet. Le fil d'actualités de Facebook sans l'inutile autour. Le strict nécessaire.

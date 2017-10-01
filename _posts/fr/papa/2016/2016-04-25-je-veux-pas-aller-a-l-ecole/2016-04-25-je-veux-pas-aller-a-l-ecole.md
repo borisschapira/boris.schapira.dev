@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-04-25'
+locale: fr_FR
 ---
 
 Jour de rentrée. Tout se passe bien, les enfants sont prêts. Quand soudain arrive **LE** moment.

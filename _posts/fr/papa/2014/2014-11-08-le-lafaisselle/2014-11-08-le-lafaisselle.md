@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-11-08'
+locale: fr_FR
 ---
 
 > — Papa, surprise !  

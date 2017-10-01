@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-07-09'
+locale: fr_FR
 ---
 
 Voyage chez mon père, qui possède une piscine. Rapidement, le grand teste. Le petit, lui, reste au bord.

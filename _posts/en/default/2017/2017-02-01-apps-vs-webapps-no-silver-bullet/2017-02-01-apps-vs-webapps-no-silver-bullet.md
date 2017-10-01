@@ -7,6 +7,8 @@ canonical: 'https://blog.clever-age.com/en/2017/07/07/web-apps-there-is-no-silve
 type: post
 categories:
     - default
+publishDate: '2017-02-01'
+locale: en_US
 ---
 
 I recently read an article that proclaimed the end of mobile apps, insisting that RWD (Responsive Web Design) and Progressive Web Apps (PWA) were the answer to all companies’ needs. The author was using app downloads figures to support this allegation. As Frederick Brooks said, there is no miraculous technique (no "silver bullet") in software engineering. Using figures is not so simple and there are many traps that can lead us to false conclusions.

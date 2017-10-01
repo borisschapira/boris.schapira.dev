@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-07-22'
+locale: fr_FR
 ---
 
 Quinze jours loin de la maison, c'est long pour un petit bonhomme de 3 ans.

@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2013-10-03'
+locale: fr_FR
 ---
 
 ## parce que bon, là, on rate un truc…

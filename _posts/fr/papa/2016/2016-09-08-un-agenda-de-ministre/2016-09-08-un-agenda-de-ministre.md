@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-09-08'
+locale: fr_FR
 ---
 
 Les enfants ont passé hier leur premier jour au centre aéré. Le petit a adoré : visiblement, on l'a laissé faire ce qu'il voulait. Ce qui n'est pas le cas partout…

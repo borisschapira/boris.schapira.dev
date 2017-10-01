@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-24'
+locale: fr_FR
 ---
 
 Il n'aura pas échappé à certains d'entre vous que Silverlight, la nouvelle technologie multimédia de Microsoft dont je vous parlais il y a peu, est un concurrent direct du Macromedia Flash, déjà très répandu sur la Toile et propriété d'Adobe. Mais ce n'est pas la seule contre-attaque de Redmond envers le propriétaire du format PDF.

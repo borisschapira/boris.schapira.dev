@@ -10,6 +10,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-11-03'
+locale: fr_FR
 ---
 
 Imaginez, vous allumez votre télé sur le journal d'informations. Le journaliste prend la parole&nbsp;:

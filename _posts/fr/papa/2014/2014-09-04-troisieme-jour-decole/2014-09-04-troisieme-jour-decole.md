@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-09-04'
+locale: fr_FR
 ---
 
 Il repère les lieux, puis se dirige vers la maîtresse :

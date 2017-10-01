@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-12-24'
+locale: fr_FR
 ---
 
 Qualit&#233; &#233;ditoriale et mon&#233;tisation du contenu semblent deux ingr&#233;dients d&#233;licats &#224; doser pour les blogueurs. 

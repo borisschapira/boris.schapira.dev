@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-03-08'
+locale: fr_FR
 ---
 
 Panique à bord, le réveil n'a pas sonné et nous avons plus d'une heure de retard. Je dis aux enfants, qui peinent à sortir du sommeil, de s'habiller vite. Pour les motiver, je leur promets un petit-déjeuner chez Paul, face à l'école.

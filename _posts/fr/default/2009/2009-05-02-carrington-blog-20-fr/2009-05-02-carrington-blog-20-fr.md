@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-05-02'
+locale: fr_FR
 ---
 
 [Crowd Favorite](http://crowdfavorite.com/) vient de livrer son thème wordpress Carrington Blog 2.0\. J'en ai profité pour compiler une version française du thème.

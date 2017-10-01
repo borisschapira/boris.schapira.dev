@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-05-07'
+locale: fr_FR
 ---
 
 Source&nbsp;: [Centre de développement C#](http://msdn.microsoft.com/en-us/vstudio/bb409645.aspx)

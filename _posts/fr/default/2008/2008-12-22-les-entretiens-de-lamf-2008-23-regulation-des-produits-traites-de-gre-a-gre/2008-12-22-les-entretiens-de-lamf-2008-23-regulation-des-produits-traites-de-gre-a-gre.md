@@ -6,6 +6,8 @@ categories:
 date: '2008-12-22'
 lang: fr
 type: post
+publishDate: '2008-12-22'
+locale: fr_FR
 ---
 
 _Le 6 novembre dernier avaient lieu les Entretiens de l'AMF 2008 (voir CP). Les objectifs de ces tables rondes auxquelles participait Christine LAGARDE, étaient définis par l'air du temps:_

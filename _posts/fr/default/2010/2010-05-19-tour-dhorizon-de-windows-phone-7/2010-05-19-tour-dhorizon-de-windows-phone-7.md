@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-05-19'
+locale: fr_FR
 ---
 
 Windows Phone est un système d’exploitation pour téléphones mobiles présenté par Microsoft lors du MIX 2010 sous le nom *Windows Phone 7 Series*. S’inspirant des modèles à succès que sont l’iPhoneOS d’Apple et l’Android de Google, Microsoft a fait table rase de son précédent système mobile et souhaite désormais s’imposer comme un acteur majeur du mobile grand public.

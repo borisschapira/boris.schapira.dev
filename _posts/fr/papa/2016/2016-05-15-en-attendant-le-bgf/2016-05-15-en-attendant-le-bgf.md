@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-05-15'
+locale: fr_FR
 ---
 
 Maman finit de se préparer pendant que les garçons, déjà déguisés, poireautent en attendant de partir pour le [<abbr title="Bordeaux Geek Festival">BGF</abbr>](http://geek-festival.fr/).

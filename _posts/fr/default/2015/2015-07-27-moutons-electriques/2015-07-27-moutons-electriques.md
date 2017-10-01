@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-07-27'
+locale: fr_FR
 ---
 
 Deux articles m'ont récemment fait réfléchir, tous les deux traitants de problématiques liées à l'intelligence.

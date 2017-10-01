@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-06-19'
+locale: fr_FR
 ---
 
 Toujours, toujours être précis dans la consigne. Par exemple : "Ne fais pas pipi sur toi".

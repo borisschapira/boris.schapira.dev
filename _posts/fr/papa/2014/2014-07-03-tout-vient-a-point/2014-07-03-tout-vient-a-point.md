@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-07-03'
+locale: fr_FR
 ---
 
 > — Papa, pas cracteur à ça !  

@@ -12,6 +12,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-10-22'
+locale: fr_FR
 ---
 
 ## Une guerre aux multiples facettes

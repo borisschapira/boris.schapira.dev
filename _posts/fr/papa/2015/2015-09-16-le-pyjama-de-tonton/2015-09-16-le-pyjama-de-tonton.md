@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-09-16'
+locale: fr_FR
 ---
 
 On a reçu le pyjama envoyé par Tonton pour le petit. Je suis jaloux.

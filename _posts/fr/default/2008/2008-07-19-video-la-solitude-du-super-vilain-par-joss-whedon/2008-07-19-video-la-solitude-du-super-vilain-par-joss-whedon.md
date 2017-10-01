@@ -8,6 +8,8 @@ categories:
 date: '2008-07-19'
 lang: fr
 type: post
+publishDate: '2008-07-19'
+locale: fr_FR
 ---
 
 Joss Whedon reviens. Rappelons qu'il est l'auteur des séries TV [Roseanne, ](http://en.wikipedia.org/wiki/Roseanne_%28TV_series%29 "Roseanne (TV series)")[Buffy](http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_%28TV_series%29 "Buffy the Vampire Slayer (TV series)"), [Angel](http://en.wikipedia.org/wiki/Angel_%28TV_series%29 "Angel (TV series)"), [Firefly](http://en.wikipedia.org/wiki/Firefly_%28TV_series%29 "Firefly (TV series)") - ma série préférée -, [Dollhouse](http://en.wikipedia.org/wiki/Dollhouse_%28TV_series%29 "Dollhouse (TV series)") ou [Ripper](http://en.wikipedia.org/wiki/Ripper_%28television%29#Ripper "Ripper (television)")<span class="mw-redirect">, </span><span class="mw-redirect">de comics réputés</span><span class="mw-redirect"> comme </span>[Astonishing X-Men](http://en.wikipedia.org/wiki/Astonishing_X-Men "Astonishing X-Men")<span class="mw-redirect">, et de films pour la plupart connus&nbsp;: </span>[Buffy the Vampire Slayer](http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_%28film%29 "Buffy the Vampire Slayer (film)"), [Toy Story](http://en.wikipedia.org/wiki/Toy_Story "Toy Story"), [Alien: Resurrection](http://en.wikipedia.org/wiki/Alien:_Resurrection "Alien: Resurrection")<span class="mw-redirect">, </span>[Titan A.E.](http://en.wikipedia.org/wiki/Titan_A.E. "Titan A.E.")<span class="mw-redirect">.</span>..

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2017-02-03'
+locale: fr_FR
 ---
 
 Depuis plusieurs années, je suis perturbé de voir à quel point nos représentations numériques sont des projections très imparfaites de nous-mêmes. Nous partageons rarement nos vies, nous partageons ce qui nous a plu, ce qui nous fait vibrer et, éventuellement, les moments douloureux mais uniquement ceux dans lesquels nous sommes accompagnés ou dont nous nous sommes remis.

@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-12-27'
+locale: fr_FR
 ---
 
 Je ne comprends pas.

@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2012-03-09'
+locale: fr_FR
 ---
 
 Adobe vient de publier la bêta de Shadow, un outil de développement facilitant les tests et la visualisation sur de multiples plate-formes. Basé sur un projet Open Source du nom de WeInRe, la solution d’Adobe arrive sur un marché émergent et concurrentiel, déjà occupé par le très récent [Chrome Beta for Android](http://www.androidcentral.com/chrome-beta-android-brings-remote-debugging-tools-mobile-web-developers) ou le plus éprouvé [Opera Dragonfly](http://www.opera.com/dragonfly/) (dont la [documentation](http://www.opera.com/dragonfly/documentation/remote/) est très complète).

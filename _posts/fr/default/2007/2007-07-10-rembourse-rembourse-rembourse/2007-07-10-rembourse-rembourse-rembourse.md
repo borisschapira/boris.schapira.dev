@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-07-10'
+locale: fr_FR
 ---
 
 Microsoft a annoncé que 1,15 milliards de dollars seront investis dans les réparations des XBox360\. Le président de la division Entertainment de la firme a lui-même qualifié "d'inacceptable" le nombre de consoles commercialisées ayant subi des avaries même si la majorité des utilisateurs n'ont jamais rencontré le moindre problème.

@@ -6,6 +6,8 @@ categories:
 date: '2008-12-23'
 lang: fr
 type: post
+publishDate: '2008-12-23'
+locale: fr_FR
 ---
 
 Vous ne retrouvez plus les avantages et les inconvénients d'une **liste chaînée** par rapport à une **tableau dynamique**&nbsp;? Vous hésitez à équilibrer votre **arbre **et ne savez plus comment implémenter un **tri par base**. Voilà de quoi revoir vos classiques.

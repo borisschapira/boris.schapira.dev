@@ -6,6 +6,8 @@ categories:
 date: '2007-09-14'
 lang: fr
 type: post
+publishDate: '2007-09-14'
+locale: fr_FR
 ---
 
 Petit échange entendu il y a quelques jours… le petit bonhomme comptait moins d'années que les doigts d'une main…

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-06-12'
+locale: fr_FR
 ---
 
 Trajet en voiture. Le grand, en pleine phase pipi-caca, chante sa chanson horripilante.

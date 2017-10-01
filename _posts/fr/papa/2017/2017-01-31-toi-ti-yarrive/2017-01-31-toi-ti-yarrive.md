@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-01-31'
+locale: fr_FR
 ---
 
 Le petit est en colère

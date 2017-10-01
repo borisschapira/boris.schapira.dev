@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-05-25'
+locale: fr_FR
 ---
 
 > La méritocratie, au bout du compte, apparaît comme une forme de justification a posteriori d'une hiérarchie sociale lourdement déterminée par l'hérédité. Non seulement ceux qui sont en bas de l'échelle sociale n'y sont que parce qu'ils ont eu la malchance de ne pas naître dans la bonne famille, mais en plus, ils doivent subir la condescendance et le mépris de ceux qui sont au sommet qui leur expliquent que cela aurait été différent s'ils avaient fait plus d'efforts.  
