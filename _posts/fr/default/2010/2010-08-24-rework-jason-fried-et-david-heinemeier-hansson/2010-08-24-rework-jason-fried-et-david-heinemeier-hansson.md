@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-08-24'
+locale: fr_FR
 ---
 
 Avant de véritablement commencer à lire "Business Model Generation" (dont je ferai une critique plus tard), j'ai pris trois jours pour lire ce livre, prêté par Oncle Tom…

@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-12-19'
+locale: fr_FR
 ---
 
 C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!

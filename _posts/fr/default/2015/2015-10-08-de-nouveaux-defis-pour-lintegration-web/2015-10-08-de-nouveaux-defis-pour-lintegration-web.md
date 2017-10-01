@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-10-08'
+locale: fr_FR
 ---
 
 Fin juillet 2015, une franche polémique a enflammé la communauté des professionnels du Web suite à [cet article](http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html "Stop pushing the web forward") publié sur Quirksmode. En synthèse, l'auteur y expliquait que les standards du Web s'étendent à une vitesse incroyable, à la recherche de leviers pour rattraper ou concurrencer l'expérience native mobile, mais que cette course aux fonctionnalités épuise les développeurs qui n'ont plus le temps de penser à l'expérience utilisateur.

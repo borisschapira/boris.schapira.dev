@@ -6,6 +6,8 @@ categories:
 date: '2008-01-15'
 lang: fr
 type: post
+publishDate: '2008-01-15'
+locale: fr_FR
 ---
 
 La présence de Tony Blair au Conseil National de l'UMP est fortement symptomatique des déséquilibres politiques en France&nbsp;:

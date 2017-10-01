@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-05-31'
+locale: fr_FR
 ---
 
 Discussion à propos de Mozart, notre chaton.

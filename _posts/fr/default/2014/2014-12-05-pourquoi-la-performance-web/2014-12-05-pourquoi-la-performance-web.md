@@ -8,6 +8,8 @@ tags:
     - 'Performance Web'
 categories:
     - default
+publishDate: '2014-12-05'
+locale: fr_FR
 ---
 
 ## Un goût pour la rapidité

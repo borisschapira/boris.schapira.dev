@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-27'
+locale: fr_FR
 ---
 
 Deux nouvelles vidéo virales (à l'heure où j'écris, Lapytsh n'en n'a vu qu'une, ouaaais&nbsp;!!!) pour Halo 3 viennent de tomber. Je les préfèrent largement à la première et au moins on apprend un truc&nbsp;: les maquilleuses s'occupent aussi des vitres de casque (non, il n'y a pas de vanne, c'est juste une remarque inutile).

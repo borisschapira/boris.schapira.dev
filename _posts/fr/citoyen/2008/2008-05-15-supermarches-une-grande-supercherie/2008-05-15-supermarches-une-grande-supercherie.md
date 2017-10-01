@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2008-05-15'
+locale: fr_FR
 ---
 
 Je voudrais bien qu'on m'explique une chose&nbsp;: comment certaines grandes enseignes de supermarché arrivent-elles à rembourser jusqu'à 20 % des chariots des clients en bons d'achat et dire qu'il s'agit d'une mesure pour lutter contre la "vie chère" et la "baisse du pouvoir d'achat"&nbsp;?

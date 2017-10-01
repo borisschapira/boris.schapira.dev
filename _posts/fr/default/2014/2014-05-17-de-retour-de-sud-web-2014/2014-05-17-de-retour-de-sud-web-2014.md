@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-05-17'
+locale: fr_FR
 ---
 
 ## De beaux projets, de belles personnes

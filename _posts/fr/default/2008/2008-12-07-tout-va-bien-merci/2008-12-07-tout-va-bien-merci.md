@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-12-07'
+locale: fr_FR
 ---
 
 Cher Père Noël,

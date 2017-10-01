@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-04-02'
+locale: fr_FR
 ---
 
 En sortie avec le petit dernier de 20 mois :

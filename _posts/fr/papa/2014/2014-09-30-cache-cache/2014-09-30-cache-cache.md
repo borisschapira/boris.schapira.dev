@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-09-30'
+locale: fr_FR
 ---
 
 > — Allo chérie ? Dis-moi, elles sont où les chaussures des enfants ?  

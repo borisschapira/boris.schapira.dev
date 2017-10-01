@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-05-06'
+locale: fr_FR
 ---
 
 Si je dois avouer que je commence à saturer de certains génériques, je suis également surpris par l’habilité avec laquelle certains dessins animés amènent des sujets graves.

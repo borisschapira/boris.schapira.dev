@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-12-14'
+locale: fr_FR
 ---
 
 Je n'ai pas grand chose de drôle à partager, aujourd'hui. Je voudrais juste me souvenir de ce week-end où, les garçons, vous avez été plus complices que jamais. Parfois à nos dépends, mais toujours ensemble.

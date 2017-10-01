@@ -10,6 +10,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-10-14'
+locale: fr_FR
 ---
 
 Rien de plus simple.

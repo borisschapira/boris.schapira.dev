@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-11-18'
+locale: fr_FR
 ---
 
 > — Maman, j'ai froid [en chouinant bien entendu]  

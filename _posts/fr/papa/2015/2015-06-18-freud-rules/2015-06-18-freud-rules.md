@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-06-18'
+locale: fr_FR
 ---
 
 > — Chéri, tout va bien en bas ? Tu ne fais pas de bêtises, hein ?  

@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-09-18'
+locale: fr_FR
 ---
 
 Je pourrais rester discret, ne pas parler du jugement que vient de rendre la CEJ contre Microsoft mais j'ai un peu l'impression que la monde entier a envie de me demander mon avis, tout du moins déjà 11 contacts messengers et 2 collègues de boulot.

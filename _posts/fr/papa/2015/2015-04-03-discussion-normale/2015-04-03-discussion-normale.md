@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-04-03'
+locale: fr_FR
 ---
 
 > — On l'avait depuis combien de temps, déjà, le robot hachoir ?  

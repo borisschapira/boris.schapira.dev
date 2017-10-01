@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-02-17'
+locale: fr_FR
 ---
 
 Je rejoins une nouvelle initiative, celle des [Brown Bag Lunches](http://www.brownbaglunch.fr).

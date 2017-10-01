@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-01-25'
+locale: fr_FR
 ---
 
 > — Maman, pourquoi tu fais du grabouillage ?  

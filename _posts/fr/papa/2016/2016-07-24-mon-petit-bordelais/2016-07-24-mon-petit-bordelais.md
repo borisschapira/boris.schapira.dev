@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-07-24'
+locale: fr_FR
 ---
 
 Au moment de se brosser les dents, agacement du petit dernier.

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-06-09'
+locale: fr_FR
 ---
 
 Il fait beau, il fait chaud, c'est le bon moment pour l'apéritif.

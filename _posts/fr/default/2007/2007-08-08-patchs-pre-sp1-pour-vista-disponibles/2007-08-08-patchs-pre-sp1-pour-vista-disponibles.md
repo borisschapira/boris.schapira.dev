@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-08'
+locale: fr_FR
 ---
 
 Deux patchs pour Vista font la une des buzz autour du dernier né des Windows car ils sont soupçonnés d'être le cœur du futur Service Pack 1 (comprendre gros lifting post-sortie&nbsp;pour les néophytes). Je viens de les installer et il est au moins évident que ça **améliore la copie de fichiers**.

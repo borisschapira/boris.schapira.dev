@@ -10,6 +10,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-11-12'
+locale: fr_FR
 ---
 
 [Les collectivités sont particulièrement friandes d'actifs dangereux](http://www.lexpress.fr/actualite/politique/mystere-autour-du-nombre-de-communes-touchees-par-les-prets-toxiques_671080.html), c'est un fait que je tiens pour acquis après plusieurs mois à observer les marchés, y compris de l'intérieur. Pourquoi&nbsp;? Parce que communes, départements et régions disposent de moins en moins de capitaux et donc les investissent là où ça rapporte le plus&nbsp;: actions et produits structurés (produits d'inflation, les swaps de taux, subprimes).

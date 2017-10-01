@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-11-19'
+locale: fr_FR
 ---
 
 Libellule attend avec l'aîné dans la salle d'attente de l'orthophoniste. 

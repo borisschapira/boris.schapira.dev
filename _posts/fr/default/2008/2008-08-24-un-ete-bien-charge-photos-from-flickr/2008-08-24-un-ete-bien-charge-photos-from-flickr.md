@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-08-24'
+locale: fr_FR
 ---
 
 <p style="text-align: center">

@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-08-21'
+locale: fr_FR
 ---
 
 Je serais peut-être le 100e à vous parler de [**PhotoSynth** ](https://photosynth.net/)aujourd'hui, mais vous n'y couperez pas. Je suis l'actualité de ce projet depuis mes tous premiers jours de Microsoft Most Valuable Student il y a 3 ans&nbsp;!

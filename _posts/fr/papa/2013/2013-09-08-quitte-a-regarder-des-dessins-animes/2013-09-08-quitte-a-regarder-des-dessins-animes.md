@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-09-08'
+locale: fr_FR
 ---
 
 Le grand veut regarder des dessins animés, alors je lui mets Gulli. Trois minutes plus tard, je regarde la pendule et change pour France 4. Ma femme me surprend en flagrant délit, je tente de la jouer fine :

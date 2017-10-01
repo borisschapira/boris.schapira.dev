@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-03-27'
+locale: fr_FR
 ---
 
 > — Tu as une petite mine, mon poussin, on dirait que tu n'as pas fait la sieste…  

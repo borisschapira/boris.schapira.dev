@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-03-13'
+locale: fr_FR
 ---
 
 Matthieu n’est pas du genre à prendre une décision à la légère, surtout lorsqu’elle risque d’avoir un impact sur le chiffre d’affaire de son entreprise. Il aime essayer avant d’adopter. C’est pourquoi il a décidé de se lancer dans les Tests A/B.

@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-11-17'
+locale: fr_FR
 ---
 
 _Rien &#224; voir mais…&nbsp;: si vous avez 5 minutes, je suis toujours en qu&#234;te de r&#233;ponses pour le __post d'avant__ ^^_

@@ -6,6 +6,8 @@ categories:
 date: '2009-07-12'
 lang: fr
 type: post
+publishDate: '2009-07-12'
+locale: fr_FR
 ---
 
 Une des technologies les plus impressionnantes du dernier E3 était le projet Microsoft XBox Natal, un ensemble matériel + logiciel  permettant d’interagir par commande vocale, reconnaissance de mouvement et d’image avec une XBox 360.

@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2012-01-27'
+locale: fr_FR
 ---
 
 StrangeLoop vient de publier son rapport annuel de sur la performance Web des sites e-commerces. Se basant sur le classement Alexa, ils ont moyenné les performances de plus de 2000 sites. Les résultats sont plutôt surprenants.

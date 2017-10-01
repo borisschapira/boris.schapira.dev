@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-01-17'
+locale: fr_FR
 ---
 
 Ce moment où tes voisins t'aperçoivent alors que tu es enfermé dans ta bagnole, uniquement éclairé par la lumière de l'écran de ton PC dans la pénombre, et te lancent des regards inquiets comme si tu allais te servir de ta cachette pour commettre un crime...

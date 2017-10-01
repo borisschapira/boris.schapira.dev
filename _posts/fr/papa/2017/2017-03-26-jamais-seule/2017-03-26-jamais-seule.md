@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-03-26'
+locale: fr_FR
 ---
 
 Ma femme me chambre un peu parce que selon elle, j'ai "un petit fan club" de mamans [sur WeMoms](/2016/01/wemoms-app/).

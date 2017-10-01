@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-11-12'
+locale: fr_FR
 ---
 
 Je suis tombé, via le [Twitter de Laurent Suply](https://twitter.com/lsuply) sur un article de Wired intitulé ["10 Geeky Laws That Should Exist, But Don't"](http://web.archive.org/web/20131102064716///www.wired.com:80/geekdad/2009/11/10-geeky-laws-that-should-exist-but-dont/). J'ai tellement rigolé que j'ai voulu le traduire aussitôt. J'ai modifié certains points d'origine qui me semblaient inadaptés pour un public français (et j'hésite encore pour le point 6, pas tellement représenté dans la culture geek francophone) et voilà le résultat. Qu'est-ce que vous en pensez ?

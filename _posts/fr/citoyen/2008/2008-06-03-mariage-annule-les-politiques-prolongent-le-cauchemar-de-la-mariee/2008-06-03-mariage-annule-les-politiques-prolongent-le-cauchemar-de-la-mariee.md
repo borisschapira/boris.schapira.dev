@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2008-06-03'
+locale: fr_FR
 ---
 
 Je tiens à féliciter personnellement le sous-ensemble de la classe politique française qui s'opposait à l'annulation de mariage. Grâce à ces courageux hommes et femmes, la mariée (peut-on encore l'appeler ainsi&nbsp;?) va subir les joies d'un second procès qui démarrera certainement en septembre (l'été n'étant pas propice à l'actualité, autant garder le meilleur pour la rentrée).

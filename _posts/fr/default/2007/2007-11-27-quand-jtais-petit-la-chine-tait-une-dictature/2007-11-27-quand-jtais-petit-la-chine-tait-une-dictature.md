@@ -6,6 +6,8 @@ categories:
 date: '2007-11-27'
 lang: fr
 type: post
+publishDate: '2007-11-27'
+locale: fr_FR
 ---
 
 Quand j&#8217;&#233;tais petit, la Chine &#233;tait une dictature. On parlait de camps de travaux forc&#233;s, de dirigeants corrompus alli&#233;s de l&#8217;URSS… &#199;a me faisait un peu penser aux histoires de mon grand-p&#232;re sur l&#8217;Italie fasciste&nbsp;: &#231;a me navrait et surtout, &#231;a m&#8217;ennuyait.

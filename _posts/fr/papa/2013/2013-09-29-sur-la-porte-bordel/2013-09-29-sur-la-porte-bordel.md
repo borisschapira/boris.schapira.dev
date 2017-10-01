@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-09-29'
+locale: fr_FR
 ---
 
 Forcément, le seul moment où ton bébé finit par dormir, il y a une gourdasse qui vient sonner à la porte :

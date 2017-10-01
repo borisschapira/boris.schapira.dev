@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-21'
+locale: fr_FR
 ---
 
 Je trouve Skype génial. Sérieusement, je suis un utilisateur assez satisfait. Mais quand les responsables du logiciel rejettent la faute de leur gros plantage de 72h il y a deux jours sur Windows Update… j'esquisse un sourire qui s'efface rapidement.

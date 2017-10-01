@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-09-25'
+locale: fr_FR
 ---
 
 J&#x2019;ai choisi d&#x2019;être un jeune cadre dynamique. Je gagne bien ma vie et je ne m&#x2019;en plains pas. Parfois, j&#x2019;ai assez peu de temps libre mais je me dis que j&#x2019;accederais s&#xFB;rement plus vite à la propriété et que j&#x2019;aurais moins de mal à financer les évolutions de ma vie que si j'avais emprunté une autre voie.

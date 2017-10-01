@@ -12,6 +12,8 @@ lang: en
 type: post
 categories:
     - default
+publishDate: '2015-10-22'
+locale: en_US
 ---
 
 ## A Multifaceted War

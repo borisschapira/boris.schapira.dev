@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-12-08'
+locale: fr_FR
 ---
 
 Nous sommes allé au restaurant. La serveuse a expliqué les possibilités de plats et le petit a fait son choix :

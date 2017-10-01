@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-08-02'
+locale: fr_FR
 ---
 
 Le petit chante une chanson, visiblement inventée par ses soins à partir de bribes d'autres chansons et comptines.

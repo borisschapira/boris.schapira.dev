@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-05-14'
+locale: fr_FR
 ---
 
 J'avais déjà parlé de l'[épidémie](/2009/01/lepidemie/), pronostiquant une aggravation de la situation suite à la multiplication des comportements à risques.

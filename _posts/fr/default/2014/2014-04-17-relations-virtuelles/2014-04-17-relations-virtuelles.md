@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-04-17'
+locale: fr_FR
 ---
 
 > We know that happiness is mainly being satisfied with people that we like, spending time with people that we like. There are other pleasures, but this is dominant.  

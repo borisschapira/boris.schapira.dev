@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-11-04'
+locale: fr_FR
 ---
 
 > En juin dernier, Fiona Taylor Gorringe soulevait une question intéressante sur son blog&nbsp;:  

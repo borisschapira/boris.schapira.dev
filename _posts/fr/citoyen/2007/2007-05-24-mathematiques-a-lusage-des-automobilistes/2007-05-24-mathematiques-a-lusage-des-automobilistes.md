@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2007-05-24'
+locale: fr_FR
 ---
 
 Sur la nationale que j'emprunte tous les matins, peu sont les automobilistes à respecter les 90km/h, flirtant plutôt avec le 100\. C'est dangereux, mais il y a pire. Il y a les automobilistes qui à l'approche du radar continuent à 100 puis pilent environ 5m avant pour descendre à 70km/h sur les 200m suivant (à titre indicatif, un radar n'a pas une telle portée). Frustrés, ceux-ci enfoncent alors brutalement l'accélérateur pour atteindre les 110km/h, voire plus, doublant à gauche comme à droite, afin de récupérer leur précieux temps perdu.

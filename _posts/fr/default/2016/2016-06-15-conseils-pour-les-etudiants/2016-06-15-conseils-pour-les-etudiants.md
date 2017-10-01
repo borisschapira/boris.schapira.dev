@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-06-15'
+locale: fr_FR
 ---
 
 Chers étudiants, ce billet vous est dédié. Nous venons de finir ensemble une nouvelle année de cours et de projets. Vous m'avez surpris, impressionné, déçu, énervé, enchanté, épaté, fait rire aussi parfois… mais surtout, vous m'avez rendu du code, présenté des documents, vous avez soutenu des présentations devant moi et je vous en remercie. Pour que tout cela soit encore meilleur l'année prochaine, je tenais à vous donner quelques conseils.

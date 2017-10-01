@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-11-24'
+locale: fr_FR
 ---
 
 > — Papa, ton travail c'est aider le chef ?  

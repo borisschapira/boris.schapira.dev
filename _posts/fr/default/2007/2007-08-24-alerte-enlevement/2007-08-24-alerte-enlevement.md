@@ -7,6 +7,8 @@ categories:
 date: '2007-08-24'
 lang: fr
 type: post
+publishDate: '2007-08-24'
+locale: fr_FR
 ---
 
 Suite à un précédent mouvement de la blogosphère pour diffuser le message d'Alerte Enlèvement relatif à la disparition du petit Enis, plusieurs blogueurs ont reçu une injonction des autorités compétentes demandant poliment mais fermement la suppression de la photo du petit garçon afin de ne pas encourir de risques juridiques. Suite à cette démarche, une **petite réaction personnelle**&nbsp;:

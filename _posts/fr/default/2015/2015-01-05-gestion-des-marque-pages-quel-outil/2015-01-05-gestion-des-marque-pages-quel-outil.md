@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-01-05'
+locale: fr_FR
 ---
 
 Depuis la revente de [delicious](http://delicious.com) par Yahoo! et son quasi-abandon par AVOS, j'avais migré ma veille sur Diigo mais suite à la récente décision de Diigo d'abandonner les listes (qui permettaient pourtant un partage plus sélectif), je suis à la recherche d'une nouvelle solution de gestion des marque-pages.

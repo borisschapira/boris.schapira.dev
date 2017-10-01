@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-09-03'
+locale: fr_FR
 ---
 
 Le petit est rentré à l'école aujourd'hui pour la première fois. C'est un franc succès puisqu'il est ravi et a hâte d'y retourner. Par contre, on nous a rapporté qu'il se serait battu avec son grand frère dans la cours…

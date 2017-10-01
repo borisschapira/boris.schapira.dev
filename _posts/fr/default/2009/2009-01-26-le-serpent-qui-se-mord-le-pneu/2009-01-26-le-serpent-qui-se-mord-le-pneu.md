@@ -5,6 +5,8 @@ categories:
 date: '2009-01-26'
 lang: fr
 type: post
+publishDate: '2009-01-26'
+locale: fr_FR
 ---
 
 **-** Tu vois, je ne comprends pas. Je prends le RER tous les matins et sur le parking, il y a autant de places "handicapés" que de places normales, on ne peut jamais se garer&nbsp;!

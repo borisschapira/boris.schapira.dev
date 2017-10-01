@@ -6,6 +6,8 @@ categories:
 date: '2007-05-18'
 lang: fr
 type: post
+publishDate: '2007-05-18'
+locale: fr_FR
 ---
 
 J'ai pris connaissance ce soir du nouveau gouvernement et ainsi de la nouvelle structure politique de notre pays, tout comme des évènements politiques de la journée…

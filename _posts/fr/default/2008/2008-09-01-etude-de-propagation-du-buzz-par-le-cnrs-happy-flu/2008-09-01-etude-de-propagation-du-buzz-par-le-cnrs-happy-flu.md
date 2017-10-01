@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-09-01'
+locale: fr_FR
 ---
 
 Internet n'a pas d'existence propre. Il n'est que le reflet d'une certaine volatilité de l'information et de sa capacité à être reprise, enrichie, dégradée, déformée… Le Web amateur tel qu'on le connait aujourd'hui est un vaste magma de reprises d'actualités, un téléphone arabe du XXI° siècle, une rumeur multimédia qui s'étend comme elle se déforme. Ceux qui en tirent parti cherchent à l'analyser et lui ont donné un nom&nbsp;: le Buzz.

@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-03-14'
+locale: fr_FR
 ---
 
 Maxime, un ami Esieen, pose de justes questions dans un commentaire de mon précédent article qui mérite une réponse. J'ai fait quelques coupes dans le commentaires original pour aller à l'essentiel, mais vous pouvez le retrouver ici.

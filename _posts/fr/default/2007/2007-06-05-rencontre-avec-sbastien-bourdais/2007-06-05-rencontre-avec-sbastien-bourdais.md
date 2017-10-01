@@ -10,6 +10,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-05'
+locale: fr_FR
 ---
 
 Hier, j'ai rencontré [Sébastien Bourdais](http://www.sebastien-bourdais.com/), triple champion du monde de Champcar (je n'y connais pas grand chose, mais j'ai compris que c'était un peu comme la F1 à ceci près que tout le monde court sur la même voiture donc seul le talent du pilote compte).

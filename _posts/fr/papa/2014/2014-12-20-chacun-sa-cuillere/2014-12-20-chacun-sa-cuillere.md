@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-12-20'
+locale: fr_FR
 ---
 
 > — Et tu veux quoi comme cuillère ?  

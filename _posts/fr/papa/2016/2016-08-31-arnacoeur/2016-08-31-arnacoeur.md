@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-08-31'
+locale: fr_FR
 ---
 
 À son petit regard malicieux, je vois qu'il n'est pas mielleux pour rien…

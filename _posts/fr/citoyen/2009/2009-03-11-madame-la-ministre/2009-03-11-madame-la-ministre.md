@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-03-11'
+locale: fr_FR
 ---
 
 Le projet de loi "Création et Internet" ou "HADOPI" sera bientôt examiné à l'Assemblée nationale. Cette loi a pour objet de mettre en œuvre la «&nbsp;riposte graduée&nbsp;» contre le partage d'œuvres sur internet. Dans ce dispositif une autorité administrative (l'HADOPI) peut ordonner une coupure de l'accès des internautes suspectés de partage.

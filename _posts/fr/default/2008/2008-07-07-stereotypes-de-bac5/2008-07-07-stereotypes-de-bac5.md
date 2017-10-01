@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-07-07'
+locale: fr_FR
 ---
 
 Depuis quelques jours de nouveaux messages ornent les couloirs de circulation du metro. "Je suis poursuivi", "Je suis convoitée", "Je suis adulé"… Des phrases issues de jeunes BAC+5 ayant fait leur recherche d'emploi sur les sites de l'annonceur…

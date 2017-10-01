@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-03-31'
+locale: fr_FR
 ---
 
 Le petit dernier et sa mère se font des bisous…

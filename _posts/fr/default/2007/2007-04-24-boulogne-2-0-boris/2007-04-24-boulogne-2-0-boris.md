@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-24'
+locale: fr_FR
 ---
 
 *   **8h20** Sortie de l'appartement, frais et confiant&nbsp;: la journée va être bonne (si j'avais su&nbsp;!)

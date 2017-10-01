@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-11-02'
+locale: fr_FR
 ---
 
 Le concours **Show Me You Sloggi** organisé par la marque éponyme vient de se terminer.

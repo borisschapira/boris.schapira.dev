@@ -10,6 +10,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-02-08'
+locale: fr_FR
 ---
 
 **Mardi 29&nbsp;: Soir&#233;e Fanny's Party**</p>

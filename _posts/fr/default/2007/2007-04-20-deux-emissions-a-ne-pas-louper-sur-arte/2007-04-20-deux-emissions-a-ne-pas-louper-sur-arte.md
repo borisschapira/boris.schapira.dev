@@ -11,6 +11,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-20'
+locale: fr_FR
 ---
 
 Dans un contexte tendu de positions dominantes (rachat de DoubleClick par Google, procès de Bruxelles envers Microsoft), deux émissions pertinentes sur Arte&nbsp;:

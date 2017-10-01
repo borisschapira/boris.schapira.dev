@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-11-11'
+locale: fr_FR
 ---
 
 Des mois que j'explique à ma femme que notre petit dernier ressemble à son père et, plus généralement, à la lignée masculine de sa famille.

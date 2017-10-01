@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-06-30'
+locale: fr_FR
 ---
 
 Alors qu'Hadopi 2 fait parler de lui, il est bon de regarder du côté d'Hadopi premier du nom…

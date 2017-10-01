@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-08-14'
+locale: fr_FR
 ---
 
 J'ai récemment migré mon environnement de travail de Windows à Mac OS X. De nombreux développeurs se sont empressés de me rappeler qu'un Mac est une machine autrement plus productive qu'un PC alors que les raisons de mon changement sont bien différentes.

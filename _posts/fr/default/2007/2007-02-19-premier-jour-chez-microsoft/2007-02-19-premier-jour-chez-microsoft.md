@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-02-19'
+locale: fr_FR
 ---
 
 J'ai passé aujourd'hui ma première journée au cœur du département Services de Microsoft France. Accueilli par Jean-Marc Sennechael, j'ai été conduit à travers quelques étapes administratives avant de profiter d'une présentation de la structure de cette grande entreprise et de mon rôle…

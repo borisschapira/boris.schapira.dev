@@ -6,6 +6,8 @@ categories:
 date: '2007-09-09'
 lang: fr
 type: post
+publishDate: '2007-09-09'
+locale: fr_FR
 ---
 
 <div>Petite découverte dans ma recherche d'explications du monde de la finance en ligne, les podcasts EcoTV de la BNP-Paribas. Je trouve l'initiative très bonne et je me demande si d'autres grandes banques ont la même démarche.</div>

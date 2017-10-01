@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-11-17'
+locale: fr_FR
 ---
 
 Il arrive souvent que la moutarde me monte au nez quand j'entends rabâcher des absurdités sous couvert de sagesse des foules. En effet, beaucoup des choses que l'on apprend au cours de notre vie sous couvert de "bon sens" sont en réalités des idées préconçues sans fondements ou dont les raisons d'être ont disparues depuis longtemps. **Ce n'est pas parce ce que tout le monde le dit que c'est vrai&nbsp;!**

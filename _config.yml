@@ -114,6 +114,15 @@ author:
 # Posts links and pagination
 permalink: :year/:month/:title/
 
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
 # Collections
 collections:
   confs:

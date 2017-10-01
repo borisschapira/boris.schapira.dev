@@ -6,6 +6,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-12-29'
+locale: fr_FR
 ---
 
 > Nous n’épiloguerons pas sur les promesses du gouvernement selon lesquelles «&nbsp;seules les infractions criminelles les plus graves peuvent justifier une sanction telle que la déchéance de nationalité prononcée à l’encontre de Français de naissance&nbsp;» puisqu’il appartiendra à la Loi de les fixer, et que rien n’interdit à ce que d’éventuelles réformes législatives n’en élargissent l’application.  

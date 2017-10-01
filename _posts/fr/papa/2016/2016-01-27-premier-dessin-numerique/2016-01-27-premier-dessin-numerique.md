@@ -6,6 +6,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-01-27'
+locale: fr_FR
 ---
 
 Pendant que le petit faisait sa sieste, j'ai appris au grand à utiliser le <em lang="en">trackpad</em> pour dessiner sur l'ordinateur avec GIMP.

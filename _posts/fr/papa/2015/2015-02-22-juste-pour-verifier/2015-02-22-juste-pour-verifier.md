@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-02-22'
+locale: fr_FR
 ---
 
 > — Dis, chérie, de toi à moi, juste pour vérifier, toi aussi tu as un deuxième toi dans la tête ?  

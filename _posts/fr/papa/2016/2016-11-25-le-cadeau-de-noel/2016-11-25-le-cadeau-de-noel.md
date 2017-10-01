@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-11-25'
+locale: fr_FR
 ---
 
 Nouvelle discussion sur les cadeaux de noël. À nouveau, on prend le petit à parti pour savoir ce qu'il voudrait demander au Père Noël.

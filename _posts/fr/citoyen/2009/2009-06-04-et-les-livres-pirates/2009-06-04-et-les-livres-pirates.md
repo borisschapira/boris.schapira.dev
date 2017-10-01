@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-06-04'
+locale: fr_FR
 ---
 
 Les industries culturelles ont peur de la numérisation des médias. Elles font tout aujourd'hui pour favoriser une économie de la rareté qui n'a plus lieu d'exister à l'ère du Peer to Peer.

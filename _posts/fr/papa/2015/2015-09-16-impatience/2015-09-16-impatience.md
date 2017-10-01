@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-09-16'
+locale: fr_FR
 ---
 
 Son oncle lui a offert un nouveau pyjama "de super héros" :

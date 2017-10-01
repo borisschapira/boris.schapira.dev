@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-18'
+locale: fr_FR
 ---
 
 Si vous souhaitez participer au beta test de la prochaine version de Windows Media Center, c'est [par ici que ça se passe](http://connect.microsoft.com/site/sitehome.aspx?SiteID=23) (pour connaitre les fonctionnalités de la version courante, allez plutôt ici).

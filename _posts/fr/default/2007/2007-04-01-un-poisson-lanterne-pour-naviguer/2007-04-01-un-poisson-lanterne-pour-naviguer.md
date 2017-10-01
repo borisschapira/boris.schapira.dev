@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-01'
+locale: fr_FR
 ---
 
 Ne vous inquiétez pas, je ne suis pas parti dans un pur délire maritime. Je viens juste vous parler d'une application en développement dans les <em lang="en">Labs</em> de Microsoft et qui devrait considérablement modifier vôtre façon d'appréhender Internet sur un périphérique mobile.

@@ -10,6 +10,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-03-08'
+locale: fr_FR
 ---
 
 J'ai beaucoup réfléchi à ce que je pourrais faire d'utile de cette "journée". J'ai fini par aller voir ma femme pour lui poser la question très sérieusement…

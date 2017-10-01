@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-05-06'
+locale: fr_FR
 ---
 
 En tant qu'intervenant dans une école post-BAC, je suis sollicité par de nombreux étudiants en recherche d'une alternance. Je vais essayer de centraliser ici les retours que je leur fais :

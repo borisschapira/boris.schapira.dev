@@ -6,6 +6,8 @@ categories:
 date: '2008-09-28'
 lang: fr
 type: post
+publishDate: '2008-09-28'
+locale: fr_FR
 ---
 
 En me renseignant ce soir sur l'actualité du week-end, je suis tombé sur une vidéo, extraite du **discours de Ségolène ROYAL au Zénith **samedi. Cette mise en scène de la politique me **dérange profondément**. J'ai vraiment l'impression de voir une adolescente que ses parents acclament à son spectacle de théâtre…

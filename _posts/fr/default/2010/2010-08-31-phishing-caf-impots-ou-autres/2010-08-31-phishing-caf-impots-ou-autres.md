@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-08-31'
+locale: fr_FR
 ---
 
 ## Ceci n'est pas une pipe

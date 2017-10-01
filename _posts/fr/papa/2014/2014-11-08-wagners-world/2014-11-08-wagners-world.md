@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-11-08'
+locale: fr_FR
 ---
 
 Il m'explique qu'un jour on aura des vaches chez nous, mais pas des vaches normales : des qui ont des "boucles d'oreille comme le fromage". Et on les montera pour aller au travail le matin.

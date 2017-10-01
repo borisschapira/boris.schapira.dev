@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-06-23'
+locale: fr_FR
 ---
 
 Très souvent, nos enfants réfléchissent sur ce qui se passe à la maison pendant qu'ils sont à l'école…

@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2014-05-03'
+locale: fr_FR
 ---
 
 ## Un citoyen, c'est davantage qu'un bulletin. Mais le bulletin a un sens.

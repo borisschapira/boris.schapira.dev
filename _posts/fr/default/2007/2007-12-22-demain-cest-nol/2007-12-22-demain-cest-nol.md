@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-12-22'
+locale: fr_FR
 ---
 
 **Re-Edit**&nbsp;: Elle a fini par arriver, mais on ne sait pas où sont les bagages (qui contenaient notamment les cadeaux de Noël pour la famille)…

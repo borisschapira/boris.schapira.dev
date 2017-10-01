@@ -6,6 +6,8 @@ categories:
 date: '2008-08-20'
 lang: fr
 type: post
+publishDate: '2008-08-20'
+locale: fr_FR
 ---
 
 Une des règles de l'étiquette chère aux **golfeurs **est la remise en place des "**escalopes**" ou divots, ces mottes de terre et de gazon soulevées par le club lors de l'impact. En conditions normales, cela n'est pas censé arriver car après un bon swing,  la balle est cueillie à la hauteur de l'herbe, pas plus bas.

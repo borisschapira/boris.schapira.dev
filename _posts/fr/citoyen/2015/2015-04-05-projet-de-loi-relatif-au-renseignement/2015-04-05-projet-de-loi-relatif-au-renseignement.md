@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-04-05'
+locale: fr_FR
 ---
 
 Ce projet m'inquiète pour de nombreuses raisons qui se résument rapidement en&nbsp;:

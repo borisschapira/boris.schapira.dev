@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-05-12'
+locale: fr_FR
 ---
 
 Je me joins à l'initiative de [Darklg](http://darklg.me/2009/05/merci-michel-herbillon/) et remercie chaleureusement mon député **Pierre-Christophe Baguet** pour avoir voté **en faveur** du projet de loi Hadopi.

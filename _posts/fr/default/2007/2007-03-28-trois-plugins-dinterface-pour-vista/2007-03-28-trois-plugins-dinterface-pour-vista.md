@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-03-28'
+locale: fr_FR
 ---
 
 Aéro, l'interface graphique de Windows Vista, propose par défaut une expérience qu'il est facile d'enrichir. En effet, une des grandes forces d'Aéro est sa modularité et on voit fleurir sur la Toile de nombreuses applications destinées à proposer de nouvelles manières de passer d'une fenêtre à une autre.

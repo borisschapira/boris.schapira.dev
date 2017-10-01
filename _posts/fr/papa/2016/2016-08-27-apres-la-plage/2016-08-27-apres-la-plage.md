@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-08-27'
+locale: fr_FR
 ---
 
 Nous avions oublié de prendre un rechange à notre Koala, nous lui expliquons donc qu'il va resté en maillot le temps d'aller manger.

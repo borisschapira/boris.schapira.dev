@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-09-30'
+locale: fr_FR
 ---
 
 Je ne sais pas vous, mais moi je suis toujours très excité quand j’apprends un truc nouveau dans le Framework .NET. Je commence par me demander comment il marche, si cette nouvelle méthode est plus performante que l’ancienne, si son implémentation dans une solution existante prendrait du temps…

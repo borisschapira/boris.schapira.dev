@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-11-02'
+locale: fr_FR
 ---
 
 On commence par définir le modèle de <span lang="en">hooks</span> de <span lang="en">pre-commit</span>.

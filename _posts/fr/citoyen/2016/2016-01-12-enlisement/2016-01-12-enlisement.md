@@ -6,6 +6,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-01-12'
+locale: fr_FR
 ---
 
 Tous les jours, ce sentiment gênant d'être dans un pays qui bascule. Où se trouve la limite, où se trouve le déclencheur d'une envie d'ailleurs ?

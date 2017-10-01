@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2012-09-06'
+locale: fr_FR
 ---
 
 GitHub, qu’on connait bien pour ses nombreuses publications sur l’intégration continue ou le travail délocalisé, vient de publier sur son blog un article dédié à la Performance Web.

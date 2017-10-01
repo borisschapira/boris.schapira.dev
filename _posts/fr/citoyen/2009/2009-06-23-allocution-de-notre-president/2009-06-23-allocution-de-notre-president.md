@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-06-23'
+locale: fr_FR
 ---
 
 Le président de la République, lors de son allocution lundi 22 juin à Versailles, s'est clairement exprimé, après la propositions de certains députés de créer une commission d'enquête sur ce sujet&nbsp;:

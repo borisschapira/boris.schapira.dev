@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-03-23'
+locale: fr_FR
 ---
 
 Une initiative à souligner&nbsp;: le <acronym lang="en" title="Massachusetts Institute Of Technology">MIT</acronym> ouvre ses cours aux internautes via sa plate-forme [MIT Open Course Ware](http://ocw.mit.edu/index.htm).

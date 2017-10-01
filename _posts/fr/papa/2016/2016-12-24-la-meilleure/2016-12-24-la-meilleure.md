@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-12-24'
+locale: fr_FR
 ---
 
 Vacances des enfants chez ma mère.

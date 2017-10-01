@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-06-03'
+locale: fr_FR
 ---
 
 Grosse colère du grand.

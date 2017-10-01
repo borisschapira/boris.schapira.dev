@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-02-08'
+locale: fr_FR
 ---
 
 > [...] chacune de ces mesures réduit insensiblement l’espacement des barreaux, les petits espaces de liberté où nous nous échappions, où nous prenions une gorgée d’air.  

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-03-12'
+locale: fr_FR
 ---
 
 Le réparateur du PC, venant tout démonter pour changer la carte mère :

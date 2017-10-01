@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-01-15'
+locale: fr_FR
 ---
 
 > C'est justement ceux qui "ne sont pas Charlie" qu'il faut repérer. Ceux qui dans certains établissements scolaires ont refusé la minute de silence. Ceux qui balancent sur les réseaux sociaux et ceux qui ne voient pas en quoi ce combat est le leur.  

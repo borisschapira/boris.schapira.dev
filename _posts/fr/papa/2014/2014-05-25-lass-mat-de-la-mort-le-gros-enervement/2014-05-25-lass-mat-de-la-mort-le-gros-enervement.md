@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-05-25'
+locale: fr_FR
 ---
 
 Le matin, j'explique :

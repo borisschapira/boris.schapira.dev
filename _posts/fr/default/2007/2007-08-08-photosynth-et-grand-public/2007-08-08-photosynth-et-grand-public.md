@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-08'
+locale: fr_FR
 ---
 
 J'ai tenté de reprendre un article pas si vieux (j'en ai juste posté 280 depuis) pour rendre son argumentaire plus clair. Voyons-voir si j'y arrive.

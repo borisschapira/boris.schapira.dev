@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-01-31'
+locale: fr_FR
 ---
 
 Hier avaient lieu des manifestations partout en France pour appeler à l'arrêt de l'État d'Urgence. Parallèlement, un sondage explique que [79 % des franças seraient favorables à sa prolongation](http://www.atlantico.fr/decryptage/79-pourcents-francais-favorables-prolongation-etat-urgence-jerome-fourquet-2568017.html "&quot;79% des Français favorables à une prolongation de l'état d'urgence&quot;, Jérôme Fourquet pour Atlantico"). La réponse est surprenante parce que la question est mal posée.

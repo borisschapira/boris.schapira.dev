@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-05-17'
+locale: fr_FR
 ---
 
 Ma femme a écouté des comptines avec les petits. Elle est un peu remontée :

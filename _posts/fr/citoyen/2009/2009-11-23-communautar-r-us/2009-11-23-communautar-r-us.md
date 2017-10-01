@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-11-23'
+locale: fr_FR
 ---
 
 Le document envoyé par Eric Besson aux préfets pour la conduite des débats sur l’Identité Nationale contient cette question épineuse&nbsp;:

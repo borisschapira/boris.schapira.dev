@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-05-16'
+locale: fr_FR
 ---
 
 Depuis plusieurs semaines, je reçois diverses offres (une à deux par jour) de sociétés souhaitant apparemment m'intégrer à leurs équipes. Ces mails sont pour la plupart très bien rédigés, s'accompagnent de coup de fils aimables et donnent suite à des entretiens.

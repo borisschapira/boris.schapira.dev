@@ -11,6 +11,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-12-19'
+locale: fr_FR
 ---
 
 Au début, j'ai pensé être méchant voire cynique. Mais je crois que je vais me contenter de rétablir la vérité et d'espérer un démenti ou au moins des précisions de la part de ce journal que j'apprécie.

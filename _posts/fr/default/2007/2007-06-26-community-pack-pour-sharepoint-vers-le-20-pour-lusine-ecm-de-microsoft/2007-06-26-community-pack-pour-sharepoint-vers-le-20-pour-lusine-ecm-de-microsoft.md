@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-26'
+locale: fr_FR
 ---
 
 Microsoft sort aujourd'hui un pack additionnel pour Microsoft Office SharePoint Server 2007 (MOSS 2007 pour les intimes).

@@ -5,6 +5,8 @@ categories:
 date: '2007-08-27'
 lang: fr
 type: post
+publishDate: '2007-08-27'
+locale: fr_FR
 ---
 
 Voilà, c'est en substance ce que je vais désormais essayer de me répéter pour arriver à atteindre mon nouvel objectif&nbsp;: perdre un peu de poids. Le principe est simple&nbsp;: ma vie personnelle étant assez occupée par mes activités de blogueur et ces activités étant assez prolifiques, dire que je n'ai pas le temps de faire du sport est de la pure mauvaise foi. <!-- more -->

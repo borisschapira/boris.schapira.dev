@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-03-21'
+locale: fr_FR
 ---
 
 > Moi, plus tard, je veux faire des toiles comme Spider-Man !

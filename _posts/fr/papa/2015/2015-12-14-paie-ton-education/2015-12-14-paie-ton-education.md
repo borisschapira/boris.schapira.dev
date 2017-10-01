@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-12-14'
+locale: fr_FR
 ---
 
 > — Allez, on rentre vite, on enlève les chaussures, les manteaux et…  

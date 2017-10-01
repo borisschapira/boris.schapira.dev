@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-10-06'
+locale: fr_FR
 ---
 
 Aujourd’hui, retour sur une question fondamentale : faut-il utiliser `Thread` ou `ThreadPool` ?

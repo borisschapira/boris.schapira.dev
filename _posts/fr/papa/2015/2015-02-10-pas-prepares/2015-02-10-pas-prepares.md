@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-02-10'
+locale: fr_FR
 ---
 
 On ne nous prépare jamais à la fatigue. Cette fatigue incroyable issue d'heures, voire de jours, à essayer de garder son calme pour ne pas en balancer un par la fenêtre.

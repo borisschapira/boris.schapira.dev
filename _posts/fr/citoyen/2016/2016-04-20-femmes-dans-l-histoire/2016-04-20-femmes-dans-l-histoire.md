@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-04-20'
+locale: fr_FR
 ---
 
 Plusieurs initiatives récentes permettent de rappeler que l'Histoire est écrite par les vainqueurs, c'est-à-dire les hommes, pour les hommes et en prenant bien soin d'en écarter les femmes.

@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-27'
+locale: fr_FR
 ---
 
 **PRIX DE L'INNOVATION 2007**

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-12-10'
+locale: fr_FR
 ---
 
 Tout le monde parle de test et au final, les gens ne se comprennent pas toujours. Précisons un peu tout ça pour parler la même langue.

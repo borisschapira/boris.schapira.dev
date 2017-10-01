@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-03-11'
+locale: fr_FR
 ---
 
 Toujours profiter d'eux comme si c'était le dernier jour.

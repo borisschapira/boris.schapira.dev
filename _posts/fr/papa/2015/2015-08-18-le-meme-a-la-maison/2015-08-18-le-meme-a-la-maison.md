@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-08-18'
+locale: fr_FR
 ---
 
 Les vacances, c'est aussi l'occasion de compatir pour les parents des copains de mes enfants.

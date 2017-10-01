@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-09-25'
+locale: fr_FR
 ---
 
 Nous avons accueuilli un nouveau pensionnaire. Simba est un chaton tigré de 5 mois. Il ressemble beaucoup à notre ancien chat, malheureusement écrasé dans le parking de notre ancienne résidence… Le petit nous explique :

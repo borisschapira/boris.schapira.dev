@@ -9,6 +9,8 @@ tags:
     - police
     - armée
     - 'État d''Urgence'
+publishDate: '2017-04-03'
+locale: fr_FR
 ---
 
 Dans le [précédent article](/2017/03/police-et-cohesion-sociale/ "Si on ne veille pas à renforcer la cohésion, ça risque d'éclater"), je citais un article qui expliquait ce qu'il adviendrait de notre pays si on continuait à remplacer les **gardiens de la paix** par des **forces de l'ordre**.

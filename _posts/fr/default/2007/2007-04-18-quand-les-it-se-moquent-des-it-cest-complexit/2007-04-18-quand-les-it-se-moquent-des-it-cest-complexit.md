@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-18'
+locale: fr_FR
 ---
 
 Lorsque deux IT se rencontrent autour d'une émission du type "Question pour un Champion", ça donne ComplexIT&nbsp;!

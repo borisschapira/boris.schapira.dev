@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-03-03'
+locale: fr_FR
 ---
 
 Il fut un temps où une "journée de repos" voulait dire que j'allais me reposer.

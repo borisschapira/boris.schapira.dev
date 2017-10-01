@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-03-15'
+locale: fr_FR
 ---
 
 Une polémique enfle depuis quelques temps autour d'une scène particulièrement violente du jeu à succès *Modern Warfare 2* dans laquelle le joueur, incarnant un soldat, se retrouve au cœur du génocide de la population d'un aéroport, contraint d'exécuter froidement l'ensemble des civils présents pour réussir sa mission.

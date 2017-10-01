@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-03-25'
+locale: fr_FR
 ---
 
 Hey, les gens sans enfants ! 

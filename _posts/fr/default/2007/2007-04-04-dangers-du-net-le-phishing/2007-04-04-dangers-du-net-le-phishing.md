@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-04'
+locale: fr_FR
 ---
 
 Dans cette série d'articles de vulgarisation sur les dangers du Net, nous allons commencer par aborder le <em lang="en">Phishing</em>,

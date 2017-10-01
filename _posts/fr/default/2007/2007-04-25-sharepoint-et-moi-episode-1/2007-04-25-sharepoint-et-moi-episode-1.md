@@ -10,6 +10,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-25'
+locale: fr_FR
 ---
 
 Deux mois de stages chez Microsoft France, c'est déjà beaucoup et en même temps peu. Il y a tant à apprendre ici&nbsp;!

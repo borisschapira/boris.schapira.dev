@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-10-25'
+locale: fr_FR
 ---
 
 > — Mais qu'est-ce que vous faites là ?  

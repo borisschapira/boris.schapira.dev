@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-05-08'
+locale: fr_FR
 ---
 
 Je regarde "La Belle et le Clochard" avec les enfants. La scène des pâtes à la bolognaise leur plait beaucoup.

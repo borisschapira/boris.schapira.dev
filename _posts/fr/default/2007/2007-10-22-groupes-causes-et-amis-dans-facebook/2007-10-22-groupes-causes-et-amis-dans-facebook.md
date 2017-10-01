@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-10-22'
+locale: fr_FR
 ---
 
 Depuis quelques semaines, je me pose des questions sur l'utilisation de Facebook, des groupes, des causes et des amis. 

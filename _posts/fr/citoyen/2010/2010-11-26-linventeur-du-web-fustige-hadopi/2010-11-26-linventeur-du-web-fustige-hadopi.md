@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2010-11-26'
+locale: fr_FR
 ---
 
 > Les régimes totalitaires ne sont pas les seuls qui violent les droits du réseau de leurs citoyens. En France une loi créée en 2009, appelée [HADOPI](http://www.laquadrature.net/fr/HADOPI), autorise une administration du même nom à déconnecter un foyer pendant un an si quelqu’un dans la maison est accusé par une compagnie de distribution de médias d’avoir téléchargé de la musique ou des vidéos. Suite à une forte opposition, en octobre le Conseil constitutionnel français a demandé qu’un juge soit saisi du dossier avant que l’accès à Internet ne soit coupé, mais si le juge l’accepte, le foyer familial pourra être déconnecté sans procédure légale digne de ce nom.  

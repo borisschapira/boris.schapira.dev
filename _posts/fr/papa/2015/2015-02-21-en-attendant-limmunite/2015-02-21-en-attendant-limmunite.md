@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-02-21'
+locale: fr_FR
 ---
 
 Qu'il est bon d'avoir une femme qui a cet humour !

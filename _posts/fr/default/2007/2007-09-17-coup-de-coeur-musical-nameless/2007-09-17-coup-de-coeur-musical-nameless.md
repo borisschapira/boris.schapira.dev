@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-09-17'
+locale: fr_FR
 ---
 
 J'ai eu l'occasion de passer mes journées de la semaine dernière aux côtés de Julien Henry, bassiste du groupe Nameless ([site officiel](http://www.nameless.fr/)), et il a eu la gentillesse de me faire découvrir avec humilité et retenue le Brit Rock pourtant énergique et riche qu'il joue sur scène.

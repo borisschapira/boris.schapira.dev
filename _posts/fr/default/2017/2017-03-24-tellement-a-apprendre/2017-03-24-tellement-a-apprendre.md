@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2017-03-24'
+locale: fr_FR
 ---
 
 Un de mes collègues a partagé une synthèse de différents outils Devops qu'il a trouvé sur LinkedIn… J'ai colorisé les outils que j'avais déjà utilisé dans le cadre de projets.

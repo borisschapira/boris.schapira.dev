@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-02-27'
+locale: fr_FR
 ---
 
 Monsieur le député,

@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-02-13'
+locale: fr_FR
 ---
 
 > Arrivé à un certain état, il est indécent de vivre plus longtemps.  

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-09-02'
+locale: fr_FR
 ---
 
 Mes beaux-parents ont un camping-car, pour le plus grand plaisir des petits qui adorent dormir dedans. Forcément, quand on en croise un, ils y pensent.

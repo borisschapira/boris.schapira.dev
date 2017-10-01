@@ -5,6 +5,8 @@ categories:
 date: '2007-10-29'
 lang: fr
 type: post
+publishDate: '2007-10-29'
+locale: fr_FR
 ---
 
 Il a commencé petit, tout petit. Et il s'est déchainé tout nu pendant des semaines sur M6 tous les matins. Michael Youn a réussi en quelques mois de Morning Live à décrocher suffisamment de contacts pour financer un premier délire&nbsp;: Alphonse Brown. Succès immédiat et récidive avec les Bratisla Boys. Quelques mois plus tard, il revient en 'Connard' puis s'égare un peu en interprétant Iznogoud. L'année dernière, il revient avec Fatal Bazooka.

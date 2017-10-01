@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-10-03'
+locale: fr_FR
 ---
 
 > — Et elle, tu l'aimes bien ?  

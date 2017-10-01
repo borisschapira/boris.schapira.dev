@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-12-16'
+locale: fr_FR
 ---
 
 Après une semaine, voici l'heure du départ pour notre futur ex-stagiaire.

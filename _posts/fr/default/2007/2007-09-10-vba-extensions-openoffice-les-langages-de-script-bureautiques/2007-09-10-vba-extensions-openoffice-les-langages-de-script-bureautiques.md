@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-09-10'
+locale: fr_FR
 ---
 
 Je suis passé par l'apprentissage de nombreux langages de développement. Des langages de balises aux langages objets en passant par la programmation logique (qui est un domaine d'expertise méconnu, à tort). Chacun d'entre eux possède ses avantages et ses inconvénients donc il serait erroné de penser que les langages de dernière génération (notamment les langages de Framework POO) sont forcément les "meilleurs" (pas de panique Mitsu, je ne renie pas ma passion pour .NET). Les langages de script pour les suites bureautique ont encore de beaux jours devant eux.

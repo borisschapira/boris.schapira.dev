@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-07-27'
+locale: fr_FR
 ---
 
 <figure>

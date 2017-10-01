@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-04-11'
+locale: fr_FR
 ---
 
 > — Bonne nuit chéri, je t'aime plus que tout.  

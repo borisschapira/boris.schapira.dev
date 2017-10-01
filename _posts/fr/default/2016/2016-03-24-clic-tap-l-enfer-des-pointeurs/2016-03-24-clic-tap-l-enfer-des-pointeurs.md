@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-03-24'
+locale: fr_FR
 ---
 
 ## Le problème

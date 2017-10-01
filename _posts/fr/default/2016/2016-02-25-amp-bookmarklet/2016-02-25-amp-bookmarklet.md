@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-02-25'
+locale: fr_FR
 ---
 
 Les premières pages <abbr title="Accelerated Mobile Pages">AMP</abbr> apparaissent dans les résultats de recherche Google.

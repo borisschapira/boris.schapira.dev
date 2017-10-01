@@ -11,6 +11,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-06-16'
+locale: fr_FR
 ---
 
 Témoignage en direct du futur :

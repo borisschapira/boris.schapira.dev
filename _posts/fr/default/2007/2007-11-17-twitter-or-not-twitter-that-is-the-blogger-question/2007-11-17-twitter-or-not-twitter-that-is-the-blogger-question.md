@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-11-17'
+locale: fr_FR
 ---
 
 Pour l'instant j'utilise Frazr comme microblog pour afficher des phrases en rotation dans un widget. Ce que j'aime bien chez Frazr, c'est la simplicité. L'interface est épurée et les fonctionnalités ne sont pas compliquées non plus. Tout est clair et joliment présenté, ce qui a le mérite de rendre le microblog plus agréable que quand j'avais commencé sur Twitter.

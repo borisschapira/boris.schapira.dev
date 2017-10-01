@@ -10,6 +10,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-23'
+locale: fr_FR
 ---
 
 > Avec **113** participants issus de 18 pays, les Trophées du libre sont sans conteste **le plus grand concours jamais organisé pour la promotion de la cause du libre** auprès des utilisateurs de logiciels. Les développeurs qui remporteront cette récompense obtiendront la visibilité qui leur est due. (…) Je suis très honoré de venir remettre leur Trophée aux gagnants et les remercie d'avance pour leur contribution à leur propre liberté d'expression ainsi qu'à celle des autres.  

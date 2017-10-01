@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-02-09'
+locale: fr_FR
 ---
 
 > Chacun a le **devoir** de travailler et le **droit** d'obtenir un emploi.  

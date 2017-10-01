@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-10-05'
+locale: fr_FR
 ---
 
 > — A château, papa!  

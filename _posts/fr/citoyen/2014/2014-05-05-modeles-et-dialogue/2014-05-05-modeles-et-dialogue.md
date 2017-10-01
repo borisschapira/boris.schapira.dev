@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2014-05-05'
+locale: fr_FR
 ---
 
 > Our ordinary conceptual system, in terms of which we both think and act, is fundamentally metaphorical in nature.  

@@ -5,6 +5,8 @@ categories:
 date: '2008-02-22'
 lang: fr
 type: post
+publishDate: '2008-02-22'
+locale: fr_FR
 ---
 
 Mercredi sur la ligne 1, direction Paris après une longue journée à la Défense. Dans le métro, comme d'habitude, personne ne rit. Les mines sont ternes, les regards bas. Le boulot étant passé, il reste métro et dodo… La rame vient de s'arrêter en station quand les hauts-parleurs grésillent…

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-07-19'
+locale: fr_FR
 ---
 
 > — Papa, pardon.  

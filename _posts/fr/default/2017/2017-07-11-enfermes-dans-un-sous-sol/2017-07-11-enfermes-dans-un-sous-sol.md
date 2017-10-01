@@ -7,6 +7,8 @@ categories:
     - default
 tags:
     - anecdotes
+publishDate: '2017-07-11'
+locale: fr_FR
 ---
 
 Alors que je m'apprête à tourner une page professionnelle, je ressens le besoin de partager des anecdotes de ma vie de consultant. Celle-ci, rétrospectivement, me fait rire. Mais je faisais moins mon fier en 2011…

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-11-14'
+locale: fr_FR
 ---
 
 > — Les enfants, on est lundi alors on va prendre des résolutions. Qu'est-ce qu'on va mieux faire cette semaine ?  

@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-01-06'
+locale: fr_FR
 ---
 
 Lorsque j'en ai parlé à Bibou, il n'était franchement pas enchanté par l'idée, mais j'ai insisté, et il a fini par céder&nbsp;!

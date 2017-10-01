@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-02-24'
+locale: fr_FR
 ---
 
 J'ai reçu, il y a quelques jours, un proposition de [Heaven](http://heaven.fr/) pour tester la [Microsoft Arc Mouse](http://www.microsoft.com/hardware/fr-fr), une souris à capteur laser actuellement vendue dans le commerce aux alentours de 60 euros. Lors de sa présentation, cette souris m'avait intrigué, tout en me laissant un arrière-goût amer. Vais-je retourner ma veste, acheté par les sirènes (que dis-je, les [anges](http://heaven.fr/expertises/)) du marketing&nbsp;?**

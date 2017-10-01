@@ -9,6 +9,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-27'
+locale: fr_FR
 ---
 
 J'avais déjà annoncé de nombreuses améliorations pour la future version de Live Hotmail. Mais c'est aujourd'hui que je reçois la **fiche technique de la mise à jour Live Hotmail de Septembre** alors autant en faire profiter les autres. Voici la liste des améliorations&nbsp;:

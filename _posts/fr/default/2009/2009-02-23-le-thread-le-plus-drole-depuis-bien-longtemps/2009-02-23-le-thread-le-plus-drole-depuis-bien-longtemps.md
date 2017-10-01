@@ -6,6 +6,8 @@ categories:
 date: '2009-02-23'
 lang: fr
 type: post
+publishDate: '2009-02-23'
+locale: fr_FR
 ---
 
 Ça se passe chez Henri Michel. Le principe est simple&nbsp;: raconter un film ou une émission à l'envers, en quelques mots. Les résultats sont assez vite hilarants.

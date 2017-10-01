@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-02-10'
+locale: fr_FR
 ---
 
 > — C'est le gros méchant dinosaure féroce !  

@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-02-01'
+locale: fr_FR
 ---
 
 1. Privil&#233;giez les **en-t&#234;tes concis et lisible**. N'&#233;crivez pas en tout petit les informations capitales que sont vos nom, pr&#233;nom, t&#233;l&#233;phone et email.

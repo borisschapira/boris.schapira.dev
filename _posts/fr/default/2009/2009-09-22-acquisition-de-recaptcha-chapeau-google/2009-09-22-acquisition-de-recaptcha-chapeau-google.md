@@ -6,6 +6,8 @@ categories:
 date: '2009-09-22'
 lang: fr
 type: post
+publishDate: '2009-09-22'
+locale: fr_FR
 ---
 
 Je ne suis pas un fervent défenseur de la firme californienne mais là, je dois avouer qu'ils ont fait l'une des meilleures opérations d'acquisition qui soit. Explications.

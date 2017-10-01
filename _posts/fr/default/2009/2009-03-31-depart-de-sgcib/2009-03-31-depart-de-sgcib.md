@@ -11,6 +11,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-03-31'
+locale: fr_FR
 ---
 
 Vendredi dernier a eu lieu un grand pot de départ dans ma salle de marché.

@@ -8,6 +8,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2012-07-31'
+locale: fr_FR
 ---
 
 Cette question est à la base de toute stratégie de WebPerf et pour autant, elle n’admet aucune bonne réponse. Alors comment mesurer la performance Web&nbsp;?

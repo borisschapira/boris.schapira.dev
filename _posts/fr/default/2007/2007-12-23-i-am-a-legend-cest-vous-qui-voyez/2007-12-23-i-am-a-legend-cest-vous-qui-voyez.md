@@ -5,6 +5,8 @@ categories:
 date: '2007-12-23'
 lang: fr
 type: post
+publishDate: '2007-12-23'
+locale: fr_FR
 ---
 
 Après le fabuleux cocktail de mardi dernier, direction une petite salle obscure pour voir en avant-première le dernier film en salle affichant Will Smith.

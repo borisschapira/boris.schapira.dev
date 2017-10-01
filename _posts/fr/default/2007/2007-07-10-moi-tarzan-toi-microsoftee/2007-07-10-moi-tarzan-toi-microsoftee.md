@@ -5,6 +5,8 @@ categories:
 date: '2007-07-10'
 lang: fr
 type: post
+publishDate: '2007-07-10'
+locale: fr_FR
 ---
 
 Ne rien comprendre au paragraphe suivant est un signe de non-appartenance à ma division chez Microsoft.

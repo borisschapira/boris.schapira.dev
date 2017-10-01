@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-05-22'
+locale: fr_FR
 ---
 
 Dans les James Bond, le méchant gâche toujours son plan machiavélique en le divulguant trop tôt.

@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2017-01-31'
+locale: fr_FR
 ---
 
 > Je suis le candidat anti-système, donc votez pour moi.

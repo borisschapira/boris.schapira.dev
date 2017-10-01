@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-10-28'
+locale: fr_FR
 ---
 
 Halloween étant passé, les discussions vont déjà bon train à la maison concernant Noël.

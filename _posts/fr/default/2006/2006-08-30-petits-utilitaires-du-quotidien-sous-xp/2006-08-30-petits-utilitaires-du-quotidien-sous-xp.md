@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2006-08-30'
+locale: fr_FR
 ---
 
 Je suis quasiment certain de regretter cet inventaire dans quelques années, mais sait-on jamais, peut-être cela me donnera-t-il un autre regard ?

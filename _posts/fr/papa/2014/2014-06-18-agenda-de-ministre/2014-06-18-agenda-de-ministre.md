@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-06-18'
+locale: fr_FR
 ---
 
 > — Allez, petit dictateur, à table!  

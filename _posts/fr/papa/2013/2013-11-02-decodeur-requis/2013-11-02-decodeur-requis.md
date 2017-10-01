@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-11-02'
+locale: fr_FR
 ---
 
 > — Papa, papa !  

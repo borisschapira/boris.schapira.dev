@@ -7,6 +7,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-07-31'
+locale: fr_FR
 ---
 
 Voilà , je viens d'avoir le droit à un joli crash de ma base de données avec suppression de mes tables. Heureusement que je fais des sauvegardes automatiques régulières…

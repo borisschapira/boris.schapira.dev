@@ -10,6 +10,8 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-09-21'
+locale: fr_FR
 ---
 
 L'**avènement** des nouvelles technologies de **mobilité** (ordinateurs de plus en plus léger, wifi, connections sécurisées aux réseaux d'entreprises, smartphones) a développé chez certains cadres une véritable addiction au travail, incitée par une demande accrue des entreprises à pouvoir **joindre leurs collaborateurs n'importe où et n'importe quand**.
