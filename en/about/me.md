@@ -3,6 +3,7 @@ layout: page
 title: Hi, I'm Boris
 date: 2015-10-05 17:15:20
 i18n-key: about-me
+locale: en_US
 ---
 
 ## nice to meet you

@@ -1,17 +1,17 @@
 ---
 layout: microtypo
 ---
-{% assign the-lang = page.lang | default: site.lang | default: "fr" %}
-{% assign translations=site.posts | where:"i18n-key", page.i18n-key | sort: 'lang' %}
+{% assign the-locale = page.locale | default: site.locale | default: "fr_FR" %}
+{% assign translations=site.posts | where:"i18n-key", page.i18n-key | sort: 'locale' %}
 {% if translations.size == 0 %}
-  {% assign translations=site.pages | where:"i18n-key", page.i18n-key | sort: 'lang' %}
+  {% assign translations=site.pages | where:"i18n-key", page.i18n-key | sort: 'locale' %}
 {% endif %}
-{% assign lang=page.lang %}
-{% if lang %}
-  {% assign lang=site.lang %}
+{% assign locale=page.locale %}
+{% if locale %}
+  {% assign locale=site.locale %}
 {% endif %}
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}" itemscope itemtype="https://schema.org/WebPage">
+<html lang="{{ page.locale | default: site.locale | default: "en_US" }}" itemscope itemtype="https://schema.org/WebPage">
 
   {% include head.html.liquid %}
 

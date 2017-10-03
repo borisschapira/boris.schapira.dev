@@ -1,10 +1,10 @@
-{% assign d = include.postDate | localize: "%-d", include.pageLang %}
-{% assign m = include.postDate | localize: "%B", include.pageLang %}
- {{ include.postDate | localize: "%A", include.pageLang }}
+{% assign d = include.postDate | localize: "%-d", include.locale %}
+{% assign m = include.postDate | localize: "%B", include.locale %}
+ {{ include.postDate | localize: "%A", include.locale }}
 {% case m %}
   {% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
   {% when 'September' %}Sept.
-  {% else %}{{ include.postDate | localize: "%b", include.pageLang }}.
+  {% else %}{{ include.postDate | localize: "%b", include.locale }}.
   {% endcase %}
 {% case d %}
   {% when '1' or '21' or '31' %} {{ d }}st
@@ -12,4 +12,4 @@
   {% when '3' or '23' %} {{ d }}rd
   {% else %} {{ d }}th
   {% endcase %},
-{{ include.postDate | localize: "%Y", include.pageLang }}
+{{ include.postDate | localize: "%Y", include.locale }}

@@ -4,6 +4,7 @@ title: À propos de ce site
 date: 2015-10-05 17:15:20
 i18n-key: about-site
 permalink: /a-propos/site/index.html
+locale: fr_FR
 ---
 
 Je suis le principal auteur et l'unique responsable des contenus publiés sur ce site. En revanche, les marques citées sur ce site sont propriétaires des sociétés qui les ont déposés. L’ensemble de ce site est soumis au droit français.

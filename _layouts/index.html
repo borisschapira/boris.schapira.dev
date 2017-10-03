@@ -11,7 +11,7 @@ layout: default
         </header>
     {% endunless %}
 
-    {% assign the_posts=site.categories[page.category] | where:"lang", page.lang |  where:"hidden", false %}
+    {% assign the_posts=site.categories[page.category] | where:"locale", page.locale |  where:"hidden", false %}
 
     {% if paginator %}
         {% for post in paginator.posts %}
