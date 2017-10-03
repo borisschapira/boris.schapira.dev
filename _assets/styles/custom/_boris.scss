@@ -1,5 +1,5 @@
 $color-complement: complement($color-main);
-$color-complement-faded: lighten($color-complement, 20);
+$color-complement-faded: lighten($color-complement, 40);
 $color-gray: rgb(112,112,112);
 $color-lightgray : lighten($color-gray, 40 - lightness($color-main));
 $color-bg : lighten($color-main, 99 - lightness($color-main));
@@ -339,7 +339,6 @@ footer .wrap {
 }
 .algolia__result-link .algolia__result-highlight {
   background-color: $color-complement-faded;
-  background-color: rgba(47,244,146,0.2);
 }
 .algolia__result-text .algolia__result-highlight {
   text-shadow: 0 0 6px rgba(47,244,146,0.2);
