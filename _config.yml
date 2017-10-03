@@ -7,12 +7,14 @@
 
 # Lang configuration
 lang: fr
+locale: fr_FR
 base-url: "/"
 defaults:
   - scope:
       path: ""
     values:
       lang: fr
+      locale: fr_FR
       base-url: ""
       category: default
   - scope:
@@ -38,6 +40,7 @@ defaults:
       path: "en"
     values:
       lang: en
+      locale: en_US
       base-url: "en/"
   - scope:	
        path: "_posts/en"		
@@ -71,11 +74,10 @@ name: 'Boris Schapira'
 title: 'Boris Schapira'
 email: borisschapira@gmail.com
 tagline: '<span lang="en">Life is too short to be small</span>'
-description: "Mon blog personnel, sur lequel je partage quelques avis sur mon métier mais aussi sur ma vie de parent et de citoyen"
+description: "Blog personnel de Boris Schapira. Des avis sur les métiers du web mais aussi sur ma vie de parent et de citoyen."
 url: "https://borisschapira.com"
 timezone: Europe/Paris
 incremental: true
-profile: true
 encoding: utf-8
 lsi: true
 repository: borisschapira/jekyll-bs

@@ -21,7 +21,7 @@
           <a href="{{ site.base-url }}{{ page.base-url }}">{% t Web %}</a>
         </li>
 
-        {% if the-lang == 'fr' %}
+        {% if the-locale == 'fr_FR' %}
 
           <li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}">
             <a href="{{ site.base-url }}{{ page.base-url | append: 'citoyen/' }}">{% t Citoyen %}</a>

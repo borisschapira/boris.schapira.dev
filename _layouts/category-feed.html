@@ -11,7 +11,7 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% assign the_posts=site.categories[page.category] | where:"lang", page.lang |  where:"hidden", false %}
+    {% assign the_posts=site.categories[page.category] | where:"locale", page.locale |  where:"hidden", false %}
     {% for post in the_posts limit: 20%}
       <item>
         <title>{{ post.title | xml_escape }}</title>

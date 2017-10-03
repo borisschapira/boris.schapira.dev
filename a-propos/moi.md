@@ -4,6 +4,7 @@ title: Bonjour, je suis Boris
 date: 2015-10-05 17:15:20
 i18n-key: about-me
 permalink: /a-propos/moi/index.html
+locale: fr_FR
 ---
 
 ## ravi de vous rencontrer

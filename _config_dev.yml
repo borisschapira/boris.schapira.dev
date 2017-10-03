@@ -25,3 +25,4 @@ algolia:
 limit_posts: 60
 host: 0.0.0.0
 future: true
+profile: true

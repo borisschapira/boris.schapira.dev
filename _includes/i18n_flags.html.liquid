@@ -1,12 +1,12 @@
 <ul>
   {% if page.i18n-key == 'home' %}
-    {% if page.lang == 'fr' %}
+    {% if page.locale == 'fr_FR' %}
       <li><a class="en" href="{{ site.base-url | append: 'en' }}">
         <svg class="icon flag-en">
           <use xlink:href="#flag-en"></use>
         </svg>
       </a></li>
-    {% elsif page.lang == 'en' %}
+    {% elsif page.locale == 'en_US' %}
       <li><a class="fr" href="{{ site.base-url }}">
         <svg class="icon flag-fr">
           <use xlink:href="#flag-fr"></use>
@@ -15,10 +15,10 @@
     {% endif %}
   {% else %}
     {% for translation in translations %}
-      {% if translation.lang != page.lang %}
-        <li><a class="{{ translation.lang }}" href="{{ translation.url }}">
-          <svg class="icon flag-{{ translation.lang }}">
-            <use xlink:href="#flag-{{ translation.lang }}"></use>
+      {% if translation.locale != page.locale %}
+        <li><a class="{{ translation.locale }}" href="{{ translation.url }}">
+          <svg class="icon flag-{{ translation.locale | slice: 0,1 }}">
+            <use xlink:href="#flag-{{ translation.locale | slice: 0,1 }}"></use>
           </svg>
         </a></li>
       {% endif %}

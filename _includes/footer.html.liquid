@@ -28,7 +28,7 @@
 <input type="hidden" id="data-analytics" value="{&quot;environment&quot;:&quot;{{ jekyll.environment }}&quot;,&quot;categories&quot;:[&quot;{{ page.category }}&quot;],&quot;tags&quot;:[&quot;{{ page.tags | join:"&quot;,&quot;" }}&quot;]}"/>
 {% javascript critical %}
 {% javascript instant data-no-instant %}
-{% if the-lang == 'fr' %}
+{% if the-locale == 'fr_FR' %}
   {% javascript main-fr defer:"defer"%}
 {% else %}
   {% javascript main-en defer:"defer"%}

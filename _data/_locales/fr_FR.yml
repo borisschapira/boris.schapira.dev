@@ -6,7 +6,7 @@
 #  - Tsutomu Kuroda - http://github.com/kuroda (t-kuroda@oiax.jp)
 # Emended by Benjamin des Gachons and Patrick Chew : <http://www.fitima.org/docs/fiche.pdf>
 
-fr:
+fr_FR:
   date:
     abbr_day_names:
       - dim

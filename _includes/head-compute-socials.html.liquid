@@ -22,11 +22,11 @@
 
   {% case page.type %}
     {% when "year" %}
-      {% capture socialTitle %}Année {{ page.date | localize: "%Y", page.lang }} &middot; {{ site.title }}{% endcapture %}
-      {% capture socialDescription %}Billets publiés en {{ page.date | localize: "%Y", page.lang }}{% endcapture %}
+      {% capture socialTitle %}Année {{ page.date | localize: "%Y", page.locale }} &middot; {{ site.title }}{% endcapture %}
+      {% capture socialDescription %}Billets publiés en {{ page.date | localize: "%Y", page.locale }}{% endcapture %}
     {% when "month" %}
-      {% capture socialTitle %}{{ page.date | localize: '%B %Y', page.lang }} &middot; {{ site.title }}{% endcapture %}
-      {% capture socialDescription %}Billets publiés en {{ page.date | localize: '%B %Y', page.lang }}{% endcapture %}
+      {% capture socialTitle %}{{ page.date | localize: '%B %Y', page.locale }} &middot; {{ site.title }}{% endcapture %}
+      {% capture socialDescription %}Billets publiés en {{ page.date | localize: '%B %Y', page.locale }}{% endcapture %}
     {% else %}
       {% capture socialTitle %}{{ page.title | strip_html }} &middot; {{ site.title }}{% endcapture %}
       {% capture socialDescription %}{% unless page.excerpt == blank %}{{ page.excerpt}}{% else %}{% unless page.description == blank %}{{ page.description }}{% else %}{{ site.description }}{% endunless %}{% endunless %}{% endcapture %}
