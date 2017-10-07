@@ -7,7 +7,7 @@ categories:
     - default
 ---
 
-Et si le e-commerce se produisait dans la vraie vie (ou comment prendre du recul sur des pratiques qui se sont imposées et semblent naturelles, mais privent la plupart du temps l'utilisateur de tout consentement)…
+Et si le e-commerce se produisait dans la vraie vie (ou comment prendre du recul sur des pratiques qui se sont imposées et semblent naturelles, mais privent la plupart du temps l'utilisateur de tout consentement)&#8239;…
 
 ***
 
