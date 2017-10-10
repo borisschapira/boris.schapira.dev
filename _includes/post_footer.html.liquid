@@ -1,7 +1,7 @@
 <footer class="post-footer">
   <div class="contrib">
     <p>
-      <em>{% t Si vous détectez une erreur et que vous avez un compte Github %}, {% t vous pouvez proposer une %} <a rel="nofollow" href="{{ site.author.github|raw }}/blog/blob/master/{{ page.locale | slice: 0,1 | downcase }}/{{ page.category | downcase }}/{{ page.date | date: "%Y" }}/{{ folderName }}/{{ source.last }}">{% t modification des %} <span class="nowrap">{% t sources %}&nbsp;<svg class="icon icon-git"><use xlink:href="#icon-git"></use></svg></span></a>
+      <em>{% t Si vous détectez une erreur et que vous avez un compte Github %}, {% t vous pouvez proposer une %} <a rel="nofollow" href="{{ site.author.github|raw }}/blog/blob/master/{{ page.locale | slice: 0,2 | downcase }}/{{ page.category | downcase }}/{{ page.date | date: "%Y" }}/{{ folderName }}/{{ source.last }}">{% t modification des %} <span class="nowrap">{% t sources %}&nbsp;<svg class="icon icon-git"><use xlink:href="#icon-git"></use></svg></span></a>
       {% t ou ouvrir un %} <a class="nowrap" href="{{ site.author.github|raw }}/blog/issues/new?title=Article%20%22{{page.url}}%22" rel="nofollow">{% t ticket %}&nbsp;<svg class="icon icon-github4"><use xlink:href="#icon-github4"></use></svg></a>.</em>
     </p>
   </div>
