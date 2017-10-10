@@ -6,15 +6,15 @@ module Jekyll
     end
 
     def render(context)
-      lang = context['page']['lang']
-      lang = context['site']['lang'] unless lang
-      raise "Page language not specified: #{context['page']['path']}" unless lang
+      locale = context['page']['locale']
+      locale = context['site']['locale'] unless locale
+      raise "Page language not specified: #{context['page']['path']}" unless locale
       site = context['site']
-      source_lang = site['lang']
-      if lang == source_lang
+      source_locale = site['locale']
+      if locale == source_locale
         @text
       else
-        translations = site['data']['translations'][lang]
+        translations = site['data']['translations'][locale]
         raise 'Translations not provided' unless translations
         translation = translations[@text]
         raise "Translation not provided: #{@text}" unless translation
@@ -28,16 +28,16 @@ Liquid::Template.register_tag('t', Jekyll::I18NTag)
 
 module Jekyll
   module I18NTFilter
-    def translate_to(text, lang)
+    def translate_to(text, locale)
       p text
-      p lang
-      raise "Page language not specified to filter" unless @lang
+      p locale
+      raise "Page language not specified to filter" unless @locale
       site = Jekyll.contect({})
-      source_lang = site['lang']
-      if @lang == source_lang
+      source_locale = site['locale']
+      if @locale == source_locale
         @text
       else
-        translations = site['data']['translations'][@lang]
+        translations = site['data']['translations'][@locale]
         raise 'Translations not provided' unless translations
         translation = translations[@text]
         raise "Translation not provided: #{@text}" unless translation

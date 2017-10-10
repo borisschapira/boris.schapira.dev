@@ -6,6 +6,8 @@ $color-bg : lighten($color-main, 99 - lightness($color-main));
 
 html {
   font-size: calc( 16px + (20 - 16)*(100vw - 400px) / (760-400) );
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.7;
 }
 
 /* Lisibility */
