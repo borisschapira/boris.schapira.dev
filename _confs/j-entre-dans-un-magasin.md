@@ -1,6 +1,14 @@
 ---
-title: "Où sont les valeurs du Web ?"
-target: gens qui s'intéressent au Web… et à la société
-description: "Produire du Web Fast(e), mais pas Furious Le web est un média qui est souvent associé à la vitesse, à la jeunesse. Un média où tout est beau, tout est nouveau… les projets sont rapides, destinés à atteindre le marché le plus vite possible, en mode \"hit and run\". Ou pas. La grande majorité des sites Web date d'il y a plus de cinq ans et ne sera pas renouvelée par d'autres dispositifs dans l'immédiat. Une grande partie des utilisateurs ont une connectivité intermittente et offrant un faible débit. Une majorité des utilisateurs n'est ni jeune, ni en recherche d'innovation. Le Web manque encore beaucoup là où les gens sont déjà les moins connectés à la vie de la Cité. Comment proposer des services de qualité, sur la durée ?"
-description_off: "L'idée n'est pas de critiquer les nouveautés, attention, mais plutôt de présenter des possibilités pour réaliser un Web plus résilient. Nous parlerons de standards, de données, d'amélioration progressive et continue, de résistance à la hype, de mesure en continu de la qualité et de la performance, de contribution efficace… d'un autre Web, plus Fast(e) mais moins Furious."
+title: "J'entre dans un magasin"
+target: consommateurs responsables
+description: "Que se passerait-il si on transposait les pratiques du e-commerce aux commerces physiques ? Et si on discutait un peu des pratiques du e-commerce aujourd'hui ? Chaque fois que je vais sur un site, j'essaie d'imaginer ce qui se passerait si j'étais, en fait, dans un magasin physique. Parfois, les résultats sont surprenants. D'autre fois, ils permettent de comprendre comment le e-commerce pourrait évoluer pour mieux satisfaire ses clients."
+events: 
+  - name: "Paris Web 2017"
+    date: 2017-10-06 
 ---
+
+J'avais envie de proposer quelque chose d'humoristique, sur la base d'un [article publié en janvier](/2017/01/j-entre-dans-un-magasin/ "J'entre dans un magasin - Boris Schapira"), agrémenté d'exemples concrets de mauvaises pratiques ou de pratiques qui sont communément admises mais, quand on les interroge avec du bon sens, assez ridicules. 
+
+Dans un deuxième temps, je voulais procéder à l'exercice inverse : analyser les pratiques du commerces physique pour estimer les tendances qui pourraient, demain, être bouleversée par le biais du Web. Cependant, en creusant, je me suis rendu compte, chiffres à l'appui, que le commerce physique suivait la même tendance qu'en ligne : rationalisation à outrance, _dark patterns_…
+
+Pourtant, le commerce fonctionne sur l'établissement d'une relation de confiance entre deux parties. Choisir de maintenir ou non cette confiance est une question de **valeurs**. Il ne tient qu'à nous, professionnels, de remettre un peu de bon sens dans ce que nous faisons. Qui sait, cela pourrait peut-être aider les initiatives plus positives !
