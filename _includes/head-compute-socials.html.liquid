@@ -28,6 +28,7 @@
       {% capture socialTitle %}{{ page.date | localize: '%B %Y', page.locale }} &middot; {{ site.title }}{% endcapture %}
       {% capture socialDescription %}Billets publiés en {{ page.date | localize: '%B %Y', page.locale }}{% endcapture %}
     {% when "post" %}
+      {% capture socialTitle %}{{ page.title | strip_html }} &middot; {{ site.title }}{% endcapture %}
       {% if page.content contains "<!-- more -->" %}
         {% capture socialDescription %}{{ page.content | split:"<!-- more -->" | first | markdownify % }}{% endcapture %}
       {% elsif page.content.size < 1000 %}
@@ -40,7 +41,7 @@
         {% capture socialDescription %}{{ page.excerpt | markdownify }}{% endcapture %}
       {% endif %}
     {% else %}
-      {% capture socialTitle %}{{ page.title | strip_html }} &middot; {{ site.title }}{% endcapture %}      
+      {% capture socialTitle %}{{ page.title | strip_html }} &middot; {{ site.title }}{% endcapture %}
       {% unless page.excerpt == blank %}
         {% capture socialDescription %}{{ page.excerpt}}{% endcapture %}
       {% endunless %}
