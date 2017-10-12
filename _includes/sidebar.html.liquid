@@ -16,19 +16,22 @@
     {% endif %}
 
     <nav class="sidebar-nav">
-      <ul class="categories">
-        <li class="sidebar-nav-item {% if page.category == 'default' %} active{% endif %}">
-          <a href="{{ site.base-url }}{{ page.base-url }}">{% t Web %}</a>
+      <ul class="categories" itemscope itemtype="http://schema.org/BreadcrumbList">
+        <li class="sidebar-nav-item {% if page.category == 'default' %} active{% endif %}" itemprop="itemListElement" itemscope
+      itemtype="http://schema.org/ListItem">
+          <a href="{{ site.base-url }}{{ page.base-url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{% t Web %}</a>
         </li>
 
         {% if the-locale == 'fr_FR' %}
 
-          <li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}">
-            <a href="{{ site.base-url }}{{ page.base-url | append: 'citoyen/' }}">{% t Citoyen %}</a>
+          <li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
+      itemtype="http://schema.org/ListItem">
+            <a href="{{ site.base-url }}{{ page.base-url | append: 'citoyen/' }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Citoyen %}</a>
           </li>
 
-          <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}">
-            <a href="{{ site.base-url }}{{ page.base-url | append: 'papa/' }}">{% t Papa %}</a>
+          <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}" itemprop="itemListElement" itemscope
+      itemtype="http://schema.org/ListItem">
+            <a href="{{ site.base-url }}{{ page.base-url | append: 'papa/' }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Papa %}</a>
           </li>
 
         {% endif %}
