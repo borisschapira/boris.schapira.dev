@@ -25,6 +25,7 @@ module Jekyll
         I18n.backend.load_translations Dir[File.join(File.dirname(__FILE__),'../_data/_locales/*.yml')]
       end
     end
+
   end
 end
 
