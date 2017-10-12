@@ -17,11 +17,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
     function playVideo(e) {  
         this.play();
-        this.controls = true; 
     }
 
     function pauseVideo(e) {
         this.pause();
-        this.controls = false; 
     }
 });
