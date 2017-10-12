@@ -16,10 +16,12 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     function playVideo(e) {  
-        this.play(); 
+        this.play();
+        this.controls = true; 
     }
 
     function pauseVideo(e) {
-        this.pause(); 
+        this.pause();
+        this.controls = false; 
     }
 });

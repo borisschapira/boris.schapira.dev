@@ -1,6 +1,6 @@
 {% capture the-guid %}{% guid %}{% endcapture %}
 <figure>
-  <video preload="metadata" loop="loop" poster="{{ page.url }}{{ include.slug }}.jpg"{% if include.alt %} aria-describedBy="{{ the-guid }}"{% endif %}>
+  <video preload="none" loop="loop" poster="{{ page.url }}{{ include.slug }}.jpg"{% if include.alt %} aria-describedBy="{{ the-guid }}"{% endif %}>
     <source src="{{ page.url }}{{ include.slug }}.mp4" type="video/mp4" />
     {% if include.alt %}<p id="{{ the-guid }}">{{ include.alt }}</p>{% endif %}
   </video>
