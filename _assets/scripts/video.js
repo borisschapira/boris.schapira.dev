@@ -1,5 +1,6 @@
-document.addEventListener("DOMContentLoaded", function() {
+InstantClick.on('change', function(){
     var videos = document.querySelectorAll('video');
+    
     videos.forEach(function (item) {
         item.addEventListener('mouseover', playVideo, false);
         item.addEventListener('touchstart', playVideo, false);
@@ -7,15 +8,11 @@ document.addEventListener("DOMContentLoaded", function() {
         item.addEventListener('mouseout', pauseVideo, false);
     });
 
-    function playVideo(e) {  
+    function playVideo(e) {
         this.play();
     }
 
     function pauseVideo(e) {
         this.pause();
-    }
-
-    function toggleVideo(e) {
-        this.paused ? this.play() : this.pause();
     }
 });
