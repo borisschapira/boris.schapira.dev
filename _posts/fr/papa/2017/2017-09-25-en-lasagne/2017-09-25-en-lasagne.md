@@ -22,10 +22,4 @@ Il y a quelques jours, j'ai revu une amie qui habite à l'étranger. Elle était
 > – Ah, non. Elle vit où ma copine ? Tu le sais, on en a déjà parlé.  
 > – Ah oui, elle vit en lasagne !
 
-<figure>
-  <video autoplay="autoplay" loop="loop">
-    <source src="{{ page.url }}merkel.gif.mp4" type="video/mp4" />
-    <img src="{{ page.url }}merkel.gif" alt="Angela Merkel acquiesce"/>
-  </video>
-  <figcaption>Angela approuve cette blague involontaire.</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid slug="merkel" alt="Angela Merkel hoche la tête, l'air fatigué" caption="Angela approuve cette blague involontaire." %}

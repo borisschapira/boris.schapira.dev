@@ -21,10 +21,4 @@ L'autre jour, nous avons tenté d'expliquer aux enfants la différence entre aim
 > – Ah oui, mais peut-être qu'il aura aussi des parents qu'il aime très fort ?  
 > – … Alors on prendra une plus grande maison et on vivra tous ensemble !
 
-<figure>
-  <video autoplay="autoplay" loop="loop">
-    <source src="{{ page.url }}fullhouse.gif.mp4" type="video/mp4" />
-    <img src="{{ page.url }}fullhouse.gif" alt="Extrait de &quot;La fête à la maison&quot;, une table pleine de convives"/>
-  </video>
-  <figcaption>Il va y avoir du monde à table !</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid slug="fullhouse" alt="Extrait de &quot;La fête à la maison&quot;, une table pleine de convives" caption="Il va y avoir du monde à table !" %}
