@@ -1,4 +1,5 @@
 //= require analytics
+//= require video
 //= require vendors/moment.2.10.3.min
 
 // Replace datetimes by moments relative values
