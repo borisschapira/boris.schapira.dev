@@ -2,6 +2,7 @@
 //= require vendors/touchtap-event.js
 //= require vendors/abbr-touch.js
 InstantClick.on('change', function onChange(isInitialChange) {
+    console.log('Page changed.');
     (function(abbrTouch) {
         'use strict';
 
@@ -46,22 +47,32 @@ InstantClick.on('change', function onChange(isInitialChange) {
     /***********************************************
      ***********************************************/
 
-    var videos = document.querySelectorAll('.videoWrapper.gif');
+    (function videoPlayPause() {
+        var videos = document.querySelectorAll('.videoWrapper.gif');
 
-    videos.forEach(function(item) {
-        item.addEventListener('mouseover', playVideo, false);
-        item.addEventListener('touchstart', playVideo, false);
-        item.addEventListener('touchend', pauseVideo, false);
-        item.addEventListener('mouseout', pauseVideo, false);
-    });
+        videos.forEach(function(item) {
+            item.addEventListener('mouseover', playVideo, false);
+            item.addEventListener('touchstart', playVideo, false);
+            item.addEventListener('touchend', pauseVideo, false);
+            item.addEventListener('mouseout', pauseVideo, false);
+        });
 
-    function playVideo(e) {
-        this.querySelector('video').play();
-    }
+        function playVideo(e) {
+            var video = this.querySelector('video');
+            video.addEventListener("canplaythrough", function(){
+                console.log('Play video.');
+                this.play();
+            });
+            console.log('Load video.');
+            video.load();
+        }
 
-    function pauseVideo(e) {
-        this.querySelector('video').pause();
-    }
+        function pauseVideo(e) {
+            var video = this.querySelector('video');
+            console.log('Pause video.');
+            video.pause();
+        }
+    })()
 
     /***********************************************
      ***********************************************/
@@ -87,4 +98,6 @@ InstantClick.on('change', function onChange(isInitialChange) {
     /* End Piwik */
 });
 
-InstantClick.init(50);
+document.addEventListener("DOMContentLoaded", function(event) {
+    InstantClick.init();
+});
