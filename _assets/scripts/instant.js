@@ -51,17 +51,27 @@ InstantClick.on('change', function onChange(isInitialChange) {
         var videos = document.querySelectorAll('.videoWrapper.gif');
 
         videos.forEach(function(item) {
+            var insideVid = item.querySelector('video');
+            // In order to prevent a disgracious "flash" when load()
+
+            item.style.height = insideVid.clientHeight + 'px';
+            item.style.width = insideVid.clientWidth + 'px';
+            insideVid.style.height = insideVid.clientHeight + 'px';
+
             item.addEventListener('mouseover', playVideo, false);
             item.addEventListener('click', toggleVideo, false);
             item.addEventListener('mouseout', pauseVideo, false);
-            item.querySelector('video').addEventListener("canplay", function(){
-                console.log('Play video.');
-                this.play();
-            });
         });
 
         function playVideo(e, v) {
             var video = v || this.querySelector('video');
+            if(!$(video).hasClass('loading-started')) {
+                $(video).addClass('loading-started');
+                video.addEventListener("canplay", function(){
+                    console.log('Play video.');
+                    this.play();
+                });
+            }
             video.load();
         }
 
