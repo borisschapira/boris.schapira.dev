@@ -52,25 +52,31 @@ InstantClick.on('change', function onChange(isInitialChange) {
 
         videos.forEach(function(item) {
             item.addEventListener('mouseover', playVideo, false);
-            item.addEventListener('touchstart', playVideo, false);
-            item.addEventListener('touchend', pauseVideo, false);
+            item.addEventListener('click', toggleVideo, false);
             item.addEventListener('mouseout', pauseVideo, false);
-        });
-
-        function playVideo(e) {
-            var video = this.querySelector('video');
-            video.addEventListener("canplaythrough", function(){
+            item.querySelector('video').addEventListener("canplay", function(){
                 console.log('Play video.');
                 this.play();
             });
-            console.log('Load video.');
+        });
+
+        function playVideo(e, v) {
+            var video = v || this.querySelector('video');
             video.load();
         }
 
-        function pauseVideo(e) {
-            var video = this.querySelector('video');
-            console.log('Pause video.');
+        function pauseVideo(e, v) {
+            var video = v || this.querySelector('video');
             video.pause();
+        }
+
+        function toggleVideo(e, v) {
+            var video = v || this.querySelector('video');
+            if(video.paused) {
+                playVideo(e, video);
+            } else {
+                pauseVideo(e, video);
+            }
         }
     })()
 

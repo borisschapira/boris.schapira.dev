@@ -215,25 +215,35 @@ html .content .post .p-header .p-author {
       transition: opacity 0.3s ease-in-out;
       background: rgba(0,0,0,.5) center no-repeat url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgNzY4IDc2OCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTMyMCAzMnE1OC41IDAgMTExLjg3NSAyMi44NzV0OTEuODc1IDYxLjM3NSA2MS4zNzUgOTEuODc1VDYwOCAzMjBxMCA1MC4yNS0xNi4zNzUgOTYuMjVUNTQ1IDQ5OS43NWwxODEuNzUgMTgxLjVRNzM2IDY5MC41IDczNiA3MDRxMCAxMy43NS05LjEyNSAyMi44NzVUNzA0IDczNnEtMTMuNSAwLTIyLjc1LTkuMjVMNDk5Ljc1IDU0NXEtMzcuNSAzMC4yNS04My41IDQ2LjYyNVQzMjAgNjA4cS01OC41IDAtMTExLjg3NS0yMi44NzVUMTE2LjI1IDUyMy43NXQtNjEuMzc1LTkxLjg3NVQzMiAzMjB0MjIuODc1LTExMS44NzUgNjEuMzc1LTkxLjg3NSA5MS44NzUtNjEuMzc1VDMyMCAzMnptMCA2NHEtNDUuNSAwLTg3IDE3Ljc1dC03MS41IDQ3Ljc1LTQ3Ljc1IDcxLjVUOTYgMzIwdDE3Ljc1IDg3IDQ3Ljc1IDcxLjUgNzEuNSA0Ny43NVQzMjAgNTQ0dDg3LTE3Ljc1IDcxLjUtNDcuNzUgNDcuNzUtNzEuNVQ1NDQgMzIwdC0xNy43NS04Ny00Ny43NS03MS41LTcxLjUtNDcuNzVUMzIwIDk2em0wIDk2cTEzLjI1IDAgMjIuNjI1IDkuMzc1VDM1MiAyMjR2NjRoNjRxMTMuMjUgMCAyMi42MjUgOS4zNzVUNDQ4IDMyMHQtOS4zNzUgMjIuNjI1VDQxNiAzNTJoLTY0djY0cTAgMTMuMjUtOS4zNzUgMjIuNjI1VDMyMCA0NDh0LTIyLjYyNS05LjM3NVQyODggNDE2di02NGgtNjRxLTEzLjI1IDAtMjIuNjI1LTkuMzc1VDE5MiAzMjB0OS4zNzUtMjIuNjI1VDIyNCAyODhoNjR2LTY0cTAtMTMuMjUgOS4zNzUtMjIuNjI1VDMyMCAxOTJ6Ii8+PC9zdmc+);
     }
-    > .videoWrapper::before {
-      content: "";
-      position: absolute;
-      top: 0;
-      right: 0;
-      bottom: 0;
-      left: 0;
-      opacity: 1;
-      box-shadow: 0 0 100px 0 #000 inset;
-      transition: opacity 0.3s ease-in-out;
-      background: rgba(0,0,0,.1) center no-repeat url(data:image/svg+xml;base64,PHN2ZyBpZD0iQ2FwYV8xIiB2aWV3Qm94PSIwIDAgNjAgNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTM1LjE3MiAyOS40NGwtNi4yNC00LjUzOGMtLjIzLS4xNjYtLjUzMy0uMTktLjc4NC0uMDYyLS4yNTMuMTMtLjQxLjM5LS40MS42N3Y5LjA3YzAgLjI4My4xNTcuNTQyLjQxLjY3LjEwNy4wNTQuMjI0LjA4LjM0Mi4wOC4xNTQgMCAuMzEtLjA1LjQ0Mi0uMTQ1bDYuMjQtNC41MzJjLjE5Ny0uMTQ1LjMxMi0uMzcuMzEyLS42MDcgMC0uMjQyLS4xMTctLjQ2NS0uMzEyLS42MDd6IiBmaWxsPSIjRkZGIi8+PHBhdGggZD0iTTMwLjIxNiAxNS4wMDJjLTguMyAwLTE1LjAyNiA2LjcyNi0xNS4wMjYgMTUuMDI2IDAgOC4yOTYgNi43MjYgMTUuMDIgMTUuMDI2IDE1LjAyIDguMjk4IDAgMTUuMDI1LTYuNzI1IDE1LjAyNS0xNS4wMkM0NS4yNDQgMjEuNzI4IDM4LjUxNiAxNSAzMC4yMTggMTV6bTAgMjcuNTRjLTYuOTEyIDAtMTIuNTE2LTUuNi0xMi41MTYtMTIuNTE0IDAtNi45MSA1LjYwNC0xMi41MiAxMi41MTYtMTIuNTIgNi45MSAwIDEyLjUxNCA1LjYwOCAxMi41MTQgMTIuNTJTMzcuMTI2IDQyLjU0IDMwLjIxNiA0Mi41NHoiIGZpbGw9IiNGRkYiLz48L3N2Zz4=);
+    > .videoWrapper {
+      
+      padding: 0;
+      margin: 0;
+      height: auto;
+      position: static;
+      
+      /**
+      &:hover::before,
+      &:focus::before {
+        opacity: 0;
+      }
+      &::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        opacity: 1;
+        box-shadow: 0 0 100px 0 #000 inset;
+        transition: opacity 0.3s ease-in-out;
+        background: rgba(0,0,0,.1) center no-repeat url(data:image/svg+xml;base64,PHN2ZyBpZD0iQ2FwYV8xIiB2aWV3Qm94PSIwIDAgNjAgNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTM1LjE3MiAyOS40NGwtNi4yNC00LjUzOGMtLjIzLS4xNjYtLjUzMy0uMTktLjc4NC0uMDYyLS4yNTMuMTMtLjQxLjM5LS40MS42N3Y5LjA3YzAgLjI4My4xNTcuNTQyLjQxLjY3LjEwNy4wNTQuMjI0LjA4LjM0Mi4wOC4xNTQgMCAuMzEtLjA1LjQ0Mi0uMTQ1bDYuMjQtNC41MzJjLjE5Ny0uMTQ1LjMxMi0uMzcuMzEyLS42MDcgMC0uMjQyLS4xMTctLjQ2NS0uMzEyLS42MDd6IiBmaWxsPSIjRkZGIi8+PHBhdGggZD0iTTMwLjIxNiAxNS4wMDJjLTguMyAwLTE1LjAyNiA2LjcyNi0xNS4wMjYgMTUuMDI2IDAgOC4yOTYgNi43MjYgMTUuMDIgMTUuMDI2IDE1LjAyIDguMjk4IDAgMTUuMDI1LTYuNzI1IDE1LjAyNS0xNS4wMkM0NS4yNDQgMjEuNzI4IDM4LjUxNiAxNSAzMC4yMTggMTV6bTAgMjcuNTRjLTYuOTEyIDAtMTIuNTE2LTUuNi0xMi41MTYtMTIuNTE0IDAtNi45MSA1LjYwNC0xMi41MiAxMi41MTYtMTIuNTIgNi45MSAwIDEyLjUxNCA1LjYwOCAxMi41MTQgMTIuNTJTMzcuMTI2IDQyLjU0IDMwLjIxNiA0Mi41NHoiIGZpbGw9IiNGRkYiLz48L3N2Zz4=);
+      }
+      **/
     }
     > a:hover::before,
     > a:focus::before {
       opacity: 1;
-    }
-    > .videoWrapper:hover::before,
-    > .videoWrapper:focus::before {
-      opacity: 0;
     }
     /** **/
     picture,
