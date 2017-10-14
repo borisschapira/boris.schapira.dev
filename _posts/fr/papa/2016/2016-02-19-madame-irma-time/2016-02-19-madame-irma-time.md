@@ -16,7 +16,7 @@ Pas hasard, je suis tombé sur les produits [Madame Irma](http://www.irmatime.co
 
 <figure>
   <a href="http://www.irmatime.com/fr/" title="Aller sur le site de Madame Irma">
-      <img src="/assets/images/papa/2016-02-19/irma.jpg" alt="Une horloge colorée, pleine de dessins d'animaux" />
+      <img src="{{ page.url }}irma.jpg" alt="Une horloge colorée, pleine de dessins d'animaux" />
   </a>
   <figcaption>L'horloge Madame Irma</figcaption>
 </figure>

@@ -33,15 +33,16 @@ Dans une mission de conseil en choix de solutions, il y a toujours une des alter
 > — Euh, non, en effet, mais vous voyez bien qu'il ne permet pas d'aller d'un point A à un point B.  
 > — Vous êtes donc prêts à mettre de côté une solution dont on voit bien, en cinq minutes, qu'elle correspond déjà à ⅔ de nos besoins ?!
 
-
-<figure>
-  <img src="{{ page.url }}not-hurting.gif" alt="Rachel Mac Adams, en robe de soirée, regard triste, prononce en anglais la phrase : 'I'm notre trying to hurt you' — 'Je n'essaie pas de te faire du mal'"/>
-  <figcaption>Ça me met dans cet état.</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid 
+  slug="not-hurting" 
+  alt="Rachel Mac Adams, en robe de soirée, regard triste, prononce en anglais la phrase : 'I'm notre trying to hurt you' — 'Je n'essaie pas de te faire du mal'" 
+  caption="Ça me met dans cet état." 
+%}
 
 Mais en général, au final…
 
-<figure>
-  <img src="{{ page.url }}crying.gif" alt="Zac Efron pleurant"/>
-  <figcaption>Je finis quand même par être obligé d'intégrer le marteau à l'étude.</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid 
+    slug="crying" 
+    alt="Zac Efron pleurant" 
+    caption="Je finis quand même par être obligé d'intégrer le marteau à l'étude." 
+%}

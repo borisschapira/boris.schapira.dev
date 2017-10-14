@@ -19,7 +19,8 @@ Déprimé, je décide de me réconforter avec une tartine de chèvre et un peu d
 
 Je le remercie et m'empresse de goûter. C'était du sirop d'agave.
 
-<figure>
-  <img src="{{ page.url }}done.gif" alt="Extrait de The IT Crowd - Series 2 - Episode 2: Greatest man in the world, où un homme saute par la fenêtre à la fin d'une réunion"/>
-  <figcaption>J'abandonne.</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid
+    slug="done"
+    alt="Extrait de The IT Crowd - Series 2 - Episode 2: Greatest man in the world, où un homme saute par la fenêtre à la fin d'une réunion"
+    caption="J'abandonne."
+%}

@@ -18,9 +18,8 @@ Soudain, je perçois un mouvement. Doucement, il s’assoit dans le lit puis ten
 > — Qu’est-ce que tu fais, chéri ?  
 > — Rien Papa… Je sais pas… Moi, je fais rien, mais je crois que mon corps, il danse tout seul avec la musique.
 
-
-
-<figure>
-  <img src="{{ page.url }}billy.gif" alt="Billy Elliot est habité par la musique et danse sur les toits en compagnie d'un ami"/>
-  <figcaption>Mon petit artiste <3</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid
+    slug="billy"
+    alt="Billy Elliot est habité par la musique et danse sur les toits en compagnie d'un ami"
+    caption="Mon petit artiste ❤️"
+%}

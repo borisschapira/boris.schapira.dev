@@ -19,7 +19,8 @@ Là, par exemple, ça fait une heure que mon petit me dicte, avec une pointe d'a
 
 > Saute, saute Papa ! Tout droit ! Mais non, cours ! Voilà. Rhô, Papa, t'es à l'envers. Non, pas par là ! Tu vas tomber, encore, Papa. Ah ben voilà, t'es tombé. Il va falloir qu'on recommence. Bon, cette fois, tu m'écoutes hein !
 
-<figure>
-  <img src="{{ page.url }}gotit.gif" alt="Une très jeune Mary-Kate Olsen (époque La Fête à la Maison)lève un pouce en l'air"/>
-  <figcaption>J'hésite entre le tuer d'agacement et le couvrir de bisous.</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid
+    slug="gotit"
+    alt="Une très jeune Mary-Kate Olsen (époque La Fête à la Maison)lève un pouce en l'air"
+    caption="J'hésite entre le tuer d'agacement et le couvrir de bisous."
+%}

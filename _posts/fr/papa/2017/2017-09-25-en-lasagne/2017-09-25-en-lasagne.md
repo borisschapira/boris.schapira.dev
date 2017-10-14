@@ -22,4 +22,8 @@ Il y a quelques jours, j'ai revu une amie qui habite à l'étranger. Elle était
 > – Ah, non. Elle vit où ma copine ? Tu le sais, on en a déjà parlé.  
 > – Ah oui, elle vit en lasagne !
 
-{% include video_as_a_gif.html.liquid slug="merkel" alt="Angela Merkel hoche la tête, l'air fatigué" caption="Angela approuve cette blague involontaire." %}
+{% include video_as_a_gif.html.liquid
+    slug="merkel"
+    alt="Angela Merkel hoche la tête, l'air fatigué"
+    caption="Angela approuve cette blague involontaire."
+%}

@@ -18,11 +18,11 @@ Le grand de six ans explique comment jouer à la Bataille à son petit frère. T
 > — Hein ?  
 > — Parce que je suis Batman !
 
-
-<figure>
-  <img src="{{ page.url }}batman.gif" alt="Extrait de l'intro de Batman, The Animated Series"/>
-  <figcaption>Il est ensuite sorti de la pièce, comme un chevalier noir.</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid
+    slug="batman"
+    alt="Extrait de l'intro de Batman, The Animated Series."
+    caption="Il est ensuite sorti de la pièce, comme un chevalier noir."
+%}
 
 ***
 

@@ -17,8 +17,10 @@ locale: fr_FR
 > — Comme des chevaliers ?  
 > — Comme des chevaliers !  
 
-<figure>
-  <img src="{{ page.url }}swords.gif" alt="Plusieurs chevaliers en armure dégainent leurs épées."/>
-  <figcaption>La gestion <abbr title="Ressources Humaines">RH</abbr> est beaucoup plus sympa qu'on le croit !</figcaption>
-</figure>
+{% capture cap %}La gestion <abbr title="Ressources Humaines">RH</abbr> est beaucoup plus sympa qu'on le croit !{% endcapture %}
+{% include video_as_a_gif.html.liquid
+    slug="swords"
+    alt="Plusieurs chevaliers en armure dégainent leurs épées."
+    caption=cap
+%}
 
