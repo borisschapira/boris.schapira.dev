@@ -23,7 +23,8 @@ J'arrive et l'isole. Je lui explique que crier ne sert à rien : son grand frèr
 
 Il m'a ensuite regardé avec un air de vainqueur.
 
-<figure>
-  <img src="{{ page.url }}perfect.gif" alt="Un homme faisant un signe d'encouragement avec sa main"/>
-  <figcaption>Change rien, champion !</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid
+    slug="perfect"
+    alt="Un homme faisant un signe d'encouragement avec sa main"
+    caption="Change rien, champion !"
+%}

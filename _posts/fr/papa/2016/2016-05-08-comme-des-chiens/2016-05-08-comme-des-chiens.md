@@ -21,7 +21,8 @@ Je regarde "La Belle et le Clochard" avec les enfants. La scène des pâtes à l
 > [Moi] : et Papa ?  
 > [Petit] : Papa, il est plus clochard que Clochard !
 
-<figure>
-  <img src="/assets/images/papa/2016-05-08/1.gif" alt="Un homme portant un costume et une moustache, visiblement sans voix devant tant de bêtise." />
-  <figcaption>Euh, tu peux développer ?</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid 
+  slug="1" 
+  alt="Un homme portant un costume et une moustache, visiblement sans voix devant tant de bêtise." 
+  caption="Euh, tu peux développer ?"
+%}

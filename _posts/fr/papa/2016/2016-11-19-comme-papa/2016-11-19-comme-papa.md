@@ -19,7 +19,9 @@ Soudain, il hurle en pointant le papa d'un autre patient :
 
 Le pauvre, on ne lui a jamais expliqué…
 
-<figure>
-  <img src="{{ page.url }}upset_a_wookie.gif" alt="Gif animé extrait de Star Wars"/>
-  <figcaption>Han Solo : "il ne vaut mieux ne pas énerver un Wookie"</figcaption>
-</figure>
+{% capture cap%}Han Solo : "il ne vaut mieux ne pas énerver un Wookie"{% endcapture%}
+{% include video_as_a_gif.html.liquid
+    slug="upset_a_wookie"
+    alt="Gif animé extrait de Star Wars"
+    caption=cap
+%}

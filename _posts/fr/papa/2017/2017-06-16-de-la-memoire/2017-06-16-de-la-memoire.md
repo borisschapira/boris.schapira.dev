@@ -23,7 +23,8 @@ Souvent, pour être parent, il faut beaucoup de patience. Et parfois, juste, bea
 > — _Speedy_ et _Red Arrow_ ?
 > — Oui, c'est ce que j'ai dis !
 
-<figure>
-  <img src="{{ page.url }}of-course.gif" alt="Jess (New Girl) dit : bien sûr que tu l'as fait !"/>
-  <figcaption>Oui, bien sûr&nbsp;!</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid
+    slug="of-course"
+    alt="Jess (New Girl) dit : bien sûr que tu l'as fait !"
+    caption="Oui, bien sûr&nbsp;!"
+%}

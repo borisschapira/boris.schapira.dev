@@ -37,7 +37,8 @@ En arrivant chez Paul, on m'explique qu'il va falloir attendre dix minutes de pl
 
 Dans ce moments-là, t'as envie de regarder la vie en face et de lui demander :
 
-<figure>
-  <img src="{{ page.url }}why.gif" alt="Liam Neesson demande &quot;pourquoi&quot; quatre fois"/>
-  <figcaption>Pourquoi ? Pourquoi ? Pourquoi ?!</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid
+    slug="why"
+    alt="Liam Neesson demande &quot;pourquoi&quot; quatre fois"
+    caption="Pourquoi ? Pourquoi ? Pourquoi ?!"
+%}

@@ -23,8 +23,8 @@ Mon petit dernier vient d'apprendre à faire un cœur avec ses doigts. Il voudra
 > — Mais attends, c'est moi qui l'aurait fait, le cœur, c'est moi qui devrait avoir des gâteaux !  
 > — Mais c'était mon idée ! Tu auras un petit gâteau, Papa.
 
-
-<figure>
-  <img src="{{ page.url }}picsou.gif" alt="Picsou dans sa piscine de pièces"/>
-  <figcaption>Il va peut-être falloir qu'on lui enseigne quelques valeurs sociales, à ce petit…</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid
+    slug="picsou"
+    alt="Picsou dans sa piscine de pièces"
+    caption="Il va peut-être falloir qu'on lui enseigne quelques valeurs sociales, à ce petit…"
+%}

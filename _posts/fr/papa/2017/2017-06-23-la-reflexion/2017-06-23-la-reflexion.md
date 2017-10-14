@@ -19,7 +19,8 @@ Très souvent, nos enfants réfléchissent sur ce qui se passe à la maison pend
 > — Super ! Et alors ?  
 > — Voilà, j'ai réfléchi à cette idée a l'école.
 
-<figure>
-  <img src="{{ page.url }}suspense.gif" alt="Willie Wonka dit :'The suspense is terrible, I hope it will last'."/>
-  <figcaption>Je vous tiens au courant s'il arrive à une conclusion.</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid 
+    slug="suspense" 
+    alt="Willie Wonka dit :'The suspense is terrible, I hope it will last'."
+    caption="Je vous tiens au courant s'il arrive à une conclusion." 
+%}

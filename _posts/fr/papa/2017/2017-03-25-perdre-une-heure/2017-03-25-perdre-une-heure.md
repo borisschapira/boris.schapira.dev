@@ -15,6 +15,7 @@ Demain vous allez vous réveiller et on vous aura volé du sommeil, lâchement.
 
 Nous, c'est tous les jours (et des fois c'est deux ou trois heures).
 
-<figure>
-  <img src="{{ page.url }}for_real.gif" alt="Une jeune femme dit &quot;For real, real&quot;"/>
-</figure>
+{% include video_as_a_gif.html.liquid
+    slug="for_real"
+    alt="Une jeune femme dit &quot;For real, real&quot;"
+%}

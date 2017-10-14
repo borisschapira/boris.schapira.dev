@@ -18,24 +18,27 @@ Plus jeune, j'ai énormément apprécié le personnage de Buffy Summers et je pe
 
 <!-- more -->
 
-<figure>
-  <img src="/assets/images/2016-06-26/1.gif" alt="Gros plan sur les yeux de Buffy, regard noir" />
-  <figcaption>Faut pas la faire ch…</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid 
+  slug="1" 
+  alt="Gros plan sur les yeux de Buffy, regard noir" 
+  caption="Faut pas la faire ch…" 
+%}
 
 Pour la première fois dans mon paysage audio-visuel, j'avais l'occasion de suivre une femme qui se donnait le droit de _tout avoir_[^hia] : une vie normale, mais aussi une vie de super-héroïne ; une famille, mais aussi le droit de faire autre chose que de s'en occuper ; un <em lang="en">love interest</em> qu'elle sauvait elle-même avant qu'il ne la sauve et qu'elle pouvait également tuer s'il le fallait.
 
-<figure>
-  <img src="/assets/images/2016-06-26/2.gif" alt="Buffy joue au Football américain avec un gros naze… elle lui envoie le ballon en pleine tête, il chute." />
-  <figcaption>Faut **vraiment** pas la faire ch…</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid 
+  slug="2" 
+  alt="Buffy joue au Football américain avec un gros naze… elle lui envoie le ballon en pleine tête, il chute." 
+  caption="Faut **vraiment** pas la faire ch…" 
+%}
 
 Elle était décrite comme pas spécialement douée pour se faire belle mais l'était quand même sacrément, ce qui ne l'empêchait pas de se casser un ongle en défonçant la tronche d'un vampire à qui elle faisait comprendre que son hypothétique plan maléfique était quand même vachement moins flippant que le contrôle de Maths du lendemain. Ses plus gros problèmes étaient ceux de tout adolescent : l'émancipation, l'apprentissage de la sexualité, l'amitié…
 
-<figure>
-  <img src="/assets/images/2016-06-26/3.gif" alt="Quiproquo dans cet épisode silencieux. Buffy mime l'action d'enfoncer un pieu, les autres comprennent qu'elle parle de masturbation" />
-  <figcaption>L'art subtil de ne pas l'être au bon moment. Un vrai talent d'écriture.</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid 
+  slug="3" 
+  alt="Quiproquo dans cet épisode silencieux. Buffy mime l'action d'enfoncer un pieu, les autres comprennent qu'elle parle de masturbation" 
+  caption="L'art subtil de ne pas l'être au bon moment. Un vrai talent d'écriture." 
+%}
 
 Elle subissait beaucoup et sa force n'était pas tant dans sa capacité à frapper plus fort que dans sa volonté et sa capacité à se relever encore et toujours face aux épreuves qui l'avaient mise à terre.
 
