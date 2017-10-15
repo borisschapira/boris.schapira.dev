@@ -1,6 +1,8 @@
-require "rubygems"
 require "bundler/setup"
 require "json"
+require 'net/http'
+require "rubygems"
+require "time"
 require "yaml"
 
 namespace :postbuild do
@@ -58,5 +60,31 @@ namespace :postbuild do
       sh "jekyll algolia push --config _config.yml,#{config_file}"
     end
 
+  end
+
+  namespace :dareboost do
+    
+    desc 'Post an event in Dareboost'
+    task :event, [:env] do |t, args|
+
+        config=YAML.load_file('_config_prod.yml')
+
+        uri = URI('https://www.dareboost.com/api/0.5/event/create')
+        the_time = Time.now
+        http = Net::HTTP.new(uri.host, uri.port)
+        http.use_ssl = (uri.scheme == 'https')
+        req = Net::HTTP::Post.new(uri.path, 'Content-Type' => 'application/json')
+        req.body = {
+          token: config["dareboost"]["token"],
+          key: "ship_#{ENV['CI_COMMIT_ID']}",
+          text: ENV['CI_MESSAGE'],
+          monitorings: [config["dareboost"]["monitoring"]],
+          date: the_time.utc.iso8601(3) }.to_json
+        p req.body
+        res = http.request(req)
+        puts "response #{res.body}"
+
+    end
+    
   end
 end

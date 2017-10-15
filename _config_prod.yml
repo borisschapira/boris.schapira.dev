@@ -3,6 +3,10 @@ recaptcha:
   secret: '6LdcuiAUAAAAAMCixgeP0f4AGjIaV0Y1UTRenMRp'
   encrypted_secret: 'SdJ7ib962U9rgDdzcXpyeKpfPqDZLNqV3UzEhGD0TEXJqwdCrjhGtFqtnPkJRC2IUnGfhUQGnlvC9OC+F+XU15LGrymiieA9sSQTTxSVDHwq4kE/EAzDkgBhWqi396WVmRvdmKnpoFQ7Rj+CdL8K+mYtTDx/+/pvax0vlkoX+oU='
 
+dareboost:
+  monitoring : 7134
+  token: 59ba585f0cf2502fdb8f4697
+
 algolia:
   application_id: '97EL687MDM'
   index_name: 'jekyll'
