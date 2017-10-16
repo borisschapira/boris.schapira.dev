@@ -66,7 +66,9 @@ Pour sécuriser davantage l’ensemble du trafic des sites sécurisés, le proje
 *   disposant d’une version sécurisée à l’aide d’un certificat valide ;
 *   ayant mis en place des redirections 301 de HTTP vers HTTPS ;
 *   dont tous les sous-domaines sont sécurisés ;
-*   proposant une directive HSTS (y compris sur la redirection 301) d’une validité minimale de 18 semaines (10886400 secondes), incluant les sous-domaines et spécifiant l’attribut `preload`.
+*   proposant une directive HSTS (y compris sur la redirection 301) d’une validité minimale de <del datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">18 semaines (10886400 secondes)</del> <ins datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">un an (31536000 secondes)</ins>[^twalle], incluant les sous-domaines et spécifiant l’attribut `preload`.
+
+[^twalle]: La valeur était de 18 semaines lorsque j'ai écrit l'article. Elle a été repoussée à une année entre le 11 et le 16 octobre 2017. Merci à [@Thibault_Walle](https://twitter.com/Thibault_Walle) de me l'avoir signalé en commentaire.
 
 Un site éligible pourra alors [rejoindre le registre HSTS Preloading](https://hstspreload.org/ "HSTS Preload List Submission") embarqué dans Chrome, [Firefox](https://blog.mozilla.org/security/2012/11/01/preloading-hsts/ "Preloading HSTS &#124; Mozilla Security Blog"), Opera, Safari, [IE 11 et Edge](https://blogs.windows.com/msedgedev/2015/06/09/http-strict-transport-security-comes-to-internet-explorer-11-on-windows-8-1-and-windows-7/ "HTTP Strict Transport Security comes to Internet Explorer 11 on Windows 8.1 and Windows 7 - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog"). Toute requête non-sécurisée vers ce domaine bénéficiera alors d’une redirection interne (code 307) avant même que ne démarre la requête.
 
