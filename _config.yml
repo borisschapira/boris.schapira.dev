@@ -64,6 +64,8 @@ exclude:
   - _posts/**/*.gif
   - _posts/**/*.pdf
   - _posts/**/*.mp4
+  - _posts/**/*.webm
+  - _posts/**/*.ogv
 include:
   - ".well-known"
   - ".htaccess"

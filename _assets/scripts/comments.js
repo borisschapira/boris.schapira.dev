@@ -1,5 +1,3 @@
-//= require vendors/zepto.1.2.0.min.js
-
 // Staticman comment replies
 // modified from Wordpress https://core.svn.wordpress.org/trunk/wp-includes/js/comment-reply.js
 // Released under the GNU General Public License - https://wordpress.org/about/gpl/

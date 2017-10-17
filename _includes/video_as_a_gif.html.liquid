@@ -1,6 +1,10 @@
 {% capture the-guid %}{% guid %}{% endcapture %}
 <figure>
-  <div class="videoWrapper gif"><video preload="metadata" loop="loop" poster="{% unless include.url %}{{ page.url }}{{ include.slug }}{% else %}{{ include.url }}{% endunless %}.jpg"{% if include.alt %} aria-describedBy="{{ the-guid }}"{% endif %}><source src="{% unless include.url %}{{ page.url }}{{ include.slug }}{% else %}{{ include.url }}{% endunless %}.mp4" type="video/mp4" />{% if include.alt %}<span id="{{ the-guid }}">{{ include.alt }}</span>{% endif %}
+  <div class="videoWrapper gif"><video preload="metadata" loop="loop" poster="{% unless include.url %}{{ page.url }}{{ include.slug }}{% else %}{{ include.url }}{% endunless %}.jpg"{% if include.alt %} aria-describedBy="{{ the-guid }}"{% endif %}>
+  <source src="{% unless include.url %}{{ page.url }}{{ include.slug }}{% else %}{{ include.url }}{% endunless %}.mp4" type="video/mp4" /> 
+  <source src="{% unless include.url %}{{ page.url }}{{ include.slug }}{% else %}{{ include.url }}{% endunless %}.webm" type="video/webm" />
+  <source src="{% unless include.url %}{{ page.url }}{{ include.slug }}{% else %}{{ include.url }}{% endunless %}.ogv" type="video/ogg" />
+  {% if include.alt %}<span id="{{ the-guid }}">{{ include.alt }}</span>{% endif %}
   </video></div>
   {% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
 </figure>
