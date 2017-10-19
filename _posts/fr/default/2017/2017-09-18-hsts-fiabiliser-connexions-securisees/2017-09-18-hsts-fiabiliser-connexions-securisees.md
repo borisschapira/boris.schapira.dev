@@ -83,6 +83,10 @@ Attention : contrairement au chapitre précédent, modifier la directive pour re
 
 La directive HSTS existe depuis plusieurs années. Elle permet de sécuriser le trafic futur de vos visiteurs et, couplée à l’inscription dans le registre HSTS Preloading, de fiabiliser même leur première connexion. Sa mise en place doit être faite avec précaution, car elle impose la sécurisation de l’ensemble des sous-domaines du domaine concerné. Une fois mise en place, elle fiabilise durablement le trafic sécurisé des visiteurs, améliore la performance en supprimant des redirections 301 et, dans la mesure où ce trafic sécurisé est valorisé par l’algorithme de Google, améliore le référencement.
 
+## Bonus : avec HSTS Preload, protégez votre domaine des attaques de type <i lang="en">SSL strip</i>
+
+Celles et ceux qui suivent l'actualité du Web auront remarqué le danger représenté par [Krack Attacks](https://www.krackattacks.com/), une démonstration de piratage du protocole WiFi WPA2. Une des étapes de l'attaque consiste, pour le logiciel malveillant, à intercepter les requêtes SSL émises par l'internaute, les réaliser lui-même puis répondre le résultat en HTTP. Un simple instant d'inattention suffit alors pour qu'un pirate s'empare d'informations privées. Si votre domaine est indexé dans la liste HSTS Preload, alors le navigateur refusera de basculer en HTTP pour le visiter, protégeant ainsi vos visiteurs.
+
 ## Lectures complémentaires
 
 *   [[EN] HTTP Strict Transport Security – The Chromium Projects](https://www.chromium.org/hsts)
