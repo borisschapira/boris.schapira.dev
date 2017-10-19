@@ -93,6 +93,10 @@ Beware: the modification of the directive with a 0-second `max-age` will not swi
 
 The HSTS directive exists for several years. It can secure requests and response between your server and your visitors’ browsers. The first request can be secured with HSTS Preloading, ensuring that all traffic is protected against threats. HSTS must be activated with caution but when it is done, user experience do not suffer from extended request time. As Google value security, HSTS is also an optimization for <abbr title="Search Engine Optimization">SEO</abbr>.
 
+## Bonus: with HSTS Preload, protect your domain from SSL strip attacks
+
+If you watch closely at InfoSec news, you may have noticed the danger represented by [Krack Attacks](https://www.krackattacks.com/), the demonstration of a serious weaknesses in WPA2, a protocol that secures all modern protected Wi-Fi networks. One of the steps in the attack procedure is for the malicious software to intercept the SSL requests sent by the browser, request the URL itself, then answer the result in HTTP instead of HTTPS. A simple off-guard moment is enough for a pirate to intercept private information. If your domain is indexed in the HSTS Preload list, the browser will refuse to switch to HTTP, thus protecting your visitors.
+
 ## Further information about HSTS
 
 *   [HTTP Strict Transport Security – The Chromium Projects](https://www.chromium.org/hsts)
