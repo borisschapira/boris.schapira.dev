@@ -108,7 +108,7 @@ ErrorDocument 404 /404.html
 
   # Web fonts
   AddType application/font-woff                       woff
-  AddType application/font-woff2                      woff2
+  AddType font/woff2                                  woff2
   AddType application/vnd.ms-fontobject               eot
 
   # Browsers usually ignore the font MIME types and sniff the content,
@@ -420,8 +420,8 @@ FileETag None
   ExpiresByType application/rss+xml                   "access plus 1 hour"
 
   # Web fonts
-  ExpiresByType font/woff                 "access plus 1 month"
-  ExpiresByType font/woff2                "access plus 1 month"
+  ExpiresByType application/font-woff                 "access plus 1 month"
+  ExpiresByType font/woff2                            "access plus 1 month"
   ExpiresByType application/vnd.ms-fontobject         "access plus 1 month"
   ExpiresByType application/x-font-ttf                "access plus 1 month"
   ExpiresByType font/opentype                         "access plus 1 month"
