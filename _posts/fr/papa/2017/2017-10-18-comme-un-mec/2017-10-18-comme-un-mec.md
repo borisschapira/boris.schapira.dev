@@ -9,7 +9,7 @@ publishDate: '2017-10-18'
 locale: fr_FR
 ---
 
-Depuis quelques jours, mon aîné a une nouvelle manie. Dès qu'il réussit quelque chose de difficile ou qui nécessite de la dextérité, il s'autocongratule en disant qu'il est "un mec".
+Depuis quelques jours, mon aîné a une nouvelle manie. Dès qu'il réussit quelque chose de difficile ou qui nécessite de la dextérité, il se congratule en disant qu'il est "un mec".
 
 <!-- more -->
 
@@ -28,7 +28,7 @@ Le petit, fan de super-héros, s'en mêle :
 > – Non, on ne dit pas une mec puisque "mec", ça veut dire monsieur. On ne dit pas "une monsieur".  
 > – Ah d'accord.
 
-Il maque un silence de trois secondes, puis :
+Il marque un silence de trois secondes, puis :
 
 > Mais Papa, les femmes, pourquoi elles ont pas le droit qu'on les appelle "Monsieur" ?
 
