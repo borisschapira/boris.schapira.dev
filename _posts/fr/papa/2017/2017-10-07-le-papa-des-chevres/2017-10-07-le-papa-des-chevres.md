@@ -17,8 +17,13 @@ Les enfants jouent à des jeux éducatifs avec leur grand-mère…
 > – Hibou ! Mouche !  
 > – Oui ! Et comment s'appelle le papa des chèvres ?  
 
-Devant leur silence circonspect, elle décide de mimer la barbe de l'animal, reproduisant sans le savoir [le signe <abbr title="Langue des Signe Française">LSF</abbr> du mois de décembre](https://www.elix-lsf.fr/spip.php?page=signes&id_article=151775)[^lsf].
+Devant leur silence circonspect, elle décide de mimer la barbe de l'animal, reproduisant sans le savoir [le signe <abbr title="Langue des Signe Française">LSF</abbr> du mois de décembre](https://www.elix-lsf.fr/spip.php?page=signes&id_article=151775).
 
 > Le Père Noël !
 
-[^lsf]: Envie de vous sensibiliser à la LSF, découvrez le signe quotidien de Fanny en suivant le [hashtag #DameFannySigne sur Twitter](https://twitter.com/hashtag/damefannysigne?src=hash).
+{% capture cap_text %}Envie de vous sensibiliser à la LSF, découvrez le signe quotidien de Fanny en suivant le <a href="https://twitter.com/hashtag/damefannysigne?src=hash">hashtag #DameFannySigne sur Twitter</a>. Ici, le signe "décembre".{% endcapture %}
+{% include video_as_a_gif.html.liquid
+    slug="decembre"
+    alt="DameFanny faisant le signe de décembre"
+    caption=cap_text
+%}

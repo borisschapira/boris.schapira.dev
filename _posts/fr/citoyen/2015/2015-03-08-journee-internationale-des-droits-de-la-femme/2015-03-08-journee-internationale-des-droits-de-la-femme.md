@@ -1,5 +1,5 @@
 ---
-title: 'Journée Internationale des Droits de la Femme'
+title: 'Journée Internationale des Droits des Femmes'
 main_image: assets/images/shared/he-for-she-logo.jpg
 tags:
     - HeForShe
@@ -21,4 +21,4 @@ J'ai beaucoup réfléchi à ce que je pourrais faire d'utile de cette "journée"
 > Chérie, est-ce que tous les autres jours de l'année, je te montre bien que je t'aime et que je te considères comme mon égale dans notre couple, dans notre vie, par rapport à nos enfants, à ton travail&nbsp;?
 
 Elle m'a répondu que oui en souriant (je soupçonne qu'elle se soit moquée de moi, même, un peu).
-Il faudra que je pense à reposer la question l'année prochaine&nbsp;: l'intérêt de la Journée des Droits de la Femme, c'est aussi de nous rappeler qu'on n'est jamais trop prudents.
+Il faudra que je pense à reposer la question l'année prochaine&nbsp;: l'intérêt de la Journée des Droits des Femmes, c'est aussi de nous rappeler qu'on n'est jamais trop prudents.

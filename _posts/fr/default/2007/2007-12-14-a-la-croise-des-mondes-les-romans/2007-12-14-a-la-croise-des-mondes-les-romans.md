@@ -27,7 +27,7 @@ S'en suivent de nombreuses rencontres extraordinaires avec des gitans, des sorci
 
 ## Pourquoi en parler&nbsp;?
 
-On y trouve, et c'est une chose rare dans les romans de Fantasy, une importante mise en valeur de la femme. Qu'elle soit sauveuse de l'humanité, sage tentatrice ou manipulatrice, elle est souvent forte et indépendante. 
+On y trouve, et c'est une chose rare dans les romans de Fantasy, une importante mise en valeur des femmes. Qu'elle soit sauveuse de l'humanité, sage tentatrice ou manipulatrice, elle est souvent forte et indépendante. 
 
 Le roman est également teinté d'une forte critique des intégrismes qu'ils soient religieux ou scientifiques. Cela fait ressentir au lecteur un mélange de mysticisme (les concepts de l'âme, du fantôme, du retour à la Terre…) et d'opposition face à l'existence d'une force toute-puissante (souvent masculine).
 
