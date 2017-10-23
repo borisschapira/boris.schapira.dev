@@ -38,5 +38,5 @@ Pour éviter les malentendus :
 
 ***
 
-Je comprends la réticence de certain·e·s face à ces règles. Dès lors qu'on touche à la langue, les réactions sont violentes, on l'a vu il y a peu avec la réforme de l'orthographe. Nous sommes tous attachés à notre langue car elle est un marqueur fort de notre patrimoine national et je comprends l'agacement de celles et ceux qui voient ici un danger. J'y vois, au contraire, une opportunité d'utiliser ce que nous avons de plus fort pour porter une valeur juste.
+Je comprends la réticence de certain·e·s face à ces règles. Dès lors qu'on touche à la langue, les réactions sont violentes, on l'a vu il y a peu avec la réforme de l'orthographe. Nous sommes attaché·e·s à notre langue car elle est un marqueur fort de notre patrimoine national et je comprends l'agacement de celles et ceux qui voient ici un danger. J'y vois, au contraire, une opportunité d'utiliser ce que nous avons de plus fort pour porter une valeur juste.
 
