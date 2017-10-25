@@ -34,7 +34,7 @@ Mes dents n'ont jamais fait **d'étincelles** quand je souris, et pourtant j'ai 
 
 Je reste persuadé qui si je n'ai pas d'accident en **voiture**, c'est parce que je suis un pas trop mauvais **conducteur**. La voiture n'y est pas pour grand chose.
 
-Mon assureur/banquier ne me reçoit jamais dans le** **hall de son **palace**. La moitié du temps, il ne répond même pas à mes coups de fils.
+Mon assureur/banquier ne me reçoit jamais dans le hall de son **palace**. La moitié du temps, il ne répond même pas à mes coups de fils.
 
 Je ne suis pas** <acronym title="Best Friend Forever (Meilleur(e)s ami(e)s pour la vie)">_BFF_ </acronym>avec un produit laitier**, et je pense que si ça m'arrive un jour, j'envisagerais de consulter.
 

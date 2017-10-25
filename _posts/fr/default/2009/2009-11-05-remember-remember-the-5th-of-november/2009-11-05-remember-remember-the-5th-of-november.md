@@ -10,7 +10,7 @@ publishDate: '2009-11-05'
 locale: fr_FR
 ---
 
-_**Frednetick **se posait hier la question «[Et si l'on se passait du Parlement&nbsp;?](http://frednetick.fr/)». Hasard du calendrier, il a un jour d'avance (ou beaucoup de retard) sur **Guy Fawkes**, qui lui-même avait décidé de [prendre les choses en main](http://fr.wikipedia.org/wiki/Conspiration_des_poudres) dès 1605…_
+_**Frednetick** se posait hier la question «[Et si l'on se passait du Parlement ?](http://frednetick.fr/)». Hasard du calendrier, il a un jour d'avance (ou beaucoup de retard) sur **Guy Fawkes**, qui lui-même avait décidé de [prendre les choses en main](http://fr.wikipedia.org/wiki/Conspiration_des_poudres) dès 1605…_
 
 <!-- more -->
 
@@ -19,6 +19,6 @@ _**Frednetick **se posait hier la question «[Et si l'on se passait du Parlement
 
 Évidemment, la solution de Fawkes, que l'on pourrait résumer par "tuer et tout faire péter", bien qu'elle ait été parfaitement logique en son époque, semblerait aujourd'hui plus difficile à mettre en place, et bien inutile.
 
-Cependant l'idée est là. Quand l'exécutif prépare à l'avance la notice sur la réforme des collectivités territoriales alors qu'elle n'a pas encore été discutée par les députés, ne peut-on pas douter de l'utilité du Parlement&nbsp;?
+Cependant l'idée est là. Quand l'exécutif prépare à l'avance la notice sur la réforme des collectivités territoriales alors qu'elle n'a pas encore été discutée par les députés, ne peut-on pas douter de l'utilité du Parlement ?
 
 _"Remember, remember, the fifth of November…"_
