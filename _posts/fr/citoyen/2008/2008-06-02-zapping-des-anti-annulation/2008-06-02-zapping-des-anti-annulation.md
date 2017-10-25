@@ -22,7 +22,7 @@ _"[C'est] une mise en cause de l'égalité hommes-femmes, les hommes ne pouvant 
 
 _"[Cette décision] bafoue le droit des femmes à disposer de leur corps et à vivre librement, comme les hommes, leur sexualité"_ s'exclame-t-on, au **Parti Socialiste**. Parce qu'elle en aurait eu une, de sexualité, avec ce mari-là&nbsp;? Vous croyez vraiment qu'il l'aurait touchée à nouveau&nbsp;? Elle aurait pu aller voir ailleurs, certes, mais vous avouerez qu'on fait mieux comme mariage, non&nbsp;?
 
-_"Une telle décision est une atteinte à l'intégrité des femmes et une violation aux droits fondamentaux de tout individu"_ ajoute la **secrétaire d'État au droit des femmes **Valérie Létard. Je ne demande qu'à la croire mais j'aimerais qu'elle me prouve en quoi le mensonge est un droit fondamental de l'individu… pour ce qui est de l'intégrité des femmes, il ne faudrait quand même pas aller trop loin.
+_"Une telle décision est une atteinte à l'intégrité des femmes et une violation aux droits fondamentaux de tout individu"_ ajoute la **secrétaire d'État au droit des femmes** Valérie Létard. Je ne demande qu'à la croire mais j'aimerais qu'elle me prouve en quoi le mensonge est un droit fondamental de l'individu… pour ce qui est de l'intégrité des femmes, il ne faudrait quand même pas aller trop loin.
 
 Marie-Jeanne Vidaillet-Peretti, du Conseil national des femmes françaises, est même_ "prête (…) pour aider la jeune femme concernée à aller jusqu'en cour de cassation"_. Quel grand cœur, tout de même&nbsp;!
 

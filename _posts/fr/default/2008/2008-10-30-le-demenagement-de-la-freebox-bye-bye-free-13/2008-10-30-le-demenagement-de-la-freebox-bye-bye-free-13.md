@@ -14,7 +14,7 @@ publishDate: '2008-10-30'
 locale: fr_FR
 ---
 
-Mon histoire avec **Free **est aussi longue que ma relation au **Web**. Free m'a accompagné dans mon premier studio. Free m'a offert mon premier abonnement **Triple-Play**. J'ai été co-administrateur d'un réseau étudiant de 180 machines connectées sur 3 Freebox. Et lorsque j'ai déménagé à Boulogne, j'ai pris ma **Freebox **sous le bras. Autant dire que Free et moi étions devenus inséparables. **Je pardonnais beaucoup à Free**, même de m'avoir prélevé pendant plusieurs mois des sommes relatives à une freebox que je leur avais renvoyé (et qu'ils ont miraculeusement trouvée trois jours après que j'aie dénoncé la supercherie… sans pour autant me rembourser). Si je fais cette introduction, c'est pour que vous compreniez bien à quel **degré d'énervement** Free m'a poussé dans ce qui n'est qu'un simple **déménagement** entre deux appartements avec **conservation de la Freebox**.
+Mon histoire avec **Free** est aussi longue que ma relation au **Web**. Free m'a accompagné dans mon premier studio. Free m'a offert mon premier abonnement **Triple-Play**. J'ai été co-administrateur d'un réseau étudiant de 180 machines connectées sur 3 Freebox. Et lorsque j'ai déménagé à Boulogne, j'ai pris ma **Freebox** sous le bras. Autant dire que Free et moi étions devenus inséparables. **Je pardonnais beaucoup à Free**, même de m'avoir prélevé pendant plusieurs mois des sommes relatives à une freebox que je leur avais renvoyé (et qu'ils ont miraculeusement trouvée trois jours après que j'aie dénoncé la supercherie… sans pour autant me rembourser). Si je fais cette introduction, c'est pour que vous compreniez bien à quel **degré d'énervement** Free m'a poussé dans ce qui n'est qu'un simple **déménagement** entre deux appartements avec **conservation de la Freebox**.
 
 > Si seulement ça avait été aussi simple que ça…
 
@@ -29,7 +29,7 @@ Total Hotline&nbsp;: 10 minutes._
 **Appel au 1044.** Attente&nbsp;: 4:50\. J'explique que j'ai appelé au 08 11…, qu'il s'agissait d'un serveur vocal et que je n'ai pas d'identifiants. On me dit d'appeler au 3234\. Je rappelle qu'on m'a parlé du 1044 et l'opératrice confirme que non, il s'agit bien du 3234\. _
 Total Hotline&nbsp;: 16 minutes._
 
-**Appel au 3234.** "Bonjour et bienvenue chez **Darty **! Le temps d'attente pour obtenir un conseiller Darty Box…". Bande de boulets. _
+**Appel au 3234.** "Bonjour et bienvenue chez **Darty** ! Le temps d'attente pour obtenir un conseiller Darty Box…". Bande de boulets. _
 Total Hotline&nbsp;: 17 minutes._
 
 **Appel au 1044.** Attente&nbsp;: 4:32\. "Nous enregistrons trop d'appels, veuillez rappeler ultérieurement". _

@@ -24,7 +24,7 @@ Depuis 5 ans, l'[Imagine Cup](https://www.imaginecup.com/Error/500?aspxerrorpath
 
 ### Chacun y trouve son compte
 
-La compétition est bien évidemment un moyen pour la firme de Redmond de **mettre en** **avant les technologies** **Microsoft **auprès des futures générations de développeurs, de responsables de systèmes et de preneurs de décisions. Mais elle est aussi, pour une population d'étudiants souvent peu expérimentés, l'occasion d'**acquérir des bases** dans les différents domaines des **Technologies de l'Information**.
+La compétition est bien évidemment un moyen pour la firme de Redmond de **mettre en** **avant les technologies** **Microsoft** auprès des futures générations de développeurs, de responsables de systèmes et de preneurs de décisions. Mais elle est aussi, pour une population d'étudiants souvent peu expérimentés, l'occasion d'**acquérir des bases** dans les différents domaines des **Technologies de l'Information**.
 
 Les finales se dérouleront en août mais les équipes d'étudiants travaillent depuis des mois sur leurs projets et les premières éliminatoires viennent à peine de se terminer dans certaines compétitions. Les finalistes se retrouveront à Séoul, en Corée du Sud, et s'affronteront pour repartir avec la plus grosse part des **170 000 $ de prix annoncés** (25 000 $ pour la seule compétition de Software Design).
 

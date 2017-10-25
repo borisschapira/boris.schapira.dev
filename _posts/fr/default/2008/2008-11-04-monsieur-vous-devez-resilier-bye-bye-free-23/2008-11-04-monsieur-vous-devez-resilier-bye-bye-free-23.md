@@ -14,7 +14,7 @@ publishDate: '2008-11-04'
 locale: fr_FR
 ---
 
-**Free **et moi, c'était une grande et belle histoire. Mais quand j'ai voulu **déménager**, ça s'est avéré très **problématique**. Après plus d'une heure de **Hotline **pour un problème qui ne nécessitait pas mon intervention, j'avais craqué. Nous sommes le lendemain, je rappelle pour avoir des informations à jour, plus de 20 jours après la validation de ma demande de déménagement et 8 jours après le début du premier mois normalement facturé…
+**Free** et moi, c'était une grande et belle histoire. Mais quand j'ai voulu **déménager**, ça s'est avéré très **problématique**. Après plus d'une heure de **Hotline** pour un problème qui ne nécessitait pas mon intervention, j'avais craqué. Nous sommes le lendemain, je rappelle pour avoir des informations à jour, plus de 20 jours après la validation de ma demande de déménagement et 8 jours après le début du premier mois normalement facturé…
 
 **Appel au 08 11 92 30 92.** Attente&nbsp;: 3:00\. J'explique mon souci.
 "- On va regarder.
@@ -42,6 +42,6 @@ Temps Hotline&nbsp;: 1h57._
 **Appel au 3244.** Attente&nbsp;: 3:12\. "Ah non monsieur, vous devez vous tromper. Ces questions sont relatives au service joignable au 1044". Je hurle sur l'interlocuteur, qui finalement me donne un lien vers un formulaire et m'explique oralement la procédure tout en me soulignant que je devrais quand même appeler le 1044\. J'en ai marre, je m'arrête à cette dernière info. _
 Temps Hotline&nbsp;: 2h12._
 
-Dès le lendemain, j'emballe la **Freebox **et remplis le formulaire. Voilà, j'ai résilié mon abonnement. Et s'ils essaient de me prélever quoi que ce soit, je les pourris. Je suis remonté comme pas possible et c'est sûr, je n'irais pas chez eux pour une nouvelle offre **Triple Play**.
+Dès le lendemain, j'emballe la **Freebox** et remplis le formulaire. Voilà, j'ai résilié mon abonnement. Et s'ils essaient de me prélever quoi que ce soit, je les pourris. Je suis remonté comme pas possible et c'est sûr, je n'irais pas chez eux pour une nouvelle offre **Triple Play**.
 
 Au revoir, Free&nbsp;!

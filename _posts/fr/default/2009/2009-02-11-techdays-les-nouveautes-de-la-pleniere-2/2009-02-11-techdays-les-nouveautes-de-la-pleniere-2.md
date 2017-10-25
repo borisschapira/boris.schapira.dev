@@ -11,7 +11,7 @@ publishDate: '2009-02-11'
 locale: fr_FR
 ---
 
-Plusieurs milliers de personnes se sont déplacées aujourd’hui pour assister à la grand-messe annuelle de Microsoft. **Windows Seven, Visual Studio 2010 et Azure et la stratégie Software + Service **ont conclu cette keynote.
+Plusieurs milliers de personnes se sont déplacées aujourd’hui pour assister à la grand-messe annuelle de Microsoft. **Windows Seven, Visual Studio 2010 et Azure et la stratégie Software + Service** ont conclu cette keynote.
 
 <!-- more -->[NaY](http://blogs.msdn.com/b/nay/) fait alors une entrée tout en charme. Elle vient présenter Windows Seven en commençant par les possibilités de personnalisation des miniatures d’applications dans [la nouvelle barre des tâches](http://www.pinnula.fr/news/02542-windows-7-la-nouvelle-taskbar-barre-des-taches-se-devoile/fr/). Elle enchaine ensuite avec les OSDX (des [connecteurs de recherche](http://www.nextinpact.com/archive/47415-windows-7-seven-search-connectors.htm) qui vous permettront de naviguer aussi facilement dans vos images locales que dans votre bibliothèque [Flickr](http://www.flickr.com/)), et fini avec l’intégration du Multitouch dans des outils qui ne sont pas prévus pour à l’origine, comme OneNote.
 
