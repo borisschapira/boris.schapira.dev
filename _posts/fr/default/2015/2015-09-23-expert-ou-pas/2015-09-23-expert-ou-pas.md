@@ -41,7 +41,7 @@ L'expert réagit entièrement de manière intuitive, prend directement la bonne 
 
 ## Équilibrer une équipe
 
-Dans le modèle de Dreyfus, il n'y a pas de bonne ou de mauvaise position, mais plutôt une distribution inégale avec quelques novices, beaucoup de débutant avancés, peu de personnes efficaces et très peu d'experts. L'expertise est quasiement entièrement évaluée au regard de l'intuition de la personne, les débutants préférant l'exécution de règles. Mais cette intuition a un coût : la communication. Il est donc déconseillé de réunir directement des profils ayant plus d'un cran d'écart. Inutile par exemple de mettre ensemble des gens qui ont besoin de beaucoup de réponses (les novices) et des gens incapables d'en fournir (les experts).
+Dans le modèle de Dreyfus, il n'y a pas de bonne ou de mauvaise position, mais plutôt une distribution inégale avec quelques novices, beaucoup de débutant avancés, peu de personnes efficaces et très peu d'experts. L'expertise est quasiment entièrement évaluée au regard de l'intuition de la personne, les débutants préférant l'exécution de règles. Mais cette intuition a un coût : la communication. Il est donc déconseillé de réunir directement des profils ayant plus d'un cran d'écart. Inutile par exemple de mettre ensemble des gens qui ont besoin de beaucoup de réponses (les novices) et des gens incapables d'en fournir (les experts).
 
 ## D'autres modèles ?
 

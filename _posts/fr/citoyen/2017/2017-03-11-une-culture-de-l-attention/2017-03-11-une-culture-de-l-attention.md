@@ -20,7 +20,7 @@ La recherche de [l'accroche la plus putassière](https://medium.com/social-media
 
 ## De la maximisation de l'attention
 
-Le problème derrière tout ça, c'est la recherche quasiement constante de résultats. Pourquoi tous ces titres racôleurs sinon pour appâter le chalan ? On mesure ainsi le succès de sa "campagne" au nombre de clics, aux nombre de tweets, à l'impact *mesurable*, dans une stratégie qui n'a rien de pérenne et qui, surtout, ne mesue pas la réalité de l'impact d'un contenu.
+Le problème derrière tout ça, c'est la recherche quasiment constante de résultats. Pourquoi tous ces titres racôleurs sinon pour appâter le chalan ? On mesure ainsi le succès de sa "campagne" au nombre de clics, aux nombre de tweets, à l'impact *mesurable*, dans une stratégie qui n'a rien de pérenne et qui, surtout, ne mesue pas la réalité de l'impact d'un contenu.
 
 Je discutais, il y a quelque mois, avec le responsable technique de l'architecture numérique d'un grand journal. Il m'expliquait qu'ils n'avaient pas la moindre idée du profil de leurs lecteurs et de ce qui les intéresse. Non pas que les mesures n'existent pas : au contraire, elles existent mais ne traduisent aucune cohorte, aucun regroupement porteur de sens. Certains articles sont lus en diagonales par une très grand variété de personnes, tandis que d'autres sont lus en profondeur par une poignée. 
 

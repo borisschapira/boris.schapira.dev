@@ -43,7 +43,7 @@ Je jette ce à quoi je pense, j'essaierai d'alimenter davantage ultérieurement 
     * Une "machine virtuelle" : c'est quand on fait tourner un programme qui fait tourner tout un autre ordinateur **dans** son ordinateur. Exemple : faire tourner Windows dans un Mac.
     * Les machines de travail sont ultra-puissantes et très chères.
     * Réinventer la roue tout le temps n'est pas productif. Les développeurs passent leur temps à la fois à réutiliser des composants, des morceaux d'applications, des applications entières comme on assemble des Legos.
-    * Il y a beaucoup de termes technique très verbeux, et pas beaucoup de termes. En bricolage, un outil qui enfonce des clous s'appelle un marteau. Dans le numérique, un outil qui enfonce des clous s'appelles un OQEDC (Outil Qui Enfonce Des Clous). Résultat : parfois, on s'en sort plus trop.
+    * Il y a beaucoup de termes technique très verbeux, souvent des acronymes. Il faut prendre du recul. En bricolage, un outil qui enfonce des clous s'appelle un marteau. Dans le numérique, un outil qui enfonce des clous s'appelles un OQEDC (Outil Qui Enfonce Des Clous). Résultat : parfois, on s'en sort plus trop. Pourtant ça reste [des marteaux](/2016/09/le-marteau/).
 * Organisation du travail :
     * Le Web : un domaine, **plein** de métiers : 
         * le(s) graphistes (illustrateurs, webdesigners…) ; 
