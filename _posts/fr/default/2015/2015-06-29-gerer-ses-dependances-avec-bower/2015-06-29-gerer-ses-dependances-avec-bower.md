@@ -46,7 +46,7 @@ Car autant il est désormais admis dans la communauté <span lang="en">JavaScrip
 
 Un autre problème levé par cette démarche, c’est qu’elle impose une mécanique de pensée au développeur qui, par économie d’effort, cherchera à provoquer le moins de conflits possible entre les dépendances. Quoi de plus efficace pour cela que de réduire son nombre de dépendances ?
 
-Sans forcément penser à mal, le développeur en viendra alors souvent à l’exact opposé de ce qui était voulu en installant des dépendances monolithiques et très (trop) riches en fonctionnalités (comme <span lang="en">Bootstrap</span> ou <span lang="en">jQuery</span>, que l'on retrouve quasiement systématiquement des les <span lang="en">boilerplates</span> basés sur <strong>Bower</strong>) de manière à couvrir le besoin fonctionnel avec le moins de dépendances possibles avec à la clé, une augmentation du couplage et de nombreuses difficultés lors des demandes d’évolutions ou d’optimisations.
+Sans forcément penser à mal, le développeur en viendra alors souvent à l’exact opposé de ce qui était voulu en installant des dépendances monolithiques et très (trop) riches en fonctionnalités (comme <span lang="en">Bootstrap</span> ou <span lang="en">jQuery</span>, que l'on retrouve quasiment systématiquement des les <span lang="en">boilerplates</span> basés sur <strong>Bower</strong>) de manière à couvrir le besoin fonctionnel avec le moins de dépendances possibles avec à la clé, une augmentation du couplage et de nombreuses difficultés lors des demandes d’évolutions ou d’optimisations.
 
 ## Une forte dépendance aux dépôts des auteurs
 
