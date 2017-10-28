@@ -1,34 +1,52 @@
----
-layout: null
----
-<?xml version="1.0" encoding="utf-8"?>
+--- 
+layout: null 
+--- 
+{% if page.category %}
+  {% assign cats_eyes = page.category|size %}
+  {% if cats_eyes > 0 %}{% assign has_cat = true %}{% else %}{% assign has_cat = false %}{% endif %}
+{% endif %}{% if page.locale %}
+  {% assign locale_size = page.locale|size %}
+  {% if locale_size > 0 %}{% assign has_locale = true %}{% else %}{% assign has_locale = false %}{% endif %}
+{% endif %}{% if has_cat %}
+  {% assign the_posts=site.categories[page.category] %} 
+{% else %} 
+  {% assign the_posts=site.posts %}
+{% endif %}{% if has_locale %}
+  {% assign the_posts=the_posts| where:"locale", page.locale | where:"hidden", false %} 
+{% else %} 
+  {% assign the_posts=the_posts| where:"hidden", false %} 
+{% endif %}{% if page.url %}
+  {% assign the_url = page.url %}
+{% else %}
+{% assign the_url = site.url %}
+{% endif %}<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{% unless page.category == 'default' %}{{ page.category }} · {% endunless %}{{ site.title | xml_escape }}</title>
-    <description>{% unless page.category == 'default' %}{{ page.title }} {{ page.description | xml_escape }}{% else %}{{site.description | xml_escape }}{% endunless %}</description>
-    <link>{{ site.url | append:page.base-url }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: page.base-url | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <description>{% if page.description %} {{ page.description | xml_escape }}{% else %}{{site.description | xml_escape
+      }}{% endif %}</description>
+    <link>{{ page.url|default: site.url |prepend:site.baseurl }}/</link>
+    <atom:link href="{{ " /feed.xml " | prepend: page.base-url | prepend: site.url }}" rel="self" type="application/rss+xml"
+    />
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% assign the_posts=site.categories[page.category] | where:"locale", page.locale |  where:"hidden", false %}
     {% for post in the_posts limit: 20%}
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        {% if post.author.name %}
-          <dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
-				{% endif %}
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: page.base-url | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: page.base-url | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
-      </item>
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      {% if post.author.name %}
+      <dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
+      {% endif %}
+      <description>{% include post_in_feed.html.liquid %}</description>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <link>{{ post.url | prepend: page.base-url | prepend: site.url }}</link>
+      <guid isPermaLink="true">{{ post.url | prepend: page.base-url | prepend: site.url }}</guid>
+      {% for tag in post.tags %}
+      <category>{{ tag | xml_escape }}</category>
+      {% endfor %} {% for cat in post.categories %}
+      <category>{{ cat | xml_escape }}</category>
+      {% endfor %}
+    </item>
     {% endfor %}
   </channel>
 </rss>
