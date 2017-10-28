@@ -8,6 +8,5 @@ locale: "en_US"
 base-url: "en/"
 pagination: 
   enabled: true
-  category: default
   locale: en_US
 ---

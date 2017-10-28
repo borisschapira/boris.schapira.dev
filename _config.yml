@@ -8,15 +8,13 @@
 # Lang configuration
 lang: fr
 locale: fr_FR
-base-url: "/"
 defaults:
   - scope:
       path: ""
     values:
       lang: fr
       locale: fr_FR
-      base-url: ""
-      category: default
+      base-url: "/"
   - scope:
       path: "_confs"
     values:
@@ -28,6 +26,11 @@ defaults:
       comments: true
       comments_locked: false
       hidden: false
+      base-url: "/"
+  - scope:
+      path: "_posts/fr/web"
+    values:
+      category: web
   - scope:
       path: "_posts/fr/papa"
     values:

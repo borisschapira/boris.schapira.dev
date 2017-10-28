@@ -2,7 +2,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.base-url }}{{ page.base-url }}" itemprop="url">
+        <a href="{{ page.base-url }}" itemprop="url">
           {{ site.title }}
         </a>
       </h1>
@@ -17,21 +17,21 @@
 
     <nav class="sidebar-nav">
       <ul class="categories" itemscope itemtype="http://schema.org/BreadcrumbList">
-        <li class="sidebar-nav-item {% if page.category == 'default' %} active{% endif %}" itemprop="itemListElement" itemscope
+        <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
       itemtype="http://schema.org/ListItem">
-          <a href="{{ site.base-url }}{{ page.base-url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{% t Web %}</a>
+          <a href="{{ 'web/' | prepend: page.base-url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{% t Web %}</a>
         </li>
 
         {% if the-locale == 'fr_FR' %}
 
           <li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
       itemtype="http://schema.org/ListItem">
-            <a href="{{ site.base-url }}{{ page.base-url | append: 'citoyen/' }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Citoyen %}</a>
+            <a href="{{ 'citoyen/' | prepend: page.base-url }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Citoyen %}</a>
           </li>
 
           <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}" itemprop="itemListElement" itemscope
       itemtype="http://schema.org/ListItem">
-            <a href="{{ site.base-url }}{{ page.base-url | append: 'papa/' }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Papa %}</a>
+            <a href="{{ 'papa/' | prepend: page.base-url }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Papa %}</a>
           </li>
 
         {% endif %}
