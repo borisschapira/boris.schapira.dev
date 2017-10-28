@@ -4,7 +4,7 @@ date: '2017-04-03'
 lang: fr
 type: post
 categories:
-    - default
+    - web
 ---
 
 Parfois, une mission de conseil ne ressemble pas du tout à ce qui nous a été décrit. Et parfois, c'est pire.

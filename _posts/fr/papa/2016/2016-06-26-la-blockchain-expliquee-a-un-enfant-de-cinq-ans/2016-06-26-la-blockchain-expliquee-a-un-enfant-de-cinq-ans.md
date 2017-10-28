@@ -1,7 +1,7 @@
 ---
 title: 'La blockchain expliquée à un enfant de cinq ans'
 categories:
-    - default
+    - web
     - papa
 date: '2016-06-26'
 lang: fr

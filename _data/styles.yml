@@ -5,6 +5,9 @@ citoyen:
 papa:
   css: papa
   color: '#008300'
-default:
+web:
+  css: web
+  color: '#0000cd'
+main:
   css: main
   color: '#90084c'
