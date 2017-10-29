@@ -15,7 +15,7 @@ layout: default
     {% unless page.hideCustomHead or page.title == '' and page.description == '' %}
         <header class="posts-h{% unless have_cat %} hide {% endunless %}">
             <p>
-                {{ page.description }}
+                {{ page.description | default: site.description }}
             </p>
         </header>
     {% endunless %}
