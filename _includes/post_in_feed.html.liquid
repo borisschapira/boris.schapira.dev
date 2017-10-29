@@ -2,19 +2,13 @@
     {{ post.content }}{% unless page.hide_message %}
     <hr>
     <div style="font-style:italic">
-    <p>
-        Vous êtes abonné au flux des articles de Boris Schapira{% unless has_cat or has_locale %}.{% else %}&nbsp;:
-    </p>
-    <ul>
-        {% if has_cat %}<li>de la catégorie : {% include category_display.html.liquid category=page.category %}{% if has_locale %}&nbsp;;{% else %}.{% endif %}</li>{% endif %}
-        {% if has_locale %}<li>rédigés en {% include locale_display.html.liquid locale=page.locale %}.</li>{% endif %}
-    </ul>
-    <p>
-        D'autres flux RSS sont disponibles :
-        <!-- TODO -->
-    </p>
-    </div>
+        <p>
+            {% t Vous êtes abonné·e au flux des articles %}{% unless has_cat or has_locale %}.{% else %}&nbsp;:
+        </p>
+        <ul>
+            {% if has_cat %}<li>{% t de la catégorie&nbsp;: %} {% include category_display.html.liquid category=page.category %}{% if has_locale %}&nbsp;;{% else %}.{% endif %}</li>{% endif %}
+            {% if has_locale %}<li>{% t rédigés en %} {% include locale_display.html.liquid locale=page.locale %}.</li>{% endif %}
+        </ul>
+    </div>{% endunless %}
     {% endunless %}
-    {% endunless %}
-  </p>
 {% endcapture %}{{ post_content | xml_escape }}
