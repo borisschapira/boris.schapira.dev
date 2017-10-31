@@ -4,11 +4,7 @@ layout: microtypo
 {% assign the-locale = page.locale | default: site.locale | default: "fr_FR" %}
 {% assign translations=site.posts | where:"i18n-key", page.i18n-key | sort: 'locale' %}
 {% if translations.size == 0 %}
-  {% assign translations=site.pages | where:"i18n-key", page.i18n-key | sort: 'locale' %}
-{% endif %}
-{% assign locale=page.locale %}
-{% if locale %}
-  {% assign locale=site.locale %}
+  {% assign translations=site.html_pages | where:"i18n-key", page.i18n-key | sort: 'locale' %}
 {% endif %}
 <!DOCTYPE html>
 <html lang="{{ page.locale | default: site.locale | default: "en_US" }}" itemscope itemtype="https://schema.org/WebPage">

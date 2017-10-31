@@ -41,13 +41,13 @@
       <ul class="secondary">
 
         <li class="sidebar-nav-item {% if page.i18n-key == 'search' %} active {% endif %}">
-          <a href="{{ site.base-url }}{{ page.base-url }}{% t recherche %}/" data-no-instant>
+          <a href="{{ page.base-url }}{% t recherche %}/" data-no-instant>
             <svg class="icon icon-search">
               <use xlink:href="#icon-search"></use>
             </svg>&nbsp;{% t Recherche %}</a>
         </li>
         <li class="sidebar-nav-item{% if page.i18n-key == 'about' %} active{% endif %}">
-          <a href="{{ site.base-url }}{{ page.base-url }}{% t a-propos %}/">
+          <a href="{{ page.base-url }}{% t a-propos %}/">
             <svg class="icon icon-info">
               <use xlink:href="#icon-info"></use>
             </svg>&nbsp;{% t À propos %}</a>

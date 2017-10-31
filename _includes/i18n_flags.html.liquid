@@ -1,27 +1,13 @@
 <ul>
-  {% if page.i18n-key == 'home' %}
-    {% if page.locale == 'fr_FR' %}
-      <li><a class="en" href="{{ site.base-url | append: 'en' }}" title="BorisSchapira.com en anglais">
-        <svg class="icon flag-en">
-          <use xlink:href="#flag-en"></use>
-        </svg>
-      </a></li>
-    {% elsif page.locale == 'en_US' %}
-      <li><a class="fr" href="{{ site.base-url }}" title="BorisSchapira.com in french">
-        <svg class="icon flag-fr">
-          <use xlink:href="#flag-fr"></use>
-        </svg>
-      </a></li>
-    {% endif %}
-  {% else %}
-    {% for translation in translations %}
-      {% if translation.locale != page.locale %}
-        <li><a class="{{ translation.locale | slice: 0,2 }}" href="{{ translation.url }}" title="">
-          <svg class="icon flag-{{ translation.locale | slice: 0,2 }}">
-            <use xlink:href="#flag-{{ translation.locale | slice: 0,2 }}"></use>
-          </svg>
-        </a></li>
+  {% for translation in translations %}
+    {% if translation.locale != page.locale %}
+      {% if translation.pagination_info %}
+        {% if translation.pagination_info.curr_page == 1 %}
+          <li><a class="{{ translation.locale | slice: 0,2 }}" href="{{ translation.url }}" title="{{ translation.locale }}"><svg class="icon flag-{{ translation.locale | slice: 0,2 }}"><use xlink:href="#flag-{{ translation.locale | slice: 0,2 }}"></use></svg></a></li>
+        {% endif %}
+      {% else %}
+        <li><a class="{{ translation.locale | slice: 0,2 }}" href="{{ translation.url }}" title="{{ translation.locale }}"><svg class="icon flag-{{ translation.locale | slice: 0,2 }}"><use xlink:href="#flag-{{ translation.locale | slice: 0,2 }}"></use></svg></a></li>
       {% endif %}
-    {% endfor %}
-  {% endif %}
+    {% endif %}
+  {% endfor %}
 </ul>
