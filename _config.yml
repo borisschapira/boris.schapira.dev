@@ -26,7 +26,6 @@ defaults:
       comments: true
       comments_locked: false
       hidden: false
-      base-url: "/"
   - scope:
       path: "_posts/fr/web"
     values:
@@ -42,13 +41,17 @@ defaults:
   - scope:
       path: "en"
     values:
-      lang: en
       locale: "en_US"
-      base-url: "en/"
-  - scope:	
-       path: "_posts/en"		
-    values:				
-       base-url: "en/"
+      base-url: "/en/"
+  - scope:
+      locale: "en_US"
+      path: "_posts/en"
+    values:
+      base-url: "/en/"
+  - scope:
+      path: "_posts/en/web"
+    values:
+      category: web
 # Exclusions
 exclude:
   - ".cache"

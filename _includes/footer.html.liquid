@@ -26,7 +26,6 @@
   <script crossorigin="anonymous" integrity="sha256-jIAAmB65ff5CEFvV6DRfRWjHFwqq+AHeV4le8f8PYp4=" src="https://cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" defer ></script>
 {% endif %}
 <input type="hidden" id="data-analytics" value="{&quot;environment&quot;:&quot;{{ jekyll.environment }}&quot;,&quot;categories&quot;:[&quot;{{ page.category }}&quot;],&quot;tags&quot;:[&quot;{{ page.tags | join:"&quot;,&quot;" }}&quot;]}"/>
-{% javascript critical %}
 {% javascript instant data-no-instant %}
 {% if the-locale == 'fr_FR' %}
   {% javascript main-fr defer:"defer"%}
