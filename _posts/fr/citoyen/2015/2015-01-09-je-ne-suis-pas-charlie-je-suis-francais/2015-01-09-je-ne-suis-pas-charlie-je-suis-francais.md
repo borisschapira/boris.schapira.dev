@@ -11,6 +11,7 @@ categories:
     - citoyen
 publishDate: '2015-01-09'
 locale: fr_FR
+loadTwitterWjs: true
 ---
 
 ## précisions pour ceux qui s'offusquent
@@ -34,4 +35,3 @@ Alors non, définitivement, je ne suis pas Charlie. Je suis français. Mon pays 
 **Je ne suis pas "Charlie". Je suis français.**
 
 <blockquote class="twitter-tweet" lang="fr"><p lang="fr" dir="ltr">Meilleur dessin je suis cuit <a href="http://t.co/u7O6ZjTtjn">pic.twitter.com/u7O6ZjTtjn</a></p>&mdash; Klopp Abdu (@AlPakinoo) <a href="https://twitter.com/AlPakinoo/status/553579359614038016">9 Janvier 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

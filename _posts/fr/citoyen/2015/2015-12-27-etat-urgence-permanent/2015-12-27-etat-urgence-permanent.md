@@ -9,6 +9,7 @@ categories:
     - citoyen
 publishDate: '2015-12-27'
 locale: fr_FR
+loadTwitterWjs: true
 ---
 
 Je ne comprends pas.
@@ -24,7 +25,6 @@ Ceci étant, ce n'est pas nouveau. Je n'ai pas compris non plus pourquoi nous é
 Nous sommes en train d'ouvrir des possibles détestables, soutenus par un concentration absurde des pouvoirs de la République. Le risque est très présent et n'est soutenu que par une volonté : celle de montrer qu'on agit devant une menace terroriste face à laquelle, en réalité, nous sommes bien impuissants.
 
 <blockquote class="twitter-tweet" lang="fr"><p lang="fr" dir="ltr">- Chef,un attentat!&#10;- Vite,donnez moi un chaton que je le frappe. &#10;- Mais ça ne sert à rien? &#10;- Vous préférez l&#39;inaction face au terrorisme?</p>&mdash; Maitre Eolas ✏️ (@Maitre_Eolas) <a href="https://twitter.com/Maitre_Eolas/status/670325953210486788">27 Novembre 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Alors on y va, on tranche dans les libertés. Après tout, les gens sont contents, les enquêtes d'opinion le montrent ! Pourquoi se gêner, puisqu'on est capable de rameuter des votants en agitant le spectre du F.N. mais que de l'autre côté, si on applique son programme, on ne craint rien ? C'est même un formidable outil électoral…
 
@@ -43,12 +43,10 @@ Tandis que s'installe ce climat détestable, une culture tout aussi infâme pren
 Maintenant, on s'en prend aux français binationaux. Aux français, donc. **Aux français comme nous**, mais très souvent d'origines maghrébines de deuxième ou troisième génération. Voici donc nos nouveaux juifs, nos têtes de turcs. Dire que je croyais François Hollande quand il parlait **d'ouvrir le droit de vote aux étrangers**.
 
 <blockquote class="twitter-tweet" lang="fr"><p lang="fr" dir="ltr">Droite de vote des étrangers: &quot;Les socialistes et l&#39;ensemble de la gauche doivent se battre pour cette mesure&quot; <a href="https://twitter.com/hashtag/RFI?src=hash">#RFI</a></p>&mdash; Jean-Chr. Cambadélis (@jccambadelis) <a href="https://twitter.com/jccambadelis/status/664711396475740160">12 Novembre 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Nous vivons dans l'action, sans analyser nos erreurs. Par exemple : il y a clairement un problème de renseignement. Ce qui est arrivé en janvier et en novembre n'aurait pas dû. On a arrêté des surveillances d'individus dangereux. Pas faute d'informations, mais faute d'analyse (ce qui distingue l'information du renseignement). Pourquoi on n'en parle pas ? Pourquoi les seules pistes évoquées pour changer les choses consistent à augmenter la quantité d'informations collectées quand de toute évidence, nous ne savons pas les traiter ? Si l'État d'Urgence vise à arrêter un terroriste toujours en fuite, pourquoi on assigne à résidence des membres d'associations écologistes sans casier ? Chut, ne posons pas de questions. Ce n'est pas le moment. Observons l'Empire se constituer dans la fange.
 
 <blockquote class="twitter-tweet" lang="fr"><p lang="fr" dir="ltr">Retrouvez les mesures annoncées par le Président de la République ce lundi 16 novembre &gt;&gt; <a href="https://t.co/MuAxfX2yUK">https://t.co/MuAxfX2yUK</a> <a href="https://t.co/Wt0CrgGmbG">pic.twitter.com/Wt0CrgGmbG</a></p>&mdash; Parti socialiste (@partisocialiste) <a href="https://twitter.com/partisocialiste/status/666652814446305280">17 Novembre 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Tout ce qui est fait en ce moment est vain, ou plus exactement, d'utilité secondaire. Cela ne sert qu'à François Hollande, à court terme, pour le faire apparaitre comme l’homme fort en période de crise. Si aucun nouvel attentat n’arrive d’ici les prochaines présidentielles alors ça sera grâce à lui. Si un nouveau survient, c’est que lui et Valls auraient dû pousser les murs encore plus loin. Voilà la logique dans laquelle nous nous enfermons.
 

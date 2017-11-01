@@ -7,6 +7,7 @@ categories:
     - web
 publishDate: '2010-08-31'
 locale: fr_FR
+loadTwitterWjs: true
 ---
 
 ## Ceci n'est pas une pipe
@@ -27,4 +28,3 @@ Ce mail n'a bien sûr rien à voir avec la CAF. En cliquant sur le lien fourni,�
 Soyez vigilants, ce genre de mail est courant et peut imiter un courrier de la CAF comme une lettre des impôts ou tout autre chose. Ce n'est pas parce que le courrier est en français et dispose d'un en-tête ressemblant à la réalité qu'il est ce qu'il dit être.
 
 <blockquote class="twitter-tweet" lang="fr"><p lang="fr" dir="ltr">partage le screenshot du phising des impôts qu&#39;il a reçu. Si vous l&#39;avez dans votre boîte, supprimez le ! http://twitpic.com/2jx1np</p>&mdash; Ravana (@Ravana) <a href="https://twitter.com/Ravana/status/22605441781">31 Août 2010</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

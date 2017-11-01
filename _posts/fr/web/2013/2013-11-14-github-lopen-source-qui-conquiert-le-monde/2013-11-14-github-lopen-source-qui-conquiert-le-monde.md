@@ -22,7 +22,7 @@ Difficile pour un développeur, en 2013, de ne pas savoir se servir de GitHub. B
 Ce qui avait commencé, en octobre 2007, comme un projet personnel, sans intention commerciale, est devenu aujourd’hui un pilier central de la collaboration logicielle et permet, chaque jour, à des milliers de développeurs de travailler ensemble à travers le monde.
 
 <figure>
-  <a href="//davidfischer.github.io/gdc2/#languages/All">
+  <a href="https://davidfischer.github.io/gdc2/#languages/All">
     {% responsive_image path: assets/images/2013-11-14/1.png alt: "Une carte naïve du monde, avec des zones accentuées" %}
   </a>
   <figcaption>Projet de visualisation des données de la Timeline publique de GitHub, par David Fischer.</figcaption>

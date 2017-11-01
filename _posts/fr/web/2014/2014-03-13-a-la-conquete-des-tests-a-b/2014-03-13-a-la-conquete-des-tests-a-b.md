@@ -32,7 +32,7 @@ Matthieu n’est pas tatillon, loin de là, mais ses responsabilités et sa cons
 
 Mais parfois, il faut l’avouer, Matthieu ne sait pas. Il hésite. Il se pose des questions : cette fonctionnalité va-t-elle améliorer les choses ? Cette nouvelle façon de communiquer incitera-t-elle les clients à venir visiter le site ? Et ce nouveau tunnel de paiement, est-il vraiment plus performant que l’ancien ?
 <h2>Les Tests A/B, c’est simple et objectif</h2>
-Pour améliorer son processus de décision, il se renseigne et découvre une technique éprouvée sur les géants du Web : l'<strong>A/B Testing</strong>. Il lit consciencieusement <a href="//fr.wikipedia.org/wiki/Test_A/B">la définition de Wikipedia</a> et comprend immédiatement le principe, qui repose sur trois étapes :
+Pour améliorer son processus de décision, il se renseigne et découvre une technique éprouvée sur les géants du Web : l'<strong>A/B Testing</strong>. Il lit consciencieusement <a href="https://fr.wikipedia.org/wiki/Test_A/B">la définition de Wikipedia</a> et comprend immédiatement le principe, qui repose sur trois étapes :
 
 <ol>
 	<li>D’une part, il devra livrer les deux versions de sa fonctionnalité, diriger certains utilisateurs sur l’une, appelée version A et les autres sur l’autre, appelée version B ;</li>
@@ -40,7 +40,7 @@ Pour améliorer son processus de décision, il se renseigne et découvre une tec
 	<li>enfin, ce sera l’analyse de ces chiffres qui permettra à Matthieu de faire ressortir une <em>vérité statistique</em> concernant ces versions, déterminant ainsi la plus performante au regard des critères qu'il aura défini.</li>
 </ol>
 
-Confiant, Matthieu s’enquiert de quelques exemples pour convaincre sa Direction. Il découvre par exemple <a href="//www.nytimes.com/2009/03/01/business/01marissa.html">l'histoire incroyable mais vraie</a> de Marissa Mayer (alors salariée de Google) qui demanda à ses équipes de déployer sur un site 41 variations de bleu pour déterminer la plus performante auprès des utilisateurs.
+Confiant, Matthieu s’enquiert de quelques exemples pour convaincre sa Direction. Il découvre par exemple <a href="https://www.nytimes.com/2009/03/01/business/01marissa.html">l'histoire incroyable mais vraie</a> de Marissa Mayer (alors salariée de Google) qui demanda à ses équipes de déployer sur un site 41 variations de bleu pour déterminer la plus performante auprès des utilisateurs.
 
 Si Google le fait, Matthieu devrait pouvoir le faire aussi. Et ça a même l’air facile.
 

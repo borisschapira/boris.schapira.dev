@@ -136,7 +136,6 @@ Essayez d'écrire du code pour ce "vous" du passé. Ça servira à quelqu'un dan
 Notre secteur est particulièrmeent dynamique. L'innovation est partout et nous l'expérimentons chaque jour. Il est même possible d'en faire des jeux à boire.
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Drinking game for npm users:<br>➀ Think of a noun<br>➁ npm install &lt;noun&gt;<br>➂ If it installs - drink!</p>&mdash; Sindre Sorhus (@sindresorhus) <a href="https://twitter.com/sindresorhus/status/515511151669805056">26 septembre 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Résultat : beaucoup d'entre nous se lancent sur de nouvelles technos pour s'amuser, et c'est une très bonne chose. Cela ne veut pas dire qu'il faut absolument la mettre dans vos projets en Production ! L'utilisation d'une techno ou d'un paradigme doit faire le choix d'une vraie réflexion, pas être un caprice. Nous avons tous des dizaines de <em lang="en">side-project</em> pour tester, prototyper, confronter ces technos (et notre connaissance) à des cas d'usages du réel.
 

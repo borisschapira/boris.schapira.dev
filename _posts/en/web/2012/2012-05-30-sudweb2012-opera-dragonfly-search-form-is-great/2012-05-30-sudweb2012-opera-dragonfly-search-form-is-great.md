@@ -19,4 +19,4 @@ Wanna see more&nbsp;? Read this article written by Karl&nbsp;: Search DOM Nodes
 
 And here is a short video of what this workshop looked like&nbsp;:
 
-<iframe src="//player.vimeo.com/video/42885321" frameborder="0" width="500" height="281"></iframe>
+<iframe src="https://player.vimeo.com/video/42885321" frameborder="0" width="500" height="281"></iframe>
