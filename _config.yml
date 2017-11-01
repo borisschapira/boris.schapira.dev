@@ -158,14 +158,12 @@ jekyll-archives:
 reading_speed: 200
 
 assets:
-  prefix: "/assets"
   sources:
     - _assets/scripts
     - _assets/styles
   js_compressor:  "uglifier"
   css_compressor: "scss"
-# features:
-#   integrity: true
+  integrity: true
 
 responsive_image:
   template: _includes/responsive-image.html.liquid
