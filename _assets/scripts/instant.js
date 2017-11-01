@@ -93,27 +93,23 @@ InstantClick.on('change', function onChange(isInitialChange) {
     /***********************************************
      ***********************************************/
 
-    /* Piwik */
-    var _paq = _paq || [];
-    // tracker methods like "setCustomDimension" should be called before "trackPageView"
-    _paq.push(['trackPageView']);
-    _paq.push(['enableLinkTracking']);
-    (function() {
-        var u = "//filature.borisschapira.com/";
-        _paq.push(['setTrackerUrl', u + 'p']);
-        _paq.push(['setSiteId', '1']);
-        var d = document,
-            g = d.createElement('script'),
-            s = d.getElementsByTagName('script')[0];
-        g.type = 'text/javascript';
-        g.async = true;
-        g.defer = true;
-        g.src = u + 'suivre';
-        s.parentNode.insertBefore(g, s);
-    })();
-    /* End Piwik */
+    var rc = document.querySelector('.g-recaptcha');
+    if (window.grecaptcha) {
+        window.grecaptcha.render(rc);
+    } else {
+        window.captchaCallback = function() {
+            window.grecaptcha.render(rc);
+        }
+    }
+
+    window._paq = window._paq || [];
+    window._paq.push(['setDocumentTitle', document.title ]);
+    window._paq.push(['setCustomUrl', document.location.href]);
+    window._paq.push(['trackPageView']);
+    
 });
 
 document.addEventListener("DOMContentLoaded", function(event) {
     InstantClick.init();
 });
+

@@ -25,29 +25,23 @@
   </script>
   <script crossorigin="anonymous" integrity="sha256-jIAAmB65ff5CEFvV6DRfRWjHFwqq+AHeV4le8f8PYp4=" src="https://cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" defer ></script>
 {% endif %}
-<input type="hidden" id="data-analytics" value="{&quot;environment&quot;:&quot;{{ jekyll.environment }}&quot;,&quot;categories&quot;:[&quot;{{ page.category }}&quot;],&quot;tags&quot;:[&quot;{{ page.tags | join:"&quot;,&quot;" }}&quot;]}"/>
-{% javascript instant data-no-instant %}
+{% javascript analytics data-no-instant defer async %}
 {% if the-locale == 'fr_FR' %}
-  {% javascript main-fr defer:"defer"%}
+  {% javascript main-fr defer:"true"%}
 {% else %}
-  {% javascript main-en defer:"defer"%}
+  {% javascript main-en defer:"true"%}
 {% endif %}
 {% if page.type == 'post' %}
-  {% javascript comments %}
-  <script src='https://www.google.com/recaptcha/api.js' async defer></script>
+  {% javascript comments defer %}
+  <script src='https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit' defer data-no-instant></script>
 {% endif %}
+{% javascript instant data-no-instant %}
 {% if page.loadTwitterWjs %}
-  {% javascript twitter-wjs %}
+  {% javascript twitter-wjs defer:"true" async:"true"%}
 {% endif %}
 {% if include.loadSearch %}
-  {% javascript search defer:"defer"%}
+  {% javascript search defer:"true"%}
 {% endif %}
 {% if page.permalink == '404.html' %}
-  {% javascript 404 defer:"defer"%}
-{% endif %}
-
-{% if page.maths %}
-<script type="text/javascript"
-    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
+  {% javascript 404 defer:"true"%}
 {% endif %}
