@@ -15,5 +15,5 @@ En me renseignant ce soir sur l'actualité du week-end, je suis tombé sur une v
 <!-- more -->
 
 <div class="videoWrapper">
-  <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x6wbdi" allowfullscreen></iframe><br /><a href="http://www.dailymotion.com/video/x6wbdi_segolene-royal-au-zenith-encore-deb_news" target="_blank">S&eacute;gol&egrave;ne Royal au Z&eacute;nith, encore debout, elle...</a> <em>par <a href="http://www.dailymotion.com/RichardTrois" target="_blank">RichardTrois</a></em>
+  <iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x6wbdi" allowfullscreen></iframe><br /><a href="http://www.dailymotion.com/video/x6wbdi_segolene-royal-au-zenith-encore-deb_news" target="_blank">S&eacute;gol&egrave;ne Royal au Z&eacute;nith, encore debout, elle...</a> <em>par <a href="http://www.dailymotion.com/RichardTrois" target="_blank">RichardTrois</a></em>
 </div>

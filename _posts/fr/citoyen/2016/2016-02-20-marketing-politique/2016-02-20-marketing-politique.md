@@ -4,6 +4,7 @@ tags:
     - Égalité
 series: Diviser
 loadTwitterWjs: true
+loadTwitter: true
 date: '2016-02-20'
 lang: fr
 type: post
@@ -25,7 +26,6 @@ locale: fr_FR
 Les hommes politiques nous divisent de la même manière que le marketing [manipule des catalogues de jouets](/2016/02/division-sur-catalogue/ "Division sur catalogue").
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">- QUI SOMMES-NOUS?<br>- DES MINISTRES !<br>- QUE VOULONS-NOUS ?<br>- INVERSER LA COURBE DU CHÔMAGE !<br>- QUAND ?<br>- QUAND L&#39;OPPOSITION SERA AU POUVOIR !</p>&mdash; PacoDelo (@Francisdelo) <a href="https://twitter.com/Francisdelo/status/700281351975649280">18 Février 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 En nous forçant à choisir entre deux bords qui ne sont que de constructions théoriques regroupant des réalités complexes et variables dans le temps ; en nous exposant continuellement leurs conflits internes et leurs petites phrases ; en nous montant les uns contre les autres… nos hommes politiques s'assurent que nous ne remettions pas en cause le système.
 

@@ -11,6 +11,7 @@ categories:
     - citoyen
 publishDate: '2015-01-12'
 locale: fr_FR
+loadTwitterWjs: true
 ---
 
 Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers jours.
@@ -65,7 +66,6 @@ Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers jou
 ***
 
 <blockquote class="twitter-tweet" lang="fr"><p lang="fr" dir="ltr">Un réseau terroriste forgé presque intégralement en prison. Vous ne voulez toujours pas d&#39;une réforme du système carcéral?</p>&mdash; Robin Berjon (@robinberjon) <a href="https://twitter.com/robinberjon/status/553840819728560128">10 Janvier 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ***
 

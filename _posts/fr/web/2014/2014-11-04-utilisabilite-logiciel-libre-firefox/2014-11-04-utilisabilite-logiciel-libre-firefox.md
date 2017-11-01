@@ -10,6 +10,7 @@ categories:
     - web
 publishDate: '2014-11-04'
 locale: fr_FR
+loadTwitterWjs: true
 ---
 
 ## L'UX, souvent un tabou dans les communautés du logiciel libre
@@ -25,7 +26,6 @@ Retrouver le même fonctionnement sur Firefox est loin d'être évident. Il exis
 Ensuite, si on lance une deuxième instance de Firefox, celle-ci démarre automatiquement sur le profil déjà utilisé plutôt que de proposer le gestionnaire. Je n'ai pas hésité à faire part de ma déception sur Twitter.
 
 <blockquote class="twitter-tweet" lang="fr"><p lang="fr" dir="ltr">Ah par contre visiblement le gestionnaire de profil de <a href="https://twitter.com/hashtag/Firefox?src=hash">#Firefox</a> n&#39;autorise pas plusieurs profils simultanés. <a href="https://twitter.com/hashtag/Arg?src=hash">#Arg</a></p>&mdash; Boris (@borisschapira) <a href="https://twitter.com/borisschapira/status/516871050404298752">30 Septembre 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 J'avais bien évidemment tort&nbsp;: Firefox n'a aucun problème à gérer plusieurs profils simultanés, il faut juste le lui dire en ligne de commande (encore) ou en créant des raccourcis contenant les bons arguments (ce qui revient au même).
 
@@ -46,6 +46,5 @@ L'utilisabilité est un véritable défi que la communauté Mozilla relève à b
 Alors j'ai posé directement la question à l'équipe UX de Firefox&nbsp;:
 
 <blockquote class="twitter-tweet" lang="fr"><p lang="en" dir="ltr"><a href="https://twitter.com/MozillaUX">@MozillaUX</a> Hi ! I was wondering, is there something planned to improve the Profile Manager in FF ? (1/2)</p>&mdash; Boris (@borisschapira) <a href="https://twitter.com/borisschapira/status/516956859434274816">30 Septembre 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 J'espère une réponse. Au pire, si elle ne vient pas, ce ne sera pas très grave&nbsp;: Firefox a d'autres besoins plus urgents que celui de remettre une couche d'UX sur son gestionnaire de profils. Je suis parfaitement conscient que **mon** besoin n'est pas celui du plus grand nombre et le mieux que je puisse souhaiter à Firefox c'est de continuer à les convaincre, eux. Moi, je sais déjà que Firefox est formidable, malgré cela.

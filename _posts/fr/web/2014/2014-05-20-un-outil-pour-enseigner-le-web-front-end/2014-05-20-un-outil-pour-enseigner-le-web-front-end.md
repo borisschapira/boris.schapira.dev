@@ -14,6 +14,7 @@ categories:
     - web
 publishDate: '2014-05-20'
 locale: fr_FR
+loadTwitterWjs: true
 ---
 
 ## suite d'un atelier Sud Web 2014
@@ -49,4 +50,3 @@ Je vais me rapprocher de WebMaker.org. Quand je vois [ce genre de chose](https:/
 Ci-dessous mon petit croquis pendant l'atelier SudWeb&nbsp;:
 
 <blockquote class="twitter-tweet" lang="fr"><p lang="fr" dir="ltr">Enseigner l&#39;intégration ? <a href="https://twitter.com/hashtag/SudWeb?src=hash">#SudWeb</a> <a href="http://t.co/yhe6nAMxRN">pic.twitter.com/yhe6nAMxRN</a></p>&mdash; Boris (@borisschapira) <a href="https://twitter.com/borisschapira/status/467696288885379072">17 Mai 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -19,7 +19,7 @@ Comprendre le présent n'est jamais chose facile et nous n'avons souvent qu'une 
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [HTTP Archive : comprendre le présent en observant le passé](http://blog.clever-age.com/fr/2015/09/04/http-archive-comprendre-le-present-en-observant-le-passe/).</em>
 
-C'est, de manière simplifiée, le rôle de <a title="HTTP Archive" href="//httparchive.org/">HTTP Archive</a> qui stocke de façon permanente des fiches d'informations contenant des indicateurs tels que la taille des pages, les demandes qui ont échoué, les technologies utilisées, les scores face à des référentiels de bonnes pratiques comme PageSpeed… <em>etc</em>.
+C'est, de manière simplifiée, le rôle de <a title="HTTP Archive" href="https://httparchive.org/">HTTP Archive</a> qui stocke de façon permanente des fiches d'informations contenant des indicateurs tels que la taille des pages, les demandes qui ont échoué, les technologies utilisées, les scores face à des référentiels de bonnes pratiques comme PageSpeed… <em>etc</em>.
 
 Je recommande à quiconque d'ajouter son site à l'index de HTTP Archive. À court terme, le gain est faible à nul&nbsp;: les analyses sont réalisées à une fréquence très basse (tous les 15 jours), et dans des contextes très différents de ceux des utilisateurs des sites. HTTP Archive ne remplacera en aucun cas un audit détaillé ou une véritable solution de suivi des performances Web.
 
@@ -27,6 +27,6 @@ En revanche, lorsqu'on cherche à comprendre certaines évolutions longues (de l
 
 Inscrivez votre site maintenant pour que cela puisse servir plus tard.
 <ul>
-	<li><a href="//httparchive.org/websites.php">Recherchez votre site dans la base</a></li>
-	<li><a href="//httparchive.org/addsite.php">Ajouter un nouveau site à l'index</a></li>
+	<li><a href="https://httparchive.org/websites.php">Recherchez votre site dans la base</a></li>
+	<li><a href="https://httparchive.org/addsite.php">Ajouter un nouveau site à l'index</a></li>
 </ul>
