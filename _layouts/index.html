@@ -12,13 +12,14 @@ layout: default
 {% else %}
     {% assign the_url = site.url %}
 {% endif %}<section class="posts" aria-label="{% t Tous les articles %}" >
-    {% unless page.hideCustomHead or page.title == '' and page.description == '' %}
+    {% if page.displayCustomHead or page.displayCustomTitle %}
         <header class="posts-h{% unless have_cat %} hide {% endunless %}">
-            <p>
+            {% if page.displayCustomTitle %}<h2>{{ page.title }}</h2>{% endif %}
+            {% if page.displayCustomHead %}<p>
                 {{ page.description | default: site.description }}
-            </p>
+            </p>{% endif %}
         </header>
-    {% endunless %}
+    {% endif %}
 
     {% if paginator %}
         {% for post in paginator.posts %}

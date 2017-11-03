@@ -38,7 +38,7 @@
     {% unless page.comments_locked == true %}
       <!-- Start new comment form -->
       <div id="respond">
-        <h2 class="page__section-label">{% t Laisser un commentaire %} <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" class="npe" style="display:none;">{% t Annuler %}</a></small></h2>
+        <h3 class="page__section-label">{% t Laisser un commentaire %} <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" class="npe" style="display:none;">{% t Annuler %}</a></small></h3>
         <form id="comment-form" class="page__form js-form form" method="post" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
           <fieldset>
             <label for="comment-form-message"><strong>{% t Commentaire %}</strong> <small></small></label>

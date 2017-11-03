@@ -1,7 +1,8 @@
 ---
 layout: index
 title: Accueil
-hideCustomHead: false
+displayCustomHead: true
+displayCustomTitle: false
 i18n-key: home
 category: ''
 pagination: 
