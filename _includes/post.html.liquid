@@ -13,9 +13,9 @@
     </header>
 
   {% capture hn %}h2{% endcapture %}
-  {% unless page.hideCustomHead %}
+  {% if page.displayCustomTitle %}
     {% capture hn %}h3{% endcapture %}
-  {% endunless %}
+  {% endif %}
 
   <{{hn}} class="post-title p-name"{% unless include.postPage %} id="{{ post.slug }}"{% endunless %}>
     {% if include.postPage %}
