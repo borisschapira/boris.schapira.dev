@@ -23,25 +23,25 @@
   <script id="algolia__template--no-results" type="text/template">
     {% include 404.html.liquid issearch=true%}
   </script>
-  <script crossorigin="anonymous" integrity="sha256-jIAAmB65ff5CEFvV6DRfRWjHFwqq+AHeV4le8f8PYp4=" src="https://cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" defer ></script>
+  <script crossorigin="anonymous" integrity="sha256-jIAAmB65ff5CEFvV6DRfRWjHFwqq+AHeV4le8f8PYp4=" src="https://cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" ></script>
 {% endif %}
 {% javascript analytics data-no-instant defer async %}
 {% if the-locale == 'fr_FR' %}
-  {% javascript main-fr defer:"true"%}
+  {% javascript main-fr %}
 {% else %}
-  {% javascript main-en defer:"true"%}
+  {% javascript main-en %}
 {% endif %}
 {% if page.type == 'post' %}
-  {% javascript comments defer %}
-  <script src='https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit' defer data-no-instant></script>
+  {% javascript comments %}
+  <script src='https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit' data-no-instant></script>
 {% endif %}
 {% javascript instant data-no-instant %}
 {% if page.loadTwitterWjs %}
-  {% javascript twitter-wjs defer:"true" async:"true"%}
+  {% javascript twitter-wjs async:"true"%}
 {% endif %}
 {% if include.loadSearch %}
-  {% javascript search defer:"true"%}
+  {% javascript search %}
 {% endif %}
 {% if page.permalink == '404.html' %}
-  {% javascript 404 defer:"true"%}
+  {% javascript 404 %}
 {% endif %}
