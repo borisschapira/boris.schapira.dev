@@ -4,26 +4,10 @@ layout: default
 
 {% include post.html.liquid postPage=true showtags=false %}
 
-<div class="page-navigation">
-    {% if page.category %}
-        {% assign previous = page.previous_in_category %}
-        {% assign next = page.next_in_category %}
-    {% else %}
-        {% assign previous = page.previous %}
-        {% assign next = page.next %}
-    {% endif %}
-
-    {% if previous.url %}
-        <a class="prev" rel="nofollow" href="{{previous.url}}" title="{{previous.title}}">&laquo; {{previous.title}}</a>
-    {% endif %}
-    {% if next.url %}
-        <a class="next" rel="nofollow" href="{{next.url}}" title="{{next.title}}">{{next.title}} &raquo;</a>
-    {% endif %}
-</div>
-
 {% include post_footer.html.liquid content=post.content %}
 
-{% include post_related.html.liquid posts=site.related_posts %}
+{% assign related_locale = site.related_posts | where:"locale", page.locale %}
+{% include post_related.html.liquid posts=related_locale %}
 
 {% if page.comments == true %}
   {% include comments.html.liquid %}
