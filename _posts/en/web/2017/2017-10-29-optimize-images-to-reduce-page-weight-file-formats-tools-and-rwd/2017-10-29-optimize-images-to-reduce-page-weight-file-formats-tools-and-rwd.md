@@ -15,8 +15,7 @@ publishDate: '2017-10-29'
 locale: en_US
 ---
 
-_"Reduce the page weight": here is one of the most usual tips in Dareboost reports._  
-_According to HTTP Archive trends, images represent 53% of the average pages weight, whether viewed on desktop or mobile devices. When you want to reduce the weight of your web pages, optimizing images should be at the top of your priorities._
+_"Reduce the page weight": here is one of the most usual tips in Dareboost reports. According to HTTP Archive trends, images represent 53% of the average pages weight, whether viewed on desktop or mobile devices. When you want to reduce the weight of your web pages, optimizing images should be at the top of your priorities._
 
 <figure>
     <picture>
@@ -27,8 +26,7 @@ _According to HTTP Archive trends, images represent 53% of the average pages wei
 
 <!--more-->
 
- 
-## For each image its format 
+## For each image its format
 
 It is not always easy to find the most suitable image format. Take our logo, for example. We could save it in PNG, JPEG, WebP or SVG.
 The weight of the images would be very different. An empirical test allows us to visualize it:
@@ -65,24 +63,24 @@ When you want to save a JPEG, most of softwares ask what quality to retain, as i
 </figure>
 
 As shown above, choosing a format is not trivial and not all formats are suitable for all images. Let’s explain a little more…
- 
-## How to choose the right image format? 
+
+## How to choose the right image format?
 
 In the end, all the images appear on the screen in the same way: a rectangle composed of several dots of different color. But images are not necessarily recorded like that on the disk. And each image file format relies on different techniques for encoding visual information. In order to choose the right file format, you need to ask yourself several questions:
- 
-### What does my image represent? 
+
+### What does my image represent?
 
 Some file formats encode images in the same way as they appear on the screen: like coloured dot matrices. Each color point is encoded on several bytes and positioned within a map according to its coordinates. That's why these formats are sometimes called "bitmap". Various compression algorithms then reduce the space taken by this information on the disk. For these formats, we speak about "<strong>raster graphics</strong>". Their advantage: they can handle any photograph and some of them, as the PNG format, come with advanced features like color palette optimization or transparency.
 
 Unfortunately, this encoding process must define the dimensions of the matrix first, that is to say the resolution of the image, before positioning the points. As a consequence, if you enlarge an existing <strong>JPG</strong>, <strong>PNG</strong> or <strong>WebP</strong> raster graphic, you will dramatically decrease the quality.
 
 Other file formats do not have this drawback because they encode images as a set of geometric shapes. They define an image through the lines, points and polygons that compose it. Whenever the image is to be displayed, the computer redraws it following this virtual drawing specification. These <strong>vector graphics</strong> are very suitable for rendering simple shapes, logotypes and data graphs. Since they are not resolution-dependant, they are particularly adapted for Responsive Web Design. <strong>SVG</strong> images and icon fonts are vector formats. On the other side of the coin: vector graphics are not very suitable for photographs.
- 
-### Reduce the weight of images by sacrificing information 
+
+### Reduce the weight of images by sacrificing information
 
 It is possible to optimize further by losing some information in the process. Of course, the challenge is to lose only the bare necessities, while maintaining an interesting level of quality. This is called the lossy optimization phase.
 
-For <strong>vector graphics</strong>, <a href="https://github.com/svg/svgo">svgo</a> is today a reference tool. An online interface even exists: <a href="https://jakearchibald.github.io/svgomg/">svgomg</a>. The tool is able to reduce the amount of code by cleaning metadata that is useless for display (for example, information about the tool that was used to generate the file) but also by bringing together several geometric shapes or transformations. To reduce the weight of an icon font, the logic is the same, except that you can also reduce its scope of action by selecting only the characters used to build your custom character set. Several sites, like <a href="Icomoon">Icomoon</a>, allow you to create your own icon font.
+For <strong>vector graphics</strong>, <a href="https://github.com/svg/svgo">svgo</a> is today a reference tool. An online interface even exists: <a href="https://jakearchibald.github.io/svgomg/">svgomg</a>. The tool is able to reduce the amount of code by cleaning metadata that is useless for display (for example, information about the tool that was used to generate the file) but also by bringing together several geometric shapes or transformations. To reduce the weight of an icon font, the logic is the same, except that you can also reduce its scope of action by selecting only the characters used to build your custom character set. Several sites, like <a href="https://icomoon.io/">Icomoon</a>, allow you to create your own icon font.
 
 As we saw in the example of the rocket ship, lossy (or not-lossy) optimizations are also possible on the <strong>raster graphics</strong>. Since each image format has its own characteristics (for example, the transparency of PNG support), each algorithm has a different mode of action and a specific visual impact.
 
@@ -92,8 +90,8 @@ Here are some file formats and some suitable optimization tools. Some of them ar
 * JPG: JPEGOptim, MozJPEG, Jpegtran, Guetzli
 
 <a href="http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer">FileOptimizer</a> (Windows), <a href="https://imageoptim.com/mac">ImageOptim</a> (Mac) ou <a href="https://trimage.org/">Trimage</a> (Linux) are softwares that combine several algorithms in one place. They allow you to test these optimizations with various levels of loss and directly export an optimized image. They are even able to determine whenever a PNG image can be saved in PNG-8 (a variant of PNG with a 256-color palette) rather than PNG-24 to gain some precious bytes.
- 
-### Why don’t you talk about GIF? 
+
+### Why don’t you talk about GIF?
 
 GIF is a very constrained format (it can only describe 256 colors) that supports transparency and animation. Used for years to encode logotypes, pictograms and small animations, GIF needs to – let's say it out loud – retire for good.
 
@@ -107,8 +105,8 @@ many of these services use video formats, with much lighter files! We will come 
 %}
 
 If you still need the GIF format, be aware that a compression algorithm also exists: gifsicle. It can be very useful for manipulating GIF content: reduce the color palette, resize, cut and crop... I sometimes use Gifsicle to encode short recordings of my screen and integrate them into emails, because many mail clients are not able to read embedded videos.
- 
-## Serve the right file size regarding to the context 
+
+## Serve the right file size regarding to the context
 
 Choosing the right file format is not enough to ensure that you will serve the optimum image each time.
 
@@ -131,16 +129,16 @@ If you want to offer, in addition to your optimized image, formats supported by 
 With all possible media, art direction alternatives, resolutions, pixel densities, and supported formats, the HTML markup of responsive images can become very impressive. But do not forget that your HTTP responses must always be gzipped. Finally, the difference of 500B between this markup and a single element <code>img</code> will be largely offset by the reduction of the weight of the delivered image.
 
 Note that even if the support for the necessary HTML elements is fairly recent, a reliable and recognized library allows support on older browsers: <a href="https://scottjehl.github.io/picturefill/">picturefill</a>.
- 
-### Automate, automate, automate 
+
+### Automate, automate, automate
 
 Choosing the right image format, generating thumbnails, sometimes using alternative formats that are more adapted to the context (like WebP) and thus generating yet again some thumbnails... Manually perform this work on a large amount of high-quality master images is titanic. Very few tools, whether they are WCM or e-commerce platforms, include advanced features on image management. Even Digital Asset Management solutions, which are normally dedicated to visual asset management and where Responsive Images management should be a prerogative, are often useless.
 
 Nevertheless, some solutions exist, like <a href="https://cloudinary.com/">Cloudinary</a> – a third party service available in SaaS – or <a href="http://thumbor.org/">Thumbor</a> (an appliance that you need to install on your network). Discuss with your web development team to determine the best tool and remember to explain the issues to the contributors and train them to the chosen solution. Do not forget to always keep the original images (those of the best available quality) and to think up ahead about the optimizations, even lossy, that you want to apply.
 
 For example, on an e-commerce website, photos of products are more critical than decorative images, so you will not want to lose too much quality. Similarly, if you are in the luxury market, your visitors expect an impeccable image quality. You will need to fine-tune the configuration of your optimizations. Sometimes, <a href="http://code.flickr.net/2015/09/25/perceptual-image-compression-at-flickr/">as was the case with Flickr</a>, the right setting may take several months to emerge.
- 
-## Lazy-load what you can (with or without visual effect) 
+
+## Lazy-load what you can (with or without visual effect)
 
 Another way to improve the performance of a web page is to avoid unnecessary images during initial loading. For example, you can delay the loading of all images that are not displayed in the visible area of the webpage (Lazy loading). There are many JS libraries to do this but some of them will not be compatible with your existing code: ask your development team for advice or suggest an independent, vanilla library like <a href="https://apoorv.pro/lozad.js/">Lozad</a>. A lazy loading feature is also available on Apache and nginx: <a href="https://www.modpagespeed.com/doc/filter-lazyload-images">ModPageSpeed Lazyload</a>.
 
@@ -149,18 +147,18 @@ One of the problems with Lazy Loading is the sudden display of the image, only a
 {% include video_as_a_gif.html.liquid
     controls=true
     url="/assets/images/2017-10-29/placeholders"
-    alt="Chargement progressif d'images : pendant que les images se charge, une silhouette floue occupe l'espace."
+    alt="Progressive image loading: while images are loading, a fuzzy silhouette occupies the space."
 %}
- 
-## Reduce the number of images with an image stack 
+
+## Reduce the number of images with an image stack
 
 On high-latency networks, you can quickly save time by reducing the number of images to download. Rather than including each image in a separate image file, the images can be grouped into a single file. Image Sprites are an example of this technique applied to raster images. Icon fonts and SVG symbols are the equivalent implementation for vector images.
 
 How attractive could seem this idea, its implementation can be complex though. Using an image sprite is a useful technique if you really use all the grouped images on the webpage loading the resource, which is quite rare. In addition, if you need to replace a single element in the stack, note that you will need to invalidate the entire sprite from the browser cache.
 
 Finally: latency may not be an everlasting problem. With <a title="On the way to HTTP/2: what to expect for front-end development? | Dareboost Blog" href="https://blog.dareboost.com/en/2016/11/http2-changes-for-front-end-development/">HTTP/2</a>, a protocol in which connections are optimized to download multiple resources simultaneously, the technique would lose its meaning. <a href="https://blog.octo.com/en/http2-arrives-but-sprite-sets-aint-no-dead/">Theoretically speaking</a>.
- 
-## The end? 
+
+## The end?
 
 Heck, no! The state of the art of (responsive) image management is still far from perfect.
 
