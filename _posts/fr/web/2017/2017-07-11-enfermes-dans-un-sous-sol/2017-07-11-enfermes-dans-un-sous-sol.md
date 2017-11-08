@@ -46,7 +46,7 @@ Sur la feuille sont reprises toutes les principales dates du projet. En face de 
 
 Je suis abassourdi. 
 
-D'une part, la plupart des éléments listés n'étaient pas de notre responsabilité. D'autre part, nos retards allaient de paire avec d'autres, en dehors de notre champs d'action. Même si nous avions livré notre code plus tôt, le client n'aurait toujours pas souscrit son <abbr title="Terminal de Paiement Électronique">TPE</abbr> et nous n'aurions pas mis en Production. Mon commercial, rouge de colère, se tient à deux mains au dos de sa chaise, crispé, dents serrées. La situation est inédite et incroyable. 
+D'une part, la plupart des éléments listés n'étaient pas de notre responsabilité. D'autre part, nos retards allaient de pair avec d'autres, en dehors de notre champs d'action. Même si nous avions livré notre code plus tôt, le client n'aurait toujours pas souscrit son <abbr title="Terminal de Paiement Électronique">TPE</abbr> et nous n'aurions pas mis en Production. Mon commercial, rouge de colère, se tient à deux mains au dos de sa chaise, crispé, dents serrées. La situation est inédite et incroyable. 
 
 Un autre homme embraie :
 
