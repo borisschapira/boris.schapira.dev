@@ -55,6 +55,8 @@ defaults:
 # Exclusions
 exclude:
   - ".cache"
+  - "node_modules"
+  - "package.json"
   - "scripts"
   - "tasks"
   - "autoprefixer.yml"
@@ -65,6 +67,8 @@ exclude:
   - "Rakefile"
   - "tmp"
   - "vendor"
+  - "sonar-project.properties"
+  - "staticman.yml"
   - _posts/**/*.jpg
   - _posts/**/*.png
   - _posts/**/*.gif
