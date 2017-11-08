@@ -1,6 +1,6 @@
 {% capture the-guid %}{% guid %}{% endcapture %}
 <figure>
-  <div class="videoWrapper gif"><video playsinline preload="metadata" loop="loop" poster="{% unless include.url %}{{ page.url }}{{ include.slug }}{% else %}{{ include.url }}{% endunless %}.jpg"{% if include.alt %} aria-describedBy="{{ the-guid }}"{% endif %}>
+  <div class="videoWrapper{% unless include.controls %} gif{% endunless %}" ><video playsinline{% if include.controls %} controls{% endif %} preload="metadata"{% unless include.controls %} loop="loop"{% endunless %} poster="{% unless include.url %}{{ page.url }}{{ include.slug }}{% else %}{{ include.url }}{% endunless %}.jpg"{% if include.alt %} aria-describedBy="{{ the-guid }}"{% endif %}>
   <source src="{% unless include.url %}{{ page.url }}{{ include.slug }}{% else %}{{ include.url }}{% endunless %}.mp4" type="video/mp4" /> 
   <source src="{% unless include.url %}{{ page.url }}{{ include.slug }}{% else %}{{ include.url }}{% endunless %}.webm" type="video/webm" />
   <source src="{% unless include.url %}{{ page.url }}{{ include.slug }}{% else %}{{ include.url }}{% endunless %}.ogv" type="video/ogg" />

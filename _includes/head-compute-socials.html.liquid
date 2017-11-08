@@ -43,13 +43,10 @@
     {% else %}
       {% capture socialTitle %}{{ page.title | strip_html }} &middot; {{ site.title }}{% endcapture %}
       {% if page.description %}
-      TOTO
         {% capture socialDescription %}{{ page.description % }}{% endcapture %}
       {% elsif page.content contains "<!-- more -->" %}
-      TITI
         {% capture socialDescription %}{{ page.content | split:"<!-- more -->" | first | markdownify % }}{% endcapture %}
       {% elsif page.content.size > 50 %}
-      TUTU
         {% if page.content contains "<figure>" %}
           {% capture socialDescription %}{{ page.content | split:"<figure>" | first | markdownify % }}{% endcapture %}
         {% else %}

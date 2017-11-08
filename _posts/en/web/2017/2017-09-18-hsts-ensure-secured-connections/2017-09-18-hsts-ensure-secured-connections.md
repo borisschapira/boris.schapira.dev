@@ -19,7 +19,10 @@ _Our regular readers [of the Dareboost blog] already know that **[HTTPS is now a
 _But offering an HTTPS version of your website is not enough to automatically redirect all your HTTP traffic to this secured version._
 
 <figure>
-    {% responsive_image path: assets/images/2017-09-18/1.jpg alt: "Along a railway switch, a two-color light indicates if a train can pass." %}
+    <picture>
+        {% responsive_image path: assets/images/2017-09-18/1.webp source:true type:"image/webp" %}
+        {% responsive_image path: assets/images/2017-09-18/1.jpg alt: "Along a railway switch, a two-color light indicates if a train can pass." %}
+    </picture>
 </figure>
 
 <!-- more -->
@@ -83,7 +86,10 @@ In order to be accepted to the HSTS preload list, a website has to meet the foll
 If your website is eligible, you can submit its domain for inclusion [over this form](https://hstspreload.org/ "HSTS Preload List Submission").
 
 <figure>
-    {% responsive_image path: assets/images/2017-09-18/2.png alt: "A screencapture of Chrome DevTools" %}
+    <picture>
+        {% responsive_image path: assets/images/2017-09-18/1.webp source:true type:"image/webp" %}
+        {% responsive_image path: assets/images/2017-09-18/2.png alt: "A screencapture of Chrome DevTools" %}
+    </picture>
     <figcaption>Internal HTTPS redirection of a request to Facebook made over HTTP, Chrome 60</figcaption>
 </figure>
 
