@@ -159,7 +159,7 @@ jekyll-archives:
     month: "/:year/:month/"
 
 # The average reading speed, in number of words by minute
-reading_speed: 200
+reading_speed: 400
 
 assets:
   sources:
