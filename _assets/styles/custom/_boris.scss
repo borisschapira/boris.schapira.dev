@@ -10,6 +10,12 @@ html {
   line-height: 1.7;
 }
 
+@media (min-width: 70em) {
+  html {
+    font-size: 20px;
+  }
+}
+
 /* Lisibility */
 .hide {
     display:none;
@@ -226,13 +232,18 @@ html .content .post .p-header .p-author {
       > video {
         object-fit: contain;
         width: 100%;
+        border: 1px solid $color-main;
       }
 
-      &:hover::before,
-      &:focus::before {
+      &.gif > video {
+        border: none;
+      }
+
+      &.gif:hover::before,
+      &.gif:focus::before {
         opacity: 0;
       }
-      &::before {
+      &.gif::before {
         content: "";
         position: absolute;
         top: 0;
