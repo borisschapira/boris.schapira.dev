@@ -68,16 +68,16 @@ Comme les exemples ci-dessus le montrent, choisir un format n’est pas anodin e
 ## Comment choisir le bon format d’image ?
 
 Certes, au final, toutes les images s'affichent à l’écran de la même manière : un rectangle composé de plusieurs points de différentes couleur. Mais ce n’est pas forcément comme ça qu’elle sont enregistrées dans la machine. Et chaque format de fichiers image s’appuie sur différentes techniques d’encodage des informations visuelles.
- 
-### Que représente mon image ? 
+
+### Que représente mon image ?
 
 Certains formats de fichiers encodent les images de la même manière qu’elle s’affiche à l’écran : comme des matrices de points de couleur. Chaque point de couleur est codé sur plusieurs octets (bits) et positionné au sein d’une carte (map) en fonction de ses coordonnées. C’est pour cela que ces formats sont parfois appelés « bitmap ». Divers algorithmes de compression viennent ensuite réduire l’espace pris par ces informations sur le disque. On parle, pour ces formats, d’images « <strong>matricielles</strong> ». Leur avantage : ils peuvent encoder n'importe quelle photographie et certains d'entre eux, comme le format PNG, ont des fonctionnalités avancées comme l'optimisation de la palette de couleurs ou la transparence.
 
 Malheureusement, ce processus d’encodage doit définir en premier lieu les dimensions de la matrice, c’est-à-dire la résolution de l’image, avant d’y positionner les points. Du coup, si vous agrandissez une image matricielle <strong>JPG</strong>, <strong>PNG</strong> ou <strong>WebP</strong> existante, vous perdrez grandement en qualité.
 
 D’autres formats de fichiers n'ont pas ce défaut, car ils encodent les images comme un ensemble de formes géométriques. Ils définissent une image à travers les lignes, les points et les polygones qui la compose. Chaque fois que l'image doit être affichée, l'ordinateur la redessine en suivant cette spécification de dessin virtuel. Ces <strong>images vectorielles</strong> sont très adaptées pour le rendu des formes simples, des logotypes et des graphiques de données. Comme ils ne sont pas dépendants de la résolution, ils sont particulièrement adaptés aux conceptions Web Responsive. Les images <strong>SVG</strong> et les polices d’icônes sont des formats vectoriels. Revers de la médaille : les graphiques vectoriels sont assez peu adaptés aux photographies.
- 
-### Réduire le poids des images en sacrifiant des informations 
+
+### Réduire le poids des images en sacrifiant des informations
 
 Il est possible d’aller plus loin dans l'optimisation en acceptant de perdre quelques informations en route. L’enjeu est bien sûr de perdre le strict nécessaire, tout en maintenant un niveau de qualité intéressant. C’est ce qu’on appelle la <strong>phase d’optimisation avec perte</strong>.
 
@@ -91,8 +91,8 @@ Voici quelques formats de fichiers et certains outils d'optimisation adaptés, d
 * JPG: JPEGOptim, MozJPEG, Jpegtran, Guetzli
 
 <a href="http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer">FileOptimizer</a> (Windows), <a href="https://imageoptim.com/mac">ImageOptim</a> (Mac) ou <a href="https://trimage.org/">Trimage</a> (Linux) sont des logiciels qui réunissent plusieurs algorithmes en un seul endroit. Ils vous permettront de tester ces optimisations avec différents niveaux de perte et exportent directement une image optimisée. Ils sont même capables de déterminer quand une image PNG peut être enregistrée en PNG-8 (une variante de PNG à 256 couleurs seulement) plutôt que PNG-24 pour gagner quelques précieux octets.
- 
-### Pourquoi ne parle-t-on pas de GIF ? 
+
+### Pourquoi ne parle-t-on pas de GIF ?
 
 GIF est un format très contraint (il ne peut décrire que 256 couleurs) qui supporte la transparence et l'animation. Utilisé depuis des années pour encoder des logotypes, des pictogrammes et de courtes animations, il est temps que GIF, disons-le clairement, prenne sa retraite..
 
@@ -130,8 +130,8 @@ Si vous voulez proposer, en plus de votre image optimisée, des formats support�
 Avec tous les médias possibles, les questions de direction artistique, de tailles, de densité de pixel et de support de formats, le balisage HTML des images responsives peut aboutir à un résultat assez impressionnant. Mais n'oubliez pas que vos réponses HTTP doivent être gzippées. La différence de 500 o entre ce balisage et un simple élément <code>img</code> sera au final largement compensée par le gain sur le poids de l'image servie.
 
 À noter que même si le support des éléments HTML nécessaires est assez récent, une librairie fiable et reconnue permet un support sur des navigateurs plus anciens : <a href="https://scottjehl.github.io/picturefill/">picturefill</a>.
- 
-### Automatiser, automatiser, automatiser 
+
+### Automatiser, automatiser, automatiser
 
 Choisir le bon format d’image, générer des miniatures, utiliser parfois des formats alternatifs plus adaptés suivant le contexte (comme WebP) et donc générer encore d'autres miniatures…
 
