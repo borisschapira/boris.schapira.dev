@@ -18,7 +18,10 @@ locale: fr_FR
 _"Réduisez le poids de la page" : voici l'un des conseils les plus couramment délivrés dans les rapports Dareboost. Selon les tendances mesurées par HTTP Archive, les images représentent 53 % du poids moyen des pages web, qu’elles soient consultées sur ordinateurs de bureau ou périphériques mobiles. Lorsque vous cherchez à réduire le poids de votre page Web, l’optimisation des images remonte donc logiquement dans le top de vos priorités._
 
 <figure>
-    {% responsive_image path: assets/images/2017-10-29/square.jpg alt: "Sur un carré blanc sont disposés plusieurs pixels en camaïeu de bleu, au dessus de la diagonale, de manière progressive" %}
+    <picture>
+        {% responsive_image path: assets/images/2017-10-29/square.webp source:true type:"image/webp" %}
+        {% responsive_image path: assets/images/2017-10-29/square.jpg alt: "Sur un carré blanc sont disposés plusieurs pixels en camaïeu de bleu, au dessus de la diagonale, de manière progressive" %}
+    </picture>
 </figure>
 
 <!-- more -->
@@ -30,7 +33,10 @@ _"Réduisez le poids de la page" : voici l'un des conseils les plus couramment d
 Il n’est pas toujours simple de trouver le format d’image le plus adapté. Prenons par exemple notre logo. Nous pourrions l’enregistrer en <abbr lang="en" title="Portable Network Graphics">PNG</abbr>, en <abbr lang="en" title="Joint Photographic Experts Group">JPEG</abbr>, en WebP ou en <abbr lang="en" title="Scalar Vector Graphics">SVG</abbr>. Le poids des images serait très différent. Un test empirique nous permet de le constater :
 
 <figure>
-    {% responsive_image path: assets/images/2017-10-29/logo_fr_580.png alt: "PNG 6 Ko ; JPEG 38 Ko ; WebP 9 Ko ; SVG 2,5 Ko (1,3 gzippé)" %}
+    <picture>
+        {% responsive_image path: assets/images/2017-10-29/logo_fr_580.webp source:true type:"image/webp" %}
+        {% responsive_image path: assets/images/2017-10-29/logo_fr_580.png alt: "PNG 6 Ko ; JPEG 38 Ko ; WebP 9 Ko ; SVG 2,5 Ko (1,3 gzippé)" %}
+    </picture>
 </figure>
 
 Dans ce cas précis, le format le plus adapté semble être SVG, suivi de près par PNG. Il s’agit en effet d’une image dont les couleurs sont unies, non-animée, représentant des formes géométriques. Autant de facteurs qui tendent à favoriser ces formats.
@@ -38,7 +44,10 @@ Dans ce cas précis, le format le plus adapté semble être SVG, suivi de près 
 Prenons un second exemple, avec cette fois la photographie d’une fusée qui décolle. SVG s’avère incapable de représenter cette image correctement (nous expliquerons pourquoi un peu plus loin). Voici ce que nous obtenons, à perception visuelle équivalente, pour les formats JPEG, PNG et WebP :
 
 <figure>
-    {% responsive_image path: assets/images/2017-10-29/rocket_fr_580.jpg alt: "PNG 171 Ko ; JPEG 33 Ko ; WebP : 13 Ko. Pas de différence notable." %}
+    <picture>
+        {% responsive_image path: assets/images/2017-10-29/rocket_fr_580.webp source:true type:"image/webp" %}
+        {% responsive_image path: assets/images/2017-10-29/rocket_fr_580.jpg alt: "PNG 171 Ko ; JPEG 33 Ko ; WebP : 13 Ko. Pas de différence notable." %}
+    </picture>
 </figure>
 
 Ici, les résultats sont radicalement différents. Pour représenter toute la complexité d’une photographie, le format WebP se démarque nettement. Malheureusement, il n’est supporté que sur Chrome et Opéra, nous lui préférerons donc souvent le format JPEG.
@@ -48,7 +57,10 @@ Ici, les résultats sont radicalement différents. Pour représenter toute la co
 Au moment de l’enregistrement en JPEG, la plupart des logiciels demandent quelle qualité conserver, car il s’agit d’un format d’encodage avec pertes. En choisissant une qualité inférieure à 100%, il est ainsi possible d’économiser de précieux octets en modifiant uniquement certains points de l’image. Essayons avec notre image, en qualité 80%. Le résultat est très intéressant avec un gain de poids de plus de 50%, alors que seuls quelques points de l’image ont été modifiés en profondeur.
 
 <figure>
-    {% responsive_image path: assets/images/2017-10-29/diff_fr_580.jpg alt: "JPEG d'origine : 33 Ko. JPEG optimisé : 16 Ko. Entre les deux, très peu de modifications." %}
+    <picture>
+        {% responsive_image path: assets/images/2017-10-29/diff_fr_580.webp source:true type:"image/webp" %}
+        {% responsive_image path: assets/images/2017-10-29/diff_fr_580.jpg alt: "JPEG d'origine : 33 Ko. JPEG optimisé : 16 Ko. Entre les deux, très peu de modifications." %}
+    </picture>
 </figure>
 
 Comme les exemples ci-dessus le montrent, choisir un format n’est pas anodin et tous les formats ne sont pas adaptés à toutes les images. Tout cela mérite quelques explications.
@@ -87,7 +99,8 @@ GIF est un format très contraint (il ne peut décrire que 256 couleurs) qui sup
 Vous pouvez trouver des fonctionnalités estampillées GIF dans tous les réseaux sociaux ou applications de messagerie instantanée, mais ce n’est pas vraiment la réalité. En fait, beaucoup de ces services utilisent des formats vidéos, avec des fichiers bien plus légers ! Nous reviendrons sur ce sujet dans un prochain article.
 
 {% include video_as_a_gif.html.liquid
-    slug="lenny"
+    controls=true
+    url="/assets/images/2017-10-29/lenny"
     alt="Capture des Chrome DevTools où l'on voit une vidéo être jouée comme un GIF et à côté, le code HTML de cette vidéo."
 %}
 
@@ -107,7 +120,10 @@ Pour les images non-décoratives, la spécification <strong>picture</strong> a a
 Si vous voulez proposer, en plus de votre image optimisée, des formats supportés par un nombre limité de navigateurs (comme WebP) ou si vous voulez gérer différents rapports largeur/hauteur en fonction du contexte (une question de direction artistique), vous pouvez encadrer votre image par un élément <code>picture</code> et plusieurs éléments <code>source</code> :
 
 <figure>
-    {% responsive_image path: assets/images/2017-10-29/theguardian.png alt: "Capture de code" %}
+    <picture>
+        {% responsive_image path: assets/images/2017-10-29/theguardian.webp source:true type:"image/webp" %}
+        {% responsive_image path: assets/images/2017-10-29/theguardian.png alt: "Capture de code" %}
+    </picture>
     <figcaption>Extrait de code d'image responsive du Guardian</figcaption>
 </figure>
 
@@ -136,7 +152,8 @@ Un des problèmes du Lazy Loading est que la zone dédiée à l’image reste so
 Certains sites Web occupent la zone de l’image avec un contenu standard aux couleurs de la marque. D’autres utilisent la couleur majoritaire de l'image ou même une silhouette de l'image réelle en SVG.
 
 {% include video_as_a_gif.html.liquid
-    slug="placeholders"
+    controls=true
+    url="/assets/images/2017-10-29/placeholders"
     alt="Chargement progressif d'images : pendant que les images se charge, une silhouette floue occupe l'espace."
 %}
 
