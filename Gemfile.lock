@@ -1,11 +1,4 @@
 GIT
-  remote: git://github.com/ffi/ffi.git
-  revision: 250ed0d3ccc77c397fd46b65d94b6b502feb850f
-  branch: elcapt
-  specs:
-    ffi (1.9.10)
-
-GIT
   remote: https://github.com/borisschapira/jekyll-microtypo
   revision: 3893e37d5299c0de45a793703152c6def8d33016
   branch: v0.0.7
@@ -57,6 +50,10 @@ GEM
       forwardable-extended (~> 2.5)
     fast-stemmer (1.0.2)
     fastimage (2.1.0)
+    ffi (1.9.18)
+    ffi-compiler (1.0.1)
+      ffi (>= 1.0.0)
+      rake
     forwardable-extended (2.6.0)
     gsl (2.1.0.3)
     html-hierarchy-extractor (1.0.2)
@@ -159,6 +156,9 @@ GEM
     tzinfo (1.2.4)
       thread_safe (~> 0.1)
     verbal_expressions (0.1.5)
+    webp-ffi (0.2.5)
+      ffi (>= 1.9.0)
+      ffi-compiler (>= 0.1.2)
     yell (2.0.7)
 
 PLATFORMS
@@ -167,7 +167,7 @@ PLATFORMS
 DEPENDENCIES
   algoliasearch-jekyll (~> 1.0.0.beta.pre.1)
   classifier-reborn
-  ffi!
+  ffi (~> 1.9, >= 1.9.18)
   gsl
   html-proofer
   i18n
@@ -183,6 +183,7 @@ DEPENDENCIES
   jekyll-tagging-related_posts
   octopress-autoprefixer
   sprockets (~> 3.6.3)
+  webp-ffi (~> 0.2.5)
 
 RUBY VERSION
    ruby 2.4.2p198

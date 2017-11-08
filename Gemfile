@@ -6,9 +6,11 @@ gem 'i18n'
 gem 'jekyll', '~>3.4'
 gem 'sprockets', '~>3.6.3'
 
+# wrapper for libwebp
+gem 'webp-ffi', '~> 0.2.5'
+
 group :jekyll_tests do
-  gem 'ffi',  github: 'ffi/ffi', 
-              branch: 'elcapt'
+  gem 'ffi', '~> 1.9', '>= 1.9.18'
   gem 'html-proofer'
 end
 
