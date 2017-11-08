@@ -1,13 +1,6 @@
 <ul>
-  {% for translation in translations %}
-    {% if translation.locale != page.locale %}
-      {% if translation.pagination_info %}
-        {% if translation.pagination_info.curr_page == 1 %}
-          <li><a class="{{ translation.locale | slice: 0,2 }}" href="{{ translation.url }}" title="{{ translation.locale }}"><svg class="icon flag-{{ translation.locale | slice: 0,2 }}"><use xlink:href="#flag-{{ translation.locale | slice: 0,2 }}"></use></svg></a></li>
-        {% endif %}
-      {% else %}
-        <li><a class="{{ translation.locale | slice: 0,2 }}" href="{{ translation.url }}" title="{{ translation.locale }}"><svg class="icon flag-{{ translation.locale | slice: 0,2 }}"><use xlink:href="#flag-{{ translation.locale | slice: 0,2 }}"></use></svg></a></li>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
+  {% if page.translation %}
+    {% assign lang = page.translation.locale | slice: 0,2 %}
+    <li><a class="{{ lang }}" href="{{ page.translation.url }}"><svg class="icon flag-{{ lang }}"><use xlink:href="#flag-{{ lang }}"></use></svg></a>
+  {% endif %}
 </ul>

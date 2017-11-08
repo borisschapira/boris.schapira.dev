@@ -6,6 +6,13 @@ layout: default
 
 {% include post_footer.html.liquid content=post.content %}
 
+{% if page.next_context or page.prev_context %}
+  <div class="page-navigation">
+    {% if page.prev_context %}<a class="prev" href="{{page.prev_context.url}}" class="previous">&laquo; {{ page.prev_context.title }}</a>{% endif %}
+    {% if page.next_context %}<a class="next" href="{{page.next_context.url}}" class="next">{{ page.next_context.title }} &raquo;</a>{% endif %}
+  </div>
+{% endif %}
+
 {% assign related_locale = site.related_posts | where:"locale", page.locale %}
 {% include post_related.html.liquid posts=related_locale %}
 
