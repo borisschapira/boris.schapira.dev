@@ -1,0 +1,22 @@
+{
+  "name": "jekyll-private",
+  "version": "1.0.0",
+  "description": "My Jekyll v3 setup.",
+  "scripts": {
+    "brotli": "gulp brotliCompress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borisschapira/jekyll-bs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borisschapira/jekyll-bs/issues"
+  },
+  "homepage": "https://github.com/borisschapira/jekyll-bs#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-brotli": "^1.2.1"
+  }
+}
