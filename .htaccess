@@ -339,6 +339,54 @@ RewriteRule . %1/%2 [R=301,L]
 </IfModule>
 
 # ------------------------------------------------------------------------------
+# | Gzip and Brotli compression (js,css,svg,html,txt,xml)                      |
+# ------------------------------------------------------------------------------
+
+# Rules to correctly serve gzip compressed CSS and JS files.
+# Requires both mod_rewrite and mod_headers to be enabled.
+<IfModule mod_headers.c>
+
+  # Serve brotli compressed CSS files if they exist and the client accepts gzip.
+  RewriteCond %{HTTP:Accept-encoding} br
+  RewriteCond %{REQUEST_FILENAME}\.br -s
+  RewriteRule ^(.*)\.css $1\.css\.br [QSA]
+
+  # Serve gzip compressed CSS files if they exist and the client accepts gzip.
+  RewriteCond %{HTTP:Accept-encoding} gzip
+  RewriteCond %{REQUEST_FILENAME}\.gz -s
+  RewriteRule ^(.*)\.css $1\.css\.gz [QSA]
+
+  # Serve brotli compressed JS files if they exist and the client accepts gzip.
+  RewriteCond %{HTTP:Accept-encoding} br
+  RewriteCond %{REQUEST_FILENAME}\.br -s
+  RewriteRule ^(.*)\.js $1\.js\.br [QSA]
+
+  # Serve gzip compressed JS files if they exist and the client accepts gzip.
+  RewriteCond %{HTTP:Accept-encoding} gzip
+  RewriteCond %{REQUEST_FILENAME}\.gz -s
+  RewriteRule ^(.*)\.js $1\.js\.gz [QSA]
+
+  # Serve correct content types, and prevent mod_deflate double gzip.
+  RewriteRule \.css\.gz$ - [T=text/css,E=no-gzip:1]
+  RewriteRule \.js\.gz$ - [T=text/javascript,E=no-gzip:1]
+  RewriteRule \.css\.br$ - [T=text/css,E=no-gzip:1]
+  RewriteRule \.js\.br$ - [T=text/javascript,E=no-gzip:1]
+
+  <FilesMatch "(\.js\.gz|\.css\.gz)$">
+    # Serve correct encoding type.
+    Header set Content-Encoding gzip
+    # Force proxies to cache gzipped & non-gzipped css/js files separately.
+    Header append Vary Accept-Encoding
+  </FilesMatch>
+  <FilesMatch "(\.js\.br|\.css\.br)$">
+    # Serve correct encoding type.
+    Header set Content-Encoding br
+    # Force proxies to cache gzipped & non-gzipped css/js files separately.
+    Header append Vary Accept-Encoding
+  </FilesMatch>
+</IfModule>
+
+# ------------------------------------------------------------------------------
 # | ETag removal                                                               |
 # ------------------------------------------------------------------------------
 
@@ -490,7 +538,7 @@ RewriteRule ^([a-z0-9\-\._]+)$ /.well-known/$1 [L,NC]
 # Forced to add 'unsafe-eval' in order to be able tu use Algolia (based on
 # Hogan.js that uses eval() )
 <IfModule mod_headers.c>
-Header set Content-Security-Policy "default-src 'none';script-src 'self' 'unsafe-eval' 'sha256-IGrEcXjVf4TMzb0Q4ISJ1BDULp1gLSigpSUnwJ7TvPU=' 'sha256-C/4nrLYcRYrP7F1F8BHCRufVh1I+AQE8vCsrw+zOVHc=' 'sha256-XnNQECY9o-nIv2Qgcd1A39YarwxTm10rhdzegH_JBxY=' 'sha256-NeAg4BFS65XeJWe4ShweELFhIatgXp3mHUcGPXLQnCY=' 'sha256-kytewC1e0uaa9X+SG3dStXMC04jvPfKPW0FaS6cPJDY=' *.twimg.com squirt.io speakerdeck.com filature.borisschapira.com blackhole.webpagetest.org syndication.twitter.com www.google-analytics.com ajax.googleapis.com cdn.jsdelivr.net platform.twitter.com gist.github.com www.gstatic.com www.google.com;style-src 'unsafe-inline' 'self' squirt.io platform.twitter.com fonts.googleapis.com;img-src 'self' data: filature.borisschapira.com avatars.borisschapira.com www.google-analytics.com www.gravatar.com *.ytimg.com *.googleusercontent.com *.twimg.com platform.twitter.com syndication.twitter.com;child-src 'self' *.vimeo.com *.youtube.com *.dailymotion.com open.spotify.com embed.spotify.com squirt.io static01.nyt.com bandcamp.com platform.twitter.com syndication.twitter.com www.google.com;frame-src *.vimeo.com www.instagram.com twitter.com fusiontables.googleusercontent.com fusiontables.google.com www.google.com disqus.com www.youtube.com syndication.twitter.com platform.twitter.com;frame-ancestors 'self' ami.responsivedesign.is material.io ;connect-src 'self' *.algolia.net *.algolianet.com cdn.jsdelivr.net www.google-analytics.com api.staticman.net;font-src 'self' cdnjs.cloudflare.com fonts.gstatic.com fonts.googleapis.com;form-action 'self' syndication.twitter.com;manifest-src 'self';media-src 'self';upgrade-insecure-requests;block-all-mixed-content;disown-opener;worker-src 'none';report-to BorisSchapiraCom;report-uri /csp-parser.php;"
+Header set Content-Security-Policy "default-src 'none';script-src 'self' 'unsafe-eval' 'sha256-IGrEcXjVf4TMzb0Q4ISJ1BDULp1gLSigpSUnwJ7TvPU=' 'sha256-C/4nrLYcRYrP7F1F8BHCRufVh1I+AQE8vCsrw+zOVHc=' 'sha256-XnNQECY9o-nIv2Qgcd1A39YarwxTm10rhdzegH_JBxY=' 'sha256-NeAg4BFS65XeJWe4ShweELFhIatgXp3mHUcGPXLQnCY=' 'sha256-kytewC1e0uaa9X+SG3dStXMC04jvPfKPW0FaS6cPJDY=' *.twimg.com squirt.io speakerdeck.com filature.borisschapira.com blackhole.webpagetest.org syndication.twitter.com www.google-analytics.com ajax.googleapis.com cdn.jsdelivr.net platform.twitter.com gist.github.com www.gstatic.com www.google.com;style-src 'unsafe-inline' 'self' squirt.io platform.twitter.com fonts.googleapis.com;img-src 'self' data: filature.borisschapira.com avatars.borisschapira.com www.google-analytics.com www.gravatar.com *.ytimg.com *.googleusercontent.com *.twimg.com platform.twitter.com syndication.twitter.com;child-src 'self' *.vimeo.com *.youtube.com *.dailymotion.com open.spotify.com embed.spotify.com squirt.io static01.nyt.com bandcamp.com platform.twitter.com syndication.twitter.com www.google.com;frame-src *.vimeo.com www.instagram.com twitter.com fusiontables.googleusercontent.com fusiontables.google.com www.google.com disqus.com www.youtube.com syndication.twitter.com platform.twitter.com;frame-ancestors 'self' ami.responsivedesign.is material.io ;connect-src 'self' *.algolia.net *.algolianet.com cdn.jsdelivr.net www.google-analytics.com api.staticman.net;font-src 'self' cdnjs.cloudflare.com fonts.gstatic.com fonts.googleapis.com;form-action 'self' syndication.twitter.com;manifest-src 'self';media-src 'self';upgrade-insecure-requests;block-all-mixed-content;worker-src 'none';report-to BorisSchapiraCom;report-uri /csp-parser.php;"
 </IfModule>
 
 # ------------------------------------------------------------------------------
