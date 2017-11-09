@@ -12,6 +12,8 @@ layout: microtypo
   {% include head.html.liquid %}
 
   <body id="top" class="theme-base-0g">
+
+    {% include symbols.svg.liquid %}
     <a class="skip-main" href="#main">{% t Aller directement au contenu principal %}</a>
     {% include sidebar.html.liquid %}
 
@@ -19,7 +21,6 @@ layout: microtypo
       {{ content }}
     </div>
 
-  {% include footer.html.liquid loadSearch=page.loadSearch  %}
-  {% include symbols.svg.liquid %}
+    {% include footer.html.liquid loadSearch=page.loadSearch  %}
   </body>
 </html>
