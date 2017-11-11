@@ -6,8 +6,6 @@
 $(function (config) {
   'use strict';
 
-  moment.locale('fr');
-
   var applicationId = config.applicationId;
   var apiKey = config.apiKey;
   var indexName = config.indexName;
@@ -78,9 +76,6 @@ $(function (config) {
 
   function renderResults(data) {
     return $.map(data.hits, function (hit) {
-      if (hit.posted_at) {
-        hit.posted_at_readable = moment.unix(hit.posted_at).fromNow();
-      }
       hit.css_selector = encodeURI(hit.css_selector);
       hit.full_url = config.baseurl + hit.url;
 
