@@ -4,7 +4,7 @@
       {% if paginator.previous_page == 1 %}
         <li><a href="/" title="Accueil">&lsaquo;</a></li>
       {% else %}
-        <li><a href="{{ paginator.previous_page_path | prepend: page.base-url | replace: '//', '/' }}"  title="Page précédente">&lsaquo;</a></li>
+        <li><a href="{{ paginator.previous_page_path | prepend: page.base-url | replace: '//', '/' | replace: 'index.html' ''}}"  title="Page précédente">&lsaquo;</a></li>
       {% endif %}
     {% else %}
       <li class="disabled">&lsaquo;</li>
@@ -52,7 +52,7 @@
       {% if paginator.next_page == paginator.total_pages %}
         <li class="disabled">&raquo;</li>
       {% else %}
-        <li><a href="{{ paginator.next_page_path | prepend: page.base-url | replace: '//', '/' }}" title="Page suivante">&rsaquo;</a></li>
+        <li><a href="{{ paginator.next_page_path | prepend: page.base-url | replace: '//', '/' | replace: 'index.html' '' }}" title="Page suivante">&rsaquo;</a></li>
       {% endif %}
     {% else %}
       <li class="disabled">&rsaquo;</li>
