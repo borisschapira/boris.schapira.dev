@@ -1,16 +1,25 @@
 //= require vendors/touchtap-event.js
 //= require vendors/abbr-touch.js
 
-document.addEventListener('DOMContentLoaded', function() {
-    (function(abbrTouch) {
+function ready(fn) {
+    if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
+        fn();
+    } else {
+        document.addEventListener('DOMContentLoaded', fn);
+    }
+}
+
+ready(function () {
+    console.log('toto');
+    (function (abbrTouch) {
         'use strict';
 
         var tooltipTimeout;
 
-        abbrTouch(document.querySelector('article'), function(target, title, touchX, touchY) {
+        abbrTouch(document.querySelector('article'), function (target, title, touchX, touchY) {
             var tooltip = getTooltipElement();
             // Ensure the tooltip is ready so that the initial transition works
-            setTimeout(function() {
+            setTimeout(function () {
                 updateTooltip(tooltip, target.innerHTML, title);
             }, 0);
         });
@@ -37,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
 
             var timeoutLength = text.length * 120;
-            tooltipTimeout = setTimeout(function() {
+            tooltipTimeout = setTimeout(function () {
                 tooltip.classList.remove('visible');
             }, timeoutLength);
         }
@@ -49,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
     (function videoPlayPause() {
         var videos = document.querySelectorAll('.videoWrapper.gif');
 
-        videos.forEach(function(item) {
+        videos.forEach(function (item) {
             var insideVid = item.querySelector('video');
             // In order to prevent a disgracious "flash" when load()
 
@@ -64,9 +73,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
         function playVideo(e, v) {
             var video = v || this.querySelector('video');
-            if(!$(video).hasClass('loading-started')) {
+            if (!$(video).hasClass('loading-started')) {
                 $(video).addClass('loading-started');
-                video.addEventListener("canplay", function(){
+                video.addEventListener("canplay", function () {
                     console.log('Play video.');
                     this.play();
                 });
@@ -81,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         function toggleVideo(e, v) {
             var video = v || this.querySelector('video');
-            if(video.paused) {
+            if (video.paused) {
                 playVideo(e, video);
             } else {
                 pauseVideo(e, video);
@@ -96,16 +105,16 @@ document.addEventListener('DOMContentLoaded', function() {
     if (window.grecaptcha) {
         window.grecaptcha.render(rc);
     } else {
-        window.captchaCallback = function() {
+        window.captchaCallback = function () {
             window.grecaptcha.render(rc);
         }
     }
 
     window._paq = window._paq || [];
-    window._paq.push(['setDocumentTitle', document.title ]);
+    window._paq.push(['setDocumentTitle', document.title]);
     window._paq.push(['setCustomUrl', document.location.href]);
     window._paq.push(['trackPageView']);
-    
+
 });
 
 /* Piwik */
@@ -113,7 +122,7 @@ var _paq = _paq || [];
 // tracker methods like "setCustomDimension" should be called before "trackPageView"
 //_paq.push(['trackPageView']);
 _paq.push(['enableLinkTracking']);
-(function() {
+(function () {
     var u = "https://filature.borisschapira.com/";
     _paq.push(['setTrackerUrl', u + 'p']);
     _paq.push(['setSiteId', '1']);
