@@ -3,7 +3,7 @@ reload_port: 5678    # If you don't want to use the default port
 
 # Development configuration (comment for Production)
 
-limit_posts: 200
+limit_posts: 20
 host: 0.0.0.0
 future: false
 profile: true

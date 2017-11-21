@@ -35,7 +35,12 @@
       {% endif %}
 
       <div class="lang">
-        {% include i18n_flags.html.liquid %}
+        <ul>
+          {% if page.translation %}
+            {% assign lang = page.translation.locale | slice: 0,2 %}
+            <li><a class="{{ lang }}" href="{{ page.translation.url }}" title="{% t Lire en %} {% if lang == "en" %}{% t anglais %}{% else %}{% t français %}{% endif %}"><svg class="icon flag-{{ lang }}"><use xlink:href="#flag-{{ lang }}"></use></svg></a>
+          {% endif %}
+        </ul>
       </div>
 
       <ul class="secondary">
