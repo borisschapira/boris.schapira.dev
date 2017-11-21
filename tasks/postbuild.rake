@@ -57,7 +57,7 @@ namespace :postbuild do
     task :index, [:env] do |t, args|
       args.with_defaults(:env => 'prod')
       config_file = "_config_#{args[:env]}.yml"
-      sh "jekyll algolia push --config _config.yml,#{config_file}"
+      sh "jekyll algolia --config _config.yml,#{config_file}"
     end
 
   end

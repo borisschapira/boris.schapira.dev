@@ -190,21 +190,5 @@ dareboost:
   token: '…'
 
 algolia:
-  lazy_update: true
   application_id: '…'
   index_name: '…'
-  read_only_api_key: '…'
-  excluded_files:
-    - 404.html
-    - index.html
-  settings:
-    attributesToIndex:
-      - title
-      - h1
-      - h2
-      - h3
-      - h4
-      - h5
-      - h6
-      - unordered(text)
-      - unordered(slug)

@@ -15,7 +15,7 @@ group :jekyll_tests do
 end
 
 # group :jekyll_plugins do
-gem 'algoliasearch-jekyll', '~> 1.0.0.beta.pre.1', group: :jekyll_plugins
+gem 'jekyll-algolia', :github => 'algolia/jekyll-algolia', :branch => 'develop', group: :jekyll_plugins
 gem 'classifier-reborn', group: :jekyll_plugins
 gem 'jekyll-archives', group: :jekyll_plugins
 gem 'jekyll-assets', group: :jekyll_plugins
