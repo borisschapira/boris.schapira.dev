@@ -1,7 +1,6 @@
 //= require vendors/instantclick.min
 //= require vendors/touchtap-event.js
 //= require vendors/abbr-touch.js
-//= require vendors/modernizr-custom.js
 
 InstantClick.on('change', function onChange(isInitialChange) {
     console.log('Page changed.');
