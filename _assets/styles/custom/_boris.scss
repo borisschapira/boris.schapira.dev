@@ -11,7 +11,6 @@ $color-bg : lighten($color-main, 99 - lightness($color-main));
 
 html {
   font-size: calc( 16px + (20 - 16)*(100vw - 400px) / (760-400) );
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.7;
 }
 
@@ -477,15 +476,18 @@ footer .wrap {
     content: '';
   }
 }
-.secondary .sidebar-nav-item {
-  display: inline-block;
-  &::after {
-    content: '';
-    font-size: 1rem;
-    padding: 0 0.2rem;
-  }
-  &:last-of-type::after {
-    content: '';
+.secondary {
+  margin-bottom: 20px;
+  .sidebar-nav-item {
+    display: inline-block;
+    &::after {
+      content: '';
+      font-size: 1rem;
+      padding: 0 0.2rem;
+    }
+    &:last-of-type::after {
+      content: '';
+    }
   }
 }
 @media (min-width: 28em) {
@@ -573,6 +575,7 @@ sup {
 
 .lang {
   height: 2rem;
+  margin-bottom: 20px;
 }
 
 .twitter-tweet-rendered {
