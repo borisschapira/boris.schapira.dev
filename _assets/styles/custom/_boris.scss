@@ -1,3 +1,8 @@
+@import
+  "vendor/poole",
+  "vendor/hyde"
+;
+
 $color-complement: complement($color-main);
 $color-complement-faded: lighten($color-complement, 40);
 $color-gray: rgb(112,112,112);
@@ -30,16 +35,12 @@ img {
   margin-bottom: 0;
 }
 
-/* Fuschia */
-.sidebar {
-  background-image: url($texture); 
-}
-
 .theme-base-0g {
   .sidebar {
     color: rgba(255,255,255,0.5);
     background-color: $color-main;
     background-size: $texture-size;
+    background-image: url($texture); 
   }
 
   .content a,
