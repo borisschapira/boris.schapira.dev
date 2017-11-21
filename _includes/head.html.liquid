@@ -7,15 +7,17 @@
 
   <!-- CSS and color -->
   <!-- nomicrotypo -->
-  {% css core %}
+  <style>
+  {% asset core @inline %}
   {% capture themeColor %}{{ site.data.styles.main.color }}{% endcapture %}
   {% if page.category.size > 0 %}
       {% capture catdown %}{{ page.category|downcase }}{% endcapture %}
       {% capture themeColor %}{{ site.data.styles[catdown].color }}{% endcapture %}
-      {% css '{{ site.data.styles[catdown].css }}' data-instant-track %}
+      {% asset '{{ site.data.styles[catdown].css }}' @inline %}
   {% else %}
-      {% css '{{ site.data.styles.main.css }}' data-instant-track %}
+      {% asset '{{ site.data.styles.main.css }}' @inline %}
   {% endif %}
+  </style>
   <!-- endnomicrotypo -->
 
   <!-- WebMentions -->

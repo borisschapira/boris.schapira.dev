@@ -1,6 +1,0 @@
-<ul>
-  {% if page.translation %}
-    {% assign lang = page.translation.locale | slice: 0,2 %}
-    <li><a class="{{ lang }}" href="{{ page.translation.url }}"><svg class="icon flag-{{ lang }}"><use xlink:href="#flag-{{ lang }}"></use></svg></a>
-  {% endif %}
-</ul>

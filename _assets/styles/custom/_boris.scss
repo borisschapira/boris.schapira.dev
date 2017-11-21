@@ -31,11 +31,18 @@ img {
 }
 
 /* Fuschia */
+.no-webp .sidebar {
+  background-image: url($texture+'.png');
+  
+}
+.webp .sidebar {
+  background-image: url($texture+'.webp');
+}
+
 .theme-base-0g {
   .sidebar {
     color: rgba(255,255,255,0.5);
     background-color: $color-main;
-    background-image: url($texture);
     background-size: $texture-size;
   }
 
@@ -126,10 +133,11 @@ header.posts-h {
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     /* Retina-specific stuff here */
-    .theme-base-0g {
-      .sidebar {
-        background-image: url($texture-2X);
-      }
+    .no-webp .sidebar {
+        background-image: url($texture-2X+'.png');
+    }
+    .webp .sidebar {
+      background-image: url($texture-2X+'.webp');
     }
 }
 
