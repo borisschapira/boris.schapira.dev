@@ -17,8 +17,7 @@ Nicolas Hoffman… thank you very much!
 Last update:  {{ site.time | date: "%Y-%m-%d" }}
 
 Standards: HTML5, CSS3, JavaScript
-Components: Abbr Touch, Algolia, FontFaceObserver, Hogan,
-InstantClick, jQuery, momentjs, picturefill, touchtap, zepto
+Components: Abbr Touch, Algolia, Hogan, jQuery, momentjs, nanoajax, picturefill, piwik, touchtap, zepto
 Building tools: Jekyll, Bundler, Ruby, SASS, HTML-proofer
 Software used during development: Visual Studio Code, Cyberduck,
 and Spotify!

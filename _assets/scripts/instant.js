@@ -1,9 +1,7 @@
-//= require vendors/instantclick.min
 //= require vendors/touchtap-event.js
 //= require vendors/abbr-touch.js
 
-InstantClick.on('change', function onChange(isInitialChange) {
-    console.log('Page changed.');
+document.addEventListener('DOMContentLoaded', function() {
     (function(abbrTouch) {
         'use strict';
 
@@ -109,8 +107,3 @@ InstantClick.on('change', function onChange(isInitialChange) {
     window._paq.push(['trackPageView']);
     
 });
-
-document.addEventListener("DOMContentLoaded", function(event) {
-    InstantClick.init();
-});
-
