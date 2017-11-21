@@ -31,12 +31,8 @@ img {
 }
 
 /* Fuschia */
-.no-webp .sidebar {
-  background-image: url($texture+'.png');
-  
-}
-.webp .sidebar {
-  background-image: url($texture+'.webp');
+.sidebar {
+  background-image: url($texture+'.png'); 
 }
 
 .theme-base-0g {
@@ -133,11 +129,8 @@ header.posts-h {
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     /* Retina-specific stuff here */
-    .no-webp .sidebar {
+    .sidebar {
         background-image: url($texture-2X+'.png');
-    }
-    .webp .sidebar {
-      background-image: url($texture-2X+'.webp');
     }
 }
 
