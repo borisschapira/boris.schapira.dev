@@ -32,7 +32,7 @@ img {
 
 /* Fuschia */
 .sidebar {
-  background-image: url($texture+'.png'); 
+  background-image: url($texture); 
 }
 
 .theme-base-0g {
@@ -130,7 +130,7 @@ header.posts-h {
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     /* Retina-specific stuff here */
     .sidebar {
-        background-image: url($texture-2X+'.png');
+        background-image: url($texture-2X);
     }
 }
 
@@ -541,9 +541,6 @@ sup {
   &::before {
     content: "\0202F";
   }
-}
-#instantclick-bar {
-  background: $color-main;
 }
 
 /** a11y **/

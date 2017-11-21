@@ -25,12 +25,12 @@
   </script>
   <script crossorigin="anonymous" integrity="sha256-jIAAmB65ff5CEFvV6DRfRWjHFwqq+AHeV4le8f8PYp4=" src="https://cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" ></script>
 {% endif %}
-{% javascript analytics data-no-instant defer async %}
+{% javascript analytics defer async %}
 {% if page.type == 'post' %}
   {% javascript comments %}
-  <script src='https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit' data-no-instant></script>
+  <script src='https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit'></script>
 {% endif %}
-{% javascript instant data-no-instant %}
+{% javascript instant %}
 {% if page.loadTwitterWjs %}
   {% javascript twitter-wjs async:"true"%}
 {% endif %}
