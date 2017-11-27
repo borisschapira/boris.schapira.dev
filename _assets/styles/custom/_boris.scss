@@ -1,13 +1,14 @@
-@import
-  "vendor/poole",
-  "vendor/hyde"
-;
-
 $color-complement: complement($color-main);
 $color-complement-faded: lighten($color-complement, 40);
 $color-gray: rgb(112,112,112);
 $color-lightgray : lighten($color-gray, 40 - lightness($color-main));
 $color-bg : lighten($color-main, 99 - lightness($color-main));
+$sidebar-size: 14rem;
+
+@import
+"vendor/poole",
+"vendor/hyde"
+;
 
 html {
   font-size: calc( 16px + (20 - 16)*(100vw - 400px) / (760-400) );
@@ -34,92 +35,95 @@ img {
   margin-bottom: 0;
 }
 
-.theme-base-0g {
-  .sidebar {
-    color: rgba(255,255,255,0.5);
-    background-color: $color-main;
-    background-size: $texture-size;
-    background-image: url($texture); 
-  }
+.sidebar {
+  color: rgba(255,255,255,0.5);
+  background-color: $color-main;
+  background-size: $texture-size;
+  background-image: url($texture);
 
-  .content a,
-  .related-posts li a:hover {
-    color: $color-main;
-  }
-  abbr,
-  acronym {
-    font-size: 1em;
-    font-weight: normal;
-    text-transform: none;
-  }
-  abbr[title],
-  acronym[title] {
-    cursor: help;
-    border-bottom: 0.1em dotted lighten($color-main, 40);
-    text-decoration: inherit;
-  }
-  hr {
-    color: $color-main;
-    background-color: $color-main;
-    border: 0;
-    height: 1px;
-  }
-  /* Meta data line below post title */
-  .post header span,
-  .post header time {
-    display: inline-block;
-    margin-bottom: 0;
-    color: $color-gray;
-    a {
-      color: $color-gray;
-    }
-  }
-  .post footer {
-    font-size: 0.8em;
-    .contrib {
-      /* border: 1px solid darken($color-main,20);*/
-      a {
-        color: darken($color-main,20);
-      }
-    }
-    .discuss,
-    .share {
-      /*border: 1px solid $color-complement;*/
-      a {
-        color: darken($color-complement, 10);
-      }
-      input[type="submit"] {
-        padding: 5px 15px;
-        background: $color-complement;
-        border: 0 none;
-        cursor: pointer;
-      }
-    }
-    .contrib,
-    .discuss,
-    .share {
-      margin: 20px 0;
-      color: #333;
-      p,
-      form {
-        margin: 0;
-        padding: 10px;
-      }
-      form {
-        display: flex;
-        input[type="submit"] {
-          flex: 1;
-        }
-        input[type="text"] {
-          flex: 3;
-        }
-      }
-    }
-    .nowrap {
-      display: inline-flex;
-    }
+  .lead {
+    font-size: 1rem;
   }
 }
+
+.content a,
+.related-posts li a:hover {
+  color: $color-main;
+}
+abbr,
+acronym {
+  font-size: 1em;
+  font-weight: normal;
+  text-transform: none;
+}
+abbr[title],
+acronym[title] {
+  cursor: help;
+  border-bottom: 0.1em dotted lighten($color-main, 40);
+  text-decoration: inherit;
+}
+hr {
+  color: $color-main;
+  background-color: $color-main;
+  border: 0;
+  height: 1px;
+}
+/* Meta data line below post title */
+.post header span,
+.post header time {
+  display: inline-block;
+  margin-bottom: 0;
+  color: $color-gray;
+  a {
+    color: $color-gray;
+  }
+}
+.post footer {
+  font-size: 0.8em;
+  .contrib {
+    /* border: 1px solid darken($color-main,20);*/
+    a {
+      color: darken($color-main,20);
+    }
+  }
+  .discuss,
+  .share {
+    /*border: 1px solid $color-complement;*/
+    a {
+      color: darken($color-complement, 10);
+    }
+    input[type="submit"] {
+      padding: 5px 15px;
+      background: $color-complement;
+      border: 0 none;
+      cursor: pointer;
+    }
+  }
+  .contrib,
+  .discuss,
+  .share {
+    margin: 20px 0;
+    color: #333;
+    p,
+    form {
+      margin: 0;
+      padding: 10px;
+    }
+    form {
+      display: flex;
+      input[type="submit"] {
+        flex: 1;
+      }
+      input[type="text"] {
+        flex: 3;
+      }
+    }
+  }
+  .nowrap {
+    display: inline-flex;
+  }
+}
+
 header.posts-h {
   text-align: center;
   margin-bottom: 2rem;
@@ -516,9 +520,6 @@ footer .wrap {
   .sidebar-about h1 {
     font-size: 2rem;
   }
-  .sidebar-about .lead {
-    font-size: 1rem;
-  }
 }
 @media (min-width: 48em) {
   /* About section */
@@ -531,9 +532,6 @@ footer .wrap {
   }
   .sidebar-about h1 {
     font-size: 3.25rem;
-  }
-  .sidebar-about .lead {
-    font-size: 1.5rem;
   }
   .sidebar .categories {
     margin-bottom: 1rem;
