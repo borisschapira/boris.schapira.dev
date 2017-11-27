@@ -14,9 +14,9 @@ publishDate: '2017-09-18'
 locale: fr_FR
 ---
 
-_Si vous fréquentez [le blog de Dareboost], il ne vous aura pas échappé [qu’il est urgent de passer au HTTPS](https://blog.dareboost.com/fr/2016/03/https-necessaire-pas-uniquement-pour-le-seo/ "Passer au HTTPs est nécessaire, et pas uniquement pour le SEO &#124; Blog DareBoost"). L’échéance est d’autant plus forte que les géants du Web ont déjà tiré leurs coups de semonce en affichant des alertes sur certaines pages en HTTP dans Google Chrome et Mozilla Firefox. Bientôt, ce seront tous les formulaires qui seront concernés._
+Si vous fréquentez [le blog de Dareboost], il ne vous aura pas échappé [qu’il est urgent de passer au HTTPS](https://blog.dareboost.com/fr/2016/03/https-necessaire-pas-uniquement-pour-le-seo/ "Passer au HTTPs est nécessaire, et pas uniquement pour le SEO &#124; Blog DareBoost"). L’échéance est d’autant plus forte que les géants du Web ont déjà tiré leurs coups de semonce en affichant des alertes sur certaines pages en HTTP dans Google Chrome et Mozilla Firefox. Bientôt, ce seront tous les formulaires qui seront concernés.
 
-_Cela étant dit, avoir un site accessible en HTTPS ne suffit pas à basculer l’ensemble de son trafic automatiquement vers cette nouvelle version._
+Cela étant dit, avoir un site accessible en HTTPS ne suffit pas à basculer l’ensemble de son trafic automatiquement vers cette nouvelle version.
 
 <figure>
     <picture>

@@ -15,7 +15,7 @@ publishDate: '2017-10-29'
 locale: en_US
 ---
 
-_"Reduce the page weight": here is one of the most usual tips in Dareboost reports. According to HTTP Archive trends, images represent 53% of the average pages weight, whether viewed on desktop or mobile devices. When you want to reduce the weight of your web pages, optimizing images should be at the top of your priorities._
+"Reduce the page weight": here is one of the most usual tips in Dareboost reports. According to HTTP Archive trends, images represent 53% of the average pages weight, whether viewed on desktop or mobile devices. When you want to reduce the weight of your web pages, optimizing images should be at the top of your priorities.
 
 <figure>
     <picture>

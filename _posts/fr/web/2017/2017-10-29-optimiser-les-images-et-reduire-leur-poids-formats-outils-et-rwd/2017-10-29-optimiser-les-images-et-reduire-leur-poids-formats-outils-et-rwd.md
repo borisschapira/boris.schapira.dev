@@ -15,7 +15,7 @@ publishDate: '2017-10-29'
 locale: fr_FR
 ---
 
-_"Réduisez le poids de la page" : voici l'un des conseils les plus couramment délivrés dans les rapports Dareboost. Selon les tendances mesurées par HTTP Archive, les images représentent 53 % du poids moyen des pages web, qu’elles soient consultées sur ordinateurs de bureau ou périphériques mobiles. Lorsque vous cherchez à réduire le poids de votre page Web, l’optimisation des images remonte donc logiquement dans le top de vos priorités._
+"Réduisez le poids de la page" : voici l'un des conseils les plus couramment délivrés dans les rapports Dareboost. Selon les tendances mesurées par HTTP Archive, les images représentent 53 % du poids moyen des pages web, qu’elles soient consultées sur ordinateurs de bureau ou périphériques mobiles. Lorsque vous cherchez à réduire le poids de votre page Web, l’optimisation des images remonte donc logiquement dans le top de vos priorités.
 
 <figure>
     <picture>
