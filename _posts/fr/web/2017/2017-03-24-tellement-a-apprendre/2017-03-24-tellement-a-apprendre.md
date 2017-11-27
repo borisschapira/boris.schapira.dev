@@ -9,7 +9,7 @@ publishDate: '2017-03-24'
 locale: fr_FR
 ---
 
-Un de mes collègues a partagé une synthèse de différents outils Devops qu'il a trouvé sur LinkedIn… J'ai colorisé les outils que j'avais déjà utilisé dans le cadre de projets.
+Un de mes collègues a partagé une synthèse de différents outils Devops qu'il a trouvé sur LinkedIn… J'ai mis en exergue les outils que j'avais déjà utilisé dans le cadre de projets.
 
 <!-- more -->
 
@@ -30,7 +30,7 @@ Je ne pense absolument pas que la maitrise de l'ensemble de ces outils soit néc
 
 ## Il me permet de mettre le doigt sur des lacunes opérationnelles
 
-Je le savais avant, mais l'exercice le souligne encore davantage : je suis plus attiré par les tâches d'accompagnement du développement que par les tâches de maintenance opérationelle, notamment quand elles impliquent de gérer des fermes de bases de données ou d'orchestrer des services dans le <span>cloud</span>. Il s'agira de combler ces lacunes ultérieurement en prenant soin de monter en compétence sur ces points ou de m'entourer des bonnes personnes.
+Je le savais avant, mais l'exercice le souligne encore davantage : je suis plus attiré par les tâches d'accompagnement du développement que par les tâches de maintenance opérationnelle, notamment quand elles impliquent de gérer des fermes de bases de données ou d'orchestrer des services dans le <span>cloud</span>. Il s'agira de combler ces lacunes ultérieurement en prenant soin de monter en compétence sur ces points ou de m'entourer des bonnes personnes.
 
 ## Il souligne à quel point les chefs de projet sont versatiles
 
