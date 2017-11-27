@@ -26,16 +26,16 @@
   <script crossorigin="anonymous" integrity="sha256-jIAAmB65ff5CEFvV6DRfRWjHFwqq+AHeV4le8f8PYp4=" src="https://cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" ></script>
 {% endif %}
 {% if page.type == 'post' %}
-  {% javascript comments async %}
+  {% asset comments.js async %}
   <script src='https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit'></script>
 {% endif %}
-{% javascript index async %}
+{% asset index.js async %}
 {% if page.loadTwitterWjs %}
-  {% javascript twitter-wjs async%}
+  {% asset twitter-wjs.js async%}
 {% endif %}
 {% if include.loadSearch %}
-    {% javascript search async %}
+    {% asset search.js async %}
 {% endif %}
 {% if page.permalink == '404.html' %}
-  {% javascript 404 %}
+  {% asset 404.js %}
 {% endif %}

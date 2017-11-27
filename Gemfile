@@ -5,6 +5,7 @@ gem 'gsl'
 gem 'i18n'
 gem 'jekyll', '~>3.4'
 gem 'sprockets', '~>3.6.3'
+gem 'uglifier', '~> 3.2'
 
 # wrapper for libwebp
 gem 'webp-ffi', '~> 0.2.5'
