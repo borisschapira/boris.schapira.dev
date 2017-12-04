@@ -27,6 +27,13 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.author.feed }}">
 
+  <!-- Lang -->
+  {% if page.translation %}
+    {% assign lang = page.translation.locale | slice: 0,2 %}
+    <link rel="alternate" hreflang="{{ lang }}" href="{{ page.translation.url }}"/>
+  {% endif %}
+  
+
   <!-- Social Media -->
   {% include head-compute-socials.html.liquid %}
 
