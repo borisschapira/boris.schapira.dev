@@ -10,7 +10,6 @@ function ready(fn) {
 }
 
 ready(function () {
-    console.log('toto');
     (function (abbrTouch) {
         'use strict';
 
