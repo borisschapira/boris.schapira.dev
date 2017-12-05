@@ -13,9 +13,9 @@ Les enfants jouent à des jeux éducatifs avec leur grand-mère…
 
 <!-- more -->
 
-> – Alors, dans quels noms d'animaux entendez-vous le son "ou" ?  
-> – Hibou ! Mouche !  
-> – Oui ! Et comment s'appelle le papa des chèvres ?  
+> — Alors, dans quels noms d'animaux entendez-vous le son "ou" ?  
+> — Hibou ! Mouche !  
+> — Oui ! Et comment s'appelle le papa des chèvres ?  
 
 Devant leur silence circonspect, elle décide de mimer la barbe de l'animal, reproduisant sans le savoir [le signe <abbr title="Langue des Signe Française">LSF</abbr> du mois de décembre](https://www.elix-lsf.fr/spip.php?page=signes&id_article=151775).
 

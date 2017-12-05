@@ -13,8 +13,8 @@ Nous avons accueuilli un nouveau pensionnaire. Simba est un chaton tigré de 5 m
 
 <!-- more -->
 
-> – Maintenant, on a Simba, mais avant, on avait Mozart.  
-> – Oui mon cœur mais tu sais, il est mort, maintenant.  
-> – Oui, il est mort. C'est très triste. Mais maintenant, on peut pas le voir, il est planté.
+> — Maintenant, on a Simba, mais avant, on avait Mozart.  
+> — Oui mon cœur mais tu sais, il est mort, maintenant.  
+> — Oui, il est mort. C'est très triste. Mais maintenant, on peut pas le voir, il est planté.
 
 Il voulait dire "enterré". Dans toute la peine que le souvenir de Mozart a fait ressurgir, j'ai quand même souri.
