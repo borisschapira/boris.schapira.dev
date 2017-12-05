@@ -13,20 +13,20 @@ Depuis quelques jours, mon aîné a une nouvelle manie. Dès qu'il réussit quel
 
 <!-- more -->
 
-> – Ouais, je suis un mec !  
-> – Tu veux dire que tu es fort ?  
-> – Oui, je suis un mec !  
-> – Non, tu es un mec parce que tu as un pénis, grosso-modo. Être fort, c'est pas un truc "de mec". Il y a plein de femmes fortes.  
+> — Ouais, je suis un mec !  
+> — Tu veux dire que tu es fort ?  
+> — Oui, je suis un mec !  
+> — Non, tu es un mec parce que tu as un pénis, grosso-modo. Être fort, c'est pas un truc "de mec". Il y a plein de femmes fortes.  
 
 Le petit, fan de super-héros, s'en mêle :
 
-> – Oui, comme Wonder Woman !  
-> – Exactement.  
-> – Wonder Woman, c'est une mec ?  
-> – Ah ben non, c'est une femme. Et elle est forte physiquement. Mais ce n'est pas un mec.  
-> – Oui mais si c'est une femme, il faut dire "une" mec, Papa.  
-> – Non, on ne dit pas une mec puisque "mec", ça veut dire monsieur. On ne dit pas "une monsieur".  
-> – Ah d'accord.
+> — Oui, comme Wonder Woman !  
+> — Exactement.  
+> — Wonder Woman, c'est une mec ?  
+> — Ah ben non, c'est une femme. Et elle est forte physiquement. Mais ce n'est pas un mec.  
+> — Oui mais si c'est une femme, il faut dire "une" mec, Papa.  
+> — Non, on ne dit pas une mec puisque "mec", ça veut dire monsieur. On ne dit pas "une monsieur".  
+> — Ah d'accord.
 
 Il marque un silence de trois secondes, puis :
 

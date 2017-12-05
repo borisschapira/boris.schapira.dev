@@ -13,16 +13,16 @@ Quand on s'occupe seul·e de ses enfants, arrive toujours ce moment fatidique. C
 
 <!-- more -->
 
-> – Les enfants je vous laisse deux secondes, je vais faire pipi… pas de bêtises dans la salle de bain !  
-> – Non papa !  
+> — Les enfants je vous laisse deux secondes, je vais faire pipi… pas de bêtises dans la salle de bain !  
+> — Non papa !  
 
 À peine le temps d'arriver aux toilettes (la pièce adjacente, pourtant)… j'entends le petit qui m'appelle.
 
-> – Papaaaaaaaaaaaaa ?  
-> – Oui, chéri ?  
-> – Je peux faire pipi dans la baignoire ?  
-> – Euh ben non chéri, c’est sale !  
-> – Ah, d’accord.
+> — Papaaaaaaaaaaaaa ?  
+> — Oui, chéri ?  
+> — Je peux faire pipi dans la baignoire ?  
+> — Euh ben non chéri, c’est sale !  
+> — Ah, d’accord.
 
 Je finis ma petite affaire rapidement et reviens à la salle de bain. Visiblement, les enfants ont un peu joué…
 

@@ -70,11 +70,11 @@ Depuis, chaque fois que je reviens dans la boutique, on me propose du lait entie
 
 **J'entre dans un magasin**, accompagné de mon chef. Je veux lui montrer des modèles d'agrafeuses qui seraient parfaites pour le bureau. Un vendeur me colle aux basques.
 
-> – Monsieur Schapira, j'ai reçu une superbe livraison de rhum vieux. Une bouteille ?  
-> – Non, merci. Ce n'est pas le moment.  
-> – Vous êtes sûr ? Pourtant, vous avez acheté 5 bouteilles ces trois derniers mois, je sais de source sûre que vous buvez du rhum.
-> – C'est vrai, j'apprécie le bon rhum, mais vous voyez, là, je suis accompagné. Et puis quand même… il est 9h du matin !
-> – Et ?
+> — Monsieur Schapira, j'ai reçu une superbe livraison de rhum vieux. Une bouteille ?  
+> — Non, merci. Ce n'est pas le moment.  
+> — Vous êtes sûr ? Pourtant, vous avez acheté 5 bouteilles ces trois derniers mois, je sais de source sûre que vous buvez du rhum.
+> — C'est vrai, j'apprécie le bon rhum, mais vous voyez, là, je suis accompagné. Et puis quand même… il est 9h du matin !
+> — Et ?
 
 ***
 
@@ -114,11 +114,11 @@ Cette fois, j'ai compris. Je prends le TorcheCulcul Triple Épaisseur et je repa
 
 **J'entre dans un magasin**. Le vendeur me dévisage de haut en bas, mais reste perplexe. Il finit par s'approcher et me demande :
 
-> – Excusez-moi, êtes vous un homme ou une femme ?
-> – Pardon ?
-> – Êtes-vous un homme ou une femme ? J'ai besoin de cette information pour vous accueillir et vous diriger vers les produits qui vous intéressent.
-> – Euh, je suis un homme…
-> – Très bien.
+> — Excusez-moi, êtes vous un homme ou une femme ?
+> — Pardon ?
+> — Êtes-vous un homme ou une femme ? J'ai besoin de cette information pour vous accueillir et vous diriger vers les produits qui vous intéressent.
+> — Euh, je suis un homme…
+> — Très bien.
 
 Je pose ensuite quelque questions et on m'aiguille vers le produit qui m'intéresse. Il est bleu avec un autocollant de super-héros. J'adore les super-héros, je décide de le prendre. À la caisse, on me demande mon nom, ma date de naissance et ma profession. Je suis un peu gêné et refuse mais il insiste. Si je veux des informations sur le produit, il faut que j'obtempère. Je lui donne donc ce qu'il demande.
 
