@@ -3,7 +3,7 @@ title: 'Optimize Images to Reduce Page Weight: File Formats, Tools and RWD'
 i18n-key: image-weight-bp-dareboost
 main_image: assets/images/2017-10-29/square.jpg
 date: '2017-10-29'
-lang: fr
+lang: en
 canonical: 'https://blog.dareboost.com/en/2017/10/optimize-images-to-reduce-page-weight-file-formats-tools-and-rwd/'
 type: post
 categories:
@@ -24,7 +24,9 @@ locale: en_US
     </picture>
 </figure>
 
-<!--more-->
+<!-- more -->
+
+<em class="canonical">**Note&nbsp;:**this post first appeared on the [Dareboost's Blog](https://blog.dareboost.com/en/) in [{{ page.title }}]({{ page.canonical }}).</em>
 
 ## For each image its format
 

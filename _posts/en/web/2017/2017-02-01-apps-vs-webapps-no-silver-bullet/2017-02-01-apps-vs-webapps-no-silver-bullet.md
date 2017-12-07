@@ -17,7 +17,8 @@ Let's take a look at the different logical biases related to this topic.
 
 <!-- more -->
 
-<em class="canonical">**Note&nbsp;:** this post has been published first on the [Clever Age](http://www.clever-age.com/en/) website in [(Web) Apps: There is no silver bullet](https://blog.clever-age.com/en/2017/07/07/web-apps-there-is-no-silver-bullet/).</em>
+<em class="canonical">**Note&nbsp;:**this post first appeared on the [Clever Age](http://www.clever-age.com/en/) website in [{{ page.title }}]({{ page.canonical }}).</em>
+
 
 ## Web or native?
 
