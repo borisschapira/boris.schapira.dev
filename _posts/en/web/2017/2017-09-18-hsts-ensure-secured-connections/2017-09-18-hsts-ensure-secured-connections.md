@@ -27,9 +27,7 @@ But offering an HTTPS version of your website is not enough to automatically red
 
 <!-- more -->
 
-<em class="canonical">**Note&nbsp;:** this post has been published first on the [Dareboost's Blog](https://blog.dareboost.com/en/) in [{{ page.title }}]({{ page.canonical }}).</em>
-
-
+<em class="canonical">**Note&nbsp;:**this post first appeared on the [Dareboost's Blog](https://blog.dareboost.com/en/) in [{{ page.title }}]({{ page.canonical }}).</em>
 
 ## Implementing a redirection: a limited solution
 
