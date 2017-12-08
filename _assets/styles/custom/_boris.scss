@@ -242,6 +242,8 @@ html .content .post .p-header .p-author {
 
       &.gif > video {
         border: none;
+        width: auto;
+        max-width: 100%;
       }
 
       &.gif:hover::before,
