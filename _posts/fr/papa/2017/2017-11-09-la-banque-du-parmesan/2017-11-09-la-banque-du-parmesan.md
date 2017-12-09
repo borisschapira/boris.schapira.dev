@@ -14,9 +14,9 @@ Les enfants aiment le parmesan. J'en achète souvent, en bloc, et je le rape moi
 
 <!-- more -->
 
-> — … et tu vois, le Parmesan, c'est vraiment un fromage qui coûte très très cher.
-> — Ah bon ?
-> — Oui, et il y a même des banques du parmesan, où on stocke de grande quantités de Parmesan. Il y a des gardes pour les protéger, parce que sinon des voleurs s'en empareraient ! Il doit y avoir des barreaux aux fenêtres et même que parfois, il y a des braquages où les voleurs repartent avec du parmesan.
+> — … et tu vois, le Parmesan, c'est vraiment un fromage qui coûte très très cher.  
+> — Ah bon ?  
+> — Oui, et il y a même des banques du parmesan, où on stocke de grande quantités de Parmesan. Il y a des gardes pour les protéger, parce que sinon des voleurs s'en empareraient ! Il doit y avoir des barreaux aux fenêtres et même que parfois, il y a des braquages où les voleurs repartent avec du parmesan.  
 > — Woaw !
 
 {% include video_as_a_gif.html.liquid
@@ -24,9 +24,9 @@ Les enfants aiment le parmesan. J'en achète souvent, en bloc, et je le rape moi
     alt="Keanu Reeves est impressioné"
 %}
 
-> — Ah, tu as compris alors ?
-> — Non, j'ai rien compris.
-> — Zut… mais tu as arrêté de comprendre où exactement, que j'explique à nouveau ?
+> — Ah, tu as compris alors ?  
+> — Non, j'ai rien compris.  
+> — Zut… mais tu as arrêté de comprendre où exactement, que j'explique à nouveau ?  
 > — À "banque". C'est quoi, une banque ?
 
 Forcément…
