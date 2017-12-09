@@ -23,14 +23,10 @@ layout: null
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
-    <description>{% if page.description %} {{ page.description | xml_escape }}{% else %}{{site.description | xml_escape
-      }}{% endif %}</description>
-    <link>{{ page.url|default: site.url |append:page.base-url }}/</link>
-    <atom:link href="{{ " /feed.xml " | prepend: page.base-url | prepend: site.url }}" rel="self" type="application/rss+xml"
-    />
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <link>{{ page.url | prepend: page.base-url | replace: '//', '/' | prepend: site.url }}</link>
+    <description>{% if page.description %} {{ page.description | strip_html | xml_escape }}{% else %}{{site.description | strip_html | xml_escape}}{% endif %}</description>
+    <language>{{ page.locale | downcase | replace: '_', '-' }}</language>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in the_posts limit: 20%}
     <item>
       <title>{{ post.title | xml_escape }}</title>
@@ -39,11 +35,11 @@ layout: null
       {% endif %}
       <description>{% include post_in_feed.html.liquid %}</description>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-      <link>{{ post.url | prepend: page.base-url | prepend: site.url }}</link>
+      <link>{{ post.url | prepend: page.base-url | replace: '//', '/' | prepend: site.url }}</link>
       <guid isPermaLink="true">{{ post.url | prepend: page.base-url | prepend: site.url }}</guid>
       {% for tag in post.tags %}
       <category>{{ tag | xml_escape }}</category>
-      {% endfor %} {% for cat in post.categories %}
+      {% endfor %}{% for cat in post.categories %}
       <category>{{ cat | xml_escape }}</category>
       {% endfor %}
     </item>
