@@ -13,20 +13,20 @@ Parfois, les enfants sont très clairs dans ce qu'ils racontent. Mais 80 % du te
 
 <!-- more -->
 
-> — Tu viens jouer à la fusée ?
-> — Oh oui ! Tu sais, chez Papy et Mamie, on a une vraie piquante.
-> — Une piquante ?
-> — Non, une tipanque !
-> — Une… pétanque ?
-> — Oui, avec des vraies boules en pierre.
-> — En métal ?
-> — Oui, en métal. Et un petit lapin crétin.
-> — Hein ?
-> — Non, pas un lapin, un oiseau pas content !
-> — Un ois… Ah ! Angry Birds.
-> — Oui !
-> — Et ça sert à quoi ?
-> — C'est pour lancer les piquantes.
+> — Tu viens jouer à la fusée ?  
+> — Oh oui ! Tu sais, chez Papy et Mamie, on a une vraie piquante.  
+> — Une piquante ?  
+> — Non, une tipanque !  
+> — Une… pétanque ?  
+> — Oui, avec des vraies boules en pierre.  
+> — En métal ?  
+> — Oui, en métal. Et un petit lapin crétin.  
+> — Hein ?  
+> — Non, pas un lapin, un oiseau pas content !  
+> — Un ois… Ah ! Angry Birds.  
+> — Oui !  
+> — Et ça sert à quoi ?  
+> — C'est pour lancer les piquantes.  
 > — Ah oui. Un cochonnet.
 
 {% capture alt_text%}Sherlock dit "Élémentaire, mon cher Watson"{% endcapture %}
