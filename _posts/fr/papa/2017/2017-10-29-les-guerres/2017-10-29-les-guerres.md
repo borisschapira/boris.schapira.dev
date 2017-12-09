@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2017-10-29'
 locale: fr_FR
-published: false
 ---
 
 Les enfants ont regardé le film d'animation Mr Peabody, et ont beaucoup aimé. Par contre, le grand et le petit ne semblent pas avoir compris la même chose.

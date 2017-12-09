@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2017-11-12'
 locale: fr_FR
-published: false
 ---
 
 Parfois, quand les enfants jouent, j'ai la chance d'entrevoir le monde imaginaire de l'école. C'est un monde assez différent de celui de la maison, qui digère et transforme les événements du réel en jeux. Aujourd'hui, ils ont joué à **Manuel France**.

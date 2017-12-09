@@ -3,7 +3,6 @@ title: 'Nouveau départ'
 date: '2017-09-14'
 lang: fr
 type: post
-published: false
 categories:
     - web
 publishDate: '2017-09-14'
