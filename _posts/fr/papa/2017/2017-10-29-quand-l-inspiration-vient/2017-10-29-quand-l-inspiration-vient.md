@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2017-10-29'
 locale: fr_FR
-published: false
 ---
 
 > Papa, j'ai une ampoule !
