@@ -103,6 +103,9 @@ GEM
       nokogiri (~> 1.8)
       pathutil (~> 0.16)
       sprockets (>= 3.3, < 4.1.beta)
+    jekyll-cloudinary (1.9.1)
+      fastimage (>= 2.0, < 3.0)
+      jekyll (>= 3.0, < 4.0)
     jekyll-livereload (0.2.2)
       em-websocket (~> 0.5)
       jekyll (~> 3.0)
@@ -192,6 +195,7 @@ DEPENDENCIES
   jekyll-algolia!
   jekyll-archives
   jekyll-assets
+  jekyll-cloudinary
   jekyll-livereload
   jekyll-microtypo!
   jekyll-paginate-v2 (~> 1.8, >= 1.8.1)

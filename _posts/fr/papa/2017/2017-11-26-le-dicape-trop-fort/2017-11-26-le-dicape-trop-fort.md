@@ -21,10 +21,10 @@ Jouer à des jeux vidéo à côté des enfants, c'est saisir l'occasion de les v
 
 Je ne sais pas si les <span lang="en">Character Designers</span> avaient imaginé cette interprétation, mais merci.
 
-<figure>
-    <picture>
-        {% responsive_image path: assets/images/papa/2017-11-26/noctis.webp source:true type:"image/webp" %}
-        {% responsive_image path: assets/images/papa/2017-11-26/noctis.png alt: "Noctis, un personnage ténébreux dont l'habit de roi implique une pièce métalique articulée autour du genou gauche." %}
-    </picture>
-    <figcaption>Noctis en tenue de roi, Final Fantasy XV</figcaption>
-</figure>
+{% capture img_alt %}Noctis, un personnage ténébreux dont l'habit de roi implique une pièce métalique articulée autour du genou gauche.{% endcapture %}
+{% capture img_caption %}Noctis en tenue de roi, Final Fantasy XV{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/papa/2017-11-26/noctis.png"
+    alt=img_alt
+    caption=img_caption 
+%}
