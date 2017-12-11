@@ -1,6 +1,6 @@
 {% if include.caption %}{% cloudinary {{ include.path }}
     alt="{{ include.alt | escape }}"
-    caption="{{ include.caption | markdownify | strip_html }}"
+    caption="{{ include.caption | markdownify }}"
 %}{% else %}{% cloudinary {{ include.path }}
     alt="{{ include.alt | escape }}"
 %}{% endif %}
