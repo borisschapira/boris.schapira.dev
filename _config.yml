@@ -118,10 +118,10 @@ author:
   facebook: 'https://www.facebook.com/boris.schapira'
   twitter: 'http://twitter.com/borisschapira'
   twitter_username: '@borisschapira'
-  mastodon: https://framapiaf.org/@borisschapira
   linkedin: 'http://linkedin.com/in/borisschapira'
   feed: '/feed.xml'
   mailto: 'contact%40borisschapira.com'
+#  mastodon: https://framapiaf.org/@borisschapira
   reading_speed_en: 478
   reading_speed_fr: 723
 
