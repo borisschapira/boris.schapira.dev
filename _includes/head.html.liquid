@@ -2,20 +2,21 @@
   <meta charset="utf-8" />
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-serif-regular.woff2" >
+  <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-sans-bold.woff2">
+  <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-serif-italic.woff2" >
 
   <!-- CSS and color -->
   <!-- nomicrotypo -->
-  <style>
-  {% asset core @inline %}
+  {% asset core %}
   {% capture themeColor %}{{ site.data.styles.main.color }}{% endcapture %}
   {% if page.category.size > 0 %}
       {% capture catdown %}{{ page.category|downcase }}{% endcapture %}
       {% capture themeColor %}{{ site.data.styles[catdown].color }}{% endcapture %}
-      {% asset '{{ site.data.styles[catdown].css }}' @inline %}
+      {% asset '{{ site.data.styles[catdown].css }}' %}
   {% else %}
-      {% asset '{{ site.data.styles.main.css }}' @inline %}
+      {% asset '{{ site.data.styles.main.css }}' %}
   {% endif %}
-  </style>
   <!-- endnomicrotypo -->
 
   <!-- WebMentions -->
