@@ -17,12 +17,12 @@ locale: en_US
 
 "Reduce the page weight": here is one of the most usual tips in Dareboost reports. According to HTTP Archive trends, images represent 53% of the average pages weight, whether viewed on desktop or mobile devices. When you want to reduce the weight of your web pages, optimizing images should be at the top of your priorities.
 
-<figure>
-    <picture>
-        {% responsive_image path: assets/images/2017-10-29/square.webp source:true type:"image/webp" %}
-        {% responsive_image path: assets/images/2017-10-29/square.jpg alt: "On a white square are gradually designed several pixels in shades of blue, above the diagonal" %}
-    </picture>
-</figure>
+{% capture img_alt %}On a white square are gradually designed several pixels in shades of blue, above the diagonal{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-10-29/square.jpg "
+    alt=img_alt
+%}
+
 
 <!-- more -->
 
@@ -33,23 +33,21 @@ locale: en_US
 It is not always easy to find the most suitable image format. Take our logo, for example. We could save it in PNG, JPEG, WebP or SVG.
 The weight of the images would be very different. An empirical test allows us to visualize it:
 
-<figure>
-    <picture>
-        {% responsive_image path: assets/images/2017-10-29/logo_en_580.webp source:true type:"image/webp" %}
-        {% responsive_image path: assets/images/2017-10-29/logo_en_580.png alt: "PNG 6 Ko ; JPEG 38KB ; WebP 9KB ; SVG 2.5KB (1.4KB gzipped)" %}
-    </picture>
-</figure>
+{% capture img_alt %}PNG 6 Ko ; JPEG 38KB ; WebP 9KB ; SVG 2.5KB (1.4KB gzipped){% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-10-29/logo_en_580.png"
+    alt=img_alt
+%}
 
 In this case, the most suitable format seems to be SVG, followed closely by PNG. It is indeed an image whose colors are plain, non-animated, representing geometric shapes. All these factors tend to favor these two formats.
 
 Let's take a second example, this time with the photograph of a rocket taking off. SVG is just unable to represent this image correctly (we will explain why a little further). Here's what we get, with equivalent visual perception, for JPEG, PNG and WebP formats:
 
-<figure>
-    <picture>
-        {% responsive_image path: assets/images/2017-10-29/rocket_en_580.webp source:true type:"image/webp" %}
-        {% responsive_image path: assets/images/2017-10-29/rocket_en_580.jpg alt: "PNG: 171 KB; JPEG: 33 KB; WebP: 13KB" %}
-    </picture>
-</figure>
+{% capture img_alt %}PNG: 171 KB; JPEG: 33 KB; WebP: 13KB{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-10-29/rocket_en_580.png"
+    alt=img_alt
+%}
 
 Here, the results are radically different. To represent the complexity of a photograph, the WebP format clearly stands out. Unfortunately, it is only supported on Chrome and Opera, so we generally prefer the JPEG format.
 
@@ -57,12 +55,11 @@ Here, the results are radically different. To represent the complexity of a phot
 
 When you want to save a JPEG, most of softwares ask what quality to retain, as it is a lossy encoding format. By choosing a quality less than 100%, it is thus possible to save precious bytes by correcting only certain points of the image. Let's try with our image, with quality set to 80%. Then we get a very interesting result: a weight loss of more than 50%, while only a few points of the image have been deeply changed.
 
-<figure>
-    <picture>
-        {% responsive_image path: assets/images/2017-10-29/diff_en_580.webp source:true type:"image/webp" %}
-        {% responsive_image path: assets/images/2017-10-29/diff_en_580.jpg alt: "Original JPEG: 33BP. Optimized JPEG: 16KB. Not much differences." %}
-    </picture>
-</figure>
+{% capture img_alt %}Original JPEG: 33BP. Optimized JPEG: 16KB. Not much differences.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-10-29/diff_en_580.jpg"
+    alt=img_alt
+%}
 
 As shown above, choosing a format is not trivial and not all formats are suitable for all images. Let’s explain a little more…
 
@@ -120,13 +117,13 @@ For non-decorative images, the <strong>picture</strong> specification has added 
 
 If you want to offer, in addition to your optimized image, formats supported by a limited number of browsers (such as WebP) or if you want to manage different width-to-height ratios depending on the context (a matter of artistic direction), you can frame your image with a <code>picture</code> element and several <code>source</code> elements:
 
-<figure>
-    <picture>
-        {% responsive_image path: assets/images/2017-10-29/theguardian.webp source:true type:"image/webp" %}
-        {% responsive_image path: assets/images/2017-10-29/theguardian.png alt: "Capture de code" %}
-    </picture>
-    <figcaption>HTML markup for Responsive Images, from The Guardian website</figcaption>
-</figure>
+{% capture img_alt %}Code capture{% endcapture %}
+{% capture img_caption %}HTML markup for Responsive Images, from The Guardian website<{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-10-29/theguardian.png "
+    alt=img_alt
+    caption=img_caption 
+%}
 
 With all possible media, art direction alternatives, resolutions, pixel densities, and supported formats, the HTML markup of responsive images can become very impressive. But do not forget that your HTTP responses must always be gzipped. Finally, the difference of 500B between this markup and a single element <code>img</code> will be largely offset by the reduction of the weight of the delivered image.
 

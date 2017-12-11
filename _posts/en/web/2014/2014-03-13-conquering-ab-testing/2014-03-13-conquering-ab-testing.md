@@ -31,13 +31,6 @@ Matthew is not the fussy type, really, but his responsibilities and professional
     caption=img_caption 
 %}
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2014-03-13/1.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/1.jpg alt: "A pen writing a question mark on a paper" %}
-  </a>
-  <figcaption>"Questioned Proposal" by Ethan Lofton - CC BY 2.0</figcaption>
-</figure>
-
 But sometimes, let's face it, Matthew is not sure. He hesitates. He wonders: will this new feature improve user experience? Will this new communication strategy motivate more customers to visit our website? And this new payment funnel, is it really more efficient than the old one?
 
 ## A/B Testing Is Simple and Objective

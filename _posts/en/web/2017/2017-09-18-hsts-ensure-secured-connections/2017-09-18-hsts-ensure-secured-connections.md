@@ -18,12 +18,11 @@ Our regular readers [of the Dareboost blog] already know that [HTTPS is now a re
 
 But offering an HTTPS version of your website is not enough to automatically redirect all your HTTP traffic to this secured version.
 
-<figure>
-    <picture>
-        {% responsive_image path: assets/images/2017-09-18/1.webp source:true type:"image/webp" %}
-        {% responsive_image path: assets/images/2017-09-18/1.jpg alt: "Along a railway switch, a two-color light indicates if a train can pass." %}
-    </picture>
-</figure>
+{% capture img_alt %}Along a railway switch, a two-color light indicates if a train can pass.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-09-18/1.jpg"
+    alt=img_alt
+%}
 
 <!-- more -->
 
@@ -83,13 +82,13 @@ In order to be accepted to the HSTS preload list, a website has to meet the foll
 
 If your website is eligible, you can submit its domain for inclusion [over this form](https://hstspreload.org/ "HSTS Preload List Submission").
 
-<figure>
-    <picture>
-        {% responsive_image path: assets/images/2017-09-18/1.webp source:true type:"image/webp" %}
-        {% responsive_image path: assets/images/2017-09-18/2.png alt: "A screencapture of Chrome DevTools" %}
-    </picture>
-    <figcaption>Internal HTTPS redirection of a request to Facebook made over HTTP, Chrome 60</figcaption>
-</figure>
+{% capture img_alt %}A screencapture of Chrome DevTools{% endcapture %}
+{% capture img_caption %}Internal HTTPS redirection of a request to Facebook made over HTTP, Chrome 60{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-09-18/2.png"
+    alt=img_alt
+    caption=img_caption 
+%}
 
 Beware: the modification of the directive with a 0-second `max-age` will not switch off HSTS preloading. Domains can be deleted from the HSTS Preload registry but you will have to wait for months since the next update of the browser needs to reach all the users. So, a word of advice: do not register for HSTS Preload if you are not strongly confident into your capacity to offer HTTPS on your domain and its subdomains over time.
 

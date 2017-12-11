@@ -44,10 +44,13 @@ Ce soir-là, je me suis levé vers 1h et ne me suis pas recouché avant 5h. Je m
 
 Je me suis rappelé de nos conversations de l'époque, sa propre angoisse. J'ai soudain réalisé tout le ridicule de mon dilemme : ce que je ne voulais pas vivre, qui me faisait peur au point d'être parfois inacceptable, ma femme l'avait déjà vécu deux fois, avec courage, sans que cela n'handicape son potentiel professionnel.
 
-<figure>
-      {% responsive_image path: assets/images/2016-12-26/kintsugi.jpg alt: "Un bol en céramique parsemé de jointures d'or qui laissent paraitre qu'il a été au préalable brisé" %}
-  <figcaption>Un exemple de <span lang="ja">kintsugi</span>. Au lieu de cacher les cicatrices d'un objet brisé ou fragilisé, le kintsugi les valorise. Au lieu de n’avoir une existence dans l’instant, l’objet s’enrichit d’une histoire qui raconte ses faiblesses et le rendent unique.</figcaption>
-</figure>
+{% capture img_alt %}Un bol en céramique parsemé de jointures d'or qui laissent paraitre qu'il a été au préalable brisé{% endcapture %}
+{% capture img_caption %}Un exemple de <span lang="ja">kintsugi</span>. Au lieu de cacher les cicatrices d'un objet brisé ou fragilisé, le kintsugi les valorise. Au lieu de n’avoir une existence dans l’instant, l’objet s’enrichit d’une histoire qui raconte ses faiblesses et le rendent unique.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-05-31/forest.jpg"
+    alt=img_alt
+    caption=img_caption 
+%}
 
 Trois jours plus tard, décidé, je suis allé voir Sébastien pour lui remettre une lettre.
 
@@ -72,10 +75,13 @@ Je n'ai pas encore cherché d'emploi sur Périgueux, mais cela ne m'a pas empêc
 
 L'isolation géographique ne m'inquiète pas. J'ai, depuis longtemps, pris conscience que mon identité était indissociable du Réseau et que je serais un peu chez moi partout, tant que j'aurais une connexion. Que les gens soient physiquement proches de moi ne renforce pas mes relations avec eux et [mes amitiés les plus sincères sont virtuelles](/2014/04/relations-virtuelles/).
 
-<figure>
-      {% responsive_image path: assets/images/2017-05-31/forest.jpg alt: "Une forêt" %}
-      <figcaption>par Nejc Košir (<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.fr" title="Description de la licence Creative Commons 0">licence CC0</a>)</figcaption>
-</figure>
+{% capture img_alt %}Une forêt{% endcapture %}
+{% capture img_caption %}par Nejc Košir (<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.fr" title="Description de la licence Creative Commons 0">licence CC0</a>){% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-05-31/forest.jpg"
+    alt=img_alt
+    caption=img_caption 
+%}
 
 Sept ans, c'est long. Il restera sûrement toujours un peu de Clever Age en moi, cette entreprise dans laquelle je me suis tant investi et qui me l'a bien rendu. Mes collègues bordelais me manqueront, mais aussi les nantais, les lyonnais, les parisiens, les montpelliérains de Clever Institut, les visites en Suisse, les conf-call avec Hong-Kong ou Singapour. Hasard du calendrier, je quitte Clever tandis que par le biais [d'un autre rachat](https://www.clever-age.com/fr/news/clevertoday-rejoint-le-groupe-cleverage/), un ami d'un autre temps rejoint le navire depuis le Québec. Puisque je vous dis que le monde virtuel est tout petit !
 
