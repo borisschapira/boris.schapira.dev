@@ -13,12 +13,13 @@ Un de mes collègues a partagé une synthèse de différents outils Devops qu'il
 
 <!-- more -->
 
-<figure>
-  <a data-featherlight="image" href="/assets/images/2017-03-24/known.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2017-03-24/known.jpg alt: "Un graphique, principalement en noir et blanc, présentant différents outils Devops classés en catégories : collaboration, compilation, tests, déploiements et maintenance opérationnelle. Sur les 150 outils listés, une cinquantaine est en couleur, pour être démarquée." %}
-  </a>
-  <figcaption>Infographie réalisée par James Bowman dans son article «&nbsp;<a href="http://www.jamesbowman.me/post/continuous-delivery-tool-landscape/"><span lang="en">Continuous delivery tool landscape</span></a>&nbsp;»</figcaption>
-</figure>
+{% capture img_alt %}Un graphique, principalement en noir et blanc, présentant différents outils Devops classés en catégories : collaboration, compilation, tests, déploiements et maintenance opérationnelle. Sur les 150 outils listés, une cinquantaine est en couleur, pour être démarquée.{% endcapture %}
+{% capture img_caption %}Infographie réalisée par James Bowman dans son article "<a href="http://www.jamesbowman.me/post/continuous-delivery-tool-landscape/"><span lang="en">Continuous delivery tool landscape</span></a>"{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-03-24/known.jpg"
+    alt=img_alt
+    caption=img_caption 
+%}
 
 Je connais à peine ⅓ des outils de l'infographie[^others], mais l'exercice est intéressant. 
 
