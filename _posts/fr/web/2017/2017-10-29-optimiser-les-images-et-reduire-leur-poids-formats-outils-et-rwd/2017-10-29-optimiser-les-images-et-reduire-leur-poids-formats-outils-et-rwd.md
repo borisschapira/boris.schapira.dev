@@ -17,12 +17,11 @@ locale: fr_FR
 
 "Réduisez le poids de la page" : voici l'un des conseils les plus couramment délivrés dans les rapports Dareboost. Selon les tendances mesurées par HTTP Archive, les images représentent 53 % du poids moyen des pages web, qu’elles soient consultées sur ordinateurs de bureau ou périphériques mobiles. Lorsque vous cherchez à réduire le poids de votre page Web, l’optimisation des images remonte donc logiquement dans le top de vos priorités.
 
-<figure>
-    <picture>
-        {% responsive_image path: assets/images/2017-10-29/square.webp source:true type:"image/webp" %}
-        {% responsive_image path: assets/images/2017-10-29/square.jpg alt: "Sur un carré blanc sont disposés plusieurs pixels en camaïeu de bleu, au dessus de la diagonale, de manière progressive" %}
-    </picture>
-</figure>
+{% capture img_alt %}Sur un carré blanc sont disposés plusieurs pixels en camaïeu de bleu, au dessus de la diagonale, de manière progressive{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-10-29/square.jpg "
+    alt=img_alt
+%}
 
 <!-- more -->
 
@@ -32,23 +31,21 @@ locale: fr_FR
 
 Il n’est pas toujours simple de trouver le format d’image le plus adapté. Prenons par exemple notre logo. Nous pourrions l’enregistrer en <abbr lang="en" title="Portable Network Graphics">PNG</abbr>, en <abbr lang="en" title="Joint Photographic Experts Group">JPEG</abbr>, en WebP ou en <abbr lang="en" title="Scalar Vector Graphics">SVG</abbr>. Le poids des images serait très différent. Un test empirique nous permet de le constater :
 
-<figure>
-    <picture>
-        {% responsive_image path: assets/images/2017-10-29/logo_fr_580.webp source:true type:"image/webp" %}
-        {% responsive_image path: assets/images/2017-10-29/logo_fr_580.png alt: "PNG 6 Ko ; JPEG 38 Ko ; WebP 9 Ko ; SVG 2,5 Ko (1,3 gzippé)" %}
-    </picture>
-</figure>
+{% capture img_alt %}PNG 6 Ko ; JPEG 38 Ko ; WebP 9 Ko ; SVG 2,5 Ko (1,3 gzippé){% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-10-29/logo_fr_580.png"
+    alt=img_alt
+%}
 
 Dans ce cas précis, le format le plus adapté semble être SVG, suivi de près par PNG. Il s’agit en effet d’une image dont les couleurs sont unies, non-animée, représentant des formes géométriques. Autant de facteurs qui tendent à favoriser ces formats.
 
 Prenons un second exemple, avec cette fois la photographie d’une fusée qui décolle. SVG s’avère incapable de représenter cette image correctement (nous expliquerons pourquoi un peu plus loin). Voici ce que nous obtenons, à perception visuelle équivalente, pour les formats JPEG, PNG et WebP :
 
-<figure>
-    <picture>
-        {% responsive_image path: assets/images/2017-10-29/rocket_fr_580.webp source:true type:"image/webp" %}
-        {% responsive_image path: assets/images/2017-10-29/rocket_fr_580.jpg alt: "PNG 171 Ko ; JPEG 33 Ko ; WebP : 13 Ko. Pas de différence notable." %}
-    </picture>
-</figure>
+{% capture img_alt %}PNG 171 Ko ; JPEG 33 Ko ; WebP : 13 Ko. Pas de différence notable.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-10-29/rocket_fr_580.jpg"
+    alt=img_alt
+%}
 
 Ici, les résultats sont radicalement différents. Pour représenter toute la complexité d’une photographie, le format WebP se démarque nettement. Malheureusement, il n’est supporté que sur Chrome et Opéra, nous lui préférerons donc souvent le format JPEG.
 
@@ -56,12 +53,11 @@ Ici, les résultats sont radicalement différents. Pour représenter toute la co
 
 Au moment de l’enregistrement en JPEG, la plupart des logiciels demandent quelle qualité conserver, car il s’agit d’un format d’encodage avec pertes. En choisissant une qualité inférieure à 100%, il est ainsi possible d’économiser de précieux octets en modifiant uniquement certains points de l’image. Essayons avec notre image, en qualité 80%. Le résultat est très intéressant avec un gain de poids de plus de 50%, alors que seuls quelques points de l’image ont été modifiés en profondeur.
 
-<figure>
-    <picture>
-        {% responsive_image path: assets/images/2017-10-29/diff_fr_580.webp source:true type:"image/webp" %}
-        {% responsive_image path: assets/images/2017-10-29/diff_fr_580.jpg alt: "JPEG d'origine : 33 Ko. JPEG optimisé : 16 Ko. Entre les deux, très peu de modifications." %}
-    </picture>
-</figure>
+{% capture img_alt %}JPEG d'origine : 33 Ko. JPEG optimisé : 16 Ko. Entre les deux, très peu de modifications.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-10-29/diff_fr_580.jpg"
+    alt=img_alt
+%}
 
 Comme les exemples ci-dessus le montrent, choisir un format n’est pas anodin et tous les formats ne sont pas adaptés à toutes les images. Tout cela mérite quelques explications.
 
@@ -119,13 +115,13 @@ Pour les images non-décoratives, la spécification <strong>picture</strong> a a
 
 Si vous voulez proposer, en plus de votre image optimisée, des formats supportés par un nombre limité de navigateurs (comme WebP) ou si vous voulez gérer différents rapports largeur/hauteur en fonction du contexte (une question de direction artistique), vous pouvez encadrer votre image par un élément <code>picture</code> et plusieurs éléments <code>source</code> :
 
-<figure>
-    <picture>
-        {% responsive_image path: assets/images/2017-10-29/theguardian.webp source:true type:"image/webp" %}
-        {% responsive_image path: assets/images/2017-10-29/theguardian.png alt: "Capture de code" %}
-    </picture>
-    <figcaption>Extrait de code d'image responsive du Guardian</figcaption>
-</figure>
+{% capture img_alt %}Capture de code{% endcapture %}
+{% capture img_caption %}Extrait de code d'image responsive du Guardian{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-10-29/theguardian.png"
+    alt=img_alt
+    caption=img_caption 
+%}
 
 Avec tous les médias possibles, les questions de direction artistique, de tailles, de densité de pixel et de support de formats, le balisage HTML des images responsives peut aboutir à un résultat assez impressionnant. Mais n'oubliez pas que vos réponses HTTP doivent être gzippées. La différence de 500 o entre ce balisage et un simple élément <code>img</code> sera au final largement compensée par le gain sur le poids de l'image servie.
 

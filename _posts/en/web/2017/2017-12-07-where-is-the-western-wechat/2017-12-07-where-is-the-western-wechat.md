@@ -17,12 +17,11 @@ locale: en_US
 
 China is unquestionably changing the way Internet integrates our daily lives with its mobile app [WeChat](https://blog.clever-age.com/en/2017/05/19/10-ways-to-leverage-wechat-for-your-business/). How does this impact the web in the Western world?
 
-<figure>
-    <picture>
-        {% responsive_image path: assets/images/2017-12-07/pexels-photo-50614.webp source:true type:"image/webp" %}
-        {% responsive_image path: assets/images/2017-12-07/pexels-photo-50614.jpg alt: "A hand holding a phone in front. There are many Android apps listed in a menu." %}
-    </picture>
-</figure>
+{% capture img_alt %}A hand holding a phone in front. There are many Android apps listed in a menu.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-12-07/pexels-photo-50614.jpg"
+    alt=img_alt
+%}
 
 <!-- more -->
 
@@ -60,13 +59,13 @@ Appealing as it may be, the disappearance of app stores would raise a couple of 
 
 Say you’re into running and looking to track your runs. Not knowing which app to install, you make a Google research and find a specialized website. Upon your third visit to the website, your browser suggests you try the corresponding app. In the app, you find a tracking tool that suits your needs. A few months later, the app warns you that an analysis of your running data revealed you may be an underpronator. In partnership with a major sports brand, the app recommends a new pair of running shoes that fits your pronation type. With your Google profile, it has access to your banking and shipping information; you smoothly proceed with payment directly through the app.
 
-<figure>
-    <picture>
-        {% responsive_image path: assets/images/2017-12-07/pexels-photo-260290.webp source:true type:"image/webp" %}
-        {% responsive_image path: assets/images/2017-12-07/pexels-photo-260290.jpg alt: "A person is sitting on the floor, she is in sportswear. The goal is focused on his right shoe, which is a running shoe." %}
-    </picture>
-    <figcaption>Web, application and purchase combined into one frictionless, transparent experience for the user.</figcaption>
-</figure>
+{% capture img_alt %}A person is sitting on the floor, she is in sportswear. The goal is focused on his right shoe, which is a running shoe.{% endcapture %}
+{% capture img_caption %}Web, application and purchase combined into one frictionless, transparent experience for the user.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-12-07/pexels-photo-260290.jpg"
+    alt=img_alt
+    caption=img_caption 
+%}
 
 This topic will certainly define the web in the coming months, if not the coming years. It is [one of the hot topics being discussed at the W3C](https://www.w3.org/Payments/ "Web Payments at W3C: Making Payments Easy on the Web"). Soon, OS companies will likely introduce PWAs containing a set of libraries in order to facilitate and supervise payment in exchange for a commission, under a standard such as the [Payment Request API](https://developers.google.com/web/fundamentals/payments/). It is a substantial market and the key players will fiercely fight for their share.
 

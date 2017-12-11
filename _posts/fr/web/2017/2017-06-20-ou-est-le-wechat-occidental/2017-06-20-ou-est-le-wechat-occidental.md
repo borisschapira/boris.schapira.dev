@@ -42,9 +42,11 @@ Autre élément de réponse : les barrières à l’entrée constituée par les
 
 Le système des App Store, aussi satisfaisant qu’il soit, atteint ses limites. Il noie l’utilisateur sous une offre pléthorique qui manque de contexte. Le nombre de Stores alternatifs explose dans un certain nombre de marché émergents, où l’on trouve, par exemple, des Stores offrant des applications adaptées à des matériels bas de gamme sur lesquelles les applications "classiques" ne tournent pas.
 
-<figure>
-      {% responsive_image path: assets/images/2017-06-20/50614.jpg alt: "Une main tenant un téléphone de face. On y voit de nombreuses applications Android listées dans un menu." %}
-</figure>
+{% capture img_alt %}Une main tenant un téléphone de face. On y voit de nombreuses applications Android listées dans un menu.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-06-20/50614.jpg "
+    alt=img_alt
+%}
 
 La découverte des services est également problématique sur un système centralisé de ce type. En regroupant l’offre d'applications, les App Store la rendent moins contextuelle, moins locale, moins ciblée. La découverte d’applications est alourdie et la proposition de service est, in fine, moins efficace. WeChat fonctionne mieux en proposant des services locaux, basés sur l’utilisateur et son réseau. Plutôt que de chercher dans un App Store, il est courant que les utilisateurs de WeChat scannent directement un QR Code qui leur donne accès au service dont ils ont besoin immédiatement.
 
@@ -73,10 +75,13 @@ Géraldine aime la course à pieds, et voudrait commencer un suivi précis de se
 
 Quelques mois plus tard, l'application lui signale qu'en analysant ses données de courses, elle a détecté une chance assez importante de foulée supinatrice et lui propose, en partenariat avec une grande marque de sport, de nouvelles chaussures de courses adaptées. Géraldine procède au paiement dans l'application, qui utilise sont profil Google pour récupérer ses coordonnées postales et bancaires, sans aucune friction.
 
-<figure>
-      {% responsive_image path: assets/images/2017-06-20/260290.jpg alt: "Une personne fine est assise sur le sol, en tenue de sport. L'objectif se focalise sur sa chaussure droite, qui semble être une chaussure de running." %}
-  <figcaption>Un scénario mêlant Web, application et achats de manière transparente pour l'utilisatrice.</figcaption>
-</figure>
+{% capture img_alt %}Une personne fine est assise sur le sol, en tenue de sport. L'objectif se focalise sur sa chaussure droite, qui semble être une chaussure de running.{% endcapture %}
+{% capture img_caption %}Un scénario mêlant Web, application et achats de manière transparente pour l'utilisatrice.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-06-20/260290.jpg"
+    alt=img_alt
+    caption=img_caption 
+%}
 
 Ce sujet va cristalliser l’avenir du Web ces prochains mois, voire ces prochaines années. C'est [un des sujets d’études “chaud” du <abbr title="World Wide Web Consortium">W3C</abbr>](https://www.w3.org/Payments/ "Web Payments at W3C: Making Payments Easy on the Web"). Les <abbr lang="en" title="Progressive Web Apps">PWA</abbr> seront rapidement le cheval de Troie de librairies proposées par les éditeurs de systèmes d’exploitation pour faciliter et encadrer le paiement en échange d’une commission, sur la base d’un standard comme la [Payment Request API](https://developers.google.com/web/fundamentals/discovery-and-monetization/payment-request/). Le marché est conséquent et la lutte sera féroce avec d'autres acteurs qui n'ont pas l'intention de se faire damer le pion.
 

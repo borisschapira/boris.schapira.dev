@@ -24,12 +24,13 @@ Let's take a look at the different logical biases related to this topic.
 
 Let's imagine that we want to evaluate the user satisfaction for various applications: pure native applications, cross-platform applications, semi-hybrid applications with React Native, "installed" <abbr title="Progressive Web Apps">PWAs</abbr> on Android 6, not-installed <abbr title="Progressive Web Apps">PWAs</abbr> and non-progressive Web App. With these measurements, we would be able to produce a graph with the level of satisfaction on the x-axis while the y-axis represents how close to a "native application" the app is.
 
-<figure>
-  <a data-featherlight="image" href="/assets/images/2017-02-01/en/1.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2017-02-01/en/1.png alt: "Our first graph shows the user satisfaction for each group of application depending on the app  technical similarities  with  native applications." %}
-  </a>
-  <figcaption>Our first graph shows the user satisfaction for each group of application depending on the app  technical similarities  with  native applications.</figcaption>
-</figure>
+{% capture img_alt %}Our first graph shows the user satisfaction for each group of application depending on the app  technical similarities  with  native applications.{% endcapture %}
+{% capture img_caption %}Our first graph shows the user satisfaction for each group of application depending on the app  technical similarities  with  native applications.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-02-01/en/1.png"
+    alt=img_alt
+    caption=img_caption 
+%}
 
 It is hard to make any precise conclusion, however we can identify a global trend by analyzing the average satisfaction of each group of applications: the most "native" apps seem to be more likely to generate satisfaction.
 
