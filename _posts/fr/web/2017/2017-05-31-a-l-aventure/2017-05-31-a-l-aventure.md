@@ -45,9 +45,9 @@ Ce soir-là, je me suis levé vers 1h et ne me suis pas recouché avant 5h. Je m
 Je me suis rappelé de nos conversations de l'époque, sa propre angoisse. J'ai soudain réalisé tout le ridicule de mon dilemme : ce que je ne voulais pas vivre, qui me faisait peur au point d'être parfois inacceptable, ma femme l'avait déjà vécu deux fois, avec courage, sans que cela n'handicape son potentiel professionnel.
 
 {% capture img_alt %}Un bol en céramique parsemé de jointures d'or qui laissent paraitre qu'il a été au préalable brisé{% endcapture %}
-{% capture img_caption %}Un exemple de <span lang="ja">kintsugi</span>. Au lieu de cacher les cicatrices d'un objet brisé ou fragilisé, le kintsugi les valorise. Au lieu de n’avoir une existence dans l’instant, l’objet s’enrichit d’une histoire qui raconte ses faiblesses et le rendent unique.{% endcapture %}
+{% capture img_caption %}Un exemple de <span lang="ja">kintsugi</span>. Au lieu de cacher les cicatrices d'un objet brisé ou fragilisé, le <span lang="ja">kintsugi</span> les valorise. Au lieu de n’avoir une existence dans l’instant, l’objet s’enrichit d’une histoire qui raconte ses faiblesses et le rendent unique.{% endcapture %}
 {% include rwd-image.html.liquid 
-    path="/assets/images/2017-05-31/forest.jpg"
+    path="/assets/images/2016-12-26/kintsugi.jpg"
     alt=img_alt
     caption=img_caption 
 %}

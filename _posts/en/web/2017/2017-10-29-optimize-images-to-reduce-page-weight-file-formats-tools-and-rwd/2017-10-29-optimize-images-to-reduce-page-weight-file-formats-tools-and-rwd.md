@@ -45,7 +45,7 @@ Let's take a second example, this time with the photograph of a rocket taking of
 
 {% capture img_alt %}PNG: 171 KB; JPEG: 33 KB; WebP: 13KB{% endcapture %}
 {% include rwd-image.html.liquid 
-    path="/assets/images/2017-10-29/rocket_en_580.png"
+    path="/assets/images/2017-10-29/rocket_en_580.jpg"
     alt=img_alt
 %}
 
