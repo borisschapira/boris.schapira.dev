@@ -15,19 +15,18 @@ group :jekyll_tests do
   gem 'html-proofer'
 end
 
-# group :jekyll_plugins do
-gem 'jekyll-algolia', :github => 'algolia/jekyll-algolia', :branch => 'develop', group: :jekyll_plugins
-gem 'classifier-reborn', group: :jekyll_plugins
-gem 'jekyll-archives', group: :jekyll_plugins
-gem 'jekyll-assets', group: :jekyll_plugins
-gem 'jekyll-livereload', group: :jekyll_plugins
-gem 'jekyll-microtypo', git: 'https://github.com/borisschapira/jekyll-microtypo', 
-                        branch: 'v0.0.7', 
-                        group: :jekyll_plugins
-gem 'jekyll-postfiles', group: :jekyll_plugins
-gem 'jekyll-responsive_image', group: :jekyll_plugins
-gem 'jekyll-sitemap', group: :jekyll_plugins
-gem 'jekyll-tagging-related_posts', group: :jekyll_plugins
-gem 'octopress-autoprefixer', group: :jekyll_plugins
-gem 'jekyll-paginate-v2', '~> 1.8', '>= 1.8.1', group: :jekyll_plugins
-# end
+group :jekyll_plugins do
+  gem 'jekyll-algolia', :github => 'algolia/jekyll-algolia', :branch => 'develop'
+  gem 'classifier-reborn'
+  gem 'jekyll-archives'
+  gem 'jekyll-assets'
+  gem 'jekyll-livereload'
+  gem 'jekyll-microtypo', git: 'https://github.com/borisschapira/jekyll-microtypo', branch: 'v0.0.7'
+  gem 'jekyll-postfiles'
+  gem 'jekyll-cloudinary'
+  gem 'jekyll-responsive_image'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-tagging-related_posts'
+  gem 'octopress-autoprefixer'
+  gem 'jekyll-paginate-v2', '~> 1.8', '>= 1.8.1'
+end

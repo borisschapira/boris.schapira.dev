@@ -23,6 +23,14 @@ Matthew is not the kind of person who takes decisions lightly, especially when i
 
 Matthew is not the fussy type, really, but his responsibilities and professionalism command him to monitor any evolution of his company's website, in order to ensure that all key indicators improve with each delivery.
 
+{% capture img_alt %}A pen writing a question mark on a paper{% endcapture %}
+{% capture img_caption %}"Questioned Proposal" by Ethan Lofton - CC BY 2.0{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2014-03-13/1.jpg"
+    alt=img_alt
+    caption=img_caption 
+%}
+
 <figure>
 <a data-featherlight="image" href="/assets/images/2014-03-13/1.jpg" title="Voir en plus grand">
       {% responsive_image path: assets/images/2014-03-13/1.jpg alt: "A pen writing a question mark on a paper" %}
