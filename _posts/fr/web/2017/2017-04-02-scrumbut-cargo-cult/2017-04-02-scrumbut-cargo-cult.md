@@ -45,9 +45,10 @@ Quand vous multipliez les <em lang="en">Scrumbuts</em>, souvent parce que vous p
 
 Sortez de ce <em lang="en">Cargo Cult</em> ou vous gâcherez de manière irrémédiable le potentiel Agile de vos équipes.
 
-<figure>
-  <a href="/assets/images/2017-04-02/doing_vs_being_agile.jpg" title="doing agile, being agile">
-      {% responsive_image path: "assets/images/2017-04-02/doing_vs_being_agile.jpg" alt: "Deux post-its, comparant l'Agile façon Cargo Cult et les vraies livraisons successives" %}
-  </a>
-  <figcaption>"<a href="https://www.flickr.com/photos/psd/9588038559" title="Lien vers la photo sur Flickr">Doing Agile, being Agile</a>", par <a href="https://www.flickr.com/photos/psd/" title="Profil Flickr de Paul Downey">Paul Downey</a> — <a href="https://creativecommons.org/licenses/by/2.0/" class="photo-license-url" rel="license cc:license" target="_newtab" ><span>Certains droits réservés</span></a></figcaption>
-</figure>
+{% capture img_alt %}Deux post-its, comparant l'Agile façon Cargo Cult et les vraies livraisons successives{% endcapture %}
+{% capture img_caption %}"<a href="https://www.flickr.com/photos/psd/9588038559" title="Lien vers la photo sur Flickr">Doing Agile, being Agile</a>", par <a href="https://www.flickr.com/photos/psd/" title="Profil Flickr de Paul Downey">Paul Downey</a> — <a href="https://creativecommons.org/licenses/by/2.0/" class="photo-license-url" rel="license cc:license" target="_newtab" ><span>Certains droits réservés</span></a>{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-04-02/doing_vs_being_agile.jpg"
+    alt=img_alt
+    caption=img_caption 
+%}

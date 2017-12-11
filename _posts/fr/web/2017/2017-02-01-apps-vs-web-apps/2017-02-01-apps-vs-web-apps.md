@@ -37,12 +37,13 @@ Difficile de déduire quelque chose de précis, mais on peut déterminer une ten
 
 Imaginons désormais que l'on observe la satisfaction en fonction du type d'application, c'est à dire, simplement, en fonction de la catégorie dans laquelle vous placeriez chaque application sur une place de marché d'applications.
 
-<figure>
-  <a data-featherlight="image" href="/assets/images/2017-02-01/2.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2017-02-01/2.png alt: "Le même graphique qu'au dessus sauf que désormais, les types d'applications sont présentés. Les tendances dépendent entièrement du type." %}
-  </a>
-  <figcaption>Alors, c'est moins facile, là, non ?</figcaption>
-</figure>
+{% capture img_alt %}Le même graphique qu'au dessus sauf que désormais, les types d'applications sont présentés. Les tendances dépendent entièrement du type.{% endcapture %}
+{% capture img_caption %}Alors, c'est moins facile, là, non ?{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-02-01/2.png"
+    alt=img_alt
+    caption=img_caption 
+%}
 
 Les tendances semblent clairement moins évidentes.
 
@@ -58,12 +59,13 @@ On a le sentiment qu'en appliquant des raisonnements de bon sens sur l'ensemble 
 
 Et si les applications ne bénéficient pas du même niveau d'investissement en fonction de leur type et de leur plate-forme de développement ? Allons creuser de ce côté-là en visualisant également le budget de chaque type d'application.
 
-<figure>
-  <a data-featherlight="image" href="/assets/images/2017-02-01/3.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2017-02-01/3.png alt: "Le même graphique qu'au dessus que la taille des points est relative au budget. Même si plus d'applicatif semble vouloir dire que le budget est plus important, il existe des exceptions" %}
-  </a>
-  <figcaption>Toujours pas évident, hein ?</figcaption>
-</figure>
+{% capture img_alt %}Le même graphique qu'au dessus que la taille des points est relative au budget. Même si plus d'applicatif semble vouloir dire que le budget est plus important, il existe des exceptions{% endcapture %}
+{% capture img_caption %}Toujours pas évident, hein ?{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-02-01/3.png"
+    alt=img_alt
+    caption=img_caption 
+%}
 
 Les applications natives semblent coûter plus cher, ce qui est compréhensible : il faut développer pour deux ou trois système là où les développements cross-platform ou Web adressent plus facilement de multiples matériels. Sauf que non, on trouve aussi un haut budget dans une application de bureautique semi-hybride. Impossible de savoir s'il s'agit d'un investissement choisi ou des conséquences d'un mauvais choix de technologie couplé à un entêtement[^ci].
 
