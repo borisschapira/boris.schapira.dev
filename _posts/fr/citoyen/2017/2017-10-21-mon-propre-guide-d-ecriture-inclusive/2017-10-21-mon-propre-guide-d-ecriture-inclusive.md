@@ -26,7 +26,7 @@ L'ensemble de ce blog ne respecte pas forcément ces règles. Certains articles 
 
 ***
 
-Parce que l'inclusivité inclut aussi le handicap, je ne souhaite pas que la graphie particulière du point médian ne gêne les utilisateurs et utilisatrices d'une synthèse vocale. J'ai donc décidé de "décoré" ces extensions inclusives d'un élément `span` ayant l'attribut `aria-hidden="true"` par le biais de mon [plugin de correction microtypographique pour Jekyll](https://github.com/borisschapira/jekyll-microtypo/blob/v0.0.7/lib/jekyll/microtypo.rb#L61).
+Parce que l'inclusivité inclut aussi le handicap, je ne souhaite pas que la graphie particulière du point médian ne gêne les utilisateurs et utilisatrices d'une synthèse vocale. J'ai donc décidé de "décorer" ces extensions inclusives d'un élément `span` ayant l'attribut `aria-hidden="true"` par le biais de mon [plugin de correction microtypographique pour Jekyll](https://github.com/borisschapira/jekyll-microtypo/blob/v0.0.7/lib/jekyll/microtypo.rb#L61).
 
 De [toutes les possibilités](https://codepen.io/vincent-valentin/full/woGLVL "Abbréviations inclusives, un CodePen par Vincent Valentin"), cela m'a semblé être la plus logique à mettre en œuvre _pour moi_, étant donné que j'étais capable d'en surmonter la complexité technique.
 
