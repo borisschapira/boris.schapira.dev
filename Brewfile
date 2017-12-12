@@ -1,1 +1,0 @@
-brew 'sonar-scanner'
