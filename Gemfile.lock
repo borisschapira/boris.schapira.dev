@@ -15,10 +15,10 @@ GIT
 
 GIT
   remote: https://github.com/borisschapira/jekyll-microtypo
-  revision: 3893e37d5299c0de45a793703152c6def8d33016
-  branch: v0.0.7
+  revision: 78915da7a4a1e403e81de6b4fde186a7ed58fbf2
+  branch: v0.1.0
   specs:
-    jekyll-microtypo (0.0.6)
+    jekyll-microtypo (0.1.0)
       jekyll (>= 3.0, < 4.0)
 
 GEM
