@@ -5,7 +5,7 @@ require "yaml"
 
 namespace :prebuild do
 
-  task :test => ["test:doctor", "test:posts"]
+  task :test => ["test:doctor", "test:posts", "npm:install"]
 
   namespace :test do
 
@@ -36,9 +36,21 @@ namespace :prebuild do
 
   end
 
+  namespace :npm do
+    desc "Install node dependencies"
+    task :install do
+      npm("install")
+    end
+  end
+
   # launch jekyll
   def jekyll(directives = '')
     sh 'jekyll ' + directives
+  end
+
+  # launch npm
+  def npm(directives = '')
+    sh 'npm ' + directives
   end
 
 end

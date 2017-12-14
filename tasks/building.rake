@@ -43,6 +43,8 @@ namespace :build do
     jekyll("build --config _config.yml,#{config_file},#{deploy_file}")
     puts 'Cleaning BOMs…'
     sh './scripts/postprocess.sh ./_site'
+    puts 'Compressing with…'
+    npm("run brotli")
   end
 
   #
@@ -57,7 +59,13 @@ namespace :build do
   # launch jekyll
   def jekyll(directives = '')
     sh 'jekyll ' + directives
+  end 
+  
+  # launch npm
+  def npm(directives = '')
+    sh 'npm ' + directives
   end
+
 
   # check if there is another rake task running (in addition to this one!)
   def rake_running
