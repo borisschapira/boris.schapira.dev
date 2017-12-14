@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.4.2'
+ruby '2.4.1'
 
 gem 'gsl'
 gem 'i18n'
@@ -21,7 +21,7 @@ group :jekyll_plugins do
   gem 'jekyll-archives'
   gem 'jekyll-assets'
   gem 'jekyll-livereload'
-  gem 'jekyll-microtypo', git: 'https://github.com/borisschapira/jekyll-microtypo', branch: 'v0.0.7'
+  gem 'jekyll-microtypo', git: 'https://github.com/borisschapira/jekyll-microtypo', branch: 'v0.1.0'
   gem 'jekyll-postfiles'
   gem 'jekyll-cloudinary'
   gem 'jekyll-responsive_image'
