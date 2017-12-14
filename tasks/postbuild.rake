@@ -17,8 +17,6 @@ namespace :postbuild do
     if matchdata
       deploy_dir = matchdata[1]
       sh "rsync --delete-after --exclude .ssh -crvzlOt -e ssh _site/ #{deploy_dir}"
-      time = Time.new
-      File.open("_last_deploy.txt", 'w') {|f| f.write(time) }
     else
       puts "Error! deploy_url not found in _config_deploy.yml"
       exit 1
