@@ -39,7 +39,7 @@
           {% if page.translation %}
             {% assign lang = page.translation.locale | slice: 0,2 %}
             {% capture read_in %}{% t Lire en %} {% if lang == "en" %}{% t anglais %}{% else %}{% t français %}{% endif %}{% endcapture %}
-            <li><a class="{{ lang }}" href="{{ page.translation.url }}"><span class="sr-only">{{ read_in }}</span><svg class="icon flag-{{ lang }}" aria-hidden><use xlink:href="#flag-{{ lang }}"></use></svg></a>
+            <li><a class="{{ lang }}" href="{{ page.translation.url }}"><span class="sr-only">{{ read_in }}</span><svg class="icon flag-{{ lang }}" aria-hidden="true"><use xlink:href="#flag-{{ lang }}"></use></svg></a>
           {% endif %}
         </ul>
       </div>

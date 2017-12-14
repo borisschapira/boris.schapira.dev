@@ -5,8 +5,7 @@ layout: microtypo
 {% assign translations=site.posts | where:"i18n-key", page.i18n-key | sort: 'locale' %}
 {% if translations.size == 0 %}
   {% assign translations=site.html_pages | where:"i18n-key", page.i18n-key | sort: 'locale' %}
-{% endif %}
-<!DOCTYPE html>
+{% endif %}<!DOCTYPE html>
 <html lang="{{ the-locale | slice: 0,2 }}" itemscope itemtype="https://schema.org/WebPage">
 
   {% include head.html.liquid %}
