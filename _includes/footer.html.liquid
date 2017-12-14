@@ -1,5 +1,5 @@
 <noscript>
-<style type="text/css" scoped>
+<style scoped>
 .js {
   display:none;
 }
@@ -26,16 +26,16 @@
   <script crossorigin="anonymous" integrity="sha256-jIAAmB65ff5CEFvV6DRfRWjHFwqq+AHeV4le8f8PYp4=" src="https://cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" ></script>
 {% endif %}
 {% if page.type == 'post' %}
-  {% asset comments.js async %}
+  {% asset comments.js async !type %}
   <script src='https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit'></script>
 {% endif %}
-{% asset index.js async defer %}
+{% asset index.js async defer !type %}
 {% if page.loadTwitterWjs %}
-  {% asset twitter-wjs.js async%}
+  {% asset twitter-wjs.js async !type %}
 {% endif %}
 {% if include.loadSearch %}
-    {% asset search.js async %}
+    {% asset search.js async !type %}
 {% endif %}
 {% if page.permalink == '404.html' %}
-  {% asset 404.js %}
+  {% asset 404.js !type %}
 {% endif %}
