@@ -5,7 +5,11 @@
   {% if page.main_image %}
     {% capture socialImage %}{{ site.url }}/{{ page.main_image }}{% endcapture %}
   {% else %}
-    {% capture socialImage %}{{ site.url }}/assets/images/category/{{ page.category | slugify }}.png{% endcapture %}
+    {% if page.category %}
+      {% capture socialImage %}{{ site.url }}/assets/images/category/{{ page.category | slugify }}.png{% endcapture %}
+    {% else %}
+      {% assign variable = site.author.gravatar %}
+    {% endif %}
   {% endif %}
   {% comment %} Site Name {% endcomment %}
   {% capture socialSitename %}{{ site.name }}{% endcapture %}
