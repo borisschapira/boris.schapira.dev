@@ -8,11 +8,9 @@
 
   <!-- CSS and color -->
   <!-- nomicrotypo -->
-  {% asset core %}
+  {% asset core @inline !type %}
   {% capture themeColor %}{{ site.data.styles.main.color }}{% endcapture %}
-  {% if page.category.size > 0 %}{% capture catdown %}{{ page.category|downcase }}{% endcapture %}{% capture themeColor %}{{ site.data.styles[catdown].color }}{% endcapture %}{% capture main_css_path %}{% asset '{{ site.data.styles[catdown].css }}' @path %}{% endcapture %}{% else %}{% capture main_css_path %}{% asset '{{ site.data.styles.main.css }}' @path %}{% endcapture %}{% endif %}<link rel="preload" href="{{ main_css_path }}" as="style" onload="this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="{{ main_css_path }}"></noscript>
-  {% asset vendors/cssrelpreload.js @inline %}
+  {% if page.category.size > 0 %}{% capture catdown %}{{ page.category|downcase }}{% endcapture %}{% capture themeColor %}{{ site.data.styles[catdown].color }}{% endcapture %}{% asset '{{ site.data.styles[catdown].css }}' @inline %}{% else %}{% asset '{{ site.data.styles.main.css }}' @inline %}{% endif %}
 
   <!-- endnomicrotypo -->
 
