@@ -108,20 +108,14 @@ ready(function () {
             window.grecaptcha.render(rc);
         }
     }
-
-    window._paq = window._paq || [];
-    window._paq.push(['setDocumentTitle', document.title]);
-    window._paq.push(['setCustomUrl', document.location.href]);
-    window._paq.push(['trackPageView']);
-
 });
 
 /* Piwik */
 var _paq = _paq || [];
-// tracker methods like "setCustomDimension" should be called before "trackPageView"
-//_paq.push(['trackPageView']);
+_paq.push(['trackPageView']);
 _paq.push(['enableLinkTracking']);
-(function () {
+
+function embedTrackingCode() {
     var u = "https://filature.borisschapira.com/";
     _paq.push(['setTrackerUrl', u + 'p']);
     _paq.push(['setSiteId', '1']);
@@ -134,4 +128,12 @@ _paq.push(['enableLinkTracking']);
     g.defer = true;
     g.src = u + 'suivre';
     s.parentNode.insertBefore(g, s);
-})();
+};
+
+if (window.addEventListener) { 
+    window.addEventListener("load", embedTrackingCode, false); 
+} else if (window.attachEvent) { 
+    window.attachEvent("onload",embedTrackingCode); 
+} else {
+    embedTrackingCode();
+}
