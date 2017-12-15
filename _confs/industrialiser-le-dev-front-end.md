@@ -37,12 +37,13 @@ L'explication de notre professeur était très simple :
 
 S’il y a bien un domaine dans lequel l’innovation galope en ce moment, c’est le Web. Et le Front ne fait pas exception, avec des navigateurs toujours plus puissants et riches de fonctionnalités. À tel point que les standards sont désormais qualifiés de “vivants”, parce qu'on ne sait plus comment appeler quelque chose de suffisamment peu figé pour évoluer chaque jour.
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2015-10-16/2.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2015-10-16/2.png alt: "Une liste assez longue de termes techniques du Web" %}
-  </a>
-  <figcaption>Le Web aujourd'hui : HTML + JS + CSS ?</figcaption>
-</figure>
+{% capture img_alt %}Une liste assez longue de termes techniques du Web{% endcapture %}
+{% capture img_caption %}Le Web aujourd'hui : HTML + JS + CSS ?{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2015-10-16/2.png"
+    alt=img_alt
+    caption=img_caption 
+%}
 
 Résultat, être intégrateur ou développeur Front-End[^2] en 2015, c’est devoir maîtriser un nombre très important de concepts théoriques et pratiques, les faire vivre dans un espace aux contraintes parfois assez floues, notamment concernant la qualité, l'accessibilité, le support des navigateurs anciens ou l’enrichissement avec les fonctionnalités offertes par les nouveaux. Le tout en prenant en compte le futur pour ne pas être complètement à la rue quand les Web Components viendront tout écraser sur leur passage (quoi, on peut rêver non ?).
 
@@ -62,12 +63,15 @@ Quand vous travaillez à produire pour un client ou un employeur, d'autres quest
 
 Un développeur ou intégrateur qui, à code source égal, est le seul détenteur de la méthode permettant de produire la solution, **est une partie du problème**.
 
-<figure>
 <a href="https://flic.kr/p/bYm7uu" title="Voir sur Flickr">
-      {% responsive_image path: assets/images/2015-10-16/1.jpg alt: "Un chien triste" %}
-  </a>
-  <figcaption><b>pitiful</b> par latteda - CC BY 2.0</figcaption>
-</figure>
+  {% capture img_alt %}Un chien triste{% endcapture %}
+  {% capture img_caption %}<b>pitiful</b> par latteda - CC BY 2.0{% endcapture %}
+  {% include rwd-image.html.liquid 
+      path="/assets/images/2015-10-16/1.jpg"
+      alt=img_alt
+      caption=img_caption 
+  %}
+</a>
 
 Ce dont on parle quand on parle d’industrialisation du développement Front-End, ce n’est pas un ou plusieurs outils. C’est avant tout l'élaboration continue d'un processus destiné à vous faire gagner du temps, du confort et, au final, de la confiance. Ce processus s'articule autour de plusieurs besoins à qualifier.
 
