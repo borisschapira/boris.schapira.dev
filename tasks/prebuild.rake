@@ -5,7 +5,8 @@ require "yaml"
 
 namespace :prebuild do
 
-  task :test => ["test:doctor", "test:posts", "npm:install"]
+  task :npm => ["npm:install", "npm:build"]
+  task :test => ["test:doctor", "test:posts"]
 
   namespace :test do
 
@@ -40,6 +41,11 @@ namespace :prebuild do
     desc "Install node dependencies"
     task :install do
       npm("install")
+    end
+
+    desc "Build CSS and JS"
+    task :build do
+      npm("run build")
     end
   end
 
