@@ -21,12 +21,13 @@ Difficile pour un développeur, en 2013, de ne pas savoir se servir de GitHub. B
 
 Ce qui avait commencé, en octobre 2007, comme un projet personnel, sans intention commerciale, est devenu aujourd’hui un pilier central de la collaboration logicielle et permet, chaque jour, à des milliers de développeurs de travailler ensemble à travers le monde.
 
-<figure>
-  <a href="https://davidfischer.github.io/gdc2/#languages/All">
-    {% responsive_image path: assets/images/2013-11-14/1.png alt: "Une carte naïve du monde, avec des zones accentuées" %}
-  </a>
-  <figcaption>Projet de visualisation des données de la Timeline publique de GitHub, par David Fischer.</figcaption>
-</figure>
+{% capture img_alt %}Une carte naïve du monde, avec des zones accentuées{% endcapture %}
+{% capture img_caption %}Projet de visualisation des données de la Timeline publique de GitHub, par David Fischer.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2013-11-14/1.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Si vous ou votre organisation ne partagez pas de code sur GitHub, vous devriez. Et bientôt, les entreprises de production de logiciels ne seront plus seules…
 
@@ -36,12 +37,13 @@ GitHub est né de la volonté commune de Tom Preston-Werner et Chris Wanstrath d
 
 Il est désormais possible, pour n’importe quel développeur de créer un dépôt, d’y héberger un projet, de le documenter sous la forme d’un site Web [GitHub.io](https://pages.github.com/ "GitHub.io, plate-forme d&#039;hébergement associée aux projets GitHub") et de le proposer à la Communauté. Il peut lui-même s’approprier d’autres projets, y corriger des erreurs ou y apporter son savoir-faire puis proposer ses corrections au créateur du projet d’origine… ou non. GitHub permet et facilite ces interactions, tout en proposant les fonctionnalités d’un réseau social, comme la possibilité de personnaliser son profil ou celle de s’inscrire à l’activité d’un autre utilisateur.
 
-<figure>
-  <a href="https://octodex.github.com/codercat/">
-    {% responsive_image path: assets/images/2013-11-14/2.jpg alt: "Un dessin représentant une chimère chat/poulpe, déguisée en développeur" %}
-  </a>
-  <figcaption>&laquo;&nbsp;The CoderCat&nbsp;&raquo;, un des très nombreux détournements de la mascotte de GitHub, l’Octocat, par Cameron McEfee.</figcaption>
-</figure>
+{% capture img_alt %}Un dessin représentant une chimère chat/poulpe, déguisée en développeur{% endcapture %}
+{% capture img_caption %}&laquo;&nbsp;The CoderCat&nbsp;&raquo;, un des très nombreux détournements de la mascotte de GitHub, l’Octocat, par Cameron McEfee.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2013-11-14/2.jpg"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Reposant sur sa simplicité d’usage, tout en offrant une qualité de service et un contrôle des données de premier ordre, la plate-forme a connu un succès fulgurant. Arrivé au million d’utilisateurs en trois ans environ, GitHub en héberge désormais plus de trois millions et met moins de cinq mois à acquérir chaque million d’utilisateurs supplémentaire.
 
@@ -53,12 +55,13 @@ A cela s’ajoute qu’il est plus motivant de travailler à plusieurs que seul&
 
 Mais si GitHub remporte autant de succès, c’est aussi qu’il intervient au bon moment&nbsp;: ce second âge d’or de l’Open Source. Ces dernières années ont vu à la fois naître des projets de qualité qui sont toujours en cours de développement ([Android](https://github.com/android "Profil GitHub pour le projet Android"), [Hadoop](https://github.com/apache/hadoop-common "Dépôt du projet Hadoop Common"), [MongoDb](https://github.com/mongodb/mongo "Dépôt du projet MongoDB"), …) mais aussi une grande évolution des mentalités face à l’Open Source, notamment en entreprise où l’on remarque une disparition progressive, sinon totale, de l’opposition des plus traditionnels. Certains employeurs encouragent même leurs salariés à contribuer sur des projets, quand ce ne sont pas des villes (comme [Chicago](https://github.com/Chicago/ "Profil GitHub de la ville de Chicago")), de grandes institutions du savoir comme la [NASA](https://github.com/nasa "Profil GitHub de la NASA") ou même des gouvernements (comme le [Royaume-Uni](https://github.com/alphagov "Profil GitHub du Royaume-Uni") ou [les États-Unis](https://github.com/unitedstates "Profil GitHub des États-Unis")).
 
-<figure>
-  <a href="https://octodex.github.com/baracktocat/">
-    {% responsive_image path: assets/images/2013-11-14/3.jpg alt: "Un dessin représentant une chimère chat/poulpe, pasticheant la campagne &laquo;&nbsp;Yes We Can&nbsp;&raquo; de Barack Obama" %}
-  </a>
-  <figcaption>&laquo;&nbsp;The Baraktocat&nbsp;&raquo;, par Cameron McEfee</figcaption>
-</figure>
+{% capture img_alt %}Un dessin représentant une chimère chat/poulpe, pasticheant la campagne &laquo;&nbsp;Yes We Can&nbsp;&raquo; de Barack Obama{% endcapture %}
+{% capture img_caption %}&laquo;&nbsp;The Baraktocat&nbsp;&raquo;, par Cameron McEfee{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2013-11-14/3.jpg"
+    alt=img_alt
+    caption=img_caption
+%}
 
 L’inverse se produit également&nbsp;: des entreprises, [comme OVH](http://www.ovh.com/fr/a1136.interview-github-octave-klaba-ovh "Interview d"), refusent que leurs salariés participent à des projets sur GitHub. Pourquoi&nbsp;? Tout simplement parce qu’elles reconnaissent la capacité de GitHub à valoriser un profil et craignent la fuite des cerveaux. Une opposition en forme de succès pour la plate-forme.
 
@@ -81,12 +84,13 @@ Certains, [comme Loren](https://www.penflip.com/ "Article de Loren sur la possib
 
 Ce processus, classique, est entièrement supporté par la plate-forme, mais elle n'est pas forcément adaptée en termes de design. L'idée a cependant servi de support à la création de [Penflip](https://www.penflip.com/ "Penflip, plate-forme d")… et à d'autres initiatives, plus orientées vers le design visuel ou industriel, la musique. C'est par exemple le cas de [Splice](https://splice.com/ "Splice, plate-forme de production musicale collaborative"), qui devrait ouvrir ses portes prochainement. Y retrouvera-t-on les grands de l'Electro française (et mondiale)&nbsp;?
 
-<figure>
-  <a href="https://octodex.github.com/daftpunktocat-thomas/">
-    {% responsive_image path: assets/images/2013-11-14/4.gif alt: "Un dessin représentant une chimère chat/poulpe, déguisée en un des Daft Punk" %}
-  </a>
-  <figcaption>&laquo;&nbsp;The Daftpunktocat (Thomas)&nbsp;&raquo;, par James Kang</figcaption>
-</figure>
+{% capture img_alt %}Un dessin représentant une chimère chat/poulpe, déguisée en un des Daft Punk{% endcapture %}
+{% capture img_caption %}&laquo;&nbsp;The Daftpunktocat (Thomas)&nbsp;&raquo;, par James Kang{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2013-11-14/4.gif"
+    alt=img_alt
+    caption=img_caption
+%}
 
 ## Quelques liens, pour en savoir plus
 

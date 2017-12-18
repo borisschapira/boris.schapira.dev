@@ -23,12 +23,13 @@ Matthieu n’est pas du genre à prendre une décision à la légère, surtout l
 
 Matthieu n’est pas tatillon, loin de là, mais ses responsabilités et sa conscience professionnelle l’obligent à mesurer chaque évolution du site Internet de son entreprise, de manière à assurer l’amélioration de l’ensemble des indicateurs clés à chaque livraison.
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2014-03-13/1.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/1.jpg alt: "Un crayon écrit un point d'interrogation sur un carnet" %}
-  </a>
-  <figcaption>"Questioned Proposal" par Ethan Lofton - CC BY 2.0</figcaption>
-</figure>
+{% capture img_alt %}Un crayon écrit un point d'interrogation sur un carnet{% endcapture %}
+{% capture img_caption %}"Questioned Proposal" par Ethan Lofton - CC BY 2.0{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2014-03-13/1.jpg"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Mais parfois, il faut l’avouer, Matthieu ne sait pas. Il hésite. Il se pose des questions : cette fonctionnalité va-t-elle améliorer les choses ? Cette nouvelle façon de communiquer incitera-t-elle les clients à venir visiter le site ? Et ce nouveau tunnel de paiement, est-il vraiment plus performant que l’ancien ?
 <h2>Les Tests A/B, c’est simple et objectif</h2>
@@ -50,12 +51,13 @@ Matthieu réfléchit à l’implémentation concrète. Sa première contrainte e
 
 Qu’à cela ne tienne, il décide de franchir le pas malgré tout et demande à son équipe de développement de le suivre sur un premier essai. Il choisit spécifiquement une modification qui ne nécessite pas de changement d’infrastructure : un variante visuelle au sein d’une page.
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2014-03-13/2.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/2.png alt: "Un prototype visuel d'une page produit d'un site e-commerce" %}
-  </a>
-  <figcaption>Maquette de la fiche produit : la zone jaune incluera soit un visuel du produit (version A), soit une vidéo (version B)</figcaption>
-</figure>
+{% capture img_alt %}Un prototype visuel d'une page produit d'un site e-commerce{% endcapture %}
+{% capture img_caption %}Maquette de la fiche produit : la zone jaune incluera soit un visuel du produit (version A), soit une vidéo (version B){% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2014-03-13/2.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Il hésite, puis décide finalement de tester l’affichage de l’image produit sur le gabarit “Fiche Produit” du site e-commerce. La version courante, avec l’image produit à gauche de sa description, sera considérée comme la version de contrôle, la version A. Sur la version B, c’est une vidéo du produit qui sera affichée. Depuis le temps que le département Marketing dit qu’il faut mettre davantage de vidéo, il est temps de le vérifier !
 
@@ -120,12 +122,13 @@ Fiers de ce succès, l’équipe de Matthieu se voit confier de plus en plus de 
 
 Heureusement, certains tests continuent à être possibles. L’équipe Marketing demande notamment un Split testing sur la Home sur site Corporate. Cela signifie que seront testées des versions complètement différentes de la page. Pourquoi pas, se dit Matthieu...
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2014-03-13/3.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/3.jpg alt: "Un panneau indicateur pour la Rue d'Enfer" %}
-  </a>
-  <figcaption>"Rue d’Enfer" par Frédéric Bisson - CC BY 2.0</figcaption>
-</figure>
+{% capture img_alt %}Un panneau indicateur pour la Rue d'Enfer{% endcapture %}
+{% capture img_caption %}"Rue d’Enfer" par Frédéric Bisson - CC BY 2.0{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2014-03-13/3.jpg"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Malheureusement, cette demande s’ajoute aux autres, plus nombreuses, et certaines concernent des pages similaires. Les utilisateurs pourraient ainsi subir sans le savoir plusieurs tests A/B au sein d’une même page. Sur la fiche produit, par exemple :
 
@@ -165,12 +168,13 @@ Matthieu sait donc qu'il devra passer par une phase de veille et de sélection d
 
 La première d’entre elles concerne la fonction d’adaptation. En effet, tout chantier d’optimisation consiste à approcher la meilleure des solutions en comparant plusieurs variations. Ceci étant, cela ne veut pas dire qu’il s’agit de la meilleure variation dans l’absolu. Ce n’est pas parce qu’on aboutit à un optimum local (autour de la situation d’origine) qu’il n’existe pas une variante très éloignée produisant de meilleurs résultats.
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2014-03-13/5.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/5.png alt: "A 3D representation of a local maximum" %}
-  </a>
-  <figcaption>Sometimes, optimization is an illusion. The real objective is higher.</figcaption>
-</figure>
+{% capture img_alt %}A 3D representation of a local maximum{% endcapture %}
+{% capture img_caption %}Sometimes, optimization is an illusion. The real objective is higher.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2014-03-13/5.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Imaginons, par exemple, que nous procédions à une analyse multivariée composée de deux tests ayant chacun une quinzaine de variations (le cas est extrême, mais il sert la démonstration). Jouer sur les variations des deux tests consiste alors à se déplacer sur le plan jaune du graphe ci-joint, à la recherche d’un maximum de performance. Rien ne nous permettrait, une fois arrivés en haut du sommet jaune, de savoir qu’il en existe un plus grand sommet ailleurs et que nous l’aurions trouvé en poursuivant nos tests sur un plus grand nombre de variations.
 
@@ -184,12 +188,13 @@ Ajoutons à cela plusieurs autres limites évidentes :
 	<li>l’A/B Testing est un outil court-termiste qui ne prend pas en compte la courbe d’apprentissage de vos visiteurs. Sa pertinence n’est donc pas la même pour un vendeur de masse et une entreprise dont les produits sont élaborés et le processus de vente très réfléchi</li>
 </ul>
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2014-03-13/4.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/4.jpg alt: "Une jeune femme pensive" %}
-  </a>
-  <figcaption>"Thinking" par Moyan Brenn - CC BY 2.0</figcaption>
-</figure>
+{% capture img_alt %}Une jeune femme pensive{% endcapture %}
+{% capture img_caption %}"Thinking" par Moyan Brenn - CC BY 2.0{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2014-03-13/4.jpg"
+    alt=img_alt
+    caption=img_caption
+%}
 
 <h2>Les Tests A/B, au final</h2>
 

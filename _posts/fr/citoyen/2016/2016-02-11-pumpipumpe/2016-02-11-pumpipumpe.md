@@ -15,11 +15,12 @@ J'ai commandé des [Pumpipumpe](http://www.pumpipumpe.ch/ca-functionne-ainsi/), 
 
 J'espère que certains voisins adhéreront également. L'envoi n'est pas cher et il existe même une [carte en ligne](http://www.pumpipumpe.ch/map/page_v2/) des gens qui participent.
 
-<figure>
-  <a data-featherlight="image" href="/assets/images/2016-02-20/1.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2016-02-20/1.jpg alt: "Une boite au lettre rouge sur laquelle des autocollants Pumpipumpe ont été apposés" %}
-  </a>
-  <figcaption>Les autocollants sont suffisement petits pour qu'on puisse en loger autant que voulu sur une boîte.</figcaption>
-</figure>
+{% capture img_alt %}Une boite au lettre rouge sur laquelle des autocollants Pumpipumpe ont été apposés{% endcapture %}
+{% capture img_caption %}Les autocollants sont suffisement petits pour qu'on puisse en loger autant que voulu sur une boîte.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2016-02-20/1.jpg"
+    alt=img_alt
+    caption=img_caption
+%}
 
 À suivre…

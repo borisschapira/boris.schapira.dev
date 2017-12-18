@@ -14,12 +14,13 @@ Pendant que le petit faisait sa sieste, j'ai appris au grand à utiliser le <em 
 
 J'ai commencé par lui montrer comment dessiner un petit loup :
 
-<figure>
-  <a data-featherlight="image" href="/assets/images/papa/2016-01-27/1.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/papa/2016-01-27/1.png alt: "Le logo de GIMP (un petit loup avec un pinceau dans la bouche) en dessin naif" %}
-  </a>
-  <figcaption>Quel talent ! À se demander pourquoi j'ai encore besoin de graphistes !</figcaption>
-</figure>
+{% capture img_alt %}Le logo de GIMP (un petit loup avec un pinceau dans la bouche) en dessin naif{% endcapture %}
+{% capture img_caption %}Quel talent ! À se demander pourquoi j'ai encore besoin de graphistes !{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/papa/2016-01-27/1.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Ensuite, j'ai réalisé un dessin sous sa dictée :
 
@@ -30,12 +31,13 @@ Ensuite, j'ai réalisé un dessin sous sa dictée :
 
 Puis il a appris à manipuler lui-même le curseur pour poser des étoiles de toutes les couleurs :
 
-<figure>
-  <a data-featherlight="image" href="/assets/images/papa/2016-01-27/2.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/papa/2016-01-27/2.png alt: "Notre bonhomme-patate des étoiles, barbu à cheveux longs" %}
-  </a>
-  <figcaption>Martin Vidberg n'a qu'à bien se tenir, la concurrence arrive !</figcaption>
-</figure>
+{% capture img_alt %}Notre bonhomme-patate des étoiles, barbu à cheveux longs{% endcapture %}
+{% capture img_caption %}Martin Vidberg n'a qu'à bien se tenir, la concurrence arrive !{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/papa/2016-01-27/2.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Il a ensuite appris à dessiner des traits et a décidé de réaliser son propre dessin, complètement réalisé par lui.
 

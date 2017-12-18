@@ -29,12 +29,13 @@ Il n’y a pas de façon "standard" de mesurer la performance web mais plusieurs
 
 La mesure de la performance du site passe alors par la compréhension de plusieurs indicateurs&nbsp;:
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2012-07-31/1.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2012-07-31/1.png alt: "Schéma présentant les différentes étapes du chargement d'une page Web" %}
-  </a>
-  <figcaption>Les différentes étapes du chargement d'une page Web</figcaption>
-</figure>
+{% capture img_alt %}Schéma présentant les différentes étapes du chargement d'une page Web{% endcapture %}
+{% capture img_caption %}Les différentes étapes du chargement d'une page Web{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2012-07-31/1.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 ## Le "Time To First Byte"
 

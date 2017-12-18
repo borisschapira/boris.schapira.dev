@@ -15,12 +15,13 @@ Si comme moi vous développez en .NET depuis un bout de temps, vous avez probabl
 
 <!-- more -->
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2011-06-08/il_spy.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2011-06-08/il_spy.png alt: "Capture d'écran de IL.Spy" %}
-  </a>
-  <figcaption>IL.Spy est une alternative à Reflector</figcaption>
-</figure>
+{% capture img_alt %}Capture d'écran de IL.Spy{% endcapture %}
+{% capture img_caption %}IL.Spy est une alternative à Reflector{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2011-06-08/il_spy.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 En ce moment, je teste [IL.Spy](http://ilspy.net/ "Site officiel de IL.Spy"), une solution gratuite et open-source, pas aussi développée que Reflector mais qui convient à mes besoins. J'ai également installé dans un coin [dotPeek de JetBrains](http://www.jetbrains.com/decompiler/ "Site officiel de dotPeek, le décompiler de JetBrains"), mais les premiers lancements ne sont pas concluants&nbsp;: la solution est très lente.
 

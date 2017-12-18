@@ -22,12 +22,13 @@ HTML5 apporte son lot de nouvelles balises, dont `nav` et `aside`. L'élément `
 
 Après de telles définitions, le découpage est aisé&nbsp;: au sein d'une balise `section` définissant le corps du site, la barre latérale sera contenue dans un élément de type `aside`. Attention cependant, tout ce que contient votre barre latérale n'a pas vocation à être contenu dans un élément `nav`&nbsp;!
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2010-05-03/sidebar.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-05-03/sidebar.png alt: "Une capture de la sidebar du blog au moment où j'écris ces ligne, avec des zones numérotées" %}
-  </a>
-  <figcaption>La barre latérale de BorisSchapira.com</figcaption>
-</figure>
+{% capture img_alt %}Une capture de la sidebar du blog au moment où j'écris ces ligne, avec des zones numérotées{% endcapture %}
+{% capture img_caption %}La barre latérale de BorisSchapira.com{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2010-05-03/sidebar.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Prenons l'exemple de la barre latérale de ce site au moment où j'écris ces lignes. Les éléments 4 et 7 sont manifestement destinés à accueillir des éléments de navigation mais cela n'est pas le cas des éléments 1, 2 et 6 qui contiennent des sections indépendantes mais informatives sur le site. Plusieurs `div` feront très bien l'affaire. Les sections 3 et 5, enfin, sont des listes de liens. En tant que listes, elles seront contenues dans des éléments `ul`, `li` et évidemment `a` auxquels auront été ajouté l'attribut `rel="external"`, dédié aux liens externes.
 

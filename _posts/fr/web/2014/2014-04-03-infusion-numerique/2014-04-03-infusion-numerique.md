@@ -28,12 +28,13 @@ Je suis également persuadé qu'une mutation lente va, durant dix prochaines ann
 
 Ces profils existent déjà. Je les croise lors de mes missions. Ils ne sont pas informaticiens, mais comptables, secrétaires, commerciaux, politiques, journalistes… Et même parfois ouvriers, agents d'entretien, chauffeurs… Ils sont souvent précurseurs au sein de leurs structures et n'ont besoin de notre aide que pour appuyer des stratégies numériques déjà amorcées, ou pour les inscrire dans la durée. Ils se renseignent, apprennent, influencent et mettent en place les briques d'un système d'information sans même le savoir.
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2014-04-03/1.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-04-03/1.png alt: "Un schéma montrant que devant une tâche répétitive, les &quot;geeks&quot; perdent du temps à mettre en place une solution algorithmique… qui s'avère rentable sur le long terme." %}
-  </a>
-  <figcaption>Gestion des tâches répétitives par les "geeks" et les "non-geeks". Difficile de trouver la paternité, même si plusieurs sources remontent à Bruno Oliveira.</figcaption>
-</figure>
+{% capture img_alt %}Un schéma montrant que devant une tâche répétitive, les &quot;geeks&quot; perdent du temps à mettre en place une solution algorithmique… qui s'avère rentable sur le long terme.{% endcapture %}
+{% capture img_caption %}Gestion des tâches répétitives par les "geeks" et les "non-geeks". Difficile de trouver la paternité, même si plusieurs sources remontent à Bruno Oliveira.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2014-04-03/1.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Je pense à ce boulanger, auquel un apprenti avait installé un outil de gestion de la relation client (CRM) pour la gestion de ses ventes en nombre aux entreprises. J'ai également en tête ces danseuses qui étaient allés chercher des étudiants en informatique pour les aider à réaliser un projet de spectacle dynamique où le public pourrait visualiser et influencer les chorégraphies via son smartphone. Arrivés sur place, les étudiants avaient la surprise de voir que les danseuses avaient uniquement besoin d'eux pour des détails, ayant appris sans eux à produire un site web mobile. Et je ne parle même pas de tous ces journalistes qui découvrent, les uns le Web en tant que médium, les autres les joies du _fact-checking_, véritable expertise de la donnée ou de ces élus locaux qui entre-aperçoivent le potentiel participatif du Web pour une meilleure répartition du pouvoir entre élus et citoyens.
 

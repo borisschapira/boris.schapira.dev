@@ -12,21 +12,21 @@ publishDate: '2009-07-27'
 locale: fr_FR
 ---
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2009-07-27/1.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2009-07-27/1.jpg alt: "Photos de la souris sous toutes les coutures" %}
-  </a>
-</figure>
+{% capture img_alt %}Photos de la souris sous toutes les coutures{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2009-07-27/1.jpg"
+    alt=img_alt
+%}
 
 Après le [test de l'Arc Mouse](/2009/02/microsoft-arc-mouse-avis-personnel/)], voici que Microsoft Hardware m'envoie la Wireless Mobile Mouse 6000 en test. En voyant arriver cette souris d'un design assez commun, je sous-estimais profondément sa capacité à me rendre accro…
 
 **Installation (sous Windows)&nbsp;:** A l'instar de l'Arc Mouse, l'installation est simplissime. Une toute petite clé USB sort de la souris sur pression d'un bouton. Une fois branchée sur le PC, elle dépasse d'à peine 3 ou 4 millimètres. Les pilotes sont inclus, ce qui assure une utilisation immédiate sur tout système Windows (j'ai essayé XP, Vista et Windows 7). **20/20**
 
-<figure>
-  <a data-featherlight="image" href="/assets/images/2009-07-27/2.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2009-07-27/2.jpg alt: "Dimensions de la souris" %}
-  </a>
-</figure>
+{% capture img_alt %}Dimensions de la souris{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2009-07-27/2.jpg"
+    alt=img_alt
+%}
 
 **Design :** d'une forme au classicisme éprouvé, la souris surprend néanmoins grâce à la présence de surfaces aggripantes sur les côtés. La prise en mais n'en est que plus rapide et plus agréable. Les contours chromés flattent le regard et donnent de la présence à cette mini-souris d'à peine 10 centimètres. Sa taille réduite lui permet de trouver sa place un peu partout. **20/20**
 

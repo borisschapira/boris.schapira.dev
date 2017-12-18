@@ -47,12 +47,13 @@ Full of confidence, Matthew looks for a few examples to help convince senior man
 
 Matthew is thinking about concrete implementation steps. His first constraint is the difficulty to set up two simultaneous versions. It is a strong constraint for Matthew, who realizes that he will not be able to run as many A/B tests as necessary: his company's IT infrastructure is limited and he cannot request new servers and gateways to extend the architectural framework as much as he would need to. Nevermind that, he decides to make the move anyway and sets his development team to work. He specifically chooses an alteration that does not require any change in infrastructure: a visual variation within a page.
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2014-03-13/2.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/2.png alt: "A wireframe of the product page of an ecommerce website" %}
-  </a>
-  <figcaption>Product page template: the yellow area will feature either a picture of the product (version A) or a video (version B)</figcaption>
-</figure>
+{% capture img_alt %}A wireframe of the product page of an ecommerce website{% endcapture %}
+{% capture img_caption %}Product page template: the yellow area will feature either a picture of the product (version A) or a video (version B){% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2014-03-13/2.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 After hesitating for a while, he finally decides to evaluate the display of the product image on the "Product Page" template of the e-commerce website. The current version, with the product image to the left of the description, will be considered as the control version (version A). On version B, a video of the product will be displayed instead. The Marketing Department has been insisting that we should use more video, the time has come to verify these claims! But an analytical problem then arises: how can the effectiveness of one version over the other be measured? Many indicators can be used to evaluate user experience: successful sales, abandoned carts, time-based measurements, bounce rate measurements... After careful consideration, the team makes a choice: the add-to-cart action will be the criterion for a successful version. The more a product gets added to cart, the more effective the version. Next arises a technical problem: for the sake of consistency, Matthew wants that users who have been directed to a specific version stay on that version for the entire duration of the test — displaying either a picture or a video completely at random is out of the question! So the team creates a cookie that will store the appropriate version for the current visitor at the time when that version is assigned. For each visitor, the system will then test whether the cookie exists and if it does, it will display the relevant version. The last step is to decide which version will be displayed on a customer's first visit. Again, a choice must be made regarding the way users are handled: What proportion of visitors will see version B? Based on what criteria will they be selected? What area of the website will be affected by the test: all product pages or only some of them? To avoid influencing the results, A/B testing methodology requires using a completely independent criterion, but finding one is not so easy! Matthew and his team finally decide to use a random assignment approach and display the control version to 99% of users and version B to only 1% of them, on the entire site. This means that if version B does not fulfill expectations, the impact on business will be limited. Matthew realizes that, under the guise of objectivity, the team has made a number of highly subjective choices:
 
@@ -97,12 +98,13 @@ A quick look at the ratio between the number of add-to-cart clicks and the numbe
 
 Eventually, Matthew and his team perform a new test with better measurements and a more significant volume, allowing them to isolate the results. Contrary to their initial impressions, version B is less effective. The website is completely rolled back to the version displaying a product image. Even though Matthew is frustrated about not understanding the reasons behind this result — since he thought video could only be more appealing — he is still satisfied with what he has achieved and he receives praise from his superiors. As they are reveling in their success, Matthew's team starts receiving an increasing amount of test requests, mostly from their marketing colleagues who have found in these tests a great way for measuring visitor activity. But many technical problems emerge because some of these tests, which seem rather straightforward on paper, actually require maintaining multiple software architectures that are not compatible with each other. Matthew and his team have to put these tests on hold while they rewrite parts of the code to be able to inject dependencies. At the same time, other requests — also on hold for an unspecified period of time — require changes to the technical infrastructure. So many expenditures that were not budgeted... Fortunately, it is still possible to run some of the tests. Among them, the marketing team is asking for a split test on the home page of the corporate site. This means that entirely different versions of the page will be tested. Well, why not, thinks Matthew...
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2014-03-13/3.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/3.jpg alt: "A street name on a wall, stating 'Rue d'enfer', french for Hell's street" %}
-  </a>
-  <figcaption>"Rue d’Enfer" by Frédéric Bisson - CC BY 2.0</figcaption>
-</figure>
+{% capture img_alt %}A street name on a wall, stating 'Rue d'enfer', french for Hell's street{% endcapture %}
+{% capture img_caption %}"Rue d’Enfer" by Frédéric Bisson - CC BY 2.0{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2014-03-13/3.jpg"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Unfortunately, this request adds to the pile of other requests, some of which actually concern similar pages. Potentially, users could unknowingly undergo several A/B tests within a single page. On the product page, for example:
 
@@ -132,12 +134,13 @@ So Matthew knows that he will need to do some more research on these products an
 
 The first of these limitations lies in the adaptation capability. Any optimization project consists in getting closer to the best solution by comparing several variations. But it does not mean that the most successful one is the absolute best of all variations. Just because a local optimum is reached (around the original conditions) does not mean that there is no other, very different variation producing better results.
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2014-03-13/5.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/5.png alt: "Une représentation mathématique en 3D présentant un maximum local" %}
-  </a>
-  <figcaption>Parfois, on a l'illusion de l'optimisation. Alors que le sommet est plus loin.</figcaption>
-</figure>
+{% capture img_alt %}Une représentation mathématique en 3D présentant un maximum local{% endcapture %}
+{% capture img_caption %}Parfois, on a l'illusion de l'optimisation. Alors que le sommet est plus loin.{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2014-03-13/5.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 For instance, let us imagine that we proceed to a multivariate analysis consisting of two tests, each with about fifteen variations (the scenario is extreme, but it serves the demonstration well). In this case, experimenting with the variations of both tests consists in moving along the yellow plane of [the graph](http://blog.clever-age.com/wp-content/uploads/sites/2/2014/03/WebPerf-Waterfall.png), in search of the best possible performance. Once at the highest point of the yellow peak, nothing tells us that there is actually a higher peak elsewhere and that we would have found it, had we continued our tests with a greater number of variations. Moreover, an A/B test will never say what we want it to say. In Matthew's example with the product image vs. product video, the test's result was that product images were the most effective solution, but Matthew has no clue that this is probably the consequence of two factors: on the one hand, users are accustomed to viewing videos in landscape rather than portrait mode, and on the other hand, they are unable to stay focused when presented with an interactive medium. Promoting A/B testing is certainly a good thing... as long as you ask professionals to help you understand how to interpret their results! In addition, there are a number of other obvious limitations:
 

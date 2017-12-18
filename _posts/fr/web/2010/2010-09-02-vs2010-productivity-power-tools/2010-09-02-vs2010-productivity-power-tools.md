@@ -23,34 +23,37 @@ L’extension Productivity Power Tools ajoute à votre environnement trois formi
 
 Solution Navigator est un mariage entre le Solution Explorer et le Class Viewer. Avec, vous pouvez explorer vos fichiers pour faire apparaître vos classes et leurs membres tout en filtrant l’affichage (fichiers ouverts, non-sauvegardés ou édités seulement). Mais la fonctionnalité-clé est sûrement la recherche dynamique, qui permet de trouver rapidement, dans une solution massive, les fichiers, classes ou membres comportant une certaine chaîne de caractère. Le Solution Navigator ne remplacera pas tout de suite votre Solution Explorer car il a encore quelques lacunes dans la gestion des fichiers (déplacement, sélection multiple) mais l’utiliser est très addictif.
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2010-09-02/VS2010_ProductivityPowerTools_SolutionNavigator.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-09-02/VS2010_ProductivityPowerTools_SolutionNavigator.png %}
-  </a>
-  <figcaption>Solution Navigator</figcaption>
-</figure>
+{% capture img_alt %}Capture de l'écran Solution Navigator{% endcapture %}
+{% capture img_caption %}Solution Navigator{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2010-09-02/VS2010_ProductivityPowerTools_SolutionNavigator.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 ### Quick Access
 
 Quick Access est l’outil idéal pour apprendre à utiliser Visual Studio ou en tirer le meilleur. Il vous permet, via une interface de recherche dynamique, de trouver et d’exécuter des tâches avec Visual Studio. Plus besoin de fouiller dans les menus à la recherche d’une fonctionnalité&nbsp;: tapez son nom et elle apparaitra. Quick Access facilite ainsi l’ouverture d’une fenêtre d’outils, le lancement d’une compilation, la création d’un projet à partir d’un Template…
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2010-09-02/VS2010_ProductivityPowerTools_QuickAccess.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-09-02/VS2010_ProductivityPowerTools_QuickAccess.png %}
-  </a>
-  <figcaption>Quick Access</figcaption>
-</figure>
+{% capture img_alt %}Capture de l'écran Quick Access{% endcapture %}
+{% capture img_caption %}Quick Access{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2010-09-02/VS2010_ProductivityPowerTools_QuickAccess.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 ### Fenêtre Add Reference améliorée
 
 Celle nouvelle fenêtre facilite et accélère l’ajout de références à votre projet. Remplaçant la fenêtre d’ajout de références standard, elle se permet se mettre en cache les informations d’Assembly à la première utilisation. Ainsi, lors d’un lancement ultérieur, la fenêtre s’affiche en moins de deux secondes. Indispensable.
 
-<figure>
-<a data-featherlight="image" href="/assets/images/2010-09-02/VS2010_ProductivityPowerTools_AddReference.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-09-02/VS2010_ProductivityPowerTools_AddReference.png %}
-  </a>
-  <figcaption>Add Reference</figcaption>
-</figure>
+{% capture img_alt %}Capture de l'écran Add Reference{% endcapture %}
+{% capture img_caption %}Add Reference{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2010-09-02/VS2010_ProductivityPowerTools_AddReference.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 ### Autres améliorations
 

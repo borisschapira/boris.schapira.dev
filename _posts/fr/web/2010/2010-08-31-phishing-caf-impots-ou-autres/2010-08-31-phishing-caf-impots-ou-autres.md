@@ -18,12 +18,13 @@ Je me permets aujourd'hui de citer une fameuse légende d'un tableau de  [René
 
 Ce mail n'a bien sûr rien à voir avec la CAF. En cliquant sur le lien fourni,  la victime arrive sur une page qui imite le site de la CAF et l'incite à entrer des informations confidentielles. Nul doute que quelqu'un de mal attentionné passera après pour détourner ses prestations sociales…
 
-<figure>
-  <a data-featherlight="image" href="/assets/images/2010-08-31/1.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-08-31/1.jpg alt: "Capture d'écran de la tentative de phishing" %}
-  </a>
-  <figcaption>Tentative de Phishing imitant un courrier de la CAF</figcaption>
-</figure>
+{% capture img_alt %}Capture d'écran de la tentative de phishing{% endcapture %}
+{% capture img_caption %}Tentative de Phishing imitant un courrier de la CAF{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2010-08-31/1.jpg"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Soyez vigilants, ce genre de mail est courant et peut imiter un courrier de la CAF comme une lettre des impôts ou tout autre chose. Ce n'est pas parce que le courrier est en français et dispose d'un en-tête ressemblant à la réalité qu'il est ce qu'il dit être.
 

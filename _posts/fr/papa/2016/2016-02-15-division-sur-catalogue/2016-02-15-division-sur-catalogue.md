@@ -51,12 +51,13 @@ Je crois que l'influence de ces catalogues est terrible, car ils présentent un 
 
 Même dans le respect d'une licence importante comme un film Disney, le message est déformé. Prenons "Brave" (Rebelle) et son héroine Mérida : une jeune archère forte et audacieuse, têtue, qui n'a pas peur de déchirer sa robe et de vivre <em lang="en">into the wild</em>. Une occasion en or pour une marque habituée à mettre en scène l'affrontement de changer la perception des femmes en proposant des jouets qui viennent empiéter dans l'imaginaire "garçons" !
 
-<figure>
-  <a data-featherlight="image" href="/assets/images/2016-02-01/1.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2016-02-01/1.jpg alt: "Publicité pour le &quot;Nerf Rebelle Agent Secret Pistolet&quot;" %}
-  </a>
-  <figcaption>Bah non, mon bon monsieur : quand les filles se tirent dessus, c'est pour s'envoyer des messages secrets écrits du bout de leurs ongles vernis sur des flèches en paillettes, bien sûr !</figcaption>
-</figure>
+{% capture img_alt %}Publicité pour le "Nerf Rebelle Agent Secret Pistolet"{% endcapture %}
+{% capture img_caption %}Bah non, mon bon monsieur : quand les filles se tirent dessus, c'est pour s'envoyer des messages secrets écrits du bout de leurs ongles vernis sur des flèches en paillettes, bien sûr !{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2016-02-01/1.jpg"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Si votre fille veut devenir pompier, il faudra qu'elle comprenne qu'il s'agit d'un métier d'homme. À la place, on lui proposera plutôt des images favorisant son épanouissement dans des rôles de fantaisie, de création "mode" ou de tâches ménagères.
 

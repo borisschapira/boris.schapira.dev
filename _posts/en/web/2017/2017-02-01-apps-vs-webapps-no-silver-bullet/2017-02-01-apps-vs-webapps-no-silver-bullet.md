@@ -38,12 +38,13 @@ It is hard to make any precise conclusion, however we can identify a global tren
 
 Now let's imagine that satisfaction depends on the type of application. In other words, the satisfaction now depends on the category in which you would place each application on an application marketplace.
 
-<figure>
-  <a data-featherlight="image" href="/assets/images/2017-02-01/en/2.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2017-02-01/en/1.png alt: "A second graph where it's clear that the trends are very different depending on the application type" %}
-  </a>
-  <figcaption>So it's not so easy, right?</figcaption>
-</figure>
+{% capture img_alt %}A second graph where it's clear that the trends are very different depending on the application type{% endcapture %}
+{% capture img_caption %}So it's not so easy, right?{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-02-01/en/2.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Trends appear to be less obvious.
 
@@ -59,12 +60,13 @@ Having said all of that, we could think that we should be able to find trends by
 
 What if the applications do not receive the same funding according to their type or their development platform ? We're going to analyze this possibility and compare the budget allocated to each type of application.
 
-<figure>
-  <a data-featherlight="image" href="/assets/images/2017-02-01/en/2.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2017-02-01/en/3.png alt: "This time, we can also read the estimated cost of every app. Native apps seems to cost more, but it is still difficult to correlate data." %}
-  </a>
-  <figcaption>Still not obvious, huh</figcaption>
-</figure>
+{% capture img_alt %}This time, we can also read the estimated cost of every app. Native apps seems to cost more, but it is still difficult to correlate data.{% endcapture %}
+{% capture img_caption %}Still not obvious, huh{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-02-01/en/3.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Native applications seem to cost more, which is understandable: they need to be developed on two or three different systems whereas cross-platform or web development can easily be used on different hardwares. But this statement is not an absolute. On this graph, we can see that a high cost for a semi-hybrid office application. It's impossible to know if this cost is a chosen investment or if it's the consequence of a bad choice of technology coupled with stubbornness.
 

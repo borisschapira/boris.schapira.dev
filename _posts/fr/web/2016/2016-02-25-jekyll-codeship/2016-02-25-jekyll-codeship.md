@@ -14,10 +14,11 @@ Depuis plusieurs mois, ce blog est propulsé par Jekyll et Codeship. Une page ex
 
 <!-- more -->
 
-<figure>
-      {% responsive_image path: assets/images/2016-02-25/jekyll.png alt: "Un tube à essai rempli d'une potion pétillante rouge écarlate" %}
-  <figcaption>Jekyll</figcaption>
-</figure>
+{% capture img_alt %}Un tube à essai rempli d'une potion pétillante rouge écarlate{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2016-02-25/jekyll.png"
+    alt=img_alt
+%}
 
 ## Sous le capot
 
@@ -31,7 +32,6 @@ Mes dépendances Ruby sont gérées par [Bundler](http://bundler.io/) :
 
 * pour la gestion des ressources statiques (hors images) : `jekyll-assets` ;
 * pour la gestion des archives : `jekyll-archives` ;
-* pour le support des emojis : `jemoji` ;
 * pour la génération d'images <em lang="en">responsive</em> : `jekyll-responsive_image` ;
 * pour le `sitemap.xml` : `jekyll-sitemap`.
 

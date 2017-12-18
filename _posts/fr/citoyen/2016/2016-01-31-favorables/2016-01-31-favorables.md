@@ -37,9 +37,10 @@ Comprenez-moi bien : je ne dis pas que tous les gens concernés étaient blancs 
 
 Je reste persuadé que si tous les sondés savaient ça, le résultat ne serait pas du tout le même.
 
-<figure>
-  <a data-featherlight="image" href="/assets/images/2016-01-31/1.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2016-01-31/1.png alt: "Infographie récapitulant ce qu'est l'État d'Urgence" longdesc: "http://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Qu-est-ce-que-l-etat-d-urgence" %}
-  </a>
-  <figcaption><a href="http://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Qu-est-ce-que-l-etat-d-urgence">"Qu'est-ce que l'État d'Urgence ?"</a>, site du Ministère de l'Intérieur</figcaption>
-</figure>
+{% capture img_alt %}Infographie récapitulant ce qu'est l'État d'Urgence{% endcapture %}
+{% capture img_caption %}[Qu'est-ce que l'État d'Urgence ?](http://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Qu-est-ce-que-l-etat-d-urgence){% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2016-01-31/1.png"
+    alt=img_alt
+    caption=img_caption
+%}

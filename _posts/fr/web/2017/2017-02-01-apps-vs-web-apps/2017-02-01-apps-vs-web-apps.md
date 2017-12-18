@@ -24,12 +24,13 @@ Faisons ensemble un petit tour d’horizon des biais de logique liés à cette p
 
 Imaginons que l'on mesure la satisfaction des utilisateurs d'applications de tous types : des applications natives pures, des applications cross-platform, des applications semi-hybrides à la React Native, des <abbr title="Progressive Web App" lang="en">PWA</abbr> "installées" sur Android 6, des <abbr title="Progressive Web App" lang="en">PWA</abbr> non-installées et des Web App non-progressive. Avec ces mesures, nous serions en mesure de réaliser un graphique avec en abscisse la mesure de satisfaction et en ordonnée, le degré de rapprochement avec les applications natives :
 
-<figure>
-  <a data-featherlight="image" href="/assets/images/2017-02-01/1.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2017-02-01/1.png alt: "Un graphique présentant des points éparses avec une tendance vers plus d'applicatif = plus de satisfaction" %}
-  </a>
-  <figcaption>Notre premier graphique présentant la satisfaction des utilisateurs en fonction de leur rapprochement technique avec les applications natives</figcaption>
-</figure>
+{% capture img_alt %}Un graphique présentant des points éparses avec une tendance vers plus d'applicatif = plus de satisfaction{% endcapture %}
+{% capture img_caption %}Notre premier graphique présentant la satisfaction des utilisateurs en fonction de leur rapprochement technique avec les applications natives{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2017-02-01/1.png"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Difficile de déduire quelque chose de précis, mais on peut déterminer une tendance globale si on réalise la moyenne de la satisfaction de chaque groupe d'applications : plus on se rapproche du natif, plus on semble avoir des chances de dégager de la satisfaction.
 

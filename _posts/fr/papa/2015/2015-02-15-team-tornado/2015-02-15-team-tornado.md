@@ -15,12 +15,13 @@ Hier, j'ai laissé les enfants jouer tranquillement dans leur chambre le temps d
 
 Je comprends immédiatement qu'ils jouent à leur jeu favori. Je me précipite dans la chambre.
 
-<figure>
-  <a data-featherlight="image" href="/assets/images/papa/2015-02-15/1.jpg" title="Voir en plus grand">
-    {% responsive_image path: assets/images/papa/2015-02-15/1.jpg alt: "Logo des Déménageurs Bretons" %}
-  </a>
-  <figcaption>Leur jeu favori</figcaption>
-</figure>
+{% capture img_alt %}Logo des Déménageurs Bretons{% endcapture %}
+{% capture img_caption %}Leur jeu favori{% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/papa/2015-01-03/1.jpg"
+    alt=img_alt
+    caption=img_caption
+%}
 
 Meubles déplacés, couette sur le sol à la place du tapis, tapis sur le lit à la place de la couette, jouets éparpillés, commode dont tous les tiroirs sont ouverts, menaçant de tomber à la renverse (les vis permettant sa fixation au mur étant parties... avec les morceaux de mur auxquels elles étaient fixées), sous-vêtements (contenus normalement dans la commode) dispersés au quatre coins de la chambre...
 
