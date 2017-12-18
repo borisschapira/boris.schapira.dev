@@ -7,9 +7,9 @@ canonical: 'https://blog.clever-age.com/en/2017/12/06/where-is-the-western-wecha
 type: post
 categories:
     - web
-    - ux
 tags:
     - 'Performance Web'
+    - UX
     - Images
 publishDate: '2017-10-29'
 locale: en_US
