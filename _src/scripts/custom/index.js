@@ -69,8 +69,8 @@ ready(function () {
 
         function playVideo(e, v) {
             var video = v || this.querySelector('video');
-            if (!$(video).hasClass('loading-started')) {
-                $(video).addClass('loading-started');
+            if (!video.classList.contains('loading-started')) {
+                video.classList.add('loading-started');
                 video.addEventListener("canplay", function () {
                     console.log('Play video.');
                     this.play();
