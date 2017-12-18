@@ -1,8 +1,4 @@
 # Development configuration (comment for Production)
-
-cloudinary:
-  verbose: true
-
 limit_posts: 50
 host: 0.0.0.0
 future: false
