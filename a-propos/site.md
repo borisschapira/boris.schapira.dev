@@ -27,7 +27,7 @@ Mes dépendances Ruby sont gérées par [Bundler](http://bundler.io/) :
 
 * pour la gestion des ressources statiques (hors images) : `jekyll-assets` ;
 * pour la gestion des archives : `jekyll-archives` ;
-* pour la génération d'images <em lang="en">responsive</em> : `jekyll-responsive_image` ;
+* pour la génération d'images <em lang="en">responsive</em> : `jekyll-cloudinary` ;
 * pour le `sitemap.xml` : `jekyll-sitemap`.
 
 J'en oublie sûrement mais vous pourrez trouver l'ensemble des dépendances [sur le dépôt Github](https://github.com/borisschapira/jekyll/blob/master/Gemfile "Squelette Jekyll de BorisSchapira.com").
