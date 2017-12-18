@@ -3,9 +3,7 @@
 cloudinary:
   verbose: true
 
-livereload: true
-reload_port: 5678
-limit_posts: 20
+limit_posts: 50
 host: 0.0.0.0
 future: false
 profile: true

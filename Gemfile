@@ -15,7 +15,6 @@ group :jekyll_plugins do
   gem 'jekyll-algolia', :github => 'algolia/jekyll-algolia', :branch => 'develop'
   gem 'classifier-reborn'
   gem 'jekyll-archives'
-  gem 'jekyll-livereload'
   gem 'jekyll-microtypo', git: 'https://github.com/borisschapira/jekyll-microtypo', branch: 'v0.1.0'
   gem 'jekyll-postfiles'
   gem 'jekyll-cloudinary'
