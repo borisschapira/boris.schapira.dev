@@ -59,7 +59,6 @@ exclude:
   - "package.json"
   - "scripts"
   - "tasks"
-  - "autoprefixer.yml"
   - "Gemfile"
   - "Gemfile.lock"
   - "gulpfile.js"
@@ -69,7 +68,6 @@ exclude:
   - "Rakefile"
   - "tmp"
   - "vendor"
-  - "sonar-project.properties"
   - "staticman.yml"
   - _posts/**/*.jpg
   - _posts/**/*.jpeg
@@ -125,7 +123,6 @@ author:
   linkedin: 'http://linkedin.com/in/borisschapira'
   feed: '/feed.xml'
   mailto: 'contact%40borisschapira.com'
-#  mastodon: https://framapiaf.org/@borisschapira
   reading_speed_en: 478
   reading_speed_fr: 723
 
@@ -164,6 +161,7 @@ jekyll-archives:
 
 # The average reading speed, in number of words by minute
 reading_speed: 400
+
 
 responsive_image:
   template: _includes/responsive-image.html.liquid

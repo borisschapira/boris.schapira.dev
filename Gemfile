@@ -18,7 +18,6 @@ group :jekyll_plugins do
   gem 'jekyll-microtypo', git: 'https://github.com/borisschapira/jekyll-microtypo', branch: 'v0.1.0'
   gem 'jekyll-postfiles'
   gem 'jekyll-cloudinary'
-  gem 'jekyll-responsive_image'
   gem 'jekyll-sitemap'
   gem 'jekyll-tagging-related_posts'
   gem 'octopress-autoprefixer'
