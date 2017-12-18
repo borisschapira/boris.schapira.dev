@@ -165,13 +165,6 @@ jekyll-archives:
 # The average reading speed, in number of words by minute
 reading_speed: 400
 
-assets:
-  sources:
-    - _assets/scripts
-    - _assets/styles
-  js_compressor:  "uglifier"
-  css_compressor: "scss"
-
 responsive_image:
   template: _includes/responsive-image.html.liquid
   default_quality: 90

@@ -8,34 +8,32 @@
 
 {% if include.loadSearch %}
   <script id="algolia__template" type="text/template">
-  {% raw %}
     <article id="content" class="algolia__result post" itemscope itemtype="https://schema.org/BlogPosting">
-      {{#posted_at}}
+      {% raw %}{{#posted_at}}{% endraw %}
       <header>
-          <span class="p-date algolia__result-date">{{ posted_at_readable }}</span>
+          <span class="p-date algolia__result-date">{% raw %}{{ posted_at_readable }}{% endraw %}</span>
       </header>
       {{/posted_at}}
-      <h1 class="post-title"><a class="algolia__result-link" href="{{ full_url }}">{{{ _highlightResult.title.value }}}</a></h1>
-      <div class="algolia__result-text post-content">{{{ _highlightResult.text.value }}}</div>
+      <h1 class="post-title"><a class="algolia__result-link" href="{% raw %}{{ full_url }}{% endraw %}">{% raw %}{{{ _highlightResult.title.value }}}{% endraw %}</a></h1>
+      <div class="algolia__result-text post-content">{% raw %}{{{ _highlightResult.text.value }}}{% endraw %}</div>
     </article>
-  {% endraw %}
   </script>
   <script id="algolia__template--no-results" type="text/template">
     {% include 404.html.liquid issearch=true%}
   </script>
   <script crossorigin="anonymous" integrity="sha256-jIAAmB65ff5CEFvV6DRfRWjHFwqq+AHeV4le8f8PYp4=" src="https://cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" ></script>
 {% endif %}
-{% if page.type == 'post' %}
-  {% asset comments.js async !type %}
+{% if page.type == 'post' and jekyll.environment == "production" %}
+  <script async="true" defer="true" src="/assets/scripts/comments.min.js"></script>
   <script src='https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit'></script>
 {% endif %}
-{% asset index.js async defer !type %}
+<script async="true" defer="true" src="/assets/scripts/index.min.js"></script>
 {% if page.loadTwitterWjs %}
-  {% asset twitter-wjs.js async !type %}
+  <script async="true" src="/assets/scripts/twitter-wjs.min.js"></script>
 {% endif %}
 {% if include.loadSearch %}
-    {% asset search.js async !type %}
+    <script src="/assets/scripts/search.min.js"></script>
 {% endif %}
 {% if page.permalink == '404.html' %}
-  {% asset 404.js !type %}
+  <script src="/assets/scripts/404.min.js"></script>
 {% endif %}
