@@ -3,7 +3,7 @@ title: 'Defer scripts to speed up rendering'
 i18n-key: defer-js
 date: '2017-12-18'
 lang: en
-canonical: ''
+canonical: 'https://blog.dareboost.com/en/2017/12/defer-scripts-to-speed-up-rendering/'
 published: true
 type: post
 categories:
@@ -12,7 +12,6 @@ tags:
     - 'Performance Web'
 publishDate: '2017-12-18'
 locale: en_US
-published: false
 ---
 
 _Artists are not the only ones who suffer from a blank page, so are your users. Their frustration can lead them to abandon your page prematurely. Several techniques can help you to speed up rendering and avoid that problem. One of them is to defer parsing of JavaScript files._
@@ -26,7 +25,7 @@ _Artists are not the only ones who suffer from a blank page, so are your users. 
 
 <em class="canonical">**Note&nbsp;:**this post first appeared on the [Dareboost's Blog](https://blog.dareboost.com/en/) in [{{ page.title }}]({{ page.canonical }}).</em>
 
-Modern browser are designed to render pages more quickly. For example, they scan the page as it comes in, looking for the URLs of resources which will be needed later in the rendering of the page (images, CSS but more specifically, JavaScript files). This is called a [preload scan](https://plus.google.com/+IlyaGrigorik/posts/8AwRUE7wqAE) in Chrome and Safari, a [speculative parsing](https://developer.mozilla.org/en-US/docs/Web/HTML/Optimizing_your_pages_for_speculative_parsing) in Firefox and a lookahead download in Internet Explorer. This feature allows the browser to start fetching the ressources while constructing its own modelisation of the HTML code, the Document Object Model (DOM) and its own modelisation of the CSS code, the CSS Object Model (CSSOM).
+Modern browsers are designed to render pages more quickly. For example, they scan the page as it comes in, looking for the URLs of resources which will be needed later in the rendering of the page (images, CSS but more specifically, JavaScript files). This is called a [preload scan](https://plus.google.com/+IlyaGrigorik/posts/8AwRUE7wqAE) in Chrome and Safari, a [speculative parsing](https://developer.mozilla.org/en-US/docs/Web/HTML/Optimizing_your_pages_for_speculative_parsing) in Firefox and a lookahead download in Internet Explorer. This feature allows the browser to start fetching the ressources while constructing its own modelisation of the HTML code, the Document Object Model (DOM) and its own modelisation of the CSS code, the CSS Object Model (CSSOM).
 
 This is not a continuous process though, because of Javascript. As these scripts may modify HTML elements and their style, the browser stops building the DOM each time it fetch and parse a Javascript file. Afterwards the browser waits for a break into the CSSOM construction to execute the script. Since the DOM and the CSSOM are the backbone of rendering: no DOM & CSSOM, no rendering.
 
@@ -46,7 +45,7 @@ To reduce the time to render, you must postpone the parsing of JavaScript files 
 
 Your JavaScript files are likely to contain several types of code portions and you may need to load some of them as soon as possible: JavaScript business-specific code (analytics, for example), libraries with a strong visual impact, dependencies for a third-party script that you can't defer…
 
-This JS lines of code are called "critical JavaScript". Group them into an identifiable file, commonly called *critical.js*. Like any JS file, the browser will have to fetch, parse and evaluate it before being able to execute it. 
+These JS lines of code are called "critical JavaScript". Group them into an identifiable file, commonly called *critical.js*. Like any JS file, the browser will have to fetch, parse and evaluate it before being able to execute it. 
 
 Even if you put all the optimizations in place to reduce the amount of data that needs to be transferred over the network (cleaning the unused code from the file, minify, compress, cache on the client and server side), the browser will still need to parse and evaluate the JavaScript. As that step [takes ](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)[a significant amount of time](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e), you must really keep your critical JS file as streamlined as possible.
 
@@ -70,7 +69,7 @@ Obviously, since this technique occurs at the end of the DOM construction, we al
 
 ## How about injecting a dynamic `<script>` Tag?
 
-As mentioned above, delaying the download of a script is not always the solution. You may prefer to make is **asynchron****ous** : the script is immediately retrieved without this phase blocking the construction of the DOM. Once available, the construction of the DOM is interrupted for the browser to parse and evaluated its content.
+As mentioned above, delaying the download of a script is not always the solution. You may prefer to make is **asynchronous** : the script is immediately retrieved without this phase blocking the construction of the DOM. Once available, the construction of the DOM is interrupted for the browser to parse and evaluated its content.
 
 One way to do this is to not declare this script in the source of the page, but to use another script that injects it directly inside the DOM. This technique, called dynamic script tag, is the backbone of most third-party services.
 
@@ -115,7 +114,7 @@ As interesting as this technique seems, it also has its drawbacks. First, the sc
 
 Secondly, dynamic script tags are not fully asynchronous. As explained in the introduction, the browser makes sure that the construction of [the CSS Object Model is complete before executing the JS code of the injected script](https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/). The script is consequently not executed immediately. In order to explain to the browser that the script can be loaded without waiting for the CSSOM to be built, you must add the `async` attribute to the script.
 
-But be careful, though: a script, even with an async attribute, is always considered as a page resource. The `window.onload` event will therefore be delayed by its execution. If other scripts depend on this event, you should expect a delay.
+But be careful: a script, even with an async attribute, is always considered as a page resource. The `window.onload` event will therefore be delayed by its execution. If other scripts depend on this event, you should expect a delay.
 
 {% capture img_alt %}Capture of the Chrome DevTools Performance tab. A loading timeline displays the different steps in different colors. The entire range of blue is before the yellow one. A first image appears very early in the loading process.{% endcapture %}
 {% capture img_caption %}Well mastered, the dynamic tag injection is one of the most efficient techniques with a fast built DOM and an almost immediate display. Beware, however, that the scripts are not executed in order!{% endcapture %}

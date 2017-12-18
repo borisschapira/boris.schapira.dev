@@ -3,7 +3,7 @@ title: "Comment différer l'exécution d'un script ?"
 i18n-key: defer-js
 date: '2017-12-18'
 lang: fr
-canonical: ''
+canonical: 'https://blog.dareboost.com/fr/2017/12/differer-les-scripts-pour-accelerer-le-rendu/'
 published: true
 type: post
 categories:
@@ -12,7 +12,6 @@ tags:
     - 'Performance Web'
 publishDate: '2017-12-18'
 locale: fr_FR
-published: false
 ---
 
 _Les artistes ne sont pas les seul·e·s à redouter les pages blanches, les internautes aussi. Leur frustration peut les pousser à abandonner votre site plus tôt qu’ils ou elles ne l’auraient voulu. Pour éviter ça, plusieurs techniques d’optimisation du rendu existent. Comme différer l’analyse et l’exécution des fichiers JavaScript._
@@ -44,7 +43,7 @@ Dans cet article, nous allons nous intéresser à ce qui peut être fait en Java
 
 Pour accélérer le rendu, vous devez décaler au maximum le parcours et l’évaluation des fichiers JavaScript. Facile à dire, plus difficile à faire.
 
-En effet, il y a fort à parier que vos fichiers JavaScript contiennent des portions de code de différents types. Parmi elles, certaines doivent être chargées le plus tôt possible. C’est le cas des portions de JS orientées métiers (les analytiques, par exemple), des librairies ayant un impact visuel important ou des scripts tiers que vous ne pouvez pas différer.
+En effet, il y a fort à parier que vos fichiers JavaScript contiennent des portions de code de différents types. Parmi elles, certaines doivent être chargées le plus tôt possible. C’est le cas des portions de JS orientées métier (les analytiques, par exemple), des librairies ayant un impact visuel important ou des scripts tiers que vous ne pouvez pas différer.
 
 L’ensemble de ces éléments constitue votre "JavaScript critique". Groupez ce code dans un fichier identifiable simplement, nommé communément "critical.js". Comme pour tout fichier JavaScript, le navigateur devra le récupérer, le parcourir et l’analyser avant d’être en mesure de l’exécuter. 
 
@@ -117,7 +116,7 @@ Deuxièmement, les balises de script dynamiques ne sont pas totalement asynchron
 Mais attention: un script, même avec un attribut async, est toujours considéré comme une ressource de la page. L'événement `window. onload` sera donc retardé par son exécution. Si vous avez d’autres scripts qui dépendent de cet événement, anticipez un retard.
 
 {% capture img_alt %}Capture de l'onglet Performance des Chrome DevTools. Une chronologie du chargement affiche les différentes étapes en couleurs. L'intégralité du bleu est avant le jaune. Une première image apparait très tôt dans le chargement.{% endcapture %}
-{% capture img_caption %}Bien maitrisée, le tag dynamique est une des techniques les plus efficaces avec un DOM construit rapidement et un affichage quasiment immédiat. Attention cependant à l'absence d'ordre d'exécution des scripts !{% endcapture %}
+{% capture img_caption %}Bien maitrisé, le tag dynamique est une des techniques les plus efficaces avec un DOM construit rapidement et un affichage quasiment immédiat. Attention cependant à l'absence d'ordre d'exécution des scripts !{% endcapture %}
 {% include rwd-image.html.liquid 
     path="/assets/images/2017-12-18/3_dynamic.png"
     alt=img_alt
