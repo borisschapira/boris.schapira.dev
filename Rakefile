@@ -1,6 +1,6 @@
-load 'tasks/prebuild.rake'
-load 'tasks/building.rake'
-load 'tasks/postbuild.rake'
+load '_tasks/prebuild.rake'
+load '_tasks/building.rake'
+load '_tasks/postbuild.rake'
 
 task :default => ["build:preview"]
 task :sonar => ["postbuild:coverage"]
