@@ -35,7 +35,7 @@ L'explication de notre professeur était très simple :
 
 ## L'intégration en 2015
 
-S’il y a bien un domaine dans lequel l’innovation galope en ce moment, c’est le Web. Et le Front ne fait pas exception, avec des navigateurs toujours plus puissants et riches de fonctionnalités. À tel point que les standards sont désormais qualifiés de “vivants”, parce qu'on ne sait plus comment appeler quelque chose de suffisamment peu figé pour évoluer chaque jour.
+S’il y a bien un domaine dans lequel l’innovation galope en ce moment, c’est le Web. Et le Front ne fait pas exception, avec des navigateurs toujours plus puissants et riches de fonctionnalités. À tel point que les standards sont désormais qualifiés de "vivants", parce qu'on ne sait plus comment appeler quelque chose de suffisamment peu figé pour évoluer chaque jour.
 
 {% capture img_alt %}Une liste assez longue de termes techniques du Web{% endcapture %}
 {% capture img_caption %}Le Web aujourd'hui : HTML + JS + CSS ?{% endcapture %}
@@ -59,19 +59,17 @@ Quand vous travaillez à produire pour un client ou un employeur, d'autres quest
 
 > Ma solution est-elle réversible, est-elle maintenable ?
 >
-> S’il m’arrive quelque chose demain ? Et si quelqu’un reprend mon code ? Et si, pris par mes autres projets… j’oublie comment tout ça marche ?”
+> S’il m’arrive quelque chose demain ? Et si quelqu’un reprend mon code ? Et si, pris par mes autres projets… j’oublie comment tout ça marche ?
 
 Un développeur ou intégrateur qui, à code source égal, est le seul détenteur de la méthode permettant de produire la solution, **est une partie du problème**.
 
-<a href="https://flic.kr/p/bYm7uu" title="Voir sur Flickr">
-  {% capture img_alt %}Un chien triste{% endcapture %}
-  {% capture img_caption %}<b>pitiful</b> par latteda - CC BY 2.0{% endcapture %}
-  {% include rwd-image.html.liquid 
-      path="/assets/images/2015-10-16/1.jpg"
-      alt=img_alt
-      caption=img_caption 
-  %}
-</a>
+{% capture img_alt %}Un chien triste{% endcapture %}
+{% capture img_caption %}[**pitiful** par latteda - CC BY 2.0](https://flic.kr/p/bYm7uu){% endcapture %}
+{% include rwd-image.html.liquid 
+    path="/assets/images/2015-10-16/1.jpg"
+    alt=img_alt
+    caption=img_caption 
+%}
 
 Ce dont on parle quand on parle d’industrialisation du développement Front-End, ce n’est pas un ou plusieurs outils. C’est avant tout l'élaboration continue d'un processus destiné à vous faire gagner du temps, du confort et, au final, de la confiance. Ce processus s'articule autour de plusieurs besoins à qualifier.
 

@@ -316,6 +316,19 @@ html .content .post .p-header .p-author {
     &.reversefootnote {
       background: none;
     }
+
+    &:hover {
+      color: $color-main;
+    }
+
+    &:visited {
+      color: rgb(63, 80, 173);
+    }
+  }
+  .read-more {
+    a:visited {
+      color: darken($color-main, 20);
+    }
   }
   .canonical {
     display: block;

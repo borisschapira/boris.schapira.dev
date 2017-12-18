@@ -3,10 +3,9 @@
 {% else %}
     {% capture path %}{{include.path}}{% endcapture %}
 {% endif %}
-
 {% if include.caption %}{% cloudinary {{ path }}
     alt="{{ include.alt | escape }}"
-    caption="{{ include.caption | markdownify }}"
+    caption="{{ include.caption }}"
 %}{% else %}{% cloudinary {{ path }}
     alt="{{ include.alt | escape }}"
 %}{% endif %}

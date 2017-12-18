@@ -31,13 +31,13 @@
     {% else %}
       {% if post.content contains "<!-- more -->" %}
         {{ post.content | split:"<!-- more -->" | first | markdownify % }}
-        <p>
+        <p class="read-more">
           <a href="{{ post.url }}" title="{{post.title}}">{% t Lire la suite %} →</a>
         </p>
       {% elsif post.content.size < 1000 %}
         {% if post.content contains "<figure>" %}
           {{ post.content | split:"<figure>" | first | markdownify % }}
-          <p>
+          <p class="read-more">
             <a href="{{ post.url }}" title="{{post.title}}">{% t Lire la suite %} →</a>
           </p>
         {% else %}
@@ -45,7 +45,7 @@
         {% endif %}
       {% else %}
         {{ post.excerpt | markdownify }}
-        <p>
+        <p class="read-more">
           <a href="{{ post.url }}" title="{{post.title}}">{% t Lire la suite %} →</a>
         </p>
       {% endif %}

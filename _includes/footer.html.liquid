@@ -1,39 +1,42 @@
 <noscript>
-<style scoped>
-.js {
-  display:none;
-}
-</style>
+  <style scoped>
+    .js {
+      display: none;
+    }
+  </style>
 </noscript>
 
 {% if include.loadSearch %}
-  <script id="algolia__template" type="text/template">
-    <article id="content" class="algolia__result post" itemscope itemtype="https://schema.org/BlogPosting">
-      {% raw %}{{#posted_at}}{% endraw %}
-      <header>
-          <span class="p-date algolia__result-date">{% raw %}{{ posted_at_readable }}{% endraw %}</span>
-      </header>
-      {{/posted_at}}
-      <h1 class="post-title"><a class="algolia__result-link" href="{% raw %}{{ full_url }}{% endraw %}">{% raw %}{{{ _highlightResult.title.value }}}{% endraw %}</a></h1>
-      <div class="algolia__result-text post-content">{% raw %}{{{ _highlightResult.text.value }}}{% endraw %}</div>
-    </article>
-  </script>
-  <script id="algolia__template--no-results" type="text/template">
-    {% include 404.html.liquid issearch=true%}
-  </script>
-  <script crossorigin="anonymous" integrity="sha256-jIAAmB65ff5CEFvV6DRfRWjHFwqq+AHeV4le8f8PYp4=" src="https://cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" ></script>
+<script id="algolia__template" type="text/template">
+  <article id="content" class="algolia__result post" itemscope itemtype="https://schema.org/BlogPosting">
+    {% raw %}{{#posted_at}}{% endraw %}
+    <header>
+      <span class="p-date algolia__result-date">{% raw %}{{ posted_at_readable }}{% endraw %}</span>
+    </header>
+    {{/posted_at}}
+    <h1 class="post-title">
+      <a class="algolia__result-link" href="{% raw %}{{ full_url }}{% endraw %}">{% raw %}{{{ _highlightResult.title.value }}}{% endraw %}</a>
+    </h1>
+    <div class="algolia__result-text post-content">{% raw %}{{{ _highlightResult.text.value }}}{% endraw %}</div>
+  </article>
+</script>
+<script id="algolia__template--no-results" type="text/template">
+  {% include 404.html.liquid issearch=true%}
+</script>
+<script crossorigin="anonymous" integrity="sha256-jIAAmB65ff5CEFvV6DRfRWjHFwqq+AHeV4le8f8PYp4=" src="https://cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js"></script>
 {% endif %}
-{% if page.type == 'post' and jekyll.environment == "production" %}
-  <script async="true" defer="true" src="/assets/scripts/comments.min.js"></script>
-  <script src='https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit'></script>
-{% endif %}
-<script async="true" defer="true" src="/assets/scripts/index.min.js"></script>
-{% if page.loadTwitterWjs %}
-  <script async="true" src="/assets/scripts/twitter-wjs.min.js"></script>
-{% endif %}
-{% if include.loadSearch %}
-    <script src="/assets/scripts/search.min.js"></script>
-{% endif %}
-{% if page.permalink == '404.html' %}
-  <script src="/assets/scripts/404.min.js"></script>
-{% endif %}
+<script>
+  function injectScript(path) {
+    var e = document.createElement('script');
+    e.src = path;
+    e.async = true; // See the following explanation
+    document.head.insertBefore(e, document.head.childNodes[document.head.childNodes.length - 1].nextSibling);
+  };
+</script>{% if page.type == 'post' and jekyll.environment == "production" %}<script>
+  injectScript('/assets/scripts/comments.min.js');
+</script><script>
+  injectScript('https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit');
+</script>{% endif %}
+<script>injectScript('/assets/scripts/index.min.js');</script>
+{% if page.loadTwitterWjs %}<script>injectScript('/assets/scripts/twitter-wjs.min.js');</script>
+{% endif %}{% if include.loadSearch %}<script>injectScript('/assets/scripts/search.min.js');</script>{% endif %} {% if page.permalink == '404.html' %}<script>injectScript('/assets/scripts/404.min.js');</script>{% endif %}
