@@ -13,14 +13,6 @@ GIT
       nokogiri (~> 1.6)
       verbal_expressions (~> 0.1.5)
 
-GIT
-  remote: https://github.com/borisschapira/jekyll-microtypo.git
-  revision: 8bcd26946f5ead36d33a6914db03b6e44d367a86
-  branch: v0.1.0
-  specs:
-    jekyll-microtypo (0.1.0)
-      jekyll (>= 3.0, < 4.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -31,7 +23,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
-    algolia_html_extractor (2.1.0)
+    algolia_html_extractor (2.2.1)
       awesome_print (~> 1.6)
       json (~> 2.0)
       nokogiri (~> 1.8)
@@ -82,6 +74,8 @@ GEM
       jekyll (>= 2.4)
     jekyll-cloudinary (1.9.1)
       fastimage (>= 2.0, < 3.0)
+      jekyll (>= 3.0, < 4.0)
+    jekyll-microtypo (0.1.2)
       jekyll (>= 3.0, < 4.0)
     jekyll-paginate (1.1.0)
     jekyll-paginate-v2 (1.9.0)
@@ -151,7 +145,7 @@ DEPENDENCIES
   jekyll-algolia!
   jekyll-archives
   jekyll-cloudinary
-  jekyll-microtypo!
+  jekyll-microtypo (~> 0.1.0)
   jekyll-paginate-v2 (~> 1.8, >= 1.8.1)
   jekyll-postfiles
   jekyll-sitemap
