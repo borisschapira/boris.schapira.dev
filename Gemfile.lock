@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/algolia/jekyll-algolia.git
+  remote: https://github.com/algolia/jekyll-algolia.git
   revision: 0513b15ae1b8c153ab441da775aa454809ca5606
   branch: develop
   specs:
@@ -14,7 +14,7 @@ GIT
       verbal_expressions (~> 0.1.5)
 
 GIT
-  remote: https://github.com/borisschapira/jekyll-microtypo
+  remote: https://github.com/borisschapira/jekyll-microtypo.git
   revision: 8bcd26946f5ead36d33a6914db03b6e44d367a86
   branch: v0.1.0
   specs:

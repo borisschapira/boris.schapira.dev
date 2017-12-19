@@ -7,9 +7,7 @@ $sidebar-size: 14rem;
 @import "vendor/poole",
 "vendor/hyde",
 "mixins/scrollbars";
-
 @include scrollbars(.3rem, fade-out($color-main, 0.6));
-
 html {
   font-size: calc( 16px + (20 - 16)*(100vw - 400px) / (760-400));
   line-height: 1.7;
@@ -171,6 +169,18 @@ html .content .post .p-header .p-author {
   font-size: 2rem;
 }
 
+.post-title a:hover {
+  text-decoration: none;
+  padding: calc( 1em * 60 / 100) 0;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-repeat: no-repeat;
+  background-size: 100% calc( 1em / 10);
+  background-position: center bottom 29%;
+  background-origin: padding-box;
+  text-shadow: 3px 0 #fff, 2px 0 #fff, 1px 0 #fff, -1px 0 #fff, -2px 0 #fff, -3px 0 #fff;
+  transition: color .1s ease-out;
+}
+
 .footnotes,
 .post-footer {
   margin-top: 5em;
@@ -320,11 +330,9 @@ html .content .post .p-header .p-author {
     &.reversefootnote {
       background: none;
     }
-
     &:hover {
       color: $color-main;
     }
-
     &:visited {
       color: rgb(63, 80, 173);
     }
