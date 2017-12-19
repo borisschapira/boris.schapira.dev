@@ -4,3 +4,4 @@ load '_tasks/postbuild.rake'
 
 task :default => ["build:preview"]
 task :dryrun => ["build:generate","postbuild:test"]
+task :test => ["postbuild:test"]
