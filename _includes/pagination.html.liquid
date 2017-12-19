@@ -10,7 +10,7 @@
     {% else %}
       {% comment %} Sinon, c'est la page d'avant {% endcomment %}
       <li>
-        <a href="{{ site.pagination.permalink | replace:':num', paginator.previous_page_path }}" rel="prev" title="{% t Page précédente %}">&lsaquo;</a>
+        <a href="{{ site.pagination.permalink | replace:':num', paginator.previous_page }}" rel="prev" title="{% t Page précédente %}">&lsaquo;</a>
       </li>
     {% endif %}
   {% else %}
@@ -80,7 +80,7 @@
       <li class="disabled">&raquo;</li>
     {% else %}
     <li>
-      <a href="{{ site.pagination.permalink | replace:':num', paginator.next_page_path}}" rel="next" title="{% t Page suivante %}">&rsaquo;</a>
+      <a href="{{ site.pagination.permalink | replace:':num', paginator.next_page}}" rel="next" title="{% t Page suivante %}">&rsaquo;</a>
     </li>
     {% endif %} 
   {% else %}
