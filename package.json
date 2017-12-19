@@ -59,5 +59,8 @@
     "postcss-cli": "^2.5.0",
     "uglify-js": "^3.2.2",
     "watch": "^0.17.1"
+  },
+  "engines": {
+    "node": "8.2.1"
   }
 }
