@@ -32,11 +32,9 @@
     e.async = true; // See the following explanation
     document.head.insertBefore(e, document.head.childNodes[document.head.childNodes.length - 1].nextSibling);
   };
-</script>{% if page.type == 'post' and jekyll.environment == "production" %}<script>
-  injectScript('/assets/scripts/comments.min.js');
-</script><script>
-  injectScript('https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit');
-</script>{% endif %}
+</script>{% if page.type == 'post' %}
+<script>injectScript('/assets/scripts/comments.min.js');</script>
+<script>injectScript('https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit');</script>{% endif %}
 <script>injectScript('/assets/scripts/index.min.js');</script>
 {% if page.loadTwitterWjs %}<script>injectScript('/assets/scripts/twitter-wjs.min.js');</script>
 {% endif %}{% if include.loadSearch %}<script>injectScript('/assets/scripts/search.min.js');</script>{% endif %} {% if page.permalink == '404.html' %}<script>injectScript('/assets/scripts/404.min.js');</script>{% endif %}
