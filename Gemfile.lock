@@ -1,13 +1,13 @@
 GIT
   remote: https://github.com/algolia/jekyll-algolia.git
-  revision: 0513b15ae1b8c153ab441da775aa454809ca5606
+  revision: 4f71e49a447562bba358cc6747e8adbdcfa65b5f
   branch: develop
   specs:
     jekyll-algolia (1.0.0)
-      algolia_html_extractor (~> 2.1)
+      algolia_html_extractor (~> 2.2)
       algoliasearch (~> 1.18)
       filesize (~> 0.1)
-      jekyll (~> 3.6)
+      jekyll (~> 3.0)
       jekyll-paginate (~> 1.1)
       json (~> 2.0)
       nokogiri (~> 1.6)
