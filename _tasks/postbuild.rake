@@ -48,9 +48,9 @@ namespace :postbuild do
 
     desc 'Index content for search (Algolia)'
     task :index, [:env] do |t, args|
-      args.with_defaults(:env => 'prod')
+      args.with_defaults(:env => 'dev')
       config_file = "_config_#{args[:env]}.yml"
-      sh "jekyll algolia --config _config.yml,#{config_file}"
+      sh "jekyll algolia --verbose --trace --config _config.yml,#{config_file}"
     end
 
   end
