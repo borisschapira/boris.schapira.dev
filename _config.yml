@@ -180,3 +180,4 @@ dareboost:
 algolia:
   application_id: '…'
   index_name: '…'
+  indexing_batch_size: 50
