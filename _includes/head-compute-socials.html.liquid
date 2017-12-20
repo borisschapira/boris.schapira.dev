@@ -60,4 +60,4 @@
         {% capture socialDescription %}{{ site.description }}{% endcapture %}
       {% endif %}
   {% endcase %}
-  {% capture socialDescription %}{{ socialDescription | strip_html | truncatewords: 50 | strip_newlines | escape_once }}{% endcapture %}
+  {% capture socialDescription %}{{ socialDescription | strip_html | truncatewords: 40 | strip_newlines | escape_once }}{% endcapture %}
