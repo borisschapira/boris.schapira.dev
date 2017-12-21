@@ -33,7 +33,7 @@ locale: en_US
 It is not always easy to find the most suitable image format. Take our logo, for example. We could save it in PNG, JPEG, WebP or SVG.
 The weight of the images would be very different. An empirical test allows us to visualize it:
 
-{% capture img_alt %}PNG 6 Ko ; JPEG 38KB ; WebP 9KB ; SVG 2.5KB (1.4KB gzipped){% endcapture %}
+{% capture img_alt %}PNG 6 KB ; JPEG 38KB ; WebP 9KB ; SVG 2.5KB (1.4KB gzipped){% endcapture %}
 {% include rwd-image.html.liquid 
     path="/assets/images/2017-10-29/logo_en_580.png"
     alt=img_alt
