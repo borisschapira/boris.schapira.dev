@@ -33,7 +33,7 @@ locale: en_US
 It is not always easy to find the most suitable image format. Take our logo, for example. We could save it in PNG, JPEG, WebP or SVG.
 The weight of the images would be very different. An empirical test allows us to visualize it:
 
-{% capture img_alt %}PNG 6 KB ; JPEG 38KB ; WebP 9KB ; SVG 2.5KB (1.4KB gzipped){% endcapture %}
+{% capture img_alt %}PNG 6KB ; JPEG 38KB ; WebP 9KB ; SVG 2.5KB (1.4KB gzipped){% endcapture %}
 {% include rwd-image.html.liquid 
     path="/assets/images/2017-10-29/logo_en_580.png"
     alt=img_alt
@@ -43,7 +43,7 @@ In this case, the most suitable format seems to be SVG, followed closely by PNG.
 
 Let's take a second example, this time with the photograph of a rocket taking off. SVG is just unable to represent this image correctly (we will explain why a little further). Here's what we get, with equivalent visual perception, for JPEG, PNG and WebP formats:
 
-{% capture img_alt %}PNG: 171 KB; JPEG: 33 KB; WebP: 13KB{% endcapture %}
+{% capture img_alt %}PNG: 171KB; JPEG: 33KB; WebP: 13KB{% endcapture %}
 {% include rwd-image.html.liquid 
     path="/assets/images/2017-10-29/rocket_en_580.jpg"
     alt=img_alt
@@ -55,7 +55,7 @@ Here, the results are radically different. To represent the complexity of a phot
 
 When you want to save a JPEG, most of softwares ask what quality to retain, as it is a lossy encoding format. By choosing a quality less than 100%, it is thus possible to save precious bytes by correcting only certain points of the image. Let's try with our image, with quality set to 80%. Then we get a very interesting result: a weight loss of more than 50%, while only a few points of the image have been deeply changed.
 
-{% capture img_alt %}Original JPEG: 33BP. Optimized JPEG: 16KB. Not much differences.{% endcapture %}
+{% capture img_alt %}Original JPEG: 33KB. Optimized JPEG: 16KB. Not much differences.{% endcapture %}
 {% include rwd-image.html.liquid 
     path="/assets/images/2017-10-29/diff_en_580.jpg"
     alt=img_alt
@@ -100,7 +100,7 @@ many of these services use video formats, with much lighter files! We will come 
 {% include video_as_a_gif.html.liquid
     controls=true
     url="/assets/images/2017-10-29/lenny"
-    alt="Screencast of the ChromeDevTools. We can see a video looping like a GIF, but the code clearly indidcates its a video."
+    alt="Screencast of the ChromeDevTools. We can see a video looping like a GIF, but the code clearly indicates its a video."
 %}
 
 If you still need the GIF format, be aware that a compression algorithm also exists: gifsicle. It can be very useful for manipulating GIF content: reduce the color palette, resize, cut and crop... I sometimes use Gifsicle to encode short recordings of my screen and integrate them into emails, because many mail clients are not able to read embedded videos.
