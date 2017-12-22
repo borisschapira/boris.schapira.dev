@@ -36,7 +36,7 @@ Je reste persuadé qui si je n'ai pas d'accident en **voiture**, c'est parce que
 
 Mon assureur/banquier ne me reçoit jamais dans le hall de son **palace**. La moitié du temps, il ne répond même pas à mes coups de fils.
 
-Je ne suis pas** <acronym title="Best Friend Forever (Meilleur(e)s ami(e)s pour la vie)">_BFF_ </acronym>avec un produit laitier**, et je pense que si ça m'arrive un jour, j'envisagerais de consulter.
+Je ne suis pas** <abbr title="Best Friend Forever (Meilleur(e)s ami(e)s pour la vie)">_BFF_ </abbr>avec un produit laitier**, et je pense que si ça m'arrive un jour, j'envisagerais de consulter.
 
 … etc
 
