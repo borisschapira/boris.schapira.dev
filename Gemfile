@@ -12,14 +12,13 @@ group :jekyll_tests do
 end
 
 group :jekyll_plugins do
-  gem 'jekyll-algolia', :git => 'https://github.com/algolia/jekyll-algolia.git', :branch => 'develop'
   gem 'classifier-reborn'
+  gem 'jekyll-algolia', '~> 1.0.1'
   gem 'jekyll-archives'
-  gem 'jekyll-microtypo', '~> 0.1.0'
-  gem 'jekyll-postfiles'
   gem 'jekyll-cloudinary'
+  gem 'jekyll-microtypo', '~> 0.1.0'
+  gem 'jekyll-paginate-v2', '~> 1.8', '>= 1.8.1'
+  gem 'jekyll-postfiles'
   gem 'jekyll-sitemap'
   gem 'jekyll-tagging-related_posts'
-  gem 'octopress-autoprefixer'
-  gem 'jekyll-paginate-v2', '~> 1.8', '>= 1.8.1'
 end
