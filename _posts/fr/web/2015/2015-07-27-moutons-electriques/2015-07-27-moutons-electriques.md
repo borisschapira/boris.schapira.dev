@@ -15,14 +15,14 @@ Deux articles m'ont récemment fait réfléchir, tous les deux traitants de prob
 
 <!-- more -->
 
-> Une des réalisations les plus poussées et les plus spectaculaires du <em lang="en">deep learning</em> a eu lieu en 2012, quand Google Brain, le projet de deep learning de la firme américaine, a été capable de «&nbsp;découvrir&nbsp;», par lui-même, le concept de chat.  
+> Une des réalisations les plus poussées et les plus spectaculaires du <span lang="en">deep learning</span> a eu lieu en 2012, quand Google Brain, le projet de deep learning de la firme américaine, a été capable de «&nbsp;découvrir&nbsp;», par lui-même, le concept de chat.  
 >
 > […]  
 >
 > «&nbsp;Ce qui est remarquable, c'est que le système a découvert le concept de chat lui-même. Personne ne lui a jamais dit que c'était un chat. Ça a marqué un tournant dans le machine learning&nbsp;», a expliqué Andrew Ng, fondateur du projet Google Brain, dans les colonnes du magazine Forbes.  
 > <cite>layout: post[Comment le 'deep learning' révolutionne l'intelligence artificielle](http://mobile.lemonde.fr/pixels/article/2015/07/24/comment-le-deep-learning-revolutionne-l-intelligence-artificielle_4695929_4408996.html?xtref=acc_dir&utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook)&nbsp;», Morgane Tual pour Le Monde</cite>
 
-Je trouve passionnante cette percée dans le monde de l'intelligence. Qu'il s'agisse de <em lang="en">Deep Dream</em> (plus globalement, du projet <em lang="en">Google Brain</em>) dont parle l'article ci-dessus, de [Microsoft Adam](http://research.microsoft.com/en-us/news/features/dnnvision-071414.aspx) ou de Facebook qui cherche à se servir de réseaux de neurones pour traiter plus efficacement les publications de ses abonnés. Les découvertes sont passionnantes même si planent au dessus de fortes inquiétudes&nbsp;: le soulèvement des machines, la prise de contrôle par une entité sur-rationelle, incapable d'émotions, *étrangère* à l'homme.
+Je trouve passionnante cette percée dans le monde de l'intelligence. Qu'il s'agisse de <span lang="en">Deep Dream</span> (plus globalement, du projet <span lang="en">Google Brain</span>) dont parle l'article ci-dessus, de [Microsoft Adam](http://research.microsoft.com/en-us/news/features/dnnvision-071414.aspx) ou de Facebook qui cherche à se servir de réseaux de neurones pour traiter plus efficacement les publications de ses abonnés. Les découvertes sont passionnantes même si planent au dessus de fortes inquiétudes&nbsp;: le soulèvement des machines, la prise de contrôle par une entité sur-rationelle, incapable d'émotions, *étrangère* à l'homme.
 
 > Marié, entouré d'amis, Elliot mène sa barque. Mais un jour, il se met à souffrir de migraines épouvantables qui révèlent un méningiome, une tumeur bénigne qui écrase ses lobes frontaux. Opéré en urgence, tout se passe bien.  
 >

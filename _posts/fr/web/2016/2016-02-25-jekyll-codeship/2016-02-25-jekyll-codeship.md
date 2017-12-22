@@ -26,13 +26,13 @@ Consultant en Web Performance depuis quelques années, j'ai décidé un jour de 
 
 ### Côté serveur
 
-J'ai commencé par jeter mon blog Wordpress pour le remplacer par un générateur de site statique en <em lang="en">node</em>, [Hexo](https://github.com/hexojs/hexo). Après avoir déterminé les limites de l'outil et contribué à quelques <em lang="en">plugins</em>, j'ai décidé de migrer vers [Jekyll](https://jekyllrb.com/), plus rapide, plus abouti et dont la communauté Ruby me semblait plus mûre.
+J'ai commencé par jeter mon blog Wordpress pour le remplacer par un générateur de site statique en <span lang="en">node</span>, [Hexo](https://github.com/hexojs/hexo). Après avoir déterminé les limites de l'outil et contribué à quelques <span lang="en">plugins</span>, j'ai décidé de migrer vers [Jekyll](https://jekyllrb.com/), plus rapide, plus abouti et dont la communauté Ruby me semblait plus mûre.
 
 Mes dépendances Ruby sont gérées par [Bundler](http://bundler.io/) :
 
 * pour la gestion des ressources statiques (hors images) : `jekyll-assets` ;
 * pour la gestion des archives : `jekyll-archives` ;
-* pour la génération d'images <em lang="en">responsive</em> : `jekyll-responsive_image` ;
+* pour la génération d'images <span lang="en">responsive</span> : `jekyll-responsive_image` ;
 * pour le `sitemap.xml` : `jekyll-sitemap`.
 
 J'en oublie sûrement mais vous pourrez trouver l'ensemble des dépendances [sur le dépôt Github](https://github.com/borisschapira/jekyll/blob/master/Gemfile "Squelette Jekyll de BorisSchapira.com").
@@ -53,7 +53,7 @@ En local, j'utilise parfois [node](https://nodejs.org/), et plus particulièreme
 
 ### Compilation et déploiement
 
-Mon code est architecturé en deux dépôts. Un dépôt contient les articles du blog au format [Markdown](https://fr.wikipedia.org/wiki/Markdown), une syntaxe légère idéale pour rédiger[^3]. J'utilise les <em lang="en">hooks</em> de GitHub pour interfacer ce dépôt à [Codeship](https://codeship.com/) (une solution d'intégration continue) qui se charge d'exécuter des tests avec [rspec](http://rspec.info/) pour vérifier que le contenu des en-têtes Front-Matter sont valides en <abbr lang="en" title="YAML Ain't Markup Language">YAML</abbr>. Si c'est le cas, alors [Codeship](https://codeship.com/) publie les articles sur un [dépôt public](https://github.com/borisschapira/blog). Puis clone le dépôt Jekyll et met à jour la référence du <em lang="en">submodule</em> git[^4].
+Mon code est architecturé en deux dépôts. Un dépôt contient les articles du blog au format [Markdown](https://fr.wikipedia.org/wiki/Markdown), une syntaxe légère idéale pour rédiger[^3]. J'utilise les <span lang="en">hooks</span> de GitHub pour interfacer ce dépôt à [Codeship](https://codeship.com/) (une solution d'intégration continue) qui se charge d'exécuter des tests avec [rspec](http://rspec.info/) pour vérifier que le contenu des en-têtes Front-Matter sont valides en <abbr lang="en" title="YAML Ain't Markup Language">YAML</abbr>. Si c'est le cas, alors [Codeship](https://codeship.com/) publie les articles sur un [dépôt public](https://github.com/borisschapira/blog). Puis clone le dépôt Jekyll et met à jour la référence du <span lang="en">submodule</span> git[^4].
 
 Ce dépôt, mis à jour, lance également une opération sur [Codeship](https://codeship.com/) : récupération de la dernière version des articles, du code et des dépendances, compilation de tout cela en un site Web et tests via [html-proofer](https://github.com/gjtorikian/html-proofer).
 
@@ -75,12 +75,12 @@ Une partie de mon code CSS et JS est dédiée à l'accessibilité et j'essaie é
 
 La recherche instantanée est le fruit du branchement du site sur [Algolia](https://www.algolia.com/), une solution très performante d'indexation et de recherche côté client qui a le mérite de proposer un [exemple d'implémentation pour Jekyll](https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/ "Add instant search to your blog or documentation using our Jekyll plugin") qui cadrait parfaitement avec mon besoin. Il faudra néanmoins que je repasse dessus car le code JavaScript nécessaire me semble un peu complexe ([jQuery](https://jquery.com/), [Hogan](http://twitter.github.io/hogan.js/), [MomentJs](http://momentjs.com/)… je dois pouvoir faire plus simple).
 
-J'ai ajouté au site [InstantClick](http://instantclick.io/), une librairie JavaScript qui augmente considérablement la vitesse perçue en préchargement les pages internes au survol des liens, donnant l'impression à l'utilisateur que l'ensemble du site est préchargé, comme dans une application web <em lang="en">single page</em>.
+J'ai ajouté au site [InstantClick](http://instantclick.io/), une librairie JavaScript qui augmente considérablement la vitesse perçue en préchargement les pages internes au survol des liens, donnant l'impression à l'utilisateur que l'ensemble du site est préchargé, comme dans une application web <span lang="en">single page</span>.
 
 Afin de contrôler ce qui se passe sur mon site (notamment pour détecter des tentatives d'injections), j'ai positionné un certain nombre de règles [Content Security Policy](https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9/CSP) et des rapports sont enregistrés dans une base de données à chaque infraction[^7].
 
 [^7]: Merci à [Nicolas Hoffman](https://twitter.com/Nico3333fr) de m'avoir sensibilisé à cette problématique durant [sa présentation à Paris Web 2015](http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/ "CSP: Content Security Policy").
 
-Parce que je suis curieux, j'ai installé Google Analytics. Je suis conscient que certains d'entre vous veulent un peu d'intimité. Je vous encourage, dans ce cas, à faire comme moi : bloquer l'ensemble des domaines auxquels vous ne souhaitez pas faire confiance, au sein de votre navigateur ou ailleurs sur votre machine. Ça passe par la manipulation de votre fichier `hosts` et il y a des scripts pour automatiser tout ça[^6]. Enfin, contrairement aux <em lang="en">ads blockers</em>, c'est transparent en performance.
+Parce que je suis curieux, j'ai installé Google Analytics. Je suis conscient que certains d'entre vous veulent un peu d'intimité. Je vous encourage, dans ce cas, à faire comme moi : bloquer l'ensemble des domaines auxquels vous ne souhaitez pas faire confiance, au sein de votre navigateur ou ailleurs sur votre machine. Ça passe par la manipulation de votre fichier `hosts` et il y a des scripts pour automatiser tout ça[^6]. Enfin, contrairement aux <span lang="en">ads blockers</span>, c'est transparent en performance.
 
 [^6]: J'utilise pour ma part les [scripts de blocage de domaines de Steven Black](https://github.com/StevenBlack/hosts).

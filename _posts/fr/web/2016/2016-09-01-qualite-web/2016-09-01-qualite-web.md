@@ -22,7 +22,7 @@ D'abord, pour l'explication de l'ensemble des bonnes pratiques qui nous aident, 
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Si vous doutez du côté durable des bonnes pratiques <a href="https://twitter.com/opquast">@opquast</a>, regardez combien de BP de 2004 sont encore valables :) <a href="https://t.co/LTlutrE4CU">https://t.co/LTlutrE4CU</a></p>&mdash; ElieSL (@ElieSl) <a href="https://twitter.com/ElieSl/status/724916156935581696">26 avril 2016</a></blockquote>
 
-Ensuite, pour les <em lang="en">checklists</em> qui vous permettront d'identifier rapidement les règles à vérifier suivant le besoin (référencement, performance, accessibilité…) ou la phase projet (développement, intégration…).
+Ensuite, pour les <span lang="en">checklists</span> qui vous permettront d'identifier rapidement les règles à vérifier suivant le besoin (référencement, performance, accessibilité…) ou la phase projet (développement, intégration…).
 
 Enfin, parce que si vous n'en commandez pas des zillions, ils se sentiront obligés de tuer un raton-laveur pour mettre dans la troisième édition.
 

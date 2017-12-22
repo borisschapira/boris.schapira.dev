@@ -16,6 +16,6 @@ locale: fr_FR
 > — Oh… j'ai un bonnet de l'animal, moi !  
 > — Oui, tu as un bonnet en forme d'animal, chéri. En forme d'ours.  
 > — Comment on dire en anglais un ours ?  
-> — Hum, <em lang="en">bear</em>, chéri.
+> — Hum, <span lang="en">bear</span>, chéri.
 
 Il a passé tout le reste du trajet vers l'école à crier "Je suis barman, je suis barman !".

@@ -22,4 +22,4 @@ Je rigole un bon coup, comment voulez-vous vous retenir ? Et puis je lui demande
 > — Et pour Maman ? Elle aime quoi, Maman ? Tu vas lui dire quoi ?  
 > — Maman elle aime les vêtements et les chaussures ! Elle a les plus belles chaussures de la Terre.
 
-C'est mort, avec des <em lang="en">catchphrases</em> comme ça, sa mère lui filera tout ce qu'il veut !
+C'est mort, avec des <span lang="en">catchphrases</span> comme ça, sa mère lui filera tout ce qu'il veut !

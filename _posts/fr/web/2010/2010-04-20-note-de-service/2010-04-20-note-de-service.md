@@ -15,7 +15,7 @@ En ce moment, j'ai plein d'envies. Depuis que je suis parti de Paris, en fait. A
 
 <!-- more -->
 
-Du coup, j'ai plein de projets. Au niveau professionnel d'abord, puisque de nouveaux défis se présentent chaque jour et que j'ai l'impression d'avoir plus de temps pour ma veille technologique et mes lectures d'auto-formation (en ce moment, je sautille de <em lang="en">Silverlight for Windows Phone 7</em> à HTML5, quand je ne lis pas des bouquins sur le CSS. C'est très enrichissant).
+Du coup, j'ai plein de projets. Au niveau professionnel d'abord, puisque de nouveaux défis se présentent chaque jour et que j'ai l'impression d'avoir plus de temps pour ma veille technologique et mes lectures d'auto-formation (en ce moment, je sautille de <span lang="en">Silverlight for Windows Phone 7</span> à HTML5, quand je ne lis pas des bouquins sur le CSS. C'est très enrichissant).
 
 Au niveau personnel ensuite, puisqu'il va être temps pour me femme et moi de nous trouver une maison ou un appartement et que ça n'est pas une mince affaire à trouver (propriétaires d'un 75m² sur Bordeaux cherchant à vendre, n'hésitez pas à me contacter&nbsp;!). Je prends aussi un peu de temps pour m'amuser et je re-découvre les jeux vidéos sur ma PS3 (une belle console moderne sur laquelle je joue aussi bien à *Uncharted2* qu'à… *l'Odyssée d'Abe*&nbsp;!).
 

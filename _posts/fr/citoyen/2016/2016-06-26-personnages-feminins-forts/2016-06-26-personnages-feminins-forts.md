@@ -24,7 +24,7 @@ Plus jeune, j'ai énormément apprécié le personnage de Buffy Summers et je pe
   caption="Faut pas la faire ch…" 
 %}
 
-Pour la première fois dans mon paysage audio-visuel, j'avais l'occasion de suivre une femme qui se donnait le droit de _tout avoir_[^hia] : une vie normale, mais aussi une vie de super-héroïne ; une famille, mais aussi le droit de faire autre chose que de s'en occuper ; un <em lang="en">love interest</em> qu'elle sauvait elle-même avant qu'il ne la sauve et qu'elle pouvait également tuer s'il le fallait.
+Pour la première fois dans mon paysage audio-visuel, j'avais l'occasion de suivre une femme qui se donnait le droit de _tout avoir_[^hia] : une vie normale, mais aussi une vie de super-héroïne ; une famille, mais aussi le droit de faire autre chose que de s'en occuper ; un <span lang="en">love interest</span> qu'elle sauvait elle-même avant qu'il ne la sauve et qu'elle pouvait également tuer s'il le fallait.
 
 {% include video_as_a_gif.html.liquid 
   slug="2" 
@@ -49,4 +49,4 @@ La plupart des séries que je regarde ou apprécie aujourd'hui contient des pers
 
 Je me suis rendu compte qu'un personnage féminin fort était pour moi un gage de qualité dans une œuvre. Je ne trouve pas l'œuvre meilleure parce qu'un personnage féminin fort y est décrit ou y est central mais je trouve peu crédible une œuvre ou un tel personnage n'existerait pas parce qu'il ne peut pas exister de monde où des hommes sont forts et des femmes ne le sont pas : il s'agit juste d'un monde où on ne regarde que les hommes.
 
-[^hia]: En anglais, on dit <em lang="en">have it all</em>, qui est une expression toute faite dont je ne connais pas l'équivalent.
+[^hia]: En anglais, on dit <span lang="en">have it all</span>, qui est une expression toute faite dont je ne connais pas l'équivalent.

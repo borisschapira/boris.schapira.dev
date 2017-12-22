@@ -11,7 +11,7 @@ locale: fr_FR
 
 > Moi, plus tard, je veux faire des toiles comme Spider-Man !
 
-Mon <em lang="en">spider sense</em> entre en émoi, il faut que je m'en mêle !
+Mon <span lang="en">spider sense</span> entre en émoi, il faut que je m'en mêle !
 
 <!-- more -->
 

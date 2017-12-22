@@ -15,14 +15,14 @@ locale: fr_FR
 
 ## génèse de ma conférence pour Sud Web 2014
 
-_Note&nbsp;: et voilà, c'est fini, pfiou&nbsp;! Pour les curieux, [les <em lang="en">slides</em> sont là](http://borisschapira.github.io/slides/sw2014/#/) (et vous pouvez taper sur la touche 's' pour voir la transcription)._
+_Note&nbsp;: et voilà, c'est fini, pfiou&nbsp;! Pour les curieux, [les <span lang="en">slides</span> sont là](http://borisschapira.github.io/slides/sw2014/#/) (et vous pouvez taper sur la touche 's' pour voir la transcription)._
 
 On m'a dit un jour&nbsp;:
 > Les experts ne sont pas toujours des experts avant de prendre la parole&nbsp;: c'est leur prise de parole qui fait que nous les considérons comme des experts.
 
 Je ne sais pas pourquoi. Peut-être parce que nous savons, au fond de nous, que la prise de parole nécessite un travail important en amont, sans forcément arriver à l'évaluer…
 
-Il y a quelques mois, j'ai soumis une idée pour un <em lang="en">[Lightning Talk](https://en.wikipedia.org/wiki/Lightning_talk)</em> (une courte présentation) pour Sud Web&nbsp;: **"De l'idée au projet"**.
+Il y a quelques mois, j'ai soumis une idée pour un <span lang="en">[Lightning Talk](https://en.wikipedia.org/wiki/Lightning_talk)</span> (une courte présentation) pour Sud Web&nbsp;: **"De l'idée au projet"**.
 
 Ma participation m'a été confirmée il y a quelques semaines, mais je n'avais pas le temps de m'occuper d'y penser, donc j'ai remis ça à plus tard. Nous sommes le 21 avril, un peu moins d'un mois avant Sud Web. Il est temps de réfléchir aux imbécilités que je vais énoncer devant les 150 pauvres âmes qui devront me supporter pendant 5 minutes ce jour-là.
 
@@ -55,7 +55,7 @@ Dans un exercice oral comme celui-là, le rythme et la répétition sont importa
 
 ### J-20&nbsp;: La rédaction
 
-Un <em lang="en">Lightning Talk</em> est trop court pour ne pas être rédigé. Lorsqu'on lit un texte, notre vitesse moyenne est de 340 mots par minutes. À l'oral, nous sommes plutôt à 180 mots. Et pour que les gens soient attentifs, mieux vaut parler clairement et lentement, et donc compter 160 à 170 mots par minute. 5 minutes, cela fait entre 800 et 850 mots.
+Un <span lang="en">Lightning Talk</span> est trop court pour ne pas être rédigé. Lorsqu'on lit un texte, notre vitesse moyenne est de 340 mots par minutes. À l'oral, nous sommes plutôt à 180 mots. Et pour que les gens soient attentifs, mieux vaut parler clairement et lentement, et donc compter 160 à 170 mots par minute. 5 minutes, cela fait entre 800 et 850 mots.
 
 Le plan à "trois C" me convient bien, mais avant de rédiger, il faut que je développe un peu les idées-clés, et que j'attribue à chaque partie une longueur, pour être sûr de ne pas avoir un contenu déséquilibré&nbsp;:
 
@@ -69,21 +69,21 @@ Le plan à "trois C" me convient bien, mais avant de rédiger, il faut que je d�
 
 J'ai essayé, au maximum, de ne pas passer trop de temps sur le premier jet rédactionnel en lui préférant l'itération. Je suis à 792 mots, répartis en 110 / 171 / 197 / 190 / 124, j'ai donc des introductions et conclusions un peu plus courtes que prévu, mais au final, je rentre dans les contraintes que je m'étais fixé.
 
-J'ai tenté un premier minutage, en parlant assez doucement. Je suis à un peu plus de 5 minutes, c'est trop. Sur place, je parlerai probablement plus vite à cause du trac mais d'un autre côté, il faudra changer de <em lang="en">slides</em> et anticiper les imprévus (on n'est jamais à l'abri d'un cafouillage qui fait perdre de précieuses secondes). J'essaierai de simplifier tout ça quand j'aurais fait quelques <em lang="en">slides</em> de support.
+J'ai tenté un premier minutage, en parlant assez doucement. Je suis à un peu plus de 5 minutes, c'est trop. Sur place, je parlerai probablement plus vite à cause du trac mais d'un autre côté, il faudra changer de <span lang="en">slides</span> et anticiper les imprévus (on n'est jamais à l'abri d'un cafouillage qui fait perdre de précieuses secondes). J'essaierai de simplifier tout ça quand j'aurais fait quelques <span lang="en">slides</span> de support.
 
-### J-15&nbsp;: Le nombre de <em lang="en">slides</em>
+### J-15&nbsp;: Le nombre de <span lang="en">slides</span>
 
 Il n'est pas donné à tout le monde de faire des présentations à la Steve Jobs. J'ai abandonné depuis longtemps mes rêves de réaliser des présentations fabuleuses de 30 minutes avec uniquement 5 photos piquées dans une banque d'images National Geograpic.
 
-Pour cette présentation, la contrainte est claire&nbsp;: très peu de temps. Cela implique qu'il faudra concentrer l'attention et donc éviter la dispersion et présentant trop de contenu. Mais cela veut aussi dire que les spectateurs n'auront, objectivement, pas le temps de retenir des informations. Remplir des <em lang="en">slides</em> de contenu est donc inutile, voire contre-productif. Il faut donc se cantonner à un transparent toutes les 45 secondes à 1 minute, soit environ 7 <em lang="en">slides</em>. Disons 8,  grand maximum, et principalement des choses très visuelles.
+Pour cette présentation, la contrainte est claire&nbsp;: très peu de temps. Cela implique qu'il faudra concentrer l'attention et donc éviter la dispersion et présentant trop de contenu. Mais cela veut aussi dire que les spectateurs n'auront, objectivement, pas le temps de retenir des informations. Remplir des <span lang="en">slides</span> de contenu est donc inutile, voire contre-productif. Il faut donc se cantonner à un transparent toutes les 45 secondes à 1 minute, soit environ 7 <span lang="en">slides</span>. Disons 8,  grand maximum, et principalement des choses très visuelles.
 
-### J-14&nbsp;: Premier jet de <em lang="en">slides</em>
+### J-14&nbsp;: Premier jet de <span lang="en">slides</span>
 
 Pour le medium, j'ai choisi Reveal.js. Je trouve la solution Web RWD pratique dans la mesure où je dispose de peu d'informations sur l'ordinateur qui sera utilisé pour présenter le contenu&nbsp;: je ne peux que difficilement me tromper en considérant qu'il dispose d'un navigateur récent.
 
-J'ai repris mon premier jet rédactionnel et j'ai regardé le paragraphe que j'y avais mis pour séparer les contenus en unités logiques. 7 unités, 7 <em lang="en">slides</em>. À force de ressasser ma trame, j'ai des idées de contenus plutôt visuels et parfois drôles qui me sont venus, ça devrait fonctionner.
+J'ai repris mon premier jet rédactionnel et j'ai regardé le paragraphe que j'y avais mis pour séparer les contenus en unités logiques. 7 unités, 7 <span lang="en">slides</span>. À force de ressasser ma trame, j'ai des idées de contenus plutôt visuels et parfois drôles qui me sont venus, ça devrait fonctionner.
 
-J'ai ajouté des <em lang="en">slides</em> qui sont uniquement dédiées à la présentation d'outils méthodologiques issus de la boite-à-outils du Service Design. Malheureusement, cela augmente à la fois le contenu rédactionnel (je ne peux pas présenter des outils sans en parler) et le temps passé.
+J'ai ajouté des <span lang="en">slides</span> qui sont uniquement dédiées à la présentation d'outils méthodologiques issus de la boite-à-outils du Service Design. Malheureusement, cela augmente à la fois le contenu rédactionnel (je ne peux pas présenter des outils sans en parler) et le temps passé.
 
 ### J-10&nbsp;: Petites itérations
 
@@ -99,4 +99,4 @@ Je m'aperçois également que j'ai lu mes notes pendant l'appel, ce qui est un a
 
 Je suis environ à 1200 mots, ce qui est très loin de mon premier jet initial inférieur à 800 mots, mais je maîtrise assez bien l’enchaînement qui contient davantage de répétitions et de tic de langages qui facilitent sa mémorisation. Par contre, là où ça peut coincer, c'est que je me minute régulièrement à 7-8 minutes (*note post-présentation&nbsp;: cela sera en effet mon chrono*).
 
-Plus ça va, plus je me rends compte qu'un <em lang="en">Lightning Talk</em> est, par bien des aspects, plus compliqué à produire qu'une présentation de 30 minutes où on peut laisse davantage de place à l'improvisation. Advienne que pourra, plus moyen de faire demi-tour et évidemment hors de question de retoucher aux <em lang="en">slides</em> au denier moment. J'aviserai sur place, en fonction de notre conformité au planning. S'il le faut, j'irai plus vite sur certaines parties… si je peux.
+Plus ça va, plus je me rends compte qu'un <span lang="en">Lightning Talk</span> est, par bien des aspects, plus compliqué à produire qu'une présentation de 30 minutes où on peut laisse davantage de place à l'improvisation. Advienne que pourra, plus moyen de faire demi-tour et évidemment hors de question de retoucher aux <span lang="en">slides</span> au denier moment. J'aviserai sur place, en fonction de notre conformité au planning. S'il le faut, j'irai plus vite sur certaines parties… si je peux.

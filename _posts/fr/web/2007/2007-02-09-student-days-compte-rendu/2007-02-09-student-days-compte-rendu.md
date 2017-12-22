@@ -11,7 +11,7 @@ publishDate: '2007-02-09'
 locale: fr_FR
 ---
 
-Dans un amphithéâtre suréquipé du Palais des Congrès de Paris, Benjamin Gauthey a clos les Tech Days par les traditionnels <em lang="en">Student Days</em>, session destinée aux étudiants et geeks pour leur présenter les toutes dernières technologies de Microsoft. Après une entrée spectaculaire sur un [Segway](http://fr.wikipedia.org/wiki/Segway_HT), le show s'est déroulé sous la houlette de l'<em lang="en">Enthusiast Evangelist</em> qui a cédé la parole quand nécessaire à ses collègues Microsoftees.
+Dans un amphithéâtre suréquipé du Palais des Congrès de Paris, Benjamin Gauthey a clos les Tech Days par les traditionnels <span lang="en">Student Days</span>, session destinée aux étudiants et geeks pour leur présenter les toutes dernières technologies de Microsoft. Après une entrée spectaculaire sur un [Segway](http://fr.wikipedia.org/wiki/Segway_HT), le show s'est déroulé sous la houlette de l'<span lang="en">Enthusiast Evangelist</span> qui a cédé la parole quand nécessaire à ses collègues Microsoftees.
 
 <!-- more -->
 

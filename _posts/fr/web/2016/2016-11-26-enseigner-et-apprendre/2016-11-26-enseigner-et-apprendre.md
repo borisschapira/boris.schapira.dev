@@ -20,6 +20,6 @@ Enseigner, c'est l'assurance d'être perpétuellement mis au défi et donc, d'ap
 
 La clé, c'est de réussir à leur apprendre à apprendre ce que l'on sait faire mais le problème, c'est qu'ils n'apprennent pas nécessairement comme nous avons appris, donc il faut arriver à les positionner dans une dynamique de réalisation qui les investit dans leur savoir. En plus simple : ils ne retiennent que ce qu'ils font et ne doutent que de ce qu'ils font à plusieurs, en s'analysant les uns les autres.
 
-Enseigner, c'est leur apprendre à trouver en eux les clés pour s'interroger, aller plus loin, déterminer des <em lang="en">patterns</em> dans leurs productions, dans les projets, dans les porte-feuilles, dans le marché, dans leur propre tête. Déconstruire son environnement pour mieux construire à l'intérieur. 
+Enseigner, c'est leur apprendre à trouver en eux les clés pour s'interroger, aller plus loin, déterminer des <span lang="en">patterns</span> dans leurs productions, dans les projets, dans les porte-feuilles, dans le marché, dans leur propre tête. Déconstruire son environnement pour mieux construire à l'intérieur. 
 
 Certain·e·s sont parfois désemparé·e·s par mon honneteté, quand je leur dis ce que j'attends d'eux. Il faut dire que je n'ai aucun doute sur le fait que mes élèves sont plus jeunes, plus dynamiques, plus intelligents et ont bien plus de temps libre que moi. Armés des bons outils méthodologiques et d'un jeu de compétences techniques de base, il me semblerait normal qu'ils deviennent tous, à terme, de meilleurs professionnels que je ne le suis.

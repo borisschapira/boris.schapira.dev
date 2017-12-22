@@ -22,7 +22,7 @@ Chers étudiants, ce billet vous est dédié. Nous venons de finir ensemble une 
 Plus spécifiquement, concernant le RWD :
 
 * Si on passe 35h à vous dire que Bootstrap n'est pas utile quand le projet ne le nécessite pas et qu'on vous apprend trois techniques différentes pour faire mieux et sans, ne le sortez pas de votre manche à l'examen.
-* Le point de rupture n'est pas là pour embarquer un maximum de <em lang="en">devices</em> mais pour, au contraire, diviser la population et mieux adresser chaque partie. Un point de rupture mobile à 740px est clairement très large…
+* Le point de rupture n'est pas là pour embarquer un maximum de <span lang="en">devices</span> mais pour, au contraire, diviser la population et mieux adresser chaque partie. Un point de rupture mobile à 740px est clairement très large…
 
 # À l'écrit :
 
@@ -43,8 +43,8 @@ N'hésitez pas à introduire une représentation visuelle de vos responsabilité
 
 # Présentation
 
-- Si vous numérotez vos <em lang="en">slides</em> à la main, pensez à revoir ces numéros avant la soutenance…
-- Dans vos <em lang="en">slides</em>, évitez d'écrire des phrases complètes. Leur lecture distrait le public.
+- Si vous numérotez vos <span lang="en">slides</span> à la main, pensez à revoir ces numéros avant la soutenance…
+- Dans vos <span lang="en">slides</span>, évitez d'écrire des phrases complètes. Leur lecture distrait le public.
 - Pensez à changer de fond d'écran avant de brancher le projecteur. Vos préférences sexuelles n'ont pas vocation à se retrouver projetées en 4x3.
 
 # À l'oral

@@ -65,7 +65,7 @@ En 2015, je me plaignais de n'avoir pas pris le temps de prendre du recul sur ma
 
 ## Me tenir droit, mieux manger {#alimentation}
 
-Durant toute l'année 2016, ma femme et moi avons poursuivi nos efforts pour une alimentation plus saine, à la fois pour nous mais aussi et surtout pour les enfants. Notre consommation de viande a profondément chuté (au point de passer parfois une semaine sans en préparer/consommer à la maison), et nous avons découvert de nombreuses recettes à base de légume, notamment auprès de la communauté <em lang="en">vegan</em> qui partage beaucoup. Bien que la fin d'année est largement sombré dans le n'importe quoi (la fin d'année, donc), c'est déjà ça.
+Durant toute l'année 2016, ma femme et moi avons poursuivi nos efforts pour une alimentation plus saine, à la fois pour nous mais aussi et surtout pour les enfants. Notre consommation de viande a profondément chuté (au point de passer parfois une semaine sans en préparer/consommer à la maison), et nous avons découvert de nombreuses recettes à base de légume, notamment auprès de la communauté <span lang="en">vegan</span> qui partage beaucoup. Bien que la fin d'année est largement sombré dans le n'importe quoi (la fin d'année, donc), c'est déjà ça.
 
 Du côté de ma posture, j'ai noté une vraie amélioration et des conséquences sur mon bien-être au travail : meilleure digestion (plus de syndrome d'endormissement après un déjeuner copieux), meilleure concentration, disparition des douleurs lombaires. Le [Better Back](/2016/02/betterback-meilleure-posture/) m'a beaucoup aidé comme tuteur le temps que certains muscles dorsaux se remettent en ordre de marche, mais n'est plus utile très souvent aujourd'hui.
 
@@ -85,7 +85,7 @@ Cela a commencé par un travail intérieur pour mieux identifier mes propres bia
 
 On va essayer de ne pas y passer trois heures : quasiment tout ce que j'ai écrit sur mon blog "Citoyen" en 2016 concernait la perception de l'Islam en France. C'est un sujet en creux en ce moment, mais qui reviendra très fortement et de manière nauséabonde rapidement, pour servir la soupe sécuritaire à la Présidentielle. Ne vous y trompez pas, le moindre accident sera l'occasion de complètement occulter l'éducation, la Culture, l'écologie…
 
-<em lang="en">Brace for impact</em>.
+<span lang="en">Brace for impact</span>.
 
 ### Au travail aussi {#travail}
 
@@ -103,7 +103,7 @@ J'ai également essayé d'agrandir mon cercle d'échange et d'inclusion en m'int
 
 En chemin, j'ai rencontré ou me suis rapproché de pas mal de gens qui pensent et agissent comme moi, mais je sens que je heurte le plafond de notre bulle de verre commune. Peu de nos actions ont véritablement un impact sur des minorités et beaucoup de choses sont entravées par des conflits endogènes.
 
-> Combien de fois les femmes féministes répètent à des hommes que le souci n’est pas de savoir à quel point ils sont "des mecs biens" ? Combien d’antiracistes expriment leur lassitude ou leur mépris face aux blancs qui se prennent pour des héros parce que "moins racistes" ou ayant fait une mission humanitaire? Il existe même des termes spécifiques: <em lang="en">Nice Guy</em>, <em lang="en">White Saviour</em>, Chevalier blanc…
+> Combien de fois les femmes féministes répètent à des hommes que le souci n’est pas de savoir à quel point ils sont "des mecs biens" ? Combien d’antiracistes expriment leur lassitude ou leur mépris face aux blancs qui se prennent pour des héros parce que "moins racistes" ou ayant fait une mission humanitaire? Il existe même des termes spécifiques: <span lang="en">Nice Guy</span>, <span lang="en">White Saviour</span>, Chevalier blanc…
 > <cite>"[Social Justice Warriors, notre violence n’est pas virtuelle](https://lesquestionscomposent.fr/social-justice-warriors-notre-violence-nest-pas-virtuelle/)", Lauren Plume</cite>
 
 J'ai en effet rencontré de grandes difficultés avec certaines personnes… violentes, je pense que c'est bien le mot, qui ont rejeté mon propos en me cataloguant immédiatement comme (rayez les mentions inutiles) mâle blanc cisgenre hétéro valide neurotypique CSP+, utilisateur de produits propriétaires, vivant dans un des pays développés les plus riches du monde et en bonne santé (avec tous mes membres). 

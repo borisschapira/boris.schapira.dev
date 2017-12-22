@@ -21,7 +21,7 @@ Au dîner du soir, ma femme demande donc :
 
 > Non.
 
-{% capture cap %}<em lang="en">What happens in Vegas stays in Vegas.</em>{% endcapture %}
+{% capture cap %}<span lang="en">What happens in Vegas stays in Vegas.</span>{% endcapture %}
 {% include video_as_a_gif.html.liquid
     slug="knowing-glance"
     alt="Le capitaine Kirk et Spock s'échangent un regard complice."

@@ -34,4 +34,4 @@ _C’est fou ce qu’on peut entendre quand on tend l’oreille…_
 
 ## Désir d'avenir
 
-> Mon fils, je veux que plus tard tu fasses tout ce que tu veux. Vraiment. Tout ce qui te plaira sauf gigolo, marketeux ou salarié d'une organisation <em lang="en">non-profit</em>.
+> Mon fils, je veux que plus tard tu fasses tout ce que tu veux. Vraiment. Tout ce qui te plaira sauf gigolo, marketeux ou salarié d'une organisation <span lang="en">non-profit</span>.

@@ -32,6 +32,6 @@ Il s'interrompt, prend une voix un peu grave et pompeuse et je comprends rapidem
 
 Je n'ai pas réussi à retenir un rire. Avec l'énervement, il s'est rapidement transformé en fou rire. Une fois mon calme retrouvé, j'ai enfin pu le corriger :
 
-> C'est <em lang="en">open-bar</em>, le mot que tu cherches. <em lang="en">Open-bar</em>.
+> C'est <span lang="en">open-bar</span>, le mot que tu cherches. <span lang="en">Open-bar</span>.
 
 Du coup, il a eu sa poire.

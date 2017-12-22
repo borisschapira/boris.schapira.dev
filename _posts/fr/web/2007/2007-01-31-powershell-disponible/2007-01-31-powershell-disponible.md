@@ -21,4 +21,4 @@ Microsoft revient aux fondamentaux de l'informatique en proposant un interpréte
 
 L'avantage de Powershell&nbsp;? Une orientation totale vers l'objet avec un développement autour de .NET 2.0 et des instances de classe. Et là , vous vous dites&nbsp;: "Mais .NET 2.0 est disponible sur XP, ça voudrait dire que…" et vous auriez totalement raison&nbsp;! Powershell est également [disponible pour Windows XP ici&nbsp;](http://www.microsoft.com/fr-fr/download/details.aspx?id=9591)!
 
-Je pense qu'on n'a pas fini d'entendre parler de ce projet : de nombreux <em lang="en">power-user</em> vont se l'approprier rapidement pour tout un tas d'utilisations productives. Hâte de voir ce que cela va donner.
+Je pense qu'on n'a pas fini d'entendre parler de ce projet : de nombreux <span lang="en">power-user</span> vont se l'approprier rapidement pour tout un tas d'utilisations productives. Hâte de voir ce que cela va donner.
