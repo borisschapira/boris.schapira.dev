@@ -7,7 +7,7 @@ module Jekyll
 
     def render(context)
       locale = context['page']['locale']
-      locale = context['site']['locale'] unless locale
+      locale ||= context['site']['locale']
       raise "Page language not specified: #{context['page']['path']}" unless locale
       site = context['site']
       source_locale = site['locale']

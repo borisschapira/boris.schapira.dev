@@ -8,24 +8,23 @@ module Jekyll
     # Example:
     #   {{ post.date | localize: "%d.%m.%Y" }}
     #   {{ post.date | localize: ":short" }}
-    def localize(input, format=nil, locale=nil)
-      locale='fr_FR' unless locale
+    def localize(input, format = nil, locale = nil)
+      locale ||= 'fr_FR'
       load_translations
-      format = (format =~ /^:(\w+)/) ? $1.to_sym : format
+      format = format =~ /^:(\w+)/ ? Regexp.last_match(1).to_sym : format
 
       # Force the locale each time otherwise `jekyll serve` will fail with
       # "Liquid Exception: :en is not a valid locale" each time a regeneration happens
       I18n.locale = locale
 
-      I18n.l input, :format => format
+      I18n.l input, format: format
     end
 
     def load_translations
       if I18n.backend.send(:translations).empty?
-        I18n.backend.load_translations Dir[File.join(File.dirname(__FILE__),'../_data/_locales/*.yml')]
+        I18n.backend.load_translations Dir[File.join(File.dirname(__FILE__), '../_data/_locales/*.yml')]
       end
     end
-
   end
 end
 
