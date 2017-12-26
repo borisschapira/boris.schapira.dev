@@ -69,7 +69,7 @@ In the end, all the images appear on the screen in the same way: a rectangle com
 
 ### What does my image represent?
 
-Some file formats encode images in the same way as they appear on the screen: like coloured dot matrices. Each color point is encoded on several bytes and positioned within a map according to its coordinates. That's why these formats are sometimes called "bitmap". Various compression algorithms then reduce the space taken by this information on the disk. For these formats, we speak about "<strong>raster graphics</strong>". Their advantage: they can handle any photograph and some of them, as the PNG format, come with advanced features like color palette optimization or transparency.
+Some file formats encode images in the same way as they appear on the screen: like colored dot matrices. Each color point is encoded on several bytes and positioned within a map according to its coordinates. That's why these formats are sometimes called "bitmap". Various compression algorithms then reduce the space taken by this information on the disk. For these formats, we speak about "<strong>raster graphics</strong>". Their advantage: they can handle any photograph and some of them, as the PNG format, come with advanced features like color palette optimization or transparency.
 
 Unfortunately, this encoding process must define the dimensions of the matrix first, that is to say the resolution of the image, before positioning the points. As a consequence, if you enlarge an existing <strong>JPG</strong>, <strong>PNG</strong> or <strong>WebP</strong> raster graphic, you will dramatically decrease the quality.
 

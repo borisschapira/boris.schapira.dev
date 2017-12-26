@@ -31,7 +31,7 @@ This is not a continuous process though, because of Javascript. As these scripts
 
 In this article, we will focus on what can be done about JavaScript files to improve render timings.
 
-{% capture img_alt %}Capture of the Chrome DevTools Performance tab. A loading timeline displays the different steps in colour. A large yellow area is surrounded by blue spots. The first image appears only at the end.{% endcapture %}
+{% capture img_alt %}Capture of the Chrome DevTools Performance tab. A loading timeline displays the different steps in color. A large yellow area is surrounded by blue spots. The first image appears only at the end.{% endcapture %}
 {% capture img_caption %}Even if the construction of the DOM (in blue) occurs mostly before the execution of JavaScript (in yellow), it only ends after. In this "default" configuration of script loading, the DOM is built very late. The display is delayed.{% endcapture %}
 {% include rwd-image.html.liquid 
     path="/assets/images/2017-12-18/1_block.png"
