@@ -53,7 +53,7 @@ All other scripts should then be delayed, asynchronized, or moved to the footer,
 
 ## Move noncritical scripts at the bottom of the page
 
-A very simple and intuitive way to defer the browser's parsing of JavaScript files is to place the declarations at the end of the HTML page, just before the </body> tag. Doing so, the browser will not have any knowledge of the scripts until it has almost built the entire DOM.
+A very simple and intuitive way to defer the browser's parsing of JavaScript files is to place the declarations at the end of the HTML page, just before the `</body>` tag. Doing so, the browser will not have any knowledge of the scripts until it has almost built the entire DOM.
 
 Although this technique appears to be suitable for most of the cases, it presents a serious drawback. Not only it delays scripts evaluation, but it also delays their downloading which excludes its use for large scripts. Moreover, if your resources are not served by HTTP/2 or come from an external domain, you will also add a substantial resolution time to the retrieval time.
 
