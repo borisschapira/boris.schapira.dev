@@ -170,15 +170,22 @@ html .content .post .p-header .p-author {
 }
 
 .post-title a:hover {
-  text-decoration: none;
-  padding: calc( 1em * 60 / 100) 0;
-  background-image: linear-gradient(currentColor, currentColor);
-  background-repeat: no-repeat;
-  background-size: 100% calc( 1em / 10);
-  background-position: center bottom 29%;
-  background-origin: padding-box;
-  text-shadow: 3px 0 #fff, 2px 0 #fff, 1px 0 #fff, -1px 0 #fff, -2px 0 #fff, -3px 0 #fff;
+  text-decoration: underline;
+  text-decoration-skip-ink: auto;
   transition: color .1s ease-out;
+}
+
+@supports not (text-decoration-skip-ink: auto) {
+  .post-title a:hover {
+    text-decoration: none;
+    padding: calc( 1em * 60 / 100) 0;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-repeat: no-repeat;
+    background-size: 100% calc( 1em / 10);
+    background-position: center bottom 29%;
+    background-origin: padding-box;
+    text-shadow: 3px 0 #fff, 2px 0 #fff, 1px 0 #fff, -1px 0 #fff, -2px 0 #fff, -3px 0 #fff;
+  }
 }
 
 .footnotes,
@@ -317,26 +324,35 @@ html .content .post .p-header .p-author {
   strong {
     color: $color-main;
   }
+
   a {
-    text-decoration: none;
-    padding: calc( 1em * 60 / 100) 0;
-    background-image: linear-gradient(currentColor, currentColor);
-    background-repeat: no-repeat;
-    background-size: 100% calc( 1em / 10);
-    background-position: center bottom 29%;
-    background-origin: padding-box;
-    text-shadow: 3px 0 #fff, 2px 0 #fff, 1px 0 #fff, -1px 0 #fff, -2px 0 #fff, -3px 0 #fff;
+    text-decoration: underline;
+    text-decoration-skip-ink: auto;
     transition: color .1s ease-out;
+  }
+
+  @supports not (text-decoration-skip-ink: auto) {
+    a {
+      text-decoration: none;
+      padding: calc( 1em * 60 / 100) 0;
+      background-image: linear-gradient(currentColor, currentColor);
+      background-repeat: no-repeat;
+      background-size: 100% calc( 1em / 10);
+      background-position: center bottom 29%;
+      background-origin: padding-box;
+      text-shadow: 3px 0 #fff, 2px 0 #fff, 1px 0 #fff, -1px 0 #fff, -2px 0 #fff, -3px 0 #fff;
+    }
+  }
+
+  a {
     &.reversefootnote {
       background: none;
     }
     &:hover {
-      color: $color-main;
-    }
-    &:visited {
-      color: rgb(63, 80, 173);
+      color: darken($color-main, 20);
     }
   }
+
   .read-more {
     a:visited {
       color: darken($color-main, 10);
