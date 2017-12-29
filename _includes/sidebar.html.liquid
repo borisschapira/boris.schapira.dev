@@ -1,5 +1,5 @@
 <div class="sidebar" role="navigation">
-  <div class="container sidebar-sticky">
+  <div class="container">
     <div class="sidebar-about">
       <h1>
         <a href="{{ page.base-url }}" itemprop="url">
@@ -52,11 +52,10 @@
               <use xlink:href="#icon-search"></use>
             </svg>&nbsp;{% t Recherche %}</a>
         </li>-->
-        <li class="sidebar-nav-item{% if page.i18n-key == 'about' %} active{% endif %}">
+        <li class="sidebar-nav-item">
           <a href="{{ page.base-url }}{% t a-propos %}/">
-            <svg class="icon icon-info">
-              <use xlink:href="#icon-info"></use>
-            </svg>&nbsp;{% t À propos %}</a>
+            {% include img/avatar.svg.liquid class="avatar" %}
+          </a>
         </li>
       </ul>
     </nav>

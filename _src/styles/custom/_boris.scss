@@ -53,6 +53,27 @@ img {
   color: $color-main;
 }
 
+.content a:hover,
+.post-content a {
+  text-decoration: underline;
+  text-decoration-skip-ink: auto;
+  transition: color .1s ease-out;
+}
+
+@supports not (text-decoration-skip-ink: auto) {
+  .content a:hover,
+  .post-content a {
+    text-decoration: none;
+    padding: calc( 1em * 60 / 100) 0;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-repeat: no-repeat;
+    background-size: 100% calc( 1em / 10);
+    background-position: center bottom 29%;
+    background-origin: padding-box;
+    text-shadow: 3px 0 #fff, 2px 0 #fff, 1px 0 #fff, -1px 0 #fff, -2px 0 #fff, -3px 0 #fff;
+  }
+}
+
 abbr,
 acronym {
   font-size: 1em;
@@ -326,25 +347,6 @@ html .content .post .p-header .p-author {
   }
 
   a {
-    text-decoration: underline;
-    text-decoration-skip-ink: auto;
-    transition: color .1s ease-out;
-  }
-
-  @supports not (text-decoration-skip-ink: auto) {
-    a {
-      text-decoration: none;
-      padding: calc( 1em * 60 / 100) 0;
-      background-image: linear-gradient(currentColor, currentColor);
-      background-repeat: no-repeat;
-      background-size: 100% calc( 1em / 10);
-      background-position: center bottom 29%;
-      background-origin: padding-box;
-      text-shadow: 3px 0 #fff, 2px 0 #fff, 1px 0 #fff, -1px 0 #fff, -2px 0 #fff, -3px 0 #fff;
-    }
-  }
-
-  a {
     &.reversefootnote {
       background: none;
     }
@@ -533,6 +535,7 @@ footer .wrap {
 }
 
 .follow-icons {
+  text-align: center;
   display: block;
   li a:hover {
     text-decoration: none;
@@ -551,28 +554,12 @@ footer .wrap {
 }
 
 .categories .sidebar-nav-item {
-  &::after {
-    content: '·';
-    font-size: 1rem;
-    padding: 0 0.2rem;
-  }
-  &:last-of-type::after {
-    content: '';
-  }
+  margin: 0 4px;
 }
-
 .secondary {
   margin-bottom: 20px;
   .sidebar-nav-item {
     display: inline-block;
-    &::after {
-      content: '';
-      font-size: 1rem;
-      padding: 0 0.2rem;
-    }
-    &:last-of-type::after {
-      content: '';
-    }
   }
 }
 
@@ -610,9 +597,6 @@ footer .wrap {
   .sidebar-nav .sidebar-nav-item {
     display: block;
     border-right: none;
-    &::after {
-      content: '';
-    }
   }
   .sidebar-about h1 {
     font-size: 2.25rem;
@@ -665,6 +649,12 @@ sup {
 .twitter-tweet-rendered {
   margin-left: auto;
   margin-right: auto;
+}
+
+.avatar {
+  max-width: 80%;
+  display: block;
+  margin: 0 auto 1rem auto;
 }
 
 @import "comments"
