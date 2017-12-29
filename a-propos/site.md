@@ -1,7 +1,7 @@
 ---
 layout: page
 title: À propos de ce site
-date: 2015-10-05 17:15:20
+date: 2017-12-29 14:00:00
 i18n-key: about-site
 permalink: /a-propos/site/index.html
 locale: fr_FR
@@ -25,10 +25,11 @@ J'ai commencé par jeter mon blog Wordpress pour le remplacer par un générateu
 
 Mes dépendances Ruby sont gérées par [Bundler](http://bundler.io/) :
 
-* pour la gestion des ressources statiques (hors images) : `jekyll-assets` ;
 * pour la gestion des archives : `jekyll-archives` ;
 * pour la génération d'images <em lang="en">responsive</em> : `jekyll-cloudinary` ;
-* pour le `sitemap.xml` : `jekyll-sitemap`.
+* pour le `sitemap.xml` : `jekyll-sitemap` ;
+* pour la pagination : `jekyll-paginate-v2` ;
+* pour la micro-typographie française : `jekyll-microtypo`.
 
 J'en oublie sûrement mais vous pourrez trouver l'ensemble des dépendances [sur le dépôt Github](https://github.com/borisschapira/jekyll/blob/master/Gemfile "Squelette Jekyll de BorisSchapira.com").
 
@@ -40,11 +41,7 @@ La durée de lecture est calculée en considérant une vitesse de lecture moyenn
 
 [^rs]: la mienne est d'un peu plus de {{ site.author.reading_speed_fr }} mots en français et de {{ site.author.reading_speed_en }} en anglais (à plus de 80 % de rétention, sinon ça ne compte pas).
 
-Jekyll ayant tendance à produire du code HTML très "aéré" et aucun moteur de rendu Markdown ne m'ayant convaincu quant à sa capacité à traité certaines spécificités typographiques françaises, j'ai mis en place un script de remplacement et de compression, libre adaptation de [ce tutoriel de Sylvain Durand](https://www.sylvaindurand.org/ameliorer-la-typographie-avec-jekyll/ "Améliorer la typographie avec Jekyll"). De plus, Jekyll ne semble pas proposer de syntaxe simple pour la navigation précédent/suivant au sein d'une même catégorie, j'utilise donc [ce plugin d'Adams Clarkson](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/ "Jekyll Post Navigation Within a Category").
-
-En local, j'utilise parfois [node](https://nodejs.org/), et plus particulièrement [gulp](http://gulpjs.com/) et [browsersync](http://www.browsersync.io/), pour que mon navigateur se mette seul à jour au fil de mes sauvegardes[^5].
-
-[^5]: voir [l'article de Vladimir Iakovlev](https://nvbn.github.io/2015/06/19/jekyll-browsersync/ "Add live reloading to Jekyll with Gulp and Browsersync").
+J'utilise [node](https://nodejs.org/), et plus particulièrement [gulp](http://gulpjs.com/) pour la compilation des ressources statiques CSS et JS.
 
 ### Compilation et déploiement
 
