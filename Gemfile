@@ -16,7 +16,7 @@ group :jekyll_plugins do
   gem 'jekyll-algolia', '~> 1.0.1'
   gem 'jekyll-archives'
   gem 'jekyll-cloudinary'
-  gem 'jekyll-microtypo', '~> 0.1.0'
+  gem 'jekyll-microtypo'
   gem 'jekyll-paginate-v2', '~> 1.8', '>= 1.8.1'
   gem 'jekyll-postfiles'
   gem 'jekyll-sitemap'

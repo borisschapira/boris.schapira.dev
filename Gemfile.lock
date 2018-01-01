@@ -133,7 +133,7 @@ DEPENDENCIES
   jekyll-algolia (~> 1.0.1)
   jekyll-archives
   jekyll-cloudinary
-  jekyll-microtypo (~> 0.1.0)
+  jekyll-microtypo
   jekyll-paginate-v2 (~> 1.8, >= 1.8.1)
   jekyll-postfiles
   jekyll-sitemap
