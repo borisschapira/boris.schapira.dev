@@ -1,27 +1,27 @@
-require "rubygems"
-require "bundler/setup"
-require "json"
-require "yaml"
+# frozen_string_literal: true
+
+require 'rubygems'
+require 'bundler/setup'
+require 'json'
+require 'yaml'
 
 namespace :prebuild do
-
-  task :npm => ["npm:install", "npm:build"]
-  task :test => ["test:doctor", "test:posts"]
+  task npm: ['npm:install', 'npm:build']
+  task test: ['test:doctor', 'test:posts']
 
   namespace :test do
-
-    desc "Executes the jekyll doctor"
-    task :doctor, [:env] do |t, args|
-      args.with_defaults(:env => 'prod')
+    desc 'Executes the jekyll doctor'
+    task :doctor, [:env] do |_t, args|
+      args.with_defaults(env: 'prod')
       config_file = "_config_#{args[:env]}.yml"
       jekyll("doctor --config _config.yml,#{config_file}")
     end
 
-    desc "Test if content Front-Matter is YAML-valid"
+    desc 'Test if content Front-Matter is YAML-valid'
     task :posts do
       @posts = []
       Dir.glob('_posts/**/*.{md,markdown}').each do |p|
-          @posts << p
+        @posts << p
       end
       @posts.each do |post|
         begin
@@ -29,23 +29,22 @@ namespace :prebuild do
         rescue Exception => e
           puts post
           puts e.message
-          raise "Post syntax is not valid"
+          raise 'Post syntax is not valid'
         end
       end
       puts "#{@posts.size} valid posts"
     end
-
   end
 
   namespace :npm do
-    desc "Install node dependencies"
+    desc 'Install node dependencies'
     task :install do
-      npm("install")
+      npm('install')
     end
 
-    desc "Build CSS and JS"
+    desc 'Build CSS and JS'
     task :build do
-      npm("run build")
+      npm('run build')
     end
   end
 
@@ -58,5 +57,4 @@ namespace :prebuild do
   def npm(directives = '')
     sh 'npm ' + directives
   end
-
 end

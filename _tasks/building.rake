@@ -1,39 +1,37 @@
 namespace :build do
-
   # Use: rake clean
-  desc "Clean Jekyll build"
-  task :clean, [:env] => "prebuild:test" do |t, args|
+  desc 'Clean Jekyll build'
+  task :clean, [:env] do |_t, _args|
     cleanup
   end
 
   desc 'Preview on local machine (server with --auto)'
-  task :preview, [:env] => :clean do |t, args|
+  task :preview, [:env] => :clean do |_t, args|
     puts "Preview task args were: #{args}"
-    args.with_defaults(:env => 'dev')
+    args.with_defaults(env: 'dev')
     config_file = "_config_#{args[:env]}.yml"
-    if rake_running then
+    if rake_running
       puts "\n\nWarning! An instance of rake seems to be running (it might not be *this* Rakefile, however).\n"
       puts "Building while running other tasks (e.g., preview), might create a website with broken links.\n\n"
-      puts "Are you sure you want to continue? [Y|n]"
+      puts 'Are you sure you want to continue? [Y|n]'
 
       ans = STDIN.gets.chomp
       exit if ans != 'Y'
     end
     jekyll("serve --config _config.yml,#{config_file}")
   end
-  task :serve => :preview
-
+  task serve: :preview
 
   desc 'Generate for deployment (but do not deploy)'
-  task :generate, [:env,:deployment_configuration] => "prebuild:test" do |t, args|
-    args.with_defaults(:env => 'prod', :deployment_configuration => 'deploy')
+  task :generate, %i[env deployment_configuration] => [:clean, 'prebuild:test'] do |_t, args|
+    args.with_defaults(env: 'prod', deployment_configuration: 'deploy')
     config_file = "_config_#{args[:env]}.yml"
     deploy_file = "_config_#{args[:deployment_configuration]}.yml"
 
-    if rake_running then
+    if rake_running
       puts "\n\nWarning! An instance of rake seems to be running (it might not be *this* Rakefile, however).\n"
       puts "Building while running other tasks (e.g., preview), might create a website with broken links.\n\n"
-      puts "Are you sure you want to continue? [Y|n]"
+      puts 'Are you sure you want to continue? [Y|n]'
 
       ans = STDIN.gets.chomp
       exit if ans != 'Y'
@@ -44,7 +42,7 @@ namespace :build do
     puts 'Cleaning BOMs…'
     sh './scripts/postprocess.sh ./_site'
     puts 'Compressing with…'
-    npm("run brotli")
+    npm('run brotli')
   end
 
   #
@@ -59,19 +57,17 @@ namespace :build do
   # launch jekyll
   def jekyll(directives = '')
     sh 'jekyll ' + directives
-  end 
-  
+  end
+
   # launch npm
   def npm(directives = '')
     sh 'npm ' + directives
   end
 
-
   # check if there is another rake task running (in addition to this one!)
   def rake_running
     `ps | grep 'rake' | grep -v 'grep' | wc -l`.to_i > 1
   end
-
 end
 
-task :build => "build:preview"
+task build: 'build:preview'
