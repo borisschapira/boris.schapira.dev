@@ -92,7 +92,7 @@ GEM
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
     mini_portile2 (2.3.0)
-    minitest (5.10.3)
+    minitest (5.11.1)
     nokogiri (1.8.1)
       mini_portile2 (~> 2.3.0)
     nuggets (1.5.0)
@@ -129,7 +129,7 @@ DEPENDENCIES
   gsl
   html-proofer
   i18n
-  jekyll (~> 3.6)
+  jekyll (~> 3.6.2)
   jekyll-algolia (~> 1.0.1)
   jekyll-archives
   jekyll-cloudinary
@@ -141,7 +141,7 @@ DEPENDENCIES
   rake
 
 RUBY VERSION
-   ruby 2.4.3p205
+   ruby 2.5.0p-1
 
 BUNDLED WITH
    1.16.1

@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
-ruby '2.4.3'
+ruby '2.5.0'
 
 gem 'gsl'
 gem 'i18n'
-gem 'jekyll', '~>3.6'
+gem 'jekyll', '~>3.6.2'
 gem 'rake'
 
 group :jekyll_tests do
