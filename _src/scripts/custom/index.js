@@ -19,7 +19,7 @@ ready(function () {
                 updateTooltip(tooltip, target.innerHTML, title);
             }, 0);
         });
-        performance.clearMarks("abbrTouchExecuted");
+        performance.mark("abbrTouchExecuted");
 
         function getTooltipElement() {
             var tooltip = document.querySelector('#abbr-tooltip');
@@ -67,7 +67,7 @@ ready(function () {
             item.addEventListener('click', toggleVideo, false);
             item.addEventListener('mouseout', pauseVideo, false);
         });
-        performance.clearMarks("videoPlayPause");
+        performance.mark("videoPlayPause");
 
         function playVideo(e, v) {
             var video = v || this.querySelector('video');
@@ -107,7 +107,7 @@ ready(function () {
             window.grecaptcha.render(rc);
         }
     }
-    performance.clearMarks("recaptchaInit");
+    performance.mark("recaptchaInit");
 });
 
 /* Piwik */
@@ -137,4 +137,4 @@ if (window.addEventListener) {
 } else {
     embedTrackingCode();
 }
-performance.clearMarks("trackingCodeEmbeded");
+performance.mark("trackingCodeEmbeded");
