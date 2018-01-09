@@ -17,7 +17,7 @@ Jouer à des jeux vidéo à côté des enfants, c'est saisir l'occasion de les v
 > — Le "dicapé" ?  
 > — Mais oui, le prince !  
 > — Noctis ? Mais pourquoi tu l'appelles comme ça ?  
-> — Ben, tu as pas vu sur sa jambe ? Il est 'dicapé ! Et il arrive à battre les monstres et à courir quand même. Il est vraiment trop, trop fort ! Moi je sais pas si je serais fort comme ça quand je serais grand.
+> — Ben, tu as pas vu sur sa jambe ? Il est 'dicapé ! Et il arrive à battre les monstres et à courir quand même. Il est vraiment trop, trop fort ! Moi je sais pas si je serai fort comme ça quand je serai grand.
 
 Je ne sais pas si les <span lang="en">Character Designers</span> avaient imaginé cette interprétation, mais merci.
 
