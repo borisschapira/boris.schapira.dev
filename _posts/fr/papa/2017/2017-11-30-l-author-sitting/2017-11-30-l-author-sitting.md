@@ -13,7 +13,7 @@ Les enfants entendent des auteurs et autrices jeunesse manifester à la radio. �
 
 <!-- more -->
 
-J'explique en essayant de simplifier un peu mais en même temps, pas trop. Je veux qu'ils comprennent que la question est compliquée et que la vie des personnes qui écrive ou dessinent leurs livres n'est pas simple. Ils m'écoutent, mais ne disent rien. À la fin, le petit dit merci pour l'explication et va jouer. Le grand part en réfléchissant.
+J'explique en essayant de simplifier un peu mais en même temps, pas trop. Je veux qu'ils comprennent que la question est compliquée et que la vie des personnes qui écrivent ou dessinent leurs livres n'est pas simple. Ils m'écoutent, mais ne disent rien. À la fin, le petit dit merci pour l'explication et va jouer. Le grand part en réfléchissant.
 
 Trente minutes plus tard, il revient avec une idée.
 
