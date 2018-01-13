@@ -34,7 +34,7 @@
   };
 </script>{% if page.type == 'post' %}
 <script>injectScript('/assets/scripts/comments.min.js');</script>
-<script>injectScript('https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit');</script>{% endif %}
+{% if site.environment != 'development' %}<script>injectScript('https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit');</script>{% endif %}{% endif %}
 <script>injectScript('/assets/scripts/index.min.js');</script>
 {% if page.loadTwitterWjs %}<script>injectScript('/assets/scripts/twitter-wjs.min.js');</script>
 {% endif %}{% if include.loadSearch %}<script>injectScript('/assets/scripts/search.min.js');</script>{% endif %} {% if page.permalink == '404.html' %}<script>injectScript('/assets/scripts/404.min.js');</script>{% endif %}
