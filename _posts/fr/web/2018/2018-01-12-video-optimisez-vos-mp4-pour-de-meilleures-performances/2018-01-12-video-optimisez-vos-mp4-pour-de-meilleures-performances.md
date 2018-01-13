@@ -21,7 +21,7 @@ Le format MP4 représente plus de 75 % des vidéos diffusées sur Internet aujou
 
 {% capture img_alt %}Graphique de courbes{% endcapture %}
 {% capture img_caption %}Évolution des usages des différents types de formats video sur le Web. 
-Source: Données HttpArchive requêtées  via [BigQuery](https://goo.gl/srggsf) – merci à [Rick Viscomi](https://twitter.com/rick_viscomi) pour son aide.{% endcapture %}
+Source: Données HttpArchive requêtées  via [BigQuery](https://goo.gl/srggsf).{% endcapture %}
 {% include rwd-image.html.liquid 
     path="/assets/images/2018-01-12/0_video_usage.png"
     alt=img_alt
@@ -150,4 +150,4 @@ ffmpeg -i source.mp4 -c:v libvpx-vp9 -b:v 1M -pass 1 -f webm /dev/null && ffmpeg
 * **Proposez des alternatives à MP4**, comme WebM, qui peuvent être plus performantes.
 * Faites attention à l'<span lang="en">autoplay</span>, envisagez des solutions dédiées pour le Full HD et n'hésitez pas à ne pas proposer de vidéos quand le contexte le demande.
 
-*Merci à Ravana Renoncé pour son aide*.
+_Merci à Ravana Renoncé et [Rick Viscomi](https://twitter.com/rick_viscomi) pour leur aide._
