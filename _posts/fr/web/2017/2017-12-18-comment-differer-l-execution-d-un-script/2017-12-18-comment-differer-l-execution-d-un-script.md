@@ -14,7 +14,7 @@ publishDate: '2017-12-18'
 locale: fr_FR
 ---
 
-_Les artistes ne sont pas les seul·e·s à redouter les pages blanches, les internautes aussi. Leur frustration peut les pousser à abandonner votre site plus tôt qu’ils ou elles ne l’auraient voulu. Pour éviter ça, plusieurs techniques d’optimisation du rendu existent. Comme différer l’analyse et l’exécution des fichiers JavaScript._
+Les artistes ne sont pas les seul·e·s à redouter les pages blanches, les internautes aussi. Leur frustration peut les pousser à abandonner votre site plus tôt qu’ils ou elles ne l’auraient voulu. Pour éviter ça, plusieurs techniques d’optimisation du rendu existent. Comme différer l’analyse et l’exécution des fichiers JavaScript.
 
 {% include rwd-image.html.liquid 
     path="/assets/images/2017-12-18/0_chess.jpg"
