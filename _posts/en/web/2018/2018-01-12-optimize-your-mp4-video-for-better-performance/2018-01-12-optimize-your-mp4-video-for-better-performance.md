@@ -149,4 +149,4 @@ From the optimized 1.2MB video of Endeavour Shuttle presented at the beginning o
 * **Propose alternatives to MP4**, such as WebM.
 * Be careful with autoplay, consider dedicated solutions for Full HD and don't hesitate to hide videos when needed.
 
-*Thanks to Ravana Renoncé and [Rick Viscomi](https://twitter.com/rick_viscomi) for their help.*
+*Thanks to [Ravana Renoncé](https://www.linkedin.com/in/ravana/) and [Rick Viscomi](https://twitter.com/rick_viscomi) for their help.*

@@ -150,4 +150,4 @@ ffmpeg -i source.mp4 -c:v libvpx-vp9 -b:v 1M -pass 1 -f webm /dev/null && ffmpeg
 * **Proposez des alternatives à MP4**, comme WebM, qui peuvent être plus performantes.
 * Faites attention à l'<span lang="en">autoplay</span>, envisagez des solutions dédiées pour le Full HD et n'hésitez pas à ne pas proposer de vidéos quand le contexte le demande.
 
-_Merci à Ravana Renoncé et [Rick Viscomi](https://twitter.com/rick_viscomi) pour leur aide._
+_Merci à [Ravana Renoncé](https://www.linkedin.com/in/ravana/) et [Rick Viscomi](https://twitter.com/rick_viscomi) pour leur aide._
