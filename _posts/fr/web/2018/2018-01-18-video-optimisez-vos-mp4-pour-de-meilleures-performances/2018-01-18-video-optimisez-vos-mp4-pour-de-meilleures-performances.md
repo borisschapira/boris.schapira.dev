@@ -1,17 +1,16 @@
 ---
 title: "Vidéo : optimisez vos MP4 pour de meilleures performances"
 i18n-key: optimize-mp4
-date: '2018-01-12'
+date: '2018-01-18'
 lang: fr
-canonical: 'https://blog.dareboost.com/fr/2017/12/differer-les-scripts-pour-accelerer-le-rendu/'
-published: false
+canonical: 'https://blog.dareboost.com/fr/2018/01/video-optimisez-vos-mp4-pour-de-meilleures-performances/'
 type: post
 categories:
     - web
 tags:
     - 'Performance Web'
     - Video
-publishDate: '2018-01-12'
+publishDate: '2018-01-18'
 locale: fr_FR
 ---
 
@@ -23,7 +22,7 @@ Le format MP4 représente plus de 75 % des vidéos diffusées sur Internet aujou
 {% capture img_caption %}Évolution des usages des différents types de formats video sur le Web. 
 Source: Données HttpArchive requêtées  via [BigQuery](https://goo.gl/srggsf).{% endcapture %}
 {% include rwd-image.html.liquid 
-    path="/assets/images/2018-01-12/0_video_usage.png"
+    path="/assets/images/2018-01-18/0_video_usage.png"
     alt=img_alt
     caption=img_caption
 %}
@@ -37,7 +36,7 @@ Pourtant, on ne diffuse par une vidéo sur Internet comme on la lit sur un ordin
 {% capture img_alt %}Capture du logiciel VLC{% endcapture %}
 {% capture img_caption %}Interface de conversion de VLC{% endcapture %}
 {% include rwd-image.html.liquid 
-    path="/assets/images/2018-01-12/1_vlc_convert.png"
+    path="/assets/images/2018-01-18/1_vlc_convert.png"
     alt=img_alt
     caption=img_caption
 %}
@@ -94,7 +93,7 @@ Si votre serveur est configuré pour accepter le [Service d'Octet](https://fr.wi
 {% capture img_alt %}Capture des ChromeDevTools, onglet "Network"{% endcapture %}
 {% capture img_caption %}Dans cet exemple, le navigateur exécute trois requêtes avant d'obtenir les métadonnées et de commencer la lecture.{% endcapture %}
 {% include rwd-image.html.liquid 
-    path="/assets/images/2018-01-12/2_devtools_capture.png"
+    path="/assets/images/2018-01-18/2_devtools_capture.png"
     alt=img_alt
     caption=img_caption
 %}
@@ -108,14 +107,14 @@ Un fichier MP4 se décompose en plusieurs unités de données appelées atomes. 
 {% capture img_alt %}Utilisation d'AtomicParsley en ligne de commande{% endcapture %}
 {% capture img_caption %}Dans l'exemple ci-dessus, l'atome `moov` vient après l'atome `mdat` (4e ligne){% endcapture %}
 {% include rwd-image.html.liquid 
-    path="/assets/images/2018-01-12/3_console_capture.png"
+    path="/assets/images/2018-01-18/3_console_capture.png"
     alt=img_alt
     caption=img_caption
 %}
 
 Il existe plusieurs méthodes pour déplacer l'atome `moov` en première position. Un logiciel comme Handbrake offre une option "Optimiser pour le Web" ([documentation d’Handbrake en anglais](https://handbrake.fr/docs/en/latest/advanced/web-optimised.html)). Dans d'autres logiciels, cette option est appelée "<span lang="en">MP4 Fast Start</span>".
 
-ffmpeg peut rapidement corriger une vidéo grâce à l'option `-movflags faststart`, qui exécute une seconde passe et translate l’atome `moov` au début du fichier ([documentation de ffmpeg en anglais](https://ffmpeg.org/ffmpeg-formats.html#toc-Options-8)):
+ffmpeg peut rapidement corriger une vidéo grâce à l'option `-movflags faststart`, qui exécute une seconde passe et déplace l’atome `moov` au début du fichier ([documentation de ffmpeg en anglais](https://ffmpeg.org/ffmpeg-formats.html#toc-Options-8)):
 
 ```shell
 ffmpeg -i origin.mp4 -acodec copy -vcodec copy -movflags faststart fast_start.mp4

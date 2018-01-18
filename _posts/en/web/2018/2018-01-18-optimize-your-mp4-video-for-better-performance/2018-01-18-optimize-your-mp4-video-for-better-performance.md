@@ -1,17 +1,16 @@
 ---
 title: "Optimize your MP4 video for better performance"
 i18n-key: optimize-mp4
-date: '2018-01-12'
+date: '2018-01-18'
 lang: fr
-canonical: 'https://blog.dareboost.com/fr/2017/12/differer-les-scripts-pour-accelerer-le-rendu/'
-published: false
+canonical: 'https://blog.dareboost.com/en/2018/01/optimize-your-mp4-video-for-better-performance/'
 type: post
 categories:
     - web
 tags:
     - 'Performance Web'
     - Video
-publishDate: '2018-01-12'
+publishDate: '2018-01-18'
 locale: en_US
 ---
 
@@ -23,7 +22,7 @@ Representing more than 75% of the videos served on the Internet, MP4 is the most
 {% capture img_caption %}Usage evolution of the different video files types on the web. 
 Source: HttpArchive through [a BigQuery query](https://goo.gl/srggsf){% endcapture %}
 {% include rwd-image.html.liquid 
-    path="/assets/images/2018-01-12/0_video_usage.png"
+    path="/assets/images/2018-01-18/0_video_usage.png"
     alt=img_alt
     caption=img_caption
 %}
@@ -37,7 +36,7 @@ However, you don't broadcast a video on the Internet like you do on a desktop co
 {% capture img_alt %}VLC capture{% endcapture %}
 {% capture img_caption %}VLC "Convert & Stream" interface{% endcapture %}
 {% include rwd-image.html.liquid 
-    path="/assets/images/2018-01-12/1_vlc_convert.png"
+    path="/assets/images/2018-01-18/1_vlc_convert.png"
     alt=img_alt
     caption=img_caption
 %}
@@ -93,7 +92,7 @@ If your server is configured to accept [Byte Serving](https://en.wikipedia.org/w
 {% capture img_alt %}ChromeDevTools capture, "Network" tab{% endcapture %}
 {% capture img_caption %}In this example, the browser performs three requests before obtaining metadata and beginning playback.{% endcapture %}
 {% include rwd-image.html.liquid 
-    path="/assets/images/2018-01-12/2_devtools_capture.png"
+    path="/assets/images/2018-01-18/2_devtools_capture.png"
     alt=img_alt
     caption=img_caption
 %}
@@ -107,7 +106,7 @@ An MP4 file breaks down into several units of data called atoms. The metadata ar
 {% capture img_alt %}Command-line use of AtomicParsley{% endcapture %}
 {% capture img_caption %}In the example above, the `moov` atom comes after the `mdat` atom (4th line).{% endcapture %}
 {% include rwd-image.html.liquid 
-    path="/assets/images/2018-01-12/3_console_capture.png"
+    path="/assets/images/2018-01-18/3_console_capture.png"
     alt=img_alt
     caption=img_caption
 %}
