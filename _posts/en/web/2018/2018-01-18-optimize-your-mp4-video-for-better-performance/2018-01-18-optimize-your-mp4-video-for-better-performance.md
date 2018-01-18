@@ -16,8 +16,6 @@ locale: en_US
 
 Representing more than 75% of the videos served on the Internet, MP4 is the most commonly used format today. However, MP4 is often used improperly, which can have an unfortunate impact on the User Experience. Let's see how we can improve this.
 
-<!-- more -->
-
 {% capture img_alt %}A graphic{% endcapture %}
 {% capture img_caption %}Usage evolution of the different video files types on the web. 
 Source: HttpArchive through [a BigQuery query](https://goo.gl/srggsf){% endcapture %}
@@ -26,6 +24,8 @@ Source: HttpArchive through [a BigQuery query](https://goo.gl/srggsf){% endcaptu
     alt=img_alt
     caption=img_caption
 %}
+
+<!-- more -->
 
 Whether you are a luxury player wishing to broadcast extremely high-quality videos or a news platform looking for an eye-catching proposal, video has become an essential part of the Web in just a few years. But adding video to a site can be challenging.
 

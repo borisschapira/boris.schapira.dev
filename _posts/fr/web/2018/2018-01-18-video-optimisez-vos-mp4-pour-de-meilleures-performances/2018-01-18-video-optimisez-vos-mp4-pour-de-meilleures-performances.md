@@ -16,8 +16,6 @@ locale: fr_FR
 
 Le format MP4 représente plus de 75 % des vidéos diffusées sur Internet aujourd’hui. Cependant, il est souvent mal utilisé, ce qui peut dégrader l’expérience utilisateur. Voyons ensemble comment améliorer ça.
 
-<!-- more -->
-
 {% capture img_alt %}Graphique de courbes{% endcapture %}
 {% capture img_caption %}Évolution des usages des différents types de formats video sur le Web. 
 Source: Données HttpArchive requêtées  via [BigQuery](https://goo.gl/srggsf).{% endcapture %}
@@ -26,6 +24,8 @@ Source: Données HttpArchive requêtées  via [BigQuery](https://goo.gl/srggsf).
     alt=img_alt
     caption=img_caption
 %}
+
+<!-- more -->
 
 Que vous soyez un acteur du Luxe désireux de diffuser des vidéos de très haute qualité ou une plateforme d'information à la recherche d'une proposition de contenu accrocheuse, la vidéo est devenue en quelques années un élément incontournable du Web. Mais l'ajout d'une vidéo à un site peut être complexe.
 
