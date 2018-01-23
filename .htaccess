@@ -580,8 +580,6 @@ Header set X-XSS-Protection "1; mode=block"
 
 # No need because CSP Frame Ancestors, but here for backward compat
 Header set X-Frame-Options "SAMEORIGIN"
-
-Header set X-UA-Compatible "IE=Edge"
 Header always set X-Content-Type-Options "nosniff"
 </IfModule>
 
