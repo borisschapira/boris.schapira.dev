@@ -27,6 +27,7 @@ module Jekyll
       return false unless I18n.backend.send(:translations).empty?
       filename = File.join(File.dirname(__FILE__), '../_data/_locales/*.yml')
       I18n.backend.load_translations Dir[filename]
+      I18n.config.available_locales = [:fr_FR, :en_US]
     end
   end
 end

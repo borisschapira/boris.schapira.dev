@@ -46,12 +46,12 @@
 
       <ul class="secondary">
 
-        <!-- <li class="sidebar-nav-item {% if page.i18n-key == 'search' %} active {% endif %}">
+        {% comment %}<li class="sidebar-nav-item {% if page.i18n-key == 'search' %} active {% endif %}">
           <a href="{{ page.base-url }}{% t recherche %}/">
             <svg class="icon icon-search">
               <use xlink:href="#icon-search"></use>
             </svg>&nbsp;{% t Recherche %}</a>
-        </li>-->
+        </li>{% endcomment %}
         <li class="sidebar-nav-item">
           <a href="{{ page.base-url }}{% t a-propos %}/">
             <span class="sr-only">{% t À propos %}</span>

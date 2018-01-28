@@ -3,7 +3,7 @@ ruby '2.5.0'
 
 gem 'gsl'
 gem 'i18n'
-gem 'jekyll', '~>3.6.2'
+gem 'jekyll', '~>3.7.2'
 gem 'rake'
 
 group :jekyll_tests do
