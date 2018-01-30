@@ -145,7 +145,6 @@ collections:
     output: true
 
 # Build settings
-markdown: kramdown
 kramdown:
   hard_wrap: true
 
