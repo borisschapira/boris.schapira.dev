@@ -46,15 +46,15 @@
           </fieldset>
           <fieldset>
             <label for="comment-form-name"><strong>{% t Nom %}</strong></label>
-            <input type="text" id="comment-form-name" name="fields[name]" required spellcheck="false">
+            <input type="text" id="comment-form-name" name="fields[name]" autocomplete="name" required spellcheck="false">
           </fieldset>
           <fieldset>
             <label for="comment-form-email"><strong>{% t Email %}</strong> <small>({% t facultatif %})</small></label>
-            <input type="email" id="comment-form-email" name="fields[email]" spellcheck="false">
+            <input type="email" id="comment-form-email" name="fields[email]" autocomplete="email" spellcheck="false">
           </fieldset>
           <fieldset>
             <label for="comment-form-url"><strong>{% t Site %}</strong> <small>({% t facultatif %})</small></label>
-            <input type="url" id="comment-form-url" name="fields[url]"/>
+            <input type="url" id="comment-form-url" name="fields[url]" autocomplete="url"/>
           </fieldset>
           <fieldset class="hidden" style="display: none;">
             <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
