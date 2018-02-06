@@ -1,3 +1,4 @@
+{% capture url_prefix %}{% if page.category.size > 0 %}/{{page.category}}{% endif %}{% endcapture %}
 {% if paginator.total_pages > 1 %}
 <ul class="pagination">
   {% comment %} Page précédente {% endcomment %}
@@ -5,12 +6,12 @@
     {% if paginator.previous_page == 1 %}
       {% comment %} Si on est sur la page 2, la page précédente est la 1 {% endcomment %}
       <li>
-        <a href="/" rel="prev"><span class="sr-only">{% t Accueil %}</span>&lsaquo;</a>
+        <a href="{{ url_prefix }}" rel="prev"><span class="sr-only">{% t Accueil %}</span>&lsaquo;</a>
       </li>
     {% else %}
       {% comment %} Sinon, c'est la page d'avant {% endcomment %}
       <li>
-        <a href="{{ site.pagination.permalink | replace:':num', paginator.previous_page }}" rel="prev"><span class="sr-only">{% t Page précédente %}</span>&lsaquo;</a>
+        <a href="{{ site.pagination.permalink | replace:':num', paginator.previous_page | prepend: url_prefix }}" rel="prev"><span class="sr-only">{% t Page précédente %}</span>&lsaquo;</a>
       </li>
     {% endif %}
   {% else %}
@@ -26,7 +27,7 @@
   {% else %}
     {% comment %} Sinon, afficher le lien {% endcomment %}
     <li>
-      <a href="/"><span class="sr-only">{% t Accueil %}</span>1</a>
+      <a href={{ url_prefix }}><span class="sr-only">{% t Accueil %}</span>1</a>
     </li>
   {% endif %}
   
@@ -58,7 +59,7 @@
     </li>
     {% else %}
     <li>
-      <a href="{{ site.pagination.permalink | replace:':num', index}}"><span class="sr-only">Page</span>{{index}}</a>
+      <a href="{{ site.pagination.permalink | replace:':num', index | prepend: url_prefix }}"><span class="sr-only">Page</span>{{index}}</a>
     </li>
     {% endif %} 
   {% endfor %}
@@ -72,7 +73,7 @@
     </li>
   {% else %}
     <li>
-      <a href="{{ site.pagination.permalink | replace:':num', paginator.total_pages}}" {% if paginator.total_pages == paginator.page | plus: 1 %}rel="next"{% endif %}><span class="sr-only">{% t Dernière page %}</span>{{paginator.total_pages}}</a>
+      <a href="{{ site.pagination.permalink | replace:':num', paginator.total_pages | prepend: url_prefix }}" {% if paginator.total_pages == paginator.page | plus: 1 %}rel="next"{% endif %}><span class="sr-only">{% t Dernière page %}</span>{{paginator.total_pages}}</a>
     </li>
   {% endif %} 
   {% if paginator.next_page %} 
@@ -80,7 +81,7 @@
       <li class="disabled">&raquo;</li>
     {% else %}
     <li>
-      <a href="{{ site.pagination.permalink | replace:':num', paginator.next_page}}" rel="next"><span class="sr-only">{% t Page suivante %}</span>&rsaquo;</a>
+      <a href="{{ site.pagination.permalink | replace:':num', paginator.next_page | prepend: url_prefix }}" rel="next"><span class="sr-only">{% t Page suivante %}</span>&rsaquo;</a>
     </li>
     {% endif %} 
   {% else %}
