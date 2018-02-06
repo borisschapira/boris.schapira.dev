@@ -26,5 +26,4 @@ Pour ne pas commettre les erreurs du passé, encore faut-il s'en souvenir.
 *   Le **19**, Fidel abandonne le pouvoir à Cuba. Une page se tourne mais la suivante ressemble à un plagiat…
 *   Le **21**, le Conseil Constitutionnel censure quelques éléments de la "Loi Dati 1", Sarkozy outrepasse ses fonctions et fait pression sur Vincent Lamanda, président de la Cours de Cassation, pour forcer l'enfermement des individus dangereux, alors que la population carcérale est déjà ingérable.
 *   Le **25**, Marion Cotillard reçoit l'Oscar pour _La Môme_.
-*   Le **29**, des milliers de personnes peuvent fêter leur quadrianniversaire dans la joie._
-_
+*   Le **29**, des milliers de personnes peuvent fêter leur quadrianniversaire dans la joie.
