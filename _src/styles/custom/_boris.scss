@@ -61,25 +61,23 @@ img {
   color: $color-main;
 }
 
-.content a:hover,
-.post-content a {
+
+.page-navigation a {
   text-decoration: underline;
-  text-decoration-skip-ink: auto;
   transition: color .1s ease-out;
 }
 
-@supports not (text-decoration-skip-ink: auto) {
-  .content a:hover,
-  .post-content a {
-    text-decoration: none;
-    padding: calc( 1em * 60 / 100) 0;
-    background-image: linear-gradient(currentColor, currentColor);
-    background-repeat: no-repeat;
-    background-size: 100% calc( 1em / 10);
-    background-position: center bottom 29%;
-    background-origin: padding-box;
-    text-shadow: 3px 0 #fff, 2px 0 #fff, 1px 0 #fff, -1px 0 #fff, -2px 0 #fff, -3px 0 #fff;
-  }
+// Elegant polyfill for (text-decoration-skip-ink: auto)
+.content :not(.page-navigation) a:hover,
+.post-content a {
+  text-decoration: none;
+  padding: calc( 1em * 60 / 100) 0;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-repeat: no-repeat;
+  background-size: 100% calc( 1em / 10);
+  background-position: center bottom 29%;
+  background-origin: padding-box;
+  text-shadow: 3px 0 #fff, 2px 0 #fff, 1px 0 #fff, -1px 0 #fff, -2px 0 #fff, -3px 0 #fff;
 }
 
 abbr,
@@ -198,23 +196,16 @@ html .content .post .p-header .p-author {
   font-size: 2rem;
 }
 
+// Elegant polyfill for (text-decoration-skip-ink: auto)
 .post-title a:hover {
-  text-decoration: underline;
-  text-decoration-skip-ink: auto;
-  transition: color .1s ease-out;
-}
-
-@supports not (text-decoration-skip-ink: auto) {
-  .post-title a:hover {
-    text-decoration: none;
-    padding: calc( 1em * 60 / 100) 0;
-    background-image: linear-gradient(currentColor, currentColor);
-    background-repeat: no-repeat;
-    background-size: 100% calc( 1em / 10);
-    background-position: center bottom 29%;
-    background-origin: padding-box;
-    text-shadow: 3px 0 #fff, 2px 0 #fff, 1px 0 #fff, -1px 0 #fff, -2px 0 #fff, -3px 0 #fff;
-  }
+  text-decoration: none;
+  padding: calc( 1em * 60 / 100) 0;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-repeat: no-repeat;
+  background-size: 100% calc( 1em / 10);
+  background-position: center bottom 29%;
+  background-origin: padding-box;
+  text-shadow: 3px 0 #fff, 2px 0 #fff, 1px 0 #fff, -1px 0 #fff, -2px 0 #fff, -3px 0 #fff;
 }
 
 .footnotes,
