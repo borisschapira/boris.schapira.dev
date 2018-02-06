@@ -68,7 +68,7 @@ img {
 }
 
 // Elegant polyfill for (text-decoration-skip-ink: auto)
-.content :not(.page-navigation) a:hover,
+.posts :not(.page-navigation) a:hover,
 .post-content a {
   text-decoration: none;
   padding: calc( 1em * 60 / 100) 0;

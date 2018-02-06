@@ -25,12 +25,12 @@ layout: default
         {% for post in paginator.posts %}
             {% include post.html.liquid postPage=false %}
         {% endfor %}
-
-        {% include pagination.html.liquid %}
-        
     {% else %}
         {% for post in the_posts %}
             {% include post.html.liquid postPage=false %}
         {% endfor %}
     {% endif %}
 </section>
+{% if paginator %}
+{% include pagination.html.liquid %}
+{% endif %}
