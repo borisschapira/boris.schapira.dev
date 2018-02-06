@@ -29,7 +29,7 @@
   function injectScript(path) {
     var e = document.createElement('script');
     e.src = path;
-    e.async = true; // See the following explanation
+    e.async = true;
     document.head.insertBefore(e, document.head.childNodes[document.head.childNodes.length - 1].nextSibling);
   };
 </script>{% if page.type == 'post' %}
