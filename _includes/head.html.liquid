@@ -26,8 +26,10 @@
 
   <!-- Lang -->
   {% if page.translation %}
-    {% assign lang = page.translation.locale | slice: 0,2 %}
-    <link rel="alternate" hreflang="{{ lang }}" href="{{ page.translation.url }}"/>
+    {% unless paginator and paginator.page > 1 %}
+      {% assign lang = page.translation.locale | slice: 0,2 %}
+      <link rel="alternate" hreflang="{{ lang }}" href="{{ page.translation.url }}"/>
+    {% endunless %}
   {% endif %}
   
 
