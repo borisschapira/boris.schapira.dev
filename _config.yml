@@ -181,3 +181,8 @@ algolia:
   application_id: '…'
   index_name: '…'
   indexing_batch_size: 50
+
+compress_html:
+  ignore:
+    envs:
+      - 'developpement'
