@@ -599,3 +599,9 @@ Header always set X-Content-Type-Options "nosniff"
       Header set X-Bordeaux "Et je vous mets une chocolatine dans une poche ?"
     </FilesMatch>
 </IfModule>
+
+# #############
+# # Redirects
+# #############
+
+Redirect 301 /2015/10/industrialiser-le-dev-front-end/ /confs/industrialiser-le-dev-front-end/
