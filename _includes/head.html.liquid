@@ -24,7 +24,7 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" href="{{ site.author.feed }}">
 
-  <!-- Lang -->
+  <!-- Lang and/or indexation of pagination -->
   {% if page.translation %}
     {% unless paginator and paginator.page > 1 %}
       {% assign lang = page.translation.locale | slice: 0,2 %}
