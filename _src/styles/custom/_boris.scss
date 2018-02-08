@@ -47,10 +47,10 @@ img {
 }
 
 .sidebar {
-  color: rgba(255, 255, 255, 0.5);
+
   background-color: $color-main;
-  background-size: $texture-size;
-  background-image: url($texture);
+  @include bg-svg($color-main);
+  color: rgba(255, 255, 255, 0.5);
   .lead {
     font-size: 1rem;
   }
@@ -165,14 +165,6 @@ header.posts-h {
   margin-bottom: 2rem;
   display: none;
   font-style: italic;
-}
-
-@media (-webkit-min-device-pixel-ratio: 2),
-(min-resolution: 192dpi) {
-  /* Retina-specific stuff here */
-  .sidebar {
-    background-image: url($texture-2X);
-  }
 }
 
 .p-tags,
