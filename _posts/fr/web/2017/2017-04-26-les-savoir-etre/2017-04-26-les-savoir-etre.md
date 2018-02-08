@@ -9,9 +9,9 @@ publishDate: '2017-04-26'
 locale: fr_FR
 ---
 
-Lors de la réalisation d'un entretien d'embauche, il est souvent nécessaire d'estimer les compétences techniques d'une candidate ou d'un candidat. Cependant, l'évaluation technique est loin de valider à elle-seule la pertinence du recrutement d'un·e futur·e collaborateur·trice. Il existe des personnes très compétentes qui sont incapables de travailler avec des novices et d'autres qui sont, à l'inverse, de très bons facilitateurs et ont un rôle à jouer dans une équipe sans détenir [d'expertise](/2015/09/expert-ou-pas/ "Expert ou pas ?") particulière.
+Lors de la réalisation d'un entretien d'embauche, il est souvent nécessaire d'estimer les compétences techniques d'une candidate ou d'un candidat. Cependant, l'évaluation technique est loin de valider à elle-seule la pertinence du recrutement d'un·e futur·e collaborateur·trice. Il existe des personnes très compétentes qui sont incapables de travailler avec des personnes novices et d'autres qui sont, à l'inverse, de très bonnes facilitatrices et ont un rôle à jouer dans une équipe sans détenir [d'expertise](/2015/09/expert-ou-pas/ "Expert ou pas ?") particulière.
 
-Au fil des années, j'ai donc établi une grille d'évaluation personnelle qui me permet de mieux cerner les personnes, en dehors de leurs simples compétences techniques. Je m'en sers comme base d'analyse et la relis avant et après chaque rendez-vous pour ensuite pouvoir écrire un compte-rendu d'entretien de qualité aux personnes qui m'ont demandé de m'en occuper.
+Au fil des années, j'ai donc établi une grille d'évaluation personnelle qui me permet de mieux cerner les candidat·e·s, en dehors de leurs simples compétences techniques. Je m'en sers comme base d'analyse et la relis avant et après chaque rendez-vous pour ensuite pouvoir écrire un compte-rendu d'entretien de qualité aux personnes qui m'ont demandé de m'en occuper.
 
 *Avertissement* : je ne suis pas responsable des ressources humaines, rien n'est absolu ou gravé dans le marbre et j'ai déjà donné des avis favorables sur des personnes qui ne rentraient absolument pas dans ces critères. Dans l'absolu, je recommande toujours de faire l'entretien à deux ou d'inviter la candidate ou le candidat pour un second entretien avec une autre personne sans lui transmettre mon avis en amont pour éviter de l'influencer.
 
@@ -24,7 +24,7 @@ Au fil des années, j'ai donc établi une grille d'évaluation personnelle qui m
 * Calme
 * Qualité d'écoute
 
-Un entretien, qu'on le fasse par Skype ou en face-à-face, est constitué d'un ensemble de règles culturelles et consensuelles auxquelles un·e candidat·e doit savoir se plier. J'ai totalement conscience qu'en soi, c'est stupide. Cependant, c'est un signal fort quant à la capacité du candidat à s'adapter à d'autres situations codifiées à l'avenir, situations qui sont encore nombreuses dans le monde professionnel.
+Un entretien, qu'on le fasse par Skype ou en face-à-face, est constitué d'un ensemble de règles culturelles et consensuelles auxquelles un·e candidat·e doit savoir se plier. J'ai totalement conscience qu'en soi, c'est stupide. Cependant, c'est un signal fort quant à la capacité du ou de la candidate à s'adapter à d'autres situations codifiées à l'avenir, situations qui sont encore nombreuses dans le monde professionnel.
 
 ## S'exprimer
 
@@ -42,11 +42,11 @@ Peu importe le poste occupé, tout le monde a besoin de savoir s'exprimer d'une 
 * Exprime un sens du "commun", de l'intérêt général
 * Ouvert à l'égalité, à la diversité
 
-Un·e candidat·e ne connait pas, <span lang="la">a priori</span>, l'organisation du travail et les profils de ses futurs collaborateurs. Même s'il a le profil d'un travailleur autonome (je reviendrai sur les profils dans un autre article), il doit montrer qu'il est capable d'observer, de prendre du recul, d'être patient avant de juger…
+Un·e candidat·e ne connait pas, <span lang="la">a priori</span>, l'organisation du travail et les profils de ses futurs collaborateurs. Même s'il a le profil d'un travailleur ou d'un travailleuse autonome (je reviendrai sur les profils dans un autre article), il doit montrer qu'il est capable d'observer, de prendre du recul, d'être patient avant de juger…
 
 ## Curiosité, exhaustivité
 
-* Curieux, pose quelques questions
+* Se pose des questions sur le poste, le secteur, le marché…
 * Cherche à s'informer sur les savoir-faire
 * S'informe sur l'organisation du travail
 
