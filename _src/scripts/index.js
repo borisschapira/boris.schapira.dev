@@ -260,32 +260,3 @@ ready(function () {
     }
     performance.mark("recaptchaInit");
 });
-
-/* Piwik */
-var _paq = _paq || [];
-_paq.push(['trackPageView']);
-_paq.push(['enableLinkTracking']);
-
-function embedTrackingCode() {
-    var u = "https://filature.borisschapira.com/";
-    _paq.push(['setTrackerUrl', u + 'p']);
-    _paq.push(['setSiteId', '1']);
-    var d = document,
-        g = d.createElement('script'),
-        s = d.getElementsByTagName('script')[0];
-    g.type = 'text/javascript';
-    g.id = 'piwik-suivre';
-    g.async = true;
-    g.defer = true;
-    g.src = u + 'suivre';
-    s.parentNode.insertBefore(g, s);
-};
-
-if (window.addEventListener) { 
-    window.addEventListener("load", embedTrackingCode, false); 
-} else if (window.attachEvent) { 
-    window.attachEvent("onload",embedTrackingCode); 
-} else {
-    embedTrackingCode();
-}
-performance.mark("trackingCodeEmbeded");
