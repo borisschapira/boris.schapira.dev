@@ -9,12 +9,6 @@
       <p class="lead">{{ site.tagline }}</p>
     </div>
 
-    {% if page.loadSearch %}
-      <div class="sidebar-search" role="search">
-        <input type="text" class="js algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="{% t Recherche %}" autofocus title="{% t Recherche %}"/>
-      </div>
-    {% endif %}
-
     <nav class="sidebar-nav">
       
       {% if the-locale == 'fr_FR' %}
@@ -45,13 +39,6 @@
       </div>
 
       <ul class="secondary">
-
-        {% comment %}<li class="sidebar-nav-item {% if page.i18n-key == 'search' %} active {% endif %}">
-          <a href="{{ page.base-url }}{% t recherche %}/">
-            <svg class="icon icon-search">
-              <use xlink:href="#icon-search"></use>
-            </svg>&nbsp;{% t Recherche %}</a>
-        </li>{% endcomment %}
         <li class="sidebar-nav-item">
           <a href="{{ page.base-url }}{% t a-propos %}/">
             <span class="sr-only">{% t À propos %}</span>

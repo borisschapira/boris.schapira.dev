@@ -13,7 +13,6 @@ end
 
 group :jekyll_plugins do
   gem 'classifier-reborn'
-  gem 'jekyll-algolia', '~> 1.1.0'
   gem 'jekyll-archives'
   gem 'jekyll-cloudinary'
   gem 'jekyll-microtypo'

@@ -43,15 +43,6 @@ namespace :postbuild do
     end
   end
 
-  namespace :search do
-    desc 'Index content for search (Algolia)'
-    task :index, [:env] do |_t, args|
-      args.with_defaults(env: 'dev')
-      config_file = "_config_#{args[:env]}.yml"
-      sh "jekyll algolia --verbose --trace --config _config.yml,#{config_file}"
-    end
-  end
-
   namespace :dareboost do
     desc 'Post an event in Dareboost'
     task :event, [:env] do |_t, _args|

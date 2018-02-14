@@ -2,7 +2,7 @@
 title: "Optimize your MP4 video for better performance"
 i18n-key: optimize-mp4
 date: '2018-01-18'
-lang: fr
+lang: en
 canonical: 'https://blog.dareboost.com/en/2018/01/optimize-your-mp4-video-for-better-performance/'
 type: post
 categories:

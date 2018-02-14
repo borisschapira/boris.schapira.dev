@@ -2,14 +2,6 @@
 title: "404: contenu introuvable (pourtant on a bien cherché)"
 permalink: 404.html
 layout: default
-loadSearch: false
 ---
 
-{% include 404.html.liquid showsearch=false showtitle=true%}
-
-<div class="algolia__initial-content js-algolia__initial-content"></div>
-
-<div class="algolia__search-content js-algolia__search-content">
-  <h1 class="page-title">Recherche</h1>
-  <div class="posts algolia__results"></div>
-</div>
+{% include 404.html.liquid showtitle=true%}
