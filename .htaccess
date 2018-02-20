@@ -604,3 +604,5 @@ Header always set X-Content-Type-Options "nosniff"
 # #############
 
 Redirect 301 /2015/10/industrialiser-le-dev-front-end/ /confs/industrialiser-le-dev-front-end/
+Redirect 301 /feed.xml/rss /feed.xml
+Redirect 301 /feed.xml/ /feed.xml
