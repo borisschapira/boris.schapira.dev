@@ -18,7 +18,7 @@ Le format MP4 représente plus de 75 % des vidéos diffusées sur Internet aujou
 
 {% capture img_alt %}Graphique de courbes{% endcapture %}
 {% capture img_caption %}Évolution des usages des différents types de formats video sur le Web. 
-Source: Données HttpArchive requêtées  via [BigQuery](https://goo.gl/srggsf).{% endcapture %}
+Source : Données HttpArchive requêtées  via [BigQuery](https://goo.gl/srggsf).{% endcapture %}
 {% include rwd-image.html.liquid 
     path="/assets/images/2018-01-18/0_video_usage.png"
     alt=img_alt

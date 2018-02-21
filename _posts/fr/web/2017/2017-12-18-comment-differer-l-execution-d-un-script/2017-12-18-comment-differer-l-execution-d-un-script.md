@@ -113,7 +113,7 @@ Aussi intéressante que puisse paraître cette technique, elle a aussi ses incon
 
 Deuxièmement, les balises de script dynamiques ne sont pas totalement asynchrones. Comme expliqué dans l'introduction, le navigateur s'assure que la construction du modèle objet CSS est terminée avant d'exécuter le code JS du script injecté. Le script n’est donc pas exécuté immédiatement. Afin d'expliquer au navigateur que le script peut être chargé sans attendre la construction du CSSOM, vous devez ajouter l'attribut `async` au script.
 
-Mais attention: un script, même avec un attribut async, est toujours considéré comme une ressource de la page. L'événement `window. onload` sera donc retardé par son exécution. Si vous avez d’autres scripts qui dépendent de cet événement, anticipez un retard.
+Mais attention : un script, même avec un attribut async, est toujours considéré comme une ressource de la page. L'événement `window. onload` sera donc retardé par son exécution. Si vous avez d’autres scripts qui dépendent de cet événement, anticipez un retard.
 
 {% capture img_alt %}Capture de l'onglet Performance des Chrome DevTools. Une chronologie du chargement affiche les différentes étapes en couleurs. L'intégralité du bleu est avant le jaune. Une première image apparait très tôt dans le chargement.{% endcapture %}
 {% capture img_caption %}Bien maitrisé, le tag dynamique est une des techniques les plus efficaces avec un DOM construit rapidement et un affichage quasiment immédiat. Attention cependant à l'absence d'ordre d'exécution des scripts !{% endcapture %}

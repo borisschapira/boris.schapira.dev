@@ -29,7 +29,7 @@ De toutes les manières, les webmaster en avaient assez de devoir produire, souv
 **Contenter tout le monde
 **
 
-Reprenons notre réflexion: l'internaute veut pouvoir suivre les publications d'un site sans pour autant s'engager dans la divulgation d'infos confidentielles ou la gestion à outrance d'e-mails. Il veut un truc simple qui lui permettrait de suivre le fil des publications à son gré. Le webmaster, ou plutôt l'auteur, souhaite avant tout qu'on n'entrave pas sa créativité. Il veut pouvoir publier quand il le veut tout en étant sûr que le lecteur fidèle sera au courant même sans venir sur le site.
+Reprenons notre réflexion : l'internaute veut pouvoir suivre les publications d'un site sans pour autant s'engager dans la divulgation d'infos confidentielles ou la gestion à outrance d'e-mails. Il veut un truc simple qui lui permettrait de suivre le fil des publications à son gré. Le webmaster, ou plutôt l'auteur, souhaite avant tout qu'on n'entrave pas sa créativité. Il veut pouvoir publier quand il le veut tout en étant sûr que le lecteur fidèle sera au courant même sans venir sur le site.
 
 C'est là qu'intervient le moteur de flux <abbr title="Really Simple Syndication" lang="en">RSS</abbr> et l'agrégateur de flux RSS. Les mots sont pompeux mais j'ai comme à mon habitude une belle comparaison pour étayer l'explication. Imaginez un barrage en aval d'une grande montagne. L'eau qui parvient à ce barrage provient de multiples affluents et se retrouve contenue par celui-ci jusqu'à ce qu'on ouvre les vannes. Un moteur de flux est un affluent. À partir du contenu d'un site, il génère automatiquement un fichier -notre rivière- que l'on appelle un flux.
 
