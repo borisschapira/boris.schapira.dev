@@ -22,5 +22,5 @@ Pour ne pas commettre les erreurs du passé, encore faut-il s'en souvenir.
 *   Le **8**, la culture du maïs transgénique MONSANTO MON810 est suspendue temporairement. Le début d'une longue lutte dont les échos n'ont pas finis de se faire sentir.
 *   Le **21**, c'est un lundi noir sur toutes les bourses du monde. Le CAC 40 reculant de 6,83 %. Un bon gros souvenir pour moi qui étais en salle de marché et un moment qui aura déterminé les politiques économiques des dix années suivantes.
 *   Le **23**, remise du Rapport Attali : 316 propositions pour relancer la croissance et tout autant de controverses. Le rapporteur, à l'époque peu connu du public : un certain **Emmanuel Macron**.
-*   Le **24**, une nouvelle unité monétaire est crée, le Kerviel, valant 5 milliards d'euros. Là encore, gros moment pour moi. J'étais dans la salle de marché en dessous.
+*   Le **24**, une nouvelle unité monétaire est créée, le Kerviel, valant 5 milliards d'euros. Là encore, gros moment pour moi. J'étais dans la salle de marché en dessous.
 *   Durant tout le mois : agonie et dernières heures du HD-DVD, l'industrie lui préférant le BluRay (moins de stockage donc moins besoin de continuer la course aux bonus…).
