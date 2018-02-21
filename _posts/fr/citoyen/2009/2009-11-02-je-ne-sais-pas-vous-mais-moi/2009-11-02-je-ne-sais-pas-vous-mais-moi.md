@@ -32,7 +32,7 @@ Je n'ai pas **besoin** d'un crédit à chaque étape de ma vie. Et j'espère qu
 
 Mes dents n'ont jamais fait **d'étincelles** quand je souris, et pourtant j'ai testé plein de dentifrices différents.
 
-Je reste persuadé qui si je n'ai pas d'accident en **voiture**, c'est parce que je suis un pas trop mauvais **conducteur**. La voiture n'y est pas pour grand chose.
+Je reste persuadé qui si je n'ai pas d'accident en **voiture**, c'est parce que je suis un pas trop mauvais **conducteur**. La voiture n'y est pas pour grand-chose.
 
 Mon assureur/banquier ne me reçoit jamais dans le hall de son **palace**. La moitié du temps, il ne répond même pas à mes coups de fils.
 

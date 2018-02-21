@@ -12,7 +12,7 @@ publishDate: '2007-09-23'
 locale: fr_FR
 ---
 
-Pour tout esprit normalement constitué ces trois mots n'ont rien à faire ensemble. À la limite, les deux extrêmes s'entrechoquent-ils assez souvent mais celui du milieu y est rarement pour grand chose.
+Pour tout esprit normalement constitué ces trois mots n'ont rien à faire ensemble. À la limite, les deux extrêmes s'entrechoquent-ils assez souvent mais celui du milieu y est rarement pour grand-chose.
 
 Ma grand-mère avait organisé hier soir un diner avec mes cousins, oncle et tante. Ce qui m'a surpris est la facilité avec laquelle **le langage informatique est entré dans le langage courant**. Nous avons bien s&#xFB;r parlé du Vélib mais la conversation a glissé de manière naturelle vers [Facebook](http://www.facebook.com) à un moment du repas pour ensuite s'en éloigner, avant d'y revenir. **Le concept de réseaux social semblaient émergés de manière naturelle** et ma cousine s'est même lancée dans une explication claire et compréhensible qui a semblé satisfaire ma grand-mère pour qui Internet ne signifie rien si ce n'est que le temps passe décidement bien vite.
 

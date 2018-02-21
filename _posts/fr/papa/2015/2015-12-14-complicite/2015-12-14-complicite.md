@@ -9,7 +9,7 @@ publishDate: '2015-12-14'
 locale: fr_FR
 ---
 
-Je n'ai pas grand chose de drôle à partager, aujourd'hui. Je voudrais juste me souvenir de ce week-end où, les garçons, vous avez été plus complices que jamais. Parfois à nos dépends, mais toujours ensemble.
+Je n'ai pas grand-chose de drôle à partager, aujourd'hui. Je voudrais juste me souvenir de ce week-end où, les garçons, vous avez été plus complices que jamais. Parfois à nos dépends, mais toujours ensemble.
 
 Je voudrais me souvenir que votre mère vous a retrouvé en train de vous faire des câlins et qu'ensuite, vous avez voulu être côte-à-côte pour la sieste (que vous n'avez pas faite parce que vous étiez trop occupés à vous faire des petits chatouilles en souriant). Je voudrais me souvenir de vos jeux de super-héros où vous seuls semblez savoir qui sont les méchants, de vos discussions où nous ne comprenons rien et de vos sourires coquins qui, en général pour nous, sont mauvais signe.
 

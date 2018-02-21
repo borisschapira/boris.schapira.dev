@@ -31,6 +31,6 @@ Fière de ses résultats aux derniers sondages, j'ai l'impression de la voir dé
 
 ***
 
-Je n'ai pas regardé l'ensemble du débat mais je n'y ai pas appris grand chose. J'ai clairement toujours une sensibilité de gauche mais cela ne m'empêche pas d'apprécier un candidat comme Macron, de lui reconnaitre une légitimité. À mon sens, c'est lui le candidat de droite. Fillon et Marine Le Pen vogue sur une islamophobie et des programmes économiques complètement incompatibles avec mes valeurs. Ils n'ont, pour moi, aucune proposition viable pour la Culture, l'Éducation et le vivre ensemble.
+Je n'ai pas regardé l'ensemble du débat mais je n'y ai pas appris grand-chose. J'ai clairement toujours une sensibilité de gauche mais cela ne m'empêche pas d'apprécier un candidat comme Macron, de lui reconnaitre une légitimité. À mon sens, c'est lui le candidat de droite. Fillon et Marine Le Pen vogue sur une islamophobie et des programmes économiques complètement incompatibles avec mes valeurs. Ils n'ont, pour moi, aucune proposition viable pour la Culture, l'Éducation et le vivre ensemble.
 
 Je trouve les journalistes inutiles. Ils sont là pour animer, mais n'ont aucun rôle dans l'établissement d'un consensus pertinent à partir duquel discuter. Il en ressort que les candidats ne sont souvent pas d'accord sur les chiffres qu'ils citent et personne sur le plateau n'est là pour remettre l'information, les faits, au cœur des débats politiques.

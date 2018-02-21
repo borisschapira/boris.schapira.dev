@@ -19,7 +19,7 @@ Vous avez pu me rencontrer précédemment autour de problématiques liées au S
   <figcaption>Certificat Qualité web - niveau Expert</figcaption>
 </figure>
 
-Une de mes passions, c'est de comprendre les mécaniques de création de valeur pour les optimiser à l'aide d'outils numériques et leur permettre d'améliorer leur(s) service(s) et produit(s). J'adore interroger les processus de mes interlocuteurs·trices et je suis souvent force de proposition… ou de prudence, car le numérique présente aussi ses dangers. L'autre est de [partager ce que je sais](/a-propos/partage/), car j'ai l'intime conviction que ce n'est pas grand chose et que c'est à la portée de beaucoup d'autres personnes.
+Une de mes passions, c'est de comprendre les mécaniques de création de valeur pour les optimiser à l'aide d'outils numériques et leur permettre d'améliorer leur(s) service(s) et produit(s). J'adore interroger les processus de mes interlocuteurs·trices et je suis souvent force de proposition… ou de prudence, car le numérique présente aussi ses dangers. L'autre est de [partager ce que je sais](/a-propos/partage/), car j'ai l'intime conviction que ce n'est pas grand-chose et que c'est à la portée de beaucoup d'autres personnes.
 
 D'un point de vue plus personnel, je suis Papa de deux formidables garçons [dont je parle souvent](/confs/mon-pire-client-a-cinq-ans/ "Mon pire client a cinq ans &#124; Boris Schapira") et qui me ravissent par [leurs anecdotes croustillantes](/papa/). Leur mère, l'amour de ma vie est une princesse qui écrit [des articles de RH](http://libelilou.github.io/ "Princesse RH"). Les problématiques sociales et sociétales me tiennent à cœur, notamment celles qui concernent l'Égalité.
 
