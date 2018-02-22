@@ -120,7 +120,7 @@ Pour les contributeurs, le changement de paradigme est total puisqu'il sépare l
 Mais certains produits vont plus loin et transforment la contribution en expérience de première classe. Les contributeurs peuvent alors bénéficier d’outils de saisie sur mesure, avec des options de contribution riches et une intégration multimédias, sans impact sur le flux de publication ou la performance du site web ciblé.
 
 {% capture img_alt %}Prismic.io slices{% endcapture %}
-{% capture img_caption %}[Prismic.io](https://prismic.io/) est l'une des plates-formes de contenu les plus personnalisables (ici, des "slices" réutilisables). Les contenus comme les gabarits sont contribués sur la plateforme. Pendant la compilation, le SSG requête l’API de Prismic.io pour récupérer les informations.{% endcapture %}
+{% capture img_caption %}[Prismic.io](https://prismic.io/) est l'une des plates-formes de contenu les plus personnalisables (ici, des &laquo;&nbsp;slices&nbsp;&raquo; réutilisables). Les contenus comme les gabarits sont contribués sur la plateforme. Pendant la compilation, le SSG requête l’API de Prismic.io pour récupérer les informations.{% endcapture %}
 {% include video_as_a_gif.html.liquid
     controls="true"
     url="/assets/images/2018-02-21/4_prismic"
