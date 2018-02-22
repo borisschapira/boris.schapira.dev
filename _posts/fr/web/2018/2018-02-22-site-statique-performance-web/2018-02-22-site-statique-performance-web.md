@@ -1,22 +1,21 @@
 ---
-title: "Retour vers le statique : un nouveau paradigme qui améliore l'UX et la performance"
-i18n-key: static
-date: '2018-02-21'
+title: "Meilleure UX, meilleures performances : la nouvelle donne du web statique"
+i18n-key: static-website
+date: '2018-02-22'
 lang: fr
-canonical: 'http://toto'
-published: false
+canonical: https://blog.dareboost.com/fr/2018/02/site-statique-performance-web/
 type: post
 categories:
     - web
 tags:
     - 'Performance Web'
     - JAMStack
-publishDate: '2018-02-21'
+publishDate: '2018-02-22'
 locale: fr_FR
 loadTwitterWjs: true
 ---
 
-Générateurs de sites statiques, CMS "headless”, plateformes d'intégration continue et de déploiement… depuis plusieurs années, une nouvelle gamme de solutions émerge dans le paysage des technologies web. Ces solutions contribuent à une tendance globale qui ressemble à un retour aux sources du Web. On parle de "La mouvance statique" ou de la "JAMStack" mais aucun de ces noms ne caractérise vraiment ce qui n’est pas moins qu’une nouvelle façon d’architecturer des applications web. 
+Générateurs de sites statiques, CMS "headless", plateformes d'intégration continue et de déploiement… depuis plusieurs années, une nouvelle gamme de solutions émerge dans le paysage des technologies web. Ces solutions contribuent à une tendance globale qui ressemble à un retour aux sources du Web. On parle de "La mouvance statique" ou de la "JAMStack" mais aucun de ces noms ne caractérise vraiment ce qui n’est pas moins qu’une nouvelle façon d’architecturer des applications web.
 
 
 {% capture img_alt %}De grands rouages métalliques emboités{% endcapture %}
@@ -43,7 +42,7 @@ Pourtant, la génération dynamique de réponses HTTP présente des inconvénien
     caption=img_caption
 %}
 
-Afin d'optimiser les temps de réponse, de nombreuses solutions de mise en cache sont apparues au fil des ans.  Avec ces solutions, le premier utilisateur qui requête la page continue de subir le coût de génération mais le résultat est stocké sur un ou plusieurs serveurs proxy et parfois synchronisé sur différents endroits, partout dans le monde. Ces pages “mises en cache” sont ensuite utilisées pour répondre à toutes les requêtes considérées identiques, ce qui assure des temps de réponse rapides et uniformes. Il est possible de trouver des solutions de mise en cache logicielles (comme [Varnish](https://varnish-cache.org/)] mais également des plateformes et des infrastructures (les Content Delivery Networks). À chaque fois, le principe est le même : transformer ce qui est dynamique en pages statiques. Chassez le naturel…
+Afin d'optimiser les temps de réponse, de nombreuses solutions de mise en cache sont apparues au fil des ans. Avec ces solutions, le premier utilisateur qui requête la page continue de subir le coût de génération mais le résultat est stocké sur un ou plusieurs serveurs proxy et parfois synchronisé sur différents endroits, partout dans le monde. Ces pages "mises en cache" sont ensuite utilisées pour répondre à toutes les requêtes considérées identiques, ce qui assure des temps de réponse rapides et uniformes. Il est possible de trouver des solutions de mise en cache logicielles (comme [Varnish](https://varnish-cache.org/)) mais également des plateformes et des infrastructures (les Content Delivery Networks). À chaque fois, le principe est le même : transformer ce qui est dynamique en pages statiques. Chassez le naturel…
 
 ## Mais l'utilisation de contenus statiques présente d'autres avantages !
 
@@ -61,7 +60,7 @@ Ces avantages ne sont que la partie visible de l'iceberg. La tendance statique v
 
 Un générateur de site statique (SSG) est un logiciel exécuté localement ou en tant que service. Il produit (et parfois déploie) un site Web statique en utilisant certaines sources de données pour le modèle et la configuration, ainsi que des templates contenant de la logique métier.
 
-Le marché des SSG est en plein essor, avec [un nouveau produit lancé toutes les deux semaines](https://www.staticgen.com/). La plupart d'entre eux génèrent un site Web à partir d'un ensemble de fichiers, souvent écrits avec une syntaxe légère comme [Markdown](https://daringfireball.net/projects/markdown/) ou Asciidoc. La responsabilité de la conversion en HTML est attribuée à la fois à un moteur de templating (Liquid, Go Template, Nunjucks) - responsable de la logique - et à un moteur de rendu ([kramdown](https://kramdown.gettalong.org/),[commonmark](http://commonmark.org/),[blackfriday](https://github.com/russross/blackfriday),[Asciidoctor](http://asciidoctor.org/...) responsable de la transformation du balisage en HTML. Les SSG ne sont rien de plus que les orchestrateurs techniques de la génération du site web. Par conséquent, ils sont principalement un terrain de jeu pour les développeurs front-end qui en connaissent les rouages.
+Le marché des SSG est en plein essor, avec [un nouveau produit lancé toutes les deux semaines](https://www.staticgen.com/). La plupart d'entre eux génèrent un site Web à partir d'un ensemble de fichiers, souvent écrits avec une syntaxe légère comme [Markdown](https://daringfireball.net/projects/markdown/) ou Asciidoc. La responsabilité de la conversion en HTML est attribuée à la fois à un moteur de templating (Liquid, Go Template, Nunjucks) - responsable de la logique - et à un moteur de rendu ([kramdown](https://kramdown.gettalong.org/), [commonmark](http://commonmark.org/), [blackfriday](https://github.com/russross/blackfriday), [Asciidoctor](http://asciidoctor.org/...)) responsable de la transformation du balisage en HTML. Les SSG ne sont rien de plus que les orchestrateurs techniques de la génération du site web. Par conséquent, ils sont principalement un terrain de jeu pour les développeurs front-end qui en connaissent les rouages.
 
 En effet, les SSG sont des outils techniques et non des substituts aux CMS. Toutefois, ils deviennent vraiment intéressants quand vous suivez la piste de leur alimentation par des sources de données externes. Parce qu’alors, nous pouvons introduire des CMS qui ne seraient pas utilisés pour le rendu HTML, mais seulement pour stocker et exposer les données. On les appelle les CMS Headless.
 
@@ -69,13 +68,15 @@ Un CMS Headless est constitué :
 
 > - d’un système de stockage de données ;
 > - d’une interface CRUD ;
-> - d’une API pour accéder au données.
+> - d’une API pour accéder au données. 
 > <cite>"[What is a Headless CMS? (EN)](https://css-tricks.com/what-is-a-headless-cms/)", Chris Coyier</cite>
 
 Et vous pouvez fabriquer des CMS Headless à partir de vos solutions habituelles. Wordpress, par exemple, a une [API REST](http://v2.wp-api.org/). Côté Drupal, il y a tout un [groupe de travail](https://groups.drupal.org/headless-drupal) qui travaille sur le Headless. Là encore, le marché est en plein essor avec de nombreux nouveaux [logiciels et services](https://www.headlesscms.org/).
 
 Mais pourquoi diable voudrions-nous séparer l'environnement contributif et l'outil de production? Pour une meilleure séparation des préoccupations.
+
 L'équipe de développement, libérée du fardeau de la maintenance d'une base de données, peut se concentrer sur l'évolution technique de la plate-forme et le pipeline de production des ressources statiques tandis que l'équipe de contribution, de son côté, peut affiner les contenus.
+
 Les contributeurs peuvent travailler sur des fichiers plats faciles à stocker et à modifier. Leur seul langage commun avec les développeurs devient les métadonnées passées dans chaque fichier, souvent écrites avec [Front-Matter](https://jekyllrb.com/docs/frontmatter/). Ils peuvent utiliser un outil dédié à l'édition ou le service en ligne de leur choix, même certains qui facilitent la collaboration. Ils peuvent également bénéficier du versionning de fichiers pour consulter l'historique de leurs fichiers, fusionner plusieurs versions ou créer des branches pour écrire du contenu qu'ils ne veulent pas publier tout de suite.
 
 {% capture img_alt %}Un diagramme des flux de contribution et de développement d'un site qui montre clairement la séparation des préoccuppations entre développeurs et contributeurs.{% endcapture %}
@@ -98,11 +99,11 @@ Un CMS Headless, un SSG et un orchestrateur de déploiement : nous avons mainten
 
 Nous avons vu que cette stack statique produit un balisage très standardisé. Afin d'introduire du dynamisme et de la personnalisation, nous devrons importer des données – fournies par le biais d'API – et les traiter du côté client – donc utiliser Javascript.
 
-Cette nouvelle stack "**J**avaScript + **A**PI à couplage légér + **M**arkup HTML" a un nom : [JAMStack](https://jamstack.org/) et le marché affiche déjà plusieurs acteurs de premier plan, chacun d'entre eux disposant d'une gamme de services bien spécifique : Stripe pour le paiement, Algolia pour la recherche instantanée, Disqus ou IntenseDebate pour les commentaires, Snipcart pour le e-commerce, Cloudinary pour la gestion des médias, Formspree ou Staticman pour les formulaires... Notez que tous ces produits ne sont pas conçus pour la JAMStack à proprement parler : vous pouvez parfaitement utiliser les fulgurantes API <a href="https://www.algolia.com/">d'Algolia</a> côté serveur.
+Cette nouvelle stack "**J**avaScript + **A**PI à couplage léger + **M**arkup HTML" a un nom : [JAMStack](https://jamstack.org/) et le marché affiche déjà plusieurs acteurs de premier plan, chacun d'entre eux disposant d'une gamme de services bien spécifique : Stripe pour le paiement, Algolia pour la recherche instantanée, Disqus ou IntenseDebate pour les commentaires, Snipcart pour le e-commerce, Cloudinary pour la gestion des médias, Formspree ou Staticman pour les formulaires... Notez que tous ces produits ne sont pas conçus pour la JAMStack à proprement parler : vous pouvez parfaitement utiliser les fulgurantes API [d'Algolia](https://www.algolia.com/) côté serveur.
 
 JAMStack est un véritable changement de paradigme. Le site Web servi au visiteur devient plus que jamais une coquille dans lequel des services, qu’ils soient auto-hébergés ou tiers, sont dynamiquement injectés. Il est même possible de s'appuyer sur plusieurs services pour un seul objectif et passer de l’un à l’autre en cas d’indisponibilité ou pour maximiser la performance.
 
-Et puisque vous déportez une grande partie de vos efforts côté Front, pourquoi ne pas aller plus loin et transformer vos sites en Progressive Web App (PWA) complètes, construites avec un framework Single Page App (SPA) comme Vue, Angular ou React, et conçues pour être "offline first" ? Rien de tout ça n’est inhérent à la JAMStack, mais facilité par le changement de paradigme de développement.
+Et puisque vous déportez une grande partie de vos efforts côté Front, pourquoi ne pas aller plus loin et le construire avec un framework Single Page App (SPA) comme Vue, Angular ou React ou le transformer en Progressive Web App (PWA) complète, conçue pour être "offline first" ? Rien de tout ça n’est inhérent à la JAMStack, mais facilité par le changement de paradigme de développement.
 
 Pour l'utilisateur, en revanche, la différence est imperceptible. Essayez de rechercher un produit [sur ce site](https://community.algolia.com/instantsearch.js/v2/examples/e-commerce/). Avez-vous l’impression d’utiliser un site différent par rapport à un site développé en PHP ?
 
@@ -129,7 +130,7 @@ Mais certains produits vont plus loin et transforment la contribution en expéri
 
 ## Statique ou dynamique ? Du pareil au même.
 
-Bien que l'approche JAMStack présente de nombreux avantages, dont la sécurité, la performance, la montée en charge et la manière dont on développe et contribue, elle implique également de nouveaux risques qu'il serait dangereux d'ignorer.  
+Bien que l'approche JAMStack présente de nombreux avantages, dont la sécurité, la performance, la montée en charge et la manière dont on développe et contribue, elle implique également de nouveaux risques qu'il serait dangereux d'ignorer.
 
 Premier danger : se perdre dans l’offre pléthorique de CMS Headless, générateurs de sites statiques et plateformes de services. Prenez le temps d'évaluer vos besoins car chaque solution a ses avantages et ses inconvénients. [Jekyll](https://jekyllrb.com/), par exemple, est un SSG bien connu, développé en Ruby, bien documenté mais assez lent. [Hugo](https://gohugo.io/), en revanche, est un SSG beaucoup plus rapide mais aussi plus complexe à manier pour un novice. Si vous ne publiez pas du contenu à très haute fréquence, le temps de génération est-il un critère de choix si important, à résultat équivalent ?
 
@@ -147,15 +148,15 @@ Une fois que vous avez bien appréhendé les risques spécifiques et mis en plac
 
 Le coût de migration d’une solution Headless CMS ou SSG vers une autre sont souvent très réduits. Vous pouvez facilement passer d'une contribution locale sur fichiers à une infrastructure de contenu comme Netlify CMS, Forestry, Contentful ou Prismic, ce qui vous permet d'évaluer rapidement la solution qui répond le mieux à vos besoins. Reste que la création d'un site statique prend du temps et nécessite une architecture capable d'orchestrer plusieurs solutions.
 
-Aujourd'hui, cela peut sembler complexe mais rappelez-vous votre premier site dynamique: choisir un hébergeur, maîtriser FTP, jonglez avec les logs du serveur web... ça n’était pas facile à apprendre non plus. Vous découvrirez  cette nouvelle façon d’organiser votre projet étape par étape. Pour les utilisateurs expérimentés de la JAMStack, cela devient naturel.
+Aujourd'hui, cela peut sembler complexe mais rappelez-vous votre premier site dynamique: choisir un hébergeur, maîtriser FTP, jonglez avec les logs du serveur web... ça n’était pas facile à apprendre non plus. Vous découvrirez cette nouvelle façon d’organiser votre projet étape par étape. Pour les utilisateurs expérimentés de la JAMStack, cela devient naturel.
 
-D’autant qu’en dépit du risque de centralisation qu’elles constituent, les plates-formes unifiées  comme Netlify offrent un catalogue impressionnant de services : génération et déploiement de sites web, enregistrement DNS, gestion des certificats et formulaires SSL, fonctions lambdas, Content Delivery Network, etc.
+D’autant qu’en dépit du risque de centralisation qu’elles constituent, les plates-formes unifiées comme Netlify offrent un catalogue impressionnant de services : génération et déploiement de sites web, enregistrement DNS, gestion des certificats et formulaires SSL, fonctions lambdas, Content Delivery Network, etc. 
 
 De quoi permettre à votre équipe de se concentrer sur le développement du Front-End et l'optimisation des performances Web. Avec un Time To First Byte aussi bas, l'équipe peut pleinement se concentrer sur l'UX grâce à la mesure du [Speed Index](https://blog.dareboost.com/en/2018/02/speed-index-web-performance/) et la maitrise des interactions utilisateurs.
 
-_Mes remerciements à Erin Symons, [Frank Taillandier](https://twitter.com/dirtyf) et toute la [communauté jamstatic.fr](https://jamstatic.fr/), [Bud Parr](https://twitter.com/budparr), [Nicolas Hoffman](https://twitter.com/Nico3333fr) et mes collègues [Philippe Guibert](https://twitter.com/GuilbertPhil) et [Damien Jubeau](https://twitter.com/DamienJubeau) pour leur temps et leurs conseils._
+_Mes remerciements à Erin Symons, [Frank Taillandier](https://twitter.com/dirtyf) et toute la [communauté jamstatic.fr](https://jamstatic.fr/), [Bud Parr](https://twitter.com/budparr), [Nicolas Hoffmann](https://twitter.com/Nico3333fr) et mes collègues [Philippe Guilbert](https://twitter.com/GuilbertPhil) et [Damien Jubeau](https://twitter.com/DamienJubeau) pour leur temps et leurs conseils._
 
-## Additional Resources
+## Ressources additionnelles
 
-* "[Why Static Site Generators Are The Next Big Thing (EN)](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)", Matt Biilmann
-* "[Contentful n'est pas un CMS](https://bertrandkeller.info/2018/01/30/contentful-pas-un-cms/)", Michelle Gienow, adapté par Bertrand Keller
+*   "[Why Static Site Generators Are The Next Big Thing (EN)](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)", Matt Biilmann
+*   "[Contentful n'est pas un CMS](https://bertrandkeller.info/2018/01/30/contentful-pas-un-cms/)", Michelle Gienow, adapté par Bertrand Keller
