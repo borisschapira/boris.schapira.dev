@@ -1,17 +1,16 @@
 ---
-title: "Back to static: a paradigm shift that improves UX and performance"
-i18n-key: static
-date: '2018-02-21'
+title: "Back to static: a paradigm shift for better UX and web performance"
+i18n-key: static-website
+date: '2018-02-22'
 lang: en
-canonical: 'http://toto'
-published: false
+canonical: https://blog.dareboost.com/en/2018/02/static-website-web-performance/
 type: post
 categories:
     - web
 tags:
     - 'Performance Web'
     - JAMStack
-publishDate: '2018-02-21'
+publishDate: '2018-02-22'
 locale: en_US
 loadTwitterWjs: true
 ---
@@ -27,13 +26,15 @@ For several years now, a new range of solutions have emerged in the web technolo
 
 <!-- more -->
 
+<em class="canonical">**Note&nbsp;:**this post first appeared on the [Dareboost's Blog](https://blog.dareboost.com/en/) in [{{ page.title }}]({{ page.canonical }}).</em>
+
 ## Where do we come from?
 
 When a user tries to access a web page, their browser makes a request to the server that hosts it. Either the server answers the page immediately, exactly as it is stored, or the server generates it by executing code on demand.
 
 Although the Web was conceived as an entanglement of static files, server-side programming languages appeared very early and are now widely used. [According to W3Techs](https://w3techs.com/technologies/overview/programming_language/all), more than 80% of servers that use server-side language are running PHP. And hosting providers offering servers without dynamic language support are almost non-existent.
 
-Yet, the dynamic generation of HTTP responses presents significant disadvantages in terms of web performance. A dynamic webpage is often built around a web server that loads an execution language that analyzes the HTTP request, often requests a database (sometimes located on another server in the datacenter) and third-party services, populates a logical model that reveals itself through an aggregate of templates to generate the HTML response. Quite logically so, [Time To First Byte](https://www.dareboost.com/en/glossary#ttfb) is longer.
+Yet, the dynamic generation of HTTP responses presents significant disadvantages in terms of web performance. A dynamic webpage is often built around a web server that loads an execution language that analyzes the HTTP request, often requests a database (sometimes located on another server in the datacenter) and third-party services, populates a logical model that reveals itself through an aggregate of templates to generate the HTML response. Quite logically so, [Time To First Byte](https://www.dareboost.com/en/glossary#ttfb) (TTFB) is longer.
 
 {% capture img_alt %}Dareboost graph of Pages Timings monitoring. Peaks on the TTFB imply peaks on the Speed Index.{% endcapture %}
 {% capture img_caption %}A high TTFB penalizes the Speed Index of a page.{% endcapture %}
@@ -43,22 +44,20 @@ Yet, the dynamic generation of HTTP responses presents significant disadvantages
     caption=img_caption
 %}
 
-To optimize server response time, many caching solutions have appeared over the years.  The first user who requests the page undergoes the cost of generation, but the result is stored on one or more proxy servers and sometimes synchronized over different locations, all around the World. These cached pages are then responded to all similar requests, ensuring a quick and consistent delivery. Nowadays, it is possible to find software caching solutions (like [Varnish](https://varnish-cache.org/)), platforms and infrastructures (Content Delivery Networks). All of them ensure that what's dynamic can become static again. The leopard can’t change its spots.
+To optimize server response time, many caching solutions have appeared over the years. The first user who requests the page undergoes the cost of generation, but the result is stored on one or more proxy servers and sometimes synchronized over different locations, all around the World. These cached pages are then responded to all similar requests, ensuring a quick and consistent delivery. Nowadays, it is possible to find software caching solutions (like [Varnish](https://varnish-cache.org/)), platforms and infrastructures (Content Delivery Networks). All of them ensure that what's dynamic can become static again. The leopard can’t change its spots.
 
 ## However, the use of static content has other advantages.
 
-If you want to deliver your static pages, you must have compiled them up front. This fact, as trivial as it may seem, changes everything. Indeed, compilation turns out to be the main advantage of static: shift the complexity from the Production environment to the integration process.
-
 If your pages are served by a web server without being generated first, you have no need for a server-side language to be executed. As a consequence, many attack vectors disappear. You can't steal confidential data by injecting malicious code if you have neither a database nor a server-side execution language.
 
-Not executing code on the server also means that CPU consumption is very low for each HTTP response, giving you a much better scalability. Be warned, though: as we'll see, deployment is a key factor and can consume CPU time.
-Resilience is another advantage. In the worst situation, an error may occur during generation but can be detected before deployment. Technical problems resulting from a bad contribution, for instance, no longer have an impact on the site browsed by visitors. In the worst scenario, the website is not broken. Its content is simply not up-to-date.
+Not executing code on the server also means that CPU consumption is very low for each HTTP response, giving you a much better scalability. Be warned, though: as we'll see, deployment is a key factor and can consume CPU time. Resilience is another advantage. In the worst situation, an error may occur during generation but can be detected before deployment. Technical problems resulting from a bad contribution, for instance, no longer have an impact on the site browsed by visitors. In the worst scenario, the website is not broken. Its content is simply not up-to-date.
 
 However, these advantages are only the tip of the iceberg. The static trend allows you to completely transform the way a site is published. No wonder [Smashing Magazine already migrated](https://www.smashingmagazine.com/2017/03/a-little-surprise-is-waiting-for-you-here/)!
 
 ## Static is a distribution modality. What's its technical stack?
 
 A static site generator (SSG) is a software executed locally or as a service that produces (and sometimes deploys) a static website using some data sources for model and configuration, and templates containing the business logic.
+
 The SSG market is booming, with [a new product launching twice a month](https://www.staticgen.com/). Most of them generate a website from a set of files, often written with a lightweight syntax like [Markdown](https://daringfireball.net/projects/markdown/) or Asciidoc. The responsibility for the conversion to HTML is assigned to both a templating engine (Liquid, Go Template, Nunjucks) – responsible for the logic – and a converter ([kramdown](https://kramdown.gettalong.org/), [commonmark](http://commonmark.org/), [blackfriday](https://github.com/russross/blackfriday), [Asciidoctor](http://asciidoctor.org/)…) responsible for transforming the markup into HTML. SSGs are nothing more than the technical orchestrators of the website's generation and, therefore, are mainly a playground for front-end developers who know how they tick.
 
 Indeed, SSGs are technical tools, not substitutes for Content Management Systems. However, they become really interesting when you follow the lead of external data sources because then, we can talk about CMS that would not be used to render HTML, but only to store and expose data. They are called Headless CMS.
@@ -102,7 +101,7 @@ This new "**J**avaScript + loosely coupled **A**PI + **M**arkup" stack has a nam
 
 JAMStack is a real paradigm shift. The website being served to the visitor becomes, more than ever, a shell in which services, whether self-hosted or third parties, are dynamically injected. It is even possible to rely on several services for the same purpose and switch to a fallback if the main service is not available.
 
-And since you're shifting a lot of your efforts to the Front End, why not go further and transform your sites into a complete Progressive Web App (PWA) built with a Single Page App (SPA) framework like Vue, Angular or React, and designed to be "offline first"? This is not inherent to JAMStack, but facilitated by the change of development paradigm.
+And since you're shifting a lot of your efforts to the Front End, why not go further and build your site with a Single Page App (SPA) framework like Vue, Angular or React, or transform it into a complete Progressive Web App (PWA), designed to be "offline first"? This is not inherent to JAMStack, but facilitated by the change of development paradigm.
 
 For the user, however, the difference is small. Try to search a product [on this website](https://community.algolia.com/instantsearch.js/v2/examples/e-commerce/). Do you experience something different than from a PHP website?
 
@@ -127,9 +126,9 @@ But some products go further and turn the contribution into a first-class experi
     caption=img_caption
 %}
 
-## Static or dynamic? Tomayto, tomahto.
+## Static or dynamic? Tomayto, tomahto
 
-Although the JAMStack approach has many advantages, including safety, performance, scaling, development and contribution experiences, it also implies new risks that would be dangerous to ignore. 
+Although the JAMStack approach has many advantages, including safety, performance, scaling, development and contribution experiences, it also implies new risks that would be dangerous to ignore.
 
 The first risk is to get lost in the plethora of Headless CMS, generators and service platforms. Take the time to evaluate your needs because each solution has its advantages and drawbacks. [Jekyll](https://jekyllrb.com/), for example, is a well-known SSG, developed in Ruby, well documented but fairly slow. [Hugo](https://gohugo.io/), on the other hand, is a much faster SSG but is also more complex to handle if you are a novice. If you don't publish content at high-frequency, does the generation time matter so much, for an equivalent result?
 
@@ -143,15 +142,14 @@ Finally, these APIs will also have to be carefully selected according to the sus
 
 ## A new land of opportunity
 
-Once you have fully grasped the specific risks and put in place appropriate workflows, the JAMStack nonetheless presents its share of opportunities.
-The cost of migrating from Headless CMS or SSG solution to another is often quite low. You can easily switch from a local contribution on files to content infrastructure like Netlify CMS, Forestry, Contentful or Prismic, which allows you to quickly evaluate the solution that best suits your needs. Creating a static site takes time and requires an architecture that involves orchestrating several solutions. Today, it may seem complex but remember your first dynamic site: choose a host, master FTP, juggle the web server logs... none of it was easy. You will learn this logic step by step. For the experienced JAMStack users, it becomes natural.
+Once you have fully grasped the specific risks and put in place appropriate workflows, the JAMStack nonetheless presents its share of opportunities. The cost of migrating from Headless CMS or SSG solution to another is often quite low. You can easily switch from a local contribution on files to content infrastructure like Netlify CMS, Forestry, Contentful or Prismic, which allows you to quickly evaluate the solution that best suits your needs. Creating a static site takes time and requires an architecture that involves orchestrating several solutions. Today, it may seem complex but remember your first dynamic site: choose a host, master FTP, juggle the web server logs... none of it was easy. You will learn this logic step by step. For the experienced JAMStack users, it becomes natural.
 
 Unified platforms such as Netlify, while presenting a risk of centralization, nevertheless offer an impressive catalog of services: website generation and deployment, DNS registration, SSL certificates and forms management, serverless functions, Content Delivery Network…
 
-Enough out-of-the-box features to allow your Front-End team to focus on front-end development and web performance optimization. With such a low Time To First Byte, the team can fully focus on UX through the measurement of the [Speed Index](https://blog.dareboost.com/en/2018/02/speed-index-web-performance/) ! 
+Enough out-of-the-box features to allow your Front-End team to focus on front-end development and web performance optimization. With such a low Time To First Byte, the team can fully focus on UX through the measurement of the [Speed Index](https://blog.dareboost.com/en/2018/02/speed-index-web-performance/)!
 
 
-_Thanks to Erin Symons, [Frank Taillandier](https://twitter.com/dirtyf) and the whole [jamstatic.fr community](https://jamstatic.fr/), [Bud Parr](https://twitter.com/budparr), [Nicolas Hoffman](https://twitter.com/Nico3333fr) and my colleagues [Philippe Guibert](https://twitter.com/GuilbertPhil) and [Damien Jubeau](https://twitter.com/DamienJubeau) for their time and advice._
+_Thanks to Erin Symons, [Frank Taillandier](https://twitter.com/dirtyf) and the whole [jamstatic.fr community](https://jamstatic.fr/), [Bud Parr](https://twitter.com/budparr), [Nicolas Hoffmann](https://twitter.com/Nico3333fr) and my colleagues [Philippe Guilbert](https://twitter.com/GuilbertPhil) and [Damien Jubeau](https://twitter.com/DamienJubeau) for their time and advice._
 
 ## Additional Resources
 

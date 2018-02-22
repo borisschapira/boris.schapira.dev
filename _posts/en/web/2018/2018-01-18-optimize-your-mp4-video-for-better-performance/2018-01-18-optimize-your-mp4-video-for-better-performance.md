@@ -27,6 +27,8 @@ Source: HttpArchive through [a BigQuery query](https://goo.gl/srggsf){% endcaptu
 
 <!-- more -->
 
+<em class="canonical">**Note&nbsp;:**this post first appeared on the [Dareboost's Blog](https://blog.dareboost.com/en/) in [{{ page.title }}]({{ page.canonical }}).</em>
+
 Whether you are a luxury player wishing to broadcast extremely high-quality videos or a news platform looking for an eye-catching proposal, video has become an essential part of the Web in just a few years. But adding video to a site can be challenging.
 
 The most widely used and supported encoding is undoubtedly H.264, served by an MP4 file. This format is supported by most video manipulation software: [Handbrake](https://handbrake.fr/), [MPEG Streamclip](http://www.squared5.com/), [OpenShot](https://www.openshot.org/)… even [VLC](https://www.videolan.org/)! But few of them offer a dedicated export for the Web.
