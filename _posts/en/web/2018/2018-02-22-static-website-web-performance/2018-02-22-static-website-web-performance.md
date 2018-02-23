@@ -150,8 +150,11 @@ Unified platforms such as Netlify, while presenting a risk of centralization, ne
 
 Enough out-of-the-box features to allow your Front-End team to focus on front-end development and web performance optimization. With such a low Time To First Byte, the team can fully focus on UX through the measurement of the [Speed Index](https://blog.dareboost.com/en/2018/02/speed-index-web-performance/)!
 
+***
 
 _Thanks to Erin Symons, [Frank Taillandier](https://twitter.com/dirtyf) and the whole [jamstatic.fr community](https://jamstatic.fr/), [Bud Parr](https://twitter.com/budparr), [Nicolas Hoffmann](https://twitter.com/Nico3333fr) and my colleagues [Philippe Guilbert](https://twitter.com/GuilbertPhil) and [Damien Jubeau](https://twitter.com/DamienJubeau) for their time and advice._
+
+***
 
 ## Additional Resources
 
