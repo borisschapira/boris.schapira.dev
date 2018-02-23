@@ -48,6 +48,8 @@ To optimize server response time, many caching solutions have appeared over the 
 
 ## However, the use of static content has other advantages.
 
+If you want to deliver your static pages, you must have compiled them up front. This fact, as trivial as it may seem, changes everything. Indeed, compilation turns out to be the main advantage of static: shift the complexity from the Production environment to the integration process.
+
 If your pages are served by a web server without being generated first, you have no need for a server-side language to be executed. As a consequence, many attack vectors disappear. You can't steal confidential data by injecting malicious code if you have neither a database nor a server-side execution language.
 
 Not executing code on the server also means that CPU consumption is very low for each HTTP response, giving you a much better scalability. Be warned, though: as we'll see, deployment is a key factor and can consume CPU time. Resilience is another advantage. In the worst situation, an error may occur during generation but can be detected before deployment. Technical problems resulting from a bad contribution, for instance, no longer have an impact on the site browsed by visitors. In the worst scenario, the website is not broken. Its content is simply not up-to-date.
