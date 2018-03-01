@@ -10,11 +10,12 @@
 
   <!-- CSS and color -->
   <!-- nomicrotypo -->
+  <script>performance.mark('parsing:css:start');</script>
   <style>{% include styles/core.min.css %}</style>
   {% capture themeColor %}{{ site.data.styles.main.color }}{% endcapture %}
   {% if page.category.size > 0 %}{% capture catdown %}{{ page.category|downcase }}{% endcapture %}{% capture themeColor %}{{ site.data.styles[catdown].color }}{% endcapture %}{%capture css_file %}{{ site.data.styles[catdown].css }}.min.css{% endcapture %}{% else %}{%capture css_file %}{{ site.data.styles.main.css }}.min.css{% endcapture %}{% endif %}
   <style>{% include styles/{{ css_file }} %}</style>
-
+  <script>performance.mark('parsing:css:end');</script>
   <!-- endnomicrotypo -->
 
   <!-- WebMentions -->
