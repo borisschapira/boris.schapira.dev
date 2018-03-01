@@ -1,5 +1,4 @@
 <ul class="follow-icons">
-  {% if site\.author\.github != nil %}
   <li>
     <a class="npe" rel="me nofollow" href="{{ site.author.github }}">
       <span class="sr-only">{% t Suivez-moi %} {% t sur %} Github</span>
@@ -8,7 +7,6 @@
       </svg>
     </a>
   </li>
-  {% endif %} {% if site\.author\.twitter != nil %}
   <li>
     <a class="npe" rel="me nofollow" href="{{ site.author.twitter }}">
       <span class="sr-only">{% t Suivez-moi %} {% t sur %} Twitter</span>
@@ -17,7 +15,6 @@
       </svg>
     </a>
   </li>
-  {% endif %} {% if site\.author\.mastodon != nil %}
   <li>
     <a class="npe" rel="me nofollow" title="{% t Suivez-moi %} {% t sur %} Mastodon" href="{{ site.author.mastodon }}">
       <svg class="icon icon-mastodon">
@@ -25,7 +22,6 @@
       </svg>
     </a>
   </li>
-  {% endif %} {% if site\.author\.facebook != nil %}
   <li>
     <a class="npe" rel="me nofollow" href="{{ site.author.facebook }}">
       <span class="sr-only">{% t Suivez-moi %} {% t sur %} Facebook</span>
@@ -34,7 +30,6 @@
       </svg>
     </a>
   </li>
-  {% endif %} {% if site\.author\.linkedin != nil %}
   <li>
     <a class="npe" rel="me nofollow" title="{% t Suivez-moi %} {% t sur %} LinkedIn" href="{{ site.author.linkedin }}">
       <span class="sr-only">{% t Suivez-moi %} {% t sur %} LinkedIn</span>
@@ -43,7 +38,6 @@
       </svg>
     </a>
   </li>
-  {% endif %} {% if site\.author\.flickr != nil %}
   <li>
     <a class="npe" rel="me nofollow" href="{{ site.author.flickr }}">
       <span class="sr-only">{% t Suivez-moi %} {% t sur %} Flickr</span>
@@ -52,7 +46,6 @@
       </svg>
     </a>
   </li>
-  {% endif %} {% if site\.author\.feed != nil %}
   <li>
     {% assign feed_url = "feed.xml" %}
     {% assign cats_eyes = page.category|size %}
@@ -66,7 +59,6 @@
       </svg>
     </a>
   </li>
-  {% endif %} {% if site\.author\.mailto != nil %}
   <li>
     <a class="npe" target="_top" rel="me nofollow" href="mailto:{{ site.author.mailto | raw }}?subject=Page%20%22{{page.title}}%22&body=url+%3D+{{page.url}}+%0D%0A%0D%0ABonjour%2C%0D%0A%0D%0A%7B%7B+N%27h%C3%A9sitez+pas+%C3%A0+prendre+quelques+minutes+pour+vous+pr%C3%A9senter+si+c%27est+votre+premier+envoi.+%7D%7D%0D%0A%0D%0A%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%0D%0A%0D%0A%7B%7B+%C3%89crivez+ici+votre+message+%7D%7D%0D%0A%0D%0A%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85">
       <span class="sr-only">{% t Ecrivez-moi ! %}</span>
@@ -75,5 +67,4 @@
       </svg>
     </a>
   </li>
-  {% endif %}
 </ul>
