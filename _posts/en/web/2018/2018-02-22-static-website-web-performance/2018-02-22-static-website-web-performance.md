@@ -1,5 +1,5 @@
 ---
-title: "Back to static: a paradigm shift for better UX and web performance"
+title: "Back to static with JAMStack: a paradigm shift for better UX and web performance"
 i18n-key: static-website
 date: '2018-02-22'
 lang: en
