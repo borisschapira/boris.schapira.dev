@@ -155,11 +155,11 @@ var abbrTouch = (function () { // eslint-disable-line no-unused-vars
         var lang_user;
         lang_user = localStorage.getItem("lang_user");
         if (!lang_user) {
-            var lang_user = (window.navigator.userLanguage || window.navigator.language).slice(0, 2);
+            var lang_user = (window.navigator.userLanguage || (window.navigator.languages.length > 0 && window.navigator.languages[0]) || window.navigator.language).slice(0, 2);
             localStorage.setItem("lang_user", lang_user);
             var lang_site = document.getElementsByTagName('html')[0].lang;
             if (lang_user != lang_site) {
-                window.location = document.querySelector('[rel="alternate"]').href;
+                window.location = document.querySelector('[hreflang][rel="alternate"]').href;
             }
         }
     } catch (e) {
