@@ -7,7 +7,7 @@ categories:
     - papa
 publishDate: '2018-01-19'
 locale: fr_FR
-published: false
+published: true
 ---
 
 Je me sers un rhum vieux. Comme ils sont curieux, je leur fais sentir. Ayant un très (très) bon odorat, je suis toujours amusé de tester celui des autres. Le grand me dit qu'il reconnait l'odeur.

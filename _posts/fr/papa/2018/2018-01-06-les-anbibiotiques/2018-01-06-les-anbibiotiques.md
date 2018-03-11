@@ -7,7 +7,7 @@ categories:
     - papa
 publishDate: '2018-01-06'
 locale: fr_FR
-published: false
+published: true
 ---
 
 Suite à [l'accident](/2017/12/a-l-hopital/), le traitement du petit continue.

@@ -7,7 +7,7 @@ categories:
     - papa
 publishDate: '2017-12-14'
 locale: fr_FR
-published: false
+published: true
 ---
 
 J'ai demandé quelques jours à mon employeur pour m'occuper du petit, en convalescence après son opération. Enfin, ça, c'est ce que **je** vous dis. Visiblement, cette version ne fait pas consensus…

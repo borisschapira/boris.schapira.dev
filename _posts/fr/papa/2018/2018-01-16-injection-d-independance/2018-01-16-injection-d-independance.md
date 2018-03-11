@@ -8,7 +8,7 @@ categories:
     - papa
 publishDate: '2018-01-16'
 locale: fr_FR
-published: false
+published: true
 ---
 
 À la maison, mon rôle principal est d'éviter que les enfants ne dépassent du cadre en leur donnant un contexte dans lequel se positionner.
