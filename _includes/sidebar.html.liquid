@@ -10,23 +10,21 @@
     </div>
 
     <nav class="sidebar-nav">
-      
-      {% if the-locale == 'fr_FR' %}
-        <ul class="categories" itemscope itemtype="http://schema.org/BreadcrumbList">
-          <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
-          itemtype="http://schema.org/ListItem"><a href="{{ 'web/' | prepend: page.base-url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{% t Web %}</a></li>
 
-          <li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
-          itemtype="http://schema.org/ListItem">
-          <a href="{{ 'citoyen/' | prepend: page.base-url }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Citoyen %}</a>
-          </li>
+      <ul class="categories" itemscope itemtype="http://schema.org/BreadcrumbList">
+        <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
+        itemtype="http://schema.org/ListItem"><a href="{{ 'web/' | prepend: page.base-url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{% t Web %}</a></li>
 
-          <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}" itemprop="itemListElement" itemscope
-          itemtype="http://schema.org/ListItem">
-          <a href="{{ 'papa/' | prepend: page.base-url }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Papa %}</a>
-          </li>
-        </ul>
-      {% endif %}
+        {% if the-locale == 'fr_FR' %}<li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
+        itemtype="http://schema.org/ListItem">
+        <a href="{{ 'citoyen/' | prepend: page.base-url }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Citoyen %}</a>
+        </li>{% endif %}
+
+        <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}" itemprop="itemListElement" itemscope
+        itemtype="http://schema.org/ListItem">
+        <a href="{{ 'papa/' | prepend: page.base-url }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Papa %}</a>
+        </li>
+      </ul>
 
       <div class="lang">
         <ul>
