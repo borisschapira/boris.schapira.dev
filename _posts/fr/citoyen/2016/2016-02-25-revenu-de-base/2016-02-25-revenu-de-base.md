@@ -21,5 +21,5 @@ Une lecture un peu technique si vous n'avez pas les fondements du concept[^dossi
 J'attends avec impatience d'en savoir plus sur l'expérimentation [négociée par Les Verts en Aquitaine](http://rue89bordeaux.com/2015/12/le-revenu-de-base-dans-laccord-ps-eelv-pour-la-region/ "&quot;Le revenu de base dans l’accord PS-EELV pour la région&quot;, Walid Salem").
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z9N0v4UGFHo?list=PLkzjbW_sNXE_fywK-iKQ0HJF_DcMRQTNG" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z9N0v4UGFHo?list=PLkzjbW_sNXE_fywK-iKQ0HJF_DcMRQTNG" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>

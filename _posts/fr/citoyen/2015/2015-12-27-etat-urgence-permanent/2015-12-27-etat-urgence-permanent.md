@@ -29,7 +29,7 @@ Nous sommes en train d'ouvrir des possibles détestables, soutenus par un concen
 Alors on y va, on tranche dans les libertés. Après tout, les gens sont contents, les enquêtes d'opinion le montrent ! Pourquoi se gêner, puisqu'on est capable de rameuter des votants en agitant le spectre du F.N. mais que de l'autre côté, si on applique son programme, on ne craint rien ? C'est même un formidable outil électoral…
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3x2fPUQHMeU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3x2fPUQHMeU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 Pendant ce temps, je lis tout ce que je peux. [Je recense, aussi, quand quelque chose n'est pas encore listé](https://wiki.laquadrature.net/%C3%89tat_urgence/Recensement). Je donne de l'argent, aussi et surtout, parce que les associations de défense de nos libertés en ont besoin.

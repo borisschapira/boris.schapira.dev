@@ -44,5 +44,5 @@ Il a ensuite appris à dessiner des traits et a décidé de réaliser son propre
 Mesdames et messieurs, j'ai l'honneur de vous présenter… <a data-featherlight="image" href="/assets/images/papa/2016-01-27/3.png">le pistolet à bonbons</a>. Je pense qu'il tient un concept :D
 
 <div class="videoWrapper">
-  <iframe width="420" height="315" src="https://www.youtube.com/embed/OiXwDXvXiKg" frameborder="0" allowfullscreen></iframe>
+  <iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OiXwDXvXiKg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>

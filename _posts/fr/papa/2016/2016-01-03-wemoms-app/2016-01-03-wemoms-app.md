@@ -21,5 +21,5 @@ Ceci étant, je note quand même certaines choses qui m'attristent dans les mess
 * très peu de mères semblent lire des livres sur l'enfance. Du coup, la plupart des questions concernant la sécurité, l'alimentation et la santé sont assez basiques. Cela souligne la pertinence qu'il pourrait y avoir à proposer des formations à la manière de [l'Atelier du Futur Papa](http://www.atelierdufuturpapa.com/). Vu le nombre de fois où un nez qui coule finit chez le médecin, je suis même certain que même en rendant un tel service public et gratuit, on économiserait quand même sur les frais de Sécurité Sociale…
 
 <div class="videoWrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/TbiIWcOF0JM" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TbiIWcOF0JM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>

@@ -18,7 +18,7 @@ loadTwitterWjs: true
 <!-- more -->
 
 <div class="videoWrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/uq72XHngz9M" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uq72XHngz9M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 Réfléchir n'est pas évident quand le monde nous incite à rester des crétins facilement manipulables. Pour ça, rien de plus simple que la peur qui, si elle a des raisons d'exister (la menace terroriste, par exemple, mais le travail est aussi un sujet angoissant), est savamment utilisée pour contenir les foules. S'en suit [une progressive dérive autoritaire](http://www.slate.fr/story/119461/france-derive-autoritaire) qui tait son nom et dans laquelle il serait facile de broyer du noir.

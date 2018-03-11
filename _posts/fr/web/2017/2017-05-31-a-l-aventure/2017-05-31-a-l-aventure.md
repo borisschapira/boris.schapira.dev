@@ -88,5 +88,5 @@ Sept ans, c'est long. Il restera sûrement toujours un peu de Clever Age en moi,
 Je me sens comme celui qui attaque le dernier chapitre d'un livre qu'il a beaucoup aimé et dans lequel il a corné les pages les plus mémorables pour pouvoir s'y plonger, par nostalgie, un autre jour. J'ai plusieurs pistes pour de futures lectures, mais je compte bien profiter de celle-ci jusqu'à la dernière ligne.
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rnAvdZJ-gRU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rnAvdZJ-gRU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>

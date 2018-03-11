@@ -56,7 +56,7 @@ Par exemple, vous pouvez évaluer le <span lang="en">bitrate</span> nécessaire 
 
 Vous pouvez facilement anticiper le poids d'une vidéo après l'encodage en utilisant soit un <span lang="en">bitrate</span> constant sur l'ensemble de la vidéo, soit un encodage à plusieurs passes pour un [<span lang="en">bitrate</span> variable](https://fr.wikipedia.org/wiki/Variable_bitrate). Voici une comparaison entre un extrait original de 10 secondes d'une séquence du décollage d'Endeavour et un encodage à deux passes avec ffmpeg. La vidéo à gauche pesait 85 Mo, celle de droite pèse 1,2 Mo après optimisation :
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/M99TPB7qMsQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M99TPB7qMsQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 Cet exemple montre ce qui peut techniquement être fait pour améliorer le poids d'une vidéo, mais nous pouvons aussi extrapoler des optimisations à partir des objectifs métier de la vidéo. Il est assez courant, par exemple, de visiter des sites dont la page d'accueil affiche une large zone avec un message de bienvenue, occupant l'ensemble de la fenêtre. Parfois, derrière cette zone, qu’on appelle "Hero Container", une vidéo de fond est diffusée. 
 
@@ -72,7 +72,7 @@ L'option `-vf frei0r=iirblur:0.4` indique à ffmpeg de flouter avec un coefficie
 
 Résultat :
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/nwGDXk9eE8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nwGDXk9eE8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 Autre optimisation possible : la piste audio. Si votre vidéo n'est pas destinée à jouer du son, pourquoi garder cette piste ? N'hésitez pas à la retirer :
 

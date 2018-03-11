@@ -4,7 +4,6 @@ i18n-key: defer-js
 date: '2017-12-18'
 lang: fr
 canonical: 'https://blog.dareboost.com/fr/2017/12/differer-les-scripts-pour-accelerer-le-rendu/'
-published: true
 type: post
 categories:
     - web
