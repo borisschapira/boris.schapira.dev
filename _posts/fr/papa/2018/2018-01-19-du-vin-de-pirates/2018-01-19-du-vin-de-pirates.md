@@ -7,7 +7,7 @@ categories:
     - papa
 publishDate: '2018-01-19'
 locale: fr_FR
-published: false
+published: true
 ---
 
 Je me sers un rhum vieux. Comme ils sont curieux, je leur fais sentir. Ayant un très (très) bon odorat, je suis toujours amusé de tester celui des autres. Le grand me dit qu'il reconnait l'odeur.
@@ -24,3 +24,11 @@ Comme l'abruti que je suis, je glousse. Son frère lui lance un "Ah mais non, c'
 Mon sourire disparait immédiatement. Il s'agit d'un mariage qui s'est déroulé en août, il y a 5 mois, pendant lequel était servi du rhum arrangé. Je lui ai présenté mes excuses.
 
 Finalement, il a peut-être le nez de son père.
+
+{% capture alt_text%}Le capitaine Jack Sparrow ("Pirates des Caraibes") dit qu'il préfère le rhum.{% endcapture %}
+{% include video_as_a_gif.html.liquid
+    slug="pirate"
+    alt=alt_text
+    caption="Ou alors il va finir pirate."
+%}
+

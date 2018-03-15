@@ -7,7 +7,7 @@ categories:
     - papa
 publishDate: '2017-12-08'
 locale: fr_FR
-published: false
+published: true
 ---
 
 Les enfants ne sont pas satisfaits du contenu de leurs assiettes. Ils décident de faire un échange.
@@ -20,3 +20,10 @@ Les enfants ne sont pas satisfaits du contenu de leurs assiettes. Ils décident 
 > – Non, je te dis et tu me le donnes.  
 > – Je te dis et je te le donne.  
 > – Papa ! [Mon frère] il veut que c'est toujours moi qui lui donne !
+
+{% capture alt_text%}Extrait de la Cité de la Peur, un gros plan sur Dominique Farrugia.{% endcapture %}
+{% include video_as_a_gif.html.liquid
+    slug="tromper"
+    alt=alt_text
+    caption="&laquo;&nbsp;Mange ça ! Pourriture communiste !&nbsp;&raquo;"
+%}

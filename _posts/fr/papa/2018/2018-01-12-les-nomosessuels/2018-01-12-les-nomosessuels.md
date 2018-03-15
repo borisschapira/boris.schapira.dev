@@ -7,7 +7,7 @@ categories:
     - papa
 publishDate: '2018-01-12'
 locale: fr_FR
-published: false
+published: true
 ---
 
 Mon grand pleure car à l'école, un enfant se moque de lui. Il m'explique.
@@ -34,3 +34,10 @@ Soudain, il a paru triste.
 
 > – Tu sais, il ne faut pas l'écouter.
 > – Oui, je sais. C'est pas ça. Je veux changer d'école, Papa, ici ils sont trop bêtes. Ils savent pas que "nomosessuel", c'est des gens qui s'aiment et que c'est pas du tout une insulte.
+
+{% capture alt_text%}Ellen Page agite un <span lang="en">rainbow flag</span>.{% endcapture %}
+{% include video_as_a_gif.html.liquid
+    slug="ellenpage"
+    alt=alt_text
+    caption="Ça, c'est des valeurs !"
+%}
