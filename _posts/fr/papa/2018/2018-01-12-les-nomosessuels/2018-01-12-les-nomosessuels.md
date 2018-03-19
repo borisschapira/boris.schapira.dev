@@ -18,7 +18,7 @@ Mon grand pleure car à l'école, un enfant se moque de lui. Il m'explique.
 > – Un "nomosessuel" ?  
 > – Oui, comme le nomopoly !
 
-Nous avons eu une grande discussion sur ce qu'était l'homosexualité, dont on avait déjà parlé. Ensuite, on s'est demandé ce qu'il pouvait faire pour que le garçon arrête. Je lui ai dis de lui poser des questions, de le solliciter. À la fois pour comprendre pourquoi il disait ça mais aussi pour faire en sorte que l'interaction soit plus pénible pour ce méchant garçon que pour lui.
+Nous avons eu une grande discussion sur ce qu'était l'homosexualité, et sur la prononciation du mot "Monopoly". Ensuite, on s'est demandé ce qu'il pouvait faire pour que le garçon arrête. Je lui ai dis de lui poser des questions, de le solliciter. À la fois pour comprendre pourquoi il disait ça mais aussi pour faire en sorte que l'interaction soit plus pénible pour ce méchant garçon que pour lui.
 
 ***
 
@@ -32,7 +32,7 @@ Quelques jours plus tard…
 
 Soudain, il a paru triste.
 
-> – Tu sais, il ne faut pas l'écouter.
+> – Tu sais, il ne faut pas l'écouter.  
 > – Oui, je sais. C'est pas ça. Je veux changer d'école, Papa, ici ils sont trop bêtes. Ils savent pas que "nomosessuel", c'est des gens qui s'aiment et que c'est pas du tout une insulte.
 
 {% capture alt_text%}Ellen Page agite un <span lang="en">rainbow flag</span>.{% endcapture %}

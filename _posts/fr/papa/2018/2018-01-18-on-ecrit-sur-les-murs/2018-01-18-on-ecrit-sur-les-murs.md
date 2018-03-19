@@ -17,7 +17,7 @@ En déposant le petit à la maternelle, je discute un peu avec une des mamans de
 > – Il a eu un album de Kids United…  
 > – Et ce n'est pas ce qu'il avait demandé au Père Noël ?  
 > – Non, il ne voulait pas l'album, il voulait l'encre.  
-> – L'encre ?  
+> – L'encre ?
 
 D'un coup, les deux garçons, qui nous écoutaient, interviennent :
 

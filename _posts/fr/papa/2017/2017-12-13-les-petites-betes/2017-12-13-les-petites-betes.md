@@ -34,16 +34,16 @@ Les enfants sont subjugués et se regardent mutuellement en louchant, comme s'il
 
 Nous terminons notre explication par les bactéries, qui sont encore plus petites que les acariens. Je leur explique que leur corps entier est rempli de bactéries et qu'elles sont nécessaires à son fonctionnement. Ils sont effarés. Le petit, 4 ans, ne sait pas trop s'il est heureux ou inquiet. Le grand, 7 ans et seul croyant de la maison, se pose des questions :
 
-> — Mais Papa, on peut les faire sortir les petits copains du ventre ?
-> — Pourquoi tu voudrais qu'ils sortent, ils sont chez eux. Ils sont nés avec toi, font partie de toi. Tu ne serais pas toi, sans eux.
-> — Ils sont toujours avec moi ? 
-> — Oui.
-> — Mais pas comme Jésus.
-> — Comment ça ?
-> — À l'école [son ancienne maternelle, chrétienne] ils disent que Jésus est avec nous. Mais en vrai, il est pas là.
-> — Les bactéries sont vraiment là, elle.
-> — Alors je suis jamais seul ?
-> — C'est ça.
+> — Mais Papa, on peut les faire sortir les petits copains du ventre ?  
+> — Pourquoi tu voudrais qu'ils sortent, ils sont chez eux. Ils sont nés avec toi, font partie de toi. Tu ne serais pas toi, sans eux.  
+> — Ils sont toujours avec moi ?  
+> — Oui.  
+> — Mais pas comme Jésus.  
+> — Comment ça ?  
+> — À l'école [son ancienne maternelle, chrétienne] ils disent que Jésus est avec nous. Mais en vrai, il est pas là.  
+> — Les bactéries sont vraiment là, elle.  
+> — Alors je suis jamais seul ?  
+> — C'est ça.  
 > — Trop cool.
 
 {% capture alt_text%}Extrait d'il était une fois la vie avec des bactéries.{% endcapture %}

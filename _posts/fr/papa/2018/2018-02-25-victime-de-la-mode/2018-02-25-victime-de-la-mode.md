@@ -18,4 +18,11 @@ Je leur propose d'aller jouer dans le jardin. Le grand est prêt à sortir sur l
 
 > Mais j’peux pas ! Le temps que je les choisisse, ils seront déjà rentrés !
 
-<span lang="en">Fashion Victim</span>
+
+{% capture alt_text%}Un homme, triste et en colère, jette un à un les vêtements contenus dans un tiroir par terre en criant qu'il n'a rien à se mettre.{% endcapture %}
+{% capture caption_text %}Quelle <span lang="en">Fashion Victim</span> !{% endcapture %}
+{% include video_as_a_gif.html.liquid
+    slug="nothing"
+    alt=alt_text
+    caption=caption_text
+%}

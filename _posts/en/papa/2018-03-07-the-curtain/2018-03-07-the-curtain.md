@@ -19,6 +19,12 @@ We were at the Mc Donald's and they were playing in the indoor playground. He ca
 > – And?
 > – t'was no curtains, t'was a wall!
 
+{% capture alt_text%}Clip from Star Wars during which R2D2 throws himself against a wall.{% endcapture %}
+{% include video_as_a_gif.html.liquid
+    slug="r2d2"
+    alt=alt_text
+%}
+
 Then he smiled to me, showing his bleeding teeth.
 
 > t'was fun, daddy !
