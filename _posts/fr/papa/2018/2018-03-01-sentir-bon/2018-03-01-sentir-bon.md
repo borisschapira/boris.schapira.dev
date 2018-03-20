@@ -16,7 +16,7 @@ Pendant que je lui lis son histoire du soir, le grand se colle contre moi. À la
 
 > – Papa, tu sens bon.  
 > – Merci chéri.  
-> – ‎Tu sens comme une copain à moi. Il sent tout le temps comme ça.  
+> – ‎Tu sens comme un copain à moi. Il sent tout le temps comme ça.  
 > – ‎Ah ? Je me suis lavé les cheveux avec un shampoing à la noix de coco, c'est peut-être cette odeur.
 
 Je le vois qui réfléchit. Il cherche une réponse avec assiduité.
