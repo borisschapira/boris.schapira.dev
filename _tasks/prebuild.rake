@@ -14,7 +14,7 @@ namespace :prebuild do
     task :doctor, [:env] do |_t, args|
       args.with_defaults(env: 'prod')
       config_file = "_config_#{args[:env]}.yml"
-      jekyll("doctor --config _config.yml,#{config_file}")
+      jekyll("doctor --config _config.yml,#{config_file}", "production")
     end
 
     desc 'Test if content Front-Matter is YAML-valid'
@@ -49,8 +49,8 @@ namespace :prebuild do
   end
 
   # launch jekyll
-  def jekyll(directives = '')
-    sh 'jekyll ' + directives
+  def jekyll(directives = '', env = 'development')
+    sh 'JEKYLL_ENV='+env+' jekyll ' + directives
   end
 
   # launch npm

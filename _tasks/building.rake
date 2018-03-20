@@ -38,7 +38,7 @@ namespace :build do
     end
 
     puts 'Building…'
-    jekyll("build --config _config.yml,#{config_file},#{deploy_file}")
+    jekyll("build --config _config.yml,#{config_file},#{deploy_file}", "production")
     puts 'Cleaning BOMs…'
     sh './scripts/postprocess.sh ./_site'
     puts 'Compressing with…'
@@ -55,8 +55,8 @@ namespace :build do
   end
 
   # launch jekyll
-  def jekyll(directives = '')
-    sh 'jekyll ' + directives
+  def jekyll(directives = '', env = 'development')
+    sh 'JEKYLL_ENV='+env+' jekyll ' + directives
   end
 
   # launch npm
