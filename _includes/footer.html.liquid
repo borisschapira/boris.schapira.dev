@@ -5,6 +5,7 @@
     }
   </style>
 </noscript>
+<script>performance.mark('parsing:js:start');</script>
 <script>
   function injectScript(path) {
     var e = document.createElement('script');
@@ -22,3 +23,5 @@
 {% endif %}
 
 {% if page.permalink == '404.html' %}<script>injectScript('/assets/scripts/404.min.js');</script>{% endif %}
+
+<script>performance.mark('parsing:js:end');performance.measure('parsing:js', 'parsing:js:start', 'parsing:js:end');</script>
