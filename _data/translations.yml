@@ -15,6 +15,7 @@ en_US:
   "Commentaires": "Comments"
   "commentaires": "comments"
   "de la catégorie&nbsp;:": "from the category"
+  "Dans la même catégorie :": "In the same category:"
   "Ecrivez-moi !": "Send me an email !"
   "anglais": "english"
   "Email": "Email"
@@ -40,7 +41,7 @@ en_US:
   "par": "by"
   "Partager cet article": "Share this post on"
   "Poster le commentaire": "Post the comment"
-  "Précédent": "Previous"
+  "Précédent :": "Previous:"
   "Répondre à": "Reply to"
   "Retour": "Back"
   "rédigés en": "written in"
@@ -51,7 +52,7 @@ en_US:
   "Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre": "If you only want to receive my web-relative posts, you might prefer to follow"
   "ce flux": "this feed"
   "sources": source code
-  "Suivant": "Next"
+  "Suivant :": "Next:"
   "Suivez-moi": "Follow me"
   "sur": "on"
   "ticket": issue

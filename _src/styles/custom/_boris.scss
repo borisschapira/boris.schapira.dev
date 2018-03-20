@@ -61,14 +61,7 @@ img {
   color: $color-main;
 }
 
-
-.page-navigation a {
-  text-decoration: underline;
-  transition: color .1s ease-out;
-}
-
 // Elegant polyfill for (text-decoration-skip-ink: auto)
-.posts :not(.page-navigation) a:hover,
 .post-content a {
   text-decoration: none;
   padding: calc( 1em * 60 / 100) 0;
@@ -473,24 +466,6 @@ footer .wrap {
     width: 100%;
     height: 100%;
   }
-}
-
-.page-navigation {
-  font-size: 14px;
-  display: block;
-  width: auto;
-  overflow: hidden;
-}
-
-.page-navigation a {
-  display: block;
-  width: 50%;
-  float: left;
-  margin: 1em 0;
-}
-
-.page-navigation .next {
-  text-align: right;
 }
 
 .sidebar {
