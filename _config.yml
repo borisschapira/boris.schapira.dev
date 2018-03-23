@@ -1,0 +1,188 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Lang configuration
+lang: fr
+locale: fr_FR
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: fr
+      locale: fr_FR
+      base-url: "/"
+  - scope:
+      path: "_confs"
+    values:
+      layout: conf
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+      comments: true
+      comments_locked: false
+      hidden: false
+  - scope:
+      path: "_posts/fr/web"
+    values:
+      category: web
+  - scope:
+      path: "_posts/fr/papa"
+    values:
+      category: papa
+  - scope:
+      path: "_posts/fr/citoyen"
+    values:
+      category: citoyen
+  - scope:
+      path: "en"
+    values:
+      locale: "en_US"
+      base-url: "/en/"
+  - scope:
+      locale: "en_US"
+      path: "_posts/en"
+    values:
+      base-url: "/en/"
+  - scope:
+      path: "_posts/en/web"
+    values:
+      category: web
+  - scope:
+      path: "_posts/en/papa"
+    values:
+      category: papa
+# Exclusions
+exclude:
+  - ".cache"
+  - "node_modules"
+  - "package.json"
+  - "scripts"
+  - "_tasks"
+  - "_src"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "gulpfile.js"
+  - "LICENSE.md"
+  - "package-lock.json"
+  - "README.md"
+  - "Rakefile"
+  - "tmp"
+  - "vendor"
+  - "staticman.yml"
+  - _posts/**/*.jpg
+  - _posts/**/*.jpeg
+  - _posts/**/*.png
+  - _posts/**/*.gif
+  - _posts/**/*.pdf
+  - _posts/**/*.mp4
+  - _posts/**/*.webm
+  - _posts/**/*.ogv
+include:
+  - ".well-known"
+  - ".htaccess"
+  - ".htpasswd"
+
+# Site settings
+name: 'Boris Schapira'
+title: 'Boris Schapira'
+email: borisschapira@gmail.com
+tagline: '<span lang="en">Life is too short to be small</span>'
+description: "Blog personnel de Boris Schapira. Des avis sur les métiers du web mais aussi sur ma vie de parent et de citoyen."
+url: "https://borisschapira.com"
+timezone: Europe/Paris
+incremental: true
+encoding: utf-8
+lsi: true
+repository: borisschapira/jekyll-bs
+
+staticman:
+  branch: master
+
+# ReCaptcha with Staticman
+# Encrypted secret :  https://api.staticman.net/v2/encrypt/YOUR-SECRET
+recaptcha:
+  key: '…'
+  secret: '…'
+  encrypted_secret: '…'
+
+microtypo:
+  median: true
+
+# Author
+name: 'Boris Schapira'
+domain: 'borisschapira.com'
+author:
+  name:           'Boris Schapira'
+  url:            https://borisschapira.com/
+  flickr: 'http://flickr.com/borisschapira'
+  github: 'https://github.com/borisschapira'
+  facebook: 'https://www.facebook.com/boris.schapira'
+  twitter: 'http://twitter.com/borisschapira'
+  mastodon: https://framapiaf.org/@borisschapira
+  twitter_username: '@borisschapira'
+  gravatar: https://www.gravatar.com/avatar/e884b2ba7d66cfea7cb2185922c7a183
+  linkedin: 'http://linkedin.com/in/borisschapira'
+  feed: '/feed.xml'
+  mailto: 'contact%40borisschapira.com'
+  reading_speed_en: 478
+  reading_speed_fr: 723
+
+# Posts links and pagination
+permalink: :year/:month/:title/
+
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+# Collections
+collections:
+  confs:
+    output: true
+
+# Build settings
+kramdown:
+  hard_wrap: true
+
+jekyll-archives:
+  enabled:
+    - "year"
+    - "month"
+  layouts:
+    year: "archives"
+    month: "archives"
+  permalinks:
+    year: "/:year/"
+    month: "/:year/:month/"
+
+# The average reading speed, in number of words by minute
+reading_speed: 400
+
+cloudinary:
+  cloud_name: borisschapira
+  presets:
+    default:
+      sizes: "(min-width:20em) and (max-width:50em) 20em, (min-width:50em) 30em"
+
+recaptcha:
+  key: '…'
+  secret: '…'
+  encrypted_secret: '…'
+
+dareboost:
+  monitoring : …
+  token: '…'
+
+compress_html:
+  ignore:
+    envs:
+      - 'developpement'

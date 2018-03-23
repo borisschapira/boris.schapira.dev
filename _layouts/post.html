@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+{% include post.html.liquid postPage=true showtags=false %}
+
+{% include post_footer.html.liquid content=post.content %}
+
+{% if page.next_context or page.prev_context %}
+<div class="category-navigation post-footer">
+  <h3>{% t Dans la même catégorie : %}</h3>
+  <ul class="page-navigation">
+    {% if page.prev_context %}<li>{% t Précédent : %} <a href="{{page.prev_context.url}}">{{ page.prev_context.title }}</a></li>{% endif %}
+    {% if page.next_context %}<li>{% t Suivant : %} <a href="{{page.next_context.url}}">{{ page.next_context.title }}</a></li>{% endif %}
+  </ul>
+</div>
+{% endif %}
+
+{% assign related_locale = site.related_posts | where:"locale", page.locale %}
+{% include post_related.html.liquid posts=related_locale %}
+
+{% if page.comments == true %}
+  {% include comments.html.liquid %}
+{% endif %}

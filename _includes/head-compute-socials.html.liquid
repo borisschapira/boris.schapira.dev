@@ -1,0 +1,63 @@
+  {% comment %} Date {% endcomment %}
+  {% capture socialDate %}{{ page.date | date: "%Y-%m-%d" }}{% endcapture %}
+  {% comment %} Image {% endcomment %}
+  {% capture socialImage %}https://avatars.borisschapira.com/boris_1light_300_fuchsia.jpg{% endcapture %}
+  {% if page.main_image %}
+    {% capture socialImage %}{{ site.url }}/{{ page.main_image }}{% endcapture %}
+  {% else %}
+    {% if page.category %}
+      {% capture socialImage %}{{ site.url }}/assets/images/category/{{ page.category | slugify }}.png{% endcapture %}
+    {% else %}
+      {% assign variable = site.author.gravatar %}
+    {% endif %}
+  {% endif %}
+  {% comment %} Site Name {% endcomment %}
+  {% capture socialSitename %}{{ site.name }}{% endcapture %}
+  {% comment %} Author {% endcomment %}
+  {% capture socialAuthor %}{{ site.author.name }}{% endcapture %}
+  {% if page.by  != nil %}
+    {% capture socialAuthor %}{{ page.by }}{% endcapture %}
+  {% endif %}
+  {% comment %} Page Title, description and URL {% endcomment %}
+  {% capture socialTitle %}{{ site.title }}{% endcapture %}
+  {% capture socialDescription %}{{ site.description }}{% endcapture %}
+  {% capture socialUrl %}{{ site.url | append:page.url }}{% endcapture %}
+  {% capture socialType %}website{% endcapture %}
+
+  {% case page.type %}
+    {% when "year" %}
+      {% capture socialTitle %}Année {{ page.date | localize: "%Y", page.locale }} &middot; {{ site.title }}{% endcapture %}
+      {% capture socialDescription %}Billets publiés en {{ page.date | localize: "%Y", page.locale }}{% endcapture %}
+    {% when "month" %}
+      {% capture socialTitle %}{{ page.date | localize: '%B %Y', page.locale }} &middot; {{ site.title }}{% endcapture %}
+      {% capture socialDescription %}Billets publiés en {{ page.date | localize: '%B %Y', page.locale }}{% endcapture %}
+    {% when "post" %}
+      {% capture socialTitle %}{{ page.title | strip_html }} &middot; {{ site.title }}{% endcapture %}
+      {% if page.content contains "<!-- more -->" %}
+        {% capture socialDescription %}{{ page.content | split:"<!-- more -->" | first | markdownify % }}{% endcapture %}
+      {% elsif page.content.size < 1000 %}
+        {% if page.content contains "<figure>" %}
+          {% capture socialDescription %}{{ page.content | split:"<figure>" | first | markdownify % }}{% endcapture %}
+        {% else %}
+          {% capture socialDescription %}{{ page.content | markdownify }}{% endcapture %}
+        {% endif %}
+      {% else %}
+        {% capture socialDescription %}{{ page.excerpt | markdownify }}{% endcapture %}
+      {% endif %}
+    {% else %}
+      {% capture socialTitle %}{{ page.title | strip_html }} &middot; {{ site.title }}{% endcapture %}
+      {% if page.description %}
+        {% capture socialDescription %}{{ page.description % }}{% endcapture %}
+      {% elsif page.content contains "<!-- more -->" %}
+        {% capture socialDescription %}{{ page.content | split:"<!-- more -->" | first | markdownify % }}{% endcapture %}
+      {% elsif page.content.size > 50 %}
+        {% if page.content contains "<figure>" %}
+          {% capture socialDescription %}{{ page.content | split:"<figure>" | first | markdownify % }}{% endcapture %}
+        {% else %}
+          {% capture socialDescription %}{{ page.content | markdownify }}{% endcapture %}
+        {% endif %}
+      {% else %}
+        {% capture socialDescription %}{{ site.description }}{% endcapture %}
+      {% endif %}
+  {% endcase %}
+  {% capture socialDescription %}{{ socialDescription | strip_html | truncatewords: 40 | strip_newlines | escape_once }}{% endcapture %}

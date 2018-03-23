@@ -1,0 +1,7 @@
+{% assign d = include.postDate | localize: "%-d", include.locale %}
+{% assign m = include.postDate | localize: "%B", include.locale %}
+{{ include.postDate | localize: "%A", include.locale }}&nbsp;{% case m %}
+  {% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
+  {% when 'September' %}Sept.
+  {% else %}{{ include.postDate | localize: "%b", include.locale }}.
+{% endcase %}&nbsp;{{ d }},&nbsp;{{ include.postDate | localize: "%Y", include.locale }}

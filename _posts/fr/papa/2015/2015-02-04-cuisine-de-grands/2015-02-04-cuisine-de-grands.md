@@ -1,0 +1,19 @@
+---
+title: 'Cuisine de grands'
+date: '2015-02-04'
+lang: fr
+type: post
+categories:
+    - papa
+publishDate: '2015-02-04'
+locale: fr_FR
+---
+
+Il est délicatement en train de tartiner sa mousse au chocolat sur une biscotte, puis décore l'ensemble avec des éclats de chips et un morceau de bonbon.
+
+> — Qu'est-ce que tu fais, chéri ?  
+> — La cuisine, Papa  
+> — A oui, mais là on peut carrément parler de grande cuisine, non ?  
+> — Oui, cuisine de grands, comme Papa et Maman !
+
+Hum.

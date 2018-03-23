@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<section class="posts">
+    <header class="posts-h">
+        <h1 class="page-title">Articles de {% if page.type == "year" %}{{ page.date|localize: "%Y", page.locale }}{% elsif page.type == "month" %}{{ page.date|localize: "%B %Y", page.locale }}{% endif %}</h1>
+    </header>  
+    {% for post in page.posts %}
+        {% include post.html.liquid postPage=false %}
+    {% endfor %}
+</section>

@@ -1,0 +1,52 @@
+<div class="sidebar" role="navigation">
+  <div class="container">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ page.base-url }}" itemprop="url">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.tagline }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+
+      <ul class="categories" itemscope itemtype="http://schema.org/BreadcrumbList">
+        <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
+        itemtype="http://schema.org/ListItem"><a href="{{ 'web/' | prepend: page.base-url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{% t Web %}</a></li>
+
+        {% if the-locale == 'fr_FR' %}<li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
+        itemtype="http://schema.org/ListItem">
+        <a href="{{ 'citoyen/' | prepend: page.base-url }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Citoyen %}</a>
+        </li>{% endif %}
+
+        <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}" itemprop="itemListElement" itemscope
+        itemtype="http://schema.org/ListItem">
+        <a href="{{ 'papa/' | prepend: page.base-url }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Papa %}</a>
+        </li>
+      </ul>
+
+      <div class="lang">
+        <ul>
+          {% if page.translation %}
+            {% assign lang = page.translation.locale | slice: 0,2 %}
+            {% capture read_in %}{% t Lire en %} {% if lang == "en" %}{% t anglais %}{% else %}{% t français %}{% endif %}{% endcapture %}
+            <li><a class="{{ lang }}" href="{{ page.translation.url }}"><span class="sr-only">{{ read_in }}</span><svg class="icon flag-{{ lang }}" aria-hidden="true"><use xlink:href="#flag-{{ lang }}"></use></svg></a>
+          {% endif %}
+        </ul>
+      </div>
+
+      <ul class="secondary">
+        <li class="sidebar-nav-item">
+          <a href="{{ page.base-url }}{% t a-propos %}/">
+            <span class="sr-only">{% t À propos %}</span>
+            {% include img/avatar.svg.liquid class="avatar" %}
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    {% include sidebar-follow-icons.html.liquid %}
+
+  </div>
+</div>

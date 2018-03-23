@@ -1,0 +1,6 @@
+---
+title: "Un Web sans date de péremption"
+target: gens qui s'intéressent au Web… et à l'héritage qu'il construit
+description: "Le web est un média qui est souvent associé à la vitesse, à la jeunesse. Un média où tout est beau, tout est nouveau… les projets sont rapides, destinés à atteindre le marché le plus vite possible, en mode \"hit and run\". Ou pas. La grande majorité des sites Web date d'il y a plus de cinq ans et ne sera pas renouvelée par d'autres dispositifs dans l'immédiat. Une grande partie des utilisateurs ont une connectivité intermittente et offrant un faible débit. Une majorité des utilisateurs n'est ni jeune, ni en recherche d'innovation. Le Web manque encore beaucoup là où les gens sont déjà les moins connectés à la vie de la Cité. Comment proposer des services de qualité, sur la durée ?"
+description_off: "L'idée n'est pas de critiquer les nouveautés, attention, mais plutôt de présenter des possibilités pour réaliser un Web plus résilient. Nous parlerons de standards, de données, d'amélioration progressive et continue, de résistance à la hype, de mesure en continu de la qualité et de la performance, de contribution efficace… d'un autre Web, plus Fast(e) mais moins Furious."
+---

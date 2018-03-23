@@ -1,0 +1,12 @@
+.asset-cache
+.tweet-cache
+.bundle
+/vendor/
+rsync.sh
+.jekyll-assets-cache
+.jekyll-cache
+/tmp/
+_site/
+_config_prod.yml
+.sass-cache/
+.jekyll-metadata

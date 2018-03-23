@@ -1,0 +1,32 @@
+---
+title: "The interlude"
+date: '2018-03-19'
+lang: en
+type: post
+i18n-key: entracte
+categories:
+    - papa
+publishDate: '2018-03-19'
+locale: en_US
+
+---
+
+We're taking the kids to a show. There is a small interlude. We sit down with the kids to talk and have a drink.
+
+<!-- more -->
+
+Our youngest asks:
+
+> – Mom, is the show over?  
+> – No, there's the second part. This was just a break, an interlude.  
+> – Oh...  
+> – An interlude means...  
+> – But I know, Mommy, what is an interlude because everytime we watch a cartoon at Grandma's, we take a break to eat candy!
+
+{% capture alt_text%}Kimmy schmidt just bought candy and is saying "I'm having candy for diner!"{% endcapture %}
+{% include video_as_a_gif.html.liquid
+    url="/assets/images/papa/2018-03-19/candy"
+    alt=alt_text
+    caption="How I imagine diner at their Grandma's."
+%}
+

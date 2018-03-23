@@ -1,0 +1,17 @@
+{% capture post_content %}
+    {{ post.content }}{% unless page.hide_message %}
+    <hr>
+    <div style="font-style:italic">
+        <p>
+            {% t Vous êtes abonné·e au flux des articles %}{% unless has_cat or has_locale %}.{% else %}&nbsp;:
+        </p>
+        <ul>
+            {% if has_cat %}<li>{% t de la catégorie&nbsp;: %} {% include category_display.html.liquid category=page.category %}{% if has_locale %}&nbsp;;{% else %}.{% endif %}</li>{% endif %}
+            {% if has_locale %}<li>{% t rédigés en %} {% include locale_display.html.liquid locale=page.locale %}.</li>{% endif %}
+        </ul>
+        {% if page.category != 'web' %}<p>
+            {% t Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre %} <a href="{{ "web/feed.xml" | prepend: page.base-url | prepend: site.url }}">{% t ce flux %}</a>.
+        </p>{% endif %}
+    </div>{% endunless %}
+    {% endunless %}
+{% endcapture %}{{ post_content | xml_escape }}

@@ -1,0 +1,25 @@
+---
+layout: microtypo
+---
+{% assign the-locale = page.locale | default: site.locale | default: "fr_FR" %}
+{% assign translations=site.posts | where:"i18n-key", page.i18n-key | sort: 'locale' %}
+{% if translations.size == 0 %}
+  {% assign translations=site.html_pages | where:"i18n-key", page.i18n-key | sort: 'locale' %}
+{% endif %}<!DOCTYPE html>
+<html lang="{{ the-locale | slice: 0,2 }}" itemscope itemtype="https://schema.org/WebPage">
+
+  {% include head.html.liquid %}
+
+  <body id="top" class="theme-base-0g">
+
+    {% include symbols.svg.liquid %}
+    <a class="skip-main" href="#main">{% t Aller directement au contenu principal %}</a>
+    {% include sidebar.html.liquid %}
+
+    <div id="main" class="content container" role="main">
+      {{ content }}
+    </div>
+
+    {% include footer.html.liquid %}
+  </body>
+</html>

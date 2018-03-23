@@ -1,0 +1,53 @@
+{% comment %}
+  Completly snatched from Michael Rose's MadeMistake blog post https://mademistakes.com/articles/improving-jekyll-static-comments/
+{% endcomment %}
+<li id="comment{% unless include.r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endunless %}" class="js-comment comment {% if include.name == site.author.name %}admin{% endif %} {% unless include.replying_to == 0 %}child{% endunless %}">
+  <header>
+  <div class="avatar__container">
+  {% if include.avatar %}
+    <img src="{{ include.avatar }}" alt="{{ include.name | escape }}">
+  {% elsif include.email %}
+    <img src="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=60" srcset="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=120 2x" alt="{{ include.name | replace: "·", "&#x00B7;" | escape }}">
+  {% else %}
+    <img src="https://www.gravatar.com/avatar/?d=mm&s=60" srcset="https://www.gravatar.com/avatar/?d=mm&s=120 2x" alt="{{ include.name | escape }}">
+  {% endif %}
+  </div>
+  {% if include.date %}
+    {% if include.index %}<a href="#comment{% if r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endif %}" class="npe">{% endif %}<span class="sr-only">{% t Lien direct vers ce commentaire %}</span><time datetime="{{ include.date | date_to_xmlschema }}">{{ include.date | date: '%d/%m/%Y' }}</time>
+    {% if include.index %}</a>{% endif %}
+  {% endif %}
+  <h3 class="comment__author">
+    {% unless include.url == blank or include.url == '' %}<a rel="external nofollow" href="{{ include.url }}" class="npe">{% endunless %}
+        {{ include.name }}
+    {% unless include.url == blank or include.url == '' %}</a>{% endunless %}
+  </h3>
+  </header>
+  <div class="comment__content">
+    {{ include.message | markdownify }}
+
+    {% unless include.replying_to != 0 or page.comments_locked == true %}
+      <a rel="nofollow" class="reply-to npe" href="#comment-{{ include.index }}" data-comm-id="comment-{{ include.index }}" data-parent-id="{{ include.index }}" data-respond-id="respond" data-post-id="{{ page.slug }}">{% t Répondre à %} {{ include.name }}</a>
+    {% endunless %}
+  </div>
+
+{% capture i %}{{ include.index }}{% endcapture %}
+{% assign replies = site.data.comments[page.slug] | where_exp: 'item', 'item.replying_to == i' %}
+{% if replies.size > 0 %}
+  <ul class="comments">
+  {% assign sortedreplies = replies | sort: 'date' %}
+  {% for reply in sortedreplies %}
+    {% assign index       = forloop.index | prepend: '-' | prepend: include.index %}
+    {% assign r           = reply.replying_to %}
+    {% assign replying_to = r | to_integer %}
+    {% assign avatar      = reply.avatar %}
+    {% assign email       = reply.email %}
+    {% assign name        = reply.name %}
+    {% assign url         = reply.url %}
+    {% assign date        = reply.date %}
+    {% assign message     = reply.message %}
+    {% include comment.html.liquid index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message %}
+  {% endfor %}
+  </ul>
+{% endif %}
+
+</li>
