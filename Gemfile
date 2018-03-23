@@ -3,10 +3,10 @@ ruby '2.5.0'
 
 gem 'gsl'
 gem 'i18n'
-gem 'jekyll', '~>3.7.3'
+#gem 'jekyll', '~>3.7.3'
 #gem 'jekyll', :git => 'https://github.com/jekyll/jekyll', :branch => 'master'
 #gem 'jekyll', :git => 'https://github.com/ashmaroli/jekyll', :branch => '3.8.0-alpha-2'
-#gem 'jekyll', :git => 'https://github.com/ashmaroli/jekyll', :branch => 'optima/benchmark'
+gem 'jekyll', :git => 'https://github.com/ashmaroli/jekyll', :branch => 'optima/benchmark'
 gem 'rake'
 
 group :jekyll_tests do

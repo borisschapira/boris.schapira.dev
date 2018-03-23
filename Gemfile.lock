@@ -1,3 +1,22 @@
+GIT
+  remote: https://github.com/ashmaroli/jekyll
+  revision: b1eda4fe4e771bfed1da7535e8843c80c1270340
+  branch: optima/benchmark
+  specs:
+    jekyll (3.7.2)
+      addressable (~> 2.4)
+      colorator (~> 1.0)
+      em-websocket (~> 0.5)
+      i18n (~> 0.7)
+      jekyll-sass-converter (~> 1.0)
+      jekyll-watch (~> 2.0)
+      kramdown (~> 1.14)
+      liquid (~> 4.0)
+      mercenary (~> 0.3.3)
+      pathutil (~> 0.9)
+      rouge (>= 1.7, < 4)
+      safe_yaml (~> 1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -36,19 +55,6 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jekyll (3.7.3)
-      addressable (~> 2.4)
-      colorator (~> 1.0)
-      em-websocket (~> 0.5)
-      i18n (~> 0.7)
-      jekyll-sass-converter (~> 1.0)
-      jekyll-watch (~> 2.0)
-      kramdown (~> 1.14)
-      liquid (~> 4.0)
-      mercenary (~> 0.3.3)
-      pathutil (~> 0.9)
-      rouge (>= 1.7, < 4)
-      safe_yaml (~> 1.0)
     jekyll-archives (2.1.1)
       jekyll (>= 2.4)
     jekyll-cloudinary (1.9.1)
@@ -114,7 +120,7 @@ DEPENDENCIES
   gsl
   html-proofer
   i18n
-  jekyll (~> 3.7.3)
+  jekyll!
   jekyll-archives
   jekyll-cloudinary
   jekyll-microtypo
