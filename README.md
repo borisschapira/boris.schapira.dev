@@ -22,19 +22,10 @@ bundle install
 bundle exec rake
 ```
 
-### Coverage 
-
-#### Installation
+### Build for Production
 
 ```
-docker pull sonar-qube
-docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
-```
-
-#### Execution
-
-```
-bundle exec rake sonar
+bundle exec rake build:generate
 ```
 
 ## License
