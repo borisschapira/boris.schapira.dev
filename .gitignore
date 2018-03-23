@@ -7,6 +7,5 @@ rsync.sh
 .jekyll-cache
 /tmp/
 _site/
-_config_prod.yml
 .sass-cache/
 .jekyll-metadata

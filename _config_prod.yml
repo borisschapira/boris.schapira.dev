@@ -1,0 +1,10 @@
+recaptcha:
+  key: ""
+  secret: ""
+  encrypted_secret: ""
+
+dareboost:
+  monitoring : ""
+  token: ""
+
+profile: true
