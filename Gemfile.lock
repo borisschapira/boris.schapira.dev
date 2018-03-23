@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/ashmaroli/jekyll
-  revision: b1eda4fe4e771bfed1da7535e8843c80c1270340
-  branch: optima/benchmark
+  revision: f05953aa2c564eaffed722ca074aa8669028aeab
+  branch: cache-in-where-filters
   specs:
     jekyll (3.7.2)
       addressable (~> 2.4)

@@ -6,7 +6,8 @@ gem 'i18n'
 #gem 'jekyll', '~>3.7.3'
 #gem 'jekyll', :git => 'https://github.com/jekyll/jekyll', :branch => 'master'
 #gem 'jekyll', :git => 'https://github.com/ashmaroli/jekyll', :branch => '3.8.0-alpha-2'
-gem 'jekyll', :git => 'https://github.com/ashmaroli/jekyll', :branch => 'optima/benchmark'
+#gem 'jekyll', :git => 'https://github.com/ashmaroli/jekyll', :branch => 'optima/benchmark'
+gem 'jekyll', :git => 'https://github.com/ashmaroli/jekyll', :branch => 'cache-in-where-filters'
 gem 'rake'
 
 group :jekyll_tests do
