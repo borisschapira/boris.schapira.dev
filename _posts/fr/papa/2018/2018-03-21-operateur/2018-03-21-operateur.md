@@ -10,7 +10,7 @@ publishDate: '2018-03-21'
 locale: fr_FR
 ---
 
-L'aîné découvre depuis quelques semaines le théâtre. Il passe sont temps à jouer des scènes et nous faire marcher.
+L'aîné découvre depuis quelques semaines le théâtre. Il passe son temps à jouer des scènes et nous faire marcher.
 
 <!-- more -->
 
