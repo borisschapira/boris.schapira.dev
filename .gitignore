@@ -9,3 +9,4 @@ rsync.sh
 _site/
 .sass-cache/
 .jekyll-metadata
+_config_prod.yml
