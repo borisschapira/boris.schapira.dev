@@ -41,8 +41,8 @@ namespace :build do
     jekyll("build --config _config.yml,#{config_file},#{deploy_file}", "production")
     puts 'Cleaning BOMs…'
     sh './scripts/postprocess.sh ./_site'
-    puts 'Compressing with…'
-    npm('run brotli')
+    # puts 'Compressing with…'
+    # npm('run brotli')
   end
 
   #
