@@ -9,6 +9,17 @@ namespace :prebuild do
   task npm: ['npm:install', 'npm:build']
   task test: ['test:doctor', 'test:posts']
 
+  desc 'Generate prod configuration from ENV variables'
+  task :config do
+    configs = [
+      "recaptcha.key: '$JEKYLL_SITE_RECAPTCHA_KEY'",
+      "recaptcha.encrypted_secret: '$JEKYLL_SITE_RECAPTCHA_ENCRYPTED_SECRET'",
+      "dareboost.monitoring: '$JEKYLL_SITE_DAREBOOST_MONITORING'",
+      "dareboost.token: '$JEKYLL_SITE_DAREBOOST_TOKEN'"
+    ]
+    sh 'echo "' + configs.join('\n') + '" > _config_prod.yml'
+  end
+
   namespace :test do
     desc 'Executes the jekyll doctor'
     task :doctor, [:env] do |_t, args|
