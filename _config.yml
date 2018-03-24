@@ -86,6 +86,8 @@ include:
   - ".well-known"
   - ".htaccess"
   - ".htpasswd"
+  - "_headers"
+  - "_redirects"
 
 # Site settings
 name: 'Boris Schapira'
