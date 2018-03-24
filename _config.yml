@@ -58,6 +58,7 @@ defaults:
       category: papa
 # Exclusions
 exclude:
+  - ".ruby-version"
   - ".cache"
   - "node_modules"
   - "package.json"
