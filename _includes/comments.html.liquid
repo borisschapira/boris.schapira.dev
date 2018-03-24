@@ -63,9 +63,9 @@
             <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}">
           </fieldset>
           <fieldset>
-            <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.recaptcha.key }}">
-            <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.recaptcha.encrypted_secret }}">
-            <div class="g-recaptcha" data-sitekey="{{ site.recaptcha.key }}"></div>
+            <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ ENV['JEKYLL_SITE_RECAPTCHA_KEY'] || site.recaptcha.key }}">
+            <input type="hidden" name="options[reCaptcha][secret]" value="{{ ENV['JEKYLL_SITE_RECAPTCHA_ENCRYPTED_SECRET'] || site.recaptcha.encrypted_secret }}">
+            <div class="g-recaptcha" data-sitekey="{{ ENV['JEKYLL_SITE_RECAPTCHA_KEY'] || site.recaptcha.key }}"></div>
 
             <button type="submit" id="comment-form-submit" class="btn">{% t Poster le commentaire %}</button>
           </fieldset>
