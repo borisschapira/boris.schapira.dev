@@ -12,10 +12,10 @@ namespace :prebuild do
   desc 'Generate prod configuration from ENV variables'
   task :config do
     configs = [
-      "recaptcha.key: '$JEKYLL_SITE_RECAPTCHA_KEY'",
-      "recaptcha.encrypted_secret: '$JEKYLL_SITE_RECAPTCHA_ENCRYPTED_SECRET'",
-      "dareboost.monitoring: '$JEKYLL_SITE_DAREBOOST_MONITORING'",
-      "dareboost.token: '$JEKYLL_SITE_DAREBOOST_TOKEN'"
+      "recaptcha:\n  key: '$JEKYLL_SITE_RECAPTCHA_KEY'",
+      "  encrypted_secret: '$JEKYLL_SITE_RECAPTCHA_ENCRYPTED_SECRET'",
+      "dareboost:\n  monitoring: '$JEKYLL_SITE_DAREBOOST_MONITORING'",
+      "  token: '$JEKYLL_SITE_DAREBOOST_TOKEN'"
     ]
     sh 'echo "' + configs.join('\n') + '" > _config_prod.yml'
   end
