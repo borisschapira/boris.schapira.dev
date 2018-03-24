@@ -22,12 +22,16 @@ namespace :build do
   end
   task serve: :preview
 
+  desc 'Generate prod configuration from ENV variables'
+  task :config do |_t, args|
+    sh 'echo "recaptcha.key: \'$JEKYLL_SITE_RECAPTCHA_KEY\'\nrecaptcha.encrypted_secret: \'$JEKYLL_SITE_RECAPTCHA_ENCRYPTED_SECRET\'" >> _config_prod.yml'
+  end
+
   desc 'Generate for deployment (but do not deploy)'
-  task :generate, %i[env deployment_configuration] => [:clean, 'prebuild:test'] do |_t, args|
+  task :generate, %i[env deployment_configuration] => [:clean, :config, 'prebuild:test'] do |_t, args|
     args.with_defaults(env: 'prod', deployment_configuration: 'deploy')
     config_file = "_config_#{args[:env]}.yml"
     deploy_file = "_config_#{args[:deployment_configuration]}.yml"
-
     if rake_running
       puts "\n\nWarning! An instance of rake seems to be running (it might not be *this* Rakefile, however).\n"
       puts "Building while running other tasks (e.g., preview), might create a website with broken links.\n\n"
