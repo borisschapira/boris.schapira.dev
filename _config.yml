@@ -101,7 +101,7 @@ timezone: Europe/Paris
 incremental: true
 encoding: utf-8
 lsi: true
-repository: borisschapira/jekyll-bs
+repository: "borisschapira/borisschapira.com"
 
 staticman:
   branch: master
@@ -113,8 +113,8 @@ microtypo:
 name: 'Boris Schapira'
 domain: 'borisschapira.com'
 author:
-  name:           'Boris Schapira'
-  url:            https://borisschapira.com/
+  name: 'Boris Schapira'
+  url: https://borisschapira.com/
   flickr: 'http://flickr.com/borisschapira'
   github: 'https://github.com/borisschapira'
   facebook: 'https://www.facebook.com/boris.schapira'
