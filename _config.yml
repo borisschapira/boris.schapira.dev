@@ -106,13 +106,6 @@ repository: borisschapira/jekyll-bs
 staticman:
   branch: master
 
-# ReCaptcha with Staticman
-# Encrypted secret :  https://api.staticman.net/v2/encrypt/YOUR-SECRET
-recaptcha:
-  key: '…'
-  secret: '…'
-  encrypted_secret: '…'
-
 microtypo:
   median: true
 
@@ -176,6 +169,8 @@ cloudinary:
     default:
       sizes: "(min-width:20em) and (max-width:50em) 20em, (min-width:50em) 30em"
 
+# ReCaptcha with Staticman
+# Encrypted secret :  https://api.staticman.net/v2/encrypt/YOUR-SECRET
 recaptcha:
   key: '…'
   secret: '…'
