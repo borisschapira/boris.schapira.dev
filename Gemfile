@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 ruby '2.4.3'
 
-gem 'gsl'
+#gem 'gsl'
 gem 'i18n'
 #gem 'jekyll', '~>3.7.3'
 #gem 'jekyll', :git => 'https://github.com/jekyll/jekyll', :branch => 'master'

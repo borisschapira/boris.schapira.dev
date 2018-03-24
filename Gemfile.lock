@@ -42,7 +42,6 @@ GEM
     fastimage (2.1.1)
     ffi (1.9.23)
     forwardable-extended (2.6.0)
-    gsl (2.1.0.3)
     html-proofer (3.8.0)
       activesupport (>= 4.2, < 6.0)
       addressable (~> 2.3)
@@ -117,7 +116,6 @@ PLATFORMS
 DEPENDENCIES
   classifier-reborn
   ffi (~> 1.9, >= 1.9.18)
-  gsl
   html-proofer
   i18n
   jekyll!
