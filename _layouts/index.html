@@ -21,16 +21,8 @@ layout: default
         </header>
     {% endif %}
 
-    {% if paginator %}
-        {% for post in paginator.posts %}
-            {% include post.html.liquid postPage=false %}
-        {% endfor %}
-    {% else %}
-        {% for post in the_posts %}
-            {% include post.html.liquid postPage=false %}
-        {% endfor %}
-    {% endif %}
+    {% for post in paginator.posts %}
+        {% include post.html.liquid postPage=false %}
+    {% endfor %}
 </section>
-{% if paginator %}
 {% include pagination.html.liquid %}
-{% endif %}
