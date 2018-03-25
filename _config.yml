@@ -180,6 +180,11 @@ dareboost:
   monitoring : …
   token: '…'
 
+# Other parameters are defined through environment variables
+algolia:
+  nodes_to_index: 'p,blockquote,li,div.paragraph'
+  indexing_batch_size: 50
+
 compress_html:
   ignore:
     envs:

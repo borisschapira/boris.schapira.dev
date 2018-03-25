@@ -15,9 +15,7 @@ namespace :prebuild do
       "recaptcha:\n  key: '$JEKYLL_SITE_RECAPTCHA_KEY'",
       "  encrypted_secret: '$JEKYLL_SITE_RECAPTCHA_ENCRYPTED_SECRET'",
       "dareboost:\n  monitoring: '$JEKYLL_SITE_DAREBOOST_MONITORING'",
-      "  token: '$JEKYLL_SITE_DAREBOOST_TOKEN'",
-      "algolia:\n  application_id: '$JEKYLL_SITE_ALGOLIA_APPLICATION_ID'",
-      "  index_name: '$JEKYLL_SITE_ALGOLIA_INDEX_NAME'"
+      "  token: '$JEKYLL_SITE_DAREBOOST_TOKEN'"
     ]
     sh 'echo "' + configs.join('\n') + '" > _config_prod.yml'
   end
