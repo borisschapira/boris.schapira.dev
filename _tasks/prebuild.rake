@@ -15,7 +15,9 @@ namespace :prebuild do
       "recaptcha:\n  key: '$JEKYLL_SITE_RECAPTCHA_KEY'",
       "  encrypted_secret: '$JEKYLL_SITE_RECAPTCHA_ENCRYPTED_SECRET'",
       "dareboost:\n  monitoring: '$JEKYLL_SITE_DAREBOOST_MONITORING'",
-      "  token: '$JEKYLL_SITE_DAREBOOST_TOKEN'"
+      "  token: '$JEKYLL_SITE_DAREBOOST_TOKEN'",
+      "algolia:\n  application_id: '$JEKYLL_SITE_ALGOLIA_APPLICATION_ID'",
+      "  index_name: '$JEKYLL_SITE_ALGOLIA_INDEX_NAME'"
     ]
     sh 'echo "' + configs.join('\n') + '" > _config_prod.yml'
   end
@@ -25,7 +27,7 @@ namespace :prebuild do
     task :doctor, [:env] do |_t, args|
       args.with_defaults(env: 'prod')
       config_file = "_config_#{args[:env]}.yml"
-      jekyll("doctor --config _config.yml,#{config_file}", "production")
+      jekyll("doctor --config _config.yml,#{config_file}", 'production')
     end
 
     desc 'Test if content Front-Matter is YAML-valid'
@@ -61,7 +63,7 @@ namespace :prebuild do
 
   # launch jekyll
   def jekyll(directives = '', env = 'development')
-    sh 'JEKYLL_ENV='+env+' jekyll ' + directives
+    sh 'JEKYLL_ENV=' + env + ' jekyll ' + directives
   end
 
   # launch npm

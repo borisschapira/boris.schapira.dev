@@ -64,4 +64,28 @@ namespace :postbuild do
       puts "response #{res.body}"
     end
   end
+
+  namespace :algolia do
+    desc 'Push content to algolia index'
+    task :index, %i[env] => ['prebuild:config'] do |_t, args|
+      args.with_defaults(env: 'prod')
+      config_file = "_config_#{args[:env]}.yml"
+      if rake_running
+        puts "\n\nWarning! An instance of rake seems to be running (it might not be *this* Rakefile, however).\n"
+        puts "Building while running other tasks (e.g., preview), might create a website with broken links.\n\n"
+        puts 'Are you sure you want to continue? [Y|n]'
+
+        ans = STDIN.gets.chomp
+        exit if ans != 'Y'
+      end
+
+      puts 'Pushing index to algolia…'
+      jekyll("algolia --config _config.yml,#{config_file} --verbose", 'production')
+    end
+  end
+
+  # launch jekyll
+  def jekyll(directives = '', env = 'development')
+    sh 'JEKYLL_ENV=' + env + ' jekyll ' + directives
+  end
 end

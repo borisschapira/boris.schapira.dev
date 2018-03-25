@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 namespace :build do
   # Use: rake clean
   desc 'Clean Jekyll build'
@@ -37,7 +39,7 @@ namespace :build do
     end
 
     puts 'Building…'
-    jekyll("build --config _config.yml,#{config_file},#{deploy_file}", "production")
+    jekyll("build --config _config.yml,#{config_file},#{deploy_file}", 'production')
     puts 'Cleaning BOMs…'
     sh './scripts/postprocess.sh ./_site'
     # puts 'Compressing with…'
@@ -55,7 +57,7 @@ namespace :build do
 
   # launch jekyll
   def jekyll(directives = '', env = 'development')
-    sh 'JEKYLL_ENV='+env+' jekyll ' + directives
+    sh 'JEKYLL_ENV=' + env + ' jekyll ' + directives
   end
 
   # launch npm
