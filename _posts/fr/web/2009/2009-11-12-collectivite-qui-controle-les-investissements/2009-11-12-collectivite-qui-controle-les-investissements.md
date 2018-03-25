@@ -1,15 +1,10 @@
 ---
 title: 'Collectivités et contrôle des investissements'
-tags:
-    - Finance
-    - Politique
-    - 'Billet d''humeur'
-    - France
 date: '2009-11-12'
 lang: fr
 type: post
 categories:
-    - web
+    - citoyen
 publishDate: '2009-11-12'
 locale: fr_FR
 ---

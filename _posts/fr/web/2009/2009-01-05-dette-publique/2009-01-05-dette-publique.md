@@ -2,14 +2,13 @@
 title: 'Dette Publique Française'
 tags:
     - Finance
-    - Politique
     - 'Dette publique'
     - Economie
 date: '2009-01-05'
 lang: fr
 type: post
 categories:
-    - web
+    - citoyen
 publishDate: '2009-01-05'
 locale: fr_FR
 ---

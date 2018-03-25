@@ -1,8 +1,7 @@
 ---
 title: 'Bonus, Trading : deux PDF pour mieux comprendre'
 categories:
-    - Finance
-    - web
+    - citoyen
 date: '2009-08-07'
 lang: fr
 type: post

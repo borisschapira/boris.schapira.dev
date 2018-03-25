@@ -1,8 +1,7 @@
 ---
 title: 'Elections présidentielles 2007 #4'
 categories:
-    - Politique
-    - web
+    - citoyen
 date: '2007-05-18'
 lang: fr
 type: post

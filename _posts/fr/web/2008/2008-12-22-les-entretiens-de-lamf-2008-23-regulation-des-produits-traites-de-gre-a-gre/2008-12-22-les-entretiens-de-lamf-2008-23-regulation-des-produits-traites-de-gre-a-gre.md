@@ -1,8 +1,7 @@
 ---
 title: 'Les Entretiens de l''AMF 2008 (2/3) : régulation des produits traités de gré à gré'
 categories:
-    - Finance
-    - web
+    - citoyen
 date: '2008-12-22'
 lang: fr
 type: post

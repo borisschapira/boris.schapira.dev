@@ -1,8 +1,5 @@
 ---
 title: 'Vote blanc, abstention'
-tags:
-    - Société
-    - Politique
 date: '2014-05-03'
 lang: fr
 type: post

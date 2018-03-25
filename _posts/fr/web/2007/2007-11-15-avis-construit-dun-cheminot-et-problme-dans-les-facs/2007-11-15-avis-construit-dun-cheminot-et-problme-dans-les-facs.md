@@ -2,15 +2,13 @@
 title: 'Avis construit d''un cheminot et problème dans les facs'
 tags:
     - Emploi
-    - Politique
-    - Société
     - Etudiants
     - Grève
 date: '2007-11-15'
 lang: fr
 type: post
 categories:
-    - web
+    - citoyen
 publishDate: '2007-11-15'
 locale: fr_FR
 ---

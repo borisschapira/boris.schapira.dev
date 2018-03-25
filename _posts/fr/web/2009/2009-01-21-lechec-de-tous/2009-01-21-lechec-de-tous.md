@@ -1,8 +1,7 @@
 ---
 title: 'L''échec de tous'
 categories:
-    - Politique
-    - web
+    - citoyen
 date: '2009-01-21'
 lang: fr
 type: post

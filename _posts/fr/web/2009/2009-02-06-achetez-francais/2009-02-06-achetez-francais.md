@@ -1,9 +1,9 @@
 ---
 title: 'Achetez français'
+tags:
+    - Économie
 categories:
-    - Finance
-    - Politique
-    - web
+    - citoyen
 date: '2009-02-06'
 lang: fr
 type: post

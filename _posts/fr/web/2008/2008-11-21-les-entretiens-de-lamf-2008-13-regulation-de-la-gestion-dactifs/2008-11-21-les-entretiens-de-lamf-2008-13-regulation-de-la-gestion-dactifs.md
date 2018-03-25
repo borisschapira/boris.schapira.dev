@@ -1,8 +1,7 @@
 ---
 title: 'Les Entretiens de l''AMF 2008 (1/3) : régulation de la gestion d''actifs'
 categories:
-    - Finance
-    - web
+    - citoyen
 date: '2008-11-21'
 lang: fr
 type: post

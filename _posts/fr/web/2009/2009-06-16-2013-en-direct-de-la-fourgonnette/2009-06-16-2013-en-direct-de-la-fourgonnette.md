@@ -1,16 +1,12 @@
 ---
 title: '2013 en direct de la fourgonnette'
 tags:
-    - Humour
-    - Politique
-    - 'Billet d''humeur'
     - Hadopi
-    - Microsoft
 date: '2009-06-16'
 lang: fr
 type: post
 categories:
-    - web
+    - citoyen
 publishDate: '2009-06-16'
 locale: fr_FR
 ---

@@ -1,8 +1,7 @@
 ---
 title: 'Réflexe politique'
 categories:
-    - Politique
-    - web
+    - citoyen
 date: '2008-07-01'
 lang: fr
 type: post

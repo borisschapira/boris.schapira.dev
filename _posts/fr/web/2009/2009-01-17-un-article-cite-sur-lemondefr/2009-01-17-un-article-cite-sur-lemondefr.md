@@ -1,8 +1,7 @@
 ---
 title: 'Un article cité sur LeMonde.fr'
 categories:
-    - Politique
-    - web
+    - citoyen
 date: '2009-01-17'
 lang: fr
 type: post

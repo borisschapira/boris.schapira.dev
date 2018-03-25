@@ -1,8 +1,7 @@
 ---
 title: '«&#160;Remember², the 5th of November…&#160;»'
 categories:
-    - Politique
-    - web
+    - citoyen
 date: '2009-11-05'
 lang: fr
 type: post

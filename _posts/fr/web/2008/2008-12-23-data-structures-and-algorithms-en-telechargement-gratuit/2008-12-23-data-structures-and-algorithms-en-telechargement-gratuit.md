@@ -1,7 +1,6 @@
 ---
 title: '«&#160;Data Structures and Algorithms&#160;» en téléchargement gratuit'
 categories:
-    - Développement
     - web
 date: '2008-12-23'
 lang: fr

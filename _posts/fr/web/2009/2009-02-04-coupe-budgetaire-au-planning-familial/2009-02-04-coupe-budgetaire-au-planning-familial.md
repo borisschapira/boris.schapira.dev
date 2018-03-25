@@ -1,8 +1,7 @@
 ---
 title: 'Coupe budgétaire au Planning Familial'
 categories:
-    - Politique
-    - web
+    - citoyen
 date: '2009-02-04'
 lang: fr
 type: post

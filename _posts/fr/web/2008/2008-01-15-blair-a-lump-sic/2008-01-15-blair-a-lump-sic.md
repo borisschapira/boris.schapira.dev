@@ -1,8 +1,7 @@
 ---
 title: 'Blair à l''UMP… (sic)'
 categories:
-    - Politique
-    - web
+    - citoyen
 date: '2008-01-15'
 lang: fr
 type: post

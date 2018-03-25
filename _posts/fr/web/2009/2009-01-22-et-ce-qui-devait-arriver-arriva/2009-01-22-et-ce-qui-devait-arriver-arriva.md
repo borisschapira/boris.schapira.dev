@@ -1,8 +1,7 @@
 ---
 title: 'Et ce qui devait arriver arriva…'
 categories:
-    - Finance
-    - web
+    - citoyen
 date: '2009-01-22'
 lang: fr
 type: post

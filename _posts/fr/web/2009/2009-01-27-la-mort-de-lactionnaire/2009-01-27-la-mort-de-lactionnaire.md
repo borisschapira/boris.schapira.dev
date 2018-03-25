@@ -2,13 +2,12 @@
 title: 'La mort de l''actionnaire'
 tags:
     - Finance
-    - Politique
     - Crise
 date: '2009-01-27'
 lang: fr
 type: post
 categories:
-    - web
+    - citoyen
 publishDate: '2009-01-27'
 locale: fr_FR
 ---

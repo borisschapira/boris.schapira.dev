@@ -1,8 +1,7 @@
 ---
 title: 'La solution au malaise social ?'
 categories:
-    - Politique
-    - web
+    - citoyen
 date: '2008-10-16'
 lang: fr
 type: post
@@ -10,9 +9,7 @@ publishDate: '2008-10-16'
 locale: fr_FR
 ---
 
-**1\. Trouver des coupables et les rabaisser
-
-**
+**1\. Trouver des coupables et les rabaisser**
 
 > Les responsables sont connus&nbsp;; les coupables aussi. Un public composé en grande partie de jeunes Français issus de l'immigration maghrébine, qui voient là l'occasion de se défouler. La culture de l'excuse conduit Marie-George Buffet et quelques rares politiques à leur trouver de bonnes raisons (ratés de l'intégration, misère des banlieues…). Celles-ci sont irrecevables. La haine, le désespoir et la rancœur sont bien moins les mobiles de ces comportements que le plaisir de jouir de sa propre bêtise.  
 > 

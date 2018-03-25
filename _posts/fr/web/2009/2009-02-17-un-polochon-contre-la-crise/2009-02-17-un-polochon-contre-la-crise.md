@@ -7,7 +7,7 @@ date: '2009-02-17'
 lang: fr
 type: post
 categories:
-    - web
+    - citoyen
 publishDate: '2009-02-17'
 locale: fr_FR
 ---

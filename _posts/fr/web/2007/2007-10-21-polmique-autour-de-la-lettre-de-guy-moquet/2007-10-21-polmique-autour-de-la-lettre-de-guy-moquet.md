@@ -1,8 +1,7 @@
 ---
 title: 'Polémique autour de la «&#160;Lettre de Guy Moquet&#160;»'
 categories:
-    - Politique
-    - web
+    - citoyen
 date: '2007-10-21'
 lang: fr
 type: post

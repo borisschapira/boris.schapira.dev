@@ -1,8 +1,7 @@
 ---
 title: 'Antilles «&#160;françaises&#160;» ?'
 categories:
-    - Politique
-    - web
+    - citoyen
 date: '2009-02-18'
 lang: fr
 type: post

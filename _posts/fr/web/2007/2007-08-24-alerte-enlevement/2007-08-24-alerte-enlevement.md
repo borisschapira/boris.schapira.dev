@@ -1,9 +1,7 @@
 ---
 title: 'Alerte enlèvement : relayer, mais pas trop'
 categories:
-    - Développement
-    - Politique
-    - web
+    - citoyen
 date: '2007-08-24'
 lang: fr
 type: post

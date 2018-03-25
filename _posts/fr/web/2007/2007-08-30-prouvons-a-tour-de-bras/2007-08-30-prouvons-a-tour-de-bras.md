@@ -1,8 +1,7 @@
 ---
 title: 'Prouvons à tour de bras'
 categories:
-    - Politique
-    - web
+    - citoyen
 date: '2007-08-30'
 lang: fr
 type: post

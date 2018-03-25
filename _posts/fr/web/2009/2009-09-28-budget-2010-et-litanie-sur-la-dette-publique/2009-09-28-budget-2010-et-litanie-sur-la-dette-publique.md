@@ -1,15 +1,13 @@
 ---
 title: 'Budget 2010 et litanie sur la Dette Publique'
 tags:
-    - Finance
-    - Politique
     - 'Dette publique'
     - Economie
 date: '2009-09-28'
 lang: fr
 type: post
 categories:
-    - web
+    - citoyen
 publishDate: '2009-09-28'
 locale: fr_FR
 ---
