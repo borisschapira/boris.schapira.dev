@@ -1,13 +1,10 @@
 ---
 title: 'Retour de Week End à Begadan'
-tags:
-    - 'Me, myself and I'
-    - 'Amis et famille'
 date: '2007-07-09'
 lang: fr
 type: post
 categories:
-    - web
+    - 'Me, myself and I'
 publishDate: '2007-07-09'
 locale: fr_FR
 ---

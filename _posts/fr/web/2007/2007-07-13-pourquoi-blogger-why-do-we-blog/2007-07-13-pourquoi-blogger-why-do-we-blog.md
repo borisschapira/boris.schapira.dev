@@ -1,8 +1,5 @@
 ---
 title: 'Pourquoi blogger ? &#124; Why do we blog ?'
-tags:
-    - Blogosphère
-    - Réflexion
 date: '2007-07-13'
 lang: fr
 type: post

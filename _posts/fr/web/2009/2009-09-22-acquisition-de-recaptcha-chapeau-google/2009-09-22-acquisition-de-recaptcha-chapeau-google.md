@@ -1,7 +1,6 @@
 ---
 title: 'Acquisition de ReCaptcha, chapeau Google'
 categories:
-    - Technologie
     - web
 date: '2009-09-22'
 lang: fr

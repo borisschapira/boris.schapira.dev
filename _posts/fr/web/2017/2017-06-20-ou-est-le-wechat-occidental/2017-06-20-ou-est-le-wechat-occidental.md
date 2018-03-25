@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - web
+tags:
     - ux
 publishDate: '2017-06-20'
 locale: fr_FR
