@@ -1,11 +1,7 @@
 ---
 title: 'Moi tarzan, toi Microsoftee'
-categories:
-    - web
 date: '2007-07-10'
-lang: fr
 type: post
-publishDate: '2007-07-10'
 locale: fr_FR
 ---
 

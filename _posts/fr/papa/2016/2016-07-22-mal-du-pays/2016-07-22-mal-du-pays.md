@@ -1,11 +1,7 @@
 ---
 title: 'Mal du pays'
 date: '2016-07-22'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-07-22'
 locale: fr_FR
 ---
 

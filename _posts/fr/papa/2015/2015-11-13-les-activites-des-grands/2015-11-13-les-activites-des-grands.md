@@ -1,11 +1,7 @@
 ---
 title: 'Les activités des grands'
 date: '2015-11-13'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-11-13'
 locale: fr_FR
 ---
 

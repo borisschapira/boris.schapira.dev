@@ -1,11 +1,7 @@
 ---
 title: 'Mille sous'
 date: '2018-02-11'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2018-02-11'
 locale: fr_FR
 ---
 

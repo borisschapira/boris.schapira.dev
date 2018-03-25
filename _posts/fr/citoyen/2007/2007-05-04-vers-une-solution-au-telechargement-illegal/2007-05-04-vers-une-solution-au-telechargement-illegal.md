@@ -3,11 +3,7 @@ title: 'Vers une solution au téléchargement illégal'
 tags:
     - Numérique
 date: '2007-05-04'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2007-05-04'
 locale: fr_FR
 ---
 

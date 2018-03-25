@@ -1,11 +1,7 @@
 ---
 title: 'Tellement à apprendre'
 date: '2017-03-24'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2017-03-24'
 locale: fr_FR
 ---
 

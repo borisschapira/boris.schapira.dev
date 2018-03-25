@@ -1,11 +1,7 @@
 ---
 title: 'En attendant le Bordeaux Geek Festival'
 date: '2016-05-15'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-05-15'
 locale: fr_FR
 ---
 

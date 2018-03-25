@@ -1,12 +1,7 @@
 ---
 title: 'Rapport CES 2009 d''Olivier Ezratty'
-categories:
-    - Technologie
-    - web
 date: '2009-01-22'
-lang: fr
 type: post
-publishDate: '2009-01-22'
 locale: fr_FR
 ---
 

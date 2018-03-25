@@ -1,12 +1,8 @@
 ---
 title: 'Des Happy Meals pour adultes'
 date: '2018-01-12'
-lang: fr
 type: post
 i18n-key: happy-meal
-categories:
-    - papa
-publishDate: '2018-01-12'
 locale: fr_FR
 ---
 

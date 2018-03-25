@@ -6,11 +6,7 @@ tags:
     - Stargate
     - Télévision
 date: '2009-10-19'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-10-19'
 locale: fr_FR
 ---
 

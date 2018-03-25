@@ -1,11 +1,7 @@
 ---
 title: 'L''author-sitting'
 date: '2017-11-30'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-11-30'
 locale: fr_FR
 ---
 

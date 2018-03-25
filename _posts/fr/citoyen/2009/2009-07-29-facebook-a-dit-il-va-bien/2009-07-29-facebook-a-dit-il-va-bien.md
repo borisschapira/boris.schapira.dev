@@ -6,11 +6,7 @@ tags:
     - Facebook
     - France
 date: '2009-07-29'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2009-07-29'
 locale: fr_FR
 ---
 

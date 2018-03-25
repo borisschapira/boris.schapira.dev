@@ -1,11 +1,7 @@
 ---
 title: 'T''es un bonhomme'
 date: '2017-02-12'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2017-02-12'
 locale: fr_FR
 ---
 

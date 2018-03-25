@@ -3,11 +3,7 @@ title: 'Moutons électriques'
 tags:
     - 'Intelligence Artificielle'
 date: '2015-07-27'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2015-07-27'
 locale: fr_FR
 ---
 

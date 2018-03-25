@@ -1,12 +1,8 @@
 ---
 title: Opérateur
 date: '2018-03-21'
-lang: fr
 type: post
 i18n-key: mobile-carrier
-categories:
-    - papa
-publishDate: '2018-03-21'
 locale: fr_FR
 ---
 

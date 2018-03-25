@@ -5,11 +5,7 @@ tags:
     - Technologie
     - Facebook
 date: '2008-01-07'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-01-07'
 locale: fr_FR
 ---
 

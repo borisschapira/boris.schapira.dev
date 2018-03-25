@@ -1,11 +1,7 @@
 ---
 title: 'Acquisition de ReCaptcha, chapeau Google'
-categories:
-    - web
 date: '2009-09-22'
-lang: fr
 type: post
-publishDate: '2009-09-22'
 locale: fr_FR
 ---
 

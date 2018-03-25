@@ -1,11 +1,7 @@
 ---
 title: Confiance
 date: '2016-04-29'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-04-29'
 locale: fr_FR
 ---
 

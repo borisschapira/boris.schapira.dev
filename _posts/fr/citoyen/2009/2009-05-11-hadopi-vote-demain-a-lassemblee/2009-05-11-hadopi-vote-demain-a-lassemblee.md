@@ -4,11 +4,7 @@ tags:
     - Numérique
 series: Hadopi
 date: '2009-05-11'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2009-05-11'
 locale: fr_FR
 ---
 

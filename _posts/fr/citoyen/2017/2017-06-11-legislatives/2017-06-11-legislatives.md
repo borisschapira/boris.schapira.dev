@@ -1,14 +1,10 @@
 ---
 title: Législatives
 date: '2017-06-11'
-lang: fr
 type: post
-categories:
-    - citoyen
 tags:
     - election
     - legislatives
-publishDate: '2017-06-11'
 locale: fr_FR
 ---
 

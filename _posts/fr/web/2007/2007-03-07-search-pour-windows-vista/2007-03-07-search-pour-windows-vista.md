@@ -3,11 +3,7 @@ title: 'Search++ pour Windows Vista'
 tags:
     - Outils
 date: '2007-03-07'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-03-07'
 locale: fr_FR
 ---
 

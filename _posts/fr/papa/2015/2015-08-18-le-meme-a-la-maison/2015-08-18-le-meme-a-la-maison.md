@@ -1,11 +1,7 @@
 ---
 title: 'Le même à la maison'
 date: '2015-08-18'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-08-18'
 locale: fr_FR
 ---
 

@@ -4,11 +4,7 @@ tags:
     - Microsoft
     - MSDays
 date: '2009-09-23'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-09-23'
 locale: fr_FR
 ---
 

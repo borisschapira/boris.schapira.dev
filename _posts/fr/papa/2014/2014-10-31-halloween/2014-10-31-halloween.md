@@ -1,11 +1,7 @@
 ---
 title: Halloween
 date: '2014-10-31'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-10-31'
 locale: fr_FR
 ---
 

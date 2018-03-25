@@ -6,11 +6,7 @@ tags:
     - Nameless
     - Nexeo
 date: '2008-02-08'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-02-08'
 locale: fr_FR
 ---
 

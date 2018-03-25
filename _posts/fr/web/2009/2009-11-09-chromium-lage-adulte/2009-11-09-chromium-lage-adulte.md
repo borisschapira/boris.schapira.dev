@@ -6,11 +6,7 @@ tags:
     - Navigateurs
     - Web
 date: '2009-11-09'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-11-09'
 locale: fr_FR
 ---
 

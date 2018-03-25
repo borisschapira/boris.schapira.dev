@@ -5,11 +5,7 @@ tags:
     - Éducation
     - Note2Be
 date: '2009-03-05'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2009-03-05'
 locale: fr_FR
 ---
 

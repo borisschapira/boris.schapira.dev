@@ -1,11 +1,7 @@
 ---
 title: 'Grosse colère'
 date: '2017-06-01'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-06-01'
 locale: fr_FR
 ---
 

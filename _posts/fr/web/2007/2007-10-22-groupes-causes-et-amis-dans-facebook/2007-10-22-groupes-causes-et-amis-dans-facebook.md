@@ -3,11 +3,7 @@ title: 'Groupes, causes et amis dans Facebook'
 tags:
     - Facebook
 date: '2007-10-22'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-10-22'
 locale: fr_FR
 ---
 

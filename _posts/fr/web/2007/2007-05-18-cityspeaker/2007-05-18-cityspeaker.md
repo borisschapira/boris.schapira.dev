@@ -4,11 +4,7 @@ tags:
     - Culture
     - Publicité
 date: '2007-05-18'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-05-18'
 locale: fr_FR
 ---
 

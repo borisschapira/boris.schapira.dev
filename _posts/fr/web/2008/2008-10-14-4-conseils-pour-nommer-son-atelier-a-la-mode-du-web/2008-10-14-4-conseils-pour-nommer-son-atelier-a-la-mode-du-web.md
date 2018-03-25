@@ -6,11 +6,7 @@ tags:
     - 'Billet d''humeur'
     - Web
 date: '2008-10-14'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-10-14'
 locale: fr_FR
 ---
 

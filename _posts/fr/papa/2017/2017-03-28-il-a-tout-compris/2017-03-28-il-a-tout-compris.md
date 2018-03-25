@@ -1,11 +1,7 @@
 ---
 title: 'Il a "tout compris"'
 date: '2017-03-28'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-03-28'
 locale: fr_FR
 ---
 

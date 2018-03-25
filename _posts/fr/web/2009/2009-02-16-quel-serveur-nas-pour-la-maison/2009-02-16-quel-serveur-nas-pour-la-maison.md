@@ -5,11 +5,7 @@ tags:
     - NAS
     - Stockage
 date: '2009-02-16'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-02-16'
 locale: fr_FR
 ---
 

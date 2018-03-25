@@ -1,11 +1,7 @@
 ---
 title: 'Encore un rendez-vous à la crèche'
 date: '2012-11-26'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2012-11-26'
 locale: fr_FR
 ---
 

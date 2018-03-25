@@ -5,11 +5,7 @@ tags:
 series:
     - 'Loi Renseignement'
 date: '2015-04-05'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2015-04-05'
 locale: fr_FR
 ---
 

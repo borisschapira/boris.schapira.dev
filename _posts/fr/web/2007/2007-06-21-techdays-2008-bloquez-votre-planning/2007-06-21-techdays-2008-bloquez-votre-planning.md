@@ -3,11 +3,7 @@ title: 'TechDays 2008 : bloquez votre planning'
 tags:
     - Techdays
 date: '2007-06-21'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-06-21'
 locale: fr_FR
 ---
 

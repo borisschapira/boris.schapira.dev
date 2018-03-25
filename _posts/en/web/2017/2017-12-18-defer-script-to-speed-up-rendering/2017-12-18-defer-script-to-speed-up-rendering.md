@@ -2,14 +2,10 @@
 title: 'Defer scripts to speed up rendering'
 i18n-key: defer-js
 date: '2017-12-18'
-lang: en
 canonical: 'https://blog.dareboost.com/en/2017/12/defer-scripts-to-speed-up-rendering/'
 type: post
-categories:
-    - web
 tags:
     - 'Performance Web'
-publishDate: '2017-12-18'
 locale: en_US
 ---
 

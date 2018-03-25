@@ -4,11 +4,7 @@ tags:
     - 'Me, myself and I'
     - Nexeo
 date: '2009-10-01'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-10-01'
 locale: fr_FR
 ---
 

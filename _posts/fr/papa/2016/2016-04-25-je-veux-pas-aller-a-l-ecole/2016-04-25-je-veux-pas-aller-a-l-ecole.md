@@ -1,11 +1,7 @@
 ---
 title: 'Je veux pas aller à l''école'
 date: '2016-04-25'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-04-25'
 locale: fr_FR
 ---
 

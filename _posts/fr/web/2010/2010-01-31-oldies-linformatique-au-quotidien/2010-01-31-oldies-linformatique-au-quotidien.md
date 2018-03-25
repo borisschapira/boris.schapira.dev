@@ -3,11 +3,7 @@ title: '1979&nbsp;: bientôt l''informatique au quotidien'
 tags:
     - Histoire
 date: '2010-01-31'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-01-31'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'Le docteur'
 date: '2016-10-07'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-10-07'
 locale: fr_FR
 ---
 

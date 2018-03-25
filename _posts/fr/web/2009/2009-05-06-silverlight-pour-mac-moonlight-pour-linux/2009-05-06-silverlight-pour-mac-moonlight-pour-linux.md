@@ -4,11 +4,7 @@ canonical: 'http://www.nexeo.fr/blog/2009/05/06/silverlight-pour-mac-moonlight-p
 tags:
     - Nexdotnet
 date: '2009-05-06'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-05-06'
 locale: fr_FR
 ---
 

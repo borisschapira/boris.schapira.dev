@@ -1,11 +1,7 @@
 ---
 title: 'Enseigner et apprendre'
 date: '2016-11-26'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-11-26'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'Journées enfant malade'
 date: '2017-12-18'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-12-18'
 locale: fr_FR
 ---
 

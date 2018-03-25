@@ -1,11 +1,7 @@
 ---
 title: 'La règle du fruit'
 date: '2016-04-30'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-04-30'
 locale: fr_FR
 ---
 

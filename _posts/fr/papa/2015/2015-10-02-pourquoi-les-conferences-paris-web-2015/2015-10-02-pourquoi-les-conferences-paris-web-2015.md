@@ -1,11 +1,7 @@
 ---
 title: 'Pourquoi les conférences (Paris Web 2015)'
 date: '2015-10-02'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-10-02'
 locale: fr_FR
 ---
 

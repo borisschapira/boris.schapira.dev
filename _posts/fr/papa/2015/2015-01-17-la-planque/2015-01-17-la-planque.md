@@ -1,11 +1,7 @@
 ---
 title: 'La planque'
 date: '2015-01-17'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-01-17'
 locale: fr_FR
 ---
 

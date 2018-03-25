@@ -1,11 +1,7 @@
 ---
 title: Comptines
 date: '2014-05-17'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-05-17'
 locale: fr_FR
 ---
 

@@ -5,11 +5,7 @@ tags:
     - RSS
     - Web
 date: '2007-04-15'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-04-15'
 locale: fr_FR
 ---
 

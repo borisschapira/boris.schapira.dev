@@ -1,11 +1,7 @@
 ---
 title: 'Les nomosessuels'
 date: '2018-01-12'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2018-01-12'
 locale: fr_FR
 ---
 

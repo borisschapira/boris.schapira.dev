@@ -1,11 +1,7 @@
 ---
 title: 'Le téléscope'
 date: '2016-09-19'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-09-19'
 locale: fr_FR
 ---
 

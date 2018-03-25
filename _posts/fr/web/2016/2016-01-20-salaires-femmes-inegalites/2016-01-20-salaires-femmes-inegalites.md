@@ -5,11 +5,7 @@ tags:
     - HeForShe
     - Égalité
 date: '2016-01-20'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-01-20'
 locale: fr_FR
 ---
 

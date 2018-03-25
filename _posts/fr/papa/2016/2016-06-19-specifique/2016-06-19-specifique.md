@@ -1,11 +1,7 @@
 ---
 title: 'De l''art d''être précis'
 date: '2016-06-19'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-06-19'
 locale: fr_FR
 ---
 

@@ -3,11 +3,7 @@ title: 'Présentation de Windows8 à la conférence //BUILD/'
 tags:
     - Outils
 date: '2011-09-14'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2011-09-14'
 locale: fr_FR
 ---
 

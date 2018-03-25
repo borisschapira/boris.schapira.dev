@@ -1,11 +1,7 @@
 ---
 title: '"Hum... c''est pas les miens ?"'
 date: '2014-11-07'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-11-07'
 locale: fr_FR
 ---
 

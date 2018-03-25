@@ -4,11 +4,7 @@ tags:
     - Front-End
     - Mobilité
 date: '2014-05-13'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2014-05-13'
 locale: fr_FR
 ---
 

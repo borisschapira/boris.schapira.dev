@@ -1,11 +1,7 @@
 ---
 title: 'La mise en garde'
 date: '2015-04-02'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-04-02'
 locale: fr_FR
 ---
 

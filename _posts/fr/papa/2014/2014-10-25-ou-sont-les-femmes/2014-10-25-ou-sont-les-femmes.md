@@ -1,11 +1,7 @@
 ---
 title: 'Où sont les femmes ?'
 date: '2014-10-25'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-10-25'
 locale: fr_FR
 ---
 

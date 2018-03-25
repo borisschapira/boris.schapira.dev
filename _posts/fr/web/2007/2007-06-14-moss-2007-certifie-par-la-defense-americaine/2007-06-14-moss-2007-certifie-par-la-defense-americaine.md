@@ -3,11 +3,7 @@ title: 'MOSS 2007 certifié par la Défense américaine'
 tags:
     - Sharepoint
 date: '2007-06-14'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-06-14'
 locale: fr_FR
 ---
 

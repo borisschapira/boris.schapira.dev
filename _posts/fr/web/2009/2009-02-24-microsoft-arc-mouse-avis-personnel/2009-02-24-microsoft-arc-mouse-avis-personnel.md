@@ -5,11 +5,7 @@ tags:
     - Souris
     - Test
 date: '2009-02-24'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-02-24'
 locale: fr_FR
 ---
 

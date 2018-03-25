@@ -3,11 +3,7 @@ title: 'Réformer l''Education&nbsp;?'
 tags:
     - Education
 date: '2013-10-03'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2013-10-03'
 locale: fr_FR
 ---
 

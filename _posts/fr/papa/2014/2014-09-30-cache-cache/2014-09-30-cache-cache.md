@@ -1,11 +1,7 @@
 ---
 title: Cache-cache
 date: '2014-09-30'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-09-30'
 locale: fr_FR
 ---
 

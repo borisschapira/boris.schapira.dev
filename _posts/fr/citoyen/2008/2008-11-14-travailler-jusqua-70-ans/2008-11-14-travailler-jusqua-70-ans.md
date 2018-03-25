@@ -5,11 +5,7 @@ tags:
     - Loi
     - Société
 date: '2008-11-14'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2008-11-14'
 locale: fr_FR
 ---
 

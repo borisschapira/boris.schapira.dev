@@ -3,11 +3,7 @@ title: 'Retour vers le futur'
 tags:
     - .NET
 date: '2007-07-17'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-07-17'
 locale: fr_FR
 ---
 

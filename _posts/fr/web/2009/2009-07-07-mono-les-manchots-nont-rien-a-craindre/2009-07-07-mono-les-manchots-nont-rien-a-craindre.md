@@ -4,11 +4,7 @@ canonical: 'http://www.nexeo.fr/blog/2009/07/07/mono-les-manchots-nont-rien-a-cr
 tags:
     - Nexdotnet
 date: '2009-07-07'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-07-07'
 locale: fr_FR
 ---
 

@@ -5,11 +5,7 @@ tags:
     - Société
     - 'Billet d''humeur'
 date: '2008-03-18'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2008-03-18'
 locale: fr_FR
 ---
 

@@ -1,12 +1,8 @@
 ---
 title: 'L''entracte'
 date: '2018-03-19'
-lang: fr
 type: post
 i18n-key: entracte
-categories:
-    - papa
-publishDate: '2018-03-19'
 locale: fr_FR
 ---
 

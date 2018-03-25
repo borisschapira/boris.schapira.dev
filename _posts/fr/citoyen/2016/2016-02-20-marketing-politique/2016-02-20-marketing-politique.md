@@ -6,11 +6,7 @@ series: Diviser
 loadTwitterWjs: true
 loadTwitter: true
 date: '2016-02-20'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2016-02-20'
 locale: fr_FR
 ---
 

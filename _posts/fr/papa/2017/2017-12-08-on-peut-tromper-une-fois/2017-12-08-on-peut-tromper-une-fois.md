@@ -1,11 +1,7 @@
 ---
 title: 'On peut tromper une fois une personne…'
 date: '2017-12-08'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-12-08'
 locale: fr_FR
 ---
 

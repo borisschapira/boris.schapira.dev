@@ -3,11 +3,7 @@ title: 'HTML 5, Silverlight et Microsoft'
 tags:
     - Front-End
 date: '2011-10-02'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2011-10-02'
 locale: fr_FR
 ---
 

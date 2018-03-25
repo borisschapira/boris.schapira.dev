@@ -4,11 +4,7 @@ tags:
     - Musique
     - 'Silent Fall (ex Winterland)'
 date: '2007-06-18'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-06-18'
 locale: fr_FR
 ---
 

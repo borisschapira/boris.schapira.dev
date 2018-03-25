@@ -1,11 +1,7 @@
 ---
 title: Arnacœur
 date: '2016-08-31'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-08-31'
 locale: fr_FR
 ---
 

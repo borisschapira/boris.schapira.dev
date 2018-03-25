@@ -1,11 +1,7 @@
 ---
 title: 'L''amoureuse'
 date: '2014-10-03'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-10-03'
 locale: fr_FR
 ---
 

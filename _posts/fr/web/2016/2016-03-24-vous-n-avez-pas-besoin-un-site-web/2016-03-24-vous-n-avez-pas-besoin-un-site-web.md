@@ -3,11 +3,7 @@ title: 'Vous n''avez pas besoin d''un site web'
 tags:
     - 'Transformation numérique'
 date: '2016-03-24'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-03-24'
 locale: fr_FR
 ---
 

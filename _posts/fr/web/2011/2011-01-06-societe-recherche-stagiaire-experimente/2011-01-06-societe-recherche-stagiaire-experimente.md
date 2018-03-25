@@ -3,11 +3,7 @@ title: 'Société recherche stagiaire expérimenté'
 tags:
     - Emploi
 date: '2011-01-06'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2011-01-06'
 locale: fr_FR
 ---
 

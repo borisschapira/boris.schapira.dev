@@ -1,12 +1,8 @@
 ---
 title: 'Docteur des pas morts'
 date: '2018-03-08'
-lang: fr
 type: post
 i18n-key: doctor-of-the-not-dead
-categories:
-    - papa
-publishDate: '2018-03-08'
 locale: fr_FR
 ---
 

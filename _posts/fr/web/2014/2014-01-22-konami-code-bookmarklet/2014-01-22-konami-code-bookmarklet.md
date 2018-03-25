@@ -3,11 +3,7 @@ title: 'Konami Code Bookmarklet'
 tags:
     - Projets
 date: '2014-01-22'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2014-01-22'
 locale: fr_FR
 ---
 

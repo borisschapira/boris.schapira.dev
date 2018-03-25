@@ -1,11 +1,7 @@
 ---
 title: 'Comme un mec'
 date: '2017-10-18'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-10-18'
 locale: fr_FR
 ---
 

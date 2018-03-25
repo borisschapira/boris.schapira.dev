@@ -1,11 +1,7 @@
 ---
 title: 'Et le feu ça brule'
 date: '2016-07-09'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-07-09'
 locale: fr_FR
 ---
 

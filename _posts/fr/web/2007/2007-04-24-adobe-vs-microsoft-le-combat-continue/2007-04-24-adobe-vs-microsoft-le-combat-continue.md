@@ -4,11 +4,7 @@ tags:
     - Technologie
     - Interopérabilité
 date: '2007-04-24'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-04-24'
 locale: fr_FR
 ---
 

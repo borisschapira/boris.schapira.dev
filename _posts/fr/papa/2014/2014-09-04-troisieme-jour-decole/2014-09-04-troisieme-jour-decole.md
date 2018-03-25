@@ -1,11 +1,7 @@
 ---
 title: 'Troisième jour d''école'
 date: '2014-09-04'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-09-04'
 locale: fr_FR
 ---
 

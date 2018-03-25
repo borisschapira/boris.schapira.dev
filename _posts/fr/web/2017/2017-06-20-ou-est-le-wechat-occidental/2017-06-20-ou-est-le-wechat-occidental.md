@@ -4,13 +4,9 @@ i18n-key: where-is-the-western-wechat
 date: '2017-06-20'
 main_image: assets/images/2017-06-20/touch.jpg
 canonical: 'https://blog.clever-age.com/fr/2017/06/20/ou-est-le-wechat-occidental/'
-lang: fr
 type: post
-categories:
-    - web
 tags:
     - ux
-publishDate: '2017-06-20'
 locale: fr_FR
 ---
 

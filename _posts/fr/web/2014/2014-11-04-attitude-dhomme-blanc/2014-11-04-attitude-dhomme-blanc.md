@@ -4,11 +4,7 @@ tags:
     - Front-End
     - Accessibilité
 date: '2014-11-04'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2014-11-04'
 locale: fr_FR
 ---
 

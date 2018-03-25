@@ -1,11 +1,7 @@
 ---
 title: 'Faut comprendre !'
 date: '2011-12-11'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2011-12-11'
 locale: fr_FR
 ---
 

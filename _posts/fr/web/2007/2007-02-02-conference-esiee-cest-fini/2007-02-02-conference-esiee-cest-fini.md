@@ -8,11 +8,7 @@ tags:
     - 'Project Hoshimi'
     - 'Windows Vista'
 date: '2007-02-02'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-02-02'
 locale: fr_FR
 ---
 

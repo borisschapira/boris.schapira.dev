@@ -3,11 +3,7 @@ title: '«&#160;Rework, réussir autrement&#160;», disponible en français'
 tags:
     - Management
 date: '2010-11-05'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-11-05'
 locale: fr_FR
 ---
 

@@ -4,11 +4,7 @@ tags:
     - Technologie
     - 'Microsoft Office'
 date: '2007-07-09'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-07-09'
 locale: fr_FR
 ---
 

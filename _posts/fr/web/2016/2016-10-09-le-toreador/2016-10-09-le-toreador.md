@@ -1,11 +1,7 @@
 ---
 title: 'Le toréador'
 date: '2016-10-09'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-10-09'
 locale: fr_FR
 ---
 

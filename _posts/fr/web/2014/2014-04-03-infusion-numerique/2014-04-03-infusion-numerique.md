@@ -4,11 +4,7 @@ tags:
     - 'Transformation numérique'
     - Emploi
 date: '2014-04-03'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2014-04-03'
 locale: fr_FR
 ---
 

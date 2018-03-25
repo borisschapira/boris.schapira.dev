@@ -1,11 +1,7 @@
 ---
 title: 'Tencule dans le poop'
 date: '2016-03-09'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-03-09'
 locale: fr_FR
 ---
 

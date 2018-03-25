@@ -1,11 +1,7 @@
 ---
 title: 'Tread softly because you tread on my dreams'
 date: '2017-10-19'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2017-10-19'
 locale: fr_FR
 ---
 

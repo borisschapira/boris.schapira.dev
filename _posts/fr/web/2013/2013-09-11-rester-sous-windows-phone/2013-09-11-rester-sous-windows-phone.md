@@ -6,11 +6,7 @@ tags:
 series:
     - 'Windows Phone'
 date: '2013-09-11'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2013-09-11'
 locale: fr_FR
 ---
 

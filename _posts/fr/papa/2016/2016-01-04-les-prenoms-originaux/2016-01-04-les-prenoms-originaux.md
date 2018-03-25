@@ -1,11 +1,7 @@
 ---
 title: 'Les prénoms originaux'
 date: '2016-01-04'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-01-04'
 locale: fr_FR
 ---
 

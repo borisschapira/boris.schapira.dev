@@ -1,11 +1,7 @@
 ---
 title: 'La Reine des…'
 date: '2016-01-09'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-01-09'
 locale: fr_FR
 ---
 

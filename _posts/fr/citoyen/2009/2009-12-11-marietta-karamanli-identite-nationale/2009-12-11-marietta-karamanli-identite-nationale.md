@@ -4,11 +4,7 @@ tags:
     - Égalité
     - Religion
 date: '2009-12-11'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2009-12-11'
 locale: fr_FR
 ---
 

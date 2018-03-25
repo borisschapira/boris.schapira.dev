@@ -2,13 +2,9 @@
 title: 'L''épidémie'
 tags:
     - Finance
-    - Economie
+    - Économie
 date: '2009-01-15'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-01-15'
 locale: fr_FR
 ---
 

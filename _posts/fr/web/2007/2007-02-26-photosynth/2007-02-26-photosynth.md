@@ -3,11 +3,7 @@ title: 'PhotoSynth : déjà fait à l''ESIEE'
 tags:
     - 'Me, myself and I'
 date: '2007-02-26'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-02-26'
 locale: fr_FR
 ---
 

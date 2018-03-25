@@ -3,11 +3,7 @@ title: 'Un média social est un canal'
 tags:
     - 'Transformation numérique'
 date: '2010-07-26'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-07-26'
 locale: fr_FR
 ---
 

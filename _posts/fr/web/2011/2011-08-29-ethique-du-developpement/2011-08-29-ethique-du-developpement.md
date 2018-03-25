@@ -3,11 +3,7 @@ title: 'Ethique du développement'
 tags:
     - Management
 date: '2011-08-29'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2011-08-29'
 locale: fr_FR
 ---
 

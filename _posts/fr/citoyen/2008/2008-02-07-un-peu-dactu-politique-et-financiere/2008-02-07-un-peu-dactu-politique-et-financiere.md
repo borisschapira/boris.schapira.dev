@@ -3,11 +3,7 @@ title: 'Un peu d''actu politique et financière'
 tags:
     - France
 date: '2008-02-07'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2008-02-07'
 locale: fr_FR
 ---
 

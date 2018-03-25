@@ -5,11 +5,7 @@ tags:
     - Front-End
 canonical: 'http://blog.clever-age.com/fr/2012/10/03/avec-typescript-microsoft-espere-offrir-a-javascript-les-outils-pour-se-developper/'
 date: '2012-10-03'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2012-10-03'
 locale: fr_FR
 ---
 

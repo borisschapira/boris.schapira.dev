@@ -1,11 +1,7 @@
 ---
 title: 'Dessin du jour'
 date: '2018-03-15'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2018-03-15'
 locale: fr_FR
 ---
 

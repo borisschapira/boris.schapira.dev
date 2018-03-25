@@ -1,11 +1,7 @@
 ---
 title: WeMoms
 date: '2016-01-03'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-01-03'
 locale: fr_FR
 ---
 

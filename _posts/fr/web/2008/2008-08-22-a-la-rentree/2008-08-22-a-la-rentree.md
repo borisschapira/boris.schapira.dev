@@ -5,11 +5,7 @@ tags:
     - Société
     - Chaine
 date: '2008-08-22'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-08-22'
 locale: fr_FR
 ---
 

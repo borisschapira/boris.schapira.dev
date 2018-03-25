@@ -5,11 +5,7 @@ tags:
     - 'Microsoft Office'
     - 'Visual Basic'
 date: '2007-09-10'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-09-10'
 locale: fr_FR
 ---
 

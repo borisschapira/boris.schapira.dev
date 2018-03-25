@@ -1,11 +1,7 @@
 ---
 title: 'La VRAIE raison'
 date: '2014-09-13'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-09-13'
 locale: fr_FR
 ---
 

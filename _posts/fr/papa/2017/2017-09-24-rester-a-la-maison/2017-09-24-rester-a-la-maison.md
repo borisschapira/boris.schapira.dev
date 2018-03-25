@@ -1,11 +1,7 @@
 ---
 title: 'Rester à la maison'
 date: '2017-09-24'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-09-24'
 locale: fr_FR
 ---
 

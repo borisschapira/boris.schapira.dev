@@ -1,11 +1,7 @@
 ---
 title: 'Comme un mec bourré'
 date: '2016-07-31'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-07-31'
 locale: fr_FR
 ---
 

@@ -4,11 +4,7 @@ tags:
     - 'Performance Web'
 canonical: 'http://blog.clever-age.com/fr/2012/05/03/google-analytics-et-la-performance-web/'
 date: '2012-05-03'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2012-05-03'
 locale: fr_FR
 ---
 

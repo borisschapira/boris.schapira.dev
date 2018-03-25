@@ -4,11 +4,7 @@ tags:
     - 'Imagine Cup'
     - XNA
 date: '2007-08-13'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-08-13'
 locale: fr_FR
 ---
 

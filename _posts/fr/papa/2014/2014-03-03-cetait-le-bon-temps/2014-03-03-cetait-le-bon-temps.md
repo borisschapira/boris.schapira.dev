@@ -1,11 +1,7 @@
 ---
 title: 'C''était le bon temps'
 date: '2014-03-03'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-03-03'
 locale: fr_FR
 ---
 

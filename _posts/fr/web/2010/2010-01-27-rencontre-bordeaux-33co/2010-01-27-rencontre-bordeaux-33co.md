@@ -4,11 +4,7 @@ tags:
     - Emploi
     - 'Me, myself and I'
 date: '2010-01-27'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-01-27'
 locale: fr_FR
 ---
 

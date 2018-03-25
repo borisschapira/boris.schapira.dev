@@ -1,11 +1,7 @@
 ---
 title: 'La Nounou du parking'
 date: '2015-05-12'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-05-12'
 locale: fr_FR
 ---
 

@@ -4,11 +4,7 @@ tags:
     - 'Billet d''humeur'
     - 'Me, myself and I'
 date: '2009-11-19'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-11-19'
 locale: fr_FR
 ---
 

@@ -4,11 +4,7 @@ tags:
     - Développement
     - 'Windows Vista'
 date: '2007-11-04'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-11-04'
 locale: fr_FR
 ---
 

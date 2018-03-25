@@ -4,11 +4,7 @@ tags:
     - Culture
     - Geek
 date: '2009-11-12'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-11-12'
 locale: fr_FR
 ---
 

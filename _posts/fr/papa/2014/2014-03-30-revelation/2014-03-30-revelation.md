@@ -1,11 +1,7 @@
 ---
 title: Révélation
 date: '2014-03-30'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-03-30'
 locale: fr_FR
 ---
 

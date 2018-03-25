@@ -3,11 +3,7 @@ title: 'Urgence ou pensée'
 tags:
     - 'État d''urgence'
 date: '2016-06-30'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2016-06-30'
 locale: fr_FR
 loadTwitterWjs: true
 ---

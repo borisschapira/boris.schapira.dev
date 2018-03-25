@@ -3,11 +3,7 @@ title: 'L''inventeur du Web fustige Hadopi'
 tags:
     - 'Vie privée'
 date: '2010-11-26'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2010-11-26'
 locale: fr_FR
 ---
 

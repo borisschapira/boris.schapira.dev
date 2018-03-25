@@ -5,11 +5,7 @@ tags:
 series:
     - 'Charlie Hebdo'
 date: '2015-01-15'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2015-01-15'
 locale: fr_FR
 ---
 

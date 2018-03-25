@@ -4,11 +4,7 @@ tags:
     - Égalité
     - 'État d''urgence'
 date: '2016-02-01'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2016-02-01'
 locale: fr_FR
 loadTwitterWjs: true
 ---

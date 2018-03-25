@@ -3,11 +3,7 @@ title: 'Drôle de coincidence'
 tags:
     - 'Me, myself and I'
 date: '2007-05-08'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-05-08'
 locale: fr_FR
 ---
 

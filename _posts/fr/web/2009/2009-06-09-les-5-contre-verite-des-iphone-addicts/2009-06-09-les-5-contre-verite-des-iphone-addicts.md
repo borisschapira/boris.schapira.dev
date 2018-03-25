@@ -5,11 +5,7 @@ tags:
     - 'Billet d''humeur'
     - iPhone
 date: '2009-06-09'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-06-09'
 locale: fr_FR
 ---
 

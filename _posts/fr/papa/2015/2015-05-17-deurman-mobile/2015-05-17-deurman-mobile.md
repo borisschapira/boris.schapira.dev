@@ -1,11 +1,7 @@
 ---
 title: 'Deurman mobile'
 date: '2015-05-17'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-05-17'
 locale: fr_FR
 ---
 

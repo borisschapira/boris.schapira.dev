@@ -1,11 +1,7 @@
 ---
 title: 'À l''hôpital'
 date: '2017-12-16'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-12-16'
 locale: fr_FR
 ---
 

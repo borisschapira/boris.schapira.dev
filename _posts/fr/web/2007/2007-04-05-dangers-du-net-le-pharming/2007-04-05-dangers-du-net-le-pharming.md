@@ -4,11 +4,7 @@ tags:
     - Vulgarisation
 series: 'Dangers du Net'
 date: '2007-04-05'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-04-05'
 locale: fr_FR
 ---
 

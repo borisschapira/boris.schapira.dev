@@ -1,11 +1,7 @@
 ---
 title: 'Je les vois pas !'
 date: '2016-09-24'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-09-24'
 locale: fr_FR
 ---
 

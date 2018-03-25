@@ -3,11 +3,7 @@ title: 'Silverlight 5 : dernière version ?'
 tags:
     - Outils
 date: '2011-12-12'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2011-12-12'
 locale: fr_FR
 ---
 

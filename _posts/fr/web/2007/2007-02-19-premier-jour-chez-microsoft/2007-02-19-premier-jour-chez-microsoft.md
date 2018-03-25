@@ -3,11 +3,7 @@ title: 'Premier jour chez Microsoft !'
 tags:
     - 'Me, myself and I'
 date: '2007-02-19'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-02-19'
 locale: fr_FR
 ---
 

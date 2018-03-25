@@ -3,11 +3,7 @@ title: 'Quels écouteurs choisir ? A votre avis ?'
 tags:
     - 'Me, myself and I'
 date: '2008-05-02'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-05-02'
 locale: fr_FR
 ---
 

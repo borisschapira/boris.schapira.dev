@@ -1,11 +1,7 @@
 ---
 title: 'Le tact incarné (bis)'
 date: '2016-09-25'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-09-25'
 locale: fr_FR
 ---
 

@@ -5,11 +5,7 @@ tags:
     - Outils
     - Productivité
 date: '2015-08-14'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2015-08-14'
 locale: fr_FR
 ---
 

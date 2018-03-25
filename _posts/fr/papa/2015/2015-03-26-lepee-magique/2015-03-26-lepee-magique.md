@@ -1,11 +1,7 @@
 ---
 title: 'L''épée magique'
 date: '2015-03-26'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-03-26'
 locale: fr_FR
 ---
 

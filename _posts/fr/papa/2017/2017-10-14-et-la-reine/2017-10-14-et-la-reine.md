@@ -1,11 +1,7 @@
 ---
 title: 'Et la reine ?'
 date: '2017-10-14'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-10-14'
 locale: fr_FR
 ---
 

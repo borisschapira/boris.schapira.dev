@@ -3,11 +3,7 @@ title: 'Les héritiers'
 tags:
     - Égalité
 date: '2016-05-25'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2016-05-25'
 locale: fr_FR
 ---
 

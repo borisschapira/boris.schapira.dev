@@ -1,11 +1,7 @@
 ---
 title: 'James Bond'
 date: '2016-05-22'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-05-22'
 locale: fr_FR
 ---
 

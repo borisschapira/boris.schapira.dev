@@ -1,11 +1,7 @@
 ---
 title: 'Retour de la maternité'
 date: '2013-06-22'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2013-06-22'
 locale: fr_FR
 ---
 

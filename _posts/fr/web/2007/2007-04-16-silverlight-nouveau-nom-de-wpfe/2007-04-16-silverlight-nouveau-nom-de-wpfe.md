@@ -4,11 +4,7 @@ tags:
     - Développement
     - Silverlight
 date: '2007-04-16'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-04-16'
 locale: fr_FR
 ---
 

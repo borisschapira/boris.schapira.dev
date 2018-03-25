@@ -4,11 +4,7 @@ tags:
     - Société
     - Histoire
 date: '2014-02-06'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2014-02-06'
 locale: fr_FR
 ---
 

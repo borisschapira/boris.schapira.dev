@@ -3,11 +3,7 @@ title: 'Colocation avec avantages'
 tags:
     - Boulogne
 date: '2007-07-02'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-07-02'
 locale: fr_FR
 ---
 

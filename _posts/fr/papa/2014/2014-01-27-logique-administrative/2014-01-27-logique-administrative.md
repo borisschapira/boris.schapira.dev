@@ -1,11 +1,7 @@
 ---
 title: 'Logique administrative'
 date: '2014-01-27'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-01-27'
 locale: fr_FR
 ---
 

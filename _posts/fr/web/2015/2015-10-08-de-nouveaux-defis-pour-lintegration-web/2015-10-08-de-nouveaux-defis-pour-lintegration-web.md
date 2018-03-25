@@ -4,11 +4,7 @@ tags:
     - Front-End
 canonical: 'http://blog.clever-age.com/fr/2013/11/14/github-l-open-source-qui-conquiert-le-monde/'
 date: '2015-10-08'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2015-10-08'
 locale: fr_FR
 ---
 

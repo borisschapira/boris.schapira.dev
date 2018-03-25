@@ -5,11 +5,7 @@ tags:
     - NAS
     - 'Ready Nas Duo'
 date: '2009-05-23'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-05-23'
 locale: fr_FR
 ---
 

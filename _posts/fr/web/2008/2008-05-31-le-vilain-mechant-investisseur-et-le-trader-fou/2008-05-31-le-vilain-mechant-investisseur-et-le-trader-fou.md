@@ -4,11 +4,7 @@ tags:
     - Finance
     - 'Billet d''humeur'
 date: '2008-05-31'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-05-31'
 locale: fr_FR
 ---
 

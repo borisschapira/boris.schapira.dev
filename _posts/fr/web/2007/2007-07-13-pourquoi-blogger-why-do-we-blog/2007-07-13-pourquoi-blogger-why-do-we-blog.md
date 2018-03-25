@@ -1,11 +1,7 @@
 ---
 title: 'Pourquoi blogger ? &#124; Why do we blog ?'
 date: '2007-07-13'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-07-13'
 locale: fr_FR
 ---
 

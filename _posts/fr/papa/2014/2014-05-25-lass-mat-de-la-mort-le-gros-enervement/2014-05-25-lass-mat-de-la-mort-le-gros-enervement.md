@@ -1,11 +1,7 @@
 ---
 title: 'L''Ass. Mat de la mort : le gros énervement'
 date: '2014-05-25'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-05-25'
 locale: fr_FR
 ---
 

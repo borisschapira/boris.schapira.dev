@@ -4,11 +4,7 @@ tags:
     - Société
     - Égalité
 date: '2013-06-27'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2013-06-27'
 locale: fr_FR
 ---
 

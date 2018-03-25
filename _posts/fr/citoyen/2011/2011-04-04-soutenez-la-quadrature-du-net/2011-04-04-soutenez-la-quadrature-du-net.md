@@ -4,11 +4,7 @@ tags:
     - Société
     - 'Transformation numérique'
 date: '2011-04-04'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2011-04-04'
 locale: fr_FR
 ---
 

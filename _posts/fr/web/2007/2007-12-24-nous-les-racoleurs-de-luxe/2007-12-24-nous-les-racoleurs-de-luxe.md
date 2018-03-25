@@ -5,11 +5,7 @@ tags:
     - Buzz
     - Web
 date: '2007-12-24'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-12-24'
 locale: fr_FR
 ---
 

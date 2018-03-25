@@ -1,11 +1,7 @@
 ---
 title: 'Papy fâché'
 date: '2016-04-18'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-04-18'
 locale: fr_FR
 ---
 

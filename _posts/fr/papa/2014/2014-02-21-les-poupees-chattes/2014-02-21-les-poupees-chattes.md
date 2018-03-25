@@ -1,11 +1,7 @@
 ---
 title: 'Les Poupées Chattes'
 date: '2014-02-21'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-02-21'
 locale: fr_FR
 ---
 

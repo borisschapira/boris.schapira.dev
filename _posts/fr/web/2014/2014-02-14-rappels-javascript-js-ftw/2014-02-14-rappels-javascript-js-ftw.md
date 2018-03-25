@@ -3,11 +3,7 @@ title: 'Rappels JavaScript&nbsp;: JS FTW !'
 tags:
     - Conférences
 date: '2014-02-14'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2014-02-14'
 locale: fr_FR
 ---
 

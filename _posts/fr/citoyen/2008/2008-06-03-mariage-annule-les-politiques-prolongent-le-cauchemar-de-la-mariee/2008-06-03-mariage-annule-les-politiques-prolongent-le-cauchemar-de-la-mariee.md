@@ -4,11 +4,7 @@ tags:
     - Justice
     - Religion
 date: '2008-06-03'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2008-06-03'
 locale: fr_FR
 ---
 

@@ -3,11 +3,7 @@ title: 'Éduquons nos garçons'
 tags:
     - Éducation
 date: '2016-11-25'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2016-11-25'
 locale: fr_FR
 loadTwitterWjs: true
 ---

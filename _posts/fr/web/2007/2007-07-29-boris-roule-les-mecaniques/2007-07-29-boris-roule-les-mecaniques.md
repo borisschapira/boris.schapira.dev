@@ -5,11 +5,7 @@ tags:
     - 'Forza Motorsport 2'
     - XBox360
 date: '2007-07-29'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-07-29'
 locale: fr_FR
 ---
 

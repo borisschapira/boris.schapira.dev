@@ -4,11 +4,7 @@ tags:
     - 'État d''urgence'
 main_image: assets/images/2016-01-31/1.png
 date: '2016-01-31'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2016-01-31'
 locale: fr_FR
 ---
 

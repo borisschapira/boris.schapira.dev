@@ -1,11 +1,7 @@
 ---
 title: 'Ça, "partage".'
 date: '2014-11-20'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-11-20'
 locale: fr_FR
 ---
 

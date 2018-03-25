@@ -4,11 +4,7 @@ canonical: 'http://www.nexeo.fr/blog/2009/06/05/problem-steps-recorder-psr-outil
 tags:
     - Nexdotnet
 date: '2009-06-05'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-06-05'
 locale: fr_FR
 ---
 

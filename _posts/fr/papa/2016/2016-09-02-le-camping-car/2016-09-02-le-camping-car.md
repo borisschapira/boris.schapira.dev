@@ -1,11 +1,7 @@
 ---
 title: 'Le camping-car'
 date: '2016-09-02'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-09-02'
 locale: fr_FR
 ---
 

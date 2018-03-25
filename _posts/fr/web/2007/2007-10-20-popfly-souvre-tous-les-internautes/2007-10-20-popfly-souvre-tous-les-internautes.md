@@ -5,11 +5,7 @@ tags:
     - Popfly
     - Silverlight
 date: '2007-10-20'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-10-20'
 locale: fr_FR
 ---
 

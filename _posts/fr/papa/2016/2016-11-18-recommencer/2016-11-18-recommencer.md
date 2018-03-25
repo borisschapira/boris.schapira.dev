@@ -1,11 +1,7 @@
 ---
 title: Recommencer
 date: '2016-11-18'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-11-18'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'Le sommeil, c''est surfait'
 date: '2013-08-10'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2013-08-10'
 locale: fr_FR
 ---
 

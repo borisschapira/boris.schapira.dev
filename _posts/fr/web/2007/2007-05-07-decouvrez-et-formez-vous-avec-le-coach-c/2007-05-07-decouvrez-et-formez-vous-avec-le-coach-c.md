@@ -3,11 +3,7 @@ title: 'Découvrez et formez-vous avec le Coach C#'
 tags:
     - .NET
 date: '2007-05-07'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-05-07'
 locale: fr_FR
 ---
 

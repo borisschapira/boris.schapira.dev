@@ -1,11 +1,7 @@
 ---
 title: 'Aspirateurs à valeur'
 date: '2017-02-28'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2017-02-28'
 locale: fr_FR
 ---
 

@@ -4,11 +4,7 @@ canonical: 'http://www.nexeo.fr/blog/2009/11/24/entrees-distinctes-et-datatabl/'
 tags:
     - Nexdotnet
 date: '2009-11-24'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-11-24'
 locale: fr_FR
 ---
 

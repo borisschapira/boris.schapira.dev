@@ -5,11 +5,7 @@ tags:
     - MIX07
     - Web
 date: '2007-05-03'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-05-03'
 locale: fr_FR
 ---
 

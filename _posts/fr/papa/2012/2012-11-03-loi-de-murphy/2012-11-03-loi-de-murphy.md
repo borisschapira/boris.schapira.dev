@@ -1,11 +1,7 @@
 ---
 title: 'Loi de Murphy'
 date: '2012-11-03'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2012-11-03'
 locale: fr_FR
 ---
 

@@ -3,11 +3,7 @@ title: 'Une leçon d''Histoire'
 tags:
     - 'Me, myself and I'
 date: '2010-02-24'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-02-24'
 locale: fr_FR
 ---
 

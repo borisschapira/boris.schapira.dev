@@ -3,11 +3,7 @@ title: 'Edvige, la vérité est ailleurs'
 tags:
     - Sécurité
 date: '2008-10-10'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2008-10-10'
 locale: fr_FR
 ---
 

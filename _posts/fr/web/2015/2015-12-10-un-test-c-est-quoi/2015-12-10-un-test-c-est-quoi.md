@@ -1,11 +1,7 @@
 ---
 title: 'Un test, c''est quoi ?'
 date: '2015-12-10'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2015-12-10'
 locale: fr_FR
 ---
 

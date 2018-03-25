@@ -1,11 +1,7 @@
 ---
 title: 'Le Side-Kick'
 date: '2017-05-13'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-05-13'
 locale: fr_FR
 ---
 

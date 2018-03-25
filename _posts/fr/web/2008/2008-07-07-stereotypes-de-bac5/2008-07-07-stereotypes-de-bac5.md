@@ -4,11 +4,7 @@ tags:
     - 'Billet d''humeur'
     - Publicité
 date: '2008-07-07'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-07-07'
 locale: fr_FR
 ---
 

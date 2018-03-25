@@ -1,11 +1,7 @@
 ---
 title: 'Les sous-entendus'
 date: '2017-11-18'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-11-18'
 locale: fr_FR
 ---
 

@@ -5,11 +5,7 @@ tags:
     - France
     - Sarkozy
 date: '2009-07-01'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2009-07-01'
 locale: fr_FR
 ---
 

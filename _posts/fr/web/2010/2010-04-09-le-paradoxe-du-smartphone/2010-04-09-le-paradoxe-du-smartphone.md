@@ -5,11 +5,7 @@ tags:
 series:
     - 'Windows Phone'
 date: '2010-04-09'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-04-09'
 locale: fr_FR
 ---
 

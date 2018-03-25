@@ -3,11 +3,7 @@ title: '8 façons de me faire fuir'
 tags:
     - Emploi
 date: '2007-05-16'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-05-16'
 locale: fr_FR
 ---
 

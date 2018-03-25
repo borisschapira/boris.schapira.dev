@@ -3,11 +3,7 @@ title: Pumpipumpe
 tags:
     - Collaboration
 date: '2016-02-11'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2016-02-11'
 locale: fr_FR
 ---
 

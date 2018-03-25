@@ -3,11 +3,7 @@ title: 'Le code a changé'
 tags:
     - Education
 date: '2014-06-17'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2014-06-17'
 locale: fr_FR
 ---
 

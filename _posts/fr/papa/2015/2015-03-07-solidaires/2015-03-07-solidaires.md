@@ -1,11 +1,7 @@
 ---
 title: Solidaires
 date: '2015-03-07'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-03-07'
 locale: fr_FR
 ---
 

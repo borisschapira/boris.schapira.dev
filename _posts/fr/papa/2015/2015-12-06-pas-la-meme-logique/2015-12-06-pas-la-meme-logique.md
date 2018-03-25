@@ -1,11 +1,7 @@
 ---
 title: 'Pas la même logique'
 date: '2015-12-06'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-12-06'
 locale: fr_FR
 ---
 

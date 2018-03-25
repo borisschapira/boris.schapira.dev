@@ -1,11 +1,7 @@
 ---
 title: 'Vous pouvez disposer'
 date: '2018-03-03'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2018-03-03'
 locale: fr_FR
 ---
 

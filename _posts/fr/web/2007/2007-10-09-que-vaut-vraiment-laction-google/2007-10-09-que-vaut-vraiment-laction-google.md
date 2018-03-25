@@ -4,11 +4,7 @@ tags:
     - Finance
     - Google
 date: '2007-10-09'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-10-09'
 locale: fr_FR
 ---
 

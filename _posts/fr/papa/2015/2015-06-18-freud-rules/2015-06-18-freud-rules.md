@@ -1,11 +1,7 @@
 ---
 title: 'Freud rules'
 date: '2015-06-18'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-06-18'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'Jamais seule'
 date: '2017-03-26'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-03-26'
 locale: fr_FR
 ---
 

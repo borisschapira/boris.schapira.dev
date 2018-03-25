@@ -1,11 +1,7 @@
 ---
 title: 'Discussion normale...'
 date: '2015-04-03'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-04-03'
 locale: fr_FR
 ---
 

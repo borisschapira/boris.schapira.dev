@@ -1,13 +1,9 @@
 ---
 title: 'Enfermés dans un sous-sol'
 date: '2017-07-11'
-lang: fr
 type: post
-categories:
-    - web
 tags:
     - anecdotes
-publishDate: '2017-07-11'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: Grabouillage
 date: '2016-01-25'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-01-25'
 locale: fr_FR
 ---
 

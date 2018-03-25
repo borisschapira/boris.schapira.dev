@@ -2,11 +2,7 @@
 title: 'Un blog avec Jekyll et Codeship'
 main_image: assets/images/2016-02-25/jekyll.png
 date: '2016-02-25'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-02-25'
 locale: fr_FR
 ---
 

@@ -6,11 +6,7 @@ tags:
     - Éducation
     - Grève
 date: '2008-05-19'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2008-05-19'
 locale: fr_FR
 ---
 

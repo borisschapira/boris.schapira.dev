@@ -1,11 +1,7 @@
 ---
 title: 'Dispute à la salle de bain'
 date: '2017-06-17'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-06-17'
 locale: fr_FR
 ---
 

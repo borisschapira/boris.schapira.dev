@@ -6,11 +6,7 @@ tags:
     - Éducation
     - Nexeo
 date: '2009-11-05'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-11-05'
 locale: fr_FR
 ---
 

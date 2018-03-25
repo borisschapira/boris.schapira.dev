@@ -1,11 +1,7 @@
 ---
 title: 'Objet connecté'
 date: '2015-09-17'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-09-17'
 locale: fr_FR
 ---
 

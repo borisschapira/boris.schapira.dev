@@ -4,11 +4,7 @@ canonical: 'http://www.nexeo.fr/blog/2009/04/28/les-kits-pour-certification-micr
 tags:
     - Nexdotnet
 date: '2009-04-28'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-04-28'
 locale: fr_FR
 ---
 

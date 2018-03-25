@@ -5,11 +5,7 @@ tags:
     - 'Microsoft Office'
     - Sharepoint
 date: '2007-05-13'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-05-13'
 locale: fr_FR
 ---
 

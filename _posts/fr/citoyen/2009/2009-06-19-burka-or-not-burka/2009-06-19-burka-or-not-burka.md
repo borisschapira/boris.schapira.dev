@@ -1,11 +1,7 @@
 ---
 title: 'Burka or not burka'
-categories:
-    - citoyen
 date: '2009-06-19'
-lang: fr
 type: post
-publishDate: '2009-06-19'
 locale: fr_FR
 ---
 

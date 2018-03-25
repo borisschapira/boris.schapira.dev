@@ -1,11 +1,7 @@
 ---
 title: 'Opera Dragonfly Search Form is great'
 date: '2012-05-30'
-lang: en
 type: post
-categories:
-    - web
-publishDate: '2012-05-30'
 locale: en_US
 ---
 

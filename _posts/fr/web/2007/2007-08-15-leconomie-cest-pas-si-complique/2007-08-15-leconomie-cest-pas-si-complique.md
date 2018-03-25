@@ -1,14 +1,10 @@
 ---
 title: 'L''Economie, c''est pas si compliqué'
 tags:
-    - Economie
+    - Économie
     - Subprime
 date: '2007-08-15'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-08-15'
 locale: fr_FR
 ---
 

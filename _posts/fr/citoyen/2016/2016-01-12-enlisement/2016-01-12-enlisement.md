@@ -2,11 +2,7 @@
 title: Enlisement
 tags: null
 date: '2016-01-12'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2016-01-12'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'Pas le temps'
 date: '2017-10-12'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-10-12'
 locale: fr_FR
 ---
 

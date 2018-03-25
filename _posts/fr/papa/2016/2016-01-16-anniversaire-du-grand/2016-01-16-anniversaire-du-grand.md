@@ -2,11 +2,7 @@
 title: 'Cinquième anniversaire du grand'
 main_image: assets/images/papa/2016-01-16/1.gif
 date: '2016-01-16'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-01-16'
 locale: fr_FR
 ---
 

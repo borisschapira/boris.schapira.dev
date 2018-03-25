@@ -1,11 +1,7 @@
 ---
 title: 'Ligne 1 : l''art de détendre ses usagers'
-categories:
-    - web
 date: '2008-02-22'
-lang: fr
 type: post
-publishDate: '2008-02-22'
 locale: fr_FR
 ---
 

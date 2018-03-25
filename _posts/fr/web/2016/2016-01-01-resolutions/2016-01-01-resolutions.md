@@ -3,11 +3,7 @@ title: 'Mes résolutions'
 tags:
     - 'Me, myself & I'
 date: '2016-01-01'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-01-01'
 locale: fr_FR
 ---
 ## pour 2016

@@ -1,11 +1,7 @@
 ---
 title: 'Hier Demain'
 date: '2016-03-27'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-03-27'
 locale: fr_FR
 ---
 

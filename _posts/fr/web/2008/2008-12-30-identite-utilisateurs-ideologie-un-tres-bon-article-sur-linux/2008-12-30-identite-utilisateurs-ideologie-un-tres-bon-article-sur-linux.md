@@ -4,11 +4,7 @@ tags:
     - Technologie
     - Liens
 date: '2008-12-30'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-12-30'
 locale: fr_FR
 ---
 

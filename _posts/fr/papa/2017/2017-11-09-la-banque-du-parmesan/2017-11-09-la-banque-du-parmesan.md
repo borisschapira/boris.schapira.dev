@@ -1,11 +1,7 @@
 ---
 title: 'La banque du parmesan'
 date: '2017-11-09'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-11-09'
 locale: fr_FR
 ---
 

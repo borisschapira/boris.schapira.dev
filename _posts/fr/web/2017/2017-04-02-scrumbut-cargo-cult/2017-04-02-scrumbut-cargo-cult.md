@@ -1,11 +1,7 @@
 ---
 title: 'Scrumbuts et Cargo Cult'
 date: '2017-04-02'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2017-04-02'
 locale: fr_FR
 ---
 

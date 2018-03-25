@@ -6,11 +6,7 @@ tags:
     - 'Project Hoshimi'
     - 'Tour Eiffel'
 date: '2007-06-01'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-06-01'
 locale: fr_FR
 ---
 

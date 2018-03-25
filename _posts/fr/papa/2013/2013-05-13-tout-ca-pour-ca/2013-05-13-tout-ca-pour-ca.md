@@ -1,11 +1,7 @@
 ---
 title: 'Tout ça pour ça'
 date: '2013-05-13'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2013-05-13'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'Tonton et Tatie'
 date: '2016-07-10'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-07-10'
 locale: fr_FR
 ---
 

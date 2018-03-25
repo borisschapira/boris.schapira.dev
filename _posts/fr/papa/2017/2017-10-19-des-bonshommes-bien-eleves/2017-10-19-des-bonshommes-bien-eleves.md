@@ -1,11 +1,7 @@
 ---
 title: 'Les bonshommes bien élevés'
 date: '2017-10-19'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-10-19'
 locale: fr_FR
 ---
 

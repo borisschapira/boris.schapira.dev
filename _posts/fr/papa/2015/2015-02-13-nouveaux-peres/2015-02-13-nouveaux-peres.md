@@ -1,11 +1,7 @@
 ---
 title: 'Nouveaux pères'
 date: '2015-02-13'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-02-13'
 locale: fr_FR
 ---
 

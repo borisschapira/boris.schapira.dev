@@ -5,11 +5,7 @@ tags:
     - 'Final Fantasy'
     - Playstation
 date: '2009-05-18'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-05-18'
 locale: fr_FR
 ---
 

@@ -6,11 +6,7 @@ tags:
     - Medias
     - Web
 date: '2009-10-20'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-10-20'
 locale: fr_FR
 ---
 

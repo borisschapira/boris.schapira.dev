@@ -1,11 +1,7 @@
 ---
 title: 'La rentrée'
 date: '2016-09-03'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-09-03'
 locale: fr_FR
 ---
 

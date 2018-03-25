@@ -1,11 +1,7 @@
 ---
 title: 'Parfois, mieux vaut ne pas savoir'
 date: '2015-05-30'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-05-30'
 locale: fr_FR
 ---
 

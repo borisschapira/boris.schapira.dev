@@ -1,11 +1,7 @@
 ---
 title: 'Le vétérinaire'
 date: '2017-11-27'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-11-27'
 locale: fr_FR
 ---
 

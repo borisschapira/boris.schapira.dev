@@ -3,11 +3,7 @@ title: 'Qualité Web, deuxième édition'
 tags:
     - Qualité
 date: '2016-09-01'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-09-01'
 locale: fr_FR
 ---
 

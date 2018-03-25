@@ -5,11 +5,7 @@ tags:
     - Libellule
     - XBox360
 date: '2007-07-03'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-07-03'
 locale: fr_FR
 ---
 

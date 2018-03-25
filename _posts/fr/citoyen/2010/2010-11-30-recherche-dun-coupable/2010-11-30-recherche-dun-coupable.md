@@ -5,11 +5,7 @@ tags:
     - 'Vie privée'
     - Sécurité
 date: '2010-11-30'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2010-11-30'
 locale: fr_FR
 ---
 

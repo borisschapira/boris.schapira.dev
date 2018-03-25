@@ -1,11 +1,7 @@
 ---
 title: 'Déplacer un dépôt git'
 date: '2016-09-10'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-09-10'
 locale: fr_FR
 ---
 

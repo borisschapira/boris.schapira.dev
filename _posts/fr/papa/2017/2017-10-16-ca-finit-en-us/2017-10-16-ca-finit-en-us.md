@@ -1,11 +1,7 @@
 ---
 title: 'Ça finit en "us"'
 date: '2017-10-16'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-10-16'
 locale: fr_FR
 ---
 

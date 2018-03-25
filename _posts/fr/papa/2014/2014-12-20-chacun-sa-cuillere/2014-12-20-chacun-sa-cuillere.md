@@ -1,11 +1,7 @@
 ---
 title: 'Chacun sa cuillère'
 date: '2014-12-20'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-12-20'
 locale: fr_FR
 ---
 

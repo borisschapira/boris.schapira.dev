@@ -1,11 +1,7 @@
 ---
 title: 'Guide de survie aux discussions'
 date: '2017-02-14'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2017-02-14'
 locale: fr_FR
 tags:
     - guide

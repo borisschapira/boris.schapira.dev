@@ -5,11 +5,7 @@ tags:
     - Interopérabilité
     - Sharepoint
 date: '2007-06-28'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-06-28'
 locale: fr_FR
 ---
 

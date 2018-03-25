@@ -1,11 +1,7 @@
 ---
 title: Retrouvée
 date: '2015-03-08'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-03-08'
 locale: fr_FR
 ---
 

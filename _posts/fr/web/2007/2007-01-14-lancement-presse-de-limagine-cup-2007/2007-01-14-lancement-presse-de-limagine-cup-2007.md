@@ -3,11 +3,7 @@ title: 'Lancement presse de l''Imagine Cup 2007'
 tags:
     - MSP
 date: '2007-01-14'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-01-14'
 locale: fr_FR
 ---
 

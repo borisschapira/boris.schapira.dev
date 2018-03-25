@@ -1,11 +1,7 @@
 ---
 title: 'Les petites bêtes (suite)'
 date: '2017-12-14'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-12-14'
 locale: fr_FR
 ---
 

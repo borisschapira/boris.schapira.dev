@@ -1,11 +1,7 @@
 ---
 title: 'Le Bon Coin'
 date: '2013-10-04'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2013-10-04'
 locale: fr_FR
 ---
 

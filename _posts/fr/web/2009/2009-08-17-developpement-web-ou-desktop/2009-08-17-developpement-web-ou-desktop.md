@@ -4,11 +4,7 @@ tags:
     - Développement
     - Web
 date: '2009-08-17'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-08-17'
 locale: fr_FR
 ---
 

@@ -7,11 +7,7 @@ series:
     - 'Industrialisation du Front-End'
 canonical: 'http://blog.clever-age.com/fr/2015/06/29/gerer-ses-dependances-avec-bower/'
 date: '2015-06-29'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2015-06-29'
 locale: fr_FR
 ---
 

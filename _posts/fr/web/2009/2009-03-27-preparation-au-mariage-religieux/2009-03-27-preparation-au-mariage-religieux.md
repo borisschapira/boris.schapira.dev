@@ -4,11 +4,7 @@ tags:
     - 'Me, myself and I'
     - Mariage
 date: '2009-03-27'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-03-27'
 locale: fr_FR
 ---
 

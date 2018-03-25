@@ -1,11 +1,7 @@
 ---
 title: Protectrice
 date: '2013-12-07'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2013-12-07'
 locale: fr_FR
 ---
 

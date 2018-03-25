@@ -1,11 +1,7 @@
 ---
 title: 'Coup de blues'
 date: '2014-06-14'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-06-14'
 locale: fr_FR
 ---
 

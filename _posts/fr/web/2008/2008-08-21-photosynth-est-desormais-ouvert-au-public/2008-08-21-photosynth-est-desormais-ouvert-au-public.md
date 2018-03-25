@@ -4,11 +4,7 @@ tags:
     - Technologie
     - PhotoSynth
 date: '2008-08-21'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-08-21'
 locale: fr_FR
 ---
 

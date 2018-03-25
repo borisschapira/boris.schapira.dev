@@ -1,11 +1,7 @@
 ---
 title: 'Les chaussettes'
 date: '2013-12-14'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2013-12-14'
 locale: fr_FR
 ---
 

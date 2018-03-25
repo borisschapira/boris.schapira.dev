@@ -1,11 +1,7 @@
 ---
 title: 'Le Tour de France'
 date: '2017-07-16'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-07-16'
 locale: fr_FR
 ---
 

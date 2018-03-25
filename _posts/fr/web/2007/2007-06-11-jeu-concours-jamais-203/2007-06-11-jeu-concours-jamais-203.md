@@ -9,11 +9,7 @@ tags:
     - 'Windows Live'
     - XBox360
 date: '2007-06-11'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-06-11'
 locale: fr_FR
 ---
 

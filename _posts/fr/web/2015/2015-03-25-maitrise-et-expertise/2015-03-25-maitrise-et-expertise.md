@@ -3,11 +3,7 @@ title: 'Maîtrise et expertise'
 tags:
     - Management
 date: '2015-03-25'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2015-03-25'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'Perdre une heure'
 date: '2017-03-25'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-03-25'
 locale: fr_FR
 ---
 

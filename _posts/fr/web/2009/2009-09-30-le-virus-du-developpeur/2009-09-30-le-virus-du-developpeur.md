@@ -4,11 +4,7 @@ canonical: 'http://www.nexeo.fr/blog/2009/09/30/vecu-le-virus-du-developpeur/'
 tags:
     - Nexdotnet
 date: '2009-09-30'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-09-30'
 locale: fr_FR
 ---
 

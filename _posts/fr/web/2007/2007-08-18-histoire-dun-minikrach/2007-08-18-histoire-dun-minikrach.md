@@ -2,14 +2,10 @@
 title: 'Histoire d''un minikrach'
 tags:
     - Finance
-    - Economie
+    - Économie
     - Subprime
 date: '2007-08-18'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-08-18'
 locale: fr_FR
 ---
 

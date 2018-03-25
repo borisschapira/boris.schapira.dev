@@ -1,11 +1,7 @@
 ---
 title: 'L''importance des spécifications'
-categories:
-    - web
 date: '2007-09-11'
-lang: fr
 type: post
-publishDate: '2007-09-11'
 locale: fr_FR
 ---
 

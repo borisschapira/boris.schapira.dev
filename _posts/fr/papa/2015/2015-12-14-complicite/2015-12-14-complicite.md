@@ -1,11 +1,7 @@
 ---
 title: Complicité
 date: '2015-12-14'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-12-14'
 locale: fr_FR
 ---
 

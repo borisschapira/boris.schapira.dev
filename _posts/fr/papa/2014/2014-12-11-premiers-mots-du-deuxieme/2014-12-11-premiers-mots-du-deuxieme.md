@@ -1,11 +1,7 @@
 ---
 title: 'Premiers mots du deuxième'
 date: '2014-12-11'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-12-11'
 locale: fr_FR
 ---
 

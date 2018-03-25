@@ -1,11 +1,7 @@
 ---
 title: Évaluations
 date: '2017-07-02'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2017-07-02'
 locale: fr_FR
 ---
 

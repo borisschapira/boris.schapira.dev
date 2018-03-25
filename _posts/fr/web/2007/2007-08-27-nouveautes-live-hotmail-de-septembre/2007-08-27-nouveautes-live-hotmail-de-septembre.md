@@ -5,11 +5,7 @@ tags:
     - 'Windows Live'
     - 'Windows Live Hotmail'
 date: '2007-08-27'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-08-27'
 locale: fr_FR
 ---
 

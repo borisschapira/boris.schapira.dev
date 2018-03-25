@@ -1,11 +1,7 @@
 ---
 title: 'Mommy likes...'
 date: '2015-07-05'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-07-05'
 locale: fr_FR
 ---
 

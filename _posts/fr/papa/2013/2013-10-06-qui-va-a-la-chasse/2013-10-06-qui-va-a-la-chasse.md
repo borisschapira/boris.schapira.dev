@@ -1,11 +1,7 @@
 ---
 title: 'Qui va à la chasse'
 date: '2013-10-06'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2013-10-06'
 locale: fr_FR
 ---
 

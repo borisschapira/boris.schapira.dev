@@ -4,11 +4,7 @@ tags:
     - Développement
     - .NET
 date: '2007-10-03'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-10-03'
 locale: fr_FR
 ---
 

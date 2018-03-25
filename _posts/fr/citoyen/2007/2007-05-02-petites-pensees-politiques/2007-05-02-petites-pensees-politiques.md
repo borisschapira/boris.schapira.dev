@@ -4,11 +4,7 @@ tags:
     - Débat
     - Présidentielles
 date: '2007-05-02'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2007-05-02'
 locale: fr_FR
 ---
 

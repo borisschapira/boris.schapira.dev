@@ -3,11 +3,7 @@ title: '#OnVautMieuxQueCa'
 tags:
     - Emploi
 date: '2016-03-10'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2016-03-10'
 locale: fr_FR
 ---
 

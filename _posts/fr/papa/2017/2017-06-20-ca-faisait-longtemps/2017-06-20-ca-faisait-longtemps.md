@@ -1,11 +1,7 @@
 ---
 title: 'Ça faisait longtemps'
 date: '2017-06-20'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-06-20'
 locale: fr_FR
 ---
 

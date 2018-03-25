@@ -1,11 +1,7 @@
 ---
 title: 'La griffure'
 date: '2016-05-24'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-05-24'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'Un petit coin de paradis'
-categories:
-    - web
 date: '2007-05-19'
-lang: fr
 type: post
-publishDate: '2007-05-19'
 locale: fr_FR
 ---
 

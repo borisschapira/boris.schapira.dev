@@ -4,11 +4,7 @@ tags:
     - Numérique
     - 'Billet d''humeur'
 date: '2009-09-17'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2009-09-17'
 locale: fr_FR
 ---
 

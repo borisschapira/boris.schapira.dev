@@ -4,11 +4,7 @@ tags:
     - 'Me, myself and I'
     - Projets
 date: '2010-11-21'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-11-21'
 locale: fr_FR
 ---
 

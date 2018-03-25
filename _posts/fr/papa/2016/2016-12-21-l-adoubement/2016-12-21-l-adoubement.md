@@ -1,11 +1,7 @@
 ---
 title: 'L''adoubement'
 date: '2016-12-21'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-12-21'
 locale: fr_FR
 ---
 

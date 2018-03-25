@@ -1,11 +1,7 @@
 ---
 title: 'Si tu peux bloguer, tu peux courir'
-categories:
-    - web
 date: '2007-08-27'
-lang: fr
 type: post
-publishDate: '2007-08-27'
 locale: fr_FR
 ---
 

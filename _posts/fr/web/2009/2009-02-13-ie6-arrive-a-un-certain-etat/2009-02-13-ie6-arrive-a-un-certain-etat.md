@@ -5,11 +5,7 @@ tags:
     - Flash
     - 'Internet Explorer'
 date: '2009-02-13'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-02-13'
 locale: fr_FR
 ---
 

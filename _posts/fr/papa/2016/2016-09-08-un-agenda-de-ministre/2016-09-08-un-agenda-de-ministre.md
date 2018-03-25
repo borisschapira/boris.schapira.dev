@@ -1,11 +1,7 @@
 ---
 title: 'Un agenda de ministre'
 date: '2016-09-08'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-09-08'
 locale: fr_FR
 ---
 

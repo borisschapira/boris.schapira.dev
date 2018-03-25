@@ -3,11 +3,7 @@ title: 'A la recherche du nouveau décompilateur'
 tags:
     - Outils
 date: '2011-06-08'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2011-06-08'
 locale: fr_FR
 ---
 

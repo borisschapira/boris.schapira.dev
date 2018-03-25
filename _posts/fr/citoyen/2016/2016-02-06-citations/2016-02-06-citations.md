@@ -4,11 +4,7 @@ tags:
     - Égalité
     - Citations
 date: '2016-02-06'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2016-02-06'
 locale: fr_FR
 ---
 

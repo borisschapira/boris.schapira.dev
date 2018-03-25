@@ -1,11 +1,7 @@
 ---
 title: 'Maintenant, il donne son avis...'
 date: '2015-08-19'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-08-19'
 locale: fr_FR
 ---
 

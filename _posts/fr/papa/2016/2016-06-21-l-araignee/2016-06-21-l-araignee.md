@@ -1,11 +1,7 @@
 ---
 title: 'L''araignée'
 date: '2016-06-21'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-06-21'
 locale: fr_FR
 ---
 

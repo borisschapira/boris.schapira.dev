@@ -5,11 +5,7 @@ tags:
     - 'Internet Explorer'
     - Web
 date: '2007-12-21'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-12-21'
 locale: fr_FR
 ---
 

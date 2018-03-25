@@ -6,11 +6,7 @@ tags:
     - 'Imagine Cup'
     - 'Open Source'
 date: '2007-06-23'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-06-23'
 locale: fr_FR
 ---
 

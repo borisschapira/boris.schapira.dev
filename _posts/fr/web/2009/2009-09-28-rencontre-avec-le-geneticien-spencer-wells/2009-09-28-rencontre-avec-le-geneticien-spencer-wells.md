@@ -5,11 +5,7 @@ tags:
     - Science
     - Société
 date: '2009-09-28'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-09-28'
 locale: fr_FR
 ---
 

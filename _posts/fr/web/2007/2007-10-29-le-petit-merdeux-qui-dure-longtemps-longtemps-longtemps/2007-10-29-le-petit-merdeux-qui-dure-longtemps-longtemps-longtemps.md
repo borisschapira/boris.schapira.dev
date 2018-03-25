@@ -1,11 +1,7 @@
 ---
 title: 'Le petit merdeux qui dure longtemps, longtemps, longtemps…'
-categories:
-    - web
 date: '2007-10-29'
-lang: fr
 type: post
-publishDate: '2007-10-29'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'La tarte-melette'
 date: '2017-06-16'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-06-16'
 locale: fr_FR
 ---
 

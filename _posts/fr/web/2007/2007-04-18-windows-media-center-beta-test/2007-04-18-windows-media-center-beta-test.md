@@ -4,11 +4,7 @@ tags:
     - Technologie
     - GUWIV
 date: '2007-04-18'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-04-18'
 locale: fr_FR
 ---
 

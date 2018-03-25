@@ -3,11 +3,7 @@ title: 'Faire ses vœux pour 2009'
 tags:
     - 'Nouvel an'
 date: '2008-12-31'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-12-31'
 locale: fr_FR
 ---
 

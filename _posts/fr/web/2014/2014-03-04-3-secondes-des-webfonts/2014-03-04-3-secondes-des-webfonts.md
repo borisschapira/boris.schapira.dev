@@ -5,11 +5,7 @@ tags:
     - 'Performance Web'
 canonical: 'http://blog.clever-age.com/fr/2014/03/04/3-secondes-des-webfonts/'
 date: '2014-03-04'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2014-03-04'
 locale: fr_FR
 ---
 

@@ -3,11 +3,7 @@ title: 'Demain c''est Noël (Edit : après-demain ?)'
 tags:
     - Libellule
 date: '2007-12-22'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-12-22'
 locale: fr_FR
 ---
 

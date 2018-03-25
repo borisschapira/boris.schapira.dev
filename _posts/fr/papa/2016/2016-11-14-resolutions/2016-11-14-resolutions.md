@@ -1,11 +1,7 @@
 ---
 title: Résolutions
 date: '2016-11-14'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-11-14'
 locale: fr_FR
 ---
 

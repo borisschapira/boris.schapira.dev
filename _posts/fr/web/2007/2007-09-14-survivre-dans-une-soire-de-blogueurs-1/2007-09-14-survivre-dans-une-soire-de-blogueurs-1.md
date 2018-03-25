@@ -1,11 +1,7 @@
 ---
 title: 'Survivre dans une soirée de blogueurs #1'
-categories:
-    - web
 date: '2007-09-14'
-lang: fr
 type: post
-publishDate: '2007-09-14'
 locale: fr_FR
 ---
 

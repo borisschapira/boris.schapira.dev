@@ -1,11 +1,7 @@
 ---
 title: 'La licorne'
 date: '2016-10-09'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-10-09'
 locale: fr_FR
 ---
 

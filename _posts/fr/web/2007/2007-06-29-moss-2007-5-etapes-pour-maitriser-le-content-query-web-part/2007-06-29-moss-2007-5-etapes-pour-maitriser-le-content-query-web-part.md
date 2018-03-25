@@ -5,11 +5,7 @@ tags:
     - 'Content Query Web Part'
     - 'MOSS 2007'
 date: '2007-06-29'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-06-29'
 locale: fr_FR
 ---
 

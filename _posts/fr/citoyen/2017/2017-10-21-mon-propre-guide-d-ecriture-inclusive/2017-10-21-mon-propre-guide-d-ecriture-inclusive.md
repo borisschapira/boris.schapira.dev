@@ -1,11 +1,7 @@
 ---
-title: "Mon propre guide d'écriture inclusive"
+title: 'Mon propre guide d''écriture inclusive'
 date: '2017-10-21'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2017-10-21'
 locale: fr_FR
 tags:
     - guide

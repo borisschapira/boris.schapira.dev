@@ -2,11 +2,7 @@
 title: 'Dénoncer sous l''occupation'
 tags: null
 date: '2015-11-17'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2015-11-17'
 locale: fr_FR
 ---
 

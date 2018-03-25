@@ -4,11 +4,7 @@ tags:
     - Télévision
     - Heroes
 date: '2007-06-30'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-06-30'
 locale: fr_FR
 ---
 

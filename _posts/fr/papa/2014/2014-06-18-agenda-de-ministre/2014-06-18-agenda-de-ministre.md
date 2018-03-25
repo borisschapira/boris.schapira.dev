@@ -1,11 +1,7 @@
 ---
 title: 'Agenda de ministre'
 date: '2014-06-18'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-06-18'
 locale: fr_FR
 ---
 

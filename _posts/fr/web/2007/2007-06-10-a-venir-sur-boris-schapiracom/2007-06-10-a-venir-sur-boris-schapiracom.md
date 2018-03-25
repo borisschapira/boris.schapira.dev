@@ -1,11 +1,7 @@
 ---
 title: 'A venir sur Boris-Schapira.com'
-categories:
-    - web
 date: '2007-06-10'
-lang: fr
 type: post
-publishDate: '2007-06-10'
 locale: fr_FR
 ---
 

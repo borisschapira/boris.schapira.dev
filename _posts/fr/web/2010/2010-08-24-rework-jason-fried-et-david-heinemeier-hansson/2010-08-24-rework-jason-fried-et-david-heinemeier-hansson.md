@@ -3,11 +3,7 @@ title: '«&#160;Rework&#160;», Jason Fried et David Heinemeier Hansson'
 tags:
     - Management
 date: '2010-08-24'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-08-24'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'Un week-end normal'
 date: '2014-04-13'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-04-13'
 locale: fr_FR
 ---
 

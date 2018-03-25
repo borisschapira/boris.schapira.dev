@@ -4,11 +4,7 @@ tags:
     - Technologie
     - Web
 date: '2007-08-29'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-08-29'
 locale: fr_FR
 ---
 

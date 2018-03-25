@@ -5,11 +5,7 @@ tags:
     - 'Windows Live Writer'
     - Wordpress
 date: '2007-05-29'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-05-29'
 locale: fr_FR
 ---
 

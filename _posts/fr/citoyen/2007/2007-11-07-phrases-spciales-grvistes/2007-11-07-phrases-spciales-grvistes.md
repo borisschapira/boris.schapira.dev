@@ -3,11 +3,7 @@ title: 'Phrases… (spéciales grévistes)'
 tags:
     - Grève
 date: '2007-11-07'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2007-11-07'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'La salopette'
 date: '2013-06-13'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2013-06-13'
 locale: fr_FR
 ---
 

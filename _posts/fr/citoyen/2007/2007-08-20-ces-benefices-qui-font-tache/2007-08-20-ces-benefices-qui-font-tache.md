@@ -5,11 +5,7 @@ tags:
     - Publicité
     - Tabac
 date: '2007-08-20'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2007-08-20'
 locale: fr_FR
 ---
 

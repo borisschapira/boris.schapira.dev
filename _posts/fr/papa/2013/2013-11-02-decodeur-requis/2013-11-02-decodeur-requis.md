@@ -1,11 +1,7 @@
 ---
 title: 'Décodeur requis'
 date: '2013-11-02'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2013-11-02'
 locale: fr_FR
 ---
 

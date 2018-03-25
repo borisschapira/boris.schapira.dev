@@ -5,11 +5,7 @@ tags:
     - 'Windows Server 2008'
     - 'Windows Vista'
 date: '2007-08-21'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-08-21'
 locale: fr_FR
 ---
 

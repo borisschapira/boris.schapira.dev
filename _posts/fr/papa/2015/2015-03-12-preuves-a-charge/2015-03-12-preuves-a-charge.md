@@ -1,11 +1,7 @@
 ---
 title: 'Preuves à charge'
 date: '2015-03-12'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-03-12'
 locale: fr_FR
 ---
 

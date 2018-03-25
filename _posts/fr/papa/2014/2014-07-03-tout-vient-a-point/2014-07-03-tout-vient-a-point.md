@@ -1,11 +1,7 @@
 ---
 title: 'Tout vient à point...'
 date: '2014-07-03'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-07-03'
 locale: fr_FR
 ---
 

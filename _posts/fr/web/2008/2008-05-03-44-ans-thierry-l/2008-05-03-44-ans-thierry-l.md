@@ -1,11 +1,7 @@
 ---
 title: '44 ans (Thierry L.)'
-categories:
-    - web
 date: '2008-05-03'
-lang: fr
 type: post
-publishDate: '2008-05-03'
 locale: fr_FR
 ---
 

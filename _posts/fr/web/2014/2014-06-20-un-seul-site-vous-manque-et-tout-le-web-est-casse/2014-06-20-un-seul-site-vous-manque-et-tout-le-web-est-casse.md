@@ -5,11 +5,7 @@ tags:
     - 'Performance Web'
 canonical: http//blog.clever-age.com/fr/2014/06/20/un-seul-site-vous-manque-et-tout-le-web-est-casse/
 date: '2014-06-20'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2014-06-20'
 locale: fr_FR
 ---
 Ce détournement de la fameuse citation d'Alphonse de Lamartine est bien sûr dédié à la chute, hier dans la matinée, de Facebook.

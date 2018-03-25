@@ -4,11 +4,7 @@ tags:
     - 'Amis et famille'
     - Facebook
 date: '2007-09-23'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-09-23'
 locale: fr_FR
 ---
 

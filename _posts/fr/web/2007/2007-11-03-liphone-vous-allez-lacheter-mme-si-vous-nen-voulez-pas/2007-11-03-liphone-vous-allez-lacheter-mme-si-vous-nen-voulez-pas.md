@@ -6,11 +6,7 @@ tags:
     - iPhone
     - Publicité
 date: '2007-11-03'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-11-03'
 locale: fr_FR
 ---
 

@@ -4,11 +4,7 @@ tags:
     - 'Me, myself and I'
     - Conférences
 date: '2014-02-17'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2014-02-17'
 locale: fr_FR
 ---
 

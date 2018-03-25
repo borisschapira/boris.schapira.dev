@@ -4,11 +4,7 @@ tags:
     - Hardware
     - Test
 date: '2009-07-27'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-07-27'
 locale: fr_FR
 ---
 

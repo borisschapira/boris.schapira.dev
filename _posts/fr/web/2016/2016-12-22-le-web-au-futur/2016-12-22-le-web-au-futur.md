@@ -1,13 +1,9 @@
 ---
 title: 'Un Web au Futur'
 date: '2016-12-22'
-lang: fr
 type: post
-categories:
-    - web
 tags:
     - nowwwel
-publishDate: '2016-12-22'
 locale: fr_FR
 ---
 

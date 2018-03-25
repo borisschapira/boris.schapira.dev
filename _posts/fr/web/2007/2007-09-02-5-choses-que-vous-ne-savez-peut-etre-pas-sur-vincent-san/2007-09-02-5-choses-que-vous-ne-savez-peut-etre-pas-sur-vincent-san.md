@@ -1,11 +1,7 @@
 ---
 title: '5 choses que vous ne savez (peut-être) pas sur Vincent-San'
-categories:
-    - web
 date: '2007-09-02'
-lang: fr
 type: post
-publishDate: '2007-09-02'
 locale: fr_FR
 ---
 

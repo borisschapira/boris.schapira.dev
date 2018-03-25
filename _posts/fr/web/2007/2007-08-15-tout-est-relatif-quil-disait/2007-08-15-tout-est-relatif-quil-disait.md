@@ -3,11 +3,7 @@ title: 'Tout est relatif, qu''il disait !'
 tags:
     - 'Sécurité routière'
 date: '2007-08-15'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-08-15'
 locale: fr_FR
 ---
 

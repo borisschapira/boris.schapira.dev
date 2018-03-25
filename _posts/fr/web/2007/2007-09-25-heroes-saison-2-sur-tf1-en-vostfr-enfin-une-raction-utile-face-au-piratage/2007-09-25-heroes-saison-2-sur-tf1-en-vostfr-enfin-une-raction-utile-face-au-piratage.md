@@ -6,11 +6,7 @@ tags:
     - Télévision
     - TF1
 date: '2007-09-25'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-09-25'
 locale: fr_FR
 ---
 

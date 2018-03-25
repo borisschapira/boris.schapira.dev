@@ -1,11 +1,7 @@
 ---
 title: 'Et l''ancien chat ?'
 date: '2017-09-25'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-09-25'
 locale: fr_FR
 ---
 

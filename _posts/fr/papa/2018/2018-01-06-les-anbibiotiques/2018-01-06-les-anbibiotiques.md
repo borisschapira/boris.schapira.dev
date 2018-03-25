@@ -1,11 +1,7 @@
 ---
 title: 'Les anbibiotiques'
 date: '2018-01-06'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2018-01-06'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'Après la plage'
 date: '2016-08-27'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-08-27'
 locale: fr_FR
 ---
 

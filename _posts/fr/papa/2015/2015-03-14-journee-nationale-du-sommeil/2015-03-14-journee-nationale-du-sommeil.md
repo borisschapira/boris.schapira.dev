@@ -1,11 +1,7 @@
 ---
 title: 'Journée Nationale du Sommeil'
 date: '2015-03-14'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-03-14'
 locale: fr_FR
 ---
 

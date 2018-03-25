@@ -1,11 +1,7 @@
 ---
 title: 'Mon métier'
 date: '2017-11-02'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-11-02'
 locale: fr_FR
 ---
 

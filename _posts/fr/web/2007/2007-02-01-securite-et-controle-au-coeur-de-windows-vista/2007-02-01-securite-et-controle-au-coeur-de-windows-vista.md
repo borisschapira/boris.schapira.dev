@@ -5,11 +5,7 @@ tags:
     - Windows
     - 'Me, myself and I'
 date: '2007-02-01'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-02-01'
 locale: fr_FR
 ---
 

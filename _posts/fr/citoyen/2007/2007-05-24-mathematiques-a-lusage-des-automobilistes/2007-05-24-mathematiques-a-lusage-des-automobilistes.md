@@ -4,11 +4,7 @@ tags:
     - Société
     - 'Sécurité routière'
 date: '2007-05-24'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2007-05-24'
 locale: fr_FR
 ---
 

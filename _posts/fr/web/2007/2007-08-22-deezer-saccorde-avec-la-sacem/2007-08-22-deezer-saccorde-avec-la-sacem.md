@@ -4,11 +4,7 @@ tags:
     - Musique
     - Deezer
 date: '2007-08-22'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-08-22'
 locale: fr_FR
 ---
 

@@ -4,11 +4,7 @@ tags:
     - Education
     - 'Transformation numérique'
 date: '2015-04-10'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2015-04-10'
 locale: fr_FR
 ---
 

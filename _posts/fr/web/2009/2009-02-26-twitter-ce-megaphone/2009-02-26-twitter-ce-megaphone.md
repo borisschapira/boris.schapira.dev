@@ -5,11 +5,7 @@ tags:
     - 'Billet d''humeur'
     - Microblogging
 date: '2009-02-26'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-02-26'
 locale: fr_FR
 ---
 

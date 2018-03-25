@@ -3,11 +3,7 @@ title: 'L''analyse du projet de révision constitutionnelle : l''État d''urgenc
 tags:
     - 'État d''urgence'
 date: '2015-12-28'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2015-12-28'
 locale: fr_FR
 ---
 

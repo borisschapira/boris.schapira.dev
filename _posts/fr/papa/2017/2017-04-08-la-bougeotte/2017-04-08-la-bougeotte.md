@@ -1,11 +1,7 @@
 ---
 title: 'La bougeotte'
 date: '2017-04-08'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-04-08'
 locale: fr_FR
 ---
 

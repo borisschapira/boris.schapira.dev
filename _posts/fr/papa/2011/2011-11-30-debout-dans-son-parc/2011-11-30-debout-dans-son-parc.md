@@ -1,11 +1,7 @@
 ---
 title: 'Debout dans son parc'
 date: '2011-11-30'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2011-11-30'
 locale: fr_FR
 ---
 

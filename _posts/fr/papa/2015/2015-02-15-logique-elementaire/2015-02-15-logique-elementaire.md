@@ -1,11 +1,7 @@
 ---
 title: 'Logique élémentaire'
 date: '2015-02-15'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-02-15'
 locale: fr_FR
 ---
 

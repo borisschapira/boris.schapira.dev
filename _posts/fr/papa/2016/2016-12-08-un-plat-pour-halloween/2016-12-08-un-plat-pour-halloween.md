@@ -1,11 +1,7 @@
 ---
 title: 'Un plat pour Halloween'
 date: '2016-12-08'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-12-08'
 locale: fr_FR
 ---
 

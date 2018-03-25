@@ -6,11 +6,7 @@ tags:
     - Sharepoint
     - 'Visual Basic'
 date: '2007-04-25'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-04-25'
 locale: fr_FR
 ---
 

@@ -6,11 +6,7 @@ tags:
     - Publicité
     - Télévision
 date: '2009-11-02'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2009-11-02'
 locale: fr_FR
 ---
 

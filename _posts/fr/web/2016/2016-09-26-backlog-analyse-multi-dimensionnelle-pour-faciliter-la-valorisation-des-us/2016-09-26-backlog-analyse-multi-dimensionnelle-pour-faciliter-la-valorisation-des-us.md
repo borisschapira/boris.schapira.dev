@@ -1,11 +1,7 @@
 ---
 title: 'Backlog : analyse multi-dimensionnelle pour faciliter la valorisation des User Stories'
 date: '2016-09-26'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-09-26'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'Sur la porte, bordel'
 date: '2013-09-29'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2013-09-29'
 locale: fr_FR
 ---
 

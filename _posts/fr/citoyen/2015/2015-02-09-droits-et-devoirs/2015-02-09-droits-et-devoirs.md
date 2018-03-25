@@ -4,11 +4,7 @@ tags:
     - Société
     - Emploi
 date: '2015-02-09'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2015-02-09'
 locale: fr_FR
 ---
 

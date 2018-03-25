@@ -1,11 +1,7 @@
 ---
 title: 'Toujours habillé, du coup'
 date: '2013-07-06'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2013-07-06'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'La dame qui n''a pas de sexe'
 date: '2018-03-01'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2018-03-01'
 locale: fr_FR
 ---
 

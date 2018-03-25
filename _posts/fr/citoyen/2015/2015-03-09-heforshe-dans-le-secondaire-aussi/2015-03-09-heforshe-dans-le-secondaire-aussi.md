@@ -6,11 +6,7 @@ tags:
     - Société
     - Égalité
 date: '2015-03-09'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2015-03-09'
 locale: fr_FR
 ---
 

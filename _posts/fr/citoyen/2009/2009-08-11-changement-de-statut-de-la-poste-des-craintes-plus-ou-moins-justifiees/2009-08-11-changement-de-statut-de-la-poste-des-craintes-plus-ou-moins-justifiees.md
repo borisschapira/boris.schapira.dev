@@ -3,11 +3,7 @@ title: 'Changement de statut de la Poste : des craintes plus ou moins justifiée
 tags:
     - France
 date: '2009-08-11'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2009-08-11'
 locale: fr_FR
 ---
 

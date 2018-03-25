@@ -1,11 +1,7 @@
 ---
 title: 'Dernier jour @ Microsoft France'
-categories:
-    - web
 date: '2007-08-31'
-lang: fr
 type: post
-publishDate: '2007-08-31'
 locale: fr_FR
 ---
 

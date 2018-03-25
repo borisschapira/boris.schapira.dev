@@ -3,11 +3,7 @@ title: 'Des crèches dans les mairies'
 tags:
     - Laïcité
 date: '2010-12-15'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-12-15'
 locale: fr_FR
 ---
 

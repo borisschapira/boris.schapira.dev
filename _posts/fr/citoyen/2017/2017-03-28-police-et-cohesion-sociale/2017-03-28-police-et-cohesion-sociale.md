@@ -1,13 +1,9 @@
 ---
 title: 'Si on ne veille pas à renforcer la cohésion, ça risque d''éclater'
 date: '2017-03-28'
-lang: fr
 type: post
-categories:
-    - citoyen
 tags:
     - police
-publishDate: '2017-03-28'
 locale: fr_FR
 ---
 

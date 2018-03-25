@@ -3,11 +3,7 @@ title: 'Bienvenue au nouveau lecteur des blogs'
 tags:
     - Sarkozy
 date: '2008-03-19'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2008-03-19'
 locale: fr_FR
 ---
 

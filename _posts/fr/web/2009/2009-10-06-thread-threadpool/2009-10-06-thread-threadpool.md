@@ -4,11 +4,7 @@ canonical: 'http://www.nexeo.fr/blog/2009/10/06/lastuce-du-jour-thread-ou-thread
 tags:
     - Nexdotnet
 date: '2009-10-06'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-10-06'
 locale: fr_FR
 ---
 

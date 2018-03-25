@@ -1,11 +1,7 @@
 ---
 title: 'Éducations sexuelles'
 date: '2017-03-08'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2017-03-08'
 locale: fr_FR
 ---
 

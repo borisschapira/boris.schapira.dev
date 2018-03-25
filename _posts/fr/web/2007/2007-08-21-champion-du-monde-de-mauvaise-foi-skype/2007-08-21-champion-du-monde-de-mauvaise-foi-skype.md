@@ -4,11 +4,7 @@ tags:
     - Technologie
     - Crash
 date: '2007-08-21'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-08-21'
 locale: fr_FR
 ---
 

@@ -1,12 +1,8 @@
 ---
 title: 'Injection d''indépendance'
 date: '2018-01-16'
-lang: fr
 type: post
 i18n-key: independence-injection
-categories:
-    - papa
-publishDate: '2018-01-16'
 locale: fr_FR
 ---
 

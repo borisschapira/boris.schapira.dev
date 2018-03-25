@@ -3,11 +3,7 @@ title: '«&#160;Métronome&#160;», Lorànt Deutsch'
 tags:
     - Histoire
 date: '2010-03-24'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-03-24'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'La stènaltite'
 date: '2017-03-05'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-03-05'
 locale: fr_FR
 ---
 

@@ -3,11 +3,7 @@ title: 'L''espace entre les barreaux'
 tags:
     - 'État d''urgence'
 date: '2016-02-08'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2016-02-08'
 locale: fr_FR
 ---
 

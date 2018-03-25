@@ -4,11 +4,7 @@ tags:
     - Technologie
     - 'Imagine Cup'
 date: '2007-08-10'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-08-10'
 locale: fr_FR
 ---
 

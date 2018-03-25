@@ -3,11 +3,7 @@ title: 'Jour des Projets ESIEE : les prix'
 tags:
     - ESIEE
 date: '2007-06-27'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-06-27'
 locale: fr_FR
 ---
 

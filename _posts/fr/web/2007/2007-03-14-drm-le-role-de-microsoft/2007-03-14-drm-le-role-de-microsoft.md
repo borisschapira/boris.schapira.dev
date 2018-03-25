@@ -4,11 +4,7 @@ tags:
     - 'Vie privée'
     - Numérique
 date: '2007-03-14'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-03-14'
 locale: fr_FR
 ---
 

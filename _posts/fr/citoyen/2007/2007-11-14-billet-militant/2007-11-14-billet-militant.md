@@ -4,11 +4,7 @@ tags:
     - Société
     - Grève
 date: '2007-11-14'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2007-11-14'
 locale: fr_FR
 ---
 

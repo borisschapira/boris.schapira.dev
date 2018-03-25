@@ -4,11 +4,7 @@ tags:
     - Société
     - France
 date: '2007-11-10'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2007-11-10'
 locale: fr_FR
 ---
 

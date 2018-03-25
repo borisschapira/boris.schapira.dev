@@ -1,11 +1,7 @@
 ---
 title: 'Culture musicale'
 date: '2012-10-22'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2012-10-22'
 locale: fr_FR
 ---
 

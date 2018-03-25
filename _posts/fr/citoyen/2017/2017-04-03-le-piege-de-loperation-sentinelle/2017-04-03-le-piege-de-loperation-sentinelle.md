@@ -1,15 +1,11 @@
 ---
 title: 'Le piège de l''opération Sentinelle'
 date: '2017-04-03'
-lang: fr
 type: post
-categories:
-    - citoyen
 tags:
     - police
     - armée
     - 'État d''Urgence'
-publishDate: '2017-04-03'
 locale: fr_FR
 ---
 

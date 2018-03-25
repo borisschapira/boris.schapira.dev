@@ -1,11 +1,7 @@
 ---
 title: 'Ça commence mal'
 date: '2014-02-20'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-02-20'
 locale: fr_FR
 ---
 

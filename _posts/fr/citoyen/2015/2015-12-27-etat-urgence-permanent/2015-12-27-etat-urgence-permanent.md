@@ -3,11 +3,7 @@ title: 'État d''urgence permanent'
 tags:
     - 'État d''urgence'
 date: '2015-12-27'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2015-12-27'
 locale: fr_FR
 loadTwitterWjs: true
 ---

@@ -1,11 +1,7 @@
 ---
 title: 'Attribut de "grand"'
 date: '2014-11-18'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-11-18'
 locale: fr_FR
 ---
 

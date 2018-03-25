@@ -3,11 +3,7 @@ title: '[Rétro] Il y a dix ans… février 2008.'
 tags:
     - Rétro
 date: '2018-02-01'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2018-02-01'
 locale: fr_FR
 ---
 

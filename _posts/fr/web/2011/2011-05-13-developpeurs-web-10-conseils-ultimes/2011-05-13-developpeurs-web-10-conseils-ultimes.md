@@ -3,11 +3,7 @@ title: 'Développeurs Web : 10 conseils ultimes…'
 tags:
     - Front-End
 date: '2011-05-13'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2011-05-13'
 locale: fr_FR
 ---
 

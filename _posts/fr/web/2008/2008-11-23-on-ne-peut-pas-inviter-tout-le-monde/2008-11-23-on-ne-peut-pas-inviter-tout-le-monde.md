@@ -1,11 +1,7 @@
 ---
 title: 'On ne peut pas inviter tout le monde…'
-categories:
-    - web
 date: '2008-11-23'
-lang: fr
 type: post
-publishDate: '2008-11-23'
 locale: fr_FR
 ---
 

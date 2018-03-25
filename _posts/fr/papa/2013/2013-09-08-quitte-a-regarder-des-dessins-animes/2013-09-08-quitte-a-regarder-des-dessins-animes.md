@@ -1,11 +1,7 @@
 ---
 title: 'Quitte à regarder des dessins animés...'
 date: '2013-09-08'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2013-09-08'
 locale: fr_FR
 ---
 

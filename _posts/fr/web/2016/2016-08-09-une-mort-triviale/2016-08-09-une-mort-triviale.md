@@ -4,11 +4,7 @@ i18n-key: death-the-trivial-way
 tags:
     - 'Intelligence Artificielle'
 date: '2016-08-09'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-08-09'
 locale: fr_FR
 ---
 

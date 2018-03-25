@@ -1,11 +1,7 @@
 ---
 title: 'Spiderman le pipi'
 date: '2016-06-12'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-06-12'
 locale: fr_FR
 ---
 

@@ -4,11 +4,7 @@ tags:
     - Emploi
     - 'Trouver un stage ou une alternance'
 date: '2008-02-27'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-02-27'
 locale: fr_FR
 ---
 

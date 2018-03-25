@@ -1,11 +1,7 @@
 ---
 title: 'L''énigme de la mèche coupée'
 date: '2016-09-23'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-09-23'
 locale: fr_FR
 ---
 

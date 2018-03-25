@@ -4,11 +4,7 @@ tags:
     - Technologie
     - 'Windows Vista'
 date: '2007-04-19'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-04-19'
 locale: fr_FR
 ---
 

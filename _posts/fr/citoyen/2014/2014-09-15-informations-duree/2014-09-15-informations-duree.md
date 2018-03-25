@@ -3,11 +3,7 @@ title: 'Informations dans la durée'
 tags:
     - Histoire
 date: '2014-09-15'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2014-09-15'
 locale: fr_FR
 ---
 

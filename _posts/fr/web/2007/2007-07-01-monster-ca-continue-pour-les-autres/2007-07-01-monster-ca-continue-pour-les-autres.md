@@ -6,11 +6,7 @@ tags:
     - Emploi
     - Monster
 date: '2007-07-01'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-07-01'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'C''est pas très coordonné tout ça'
 date: '2011-01-28'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2011-01-28'
 locale: fr_FR
 ---
 

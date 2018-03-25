@@ -1,11 +1,7 @@
 ---
 title: 'Fils de pâtissière'
 date: '2017-06-06'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-06-06'
 locale: fr_FR
 ---
 

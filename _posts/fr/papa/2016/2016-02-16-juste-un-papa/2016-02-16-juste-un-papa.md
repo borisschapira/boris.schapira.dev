@@ -1,11 +1,7 @@
 ---
 title: 'Juste un papa'
 date: '2016-02-16'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-02-16'
 locale: fr_FR
 ---
 

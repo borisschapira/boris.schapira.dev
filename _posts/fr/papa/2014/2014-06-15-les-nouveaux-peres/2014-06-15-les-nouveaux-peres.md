@@ -1,11 +1,7 @@
 ---
 title: 'Les nouveaux pères'
 date: '2014-06-15'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-06-15'
 locale: fr_FR
 ---
 

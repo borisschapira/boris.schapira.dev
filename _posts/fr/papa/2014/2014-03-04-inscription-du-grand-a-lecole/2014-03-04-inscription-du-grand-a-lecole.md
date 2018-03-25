@@ -1,11 +1,7 @@
 ---
 title: 'Inscription du grand à l''école'
 date: '2014-03-04'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-03-04'
 locale: fr_FR
 ---
 

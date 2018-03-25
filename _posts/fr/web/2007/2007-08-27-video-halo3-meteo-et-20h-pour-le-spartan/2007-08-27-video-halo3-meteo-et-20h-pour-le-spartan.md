@@ -4,11 +4,7 @@ tags:
     - Buzz
     - Halo3
 date: '2007-08-27'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-08-27'
 locale: fr_FR
 ---
 

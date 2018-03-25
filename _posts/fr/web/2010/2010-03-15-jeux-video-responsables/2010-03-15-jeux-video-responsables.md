@@ -3,11 +3,7 @@ title: 'Jeux vidéo responsables'
 tags:
     - 'Jeu Video'
 date: '2010-03-15'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-03-15'
 locale: fr_FR
 ---
 

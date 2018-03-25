@@ -1,11 +1,7 @@
 ---
 title: 'Plug''n''Play'
 date: '2012-10-25'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2012-10-25'
 locale: fr_FR
 ---
 

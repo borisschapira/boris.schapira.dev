@@ -3,11 +3,7 @@ title: 'Petits utilitaires du quotidien sous XP'
 tags:
     - Outils
 date: '2006-08-30'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2006-08-30'
 locale: fr_FR
 ---
 

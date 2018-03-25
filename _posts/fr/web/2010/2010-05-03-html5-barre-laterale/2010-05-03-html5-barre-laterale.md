@@ -4,11 +4,7 @@ tags:
     - Front-End
     - Projets
 date: '2010-05-03'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-05-03'
 locale: fr_FR
 ---
 

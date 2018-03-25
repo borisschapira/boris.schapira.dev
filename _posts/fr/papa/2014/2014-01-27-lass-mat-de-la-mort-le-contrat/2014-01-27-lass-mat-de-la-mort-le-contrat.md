@@ -1,11 +1,7 @@
 ---
 title: 'L''Ass. Mat de la mort : le contrat'
 date: '2014-01-27'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-01-27'
 locale: fr_FR
 ---
 

@@ -5,11 +5,7 @@ tags:
     - Publicité
     - Web
 date: '2008-12-24'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2008-12-24'
 locale: fr_FR
 ---
 

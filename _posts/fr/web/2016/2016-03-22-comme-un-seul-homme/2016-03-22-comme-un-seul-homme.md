@@ -3,11 +3,7 @@ title: 'Comme un seul homme'
 tags:
     - 'open source'
 date: '2016-03-22'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-03-22'
 locale: fr_FR
 ---
 

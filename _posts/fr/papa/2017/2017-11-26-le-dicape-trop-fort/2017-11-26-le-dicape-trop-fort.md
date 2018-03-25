@@ -1,11 +1,7 @@
 ---
 title: 'Le ''dicapé trop fort'
 date: '2017-11-26'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-11-26'
 locale: fr_FR
 ---
 

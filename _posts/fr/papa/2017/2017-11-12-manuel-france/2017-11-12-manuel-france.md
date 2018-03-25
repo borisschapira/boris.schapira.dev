@@ -1,11 +1,7 @@
 ---
 title: 'Manuel France'
 date: '2017-11-12'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-11-12'
 locale: fr_FR
 ---
 

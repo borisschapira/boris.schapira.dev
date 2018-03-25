@@ -1,11 +1,7 @@
 ---
 title: Impatience
 date: '2015-09-16'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-09-16'
 locale: fr_FR
 ---
 

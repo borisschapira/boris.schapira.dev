@@ -2,11 +2,7 @@
 title: 'Appauvrissent et marginalisation'
 tags: null
 date: '2015-01-24'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2015-01-24'
 locale: fr_FR
 ---
 

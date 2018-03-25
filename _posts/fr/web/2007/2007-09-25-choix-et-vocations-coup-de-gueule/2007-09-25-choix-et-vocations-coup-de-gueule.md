@@ -4,11 +4,7 @@ tags:
     - 'Billet d''humeur'
     - Éducation
 date: '2007-09-25'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-09-25'
 locale: fr_FR
 ---
 

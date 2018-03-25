@@ -5,11 +5,7 @@ tags:
 series:
     - 'Sud Web 2014'
 date: '2014-05-17'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2014-05-17'
 locale: fr_FR
 ---
 

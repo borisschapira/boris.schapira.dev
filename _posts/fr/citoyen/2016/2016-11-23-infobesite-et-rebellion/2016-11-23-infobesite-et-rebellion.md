@@ -3,11 +3,7 @@ title: 'Infobésité et rébellion'
 tags:
     - Éducation
 date: '2016-11-23'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2016-11-23'
 locale: fr_FR
 ---
 

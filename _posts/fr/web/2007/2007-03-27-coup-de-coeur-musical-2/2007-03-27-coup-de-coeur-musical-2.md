@@ -1,11 +1,7 @@
 ---
 title: 'Rose - La liste'
-categories:
-    - web
 date: '2007-03-27'
-lang: fr
 type: post
-publishDate: '2007-03-27'
 locale: fr_FR
 ---
 

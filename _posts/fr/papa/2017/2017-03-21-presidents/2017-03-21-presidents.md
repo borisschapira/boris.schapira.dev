@@ -1,11 +1,7 @@
 ---
 title: 'Eux, Présidents'
 date: '2017-03-21'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-03-21'
 locale: fr_FR
 ---
 

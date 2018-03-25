@@ -1,11 +1,7 @@
 ---
 title: 'Les topains'
 date: '2016-08-02'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-08-02'
 locale: fr_FR
 ---
 

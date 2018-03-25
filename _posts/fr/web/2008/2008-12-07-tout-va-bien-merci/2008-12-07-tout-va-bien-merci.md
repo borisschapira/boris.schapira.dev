@@ -3,11 +3,7 @@ title: 'Tout va bien, merci.'
 tags:
     - 'Me, myself and I'
 date: '2008-12-07'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-12-07'
 locale: fr_FR
 ---
 

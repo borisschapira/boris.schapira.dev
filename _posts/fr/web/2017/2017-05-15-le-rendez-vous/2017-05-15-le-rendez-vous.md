@@ -1,13 +1,9 @@
 ---
 title: 'Le rendez-vous'
 date: '2017-05-15'
-lang: fr
 type: post
-categories:
-    - web
 tags:
     - anecdotes
-publishDate: '2017-05-15'
 locale: fr_FR
 ---
 

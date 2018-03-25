@@ -1,11 +1,7 @@
 ---
 title: Accessibilité
 date: '2014-03-01'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-03-01'
 locale: fr_FR
 ---
 

@@ -6,11 +6,7 @@ tags:
     - Free
     - 'Me, myself and I'
 date: '2008-11-25'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-11-25'
 locale: fr_FR
 ---
 

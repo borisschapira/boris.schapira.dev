@@ -3,11 +3,7 @@ title: 'Boursiers et Grandes Ecoles'
 tags:
     - Éducation
 date: '2010-05-08'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2010-05-08'
 locale: fr_FR
 ---
 

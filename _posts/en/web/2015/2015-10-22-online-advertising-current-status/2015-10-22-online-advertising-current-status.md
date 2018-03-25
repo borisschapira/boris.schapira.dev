@@ -8,11 +8,7 @@ tags:
     - Presse
 canonical: 'http://blog.clever-age.com/en/2015/12/14/online-advertising-the-current-status/'
 date: '2015-10-22'
-lang: en
 type: post
-categories:
-    - web
-publishDate: '2015-10-22'
 locale: en_US
 ---
 

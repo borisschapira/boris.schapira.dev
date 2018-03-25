@@ -1,11 +1,7 @@
 ---
 title: 'Pas préparés'
 date: '2015-02-10'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-02-10'
 locale: fr_FR
 ---
 

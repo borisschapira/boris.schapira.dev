@@ -4,11 +4,7 @@ tags:
     - 'État d''urgence'
     - Terrorisme
 date: '2016-08-24'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2016-08-24'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: Embêtants
 date: '2017-01-08'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-01-08'
 locale: fr_FR
 ---
 

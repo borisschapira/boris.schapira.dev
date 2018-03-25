@@ -5,11 +5,7 @@ tags:
     - Hardware
     - Microsoft
 date: '2007-09-21'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-09-21'
 locale: fr_FR
 ---
 

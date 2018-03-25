@@ -1,11 +1,7 @@
 ---
 title: 'Amp Bookmarklet'
 date: '2016-02-25'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-02-25'
 locale: fr_FR
 ---
 

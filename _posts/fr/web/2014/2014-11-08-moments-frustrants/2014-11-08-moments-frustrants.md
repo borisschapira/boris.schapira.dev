@@ -4,11 +4,7 @@ tags:
     - Front-End
     - Conférences
 date: '2014-11-08'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2014-11-08'
 locale: fr_FR
 ---
 

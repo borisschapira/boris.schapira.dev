@@ -3,11 +3,7 @@ title: 'TechDays : les nouveautés de la plénière #2'
 tags:
     - Conférences
 date: '2009-02-11'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-02-11'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'Les crocodiles'
 date: '2017-11-23'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-11-23'
 locale: fr_FR
 ---
 

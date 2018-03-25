@@ -5,11 +5,7 @@ tags:
     - Finance
     - Consulting
 date: '2009-07-22'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-07-22'
 locale: fr_FR
 ---
 

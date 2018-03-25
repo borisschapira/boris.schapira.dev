@@ -7,11 +7,7 @@ tags:
     - Nexeo
     - SGCIB
 date: '2009-03-31'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-03-31'
 locale: fr_FR
 ---
 

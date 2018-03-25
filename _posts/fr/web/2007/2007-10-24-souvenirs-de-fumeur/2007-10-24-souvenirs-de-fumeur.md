@@ -4,11 +4,7 @@ tags:
     - 'Memory Lane'
     - Tabac
 date: '2007-10-24'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-10-24'
 locale: fr_FR
 ---
 

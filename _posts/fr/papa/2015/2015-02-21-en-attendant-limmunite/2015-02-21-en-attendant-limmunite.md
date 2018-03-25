@@ -1,11 +1,7 @@
 ---
 title: 'En attendant l''immunité'
 date: '2015-02-21'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-02-21'
 locale: fr_FR
 ---
 

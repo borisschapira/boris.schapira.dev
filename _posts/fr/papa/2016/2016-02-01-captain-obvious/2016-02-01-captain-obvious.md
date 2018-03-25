@@ -1,11 +1,7 @@
 ---
 title: 'Captain Obvious'
 date: '2016-02-01'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-02-01'
 locale: fr_FR
 ---
 

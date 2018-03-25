@@ -3,11 +3,7 @@ title: 'Retour sur : Projet Epsilon'
 tags:
     - 'Me, myself and I'
 date: '2011-02-20'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2011-02-20'
 locale: fr_FR
 ---
 

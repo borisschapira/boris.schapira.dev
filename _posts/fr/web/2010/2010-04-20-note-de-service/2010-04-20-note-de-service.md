@@ -3,11 +3,7 @@ title: 'En province'
 tags:
     - 'Me, myself and I'
 date: '2010-04-20'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-04-20'
 locale: fr_FR
 ---
 

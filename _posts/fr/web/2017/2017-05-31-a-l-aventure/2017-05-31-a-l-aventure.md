@@ -2,11 +2,7 @@
 title: 'À l''aventure'
 date: '2017-05-31'
 main_image: assets/images/2017-05-31/forest.jpg
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2017-05-31'
 locale: fr_FR
 ---
 

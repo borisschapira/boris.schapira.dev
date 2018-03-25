@@ -5,11 +5,7 @@ tags:
     - 'Performance Web'
 canonical: 'http://blog.clever-age.com/fr/2015/09/04/http-archive-comprendre-le-present-en-observant-le-passe/'
 date: '2015-09-04'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2015-09-04'
 locale: fr_FR
 ---
 

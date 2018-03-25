@@ -1,11 +1,7 @@
 ---
 title: Projection
 date: '2016-06-17'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-06-17'
 locale: fr_FR
 ---
 

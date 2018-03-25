@@ -1,11 +1,7 @@
 ---
 title: Pinocchio
 date: '2016-04-16'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-04-16'
 locale: fr_FR
 ---
 

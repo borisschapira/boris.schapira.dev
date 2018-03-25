@@ -1,11 +1,7 @@
 ---
 title: 'Anesthésier les consciences'
 date: '2017-03-21'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2017-03-21'
 locale: fr_FR
 ---
 

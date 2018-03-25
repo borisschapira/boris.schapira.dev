@@ -3,11 +3,7 @@ title: '«&#160;Deus Ex : Human Revolution&#160;» Trailer'
 tags:
     - 'Jeu Video'
 date: '2010-06-05'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-06-05'
 locale: fr_FR
 ---
 

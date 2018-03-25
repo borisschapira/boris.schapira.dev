@@ -1,11 +1,7 @@
 ---
 title: 'L''âme légère'
-categories:
-    - web
 date: '2009-01-19'
-lang: fr
 type: post
-publishDate: '2009-01-19'
 locale: fr_FR
 ---
 

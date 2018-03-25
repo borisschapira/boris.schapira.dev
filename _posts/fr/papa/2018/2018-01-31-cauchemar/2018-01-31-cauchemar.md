@@ -1,11 +1,7 @@
 ---
 title: Cauchemar
 date: '2018-01-31'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2018-01-31'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'Un stagiaire'
 date: '2016-12-16'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-12-16'
 locale: fr_FR
 ---
 

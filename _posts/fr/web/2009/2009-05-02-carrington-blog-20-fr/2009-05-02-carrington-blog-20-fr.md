@@ -4,11 +4,7 @@ tags:
     - Développement
     - Wordpress
 date: '2009-05-02'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-05-02'
 locale: fr_FR
 ---
 

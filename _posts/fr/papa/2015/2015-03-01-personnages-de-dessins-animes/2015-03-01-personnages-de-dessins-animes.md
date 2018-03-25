@@ -1,11 +1,7 @@
 ---
 title: 'Personnages de dessins animés'
 date: '2015-03-01'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-03-01'
 locale: fr_FR
 ---
 

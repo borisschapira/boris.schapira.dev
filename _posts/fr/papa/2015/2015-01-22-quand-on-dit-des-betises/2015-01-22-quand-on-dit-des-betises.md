@@ -1,11 +1,7 @@
 ---
 title: 'Quand on dit des bêtises'
 date: '2015-01-22'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-01-22'
 locale: fr_FR
 ---
 

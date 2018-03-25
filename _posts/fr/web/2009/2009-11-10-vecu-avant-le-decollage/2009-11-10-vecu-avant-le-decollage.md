@@ -3,11 +3,7 @@ title: '[Vécu] Avant le décollage…'
 tags:
     - 'Billet d''humeur'
 date: '2009-11-10'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-11-10'
 locale: fr_FR
 ---
 

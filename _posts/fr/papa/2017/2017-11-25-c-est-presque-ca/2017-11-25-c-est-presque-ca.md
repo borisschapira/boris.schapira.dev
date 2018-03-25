@@ -1,11 +1,7 @@
 ---
 title: 'C''est presque ça'
 date: '2017-11-25'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-11-25'
 locale: fr_FR
 ---
 

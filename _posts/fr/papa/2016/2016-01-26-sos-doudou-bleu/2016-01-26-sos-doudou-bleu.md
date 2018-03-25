@@ -1,11 +1,7 @@
 ---
 title: 'Introuvable !'
 date: '2016-01-26'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-01-26'
 locale: fr_FR
 ---
 

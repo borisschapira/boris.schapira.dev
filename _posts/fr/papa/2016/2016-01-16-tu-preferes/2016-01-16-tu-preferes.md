@@ -1,11 +1,7 @@
 ---
 title: 'Tu préfères…'
 date: '2016-01-16'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-01-16'
 locale: fr_FR
 ---
 

@@ -5,11 +5,7 @@ tags:
     - France
     - Religion
 date: '2009-11-23'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2009-11-23'
 locale: fr_FR
 ---
 

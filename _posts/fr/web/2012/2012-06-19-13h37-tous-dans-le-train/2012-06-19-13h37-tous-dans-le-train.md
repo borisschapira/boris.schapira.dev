@@ -4,11 +4,7 @@ tags:
     - 'Scripts Tiers'
     - Front-End
 date: '2012-06-19'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2012-06-19'
 locale: fr_FR
 ---
 

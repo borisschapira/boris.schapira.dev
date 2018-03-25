@@ -3,11 +3,7 @@ title: 'L''Imagine Cup s''offre une soirée virtuelle'
 tags:
     - 'Imagine Cup'
 date: '2007-06-25'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-06-25'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: Pickpocket
 date: '2017-12-11'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-12-11'
 locale: fr_FR
 ---
 

@@ -3,11 +3,7 @@ title: '[PS3] Heavy Rain'
 tags:
     - 'Jeu Video'
 date: '2010-04-04'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-04-04'
 locale: fr_FR
 ---
 

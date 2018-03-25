@@ -5,11 +5,7 @@ tags:
     - 'Billet d''humeur'
     - Microblogging
 date: '2007-11-17'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-11-17'
 locale: fr_FR
 ---
 

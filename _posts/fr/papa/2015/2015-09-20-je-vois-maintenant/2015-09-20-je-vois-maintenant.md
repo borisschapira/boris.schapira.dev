@@ -1,11 +1,7 @@
 ---
 title: 'Je vois maintenant'
 date: '2015-09-20'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-09-20'
 locale: fr_FR
 ---
 

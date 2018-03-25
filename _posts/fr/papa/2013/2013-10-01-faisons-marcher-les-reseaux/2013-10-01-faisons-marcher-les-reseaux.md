@@ -1,11 +1,7 @@
 ---
 title: 'Faisons marcher les réseaux'
 date: '2013-10-01'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2013-10-01'
 locale: fr_FR
 ---
 

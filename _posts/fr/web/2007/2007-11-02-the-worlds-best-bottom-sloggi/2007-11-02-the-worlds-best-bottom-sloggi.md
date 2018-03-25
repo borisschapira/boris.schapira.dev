@@ -3,11 +3,7 @@ title: 'The world''s best bottom (Sloggi)'
 tags:
     - Sexy
 date: '2007-11-02'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-11-02'
 locale: fr_FR
 ---
 

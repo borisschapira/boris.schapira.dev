@@ -3,11 +3,7 @@ title: 'Phrases Insolites… #19 : Clients From Hell'
 series:
     - 'Phrases insolites'
 date: '2010-06-24'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-06-24'
 locale: fr_FR
 ---
 

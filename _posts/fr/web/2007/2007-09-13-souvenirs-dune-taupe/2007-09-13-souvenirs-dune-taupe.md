@@ -1,11 +1,7 @@
 ---
 title: 'Souvenirs d''une taupe'
-categories:
-    - web
 date: '2007-09-13'
-lang: fr
 type: post
-publishDate: '2007-09-13'
 locale: fr_FR
 ---
 

@@ -4,11 +4,7 @@ tags:
     - Outils
     - Veille
 date: '2015-01-05'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2015-01-05'
 locale: fr_FR
 ---
 

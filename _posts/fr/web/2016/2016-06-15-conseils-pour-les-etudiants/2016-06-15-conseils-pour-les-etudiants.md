@@ -3,11 +3,7 @@ title: 'Conseils pour mes étudiants'
 tags:
     - Enseignement
 date: '2016-06-15'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-06-15'
 locale: fr_FR
 ---
 

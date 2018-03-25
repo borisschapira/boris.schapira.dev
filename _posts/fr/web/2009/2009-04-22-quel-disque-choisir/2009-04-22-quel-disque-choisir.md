@@ -6,11 +6,7 @@ tags:
     - 'Ready Nas Duo'
     - Stockage
 date: '2009-04-22'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-04-22'
 locale: fr_FR
 ---
 

@@ -3,11 +3,7 @@ title: 'Des personnages féminins forts'
 tags:
     - Égalité
 date: '2016-06-26'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2016-06-26'
 locale: fr_FR
 ---
 

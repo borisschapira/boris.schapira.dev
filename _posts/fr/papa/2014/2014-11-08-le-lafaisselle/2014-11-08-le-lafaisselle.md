@@ -1,11 +1,7 @@
 ---
 title: 'Le lafaisselle'
 date: '2014-11-08'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-11-08'
 locale: fr_FR
 ---
 

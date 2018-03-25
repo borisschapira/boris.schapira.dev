@@ -1,11 +1,7 @@
 ---
 title: 'Réduire le suivi'
 date: '2016-11-21'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-11-21'
 locale: fr_FR
 ---
 

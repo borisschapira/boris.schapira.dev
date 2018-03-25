@@ -4,11 +4,7 @@ tags:
     - Insolite
     - 'Me, myself and I'
 date: '2008-07-10'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-07-10'
 locale: fr_FR
 ---
 

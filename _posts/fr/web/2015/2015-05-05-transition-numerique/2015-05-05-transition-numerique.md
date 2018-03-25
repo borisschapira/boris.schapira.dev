@@ -4,11 +4,7 @@ tags:
     - 'Transformation numérique'
     - Presse
 date: '2015-05-05'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2015-05-05'
 locale: fr_FR
 ---
 

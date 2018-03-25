@@ -4,11 +4,7 @@ tags:
     - Technologie
     - Microblogging
 date: '2009-06-24'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-06-24'
 locale: fr_FR
 ---
 

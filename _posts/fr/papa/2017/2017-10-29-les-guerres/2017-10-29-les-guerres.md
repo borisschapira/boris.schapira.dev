@@ -1,11 +1,7 @@
 ---
 title: 'Les guerres'
 date: '2017-10-29'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-10-29'
 locale: fr_FR
 ---
 

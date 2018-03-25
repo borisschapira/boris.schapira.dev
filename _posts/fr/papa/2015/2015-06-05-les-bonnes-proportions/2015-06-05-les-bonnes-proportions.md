@@ -1,11 +1,7 @@
 ---
 title: 'Les bonnes proportions'
 date: '2015-06-05'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-06-05'
 locale: fr_FR
 ---
 

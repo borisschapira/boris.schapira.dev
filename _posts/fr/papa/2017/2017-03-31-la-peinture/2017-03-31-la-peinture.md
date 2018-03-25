@@ -1,11 +1,7 @@
 ---
 title: 'La peinture'
 date: '2017-03-31'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-03-31'
 locale: fr_FR
 ---
 

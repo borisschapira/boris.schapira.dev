@@ -4,11 +4,7 @@ tags:
     - Culture
     - Souvenir
 date: '2008-03-19'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-03-19'
 locale: fr_FR
 ---
 

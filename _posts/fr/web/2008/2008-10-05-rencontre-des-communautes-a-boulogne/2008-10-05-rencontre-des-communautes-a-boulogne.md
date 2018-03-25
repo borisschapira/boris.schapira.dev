@@ -5,11 +5,7 @@ tags:
     - Boulogne
     - Microsoft
 date: '2008-10-05'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-10-05'
 locale: fr_FR
 ---
 

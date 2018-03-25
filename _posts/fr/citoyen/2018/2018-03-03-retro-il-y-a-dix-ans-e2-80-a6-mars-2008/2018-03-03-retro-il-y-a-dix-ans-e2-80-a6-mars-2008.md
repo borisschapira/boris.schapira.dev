@@ -3,11 +3,7 @@ title: '[Rétro] Il y a dix ans… mars 2008.'
 tags:
     - Rétro
 date: '2018-03-03'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2018-03-03'
 locale: fr_FR
 ---
 

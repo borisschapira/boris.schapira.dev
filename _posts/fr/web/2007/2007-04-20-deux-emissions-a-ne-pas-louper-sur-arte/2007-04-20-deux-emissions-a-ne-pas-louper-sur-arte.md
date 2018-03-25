@@ -7,11 +7,7 @@ tags:
     - IBM
     - Microsoft
 date: '2007-04-20'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-04-20'
 locale: fr_FR
 ---
 

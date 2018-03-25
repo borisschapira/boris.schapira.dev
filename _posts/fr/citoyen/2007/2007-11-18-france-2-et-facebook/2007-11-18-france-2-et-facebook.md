@@ -5,11 +5,7 @@ tags:
     - Technologie
     - Facebook
 date: '2007-11-18'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2007-11-18'
 locale: fr_FR
 ---
 

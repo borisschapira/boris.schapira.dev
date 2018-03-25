@@ -5,11 +5,7 @@ tags:
     - 'Performance Web'
 canonical: 'http://blog.clever-age.com/fr/2013/07/02/f12-de-ie11-du-nouveau-pour-les-developpeurs/'
 date: '2013-07-02'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2013-07-02'
 locale: fr_FR
 ---
 

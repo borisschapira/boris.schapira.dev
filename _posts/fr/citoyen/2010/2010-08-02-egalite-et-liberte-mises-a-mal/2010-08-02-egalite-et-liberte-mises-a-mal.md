@@ -3,11 +3,7 @@ title: 'Egalité et Liberté mises à mal'
 tags:
     - Égalité
 date: '2010-08-02'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2010-08-02'
 locale: fr_FR
 ---
 

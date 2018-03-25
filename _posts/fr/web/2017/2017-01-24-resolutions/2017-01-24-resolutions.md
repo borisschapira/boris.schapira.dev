@@ -3,11 +3,7 @@ title: Résolutions
 tags:
     - 'Me, myself & I'
 date: '2017-01-24'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2017-01-24'
 locale: fr_FR
 ---
 ## Retour sur 2016

@@ -1,11 +1,7 @@
 ---
 title: 'On écrit sur les murs'
 date: '2018-01-18'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2018-01-18'
 locale: fr_FR
 ---
 

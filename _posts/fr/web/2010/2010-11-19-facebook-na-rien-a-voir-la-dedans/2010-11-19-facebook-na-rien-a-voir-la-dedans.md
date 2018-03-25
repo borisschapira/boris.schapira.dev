@@ -3,11 +3,7 @@ title: 'Facebook n''a rien à voir là-dedans'
 tags:
     - Emploi
 date: '2010-11-19'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-11-19'
 locale: fr_FR
 ---
 

@@ -4,11 +4,7 @@ tags:
     - Technologie
     - 'Windows Live Hotmail'
 date: '2007-04-17'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-04-17'
 locale: fr_FR
 ---
 

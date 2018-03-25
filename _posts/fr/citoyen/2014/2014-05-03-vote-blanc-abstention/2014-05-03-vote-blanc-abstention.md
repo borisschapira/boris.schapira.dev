@@ -1,11 +1,7 @@
 ---
 title: 'Vote blanc, abstention'
 date: '2014-05-03'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2014-05-03'
 locale: fr_FR
 ---
 

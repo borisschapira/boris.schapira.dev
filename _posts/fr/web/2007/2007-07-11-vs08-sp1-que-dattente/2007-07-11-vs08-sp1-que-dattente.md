@@ -4,11 +4,7 @@ tags:
     - .NET
     - Windows
 date: '2007-07-11'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-07-11'
 locale: fr_FR
 ---
 

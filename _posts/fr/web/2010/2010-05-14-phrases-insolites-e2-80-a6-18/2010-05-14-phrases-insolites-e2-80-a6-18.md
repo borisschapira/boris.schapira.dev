@@ -3,11 +3,7 @@ title: 'Phrases Insolites… #18'
 series:
     - 'Phrases insolites'
 date: '2010-05-14'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-05-14'
 locale: fr_FR
 ---
 

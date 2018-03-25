@@ -5,11 +5,7 @@ tags:
     - IPol
     - Présidentielles
 date: '2007-05-03'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2007-05-03'
 locale: fr_FR
 ---
 

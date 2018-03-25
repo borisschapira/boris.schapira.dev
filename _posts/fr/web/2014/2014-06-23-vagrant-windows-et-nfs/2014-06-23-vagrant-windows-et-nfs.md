@@ -4,11 +4,7 @@ tags:
     - Outils
     - Windows
 date: '2014-06-23'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2014-06-23'
 locale: fr_FR
 ---
 

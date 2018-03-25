@@ -1,11 +1,7 @@
 ---
 title: 'Promenons-nous dans les bois'
 date: '2016-06-24'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-06-24'
 locale: fr_FR
 ---
 

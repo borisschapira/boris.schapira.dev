@@ -1,11 +1,7 @@
 ---
 title: '«&#160;I am Legend&#160;» : c''est vous qui voyez'
-categories:
-    - web
 date: '2007-12-23'
-lang: fr
 type: post
-publishDate: '2007-12-23'
 locale: fr_FR
 ---
 

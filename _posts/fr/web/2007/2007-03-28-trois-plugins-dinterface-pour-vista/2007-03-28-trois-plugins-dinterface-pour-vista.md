@@ -3,11 +3,7 @@ title: 'Marre du classique Alt+Tab ?'
 tags:
     - Outils
 date: '2007-03-28'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-03-28'
 locale: fr_FR
 ---
 

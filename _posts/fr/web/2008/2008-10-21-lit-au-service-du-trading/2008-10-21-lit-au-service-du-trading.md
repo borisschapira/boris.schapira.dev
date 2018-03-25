@@ -6,11 +6,7 @@ tags:
     - Emploi
     - Nexeo
 date: '2008-10-21'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-10-21'
 locale: fr_FR
 ---
 

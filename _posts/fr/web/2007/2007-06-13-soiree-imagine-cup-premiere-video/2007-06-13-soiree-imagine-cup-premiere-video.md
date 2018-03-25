@@ -3,11 +3,7 @@ title: 'Soirée Imagine Cup : première vidéo'
 tags:
     - 'Imagine Cup'
 date: '2007-06-13'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-06-13'
 locale: fr_FR
 ---
 

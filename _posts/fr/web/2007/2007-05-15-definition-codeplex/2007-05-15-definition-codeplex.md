@@ -7,11 +7,7 @@ tags:
     - Microsoft
     - 'Open Source'
 date: '2007-05-15'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-05-15'
 locale: fr_FR
 ---
 

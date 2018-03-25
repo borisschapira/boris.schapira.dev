@@ -7,11 +7,7 @@ tags:
     - Insolite
     - Société
 date: '2008-09-09'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2008-09-09'
 locale: fr_FR
 ---
 

@@ -3,11 +3,7 @@ title: 'Deepfish : le poisson lanterne de Microsoft'
 tags:
     - Outils
 date: '2007-04-01'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-04-01'
 locale: fr_FR
 ---
 

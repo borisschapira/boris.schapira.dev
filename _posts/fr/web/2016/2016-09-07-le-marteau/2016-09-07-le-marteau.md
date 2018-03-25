@@ -3,11 +3,7 @@ title: 'Le syndrôme du marteau'
 tags:
     - Conseil
 date: '2016-09-07'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2016-09-07'
 locale: fr_FR
 ---
 

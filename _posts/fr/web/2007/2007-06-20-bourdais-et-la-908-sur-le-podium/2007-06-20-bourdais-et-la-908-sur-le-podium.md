@@ -6,11 +6,7 @@ tags:
     - 'Sébastien Bourdais'
     - XBox360
 date: '2007-06-20'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-06-20'
 locale: fr_FR
 ---
 

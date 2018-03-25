@@ -3,11 +3,7 @@ title: 'Les anti-système'
 tags:
     - Présidentielle
 date: '2017-01-31'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2017-01-31'
 locale: fr_FR
 ---
 

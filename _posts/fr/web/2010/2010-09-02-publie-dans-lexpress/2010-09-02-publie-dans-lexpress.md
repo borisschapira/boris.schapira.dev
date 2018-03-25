@@ -3,11 +3,7 @@ title: 'Publié dans L''Express'
 tags:
     - 'Me, myself and I'
 date: '2010-09-02'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-09-02'
 locale: fr_FR
 ---
 

@@ -3,11 +3,7 @@ title: 'Le stage, CDD déguisé'
 tags:
     - Emploi
 date: '2011-04-19'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2011-04-19'
 locale: fr_FR
 ---
 

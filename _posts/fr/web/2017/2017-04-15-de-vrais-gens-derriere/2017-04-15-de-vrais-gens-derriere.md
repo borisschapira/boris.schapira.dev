@@ -1,13 +1,9 @@
 ---
 title: 'De vrais gens, derrière'
 date: '2017-04-15'
-lang: fr
 type: post
-categories:
-    - web
 tags:
     - anecdotes
-publishDate: '2017-04-15'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'Victime de la mode'
 date: '2018-02-25'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2018-02-25'
 locale: fr_FR
 ---
 

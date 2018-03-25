@@ -1,11 +1,7 @@
 ---
 title: 'Sortir Mamie'
 date: '2016-04-17'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-04-17'
 locale: fr_FR
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: 'Cupidon du cracra'
 date: '2011-08-25'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2011-08-25'
 locale: fr_FR
 ---
 

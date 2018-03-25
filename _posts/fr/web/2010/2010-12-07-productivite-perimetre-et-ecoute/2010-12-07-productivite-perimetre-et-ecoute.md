@@ -3,11 +3,7 @@ title: 'Productivité, périmètre et écoute'
 tags:
     - Management
 date: '2010-12-07'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2010-12-07'
 locale: fr_FR
 ---
 

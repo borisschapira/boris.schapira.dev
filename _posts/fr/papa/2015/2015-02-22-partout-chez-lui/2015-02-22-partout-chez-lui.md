@@ -1,11 +1,7 @@
 ---
 title: 'Partout chez lui'
 date: '2015-02-22'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-02-22'
 locale: fr_FR
 ---
 

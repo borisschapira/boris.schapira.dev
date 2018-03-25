@@ -1,11 +1,7 @@
 ---
 title: 'Comparaison numérique'
 date: '2017-02-03'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2017-02-03'
 locale: fr_FR
 ---
 

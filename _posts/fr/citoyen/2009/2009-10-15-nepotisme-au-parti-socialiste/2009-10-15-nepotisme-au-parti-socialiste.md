@@ -4,11 +4,7 @@ tags:
     - France
     - 'Jean Sarkozy'
 date: '2009-10-15'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2009-10-15'
 locale: fr_FR
 ---
 

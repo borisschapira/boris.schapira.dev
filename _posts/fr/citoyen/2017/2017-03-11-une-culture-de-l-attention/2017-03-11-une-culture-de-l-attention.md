@@ -1,11 +1,7 @@
 ---
 title: 'Une culture de l''attention'
 date: '2017-03-11'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2017-03-11'
 locale: fr_FR
 ---
 

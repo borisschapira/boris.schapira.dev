@@ -1,11 +1,7 @@
 ---
 title: 'Souvenir d''enfance'
 date: '2014-11-23'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-11-23'
 locale: fr_FR
 ---
 

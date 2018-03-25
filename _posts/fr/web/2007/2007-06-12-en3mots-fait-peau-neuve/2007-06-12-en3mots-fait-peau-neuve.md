@@ -3,11 +3,7 @@ title: 'En3mots fait peau neuve'
 tags:
     - En3Mots
 date: '2007-06-12'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-06-12'
 locale: fr_FR
 ---
 

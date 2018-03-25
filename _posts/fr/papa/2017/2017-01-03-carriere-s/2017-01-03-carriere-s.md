@@ -1,11 +1,7 @@
 ---
 title: Carrière(s)
 date: '2017-01-03'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-01-03'
 locale: fr_FR
 ---
 

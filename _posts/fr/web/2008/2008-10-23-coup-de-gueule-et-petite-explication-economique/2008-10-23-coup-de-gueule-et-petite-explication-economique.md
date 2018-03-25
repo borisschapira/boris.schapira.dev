@@ -3,13 +3,9 @@ title: 'Coup de Gueule et petite explication économique'
 tags:
     - Finance
     - 'Billet d''humeur'
-    - Economie
+    - Économie
 date: '2008-10-23'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-10-23'
 locale: fr_FR
 ---
 

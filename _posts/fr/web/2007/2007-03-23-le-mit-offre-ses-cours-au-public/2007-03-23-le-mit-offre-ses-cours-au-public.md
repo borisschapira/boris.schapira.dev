@@ -3,11 +3,7 @@ title: 'MIT Open Course Ware'
 tags:
     - Education
 date: '2007-03-23'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-03-23'
 locale: fr_FR
 ---
 

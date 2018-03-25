@@ -3,11 +3,7 @@ title: 'BootScout : poisson ou véritable révolution ?'
 tags:
     - Outils
 date: '2007-04-03'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-04-03'
 locale: fr_FR
 ---
 

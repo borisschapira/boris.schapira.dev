@@ -4,11 +4,7 @@ tags:
     - Technologie
     - 'Microsoft Surface'
 date: '2007-06-04'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-06-04'
 locale: fr_FR
 ---
 

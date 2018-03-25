@@ -4,11 +4,7 @@ canonical: 'http://www.nexeo.fr/blog/2009/08/10/une-application-net-sur-iphone/'
 tags:
     - Nexdotnet
 date: '2009-08-10'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-08-10'
 locale: fr_FR
 ---
 

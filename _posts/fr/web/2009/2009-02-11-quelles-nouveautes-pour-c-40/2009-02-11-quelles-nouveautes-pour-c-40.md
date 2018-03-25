@@ -3,11 +3,7 @@ title: 'Quelles nouveautés pour C# 4.0'
 tags:
     - .NET
 date: '2009-02-11'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-02-11'
 locale: fr_FR
 ---
 

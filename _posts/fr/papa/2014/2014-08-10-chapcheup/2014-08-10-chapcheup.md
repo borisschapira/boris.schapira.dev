@@ -1,11 +1,7 @@
 ---
 title: Chapcheup
 date: '2014-08-10'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2014-08-10'
 locale: fr_FR
 ---
 

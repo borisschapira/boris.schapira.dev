@@ -4,11 +4,7 @@ tags:
     - 'Me, myself and I'
     - 'Amis et famille'
 date: '2007-08-14'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2007-08-14'
 locale: fr_FR
 ---
 

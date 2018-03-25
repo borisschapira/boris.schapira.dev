@@ -1,11 +1,7 @@
 ---
 title: 'Quand ça veut pas'
 date: '2017-03-08'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-03-08'
 locale: fr_FR
 ---
 

@@ -2,11 +2,7 @@
 title: 'Grévistes, arrêtez de bloquer le pays…'
 tags: null
 date: '2010-10-18'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2010-10-18'
 locale: fr_FR
 ---
 

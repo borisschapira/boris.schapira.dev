@@ -1,11 +1,7 @@
 ---
 title: 'Cuisine de grands'
 date: '2015-02-04'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2015-02-04'
 locale: fr_FR
 ---
 

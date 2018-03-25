@@ -4,11 +4,7 @@ tags:
     - Humour
     - Insolite
 date: '2009-07-07'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-07-07'
 locale: fr_FR
 ---
 

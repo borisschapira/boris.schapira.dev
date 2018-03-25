@@ -1,11 +1,7 @@
 ---
 title: 'Jeu de cartes'
 date: '2017-06-19'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2017-06-19'
 locale: fr_FR
 ---
 

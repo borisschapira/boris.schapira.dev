@@ -4,11 +4,7 @@ tags:
     - Technologie
     - Wordpress
 date: '2009-08-03'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2009-08-03'
 locale: fr_FR
 ---
 

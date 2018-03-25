@@ -1,11 +1,7 @@
 ---
 title: 'Le cadeau de noël'
 date: '2016-11-25'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-11-25'
 locale: fr_FR
 ---
 

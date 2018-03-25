@@ -2,11 +2,7 @@
 title: 'Madame Irma'
 main_image: assets/images/papa/2016-02-19/irma.jpg
 date: '2016-02-19'
-lang: fr
 type: post
-categories:
-    - papa
-publishDate: '2016-02-19'
 locale: fr_FR
 ---
 

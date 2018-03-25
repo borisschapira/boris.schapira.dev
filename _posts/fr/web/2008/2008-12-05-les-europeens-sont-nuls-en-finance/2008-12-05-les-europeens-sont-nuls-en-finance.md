@@ -2,14 +2,10 @@
 title: 'Les européens sont nuls en Finance'
 tags:
     - Finance
-    - Economie
+    - Économie
     - 'Parlement Européen'
 date: '2008-12-05'
-lang: fr
 type: post
-categories:
-    - web
-publishDate: '2008-12-05'
 locale: fr_FR
 ---
 

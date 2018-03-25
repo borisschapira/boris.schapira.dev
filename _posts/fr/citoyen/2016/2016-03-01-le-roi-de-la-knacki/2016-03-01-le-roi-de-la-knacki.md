@@ -4,11 +4,7 @@ tags:
     - Égalité
     - HeForShe
 date: '2016-03-01'
-lang: fr
 type: post
-categories:
-    - citoyen
-publishDate: '2016-03-01'
 locale: fr_FR
 ---
 
