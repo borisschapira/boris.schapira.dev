@@ -31,8 +31,6 @@ Mes dépendances Ruby sont gérées par [Bundler](http://bundler.io/) :
 * pour la génération d'images <span lang="en">responsive</span> : `jekyll-responsive_image` ;
 * pour le `sitemap.xml` : `jekyll-sitemap`.
 
-J'en oublie sûrement mais vous pourrez trouver l'ensemble des dépendances [sur le dépôt Github](https://github.com/borisschapira/jekyll/blob/master/Gemfile "Squelette Jekyll de BorisSchapira.com").
-
 L'internationalisation est permise par `i18n` et le `i18n_filter`[^2].
 
 [^2]: La technique de localisation est détaillée dans le [guide de démarrage Jekyll de Thomas Brelet](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/#localiser-jekyll).

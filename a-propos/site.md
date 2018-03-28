@@ -19,7 +19,7 @@ Consultant en Web Performance depuis quelques années, j'ai décidé un jour de 
 
 ### Côté serveur
 
-J'ai commencé par jeter mon blog Wordpress pour le remplacer par un générateur de site statique[^static] en <em lang="en">node</em>, [Hexo](https://github.com/hexojs/hexo). Après avoir déterminé les limites de l'outil et contribué à quelques <em lang="en">plugins</em>, j'ai décidé de migrer vers [<em lang="en">Jekyll</em>](https://jekyllrb.com/), plus rapide, plus abouti et dont la communauté Ruby me semblait plus mûre.
+J'ai commencé par jeter mon blog Wordpress pour le remplacer par un générateur de site statique[^static] en <em lang="en">node</em>, [Hexo](https://github.com/hexojs/hexo). Après avoir déterminé les limites de l'outil et contribué à quelques <em lang="en">plugins</em>, j'ai décidé de migrer vers [<em lang="en">Jekyll</em>](https://jekyllrb.com/) dont la communauté me semblait plus mûre.
 
 [^static]: Frank Taillandier a merveilleusement bien croqué la [mouvance statique](http://frank.taillandier.me/2016/03/08/les-gestionnaires-de-contenu-statique/) sur son blog.
 
@@ -31,7 +31,7 @@ Mes dépendances Ruby sont gérées par [Bundler](http://bundler.io/) :
 * pour la pagination : `jekyll-paginate-v2` ;
 * pour la micro-typographie française : `jekyll-microtypo`.
 
-J'en oublie sûrement mais vous pourrez trouver l'ensemble des dépendances [sur le dépôt Github](https://github.com/borisschapira/jekyll/blob/master/Gemfile "Squelette Jekyll de BorisSchapira.com").
+J'en oublie sûrement mais vous pourrez trouver l'ensemble des dépendances [sur le dépôt Github](https://github.com/borisschapira/borisschapira.com/blob/master/Gemfile "Squelette Jekyll de BorisSchapira.com").
 
 L'internationalisation est permise par `i18n` et le `i18n_filter`[^2].
 
@@ -45,17 +45,15 @@ J'utilise [node](https://nodejs.org/), et plus particulièrement [gulp](http://g
 
 ### Compilation et déploiement
 
-Mon code est architecturé en deux dépôts. Un dépôt contient les articles du blog au format [Markdown](https://fr.wikipedia.org/wiki/Markdown), une syntaxe légère idéale pour rédiger[^3]. J'utilise les <em lang="en">hooks</em> de GitHub pour interfacer ce dépôt à [Codeship](https://codeship.com/) (une solution d'intégration continue) qui se charge d'exécuter des tests avec [rspec](http://rspec.info/) pour vérifier que le contenu des en-têtes Front-Matter sont valides en <abbr lang="en" title="YAML Ain't Markup Language">YAML</abbr>. Si c'est le cas, alors [Codeship](https://codeship.com/) publie les articles sur un [dépôt public](https://github.com/borisschapira/blog). Puis clone le dépôt Jekyll et met à jour la référence du <em lang="en">submodule</em> git[^4].
+Mes pages et articles sont écrits au format [Markdown](https://fr.wikipedia.org/wiki/Markdown), une syntaxe légère idéale pour rédiger[^3]. J'utilise les <em lang="en">hooks</em> de GitHub pour interfacer ce dépôt à [Netlify](https://www.netlify.com/) qui se charge d'exécuter des tests avec [rspec](http://rspec.info/) pour vérifier que le contenu des en-têtes Front-Matter sont valides en <abbr lang="en" title="YAML Ain't Markup Language">YAML</abbr>. Si c'est le cas, alors Netlify compile le site.
 
-Ce dépôt, mis à jour, lance également une opération sur [Codeship](https://codeship.com/) : récupération de la dernière version des articles, du code et des dépendances, compilation de tout cela en un site Web et tests via [html-proofer](https://github.com/gjtorikian/html-proofer).
+Le site généré est alors testé via [html-proofer](https://github.com/gjtorikian/html-proofer) pour vérifier que les pages ne contiennent pas d'erreurs.
 
-Si cette étape d'intégration est valide et que le code est bien contribué sur la branche `master`, alors [Codeship](https://codeship.com/) s'occupe du déploiement du site statique ainsi généré chez mon hébergeur, <a href="https://www.alwaysdata.com/">alwaysdata</a>. Le dernier déploiement a été réalisé le {{ site.time | localize: '%A %-d %B %Y' }}.
+Si tout se passe bien alors Netlify déploie le site généré sur son <abbr title="Content Delivery Network">CDN</abbr>.
+
+Le dernier déploiement a été réalisé le {{ site.time | localize: '%A %-d %B %Y' }}.
 
 [^3]: Lire à ce propos [cet excellent article de Romy sur les syntaxes légères](http://romy.tetue.net/syntaxes-legeres-pour-rediger)
-
-[^4]: Ne ratez pas cette [présentation complète des submodules git par Christophe Porteneuve](http://www.git-attitude.fr/2014/12/31/git-submodules/)
-
-Si tout se passe bien, alors le site se retrouve en Production.
 
 ### Côté Client
 
@@ -70,7 +68,3 @@ Une partie de mon code CSS et JS est dédiée à l'accessibilité et j'essaie é
 Afin de contrôler ce qui se passe sur mon site (notamment pour détecter des tentatives d'injections), j'ai positionné un certain nombre de règles [Content Security Policy](https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9/CSP) et des rapports sont enregistrés dans une base de données à chaque infraction[^7].
 
 [^7]: Merci à [Nicolas Hoffman](https://twitter.com/Nico3333fr) de m'avoir sensibilisé à cette problématique durant [sa présentation à Paris Web 2015](http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/ "CSP: Content Security Policy").
-
-Parce que je suis curieux, j'ai installé Google Analytics. Je suis conscient que certains d'entre vous veulent un peu d'intimité. Je vous encourage, dans ce cas, à faire comme moi : bloquer l'ensemble des domaines auxquels vous ne souhaitez pas faire confiance, au sein de votre navigateur ou ailleurs sur votre machine. Ça passe par la manipulation de votre fichier `hosts` et il y a des scripts pour automatiser tout ça[^6]. Enfin, contrairement aux <em lang="en">ads blockers</em>, c'est transparent en performance.
-
-[^6]: J'utilise pour ma part les [scripts de blocage de domaines de Steven Black](https://github.com/StevenBlack/hosts).
