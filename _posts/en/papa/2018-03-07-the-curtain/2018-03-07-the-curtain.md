@@ -1,7 +1,6 @@
 ---
 title: "The curtain"
 date: '2018-03-07'
-lang: en
 type: post
 i18n-key: the-curtain
 categories:

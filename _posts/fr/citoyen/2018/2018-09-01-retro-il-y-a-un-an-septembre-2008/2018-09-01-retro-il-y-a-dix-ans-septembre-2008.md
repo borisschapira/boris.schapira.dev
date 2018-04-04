@@ -3,7 +3,6 @@ title: '[Rétro] Il y a dix ans… septembre 2008.'
 tags:
     - Rétro
 date: '2018-09-01'
-lang: fr
 type: post
 categories:
     - citoyen

@@ -1,0 +1,73 @@
+---
+layout: default
+title: Recherche
+i18n-key: search
+---
+
+{% capture post-template %}
+    <h2><a href="{% raw %}{{{url}}}{% endraw %}">{% raw %}{{{_highlightResult.title.value}}}{% endraw %}</a></h2><p>{% raw %}{{{_highlightResult.content.value}}}{% endraw %}</p>
+{% endcapture %}
+
+<div id="search-box">
+    <!-- SearchBox widget will appear here -->
+</div>
+
+<div id="refinement-list">
+    <!-- RefinementList widget will appear here -->
+  </div>
+
+<div id="hits">
+    <!-- Hits widget will appear here -->
+</div>
+
+<div id="pagination-container">
+    <!-- Pagintation will appear here -->
+</div>
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.css">
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch-theme-algolia.min.css">
+
+<script>
+    const search = instantsearch({
+        appId: '{{ site.algolia.application_id }}',
+        apiKey: '{{ site.algolia.api_key }}',
+        indexName: '{{ site.algolia.index_name }}',
+        urlSync: true
+    });
+
+    search.addWidgets(
+        [
+        instantsearch.widgets.refinementList({
+            container: '#refinement-list',
+            attributeName: 'categories'
+        }),
+        
+        instantsearch.widgets.searchBox({
+            container: '#search-box',
+            placeholder: 'Recherche',
+            autofocus: false,
+            poweredBy: true,
+            reset: true,
+            loadingIndicator: false
+        }),
+        
+        instantsearch.widgets.hits({
+            container: '#hits',
+            templates: {
+                empty: 'Aucun résultat&nbsp;!',
+                item: '{{ post-template }}'
+            }
+        }),
+
+        instantsearch.widgets.pagination({
+            container: '#pagination-container',
+            maxPages: 20,
+            scrollTo: false,
+            showFirstLast: false
+        })
+        ]
+    );
+
+    search.start();
+</script>

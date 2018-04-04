@@ -1,7 +1,6 @@
 ---
 title: "A Happy Meal for grown-ups"
 date: '2018-01-12'
-lang: en
 type: post
 i18n-key: happy-meal
 categories:

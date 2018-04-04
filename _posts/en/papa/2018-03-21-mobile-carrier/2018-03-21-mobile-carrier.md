@@ -1,7 +1,6 @@
 ---
 title: "Mobile carrier"
 date: '2018-03-21'
-lang: en
 type: post
 i18n-key: mobile-carrier
 categories:

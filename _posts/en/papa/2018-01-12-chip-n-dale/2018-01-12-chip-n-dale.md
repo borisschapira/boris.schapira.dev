@@ -1,7 +1,6 @@
 ---
 title: "Chip 'n' Dale"
 date: '2018-01-12'
-lang: en
 type: post
 i18n-key: chip-dale
 categories:

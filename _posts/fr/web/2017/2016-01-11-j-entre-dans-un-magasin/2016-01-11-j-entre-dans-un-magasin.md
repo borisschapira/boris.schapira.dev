@@ -1,7 +1,6 @@
 ---
 title: "\"J'entre dans un magasin\""
 date: '2017-01-11'
-lang: fr
 type: post
 categories:
     - web

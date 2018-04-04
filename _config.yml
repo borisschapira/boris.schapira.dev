@@ -5,14 +5,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-# Lang configuration
-lang: fr
+# I18n configuration
 locale: fr_FR
 defaults:
   - scope:
       path: ""
     values:
-      lang: fr
       locale: fr_FR
       base-url: "/"
   - scope:
@@ -182,8 +180,14 @@ dareboost:
 
 # Other parameters are defined through environment variables
 algolia:
+  application_id: 97EL687MDM
+  index_name: jekyll
+  api_key: 121a196f122a96cba48609ba6cee2839
   nodes_to_index: 'p,blockquote,li,div.paragraph'
-  indexing_batch_size: 50
+  indexing_batch_size: 200
+  settings:
+    highlightPreTag: '<mark>'
+    highlightPostTag: '</mark>'
 
 compress_html:
   ignore:

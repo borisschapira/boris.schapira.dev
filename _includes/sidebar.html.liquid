@@ -24,6 +24,11 @@
         itemtype="http://schema.org/ListItem">
         <a href="{{ 'papa/' | prepend: page.base-url }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Papa %}</a>
         </li>
+
+        {% comment %}{% if the-locale == 'fr_FR' %}<li class="sidebar-nav-item{% if page.i18n-key == 'search' %} active{% endif %}" itemprop="itemSearchResultsPage" itemscope
+        itemtype="http://schema.org/SearchResultsPage">
+        <a href="{{ 'recherche/' | prepend: page.base-url }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Recherche %}</a>
+        </li>{% endif %}{% endcomment %}
       </ul>
 
       <div class="lang">

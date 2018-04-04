@@ -17,13 +17,19 @@ module Jekyll
             post.data['next_context'] = if index == 0
                                           nil
                                         else
-                                          locale_cat_posts[index - 1]
+                                          {
+                                            'title' => locale_cat_posts[index - 1].data['title'], 
+                                            'url' => locale_cat_posts[index - 1].data['url']
+                                          }
                                         end
 
             post.data['prev_context'] = if index == locale_cat_posts.size - 1
                                           nil
                                         else
-                                          locale_cat_posts[index + 1]
+                                          {
+                                            'title' => locale_cat_posts[index + 1].data['title'], 
+                                            'url' => locale_cat_posts[index + 1].data['url']
+                                          }
                                         end
           end
         end

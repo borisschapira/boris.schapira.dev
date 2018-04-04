@@ -1,7 +1,6 @@
 ---
 title: "Doctor of the not dead"
 date: '2018-03-08'
-lang: en
 type: post
 i18n-key: doctor-of-the-not-dead
 categories:

@@ -80,7 +80,7 @@ namespace :postbuild do
       end
 
       puts 'Pushing index to algolia…'
-      jekyll("algolia --config _config.yml,#{config_file} --verbose", 'production')
+      jekyll("algolia", 'production')
     end
   end
 

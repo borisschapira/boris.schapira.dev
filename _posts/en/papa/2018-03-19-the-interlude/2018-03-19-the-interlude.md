@@ -1,7 +1,6 @@
 ---
 title: "The interlude"
 date: '2018-03-19'
-lang: en
 type: post
 i18n-key: entracte
 categories:
