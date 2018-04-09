@@ -30,17 +30,26 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" href="{{ site.author.feed }}">
 
-  <!-- Lang and/or indexation of pagination -->
+  <!-- Lang and indexation -->
+  {% if page.robots %}
+    {% assign noindex = page.robots.noindex | default: false %}
+    {% assign nofollow = page.robots.nofollow | default: false %}
+  {% endif %}
   {% if page.translation %}
-    {% unless paginator and paginator.page > 1 %}
-      {% assign lang = page.translation.locale | slice: 0,2 %}
+    {% assign lang = page.translation.locale | slice: 0,2 %}
+  {% endif %}
+  {% if paginator and paginator.page > 1 %}
+    {% assign noindex = true %}
+  {% else %}
+    {% if page.translation %}
       <link rel="alternate" hreflang="{{ lang }}" href="{{ page.translation.url }}"/>
-      {% else %}
-      <meta name="robots" content="noindex">
-    {% endunless %}
+    {% endif %}
+  {% endif %}
+
+  {% if noindex or nofollow %}
+  <meta name="robots" content="{% if noindex %}no{% endif %}index, {% if nofollow %}no{% endif %}follow">
   {% endif %}
   
-
   <!-- Social Media -->
   {% include head-compute-socials.html.liquid %}
 
