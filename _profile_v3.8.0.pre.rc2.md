@@ -1,0 +1,55 @@
+Filename                                                                                                                                                                      | Count |     Bytes |    Time
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+-----------+--------
+_layouts/default.html                                                                                                                                                         |  1335 | 87725.76K | 137.642
+_includes/post.html.liquid                                                                                                                                                    |  1312 |  8576.29K |  21.680
+_layouts/microtypo.html                                                                                                                                                       |  1335 | 87748.21K |  19.313
+_layouts/post.html                                                                                                                                                            |   970 |  7016.97K |  17.976
+_includes/head.html.liquid                                                                                                                                                    |  1335 | 40830.50K |  15.539
+_layouts/compress.html                                                                                                                                                        |  1335 | 84473.02K |  13.520
+_layouts/index.html                                                                                                                                                           |   197 |  3088.72K |   9.085
+_includes/head-compute-socials.html.liquid                                                                                                                                    |  1335 |    67.79K |   8.898
+_layouts/archives.html                                                                                                                                                        |   145 |  2844.16K |   8.753
+_includes/sidebar.html.liquid                                                                                                                                                 |  1335 | 17158.14K |   6.433
+_includes/comments.html.liquid                                                                                                                                                |   970 |  2742.02K |   4.842
+_includes/sidebar-follow-icons.html.liquid                                                                                                                                    |  1335 |  3462.64K |   2.462
+_includes/reading_time.html.liquid                                                                                                                                            |  1312 |   913.62K |   2.223
+sitemap.xml                                                                                                                                                                   |     1 |   132.54K |   1.252
+_includes/post_footer.html.liquid                                                                                                                                             |   970 |   586.36K |   0.990
+_includes/footer.html.liquid                                                                                                                                                  |  1335 |   969.33K |   0.759
+_includes/post_related.html.liquid                                                                                                                                            |   970 |   435.37K |   0.741
+_includes/pagination.html.liquid                                                                                                                                              |   197 |   203.27K |   0.709
+_includes/img/avatar.svg.liquid                                                                                                                                               |  1335 | 11795.98K |   0.418
+_includes/rwd-image.html.liquid                                                                                                                                               |    59 |   128.06K |   0.349
+_layouts/category-feed.html                                                                                                                                                   |     7 |   834.88K |   0.283
+_includes/video_as_a_gif.html.liquid                                                                                                                                          |   100 |    57.44K |   0.224
+_includes/symbols.svg.liquid                                                                                                                                                  |  1335 | 15318.60K |   0.210
+_includes/post_in_feed.html.liquid                                                                                                                                            |     7 |   782.67K |   0.154
+variable)                                                                                                                                                                     |  1335 |    24.86K |   0.139
+_includes/styles/core.min.css                                                                                                                                                 |  1335 |  3490.03K |   0.137
+_includes/styles/papa.min.css                                                                                                                                                 |   431 | 10716.92K |   0.118
+_includes/comment.html.liquid                                                                                                                                                 |    11 |    46.01K |   0.115
+_includes/styles/web.min.css                                                                                                                                                  |   456 | 11086.05K |   0.109
+_includes/styles/main.min.css                                                                                                                                                 |   265 |  6443.59K |   0.096
+_includes/date_en.html.liquid                                                                                                                                                 |    25 |     2.29K |   0.061
+_includes/styles/citoyen.min.css                                                                                                                                              |   183 |  3850.15K |   0.040
+_posts/fr/web/2010/2010-05-19-tour-dhorizon-de-windows-phone-7/2010-05-19-tour-dhorizon-de-windows-phone-7.md                                                                 |     1 |    22.64K |   0.030
+_confs/industrialiser-le-dev-front-end.md                                                                                                                                     |     1 |    16.31K |   0.020
+_posts/en/web/2017/2017-12-18-defer-script-to-speed-up-rendering/2017-12-18-defer-script-to-speed-up-rendering.md                                                             |     1 |    16.70K |   0.018
+_layouts/conf.html                                                                                                                                                            |    14 |    54.58K |   0.016
+_posts/fr/web/2017/2017-05-15-le-rendez-vous/2017-05-15-le-rendez-vous.md                                                                                                     |     1 |    15.25K |   0.016
+_posts/fr/web/2013/2013-05-14-il-faut-repenser-windows/2013-05-14-il-faut-repenser-windows.md                                                                                 |     1 |    11.42K |   0.016
+_posts/fr/papa/2017/2017-03-26-la-ceinture/2017-03-26-la-ceinture.md                                                                                                          |     1 |     0.70K |   0.015
+_posts/fr/web/2017/2017-10-29-optimiser-les-images-et-reduire-leur-poids-formats-outils-et-rwd/2017-10-29-optimiser-les-images-et-reduire-leur-poids-formats-outils-et-rwd.md |     1 |    23.53K |   0.015
+_posts/en/web/2018/2018-01-18-optimize-your-mp4-video-for-better-performance/2018-01-18-optimize-your-mp4-video-for-better-performance.md                                     |     1 |    14.89K |   0.015
+_posts/fr/papa/2016/2016-01-17-comme-sur-des-rails/2016-01-17-comme-sur-des-rails.md                                                                                          |     1 |     3.90K |   0.014
+_posts/fr/web/2017/2017-02-01-apps-vs-web-apps/2017-02-01-apps-vs-web-apps.md                                                                                                 |     1 |    12.37K |   0.014
+_posts/en/web/2018/2018-02-22-static-website-web-performance/2018-02-22-static-website-web-performance.md                                                                     |     1 |    20.78K |   0.014
+_posts/en/web/2017/2017-10-29-optimize-images-to-reduce-page-weight-file-formats-tools-and-rwd/2017-10-29-optimize-images-to-reduce-page-weight-file-formats-tools-and-rwd.md |     1 |    20.45K |   0.014
+_posts/fr/web/2013/2013-11-14-github-lopen-source-qui-conquiert-le-monde/2013-11-14-github-lopen-source-qui-conquiert-le-monde.md                                             |     1 |    12.75K |   0.013
+_posts/fr/web/2010/2010-09-02-vs2010-productivity-power-tools/2010-09-02-vs2010-productivity-power-tools.md                                                                   |     1 |     8.02K |   0.012
+_posts/en/web/2014/2014-03-13-conquering-ab-testing/2014-03-13-conquering-ab-testing.md                                                                                       |     1 |    18.39K |   0.012
+_posts/fr/web/2018/2018-02-22-site-statique-performance-web/2018-02-22-site-statique-performance-web.md                                                                       |     1 |    23.94K |   0.012
+_posts/fr/web/2017/2017-12-18-comment-differer-l-execution-d-un-script/2017-12-18-comment-differer-l-execution-d-un-script.md                                                 |     1 |    17.66K |   0.010
+
+ 
+                    done in 230.416 seconds.
