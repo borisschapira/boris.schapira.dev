@@ -1,6 +1,0 @@
-@media print {
-    [href]:not(.npe)::after {
-        content: "\00A0(" attr(href) ")";
-        font-size: 0.8em;
-    }
-}
