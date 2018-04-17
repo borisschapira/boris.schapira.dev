@@ -1174,7 +1174,8 @@ footer .wrap {
   header.posts-h {
     display: block; }
   .secondary {
-    margin-bottom: 20px; }
+    margin-bottom: 20px;
+    display: block; }
     .secondary .sidebar-nav-item {
       display: inline-block; } }
 
@@ -1273,7 +1274,6 @@ sup {
 #respond .btn {
   font-size: 1rem;
   line-height: normal;
-  display: inline-block;
   float: right;
   margin-top: 1rem;
   padding: 20px 64px;

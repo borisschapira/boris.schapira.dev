@@ -50,7 +50,7 @@
     {% assign feed_url = "feed.xml" %}
     {% assign cats_eyes = page.category|size %}
     {% if cats_eyes > 0 %}
-      {% assign feed_url = page.category | downcase | append: "/" | append: feed_url %}
+      {% assign feed_url = page.category | t: page.locale | downcase | append: "/" | append: feed_url %}
     {% endif %}
     <a class="npe" rel="me nofollow" href="{{ feed_url | prepend: page.base-url }}">
       <span class="sr-only">{% t Abonnez-vous au flux %}</span>

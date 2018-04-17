@@ -1,34 +1,37 @@
-# Taken from https://github.com/gacha/gacha.id.lv/blob/master/_plugins/i18n_filter.rb
-
-require 'i18n'
-
-# Create folder "_locales" and put some locale file from https://github.com/svenfuchs/rails-i18n/tree/master/rails/locale
 module Jekyll
-  # i18n filter for jekyll
-  module I18nFilter
-    # Example:
-    #   {{ post.date | localize: "%d.%m.%Y" }}
-    #   {{ post.date | localize: ":short" }}
-    def localize(input, format = nil, locale = nil)
-      locale ||= 'fr_FR'
-      load_translations
+  module I18NFilter
+    @@locale = nil
+    @@translations = []
 
-      format = format =~ /^:(\w+)/ ? Regexp.last_match(1).to_sym : format
-
-      # Force the locale each time otherwise `jekyll serve` will fail with
-      # "Liquid Exception: :en is not a valid locale" each time
-      # a regeneration happens
-      I18n.locale = locale
-
-      I18n.l input, format: format
+    def get_locale
+      if @@locale.nil?
+        @@locale = Jekyll.configuration({})['locale'] || "fr_FR"
+      end
+      @@locale
     end
 
-    def load_translations
-      return false unless I18n.backend.send(:translations).empty?
-      filename = File.join(File.dirname(__FILE__), '../_data/_locales/*.yml')
-      I18n.backend.load_translations Dir[filename]
+    def get_translations
+      if @@translations.empty?
+        @@translations = Jekyll.sites[0].data['translations']
+      end
+      @@translations
+    end
+
+    def t(input, given_locale = nil)
+      if given_locale.nil?
+        given_locale = get_locale
+      end
+      if given_locale == get_locale
+        input
+      else
+        translations = get_translations[given_locale]
+        raise 'Translations not provided' unless translations
+        translation = translations[input]
+        raise "Translation not provided: #{input}" unless translation
+        translation
+      end
     end
   end
 end
 
-Liquid::Template.register_filter(Jekyll::I18nFilter)
+Liquid::Template.register_filter(Jekyll::I18NFilter)

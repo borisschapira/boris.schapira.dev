@@ -1,6 +1,7 @@
 ---
 layout: page
 title: À propos de ce site
+permalink: /a-propos/site/
 date: 2017-12-29 14:00:00
 i18n-key: about-site
 permalink: /a-propos/site/index.html

@@ -8,49 +8,78 @@
 # I18n configuration
 locale: fr_FR
 defaults:
-  - scope:
+  -
+    scope:
+      path: "pages"
+    values:
+      type: pages
+  -
+    scope:
+      path: "pages/fr"
+      type: pages
+    values:
+      base-url: "/"
+      locale: fr_FR
+  -
+    scope:
+      path: "pages/en"
+      type: pages
+    values:
+      base-url: "/en/"
+      locale: en_US
+  -
+    scope:
       path: ""
     values:
       locale: fr_FR
       base-url: "/"
-  - scope:
+  -
+    scope:
       path: "_confs"
     values:
       layout: conf
-  - scope:
+  -
+    scope:
       type: "posts"
     values:
       layout: post
       comments: true
       comments_locked: false
       hidden: false
-  - scope:
+  -
+    scope:
       path: "_posts/fr/web"
     values:
       category: web
-  - scope:
+  -
+    scope:
       path: "_posts/fr/papa"
     values:
       category: papa
-  - scope:
+  -
+    scope:
       path: "_posts/fr/citoyen"
     values:
       category: citoyen
-  - scope:
+  -
+    scope:
       path: "en"
     values:
       locale: "en_US"
       base-url: "/en/"
-  - scope:
+  -
+    scope:
       locale: "en_US"
       path: "_posts/en"
     values:
       base-url: "/en/"
-  - scope:
+  -
+    scope:
       path: "_posts/en/web"
     values:
       category: web
-  - scope:
+  -
+    scope:
       path: "_posts/en/papa"
     values:
       category: papa
