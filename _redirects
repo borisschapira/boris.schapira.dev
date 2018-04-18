@@ -1,9 +1,4 @@
-/feed /feed.xml 301
-/feed.xml/rss /feed.xml 301
-/feed.xml/  /feed.xml 301
-
 /2015/10/industrialiser-le-dev-front-end/ /confs/industrialiser-le-dev-front-end/ 301
-
 /android-chrome-192x192.png /.well-known/android-chrome-192x192.png 200
 /android-chrome-512x512.png /.well-known/android-chrome-512x512.png 200
 /apple-touch-icon.png /.well-known/apple-touch-icon.png 200

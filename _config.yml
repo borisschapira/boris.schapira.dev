@@ -85,6 +85,7 @@ defaults:
       category: papa
 # Exclusions
 exclude:
+  - ".csscomb.json"
   - ".ruby-version"
   - ".cache"
   - "node_modules"
@@ -96,6 +97,7 @@ exclude:
   - "Gemfile.lock"
   - "gulpfile.js"
   - "LICENSE.md"
+  - "netlify.toml"
   - "package-lock.json"
   - "README.md"
   - "Rakefile"
