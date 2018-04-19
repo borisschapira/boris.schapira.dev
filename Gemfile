@@ -3,12 +3,12 @@ ruby '2.4.3'
 
 #gem 'gsl'
 gem 'i18n'
-#gem 'jekyll', '~>3.7.3'
+gem 'jekyll', '~>3.8.0'
 #gem 'jekyll', :git => 'https://github.com/jekyll/jekyll', :branch => 'master'
 #gem 'jekyll', :git => 'https://github.com/ashmaroli/jekyll', :branch => '3.8.0-alpha-2'
 #gem 'jekyll', :git => 'https://github.com/ashmaroli/jekyll', :branch => 'optima/benchmark'
 #gem 'jekyll', :git => 'https://github.com/ashmaroli/jekyll', :branch => 'cache-in-where-filters'
-gem 'jekyll', :git => 'https://github.com/jekyll/jekyll', :branch => 'v3.8.0.pre.rc2'
+#gem 'jekyll', :git => 'https://github.com/jekyll/jekyll', :branch => 'v3.8.0.pre.rc2'
 
 gem 'rake'
 
