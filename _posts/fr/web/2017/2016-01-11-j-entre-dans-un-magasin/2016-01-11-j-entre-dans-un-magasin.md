@@ -125,7 +125,5 @@ Je pose ensuite quelque questions et on m'aiguille vers le produit qui m'intére
 
 ***
 
-
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3Sk7cOqB9Dk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>

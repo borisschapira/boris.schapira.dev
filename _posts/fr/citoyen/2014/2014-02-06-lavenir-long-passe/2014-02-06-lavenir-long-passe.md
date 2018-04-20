@@ -16,6 +16,5 @@ Le monde subit une crise financière depuis 5 ans, qui touche principalement les
 
 Ce n'est pas aujourd'hui, mais [il y a 80 ans](http://fr.wikipedia.org/wiki/Crise_du_6_f%C3%A9vrier_1934 "Crise du 6 février 1934 &quot;, Wikipedia").
 
-<div class="videoWrapper">
-  <iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/KhHwdFeyt_A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+{:.videoWrapper}
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/KhHwdFeyt_A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -13,7 +13,8 @@ Comprendre le présent n'est jamais chose facile et nous n'avons souvent qu'une 
 
 <!-- more -->
 
-<em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [HTTP Archive : comprendre le présent en observant le passé](http://blog.clever-age.com/fr/2015/09/04/http-archive-comprendre-le-present-en-observant-le-passe/).</em>
+{:.canonical}
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [HTTP Archive : comprendre le présent en observant le passé](http://blog.clever-age.com/fr/2015/09/04/http-archive-comprendre-le-present-en-observant-le-passe/).
 
 C'est, de manière simplifiée, le rôle de <a title="HTTP Archive" href="https://httparchive.org/">HTTP Archive</a> qui stocke de façon permanente des fiches d'informations contenant des indicateurs tels que la taille des pages, les demandes qui ont échoué, les technologies utilisées, les scores face à des référentiels de bonnes pratiques comme PageSpeed… <em>etc</em>.
 

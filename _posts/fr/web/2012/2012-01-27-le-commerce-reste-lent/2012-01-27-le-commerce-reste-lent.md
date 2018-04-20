@@ -13,7 +13,8 @@ StrangeLoop vient de publier son rapport annuel de sur la performance Web des si
 
 <!-- more -->
 
-<em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [L’e-commerce reste lent](http://blog.clever-age.com/fr/2012/01/27/l-e-commerce-reste-lent/).</em>
+{:.canonical}
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [L’e-commerce reste lent](http://blog.clever-age.com/fr/2012/01/27/l-e-commerce-reste-lent/).
 
 1. **L’e-commerce est lent**. Avec une moyenne à 10s, les sites e-commerce les mieux classés sont encore très lents. Les sites commerçants les plus rapides comme Nike.com ou Amazon.com ne sont donc que des arbres qui cachent la forêt.
 2. **Il faut vendre tout de suite, pas plus tard**. Alors que le temps moyen de chargement associé à une première visite s’est amélioré, celui associé à une seconde visite (avec cache) s’est dégradé. Les commerçants souhaitent donc offrir la meilleure expérience immédiate, quitte à négliger les visites ultérieures. En 2012, il faut vendre vite : la fidélité ne rapporte plus.

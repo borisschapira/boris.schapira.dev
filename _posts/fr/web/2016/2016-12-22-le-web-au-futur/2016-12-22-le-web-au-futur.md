@@ -38,9 +38,8 @@ Trois mois ? Trois ans ? Cinq ans ? Sept ans ?
 
 Personne ne s’est interrogé sur la pertinence des choix réalisés au regard de cette durée ou la façon dont il pourrait évoluer. Ce site est *parfait*… maintenant.
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A5ou59ERA2f7ffyAxAcZyVz" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-</div>
 
 En tant que professionnels, nous pensons souvent les sites que nous réalisons comme des objets finis répondant à des **objectifs définis et immuables**. Nous partons de l'expression d'un besoin à un instant donné, en oubliant souvent que pour nos commanditaires, le site n'est qu'un outil construit pour répondre à des objectifs autres. Comme tous les outils, il doit être capable de durer… et aussi de s’adapter.
 
@@ -50,9 +49,8 @@ Dans la grande famille des éléments dont la satisfaction ne peut que décroît
 
 Parfois, il s’agit d’une direction artistique très prononcée qui rend difficile l’ajout ou la modification de composants visuels (ô, designs obliques, je pense à vous). D’autres fois, la dépendance entre design graphique et design d’expérience est si importante qu’il devient impossible de modifier l’un sans affecter l’autre. Pourtant, un site n'est souvent réalisé qu'en envisageant en amont des <span lang="lat">personas</span> qui schématisent les utilisateurs réels… dont on peut affiner le profil par le biais des analytiques. Il y a donc de fortes chances qu'il faille adapter le <span lang="en">design</span> a posteriori…
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A6Ac4NVYYl2U73QiTt11ZKd" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-</div>
 
 Quel est _votre_ site favori ? Pensez à ce site, qu'y faites-vous ? Est-ce que vous visualisez bien les éléments-clés de sa conception visuelle ou est-ce que votre souvenir de l'expérience concerne l’ensemble du service ?  
 Il existe, bien sûr, des sites dont l’attrait visuel fait intégralement partie de la proposition de valeur. C'est notamment souvent le cas lorsque le visuel participe au positionnement d’une marque ou d’un secteur dans un domaine spécifique. Pour ces sites, une conception visuelle qui valorise le secteur, la marque ou la relation à l’utilisateur est primordiale. 
@@ -68,9 +66,8 @@ Même en sachant cela, il est très difficile d'envisager l'avenir. Ayant cherch
 
 Indépendamment de la taille, il est très difficile d'envisager, à court ou moyen terme, les résolutions des matériels. Après plusieurs années à clairement séparer les usages mobiles et de bureau en fonction des résolutions, nous constatons que les résolutions des smartphones d'aujourd'hui sont de plus en plus proches de celles des ordinateurs, avec en plus une gestion de la densité de pixels imprévisible (qui dépend, en réalité, des capacités de productions). Bref, [le matériel permettant de consulter le Web, c'est le bordel](http://mydevice.io/devices/).
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A4Sdjsnfimz0DCYhbI35uoz" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-</div>
 
 En bref, le passé nous apprend que nous ne sommes absolument pas compétents pour deviner les évolutions du parc Web à plus de trois ans. Pourtant, nous continuons à imaginer nos points de rupture en fonction des matériels et des analytiques à notre disposition. Paradoxal, non ?
 
@@ -92,9 +89,8 @@ Il vous faut également imaginer l’avenir de cette dépendance.
 * Sont-elles faciles à prendre en main pour un nouveau venu ? Quelle est la quantité de documentation qu'il vous sera nécessaire de produire pour lui mettre le pied à l'étrier ?
 * Une fois le projet en Production, les dépendances sont-elles versionnées quelque part, de manière à pouvoir les retrouver si elles venaient à disparaitre ?
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A1L21YTLKh6eJaIjQWRgzo7" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-</div>
 
 La manipulation des dépendances est également un point d’attention : 
 
@@ -121,9 +117,8 @@ N'oubliez pas : un projet de qualité est aussi un projet à [Bus Factor](https:
 
 On évite donc au maximum les conventions mal partagées (donc pas si conventionnelles que ça), les abstractions de code dans la configuration (pour être sûr que le futur développeur ne pige rien), les surcharges par héritages de modules mal balisés (<q>Putain, mais elle vient d'où cette classe ?!</q>)… Bon, je m'arrête là, vous savez de quoi je parle. Mais si. Allez, pensez à vous-même, il y a six mois, deux ans, cinq ans… quand vous ne pigiez pas le code de votre collègue plus expérimenté. Voilà. Là, gardez cette pensée.
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A2lNCzdFpHSzmGgnZ3sVDqy" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-</div>
 
 Essayez d'écrire du code pour ce "vous" du passé. Ça servira à quelqu'un dans le futur.
 
@@ -135,9 +130,8 @@ Notre secteur est particulièrmeent dynamique. L'innovation est partout et nous 
 
 Résultat : beaucoup d'entre nous se lancent sur de nouvelles technos pour s'amuser, et c'est une très bonne chose. Cela ne veut pas dire qu'il faut absolument la mettre dans vos projets en Production ! L'utilisation d'une techno ou d'un paradigme doit faire le choix d'une vraie réflexion, pas être un caprice. Nous avons tous des dizaines de <span lang="en">side-project</span> pour tester, prototyper, confronter ces technos (et notre connaissance) à des cas d'usages du réel.
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A1a9YW7fATU351ok4zWjU7a" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-</div>
 
 Quelques exemples dont j'ai complètement conscience du potentiel trollesque :
 
@@ -154,9 +148,8 @@ C’est peut-être une évidence, mais un projet ne finit pas au moment où on l
 
 Contrairement à vous, vos commanditaires ne sont pas nécessairement des professionnels du Web. Ils ne peuvent pas, la plupart du temps, envisager un certain nombre d'évidences qu'il est parfois à votre charge d'expliciter.
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A5wFajLDxgaUNFl0AdNKj0Y" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-</div>
 
 Prenez donc le temps, en amont, de réfléchir à la pérennité de ce que vous produisez et prenez vos décisions en gardant en tête que :
 
@@ -170,9 +163,8 @@ Prenez donc le temps, en amont, de réfléchir à la pérennité de ce que vous 
 
 Vous l'aurez compris : pour Noël, je voudrais que nous réalisions tous que faire un site Web aujourd’hui, c’est avant tout le réaliser pour demain, pour la personne qui s'en occupera après nous et dans l'optique que l'ensemble dure plusieurs années et soit aisément maintenu.
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A4pxMChPcBLTgvocCR72Cus" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-</div>
 
 Pour faire quelque chose de pérenne, il faut autant comprendre le présent qu'imaginer l’avenir, mais rien ne sert de l’appeler trop fort. Il n'est pas sourd et arrivera bien assez vite.
 

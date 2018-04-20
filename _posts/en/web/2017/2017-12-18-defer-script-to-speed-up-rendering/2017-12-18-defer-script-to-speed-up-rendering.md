@@ -18,7 +18,8 @@ _Artists are not the only ones who suffer from a blank page, so are your users. 
 
 <!-- more -->
 
-<em class="canonical">**Note&nbsp;:**this post first appeared on the [Dareboost's Blog](https://blog.dareboost.com/en/) in [{{ page.title }}]({{ page.canonical }}).</em>
+{:.canonical}
+**Note&nbsp;:**this post first appeared on the [Dareboost's Blog](https://blog.dareboost.com/en/) in [{{ page.title }}]({{ page.canonical }}).
 
 Modern browsers are designed to render pages more quickly. For example, they scan the page as it comes in, looking for the URLs of resources which will be needed later in the rendering of the page (images, CSS but more specifically, JavaScript files). This is called a [preload scan](https://plus.google.com/+IlyaGrigorik/posts/8AwRUE7wqAE) in Chrome and Safari, a [speculative parsing](https://developer.mozilla.org/en-US/docs/Web/HTML/Optimizing_your_pages_for_speculative_parsing) in Firefox and a lookahead download in Internet Explorer. This feature allows the browser to start fetching the ressources while constructing its own modelisation of the HTML code, the Document Object Model (DOM) and its own modelisation of the CSS code, the CSS Object Model (CSSOM).
 

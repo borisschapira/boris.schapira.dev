@@ -23,6 +23,9 @@ Source : Données HttpArchive requêtées  via [BigQuery](https://goo.gl/srggsf)
 
 <!-- more -->
 
+{:.canonical}
+**Note&nbsp;:** l'article ci-dessous a été publié sur [le blog de Dareboost](https://blog.dareboost.com/fr/) dans [{{ page.title }}]({{ page.canonical }}).
+
 Que vous soyez un acteur du Luxe désireux de diffuser des vidéos de très haute qualité ou une plateforme d'information à la recherche d'une proposition de contenu accrocheuse, la vidéo est devenue en quelques années un élément incontournable du Web. Mais l'ajout d'une vidéo à un site peut être complexe.
 
 L'encodage le plus largement utilisé et supporté aujourd’hui est sans aucun doute H.264, servi dans un fichier MP4. Ce format est supporté par la plupart des logiciels de manipulation vidéo : [Handbrake](https://handbrake.fr/), [MPEG Streamclip](http://www.squared5.com/), [OpenShot](https://www.openshot.org/)... même [VLC](https://www.videolan.org/) ! Mais peu d'entre eux offrent une fonctionnalité d’export d'une vidéo optimisée pour le Web.
@@ -52,7 +55,8 @@ Par exemple, vous pouvez évaluer le <span lang="en">bitrate</span> nécessaire 
 
 Vous pouvez facilement anticiper le poids d'une vidéo après l'encodage en utilisant soit un <span lang="en">bitrate</span> constant sur l'ensemble de la vidéo, soit un encodage à plusieurs passes pour un [<span lang="en">bitrate</span> variable](https://fr.wikipedia.org/wiki/Variable_bitrate). Voici une comparaison entre un extrait original de 10 secondes d'une séquence du décollage d'Endeavour et un encodage à deux passes avec ffmpeg. La vidéo à gauche pesait 85 Mo, celle de droite pèse 1,2 Mo après optimisation :
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M99TPB7qMsQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+{:.videoWrapper}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M99TPB7qMsQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Cet exemple montre ce qui peut techniquement être fait pour améliorer le poids d'une vidéo, mais nous pouvons aussi extrapoler des optimisations à partir des objectifs métier de la vidéo. Il est assez courant, par exemple, de visiter des sites dont la page d'accueil affiche une large zone avec un message de bienvenue, occupant l'ensemble de la fenêtre. Parfois, derrière cette zone, qu’on appelle "Hero Container", une vidéo de fond est diffusée. 
 
@@ -68,7 +72,8 @@ L'option `-vf frei0r=iirblur:0.4` indique à ffmpeg de flouter avec un coefficie
 
 Résultat :
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nwGDXk9eE8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+{:.videoWrapper}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nwGDXk9eE8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Autre optimisation possible : la piste audio. Si votre vidéo n'est pas destinée à jouer du son, pourquoi garder cette piste ? N'hésitez pas à la retirer :
 

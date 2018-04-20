@@ -13,7 +13,8 @@ Windows Phone est un système d’exploitation pour téléphones mobiles présen
 
 <!-- more -->
 
-<em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Tour d’horizon de windows phone 7](http://blog.clever-age.com/fr/2010/05/19/tour-d-horizon-de-windows-phone-7/).</em>
+{:.canonical}
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Tour d’horizon de windows phone 7](http://blog.clever-age.com/fr/2010/05/19/tour-d-horizon-de-windows-phone-7/).
 
 ### Matériel&nbsp;: un cahier des charges très strict
 

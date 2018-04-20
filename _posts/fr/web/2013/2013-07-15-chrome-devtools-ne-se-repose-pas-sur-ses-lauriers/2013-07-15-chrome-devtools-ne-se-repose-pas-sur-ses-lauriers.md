@@ -13,7 +13,8 @@ Alors qu’ils sont déjà reconnus comme étant d’excellente facture, voire m
 
 <!-- more -->
 
-<em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Chrome DevTools ne se repose pas sur ses lauriers](http://blog.clever-age.com/fr/2013/07/15/chrome-devtools-ne-se-repose-pas-sur-ses-lauriers/).</em>
+{:.canonical}
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Chrome DevTools ne se repose pas sur ses lauriers](http://blog.clever-age.com/fr/2013/07/15/chrome-devtools-ne-se-repose-pas-sur-ses-lauriers/).
 
 Au menu, quatre innovations majeures&nbsp;:
 

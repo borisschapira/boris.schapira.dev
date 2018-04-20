@@ -17,9 +17,8 @@ locale: fr_FR
 
 <!-- more -->
 
-<div class="videoWrapper">
-  <iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/Q0Dg226G2Z8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+{:.videoWrapper}
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/Q0Dg226G2Z8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Chaque jour, j'essaie d'expliquer à mes garçons comment devenir des hommes, ce qui n'est pas évident, car je n'ai pas vraiment de définition moi-même. Alors je leur apprends surtout à devenir des chouettes êtres humains et à explorer leurs possibilités à eux, sans se soucier de l'extérieur.
 

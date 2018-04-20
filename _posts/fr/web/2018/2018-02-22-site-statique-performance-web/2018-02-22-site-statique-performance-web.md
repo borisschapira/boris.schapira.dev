@@ -24,6 +24,9 @@ Générateurs de sites statiques, CMS "headless", plateformes d'intégration con
 
 ## Aux origines du Web
 
+{:.canonical}
+**Note&nbsp;:** l'article ci-dessous a été publié sur [le blog de Dareboost](https://blog.dareboost.com/fr/) dans [{{ page.title }}]({{ page.canonical }}).
+
 Lorsqu'un utilisateur tente d'accéder à une page Web, son navigateur envoie une requête au serveur qui l'héberge. Soit le serveur retourne immédiatement la page telle qu'elle est stockée, soit le serveur la génère en exécutant du code, à la demande.
 
 Bien que le Web ait été conçu comme un enchevêtrement de fichiers statiques, les langages de programmation côté serveur sont apparus très tôt et sont maintenant largement utilisés. [Selon W3Techs](https://w3techs.com/technologies/overview/programming_language/all), plus de 80 % des serveurs qui utilisent un langage côté serveur tournent en PHP. Dans la mesure où les hébergeurs offrant des serveurs qui n’exécutent pas au moins un langage sont pratiquement introuvables, il y a fort à parier qu’une écrasante majorité de sites web sont aujourd’hui générés dynamiquement.

@@ -20,9 +20,8 @@ Fin août 2016, j'ai su que Clever Age rachetait [X2i](http://www.x2i.fr/), une 
 
 L'idée faisait son chemin depuis quelques semaines quand elle décida d'en parler à son employeur. Elle voulait être honnête, lui dire qu'elle avait besoin d'un nouveau souffle professionnel. Par un jeu de circonstances, ce jour-là, elle est revenue du travail en m'expliquant qu'elle avait, à son tour, entendu parler d'une opportunité interne. Du genre qu'on ne laisse pas filer. Quelque chose de difficile, d'ambitieux, quelque chose pour lequel il faudrait que nous nous investissions ensemble, acceptant de faire des concessions. Quelque chose d'important pour elle. Quelque chose… à quinze minutes au nord de Périgueux.
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d89875.86587460003!2d0.616802677960981!3d45.255460096260165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ff7381360949e9%3A0x406651748180c80!2zMjQ0NjAgQ2jDonRlYXUtbCfDiXbDqnF1ZQ!5e0!3m2!1sfr!2sfr!4v1496178486173" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
 
 ## Angoisses et doutes
 
@@ -83,6 +82,5 @@ Sept ans, c'est long. Il restera sûrement toujours un peu de Clever Age en moi,
 
 Je me sens comme celui qui attaque le dernier chapitre d'un livre qu'il a beaucoup aimé et dans lequel il a corné les pages les plus mémorables pour pouvoir s'y plonger, par nostalgie, un autre jour. J'ai plusieurs pistes pour de futures lectures, mais je compte bien profiter de celle-ci jusqu'à la dernière ligne.
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rnAvdZJ-gRU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>

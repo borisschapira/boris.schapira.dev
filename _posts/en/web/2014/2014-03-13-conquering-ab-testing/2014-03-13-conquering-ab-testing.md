@@ -12,7 +12,8 @@ Matthew is not the kind of person who takes decisions lightly, especially when i
 
 <!-- more -->
 
-<em class="canonical">**Note&nbsp;:**this post first appeared on the [Clever Age](http://www.clever-age.com/en/) website in [{{ page.title }}]({{ page.canonical }}).</em>
+{:.canonical}
+**Note&nbsp;:**this post first appeared on the [Clever Age](http://www.clever-age.com/en/) website in [{{ page.title }}]({{ page.canonical }}).
 
 
 ## A Story About A/B Testing

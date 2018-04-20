@@ -9,6 +9,5 @@ Un court-métrage présenté au [Mobile Film Festival](http://www.mobilefilmfest
 
 <!-- more -->
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gz_AKsxj6-M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>

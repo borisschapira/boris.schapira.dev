@@ -15,9 +15,8 @@ Ce soir, le grand rentre de l'école affolé. Il est allé voir un spectacle et 
 
 Comme il n'en démord pas, je lance la vidéo en question :
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VKj7QwYm0_E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
 
 Effectivement, la dame est habillée avec une combinaison rembourée de couleur chair. Mais ce n'est pas n'importe quelle dame, il s'agit d'Irene Dafonte et il s'avère que nous avons une connaissance commune.
 

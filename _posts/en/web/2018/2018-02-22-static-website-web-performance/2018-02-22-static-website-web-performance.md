@@ -22,7 +22,8 @@ For several years now, a new range of solutions have emerged in the web technolo
 
 <!-- more -->
 
-<em class="canonical">**Note&nbsp;:**this post first appeared on the [Dareboost's Blog](https://blog.dareboost.com/en/) in [{{ page.title }}]({{ page.canonical }}).</em>
+{:.canonical}
+**Note&nbsp;:**this post first appeared on the [Dareboost's Blog](https://blog.dareboost.com/en/) in [{{ page.title }}]({{ page.canonical }}).
 
 ## Where do we come from?
 

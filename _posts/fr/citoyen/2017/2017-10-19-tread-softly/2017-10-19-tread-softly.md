@@ -23,6 +23,5 @@ Ce dont je suis sûr, c'est du pays dans lequel je souhaite vivre et qui est pou
 
 <ins datetime="2017-10-23">23 octobre 2017</ins> : je découvre cette vidéo de [la chaine Youtube "Ouvrez Les Guillemets"](https://www.youtube.com/watch?v=sVJpvO-ywjE&list=PL0H7ONNEUnnt59niYAZ07dFTi99u2L2n_) qui résume bien mon ressenti. Si je me sens aujourd'hui perdu, ce n'est pas tant que le clivage droite-gauche a disparu que parce que la gauche (sans extrême) est complètement absente du débat.
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sVJpvO-ywjE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>

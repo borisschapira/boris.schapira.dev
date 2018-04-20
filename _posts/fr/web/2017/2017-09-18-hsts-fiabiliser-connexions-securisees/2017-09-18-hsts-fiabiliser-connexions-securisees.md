@@ -22,7 +22,8 @@ Cela étant dit, avoir un site accessible en HTTPS ne suffit pas à basculer l�
 
 <!-- more -->
 
-<em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [le blog de Dareboost](https://blog.dareboost.com/fr/) dans [{{ page.title }}]({{ page.canonical }}).</em>
+{:.canonical}
+**Note&nbsp;:** l'article ci-dessous a été publié sur [le blog de Dareboost](https://blog.dareboost.com/fr/) dans [{{ page.title }}]({{ page.canonical }}).
 
 ## Mise en place d’une redirection : une technique qui présente des limites
 

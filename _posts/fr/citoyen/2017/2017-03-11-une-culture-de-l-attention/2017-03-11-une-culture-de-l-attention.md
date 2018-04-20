@@ -26,10 +26,9 @@ Cette inadéquation de l'offre d'information par rapport aux besoin est d'ailleu
 
 > … le résultat va vous étonner !
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe src="https://player.vimeo.com/video/155525207" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p>"<a href="https://vimeo.com/155525207">Is Anything Worth Maximizing?</a>" par <a href="https://vimeo.com/jxe">Joe Edelman</a> sur <a href="https://vimeo.com">Vimeo</a>.</p>
-</div>
 
 ## De la peur
 
@@ -48,9 +47,8 @@ Alors que l'Europe et globalement le monde vivent une ère de paix sans précéd
 
 Comprenons-nous bien, ce n'est pas l'information qui nous rend comme ça. C'est la quantité de bruit qui l'entoure. Nous cherchons tous à comprendre le monde et pouvons être attirés par les sirènes des médias qui tentent de nous l'expliquer. Mais, par exemple, n'y a-t-il rien de plus stupide qu'une "chaîne d'information en continu", quand on sait le recul, l'analyse, le temps que nécessite la validation d'une information et de sa pertinence ?
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0oOns2XbhMg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
 
 Mon métier est un métier d'information. Nous ne manipulons pas les faits divers, mais nous échangons du savoir, et croyez-moi si je vous dis qu'une fois submergé par différents signaux, il faut toujours prendre du recul et [envisager les situations dans la durée](/2016/12/le-web-au-futur/). 
 

@@ -22,15 +22,15 @@ China is unquestionably changing the way Internet integrates our daily lives wit
 
 <!-- more -->
 
-<em class="canonical">**Note&nbsp;:**this post first appeared on the [Clever Age](http://www.clever-age.com/en/) website in [{{ page.title }}]({{ page.canonical }}).</em>
+{:.canonical}
+**Note&nbsp;:**this post first appeared on the [Clever Age](http://www.clever-age.com/en/) website in [{{ page.title }}]({{ page.canonical }}).
 
 ## WeChat is reinventing the way we use the web
 
 WeChat is not your typical social network. It works as a platform connecting the user to a large set of services: discovery of new products, B2B, B2C or C2C interactions, reservation booking, access to information, payment, etc. WeChat offers a wide array of possibilities, as it aims to act as a single locus for a variety of micro apps, each offering a specific specialized service. WeChat is basically a service center running on top of the mobile phone’s OS.
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe id="nyt_video_player" title="New York Times Video - Embed Player" src="https://static01.nyt.com/video/players/offsite/index.html?videoId=100000004574648" width="480" height="321" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
-</div>
 
 ## Why hasn’t anybody developed a similar service on this side of the planet?
 

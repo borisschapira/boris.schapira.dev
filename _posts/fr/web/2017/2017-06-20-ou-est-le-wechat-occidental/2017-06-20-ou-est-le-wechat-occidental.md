@@ -14,15 +14,15 @@ Il devient de plus en plus évident que la Chine est train de changer la façon 
 
 <!-- more -->
 
-<em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Où est le WeChat occidental ?](https://blog.clever-age.com/fr/2017/06/20/ou-est-le-wechat-occidental/).</em>
+{:.canonical}
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Où est le WeChat occidental ?](https://blog.clever-age.com/fr/2017/06/20/ou-est-le-wechat-occidental/).
 
 ## WeChat réinvente les usages du Web
 
 WeChat n’est pas un réseau social comme un autre, c’est un point de connexion avec les services qui entourent l’utilisateur : découverte de produits, dialogues en <abbr lang="en" title="Business To Business">B2B</abbr>, <abbr lang="en" title="Business To Consumer">B2C</abbr> ou <abbr lang="en" title="Consumer To Consumer(s)">C2C</abbr>, prises de rendez-vous, informations, paiement… les possibilités sont assez larges et c’est bien normal : l’application agit comme un centre regroupant de multiples services, des micro-applications, qui proposent chacune des services spécialisés simples à identifier. Pour résumer, WeChat est un centre de services s’exécutant au dessus du système d’exploitation de l’appareil mobile.
 
-<div class="videoWrapper">
+{:.videoWrapper}
 <iframe id="nyt_video_player" title="New York Times Video - Embed Player" src="https://static01.nyt.com/video/players/offsite/index.html?videoId=100000004574648" width="480" height="321" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
-</div>
 
 ## Pourquoi n’a-t-on pas la même chose en Occident ?
 

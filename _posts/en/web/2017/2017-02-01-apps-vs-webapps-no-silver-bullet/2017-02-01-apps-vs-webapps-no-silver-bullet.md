@@ -13,8 +13,8 @@ Let's take a look at the different logical biases related to this topic.
 
 <!-- more -->
 
-<em class="canonical">**Note&nbsp;:**this post first appeared on the [Clever Age](http://www.clever-age.com/en/) website in [{{ page.title }}]({{ page.canonical }}).</em>
-
+{:.canonical}
+**Note&nbsp;:**this post first appeared on the [Clever Age](http://www.clever-age.com/en/) website in [{{ page.title }}]({{ page.canonical }}).
 
 ## Web or native?
 
