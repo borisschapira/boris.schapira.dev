@@ -882,7 +882,8 @@ html .content .post .p-header .p-author {
   display: block;
   margin: 2em auto;
   padding: 10px;
-  border: 1px dotted #0000c5; }
+  border: 1px dotted #0000c5;
+  font-style: italic; }
 
 .post-content ins {
   padding: 3px;

@@ -189,6 +189,10 @@ jekyll-archives:
     year: "/:year/"
     month: "/:year/:month/"
 
+# Graphiques
+mermaid:
+  src: '/assets/scripts/vendors/mermaid.min.js'
+
 # The average reading speed, in number of words by minute
 reading_speed: 400
 

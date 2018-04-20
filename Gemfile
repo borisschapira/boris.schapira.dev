@@ -22,6 +22,7 @@ group :jekyll_plugins do
   gem 'jekyll-algolia'
   gem 'jekyll-archives'
   gem 'jekyll-cloudinary'
+  gem 'jekyll-mermaid'
   gem 'jekyll-microtypo'
   gem 'jekyll-paginate-v2', '~> 1.8', '>= 1.8.1'
   gem 'jekyll-postfiles'
