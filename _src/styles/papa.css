@@ -704,23 +704,19 @@ hr {
     .post footer .contrib form,
     .post footer .discuss form,
     .post footer .share form {
-      display: -webkit-box;
       display: -ms-flexbox;
       display: flex; }
       .post footer .contrib form input[type="submit"],
       .post footer .discuss form input[type="submit"],
       .post footer .share form input[type="submit"] {
-        -webkit-box-flex: 1;
-            -ms-flex: 1;
-                flex: 1; }
+        -ms-flex: 1;
+            flex: 1; }
       .post footer .contrib form input[type="text"],
       .post footer .discuss form input[type="text"],
       .post footer .share form input[type="text"] {
-        -webkit-box-flex: 3;
-            -ms-flex: 3;
-                flex: 3; }
+        -ms-flex: 3;
+            flex: 3; }
   .post footer .nowrap {
-    display: -webkit-inline-box;
     display: -ms-inline-flexbox;
     display: inline-flex; }
 
@@ -857,7 +853,6 @@ html .content .post .p-header .p-author {
     margin-bottom: 0;
     margin-left: auto; }
   .post-content figure .gallery {
-    display: -webkit-box;
     display: -ms-flexbox;
     display: flex; }
     .post-content figure .gallery img {
@@ -903,22 +898,18 @@ footer .wrap {
 /* Pagination HTML & CSS code from nhoizey */
 .pagination {
   font-size: 1.2em;
-  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: baseline;
-      -ms-flex-align: baseline;
-          align-items: baseline;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-align: baseline;
+      align-items: baseline;
+  -ms-flex-pack: center;
+      justify-content: center;
   margin: 3em auto;
   padding: 0;
   list-style-type: none; }
   .pagination li {
-    -webkit-box-flex: 1;
-        -ms-flex-positive: 1;
-            flex-grow: 1;
+    -ms-flex-positive: 1;
+        flex-grow: 1;
     text-align: center; }
     .pagination li.dist1, .pagination li.dist2, .pagination li.dist3, .pagination li.extreme {
       display: none; }
@@ -1350,7 +1341,6 @@ ul.comments {
   left: 0;
   padding: 1em 0.5em;
   transition: bottom cubic-bezier(0.73, 0, 0.27, 1) 0.3s;
-  -webkit-transform: translateZ(0);
   transform: translateZ(0);
   text-align: center;
   border-bottom: 1px solid black;

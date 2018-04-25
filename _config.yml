@@ -104,6 +104,7 @@ exclude:
   - "tmp"
   - "vendor"
   - "staticman.yml"
+  - "yarn.lock"
   - _posts/**/*.jpg
   - _posts/**/*.jpeg
   - _posts/**/*.png
