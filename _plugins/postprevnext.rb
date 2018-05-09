@@ -19,7 +19,7 @@ module Jekyll
                                         else
                                           {
                                             'title' => locale_cat_posts[index - 1].data['title'], 
-                                            'url' => locale_cat_posts[index - 1].data['url']
+                                            'url' => locale_cat_posts[index - 1].url
                                           }
                                         end
 
@@ -28,7 +28,7 @@ module Jekyll
                                         else
                                           {
                                             'title' => locale_cat_posts[index + 1].data['title'], 
-                                            'url' => locale_cat_posts[index + 1].data['url']
+                                            'url' => locale_cat_posts[index + 1].url
                                           }
                                         end
           end
