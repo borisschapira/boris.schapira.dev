@@ -40,9 +40,7 @@ J'ai proposé cela une année, sur la base d'un exercice non-corrigé que j'avai
 * leur capacité à s'organiser en groupes sociaux : les élèves constitués en groupes soudés s'échangaient les réponses (ce qui était assez facile à voir une fois leur code passé dans mon Sonar[^sonar]). Les élèves plus isolés n'avaient pas accès au même niveau d'informations. Ils trichaient moins mais avançaient moins vite ;
 * collectivement : leur faible investissement sur le projet (parfois, même les points vus en cours n'étaient pas traités).
 
-[^sonar]:
-
-  [SonarQube](https://www.sonarqube.org/) est un outil d'inspection continue de la qualité de code. Je m'en sers surtout pour sa fonctionnalité de détection de code dupliqué, qui permet de découvrir assez rapidement les "petits raccourcis" que prennent des étudiants en "s'empruntant" du code.
+[^sonar]: [SonarQube](https://www.sonarqube.org/) est un outil d'inspection continue de la qualité de code. Je m'en sers surtout pour sa fonctionnalité de détection de code dupliqué, qui permet de découvrir assez rapidement les "petits raccourcis" que prennent des étudiants en "s'empruntant" du code.
 
 ### Des rédactions (oui, oui)
 
@@ -56,9 +54,7 @@ L'examen, s'il est très instructif, présente également ses limites : **les é
 
 Aujourd'hui, j'évalue souvent les élèves avec des **QCM faciles** mais réguliers. Google Forms[^alt] est très pratique pour ça, puisque depuis cette année, on peut pré-affecter des points aux questions. La correction est ainsi immédiate.
 
-[^alt]:
-
-  Je serais ravi d'utiliser un autre service que Google pour cet usage. Je surveille les évolutions de [FramaForms](https://framaforms.org/) pour, justement, me défaire de cette dépendance.
+[^alt]: Je serais ravi d'utiliser un autre service que Google pour cet usage. Je surveille les évolutions de [FramaForms](https://framaforms.org/) pour, justement, me défaire de cette dépendance.
 
 Je demande aux élèves de pratiquer une veille sur le sujet en cours. Je leur impose **un ou plusieurs oraux "de veille"**. Elles et ils doivent choisir une source de leur choix (je fournis des références pour les moins à l'aise) et la présenter au reste de la classe en cinq à dix minutes : auteur·trice, contexte, objet, critique, pistes de lecture pour approfondir… Chaque présentation est, en général, suivie d'une série de questions et réponses pour encourager la curiosité et l'esprit critique des élèves. Je n'organise pas de tours de passage mais je préviens en amont que ma notation sera dégressive : les premiers à passer auront facilement plus de 18/20 mais que j'attends de chaque nouveau passage qu'il ait au moins le même niveau d'analyse que le précédent, voire qu'il aille plus loin. Le dernier à passer aura donc beaucoup plus de travail à fournir pour avoir une bonne note.
 

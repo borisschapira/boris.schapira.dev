@@ -25,9 +25,7 @@ Si vous n'avez aucun outil de surveillance sur votre site, vous pouvez être pas
 * [L'extension Chrome SPoF-o-matic](https://chrome.google.com/webstore/detail/spof-o-matic/plikhggfbplemddobondkeogomgoodeg), par exemple, vous permettra de détecter les domaines problématiques ;
 * [L'onglet SPOF de WebPageTest.org](http://www.webpagetest.org/) vous permettra de réaliser un test de performance en plaçant le domaine de votre choix en indisponibilité[^1].
 
-[^1]:
-
-  En réalité, il interpose un proxy renvoyant les appels vers un <a href="https://blackhole.webpagetest.org">site "trou noir"</a> recréant ces conditions
+[^1]: En réalité, il interpose un proxy renvoyant les appels vers un <a href="https://blackhole.webpagetest.org">site "trou noir"</a> recréant ces conditions
 
 Evidemment, cette liste n'est pas exhaustive et Facebook est loin d'être le seul service tiers concerné (vous pouvez aussi avoir le problème avec des ressources distantes, comme des polices, par exemple).
 

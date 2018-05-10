@@ -4,7 +4,7 @@ target: gens du Web qui veulent que leurs sites aillent plus vite
 description: "Avec le déplacement d'un certain nombre d'usages vers des périphérique nomades (téléphones, montres, appareils connectés), la fluidité d'utilisation devient une problématique critique. La performance Web est une des composantes de cette fluidité. Nous verrons ensemble comment l'optimiser. Ceci étant, suivant l’organisation et la culture de votre entreprise, conserver ce gain dans le temps peut être délicat et tenir davantage de la conduite du changement que de l’identification et l'implémentation d'optimisations."
 events: 
   - name: "Sud Web 2012"
-    date: 2012-05-25 
+    date: 2012-05-25
 ---
 
 {% include media/vimeo.html.liquid id="56931059" title="Mettre en place une strat&eacute;gie de performance web, Boris Shapira - Sud Web 2012" %}
@@ -29,12 +29,12 @@ Ces indicateurs peuvent être de deux types : orientés métier ou purement tec
 
 Souvent, dans cette première phase, vous n’avez pas l’œil perpétuellement rivé sur les indicateurs, sinon vous ne feriez pas grand-chose de concret. À la place, vous faites une extraction des mesures toutes les semaines ou tous les mois, suivant la criticité, souvent manuellement. Il ne s’agit pas de perdre du temps à sortir des métriques, mais bien d’améliorer rapidement les choses. Pas la peine de réinventer la roue, vous pouvez utiliser des outils publics, souvent gratuits et en ligne comme :
 
-*   pour l’analyse de Waterfall : [WebPageTest.org](http://www.webpagetest.org/), [Pingdom Tools](http://tools.pingdom.com/fpt/)
-*   pour le respect des bonnes pratiques : [Dareboost](https://www.dareboost.com/ "Analyse de site Web, Test de Performance et Audit qualité - DareBoost"), [Page Speed Online](https://developers.google.com/speed/pagespeed/insights/), [YSlow](https://developer.yahoo.com/yslow/)
+* pour l’analyse de Waterfall : [WebPageTest.org](http://www.webpagetest.org/), [Pingdom Tools](http://tools.pingdom.com/fpt/)
+* pour le respect des bonnes pratiques : [Dareboost](https://www.dareboost.com/ "Analyse de site Web, Test de Performance et Audit qualité - DareBoost"), [Page Speed Online](https://developers.google.com/speed/pagespeed/insights/), [YSlow](https://developer.yahoo.com/yslow/)
 
 ### Niveau 1 - la réaction
 
-Une fois la définition de vos indicateurs terminée, vous êtes normalement capable de mesurer les gains et les pertes dans le temps. Malheureusement, si vous êtes chargé de mettre en place cette stratégie, c’est qu’elle n’existe pas déjà et que donc l’entreprise n’a probablement aucune culture de la Performance Web. Vous êtes donc en mesure de trouver des problèmes, mais êtes probablement le seul à chercher à les résoudre. Et en plus de ça, on vous demande de faire vos preuves au milieu d’un milieu _a priori_ hostile car mal informé.
+Une fois la définition de vos indicateurs terminée, vous êtes normalement capable de mesurer les gains et les pertes dans le temps. Malheureusement, si vous êtes chargé de mettre en place cette stratégie, c’est qu’elle n’existe pas déjà et que donc l’entreprise n’a probablement aucune culture de la Performance Web. Vous êtes donc en mesure de trouver des problèmes, mais êtes probablement le seul à chercher à les résoudre. Et en plus de ça, on vous demande de faire vos preuves au milieu d’un milieu *a priori* hostile car mal informé.
 
 C’est le moment privilégié des « Quick Win », ces optimisations rapides et efficaces qui permettent d’obtenir des résultats gratifiants au prix de peu de développement et de Tests de Non-Régression. Il s’agit souvent de solutions purement techniques, recommandées par des outils d’analyse automatique et dont la résolution ne remet pas en cause l’existence ou la dynamique de l’entreprise sur Internet. Profitez de la relative simplicité de ces premières optimisations pour généraliser l’usage de tests A/B. Cela vous permettra de démontrer le gain issu de la performance en comparant une version du site sans optimisation à une autre en bénéficiant.
 

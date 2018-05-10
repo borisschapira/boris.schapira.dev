@@ -30,9 +30,7 @@ N'oubliez pas que vous vous adressez à des êtres humains : vous ferez rarement
 
 Ça ne veut pas dire que le web n'est plus un métier. Il y a encore tellement à faire pour en améliorer la qualité, l'accessibilité, la sécurité, la maintenabilité, la réversibilité, l'utilisabilité, la performance et l'interopérabilité qu'il est toujours nécessaire d'avoir recours à des professionnels[^clever].
 
-[^clever]:
-
-  si vous voulez en parler, [je suis par là](http://www.clever-age.com/fr/briefez-nous/).
+[^clever]: si vous voulez en parler, [je suis par là](http://www.clever-age.com/fr/briefez-nous/).
 
 Cependant, dans certains cas, communiquer par mail avec ses clients et leur envoyer directement des PDFs, ça marche très bien aussi et ça peut permettre de valider un concept avant de partir sur un projet à 250 k€ financé [à grand renfort de French Tech](http://www.frenchtech.co/a-propos) au seul titre qu'il est numérique.
 

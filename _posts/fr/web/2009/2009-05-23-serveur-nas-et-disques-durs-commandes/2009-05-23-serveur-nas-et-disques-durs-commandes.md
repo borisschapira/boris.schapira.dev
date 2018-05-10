@@ -13,6 +13,4 @@ Juste un petit mot pour dire que suite à vos conseils concernant [le serveur NA
 
 Bon par contre le RND n'a pas vraiment un WAF[^waf] élevé. Il me va donc falloir user de tous mes charmes pour que la miss accepte ce nouvel intrus dans notre salon. À quand des serveurs plus sexy, pour faciliter la vie des geeks en couple&nbsp;?
 
-[^waf]:
-
-  Woman Acceptance Factor : indice mesurant la probabilité que votre chère et tendre saute de joie à la vue de votre nouveau gadget ou, au contraire, vous jette dehors en criant&nbsp;: "Jamais, expèce de $^%\* $¨°#£&nbsp;!". D'autres détails sur le WAF sont disponibles [par ici](http://www.lesgeeks.net/article-engeeklopedie/waf.html).</span>
+[^waf]: Woman Acceptance Factor : indice mesurant la probabilité que votre chère et tendre saute de joie à la vue de votre nouveau gadget ou, au contraire, vous jette dehors en criant&nbsp;: "Jamais, expèce de $^%\* $¨°#£&nbsp;!". D'autres détails sur le WAF sont disponibles [par ici](http://www.lesgeeks.net/article-engeeklopedie/waf.html).</span>

@@ -57,9 +57,7 @@ Ces principes sont respectés → **Bravo** vous avez eu une discussion rationne
 
 ## Les caractéristiques de la pensée critique[^1]
 
-[^1]:
-
-  d’après Parker, Richard, and Brooke Noel Moore. "Critical thinking". McGraw-Hill Humanities, 2014.
+[^1]: d’après Parker, Richard, and Brooke Noel Moore. "Critical thinking". McGraw-Hill Humanities, 2014.
 
 **Différenciez** les affirmations rationnelles et celles qui font appel à l'émotion.
 

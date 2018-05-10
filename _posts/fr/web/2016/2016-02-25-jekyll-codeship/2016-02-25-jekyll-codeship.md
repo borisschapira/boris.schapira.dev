@@ -33,23 +33,17 @@ Mes dépendances Ruby sont gérées par [Bundler](http://bundler.io/) :
 
 L'internationalisation est permise par `i18n` et le `i18n_filter`[^2].
 
-[^2]:
-
-  La technique de localisation est détaillée dans le [guide de démarrage Jekyll de Thomas Brelet](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/#localiser-jekyll).
+[^2]: La technique de localisation est détaillée dans le [guide de démarrage Jekyll de Thomas Brelet](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/#localiser-jekyll).
 
 La durée de lecture est calculée en considérant une vitesse de lecture moyenne de {{ site.reading_speed }} mots par minute. Votre vitesse de lecture est probablement différente[^rs], ce n'est qu'indicatif.
 
-[^rs]:
-
-  la mienne est d'un peu plus de {{ site.author.reading_speed_fr }} mots en français et de {{ site.author.reading_speed_en }} en anglais (à plus de 80 % de rétention, sinon ça ne compte pas).
+[^rs]: la mienne est d'un peu plus de {{ site.author.reading_speed_fr }} mots en français et de {{ site.author.reading_speed_en }} en anglais (à plus de 80 % de rétention, sinon ça ne compte pas).
 
 Jekyll ayant tendance à produire du code HTML très "aéré" et aucun moteur de rendu Markdown ne m'ayant convaincu quant à sa capacité à traité certaines spécificités typographiques françaises, j'ai mis en place un script "maison" de remplacement et de compression, libre adaptation de [ce tutoriel de Sylvain Durand](https://www.sylvaindurand.org/ameliorer-la-typographie-avec-jekyll/ "Améliorer la typographie avec Jekyll"). De plus, Jekyll ne semble pas proposer de syntaxe simple pour la navigation précédent/suivant au sein d'une même catégorie, j'utilise donc [ce plugin d'Adams Clarkson](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/ "Jekyll Post Navigation Within a Category").
 
 En local, j'utilise parfois [node](https://nodejs.org/), et plus particulièrement [gulp](http://gulpjs.com/) et [browsersync](http://www.browsersync.io/), pour que mon navigateur se mette seul à jour au fil de mes sauvegardes[^5].
 
-[^5]:
-
-  voir [l'article de Vladimir Iakovlev](https://nvbn.github.io/2015/06/19/jekyll-browsersync/ "Add live reloading to Jekyll with Gulp and Browsersync").
+[^5]: voir [l'article de Vladimir Iakovlev](https://nvbn.github.io/2015/06/19/jekyll-browsersync/ "Add live reloading to Jekyll with Gulp and Browsersync").
 
 ### Compilation et déploiement
 
@@ -59,13 +53,9 @@ Ce dépôt, mis à jour, lance également une opération sur [Codeship](https://
 
 Si cette étape d'intégration est valide et que le code est bien contribué sur la branche `master`, alors [Codeship](https://codeship.com/) s'occupe du déploiement du site statique ainsi généré chez mon hébergeur, <a href="https://www.alwaysdata.com/">alwaysdata</a>. Le dernier déploiement a été réalisé le {{ site.time | localize: '%A %-d %B %Y' }}.
 
-[^3]:
+[^3]: Lire à ce propos [cet excellent article de Romy sur les syntaxes légères](http://romy.tetue.net/syntaxes-legeres-pour-rediger)
 
-  Lire à ce propos [cet excellent article de Romy sur les syntaxes légères](http://romy.tetue.net/syntaxes-legeres-pour-rediger)
-
-[^4]:
-
-  Ne ratez pas cette [présentation complète des submodules git par Christophe Porteneuve](http://www.git-attitude.fr/2014/12/31/git-submodules/)
+[^4]: Ne ratez pas cette [présentation complète des submodules git par Christophe Porteneuve](http://www.git-attitude.fr/2014/12/31/git-submodules/)
 
 Si tout se passe bien, alors le site se retrouve en Production.
 
@@ -73,9 +63,7 @@ Si tout se passe bien, alors le site se retrouve en Production.
 
 Le chargement des polices privilégie la vitesse en affichant une première version avant qu'elles soient disponibles puis une seconde version une fois les polices chargées, sans clignotement au remplacement[^font].
 
-[^font]:
-
-  Les [articles du Filament Group sur le chargement des polices](https://www.filamentgroup.com/lab/font-events.html) sont de très bonnes références si le sujet vous intéresse.
+[^font]: Les [articles du Filament Group sur le chargement des polices](https://www.filamentgroup.com/lab/font-events.html) sont de très bonnes références si le sujet vous intéresse.
 
 Une partie de mon code CSS et JS est dédiée à l'accessibilité et j'essaie également de contribuer de manière responsable, pour être le plus inclusif possible à la fois envers les personnes, mais aussi envers les contextes (par exemple, j'utilise la librairie [abbr-touch](http://www.growingwiththeweb.com/2014/09/making-abbr-elements-touch-accessible.html) pour permettre aux personnes en situation de mobilité de visualiser la définition d'une abréviation ou d'un acronyme.
 
@@ -85,12 +73,8 @@ J'ai ajouté au site [InstantClick](http://instantclick.io/), une librairie Java
 
 Afin de contrôler ce qui se passe sur mon site (notamment pour détecter des tentatives d'injections), j'ai positionné un certain nombre de règles [Content Security Policy](https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9/CSP) et des rapports sont enregistrés dans une base de données à chaque infraction[^7].
 
-[^7]:
-
-  Merci à [Nicolas Hoffman](https://twitter.com/Nico3333fr) de m'avoir sensibilisé à cette problématique durant [sa présentation à Paris Web 2015](http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/ "CSP: Content Security Policy").
+[^7]: Merci à [Nicolas Hoffman](https://twitter.com/Nico3333fr) de m'avoir sensibilisé à cette problématique durant [sa présentation à Paris Web 2015](http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/ "CSP: Content Security Policy").
 
 Parce que je suis curieux, j'ai installé Google Analytics. Je suis conscient que certains d'entre vous veulent un peu d'intimité. Je vous encourage, dans ce cas, à faire comme moi : bloquer l'ensemble des domaines auxquels vous ne souhaitez pas faire confiance, au sein de votre navigateur ou ailleurs sur votre machine. Ça passe par la manipulation de votre fichier `hosts` et il y a des scripts pour automatiser tout ça[^6]. Enfin, contrairement aux <span lang="en">ads blockers</span>, c'est transparent en performance.
 
-[^6]:
-
-  J'utilise pour ma part les [scripts de blocage de domaines de Steven Black](https://github.com/StevenBlack/hosts).
+[^6]: J'utilise pour ma part les [scripts de blocage de domaines de Steven Black](https://github.com/StevenBlack/hosts).

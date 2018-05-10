@@ -15,6 +15,7 @@ Je suis convaincu que le partage de l'information est bénéfique à tous : j'en
 Il y a plusieurs sujets dont j'aimerai parler : si cela vous intéresse aussi, parlons-en, écrivons ou organisons des conférences ensemble.
 
 {% assign the_subjects=site.confs %}
+
 <div class="conf-subjects">
 {% for conf in the_subjects %}
   {% unless conf.events %}
@@ -31,6 +32,7 @@ Il y a plusieurs sujets dont j'aimerai parler : si cela vous intéresse aussi, p
 Il y a plusieurs sujets dont j'ai déjà parlé, n'hésitez pas à jeter un œil aux contenus.
 
 {% assign the_subjects=site.confs %}
+
 <div class="conf-subjects">
 {% for conf in the_subjects %}
   {% if conf.events %}

@@ -14,9 +14,7 @@ Un reproche que l’on fait habituellement aux technologies de développement .N
 
 Depuis quelques années une équipe de développeurs dirigée par [Miguel de Icaza](http://tirania.org/blog/) travaille sur Mono[^mono], une plate-forme de développement complète basée sur une mise en œuvre de la machine virtuelle .NET… sous Linux !
 
-[^mono]:
-
-  L’équipe de développement de Mono bénéfie du soutien de Microsoft au travers d’un accord de coopération technique signé entre l’éditeur de Redmond et Novell.
+[^mono]: L’équipe de développement de Mono bénéfie du soutien de Microsoft au travers d’un accord de coopération technique signé entre l’éditeur de Redmond et Novell.
 
 La [version finale de Moonlight](http://www.go-mono.com/moonlight/) (leur implémentation open source de Silverlight 1.0 pour Linux) est disponible depuis février et une version bêta supportant Silverlight 2.0 est dans les bacs ([Moonlight 1.9](http://tirania.org/blog/archive/2009/May-04.html)).
 

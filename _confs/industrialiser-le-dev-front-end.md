@@ -39,10 +39,10 @@ S’il y a bien un domaine dans lequel l’innovation galope en ce moment, c’e
 
 {% capture img_alt %}Une liste assez longue de termes techniques du Web{% endcapture %}
 {% capture img_caption %}Le Web aujourd'hui : HTML + JS + CSS ?{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2015-10-16/2.png"
-    alt=img_alt
-    caption=img_caption 
+{% include rwd-image.html.liquid
+path="/assets/images/2015-10-16/2.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Résultat, être intégrateur ou développeur Front-End[^2] en 2015, c’est devoir maîtriser un nombre très important de concepts théoriques et pratiques, les faire vivre dans un espace aux contraintes parfois assez floues, notamment concernant la qualité, l'accessibilité, le support des navigateurs anciens ou l’enrichissement avec les fonctionnalités offertes par les nouveaux. Le tout en prenant en compte le futur pour ne pas être complètement à la rue quand les Web Components viendront tout écraser sur leur passage (quoi, on peut rêver non ?).
@@ -65,10 +65,10 @@ Un développeur ou intégrateur qui, à code source égal, est le seul détenteu
 
 {% capture img_alt %}Un chien triste{% endcapture %}
 {% capture img_caption %}[**pitiful** par latteda - CC BY 2.0](https://flic.kr/p/bYm7uu){% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2015-10-16/1.jpg"
-    alt=img_alt
-    caption=img_caption 
+{% include rwd-image.html.liquid
+path="/assets/images/2015-10-16/1.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
 Ce dont on parle quand on parle d’industrialisation du développement Front-End, ce n’est pas un ou plusieurs outils. C’est avant tout l'élaboration continue d'un processus destiné à vous faire gagner du temps, du confort et, au final, de la confiance. Ce processus s'articule autour de plusieurs besoins à qualifier.
@@ -95,10 +95,10 @@ Une fois qu'on réassemble, cela donne la chaine complète :
 
 {% capture img_alt %}L'ensemble de la chaine sous la forme d'un schéma{% endcapture %}
 {% capture img_caption %}Une chaine d'industrialisation assez complète{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2015-10-16/3.png"
-    alt=img_alt
-    caption=img_caption 
+{% include rwd-image.html.liquid
+path="/assets/images/2015-10-16/3.png"
+alt=img_alt
+caption=img_caption
 %}
 
 ## Mais alors, quel outil pour l'industrialisation ?
@@ -107,18 +107,18 @@ Il existe une très importante variété d'outils sur le marché, ayant tous leu
 
 {% capture img_alt %}De nombreuses solutions répondant chacune à un ou plusieurs besoins exprimés{% endcapture %}
 {% capture img_caption %}Niveau offre, c'est la fête{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2015-10-16/5.png"
-    alt=img_alt
-    caption=img_caption 
+{% include rwd-image.html.liquid
+path="/assets/images/2015-10-16/5.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Ma préférence ? Aucune.
 
-{% include video_as_a_gif.html.liquid 
-  url="/assets/images/2015-10-16/4"
-  alt="Image titre de la page" 
-  caption="Je sais, ne me remerciez pas." 
+{% include video_as_a_gif.html.liquid
+url="/assets/images/2015-10-16/4"
+alt="Image titre de la page"
+caption="Je sais, ne me remerciez pas."
 %}
 
 En effet, il y a du bon partout. J'ai utilisé pendant des années [un framework PHP](https://github.com/htmlzengarden/outline) qui répondait à plusieurs de ces besoins. À l'usage, ses limites m'ont donné envie de tester des pistes différentes et j'ai testé des chaines de productions Front End en Ruby ou dernièrement en node, dont la [version 4.2.0](https://nodejs.org/en/blog/release/v4.2.0/ "Node v4.2.0 (LTS)"), sortie il y a 4 jours est enfin la première version disposant d'un support à long terme.
@@ -127,10 +127,10 @@ Mon conseil est donc le suivant : réunissez votre équipe de production Front E
 
 {% capture img_alt %}Des individus discutant et autour, les logos des solutions Yeoman et Brunch{% endcapture %}
 {% capture img_caption %}Votre industrialisation, votre discussion{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2015-10-16/6.png"
-    alt=img_alt
-    caption=img_caption 
+{% include rwd-image.html.liquid
+path="/assets/images/2015-10-16/6.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Si vous me montrez la vôtre, je vous montre la mienne.

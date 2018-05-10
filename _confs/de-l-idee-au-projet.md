@@ -7,7 +7,7 @@ events:
     date: 2014-05-16
 ---
 
-*Une génèse de ce Lightning Talk est disponible [sur le blog](/2014/05/sudweb-2014-lidee-au-projet-genese-dune-lightning-talk/ "Préparation d'une miniconférence").*
+_Une génèse de ce Lightning Talk est disponible [sur le blog](/2014/05/sudweb-2014-lidee-au-projet-genese-dune-lightning-talk/ "Préparation d'une miniconférence")._
 
 {% include media/vimeo.html.liquid id="104818641" title="Boris Schapira - De l&#039;id&eacute;e au projet" %}
 
@@ -23,13 +23,13 @@ Quand vous avez une idée, c'est souvent parce que vous êtes frustré par quelq
 
 Pour cela, il n'y a qu'une seule solution&nbsp;: attrapez-les toutes. Un crayon et un papier, un smartphone… le premier medium que vous trouvez, tout peut servir à noter ce qui vous vient en tête. Jetez les informations en vrac. Laissez l'idée s'exprimer.
 
-Des outils méthodologiques existent. Par exemple, si vous sentez que votre esprit tourne autour d’un concept central sans parvenir à le définir, ne vous frustrez pas, laisser tomber. Travaillez sur les idées périphériques – dans ce qu'on appelle une [cartographie mentale](http://fr.wikipedia.org/wiki/Carte_heuristique "Carte Heuristique, Carte Mentale &quot;, Wikipedia") – et si ça a du sens, reliez-les entre elles. Si le concept initial en vaut la peine, vous reviendrez naturellement dessus plus tard. Ne vous frustrez pas, n'insistez pas et encore mieux&nbsp;: laissez-vous du temps. Plusieurs jours, plusieurs semaines si nécessaire.
+Des outils méthodologiques existent. Par exemple, si vous sentez que votre esprit tourne autour d’un concept central sans parvenir à le définir, ne vous frustrez pas, laisser tomber. Travaillez sur les idées périphériques – dans ce qu'on appelle une [cartographie mentale](http://fr.wikipedia.org/wiki/Carte_heuristique 'Carte Heuristique, Carte Mentale ", Wikipedia') – et si ça a du sens, reliez-les entre elles. Si le concept initial en vaut la peine, vous reviendrez naturellement dessus plus tard. Ne vous frustrez pas, n'insistez pas et encore mieux&nbsp;: laissez-vous du temps. Plusieurs jours, plusieurs semaines si nécessaire.
 
 ## Conceptualiser
 
 Cette phase d'ouverture d'esprit vous permettra de disposer de suffisamment d’informations pour tenter de conceptualiser votre idée, c’est-à-dire de la modeler, de la «&nbsp;mettre en boite&nbsp;», de la faire rentrer dans des cases.
 
-L'objectif de cette phase est de vérifier que votre idée de projet est complète, c’est-à-dire qu’elle n’omet aucune des grandes questions que vous devriez vous poser. Prenons l'exemple du [Lean Canvas](http://leanstack.com/ "Business Model Canvas Optimized for Lean Startup &quot;, Lean Canvas"), déjà [présenté par Camille Roux lors de Sud Web 2012](http://vimeo.com/53160076 "&quot;Testez votre idée en quelques heures&quot;, Camille Roux &quot;, Sud Web 2012")&nbsp;: il vous propose des définir votre projet au travers de grands axes&nbsp;: vos utilisateurs, le problème d'origine, votre solution et sa pertinence, par quel moyen vous allez apporter cette solution aux utilisateurs, quels revenus seront générés, pour quels coûts… L'objectif de ce _canvas_, de cette grille, est de faire le tour de la question, de manière à ne rien oublier.
+L'objectif de cette phase est de vérifier que votre idée de projet est complète, c’est-à-dire qu’elle n’omet aucune des grandes questions que vous devriez vous poser. Prenons l'exemple du [Lean Canvas](http://leanstack.com/ 'Business Model Canvas Optimized for Lean Startup ", Lean Canvas'), déjà [présenté par Camille Roux lors de Sud Web 2012](http://vimeo.com/53160076 '"Testez votre idée en quelques heures", Camille Roux ", Sud Web 2012')&nbsp;: il vous propose des définir votre projet au travers de grands axes&nbsp;: vos utilisateurs, le problème d'origine, votre solution et sa pertinence, par quel moyen vous allez apporter cette solution aux utilisateurs, quels revenus seront générés, pour quels coûts… L'objectif de ce _canvas_, de cette grille, est de faire le tour de la question, de manière à ne rien oublier.
 
 L'enjeu ici est en fait très personnel&nbsp;: cette phase vous permettra de comprendre les domaines dans lesquels vous avez des lacunes et qui font que votre projet est incomplet. En effet, suivant votre personnalité et vos compétences, vous verrez que certains éléments vous viendront plus naturellement que d’autres. C'est normal. Pour des développeurs, la solution technique sera souvent la case la plus simple à remplir. Mais la solution technique ne fait pas, seule, un projet. Il est donc important de revenir régulièrement sur le concept pour transformer les points les plus délicats en éléments bien maitrisés. Cela vous préparera à la troisième phase&nbsp;: communiquer ce projet à d’autres.
 

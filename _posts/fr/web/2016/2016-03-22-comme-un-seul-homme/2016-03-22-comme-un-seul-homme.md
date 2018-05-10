@@ -18,9 +18,7 @@ locale: fr_FR
 
 Derrière la plupart des outils de notre quotidien, il y a des hommes et des femmes qui contribuent discrètement à leur succès et qui donnent de leur temps sur des projets dont vous n'entendrez jamais parler ou sur d'autres que vous utilisez tous les jours[^firefox]. Ils ne sont pas toujours isolés, font parfois partie de structures qui ont de forts intérêts dans ces projets[^giga].
 
-[^giga]:
-
-  dire que j'écrivais déjà ça [il y a 9 ans](/2007/08/le-mythe-de-la-giga-communaute-open-source/ "Le mythe de la giga-communauté open source"), les mythes ont la vie dure.
+[^giga]: dire que j'écrivais déjà ça [il y a 9 ans](/2007/08/le-mythe-de-la-giga-communaute-open-source/ "Le mythe de la giga-communauté open source"), les mythes ont la vie dure.
 
 Ce n'est pas la première fois que j'entends l'histoire d'un projet open source supporté par une unique personne. Peu importe la taille du projet ou sa notoriété[^bower], le service rendu par un projet open source est souvent perçu comme _gratuit à produire_ parce qu'il est _gratuit à l'usage_.
 
@@ -28,10 +26,6 @@ Cette confusion injuste mais naturelle, qu'on retrouve également dans [les déb
 
 **Merci**.
 
-[^bower]:
+[^bower]: Bower, un des projets <span lang="en">front end</span> les plus utilisés au monde, est également maintenu par une seule personne, [Adam Stankiewicz](https://twitter.com/sheerun)).
 
-  Bower, un des projets <span lang="en">front end</span> les plus utilisés au monde, est également maintenu par une seule personne, [Adam Stankiewicz](https://twitter.com/sheerun)).
-
-[^firefox]:
-
-  Firefox, Wikipédia… ne sont pas des acquis et peuvent disparaître un jour.
+[^firefox]: Firefox, Wikipédia… ne sont pas des acquis et peuvent disparaître un jour.

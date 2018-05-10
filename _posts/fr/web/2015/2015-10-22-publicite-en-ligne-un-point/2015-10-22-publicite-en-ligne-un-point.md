@@ -23,13 +23,9 @@ La publicité en ligne est devenue, faute d’une meilleure solution, la princip
 
 Sans contexte de régulation, son usage empiète un peu plus chaque jour sur les contours flous de la vie privée, au dépend d’usagers qui manifestent leur sentiment d’agression par l’usage massif de bloqueurs publicitaires[^chiffres]. Un véritable marché du blocage publicitaire émerge, constitué de solutions techniques et d’accords secrets, dans les navigateurs comme sur smartphones[^mobile]. Face à ce phénomène, certains producteurs n’hésitent plus à bloquer l’accès à leurs contenus aux utilisateurs refusant la publicité, envoyant ainsi un signal extrêmement négatif à leur audience.
 
-[^chiffres]:
+[^chiffres]: D’après une étude PageFair, ces AdBlockers seraient installés chez 35 % des internautes européens, 41 % des 16-29 ans. UCBrowser et Maxthon, qui revendiquent plus de 600 millions d’utilisateurs en Asie, sont également partenaires de solutions de blocage.
 
-  D’après une étude PageFair, ces AdBlockers seraient installés chez 35 % des internautes européens, 41 % des 16-29 ans. UCBrowser et Maxthon, qui revendiquent plus de 600 millions d’utilisateurs en Asie, sont également partenaires de solutions de blocage.
-
-[^mobile]:
-
-  L’Ad Blocker d’iOS 9, par exemple, repose sur un modèle commercial où les annonceurs devront payer pour voir leurs pubs affichées.
+[^mobile]: L’Ad Blocker d’iOS 9, par exemple, repose sur un modèle commercial où les annonceurs devront payer pour voir leurs pubs affichées.
 
 Cette guerre, extrêmement coûteuse, est le résultat d’un pari sur des sources de revenus alternatives (basées sur la publicité) plutôt que sur la mise en avant de la réelle plus-value des contenus. De nombreux acteurs se plient ainsi aux attentes du "tout gratuit", multipliant les productions à faible valeur informative en maximisant le gain publicitaire au moyen de véritables appâts à clics sans ligne éditoriale. Des empires se construisent, allant jusqu’à racheter des sites pour y déployer des _chevaux de Troie_ publicitaires, au détriment des lecteurs historiques qui sont rarement dupes.
 
@@ -40,9 +36,7 @@ Pour tout dire, la solution est devenue si inacceptable que même l’industrie 
 > We messed up. As technologists, tasked with delivering content and services to users, we lost track of the user experience.  
 > <cite>Scott Cunningham dans <a href="http://www.iab.com/news/lean/">Getting LEAN with Digital Ad UX</a></cite>
 
-[^iab]:
-
-  L’Internet Advertising Bureau, la principale association de professionnels de la publicité en ligne regroupant de nombreux acteurs de l’écosystème publicitaire : agences, régies, partenaires, hébergeurs. Habituellement, l’IAB promeut massivement la publicité en ligne en finançant des études sur son efficacité. Ce constat d’échec est un séisme.
+[^iab]: L’Internet Advertising Bureau, la principale association de professionnels de la publicité en ligne regroupant de nombreux acteurs de l’écosystème publicitaire : agences, régies, partenaires, hébergeurs. Habituellement, l’IAB promeut massivement la publicité en ligne en finançant des études sur son efficacité. Ce constat d’échec est un séisme.
 
 ## Des alternatives difficiles
 
@@ -76,9 +70,7 @@ D’un point de vue métier, en revanche, l’approche a de quoi faire peur aux 
 
 Alors quel avenir pour la monétisation des contenus ? Bien malin qui saura le déterminer. Ce qui est sûr, c’est que le potentiel de nuisance des bloqueurs met l’industrie dans une impasse, obligeant à une refonte des modèles économiques vers des pratiques plus respectueuses des lecteurs, comme L.E.A.N.[^lean].
 
-[^lean]:
-
-  L.E.A.N., pour "Light, Encrypted, Ad choice supported, Non-invasive ads", que l’on peut traduire par “des publicités légères, sécurisées, respectueuse des choix de l’utilisateur et non-invasives", est une nouvelle bonne pratique mise en avant par l’IAB.
+[^lean]: L.E.A.N., pour "Light, Encrypted, Ad choice supported, Non-invasive ads", que l’on peut traduire par “des publicités légères, sécurisées, respectueuse des choix de l’utilisateur et non-invasives", est une nouvelle bonne pratique mise en avant par l’IAB.
 
 De nombreuses alternatives au modèle publicitaire sont en réflexion, considérant par exemple que l’attention du lecteur doit être entièrement dédiée à évaluer la qualité de ce qu’il consulte, mais que pendant ce temps sa machine ne fait rien. Il est donc possible de remplacer le temps d’attention humain par de la puissance machine, utilisée par exemple pour générer au profit du producteur des crypto-monnaies. Mais pour l’instant, difficile de trouver le contexte de sécurité suffisant et les modalités de déploiement à grande échelle.
 

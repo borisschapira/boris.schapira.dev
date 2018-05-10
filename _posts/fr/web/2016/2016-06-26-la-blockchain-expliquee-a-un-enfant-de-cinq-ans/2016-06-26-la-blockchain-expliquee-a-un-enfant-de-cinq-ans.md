@@ -33,6 +33,4 @@ Deuxième frein : il est plus intuitif de faire confiance à un système central
 
 On n'est pas sortis de l'auberge. Finalement, même à cinq ans, les avantages ne sont pas évidents à appréhender…
 
-[^parfait]:
-
-  Je ne parle que de moi, ma femme étant, bien sûr, parfaite, comme chacun sait.
+[^parfait]: Je ne parle que de moi, ma femme étant, bien sûr, parfaite, comme chacun sait.

@@ -23,13 +23,9 @@ Online advertising has become — for lack of a better solution — the main sou
 
 In the absence of any regulations, online advertising increasingly oversteps the blurred lines of privacy, at the expense of users who then express their feeling of being abused through massive resort to ad blockers[^1]. A true ad blocking market is emerging, consisting of technical solutions and secret agreements, in browsers as well as on smartphones[^0]. Faced with this phenomenon, some online editors no longer hesitate to block access to their content to users running ad blockers, which sends a very negative signal to their audience.
 
-[^0]:
+[^0]: The ad blocker of iOS 9, for example, relies on a business model in which advertisers must pay to have their ads displayed.
 
-  The ad blocker of iOS 9, for example, relies on a business model in which advertisers must pay to have their ads displayed.
-
-[^1]:
-
-  According to a survey by PageFair, these ad blockers would be installed on the computers of 35% of European Internet users and 41% of 16-29 year olds. UCBrowser and Maxthon, who claim more than 600 million users in Asia, are also partnering with ad blocking solutions.
+[^1]: According to a survey by PageFair, these ad blockers would be installed on the computers of 35% of European Internet users and 41% of 16-29 year olds. UCBrowser and Maxthon, who claim more than 600 million users in Asia, are also partnering with ad blocking solutions.
 
 This war is extremely costly and is the result of a gamble on alternative sources of income (based on advertising) rather than promoting the real added value of content. Many players are actually giving in to "everything-for-free" mentality, mass-producing content with low informational value and maximizing advertising revenues through real clickbait with no editorial line. Empires are built, going as far as acquiring websites to spread advertising trojans, to the detriment of historical readers, who are rarely fooled by this.
 
@@ -37,9 +33,7 @@ These quantity-based approaches devalue content and reduce its advertising value
 
 To make things clear, this solution has become so unacceptable that even the online advertising industry, represented by the IAB[^2], confirms it:
 
-[^2]:
-
-  The Internet Advertising Bureau is the leading association for online advertising professionals, bringing together many players in the advertising ecosystem: creative agencies, media sales agencies, partners, hosting service providers. Generally the IAB massively promotes online advertising by funding studies on its effectiveness. This acknowledgement of failure is a real earthquake in the industry.
+[^2]: The Internet Advertising Bureau is the leading association for online advertising professionals, bringing together many players in the advertising ecosystem: creative agencies, media sales agencies, partners, hosting service providers. Generally the IAB massively promotes online advertising by funding studies on its effectiveness. This acknowledgement of failure is a real earthquake in the industry.
 
 > We messed up. As technologists, tasked with delivering content and services to users, we lost track of the user experience.  
 > <cite>Scott Cunningham in <a href="http://www.iab.com/news/lean/" >Getting LEAN with Digital Ad UX</a></cite>
@@ -79,9 +73,7 @@ From a business perspective, however, this approach is more than likely to worry
 
 So what does the future hold for content monetization? No one really knows for sure. What is certain is that the harmful potential of ad blockers is driving the industry down a blind alley, forcing it to rethink business models towards more reader-friendly practices, such as L.E.A.N.[^3].
 
-[^3]:
-
-  L.E.A.N. — for "Light, Encrypted, Ad choice supported, Non-invasive ads" — is a new best practice put forward by the IAB.
+[^3]: L.E.A.N. — for "Light, Encrypted, Ad choice supported, Non-invasive ads" — is a new best practice put forward by the IAB.
 
 Many alternatives to the traditional advertising model are being contemplated, considering for example that the reader's attention must be entirely focused on evaluating the quality of the content they are reading, but that in the meantime their device is idle. This means that human attention span can be traded for computing power, e.g. to generate cryptocurrencies for the content producer. But for now, security is mostly insufficient and large-scale deployment would be very complex.
 

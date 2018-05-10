@@ -55,6 +55,6 @@ Dans mon métier, le conseil, on parle souvent de pedagogie, d'éducation, d'acc
 
 Être père m'a appris qu'on ne rendait pas service à des personnes en les forçant à rentrer dans notre univers. Qu'on ne pouvait pas les convaincre de force ou par la menace. Accompagné, élever, c'est avant tout paver le chemin et donner des repères, qu'ils soient suivis ou non. Ils sont au moins vu. Inconsciemment, ils participent à l'évolution.
 
-Pour emporter l'adhésion, il faut aborder l'univers de l’autre, se l’approprier  et savoir comment y apporter les éléments essentiels. Il n’y a qu’en entrant soi-même dans les mécanismes internes d’une entreprise ou d’un groupe qu’on peut lui offrir le meilleur service, du moins celui qui a la plus grande valeur.
+Pour emporter l'adhésion, il faut aborder l'univers de l’autre, se l’approprier et savoir comment y apporter les éléments essentiels. Il n’y a qu’en entrant soi-même dans les mécanismes internes d’une entreprise ou d’un groupe qu’on peut lui offrir le meilleur service, du moins celui qui a la plus grande valeur.
 
 Et souvent, ça implique de donner un peu de sa personne, trouver des moyens détournés et ludiques, utiliser des métaphores narratives (comme ici), apporter de la créativité et de la sérendipité… bref, de l'agilité.

@@ -30,17 +30,13 @@ Je voulais avoir plus de temps en dehors du travail, sans savoir vraiment commen
 
 Je ne voulais pas refuser mais, en même temps, je n'avais plus de congés sur lesquels donner des cours[^1]. J'ai donc entamé une discussion avec mon employeur, Clever Age, par le biais de mon responsable d'agence Sébastien Dugué et de la responsable RH, Hélène Gat. Leur réaction a été immédiatement positive et ils m'ont soutenu en me proposant un avenant à temps partiel (à 92%, pour être précis) ! Parfait !
 
-[^1]:
-
-  J'ai donné des cours sur mes congés de salarié Clever Age pendant cinq ans… vous connaissez le principe de la solution temporaire qui dure ?
+[^1]: J'ai donné des cours sur mes congés de salarié Clever Age pendant cinq ans… vous connaissez le principe de la solution temporaire qui dure ?
 
 Sauf que… l'idée de dégager du temps en dehors du travail était principalement motivée par mon envie de passer du temps avec mes garçons. Nous avons donc discuté avec ma femme, qui avait aussi besoin de réévaluer son emploi du temps, pour intégrer davantage de constance dans nos rythmes avec les petits chats.
 
 Désormais, je dépose les enfants presque tous les matins à l'école, à pied le plus souvent. Cela nous permet de partager le petit-déjeuner et de discuter sur le trajet. Le week-end, nous avons introduit davantage d'activités extérieures (notamment des picnics, y compris sous tente jusqu'à la moitié de l'automne). Enfin, nous avons supprimer les routines liées à la télévision[^2] et introduit à la place un rituel impliquant un long métrage en famille en fin de week-end.
 
-[^2]:
-
-  Elle est toujours là mais ne sert qu'exceptionellement, et jamais pour les programmes entrecoupés de publicité.
+[^2]: Elle est toujours là mais ne sert qu'exceptionellement, et jamais pour les programmes entrecoupés de publicité.
 
 **Constat : résolution tenue !**
 

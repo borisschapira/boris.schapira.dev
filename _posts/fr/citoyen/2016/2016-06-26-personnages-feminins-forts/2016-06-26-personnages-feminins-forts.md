@@ -45,6 +45,4 @@ La plupart des séries que je regarde ou apprécie aujourd'hui contient des pers
 
 Je me suis rendu compte qu'un personnage féminin fort était pour moi un gage de qualité dans une œuvre. Je ne trouve pas l'œuvre meilleure parce qu'un personnage féminin fort y est décrit ou y est central mais je trouve peu crédible une œuvre ou un tel personnage n'existerait pas parce qu'il ne peut pas exister de monde où des hommes sont forts et des femmes ne le sont pas : il s'agit juste d'un monde où on ne regarde que les hommes.
 
-[^hia]:
-
-  En anglais, on dit <span lang="en">have it all</span>, qui est une expression toute faite dont je ne connais pas l'équivalent.
+[^hia]: En anglais, on dit <span lang="en">have it all</span>, qui est une expression toute faite dont je ne connais pas l'équivalent.
