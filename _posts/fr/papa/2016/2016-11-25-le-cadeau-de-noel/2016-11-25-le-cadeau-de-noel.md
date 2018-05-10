@@ -18,8 +18,6 @@ Du coup, après, on lui a demandé pourquoi :
 > — C'est pas plutôt les taupes ? Tu veux une taupe ?  
 > — Oui, ye veux une taupe… Et un sanglier aussi. Paste le sanglier il dort avec moi et il me tape.  
 > — Pourquoi tu as envie d'un sanglier s'il te tape ?  
-> — Paste il me tape que la nuit mais le jour il me tape pas… Alors après je veux un autre sanglier qui me tape pas la nuit !  
+> — Paste il me tape que la nuit mais le jour il me tape pas… Alors après je veux un autre sanglier qui me tape pas la nuit !
 
 Je ne sais pas ce qu'il prend, mais je veux la même chose.
-
-

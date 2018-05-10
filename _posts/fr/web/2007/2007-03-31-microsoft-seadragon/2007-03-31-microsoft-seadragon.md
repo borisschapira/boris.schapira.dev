@@ -15,9 +15,9 @@ Le but avoué de ce projet&nbsp;: changer radicalement la manière dont un utili
 
 Si cela vous semble encore un peu vague, voilà comment résumer le concept en 4 points&nbsp;:
 
-1. vitesse de navigation indépendante de la taille ou de la quantité des objets considérés ;
-2. performance uniquement dépendante du nombre de pixels affichés à l'écran (et de la bande passante disponible, tout de même) ;
-3. transitions fluides ;
-4. agrandissements/réductions rapides quel que soit l'écran.
+1.  vitesse de navigation indépendante de la taille ou de la quantité des objets considérés ;
+2.  performance uniquement dépendante du nombre de pixels affichés à l'écran (et de la bande passante disponible, tout de même) ;
+3.  transitions fluides ;
+4.  agrandissements/réductions rapides quel que soit l'écran.
 
-C'est Seadragon que vous pouvez retrouver derrière [Photosynth](https://photosynth.net/), dont je vous ai déjà parlé, ou encore *DeepFish*, le concept de navigateur mobile de Redmond, dont je devrais vous parler prochainement.
+C'est Seadragon que vous pouvez retrouver derrière [Photosynth](https://photosynth.net/), dont je vous ai déjà parlé, ou encore _DeepFish_, le concept de navigateur mobile de Redmond, dont je devrais vous parler prochainement.

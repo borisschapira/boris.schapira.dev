@@ -14,4 +14,3 @@ Je joue à [Spiderman Unlimited](http://www.gameloft.com/minisites/spidermanunli
 > — Doteur  otopute !  
 > — On peut dire ça, oui. Et il protége les habitants de...  
 > — Deurman 'tèche bitants téléphone papa !
-

@@ -17,21 +17,21 @@ Cette question est à la base de toute stratégie de WebPerf et pour autant, ell
 
 Il n’y a pas de façon "standard" de mesurer la performance web mais plusieurs, qui correspondent à ce qui se passe dans le navigateur lors de l’accès à une page Web. Quand vous tapez dans votre barre d’adresse l’URL de Clever Age et attendez que la page s’affiche, votre navigateur&nbsp;:
 
-1. Se connecte au serveur hébergeant le site et lui demande de renvoyer le contenu de la page HTML
-2. Reçoit le contenu de la page HTML
-3. Interprète le code HTML pour comprendre comment est structurée la page et de quels objets supplémentaires (images, mises en forme, scripts…) elle a besoin pour être rendue
-4. Charge l’ensemble des ressources en question
-5. Affiche la page
-6. Exécute d’autres script après le chargement, impliquant eux-même le chargement de nouvelles ressources et le déclenchement d’animations
+1.  Se connecte au serveur hébergeant le site et lui demande de renvoyer le contenu de la page HTML
+2.  Reçoit le contenu de la page HTML
+3.  Interprète le code HTML pour comprendre comment est structurée la page et de quels objets supplémentaires (images, mises en forme, scripts…) elle a besoin pour être rendue
+4.  Charge l’ensemble des ressources en question
+5.  Affiche la page
+6.  Exécute d’autres script après le chargement, impliquant eux-même le chargement de nouvelles ressources et le déclenchement d’animations
 
 La mesure de la performance du site passe alors par la compréhension de plusieurs indicateurs&nbsp;:
 
 {% capture img_alt %}Schéma présentant les différentes étapes du chargement d'une page Web{% endcapture %}
 {% capture img_caption %}Les différentes étapes du chargement d'une page Web{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2012-07-31/1.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2012-07-31/1.png"
+alt=img_alt
+caption=img_caption
 %}
 
 ## Le "Time To First Byte"

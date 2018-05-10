@@ -16,4 +16,3 @@ locale: fr_FR
 [s'adressant à son frère]
 
 > — Hey, faire un effort maintenant ! Faire pleurer Maman, après !
-

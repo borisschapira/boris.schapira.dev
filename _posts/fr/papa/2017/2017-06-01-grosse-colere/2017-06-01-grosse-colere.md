@@ -11,9 +11,4 @@ Mon grand veut qu'on écoute la bande originale de [Double Kick Heroes](http://w
 
 > — Ah ben il crie le monsieur, là !  
 > — Oui, c'est un style de musique.  
-> — Moi je pense qu'il est pas content parce qu'on arrête pas de lui couper la parole, alors il s'énerve !  
-
-
-
-
-
+> — Moi je pense qu'il est pas content parce qu'on arrête pas de lui couper la parole, alors il s'énerve !

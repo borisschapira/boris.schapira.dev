@@ -20,7 +20,7 @@ Il leur suffit ensuite d'envoyer des emails au hasard disant de se rendre sur ce
 
 Ne pensez pas que cela soit bien dur. De nombreux sites hébergent des solutions toutes faites qui facilitent la vie des individus malveillants, leur donnant des chartes graphiques identiques à de vrais sites et des outils pour automatiser les envois d'e-mails au plus grand nombre.
 
-Une fois la victime *hameçonnée*, les conséquences sont variées : prélèvement d'argent ou détournement des versements de prestations sociales.
+Une fois la victime _hameçonnée_, les conséquences sont variées : prélèvement d'argent ou détournement des versements de prestations sociales.
 
 ## Conseil
 

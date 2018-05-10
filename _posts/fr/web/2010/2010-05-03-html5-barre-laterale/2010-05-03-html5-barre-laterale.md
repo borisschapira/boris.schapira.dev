@@ -8,7 +8,7 @@ type: post
 locale: fr_FR
 ---
 
-Ces derniers jours, deux ouvrages alimentent mes temps libres: **Dive Into HTML 5** de Mark Pilgrim que je lis directement [à cette adresse](http://diveintohtml5.info "&quot;Dive Into HMTL5&quot; by Mark Pilgrilm") et **Transcender CSS**, d'Andy Clarke, acheté [chez Amazon](http://www.amazon.fr/Transcender-CSS-Sublimez-design-web/dp/2212121075/ref=pd_rhf_p_t_4 "&quot;Transcender CSS&quot; by Andy Clarke on Amazon.fr").
+Ces derniers jours, deux ouvrages alimentent mes temps libres: **Dive Into HTML 5** de Mark Pilgrim que je lis directement [à cette adresse](http://diveintohtml5.info '"Dive Into HMTL5" by Mark Pilgrilm') et **Transcender CSS**, d'Andy Clarke, acheté [chez Amazon](http://www.amazon.fr/Transcender-CSS-Sublimez-design-web/dp/2212121075/ref=pd_rhf_p_t_4 '"Transcender CSS" by Andy Clarke on Amazon.fr').
 
 En commençant à réaliser une ébauche de thème Wordpress tirant partie d'HTML5, je me suis posé quelques questions concernant la barre latérale.
 
@@ -20,10 +20,10 @@ Après de telles définitions, le découpage est aisé&nbsp;: au sein d'une bali
 
 {% capture img_alt %}Une capture de la sidebar du blog au moment où j'écris ces ligne, avec des zones numérotées{% endcapture %}
 {% capture img_caption %}La barre latérale de BorisSchapira.com{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2010-05-03/sidebar.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2010-05-03/sidebar.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Prenons l'exemple de la barre latérale de ce site au moment où j'écris ces lignes. Les éléments 4 et 7 sont manifestement destinés à accueillir des éléments de navigation mais cela n'est pas le cas des éléments 1, 2 et 6 qui contiennent des sections indépendantes mais informatives sur le site. Plusieurs `div` feront très bien l'affaire. Les sections 3 et 5, enfin, sont des listes de liens. En tant que listes, elles seront contenues dans des éléments `ul`, `li` et évidemment `a` auxquels auront été ajouté l'attribut `rel="external"`, dédié aux liens externes.

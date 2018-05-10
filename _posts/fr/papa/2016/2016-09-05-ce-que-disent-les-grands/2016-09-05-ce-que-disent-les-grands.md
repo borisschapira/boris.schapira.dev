@@ -14,9 +14,9 @@ Ce soir, le grand a débarassé la table à la demande de sa mère, en ne se tro
 > — C'est encore mieux ! C'est bien, mon fils, tu iras loin !
 
 {% include video_as_a_gif.html.liquid
-    slug="wtf"
-    alt="Gary Coleman n'est pas sûr d'avoir compris."
-    caption="Là, j'ai vu le doute sur son visage."
+slug="wtf"
+alt="Gary Coleman n'est pas sûr d'avoir compris."
+caption="Là, j'ai vu le doute sur son visage."
 %}
 
 > Loin où, Papa ?

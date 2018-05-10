@@ -13,9 +13,9 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;! Et quand c
 
 ## Modification utile
 
-> **Client** : Je pense qu'on tient là une piste d'évolution intéressante qu'il faudrait implémenter. Non d'ailleurs, c'est tellement important que c'est limite un problème que ça ne soit pas déjà développé. D'ailleurs on va marquer ça comme anomalie et demander un développement urgent.  
+> **Client** : Je pense qu'on tient là une piste d'évolution intéressante qu'il faudrait implémenter. Non d'ailleurs, c'est tellement important que c'est limite un problème que ça ne soit pas déjà développé. D'ailleurs on va marquer ça comme anomalie et demander un développement urgent.
 >
-[… plusieurs jours plus tard]
+> [… plusieurs jours plus tard]
 >
 > **Développeur** : Voilà, c'est fait. Ça m'a pris du temps, mais le résultat est conforme à vos attentes.  
 > **Client** : Hum, je pense qu'en fait cette fonctionnalité est inutile, nous ne l'utiliserons donc pas.  
@@ -26,7 +26,7 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;! Et quand c
 
 > **Développeur** : La machine est complètement bloquée, que s'est-il passé&nbsp;?  
 > **Client** : Je ne sais pas, j'ai juste cliqué.  
-> **Développeur** : Vous avez *juste* cliqué&nbsp;?  
+> **Développeur** : Vous avez _juste_ cliqué&nbsp;?  
 > **Client** : Oui enfin, j'ai cliqué, ça n'allait pas assez vite, alors j'ai re-cliqué. Huit fois. Au cas où.
 
 ## Cheaters sometimes win
@@ -45,9 +45,9 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;! Et quand c
 
 ## Homeland Security
 
-> ***Division Sécurité*** : Il faut revoir entièrement l'application, elle n'est pas cohérente en terme de sécurité avec le document 45b-3 paragraphe 12 rangé dans le tiroir du bas du meuble à gauche dans le bureau 'Eloise', Etage 4, bâtiment B.  
+> **_Division Sécurité_** : Il faut revoir entièrement l'application, elle n'est pas cohérente en terme de sécurité avec le document 45b-3 paragraphe 12 rangé dans le tiroir du bas du meuble à gauche dans le bureau 'Eloise', Etage 4, bâtiment B.  
 > **Consultant** : Ce document m'a-t-il été remis&nbsp;? Je n'en ai pas le souvenir.  
-> ***Division Sécurité*** : Vous n'avez pas le droit de consulter ce document, vous n'êtes pas assez accrédité.
+> **_Division Sécurité_** : Vous n'avez pas le droit de consulter ce document, vous n'êtes pas assez accrédité.
 
 ## Renvoi de balle
 

@@ -8,12 +8,12 @@ type: post
 locale: fr_FR
 ---
 
-La Toile est magique lorsqu'elle est capable de transformer quelques mots de [Marie-Jo Foley](http://en.wikipedia.org/wiki/Mary_Jo_Foley) en un évènement secouant toutes la communauté des développeurs MS. À tel point que les responsables produit Vista ont même d&ucirc; s'en expliquer sur leur [blog officiel](https://login.live.com/login.srf?wa=wsignin1.0&amp;wtrealm=blogs.technet.com&amp;wreply=https%3a%2f%2fblogs.technet.com%2fb%2fwindows_vista_france%2farchive%2f2007%2f07%2f10%2fla-beta-1-du-sp1-bient-t-disponible.aspx%3fstoAI%3d10&amp;wp=MBI_FED_SSL&amp;wlcxt=microsoft%24microsoft%24microsoft)… pour finalement ne répéter que ce que tout le monde savait déjà : le SP1 de Vista (un SP ou Service Pack est, rappelons-le, un ensemble de modifications et de mises-à-jour destinées au système pour l'améliorer) sera en priorité testé par une population réduite avant d'être dévoilé au grand public, et ces tests commenceront bientôt.
+La Toile est magique lorsqu'elle est capable de transformer quelques mots de [Marie-Jo Foley](http://en.wikipedia.org/wiki/Mary_Jo_Foley) en un évènement secouant toutes la communauté des développeurs MS. À tel point que les responsables produit Vista ont même d&ucirc; s'en expliquer sur leur [blog officiel](https://login.live.com/login.srf?wa=wsignin1.0&wtrealm=blogs.technet.com&wreply=https%3a%2f%2fblogs.technet.com%2fb%2fwindows_vista_france%2farchive%2f2007%2f07%2f10%2fla-beta-1-du-sp1-bient-t-disponible.aspx%3fstoAI%3d10&wp=MBI_FED_SSL&wlcxt=microsoft%24microsoft%24microsoft)… pour finalement ne répéter que ce que tout le monde savait déjà : le SP1 de Vista (un SP ou Service Pack est, rappelons-le, un ensemble de modifications et de mises-à-jour destinées au système pour l'améliorer) sera en priorité testé par une population réduite avant d'être dévoilé au grand public, et ces tests commenceront bientôt.
 
 Non, la grande question c'est : **la date de sortie** de ce SP1\. Plusieurs rumeurs circulent, mais les spécialistes s'accordaient jusqu'ici sur deux choses :
 
-*   Le SP1 ne sortira pas avant le dernier trimestre 2007
-*   Le SP1 sortira probablement en même temps que Windows Server 2008, dont Vista partage le noyau
+* Le SP1 ne sortira pas avant le dernier trimestre 2007
+* Le SP1 sortira probablement en même temps que Windows Server 2008, dont Vista partage le noyau
 
 Mais attention : c'est désormais officiel, Windows Server 2008 sortira le _27 février 2008_ lors d'un évènement à Los Angeles. Toutes les hypothèses sont donc à nouveau envisageables.
 

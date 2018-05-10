@@ -5,7 +5,7 @@ type: post
 locale: fr_FR
 ---
 
-> Tout à l'heure, il grattera le fromage froid sur le lino, pendra de toutes petites chemises sur la corde à linge, mettra du désodorisant sur les coussins du salon pour enlever l'odeur de pipi et ramassera les petites crottes dans la baignoire.  
+> Tout à l'heure, il grattera le fromage froid sur le lino, pendra de toutes petites chemises sur la corde à linge, mettra du désodorisant sur les coussins du salon pour enlever l'odeur de pipi et ramassera les petites crottes dans la baignoire.
 >
 > Il repèrera une petite rougeur derrière l'oreille de notre fils, tapera "possibilité de décès suite à une rougeur derrière l'oreille" sur Google et se persuadera qu'il s'agit d'un virus carnivore.  
 > <cite>["Les choses idiotes qu'il faut que vous arrêtiez de dire aux papas"](http://www.huffingtonpost.fr/rosie-devereux/les-choses-idiotes-quil-faut-que-vous-arretiez-de-dire-aux-papas_b_9236436.html), Ashley Miller</cite>

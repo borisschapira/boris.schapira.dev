@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-01-12'
 locale: en_US
-
 ---
 
 > – Dad, is there a Happy Meal for grown-ups?  

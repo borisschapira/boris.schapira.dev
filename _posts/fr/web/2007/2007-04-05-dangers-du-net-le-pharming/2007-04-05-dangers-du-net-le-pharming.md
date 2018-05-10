@@ -11,6 +11,7 @@ locale: fr_FR
 _Depuis que j'ai orienté mes études dans l'informatique, mes amis m'appellent souvent pour résoudre leurs problèmes de configuration ou de virus, quand il ne s'agit pas d'arnaques sur le web. Non pas que cela me dérange, mais je me dis souvent qu'avec un peu plus de sensibilisation et d'information, cela n'arriverait pas. J'ai donc décidé d'écrire quelques articles pour éclairer les choses…_
 
 <!-- more -->
+
 **Description&nbsp;:**
 
 Le Pharming est une attaque quasiment indétectable par l'utilisateur. Elle consiste à remplacer totalement un site commercial existant par une parfaite copie. L'attaque va encore plus loin car une fois que l'utilisateur a saisi ses identifiant et mot de passe, il est redirigé automatiquement vers le site réel, et continue sa navigation sans se douter de rien.

@@ -25,7 +25,7 @@ Heureusement que j'avais en effet mangé du fromage de chèvre…
 {% capture alt_text%}Vidéo-montage d'un homme à tête de chèvre en train de diner.{% endcapture %}
 {% capture caption_text %}Hâte de rencontrer son copain d'école !{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="goat"
-    alt=alt_text
-    caption=caption_text
+slug="goat"
+alt=alt_text
+caption=caption_text
 %}

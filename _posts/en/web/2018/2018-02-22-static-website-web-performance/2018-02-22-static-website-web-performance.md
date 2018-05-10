@@ -13,11 +13,10 @@ loadTwitterWjs: true
 
 For several years now, a new range of solutions have emerged in the web technologies landscape. Static site generators, headless CMS, content infrastructure... these solutions contribute to a global trend. "Static trend", "JAMStack", several names exist but none really covers what is an overall new proposal for web application architecture, and somehow a comeback to the roots of the Web.
 
-
 {% capture img_alt %}Large nested metal gears{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2018-02-21/0_rouages.jpg"
-    alt=img_alt
+{% include rwd-image.html.liquid
+path="/assets/images/2018-02-21/0_rouages.jpg"
+alt=img_alt
 %}
 
 <!-- more -->
@@ -35,10 +34,10 @@ Yet, the dynamic generation of HTTP responses presents significant disadvantages
 
 {% capture img_alt %}Dareboost graph of Pages Timings monitoring. Peaks on the TTFB imply peaks on the Speed Index.{% endcapture %}
 {% capture img_caption %}A high TTFB penalizes the Speed Index of a page.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2018-02-21/1_ttfb_en.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2018-02-21/1_ttfb_en.png"
+alt=img_alt
+caption=img_caption
 %}
 
 To optimize server response time, many caching solutions have appeared over the years. The first user who requests the page undergoes the cost of generation, but the result is stored on one or more proxy servers and sometimes synchronized over different locations, all around the World. These cached pages are then responded to all similar requests, ensuring a quick and consistent delivery. Nowadays, it is possible to find software caching solutions (like [Varnish](https://varnish-cache.org/)), platforms and infrastructures (Content Delivery Networks). All of them ensure that what's dynamic can become static again. The leopard can’t change its spots.
@@ -78,10 +77,10 @@ Contributors can work on flat files which are easy to store and modify. Their on
 
 {% capture img_alt %}A diagram of the contribution and development flow of a site that clearly shows the separation of concerns between developers and contributors.{% endcapture %}
 {% capture img_caption %}Carrot (a digital agency) static CMS workflow, as described [on their blog](https://carrot.is/coding/static_cms.html){% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2018-02-21/2_carrot.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2018-02-21/2_carrot.png"
+alt=img_alt
+caption=img_caption
 %}
 
 After the contribution of the contents, the generation of the website and the deployment are often operated by the same component of the infrastructure. To monitor the performance of this step, you need to evaluate performance of the compilation server during the generation and the deployment (duration, CPU consumption, memory). But that's not all: remember to also monitor the targeted infrastructure (consisting of one or more servers), because copying tasks can be demanding.
@@ -108,10 +107,10 @@ For contributors, the paradigm shift changes everything as it separates the cont
 
 {% capture img_alt %}Forestry.io editing interface{% endcapture %}
 {% capture img_caption %}Forestry.io editing interface. The edited contents are saved in the files of a git repository and can also be edited with a text editor.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2018-02-21/3_forestry.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2018-02-21/3_forestry.png"
+alt=img_alt
+caption=img_caption
 %}
 
 But some products go further and turn the contribution into a first-class experience. Contributors can take advantage of tailor-made solutions, with rich and multimedia contribution options, without any impact on the publication flow or the targeted website performance.
@@ -119,10 +118,10 @@ But some products go further and turn the contribution into a first-class experi
 {% capture img_alt %}Prismic.io slices{% endcapture %}
 {% capture img_caption %}[Prismic.io](https://prismic.io/) is one of the most customizable Content Platform (here, reusable slices). Contents or layouts, everything is contributed on the platform. During the build, the SSG requests the Prismic.io API to retrieve the information.{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    controls="true"
-    url="/assets/images/2018-02-21/4_prismic"
-    alt=img_alt
-    caption=img_caption
+controls="true"
+url="/assets/images/2018-02-21/4_prismic"
+alt=img_alt
+caption=img_caption
 %}
 
 ## Static or dynamic? Tomayto, tomahto
@@ -147,11 +146,11 @@ Unified platforms such as Netlify, while presenting a risk of centralization, ne
 
 Enough out-of-the-box features to allow your Front-End team to focus on front-end development and web performance optimization. With such a low Time To First Byte, the team can fully focus on UX through the measurement of the [Speed Index](https://blog.dareboost.com/en/2018/02/speed-index-web-performance/)!
 
-***
+---
 
 _Thanks to Erin Symons, [Frank Taillandier](https://twitter.com/dirtyf) and the whole [jamstatic.fr community](https://jamstatic.fr/), [Bud Parr](https://twitter.com/budparr), [Nicolas Hoffmann](https://twitter.com/Nico3333fr) and my colleagues [Philippe Guilbert](https://twitter.com/GuilbertPhil) and [Damien Jubeau](https://twitter.com/DamienJubeau) for their time and advice._
 
-***
+---
 
 ## Additional Resources
 

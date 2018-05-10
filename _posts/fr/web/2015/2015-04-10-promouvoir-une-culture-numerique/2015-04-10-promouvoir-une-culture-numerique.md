@@ -18,7 +18,7 @@ Rien, sauf une culture du numérique globalement défaillante au sein de la popu
 
 J'ai le sentiment que mon devoir de **citoyen**, c'est de ne pas s'arrêter à ce constat. C'est une des raisons pour lesquelles je m'emploie chaque jour à aider mes clients à franchir le cap de la transition numérique mais ça ne suffit pas. Il faudrait aussi enrichir la culture des individus et c'est quelque chose de très difficile à faire sur le court terme. Alors je me suis dit que j'allais voir loin, en pensant d'abord aux plus jeunes.
 
-Je me suis déjà prononcé sur [l'apprentissage du code informatique](/2014/06/le-code-a-change/), que je pense inutile pour le plus grand nombre (au mieux, il sera utilisé comme [un signal](http://fr.wikipedia.org/wiki/Signal_(%C3%A9conomie)), à l'image de ce qui se fait dans de nombreux établissements pour l'Allemand en première langue ou les langues mortes, ce qui n'est pas forcément très intéressant au regard de mon objectif).
+Je me suis déjà prononcé sur [l'apprentissage du code informatique](/2014/06/le-code-a-change/), que je pense inutile pour le plus grand nombre (au mieux, il sera utilisé comme [un signal](<http://fr.wikipedia.org/wiki/Signal_(%C3%A9conomie)>), à l'image de ce qui se fait dans de nombreux établissements pour l'Allemand en première langue ou les langues mortes, ce qui n'est pas forcément très intéressant au regard de mon objectif).
 
 J'ai donc décidé de réfléchir plutôt à une approche plus légère et ouverte à la transdisciplinarité. Je propose donc, depuis plusieurs mois, des activités à l'école de mes enfants et dans mon ancien lycée pour sensibiliser les étudiants à l'informatique et au numérique. Les approches sont différentes suivant les âges&nbsp;:
 
@@ -27,9 +27,10 @@ J'ai donc décidé de réfléchir plutôt à une approche plus légère et ouver
 
 Les sujets abordés dépendent, quant-à-eux, des cursus dans lesquels ces interventions peuvent s'inscrire (encore une fois, l'idée n'est pas de créer un nouvel enseignement, mais de donner une couleur numérique à l'existant). Ci-dessous, quelques exemples.
 
------------
+---
 
 ## Education Civique
+
 * Informatique et libertés&nbsp;: un sujet qui aborde les notions de citoyenneté, vie en collectivité, égalité et justice abordés en 4e
 * Internet comme un medium&nbsp;: rappel du rôle des médias et de la protection assurée par leur pluralité. Notion de _doute_ sur les informations trouvées et technique de recoupement.
 * Données personnelles&nbsp;: modélisation et traitement, ce qu'il est possible de savoir sur vous sans le savoir…
@@ -60,7 +61,7 @@ Suivant les séries et les sujets, de nombreux sujets abordables sur le Travail 
 
 L'e-mail est-il une nouvelle forme de communication épistolaire ou s'inscrit-il dans l'immédiateté d'une conversation&nbsp;?
 
------------
+---
 
 L'idée de ces interventions est d'offrir aux plus jeunes une culture numérique qui leur permette, non pas de devenir développeurs, mais plutôt de comprendre les enjeux de leurs choix quotidiens sur Internet. Les sujets abordés sont _à la carte_, et j'essaie d'investir les responsables d'établissement et les professeurs mais pour l'instant, j'ai assez peu de retour, même en proposant d'**offrir gratuitement** mes services.
 

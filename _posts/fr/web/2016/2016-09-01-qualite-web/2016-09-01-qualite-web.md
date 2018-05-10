@@ -22,5 +22,4 @@ Ensuite, pour les <span lang="en">checklists</span> qui vous permettront d'ident
 
 Enfin, parce que si vous n'en commandez pas des zillions, ils se sentiront obligés de tuer un raton-laveur pour mettre dans la troisième édition.
 
-{:.videoWrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cU2JEC_e-mc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include media/youtube.html.liquid id="cU2JEC_e-mc" title="Jacques Prévert - Inventaire" %}

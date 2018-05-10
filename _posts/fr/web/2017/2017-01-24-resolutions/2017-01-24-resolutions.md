@@ -6,6 +6,7 @@ date: '2017-01-24'
 type: post
 locale: fr_FR
 ---
+
 ## Retour sur 2016
 
 En ce début d'année 2016, j'ai décidé de prendre quelques bonnes résolutions. Il est temps de voir où j'en suis alors que 2017 <del>se profile</del> démarre.
@@ -16,10 +17,10 @@ En ce début d'année 2016, j'ai décidé de prendre quelques bonnes résolution
 * [Formaliser mes processus](#formalisme)
 * [Mieux gérer mon énergie](#energie)
 * [Promouvoir l'égalité, lutter contre les inégalités](#egalite)
-    * [Le ménage devant ma porte](#biais)
-    * [Au travail aussi](#travail)
-    * [En tant que citoyen](#politique)
-    * [Dans mes échanges quotidiens](#echanges)
+  * [Le ménage devant ma porte](#biais)
+  * [Au travail aussi](#travail)
+  * [En tant que citoyen](#politique)
+  * [Dans mes échanges quotidiens](#echanges)
 
 <!-- more -->
 
@@ -29,13 +30,17 @@ Je voulais avoir plus de temps en dehors du travail, sans savoir vraiment commen
 
 Je ne voulais pas refuser mais, en même temps, je n'avais plus de congés sur lesquels donner des cours[^1]. J'ai donc entamé une discussion avec mon employeur, Clever Age, par le biais de mon responsable d'agence Sébastien Dugué et de la responsable RH, Hélène Gat. Leur réaction a été immédiatement positive et ils m'ont soutenu en me proposant un avenant à temps partiel (à 92%, pour être précis) ! Parfait !
 
-[^1]: J'ai donné des cours sur mes congés de salarié Clever Age pendant cinq ans… vous connaissez le principe de la solution temporaire qui dure ?
+[^1]:
+
+  J'ai donné des cours sur mes congés de salarié Clever Age pendant cinq ans… vous connaissez le principe de la solution temporaire qui dure ?
 
 Sauf que… l'idée de dégager du temps en dehors du travail était principalement motivée par mon envie de passer du temps avec mes garçons. Nous avons donc discuté avec ma femme, qui avait aussi besoin de réévaluer son emploi du temps, pour intégrer davantage de constance dans nos rythmes avec les petits chats.
 
 Désormais, je dépose les enfants presque tous les matins à l'école, à pied le plus souvent. Cela nous permet de partager le petit-déjeuner et de discuter sur le trajet. Le week-end, nous avons introduit davantage d'activités extérieures (notamment des picnics, y compris sous tente jusqu'à la moitié de l'automne). Enfin, nous avons supprimer les routines liées à la télévision[^2] et introduit à la place un rituel impliquant un long métrage en famille en fin de week-end.
 
-[^2]: Elle est toujours là mais ne sert qu'exceptionellement, et jamais pour les programmes entrecoupés de publicité.
+[^2]:
+
+  Elle est toujours là mais ne sert qu'exceptionellement, et jamais pour les programmes entrecoupés de publicité.
 
 **Constat : résolution tenue !**
 
@@ -71,7 +76,7 @@ En revanche, mon activité physique est toujours faible : j'ai beaucoup pratiqu�
 
 ## Promouvoir l'égalité, lutter contre les inégalités {#egalite}
 
-L'année a été très mouvementée en ce qui concerne les inégalités. Le sujet m'a beaucoup touché et j'ai fait ce que je pouvais, ici ou ailleurs, pour y remédier. 
+L'année a été très mouvementée en ce qui concerne les inégalités. Le sujet m'a beaucoup touché et j'ai fait ce que je pouvais, ici ou ailleurs, pour y remédier.
 
 ### Le ménage devant ma porte {#biais}
 
@@ -85,7 +90,7 @@ On va essayer de ne pas y passer trois heures : quasiment tout ce que j'ai écri
 
 ### Au travail aussi {#travail}
 
-Professionnellement, 2016 a aussi été l'année de ma redécouverte de la Qualité Web. J'ai mis à l'épreuve mes compétences dans le cadre d'examen ou d'audits et je suis content de l'avoir fait. 
+Professionnellement, 2016 a aussi été l'année de ma redécouverte de la Qualité Web. J'ai mis à l'épreuve mes compétences dans le cadre d'examen ou d'audits et je suis content de l'avoir fait.
 
 Chaque test réalisé dans [JAWS](http://www.accessolutions.fr/Jaws-pour-Windows.html) est un constat d'humilité. Chaque navigation au clavier est un exercice de patience. Réaliser des audits complets sur le RGAA permet de se rendre compte du chemin à parcourir pour rendre le Web accessible à tous.
 
@@ -102,7 +107,7 @@ En chemin, j'ai rencontré ou me suis rapproché de pas mal de gens qui pensent 
 > Combien de fois les femmes féministes répètent à des hommes que le souci n’est pas de savoir à quel point ils sont "des mecs biens" ? Combien d’antiracistes expriment leur lassitude ou leur mépris face aux blancs qui se prennent pour des héros parce que "moins racistes" ou ayant fait une mission humanitaire? Il existe même des termes spécifiques: <span lang="en">Nice Guy</span>, <span lang="en">White Saviour</span>, Chevalier blanc…
 > <cite>"[Social Justice Warriors, notre violence n’est pas virtuelle](https://lesquestionscomposent.fr/social-justice-warriors-notre-violence-nest-pas-virtuelle/)", Lauren Plume</cite>
 
-J'ai en effet rencontré de grandes difficultés avec certaines personnes… violentes, je pense que c'est bien le mot, qui ont rejeté mon propos en me cataloguant immédiatement comme (rayez les mentions inutiles) mâle blanc cisgenre hétéro valide neurotypique CSP+, utilisateur de produits propriétaires, vivant dans un des pays développés les plus riches du monde et en bonne santé (avec tous mes membres). 
+J'ai en effet rencontré de grandes difficultés avec certaines personnes… violentes, je pense que c'est bien le mot, qui ont rejeté mon propos en me cataloguant immédiatement comme (rayez les mentions inutiles) mâle blanc cisgenre hétéro valide neurotypique CSP+, utilisateur de produits propriétaires, vivant dans un des pays développés les plus riches du monde et en bonne santé (avec tous mes membres).
 
 À raison.
 
@@ -110,10 +115,10 @@ C'est justement parce que je suis conscient de ma chance que j'essaie de m'inté
 
 Mais rien ne m'oblige à les écouter. J'ai progressivement appris à esquiver ce genre de militants car les discussions sont alors très longues, sans intérêt autre que celui de se rouler dans la fange ensemble. À la troisième discussion où on m'a traité de violeur, de meurtrier ou de nazi parce que je n'étais pas intégralement en accord avec le discours agressif de mes interlocuteurs·trices, j'ai lâché l'affaire.
 
-> Au lieu d'essayer de diffuser plus largement des idées, et de chercher à améliorer le monde, on se retrouve en nombre de plus en plus petit, les plus purs possibles sur le plus de sujets possibles. On a créé une espèce de secte intolérante, où le moindre petit écart à la norme établie sera mal jugé. 
+> Au lieu d'essayer de diffuser plus largement des idées, et de chercher à améliorer le monde, on se retrouve en nombre de plus en plus petit, les plus purs possibles sur le plus de sujets possibles. On a créé une espèce de secte intolérante, où le moindre petit écart à la norme établie sera mal jugé.
 > <cite>"[Amilitant](http://edgard.fdn.fr/blog/index.php?post/2016/11/03/Amilitants)", Benjamin Bayart</cite>
 
-Je ne comprends pas leur colère, mais ne leur refuse pas. Chacun ses luttes, chacun ses méthodes. La plupart des inégalités ont été dénoncées par l'action **puis** corrigées par le dialogue. Il faut de tout pour (re)faire <del>un</del> le monde. 
+Je ne comprends pas leur colère, mais ne leur refuse pas. Chacun ses luttes, chacun ses méthodes. La plupart des inégalités ont été dénoncées par l'action **puis** corrigées par le dialogue. Il faut de tout pour (re)faire <del>un</del> le monde.
 
 Pour ma part, je réserve mon énergie afin qu'elle serve d'abord ici, à ma petite maïeutique personnelle. J'ai bien sûr toujours des discussions engagées mais uniquement avec certains membres de ma famille, de mes amis, de mes collègues… un cercle rapproché de personnes avec que je sais que je peux discuter, être en désaccord, même profond, et ensuite prendre l'apéro.
 

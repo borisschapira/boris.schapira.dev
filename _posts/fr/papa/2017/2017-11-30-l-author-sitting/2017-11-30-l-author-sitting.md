@@ -19,6 +19,6 @@ Trente minutes plus tard, il revient avec une idée.
 
 {% capture alt_text%}Sid, de "Hey Arnold!", déguisé en homme d'affaire, dit "Taking care of some business"{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="business"
-    alt=alt_text
+slug="business"
+alt=alt_text
 %}

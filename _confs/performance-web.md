@@ -7,10 +7,7 @@ events:
     date: 2012-05-25 
 ---
 
-<div class="videoWrapper">
-    <iframe src="https://player.vimeo.com/video/56931059?color=ffffff" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-    <p><a href="https://vimeo.com/56931059">Mettre en place une strat&eacute;gie de performance web, Boris Shapira - Sud Web 2012</a> from <a href="https://vimeo.com/sudweb">Sud Web</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</div>
+{% include media/vimeo.html.liquid id="56931059" title="Mettre en place une strat&eacute;gie de performance web, Boris Shapira - Sud Web 2012" %}
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Mettre en place une stratégie de Performance Web](http://blog.clever-age.com/fr/2012/11/16/comment-mettre-en-place-une-strategie-de-performance-web/) plusieurs mois après la conférence. Son contenu est donc plus élaboré.</em>
 

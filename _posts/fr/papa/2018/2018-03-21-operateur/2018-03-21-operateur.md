@@ -23,10 +23,7 @@ Il me montre un de ses jouets, je comprends la combine, mais décide de le prend
 
 {% capture alt_text%}Extrait d'E.T. de Spielberg{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    url="/assets/images/papa/2018-03-21/et"
-    alt=alt_text
-    caption="E.T. téléphone mai-son !"
+url="/assets/images/papa/2018-03-21/et"
+alt=alt_text
+caption="E.T. téléphone mai-son !"
 %}
-
-
-

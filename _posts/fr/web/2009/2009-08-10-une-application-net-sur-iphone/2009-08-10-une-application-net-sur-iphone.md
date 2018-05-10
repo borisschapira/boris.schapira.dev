@@ -14,4 +14,4 @@ Non, vous ne rêvez pas. Les joies du .NET seront bientôt accessibles aux déve
 
 Evidemment, certaines contraintes imposées par Apple dans ses API limitent les possibilités de .NET. Mais les développeurs à l’origine du projet Mono font tout leur possible pour optimiser tout ça et apporter le meilleur du framework. Les [Génériques](http://msdn.microsoft.com/fr-fr/library/ms172192.aspx) sont notamment déjà de la partie.
 
-Si tout cela vous intéresse, n’hésitez pas à visiter la page de [MonoTouch](http://www.mono-project.com/MonoTouch) ou [à télécharger  la version bêta](http://www.mono-project.com/MonoTouch_Beta).
+Si tout cela vous intéresse, n’hésitez pas à visiter la page de [MonoTouch](http://www.mono-project.com/MonoTouch) ou [à télécharger la version bêta](http://www.mono-project.com/MonoTouch_Beta).

@@ -17,16 +17,16 @@ Traduction en langage non-technique&nbsp;: il y a des fiches partout car elles s
 
 Les objectifs de la refonte alors envisagée sont assez simples à énumérer&nbsp;:
 
-1. Unifier les informations écrites/numériques
-2. Définir une [taxonomie](http://fr.wikipedia.org/wiki/Taxonomie#Homonymie_en_informatique) des informations conservées
-3. Introduire des mécanismes de contrôle des accès
-4. Communiquer sur les évolutions
+1.  Unifier les informations écrites/numériques
+2.  Définir une [taxonomie](http://fr.wikipedia.org/wiki/Taxonomie#Homonymie_en_informatique) des informations conservées
+3.  Introduire des mécanismes de contrôle des accès
+4.  Communiquer sur les évolutions
 
 **Fantasmes et démagogie**
 
 D'une simple refonte d'un sous-système d'information, EDVIGE a rapidement été présenté comme un véritable scandale. Certains ont annoncé la possibilité d'être [fiché pour tout et rien](http://web.archive.org/web/20080911081722///www.liberation.fr:80/actualite/societe/349602.FR.php), d'autres ont vu dans cette initiative une [infraction grave](http://web.archive.org/web/20081216084725///www.cap21.net:80/dynamic/dossier.php?id=1043%3Cbr/%3E)[ aux libertés individuelles](http://web.archive.org/web/20081216084725///www.cap21.net:80/dynamic/dossier.php?id=1043%3Cbr/%3E). Ces données dites "sensibles" (religion, orientation sexuelle, orientation politique…) sont déjà collectées dans les multiples bases existantes. Le travail qui a été fait dans le projet de fusion des bases à donc impliqué la présence de ces champs dans les fiches individuelles standardisées, même si ils resteront vides pour 99 % des citoyens.
 
-Évidemment, cette [taxonomie](http://fr.wikipedia.org/wiki/Taxonomie#Homonymie_en_informatique) maladroite a fait un flop. La machine médiatique s'emballe et brandit le spectre [des mauvais souvenirs](https://fr.answers.yahoo.com/question/index?qid=20080903095407AAd3yfr).** **Le Net est le premier à réagir et la [pétition contre EDVIGE](http://web.archive.org/web/20090412070052///nonaedvige.ras.eu.org:80/) sévit pendant 3 mois avant qu'un média papier ne relaie l'information. Comme à chaque couac, notre président reprend le dossier, [tape sur les doigts des boucs émissaires](http://web.archive.org/web/20080922053339///www.liberation.fr:80/actualite/politiques/352907.FR.php?), demande qu'on fasse une [coupe de printemps au projet](http://www.lejdd.fr/cmc/politique/200838/grand-toilettage-pour-edvige_150124.html) et propose même de le défendre [devant un organisme de contrôle indépendant](http://tempsreel.nouvelobs.com/).
+Évidemment, cette [taxonomie](http://fr.wikipedia.org/wiki/Taxonomie#Homonymie_en_informatique) maladroite a fait un flop. La machine médiatique s'emballe et brandit le spectre [des mauvais souvenirs](https://fr.answers.yahoo.com/question/index?qid=20080903095407AAd3yfr).\*\* \*\*Le Net est le premier à réagir et la [pétition contre EDVIGE](http://web.archive.org/web/20090412070052///nonaedvige.ras.eu.org:80/) sévit pendant 3 mois avant qu'un média papier ne relaie l'information. Comme à chaque couac, notre président reprend le dossier, [tape sur les doigts des boucs émissaires](http://web.archive.org/web/20080922053339///www.liberation.fr:80/actualite/politiques/352907.FR.php?), demande qu'on fasse une [coupe de printemps au projet](http://www.lejdd.fr/cmc/politique/200838/grand-toilettage-pour-edvige_150124.html) et propose même de le défendre [devant un organisme de contrôle indépendant](http://tempsreel.nouvelobs.com/).
 
 **Mais que fait la CNIL&nbsp;?**
 

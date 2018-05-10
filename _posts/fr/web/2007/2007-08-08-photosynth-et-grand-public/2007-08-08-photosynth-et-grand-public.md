@@ -15,7 +15,7 @@ Pour avoir un peu travaillé avec mes amis esieens sur un projet de calibrage de
 
 La première difficulté à la mise en place d'un service ouvert au grand public est ainsi indéniablement technologique&nbsp;: offrir espace et puissance pour une telle application n'est envisageable que pour une société dont le métier est en rapport avec la photographie et la maintenance de serveurs dédiés au stockage pour le grand public, ce qui n'est pas le cas de Microsoft même s'il essaie de ne pas rater ce tournant avec [Windows Live Folders](https://skydrive.live.com/error.html).
 
-Autre problème&nbsp;: la publicité indésirable. En effet, PhotoSynth positionne automatiquement les photos qui l'alimentent en fonction de caractéristiques communes qu'il peut reconnaitre. Que se passerait-il si un bandeau publicitaire venait occuper une petite partie d'une photo de la Tour Eiffel&nbsp;? Et bien elle serait probablement intégrée au panorama de la Tour Eiffel, offrant l'assurance pour l'annonceur d'une visibilité gratuite. 
+Autre problème&nbsp;: la publicité indésirable. En effet, PhotoSynth positionne automatiquement les photos qui l'alimentent en fonction de caractéristiques communes qu'il peut reconnaitre. Que se passerait-il si un bandeau publicitaire venait occuper une petite partie d'une photo de la Tour Eiffel&nbsp;? Et bien elle serait probablement intégrée au panorama de la Tour Eiffel, offrant l'assurance pour l'annonceur d'une visibilité gratuite.
 
 En poussant encore plus loin, on peut imaginer l'exemple de publicités intégrant elles-mêmes des éléments de décor reconnus par PhotoSynth. Pour continuer avec l'exemple de la Tour Eiffel, on pourrait très bien imaginer dé-zoomer d'une photo prise d'un des pieds et finir sur cette publicité du Club Med.
 

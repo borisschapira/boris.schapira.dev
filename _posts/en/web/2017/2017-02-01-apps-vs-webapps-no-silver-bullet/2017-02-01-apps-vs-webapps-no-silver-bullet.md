@@ -20,12 +20,12 @@ Let's take a look at the different logical biases related to this topic.
 
 Let's imagine that we want to evaluate the user satisfaction for various applications: pure native applications, cross-platform applications, semi-hybrid applications with React Native, "installed" <abbr title="Progressive Web Apps">PWAs</abbr> on Android 6, not-installed <abbr title="Progressive Web Apps">PWAs</abbr> and non-progressive Web App. With these measurements, we would be able to produce a graph with the level of satisfaction on the x-axis while the y-axis represents how close to a "native application" the app is.
 
-{% capture img_alt %}Our first graph shows the user satisfaction for each group of application depending on the app  technical similarities  with  native applications.{% endcapture %}
-{% capture img_caption %}Our first graph shows the user satisfaction for each group of application depending on the app  technical similarities  with  native applications.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-02-01/en/1.png"
-    alt=img_alt
-    caption=img_caption 
+{% capture img_alt %}Our first graph shows the user satisfaction for each group of application depending on the app technical similarities with native applications.{% endcapture %}
+{% capture img_caption %}Our first graph shows the user satisfaction for each group of application depending on the app technical similarities with native applications.{% endcapture %}
+{% include rwd-image.html.liquid
+path="/assets/images/2017-02-01/en/1.png"
+alt=img_alt
+caption=img_caption
 %}
 
 It is hard to make any precise conclusion, however we can identify a global trend by analyzing the average satisfaction of each group of applications: the most "native" apps seem to be more likely to generate satisfaction.
@@ -36,10 +36,10 @@ Now let's imagine that satisfaction depends on the type of application. In other
 
 {% capture img_alt %}A second graph where it's clear that the trends are very different depending on the application type{% endcapture %}
 {% capture img_caption %}So it's not so easy, right?{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-02-01/en/2.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2017-02-01/en/2.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Trends appear to be less obvious.
@@ -58,10 +58,10 @@ What if the applications do not receive the same funding according to their type
 
 {% capture img_alt %}This time, we can also read the estimated cost of every app. Native apps seems to cost more, but it is still difficult to correlate data.{% endcapture %}
 {% capture img_caption %}Still not obvious, huh{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-02-01/en/3.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2017-02-01/en/3.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Native applications seem to cost more, which is understandable: they need to be developed on two or three different systems whereas cross-platform or web development can easily be used on different hardwares. But this statement is not an absolute. On this graph, we can see that a high cost for a semi-hybrid office application. It's impossible to know if this cost is a chosen investment or if it's the consequence of a bad choice of technology coupled with stubbornness.
@@ -72,7 +72,7 @@ We can also notice another visible trend: we found high costs for eCommerce appl
 
 Numbers are very difficult to interpret because causes and effects get muddled up when you mix an underlying technology and a functional need. We have a real paradox here, called the "Yule-Simpson paradox": regardless of the constituent groups (price, objective, satisfaction…), the different correlations observed are not consistent with what is observed in each of the groups. There is a lack of information that influences all factors.
 
-There is a good example which could illustrate this problem, an example that I would call <em>"the impossible application"</em>. Imagine an application that will require all your skills, your teams' time and an open access to the native features to create <em>the</em> perfect UX. 
+There is a good example which could illustrate this problem, an example that I would call <em>"the impossible application"</em>. Imagine an application that will require all your skills, your teams' time and an open access to the native features to create <em>the</em> perfect UX.
 
 So you mobilize your teams, the development is long and expensive and… you fail. Nobody likes it, it's not successfull. You have a perfect example of an application that is expensive to develop, a development which you would <strong>never</strong> have tried with an hybrid technology but which skews statistics and make you believe that the "native" was not the right solution. Here is the reality : <strong>we do not expect the same thing from a native app and an hybrid one.</strong>
 

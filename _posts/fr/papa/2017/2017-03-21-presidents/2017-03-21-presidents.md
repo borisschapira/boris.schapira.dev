@@ -23,6 +23,6 @@ Ce matin, nous sommes revenus sur le grand événement de la veille, le débat. 
 * des chaussures roses pour tout le monde (mais moins jolies que les siennes) ;
 * le droit de ramener chez soi tous les livres de la bibliothèque et lire autant qu'on veut.
 
-***
+---
 
 Votez pour eux.

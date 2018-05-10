@@ -19,4 +19,4 @@ La société y présente notamment son tableau de bord dont le design est assez 
 
 J’espère que, dans un prochain article, ils nous parleront de la façon dont ils incluent la performance Web dans leur intégration continue, et des modalités de leurs levées d’alertes. La performance Web a bien besoin d’évangiles, et GitHub est le bienvenu.
 
-[Lire l’article de GitHub](https://github.com/blog/1252-how-we-keep-github-fast "&quot;How we keep GitHub fast&quot;, The GitHub Blog").
+[Lire l’article de GitHub](https://github.com/blog/1252-how-we-keep-github-fast '"How we keep GitHub fast", The GitHub Blog').

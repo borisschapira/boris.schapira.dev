@@ -20,4 +20,3 @@ Discussion avec le grand. Parfois, je ne sais pas trop où il m'emmène...
 > — Oui. Pas mourir dans l'orage, moi. A pas mort dans l'orage le chien de Papa petit ?  
 > — Non chéri, l'orage ne te tuera pas. Et mon chien était vieux... Rien à voir avec l'orage !  
 > — Ah d'accord. Ça va mieux. Merci Papa !
-

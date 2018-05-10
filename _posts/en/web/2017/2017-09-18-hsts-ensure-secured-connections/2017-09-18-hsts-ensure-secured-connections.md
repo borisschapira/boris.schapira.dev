@@ -10,14 +10,14 @@ tags:
 locale: en_US
 ---
 
-Our regular readers [of the Dareboost blog] already know that [HTTPS is now a requirement for any websites](https://blog.dareboost.com/en/2016/03/https-requirement-for-your-website/ "HTTPs is a requirement for your website &#124; DareBoost Blog"). The urge to get rid of unsecured navigation has never been stronger: each release of Google Chrome or Mozilla Firefox comes with a new warning sign for users sharing private data. Soon, all forms will be concerned.
+Our regular readers [of the Dareboost blog] already know that [HTTPS is now a requirement for any websites](https://blog.dareboost.com/en/2016/03/https-requirement-for-your-website/ "HTTPs is a requirement for your website | DareBoost Blog"). The urge to get rid of unsecured navigation has never been stronger: each release of Google Chrome or Mozilla Firefox comes with a new warning sign for users sharing private data. Soon, all forms will be concerned.
 
 But offering an HTTPS version of your website is not enough to automatically redirect all your HTTP traffic to this secured version.
 
 {% capture img_alt %}Along a railway switch, a two-color light indicates if a train can pass.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-09-18/1.jpg"
-    alt=img_alt
+{% include rwd-image.html.liquid
+path="/assets/images/2017-09-18/1.jpg"
+alt=img_alt
 %}
 
 <!-- more -->
@@ -62,7 +62,7 @@ In a nutshell, the HSTS directive can be used in addition to a 301 redirect to s
 
 ## HSTS Preloading to reliably secure the exchanges
 
-To secure even the first request, the Chromium Projects maintains a list of valid HSTS domain that is hardcoded into Chrome as being HTTPS only. [Firefox](https://blog.mozilla.org/security/2012/11/01/preloading-hsts/ "Preloading HSTS &#124; Mozilla Security Blog"), Opera, Safari, [IE 11 and Edge](https://blogs.windows.com/msedgedev/2015/06/09/http-strict-transport-security-comes-to-internet-explorer-11-on-windows-8-1-and-windows-7/ "HTTP Strict Transport Security comes to Internet Explorer 11 on Windows 8.1 and Windows 7 - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog") also have their list derived from this one.
+To secure even the first request, the Chromium Projects maintains a list of valid HSTS domain that is hardcoded into Chrome as being HTTPS only. [Firefox](https://blog.mozilla.org/security/2012/11/01/preloading-hsts/ "Preloading HSTS | Mozilla Security Blog"), Opera, Safari, [IE 11 and Edge](https://blogs.windows.com/msedgedev/2015/06/09/http-strict-transport-security-comes-to-internet-explorer-11-on-windows-8-1-and-windows-7/ "HTTP Strict Transport Security comes to Internet Explorer 11 on Windows 8.1 and Windows 7 - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog") also have their list derived from this one.
 
 In order to be accepted to the HSTS preload list, a website has to meet the following set of requirements:
 
@@ -70,21 +70,23 @@ In order to be accepted to the HSTS preload list, a website has to meet the foll
 2.  Automatically redirect from to HTTPS on the same host
 3.  Serve all subdomains over HTTPS
 4.  Respond an HSTS header on the base domain for HTTPS requests:
-    *   The max-age must be at least <del datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">10886400 seconds (18 weeks)</del> <ins datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">31536000 seconds (a year)</ins[^twalle].
-    *   The directive header must include the subdomains.
-    *   The preload directive must be specified.
-    *   If you are serving an additional redirect from your HTTPS site, that redirect must still have the HSTS header (rather than the page it redirects to).
+    * The max-age must be at least <del datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">10886400 seconds (18 weeks)</del> <ins datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">31536000 seconds (a year)</ins[^twalle].
+    * The directive header must include the subdomains.
+    * The preload directive must be specified.
+    * If you are serving an additional redirect from your HTTPS site, that redirect must still have the HSTS header (rather than the page it redirects to).
 
-[^twalle]: The value was 18 weeks when I wrote the post. It has been changed to a year between october 11<sup>th</sup> and october 16<sup>th</sup>. Thanks to [@Thibault_Walle](https://twitter.com/Thibault_Walle) for pointing that out.
+[^twalle]:
+
+  The value was 18 weeks when I wrote the post. It has been changed to a year between october 11<sup>th</sup> and october 16<sup>th</sup>. Thanks to [@Thibault_Walle](https://twitter.com/Thibault_Walle) for pointing that out.
 
 If your website is eligible, you can submit its domain for inclusion [over this form](https://hstspreload.org/ "HSTS Preload List Submission").
 
 {% capture img_alt %}A screencapture of Chrome DevTools{% endcapture %}
 {% capture img_caption %}Internal HTTPS redirection of a request to Facebook made over HTTP, Chrome 60{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-09-18/2.png"
-    alt=img_alt
-    caption=img_caption 
+{% include rwd-image.html.liquid
+path="/assets/images/2017-09-18/2.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Beware: the modification of the directive with a 0-second `max-age` will not switch off HSTS preloading. Domains can be deleted from the HSTS Preload registry but you will have to wait for months since the next update of the browser needs to reach all the users. So, a word of advice: do not register for HSTS Preload if you are not strongly confident into your capacity to offer HTTPS on your domain and its subdomains over time.
@@ -99,5 +101,5 @@ If you watch closely at InfoSec news, you may have noticed the danger represente
 
 ## Further information about HSTS
 
-*   [HTTP Strict Transport Security – The Chromium Projects](https://www.chromium.org/hsts)
-*   [HTTP Strict Transport Security Cheat Sheet – OWASP](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet)
+* [HTTP Strict Transport Security – The Chromium Projects](https://www.chromium.org/hsts)
+* [HTTP Strict Transport Security Cheat Sheet – OWASP](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet)

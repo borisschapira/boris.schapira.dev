@@ -20,8 +20,7 @@ Fin août 2016, j'ai su que Clever Age rachetait [X2i](http://www.x2i.fr/), une 
 
 L'idée faisait son chemin depuis quelques semaines quand elle décida d'en parler à son employeur. Elle voulait être honnête, lui dire qu'elle avait besoin d'un nouveau souffle professionnel. Par un jeu de circonstances, ce jour-là, elle est revenue du travail en m'expliquant qu'elle avait, à son tour, entendu parler d'une opportunité interne. Du genre qu'on ne laisse pas filer. Quelque chose de difficile, d'ambitieux, quelque chose pour lequel il faudrait que nous nous investissions ensemble, acceptant de faire des concessions. Quelque chose d'important pour elle. Quelque chose… à quinze minutes au nord de Périgueux.
 
-{:.videoWrapper}
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d89875.86587460003!2d0.616802677960981!3d45.255460096260165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ff7381360949e9%3A0x406651748180c80!2zMjQ0NjAgQ2jDonRlYXUtbCfDiXbDqnF1ZQ!5e0!3m2!1sfr!2sfr!4v1496178486173" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+{% include media/video_iframe.html.liquid url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d89875.86587460003!2d0.616802677960981!3d45.255460096260165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ff7381360949e9%3A0x406651748180c80!2zMjQ0NjAgQ2jDonRlYXUtbCfDiXbDqnF1ZQ!5e0!3m2!1sfr!2sfr!4v1496178486173" width="600" height="450" title="Carte de Champcevinel" %}
 
 ## Angoisses et doutes
 
@@ -41,23 +40,22 @@ Je me suis rappelé de nos conversations de l'époque, sa propre angoisse. J'ai 
 
 {% capture img_alt %}Un bol en céramique parsemé de jointures d'or qui laissent paraitre qu'il a été au préalable brisé{% endcapture %}
 {% capture img_caption %}Un exemple de <span lang="ja">kintsugi</span>. Au lieu de cacher les cicatrices d'un objet brisé ou fragilisé, le <span lang="ja">kintsugi</span> les valorise. Au lieu de n’avoir une existence dans l’instant, l’objet s’enrichit d’une histoire qui raconte ses faiblesses et le rendent unique.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2016-12-26/kintsugi.jpg"
-    alt=img_alt
-    caption=img_caption 
+{% include rwd-image.html.liquid
+path="/assets/images/2016-12-26/kintsugi.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
 Trois jours plus tard, décidé, je suis allé voir Sébastien pour lui remettre une lettre.
 
 > Objet : Démission
-> 
 >
 > Cher Sébastien,
-> 
+>
 > Je te présente officiellement, par ce courrier, ma démission du poste de CONSULTANT que j'occupe chez Clever Age depuis le 15 janvier 2010.
-> 
+>
 > J'ai bien noté que les termes de notre convention collective prévoient un préavis d'une durée de trois mois. Cependant, j'aimerais prolonger ce délai jusqu’au 31 juillet 2017. J'espère que cela facilitera la transition et offrira suffisamment de temps pour trouver des remplaçants sur l’ensemble des missions que j’assure aujourd’hui pour l’entreprise.
-> 
+>
 > Je profite de cette lettre pour te renouveler, ainsi qu’à Clever Age, mes remerciements pour les opportunités qui m’ont été offertes pendant toutes ces années à Bordeaux et ailleurs en Europe, le cadre de travail de l’agence bordelaise et la confiance que tu m’as témoigné et me témoigne encore dans l’accomplissement de mes missions.
 
 J'en ensuite appelé Olivier, pour le remercier également de l'opportunité que je venais de refuser. Enfin, j'ai laissé un message sur le répondeur de Frédéric Bon, le Président de Clever Age. Ce fût la demi-heure ma plus longue depuis la naissance de mon fils aîné et probablement un des moments de ma vie où j'ai dû faire preuve du plus de détermination. Plusieurs mois plus tard, j'ai encore une grande émotion en l'écrivant.
@@ -72,15 +70,14 @@ L'isolation géographique ne m'inquiète pas. J'ai, depuis longtemps, pris consc
 
 {% capture img_alt %}Une forêt{% endcapture %}
 {% capture img_caption %}par Nejc Košir (<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.fr" title="Description de la licence Creative Commons 0">licence CC0</a>){% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-05-31/forest.jpg"
-    alt=img_alt
-    caption=img_caption 
+{% include rwd-image.html.liquid
+path="/assets/images/2017-05-31/forest.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
 Sept ans, c'est long. Il restera sûrement toujours un peu de Clever Age en moi, cette entreprise dans laquelle je me suis tant investi et qui me l'a bien rendu. Mes collègues bordelais me manqueront, mais aussi les nantais, les lyonnais, les parisiens, les montpelliérains de Clever Institut, les visites en Suisse, les conf-call avec Hong-Kong ou Singapour. Hasard du calendrier, je quitte Clever tandis que par le biais [d'un autre rachat](https://www.clever-age.com/fr/news/clevertoday-rejoint-le-groupe-cleverage/), un ami d'un autre temps rejoint le navire depuis le Québec. Puisque je vous dis que le monde virtuel est tout petit !
 
 Je me sens comme celui qui attaque le dernier chapitre d'un livre qu'il a beaucoup aimé et dans lequel il a corné les pages les plus mémorables pour pouvoir s'y plonger, par nostalgie, un autre jour. J'ai plusieurs pistes pour de futures lectures, mais je compte bien profiter de celle-ci jusqu'à la dernière ligne.
 
-{:.videoWrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rnAvdZJ-gRU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include media/youtube.html.liquid id="rnAvdZJ-gRU" title="MT 2012" %}

@@ -9,11 +9,11 @@ type: post
 locale: fr_FR
 ---
 
-> Que pensez-vous du plan d'action suivant :  
+> Que pensez-vous du plan d'action suivant :
 >
-> 1. les embaucher  
-> 2. les payer  
-> 3. les garder  
+> 1.  les embaucher
+> 2.  les payer
+> 3.  les garder
 >
 > Ça semble simple ! Trop simple ? Et pourtant "c'est tout". Je m'explique.  
 > <cite>Sylvain Abélard dans [un commentaire sur un forum Human Coders](https://forum.humancoders.com/t/chez-les-developpeurs-les-femmes-gagnent-14-de-moins-que-les-hommes-que-faire/1905/2)</cite>

@@ -11,7 +11,7 @@ loadTwitterWjs: true
 
 ## L'UX, souvent un tabou dans les communautés du logiciel libre
 
-Chrome est mon navigateur principal. À croire que [Bruce Lawson ne m'a rien appris sur la monoculture](http://vimeo.com/52171395 "&quot;Oh IE6 how we loved you&quot;, Bruce Lawson &quot;, Sud Web 2012") mais que voulez-vous, j'ai pris des habitudes. Un matin, il y a quelques semaines, j'ai pris la décision de migrer mes profils vers Firefox, afin d'envisager avec davantage de recul mon outillage Web et revenir vers une initiative que je soutiens fortement depuis des années par des dons ou en faisant la promotion.
+Chrome est mon navigateur principal. À croire que [Bruce Lawson ne m'a rien appris sur la monoculture](http://vimeo.com/52171395 '"Oh IE6 how we loved you", Bruce Lawson ", Sud Web 2012') mais que voulez-vous, j'ai pris des habitudes. Un matin, il y a quelques semaines, j'ai pris la décision de migrer mes profils vers Firefox, afin d'envisager avec davantage de recul mon outillage Web et revenir vers une initiative que je soutiens fortement depuis des années par des dons ou en faisant la promotion.
 
 <!-- more -->
 
@@ -37,7 +37,7 @@ Et je suis le premier concerné par ce constat. Je me suis accroché, j'ai essay
 
 Encore une fois, ça n'a rien à voir avec les qualités techniques de Firefox, ses engagements géniaux, sa communauté formidable. J'aime Firefox, je donne à Mozilla, j'organise mes formations dessus, j'attends avec impatience la nouvelle version prévue pour les développeurs mais je ne l'utilise toujours pas comme navigateur principal.
 
-L'utilisabilité est un véritable défi que la communauté Mozilla relève à bras le corps depuis plusieurs mois (avec une vraie refonte de l'interface utilisateur). Mais ce n'est pas en fermant les yeux qu'on résout le problème alors à la place, je suis allé voir les [tickets relatifs au _Profile Manager_](https://bugzilla.mozilla.org/buglist.cgi?query_format=specific&amp;order=relevance+desc&amp;bug_status=__open__&amp;product=&amp;content=profile+manager&amp;comments=0) mais là, malheureusement, je n'ai réussi à séparer les tickets relatifs au développement de ceux relatifs à l'expérience utilisateur.
+L'utilisabilité est un véritable défi que la communauté Mozilla relève à bras le corps depuis plusieurs mois (avec une vraie refonte de l'interface utilisateur). Mais ce n'est pas en fermant les yeux qu'on résout le problème alors à la place, je suis allé voir les [tickets relatifs au _Profile Manager_](https://bugzilla.mozilla.org/buglist.cgi?query_format=specific&order=relevance+desc&bug_status=__open__&product=&content=profile+manager&comments=0) mais là, malheureusement, je n'ai réussi à séparer les tickets relatifs au développement de ceux relatifs à l'expérience utilisateur.
 
 Alors j'ai posé directement la question à l'équipe UX de Firefox&nbsp;:
 

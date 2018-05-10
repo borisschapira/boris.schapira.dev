@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-03-19'
 locale: en_US
-
 ---
 
 We're taking the kids to a show. There is a small interlude. We sit down with the kids to talk and have a drink.
@@ -24,8 +23,7 @@ Our youngest asks:
 
 {% capture alt_text%}Kimmy schmidt just bought candy and is saying "I'm having candy for diner!"{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    url="/assets/images/papa/2018-03-19/candy"
-    alt=alt_text
-    caption="How I imagine diner at their Grandma's."
+url="/assets/images/papa/2018-03-19/candy"
+alt=alt_text
+caption="How I imagine diner at their Grandma's."
 %}
-

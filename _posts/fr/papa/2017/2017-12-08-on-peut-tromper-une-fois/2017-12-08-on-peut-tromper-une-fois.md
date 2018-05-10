@@ -9,7 +9,6 @@ Les enfants ne sont pas satisfaits du contenu de leurs assiettes. Ils décident 
 
 <!-- more -->
 
-
 > – Ok, donc toi tu me donnes un ça et si tu veux quelque chose, tu me dis et je te le donne.  
 > – Je me dis et tu te le donnes.  
 > – Non, je te dis et tu me le donnes.  
@@ -18,7 +17,7 @@ Les enfants ne sont pas satisfaits du contenu de leurs assiettes. Ils décident 
 
 {% capture alt_text%}Extrait de la Cité de la Peur, un gros plan sur Dominique Farrugia.{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="tromper"
-    alt=alt_text
-    caption="&laquo;&nbsp;Mange ça ! Pourriture communiste !&nbsp;&raquo;"
+slug="tromper"
+alt=alt_text
+caption="&laquo;&nbsp;Mange ça ! Pourriture communiste !&nbsp;&raquo;"
 %}

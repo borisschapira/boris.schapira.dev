@@ -11,15 +11,17 @@ Un de mes collègues a partagé une synthèse de différents outils Devops qu'il
 
 {% capture img_alt %}Un graphique, principalement en noir et blanc, présentant différents outils Devops classés en catégories : collaboration, compilation, tests, déploiements et maintenance opérationnelle. Sur les 150 outils listés, une cinquantaine est en couleur, pour être démarquée.{% endcapture %}
 {% capture img_caption %}Infographie réalisée par James Bowman dans son article "<a href="http://www.jamesbowman.me/post/continuous-delivery-tool-landscape/"><span lang="en">Continuous delivery tool landscape</span></a>"{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-03-24/known.jpg"
-    alt=img_alt
-    caption=img_caption 
+{% include rwd-image.html.liquid
+path="/assets/images/2017-03-24/known.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
-Je connais à peine ⅓ des outils de l'infographie[^others], mais l'exercice est intéressant. 
+Je connais à peine ⅓ des outils de l'infographie[^others], mais l'exercice est intéressant.
 
-[^others]: Si ce genre d'infographies vous intéressent, vous devriez également apprécier [IT Landscape for sysadmins](http://sysadmin.it-landscape.info/) d'Alen Krmelj et [The Periodic Table of Devops Tools](https://xebialabs.com/Periodic-Table-of-devops-Tools) de XebiaLabs. <ins datetime="2017-03-27" title="Ajout au 27 mars 2017">Pierre me signale également [The Web Developer Roadmap - 2017](https://github.com/kamranahmedse/developer-roadmap) qui n'est pas orienté que Devops, mais apporte des choses aussi.</ins>
+[^others]:
+
+  Si ce genre d'infographies vous intéressent, vous devriez également apprécier [IT Landscape for sysadmins](http://sysadmin.it-landscape.info/) d'Alen Krmelj et [The Periodic Table of Devops Tools](https://xebialabs.com/Periodic-Table-of-devops-Tools) de XebiaLabs. <ins datetime="2017-03-27" title="Ajout au 27 mars 2017">Pierre me signale également [The Web Developer Roadmap - 2017](https://github.com/kamranahmedse/developer-roadmap) qui n'est pas orienté que Devops, mais apporte des choses aussi.</ins>
 
 ## Il me permet de mieux diagnostiquer mon degré d'autonomie
 
@@ -37,9 +39,6 @@ Je suis très éloigné d'avoir la maitrise complète d'un seul de ces outils. A
 
 Les gestions des développements et de la maintenance opérationnelle des sites Web présente de très nombreux défis que certains de ces outils permettent de confronter. Cette infographie ne présente cependant qu'une partie des enjeux car **des pans entiers ne sont pas abordés** : les cadriciels de développement, les outils de gestion de données de tous types (<abbr lang="en" title="Content Management System">CMS</abbr>, <abbr lang="en" title="Product Information Management">PIM</abbr>, <abbr lang="en" title="Digital Asset Manager">DAM</abbr>, <abbr lang="en" title="Master Data Manager">MDM</abbr> et compagnie), les outils de <span lang="en">stub</span>, <span lang="en">mocks</span> et <span lang="en">dummies</span>, les outils de protection ou de détection des intrusions, les gestionnaires d'APIs et de configurations, les outils d'analyse de la qualité de code, de la qualité opérationnelle, de l'accessibilité, les compilateurs, les gestionnaires de notifications, les systèmes de queue… et c'est uniquement ce qui me passe par la tête en rédigeant l'article.
 
-Ajoutons à ça que plus <del>je vieillis</del> j'acquiers d'expérience, plus j'ai le sentiment que les principales difficultés ne sont pas tant liées aux outils qu'à la gestion des personnes, des besoins et de leurs possibles évolutions. Évolutions qui nécessitent de trouver les bons formats de collaboration et les architectures de code adaptées et, *après*, les outils.
+Ajoutons à ça que plus <del>je vieillis</del> j'acquiers d'expérience, plus j'ai le sentiment que les principales difficultés ne sont pas tant liées aux outils qu'à la gestion des personnes, des besoins et de leurs possibles évolutions. Évolutions qui nécessitent de trouver les bons formats de collaboration et les architectures de code adaptées et, _après_, les outils.
 
 J'ai encore tellement à apprendre.
-
-
-

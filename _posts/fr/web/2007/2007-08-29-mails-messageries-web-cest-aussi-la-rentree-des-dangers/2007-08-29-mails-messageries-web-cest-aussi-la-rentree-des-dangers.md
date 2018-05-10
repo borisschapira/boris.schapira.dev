@@ -19,8 +19,8 @@ J'ai même reçu la semaine dernière un faux programme France2 dont les liens m
 
 Face à ces menaces, toujours les mêmes conseils&nbsp;:
 
-*   Ordinateur à jour de derniers patchs ([ici](http://update.microsoft.com/windowsupdate/v6/default.aspx) pour Windows)
-*   Antivirus réactif (pour Vista, voir [cet article de Micka39](http://micka39.info/2007/08/17/avast-ou-vs-antivir-lequel-prendre/))
-*   Petite formation rapide en faisant le tour de mes articles "Dangers du Net" (oui, je me fais de la pub si je veux)
+* Ordinateur à jour de derniers patchs ([ici](http://update.microsoft.com/windowsupdate/v6/default.aspx) pour Windows)
+* Antivirus réactif (pour Vista, voir [cet article de Micka39](http://micka39.info/2007/08/17/avast-ou-vs-antivir-lequel-prendre/))
+* Petite formation rapide en faisant le tour de mes articles "Dangers du Net" (oui, je me fais de la pub si je veux)
 
 J'espère que le message est clair !

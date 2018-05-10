@@ -15,7 +15,7 @@ En voiture avec leur mère, les enfants écoutent la radio. On y parle de la fin
 > — Et après l’école primaire, il y le collège, et le lycée et après…  
 > — Après, quand on est très, très grand, on va au travail !
 
-Son  grand frère intervient.
+Son grand frère intervient.
 
 > — Mais d’abord, avant d’aller au travail, il fait trouver quelqu'un !  
 > — "Trouver quelqu'un" ? C’est-à-dire ?  

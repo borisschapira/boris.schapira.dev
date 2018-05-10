@@ -15,8 +15,8 @@ Les enfants aiment le parmesan. J'en achète souvent, en bloc, et je le rape moi
 > — Woaw !
 
 {% include video_as_a_gif.html.liquid
-    slug="keanu"
-    alt="Keanu Reeves est impressioné"
+slug="keanu"
+alt="Keanu Reeves est impressioné"
 %}
 
 > — Ah, tu as compris alors ?  
@@ -25,4 +25,3 @@ Les enfants aiment le parmesan. J'en achète souvent, en bloc, et je le rape moi
 > — À "banque". C'est quoi, une banque ?
 
 Forcément…
-

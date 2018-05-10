@@ -11,7 +11,6 @@ Loin de stéréotype, cette interview du politologue Sebastian Roché est tout s
 
 <!-- more -->
 
-
 > […] Il y a une coupure entre la population et les policiers, et cela est mauvais pour tout le monde.
 >
 > […] Il existe des opinions très mitigées voire hostiles à la police, un climat général plus favorable à des formes radicales d’agressions [pourtant] avoir la confiance de la population est aussi un bouclier pour les policiers.
@@ -23,13 +22,13 @@ Loin de stéréotype, cette interview du politologue Sebastian Roché est tout s
 > […] il y a un désintérêt du pouvoir central pour le service des citoyens. Le gouvernement est plus intéressé par la police du renseignement intérieur, du terrorisme (DGSI et DCRI) plutôt que par la police du quotidien, qu’il ne connaît pas.
 >
 > […] on constate qu’il y a en France un surcontrôle des minorités
-> 
+>
 > […] les agents qui se servent fréquemment du contrôle l’utilisent plus comme un outil de soumission que pour verbaliser
 >
 > […] Une partie de la solution tient à la façon dont les autorités décident de faire la police. Une autre dépend de la politique locale.
-> 
+>
 > […] En France, on forme beaucoup les cadres, donc les commissaires, qui ont tous un master et deux ans d’école. On forme finalement ceux qui en ont le moins besoin, puisque c’est l’agent qui va être au contact de la population.
-> 
+>
 > […] On se souvient que les récépissés de contrôle avaient été enterrés par Manuel Valls. Le management ne s’intéresse pas aux questions de discriminations.
 >
 > […] La période est effectivement très mauvaise pour répondre à la réforme de la sécurité publique. Les policiers sont très sollicités pour des tâches ingrates : gardes, patrouilles… La base est très mécontente. Le pouvoir politique est, lui, avant tout focalisé sur l’évitement des attentats avec, par exemple, le déploiement des militaires qui lui sert avant tout à se protéger.

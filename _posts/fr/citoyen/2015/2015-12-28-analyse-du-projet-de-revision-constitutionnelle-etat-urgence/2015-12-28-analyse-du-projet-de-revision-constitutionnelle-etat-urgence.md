@@ -16,8 +16,8 @@ Malheureusement (ou insidieusement), des deux articles que contient ce projet, o
 
 {% capture img_alt %}Un panneau jaune indiquant une diversion posé sur un trottoir.{% endcapture %}
 {% capture img_caption %}[Diversion par Daniel Lobo (CC-by-2.0)](https://flic.kr/p/49QKir){% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2015-12-28/1.jpg"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2015-12-28/1.jpg"
+alt=img_alt
+caption=img_caption
 %}

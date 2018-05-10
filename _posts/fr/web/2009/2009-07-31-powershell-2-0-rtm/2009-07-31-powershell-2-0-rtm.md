@@ -25,3 +25,4 @@ PowerShell 2 se distinguera notamment de sa version précédente via plusieurs n
 * Nouvelles cmdlets
 
 De quoi s’amuser quelques temps à enrichir les outils d’administrations de nos serveurs !
+```

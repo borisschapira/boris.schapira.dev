@@ -13,8 +13,8 @@ Reste encore à taper dans d'autres registres méconnus&nbsp;: j'attends donc ve
 
 J'avoue que je suis admiratif devant la manière dont Michael Youn gère sa carrière. On pourrait penser que c'est facile de faire le con mais la preuve est que depuis 6 ou 7 ans, c'est lui qui le fait le mieux.
 
-<div>     
-**Fatal Bazooka Ft Yelle - Parle a ma main [New]**     
+<div>
+**Fatal Bazooka Ft Yelle - Parle a ma main [New]**
 _envoyé par Get-Me-Bodied_</div>
 
 <div>&#xA0;</div>

@@ -19,10 +19,10 @@ Ce qu'il manquait à cette grandes messe en l'honneur du nouvel OS, ce sont les 
 
 {% capture img_alt %}Des captures d'écran sur Windows Phone 7{% endcapture %}
 {% capture img_caption %}Le Hub People devrait réunir toutes les informations de vos contacts{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2010-02-16/people-hub.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2010-02-16/people-hub.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Je suis sceptique. Ce système a un très gros potentiel et je n'imagine pas qu'il puisse s'affranchir d'applications permettant aux gens d'en personnaliser l'utilisation. Mais pour que ces applications soient disponibles rapidement après la sortie des téléphones, encore faudrait-il qu'on puisse commencer à les développer.

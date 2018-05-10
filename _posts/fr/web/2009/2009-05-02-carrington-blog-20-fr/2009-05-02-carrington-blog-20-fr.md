@@ -18,8 +18,8 @@ Cette version contient les fichiers d'internationalisation (.mo et .po, éditabl
 
 Au menu des améliorations par rapport à la version 1.x&nbsp;:
 
-*   Commentaires imbriqués
-*   Couleurs personnalisables
-*   Header personnalisable
-*   Lightbox pour la gallerie
-*   et plein d'autres trucs dont vous aurez [le détail ici](http://theme.co/x/).
+* Commentaires imbriqués
+* Couleurs personnalisables
+* Header personnalisable
+* Lightbox pour la gallerie
+* et plein d'autres trucs dont vous aurez [le détail ici](http://theme.co/x/).

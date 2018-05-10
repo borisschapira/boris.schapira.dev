@@ -10,7 +10,7 @@ locale: fr_FR
 
 Nous revenons de 4 jours sur Bordeaux durant lesquels nous avons fait le tour de quelques photographes…
 
-<!-- more --> 
+<!-- more -->
 
 Les tarifs sont dans une fourchette 700-900€ pour une prestation sur la journée avec album 70+ photos à la clé. Les prix des retirages varient énormément (de 0,5 à 9,5€ par photo), comme ceux des albums supplémentaires (entre 40€ pour un livre photo "grand commerce" et 250€ pour un bel album en cuir relié réalisé à la main avec parfois un peu de scrapbooking) mais ce n'est rien par rapport au prix d'un CD contenant les photos HD libres de droits (de 0 à… 800 €&nbsp;!).
 

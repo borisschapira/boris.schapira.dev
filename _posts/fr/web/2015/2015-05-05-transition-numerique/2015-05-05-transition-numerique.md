@@ -8,17 +8,17 @@ type: post
 locale: fr_FR
 ---
 
-> Aujourd’hui stratégie IT et stratégie d’affaire ne font plus qu’un. Fini l’alignement, on _synchronise_, et il subsiste un exercice de réflexion stratégique unique où la composante technologique fait partie intégrante de la stratégie d’affaire.  
+> Aujourd’hui stratégie IT et stratégie d’affaire ne font plus qu’un. Fini l’alignement, on _synchronise_, et il subsiste un exercice de réflexion stratégique unique où la composante technologique fait partie intégrante de la stratégie d’affaire.
 >
->   […]  
+> […]
 >
->   Tout le monde a du se réinventer, du PDG aux équipes de rédaction et bien sûr au sein des équipes informatiques.  
+> Tout le monde a du se réinventer, du PDG aux équipes de rédaction et bien sûr au sein des équipes informatiques.
 >
->   […]  
+> […]
 >
->   Cette richesse interactive a permis de moduler les tarifs en tenant compte du niveau d’interactivité.  
+> Cette richesse interactive a permis de moduler les tarifs en tenant compte du niveau d’interactivité.
 >
->   <cite>"[La Chronique Canada n°1](http://blog.clever-age.com/fr/2015/05/05/chronique-digitale-canada-1/)" par Didier Navez sur le [blog de veille de Clever Age](http://blog.clever-age.com/fr/)</cite>
+> <cite>"[La Chronique Canada n°1](http://blog.clever-age.com/fr/2015/05/05/chronique-digitale-canada-1/)" par Didier Navez sur le [blog de veille de Clever Age](http://blog.clever-age.com/fr/)</cite>
 
 La **P**resse **Q**uotidienne (éventuellement **R**égionale) est un formidable terrain d'expérimentation pour une transition numérique pleinement assumée&nbsp;: souffrant d'un modèle historique "papier" se détachant de plus en plus des usages de ses lecteurs, mise sous pression par des acteurs du Web comme Google et souffrant d'une dépendance très forte à la publicité, la Presse a désespéramment besoin de renouveler sa stratégie d'affaire et cela semble définitivement passer par le numérique.
 

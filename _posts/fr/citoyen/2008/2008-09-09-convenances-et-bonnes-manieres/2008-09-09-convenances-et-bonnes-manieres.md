@@ -23,7 +23,7 @@ S'en suit bien sûr le protocole de la requête. J'ai appris qu'il est de bon to
 
 > une femme peut être élégante sans parfum; elle ne le sera jamais avec un parfum de mauvaise qualité ou trop violent.
 
-L'homme, quant-à-lui, devra apprendre à fumer avec classe (et à cacher ses cendres comme un ninja) : 
+L'homme, quant-à-lui, devra apprendre à fumer avec classe (et à cacher ses cendres comme un ninja) :
 
 > Ne jetez pas votre cendre sur le parquet. À défaut de cendrier, vous trouverez bien une coupe ou un vase pour secouer discrètement votre cigarette.
 

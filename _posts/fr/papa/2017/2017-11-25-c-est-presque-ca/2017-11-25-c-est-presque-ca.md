@@ -27,6 +27,6 @@ Parfois, les enfants sont très clairs dans ce qu'ils racontent. Mais 80 % du te
 
 {% capture alt_text%}Sherlock dit "Élémentaire, mon cher Watson"{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="elementary"
-    alt=alt_text
+slug="elementary"
+alt=alt_text
 %}

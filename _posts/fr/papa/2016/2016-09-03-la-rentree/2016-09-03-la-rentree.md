@@ -19,7 +19,7 @@ Au dîner du soir, ma femme demande donc :
 
 {% capture cap %}<span lang="en">What happens in Vegas stays in Vegas.</span>{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="knowing-glance"
-    alt="Le capitaine Kirk et Spock s'échangent un regard complice."
-    caption=cap
+slug="knowing-glance"
+alt="Le capitaine Kirk et Spock s'échangent un regard complice."
+caption=cap
 %}

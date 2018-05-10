@@ -16,6 +16,7 @@ Pour certains, Twitter est un instrument social. Il leur permet de garder le con
 Les mêmes personnes qui ralentissent pour mieux voir les accidents sont aussi sur Twitter. Et cette masse est très très friande de faits divers. Au moindre évènement allant dans ce sens, la communauté se divise. D'un côté, un ensemble de communicants qui partagent des informations (nouvelle photo, piste de réflexion sur les causes, témoignages) et de l'autre, les charognes&nbsp;: "&lt;Drame&gt; à &lt;Lieu&gt;&nbsp;: &lt;nombre&gt; morts, &lt;nombre&gt; blessés"… en boucle ou par re-twitt interposé.
 
 Votre file de messages peut alors prendre rapidement cette tournure (les noms et évènements sont fictifs)&nbsp;:
+
 > PrssAgency&nbsp;: Exclusive&nbsp;! Terrorist attack in Paris&nbsp;: 3 killed, 12 injured&nbsp;!  
 > TotoDu92&nbsp;: Woaw, attaque terroriste à Paris&nbsp;: au moins 3 morts&nbsp;!  
 > Stefixoai&nbsp;: Terrorist attack in Paris&nbsp;: many killed and injured  

@@ -5,13 +5,13 @@ type: post
 locale: fr_FR
 ---
 
-Hey, les gens sans enfants ! 
+Hey, les gens sans enfants !
 
 Demain vous allez vous réveiller et on vous aura volé du sommeil, lâchement.
 
 Nous, c'est tous les jours (et des fois c'est deux ou trois heures).
 
 {% include video_as_a_gif.html.liquid
-    slug="for_real"
-    alt="Une jeune femme dit &quot;For real, real&quot;"
+slug="for_real"
+alt="Une jeune femme dit &quot;For real, real&quot;"
 %}

@@ -19,8 +19,8 @@ Je ne sais pas si les <span lang="en">Character Designers</span> avaient imagin�
 
 {% capture img_alt %}Noctis, un personnage ténébreux dont l'habit de roi implique une pièce métalique articulée autour du genou gauche.{% endcapture %}
 {% capture img_caption %}Noctis en tenue de roi, Final Fantasy XV{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/papa/2017-11-26/noctis.png"
-    alt=img_alt
-    caption=img_caption 
+{% include rwd-image.html.liquid
+path="/assets/images/papa/2017-11-26/noctis.png"
+alt=img_alt
+caption=img_caption
 %}

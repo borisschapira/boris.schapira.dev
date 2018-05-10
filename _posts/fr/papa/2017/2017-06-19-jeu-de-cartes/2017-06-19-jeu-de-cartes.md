@@ -15,11 +15,11 @@ Le grand de six ans explique comment jouer à la Bataille à son petit frère. T
 > — Parce que je suis Batman !
 
 {% include video_as_a_gif.html.liquid
-    slug="batman"
-    alt="Extrait de l'intro de Batman, The Animated Series."
-    caption="Il est ensuite sorti de la pièce, comme un chevalier noir."
+slug="batman"
+alt="Extrait de l'intro de Batman, The Animated Series."
+caption="Il est ensuite sorti de la pièce, comme un chevalier noir."
 %}
 
-***
+---
 
 <small><i>Dédicace spéciale à Ravana, que je n'ai jamais vu dans la même pièce que Batman.</i></small>

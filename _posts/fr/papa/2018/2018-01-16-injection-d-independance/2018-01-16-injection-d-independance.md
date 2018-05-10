@@ -12,7 +12,7 @@ Je suis un conteneur-parent.
 
 {% capture alt_text%}Explication en vidéo du positionnement absolu en CSS.{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="absolute"
-    alt=alt_text
-    caption="&quot;I am absolute.&quot;"
+slug="absolute"
+alt=alt_text
+caption="&quot;I am absolute.&quot;"
 %}

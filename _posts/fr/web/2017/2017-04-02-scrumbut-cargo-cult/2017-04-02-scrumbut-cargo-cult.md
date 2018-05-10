@@ -11,10 +11,10 @@ Les <span lang="en">Scrumbuts</span> désignent l'ensemble des entorses à <span
 
 ## <span lang="en">We use Scrum, but…</span>
 
-Les équipes concernées prennent donc sur elles, **parce qu'elles pensent bien faire**, de modifier la méthodologie pour faire disparaitre cette incompatibilité, ce point de friction et ainsi aller de l'avant. Cela commence une petite entorse, puis une autre… À chaque fois, des excuses justifient la modification "maison" : 
+Les équipes concernées prennent donc sur elles, **parce qu'elles pensent bien faire**, de modifier la méthodologie pour faire disparaitre cette incompatibilité, ce point de friction et ainsi aller de l'avant. Cela commence une petite entorse, puis une autre… À chaque fois, des excuses justifient la modification "maison" :
 
 > — On est en <span lang="en">Scrum</span> mais on ne fait pas la mêlée quotidienne. Si quelqu'un a quelque chose à signaler, il envoie un mail.
-> — On est en <span lang="en">Scrum</span>  mais nos sprints durent six semaines, car la majorité d'entre nous est à temps partiel !
+> — On est en <span lang="en">Scrum</span> mais nos sprints durent six semaines, car la majorité d'entre nous est à temps partiel !
 > — On est en <span lang="en">Scrum</span> mais comme on communique bien tout le temps, on n'a pas besoin de faire de rétro.
 > — On est en <span lang="en">Scrum</span> mais l'équipe est divisée en deux groupes qui ne se parlent pas.
 > — Bien sûr qu'on fait du <span lang="en">Scrum</span>, on a des post-it plein le mur [mais c'est à peu près tout] !
@@ -29,7 +29,9 @@ Ils se mirent, peu à peu, à **reproduire ce qu'ils voyaient**, adoptant des co
 
 Ce phénomène anthropologique est souvent utilisé en informatique pour moquer les développeurs qui copient du code d'autres et le réutilisent sans pleinement maitriser son impact[^tzi].
 
-[^tzi]: Si vous ne l'avez jamais vue, je vous conseille la conférence "[Le culte du cargo](https://vimeo.com/70060075)" par [Thomas Zilliox](https://twitter.com/iamtzi "Compte Twitter de Thomas Zilliox") à Sud Web 2013.
+[^tzi]:
+
+  Si vous ne l'avez jamais vue, je vous conseille la conférence "[Le culte du cargo](https://vimeo.com/70060075)" par [Thomas Zilliox](https://twitter.com/iamtzi "Compte Twitter de Thomas Zilliox") à Sud Web 2013.
 
 Il a clairement une attitude similaire dans de nombreuses structures qui cherchent à adopter l'Agile, choisissent Scrum, puis enchainent les <span lang="en">Scrumbuts</span>.
 
@@ -43,8 +45,8 @@ Sortez de ce <span lang="en">Cargo Cult</span> ou vous gâcherez de manière irr
 
 {% capture img_alt %}Deux post-its, comparant l'Agile façon Cargo Cult et les vraies livraisons successives{% endcapture %}
 {% capture img_caption %}"<a href="https://www.flickr.com/photos/psd/9588038559" title="Lien vers la photo sur Flickr">Doing Agile, being Agile</a>", par <a href="https://www.flickr.com/photos/psd/" title="Profil Flickr de Paul Downey">Paul Downey</a> — <a href="https://creativecommons.org/licenses/by/2.0/" class="photo-license-url" rel="license cc:license" target="_newtab" ><span>Certains droits réservés</span></a>{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-04-02/doing_vs_being_agile.jpg"
-    alt=img_alt
-    caption=img_caption 
+{% include rwd-image.html.liquid
+path="/assets/images/2017-04-02/doing_vs_being_agile.jpg"
+alt=img_alt
+caption=img_caption
 %}

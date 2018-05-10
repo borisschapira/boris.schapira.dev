@@ -21,4 +21,3 @@ locale: fr_FR
 > — Oui chéri ?  
 > — A crac-to-pelle !  
 > — Oui chéri, c'est bien, tu as trouvé. C'était bien un tractopelle !
-

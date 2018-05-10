@@ -13,4 +13,3 @@ Conversation dans la cage d'escalier entre mon grand (en haut) et sa grand-mère
 > — Ouiiii  
 > — Tu portes quoi sur toi ?  
 > — Ziziiii
-

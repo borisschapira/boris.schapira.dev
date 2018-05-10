@@ -20,7 +20,7 @@ Et ce ne sont pas nos chefs d'État qui aident à changer cette image&nbsp;:
 > <cite>Jacques Chirac, Le Monde, 30 mai 2006</cite>
 
 &nbsp;
- 
+
 > La libre concurrence n’est pas plus compatible avec les dumpings de toutes sortes que le capitalisme entrepreneurial n’est compatible avec la prise totale de pouvoir par la finance et la soumission de la logique de la production à la logique financière  
 > <cite>Nicolas Sarkozy, Conférence de presse de l’Élysée, 8 janvier 2008</cite>
 

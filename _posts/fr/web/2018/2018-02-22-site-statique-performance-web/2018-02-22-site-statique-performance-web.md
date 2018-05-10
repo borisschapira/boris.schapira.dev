@@ -13,11 +13,10 @@ loadTwitterWjs: true
 
 Générateurs de sites statiques, CMS "headless", plateformes d'intégration continue et de déploiement… depuis plusieurs années, une nouvelle gamme de solutions émerge dans le paysage des technologies web. Ces solutions contribuent à une tendance globale qui ressemble à un retour aux sources du Web. On parle de "La mouvance statique" ou de la "JAMStack" mais aucun de ces noms ne caractérise vraiment ce qui n’est pas moins qu’une nouvelle façon d’architecturer des applications web.
 
-
 {% capture img_alt %}De grands rouages métalliques emboités{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2018-02-21/0_rouages.jpg"
-    alt=img_alt
+{% include rwd-image.html.liquid
+path="/assets/images/2018-02-21/0_rouages.jpg"
+alt=img_alt
 %}
 
 <!-- more -->
@@ -35,10 +34,10 @@ Pourtant, la génération dynamique de réponses HTTP présente des inconvénien
 
 {% capture img_alt %}Un graphique Dareboost Dareboost sur lequel on peut voir plusieurs indicateurs. Les pics de TTFB coincident avec les pics de Speed Index.{% endcapture %}
 {% capture img_caption %}Un TTFB elevé pénalise le Speed Index d'une page.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2018-02-21/1_ttfb_en.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2018-02-21/1_ttfb_en.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Afin d'optimiser les temps de réponse, de nombreuses solutions de mise en cache sont apparues au fil des ans. Avec ces solutions, le premier utilisateur qui requête la page continue de subir le coût de génération mais le résultat est stocké sur un ou plusieurs serveurs proxy et parfois synchronisé sur différents endroits, partout dans le monde. Ces pages "mises en cache" sont ensuite utilisées pour répondre à toutes les requêtes considérées identiques, ce qui assure des temps de réponse rapides et uniformes. Il est possible de trouver des solutions de mise en cache logicielles (comme [Varnish](https://varnish-cache.org/)) mais également des plateformes et des infrastructures (les Content Delivery Networks). À chaque fois, le principe est le même : transformer ce qui est dynamique en pages statiques. Chassez le naturel…
@@ -65,10 +64,10 @@ En effet, les SSG sont des outils techniques et non des substituts aux CMS. Tout
 
 Un CMS Headless est constitué :
 
-> - d’un système de stockage de données ;
-> - d’une interface CRUD ;
-> - d’une API pour accéder au données. 
-> <cite>"[What is a Headless CMS? (EN)](https://css-tricks.com/what-is-a-headless-cms/)", Chris Coyier</cite>
+> * d’un système de stockage de données ;
+> * d’une interface CRUD ;
+> * d’une API pour accéder au données.
+>   <cite>"[What is a Headless CMS? (EN)](https://css-tricks.com/what-is-a-headless-cms/)", Chris Coyier</cite>
 
 Et vous pouvez fabriquer des CMS Headless à partir de vos solutions habituelles. Wordpress, par exemple, a une [API REST](http://v2.wp-api.org/). Côté Drupal, il y a tout un [groupe de travail](https://groups.drupal.org/headless-drupal) qui travaille sur le Headless. Là encore, le marché est en plein essor avec de nombreux nouveaux [logiciels et services](https://www.headlesscms.org/).
 
@@ -80,10 +79,10 @@ Les contributeurs peuvent travailler sur des fichiers plats faciles à stocker e
 
 {% capture img_alt %}Un diagramme des flux de contribution et de développement d'un site qui montre clairement la séparation des préoccuppations entre développeurs et contributeurs.{% endcapture %}
 {% capture img_caption %}Le flux de contribution du CMS statique de Carrot (une agence numérique), tel que décrit [sur leur blog](https://carrot.is/coding/static_cms.html).{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2018-02-21/2_carrot.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2018-02-21/2_carrot.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Après la contribution des contenus, la génération du site web et le déploiement sont souvent opérés par le même composant de l'infrastructure. Pour évaluer la performance de cette étape, il faut surveiller la performance du serveur de compilation durant la génération et du déploiement (durée, consommation CPU, mémoire). Mais ce n’est pas tout : pensez à surveiller également l'infrastructure ciblée (composée d'un ou plusieurs serveurs), car les tâches de copie peuvent être gourmandes.
@@ -110,10 +109,10 @@ Pour les contributeurs, le changement de paradigme est total puisqu'il sépare l
 
 {% capture img_alt %}Forestry.io editing interface{% endcapture %}
 {% capture img_caption %}Interface de contribution de [Forestry.io](https://forestry.io/). Les contenus sont sauvegardés dans les fichiers d’un dépôt git et peuvent être également modifiés avec un éditeur de texte.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2018-02-21/3_forestry.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2018-02-21/3_forestry.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Mais certains produits vont plus loin et transforment la contribution en expérience de première classe. Les contributeurs peuvent alors bénéficier d’outils de saisie sur mesure, avec des options de contribution riches et une intégration multimédias, sans impact sur le flux de publication ou la performance du site web ciblé.
@@ -121,10 +120,10 @@ Mais certains produits vont plus loin et transforment la contribution en expéri
 {% capture img_alt %}Prismic.io slices{% endcapture %}
 {% capture img_caption %}[Prismic.io](https://prismic.io/) est l'une des plates-formes de contenu les plus personnalisables (ici, des &laquo;&nbsp;slices&nbsp;&raquo; réutilisables). Les contenus comme les gabarits sont contribués sur la plateforme. Pendant la compilation, le SSG requête l’API de Prismic.io pour récupérer les informations.{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    controls="true"
-    url="/assets/images/2018-02-21/4_prismic"
-    alt=img_alt
-    caption=img_caption
+controls="true"
+url="/assets/images/2018-02-21/4_prismic"
+alt=img_alt
+caption=img_caption
 %}
 
 ## Statique ou dynamique ? Du pareil au même.
@@ -149,17 +148,17 @@ Le coût de migration d’une solution Headless CMS ou SSG vers une autre sont s
 
 Aujourd'hui, cela peut sembler complexe mais rappelez-vous votre premier site dynamique: choisir un hébergeur, maîtriser FTP, jonglez avec les logs du serveur web... ça n’était pas facile à apprendre non plus. Vous découvrirez cette nouvelle façon d’organiser votre projet étape par étape. Pour les utilisateurs expérimentés de la JAMStack, cela devient naturel.
 
-D’autant qu’en dépit du risque de centralisation qu’elles constituent, les plates-formes unifiées comme Netlify offrent un catalogue impressionnant de services : génération et déploiement de sites web, enregistrement DNS, gestion des certificats et formulaires SSL, fonctions lambdas, Content Delivery Network, etc. 
+D’autant qu’en dépit du risque de centralisation qu’elles constituent, les plates-formes unifiées comme Netlify offrent un catalogue impressionnant de services : génération et déploiement de sites web, enregistrement DNS, gestion des certificats et formulaires SSL, fonctions lambdas, Content Delivery Network, etc.
 
 De quoi permettre à votre équipe de se concentrer sur le développement du Front-End et l'optimisation des performances Web. Avec un Time To First Byte aussi bas, l'équipe peut pleinement se concentrer sur l'UX grâce à la mesure du [Speed Index](https://blog.dareboost.com/en/2018/02/speed-index-web-performance/) et la maitrise des interactions utilisateurs.
 
-***
+---
 
 _Mes remerciements à Erin Symons, [Frank Taillandier](https://twitter.com/dirtyf) et toute la [communauté jamstatic.fr](https://jamstatic.fr/), [Bud Parr](https://twitter.com/budparr), [Nicolas Hoffmann](https://twitter.com/Nico3333fr) et mes collègues [Philippe Guilbert](https://twitter.com/GuilbertPhil) et [Damien Jubeau](https://twitter.com/DamienJubeau) pour leur temps et leurs conseils._
 
-***
+---
 
 ## Ressources additionnelles
 
-*   "[Why Static Site Generators Are The Next Big Thing (EN)](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)", Matt Biilmann
-*   "[Contentful n'est pas un CMS](https://bertrandkeller.info/2018/01/30/contentful-pas-un-cms/)", Michelle Gienow, adapté par Bertrand Keller
+* "[Why Static Site Generators Are The Next Big Thing (EN)](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)", Matt Biilmann
+* "[Contentful n'est pas un CMS](https://bertrandkeller.info/2018/01/30/contentful-pas-un-cms/)", Michelle Gienow, adapté par Bertrand Keller

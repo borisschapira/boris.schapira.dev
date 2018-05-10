@@ -12,4 +12,3 @@ locale: fr_FR
 > — avec...  
 > — Mamie  
 > — Ah bon ?!
-

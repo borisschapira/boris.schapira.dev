@@ -20,10 +20,10 @@ Ce qui avait commencé, en octobre 2007, comme un projet personnel, sans intenti
 
 {% capture img_alt %}Une carte naïve du monde, avec des zones accentuées{% endcapture %}
 {% capture img_caption %}Projet de visualisation des données de la Timeline publique de GitHub, par David Fischer.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2013-11-14/1.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2013-11-14/1.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Si vous ou votre organisation ne partagez pas de code sur GitHub, vous devriez. Et bientôt, les entreprises de production de logiciels ne seront plus seules…
@@ -32,14 +32,14 @@ Si vous ou votre organisation ne partagez pas de code sur GitHub, vous devriez. 
 
 GitHub est né de la volonté commune de Tom Preston-Werner et Chris Wanstrath de résoudre la problématique de la collaboration décentralisée dans le cadre du développement. Un premier pas technique avait déjà été réalisé avec Git, un système de gestion de code source développé par Linus Torvalds, le créateur de Linux. Git est un très bon outil de collaboration décentralisée, mais il ne suffit pas à couvrir le périmètre fonctionnel de la collaboration sur un projet. Il manquait à Git une plate-forme, GitHub est venu combler ce manque.
 
-Il est désormais possible, pour n’importe quel développeur de créer un dépôt, d’y héberger un projet, de le documenter sous la forme d’un site Web [GitHub.io](https://pages.github.com/ "GitHub.io, plate-forme d&#039;hébergement associée aux projets GitHub") et de le proposer à la Communauté. Il peut lui-même s’approprier d’autres projets, y corriger des erreurs ou y apporter son savoir-faire puis proposer ses corrections au créateur du projet d’origine… ou non. GitHub permet et facilite ces interactions, tout en proposant les fonctionnalités d’un réseau social, comme la possibilité de personnaliser son profil ou celle de s’inscrire à l’activité d’un autre utilisateur.
+Il est désormais possible, pour n’importe quel développeur de créer un dépôt, d’y héberger un projet, de le documenter sous la forme d’un site Web [GitHub.io](https://pages.github.com/ "GitHub.io, plate-forme d'hébergement associée aux projets GitHub") et de le proposer à la Communauté. Il peut lui-même s’approprier d’autres projets, y corriger des erreurs ou y apporter son savoir-faire puis proposer ses corrections au créateur du projet d’origine… ou non. GitHub permet et facilite ces interactions, tout en proposant les fonctionnalités d’un réseau social, comme la possibilité de personnaliser son profil ou celle de s’inscrire à l’activité d’un autre utilisateur.
 
 {% capture img_alt %}Un dessin représentant une chimère chat/poulpe, déguisée en développeur{% endcapture %}
 {% capture img_caption %}&laquo;&nbsp;The CoderCat&nbsp;&raquo;, un des très nombreux détournements de la mascotte de GitHub, l’Octocat, par Cameron McEfee.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2013-11-14/2.jpg"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2013-11-14/2.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
 Reposant sur sa simplicité d’usage, tout en offrant une qualité de service et un contrôle des données de premier ordre, la plate-forme a connu un succès fulgurant. Arrivé au million d’utilisateurs en trois ans environ, GitHub en héberge désormais plus de trois millions et met moins de cinq mois à acquérir chaque million d’utilisateurs supplémentaire.
@@ -54,10 +54,10 @@ Mais si GitHub remporte autant de succès, c’est aussi qu’il intervient au b
 
 {% capture img_alt %}Un dessin représentant une chimère chat/poulpe, pasticheant la campagne &laquo;&nbsp;Yes We Can&nbsp;&raquo; de Barack Obama{% endcapture %}
 {% capture img_caption %}&laquo;&nbsp;The Baraktocat&nbsp;&raquo;, par Cameron McEfee{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2013-11-14/3.jpg"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2013-11-14/3.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
 L’inverse se produit également&nbsp;: des entreprises, [comme OVH](http://www.ovh.com/fr/a1136.interview-github-octave-klaba-ovh "Interview d"), refusent que leurs salariés participent à des projets sur GitHub. Pourquoi&nbsp;? Tout simplement parce qu’elles reconnaissent la capacité de GitHub à valoriser un profil et craignent la fuite des cerveaux. Une opposition en forme de succès pour la plate-forme.
@@ -72,28 +72,28 @@ Celles qui souhaitent gérer de multiples dépôts, avoir un seul tableau de bor
 
 La problématique de la production distribuée d’un contenu au sein d’un projet n’est pas liée purement au monde du développement logiciel. Dans d’autres domaines, la production puis la mise en commun de contenus écrits à plusieurs mains relèvent du défi, car la culture et l’outillage Open Source n’existe pas. Et si une plate-forme comme GitHub pouvait solutionner ce problème&nbsp;?
 
-Certains, [comme Loren](https://www.penflip.com/ "Article de Loren sur la possibilité d&#039;étendre GitHub pour les écrivains"), ont déjà essayé d’imaginer l’utilisation de GitHub pour l’écriture&nbsp;:
+Certains, [comme Loren](https://www.penflip.com/ "Article de Loren sur la possibilité d'étendre GitHub pour les écrivains"), ont déjà essayé d’imaginer l’utilisation de GitHub pour l’écriture&nbsp;:
 
-*   L’auteur principal créé la structure basique d’un document et quelques éléments de base (branche _master_);
-*   Chaque collaborateur voulant contribuer peut démarrer en un clic la contribution sans se préoccuper de gêner les autres contributeurs (en réalisant un _fork_);
-*   Une fois cette contribution terminée, son auteur propose à l’auteur original de valider sa contribution (via un _pull request_);
-*   Si la contribution est validée, elle peut rejoindre le document. Sinon, les raisons du refus sont notifiées à son auteur, de manière à ce qu’il puisse réaliser les corrections nécessaires avant une nouvelle contribution.
+* L’auteur principal créé la structure basique d’un document et quelques éléments de base (branche _master_);
+* Chaque collaborateur voulant contribuer peut démarrer en un clic la contribution sans se préoccuper de gêner les autres contributeurs (en réalisant un _fork_);
+* Une fois cette contribution terminée, son auteur propose à l’auteur original de valider sa contribution (via un _pull request_);
+* Si la contribution est validée, elle peut rejoindre le document. Sinon, les raisons du refus sont notifiées à son auteur, de manière à ce qu’il puisse réaliser les corrections nécessaires avant une nouvelle contribution.
 
 Ce processus, classique, est entièrement supporté par la plate-forme, mais elle n'est pas forcément adaptée en termes de design. L'idée a cependant servi de support à la création de [Penflip](https://www.penflip.com/ "Penflip, plate-forme d")… et à d'autres initiatives, plus orientées vers le design visuel ou industriel, la musique. C'est par exemple le cas de [Splice](https://splice.com/ "Splice, plate-forme de production musicale collaborative"), qui devrait ouvrir ses portes prochainement. Y retrouvera-t-on les grands de l'Electro française (et mondiale)&nbsp;?
 
 {% capture img_alt %}Un dessin représentant une chimère chat/poulpe, déguisée en un des Daft Punk{% endcapture %}
 {% capture img_caption %}&laquo;&nbsp;The Daftpunktocat (Thomas)&nbsp;&raquo;, par James Kang{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2013-11-14/4.gif"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2013-11-14/4.gif"
+alt=img_alt
+caption=img_caption
 %}
 
 ## Quelques liens, pour en savoir plus
 
-*   [[ReadWrite] GitHub For Beginners: Don't Get Scared, Get Started]( //readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1 "[ReadWrite] GitHub For Beginners: Don")
-*   [[Wired] The GitHub Revolution: Why We’re All in Open Source Now](http://www.wired.com/2013/03/github/ "[Wired] The GitHub Revolution: Why We’re All in Open Source Now")
-*   [[Radar O'Reilly] GitHub gains new prominence as the use of open source within governments grows](http://radar.oreilly.com/2013/03/github-government-bureaucat-open-source.html "[Radar O")
-*   [[NY Times Bits Blog] Dreams of ‘Open’ Everything](http://bits.blogs.nytimes.com/2012/12/28/github-has-big-dreams-for-open-source-software-and-more/?_r=5 "[NY Times Bits Blog] Dreams of ‘Open’ Everything")
-*   [[The Next Web] Code-sharing site Github turns five and hits 3.5 million users, 6 million repositories](http://thenextweb.com/insider/2013/04/11/code-sharing-site-github-turns-five-and-hits-3-5-million-users-6-million-repositories/ "[The Next Web] Code-sharing site Github turns five and hits 3.5 million users, 6 million repositories")
-*   [[Inc] 2 Reasons to Keep an Eye on GitHub](http://www.inc.com/magazine/201303/will-bourne/2-reasons-to-keep-an-eye-on-github_pagen_2.html "[Inc] 2 Reasons to Keep an Eye on GitHub")
+* [[ReadWrite] GitHub For Beginners: Don't Get Scared, Get Started](//readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1 "[ReadWrite] GitHub For Beginners: Don")
+* [[Wired] The GitHub Revolution: Why We’re All in Open Source Now](http://www.wired.com/2013/03/github/ "[Wired] The GitHub Revolution: Why We’re All in Open Source Now")
+* [[Radar O'Reilly] GitHub gains new prominence as the use of open source within governments grows](http://radar.oreilly.com/2013/03/github-government-bureaucat-open-source.html "[Radar O")
+* [[NY Times Bits Blog] Dreams of ‘Open’ Everything](http://bits.blogs.nytimes.com/2012/12/28/github-has-big-dreams-for-open-source-software-and-more/?_r=5 "[NY Times Bits Blog] Dreams of ‘Open’ Everything")
+* [[The Next Web] Code-sharing site Github turns five and hits 3.5 million users, 6 million repositories](http://thenextweb.com/insider/2013/04/11/code-sharing-site-github-turns-five-and-hits-3-5-million-users-6-million-repositories/ "[The Next Web] Code-sharing site Github turns five and hits 3.5 million users, 6 million repositories")
+* [[Inc] 2 Reasons to Keep an Eye on GitHub](http://www.inc.com/magazine/201303/will-bourne/2-reasons-to-keep-an-eye-on-github_pagen_2.html "[Inc] 2 Reasons to Keep an Eye on GitHub")

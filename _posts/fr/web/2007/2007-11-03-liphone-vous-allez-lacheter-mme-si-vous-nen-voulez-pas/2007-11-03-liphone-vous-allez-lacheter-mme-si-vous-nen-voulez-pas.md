@@ -26,11 +26,11 @@ Regardez ce reportage sur iTélé&nbsp;:
 
 <div>Qu'y apprend-t-on&nbsp;? Je cite&nbsp;:</div>
 
-<div>_&quot;Tout le monde veut avoir son iPhone&quot;_    
-_&quot;Il suffit de taper sur n'importe quel moteur de recherche pour trouver des iPhone&quot;_    
-_&quot;On trouve toutes les informations sur le Net&quot;_    
-_&quot;C'est pas parce que tout le monde en veut un que c'est bien&quot;_ (Houla, un petit peu d'objectivité journalistique&nbsp;?    
-_-Vidéo qui fait passer [Cyprien](http://www.cyprien.fr/?2007/11/03/186-je-passe-sur-itele) pour un con en ne sélectionnant que les parties o&#xF9; il fait le pitre-      
+<div>_&quot;Tout le monde veut avoir son iPhone&quot;_
+_&quot;Il suffit de taper sur n'importe quel moteur de recherche pour trouver des iPhone&quot;_
+_&quot;On trouve toutes les informations sur le Net&quot;_
+_&quot;C'est pas parce que tout le monde en veut un que c'est bien&quot;_ (Houla, un petit peu d'objectivité journalistique&nbsp;?
+_-Vidéo qui fait passer [Cyprien](http://www.cyprien.fr/?2007/11/03/186-je-passe-sur-itele) pour un con en ne sélectionnant que les parties o&#xF9; il fait le pitre-
 &quot;[MrDream](http://www.cyprien.fr/?2007/11/03/186-je-passe-sur-itele) s'est fait plein d'ennemis&quot;_ (Au cas o&#xF9; vous n'auriez pas compris que tout le monde aime l'iPhone)</div>
 
 <div>&#xA0;</div>

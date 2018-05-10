@@ -20,7 +20,7 @@ J'arrive et l'isole. Je lui explique que crier ne sert à rien : son grand frèr
 Il m'a ensuite regardé avec un air de vainqueur.
 
 {% include video_as_a_gif.html.liquid
-    slug="perfect"
-    alt="Un homme faisant un signe d'encouragement avec sa main"
-    caption="Change rien, champion !"
+slug="perfect"
+alt="Un homme faisant un signe d'encouragement avec sa main"
+caption="Change rien, champion !"
 %}

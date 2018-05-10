@@ -9,7 +9,7 @@ Lors de la réalisation d'un entretien d'embauche, il est souvent nécessaire d'
 
 Au fil des années, j'ai donc établi une grille d'évaluation personnelle qui me permet de mieux cerner les candidat·e·s, en dehors de leurs simples compétences techniques. Je m'en sers comme base d'analyse et la relis avant et après chaque rendez-vous pour ensuite pouvoir écrire un compte-rendu d'entretien de qualité aux personnes qui m'ont demandé de m'en occuper.
 
-*Avertissement* : je ne suis pas responsable des ressources humaines, rien n'est absolu ou gravé dans le marbre et j'ai déjà donné des avis favorables sur des personnes qui ne rentraient absolument pas dans ces critères. Dans l'absolu, je recommande toujours de faire l'entretien à deux ou d'inviter la candidate ou le candidat pour un second entretien avec une autre personne sans lui transmettre mon avis en amont pour éviter de l'influencer.
+_Avertissement_ : je ne suis pas responsable des ressources humaines, rien n'est absolu ou gravé dans le marbre et j'ai déjà donné des avis favorables sur des personnes qui ne rentraient absolument pas dans ces critères. Dans l'absolu, je recommande toujours de faire l'entretien à deux ou d'inviter la candidate ou le candidat pour un second entretien avec une autre personne sans lui transmettre mon avis en amont pour éviter de l'influencer.
 
 <!-- more -->
 

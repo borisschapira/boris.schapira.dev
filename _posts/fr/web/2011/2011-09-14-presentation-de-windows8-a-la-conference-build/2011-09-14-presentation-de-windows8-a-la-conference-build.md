@@ -16,7 +16,7 @@ Hier était présentée en grandes pompes la prochaine mouture de l’OS de Micr
 
 La position commerciale, en revanche, mérite qu’on s’y attarde car le discours sous-jacent est :
 
->  Ce n’est pas un jouet, c’est un PC.
+> Ce n’est pas un jouet, c’est un PC.
 
 Il ne s’agit donc pas d’un OS fun qui se voudrait sérieux, d’un système élégant qui se voudrait productif. C’est avant-tout un PC, un système qui amène des nouvelles fonctionnalités à quelque chose que le public connait déjà.
 

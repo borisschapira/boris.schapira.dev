@@ -19,10 +19,10 @@ Nous continuons avec quelques vidéos explicatives sur Youtube, contenant notamm
 
 {% capture img_alt %}Une photo d'un acarien au microscrope électronique à balayage{% endcapture %}
 {% capture img_caption %}House Dust Mite, par Gabriel Andrés Trujillo Escobedo - CC BY-SA 2.0{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/papa/2017-12-13/acarien.jpg"
-    alt=img_alt
-    caption=img_caption 
+{% include rwd-image.html.liquid
+path="/assets/images/papa/2017-12-13/acarien.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
 Les enfants sont subjugués et se regardent mutuellement en louchant, comme s'ils pouvaient voir au fond des pores de leur peau à l'œil nu.
@@ -43,11 +43,11 @@ Nous terminons notre explication par les bactéries, qui sont encore plus petite
 
 {% capture alt_text%}Extrait d'il était une fois la vie avec des bactéries.{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="ieuflv"
-    alt=alt_text
-    caption="La science, c'est la meilleure histoire du soir."
+slug="ieuflv"
+alt=alt_text
+caption="La science, c'est la meilleure histoire du soir."
 %}
 
-***
+---
 
 [À suivre…](/2017/12/les-petites-betes-suite/ "Les petites bêtes (suite)")

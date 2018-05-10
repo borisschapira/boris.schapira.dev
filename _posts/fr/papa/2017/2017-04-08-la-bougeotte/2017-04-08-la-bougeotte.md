@@ -5,7 +5,7 @@ type: post
 locale: fr_FR
 ---
 
-Mon plus jeune fils ne tient pas en place deux minutes. Rester assis, pour lui, est un défi de chaque instant. 
+Mon plus jeune fils ne tient pas en place deux minutes. Rester assis, pour lui, est un défi de chaque instant.
 
 <!-- more -->
 
@@ -14,7 +14,7 @@ On le retrouve toujours dans les positions les plus improbables. À table, notam
 Ce soir, pour la première fois, malgré de nombreuses mises en garde, il a franchi un cap : il est tombé des toilettes.
 
 {% include video_as_a_gif.html.liquid
-    slug="clap"
-    alt="Un homme applaudissant"
-    caption="Rien à dire. Kudos."
+slug="clap"
+alt="Un homme applaudissant"
+caption="Rien à dire. Kudos."
 %}

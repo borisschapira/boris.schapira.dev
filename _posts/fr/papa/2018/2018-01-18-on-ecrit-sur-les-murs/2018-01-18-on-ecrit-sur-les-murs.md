@@ -18,5 +18,4 @@ D'un coup, les deux garçons, qui nous écoutaient, interviennent :
 
 > Mais oui, l'encre de Noël. "On écrit, sur les murs à l'encre de Noëeeel…"
 
-{:.videoWrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VV5oVYVGfNc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include media/youtube.html.liquid id="VV5oVYVGfNc" title="KIDS UNITED - On Ecrit Sur Les Murs (Clip Officiel)" %}

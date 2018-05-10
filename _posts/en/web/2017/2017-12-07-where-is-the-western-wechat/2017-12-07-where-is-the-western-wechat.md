@@ -15,9 +15,9 @@ locale: en_US
 China is unquestionably changing the way Internet integrates our daily lives with its mobile app [WeChat](https://blog.clever-age.com/en/2017/05/19/10-ways-to-leverage-wechat-for-your-business/). How does this impact the web in the Western world?
 
 {% capture img_alt %}A hand holding a phone in front. There are many Android apps listed in a menu.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-12-07/pexels-photo-50614.jpg"
-    alt=img_alt
+{% include rwd-image.html.liquid
+path="/assets/images/2017-12-07/pexels-photo-50614.jpg"
+alt=img_alt
 %}
 
 <!-- more -->
@@ -29,8 +29,7 @@ China is unquestionably changing the way Internet integrates our daily lives wit
 
 WeChat is not your typical social network. It works as a platform connecting the user to a large set of services: discovery of new products, B2B, B2C or C2C interactions, reservation booking, access to information, payment, etc. WeChat offers a wide array of possibilities, as it aims to act as a single locus for a variety of micro apps, each offering a specific specialized service. WeChat is basically a service center running on top of the mobile phone’s OS.
 
-{:.videoWrapper}
-<iframe id="nyt_video_player" title="New York Times Video - Embed Player" src="https://static01.nyt.com/video/players/offsite/index.html?videoId=100000004574648" width="480" height="321" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+{% include media/video_iframe.html.liquid url="https://static01.nyt.com/video/players/offsite/index.html?videoId=100000004574648" width="480" height="321" title="How China is changing the Internet – New York Times" %}
 
 ## Why hasn’t anybody developed a similar service on this side of the planet?
 
@@ -58,10 +57,10 @@ Say you’re into running and looking to track your runs. Not knowing which app 
 
 {% capture img_alt %}A person is sitting on the floor, she is in sportswear. The goal is focused on his right shoe, which is a running shoe.{% endcapture %}
 {% capture img_caption %}Web, application and purchase combined into one frictionless, transparent experience for the user.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-12-07/pexels-photo-260290.jpg"
-    alt=img_alt
-    caption=img_caption 
+{% include rwd-image.html.liquid
+path="/assets/images/2017-12-07/pexels-photo-260290.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
 This topic will certainly define the web in the coming months, if not the coming years. It is [one of the hot topics being discussed at the W3C](https://www.w3.org/Payments/ "Web Payments at W3C: Making Payments Easy on the Web"). Soon, OS companies will likely introduce PWAs containing a set of libraries in order to facilitate and supervise payment in exchange for a commission, under a standard such as the [Payment Request API](https://developers.google.com/web/fundamentals/payments/). It is a substantial market and the key players will fiercely fight for their share.
@@ -76,8 +75,14 @@ WeChat is revolutionizing the web and mobile scenes in China, but repeating the 
 
 And this new revolution cannot take place without significant progress being made in terms of web payment standards, a topic the W3C is actively working on.
 
-[^1]: See Clever Age's article: "[How to operate in China?](https://blog.clever-age.com/en/2014/07/28/how-to-operate-in-china/)".
+[^1]:
 
-[^2]: See Clever Age's article: "[General Data Protection Regulation: Small guide for Business](https://blog.clever-age.com/en/2017/01/19/general-data-protection-regulation-small-guide-for-business/)".
+  See Clever Age's article: "[How to operate in China?](https://blog.clever-age.com/en/2014/07/28/how-to-operate-in-china/)".
 
-[^3]: On this topic, also see: "[AMP Project booste le chargement des pages web](https://blog.clever-age.com/fr/2016/02/08/amp-project-booste-le-chargement-des-pages-web/)" (In french).
+[^2]:
+
+  See Clever Age's article: "[General Data Protection Regulation: Small guide for Business](https://blog.clever-age.com/en/2017/01/19/general-data-protection-regulation-small-guide-for-business/)".
+
+[^3]:
+
+  On this topic, also see: "[AMP Project booste le chargement des pages web](https://blog.clever-age.com/fr/2016/02/08/amp-project-booste-le-chargement-des-pages-web/)" (In french).

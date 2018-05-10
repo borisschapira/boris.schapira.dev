@@ -20,7 +20,7 @@ Le petit demande :
 
 {% capture alt_text%}Kimmy schmidt vient juste d'acheter des sucreries et s'exclame "Je vais me faire un dîner de bonbons !"{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    url="/assets/images/papa/2018-03-19/candy"
-    alt=alt_text
-    caption="Comment j'imagine les dîners chez leur grand-mère."
+url="/assets/images/papa/2018-03-19/candy"
+alt=alt_text
+caption="Comment j'imagine les dîners chez leur grand-mère."
 %}

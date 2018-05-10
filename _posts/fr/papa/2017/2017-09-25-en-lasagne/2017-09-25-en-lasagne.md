@@ -19,7 +19,7 @@ Il y a quelques jours, j'ai revu une amie qui habite à l'étranger. Elle était
 > — Ah oui, elle vit en lasagne !
 
 {% include video_as_a_gif.html.liquid
-    slug="merkel"
-    alt="Angela Merkel hoche la tête, l'air fatigué"
-    caption="Angela approuve cette blague involontaire."
+slug="merkel"
+alt="Angela Merkel hoche la tête, l'air fatigué"
+caption="Angela approuve cette blague involontaire."
 %}

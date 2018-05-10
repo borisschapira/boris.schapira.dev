@@ -22,13 +22,14 @@ Matthieu n’est pas tatillon, loin de là, mais ses responsabilités et sa cons
 
 {% capture img_alt %}Un crayon écrit un point d'interrogation sur un carnet{% endcapture %}
 {% capture img_caption %}"Questioned Proposal" par Ethan Lofton - CC BY 2.0{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2014-03-13/1.jpg"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2014-03-13/1.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
 Mais parfois, il faut l’avouer, Matthieu ne sait pas. Il hésite. Il se pose des questions : cette fonctionnalité va-t-elle améliorer les choses ? Cette nouvelle façon de communiquer incitera-t-elle les clients à venir visiter le site ? Et ce nouveau tunnel de paiement, est-il vraiment plus performant que l’ancien ?
+
 <h2>Les Tests A/B, c’est simple et objectif</h2>
 Pour améliorer son processus de décision, il se renseigne et découvre une technique éprouvée sur les géants du Web : l'<strong>A/B Testing</strong>. Il lit consciencieusement <a href="https://fr.wikipedia.org/wiki/Test_A/B">la définition de Wikipedia</a> et comprend immédiatement le principe, qui repose sur trois étapes :
 
@@ -50,10 +51,10 @@ Qu’à cela ne tienne, il décide de franchir le pas malgré tout et demande à
 
 {% capture img_alt %}Un prototype visuel d'une page produit d'un site e-commerce{% endcapture %}
 {% capture img_caption %}Maquette de la fiche produit : la zone jaune incluera soit un visuel du produit (version A), soit une vidéo (version B){% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2014-03-13/2.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2014-03-13/2.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Il hésite, puis décide finalement de tester l’affichage de l’image produit sur le gabarit “Fiche Produit” du site e-commerce. La version courante, avec l’image produit à gauche de sa description, sera considérée comme la version de contrôle, la version A. Sur la version B, c’est une vidéo du produit qui sera affichée. Depuis le temps que le département Marketing dit qu’il faut mettre davantage de vidéo, il est temps de le vérifier !
@@ -112,6 +113,7 @@ De plus, un des membres de l’équipe de Matthieu lui apporte une information n
 Enfin, durant les quelques jours pendant lesquels le test a été effectué, le taux de conversion global du site a chuté. N’ayant pas fait suivre l’information A/B dans ses indicateurs jusqu’au paiement (seul l’ajout-panier stockait la différence), Matthieu a du mal à savoir si la version B y est pour quelque chose... Et si les gens ajoutaient davantage au panier, pour finalement partir sans avoir acheté ? C’est un risque que l’équipe ne peut pas prendre à la légère.
 
 Tout cela enseigne beaucoup à Matthieu… sur la façon de faire des tests A/B. Mais sur le visuel produit, aucune conclusion n’est possible : il va falloir réitérer l’expérience en la contrôlant mieux.
+
 <h2>Les Tests A/B, quand les autres s’en mêlent</h2>
 Finalement, Matthieu et son équipe reproduisent le test avec de meilleures mesures et un volume significatif, ce qui leur permet de bien isoler les résultats. Contrairement à ce qu’ils avaient pensé, la version B est moins performante, aussi le site est-il à nouveau basculé à 100 % sur sur la version avec visuel produit. Même si Matthieu est frustré de ne pas comprendre les raisons du résultat, lui qui pensait que la vidéo ne pourrait être que plus attrayante, il est tout de même satisfait de l’avoir obtenu et sa Direction l’en félicite.
 
@@ -121,10 +123,10 @@ Heureusement, certains tests continuent à être possibles. L’équipe Marketin
 
 {% capture img_alt %}Un panneau indicateur pour la Rue d'Enfer{% endcapture %}
 {% capture img_caption %}"Rue d’Enfer" par Frédéric Bisson - CC BY 2.0{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2014-03-13/3.jpg"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2014-03-13/3.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
 Malheureusement, cette demande s’ajoute aux autres, plus nombreuses, et certaines concernent des pages similaires. Les utilisateurs pourraient ainsi subir sans le savoir plusieurs tests A/B au sein d’une même page. Sur la fiche produit, par exemple :
@@ -167,10 +169,10 @@ La première d’entre elles concerne la fonction d’adaptation. En effet, tout
 
 {% capture img_alt %}A 3D representation of a local maximum{% endcapture %}
 {% capture img_caption %}Sometimes, optimization is an illusion. The real objective is higher.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2014-03-13/5.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2014-03-13/5.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Imaginons, par exemple, que nous procédions à une analyse multivariée composée de deux tests ayant chacun une quinzaine de variations (le cas est extrême, mais il sert la démonstration). Jouer sur les variations des deux tests consiste alors à se déplacer sur le plan jaune du graphe ci-joint, à la recherche d’un maximum de performance. Rien ne nous permettrait, une fois arrivés en haut du sommet jaune, de savoir qu’il en existe un plus grand sommet ailleurs et que nous l’aurions trouvé en poursuivant nos tests sur un plus grand nombre de variations.
@@ -187,10 +189,10 @@ Ajoutons à cela plusieurs autres limites évidentes :
 
 {% capture img_alt %}Une jeune femme pensive{% endcapture %}
 {% capture img_caption %}"Thinking" par Moyan Brenn - CC BY 2.0{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2014-03-13/4.jpg"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2014-03-13/4.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
 <h2>Les Tests A/B, au final</h2>

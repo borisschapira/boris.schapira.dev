@@ -7,7 +7,7 @@ type: post
 locale: fr_FR
 ---
 
-Depuis quelques semaines, je me pose des questions sur l'utilisation de Facebook, des groupes, des causes et des amis. 
+Depuis quelques semaines, je me pose des questions sur l'utilisation de Facebook, des groupes, des causes et des amis.
 
 Par exemple le profil limité&nbsp;: à quoi sert-il&nbsp;? Moi quand je n'aime pas ou quand je ne connais pas quelqu'un je ne l'ajoute pas à mes amis, c'est tout. Bien s&#xFB;r, je sais que de nombreuses personnes cultivent des habitudes opposées et ajoutent à tout va des gens avec qui ils ont vaguement une relation. Mais comment gérer au bout de quelques mois ces centaines de contacts auxquels vous ne parlez jamais&nbsp;?
 

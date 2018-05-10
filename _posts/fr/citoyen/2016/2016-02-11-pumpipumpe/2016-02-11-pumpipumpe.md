@@ -13,10 +13,10 @@ J'espère que certains voisins adhéreront également. L'envoi n'est pas cher et
 
 {% capture img_alt %}Une boite au lettre rouge sur laquelle des autocollants Pumpipumpe ont été apposés{% endcapture %}
 {% capture img_caption %}Les autocollants sont suffisement petits pour qu'on puisse en loger autant que voulu sur une boîte.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2016-02-20/1.jpg"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2016-02-20/1.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
 À suivre…

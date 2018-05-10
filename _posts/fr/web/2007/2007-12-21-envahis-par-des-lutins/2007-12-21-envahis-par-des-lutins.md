@@ -18,10 +18,12 @@ Enfin, pour que ce soit marrant, laissez tout autour d'autres machines, des écr
 
 Le plus drôle dans tout ça, ce sont les réflexions des enfants&nbsp;:
 
-> &#45; Papa pourquoi tu cries dans le téléphone&nbsp;?  
->   - Parce que ma chérie, le monsieur m'énerve. - Mais alors pourquoi tu lui parles
+> &#45; Papa pourquoi tu cries dans le téléphone&nbsp;?
+>
+> * Parce que ma chérie, le monsieur m'énerve. - Mais alors pourquoi tu lui parles
 
 Ou encore :
 
-> &#45; Maman, je peux me batailler avec mon épée-ballon&nbsp;?  
->   - Oui chéri, mais ne dérange pas les messieurs qui crient.
+> &#45; Maman, je peux me batailler avec mon épée-ballon&nbsp;?
+>
+> * Oui chéri, mais ne dérange pas les messieurs qui crient.

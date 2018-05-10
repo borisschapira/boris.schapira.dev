@@ -14,5 +14,5 @@ A 15:30, j'ai d&ucirc; retourner sur [Monster.fr](http://www.monster.fr/) pour s
 
 Deux conclusions s'imposent donc suite à cette expérience&nbsp;:
 
-1. il faut faire confiance à Benjamin ;
-2. je risque d'enchainer assez rapidement sur un job à la sortie d'ici, donc pas de vacances tout de suite !
+1.  il faut faire confiance à Benjamin ;
+2.  je risque d'enchainer assez rapidement sur un job à la sortie d'ici, donc pas de vacances tout de suite !

@@ -13,13 +13,13 @@ Malheureusement, ce n'est pas le cas de tous. Petit guide des choses qui m'ont f
 
 > Nous avons une offre à vous faire, veuillez consulter la référence 23402CP45 de nos offres d'emplois sur notre site "machin" en cliquant sur "truc"
 
- * Si un profil vous intéresse, expliquez pour quelle raison.
- * Si une offre est à pourvoir, donnez son descriptif.
- * Poussez les gens à visiter votre site en cliquant sur un lien perdu de la page d'accueil, ça ne donne pas très envie.
+* Si un profil vous intéresse, expliquez pour quelle raison.
+* Si une offre est à pourvoir, donnez son descriptif.
+* Poussez les gens à visiter votre site en cliquant sur un lien perdu de la page d'accueil, ça ne donne pas très envie.
 
 > Nous recrutons plus de X000 collaborateurs issus d'Ecoles d'Ingénieur&nbsp;: rejoignez-nous&nbsp;!
 
- * Quand on est jeune et qu'on cherche un premier emploi, on souvent une structure où nos projets de carrière vont être pris en considération de manière indépendante, unique. Être considéré comme un ingénieur de plus parmi 2999 autres n'est pas compatible avec ces critères.
+* Quand on est jeune et qu'on cherche un premier emploi, on souvent une structure où nos projets de carrière vont être pris en considération de manière indépendante, unique. Être considéré comme un ingénieur de plus parmi 2999 autres n'est pas compatible avec ces critères.
 
 > Nous vous proposons un poste de technicien-développeur en langage C au sein de notre structure, ce qui correspond au projet de carrière qui semble défini par vos expériences.
 

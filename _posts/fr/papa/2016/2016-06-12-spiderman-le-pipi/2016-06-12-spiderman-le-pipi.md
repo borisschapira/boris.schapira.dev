@@ -27,8 +27,8 @@ Quand soudain :
 
 > ♫ Spiderman, le caca, Spiderman, le caca, ♪ Spiderman, le caca, ♫ Spiderman, le caca, ♬ Spiderman, le caca, ♬ Spiderman, le caca, Spiderman, le caca, Spiderman, le caca, ♪ Spiderman, le caca…
 
-{% include video_as_a_gif.html.liquid 
-  slug="1" 
-  alt="Hadès (du dessing animé Hercule de Disney) en brûle son cigare de colère" 
-  caption="Garder son calme, garder son calme…"
+{% include video_as_a_gif.html.liquid
+slug="1"
+alt="Hadès (du dessing animé Hercule de Disney) en brûle son cigare de colère"
+caption="Garder son calme, garder son calme…"
 %}

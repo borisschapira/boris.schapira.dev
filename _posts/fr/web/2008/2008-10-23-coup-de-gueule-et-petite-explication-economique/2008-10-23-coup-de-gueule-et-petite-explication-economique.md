@@ -19,8 +19,8 @@ Les banquiers sont rationnels&nbsp;: d'un côté, ils ont envie de prêter et d'
 
 L'État décide d'intervenir. Son objectif est de relancer le financement des entreprises et il dispose de différents leviers dont, par exemple&nbsp;:
 
-1. Accorder des prêts aux banques pour favoriser l'investissement
-2. Accorder des prêts aux entreprises et jouer le rôle d'investisseur
+1.  Accorder des prêts aux banques pour favoriser l'investissement
+2.  Accorder des prêts aux entreprises et jouer le rôle d'investisseur
 
 Nous préférerions instinctivement que l'État choisisse la deuxième solution plutôt que la première. Mais un critère élimine ce choix&nbsp;: le risque. L'entreprise est un placement bien plus risqué que la banque dont la défaillance est, statistiquement, moins grande. Ajoutez que les coûts de gestion du prêt sont multipliés par le nombre d'acteur et vous comprendrez que la logique préfère le prêt important à un acteur _à priori_ fiable plutôt que le prêt moins important à diverses acteurs risqués.
 
@@ -46,4 +46,4 @@ Alors voilà, j'ai rédigé cet article pour que certaines notions soient plus c
 
 Une piste qui curieusement n'a pas été abordée par les socialistes (qui en sont d'habitude friands) est celle de la nationalisation. Je m'étonne de cette absence de proposition qui, si elle peut être critiquée tout autant que la solution choisie par le gouvernent, a le mérite d'ouvrir le débat. De toutes façons cette solution les arrange aussi puisqu'à court terme elle augmente le déficit, constat qu'ils ne manqueront pas de souligner au bilan de Nicolas Sarkozy lors des prochaines élections. Mais peut-être suis-je mauvaise langue, auquel cas je serai ravi d'être éclairé dans les commentaires.
 
-Enfin, je ne crois pas avoir vu non plus de mentions concernant l'orientation du crédit. L'État précise-t-il à quels secteurs les banques qui empruntent doivent elles-mêmes prêter&nbsp;? Il aurait peut-être été judicieux d'en profiter pour soutenir une campagne d'investissement sur des projets à forte valeur ajoutée pour l'État mais pas forcément pour la Finance comme l'environnement, le logement, l'emploi, la santé, l'éducation… Personnellement, je tiendrais les c***** des plus grands banquiers du pays dans ma main, j'en profiterais pour leur demander quelques sacrifices qui m'arrangent ;)
+Enfin, je ne crois pas avoir vu non plus de mentions concernant l'orientation du crédit. L'État précise-t-il à quels secteurs les banques qui empruntent doivent elles-mêmes prêter&nbsp;? Il aurait peut-être été judicieux d'en profiter pour soutenir une campagne d'investissement sur des projets à forte valeur ajoutée pour l'État mais pas forcément pour la Finance comme l'environnement, le logement, l'emploi, la santé, l'éducation… Personnellement, je tiendrais les c**\*** des plus grands banquiers du pays dans ma main, j'en profiterais pour leur demander quelques sacrifices qui m'arrangent ;)

@@ -11,5 +11,4 @@ Vidéo traduite par [CaféCroissant](http://cafecroissant.fr/2008/bonne-nuit-et-
 
 <!-- more -->
 
-{:.videoWrapper}
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x6qzpl" allowfullscreen></iframe><br /><a href="http://www.dailymotion.com/video/x6qzpl_olbermann-mccain-et-le-11-septembre_news" target="_blank" rel="noopener">Olbermann, McCain et le 11 Septembre</a> <em>par <a href="http://www.dailymotion.com/cafecroissant" target="_blank">cafecroissant</a></em>
+{% include media/video_iframe.html.liquid width="480" height="270" url="https://www.dailymotion.com/embed/video/x6qzpl" title="9/11 TM, Keith Olbermann" %}

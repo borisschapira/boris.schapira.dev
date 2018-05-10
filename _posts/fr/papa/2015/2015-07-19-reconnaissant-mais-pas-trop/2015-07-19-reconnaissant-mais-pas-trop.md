@@ -14,4 +14,3 @@ locale: fr_FR
 > — ...  
 > — Hein ?  
 > — Oui, bon, pfff, ça va là Papa, démarrer maintenant !
-

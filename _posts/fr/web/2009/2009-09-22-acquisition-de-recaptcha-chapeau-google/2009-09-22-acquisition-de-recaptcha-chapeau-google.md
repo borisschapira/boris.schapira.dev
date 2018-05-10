@@ -15,9 +15,9 @@ Et voilà **l'idée géniale de Google**&nbsp;: racheter ReCaptcha. Qu'est qu'un
 
 En remplaçant une partie du Captcha par une portion d'une image scannée qu'un <abbr title="Optical Character Recognition">OCR</abbr> n'arrive pas reconnaitre, Google fait d'une pierre deux coups. Il offre aux utilisateurs un Captcha efficace (les propres algorithmes de Google sont incapables de résoudre le problème) tout en les faisant travailler au grand projet de numérisation (en reconnaissant à l'œil ce que les ordinateurs sont incapables de lire). Car dans un ReCaptcha, l’image à reconnaitre est composée de deux parties. Seule une des deux parties sera issue d’un échec <abbr title="Optical Character Recognition">OCR</abbr>. L’autre servira effectivement à la validation CAPTCHA. La question est alors&nbsp;: comment vérifier que l’utilisateur donne la bonne réponse, c’est-à-dire écrive bien en caractères numériques le mot représenté sur l’image&nbsp;? Je pense que cela repose sur 4 facteurs&nbsp;:
 
-1. La confiance&nbsp;: l’utilisateur n’a aucun intérêt à donner la mauvais translation de l’image ou à se regrouper avec d’autres utilisateurs pour nuire au système.
-2. L’inconnu&nbsp;: l’utilisateur n’a aucun moyen de déterminer quelle partie du Capcha sert au test, et quelle partie est issue d’un échec OCR.
-3. La compétence: si l’utilisateur a trouvé le Captcha de TEST malgré les déformations, il y a fort à parier qu’il trouvera déterminera le mot sur lequel a buté l’OCR.
-4. Le nombre&nbsp;: en proposant la même image à plusieurs utilisateurs, on peut comparer leurs réponses. Si elles sont identiques, le processus est confirmé.
+1.  La confiance&nbsp;: l’utilisateur n’a aucun intérêt à donner la mauvais translation de l’image ou à se regrouper avec d’autres utilisateurs pour nuire au système.
+2.  L’inconnu&nbsp;: l’utilisateur n’a aucun moyen de déterminer quelle partie du Capcha sert au test, et quelle partie est issue d’un échec OCR.
+3.  La compétence: si l’utilisateur a trouvé le Captcha de TEST malgré les déformations, il y a fort à parier qu’il trouvera déterminera le mot sur lequel a buté l’OCR.
+4.  Le nombre&nbsp;: en proposant la même image à plusieurs utilisateurs, on peut comparer leurs réponses. Si elles sont identiques, le processus est confirmé.
 
 Voilà un superbe exemple de proposition où tout le monde est **gagnant**. Vous en connaissez d'autres&nbsp;?

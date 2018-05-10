@@ -22,8 +22,7 @@ Finalement, il a peut-être le nez de son père.
 
 {% capture alt_text%}Le capitaine Jack Sparrow ("Pirates des Caraibes") dit qu'il préfère le rhum.{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="pirate"
-    alt=alt_text
-    caption="Ou alors il va finir pirate."
+slug="pirate"
+alt=alt_text
+caption="Ou alors il va finir pirate."
 %}
-

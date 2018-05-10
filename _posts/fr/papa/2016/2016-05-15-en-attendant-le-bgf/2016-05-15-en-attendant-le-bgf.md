@@ -20,8 +20,8 @@ Maman finit de se préparer pendant que les garçons, déjà déguisés, poireau
 > [Grand] Tape c'est celui qui a une épée carrée qui tourne vite et après il lève le bras et il vole !
 
 {% capture cap %}Son nom ? Il a dit qu'il s'appelait "Thor".{% endcapture %}
-{% include video_as_a_gif.html.liquid 
-  slug="1" 
-  alt="Jane Foster explique que son nom est Thor" 
-  caption=cap
+{% include video_as_a_gif.html.liquid
+slug="1"
+alt="Jane Foster explique que son nom est Thor"
+caption=cap
 %}

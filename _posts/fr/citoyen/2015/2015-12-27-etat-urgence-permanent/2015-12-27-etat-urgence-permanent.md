@@ -24,9 +24,6 @@ Nous sommes en train d'ouvrir des possibles détestables, soutenus par un concen
 
 Alors on y va, on tranche dans les libertés. Après tout, les gens sont contents, les enquêtes d'opinion le montrent ! Pourquoi se gêner, puisqu'on est capable de rameuter des votants en agitant le spectre du F.N. mais que de l'autre côté, si on applique son programme, on ne craint rien ? C'est même un formidable outil électoral…
 
-{:.videoWrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3x2fPUQHMeU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 Pendant ce temps, je lis tout ce que je peux. [Je recense, aussi, quand quelque chose n'est pas encore listé](https://wiki.laquadrature.net/%C3%89tat_urgence/Recensement). Je donne de l'argent, aussi et surtout, parce que les associations de défense de nos libertés en ont besoin.
 
 Je regarde les photos des maisons des gens qui se font perquisitionner, souvent des musulmans. Je contemple les fondations des prochaines générations de radicalisés qui auront vu leur père, frère, ami, voisin, perquisitionné ou séquestré à domicile sans instruction, sans jugement, sans preuve et quasiment à chaque fois sans infraction par un État qui ne respecte plus ces citoyens et en est même rendu à **définir les bons et les mauvais français**.

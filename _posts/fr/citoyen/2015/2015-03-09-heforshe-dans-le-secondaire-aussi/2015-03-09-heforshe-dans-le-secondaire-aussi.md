@@ -33,9 +33,9 @@ La classe est désormais toute ouïe, on entendrait une mouche volée…
 
 Puis, à toute la classe&nbsp;:
 
-> Vous trouvez qu'on a trop de femmes dans l'informatique&nbsp;? Parfait, alors continuez comme ça, vous comprendrez que ça ne risquera pas de changer. Si elles vous disent non, c'est non. Et si elles ne vous disent pas oui, posez la question. Le consentement, c'est la clé.  
+> Vous trouvez qu'on a trop de femmes dans l'informatique&nbsp;? Parfait, alors continuez comme ça, vous comprendrez que ça ne risquera pas de changer. Si elles vous disent non, c'est non. Et si elles ne vous disent pas oui, posez la question. Le consentement, c'est la clé.
 >
-> On ne parle que de ça, ensemble, depuis des semaines&nbsp;: comment se mettre à la place des utilisateurs, comment s'assurer qu'ils comprennent nos produits plutôt que d'essayer d'imposer notre vision…  
+> On ne parle que de ça, ensemble, depuis des semaines&nbsp;: comment se mettre à la place des utilisateurs, comment s'assurer qu'ils comprennent nos produits plutôt que d'essayer d'imposer notre vision…
 >
 > Faites pareil dans votre vie personnelle&nbsp;: draguez en prenant soin de ne pas vous imposer. Je suis sûr que vous êtes vachement plus intéressants quand vous parlez de vous que quand vous faites vos boloss, là !
 

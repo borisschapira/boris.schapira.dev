@@ -22,10 +22,10 @@ Solution Navigator est un mariage entre le Solution Explorer et le Class Viewer.
 
 {% capture img_alt %}Capture de l'écran Solution Navigator{% endcapture %}
 {% capture img_caption %}Solution Navigator{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2010-09-02/VS2010_ProductivityPowerTools_SolutionNavigator.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2010-09-02/VS2010_ProductivityPowerTools_SolutionNavigator.png"
+alt=img_alt
+caption=img_caption
 %}
 
 ### Quick Access
@@ -34,10 +34,10 @@ Quick Access est l’outil idéal pour apprendre à utiliser Visual Studio ou en
 
 {% capture img_alt %}Capture de l'écran Quick Access{% endcapture %}
 {% capture img_caption %}Quick Access{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2010-09-02/VS2010_ProductivityPowerTools_QuickAccess.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2010-09-02/VS2010_ProductivityPowerTools_QuickAccess.png"
+alt=img_alt
+caption=img_caption
 %}
 
 ### Fenêtre Add Reference améliorée
@@ -46,10 +46,10 @@ Celle nouvelle fenêtre facilite et accélère l’ajout de références à votr
 
 {% capture img_alt %}Capture de l'écran Add Reference{% endcapture %}
 {% capture img_caption %}Add Reference{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2010-09-02/VS2010_ProductivityPowerTools_AddReference.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2010-09-02/VS2010_ProductivityPowerTools_AddReference.png"
+alt=img_alt
+caption=img_caption
 %}
 
 ### Autres améliorations

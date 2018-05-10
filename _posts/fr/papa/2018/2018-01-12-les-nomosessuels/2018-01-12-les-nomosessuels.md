@@ -15,7 +15,7 @@ Mon grand pleure car à l'école, un enfant se moque de lui. Il m'explique.
 
 Nous avons eu une grande discussion sur ce qu'était l'homosexualité, et sur la prononciation du mot "Monopoly". Ensuite, on s'est demandé ce qu'il pouvait faire pour que le garçon arrête. Je lui ai dis de lui poser des questions, de le solliciter. À la fois pour comprendre pourquoi il disait ça mais aussi pour faire en sorte que l'interaction soit plus pénible pour ce méchant garçon que pour lui.
 
-***
+---
 
 Quelques jours plus tard…
 
@@ -32,7 +32,7 @@ Soudain, il a paru triste.
 
 {% capture alt_text%}Ellen Page agite un <span lang="en">rainbow flag</span>.{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="ellenpage"
-    alt=alt_text
-    caption="Ça, c'est des valeurs !"
+slug="ellenpage"
+alt=alt_text
+caption="Ça, c'est des valeurs !"
 %}

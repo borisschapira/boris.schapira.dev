@@ -8,7 +8,7 @@ locale: fr_FR
 ---
 
 Toutes mes félicitations à toi,
-[Nicolas Princen](https://www.google.fr/search?hl=fr&amp;q=nicolas+princen&amp;meta=lr%3Dlang_fr&amp;gws_rd=ssl), dont la mission à la cellule Internet de l'Elysée est de _"surveiller tout ce qui se dit sur la Toile, traquer les fausses rumeurs et déjouer toute désinformation à l'encontre du Président"._
+[Nicolas Princen](https://www.google.fr/search?hl=fr&q=nicolas+princen&meta=lr%3Dlang_fr&gws_rd=ssl), dont la mission à la cellule Internet de l'Elysée est de _"surveiller tout ce qui se dit sur la Toile, traquer les fausses rumeurs et déjouer toute désinformation à l'encontre du Président"._
 
 Avec ses quelques millions de blogs, nul doute que ta tâche ne sera pas aisée. D'autant que la création même de ton poste implique un profond malaise chez les blogueurs qu'il va falloir convaincre que _"déjouer toute désinformation"_ ne rime pas avec _"inciter les blogueurs à la fermer"_.
 

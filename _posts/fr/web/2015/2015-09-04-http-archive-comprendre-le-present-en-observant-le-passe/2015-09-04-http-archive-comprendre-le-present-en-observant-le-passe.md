@@ -23,6 +23,7 @@ Je recommande à quiconque d'ajouter son site à l'index de HTTP Archive. À cou
 En revanche, lorsqu'on cherche à comprendre certaines évolutions longues (de l'ordre de l'année ou sur plusieurs années) en terme de dette technique, de référencement naturel ou d'expérience utilisateur, avoir accès à cet historique permet de dégager des tendances, de comprendre des choses que l'on n'aurait pas forcément imaginer en observant uniquement l'instantané du site concerné.
 
 Inscrivez votre site maintenant pour que cela puisse servir plus tard.
+
 <ul>
 	<li><a href="https://httparchive.org/websites.php">Recherchez votre site dans la base</a></li>
 	<li><a href="https://httparchive.org/addsite.php">Ajouter un nouveau site à l'index</a></li>

@@ -7,15 +7,16 @@ locale: fr_FR
 
 On commence par définir le modèle de <span lang="en">hooks</span> de <span lang="en">pre-commit</span>.
 
-1. Créer un dossier dans votre profil qui hébergera vos <span lang="en">templates</span> de création de projets (ce <span lang="en">template</span> sera utilisé ensuite à chaque initialisation) :
+1.  Créer un dossier dans votre profil qui hébergera vos <span lang="en">templates</span> de création de projets (ce <span lang="en">template</span> sera utilisé ensuite à chaque initialisation) :
     ```
     git config --global init.templatedir '~/.git-templates'
     ```
-1. Créer un répertoire dans ce dossier pour stocker les <span lang="en">hooks</span> :
+1.  Créer un répertoire dans ce dossier pour stocker les <span lang="en">hooks</span> :
     ```
     mkdir -p ~/.git-templates/hooks
     ```
-1. Contribuer votre script de <span lang="en">pre-commit</span> dans `~/.git-templates/hooks/pre-commit`. Pour interdire les `var_dump`, par exemple :
+1.  Contribuer votre script de <span lang="en">pre-commit</span> dans `~/.git-templates/hooks/pre-commit`. Pour interdire les `var_dump`, par exemple :
+
     ```
     #!/bin/sh
 
@@ -25,11 +26,12 @@ On commence par définir le modèle de <span lang="en">hooks</span> de <span lan
     exit 1
     fi
     ```
-1. Faire en sorte que le script soit exécutable
+
+1.  Faire en sorte que le script soit exécutable
     ```
     chmod a+x ~/.git-templates/hooks/pre-commit
     ```
-1. Réinitialiser chaque dépôt pour que le template soit pris en compte :
+1.  Réinitialiser chaque dépôt pour que le template soit pris en compte :
     ```
     git init
     ```

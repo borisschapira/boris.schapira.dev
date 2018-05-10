@@ -28,7 +28,9 @@ Plus précisément, avec l’arrivée depuis quelques années de librairies HTML
 Il trouve sa configuration dans un fichier à la racine de votre projet, et sait de lui-même installer, dans un dossier bien défini, l’ensemble des librairies déclarées dans les versions nécessaires (du moins suivra-t-il une syntaxe de gestion sémantique des versions lui permettant de déterminer la meilleure version à installer pour chaque librairie).
 
 Imaginons par exemple que vous ayez besoin de <span lang="en">jQuery UI</span>. Un simple :
+
 <pre><code class="bash">bower install jquery-ui --save</code></pre>
+
 vous permettra d’ajouter la dépendance à votre projet ainsi qu’à votre configuration <strong>Bower</strong> sous la forme d’un fichier <code>.bowerrc</code>, et il ne vous restera plus qu’à référencer le script dans votre page HTML. L’intérêt d’une solution de gestion des dépendances, c’est qu’elle ira jusqu’à récupérer, au sein de votre projet, les dépendances de <span lang="en">jQuery UI</span> lui-même. Plus la peine de déterminer la version de <span lang="en">jQuery</span> à utiliser, <strong>Bower</strong> lira la configuration de <span lang="en">jQuery UI</span> et installera la meilleure version.
 
 ## Un problème de dépendances

@@ -19,7 +19,7 @@ J'ai demandé quelques jours à mon employeur pour m'occuper du petit, en conval
 
 {% capture alt_text%}Stephen Colbert mime de fermer sa bouche comme on ferme un coffre-fort, en jetant la clé.{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="secret"
-    alt=alt_text
-    caption="Il a promis de garder le secret."
+slug="secret"
+alt=alt_text
+caption="Il a promis de garder le secret."
 %}

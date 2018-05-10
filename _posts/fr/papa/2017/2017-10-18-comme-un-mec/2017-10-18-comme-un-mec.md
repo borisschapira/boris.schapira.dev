@@ -12,7 +12,7 @@ Depuis quelques jours, mon aîné a une nouvelle manie. Dès qu'il réussit quel
 > — Ouais, je suis un mec !  
 > — Tu veux dire que tu es fort ?  
 > — Oui, je suis un mec !  
-> — Non, tu es un mec parce que tu as un pénis, grosso-modo. Être fort, c'est pas un truc "de mec". Il y a plein de femmes fortes.  
+> — Non, tu es un mec parce que tu as un pénis, grosso-modo. Être fort, c'est pas un truc "de mec". Il y a plein de femmes fortes.
 
 Le petit, fan de super-héros, s'en mêle :
 
@@ -32,8 +32,7 @@ J'ai essayé de trouver une réponse intelligente mais tout ce qui m'est venu à
 
 > Parce que je crois qu'elles valent mieux que ça, mon cœur.
 
-
 {% include video_as_a_gif.html.liquid
-    slug="fools"
-    alt="Wonder Woman regarde Flash et Green Lantern et leur dire que les hommes sont des imbéciles."
+slug="fools"
+alt="Wonder Woman regarde Flash et Green Lantern et leur dire que les hommes sont des imbéciles."
 %}

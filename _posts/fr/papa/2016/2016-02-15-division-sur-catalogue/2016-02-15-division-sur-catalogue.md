@@ -49,10 +49,10 @@ Même dans le respect d'une licence importante comme un film Disney, le message 
 
 {% capture img_alt %}Publicité pour le "Nerf Rebelle Agent Secret Pistolet"{% endcapture %}
 {% capture img_caption %}Bah non, mon bon monsieur : quand les filles se tirent dessus, c'est pour s'envoyer des messages secrets écrits du bout de leurs ongles vernis sur des flèches en paillettes, bien sûr !{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2016-02-01/1.jpg"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2016-02-01/1.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
 Si votre fille veut devenir pompier, il faudra qu'elle comprenne qu'il s'agit d'un métier d'homme. À la place, on lui proposera plutôt des images favorisant son épanouissement dans des rôles de fantaisie, de création "mode" ou de tâches ménagères.

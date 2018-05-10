@@ -42,4 +42,3 @@ $('selector').on('pointerdown',function(){
 Évidemment, comme d'habitude, il faut faire attention à la compatibilité navigateur qui, au moment où j'écris ces lignes, est assez balbutiante : [http://caniuse.com/#feat=pointer](http://caniuse.com/#feat=pointer)
 
 Mais heureusement, il existe un _polyfill_ maintenu par la fondation jQuery : [https://github.com/jquery/PEP](https://github.com/jquery/PEP), qui fera ce qu'on lui demande dès IE10.
-

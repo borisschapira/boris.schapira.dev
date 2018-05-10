@@ -16,7 +16,7 @@ C'&#233;tait l&#224; premi&#232;re soir&#233;e de blogueurs &#224; laquelle j'em
 
 **Mercredi 30&nbsp;: Soir&#233;e Nexeo [Nameless](http://nameless.fr)**
 
-Dans une chaleureuse salle de r&#233;ception de l'avenue Friedland, petits fours et champagne autour des annonces de bonne croissance de mon entreprise. Et pour assurer le spectacle, l'excellent groupe Nameless. Je repars avec deux tee-shirts, 5 autographes et un album (que j'avais d&#233;j&#224; en mp3 et qui est excellent), ainsi que d'excellentes raisons de me satisfaire de mon statut de consultant Nexeo.    
+Dans une chaleureuse salle de r&#233;ception de l'avenue Friedland, petits fours et champagne autour des annonces de bonne croissance de mon entreprise. Et pour assurer le spectacle, l'excellent groupe Nameless. Je repars avec deux tee-shirts, 5 autographes et un album (que j'avais d&#233;j&#224; en mp3 et qui est excellent), ainsi que d'excellentes raisons de me satisfaire de mon statut de consultant Nexeo.  
 Je n'ai pas encore pris le temps de monter mes vid&#233;os du concert mais je vais m'y mettre, promis.
 
 **Vendredi 1er&nbsp;: No Country + Planet Hollywood**

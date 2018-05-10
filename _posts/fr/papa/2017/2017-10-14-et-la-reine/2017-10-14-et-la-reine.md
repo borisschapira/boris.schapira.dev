@@ -18,7 +18,7 @@ Les garçons jouent à la bataille avec leur mère.
 > — Oui, par exemple Wonder Woman c’est une super femme et elle est la plus forte !
 
 {% include video_as_a_gif.html.liquid
-    slug="wonder"
-    alt="Wonder Woman protège Batman et Superman dans un extrait d'un film DC"
-    caption="Un exemple de la vraie vie !"
+slug="wonder"
+alt="Wonder Woman protège Batman et Superman dans un extrait d'un film DC"
+caption="Un exemple de la vraie vie !"
 %}

@@ -17,7 +17,7 @@ Bien sûr, tout ça n'a pas été facile pour le grand non plus.
 
 {% capture alt_text%}Un petit garçon contrarié dit "C'est pas juste"{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="notfair"
-    alt=alt_text
-    caption="Même dans les moments douloureux, toujours garder le sens de l'injustice."
+slug="notfair"
+alt=alt_text
+caption="Même dans les moments douloureux, toujours garder le sens de l'injustice."
 %}

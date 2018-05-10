@@ -17,10 +17,10 @@ J'ai par exemple hâte d'acheter "[Les Culottées](http://lesculottees.blog.lemo
 
 {% capture img_alt %}Capture d'écran de la fiche de Rosalind Franklin{% endcapture %}
 {% capture img_caption %}Margaret Hamilton (actrice terrifiante){% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2016-04-20/0.jpg"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2016-04-20/0.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
 Si le sujet vous intéresse vraiment, n'hésitez pas à suivre aussi les actualités et productions multimédia de [ONU Femmes](http://www.unwomen.org/fr) (dont émane l'initiative [#HeForShe](http://www.heforshe.org/)), comme cette réalisation sur [l'empreinte des femmes dans l'Histoire](http://interactive.unwomen.org/multimedia/timeline/womensfootprintinhistory/fr/index.html).
@@ -30,8 +30,8 @@ Si le sujet vous intéresse vraiment, n'hésitez pas à suivre aussi les actuali
 
 {% capture img_alt %}Illustration de Rosalind Franklin à côté d'un texte descriptif de son empreinte{% endcapture %}
 {% capture img_caption %}Rosalind Franklin participant à la découverte de la structure de l'ADN en 1951.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2016-04-20/1.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2016-04-20/1.png"
+alt=img_alt
+caption=img_caption
 %}

@@ -7,9 +7,9 @@ locale: fr_FR
 
 _Le 6 novembre dernier avaient lieu les Entretiens de l’AMF 2008\. Les objectifs de ces tables rondes auxquelles participait Christine LAGARDE, étaient définis par l’air du temps:_
 
-1. [_Régulation de la gestion d’actifs face aux défis européens et internationaux._](/2008/11/les-entretiens-de-lamf-2008-13-regulation-de-la-gestion-dactifs/)
-2. [_Régulation pour les produits traités de gré à gré ?_](/2008/12/les-entretiens-de-lamf-2008-23-regulation-des-produits-traites-de-gre-a-gre/)
-3. _Transparence et opérations financières : le suivi du contrôle dans les sociétés cotées._
+1.  [_Régulation de la gestion d’actifs face aux défis européens et internationaux._](/2008/11/les-entretiens-de-lamf-2008-13-regulation-de-la-gestion-dactifs/)
+2.  [_Régulation pour les produits traités de gré à gré ?_](/2008/12/les-entretiens-de-lamf-2008-23-regulation-des-produits-traites-de-gre-a-gre/)
+3.  _Transparence et opérations financières : le suivi du contrôle dans les sociétés cotées._
 
 Le troisième point abordé durant les Entretiens est le suivi du contrôle dans les sociétés cotées. Par suivi du contrôle, on entend identification de l'actionnariat et vérification que ce dernier se soumet à ses principales obligations.
 

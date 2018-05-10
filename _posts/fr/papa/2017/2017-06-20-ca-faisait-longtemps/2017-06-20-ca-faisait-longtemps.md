@@ -22,7 +22,7 @@ Soudain, une des mamans se permet un commentaire non-sollicité :
 > Ah ben quand c'est Papa qui dépose les petits à l'école, tout est permis !
 
 {% include video_as_a_gif.html.liquid
-    slug="hades"
-    alt="Hadès est un peu en colère"
-    caption="Il est possible que ma voix intérieure se soit un peu emportée."
+slug="hades"
+alt="Hadès est un peu en colère"
+caption="Il est possible que ma voix intérieure se soit un peu emportée."
 %}

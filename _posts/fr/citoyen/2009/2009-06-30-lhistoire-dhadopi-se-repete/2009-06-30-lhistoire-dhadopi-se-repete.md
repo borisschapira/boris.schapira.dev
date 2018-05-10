@@ -9,9 +9,9 @@ locale: fr_FR
 
 Alors qu'Hadopi 2 fait parler de lui, il est bon de regarder du côté d'Hadopi premier du nom…
 
-**<!-- more -->
+\*\*<!-- more -->
 
-Juin 2008**&nbsp;: le Conseil d'État rend un avis négatif sur le _projet de loi relatif à la protection pénale de la propriété littéraire et artistique sur internet_, aka Hadopi.
+Juin 2008\*\*&nbsp;: le Conseil d'État rend un avis négatif sur le _projet de loi relatif à la protection pénale de la propriété littéraire et artistique sur internet_, aka Hadopi.
 
 **Juin 2009**&nbsp;: Hadopi est radicalement amputée des parties soulignées par le Conseil d'État, reconnues anticonstitutionelles.
 

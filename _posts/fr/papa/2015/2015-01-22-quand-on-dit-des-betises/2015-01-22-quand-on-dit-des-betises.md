@@ -13,4 +13,3 @@ locale: fr_FR
 > — Papa dire bêtises, papa dire momagique !  
 > — Ah oui : **pardon** chéri.  
 > — Voilà !
-

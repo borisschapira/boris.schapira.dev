@@ -1,5 +1,5 @@
 ---
-title: "De l''Idée au Projet"
+title: "De l'Idée au Projet"
 target: gens qui ont des idées
 description: "Avoir une idée, c'est facile. La mémoriser, plus dur. La verbaliser, on commence à arrive dans le concret. La manipuler pour la rendre réaliste, peu de gens peuvent le faire. Et si on en faisait un projet, un vrai ?"
 events: 
@@ -9,10 +9,7 @@ events:
 
 *Une génèse de ce Lightning Talk est disponible [sur le blog](/2014/05/sudweb-2014-lidee-au-projet-genese-dune-lightning-talk/ "Préparation d'une miniconférence").*
 
-<div class="videoWrapper">
-<iframe src="https://player.vimeo.com/video/104818641?color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/104818641">Boris Schapira - De l&#039;id&eacute;e au projet</a> from <a href="https://vimeo.com/sudweb">Sud Web</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</div>
+{% include media/vimeo.html.liquid id="104818641" title="Boris Schapira - De l&#039;id&eacute;e au projet" %}
 
 En tant que consultant et chef de projet chez [Clever Age](http://www.clever-age.com/fr/ "Clever Garden, Clever Age, Clever Presence - 100 % digital") ou professeur chez [Ingesup](http://www.ingesup.com/ "Ecole supérieure d"), je suis amené à aider régulièrement des clients, des collègues ou des étudiants à donner vie à des produits logiciels. Ces produits ne sont, à la base, que de simples idées comme vous, moi, pouvons en avoir souvent. Je suis sûr qu'ici-même, à cet instant, après d'aussi nombreuses prestations de qualité, les idées ne manquent pas. Mais souvent, nous ne savons pas trop quoi faire de ces idées, nous avons peur de les utiliser. Nous les laissons s’envoler, nous avons du mal à les formaliser ou nous n'arrivons pas à convaincre d'autres personnes de leur intérêt pour qu'ils nous suivent…
 

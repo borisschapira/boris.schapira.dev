@@ -5,7 +5,7 @@ type: post
 locale: fr_FR
 ---
 
-De la musique passe, calme. Baryton, 3 ans, est couché à côté de moi, calme, prêt à s'endormir. 
+De la musique passe, calme. Baryton, 3 ans, est couché à côté de moi, calme, prêt à s'endormir.
 
 <!-- more -->
 
@@ -15,7 +15,7 @@ Soudain, je perçois un mouvement. Doucement, il s’assoit dans le lit puis ten
 > — Rien Papa… Je sais pas… Moi, je fais rien, mais je crois que mon corps, il danse tout seul avec la musique.
 
 {% include video_as_a_gif.html.liquid
-    slug="billy"
-    alt="Billy Elliot est habité par la musique et danse sur les toits en compagnie d'un ami"
-    caption="Mon petit artiste ❤️"
+slug="billy"
+alt="Billy Elliot est habité par la musique et danse sur les toits en compagnie d'un ami"
+caption="Mon petit artiste ❤️"
 %}

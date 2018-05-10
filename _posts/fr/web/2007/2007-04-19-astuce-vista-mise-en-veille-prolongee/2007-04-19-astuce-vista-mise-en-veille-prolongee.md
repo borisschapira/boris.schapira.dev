@@ -12,7 +12,7 @@ Aujourd'hui j'ai eu besoin de place sur mon disque dur pour une installation con
 
 Les fichiers de mise en veille prolongée prennent plus de 1,2 Go. Normal, puisqu'il s'agit de sauvegarder l'intégralité de l'état actuel de l'ordinateur pour ensuite l'éteindre et récupérer cet état plus rapidement au démarrage suivant. Pour gagner de la place, je supprime.
 
-Et bien sachez une chose&nbsp;: 
+Et bien sachez une chose&nbsp;:
 
 > Le nettoyage des fichiers de mise en veille prolongée désactive automatiquement toute possibilité de mise en veille prolongée et entraine notamment la disparition de la fonction adéquate du menu d'éteinte de l'ordinateur.
 

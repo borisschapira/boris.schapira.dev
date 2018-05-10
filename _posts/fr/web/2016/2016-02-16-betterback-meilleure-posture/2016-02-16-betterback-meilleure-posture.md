@@ -11,12 +11,13 @@ Suite aux conseils de mon cousin, je me suis procuré un [<span lang="en">Better
 
 Au début, je me suis demandé comment ça se mettait mais en réalité, il suffit d'une seule utilisation pour "piger le truc" [^nda]. Plusieurs collègues me l'ont emprunté pour essayer et ont confirmé la facilité d'utilisation[^nda2].
 
-[^nda]: Il y a plein de choses comme ça dans la vie, moins compliquées qu'elles en ont l'air. Donc les enfants, sortez couverts.
+[^nda]:
+
+  Il y a plein de choses comme ça dans la vie, moins compliquées qu'elles en ont l'air. Donc les enfants, sortez couverts.
 
 [^nda2]: Bon, là, clairement, il faut arrêter la blague, ça devient sale.
 
-{:.videoWrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hh7FRU3Qjzw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include media/youtube.html.liquid id="hh7FRU3Qjzw" title="BetterBack—Perfect Posture Effortlessly" %}
 
 Je me sers du <span lang="en">BetterBack</span> comme d'un outil de rééducation : par sessions de 10 à 15 minutes toutes les 3 ou 4 heures. Je m'installe à mon poste, "enfile" les anses et me concentre sur ma tâche en cours. Les premiers temps, au bout de 5 minutes, je sentais mon dos chauffer, mais ce n'est plus le cas. Les premiers jours, j'ai également eu des courbatures à des endroits étranges. Je pensais être un peu timbré jusqu'à ce que mes collègues me confirment les mêmes symptômes.
 

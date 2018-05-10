@@ -17,9 +17,9 @@ Si je suis plutôt d'accord avec le premier argument, le second me gêne profond
 
 <!-- more -->
 
-> L'article L. 121-1 du code de l'éducation est ainsi modifié&nbsp;:  
+> L'article L. 121-1 du code de l'éducation est ainsi modifié&nbsp;:
 >
-> I. - Après la première phrase, sont insérées deux phrases ainsi rédigées&nbsp;:  
+> I. - Après la première phrase, sont insérées deux phrases ainsi rédigées&nbsp;:
 >
 > "Les **objectifs prioritaires** assignés aux écoles sont l'**apprentissage de la langue française, la maîtrise de la lecture, de l'écriture, l'utilisation des mathématiques et l'apprentissage du code informatique**. Ces savoirs doivent impérativement être acquis lors de l'entrée au collège."
 >
@@ -30,7 +30,7 @@ Bien que nos députés s'y soient mis à 35 (incroyable) pour le signer, ce text
 ## Pourquoi on pourrait _a priori_ être d'accord
 
 > Software is eating the world  
->   <cite>[Marc Andressen](http://fr.wikipedia.org/wiki/Marc_Andreessen "Marc Andreessen &quot;, Wikipedia")</cite>
+>  <cite>[Marc Andressen](http://fr.wikipedia.org/wiki/Marc_Andreessen 'Marc Andreessen ", Wikipedia')</cite>
 
 Le monde logiciel fait partie intégrante de notre vie&nbsp;: la plupart des appareils qui étaient auparavant mécaniques embarque désormais des micro-contrôleurs, qui exécutent des routines écrites par des développeurs. Tous les secteurs sont progressivement concernés par cette révolution qui altère profondément le paysage économique mondial depuis une cinquantaine d'années, avec une fulgurante accélération ces 15 dernières années, grâce au Web.
 
@@ -45,7 +45,7 @@ Bref, si on s'arrêtait là, on pourrait se dire qu'en effet, le _codage_ a sa p
 ### Coder n'est pas jouer
 
 > La science informatique est une science formelle, dont l'objet d'étude est le calcul au sens large, c'est-à-dire non pas exclusivement arithmétique, mais en rapport avec tout type d'information que l'on peut représenter de manière symbolique par une suite de nombres.  
->   [Wikipedia](http://fr.wikipedia.org/wiki/Informatique#Science_informatique "Science Informatique &quot;, Wikipedia")
+>  [Wikipedia](http://fr.wikipedia.org/wiki/Informatique#Science_informatique 'Science Informatique ", Wikipedia')
 
 L'informatique englobe un certain nombre de champs d'études qui vont bien au-delà du _code_. Car le _code_ n'est qu'une façon de dire ce qu'on veut à une machine. Là où la science informatique a une vraie valeur, c'est dans sa définition de grands concepts d'infrastructure, d'algorithmie, de stockage… qui permettent de bien définir ce qu'on veut. Apprendre le code à des élèves ne les fera pas devenir chef de chantier, ça leur donnera uniquement une pelle pour creuser. Un peu comme si, du français, on n'apprenait que les mots, mais pas la grammaire, la conjugaison, l'analyse de textes de grandes auteurs…
 
@@ -75,11 +75,12 @@ En fait, l'Education Nationale n'est pas complètement stupide (peu importe ce q
 
 Ces compétences sont, bien sûr, enseignées à travers plusieurs matières dont les Mathématiques, la Physique, la Chimie, l'Histoire (oui, l'Impression ou la Revolution Industrielle, c'est aussi de l'histoire des Sciences), la Philosophie et l'Education Civique (pour l'enseignement du concept d'information, son importance et le contrat social entre les citoyens et l'État à qui ils confient la sécurité de leur vie privée)… et la Technologie.
 
-> En sixième, le domaine d'application retenu est&nbsp;: les moyens de transports.  
->   * analyse de produits (objets techniques peu complexes) pour comprendre les besoins essentiels ou créés auxquels ils répondent, leur constitution et leur fonctionnement,  
->   * découverte et la mise en œuvre de moyens élémentaires de fabrication,  
->   * usage raisonné des technologies de l’information et de la communication.  
->   * évolution des objets à travers le temps.  
+> En sixième, le domaine d'application retenu est&nbsp;: les moyens de transports.
+>
+> * analyse de produits (objets techniques peu complexes) pour comprendre les besoins essentiels ou créés auxquels ils répondent, leur constitution et leur fonctionnement,
+> * découverte et la mise en œuvre de moyens élémentaires de fabrication,
+> * usage raisonné des technologies de l’information et de la communication.
+> * évolution des objets à travers le temps.  
 >   <cite>[Wikipedia, "Technologie dans les collèges français"](http://fr.wikipedia.org/wiki/Technologie_dans_les_coll%C3%A8ges_fran%C3%A7ais)</cite>
 
 Il serait donc peut-être pertinent qu'on offre aux professeurs de Technologie l'opportunité de mieux enseigner leur matière avant de proposer d'ajouter des choses au programme, non&nbsp;?
@@ -88,16 +89,16 @@ Il serait donc peut-être pertinent qu'on offre aux professeurs de Technologie l
 
 Mais ce n'est pas la seule opportunité qui s'offre au législateur&nbsp;: l'ouverture de l'Ecole publique à des interventions (bien encadrées) de personnes du secteur privé en est une, le temps périscolaire imposé à nos élèves de primaire en est une autre. Par exemple, durant ces moments municipaux déconnectés de l'Education Nationale, il serait très facile d'enseigner les bases de l'informatique à des enfants en jouant&nbsp;:
 
-*   Une craie et un dessin au sol suffisent à enseigner le tri par bulle.
-*   Ils sont ravis d'apprendre les bases de la stéganographie. Apprenez-leur un [chiffre de César](http://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage "Chiffre de César &quot;, Wikipedia"), vous verrez !
-*   Distribuer une balle à chacun, alignez-les en file indienne et faites passer un seau dans lequel chacun pose sa balle avant de passer à son voisin. Parfait, ils ont maîtrisé l'itération. Comment décider à quel moment donner le seau, et si la file est circulaire, à quel moment le récupérer&nbsp;? Parfait, vous venez de les sensibiliser à la condition de sortie.
-*   … etc.
+* Une craie et un dessin au sol suffisent à enseigner le tri par bulle.
+* Ils sont ravis d'apprendre les bases de la stéganographie. Apprenez-leur un [chiffre de César](http://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage 'Chiffre de César ", Wikipedia'), vous verrez !
+* Distribuer une balle à chacun, alignez-les en file indienne et faites passer un seau dans lequel chacun pose sa balle avant de passer à son voisin. Parfait, ils ont maîtrisé l'itération. Comment décider à quel moment donner le seau, et si la file est circulaire, à quel moment le récupérer&nbsp;? Parfait, vous venez de les sensibiliser à la condition de sortie.
+* … etc.
 
 Cette approche à plusieurs avantages&nbsp;:
 
-*   Elle est ludique.
-*   Elle peut démarrer très tôt dans la formation des enfants.
-*   Elle donne de véritables concepts, ne fait pas de nos enfants des presse-boutons.
+* Elle est ludique.
+* Elle peut démarrer très tôt dans la formation des enfants.
+* Elle donne de véritables concepts, ne fait pas de nos enfants des presse-boutons.
 
 Qu'attend-on&nbsp;?
 
@@ -107,6 +108,6 @@ Mais tout cela doit s'effacer derrière une réalité bien plus forte&nbsp;: l'i
 
 Pour toutes les raisons déjà évoquées, l'informatique a une influence considérable sur la vie de nos citoyens&nbsp;: pas demain, pas après-demain, **aujourd'hui**. C'est donc la génération actuelle d'actifs qu'il faudrait convaincre et éduquer en parlant davantage des problématiques liées aux données.
 
-La Presse et la télévision pourrait par exemple expliquer plus souvent [les erreurs incroyables qui parsèment les fichiers de Police et Gendarmerie](http://www.lefigaro.fr/actualite-france/2009/01/22/01016-20090122ARTFIG00687-un-taux-d-erreurs-siderant-dans-le-fichier-policier-stic-.php) ou le gain potentiel qu'on peut tirer d'une [Stratégie Numérique bien pensée](http://standblog.org/blog/post/2014/06/11/Tribune-dans-Les-Echos "Stratégie numérique&nbsp;: ne nous trompons pas de combat"). Nous pourrions même aller jusqu'à proposer des exercices de logique à la fin des journaux (il suffirait d'écrire un article sur l'automatisation de la résolution d'un Sudoku) ou, soyons encore plus fous, des programmes dédiés à l'informatique dans la **programmation télévisuelle du Service Publique**.
+La Presse et la télévision pourrait par exemple expliquer plus souvent [les erreurs incroyables qui parsèment les fichiers de Police et Gendarmerie](http://www.lefigaro.fr/actualite-france/2009/01/22/01016-20090122ARTFIG00687-un-taux-d-erreurs-siderant-dans-le-fichier-policier-stic-.php) ou le gain potentiel qu'on peut tirer d'une [Stratégie Numérique bien pensée](http://standblog.org/blog/post/2014/06/11/Tribune-dans-Les-Echos "Stratégie numérique : ne nous trompons pas de combat"). Nous pourrions même aller jusqu'à proposer des exercices de logique à la fin des journaux (il suffirait d'écrire un article sur l'automatisation de la résolution d'un Sudoku) ou, soyons encore plus fous, des programmes dédiés à l'informatique dans la **programmation télévisuelle du Service Publique**.
 
 Ça aurait plus de gueule que les _Ch'tis à Choubidous-Sur-Yvette_, non&nbsp;?

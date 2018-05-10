@@ -11,4 +11,3 @@ Des mois que j'explique à ma femme que notre petit dernier ressemble à son pè
 > — Ah tiens oui... Ah mais la vache c'est vrai ! C'est fou, j'avais jamais fait attention !  
 > — Moi, ça fait juste 18 mois que je le dis.  
 > — Oui mais je suis parfois longue à la détente...
-

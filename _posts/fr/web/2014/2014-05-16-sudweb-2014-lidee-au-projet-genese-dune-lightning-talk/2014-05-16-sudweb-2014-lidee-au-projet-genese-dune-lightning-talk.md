@@ -14,6 +14,7 @@ locale: fr_FR
 _Note&nbsp;: et voilà, c'est fini, pfiou&nbsp;! Pour les curieux, [les <span lang="en">slides</span> sont là](http://borisschapira.github.io/slides/sw2014/#/) (et vous pouvez taper sur la touche 's' pour voir la transcription)._
 
 On m'a dit un jour&nbsp;:
+
 > Les experts ne sont pas toujours des experts avant de prendre la parole&nbsp;: c'est leur prise de parole qui fait que nous les considérons comme des experts.
 
 Je ne sais pas pourquoi. Peut-être parce que nous savons, au fond de nous, que la prise de parole nécessite un travail important en amont, sans forcément arriver à l'évaluer…
@@ -36,18 +37,18 @@ En proposant ce concept à Sud Web, je voulais présenter tout cela. En 5 minut
 
 Une fois qu'on a l'idée, encore faut-il démarrer l'écriture. Ma principale difficulté, dans ce genre d'exercice, est de toujours me focaliser sur l'introduction. Mais en cinq minutes, c'est ridicule. En 5 minutes, l'introduction dure 30 secondes. Il faut donc être clair et précis dans la présentation d'une trame. Dans les quelques minutes que je vais avoir à ma disposition, il faut que j'arrive à faire passer trois idées&nbsp;:
 
-*   Les idées sont volatiles, les capturer est difficile
-*   Formaliser son idée en utilisant un modèle (exemple&nbsp;: Lean Canvas)
-*   Transmettre son idée pour l'expérimenter&nbsp;: à qui, comment&nbsp;?
+* Les idées sont volatiles, les capturer est difficile
+* Formaliser son idée en utilisant un modèle (exemple&nbsp;: Lean Canvas)
+* Transmettre son idée pour l'expérimenter&nbsp;: à qui, comment&nbsp;?
 
 ### J-23&nbsp;: La répétition
 
 Dans un exercice oral comme celui-là, le rythme et la répétition sont importants, ainsi que l'utilisation de repères simples à se remémorer. Il est ainsi possible de reformuler légèrement les trois points principaux de manière à pouvoir en parler sous une forme qui sonne juste. J'ai opté pour des verbes, symboles d'action, et je les ai pris commençant tous trois par un "C"… parce que c'est marrant&nbsp;:
 
-*   Capturer,
-*   Conceptualiser,
-*   Confronter.
-Ça me semble pas mal, même si je ne suis pas pleinement satisfait du "conceptualiser". Mais ça servira son objectif&nbsp;: imposer un rythme.
+* Capturer,
+* Conceptualiser,
+* Confronter.
+  Ça me semble pas mal, même si je ne suis pas pleinement satisfait du "conceptualiser". Mais ça servira son objectif&nbsp;: imposer un rythme.
 
 ### J-20&nbsp;: La rédaction
 
@@ -55,11 +56,11 @@ Un <span lang="en">Lightning Talk</span> est trop court pour ne pas être rédig
 
 Le plan à "trois C" me convient bien, mais avant de rédiger, il faut que je développe un peu les idées-clés, et que j'attribue à chaque partie une longueur, pour être sûr de ne pas avoir un contenu déséquilibré&nbsp;:
 
-*   Introduction (~120 mots)&nbsp;: les idées dans ma vie de consultant, pourquoi elles n'arrivent que rarement jusqu'au statut de PMV
-*   Capturer (~180 mots)&nbsp;: parler de la volatilité, de l'agacement et/ou de l'impatience de l'auteur. Inciter à s'équiper d'un crayon et d'un carnet pour griffonner, présenter des outils méthodo comme le Mind Mapping ou l'Affinity Diagram.
-*   Conceptualiser (~180 mots)&nbsp;: introduire le Lean Canvas comme un modèle, parmi d'autres, de formalisation. Insister sur les forces du modèle&nbsp;: notamment celle de mettre en exergue les zones d'inconfort dans notre concept.
-*   Confronter (~180 mots)&nbsp;: importance de l'interlocuteur, outils de formalisation pouvant être complétés par des outils méthodologies dédiés à l'échanges qui souvent complètent le projet
-*   Conclusion (~120 mots)&nbsp;: ne laissez pas vos idées s'envoler sans leur avoir donné leur chance. Exemple&nbsp;: Sud Web, une bien bonne idée.
+* Introduction (~120 mots)&nbsp;: les idées dans ma vie de consultant, pourquoi elles n'arrivent que rarement jusqu'au statut de PMV
+* Capturer (~180 mots)&nbsp;: parler de la volatilité, de l'agacement et/ou de l'impatience de l'auteur. Inciter à s'équiper d'un crayon et d'un carnet pour griffonner, présenter des outils méthodo comme le Mind Mapping ou l'Affinity Diagram.
+* Conceptualiser (~180 mots)&nbsp;: introduire le Lean Canvas comme un modèle, parmi d'autres, de formalisation. Insister sur les forces du modèle&nbsp;: notamment celle de mettre en exergue les zones d'inconfort dans notre concept.
+* Confronter (~180 mots)&nbsp;: importance de l'interlocuteur, outils de formalisation pouvant être complétés par des outils méthodologies dédiés à l'échanges qui souvent complètent le projet
+* Conclusion (~120 mots)&nbsp;: ne laissez pas vos idées s'envoler sans leur avoir donné leur chance. Exemple&nbsp;: Sud Web, une bien bonne idée.
 
 ### J-17&nbsp;: Premier jet rédactionnel
 
@@ -93,6 +94,6 @@ Je m'aperçois également que j'ai lu mes notes pendant l'appel, ce qui est un a
 
 ### J-1&nbsp;: La pression monte
 
-Je suis environ à 1200 mots, ce qui est très loin de mon premier jet initial inférieur à 800 mots, mais je maîtrise assez bien l’enchaînement qui contient davantage de répétitions et de tic de langages qui facilitent sa mémorisation. Par contre, là où ça peut coincer, c'est que je me minute régulièrement à 7-8 minutes (*note post-présentation&nbsp;: cela sera en effet mon chrono*).
+Je suis environ à 1200 mots, ce qui est très loin de mon premier jet initial inférieur à 800 mots, mais je maîtrise assez bien l’enchaînement qui contient davantage de répétitions et de tic de langages qui facilitent sa mémorisation. Par contre, là où ça peut coincer, c'est que je me minute régulièrement à 7-8 minutes (_note post-présentation&nbsp;: cela sera en effet mon chrono_).
 
 Plus ça va, plus je me rends compte qu'un <span lang="en">Lightning Talk</span> est, par bien des aspects, plus compliqué à produire qu'une présentation de 30 minutes où on peut laisse davantage de place à l'improvisation. Advienne que pourra, plus moyen de faire demi-tour et évidemment hors de question de retoucher aux <span lang="en">slides</span> au denier moment. J'aviserai sur place, en fonction de notre conformité au planning. S'il le faut, j'irai plus vite sur certaines parties… si je peux.

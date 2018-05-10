@@ -13,15 +13,15 @@ J'en parle assez régulièrement et un peu partout depuis la création de l'offr
 
 En plus, on ne peut pas dire que les instigateurs du projet ne soient pas vraiment à leur place&nbsp;: formés par des institutions reconnues, &acirc;gés de moins de 30 ans et passionnés par leur projet, ils ont souhaité se rassembler pour mettre leurs compétences respectives à la disposition des en3nautes.
 
-*   Michaà«l&nbsp;: Instigateur du projet, responsable du développement et de la coordination
-(Double maîtrise en Banque, Finance &amp; Assurances et Sciences de Gestion à l'Université Paris Dauphine.DESS d'Affaires Internationales)
-*   Cédric&nbsp;: Responsable de la communication, du développement et responsable de la rubrique sciences
-(Master en physique théorique à l'Imperial College de Londres, licence de philosophie à l'ICP)
-*   Yaà«l&nbsp;: Responsable de la rédaction
-(DEA de littérature comparée, Master 2 de pensée politique. Diplômée de Sciences-Pô, elle y fait sa thèse et enseigne la philosophie politique)
-*   David&nbsp;: Responsable de l'actualité juridique
-( Professeur Agrégé des facultés de droit)
-*   Jonathan&nbsp;: Responsable technique, du développement et de la rubrique High-Tech
-(ào/ootudiant en dernière année à l'école Polytechnique de Lausanne)
+* Michaà«l&nbsp;: Instigateur du projet, responsable du développement et de la coordination
+  (Double maîtrise en Banque, Finance &amp; Assurances et Sciences de Gestion à l'Université Paris Dauphine.DESS d'Affaires Internationales)
+* Cédric&nbsp;: Responsable de la communication, du développement et responsable de la rubrique sciences
+  (Master en physique théorique à l'Imperial College de Londres, licence de philosophie à l'ICP)
+* Yaà«l&nbsp;: Responsable de la rédaction
+  (DEA de littérature comparée, Master 2 de pensée politique. Diplômée de Sciences-Pô, elle y fait sa thèse et enseigne la philosophie politique)
+* David&nbsp;: Responsable de l'actualité juridique
+  ( Professeur Agrégé des facultés de droit)
+* Jonathan&nbsp;: Responsable technique, du développement et de la rubrique High-Tech
+  (ào/ootudiant en dernière année à l'école Polytechnique de Lausanne)
 
 A vous de juger. En ce qui me concerne, je suis accro.

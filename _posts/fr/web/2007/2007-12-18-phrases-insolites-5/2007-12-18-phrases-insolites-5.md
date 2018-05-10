@@ -10,21 +10,24 @@ locale: fr_FR
 
 _C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!_
 
-**<!-- more -->
+\*\*<!-- more -->
 
 Finance ou jeux vidéos
-**" - … et ça s’appelle les Hedge Funds.
-- Comme les hérissons&nbsp;?
-- Quoi&nbsp;? 
-- Mais, rappelle-toi la Game Gear&nbsp;: Sonic the Hedge Hog&nbsp;!"
+\*\*" - … et ça s’appelle les Hedge Funds.
+
+* Comme les hérissons&nbsp;?
+* Quoi&nbsp;?
+* Mais, rappelle-toi la Game Gear&nbsp;: Sonic the Hedge Hog&nbsp;!"
 
 **Poutinerie
 **" - Tu connais les RSS&nbsp;?
-- Ça va merci, j’ai été en cours d’Histoire comme tout le monde."
+
+* Ça va merci, j’ai été en cours d’Histoire comme tout le monde."
 
 **On ne dit pas…
 " **- Tu sais qu’untel s’est marié&nbsp;?
-- Ah bon, avec quoi&nbsp;?"
+
+* Ah bon, avec quoi&nbsp;?"
 
 **On ne dit pas… le retour**
 " - Ça tu vois, c’est vous qui peut savoir, pas moi."

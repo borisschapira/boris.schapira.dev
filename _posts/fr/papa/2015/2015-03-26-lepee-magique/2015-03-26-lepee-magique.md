@@ -13,4 +13,3 @@ Sur le chemin de l'école, nous voyons une affiche qui fait la promo du [dernier
 > — Non, une fée !  
 > — Ah, tu es une fée avec une épée magique ? Elle n'ont pas des baguettes magiques, plutôt ?  
 > — Mais non papa, fini le petit-déjeuner des fées, pas besoin de baguette pour faire les tartines ! Des épées, des épées pour combattre les monstres !
-

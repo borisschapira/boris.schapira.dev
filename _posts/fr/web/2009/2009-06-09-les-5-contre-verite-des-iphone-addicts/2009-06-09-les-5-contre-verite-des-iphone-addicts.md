@@ -11,11 +11,11 @@ locale: fr_FR
 
 Tout le foin autour de la sortie du firmware 3.0 et de l'iPhone 3Gs m'exaspère, mais je dois reconnaître que les commerciaux d'Apple savent jouer avec l'alchimie des multitudes. Pour preuve, les meilleurs vendeurs d'iPhone sont les propriétaires d'iPhone. Il faut les voir essayer de vous convaincre que&nbsp;:
 
-*   l'iPhone correspond parfaitement à vos besoins puisqu'il peut tout faire ;
-*   l'iPhone est beaucoup moins cher que les autres smartphones ;
-*   l'iPhone est le seul smartphone facile à prendre en main ;
-*   l'iPhone a une longueur d'avance sur toute la concurrence ;
-*   ceux qui n'aiment pas l'iPhone ne l'ont soit pas testé, soit sont aigris de ne pas l'avoir.
+* l'iPhone correspond parfaitement à vos besoins puisqu'il peut tout faire ;
+* l'iPhone est beaucoup moins cher que les autres smartphones ;
+* l'iPhone est le seul smartphone facile à prendre en main ;
+* l'iPhone a une longueur d'avance sur toute la concurrence ;
+* ceux qui n'aiment pas l'iPhone ne l'ont soit pas testé, soit sont aigris de ne pas l'avoir.
 
 Malheureusement, je me vois dans l'obligation de rétablir une certaine vérité&nbsp;:
 

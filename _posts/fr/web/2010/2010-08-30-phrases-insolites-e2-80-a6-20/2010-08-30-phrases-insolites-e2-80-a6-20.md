@@ -15,7 +15,7 @@ _C’est fou ce qu’on peut entendre quand on tend l’oreille…_
 
 > — C'est quand même triste ces filles qui ne veulent pas présenter leurs copines ou sœur à leur mec, parce qu'elles sont plus jolies.  
 > — T'imagines, la réalité augmentée de demain&nbsp;: tu dragues une fille et apparait en sur-impression la pile de toutes les photos des autres filles célibataires de son cercle social. Comme ça, t'es sûr de pas choper la plus moche&nbsp;!  
-> — T'imagines, pendant que tu la dragues *imite le mouvement de parcours d'album sur l'iPhone*&nbsp;!
+> — T'imagines, pendant que tu la dragues _imite le mouvement de parcours d'album sur l'iPhone_&nbsp;!
 
 ## Tous les goûts…
 

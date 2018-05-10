@@ -10,7 +10,7 @@ Quand on s'occupe seul·e de ses enfants, arrive toujours ce moment fatidique. C
 <!-- more -->
 
 > — Les enfants je vous laisse deux secondes, je vais faire pipi… pas de bêtises dans la salle de bain !  
-> — Non papa !  
+> — Non papa !
 
 À peine le temps d'arriver aux toilettes (la pièce adjacente, pourtant)… j'entends le petit qui m'appelle.
 
@@ -29,7 +29,7 @@ Le petit me regarde avec son air de Chat Potté.
 > Mais t’as dit que c’était sale de faire pipi dans le bain !
 
 {% include video_as_a_gif.html.liquid
-    slug="pee"
-    alt="Pingu, le personnage de série pour enfant, en train d'uriner à côté de la cuvette"
-    caption="Pourquoi aller jusqu'aux toilettes, n'est-ce pas ?"
+slug="pee"
+alt="Pingu, le personnage de série pour enfant, en train d'uriner à côté de la cuvette"
+caption="Pourquoi aller jusqu'aux toilettes, n'est-ce pas ?"
 %}

@@ -8,6 +8,7 @@ date: '2014-06-20'
 type: post
 locale: fr_FR
 ---
+
 Ce détournement de la fameuse citation d'Alphonse de Lamartine est bien sûr dédié à la chute, hier dans la matinée, de Facebook.
 
 Il aura suffit d'une trentaine de minutes d'absence pour mettre le Web en émoi et surtout, faire de grands dégâts un peu partout. Car énormément de sites sont dépendants de Facebook, qu'ils le sachent ou non, et une indisponibilité du géant peut avoir des effets désastreux.
@@ -24,7 +25,9 @@ Si vous n'avez aucun outil de surveillance sur votre site, vous pouvez être pas
 * [L'extension Chrome SPoF-o-matic](https://chrome.google.com/webstore/detail/spof-o-matic/plikhggfbplemddobondkeogomgoodeg), par exemple, vous permettra de détecter les domaines problématiques ;
 * [L'onglet SPOF de WebPageTest.org](http://www.webpagetest.org/) vous permettra de réaliser un test de performance en plaçant le domaine de votre choix en indisponibilité[^1].
 
-[^1]: En réalité, il interpose un proxy renvoyant les appels vers un <a href="https://blackhole.webpagetest.org">site "trou noir"</a> recréant ces conditions
+[^1]:
+
+  En réalité, il interpose un proxy renvoyant les appels vers un <a href="https://blackhole.webpagetest.org">site "trou noir"</a> recréant ces conditions
 
 Evidemment, cette liste n'est pas exhaustive et Facebook est loin d'être le seul service tiers concerné (vous pouvez aussi avoir le problème avec des ressources distantes, comme des polices, par exemple).
 

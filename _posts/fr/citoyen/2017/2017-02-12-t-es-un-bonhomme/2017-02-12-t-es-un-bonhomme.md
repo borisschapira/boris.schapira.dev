@@ -9,5 +9,4 @@ Un court-métrage présenté au [Mobile Film Festival](http://www.mobilefilmfest
 
 <!-- more -->
 
-{:.videoWrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gz_AKsxj6-M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include media/youtube.html.liquid id="Gz_AKsxj6-M" title="T'es un bonhomme ! - Court Métrage - Mobile Film Festival 2017" %}

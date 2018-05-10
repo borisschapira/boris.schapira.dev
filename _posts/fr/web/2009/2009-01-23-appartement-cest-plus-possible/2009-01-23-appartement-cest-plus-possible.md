@@ -26,6 +26,7 @@ Quand **le concierge, "expert technique"** envoyé par le propriétaire, m'a pro
 Oui, ça peut être pire. Depuis hier soir, j'ai une **fuite de canalisation**. De l'eau coule chez le voisin d'en dessous. J'ai contacté l'agence à midi, qui m'a fait rappelé par un plombier à midi. Il m'a proposé d'intervenir lundi matin…
 
 J'ai rappelé l'agence. En substance, ça a donné ça&nbsp;:
+
 > <span style="color: #000080">- On vous a envoyé **quelqu'un prêt à intervenir immédiatement**.  
 > — Oui mais j'étais au travail, je n'étais pas chez moi.  
 > — Il était disponible tout l'après-midi.  
@@ -41,8 +42,7 @@ J'ai rappelé l'agence. En substance, ça a donné ça&nbsp;:
 > — Non monsieur, nous ne pouvons pas vous obliger à être présent. Mais dans ce cas-là **vous vous débrouillez avec le voisin. Ce n'est pas le problème du propriétaire.**  
 > — Vous savez que je ne suis pas plombier. J'ai vu une fuite mais il y en a peut-être une autre. Si ça se trouve, ça continue à couler chez le voisin, je n'en sais rien moi…  
 > — Et bien tant pis, on ne peut rien faire de plus. **Vous n'avez qu'à mettre une petite serpillière, ça fera l'affaire.  
-> **</span>
-<span style="color: #800000">**Donc en résumé, l'agence me demande de vivre sans eau, dans un appartement rempli de moisissure, et en mettant une serpillère pour compenser les fuites d'eau. Quand le voisin du dessous aura collé un procès au proprio, on verra la tête qu'ils feront.**</span>
+> **</span> > <span style="color: #800000">**Donc en résumé, l'agence me demande de vivre sans eau, dans un appartement rempli de moisissure, et en mettant une serpillère pour compenser les fuites d'eau. Quand le voisin du dessous aura collé un procès au proprio, on verra la tête qu'ils feront.**</span>
 
 **<span style="color: #800000">En attendant, moi, je cherche un autre appart.</span>
 **

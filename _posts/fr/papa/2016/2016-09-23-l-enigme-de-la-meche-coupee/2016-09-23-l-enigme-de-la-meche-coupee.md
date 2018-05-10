@@ -9,14 +9,14 @@ Ou comment se retrouver en plein Agatha Christie avec deux garçons.
 
 <!-- more -->
 
-Tout commence un soir. Ma femme range un truc en bas, les enfants étant monté se mettre en pyjama. Soudain, des pleurs. Elle monte quatre à quatre. Des petits cheveux partout sur le sol de la salle de bain, une mèche entre les doigts de l'aîné : il pleure parce que le petit lui aurait coupé les cheveux. Elle questionne le petit, qui confirme, puis pointe ce qu'il a utilisé : un coupe-ongle, une pince à épilée et enfin le ciseau à ongles. 
+Tout commence un soir. Ma femme range un truc en bas, les enfants étant monté se mettre en pyjama. Soudain, des pleurs. Elle monte quatre à quatre. Des petits cheveux partout sur le sol de la salle de bain, une mèche entre les doigts de l'aîné : il pleure parce que le petit lui aurait coupé les cheveux. Elle questionne le petit, qui confirme, puis pointe ce qu'il a utilisé : un coupe-ongle, une pince à épilée et enfin le ciseau à ongles.
 
-Plusieurs problèmes : 
+Plusieurs problèmes :
 
-- le petit ne sait pas tenir un ciseau (j'ai vérifié en lui demandant comment faire : il le prend à deux mains) ;
-- cela n'explique pas comment son frère pouvait tenir une mèche non-dispersée dans sa main ;
-- dans le meilleur des cas, le petit n'aurait pas pu couper les cheveux du grand sans sa complicité ;
-- si c'était le cas, le grand n'aurait pas pleuré en accusant le petit…
+* le petit ne sait pas tenir un ciseau (j'ai vérifié en lui demandant comment faire : il le prend à deux mains) ;
+* cela n'explique pas comment son frère pouvait tenir une mèche non-dispersée dans sa main ;
+* dans le meilleur des cas, le petit n'aurait pas pu couper les cheveux du grand sans sa complicité ;
+* si c'était le cas, le grand n'aurait pas pleuré en accusant le petit…
 
 Qui a menti ?
 

@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-03-08'
 locale: en_US
-
 ---
 
 My wife's putting the youngest to bed. She gives him one last hug before going to bed herself.

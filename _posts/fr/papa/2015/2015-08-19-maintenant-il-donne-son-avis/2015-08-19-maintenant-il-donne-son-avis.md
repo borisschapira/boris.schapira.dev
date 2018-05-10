@@ -13,4 +13,3 @@ Et après, en tête à tête, il m'explique, outré...
 > — Maman a dire m'appeler Silence à moi. Pas une bonne idée ça Papa. Le nom à moi c'est [Xxxx] Spiderman Batman Schapira. Le sait maman, le sait très bien, Papa ! Maman pas changer mon nom !  
 > — Non chéri, je pense qu'elle voulait juste te dire que tu parlais beaucoup, beaucoup trop.  
 > — Ahhh. A comprends, moi. Je parle pas beaucoup, Papa, je parle juste un tout petit peu tout le temps.
-

@@ -29,17 +29,17 @@ Total Hotline&nbsp;: 16 minutes._
 Total Hotline&nbsp;: 17 minutes._
 
 **Appel au 1044.** Attente&nbsp;: 4:32\. "Nous enregistrons trop d'appels, veuillez rappeler ultérieurement". _
-__Total __Hotline&nbsp;: 22 minutes._
+**Total **Hotline&nbsp;: 22 minutes._
 
 J'attends 5 minutes.
 
 **Appel au 1044.** Attente&nbsp;: 5:00\. On me dit désormais d'appeler le 3161\. J'explique, un peu fermement, que j'ai déjà bien appelé, que je suis fatigué de me faire balader et que je voudrais bien un véritable conseil. "Ah bon alors dans ce cas-là, appelez le 3244, attendez la fin du serveur vocal, puis tapez #, 2 et 2".
-_Total __Hotline&nbsp;: 30 minutes._
+_Total \_\_Hotline&nbsp;: 30 minutes._
 
 **Appel au 3244.** "Le numéro du service Client Free a changé…" J'attends malgré tout. Je tape #, puis 2 et 2\. J'obtiens un conseiller à qui j'explique mon problème et qui me dit d'appeler au 08 11 92 30 92, pour l'antenne technique locale. Merci, au revoir. _
-__Total __Hotline&nbsp;: 35 minutes._
+**Total **Hotline&nbsp;: 35 minutes._
 
 **08 11 92 30 92.** Attente&nbsp;: 2:00 (quelle rapiditié&nbsp;!). Je parle à une femme qui "mobilise des ressources" (comprendre que j'attends) et me donne finalement me donne une réponse au bout de 27 minutes (!)&nbsp;: "Oui monsieur, il y a un souci sur votre ligne. Nous sommes en relation avec France Télécom pour le résoudre". Je leur demande pourquoi l'interface me demandait d'appeler si c'était pour entendre ça… "Non monsieur, cela n'était pas utile, nous nous occupons de tout ici". Je lui demande si elle se fiche de moi, si j'ai passé 7 coups de fils pour ça. "Monsieur, mes données me disent que vous avez passé 2 coups de téléphone au Service Client Free, pourquoi me parlez-vous de 7 coups de téléphone&nbsp;?". Je lui dit au revoir et je raccroche, énervé comme pas possible. _
-__Total __Hotline&nbsp;: 1h09._
+**Total **Hotline&nbsp;: 1h09._
 
 Cette histoire me semblait bien mal partie. La suite me donna raison…

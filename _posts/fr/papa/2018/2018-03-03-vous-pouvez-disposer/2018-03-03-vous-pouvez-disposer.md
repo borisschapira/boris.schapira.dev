@@ -34,11 +34,10 @@ Voyant que je ne bouge pas, il attend quelques secondes et puis :
 > – Ok, ok, j'ai compris, je te laisse.  
 > – Oui, voilà. Mais tu peux me ramener un petit verre d'eau et après, tu peux fermer la porte, au passage.
 
-
 {% capture alt_text%}Alfred Pennyworth répond à Bruce Wayne{% endcapture %}
 {% capture caption_text %}&laquo;&nbsp;Bien sûr, Maître Bruce.&nbsp;&raquo;{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="alfred"
-    alt=alt_text
-    caption=caption_text
+slug="alfred"
+alt=alt_text
+caption=caption_text
 %}

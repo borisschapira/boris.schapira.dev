@@ -13,7 +13,7 @@ J'ai tenté d'expliquer dans un précédent article les raisons de la crise des
 
 Pour ceux qui auraient peur de la longeur de l'article&nbsp;: pas de panique, ça se lit vite.
 
-* * *
+---
 
 C'est d'abord l'histoire de Mickael. Mickael est marié. Il a trois enfants, peu de revenus, et sa voiture vient de le lâcher. Il souscrit un prêt auprès d'une banque qui lui explique que dans sa situation précaire, seul un prêt à taux élevé est possible. Mickael acquiesce&nbsp;: il devra rembourser les intérêts dans les deux ans puis le solde la troisième année… mais il ne sait pas trop s'il y arrivera…
 

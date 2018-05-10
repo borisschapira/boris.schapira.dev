@@ -11,9 +11,9 @@ locale: fr_FR
 
 Les artistes ne sont pas les seul·e·s à redouter les pages blanches, les internautes aussi. Leur frustration peut les pousser à abandonner votre site plus tôt qu’ils ou elles ne l’auraient voulu. Pour éviter ça, plusieurs techniques d’optimisation du rendu existent. Comme différer l’analyse et l’exécution des fichiers JavaScript.
 
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-12-18/0_chess.jpg"
-    alt="Un jeu d'échec avant le début d'un partie. Zoom sur les noirs."
+{% include rwd-image.html.liquid
+path="/assets/images/2017-12-18/0_chess.jpg"
+alt="Un jeu d'échec avant le début d'un partie. Zoom sur les noirs."
 %}
 
 <!-- more -->
@@ -29,10 +29,10 @@ Dans cet article, nous allons nous intéresser à ce qui peut être fait en Java
 
 {% capture img_alt %}Capture de l'onglet Performance des Chrome DevTools. Une chronologie du chargement affiche les différentes étapes en couleurs. Une grande zone jaune est entourée de bleu. La première image n'apparait qu'à la fin.{% endcapture %}
 {% capture img_caption %}Même si la construction du DOM (en bleu) se produit majoritairement avant l'exécution du JavaScript (en jaune), elle ne se termine qu'après. Dans cette configuration "par défaut" du chargement d'un script, le DOM est fini d'être construit très tardivement. L'affichage est retardé.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-12-18/1_block.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2017-12-18/1_block.png"
+alt=img_alt
+caption=img_caption
 %}
 
 ## Distinguer JS critique ou non-critique
@@ -41,7 +41,7 @@ Pour accélérer le rendu, vous devez décaler au maximum le parcours et l’év
 
 En effet, il y a fort à parier que vos fichiers JavaScript contiennent des portions de code de différents types. Parmi elles, certaines doivent être chargées le plus tôt possible. C’est le cas des portions de JS orientées métier (les analytiques, par exemple), des librairies ayant un impact visuel important ou des scripts tiers que vous ne pouvez pas différer.
 
-L’ensemble de ces éléments constitue votre "JavaScript critique". Groupez ce code dans un fichier identifiable simplement, nommé communément "critical.js". Comme pour tout fichier JavaScript, le navigateur devra le récupérer, le parcourir et l’analyser avant d’être en mesure de l’exécuter. 
+L’ensemble de ces éléments constitue votre "JavaScript critique". Groupez ce code dans un fichier identifiable simplement, nommé communément "critical.js". Comme pour tout fichier JavaScript, le navigateur devra le récupérer, le parcourir et l’analyser avant d’être en mesure de l’exécuter.
 
 Même si vous appliquez toutes les optimisations connues (nettoyage du code inutile, minification, compression, mise en cache côté client et côté serveur), le navigateur aura toujours besoin de parcourir et d’évaluer le code JavaScript. Comme [cette étape prend un temps considérable](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e), vous devez vraiment garder votre script critical.js aussi réduit que possible.
 
@@ -57,10 +57,10 @@ Bien que cette technique semble convenir à la majorité des cas, elle présente
 
 {% capture img_alt %}Capture de l'onglet Performance des Chrome DevTools. Une chronologie du chargement affiche les différentes étapes en couleurs. L'intégralité du bleu est avant le jaune. Une première image apparait très tôt dans le chargement.{% endcapture %}
 {% capture img_caption %}En repoussant les scripts en fin de page, la complétion de la zone d'affichage est bien plus rapide mais n'est pas définitive (une partie du contenu est altéré par l'exécution du JavaScript){% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-12-18/2_end.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2017-12-18/2_end.png"
+alt=img_alt
+caption=img_caption
 %}
 
 ## Et si on injectait une balise `<script>` dynamiquement ?
@@ -113,34 +113,34 @@ Mais attention : un script, même avec un attribut async, est toujours considér
 
 {% capture img_alt %}Capture de l'onglet Performance des Chrome DevTools. Une chronologie du chargement affiche les différentes étapes en couleurs. L'intégralité du bleu est avant le jaune. Une première image apparait très tôt dans le chargement.{% endcapture %}
 {% capture img_caption %}Bien maitrisé, le tag dynamique est une des techniques les plus efficaces avec un DOM construit rapidement et un affichage quasiment immédiat. Attention cependant à l'absence d'ordre d'exécution des scripts !{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-12-18/3_dynamic.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2017-12-18/3_dynamic.png"
+alt=img_alt
+caption=img_caption
 %}
 
 ## `async`, `defer`, ou les deux
 
-`async` et `defer` sont deux attributs standardisés par HTML5. Ils permettent de modifier le comportement par défaut du navigateur lors du chargement d'un script. 
+`async` et `defer` sont deux attributs standardisés par HTML5. Ils permettent de modifier le comportement par défaut du navigateur lors du chargement d'un script.
 
 Si l'attribut `async` est présent, alors le script est récupéré aussitôt que possible, puis exécuté. L'ordre de déclaration des scripts `async` n'est pas préservé: les scripts sont exécutés dès qu'ils sont disponibles. Notez cependant que même si la récupération du script n'arrête pas la construction du DOM, son exécution l'interrompt.
 
 {% capture img_alt %}Capture de l'onglet Performance des Chrome DevTools. Une chronologie du chargement affiche les différentes étapes en couleurs. L'intégralité du bleu est avant le jaune. Une première image apparait très tôt dans le chargement.{% endcapture %}
 {% capture img_caption %}Ici, à nouveau, un chargement très progressif. En revanche, comme pour le script dynamique, on perd l'ordre d'exécution des JS.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-12-18/4_async.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2017-12-18/4_async.png"
+alt=img_alt
+caption=img_caption
 %}
 
-Si l'attribut `defer` est présent, le script sera récupéré aussitôt que possible, mais le navigateur attendra que l'arborescence DOM soit terminée avant de l'exécuter. Comme la plupart des navigateurs implémentent maintenant un *preloader*, le comportement d'un script ayant uniquement l'attribut `defer` est très similaire à celui d'un script placé à la fin du contenu HTML.
+Si l'attribut `defer` est présent, le script sera récupéré aussitôt que possible, mais le navigateur attendra que l'arborescence DOM soit terminée avant de l'exécuter. Comme la plupart des navigateurs implémentent maintenant un _preloader_, le comportement d'un script ayant uniquement l'attribut `defer` est très similaire à celui d'un script placé à la fin du contenu HTML.
 
 {% capture img_alt %}Capture de l'onglet Performance des Chrome DevTools. Une chronologie du chargement affiche les différentes étapes en couleurs, les unes sous les autres. On voit l'étape bleu et l'étape jaune se dérouler en simultané.{% endcapture %}
 {% capture img_caption %}Cette autre mode de visualisation permet de bien comprendre la simultanéité de l'évaluation du DOM (en bleu) et du script (en jaune). Même si l'exécution du script est plus tardive, c'est toujours ce temps-là de gagné.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-12-18/6_defer_details.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2017-12-18/6_defer_details.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Quant à utiliser `async` et `defer` ensemble, ce n'est pas très utile, sauf pour un cas d'utilisation, la rétro-compatibilité :

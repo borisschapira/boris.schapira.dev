@@ -17,11 +17,11 @@ Nous n'avions jamais travaillé sur ces solutions donc nous avons décidé de mo
 
 ## Tomber et se relever
 
-Plusieurs mois plus tard, force est de constater que nous avions tous été trop ambitieux. 
+Plusieurs mois plus tard, force est de constater que nous avions tous été trop ambitieux.
 
-Le recrutement de personnes expérimentés ne s'étant pas passé comme prévu, nous avions perdu trois semaines sur le planning de développement. Le client n'avait pas encore souscrit de terminal de paiement, donc nous ne l'avions évidemment pas intégré. L'éditeur de la solution, enfin, ne corrigeait les bugs remontés que dans les nouvelles versions majeures, nous obligeant à migrer plusieurs fois ce qui n'était pas évident dans la mesure où d'autres projets étaient installés sur les mêmes serveurs et ces migrations entrainaient des incompatibilités. 
+Le recrutement de personnes expérimentés ne s'étant pas passé comme prévu, nous avions perdu trois semaines sur le planning de développement. Le client n'avait pas encore souscrit de terminal de paiement, donc nous ne l'avions évidemment pas intégré. L'éditeur de la solution, enfin, ne corrigeait les bugs remontés que dans les nouvelles versions majeures, nous obligeant à migrer plusieurs fois ce qui n'était pas évident dans la mesure où d'autres projets étaient installés sur les mêmes serveurs et ces migrations entrainaient des incompatibilités.
 
-Bref, nous avons dépassé la date de livraison initialement prévue. 
+Bref, nous avons dépassé la date de livraison initialement prévue.
 
 Réunion de crise, toutes les parties actent l'échec et s'accordent pour se donner un mois, manches relevées, pour corriger le tir. L'éditeur redescend ses correctifs sur notre version, le client accélère la commande du <abbr title="Terminal de Paiement Électronique">TPE</abbr>, nous embauchons un sous-traitant supplémentaire sans discuter le tarif. Un mois plus tard, au lendemain de la souscription du <abbr title="Terminal de Paiement Électronique">TPE</abbr>, le site est en ligne.
 
@@ -40,9 +40,9 @@ Sur la feuille sont reprises toutes les principales dates du projet. En face de 
 > xx/xx/XXXX : élement non livré, échéance non respectée
 > xx/xx/XXXX : élément non livré, échéance non respectée
 
-Je suis abassourdi. 
+Je suis abassourdi.
 
-D'une part, la plupart des éléments listés n'étaient pas de notre responsabilité. D'autre part, nos retards allaient de pair avec d'autres, en dehors de notre champs d'action. Même si nous avions livré notre code plus tôt, le client n'aurait toujours pas souscrit son <abbr title="Terminal de Paiement Électronique">TPE</abbr> et nous n'aurions pas mis en Production. Mon commercial, rouge de colère, se tient à deux mains au dos de sa chaise, crispé, dents serrées. La situation est inédite et incroyable. 
+D'une part, la plupart des éléments listés n'étaient pas de notre responsabilité. D'autre part, nos retards allaient de pair avec d'autres, en dehors de notre champs d'action. Même si nous avions livré notre code plus tôt, le client n'aurait toujours pas souscrit son <abbr title="Terminal de Paiement Électronique">TPE</abbr> et nous n'aurions pas mis en Production. Mon commercial, rouge de colère, se tient à deux mains au dos de sa chaise, crispé, dents serrées. La situation est inédite et incroyable.
 
 Un autre homme embraie :
 

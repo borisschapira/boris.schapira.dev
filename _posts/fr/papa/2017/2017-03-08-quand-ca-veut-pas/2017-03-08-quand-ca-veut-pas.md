@@ -9,7 +9,7 @@ Panique à bord, le réveil n'a pas sonné et nous avons plus d'une heure de ret
 
 <!-- more -->
 
-C'est évidemment le moment choisi par mon aîné pour aller [parachuter un gothique](https://www.youtube.com/watch?v=bJlDB_DCIb0 "Publicité Hépar : &quot;Les expressions&quot;") et se rater au niveau de l'essuyage, ce qui m'oblige à le doucher entièrement. 
+C'est évidemment le moment choisi par mon aîné pour aller [parachuter un gothique](https://www.youtube.com/watch?v=bJlDB_DCIb0 'Publicité Hépar : "Les expressions"') et se rater au niveau de l'essuyage, ce qui m'oblige à le doucher entièrement.
 
 Pendant ce temps, le petit râle parce qu'il n'aime pas les vêtements que je lui ai sorti. Il change de pull trois fois, puis va mettre ses chaussures. Pour une raisons qui m'échappe au début, il remonte les bras chargés de boites de céréales.
 
@@ -25,7 +25,7 @@ Le petit finit par repartir pour aller mettre ses chaussures et après beaucoup 
 
 > C'est le caleçon qui me grattait, Papa !
 
-Je le rhabille (en changeant trois fois de caleçon jusqu'à ce qu'il en trouve un qui ne le gratte pas), le grand nous rejoint (habillé, victoire !) et nous partons en voiture. 
+Je le rhabille (en changeant trois fois de caleçon jusqu'à ce qu'il en trouve un qui ne le gratte pas), le grand nous rejoint (habillé, victoire !) et nous partons en voiture.
 
 Enfin, "nous partons"… le bus de ramassage scolaire est venu chercher les enfants du quartier et est garé pile devant le garage. Nous attendons donc dans la voiture pendant dix longues minutes pendant lesquelles le petit pleure parce que le grand pleure parce qu'il ne voulait pas prendre de douche ce matin.
 
@@ -34,7 +34,7 @@ En arrivant chez Paul, on m'explique qu'il va falloir attendre dix minutes de pl
 Dans ce moments-là, t'as envie de regarder la vie en face et de lui demander :
 
 {% include video_as_a_gif.html.liquid
-    slug="why"
-    alt="Liam Neesson demande &quot;pourquoi&quot; quatre fois"
-    caption="Pourquoi ? Pourquoi ? Pourquoi ?!"
+slug="why"
+alt="Liam Neesson demande &quot;pourquoi&quot; quatre fois"
+caption="Pourquoi ? Pourquoi ? Pourquoi ?!"
 %}

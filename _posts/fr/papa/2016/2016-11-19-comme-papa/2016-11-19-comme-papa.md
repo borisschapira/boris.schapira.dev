@@ -5,7 +5,7 @@ type: post
 locale: fr_FR
 ---
 
-Libellule attend avec l'aîné dans la salle d'attente de l'orthophoniste. 
+Libellule attend avec l'aîné dans la salle d'attente de l'orthophoniste.
 
 <!-- more -->
 
@@ -17,7 +17,7 @@ Le pauvre, on ne lui a jamais expliqué…
 
 {% capture cap%}Han Solo : "il ne vaut mieux ne pas énerver un Wookie"{% endcapture%}
 {% include video_as_a_gif.html.liquid
-    slug="upset_a_wookie"
-    alt="Gif animé extrait de Star Wars"
-    caption=cap
+slug="upset_a_wookie"
+alt="Gif animé extrait de Star Wars"
+caption=cap
 %}

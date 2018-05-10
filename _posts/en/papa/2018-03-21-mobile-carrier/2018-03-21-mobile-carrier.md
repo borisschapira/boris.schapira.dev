@@ -26,10 +26,7 @@ He shows me one of his toys, I understand the plot and decide to challenge his l
 
 {% capture alt_text%}Extrait d'E.T. de Spielberg{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    url="/assets/images/papa/2018-03-21/et"
-    alt=alt_text
-    caption="E.T. phone home"
+url="/assets/images/papa/2018-03-21/et"
+alt=alt_text
+caption="E.T. phone home"
 %}
-
-
-

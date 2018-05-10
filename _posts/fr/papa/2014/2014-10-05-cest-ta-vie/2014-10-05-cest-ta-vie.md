@@ -13,4 +13,3 @@ locale: fr_FR
 > — Ben non. Toi, tu seras le roi, pas la reine !  
 > — Ah ?  
 > — Oui, non, remarque... Tu sais quoi ? Tu seras ce que tu voudras mon cœur et on t'aimera tout pareil !
-

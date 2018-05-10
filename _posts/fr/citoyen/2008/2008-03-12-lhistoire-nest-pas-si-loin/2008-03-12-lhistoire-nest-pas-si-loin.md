@@ -11,7 +11,7 @@ locale: fr_FR
 
 Le passé n'est pas si loin… C'est ce que s'est chargé de nous rappeler MTV à l'occasion du lancement de sa nouvelle chaine thématique MTV Think. Les images sont poignantes, destabilisantes, elles rappellent à quel point tout cela est proche, plus proche que ce que nous pourrions penser quotidiennement…
 
- _"L'holocauste est arrivé à des gens comme nous"_
+_"L'holocauste est arrivé à des gens comme nous"_
 
 Pourtant, force est de constater qu'aujourd'hui, l'antisémitisme pourrait ne pas être la cause de nouvelles déportations&nbsp;: l'islamophobie l'a largement rattrapé.
 

@@ -21,8 +21,8 @@ locale: fr_FR
 > — Et c'est pour ça que Papa il peut pas faire le travail avec le chef du restaurant, alors il fait des clics à côté.  
 > — Ah ben oui !
 
-{% include video_as_a_gif.html.liquid 
-  slug="1" 
-  alt="Gif animé présentant Mal, le héros de la série Firefly en train d'hésiter à intervenir dans une conversation" 
-  caption="Euh… non, rien." 
+{% include video_as_a_gif.html.liquid
+slug="1"
+alt="Gif animé présentant Mal, le héros de la série Firefly en train d'hésiter à intervenir dans une conversation"
+caption="Euh… non, rien."
 %}

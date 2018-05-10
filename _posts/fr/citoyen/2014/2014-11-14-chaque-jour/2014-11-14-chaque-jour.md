@@ -13,12 +13,11 @@ locale: fr_FR
 ## \#HeForShe
 
 > Gender equality is your issue too  
->   <cite>Emma Watson, [Discours aux Nations Unies](https://www.youtube.com/watch?v=Q0Dg226G2Z8) ([traduction française](http://www.unwomen.org/fr/news/stories/2014/9/emma-watson-gender-equality-is-your-issue-too))</cite>
+>  <cite>Emma Watson, [Discours aux Nations Unies](https://www.youtube.com/watch?v=Q0Dg226G2Z8) ([traduction française](http://www.unwomen.org/fr/news/stories/2014/9/emma-watson-gender-equality-is-your-issue-too))</cite>
 
 <!-- more -->
 
-{:.videoWrapper}
-<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/Q0Dg226G2Z8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include media/youtube.html.liquid id="Q0Dg226G2Z8" title="Emma Watson HeForShe Speech at the United Nations | UN Women 2014" %}
 
 Chaque jour, j'essaie d'expliquer à mes garçons comment devenir des hommes, ce qui n'est pas évident, car je n'ai pas vraiment de définition moi-même. Alors je leur apprends surtout à devenir des chouettes êtres humains et à explorer leurs possibilités à eux, sans se soucier de l'extérieur.
 

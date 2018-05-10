@@ -15,14 +15,13 @@ Mais nous avons également des forces militaires sur le terrain, notamment depui
 
 <!-- more -->
 
-
 > L’opération Sentinelle n’augmente pas la sécurité des Français, elle la réduit.
 >
-> […] Tous nos soldats peuvent constituer d’excellents et très coûteux vigiles, une minorité d’entre eux peuvent constituer des unités d’intervention 
+> […] Tous nos soldats peuvent constituer d’excellents et très coûteux vigiles, une minorité d’entre eux peuvent constituer des unités d’intervention
 >
 > […] On saluera, le professionnalisme dont ont fait preuve nos soldats à chaque fois, n’hésitant pas à accepter des risques supplémentaires et maîtrisant parfaitement l’emploi de leurs armes pour éviter de blesser des innocents, mais on remarquera aussi l'incohérence dans laquelle on les à placés.
 >
-> […] Comme l’équipement de combat rapproché n’a jamais été une priorité stratégique en France, le problème demeure. 
+> […] Comme l’équipement de combat rapproché n’a jamais été une priorité stratégique en France, le problème demeure.
 >
 > […] celui qui veut attaquer des soldats, parfaitement visibles alors que lui-même est anonyme, aura presque toujours l’initiative.
 >
@@ -30,6 +29,6 @@ Mais nous avons également des forces militaires sur le terrain, notamment depui
 >
 > <cite>"[Le piège de l'opération Sentinelle](http://lavoiedelepee.blogspot.fr/2017/02/le-piege-de-loperation-sentinelle.html)", Michel Goya sur son blog "La voie de l'épée"</cite>
 
-Au final, on revient toujours au même problème. L'opération Sentinelle sert davantage le pouvoir que la population, comme l'utilisation actuelle des forces de Police. 
+Au final, on revient toujours au même problème. L'opération Sentinelle sert davantage le pouvoir que la population, comme l'utilisation actuelle des forces de Police.
 
 Reste à savoir quelles décisions prendront les syndicats de la Police et de l'Armée : soutenir des candidats qui les prendront en considération en levant ces dispositifs pour mieux redéployer ces moyens dans des actions qui intègrent la défense à la population (proximité, groupes d'intervention rapprochée…) ou soutenir ceux qui les autoriseront à avoir la gachette (ou la matraque) plus facile…

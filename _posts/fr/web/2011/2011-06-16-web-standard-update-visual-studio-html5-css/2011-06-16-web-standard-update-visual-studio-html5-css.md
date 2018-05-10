@@ -13,10 +13,10 @@ Il n'y a rien qui vous empêchait, dès hier, de créer des sites Web HTML5 et C
 
 {% capture img_alt %}Logo de Visual Studio surplombant le logo d'HTML5{% endcapture %}
 {% capture img_caption %}Logo non-officiel de Web Standard Update, proposé par Scott Hanselman{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2011-06-16/vshtml5.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2011-06-16/vshtml5.png"
+alt=img_alt
+caption=img_caption
 %}
 
 C'est en réunissant quelques collègues de l'équipe "Plate-Forme et Outils Web" qu'est né la "<del>Rogue</del> Team" à l'origine de ce [Web Standard Update pour Visual Studio 2010](https://visualstudiogallery.msdn.microsoft.com:443/a15c3ce9-f58f-42b7-8668-53f6cdc2cd83 "Téléchargement de Web Standards Update pour Microsoft Visual Studio 2010 SPI et Visual Web Developer Express 2010 SP1") qui ajoute à Visual Studio le support d'HTML5, de CSS3 et de nouvelles fonctionnalités JavaScript.

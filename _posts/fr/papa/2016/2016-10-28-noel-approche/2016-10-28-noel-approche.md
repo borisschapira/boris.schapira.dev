@@ -11,7 +11,7 @@ Halloween étant passé, les discussions vont déjà bon train à la maison conc
 
 > Alors, vous pensez que le Père Noël va vous apporter des cadeaux ?
 
-Métalleux, 5 ans, me décrit la moitié d'un magasin de jouets. Tout y passe : des camions, des poupées, des déguisements, des loisirs créatifs, des livres, des vêtements… Pendant ce temps, Baryton reste muet. 
+Métalleux, 5 ans, me décrit la moitié d'un magasin de jouets. Tout y passe : des camions, des poupées, des déguisements, des loisirs créatifs, des livres, des vêtements… Pendant ce temps, Baryton reste muet.
 
 > — Tu penses que tu n'auras pas de cadeaux ?  
 > — Non.  

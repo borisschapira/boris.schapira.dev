@@ -11,10 +11,10 @@ Avant de véritablement commencer à lire "Business Model Generation" (dont je f
 
 {% capture img_alt %}Jaquette du livre{% endcapture %}
 {% capture img_caption %}Rework{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2010-08-24/1.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2010-08-24/1.png"
+alt=img_alt
+caption=img_caption
 %}
 
 <!-- more -->"Rework" compile une centaine de conseils accessibles à toute personne souhaitant créer ou développer une entreprise. Présenté comme un concentré des bonnes pratiques, il reprend l'essentiel des méthodologies agiles&nbsp;: Scrum évidemment, mais aussi GTD et même Kanban. S'y ajoutent les expériences de ses auteurs chez [37Signals](http://37signals.com/), start-up au succès reconnu, spécialisée dans le développement logiciel et les service associés. Motivant et facile à lire (comptez deux à trois jours en dilettante), le livre renouvelle le plaisir de la lecture en bousculant à chaque page les idées reçues sur le monde de l'entreprise, ce qu'il faut et ne faut pas faire, égratignant au passage le carcan des règles communément établies.

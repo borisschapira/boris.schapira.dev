@@ -23,10 +23,10 @@ Pour bien comprendre le problème, il faut remonter dans le temps et observer la
 
 {% capture img_alt %}L’interface graphique fenêtrée&nbsp;: depuis la naissance de Windows, la GUI n’a pas énormément évolué{% endcapture %}
 {% capture img_caption %}L’interface graphique fenêtrée&nbsp;: depuis la naissance de Windows, la GUI n’a pas énormément évolué{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2013-05-14/1.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2013-05-14/1.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Pendant ce temps, c’est un autre appareil, le téléphone, qui est entré en mutation. L’iPhone a lancé un mouvement, rompu une barrière que d’autres marques qu’Apple se sont empressées de passer à leur tour et nous avons vu fleurir les téléphones intelligents, c’est-à-dire embarquant ces fameuses fonctionnalités autrefois réservées aux PC ou aux assistants personnels.
@@ -41,20 +41,20 @@ Ce que Microsoft avait, c’est un système d’exploitation à la couverture pl
 
 {% capture img_alt %}Windows Mobile 5.0 Macallan (fin 2004)&nbsp;: l’interface de Windows Mobile était pensée pour la productivité bureautique et rien d’autre{% endcapture %}
 {% capture img_caption %}Windows Mobile 5.0 Macallan (fin 2004)&nbsp;: l’interface de Windows Mobile était pensée pour la productivité bureautique et rien d’autre{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2013-05-14/2.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2013-05-14/2.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Windows 8 (et Windows Phone) est né de ce manque, de cette absence. Microsoft expliquant au monde&nbsp;: "nos produits n’étaient pas pensés pour la mobilité et l’utilisation fun ou occasionnelle. Nos produits n’étaient pas adaptés à la façon dont vous souhaitez utiliser vos ordinateurs aujourd’hui. Nous vous avons écoutés, nous avons compris et voilà ce que nous vous proposons&nbsp;: Modern UI".
 
 {% capture img_alt %}L’écran d’accueil de Windows 8&nbsp;: l’écran d’accueil de Windows 8 est un bel exemple d’interface &quot;Modern UI&quot; en Flat Design{% endcapture %}
 {% capture img_caption %}L’écran d’accueil de Windows 8&nbsp;: l’écran d’accueil de Windows 8 est un bel exemple d’interface "Modern UI" en Flat Design{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2013-05-14/3.jpg"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2013-05-14/3.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
 Une nouvelle interface, au design innovant (qui a participé à la tendance "Flat Design" qu’on voit fleurir en ce moment), avec laquelle l’utilisateur interagit d’une façon inédite sous Windows. D’un point de vue fonctionnel, une très bonne synthèse de toutes les tendances du moment. Sauf que…
@@ -65,10 +65,10 @@ Windows reste un système de bureau qui s’utilise avec une souris et un clavie
 
 {% capture img_alt %}L’interface graphique fenêtrée de Windows 8&nbsp;: derrière le design Modern UI se dévoile une GUI Windows très classique{% endcapture %}
 {% capture img_caption %}L’interface graphique fenêtrée de Windows 8&nbsp;: derrière le design Modern UI se dévoile une GUI Windows très classique{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2013-05-14/4.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2013-05-14/4.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Ainsi, le "problème" de Windows 8 ne vient pas nécessairement de sa nouvelle interface, il vient de la mixité forcée entre cette nouvelle ergonomie et l’ancienne. Il suffit de voir la plus grosse critique des utilisateurs de Windows envers cette nouvelle mouture&nbsp;: l’absence du bouton "Démarrer". Une question que ne se posent probablement pas les utilisateurs de tablettes ou les utilisateurs “tactiles/occasionnels”. C’est bien du monde “bureau” que vient le rejet.
@@ -77,10 +77,10 @@ Ainsi, le "problème" de Windows 8 ne vient pas nécessairement de sa nouvelle i
 
 {% capture img_alt %}Un Rubik's Cube{% endcapture %}
 {% capture img_caption %}Agencer les sensibilités peut-être un sacré casse-tête…{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2013-05-14/5.jpg"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2013-05-14/5.jpg"
+alt=img_alt
+caption=img_caption
 %}
 
 Faut-il faire table rase de ce Windows pour préparer le suivant&nbsp;? Non, bien sûr, et j’irais même plus loin en disant qu’il faudrait peu de choses pour redonner de la cohérence au produit. Il est juste nécessaire de séparer les usages. D’un côté, un Windows dédié aux tablettes et 100 % Modern UI (c’est déjà le cas de Windows RT, mais avec des contraintes de développement pénibles). De l’autre, un Windows en pur “bureau”, sans mixité forcée avec la nouvelle interface et qui assure la rétro-compatibilité nécessaire à de nombreux usages bureautiques.

@@ -14,11 +14,10 @@ locale: en_US
 "Reduce the page weight": here is one of the most usual tips in Dareboost reports. According to HTTP Archive trends, images represent 53% of the average pages weight, whether viewed on desktop or mobile devices. When you want to reduce the weight of your web pages, optimizing images should be at the top of your priorities.
 
 {% capture img_alt %}On a white square are gradually designed several pixels in shades of blue, above the diagonal{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-10-29/square.jpg "
-    alt=img_alt
+{% include rwd-image.html.liquid
+path="/assets/images/2017-10-29/square.jpg "
+alt=img_alt
 %}
-
 
 <!-- more -->
 
@@ -31,9 +30,9 @@ It is not always easy to find the most suitable image format. Take our logo, for
 The weight of the images would be very different. An empirical test allows us to visualize it:
 
 {% capture img_alt %}PNG 6KB ; JPEG 38KB ; WebP 9KB ; SVG 2.5KB (1.4KB gzipped){% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-10-29/logo_en_580.png"
-    alt=img_alt
+{% include rwd-image.html.liquid
+path="/assets/images/2017-10-29/logo_en_580.png"
+alt=img_alt
 %}
 
 In this case, the most suitable format seems to be SVG, followed closely by PNG. It is indeed an image whose colors are plain, non-animated, representing geometric shapes. All these factors tend to favor these two formats.
@@ -41,9 +40,9 @@ In this case, the most suitable format seems to be SVG, followed closely by PNG.
 Let's take a second example, this time with the photograph of a rocket taking off. SVG is just unable to represent this image correctly (we will explain why a little further). Here's what we get, with equivalent visual perception, for JPEG, PNG and WebP formats:
 
 {% capture img_alt %}PNG: 171KB; JPEG: 33KB; WebP: 13KB{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-10-29/rocket_en_580.jpg"
-    alt=img_alt
+{% include rwd-image.html.liquid
+path="/assets/images/2017-10-29/rocket_en_580.jpg"
+alt=img_alt
 %}
 
 Here, the results are radically different. To represent the complexity of a photograph, the WebP format clearly stands out. Unfortunately, it is only supported on Chrome and Opera, so we generally prefer the JPEG format.
@@ -53,9 +52,9 @@ Here, the results are radically different. To represent the complexity of a phot
 When you want to save a JPEG, most of softwares ask what quality to retain, as it is a lossy encoding format. By choosing a quality less than 100%, it is thus possible to save precious bytes by correcting only certain points of the image. Let's try with our image, with quality set to 80%. Then we get a very interesting result: a weight loss of more than 50%, while only a few points of the image have been deeply changed.
 
 {% capture img_alt %}Original JPEG: 33KB. Optimized JPEG: 16KB. Not much differences.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-10-29/diff_en_580.jpg"
-    alt=img_alt
+{% include rwd-image.html.liquid
+path="/assets/images/2017-10-29/diff_en_580.jpg"
+alt=img_alt
 %}
 
 As shown above, choosing a format is not trivial and not all formats are suitable for all images. Let’s explain a little more…
@@ -95,9 +94,9 @@ You can find features stamped "GIF" in all social networks or instant messaging 
 many of these services use video formats, with much lighter files! We will come back to this topic in a future post.
 
 {% include video_as_a_gif.html.liquid
-    controls=true
-    url="/assets/images/2017-10-29/lenny"
-    alt="Screencast of the ChromeDevTools. We can see a video looping like a GIF, but the code clearly indicates its a video."
+controls=true
+url="/assets/images/2017-10-29/lenny"
+alt="Screencast of the ChromeDevTools. We can see a video looping like a GIF, but the code clearly indicates its a video."
 %}
 
 If you still need the GIF format, be aware that a compression algorithm also exists: gifsicle. It can be very useful for manipulating GIF content: reduce the color palette, resize, cut and crop... I sometimes use Gifsicle to encode short recordings of my screen and integrate them into emails, because many mail clients are not able to read embedded videos.
@@ -116,10 +115,10 @@ If you want to offer, in addition to your optimized image, formats supported by 
 
 {% capture img_alt %}Code capture{% endcapture %}
 {% capture img_caption %}HTML markup for Responsive Images, from The Guardian website<{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2017-10-29/theguardian.png "
-    alt=img_alt
-    caption=img_caption 
+{% include rwd-image.html.liquid
+path="/assets/images/2017-10-29/theguardian.png "
+alt=img_alt
+caption=img_caption
 %}
 
 With all possible media, art direction alternatives, resolutions, pixel densities, and supported formats, the HTML markup of responsive images can become very impressive. But do not forget that your HTTP responses must always be gzipped. Finally, the difference of 500B between this markup and a single element <code>img</code> will be largely offset by the reduction of the weight of the delivered image.
@@ -141,9 +140,9 @@ Another way to improve the performance of a web page is to avoid unnecessary ima
 One of the problems with Lazy Loading is the sudden display of the image, only after it is loaded. It is therefore necessary to determine when and how to load the delayed images so that the user does not notice this phenomenon. But when? After the initial loading (<a href="https://www.dareboost.com/fr/doc/test-performance-web/indicateurs/onload">onload</a>) of the Web page? When the user scrolls through the content and the viewport is approaching of the considered area? The lazy-loading needs to be discussed with UX designers who may have ideas on how to animate the appearance of the image, to make it less harsh. Some websites occupy the area with a branded content. Others use the main color of the image or even a shape of the actual image in SVG.
 
 {% include video_as_a_gif.html.liquid
-    controls=true
-    url="/assets/images/2017-10-29/placeholders"
-    alt="Progressive image loading: while images are loading, a fuzzy silhouette occupies the space."
+controls=true
+url="/assets/images/2017-10-29/placeholders"
+alt="Progressive image loading: while images are loading, a fuzzy silhouette occupies the space."
 %}
 
 ## Reduce the number of images with an image stack

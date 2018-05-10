@@ -9,7 +9,6 @@ Ma femme travaille dans une maison de retraite chrétienne et parfois, nos fils 
 
 <!-- more -->
 
-
 > – Maman ? C’est ton père ?  
 > – Euh ben non ! C’est Papy F. mon père.  
 > – Mais, tu viens de dire "Mon Père" ?  
@@ -18,7 +17,7 @@ Ma femme travaille dans une maison de retraite chrétienne et parfois, nos fils 
 
 {% capture alt_text%}Ryan Reynolds a l'air très, très confus.{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="what"
-    alt=alt_text
-    caption="À son regard, je ne suis pas sûr qu'il ait compris."
+slug="what"
+alt=alt_text
+caption="À son regard, je ne suis pas sûr qu'il ait compris."
 %}

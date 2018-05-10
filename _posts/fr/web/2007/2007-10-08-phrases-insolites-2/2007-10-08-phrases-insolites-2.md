@@ -10,7 +10,7 @@ locale: fr_FR
 
 C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!
 
-**<!-- more -->
+\*\*<!-- more -->
 
 ## Formation à la Finance de Marché
 

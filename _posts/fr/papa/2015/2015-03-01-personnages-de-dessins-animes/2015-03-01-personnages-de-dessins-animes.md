@@ -16,4 +16,3 @@ Le lendemain :
 > — Le monsieur de la forêt !  
 > — Euh, on l'a pas celui-là... Attends une seconde : Robin des Bois ?  
 > — Oui !"
-

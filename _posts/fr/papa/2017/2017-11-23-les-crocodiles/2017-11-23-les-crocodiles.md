@@ -30,6 +30,6 @@ Reportage à la radio sur les animaux de compagnie.
 
 {% capture alt_text%}Un jeune garçont demande : "Je vais aller en prison maintenant ?"{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="guilty"
-    alt=alt_text
+slug="guilty"
+alt=alt_text
 %}

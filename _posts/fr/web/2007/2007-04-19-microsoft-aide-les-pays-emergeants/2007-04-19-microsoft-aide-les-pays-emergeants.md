@@ -17,4 +17,4 @@ Ce nouveau programme à but non-lucratif, appelé **Microsoft Unlimited Potentia
 
 L'objectif semble être de toucher les marchés gouvernementaux en leur proposant des machines équipées à des prix compétitifs. Les prix dépendront des constructeurs mais à 3$ la logithèque, il ne devrait pas dépasser 300$. D'un point de vue mondial, ce sont près d'**un milliard d'utilisateurs** qui seraient concernés par cette offre, avec en ligne de mire pour Redmond l'objectif d'un milliard d'utilisateurs en plus avant 2015.
 
-Source&nbsp;: [The New York Times](https://myaccount.nytimes.com/auth/login?URI=www-nc.nytimes.com/2007/04/19/technology/19soft.html&amp;REFUSE_COOKIE_ERROR=SHOW_ERROR)
+Source&nbsp;: [The New York Times](https://myaccount.nytimes.com/auth/login?URI=www-nc.nytimes.com/2007/04/19/technology/19soft.html&REFUSE_COOKIE_ERROR=SHOW_ERROR)

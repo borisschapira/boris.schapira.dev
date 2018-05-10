@@ -9,10 +9,7 @@ events:
     date: 2016-10-28
 ---
 
-<div class="videoWrapper">
-  <iframe src="https://player.vimeo.com/video/170005229" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  <p><a href="https://vimeo.com/170005229">Mon pire client a 5 ans - Boris Schapira - Sud Web 2016</a> from <a href="https://vimeo.com/sudweb">Sud Web</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</div>
+{% include media/vimeo.html.liquid id="170005229" title="Mon pire client a 5 ans - Boris Schapira - Sud Web 2016" %}
 
 Mon pire client a cinq ans. Il est créatif, sensible, un peu colérique. Son petit frère a 3 ans. Il aime être dans l’action, dans la réalisation. Il a un rapport très physique au monde. Tous les deux, ils ont une dynamique assez bruyante. À la maison, on a rarement le temps d'apprecier le silence… et nos voisins non plus.
 

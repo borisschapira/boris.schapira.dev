@@ -20,4 +20,3 @@ Fesses / Toilettes. Voilà, il ne m'en fallait pas plus.
 Ajout du 20 juin, même thème :
 
 > — Non papa, pas faire de caca-strophes, faire que des caca normals , moi !
-

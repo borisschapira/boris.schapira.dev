@@ -20,7 +20,7 @@ Mon petit dernier vient d'apprendre à faire un cœur avec ses doigts. Il voudra
 > — Mais c'était mon idée ! Tu auras un petit gâteau, Papa.
 
 {% include video_as_a_gif.html.liquid
-    slug="picsou"
-    alt="Picsou dans sa piscine de pièces"
-    caption="Il va peut-être falloir qu'on lui enseigne quelques valeurs sociales, à ce petit…"
+slug="picsou"
+alt="Picsou dans sa piscine de pièces"
+caption="Il va peut-être falloir qu'on lui enseigne quelques valeurs sociales, à ce petit…"
 %}

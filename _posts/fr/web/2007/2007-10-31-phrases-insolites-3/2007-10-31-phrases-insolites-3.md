@@ -30,9 +30,10 @@ _C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!_
 > — Et alors, tu en penses quoi&nbsp;?  
 > — Bah c’est comme l’environnement, l’égalité des chances et l’annulation de la dette des pays pauvres… une cause perdue.  
 > — À ce point&nbsp;?  
-> — Non pire. Parce que pour l’environnement, l’égalité des chances et l’annulation de la dette des pays pauvres, il reste de l’espoir.  
+> — Non pire. Parce que pour l’environnement, l’égalité des chances et l’annulation de la dette des pays pauvres, il reste de l’espoir.
 
 ## 5 ans mais déjà des (mauvaises) idées
+
 > — Papa, pourquoi on descend pas pour voir si le train il arrive&nbsp;?  
 > — Parce que là c’est les rails, c’est dangereux, il nous faut jamais y aller.  
 > — {en colère} Tu vois tu me dit toujours non! Pourtant c’est une bonne idée, on verrait mieux&nbsp;!

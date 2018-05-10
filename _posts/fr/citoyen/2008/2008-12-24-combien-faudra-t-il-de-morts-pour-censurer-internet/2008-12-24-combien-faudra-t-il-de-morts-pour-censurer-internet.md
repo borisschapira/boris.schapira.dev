@@ -10,7 +10,7 @@ locale: fr_FR
 ---
 
 > L’absence de régulation financière a provoqué des faillites. L’absence de régulation du Net provoque chaque jour des victimes ! Combien faudra-t-il de **jeunes filles violées** pour que les autorités réagissent ? Combien faudra-t-il de **morts** suite à l’absorption de faux médicaments ? Combien faudra-t-il d’ **adolescents manipulés** ? Combien faudra-t-il de **bombes artisanales** explosant aux quatre coins du monde ? Combien faudra-t-il de **créateurs ruinés** par le pillage de leurs œuvres ?  
->   <cite>[Frédéric Lefebvre à l'Assemblée Nationale](http://www.assemblee-nationale.fr/13/cri/2008-2009/20090103.asp)</cite>
+>  <cite>[Frédéric Lefebvre à l'Assemblée Nationale](http://www.assemblee-nationale.fr/13/cri/2008-2009/20090103.asp)</cite>
 
 Vous voilà donc prévenus, Internet est un refuge de **violeurs**, d' **assassins**, de **terroristes** et de… pirates d'œuvres numériques. Vous ne voyez pas le rapport ? Moi non plus. C'est juste le dernier coup d'éclat de Frédéric Lefebvre, porte-parole de l'UMP qui dit souvent tout haut ce que le Président pense tout bas.
 
@@ -25,4 +25,4 @@ C'est marrant mais quand je vois ce genre de tentatives de censure d'un _nouveau
 Mais bon, nous n'avons rien à dire. Monsieur a mis en route un serveur, c'est un expert :
 
 > j’ai passé quelques bouts de nuits […] dans certaines caves du 18e arrondissement – peut-être y étiez-vous aussi, monsieur Bloche ? – pour mettre en route des serveurs. Je connais donc **parfaitement** Internet.  
->   <cite>[Frédéric Lefebvre à l'Assemblée Nationale](http://www.assemblee-nationale.fr/13/cri/2008-2009/20090103.asp)</cite>
+>  <cite>[Frédéric Lefebvre à l'Assemblée Nationale](http://www.assemblee-nationale.fr/13/cri/2008-2009/20090103.asp)</cite>

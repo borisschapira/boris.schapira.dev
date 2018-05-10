@@ -13,11 +13,11 @@ Coup sur coup, deux anecdotes qui tournent autour du même mot…
 > — Des jokers ?!  
 > — Mais oui, sur un rond.  
 > — Je ne comprends pas. Tu parles du film ?  
-> — Non, pas le film, les films du film d'à côté !  
+> — Non, pas le film, les films du film d'à côté !
 
 J'ai enfin compris ce qu'il décrivait : les **bonus**.
 
-***
+---
 
 Le lendemain, son petit frère demande s'il peut caresser le chat.
 
@@ -28,6 +28,6 @@ Le lendemain, son petit frère demande s'il peut caresser le chat.
 > — Des bonus ?  
 > — Des bonus, là, dans ses poils !  
 > — Des… des puces ?  
-> — Oui, est-ce qu'il a encore des épuces ?  
+> — Oui, est-ce qu'il a encore des épuces ?
 
 Parfois, les mots les plus simples sont quand même compliqués.

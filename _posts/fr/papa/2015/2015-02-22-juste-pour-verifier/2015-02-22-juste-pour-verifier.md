@@ -12,4 +12,3 @@ locale: fr_FR
 > — Oui, voilà, justement, ça.  
 > — Bah donc la réponse est oui. Et heureusement.  
 > — C'est ce que j'étais en train de me dire. Pas sûr que l'espèce aurait survécu si on n'avait pas eu ça.
-

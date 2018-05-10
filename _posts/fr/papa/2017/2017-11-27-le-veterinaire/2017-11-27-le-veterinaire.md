@@ -27,7 +27,7 @@ Il me regarde avec un regard noir. Je ne sais pas quoi dire. Il enchaine.
 
 {% capture alt_text%}Un homme qui ne s'y attend pas prend un poisson en plein visage.{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="fishslap"
-    alt=alt_text
-    caption="Comptez toujours sur vos enfants pour vous renvoyez vos paradoxes dans la gueule."
+slug="fishslap"
+alt=alt_text
+caption="Comptez toujours sur vos enfants pour vous renvoyez vos paradoxes dans la gueule."
 %}

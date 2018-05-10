@@ -10,4 +10,3 @@ locale: fr_FR
 > — Tu l'aime beaucoup mais il ne faut pas le dire aux autres enfants de l'école sinon ils vont dire que c'est ton amoureuse et se moquer ?  
 > — Oui, Papa. Pas dire Papa, pas dire !  
 > — Je ne leur dirais rien, promis.
-

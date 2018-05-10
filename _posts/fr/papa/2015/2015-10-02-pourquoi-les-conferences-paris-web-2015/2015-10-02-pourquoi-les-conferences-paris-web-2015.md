@@ -35,4 +35,3 @@ Quelques minutes plus tard…
 > — Mais si Papa, est un métier ninja ! Est le métier que j'aime, moi !  
 > — Alors tu seras sûrement un super ninja mon lapin.  
 > — Oui !
-

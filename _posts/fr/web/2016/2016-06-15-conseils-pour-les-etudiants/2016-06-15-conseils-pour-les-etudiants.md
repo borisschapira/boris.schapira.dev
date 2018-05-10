@@ -34,19 +34,19 @@ Vous allez faire des dizaines de projets où l'on vous demandera des fiches d'é
 
 N'hésitez pas à introduire une représentation visuelle de vos responsabilités :
 
-- par le biais de pictogrammes ;
-- en utilisant la matrice RACI.
+* par le biais de pictogrammes ;
+* en utilisant la matrice RACI.
 
 # Présentation
 
-- Si vous numérotez vos <span lang="en">slides</span> à la main, pensez à revoir ces numéros avant la soutenance…
-- Dans vos <span lang="en">slides</span>, évitez d'écrire des phrases complètes. Leur lecture distrait le public.
-- Pensez à changer de fond d'écran avant de brancher le projecteur. Vos préférences sexuelles n'ont pas vocation à se retrouver projetées en 4x3.
+* Si vous numérotez vos <span lang="en">slides</span> à la main, pensez à revoir ces numéros avant la soutenance…
+* Dans vos <span lang="en">slides</span>, évitez d'écrire des phrases complètes. Leur lecture distrait le public.
+* Pensez à changer de fond d'écran avant de brancher le projecteur. Vos préférences sexuelles n'ont pas vocation à se retrouver projetées en 4x3.
 
 # À l'oral
 
-- Répétez. Rien de plus énervant qu'un groupe qui se regarde dans le blanc des yeux en attendant qu'un d'entre eux se décide à dire quelque chose.
-- Corollaire du précédent point : dans les bonnes présentations, la parole se donne, elle ne se prend pas. Organisez-vous pour vous passer la parole.
-- Ne vous reprenez pas entre vous : remerciez-vous. Pas de "Je voudrais revenir sur ce qu'à dit Machin car il a tort". Plutôt "Merci à Machin d'avoir introduit le sujet, je vais désormais y revenir en détails".
-- Ne soyez pas trop directifs : "Nous vous remercions de garder vos questions pour la fin de la présentation" est maladroit. Préférez "Si cela ne vous dérange pas, nous répondrons à vos questions en fin de présentation. Si quelque chose vous perturbe, nous seront ravis d'y répondre."
-- Attention au vocabulaire et au niveau de langue. À l'oral aussi, préférez "nous" à "on". N'utilisez pas de termes connus pour dire autre chose (notamment, ne dites pas que vous avez fait preuve d'agilité si vous n'avez pas emprunté les méthodes agiles. Parlez plutôt de souplesse ou d'adaptabilité).
+* Répétez. Rien de plus énervant qu'un groupe qui se regarde dans le blanc des yeux en attendant qu'un d'entre eux se décide à dire quelque chose.
+* Corollaire du précédent point : dans les bonnes présentations, la parole se donne, elle ne se prend pas. Organisez-vous pour vous passer la parole.
+* Ne vous reprenez pas entre vous : remerciez-vous. Pas de "Je voudrais revenir sur ce qu'à dit Machin car il a tort". Plutôt "Merci à Machin d'avoir introduit le sujet, je vais désormais y revenir en détails".
+* Ne soyez pas trop directifs : "Nous vous remercions de garder vos questions pour la fin de la présentation" est maladroit. Préférez "Si cela ne vous dérange pas, nous répondrons à vos questions en fin de présentation. Si quelque chose vous perturbe, nous seront ravis d'y répondre."
+* Attention au vocabulaire et au niveau de langue. À l'oral aussi, préférez "nous" à "on". N'utilisez pas de termes connus pour dire autre chose (notamment, ne dites pas que vous avez fait preuve d'agilité si vous n'avez pas emprunté les méthodes agiles. Parlez plutôt de souplesse ou d'adaptabilité).

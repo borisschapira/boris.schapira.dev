@@ -13,12 +13,12 @@ locale: fr_FR
 Le format MP4 représente plus de 75 % des vidéos diffusées sur Internet aujourd’hui. Cependant, il est souvent mal utilisé, ce qui peut dégrader l’expérience utilisateur. Voyons ensemble comment améliorer ça.
 
 {% capture img_alt %}Graphique de courbes{% endcapture %}
-{% capture img_caption %}Évolution des usages des différents types de formats video sur le Web. 
-Source : Données HttpArchive requêtées  via [BigQuery](https://goo.gl/srggsf).{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2018-01-18/0_video_usage.png"
-    alt=img_alt
-    caption=img_caption
+{% capture img_caption %}Évolution des usages des différents types de formats video sur le Web.
+Source : Données HttpArchive requêtées via [BigQuery](https://goo.gl/srggsf).{% endcapture %}
+{% include rwd-image.html.liquid
+path="/assets/images/2018-01-18/0_video_usage.png"
+alt=img_alt
+caption=img_caption
 %}
 
 <!-- more -->
@@ -34,13 +34,13 @@ Pourtant, on ne diffuse par une vidéo sur Internet comme on la lit sur un ordin
 
 {% capture img_alt %}Capture du logiciel VLC{% endcapture %}
 {% capture img_caption %}Interface de conversion de VLC{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2018-01-18/1_vlc_convert.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2018-01-18/1_vlc_convert.png"
+alt=img_alt
+caption=img_caption
 %}
 
-*Note : les exemples qui suivent feront un usage intensif de [ffmpeg](https://www.ffmpeg.org/), l'un des outils de manipulation vidéo les plus populaires parmi les développeurs. Mais la plupart des optimisations décrites devraient être disponibles dans votre logiciel de manipulation vidéo préféré.*
+_Note : les exemples qui suivent feront un usage intensif de [ffmpeg](https://www.ffmpeg.org/), l'un des outils de manipulation vidéo les plus populaires parmi les développeurs. Mais la plupart des optimisations décrites devraient être disponibles dans votre logiciel de manipulation vidéo préféré._
 
 ## Réduire le poids des fichiers: le juste équilibre entre qualité et performance
 
@@ -55,12 +55,11 @@ Par exemple, vous pouvez évaluer le <span lang="en">bitrate</span> nécessaire 
 
 Vous pouvez facilement anticiper le poids d'une vidéo après l'encodage en utilisant soit un <span lang="en">bitrate</span> constant sur l'ensemble de la vidéo, soit un encodage à plusieurs passes pour un [<span lang="en">bitrate</span> variable](https://fr.wikipedia.org/wiki/Variable_bitrate). Voici une comparaison entre un extrait original de 10 secondes d'une séquence du décollage d'Endeavour et un encodage à deux passes avec ffmpeg. La vidéo à gauche pesait 85 Mo, celle de droite pèse 1,2 Mo après optimisation :
 
-{:.videoWrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M99TPB7qMsQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include media/youtube.html.liquid id="M99TPB7qMsQ" title="Original vs. Constant Rate Factor 24 (ffmpeg h264)" %}
 
-Cet exemple montre ce qui peut techniquement être fait pour améliorer le poids d'une vidéo, mais nous pouvons aussi extrapoler des optimisations à partir des objectifs métier de la vidéo. Il est assez courant, par exemple, de visiter des sites dont la page d'accueil affiche une large zone avec un message de bienvenue, occupant l'ensemble de la fenêtre. Parfois, derrière cette zone, qu’on appelle "Hero Container", une vidéo de fond est diffusée. 
+Cet exemple montre ce qui peut techniquement être fait pour améliorer le poids d'une vidéo, mais nous pouvons aussi extrapoler des optimisations à partir des objectifs métier de la vidéo. Il est assez courant, par exemple, de visiter des sites dont la page d'accueil affiche une large zone avec un message de bienvenue, occupant l'ensemble de la fenêtre. Parfois, derrière cette zone, qu’on appelle "Hero Container", une vidéo de fond est diffusée.
 
-Ces vidéos ne sont ni destinées à être véritablement visionnées, ni utiles pour la conversion. Il s'agit souvent d'améliorations subtiles, destinées uniquement à embellir les pages et pas à distraire les visiteurs et visiteuses.  Souhaitez-vous vraiment que cette vidéo soit de la plus haute qualité possible ? En utilisant un effet de flou comme l'effet "iirblur" de [la librairie frei0r (EN)](https://yalantis.com/blog/experiments-with-ffmpeg-filters-and-frei0r-plugin-effects/)", vous pouvez flouter votre contenu original, ce qui vous permet de gagner de précieux kilo-octets.
+Ces vidéos ne sont ni destinées à être véritablement visionnées, ni utiles pour la conversion. Il s'agit souvent d'améliorations subtiles, destinées uniquement à embellir les pages et pas à distraire les visiteurs et visiteuses. Souhaitez-vous vraiment que cette vidéo soit de la plus haute qualité possible ? En utilisant un effet de flou comme l'effet "iirblur" de [la librairie frei0r (EN)](https://yalantis.com/blog/experiments-with-ffmpeg-filters-and-frei0r-plugin-effects/)", vous pouvez flouter votre contenu original, ce qui vous permet de gagner de précieux kilo-octets.
 
 Avec ffmpeg :
 
@@ -72,8 +71,7 @@ L'option `-vf frei0r=iirblur:0.4` indique à ffmpeg de flouter avec un coefficie
 
 Résultat :
 
-{:.videoWrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nwGDXk9eE8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include media/youtube.html.liquid id="nwGDXk9eE8s" title="Clear vs Blur (ffmpeg+frei0r)" %}
 
 Autre optimisation possible : la piste audio. Si votre vidéo n'est pas destinée à jouer du son, pourquoi garder cette piste ? N'hésitez pas à la retirer :
 
@@ -93,10 +91,10 @@ Si votre serveur est configuré pour accepter le [Service d'Octet](https://fr.wi
 
 {% capture img_alt %}Capture des ChromeDevTools, onglet "Network"{% endcapture %}
 {% capture img_caption %}Dans cet exemple, le navigateur exécute trois requêtes avant d'obtenir les métadonnées et de commencer la lecture.{% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2018-01-18/2_devtools_capture.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2018-01-18/2_devtools_capture.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Si votre serveur ne prend pas en charge ces "<span lang="en">Range-Request</span>", le navigateur n'a pas d'autre choix que de télécharger le fichier complet. Si votre vidéo est en lecture automatique, la bande passante disponible pour télécharger d'autres ressources, par exemple celles nécessaires au rendu de la page, sera réduite. Le temps requis pour l'affichage augmentera, ce qui dégradera l'expérience utilisateur.
@@ -107,10 +105,10 @@ Un fichier MP4 se décompose en plusieurs unités de données appelées atomes. 
 
 {% capture img_alt %}Utilisation d'AtomicParsley en ligne de commande{% endcapture %}
 {% capture img_caption %}Dans l'exemple ci-dessus, l'atome `moov` vient après l'atome `mdat` (4e ligne){% endcapture %}
-{% include rwd-image.html.liquid 
-    path="/assets/images/2018-01-18/3_console_capture.png"
-    alt=img_alt
-    caption=img_caption
+{% include rwd-image.html.liquid
+path="/assets/images/2018-01-18/3_console_capture.png"
+alt=img_alt
+caption=img_caption
 %}
 
 Il existe plusieurs méthodes pour déplacer l'atome `moov` en première position. Un logiciel comme Handbrake offre une option "Optimiser pour le Web" ([documentation d’Handbrake en anglais](https://handbrake.fr/docs/en/latest/advanced/web-optimised.html)). Dans d'autres logiciels, cette option est appelée "<span lang="en">MP4 Fast Start</span>".
@@ -150,6 +148,6 @@ ffmpeg -i source.mp4 -c:v libvpx-vp9 -b:v 1M -pass 1 -f webm /dev/null && ffmpeg
 * **Proposez des alternatives à MP4**, comme WebM, qui peuvent être plus performantes.
 * Faites attention à l'<span lang="en">autoplay</span>, envisagez des solutions dédiées pour le Full HD et n'hésitez pas à ne pas proposer de vidéos quand le contexte le demande.
 
-***
+---
 
 _Merci à [Ravana Renoncé](https://www.linkedin.com/in/ravana/) et [Rick Viscomi](https://twitter.com/rick_viscomi) pour leur aide._

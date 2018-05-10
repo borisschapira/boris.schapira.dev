@@ -10,4 +10,3 @@ locale: fr_FR
 > — Dessin animé dire poil de couille pour cuire les chaudcisses !  
 > — Cuire des saucisses ? Hum, attends, tu me parles d'un **Bar-be-cue** ?  
 > — Oui, ça !"
-

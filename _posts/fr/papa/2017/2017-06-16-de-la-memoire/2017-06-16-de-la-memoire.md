@@ -20,7 +20,7 @@ Souvent, pour être parent, il faut beaucoup de patience. Et parfois, juste, bea
 > — Oui, c'est ce que j'ai dis !
 
 {% include video_as_a_gif.html.liquid
-    slug="of-course"
-    alt="Jess (New Girl) dit : bien sûr que tu l'as fait !"
-    caption="Oui, bien sûr&nbsp;!"
+slug="of-course"
+alt="Jess (New Girl) dit : bien sûr que tu l'as fait !"
+caption="Oui, bien sûr&nbsp;!"
 %}
