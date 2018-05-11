@@ -6,7 +6,6 @@ require 'json'
 require 'yaml'
 
 namespace :prebuild do
-  task npm: ['npm:install', 'npm:build']
   task test: ['test:doctor', 'test:posts']
 
   desc 'Generate prod configuration from ENV variables'
@@ -47,25 +46,9 @@ namespace :prebuild do
     end
   end
 
-  namespace :npm do
-    desc 'Install node dependencies'
-    task :install do
-      npm('install')
-    end
-
-    desc 'Build CSS and JS'
-    task :build do
-      npm('run build')
-    end
-  end
-
   # launch jekyll
   def jekyll(directives = '', env = 'development')
     sh 'JEKYLL_ENV=' + env + ' jekyll ' + directives
   end
 
-  # launch npm
-  def npm(directives = '')
-    sh 'npm ' + directives
-  end
 end
