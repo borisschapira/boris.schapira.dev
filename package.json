@@ -78,7 +78,7 @@
   "dependencies": {
     "abbr-touch": "^2.1.6",
     "instantsearch.js": "^2.7.2",
-    "jquery": "^2.1.4",
+    "jquery": "^3.3",
     "mermaid": "^8.0.0-rc.8",
     "touchtap-event": "^2.0.2"
   }
