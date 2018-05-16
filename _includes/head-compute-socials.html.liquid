@@ -53,13 +53,13 @@
   
   {% comment %} Image {% endcomment %}
   {% assign imgtitle = socialTitle | url_escape | replace: ' ', '%20' | replace: '.', '%2e' | replace: ',', '%252C' | replace: "'", '%E2%80%99' | replace: '?', '%3F'%}
-  {% capture socialImage %}https://avatars.borisschapira.com/boris_1light_300_fuchsia.jpg{% endcapture %}
+  {% capture socialImage %}https://avatars.borisschapira.com/avataaars.png{% endcapture %}
   {% if page.main_image %}
     {% capture socialImage %}{{ site.url }}/{{ page.main_image }}{% endcapture %}
   {% else %}
     {% if page.category %}
-      {% capture socialImage %}{{ site.url }}/assets/images/category/{{ page.category | slugify }}.jpg{% endcapture %}
+      {% capture socialImage %}{{ site.url }}/assets/images/category/{{ page.category | slugify }}.png{% endcapture %}
     {% endif %}
   {% endif %}
-  {% capture socialImage %}https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:630,b_white/e_grayscale/w_1200/b_rgb:{{ themeColor }},o_60/w_1120,c_fit,l_text:PT%20Sans_80:{{ imgtitle }},x_2,y_2,co_rgb:{{ themeColor }},o_40/w_1120,c_fit,l_text:PT%20Sans_80:{{ imgtitle }},co_white/l_text:PT%20Sans_50:borisschapira.com,g_south_east,x_41,y_30,co_black/l_text:PT%20Sans_50:borisschapira.com,g_south_east,x_40,y_31,co_white/{{ socialImage }}{% endcapture %}
+  {% capture socialImage %}https://res.cloudinary.com/{{ site.cloudinary.cloud_name }}/image/fetch/e_blur:200,c_crop,ar_1200:630,b_white/e_grayscale/w_1200/b_rgb:{{ themeColor }},o_60/w_1120,c_fit,l_text:PT%20Sans_80:{{ imgtitle }},x_2,y_2,co_rgb:{{ themeColor }},o_40/w_1120,c_fit,l_text:PT%20Sans_80:{{ imgtitle }},co_white/l_text:PT%20Sans_50:borisschapira.com,g_south_east,x_41,y_30,co_black/l_text:PT%20Sans_50:borisschapira.com,g_south_east,x_40,y_31,co_white/{{ socialImage }}{% endcapture %}
   {% capture socialTitle %}{{ socialTitle }} &middot; {{ site.title }}{% endcapture %}
