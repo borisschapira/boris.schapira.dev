@@ -72,9 +72,6 @@
     "uglify-js": "^3.3.13",
     "watch": "^0.17.1"
   },
-  "engines": {
-    "node": "8.11.1"
-  },
   "dependencies": {
     "abbr-touch": "^2.1.6",
     "instantsearch.js": "^2.7.2",
