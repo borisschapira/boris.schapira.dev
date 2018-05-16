@@ -1,5 +1,5 @@
 # Development configuration (comment for Production)
-limit_posts: 100
+limit_posts: 10
 host: 0.0.0.0
 future: true
 profile: true
