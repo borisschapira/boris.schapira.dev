@@ -11,8 +11,6 @@ namespace :prebuild do
   desc 'Generate prod configuration from ENV variables'
   task :config do
     configs = [
-      "recaptcha:\n  key: '$JEKYLL_SITE_RECAPTCHA_KEY'",
-      "  encrypted_secret: '$JEKYLL_SITE_RECAPTCHA_ENCRYPTED_SECRET'",
       "dareboost:\n  monitoring: '$JEKYLL_SITE_DAREBOOST_MONITORING'",
       "  token: '$JEKYLL_SITE_DAREBOOST_TOKEN'"
     ]
