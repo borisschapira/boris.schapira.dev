@@ -64,6 +64,8 @@
   <meta property="og:type" content="{{ socialType }}" />
   <meta property="og:title" content="{{ socialTitle }}" />
   <meta property="og:image" content="{{ socialImage }}" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
   <meta property="og:site_name" content="{{ socialSitename }}" />
   <meta property="article:author" content="{{ site.author.facebook }}" />
   <meta property="article:published_time" content="{{ socialDate }}" />
@@ -76,7 +78,7 @@
     <meta property="article:tag" content="{{ tag }}" />
   {% endfor %}
 
-  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:domain" content="{{ site.domain }}" />
   <meta name="twitter:title" content="{{ socialTitle }}" />
   <meta name="twitter:description" content="{{ socialDescription }}" />
