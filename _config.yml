@@ -133,9 +133,6 @@ encoding: utf-8
 lsi: true
 repository: "borisschapira/borisschapira.com"
 
-staticman:
-  branch: master
-
 microtypo:
   median: true
 
@@ -202,13 +199,6 @@ cloudinary:
   presets:
     default:
       sizes: "(min-width:20em) and (max-width:50em) 20em, (min-width:50em) 30em"
-
-# ReCaptcha with Staticman
-# Encrypted secret :  https://api.staticman.net/v2/encrypt/YOUR-SECRET
-recaptcha:
-  key: '…'
-  secret: '…'
-  encrypted_secret: '…'
 
 dareboost:
   monitoring : …

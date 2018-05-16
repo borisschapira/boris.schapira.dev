@@ -14,9 +14,7 @@
     document.head.insertBefore(e, document.head.childNodes[document.head.childNodes.length - 1].nextSibling);
   };
 </script>{% if page.type == 'post' %}
-<script>injectScript('/assets/scripts/comments.min.js');</script>
-
-{% if jekyll.environment != 'development' %}<script>injectScript('https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit');</script>{% endif %}{% endif %}
+<script>injectScript('/assets/scripts/comments.min.js');</script>{% endif %}
 <script>injectScript('/assets/scripts/index.min.js');</script>
 
 {% if page.loadTwitterWjs %}<script>injectScript('/assets/scripts/vendors/twitter-wjs.min.js');</script>

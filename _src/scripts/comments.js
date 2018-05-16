@@ -65,8 +65,9 @@ $('.reply-to').on('click', function (event) {
    * 'inherit' when the visibility value is inherited from an ancestor.
    */
   try {
-    for (var i = 0; i < commentForm.elements.length; i++) {
-      element = commentForm.elements[i];
+    var inputs = commentForm.querySelectorAll('input,textarea'), ilen = inputs.length;
+    for (var i = 0; i < ilen; i++) {
+      element = inputs[i];
       cssHidden = false;
 
       // Modern browsers.

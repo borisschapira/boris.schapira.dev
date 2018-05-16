@@ -1237,33 +1237,33 @@ sup {
   margin: 0 auto 1rem auto; }
 
 /* latin */
-#comments h2 {
+.reactions h2 {
   margin-bottom: 1.5rem; }
 
-#respond legend {
+.reactions legend {
   display: table;
   padding: 0; }
 
-#respond fieldset {
+.reactions fieldset {
   min-width: 0;
   margin: 0.5rem;
   padding: 0.01rem 0 0 0;
   border: 0; }
 
-#respond:not(:-moz-handler-blocked) fieldset {
+.reactions:not(:-moz-handler-blocked) fieldset {
   display: table-cell; }
 
-#respond textarea,
-#respond [type=text],
-#respond [type=email],
-#respond [type=url] {
+.reactions textarea,
+.reactions [type=text],
+.reactions [type=email],
+.reactions [type=url] {
   font-size: 1rem;
   display: block;
   width: 100%;
   padding: 5px;
   border: 1px solid #a3a3a3; }
 
-#respond .btn {
+.reactions .btn {
   font-size: 1rem;
   line-height: normal;
   float: right;
@@ -1276,36 +1276,43 @@ sup {
   vertical-align: middle;
   text-decoration: none;
   letter-spacing: 1px;
-  text-transform: uppercase;
-  color: #0000c5;
-  border: 1px solid #0000c5;
+  color: #fff;
+  border: 1px solid #fff;
   border-radius: 2px;
-  background-color: #fff; }
+  background-color: #0000c5;
+  transition: all 500ms ease; }
 
-#respond .btn:disabled {
+.reactions .btn:hover {
+  background: #fff;
+  color: #0000c5;
+  box-shadow: inset 0 0 0 3px #0000c5; }
+
+.reactions .btn:disabled {
   color: #707070;
   border-color: #707070; }
 
-#respond .info {
+.reactions .info {
   float: right;
   min-width: 0;
   margin: 0.5rem;
   padding: 0.01rem 0 0 0;
   border: 0; }
-  #respond .info.hidden {
+  .reactions .info.hidden {
     display: none;
     opacity: 0; }
 
 ul.comments {
-  padding: 0;
-  list-style-type: none; }
+  padding: 0 0 0 1rem;
+  list-style-type: none;
+  border-left: 2px solid #0000c5; }
   ul.comments .reply-to {
     margin: 0.5rem; }
   ul.comments li {
     position: relative;
     margin-bottom: 1rem; }
   ul.comments ul.comments {
-    padding-left: 1rem; }
+    border-left-width: 1px;
+    margin: 0 0 4rem 1rem; }
   ul.comments .avatar__container {
     box-sizing: border-box;
     width: 60px; }
@@ -1318,6 +1325,10 @@ ul.comments {
   ul.comments .comment__content {
     box-sizing: border-box;
     padding-top: 3px; }
+    ul.comments .comment__content::after {
+      content: " ";
+      display: block;
+      clear: both; }
   ul.comments .comment__author {
     font-size: 1.15rem;
     margin-top: 0; }

@@ -16,7 +16,7 @@ Si vous souhaitez copier, modifier ou redistribuer certains contenus, vous devez
 
 ## Sous le capot
 
-Consultant en Web Performance depuis quelques années, j'ai décidé un jour de ne pas être le cordonnier mal chaussé. Depuis, dans une saine compétition avec mon collègue [Nicolas Hoizey](http://nicolas-hoizey.com/), je n'ai de cesse d'en améliorer [les temps de réponse](http://www.webpagetest.org/testlog.php?days=365&filter=borisschapira.com&all=on "Tests de performance WebPageTest lancés sur ce site").
+Spécialisé en Web Performance depuis quelques années, j'ai décidé un jour de ne pas être le cordonnier mal chaussé. Depuis, dans une saine compétition avec mon collègue [Nicolas Hoizey](http://nicolas-hoizey.com/), je n'ai de cesse d'en améliorer [les temps de réponse](http://www.webpagetest.org/testlog.php?days=365&filter=borisschapira.com&all=on "Tests de performance WebPageTest lancés sur ce site").
 
 ### Côté serveur
 
@@ -42,7 +42,7 @@ La durée de lecture est calculée en considérant une vitesse de lecture moyenn
 
 [^rs]: la mienne est d'un peu plus de {{ site.author.reading_speed_fr }} mots en français et de {{ site.author.reading_speed_en }} en anglais (à plus de 80 % de rétention, sinon ça ne compte pas).
 
-J'utilise [node](https://nodejs.org/), et plus particulièrement [gulp](http://gulpjs.com/) pour la compilation des ressources statiques CSS et JS.
+J'utilise [node](https://nodejs.org/) pour la compilation des ressources statiques CSS et JS.
 
 ### Compilation et déploiement
 
@@ -54,18 +54,18 @@ Si tout se passe bien alors Netlify déploie le site généré sur son <abbr tit
 
 Le dernier déploiement a été réalisé le {{ site.time | localize: '%A %-d %B %Y' }}.
 
+C'est également Netlify qui s'occupe de capturer les commentaires pour me les envoyer par mail via [Netlify Forms](https://www.netlify.com/docs/form-handling/).
+
 [^3]: Lire à ce propos [cet excellent article de Romy sur les syntaxes légères](http://romy.tetue.net/syntaxes-legeres-pour-rediger)
 
 ### Côté Client
-
-Le chargement des polices privilégie la vitesse en affichant une première version avant qu'elles soient disponibles puis une seconde version une fois les polices chargées, sans clignotement au remplacement[^font].
-
-[^font]: Les [articles du Filament Group sur le chargement des polices](https://www.filamentgroup.com/lab/font-events.html) sont de très bonnes références si le sujet vous intéresse.
 
 Une partie de mon code CSS et JS est dédiée à l'accessibilité et j'essaie également de contribuer de manière responsable, pour être le plus inclusif possible à la fois envers les personnes, mais aussi envers les contextes (par exemple, j'utilise la librairie [abbr-touch](http://www.growingwiththeweb.com/2014/09/making-abbr-elements-touch-accessible.html) pour permettre aux personnes en situation de mobilité de visualiser la définition d'une abréviation ou d'un acronyme.
 
 <!-- La recherche instantanée est le fruit du branchement du site sur [Algolia](https://www.algolia.com/), une solution très performante d'indexation et de recherche côté client qui a le mérite de proposer un [exemple d'implémentation pour Jekyll](https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/ "Add instant search to your blog or documentation using our Jekyll plugin") qui cadrait parfaitement avec mon besoin. Il faudra néanmoins que je repasse dessus car le code JavaScript nécessaire me semble un peu complexe ([jQuery](https://jquery.com/), [Hogan](http://twitter.github.io/hogan.js/), [MomentJs](http://momentjs.com/)… je dois pouvoir faire plus simple). -->
 
 Afin de contrôler ce qui se passe sur mon site (notamment pour détecter des tentatives d'injections), j'ai positionné un certain nombre de règles [Content Security Policy](https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9/CSP) et des rapports sont enregistrés dans une base de données à chaque infraction[^7].
+
+Une surveillance quotidienne via [Dareboost](https://www.dareboost.com/) sur plusieurs types de pages m'informe des éventuelles régressions de performance par le biais d'alertes configurées.
 
 [^7]: Merci à [Nicolas Hoffman](https://twitter.com/Nico3333fr) de m'avoir sensibilisé à cette problématique durant [sa présentation à Paris Web 2015](http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/ "CSP: Content Security Policy").

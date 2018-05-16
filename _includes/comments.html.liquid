@@ -2,83 +2,83 @@
   Completly snatched from Michael Rose's MadeMistake blog post https://mademistakes.com/articles/improving-jekyll-static-comments/
 {% endcomment %}
 <section class="reactions post-footer">
-  {% if site.repository and site.staticman.branch %}
-    {% if site.data.comments[page.slug] %}
-      <!-- Start static comments -->
-      <div id="comments">
-        <h2>
-          {% if site.data.comments[page.slug].size > 1 %}
-            {{ site.data.comments[page.slug] | size }} {% t commentaires %}
-          {% else %}
-            {% t Commentaire %}
-          {% endif %}
-        </h2>
-        {% if site.data.comments[page.slug].size > 0 %}
-          <ul class="comments">
-          {% assign comments = site.data.comments[page.slug] | where_exp: 'item', "item.replying_to == ''" %}
-          {% assign sortedcomments = comments | sort: 'date' %}
-          {% for comment in sortedcomments %}
-            {% assign index       = forloop.index %}
-            {% assign r           = comment.replying_to %}
-            {% assign replying_to = r | to_integer %}
-            {% assign avatar      = comment.avatar %}
-            {% assign email       = comment.email %}
-            {% assign name        = comment.name %}
-            {% assign url         = comment.url %}
-            {% assign date        = comment.date %}
-            {% assign message     = comment.message %}
-            {% include comment.html.liquid index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message %}
-          {% endfor %}
-          </ul>
+  {% if site.data.comments[page.slug] %}
+    <!-- Start static comments -->
+    <div id="comments">
+      <h2>
+        {% if site.data.comments[page.slug].size > 1 %}
+          {{ site.data.comments[page.slug] | size }} {% t commentaires %}
+        {% else %}
+          {% t Commentaire %}
         {% endif %}
-      </div>
-      <!-- End static comments -->
-    {% endif %}
-
-    {% unless page.comments_locked == true %}
-      <!-- Start new comment form -->
-      <div id="respond">
-        <h3 class="page__section-label">{% t Laisser un commentaire %} <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" class="npe" style="display:none;">{% t Annuler %}</a></small></h3>
-        <form id="comment-form" class="page__form js-form form" method="post" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
-          <fieldset>
-            <label for="comment-form-message"><strong>{% t Commentaire %}</strong> <small></small></label>
-            <textarea type="text" rows="6" id="comment-form-message" name="fields[message]" required spellcheck="true"></textarea>
-          </fieldset>
-          <fieldset>
-            <label for="comment-form-name"><strong>{% t Nom %}</strong></label>
-            <input type="text" id="comment-form-name" name="fields[name]" autocomplete="name" required spellcheck="false">
-          </fieldset>
-          <fieldset>
-            <label for="comment-form-email"><strong>{% t Email %}</strong> <small>({% t facultatif %})</small></label>
-            <input type="email" id="comment-form-email" name="fields[email]" autocomplete="email" spellcheck="false">
-          </fieldset>
-          <fieldset>
-            <label for="comment-form-url"><strong>{% t Site %}</strong> <small>({% t facultatif %})</small></label>
-            <input type="url" id="comment-form-url" name="fields[url]" autocomplete="url"/>
-          </fieldset>
-          <fieldset class="hidden" style="display: none;">
-            <input type="hidden" name="fields[origin]" value="{{ page.url | absolute_url }}">
-            <input type="hidden" id="comment-replying-to" name="fields[replying_to]" value="">
-            <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}">
-          </fieldset>
-          <fieldset>
-            <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.recaptcha.key }}">
-            <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.recaptcha.encrypted_secret }}">
-            <div class="g-recaptcha" data-sitekey="{{ site.recaptcha.key }}"></div>
-
-            <button type="submit" id="comment-form-submit" class="btn">{% t Poster le commentaire %}</button>
-          </fieldset>
-          <p class="info success hidden">
-            {% t Commentaire posté avec succès ! %}
-          </p>
-          <p class="info fail hidden">
-            {% t Houston, on a un problème. %}
-          </p>
-        </form>
-      </div>
-      <!-- End new comment form -->
-    {% else %}
-      <p><em>{% t Les commentaires sont clos. %}</em></p>
-    {% endunless %}
+      </h2>
+      {% if site.data.comments[page.slug].size > 0 %}
+        <ul class="comments">
+        {% assign comments = site.data.comments[page.slug] | where_exp: 'item', "item.replying_to == ''" %}
+        {% assign sortedcomments = comments | sort: 'date' %}
+        {% for comment in sortedcomments %}
+          {% assign index       = forloop.index %}
+          {% assign r           = comment.replying_to %}
+          {% assign replying_to = r | to_integer %}
+          {% assign avatar      = comment.avatar %}
+          {% assign email       = comment.email %}
+          {% assign name        = comment.name %}
+          {% assign url         = comment.url %}
+          {% assign date        = comment.date %}
+          {% assign message     = comment.message %}
+          {% include comment.html.liquid index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message %}
+        {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+    <!-- End static comments -->
   {% endif %}
+
+  {% unless page.comments_locked == true %}
+    <!-- Start new comment form -->
+    <div id="respond">
+      <h3 class="page__section-label">{% t Laisser un commentaire %} <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" class="npe" style="display:none;">{% t Annuler %}</a></small></h3>
+
+      <form id="comment-form" netlify-honeypot="cb" class="page__form js-form form" method="POST" action="comment" data-netlify="true">
+        <fieldset>
+          <label for="comment-form-message"><strong>{% t Commentaire %}</strong> <small></small></label>
+          <textarea type="text" rows="6" id="comment-form-message" name="message" required spellcheck="true"></textarea>
+        </fieldset>
+        <fieldset>
+          <label for="comment-form-name"><strong>{% t Nom %}</strong></label>
+          <input type="text" id="comment-form-name" name="name" autocomplete="name" required spellcheck="false">
+        </fieldset>
+        <fieldset>
+          <label for="comment-form-email"><strong>{% t Email %}</strong> <small>({% t facultatif %})</small></label>
+          <input type="email" id="comment-form-email" name="email" autocomplete="email" spellcheck="false">
+        </fieldset>
+        <fieldset>
+          <label for="comment-form-url"><strong>{% t Site %}</strong> <small>({% t facultatif %})</small></label>
+          <input type="url" id="comment-form-url" name="url" autocomplete="url"/>
+        </fieldset>
+        <fieldset>
+          <label for="comment-form-cb"><strong>{% t Coordonnées de votre planête (uniquement pour les non-humains) %}</strong></label>
+          <input type="text" id="comment-form-cb" name="cb" autocomplete="url"/>
+        </fieldset>
+        <fieldset class="hidden" style="display: none;">
+          <input type="hidden" id="comment-post-url" name="origin" value="{{ page.url | absolute_url }}">
+          <input type="hidden" id="comment-replying-to" name="replying_to" value="">
+          <input type="hidden" id="comment-post-id" name="slug" value="{{ page.slug }}">
+        </fieldset>
+        <fieldset>
+          <div data-netlify-recaptcha="true"></div>
+          <button type="submit" id="comment-form-submit" class="btn">{% t Poster le commentaire %}</button>
+        </fieldset>
+        <p class="info success hidden">
+          {% t Commentaire posté avec succès ! %}
+        </p>
+        <p class="info fail hidden">
+          {% t Houston, on a un problème. %}
+        </p>
+      </form>
+    </div>
+    <!-- End new comment form -->
+  {% else %}
+    <p><em>{% t Les commentaires sont clos. %}</em></p>
+  {% endunless %}
 </section>
