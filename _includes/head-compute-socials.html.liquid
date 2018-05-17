@@ -53,11 +53,11 @@
   
   {% comment %} Image {% endcomment %}
   {% assign imgtitle = socialTitle | url_escape | replace: ' ', '%20' | replace: '.', '%2e' | replace: ',', '%252C' | replace: "'", '%E2%80%99' | replace: '?', '%3F'%}
-  {% capture socialImage %}https://avatars.borisschapira.com/avataaars.png{% endcapture %}
+  {% capture socialImage %}https://avatars.borisschapira.com/avataaars_1200.png{% endcapture %}
   {% if page.main_image %}
     {% capture socialImage %}{{ site.url }}/{{ page.main_image }}{% endcapture %}
   {% else %}
-    {% if page.category %}
+    {% if page.category.size > 0 %}
       {% capture socialImage %}{{ site.url }}/assets/images/category/{{ page.category | slugify }}.jpg{% endcapture %}
     {% endif %}
   {% endif %}
