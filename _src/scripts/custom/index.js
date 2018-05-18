@@ -124,19 +124,4 @@ ready(function () {
             }
         }
     })()
-
-    /***********************************************
-     ***********************************************/
-
-    perfmark(function () {
-        var rc = document.querySelector('.g-recaptcha');
-        if (window.grecaptcha) {
-            window.grecaptcha.render(rc);
-        } else {
-            window.captchaCallback = function () {
-                window.grecaptcha.render(rc);
-            }
-        }
-    }, 'recaptcha');
 });
-performance.measure('mark_js_all', 'mark_declare_js_start', 'mark_recaptcha_end');
