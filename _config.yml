@@ -195,6 +195,7 @@ mermaid:
 reading_speed: 400
 
 cloudinary:
+  logo: avataar
   cloud_name: borisschapira
   presets:
     default:

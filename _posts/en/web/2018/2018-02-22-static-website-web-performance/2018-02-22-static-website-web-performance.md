@@ -8,7 +8,7 @@ tags:
     - 'Performance Web'
     - JAMStack
 locale: en_US
-loadTwitterWjs: true
+cloudinary_logo: dareboost-logo
 ---
 
 For several years now, a new range of solutions have emerged in the web technologies landscape. Static site generators, headless CMS, content infrastructure... these solutions contribute to a global trend. "Static trend", "JAMStack", several names exist but none really covers what is an overall new proposal for web application architecture, and somehow a comeback to the roots of the Web.

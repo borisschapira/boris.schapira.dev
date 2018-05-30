@@ -10,6 +10,7 @@ canonical: 'http://blog.clever-age.com/en/2015/12/14/online-advertising-the-curr
 date: '2015-10-22'
 type: post
 locale: en_US
+cloudinary_logo: clever-logo
 ---
 
 ## A Multifaceted War

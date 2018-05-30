@@ -7,6 +7,7 @@ type: post
 tags:
     - 'Performance Web'
 locale: en_US
+cloudinary_logo: dareboost-logo
 ---
 
 _Artists are not the only ones who suffer from a blank page, so are your users. Their frustration can lead them to abandon your page prematurely. Several techniques can help you to speed up rendering and avoid that problem. One of them is to defer parsing of JavaScript files._
