@@ -2,7 +2,8 @@
 title: "Industrialiser le dév. Front-End"
 target: développeurs·euses qui mangent du HTML
 description: "Qu'on parle d'intégration HTML ou de développement Front-End, on ne s'outille plus en 2015 comme en 2005. De nombreux outils existent désormais pour faciliter les processus de démarrage, composition, construction et déploiement. Prenons quelques minutes pour en parler."
-events: 
+last_date: 2015-10-16
+events:
   - name: "Bdx.IO 2015"
     date: 2015-10-16
 ---

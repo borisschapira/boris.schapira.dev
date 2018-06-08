@@ -2,6 +2,7 @@
 title: "La Performance Web, pourquoi et surtout, comment ?"
 target: gens du Web qui veulent que leurs sites aillent plus vite
 description: "Avec le déplacement d'un certain nombre d'usages vers des périphérique nomades (téléphones, montres, appareils connectés), la fluidité d'utilisation devient une problématique critique. La performance Web est une des composantes de cette fluidité. Nous verrons ensemble comment l'optimiser. Ceci étant, suivant l’organisation et la culture de votre entreprise, conserver ce gain dans le temps peut être délicat et tenir davantage de la conduite du changement que de l’identification et l'implémentation d'optimisations."
+last_date: 2012-05-25
 events: 
   - name: "Sud Web 2012"
     date: 2012-05-25
