@@ -2,6 +2,7 @@ $color-complement: complement($color-main);
 $color-complement-faded: lighten($color-complement, 40);
 $color-gray: rgb(112, 112, 112);
 $color-lightgray: lighten($color-gray, 40 - lightness($color-main));
+$color-ins-bg: lighten($color-main, 80 - lightness($color-main));
 $color-bg: lighten($color-main, 99 - lightness($color-main));
 $sidebar-size: 14rem;
 @import "vendor/poole",
@@ -355,10 +356,23 @@ html .content .post .p-header .p-author {
 	ins {
 		padding: 3px;
 		text-decoration: none;
-		border: 1px solid $color-lightgray;
+		border: 1px dashed $color-lightgray;
 		&.bloc {
 			display: block;
 			padding: 15px;
+			position: relative;
+
+			&::after {
+				content: attr(datetime);
+				position: absolute;
+				padding: 5px;
+				font-size: 0.8em;
+				right: 0;
+				bottom: 0;
+				background-color: $color-ins-bg;
+				border-left: 1px dashed $color-lightgray;
+				border-top: 1px dashed $color-lightgray;
+			}
 		}
 	}
 }

@@ -1,6 +1,6 @@
 ---
 title: 'Guide de survie aux discussions'
-date: '2017-02-14'
+date: '2018-06-20'
 type: post
 locale: fr_FR
 tags:
@@ -21,6 +21,11 @@ Une **discussion** est un échange entre plusieurs personnes qui tentent de s’
 
 Le discutant accepte-t-il la possibilité de changer d’avis ?  
 **Non** → Arrêt de la discussion.
+
+<ins class="bloc" datetime="2018-06-20">Le discutant accepte-t-il d'expliciter la preuve lui permettant de commencer à douter, ainsi que les critères de crédibilitié lui permettant de considérer cette preuve comme valide ?[^nt]<br/>
+**Non** → Arrêt de la discussion.</ins>
+
+[^nt]: "[Critère de Neil deGrasse Tyson](https://www.youtube.com/watch?time_continue=60&v=Zni00B36f7E)", tel que remonté sur Twitter par [Cahnory ツ](https://twitter.com/cahnory).
 
 Le discutant cesse-t-il d’utiliser un argument qui a été invalidé ?  
 **Non** → Arrêt de la discussion.

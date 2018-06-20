@@ -883,10 +883,21 @@ html .content .post .p-header .p-author {
 .post-content ins {
   padding: 3px;
   text-decoration: none;
-  border: 1px solid #8a8a8a; }
+  border: 1px dashed #8a8a8a; }
   .post-content ins.bloc {
     display: block;
-    padding: 15px; }
+    padding: 15px;
+    position: relative; }
+    .post-content ins.bloc::after {
+      content: attr(datetime);
+      position: absolute;
+      padding: 5px;
+      font-size: 0.8em;
+      right: 0;
+      bottom: 0;
+      background-color: #fa9ecc;
+      border-left: 1px dashed #8a8a8a;
+      border-top: 1px dashed #8a8a8a; }
 
 footer .wrap {
   margin-right: 3em;
