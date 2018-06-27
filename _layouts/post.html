@@ -17,7 +17,15 @@ layout: default
 {% endif %}
 
 {% assign related_locale = site.related_posts | where:"locale", page.locale %}
-{% include post_related.html.liquid posts=related_locale %}
+{% assign related_locale_notnav = "" | split:"" %}
+{% for apost in related_locale %}
+  {% unless page.prev_context and apost.url==page.prev_context.url %}
+    {% unless page.next_context and apost.url==page.next_context.url %}
+      {% assign related_locale_notnav = related_locale_notnav | push: apost %}
+    {% endunless %}
+  {% endunless %}
+{% endfor %}
+{% include post_related.html.liquid posts=related_locale_notnav %}
 
 {% if page.comments == true %}
   {% include comments.html.liquid %}
