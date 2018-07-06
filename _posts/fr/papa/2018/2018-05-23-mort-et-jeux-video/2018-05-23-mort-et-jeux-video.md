@@ -15,7 +15,7 @@ Madame,
 
 Merci de nous souligner le risque que vous envisagez lorsque vous voyez notre fils "parler de la mort", et d'y associer mon activité vidéoludique.
 
-Oui, nous parlons de la mort avec les enfants. Leur mère travaille en EHPA et avant, en EHPAD. C'est donc même un sujet qui nous touche. Et parce que nous considérons que sur ce sujet comme sur d'autre, il n'y a pas à avoir de tabous, nous en parlons sans déni, ni secret, et surtout sans honte, y compris de nos propres angoisses. Les enfants savent que leurs proches mourront, que certain·e·s sont déjà morts, que nous mourrons et qu'eux aussi mourrons, un jour, de préférence dans beaucoup, beaucoup de dodos.
+Oui, nous parlons de la mort avec les enfants. Leur mère travaille en <abbr title="Établissement d'hébergement pour personnes âgées">EHPA</abbr> et avant, en <abbr title="Établissement d'hébergement pour personnes âgées dépendantes">EHPAD</abbr>. C'est donc même un sujet qui nous touche. Et parce que nous considérons que sur ce sujet comme sur d'autre, il n'y a pas à avoir de tabous, nous en parlons sans déni, ni secret, et surtout sans honte, y compris de nos propres angoisses. Les enfants savent que leurs proches mourront, que certain·e·s sont déjà morts, que nous mourrons et qu'eux aussi mourrons, un jour, de préférence dans beaucoup, beaucoup de dodos.
 
 Nous parlons de la mort quand ils nous le demandent ou quand ils l'évoquent de manière trop légère. Nous en parlons toujours avec calme et tendresse, car nous considérons que la mort est une composante essentielle de la vie. Nous en parlons comme des feuilles qui tombent en automne ou des papillons qui sortent de leurs cocons. Nous parlons aussi des différentes choses qui entourent la mort : l'absence de tout ou la vie après la mort, le souvenir du défunt ou de la défunte chez les survivants, l'héritage laissé par les bonnes ou mauvaises actions réalisées de son vivant…
 
@@ -32,7 +32,7 @@ Par exemple, mon fils de 5 ans, qui adore les machines animales de Horizon Zero 
 {% capture img_alt %}Une créature en Lego, proche du tyranosaure, mais avec un rictus très forcé et des éléments colorés sur la gueule et les cuisses, lui donnant l'aspect d'être hybride avec une machine.{% endcapture %}
 {% capture img_caption %}[Le Rigoleur](https://www.flickr.com/photos/borisschapira/42255032995/in/datetaken-public/ "Voir la photo en grand sur Flickr"){% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/papa/2018-05-23/rigoleur.jpg"
+path="/assets/images/papa/2018-05-23/hzd-rigoleur.jpg"
 alt=img_alt
 caption=img_caption
 %}
@@ -42,7 +42,7 @@ Il adore aussi que l'héroïne du jeu puisse changer de tenue et réalise des va
 {% capture img_alt %}6 constructions en Lego, suggérant vaguement une forme humaine. Les briques et les couleurs utilisées varient.{% endcapture %}
 {% capture img_caption %}[Aloy, en Lego, en différentes tenues : tenue "de glace", tenue "de chaud", tenue avec des cornes, tenue "bandoulière", tenue "casque de gel" et "armure rouge"](https://www.flickr.com/photos/borisschapira/42440919944/in/datetaken-public/ "Voir la photo en grand sur Flickr"){% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/papa/2018-05-23/tenues-aloy.jpg"
+path="/assets/images/papa/2018-05-23/hzd-tenues-aloy.jpg"
 alt=img_alt
 caption=img_caption
 %}
