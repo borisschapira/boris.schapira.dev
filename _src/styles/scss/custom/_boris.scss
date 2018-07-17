@@ -284,8 +284,8 @@ html .content .post .p-header .p-author {
 				max-width: 100%;
 				border: none;
 			}
-			&.gif:hover::before,
-			&.gif:focus::before {
+			&.gif.playing::before,
+			&.gif.playing::before {
 				opacity: 0;
 			}
 			&.gif::before {

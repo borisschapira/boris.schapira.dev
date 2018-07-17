@@ -829,7 +829,7 @@ html .content .post .p-header .p-author {
       width: auto;
       max-width: 100%;
       border: none; }
-    .post-content figure > .videoWrapper.gif:hover::before, .post-content figure > .videoWrapper.gif:focus::before {
+    .post-content figure > .videoWrapper.gif.playing::before, .post-content figure > .videoWrapper.gif.playing::before {
       opacity: 0; }
     .post-content figure > .videoWrapper.gif::before {
       position: absolute;

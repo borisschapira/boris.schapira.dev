@@ -83,6 +83,7 @@ ready(function () {
     (function videoPlayPause() {
 
         perfmark(function () {
+            var is4G = navigator.connection.effectiveType == "4g";
             var videos = document.querySelectorAll('.videoWrapper.gif');
             videos.forEach(function (item) {
                 var insideVid = item.querySelector('video');
@@ -91,13 +92,14 @@ ready(function () {
                 item.style.height = insideVid.clientHeight + 'px';
                 item.style.width = insideVid.clientWidth + 'px';
                 insideVid.style.height = insideVid.clientHeight + 'px';
+                if (is4G) {
+                    insideVid.setAttribute('preload', 'auto');
+                }
 
-                item.addEventListener('mouseover', playVideo, false);
                 item.addEventListener('click', toggleVideo, false);
-                item.addEventListener('mouseout', pauseVideo, false);
             });
         }, 'video_hover');
-
+    
         function playVideo(e, v) {
             var video = v || this.querySelector('video');
             if (!video.classList.contains('loading-started')) {
@@ -109,19 +111,21 @@ ready(function () {
             }
             video.load();
         }
-
+    
         function pauseVideo(e, v) {
             var video = v || this.querySelector('video');
             video.pause();
         }
-
+    
         function toggleVideo(e, v) {
             var video = v || this.querySelector('video');
             if (video.paused) {
+                video.parentElement.classList.add('playing');
                 playVideo(e, video);
             } else {
                 pauseVideo(e, video);
+                video.parentElement.classList.remove('playing');
             }
         }
-    })()
+    })();
 });
