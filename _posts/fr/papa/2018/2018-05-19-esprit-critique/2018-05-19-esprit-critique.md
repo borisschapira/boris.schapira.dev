@@ -5,7 +5,7 @@ type: post
 locale: fr_FR
 ---
 
-Mes garçons, grandissent, ce qui me permet d'exercer leur esprit critique. Nous avons donc un jeu : ke leur raconte des trucs absurdes avec un air très sérieux, et il me disent si c'est vrai ou pas, avec des explications.
+Mes garçons, grandissent, ce qui me permet d'exercer leur esprit critique. Nous avons donc un jeu : je leur raconte des trucs absurdes avec un air très sérieux, et il me disent si c'est vrai ou pas, avec des explications.
 
 <!-- more -->
 
