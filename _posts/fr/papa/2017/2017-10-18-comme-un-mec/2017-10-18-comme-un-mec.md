@@ -33,6 +33,6 @@ J'ai essayé de trouver une réponse intelligente mais tout ce qui m'est venu à
 > Parce que je crois qu'elles valent mieux que ça, mon cœur.
 
 {% include video_as_a_gif.html.liquid
-slug="fools"
+url="/assets/images/papa/2017-10-18/fools"
 alt="Wonder Woman regarde Flash et Green Lantern et leur dire que les hommes sont des imbéciles."
 %}
