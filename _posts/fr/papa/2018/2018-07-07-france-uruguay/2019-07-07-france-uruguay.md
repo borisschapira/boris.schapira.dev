@@ -42,7 +42,7 @@ J'explique que non, que c'est le public. Ça les ennuie de plus en plus.
 
 Le petit, qui est persuadé d'avoir reconnu le père d'un copain dans l'équipe de France, commence les pronostics :
 
-> Moi, je pense que c'est les blancs qui vont gagner. Ils ont plus de tatouages. Mais je suis un peu triste parce que dans les bleus il y a le papa d'Aloïs
+> Moi, je pense que c'est les bleus qui vont gagner. Ils ont plus de tatouages. Mais je suis un peu triste parce que dans les blancs [qui sont en fait les Bleus], il y a le papa d'Aloïs
 
 Mais le grand n'est pas du même avis :
 
