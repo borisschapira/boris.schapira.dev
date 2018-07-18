@@ -9,7 +9,7 @@ Au supermarché, un jeu de figurines "Justice League", dont Wonder Woman est, as
 
 <!-- more -->
 
-Mon petit dernier, [très fan de Wonder Woman](https://borisschapira.com/2017/10/et-la-reine/), n'a pas l'air choqué.
+Mon petit dernier, [très fan de Wonder Woman](/2017/10/et-la-reine/), n'a pas l'air choqué.
 
 {% capture alt_text%}Jush Hutcherson dit "Obviously"{% endcapture %}
 {% capture caption_text%}"Bah ouais, c'est normal !"{% endcapture %}
@@ -19,7 +19,7 @@ alt=alt_text
 caption=caption_text
 %}
 
-Un peu choqué de sa réponse "[de mec](https://borisschapira.com/2017/10/comme-un-mec/)", je le regarde, interloqué, puis lui demande une explication.
+Un peu choqué de sa réponse "[de mec](/2017/10/comme-un-mec/)", je le regarde, interloqué, puis lui demande une explication.
 
 > Bah, c'est simple ! Pour faire les jouets, les héros doivent s'arrêter pour qu'on les regarde bien de partout et qu'on les fait en bonshommes. Wonder Woman, elle est bien trop occupée à sauver le monde, alors ils ont pas pu !
 

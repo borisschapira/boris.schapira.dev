@@ -34,7 +34,7 @@ caption="Chérie, ce GIF est pour toi."
 
 Problème : pour l'instant, c'est pile à la bonne longueur pour qu'il se retrouve avec une frange dans les yeux. Je suis donc allé au supermarché avec lui et nous avons choisi des serre-têtes.
 
-Il a pris le paquet où il y en avait deux roses ([il adore le rose](https://borisschapira.com/2015/11/son-choix/)), et a voulu le mettre ce matin pour aller à l'école. Sauf que là-bas, d'après la maitresse, un ou une (ce n'est pas clair) camarade s'est moqué de lui, lui disant que c'était pour les filles.
+Il a pris le paquet où il y en avait deux roses ([il adore le rose](/2015/11/son-choix/)), et a voulu le mettre ce matin pour aller à l'école. Sauf que là-bas, d'après la maitresse, un ou une (ce n'est pas clair) camarade s'est moqué de lui, lui disant que c'était pour les filles.
 
 Ni une, ni deux, il lui a donc répondu :
 
