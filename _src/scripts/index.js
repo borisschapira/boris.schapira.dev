@@ -244,7 +244,7 @@ ready(function () {
     (function videoPlayPause() {
 
         perfmark(function () {
-            var is4G = navigator.connection.effectiveType == "4g";
+            var is4G = navigator && navigator.connection && navigator.connection.effectiveType && navigator.connection.effectiveType == "4g";
             var videos = document.querySelectorAll('.videoWrapper.gif');
             videos.forEach(function (item) {
                 var insideVid = item.querySelector('video');
