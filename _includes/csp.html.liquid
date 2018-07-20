@@ -1,0 +1,16 @@
+{% capture csp-string %}
+{% assign directives = site.data.csp | sort: 'name' %}
+{% for directive in directives %}{{ directive.name }}
+    {% assign directive_values = "" | split: ',' %}
+    {% if include.specific %}
+        {% capture expression %}item.for == '{{ include.specific }}'{% endcapture %}
+        {% assign specific_values = directive.values | where_exp: 'item', expression %}
+        {% if specific_values %}{% for item in specific_values %}{% assign directive_values = directive_values | push: item.value %}{% endfor %}{% endif %}
+    {% endif %}
+    {% if directive.values %}
+        {% assign general_values = directive.values | where_exp: 'item', 'item.for == nil' %}
+        {% if general_values %}{% for item in general_values %}{% assign directive_values = directive_values | push: item.value %}{% endfor %}{% endif %}
+    {% endif %}
+    {{ directive_values | join: ' '}};
+{% endfor %}
+{% endcapture %}{{ csp-string | strip_newlines | replace: "  ", " " | replace: "  ", " " | replace: "  ", " " | replace: "  ", " " | replace: "  ", " " }}

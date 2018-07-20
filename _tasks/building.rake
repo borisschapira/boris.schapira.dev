@@ -26,9 +26,8 @@ namespace :build do
 
   desc 'Generate for deployment (but do not deploy)'
   task :generate, %i[env deployment_configuration] => [:clean, 'prebuild:config', 'prebuild:test'] do |_t, args|
-    args.with_defaults(env: 'prod', deployment_configuration: 'deploy')
+    args.with_defaults(env: 'prod')
     config_file = "_config_#{args[:env]}.yml"
-    deploy_file = "_config_#{args[:deployment_configuration]}.yml"
     if rake_running
       puts "\n\nWarning! An instance of rake seems to be running (it might not be *this* Rakefile, however).\n"
       puts "Building while running other tasks (e.g., preview), might create a website with broken links.\n\n"
@@ -39,7 +38,7 @@ namespace :build do
     end
 
     puts 'Building…'
-    jekyll("build --config _config.yml,#{config_file},#{deploy_file}", 'production')
+    jekyll("build --config _config.yml,#{config_file}", 'production')
     puts 'Cleaning BOMs…'
     sh './scripts/postprocess.sh ./_site'
   end

@@ -1,0 +1,44 @@
+---
+layout: default
+title: Search
+i18n-key: search
+permalink: /search/
+description: "Lost? Perhaps a dynamic and fast search will help you find your marks."
+sitemap: false
+robots:
+  noindex: true
+  nofollow: true
+---
+
+<h1>Search</h1>
+
+<p>
+    Lost? Perhaps a dynamic and fast search will help you find your marks.
+</p>
+
+
+{% raw %}
+<template data-proofer-ignore id="hit-template">
+    <h2><a href="{{{url}}}">{{{_highlightResult.title.value}}}</a></h2><p>{{{_highlightResult.content.value}}}</p>
+</template>
+{% endraw %}
+<template id="algolia-app-id">{{ site.algolia.application_id }}</template>
+<template id="algolia-api-key">{{ site.algolia.api_key }}</template>
+<template id="algolia-index-name">{{ site.algolia.index_name }}</template>
+
+
+<div id="search-box">
+    <!-- SearchBox widget will appear here -->
+</div>
+
+<div id="refinement-list">
+    <!-- RefinementList widget will appear here -->
+  </div>
+
+<div id="hits">
+    <!-- Hits widget will appear here -->
+</div>
+
+<div id="pagination-container">
+    <!-- Pagintation will appear here -->
+</div>

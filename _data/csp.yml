@@ -1,0 +1,136 @@
+- name: 'base-uri'
+  values:
+    - value: "'self'"
+      comment: "This domain"
+- name: default-src
+  values:
+    - value: "'none'" 
+      comment: "This is the default fallback. Make sure that it does not open new rights"
+- name: object-src
+  values:
+    - value: "'self'"
+      comment: "This domain"
+- name: script-src
+  values:
+    - value: "'self'"
+      comment: "This domain"
+    - value: "'unsafe-eval'"
+      for: "search"
+    - value: "'sha256-8KNm+dQAGYbDur5TAQP2NeGj++e8hwKuri0+mzPyYpY='"
+    - value: "'sha256-+ArGygu8+CdUyjjMslltMLhXbQKZwRbDfIaipXR9sNg='"
+    - value: "'sha256-jbhLOhRS3SvH8L2A/yR9exGXTjfQ0ZB8becsU1p6NF8='"
+    - value: "'sha256-V8SBer6vQYIdb9s3Mk1MGe3ChfXQopwjko6Az6HcMBI='"
+    - value: "'sha256-LDnlgL6UeEG0Blbxa7sjb1atHsbcqtZeyWPqKo40rzo='"
+    - value: "'sha256-wRiYRnaaEyqKxosvlmLc/4vtkkRUZ+KitW7yW3yCEFc='"
+    - value: "'sha256-d6TAm1ZLPEx/Uk9IDtshxzeaSt9eSP6JqV9LR6JeR/M='"
+    - value: "'sha256-zDmGctlEN4JPwYUNPNKBfQXeG4jlALO5SknIxHg4+0k='"
+    - value: "'sha256-8VulMXL1T5m5C8fhSKxOhMxPm7uh1+eym0FFVEXk08Q='"
+    - value: "'sha256-l0q7AnMSITSg78ACMeL+J3aLNPAwBRSMeL9sPnxuufk='"
+    - value: "'sha256-/nbpAO9mnvMAIAAfkT+76AExqE6rOobRTr2f7L1IAIk='"
+    - value: "*.twimg.com"
+    - value: "*.algolianet.com"
+      comment: "Algolia – for search"
+    - value: "squirt.io"
+    - value: "speakerdeck.com"
+    - value: "blackhole.webpagetest.org"
+    - value: "syndication.twitter.com"
+    - value: "www.google-analytics.com"
+    - value: "ajax.googleapis.com"
+    - value: "cdn.jsdelivr.net"
+    - value: "platform.twitter.com"
+    - value: "gist.github.com"
+    - value: "www.gstatic.com"
+    - value: "www.google.com"
+- name: style-src
+  values:
+    - value: "'unsafe-inline'"
+      comment: "Inline styles"
+    - value: "'self'"
+      comment: "This domain"
+    - value: "squirt.io"
+    - value: "platform.twitter.com"
+    - value: "fonts.googleapis.com"
+- name: img-src
+  values:
+    - value: "'self'"
+      comment: "This domain"
+    - value: "data:"
+      comment: "Inline images"
+    - value: "res.cloudinary.com"
+      comment: "Cloudinary proxy images"
+    - value: "avatars.borisschapira.com"
+      comment: "My avatars"
+    - value: "www.gravatar.com"
+      comment: "Gravatars, for comments"
+    - value: "*.ytimg.com *.twimg.com platform.twitter.com syndication.twitter.com"
+      comment: "Twitter avatars and inclusions"
+    - value: "*.googleusercontent.com"
+      comment: "Google user contents (for maps)"
+    - value: ""
+- name: child-src
+  values:
+    - value: "'self'"
+      comment: "This domain"
+    - value: "*.vimeo.com"
+      comment: "Video from Vimeo"
+    - value: "*.youtube-nocookie.com"
+      comment: "Video from Youtube, without cookies set"
+    - value: "*.dailymotion.com"
+      comment: "Video from dailymotion"
+    - value: "open.spotify.com embed.spotify.com"
+      comment: "Players from Spotify"
+    - value: "squirt.io"
+      comment: "Squirt word player"
+    - value: "static01.nyt.com"
+      comment: "NYT videos"
+    - value: "bandcamp.com"
+      comment: "Bandcamp songs"
+    - value: "platform.twitter.com syndication.twitter.com"
+      comment: "Twitter"
+    - value: "www.google.com"
+      comment: "Google"
+- name: frame-src
+  values:
+    - value: "*.vimeo.com"
+    - value: "www.instagram.com"
+    - value: "www.slideshare.net"
+    - value: "twitter.com"
+    - value: "fusiontables.googleusercontent.com"
+    - value: "fusiontables.google.com"
+    - value: "www.google.com"
+    - value: "disqus.com"
+    - value: "www.youtube-nocookie.com"
+    - value: "syndication.twitter.com"
+    - value: "platform.twitter.com"
+- name: frame-ancestors
+  values:
+    - value: "'self'"
+- name: connect-src
+  values:
+    - value: "'self'"
+    - value: "*.algolianet.com"
+      comment: "Algolia – for search"
+    - value: "cdn.jsdelivr.net"
+    - value: "www.google-analytics.com"
+    - value: "api.staticman.net"
+- name: font-src
+  values:
+    - value: "'self'"
+    - value: "cdnjs.cloudflare.com"
+    - value: "fonts.gstatic.com"
+    - value: "fonts.googleapis.com"
+- name: form-action
+  values:
+    - value: "'self'"
+    - value: "syndication.twitter.com"
+- name: manifest-src
+  values:
+    - value: "'self'"
+- name: media-src
+  values:
+    - value: "'self'"
+- name: worker-src
+  values:
+    - value: "'none'"
+- name: block-all-mixed-content
+- name: upgrade-insecure-requests

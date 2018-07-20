@@ -8,22 +8,6 @@ require 'time'
 require 'yaml'
 
 namespace :postbuild do
-  desc 'Deploy to remote server'
-  task :deploy, [:env, :deployment_configuration] do |_t, args|
-    args.with_defaults(env: 'prod', deployment_configuration: 'deploy')
-    config_file = "_config_#{args[:deployment_configuration]}.yml"
-
-    text = File.read(config_file)
-    matchdata = text.match(/^deploy_dir: (.*)$/)
-    if matchdata
-      deploy_dir = matchdata[1]
-      sh "rsync --delete-after --exclude .ssh -crvzlOt -e ssh _site/ #{deploy_dir}"
-    else
-      puts 'Error! deploy_url not found in _config_deploy.yml'
-      exit 1
-    end
-  end
-
   task test: ['test:kiss']
 
   namespace :test do

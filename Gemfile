@@ -29,3 +29,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-tagging-related_posts'
 end
+
+gem "nokogiri", "~> 1.8"
