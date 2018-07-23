@@ -71,7 +71,7 @@ GEM
       fastimage (~> 2.0)
       jekyll (~> 3.6)
     jekyll-mermaid (1.0.0)
-    jekyll-microtypo (0.1.6)
+    jekyll-microtypo (0.2.1)
       jekyll (>= 3.0, < 4.0)
     jekyll-paginate-v2 (1.9.4)
       jekyll (~> 3.0)
