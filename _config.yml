@@ -207,7 +207,6 @@ dareboost:
 
 # Other parameters are defined through environment variables
 algolia:
-  max_record_size: 20000
   application_id: 97EL687MDM
   index_name: jekyll
   api_key: 121a196f122a96cba48609ba6cee2839
