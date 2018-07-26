@@ -244,7 +244,11 @@ ready(function () {
     (function videoPlayPause() {
 
         perfmark(function () {
-            var is4G = navigator && navigator.connection && navigator.connection.effectiveType && navigator.connection.effectiveType == "4g";
+            var authorize_download = false;
+            var connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+            if (connection && typeof connection.effectiveType != 'undefined') {
+                authorize_download = connection.effectiveType == "4g";
+            }
             var videos = document.querySelectorAll('.videoWrapper.gif');
             videos.forEach(function (item) {
                 var insideVid = item.querySelector('video');
@@ -253,7 +257,7 @@ ready(function () {
                 item.style.height = insideVid.clientHeight + 'px';
                 item.style.width = insideVid.clientWidth + 'px';
                 insideVid.style.height = insideVid.clientHeight + 'px';
-                if (is4G) {
+                if (authorize_download) {
                     insideVid.setAttribute('preload', 'auto');
                 }
 
