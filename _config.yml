@@ -219,4 +219,4 @@ algolia:
 compress_html:
   ignore:
     envs:
-      - 'developpement'
+      - 'development'
