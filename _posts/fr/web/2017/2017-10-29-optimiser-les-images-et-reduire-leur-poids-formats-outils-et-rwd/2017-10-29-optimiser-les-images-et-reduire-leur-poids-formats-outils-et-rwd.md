@@ -97,7 +97,7 @@ url="/assets/images/2017-10-29/lenny"
 alt="Capture des Chrome DevTools où l'on voit une vidéo être jouée comme un GIF et à côté, le code HTML de cette vidéo."
 %}
 
-Si vous avez néanmoins besoin du format GIF, sachez qu'un algorithme de compression existe aussi : gifsicle. Il peut être très utile pour manipuler les contenus GIF : réduire la palette de couleurs, redimensionner, couper et rogner... J'utilise parfois gifsicle pour encoder de courts enregistrements de mon écran et les intégrer dans des emails, car beaucoup de clients mail ne peuvent toujours pas lire les vidéos intégrées aux emails.
+Si vous avez néanmoins besoin du format GIF, sachez qu'un outil de compression en ligne de commande existe aussi : gifsicle. Il peut être très utile pour manipuler les contenus GIF : réduire la palette de couleurs, redimensionner, couper et rogner... J'utilise parfois gifsicle pour encoder de courts enregistrements de mon écran et les intégrer dans des emails, car beaucoup de clients mail ne peuvent toujours pas lire les vidéos intégrées aux emails.
 
 ## Servir la bonne taille de fichier en fonction du contexte
 

@@ -100,7 +100,7 @@ url="/assets/images/2017-10-29/lenny"
 alt="Screencast of the ChromeDevTools. We can see a video looping like a GIF, but the code clearly indicates its a video."
 %}
 
-If you still need the GIF format, be aware that a compression algorithm also exists: gifsicle. It can be very useful for manipulating GIF content: reduce the color palette, resize, cut and crop... I sometimes use Gifsicle to encode short recordings of my screen and integrate them into emails, because many mail clients are not able to read embedded videos.
+If you still need the GIF format, be aware that a command-line compression tool also exists: gifsicle. It can be very useful for manipulating GIF content: reduce the color palette, resize, cut and crop... I sometimes use Gifsicle to encode short recordings of my screen and integrate them into emails, because many mail clients are not able to read embedded videos.
 
 ## Serve the right file size regarding to the context
 
