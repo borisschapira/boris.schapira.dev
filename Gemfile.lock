@@ -76,6 +76,7 @@ GEM
     jekyll-paginate-v2 (1.9.4)
       jekyll (~> 3.0)
     jekyll-postfiles (2.1.1)
+    jekyll-pwa-plugin (2.0.1)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-sitemap (1.2.0)
@@ -141,6 +142,7 @@ DEPENDENCIES
   jekyll-microtypo
   jekyll-paginate-v2 (~> 1.8, >= 1.8.1)
   jekyll-postfiles (~> 2.1)
+  jekyll-pwa-plugin
   jekyll-sitemap
   jekyll-tagging-related_posts
   nokogiri (~> 1.8)

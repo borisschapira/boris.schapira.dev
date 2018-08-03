@@ -187,6 +187,17 @@ jekyll-archives:
     year: "/:year/"
     month: "/:year/:month/"
 
+pwa:
+  dest_js_directory: assets/js
+  precache_recent_posts_num: 10
+  precache_glob_patterns:
+    - "**/*.{html,js,css,,svg,woff2,jpg,mp4}"
+    - "/index.html"
+    - "/en/index.html"
+    - "/web/index.html"
+    - "/papa/index.html"
+    - "/citoyen/index.html"
+
 # Graphiques
 mermaid:
   src: '/assets/scripts/vendors/mermaid.min.js'

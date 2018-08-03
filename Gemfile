@@ -26,6 +26,7 @@ group :jekyll_plugins do
   gem 'jekyll-microtypo'
   gem 'jekyll-paginate-v2', '~> 1.8', '>= 1.8.1'
   gem 'jekyll-postfiles', '~> 2.1'
+  gem 'jekyll-pwa-plugin'
   gem 'jekyll-sitemap'
   gem 'jekyll-tagging-related_posts'
 end
