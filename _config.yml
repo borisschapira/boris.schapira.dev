@@ -191,7 +191,7 @@ pwa:
   dest_js_directory: assets/js
   precache_recent_posts_num: 10
   precache_glob_patterns:
-    - "**/*.{html,js,css,,svg,woff2,jpg,mp4}"
+    - "**/*.{html,js,css,,svg,woff2,jpg}"
     - "/index.html"
     - "/en/index.html"
     - "/web/index.html"
