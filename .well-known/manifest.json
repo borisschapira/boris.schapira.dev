@@ -1,5 +1,6 @@
 {
-    "name": "Boris",
+    "name": "BorisSchapira.com",
+    "short_name": "BS",
     "icons": [
         {
             "src": "/android-chrome-192x192.png?v=E6jXRBAgkK",
@@ -12,6 +13,7 @@
             "type": "image/png"
         }
     ],
+    "start_url": "/",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone"
