@@ -21,7 +21,7 @@ Il a peur ou aucune expérience. Son objectif premier : obtenir des résultats r
 
 ### Le débutant avancé
 
-Il continue à se focaliser sur des tâches mais commence à prendre du recul sur le contexte, en extrapolant à partir d'exemples. Cela lui permet aussi de prendre du recul sur ses compétences et de commencer à affirmer ce qu'il sait faire, et d'envisager ce qui lui reste à apprendre. Son exécution dépend encore beaucoup de règles et de consignes. En cas d'échec, il imputer facilement ses erreurs sur ces dernières.
+Il continue à se focaliser sur des tâches mais commence à prendre du recul sur le contexte, en extrapolant à partir d'exemples. Cela lui permet aussi de prendre du recul sur ses compétences et de commencer à affirmer ce qu'il sait faire, et d'envisager ce qui lui reste à apprendre. Son exécution dépend encore beaucoup de règles et de consignes. En cas d'échec, il imputera facilement ses erreurs sur ces dernières.
 
 ### Le compétent
 
