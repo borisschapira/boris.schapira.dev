@@ -27,6 +27,8 @@
     - value: "'sha256-8VulMXL1T5m5C8fhSKxOhMxPm7uh1+eym0FFVEXk08Q='"
     - value: "'sha256-l0q7AnMSITSg78ACMeL+J3aLNPAwBRSMeL9sPnxuufk='"
     - value: "'sha256-/nbpAO9mnvMAIAAfkT+76AExqE6rOobRTr2f7L1IAIk='"
+    - value: "'sha256-4RZbsHZj3mmis52ABTtkFzcAV9UxhvUE0NeKQMXPHrY='"
+      comment: "Jekyll PWA Plugin SW declaration"
     - value: "*.twimg.com"
     - value: "*.algolianet.com"
       comment: "Algolia – for search"
@@ -131,6 +133,6 @@
     - value: "'self'"
 - name: worker-src
   values:
-    - value: "'none'"
+    - value: "'self'"
 - name: block-all-mixed-content
 - name: upgrade-insecure-requests
