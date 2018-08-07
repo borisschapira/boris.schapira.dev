@@ -8,7 +8,7 @@
   X-Champcevinel: "Squirrel powa!"
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
-  Report-To: { "group"; "csp-endpoint", "max-age": 10886400, "endpoints": [ "url": "https://2f0f00761cfb9bd36115769889b63fb2.report-uri.com/r/d/csp/enforce"]}
+  Report-To: { "group"; "csp-endpoint", "max-age": 10886400, "endpoints": [ "url": "https://borisschapira.report-uri.com/r/d/csp/enforce"]}
   Content-Security-Policy: {% include csp.html.liquid %}
 
 /search
