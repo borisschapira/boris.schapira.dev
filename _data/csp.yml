@@ -1,3 +1,6 @@
+- name: 'report-to'
+  values:
+    - value: "csp-endpoint"
 - name: 'base-uri'
   values:
     - value: "'self'"
