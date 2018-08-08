@@ -1,4 +1,12 @@
+---
+---
+
 // service-worker.js
+{% if jekyll.environment == "development" %}
+    workbox.setConfig({
+        debug: true
+    });
+{% endif %}
 
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({

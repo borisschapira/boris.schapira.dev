@@ -189,14 +189,9 @@ jekyll-archives:
 
 pwa:
   dest_js_directory: assets/js
-  precache_recent_posts_num: 10
+  precache_recent_posts_num: 5
   precache_glob_patterns:
-    - "**/*.{html,js,css,,svg,woff2,jpg}"
-    - "/index.html"
-    - "/en/index.html"
-    - "/web/index.html"
-    - "/papa/index.html"
-    - "/citoyen/index.html"
+    - "assets/{scripts,fonts}/**/*.{html,js,css,,svg,woff2,jpg}"
 
 # Graphiques
 mermaid:
