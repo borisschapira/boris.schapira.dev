@@ -1,3 +1,4 @@
+<!-- nomicrotypo -->
 {% if include.localpath %}
     {% capture path %}{{ page.url }}{{include.localpath}}{% endcapture %}
 {% else %}
@@ -9,3 +10,4 @@
 %}{% else %}{% cloudinary {{ path }}
     alt="{{ include.alt | escape }}"
 %}{% endif %}
+<!-- endnomicrotypo -->
