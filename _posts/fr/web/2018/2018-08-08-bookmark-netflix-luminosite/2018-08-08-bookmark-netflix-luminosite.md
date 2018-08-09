@@ -18,7 +18,7 @@ Du coup, entre une partie de PS4[^ps4] et un chapitre de roman[^lire] (parce qu'
 [^lire]: Je lis en anglais "The Golden Fool" de Robin Hobb, deuxième tome de la "Tawny Man Trilogy" (en français, le découpage est différent. D'après Wikipédia, je suis en train de lire "[Serments et Deuils](https://fr.wikipedia.org/wiki/Serments_et_Deuils)"), qui elle-même fait partie de la saga "The Realm of the Elderlings" dont j'ai déjà lu les sept livres précédents (en français, cela fait 18 livres). Et je compte bien lire les huit suivant aussi (soit l'équivalent de 17 livres français) dans l'année !
 
 {:.canonical}
-Cliquez-glisser le lien suivant dans votre barre de favoris : <!-- nomicrotypo --><a href="javascript:(function(){[...document.getElementsByTagName('video')].forEach(function(video){video.setAttribute('style',video.getAttribute('style')%7C%7C''+'filter: brightness(150%);');})})()" title="Increase Video Brightness">Netflix☀️</a><!-- endnomicrotypo -->
+Cliquez-glissez le lien suivant dans votre barre de favoris : <!-- nomicrotypo --><a href="javascript:(function(){[...document.getElementsByTagName('video')].forEach(function(video){video.setAttribute('style',video.getAttribute('style')%7C%7C''+'filter: brightness(150%);');})})()" title="Increase Video Brightness">Netflix☀️</a><!-- endnomicrotypo -->
 
 Ensuite rendez-vous sur Netflix, lancez votre série ou film préféré et cliquez sur "Netflix☀️" !
 
