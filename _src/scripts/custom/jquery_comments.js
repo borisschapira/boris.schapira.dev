@@ -108,6 +108,27 @@ $('#comment-form').on("submit", function submitForm(event) {
   var $submitBtn = $form.find('#comment-form-submit');
   $submitBtn.attr('disabled', 'disabled');
 
+  $('<input>').attr({
+    type: 'hidden',
+    id: 'timestamp',
+    name: 'timestamp',
+    value: new Date().getTime()*1000
+  }).appendTo($form);
+
+  $('<input>').attr({
+    type: 'hidden',
+    id: 'guid',
+    name: 'guid',
+    value: (function guid() {
+      function s4() {
+        return Math.floor((1 + Math.random()) * 0x10000)
+          .toString(16)
+          .substring(1);
+      }
+      return s4() + s4() + '-' + s4() + '-' + s4() + '-' + s4() + '-' + s4() + s4() + s4();
+    })()
+  }).appendTo($form);
+
   var type = $form.attr('method'),
     url = $form.attr('action'),
     data = $form.serialize(),
@@ -126,7 +147,7 @@ $('#comment-form').on("submit", function submitForm(event) {
       $form.find('.info.success').removeClass('hidden');
     },
     error: function (err) {
-      console.log(err);
+      console.error(err);
       $submitBtn.attr('disabled', null);
       $form.find('.info').addClass('hidden');
       $form.find('.info.fail').removeClass('hidden');
