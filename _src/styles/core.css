@@ -193,6 +193,16 @@ html {
   17% {
     transform: translateY(-5px); }
   18% {
+    transform: translateY(0); }
+  61% {
+    transform: translateY(0); }
+  62% {
+    transform: translateY(-5px); }
+  63% {
+    transform: translateY(-3px); }
+  64% {
+    transform: translateY(-5px); }
+  65% {
     transform: translateY(0); } }
 
 .eyebrows {

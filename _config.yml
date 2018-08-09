@@ -144,7 +144,6 @@ author:
   url: https://borisschapira.com/
   flickr: 'http://flickr.com/borisschapira'
   github: 'https://github.com/borisschapira'
-#  facebook: 'https://www.facebook.com/boris.schapira'
   twitter: 'http://twitter.com/borisschapira'
   mastodon: https://framapiaf.org/@borisschapira
   twitter_username: '@borisschapira'
@@ -192,6 +191,14 @@ pwa:
   precache_recent_posts_num: 5
   precache_glob_patterns:
     - "assets/{scripts,fonts}/**/*.{html,js,css,,svg,woff2,jpg}"
+    - index.html
+    - web/index.html
+    - citoyen/index.html
+    - papa/index.html
+    - web/index.html
+    - en/index.html
+    - en/web/index.html
+    - en/dad/index.html
 
 # Graphiques
 mermaid:

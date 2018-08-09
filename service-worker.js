@@ -3,7 +3,7 @@
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
     prefix: 'borisschapira-com',
-    suffix: 'v1',
+    suffix: 'd41d8cd9',
     precache: 'precache',
     runtime: 'runtime-cache'
 });
@@ -21,14 +21,8 @@ workbox.routing.registerRoute(
     workbox.strategies.networkFirst()
 );
 
-// use `cacheFirst` strategy for images
+// use `cacheFirst` strategy for images and fonts
 workbox.routing.registerRoute(
-    /assets\/(img|icons)/,
+    /assets\/(images|fonts)/,
     workbox.strategies.cacheFirst()
-);
-
-// third party files
-workbox.routing.registerRoute(
-    /^https?:\/\/cdn.staticfile.org/,
-    workbox.strategies.staleWhileRevalidate()
 );
