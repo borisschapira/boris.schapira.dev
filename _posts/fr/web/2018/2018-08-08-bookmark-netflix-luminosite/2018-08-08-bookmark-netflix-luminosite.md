@@ -29,4 +29,4 @@ alt="Le Joker applaudit"
 
 Notez que cela doit marcher un peu partout, pas que sur Netflix. Un clic sur le bookmarklet et votre navigateur augmentera la luminosité de toutes les vidéos présentes sur la page, à condition que la page [ne verrouille pas les injections de style à l'aide d'une Content-Security-Policy](https://blog.dareboost.com/fr/2016/08/content-security-policy-securiser-site-web-xss/) (ça ne marche pas sur ce blog, par exemple).
 
-J'ai testé sur Firefox et Chrome, dernières versions, sur Mac. Je n'irai pas plus loin et n'assurerait pas le support, considérez ce petit bout de code comme étant sous [licence WTFPL](https://fr.wikipedia.org/wiki/WTFPL).
+J'ai testé sur Firefox et Chrome, dernières versions, sur Mac. Je n'irai pas plus loin et n'assurerai pas le support ; considérez ce petit bout de code comme étant sous [licence WTFPL](https://fr.wikipedia.org/wiki/WTFPL).
