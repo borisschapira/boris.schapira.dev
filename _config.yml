@@ -113,6 +113,8 @@ exclude:
   - _posts/**/*.mp4
   - _posts/**/*.webm
   - _posts/**/*.ogv
+  - borisschapira-dev.com+3.pem
+  - borisschapira-dev.com+3-key.pem
 include:
   - ".well-known"
   - ".htaccess"

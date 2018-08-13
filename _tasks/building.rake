@@ -20,7 +20,7 @@ namespace :build do
       ans = STDIN.gets.chomp
       exit if ans != 'Y'
     end
-    jekyll("serve --config _config.yml,#{config_file}")
+    jekyll("serve  --ssl-key ./borisschapira-dev.com+3-key.pem --ssl-cert ./borisschapira-dev.com+3.pem --config _config.yml,#{config_file}")
   end
   task serve: :preview
 
