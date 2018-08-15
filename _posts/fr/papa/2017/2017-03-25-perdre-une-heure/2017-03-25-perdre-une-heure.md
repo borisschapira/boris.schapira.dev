@@ -12,6 +12,6 @@ Demain vous allez vous réveiller et on vous aura volé du sommeil, lâchement.
 Nous, c'est tous les jours (et des fois c'est deux ou trois heures).
 
 {% include video_as_a_gif.html.liquid
-slug="for_real"
-alt="Une jeune femme dit &quot;For real, real&quot;"
+slug="kidding"
+alt="Une femme dit &quot;Are you kidding?&quot;"
 %}
