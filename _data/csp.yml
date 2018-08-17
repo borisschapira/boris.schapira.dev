@@ -7,8 +7,7 @@
       comment: "This domain"
 - name: default-src
   values:
-    - value: "'none'" 
-      comment: "This is the default fallback. Make sure that it does not open new rights"
+    - value: "'self'"
 - name: object-src
   values:
     - value: "'self'"
@@ -152,6 +151,9 @@
   values:
     - value: "'self'"
 - name: worker-src
+  values:
+    - value: "'self'"
+- name: prefetch-src
   values:
     - value: "'self'"
 - name: block-all-mixed-content

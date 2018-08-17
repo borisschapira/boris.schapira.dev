@@ -7,6 +7,12 @@
   <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-sans-bold.woff2" crossorigin >
   <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-serif-italic.woff2" crossorigin >
 
+  <!-- Previous and next posts -->
+  {% if page.next_context or page.prev_context %}
+      {% if page.prev_context %}<link rel="prefetch" href="{{page.prev_context.url}}">{% endif %}
+      {% if page.next_context %}<link rel="prefetch" href="{{page.next_context.url}}">{% endif %}
+  {% endif %}
+
   <!-- CSS and color -->
   <!-- nomicrotypo -->
   <script>performance.mark('mark_declare_css_start');</script>
