@@ -65,11 +65,11 @@
     "csswring": "^6.0.3",
     "eslint": "^1.10.3",
     "eslint-config-google": "^0.3.0",
-    "node-sass": "^4.9.2",
+    "node-sass": "^4.9.3",
     "postcss": "^5.0.14",
     "postcss-cli": "^2.5.0",
     "prettier": "1.12.1",
-    "uglify-js": "^3.3.13",
+    "uglify-js": "^3.4.7",
     "watch": "^0.17.1"
   },
   "dependencies": {
