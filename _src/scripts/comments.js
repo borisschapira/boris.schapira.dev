@@ -108,8 +108,20 @@ $('#comment-form').on("submit", function submitForm(event) {
 
   // Disable to prevent multiple submit
   var $form = $(this);
-  var $submitBtn = $form.find('#comment-form-submit');
+  var $submitBtn = $form.find('#comment-form-submit'),
+  $input_timestamp = $form.find('#comment-timestamp'),
+  $input_guid = $form.find('#comment-guid');
+  
   $submitBtn.attr('disabled', 'disabled');
+  $input_timestamp.val(new Date().getTime()*1000);
+  $input_guid.val((function guid() {
+    function s4() {
+      return Math.floor((1 + Math.random()) * 0x10000)
+        .toString(16)
+        .substring(1);
+    }
+    return s4() + s4() + '-' + s4() + '-' + s4() + '-' + s4() + '-' + s4() + s4() + s4();
+  })());
 
   var type = $form.attr('method'),
     url = $form.attr('action'),
@@ -129,7 +141,7 @@ $('#comment-form').on("submit", function submitForm(event) {
       $form.find('.info.success').removeClass('hidden');
     },
     error: function (err) {
-      console.log(err);
+      console.error(err);
       $submitBtn.attr('disabled', null);
       $form.find('.info').addClass('hidden');
       $form.find('.info.fail').removeClass('hidden');
