@@ -51,8 +51,12 @@
     {% endif %}
   {% endif %}
 
-  {% if noindex or nofollow %}
-  <meta name="robots" content="{% if noindex %}no{% endif %}index, {% if nofollow %}no{% endif %}follow">
+  {% if site.robots %}
+    <meta name="robots" content="{{ site.robots }}">
+  {% else %}
+    {% if noindex or nofollow %}
+    <meta name="robots" content="{% if noindex %}no{% endif %}index, {% if nofollow %}no{% endif %}follow">
+    {% endif %}
   {% endif %}
   
   <!-- Social Media -->
