@@ -1,3 +1,4 @@
 # Development configuration (comment for Production)
 limit_posts: 10
 robots: noindex,nofollow
+url: "https://dev.borisschapira.com"
