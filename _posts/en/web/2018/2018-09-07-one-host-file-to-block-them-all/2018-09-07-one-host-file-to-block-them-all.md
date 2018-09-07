@@ -53,7 +53,7 @@ So basically, if someone makes a list of all the domains where bad things happen
 
 There is nothing new in what I am describing here. Cool people have been doing this for years, sharing their host files. Fake news websites, gaming platforms, pornographic hubs, encryption pages, fraud attempts, and scams are all patiently identified and listed in open access files.
 
-I use [Steven Black's "hosts" project](https://github.com/StevenBlack/hosts), a python script, to cram them into [a single 2MB hosts file](https://raw.githubusercontent.com/borisschapira/hosts/master/hosts) containing more than 70k domains. If you're not familiar with the command line and use Windows, don't panic: the [hostsman](http://www.abelhadigital.com/hostsman/) app will help you achieve the same goal.
+I use [Steven Black's "hosts" project](https://github.com/StevenBlack/hosts), a python script, to cram them into [a single 2MB hosts file](https://raw.githubusercontent.com/borisschapira/hosts/master/hosts) containing more than 70k domains. If you're not familiar with the command line and use Windows 10, the [hostsman](http://www.abelhadigital.com/hostsman/) app will help you achieve the same goal. I will not recommend modifying your host file on previous versions of Windows even if [I did it, before 2015 (FR)](https://borisschapira.com/2015/08/de-windows-a-mac/), unless you like to run `ipconfig /flushdns' every 30 minutes. On Linux, I've heard people talk about using [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy)… but I've never tried myself.
 
 {% capture img_alt %}A screencapture from hostsman sources manager{% endcapture %}
 {% capture img_caption %}You can manage Update Sources in hostsman{% endcapture %}
@@ -65,7 +65,7 @@ caption=img_caption
 
 In case you're wondering, I can and do alter the result with my own whitelist (otherwise blocked domains whose requests I don't want to prevent) and redirections (which allows me to write this article and check the result on https://borisschapira-dev.com:10443/, which actually points to my own machine).
 
-I have been using this technique for years now and sometimes I forget that my hosts file protects me so much. Whenever I need to use someone else's computer, or temporarily disable my hosts file (for example, when I need to help a Dareboost clients understand the impact of third-party scripts on their pages), I realize the level of comfort it provides me.
+I have been using this technique for years now and, sometimes, I forget that my hosts file protects me so much. Whenever I need to use someone else's computer, or temporarily disable my hosts file (for example, when I need to help a Dareboost clients understand the impact of third-party scripts on their pages), I realize the level of comfort it provides me.
 
 Tweaking its own hosts file is a good but technical solution. It doesn't completely replace an AdBlocker (or I haven't aggregated enough files yet) but it's an incredible performance gain, which I highly recommend for everyday browsing.
 
