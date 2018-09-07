@@ -1,0 +1,2 @@
+# Development configuration (comment for Production)
+limit_posts: 10

@@ -1,3 +1,6 @@
 [build]
   command = "bundle exec rake build:generate; bundle exec rake test;"
   publish = "_site"
+
+[context.branch-deploy]
+  command = "bundle exec rake build:generate[integ]"
