@@ -15,7 +15,7 @@ locale: en_US
 As a field expert, people often ask me how to improve websites' performance. Sometimes, they also ask me how to improve the Web's performance on their own machine, for their own browsing experience. In that case, my answer is always the same: the lowest hanging fruit is most certainly the **hosts** file.
 
 {% capture img_alt %}Gollum, holding the One ring in the Peter Jackson's adaptation{% endcapture %}
-{% capture img_caption %}Yeah, well, I could have found a sexier illustration…{% endcapture %}
+{% capture img_caption %}I lacked inspiration to find a nicer illustration....{% endcapture %}
 {% include rwd-image.html.liquid
 path="/assets/images/2018-09-07/gollum.jpg"
 alt=img_alt
@@ -26,11 +26,11 @@ caption=img_caption
 
 ## Keeping the dirt away
 
-Today's web is full of dirt. Most sites are full of trackers, ads, and lots of other nasty stuff penalizing websites' loading. To avoid this, AdBlockers are blooming[^pr]. They offer a quick and simple solution (most of the time, a browser extension) that blocks most of the unsolicited content.
+Today's web is full of dirt. Most sites are full of trackers, ads, and lots of other nasty stuff penalizing websites' loading. To avoid this, AdBlockers are blooming. They offer a quick and simple solution (most of the time, a browser extension) that blocks most of the unwanted content.
 
 [^pr]: Adblocking penetration rate in the US is ~30% on Desktop, ~12% on mobile, according to this [eMarketer study on Ad Blocking from March 2017](https://www.statista.com/statistics/351862/adblocking-usage/).
 
-Unfortunately, as for the UX, AdBlockers don't deliver. They often increase the amount of memory and CPU cycles used by your web browser, slowing your browsing experience instead of boosting it. Some are doing better than others, and whole browsers[^brave] have been conceived over the idea of blocking unsolicited content, and are doing an incredible job. But the web is not confined to your browser, is it?
+Unfortunately, as for the UX, AdBlockers don't deliver. They often increase the amount of memory and CPU cycles used by your web browser, slowing your browsing experience instead of boosting it. Some are doing better than others, and whole browsers[^brave] have been conceived over the idea of blocking unwanted content, and are doing an incredible job. But the web is not confined to your browser, is it?
 
 [^brave]: If you've never tested [Brave Browser](https://brave.com/), I can only encourage you to do so, and join the 4 million people that trust it to fix the web.
 
