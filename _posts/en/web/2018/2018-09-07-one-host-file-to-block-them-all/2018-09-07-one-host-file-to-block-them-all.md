@@ -28,7 +28,7 @@ caption=img_caption
 
 Today's web is full of dirt. Most sites are full of trackers, ads, and lots of other nasty stuff penalizing websites' loading. To avoid this, AdBlockers are blooming[^pr]. They offer a quick and simple solution (most of the time, a browser extension) that blocks most of the unsolicited content.
 
-[^pr]: Adblocking penetration rate in the US is ~30% on Desktop, ~12% on mobile, according to this [eMaketer study on Ad Blocking from March 2017](https://www.statista.com/statistics/351862/adblocking-usage/).
+[^pr]: Adblocking penetration rate in the US is ~30% on Desktop, ~12% on mobile, according to this [eMarketer study on Ad Blocking from March 2017](https://www.statista.com/statistics/351862/adblocking-usage/).
 
 Unfortunately, as for the UX, AdBlockers don't deliver. They often increase the amount of memory and CPU cycles used by your web browser, slowing your browsing experience instead of boosting it. Some are doing better than others, and whole browsers[^brave] have been conceived over the idea of blocking unsolicited content, and are doing an incredible job. But the web is not confined to your browser, is it?
 
@@ -59,7 +59,7 @@ There is nothing new in what I am describing here. Cool people have been doing t
 
 I use [Steven Black's "hosts" project](https://github.com/StevenBlack/hosts), a python script, to cram them into [a single 2MB hosts file](https://raw.githubusercontent.com/borisschapira/hosts/master/hosts) containing more than 70k domains. In case you're wondering, I can and do alter the result with my own whitelist (otherwise blocked domains whose requests I don't want to prevent) and redirections (which allows me to write this article and check the result on https://borisschapira-dev.com:10443/, which actually points to my own machine).
 
-If you're not familiar with the command line and use Windows 10, the [hostsman](http://www.abelhadigital.com/hostsman/) app will help you achieve the same goal. I will not recommend modifying your host file on previous versions of Windows even if [I did it, before 2015 (FR)](https://borisschapira.com/2015/08/de-windows-a-mac/), unless you like to run `ipconfig /flushdns' every 30 minutes. On Linux, I've heard people talk about using [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy)… but I've never tried myself.
+If you're not familiar with the command line and use Windows 10, the [hostsman](http://www.abelhadigital.com/hostsman/) app will help you achieve the same goal. I will not recommend modifying your host file on previous versions of Windows even if [I did it, before 2015 (FR)](https://borisschapira.com/2015/08/de-windows-a-mac/), unless you like to run `ipconfig /flushdns` every 30 minutes. On Linux, I've heard people talk about using [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy)… but I've never tried myself.
 
 {% capture img_alt %}A screencapture from hostsman sources manager{% endcapture %}
 {% capture img_caption %}You can manage Update Sources in hostsman{% endcapture %}
