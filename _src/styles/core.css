@@ -206,7 +206,10 @@ html {
     transform: translateY(0); } }
 
 .eyebrows {
-  animation: browsup 40s ease infinite; }
+  animation: "browsup 40s ease infinite"; }
+  @media screen and (prefers-reduced-motion: reduce) {
+    .eyebrows {
+      animation: none; } }
 
 @keyframes showclosed {
   13% {
@@ -240,7 +243,10 @@ html {
 
 .eye-closed {
   opacity: 0;
-  animation: showclosed 20s ease infinite; }
+  animation: "showclosed 20s ease infinite"; }
+  @media screen and (prefers-reduced-motion: reduce) {
+    .eye-closed {
+      animation: none; } }
 
 @keyframes hideopen {
   13% {
@@ -273,4 +279,7 @@ html {
     opacity: 1; } }
 
 .eye-open {
-  animation: hideopen 20s ease infinite; }
+  animation: "animation: hideopen 20s ease infinite"; }
+  @media screen and (prefers-reduced-motion: reduce) {
+    .eye-open {
+      animation: none; } }

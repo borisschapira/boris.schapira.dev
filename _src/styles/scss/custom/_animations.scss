@@ -1,3 +1,25 @@
+$enable-moves: true;
+$enable-animations: $enable-moves;
+$enable-transitions: $enable-moves;
+
+@mixin animation($animation...) {
+	@if $enable-animations {
+		animation: $animation;
+		@media screen and (prefers-reduced-motion: reduce) {
+			animation: none;
+		}
+	}
+}
+
+@mixin transition($transition...) {
+	@if $enable-transitions {
+		transition: $transition;
+		@media screen and (prefers-reduced-motion: reduce) {
+			transition: none;
+		}
+	}
+}
+
 @keyframes browsup {
 	16% {
 		transform: translateY(0);
@@ -26,7 +48,7 @@
 }
 
 .eyebrows {
-	animation: browsup 40s ease infinite;
+	@include animation("browsup 40s ease infinite");
 }
 
 @keyframes showclosed {
@@ -76,7 +98,7 @@
 
 .eye-closed {
 	opacity: 0;
-	animation: showclosed 20s ease infinite;
+	@include animation("showclosed 20s ease infinite");
 }
 
 @keyframes hideopen {
@@ -125,5 +147,5 @@
 }
 
 .eye-open {
-	animation: hideopen 20s ease infinite;
+	@include animation("animation: hideopen 20s ease infinite");
 }
