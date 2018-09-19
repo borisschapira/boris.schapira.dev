@@ -27,7 +27,7 @@
 
         <li class="sidebar-nav-item{% if page.i18n-key == 'search' %} active{% endif %}" itemprop="itemSearchResultsPage" itemscope
         itemtype="http://schema.org/SearchResultsPage">
-        <a href="{{ 'recherche/' | prepend: page.base-url }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Recherche %}</a>
+        <a href="{{ 'recherche' | t: page.locale | prepend: page.base-url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{% t Recherche %}</a>
         </li>
       </ul>
 
