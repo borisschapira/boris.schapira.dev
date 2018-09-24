@@ -4,17 +4,11 @@
     {% capture path %}{{include.path}}{% endcapture %}
 {% endif %}
 {% unless jekyll.environment == "development" %}
-    {% if include.caption %}{% cloudinary {{ path }}
-        alt="{{ include.alt | escape }}"
-        caption="{{ include.caption | replace: '"', '&quot;' }}"
-    %}{% else %}{% cloudinary {{ path }}
-        alt="{{ include.alt | escape }}"
-    %}{% endif %}
-{% else %}
+{% if include.caption %}{% cloudinary {{ path }} alt="{{ include.alt | escape }}" caption="{{ include.caption | replace: '"', '&quot;' }}" %}{% else %}{% cloudinary {{ path }} alt="{{ include.alt | escape }}" %}{% endif %}{% else %}
 <figure>
-    <img src="{{ path }}" alt="{{ include.alt | escape }}">
-    {% if include.caption %}
-    <figcaption>{{ include.caption | replace: '"', '&quot;' }}</figcaption>
-    {% endif %}
+  <img src="{{ path }}" alt="{{ include.alt | escape }}">
+{% if include.caption %}
+  <figcaption>{{ include.caption | replace: '"', '&quot;' }}</figcaption>
+{% endif %}
 </figure>
 {% endunless %}
