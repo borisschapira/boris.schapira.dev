@@ -13,7 +13,7 @@ Au début étaient **Flip** et **Flip3D**, les deux possibilités par défaut de
 
 **Flip3D** permet un type équivalent de navigation mais en utilisant les touches Windows+Tab. Les fenêtres sont alors placées les unes derrière les autres, comme empilées, et vous les voyez de biais. Vous avez ainsi une vue d'ensemble de toutes vos applications courantes, et vous pouvez passer de l'une à l'autre comme vous feriez défiler les cartes à jouer d'un paquet.
 
-Certains auteurs innovent en proposant de nouvelles expériences dont l'inspiration vient indéniablement du **Exposé** d'Apple, comme [SmartFlip](http://www.clubic.com/telecharger-fiche33580-smartflip.html). Toujours en développement, l'application est encore assez boguée mais offre une expérience utilisateur qui s'impose comme un compromis entre Flip et Flip 3D, puisque l'affichage des fenêtres se fait en 3D, mais ces dernières s'organisent en cercle pour une vision globale.
+Certains auteurs innovent en proposant de nouvelles expériences dont l'inspiration vient indéniablement du **Exposé** d'Apple, comme SmartFlip. Toujours en développement, l'application est encore assez boguée mais offre une expérience utilisateur qui s'impose comme un compromis entre Flip et Flip 3D, puisque l'affichage des fenêtres se fait en 3D, mais ces dernières s'organisent en cercle pour une vision globale.
 
 Malgré tout, l'agencement des fenêtres en cercle ne plaira pas forcément à tout le monde. C'est pourquoi vous pourrez choisir à la place [Switcher!](http://insentient.net/), qui place les miniatures des fenêtres ouvertes de gauche en droite dans le haut de l'écran et les fait défiler au premier plan à chaque pression de touche. Une alternative efficace au classique Alt+Tab.
 

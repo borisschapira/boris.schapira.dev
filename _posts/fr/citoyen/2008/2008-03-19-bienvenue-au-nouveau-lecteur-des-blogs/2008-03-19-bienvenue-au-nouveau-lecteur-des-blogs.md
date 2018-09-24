@@ -18,7 +18,6 @@ Heureusement, cela ne semble pas être ta politique&nbsp;:
 
 Je retiens donc que nous pouvons continuer à parler de l'autre Nicolas avec originalité, imagination, créativité et audace. Tu nous invite à nous exprimer&nbsp;? Cela tombe bien, personne n'avait l'intention de s'arrêter.
 
-Entre nous, je pense que ta tâche est impossible et que ceux qui t'ont nommé à ce poste le savent et ne cherchent qu'à faire de toi le nouvel ennemi public, en espérant que cela fasse oublier
-[Denis Olivennes](http://rue89.nouvelobs.com/2007/11/24/piratage-olivennes-repond-aux-lecteurs-de-rue89)…
+Entre nous, je pense que ta tâche est impossible et que ceux qui t'ont nommé à ce poste le savent et ne cherchent qu'à faire de toi le nouvel ennemi public, en espérant que cela fasse oublier Denis Olivennes…
 
 Tu es l'équipe blanche, Nicolas. Olivennes est l'ours.

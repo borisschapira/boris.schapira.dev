@@ -12,9 +12,9 @@ locale: fr_FR
 
 * **846e** au **[classement général des blogs - Wikio](http://www.wikio.fr/)** (42331 blogs recensés)
 
-* **417e** au **[classement des blogs francophones ayant la bannière rotative Critéo](http://widget.criteo.com/transverse/AutoRollTop?m1=top&m2=2)** (oui mais sur combien en tout&nbsp;?)
+* **417e** au **classement des blogs francophones ayant la bannière rotative Critéo** (oui mais sur combien en tout&nbsp;?)
 
-* 2 216 visiteurs uniques pour Octobre… dont 545 le 26 Octobre grâce à un lien en provenance semble-t-il de [Kokipol](http://www.kopikol.net/?id=34147) (pour un article dont je pensais qu'il n'intéresserait personne… je me demande si ceux à qui ça a plu ont lu celui sur la crise des subprimes… j'aurais bien aimé avoir leur avis).
+* 2216 visiteurs uniques pour Octobre… dont 545 le 26 Octobre grâce à un lien en provenance semble-t-il de [Kokipol](http://www.kopikol.net/?id=34147) (pour un article dont je pensais qu'il n'intéresserait personne… je me demande si ceux à qui ça a plu ont lu celui sur la crise des subprimes… j'aurais bien aimé avoir leur avis).
 
 * En dehors de ce pic, une stable moyenne de visiteurs uniques à environ 75 VU/jour, à pondérer avec les 75 adhérents <abbr title="Really Simple Syndication" lang="en">RSS</abbr> (mais je doute que ce soit les même sinon quel intérêt&nbsp;?)
 

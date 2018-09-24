@@ -11,8 +11,7 @@ events:
 Transcription de mon <em lang="en">lightning talk</em> pour Bdx.io 2015 pour les absents, les malentendants ou les gens qui s'ennuient !
 
 * [Slides](http://www.slideshare.net/bschapira/industrialiser-le-dev-front-end-54151018)
-* [Site officiel de Bdx.io](http://www.bdx.io/)
-* [Bdx.io sur Lanyrd](http://lanyrd.com/2015/bdxio/)
+* [Site officiel de Bdx.io](https://www.bdx.io/)
 
 <!-- more -->
 

@@ -21,7 +21,7 @@ Le jury a de plus décidé d'attribuer une mention spéciale au **jeu d'aventure
 
 ## Prix des <abbr title="Bureaux des Élèves">BDE</abbr>
 
-Le prix des <abbr title="Bureaux des Élèves">BDE</abbr> a été remis à l'équipe I2 composée de Charles Capon, Omar Givernaud, Anthony Rosetto ([MSP](https://www.microsoftstudentpartners.com)), Jean-Louis Phekekara pour leur projet "\*\*architecture systèmes mobiles et multimédia".
+Le prix des <abbr title="Bureaux des Élèves">BDE</abbr> a été remis à l'équipe I2 composée de Charles Capon, Omar Givernaud, Anthony Rosetto ([MSP](https://msdn.microsoft.com/en-us/microsoftstudentpartners.aspx)), Jean-Louis Phekekara pour leur projet "\*\*architecture systèmes mobiles et multimédia".
 
 ## Prix "Coup de cœur"
 

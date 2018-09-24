@@ -20,4 +20,4 @@ Si cela vous semble encore un peu vague, voilà comment résumer le concept en 4
 3.  transitions fluides ;
 4.  agrandissements/réductions rapides quel que soit l'écran.
 
-C'est Seadragon que vous pouvez retrouver derrière [Photosynth](https://photosynth.net/), dont je vous ai déjà parlé, ou encore _DeepFish_, le concept de navigateur mobile de Redmond, dont je devrais vous parler prochainement.
+C'est Seadragon que vous pouvez retrouver derrière [Photosynth](https://en.wikipedia.org/wiki/Photosynth), dont je vous ai déjà parlé, ou encore _DeepFish_, le concept de navigateur mobile de Redmond, dont je devrais vous parler prochainement.

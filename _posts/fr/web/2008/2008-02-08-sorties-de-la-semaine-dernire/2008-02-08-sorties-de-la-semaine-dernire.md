@@ -14,7 +14,7 @@ locale: fr_FR
 
 C'&#233;tait l&#224; premi&#232;re soir&#233;e de blogueurs &#224; laquelle j'emmenais ma Libellule. Nous y avons retrouv&#233; quelques MSP, des Esieens et des blogueurs autour d'un petit verre sympathique puis d'un McDo. Dans les conversations&nbsp;: la conf&#233;rence de Bill Gates, le Windows Home Server d'HP, les macro-revenus num&#233;riques (et l'URSAFF dans tout &#231;a&nbsp;?), l'art moderne, un peu de politique et une annonce de mariage (mais certainement pas celui auquel vous pensez).
 
-**Mercredi 30&nbsp;: Soir&#233;e Nexeo [Nameless](http://nameless.fr)**
+**Mercredi 30&nbsp;: Soir&#233;e Nexeo Nameless**
 
 Dans une chaleureuse salle de r&#233;ception de l'avenue Friedland, petits fours et champagne autour des annonces de bonne croissance de mon entreprise. Et pour assurer le spectacle, l'excellent groupe Nameless. Je repars avec deux tee-shirts, 5 autographes et un album (que j'avais d&#233;j&#224; en mp3 et qui est excellent), ainsi que d'excellentes raisons de me satisfaire de mon statut de consultant Nexeo.  
 Je n'ai pas encore pris le temps de monter mes vid&#233;os du concert mais je vais m'y mettre, promis.

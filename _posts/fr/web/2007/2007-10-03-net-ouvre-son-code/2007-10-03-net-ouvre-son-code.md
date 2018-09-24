@@ -20,4 +20,4 @@ La mesure s'apliquera dans un premier temps aux namespaces suivants&nbsp;:
 * System.Data
 * Windows Presentation Foundation
 
-Bien sûr, il y a des conditions ([à bien lire](http://www.microsoft.com/resources/sharedsource/default.mspx)) mais l'annonce de ce partage du code permettra aux développeurs de lire le code du Framework et d'enfin comprendre parfaitement certaines de ses réactions (d'autant plus qu'il sera possible de consulter le code source en mode debug).
+Bien sûr, il y a des conditions mais l'annonce de ce partage du code permettra aux développeurs de lire le code du Framework et d'enfin comprendre parfaitement certaines de ses réactions (d'autant plus qu'il sera possible de consulter le code source en mode debug).
