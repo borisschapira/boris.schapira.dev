@@ -11,7 +11,7 @@ locale: en_US
 cloudinary_logo: dareboost-logo
 ---
 
-Our regular readers [of the Dareboost blog] already know that [HTTPS is now a requirement for any websites](https://blog.dareboost.com/en/2016/03/https-requirement-for-your-website/ "HTTPs is a requirement for your website &mid; Dareboost Blog"). The urge to get rid of unsecured navigation has never been stronger: each release of Google Chrome or Mozilla Firefox comes with a new warning sign for users sharing private data. Soon, all forms will be concerned.
+Our regular readers [of the Dareboost blog](https://blog.dareboost.com/en/) already know that [HTTPS is now a requirement for any websites](https://blog.dareboost.com/en/2016/03/https-requirement-for-your-website/ "HTTPs is a requirement for your website &mid; Dareboost Blog"). The urge to get rid of unsecured navigation has never been stronger: each release of Google Chrome or Mozilla Firefox comes with a new warning sign for users sharing private data. Soon, all forms will be concerned.
 
 But offering an HTTPS version of your website is not enough to automatically redirect all your HTTP traffic to this secured version.
 
