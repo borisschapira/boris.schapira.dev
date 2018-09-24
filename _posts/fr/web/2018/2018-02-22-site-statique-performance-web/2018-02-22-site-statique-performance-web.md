@@ -9,6 +9,7 @@ tags:
     - JAMStack
 locale: fr_FR
 loadTwitterWjs: true
+cloudinary_logo: dareboost-logo
 ---
 
 Générateurs de sites statiques, CMS "headless", plateformes d'intégration continue et de déploiement… depuis plusieurs années, une nouvelle gamme de solutions émerge dans le paysage des technologies web. Ces solutions contribuent à une tendance globale qui ressemble à un retour aux sources du Web. On parle de "La mouvance statique" ou de la "JAMStack" mais aucun de ces noms ne caractérise vraiment ce qui n’est pas moins qu’une nouvelle façon d’architecturer des applications web.
