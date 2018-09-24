@@ -17,7 +17,7 @@ locale: fr_FR
 
 <!-- more -->
 
-{% include media/youtube.html.liquid id="Q0Dg226G2Z8" title="Emma Watson HeForShe Speech at the United Nations | UN Women 2014" %}
+{% include media/youtube.html.liquid id="Q0Dg226G2Z8" title="Emma Watson HeForShe Speech at the United Nations &mid; UN Women 2014" %}
 
 Chaque jour, j'essaie d'expliquer à mes garçons comment devenir des hommes, ce qui n'est pas évident, car je n'ai pas vraiment de définition moi-même. Alors je leur apprends surtout à devenir des chouettes êtres humains et à explorer leurs possibilités à eux, sans se soucier de l'extérieur.
 

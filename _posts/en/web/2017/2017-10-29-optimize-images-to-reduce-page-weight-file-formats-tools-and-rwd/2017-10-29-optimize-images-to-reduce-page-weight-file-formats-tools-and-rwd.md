@@ -152,7 +152,7 @@ On high-latency networks, you can quickly save time by reducing the number of im
 
 How attractive could seem this idea, its implementation can be complex though. Using an image sprite is a useful technique if you really use all the grouped images on the web page loading the resource, which is quite rare. In addition, if you need to replace a single element in the stack, note that you will need to invalidate the entire sprite from the browser cache.
 
-Finally: latency may not be an everlasting problem. With <a title="On the way to HTTP/2: what to expect for front-end development? | Dareboost Blog" href="https://blog.dareboost.com/en/2016/11/http2-changes-for-front-end-development/">HTTP/2</a>, a protocol in which connections are optimized to download multiple resources simultaneously, the technique would lose its meaning. <a href="https://blog.octo.com/en/http2-arrives-but-sprite-sets-aint-no-dead/">Theoretically speaking</a>.
+Finally: latency may not be an everlasting problem. With <a title="On the way to HTTP/2: what to expect for front-end development? &mid; Dareboost Blog" href="https://blog.dareboost.com/en/2016/11/http2-changes-for-front-end-development/">HTTP/2</a>, a protocol in which connections are optimized to download multiple resources simultaneously, the technique would lose its meaning. <a href="https://blog.octo.com/en/http2-arrives-but-sprite-sets-aint-no-dead/">Theoretically speaking</a>.
 
 ## The end?
 

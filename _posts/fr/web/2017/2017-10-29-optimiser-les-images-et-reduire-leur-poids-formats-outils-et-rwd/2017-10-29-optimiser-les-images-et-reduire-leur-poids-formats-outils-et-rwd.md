@@ -157,7 +157,7 @@ Sur les réseaux où la latence est importante, on peut rapidement gagner du tem
 
 Bien que l’idée soit séduisante, sa mise en œuvre peut se révéler complexe. Utiliser un sprite image est une technique utile si vous utilisez vraiment toutes les images empilées sur la page Web où la ressource est chargée, ce qui est assez rare. De plus, si vous devez remplacer un seul élément de la pile, le sprite entier doit être invalidé dans le cache du navigateur.
 
-Enfin : le problème initial, la latence, n’est pas une fatalité. <a title="HTTP/2 : la transition est en marche ! Quels changements pour le développeur front-end ? | Blog Dareboost" href="https://blog.dareboost.com/fr/2016/11/http2-changements-bonnes-pratiques-http1-front-end/">En HTTP/2</a>, un protocole dans lequel les connexions sont optimisées pour télécharger simultanément plusieurs ressources, la technique perdrait tout son sens. Du moins, <a title="Ne jetez pas les sprites avec HTTP/2 | Octo Talks" href="https://blog.octo.com/ne-jetez-pas-les-sprites-avec-http2/">en théorie</a>.
+Enfin : le problème initial, la latence, n’est pas une fatalité. <a title="HTTP/2 : la transition est en marche ! Quels changements pour le développeur front-end ? &mid; Blog Dareboost" href="https://blog.dareboost.com/fr/2016/11/http2-changements-bonnes-pratiques-http1-front-end/">En HTTP/2</a>, un protocole dans lequel les connexions sont optimisées pour télécharger simultanément plusieurs ressources, la technique perdrait tout son sens. Du moins, <a title="Ne jetez pas les sprites avec HTTP/2 &mid; Octo Talks" href="https://blog.octo.com/ne-jetez-pas-les-sprites-avec-http2/">en théorie</a>.
 
 ## Fin ?
 

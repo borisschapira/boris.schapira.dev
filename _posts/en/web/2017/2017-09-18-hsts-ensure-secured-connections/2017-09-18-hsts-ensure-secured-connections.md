@@ -11,7 +11,7 @@ locale: en_US
 cloudinary_logo: dareboost-logo
 ---
 
-Our regular readers [of the Dareboost blog] already know that [HTTPS is now a requirement for any websites](https://blog.dareboost.com/en/2016/03/https-requirement-for-your-website/ "HTTPs is a requirement for your website | DareBoost Blog"). The urge to get rid of unsecured navigation has never been stronger: each release of Google Chrome or Mozilla Firefox comes with a new warning sign for users sharing private data. Soon, all forms will be concerned.
+Our regular readers [of the Dareboost blog] already know that [HTTPS is now a requirement for any websites](https://blog.dareboost.com/en/2016/03/https-requirement-for-your-website/ "HTTPs is a requirement for your website &mid; Dareboost Blog"). The urge to get rid of unsecured navigation has never been stronger: each release of Google Chrome or Mozilla Firefox comes with a new warning sign for users sharing private data. Soon, all forms will be concerned.
 
 But offering an HTTPS version of your website is not enough to automatically redirect all your HTTP traffic to this secured version.
 
@@ -63,7 +63,7 @@ In a nutshell, the HSTS directive can be used in addition to a 301 redirect to s
 
 ## HSTS Preloading to reliably secure the exchanges
 
-To secure even the first request, the Chromium Projects maintains a list of valid HSTS domain that is hardcoded into Chrome as being HTTPS only. [Firefox](https://blog.mozilla.org/security/2012/11/01/preloading-hsts/ "Preloading HSTS | Mozilla Security Blog"), Opera, Safari, [IE 11 and Edge](https://blogs.windows.com/msedgedev/2015/06/09/http-strict-transport-security-comes-to-internet-explorer-11-on-windows-8-1-and-windows-7/ "HTTP Strict Transport Security comes to Internet Explorer 11 on Windows 8.1 and Windows 7 - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog") also have their list derived from this one.
+To secure even the first request, the Chromium Projects maintains a list of valid HSTS domain that is hardcoded into Chrome as being HTTPS only. [Firefox](https://blog.mozilla.org/security/2012/11/01/preloading-hsts/ "Preloading HSTS &mid; Mozilla Security Blog"), Opera, Safari, [IE 11 and Edge](https://blogs.windows.com/msedgedev/2015/06/09/http-strict-transport-security-comes-to-internet-explorer-11-on-windows-8-1-and-windows-7/ "HTTP Strict Transport Security comes to Internet Explorer 11 on Windows 8.1 and Windows 7 - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog") also have their list derived from this one.
 
 In order to be accepted to the HSTS preload list, a website has to meet the following set of requirements:
 

@@ -10,7 +10,7 @@ tags:
 locale: fr_FR
 ---
 
-Si vous fréquentez [le blog de Dareboost], il ne vous aura pas échappé [qu’il est urgent de passer au HTTPS](https://blog.dareboost.com/fr/2016/03/https-necessaire-pas-uniquement-pour-le-seo/ "Passer au HTTPs est nécessaire, et pas uniquement pour le SEO | Blog DareBoost"). L’échéance est d’autant plus forte que les géants du Web ont déjà tiré leurs coups de semonce en affichant des alertes sur certaines pages en HTTP dans Google Chrome et Mozilla Firefox. Bientôt, ce seront tous les formulaires qui seront concernés.
+Si vous fréquentez [le blog de Dareboost], il ne vous aura pas échappé [qu’il est urgent de passer au HTTPS](https://blog.dareboost.com/fr/2016/03/https-necessaire-pas-uniquement-pour-le-seo/ "Passer au HTTPs est nécessaire, et pas uniquement pour le SEO &mid; Blog Dareboost"). L’échéance est d’autant plus forte que les géants du Web ont déjà tiré leurs coups de semonce en affichant des alertes sur certaines pages en HTTP dans Google Chrome et Mozilla Firefox. Bientôt, ce seront tous les formulaires qui seront concernés.
 
 Cela étant dit, avoir un site accessible en HTTPS ne suffit pas à basculer l’ensemble de son trafic automatiquement vers cette nouvelle version.
 
@@ -69,7 +69,7 @@ Pour sécuriser davantage l’ensemble du trafic des sites sécurisés, le proje
 
 [^twalle]: La valeur était de 18 semaines lorsque j'ai écrit l'article. Elle a été repoussée à une année entre le 11 et le 16 octobre 2017. Merci à [@Thibault_Walle](https://twitter.com/Thibault_Walle) de me l'avoir signalé en commentaire.
 
-Un site éligible pourra alors [rejoindre le registre HSTS Preloading](https://hstspreload.org/ "HSTS Preload List Submission") embarqué dans Chrome, [Firefox](https://blog.mozilla.org/security/2012/11/01/preloading-hsts/ "Preloading HSTS | Mozilla Security Blog"), Opera, Safari, [IE 11 et Edge](https://blogs.windows.com/msedgedev/2015/06/09/http-strict-transport-security-comes-to-internet-explorer-11-on-windows-8-1-and-windows-7/ "HTTP Strict Transport Security comes to Internet Explorer 11 on Windows 8.1 and Windows 7 - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog"). Toute requête non-sécurisée vers ce domaine bénéficiera alors d’une redirection interne (code 307) avant même que ne démarre la requête.
+Un site éligible pourra alors [rejoindre le registre HSTS Preloading](https://hstspreload.org/ "HSTS Preload List Submission") embarqué dans Chrome, [Firefox](https://blog.mozilla.org/security/2012/11/01/preloading-hsts/ "Preloading HSTS &mid; Mozilla Security Blog"), Opera, Safari, [IE 11 et Edge](https://blogs.windows.com/msedgedev/2015/06/09/http-strict-transport-security-comes-to-internet-explorer-11-on-windows-8-1-and-windows-7/ "HTTP Strict Transport Security comes to Internet Explorer 11 on Windows 8.1 and Windows 7 - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog"). Toute requête non-sécurisée vers ce domaine bénéficiera alors d’une redirection interne (code 307) avant même que ne démarre la requête.
 
 {% capture img_alt %}Une capture des Chrome DevTools{% endcapture %}
 {% capture img_caption %}Redirection interne lors d’une tentative d’accès à Facebook en HTTP dans Chrome 60.{% endcapture %}
