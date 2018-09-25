@@ -6,7 +6,7 @@
   X-XSS-Protection: 1; mode=block
   X-Champcevinel: "Squirrel powa!"
   Referrer-Policy: strict-origin-when-cross-origin
-  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+  Strict-Transport-Security{% unless jekyll.environment == "production" %}-Report-Only{% endunless%}: max-age=63072000; includeSubDomains; preload
   Report-To: { "group"; "csp-endpoint", "max-age": 10886400, "endpoints": [ "url": "https://borisschapira.report-uri.com/r/d/csp/enforce"]}
   Content-Security-Policy: {% include csp.html.liquid %}
 
