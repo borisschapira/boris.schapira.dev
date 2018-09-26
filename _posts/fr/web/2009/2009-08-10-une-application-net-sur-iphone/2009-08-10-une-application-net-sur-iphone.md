@@ -1,6 +1,6 @@
 ---
 title: 'Une application .NET sur iPhone ?!'
-canonical: 'http://www.nexeo.fr/blog/2009/08/10/une-application-net-sur-iphone/'
+canonical: 'https://www.nexeo.fr/blog/2009/08/10/une-application-net-sur-iphone/'
 tags:
     - Nexdotnet
 date: '2009-08-10'

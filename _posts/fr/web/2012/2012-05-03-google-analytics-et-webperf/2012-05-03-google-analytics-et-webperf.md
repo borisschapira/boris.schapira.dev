@@ -2,7 +2,7 @@
 title: 'Google Analytics et la performance Web'
 tags:
     - 'Performance Web'
-canonical: 'http://blog.clever-age.com/fr/2012/05/03/google-analytics-et-la-performance-web/'
+canonical: 'https://blog.clever-age.com/fr/2012/05/03/google-analytics-et-la-performance-web/'
 date: '2012-05-03'
 type: post
 locale: fr_FR
@@ -13,7 +13,7 @@ L’équipe de Google Analytics a publié [un article donnant quelques chiffres
 <!-- more -->
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Google Analytics et la performance Web](http://blog.clever-age.com/fr/2012/05/03/google-analytics-et-la-performance-web/).
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Google Analytics et la performance Web](https://blog.clever-age.com/fr/2012/05/03/google-analytics-et-la-performance-web/).
 
 Car ce qui est comparé ici n’est pas comparable. Les pays présentés n’ont pas les mêmes qualités de connexions, privilégient parfois le filaire (comme en France) ou le mobile (dont les latences sont incroyablement plus coûteuses et les caches de navigateurs moins importants). Le parc informatique lui-même est différent, et donc les navigateurs utilisés !
 

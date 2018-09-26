@@ -3,7 +3,7 @@ title: 'F12 de IE11&nbsp;: du nouveau pour les développeurs'
 tags:
     - Outils
     - 'Performance Web'
-canonical: 'http://blog.clever-age.com/fr/2013/07/02/f12-de-ie11-du-nouveau-pour-les-developpeurs/'
+canonical: 'https://blog.clever-age.com/fr/2013/07/02/f12-de-ie11-du-nouveau-pour-les-developpeurs/'
 date: '2013-07-02'
 type: post
 locale: fr_FR
@@ -16,7 +16,7 @@ Une fois n’est pas coutume, c’est Microsoft qui s’apprête à donner un co
 <!-- more -->
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [F12 de IE11&nbsp;: du nouveau pour les développeurs](http://blog.clever-age.com/fr/2013/07/02/f12-de-ie11-du-nouveau-pour-les-developpeurs/).
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [F12 de IE11&nbsp;: du nouveau pour les développeurs](https://blog.clever-age.com/fr/2013/07/02/f12-de-ie11-du-nouveau-pour-les-developpeurs/).
 
 Outre les classiques onglets explorateurs de DOM, Console, Debugger, Réseau, il proposera également un onglet dédié aux temps de réponse de l’interface ([UI Responsiveness](<http://msdn.microsoft.com/en-us/library/ie/dn255009(v=vs.85).aspx>)), un outil de [diagnostic de la mémoire](<http://msdn.microsoft.com/en-us/library/ie/dn255003(v=vs.85).aspx>) (idéal pour détecter les fuites) et un [émulateur](<http://msdn.microsoft.com/en-us/library/ie/dn255001(v=vs.85).aspx>) (mode document, affichage, et géolocalisation).
 

@@ -8,7 +8,7 @@ type: post
 locale: fr_FR
 ---
 
-Il y a plusieurs mois, [Nexeo](http://www.nexeo.fr/) a lancé une **consultation** auprès de ses collaborateurs pour transformer l'entreprise. Plusieurs groupes de réflexion ont été créés traitant de sujets divers comme le rôle du consultant, l'image de Nexeo ou encore les pôles de compétences des collaborateurs. Avec un collègue, nous nous sommes demandé ce que nous pouvions faire pour participer&nbsp;: nous avons créé **[Nexdotnet](http://nexdotnet.nexeo.fr/)**.
+Il y a plusieurs mois, [Nexeo](https://www.nexeo.fr/) a lancé une **consultation** auprès de ses collaborateurs pour transformer l'entreprise. Plusieurs groupes de réflexion ont été créés traitant de sujets divers comme le rôle du consultant, l'image de Nexeo ou encore les pôles de compétences des collaborateurs. Avec un collègue, nous nous sommes demandé ce que nous pouvions faire pour participer&nbsp;: nous avons créé **[Nexdotnet](http://nexdotnet.nexeo.fr/)**.
 
 Nexdotnet se veut une plateforme autour de laquelle gravitera toute l'activité .NET de Nexeo qu'il s'agisse de veille technologique, de formations en vue de certifications, de conseil, d'intégration de solutions ou plus simplement de partage de connaissances entre développeurs. Avec Nexdotnet, nous espérons améliorer la circulation de l'information dans l'entreprise, nous cherchons à rendre le partage convivial, à encourager les passions et nous voulons permettre aux consultants de mieux se connaitre.
 

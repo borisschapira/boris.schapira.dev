@@ -10,7 +10,7 @@ events:
 
 {% include media/vimeo.html.liquid id="56931059" title="Mettre en place une strat&eacute;gie de performance web, Boris Shapira - Sud Web 2012" %}
 
-<em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Mettre en place une stratégie de Performance Web](http://blog.clever-age.com/fr/2012/11/16/comment-mettre-en-place-une-strategie-de-performance-web/) plusieurs mois après la conférence. Son contenu est donc plus élaboré.</em>
+<em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Mettre en place une stratégie de Performance Web](https://blog.clever-age.com/fr/2012/11/16/comment-mettre-en-place-une-strategie-de-performance-web/) plusieurs mois après la conférence. Son contenu est donc plus élaboré.</em>
 
 ### Avertissement
 
@@ -26,7 +26,7 @@ Maintenant que nous sommes d’accord sur tout ça, comment mettre en place une 
 
 La première étape consiste à comprendre ce que l’on entend par Performance Web, car la plupart du temps, cela consiste à répondre à deux questions : « à quelle vitesse ma page s’affiche-t-elle ? » et « comment cela modifie-t-il l’expérience de mes visiteurs ? ». Or, il n’y a pas de bonnes réponses à ces questions, il n’y a que des indicateurs qui permettent de se faire une idée. Et il est parfois difficile de s’y retrouver.
 
-Ces indicateurs peuvent être de deux types : orientés métier ou purement techniques. Suivant le contexte, il vous faudra définir le juste assemblage. Côté métier par exemple, pour un site e-commerce, la participation d’une page à la génération de revenus est un indicateur incontournable. En revanche, sur un portail collaboratif, il s’agira de toutes autres mesures, comme le nombre de contributions par participant. Au niveau des indicateurs techniques, il y a aussi le choix comme nous l’avions vu [dans cet autre article](http://blog.clever-age.com/fr/2012/07/31/webperf-a-quelle-vitesse-ma-page-se-charge-t-elle/). À vous de faire votre sélection.
+Ces indicateurs peuvent être de deux types : orientés métier ou purement techniques. Suivant le contexte, il vous faudra définir le juste assemblage. Côté métier par exemple, pour un site e-commerce, la participation d’une page à la génération de revenus est un indicateur incontournable. En revanche, sur un portail collaboratif, il s’agira de toutes autres mesures, comme le nombre de contributions par participant. Au niveau des indicateurs techniques, il y a aussi le choix comme nous l’avions vu [dans cet autre article](https://blog.clever-age.com/fr/2012/07/31/webperf-a-quelle-vitesse-ma-page-se-charge-t-elle/). À vous de faire votre sélection.
 
 Souvent, dans cette première phase, vous n’avez pas l’œil perpétuellement rivé sur les indicateurs, sinon vous ne feriez pas grand-chose de concret. À la place, vous faites une extraction des mesures toutes les semaines ou tous les mois, suivant la criticité, souvent manuellement. Il ne s’agit pas de perdre du temps à sortir des métriques, mais bien d’améliorer rapidement les choses. Pas la peine de réinventer la roue, vous pouvez utiliser des outils publics, souvent gratuits et en ligne comme :
 

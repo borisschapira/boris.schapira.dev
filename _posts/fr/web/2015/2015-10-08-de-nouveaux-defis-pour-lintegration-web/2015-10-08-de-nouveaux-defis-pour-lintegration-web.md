@@ -2,7 +2,7 @@
 title: 'De nouveaux défis pour l’intégration web'
 tags:
     - Front-End
-canonical: 'http://blog.clever-age.com/fr/2013/11/14/github-l-open-source-qui-conquiert-le-monde/'
+canonical: 'https://blog.clever-age.com/fr/2013/11/14/github-l-open-source-qui-conquiert-le-monde/'
 date: '2015-10-08'
 type: post
 locale: fr_FR
@@ -15,11 +15,11 @@ Fin juillet 2015, une franche polémique a enflammé la communauté des professi
 <!-- more -->
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [De nouveaux défis pour l’intégration web](http://blog.clever-age.com/fr/2015/10/08/de-nouveaux-defis-pour-lintegration-web/).
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [De nouveaux défis pour l’intégration web](https://blog.clever-age.com/fr/2015/10/08/de-nouveaux-defis-pour-lintegration-web/).
 
 En conséquence de quoi, ppk[^1] proposait un moratorium d'un an, une limitation sur les nouvelles fonctionnalités des navigateurs, à commencer par Chrome (le leader de cette course à l'innovation, d'après lui), le temps que les développeurs <em>rattrapent le coche</em>. C'est une direction vers laquelle le marché n'ira probablement pas, les dernières digues retenant l'innovation étant en train de sauter.
 
-En effet, [Microsoft abandonnera, dans un peu plus de trois mois, les supports de Internet Explorer 8, 9 et 10](https://technet.microsoft.com/en-us/ie/mt163707), mettant en avant IE11 et Microsoft Edge (MSE), deux navigateurs d'excellente facture dont la compatibilité et [les outils pour développeurs](http://blog.clever-age.com/fr/2013/07/02/f12-de-ie11-du-nouveau-pour-les-developpeurs/) sont à la hauteur des attentes actuelles du marché[^2]. Edge entre même dans la course puisque [de nouvelles fonctionnalités](https://dev.modern.ie/platform/status/) y sont régulièrement ajoutées, à l'image des politiques d'innovation de Chrome et Firefox.
+En effet, [Microsoft abandonnera, dans un peu plus de trois mois, les supports de Internet Explorer 8, 9 et 10](https://technet.microsoft.com/en-us/ie/mt163707), mettant en avant IE11 et Microsoft Edge (MSE), deux navigateurs d'excellente facture dont la compatibilité et [les outils pour développeurs](https://blog.clever-age.com/fr/2013/07/02/f12-de-ie11-du-nouveau-pour-les-developpeurs/) sont à la hauteur des attentes actuelles du marché[^2]. Edge entre même dans la course puisque [de nouvelles fonctionnalités](https://dev.modern.ie/platform/status/) y sont régulièrement ajoutées, à l'image des politiques d'innovation de Chrome et Firefox.
 
 [^2]: Pour comparer les différentes versions des navigateurs de Microsoft, n'hésitez pas à recourir au très pertinent [canisuse.com](http://caniuse.com/#compare=ie+8,ie+9,ie+10,ie+11,edge+12,edge+13 "Comparaison de IE8, IE9, IE10, IE11, MSE12 et MSE13 sur caniuse.com").
 

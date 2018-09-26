@@ -3,7 +3,7 @@ title: 'Scripts tiers&nbsp;: on ne lâche rien !'
 tags:
     - 'Scripts Tiers'
     - 'Performance Web'
-canonical: 'http://blog.clever-age.com/fr/2013/11/28/scripts-tiers-on-ne-lache-rien/'
+canonical: 'https://blog.clever-age.com/fr/2013/11/28/scripts-tiers-on-ne-lache-rien/'
 date: '2013-11-28'
 type: post
 locale: fr_FR
@@ -14,4 +14,4 @@ Les scripts tiers que nous incluons dans nos sites nous en font perdre le contr�
 [JS Manners](http://jsmanners.com) est un formulaire qui permet de noter les scripts tiers, de manière à savoir où on met les pieds. Rien d’extrêmement innovant dans ce procédé que beaucoup d’entre nous pratiquions isolément, mais un vrai travail de rationalisation de la part d’Andrew Betts, son auteur, qu’on ne peut que féliciter.
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessus a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Scripts tiers&nbsp;: on ne lâche rien&nbsp;!](http://blog.clever-age.com/fr/2013/11/28/scripts-tiers-on-ne-lache-rien/)
+**Note&nbsp;:** l'article ci-dessus a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Scripts tiers&nbsp;: on ne lâche rien&nbsp;!](https://blog.clever-age.com/fr/2013/11/28/scripts-tiers-on-ne-lache-rien/)

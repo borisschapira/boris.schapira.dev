@@ -3,7 +3,7 @@ title: 'Avec TypeScript, Microsoft espère offrir à JavaScript les outils pour 
 tags:
     - Outils
     - Front-End
-canonical: 'http://blog.clever-age.com/fr/2012/10/03/avec-typescript-microsoft-espere-offrir-a-javascript-les-outils-pour-se-developper/'
+canonical: 'https://blog.clever-age.com/fr/2012/10/03/avec-typescript-microsoft-espere-offrir-a-javascript-les-outils-pour-se-developper/'
 date: '2012-10-03'
 type: post
 locale: fr_FR
@@ -14,7 +14,7 @@ Beaucoup attendaient Anders Hejlsbernt au tournant. Il faut dire que l’homme a
 <!-- more -->
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Avec TypeScript, Microsoft espère offrir à JavaScript les outils pour se développer](http://blog.clever-age.com/fr/2012/10/03/avec-typescript-microsoft-espere-offrir-a-javascript-les-outils-pour-se-developper/).
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Avec TypeScript, Microsoft espère offrir à JavaScript les outils pour se développer](https://blog.clever-age.com/fr/2012/10/03/avec-typescript-microsoft-espere-offrir-a-javascript-les-outils-pour-se-developper/).
 
 [**TypeScript**](http://www.typescriptlang.org/), le nouveau bébé de Hejlsbernt chez Microsoft, est un **sur-ensemble de JavaScript** ajoutant au langage un certain nombre d’extensions conceptuelles dont notamment le typage statique, et une orientation objet centrée sur les classes et non plus les prototypes.
 

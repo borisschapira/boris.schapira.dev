@@ -2,7 +2,7 @@
 title: '(Web) Apps : il n''y a pas de balle en argent'
 i18n-key: no-silver-bullet
 date: '2017-02-01'
-canonical: 'http://blog.clever-age.com/fr/2017/02/01/app-ou-web-apps-il-ny-a-pas-de-balle-en-argent/'
+canonical: 'https://blog.clever-age.com/fr/2017/02/01/app-ou-web-apps-il-ny-a-pas-de-balle-en-argent/'
 type: post
 locale: fr_FR
 ---
@@ -14,7 +14,7 @@ Faisons ensemble un petit tour d’horizon des biais de logique liés à cette p
 <!-- more -->
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [(Web) Apps : il n'y a pas de balle en argent](http://blog.clever-age.com/fr/2017/02/01/app-ou-web-apps-il-ny-a-pas-de-balle-en-argent/).
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [(Web) Apps : il n'y a pas de balle en argent](https://blog.clever-age.com/fr/2017/02/01/app-ou-web-apps-il-ny-a-pas-de-balle-en-argent/).
 
 ## Web ou natif ?
 

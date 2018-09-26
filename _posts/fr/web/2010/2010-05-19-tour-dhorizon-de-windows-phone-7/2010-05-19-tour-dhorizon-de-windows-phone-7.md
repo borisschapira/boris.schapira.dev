@@ -3,7 +3,7 @@ title: 'Windows Phone 7 : Tour d''horizon'
 tags:
     - Mobilité
 series: 'Windows Phone'
-canonical: 'http://blog.clever-age.com/fr/2010/05/19/tour-d-horizon-de-windows-phone-7/'
+canonical: 'https://blog.clever-age.com/fr/2010/05/19/tour-d-horizon-de-windows-phone-7/'
 date: '2010-05-19'
 type: post
 locale: fr_FR
@@ -14,7 +14,7 @@ Windows Phone est un système d’exploitation pour téléphones mobiles présen
 <!-- more -->
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Tour d’horizon de windows phone 7](http://blog.clever-age.com/fr/2010/05/19/tour-d-horizon-de-windows-phone-7/).
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Tour d’horizon de windows phone 7](https://blog.clever-age.com/fr/2010/05/19/tour-d-horizon-de-windows-phone-7/).
 
 ### Matériel&nbsp;: un cahier des charges très strict
 

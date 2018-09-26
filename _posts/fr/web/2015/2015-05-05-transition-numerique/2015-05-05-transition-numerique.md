@@ -18,7 +18,7 @@ locale: fr_FR
 >
 > Cette richesse interactive a permis de moduler les tarifs en tenant compte du niveau d’interactivité.
 >
-> <cite>"[La Chronique Canada n°1](http://blog.clever-age.com/fr/2015/05/05/chronique-digitale-canada-1/)" par Didier Navez sur le [blog de veille de Clever Age](http://blog.clever-age.com/fr/)</cite>
+> <cite>"[La Chronique Canada n°1](https://blog.clever-age.com/fr/2015/05/05/chronique-digitale-canada-1/)" par Didier Navez sur le [blog de veille de Clever Age](https://blog.clever-age.com/fr/)</cite>
 
 La **P**resse **Q**uotidienne (éventuellement **R**égionale) est un formidable terrain d'expérimentation pour une transition numérique pleinement assumée&nbsp;: souffrant d'un modèle historique "papier" se détachant de plus en plus des usages de ses lecteurs, mise sous pression par des acteurs du Web comme Google et souffrant d'une dépendance très forte à la publicité, la Presse a désespéramment besoin de renouveler sa stratégie d'affaire et cela semble définitivement passer par le numérique.
 

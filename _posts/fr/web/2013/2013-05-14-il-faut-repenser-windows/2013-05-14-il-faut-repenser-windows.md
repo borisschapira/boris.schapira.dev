@@ -4,7 +4,7 @@ tags:
     - Outils
 series:
     - 'Windows Phone'
-canonical: 'http://blog.clever-age.com/fr/2013/05/14/il-faut-repenser-windows/'
+canonical: 'https://blog.clever-age.com/fr/2013/05/14/il-faut-repenser-windows/'
 date: '2013-05-14'
 type: post
 locale: fr_FR
@@ -15,7 +15,7 @@ Windows 8 se vend mal. Même si une centaine de millions de licences se sont éc
 <!-- more -->
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Il faut repenser Windows](http://blog.clever-age.com/fr/2013/05/14/il-faut-repenser-windows/).
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Il faut repenser Windows](https://blog.clever-age.com/fr/2013/05/14/il-faut-repenser-windows/).
 
 ## Un peu d’histoire
 

@@ -6,7 +6,7 @@ tags:
     - 'Scripts tiers'
     - 'Transformation numérique'
     - Presse
-canonical: 'http://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-point-sur-la-situation/'
+canonical: 'https://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-point-sur-la-situation/'
 date: '2015-10-22'
 type: post
 locale: fr_FR
@@ -19,7 +19,7 @@ La publicité en ligne est devenue, faute d’une meilleure solution, la princip
 <!-- more -->
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Publicité en ligne&nbsp;: un point sur la situation](http://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-point-sur-la-situation/).
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Publicité en ligne&nbsp;: un point sur la situation](https://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-point-sur-la-situation/).
 
 Sans contexte de régulation, son usage empiète un peu plus chaque jour sur les contours flous de la vie privée, au dépend d’usagers qui manifestent leur sentiment d’agression par l’usage massif de bloqueurs publicitaires[^chiffres]. Un véritable marché du blocage publicitaire émerge, constitué de solutions techniques et d’accords secrets, dans les navigateurs comme sur smartphones[^mobile]. Face à ce phénomène, certains producteurs n’hésitent plus à bloquer l’accès à leurs contenus aux utilisateurs refusant la publicité, envoyant ainsi un signal extrêmement négatif à leur audience.
 

@@ -1,6 +1,6 @@
 ---
 title: 'Les kits pour certification Microsoft'
-canonical: 'http://www.nexeo.fr/blog/2009/04/28/les-kits-pour-certification-microsoft/'
+canonical: 'https://www.nexeo.fr/blog/2009/04/28/les-kits-pour-certification-microsoft/'
 tags:
     - Nexdotnet
 date: '2009-04-28'

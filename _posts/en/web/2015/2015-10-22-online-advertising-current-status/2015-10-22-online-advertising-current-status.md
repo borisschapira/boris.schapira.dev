@@ -6,7 +6,7 @@ tags:
     - 'Scripts tiers'
     - 'Transformation numérique'
     - Presse
-canonical: 'http://blog.clever-age.com/en/2015/12/14/online-advertising-the-current-status/'
+canonical: 'https://blog.clever-age.com/en/2015/12/14/online-advertising-the-current-status/'
 date: '2015-10-22'
 type: post
 locale: en_US

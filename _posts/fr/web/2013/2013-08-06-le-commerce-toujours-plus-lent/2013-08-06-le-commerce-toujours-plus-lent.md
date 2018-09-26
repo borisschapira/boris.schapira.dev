@@ -3,7 +3,7 @@ title: 'L’e-commerce, toujours plus lent'
 tags:
     - E-Commerce
     - 'Performance Web'
-canonical: 'http://blog.clever-age.com/fr/2013/08/06/l-e-commerce-toujours-plus-lent/'
+canonical: 'https://blog.clever-age.com/fr/2013/08/06/l-e-commerce-toujours-plus-lent/'
 date: '2013-08-06'
 type: post
 locale: fr_FR
@@ -14,7 +14,7 @@ StrangeLoop (faisant désormais partie de Radware) vient de publier son rapport 
 <!-- more -->
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [L’e-commerce, toujours plus lent](http://blog.clever-age.com/fr/2013/08/06/l-e-commerce-toujours-plus-lent/).
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [L’e-commerce, toujours plus lent](https://blog.clever-age.com/fr/2013/08/06/l-e-commerce-toujours-plus-lent/).
 
 Les temps de chargement e-commerce sont de plus en plus lents, avec encore cette année une perte de 13,7 % sur le Load Time des nouveaux visiteurs (qui atteint 7,72s en moyenne). Même si cette mesure n’est pas suffisante à elle seule ([lire ici pourquoi](/2012/07/a-quelle-vitesse-ma-page-se-charge-t-elle/)), cette détérioration est inquiétante. Si on complète cette mesure en analysant le temps avant interaction, c’est bien mieux (de l’ordre de 5s), mais nous sommes encore loin d’un idéal (situé pour certains à 3s, mais qui peut atteindre 1s si la cible est mobile), et il y a fort à parier que de nombreuses personnes quittent ces sites avant d’avoir pu interagir avec leurs contenus.
 

@@ -3,7 +3,7 @@ title: 'Adobe Shadow, le Graal du développement Front-End mobile ?'
 tags:
     - Front-End
     - Outils
-canonical: 'http://blog.clever-age.com/fr/2012/03/09/adobe-shadow-le-graal-du-developpement-front-end-mobile/'
+canonical: 'https://blog.clever-age.com/fr/2012/03/09/adobe-shadow-le-graal-du-developpement-front-end-mobile/'
 date: '2012-03-09'
 type: post
 locale: fr_FR
@@ -14,7 +14,7 @@ Adobe vient de publier la bêta de Shadow, un outil de développement facilitant
 <!-- more -->
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Adobe Shadow, le Graal du développement Front-End mobile ?](http://blog.clever-age.com/fr/2012/03/09/adobe-shadow-le-graal-du-developpement-front-end-mobile/).
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Adobe Shadow, le Graal du développement Front-End mobile ?](https://blog.clever-age.com/fr/2012/03/09/adobe-shadow-le-graal-du-developpement-front-end-mobile/).
 
 Avec Shadow, l’utilisateur peut brancher plusieurs périphériques (mobiles, tablettes…) sur son ordinateur de bureau et lancer la page qu’il souhaite tester. Une routine JavaScript se charge alors de maintenir la synchronisation entre le PC et les périphériques. Ce fonctionnement, qui rappellera à certains [LiveJS](http://www.livejs.com/), va néanmoins plus loin car il synchronise également les changements d’URLs (qui sont alors répercutés sur tous les périphériques) et le contenu du DOM des navigateurs périphériques. Ces DOM peuvent alors être visualisés et modifiés en temps-réel via l’inspecteur WeInRe (fortement inspiré de l’inspecteur Webkit, vous ne serez pas dépaysés) disponible sur l’ordinateur de bureau.
 

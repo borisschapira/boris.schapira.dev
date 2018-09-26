@@ -2,7 +2,7 @@
 title: '«&#160;A quelle vitesse ma page se charge-t-elle ?&#160;»'
 tags:
     - 'Performance Web'
-canonical: 'http://blog.clever-age.com/fr/2012/07/31/webperf-a-quelle-vitesse-ma-page-se-charge-t-elle/'
+canonical: 'https://blog.clever-age.com/fr/2012/07/31/webperf-a-quelle-vitesse-ma-page-se-charge-t-elle/'
 date: '2012-07-31'
 type: post
 locale: fr_FR
@@ -13,7 +13,7 @@ Cette question est à la base de toute stratégie de WebPerf et pour autant, ell
 <!-- more -->
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [WebPerf&nbsp;: "A quelle vitesse ma page se charge-t-elle&nbsp;?"](http://blog.clever-age.com/fr/2012/07/31/webperf-a-quelle-vitesse-ma-page-se-charge-t-elle/).
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [WebPerf&nbsp;: "A quelle vitesse ma page se charge-t-elle&nbsp;?"](https://blog.clever-age.com/fr/2012/07/31/webperf-a-quelle-vitesse-ma-page-se-charge-t-elle/).
 
 Il n’y a pas de façon "standard" de mesurer la performance web mais plusieurs, qui correspondent à ce qui se passe dans le navigateur lors de l’accès à une page Web. Quand vous tapez dans votre barre d’adresse l’URL de Clever Age et attendez que la page s’affiche, votre navigateur&nbsp;:
 

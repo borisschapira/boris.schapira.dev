@@ -16,7 +16,7 @@ Il aura suffit d'une trentaine de minutes d'absence pour mettre le Web en émoi 
 <!-- more -->
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Un seul site vous manque, et tout le web est cassé](http://blog.clever-age.com/fr/2014/06/20/un-seul-site-vous-manque-et-tout-le-web-est-casse/).
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Un seul site vous manque, et tout le web est cassé](https://blog.clever-age.com/fr/2014/06/20/un-seul-site-vous-manque-et-tout-le-web-est-casse/).
 
 Car il faut bien se rendre compte que de nombreux sites sont encore liés à Facebook par des scripts synchrones (ne serait-ce que l'inclusion d'un bouton "J'aime" mal développé). Chaque lenteur de Facebook est alors ressentie par les visiteurs et une indisponibilité peut engendrer des temps de réponse à la limite du <em>timeout</em>. Facebook devient, pour ces sites, un <strong>Point Individuel de Défaillance</strong> (ou <strong>Single Point of Failure</strong>, SPoF).
 

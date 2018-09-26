@@ -89,7 +89,7 @@ Toutes ces tâches ne se produiront pas seules. Un **chef d'orchestre logiciel**
 
 <em lang="en">Last, but not least</em>, il vous faudra envisager dans votre réflexion la **maintenance** de votre solution, en intégrant éventuellement à votre processus la génération automatique d'une **documentation** à l'usage des futurs mainteneurs, mais aussi des explications pour le **débogage**[^3].
 
-[^3]: Lire à ce sujet ["Développeurs front : vous n’utilisez pas de proxy ?" de Stéphane Tessier](http://blog.clever-age.com/fr/2015/07/29/developpeurs-front-vous-nutilisez-pas-de-proxy/).
+[^3]: Lire à ce sujet ["Développeurs front : vous n’utilisez pas de proxy ?" de Stéphane Tessier](https://blog.clever-age.com/fr/2015/07/29/developpeurs-front-vous-nutilisez-pas-de-proxy/).
 
 Une fois qu'on réassemble, cela donne la chaine complète :
 

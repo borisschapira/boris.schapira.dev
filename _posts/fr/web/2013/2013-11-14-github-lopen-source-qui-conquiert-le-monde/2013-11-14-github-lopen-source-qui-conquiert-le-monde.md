@@ -3,7 +3,7 @@ title: 'GitHub, l’Open-Source qui conquiert le monde'
 tags:
     - 'Transformation numérique'
     - 'Open Source'
-canonical: 'http://blog.clever-age.com/fr/2013/11/14/github-l-open-source-qui-conquiert-le-monde/'
+canonical: 'https://blog.clever-age.com/fr/2013/11/14/github-l-open-source-qui-conquiert-le-monde/'
 date: '2013-11-14'
 type: post
 locale: fr_FR
@@ -14,7 +14,7 @@ Difficile pour un développeur, en 2013, de ne pas savoir se servir de GitHub. B
 <!-- more -->
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [GitHub, l’Open-Source qui conquiert le monde](http://blog.clever-age.com/fr/2013/11/14/github-l-open-source-qui-conquiert-le-monde/).
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [GitHub, l’Open-Source qui conquiert le monde](https://blog.clever-age.com/fr/2013/11/14/github-l-open-source-qui-conquiert-le-monde/).
 
 Ce qui avait commencé, en octobre 2007, comme un projet personnel, sans intention commerciale, est devenu aujourd’hui un pilier central de la collaboration logicielle et permet, chaque jour, à des milliers de développeurs de travailler ensemble à travers le monde.
 

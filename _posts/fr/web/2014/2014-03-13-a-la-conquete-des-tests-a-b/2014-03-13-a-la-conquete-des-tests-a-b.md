@@ -3,7 +3,7 @@ title: 'A la conquête des Tests A/B'
 i18n-key: conquering-ab-testing
 tags:
     - Front-End
-canonical: 'http://blog.clever-age.com/fr/2014/03/13/a-la-conquete-des-tests-a-b/'
+canonical: 'https://blog.clever-age.com/fr/2014/03/13/a-la-conquete-des-tests-a-b/'
 date: '2014-03-13'
 type: post
 locale: fr_FR
@@ -14,7 +14,7 @@ Matthieu n’est pas du genre à prendre une décision à la légère, surtout l
 <!-- more -->
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [A la conquête des Tests A/B](http://blog.clever-age.com/fr/2014/03/13/a-la-conquete-des-tests-a-b/).
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [A la conquête des Tests A/B](https://blog.clever-age.com/fr/2014/03/13/a-la-conquete-des-tests-a-b/).
 
 <h2>Une histoire de tests A/B</h2>
 

@@ -1,6 +1,6 @@
 ---
 title: 'PowerShell 2.0 RTM'
-canonical: 'http://www.nexeo.fr/blog/2009/07/31/powershell-2-0-rtm/'
+canonical: 'https://www.nexeo.fr/blog/2009/07/31/powershell-2-0-rtm/'
 tags:
     - Nexdotnet
 date: '2009-07-31'

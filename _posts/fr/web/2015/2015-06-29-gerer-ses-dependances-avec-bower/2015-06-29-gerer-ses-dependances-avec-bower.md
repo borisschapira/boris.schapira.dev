@@ -5,7 +5,7 @@ tags:
     - Outils
 series:
     - 'Industrialisation du Front-End'
-canonical: 'http://blog.clever-age.com/fr/2015/06/29/gerer-ses-dependances-avec-bower/'
+canonical: 'https://blog.clever-age.com/fr/2015/06/29/gerer-ses-dependances-avec-bower/'
 date: '2015-06-29'
 type: post
 locale: fr_FR
@@ -18,7 +18,7 @@ Le développement <span lang="en">front-end</span> se complexifie un peu plus ch
 <!-- more -->
 
 {:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Gérer ses dépendances avec Bower](http://blog.clever-age.com/fr/2015/06/29/gerer-ses-dependances-avec-bower/).
+**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Gérer ses dépendances avec Bower](https://blog.clever-age.com/fr/2015/06/29/gerer-ses-dependances-avec-bower/).
 
 Plus précisément, avec l’arrivée depuis quelques années de librairies HTML/CSS/JS très ciblées dans leurs objectifs, il devient de plus en plus intéressant de construire son projet <span lang="en">front</span> comme on construisait avant son projet <span lang="en">back</span> : en architecturant sa solution à partir de dépendances et d’un processus de compilation permettant de produire la solution qui les utilisera au mieux.
 
