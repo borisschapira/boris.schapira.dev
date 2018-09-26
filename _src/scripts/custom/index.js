@@ -132,26 +132,4 @@ ready(function () {
             }
         }
     })();
-
-    /***********************************************
-     ***********************************************/
-
-    perfmark(function () {
-        document.getElementsByClassName('sharing').forEach(function(item) {
-            item.addEventListener("click", function(event){
-                var shareObject = {
-                    title: event.srcElement.dataset.title,
-                    text: event.srcElement.dataset.text,
-                    url: event.srcElement.dataset.url
-                };
-                if (navigator.share) {
-                    navigator.share(shareObject)
-                        .then(function() { console.log('Successful share') })
-                        .catch(function(error) { console.log('Error sharing', error) });
-                } else { 
-                    console.log("No navigator share of ", shareObject);
-                }
-            });
-        })
-    }, 'share_api_links');
 });

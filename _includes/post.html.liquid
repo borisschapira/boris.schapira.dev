@@ -7,19 +7,6 @@
 {% assign title_encoded = post.title | url_encode %}
 {% capture url %}{{ site.url | append:page.base-url | append:post.url }}{% endcapture %}
 
-{% capture the_content %}{{ post.content }}{% endcapture %}
-{% if post.content contains "<!-- more -->" %}
-  {% capture the_abstract %}{{ post.content | split:"<!-- more -->" | first | markdownify % }}{% endcapture %}
-{% elsif post.content.size < 1000 %}
-  {% if post.content contains "<figure>" %}
-    {% capture the_abstract %}{{ post.content | split:"<figure>" | first | markdownify % }}{% endcapture %}
-  {% else %}
-    {% capture the_abstract %}{{ post.content | markdownify }}{% endcapture %}
-  {% endif %}
-{% else %}
-  {% capture the_abstract %}{{ post.excerpt | markdownify }}{% endcapture %}
-{% endif %}
-
 <article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting"{% if include.postPage %} id="content"{% else %} aria-labelledby="{{ post.slug }}"{% endif %}>
     <header class="p-header">
         {% assign datetime = post.date | date_to_xmlschema %}<time class="p-date dt-published" datetime="{{ datetime }}">{% unless page.locale =='fr_FR' %}{% include date_en.html.liquid postDate=post.date locale=page.locale %}{% else %}{{ post.date | localize: '%A %-d', page.locale }} <a href="{{ page.base-url }}{{ post.date | localize: '%Y/%m/', page.locale }}" title="{% t Articles de %} {{ post.date | localize: '%B %Y', page.locale }}">{{ post.date | localize: '%B', page.locale }}</a> <a href="{{ page.base-url }}{{ post.date | localize: '%Y/', page.locale }}" title="{% t Articles de %} {{ post.date | localize: '%Y', page.locale }}">{{ post.date | localize: '%Y', page.locale }}</a>{% endunless %}</time>{% if page.locale =='fr_FR' %}<span class="p-category"><a href="{{ page.base-url }}{{ post.category|downcase }}" title="{% t Articles de %} {% t la catégorie %} {{ post.category }}">{{ post.category }}</a></span>{% endif %}{% include reading_time.html.liquid content=post.content %}<span class="p-author h-card">{{ site.author.name }}</span>
@@ -40,15 +27,28 @@
 
   <div class="post-content">
     {% if include.postPage %}
-      {{ the_content }}
-      <p>
-        <button class="sharing" data-title="{{ post.title }}" data-text="{{ post.excerpt | strip_html }}" data-url="{{ post.url | absolute_url }}">{% t Partager cet article %}</button>
-      </p>
+      {{ post.content }}
     {% else %}
-      {{ the_abstract }}
-      <p class="read-more">
-        <a href="{{ post.url }}" title="{{post.title}}">{% t Lire la suite %} →</a>
-      </p>
+      {% if post.content contains "<!-- more -->" %}
+        {{ post.content | split:"<!-- more -->" | first | markdownify % }}
+        <p class="read-more">
+          <a href="{{ post.url }}" title="{{post.title}}">{% t Lire la suite %} →</a>
+        </p>
+      {% elsif post.content.size < 1000 %}
+        {% if post.content contains "<figure>" %}
+          {{ post.content | split:"<figure>" | first | markdownify % }}
+          <p class="read-more">
+            <a href="{{ post.url }}" title="{{post.title}}">{% t Lire la suite %} →</a>
+          </p>
+        {% else %}
+          {{ post.content | markdownify }}
+        {% endif %}
+      {% else %}
+        {{ post.excerpt | markdownify }}
+        <p class="read-more">
+          <a href="{{ post.url }}" title="{{post.title}}">{% t Lire la suite %} →</a>
+        </p>
+      {% endif %}
     {% endif %}
   </div>
 </article>
