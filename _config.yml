@@ -83,6 +83,11 @@ defaults:
       path: "_posts/en/papa"
     values:
       category: papa
+  -
+    scope:
+      path:            "assets/**/*.pdf"
+    values:
+      sitemap:         false
 # Exclusions
 exclude:
   - ".csscomb.json"
