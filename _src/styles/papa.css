@@ -597,12 +597,12 @@ body {
   scrollbar-track-color: rgba(204, 230, 204, 0.7); }
 
 html {
-  font-size: calc( 16px + (20 - 16)*(100vw - 400px) / (760-400));
+  font-size: calc( 16px + (22 - 16)*(100vw - 400px) / (1280-400));
   line-height: 1.7; }
 
-@media (min-width: 70em) {
+@media (min-width: 80rem) {
   html {
-    font-size: 20px; } }
+    font-size: 22px; } }
 
 /* Lisibility */
 .hide {

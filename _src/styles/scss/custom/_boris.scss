@@ -10,13 +10,13 @@ $sidebar-size: 14rem;
 "mixins/scrollbars";
 @include scrollbars(0.3rem, fade-out($color-main, 0.6));
 html {
-	font-size: calc( 16px + (20 - 16)*(100vw - 400px) / (760-400));
+	font-size: calc( 16px + (22 - 16)*(100vw - 400px) / (1280-400));
 	line-height: 1.7;
 }
 
-@media (min-width: 70em) {
+@media (min-width: 80rem) {
 	html {
-		font-size: 20px;
+		font-size: 22px;
 	}
 }
 
