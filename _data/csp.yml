@@ -69,6 +69,8 @@
       comment: "This domain"
     - value: "'unsafe-inline'"
       comment: "Inline styles (if I block that, I have thousand of errors…)"
+    - value: "platform.twitter.com"
+      comment: "Embed twitter using loadTwitterWjs"
 - name: img-src
   values:
     - value: "'self'"

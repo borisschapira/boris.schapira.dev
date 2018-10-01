@@ -48,7 +48,7 @@ $enable-transitions: $enable-moves;
 }
 
 .eyebrows {
-	@include animation("browsup 40s ease infinite");
+	@include animation(browsup 40s ease infinite);
 }
 
 @keyframes showclosed {
@@ -98,7 +98,7 @@ $enable-transitions: $enable-moves;
 
 .eye-closed {
 	opacity: 0;
-	@include animation("showclosed 20s ease infinite");
+	@include animation(showclosed 20s ease infinite);
 }
 
 @keyframes hideopen {
@@ -147,5 +147,5 @@ $enable-transitions: $enable-moves;
 }
 
 .eye-open {
-	@include animation("animation: hideopen 20s ease infinite");
+	@include animation(hideopen 20s ease infinite);
 }
