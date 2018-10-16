@@ -1,5 +1,5 @@
 ---
-title: L'essentiel
+title: 'L''essentiel'
 date: '2018-06-01'
 type: post
 locale: fr_FR

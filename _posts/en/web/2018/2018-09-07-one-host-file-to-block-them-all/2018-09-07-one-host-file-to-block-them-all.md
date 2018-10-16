@@ -2,7 +2,7 @@
 title: 'One hosts file to block them all'
 i18n-key: hosts
 date: '2018-09-07'
-main_image: '/assets/images/2018-09-07/gollum.jpg'
+main_image: /assets/images/2018-09-07/gollum.jpg
 type: post
 tags:
     - WebPerf

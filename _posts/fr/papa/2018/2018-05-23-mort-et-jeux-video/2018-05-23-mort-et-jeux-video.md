@@ -1,5 +1,5 @@
 ---
-title: Mort et jeux vidéo
+title: 'Mort et jeux vidéo'
 date: '2018-05-23'
 type: post
 locale: fr_FR
