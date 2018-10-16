@@ -27,7 +27,7 @@ J'ai donc décidé de réfléchir plutôt à une approche plus légère et ouver
 
 Les sujets abordés dépendent, quant-à-eux, des cursus dans lesquels ces interventions peuvent s'inscrire (encore une fois, l'idée n'est pas de créer un nouvel enseignement, mais de donner une couleur numérique à l'existant). Ci-dessous, quelques exemples.
 
----
+***
 
 ## Education Civique
 
@@ -61,7 +61,7 @@ Suivant les séries et les sujets, de nombreux sujets abordables sur le Travail 
 
 L'e-mail est-il une nouvelle forme de communication épistolaire ou s'inscrit-il dans l'immédiateté d'une conversation&nbsp;?
 
----
+***
 
 L'idée de ces interventions est d'offrir aux plus jeunes une culture numérique qui leur permette, non pas de devenir développeurs, mais plutôt de comprendre les enjeux de leurs choix quotidiens sur Internet. Les sujets abordés sont _à la carte_, et j'essaie d'investir les responsables d'établissement et les professeurs mais pour l'instant, j'ai assez peu de retour, même en proposant d'**offrir gratuitement** mes services.
 

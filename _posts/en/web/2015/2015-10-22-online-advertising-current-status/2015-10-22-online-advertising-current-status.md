@@ -82,7 +82,7 @@ The moral to remember is this: advertising is a concept that arises entirely fro
 
 If you can, always prefer _business models_ based on the added value of your content rather than offering it at a low cost or for free: you are sending the wrong signal and it is hard to move away from this model _afterward_.
 
----
+***
 
 ## About the same subject:
 

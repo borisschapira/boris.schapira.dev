@@ -26,7 +26,7 @@ Agacé de ne pas retrouver son nom, je finis par lui poser la question.
 > — Oui, c'était un de mes clients. Je m'occupais d'améliorer la performance Web.  
 > — Ça, je ne sais pas. Mais nous recevions des alertes régulières pour des évolutions dans nos formats. Supprimer les `document.write`, améliorer les temps de réponse, réduire des images, ne plus reposer sur des librairies tierces… Pendant plusieurs mois, tous les tickets les plus pénibles portaient ton nom. Quand on en voyait arriver un nouveau, on rigolait jaune. Je crois que j'ai fini par te détester, alors qu'on s'était jamais vu.
 
----
+***
 
 La Qualité implique souvent de relever des problèmes d'implémentation et, quand il s'agit de code tiers, de demander aux responsables de corriger. Jamais, avant cet échange, je ne m'étais autant rendu compte de l'existence de ces personnes, de ces gens qui ne sont pas forcément formés à la qualité et ne comprennent pas, au moment où elles reçoivent les demandes, les motivations sous-jacentes.
 

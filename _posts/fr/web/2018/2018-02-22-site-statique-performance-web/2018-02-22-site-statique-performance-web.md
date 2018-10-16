@@ -153,11 +153,11 @@ D’autant qu’en dépit du risque de centralisation qu’elles constituent, le
 
 De quoi permettre à votre équipe de se concentrer sur le développement du Front-End et l'optimisation des performances Web. Avec un Time To First Byte aussi bas, l'équipe peut pleinement se concentrer sur l'UX grâce à la mesure du [Speed Index](https://blog.dareboost.com/en/2018/02/speed-index-web-performance/) et la maitrise des interactions utilisateurs.
 
----
+***
 
 _Mes remerciements à Erin Symons, [Frank Taillandier](https://twitter.com/dirtyf) et toute la [communauté jamstatic.fr](https://jamstatic.fr/), [Bud Parr](https://twitter.com/budparr), [Nicolas Hoffmann](https://twitter.com/Nico3333fr) et mes collègues [Philippe Guilbert](https://twitter.com/GuilbertPhil) et [Damien Jubeau](https://twitter.com/DamienJubeau) pour leur temps et leurs conseils._
 
----
+***
 
 ## Ressources additionnelles
 

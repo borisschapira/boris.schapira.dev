@@ -21,6 +21,6 @@ Les débats sur ce texte sont justement interrompus entre le 12 et le 30 mars. P
 Cordialement,
 Boris Schapira
 
----
+***
 
 Vous aussi, [écrivez à notre Ministre de la Culture](http://www.culture.gouv.fr/).

@@ -11,7 +11,7 @@ locale: fr_FR
 
 <!-- more -->
 
----
+***
 
 Aujourd'hui, c'est le grand jour !
 
