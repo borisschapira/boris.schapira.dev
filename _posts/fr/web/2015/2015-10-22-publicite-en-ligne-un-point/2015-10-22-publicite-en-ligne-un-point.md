@@ -78,7 +78,7 @@ Reste une morale à ne pas oublier : la publicité est une problématique créé
 
 Si vous le pouvez, préférez toujours des _business model_ basés sur la plus-value de vos contenus plutôt que sur leur proposition à bas coût, ou sans frais : vous envoyez un mauvais signal et il est dur d’en sortir _a posteriori_.
 
----
+***
 
 ## Aller plus loin, en savoir plus
 
@@ -86,5 +86,3 @@ Quelques liens proposés par des lecteurs :
 
 * ["What will happend next will amaze you"](http://idlewords.com/talks/what_happens_next_will_amaze_you.htm) de Maciej Cegłowski, proposé par [@akramfares](https://twitter.com/akramfares)
 * ["Publicité en ligne : où va l'argent ?"](https://piacentino.com/jb/2015/publicite-en-ligne-ou-va-largent) de Jb Piacentino, proposé par [@eliesl](https://twitter.com/eliesl)
-
----

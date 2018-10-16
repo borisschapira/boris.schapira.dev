@@ -58,7 +58,7 @@ Un de ces principes n’est pas respecté → Arrêt de la discussion.
 
 Ces principes sont respectés → **Bravo** vous avez eu une discussion rationnelle.
 
----
+***
 
 ## Les caractéristiques de la pensée critique[^1]
 

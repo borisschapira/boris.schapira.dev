@@ -12,7 +12,7 @@ Je vous rassure, c'est loin d'être toujours le cas. Si on enlève tous les mome
 
 <!-- more -->
 
----
+***
 
 Le matin, au réveil, quand je leur demande s'ils ont fait de beaux rêves :
 
@@ -20,7 +20,7 @@ Le matin, au réveil, quand je leur demande s'ils ont fait de beaux rêves :
 
 Tous les matins. Toujours des chevaliers.
 
----
+***
 
 En prenant le petit déjeuner :
 
@@ -29,14 +29,14 @@ En prenant le petit déjeuner :
 
 Débrouille toi avec ça.
 
----
+***
 
 En allant à l'école :
 
 > — Vous êtes contents d'aller à l'école ?  
 > — {silence}
 
----
+***
 
 En rentrant de l'école :
 
@@ -47,7 +47,7 @@ En rentrant de l'école :
 
 Euh, ok…
 
----
+***
 
 À table :
 
@@ -55,7 +55,7 @@ Euh, ok…
 > — (en cœur) Oui ?
 > — C'est bon mais je préfère les pâtes.
 
----
+***
 
 Par contre, arrive systématiquement ce moment, en fin de journée, où un événement déclenche la prise de parole…
 

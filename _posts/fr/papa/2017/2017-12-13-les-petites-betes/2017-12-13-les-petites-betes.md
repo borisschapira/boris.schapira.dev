@@ -48,6 +48,6 @@ alt=alt_text
 caption="La science, c'est la meilleure histoire du soir."
 %}
 
----
+***
 
 [À suivre…](/2017/12/les-petites-betes-suite/ "Les petites bêtes (suite)")

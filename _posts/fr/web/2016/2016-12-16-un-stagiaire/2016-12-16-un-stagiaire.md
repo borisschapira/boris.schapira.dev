@@ -13,7 +13,7 @@ Recevoir un·e stagiaire est toujours une petite découverte. On ne sait jamais 
 
 J'ai commencé il y a quelques années. Par curiosité, je dois dire. Et puis j'ai découvert [ViensVoirMonTaf](http://www.viensvoirmontaf.fr/), une initiative qui permet à des jeunes de découvrir ce qui, parfois, semble pour eux impossible.
 
----
+***
 
 Nous avons beaucoup parlé mais il est parfois difficile pour moi d'expliquer tout ce que je fais à voix haute, donc nous avons trouvé un subterfuge. Il s'est posté face à moi et j'ai configuré mon second écran en recopie, tourné vers lui. Ainsi, entre deux moments d'échange, il avait le loisir d'apprendre en autonomie tout en pouvant jeter un œil à mon écran de temps en temps et poser des questions quand il le souhaitait.
 
@@ -23,19 +23,19 @@ Expliquer la technique n'a finalement pas été très dur. Les concepts fondamen
 
 Mais les échanges les plus détaillés concernaient la vie de l'entreprise. Nous avons beaucoup parlé du rôle d'un consultant, de l'ambiance de travail, des missions, de l'organisation du temps, de la culture d'entreprise, des différentes entités internes (tant au niveau managérial que dans la représentativité), des salaires, des évolutions de carrières, de l'âge…
 
----
+***
 
 Accueillir un·e stagiaire de troisième et prendre le temps d'échanger avec elle ou lui est, je pense, une affaire cruciale. Pour ces enfants, d'abord, car il s'agit de leur premier contact avec le monde de l'entreprise (beaucoup n'ont pas conscience du travail de leurs parents et en sortent bien plus curieux qu'avant). Pour nous, encore plus.
 
 Quand nous rencontrons un problème dans la formalisation d'une problématique technique en code, nous avons quasiment tous l'habitude de parler à un collègue pour essayer de dénouer la situation. Un stagiaire de troisième, c'est le [canard en plastique](https://fr.wikipedia.org/wiki/M%C3%A9thode_du_canard_en_plastique) du monde du travail. C'est en lui expliquant votre vie professionnelle que vous allez mettre rapidement le doigt sur ce qui peut la rendre compliquée ou, au contraire, géniale (ou les deux, chacun ses goûts).
 
----
+***
 
 Parfois, les parents des stagiaires viennent. Le premier jour, pour nous demander de prendre soin de leurs bouts de chou. Le dernier jour, aussi, parfois, pour nous remercier. Une fois, une mère s'est mise à pleurer. Son fils lui avait dit la veille qu'il avait envie de retourner au collège. Il avait découvert quelque chose et voulait désormais faire des études.
 
 Bien sûr, tout n'est pas toujours rose. J'ai reçu des stagiaires qui venaient en survêtement. D'autres qui faisaient du bruit. Ce sont des enfants. Si nous ne sommes pas capables de partager et d'apprendre à nos enfants, à quoi sert notre société ?
 
----
+***
 
 ## Les sujets abordés {#memo}
 

@@ -17,7 +17,7 @@ Si cet article vous plait, n'hésitez pas à me remercier d'une des façons suiv
 
 <!-- more -->
 
----
+***
 
 Votre dernier projet _parfait_ vient de se terminer :
 
@@ -161,7 +161,7 @@ Vous l'aurez compris : pour Noël, je voudrais que nous réalisions tous que fai
 
 Pour faire quelque chose de pérenne, il faut autant comprendre le présent qu'imaginer l’avenir, mais rien ne sert de l’appeler trop fort. Il n'est pas sourd et arrivera bien assez vite.
 
----
+***
 
 Des ressources m'ont été proposée par [Antoine Fauchié](https://www.quaternum.net/2016/12/24/concevoir-des-sites-web-pour-le-futur/), et elles ont entièrement leur place ici. Si l'article vous a plu, n'hésitez pas à creuser en lisant :
 
