@@ -1,5 +1,5 @@
 ---
-title: Phoenix Wright
+title: 'Phoenix Wright'
 date: '2018-04-26'
 type: post
 locale: fr_FR

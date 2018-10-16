@@ -1,5 +1,5 @@
 ---
-title: Les vêtements !
+title: 'Les vêtements !'
 date: '2018-06-16'
 type: post
 locale: fr_FR

@@ -1,5 +1,5 @@
 ---
-title: Le "Péchapé" Tour
+title: 'Le "Péchapé" Tour'
 date: '2018-05-28'
 type: post
 locale: fr_FR

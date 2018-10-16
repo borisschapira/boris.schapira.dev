@@ -1,5 +1,5 @@
 ---
-title: Futur scénariste
+title: 'Futur scénariste'
 date: '2018-05-20'
 type: post
 locale: fr_FR
