@@ -1,3 +1,4 @@
+/*eslint-env jquery*/
 // Staticman comment replies
 // modified from Wordpress https://core.svn.wordpress.org/trunk/wp-includes/js/comment-reply.js
 // Released under the GNU General Public License - https://wordpress.org/about/gpl/
@@ -130,15 +131,13 @@ $('#comment-form').on("submit", function submitForm(event) {
     url: url,
     data: data,
     contentType: contentType,
-    success: function (data) {
-      console.log('Vole, petit commentaire !');
+    success: function () {
       $form.find('input, textarea').val('');
       $submitBtn.attr('disabled', null);
       $form.find('.info').addClass('hidden');
       $form.find('.info.success').removeClass('hidden');
     },
-    error: function (err) {
-      console.error(err);
+    error: function () {
       $submitBtn.attr('disabled', null);
       $form.find('.info').addClass('hidden');
       $form.find('.info.fail').removeClass('hidden');
