@@ -159,6 +159,7 @@ var abbrTouch = (function () { // eslint-disable-line no-unused-vars
   return init;
 })();
 
+/* global abbrTouch */
 function ready(fn) {
     if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
         fn();
@@ -181,7 +182,7 @@ function perfmark(callback, key) {
             var lang_user;
             lang_user = localStorage.getItem("lang_user");
             if (!lang_user) {
-                var lang_user = (window.navigator.userLanguage || (window.navigator.languages.length > 0 && window.navigator.languages[0]) || window.navigator.language).slice(0, 2);
+                lang_user = (window.navigator.userLanguage || (window.navigator.languages.length > 0 && window.navigator.languages[0]) || window.navigator.language).slice(0, 2);
                 localStorage.setItem("lang_user", lang_user);
                 var lang_site = document.getElementsByTagName('html')[0].lang;
                 if (lang_user != lang_site) {
@@ -189,7 +190,6 @@ function perfmark(callback, key) {
                 }
             }
         } catch (e) {
-            console.log("No localstorage, no lang redirection.")
         }
     }, 'switchlang');
 })();
@@ -228,7 +228,7 @@ ready(function () {
 
 
         perfmark(function () {
-            abbrTouch(document.querySelector('article'), function (target, title, touchX, touchY) {
+            abbrTouch(document.querySelector('article'), function (target, title) {
                 var tooltip = getTooltipElement();
                 // Ensure the tooltip is ready so that the initial transition works
                 setTimeout(function () {
@@ -270,7 +270,6 @@ ready(function () {
             if (!video.classList.contains('loading-started')) {
                 video.classList.add('loading-started');
                 video.addEventListener("canplay", function () {
-                    console.log('Play video.');
                     this.play();
                 });
             }

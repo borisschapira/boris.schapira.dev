@@ -1,3 +1,4 @@
+/* global instantsearch */
 var search = instantsearch({
     appId: document.getElementById('algolia-app-id').innerHTML,
     apiKey: document.getElementById('algolia-api-key').innerHTML,
