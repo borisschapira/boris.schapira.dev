@@ -4,7 +4,9 @@ target: spécialistes SEO
 description: >-
   L’essor des usages mobiles change la donne du Web, entraînant une nouvel intérêt pour l’optimisation de l’expérience utilisateur, à commencer par la Performance Web. Google multiplie les expérimentations sur ce sujet-clé pour l’entreprise, au risque de souffler un vent de panique sur le marché.
 
+
   Mais pour appréhender la performance d’un site web, encore faut-il savoir quels indicateurs collecter, comment les interpréter et surtout comment les améliorer. Nous verrons également ensemble comment cette petite révolution va nécessiter, comme dans le reste de l’activité SEO, de l’agilité, de la veille, et une vraie volonté d’expérimentation.
+
 
   En route pour un Web plus rapide !
 last_date: 2018-06-06
