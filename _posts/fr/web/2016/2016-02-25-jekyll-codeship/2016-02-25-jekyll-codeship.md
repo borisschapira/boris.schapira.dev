@@ -1,6 +1,6 @@
 ---
 title: 'Un blog avec Jekyll et Codeship'
-main_image: assets/images/2016-02-25/jekyll.png
+main_image: /assets/images/2016-02-25/jekyll.png
 date: '2016-02-25'
 type: post
 locale: fr_FR
