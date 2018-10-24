@@ -1,6 +1,6 @@
 ---
 title: 'Les femmes dans l''Histoire'
-main_image: assets/images/2016-04-20/0.jpg
+main_image: /assets/images/2016-04-20/0.jpg
 tags:
     - HeForShe
     - Égalité

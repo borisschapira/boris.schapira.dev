@@ -1,7 +1,7 @@
 ---
 title: 'Optimiser les images et réduire leur poids : formats, outils et RWD'
 i18n-key: image-weight-bp-dareboost
-main_image: assets/images/2017-10-29/square.jpg
+main_image: /assets/images/2017-10-29/square.jpg
 date: '2017-10-29'
 canonical: 'https://blog.dareboost.com/fr/2017/10/optimiser-les-images-et-reduire-leur-poids-formats-outils-et-rwd/'
 type: post
