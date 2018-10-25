@@ -28,6 +28,7 @@ De [toutes les possibilités](https://codepen.io/vincent-valentin/full/woGLVL "A
 
 ***
 
+{:#disambiguation}
 Pour éviter les malentendus :
 
 **Oui**, c'est une évolution de la langue française.
