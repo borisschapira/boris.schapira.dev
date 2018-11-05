@@ -133,7 +133,7 @@ ready(function () {
     })();
 
 
-    (function(){
+    (function() {
         window.visibilityJoke = {
             song: [
                 "🎶 Moi je t'offrirai",

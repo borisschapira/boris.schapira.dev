@@ -57,12 +57,12 @@
     "csswring": "^7.0.0",
     "eslint": "^5.7.0",
     "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-config-google": "^0.3.0",
+    "eslint-config-google": "^0.11.0",
     "eslint-plugin-import": "^2.14.0",
     "node-sass": "^4.9.4",
-    "postcss": "^5.0.14",
+    "postcss": "^7.0.5",
     "postcss-cli": "^6.0.0",
-    "prettier": "1.12.1",
+    "prettier": "^1.14.3",
     "uglify-js": "^3.4.9"
   },
   "dependencies": {
