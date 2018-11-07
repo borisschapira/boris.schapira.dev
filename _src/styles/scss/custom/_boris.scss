@@ -52,10 +52,6 @@ img {
 	background-color: $color-main;
 
 	@include bg-svg($color-main);
-	.lead {
-		font-size: 1rem;
-		display: none;
-	}
 }
 
 .content a,
@@ -532,9 +528,6 @@ footer .wrap {
 }
 
 @media (min-width: 33em) {
-	.sidebar .lead {
-		display: block;
-	}
 	.content {
 		padding-top: 2rem;
 		padding-bottom: 2rem;

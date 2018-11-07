@@ -47,10 +47,6 @@ $enable-transitions: $enable-moves;
 	}
 }
 
-.eyebrows {
-	@include animation(browsup 40s ease infinite);
-}
-
 @keyframes showclosed {
 	13% {
 		opacity: 0;
@@ -94,11 +90,6 @@ $enable-transitions: $enable-moves;
 	76% {
 		opacity: 0;
 	}
-}
-
-.eye-closed {
-	opacity: 0;
-	@include animation(showclosed 20s ease infinite);
 }
 
 @keyframes hideopen {
@@ -146,6 +137,64 @@ $enable-transitions: $enable-moves;
 	}
 }
 
-.eye-open {
-	@include animation(hideopen 20s ease infinite);
+.avatar {
+	.eyebrows {
+		@include animation(browsup 40s linear infinite);
+	}
+
+	.eye-closed {
+		opacity: 0;
+		@include animation(showclosed 20s linear infinite);
+	}
+
+	.eye-open {
+		@include animation(hideopen 20s linear infinite);
+	}
+
+	.kids,
+	.boris {
+		@include transition(transform 1s);
+	}
+
+	.kids,
+	.db-logo {
+		display: none;
+	}
+
+	.boris {
+		display: block;
+	}
+
+	.bg {
+		fill: #65c9ff;
+	}
+
+	.shirt {
+		fill: #ff488e;
+	}
+
+	.papa &,
+	.dad & {
+		.kids {
+			display: block;
+		}
+
+		.boris {
+			display: none;
+		}
+
+		.bg {
+			fill: #293324;
+		}
+	}
+
+	.web & {
+		.db-logo {
+			display: block;
+		}
+
+		.shirt {
+			fill: #1a252f;
+		}
+	}
 }

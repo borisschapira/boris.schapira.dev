@@ -10,7 +10,7 @@ layout: microtypo
 
   {% include head.html.liquid %}
 
-  <body id="top" class="theme-base-0g">
+  <body id="top" class="theme-base-0g{% if page.category.size > 0 %} {{page.category}}{% endif %}">
 
     {% include symbols.svg.liquid %}
     <a class="skip-main" href="#main">{% t Aller directement au contenu principal %}</a>
