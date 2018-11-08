@@ -38,10 +38,6 @@ L'internationalisation est permise par `i18n` et le `i18n_filter`[^2].
 
 [^2]: La technique de localisation est détaillée dans le [guide de démarrage Jekyll de Thomas Brelet](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/#localiser-jekyll).
 
-La durée de lecture est calculée en considérant une vitesse de lecture moyenne de {{ site.reading_speed }} mots par minute. Votre vitesse de lecture est probablement différente[^rs], ce n'est qu'indicatif.
-
-[^rs]: la mienne est d'un peu plus de {{ site.author.reading_speed_fr }} mots en français et de {{ site.author.reading_speed_en }} en anglais (à plus de 80 % de rétention, sinon ça ne compte pas).
-
 J'utilise [node](https://nodejs.org/) pour la compilation des ressources statiques CSS et JS.
 
 ### Compilation et déploiement
