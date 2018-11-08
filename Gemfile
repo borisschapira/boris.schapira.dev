@@ -20,6 +20,7 @@ group :jekyll_plugins do
   gem 'jekyll-algolia'
   gem 'jekyll-archives'
   gem 'jekyll-cloudinary'
+  gem "jekyll-include-cache"
   gem 'jekyll-mermaid'
   gem 'jekyll-microtypo'
   gem 'jekyll-paginate-v2', :git => 'https://github.com/borisschapira/jekyll-paginate-v2', :branch => 'default-values'

@@ -93,6 +93,8 @@ GEM
     jekyll-cloudinary (1.13.0)
       fastimage (~> 2.0)
       jekyll (~> 3.6)
+    jekyll-include-cache (0.1.0)
+      jekyll (~> 3.3)
     jekyll-mermaid (1.0.0)
     jekyll-microtypo (0.2.3)
       jekyll (>= 3.0, < 4.0)
@@ -158,6 +160,7 @@ DEPENDENCIES
   jekyll-algolia
   jekyll-archives
   jekyll-cloudinary
+  jekyll-include-cache
   jekyll-mermaid
   jekyll-microtypo
   jekyll-paginate-v2!
