@@ -5,8 +5,8 @@ gem 'i18n'
 gem 'jekyll', '~>3.8.0'
 
 # Optimize Liquid compilation
-gem 'liquid', github: 'Shopify/liquid', branch: 'master'
-gem 'liquid-c', github: 'Shopify/liquid-c', branch: 'master'
+gem 'liquid', :git => 'https://github.com/Shopify/liquid', branch: 'master'
+gem 'liquid-c', :git => 'https://github.com/Shopify/liquid-c', branch: 'master'
 
 gem 'rake'
 

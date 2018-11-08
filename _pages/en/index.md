@@ -7,7 +7,7 @@ displayCustomHead: true
 displayCustomTitle: false
 i18n-key: home
 locale: "en_US"
-base-url: "/en/"
+baseurl: "/en/"
 category: ''
 pagination: 
   enabled: true

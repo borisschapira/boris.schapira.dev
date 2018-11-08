@@ -1,17 +1,17 @@
 GIT
-  remote: git://github.com/Shopify/liquid-c.git
-  revision: 9168659de45d6d576fce30c735f857e597fa26f6
-  branch: master
-  specs:
-    liquid-c (4.0.0.rc1)
-      liquid (>= 3.0.0)
-
-GIT
-  remote: git://github.com/Shopify/liquid.git
+  remote: https://github.com/Shopify/liquid
   revision: 2b3c81cfd05ef23869d88cde03faafa1d393ac5b
   branch: master
   specs:
     liquid (4.0.1)
+
+GIT
+  remote: https://github.com/Shopify/liquid-c
+  revision: 72807dc6b8ea6c08a103b06f63d7bcca8952def7
+  branch: master
+  specs:
+    liquid-c (4.0.0.rc1)
+      liquid (>= 3.0.0)
 
 GIT
   remote: https://github.com/borisschapira/jekyll-paginate-v2
@@ -135,7 +135,7 @@ GEM
     rouge (3.3.0)
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
-    sass (3.7.1)
+    sass (3.7.2)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)

@@ -8,18 +8,315 @@ layout: microtypo
 {% endif %}<!DOCTYPE html>
 <html lang="{{ the-locale | slice: 0,2 }}" itemscope itemtype="https://schema.org/WebPage">
 
-  {% include head.html.liquid %}
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="dns-prefetch" href="https://res.cloudinary.com">
+    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-serif-regular.woff2" crossorigin >
+    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-sans-bold.woff2" crossorigin >
+    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-serif-italic.woff2" crossorigin >
+
+    <!-- Previous and next posts -->
+    {% if page.next_context or page.prev_context %}
+        {% if page.prev_context %}<link rel="prefetch" href="{{page.prev_context.url}}">{% endif %}
+        {% if page.next_context %}<link rel="prefetch" href="{{page.next_context.url}}">{% endif %}
+    {% endif %}
+
+    <!-- CSS and color -->
+    <!-- nomicrotypo -->
+    <script>performance.mark('mark_declare_css_start');</script>
+    <style>{% include styles/core.min.css %}</style>
+    {% capture themeColor %}{{ site.data.styles.main.color }}{% endcapture %}
+    {% if page.category.size > 0 %}{% capture catdown %}{{ page.category|downcase }}{% endcapture %}{% capture themeColor %}{{ site.data.styles[catdown].color }}{% endcapture %}{%capture css_file %}{{ site.data.styles[catdown].css }}.min.css{% endcapture %}{% else %}{%capture css_file %}{{ site.data.styles.main.css }}.min.css{% endcapture %}{% endif %}
+    <style>{% include styles/{{ css_file }} %}</style>
+    <script>performance.mark('mark_declare_css_end');performance.measure('mark_declare_css', 'mark_declare_css_start', 'mark_declare_css_end');</script>
+    <!-- endnomicrotypo -->
+
+    {% if page.i18n-key == "search" %}
+      <style>{% include styles/vendors/instantsearch.min.css %}{% include styles/vendors/instantsearch-theme-algolia.min.css %}</style>
+    {% endif %}
+
+    <!-- WebMentions -->
+    {% comment %}<link rel="pingback" href="https://webmention.io/borisschapira.com/xmlrpc" />{% endcomment %}
+    <link rel="pingback" href="https://webmention.io/webmention?forward=https://webmention.io/borisschapira.com/webmention" />
+    <link rel="webmention" href="https://webmention.io/borisschapira.com/webmention" />
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" href="{{ site.author.feed }}">
+
+    <!-- Lang and indexation -->
+    {% if page.robots %}
+      {% assign noindex = page.robots.noindex | default: false %}
+      {% assign nofollow = page.robots.nofollow | default: false %}
+    {% endif %}
+    {% if page.translation %}
+      {% assign lang = page.translation.locale | slice: 0,2 %}
+    {% endif %}
+    {% if paginator and paginator.page > 1 %}
+      {% assign noindex = true %}
+    {% else %}
+      {% if page.translation %}
+        <link rel="alternate" hreflang="{{ lang }}" href="{{ page.translation.url }}"/>
+      {% endif %}
+    {% endif %}
+
+    {% if site.robots %}
+      <meta name="robots" content="{{ site.robots }}">
+    {% else %}
+      {% if noindex or nofollow %}
+      <meta name="robots" content="{% if noindex %}no{% endif %}index, {% if nofollow %}no{% endif %}follow">
+      {% endif %}
+    {% endif %}
+    
+    <!-- Social Media -->
+    {% comment %} Date {% endcomment %}
+    {% capture socialDate %}{{ page.date | date: "%Y-%m-%d" }}{% endcapture %}
+    {% comment %} Site Name {% endcomment %}
+    {% capture socialSitename %}{{ site.name }}{% endcapture %}
+    {% comment %} Author {% endcomment %}
+    {% capture socialAuthor %}{{ site.author.name }}{% endcapture %}
+    {% if page.by  != nil %}
+      {% capture socialAuthor %}{{ page.by }}{% endcapture %}
+    {% endif %}
+    {% comment %} Page Title, description and URL {% endcomment %}
+    {% capture socialTitle %}{{ site.title }}{% endcapture %}
+    {% capture socialDescription %}{{ site.description }}{% endcapture %}
+    {% capture socialUrl %}{{ site.url | append:page.url }}{% endcapture %}
+    {% capture socialType %}website{% endcapture %}
+
+    {% case page.type %}
+      {% when "year" %}
+        {% capture socialTitle %}Année {{ page.date | localize: "%Y", page.locale }}{% endcapture %}
+        {% capture socialDescription %}Billets publiés en {{ page.date | localize: "%Y", page.locale }}{% endcapture %}
+      {% when "month" %}
+        {% capture socialTitle %}{{ page.date | localize: '%B %Y', page.locale }}{% endcapture %}
+        {% capture socialDescription %}Billets publiés en {{ page.date | localize: '%B %Y', page.locale }}{% endcapture %}
+      {% when "post" %}
+        {% capture socialTitle %}{{ page.title | strip_html }}{% endcapture %}
+        {% if page.content contains "<!-- more -->" %}
+          {% capture socialDescription %}{{ page.content | split:"<!-- more -->" | first | markdownify }}{% endcapture %}
+        {% elsif page.content.size < 1000 %}
+          {% if page.content contains "<figure>" %}
+            {% capture socialDescription %}{{ page.content | split:"<figure>" | first | markdownify }}{% endcapture %}
+          {% else %}
+            {% capture socialDescription %}{{ page.content | markdownify }}{% endcapture %}
+          {% endif %}
+        {% else %}
+          {% capture socialDescription %}{{ page.excerpt | markdownify }}{% endcapture %}
+        {% endif %}
+      {% else %}
+        {% capture socialTitle %}{{ page.title | strip_html }}{% endcapture %}
+        {% if page.description %}
+          {% capture socialDescription %}{{ page.description }}{% endcapture %}
+        {% elsif page.content contains "<!-- more -->" %}
+          {% capture socialDescription %}{{ page.content | split:"<!-- more -->" | first | markdownify }}{% endcapture %}
+        {% elsif page.content.size > 50 %}
+          {% if page.content contains "<figure>" %}
+            {% capture socialDescription %}{{ page.content | split:"<figure>" | first | markdownify }}{% endcapture %}
+          {% else %}
+            {% capture socialDescription %}{{ page.content | markdownify }}{% endcapture %}
+          {% endif %}
+        {% else %}
+          {% capture socialDescription %}{{ site.description }}{% endcapture %}
+        {% endif %}
+    {% endcase %}
+    {% capture socialDescription %}{{ socialDescription | strip_html | truncatewords: 40 | strip_newlines | escape_once }}{% endcapture %}
+    
+    {% comment %} Image {% endcomment %}
+    {% assign imgtitle = socialTitle | url_escape | replace: ' ', '%20' | replace: '.', '%2e' | replace: ',', '%252C' | replace: "'", '%E2%80%99' | replace: '?', '%3F'%}
+    {% capture socialImage %}https://avatars.borisschapira.com/avataaars_1200.png{% endcapture %}
+    {% if page.main_image %}
+      {% capture socialImage %}{{ page.main_image | absolute_url }}{% endcapture %}
+    {% else %}
+      {% if page.category.size > 0 %}
+        {% capture socialImage %}/assets/images/category/{{ page.category | slugify }}.jpg{% endcapture %}
+        {% assign socialImage = socialImage | absolute_url %}
+      {% endif %}
+    {% endif %}
+    {% capture socialImage %}https://res.cloudinary.com/{{ site.cloudinary.cloud_name }}/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:{{ themeColor }},o_40/w_1000,c_fit,l_text:PT%20Sans_80:{{ imgtitle }},x_2,y_-98,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_80:{{ imgtitle }},y_-100,co_white/l_text:PT%20Sans_50:borisschapira,g_south_east,x_44,y_75,co_black,o_40/l_text:PT%20Sans_50:borisschapira,g_south_east,x_46,y_77,co_white/c_fill,g_south_east,r_max,h_45,l_twitter,w_45,x_336,y_80/c_scale,g_south_west,h_150,l_{{ page.cloudinary_logo | default:site.cloudinary.logo }},w_150,x_40,y_40/{{ socialImage }}{% endcapture %}
+    {% capture socialTitle %}{{ socialTitle }} &middot; {{ site.title }}{% endcapture %}
+    <!-- / Social Media -->
+
+    <!-- nomicrotypo -->
+    <title itemprop="name">{{ socialTitle | strip_html }}</title>
+
+    {% capture x_canonical %}x{{ page.canonical }}{% endcapture %}
+    {% if x_canonical != "x" %}
+      <link rel="canonical" href="{{ page.canonical }}" data-proofer-ignore/>
+    {% endif %}
+    <meta name="description" content="{{ socialDescription }}" />
+    <meta property="og:url" content="{{ socialUrl }}" />
+    <meta property="og:type" content="{{ socialType }}" />
+    <meta property="og:title" content="{{ socialTitle }}" />
+    <meta property="og:image" content="{{ socialImage }}" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="{{ socialSitename }}" />
+    <meta property="article:author" content="{{ site.author.name }}" />
+    <meta property="article:published_time" content="{{ socialDate }}" />
+
+    {% if page.category.size > 0 %}
+    <meta property="article:section" content="{{ page.category }}" />
+    {% endif %}
+
+    {% for tag in page.tags %}
+      <meta property="article:tag" content="{{ tag }}" />
+    {% endfor %}
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:domain" content="{{ site.domain }}" />
+    <meta name="twitter:title" content="{{ socialTitle }}" />
+    <meta name="twitter:description" content="{{ socialDescription }}" />
+    <meta property="twitter:label1" content="Par" />
+    <meta property="twitter:data1" content="{{ socialAuthor }}" />
+
+    {% if page.category.size > 0 %}
+      <meta property="twitter:label2" content="Catégorie" />
+      <meta property="twitter:data2" content="{{ page.category }}" />
+    {% endif %}
+
+    <meta name="twitter:image" content="{{ socialImage }}">
+    <meta name="twitter:creator" content="{{ site.author.twitter_username }}" />
+    <meta name="twitter:site" content="{{ site.author.twitter_username }}" />
+    <meta name="twitter:widgets:link-color" content="#{{ themeColor }}">
+    <meta name="twitter:widgets:border-color" content="#{{ themeColor }}">
+    <meta name="twitter:dnt" content="on">
+    <meta name="twitter:widgets:csp" content="on">
+
+    <!-- Real favicon generator -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=E6jXRBAgkK" data-proofer-ignore>
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=E6jXRBAgkK" data-proofer-ignore>
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=E6jXRBAgkK" data-proofer-ignore>
+    <link rel="manifest" href="/manifest.json?v=E6jXRBAgkK" data-proofer-ignore>
+    <link rel="shortcut icon" href="/favicon.ico?v=E6jXRBAgkK" data-proofer-ignore>
+    <meta name="theme-color" content="#{{ themeColor }}">
+    <!-- endnomicrotypo -->
+  </head>
 
   <body id="top" class="theme-base-0g{% if page.category.size > 0 %} {{page.category}}{% endif %}">
 
     {% include symbols.svg.liquid %}
     <a class="skip-main" href="#main">{% t Aller directement au contenu principal %}</a>
-    {% include sidebar.html.liquid %}
+    <div class="sidebar" role="navigation">
+      <div class="container">
+        <div class="sidebar-about">
+          <h1>
+            <a href="{{ page.baseurl | absolute_url }}" itemprop="url">
+              {{ site.title }}
+            </a>
+          </h1>
+        </div>
+        <nav class="sidebar-nav">
+          <ul class="categories" itemscope itemtype="http://schema.org/BreadcrumbList">
 
+            <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem"><a href="{{ 'web' | prepend: page.baseurl | absolute_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{% t Web %}</a></li>
+    
+            {% if the-locale == 'fr_FR' %}<li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem">
+            <a href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | absolute_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Citoyen %}</a>
+            </li>{% endif %}
+    
+            <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}" itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem">
+            <a href="{{ 'papa' | t: page.locale | prepend: page.baseurl | absolute_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Papa %}</a>
+            </li>
+    
+            <li class="sidebar-nav-item{% if page.i18n-key == 'search' %} active{% endif %}" itemprop="itemSearchResultsPage" itemscope
+            itemtype="http://schema.org/SearchResultsPage">
+            <a href="{{ 'recherche' | t: page.locale | prepend: page.baseurl | absolute_url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{% t Recherche %}</a>
+            </li>
+          </ul>
+    
+          <div class="lang">
+            <ul>
+              {% if page.translation %}
+                {% assign lang = page.translation.locale | slice: 0,2 %}
+                {% capture read_in %}{% t Lire en %} {% if lang == "en" %}{% t anglais %}{% else %}{% t français %}{% endif %}{% endcapture %}
+                <li><a class="{{ lang }}" href="{{ page.translation.url }}"><span class="sr-only">{{ read_in }}</span><svg class="icon flag-{{ lang }}" aria-hidden="true"><use xlink:href="#flag-{{ lang }}"></use></svg></a>
+              {% endif %}
+            </ul>
+          </div>
+    
+          <ul class="secondary">
+            <li class="sidebar-nav-item">
+              <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | absolute_url }}">
+                {% t À propos %}
+                <!-- nomicrotypo -->
+                {% include img/avatar.svg %}
+                <!-- endnomicrotypo -->
+              </a>
+            </li>
+          </ul>
+        </nav>
+        <ul class="follow-icons">
+          <li>
+            <a class="npe" rel="me nofollow" href="{{ site.author.github }}">
+              <span class="sr-only">{% t Suivez-moi %} {% t sur %} Github</span>
+              <svg class="icon icon-github4 aria-hidden">
+                <use xlink:href="#icon-github4"></use>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a class="npe" rel="me nofollow" href="{{ site.author.twitter }}">
+              <span class="sr-only">{% t Suivez-moi %} {% t sur %} Twitter</span>
+              <svg class="icon icon-twitter2" aria-hidden="true">
+                <use xlink:href="#icon-twitter2"></use>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a class="npe" rel="me nofollow" title="{% t Suivez-moi %} {% t sur %} Mastodon" href="{{ site.author.mastodon }}">
+              <svg class="icon icon-mastodon">
+                <use xlink:href="#icon-mastodon"></use>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a class="npe" rel="me nofollow" title="{% t Suivez-moi %} {% t sur %} LinkedIn" href="{{ site.author.linkedin }}">
+              <span class="sr-only">{% t Suivez-moi %} {% t sur %} LinkedIn</span>
+              <svg class="icon icon-linkedin" aria-hidden="true">
+                <use xlink:href="#icon-linkedin"></use>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a class="npe" rel="me nofollow" href="{{ site.author.flickr }}">
+              <span class="sr-only">{% t Suivez-moi %} {% t sur %} Flickr</span>
+              <svg class="icon icon-flickr3" aria-hidden="true">
+                <use xlink:href="#icon-flickr3"></use>
+              </svg>
+            </a>
+          </li>
+          <li>
+            {% assign feed_url = "feed.xml" %}
+            {% assign cats_eyes = page.category|size %}
+            {% if cats_eyes > 0 %}
+              {% assign feed_url = page.category | t: page.locale | downcase | append: "/" | append: feed_url %}
+            {% endif %}
+            <a class="npe" rel="me nofollow" href="{{ feed_url | prepend: page.baseurl | absolute_url }}">
+              <span class="sr-only">{% t Abonnez-vous au flux %}</span>
+              <svg class="icon icon-feed3" aria-hidden="true">
+                <use xlink:href="#icon-feed3"></use>
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a class="npe" target="_top" rel="me nofollow" href="mailto:{{ site.author.mailto | raw }}?subject=Page%20%22{{page.title}}%22&body=url+%3D+{{page.url}}+%0D%0A%0D%0ABonjour%2C%0D%0A%0D%0A%7B%7B+N%27h%C3%A9sitez+pas+%C3%A0+prendre+quelques+minutes+pour+vous+pr%C3%A9senter+si+c%27est+votre+premier+envoi.+%7D%7D%0D%0A%0D%0A%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%0D%0A%0D%0A%7B%7B+%C3%89crivez+ici+votre+message+%7D%7D%0D%0A%0D%0A%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85">
+              <span class="sr-only">{% t Ecrivez-moi ! %}</span>
+              <svg class="icon icon-mail" aria-hidden="true">
+                <use xlink:href="#icon-mail"></use>
+              </svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>      
     <div id="main" class="content container" role="main">
       {{ content }}
     </div>
 
-    {% include footer.html.liquid %}
+    {% include footer.html.liquid type=page.type loadTwitterWjs=page.loadTwitterWjs loadSearch=page.loadSearch %}
   </body>
 </html>
