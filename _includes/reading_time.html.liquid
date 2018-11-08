@@ -1,1 +1,0 @@
-{% capture readtime %}{{ include.content | number_of_words | append: '.0' | divided_by:site.reading_speed | ceil }}{% endcapture %}<span class="p-readtime nowrap" title="{% t Environ %} {{ readtime }} {% t min de lecture %}"><svg class="icon icon-clock"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-clock"></use></svg> {{ readtime }} min</span>

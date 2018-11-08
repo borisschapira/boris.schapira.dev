@@ -157,8 +157,6 @@ author:
   linkedin: 'http://linkedin.com/in/borisschapira'
   feed: '/feed.xml'
   mailto: 'contact%40borisschapira.com'
-  reading_speed_en: 478
-  reading_speed_fr: 723
 
 # Posts links and pagination
 permalink: :year/:month/:title/
@@ -211,9 +209,6 @@ pwa:
 # Graphiques
 mermaid:
   src: '/assets/scripts/vendors/mermaid.min.js'
-
-# The average reading speed, in number of words by minute
-reading_speed: 400
 
 cloudinary:
   logo: avataar

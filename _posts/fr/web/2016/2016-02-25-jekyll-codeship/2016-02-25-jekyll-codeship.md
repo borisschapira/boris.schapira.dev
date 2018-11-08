@@ -35,9 +35,6 @@ L'internationalisation est permise par `i18n` et le `i18n_filter`[^2].
 
 [^2]: La technique de localisation est détaillée dans le [guide de démarrage Jekyll de Thomas Brelet](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/#localiser-jekyll).
 
-La durée de lecture est calculée en considérant une vitesse de lecture moyenne de {{ site.reading_speed }} mots par minute. Votre vitesse de lecture est probablement différente[^rs], ce n'est qu'indicatif.
-
-[^rs]: la mienne est d'un peu plus de {{ site.author.reading_speed_fr }} mots en français et de {{ site.author.reading_speed_en }} en anglais (à plus de 80 % de rétention, sinon ça ne compte pas).
 
 Jekyll ayant tendance à produire du code HTML très "aéré" et aucun moteur de rendu Markdown ne m'ayant convaincu quant à sa capacité à traité certaines spécificités typographiques françaises, j'ai mis en place un script "maison" de remplacement et de compression, libre adaptation de [ce tutoriel de Sylvain Durand](https://www.sylvaindurand.org/ameliorer-la-typographie-avec-jekyll/ "Améliorer la typographie avec Jekyll"). De plus, Jekyll ne semble pas proposer de syntaxe simple pour la navigation précédent/suivant au sein d'une même catégorie, j'utilise donc [ce plugin d'Adams Clarkson](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/ "Jekyll Post Navigation Within a Category").
 
