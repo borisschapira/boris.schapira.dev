@@ -10,5 +10,5 @@ layout: default
 </div>
 
 {% if page.comments == true %}
-  {% include comments.html.liquid %}
+  {% include comments.html.liquid slug=page.slug url=page.url comments_locked=page.comments_locked  %}
 {% endif %}

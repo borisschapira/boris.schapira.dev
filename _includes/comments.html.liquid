@@ -2,19 +2,19 @@
   Completly snatched from Michael Rose's MadeMistake blog post https://mademistakes.com/articles/improving-jekyll-static-comments/
 {% endcomment %}
 <section class="reactions post-footer">
-  {% if site.data.comments[page.slug] %}
+  {% if site.data.comments[include.slug] %}
     <!-- Start static comments -->
     <div id="comments">
       <h2>
-        {% if site.data.comments[page.slug].size > 1 %}
-          {{ site.data.comments[page.slug] | size }} {% t commentaires %}
+        {% if site.data.comments[include.slug].size > 1 %}
+          {{ site.data.comments[include.slug] | size }} {% t commentaires %}
         {% else %}
           {% t Commentaire %}
         {% endif %}
       </h2>
-      {% if site.data.comments[page.slug].size > 0 %}
+      {% if site.data.comments[include.slug].size > 0 %}
         <ul class="comments">
-        {% assign comments = site.data.comments[page.slug] | where_exp: 'item', "item.replying_to == ''" %}
+        {% assign comments = site.data.comments[include.slug] | where_exp: 'item', "item.replying_to == ''" %}
         {% assign sortedcomments = comments | sort: 'date' %}
         {% for comment in sortedcomments %}
           {% assign index       = forloop.index %}
@@ -26,7 +26,7 @@
           {% assign url         = comment.url %}
           {% assign date        = comment.date %}
           {% assign message     = comment.message %}
-          {% include comment.html.liquid index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message %}
+          {% include comment.html.liquid index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message comments_locked=include.comments_locked slug=include.slug %}
         {% endfor %}
         </ul>
       {% endif %}
@@ -34,10 +34,10 @@
     <!-- End static comments -->
   {% endif %}
 
-  {% unless page.comments_locked == true %}
+  {% unless include.comments_locked == true %}
     <!-- Start new comment form -->
     <div id="respond">
-      <h3 class="page__section-label">{% t Laisser un commentaire %} <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" class="npe" style="display:none;">{% t Annuler %}</a></small></h3>
+      <h3 class="page__section-label">{% t Laisser un commentaire %} <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ include.url | absolute_url }}#respond" class="npe" style="display:none;">{% t Annuler %}</a></small></h3>
 
       <form id="comment-form" netlify-honeypot="cb" class="page__form js-form form" method="POST" action="comment" data-netlify="true">
         <fieldset>
@@ -61,9 +61,9 @@
           <input type="text" id="comment-form-cb" name="cb" autocomplete="url"/>
         </fieldset>
         <fieldset class="hidden" style="display: none;">
-          <input type="hidden" id="comment-post-url" name="origin" value="{{ page.url | absolute_url }}">
+          <input type="hidden" id="comment-post-url" name="origin" value="{{ include.url | absolute_url }}">
           <input type="hidden" id="comment-replying-to" name="replying_to" value="">
-          <input type="hidden" id="comment-post-id" name="slug" value="{{ page.slug }}">
+          <input type="hidden" id="comment-post-id" name="slug" value="{{ include.slug }}">
           <input type="hidden" id="comment-timestamp" name="timestamp" value="">
           <input type="hidden" id="comment-guid" name="guid" value="">
         </fieldset>
