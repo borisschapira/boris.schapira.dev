@@ -1,9 +1,12 @@
 source 'https://rubygems.org'
 ruby '2.4.3'
 
-#gem 'gsl'
 gem 'i18n'
 gem 'jekyll', '~>3.8.0'
+
+# Optimize Liquid compilation
+gem 'liquid', github: 'Shopify/liquid', branch: 'master'
+gem 'liquid-c', github: 'Shopify/liquid-c', branch: 'master'
 
 gem 'rake'
 
