@@ -24,6 +24,7 @@ layout: default
 </div>
 {% endif %}
 
+{% comment %}
 {% assign related_locale = site.related_posts | where:"locale", page.locale %}
 {% assign related_locale_notnav = "" | split:"" %}
 {% for apost in related_locale %}
@@ -34,6 +35,7 @@ layout: default
   {% endunless %}
 {% endfor %}
 {% include post_related.html.liquid posts=related_locale_notnav %}
+{% endcomment %}
 
 {% if page.comments == true %}
   {% include comments.html.liquid slug=page.slug url=page.url comments_locked=page.comments_locked  %}
