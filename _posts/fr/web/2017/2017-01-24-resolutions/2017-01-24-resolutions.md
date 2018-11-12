@@ -24,7 +24,7 @@ En ce début d'année 2016, j'ai décidé de prendre quelques bonnes résolution
 
 <!-- more -->
 
-## Dégager plus de temps en dehors du travail {#temps}
+## <span id="temps">Dégager plus de temps en dehors du travail</span>
 
 Je voulais avoir plus de temps en dehors du travail, sans savoir vraiment comment faire. J'envisageais notamment d'arrêter de donner des cours chez Ingésup. C'est à ce moment-là que [Caroline](https://www.edesign.fr) m'a approché pour enseigner à l'ECV Digital. Une classe de moins de dix élèves, tous alternants, sur des journées entières plutôt qu'une heure à droite ou à gauche… c'était une proposition séduisante !
 
@@ -40,7 +40,7 @@ Désormais, je dépose les enfants presque tous les matins à l'école, à pied 
 
 **Constat : résolution tenue !**
 
-## Formaliser mes processus {#formalisme}
+## <span id="formalisme">Formaliser mes processus</span>
 
 En 2015, j'exprimais une volonté de mieux formaliser mes processus de travail. Cela consistait à la fois à questionner mes outils et leurs usages mais aussi à critiquer ma méthodologie pour la faire évoluer.
 
@@ -54,13 +54,13 @@ Je suis ravi de cette évolution. Il me reste désormais à calmer le moi-intér
 
 **Constat : résolution en bonne voie, qui se concrétisera peut-être par une certification un jour, qui sait ?**
 
-## Mieux gérer mon énergie {#energie}
+## <span id="energie">Mieux gérer mon énergie</span>
 
 En 2015, je me plaignais de n'avoir pas pris le temps de prendre du recul sur ma propre activité pour mieux planifier mes tâches de travail. La situation n'a pas changé mais j'ai pu analyser pourquoi. D'abord, le travail en équipe ou en entreprise qui ne permet pas nécessairement d'être libre de son planning ou d'éviter les interruptions. J'ai fait quelques tentatives de Pomodoro, sans succès. Ensuite, une mauvaise maitrise de mes propres fluctuations d'endurance professionnelle. En cause : ma vie personnelle (les enfants qui ne font pas leurs nuits), mais aussi la gestion de phases, que j'ai encore parfois du mal à identifier en amont, dans lesquelles toutes les demandes convergent.
 
 **Constat : échec en 2016, à prioriser en 2017.**
 
-## Me tenir droit, mieux manger {#alimentation}
+## <span id="alimentation">Me tenir droit, mieux manger</span>
 
 Durant toute l'année 2016, ma femme et moi avons poursuivi nos efforts pour une alimentation plus saine, à la fois pour nous mais aussi et surtout pour les enfants. Notre consommation de viande a profondément chuté (au point de passer parfois une semaine sans en préparer/consommer à la maison), et nous avons découvert de nombreuses recettes à base de légume, notamment auprès de la communauté <span lang="en">vegan</span> qui partage beaucoup. Bien que la fin d'année est largement sombré dans le n'importe quoi (la fin d'année, donc), c'est déjà ça.
 
@@ -70,21 +70,21 @@ En revanche, mon activité physique est toujours faible : j'ai beaucoup pratiqu�
 
 **Constat : pas mal sur 2016, mais un effort à poursuivre.**
 
-## Promouvoir l'égalité, lutter contre les inégalités {#egalite}
+## <span id="egalite">Promouvoir l'égalité, lutter contre les inégalités</span>
 
 L'année a été très mouvementée en ce qui concerne les inégalités. Le sujet m'a beaucoup touché et j'ai fait ce que je pouvais, ici ou ailleurs, pour y remédier.
 
-### Le ménage devant ma porte {#biais}
+### <span id="biais">Le ménage devant ma porte</span>
 
 Cela a commencé par un travail intérieur pour mieux identifier mes propres biais, notamment en parlant plus ouvertement de mes réactions instinctives avec d'autres (notamment ma femme), pour mettre le doigt sur des conditionnements et douter de leur bien-fondé. La liste de mes propres biais est fort longue, du biais culturel au biais de primauté (et de halo), de l'ancrage mental à l'aversion à la dépossession… mais se renseigner sur le sujet ne permet pas de se corriger. Il s'agit d'un travail constant de doute quant à ses propres réactions…
 
-### En tant que citoyen {#politique}
+### <span id="politique">En tant que citoyen</span>
 
 On va essayer de ne pas y passer trois heures : quasiment tout ce que j'ai écrit sur mon blog "Citoyen" en 2016 concernait la perception de l'Islam en France. C'est un sujet en creux en ce moment, mais qui reviendra très fortement et de manière nauséabonde rapidement, pour servir la soupe sécuritaire à la Présidentielle. Ne vous y trompez pas, le moindre accident sera l'occasion de complètement occulter l'éducation, la Culture, l'écologie…
 
 <span lang="en">Brace for impact</span>.
 
-### Au travail aussi {#travail}
+### <span id="travail">Au travail aussi</span>
 
 Professionnellement, 2016 a aussi été l'année de ma redécouverte de la Qualité Web. J'ai mis à l'épreuve mes compétences dans le cadre d'examen ou d'audits et je suis content de l'avoir fait.
 
@@ -92,7 +92,7 @@ Chaque test réalisé dans [JAWS](http://www.accessolutions.fr/Jaws-pour-Windows
 
 [Passer la certification Opquast](https://borisschapira.com/2016/05/un-retour-sur-opquast-certified/) m'a également permis de confirmer ce que je faisais depuis des années, à savoir regarder le Web par les yeux des utilisateurs qui ne le maitrisent pas, ou mal, et qui se retrouvent démunis face à des produits applicatifs mal pensés. Les différents audits réalisés dans l'année m'ont permis de mettre le doigt sur des mauvaises pratiques (pas forcément volontaires, notez bien) et de rendre certains projets un peu meilleurs.
 
-### Dans mes échanges quotidiens {#echanges}
+### <span id="echanges">Dans mes échanges quotidiens</span>
 
 En 2016, j'ai également été plus vocal dans l'expression de mes valeurs, sans pour autant y adjoindre de violence, de manière à ne plus laisser se dérouler sous mes yeux [des situations qui me déplaisent](/2016/01/enlisement/). Ce n'est pas évident, il faut prendre son courage à deux mains, trouver les mots justes…
 

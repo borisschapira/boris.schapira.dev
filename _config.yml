@@ -10,27 +10,29 @@ locale: fr_FR
 defaults:
   -
     scope:
-      path: ""
-    values:
-      locale: fr_FR
-      baseurl: "/"
-  -
-    scope:
-      path: "_pages"
+      path: "pages"
     values:
       type: pages
   -
     scope:
-      path: "_pages/en"
+      path: "pages/fr"
+      type: pages
+    values:
+      baseurl: "/"
+      locale: fr_FR
+  -
+    scope:
+      path: "pages/en"
+      type: pages
     values:
       baseurl: "/en/"
       locale: en_US
   -
     scope:
-      path: "_posts/en"
+      path: ""
     values:
-      baseurl: "/en/"
-      locale: en_US
+      locale: fr_FR
+      baseurl: "/"
   -
     scope:
       path: "_confs"
@@ -41,32 +43,41 @@ defaults:
       type: "posts"
     values:
       layout: post
-      comments: true
-      comments_locked: false
-      hidden: false
   -
     scope:
-      path: "_posts/fr/web/"
+      path: "_posts/fr/web"
     values:
       category: web
   -
     scope:
-      path: "_posts/fr/papa/"
+      path: "_posts/fr/papa"
     values:
       category: papa
   -
     scope:
-      path: "_posts/fr/citoyen/"
+      path: "_posts/fr/citoyen"
     values:
       category: citoyen
   -
     scope:
-      path: "_posts/en/web/"
+      path: "en"
+    values:
+      locale: "en_US"
+      baseurl: "/en/"
+  -
+    scope:
+      locale: "en_US"
+      path: "_posts/en"
+    values:
+      baseurl: "/en/"
+  -
+    scope:
+      path: "_posts/en/web"
     values:
       category: web
   -
     scope:
-      path: "_posts/en/papa/"
+      path: "_posts/en/papa"
     values:
       category: papa
   -
@@ -124,8 +135,12 @@ url: "https://borisschapira.com"
 timezone: Europe/Paris
 incremental: true
 encoding: utf-8
-lsi: true
 repository: "borisschapira/borisschapira.com"
+
+markdown: CommonMark
+commonmark:
+  options: ["SMART", "FOOTNOTES", "UNSAFE", "HARDBREAKS"]
+  extensions: ["strikethrough", "autolink", "table"]
 
 microtypo:
   median: true
@@ -165,10 +180,6 @@ collections:
   confs:
     output: true
 
-# Build settings
-kramdown:
-  hard_wrap: true
-
 jekyll-archives:
   enabled:
     - "year"
@@ -193,10 +204,6 @@ pwa:
     - en/index.html
     - en/web/index.html
     - en/dad/index.html
-
-# Graphiques
-mermaid:
-  src: '/assets/scripts/vendors/mermaid.min.js'
 
 cloudinary:
   logo: avataar

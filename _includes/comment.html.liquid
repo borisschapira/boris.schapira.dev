@@ -25,7 +25,7 @@
   <div class="comment__content">
     {{ include.message | markdownify }}
 
-    {% unless include.replying_to != 0 or include.comments_locked == true %}
+    {% unless include.replying_to != 0 %}
       <a rel="nofollow" class="btn reply-to npe" href="#comment-{{ include.index }}" data-comm-id="comment-{{ include.index }}" data-parent-id="{{ include.index }}" data-respond-id="respond" data-post-id="{{ include.slug }}">{% t Répondre à %} {{ include.name }}</a>
     {% endunless %}
   </div>
@@ -45,7 +45,7 @@
     {% assign url         = reply.url %}
     {% assign date        = reply.date %}
     {% assign message     = reply.message %}
-    {% include comment.html.liquid index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message comments_locked=include.comments_locked slug=include.slug %}
+    {% include comment.html.liquid index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message  slug=include.slug %}
   {% endfor %}
   </ul>
 {% endif %}

@@ -19,8 +19,11 @@ alt="Un jeu d'échec avant le début d'un partie. Zoom sur les noirs."
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [le blog de Dareboost](https://blog.dareboost.com/fr/) dans [{{ page.title }}]({{ page.canonical }}).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 Les navigateurs modernes sont conçus pour afficher les pages plus rapidement. Par exemple, ils analysent la page au fur et à mesure qu'elle est envoyée par le serveur, recherchant les URL des ressources qui sont nécessaires pour afficher la page (images, CSS mais plus spécifiquement, fichiers JavaScript). C'est ce qu'on appelle "[<i lang="en">preload scan</i>](https://plus.google.com/+IlyaGrigorik/posts/8AwRUE7wqAE)" dans Chrome et Safari, "[<i lang="en">speculative parsing</i>](https://developer.mozilla.org/en-US/docs/Web/HTML/Optimizing_your_pages_for_speculative_parsing)" dans Firefox et "<i lang="en">lookahead download</i>" dans Internet Explorer. Cette fonctionnalité permet au navigateur de commencer à récupérer les ressources tout en construisant sa propre modélisation du code HTML, le Document Object Model (DOM) et sa propre modélisation du code CSS, le CSS Object Model (CSSOM).
 

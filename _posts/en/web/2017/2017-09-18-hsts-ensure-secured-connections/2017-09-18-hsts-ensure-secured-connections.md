@@ -23,8 +23,11 @@ alt=img_alt
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:**this post first appeared on the [Dareboost's Blog](https://blog.dareboost.com/en/) in [{{ page.title }}]({{ page.canonical }}).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 ## Implementing a redirection: a limited solution
 

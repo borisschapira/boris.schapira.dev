@@ -1,6 +1,6 @@
 {% capture the-hash %}{% hash include.url %}{% endcapture %}
 <figure>
-  <div class="videoWrapper{% unless include.controls %} gif{% endunless %}" ><video muted playsinline {% if include.controls %} controls{% endif %} preload="none"{% unless include.controls %} loop{% endunless %} poster="{% unless include.url %}{{ page.url }}{{ include.slug }}{% else %}{{ include.url }}{% endunless %}.jpg"{% if include.alt %} aria-describedBy="{{ the-hash }}"{% endif %}>
+  <div class="videoWrapper{% unless include.controls %} gif{% endunless %}"><video muted playsinline{% if include.controls %} controls{% endif %} preload="none"{% unless include.controls %} loop{% endunless %} poster="{% unless include.url %}{{ page.url }}{{ include.slug }}{% else %}{{ include.url }}{% endunless %}.jpg"{% if include.alt %} aria-describedBy="{{ the-hash }}"{% endif %}>
   <source src="{% unless include.url %}{{ page.url }}{{ include.slug }}{% else %}{{ include.url }}{% endunless %}.webm" type="video/webm">
   <source src="{% unless include.url %}{{ page.url }}{{ include.slug }}{% else %}{{ include.url }}{% endunless %}.mp4" type="video/mp4"></video></div>
   {% if include.alt %}<span id="{{ the-hash }}" class="sr-only">{{ include.alt }}</span>{% endif %}

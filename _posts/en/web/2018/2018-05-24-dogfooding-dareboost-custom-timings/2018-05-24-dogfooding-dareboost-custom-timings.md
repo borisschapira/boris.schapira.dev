@@ -21,8 +21,11 @@ alt=img_alt
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:**this post first appeared on the [Dareboost's Blog](https://blog.dareboost.com/en/) in [{{ page.title }}]({{ page.canonical }}).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 A few weeks ago, we have introduced a new feature in your page analysis reports and monitors: [Custom Timings](https://blog.dareboost.com/en/2018/05/custom-timings-monitoring/), tailor-made markers, to be placed in JavaScript using the User Timing API, that you can then display in Dareboost to visualize their evolution over time.
 

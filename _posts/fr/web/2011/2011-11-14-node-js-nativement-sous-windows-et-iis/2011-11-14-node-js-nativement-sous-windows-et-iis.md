@@ -11,8 +11,11 @@ Microsoft et Joyent ont annoncé en juin qu’ils travaillaient ensemble à l’
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Node.js, nativement sous Windows et IIS](https://blog.clever-age.com/fr/2011/11/14/node-js-nativement-sous-windows-et-iis/).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 Cette version 0.6.0 est nativement supportée par le système d’exploitation de Microsoft et grâce à [iisnode](http://tomasz.janczuk.org/2011/08/hosting-nodejs-applications-in-iis-on.html), il est possible de l’héberger sur IIS. De quoi mettre au placard la version Windows de Node.Js disponible jusqu’ici, dont les performances étaient fortement améliorables.
 

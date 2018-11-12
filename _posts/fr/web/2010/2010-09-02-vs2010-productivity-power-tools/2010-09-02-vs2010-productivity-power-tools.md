@@ -11,8 +11,11 @@ Visual Studio 2010 est assez riche en fonctionnalités à l’origine mais on tr
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans ["Productivity Power Tools" pour Visual Studio 2010](https://blog.clever-age.com/fr/2010/10/08/productivity-power-tools-pour-visual-studio-2010/).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 L’extension Productivity Power Tools ajoute à votre environnement trois formidables outils&nbsp;:
 

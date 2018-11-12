@@ -13,8 +13,11 @@ Depuis, une véritable tempête s’est abattue sur la communauté des développ
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [HTML 5, Silverlight et Microsoft](https://blog.clever-age.com/fr/2011/07/29/html-5-silverlight-et-microsoft/).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 ## HTML5 à la place de Silverlight pour une stratégie unifiée
 

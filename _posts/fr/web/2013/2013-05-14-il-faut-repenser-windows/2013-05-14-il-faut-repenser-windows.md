@@ -14,8 +14,11 @@ Windows 8 se vend mal. Même si une centaine de millions de licences se sont éc
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Il faut repenser Windows](https://blog.clever-age.com/fr/2013/05/14/il-faut-repenser-windows/).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 ## Un peu d’histoire
 

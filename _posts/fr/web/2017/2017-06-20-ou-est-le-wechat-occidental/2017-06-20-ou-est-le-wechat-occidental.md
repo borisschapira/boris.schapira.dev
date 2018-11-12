@@ -14,8 +14,11 @@ Il devient de plus en plus évident que la Chine est train de changer la façon 
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Où est le WeChat occidental ?](https://blog.clever-age.com/fr/2017/06/20/ou-est-le-wechat-occidental/).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 ## WeChat réinvente les usages du Web
 
@@ -41,7 +44,7 @@ Le système des App Store, aussi satisfaisant qu’il soit, atteint ses limites.
 
 {% capture img_alt %}Une main tenant un téléphone de face. On y voit de nombreuses applications Android listées dans un menu.{% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/2017-06-20/50614.jpg "
+path="/assets/images/2017-06-20/50614.jpg"
 alt=img_alt
 %}
 

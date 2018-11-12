@@ -13,8 +13,11 @@ Matthieu n’est pas du genre à prendre une décision à la légère, surtout l
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [A la conquête des Tests A/B](https://blog.clever-age.com/fr/2014/03/13/a-la-conquete-des-tests-a-b/).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 <h2>Une histoire de tests A/B</h2>
 

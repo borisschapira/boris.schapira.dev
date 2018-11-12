@@ -45,10 +45,8 @@ layout: microtypo
     <link rel="alternate" type="application/rss+xml" href="{{ site.author.feed }}">
 
     <!-- Lang and indexation -->
-    {% if page.robots %}
-      {% assign noindex = page.robots.noindex | default: false %}
-      {% assign nofollow = page.robots.nofollow | default: false %}
-    {% endif %}
+    {% assign noindex = page.robots.noindex | default: false %}
+    {% assign nofollow = page.robots.nofollow | default: false %}
     {% if page.translation %}
       {% assign lang = page.translation.locale | slice: 0,2 %}
     {% endif %}
@@ -201,7 +199,7 @@ layout: microtypo
       <div class="container">
         <div class="sidebar-about">
           <h1>
-            <a href="{{ page.baseurl | absolute_url }}" itemprop="url">
+            <a href="{{ page.baseurl | relative_url }}" itemprop="url">
               {{ site.title }}
             </a>
           </h1>
@@ -210,21 +208,21 @@ layout: microtypo
           <ul class="categories" itemscope itemtype="http://schema.org/BreadcrumbList">
 
             <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem"><a href="{{ 'web' | prepend: page.baseurl | absolute_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{% t Web %}</a></li>
+            itemtype="http://schema.org/ListItem"><a href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{% t Web %}</a></li>
     
             {% if the-locale == 'fr_FR' %}<li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
             itemtype="http://schema.org/ListItem">
-            <a href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | absolute_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Citoyen %}</a>
+            <a href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Citoyen %}</a>
             </li>{% endif %}
     
             <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}" itemprop="itemListElement" itemscope
             itemtype="http://schema.org/ListItem">
-            <a href="{{ 'papa' | t: page.locale | prepend: page.baseurl | absolute_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Papa %}</a>
+            <a href="{{ 'papa' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Papa %}</a>
             </li>
     
             <li class="sidebar-nav-item{% if page.i18n-key == 'search' %} active{% endif %}" itemprop="itemSearchResultsPage" itemscope
             itemtype="http://schema.org/SearchResultsPage">
-            <a href="{{ 'recherche' | t: page.locale | prepend: page.baseurl | absolute_url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{% t Recherche %}</a>
+            <a href="{{ 'recherche' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{% t Recherche %}</a>
             </li>
           </ul>
     
@@ -240,7 +238,7 @@ layout: microtypo
     
           <ul class="secondary">
             <li class="sidebar-nav-item">
-              <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | absolute_url }}">
+              <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}">
                 {% t À propos %}
                 <!-- nomicrotypo -->
                 {% include img/avatar.svg %}
@@ -295,7 +293,7 @@ layout: microtypo
             {% if cats_eyes > 0 %}
               {% assign feed_url = page.category | t: page.locale | downcase | append: "/" | append: feed_url %}
             {% endif %}
-            <a class="npe" rel="me nofollow" href="{{ feed_url | prepend: page.baseurl | absolute_url }}">
+            <a class="npe" rel="me nofollow" href="{{ feed_url | prepend: page.baseurl | relative_url }}">
               <span class="sr-only">{% t Abonnez-vous au flux %}</span>
               <svg class="icon icon-feed3" aria-hidden="true">
                 <use xlink:href="#icon-feed3"></use>
