@@ -91,6 +91,7 @@ exclude:
   - ".csscomb.json"
   - ".ruby-version"
   - ".cache"
+  - ".jekyll-cache"
   - "node_modules"
   - "package.json"
   - "scripts"
