@@ -24,8 +24,11 @@ caption=img_caption
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:**this post first appeared on the [Dareboost's Blog](https://blog.dareboost.com/en/) in [{{ page.title }}]({{ page.canonical }}).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 Whether you are a luxury player wishing to broadcast extremely high-quality videos or a news platform looking for an eye-catching proposal, video has become an essential part of the Web in just a few years. But adding video to a site can be challenging.
 

@@ -39,7 +39,6 @@ caption="L'art subtil de ne pas l'être au bon moment. Un vrai talent d'écritur
 Elle subissait beaucoup et sa force n'était pas tant dans sa capacité à frapper plus fort que dans sa volonté et sa capacité à se relever encore et toujours face aux épreuves qui l'avaient mise à terre.
 
 > Buffy, c'était Sangoku avec du vernis.
-> {: class="emphasis"}
 
 La plupart des séries que je regarde ou apprécie aujourd'hui contient des personnages féminins forts : Korra, Sansa, Veronica, May, Cat, Kara, Zoe, Dutch/Yala…
 

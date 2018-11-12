@@ -12,9 +12,9 @@ layout: null
 {% else %} 
   {% assign the_posts=site.posts %}
 {% endif %}{% if has_locale %}
-  {% assign the_posts=the_posts| where:"locale", page.locale | where:"hidden", false %} 
+  {% assign the_posts=the_posts| where:"locale", page.locale %} 
 {% else %} 
-  {% assign the_posts=the_posts| where:"hidden", false %} 
+  {% assign the_posts=the_posts %} 
 {% endif %}{% if page.url %}
   {% assign the_url = page.url %}
 {% else %}

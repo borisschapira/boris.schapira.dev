@@ -24,8 +24,11 @@ alt=img_alt
 
 ## Aux origines du Web
 
-{:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [le blog de Dareboost](https://blog.dareboost.com/fr/) dans [{{ page.title }}]({{ page.canonical }}).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 Lorsqu'un utilisateur tente d'accéder à une page Web, son navigateur envoie une requête au serveur qui l'héberge. Soit le serveur retourne immédiatement la page telle qu'elle est stockée, soit le serveur la génère en exécutant du code, à la demande.
 

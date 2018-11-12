@@ -1,12 +1,11 @@
 source 'https://rubygems.org'
 ruby '2.4.3'
 
-gem 'i18n'
-gem 'jekyll', '~>3.8.0'
+gem 'jekyll', :git => 'https://github.com/jekyll/jekyll.git', branch: 'master'
 
 # Optimize Liquid compilation
-gem 'liquid', :git => 'https://github.com/Shopify/liquid', branch: 'master'
-gem 'liquid-c', :git => 'https://github.com/Shopify/liquid-c', branch: 'master'
+gem 'liquid', :git => 'https://github.com/Shopify/liquid.git', branch: 'master'
+gem 'liquid-c', :git => 'https://github.com/Shopify/liquid-c.git', branch: 'master'
 
 gem 'rake'
 
@@ -19,11 +18,11 @@ group :jekyll_plugins do
   gem 'classifier-reborn'
   gem 'jekyll-algolia'
   gem 'jekyll-archives'
+  gem 'jekyll-commonmark'
   gem 'jekyll-cloudinary'
   gem "jekyll-include-cache"
-  gem 'jekyll-mermaid'
   gem 'jekyll-microtypo'
-  gem 'jekyll-paginate-v2', :git => 'https://github.com/borisschapira/jekyll-paginate-v2', :branch => 'default-values'
+  gem 'jekyll-paginate-v2', :git => 'https://github.com/borisschapira/jekyll-paginate-v2.git', :branch => 'default-values'
   gem 'jekyll-postfiles', '~> 2.1'
   gem 'jekyll-pwa-plugin'
   gem 'jekyll-sitemap'

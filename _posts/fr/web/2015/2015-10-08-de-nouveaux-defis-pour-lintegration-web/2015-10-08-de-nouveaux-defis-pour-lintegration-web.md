@@ -14,8 +14,11 @@ Fin juillet 2015, une franche polémique a enflammé la communauté des professi
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [De nouveaux défis pour l’intégration web](https://blog.clever-age.com/fr/2015/10/08/de-nouveaux-defis-pour-lintegration-web/).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 En conséquence de quoi, ppk[^1] proposait un moratorium d'un an, une limitation sur les nouvelles fonctionnalités des navigateurs, à commencer par Chrome (le leader de cette course à l'innovation, d'après lui), le temps que les développeurs <em>rattrapent le coche</em>. C'est une direction vers laquelle le marché n'ira probablement pas, les dernières digues retenant l'innovation étant en train de sauter.
 

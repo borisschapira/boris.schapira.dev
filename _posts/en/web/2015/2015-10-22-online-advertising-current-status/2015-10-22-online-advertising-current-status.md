@@ -19,8 +19,11 @@ Online advertising has become — for lack of a better solution — the main sou
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:**this post first appeared on the [Clever Age](http://www.clever-age.com/en/) website in [{{ page.title }}]({{ page.canonical }}).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 In the absence of any regulations, online advertising increasingly oversteps the blurred lines of privacy, at the expense of users who then express their feeling of being abused through massive resort to ad blockers[^1]. A true ad blocking market is emerging, consisting of technical solutions and secret agreements, in browsers as well as on smartphones[^0]. Faced with this phenomenon, some online editors no longer hesitate to block access to their content to users running ad blockers, which sends a very negative signal to their audience.
 

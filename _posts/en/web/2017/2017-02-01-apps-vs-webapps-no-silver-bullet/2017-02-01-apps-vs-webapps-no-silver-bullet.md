@@ -14,8 +14,11 @@ Let's take a look at the different logical biases related to this topic.
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:**this post first appeared on the [Clever Age](http://www.clever-age.com/en/) website in [{{ page.title }}]({{ page.canonical }}).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 ## Web or native?
 

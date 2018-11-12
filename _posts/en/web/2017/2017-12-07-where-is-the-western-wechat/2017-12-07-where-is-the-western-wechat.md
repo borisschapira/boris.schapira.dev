@@ -23,8 +23,11 @@ alt=img_alt
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:**this post first appeared on the [Clever Age](http://www.clever-age.com/en/) website in [{{ page.title }}]({{ page.canonical }}).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 ## WeChat is reinventing the way we use the web
 

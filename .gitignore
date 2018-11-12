@@ -1,12 +1,7 @@
-.asset-cache
-.tweet-cache
-.bundle
-/vendor/
-rsync.sh
-.jekyll-assets-cache
+_site
+.sass-cache
 .jekyll-cache
-/tmp/
-_site/
-.sass-cache/
 .jekyll-metadata
+/vendor
 _config_prod.yml
+/node_modules

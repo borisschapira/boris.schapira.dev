@@ -37,8 +37,7 @@ Bien sûr, tout n'est pas toujours rose. J'ai reçu des stagiaires qui venaient 
 
 ***
 
-## Les sujets abordés {#memo}
-
+## <span id="memo">Les sujets abordés</span>
 Je jette ce à quoi je pense, j'essaierai d'alimenter davantage ultérieurement :
 
 * Ambiance :

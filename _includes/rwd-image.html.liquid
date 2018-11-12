@@ -1,14 +1,9 @@
-{% if include.localpath %}
-    {% capture path %}{{ page.url }}{{include.localpath}}{% endcapture %}
-{% else %}
-    {% capture path %}{{include.path}}{% endcapture %}
-{% endif %}
 {% unless jekyll.environment == "development" %}
-{% if include.caption %}{% cloudinary {{ path }} alt="{{ include.alt | escape }}" caption="{{ include.caption | replace: '"', '&quot;' }}" %}{% else %}{% cloudinary {{ path }} alt="{{ include.alt | escape }}" %}{% endif %}{% else %}
+{% if include.caption %}{% cloudinary {{ include.path }} alt="{{ include.alt | escape }}" caption="{{ include.caption }}" %}{% else %}{% cloudinary {{ include.path }} alt="{{ include.alt | escape }}" %}{% endif %}{% else %}
 <figure>
-  <img src="{{ path }}" alt="{{ include.alt | escape }}">
+  <img src="{{ include.path }}" alt="{{ include.alt | escape }}">
 {% if include.caption %}
-  <figcaption>{{ include.caption | replace: '"', '&quot;' }}</figcaption>
+  <figcaption>{{ include.caption }}</figcaption>
 {% endif %}
 </figure>
 {% endunless %}

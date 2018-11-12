@@ -22,8 +22,11 @@ alt=img_alt
 
 <!-- more -->
 
-{:.canonical}
-**Note&nbsp;:** l'article ci-dessous a été publié sur [le blog de Dareboost](https://blog.dareboost.com/fr/) dans [{{ page.title }}]({{ page.canonical }}).
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 ## Mise en place d’une redirection : une technique qui présente des limites
 
