@@ -1,11 +1,11 @@
 source 'https://rubygems.org'
-ruby '2.4.3'
+ruby '2.4.3' unless Gem.win_platform?
 
 gem 'jekyll', :git => 'https://github.com/jekyll/jekyll.git', branch: 'master'
 
 # Optimize Liquid compilation
 gem 'liquid', :git => 'https://github.com/Shopify/liquid.git', branch: 'master'
-gem 'liquid-c', :git => 'https://github.com/Shopify/liquid-c.git', branch: 'master'
+gem 'liquid-c', :git => 'https://github.com/Shopify/liquid-c.git', branch: 'master' unless Gem.win_platform?
 
 gem 'rake'
 
@@ -29,4 +29,7 @@ group :jekyll_plugins do
   gem 'jekyll-tagging-related_posts'
 end
 
-gem "nokogiri", "~> 1.8"
+if Gem.win_platform?
+  gem 'tzinfo-data'
+  gem 'wdm', '~> 0.1.0'
+end
