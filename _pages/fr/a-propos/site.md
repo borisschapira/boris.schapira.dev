@@ -42,7 +42,7 @@ J'utilise [node](https://nodejs.org/) pour la compilation des ressources statiqu
 
 ### Compilation et déploiement
 
-Mes pages et articles sont écrits au format [Markdown](https://fr.wikipedia.org/wiki/Markdown), une syntaxe légère idéale pour rédiger[^3]. J'utilise les <em lang="en">hooks</em> de GitHub pour interfacer ce dépôt à [Netlify](https://www.netlify.com/) qui se charge d'exécuter des tests avec [rspec](http://rspec.info/) pour vérifier que le contenu des en-têtes Front-Matter sont valides en <abbr lang="en" title="YAML Ain't Markup Language">YAML</abbr>. Si c'est le cas, alors Netlify compile le site.
+Mes pages et articles sont écrits au format [CommonMark](https://commonmark.org/), une syntaxe légère idéale pour rédiger[^3]. J'utilise les <em lang="en">hooks</em> de GitHub pour interfacer ce dépôt à [Netlify](https://www.netlify.com/) qui se charge d'exécuter des tests avec [rspec](http://rspec.info/) pour vérifier que le contenu des en-têtes Front-Matter sont valides en <abbr lang="en" title="YAML Ain't Markup Language">YAML</abbr>. Si c'est le cas, alors Netlify compile le site.
 
 Le site généré est alors testé via [html-proofer](https://github.com/gjtorikian/html-proofer) pour vérifier que les pages ne contiennent pas d'erreurs.
 
@@ -58,7 +58,7 @@ C'est également Netlify qui s'occupe de capturer les commentaires pour me les e
 
 Une partie de mon code CSS et JS est dédiée à l'accessibilité et j'essaie également de contribuer de manière responsable, pour être le plus inclusif possible à la fois envers les personnes, mais aussi envers les contextes (par exemple, j'utilise la librairie [abbr-touch](http://www.growingwiththeweb.com/2014/09/making-abbr-elements-touch-accessible.html) pour permettre aux personnes en situation de mobilité de visualiser la définition d'une abréviation ou d'un acronyme.
 
-<!-- La recherche instantanée est le fruit du branchement du site sur [Algolia](https://www.algolia.com/), une solution très performante d'indexation et de recherche côté client qui a le mérite de proposer un [exemple d'implémentation pour Jekyll](https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/ "Add instant search to your blog or documentation using our Jekyll plugin") qui cadrait parfaitement avec mon besoin. Il faudra néanmoins que je repasse dessus car le code JavaScript nécessaire me semble un peu complexe ([jQuery](https://jquery.com/), [Hogan](http://twitter.github.io/hogan.js/), [MomentJs](http://momentjs.com/)… je dois pouvoir faire plus simple). -->
+La recherche instantanée est le fruit du branchement du site sur [Algolia](https://www.algolia.com/), une solution très performante d'indexation et de recherche côté client qui a le mérite de proposer un [exemple d'implémentation pour Jekyll](https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/ "Add instant search to your blog or documentation using our Jekyll plugin") qui cadrait parfaitement avec mon besoin. Il faudra néanmoins que je repasse dessus car le code JavaScript nécessaire me semble un peu complexe ([jQuery](https://jquery.com/), [Hogan](http://twitter.github.io/hogan.js/), [MomentJs](http://momentjs.com/)… je dois pouvoir faire plus simple).
 
 Afin de contrôler ce qui se passe sur mon site (notamment pour détecter des tentatives d'injections), j'ai positionné un certain nombre de règles [Content Security Policy](https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9/CSP) et des rapports sont enregistrés dans une base de données à chaque infraction[^7].
 
