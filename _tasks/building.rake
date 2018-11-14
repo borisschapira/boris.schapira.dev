@@ -4,7 +4,7 @@ namespace :build do
   # Use: rake clean
   desc 'Clean Jekyll build'
   task :clean, [:env] do |_t, _args|
-    cleanup
+    jekyll("clean")
   end
 
   desc 'Preview on local machine (server with --auto)'
@@ -46,11 +46,6 @@ namespace :build do
   #
   # General support functions
   #
-
-  # remove generated site
-  def cleanup
-    sh 'rm -rf _site'
-  end
 
   # launch jekyll
   def jekyll(directives = '', env = 'development')
