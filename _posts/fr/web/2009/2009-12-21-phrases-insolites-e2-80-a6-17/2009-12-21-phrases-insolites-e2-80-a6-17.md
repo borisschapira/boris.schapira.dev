@@ -15,7 +15,7 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
 ## Non, on peut les mettre en rose fluo aussi
 
 > **Mail**&nbsp;: Vous trouverez en pièce jointe une nouvelle version du document. Merci de le valider.  
-> **Réponse**&nbsp;: Les modifications vont-elles rester en jaune&nbsp;?
+> **Réponse**&nbsp;: Les modifications vont-elles rester en jaune&nbsp;?
 
 ## Ne nous emballons pas
 

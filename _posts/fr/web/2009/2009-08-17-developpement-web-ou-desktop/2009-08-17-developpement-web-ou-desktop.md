@@ -8,9 +8,9 @@ type: post
 locale: fr_FR
 ---
 
-C'est le grand débat qui anime les communauté de développeurs depuis plusieurs années. Michael J. Braude et Jeff Atwood résument les arguments des deux camps.
+C'est le grand débat qui anime les communauté de développeurs depuis plusieurs années. Michael J. Braude et Jeff Atwood résument les arguments des deux camps.
 
-Pour ma part, je continuerais à me former sur les technologies Web comme Desktop car je pense que toutes deux ont de l'avenir. Mais au fond, je pense un peu comme Atwood&nbsp;: le web va tout emporter. Et Vous, qu'en pensez-vous&nbsp;?
+Pour ma part, je continuerais à me former sur les technologies Web comme Desktop car je pense que toutes deux ont de l'avenir. Mais au fond, je pense un peu comme Atwood&nbsp;: le web va tout emporter. Et Vous, qu'en pensez-vous&nbsp;?
 
 ### "[Pourquoi je ne serai jamais un 'Web guy'](http://michaelbraude.blogspot.com/2009/05/why-ill-never-be-web-guy.html)" (extraits traduits)
 
@@ -32,6 +32,6 @@ voir [l'article originale et complet de Michael J. Baude](http://michaelbraude.b
 >
 > […] En tant que développeur de logiciels, je suis plus content si j'écris du code qui sert. Quel est l'intérêt de tout cet artisanat si votre logiciel finit enfermé dans un exécutable devant être acheté avec une licence, puis publié, puis téléchargé, puis installé, puis maintenu puis mis-à-jour&nbsp;? Avec toutes ces vieilles et traditionnelles barrières entre les développeurs et les utilisateurs, on se demande comment l'industrie du logiciel a pu existé. Mais dans le nouveau monde des applications web, ces limitations sont tombées. Il n'y a plus de frontières, le logiciel est partout.
 >
-> Le développement logiciel est loin d'être parfait. Il est même souvent carrément torché [ndt&nbsp;: "kludgy" en VO, je n'ai pas trouvé de meilleure traduction]. C'est vrai que n'importe quel développeur peut sortir une horrible application web et que 99 % d'entre elles sont des bouses absolues. Mais cela veut aussi dire que les programmeurs vraiment brillants peuvent offrir leur code à des centaines, des milliers, peut-être des millions d'utilisateur qu'ils n'auraient eu absolument aucune chance d'atteindre avant le web. […]
+> Le développement logiciel est loin d'être parfait. Il est même souvent carrément torché [ndt&nbsp;: "kludgy" en VO, je n'ai pas trouvé de meilleure traduction]. C'est vrai que n'importe quel développeur peut sortir une horrible application web et que 99 % d'entre elles sont des bouses absolues. Mais cela veut aussi dire que les programmeurs vraiment brillants peuvent offrir leur code à des centaines, des milliers, peut-être des millions d'utilisateur qu'ils n'auraient eu absolument aucune chance d'atteindre avant le web. […]
 
 voir [l'article original et complet de Jeff Atwood.](http://blog.codinghorror.com/)

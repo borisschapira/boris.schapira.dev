@@ -9,7 +9,7 @@ type: post
 locale: fr_FR
 ---
 
-J'ai tenté de reprendre un article pas si vieux (j'en ai juste posté 280 depuis) pour rendre son argumentaire plus clair. Voyons-voir si j'y arrive.
+J'ai tenté de reprendre un article pas si vieux (j'en ai juste posté 280 depuis) pour rendre son argumentaire plus clair. Voyons-voir si j'y arrive.
 
 Pour avoir un peu travaillé avec mes amis esieens sur un projet de calibrage de caméra par stéréovision (en Java, si si), j'ai une petite idée des <strike>coups</strike> co&ucirc;ts que peuvent représenter les innombrables calculs nécessaires à la reconstitution offerte par PhotoSynth d'une galerie de photos (d'autant que nous avions en grande partie travaillé à partir des recherches d'un salarié de Microsoft Research).
 

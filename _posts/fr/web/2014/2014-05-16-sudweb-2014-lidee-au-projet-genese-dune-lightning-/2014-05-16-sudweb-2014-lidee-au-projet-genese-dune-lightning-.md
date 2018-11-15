@@ -30,13 +30,13 @@ Ma participation m'a été confirmée il y a quelques semaines, mais je n'avais 
 
 Lorsque j'enfile ma casquette de consultant ou de chef de projet, mon travail consiste très souvent à aider un client à formaliser une idée. Cette idée peut être plus ou moins mûre, plus ou moins réfléchie, plus ou moins porteuse&nbsp;: mon travail n'est pas de la remettre en question, mais plutôt de participer, en apportant mes connaissances et mon expérience, à sa formalisation.
 
-Au fil des années, j'ai appris à ne pas faire ça n'importe comment et à passer par des outils comme le Business Model Canvas, Lean Canvas et plus généralement, tous les concepts empruntés au _Design de Services_, domaine méconnu mais ô combien intéressant des sciences cognitives.
+Au fil des années, j'ai appris à ne pas faire ça n'importe comment et à passer par des outils comme le Business Model Canvas, Lean Canvas et plus généralement, tous les concepts empruntés au _Design de Services_, domaine méconnu mais ô combien intéressant des sciences cognitives.
 
 En proposant ce concept à Sud Web, je voulais présenter tout cela. En 5 minutes. Ça va faire court.
 
 ### J-24&nbsp;: Les grandes lignes
 
-Une fois qu'on a l'idée, encore faut-il démarrer l'écriture. Ma principale difficulté, dans ce genre d'exercice, est de toujours me focaliser sur l'introduction. Mais en cinq minutes, c'est ridicule. En 5 minutes, l'introduction dure 30 secondes. Il faut donc être clair et précis dans la présentation d'une trame. Dans les quelques minutes que je vais avoir à ma disposition, il faut que j'arrive à faire passer trois idées&nbsp;:
+Une fois qu'on a l'idée, encore faut-il démarrer l'écriture. Ma principale difficulté, dans ce genre d'exercice, est de toujours me focaliser sur l'introduction. Mais en cinq minutes, c'est ridicule. En 5 minutes, l'introduction dure 30 secondes. Il faut donc être clair et précis dans la présentation d'une trame. Dans les quelques minutes que je vais avoir à ma disposition, il faut que j'arrive à faire passer trois idées&nbsp;:
 
 * Les idées sont volatiles, les capturer est difficile
 * Formaliser son idée en utilisant un modèle (exemple&nbsp;: Lean Canvas)
@@ -57,7 +57,7 @@ Un <span lang="en">Lightning Talk</span> est trop court pour ne pas être rédig
 
 Le plan à "trois C" me convient bien, mais avant de rédiger, il faut que je développe un peu les idées-clés, et que j'attribue à chaque partie une longueur, pour être sûr de ne pas avoir un contenu déséquilibré&nbsp;:
 
-* Introduction (~120 mots)&nbsp;: les idées dans ma vie de consultant, pourquoi elles n'arrivent que rarement jusqu'au statut de PMV
+* Introduction (~120 mots)&nbsp;: les idées dans ma vie de consultant, pourquoi elles n'arrivent que rarement jusqu'au statut de PMV
 * Capturer (~180 mots)&nbsp;: parler de la volatilité, de l'agacement et/ou de l'impatience de l'auteur. Inciter à s'équiper d'un crayon et d'un carnet pour griffonner, présenter des outils méthodo comme le Mind Mapping ou l'Affinity Diagram.
 * Conceptualiser (~180 mots)&nbsp;: introduire le Lean Canvas comme un modèle, parmi d'autres, de formalisation. Insister sur les forces du modèle&nbsp;: notamment celle de mettre en exergue les zones d'inconfort dans notre concept.
 * Confronter (~180 mots)&nbsp;: importance de l'interlocuteur, outils de formalisation pouvant être complétés par des outils méthodologies dédiés à l'échanges qui souvent complètent le projet
@@ -71,9 +71,9 @@ J'ai tenté un premier minutage, en parlant assez doucement. Je suis à un peu p
 
 ### J-15&nbsp;: Le nombre de <span lang="en">slides</span>
 
-Il n'est pas donné à tout le monde de faire des présentations à la Steve Jobs. J'ai abandonné depuis longtemps mes rêves de réaliser des présentations fabuleuses de 30 minutes avec uniquement 5 photos piquées dans une banque d'images National Geograpic.
+Il n'est pas donné à tout le monde de faire des présentations à la Steve Jobs. J'ai abandonné depuis longtemps mes rêves de réaliser des présentations fabuleuses de 30 minutes avec uniquement 5 photos piquées dans une banque d'images National Geograpic.
 
-Pour cette présentation, la contrainte est claire&nbsp;: très peu de temps. Cela implique qu'il faudra concentrer l'attention et donc éviter la dispersion et présentant trop de contenu. Mais cela veut aussi dire que les spectateurs n'auront, objectivement, pas le temps de retenir des informations. Remplir des <span lang="en">slides</span> de contenu est donc inutile, voire contre-productif. Il faut donc se cantonner à un transparent toutes les 45 secondes à 1 minute, soit environ 7 <span lang="en">slides</span>. Disons 8,  grand maximum, et principalement des choses très visuelles.
+Pour cette présentation, la contrainte est claire&nbsp;: très peu de temps. Cela implique qu'il faudra concentrer l'attention et donc éviter la dispersion et présentant trop de contenu. Mais cela veut aussi dire que les spectateurs n'auront, objectivement, pas le temps de retenir des informations. Remplir des <span lang="en">slides</span> de contenu est donc inutile, voire contre-productif. Il faut donc se cantonner à un transparent toutes les 45 secondes à 1 minute, soit environ 7 <span lang="en">slides</span>. Disons 8,  grand maximum, et principalement des choses très visuelles.
 
 ### J-14&nbsp;: Premier jet de <span lang="en">slides</span>
 

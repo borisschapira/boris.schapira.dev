@@ -10,7 +10,7 @@ locale: fr_FR
 
 > L’idée centrale de [l']ouvrage [de Tyler Cowen] est que l’évolution technologique va totalement polariser le monde du travail entre des travailleurs hyper complémentaires aux machines intelligentes et très bien rémunérés et une masse informe d’individus peu compatibles et clairement laissés sur le bas côté.
 >
-> <cite>["Le système éducatif français en phase avec l’avenir (troll à méditer)"](http://econoclaste.org.free.fr/econoclaste/?p=12046 '"Le système éducatif français en phase avec l’avenir (troll à méditer)", Stéphane Menia ", Econoclaste') par Stéphane Menia pour Econoclaste</cite>
+> <cite>["Le système éducatif français en phase avec l’avenir (troll à méditer)"](http://econoclaste.org.free.fr/econoclaste/?p=12046 '"Le système éducatif français en phase avec l’avenir (troll à méditer)", Stéphane Menia ", Econoclaste') par Stéphane Menia pour Econoclaste</cite>
 
 Le marché de l'emploi est en constante mutation. Dans la branche des Services, les bases de l'informatique grand public sont devenues un pré-requis communément admis. Impossible de trouver un emploi si on ne sait pas se servir d'un PC sous Windows et ouvrir Office. Mais on aurait tort de penser que l'inclusion de l'informatique va s'arrêter là.
 

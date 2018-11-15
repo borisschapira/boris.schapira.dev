@@ -12,7 +12,7 @@ slug: windows-server-2008-et-windows-vista-verifieront-ils-les-criteres-communs
 
 Les Critères Communs, décrits par le [NIAP](https://www.niap-ccevs.org/index.cfm?&CFID=271507&CFTOKEN=510b74cc682fa98f-789578AF-A471-243B-5D522F6FC64D77AE), définissent des standards en termes d'objectifs de sécurité et de conformité à ces objectifs.
 
-J'ai appris ce matin par [Laurent](http://blogs.msdn.com/b/laurelle/archive/2007/08/21/windows-vista-et-windows-server-2008-en-route-pour-les-common-criteria.aspx) que Windows Server 2008 et Windows Vista étaient sur la voie de l'évaluation EAL4 augmentée ALC_FLR.3, soit un des plus hauts niveaux jamais atteints par un OS. Cela assure aux entreprises que les systèmes disposent d'un catalogue complet d'options de sécurité, et que ces options ont été conçues, testées et revues méthodiquement.
+J'ai appris ce matin par [Laurent](http://blogs.msdn.com/b/laurelle/archive/2007/08/21/windows-vista-et-windows-server-2008-en-route-pour-les-common-criteria.aspx) que Windows Server 2008 et Windows Vista étaient sur la voie de l'évaluation EAL4 augmentée ALC_FLR.3, soit un des plus hauts niveaux jamais atteints par un OS. Cela assure aux entreprises que les systèmes disposent d'un catalogue complet d'options de sécurité, et que ces options ont été conçues, testées et revues méthodiquement.
 
 A noter&nbsp;:
 

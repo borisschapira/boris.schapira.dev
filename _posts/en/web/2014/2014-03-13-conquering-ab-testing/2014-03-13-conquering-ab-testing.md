@@ -81,13 +81,13 @@ Matthew decides to run a test over a few days. The results are as follows:
       <td>Version de contrôle (A)</td>
       <td class="numeric ">34 217</td>
       <td class="numeric ">6234</td>
-      <td>18,21 %</td>
+      <td>18,21 %</td>
     </tr>
     <tr>
       <td>Version avec vidéo (B)</td>
       <td class="numeric ">327</td>
       <td class="numeric ">68</td>
-      <td>20,79 %</td>
+      <td>20,79 %</td>
     </tr>
   </tbody>
 </table>

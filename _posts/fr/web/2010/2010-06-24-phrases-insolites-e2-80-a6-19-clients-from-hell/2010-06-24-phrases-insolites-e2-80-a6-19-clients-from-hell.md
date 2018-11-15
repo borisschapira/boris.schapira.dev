@@ -45,7 +45,7 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;! Et quand c
 
 ## Homeland Security
 
-> **_Division Sécurité_** : Il faut revoir entièrement l'application, elle n'est pas cohérente en terme de sécurité avec le document 45b-3 paragraphe 12 rangé dans le tiroir du bas du meuble à gauche dans le bureau 'Eloise', Etage 4, bâtiment B.  
+> **_Division Sécurité_** : Il faut revoir entièrement l'application, elle n'est pas cohérente en terme de sécurité avec le document 45b-3 paragraphe 12 rangé dans le tiroir du bas du meuble à gauche dans le bureau 'Eloise', Etage 4, bâtiment B.  
 > **Consultant** : Ce document m'a-t-il été remis&nbsp;? Je n'en ai pas le souvenir.  
 > **_Division Sécurité_** : Vous n'avez pas le droit de consulter ce document, vous n'êtes pas assez accrédité.
 

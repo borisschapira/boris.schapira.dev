@@ -13,7 +13,7 @@ Comme vous pouvez le constater, c'est dur. Surtout quand il faut libérer des br
 
 **Oui, j'ai eu des opportunités pour rester** chez Microsoft France mais je ne les ai volontairement pas saisies.
 
-**Non, je n'ai pas postulé au programme Mach** pour Microsoft Services. Après réflexion et discussion avec mon manager, je me suis rendu compte de mes appétences pour le service informatique sont plus fonctionnelles que ce qu'on me proposait.
+**Non, je n'ai pas postulé au programme Mach** pour Microsoft Services. Après réflexion et discussion avec mon manager, je me suis rendu compte de mes appétences pour le service informatique sont plus fonctionnelles que ce qu'on me proposait.
 
 Je parlerais volontiers de mon stage, de ce que j'ai développé et pourquoi, des gens que j'ai rencontré, de leur fonction… mais tout cela fait partie du patrimoine organisationnel et intellectuel de l'entreprise. Je vous invite d'ailleurs à essayer de rédiger un rapport de stage lorsque 90 % du stage a concerné des flux d'informations confidentiels… Rassurez-vous, j'essaierais quand même d'extraire deux ou trois enseignements à bloguer.
 

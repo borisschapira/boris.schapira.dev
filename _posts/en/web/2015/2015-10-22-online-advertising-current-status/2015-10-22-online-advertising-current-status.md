@@ -46,7 +46,7 @@ To make things clear, this solution has become so unacceptable that even the onl
 
 Developing a paid content offering is an ambitious project and many such initiatives never achieve profitability because most Internet users like to consume free content but rarely purchase any.
 
-However, if the message gets across, there are solutions allowing Internet users to voluntarily fund content production through donations <a href="https://flattr.com/" >Flattr</a>, <a href="https://www.google.com/contributor/welcome/" >Google Contributor</a>. Yet they would not be possible to use on a large scale due to the sheer number of agencies to pay. Another avenue is being explored by French platform <a href="https://medium.com/@presse_libre" >La Presse Libre</a> : bringing together multiple content producers on a single platform (with donation- or subscription-based funding) and then reallocating funds, for example in proportion to the number of visits. This type of system is also difficult to set up because it requires common metrics, consistent information systems and an enormous amount of trust.
+However, if the message gets across, there are solutions allowing Internet users to voluntarily fund content production through donations <a href="https://flattr.com/" >Flattr</a>, <a href="https://www.google.com/contributor/welcome/" >Google Contributor</a>. Yet they would not be possible to use on a large scale due to the sheer number of agencies to pay. Another avenue is being explored by French platform <a href="https://medium.com/@presse_libre" >La Presse Libre</a> : bringing together multiple content producers on a single platform (with donation- or subscription-based funding) and then reallocating funds, for example in proportion to the number of visits. This type of system is also difficult to set up because it requires common metrics, consistent information systems and an enormous amount of trust.
 
 In contrast to this unity approach, some players are showing alternative avenues by developing offerings with a value that is more intelligible to users: editorial independence (e.g., French online journal Mediapart, entirely subscription-funded), an enhanced reading experience (e.g., LaPresse.ca native app), summarized and curated information... What they all have in common is that they emphasize what has been overlooked — i.e., the fact that investigative journalism, content writing and access to information all have a cost, on the Internet as elsewhere — and they all very rarely offer free access to their content, except for promotional purposes.
 
@@ -56,10 +56,10 @@ If, on the one hand, content producers are unable to promote their content for l
 
 <ul>
 	<li>content is visually sober, which improves readability but weakens brand identity and loyalty;</li>
-	<li>audiences are potentially very wide, but editors have very little impact on targeting and on their ability to reach their targets (this is the same marketplace approach as with Google Adwords);</li>
+	<li>audiences are potentially very wide, but editors have very little impact on targeting and on their ability to reach their targets (this is the same marketplace approach as with Google Adwords);</li>
 	<li>Monetization is simplified, but in exchange editors generally have no control over advertising contracts.</li>
 </ul>
-Facebook (<a href="https://instantarticles.fb.com/" >Instant Articles</a>) and Apple (<a href="http://www.apple.com/news/" >News</a>) were the first to embark on this type of offer, closely followed by Twitter (<a href="https://about.twitter.com/moments" >Moments</a>) and Snapchat (Discover), but with the lack of transparency on these platforms, nothing suggests that content producers will be able to actually control their targeting. Facebook, for one, <a href="http://lexpansion.lexpress.fr/high-tech/les-fantomes-de-facebook-ces-amis-dont-on-ne-recoit-plus-les-messages_1499174.html" >no longer shows all of your friends posts in your news feed</a>*.*
+Facebook (<a href="https://instantarticles.fb.com/" >Instant Articles</a>) and Apple (<a href="http://www.apple.com/news/" >News</a>) were the first to embark on this type of offer, closely followed by Twitter (<a href="https://about.twitter.com/moments" >Moments</a>) and Snapchat (Discover), but with the lack of transparency on these platforms, nothing suggests that content producers will be able to actually control their targeting. Facebook, for one, <a href="http://lexpansion.lexpress.fr/high-tech/les-fantomes-de-facebook-ces-amis-dont-on-ne-recoit-plus-les-messages_1499174.html" >no longer shows all of your friends posts in your news feed</a>*.*
 
 Will you trust it for your articles?
 
@@ -71,7 +71,7 @@ Obviously, Google's interest is to increasingly centralize information by displa
 
 On a technical level, the approach is straightforward. Most CMSs can generate syndication feeds. There would simply be an additional feed that would include tracking and advertising campaigns. <a href="https://vip.wordpress.com/2015/10/07/mobile-web/" >WordPress is already liaising with Google on that topic</a>.
 
-From a business perspective, however, this approach is more than likely to worry professionals who would find themselves deprived of the control they now have over agencies. In this context, it is hardly surprising that they swiftly gathered around <a href="http://www.iab.com/news/lean/">a _mea culpa_ posture</a> and that they prefer reaching consensual agreements based on best practices.
+From a business perspective, however, this approach is more than likely to worry professionals who would find themselves deprived of the control they now have over agencies. In this context, it is hardly surprising that they swiftly gathered around <a href="http://www.iab.com/news/lean/">a _mea culpa_ posture</a> and that they prefer reaching consensual agreements based on best practices.
 
 ## Unexplored Avenues, a Lesson for the Future
 
@@ -91,5 +91,5 @@ If you can, always prefer _business models_ based on the added value of your con
 
 A few links suggested by readers:
 
-* ["What Happens Next Will Amaze You"](http://idlewords.com/talks/what_happens_next_will_amaze_you.htm) by Maciej Cegłowski, suggested by @akramfares
+* ["What Happens Next Will Amaze You"](http://idlewords.com/talks/what_happens_next_will_amaze_you.htm) by Maciej Cegłowski, suggested by @akramfares
 * ["Publicité en ligne : où va l’argent ?"](https://piacentino.com/jb/2015/publicite-en-ligne-ou-va-largent) ("Online Advertising: Where Does the Money Go?" — in French) by Jb Piacentino, suggested by [@eliesl](https://twitter.com/eliesl)
