@@ -181,7 +181,6 @@ DEPENDENCIES
   jekyll-tagging-related_posts
   liquid!
   liquid-c!
-  nokogiri (~> 1.8)
   rake
 
 RUBY VERSION
