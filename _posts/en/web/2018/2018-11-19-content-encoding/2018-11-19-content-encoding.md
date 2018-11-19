@@ -2,7 +2,7 @@
 title: 'Content Encoding: why and how to use the meta charset tag and the Content-Type header'
 i18n-key: content-encoding
 date: '2018-11-19'
-main_image: /assets/images/2018-11-16/hiragana-blug.png
+main_image: /assets/images/2018-11-16/hiragana-blur.png
 canonical: 'https://blog.dareboost.com/en/2018/11/content-encoding-meta-charset-content-type-header/'
 type: post
 tags:
