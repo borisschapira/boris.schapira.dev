@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/Shopify/liquid-c.git
-  revision: 72807dc6b8ea6c08a103b06f63d7bcca8952def7
+  revision: 0a7afdc5d192666ad855dbc35efc58482806adc6
   branch: master
   specs:
-    liquid-c (4.0.0.rc1)
+    liquid-c (4.0.0)
       liquid (>= 3.0.0)
 
 GIT
@@ -23,7 +23,7 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: 68b8565c947042ded9070c3782cb32a0508cccfd
+  revision: 6c5bb7cce197af3bbe4f3adee0fb71a666e50a61
   branch: master
   specs:
     jekyll (3.8.5)

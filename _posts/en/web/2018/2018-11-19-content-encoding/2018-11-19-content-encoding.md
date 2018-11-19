@@ -27,7 +27,7 @@ Improving the speed at which a web page is displayed often means making the brow
 Although the Web is intended to be universal, the various human groups that use it have their own specificities. One of these specificities is language, especially when written. All textual content is composed of characters from a directory intended for a type of use. Hiraganas, for example, are phonetic system intended for the unambiguous transcription of the Japanese language.
 
 {% capture img_alt %}Hiraganas{% endcapture %}
-{% capture img_caption %}Table showing the writing direction of hiraganas, by Karine WIDMER{% endcapture %}
+{% capture img_caption %}Table showing the writing direction of hiraganas<br/>by Karine WIDMER (<a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a> · <a href="https://commons.wikimedia.org/wiki/File:Table_hiragana.svg">Source</a>){% endcapture %}
 {% include rwd-image.html.liquid
 path="/assets/images/2018-11-16/hiragana.png"
 alt=img_alt
@@ -68,7 +68,8 @@ Before going any further, let’s take a look at the vocabulary in use.
 > Historically, the terms "character encoding", "character map", "character set" and "code page" were synonymous in computer science[…]. But now the terms have related but distinct meanings,[…] Regardless, the terms are still used interchangeably, with character set being nearly ubiquitous.  
 > <cite>"[Character encoding](https://en.wikipedia.org/wiki/Character_encoding#Character_sets,_character_maps_and_code_pages)", Wikipedia</cite>
 
-We find this use of "character set" or "charset" to designate, in reality, an encoding, in the HTML specifications. We will do the same in the rest of this article.  
+We find this use of "character set" or "charset" to designate, in reality, an encoding, in the HTML specifications. We will do the same in the rest of this article.
+
 One of the easiest ways to specify a charset in an HTML page is to put in a `<meta>` tag in the element:
 
 ```
