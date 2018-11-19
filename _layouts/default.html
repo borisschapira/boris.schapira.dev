@@ -131,7 +131,9 @@ layout: microtypo
         {% assign socialImage = socialImage | absolute_url %}
       {% endif %}
     {% endif %}
-    {% capture socialImage %}https://res.cloudinary.com/{{ site.cloudinary.cloud_name }}/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:{{ themeColor }},o_40/w_1000,c_fit,l_text:PT%20Sans_80:{{ imgtitle }},x_2,y_-98,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_80:{{ imgtitle }},y_-100,co_white/l_text:PT%20Sans_50:borisschapira,g_south_east,x_44,y_75,co_black,o_40/l_text:PT%20Sans_50:borisschapira,g_south_east,x_46,y_77,co_white/c_fill,g_south_east,r_max,h_45,l_twitter,w_45,x_336,y_80/c_scale,g_south_west,h_150,l_{{ page.cloudinary_logo | default:site.cloudinary.logo }},w_150,x_40,y_40/{{ socialImage }}{% endcapture %}
+    {% assign title_length = socialTitle | size %}
+    {% assign title_size = title_length | minus:30 | times: -20 | divided_by: 50 | plus: 90 %}
+    {% capture socialImage %}https://res.cloudinary.com/{{ site.cloudinary.cloud_name }}/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:{{ themeColor }},o_40/w_1000,c_fit,l_text:PT%20Sans_{{ title_size }}:{{ imgtitle }},x_2,y_-98,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_{{ title_size }}:{{ imgtitle }},y_-100,co_white/l_text:PT%20Sans_50:borisschapira,g_south_east,x_44,y_75,co_black,o_40/l_text:PT%20Sans_50:borisschapira,g_south_east,x_46,y_77,co_white/c_fill,g_south_east,r_max,h_45,l_twitter,w_45,x_336,y_80/c_scale,g_south_west,h_150,l_{{ page.cloudinary_logo | default:site.cloudinary.logo }},w_150,x_40,y_40/{{ socialImage }}{% endcapture %}
     {% capture socialTitle %}{{ socialTitle }} &middot; {{ site.title }}{% endcapture %}
     <!-- / Social Media -->
 
