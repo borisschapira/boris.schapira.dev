@@ -97,16 +97,28 @@ alt=img_alt
 
 To change this HTTP header, you may need the help of the person who managed the server, whereas it’s your hosting service provider or a person in charge in your organization, because the configuration of the HTTP headers is very specific to the web server in use, and you’ll need the appropriate administrative rights to be able to modify those server settings.
 
-On **Apache 2.2+**, the configuration of UTF-8 as a default character set involves [the `AddDefaultCharset` directive](https://httpd.apache.org/docs/2.2/en/mod/core.html#adddefaultcharset):
+On **Apache 2.2+**, the configuration of UTF-8 as a default character set for your `text/plain` and `text/html` files involves [the `AddDefaultCharset` directive](https://httpd.apache.org/docs/2.2/en/mod/core.html#adddefaultcharset):
 
 ```
 AddDefaultCharset utf-8
+```
+
+For other types of files, you'll need [the `AddCharset` directive](https://httpd.apache.org/docs/current/en/mod/mod_mime.html#addcharset);
+
+```
+AddCharset utf-8 .js .css …
 ```
 
 On **nginx**, you’ll need to make sure that [the ngx_http_charset_module is loaded](http://nginx.org/en/docs/http/ngx_http_charset_module.html), then use the `charset` directive.
 
 ```
 charset utf-8;
+```
+
+Here too, it is possible to refine the scope so that other types of files than `text/html` are delivered in utf-8, using the directive `charset_types`:
+
+```
+charset_types text/html text/css application/javascript
 ```
 
 Of course, you can also configure the `Content-Type` HTTP header from your server-side scripting code. For example, in **PHP**, you can use [the header() network function](http://php.net/manual/en/function.header.php). Don’t forget to define the Media Type (or MIME type) of the body of the response, in addition to the character set.

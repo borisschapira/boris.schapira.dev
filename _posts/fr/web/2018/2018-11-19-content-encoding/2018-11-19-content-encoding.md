@@ -93,16 +93,28 @@ alt=img_alt
 
 Pour changer cet en-tête HTTP, vous devrez vous adresser à la personne qui gère votre serveur web, qu’il s’agisse de votre hébergeur ou d’un responsable de votre organisation, car la configuration des en-têtes HTTP est très spécifique au serveur Web utilisé, et vous aurez besoin des droits d’administration appropriés pour pouvoir modifier ces paramètres.
 
-Sur **Apache 2.2+**, la configuration de l'UTF-8 comme jeu de caractères par défaut implique d’utiliser [la directive `AddDefaultCharset` [EN]](https://httpd.apache.org/docs/2.2/en/mod/core.html#adddefaultcharset):
+Sur **Apache 2.2+**, la configuration de l'UTF-8 comme jeu de caractères par défaut pour les fichiers de types `text/plain` ou `text/html` implique d’utiliser [la directive `AddDefaultCharset` [EN]](https://httpd.apache.org/docs/2.2/en/mod/core.html#adddefaultcharset):
 
 ```
 AddDefaultCharset utf-8
+```
+
+Pour les autres types de fichiers, vous aurez besoin d'utiliser la directive [`AddCharset`](https://httpd.apache.org/docs/current/fr/mod/mod_mime.html#addcharset):
+
+```
+AddCharset utf-8 .js .css …
 ```
 
 Dans **nginx**, vous devrez vous assurer que le [module ngx_http_charset_module est chargé](http://nginx.org/en/docs/http/ngx_http_charset_module.html), puis utiliser la directive `charset`.
 
 ```
 charset utf-8;
+```
+
+Ici aussi, il est possible d'affiner le champs d'application pour que d'autres types de fichiers que `text/html` soient livrés en utf-8, en utilisant la directive `charset_types`:
+
+```
+charset_types text/html text/css application/javascript
 ```
 
 Bien sûr, vous pouvez aussi configurer l’en-tête HTTP `Content-Type` dans votre code côté serveur. En **PHP**, par exemple, vous pouvez utiliser [la fonction réseau the header()](http://php.net/manual/fr/function.header.php). N'oubliez pas, si vous le faites, de définir le type de média (ou type MIME) du corps de la réponse, en plus du jeu de caractères.
