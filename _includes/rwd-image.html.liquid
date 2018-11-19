@@ -1,5 +1,5 @@
 {% unless jekyll.environment == "development" %}
-{% if include.caption %}{% cloudinary {{ include.path }} alt="{{ include.alt | escape }}" caption="{{ include.caption }}" %}{% else %}{% cloudinary {{ include.path }} alt="{{ include.alt | escape }}" %}{% endif %}{% else %}
+{% if include.caption %}{% cloudinary {{ include.path }} alt="{{ include.alt | escape }}" caption="{{ include.caption | replace: '"', '&quot;' }}" %}{% else %}{% cloudinary {{ include.path }} alt="{{ include.alt | escape }}" %}{% endif %}{% else %}
 <figure>
   <img src="{{ include.path }}" alt="{{ include.alt | escape }}">
 {% if include.caption %}

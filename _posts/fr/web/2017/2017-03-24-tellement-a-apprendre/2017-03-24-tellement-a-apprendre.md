@@ -10,7 +10,7 @@ Un de mes collègues a partagé une synthèse de différents outils Devops qu'il
 <!-- more -->
 
 {% capture img_alt %}Un graphique, principalement en noir et blanc, présentant différents outils Devops classés en catégories : collaboration, compilation, tests, déploiements et maintenance opérationnelle. Sur les 150 outils listés, une cinquantaine est en couleur, pour être démarquée.{% endcapture %}
-{% capture img_caption %}Infographie réalisée par James Bowman dans son article "<a href="http://www.jamesbowman.me/post/continuous-delivery-tool-landscape/"><span lang="en">Continuous delivery tool landscape</span></a>"{% endcapture %}
+{% capture img_caption %}Infographie réalisée par James Bowman dans son article "[Continuous delivery tool landscape](http://www.jamesbowman.me/post/continuous-delivery-tool-landscape/)"{% endcapture %}
 {% include rwd-image.html.liquid
 path="/assets/images/2017-03-24/known.jpg"
 alt=img_alt

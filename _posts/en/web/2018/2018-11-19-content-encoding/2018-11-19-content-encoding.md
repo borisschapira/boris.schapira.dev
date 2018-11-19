@@ -27,7 +27,8 @@ Improving the speed at which a web page is displayed often means making the brow
 Although the Web is intended to be universal, the various human groups that use it have their own specificities. One of these specificities is language, especially when written. All textual content is composed of characters from a directory intended for a type of use. Hiraganas, for example, are phonetic system intended for the unambiguous transcription of the Japanese language.
 
 {% capture img_alt %}Hiraganas{% endcapture %}
-{% capture img_caption %}Table showing the writing direction of hiraganas<br/>by Karine WIDMER (<a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a> · <a href="https://commons.wikimedia.org/wiki/File:Table_hiragana.svg">Source</a>){% endcapture %}
+{% capture img_caption %}Table showing the writing direction of hiraganas  
+by Karine WIDMER ([CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Source](https://commons.wikimedia.org/wiki/File:Table_hiragana.svg)){% endcapture %}
 {% include rwd-image.html.liquid
 path="/assets/images/2018-11-16/hiragana.png"
 alt=img_alt
