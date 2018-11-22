@@ -34,7 +34,9 @@
     "build:js": "npm run eslint && npm run concat && npm run uglify",
     "build:css": "npm run comb && npm run sass && npm run prefix && npm run wring",
     "build": "npm run vendors && npm run build:css && npm run build:js",
-    "prettier": "prettier --write **.md "
+    "prettier": "prettier --write **.md ",
+    "lambda:serve": "netlify-lambda serve functions",
+    "lambda:build": "netlify-lambda build functions"
   },
   "config": {
     "scss_dir": "_src/styles/scss/",
@@ -55,10 +57,12 @@
     "concat-cli": "^4.0.0",
     "csscomb": "^4.2.0",
     "csswring": "^7.0.0",
+    "dotenv": "^6.1.0",
     "eslint": "^5.7.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-config-google": "^0.11.0",
     "eslint-plugin-import": "^2.14.0",
+    "netlify-lambda": "^1.0.3",
     "node-sass": "^4.9.4",
     "postcss": "^7.0.5",
     "postcss-cli": "^6.0.0",
@@ -69,6 +73,7 @@
     "abbr-touch": "^2.1.6",
     "instantsearch.js": "^2.7.2",
     "jquery": "^3.3",
+    "js-md5": "^0.7.3",
     "mermaid": "^8.0.0-rc.8",
     "touchtap-event": "^2.0.2"
   }

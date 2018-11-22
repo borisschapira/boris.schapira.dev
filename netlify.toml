@@ -1,6 +1,7 @@
 [build]
-  command = "bundle exec rake build:generate; bundle exec rake test;"
+  command = "bundle exec rake build:generate; bundle exec rake test; npm run lambda:build"
   publish = "_site"
+  functions = "lambda"
 
 [context.branch-deploy]
   command = "bundle exec rake build:generate[integ]"

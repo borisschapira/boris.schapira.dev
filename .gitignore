@@ -5,3 +5,4 @@ _site
 /vendor
 _config_prod.yml
 /node_modules
+/lambda
