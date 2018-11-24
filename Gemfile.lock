@@ -23,7 +23,7 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: 6c5bb7cce197af3bbe4f3adee0fb71a666e50a61
+  revision: d80835918606d4e4ba52fcb0f087b5577e1ae6bf
   branch: master
   specs:
     jekyll (3.8.5)
