@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "description": "My Jekyll v3 setup.",
   "scripts": {
-    "vendors:mermaid": "cp ./node_modules/mermaid/dist/mermaid.min.js ./assets/scripts/vendors/",
     "vendors:abbr-touch": "cp ./node_modules/abbr-touch/abbr-touch.js ./_src/scripts/vendors/",
     "vendors:instantsearch": "cp ./node_modules/instantsearch.js/dist/instantsearch.min.js ./_src/scripts/vendors/; cp ./node_modules/instantsearch.js/dist/instantsearch.min.css ./_includes/styles/vendors/; cp ./node_modules/instantsearch.js/dist/instantsearch-theme-algolia.min.css ./_includes/styles/vendors/",
     "vendors:jquery": "cp ./node_modules/jquery/dist/jquery.min.js ./_src/scripts/vendors/",
     "vendors:touchtap-event": "cp ./node_modules/touchtap-event/touchtap-event.js ./_src/scripts/vendors/",
-    "vendors": "npm run vendors:mermaid & npm run vendors:abbr-touch & npm run vendors:instantsearch & npm run vendors:jquery & npm run vendors:touchtap-event",
+    "vendors": "npm run vendors:abbr-touch & npm run vendors:instantsearch & npm run vendors:jquery & npm run vendors:touchtap-event",
     "uglify:search": "uglifyjs _src/scripts/search.js -o assets/scripts/search.min.js",
     "uglify:comments": "uglifyjs _src/scripts/comments.js -o assets/scripts/comments.min.js",
     "uglify:index": "uglifyjs _src/scripts/index.js -o assets/scripts/index.min.js",
@@ -37,7 +36,8 @@
     "prettier": "prettier --write **.md ",
     "lambda:serve": "netlify-lambda serve functions",
     "lambda:build": "netlify-lambda build functions",
-    "comments:get": "node ./scripts/get-comments.js"
+    "comments:get": "node ./scripts/get-comments.js",
+    "css:test": "find _includes/styles -name '*.css' -d 1 | xargs -I % purifycss % _site/**/*.html -r %"
   },
   "config": {
     "scss_dir": "_src/styles/scss/",
@@ -76,8 +76,8 @@
     "jquery": "^3.3",
     "js-md5": "^0.7.3",
     "js-yaml": "^3.12.0",
-    "mermaid": "^8.0.0-rc.8",
     "mkdirp": "^0.5.1",
+    "purify-css": "^1.2.5",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5",
     "touchtap-event": "^2.0.2",
