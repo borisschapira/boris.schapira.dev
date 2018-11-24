@@ -47,7 +47,7 @@ D'après le cabinet CMS Francis Lefebvre Avocats :
 > […] la suppression de l’obligation légale de prise en charge des coûts découlant du télétravail n’exonère pas l’employeur de tout remboursement des frais  professionnels supplémentaires induits par ce dernier, mais permet d’envisager une indemnisation forfaitaire.
 > <cite>"<a href="https://business.lesechos.fr/directions-ressources-humaines/partenaire/partenaire-1574-teletravail-une-mise-en-oeuvre-simplifiee-mais-a-quels-couts-pour-l-entreprise-321022.php">Télétravail : une mise en oeuvre simplifiée mais à quels coûts pour l'entreprise ?</a>", Maïté Ollivier et Delphine Pannetier, avocates</cite>
 
-Et c'est à peu près la conclusion à laquelle j'arrive aussi, à laquelle j'ajoute l'évaluation des frais engagés par le salarié en télétravail, que je reproduis ci-dessous, trouvable [sur le site de l'URSAFF](https://www.urssaf.fr/portail/home/taux-et-baremes/frais-professionnels/evaluation-des-frais-engages-par.html) ([version PNG sauvegardée – 360 Ko](/assets/docs/2018-10-13/frais-professionnels_teletravail.png)).
+Et c'est à peu près la conclusion à laquelle j'arrive aussi, à laquelle j'ajoute l'évaluation des frais engagés par le salarié en télétravail, que je reproduis ci-dessous, trouvable [sur le site de l'<abbr title="Unions de Recouvrement des Cotisations de Sécurité Sociale et d'Allocations Familiales">URSAFF</abbr>](https://www.urssaf.fr/portail/home/taux-et-baremes/frais-professionnels/evaluation-des-frais-engages-par.html) ([version PNG sauvegardée – 360 Ko](/assets/docs/2018-10-13/frais-professionnels_teletravail.png))[^exemple].
 
 On y trouve l'ensemble des frais cités dans mon tweet d'origine, et mêmes d'autres.
 
@@ -86,10 +86,10 @@ Tout cela va changer vite, je n'en doute pas. Par souci de flexibilité, les dro
     <td>
         <p><strong>Valeur réelle</strong></p>
         <p>Quote-part de&nbsp;l’ensemble des frais fixes réellement supportés au titre du local affecté à un usage professionnel au prorata de la superficie totale de l’habitation principale.</p>
-        <p><em>Exemple&nbsp;:<br>
-        Appartement de 70&nbsp;m² dont 10&nbsp;m² pour l’usage professionnel.<br>
-        Le loyer s’élève à 370&nbsp;€/mois,&nbsp;la taxe d’habitation à 35&nbsp;€/mois et la prime d’assurance à 15&nbsp;€/mois.<br>
-        Le montant des frais déductibles s’élève donc à 420&nbsp;x 10 / 70 = 60&nbsp;€.</em>
+        <p><em>Exemple :<br>
+        Appartement de 70 m² dont 3 m² pour l’usage professionnel.<br>
+        Le loyer s’élève à 628 €&#8239;/&#8239;mois, la taxe d’habitation à 50 €&#8239;/&#8239;mois et la prime d’assurance à 22 €&#8239;/&#8239;mois.<br>
+        Le montant des frais déductibles s’élève donc à 700 x 3 / 70 = 30 €.</em>
         </p>
     </td>
     </tr>
@@ -171,3 +171,5 @@ Tout cela va changer vite, je n'en doute pas. Par souci de flexibilité, les dro
     </tr>
 </tbody>
 </table>
+
+[^exemple]: L'exemple d'origine du site de l'<abbr title="Unions de Recouvrement des Cotisations de Sécurité Sociale et d'Allocations Familiales">URSAFF</abbr> ne correspondait pas à la réalité du coût locatif ou, selon moi, de la surface dédiée à un bureau. Je me suis permis de le modifier [avec des données plus récentes](https://immobilier.lefigaro.fr/article/le-loyer-moyen-des-francais-est-de-628-euros-par-mois_6cf97d06-d1cf-11e6-b36e-ce717b784d0d/ "&quot;Le loyer moyen des Français est de 628 euros par mois&quot;, Guillaume Errard dans Le Figaro Immobilier").
