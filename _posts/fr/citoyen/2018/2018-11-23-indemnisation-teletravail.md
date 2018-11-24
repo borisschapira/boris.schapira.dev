@@ -47,19 +47,41 @@ D'après le cabinet CMS Francis Lefebvre Avocats :
 > […] la suppression de l’obligation légale de prise en charge des coûts découlant du télétravail n’exonère pas l’employeur de tout remboursement des frais  professionnels supplémentaires induits par ce dernier, mais permet d’envisager une indemnisation forfaitaire.
 > <cite>"<a href="https://business.lesechos.fr/directions-ressources-humaines/partenaire/partenaire-1574-teletravail-une-mise-en-oeuvre-simplifiee-mais-a-quels-couts-pour-l-entreprise-321022.php">Télétravail : une mise en oeuvre simplifiée mais à quels coûts pour l'entreprise ?</a>", Maïté Ollivier et Delphine Pannetier, avocates</cite>
 
-Et c'est à peu près la conclusion à laquelle j'arrive aussi, à laquelle j'ajoute l'évaluation des frais engagés par le salarié en télétravail, que je reproduis ci-dessous, trouvable [sur le site de l'<abbr title="Unions de Recouvrement des Cotisations de Sécurité Sociale et d'Allocations Familiales">URSAFF</abbr>](https://www.urssaf.fr/portail/home/taux-et-baremes/frais-professionnels/evaluation-des-frais-engages-par.html) ([version PNG sauvegardée – 360 Ko](/assets/docs/2018-10-13/frais-professionnels_teletravail.png))[^exemple].
+Et c'est à peu près la conclusion à laquelle j'arrive aussi, à laquelle j'ajoute l'évaluation des frais engagés par le ou la salariée en télétravail de l'<abbr title="Unions de Recouvrement des Cotisations de Sécurité Sociale et d'Allocations Familiales">URSAFF</abbr>, que je reproduis en fin d'article.
 
 On y trouve l'ensemble des frais cités dans mon tweet d'origine, et mêmes d'autres.
 
 ***
 
+**Aux employeurs m'ayant contacté**
+
 Voilà messieurs, vous avez mes éléments démontrant que ces frais sont à votre charge et qu'en l'absence d'indemnisation – ne serait-ce que forfaitaire – vous fragilisez votre relation salariale.
 
-Tout cela va changer vite, je n'en doute pas. Par souci de flexibilité, les droits des salariés seront rapidement réduits (on voit déjà que sans même changer les obligations légales, une communication efficace[^1] fait déjà de gros dégâts). En attendant, vous vous exposez à des poursuites qui fragilisent vos entreprises.
+Tout cela va changer vite, je ne me fais aucune illusion : par souci de flexibilité, et en agitant le spectre du chômage, les droits des salariés seront rapidement réduits (on voit déjà que sans même changer les obligations légales, une communication efficace[^1] fait déjà de gros dégâts). En attendant, vous vous exposez à des poursuites qui fragilisent vos entreprises et peuvent donner une mauvaise image de votre structure.
+
+N'ayez pas peur : vous avez déjà mis en place le télétravail. Vous êtes des innovateurs, qui osez prendre des risques ! Prenez donc celui d'entâmez le dialogue avec vos salarié·e·s, en toute transparence, et convenez avec eux de forfaits justes. Ils et elles seront plus heureux et heureuses, et en parleront autour d'eux !
 
 [^1]: Comme par exemple [cet article de Service-Public.fr](https://www.service-public.fr/particuliers/actualites/A12068) de la Direction de l'information légale et administrative (Premier ministre), stipulant explicitement : "L'article L 1222-10 du code du travail est également modifié : l'employeur n'est plus dans l'obligation (vis-à-vis de son salarié en télétravail) de prendre en charge tous les coûts découlant directement de l'exercice du télétravail (coût des matériels, logiciels, abonnements, communications et outils, maintenance...)" ce qui est faux, comme je viens de le démontrer.
 
 ***
+
+**Aux salarié·e·s découvrant ces informations**
+
+Gardez en tête que la compréhension du Code du Travail n'est pas simple et permanente. Ne considérez donc pas que votre employeur vous a "arnaqué" mais invitez-le plutôt à contacter son cabinet comptable ou son service de gestion des Ressources Humaines avec ces éléments, pour entâmer une discussion.
+
+Le télétravail à temps complet est un sujet sensible, avec ses totems et ses tabous, mais également un sujet fondamental pour la société. Il est porteur de modifications profondes dans les mécaniques de confiance entre employeurs et salarié·e·s et accompagne la définition d'un d'un nouvel urbanisme décentralisé.
+
+Il m'a été fait le reproche de jeter l'opprobe sur des employeurs qui font déjà l'énorme pas en avant d'accepter le télétravail.  
+Je l'entends.  
+Rien ne vous oblige, une fois ces informations connues, à agir et loin de moi tout jugement. Le dialogue social, dans certaines entreprises, est complexe. Je comprends que vous ne souhaitiez pas que votre employeur reviennent sur la possibilité de télétravail à temps complet qu'il compte ou vous a déjà accorder.  
+
+Cependant, tel que je le conçois, le télétravail à temps complet est, par essence, réservé à une poignée de professions privilégié·e·s (si vous y êtes éligible, soyez-en consicent·e) et aujourd'hui accessible, aux sein de ces professions, par une partie infime de personnes qui ont la main haute dans les négociations (donc encore plus privilégiée).  
+J'ai l'intime conviction que si ces personnes abandonnent leurs droits et concèdent à prendre en charge ces coûts, cela construira un précédent qui définira le dialogue social pour les salarié·e·s qui accéderont au télétravail dans plusieurs années. Pour une personne au SMIC, cela représente chaque année un mois entier de salaire net.
+
+***
+
+## Évaluation des frais engagés par le ou la salariée en télétravail ([source <abbr title="Unions de Recouvrement des Cotisations de Sécurité Sociale et d'Allocations Familiales">URSAFF</abbr>](https://www.urssaf.fr/portail/home/taux-et-baremes/frais-professionnels/evaluation-des-frais-engages-par.html)[^exemple])
+
 
 <table class="table table-striped" border="1" cellpadding="1" cellspacing="1">
 <thead>
