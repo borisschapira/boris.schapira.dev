@@ -111,7 +111,7 @@ $('#comment-form').on("submit", function submitForm(event) {
   $input_guid = $form.find('#comment-guid');
   
   $submitBtn.attr('disabled', 'disabled');
-  $input_timestamp.val(new Date().getTime()*1000);
+  $input_timestamp.val(new Date().getTime());
   $input_guid.val((function guid() {
     function s4() {
       return Math.floor((1 + Math.random()) * 0x10000)
