@@ -1,9 +1,9 @@
 --- 
 layout: null 
 --- 
-{% if page.category.size > 0 %}
-  {% assign cats_eyes = page.category.size %}
-  {% if cats_eyes > 0 %}{% assign has_cat = true %}{% else %}{% assign has_cat = false %}{% endif %}
+{% if page.category %}
+    {% assign cats_eyes = page.category|size %}
+    {% if cats_eyes > 0 %}{% assign has_cat = true %}{% else %}{% assign has_cat = false %}{% endif %}
 {% endif %}{% if page.locale %}
   {% assign locale_size = page.locale|size %}
   {% if locale_size > 0 %}{% assign has_locale = true %}{% else %}{% assign has_locale = false %}{% endif %}
