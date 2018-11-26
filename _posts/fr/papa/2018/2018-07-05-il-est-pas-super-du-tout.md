@@ -23,4 +23,4 @@ Visiblement, les personnages du film s'en rendent compte et, à un moment, sa fi
 
 > C'est n'importe quoi. Il est pas super du tout. Il est nul ! Il est nul depuis le début, il sait pas être papa, lui ! C'est pas comme ça, un papa ! Les vrais papas, ils savent très bien s'occuper des enfants !
 
-Heureusement, la salle était obscure. Personne ne m'a vu versé ma petite larme de fierté.
+Heureusement, la salle était obscure. Personne ne m'a vu verser ma petite larme de fierté.
