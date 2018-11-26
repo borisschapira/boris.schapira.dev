@@ -23,7 +23,6 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem 'jekyll-microtypo'
   gem 'jekyll-paginate-v2', :git => 'https://github.com/borisschapira/jekyll-paginate-v2.git', :branch => 'default-values'
-  gem 'jekyll-postfiles', '~> 2.1'
   gem 'jekyll-pwa-plugin'
   gem 'jekyll-sitemap'
   gem 'jekyll-tagging-related_posts'

@@ -108,7 +108,6 @@ GEM
       jekyll (~> 3.3)
     jekyll-microtypo (0.2.3)
       jekyll (>= 3.0, < 4.0)
-    jekyll-postfiles (2.1.1)
     jekyll-pwa-plugin (2.2.1)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
@@ -175,7 +174,6 @@ DEPENDENCIES
   jekyll-include-cache
   jekyll-microtypo
   jekyll-paginate-v2!
-  jekyll-postfiles (~> 2.1)
   jekyll-pwa-plugin
   jekyll-sitemap
   jekyll-tagging-related_posts
