@@ -41,8 +41,8 @@ layout: null
                   {% t Vous êtes abonné·e au flux des articles %}{% unless has_cat or has_locale %}.{% else %}&nbsp;:
               </p>
               <ul>
-                  {% if has_cat %}<li>{% t de la catégorie&nbsp;: %} {{ page.category | t: page.locale | capitalize}}{% if has_locale %}&nbsp;;{% else %}.{% endif %}</li>{% endif %}
-                  {% if has_locale %}<li>{% t rédigés en %} {% include locale_display.html.liquid locale=page.locale %}.</li>{% endif %}
+                  {% if has_cat %}<li>{% t de la catégorie&nbsp;: %} {{ page.category | t: page.locale | capitalize}}</li>{% endif %}
+                  {% if has_locale %}<li>{% t rédigés en %} {% t français %}.</li>{% endif %}
               </ul>
               {% if page.category != 'web' %}<p>
                   {% t Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre %} <a href="{{ "web/feed.xml" | prepend: page.baseurl | absolute_url }}">{% t ce flux %}</a>.

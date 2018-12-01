@@ -228,7 +228,7 @@ layout: microtypo
             </li>
           </ul>
     
-          <div class="lang">
+          {% if page.layout == "index" %}<div class="lang">
             <ul>
               {% if page.translation %}
                 {% assign lang = page.translation.locale | slice: 0,2 %}
@@ -236,7 +236,7 @@ layout: microtypo
                 <li><a class="{{ lang }}" href="{{ page.translation.url }}"><span class="sr-only">{{ read_in }}</span><svg class="icon flag-{{ lang }}" aria-hidden="true"><use xlink:href="#flag-{{ lang }}"></use></svg></a>
               {% endif %}
             </ul>
-          </div>
+          </div>{% endif %}
     
           <ul class="secondary">
             <li class="sidebar-nav-item">

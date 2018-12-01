@@ -2,9 +2,7 @@
 layout: page
 title: À propos de ce site
 permalink: /a-propos/site/
-date: 2017-12-29 14:00:00
 i18n-key: about-site
-permalink: /a-propos/site/index.html
 locale: fr_FR
 ---
 
@@ -16,7 +14,7 @@ Si vous souhaitez copier, modifier ou redistribuer certains contenus, vous devez
 
 ## Sous le capot
 
-Spécialisé en Web Performance depuis quelques années, j'ai décidé un jour de ne pas être le cordonnier mal chaussé. Depuis, dans une saine compétition avec mon collègue [Nicolas Hoizey](http://nicolas-hoizey.com/), je n'ai de cesse d'en améliorer [les temps de réponse](http://www.webpagetest.org/testlog.php?days=365&filter=borisschapira.com&all=on "Tests de performance WebPageTest lancés sur ce site").
+Spécialisé en Web Performance depuis quelques années, j'ai décidé un jour de ne pas être le cordonnier mal chaussé. Depuis, dans une saine compétition avec mon ex-collègue [Nicolas Hoizey](http://nicolas-hoizey.com/), je n'ai jamais cessé d'améliorer les performances web du site.lancés sur ce site").
 
 ### Côté serveur
 
@@ -58,7 +56,7 @@ C'est également Netlify qui s'occupe de capturer les commentaires pour me les e
 
 Une partie de mon code CSS et JS est dédiée à l'accessibilité et j'essaie également de contribuer de manière responsable, pour être le plus inclusif possible à la fois envers les personnes, mais aussi envers les contextes (par exemple, j'utilise la librairie [abbr-touch](http://www.growingwiththeweb.com/2014/09/making-abbr-elements-touch-accessible.html) pour permettre aux personnes en situation de mobilité de visualiser la définition d'une abréviation ou d'un acronyme.
 
-La recherche instantanée est le fruit du branchement du site sur [Algolia](https://www.algolia.com/), une solution très performante d'indexation et de recherche côté client qui a le mérite de proposer un [exemple d'implémentation pour Jekyll](https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/ "Add instant search to your blog or documentation using our Jekyll plugin") qui cadrait parfaitement avec mon besoin. Il faudra néanmoins que je repasse dessus car le code JavaScript nécessaire me semble un peu complexe ([jQuery](https://jquery.com/), [Hogan](http://twitter.github.io/hogan.js/), [MomentJs](http://momentjs.com/)… je dois pouvoir faire plus simple).
+La recherche instantanée est le fruit du branchement du site sur [Algolia](https://www.algolia.com/), une solution très performante d'indexation et de recherche côté client qui a le mérite de proposer un [exemple d'implémentation pour Jekyll](https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/ "Add instant search to your blog or documentation using our Jekyll plugin") qui cadrait parfaitement avec mon besoin.
 
 Afin de contrôler ce qui se passe sur mon site (notamment pour détecter des tentatives d'injections), j'ai positionné un certain nombre de règles [Content Security Policy](https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9/CSP) et des rapports sont enregistrés dans une base de données à chaque infraction[^7].
 
