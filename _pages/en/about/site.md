@@ -16,7 +16,7 @@ If you wish to copy, modify or redistribute certain content, you must comply wit
 
 Specialized in Web Performance for a few years, I decided one day not to be the barefoot cobbler. Since then, in a healthy competition with my former colleague[Nicolas Hoizey](http://nicolas-hoizey.com/), I've never ceased to improve the web performance of the website.
 
-### Server site
+### Server side
 
 I started by throwing away my Wordpress blog and replacing it with a static site generator[^static] developped in node, [Hexo](https://github.com/hexojs/hexo). After having determined the limits of the tool and contributed to some plugins, I decided to migrate to [Jekyll](https://jekyllrb.com/) whose community seemed more mature to me.
 
