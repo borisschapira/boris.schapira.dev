@@ -160,14 +160,14 @@ header.posts-h {
 
 .p-tags,
 .p-category,
-.p-readtime {
+.p-lang {
 	&::before {
 		content: "\00a0·\00a0";
 	}
 }
 
-html .content .post .p-header .p-author {
-	display: none;
+.p-lang {
+	font-style: italic;
 }
 
 .related {
