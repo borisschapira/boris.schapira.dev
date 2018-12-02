@@ -15,7 +15,7 @@ GIT
 
 GIT
   remote: https://github.com/borisschapira/jekyll-paginate-v2.git
-  revision: 1b2984b5b17882ac6fc0bb53dbb144c6b211f9d4
+  revision: 0a8b8f9a6615cbabfdaffeff816bab23ad49ec71
   branch: default-values
   specs:
     jekyll-paginate-v2 (2.0.0)
@@ -23,7 +23,7 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: d80835918606d4e4ba52fcb0f087b5577e1ae6bf
+  revision: 5b3eb43e08e038e80b5de29297ced9ae06423c98
   branch: master
   specs:
     jekyll (3.8.5)
@@ -43,7 +43,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.2.1)
+    activesupport (5.2.1.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -53,14 +53,14 @@ GEM
     algolia_html_extractor (2.6.1)
       json (~> 2.0)
       nokogiri (~> 1.8.2)
-    algoliasearch (1.23.2)
+    algoliasearch (1.24.0)
       httpclient (~> 2.8, >= 2.8.3)
       json (>= 1.5.1)
     classifier-reborn (2.2.0)
       fast-stemmer (~> 1.0)
     colorator (1.1.0)
     colorize (0.8.1)
-    commonmarker (0.18.1)
+    commonmarker (0.18.2)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.3)
     em-websocket (0.5.1)
@@ -70,11 +70,11 @@ GEM
       ffi (>= 1.3.0)
     eventmachine (1.2.7)
     fast-stemmer (1.0.2)
-    fastimage (2.1.4)
+    fastimage (2.1.5)
     ffi (1.9.25)
     filesize (0.2.0)
     forwardable-extended (2.6.0)
-    html-proofer (3.9.2)
+    html-proofer (3.9.3)
       activesupport (>= 4.2, < 6.0)
       addressable (~> 2.3)
       colorize (~> 0.8)
