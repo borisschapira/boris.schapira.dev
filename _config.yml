@@ -173,7 +173,7 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
-  default_values:
+  page_config:
     sitemap: false
 
 # Collections
