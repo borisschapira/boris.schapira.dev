@@ -48,17 +48,17 @@ If all goes well then Netlify deploys the generated site on its <abbr title="Con
 
 The last deployment was carried out on {{ site.time | localize: '%A %-d %B %Y' }}.
 
-Netlify est également en charge de capturer les commentaires et de les envoyer sur un canal Slack privé via [Netlify Forms](https://www.netlify.com/docs/form-handling/), grâce à [une technique popularisée par Phil Hawksworth](https://github.com/philhawksworth/jamstack-comments-engine).
+Netlify is also in charge of capturing comments and sending them to a private Slack channel via [Netlify Forms](https://www.netlify.com/docs/form-handling/), using [a technique popularized by Phil Hawksworth](https://github.com/philhawksworth/jamstack-comments-engine).
 
 [^3]: On this subject, you should read [this excellent article by Romy on light syntaxes [FR]](http://romy.tetue.net/syntaxes-legeres-pour-rediger)
 
 ### Client side
 
-Part of my CSS and JS code is dedicated to accessibility and I also try to contribute responsibly, to be as inclusive as possible, keeping both people and contexts in mind (for example, I use the [abbr-touch] library (http://www.growingwiththeweb.com/2014/09/making-abbr-elements-touch-accessible.html) that gives mobile users the ability to read the definition of an abbreviation or acronym.
+Part of my CSS and JS code is dedicated to accessibility and I also try to contribute responsibly, to be as inclusive as possible, keeping both people and contexts in mind (for example, I use the [abbr-touch library](http://www.growingwiththeweb.com/2014/09/making-abbr-elements-touch-accessible.html) that gives mobile users the ability to read the definition of an abbreviation or acronym.
 
-The instant search is achieved by [Algolia](https://www.algolia.com/), a very efficient indexing and search solution that has the advantage of offering an[example implementation for Jekyll](https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/ "Add instant search to your blog or documentation using our Jekyll plugin") that fits perfectly with my needs.
+The instant search is achieved by [Algolia](https://www.algolia.com/), a very efficient indexing and search solution that has the advantage of offering an [example implementation for Jekyll](https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/ "Add instant search to your blog or documentation using our Jekyll plugin") that fits perfectly with my needs.
 
-In order to control what is happening on my site (including detecting attempted injections), I have positioned a number of rules[Content Security Policy](https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9curit%C3%A9/CSP) and reports are recorded in a database for each offence[^7].
+In order to control what is happening on my site (including detecting attempted injections), I have configured specific directives in my [Content Security Policy](https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9curit%C3%A9/CSP) and reports are recorded in <https://report-uri.com/>[^7].
 
 A daily monitoring via [Dareboost](https://www.dareboost.com/) on several pages informs me of possible performance regressions through configured alerts.
 
