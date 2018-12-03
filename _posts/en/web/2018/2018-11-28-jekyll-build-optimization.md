@@ -127,12 +127,6 @@ It is based on an `i18n-key` value that I place in the front-matter of my conten
 
 I'll be sure to mention it when everything will work out as it should!
 
-
-
-, l'un des membres de la <em lang="en">Jekyll Plugin Core Team</em>, travaille sur un plugin qui utilise une convention d'organisation des fichiers pour trouver les traductions, ce qui devrait considérablement améliorer les choses&nbsp;: . J'ai essayé d'implémenter le plugin sur mon blog mais j'ai rencontré quelques impondérables lors de cette première tentative. J'y reviendrai plus tard, une fois que j'aurais simplifié mon organisation des contenus. J'aurais également besoin que certains autres plugins soit modifiés pour être compatibles, comme [jekyll-paginate-v2 de Sverrir Sigmundarson](https://github.com/sverrirs/jekyll-paginate-v2), qui me sert pour la pagination.
-
-I will certainly talk about it when I tackle this project in the future.
-
 ***
 
 ## Experimental protocol
