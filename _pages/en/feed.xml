@@ -1,7 +1,6 @@
 ---
 permalink: /en/feed.xml
 layout: category-feed
-category: ''
-locale: en_US
-description: "My blog, containing personal opinions on the Web but also on my life as a parent and a citizen."
+description: >-
+    My blog, containing personal opinions on the Web but also on my life as a parent and a citizen.
 ---

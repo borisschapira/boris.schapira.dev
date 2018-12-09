@@ -1,12 +1,14 @@
 ---
 title: 'Pendant que les hommes posent'
+tag:
+  - Wonder Woman
 ---
 
 Au supermarché, un jeu de figurines "Justice League", dont Wonder Woman est, assez curieusement, absente.
 
 <!-- more -->
 
-Mon petit dernier, [très fan de Wonder Woman](/2017/10/et-la-reine/), n'a pas l'air choqué.
+Mon petit dernier, très fan de {% include tag_link.html.liquid tag="Wonder Woman" %}, n'a pas l'air choqué.
 
 {% capture alt_text%}Jush Hutcherson dit "Obviously"{% endcapture %}
 {% capture caption_text%}"Bah ouais, c'est normal !"{% endcapture %}

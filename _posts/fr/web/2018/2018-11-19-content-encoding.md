@@ -5,9 +5,8 @@ main_image: /assets/images/2018-11-16/hiragana-blur.png
 canonical: 'https://blog.dareboost.com/fr/2018/11/encodage-meta-charset-content-type-header/'
 tags:
     - WebPerf
-    - 'Me, myself and I'
-    - Outils
-    - Productivité
+    - Headers
+    - Encoding
 cloudinary_logo: dareboost-logo
 ---
 

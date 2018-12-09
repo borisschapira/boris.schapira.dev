@@ -6,8 +6,7 @@ description: "Mes opinions sur le Web mais aussi sur ma vie de parent et de cito
 displayCustomHead: true
 displayCustomTitle: false
 i18n-key: home
-category: ''
 pagination: 
   enabled: true
-  locale: fr_FR
+  locale: fr
 ---

@@ -10,7 +10,7 @@ module Jekyll
     #   {{ post.date | localize: "%d.%m.%Y" }}
     #   {{ post.date | localize: ":short" }}
     def localize(input, format = nil, locale = nil)
-      locale ||= 'fr_FR'
+      locale ||= 'fr'
       load_translations
 
       format = format =~ /^:(\w+)/ ? Regexp.last_match(1).to_sym : format

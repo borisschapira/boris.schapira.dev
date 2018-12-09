@@ -1,12 +1,12 @@
 ---
 layout: microtypo
 ---
-{% assign the-locale = page.locale | default: site.locale | default: "fr_FR" %}
+{% assign the-locale = page.locale | default: site.locale | default: "fr" %}
 {% assign translations=site.posts | where:"i18n-key", page.i18n-key | sort: 'locale' %}
 {% if translations.size == 0 %}
   {% assign translations=site.html_pages | where:"i18n-key", page.i18n-key | sort: 'locale' %}
 {% endif %}<!DOCTYPE html>
-<html lang="{{ the-locale | slice: 0,2 }}" itemscope itemtype="https://schema.org/WebPage">
+<html lang="{{ page.locale | default: site.locale | default: "fr_FR" }}" itemscope itemtype="https://schema.org/WebPage">
 
   <head>
     <meta charset="utf-8" />
@@ -47,14 +47,11 @@ layout: microtypo
     <!-- Lang and indexation -->
     {% assign noindex = page.robots.noindex | default: false %}
     {% assign nofollow = page.robots.nofollow | default: false %}
-    {% if page.translation %}
-      {% assign lang = page.translation.locale | slice: 0,2 %}
-    {% endif %}
     {% if paginator and paginator.page > 1 %}
       {% assign noindex = true %}
     {% else %}
       {% if page.translation %}
-        <link rel="alternate" hreflang="{{ lang }}" href="{{ page.translation.url }}"/>
+        <link rel="alternate" hreflang="{{ page.translation.locale }}" href="{{ page.translation.url }}"/>
       {% endif %}
     {% endif %}
 
@@ -212,7 +209,7 @@ layout: microtypo
             <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
             itemtype="http://schema.org/ListItem"><a href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{% t Web %}</a></li>
     
-            {% if the-locale == 'fr_FR' %}<li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
+            {% if the-locale == 'fr' %}<li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
             itemtype="http://schema.org/ListItem">
             <a href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Citoyen %}</a>
             </li>{% endif %}
@@ -231,9 +228,9 @@ layout: microtypo
           {% if page.layout == "index" %}<div class="lang">
             <ul>
               {% if page.translation %}
-                {% assign lang = page.translation.locale | slice: 0,2 %}
-                {% capture read_in %}{% t Lire en %} {% if lang == "en" %}{% t anglais %}{% else %}{% t français %}{% endif %}{% endcapture %}
-                <li><a class="{{ lang }}" href="{{ page.translation.url }}"><span class="sr-only">{{ read_in }}</span><svg class="icon flag-{{ lang }}" aria-hidden="true"><use xlink:href="#flag-{{ lang }}"></use></svg></a>
+                <li>{% include read_in.html.liquid 
+                        locale=page.translation.locale
+                        url=page.translation.url %}</li>
               {% endif %}
             </ul>
           </div>{% endif %}

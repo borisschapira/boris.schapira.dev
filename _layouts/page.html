@@ -4,7 +4,9 @@ layout: default
 
 <div class="page">
   <header class="p-header">
-    {% if page.translation %}{% assign lang = page.translation.locale | slice: 0,2 %}{% capture read_in %}{% t read in %} {% t english %}{% endcapture %}<a class="{{ lang }}" href="{{ page.translation.url }}">{{ read_in }} <svg class="icon flag-{{ lang }}" aria-hidden="true"><use xlink:href="#flag-{{ lang }}"></use></svg></a>{% endif %}
+    {% if page.translation %}{% include read_in.html.liquid 
+      locale=page.translation.locale
+      url=page.translation.url %}{% endif %}
   </header>
   <h2 class="page-title">{{ page.title }}</h2>
   <div class="post-content">

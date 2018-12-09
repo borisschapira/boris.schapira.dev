@@ -1,5 +1,7 @@
 ---
 title: 'Comme un mec'
+tag:
+  - Wonder Woman
 ---
 
 Depuis quelques jours, mon aîné a une nouvelle manie. Dès qu'il réussit quelque chose de difficile ou qui nécessite de la dextérité, il se congratule en disant qu'il est "un mec".
@@ -13,7 +15,7 @@ Depuis quelques jours, mon aîné a une nouvelle manie. Dès qu'il réussit quel
 
 Le petit, fan de super-héros, s'en mêle :
 
-> — Oui, comme Wonder Woman !  
+> — Oui, comme {% include tag_link.html.liquid tag="Wonder Woman" %} !  
 > — Exactement.  
 > — Wonder Woman, c'est une mec ?  
 > — Ah ben non, c'est une femme. Et elle est forte physiquement. Mais ce n'est pas un mec.  

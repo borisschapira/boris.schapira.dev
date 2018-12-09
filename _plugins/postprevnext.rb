@@ -7,7 +7,7 @@ module Jekyll
     def generate(site)
       all_posts = site.posts.docs
 
-      locales = %w[fr_FR en_US]
+      locales = %w[fr en]
       categories = %w[web citoyen papa]
       locales.each do |locale|
         categories.each do |category|

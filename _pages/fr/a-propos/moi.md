@@ -3,7 +3,6 @@ layout: page
 title: Bonjour, je suis Boris
 permalink: /a-propos/moi/
 i18n-key: about-me
-locale: fr_FR
 ---
 
 ## ravi de vous rencontrer

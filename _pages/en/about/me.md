@@ -3,7 +3,6 @@ layout: page
 title: Hi, I'm Boris
 permalink: /en/about/me/
 i18n-key: about-me
-locale: "en_US"
 ---
 
 ## nice to meet you

@@ -1,8 +1,7 @@
 ---
 permalink: /en/web/feed.xml
 layout: category-feed
-category: web
 title: Web
-locale: en_US
-description: "<strong>I am a Web professionnal</strong> that tries to understand what people need to make the web a better place."
+description: >-
+    <strong>I am a Web professionnal</strong> that tries to understand what people need to make the web a better place.
 ---

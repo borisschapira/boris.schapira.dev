@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # I18n configuration
-locale: fr_FR
+locale: fr
 defaults:
   -
     scope:
       path: ""
     values:
-      locale: fr_FR
+      locale: fr
       baseurl: "/"
   -
     scope:
@@ -24,13 +24,38 @@ defaults:
       path: "_pages/fr"
     values:
       baseurl: "/"
-      locale: fr_FR
+      locale: fr
+  -
+    scope:
+      path: "_pages/fr/web"
+    values:
+      category: web
+  -
+    scope:
+      path: "_pages/fr/papa"
+    values:
+      category: papa
+  -
+    scope:
+      path: "_pages/fr/citoyen"
+    values:
+      category: citoyen
   -
     scope:
       path: "_pages/en"
     values:
       baseurl: "/en/"
-      locale: en_US
+      locale: en
+  -
+    scope:
+      path: "_pages/en/web"
+    values:
+      category: web
+  -
+    scope:
+      path: "_pages/en/dad"
+    values:
+      category: papa
   -
     scope:
       path: "_confs"
@@ -60,7 +85,7 @@ defaults:
     scope:
       path: "_posts/en"
     values:
-      locale: "en_US"
+      locale: "en"
       baseurl: "/en/"
   -
     scope:
@@ -177,12 +202,12 @@ jekyll-archives:
   enabled:
     - "year"
     - "month"
-  layouts:
-    year: "archives"
-    month: "archives"
+    - "tags"
+  layout: "archives"
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
+    tag: "/tag/:name/"
 
 pwa:
   dest_js_directory: assets/js

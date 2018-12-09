@@ -1,0 +1,1 @@
+<a class="{{ include.locale }}" href="{{ include.url }}">{{ "Lire en" | t: include.locale }} {% if include.locale == "en" %}{{ "anglais" | t: include.locale }}{% else %}{{ "français" | t: include.locale }}{% endif %} <svg class="icon flag-{{ include.locale }}" aria-hidden="true"><use xlink:href="#flag-{{ include.locale }}"></use></svg></a>

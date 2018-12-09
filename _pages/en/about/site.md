@@ -3,7 +3,6 @@ layout: page
 title: About this site
 permalink: /en/about/site/
 i18n-key: about-site
-locale: en_US
 ---
 
 I am the main author and the only person responsible for the contents published on this site. On the other hand, the brands mentioned on this site are the property of the companies that have registered them. This entire site is subject to French law.

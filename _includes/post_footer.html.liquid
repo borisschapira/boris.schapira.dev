@@ -6,7 +6,7 @@
 <footer class="post-footer">
   <div class="contrib">
     <p>
-      <em>{% t Si vous détectez une erreur et que vous avez un compte Github %}, {% t vous pouvez proposer une %} <a rel="nofollow" href="{{ site.author.github|raw }}/borisschapira.com/tree/master/_posts/{{ include.locale | slice: 0,2 | downcase }}/{{ include.category | downcase }}/{{ include.date | date: "%Y" }}/{{ folderName }}/{{ source.last }}">{% t modification des %} <span class="nowrap">{% t sources %}</span></a>
+      <em>{% t Si vous détectez une erreur et que vous avez un compte Github %}, {% t vous pouvez proposer une %} <a rel="nofollow" href="{{ site.author.github|raw }}/borisschapira.com/tree/master/_posts/{{ include.locale | downcase }}/{{ include.category | downcase }}/{{ include.date | date: "%Y" }}/{{ folderName }}/{{ source.last }}">{% t modification des %} <span class="nowrap">{% t sources %}</span></a>
       {% t ou ouvrir un %} <a class="nowrap" href="{{ site.author.github|raw }}/borisschapira.com/issues/new?title=Article%20%22{{include.url}}%22" rel="nofollow">{% t ticket %}</a>.</em>
     </p>
   </div>

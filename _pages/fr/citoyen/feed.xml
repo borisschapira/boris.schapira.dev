@@ -2,7 +2,6 @@
 permalink: /citoyen/feed.xml
 layout: category-feed
 title: Citoyen
-description: "<strong>Je suis un citoyen</strong> français, du monde et des Internets. J'essaie de comprendre la société dans ses dimensions politiques, économiques et culturelles."
-category: citoyen
-locale: fr_FR
+description: >-
+    <strong>Je suis un citoyen</strong> français, du monde et des Internets. J'essaie de comprendre la société dans ses dimensions politiques, économiques et culturelles.
 ---

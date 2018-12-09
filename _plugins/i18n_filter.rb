@@ -5,7 +5,7 @@ module Jekyll
 
     def get_locale
       if @@locale.nil?
-        @@locale = Jekyll.configuration({})['locale'] || "fr_FR"
+        @@locale = Jekyll.configuration({})['locale'] || "fr"
       end
       @@locale
     end
