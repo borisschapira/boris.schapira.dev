@@ -6,9 +6,6 @@ tags:
     - Emploi
     - Nexeo
     - SGCIB
-date: '2009-03-31'
-type: post
-locale: fr_FR
 ---
 
 Vendredi dernier a eu lieu un grand pot de départ dans ma salle de marché.

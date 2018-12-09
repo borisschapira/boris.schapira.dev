@@ -1,8 +1,5 @@
 ---
 title: '«&#160;Remember², the 5th of November…&#160;»'
-date: '2009-11-05'
-type: post
-locale: fr_FR
 ---
 
 _**Frednetick** se posait hier la question «[Et si l'on se passait du Parlement ?](http://frednetick.fr/)». Hasard du calendrier, il a un jour d'avance (ou beaucoup de retard) sur **Guy Fawkes**, qui lui-même avait décidé de [prendre les choses en main](http://fr.wikipedia.org/wiki/Conspiration_des_poudres) dès 1605…_

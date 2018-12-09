@@ -1,15 +1,12 @@
 ---
 title: 'Where is the Western WeChat?'
 i18n-key: where-is-the-western-wechat
-date: '2017-12-07'
 canonical: 'https://blog.clever-age.com/en/2017/12/06/where-is-the-western-wechat/'
-type: post
 tags:
     - 'Performance Web'
     - UX
     - Images
 publishDate: '2017-10-29'
-locale: en_US
 cloudinary_logo: clever-logo
 ---
 

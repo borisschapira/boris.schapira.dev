@@ -1,8 +1,5 @@
 ---
 title: 'En attendant l''immunité'
-date: '2015-02-21'
-type: post
-locale: fr_FR
 ---
 
 Qu'il est bon d'avoir une femme qui a cet humour !

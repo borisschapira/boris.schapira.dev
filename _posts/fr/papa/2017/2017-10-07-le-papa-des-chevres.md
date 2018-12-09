@@ -1,8 +1,5 @@
 ---
 title: 'Le papa des chèvres'
-date: '2017-10-07'
-type: post
-locale: fr_FR
 ---
 
 Les enfants jouent à des jeux éducatifs avec leur grand-mère…

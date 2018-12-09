@@ -2,9 +2,6 @@
 title: 'Node.js, nativement sous Windows et IIS'
 tags:
     - Outils
-date: '2011-11-14'
-type: post
-locale: fr_FR
 ---
 
 Microsoft et Joyent ont annoncé en juin qu’ils travaillaient ensemble à l’élaboration d’une version Windows de Node.js. Après plusieurs mois de développement et quelques versions préliminaires, les deux sociétés ont annoncé lundi 7 novembre avoir abouti à la [première version stable de Node.js pour Windows](http://blogs.msdn.com/b/interoperability/archive/2011/11/07/first-stable-build-of-nodejs-on-windows-released.aspx).

@@ -1,8 +1,5 @@
 ---
 title: 'Mille sous'
-date: '2018-02-11'
-type: post
-locale: fr_FR
 ---
 
 > Papa, ça fait combien 1000 sous ?

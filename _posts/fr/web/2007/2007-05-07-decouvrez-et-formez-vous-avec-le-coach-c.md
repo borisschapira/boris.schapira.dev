@@ -2,9 +2,6 @@
 title: 'Découvrez et formez-vous avec le Coach C#'
 tags:
     - .NET
-date: '2007-05-07'
-type: post
-locale: fr_FR
 ---
 
 Source&nbsp;: [Centre de développement C#](http://msdn.microsoft.com/en-us/vstudio/bb409645.aspx)

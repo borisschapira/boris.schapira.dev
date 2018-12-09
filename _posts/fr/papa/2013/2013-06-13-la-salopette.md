@@ -1,8 +1,5 @@
 ---
 title: 'La salopette'
-date: '2013-06-13'
-type: post
-locale: fr_FR
 ---
 
 > — Et qu'est-ce qu'il te manque, là, chéri ?  

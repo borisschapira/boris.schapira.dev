@@ -3,9 +3,6 @@ title: 'Phrases Insolites… #15'
 tags:
     - Humour
     - Insolite
-date: '2009-10-02'
-type: post
-locale: fr_FR
 ---
 
 _C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!_
@@ -43,4 +40,4 @@ _C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!_
 
 > — Fais voir ton code, je vais le trouver moi le bug.  
 > — Tu sais quoi faire pour le corriger&nbsp;?
-> -> \ Non mais je m'y connais en bugs&nbsp;: normalement, c'est moi qui les code.
+> –> \ Non mais je m'y connais en bugs&nbsp;: normalement, c'est moi qui les code.

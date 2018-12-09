@@ -2,9 +2,6 @@
 title: 'Mes résolutions'
 tags:
     - 'Me, myself & I'
-date: '2016-01-01'
-type: post
-locale: fr_FR
 ---
 
 ## pour 2016

@@ -1,8 +1,5 @@
 ---
 title: Confiance
-date: '2016-04-29'
-type: post
-locale: fr_FR
 ---
 
 Un de mes clients souhaite me parler de son projet, que nous avons réalisé. Il a besoin d'y apporter des évolutions et souhaite mon avis. J'essaie de répondre à la fois avec une présentation claire des limites du projet mais aussi la proposition détaillée d'une solution potentielle, ne cachant pas les coûts associés et explicitant les complexités, y compris fonctionnelles.

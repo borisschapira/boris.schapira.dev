@@ -3,9 +3,6 @@ title: 'Transition numérique'
 tags:
     - 'Transformation numérique'
     - Presse
-date: '2015-05-05'
-type: post
-locale: fr_FR
 ---
 
 > Aujourd’hui stratégie IT et stratégie d’affaire ne font plus qu’un. Fini l’alignement, on _synchronise_, et il subsiste un exercice de réflexion stratégique unique où la composante technologique fait partie intégrante de la stratégie d’affaire.

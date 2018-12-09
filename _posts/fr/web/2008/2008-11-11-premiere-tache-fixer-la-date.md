@@ -3,9 +3,6 @@ title: 'Première tâche : fixer la date'
 tags:
     - 'Me, myself and I'
     - Mariage
-date: '2008-11-11'
-type: post
-locale: fr_FR
 ---
 
 Au [Salon du Mariage de la Porte de Cham­per­ret](http://www.salonmariagefete.com/), nous avons pu discuter avec de nombreux acteurs du mariage : maquilleurs, décorateurs, traiteurs, préparateurs religieux, couturiers…

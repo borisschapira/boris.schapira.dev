@@ -1,8 +1,5 @@
 ---
 title: Reformulation
-date: '2014-09-03'
-type: post
-locale: fr_FR
 ---
 
 > — Qui veut des torsades à la tomate avec du vrai gruyère français dedans ?  

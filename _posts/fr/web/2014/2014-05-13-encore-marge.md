@@ -3,9 +3,6 @@ title: 'Encore de la marge…'
 tags:
     - Front-End
     - Mobilité
-date: '2014-05-13'
-type: post
-locale: fr_FR
 ---
 
 ## Pour mieux apprivoiser nos matériels

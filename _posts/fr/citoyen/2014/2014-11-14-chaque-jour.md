@@ -5,9 +5,6 @@ tags:
     - HeForShe
     - Société
     - Égalité
-date: '2014-11-14'
-type: post
-locale: fr_FR
 ---
 
 ## \#HeForShe

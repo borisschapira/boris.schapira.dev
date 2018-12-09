@@ -1,9 +1,6 @@
 ---
 title: 'Des Happy Meals pour adultes'
-date: '2018-01-12'
-type: post
 i18n-key: happy-meal
-locale: fr_FR
 ---
 
 > – Papa, ça existe les <span lang="en">Happy Meals</span> pour les adultes ?  

@@ -5,9 +5,6 @@ tags:
     - Finance
     - Éducation
     - Nexeo
-date: '2009-11-05'
-type: post
-locale: fr_FR
 ---
 
 Un billet rapide pour remercier les quelques étudiants des [EISTI](http://www.eisti.fr/) de Cergy et Pau venus assister à ma rapide [présentation](/2009/07/conseil-itfinance-que-voulez-vous-savoir/) du métier de Développeur [Commando en salle de marché](/2008/05/une-grosse-journee-de-commando/) (et plus généralement, du métier de Consultant tel qu'ils pourront le pratiquer au début de leur carrière) alors qu'ils avaient, pour la plupart, un examen l'heure d'après. J'espère vous avoir apporter suffisement d'informations et ne pas vous avoir fait trop peur.

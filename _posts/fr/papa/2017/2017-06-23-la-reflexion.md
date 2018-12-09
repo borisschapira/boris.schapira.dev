@@ -1,8 +1,5 @@
 ---
 title: 'La réflexion'
-date: '2017-06-23'
-type: post
-locale: fr_FR
 ---
 
 Très souvent, nos enfants réfléchissent sur ce qui se passe à la maison pendant qu'ils sont à l'école…

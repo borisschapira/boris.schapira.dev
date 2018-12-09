@@ -1,13 +1,10 @@
 ---
 title: 'Back to static with JAMStack: a paradigm shift for better UX and web performance'
 i18n-key: static-website
-date: '2018-02-22'
 canonical: 'https://blog.dareboost.com/en/2018/02/static-website-web-performance/'
-type: post
 tags:
     - 'Performance Web'
     - JAMStack
-locale: en_US
 cloudinary_logo: dareboost-logo
 ---
 

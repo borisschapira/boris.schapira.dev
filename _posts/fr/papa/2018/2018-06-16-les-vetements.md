@@ -1,8 +1,5 @@
 ---
 title: 'Les vêtements !'
-date: '2018-06-16'
-type: post
-locale: fr_FR
 ---
 
 Ils mangent de la glace au chocolat, donc je préviens…

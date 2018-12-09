@@ -1,8 +1,5 @@
 ---
 title: 'Dans la peau'
-date: '2016-11-13'
-type: post
-locale: fr_FR
 ---
 
 De la musique passe, calme. Baryton, 3 ans, est couché à côté de moi, calme, prêt à s'endormir.

@@ -1,8 +1,5 @@
 ---
 title: 'Entretien d''embauche : évaluer les savoir-être'
-date: '2017-04-26'
-type: post
-locale: fr_FR
 ---
 
 Lors de la réalisation d'un entretien d'embauche, il est souvent nécessaire d'estimer les compétences techniques d'une candidate ou d'un candidat. Cependant, l'évaluation technique est loin de valider à elle-seule la pertinence du recrutement d'un·e futur·e collaborateur·trice. Il existe des personnes très compétentes qui sont incapables de travailler avec des personnes novices et d'autres qui sont, à l'inverse, de très bonnes facilitatrices et ont un rôle à jouer dans une équipe sans détenir [d'expertise](/2015/09/expert-ou-pas/ "Expert ou pas ?") particulière.

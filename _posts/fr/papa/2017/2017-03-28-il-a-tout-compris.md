@@ -1,8 +1,5 @@
 ---
 title: 'Il a "tout compris"'
-date: '2017-03-28'
-type: post
-locale: fr_FR
 ---
 
 Mon petit dernier vient d'apprendre à faire un cœur avec ses doigts. Il voudrait savoir le découper dans une feuille de papier…

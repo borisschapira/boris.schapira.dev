@@ -1,8 +1,5 @@
 ---
 title: 'L''énigme de la mèche coupée'
-date: '2016-09-23'
-type: post
-locale: fr_FR
 ---
 
 Ou comment se retrouver en plein Agatha Christie avec deux garçons.

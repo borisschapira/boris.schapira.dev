@@ -1,8 +1,5 @@
 ---
 title: 'Polémique autour de la «&#160;Lettre de Guy Moquet&#160;»'
-date: '2007-10-21'
-type: post
-locale: fr_FR
 ---
 
 Lundi doit être lue aux lycéens la &quot;Lettre de Guy Moquet&quot; et on entend déjà plusieurs groupes enseignants qui se refusent à lire la lettre aux élèves. Mais pourquoi&nbsp;?

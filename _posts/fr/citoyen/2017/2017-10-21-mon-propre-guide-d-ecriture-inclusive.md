@@ -1,8 +1,5 @@
 ---
 title: 'Mon propre guide d''écriture inclusive'
-date: '2017-10-21'
-type: post
-locale: fr_FR
 tags:
     - guide
 ---

@@ -2,9 +2,6 @@
 title: 'Quelles nouveautés pour C# 4.0'
 tags:
     - .NET
-date: '2009-02-11'
-type: post
-locale: fr_FR
 ---
 
 Le langage C# (qui arrive gentiment sur ses 10 ans) évolue de version en version. C# 2 a apporté les [Génériques](<http://msdn.microsoft.com/fr-fr/library/512aeb7t(VS.80).aspx>), C# 3.0 a propulsé [LINQ](http://msdn.microsoft.com/fr-fr/library/bb397933.aspx) et tout ce qui était nécessaire à son intégration.

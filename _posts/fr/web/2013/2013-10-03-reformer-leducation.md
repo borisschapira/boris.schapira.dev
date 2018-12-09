@@ -2,9 +2,6 @@
 title: 'Réformer l''Education&nbsp;?'
 tags:
     - Education
-date: '2013-10-03'
-type: post
-locale: fr_FR
 ---
 
 ## parce que bon, là, on rate un truc…

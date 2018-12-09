@@ -1,12 +1,6 @@
 ---
-title: "The interlude"
-date: '2018-03-19'
-type: post
+title: 'The interlude'
 i18n-key: entracte
-categories:
-    - papa
-publishDate: '2018-03-19'
-locale: en_US
 ---
 
 We're taking the kids to a show. There is a small interlude. We sit down with the kids to talk and have a drink.

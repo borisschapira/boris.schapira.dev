@@ -3,9 +3,6 @@ title: 'Windows Vista ne mange pas la mémoire'
 tags:
     - Développement
     - 'Windows Vista'
-date: '2007-11-04'
-type: post
-locale: fr_FR
 slug: cassons-le-cou-aux-rumeurs-vista-ne-mange-pas-la-mmoire
 ---
 

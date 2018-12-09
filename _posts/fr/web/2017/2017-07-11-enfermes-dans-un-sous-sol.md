@@ -1,10 +1,7 @@
 ---
 title: 'Enfermés dans un sous-sol'
-date: '2017-07-11'
-type: post
 tags:
     - anecdotes
-locale: fr_FR
 ---
 
 Alors que je m'apprête à tourner une page professionnelle, je ressens le besoin de partager des anecdotes de ma vie de consultant. Celle-ci, rétrospectivement, me fait rire. Mais je faisais moins mon fier en 2011…

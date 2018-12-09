@@ -7,9 +7,6 @@ tags:
     - AJAX
     - Microsoft
     - Silverlight
-date: '2007-09-20'
-type: post
-locale: fr_FR
 ---
 
 Ce blog et beaucoup d'autres utilisent le PHP, un langage de programmation facile, rapide et s&#xFB;r. Cependant il faut avouer que les environnements de développements n'ont pas toujours la richesse de Visual Studio et qu'on ne retrouve pas du tout les mêmes classes (ou le même langage) quand on développe un client léger et un client lourd. Le Framework .NET permet plus d'interactions.</p>

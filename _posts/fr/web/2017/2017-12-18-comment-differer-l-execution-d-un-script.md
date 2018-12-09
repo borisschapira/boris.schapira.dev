@@ -1,12 +1,9 @@
 ---
 title: 'Comment différer l''exécution d''un script ?'
 i18n-key: defer-js
-date: '2017-12-18'
 canonical: 'https://blog.dareboost.com/fr/2017/12/differer-les-scripts-pour-accelerer-le-rendu/'
-type: post
 tags:
     - 'Performance Web'
-locale: fr_FR
 cloudinary_logo: dareboost-logo
 ---
 

@@ -1,8 +1,5 @@
 ---
 title: 'Il est pas super du tout'
-date: '2018-07-05'
-type: post
-locale: fr_FR
 ---
 
 Aujourd'hui, coupure de courant dans Périgueux et alentours.

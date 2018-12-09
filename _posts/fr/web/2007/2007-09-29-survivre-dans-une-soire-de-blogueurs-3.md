@@ -1,8 +1,5 @@
 ---
 title: 'Survivre dans une soirée de blogueurs #3'
-date: '2007-09-29'
-type: post
-locale: fr_FR
 ---
 
 _Episodes #1 et #2_</p>

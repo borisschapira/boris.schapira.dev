@@ -1,8 +1,5 @@
 ---
 title: Recommencer
-date: '2016-11-18'
-type: post
-locale: fr_FR
 ---
 
 Ce soir, le petit est bougon.

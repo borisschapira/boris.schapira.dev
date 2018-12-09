@@ -1,8 +1,5 @@
 ---
 title: 'Troisième jour d''école'
-date: '2014-09-04'
-type: post
-locale: fr_FR
 ---
 
 Il repère les lieux, puis se dirige vers la maîtresse :

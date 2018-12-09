@@ -1,8 +1,5 @@
 ---
 title: 'Faut comprendre !'
-date: '2011-12-11'
-type: post
-locale: fr_FR
 ---
 
 Le grand continue d'essayer de communiquer avec nous en utilisant sa syntaxe de l'espace. Parfois, on a du mal à comprendre :

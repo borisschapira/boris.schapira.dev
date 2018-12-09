@@ -2,9 +2,6 @@
 title: 'Informations dans la durée'
 tags:
     - Histoire
-date: '2014-09-15'
-type: post
-locale: fr_FR
 ---
 
 > [Les webmasters] utilisent des outils dont la tâche principale est de créer le meilleur site web pour le moment donné, sans évaluer ce qui se passera pour les liens lorsque les choses auront changé.  

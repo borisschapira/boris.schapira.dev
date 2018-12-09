@@ -1,8 +1,5 @@
 ---
 title: 'Dispute à la salle de bain'
-date: '2017-06-17'
-type: post
-locale: fr_FR
 ---
 
 Les garçons, quatre et six ans, adorent se chercher l'un l'autre. Ce soir, le grand se brosse les dents quand le petit rentre dans la salle de bain.

@@ -1,8 +1,5 @@
 ---
 title: 'L''échec de tous'
-date: '2009-01-21'
-type: post
-locale: fr_FR
 ---
 
 Il y a quelque chose profondément dérangeant dans [le chahut organisé par certains députés PS hier soir au Parlement](http://tempsreel.nouvelobs.com/libertes-sous-pression/20090121.OBS0698/travail-legislatif-les-deputes-ps-manifestent.html). Est-on revenu à une époque si bridée politiquement que certains parlementaires éprouveraient le besoin de mener une révolution dans l'hémicycle&nbsp;?

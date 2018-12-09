@@ -1,8 +1,5 @@
 ---
 title: 'De la mémoire'
-date: '2017-06-16'
-type: post
-locale: fr_FR
 ---
 
 Souvent, pour être parent, il faut beaucoup de patience. Et parfois, juste, beaucoup de mémoire car il faut se rappeler de tout, tout ce qu'on a dit.

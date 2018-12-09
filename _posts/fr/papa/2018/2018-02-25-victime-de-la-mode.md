@@ -1,8 +1,5 @@
 ---
 title: 'Victime de la mode'
-date: '2018-02-25'
-type: post
-locale: fr_FR
 ---
 
 Je leur propose d'aller jouer dans le jardin. Le grand est prêt à sortir sur le champs. Le petit, 4 ans 1/2, doit encore s'habiller et se chausser.

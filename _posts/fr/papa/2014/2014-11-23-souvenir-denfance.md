@@ -1,8 +1,5 @@
 ---
 title: 'Souvenir d''enfance'
-date: '2014-11-23'
-type: post
-locale: fr_FR
 ---
 
 Je suis tombé par hasard, et dans un endroit improbable, sur un livre pour enfant que ma maman me lisait quand j'avais 5 ans.

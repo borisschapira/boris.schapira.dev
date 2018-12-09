@@ -1,8 +1,5 @@
 ---
 title: 'Maintenant, il donne son avis...'
-date: '2015-08-19'
-type: post
-locale: fr_FR
 ---
 
 > — Oh la la, je ne sais pas pourquoi on ne t'as pas appelé Silence, toi, ça nous aurait peut être aidé...  

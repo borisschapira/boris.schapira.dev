@@ -4,9 +4,6 @@ tags:
     - Emploi
     - Microsoft
     - Stage
-date: '2007-06-30'
-type: post
-locale: fr_FR
 slug: une-journee-de-boulot-ordinaire-chez-microsoft-france-ou-alors-pas-du-tout
 ---
 

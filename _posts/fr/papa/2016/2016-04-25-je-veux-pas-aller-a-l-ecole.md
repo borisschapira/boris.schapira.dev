@@ -1,8 +1,5 @@
 ---
 title: 'Je veux pas aller à l''école'
-date: '2016-04-25'
-type: post
-locale: fr_FR
 ---
 
 Jour de rentrée. Tout se passe bien, les enfants sont prêts. Quand soudain arrive **LE** moment.

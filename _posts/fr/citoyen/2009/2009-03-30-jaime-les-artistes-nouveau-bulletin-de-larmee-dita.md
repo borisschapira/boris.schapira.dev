@@ -3,9 +3,6 @@ title: '«&#160;J''aime les artistes&#160;», nouveau bulletin de l''Armée d''I
 tags:
     - Numérique
 series: Hadopi
-date: '2009-03-30'
-type: post
-locale: fr_FR
 slug: jaime-les-artistes-nouveau-bulletin-de-larmee-ditalie
 ---
 

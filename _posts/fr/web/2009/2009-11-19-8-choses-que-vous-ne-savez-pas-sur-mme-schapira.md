@@ -3,9 +3,6 @@ title: '8 choses que vous ne savez pas sur Mme Schapira'
 tags:
     - 'Billet d''humeur'
     - 'Me, myself and I'
-date: '2009-11-19'
-type: post
-locale: fr_FR
 ---
 
 Vivre en couple est parfois difficile mais souvent amusant. Marié depuis quelques mois et en couple depuis quelques années, j'ai appris à observer ma moitié et à l'aimer comme elle est. Voici 8 choses (parmi tant d'autres) qui font que je l'aime. J'invite évidemment tous les couples de blogueurs à jouer à ce petit échange. Un peu d'amour et d'humour ne font jamais de mal…

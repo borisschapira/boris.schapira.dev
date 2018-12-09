@@ -2,9 +2,6 @@
 title: 'Jour des Projets ESIEE : les prix'
 tags:
     - ESIEE
-date: '2007-06-27'
-type: post
-locale: fr_FR
 ---
 
 ## Prix de l'innovation 2007

@@ -1,8 +1,5 @@
 ---
 title: 'Pourquoi blogger ? &#124; Why do we blog ?'
-date: '2007-07-13'
-type: post
-locale: fr_FR
 ---
 
 > The discipline of blogging, and the concomitant comments you receive from readers, will improve your thinking, researching, writing, editing, graphic design, and editing skills. You are in total control. You are writer, editor, publisher, and marketing expert. You have the freedom and responsibility for the entire production and distribution of your material.

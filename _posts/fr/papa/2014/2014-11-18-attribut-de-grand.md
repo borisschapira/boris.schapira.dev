@@ -1,8 +1,5 @@
 ---
 title: 'Attribut de "grand"'
-date: '2014-11-18'
-type: post
-locale: fr_FR
 ---
 
 > — Moi, grand a plus tard, avoir un poil de couille !  

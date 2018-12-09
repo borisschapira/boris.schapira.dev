@@ -1,8 +1,5 @@
 ---
 title: 'Futur scénariste'
-date: '2018-05-20'
-type: post
-locale: fr_FR
 ---
 
 Sans qu'il ne me voit, j'observe mon petit Koala, 5 ans, pendant qu'il joue aux bonshommes.

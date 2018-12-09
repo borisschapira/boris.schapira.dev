@@ -1,8 +1,5 @@
 ---
 title: 'La dame qui n''a pas de sexe'
-date: '2018-03-01'
-type: post
-locale: fr_FR
 ---
 
 Ce soir, le grand rentre de l'école affolé. Il est allé voir un spectacle et un détail l'a profondémment gêné.

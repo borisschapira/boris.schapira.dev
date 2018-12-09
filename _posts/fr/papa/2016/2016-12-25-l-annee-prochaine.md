@@ -1,8 +1,5 @@
 ---
 title: 'L''année prochaine'
-date: '2016-12-25'
-type: post
-locale: fr_FR
 ---
 
 Il est 04h15 et, aussi rare que cela soit, mon grand chuchote.

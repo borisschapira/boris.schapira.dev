@@ -1,8 +1,5 @@
 ---
 title: Incompréhension
-date: '2009-04-08'
-type: post
-locale: fr_FR
 ---
 
 La barrière de la langue est parfois infranchissable. Mais parfois, l'émotion suffit.

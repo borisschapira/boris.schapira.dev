@@ -1,15 +1,12 @@
 ---
 title: 'One hosts file to block them all'
 i18n-key: hosts
-date: '2018-09-07'
 main_image: /assets/images/2018-09-07/gollum.jpg
-type: post
 tags:
     - WebPerf
     - 'Me, myself and I'
     - Outils
     - Productivité
-locale: en_US
 ---
 
 As a field expert, people often ask me how to improve websites' performance. Sometimes, they also ask me how to improve the Web's performance on their own machine, for their own browsing experience. In that case, my answer is always the same: the lowest hanging fruit is most certainly the **hosts** file.

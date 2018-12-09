@@ -1,16 +1,13 @@
 ---
 title: 'Content Encoding: pourquoi utiliser la balise meta charset et l''en-tête Content-Type'
 i18n-key: content-encoding
-date: '2018-11-19'
 main_image: /assets/images/2018-11-16/hiragana-blur.png
 canonical: 'https://blog.dareboost.com/fr/2018/11/encodage-meta-charset-content-type-header/'
-type: post
 tags:
     - WebPerf
     - 'Me, myself and I'
     - Outils
     - Productivité
-locale: fr_FR
 cloudinary_logo: dareboost-logo
 ---
 

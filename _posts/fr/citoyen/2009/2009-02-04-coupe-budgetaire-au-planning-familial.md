@@ -1,8 +1,5 @@
 ---
 title: 'Coupe budgétaire au Planning Familial'
-date: '2009-02-04'
-type: post
-locale: fr_FR
 ---
 
 Voilà une décision que j'ai bien du mal à comprendre : la **diminution du budget du planning familial de 500 000 euros**, soit environ 20 % de sa dotation de l'année précédente (2,6 millions d'euros). Le planning, c'est quand même un excellent endroit pour se renseigner sur des choses assez fondamentales comme la **contraception**, l’**avortement**, les **responsabilités** des hommes et des femmes, leur **sexualité** et même pour dénoncer parfois des **violences** qui y sont liées…

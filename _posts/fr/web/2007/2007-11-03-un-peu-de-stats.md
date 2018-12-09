@@ -3,9 +3,6 @@ title: 'Un peu de stats'
 tags:
     - Statistiques
     - Wikio
-date: '2007-11-03'
-type: post
-locale: fr_FR
 ---
 
 * Un pagerank **PR4** depuis environ… **8h**&nbsp;! Après tout, ça fait juste 1 an que le blog existe. Il était temps que Google se réveille (on va voir si ça change quelque chose dans les mois qui viennent).</p>

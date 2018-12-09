@@ -1,8 +1,5 @@
 ---
 title: 'Le tact incarné (bis)'
-date: '2016-09-25'
-type: post
-locale: fr_FR
 ---
 
 On retrouve un microscope chez ma mère alors j'en profite pour montrer aux garçons quelques trucs.

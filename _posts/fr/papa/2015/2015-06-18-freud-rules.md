@@ -1,8 +1,5 @@
 ---
 title: 'Freud rules'
-date: '2015-06-18'
-type: post
-locale: fr_FR
 ---
 
 > — Chéri, tout va bien en bas ? Tu ne fais pas de bêtises, hein ?  

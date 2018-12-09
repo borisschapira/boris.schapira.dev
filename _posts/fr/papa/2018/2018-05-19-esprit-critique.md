@@ -1,8 +1,5 @@
 ---
 title: 'Esprit critique'
-date: '2018-05-19'
-type: post
-locale: fr_FR
 ---
 
 Mes garçons, grandissent, ce qui me permet d'exercer leur esprit critique. Nous avons donc un jeu : je leur raconte des trucs absurdes avec un air très sérieux, et il me disent si c'est vrai ou pas, avec des explications.

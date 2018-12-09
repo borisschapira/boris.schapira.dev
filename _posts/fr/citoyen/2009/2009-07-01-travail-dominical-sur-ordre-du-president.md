@@ -4,9 +4,6 @@ tags:
     - Emploi
     - France
     - Sarkozy
-date: '2009-07-01'
-type: post
-locale: fr_FR
 ---
 
 Selon moi, le travail dominical mérite une réflexion calme et concertée de l'ensemble des acteurs concernés pour assurer un maximum de liberté et de sécurité à tous. Je ne suis ni pour, ni contre (bien au contraire, comme dirait l'autre).

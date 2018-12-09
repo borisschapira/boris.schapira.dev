@@ -3,9 +3,6 @@ title: 'Les kits pour certification Microsoft'
 canonical: 'https://www.nexeo.fr/blog/2009/04/28/les-kits-pour-certification-microsoft/'
 tags:
     - Nexdotnet
-date: '2009-04-28'
-type: post
-locale: fr_FR
 ---
 
 Il se peut que vous soyez tentés par les [certifications Microsoft](http://www.microsoft.com/france/formation/cert/default.mspx), mais comment se former avant l’examen ? Avez-vous regardé du côté des kits de formation ? Beaucoûp sont disponibles sur Amazon. Il vous suffit de chercher : “Certification .Net”, “Kit certification .Net” ou directement le numéro de la certification qui vous intéresse, comme par exemple la 70-536. Pour cette dernière, on trouve ainsi assez facilement :

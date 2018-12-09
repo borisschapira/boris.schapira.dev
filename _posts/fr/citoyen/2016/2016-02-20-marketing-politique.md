@@ -5,9 +5,6 @@ tags:
 series: Diviser
 loadTwitterWjs: true
 loadTwitter: true
-date: '2016-02-20'
-type: post
-locale: fr_FR
 ---
 
 ## pour mieux régner

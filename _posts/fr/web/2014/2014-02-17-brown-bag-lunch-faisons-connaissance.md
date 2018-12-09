@@ -3,9 +3,6 @@ title: 'Brown Bag Lunch, faisons connaissance'
 tags:
     - 'Me, myself and I'
     - Conférences
-date: '2014-02-17'
-type: post
-locale: fr_FR
 ---
 
 Je rejoins une nouvelle initiative, celle des [Brown Bag Lunches](http://www.brownbaglunch.fr).

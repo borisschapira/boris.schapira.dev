@@ -3,9 +3,6 @@ title: 'Retrouvez-moi le 6 octobre aux MS Days'
 tags:
     - Microsoft
     - MSDays
-date: '2009-09-23'
-type: post
-locale: fr_FR
 ---
 
 Je viendrai représenter [Nexdotnet, le pôle .NET de NEXEO](http://nexdotnet.nexeo.fr/) au [Microsoft Days](http://www.microsoft.com/france/microsoft-days/) le 6 octobre prochain. Pour ceux qui voudraient m'y rencontrer, voici mon planning&nbsp;:

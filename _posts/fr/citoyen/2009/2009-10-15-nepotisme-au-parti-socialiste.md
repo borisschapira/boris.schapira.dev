@@ -3,9 +3,6 @@ title: 'Népotisme au Parti Socialiste'
 tags:
     - France
     - 'Jean Sarkozy'
-date: '2009-10-15'
-type: post
-locale: fr_FR
 ---
 
 _Honte, scandale, malheur : Martine Aubry, fille de Jacques Delors, serait arrivée au pouvoir en faisant jouer ses relations et l'influence de son père&nbsp;!_

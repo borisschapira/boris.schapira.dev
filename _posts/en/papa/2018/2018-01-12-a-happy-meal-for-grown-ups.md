@@ -1,12 +1,6 @@
 ---
-title: "A Happy Meal for grown-ups"
-date: '2018-01-12'
-type: post
+title: 'A Happy Meal for grown-ups'
 i18n-key: happy-meal
-categories:
-    - papa
-publishDate: '2018-01-12'
-locale: en_US
 ---
 
 > – Dad, is there a Happy Meal for grown-ups?  

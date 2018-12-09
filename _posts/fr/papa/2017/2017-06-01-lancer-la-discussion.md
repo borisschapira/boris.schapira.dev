@@ -1,8 +1,5 @@
 ---
 title: 'Lancer la discussion'
-date: '2017-06-01'
-type: post
-locale: fr_FR
 ---
 
 > Woaw, tu as trop de chances, tu as plein de discussions super avec tes fils !

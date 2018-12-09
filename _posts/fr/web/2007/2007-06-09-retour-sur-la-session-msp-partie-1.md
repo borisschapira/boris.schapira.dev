@@ -3,9 +3,6 @@ title: 'Retour sur la session MSP (partie 1)'
 tags:
     - 'Imagine Cup'
     - MSP
-date: '2007-06-09'
-type: post
-locale: fr_FR
 ---
 
 Petit retour sur la session MSP et la journée Imagine Cup. Toutes les photos que j'ai sont ici.</p>

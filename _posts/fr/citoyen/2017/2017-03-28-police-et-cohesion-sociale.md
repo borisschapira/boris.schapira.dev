@@ -1,10 +1,7 @@
 ---
 title: 'Si on ne veille pas à renforcer la cohésion, ça risque d''éclater'
-date: '2017-03-28'
-type: post
 tags:
     - police
-locale: fr_FR
 ---
 
 Loin de stéréotype, cette interview du politologue Sebastian Roché est tout simplement passionnante. Il pose un regard objectif sur la Police, dénonçant certaines pratiques mais en expliquant les causes par ailleurs, sans accuser les individus. Il parle de minorités et des pratiques de l'Islam, mais aussi de la fatigue des forces de l'ordre et de l'abscence de considération du pouvoir politique.

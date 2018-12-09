@@ -1,9 +1,6 @@
 ---
 title: 'L''entracte'
-date: '2018-03-19'
-type: post
 i18n-key: entracte
-locale: fr_FR
 ---
 
 Nous emmenons les enfants voir un spectacle. Au milieu est proposé un petit entracte. On s’asseoit avec les enfants pour discuter et boire un peu.

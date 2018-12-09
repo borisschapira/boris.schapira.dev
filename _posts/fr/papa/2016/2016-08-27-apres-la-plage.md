@@ -1,8 +1,5 @@
 ---
 title: 'Après la plage'
-date: '2016-08-27'
-type: post
-locale: fr_FR
 ---
 
 Nous avions oublié de prendre un rechange à notre Koala, nous lui expliquons donc qu'il va resté en maillot le temps d'aller manger.

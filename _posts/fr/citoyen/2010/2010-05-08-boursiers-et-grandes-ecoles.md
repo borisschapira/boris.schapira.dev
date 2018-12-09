@@ -2,9 +2,6 @@
 title: 'Boursiers et Grandes Ecoles'
 tags:
     - Éducation
-date: '2010-05-08'
-type: post
-locale: fr_FR
 ---
 
 Énervé au moment du débat sur l'imposition d'un quota de boursiers dans les Grandes Écoles, j'ai décidé de différer la publication du billet pour éviter de réagir vite et mal. Aujourd'hui, j'ai tout de même envie de dire deux ou trois choses sur cette proposition que je trouve toujours absurde.

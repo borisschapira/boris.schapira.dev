@@ -1,8 +1,5 @@
 ---
 title: 'En lasagne'
-date: '2017-09-25'
-type: post
-locale: fr_FR
 ---
 
 Il y a quelques jours, j'ai revu une amie qui habite à l'étranger. Elle était de passage avec sa fille. Plusieurs semaines plus tard…

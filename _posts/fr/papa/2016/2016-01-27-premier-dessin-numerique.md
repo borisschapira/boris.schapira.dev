@@ -1,9 +1,6 @@
 ---
 title: 'Premier dessin numérique'
 main_image: /assets/images/papa/2016-01-27/1.png
-date: '2016-01-27'
-type: post
-locale: fr_FR
 ---
 
 Pendant que le petit faisait sa sieste, j'ai appris au grand à utiliser le <span lang="en">trackpad</span> pour dessiner sur l'ordinateur avec GIMP.

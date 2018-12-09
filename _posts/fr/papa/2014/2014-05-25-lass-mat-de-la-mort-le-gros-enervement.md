@@ -1,8 +1,5 @@
 ---
 title: 'L''Ass. Mat de la mort : le gros énervement'
-date: '2014-05-25'
-type: post
-locale: fr_FR
 ---
 
 Le matin, j'explique :

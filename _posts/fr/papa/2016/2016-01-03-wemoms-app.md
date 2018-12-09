@@ -1,8 +1,5 @@
 ---
 title: WeMoms
-date: '2016-01-03'
-type: post
-locale: fr_FR
 ---
 
 J'ai rejoint, il y a peu, la communauté WeMoms (des [applications Android et iPhone](http://www.wemoms.com/) à destination des mères et futures mères, principalement). Au début, c'était pour aider une connaissance qui en développe la version Android à dénicher des <span lang="en">bugs</span>. Depuis, j'y ai pris goût et je me suis surtout rendu compte que j'avais parfois des choses à apporter. Du coup, j'y publie rarement des statuts mais j'essaie de répondre aux questions d'autres membres quand je peux.

@@ -1,8 +1,5 @@
 ---
 title: 'Jeu de cartes'
-date: '2017-06-19'
-type: post
-locale: fr_FR
 ---
 
 Le grand de six ans explique comment jouer à la Bataille à son petit frère. Tout commence par déterminer les rapports de force entre les cartes.

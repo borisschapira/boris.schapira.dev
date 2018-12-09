@@ -1,8 +1,5 @@
 ---
 title: 'On écrit sur les murs'
-date: '2018-01-18'
-type: post
-locale: fr_FR
 ---
 
 En déposant le petit à la maternelle, je discute un peu avec une des mamans des cadeaux que les enfants ont reçu à Noël. Elle m'explique que son fils était déçu.

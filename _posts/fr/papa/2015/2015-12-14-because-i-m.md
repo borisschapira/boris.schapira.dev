@@ -1,8 +1,5 @@
 ---
 title: 'Because I''m Ba*man'
-date: '2015-12-14'
-type: post
-locale: fr_FR
 ---
 
 > — Papa, pourquoi Batman s'appelle Batman ?  

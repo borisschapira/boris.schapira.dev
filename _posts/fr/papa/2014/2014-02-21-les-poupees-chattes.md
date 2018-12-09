@@ -1,8 +1,5 @@
 ---
 title: 'Les Poupées Chattes'
-date: '2014-02-21'
-type: post
-locale: fr_FR
 ---
 
 Ma femme écoutait "[Buttons](https://www.youtube.com/watch?v=VCLxJd1d84s)" des Poupées Chattes :

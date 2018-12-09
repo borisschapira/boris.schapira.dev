@@ -2,9 +2,6 @@
 title: '#OnVautMieuxQueCa'
 tags:
     - Emploi
-date: '2016-03-10'
-type: post
-locale: fr_FR
 ---
 
 > Mais quels effets aurait cette réforme sur un entrepreneur ?

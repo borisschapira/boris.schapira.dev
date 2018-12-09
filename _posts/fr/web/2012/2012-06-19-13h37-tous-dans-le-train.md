@@ -3,9 +3,6 @@ title: '13h37 : tous dans le train !'
 tags:
     - 'Scripts Tiers'
     - Front-End
-date: '2012-06-19'
-type: post
-locale: fr_FR
 ---
 
 Juste une bafouille pour signaler que j'ai participé à la 6e édition du [Train de 13h37](http://letrainde13h37.fr), avec un [article sur les conséquences de l'inclusion de contenus tiers sur un site](http://letrainde13h37.fr/6/scripts-tiers-appels-induits-ne-perdez-pas-le-controle-de-votre-site/). Même si je n'étais pas au courant, je suis ravi de me retrouver en Une, et je ne saurais que trop vous conseiller et la lecture de l'article et, à plus long terme, l'abonnement à ce Web-zine qui dépote et dont voici le manifeste&nbsp;:

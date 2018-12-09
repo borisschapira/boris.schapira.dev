@@ -1,8 +1,5 @@
 ---
 title: 'Guide de survie aux discussions'
-date: '2017-02-14'
-type: post
-locale: fr_FR
 tags:
     - guide
 ---

@@ -2,9 +2,6 @@
 title: 'Tout va bien, merci.'
 tags:
     - 'Me, myself and I'
-date: '2008-12-07'
-type: post
-locale: fr_FR
 ---
 
 Cher Père Noël,

@@ -1,8 +1,5 @@
 ---
 title: 'Scrumbuts et Cargo Cult'
-date: '2017-04-02'
-type: post
-locale: fr_FR
 ---
 
 Les <span lang="en">Scrumbuts</span> désignent l'ensemble des entorses à <span lang="en">Scrum</span> auxquelles les équipes recourent lorsqu'elles n'arrivent pas à appliquer correctement cette fameuse méthodologie Agile.

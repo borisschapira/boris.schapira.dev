@@ -1,8 +1,5 @@
 ---
 title: 'Captain Obvious'
-date: '2016-02-01'
-type: post
-locale: fr_FR
 ---
 
 Le petit dernier, 2 ans ½, et ses réflexions profondes…

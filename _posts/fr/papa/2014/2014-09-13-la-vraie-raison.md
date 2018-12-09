@@ -1,8 +1,5 @@
 ---
 title: 'La VRAIE raison'
-date: '2014-09-13'
-type: post
-locale: fr_FR
 ---
 
 Un dîner classique avec les enfants, ma femme craque :

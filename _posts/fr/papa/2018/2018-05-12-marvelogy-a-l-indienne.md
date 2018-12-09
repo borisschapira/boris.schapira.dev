@@ -1,8 +1,5 @@
 ---
 title: 'Marvelogy à l''indienne'
-date: '2018-05-12'
-type: post
-locale: fr_FR
 ---
 
 Parfois, le dîner du soir, ça tourne au kamoulox entre mes deux bonhommes.

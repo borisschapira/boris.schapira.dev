@@ -1,8 +1,5 @@
 ---
 title: 'On peut tromper une fois une personne…'
-date: '2017-12-08'
-type: post
-locale: fr_FR
 ---
 
 Les enfants ne sont pas satisfaits du contenu de leurs assiettes. Ils décident de faire un échange.

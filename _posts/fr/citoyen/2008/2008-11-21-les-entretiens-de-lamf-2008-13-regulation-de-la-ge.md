@@ -1,8 +1,5 @@
 ---
 title: 'Les Entretiens de l''AMF 2008 (1/3) : régulation de la gestion d''actifs'
-date: '2008-11-21'
-type: post
-locale: fr_FR
 slug: les-entretiens-de-lamf-2008-13-regulation-de-la-gestion-dactifs
 ---
 

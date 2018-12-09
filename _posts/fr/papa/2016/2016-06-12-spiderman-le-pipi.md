@@ -1,8 +1,5 @@
 ---
 title: 'Spiderman le pipi'
-date: '2016-06-12'
-type: post
-locale: fr_FR
 ---
 
 Trajet en voiture. Le grand, en pleine phase pipi-caca, chante sa chanson horripilante.

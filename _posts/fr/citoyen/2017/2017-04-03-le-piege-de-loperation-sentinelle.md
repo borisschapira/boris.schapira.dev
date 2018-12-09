@@ -1,12 +1,9 @@
 ---
 title: 'Le piège de l''opération Sentinelle'
-date: '2017-04-03'
-type: post
 tags:
     - police
     - armée
     - 'État d''Urgence'
-locale: fr_FR
 ---
 
 Dans le [précédent article](/2017/03/police-et-cohesion-sociale/ "Si on ne veille pas à renforcer la cohésion, ça risque d'éclater"), je citais un article qui expliquait ce qu'il adviendrait de notre pays si on continuait à remplacer les **gardiens de la paix** par des **forces de l'ordre**.

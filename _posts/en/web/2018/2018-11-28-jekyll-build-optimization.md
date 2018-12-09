@@ -1,14 +1,11 @@
 ---
 title: 'Optimizing Jekyll build time'
 i18n-key: optimisation-compilation-jekyll
-date: '2018-11-28'
 main_image: /assets/images/2018-11-28/jekyll.png
-type: post
 tags:
     - Jekyll
     - JAMStatic
     - Outils
-locale: en_US
 ---
 
 Being more and more tired of WordPress and its galaxy of dubious-quality plugins, I decided to migrate to a static site generator three years ago. After a few tries with other solutions, I decided to migrate to Jekyll, whose community seemed more mature to me.

@@ -1,8 +1,5 @@
 ---
 title: 'Tous aussi fort'
-date: '2014-04-11'
-type: post
-locale: fr_FR
 ---
 
 > — Bonne nuit chéri, je t'aime plus que tout.  

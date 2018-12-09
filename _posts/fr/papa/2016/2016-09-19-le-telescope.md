@@ -1,8 +1,5 @@
 ---
 title: 'Le téléscope'
-date: '2016-09-19'
-type: post
-locale: fr_FR
 ---
 
 Excité par le visionnage de l'Exoconférence, je parle d'espace aux garçons.

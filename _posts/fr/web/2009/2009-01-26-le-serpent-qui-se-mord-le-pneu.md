@@ -1,8 +1,5 @@
 ---
 title: 'Le serpent qui se mord le pneu'
-date: '2009-01-26'
-type: post
-locale: fr_FR
 ---
 
 **-** Tu vois, je ne comprends pas. Je prends le RER tous les matins et sur le parking, il y a autant de places "handicapés" que de places normales, on ne peut jamais se garer&nbsp;!

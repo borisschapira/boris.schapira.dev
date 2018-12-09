@@ -2,9 +2,6 @@
 title: 'Présentation de Windows8 à la conférence //BUILD/'
 tags:
     - Outils
-date: '2011-09-14'
-type: post
-locale: fr_FR
 ---
 
 Hier était présentée en grandes pompes la prochaine mouture de l’OS de Microsoft, nom de code "Windows 8". À chaud, on peut déjà relever quelques points : rétrocompatibilité Windows 7, performances améliorées, cibles "tablettes", nouvelle interface au look <span lang="en">Flat Design</span>, Internet Explorer 10, nouvelles modalités de login (il était temps), développement HTML/JS, Marketplace, compatibilité des applications Windows Phone… mais ce sera probablement l’objet d’un futur article.

@@ -1,8 +1,5 @@
 ---
 title: 'Bonus, Trading : deux PDF pour mieux comprendre'
-date: '2009-08-07'
-type: post
-locale: fr_FR
 ---
 
 Soyons honnêtes&nbsp;: une grande majorité d'entre nous n'est pas suffisamment armée pour saisir à bras le corps les problématiques liées à la spéculation boursière et à la justification (ou non) des bonus.

@@ -2,9 +2,6 @@
 title: 'Konami Code Bookmarklet'
 tags:
     - Projets
-date: '2014-01-22'
-type: post
-locale: fr_FR
 ---
 
 Je me suis amusé à écrire un petit bookmarklet qui simule le Konami Code, afin de ne pas avoir à le taper manuellement (les développeurs sont des fainénants, vous ne le saviez pas&nbsp;?). Si cela vous intéresse, cliquez-glissez ce lien dans votre barre de favoris et testez-le, au hasard, sur [la carte de vœux 2014 de Clever-Age](http://fr.clever-age.com/voeux/2014/ "Clever Age – Pour 2014, vous confie tous ses projets d")&nbsp;!

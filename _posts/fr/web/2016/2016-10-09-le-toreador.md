@@ -1,8 +1,5 @@
 ---
 title: 'Le toréador'
-date: '2016-10-09'
-type: post
-locale: fr_FR
 ---
 
 Ce nouveau besoin vient de tomber. Personne ou presque ne sait comment y répondre techniquement. Heureusement, il est là : votre rock star, votre pièce maitresse, celui qui n'a pas peur de faire face à la bête à cornes : le Toréador.

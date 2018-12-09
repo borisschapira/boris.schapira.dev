@@ -3,9 +3,6 @@ title: 'ComplexIT : les IT se moquent des IT'
 tags:
     - Développement
     - TechNet
-date: '2007-04-18'
-type: post
-locale: fr_FR
 ---
 
 Lorsque deux IT se rencontrent autour d'une émission du type "Question pour un Champion", ça donne ComplexIT&nbsp;!

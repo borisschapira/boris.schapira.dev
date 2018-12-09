@@ -1,8 +1,5 @@
 ---
 title: 'Personnages de dessins animés'
-date: '2015-03-01'
-type: post
-locale: fr_FR
 ---
 
 > — Tu le reconnais lui ?  

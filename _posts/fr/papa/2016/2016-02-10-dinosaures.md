@@ -1,8 +1,5 @@
 ---
 title: Dinosaures
-date: '2016-02-10'
-type: post
-locale: fr_FR
 ---
 
 > — C'est le gros méchant dinosaure féroce !  

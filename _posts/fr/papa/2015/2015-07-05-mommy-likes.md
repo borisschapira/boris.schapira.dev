@@ -1,8 +1,5 @@
 ---
 title: 'Mommy likes...'
-date: '2015-07-05'
-type: post
-locale: fr_FR
 ---
 
 > — On fait un dessin pour maman ?  

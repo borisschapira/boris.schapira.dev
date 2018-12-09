@@ -1,8 +1,5 @@
 ---
 title: 'Les nomosessuels'
-date: '2018-01-12'
-type: post
-locale: fr_FR
 ---
 
 Mon grand pleure car à l'école, un enfant se moque de lui. Il m'explique.

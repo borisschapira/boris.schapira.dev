@@ -1,8 +1,5 @@
 ---
 title: 'Cinquième anniversaire du grand'
-date: '2016-01-16'
-type: post
-locale: fr_FR
 ---
 
 Ils était 3 selon la Police, 27 d'après les organisateurs.

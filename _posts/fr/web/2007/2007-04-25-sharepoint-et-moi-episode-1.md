@@ -5,9 +5,6 @@ tags:
     - 'Microsoft Office'
     - Sharepoint
     - 'Visual Basic'
-date: '2007-04-25'
-type: post
-locale: fr_FR
 ---
 
 Deux mois de stages chez Microsoft France, c'est déjà beaucoup et en même temps peu. Il y a tant à apprendre ici&nbsp;!

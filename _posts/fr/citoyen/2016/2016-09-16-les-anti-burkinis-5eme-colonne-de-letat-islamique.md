@@ -3,9 +3,6 @@ title: 'Les anti-burkinis, 5ème colonne de l’État Islamique'
 tags:
     - 'État d''urgence'
     - Terrorisme
-date: '2016-09-16'
-type: post
-locale: fr_FR
 ---
 
 > Nous pouvons continuer d’apposer des rustines sécuritaires, nous pouvons rogner encore longtemps sur nos libertés fondamentales, nous pouvons encore tirer sur la corde de notre dispositif policier et militaire, mais tant que le terrorisme continuera d’avoir l’effet escompté il y a aura toujours un djihadiste pour passer entre les mailles du filet. Il faut tenir sur nos valeurs, il faut empêcher qu’elles ne puissent être affectées par la terreur.  

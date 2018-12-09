@@ -3,9 +3,6 @@ title: 'Phrases Insolites… #17'
 tags:
     - Humour
     - Insolite
-date: '2009-12-21'
-type: post
-locale: fr_FR
 ---
 
 C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!

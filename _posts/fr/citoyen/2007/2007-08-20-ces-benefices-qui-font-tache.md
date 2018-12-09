@@ -4,9 +4,6 @@ tags:
     - Société
     - Publicité
     - Tabac
-date: '2007-08-20'
-type: post
-locale: fr_FR
 ---
 
 Comme beaucoup d'entre vous, je ([re](http://www.suchablog.com/toxic-corp-une-pub-anti-tabac-interdite/))découvre la publicité contre le tabac "Toxic Corp."

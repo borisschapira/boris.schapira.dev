@@ -1,8 +1,5 @@
 ---
 title: 'L''épée magique'
-date: '2015-03-26'
-type: post
-locale: fr_FR
 ---
 
 Sur le chemin de l'école, nous voyons une affiche qui fait la promo du [dernier film "Clochette"](http://www.papacube.com/2015/03/clochette-et-la-creature-legendaire.html). Il ramasse un bâton de bois et commence à l'agiter.

@@ -4,9 +4,6 @@ tags:
     - AJAX
     - CodePlex
     - Sharepoint
-date: '2007-06-26'
-type: post
-locale: fr_FR
 slug: community-pack-pour-sharepoint-vers-le-20-pour-lusine-ecm-de-microsoft
 ---
 

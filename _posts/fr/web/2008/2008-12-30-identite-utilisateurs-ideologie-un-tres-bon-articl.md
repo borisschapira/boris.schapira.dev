@@ -3,9 +3,6 @@ title: 'Identité, utilisateurs, idéologie : un très bon article sur Linux'
 tags:
     - Technologie
     - Liens
-date: '2008-12-30'
-type: post
-locale: fr_FR
 slug: identite-utilisateurs-ideologie-un-tres-bon-article-sur-linux
 ---
 

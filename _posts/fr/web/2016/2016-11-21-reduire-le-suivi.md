@@ -1,8 +1,5 @@
 ---
 title: 'Réduire le suivi'
-date: '2016-11-21'
-type: post
-locale: fr_FR
 ---
 
 Récemment, on m'a rapporté trois anecdotes d'avant-vente comportant des demandes du prospect de réduire la quantité de jours associés au suivi du projet. Je pense que ça mérite une discussion.

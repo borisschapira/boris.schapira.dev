@@ -1,8 +1,5 @@
 ---
 title: 'Les guerres'
-date: '2017-10-29'
-type: post
-locale: fr_FR
 ---
 
 Les enfants ont regardé le film d'animation Mr Peabody, et ont beaucoup aimé. Par contre, le grand et le petit ne semblent pas avoir compris la même chose.

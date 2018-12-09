@@ -1,8 +1,5 @@
 ---
 title: 'La preuve'
-date: '2016-01-25'
-type: post
-locale: fr_FR
 ---
 
 Nous achetons des couches "garçon" et "fille" pour notre fils de 5 ans qui, j'estime, a le droit d'aimer à la fois les motos, les dinosaures, les danseuses et les fées. Curieusement, les paquets de couches "fille" sont systématiquement 15&thinsp;cts plus chers que celles pour garçon.

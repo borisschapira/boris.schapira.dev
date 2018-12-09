@@ -1,8 +1,5 @@
 ---
 title: 'Chauffage calorique'
-date: '2015-11-18'
-type: post
-locale: fr_FR
 ---
 
 > — Maman, j'ai froid [en chouinant bien entendu]  

@@ -1,8 +1,5 @@
 ---
 title: 'Rester à la maison'
-date: '2017-09-24'
-type: post
-locale: fr_FR
 ---
 
 L'autre jour, nous avons tenté d'expliquer aux enfants la différence entre aimer, et être amoureux…

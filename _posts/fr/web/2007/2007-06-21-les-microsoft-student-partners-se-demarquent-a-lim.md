@@ -5,9 +5,6 @@ tags:
     - 'Imagine Cup'
     - 'Project Hoshimi'
     - Web
-date: '2007-06-21'
-type: post
-locale: fr_FR
 slug: les-microsoft-student-partners-se-demarquent-a-limagine-cup
 ---
 

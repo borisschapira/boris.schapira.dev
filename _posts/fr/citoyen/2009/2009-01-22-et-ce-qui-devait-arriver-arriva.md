@@ -1,8 +1,5 @@
 ---
 title: 'Et ce qui devait arriver arriva…'
-date: '2009-01-22'
-type: post
-locale: fr_FR
 ---
 
 Le gouvernement et les médias, à force d'exacerber le mépris envers les banquiers, légitiment la recrudescence d'une certaine violence à leur égard. Cette violence devait bien finir par dégénérer un jour, c'est chose faite.

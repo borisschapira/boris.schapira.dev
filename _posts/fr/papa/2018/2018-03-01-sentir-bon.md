@@ -1,8 +1,5 @@
 ---
 title: 'Sentir bon'
-date: '2018-03-01'
-type: post
-locale: fr_FR
 ---
 
 Pendant que je lui lis son histoire du soir, le grand se colle contre moi. À la fin de l'histoire…

@@ -4,9 +4,6 @@ tags:
     - Mobilité
 series: 'Windows Phone'
 canonical: 'https://blog.clever-age.com/fr/2010/05/19/tour-d-horizon-de-windows-phone-7/'
-date: '2010-05-19'
-type: post
-locale: fr_FR
 ---
 
 Windows Phone est un système d’exploitation pour téléphones mobiles présenté par Microsoft lors du MIX 2010 sous le nom _Windows Phone 7 Series_. S’inspirant des modèles à succès que sont l’iPhoneOS d’Apple et l’Android de Google, Microsoft a fait table rase de son précédent système mobile et souhaite désormais s’imposer comme un acteur majeur du mobile grand public.

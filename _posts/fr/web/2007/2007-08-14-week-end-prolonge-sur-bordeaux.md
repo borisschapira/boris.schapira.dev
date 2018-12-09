@@ -3,9 +3,6 @@ title: 'Week-end prolongé sur Bordeaux'
 tags:
     - 'Me, myself and I'
     - 'Amis et famille'
-date: '2007-08-14'
-type: post
-locale: fr_FR
 ---
 
 Ca faisait longtemps que je n'étais pas redescendu dans le sud-ouest voir la famille et j'avoue que prendre un jour pour rallonger un peu le week-end, et bien ça change tout.

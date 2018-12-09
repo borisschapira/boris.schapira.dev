@@ -1,8 +1,5 @@
 ---
 title: Protectrice
-date: '2013-12-07'
-type: post
-locale: fr_FR
 ---
 
 Ma femme rentre énervée un soir :

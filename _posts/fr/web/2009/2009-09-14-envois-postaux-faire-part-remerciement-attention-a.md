@@ -3,9 +3,6 @@ title: 'Envois postaux : attention aux tarifs'
 tags:
     - 'Me, myself and I'
     - Mariage
-date: '2009-09-14'
-type: post
-locale: fr_FR
 slug: envois-postaux-faire-part-remerciement-attention-aux-tarifs
 ---
 

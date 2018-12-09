@@ -1,8 +1,5 @@
 ---
 title: 'L''orage et la mort'
-date: '2015-09-16'
-type: post
-locale: fr_FR
 ---
 
 Discussion avec le grand. Parfois, je ne sais pas trop où il m'emmène...

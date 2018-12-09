@@ -2,9 +2,6 @@
 title: 'Colocation avec avantages'
 tags:
     - Boulogne
-date: '2007-07-02'
-type: post
-locale: fr_FR
 ---
 
 **EDIT&nbsp;:** La réponse de l'intéressée

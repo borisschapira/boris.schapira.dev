@@ -4,9 +4,6 @@ tags:
     - Société
 series:
     - 'Charlie Hebdo'
-date: '2015-01-12'
-type: post
-locale: fr_FR
 loadTwitterWjs: true
 ---
 

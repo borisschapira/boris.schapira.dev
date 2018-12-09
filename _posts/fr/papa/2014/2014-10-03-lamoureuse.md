@@ -1,8 +1,5 @@
 ---
 title: 'L''amoureuse'
-date: '2014-10-03'
-type: post
-locale: fr_FR
 ---
 
 > — Et elle, tu l'aimes bien ?  

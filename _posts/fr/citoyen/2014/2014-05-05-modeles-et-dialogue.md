@@ -2,9 +2,6 @@
 title: 'Modèle et dialogue'
 tags:
     - Société
-date: '2014-05-05'
-type: post
-locale: fr_FR
 ---
 
 > Our ordinary conceptual system, in terms of which we both think and act, is fundamentally metaphorical in nature.  

@@ -3,9 +3,6 @@ title: 'Problem Steps Recorder (PSR), outil de support sous Windows Seven'
 canonical: 'https://www.nexeo.fr/blog/2009/06/05/problem-steps-recorder-psr-outil-de-support-sous-windows-seven/'
 tags:
     - Nexdotnet
-date: '2009-06-05'
-type: post
-locale: fr_FR
 slug: problem-steps-recorder-psr-outil-de-support-sous-windows-seven
 ---
 

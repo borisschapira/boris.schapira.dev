@@ -2,9 +2,6 @@
 title: 'Un peu d''actu politique et financière'
 tags:
     - France
-date: '2008-02-07'
-type: post
-locale: fr_FR
 ---
 
 **S&#233;gol&#232;ne Royal** s'exprime sur **l'affaire Soci&#233;t&#233; G&#233;n&#233;rale** et demande que les milliards perdus soient rendus aux d&#233;tenteurs de comptes. Il n'y a personne au P.S. pour l'emp&#234;cher de prof&#233;rer de pareilles sottises&nbsp;? Il semblerait que si, puisqu'on ne l'a plus entendue depuis. Heureusement il y a quelques [bonnes plume](http://www.lesechos.fr/31/01/2008/LesEchos/20100-083-ECH_societe-generale---chef-d-oeuvre-en-peril.htm)s qui continuent &#224; faire un travail d'investigation apportant un &#233;clairage diff&#233;rent sur la situation.</p>

@@ -4,9 +4,6 @@ tags:
     - Technologie
     - 'Billet d''humeur'
     - Microblogging
-date: '2007-11-17'
-type: post
-locale: fr_FR
 slug: twitter-or-not-twitter-that-is-the-blogger-question
 ---
 

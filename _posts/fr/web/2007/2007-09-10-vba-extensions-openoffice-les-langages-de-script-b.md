@@ -4,9 +4,6 @@ tags:
     - Développement
     - 'Microsoft Office'
     - 'Visual Basic'
-date: '2007-09-10'
-type: post
-locale: fr_FR
 slug: vba-extensions-openoffice-les-langages-de-script-bureautiques
 ---
 

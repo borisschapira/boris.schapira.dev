@@ -1,8 +1,5 @@
 ---
 title: 'Un plat pour Halloween'
-date: '2016-12-08'
-type: post
-locale: fr_FR
 ---
 
 Nous sommes allé au restaurant. La serveuse a expliqué les possibilités de plats et le petit a fait son choix :

@@ -4,9 +4,6 @@ tags:
     - Technologie
     - MIX07
     - Web
-date: '2007-05-03'
-type: post
-locale: fr_FR
 ---
 
 Microsoft l'a annoncé au Mix 2007&nbsp;: le projet Astoria va révolutionner le Web. Oui, bon, on nous l'a déjà faite cent fois celle-là , alors on va creuser un peu plus le concept…

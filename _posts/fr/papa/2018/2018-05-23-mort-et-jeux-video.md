@@ -1,8 +1,5 @@
 ---
 title: 'Mort et jeux vidéo'
-date: '2018-05-23'
-type: post
-locale: fr_FR
 ---
 
 La maitresse de notre fils de presque 5 ans, nous a signalé qu'il "parlait de la mort", et que c'était probablement lié à ce que son père (moi) joue au jeux vidéos. Il va sans dire que pour elle, l'un comme l'autre sont répréhensibles.

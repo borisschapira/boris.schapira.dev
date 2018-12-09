@@ -1,8 +1,5 @@
 ---
 title: 'Eux, Présidents'
-date: '2017-03-21'
-type: post
-locale: fr_FR
 ---
 
 Ce matin, nous sommes revenus sur le grand événement de la veille, le débat. Je leur ai expliqué à nouveau de concept de l'élection et leur ai demandé ce qu'ils feraient, eux, s'ils devenaient "Grand chef de la France". Voici donc leurs cinq mesures phares.

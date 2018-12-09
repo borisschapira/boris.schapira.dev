@@ -1,8 +1,5 @@
 ---
 title: 'Elections présidentielles 2007 #4'
-date: '2007-05-18'
-type: post
-locale: fr_FR
 ---
 
 J'ai pris connaissance ce soir du nouveau gouvernement et ainsi de la nouvelle structure politique de notre pays, tout comme des évènements politiques de la journée…

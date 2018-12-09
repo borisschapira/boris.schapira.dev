@@ -1,8 +1,5 @@
 ---
 title: 'Les petites bêtes (suite)'
-date: '2017-12-14'
-type: post
-locale: fr_FR
 ---
 
 > Papa, comment on leur parle aux copains de l'intérieur ?

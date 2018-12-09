@@ -1,8 +1,5 @@
 ---
 title: 'La ceinture'
-date: '2017-03-26'
-type: post
-locale: fr_FR
 ---
 
 Je sais que le petit arrive désormais à mettre sa ceinture de sécurité tout seul. Je lui dis de montrer à sa mère, il le fait, puis commente :

@@ -1,13 +1,10 @@
 ---
 title: 'Optimize your MP4 video for better performance'
 i18n-key: optimize-mp4
-date: '2018-01-18'
 canonical: 'https://blog.dareboost.com/en/2018/01/optimize-your-mp4-video-for-better-performance/'
-type: post
 tags:
     - 'Performance Web'
     - Video
-locale: en_US
 cloudinary_logo: dareboost-logo
 ---
 

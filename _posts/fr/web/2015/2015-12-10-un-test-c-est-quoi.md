@@ -1,8 +1,5 @@
 ---
 title: 'Un test, c''est quoi ?'
-date: '2015-12-10'
-type: post
-locale: fr_FR
 ---
 
 Tout le monde parle de test et au final, les gens ne se comprennent pas toujours. Précisons un peu tout ça pour parler la même langue.

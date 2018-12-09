@@ -1,8 +1,5 @@
 ---
 title: 'Promenons-nous dans les bois'
-date: '2016-06-24'
-type: post
-locale: fr_FR
 ---
 
 Une petite chanson pour les calmer avant de dormir… On arrive sur la fin, je fais donc la voix du loup pour la dernière partie…

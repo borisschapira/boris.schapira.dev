@@ -1,8 +1,5 @@
 ---
 title: 'Coup de blues'
-date: '2014-06-14'
-type: post
-locale: fr_FR
 ---
 
 Ma femme a une petite mine :

@@ -3,9 +3,6 @@ title: 'Droits et devoirs'
 tags:
     - Société
     - Emploi
-date: '2015-02-09'
-type: post
-locale: fr_FR
 ---
 
 > Chacun a le **devoir** de travailler et le **droit** d'obtenir un emploi.  

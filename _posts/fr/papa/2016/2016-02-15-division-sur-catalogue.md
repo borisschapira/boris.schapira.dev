@@ -4,9 +4,6 @@ tags:
     - HeForShe
     - Égalité
 series: Diviser
-date: '2016-02-15'
-type: post
-locale: fr_FR
 ---
 
 ## sur catalogue

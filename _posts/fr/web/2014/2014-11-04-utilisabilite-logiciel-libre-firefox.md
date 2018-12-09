@@ -3,9 +3,6 @@ title: 'Utilisabilité&nbsp;: le cas Firefox'
 tags:
     - 'Logiciel Libre'
     - 'Service Design'
-date: '2014-11-04'
-type: post
-locale: fr_FR
 loadTwitterWjs: true
 ---
 

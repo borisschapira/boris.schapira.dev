@@ -4,9 +4,6 @@ tags:
     - Mobilité
 series:
     - 'Windows Phone'
-date: '2010-02-16'
-type: post
-locale: fr_FR
 ---
 
 Microsoft a présenté hier, lors du Mobile World Congress, son nouveau système d'exploitation pour mobiles nommé **Windows Phone 7 Series**. Avec son interface prometteuse, ses concepts d'utilisation inédits et sa forte intégration de composants Web en temps réel, l'OS a séduit sans révolutionner. Mais concernant les applications, le flou reste total…

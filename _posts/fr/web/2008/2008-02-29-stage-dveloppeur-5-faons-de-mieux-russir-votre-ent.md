@@ -3,9 +3,6 @@ title: 'Stage «&#160;Développeur&#160;» : 5 façons de mieux réussir votre e
 tags:
     - Emploi
     - 'Trouver un stage ou une alternance'
-date: '2008-02-29'
-type: post
-locale: fr_FR
 slug: stage-dveloppeur-5-faons-de-mieux-russir-votre-entretien
 ---
 

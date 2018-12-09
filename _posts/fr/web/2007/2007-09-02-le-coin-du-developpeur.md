@@ -3,9 +3,6 @@ title: 'Le coin du développeur'
 tags:
     - Développement
     - .NET
-date: '2007-09-02'
-type: post
-locale: fr_FR
 ---
 
 * Vous avez démarré ASP.NET tranquille et maintenant vous voudriez vous la péter à moindre frais en montrant votre site à des copains&nbsp;? [Flavien vous propose une solution pour **héberger** temporairement votre site](http://blogs.developpeur.org/raptorxp/archive/2007/08/27/h-bergement-gratuit-sur-iis-7.aspx).

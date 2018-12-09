@@ -1,8 +1,5 @@
 ---
 title: 'Ligne 1 : l''art de détendre ses usagers'
-date: '2008-02-22'
-type: post
-locale: fr_FR
 ---
 
 Mercredi sur la ligne 1, direction Paris après une longue journée à la Défense. Dans le métro, comme d'habitude, personne ne rit. Les mines sont ternes, les regards bas. Le boulot étant passé, il reste métro et dodo… La rame vient de s'arrêter en station quand les hauts-parleurs grésillent…

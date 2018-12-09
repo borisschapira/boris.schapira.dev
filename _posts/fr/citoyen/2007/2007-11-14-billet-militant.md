@@ -3,9 +3,6 @@ title: 'Billet militant'
 tags:
     - Société
     - Grève
-date: '2007-11-14'
-type: post
-locale: fr_FR
 ---
 
 Aujourd'hui, demain, et tous les autres jours où vous ferez grève, j'irais travailler quand même.Vous ne me bloquerez pas, vous ne m'arrêterez pas, vous n'arrêterez pas l'activité de mon entreprise ou de la France.

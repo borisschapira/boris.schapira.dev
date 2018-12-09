@@ -1,8 +1,5 @@
 ---
 title: 'Comme nous'
-date: '2016-05-31'
-type: post
-locale: fr_FR
 ---
 
 Discussion à propos de Mozart, notre chaton.

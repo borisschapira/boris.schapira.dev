@@ -1,8 +1,5 @@
 ---
 title: 'Les Entretiens de l''AMF 2008 (2/3) : régulation des produits traités de gré à gré'
-date: '2008-12-22'
-type: post
-locale: fr_FR
 slug: les-entretiens-de-lamf-2008-23-regulation-des-produits-traites-de-gre-a-gre
 ---
 

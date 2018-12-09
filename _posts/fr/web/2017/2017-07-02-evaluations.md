@@ -1,8 +1,5 @@
 ---
 title: Évaluations
-date: '2017-07-02'
-type: post
-locale: fr_FR
 ---
 
 > [...] enseigner en école était de loin **l’expérience de transmission la plus contre-intuitive**, et donc la plus fascinante pour moi.  

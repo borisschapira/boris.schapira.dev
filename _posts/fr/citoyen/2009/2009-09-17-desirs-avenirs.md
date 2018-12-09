@@ -3,9 +3,6 @@ title: 'Désirs d''Avenirs : un vrai raté'
 tags:
     - Numérique
     - 'Billet d''humeur'
-date: '2009-09-17'
-type: post
-locale: fr_FR
 ---
 
 Je ne peux pas m'empêcher de rire à la vue du nouveau site de _Désirs d'Avenir_, qu'il s'agisse de la version d'hier comme de la version d'aujourd'hui. J'ajouterais que pour le quart de la moitié de ce prix-là et un peu d'huile de coude, Ségolène Royal aurait pu avoir un site d'une meilleure qualité, qu'il s'agisse d'esthétisme comme de fonctionnalités.

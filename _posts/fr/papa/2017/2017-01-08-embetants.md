@@ -1,8 +1,5 @@
 ---
 title: Embêtants
-date: '2017-01-08'
-type: post
-locale: fr_FR
 ---
 
 Trois jours. Trois jours que je suis reveillé plusieurs fois par nuit par les enfants ou le chat. Fatigué, je fini par leur lâcher :

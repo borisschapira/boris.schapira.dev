@@ -2,9 +2,6 @@
 title: 'TechDays : les nouveautés de la plénière #2'
 tags:
     - Conférences
-date: '2009-02-11'
-type: post
-locale: fr_FR
 ---
 
 Plusieurs milliers de personnes se sont déplacées aujourd’hui pour assister à la grand-messe annuelle de Microsoft. **Windows Seven, Visual Studio 2010 et Azure et la stratégie Software + Service** ont conclu cette keynote.

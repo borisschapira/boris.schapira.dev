@@ -4,9 +4,6 @@ tags:
     - Emploi
     - Etudiants
     - Grève
-date: '2007-11-15'
-type: post
-locale: fr_FR
 slug: avis-construit-dun-cheminot-et-problme-dans-les-facs
 ---
 

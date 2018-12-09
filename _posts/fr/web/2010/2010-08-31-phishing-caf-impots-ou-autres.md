@@ -1,8 +1,5 @@
 ---
 title: 'Phishing CAF, Impôts ou autres…'
-date: '2010-08-31'
-type: post
-locale: fr_FR
 loadTwitterWjs: true
 ---
 

@@ -1,8 +1,5 @@
 ---
 title: 'Déplacer un dépôt git'
-date: '2016-09-10'
-type: post
-locale: fr_FR
 ---
 
 Il arrive parfois qu'on veuille déplacer un dépôt avec toutes ses branches, ses tags et son historique, par exemple pour changer de service entre Github, Gitlab, Bitbucket…

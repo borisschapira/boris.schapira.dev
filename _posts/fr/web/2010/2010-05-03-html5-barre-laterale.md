@@ -3,9 +3,6 @@ title: '[HTML5] Barre latérale'
 tags:
     - Front-End
     - Projets
-date: '2010-05-03'
-type: post
-locale: fr_FR
 ---
 
 Ces derniers jours, deux ouvrages alimentent mes temps libres: **Dive Into HTML 5** de Mark Pilgrim que je lis directement [à cette adresse](http://diveinto.html5doctor.com/ '"Dive Into HMTL5" by Mark Pilgrilm') et **Transcender CSS**, d'Andy Clarke, acheté [chez Amazon](http://www.amazon.fr/Transcender-CSS-Sublimez-design-web/dp/2212121075/ref=pd_rhf_p_t_4 '"Transcender CSS" by Andy Clarke on Amazon.fr').

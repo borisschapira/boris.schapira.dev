@@ -1,8 +1,5 @@
 ---
 title: 'L''adoubement'
-date: '2016-12-21'
-type: post
-locale: fr_FR
 ---
 
 Journée "ménage" à la maison. Mon grand me regarde tandis que je nettoie le lavabo de la salle de bain.

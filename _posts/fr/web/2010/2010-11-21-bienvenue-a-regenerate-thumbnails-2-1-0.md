@@ -3,9 +3,6 @@ title: 'Bienvenue à / Welcome to Regenerate Thumbnails 2.1.0'
 tags:
     - 'Me, myself and I'
     - Projets
-date: '2010-11-21'
-type: post
-locale: fr_FR
 ---
 
 Une nouvelle version du plugin Wordpress [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) est disponible, avec quelques améliorations issues d'un de mes projets personnels.

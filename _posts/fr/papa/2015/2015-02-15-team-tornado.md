@@ -1,8 +1,5 @@
 ---
 title: 'Team Tornado'
-date: '2015-02-15'
-type: post
-locale: fr_FR
 ---
 
 Hier, j'ai laissé les enfants jouer tranquillement dans leur chambre le temps de prendre une douche. Ma femme était au rez-de-chaussée, en train de ranger. 5 minutes après, je sors de la douche et entend des murmures...

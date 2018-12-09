@@ -1,8 +1,5 @@
 ---
 title: 'Introuvable !'
-date: '2016-01-26'
-type: post
-locale: fr_FR
 ---
 
 Après deux jours de lutte, nous avons finalement trouvé _Doudou bleu_, peluche favorite et meilleur ami de notre aîné (et de nos nuits).

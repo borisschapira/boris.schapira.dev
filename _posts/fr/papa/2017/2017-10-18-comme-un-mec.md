@@ -1,8 +1,5 @@
 ---
 title: 'Comme un mec'
-date: '2017-10-18'
-type: post
-locale: fr_FR
 ---
 
 Depuis quelques jours, mon aîné a une nouvelle manie. Dès qu'il réussit quelque chose de difficile ou qui nécessite de la dextérité, il se congratule en disant qu'il est "un mec".

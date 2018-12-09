@@ -3,9 +3,6 @@ title: Xénophobes
 tags:
     - Égalité
     - 'État d''urgence'
-date: '2016-02-01'
-type: post
-locale: fr_FR
 loadTwitterWjs: true
 ---
 

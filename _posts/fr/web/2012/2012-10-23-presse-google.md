@@ -3,9 +3,6 @@ title: 'Presse & Google'
 tags:
     - 'Transformation numérique'
     - Presse
-date: '2012-10-23'
-type: post
-locale: fr_FR
 ---
 
 Depuis des années, le monde de la Culture tente de se prémunir des tendances du marché et, protégé par tout un ensemble de mécaniques légales, vit dans un monde d'offre sans forcément qu'il y ait une demande équivalente. Comme cela ne fonctionne pas bien, la Culture cherche en permanence des poches d'argent à percer et la dernière en date est celle de Google que la Presse (car c'est elle qui monte à la charge cette fois) accuse de vivre sur ses contenus. Car ma petite madame, rendez-vous compte, c'est quand même honteux qu'un moteur de recherche indexe les contenus qui ont été optimisés spécifiquement pour ce moteur… Hum.

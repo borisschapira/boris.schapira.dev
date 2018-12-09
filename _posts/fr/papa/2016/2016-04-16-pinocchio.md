@@ -1,8 +1,5 @@
 ---
 title: Pinocchio
-date: '2016-04-16'
-type: post
-locale: fr_FR
 ---
 
 > — Papa, pourquoi Pinocchio et son Papa ils sont dans la baleine ? C'est quoi la fin de l'histoire après ?  

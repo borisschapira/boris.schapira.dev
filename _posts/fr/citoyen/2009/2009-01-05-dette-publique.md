@@ -4,9 +4,6 @@ tags:
     - Finance
     - 'Dette publique'
     - Économie
-date: '2009-01-05'
-type: post
-locale: fr_FR
 ---
 
 Au menu aujourd'hui, des éléments de réponse aux questions suivantes :

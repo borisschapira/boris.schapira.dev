@@ -1,8 +1,5 @@
 ---
 title: '«&#160;I am Legend&#160;» : c''est vous qui voyez'
-date: '2007-12-23'
-type: post
-locale: fr_FR
 ---
 
 Après le fabuleux cocktail de mardi dernier, direction une petite salle obscure pour voir en avant-première le dernier film en salle affichant Will Smith.

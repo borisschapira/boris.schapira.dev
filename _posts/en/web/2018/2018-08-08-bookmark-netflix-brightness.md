@@ -1,11 +1,8 @@
 ---
 title: 'Netflix: how to increase video brightness'
 i18n-key: bookmark-netflix-brightness
-date: '2018-08-08'
-type: post
 tags:
     - Netflix
-locale: en_US
 ---
 
 My kids are on vacation with their grandmothers, which leaves me a lot of free time to binge-watch TV shows on Netflix. Except I often get the impression that the Netflix videos are darker than they ought to be, aren't they?

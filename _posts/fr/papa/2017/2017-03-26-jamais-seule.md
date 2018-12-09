@@ -1,8 +1,5 @@
 ---
 title: 'Jamais seule'
-date: '2017-03-26'
-type: post
-locale: fr_FR
 ---
 
 Ma femme me chambre un peu parce que selon elle, j'ai "un petit fan club" de mamans [sur WeMoms](/2016/01/wemoms-app/).

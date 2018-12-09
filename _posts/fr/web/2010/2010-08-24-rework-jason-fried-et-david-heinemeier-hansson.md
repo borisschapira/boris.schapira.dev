@@ -2,9 +2,6 @@
 title: '«&#160;Rework&#160;», Jason Fried et David Heinemeier Hansson'
 tags:
     - Management
-date: '2010-08-24'
-type: post
-locale: fr_FR
 ---
 
 Avant de véritablement commencer à lire "Business Model Generation" (dont je ferai une critique plus tard), j'ai pris trois jours pour lire ce livre, prêté par Oncle Tom…

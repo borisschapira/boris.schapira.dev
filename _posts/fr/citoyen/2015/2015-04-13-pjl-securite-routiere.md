@@ -4,9 +4,6 @@ tags:
     - Numérique
 series:
     - 'Loi Renseignement'
-date: '2015-04-13'
-type: post
-locale: fr_FR
 ---
 
 Ainsi commença l'histoire…

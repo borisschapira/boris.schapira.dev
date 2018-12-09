@@ -1,8 +1,5 @@
 ---
 title: 'Burka or not burka'
-date: '2009-06-19'
-type: post
-locale: fr_FR
 ---
 
 En discutant aujourd'hui avec des collègues, je me suis rendu compte à quel point ils étaient contre le port de la burka et combien ils seraient globalement favorables à une loi l'interdisant. Mon avis est plus proche de celui d'[Autheuil](http://authueil.org/?2009/06/18/1363-masquer-les-signes-visibles)&nbsp;: je trouve ça idiot.

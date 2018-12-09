@@ -3,9 +3,6 @@ title: 'Read Write Web : les informations du rapport Hadopi sont biaisées'
 tags:
     - Numérique
 series: Hadopi
-date: '2008-11-19'
-type: post
-locale: fr_FR
 slug: read-write-web-les-informations-du-rapport-hadopi-sont-biaisees
 ---
 

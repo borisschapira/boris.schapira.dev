@@ -3,9 +3,6 @@ title: 'Carrington Blog 2.0 FR'
 tags:
     - Développement
     - Wordpress
-date: '2009-05-02'
-type: post
-locale: fr_FR
 ---
 
 [Crowd Favorite](http://crowdfavorite.com/) vient de livrer son thème wordpress Carrington Blog 2.0\. J'en ai profité pour compiler une version française du thème.

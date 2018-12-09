@@ -2,9 +2,6 @@
 title: 'Maîtrise et expertise'
 tags:
     - Management
-date: '2015-03-25'
-type: post
-locale: fr_FR
 ---
 
 Tous les enseignants ont vécu ce moment. Parfois, lors de la première répétition d'un cours mais plus souvent à la première question posée par un élève. Ce moment où l'enseignant se rend compte qu'il ne maîtrise pas complètement son sujet. Tous les gens qui ont enseigné m'ont fait le même témoignage&nbsp;:

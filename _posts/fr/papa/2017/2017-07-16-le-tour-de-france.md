@@ -1,8 +1,5 @@
 ---
 title: 'Le Tour de France'
-date: '2017-07-16'
-type: post
-locale: fr_FR
 ---
 
 Le grand revient de quelques jours passés avec ses grand-parents à suivre le Tour de France.

@@ -3,9 +3,6 @@ title: 'Google Analytics et la performance Web'
 tags:
     - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2012/05/03/google-analytics-et-la-performance-web/'
-date: '2012-05-03'
-type: post
-locale: fr_FR
 ---
 
 L’équipe de Google Analytics a publié [un article donnant quelques chiffres sur la performance Web à travers le monde](http://analytics.blogspot.fr/2012/04/global-site-speed-overview-how-fast-are.html), issus de leur collecte de données. Si l’on peut se féliciter que la problématique de la performance Web soit abordée (tant elle reste encore un sujet méconnu, à tort), il est dommage que la Team GA se permette de livrer de telles informations sans prendre davantage de précaution quant à leur interprétation.

@@ -1,8 +1,5 @@
 ---
 title: 'Le pyjama de tonton'
-date: '2015-09-16'
-type: post
-locale: fr_FR
 ---
 
 On a reçu le pyjama envoyé par Tonton pour le petit. Je suis jaloux.

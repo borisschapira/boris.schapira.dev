@@ -6,9 +6,6 @@ tags:
     - Humour
     - Insolite
     - Société
-date: '2008-09-09'
-type: post
-locale: fr_FR
 ---
 
 En visite chez mon grand-père, je suis tombé sur un ouvrage de sa bibliothèque qui m'a bien fait rire : "**Convenances et bonnes manières**" de Berthe Bernage, édité en 1961 par Gautier-Languereau. Dans ce recueil sont décrits les **usages et pratiques de la bonne société**. Le ton employé est légèrement **ampoulé** et le contenu souvent **conservateur**, voire carrément **sexiste**.

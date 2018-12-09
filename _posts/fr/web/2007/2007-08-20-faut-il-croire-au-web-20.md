@@ -3,9 +3,6 @@ title: 'Faut-il croire au Web 2.0 ?'
 tags:
     - Technologie
     - Web
-date: '2007-08-20'
-type: post
-locale: fr_FR
 ---
 
 Alors que les spéculations vont bon train sur les sociétés du Web 2.0 (n'est-ce pas le fer de lance de [TechCrunch](http://techcrunch.com/europe/), un des blogs les plus consultés de la blogosphère ?), il existe quelques réticents aux principes qui ont fait le succès de ces "nouvelles solutions". [Jaron Lanier](http://edge.org/3rd_culture/lanier06/lanier06_index.html), que j'ai découvert via [Transnets](http://pisani.blog.lemonde.fr/2007/08/16/contre-web2-jaron-lanier/), fait visiblement partie de ceux-là …

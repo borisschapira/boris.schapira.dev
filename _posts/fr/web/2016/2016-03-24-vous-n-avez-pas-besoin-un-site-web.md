@@ -2,9 +2,6 @@
 title: 'Vous n''avez pas besoin d''un site web'
 tags:
     - 'Transformation numérique'
-date: '2016-03-24'
-type: post
-locale: fr_FR
 ---
 
 > **Vous n’avez pas besoin d’un site web.**

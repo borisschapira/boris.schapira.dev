@@ -3,9 +3,6 @@ title: 'Mono C# compiler is now C# 4.0 feature complete'
 canonical: 'https://www.nexeo.fr/blog/2009/12/14/mono-c-compiler-is-now-c-4-0-feature-complete/'
 tags:
     - Nexdotnet
-date: '2009-12-14'
-type: post
-locale: fr_FR
 ---
 
 C’est Marek Safar qui l’annonce sur son blog et chez NexDotNet, ça nous rend tous choses… <span lang="en">Well done guys</span> !

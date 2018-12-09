@@ -1,8 +1,5 @@
 ---
 title: 'Et pourquoi pas Youtube ?'
-date: '2014-12-05'
-type: post
-locale: fr_FR
 ---
 
 Quand on parle de vidéo publique en ligne, la plupart des gens pensent immédiatement à Youtube comme <abbr lang="en" title="Online Video Platform">OVP</abbr>, en raison de son incroyable popularité.

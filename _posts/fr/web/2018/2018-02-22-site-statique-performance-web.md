@@ -1,13 +1,10 @@
 ---
 title: 'Meilleure UX, meilleures performances : la nouvelle donne du web statique'
 i18n-key: static-website
-date: '2018-02-22'
 canonical: 'https://blog.dareboost.com/fr/2018/02/site-statique-performance-web/'
-type: post
 tags:
     - 'Performance Web'
     - JAMStack
-locale: fr_FR
 loadTwitterWjs: true
 cloudinary_logo: dareboost-logo
 ---

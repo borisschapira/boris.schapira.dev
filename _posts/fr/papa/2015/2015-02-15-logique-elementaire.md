@@ -1,8 +1,5 @@
 ---
 title: 'Logique élémentaire'
-date: '2015-02-15'
-type: post
-locale: fr_FR
 ---
 
 > — C'est quoi que tu manges, là ?  

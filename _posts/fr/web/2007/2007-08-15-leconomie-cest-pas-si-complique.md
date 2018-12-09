@@ -3,9 +3,6 @@ title: 'L''Economie, c''est pas si compliqué'
 tags:
     - Économie
     - Subprime
-date: '2007-08-15'
-type: post
-locale: fr_FR
 ---
 
 On parle beaucoup en ce moment des "Subprimes" qui feraient s'écrouler les banques et qui obligeraient les institutions régulatrices à injecter des liquidités sur le marché pour ne pas que tout s'effondre. On pourrait penser qu'il s'agit de choses très complexes mais en réalité il s'agit de petits problèmes humains qui mis bout-à -bout…

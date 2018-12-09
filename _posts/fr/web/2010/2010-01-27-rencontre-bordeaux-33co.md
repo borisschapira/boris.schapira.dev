@@ -3,9 +3,6 @@ title: 'Rencontre Viadeo «&#160;Bordeaux 33CO&#160;»'
 tags:
     - Emploi
     - 'Me, myself and I'
-date: '2010-01-27'
-type: post
-locale: fr_FR
 ---
 
 Maintenant que la page parisienne de ma vie est tournée (et je ne suis pas mécontent), il est temps pour moi de découvrir les opportunités qu'offre Bordeaux. Cette ville, magnifique et que j'aime, je la connais finalement assez mal, surtout au niveau du tissus socio-économique.

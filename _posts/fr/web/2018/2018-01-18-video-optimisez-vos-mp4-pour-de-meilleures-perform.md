@@ -1,13 +1,10 @@
 ---
 title: 'Vidéo : optimisez vos MP4 pour de meilleures performances'
 i18n-key: optimize-mp4
-date: '2018-01-18'
 canonical: 'https://blog.dareboost.com/fr/2018/01/video-optimisez-vos-mp4-pour-de-meilleures-performances/'
-type: post
 tags:
     - 'Performance Web'
     - Video
-locale: fr_FR
 cloudinary_logo: dareboost-logo
 slug: video-optimisez-vos-mp4-pour-de-meilleures-performances
 ---

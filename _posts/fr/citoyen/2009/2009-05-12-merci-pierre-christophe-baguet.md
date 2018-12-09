@@ -3,9 +3,6 @@ title: 'Merci, Pierre-Christophe Baguet'
 tags:
     - Numérique
 series: Hadopi
-date: '2009-05-12'
-type: post
-locale: fr_FR
 ---
 
 Je me joins à l'initiative de [Darklg](http://darklg.me/2009/05/merci-michel-herbillon/) et remercie chaleureusement mon député **Pierre-Christophe Baguet** pour avoir voté **en faveur** du projet de loi Hadopi.

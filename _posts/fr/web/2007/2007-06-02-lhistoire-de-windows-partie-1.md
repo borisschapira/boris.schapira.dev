@@ -3,9 +3,6 @@ title: 'De MS-DOS à Vista'
 tags:
     - Technologie
     - Windows
-date: '2007-06-02'
-type: post
-locale: fr_FR
 ---
 
 On décrie souvent les systèmes d'exploitation de Microsoft, et c'est vrai qu'ils ne sont pas parfait et que beaucoup se sont imposés grâce aux partenariats constructeurs permettant à Microsoft de s'assurer de la pré-installation de Windows à l'achat d'une nouvelle machine. À l'approche de la sortie de Windows Vista, j'ai voulu faire un bref retour sur l'histoire des systèmes d'exploitation vendus par Microsoft…

@@ -1,8 +1,5 @@
 ---
 title: 'Jeux de boules'
-date: '2018-03-13'
-type: post
-locale: fr_FR
 ---
 
 Le grand a mis une poubelle au pied de la table basse. Du bout d'un baton de bois, il s'apprête à pousser une boule en mousse pour qu'elle tombe dedans. Il invite son frère à le rejoindre.

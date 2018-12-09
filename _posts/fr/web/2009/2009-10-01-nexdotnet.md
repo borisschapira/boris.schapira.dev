@@ -3,9 +3,6 @@ title: 'Projet NexDotNet : présentation'
 tags:
     - 'Me, myself and I'
     - Nexeo
-date: '2009-10-01'
-type: post
-locale: fr_FR
 ---
 
 Il y a plusieurs mois, [Nexeo](https://www.nexeo.fr/) a lancé une **consultation** auprès de ses collaborateurs pour transformer l'entreprise. Plusieurs groupes de réflexion ont été créés traitant de sujets divers comme le rôle du consultant, l'image de Nexeo ou encore les pôles de compétences des collaborateurs. Avec un collègue, nous nous sommes demandé ce que nous pouvions faire pour participer&nbsp;: nous avons créé **[Nexdotnet](http://nexdotnet.nexeo.fr/)**.

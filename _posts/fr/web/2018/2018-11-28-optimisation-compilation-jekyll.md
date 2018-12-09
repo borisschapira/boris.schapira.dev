@@ -1,15 +1,12 @@
 ---
 title: 'Optimisation du temps de compilation de Jekyll'
 i18n-key: optimisation-compilation-jekyll
-date: '2018-11-28'
 main_image: /assets/images/2018-11-28/jekyll.png
-canonical: https://jamstatic.fr/2018/11/28/optimisation-compilation-jekyll/
-type: post
+canonical: 'https://jamstatic.fr/2018/11/28/optimisation-compilation-jekyll/'
 tags:
     - Jekyll
     - JAMStatic
     - Outils
-locale: fr_FR
 ---
 
 Il y a trois ans, fatigué par WordPress et de sa galaxie de plugins douteux, j'ai décidé de migrer vers un générateur de site statique. Après quelques essais avec diverses solutions, j'ai opté pour Jekyll, dont la communauté me semblait plus mature.

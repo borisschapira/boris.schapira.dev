@@ -3,9 +3,6 @@ title: 'Promouvoir une culture numérique'
 tags:
     - Education
     - 'Transformation numérique'
-date: '2015-04-10'
-type: post
-locale: fr_FR
 ---
 
 ## il n'est jamais trop tard

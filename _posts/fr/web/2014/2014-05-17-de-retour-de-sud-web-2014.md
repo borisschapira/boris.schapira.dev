@@ -4,9 +4,6 @@ tags:
     - Conférences
 series:
     - 'Sud Web 2014'
-date: '2014-05-17'
-type: post
-locale: fr_FR
 ---
 
 ## De beaux projets, de belles personnes

@@ -1,8 +1,5 @@
 ---
 title: 'Dernier jour @ Microsoft France'
-date: '2007-08-31'
-type: post
-locale: fr_FR
 ---
 
 Comme vous pouvez le constater, c'est dur. Surtout quand il faut libérer des bras pour saisir les cadeaux… Tous les gens que j'ai rencontré m'ont posé les mêmes questions, alors autant donner les réponses ici.

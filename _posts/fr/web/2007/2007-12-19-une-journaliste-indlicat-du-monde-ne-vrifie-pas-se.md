@@ -6,9 +6,6 @@ tags:
     - Etudiants
     - Microsoft
     - MSP
-date: '2007-12-19'
-type: post
-locale: fr_FR
 slug: une-journaliste-indlicat-du-monde-ne-vrifie-pas-ses-infos
 ---
 

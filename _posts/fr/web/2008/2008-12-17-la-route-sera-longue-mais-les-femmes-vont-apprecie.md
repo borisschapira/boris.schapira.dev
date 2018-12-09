@@ -3,9 +3,6 @@ title: 'La route sera longue (mais les femmes vont apprécier)'
 tags:
     - Finance
     - Économie
-date: '2008-12-17'
-type: post
-locale: fr_FR
 slug: la-route-sera-longue-mais-les-femmes-vont-apprecier
 ---
 

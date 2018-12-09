@@ -1,8 +1,5 @@
 ---
 title: 'De l''art d''être précis'
-date: '2016-06-19'
-type: post
-locale: fr_FR
 ---
 
 Toujours, toujours être précis dans la consigne. Par exemple : "Ne fais pas pipi sur toi".

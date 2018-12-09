@@ -4,9 +4,6 @@ tags:
     - Société
     - Éducation
     - Note2Be
-date: '2008-03-07'
-type: post
-locale: fr_FR
 ---
 
 Prenez votre shaker. Ajoutez une grosse cuillerée d'Internet, cet espace virtuel où chaque nouvelle possibilité est à la fois perçue comme novatrice et comme dangereuse. Glissez une pincée d'Education Nationale, institution française remplie d'adeptes du porté de pancartes. Secouez, ramassez les morceux…

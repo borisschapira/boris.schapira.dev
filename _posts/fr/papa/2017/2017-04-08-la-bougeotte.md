@@ -1,8 +1,5 @@
 ---
 title: 'La bougeotte'
-date: '2017-04-08'
-type: post
-locale: fr_FR
 ---
 
 Mon plus jeune fils ne tient pas en place deux minutes. Rester assis, pour lui, est un défi de chaque instant.

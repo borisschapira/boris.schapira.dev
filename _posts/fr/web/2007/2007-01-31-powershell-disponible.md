@@ -4,9 +4,6 @@ tags:
     - Développement
     - Technologie
     - .NET
-date: '2007-01-31'
-type: post
-locale: fr_FR
 ---
 
 Comme certains d'entre vous le savent, Powershell est une interface en ligne de commande proche de celles que l'on peut rencontrer sur les diverses distributions Linux. Disponible en version RTM, vous pouvez désormais le [télécharger ici](http://www.microsoft.com/fr-fr/download/details.aspx?id=23200).

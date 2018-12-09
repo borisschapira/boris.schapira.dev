@@ -3,9 +3,6 @@ title: 'Knight Industry Three Thousand'
 tags:
     - Culture
     - Souvenir
-date: '2008-03-19'
-type: post
-locale: fr_FR
 ---
 
 Quand j'avais encore l'âge de jouer aux billes, mon beau-père m'emmenait tous les matins à l'école en voiture. Il faisait souvent encore nuit et ça n'était pas facile tous les jours de trouver l'énergie nécessaire pour démarrer une bonne journée. Mais il avait une alliée inattendue. KITT.

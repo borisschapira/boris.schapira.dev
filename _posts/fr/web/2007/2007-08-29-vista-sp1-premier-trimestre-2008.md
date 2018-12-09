@@ -3,9 +3,6 @@ title: '(Exclusif) Vista SP1 : premier trimestre 2008'
 tags:
     - Technologie
     - 'Windows Vista'
-date: '2007-08-29'
-type: post
-locale: fr_FR
 ---
 
 Windows Vista &amp; Windows Server 2008 ont été construit à partir de la même souche de code, l'annonce suivante était donc des plus prévisibles&nbsp;: le **SP1 de Windows Vista sera disponible au premier trimestre 08**.

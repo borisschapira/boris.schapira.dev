@@ -1,8 +1,5 @@
 ---
 title: 'Le vétérinaire'
-date: '2017-11-27'
-type: post
-locale: fr_FR
 ---
 
 Les enfants me demandent pourquoi nous devons emmener le chat plusieurs fois chez le vétérinaire (le "docteur des animaux") alors je leur explique : le vermifuge, les vaccins, la castration…

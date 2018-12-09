@@ -4,9 +4,6 @@ main_image: /assets/images/2016-04-20/0.jpg
 tags:
     - HeForShe
     - Égalité
-date: '2016-04-20'
-type: post
-locale: fr_FR
 ---
 
 Plusieurs initiatives récentes permettent de rappeler que l'Histoire est écrite par les vainqueurs, c'est-à-dire les hommes, pour les hommes et en prenant bien soin d'en écarter les femmes.

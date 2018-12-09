@@ -1,11 +1,8 @@
 ---
 title: 'Netflix : augmenter la luminosité des vidéos'
 i18n-key: bookmark-netflix-brightness
-date: '2018-08-08'
-type: post
 tags:
     - Netflix
-locale: fr_FR
 ---
 
 Mes enfants sont en vacances chez leurs grand-mères, ce qui me laisse beaucoup de temps libre pour binge-watcher des séries TV sur Netflix. Sauf que je trouve que sur Netflix, l'image est souvent trop sombre. Pas vous ?

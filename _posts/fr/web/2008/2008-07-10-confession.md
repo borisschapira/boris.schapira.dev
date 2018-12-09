@@ -3,9 +3,6 @@ title: Confession
 tags:
     - Insolite
     - 'Me, myself and I'
-date: '2008-07-10'
-type: post
-locale: fr_FR
 ---
 
 Je n'en ai jamais assez, car c'est un fait&nbsp;: je suis un gros consommateur. Je pourrais demander à mes collègues de m'en donner un peu, mais le monde de la finance est hypocrite sur ce point&nbsp;: personne n'avoue en prendre ou en avoir. Je passe donc mes journées à m'arranger pour en grappiller des miettes qui, accumulées, me donnent l'extase sublime de la consommation. Mais ce n'est jamais aussi simple. Le travail me laisse peu de répit et le soir venu, les angoisses créées par le manque me retirent toute volonté d'aller me coucher.

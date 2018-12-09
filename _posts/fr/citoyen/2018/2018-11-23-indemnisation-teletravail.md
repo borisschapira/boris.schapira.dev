@@ -1,8 +1,5 @@
 ---
 title: 'Les indemnités liées au télétravail à domicile : stop ou encore ?'
-date: '2018-10-13'
-type: post
-locale: fr_FR
 loadTwitterWjs: true
 tags:
     - Travail

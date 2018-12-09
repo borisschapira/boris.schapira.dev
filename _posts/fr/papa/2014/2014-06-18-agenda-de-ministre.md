@@ -1,8 +1,5 @@
 ---
 title: 'Agenda de ministre'
-date: '2014-06-18'
-type: post
-locale: fr_FR
 ---
 
 > — Allez, petit dictateur, à table!  

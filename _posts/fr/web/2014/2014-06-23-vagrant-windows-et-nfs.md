@@ -3,9 +3,6 @@ title: 'Vagrant, Windows et NFS'
 tags:
     - Outils
     - Windows
-date: '2014-06-23'
-type: post
-locale: fr_FR
 ---
 
 Si vous développez avec Vagrant sous Windows, vous avez probablement déjà vu ce message&nbsp;:

@@ -4,9 +4,6 @@ tags:
     - Conférences
     - Windows
     - 'Me, myself and I'
-date: '2007-02-01'
-type: post
-locale: fr_FR
 ---
 
 Le 30 Janvier 2007, Microsoft livrera au grand public la dernière version de son système d'exploitation : Windows Vista. Quelles sont les promesses de ce système en matière de sécurité et de contrôle ?

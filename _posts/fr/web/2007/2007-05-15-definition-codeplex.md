@@ -6,9 +6,6 @@ tags:
     - CodePlex
     - Microsoft
     - 'Open Source'
-date: '2007-05-15'
-type: post
-locale: fr_FR
 ---
 
 CodePlex est le site d'hébergement de projets Open Source\*\* sponsorisé par Microsoft. Vous pouvez ainsi utilisez CodePlex pour créer des projets et les partager avec le monde entier, rejoindre des projets existants, utiliser les applications ainsi crées et fournir un retour d'expérience.

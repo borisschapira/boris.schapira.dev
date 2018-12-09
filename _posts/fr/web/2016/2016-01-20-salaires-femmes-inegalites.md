@@ -4,9 +4,6 @@ main_image: /assets/images/shared/he-for-she-logo.jpg
 tags:
     - HeForShe
     - Égalité
-date: '2016-01-20'
-type: post
-locale: fr_FR
 ---
 
 > Que pensez-vous du plan d'action suivant :

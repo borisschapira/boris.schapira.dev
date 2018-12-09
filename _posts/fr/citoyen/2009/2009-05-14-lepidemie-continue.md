@@ -3,9 +3,6 @@ title: 'L''épidémie continue'
 tags:
     - Finance
     - Économie
-date: '2009-05-14'
-type: post
-locale: fr_FR
 ---
 
 J'avais déjà parlé de l'[épidémie](/2009/01/lepidemie/), pronostiquant une aggravation de la situation suite à la multiplication des comportements à risques.

@@ -2,9 +2,6 @@
 title: 'Le syndrôme du marteau'
 tags:
     - Conseil
-date: '2016-09-07'
-type: post
-locale: fr_FR
 ---
 
 Dans une mission de conseil en choix de solutions, il y a toujours une des alternatives qui se retrouve là pour des raisons politiques évidentes, tant elle est loin du besoin. J'appelle ça **le syndrôme du marteau**.

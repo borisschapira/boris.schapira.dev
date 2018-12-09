@@ -2,9 +2,6 @@
 title: 'Éduquons nos garçons'
 tags:
     - Éducation
-date: '2016-11-25'
-type: post
-locale: fr_FR
 loadTwitterWjs: true
 ---
 

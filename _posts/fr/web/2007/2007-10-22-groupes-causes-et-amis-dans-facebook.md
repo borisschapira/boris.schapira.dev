@@ -2,9 +2,6 @@
 title: 'Groupes, causes et amis dans Facebook'
 tags:
     - Facebook
-date: '2007-10-22'
-type: post
-locale: fr_FR
 ---
 
 Depuis quelques semaines, je me pose des questions sur l'utilisation de Facebook, des groupes, des causes et des amis.

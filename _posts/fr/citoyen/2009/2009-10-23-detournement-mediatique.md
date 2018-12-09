@@ -3,9 +3,6 @@ title: 'Détournement médiatique'
 tags:
     - Numérique
 series: Hadopi
-date: '2009-10-23'
-type: post
-locale: fr_FR
 ---
 
 > It might not even have made much difference to them if they'd known exactly how much power the President of the Galaxy actually wielded: none at all. Only six people in the Galaxy knew that the job of the Galactic President was not to wield power but to attract attention away from it.  

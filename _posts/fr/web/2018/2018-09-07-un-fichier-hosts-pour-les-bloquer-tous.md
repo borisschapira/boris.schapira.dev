@@ -1,15 +1,12 @@
 ---
 title: 'Un fichier hosts pour les bloquer tous'
 i18n-key: hosts
-date: '2018-09-07'
 main_image: /assets/images/2018-09-07/gollum.jpg
-type: post
 tags:
     - WebPerf
     - 'Me, myself and I'
     - Outils
     - Productivité
-locale: fr_FR
 ---
 
 

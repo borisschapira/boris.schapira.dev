@@ -1,12 +1,6 @@
 ---
-title: "The curtain"
-date: '2018-03-07'
-type: post
+title: 'The curtain'
 i18n-key: the-curtain
-categories:
-    - papa
-publishDate: '2018-03-07'
-locale: en_US
 ---
 
 We were at the Mc Donald's and they were playing in the indoor playground. He came to me, excited.

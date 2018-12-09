@@ -1,12 +1,6 @@
 ---
-title: "Mobile carrier"
-date: '2018-03-21'
-type: post
+title: 'Mobile carrier'
 i18n-key: mobile-carrier
-categories:
-    - papa
-publishDate: '2018-03-21'
-locale: en_US
 ---
 
 The eldest discovered the theatre a few weeks ago. He's spending his time acting and playing us.
