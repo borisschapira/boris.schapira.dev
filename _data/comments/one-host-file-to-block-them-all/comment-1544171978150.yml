@@ -1,0 +1,7 @@
+_id: b7ba3913-cd5d-a091-67b9-7c92499362e8
+_parent: 'https://borisschapira.com/2018/09/one-host-file-to-block-them-all/'
+message: "Hi Bill,\r\n\r\nWith the host file, you can block any websites but not all of them because you can't use something like a regex. However, there must be some local proxy solutions that would allow you to better control all this, but I would rather not recommend any: I don't have enough perspective on their qualities and flaws."
+name: Boris Schapira
+email: e884b2ba7d66cfea7cb2185922c7a183
+replying_to: '1'
+date: '2018-12-07T08:39:38.150Z'

@@ -1,0 +1,10 @@
+_id: 9bbd4179-0458-bd05-c4e0-b644116dda7e
+_parent: 'https://borisschapira.com/2018/09/one-host-file-to-block-them-all/'
+message: >-
+  Question with host file.   We have 4 computers in a room and we want to block
+  all websites so nothing works how would setup a host file so no matter where
+  they tried to go they would end up 127.0.0.1 
+name: Bill
+email: d41d8cd98f00b204e9800998ecf8427e
+replying_to: ''
+date: '2018-12-06T16:59:08.035Z'
