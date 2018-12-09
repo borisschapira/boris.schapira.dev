@@ -17,9 +17,9 @@
     {% if include.index %}</a>{% endif %}
   {% endif %}
   <h3 class="comment__author">
-    {% unless include.url == blank or include.url == '' %}<a rel="external nofollow" href="{{ include.url }}" class="npe">{% endunless %}
+    {% if include.url %}<a rel="external nofollow" href="{{ include.url }}" class="npe">{% endif %}
         {{ include.name }}
-    {% unless include.url == blank or include.url == '' %}</a>{% endunless %}
+    {% if include.url %}</a>{% endif %}
   </h3>
   </header>
   <div class="comment__content">
