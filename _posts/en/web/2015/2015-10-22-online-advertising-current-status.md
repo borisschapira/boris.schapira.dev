@@ -3,7 +3,7 @@ title: 'Online Advertising: The Current Status'
 i18n-key: online-advertising
 tags:
     - Publicité
-    - 'Scripts tiers'
+    - 'Scripts Tiers'
     - 'Transformation numérique'
     - Presse
 canonical: 'https://blog.clever-age.com/en/2015/12/14/online-advertising-the-current-status/'

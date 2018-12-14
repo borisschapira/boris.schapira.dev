@@ -1,7 +1,7 @@
 ---
 title: 'La stratégie de la mouche'
 tags:
-    - 'État d''urgence'
+    - 'État d''Urgence'
     - Terrorisme
 ---
 

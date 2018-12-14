@@ -1,7 +1,7 @@
 ---
 title: 'Favorables ?'
 tags:
-    - 'État d''urgence'
+    - 'État d''Urgence'
 main_image: /assets/images/2016-01-31/1.png
 ---
 

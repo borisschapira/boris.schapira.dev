@@ -1,7 +1,7 @@
 ---
 title: 'Nos données personnelles, enjeu d''avenir'
 tags:
-    - 'Vie Privée'
+    - 'Vie privée'
     - 'Scripts Tiers'
 ---
 

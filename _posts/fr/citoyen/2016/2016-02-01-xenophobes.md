@@ -2,7 +2,7 @@
 title: Xénophobes
 tags:
     - Égalité
-    - 'État d''urgence'
+    - 'État d''Urgence'
 loadTwitterWjs: true
 ---
 

@@ -3,7 +3,7 @@ title: 'Publicité en ligne&nbsp;: un point sur la situation'
 i18n-key: online-advertising
 tags:
     - Publicité
-    - 'Scripts tiers'
+    - 'Scripts Tiers'
     - 'Transformation numérique'
     - Presse
 canonical: 'https://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-point-sur-la-situation/'
