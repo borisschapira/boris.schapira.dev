@@ -58,6 +58,11 @@ defaults:
       category: papa
   -
     scope:
+      path: "_pages/en/citizen"
+    values:
+      category: citoyen
+  -
+    scope:
       path: "_confs"
     values:
       layout: conf
@@ -94,9 +99,14 @@ defaults:
       category: web
   -
     scope:
-      path: "_posts/en/papa"
+      path: "_posts/en/dad"
     values:
       category: papa
+  -
+    scope:
+      path: "_posts/en/citizen"
+    values:
+      category: citoyen
   -
     scope:
       path: "assets/**/*.pdf"
