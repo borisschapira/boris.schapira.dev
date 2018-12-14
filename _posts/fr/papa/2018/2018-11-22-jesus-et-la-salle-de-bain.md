@@ -1,6 +1,6 @@
 ---
 title: 'Jésus et la salle de bain'
-layout: post
+published: false
 ---
 
 Quand les enfants parlent entre eux, ça nous permet de comprendre comment on les éduque :

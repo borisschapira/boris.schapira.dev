@@ -1,6 +1,7 @@
 ---
 title: 'Schapirat de bibliothèque'
 i18n-key: bookworm
+published: false
 ---
 
 Discussion avec le petit dernier sur les choses qu'on pourrait lui offrir à Noël (oui, on anticipe).

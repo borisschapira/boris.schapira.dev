@@ -1,6 +1,6 @@
 ---
 title: Anesthésie
-layout: post
+published: false
 ---
 
 Question du grand sur la "chirurgie". Ce que c'est, et à quoi ça sert. Je tente une explication…
