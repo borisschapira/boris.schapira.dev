@@ -23,7 +23,7 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: a93dd0fa640a187e0d0534cbd10d693ee7b92143
+  revision: 9221e3429d8e4ce3f5d6b039b84302ed2eafb4f2
   branch: master
   specs:
     jekyll (3.8.5)
@@ -87,7 +87,7 @@ GEM
     httpclient (2.8.3)
     i18n (1.2.0)
       concurrent-ruby (~> 1.0)
-    jekyll-algolia (1.4.8)
+    jekyll-algolia (1.4.9)
       algolia_html_extractor (~> 2.6)
       algoliasearch (~> 1.18)
       filesize (~> 0.1)
