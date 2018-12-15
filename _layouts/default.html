@@ -27,7 +27,7 @@ layout: microtypo
     <script>performance.mark('mark_declare_css_start');</script>
     <style>{% include styles/core.min.css %}</style>
     {% capture themeColor %}{{ site.data.styles.main.color }}{% endcapture %}
-    {% if page.category.size > 0 %}{% capture catdown %}{{ page.category|downcase }}{% endcapture %}{% capture themeColor %}{{ site.data.styles[catdown].color }}{% endcapture %}{%capture css_file %}{{ site.data.styles[catdown].css }}.min.css{% endcapture %}{% else %}{%capture css_file %}{{ site.data.styles.main.css }}.min.css{% endcapture %}{% endif %}
+    {% if page.category %}{% capture catdown %}{{ page.category|downcase }}{% endcapture %}{% capture themeColor %}{{ site.data.styles[catdown].color }}{% endcapture %}{%capture css_file %}{{ site.data.styles[catdown].css }}.min.css{% endcapture %}{% else %}{%capture css_file %}{{ site.data.styles.main.css }}.min.css{% endcapture %}{% endif %}
     <style>{% include styles/{{ css_file }} %}</style>
     <script>performance.mark('mark_declare_css_end');performance.measure('mark_declare_css', 'mark_declare_css_start', 'mark_declare_css_end');</script>
     <!-- endnomicrotypo -->
@@ -123,7 +123,7 @@ layout: microtypo
     {% if page.main_image %}
       {% capture socialImage %}{{ page.main_image | absolute_url }}{% endcapture %}
     {% else %}
-      {% if page.category.size > 0 %}
+      {% if page.category %}
         {% capture socialImage %}/assets/images/category/{{ page.category | slugify }}.jpg{% endcapture %}
         {% assign socialImage = socialImage | absolute_url %}
       {% endif %}
@@ -152,7 +152,7 @@ layout: microtypo
     <meta property="article:author" content="{{ site.author.name }}" />
     <meta property="article:published_time" content="{{ socialDate }}" />
 
-    {% if page.category.size > 0 %}
+    {% if page.category %}
     <meta property="article:section" content="{{ page.category }}" />
     {% endif %}
 
@@ -167,7 +167,7 @@ layout: microtypo
     <meta property="twitter:label1" content="Par" />
     <meta property="twitter:data1" content="{{ socialAuthor }}" />
 
-    {% if page.category.size > 0 %}
+    {% if page.category %}
       <meta property="twitter:label2" content="Catégorie" />
       <meta property="twitter:data2" content="{{ page.category }}" />
     {% endif %}
@@ -190,7 +190,7 @@ layout: microtypo
     <!-- endnomicrotypo -->
   </head>
 
-  <body id="top" class="theme-base-0g{% if page.category.size > 0 %} {{page.category}}{% endif %}">
+  <body id="top" class="theme-base-0g{% if page.category %} {{page.category}}{% endif %}">
 
     {% include symbols.svg.liquid %}
     <a class="skip-main" href="#main">{% t Aller directement au contenu principal %}</a>
@@ -288,8 +288,7 @@ layout: microtypo
           </li>
           <li>
             {% assign feed_url = "feed.xml" %}
-            {% assign cats_eyes = page.category|size %}
-            {% if cats_eyes > 0 %}
+            {% if page.category %}
               {% assign feed_url = page.category | t: page.locale | downcase | append: "/" | append: feed_url %}
             {% endif %}
             <a class="npe" rel="me nofollow" href="{{ feed_url | prepend: page.baseurl | relative_url }}">
