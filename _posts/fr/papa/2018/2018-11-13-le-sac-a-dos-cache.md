@@ -2,7 +2,6 @@
 layout: post
 title: 'Le sac à dos caché'
 i18n-key: hidden-backpack
-published: false
 ---
 
 Aujourd'hui, les garçons de 5 ans de la classe de mon fils lui ont volé son sac-à-dos fait maison qu'ils trouvaient "trop féminin" pour le cacher dans une autre classe où "il y a plus de filles".

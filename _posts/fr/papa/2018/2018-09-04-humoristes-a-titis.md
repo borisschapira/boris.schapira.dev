@@ -1,6 +1,5 @@
 ---
 title: 'Humoristes à titis'
-published: false
 ---
 
 Il y a quelques jours, j'ai regardé une intervention de Constance sur France Inter à la fin de laquelle elle montrait ses seins pour appuyer son propos comique, mais également politique[^seins]. Les garçons étaient autour de moi, écoutaient et on _beaucoup_ apprécié "la dame des titis".
@@ -33,7 +32,15 @@ Le petit en profite pour tenter un truc :
 > – Et on coupe avant qu'elle ne montre ses titis, alos ?  
 > – Euh, non !  
 
-Ayant compris qu'il était dans une impasse, il part en boudant. Le grand enchaine.
+Ayant compris qu'il était dans une impasse, il part en boudant.
+
+{% capture alt_text%}Un homme appuyé sur un bon se retourne en croisant les bras, d'un air boudeur.{% endcapture %}
+{% include video_as_a_gif.html.liquid
+url="/assets/images/papa/2018-09-04/sulky"
+alt=alt_text
+%}
+
+Le grand enchaine.
 
 > – Papa, tu peux tout voir sur ton téléphone ?  
 > – Oui, enfin presque tout.
@@ -41,6 +48,7 @@ Ayant compris qu'il était dans une impasse, il part en boudant. Le grand enchai
 > – Euh, probablement…  
 > – Pourquoi est-ce que nous, les enfants, on n'a pas le droit de voir des photos de dames qui montrent leurs titis et que les adultes, ils peuvent ?
 
-Aidez-moi, je fatigue. Dire que ça va continuer comme ça encore des années…
+Aidez-moi, je fatigue.  
+Dire que ça va continuer comme ça encore des années…
 
 [^seins]: L'intervention est [visible ici](https://www.youtube.com/watch?v=6U6ZcdVl7JA), pour les alliés ou les gens très intéressés par les poitrines (soyez cools, écoutez quand même l'édito qui le mérite).

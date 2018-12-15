@@ -1,6 +1,6 @@
 ---
 title: 'De qui suis-je le territoire ?'
-slug: "de-qui-suis-je-le-territoire"
+slug: de-qui-suis-je-le-territoire
 i18n-key: territory
 tags:
     - Web

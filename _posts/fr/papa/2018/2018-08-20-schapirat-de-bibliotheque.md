@@ -1,7 +1,6 @@
 ---
 title: 'Schapirat de bibliothèque'
 i18n-key: bookworm
-published: false
 ---
 
 Discussion avec le petit dernier sur les choses qu'on pourrait lui offrir à Noël (oui, on anticipe).
@@ -15,3 +14,11 @@ Discussion avec le petit dernier sur les choses qu'on pourrait lui offrir à No�
 > – Oui, comme ça je pourrais m'endormir avec des **CENTAINES** de livres autour de moi !
 
 Je précise qu'il ne sait pas encore lire. Qu'est-ce que ça va être quand il aura appris !
+
+
+
+{% capture alt_text%}Belle (de La Belle et La Bête) chantant à la bibliothèque{% endcapture %}
+{% include video_as_a_gif.html.liquid
+url="/assets/images/papa/2018-08-20/beast"
+alt=alt_text
+%}

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'La fabrique'
-published: false
 ---
 
 Les interrogations du petit dernier, 5 ans 1/2, sur la reproduction.

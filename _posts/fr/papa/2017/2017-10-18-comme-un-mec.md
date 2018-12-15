@@ -1,7 +1,7 @@
 ---
 title: 'Comme un mec'
 tag:
-  - Wonder Woman
+    - 'Wonder Woman'
 ---
 
 Depuis quelques jours, mon aîné a une nouvelle manie. Dès qu'il réussit quelque chose de difficile ou qui nécessite de la dextérité, il se congratule en disant qu'il est "un mec".

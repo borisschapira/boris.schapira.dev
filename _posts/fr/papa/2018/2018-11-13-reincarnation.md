@@ -1,6 +1,5 @@
 ---
-title: 'Réincarnation'
-published: false
+title: Réincarnation
 ---
 
 Le petit fait un dessin de chat sur une citrouille.

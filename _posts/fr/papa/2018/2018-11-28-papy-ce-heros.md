@@ -1,6 +1,5 @@
 ---
 title: 'Papy, ce héros'
-published: false
 ---
 
 Dans le parking souterrain du cinéma, les pneus de la voiture crissent.

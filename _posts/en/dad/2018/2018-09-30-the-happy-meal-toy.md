@@ -1,7 +1,6 @@
 ---
 title: "Happy Meal's toy"
 i18n-key: the-happy-meal-toy
-published: false
 ---
 
 I'm taking my boy to McDonald's. He takes a "Happy Meal for boys" and is offered a Transformers toy. He really loves the Transformers licence, but before he opens it, he realizes that the toy is very bad. So we exchange it for the "girl" toy, a "My Little Pony" figurine to comb that he likes instantly.
@@ -19,11 +18,25 @@ Surprised but amused by the exchange, I suppress my desire to intervene. My son 
 > Ah, I wish I had the same one, that's for sure.
 
 My son stops for a moment, looks at his pony, then at the man, straight in the eyes. He suddenly approaches him with a very determined look and I fear he's angry.  
-I rush to prevent him from trying to kick the guy and make things worse. But that's not what happens. He stops suddenly about thirty centimetres from the couple and starts whispering:
+I rush to prevent him from trying to kick the guy and make things worse. But that's not what happens. He stops suddenly about thirty centimetres from the couple and starts whispering.
+
+{% capture alt_text%}Sal Vulcano calls out to you saying "Psst, come here"{% endcapture %}
+{% include video_as_a_gif.html.liquid
+url="/assets/images/papa/2018-09-30/whisper"
+alt=alt_text
+%}
 
 > You know, actually, it's pretty easy, sir. You have to go for a Happy Meal, but with the girls' toy, huh, because the boys' toy sucks. It's a "Decepticon" that doesn't even change. You heard me well, eh, the girls' toy. Even if you're a boy. Do you... do you understand? Can you do it?
 
-He stares at the man as if waiting for a confirmation. In front of him, the young man is amazed, and red as a beet. His girlfriend starts to puff. My son suddenly seems to understand the situation and adds:
+He stares at the man as if waiting for a confirmation. In front of him, the young man is amazed, and red as a beet. His girlfriend starts to puff. My son suddenly seems to understand the situation.
+
+{% capture alt_text%}Will Ferrel in Elf{% endcapture %}
+{% capture caption_text%}Oh. Okay. I understand.{% endcapture %}
+{% include video_as_a_gif.html.liquid
+url="/assets/images/papa/2018-09-30/iunderstand"
+alt=alt_text
+caption=caption_text
+%}
 
 > Oh, yes, I understand! You don't say anything because you can't order a Happy Meal! You're right, that's only big enough for kids! So, since you're taller, you should order another burger with it, or you'll be really hungry.
 

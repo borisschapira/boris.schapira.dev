@@ -1,9 +1,8 @@
 ---
 title: 'Qui se déguisent'
 i18n-key: disguise
-published: false
 tag:
-  - Wonder Woman
+    - 'Wonder Woman'
 ---
 
 Le plus jeune (5 ans) explique aux plus âgés (7) la hiérarchie au sein des personnages DC Comics : 

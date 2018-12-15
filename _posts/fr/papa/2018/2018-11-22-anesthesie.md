@@ -1,6 +1,6 @@
 ---
 title: Anesthésie
-published: false
+i18n-tag: anesthesia
 ---
 
 Question du grand sur la "chirurgie". Ce que c'est, et à quoi ça sert. Je tente une explication…
@@ -16,3 +16,11 @@ Question du grand sur la "chirurgie". Ce que c'est, et à quoi ça sert. Je tent
 > – Quoi ?!
 
 J'ai réfléchi un bon moment avant de comprendre. Il a confondu "anestésie" et… le dessin animé "Anastasia".
+
+{% capture alt_text%}Une chauve-souris blanche qui fait du karaté.{% endcapture %}
+{% capture caption_text%}Bartok, d'Anastasia.{% endcapture %}
+{% include video_as_a_gif.html.liquid
+url="/assets/images/papa/2018-11-22/bartok"
+alt=alt_text
+caption=caption_text
+%}
