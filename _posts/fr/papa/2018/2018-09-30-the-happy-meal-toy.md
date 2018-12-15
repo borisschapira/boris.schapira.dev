@@ -4,7 +4,7 @@ i18n-key: the-happy-meal-toy
 slug: le-jouet-du-happy-meal
 ---
 
-J'emmène le petit chez Mc Donald. Il prend un _Happy Meal_ "garçon" et se voit offrir un jouet Transformers. Il a beau adoré les Transformers, il se rend compte avant de l'ouvrir que le jouet est nul. Nous allons donc l'échanger contre le jouet "fille", un "Mon Petit Poney" à peigner qui l'intéresse bien plus.
+J'emmène le petit chez Mc Donald. Il prend un _Happy Meal_ "garçon" et se voit offrir un jouet Transformers. Il a beau adorer les Transformers, il se rend compte avant de l'ouvrir que le jouet est nul. Nous allons donc l'échanger contre le jouet "fille", un "Mon Petit Poney" à peigner qui l'intéresse bien plus.
 
 En sortant du magasin, on croise un jeune homme et une jeune femmme, proches, appuyés contre le mur. Le jeune homme dévisage mon fils, s'attarde sur le poney rose dans ses mains et ricâne, avant de lancer d'un ton incroyablement sarcastique.
 
@@ -29,7 +29,7 @@ alt=alt_text
 
 > Tu sais, en fait, c'est assez facile, Monsieur. Il faut que tu prends un Happy Meal, mais avec le jouet des filles, hein, parce que le jouet des garçons, c'est nul, c'est un "Decepticon" qui se transforme même pas. Faut pas te tromper, hein, le jouet des filles. Même si tu es un garçon. Tu… tu as compris ? Tu vas y arriver ?
 
-Il fixe l'homme du regard comme pour attendre une confirmation. En face de lui, le jeune homme est interloqué, et rouge pivoine. Sa compagne commence à pouffer. Mon fils semble s'éclairé d'une compréhension nouvelle de la situation.
+Il fixe l'homme du regard comme pour attendre une confirmation. En face de lui, le jeune homme est interloqué, et rouge pivoine. Sa compagne commence à pouffer. Mon fils semble s'éclairer d'une compréhension nouvelle de la situation.
 
 {% capture alt_text%}Will Ferrel dans Elf{% endcapture %}
 {% capture caption_text%}Oh, ok, je comprends.{% endcapture %}

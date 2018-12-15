@@ -15,7 +15,7 @@ Question du grand sur la "chirurgie". Ce que c'est, et à quoi ça sert. Je tent
 > – Avec sa chauve-souris !
 > – Quoi ?!
 
-J'ai réfléchi un bon moment avant de comprendre. Il a confondu "anestésie" et… le dessin animé "Anastasia".
+J'ai réfléchi un bon moment avant de comprendre. Il a confondu "anesthésie" et… le dessin animé "Anastasia".
 
 {% capture alt_text%}Une chauve-souris blanche qui fait du karaté.{% endcapture %}
 {% capture caption_text%}Bartok, d'Anastasia.{% endcapture %}
