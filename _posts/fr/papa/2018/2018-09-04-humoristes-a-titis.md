@@ -2,7 +2,7 @@
 title: 'Humoristes à titis'
 ---
 
-Il y a quelques jours, j'ai regardé une intervention de Constance sur France Inter à la fin de laquelle elle montrait ses seins pour appuyer son propos comique, mais également politique[^seins]. Les garçons étaient autour de moi, écoutaient et on _beaucoup_ apprécié "la dame des titis".
+Il y a quelques jours, j'ai regardé une intervention de Constance sur France Inter à la fin de laquelle elle montrait ses seins pour appuyer son propos comique, mais également politique. Les garçons étaient autour de moi, écoutaient et on _beaucoup_ apprécié "la dame des titis".
 
 <!-- more -->
 
@@ -51,4 +51,6 @@ Le grand enchaine.
 Aidez-moi, je fatigue.  
 Dire que ça va continuer comme ça encore des années…
 
-[^seins]: L'intervention est [visible ici](https://www.youtube.com/watch?v=6U6ZcdVl7JA), pour les alliés ou les gens très intéressés par les poitrines (soyez cools, écoutez quand même l'édito qui le mérite).
+***
+
+Pour les personnes curieuses, l'intervention est [visible ici](https://www.youtube.com/watch?v=6U6ZcdVl7JA), pour les alliés ou les gens très intéressés par les poitrines (soyez cools, écoutez quand même l'édito qui le mérite).
