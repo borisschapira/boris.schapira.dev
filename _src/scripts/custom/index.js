@@ -85,9 +85,7 @@ ready(function () {
         perfmark(function () {
             var authorize_download = false;
             var connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
-            if (connection && typeof connection.effectiveType != 'undefined') {
-                authorize_download = !navigator.connection || connection.effectiveType == "4g";
-            }
+            authorize_download = !connection || connection.effectiveType == "4g";
             var videos = document.querySelectorAll('.videoWrapper.gif');
             videos.forEach(function (item) {
                 var insideVid = item.querySelector('video');
