@@ -6,7 +6,7 @@ require 'json'
 require 'yaml'
 
 namespace :prebuild do
-  task test: ['test:doctor', 'test:posts']
+  task test: ['test:contents', 'test:doctor']
 
   desc 'Generate prod configuration from ENV variables'
   task :config do
@@ -26,27 +26,44 @@ namespace :prebuild do
     end
 
     desc 'Test if content Front-Matter is YAML-valid'
-    task :posts do
-      @posts = []
+    task :contents do
+      @contents = []
       Dir.glob('_posts/**/*.{md,markdown}').each do |p|
-        @posts << p
+        @contents << p
       end
-      @posts.each do |post|
-        begin
-          YAML.load_file(post)
-        rescue Exception => e
-          puts post
-          puts e.message
-          raise 'Post syntax is not valid'
-        end
+      Dir.glob('_confs/*.{md,markdown}').each do |p|
+        @contents << p
       end
-      puts "#{@posts.size} valid posts"
+      Dir.glob('_quotes/*.{md,markdown}').each do |p|
+        @contents << p
+      end
+      Dir.glob('_data/**/*.yml').each do |p|
+        @contents << p
+      end
+      Dir.glob('_data/*.yml').each do |p|
+        @contents << p
+      end
+      @contents.each do |content|
+        test_fm(content)
+      end
+      puts "#{@contents.size} valid content files."
     end
   end
 
   # launch jekyll
   def jekyll(directives = '', env = 'development')
     sh 'JEKYLL_ENV=' + env + ' jekyll ' + directives
+  end
+
+  # test Front Matter in a content
+  def test_fm(content)
+    begin
+      YAML.load_file(content)
+    rescue Exception => e
+      puts content
+      puts e.message
+      raise 'Content syntax is not valid'
+    end
   end
 
 end
