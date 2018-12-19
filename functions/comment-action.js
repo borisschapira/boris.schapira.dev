@@ -14,7 +14,7 @@ function purgeComment(id) {
   var url = `https://api.netlify.com/api/v1/submissions/${id}?access_token=${process.env.API_AUTH}`;
   request.delete(url, function(err, response, body){
     if(err){
-      return console.log(err);
+      return console.log("Error during the comment deletion: " + err);
     } else {
       return console.log("Comment deleted from queue.");
     }
@@ -43,9 +43,6 @@ export function handler(event, context, callback) {
 
     // get the comment data from the queue
     var url = `https://api.netlify.com/api/v1/submissions/${id}?access_token=${process.env.API_AUTH}`;
-
-    console.log()
-
 
     request(url, function(err, response, body){
       if(!err && response.statusCode === 200){
@@ -86,6 +83,11 @@ export function handler(event, context, callback) {
             body: msg
           })
           return console.log(msg);
+        });
+      } else {
+        callback(null, {
+          statusCode: response.statusCode,
+          body: "Error during the recuperation of the comment: " + err
         });
       }
     });

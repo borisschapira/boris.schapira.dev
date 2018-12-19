@@ -35,6 +35,25 @@ require('dotenv').config();
 
   function createCommentFile(comment) {
     
+    if(!comment.timestamp) {
+      let temp_timestamp = new Date().getTime();
+      console.warn("No timestamp for a comment, creating one: " + temp_timestamp);
+      comment.timestamp = temp_timestamp;
+    }
+
+    if(!comment.guid) {
+      let temp_guid = (function guid() {
+        function s4() {
+          return Math.floor((1 + Math.random()) * 0x10000)
+            .toString(16)
+            .substring(1);
+        }
+        return s4() + s4() + '-' + s4() + '-' + s4() + '-' + s4() + '-' + s4() + s4() + s4();
+      })();
+      console.warn("No guid for a comment, creating one: " + temp_guid);
+      comment.guid = temp_guid;
+    }
+
     // Each comment is stored in a single file with a timestamp-based file path
     var comment_folder = path.resolve(__dirname, "../_data/comments/" + comment.slug + "/");
     var comment_filename = "comment-" + comment.timestamp + ".yml";
