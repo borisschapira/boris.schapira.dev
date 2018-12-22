@@ -141,3 +141,11 @@ Pourtant, quand on donne au peuple le pouvoir de prendre des décisions, il est 
 > <cite>"[Démocraties libérales](https://www.economica.fr/livre-democraties-liberales-magni-berton-raul,fr,4,9782717864700.cfm)", Raul Magni-Berton. Propos cités par Fabien Escalona dans l'article "[Le référendum d’initiative citoyenne, un outil utile mais partiel pour enrichir la démocratie](https://www.mediapart.fr/journal/france/211218/le-referendum-d-initiative-citoyenne-un-outil-utile-mais-partiel-pour-enrichir-la-democratie?onglet=full)".</cite>
 
 Je suis partagé entre lidée qu'il est nécessaire de réinventer des utopies politiques, et la conviction que la situation des plus faible ne sera pas améliorée par des projets qui sont non seulement difficilement réalisables, mais qui, en plus, n'améliorons pas nécessairement leurs problématiques.
+
+{% capture img_alt %}Un carnet de notes griffonées{% endcapture %}
+{% capture img_caption %}Les notes qui m'ont permis d'écrire cet article{% endcapture %}
+{% include rwd-image.html.liquid
+path="/assets/images/citoyen/2018-12-22/notes.jpg"
+alt=img_alt
+caption=img_caption
+%}
