@@ -23,7 +23,7 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: 9221e3429d8e4ce3f5d6b039b84302ed2eafb4f2
+  revision: 878e0ba29c6269a5c464776d1189bb7220ebcec4
   branch: master
   specs:
     jekyll (3.8.5)
@@ -53,7 +53,7 @@ GEM
     algolia_html_extractor (2.6.1)
       json (~> 2.0)
       nokogiri (~> 1.8.2)
-    algoliasearch (1.24.0)
+    algoliasearch (1.25.2)
       httpclient (~> 2.8, >= 2.8.3)
       json (>= 1.5.1)
     classifier-reborn (2.2.0)
@@ -62,7 +62,7 @@ GEM
     colorize (0.8.1)
     commonmarker (0.18.2)
       ruby-enum (~> 0.5)
-    concurrent-ruby (1.1.3)
+    concurrent-ruby (1.1.4)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -87,9 +87,9 @@ GEM
     httpclient (2.8.3)
     i18n (1.2.0)
       concurrent-ruby (~> 1.0)
-    jekyll-algolia (1.4.9)
+    jekyll-algolia (1.4.11)
       algolia_html_extractor (~> 2.6)
-      algoliasearch (~> 1.18)
+      algoliasearch (~> 1.25)
       filesize (~> 0.1)
       jekyll (~> 3.0)
       json (~> 2.0)
@@ -139,8 +139,8 @@ GEM
     public_suffix (3.0.3)
     rake (12.3.2)
     rb-fsevent (0.10.3)
-    rb-inotify (0.9.10)
-      ffi (>= 0.5.0, < 2)
+    rb-inotify (0.10.0)
+      ffi (~> 1.0)
     rouge (3.3.0)
     ruby-enum (0.7.2)
       i18n
