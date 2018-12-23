@@ -25,7 +25,7 @@ Après un chant pour célébrer son anniversaire, puis une introduction très pe
 
 De débat, son intervention n'avait que le nom, et sur les quatre personnes sur scène, il est le seul à avoir parlé pendant plus de deux heures, chaleureusement applaudi à chaque "pique" contre "les élites" (j'y reviendrai) ou compliment destiné aux Gilets Jaunes (nombreux – les compliments et les Gilets Jaunes).
 
-Le micro a ensuite circulé une demi-heure parmi les 500 personnes présentes pour des "questions" qui étaient en réalité soit des remerciements gênants, soit des ouvertures sur des sujets d'une importance capitale <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr> comme la création monétaire et l'Europe. Aucune critique de fond sur les propos d'Étienne Chouard, dont aucun débat.
+Le micro a ensuite circulé une demi-heure parmi les 500 personnes présentes pour des "questions" qui étaient en réalité soit des remerciements gênants, soit des ouvertures sur des sujets d'une importance capitale mais connexes au <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr> comme la création monétaire et l'Europe. Aucune critique de fond sur les propos d'Étienne Chouard, donc aucun débat.
 
 Les questions n'ont, de toutes façons, duré qu'une trentaine de minutes, à un moment où un quart des personnes étaient déjà parties (nous avions plus d'une heure de retard sur le planning).
 
