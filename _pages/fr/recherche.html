@@ -19,7 +19,9 @@ robots:
 
 {% raw %}
 <template data-proofer-ignore id="hit-template">
+    <article class="{{{category}}}">
     <h2><a href="{{{url}}}">{{{_highlightResult.title.value}}}</a></h2><p>{{{_highlightResult.content.value}}}</p>
+    </article>
 </template>
 {% endraw %}
 <template id="algolia-app-id">{{ site.algolia.application_id }}</template>
