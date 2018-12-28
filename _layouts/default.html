@@ -27,8 +27,7 @@ layout: microtypo
     <script>performance.mark('mark_declare_css_start');</script>
     <style>{% include styles/core.min.css %}</style>
     {% capture themeColor %}{{ site.data.styles.main.color }}{% endcapture %}
-    {% if page.category %}{% capture catdown %}{{ page.category|downcase }}{% endcapture %}{% capture themeColor %}{{ site.data.styles[catdown].color }}{% endcapture %}{%capture css_file %}{{ site.data.styles[catdown].css }}.min.css{% endcapture %}{% else %}{%capture css_file %}{{ site.data.styles.main.css }}.min.css{% endcapture %}{% endif %}
-    <style>{% include styles/{{ css_file }} %}</style>
+    <link href="/assets/styles/main.min.css" rel="stylesheet">
     <script>performance.mark('mark_declare_css_end');performance.measure('mark_declare_css', 'mark_declare_css_start', 'mark_declare_css_end');</script>
     <!-- endnomicrotypo -->
 
@@ -190,7 +189,7 @@ layout: microtypo
     <!-- endnomicrotypo -->
   </head>
 
-  <body id="top" class="theme-base-0g{% if page.category %} {{page.category}}{% endif %}">
+  <body id="top" class="theme-base-0g {% if page.category %}{{page.category}}{% else %}main{% endif %}">
 
     {% include symbols.svg.liquid %}
     <a class="skip-main" href="#main">{% t Aller directement au contenu principal %}</a>

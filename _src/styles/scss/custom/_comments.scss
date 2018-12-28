@@ -26,7 +26,7 @@
 		display: block;
 		width: 100%;
 		padding: 5px;
-		border: 1px solid lighten($color-gray, 20);
+		border: 1px solid var(--lightgray-color);
 	}
 	.btn {
 		font-size: 1rem;
@@ -44,17 +44,17 @@
 		color: #fff;
 		border: 1px solid #fff;
 		border-radius: 2px;
-		background-color: $color-main;
+		background-color: var(--main-color);
 		transition: all 500ms ease;
 	}
 	.btn:hover {
 		background: #fff;
-		color: $color-main;
-		box-shadow: inset 0 0 0 3px $color-main;
+		color: var(--main-color);
+		box-shadow: inset 0 0 0 3px var(--main-color);
 	}
 	.btn:disabled {
-		color: $color-gray;
-		border-color: $color-gray;
+		color: var(--gray-color);
+		border-color: var(--gray-color);
 	}
 	.info {
 		float: right;
@@ -73,7 +73,7 @@
 ul.comments {
 	padding: 0 0 0 1rem;
 	list-style-type: none;
-	border-left: 2px solid $color-main;
+	border-left: 2px solid var(--main-color);
 	.reply-to {
 		margin: 0.5rem;
 	}
@@ -114,9 +114,9 @@ ul.comments {
 		font-size: 0.8rem;
 		display: inline-block;
 		margin-bottom: 0;
-		color: $color-gray;
+		color: var(--gray-color);
 		a {
-			color: $color-gray;
+			color: var(--gray-color);
 		}
 	}
 }

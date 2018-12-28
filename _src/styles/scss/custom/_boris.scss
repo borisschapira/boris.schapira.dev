@@ -1,14 +1,9 @@
-$color-complement: complement($color-main);
-$color-complement-faded: lighten($color-complement, 40);
-$color-gray: rgb(112, 112, 112);
-$color-lightgray: lighten($color-gray, 40 - lightness($color-main));
-$color-ins-bg: lighten($color-main, 80 - lightness($color-main));
-$color-bg: lighten($color-main, 99 - lightness($color-main));
 $sidebar-size: 14rem;
+
 @import "vendor/poole",
 "vendor/hyde",
 "mixins/scrollbars";
-@include scrollbars(0.3rem, fade-out($color-main, 0.6));
+@include scrollbars(0.3rem);
 html {
 	font-size: calc( 16px + (22 - 16)*(100vw - 400px) / (1280-400));
 	line-height: 1.7;
@@ -28,7 +23,7 @@ html {
 }
 
 body {
-	background-color: #fff;
+	background-color: hsl(var(--main-color-hue), var(--main-color-saturation), 99%);
 	text-rendering: optimizeSpeed;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -49,14 +44,12 @@ img {
 
 .sidebar {
 	color: rgba(255, 255, 255, 0.5);
-	background-color: $color-main;
-
-	@include bg-svg($color-main);
+	background-color: var(--main-color);
 }
 
 .content a,
 .related-posts li a:hover {
-	color: $color-main;
+	color: var(--main-color);
 }
 
 // Elegant polyfill for (text-decoration-skip-ink: auto)
@@ -82,14 +75,14 @@ abbr[title],
 acronym[title] {
 	cursor: help;
 	text-decoration: inherit;
-	border-bottom: 0.1em dotted lighten($color-main, 40);
+	border-bottom: 0.1em dotted var(--lighten-color);
 }
 
 hr {
 	height: 1px;
-	color: $color-main;
+	color: var(--main-color);
 	border: 0;
-	background-color: $color-main;
+	background-color: var(--main-color);
 }
 
 
@@ -99,31 +92,29 @@ hr {
 .post header time {
 	display: inline-block;
 	margin-bottom: 0;
-	color: $color-gray;
+	color: var(--gray-color);
 	a {
-		color: $color-gray;
+		color: var(--gray-color);
 	}
 }
 
 .post footer {
 	font-size: 0.8em;
 	.contrib {
-		/* border: 1px solid darken($color-main,20);*/
 		a {
-			color: darken($color-main, 20);
+			color: var(--darken-color);
 		}
 	}
 	.discuss,
 	.share {
-		/*border: 1px solid $color-complement;*/
 		a {
-			color: darken($color-complement, 10);
+			color: var(--compliment-color);
 		}
 		input[type="submit"] {
 			padding: 5px 15px;
 			cursor: pointer;
 			border: 0 none;
-			background: $color-complement;
+			background: var(--compliment-color);
 		}
 	}
 	.contrib,
@@ -217,7 +208,7 @@ header.posts-h {
 	blockquote {
 		font-size: 1.1rem;
 		border: none;
-		border-left: 0.25rem solid $color-main;
+		border-left: 0.25rem solid var(--main-color);
 		li {
 			list-style-type: none;
 		}
@@ -232,7 +223,7 @@ header.posts-h {
 		&.emphasis {
 			text-align: right;
 			border: none;
-			border-right: 0.25rem solid $color-main;
+			border-right: 0.25rem solid var(--main-color);
 		}
 	}
 	@media (min-width: 30em) {
@@ -272,7 +263,7 @@ header.posts-h {
 			padding: 0;
 			 > video {
 				width: 100%;
-				border: 1px solid $color-main;
+				border: 1px solid var(--main-color);
 				object-fit: contain;
 			}
 			&.gif > video {
@@ -327,7 +318,7 @@ header.posts-h {
 		}
 	}
 	strong {
-		color: $color-main;
+		color: var(--main-color);
 	}
 
 	a {
@@ -335,29 +326,29 @@ header.posts-h {
 			background: none;
 		}
 		&:hover {
-			color: darken($color-main, 20);
+			color: var(--darken-color);
 		}
 	}
 
 	.read-more {
 		a:visited {
-			color: darken($color-main, 10);
+			color: var(--darken-color);
 		}
 	}
 	.canonical {
 		display: block;
 		margin: 2em auto;
 		padding: 10px;
-		border: 1px dotted $color-main;
+		border: 1px dotted var(--main-color);
 		font-style: italic;
 	}
 	ins {
 		padding: 3px;
 		text-decoration: none;
-		border: 1px dashed $color-lightgray;
+		border: 1px dashed var(--lightgray-color);
 		&.bloc {
 			display: block;
-			padding: 15px;
+			padding: 15px 15px 2em 15px;
 			position: relative;
 
 			&::after {
@@ -367,9 +358,10 @@ header.posts-h {
 				font-size: 0.8em;
 				right: 0;
 				bottom: 0;
-				background-color: $color-ins-bg;
-				border-left: 1px dashed $color-lightgray;
-				border-top: 1px dashed $color-lightgray;
+				color: var(--compliment-color);
+				background-color: var(--dazzled-color);
+				border-left: 1px dashed var(--lightgray-color);
+				border-top: 1px dashed var(--lightgray-color);
 			}
 		}
 	}
@@ -432,13 +424,13 @@ footer .wrap {
 			border: 2px solid #fff;
 		}
 		a:hover {
-			border-color: $color-main;
+			border-color: var(--main-color);
 		}
 		strong {
 			font-weight: 400;
 			color: #fff;
-			border-color: $color-main;
-			background-color: $color-main;
+			border-color: var(--main-color);
+			background-color: var(--main-color);
 		}
 	}
 }
@@ -452,7 +444,7 @@ footer .wrap {
 }
 
 ::selection {
-	background-color: $color-complement-faded;
+	background-color: var(--compliment-faded-color);
 }
 
 .videoWrapper {
@@ -494,7 +486,7 @@ footer .wrap {
 	&.icon-clock {
 		width: 0.7em;
 		margin: -0.15em 0;
-		color: lighten($color-gray, 10);
+		color: var(--lighten-color);
 	}
 }
 
@@ -511,7 +503,7 @@ footer .wrap {
 	li a:hover,
 	li a:focus {
 		text-decoration: none;
-		color: $color-complement;
+		color: var(--compliment-color);
 	}
 }
 
@@ -613,7 +605,7 @@ sup {
 		padding: 5px;
 		text-align: center;
 		color: #fff;
-		background-color: $color-main;
+		background-color: var(--main-color);
 	}
 }
 

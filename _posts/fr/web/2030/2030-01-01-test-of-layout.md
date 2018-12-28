@@ -229,6 +229,13 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
     canonical=page.canonical
 %}
 
+### Insertion
+
+Lorem ipsum dolor sit amet, <ins datetime="2018-12-26">consectetur</ins> adipiscing elit. Addebat etiam se in legem Voconiam iuratum contra eam facere non audere, nisi aliter amicis videretur. Traditur, inquit, ab Epicuro ratio neglegendi doloris. Amicitiam autem adhibendam esse censent, quia sit ex eo genere, quae prosunt.
+
+<ins class="bloc" datetime="2018-12-26">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Addebat etiam se in legem Voconiam iuratum contra eam facere non audere, nisi aliter amicis videretur. Traditur, inquit, ab Epicuro ratio neglegendi doloris. Amicitiam autem adhibendam esse censent, quia sit ex eo genere, quae prosunt.</ins>
+
+
 ## Rich figcaptions
 
 {% capture img_alt %}Deux post-its, comparant l'Agile façon Cargo Cult et les vraies livraisons successives{% endcapture %}
