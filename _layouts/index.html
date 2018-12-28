@@ -18,8 +18,14 @@ layout: default
         </header>
     {% endif %}
 
+    {% if page.category %}
+      {% assign displayCategory = false %}
+    {% else %}
+      {% assign displayCategory = true %}
+    {% endif %}
+
     {% for post in paginator.posts %}
-        {% include post.html.liquid postPage=false post=post %}
+        {% include post.html.liquid postPage=false post=post displayCategory=displayCategory %}
     {% endfor %}
 </section>
 
