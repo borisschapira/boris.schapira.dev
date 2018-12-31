@@ -104,8 +104,6 @@ article,
  * Update the foundational and global aspects of the page.
  */
 * {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
 html,
@@ -888,7 +886,8 @@ header.posts-h {
     .post-content figure > .videoWrapper > video {
       width: 100%;
       border: 1px solid var(--main-color);
-      object-fit: contain; }
+      -o-object-fit: contain;
+         object-fit: contain; }
     .post-content figure > .videoWrapper.gif > video {
       width: auto;
       min-width: 250px;
@@ -1163,6 +1162,9 @@ footer .wrap {
 
 #tag-cloud .set-50 {
   font-size: 5.7rem; }
+
+::-moz-selection {
+  background-color: var(--compliment-faded-color); }
 
 ::selection {
   background-color: var(--compliment-faded-color); }
