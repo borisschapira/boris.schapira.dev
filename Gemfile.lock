@@ -23,7 +23,7 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: 878e0ba29c6269a5c464776d1189bb7220ebcec4
+  revision: 80104c177a7be1eb16d061ecc1b2d13536f84d80
   branch: master
   specs:
     jekyll (3.8.5)
@@ -71,7 +71,7 @@ GEM
     eventmachine (1.2.7)
     fast-stemmer (1.0.2)
     fastimage (2.1.5)
-    ffi (1.9.25)
+    ffi (1.10.0)
     filesize (0.2.0)
     forwardable-extended (2.6.0)
     html-proofer (3.9.3)
@@ -85,7 +85,7 @@ GEM
       yell (~> 2.0)
     http_parser.rb (0.6.0)
     httpclient (2.8.3)
-    i18n (1.2.0)
+    i18n (1.5.1)
       concurrent-ruby (~> 1.0)
     jekyll-algolia (1.4.11)
       algolia_html_extractor (~> 2.6)
@@ -146,7 +146,7 @@ GEM
       i18n
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
-    sass (3.7.2)
+    sass (3.7.3)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
