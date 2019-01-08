@@ -59,7 +59,7 @@ Une contre-vérité puisque même si les sociétés d'autoroute dégagent de gra
 
 [^autoroute]: On trouve beaucoup de ressources en ligne sur le coût de l'entretien des routes, du [rapport annuel de l'Union Routière de France](http://www.unionroutiere.fr/wp-content/uploads/2017/11/faits-et-chiffres-2017_Basse-def.pdf) à des comparaisons européennes, comme [celle du Ministère des transports, en 2006](https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/074000038.pdf).
 
-Mais évidemment, rapidement, c'est Emmanuel Macron, étant à la fois un ancien banquier très riche et un détenteur du pouvoir par l'élection, qui fût rapidement désigné comme une cible privilégiée. Appelé tantôt l'Empereur, le Souverain ou le Prince (bien qu'il n'ait pas été désigné de droit divin, ou soit "au-dessus des lois"), il cristallise l'ensemble de la critique du système anti-démocratique[^hyperpresident].
+Mais évidemment, rapidement, c'est Emmanuel Macron, étant à la fois un ancien banquier très riche et un détenteur du pouvoir par l'élection, qui fut rapidement désigné comme une cible privilégiée. Appelé tantôt l'Empereur, le Souverain ou le Prince (bien qu'il n'ait pas été désigné de droit divin, ou soit "au-dessus des lois"), il cristallise l'ensemble de la critique du système anti-démocratique[^hyperpresident].
 
 [^hyperpresident]: Pour ma part, si j'avais voulu critiquer le Président, j'aurais utilisé le terme de "Monarque", mais cela ne date pas de Macron. Tel que je le conçois, c'est sous Sarkozy que le Premier Ministre a cessé d'être le chef opérationnel du Gouvernement et est devenu le simple exécutant, non pas d'une ligne directrice politique, mais bien des décisions précises du seul Président. Le système politique qu'on appelle désormais "omniprésident" se rapproche donc d'une monarchie constitutionnelle à mandat de durée limitée.
 
@@ -77,7 +77,7 @@ La légitimité de cette solution tient d'une part au "bon sens", au "sens commu
 
 D'autre part, elle serait une bonne solution car une solution ancrée dans la démocratie athénienne. Comme si la démocratie athénienne était à la fois un standard défini – ce qui me semble difficile à prouver dans la mesure où elle a elle-même évolué au fil de nombreuses réformes – et un idéal – oubliant que le tirage au sort y était effectué "entre riches" (même si ce n'est pas exactement vrai, s'agissant plutôt de citoyens-soldats), les exploités de l'époque étant leurs esclaves, qui n'avaient pas leur mot à dire.
 
-Cette manipulation historique m'a gêné, mais n'était pas isolée. D'un point de vue plus général, j'ai été surpris de n'entendre aucun historique permettant de comprendre la construction des systèmes actuels : ni pour critiquer la Constitution existante, ni pour aborder la construction d'autres modèles de votation (comme le modèle fédéral Suisse). Le <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr>, bien qu'absolument pas défini – l'objectif de la soirée étant à la base d'y réfléchir – est _de facto_ considérer comme un idéal puisqu'issu du peuple.
+Cette manipulation historique m'a gêné, mais n'était pas isolée. D'un point de vue plus général, j'ai été surpris de n'entendre aucun historique permettant de comprendre la construction des systèmes actuels : ni pour critiquer la Constitution existante, ni pour aborder la construction d'autres modèles de votation (comme le modèle fédéral Suisse). Le <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr>, bien qu'absolument pas défini – l'objectif de la soirée étant à la base d'y réfléchir – est _de facto_ considéré comme un idéal puisqu'issu du peuple.
 
 J'avais un peu l'impression d'écouter quelqu'un me dire que parce que l'homéopathie était un fléau, il fallait jeter l'ensemble de la pharmacopée moderne et revenir au bon temps de l'expérimentation sur des cadavres pour redécouvrir nous-même les fondements de la médecine…
 
@@ -107,9 +107,9 @@ Je raconte ici ce que j'ai vu et entendu hier soir, il s'agit donc, pour beaucou
 
 D'une part, cela signifie que nous serions capables de contrôler des choses après l'instauration du RIC que nous ne serions pas capables de contrôler avant. Cela me semble difficile à imaginer. 
 
-D'autre part, cela insinue qu'idéalement, il faudrait contrôler et forcer un candidat à appliquer pleinement son programme dès son élection, ce qui ne me semble pas non plus des plus souhaitable. Un mandat dure un temps certains, et il peut arriver de nombreuses choses à la Nation qui peuvent impliquer de modifier la ligne directrice pour laquelle le candidat a été élu. Avec des réflexions comme ça, aucun Président ne devrait être sensible à l'expression de la colère du peuple, par exemple.
+D'autre part, cela insinue qu'idéalement, il faudrait contrôler et forcer un candidat à appliquer pleinement son programme dès son élection, ce qui ne me semble pas non plus des plus souhaitable. Un mandat dure un temps certain, et il peut arriver de nombreuses choses à la Nation qui peuvent impliquer de modifier la ligne directrice pour laquelle le candidat a été élu. Avec des réflexions comme ça, aucun Président ne devrait être sensible à l'expression de la colère du peuple, par exemple.
 
-Enfin, cette réflexion, dans son contexte, me semble d'autant plus malvenue qu'en dépit des désaccord profonds que j'ai avec la politique libérale d'Emmanuel Macron, que je trouve destructrice, je la trouve absolument cohérente avec l'ensemble des discours menés lors des débats précédents l'élection. Pour moi, Macron déroule son programme. Ça n'est pourtant pas, pour autant, à mon sens, une bonne chose.
+Enfin, cette réflexion, dans son contexte, me semble d'autant plus malvenue qu'en dépit des désaccords profonds que j'ai avec la politique libérale d'Emmanuel Macron, que je trouve destructrice, je la trouve absolument cohérente avec l'ensemble des discours menés lors des débats précédant l'élection. Pour moi, Macron déroule son programme. Ça n'est pourtant pas, pour autant, à mon sens, une bonne chose.
 
 ### De la démocratie représentative
 
@@ -123,7 +123,7 @@ En tout état de cause, la mise en place d'un <abbr title="Référendum d'Initia
 
 Le troisième point qui me pose un très gros problème est la critique très sélective des médias. Étienne Chouard s'en est pris toute la soirée aux journaux qui sont la propriété de grands milliardaires et qui manipulent l'opinion. D'une part, j'ai une assez haute opinion des journalistes français pour penser que lorsque c'est le cas, l'information fuite malgré tout (où en est Bolloré, d'ailleurs, au niveau de la censure documentaire ?) et d'autre part, quitte à pousser la critique, je pense qu'il serait intéressant de s'interroger sur la notion de média. 
 
-Facebook, par exemple, est le principal media d'organisation des Gilets Jaunes ou des Gentils Virus. Possédé par un milliardaire, il ne se passe pas un jour sans qu'une fuite de données ne montre que la plate-forme est manipulée par des personnes avares des données privées de leurs utilisateurs, pour les revendre au plus offrant dans le cadre de campagne ciblées de manipulation politique. Ici, on ne parle pas de directives données par un dirigeant mais directement d'algorithmes qui sont développés dans ce but. Cependant, hier soir, de Facebook, pas un mot. Ou plutôt si, des invitations à rejoindre de nombreux groupes en ligne, en jouant sur l'émotion.
+Facebook, par exemple, est le principal media d'organisation des Gilets Jaunes ou des Gentils Virus. Possédé par un milliardaire, il ne se passe pas un jour sans qu'une fuite de données ne montre que la plate-forme est manipulée par des personnes avares des données privées de leurs utilisateurs, pour les revendre au plus offrant dans le cadre de campagnes ciblées de manipulation politique. Ici, on ne parle pas de directives données par un dirigeant mais directement d'algorithmes qui sont développés dans ce but. Cependant, hier soir, de Facebook, pas un mot. Ou plutôt si, des invitations à rejoindre de nombreux groupes en ligne, en jouant sur l'émotion.
 
 J'ai appris récemment que Polybe, Cicéron, Rousseau, Machiavel… croyaient tous qu'à la démocratie succéderait obligatoirement l'ochlocratie. Ou quand le pouvoir n'appartient plus au peuple (Demos), mais à la foule (Okhlos) à l'opinion manipulable. Cela me semble être un risque à considérer, quand on vit dans un monde où l'émotion (par adhésion totale ou indignation complète) semble avoir pris le pas sur le dialogue, et où notre construction intime devient [le territoire](/2018/12/de-qui-suis-je-le-territoire/) d'enjeux qui nous dépassent.
 
@@ -131,7 +131,7 @@ J'ai appris récemment que Polybe, Cicéron, Rousseau, Machiavel… croyaient to
 
 Un dernier point que je voudrais aborder ce soir, même s'il y aurait matière à débattre très longtemps : à aucun moment n'a été démontré la légitimité de l'urgence à imposer le <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr>, ni les conditions de son imposition (si ce n'est, dixit Étienne Chouard "par la force, en étant des millions dans les rues"). 
 
-Une modification de l'ampleur d'un <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr> constituant est une révolution et toute révolution fragilise en premier lieu les plus faibles. Beaucoup d'entre eux étaient là, hier soir, et en étaient conscient, comme exprimé par cet autre anonyme Gilet Jaune. 
+Une modification de l'ampleur d'un <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr> constituant est une révolution et toute révolution fragilise en premier lieu les plus faibles. Beaucoup d'entre eux étaient là, hier soir, et en étaient conscients, comme exprimé par cet autre anonyme Gilet Jaune. 
 
 > L'écologie, moi j'veux bien, mais ce n'est pas le sujet quand on n'arrive pas à boucler ses fins de mois !
 
@@ -140,7 +140,7 @@ Pourtant, quand on donne au peuple le pouvoir de prendre des décisions, il est 
 > « cela signifie que l’absence de compétence des électeurs, quand elle est démontrée, ne favorise pas des propositions irrationnelles ou contre-productives, mais simplement le statu quo »
 > <cite>"[Démocraties libérales](https://www.economica.fr/livre-democraties-liberales-magni-berton-raul,fr,4,9782717864700.cfm)", Raul Magni-Berton. Propos cités par Fabien Escalona dans l'article "[Le référendum d’initiative citoyenne, un outil utile mais partiel pour enrichir la démocratie](https://www.mediapart.fr/journal/france/211218/le-referendum-d-initiative-citoyenne-un-outil-utile-mais-partiel-pour-enrichir-la-democratie?onglet=full)".</cite>
 
-Je suis partagé entre l'idée qu'il est nécessaire de réinventer des utopies politiques, et la conviction que la situation des plus faible ne sera pas améliorée par des projets qui sont non seulement difficilement réalisables, mais qui, en plus, n'améliorons pas nécessairement leurs problématiques.
+Je suis partagé entre l'idée qu'il est nécessaire de réinventer des utopies politiques, et la conviction que la situation des plus faibles ne sera pas améliorée par des projets qui sont non seulement difficilement réalisables, mais qui, en plus, n'améliorerons pas nécessairement leurs problématiques.
 
 {% capture img_alt %}Un carnet de notes griffonées{% endcapture %}
 {% capture img_caption %}Les notes qui m'ont permis d'écrire cet article{% endcapture %}
