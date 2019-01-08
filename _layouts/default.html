@@ -139,6 +139,8 @@ layout: microtypo
     {% capture x_canonical %}x{{ page.canonical }}{% endcapture %}
     {% if x_canonical != "x" %}
       <link rel="canonical" href="{{ page.canonical }}" data-proofer-ignore/>
+    {% else %}
+      <link rel="canonical" href="{{ page.url | absolute_url }}" data-proofer-ignore/>
     {% endif %}
     <meta name="description" content="{{ socialDescription }}" />
     <meta property="og:url" content="{{ socialUrl }}" />
