@@ -3,7 +3,7 @@ title: 'La perfection au masculin'
 i18n-key: gillette
 ---
 
-Si vous ne l'avez pas encore vu et que vous comprenez l'anglais, je vous encourage fortement à regarder la nouvelle pub de Gillette aux États-Unis.
+Si vous ne l'avez pas encore vue et que vous comprenez l'anglais, je vous encourage fortement à regarder la nouvelle pub de Gillette aux États-Unis.
 
 <!-- more -->
 
