@@ -1,9 +1,12 @@
+---
+---
+
 // service-worker.js
 
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
     prefix: 'borisschapira-com',
-    suffix: 'f935e82b',
+    suffix: '{{ site.time | date: "%s" }}',
     precache: 'precache',
     runtime: 'runtime-cache'
 });
