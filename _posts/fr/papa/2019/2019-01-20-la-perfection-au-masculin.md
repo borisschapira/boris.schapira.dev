@@ -27,7 +27,7 @@ Pour conclure, cette chanson d'Eddy de Pretto qui tourne en boucle sur ma playli
 
 {% include media/youtube.html.liquid id="XfbM3LD0D9Q" title="Eddy de Pretto - Kid (Clip Officiel)" %}
 
-et la très belle réécriture au féminin, par Barbara Previ :
+et la très belle réécriture au féminin, par Barbara Pravi :
 
 {% include media/youtube.html.liquid id="ilGhJmfxi30" title="Barbara Pravi - Kid (réécriture)" %}
 
