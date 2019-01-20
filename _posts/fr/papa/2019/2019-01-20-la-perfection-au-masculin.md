@@ -1,0 +1,33 @@
+---
+title: 'La perfection au masculin'
+i18n-key: gillette
+---
+
+Si vous ne l'avez pas encore vu et que vous comprenez l'anglais, je vous encourage fortement à regarder la nouvelle pub de Gillette aux États-Unis.
+
+<!-- more -->
+
+{% include media/youtube.html.liquid id="koPmuEyP3a0" title="We Believe: The Best Men Can Be | Gillette (Short Film)" %}
+
+Beaucoup de choses ont été dites et continueront de l'être à propos de cette pub. Non, Gillette ne peut pas rattraper cent ans de _bodyshaming_ des femmes. Gillette ne peut pas expliquer aux hommes comment être meilleurs et, en même temps, continuer d'objectiver les femmes ou leur faire payer 15 % de [taxe rose](https://www.neonmag.fr/produits-pour-femmes-plus-chers-la-taxe-rose-existe-t-elle-vraiment-505677.html).
+
+Je ne recommande pas les produits de Gillette. Ce n'est pas de ça qu'il s'agit.
+
+Que cela nous plaise ou non, la publicité, les médias, font partie de l'environnement culturel de nos enfants. Si autant de français·e·s sont aujourd'hui intéressé·e·s par l'écologie, c'est aussi parce qu'il y avait foule, dans les années 80, devant Ushuaïa. L'émission était pourtant financée par Rhône-Poulenc, une des entreprises les plus polluantes de l'époque. D'un mal peut naitre un bien.
+
+On ne peut plus attendre. Nous devons voir ces messages à la télévision et sur les panneaux d'affichage dès maintenant parce que la masculinité toxique doit cesser. Nous devons utiliser tous les moyens possibles pour faire comprendre à nos garçons qu'ils doivent devenir les êtres humains décents que nous ne sommes pas tous.
+
+***
+
+Si le sujet de la masculinité toxique vous intéresse, je vous recommande vraiment le podcast "[Les Couilles sur la Table](https://www.binge.audio/category/les-couilles-sur-la-table/)" de [Victoire Tuaillon](https://twitter.com/vtuaillon). Toutes les deux semaines, accompagnée d'expert·e·s, elle interroge la ou plutôt les masculinités.
+
+***
+
+Pour conclure, cette chanson d'Eddy de Pretto qui tourne en boucle sur ma playlist :
+
+{% include media/youtube.html.liquid id="XfbM3LD0D9Q" title="Eddy de Pretto - Kid (Clip Officiel)" %}
+
+et la très belle réécriture au féminin, par Barbara Previ :
+
+{% include media/youtube.html.liquid id="ilGhJmfxi30" title="Barbara Pravi - Kid (réécriture)" %}
+

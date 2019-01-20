@@ -1,0 +1,19 @@
+---
+title: 'The best a man can be'
+i18n-key: gillette
+---
+
+If you haven't seen it yet, I strongly encourage you to look at Gillette's new ad.
+
+<!-- more -->
+
+{% include media/youtube.html.liquid id="koPmuEyP3a0" title="We Believe: The Best Men Can Be | Gillette (Short Film)" %}
+
+Many things have been said and will continue to be said about this ad. No, Gillette can't make up for a hundred years of body shaming women. Gillette can't explain to men how to be better and, in the same time, objectify women or make them pay a 15 % [pink tax](https://www.listenmoneymatters.com/the-pink-tax/).
+
+I do not recommend Gillette products. That's not what this is about.
+
+But whether we like it or not, advertising, the media, are part of our children's cultural environment. The French are nowadays concerned about the environment because they watched Ushuaïa in the 1980s, financed by Rhône-Poulenc, one of the most polluting companies of the time. Good can come from evil.
+
+We can't wait anymore. Like it or not, advertising is part of our children's cultural environment. We need to see these messages on TV and billboards right now because toxic masculinity has to stop. We must use all possible means to make our boys understand that they must become the decent human beings that not all of us are.
+

@@ -1,0 +1,18 @@
+---
+title: 'Comme un mec'
+i18n-key: 'like-a-man'
+---
+
+"Moi, j'ai trop envie de m'assoir comme un mec" a-t-il lâché alors que nous étions à table.
+
+<!-- more -->
+
+Sa mère et moi nous sommes regardé, immédiatement sur la même longueur d'onde. Nous avons mis nos chaises à côté de lui et lui avons montré comment certains hommes écartent leurs jambes pour dominer les gens autour d'eux, comme s'ils avaient des testicules en cristal. Ça l'a fait rire trente secondes, mais il s'est rapidement senti oppressé.
+
+Il ne veut pas être ce genre de mec.
+
+{% capture alt_text%}Un homme assis dans le métro gêne sa voisine par ses jambes écartées. Elle lève sa jambe et la pose, tendue, sur sa cuisse, ce qui le met très mal à l'aise.{% endcapture %}
+{% include video_as_a_gif.html.liquid
+url="/assets/images/papa/2019-01-19/manspreading"
+alt=alt_text
+%}
