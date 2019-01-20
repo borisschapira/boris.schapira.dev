@@ -9,7 +9,7 @@ Si vous ne l'avez pas encore vu et que vous comprenez l'anglais, je vous encoura
 
 {% include media/youtube.html.liquid id="koPmuEyP3a0" title="We Believe: The Best Men Can Be | Gillette (Short Film)" %}
 
-Beaucoup de choses ont été dites et continueront de l'être à propos de cette pub. Non, Gillette ne peut pas rattraper cent ans de _bodyshaming_ des femmes. Gillette ne peut pas expliquer aux hommes comment être meilleurs et, en même temps, continuer d'objectiver les femmes ou leur faire payer 15 % de [taxe rose](https://www.neonmag.fr/produits-pour-femmes-plus-chers-la-taxe-rose-existe-t-elle-vraiment-505677.html).
+Beaucoup de choses [ont été écrites](http://cheekmagazine.fr/societe/pub-gillette-masculinistes/) et continueront de l'être à propos de cette pub. Non, Gillette ne peut pas rattraper cent ans de _bodyshaming_ des femmes. Gillette ne peut pas expliquer aux hommes comment être meilleurs et, en même temps, continuer d'objectiver les femmes ou leur faire payer 15 % de [taxe rose](https://www.neonmag.fr/produits-pour-femmes-plus-chers-la-taxe-rose-existe-t-elle-vraiment-505677.html).
 
 Je ne recommande pas les produits de Gillette. Ce n'est pas de ça qu'il s'agit.
 
