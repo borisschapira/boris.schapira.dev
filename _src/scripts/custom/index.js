@@ -80,6 +80,19 @@ ready(function () {
     /***********************************************
      ***********************************************/
 
+    (function decorate_footnotes(){
+        var lang = document.getElementsByTagName('html')[0].getAttribute('lang'), alternatives = {
+            'en': 'return to the text',
+            'fr': 'retour au texte'
+        };
+        [...document.getElementsByClassName('footnote-backref')].forEach(function(item){
+            item.setAttribute('title', alternatives[lang]);
+        })
+    })()
+
+    /***********************************************
+     ***********************************************/
+
     (function videoPlayPause() {
 
         perfmark(function () {
