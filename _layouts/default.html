@@ -41,7 +41,11 @@ layout: microtypo
     <link rel="webmention" href="https://webmention.io/borisschapira.com/webmention" />
 
     <!-- RSS -->
-    <link rel="alternate" type="application/rss+xml" href="{{ site.author.feed }}">
+    {% assign feed_url = "feed.xml" %}
+    {% if page.category %}
+      {% assign feed_url = page.category | t: page.locale | downcase | append: "/" | append: feed_url %}
+    {% endif %}
+    <link rel="alternate" type="application/rss+xml" href="/{{ feed_url | prepend: page.baseurl | relative_url }}">
 
     <!-- Lang and indexation -->
     {% assign noindex = page.robots.noindex | default: false %}
@@ -288,11 +292,7 @@ layout: microtypo
             </a>
           </li>
           <li>
-            {% assign feed_url = "feed.xml" %}
-            {% if page.category %}
-              {% assign feed_url = page.category | t: page.locale | downcase | append: "/" | append: feed_url %}
-            {% endif %}
-            <a class="npe" rel="me nofollow" href="{{ feed_url | prepend: page.baseurl | relative_url }}">
+            <a class="npe" rel="me nofollow" href="/{{ feed_url | prepend: page.baseurl | relative_url }}">
               <span class="sr-only">{% t Abonnez-vous au flux %}</span>
               <svg class="icon icon-feed3" aria-hidden="true">
                 <use xlink:href="#icon-feed3"></use>
