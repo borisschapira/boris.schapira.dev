@@ -45,7 +45,7 @@ layout: microtypo
     {% if page.category %}
       {% assign feed_url = page.category | t: page.locale | downcase | append: "/" | append: feed_url %}
     {% endif %}
-    <link rel="alternate" type="application/rss+xml" href="/{{ feed_url | prepend: page.baseurl | relative_url }}">
+    <link rel="alternate" type="application/rss+xml" href="{{ feed_url | prepend: page.baseurl | relative_url }}">
 
     <!-- Lang and indexation -->
     {% assign noindex = page.robots.noindex | default: false %}
@@ -65,7 +65,7 @@ layout: microtypo
       <meta name="robots" content="{% if noindex %}no{% endif %}index, {% if nofollow %}no{% endif %}follow">
       {% endif %}
     {% endif %}
-    
+
     <!-- Social Media -->
     {% comment %} Date {% endcomment %}
     {% capture socialDate %}{{ page.date | date: "%Y-%m-%d" }}{% endcapture %}
@@ -119,7 +119,7 @@ layout: microtypo
         {% endif %}
     {% endcase %}
     {% capture socialDescription %}{{ socialDescription | strip_html | truncatewords: 40 | strip_newlines | escape_once }}{% endcapture %}
-    
+
     {% comment %} Image {% endcomment %}
     {% assign imgtitle = socialTitle | url_escape | replace: ' ', '%20' | replace: '.', '%2e' | replace: ',', '%252C' | replace: "'", '%E2%80%99' | replace: '?', '%3F'%}
     {% capture socialImage %}https://avatars.borisschapira.com/avataaars_1200.png{% endcapture %}
@@ -213,33 +213,33 @@ layout: microtypo
 
             <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
             itemtype="http://schema.org/ListItem"><a href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{% t Web %}</a></li>
-    
+
             <li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
             itemtype="http://schema.org/ListItem">
             <a href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Citoyen %}</a>
             </li>
-    
+
             <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}" itemprop="itemListElement" itemscope
             itemtype="http://schema.org/ListItem">
             <a href="{{ 'papa' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Papa %}</a>
             </li>
-    
+
             <li class="sidebar-nav-item{% if page.i18n-key == 'search' %} active{% endif %}" itemprop="itemSearchResultsPage" itemscope
             itemtype="http://schema.org/SearchResultsPage">
             <a href="{{ 'recherche' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{% t Recherche %}</a>
             </li>
           </ul>
-    
+
           {% if page.layout == "index" %}<div class="lang">
             <ul>
               {% if page.translation %}
-                <li>{% include read_in.html.liquid 
+                <li>{% include read_in.html.liquid
                         locale=page.translation.locale
                         url=page.translation.url %}</li>
               {% endif %}
             </ul>
           </div>{% endif %}
-    
+
           <ul class="secondary">
             <li class="sidebar-nav-item">
               <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}">
@@ -292,7 +292,7 @@ layout: microtypo
             </a>
           </li>
           <li>
-            <a class="npe" rel="me nofollow" href="/{{ feed_url | prepend: page.baseurl | relative_url }}">
+            <a class="npe" rel="me nofollow" href="{{ feed_url | prepend: page.baseurl | relative_url }}">
               <span class="sr-only">{% t Abonnez-vous au flux %}</span>
               <svg class="icon icon-feed3" aria-hidden="true">
                 <use xlink:href="#icon-feed3"></use>
@@ -309,7 +309,7 @@ layout: microtypo
           </li>
         </ul>
       </div>
-    </div>      
+    </div>
     <div id="main" class="content container" role="main">
       {{ content }}
     </div>
