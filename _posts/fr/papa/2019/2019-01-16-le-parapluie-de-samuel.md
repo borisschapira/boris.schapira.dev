@@ -2,11 +2,13 @@
 title: 'Le parapluie de Samuel'
 ---
 
-_Avec les enfants, nous avons inventé une histoire. Pendant un temps, j’ai pensé la proposer sur [Whisperies](https://www.whisperies.com/), mais il fallait trouver une personne pour la mettre en dessin et je n’ai jamais franchi le cap. Je l’écris donc ici, libre à quelqu’un·e de s’en servir à son tour, de la faire évoluer[^1] ou de la mettre en images._
-
-[^1]: Il est probable que cette version évolue également.
+_Avec les enfants, nous avons inventé une histoire. Pendant un temps, j’ai pensé la proposer sur [Whisperies](https://www.whisperies.com/), mais il fallait trouver une personne pour la mettre en dessin et je n’ai jamais franchi le cap._
 
 <!-- more -->
+
+_Je l’écris donc ici, libre à quelqu’un·e de s’en servir à son tour, de la faire évoluer[^1] ou de la mettre en images._
+
+[^1]: Il est probable que cette version évolue également.
 
 Depuis quelques semaines, il se passe quelque chose dans le village de Samuel. Le mauvais temps perdure et les enfants disparaissent les uns après les autres. 
 
