@@ -43,7 +43,7 @@ layout: microtypo
     <!-- RSS -->
     {% assign feed_url = "feed.xml" %}
     {% if page.category %}
-      {% assign feed_url = page.category | t: page.locale | downcase | append: "/" | append: feed_url %}
+      {% assign feed_url = page.category | t: page.locale | downcase | append: '/' | append: feed_url %}
     {% endif %}
     <link rel="alternate" type="application/rss+xml" href="{{ feed_url | prepend: page.baseurl | relative_url }}">
 
