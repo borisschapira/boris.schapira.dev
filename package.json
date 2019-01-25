@@ -6,8 +6,9 @@
     "vendors:abbr-touch": "cp ./node_modules/abbr-touch/abbr-touch.js ./_src/scripts/vendors/",
     "vendors:instantsearch": "cp ./node_modules/instantsearch.js/dist/instantsearch.min.js ./_src/scripts/vendors/; cp ./node_modules/instantsearch.js/dist/instantsearch.min.css ./_includes/styles/vendors/; cp ./node_modules/instantsearch.js/dist/instantsearch-theme-algolia.min.css ./_includes/styles/vendors/",
     "vendors:jquery": "cp ./node_modules/jquery/dist/jquery.min.js ./_src/scripts/vendors/",
+    "vendors:tti": "cp ./node_modules/tti-polyfill/tti-polyfill.js ./_src/scripts/vendors/",
     "vendors:touchtap-event": "cp ./node_modules/touchtap-event/touchtap-event.js ./_src/scripts/vendors/",
-    "vendors": "npm run vendors:abbr-touch & npm run vendors:instantsearch & npm run vendors:jquery & npm run vendors:touchtap-event",
+    "vendors": "npm run vendors:abbr-touch & npm run vendors:instantsearch & npm run vendors:jquery & npm run vendors:tti & npm run vendors:touchtap-event",
     "uglify:search": "uglifyjs _src/scripts/search.js -o assets/scripts/search.min.js",
     "uglify:comments": "uglifyjs _src/scripts/comments.js -o assets/scripts/comments.min.js",
     "uglify:index": "uglifyjs _src/scripts/index.js -o assets/scripts/index.min.js",
@@ -19,7 +20,7 @@
     "eslint": "npm run eslint:comments & npm run eslint:index & npm run eslint:search",
     "concat:search": "concat -o _src/scripts/search.js _src/scripts/vendors/instantsearch.min.js _src/scripts/custom/search.js",
     "concat:comments": "concat -o _src/scripts/comments.js _src/scripts/vendors/jquery.min.js _src/scripts/custom/jquery_comments.js",
-    "concat:index": "concat -o _src/scripts/index.js _src/scripts/vendors/touchtap-event.js _src/scripts/vendors/abbr-touch.js _src/scripts/custom/index.js",
+    "concat:index": "concat -o _src/scripts/index.js _src/scripts/vendors/touchtap-event.js _src/scripts/vendors/abbr-touch.js _src/scripts/vendors/tti-polyfill.js _src/scripts/custom/index.js",
     "concat": "npm run concat:comments & npm run concat:search & npm run concat:index",
     "prefix": "postcss $npm_package_config_css_dir --use autoprefixer --no-map --dir $npm_package_config_cssmaps_dir",
     "wring:core": "csswring --remove-all-comments _src/styles/css/prefixed/core.css _includes/styles/core.min.css",
@@ -72,6 +73,7 @@
     "postcss": "^7.0.5",
     "postcss-cli": "^6.0.0",
     "prettier": "^1.14.3",
+    "tti-polyfill": "^0.2.2",
     "uglify-js": "^3.4.9"
   },
   "dependencies": {

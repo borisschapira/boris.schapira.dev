@@ -13,14 +13,22 @@ function ready(fn) {
 }
 
 function perfmark(callback, key) {
-  performance.mark('mark_' + key + '_start');
-  callback();
-  performance.mark('mark_' + key + '_end');
-  performance.measure(
-    'mark_' + key,
-    'mark_' + key + '_start',
-    'mark_' + key + '_end'
-  );
+  if (window.performance) {
+    performance.mark('mark_' + key + '_start');
+    callback();
+    performance.mark('mark_' + key + '_end');
+    performance.measure(
+      'mark_' + key,
+      'mark_' + key + '_start',
+      'mark_' + key + '_end'
+    );
+  }
+}
+
+if (window.ttiPolyfill && console) {
+  window.ttiPolyfill.getFirstConsistentlyInteractive().then(function (tti) {
+    console.log('tti-polyfill', tti);
+  });
 }
 
 (function switchlang() {
@@ -49,9 +57,11 @@ function perfmark(callback, key) {
 })();
 
 ready(function() {
-  perfmark(function() {
-    window.initEasyToggleState();
-  }, 'easy_toggle');
+  if (window.initEasyToggleState) {
+    perfmark(function() {
+      window.initEasyToggleState();
+    }, 'easy_toggle');
+  }
 
   (function(abbrTouch) {
     var tooltipTimeout;
@@ -162,7 +172,9 @@ ready(function() {
     }
   })();
 
-  perfmark(function() {
-    window.hljs.initHighlighting();
-  }, 'highlightjs');
+  if (window.hljs) {
+    perfmark(function() {
+      window.hljs.initHighlighting();
+    }, 'highlightjs');
+  }
 });
