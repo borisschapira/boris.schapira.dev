@@ -9,7 +9,8 @@ Reportage à la radio sur les animaux de compagnie.
 > — Papa, c'est quoi un animal de compagnie ?  
 > — C'est un animal qu'on peut domestiquer et garder à la maison.  
 > — Comme Simba ?  
-> — Oui, comme Simba. Les chats sont des animaux de compagnie. Vous en connaissez d'autres.  
+> — Oui, comme Simba. Les chats sont des animaux de compagnie. Vous en
+> connaissez d'autres.  
 > — Les… chiens ?  
 > — Oui, par exemple.  
 > — Les crocodiles !  
@@ -25,8 +26,8 @@ Reportage à la radio sur les animaux de compagnie.
 > — Oui ?  
 > — On n'a pas la TV.
 
-{% capture alt_text%}Un jeune garçont demande : "Je vais aller en prison maintenant ?"{% endcapture %}
-{% include video_as_a_gif.html.liquid
+{% capture alt_text%}Un jeune garçont demande : "Je vais aller en prison
+maintenant ?"{% endcapture %} {% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2017-11-23/guilty"
 alt=alt_text
 %}

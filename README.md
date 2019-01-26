@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # [BorisSchapira.com](https://borisschapira.com)
 
 My Jekyll v3 setup.
@@ -6,9 +8,9 @@ My Jekyll v3 setup.
 
 ### Prerequisites
 
-* Bundler
-* Docker (for SonarQube code coverage only)
-* Homebrew (for SonarQube code coverage only)
+- Bundler
+- Docker (for SonarQube code coverage only)
+- Homebrew (for SonarQube code coverage only)
 
 ### Installation
 
@@ -30,5 +32,5 @@ bundle exec rake build:generate
 
 ## License
 
-* Structure of this website released under [MIT License](LICENSE.md).
-* Content of this website released under CC-by License
+- Structure of this website released under [MIT License](LICENSE.md).
+- Content of this website released under CC-by License

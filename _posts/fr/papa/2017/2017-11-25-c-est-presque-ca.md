@@ -1,8 +1,10 @@
 ---
-title: 'C''est presque ça'
+title: "C'est presque ça"
 ---
 
-Parfois, les enfants sont très clairs dans ce qu'ils racontent. Mais 80 % du temps, il faut décrypter. Cet après-midi, je propose à mon fils aîné de sortir avec moi jouer au Nerf Vortex…
+Parfois, les enfants sont très clairs dans ce qu'ils racontent. Mais 80 % du
+temps, il faut décrypter. Cet après-midi, je propose à mon fils aîné de sortir
+avec moi jouer au Nerf Vortex…
 
 <!-- more -->
 

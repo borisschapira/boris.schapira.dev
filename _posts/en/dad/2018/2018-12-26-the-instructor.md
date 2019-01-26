@@ -3,18 +3,18 @@ title: The instructor
 i18n-key: 'coach'
 ---
 
-These days, my sons like sports movies. After a film about a gymnast and one about basketball last week, they ask me again for a basketball film today....
+These days, my sons like sports movies. After a film about a gymnast and one
+about basketball last week, they ask me again for a basketball film today....
 
 <!-- more -->
 
-> – Oh, you saw Dad, the instructor has the same name as the one from the last movie!
-> – That's quite a coincidence. What's his name?
-> Coach!
+> – Oh, you saw Dad, the instructor has the same name as the one from the last
+> movie! – That's quite a coincidence. What's his name? Coach!
 
 I had to explain…
 
-{% capture alt_text%}Un homme disant à un autre homme : "Euh, oui, ou alors…"{% endcapture %}
-{% include video_as_a_gif.html.liquid
+{% capture alt_text%}Un homme disant à un autre homme : "Euh, oui, ou
+alors…"{% endcapture %} {% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2018-12-26/or"
 alt=alt_text
 %}

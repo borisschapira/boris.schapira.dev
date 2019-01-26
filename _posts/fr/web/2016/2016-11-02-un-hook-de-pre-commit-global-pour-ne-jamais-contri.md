@@ -3,17 +3,24 @@ title: 'Un hook de pre-commit global pour ne jamais contribuer un var_dump'
 slug: un-hook-de-pre-commit-global-pour-ne-jamais-contribuer-un-var_dump
 ---
 
-On commence par définir le modèle de <span lang="en">hooks</span> de <span lang="en">pre-commit</span>.
+On commence par définir le modèle de <span lang="en">hooks</span> de
+<span lang="en">pre-commit</span>.
 
-1.  Créer un dossier dans votre profil qui hébergera vos <span lang="en">templates</span> de création de projets (ce <span lang="en">template</span> sera utilisé ensuite à chaque initialisation) :
+1.  Créer un dossier dans votre profil qui hébergera vos
+    <span lang="en">templates</span> de création de projets (ce
+    <span lang="en">template</span> sera utilisé ensuite à chaque
+    initialisation) :
     ```
     git config --global init.templatedir '~/.git-templates'
     ```
-1.  Créer un répertoire dans ce dossier pour stocker les <span lang="en">hooks</span> :
+1.  Créer un répertoire dans ce dossier pour stocker les
+    <span lang="en">hooks</span> :
     ```
     mkdir -p ~/.git-templates/hooks
     ```
-1.  Contribuer votre script de <span lang="en">pre-commit</span> dans `~/.git-templates/hooks/pre-commit`. Pour interdire les `var_dump`, par exemple :
+1.  Contribuer votre script de <span lang="en">pre-commit</span> dans
+    `~/.git-templates/hooks/pre-commit`. Pour interdire les `var_dump`, par
+    exemple :
 
     ```
     #!/bin/sh
@@ -34,6 +41,10 @@ On commence par définir le modèle de <span lang="en">hooks</span> de <span lan
     git init
     ```
 
-Si votre projet contient déjà des hooks, cette commande ne fera rien. À vous de vous responsabiliser pour aller supprimer vous-même les scripts présents dans le dossier `.git` avant de re-jouer `git init`.
+Si votre projet contient déjà des hooks, cette commande ne fera rien. À vous de
+vous responsabiliser pour aller supprimer vous-même les scripts présents dans le
+dossier `.git` avant de re-jouer `git init`.
 
-Si vous voulez allez plus loin, il existe plusieurs projets proposant des <span lang="en">hooks</span> dédiés à des tâches définies. Par exemple, sous PHP, [Grumphp](https://github.com/phpro/grumphp).
+Si vous voulez allez plus loin, il existe plusieurs projets proposant des
+<span lang="en">hooks</span> dédiés à des tâches définies. Par exemple, sous
+PHP, [Grumphp](https://github.com/phpro/grumphp).

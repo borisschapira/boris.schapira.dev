@@ -9,7 +9,8 @@ title: 'Les bonnes proportions'
 > — peu !  
 > — C'est ça. Allez, montre-moi !
 
-Il prend sa cuillère, prends tout le ketchup, arrache un petit morceau de steack haché et le pose dessus, puis engouffre le tout.
+Il prend sa cuillère, prends tout le ketchup, arrache un petit morceau de steack
+haché et le pose dessus, puis engouffre le tout.
 
 > — Touttipeu Papa, touttipeu !
 

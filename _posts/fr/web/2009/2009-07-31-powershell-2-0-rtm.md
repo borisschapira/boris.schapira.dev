@@ -2,12 +2,19 @@
 title: 'PowerShell 2.0 RTM'
 canonical: 'https://www.nexeo.fr/blog/2009/07/31/powershell-2-0-rtm/'
 tags:
-    - Nexdotnet
+  - Nexdotnet
 ---
 
-A l’instar des systèmes d’exploitation Windows 7 et Windows Server 2008 R2, **PowerShell 2** vient lui aussi de passer en [version RTM](http://blogs.technet.com/powershell/archive/2009/07/28/windows-powershell-2-0-est-rtm.aspx). Logique, puisque PowerShell 2 sera intégré dans ces deux systèmes dès leur sortie.
+A l’instar des systèmes d’exploitation Windows 7 et Windows Server 2008 R2,
+**PowerShell 2** vient lui aussi de passer en
+[version RTM](http://blogs.technet.com/powershell/archive/2009/07/28/windows-powershell-2-0-est-rtm.aspx).
+Logique, puisque PowerShell 2 sera intégré dans ces deux systèmes dès leur
+sortie.
 
-Rappelons à toutes fins utiles que PowerShell est une interface en ligne de commande basée sur le framework Microsoft .NET. A ce titre, il est possible de faire des choses très sympathiques avec de l’Orienté Objet. Un exemple ? La gestion des service :
+Rappelons à toutes fins utiles que PowerShell est une interface en ligne de
+commande basée sur le framework Microsoft .NET. A ce titre, il est possible de
+faire des choses très sympathiques avec de l’Orienté Objet. Un exemple ? La
+gestion des service :
 
 ```
 [System.ServiceProcess.ServiceController]::GetServices('MonService') (new-Object System.ServiceProcess.ServiceController('Service','MonService')).Start() (new-Object System.ServiceProcess.ServiceController('Service','MonService')).WaitForStatus('Running',(new-timespan -seconds 5))

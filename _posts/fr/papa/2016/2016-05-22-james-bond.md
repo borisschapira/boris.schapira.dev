@@ -2,7 +2,8 @@
 title: 'James Bond'
 ---
 
-Dans les James Bond, le méchant gâche toujours son plan machiavélique en le divulguant trop tôt.
+Dans les James Bond, le méchant gâche toujours son plan machiavélique en le
+divulguant trop tôt.
 
 <!-- more -->
 

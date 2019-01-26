@@ -1,8 +1,8 @@
 ---
 title: 'Phrases Insolites… #12'
 tags:
-    - Humour
-    - Insolite
+  - Humour
+  - Insolite
 ---
 
 C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
@@ -19,12 +19,14 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
 
 ## Défi
 
-> [à ses collègues] Et rappelez-vous&nbsp;: le vendredi, on part avant 21h30\. Pas plus de 15 heures de travail par jour&nbsp;!
+> [à ses collègues] Et rappelez-vous&nbsp;: le vendredi, on part avant 21h30\.
+> Pas plus de 15 heures de travail par jour&nbsp;!
 
 ## Comme un lundi
 
 > — Salut, ça va, tu as passé un bon week-end&nbsp;?  
-> — Ça va, je suis prêt à retourner dans le monde du cauchemar et de la désolation, du sang et des larmes. À part ça, ça va.
+> — Ça va, je suis prêt à retourner dans le monde du cauchemar et de la
+> désolation, du sang et des larmes. À part ça, ça va.
 
 ## Description succinte
 
@@ -34,6 +36,8 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
 
 ## La visite des lutins
 
-> — [5 ans] Maman, pourquoi l'autre dame elle a deux écrans et toi t'en as quatre&nbsp;?  
-> — Parce que maman elle a beaucoup de travail, il lui faut beaucoup d'informations.  
+> — [5 ans] Maman, pourquoi l'autre dame elle a deux écrans et toi t'en as
+> quatre&nbsp;?  
+> — Parce que maman elle a beaucoup de travail, il lui faut beaucoup
+> d'informations.  
 > — Et ils te donnent des yeux en plus dans la journée&nbsp;?

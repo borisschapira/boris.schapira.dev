@@ -1,9 +1,10 @@
 ---
-title: 'Chip ''n'' Dale'
+title: "Chip 'n' Dale"
 i18n-key: chip-dale
 ---
 
-I just found a handful of peanuts in a sock, hidden behind a radiator. I don't have kids, I have squirrels: they're stockpiling for the cold times.
+I just found a handful of peanuts in a sock, hidden behind a radiator. I don't
+have kids, I have squirrels: they're stockpiling for the cold times.
 
 <!-- more -->
 

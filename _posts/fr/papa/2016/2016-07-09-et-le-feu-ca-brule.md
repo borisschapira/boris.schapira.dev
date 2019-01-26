@@ -2,7 +2,8 @@
 title: 'Et le feu ça brule'
 ---
 
-Voyage chez mon père, qui possède une piscine. Rapidement, le grand teste. Le petit, lui, reste au bord.
+Voyage chez mon père, qui possède une piscine. Rapidement, le grand teste. Le
+petit, lui, reste au bord.
 
 <!-- more -->
 
@@ -16,4 +17,6 @@ Voyage chez mon père, qui possède une piscine. Rapidement, le grand teste. Le 
   <figcaption>Merci, <span lang="en">Captain Obvious</span>, votre travail est fini !</figcaption>
 </figure>
 
-<span lang="en">Captain Obvious</span> est, en anglais, le surnom donné, par ironie, à une personne énonçant des banalités ou des évidences. Je ne connais pas d'équivalent en français.
+<span lang="en">Captain Obvious</span> est, en anglais, le surnom donné, par
+ironie, à une personne énonçant des banalités ou des évidences. Je ne connais
+pas d'équivalent en français.
