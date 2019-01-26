@@ -6,7 +6,7 @@ tags:
 ---
 
 Petit retour sur la session MSP et la journée Imagine Cup. Toutes les photos que
-j'ai sont ici.</p>
+j'ai sont ici.
 
 Pour rappel&nbsp;: les
 [Microsoft Student Partners](http://fr.wikipedia.org/wiki/Microsoft_student_partner)
