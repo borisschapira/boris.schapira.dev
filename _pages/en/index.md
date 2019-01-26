@@ -1,11 +1,9 @@
 ---
 layout: index
-title: Home
+title: Notes
 permalink: /en/
 description: >-
-  My blog, containing personal opinions on the Web but also on my life as a parent and a citizen.
-displayCustomHead: true
-displayCustomTitle: false
+  Personal opinions on the Web but also on my life as a parent and a citizen.
 i18n-key: home
 pagination: 
   enabled: true

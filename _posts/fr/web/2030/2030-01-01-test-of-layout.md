@@ -1,12 +1,11 @@
 ---
 title: 'Premier Test de mise en forme'
+subtitle: 'un test de suivi'
 i18n-key: test-of-layout
 tags:
     - Typographie
 sitemap: false
-robots:
-    noindex: true
-    nofollow: true
+norobots: true
 slug: test-typo
 ---
 
@@ -14,8 +13,6 @@ slug: test-typo
 > Ne tenez pas compte du contenu ci-dessous.
 
 <!-- more -->
-
-# h1 Heading 8-)
 
 ## h2 Heading
 
@@ -29,9 +26,15 @@ slug: test-typo
 
 ## Horizontal Rules
 
-***
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor, animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.
 
 ***
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor, animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.
+
+***
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor, animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.
 
 ## Typographic replacements
 
@@ -215,11 +218,7 @@ Term 2
 
 ### Abbreviations
 
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-\*[HTML]: Hyper Text Markup Language
+This is <abbr title="Hypertext Markup Language">HTML</abbr> abbreviation example.
 
 ### Custom containers
 

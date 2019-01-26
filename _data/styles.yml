@@ -4,10 +4,10 @@ citoyen:
   color: '157584'
 papa:
   css: papa
-  color: '008300'
+  color: '009900'
 web:
   css: web
-  color: '0000cd'
+  color: '000099'
 main:
   css: main
-  color: '90084c'
+  color: '91084d'

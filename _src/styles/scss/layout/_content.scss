@@ -1,0 +1,195 @@
+.page-title {
+  grid-column: 1 / 13;
+  text-align: center;
+  background-color: var(--color-main-lightgray);
+  margin: 0;
+  padding: $global-gutters/2;
+
+  small {
+    display: block;
+    font-size: 0.9em;
+
+    &.page {
+      display: inline;
+      font-size: 0.8em;
+    }
+  }
+}
+
+.post {
+  padding-top: 2rem;
+  border-bottom: 1px solid var(--color-main-lightgray);
+
+  &:first-of-type:not(:only-of-type) {
+    border-top: 1px solid var(--color-main-lightgray);
+  }
+
+  &:last-of-type:not(:only-of-type) {
+    border-bottom: none;
+  }
+
+  header {
+    > span {
+      &::before {
+        content: "\00a0·\00a0";
+      }
+    }
+
+    > span,
+    > time {
+      display: inline-block;
+      margin-bottom: 0;
+      color: var(--gray-color);
+
+      a {
+        color: var(--gray-color);
+      }
+    }
+  }
+
+  .post-title {
+    margin-top: 0;
+  }
+
+  .post-content {
+    h2:first-child {
+      font-size: 1.6rem;
+      font-weight: normal;
+      line-height: 1.2rem;
+      margin-top: -1rem;
+      margin-bottom: 1em;
+      letter-spacing: 0;
+      text-transform: lowercase;
+    }
+  }
+}
+
+.videoWrapper {
+  position: relative;
+  height: 0;
+  margin: 2em 0;
+  /* 16:9 */
+  padding-top: 25px;
+  padding-bottom: 56.25%;
+
+  iframe,
+  object,
+  embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+figure {
+  text-align: center;
+
+  /** http://www.24joursdeweb.fr/2015/pseudo-elements-pseudos-mais-puissants/ **/
+  > a,
+  .video-container {
+    position: relative;
+    display: inline-block;
+  }
+
+  > a::before {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    content: "";
+    transition: opacity 0.3s ease-in-out;
+    opacity: 0;
+    background: rgba(0, 0, 0, 0.5) center no-repeat
+      url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgNzY4IDc2OCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTMyMCAzMnE1OC41IDAgMTExLjg3NSAyMi44NzV0OTEuODc1IDYxLjM3NSA2MS4zNzUgOTEuODc1VDYwOCAzMjBxMCA1MC4yNS0xNi4zNzUgOTYuMjVUNTQ1IDQ5OS43NWwxODEuNzUgMTgxLjVRNzM2IDY5MC41IDczNiA3MDRxMCAxMy43NS05LjEyNSAyMi44NzVUNzA0IDczNnEtMTMuNSAwLTIyLjc1LTkuMjVMNDk5Ljc1IDU0NXEtMzcuNSAzMC4yNS04My41IDQ2LjYyNVQzMjAgNjA4cS01OC41IDAtMTExLjg3NS0yMi44NzVUMTE2LjI1IDUyMy43NXQtNjEuMzc1LTkxLjg3NVQzMiAzMjB0MjIuODc1LTExMS44NzUgNjEuMzc1LTkxLjg3NSA5MS44NzUtNjEuMzc1VDMyMCAzMnptMCA2NHEtNDUuNSAwLTg3IDE3Ljc1dC03MS41IDQ3Ljc1LTQ3Ljc1IDcxLjVUOTYgMzIwdDE3Ljc1IDg3IDQ3Ljc1IDcxLjUgNzEuNSA0Ny43NVQzMjAgNTQ0dDg3LTE3Ljc1IDcxLjUtNDcuNzUgNDcuNzUtNzEuNVQ1NDQgMzIwdC0xNy43NS04Ny00Ny43NS03MS41LTcxLjUtNDcuNzVUMzIwIDk2em0wIDk2cTEzLjI1IDAgMjIuNjI1IDkuMzc1VDM1MiAyMjR2NjRoNjRxMTMuMjUgMCAyMi42MjUgOS4zNzVUNDQ4IDMyMHQtOS4zNzUgMjIuNjI1VDQxNiAzNTJoLTY0djY0cTAgMTMuMjUtOS4zNzUgMjIuNjI1VDMyMCA0NDh0LTIyLjYyNS05LjM3NVQyODggNDE2di02NGgtNjRxLTEzLjI1IDAtMjIuNjI1LTkuMzc1VDE5MiAzMjB0OS4zNzUtMjIuNjI1VDIyNCAyODhoNjR2LTY0cTAtMTMuMjUgOS4zNzUtMjIuNjI1VDMyMCAxOTJ6Ii8+PC9zdmc+);
+    box-shadow: 0 0 100px 0 #000 inset;
+  }
+
+  > .videoWrapper {
+    position: relative;
+    display: block;
+    height: auto;
+    margin: auto;
+    padding: 0;
+
+    > video {
+      width: 100%;
+      border: 1px solid var(--color-main);
+      object-fit: contain;
+    }
+
+    &.gif > video {
+      width: auto;
+      min-width: 250px;
+      min-height: 250px;
+      max-width: 100%;
+      border: none;
+    }
+
+    &.gif.playing::before,
+    &.gif.playing::before {
+      opacity: 0;
+    }
+
+    &.gif::before {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      content: "";
+      transition: opacity 0.3s ease-in-out;
+      opacity: 1;
+      background: transparent center no-repeat
+        url(data:image/svg+xml;base64,PHN2ZyBpZD0iQ2FwYV8xIiB2aWV3Qm94PSIwIDAgNjAgNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTM1LjE3MiAyOS40NGwtNi4yNC00LjUzOGMtLjIzLS4xNjYtLjUzMy0uMTktLjc4NC0uMDYyLS4yNTMuMTMtLjQxLjM5LS40MS42N3Y5LjA3YzAgLjI4My4xNTcuNTQyLjQxLjY3LjEwNy4wNTQuMjI0LjA4LjM0Mi4wOC4xNTQgMCAuMzEtLjA1LjQ0Mi0uMTQ1bDYuMjQtNC41MzJjLjE5Ny0uMTQ1LjMxMi0uMzcuMzEyLS42MDcgMC0uMjQyLS4xMTctLjQ2NS0uMzEyLS42MDd6IiBmaWxsPSIjRkZGIi8+PHBhdGggZD0iTTMwLjIxNiAxNS4wMDJjLTguMyAwLTE1LjAyNiA2LjcyNi0xNS4wMjYgMTUuMDI2IDAgOC4yOTYgNi43MjYgMTUuMDIgMTUuMDI2IDE1LjAyIDguMjk4IDAgMTUuMDI1LTYuNzI1IDE1LjAyNS0xNS4wMkM0NS4yNDQgMjEuNzI4IDM4LjUxNiAxNSAzMC4yMTggMTV6bTAgMjcuNTRjLTYuOTEyIDAtMTIuNTE2LTUuNi0xMi41MTYtMTIuNTE0IDAtNi45MSA1LjYwNC0xMi41MiAxMi41MTYtMTIuNTIgNi45MSAwIDEyLjUxNCA1LjYwOCAxMi41MTQgMTIuNTJTMzcuMTI2IDQyLjU0IDMwLjIxNiA0Mi41NHoiIGZpbGw9IiNGRkYiLz48L3N2Zz4=);
+    }
+  }
+
+  > a:hover::before,
+  > a:focus::before {
+    opacity: 1;
+  }
+
+  /** **/
+  picture,
+  img {
+    min-width: 70%;
+    max-width: 100%;
+    height: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+  }
+
+  .gallery {
+    display: flex;
+
+    img {
+      min-width: none;
+    }
+  }
+
+  figcaption {
+    font-style: italic;
+    max-width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+}
+
+strong {
+  color: var(--color-main);
+}
+
+a {
+  &.reversefootnote {
+    background: none;
+  }
+
+  &:hover {
+    color: var(--color-main-dark);
+  }
+}

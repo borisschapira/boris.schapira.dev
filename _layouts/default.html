@@ -1,44 +1,58 @@
 ---
 layout: microtypo
 ---
-{% assign the-locale = page.locale | default: site.locale | default: "fr" %}
-{% assign translations=site.posts | where:"i18n-key", page.i18n-key | sort: 'locale' %}
-{% if translations.size == 0 %}
-  {% assign translations=site.html_pages | where:"i18n-key", page.i18n-key | sort: 'locale' %}
-{% endif %}<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{{ page.locale | default: site.locale | default: "fr_FR" }}" itemscope itemtype="https://schema.org/WebPage">
-
   <head>
+    <!-- nomicrotypo -->
+    
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    {% comment %} Prefetching of domains that I am likely to use {% endcomment %}
     <link rel="dns-prefetch" href="https://res.cloudinary.com">
-    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-serif-regular.woff2" crossorigin >
-    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-sans-bold.woff2" crossorigin >
-    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-serif-italic.woff2" crossorigin >
+    {% comment %} / Prefetching of domains that I am likely to use {% endcomment %}
 
-    <!-- Previous and next posts -->
+    {% comment %} Prefetching previous and next pages {% endcomment %}
     {% if page.next_context or page.prev_context %}
-        {% if page.prev_context %}<link rel="prefetch" href="{{page.prev_context.url}}">{% endif %}
-        {% if page.next_context %}<link rel="prefetch" href="{{page.next_context.url}}">{% endif %}
+        {% if page.prev_context %}
+    <link rel="prefetch" href="{{page.prev_context.url}}">
+        {% endif %}
+        {% if page.next_context %}
+    <link rel="prefetch" href="{{page.next_context.url}}">
+        {% endif %}
     {% endif %}
+    {% comment %} / Prefetching previous and next pages {% endcomment %}
 
-    <!-- CSS and color -->
-    <!-- nomicrotypo -->
+    {% comment %} Preloading the fonts and styles for later use {% endcomment %}
+    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-serif-regular.woff2" crossorigin>
+    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-sans-bold.woff2" crossorigin>
+    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-serif-italic.woff2" crossorigin>
+    <link rel="preload" as="image" href="/assets/images/symbols.svg">
+    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/critical' %}">
+    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/main' %}">
+    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/highlightjs' %}">
+    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch.min' %}">
+    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch-theme-algolia.min' %}">
+    {% comment %} / Preloading the fonts and styles for later use {% endcomment %}
+
+    {% comment %} Styles {% endcomment %}
     <script>performance.mark('mark_declare_css_start');</script>
-    <style>{% include styles/core.min.css %}</style>
+    <link href="{% include assets/css.html.liquid name='/assets/styles/critical' %}" rel="stylesheet">
     {% capture themeColor %}{{ site.data.styles.main.color }}{% endcapture %}
-    <link href="/assets/styles/main.min.css" rel="stylesheet">
-    <script>performance.mark('mark_declare_css_end');performance.measure('mark_declare_css', 'mark_declare_css_start', 'mark_declare_css_end');</script>
-    <!-- endnomicrotypo -->
-
+    <link href="{% include assets/css.html.liquid name='/assets/styles/main' %}" rel="stylesheet">
     {% if page.i18n-key == "search" %}
-      <style>{% include styles/vendors/instantsearch.min.css %}{% include styles/vendors/instantsearch-theme-algolia.min.css %}</style>
+    <link href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch.min' %}" rel="stylesheet">
+    <link href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch-theme-algolia.min' %}" rel="stylesheet">
     {% endif %}
+    <link href="{% include assets/css.html.liquid name='/assets/styles/vendors/highlightjs' %}" rel="stylesheet">
+    <script>performance.mark('mark_declare_css_end');performance.measure('mark_declare_css', 'mark_declare_css_start', 'mark_declare_css_end');</script>
+    {% comment %} / Styles {% endcomment %}
 
-    <!-- WebMentions -->
-    {% comment %}<link rel="pingback" href="https://webmention.io/borisschapira.com/xmlrpc" />{% endcomment %}
+    {% comment %} Webmentions (for later use ?) {% endcomment %}
     <link rel="pingback" href="https://webmention.io/webmention?forward=https://webmention.io/borisschapira.com/webmention" />
     <link rel="webmention" href="https://webmention.io/borisschapira.com/webmention" />
+    {% comment %} / Webmentions (for later use ?) {% endcomment %}
 
     <!-- RSS -->
     {% assign feed_url = "feed.xml" %}
@@ -47,141 +61,60 @@ layout: microtypo
     {% endif %}
     <link rel="alternate" type="application/rss+xml" href="{{ feed_url | prepend: page.baseurl | relative_url }}">
 
-    <!-- Lang and indexation -->
-    {% assign noindex = page.robots.noindex | default: false %}
-    {% assign nofollow = page.robots.nofollow | default: false %}
-    {% if paginator and paginator.page > 1 %}
-      {% assign noindex = true %}
-    {% else %}
-      {% if page.translation %}
-        <link rel="alternate" hreflang="{{ page.translation.locale }}" href="{{ page.translation.url }}"/>
-      {% endif %}
+    {% if page.translation %}
+    <link rel="alternate" hreflang="{{ page.translation.locale }}" href="{{ page.translation.url }}"/>
     {% endif %}
 
-    {% if site.robots %}
-      <meta name="robots" content="{{ site.robots }}">
-    {% else %}
-      {% if noindex or nofollow %}
-      <meta name="robots" content="{% if noindex %}no{% endif %}index, {% if nofollow %}no{% endif %}follow">
-      {% endif %}
+    {% if site.norobots or page.norobots %}
+    <meta name="robots" content="noindex,nofollow">
+    {% elsif paginator and paginator.page > 1 %}
+    <meta name="robots" content="noindex,follow">
     {% endif %}
-    
-    <!-- Social Media -->
-    {% comment %} Date {% endcomment %}
-    {% capture socialDate %}{{ page.date | date: "%Y-%m-%d" }}{% endcapture %}
-    {% comment %} Site Name {% endcomment %}
-    {% capture socialSitename %}{{ site.name }}{% endcapture %}
-    {% comment %} Author {% endcomment %}
-    {% capture socialAuthor %}{{ site.author.name }}{% endcapture %}
-    {% if page.by  != nil %}
-      {% capture socialAuthor %}{{ page.by }}{% endcapture %}
-    {% endif %}
-    {% comment %} Page Title, description and URL {% endcomment %}
-    {% capture socialTitle %}{{ site.title }}{% endcapture %}
-    {% capture socialDescription %}{{ site.description }}{% endcapture %}
-    {% capture socialUrl %}{{ site.url | append:page.url }}{% endcapture %}
-    {% capture socialType %}website{% endcapture %}
 
-    {% case page.type %}
-      {% when "year" %}
-        {% capture socialTitle %}Année {{ page.date | localize: "%Y", page.locale }}{% endcapture %}
-        {% capture socialDescription %}Billets publiés en {{ page.date | localize: "%Y", page.locale }}{% endcapture %}
-      {% when "month" %}
-        {% capture socialTitle %}{{ page.date | localize: '%B %Y', page.locale }}{% endcapture %}
-        {% capture socialDescription %}Billets publiés en {{ page.date | localize: '%B %Y', page.locale }}{% endcapture %}
-      {% when "post" %}
-        {% capture socialTitle %}{{ page.title | strip_html }}{% endcapture %}
-        {% if page.content contains "<!-- more -->" %}
-          {% capture socialDescription %}{{ page.content | split:"<!-- more -->" | first | markdownify }}{% endcapture %}
-        {% elsif page.content.size < 1000 %}
-          {% if page.content contains "<figure>" %}
-            {% capture socialDescription %}{{ page.content | split:"<figure>" | first | markdownify }}{% endcapture %}
-          {% else %}
-            {% capture socialDescription %}{{ page.content | markdownify }}{% endcapture %}
-          {% endif %}
-        {% else %}
-          {% capture socialDescription %}{{ page.excerpt | markdownify }}{% endcapture %}
-        {% endif %}
-      {% else %}
-        {% capture socialTitle %}{{ page.title | strip_html }}{% endcapture %}
-        {% if page.description %}
-          {% capture socialDescription %}{{ page.description }}{% endcapture %}
-        {% elsif page.content contains "<!-- more -->" %}
-          {% capture socialDescription %}{{ page.content | split:"<!-- more -->" | first | markdownify }}{% endcapture %}
-        {% elsif page.content.size > 50 %}
-          {% if page.content contains "<figure>" %}
-            {% capture socialDescription %}{{ page.content | split:"<figure>" | first | markdownify }}{% endcapture %}
-          {% else %}
-            {% capture socialDescription %}{{ page.content | markdownify }}{% endcapture %}
-          {% endif %}
-        {% else %}
-          {% capture socialDescription %}{{ site.description }}{% endcapture %}
-        {% endif %}
-    {% endcase %}
-    {% capture socialDescription %}{{ socialDescription | strip_html | truncatewords: 40 | strip_newlines | escape_once }}{% endcapture %}
-    
-    {% comment %} Image {% endcomment %}
-    {% assign imgtitle = socialTitle | url_escape | replace: ' ', '%20' | replace: '.', '%2e' | replace: ',', '%252C' | replace: "'", '%E2%80%99' | replace: '?', '%3F'%}
-    {% capture socialImage %}https://avatars.borisschapira.com/avataaars_1200.png{% endcapture %}
-    {% if page.main_image %}
-      {% capture socialImage %}{{ page.main_image | absolute_url }}{% endcapture %}
-    {% else %}
-      {% if page.category %}
-        {% capture socialImage %}/assets/images/category/{{ page.category | slugify }}.jpg{% endcapture %}
-        {% assign socialImage = socialImage | absolute_url %}
-      {% endif %}
-    {% endif %}
-    {% assign title_length = socialTitle | size %}
-    {% assign title_size = title_length | minus:30 | times: -20 | divided_by: 50 | plus: 90 %}
-    {% capture socialImage %}https://res.cloudinary.com/{{ site.cloudinary.cloud_name }}/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:{{ themeColor }},o_40/w_1000,c_fit,l_text:PT%20Sans_{{ title_size }}:{{ imgtitle }},x_2,y_-98,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_{{ title_size }}:{{ imgtitle }},y_-100,co_white/l_text:PT%20Sans_50:borisschapira,g_south_east,x_44,y_75,co_black,o_40/l_text:PT%20Sans_50:borisschapira,g_south_east,x_46,y_77,co_white/c_fill,g_south_east,r_max,h_45,l_twitter,w_45,x_336,y_80/c_scale,g_south_west,h_150,l_{{ page.cloudinary_logo | default:site.cloudinary.logo }},w_150,x_40,y_40/{{ socialImage }}{% endcapture %}
-    {% capture socialTitle %}{{ socialTitle }} &middot; {{ site.title }}{% endcapture %}
-    <!-- / Social Media -->
-
-    <!-- nomicrotypo -->
-    <title itemprop="name">{{ socialTitle | strip_html }}</title>
-
-    {% capture x_canonical %}x{{ page.canonical }}{% endcapture %}
-    {% if x_canonical != "x" %}
+    <title itemprop="name">{{ page.social.title | strip_html }}</title>
+    {% if page.canonical %}
       <link rel="canonical" href="{{ page.canonical }}" data-proofer-ignore/>
     {% else %}
-      <link rel="canonical" href="{{ page.url | absolute_url }}" data-proofer-ignore/>
+    <link rel="canonical" href="{{ page.url | absolute_url }}" data-proofer-ignore/>
     {% endif %}
-    <meta name="description" content="{{ socialDescription }}" />
-    <meta property="og:url" content="{{ socialUrl }}" />
-    <meta property="og:type" content="{{ socialType }}" />
-    <meta property="og:title" content="{{ socialTitle }}" />
-    <meta property="og:image" content="{{ socialImage }}" />
+
+    <meta name="description" content="{{ page.social.description }}" />
+    <meta property="og:url" content="{{ page.url }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ page.social.title }}" />
+    <meta property="og:image" content="{{ page.social.image }}" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:site_name" content="{{ socialSitename }}" />
+    <meta property="og:site_name" content="{{ site.name }}" />
+
     <meta property="article:author" content="{{ site.author.name }}" />
-    <meta property="article:published_time" content="{{ socialDate }}" />
+    <meta property="article:published_time" content="{{ page.date | date: "%Y-%m-%d" }}" />
 
     {% if page.category %}
     <meta property="article:section" content="{{ page.category }}" />
     {% endif %}
 
     {% for tag in page.tags %}
-      <meta property="article:tag" content="{{ tag }}" />
+    <meta property="article:tag" content="{{ tag }}" />
     {% endfor %}
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:domain" content="{{ site.domain }}" />
-    <meta name="twitter:title" content="{{ socialTitle }}" />
-    <meta name="twitter:description" content="{{ socialDescription }}" />
+    <meta name="twitter:title" content="{{ page.social.title }}" />
+    <meta name="twitter:description" content="{{ page.social.description }}" />
     <meta property="twitter:label1" content="Par" />
-    <meta property="twitter:data1" content="{{ socialAuthor }}" />
+    <meta property="twitter:data1" content="{{ page.author.name | default: site.author.name }}" />
 
     {% if page.category %}
-      <meta property="twitter:label2" content="Catégorie" />
-      <meta property="twitter:data2" content="{{ page.category }}" />
+    <meta property="twitter:label2" content="{{ "Catégorie" | t:page.locale }}" />
+    <meta property="twitter:data2" content="{{ page.category | capitalize }}" />
     {% endif %}
 
-    <meta name="twitter:image" content="{{ socialImage }}">
+    <meta name="twitter:image" content="{{ page.social.image }}">
     <meta name="twitter:creator" content="{{ site.author.twitter_username }}" />
     <meta name="twitter:site" content="{{ site.author.twitter_username }}" />
-    <meta name="twitter:widgets:link-color" content="#{{ themeColor }}">
-    <meta name="twitter:widgets:border-color" content="#{{ themeColor }}">
+    <meta name="twitter:widgets:link-color" content="#{{ page.social.color }}">
+    <meta name="twitter:widgets:border-color" content="#{{ page.social.color }}">
     <meta name="twitter:dnt" content="on">
     <meta name="twitter:widgets:csp" content="on">
 
@@ -191,129 +124,173 @@ layout: microtypo
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=E6jXRBAgkK" data-proofer-ignore>
     <link rel="manifest" href="/manifest.json?v=E6jXRBAgkK" data-proofer-ignore>
     <link rel="shortcut icon" href="/favicon.ico?v=E6jXRBAgkK" data-proofer-ignore>
-    <meta name="theme-color" content="#{{ themeColor }}">
+    <meta name="theme-color" content="#{{ page.social.color }}">
+
     <!-- endnomicrotypo -->
   </head>
 
-  <body id="top" class="theme-base-0g {% if page.category %}{{page.category}}{% else %}main{% endif %}">
+  <body class="colorized menu-state {% if page.category %}{{page.category}}{% else %}main{% endif %}">
+    <a class="skip-main" href="#main">{{ "Aller directement au contenu principal" | t: page.locale }}</a>
 
-    {% include symbols.svg.liquid %}
-    <a class="skip-main" href="#main">{% t Aller directement au contenu principal %}</a>
-    <div class="sidebar" role="navigation">
-      <div class="container">
-        <div class="sidebar-about">
-          <h1>
-            <a href="{{ page.baseurl | relative_url }}" itemprop="url">
-              {{ site.title }}
-            </a>
-          </h1>
-        </div>
-        <nav class="sidebar-nav">
-          <ul class="categories" itemscope itemtype="http://schema.org/BreadcrumbList">
+    <header class="nav-header">
+      <a href="{{ page.baseurl | relative_url }}" itemprop="url" class="title">
+        <!--<div class="avatar-container">-->
+          <!-- nomicrotypo {% include avatar.svg %}<!-- endnomicrotypo
+        </div>-->
+        {{ site.title }}
+      </a>
+      <nav>
+        <button class="menu-trigger button" aria-controls="main-nav" aria-expanded="false" id="menu-trigger" data-toggle-class="menu-open"
+        data-toggle-escape data-toggle-target-all=".menu-state">
+          <span class="menu-label">{{ "menu" | t: page.locale }}</span>
+          <span class="close-label">{{ "fermer" | t: page.locale }}</span>
+        </button>
+        <ul class="menu">
+          <li {% if page.type == 'post' or page.layout == 'index' %}class="active"{% endif %} itemprop="itemListElement" itemscope
+          itemtype="http://schema.org/ListItem"><a href="{{ page.baseurl | relative_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">Notes</a></li>
 
-            <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem"><a href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{% t Web %}</a></li>
-    
-            <li class="sidebar-nav-item{% if page.category == 'citoyen' %} active{% endif %}" itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem">
-            <a href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Citoyen %}</a>
-            </li>
-    
-            <li class="sidebar-nav-item{% if page.category == 'papa' %} active {% endif %}" itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem">
-            <a href="{{ 'papa' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{% t Papa %}</a>
-            </li>
-    
-            <li class="sidebar-nav-item{% if page.i18n-key == 'search' %} active{% endif %}" itemprop="itemSearchResultsPage" itemscope
-            itemtype="http://schema.org/SearchResultsPage">
-            <a href="{{ 'recherche' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{% t Recherche %}</a>
-            </li>
-          </ul>
-    
-          {% if page.layout == "index" %}<div class="lang">
-            <ul>
-              {% if page.translation %}
-                <li>{% include read_in.html.liquid 
-                        locale=page.translation.locale
-                        url=page.translation.url %}</li>
-              {% endif %}
-            </ul>
-          </div>{% endif %}
-    
-          <ul class="secondary">
-            <li class="sidebar-nav-item">
-              <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}">
-                {% t À propos %}
-                <!-- nomicrotypo -->
-                {% include img/avatar.svg %}
-                <!-- endnomicrotypo -->
-              </a>
-            </li>
-          </ul>
-        </nav>
-        <ul class="follow-icons">
-          <li>
-            <a class="npe" rel="me nofollow" href="{{ site.author.github }}">
-              <span class="sr-only">{% t Suivez-moi %} {% t sur %} Github</span>
-              <svg class="icon icon-github4 aria-hidden">
-                <use xlink:href="#icon-github4"></use>
-              </svg>
-            </a>
+          <li {% if page.i18n-key == 'about' %}class="active"{% endif %} itemprop="itemListElement" itemscope
+          itemtype="http://schema.org/ListItem">
+            <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}">{{ "À propos" | t: page.locale }}</a>
           </li>
-          <li>
-            <a class="npe" rel="me nofollow" href="{{ site.author.twitter }}">
-              <span class="sr-only">{% t Suivez-moi %} {% t sur %} Twitter</span>
-              <svg class="icon icon-twitter2" aria-hidden="true">
-                <use xlink:href="#icon-twitter2"></use>
-              </svg>
-            </a>
+
+          <li {% if page.i18n-key == 'search' %}class="active"{% endif %} 
+          itemprop="itemSearchResultsPage" itemscope
+          itemtype="http://schema.org/SearchResultsPage">
+          <a href="{{ 'Recherche' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{{ "Recherche" | t: page.locale }}</a>
           </li>
-          <li>
-            <a class="npe" rel="me nofollow" title="{% t Suivez-moi %} {% t sur %} Mastodon" href="{{ site.author.mastodon }}">
-              <svg class="icon icon-mastodon">
-                <use xlink:href="#icon-mastodon"></use>
-              </svg>
-            </a>
-          </li>
-          <li>
-            <a class="npe" rel="me nofollow" title="{% t Suivez-moi %} {% t sur %} LinkedIn" href="{{ site.author.linkedin }}">
-              <span class="sr-only">{% t Suivez-moi %} {% t sur %} LinkedIn</span>
-              <svg class="icon icon-linkedin" aria-hidden="true">
-                <use xlink:href="#icon-linkedin"></use>
-              </svg>
-            </a>
-          </li>
-          <li>
-            <a class="npe" rel="me nofollow" href="{{ site.author.flickr }}">
-              <span class="sr-only">{% t Suivez-moi %} {% t sur %} Flickr</span>
-              <svg class="icon icon-flickr3" aria-hidden="true">
-                <use xlink:href="#icon-flickr3"></use>
-              </svg>
-            </a>
-          </li>
-          <li>
-            <a class="npe" rel="me nofollow" href="{{ feed_url | prepend: page.baseurl | relative_url }}">
-              <span class="sr-only">{% t Abonnez-vous au flux %}</span>
-              <svg class="icon icon-feed3" aria-hidden="true">
-                <use xlink:href="#icon-feed3"></use>
-              </svg>
-            </a>
-          </li>
-          <li>
-            <a class="npe" target="_top" rel="me nofollow" href="mailto:{{ site.author.mailto | raw }}?subject=Page%20%22{{page.title}}%22&body=url+%3D+{{page.url}}+%0D%0A%0D%0ABonjour%2C%0D%0A%0D%0A%7B%7B+N%27h%C3%A9sitez+pas+%C3%A0+prendre+quelques+minutes+pour+vous+pr%C3%A9senter+si+c%27est+votre+premier+envoi.+%7D%7D%0D%0A%0D%0A%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%0D%0A%0D%0A%7B%7B+%C3%89crivez+ici+votre+message+%7D%7D%0D%0A%0D%0A%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85">
-              <span class="sr-only">{% t Ecrivez-moi ! %}</span>
-              <svg class="icon icon-mail" aria-hidden="true">
-                <use xlink:href="#icon-mail"></use>
-              </svg>
-            </a>
-          </li>
+
+          {% if page.translation %}
+          <li>{% include read_in.html.liquid 
+                  locale=page.translation.locale
+                  url=page.translation.url %}</li>
+          {% endif %}
         </ul>
+      </nav>
+    </header>
+    <section class="container">
+      <h1 class="page-title">{{ page.title }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>
+      <div class="content{% if page.layout=='post' or page.layout=='page' %} full-width{% endif %}" role="main">
+        {{ content }}
       </div>
-    </div>      
-    <div id="main" class="content container" role="main">
-      {{ content }}
-    </div>
-
+      {% if page.aside %}
+      <aside>
+        <div class="categories">
+          <h3>{{ "Catégories" | t: page.locale }}</h3>
+          <ul>
+            <li class="h-like colorized web {% if page.category == 'web' %}active{% endif %}" itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem"><a href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "web" | t: page.locale }}</a></li>
+            <li class="h-like colorized citoyen {% if page.category == 'citoyen' %}active{% endif %}" itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem">
+            <a href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "citoyen" | t: page.locale }}</a>
+            </li>
+            <li class="h-like colorized papa {% if page.category == 'papa' %}active{% endif %}" itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem">
+            <a href="{{ 'papa' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "papa" | t: page.locale }}</a>
+            </li>
+          </ul>
+        </div>
+      </aside>
+      {% endif %}
+    </section>
+    <footer class="main-footer">
+        {% if paginator %}
+        {% capture url_prefix %}{% if page.category %}/{{page.category}}{% endif %}{% endcapture %}
+        {% if paginator.total_pages > 1 %}
+        <ul class="pagination">
+          {% comment %} Page précédente {% endcomment %}
+          {% if paginator.previous_page %} 
+            {% if paginator.previous_page == 1 %}
+              {% comment %} Si on est sur la page 2, la page précédente est la 1 {% endcomment %}
+              <li>
+                <a href="{{ url_prefix }}" rel="prev" ><span class="sr-only">{{ "Accueil" | t: page.locale }}</span>&lsaquo;</a>
+              </li>
+            {% else %}
+              {% comment %} Sinon, c'est la page d'avant {% endcomment %}
+              <li>
+                <a href="{{ site.pagination.permalink | replace:':num', paginator.previous_page | prepend: url_prefix }}" rel="prev"><span class="sr-only">{{ "Page précédente" | t: page.locale }}</span>&lsaquo;</a>
+              </li>
+            {% endif %}
+          {% else %}
+            {% comment %} Si on est sur la page 1, pas de précédente {% endcomment %}
+            <li class="disabled">&lsaquo;</li>
+          {% endif %}
+          
+          {% if paginator.page == 1 %}
+            {% comment %} Si on est sur la page 1 {% endcomment %}
+            <li class="disabled">
+              <strong>1</strong>
+            </li>
+          {% else %}
+            {% comment %} Sinon, afficher le lien {% endcomment %}
+            <li>
+              <a href={{ url_prefix }} ><span class="sr-only">{{ "Accueil" | t: page.locale }}</span>1</a>
+            </li>
+          {% endif %}
+          
+          {% comment %} À partir de la page 2 {% endcomment %}
+          {% assign page_start = 2 %}
+          {% if paginator.page > 5 %}
+            {% comment %} Si on est plus loin que la page 5, 
+            on affiche "…" et on démarre 2 pages avant {% endcomment %}
+            {% assign page_start = paginator.page | minus: 2 %}
+            <li class="disabled">
+              …
+            </li>
+          {% endif %}
+          
+          {% comment %} La dernière page de cette liste, c'est 2 pages avant la fin (mais on commence à compter à 0) {% endcomment %}
+          {% assign page_end = paginator.total_pages | minus: 1 %}
+        
+          {% comment %} La distance entre la page courante et la dernière page dans l'absolu {% endcomment %}
+          {% assign to_end = paginator.total_pages | minus: paginator.page %} 
+        
+          {% comment %} Si cette distance est supérieure à 4, on s'arrêtera 2 pages après la page courante et on affichera "…" {% endcomment %}
+          {% if to_end > 4 %} 
+            {% assign page_end = paginator.page | plus: 2 %}
+          {% endif %}
+        
+          {% comment %} Production de la liste "du milieu" {% endcomment %}
+          {% for index in (page_start..page_end) %} 
+            {% if index == paginator.page %}
+            <li >
+              <strong>{{index}}</strong>
+            </li>
+            {% else %}
+            <li>
+              <a href="{{ site.pagination.permalink | replace:':num', index | prepend: url_prefix }}" ><span class="sr-only">Page</span>{{index}}</a>
+            </li>
+            {% endif %} 
+          {% endfor %}
+          {% if to_end > 4 %}
+            <li class="disabled">…</li>
+          {% endif %} 
+        
+          {% if paginator.page == paginator.total_pages %}
+            <li >
+              <strong>{{paginator.page}}</strong>
+            </li>
+          {% else %}
+            {% assign tp1 = paginator.page | plus: 1 %}
+            <li>
+              <a href="{{ site.pagination.permalink | replace:':num', paginator.total_pages | prepend: url_prefix }}" {% if paginator.total_pages == tp1 %}rel="next"{% endif %}><span class="sr-only">{{ "Dernière page" | t: page.locale }}</span>{{paginator.total_pages}}</a>
+            </li>
+          {% endif %} 
+          {% if paginator.next_page %} 
+            {% if paginator.next_page == paginator.total_pages %}
+              <li class="disabled">&raquo;</li>
+            {% else %}
+            <li>
+              <a href="{{ site.pagination.permalink | replace:':num', paginator.next_page | prepend: url_prefix }}" rel="next"><span class="sr-only">{{ "Page suivante" | t: page.locale }}</span>&rsaquo;</a>
+            </li>
+            {% endif %} 
+          {% else %}
+            <li class="disabled">&rsaquo;</li>
+          {% endif %}
+        </ul>
+        {% endif %}
+        {% endif %}
+    </footer>
     {% include footer.html.liquid type=page.type loadTwitterWjs=page.loadTwitterWjs loadSearch=page.loadSearch %}
   </body>
 </html>

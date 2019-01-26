@@ -1,8 +1,7 @@
 ---
 layout: compress
 ---
-{% assign the-locale = page.locale | default: site.locale | default: "fr" %}
-{% if the-locale == 'fr' %}
+{% if page.locale == 'fr' %}
   {{ content | microtypo: 'fr_FR' }}
 {% else %}
   {{ content | microtypo: 'en_US' }}

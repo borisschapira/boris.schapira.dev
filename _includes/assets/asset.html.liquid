@@ -1,0 +1,1 @@
+{% unless jekyll.environment == "development" %}{{ include.name }}_{{ site.time | date: "%s" }}.{{ include.extension }}{% else %}{{ include.name }}.{{ include.extension }}{% endunless %}

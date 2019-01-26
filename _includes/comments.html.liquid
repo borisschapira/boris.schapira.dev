@@ -7,9 +7,9 @@
     <div id="comments">
       <h2>
         {% if site.data.comments[include.slug].size > 1 %}
-          {{ site.data.comments[include.slug] | size }} {% t commentaires %}
+          {{ site.data.comments[include.slug] | size }} {{ "commentaires" | t: include.locale }}
         {% else %}
-          {% t Commentaire %}
+          {{ "Commentaire" | t: include.locale }}
         {% endif %}
       </h2>
       {% if site.data.comments[include.slug].size > 0 %}
@@ -36,27 +36,27 @@
 
   <!-- Start new comment form -->
   <div id="respond">
-    <h3 class="page__section-label">{% t Laisser un commentaire %} <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ include.url | absolute_url }}#respond" class="npe" style="display:none;">{% t Annuler %}</a></small></h3>
+    <h3 class="page__section-label">{{ "Laisser un commentaire" | t: include.locale }} <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ include.url | absolute_url }}#respond" class="npe" style="display:none;">{{ "Annuler" | t: include.locale }}</a></small></h3>
 
     <form id="comment-form" netlify-honeypot="cb" class="page__form js-form form" method="POST" action="comment" data-netlify="true">
       <fieldset>
-        <label for="comment-form-message"><strong>{% t Commentaire %}</strong> <small></small></label>
+        <label for="comment-form-message"><strong>{{ "Commentaire" | t: include.locale }}</strong> <small></small></label>
         <textarea type="text" rows="6" id="comment-form-message" name="message" required spellcheck="true"></textarea>
       </fieldset>
       <fieldset>
-        <label for="comment-form-name"><strong>{% t Nom %}</strong></label>
+        <label for="comment-form-name"><strong>{{ "Nom" | t: include.locale }}</strong></label>
         <input type="text" id="comment-form-name" name="name" autocomplete="name" required spellcheck="false">
       </fieldset>
       <fieldset>
-        <label for="comment-form-email"><strong>{% t Email %}</strong> <small>({% t facultatif %})</small></label>
+        <label for="comment-form-email"><strong>{{ "Email" | t: include.locale }}</strong> <small>({{ "facultatif" | t: include.locale }})</small></label>
         <input type="email" id="comment-form-email" name="email" autocomplete="email" spellcheck="false">
       </fieldset>
       <fieldset>
-        <label for="comment-form-url"><strong>{% t Site %}</strong> <small>({% t facultatif %})</small></label>
+        <label for="comment-form-url"><strong>{{ "Site" | t: include.locale }}</strong> <small>({{ "facultatif" | t: include.locale }})</small></label>
         <input type="url" id="comment-form-url" name="url" autocomplete="url"/>
       </fieldset>
       <fieldset>
-        <label for="comment-form-cb"><strong>{% t Coordonnées de votre planète (uniquement pour les non-humains) %}</strong></label>
+        <label for="comment-form-cb"><strong>{{ "Coordonnées de votre planète (uniquement pour les non-humains)" | t: include.locale }}</strong></label>
         <input type="text" id="comment-form-cb" name="cb" autocomplete="url"/>
       </fieldset>
       <fieldset class="hidden" style="display: none;">
@@ -68,13 +68,13 @@
       </fieldset>
       <fieldset>
         <div data-netlify-recaptcha="true"></div>
-        <button type="submit" id="comment-form-submit" class="btn">{% t Poster le commentaire %}</button>
+        <button type="submit" id="comment-form-submit" class="button-inversed">{{ "Poster le commentaire" | t: include.locale }}</button>
       </fieldset>
       <p class="info success hidden">
-        {% t Commentaire posté avec succès ! %}
+        {{ "Commentaire posté avec succès !" | t: include.locale }}
       </p>
       <p class="info fail hidden">
-        {% t Houston, on a un problème. %}
+        {{ "Houston, on a un problème." | t: include.locale }}
       </p>
     </form>
   </div>

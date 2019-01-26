@@ -1,0 +1,100 @@
+/* ==========================================================================
+   CONFIG
+   ========================================================================== */
+
+// Layout
+
+$global-gutters: 2rem;
+
+// Z-indexes
+
+$zindex-nav-trigger: 5;
+$zindex-nav: 2;
+
+// Responsive
+
+$media-ratio: (
+  "xsmall": 0.85,
+  "small": 0.9,
+  "medium": 1,
+  "large": 1.05,
+  "xlarge": 1.1,
+  "xxlarge": 1.15
+);
+
+$breakpoints: (
+  "small": 480px,
+  "medium": 720px,
+  "large": 960px,
+  "xlarge": 1200px,
+  "xxlarge": 1440px
+);
+
+// Typo
+
+$default-font-size: 1rem;
+$default-line-height: 1.7;
+
+$font-weight-normal: 400;
+$font-weight-bold: 700;
+
+$default-font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+$default-font-weight: $font-weight-normal;
+$default-font-style: normal;
+
+$title-font-family: "PT Serif", serif;
+$title-font-weight: $font-weight-bold;
+$title-font-style: normal;
+$title-line-height: 1.2;
+
+$button-font-family: "PT Serif", serif; //'PT Sans',Helvetica,Arial,sans-serif;
+$button-font-weight: $font-weight-normal;
+$button-font-style: normal;
+$button-line-height: 1.2;
+
+$font-sizes: (
+  (
+    "class": "xxl",
+    "size": 1.75rem
+  ),
+  (
+    "class": "xl",
+    "size": 1.5rem
+  ),
+  (
+    "class": "lg",
+    "size": 1.25rem
+  ),
+  (
+    "class": "sm",
+    "size": 0.875rem
+  ),
+  (
+    "class": "xs",
+    "size": 0.75rem
+  )
+);
+
+// Forms and buttons
+
+$label-font-size: 0.875em;
+
+$input-vmargin: 0.125em;
+$input-hmargin: 0;
+$input-vpadding: 0.25em;
+$input-hpadding: 0.5em;
+
+$btn-hmargin: 0.5em;
+$btn-hpadding: 1.5em;
+
+// Transitions
+
+$enable-moves: true;
+$enable-animations: $enable-moves;
+$enable-transitions: $enable-moves;
+
+$default-duration: 0.25s;
+$default-timing-function: ceaser(easeInOutQuart);
+
+$nav-toggle-duration: 0.5s;
+$nav-toggle-timing-function: ceaser(easeOutCubic);

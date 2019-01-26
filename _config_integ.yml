@@ -2,5 +2,5 @@
 limit_posts: 50
 profile: true
 future: true
-robots: noindex,nofollow
+norobots: true
 url: "https://dev.borisschapira.com"

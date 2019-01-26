@@ -1,0 +1,76 @@
+/* ==========================================================================
+Base styles: opinionated defaults
+========================================================================== */
+
+audio,
+canvas,
+iframe,
+img,
+video {
+  vertical-align: middle;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+fieldset {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+a,
+button,
+input,
+select {
+  @include transition();
+}
+
+textarea {
+  resize: vertical;
+  @include transition("$default-duration $default-timing-function, height 0s");
+}
+
+abbr[title],
+acronym[title] {
+  cursor: help;
+  text-decoration: inherit;
+  border-bottom: 0.1em dotted var(--color-main-light);
+}
+
+figure {
+  margin: 0;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+svg {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  fill: currentColor;
+  vertical-align: baseline;
+}
+
+a svg,
+button svg {
+  text-decoration: none;
+  pointer-events: none;
+}
+
+hr {
+  color: var(--color-main-lightgray);
+  background-color: var(--color-main-lightgray);
+  border: 0;
+  height: 1px;
+  margin: 1.7em 0;
+}
+
+.footnotes {
+  border-top: 1px solid var(--color-main-lightgray);
+  margin: 1.7em 0;
+}

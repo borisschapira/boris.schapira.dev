@@ -1,0 +1,17 @@
+@mixin animation($animation...) {
+  @if $enable-animations {
+    animation: $animation;
+    @media screen and (prefers-reduced-motion: reduce) {
+      animation: none;
+    }
+  }
+}
+
+@mixin transition($transition...) {
+  @if $enable-transitions {
+    transition: $transition;
+    @media screen and (prefers-reduced-motion: reduce) {
+      transition: none;
+    }
+  }
+}

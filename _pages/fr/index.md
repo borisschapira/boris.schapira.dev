@@ -1,10 +1,8 @@
 ---
 layout: index
-title: Accueil
+title: Notes
 permalink: /
-description: "Mes opinions sur le Web mais aussi sur ma vie de parent et de citoyen."
-displayCustomHead: true
-displayCustomTitle: false
+description: "Opinions sur le Web mais aussi sur ma vie de parent et de citoyen."
 i18n-key: home
 pagination: 
   enabled: true

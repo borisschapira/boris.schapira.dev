@@ -45,7 +45,7 @@ The generated site is then tested via [html-proofer](https://github.com/gjtoriki
 
 If all goes well then Netlify deploys the generated site on its <abbr title="Content Delivery Network">CDN</abbr>.
 
-The last deployment was carried out on {{ site.time | localize: '%A %-d %B %Y' }}.
+The last deployment was carried out on {{ site.time | l: '%A %-d %B %Y' }}.
 
 Netlify is also in charge of capturing comments and sending them to a private Slack channel via [Netlify Forms](https://www.netlify.com/docs/form-handling/), using [a technique popularized by Phil Hawksworth](https://github.com/philhawksworth/jamstack-comments-engine).
 

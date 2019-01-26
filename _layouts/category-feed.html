@@ -35,14 +35,14 @@ layout: null
           <hr>
           <div style="font-style:italic">
               <p>
-                  {% t Vous êtes abonné·e au flux des articles %}{% unless page.category or has_locale %}.{% else %}&nbsp;:
+                  {{ "Vous êtes abonné·e au flux des articles" | t: page.locale }}{% unless page.category or has_locale %}.{% else %}&nbsp;:
               </p>
               <ul>
-                  {% if page.category %}<li>{% t de la catégorie&nbsp;: %} {{ page.category | t: page.locale | capitalize}}</li>{% endif %}
-                  {% if has_locale %}<li>{% t rédigés en %} {% t français %}.</li>{% endif %}
+                  {% if page.category %}<li>{{ "de la catégorie&nbsp;:" | t: page.locale }} {{ page.category | t: page.locale | capitalize}}</li>{% endif %}
+                  {% if has_locale %}<li>{{ "rédigés en" | t: page.locale }} {{ "français" | t: page.locale }}.</li>{% endif %}
               </ul>
               {% if page.category != 'web' %}<p>
-                  {% t Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre %} <a href="{{ "web/feed.xml" | prepend: page.baseurl | absolute_url }}">{% t ce flux %}</a>.
+                  {{ "Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre" | t: page.locale }} <a href="{{ "web/feed.xml" | prepend: page.baseurl | absolute_url }}">{{ "ce flux" | t: page.locale }}</a>.
               </p>{% endif %}
           </div>{% endunless %}
           {% endunless %}

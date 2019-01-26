@@ -13,7 +13,7 @@
   {% endif %}
   </div>
   {% if include.date %}
-    {% if include.index %}<a href="#comment{% if r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endif %}" class="npe">{% endif %}<span class="sr-only">{% t Lien direct vers ce commentaire %}</span><time datetime="{{ include.date | date_to_xmlschema }}">{{ include.date | date: '%d/%m/%Y' }}</time>
+    {% if include.index %}<a href="#comment{% if r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endif %}" class="npe">{% endif %}<span class="sr-only">{{ "Lien direct vers ce commentaire" | t: include.locale }}</span><time datetime="{{ include.date | date_to_xmlschema }}">{{ include.date | date: '%d/%m/%Y' }}</time>
     {% if include.index %}</a>{% endif %}
   {% endif %}
   <h3 class="comment__author">
@@ -26,7 +26,7 @@
     {{ include.message | markdownify }}
 
     {% unless include.replying_to != 0 %}
-      <a rel="nofollow" class="btn reply-to npe" href="#comment-{{ include.index }}" data-comm-id="comment-{{ include.index }}" data-parent-id="{{ include.index }}" data-respond-id="respond" data-post-id="{{ include.slug }}">{% t Répondre à %} {{ include.name }}</a>
+      <a rel="nofollow" class="button-inversed reply-to npe" href="#comment-{{ include.index }}" data-comm-id="comment-{{ include.index }}" data-parent-id="{{ include.index }}" data-respond-id="respond" data-post-id="{{ include.slug }}">{{ "Répondre à" | t: include.locale }} {{ include.name }}</a>
     {% endunless %}
   </div>
 

@@ -45,7 +45,7 @@ Mon code est architecturé en deux dépôts. Un dépôt contient les articles du
 
 Ce dépôt, mis à jour, lance également une opération sur [Codeship](https://codeship.com/) : récupération de la dernière version des articles, du code et des dépendances, compilation de tout cela en un site Web et tests via [html-proofer](https://github.com/gjtorikian/html-proofer).
 
-Si cette étape d'intégration est valide et que le code est bien contribué sur la branche `master`, alors [Codeship](https://codeship.com/) s'occupe du déploiement du site statique ainsi généré chez mon hébergeur, <a href="https://www.alwaysdata.com/">alwaysdata</a>. Le dernier déploiement a été réalisé le {{ site.time | localize: '%A %-d %B %Y' }}.
+Si cette étape d'intégration est valide et que le code est bien contribué sur la branche `master`, alors [Codeship](https://codeship.com/) s'occupe du déploiement du site statique ainsi généré chez mon hébergeur, <a href="https://www.alwaysdata.com/">alwaysdata</a>. Le dernier déploiement a été réalisé le {{ site.time | l: '%A %-d %B %Y' }}.
 
 [^3]: Lire à ce propos [cet excellent article de Romy sur les syntaxes légères](http://romy.tetue.net/syntaxes-legeres-pour-rediger)
 

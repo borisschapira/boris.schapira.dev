@@ -1,42 +1,19 @@
-<article class="post h-entry {% if include.post.category %}{{include.post.category}}{% else %}main{% endif %}" itemscope itemtype="https://schema.org/BlogPosting"{% if include.postPage %} id="content"{% else %} aria-labelledby="{{ include.post.slug }}"{% endif %}>
+<article class="colorized post {% if include.post.category %}{{include.post.category}}{% else %}main{% endif %}" itemscope itemtype="https://schema.org/BlogPosting"{% if include.postPage %} id="content"{% else %} aria-labelledby="{{ include.post.slug }}"{% endif %}>
     <header class="p-header">
-        {% assign datetime = include.post.date | date_to_xmlschema %}<time class="p-date dt-published" datetime="{{ datetime }}">{% unless include.post.locale =='fr' %}{% include date_en.html.liquid postDate=include.post.date locale=include.post.locale %}{% else %}{{ include.post.date | localize: '%A %-d', include.post.locale }} <a href="{{ include.post.date | localize: '%Y/%m/', include.post.locale | relative_url }}" title="{% t Articles de %} {{ include.post.date | localize: '%B %Y', include.post.locale }}">{{ include.post.date | localize: '%B', include.post.locale }}</a> <a href="{{ include.post.date | localize: '%Y/', include.post.locale | relative_url }}" title="{% t Articles de %} {{ include.post.date | localize: '%Y', include.post.locale }}">{{ include.post.date | localize: '%Y', include.post.locale }}</a>{% endunless %}</time>{% if displayCategory %}<span class="p-category"><a href="{{ include.post.category | t: include.post.locale | prepend: page.baseurl | relative_url }}" title="{% t Articles de %} {% t la catégorie %} {{ include.post.category }}">{{ include.post.category | t: include.post.locale | capitalize }}</a></span>{% endif %}{% if include.post.translation %}<span class="p-lang">{% include read_in.html.liquid 
+        {% assign datetime = include.post.date | date_to_xmlschema %}<time class="dt-published" datetime="{{ datetime }}">{% unless include.post.locale =='fr' %}{% include date_en.html.liquid postDate=include.post.date locale=include.post.locale %}{% else %}{{ include.post.date | l: '%A %-d', include.post.locale }} <a href="{{ include.post.date | l: '%Y/%m/', include.post.locale | relative_url }}" title="{{ "Articles de" | t: include.locale }} {{ include.post.date | l: '%B %Y', include.post.locale }}">{{ include.post.date | l: '%B', include.post.locale }}</a> <a href="{{ include.post.date | l: '%Y/', include.post.locale | relative_url }}" title="{{ "Articles de" | t: include.locale }} {{ include.post.date | l: '%Y', include.post.locale }}">{{ include.post.date | l: '%Y', include.post.locale }}</a>{% endunless %}</time>{% if displayCategory %}<span><a href="{{ include.post.category | t: include.post.locale | prepend: page.baseurl | relative_url }}" title="{{ "Articles de" | t: include.locale }} {{ "la catégorie" | t: include.locale }} {{ include.post.category }}">{{ include.post.category | t: include.post.locale }}</a></span>{% endif %}{% if include.post.translation %}<span>{% include read_in.html.liquid 
                         locale=include.post.translation.locale
                         url=include.post.translation.url %}</span>{% endif %}
     </header>
 
-  <h2 class="post-title p-name"{% unless include.postPage %} id="{{ include.post.slug }}"{% endunless %}>
-    {% if include.postPage %}
-        {{ include.post.title }}
-    {% else %}
+  <h2 class="post-title"{% unless include.postPage %} id="{{ include.post.slug }}"{% endunless %}>
+    {% unless include.postPage %}
     <a href="{{ include.post.url }}">{{ include.post.title }}</a>
-    {% endif %}
+    {% endunless %}
   </h2>
 
   <div class="post-content">
     {% if include.postPage %}
       {{ include.post.content }}
-    {% else %}
-      {% if include.post.content contains "<!-- more -->" %}
-        {{ include.post.content | split:"<!-- more -->" | first | markdownify }}
-        <p class="read-more">
-          <a href="{{ include.post.url }}" title="{{post.title}}">{% t Lire la suite %} →</a>
-        </p>
-      {% elsif include.post.content.size < 1000 %}
-        {% if include.post.content contains "<figure>" %}
-          {{ include.post.content | split:"<figure>" | first | markdownify }}
-          <p class="read-more">
-            <a href="{{ include.post.url }}" title="{{post.title}}">{% t Lire la suite %} →</a>
-          </p>
-        {% else %}
-          {{ include.post.content | markdownify }}
-        {% endif %}
-      {% else %}
-        {{ include.post.excerpt | markdownify }}
-        <p class="read-more">
-          <a href="{{ include.post.url }}" title="{{post.title}}">{% t Lire la suite %} →</a>
-        </p>
-      {% endif %}
     {% endif %}
   </div>
 </article>

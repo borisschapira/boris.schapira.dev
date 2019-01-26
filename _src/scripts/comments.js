@@ -6,7 +6,7 @@
 // modified from Wordpress https://core.svn.wordpress.org/trunk/wp-includes/js/comment-reply.js
 // Released under the GNU General Public License - https://wordpress.org/about/gpl/
 // Completly snatched from Michael Rose's MadeMistake blog post https://mademistakes.com/articles/improving-jekyll-static-comments/
-$('.reply-to').on('click', function (event) {
+$('.reply-to').on('click', function(event) {
   var $this = $(this);
 
   var commId = $this.data('commId'),
@@ -14,13 +14,16 @@ $('.reply-to').on('click', function (event) {
     respondId = $this.data('respondId'),
     postId = $this.data('postId');
 
-  var div, element, style, cssHidden,
+  var div,
+    element,
+    style,
+    cssHidden,
     comm = $('#' + commId)[0],
     respond = $('#' + respondId)[0],
     cancel = $('#cancel-comment-reply-link')[0],
     parent = $('#comment-replying-to')[0],
     post = $('#comment-post-slug')[0];
-  var commentForm =$('#' + respondId + ' form')[0];
+  var commentForm = $('#' + respondId + ' form')[0];
 
   if (!comm || !respond || !cancel || !parent || !commentForm) {
     return;
@@ -42,7 +45,7 @@ $('.reply-to').on('click', function (event) {
   parent.value = parentId;
   cancel.style.display = '';
 
-  cancel.onclick = function () {
+  cancel.onclick = function() {
     var temp = $('#' + 'sm-temp-form-div')[0],
       respond = $('#' + respondId)[0];
 
@@ -64,7 +67,8 @@ $('.reply-to').on('click', function (event) {
    * 'inherit' when the visibility value is inherited from an ancestor.
    */
   try {
-    var inputs = commentForm.querySelectorAll('input,textarea'), ilen = inputs.length;
+    var inputs = commentForm.querySelectorAll('input,textarea'),
+      ilen = inputs.length;
     for (var i = 0; i < ilen; i++) {
       element = inputs[i];
       cssHidden = false;
@@ -83,7 +87,10 @@ $('.reply-to').on('click', function (event) {
        * the job for us. In fact, the visibility computed style is the actual
        * computed value and already takes into account the element ancestors.
        */
-      if ((element.offsetWidth <= 0 && element.offsetHeight <= 0) || style.visibility === 'hidden') {
+      if (
+        (element.offsetWidth <= 0 && element.offsetHeight <= 0) ||
+        style.visibility === 'hidden'
+      ) {
         cssHidden = true;
       }
 
@@ -96,33 +103,46 @@ $('.reply-to').on('click', function (event) {
       // Stop after the first focusable element.
       break;
     }
-
   } catch (er) {}
 
   event.preventDefault();
 });
 
-$('#comment-form').on("submit", function submitForm(event) {
-
+$('#comment-form').on('submit', function submitForm(event) {
   // Stop form from submitting
   event.preventDefault();
 
   // Disable to prevent multiple submit
   var $form = $(this);
   var $submitBtn = $form.find('#comment-form-submit'),
-  $input_timestamp = $form.find('#comment-timestamp'),
-  $input_guid = $form.find('#comment-guid');
-  
+    $input_timestamp = $form.find('#comment-timestamp'),
+    $input_guid = $form.find('#comment-guid');
+
   $submitBtn.attr('disabled', 'disabled');
   $input_timestamp.val(new Date().getTime());
-  $input_guid.val((function guid() {
-    function s4() {
-      return Math.floor((1 + Math.random()) * 0x10000)
-        .toString(16)
-        .substring(1);
-    }
-    return s4() + s4() + '-' + s4() + '-' + s4() + '-' + s4() + '-' + s4() + s4() + s4();
-  })());
+  $input_guid.val(
+    (function guid() {
+      function s4() {
+        return Math.floor((1 + Math.random()) * 0x10000)
+          .toString(16)
+          .substring(1);
+      }
+      return (
+        s4() +
+        s4() +
+        '-' +
+        s4() +
+        '-' +
+        s4() +
+        '-' +
+        s4() +
+        '-' +
+        s4() +
+        s4() +
+        s4()
+      );
+    })()
+  );
 
   var type = $form.attr('method'),
     url = $form.attr('action'),
@@ -134,13 +154,13 @@ $('#comment-form').on("submit", function submitForm(event) {
     url: url,
     data: data,
     contentType: contentType,
-    success: function () {
+    success: function() {
       $form.find('input, textarea').val('');
       $submitBtn.attr('disabled', null);
       $form.find('.info').addClass('hidden');
       $form.find('.info.success').removeClass('hidden');
     },
-    error: function () {
+    error: function() {
       $submitBtn.attr('disabled', null);
       $form.find('.info').addClass('hidden');
       $form.find('.info.fail').removeClass('hidden');

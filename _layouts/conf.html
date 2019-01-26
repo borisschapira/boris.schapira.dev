@@ -7,7 +7,7 @@ layout: default
   <header class="p-header">
       {% for event in page.events %}
         {% assign datetime = event.date | date_to_xmlschema %}
-        <div class="p-date">{{ event.name }}&nbsp;— <time class="dt-published" datetime="{{ datetime }}">{{ event.date | localize: '%A %-d %B %Y', page.locale }}</time></div>
+        <div class="p-date">{{ event.name }}&nbsp;— <time class="dt-published" datetime="{{ datetime }}">{{ event.date | l: '%A %-d %B %Y', page.locale }}</time></div>
       {% endfor %}
   </header>
   {% endif %}

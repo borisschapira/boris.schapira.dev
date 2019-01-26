@@ -1,4 +1,6 @@
 @charset "utf-8";
-@import "custom/colors",
-		"custom/boris",
-		"vendor/abbr-touch";
+
+// Variables and mixins
+@import "base/config", "base/abstract", "mixins/animations";
+
+@import "base/colors", "layout/pagination", "layout/comments", "layout/footer";

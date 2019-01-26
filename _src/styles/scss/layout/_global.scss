@@ -1,0 +1,92 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+.container {
+  background-color: var(--color-main-whitey);
+  background-image: none;
+  @extend %main-grid;
+
+  .content {
+    grid-column: 2 / 8;
+
+    &.full-width {
+      grid-column: 2 / 12;
+    }
+
+    @include media("<large") {
+      grid-column: 2 / 12;
+    }
+
+    @include media(">=xlarge") {
+      max-width: 45rem;
+      margin: auto;
+    }
+  }
+
+  aside {
+    grid-column: 9 / 12;
+    margin: $global-gutters 0;
+    background-color: var(--color-main-lightgray);
+    padding: $global-gutters/2;
+    display: grid;
+
+    @include media("<large") {
+      grid-column: 2 / 12;
+    }
+  }
+}
+
+.categories {
+  background-color: var(--color-main-whitey);
+  background-image: none;
+  padding: $global-gutters/2;
+
+  ul {
+    @extend %ul-reset;
+    margin-left: 1rem;
+  }
+
+  h3 {
+    margin-top: 0;
+  }
+
+  ul {
+    margin-bottom: 0;
+  }
+}
+
+.clearfix::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/*==============
+  Scrollbar
+  ============*/
+
+::-webkit-scrollbar {
+  width: 0.3rem;
+  height: 0.3rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-main);
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-main-light);
+}
+
+// For Internet Explorer
+body {
+  scrollbar-face-color: var(--color-main);
+  scrollbar-track-color: var(--color-main-desaturate);
+}

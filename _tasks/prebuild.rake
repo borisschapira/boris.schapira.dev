@@ -52,7 +52,11 @@ namespace :prebuild do
 
   # launch jekyll
   def jekyll(directives = '', env = 'development')
-    sh 'JEKYLL_ENV=' + env + ' jekyll ' + directives
+    unless env == 'development'
+      sh 'JEKYLL_ENV=' + env + ' jekyll ' + directives
+    else
+      sh 'JEKYLL_ENV=' + env + ' jekyll ' + directives + ' --trace'
+    end
   end
 
   # test Front Matter in a content

@@ -1,0 +1,191 @@
+html,
+input,
+textarea,
+select {
+  font-family: $default-font-family;
+  font-style: $default-font-style;
+  font-weight: $default-font-weight;
+  line-height: $default-line-height;
+}
+
+html {
+  font-size: calc(16px + (22 - 16) * (100vw - 400px) / (1920 - 400));
+  line-height: $default-line-height;
+  text-rendering: optimizeSpeed;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
+}
+
+h1,
+h2,
+.h-like {
+  font-family: $title-font-family;
+  font-style: $title-font-style;
+  font-weight: $title-font-weight;
+  line-height: $title-line-height;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  font-family: $default-font-family;
+  font-style: $default-font-style;
+  font-weight: $default-font-weight;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h-like {
+  color: var(--color-main);
+}
+
+p,
+.p-like,
+ul,
+ol,
+dl,
+blockquote,
+pre,
+caption {
+  margin: $default-line-height * 1em 0;
+}
+
+.lang {
+  text-transform: uppercase;
+  font-size: 0.8em;
+}
+
+dt {
+  margin-top: $default-line-height * 1em;
+}
+
+strong,
+b,
+dt {
+  font-weight: $font-weight-bold;
+}
+
+a,
+button.btn--link-like {
+  color: var(--color-main);
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
+// Typo helpers ---------------------------------------------------------------
+
+.h-reset,
+.text-reset {
+  font: inherit;
+}
+
+.h-reset {
+  margin: initial;
+  padding: 0;
+}
+
+@each $size in $font-sizes {
+  $class: map-get($size, "class");
+  $size: map-get($size, "size");
+
+  .text-#{$class} {
+    font-size: $size;
+  }
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.text-bold {
+  font-weight: $font-weight-bold;
+}
+
+.text-italic {
+  font-style: italic;
+}
+
+.text-nowrap {
+  white-space: nowrap;
+}
+
+.text-ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.text-wrap {
+  word-break: break-all;
+  hyphens: auto;
+}
+
+blockquote {
+  padding: 0 $global-gutters/2;
+  font-size: 1.1em;
+  border: none;
+  border-left: 0.25rem solid var(--color-main);
+  li {
+    @extend %li-no-list-style;
+  }
+  li::before {
+    content: "—";
+  }
+  cite {
+    font-size: 1rem;
+    display: block;
+    margin-top: 1em;
+  }
+}
+
+.canonical {
+  display: block;
+  margin: 2em auto;
+  padding: 10px;
+  border: 1px dotted var(--color-main);
+  font-style: italic;
+}
+ins {
+  padding: 3px;
+  text-decoration: none;
+  border: 1px dashed var(--lightgray-color);
+  &.bloc {
+    display: block;
+    padding: 15px 15px 2em 15px;
+    position: relative;
+
+    &::after {
+      content: attr(datetime);
+      position: absolute;
+      padding: 5px;
+      font-size: 0.8em;
+      right: 0;
+      bottom: 0;
+      color: var(--compliment-color);
+      background-color: var(--dazzled-color);
+      border-left: 1px dashed var(--lightgray-color);
+      border-top: 1px dashed var(--lightgray-color);
+    }
+  }
+}

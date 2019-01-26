@@ -1,0 +1,178 @@
+@keyframes browsup {
+  16% {
+    transform: translateY(0);
+  }
+  17% {
+    transform: translateY(-5px);
+  }
+  18% {
+    transform: translateY(0);
+  }
+  61% {
+    transform: translateY(0);
+  }
+  62% {
+    transform: translateY(-5px);
+  }
+  63% {
+    transform: translateY(-3px);
+  }
+  64% {
+    transform: translateY(-5px);
+  }
+  65% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes showclosed {
+  13% {
+    opacity: 0;
+  }
+  14% {
+    opacity: 1;
+  }
+  15% {
+    opacity: 0;
+  }
+  41% {
+    opacity: 0;
+  }
+  42% {
+    opacity: 1;
+  }
+  43% {
+    opacity: 0;
+  }
+  44% {
+    opacity: 1;
+  }
+  45% {
+    opacity: 0;
+  }
+  58% {
+    opacity: 0;
+  }
+  59% {
+    opacity: 1;
+  }
+  60% {
+    opacity: 0;
+  }
+  74% {
+    opacity: 0;
+  }
+  75% {
+    opacity: 1;
+  }
+  76% {
+    opacity: 0;
+  }
+}
+
+@keyframes hideopen {
+  13% {
+    opacity: 1;
+  }
+  14% {
+    opacity: 0;
+  }
+  15% {
+    opacity: 1;
+  }
+  41% {
+    opacity: 1;
+  }
+  42% {
+    opacity: 0;
+  }
+  43% {
+    opacity: 1;
+  }
+  44% {
+    opacity: 0;
+  }
+  45% {
+    opacity: 1;
+  }
+  58% {
+    opacity: 1;
+  }
+  59% {
+    opacity: 0;
+  }
+  60% {
+    opacity: 1;
+  }
+  74% {
+    opacity: 1;
+  }
+  75% {
+    opacity: 0;
+  }
+  76% {
+    opacity: 1;
+  }
+}
+
+.avatar {
+  .eyebrows {
+    @include animation(browsup 40s linear infinite);
+  }
+
+  .eye-closed {
+    opacity: 0;
+    @include animation(showclosed 20s linear infinite);
+  }
+
+  .eye-open {
+    @include animation(hideopen 20s linear infinite);
+  }
+
+  .kids,
+  .boris {
+    @include transition(transform 1s);
+  }
+
+  .kids,
+  .db-logo {
+    display: none;
+  }
+
+  .boris {
+    display: block;
+  }
+
+  .bg {
+    fill: #65c9ff;
+  }
+
+  .shirt {
+    fill: #ff488e;
+  }
+
+  .papa &,
+  .dad & {
+    .kids {
+      display: block;
+    }
+
+    .boris {
+      display: none;
+    }
+
+    .bg {
+      fill: #293324;
+    }
+  }
+
+  .web & {
+    .db-logo {
+      display: block;
+    }
+
+    .shirt {
+      fill: #1a252f;
+    }
+  }
+}

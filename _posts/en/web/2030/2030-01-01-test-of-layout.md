@@ -5,9 +5,7 @@ i18n-key: test-of-layout
 tags:
     - Typograph
 sitemap: false
-robots:
-    noindex: true
-    nofollow: true
+norobots: true
 slug: typo-test
 ---
 
