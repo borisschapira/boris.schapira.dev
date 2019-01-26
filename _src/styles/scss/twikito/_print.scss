@@ -1,6 +1,6 @@
 @media print {
-	[href]:not(.npe)::after {
-		font-size: 0.8em;
-		content: "\00A0(" attr(href) ")";
-	}
+  [href]:not(.npe)::after {
+    font-size: 0.8em;
+    content: "\00A0("attr(href) ")";
+  }
 }

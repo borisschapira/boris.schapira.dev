@@ -16,15 +16,51 @@
 body,
 article,
 .ais-hits--item {
-  --main-color: hsl(var(--main-color-hue), var(--main-color-saturation), var(--main-color-lightning));
-  --faded-color: hsl(var(--main-color-hue), 10%, calc( var(--main-color-lightning) + 40% ));
-  --darken-color: hsl(var(--main-color-hue), var(--main-color-saturation), calc( var(--main-color-lightning) - 10% ));
-  --lighten-color: hsl(var(--main-color-hue), var(--main-color-saturation), calc( var(--main-color-lightning) + 10% ));
-  --dazzled-color: hsl(var(--main-color-hue), var(--main-color-saturation), calc( var(--main-color-lightning) + 30% ));
-  --compliment-color: hsl(calc( var(--main-color-hue) + 180 ), var(--main-color-saturation), var(--main-color-lightning));
-  --compliment-faded-color: hsl(calc( var(--main-color-hue) + 180 ), var(--main-color-saturation), calc( var(--main-color-lightning) + 40% ));
-  --compliment-darken-color: hsl(calc( var(--main-color-hue) + 180 ), var(--main-color-saturation), calc( var(--main-color-lightning) - 10% ));
-  --compliment-lighten-color: hsl(calc( var(--main-color-hue) + 180 ), var(--main-color-saturation), calc( var(--main-color-lightning) + 10% ));
+  --main-color: hsl(
+    var(--main-color-hue),
+    var(--main-color-saturation),
+    var(--main-color-lightning)
+  );
+  --faded-color: hsl(
+    var(--main-color-hue),
+    10%,
+    calc(var(--main-color-lightning) + 40%)
+  );
+  --darken-color: hsl(
+    var(--main-color-hue),
+    var(--main-color-saturation),
+    calc(var(--main-color-lightning) - 10%)
+  );
+  --lighten-color: hsl(
+    var(--main-color-hue),
+    var(--main-color-saturation),
+    calc(var(--main-color-lightning) + 10%)
+  );
+  --dazzled-color: hsl(
+    var(--main-color-hue),
+    var(--main-color-saturation),
+    calc(var(--main-color-lightning) + 30%)
+  );
+  --compliment-color: hsl(
+    calc(var(--main-color-hue) + 180),
+    var(--main-color-saturation),
+    var(--main-color-lightning)
+  );
+  --compliment-faded-color: hsl(
+    calc(var(--main-color-hue) + 180),
+    var(--main-color-saturation),
+    calc(var(--main-color-lightning) + 40%)
+  );
+  --compliment-darken-color: hsl(
+    calc(var(--main-color-hue) + 180),
+    var(--main-color-saturation),
+    calc(var(--main-color-lightning) - 10%)
+  );
+  --compliment-lighten-color: hsl(
+    calc(var(--main-color-hue) + 180),
+    var(--main-color-saturation),
+    calc(var(--main-color-lightning) + 10%)
+  );
   --gray-color: hsl(0, 0%, 40%);
   --lightgray-color: hsl(0, 0%, 70%); }
   body.main,
@@ -671,7 +707,7 @@ body {
   scrollbar-track-color: var(--faded-color); }
 
 html {
-  font-size: calc( 16px + (22 - 16)*(100vw - 400px) / (1280-400));
+  font-size: calc(16px + (22 - 16) * (100vw - 400px) / (1280-400));
   line-height: 1.7; }
 
 @media (min-width: 80rem) {
@@ -707,13 +743,13 @@ img {
   color: var(--main-color); }
 
 .post-content a {
-  padding: calc( 1em * 60 / 100) 0;
+  padding: calc(1em * 60 / 100) 0;
   text-decoration: none;
   background-image: linear-gradient(currentColor, currentColor);
   background-repeat: no-repeat;
   background-position: center bottom 29%;
   background-origin: padding-box;
-  background-size: 100% calc( 1em / 10);
+  background-size: 100% calc(1em / 10);
   text-shadow: 3px 0 #fff, 2px 0 #fff, 1px 0 #fff, -1px 0 #fff, -2px 0 #fff, -3px 0 #fff; }
 
 abbr,
@@ -807,13 +843,13 @@ header.posts-h {
   font-size: 2rem; }
 
 .post-title a:hover {
-  padding: calc( 1em * 60 / 100) 0;
+  padding: calc(1em * 60 / 100) 0;
   text-decoration: none;
   background-image: linear-gradient(currentColor, currentColor);
   background-repeat: no-repeat;
   background-position: center bottom 29%;
   background-origin: padding-box;
-  background-size: 100% calc( 1em / 10);
+  background-size: 100% calc(1em / 10);
   text-shadow: 3px 0 #fff, 2px 0 #fff, 1px 0 #fff, -1px 0 #fff, -2px 0 #fff, -3px 0 #fff; }
 
 .footnotes,
@@ -1325,9 +1361,9 @@ sup {
   display: table-cell; }
 
 .reactions textarea,
-.reactions [type=text],
-.reactions [type=email],
-.reactions [type=url] {
+.reactions [type="text"],
+.reactions [type="email"],
+.reactions [type="url"] {
   font-size: 1rem;
   display: block;
   width: 100%;

@@ -1,13 +1,5 @@
 @charset "utf-8";
 
-@import
-        "vendor/syntax",
-        "custom/pt-sans",
-        "custom/pt-serif",
-        "custom/icomoon",
-        "twikito/files",
-        "twikito/links",
-        "twikito/print",
-        "custom/a11y",
-        "custom/animations"
-;
+@import "vendor/syntax", "custom/pt-sans", "custom/pt-serif", "custom/icomoon",
+  "twikito/files", "twikito/links", "twikito/print", "custom/a11y",
+  "custom/animations";

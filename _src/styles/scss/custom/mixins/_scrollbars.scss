@@ -7,23 +7,23 @@
 /// @example scss - Scrollbar styling
 ///   @include scrollbars(.5em, slategray);
 @mixin scrollbars($size) {
-	// For Google Chrome
-	::-webkit-scrollbar {
-		width: $size;
-		height: $size;
-	}
+  // For Google Chrome
+  ::-webkit-scrollbar {
+    width: $size;
+    height: $size;
+  }
 
-	::-webkit-scrollbar-thumb {
-		background: var(--main-color);
-	}
+  ::-webkit-scrollbar-thumb {
+    background: var(--main-color);
+  }
 
-	::-webkit-scrollbar-track {
-		background: var(--faded-color);
-	}
+  ::-webkit-scrollbar-track {
+    background: var(--faded-color);
+  }
 
-	// For Internet Explorer
-	body {
-		scrollbar-face-color: var(--main-color);
-		scrollbar-track-color: var(--faded-color);
-	}
+  // For Internet Explorer
+  body {
+    scrollbar-face-color: var(--main-color);
+    scrollbar-track-color: var(--faded-color);
+  }
 }

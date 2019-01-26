@@ -42,9 +42,6 @@ rules:
     - error
     - property
   dot-notation: error
-  eol-last:
-    - error
-    - never
   eqeqeq: 'off'
   func-call-spacing: error
   func-name-matching: error

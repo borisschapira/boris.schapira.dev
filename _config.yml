@@ -115,7 +115,8 @@ defaults:
 
 # Exclusions
 exclude:
-  - ".csscomb.json"
+  - "postcss.config.js"
+  - "purgecss.config.js"
   - ".ruby-version"
   - ".cache"
   - ".jekyll-cache"
@@ -126,15 +127,12 @@ exclude:
   - "_src"
   - "Gemfile"
   - "Gemfile.lock"
-  - "gulpfile.js"
   - "LICENSE.md"
   - "netlify.toml"
-  - "package-lock.json"
   - "README.md"
   - "Rakefile"
   - "tmp"
   - "vendor"
-  - "staticman.yml"
   - "yarn.lock"
   - _posts/**/*.jpg
   - _posts/**/*.jpeg

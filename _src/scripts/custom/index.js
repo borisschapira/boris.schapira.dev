@@ -26,7 +26,7 @@ function perfmark(callback, key) {
 }
 
 if (window.ttiPolyfill && console) {
-  window.ttiPolyfill.getFirstConsistentlyInteractive().then(function (tti) {
+  window.ttiPolyfill.getFirstConsistentlyInteractive().then(function(tti) {
     console.log('tti-polyfill', tti);
   });
 }
