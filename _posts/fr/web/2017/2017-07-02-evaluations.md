@@ -83,9 +83,7 @@ mais plutôt :
 - collectivement : leur faible investissement sur le projet (parfois, même les
   points vus en cours n'étaient pas traités).
 
-[^sonar]:
-
-  [SonarQube](https://www.sonarqube.org/) est un outil d'inspection continue de
+[^sonar]: [SonarQube](https://www.sonarqube.org/) est un outil d'inspection continue de
   la qualité de code. Je m'en sers surtout pour sa fonctionnalité de détection
   de code dupliqué, qui permet de découvrir assez rapidement les "petits
   raccourcis" que prennent des étudiants en "s'empruntant" du code.
@@ -119,9 +117,7 @@ réguliers. Google Forms[^alt] est très pratique pour ça, puisque depuis cette
 année, on peut pré-affecter des points aux questions. La correction est ainsi
 immédiate.
 
-[^alt]:
-
-  Je serais ravi d'utiliser un autre service que Google pour cet usage. Je
+[^alt]: Je serais ravi d'utiliser un autre service que Google pour cet usage. Je
   surveille les évolutions de [FramaForms](https://framaforms.org/) pour,
   justement, me défaire de cette dépendance.
 

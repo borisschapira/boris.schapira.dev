@@ -32,16 +32,12 @@ smartphones[^mobile]. Face à ce phénomène, certains producteurs n’hésitent
 à bloquer l’accès à leurs contenus aux utilisateurs refusant la publicité,
 envoyant ainsi un signal extrêmement négatif à leur audience.
 
-[^chiffres]:
-
-  D’après une étude PageFair, ces AdBlockers seraient installés chez 35 % des
+[^chiffres]: D’après une étude PageFair, ces AdBlockers seraient installés chez 35 % des
   internautes européens, 41 % des 16-29 ans. UCBrowser et Maxthon, qui
   revendiquent plus de 600 millions d’utilisateurs en Asie, sont également
   partenaires de solutions de blocage.
 
-[^mobile]:
-
-  L’Ad Blocker d’iOS 9, par exemple, repose sur un modèle commercial où les
+[^mobile]: L’Ad Blocker d’iOS 9, par exemple, repose sur un modèle commercial où les
   annonceurs devront payer pour voir leurs pubs affichées.
 
 Cette guerre, extrêmement coûteuse, est le résultat d’un pari sur des sources de
@@ -69,9 +65,7 @@ la publicité en ligne, représentée par l’IAB[^iab], le confirme :
 > <cite>Scott Cunningham dans <a href="http://www.iab.com/news/lean/">Getting
 > LEAN with Digital Ad UX</a></cite>
 
-[^iab]:
-
-  L’Internet Advertising Bureau, la principale association de professionnels de
+[^iab]: L’Internet Advertising Bureau, la principale association de professionnels de
   la publicité en ligne regroupant de nombreux acteurs de l’écosystème
   publicitaire : agences, régies, partenaires, hébergeurs. Habituellement, l’IAB
   promeut massivement la publicité en ligne en finançant des études sur son
@@ -171,9 +165,7 @@ déterminer. Ce qui est sûr, c’est que le potentiel de nuisance des bloqueurs
 l’industrie dans une impasse, obligeant à une refonte des modèles économiques
 vers des pratiques plus respectueuses des lecteurs, comme L.E.A.N.[^lean].
 
-[^lean]:
-
-  L.E.A.N., pour "Light, Encrypted, Ad choice supported, Non-invasive ads", que
+[^lean]: L.E.A.N., pour "Light, Encrypted, Ad choice supported, Non-invasive ads", que
   l’on peut traduire par "des publicités légères, sécurisées, respectueuse des
   choix de l’utilisateur et non-invasives", est une nouvelle bonne pratique mise
   en avant par l’IAB.

@@ -41,9 +41,7 @@ de tout incident chez un tiers :
   de réaliser un test de performance en plaçant le domaine de votre choix en
   indisponibilité[^1].
 
-[^1]:
-
-  En réalité, il interpose un proxy renvoyant les appels vers un
+[^1]: En réalité, il interpose un proxy renvoyant les appels vers un
   <a href="https://blackhole.webpagetest.org">site "trou noir"</a> recréant ces
   conditions
 

@@ -59,9 +59,7 @@ maintenabilité, la réversibilité, l'utilisabilité, la performance et
 l'interopérabilité qu'il est toujours nécessaire d'avoir recours à des
 professionnels[^clever].
 
-[^clever]:
-
-  si vous voulez en parler,
+[^clever]: si vous voulez en parler,
   [je suis par là](http://www.clever-age.com/fr/briefez-nous/).
 
 Cependant, dans certains cas, communiquer par mail avec ses clients et leur

@@ -16,16 +16,12 @@ Du coup, entre une partie de PS4[^ps4] et un chapitre de roman[^lire] (parce
 qu'il y a une vie en dehors de Netflix), j'ai préparé un petit bookmarklet qui
 augmente la luminosité de la vidéo en cours de 50 %. Pour en profiter :
 
-[^ps4]:
-
-  Je joue à "Arkham Knight", de Rocksteady, et c'est une tuerie. Je passe
+[^ps4]: Je joue à "Arkham Knight", de Rocksteady, et c'est une tuerie. Je passe
   d'excellents moments et je pense énormément à mon ex-collègue Stéphane,
   [auteur génial du célèbre "Batou" que le Joker utilise pour s'adresser à Batman](https://nota-bene.org/Trois-jolis-souvenirs-de-traduction),
   ce qui donne au jeu une saveur particulière.
 
-[^lire]:
-
-  Je lis en anglais "The Golden Fool" de Robin Hobb, deuxième tome de la "Tawny
+[^lire]: Je lis en anglais "The Golden Fool" de Robin Hobb, deuxième tome de la "Tawny
   Man Trilogy" (en français, le découpage est différent. D'après Wikipédia, je
   suis en train de lire
   "[Serments et Deuils](https://fr.wikipedia.org/wiki/Serments_et_Deuils)"), qui

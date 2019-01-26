@@ -123,9 +123,7 @@ bénéfices à nos détriments, leur retirer demain l'exploitation ne nous prive
 pas de devoir continuer à entretenir le réseau (pour un coût allant de 5 à
 9&nbsp;M€ du kilomètre, suivant les contraintes du site[^autoroute])
 
-[^autoroute]:
-
-  On trouve beaucoup de ressources en ligne sur le coût de l'entretien des
+[^autoroute]: On trouve beaucoup de ressources en ligne sur le coût de l'entretien des
   routes, du
   [rapport annuel de l'Union Routière de France](http://www.unionroutiere.fr/wp-content/uploads/2017/11/faits-et-chiffres-2017_Basse-def.pdf)
   à des comparaisons européennes, comme
@@ -138,9 +136,7 @@ Souverain ou le Prince (bien qu'il n'ait pas été désigné de droit divin, ou 
 "au-dessus des lois"), il cristallise l'ensemble de la critique du système
 anti-démocratique[^hyperpresident].
 
-[^hyperpresident]:
-
-  Pour ma part, si j'avais voulu critiquer le Président, j'aurais utilisé le
+[^hyperpresident]: Pour ma part, si j'avais voulu critiquer le Président, j'aurais utilisé le
   terme de "Monarque", mais cela ne date pas de Macron. Tel que je le conçois,
   c'est sous Sarkozy que le Premier Ministre a cessé d'être le chef opérationnel
   du Gouvernement et est devenu le simple exécutant, non pas d'une ligne

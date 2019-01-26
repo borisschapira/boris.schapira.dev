@@ -6,7 +6,7 @@ require 'json'
 require 'yaml'
 
 namespace :prebuild do
-  task test: ['test:contents', 'test:doctor']
+  task test: ['test:doctor']
 
   desc 'Generate prod configuration from ENV variables'
   task :config do

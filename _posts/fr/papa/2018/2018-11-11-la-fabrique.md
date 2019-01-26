@@ -27,9 +27,7 @@ est reparti.
 
 Qu'ils grandissent vite.
 
-[^lego]:
-
-  Il y a deux ans, pour son grand frère, j'avais vulgarisé la génétique en
+[^lego]: Il y a deux ans, pour son grand frère, j'avais vulgarisé la génétique en
   disant que leur mère et moi étions construits avec des sortes de notices de
   Lego et que pour les fabriquer eux, on avait pris une page sur deux, au
   hasard, entre les deux notices. C'est pour ça que certains enfants ressemblent

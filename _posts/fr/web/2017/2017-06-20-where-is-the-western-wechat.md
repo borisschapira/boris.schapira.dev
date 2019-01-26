@@ -48,14 +48,10 @@ balbutiante, les normes de contrôle très réduites et les réglementations
 laxistes, quand elles existent (au contraire de l’Union Européenne, qui suis
 exactement le chemin inverse)[^rgdp].
 
-[^gf]:
-
-  Dont nous parlions dans notre article
+[^gf]: Dont nous parlions dans notre article
   "[S'implanter en Chine : état des lieux](https://blog.clever-age.com/fr/2014/07/28/s-implanter-en-chine-etat-des-lieux/)".
 
-[^rgdp]:
-
-  Nous en parlions plus en détails dans notre article
+[^rgdp]: Nous en parlions plus en détails dans notre article
   "[Réglement Général sur la Protection des Données Personnelles : petit guide pour les entreprises](https://blog.clever-age.com/fr/2017/04/04/reglement-general-sur-la-protection-des-donnees-personnel-petit-guide-pour-entreprises_rgpd/)".
 
 Autre élément de réponse : les barrières à l’entrée constituée par les App
@@ -192,9 +188,7 @@ Autant d'indices concordant laissant à penser que les
 <abbr lang="en" title="Progressive Web Apps">PWA</abbr> s’intégreront
 progressivement à l'offre applicative de Google Play.
 
-[^amp]:
-
-  Lire à ce sujet :
+[^amp]: Lire à ce sujet :
   "[AMP Project booste le chargement des pages web](https://blog.clever-age.com/fr/2016/02/08/amp-project-booste-le-chargement-des-pages-web/)"
 
 ## TL;DR : Google est sur les rails, et il va vite

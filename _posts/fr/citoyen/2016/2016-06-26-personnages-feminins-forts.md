@@ -65,7 +65,5 @@ crédible une œuvre ou un tel personnage n'existerait pas parce qu'il ne peut p
 exister de monde où des hommes sont forts et des femmes ne le sont pas : il
 s'agit juste d'un monde où on ne regarde que les hommes.
 
-[^hia]:
-
-  En anglais, on dit <span lang="en">have it all</span>, qui est une expression
+[^hia]: En anglais, on dit <span lang="en">have it all</span>, qui est une expression
   toute faite dont je ne connais pas l'équivalent.

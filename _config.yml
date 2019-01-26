@@ -165,7 +165,7 @@ repository: "borisschapira/borisschapira.com"
 
 markdown: CommonMark
 commonmark:
-  options: ["SMART", "FOOTNOTES", "UNSAFE", "HARDBREAKS"]
+  options: ["SMART", "FOOTNOTES", "UNSAFE"]
   extensions: ["strikethrough", "autolink", "table"]
 
 microtypo:

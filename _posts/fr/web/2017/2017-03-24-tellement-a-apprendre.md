@@ -23,9 +23,7 @@ caption=img_caption
 Je connais à peine ⅓ des outils de l'infographie[^others], mais l'exercice est
 intéressant.
 
-[^others]:
-
-  Si ce genre d'infographies vous intéressent, vous devriez également apprécier
+[^others]: Si ce genre d'infographies vous intéressent, vous devriez également apprécier
   [IT Landscape for sysadmins](http://sysadmin.it-landscape.info/) d'Alen Krmelj
   et
   [The Periodic Table of Devops Tools](https://xebialabs.com/Periodic-Table-of-devops-Tools)

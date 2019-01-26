@@ -17,9 +17,7 @@ Depuis quelques années une équipe de développeurs dirigée par
 plate-forme de développement complète basée sur une mise en œuvre de la machine
 virtuelle .NET… sous Linux !
 
-[^mono]:
-
-  L’équipe de développement de Mono bénéfie du soutien de Microsoft au travers
+[^mono]: L’équipe de développement de Mono bénéfie du soutien de Microsoft au travers
   d’un accord de coopération technique signé entre l’éditeur de Redmond et
   Novell.
 

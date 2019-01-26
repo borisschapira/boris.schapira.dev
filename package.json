@@ -30,10 +30,10 @@
     "pretty:js": "prettier --single-quote es5 --write '_src/scripts/custom/**/*.js'",
     "pretty:css": "prettier --write '_src/styles/scss/**/*.scss'",
     "pretty:md": "prettier --single-quote --prose-wrap always --write './**/*.md'",
+    "pretty:last-posts": "prettier --single-quote --prose-wrap always --write '_posts/**/2019/**/*.md'",
     "build:js": "npm run eslint && npm run concat && npm run uglify",
     "build:css": "npm run sass && npm run postcss",
     "build": "npm run vendors && npm run build:css && npm run build:js",
-    "prettier": "prettier --write **/*.md",
     "lambda:serve": "netlify-lambda serve functions",
     "lambda:build": "netlify-lambda build functions",
     "comments:get": "node ./scripts/get-comments.js",
@@ -48,6 +48,9 @@
     "_src/scripts/custom/**/*.js": [
       "pretty:js",
       "build:js"
+    ],
+    "_posts/**/2019/**/*.md": [
+      "pretty:last-posts"
     ]
   },
   "config": {

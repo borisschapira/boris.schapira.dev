@@ -13,9 +13,7 @@ Au début, je me suis demandé comment ça se mettait mais en réalité, il suff
 d'une seule utilisation pour "piger le truc" [^nda]. Plusieurs collègues me
 l'ont emprunté pour essayer et ont confirmé la facilité d'utilisation[^nda2].
 
-[^nda]:
-
-  Il y a plein de choses comme ça dans la vie, moins compliquées qu'elles en ont
+[^nda]: Il y a plein de choses comme ça dans la vie, moins compliquées qu'elles en ont
   l'air. Donc les enfants, sortez couverts.
 
 [^nda2]: Bon, là, clairement, il faut arrêter la blague, ça devient sale.

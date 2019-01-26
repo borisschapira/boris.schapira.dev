@@ -1,17 +1,17 @@
 ---
 title:
-  'Fiabiliser les connexions sécurisées avec HSTS (HTTP Strict Transport
-  Security)'
+    'Fiabiliser les connexions sécurisées avec HSTS (HTTP Strict Transport
+    Security)'
 i18n-key: hsts-bp-dareboost
 main_image: /assets/images/2017-09-18/1.jpg
 canonical: 'https://blog.dareboost.com/fr/2017/09/hsts-fiabiliser-connexions-securisees/'
 tags:
-  - 'Performance Web'
+    - 'Performance Web'
 slug: hsts-fiabiliser-connexions-securisees
 ---
 
 Si vous fréquentez [le blog de Dareboost], il ne vous aura pas échappé
-[qu’il est urgent de passer au HTTPS](https://blog.dareboost.com/fr/2016/03/https-necessaire-pas-uniquement-pour-le-seo/ 'Passer au HTTPs est nécessaire, et pas uniquement pour le SEO ∣ Blog Dareboost').
+[qu’il est urgent de passer au HTTPS](https://blog.dareboost.com/fr/2016/03/https-necessaire-pas-uniquement-pour-le-seo/).
 L’échéance est d’autant plus forte que les géants du Web ont déjà tiré leurs
 coups de semonce en affichant des alertes sur certaines pages en HTTP dans
 Google Chrome et Mozilla Firefox. Bientôt, ce seront tous les formulaires qui
@@ -90,7 +90,9 @@ les métriques de votre domaine. Corrigez les problèmes constatés.
 
 Voici un exemple d’implémentation avec Apache, pour une rétention de 5 minutes :
 
-    Header always set Strict-Transport-Security "max-age=300; includeSubDomains;"
+```
+Header always set Strict-Transport-Security "max-age=300; includeSubDomains;"
+```
 
 Le paramètre `includeSubDomains` permet de forcer le HTTPS pour l’ensemble des
 sous-domaines : attention, si certaines de vos ressources sont uniquement
@@ -101,7 +103,7 @@ modifiant votre directive HSTS avec un `max-age` à 0.
 
 > A max-age value of zero (i.e., `max-age=0`) signals the UA to cease regarding
 > the host as a Known HSTS Host, including the includeSubDomains directive (if
-> asserted for that HSTS Host).  
+> asserted for that HSTS Host).
 > <cite>[RFC6797, Section 6.1.1](https://tools.ietf.org/html/rfc6797#section-6.1.1)</cite>
 
 Récapitulons. La directive HSTS permet, en complément d’une redirection 301, de
@@ -113,25 +115,23 @@ visiteur à la version non-sécurisée.
 ## Un trafic totalement sécurisé et fiable avec HSTS Preloading
 
 Pour sécuriser davantage l’ensemble du trafic des sites sécurisés, le projet
-Chromium maintient une liste des domaines "valides HSTS », c’est-à-dire :
+Chromium maintient une liste des domaines "valides HSTS", c’est-à-dire :
 
-- disposant d’une version sécurisée à l’aide d’un certificat valide ;
-- ayant mis en place des redirections 301 de HTTP vers HTTPS ;
-- dont tous les sous-domaines sont sécurisés ;
-- proposant une directive HSTS (y compris sur la redirection 301) d’une validité
-  minimale de
-  <del datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">18
-  semaines (10886400 secondes)</del>
-  <ins datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">un an
-  (31536000 secondes)</ins>[^twalle], incluant les sous-domaines et spécifiant
-  l’attribut `preload`.
+-   disposant d’une version sécurisée à l’aide d’un certificat valide ;
+-   ayant mis en place des redirections 301 de HTTP vers HTTPS ;
+-   dont tous les sous-domaines sont sécurisés ;
+-   proposant une directive HSTS (y compris sur la redirection 301) d’une
+    validité minimale de
+    <del datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">18
+    semaines (10886400 secondes)</del>
+    <ins datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">un
+    an (31536000 secondes)</ins>[^twalle], incluant les sous-domaines et
+    spécifiant l’attribut `preload`.
 
-[^twalle]:
-
-  La valeur était de 18 semaines lorsque j'ai écrit l'article. Elle a été
-  repoussée à une année entre le 11 et le 16 octobre 2017. Merci à
-  [@Thibault_Walle](https://twitter.com/Thibault_Walle) de me l'avoir signalé en
-  commentaire.
+[^twalle]: La valeur était de 18 semaines lorsque j'ai écrit l'article. Elle a été
+    repoussée à une année entre le 11 et le 16 octobre 2017. Merci à
+    [@Thibault_Walle](https://twitter.com/Thibault_Walle) de me l'avoir signalé
+    en commentaire.
 
 Un site éligible pourra alors
 [rejoindre le registre HSTS Preloading](https://hstspreload.org/ 'HSTS Preload List Submission')
@@ -183,5 +183,5 @@ refusera de basculer en HTTP pour le visiter, protégeant ainsi vos visiteurs.
 
 ## Lectures complémentaires
 
-- [[EN] HTTP Strict Transport Security – The Chromium Projects](https://www.chromium.org/hsts)
-- [[EN] HTTP Strict Transport Security Cheat Sheet – OWASP](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet)
+-   [[EN] HTTP Strict Transport Security – The Chromium Projects](https://www.chromium.org/hsts)
+-   [[EN] HTTP Strict Transport Security Cheat Sheet – OWASP](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet)

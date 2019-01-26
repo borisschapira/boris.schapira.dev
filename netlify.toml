@@ -1,7 +1,7 @@
 [build]
-  command = "yarn comments:get; bundle exec rake build:generate; bundle exec rake test; npm run lambda:build"
+  command = "yarn comments:get; bundle exec rake build:generate; bundle exec rake test; yarn run lambda:build"
   publish = "_site"
   functions = "lambda"
 
 [context.branch-deploy]
-  command = "yarn comments:get; bundle exec rake build:generate[integ]; npm run lambda:build"
+  command = "yarn comments:get; bundle exec rake build:generate[integ]; yarn run lambda:build"
