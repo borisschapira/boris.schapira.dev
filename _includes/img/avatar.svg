@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 264 280" class="avatar" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+<svg viewBox="0 0 264 280" class="avatar" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <circle cx="120" cy="120" r="120"/>
     <path d="M12 160a120 120 0 0 0 240 0h12V0H0v160h12z"/>
@@ -26,7 +25,7 @@
       <mask id="o" fill="#fff">
         <path d="M0 0h264v280H0z"/>
       </mask>
-      <g class="kids" bx:origin="0.4548 0.5">
+      <g class="kids">
         <g mask="url(#mask-4)" transform="translate(55.5 11) scale(.9562)">
           <g transform="translate(32 36)">
             <mask id="c" fill="#fff">
@@ -55,12 +54,12 @@
           </g>
           <g fill="#000">
             <g>
-              <g transform="matrix(1, 0, 0, 1, 1.045807, 1.332147)" bx:origin="4.640814 0.5">
+              <g transform="matrix(1, 0, 0, 1, 1.045807, 1.332147)">
                 <circle cx="107.127" cy="122.596" r="0.523" fill-opacity="1" style="fill: rgba(165, 85, 23, 0.83);"/>
                 <circle cx="102.947" cy="126.975" r="0.523" fill-opacity="1" style="fill: rgba(165, 85, 23, 0.83);"/>
                 <circle cx="111.62" cy="126.555" r="0.523" fill-opacity="1" style="fill: rgba(165, 85, 23, 0.83);"/>
               </g>
-              <g transform="matrix(1, 0, 0, 1, 47.461861, 1.332147)" bx:origin="-3.74511 0.5">
+              <g transform="matrix(1, 0, 0, 1, 47.461861, 1.332147)">
                 <circle cx="107.127" cy="122.596" r="0.523" fill-opacity="1" style="fill: rgba(165, 85, 23, 0.83);"/>
                 <circle cx="102.947" cy="126.975" r="0.523" fill-opacity="1" style="fill: rgba(165, 85, 23, 0.83);"/>
                 <circle cx="111.62" cy="126.555" r="0.523" fill-opacity="1" style="fill: rgba(165, 85, 23, 0.83);"/>
