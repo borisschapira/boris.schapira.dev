@@ -11,7 +11,7 @@ layout: microtypo
     <script>
       {% include first-input-delay.min.js %}
       perfMetrics.onFirstInputDelay(function(delay, evt) {
-        console.log('FID', evt.type, Math.round(delay));
+        console.log('FID', evt.type, Math.round(evt.timeStamp) + 'ms' , Math.round(delay));
       });
     </script>
 
