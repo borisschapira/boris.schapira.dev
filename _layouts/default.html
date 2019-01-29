@@ -7,6 +7,14 @@ layout: microtypo
     <!-- nomicrotypo -->
     
     <meta charset="utf-8" />
+
+    <script>
+      {% include first-input-delay.min.js %}
+      perfMetrics.onFirstInputDelay(function(delay, evt) {
+        console.log('FID', evt.type, Math.round(delay));
+      });
+    </script>
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
     {% comment %} Prefetching of domains that I am likely to use {% endcomment %}
