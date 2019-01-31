@@ -9,7 +9,7 @@ html {
 }
 
 .container {
-  background-color: var(--color-main-whitey);
+  background-color: var(--color-main-background);
   background-image: none;
   @extend %main-grid;
 
@@ -33,7 +33,7 @@ html {
   aside {
     grid-column: 9 / 12;
     margin: $global-gutters 0;
-    background-color: var(--color-main-lightgray);
+    background-color: var(--color-main-grayfade);
     padding: $global-gutters/2;
     display: grid;
 
@@ -44,7 +44,7 @@ html {
 }
 
 .categories {
-  background-color: var(--color-main-whitey);
+  background-color: var(--color-main-background);
   background-image: none;
   padding: $global-gutters/2;
 

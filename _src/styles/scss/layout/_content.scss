@@ -1,7 +1,7 @@
 .page-title {
   grid-column: 1 / 13;
   text-align: center;
-  background-color: var(--color-main-lightgray);
+  background-color: var(--color-main-grayfade);
   margin: 0;
   padding: $global-gutters/2;
 
@@ -18,10 +18,10 @@
 
 .post {
   padding-top: 2rem;
-  border-bottom: 1px solid var(--color-main-lightgray);
+  border-bottom: 1px solid var(--color-main-grayfade);
 
   &:first-of-type:not(:only-of-type) {
-    border-top: 1px solid var(--color-main-lightgray);
+    border-top: 1px solid var(--color-main-grayfade);
   }
 
   &:last-of-type:not(:only-of-type) {

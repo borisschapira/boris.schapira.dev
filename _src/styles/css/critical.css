@@ -506,14 +506,14 @@ button svg {
   pointer-events: none; }
 
 hr {
-  color: var(--color-main-lightgray);
-  background-color: var(--color-main-lightgray);
+  color: var(--color-main-grayfade);
+  background-color: var(--color-main-grayfade);
   border: 0;
   height: 1px;
   margin: 1.7em 0; }
 
 .footnotes {
-  border-top: 1px solid var(--color-main-lightgray);
+  border-top: 1px solid var(--color-main-grayfade);
   margin: 1.7em 0; }
 
 [target="_blank"]:not(.npe)::after {
@@ -665,16 +665,16 @@ hr {
   overflow: hidden;
   border: 1px solid;
   border-radius: 0.125em;
-  box-shadow: 0 0 0.5em 0 #fff;
+  box-shadow: 0 0 0.5em 0 var(--color-compliment-text);
   font: normal 400 1em /1.7 "PT Serif", serif;
   text-align: center;
   text-decoration: none;
   vertical-align: baseline;
   text-transform: lowercase;
   padding: 0 5px;
-  color: #fff;
+  color: var(--color-compliment-text);
   background-color: var(--color-main);
-  border-color: #fff;
+  border-color: var(--color-compliment-text);
   background-color: transparent; }
   @media screen and (prefers-reduced-motion: reduce) {
     .button,
@@ -684,19 +684,19 @@ hr {
   .button-inversed:hover,
   .button-inversed:focus {
     color: var(--color-main);
-    background-color: #fff;
+    background-color: var(--color-compliment-text);
     text-decoration: none; }
 
 .button-inversed,
 .menu-open .menu-trigger {
   color: var(--color-main);
-  background-color: #fff;
+  background-color: var(--color-compliment-text);
   border-color: var(--color-main);
-  background-color: #fff; }
+  background-color: var(--color-compliment-text); }
   .button-inversed:hover, .button-inversed:focus,
   .menu-open .menu-trigger:hover,
   .menu-open .menu-trigger:focus {
-    color: #fff;
+    color: var(--color-compliment-text);
     background-color: var(--color-main); }
 
 .button-reset {
@@ -1020,7 +1020,7 @@ html {
   box-sizing: inherit; }
 
 .container {
-  background-color: var(--color-main-whitey);
+  background-color: var(--color-main-background);
   background-image: none; }
   .container .content {
     grid-column: 2 / 8; }
@@ -1036,7 +1036,7 @@ html {
   .container aside {
     grid-column: 9 / 12;
     margin: 2rem 0;
-    background-color: var(--color-main-lightgray);
+    background-color: var(--color-main-grayfade);
     padding: 1rem;
     display: grid; }
     @media (max-width: 959px) {
@@ -1044,7 +1044,7 @@ html {
         grid-column: 2 / 12; } }
 
 .categories {
-  background-color: var(--color-main-whitey);
+  background-color: var(--color-main-background);
   background-image: none;
   padding: 1rem; }
   .categories ul {
@@ -1106,9 +1106,9 @@ body.menu-open {
   .nav-header .close-label {
     display: none; }
   .nav-header a {
-    color: #fff; }
+    color: var(--color-compliment-text); }
     .nav-header a:hover {
-      color: #fff; }
+      color: var(--color-compliment-text); }
     .nav-header a.title {
       display: flex;
       grid-column: 2 / 11;
@@ -1142,7 +1142,7 @@ body.menu-open {
 .page-title {
   grid-column: 1 / 13;
   text-align: center;
-  background-color: var(--color-main-lightgray);
+  background-color: var(--color-main-grayfade);
   margin: 0;
   padding: 1rem; }
   .page-title small {
@@ -1154,9 +1154,9 @@ body.menu-open {
 
 .post {
   padding-top: 2rem;
-  border-bottom: 1px solid var(--color-main-lightgray); }
+  border-bottom: 1px solid var(--color-main-grayfade); }
   .post:first-of-type:not(:only-of-type) {
-    border-top: 1px solid var(--color-main-lightgray); }
+    border-top: 1px solid var(--color-main-grayfade); }
   .post:last-of-type:not(:only-of-type) {
     border-bottom: none; }
   .post header > span::before {

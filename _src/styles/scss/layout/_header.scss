@@ -36,10 +36,10 @@ body.menu-open {
   }
 
   a {
-    color: #fff;
+    color: var(--color-compliment-text);
 
     &:hover {
-      color: #fff;
+      color: var(--color-compliment-text);
     }
 
     &.title {

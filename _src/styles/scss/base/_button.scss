@@ -7,7 +7,7 @@
   overflow: hidden;
   border: 1px solid;
   border-radius: 0.125em;
-  box-shadow: 0 0 0.5em 0 #fff;
+  box-shadow: 0 0 0.5em 0 var(--color-compliment-text);
   font: $button-font-style $button-font-weight 1em /#{$default-line-height}
     $button-font-family;
   text-align: center;
@@ -17,15 +17,15 @@
   padding: 0 5px;
   @include transition();
 
-  color: #fff;
+  color: var(--color-compliment-text);
   background-color: var(--color-main);
-  border-color: #fff;
+  border-color: var(--color-compliment-text);
   background-color: transparent;
 
   &:hover,
   &:focus {
     color: var(--color-main);
-    background-color: #fff;
+    background-color: var(--color-compliment-text);
     text-decoration: none;
   }
 }
@@ -33,13 +33,13 @@
 .button-inversed,
 .menu-open .menu-trigger {
   color: var(--color-main);
-  background-color: #fff;
+  background-color: var(--color-compliment-text);
   border-color: var(--color-main);
-  background-color: #fff;
+  background-color: var(--color-compliment-text);
 
   &:hover,
   &:focus {
-    color: #fff;
+    color: var(--color-compliment-text);
     background-color: var(--color-main);
   }
 }

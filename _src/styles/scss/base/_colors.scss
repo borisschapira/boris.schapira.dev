@@ -14,6 +14,14 @@
   --color-web-hue: 210;
   --color-web-saturation: 80%;
   --color-web-lightning: 50%;
+
+  --is-dark-mode: 0;
+}
+
+@media (color-index: 48), (prefers-color-scheme: dark) {
+  :root {
+    --is-dark-mode: 1;
+  }
 }
 
 .colorized,
@@ -21,8 +29,11 @@
   --color-main: hsl(
     var(--color-hue),
     var(--color-saturation),
-    var(--color-lightning)
+    calc(var(--color-lightning) + var(--is-dark-mode) * 10%)
   );
+
+  --color-main-text: hsl(0, 0%, calc(5% + 90% * var(--is-dark-mode)));
+  --color-compliment-text: hsl(0, 0%, calc(95% - 90% * var(--is-dark-mode)));
 
   --color-main-desaturate: hsl(
     var(--color-hue),
@@ -45,7 +56,7 @@
   --color-compliment: hsl(
     calc(var(--color-hue) + 180),
     var(--color-saturation),
-    var(--color-lightning)
+    calc(var(--color-lightning) + var(--is-dark-mode) * 10%)
   );
 
   --color-compliment-desaturate: hsl(
@@ -66,13 +77,24 @@
     calc(var(--color-lightning) + 10%)
   );
 
-  --color-compliment-whitey: hsl(calc(var(--color-hue) + 180), 100%, 85%);
+  --color-main-background: hsl(
+    var(--color-hue),
+    30%,
+    calc(99% - var(--is-dark-mode) * 99%)
+  );
+  --color-main-background: hsl(
+    calc(var(--color-hue) + 180),
+    30%,
+    calc(99% - var(--is-dark-mode) * 99%)
+  );
 
   --color-main-gray: hsl(var(--color-hue), 10%, 20%);
 
-  --color-main-lightgray: hsl(var(--color-hue), 30%, 95%);
-
-  --color-main-whitey: hsl(var(--color-hue), 30%, 99%);
+  --color-main-grayfade: hsl(
+    var(--color-hue),
+    30%,
+    calc(95% - 90% * var(--is-dark-mode))
+  );
 
   &.main {
     --color-hue: var(--color-main-hue);
@@ -100,6 +122,7 @@
 }
 
 body {
+  color: var(--color-main-text);
   background-color: var(--color-main);
   &.main,
   &.main aside {
@@ -128,5 +151,5 @@ body {
 
 ::selection,
 ::-moz-selection {
-  background-color: var(--color-compliment-whitey);
+  background-color: var(--color-compliment-background);
 }
