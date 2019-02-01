@@ -15,6 +15,7 @@ html {
 
   .content {
     grid-column: 2 / 8;
+    max-width: 38rem;
 
     &.full-width {
       grid-column: 2 / 12;
@@ -24,8 +25,7 @@ html {
       grid-column: 2 / 12;
     }
 
-    @include media(">=xlarge") {
-      max-width: 45rem;
+    @include media(">=large") {
       margin: auto;
     }
   }

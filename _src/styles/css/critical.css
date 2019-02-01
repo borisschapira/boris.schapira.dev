@@ -1023,15 +1023,15 @@ html {
   background-color: var(--color-main-background);
   background-image: none; }
   .container .content {
-    grid-column: 2 / 8; }
+    grid-column: 2 / 8;
+    max-width: 38rem; }
     .container .content.full-width {
       grid-column: 2 / 12; }
     @media (max-width: 959px) {
       .container .content {
         grid-column: 2 / 12; } }
-    @media (min-width: 1200px) {
+    @media (min-width: 960px) {
       .container .content {
-        max-width: 45rem;
         margin: auto; } }
   .container aside {
     grid-column: 9 / 12;
