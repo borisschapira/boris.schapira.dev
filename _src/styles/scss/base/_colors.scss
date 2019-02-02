@@ -93,7 +93,7 @@
   --color-main-grayfade: hsl(
     var(--color-hue),
     30%,
-    calc(95% - 90% * var(--is-dark-mode))
+    calc(95% - 75% * var(--is-dark-mode))
   );
 
   &.main {
