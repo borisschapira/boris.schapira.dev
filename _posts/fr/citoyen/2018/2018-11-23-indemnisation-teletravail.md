@@ -5,6 +5,14 @@ tags:
   - Travail
 ---
 
+---
+
+***Aux employeurs et employeuses souhaitant mettre en place le télétravail***
+
+*[Cet article de ma princière colocataire conjuguale](https://libelilou.github.io/2018/12/18/teletravail.html) sera une meilleure introduction au sujet que ce que vous pourriez lire ci-dessous.*
+
+---
+
 Il y a quelques semaines, j'ai répondu à un tweet concernant les indemnités
 liées au **télétravail à domicile à temps complet** :
 
