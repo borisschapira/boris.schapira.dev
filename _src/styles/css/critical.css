@@ -2,7 +2,7 @@
 /* ==========================================================================
    CONFIG
    ========================================================================== */
-.categories ul, .nav-header ul {
+.widget ul, .nav-header ul {
   margin: 0;
   padding: 0;
   list-style: none; }
@@ -1022,36 +1022,36 @@ html {
 .container {
   background-color: var(--color-main-background);
   background-image: none; }
+  .container.full-width-content .content {
+    grid-column: 2 / 12;
+    margin: auto; }
+  .container.full-width-content aside {
+    display: none; }
   .container .content {
     grid-column: 2 / 8;
     max-width: 38rem; }
-    .container .content.full-width {
-      grid-column: 2 / 12; }
     @media (max-width: 959px) {
       .container .content {
         grid-column: 2 / 12; } }
-    @media (min-width: 960px) {
-      .container .content {
-        margin: auto; } }
   .container aside {
     grid-column: 9 / 12;
-    margin: 2rem 0;
-    background-color: var(--color-main-grayfade);
+    border-left: 2px solid var(--color-main-grayfade);
     padding: 1rem;
-    display: grid; }
+    display: block; }
     @media (max-width: 959px) {
       .container aside {
         grid-column: 2 / 12; } }
 
-.categories {
-  background-color: var(--color-main-background);
-  background-image: none;
-  padding: 1rem; }
-  .categories ul {
+.widget {
+  padding: 1rem;
+  border-bottom: 2px solid var(--color-main-grayfade); }
+  .widget:last-of-type:not(:only-of-type) {
+    border-bottom: none; }
+  .widget ul {
     margin-left: 1rem; }
-  .categories h3 {
+  .widget h3 {
     margin-top: 0; }
-  .categories ul {
+  .widget ul {
     margin-bottom: 0; }
 
 .clearfix::after {
@@ -1154,21 +1154,22 @@ body.menu-open {
 
 .post {
   padding-top: 2rem;
-  border-bottom: 1px solid var(--color-main-grayfade); }
-  .post:first-of-type:not(:only-of-type) {
-    border-top: 1px solid var(--color-main-grayfade); }
+  border-bottom: 2px solid var(--color-main-grayfade); }
   .post:last-of-type:not(:only-of-type) {
     border-bottom: none; }
-  .post header > span::before {
-    content: "\00a0·\00a0"; }
-  .post header > span,
-  .post header > time {
-    display: inline-block;
-    margin-bottom: 0;
-    color: var(--gray-color); }
-    .post header > span a,
-    .post header > time a {
-      color: var(--gray-color); }
+  .post header {
+    font-size: 0.9rem;
+    color: var(--color-main-gray); }
+    .post header > span::before {
+      content: "\00a0·\00a0"; }
+    .post header > span,
+    .post header > time {
+      display: inline-block;
+      margin-bottom: 0;
+      color: var(--color-main-gray); }
+      .post header > span a:not(.category),
+      .post header > time a:not(.category) {
+        color: var(--color-main-gray); }
   .post .post-title {
     margin-top: 0; }
   .post .post-content h2:first-child {

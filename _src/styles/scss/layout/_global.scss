@@ -13,29 +13,31 @@ html {
   background-image: none;
   @extend %main-grid;
 
+  &.full-width-content {
+    .content {
+      grid-column: 2 / 12;
+      margin: auto;
+    }
+
+    aside {
+      display: none;
+    }
+  }
+
   .content {
     grid-column: 2 / 8;
     max-width: 38rem;
 
-    &.full-width {
-      grid-column: 2 / 12;
-    }
-
     @include media("<large") {
       grid-column: 2 / 12;
-    }
-
-    @include media(">=large") {
-      margin: auto;
     }
   }
 
   aside {
     grid-column: 9 / 12;
-    margin: $global-gutters 0;
-    background-color: var(--color-main-grayfade);
+    border-left: $border-separators solid var(--color-main-grayfade);
     padding: $global-gutters/2;
-    display: grid;
+    display: block;
 
     @include media("<large") {
       grid-column: 2 / 12;
@@ -43,10 +45,13 @@ html {
   }
 }
 
-.categories {
-  background-color: var(--color-main-background);
-  background-image: none;
+.widget {
   padding: $global-gutters/2;
+  border-bottom: $border-separators solid var(--color-main-grayfade);
+
+  &:last-of-type:not(:only-of-type) {
+    border-bottom: none;
+  }
 
   ul {
     @extend %ul-reset;

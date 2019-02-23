@@ -168,33 +168,12 @@ layout: microtypo
         </ul>
       </nav>
     </header>
-    <section class="container">
-      <h1 class="page-title">{{ page.title }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>
-      <div class="content{% if page.layout=='post' or page.layout=='page' %} full-width{% endif %}" role="main">
+    <h1 class="page-title">{{ page.title }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>
+    <section class="container{% if page.layout=='post' or page.layout=='page' %} full-width-content{% endif %}">
+      <div class="content" role="main">
         {{ content }}
-      </div>
-      {% if page.aside %}
-      <aside>
-        <div class="categories">
-          <h3>{{ "Catégories" | t: page.locale }}</h3>
-          <ul>
-            <li class="h-like colorized web {% if page.category == 'web' %}active{% endif %}" itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem"><a href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "web" | t: page.locale }}</a></li>
-            <li class="h-like colorized citoyen {% if page.category == 'citoyen' %}active{% endif %}" itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem">
-            <a href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "citoyen" | t: page.locale }}</a>
-            </li>
-            <li class="h-like colorized papa {% if page.category == 'papa' %}active{% endif %}" itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem">
-            <a href="{{ 'papa' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "papa" | t: page.locale }}</a>
-            </li>
-          </ul>
-        </div>
-      </aside>
-      {% endif %}
-    </section>
-    <footer class="main-footer">
-        {% if paginator %}
+        
+      {% if paginator %}
         {% capture url_prefix %}{% if page.category %}/{{page.category}}{% endif %}{% endcapture %}
         {% if paginator.total_pages > 1 %}
         <ul class="pagination">
@@ -289,7 +268,52 @@ layout: microtypo
           {% endif %}
         </ul>
         {% endif %}
-        {% endif %}
+      {% endif %}
+      </div>
+      <aside>
+        <div class="widget">
+          <h3>{{ "Catégories" | t: page.locale }}</h3>
+          <ul>
+            <li itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem"><a class="web {% if page.category == 'web' %}active{% endif %}" href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "web" | t: page.locale }}</a></li>
+            <li itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem">
+            <a class="citoyen {% if page.category == 'citoyen' %}active{% endif %}" href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "citoyen" | t: page.locale }}</a>
+            </li>
+            <li itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem">
+            <a class="papa {% if page.category == 'papa' %}active{% endif %}" href="{{ 'papa' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "papa" | t: page.locale }}</a>
+            </li>
+          </ul>
+        </div>
+        <div class="widget">
+          <h3>Quotes</h3>
+          <p>
+            <blockquote>
+              Don't cry because it's over, smile because it happened.
+              <cite>Dr Seuss</cite>
+            </blockquote>
+          </p>
+        </div>
+        <div class="widget">
+          <h3>Events</h3>
+          <ul>
+            <li class="{% if page.category == 'web' %}active{% endif %}" itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem"><a href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "web" | t: page.locale }}</a></li>
+            <li class="h-like colorized citoyen {% if page.category == 'citoyen' %}active{% endif %}" itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem">
+            <a href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "citoyen" | t: page.locale }}</a>
+            </li>
+            <li class="h-like colorized papa {% if page.category == 'papa' %}active{% endif %}" itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem">
+            <a href="{{ 'papa' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "papa" | t: page.locale }}</a>
+            </li>
+          </ul>
+        </div>
+      </aside>
+    </section>
+    <footer class="main-footer">
+        
     </footer>
     {% include footer.html.liquid type=page.type loadTwitterWjs=page.loadTwitterWjs loadSearch=page.loadSearch %}
     <script src="//instant.page/1.1.0" type="module" integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>

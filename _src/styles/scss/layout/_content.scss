@@ -18,17 +18,16 @@
 
 .post {
   padding-top: 2rem;
-  border-bottom: 1px solid var(--color-main-grayfade);
-
-  &:first-of-type:not(:only-of-type) {
-    border-top: 1px solid var(--color-main-grayfade);
-  }
+  border-bottom: $border-separators solid var(--color-main-grayfade);
 
   &:last-of-type:not(:only-of-type) {
     border-bottom: none;
   }
 
   header {
+    font-size: 0.9rem;
+    color: var(--color-main-gray);
+
     > span {
       &::before {
         content: "\00a0·\00a0";
@@ -39,10 +38,10 @@
     > time {
       display: inline-block;
       margin-bottom: 0;
-      color: var(--gray-color);
+      color: var(--color-main-gray);
 
-      a {
-        color: var(--gray-color);
+      a:not(.category) {
+        color: var(--color-main-gray);
       }
     }
   }

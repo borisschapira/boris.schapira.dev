@@ -1,17 +1,16 @@
 ---
-layout: default
+layout: page
 ---
 
-<div class="page">
+<section class="page">
   {% if page.events %}
-  <header class="p-header">
+  <header>
       {% for event in page.events %}
         {% assign datetime = event.date | date_to_xmlschema %}
         <div class="p-date">{{ event.name }}&nbsp;— <time class="dt-published" datetime="{{ datetime }}">{{ event.date | l: '%A %-d %B %Y', page.locale }}</time></div>
       {% endfor %}
   </header>
   {% endif %}
-  <h2 class="page-title">{{ page.title }}</h2>
   <div class="post-content">
     {% if page.content.size > 1 %}
     {{ page.content }}
@@ -19,4 +18,4 @@ layout: default
     {{ page.description | raw }}
     {% endif %}
   </div>
-</div>
+</section>
