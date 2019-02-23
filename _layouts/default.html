@@ -134,9 +134,6 @@ layout: microtypo
 
     <header class="nav-header">
       <a href="{{ page.baseurl | relative_url }}" itemprop="url" class="title">
-        <!--<div class="avatar-container">-->
-          <!-- nomicrotypo {% include avatar.svg %}<!-- endnomicrotypo
-        </div>-->
         {{ site.title }}
       </a>
       <nav>
@@ -271,6 +268,11 @@ layout: microtypo
       {% endif %}
       </div>
       <aside>
+        <img decoding="async" src="/assets/images/shared/avatar.svg#avatar" aria-hidden="true" class="avatar" />
+        <svg class="avatar" viewBox="0 0 264 280">
+          <use xlink:href="/assets/images/shared/avatar-sym.svg#avatar"></use>
+        </svg>
+        <!-- nomicrotypo -->{% include avatar.svg %}<!-- endnomicrotypo -->
         <div class="widget">
           <h3>{{ "Catégories" | t: page.locale }}</h3>
           <ul>
