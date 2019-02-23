@@ -291,12 +291,6 @@ ready(function() {
 
   (function videoPlayPause() {
     perfmark(function() {
-      var authorize_download = false;
-      var connection =
-        navigator.connection ||
-        navigator.mozConnection ||
-        navigator.webkitConnection;
-      authorize_download = !connection || connection.effectiveType == '4g';
       var videos = document.querySelectorAll('.videoWrapper.gif');
       videos.forEach(function(item) {
         var insideVid = item.querySelector('video');
@@ -305,9 +299,6 @@ ready(function() {
         item.style.height = insideVid.clientHeight + 'px';
         item.style.width = insideVid.clientWidth + 'px';
         insideVid.style.height = insideVid.clientHeight + 'px';
-        if (authorize_download) {
-          insideVid.setAttribute('preload', 'auto');
-        }
 
         item.addEventListener('click', toggleVideo, false);
       });
