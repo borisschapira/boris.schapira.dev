@@ -1,15 +1,14 @@
 ---
 layout: page
 title: Bonjour, je suis Boris
-permalink: /a-propos/moi/
+subtitle: ravi de vous rencontrer
+permalink: /a-propos/
 i18n-key: about-me
 ---
 
-## ravi de vous rencontrer
-
 Ingénieur de formation[^1], je suis <span lang="en">Customer Success Manager</span> pour [Dareboost](https://www.dareboost.com/ "Analyse de site Web, Test de Performance et Audit qualité - DareBoost"), une solution d'audit complet de la qualité web pour un site plus performant. Mon rôle est d’aider mes client·e·s à améliorer leurs performances en étant attentif à leurs questions et en les aidant à utiliser Dareboost à son plein potentiel.
 
-Vous avez pu me rencontrer précédemment autour de problématiques liées au Service Design, à la Finance de Marché, à l'e-Commerce, à la Qualité et la Performance Web ou au choix d'une solution référentielle (<abbr lang="en" title="Content Management System">CMS</abbr>, <abbr lang="en" title="Digital Asset Management">DAM</abbr>, <abbr lang="en" title="Online Video Platform">OVP</abbr>) ou logicielle (choix d'un <em lang="en">framework</em>).
+Vous avez pu me rencontrer précédemment autour de problématiques liées au Service Design, à la Finance de Marché, à l'e-Commerce, à la Qualité et la Performance Web ou au choix d'une solution référentielle (<abbr lang="en" title="Content Management System">CMS</abbr>, <abbr lang="en" title="Digital Asset Management">DAM</abbr>, <abbr lang="en" title="Online Video Platform">OVP</abbr>) ou logicielle (choix d'un <em lang="en">framework</em>).
 
 <figure>
   <a href="https://certified.opquast.com/certificate/V085B7/"><img role="img" src="/assets/images/shared/issuer_v085b7.svg" width="200" height="200" alt="Un certificat OpQuast composé de 5 étoiles, avec écrit &quote;Expert&quote;"></a>

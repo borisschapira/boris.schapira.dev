@@ -72,3 +72,15 @@ html {
   display: block;
   clear: both;
 }
+
+.footer-nav {
+  color: #fff;
+}
+.footer-nav ul {
+  @extend %li-no-list-style;
+  margin: $global-gutters/2 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: $global-gutters;
+}

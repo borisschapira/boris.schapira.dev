@@ -193,13 +193,13 @@ domain: 'borisschapira.com'
 author:
   name: 'Boris Schapira'
   url: https://borisschapira.com/
-  flickr: 'http://flickr.com/borisschapira'
+  flickr: 'https://flickr.com/borisschapira'
   github: 'https://github.com/borisschapira'
-  twitter: 'http://twitter.com/borisschapira'
+  twitter: 'https://twitter.com/borisschapira'
   mastodon: https://framapiaf.org/@borisschapira
   twitter_username: '@borisschapira'
   gravatar: https://www.gravatar.com/avatar/e884b2ba7d66cfea7cb2185922c7a183
-  linkedin: 'http://linkedin.com/in/borisschapira'
+  linkedin: 'https://linkedin.com/in/borisschapira'
   feed: '/feed.xml'
   mailto: 'contact%40borisschapira.com'
 

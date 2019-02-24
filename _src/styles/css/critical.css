@@ -11,9 +11,9 @@
   display: grid;
   grid-template-columns: repeat(12, 1fr); }
 
-blockquote li {
+blockquote li, .footer-nav ul {
   list-style-type: none; }
-  blockquote li:before {
+  blockquote li:before, .footer-nav ul:before {
     content: "\200B";
     /* add zero-width space */ }
 
@@ -1052,6 +1052,16 @@ html {
   content: " ";
   display: block;
   clear: both; }
+
+.footer-nav {
+  color: #fff; }
+
+.footer-nav ul {
+  margin: 1rem 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 2rem; }
 
 body,
 .menu-trigger {

@@ -151,6 +151,11 @@ layout: microtypo
             <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}/">{{ "À propos" | t: page.locale }}</a>
           </li>
 
+          <li {% if page.i18n-key == 'about' %}class="active"{% endif %} itemprop="itemListElement" itemscope
+          itemtype="http://schema.org/ListItem">
+            <a href="{{ "partager" | t:page.locale | prepend: page.baseurl | relative_url }}/">{{ "Partager" | t: page.locale }}</a>
+          </li>
+
           <li {% if page.i18n-key == 'search' %}class="active"{% endif %} 
           itemprop="itemSearchResultsPage" itemscope
           itemtype="http://schema.org/SearchResultsPage">
@@ -289,22 +294,26 @@ layout: microtypo
       </aside>
     </section>
     <footer class="main-footer">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href="http://loripsum.net/" target="_blank">Ut aliquid scire se gaudeant?</a> Sed quot homines, tot sententiae; At enim sequor utilitatem. Sic enim censent, oportunitatis esse beate vivere. Sint modo partes vitae beatae. <a href="http://loripsum.net/" target="_blank">Et quidem, inquit, vehementer errat;</a> </p>
-
+      <nav class="footer-nav">
         <ul>
-          <li>Duo Reges: constructio interrete.</li>
-          <li>Traditur, inquit, ab Epicuro ratio neglegendi doloris.</li>
+          <li>
+            <a href="/about/">About</a>
+            <span>A little bit more about me.</span>
+          </li>
+          <li>
+            <a href="/speaking/">Speaking</a>
+            <span>Past and future conference appearances, with links to talk videos.</span>
+          </li>
+          <li>
+            <a href="/desk/">The Desk</a>
+            <span>Articles on travel, productivity, life, and more.</span>
+          </li>
+          <li>
+            <a href="/TIL/">#TIL</a>
+            <span>Useful little tips, tricks and pieces of knowledge I learned today.</span>
+          </li>
         </ul>
-
-
-        <ol>
-          <li>Quodsi ipsam honestatem undique pertectam atque absolutam.</li>
-          <li>Summus dolor plures dies manere non potest?</li>
-          <li>Mihi enim erit isdem istis fortasse iam utendum.</li>
-          <li>Sed tu istuc dixti bene Latine, parum plane.</li>
-          <li>Aliter homines, aliter philosophos loqui putas oportere?</li>
-          <li>Hanc in motu voluptatem -sic enim has suaves et quasi dulces voluptates appellat-interdum ita extenuat, ut M.</li>
-        </ol>
+      </nav>
     </footer>
     {% include footer.html.liquid type=page.type loadTwitterWjs=page.loadTwitterWjs loadSearch=page.loadSearch %}
     <script src="//instant.page/1.1.0" type="module" integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
