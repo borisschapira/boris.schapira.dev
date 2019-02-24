@@ -5,7 +5,7 @@
   justify-content: center;
   margin: 3em auto;
   padding: 0;
-  color: var(--color-compliment-text);
+  color: var(--color-text);
   max-width: 15rem;
   li {
     flex-grow: 1;
@@ -14,16 +14,20 @@
     strong {
       padding: 0.1em 0.3em;
       text-decoration: none;
-      border: 2px solid #fff;
-      color: var(--color-compliment-text);
+    }
+    a {
+      border: 2px solid;
+      border-color: var(--color-main);
+      background-color: var(--color-main);
+      color: #fff;
     }
     a:hover {
-      border-color: var(--color-main);
+      background: none;
+      color: var(--color-text);
     }
     strong {
       font-weight: 400;
-      border-color: var(--color-main);
-      background-color: var(--color-main);
+      color: var(--color-text);
     }
   }
 }

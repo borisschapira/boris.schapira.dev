@@ -118,6 +118,9 @@
 .avatar {
   width: 100%;
   height: auto;
+  width: 60%;
+  display: block;
+  margin: auto;
 
   .eyebrows {
     @include animation(browsup 40s linear infinite);

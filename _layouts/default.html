@@ -148,13 +148,13 @@ layout: microtypo
 
           <li {% if page.i18n-key == 'about' %}class="active"{% endif %} itemprop="itemListElement" itemscope
           itemtype="http://schema.org/ListItem">
-            <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}">{{ "À propos" | t: page.locale }}</a>
+            <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}/">{{ "À propos" | t: page.locale }}</a>
           </li>
 
           <li {% if page.i18n-key == 'search' %}class="active"{% endif %} 
           itemprop="itemSearchResultsPage" itemscope
           itemtype="http://schema.org/SearchResultsPage">
-          <a href="{{ 'Recherche' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{{ "Recherche" | t: page.locale }}</a>
+          <a href="{{ 'recherche' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{{ "Recherche" | t: page.locale }}</a>
           </li>
 
           {% if page.translation %}
@@ -166,7 +166,7 @@ layout: microtypo
       </nav>
     </header>
     <h1 class="page-title">{{ page.title }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>
-    <section class="container{% if page.layout=='post' or page.layout=='page' %} full-width-content{% endif %}">
+    <section class="container{% if page.layout=='post' or page.layout=='page' or page.layout=='conf' %} full-width-content{% endif %}">
       <div class="content" role="main">
         {{ content }}
         
@@ -179,7 +179,7 @@ layout: microtypo
             {% if paginator.previous_page == 1 %}
               {% comment %} Si on est sur la page 2, la page précédente est la 1 {% endcomment %}
               <li>
-                <a href="{{ url_prefix }}" rel="prev" ><span class="sr-only">{{ "Accueil" | t: page.locale }}</span>&lsaquo;</a>
+                <a href="{{ url_prefix }}/" rel="prev" ><span class="sr-only">{{ "Accueil" | t: page.locale }}</span>&lsaquo;</a>
               </li>
             {% else %}
               {% comment %} Sinon, c'est la page d'avant {% endcomment %}
@@ -200,7 +200,7 @@ layout: microtypo
           {% else %}
             {% comment %} Sinon, afficher le lien {% endcomment %}
             <li>
-              <a href={{ url_prefix }} ><span class="sr-only">{{ "Accueil" | t: page.locale }}</span>1</a>
+              <a href="{{ url_prefix }}/" ><span class="sr-only">{{ "Accueil" | t: page.locale }}</span>1</a>
             </li>
           {% endif %}
           
@@ -268,11 +268,9 @@ layout: microtypo
       {% endif %}
       </div>
       <aside>
-        <img decoding="async" src="/assets/images/shared/avatar.svg#avatar" aria-hidden="true" class="avatar" />
-        <svg class="avatar" viewBox="0 0 264 280">
-          <use xlink:href="/assets/images/shared/avatar-sym.svg#avatar"></use>
-        </svg>
-        <!-- nomicrotypo -->{% include avatar.svg %}<!-- endnomicrotypo -->
+        <div class="widget" aria-hidden="true">
+          <!-- nomicrotypo -->{% include avatar.svg %}<!-- endnomicrotypo -->
+        </div>
         <div class="widget">
           <h3>{{ "Catégories" | t: page.locale }}</h3>
           <ul>
@@ -288,36 +286,26 @@ layout: microtypo
             </li>
           </ul>
         </div>
-        <div class="widget">
-          <h3>Quotes</h3>
-          <p>
-            <blockquote>
-              Don't cry because it's over, smile because it happened.
-              <cite>Dr Seuss</cite>
-            </blockquote>
-          </p>
-        </div>
-        <div class="widget">
-          <h3>Events</h3>
-          <ul>
-            <li class="{% if page.category == 'web' %}active{% endif %}" itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem"><a href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "web" | t: page.locale }}</a></li>
-            <li class="h-like colorized citoyen {% if page.category == 'citoyen' %}active{% endif %}" itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem">
-            <a href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "citoyen" | t: page.locale }}</a>
-            </li>
-            <li class="h-like colorized papa {% if page.category == 'papa' %}active{% endif %}" itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem">
-            <a href="{{ 'papa' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "papa" | t: page.locale }}</a>
-            </li>
-          </ul>
-        </div>
       </aside>
     </section>
     <footer class="main-footer">
-        
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href="http://loripsum.net/" target="_blank">Ut aliquid scire se gaudeant?</a> Sed quot homines, tot sententiae; At enim sequor utilitatem. Sic enim censent, oportunitatis esse beate vivere. Sint modo partes vitae beatae. <a href="http://loripsum.net/" target="_blank">Et quidem, inquit, vehementer errat;</a> </p>
+
+        <ul>
+          <li>Duo Reges: constructio interrete.</li>
+          <li>Traditur, inquit, ab Epicuro ratio neglegendi doloris.</li>
+        </ul>
+
+
+        <ol>
+          <li>Quodsi ipsam honestatem undique pertectam atque absolutam.</li>
+          <li>Summus dolor plures dies manere non potest?</li>
+          <li>Mihi enim erit isdem istis fortasse iam utendum.</li>
+          <li>Sed tu istuc dixti bene Latine, parum plane.</li>
+          <li>Aliter homines, aliter philosophos loqui putas oportere?</li>
+          <li>Hanc in motu voluptatem -sic enim has suaves et quasi dulces voluptates appellat-interdum ita extenuat, ut M.</li>
+        </ol>
     </footer>
     {% include footer.html.liquid type=page.type loadTwitterWjs=page.loadTwitterWjs loadSearch=page.loadSearch %}
     <script src="//instant.page/1.1.0" type="module" integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
-  </body>
-</html>
+  </body></html>
