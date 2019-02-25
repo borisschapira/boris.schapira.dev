@@ -28,7 +28,6 @@ layout: microtypo
     <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-serif-regular.woff2" crossorigin>
     <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-sans-bold.woff2" crossorigin>
     <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-serif-italic.woff2" crossorigin>
-    <link rel="preload" as="image" href="/assets/images/symbols.svg">
     <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/critical' %}">
     <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/main' %}">
     <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/highlightjs' %}">
@@ -144,7 +143,7 @@ layout: microtypo
         </button>
         <ul class="menu">
           <li {% if page.type == 'post' or page.layout == 'index' %}class="active"{% endif %} itemprop="itemListElement" itemscope
-          itemtype="http://schema.org/ListItem"><a href="{{ page.baseurl | relative_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">Notes</a></li>
+          itemtype="http://schema.org/ListItem"><a href="{{ page.baseurl | relative_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "Notes" | t: page.locale }}</a></li>
 
           <li {% if page.i18n-key == 'about' %}class="active"{% endif %} itemprop="itemListElement" itemscope
           itemtype="http://schema.org/ListItem">
@@ -294,23 +293,22 @@ layout: microtypo
       </aside>
     </section>
     <footer class="main-footer">
-      <nav class="footer-nav">
+      <nav class="nav-footer">
         <ul>
           <li>
-            <a href="/about/">About</a>
-            <span>A little bit more about me.</span>
+            <p>
+              Retrouvez-moi sur <a class="npe" rel="me nofollow" href="{{ site.author.github }}">Github</a>, <a class="npe" rel="me nofollow" href="{{ site.author.twitter }}">Twitter</a>, <a class="npe" rel="me nofollow" href="{{ site.author.mastodon }}">Mastodon</a>, <a class="npe" rel="me nofollow" href="{{ site.author.linkedin }}">LinkedIn</a> et <a class="npe" rel="me nofollow" href="{{ site.author.flickr }}">Flickr</a>.
+            </p>
           </li>
           <li>
-            <a href="/speaking/">Speaking</a>
-            <span>Past and future conference appearances, with links to talk videos.</span>
+            <p>
+              Site statique compilé par Jekyll, propulsé par Netlify.
+            </p>
           </li>
           <li>
-            <a href="/desk/">The Desk</a>
-            <span>Articles on travel, productivity, life, and more.</span>
-          </li>
-          <li>
-            <a href="/TIL/">#TIL</a>
-            <span>Useful little tips, tricks and pieces of knowledge I learned today.</span>
+            <p>
+              <a class="npe" rel="me nofollow" href="{{ feed_url | prepend: page.baseurl | relative_url }}">Flux RSS</a>
+            </p>
           </li>
         </ul>
       </nav>

@@ -16,6 +16,7 @@ html {
   &.full-width-content {
     .content {
       grid-column: 2 / 12;
+      max-width: 38rem;
       margin: auto;
     }
 
@@ -25,8 +26,7 @@ html {
   }
 
   .content {
-    grid-column: 2 / 8;
-    max-width: 38rem;
+    grid-column: 2 / 9;
 
     @include media("<large") {
       grid-column: 2 / 12;
@@ -36,7 +36,7 @@ html {
   aside {
     grid-column: 9 / 12;
     border-left: $border-separators solid var(--color-main-grayfade);
-    padding: $global-gutters/2;
+    padding: 0 $global-gutters;
     display: block;
 
     @include media("<large") {
@@ -73,14 +73,39 @@ html {
   clear: both;
 }
 
-.footer-nav {
-  color: #fff;
+.nav-header,
+.nav-footer {
+  a {
+    color: var(--color-compliment-text);
+
+    &:hover {
+      color: var(--color-compliment-text);
+    }
+  }
 }
-.footer-nav ul {
+
+.nav-footer {
+  font-size: 0.8rem;
+  color: #fff;
+
+  h3 {
+    color: #fff;
+  }
+
+  > ul {
+    @extend %li-no-list-style;
+    @extend %main-grid;
+    > li {
+      grid-column: span 5;
+    }
+  }
+}
+
+.socials {
   @extend %li-no-list-style;
-  margin: $global-gutters/2 0;
-  padding: 0;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: $global-gutters;
+
+  li {
+    display: inline-block;
+    margin: 0 1rem;
+  }
 }

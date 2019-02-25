@@ -40,3 +40,7 @@
   clip: rect(0 0 0 0);
   clip-path: inset(50%);
 }
+
+a:focus {
+  outline-color: var(--color-compliment-light);
+}

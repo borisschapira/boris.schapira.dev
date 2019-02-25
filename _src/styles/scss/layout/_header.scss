@@ -35,19 +35,11 @@ body.menu-open {
     display: none;
   }
 
-  a {
-    color: var(--color-compliment-text);
-
-    &:hover {
-      color: var(--color-compliment-text);
-    }
-
-    &.title {
-      display: flex;
-      grid-column: 2 / 11;
-      line-height: 4rem;
-      font-size: 1.7rem;
-    }
+  a.title {
+    display: flex;
+    grid-column: 2 / 11;
+    line-height: 4rem;
+    font-size: 1.7rem;
   }
 
   nav {

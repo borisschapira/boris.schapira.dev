@@ -7,13 +7,14 @@
   padding: 0;
   list-style: none; }
 
-.container, .nav-header {
+.container, .nav-footer > ul, .nav-header {
   display: grid;
-  grid-template-columns: repeat(12, 1fr); }
+  grid-template-columns: repeat(12, 1fr);
+  gap: 2rem; }
 
-blockquote li, .footer-nav ul {
+blockquote li, .nav-footer > ul, .socials {
   list-style-type: none; }
-  blockquote li:before, .footer-nav ul:before {
+  blockquote li:before, .nav-footer > ul:before, .socials:before {
     content: "\200B";
     /* add zero-width space */ }
 
@@ -1018,19 +1019,19 @@ html {
   background-image: none; }
   .container.full-width-content .content {
     grid-column: 2 / 12;
+    max-width: 38rem;
     margin: auto; }
   .container.full-width-content aside {
     display: none; }
   .container .content {
-    grid-column: 2 / 8;
-    max-width: 38rem; }
+    grid-column: 2 / 9; }
     @media (max-width: 959px) {
       .container .content {
         grid-column: 2 / 12; } }
   .container aside {
     grid-column: 9 / 12;
     border-left: 2px solid var(--color-main-grayfade);
-    padding: 1rem;
+    padding: 0 2rem;
     display: block; }
     @media (max-width: 959px) {
       .container aside {
@@ -1053,15 +1054,24 @@ html {
   display: block;
   clear: both; }
 
-.footer-nav {
-  color: #fff; }
+.nav-header a,
+.nav-footer a {
+  color: var(--color-compliment-text); }
+  .nav-header a:hover,
+  .nav-footer a:hover {
+    color: var(--color-compliment-text); }
 
-.footer-nav ul {
-  margin: 1rem 0;
-  padding: 0;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 2rem; }
+.nav-footer {
+  font-size: 0.8rem;
+  color: #fff; }
+  .nav-footer h3 {
+    color: #fff; }
+  .nav-footer > ul > li {
+    grid-column: span 5; }
+
+.socials li {
+  display: inline-block;
+  margin: 0 1rem; }
 
 body,
 .menu-trigger {
@@ -1092,15 +1102,11 @@ body.menu-open {
   position: relative; }
   .nav-header .close-label {
     display: none; }
-  .nav-header a {
-    color: var(--color-compliment-text); }
-    .nav-header a:hover {
-      color: var(--color-compliment-text); }
-    .nav-header a.title {
-      display: flex;
-      grid-column: 2 / 11;
-      line-height: 4rem;
-      font-size: 1.7rem; }
+  .nav-header a.title {
+    display: flex;
+    grid-column: 2 / 11;
+    line-height: 4rem;
+    font-size: 1.7rem; }
   .nav-header nav {
     grid-column: 11 / 12;
     display: flex;
@@ -1299,3 +1305,6 @@ a:hover {
   /* 1 */
   clip: rect(0 0 0 0);
   clip-path: inset(50%); }
+
+a:focus {
+  outline-color: var(--color-compliment-light); }

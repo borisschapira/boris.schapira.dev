@@ -7,6 +7,7 @@
 %main-grid {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
+  gap: $global-gutters;
 }
 
 // https://unfetteredthoughts.net/2017/09/26/voiceover-and-list-style-type-none/
