@@ -47,8 +47,8 @@ lent.
 
 ---
 
-Pour générer [mon site](https://borisschapira.com)
-([source](https://github.com/borisschapira/borisschapira.com 'Dépôt GitHub borisschapira.com')),
+Pour générer [mon site](https://boris.schapira.dev)
+([source](https://github.com/borisschapira/boris.schapira.dev 'Dépôt GitHub boris.schapira.dev')),
 j'ai développé un ensemble de commandes Rake[^rake] qui se chargent de nettoyer
 l'espace de travail, de déterminer l'environnement de destination et de
 configurer la compilation en conséquence, de vérifier l'intégrité des en-têtes

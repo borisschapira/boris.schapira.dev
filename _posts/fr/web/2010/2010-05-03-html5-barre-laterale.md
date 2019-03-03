@@ -33,7 +33,7 @@ latérale n'a pas vocation à être contenu dans un élément `nav`&nbsp;!
 
 {% capture img_alt %}Une capture de la sidebar du blog au moment où j'écris ces
 ligne, avec des zones numérotées{% endcapture %} {% capture img_caption %}La
-barre latérale de BorisSchapira.com{% endcapture %}
+barre latérale de boris.schapira.dev{% endcapture %}
 {% include rwd-image.html.liquid
 path="/assets/images/2010-05-03/sidebar.png"
 alt=img_alt

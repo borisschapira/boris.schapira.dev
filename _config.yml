@@ -157,11 +157,11 @@ name: 'Boris Schapira'
 title: 'Boris Schapira'
 email: borisschapira@gmail.com
 description: "Blog personnel de Boris Schapira. Des avis sur les métiers du web mais aussi sur ma vie de parent et de citoyen."
-url: "https://borisschapira.com"
+url: "https://boris.schapira.dev"
 timezone: Europe/Paris
 incremental: true
 encoding: utf-8
-repository: "borisschapira/borisschapira.com"
+repository: "borisschapira/boris.schapira.dev"
 
 markdown: CommonMark
 commonmark:
@@ -173,10 +173,10 @@ microtypo:
 
 # Author
 name: 'Boris Schapira'
-domain: 'borisschapira.com'
+domain: 'boris.schapira.dev'
 author:
   name: 'Boris Schapira'
-  url: https://borisschapira.com/
+  url: https://boris.schapira.dev/
   flickr: 'http://flickr.com/borisschapira'
   github: 'https://github.com/borisschapira'
   twitter: 'http://twitter.com/borisschapira'
@@ -185,7 +185,7 @@ author:
   gravatar: https://www.gravatar.com/avatar/e884b2ba7d66cfea7cb2185922c7a183
   linkedin: 'http://linkedin.com/in/borisschapira'
   feed: '/feed.xml'
-  mailto: 'contact%40borisschapira.com'
+  mailto: 'boris%40schapira.dev'
 
 # Posts links and pagination
 permalink: :year/:month/:title/

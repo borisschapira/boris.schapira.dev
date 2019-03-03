@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# [BorisSchapira.com](https://borisschapira.com)
+# [boris.schapira.dev](https://boris.schapira.dev)
 
 My Jekyll v3 setup. [![Netlify Status](https://api.netlify.com/api/v1/badges/8d29f6c7-0b97-4227-aed7-8e51c276900c/deploy-status)](https://app.netlify.com/sites/borisschapira/deploys)
 

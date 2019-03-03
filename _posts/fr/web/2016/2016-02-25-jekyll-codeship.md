@@ -21,8 +21,7 @@ alt=img_alt
 Consultant en Web Performance depuis quelques années, j'ai décidé un jour de ne
 pas être le cordonnier mal chaussé. Depuis, dans une saine compétition avec mon
 collègue [Nicolas Hoizey](http://nicolas-hoizey.com/), je n'ai de cesse d'en
-améliorer
-[les temps de réponse](http://www.webpagetest.org/testlog.php?days=365&filter=borisschapira.com&all=on 'Tests de performance WebPageTest lancés sur ce site').
+améliorer les temps de réponse.
 
 ### Côté serveur
 

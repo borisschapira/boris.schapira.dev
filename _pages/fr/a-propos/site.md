@@ -50,7 +50,7 @@ Mes dépendances Ruby sont gérées par [Bundler](http://bundler.io/) :
 - pour la micro-typographie française : `jekyll-microtypo`.
 
 J'en oublie sûrement mais vous pourrez trouver l'ensemble des dépendances
-[sur le dépôt Github](https://github.com/borisschapira/borisschapira.com/blob/master/Gemfile 'Squelette Jekyll de BorisSchapira.com').
+[sur le dépôt Github](https://github.com/borisschapira/boris.schapira.dev/blob/master/Gemfile 'Squelette Jekyll de boris.schapira.dev').
 
 L'internationalisation est permise par `i18n` et le `i18n_filter`[^2].
 

@@ -23,7 +23,7 @@ mêmes raisons.
 
 Pour être productif, j'ai besoin d'outils. 95 % de mes usages sont liés à Chrome
 et à mes comptes Google (j'utiliserai volontiers Firefox mais
-[il ne correspond pas à mes besoins](http://next.borisschapira.com/2014/11/utilisabilite-logiciel-libre-firefox/))&nbsp;:
+[il ne correspond pas à mes besoins](/2014/11/utilisabilite-logiciel-libre-firefox/))&nbsp;:
 il m'a fallu très peu de temps pour les récupérer sous Mac.
 
 Les éditeurs que j'utilise sous Windows sont disponibles partout (_Sublime Text_
@@ -67,7 +67,7 @@ développements Symfony impliquent l'utilisation de _vagrant_, ce qui me permet
 d'homogénéiser l'environnement de développement dans mon équipe, tout en
 permettant à chacun de développer sur des fichiers locaux et l'IDE de son choix.
 Seulement voilà, comme déjà expliqué dans un précédent article&nbsp;:
-[Windows n'est pas très performant dans ce cas d'utilisation, en raison de l'absence de support NFS](http://next.borisschapira.com/2014/06/vagrant-windows-et-nfs/).
+[Windows n'est pas très performant dans ce cas d'utilisation, en raison de l'absence de support NFS](/2014/06/vagrant-windows-et-nfs/).
 
 J'ai bien contribué au plugin
 [_vagrant winnfsd_](https://github.com/winnfsd/vagrant-winnfsd), qui ajoute tant

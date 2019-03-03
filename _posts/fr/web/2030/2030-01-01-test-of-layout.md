@@ -172,9 +172,9 @@ Right aligned columns
 
 https://www.autolink.com
 
-[link text](https://borisschapira.com)
+[link text](https://boris.schapira.dev)
 
-[link with title](https://borisschapira.com 'title text!')
+[link with title](https://boris.schapira.dev 'title text!')
 
 ### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
 

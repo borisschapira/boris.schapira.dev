@@ -11,14 +11,16 @@ est temps de voir où j'en suis alors que 2017 <del>se profile</del> démarre.
 
 <!-- more -->
 
-- [Dégager plus de temps en dehors du travail](#temps)
-- [Formaliser mes processus](#formalisme)
-- [Mieux gérer mon énergie](#energie)
-- [Promouvoir l'égalité, lutter contre les inégalités](#egalite)
-  - [Le ménage devant ma porte](#biais)
-  - [Au travail aussi](#travail)
-  - [En tant que citoyen](#politique)
-  - [Dans mes échanges quotidiens](#echanges)
+- [Retour sur 2016](#retour-sur-2016)
+- [Dégager plus de temps en dehors du travail](#d%C3%A9gager-plus-de-temps-en-dehors-du-travail)
+- [Formaliser mes processus](#formaliser-mes-processus)
+- [Mieux gérer mon énergie](#mieux-g%C3%A9rer-mon-%C3%A9nergie)
+- [Me tenir droit, mieux manger](#me-tenir-droit-mieux-manger)
+- [Promouvoir l'égalité, lutter contre les inégalités](#promouvoir-l%C3%A9galit%C3%A9-lutter-contre-les-in%C3%A9galit%C3%A9s)
+  - [Le ménage devant ma porte](#le-m%C3%A9nage-devant-ma-porte)
+  - [En tant que citoyen](#en-tant-que-citoyen)
+  - [Au travail aussi](#au-travail-aussi)
+  - [Dans mes échanges quotidiens](#dans-mes-%C3%A9changes-quotidiens)
 
 <!-- more -->
 
@@ -176,7 +178,7 @@ d'humilité. Chaque navigation au clavier est un exercice de patience. Réaliser
 des audits complets sur le RGAA permet de se rendre compte du chemin à parcourir
 pour rendre le Web accessible à tous.
 
-[Passer la certification Opquast](https://borisschapira.com/2016/05/un-retour-sur-opquast-certified/)
+[Passer la certification Opquast](/2016/05/un-retour-sur-opquast-certified/)
 m'a également permis de confirmer ce que je faisais depuis des années, à savoir
 regarder le Web par les yeux des utilisateurs qui ne le maitrisent pas, ou mal,
 et qui se retrouvent démunis face à des produits applicatifs mal pensés. Les
