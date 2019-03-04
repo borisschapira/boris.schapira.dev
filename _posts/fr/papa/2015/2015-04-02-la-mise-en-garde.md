@@ -10,6 +10,7 @@ En sortie avec le petit dernier de 20 mois :
 
 Ça m'a pris quelques secondes et puis j'ai compris...
 
-> — Ne t'inquiète pas chéri, je fais toujours attention aux voitures quand je marche près de la route.
+> — Ne t'inquiète pas chéri, je fais toujours attention aux voitures quand je
+> marche près de la route.
 
 Je ne l'ai jamais vu aussi fier de lui.

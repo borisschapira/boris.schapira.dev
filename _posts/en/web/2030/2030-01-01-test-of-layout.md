@@ -3,7 +3,7 @@ layout: post
 title: 'First test of the layout'
 i18n-key: test-of-layout
 tags:
-    - Typograph
+  - Typograph
 sitemap: false
 norobots: true
 slug: typo-test
@@ -15,17 +15,16 @@ slug: typo-test
 
 # Test
 
-* "foo" 'bar'[^1]
+- "foo" 'bar'[^1]
 
 [^1]: `toto`
 
 ## more tests
 
-* 3rd at the 4 % run
+- 3rd at the 4 % run
 
 ```html
-Oh, some encoded "code" but
-	not double encoded: &amp;!
+Oh, some encoded "code" but not double encoded: &amp;!
 ```
 
 I arrived in 2'33'' vs. 2'44'' for my competitors !
@@ -61,7 +60,7 @@ Some CSS:
 
 ```css
 .container {
-  background: #fff url("background.png") repeat-y 50% 0;
+  background: #fff url('background.png') repeat-y 50% 0;
 }
 ```
 

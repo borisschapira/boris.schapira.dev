@@ -4,7 +4,8 @@ i18n-key: the-curtain
 slug: le-labyrinthe
 ---
 
-Nous étions au Mc Donald's, ils jouaient dans les jeux d'intérieur. Il vint me voir, tout excité.
+Nous étions au Mc Donald's, ils jouaient dans les jeux d'intérieur. Il vint me
+voir, tout excité.
 
 <!-- more -->
 
@@ -12,8 +13,8 @@ Nous étions au Mc Donald's, ils jouaient dans les jeux d'intérieur. Il vint me
 > – Et ?  
 > – C'était pas un rideau en fait, c'était un mur !
 
-{% capture alt_text%}Extrait de Star Wars pendant lequel R2D2 se lance contre un mur.{% endcapture %}
-{% include video_as_a_gif.html.liquid
+{% capture alt_text%}Extrait de Star Wars pendant lequel R2D2 se lance contre un
+mur.{% endcapture %} {% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2018-03-07/r2d2"
 alt=alt_text
 %}

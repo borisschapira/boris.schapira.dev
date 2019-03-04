@@ -1,11 +1,14 @@
 ---
 title: 'Éduquons nos garçons'
 tags:
-    - Éducation
+  - Éducation
 loadTwitterWjs: true
 ---
 
-Ayant été moi-même élevé par ma mère avec des valeurs très féministes (bien qu'elle n'ait jamais employé le mot), il me semble aberrant qu'on puisse élever ses enfants d'une autre manière. Ce dessin me rappelle que c'est pourtant une réalité…
+Ayant été moi-même élevé par ma mère avec des valeurs très féministes (bien
+qu'elle n'ait jamais employé le mot), il me semble aberrant qu'on puisse élever
+ses enfants d'une autre manière. Ce dessin me rappelle que c'est pourtant une
+réalité…
 
 <!-- more -->
 

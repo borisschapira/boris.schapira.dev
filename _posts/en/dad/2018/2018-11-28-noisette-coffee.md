@@ -4,9 +4,11 @@ i18n-key: noisette
 layout: post
 ---
 
-On the table next to us, the waitress bring a "noisette" (an espresso with a dash of hot milk). My 7-year old, outragely whispering: 
+On the table next to us, the waitress bring a "noisette" (an espresso with a
+dash of hot milk). My 7-year old, outragely whispering:
 
-> Dad, you should say something. I think they're lying to the poor lady who doesn't know the difference between coffee and hazelnut!
+> Dad, you should say something. I think they're lying to the poor lady who
+> doesn't know the difference between coffee and hazelnut!
 
 {% capture alt_text%}Jimmy Fallon, playing the outraged guy.{% endcapture %}
 {% include video_as_a_gif.html.liquid

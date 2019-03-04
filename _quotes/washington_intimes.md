@@ -7,3 +7,5 @@ quote: "Be courteous to all, but intimate with few, and let those few be well tr
 George Washington"
 trad: "Soyez polis envers tous, mais intimes avec peu ; et choisissez-les bien avant de leur faire confiance."
 ---
+
+<!-- @format -->

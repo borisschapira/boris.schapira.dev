@@ -2,12 +2,16 @@
 title: 'Entrées distinctes et DataTable'
 canonical: 'https://www.nexeo.fr/blog/2009/11/24/entrees-distinctes-et-datatabl/'
 tags:
-    - Nexdotnet
+  - Nexdotnet
 ---
 
-Vous avez souvent eu un `DataSet` dont vous vouliez considérer une colonne pour alimenter une liste déroulante pour réaliser, par exemple, un filtre ?
+Vous avez souvent eu un `DataSet` dont vous vouliez considérer une colonne pour
+alimenter une liste déroulante pour réaliser, par exemple, un filtre ?
 
-Prenons pour exemple la `DataTable` "MyDataTable" ci-dessous. Si vous définissez directement `MyDataTable` comme source de votre `DropDownList`, en précisant comme `DataValueField` et `DataTextField` la colonne "Etiquette", vous risquez d’apercevoir un doublon pour "Visual Studio".
+Prenons pour exemple la `DataTable` "MyDataTable" ci-dessous. Si vous définissez
+directement `MyDataTable` comme source de votre `DropDownList`, en précisant
+comme `DataValueField` et `DataTextField` la colonne "Etiquette", vous risquez
+d’apercevoir un doublon pour "Visual Studio".
 
 | Auteur          | Article                                                                                                                                                                                                                  | Etiquette                                                                                                  |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -16,7 +20,9 @@ Prenons pour exemple la `DataTable` "MyDataTable" ci-dessous. Si vous définisse
 | Thomas Levesque | [Implémenter un objet dynamique personnalisé                                                                                                                                                                             | .NET Futures](http://tomlev.wordpress.com/2009/10/06/c-4-0-implementer-un-objet-dynamique-personnalise/)   |
 | Thomas Lebrun   | [Exemples sur l’extensibilité des designers Silverlight/WPF…](http://blogs.developpeur.org/tom/archive/2009/09/17/wpf-des-exemples-sur-l-extensibilit-des-designers-silverlight-wpf-dans-visual-studio-2010-beta-2.aspx) | Visual Studio                                                                                              |
 
-Pour contourner ce problème, utilisez une `DataView` intermédiaire, et la fonction `ToTable`, dont le deuxième argument à True vous assurera l’unicité des éléments pour les colonnes précisées (ici, uniquement "Etiquette") :
+Pour contourner ce problème, utilisez une `DataView` intermédiaire, et la
+fonction `ToTable`, dont le deuxième argument à True vous assurera l’unicité des
+éléments pour les colonnes précisées (ici, uniquement "Etiquette") :
 
 ```
 Public Function GetDropDownListTable() As DataTable

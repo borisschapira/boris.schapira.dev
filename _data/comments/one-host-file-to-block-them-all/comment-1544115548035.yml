@@ -1,5 +1,5 @@
 _id: 9bbd4179-0458-bd05-c4e0-b644116dda7e
-_parent: 'https://borisschapira.com/2018/09/one-host-file-to-block-them-all/'
+_parent: 'https://boris.schapira.dev/2018/09/one-host-file-to-block-them-all/'
 message: >-
   Question with host file.   We have 4 computers in a room and we want to block
   all websites so nothing works how would setup a host file so no matter where

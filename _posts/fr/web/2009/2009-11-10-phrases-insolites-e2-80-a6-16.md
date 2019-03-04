@@ -1,8 +1,8 @@
 ---
 title: 'Phrases Insolites… #16'
 tags:
-    - Humour
-    - Insolite
+  - Humour
+  - Insolite
 ---
 
 C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
@@ -16,7 +16,8 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
 
 ## Réussir son entretien #2
 
-> — Non mais attends, on la connait tous la réponse à la question "Quel est votre plus grand défaut&nbsp;?"  
+> — Non mais attends, on la connait tous la réponse à la question "Quel est
+> votre plus grand défaut&nbsp;?"  
 > — Bah ouais, c'est "Je suis trop perfectionniste".  
 > — T'imagine si on disait la vérité&nbsp;?  
 > — Genre "Je suis un gros tire-au-flanc"…  
@@ -24,11 +25,16 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
 
 ## Sherlock Holmes par correspondance
 
-> — Non mais franchement, t'as vu, on a encore reçu un courrier de La Redoute&nbsp;! Il va falloir qu'on se dés-inscrive et qu'on déménage combien de fois pour qu'ils nous lâchent&nbsp;?  
-> — Je sais pas mais s'ils n'arrivent pas à retrouver Jean-Pierre Treiber, ils n'ont qu'à l'inscrire à La Redoute&nbsp;!
+> — Non mais franchement, t'as vu, on a encore reçu un courrier de La
+> Redoute&nbsp;! Il va falloir qu'on se dés-inscrive et qu'on déménage combien
+> de fois pour qu'ils nous lâchent&nbsp;?  
+> — Je sais pas mais s'ils n'arrivent pas à retrouver Jean-Pierre Treiber, ils
+> n'ont qu'à l'inscrire à La Redoute&nbsp;!
 
 ## Ma femme est une sadique
 
-> — Bon, tu m'as convaincue, Stargate c'est vraiment pas mal. Je verrais bien la série maintenant.  
+> — Bon, tu m'as convaincue, Stargate c'est vraiment pas mal. Je verrais bien la
+> série maintenant.  
 > — Ah ben on va acheter les DVD alors&nbsp;!  
-> — Ca dépend, tu ne voulais pas acheter BattleStar Galactica&nbsp;? Tu préfères quoi, BattleStar Galactica ou Stargate&nbsp;?
+> — Ca dépend, tu ne voulais pas acheter BattleStar Galactica&nbsp;? Tu préfères
+> quoi, BattleStar Galactica ou Stargate&nbsp;?

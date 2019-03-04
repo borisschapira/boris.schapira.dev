@@ -3,13 +3,14 @@ title: 'Premier Test de mise en forme'
 subtitle: 'un test de suivi'
 i18n-key: test-of-layout
 tags:
-    - Typographie
+  - Typographie
 sitemap: false
 norobots: true
 slug: test-typo
 ---
 
-> Ceci est un article destiné à tester le respect de certaines règles microtypographiques par mon site.  
+> Ceci est un article destiné à tester le respect de certaines règles
+> microtypographiques par mon site.  
 > Ne tenez pas compte du contenu ci-dessous.
 
 <!-- more -->
@@ -77,8 +78,8 @@ Si je double le 2ème, je deviens 1er.
 
 **Currencies**
 
-* 599$, donc 599 €.
-* $599, so € 599
+- 599\$, donc 599 €.
+- \$599, so € 599
 
 **Multiply**
 
@@ -110,13 +111,13 @@ _This is italic text_
 
 Unordered
 
-* Create a list by starting a line with `+`, `-`, or `*`
-* Sub-lists are made by indenting 2 spaces:
-  * Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    - Facilisis in pretium nisl aliquet
-    * Nulla volutpat aliquam velit
-* Very easy!
+- Create a list by starting a line with `+`, `-`, or `*`
+- Sub-lists are made by indenting 2 spaces:
+  - Marker character change forces new list start:
+    - Ac tristique libero volutpat at
+    * Facilisis in pretium nisl aliquet
+    - Nulla volutpat aliquam velit
+- Very easy!
 
 Ordered
 
@@ -174,9 +175,9 @@ Right aligned columns
 
 https://www.autolink.com
 
-[link text](https://borisschapira.com)
+[link text](https://boris.schapira.dev)
 
-[link with title](https://borisschapira.com "title text!")
+[link with title](https://boris.schapira.dev 'title text!')
 
 ### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
 
@@ -196,8 +197,7 @@ Duplicated footnote reference[^second].
 
 Term 1
 
-: Definition 1
-with lazy continuation.
+: Definition 1 with lazy continuation.
 
 Term 2 with _inline markup_
 
@@ -209,12 +209,9 @@ Term 2 with _inline markup_
 
 _Compact style:_
 
-Term 1
-~ Definition 1
+Term 1 ~ Definition 1
 
-Term 2
-~ Definition 2a
-~ Definition 2b
+Term 2 ~ Definition 2a ~ Definition 2b
 
 ### Abbreviations
 
@@ -230,16 +227,28 @@ This is <abbr title="Hypertext Markup Language">HTML</abbr> abbreviation example
 
 ### Insertion
 
-Lorem ipsum dolor sit amet, <ins datetime="2018-12-26">consectetur</ins> adipiscing elit. Addebat etiam se in legem Voconiam iuratum contra eam facere non audere, nisi aliter amicis videretur. Traditur, inquit, ab Epicuro ratio neglegendi doloris. Amicitiam autem adhibendam esse censent, quia sit ex eo genere, quae prosunt.
+Lorem ipsum dolor sit amet, <ins datetime="2018-12-26">consectetur</ins>
+adipiscing elit. Addebat etiam se in legem Voconiam iuratum contra eam facere
+non audere, nisi aliter amicis videretur. Traditur, inquit, ab Epicuro ratio
+neglegendi doloris. Amicitiam autem adhibendam esse censent, quia sit ex eo
+genere, quae prosunt.
 
-<ins class="bloc" datetime="2018-12-26">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Addebat etiam se in legem Voconiam iuratum contra eam facere non audere, nisi aliter amicis videretur. Traditur, inquit, ab Epicuro ratio neglegendi doloris. Amicitiam autem adhibendam esse censent, quia sit ex eo genere, quae prosunt.</ins>
-
+<ins class="bloc" datetime="2018-12-26">Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Addebat etiam se in legem Voconiam iuratum contra eam facere
+non audere, nisi aliter amicis videretur. Traditur, inquit, ab Epicuro ratio
+neglegendi doloris. Amicitiam autem adhibendam esse censent, quia sit ex eo
+genere, quae prosunt.</ins>
 
 ## Rich figcaptions
 
-{% capture img_alt %}Deux post-its, comparant l'Agile façon Cargo Cult et les vraies livraisons successives{% endcapture %}
-{% capture img_caption %}"<a href="https://www.flickr.com/photos/psd/9588038559" title="Lien vers la photo sur Flickr">Doing Agile, being Agile</a>", par <a href="https://www.flickr.com/photos/psd/" title="Profil Flickr de Paul Downey">Paul Downey</a> — <a href="https://creativecommons.org/licenses/by/2.0/" class="photo-license-url" rel="license cc:license" target="_newtab" ><span>Certains droits réservés</span></a>{% endcapture %}
-{% include rwd-image.html.liquid
+{% capture img_alt %}Deux post-its, comparant l'Agile façon Cargo Cult et les
+vraies livraisons successives{% endcapture %}
+{% capture img_caption %}"<a href="https://www.flickr.com/photos/psd/9588038559" title="Lien vers la photo sur Flickr">Doing
+Agile, being Agile</a>", par
+<a href="https://www.flickr.com/photos/psd/" title="Profil Flickr de Paul Downey">Paul
+Downey</a> —
+<a href="https://creativecommons.org/licenses/by/2.0/" class="photo-license-url" rel="license cc:license" target="_newtab" ><span>Certains
+droits réservés</span></a>{% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2017-04-02/doing_vs_being_agile.jpg"
 alt=img_alt
 caption=img_caption

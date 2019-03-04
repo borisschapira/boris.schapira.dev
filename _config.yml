@@ -126,7 +126,8 @@ defaults:
 
 # Exclusions
 exclude:
-  - ".csscomb.json"
+  - "postcss.config.js"
+  - "purgecss.config.js"
   - ".ruby-version"
   - ".cache"
   - ".editorconfig"
@@ -140,15 +141,12 @@ exclude:
   - "_src"
   - "Gemfile"
   - "Gemfile.lock"
-  - "gulpfile.js"
   - "LICENSE.md"
   - "netlify.toml"
-  - "package-lock.json"
   - "README.md"
   - "Rakefile"
   - "tmp"
   - "vendor"
-  - "staticman.yml"
   - "yarn.lock"
   - _posts/**/*.jpg
   - _posts/**/*.jpeg
@@ -173,15 +171,15 @@ name: 'Boris Schapira'
 title: 'Boris Schapira'
 email: borisschapira@gmail.com
 description: "Site de Boris Schapira. Notes personnelles, professionnelles, citoyennes et autres répertoires de ma vie numérique."
-url: "https://borisschapira.com"
+url: "https://boris.schapira.dev"
 timezone: Europe/Paris
 incremental: true
 encoding: utf-8
-repository: "borisschapira/borisschapira.com"
+repository: "borisschapira/boris.schapira.dev"
 
 markdown: CommonMark
 commonmark:
-  options: ["SMART", "FOOTNOTES", "UNSAFE", "HARDBREAKS"]
+  options: ["SMART", "FOOTNOTES", "UNSAFE"]
   extensions: ["strikethrough", "autolink", "table"]
 
 microtypo:
@@ -189,11 +187,11 @@ microtypo:
 
 # Author
 name: 'Boris Schapira'
-domain: 'borisschapira.com'
+domain: 'boris.schapira.dev'
 author:
   name: 'Boris Schapira'
-  url: https://borisschapira.com/
-  flickr: 'https://flickr.com/borisschapira'
+  url: https://boris.schapira.dev/
+  flickr: 'http://flickr.com/borisschapira'
   github: 'https://github.com/borisschapira'
   twitter: 'https://twitter.com/borisschapira'
   mastodon: https://framapiaf.org/@borisschapira
@@ -201,7 +199,7 @@ author:
   gravatar: https://www.gravatar.com/avatar/e884b2ba7d66cfea7cb2185922c7a183
   linkedin: 'https://linkedin.com/in/borisschapira'
   feed: '/feed.xml'
-  mailto: 'contact%40borisschapira.com'
+  mailto: 'boris%40schapira.dev'
 
 # Posts links and pagination
 permalink: :year/:month/:title/

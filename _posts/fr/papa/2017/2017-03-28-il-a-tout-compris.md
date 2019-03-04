@@ -2,7 +2,8 @@
 title: 'Il a "tout compris"'
 ---
 
-Mon petit dernier vient d'apprendre à faire un cœur avec ses doigts. Il voudrait savoir le découper dans une feuille de papier…
+Mon petit dernier vient d'apprendre à faire un cœur avec ses doigts. Il voudrait
+savoir le découper dans une feuille de papier…
 
 <!-- more -->
 
@@ -13,7 +14,8 @@ Mon petit dernier vient d'apprendre à faire un cœur avec ses doigts. Il voudra
 > — Tu me le donnes et moi, après, c'est ton cadeau que je te fais.  
 > — Ah, donc tu m'offres le cœur que j'aurais fait moi-même ?  
 > — Oui, et tu seras très content Papa, alors tu me donneras des gâteaux !  
-> — Mais attends, c'est moi qui l'aurait fait, le cœur, c'est moi qui devrait avoir des gâteaux !  
+> — Mais attends, c'est moi qui l'aurait fait, le cœur, c'est moi qui devrait
+> avoir des gâteaux !  
 > — Mais c'était mon idée ! Tu auras un petit gâteau, Papa.
 
 {% include video_as_a_gif.html.liquid

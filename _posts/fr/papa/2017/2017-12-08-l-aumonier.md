@@ -1,8 +1,10 @@
 ---
-title: 'L''aumonier'
+title: "L'aumonier"
 ---
 
-Ma femme travaille dans une maison de retraite chrétienne et parfois, nos fils viennent dire bonjour aux résidentes. En sortant, sa mère et lui croisent un aumônier et ma femme lui dit bonsoir.
+Ma femme travaille dans une maison de retraite chrétienne et parfois, nos fils
+viennent dire bonjour aux résidentes. En sortant, sa mère et lui croisent un
+aumônier et ma femme lui dit bonsoir.
 
 <!-- more -->
 

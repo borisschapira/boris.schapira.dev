@@ -1,18 +1,28 @@
 ---
-title: 'L''iPhone, vous allez l''acheter (même si vous n''en voulez pas)'
+title: "L'iPhone, vous allez l'acheter (même si vous n'en voulez pas)"
 tags:
-    - 'Billet d''humeur'
-    - Buzz
-    - iPhone
-    - Publicité
+  - "Billet d'humeur"
+  - Buzz
+  - iPhone
+  - Publicité
 slug: liphone-vous-allez-lacheter-mme-si-vous-nen-voulez-pas
 ---
 
-Imaginez, vous allumez votre télé sur le journal d'informations. Le journaliste prend la parole&nbsp;:
+Imaginez, vous allumez votre télé sur le journal d'informations. Le journaliste
+prend la parole&nbsp;:
 
-_**&quot;Avez-vous remarqué à quel point tout le monde aime les sucrettes Candoral&nbsp;? Elles sont formidables, les gens s'arrachent pour les mettre dans leur café. Ce sont les premières sucrettes à l'aspartame du marché et surtout, elles sont formidables parce qu'elles sont carrées. Bref, c'est la révolution à tel point qu'il a fallu limiter les achats à 100 sucrettes par personnes. Armez-vous de patience, vous allez vous jeter dessus quand elles seront en vente en France.&quot;**_
+_**&quot;Avez-vous remarqué à quel point tout le monde aime les sucrettes
+Candoral&nbsp;? Elles sont formidables, les gens s'arrachent pour les mettre
+dans leur café. Ce sont les premières sucrettes à l'aspartame du marché et
+surtout, elles sont formidables parce qu'elles sont carrées. Bref, c'est la
+révolution à tel point qu'il a fallu limiter les achats à 100 sucrettes par
+personnes. Armez-vous de patience, vous allez vous jeter dessus quand elles
+seront en vente en France.&quot;**_
 
-Ca fait un peu spot de pub&nbsp;? C'est con parce que les sucrettes Candoral ne sont qu'une copie de ce qui existe déjà depuis les années 40 et que leur forme rectangulaire n'apporte rien sachant qu'elles fondent en 3/4 de secondes dans votre tasse&nbsp;? Bref, vous n'avez aucune chance de voir ça un jour&nbsp;?
+Ca fait un peu spot de pub&nbsp;? C'est con parce que les sucrettes Candoral ne
+sont qu'une copie de ce qui existe déjà depuis les années 40 et que leur forme
+rectangulaire n'apporte rien sachant qu'elles fondent en 3/4 de secondes dans
+votre tasse&nbsp;? Bref, vous n'avez aucune chance de voir ça un jour&nbsp;?
 
 Et pourtant **en ce moment, c'est tous les jours**.
 
@@ -39,8 +49,20 @@ _-Vidéo qui fait passer [Cyprien](http://www.cyprien.fr/?2007/11/03/186-je-pass
 
 <div>Il y a un truc qui m'énerve profondément dans l'**iPhone**&nbsp;: sa **vente forcée par les médias**. Moi quand je regarde les 250 blogs auxquels je suis abonné ou les sites spécialisés, l'avis est pourtant unanime&nbsp;:** l'iPhone est un magnifique 'produit' mais un mauvais téléphone&nbsp;:** pas de MMS, internet mais en lent et sans flash, pas de vidéos, pas de sonneries mp3, pas de reconnaissance vocale ou de Bluetooth MAIS il fait lecteur mp3 (ah zut, votre téléphone aussi le fait déjà&nbsp;?).</div>
 
-Ses ventes sont certes importantes mais encore **très loin derrière les succès remportés par Nokia**, les parts de marché de **Windows Mobile** ou **Blackberry**. Ses capacités sont une pâle copie de ce qui se fait ailleurs en mieux, **sauf pour l'écran tactile** qui en jette (le HTC Touch en a aussi un -ben ouais quoi vous ne croyiez pas que c'était un truc nouveau quand même-, mais il est plus lent), mais a-t-on vraiment besoin d'un écran tactile sur un appareil qui reste 89 % du temps au fond de votre poche (ou alors ça explique pourquoi l'iPhone ne rentre pas dans une poche)&nbsp;?
+Ses ventes sont certes importantes mais encore **très loin derrière les succès
+remportés par Nokia**, les parts de marché de **Windows Mobile** ou
+**Blackberry**. Ses capacités sont une pâle copie de ce qui se fait ailleurs en
+mieux, **sauf pour l'écran tactile** qui en jette (le HTC Touch en a aussi un
+-ben ouais quoi vous ne croyiez pas que c'était un truc nouveau quand même-,
+mais il est plus lent), mais a-t-on vraiment besoin d'un écran tactile sur un
+appareil qui reste 89 % du temps au fond de votre poche (ou alors ça explique
+pourquoi l'iPhone ne rentre pas dans une poche)&nbsp;?
 
-Et malgré ça je vous mets au défi d'allumer votre télé, votre radio ou un votre journal sans lire quelque part que l'iPhone est un produit génial, qu'il vous le faut absolument et que vous allez l'acheter. Alors juste pour que vous le preniez en toute connaissance, voici quand même la petite critique complète du téléphone de la Pomme par MrDream, sans coupure à la noix et surtout, en montrant ce qui devrait véritablement vous intéresser avant d'acheter&nbsp;:
+Et malgré ça je vous mets au défi d'allumer votre télé, votre radio ou un votre
+journal sans lire quelque part que l'iPhone est un produit génial, qu'il vous le
+faut absolument et que vous allez l'acheter. Alors juste pour que vous le
+preniez en toute connaissance, voici quand même la petite critique complète du
+téléphone de la Pomme par MrDream, sans coupure à la noix et surtout, en
+montrant ce qui devrait véritablement vous intéresser avant d'acheter&nbsp;:
 
 <div></div>

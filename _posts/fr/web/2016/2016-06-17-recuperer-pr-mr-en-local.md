@@ -1,20 +1,25 @@
 ---
-title: 'Récupérer une Pull Request (GitHub) ou une Merge Request (Gitlab) en local'
+title:
+  'Récupérer une Pull Request (GitHub) ou une Merge Request (Gitlab) en local'
 ---
 
-Votre collègue a fait une <abbr title="Pull Request">PR</abbr> ou une <abbr title="Merge Request">MR</abbr> et vous ne comprenez pas pourquoi elle ne passe pas le _build_ ? Vous pouvez la récupérer en local pour l'exécuter.
+Votre collègue a fait une <abbr title="Pull Request">PR</abbr> ou une
+<abbr title="Merge Request">MR</abbr> et vous ne comprenez pas pourquoi elle ne
+passe pas le _build_ ? Vous pouvez la récupérer en local pour l'exécuter.
 
 ## Configurer
 
-Pour cela, ouvrez votre _.git/config_ (_.git_ étant un répertoire caché à la racine de votre dépôt local), puis ajoutez sur le dépôt distant (_remote_) concerné :
+Pour cela, ouvrez votre _.git/config_ (_.git_ étant un répertoire caché à la
+racine de votre dépôt local), puis ajoutez sur le dépôt distant (_remote_)
+concerné :
 
-* Pour Gitlab :
+- Pour Gitlab :
 
 ```
 fetch = +refs/merge-requests/*/head:refs/remotes/upstream/merge-requests/*
 ```
 
-* Pour Github :
+- Pour Github :
 
 ```
 fetch = +refs/pull/*/head:refs/remotes/origin/pr/*
@@ -33,7 +38,8 @@ Sauvegardez, fermez.
 
 ## Récupérer
 
-Il vous suffit d'exécuter `git fetch [remote]` (en remplaçant `[remote]` par le dépôt distant que vous visez). Voilà, à vous les _requests_ !
+Il vous suffit d'exécuter `git fetch [remote]` (en remplaçant `[remote]` par le
+dépôt distant que vous visez). Voilà, à vous les _requests_ !
 
 ```bash
 $ git fetch upstream

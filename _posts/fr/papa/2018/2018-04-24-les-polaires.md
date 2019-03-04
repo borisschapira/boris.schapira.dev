@@ -2,7 +2,9 @@
 title: 'Les polaires'
 ---
 
-Ma femme va chercher les enfants à l'école. L'ainé récupère son cartable et… une grosse veste avec laquelle je l'avais déposé le matin, parce qu'il faisait froid.
+Ma femme va chercher les enfants à l'école. L'ainé récupère son cartable et… une
+grosse veste avec laquelle je l'avais déposé le matin, parce qu'il faisait
+froid.
 
 <!-- more -->
 

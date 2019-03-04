@@ -2,16 +2,19 @@
 title: 'Les Poupées Chattes'
 ---
 
-Ma femme écoutait "[Buttons](https://www.youtube.com/watch?v=VCLxJd1d84s)" des Poupées Chattes :
+Ma femme écoutait "[Buttons](https://www.youtube.com/watch?v=VCLxJd1d84s)" des
+Poupées Chattes :
 
 > — Maman, voir, voir !  
 > — Tu veux voir le clip ?  
 > — Ouiiiiiii !
 
-Elle le prend sur ses genoux et il essaie de comprendre ce qui se passe à l'écran.
+Elle le prend sur ses genoux et il essaie de comprendre ce qui se passe à
+l'écran.
 
 > — Maman, pas bien, debout chaise, poum, bobo!  
-> — Ah oui : elles sont debout sur les chaises et c'est pas bien, effectivement, elles risquent de tomber et se faire très mal !
+> — Ah oui : elles sont debout sur les chaises et c'est pas bien, effectivement,
+> elles risquent de tomber et se faire très mal !
 
 Arrive un moment où les effets pyrotechniques se déclenchent :
 

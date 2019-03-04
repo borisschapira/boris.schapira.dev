@@ -81,7 +81,7 @@
       comment: "Inline images"
     - value: "res.cloudinary.com"
       comment: "Cloudinary proxy images"
-    - value: "avatars.borisschapira.com"
+    - value: "avatars.schapira.dev"
       comment: "My avatars"
     - value: "www.gravatar.com"
       comment: "Gravatars, for comments"

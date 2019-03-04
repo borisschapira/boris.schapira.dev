@@ -1,11 +1,14 @@
 ---
 title: 'Soutenez la Quadrature du Net'
 tags:
-    - Société
-    - 'Transformation numérique'
+  - Société
+  - 'Transformation numérique'
 ---
 
-La **[Quadrature du Net](https://support.laquadrature.net/)** informe et donne les outils nécessaires à la compréhension de textes et de projets liberticides, et pas seulement sur Internet. Elle fournit également une plate-forme d'action citoyenne collaborative et riche, et tout cela avec seulement deux salariés.
+La **[Quadrature du Net](https://support.laquadrature.net/)** informe et donne
+les outils nécessaires à la compréhension de textes et de projets liberticides,
+et pas seulement sur Internet. Elle fournit également une plate-forme d'action
+citoyenne collaborative et riche, et tout cela avec seulement deux salariés.
 
 Ensemble, luttons contre HADOPI, LOPPSI et ACTA.
 
