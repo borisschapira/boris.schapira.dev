@@ -2,9 +2,8 @@
 title: 'Le code a changé'
 tags:
   - Education
+subtitle: ou l'absurdité d'une PPL sur le code à l'Ecole
 ---
-
-## ou l'absurdité d'une PPL sur le code à l'Ecole
 
 J'entends de plus en plus de gens dire&nbsp;:
 

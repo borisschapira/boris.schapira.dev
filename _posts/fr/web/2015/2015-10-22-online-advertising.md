@@ -8,9 +8,8 @@ tags:
   - Presse
 canonical: 'https://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-point-sur-la-situation/'
 slug: publicite-en-ligne-un-point
+subtitle: Une guerre aux multiples facettes
 ---
-
-## Une guerre aux multiples facettes
 
 La publicité en ligne est devenue, faute d’une meilleure solution, la principale
 source de revenus de nombreux producteurs de contenus.

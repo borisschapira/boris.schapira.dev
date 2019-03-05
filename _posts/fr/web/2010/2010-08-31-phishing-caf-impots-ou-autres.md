@@ -1,9 +1,8 @@
 ---
 title: 'Phishing CAF, Impôts ou autres…'
 loadTwitterWjs: true
+subtitle: Ceci n'est pas une pipe
 ---
-
-## Ceci n'est pas une pipe
 
 Je me permets aujourd'hui de citer une fameuse légende d'un tableau de 
 [René Magritte](http://fr.wikipedia.org/wiki/Ren%C3%A9_Magritte) pour vous

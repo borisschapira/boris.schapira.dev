@@ -3,9 +3,8 @@ title: 'Marietta Karamanli - Identité Nationale'
 tags:
   - Égalité
   - Religion
+subtitle: Merci pour ce témoignage, Madame
 ---
-
-## Merci pour ce témoignage, Madame
 
 Merci égalemment à
 [Mathilde Mathieu](http://blogs.mediapart.fr/blog/mathilde-mathieu) de l'avoir

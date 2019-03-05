@@ -5,9 +5,8 @@ tags:
   - HeForShe
   - Société
   - Égalité
+subtitle: \#HeForShe
 ---
-
-## \#HeForShe
 
 > Gender equality is your issue too  
 >  <cite>Emma Watson, [Discours aux Nations Unies](https://www.youtube.com/watch?v=Q0Dg226G2Z8)

@@ -4,9 +4,8 @@ tags:
   - 'Logiciel Libre'
   - 'Service Design'
 loadTwitterWjs: true
+subtitle: L'UX, souvent un tabou dans les communautés du logiciel libre
 ---
-
-## L'UX, souvent un tabou dans les communautés du logiciel libre
 
 Chrome est mon navigateur principal. À croire que
 [Bruce Lawson ne m'a rien appris sur la monoculture](http://vimeo.com/52171395 '"Oh IE6 how we loved you", Bruce Lawson ", Sud Web 2012')

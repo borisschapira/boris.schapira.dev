@@ -5,9 +5,8 @@ tags:
 series: Diviser
 loadTwitterWjs: true
 loadTwitter: true
+subtitle: pour mieux régner
 ---
-
-## pour mieux régner
 
 > En politique et en sociologie, **diviser pour régner** (du latin
 > "<span lang="latin">Divide ut regnes</span>") est une stratégie visant à semer

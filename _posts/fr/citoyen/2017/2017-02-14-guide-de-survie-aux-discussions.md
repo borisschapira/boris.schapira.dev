@@ -2,9 +2,8 @@
 title: 'Guide de survie aux discussions'
 tags:
   - guide
+subtitle: (sur les réseaux sociaux)
 ---
-
-## (sur les réseaux sociaux)
 
 Sur un de ses profils, **Yann Leroux**, auteur de
 [Psy et Geek](http://www.psyetgeek.com/),

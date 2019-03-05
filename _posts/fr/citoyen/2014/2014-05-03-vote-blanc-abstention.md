@@ -1,8 +1,7 @@
 ---
 title: 'Vote blanc, abstention'
+subtitle: Un citoyen, c'est davantage qu'un bulletin. Mais le bulletin a un sens.
 ---
-
-## Un citoyen, c'est davantage qu'un bulletin. Mais le bulletin a un sens.
 
 > Mais si les électeurs se déplacent, c'est aussi par altruisme&nbsp;: plus
 > l'électeur est motivé par le bien-être de sa communauté ou de son pays, et non

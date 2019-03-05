@@ -5,9 +5,8 @@ tags:
 series:
   - 'Sud Web 2014'
 slug: sudweb-2014-lidee-au-projet-genese-dune-lightning-talk
+subtitle: génèse de ma conférence pour Sud Web 2014
 ---
-
-## génèse de ma conférence pour Sud Web 2014
 
 _Note&nbsp;: et voilà, c'est fini, pfiou&nbsp;! Pour les curieux,
 [les <span lang="en">slides</span> sont là](http://borisschapira.github.io/slides/sw2014/#/)

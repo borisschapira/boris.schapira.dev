@@ -9,9 +9,8 @@ tags:
 canonical: 'https://blog.clever-age.com/en/2015/12/14/online-advertising-the-current-status/'
 cloudinary_logo: clever-logo
 slug: online-advertising-current-status
+subtitle: A Multifaceted War
 ---
-
-## A Multifaceted War
 
 Online advertising has become — for lack of a better solution — the main source
 of income for many content producers.

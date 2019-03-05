@@ -3,9 +3,8 @@ title: 'Encore de la marge…'
 tags:
   - Front-End
   - Mobilité
+subtitle: Pour mieux apprivoiser nos matériels
 ---
-
-## Pour mieux apprivoiser nos matériels
 
 Déjà 7 ou 8 ans que les premiers articles ont été écrits sur le _design_ des
 applications web en fonction des capteurs disponibles. L'idée&nbsp;: utiliser

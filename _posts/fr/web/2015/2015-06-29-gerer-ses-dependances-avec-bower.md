@@ -6,9 +6,8 @@ tags:
 series:
   - 'Industrialisation du Front-End'
 canonical: 'https://blog.clever-age.com/fr/2015/06/29/gerer-ses-dependances-avec-bower/'
+subtitle: Un besoin d’industrialisation
 ---
-
-## Un besoin d’industrialisation
 
 Le développement <span lang="en">front-end</span> se complexifie un peu plus
 chaque jour. D’une part, l’évolution des standards pousse à la spécialisation de

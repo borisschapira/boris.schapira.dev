@@ -2,9 +2,8 @@
 title: "Réformer l'Education&nbsp;?"
 tags:
   - Education
+subtitle: parce que bon, là, on rate un truc…
 ---
-
-## parce que bon, là, on rate un truc…
 
 Je suis sorti du lycée en sachant me servir d’un compas et d’une équerre, mais
 sans savoir comment calculer les intérêts actualisés d’un prêt.

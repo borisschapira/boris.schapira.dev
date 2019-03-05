@@ -4,9 +4,8 @@ tags:
   - HeForShe
   - Égalité
 series: Diviser
+subtitle: sur catalogue
 ---
-
-## sur catalogue
 
 Ça fait plusieurs fois que j'évoque la problématique des jouets ciblés pour des
 sexes particuliers. J'aimerai y revenir une fois encore.

@@ -6,8 +6,6 @@ permalink: /en/about/
 i18n-key: about-me
 ---
 
-## nice to meet you
-
 I'm a french engineer[^1], Customer Success Manager for
 [Dareboost](https://www.dareboost.com/en/ 'Website speed test, Website quality analysis - Dareboost').
 Dareboost is a <abbr title="Software as a Service">SaaS</abbr> auditing service
