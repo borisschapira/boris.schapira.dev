@@ -180,7 +180,7 @@ DEPENDENCIES
   rake
 
 RUBY VERSION
-   ruby 2.4.3p205
+   ruby 2.6.1p33
 
 BUNDLED WITH
-   1.16.3
+   1.17.2

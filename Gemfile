@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.4.3' unless Gem.win_platform?
+ruby '2.6.1' unless Gem.win_platform?
 
 gem 'jekyll', :git => 'https://github.com/jekyll/jekyll.git', branch: 'master'
 
