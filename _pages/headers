@@ -1,4 +1,5 @@
 ---
+permalink: /_headers
 ---
 /*
   Cache-Control: max-age=7200, private

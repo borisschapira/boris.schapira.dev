@@ -142,14 +142,10 @@ exclude:
   - _posts/**/*.mp4
   - _posts/**/*.webm
   - _posts/**/*.ogv
-  - borisschapira-dev.com+3.pem
-  - borisschapira-dev.com+3-key.pem
+  - boris.schapira.local+3.pem
+  - boris.schapira.local+3-key.pem
 include:
   - ".well-known"
-  - ".htaccess"
-  - ".htpasswd"
-  - "_headers"
-  - "_redirects"
   - "_pages"
 
 # Site settings
