@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/Shopify/liquid-c.git
-  revision: 0a7afdc5d192666ad855dbc35efc58482806adc6
+  revision: 158f95cdeb1a543a4c15d2f72848bd7fe201060a
   branch: master
   specs:
     liquid-c (4.0.0)
@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/Shopify/liquid.git
-  revision: 2b3c81cfd05ef23869d88cde03faafa1d393ac5b
+  revision: 23d669f5e63f99fd13c72a84150b5e449a77f6ef
   branch: master
   specs:
     liquid (4.0.1)
@@ -23,7 +23,7 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: 922e4c01fe76bd1f21418207e90fd52f96d3fd63
+  revision: 9f7078d582ca399f94c6da27429a774841b53e0c
   branch: master
   specs:
     jekyll (3.8.5)
@@ -53,7 +53,7 @@ GEM
     algolia_html_extractor (2.6.1)
       json (~> 2.0)
       nokogiri (~> 1.8.2)
-    algoliasearch (1.25.2)
+    algoliasearch (1.26.0)
       httpclient (~> 2.8, >= 2.8.3)
       json (>= 1.5.1)
     classifier-reborn (2.2.0)
@@ -85,7 +85,7 @@ GEM
       yell (~> 2.0)
     http_parser.rb (0.6.0)
     httpclient (2.8.3)
-    i18n (1.5.3)
+    i18n (1.6.0)
       concurrent-ruby (~> 1.0)
     jekyll-algolia (1.4.11)
       algolia_html_extractor (~> 2.6)
@@ -120,7 +120,7 @@ GEM
       jekyll-tagging (~> 1.0)
     jekyll-watch (2.1.2)
       listen (~> 3.0)
-    json (2.1.0)
+    json (2.2.0)
     kramdown (1.17.0)
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -132,7 +132,7 @@ GEM
     nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
     nuggets (1.6.0)
-    parallel (1.13.0)
+    parallel (1.14.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     progressbar (1.10.0)
@@ -145,7 +145,7 @@ GEM
     ruby-enum (0.7.2)
       i18n
     ruby_dep (1.5.0)
-    safe_yaml (1.0.4)
+    safe_yaml (1.0.5)
     sass (3.7.3)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
@@ -182,7 +182,7 @@ DEPENDENCIES
   rake
 
 RUBY VERSION
-   ruby 2.4.3p205
+   ruby 2.6.1p33
 
 BUNDLED WITH
-   1.16.3
+   1.17.2
