@@ -11,18 +11,15 @@ est temps de voir où j'en suis alors que 2017 <del>se profile</del> démarre.
 
 <!-- more -->
 
-- [Retour sur 2016](#retour-sur-2016)
-- [Dégager plus de temps en dehors du travail](#d%C3%A9gager-plus-de-temps-en-dehors-du-travail)
-- [Formaliser mes processus](#formaliser-mes-processus)
-- [Mieux gérer mon énergie](#mieux-g%C3%A9rer-mon-%C3%A9nergie)
-- [Me tenir droit, mieux manger](#me-tenir-droit-mieux-manger)
-- [Promouvoir l'égalité, lutter contre les inégalités](#promouvoir-l%C3%A9galit%C3%A9-lutter-contre-les-in%C3%A9galit%C3%A9s)
-  - [Le ménage devant ma porte](#le-m%C3%A9nage-devant-ma-porte)
-  - [En tant que citoyen](#en-tant-que-citoyen)
-  - [Au travail aussi](#au-travail-aussi)
-  - [Dans mes échanges quotidiens](#dans-mes-%C3%A9changes-quotidiens)
-
-<!-- more -->
+- [Dégager plus de temps en dehors du travail](#temps)
+- [Formaliser mes processus](#formalisme)
+- [Mieux gérer mon énergie](#energie)
+- [Me tenir droit, mieux manger](#alimentation)
+- [Promouvoir l'égalité, lutter contre les inégalités](#egalite)
+  - [Le ménage devant ma porte](#biais)
+  - [En tant que citoyen](#politique)
+  - [Au travail aussi](#travail)
+  - [Dans mes échanges quotidiens](#echanges)
 
 ## <span id="temps">Dégager plus de temps en dehors du travail</span>
 
