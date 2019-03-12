@@ -12,9 +12,11 @@
   grid-template-columns: repeat(12, 1fr);
   gap: 2rem; }
 
-blockquote li, .nav-footer > ul, .socials {
+blockquote li,
+.inline-note li, .nav-footer > ul, .socials {
   list-style-type: none; }
-  blockquote li:before, .nav-footer > ul:before, .socials:before {
+  blockquote li:before,
+  .inline-note li:before, .nav-footer > ul:before, .socials:before {
     content: "\200B";
     /* add zero-width space */ }
 
@@ -890,7 +892,8 @@ ol,
 dl,
 blockquote,
 pre,
-caption {
+caption,
+.inline-note {
   margin: 1.7em 0; }
 
 .lang {
@@ -967,24 +970,32 @@ button.btn--link-like {
   word-break: break-all;
   hyphens: auto; }
 
-blockquote {
+blockquote,
+.inline-note {
   padding: 0 1rem;
   font-size: 1.1em;
   border: none;
   border-left: 0.25rem solid var(--color-main); }
-  blockquote li::before {
+  blockquote li::before,
+  .inline-note li::before {
     content: "—"; }
-  blockquote cite {
+  blockquote cite,
+  .inline-note cite {
     font-size: 1rem;
     display: block;
     margin-top: 1em; }
+
+.inline-note {
+  border-left-style: dotted; }
+  .inline-note strong {
+    text-transform: capitalize; }
 
 .canonical {
   display: block;
   margin: 2em auto;
   padding: 10px;
-  border: 1px dotted var(--color-main);
-  font-style: italic; }
+  font-style: italic;
+  border: 1px dotted var(--color-main); }
 
 ins {
   padding: 3px;

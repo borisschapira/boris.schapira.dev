@@ -34,11 +34,7 @@ l'outil et contribué à quelques <em lang="en">plugins</em>, j'ai décidé de
 migrer vers [<em lang="en">Jekyll</em>](https://jekyllrb.com/) dont la
 communauté me semblait plus mûre.
 
-[^static]:
-
-  Frank Taillandier a merveilleusement bien croqué la
-  [mouvance statique](http://frank.taillandier.me/2016/03/08/les-gestionnaires-de-contenu-statique/)
-  sur son blog.
+[^static]: Frank Taillandier a merveilleusement bien croqué la [mouvance statique](http://frank.taillandier.me/2016/03/08/les-gestionnaires-de-contenu-statique/) sur son blog.
 
 Mes dépendances Ruby sont gérées par [Bundler](http://bundler.io/) :
 
@@ -54,10 +50,7 @@ J'en oublie sûrement mais vous pourrez trouver l'ensemble des dépendances
 
 L'internationalisation est permise par `i18n` et le `i18n_filter`[^2].
 
-[^2]:
-
-  La technique de localisation est détaillée dans le
-  [guide de démarrage Jekyll de Thomas Brelet](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/#localiser-jekyll).
+[^2]: La technique de localisation est détaillée dans le [guide de démarrage Jekyll de Thomas Brelet](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/#localiser-jekyll).
 
 J'utilise [node](https://nodejs.org/) pour la compilation des ressources
 statiques CSS et JS.
@@ -80,10 +73,7 @@ C'est également Netlify qui s'occupe de capturer les commentaires pour me les
 envoyer par mail via
 [Netlify Forms](https://www.netlify.com/docs/form-handling/).
 
-[^3]:
-
-  Lire à ce propos
-  [cet excellent article de Romy sur les syntaxes légères](http://romy.tetue.net/syntaxes-legeres-pour-rediger)
+[^3]: Lire à ce propos [cet excellent article de Romy sur les syntaxes légères](http://romy.tetue.net/syntaxes-legeres-pour-rediger)
 
 ### Côté Client
 
@@ -110,8 +100,4 @@ Une surveillance quotidienne via [Dareboost](https://www.dareboost.com/) sur
 plusieurs types de pages m'informe des éventuelles régressions de performance
 par le biais d'alertes configurées.
 
-[^7]:
-
-  Merci à [Nicolas Hoffman](https://twitter.com/Nico3333fr) de m'avoir
-  sensibilisé à cette problématique durant
-  [sa présentation à Paris Web 2015](http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/ 'CSP: Content Security Policy').
+[^7]: Merci à [Nicolas Hoffman](https://twitter.com/Nico3333fr) de m'avoir sensibilisé à cette problématique durant [sa présentation à Paris Web 2015](http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/ 'CSP: Content Security Policy').

@@ -39,11 +39,7 @@ de démonstrations à connaître par cœur. À la fin de l’année, nous en avi
 de 70 et il fallait en reproduire 4 en moins d’une heure pour espérer obtenir
 un 20.
 
-[^1]:
-
-  également orthographié "khôlles", il s'agit des interrogations orales que l'on
-  impose aux étudiants pour les maintenir sous pression et leur apprendre à
-  gérer le stress des examens
+[^1]: également orthographié "khôlles", il s'agit des interrogations orales que l'on impose aux étudiants pour les maintenir sous pression et leur apprendre à gérer le stress des examens
 
 L'explication de notre professeur était très simple :
 
@@ -83,11 +79,7 @@ l’enrichissement avec les fonctionnalités offertes par les nouveaux. Le tout 
 prenant en compte le futur pour ne pas être complètement à la rue quand les Web
 Components viendront tout écraser sur leur passage (quoi, on peut rêver non ?).
 
-[^2]:
-
-  Ce qui n'est pas la même chose, même si les deux métiers sont concernés par ce
-  que j'ai à dire (pour plus d'infos, voir
-  [cet article de Marie Guillaumet](http://marieguillaumet.com/les-mots-qui-fachent-2-integrateur-web-vs-developpeur-front-end/)).
+[^2]: Ce qui n'est pas la même chose, même si les deux métiers sont concernés par ce que j'ai à dire (pour plus d'infos, voir [cet article de Marie Guillaumet](http://marieguillaumet.com/les-mots-qui-fachent-2-integrateur-web-vs-developpeur-front-end/)).
 
 Bref, développer des pages et/ou des applications Web en 2015, c'est une
 compétence d'artisan, un savoir qui se partage mais que peu peuvent se targuer
@@ -177,10 +169,7 @@ réflexion la **maintenance** de votre solution, en intégrant éventuellement �
 votre processus la génération automatique d'une **documentation** à l'usage des
 futurs mainteneurs, mais aussi des explications pour le **débogage**[^3].
 
-[^3]:
-
-  Lire à ce sujet
-  ["Développeurs front : vous n’utilisez pas de proxy ?" de Stéphane Tessier](https://blog.clever-age.com/fr/2015/07/29/developpeurs-front-vous-nutilisez-pas-de-proxy/).
+[^3]: Lire à ce sujet ["Développeurs front : vous n’utilisez pas de proxy ?" de Stéphane Tessier](https://blog.clever-age.com/fr/2015/07/29/developpeurs-front-vous-nutilisez-pas-de-proxy/).
 
 Une fois qu'on réassemble, cela donne la chaine complète :
 
