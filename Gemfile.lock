@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/Shopify/liquid-c.git
-  revision: 158f95cdeb1a543a4c15d2f72848bd7fe201060a
+  revision: 69a4715cbbc965b6c1768dcdbcda22f1784ec7ae
   branch: master
   specs:
     liquid-c (4.0.0)
@@ -8,10 +8,10 @@ GIT
 
 GIT
   remote: https://github.com/Shopify/liquid.git
-  revision: 23d669f5e63f99fd13c72a84150b5e449a77f6ef
+  revision: f2f467bdbc248e7bf26b4f5e552cfbce6052f811
   branch: master
   specs:
-    liquid (4.0.1)
+    liquid (4.0.3)
 
 GIT
   remote: https://github.com/borisschapira/jekyll-paginate-v2.git
@@ -23,7 +23,7 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: 9f7078d582ca399f94c6da27429a774841b53e0c
+  revision: 475983537dda5326f4a16146321329912baeeb68
   branch: master
   specs:
     jekyll (3.8.5)
@@ -43,7 +43,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.2.2)
+    activesupport (5.2.2.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -62,7 +62,7 @@ GEM
     colorize (0.8.1)
     commonmarker (0.18.2)
       ruby-enum (~> 0.5)
-    concurrent-ruby (1.1.4)
+    concurrent-ruby (1.1.5)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -180,7 +180,7 @@ DEPENDENCIES
   rake
 
 RUBY VERSION
-   ruby 2.6.1p33
+   ruby 2.6.2p47
 
 BUNDLED WITH
    1.17.2
