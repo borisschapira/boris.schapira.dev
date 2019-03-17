@@ -28,23 +28,23 @@ layout: microtypo
     <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-serif-regular.woff2" crossorigin>
     <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-sans-bold.woff2" crossorigin>
     <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-serif-italic.woff2" crossorigin>
-    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/critical' %}">
-    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/main' %}">
-    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/highlightjs' %}">
-    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch.min' %}">
-    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch-theme-algolia.min' %}">
+    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/critical' %}" data-proofer-ignore>
+    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/main' %}" data-proofer-ignore>
+    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/highlightjs' %}" data-proofer-ignore>
+    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch.min' %}" data-proofer-ignore>
+    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch-theme-algolia.min' %}" data-proofer-ignore>
     {% comment %} / Preloading the fonts and styles for later use {% endcomment %}
 
     {% comment %} Styles {% endcomment %}
     <script>performance.mark('mark_declare_css_start');</script>
-    <link href="{% include assets/css.html.liquid name='/assets/styles/critical' %}" rel="stylesheet">
+    <link href="{% include assets/css.html.liquid name='/assets/styles/critical' %}" rel="stylesheet" data-proofer-ignore>
     {% capture themeColor %}{{ site.data.styles.main.color }}{% endcapture %}
-    <link href="{% include assets/css.html.liquid name='/assets/styles/main' %}" rel="stylesheet">
+    <link href="{% include assets/css.html.liquid name='/assets/styles/main' %}" rel="stylesheet" data-proofer-ignore>
     {% if page.i18n-key == "search" %}
-    <link href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch.min' %}" rel="stylesheet">
-    <link href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch-theme-algolia.min' %}" rel="stylesheet">
+    <link href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch.min' %}" rel="stylesheet" data-proofer-ignore>
+    <link href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch-theme-algolia.min' %}" rel="stylesheet" data-proofer-ignore>
     {% endif %}
-    <link href="{% include assets/css.html.liquid name='/assets/styles/vendors/highlightjs' %}" rel="stylesheet">
+    <link href="{% include assets/css.html.liquid name='/assets/styles/vendors/highlightjs' %}" rel="stylesheet" data-proofer-ignore>
     <script>performance.mark('mark_declare_css_end');performance.measure('mark_declare_css', 'mark_declare_css_start', 'mark_declare_css_end');</script>
     {% comment %} / Styles {% endcomment %}
 
@@ -171,7 +171,7 @@ layout: microtypo
     </header>
     <h1 class="page-title">{{ page.title }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>
     <section class="container{% if page.layout=='post' or page.layout=='page' or page.layout=='conf' %} full-width-content{% endif %}">
-      <div class="content" role="main">
+      <div class="content" role="main" id="main">
         {{ content }}
         
       {% if paginator %}

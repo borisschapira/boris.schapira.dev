@@ -29,6 +29,6 @@ Specializing in Quality management, Web performance and mobile Web, I'm thrilled
 about understanding the challenges of the new usages and experiences of the
 users.
 
-I care a lot, so [I also share a lot](/en/about/sharing/).
+I care a lot, so [I also share a lot](/en/sharing/).
 
 [^1]: my full <em lang="en">résumé</em> is available, in french, [on LinkedIn](https://www.linkedin.com/in/borisschapira/?locale=en_US 'CV de Boris SCHAPIRA sur LinkedIn')
