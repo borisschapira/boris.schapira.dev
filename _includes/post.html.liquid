@@ -5,9 +5,13 @@
                       url=include.post.translation.url %}</span>{% endif %}
   </header>
 
+  {% if include.postPage %}
   <div class="post-content">
-    {% if include.postPage %}
-      {{ include.post.content }}
-    {% endif %}
+    {{ include.post.content }}
   </div>
+  {% else %}
+    <h2 class="post-title" id="{{ include.post.slug }}">
+      <a href="{{ include.post.url }}">{{ include.post.title }}</a>	
+    </h2>
+  {% endif %}
 </article>
