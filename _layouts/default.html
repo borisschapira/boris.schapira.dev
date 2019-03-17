@@ -31,8 +31,8 @@ layout: microtypo
     <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/critical' %}">
     <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/main' %}">
     <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/highlightjs' %}">
-    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch.min' %}">
-    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch-theme-algolia.min' %}">
+    <link rel="prefetch" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch.min' %}">
+    <link rel="prefetch" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch-theme-algolia.min' %}">
     {% comment %} / Preloading the fonts and styles for later use {% endcomment %}
 
     {% comment %} Styles {% endcomment %}
@@ -306,5 +306,5 @@ layout: microtypo
       </nav>
     </footer>
     {% include footer.html.liquid type=page.type loadTwitterWjs=page.loadTwitterWjs loadSearch=page.loadSearch %}
-    <script src="//instant.page/1.1.0" integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
+    <script src="//instant.page/1.1.0"></script>
   </body></html>
