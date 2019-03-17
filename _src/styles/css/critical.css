@@ -1035,6 +1035,7 @@ html {
   .container.full-width-content aside {
     display: none; }
   .container .content {
+    padding-bottom: 3rem;
     grid-column: 2 / 9; }
     @media (max-width: 959px) {
       .container .content {
@@ -1104,6 +1105,13 @@ body.menu-open {
   transform: translateX(-100vw); }
   body.menu-open .menu-trigger {
     transform: translateX(100vw); }
+  body.menu-open .menu {
+    font-size: 2rem;
+    text-align: center; }
+  body.menu-open a {
+    color: var(--color-main); }
+    body.menu-open a:hover {
+      color: var(--color-main-dark); }
   body.menu-open nav ul {
     display: block;
     position: fixed;

@@ -15,7 +15,7 @@ milieu d'un New York post-apocalyptique peuplé de monstres nocturnes.
 
 **Si vous avec lu le livre ou vu une précédente adaptation**, vous allez être
 déçu. Ici, rien à voir avec
-[le roman original](http://fr.wikipedia.org/wiki/Je_suis_une_l%C3%A9gende#Adaptations)
+[le roman original](https://fr.wikipedia.org/wiki/Je_suis_une_l%C3%A9gende#Adaptations)
 ou la version avec Charlton Heston. Vous ne trouverez pas dans cette version ni
 critique de la civilisation ni ébauche d'une nouvelle humanité. La culpabilité
 du héros est traitée de manière assez positive et sa folie plus comique

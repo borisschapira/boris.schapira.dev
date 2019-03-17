@@ -1,6 +1,6 @@
 ---
 title: 'La Performance Web, pourquoi et surtout, comment ?'
-target: gens du Web qui veulent que leurs sites aillent plus vite
+subtitle: un sujet pour tous les gens du Web qui veulent que leurs sites aillent plus vite
 description:
   "Avec le déplacement d'un certain nombre d'usages vers des périphérique
   nomades (téléphones, montres, appareils connectés), la fluidité d'utilisation
@@ -18,7 +18,7 @@ events:
 {% include media/vimeo.html.liquid id="56931059" title="Mettre en place une strat&eacute;gie de performance web, Boris Shapira - Sud Web 2012" %}
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur
-[Clever Age](http://www.clever-age.com/fr/) dans
+[Clever Age](https://www.clever-age.com/fr/) dans
 [Mettre en place une stratégie de Performance Web](https://blog.clever-age.com/fr/2012/11/16/comment-mettre-en-place-une-strategie-de-performance-web/)
 plusieurs mois après la conférence. Son contenu est donc plus élaboré.</em>
 

@@ -1,6 +1,6 @@
 ---
 title: "J'entre dans un magasin"
-target: consommateurs responsables
+subtitle: un sujet pour consommateurs·ices responsables
 description:
   "Que se passerait-il si on transposait les pratiques du e-commerce aux
   commerces physiques ? Et si on discutait un peu des pratiques du e-commerce

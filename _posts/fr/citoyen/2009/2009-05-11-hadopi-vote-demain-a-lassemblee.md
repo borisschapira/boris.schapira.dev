@@ -18,7 +18,7 @@ bientôt les
 Pour se protéger, ils n'auront qu'une solution,
 [payer pour l'installation de dispositifs de surveillance sur leurs machines](http://web.archive.org/web/20140213090123///standblog.org/blog/post/2009/05/08/Hadopi-%3A-les-mouchards-sont-confirm%C3%A9s),
 au sein de leur foyer. Et pas question d'avoir une vieille machine ou un
-[système d'exploitation dissident](http://fr.wikipedia.org/wiki/Linux), car
+[système d'exploitation dissident](https://fr.wikipedia.org/wiki/Linux), car
 [rien n'est prévu en terme d'interopérabilité](http://www.nextinpact.com/archive/50750-hadopi-logiciel-securisation-interoperable-payant.htm).
 Comme le disent si bien Stan&amp;Dan, la loi Hadopi aura au moins un
 avantage&nbsp;: elle va

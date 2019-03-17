@@ -22,13 +22,13 @@ Cette dernière année, plus d'un cas sur quatre a été hospitalisé en phase
 terminale, là où les traitements sont
 [les plus destructeurs](http://vosdroits.service-public.fr/particuliers/F2432.xhtml).
 Aucun malade n'est décédé, mais les
-[traumatismes personnels](http://fr.wikipedia.org/wiki/Liquidation_judiciaire)
+[traumatismes personnels](https://fr.wikipedia.org/wiki/Liquidation_judiciaire)
 sont importants.
 
 L'opinion publique pense à tort que les patients qui ont contracté la maladie
 ont multiplié les comportements
-[facilement identifiables ](http://fr.wikipedia.org/wiki/Cr%C3%A9dit_immobilier)comme
+[facilement identifiables ](https://fr.wikipedia.org/wiki/Cr%C3%A9dit_immobilier)comme
 dangereux. En réalité, c'est la multiplication des petites infractions à
 l'hygiène qui a causé l'infection. 85 % des dossiers sont d'ailleurs liés à la
 présence d'un même
-[agent pathogène](http://fr.wikipedia.org/wiki/Cr%C3%A9dit_permanent).
+[agent pathogène](https://fr.wikipedia.org/wiki/Cr%C3%A9dit_permanent).

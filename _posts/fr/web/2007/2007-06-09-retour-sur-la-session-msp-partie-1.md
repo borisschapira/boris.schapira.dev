@@ -9,7 +9,7 @@ Petit retour sur la session MSP et la journée Imagine Cup. Toutes les photos qu
 j'ai sont ici.
 
 Pour rappel&nbsp;: les
-[Microsoft Student Partners](http://fr.wikipedia.org/wiki/Microsoft_student_partner)
+[Microsoft Student Partners](https://fr.wikipedia.org/wiki/Microsoft_student_partner)
 sont des étudiants qui se sont rapprochés de Microsoft parce qu'ils sont
 intéressés par les propositions de l'éditeur sur ses différents marchés&nbsp;:
 loisir, serveur, systèmes d'exploitation, bureautique, mobilité, communautés… Le

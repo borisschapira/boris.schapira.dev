@@ -111,7 +111,7 @@ nécessaire que l'impact sur l'Economie des investissements réalisés par l'Ét
 soit suffisant pour que le gain que l'État en tire lui permettent de payer les
 intérêts de la dette. C'est sur ce point particulier que le bât blesse en France
 puisque, comme le décrit le
-[rapport Pébereau](http://fr.wikipedia.org/wiki/Rapport_P%C3%A9bereau_sur_la_dette_publique),
+[rapport Pébereau](https://fr.wikipedia.org/wiki/Rapport_P%C3%A9bereau_sur_la_dette_publique),
 la dette est trop souvent utilisée pour financer des dépenses courantes au lieu
 de véritables projets. La réduction de la dette ne doit donc pas passer
 nécessairement par la réduction des dépenses publiques, mais par un meilleur

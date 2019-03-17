@@ -24,7 +24,7 @@ la même période.
 Ainsi, il ne nous reste potentiellement qu’une date et un choix limité pour la
 réception. Nous avons envoyé nos mères en repé­rage pour qu’elles trient avant
 notre arrivée. Espérons que cela se passe bien, et qu'aucune d’entre elles ne
-décroche le [quickening](http://fr.wikipedia.org/wiki/Quickening). Restera à
+décroche le [quickening](https://fr.wikipedia.org/wiki/Quickening). Restera à
 réserver, et nous aurons fait un grand pas en avant.
 
 **Note pour plus tard :** penser la jouer fine avec nos divers fournisseurs de

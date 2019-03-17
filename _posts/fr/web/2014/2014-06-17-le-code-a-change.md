@@ -40,7 +40,7 @@ on en arrive là…
 ## Pourquoi on pourrait _a priori_ être d'accord
 
 > Software is eating the world  
->  <cite>[Marc Andressen](http://fr.wikipedia.org/wiki/Marc_Andreessen 'Marc Andreessen ", Wikipedia')</cite>
+>  <cite>[Marc Andressen](https://fr.wikipedia.org/wiki/Marc_Andreessen 'Marc Andreessen ", Wikipedia')</cite>
 
 Le monde logiciel fait partie intégrante de notre vie&nbsp;: la plupart des
 appareils qui étaient auparavant mécaniques embarque désormais des
@@ -78,7 +78,7 @@ la propulsion de boulettes de papier. Mais en fait, non.
 > calcul au sens large, c'est-à-dire non pas exclusivement arithmétique, mais en
 > rapport avec tout type d'information que l'on peut représenter de manière
 > symbolique par une suite de nombres.  
->  [Wikipedia](http://fr.wikipedia.org/wiki/Informatique#Science_informatique 'Science Informatique ", Wikipedia')
+>  [Wikipedia](https://fr.wikipedia.org/wiki/Informatique#Science_informatique 'Science Informatique ", Wikipedia')
 
 L'informatique englobe un certain nombre de champs d'études qui vont bien
 au-delà du _code_. Car le _code_ n'est qu'une façon de dire ce qu'on veut à une
@@ -165,7 +165,7 @@ la sécurité de leur vie privée)… et la Technologie.
 > - découverte et la mise en œuvre de moyens élémentaires de fabrication,
 > - usage raisonné des technologies de l’information et de la communication.
 > - évolution des objets à travers le temps.  
->   <cite>[Wikipedia, "Technologie dans les collèges français"](http://fr.wikipedia.org/wiki/Technologie_dans_les_coll%C3%A8ges_fran%C3%A7ais)</cite>
+>   <cite>[Wikipedia, "Technologie dans les collèges français"](https://fr.wikipedia.org/wiki/Technologie_dans_les_coll%C3%A8ges_fran%C3%A7ais)</cite>
 
 Il serait donc peut-être pertinent qu'on offre aux professeurs de Technologie
 l'opportunité de mieux enseigner leur matière avant de proposer d'ajouter des
@@ -182,7 +182,7 @@ bases de l'informatique à des enfants en jouant&nbsp;:
 
 - Une craie et un dessin au sol suffisent à enseigner le tri par bulle.
 - Ils sont ravis d'apprendre les bases de la stéganographie. Apprenez-leur un
-  [chiffre de César](http://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage 'Chiffre de César ", Wikipedia'),
+  [chiffre de César](https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage 'Chiffre de César ", Wikipedia'),
   vous verrez !
 - Distribuer une balle à chacun, alignez-les en file indienne et faites passer
   un seau dans lequel chacun pose sa balle avant de passer à son voisin.

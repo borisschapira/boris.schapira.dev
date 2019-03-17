@@ -113,7 +113,8 @@ a {
     --color-lightning: var(--color-web-lightning); }
 
 body {
-  color: var(--color-main-text); }
+  color: var(--color-main-text);
+  background-color: var(--color-compliment-text); }
 
 header,
 footer {

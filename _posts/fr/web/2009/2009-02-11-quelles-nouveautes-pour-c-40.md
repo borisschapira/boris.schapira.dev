@@ -26,11 +26,11 @@ Mitsu nous a proposé d’analyser les grandes tendances actuelles en matière d
 développement :
 
 - L’envie de développer sur
-  [des langages de plus en plus déclaratifs](http://fr.wikipedia.org/wiki/Programmation_d%C3%A9clarative),
+  [des langages de plus en plus déclaratifs](https://fr.wikipedia.org/wiki/Programmation_d%C3%A9clarative),
   facilement compréhensibles.  Les développeurs peuvent ainsi se concentrer
   d’avantage sur ce qu'ils doivent faire, pas sur la façon dont ils pourront
   rendre leur
-  [code impératif](http://fr.wikipedia.org/wiki/Programmation_imp%C3%A9rative)
+  [code impératif](https://fr.wikipedia.org/wiki/Programmation_imp%C3%A9rative)
   fonctionnel.
 - L’attrait pour les langages dynamiques. Php, Javascript, Ruby… connaissent un
   succès qui ne se dément pas. La simplicité du développement, le typage
@@ -60,7 +60,7 @@ dans le monde du .NET et une annonce très attendue par ceux qui utilisent la
 [réflexion](http://emerica.developpez.com/dotnet/reflection/introduction/csharp/)
 à outrance. L’exemple donnée est assez parlant. Imaginez que vous ayez une
 méthode `GetCalculator()` en provenance d’une
-[usine logicielle](http://fr.wikipedia.org/wiki/Software_factory), qui renvoie
+[usine logicielle](https://fr.wikipedia.org/wiki/Software_factory), qui renvoie
 un objet de type **Object** (mais dont vous savez qu’il s’agit d’un
 calculateur). Voici ce qu’il fallait écrire avant pour calculer 10+20 :
 

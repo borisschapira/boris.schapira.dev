@@ -32,7 +32,7 @@ De mon côté, je ne pense pas me jeter sur la bêta du SP1… j'ai déjà pas m
 avec les bêtas de Vista avant sa sortie… je vais plutôt essayer de réviser mes
 notions d'Orienté Objet et de méthodes de développement… et puis jouer un peu
 avec
-[Orcas](http://fr.wikipedia.org/wiki/Microsoft_Visual_Studio#Visual_Studio_2008).
+[Orcas](https://fr.wikipedia.org/wiki/Microsoft_Visual_Studio#Visual_Studio_2008).
 
 Quoiqu'il en soit je répèterais ce que je dis à tous mes amis : vous n'avez pas
 'besoin' de Vista. C'est un excellent système mais XP SP2 aussi (attention

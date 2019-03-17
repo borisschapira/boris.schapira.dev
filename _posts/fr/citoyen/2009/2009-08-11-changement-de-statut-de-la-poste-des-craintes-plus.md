@@ -25,13 +25,13 @@ Européenne, qui demande l’ouverture à la concurrence des activités de courr
 La Commission Européenne ne donne aucune recommandation quant à la privatisation
 des entreprises publiques. Cette privatisation n'était donc pas
 obligatoire&nbsp;: la Poste pouvait demeurer une
-[EPIC](http://fr.wikipedia.org/wiki/%C3%89tablissement_public_%C3%A0_caract%C3%A8re_industriel_et_commercial) comme
+[EPIC](https://fr.wikipedia.org/wiki/%C3%89tablissement_public_%C3%A0_caract%C3%A8re_industriel_et_commercial) comme
 elle l'est aujourd'hui.
 
 En décembre 2008, François Ailleret, président de la commission sur le
 développement de La Poste, remet son rapport à François Fillon. Nicolas Sarkozy
 fait alors un choix stratégique&nbsp;: il annonce que La Poste deviendra une
-[SA](http://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_anonyme) à capital ouvert
+[SA](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_anonyme) à capital ouvert
 uniquement aux investisseurs publics tels que la Caisse des Dépôts et
 Consignations. L’enjeu pour La Poste est d’obtenir 3 milliards d’euros, selon
 ses dirigeants, d’ici l’ouverture de la concurrence pour la totalité des envois
@@ -88,8 +88,8 @@ chiffre d’affaire de la Poste).
 Qu’on s’oppose à l’ouverture à la concurrence des activités de courrier, je peux
 comprendre. La nécessité pour l’État de maitriser tous les flux nécessaires au
 fonctionnement du pays se conçoit (d’ailleurs, n’est-ce pas la base des textes
-[Hadopi](http://fr.wikipedia.org/wiki/Loi_Hadopi) et
-[Loppsi](http://fr.wikipedia.org/wiki/Loi_d%27orientation_et_de_programmation_pour_la_s%C3%A9curit%C3%A9_int%C3%A9rieure)&nbsp;?).
+[Hadopi](https://fr.wikipedia.org/wiki/Loi_Hadopi) et
+[Loppsi](https://fr.wikipedia.org/wiki/Loi_d%27orientation_et_de_programmation_pour_la_s%C3%A9curit%C3%A9_int%C3%A9rieure)&nbsp;?).
 Bon c’est vrai qu’entre l’électricité, le gaz, les télécoms, les autoroutes, le
 [chemin de fer](http://jen-airienadireetalors.20minutes-blogs.fr/archive/2009/03/08/la-mise-en-concurrence-est-sur-les-rails.html)
 et l’eau, on est déjà bien foutus de ce côté-là, mais rien n’empêche de

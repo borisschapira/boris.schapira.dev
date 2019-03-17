@@ -29,7 +29,7 @@ actuel&nbsp;:\*\* \*\*
   vite.
 
 > There is no such thing as a free lunch  
->  <cite>[Milton Friedman](http://fr.wikipedia.org/wiki/Milton_Friedman)) </cite>
+>  <cite>[Milton Friedman](https://fr.wikipedia.org/wiki/Milton_Friedman)) </cite>
 
 - Corrélation et causalité sont des termes proches mais dissociés. Si les
   évènements A et B interviennent en même temps à plusieurs reprises, rien ne

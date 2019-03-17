@@ -114,8 +114,6 @@ module Jekyll
         'color' => color
       }
 
-      p result
-
       result
     end
   end

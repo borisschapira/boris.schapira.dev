@@ -28,7 +28,7 @@ D'un point de vue plus personnel, je suis Papa de deux formidables garçons
 [dont je parle souvent](/confs/mon-pire-client-a-cinq-ans/ 'Mon pire client a cinq ans | Boris Schapira')
 et qui me ravissent par [leurs anecdotes croustillantes](/papa/). Leur mère,
 l'amour de ma vie est une princesse qui écrit
-[des articles de RH](http://libelilou.github.io/ 'Princesse RH'). Les
+[des articles de RH](https://libelilou.github.io/ 'Princesse RH'). Les
 problématiques sociales et sociétales me tiennent à cœur, notamment celles qui
 concernent l'Égalité.
 

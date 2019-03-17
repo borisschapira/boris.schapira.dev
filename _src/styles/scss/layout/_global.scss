@@ -26,6 +26,7 @@ html {
   }
 
   .content {
+    padding-bottom: 3rem;
     grid-column: 2 / 9;
 
     @include media("<large") {

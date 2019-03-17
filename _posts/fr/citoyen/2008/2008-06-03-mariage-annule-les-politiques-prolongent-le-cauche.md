@@ -23,7 +23,7 @@ L'argument récurrent est le même qu'en tout combat politique&nbsp;: ceux qui
 défendent cette annulation sont présentés comme d'incorrigibles conservateurs
 dont les courants de pensée sont soit teintés d'Islam, soit dépassés par
 l'époque. Les mots utilisés sont violents, empruntant même librement à un
-[vocabulaire religieux](http://fr.wikipedia.org/wiki/Fatwa) qui n'a rien à y
+[vocabulaire religieux](https://fr.wikipedia.org/wiki/Fatwa) qui n'a rien à y
 faire.
 
 J'ai tendance à penser, à l'opposé de cette conception, que le progressisme

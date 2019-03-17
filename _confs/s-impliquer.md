@@ -1,6 +1,6 @@
 ---
 title: "Pas de fatalité, il suffit de s'impliquer"
-target: salariés qui veulent changer des choses
+subtitle: un sujet pour les salarié·e·s qui veulent changer des choses
 description:
   "Et si on installait le dialogue social dans nos entreprises du numérique,
   sans violence ni animosité ? Quand on est salarié, on peut avoir l'impression

@@ -20,16 +20,16 @@ applicatif web&nbsp;?
 Tout simplement parce qu'à l'époque, les développeurs Web faisaient un peu comme
 ils pouvaient. Certes, les éléments étaient là pour réaliser un site
 fantastique, mais encore fallait-il savoir comment les assembler.
-[XML](http://fr.wikipedia.org/wiki/XML),
-[JavaScript](http://fr.wikipedia.org/wiki/JavaScript) et
-[HTML](http://fr.wikipedia.org/wiki/Html) faisaient parfois bon ménage lorsque
+[XML](https://fr.wikipedia.org/wiki/XML),
+[JavaScript](https://fr.wikipedia.org/wiki/JavaScript) et
+[HTML](https://fr.wikipedia.org/wiki/Html) faisaient parfois bon ménage lorsque
 le webmaster avait de l'expérience, mais pas toujours.
 
 De nombreuses compagnies ont ainsi commencé, il y a plusieurs années, à produire
 des solutions à ce problème. Le but&nbsp;: fournir aux webmasters des ensembles
 de fonctions préprogrammées leur permettant d'intégrer des composants qu'on
 appelle désormais
-[AJAX](http://fr.wikipedia.org/wiki/Asynchronous_JavaScript_And_XML)
+[AJAX](https://fr.wikipedia.org/wiki/Asynchronous_JavaScript_And_XML)
 ("Asynchronous JavaScript and XML", mais en plus marketing) à leurs sites Web.
 Et au milieu de toutes ses sociétés, dont bien s&ucirc;r Microsoft, Google, IBM
 et les autres cadors du milieu, le webmaster pouvait un peu se perdre…

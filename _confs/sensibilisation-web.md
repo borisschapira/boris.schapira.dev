@@ -1,6 +1,6 @@
 ---
 title: "Internet, espace d'opportunités… et de risques"
-target: 12 ans et +
+subtitle: vulgarisation et sensibilisation pour les 12 ans et +
 description:
   "Le Web a pris une importance capitale dans nos vies. Mais les jeunes (et les
   moins jeunes) ne sont pas toujours au courant des problématiques que cela

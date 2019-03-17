@@ -1,6 +1,6 @@
 ---
 title: 'Web : la disruption continue'
-target: gens qui veulent comprendre comment le Web fonctionne en tant que marché
+subtitle: un sujet les gens qui veulent comprendre comment le Web fonctionne en tant que marché
 description:
   "Le Web est un domaine passionnant pour qui s'intéresse à l'économie et à
   l'organisation de la valeur. Parce qu'il permet d'abolir les frontières entre

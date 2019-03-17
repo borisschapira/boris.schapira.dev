@@ -26,7 +26,7 @@ marché de gré-à-gré**&nbsp;:
 > transaction se fait avec la Bourse. Les opérations y sont souvent moins
 > standardisées et moins normalisées ou dans un cadre réglementaire plus souple.
 >
-> [Wikipedia](http://fr.wikipedia.org/wiki/Over_The_Counter)
+> [Wikipedia](https://fr.wikipedia.org/wiki/Over_The_Counter)
 
 Un des problèmes soulevés par ce fonctionnement est qu'il prive les acteurs d'un
 **filet de sécurité**. Si A est le créancier de B et que B ne peut pas, même en

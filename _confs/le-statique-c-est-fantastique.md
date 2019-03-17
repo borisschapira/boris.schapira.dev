@@ -1,6 +1,6 @@
 ---
 title: "Le statique, c'est fantastique"
-target: développeurs·euses
+subtitle: plus qu'une mode, un nouveau paradigme
 description:
   'Mon dada du moment, qui allie Performance Web et syntaxe à balisage léger :
   les générateurs de sites statiques. Ils sont l''accomplissement d''un retour à

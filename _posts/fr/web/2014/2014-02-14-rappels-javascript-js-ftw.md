@@ -5,7 +5,7 @@ tags:
 ---
 
 J'ai animé il y a quelques jours une présentation chez
-[Clever Age](http://www.clever-age.com/fr/) autour de JavaScript.
+[Clever Age](https://www.clever-age.com/fr/) autour de JavaScript.
 
 L'idée assumée était d'enfoncer des portes ouvertes mais comme toujours dans ces
 cas-là, la présentation a permis de lever d'intéressantes questions ou de lever

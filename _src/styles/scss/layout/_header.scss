@@ -9,6 +9,18 @@ body.menu-open {
     transform: translateX(100vw);
   }
 
+  .menu {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  a {
+    color: var(--color-main);
+    &:hover {
+      color: var(--color-main-dark);
+    }
+  }
+
   nav ul {
     display: block;
     position: fixed;

@@ -5,7 +5,7 @@ subtitle: Ceci n'est pas une pipe
 ---
 
 Je me permets aujourd'hui de citer une fameuse légende d'un tableau de 
-[René Magritte](http://fr.wikipedia.org/wiki/Ren%C3%A9_Magritte) pour vous
+[René Magritte](https://fr.wikipedia.org/wiki/Ren%C3%A9_Magritte) pour vous
 parler d'un mail reçu par un collègue il y a peu. Ce mail représente une
 tentative de hameçonnage (phishing en anglais), dont j'ai déjà donné la
 [définition](http:/blog/dangers-du-net-le-phishing/) il y a un moment.

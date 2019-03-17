@@ -33,6 +33,6 @@ vais reprendre une autre définition&nbsp;:
 > institutionnalisés."
 
 Vous avez trouvé de quel mot il s'agissait&nbsp;? Oui, il s'agit bien de la
-définition du mot [Propagande](http://fr.wikipedia.org/wiki/Propagande).
+définition du mot [Propagande](https://fr.wikipedia.org/wiki/Propagande).
 
 \_ \_

@@ -14,7 +14,7 @@ nous partirons en vacances avec les enfants ou en amoureux.
 maintenant. 44 ans, c'est un peu aujourd'hui.
 
 44 ans, c'est l'âge auquel Thierry L. vient d'apprendre qu'il était atteint de
-la [maladie de Charcot,](http://fr.wikipedia.org/wiki/Maladie_de_Charcot)
+la [maladie de Charcot,](https://fr.wikipedia.org/wiki/Maladie_de_Charcot)
 incurable et mortelle. Thierry L. À trois enfants et une femme. Thierry L. À une
 [carrière](http://www.rothschild.com/). Et Thierry L. va mourir.
 

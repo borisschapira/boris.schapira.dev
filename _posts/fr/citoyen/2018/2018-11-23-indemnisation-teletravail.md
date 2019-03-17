@@ -1,5 +1,6 @@
 ---
-title: 'Les indemnités liées au télétravail à domicile : stop ou encore ?'
+title: 'Les indemnités liées au télétravail à domicile'
+subtitle: 'stop ou encore ?'
 loadTwitterWjs: true
 tags:
   - Travail

@@ -8,7 +8,7 @@ subtitle: L'UX, souvent un tabou dans les communautés du logiciel libre
 ---
 
 Chrome est mon navigateur principal. À croire que
-[Bruce Lawson ne m'a rien appris sur la monoculture](http://vimeo.com/52171395 '"Oh IE6 how we loved you", Bruce Lawson ", Sud Web 2012')
+[Bruce Lawson ne m'a rien appris sur la monoculture](https://vimeo.com/52171395 '"Oh IE6 how we loved you", Bruce Lawson ", Sud Web 2012')
 mais que voulez-vous, j'ai pris des habitudes. Un matin, il y a quelques
 semaines, j'ai pris la décision de migrer mes profils vers Firefox, afin
 d'envisager avec davantage de recul mon outillage Web et revenir vers une

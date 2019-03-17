@@ -38,7 +38,7 @@ presse comme un homme compétent et motivé.
 [Détracteur du "_projet de loi favorisant la diffusion et la protection de la création sur Internet_" de Christine Albanel](http://web.archive.org/web/20130806144114///www.journaldunet.com:80/ebusiness/le-net/loi-creation-et-internet-1008.shtml)
 et président de la commission du dividende numérique, il aurait même pu incarner
 l'image de "l'ouverture à droite". Dommage pour lui, c'est
-[Nathalie Kosciusko-Morizet](http://fr.wikipedia.org/wiki/Nathalie_Kosciusko-Morizet)
+[Nathalie Kosciusko-Morizet](https://fr.wikipedia.org/wiki/Nathalie_Kosciusko-Morizet)
 qui remporte le siège.
 
 Secrétaire d'État auprès du ministère de l'Ecologie jusqu'à ce matin, NKM est

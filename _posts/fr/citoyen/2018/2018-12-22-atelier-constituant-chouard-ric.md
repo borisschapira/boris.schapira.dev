@@ -1,5 +1,6 @@
 ---
 title: "De retour d'une conférence d'Étienne Chouard"
+subtitle: "critique de fond et de forme"
 tags:
   - Démocratie
 ---

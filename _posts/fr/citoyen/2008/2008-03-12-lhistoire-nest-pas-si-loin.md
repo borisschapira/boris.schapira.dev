@@ -20,4 +20,4 @@ Pourtant, force est de constater qu'aujourd'hui, l'antisémitisme pourrait ne pa
 rattrapé.
 
 Ca vous rappelle
-[quelque chose&nbsp;?](http://fr.wikipedia.org/wiki/%C3%89toile_jaune)
+[quelque chose&nbsp;?](https://fr.wikipedia.org/wiki/%C3%89toile_jaune)

@@ -7,7 +7,7 @@ tags:
 
 De biens bons conseils pour tous les étudiants qui peaufinent actuellement leurs
 CVs. Qui sait, peut-être pour venir nous voir
-[chez Clever Age Bordeaux](http://www.clever-age.com/fr/carriere/#jobs-panel) ?
+[chez Clever Age Bordeaux](https://www.clever-age.com/fr/carriere/#jobs-panel) ?
 
 <!-- more -->
 

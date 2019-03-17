@@ -1,6 +1,6 @@
 ---
 title: 'Pour un meilleur scrutin'
-target: citoyens et citoyennes qui s'interrogent
+subtitle: pour les citoyens et citoyennes qui s'interrogent
 description:
   "Le mode de scrutin utilisé en France pour les élections présidentielles a des
   avantages et des inconvénients. Peu importe qu'on l'apprécie ou non, il modèle

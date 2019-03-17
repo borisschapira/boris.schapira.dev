@@ -14,7 +14,7 @@ tags:
 > Je suis très honoré de venir remettre leur Trophée aux gagnants et les
 > remercie d'avance pour leur contribution à leur propre liberté d'expression
 > ainsi qu'à celle des autres.  
->  <cite>[Richard Stallman](http://fr.wikipedia.org/wiki/Richard_Stallman), président
+>  <cite>[Richard Stallman](https://fr.wikipedia.org/wiki/Richard_Stallman), président
 > de la première édition en 2003</cite>
 
 C'est formidable de voir un tel élan d'inventivité et de création et je vois

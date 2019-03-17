@@ -11,7 +11,7 @@ Bordeaux. Cette ville, magnifique et que j'aime, je la connais finalement assez
 mal, surtout au niveau du tissus socio-économique.
 
 En tant que consultant pour
-[Clever-Age Bordeaux](http://www.clever-age.com/fr/agencies/bordeaux/), je
+[Clever-Age Bordeaux](https://www.clever-age.com/fr/agencies/bordeaux/), je
 risque d'être souvent au contact des entreprises locales. Mieux vaut donc
 connaitre leur taille moyenne, les secteurs porteurs, les inconvénients et les
 avantages de la position géographique…  Je me suis dit qu'une bonne solution

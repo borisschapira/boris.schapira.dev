@@ -30,7 +30,7 @@ Les objectifs de la refonte alors envisagée sont assez simples à énumérer&nb
 
 1.  Unifier les informations écrites/numériques
 2.  Définir une
-    [taxonomie](http://fr.wikipedia.org/wiki/Taxonomie#Homonymie_en_informatique)
+    [taxonomie](https://fr.wikipedia.org/wiki/Taxonomie#Homonymie_en_informatique)
     des informations conservées
 3.  Introduire des mécanismes de contrôle des accès
 4.  Communiquer sur les évolutions
@@ -49,7 +49,7 @@ ces champs dans les fiches individuelles standardisées, même si ils resteront
 vides pour 99 % des citoyens.
 
 Évidemment, cette
-[taxonomie](http://fr.wikipedia.org/wiki/Taxonomie#Homonymie_en_informatique)
+[taxonomie](https://fr.wikipedia.org/wiki/Taxonomie#Homonymie_en_informatique)
 maladroite a fait un flop. La machine médiatique s'emballe et brandit le spectre
 [des mauvais souvenirs](https://fr.answers.yahoo.com/question/index?qid=20080903095407AAd3yfr).\*\*
 \*\*Le Net est le premier à réagir et la

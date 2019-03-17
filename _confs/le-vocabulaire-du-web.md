@@ -1,6 +1,6 @@
 ---
 title: 'Le vocabulaire du Web'
-target: gens qui s'intéressent au Web
+subtitle: un peu de terminologie pour s'y retrouver
 description:
   "Car chaque branche d'activité, le monde du Web a son propre vocabulaire,
   parfois très mouvant. Vous êtes perdu entre l'intégration continue, le

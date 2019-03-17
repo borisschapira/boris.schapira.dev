@@ -36,8 +36,8 @@ que prendre un verre avec un pote, b\*\*\*\*l, ça fait du bien. De retour chez
 moi (merci au scooter de Rav'), j'offre un café au bronzé.
 [Teulliac ](http://www.teulliac.com/)nous rejoint en rentrant chez lui (c'est
 pas très loin), ce qui me permet d'enfin le rencontrer. Mais comme il a
-d'[autres](http://fr.wikipedia.org/wiki/Couche_culotte)
-[projets](http://fr.wikipedia.org/wiki/Emploi) en ce moment, la fin de soirée
+d'[autres](https://fr.wikipedia.org/wiki/Couche_culotte)
+[projets](https://fr.wikipedia.org/wiki/Emploi) en ce moment, la fin de soirée
 s'écourte.
 
 En résumé, une excellente soirée qui m'a permis de papoter techno, de revoir des

@@ -41,7 +41,7 @@ funnel, is it really more efficient than the old one?
 
 To improve his decision-making process, he does some research and discovers a
 methodology widely adopted by Internet giants : **A/B testing**. He reads
-[the Wikipedia article](http://fr.wikipedia.org/wiki/Test_A/B) with great
+[the Wikipedia article](https://fr.wikipedia.org/wiki/Test_A/B) with great
 attention and immediately understands the principle, which consists of three
 steps:
 

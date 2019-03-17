@@ -1,6 +1,6 @@
 ---
 title: "De l'Idée au Projet"
-target: gens qui ont des idées
+subtitle: un sujet pour les gens qui ont des idées
 description:
   "Avoir une idée, c'est facile. La mémoriser, plus dur. La verbaliser, on
   commence à arrive dans le concret. La manipuler pour la rendre réaliste, peu
@@ -17,8 +17,8 @@ _Une génèse de ce Lightning Talk est disponible
 {% include media/vimeo.html.liquid id="104818641" title="Boris Schapira - De l&#039;id&eacute;e au projet" %}
 
 En tant que consultant et chef de projet chez
-[Clever Age](http://www.clever-age.com/fr/ 'Clever Garden, Clever Age, Clever Presence - 100 % digital')
-ou professeur chez [Ingesup](http://www.ingesup.com/ 'Ecole supérieure d'), je
+[Clever Age](https://www.clever-age.com/fr/ 'Clever Garden, Clever Age, Clever Presence - 100 % digital')
+ou professeur chez [Ingesup](https://www.ingesup.com/ 'Ecole supérieure d'), je
 suis amené à aider régulièrement des clients, des collègues ou des étudiants à
 donner vie à des produits logiciels. Ces produits ne sont, à la base, que de
 simples idées comme vous, moi, pouvons en avoir souvent. Je suis sûr
@@ -56,7 +56,7 @@ Des outils méthodologiques existent. Par exemple, si vous sentez que votre
 esprit tourne autour d’un concept central sans parvenir à le définir, ne vous
 frustrez pas, laisser tomber. Travaillez sur les idées périphériques – dans ce
 qu'on appelle une
-[cartographie mentale](http://fr.wikipedia.org/wiki/Carte_heuristique '"Carte Heuristique, Carte Mentale", Wikipedia')
+[cartographie mentale](https://fr.wikipedia.org/wiki/Carte_heuristique '"Carte Heuristique, Carte Mentale", Wikipedia')
 – et si ça a du sens, reliez-les entre elles. Si le concept initial en vaut la
 peine, vous reviendrez naturellement dessus plus tard. Ne vous frustrez pas,
 n'insistez pas et encore mieux&nbsp;: laissez-vous du temps. Plusieurs jours,
@@ -74,7 +74,7 @@ c’est-à-dire qu’elle n’omet aucune des grandes questions que vous devriez
 poser. Prenons l'exemple du
 [Lean Canvas](http://leanstack.com/ 'Business Model Canvas Optimized for Lean Startup ", Lean Canvas'),
 déjà
-[présenté par Camille Roux lors de Sud Web 2012](http://vimeo.com/53160076 '"Testez votre idée en quelques heures", Camille Roux ", Sud Web 2012')&nbsp;:
+[présenté par Camille Roux lors de Sud Web 2012](https://vimeo.com/53160076 '"Testez votre idée en quelques heures", Camille Roux ", Sud Web 2012')&nbsp;:
 il vous propose des définir votre projet au travers de grands axes&nbsp;: vos
 utilisateurs, le problème d'origine, votre solution et sa pertinence, par quel
 moyen vous allez apporter cette solution aux utilisateurs, quels revenus seront

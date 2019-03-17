@@ -43,7 +43,7 @@ présentés comme uniques candidats de leur parti. Et je suis ravi de voir que j
 ne suis pas le seul à le
 [penser](http://www.jegoun.net/2009/10/martine-aubry-vs-jean-sarkozy.html)&nbsp;!
 
-[Adrien Therio](http://fr.wikipedia.org/wiki/Adrien_Th%C3%A9rio) disait&nbsp;:
+[Adrien Therio](https://fr.wikipedia.org/wiki/Adrien_Th%C3%A9rio) disait&nbsp;:
 "si tous les parents choisissaient les noms de leurs enfants avec soin, le monde
 en serait changé. Un nom, c'est la moitié de la personnalité." Il avait oublié
 de préciser que c'était aussi, dans certains milieux, 90 % du salaire.

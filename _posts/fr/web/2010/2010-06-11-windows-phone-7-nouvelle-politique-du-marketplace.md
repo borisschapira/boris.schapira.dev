@@ -34,7 +34,7 @@ applications partout dans le monde, mais surtout aux développeurs à la fibre
 commerciale. En effet, en déclarant l'application payante mais en définissant un
 certain nombre de fonctionnalités comme étant testables gratuitement de manière
 illimité, ceux-ci rendre une application
-[Freemium](http://fr.wikipedia.org/wiki/Freemium 'Définition de "Freemium" dans Wikipédia Fr').
+[Freemium](https://fr.wikipedia.org/wiki/Freemium 'Définition de "Freemium" dans Wikipédia Fr').
 En partant sur ce principe, on peut même imaginer de nouveaux modèles
 économiques. Un logiciel payant de création pourra par exemple proposer une
 semaine de test complet avant de limiter son usage au seul export des créations

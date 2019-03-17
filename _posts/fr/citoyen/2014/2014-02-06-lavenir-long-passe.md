@@ -15,6 +15,6 @@ se déclenchent à Paris, alimentées par la droite et l'extrême-droite.
 15 morts, 2000 blessés.
 
 Ce n'est pas aujourd'hui, mais
-[il y a 80 ans](http://fr.wikipedia.org/wiki/Crise_du_6_f%C3%A9vrier_1934 'Crise du 6 février 1934 ", Wikipedia').
+[il y a 80 ans](https://fr.wikipedia.org/wiki/Crise_du_6_f%C3%A9vrier_1934 'Crise du 6 février 1934 ", Wikipedia').
 
 {% include media/youtube.html.liquid id="KhHwdFeyt_A" title="Manau - L'avenir est un long passé [ Vidéo Clip ]" %}
