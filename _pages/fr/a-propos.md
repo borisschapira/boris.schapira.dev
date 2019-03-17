@@ -20,7 +20,7 @@ pour les optimiser à l'aide d'outils numériques et leur permettre d'améliorer
 leur(s) service(s) et produit(s). J'adore interroger les processus de mes
 interlocuteurs·trices et je suis souvent force de proposition… ou de prudence,
 car le numérique présente aussi ses dangers. L'autre est de
-[partager ce que je sais](/a-propos/partage/), car j'ai l'intime conviction que
+[partager ce que je sais](/partager/), car j'ai l'intime conviction que
 ce n'est pas grand-chose et que c'est à la portée de beaucoup d'autres
 personnes.
 

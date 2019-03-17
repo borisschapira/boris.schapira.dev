@@ -279,6 +279,8 @@ layout: microtypo
           <h3>{{ "Catégories" | t: page.locale }}</h3>
           <ul>
             <li itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem"><a class="{% unless page.category %}active{% endunless %}" href="{{ '' | prepend: page.baseurl | relative_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "toutes" | t: page.locale }}</a></li>
+            <li itemprop="itemListElement" itemscope
             itemtype="http://schema.org/ListItem"><a class="web {% if page.category == 'web' %}active{% endif %}" href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "web" | t: page.locale }}</a></li>
             <li itemprop="itemListElement" itemscope
             itemtype="http://schema.org/ListItem">
@@ -294,23 +296,13 @@ layout: microtypo
     </section>
     <footer class="main-footer">
       <nav class="nav-footer">
-        <ul>
-          <li>
-            <p>
-              Retrouvez-moi sur <a class="npe" rel="me nofollow" href="{{ site.author.github }}">Github</a>, <a class="npe" rel="me nofollow" href="{{ site.author.twitter }}">Twitter</a>, <a class="npe" rel="me nofollow" href="{{ site.author.mastodon }}">Mastodon</a>, <a class="npe" rel="me nofollow" href="{{ site.author.linkedin }}">LinkedIn</a> et <a class="npe" rel="me nofollow" href="{{ site.author.flickr }}">Flickr</a>.
-            </p>
-          </li>
-          <li>
-            <p>
-              Site statique compilé par Jekyll, propulsé par Netlify.
-            </p>
-          </li>
-          <li>
-            <p>
-              <a class="npe" rel="me nofollow" href="{{ feed_url | prepend: page.baseurl | relative_url }}">Flux RSS</a>
-            </p>
-          </li>
-        </ul>
+        <p>
+          Retrouvez-moi sur <a class="npe" rel="me nofollow" href="{{ site.author.github }}">Github</a>, <a class="npe" rel="me nofollow" href="{{ site.author.twitter }}">Twitter</a>, <a class="npe" rel="me nofollow" href="{{ site.author.mastodon }}">Mastodon</a>, <a class="npe" rel="me nofollow" href="{{ site.author.linkedin }}">LinkedIn</a> et <a class="npe" rel="me nofollow" href="{{ site.author.flickr }}">Flickr</a>.
+          <br />
+          Site statique compilé par Jekyll, propulsé par Netlify.
+          <br />
+          <a class="npe" rel="me nofollow" href="{{ feed_url | prepend: page.baseurl | relative_url }}">Flux RSS</a>
+        </p>
       </nav>
     </footer>
     {% include footer.html.liquid type=page.type loadTwitterWjs=page.loadTwitterWjs loadSearch=page.loadSearch %}

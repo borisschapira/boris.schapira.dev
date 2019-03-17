@@ -65,6 +65,18 @@ html {
   ul {
     margin-bottom: 0;
   }
+
+  .active {
+    font-weight: bold;
+
+    &:before {
+      content: "<";
+      margin-left: -1ch;
+    }
+    &:after {
+      content: " />";
+    }
+  }
 }
 
 .clearfix::after {
@@ -85,6 +97,7 @@ html {
 }
 
 .nav-footer {
+  @extend %main-grid;
   font-size: 0.8rem;
   color: #fff;
 
@@ -92,12 +105,9 @@ html {
     color: #fff;
   }
 
-  > ul {
-    @extend %li-no-list-style;
-    @extend %main-grid;
-    > li {
-      grid-column: span 5;
-    }
+  p {
+    text-align: center;
+    grid-column: 2/12;
   }
 }
 
