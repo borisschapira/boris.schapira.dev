@@ -3,7 +3,7 @@
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
     prefix: 'boris-schapira-dev',
-    suffix: 'R59s65qztN',
+    suffix: 'jXrpTNGkGY',
     precache: 'precache',
     runtime: 'runtime-cache'
 });
