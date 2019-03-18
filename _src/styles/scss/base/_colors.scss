@@ -1,19 +1,19 @@
 :root {
   --color-main-hue: 330;
   --color-main-saturation: 90%;
-  --color-main-lightning: 30%;
+  --color-main-lightning: 25%;
 
   --color-citoyen-hue: 188;
   --color-citoyen-saturation: 73%;
-  --color-citoyen-lightning: 30%;
+  --color-citoyen-lightning: 25%;
 
   --color-papa-hue: 120;
   --color-papa-saturation: 100%;
-  --color-papa-lightning: 30%;
+  --color-papa-lightning: 25%;
 
   --color-web-hue: 210;
   --color-web-saturation: 80%;
-  --color-web-lightning: 50%;
+  --color-web-lightning: 45%;
 
   --is-dark-mode: 0;
 }
@@ -30,11 +30,11 @@ a {
   --color-main: hsl(
     var(--color-hue),
     var(--color-saturation),
-    calc(var(--color-lightning) + var(--is-dark-mode) * 5%)
+    calc(var(--color-lightning) * (1 + var(--is-dark-mode)))
   );
 
   --color-main-text: hsl(0, 0%, calc(5% + 70% * var(--is-dark-mode)));
-  --color-compliment-text: hsl(0, 0%, calc(95% - 90% * var(--is-dark-mode)));
+  --color-compliment-text: hsl(0, 0%, calc(95% - 93% * var(--is-dark-mode)));
 
   --color-main-desaturate: hsl(
     var(--color-hue),
@@ -89,7 +89,11 @@ a {
     calc(99% - var(--is-dark-mode) * 99%)
   );
 
-  --color-main-gray: hsl(var(--color-hue), 10%, 50%);
+  --color-main-gray: hsl(
+    var(--color-hue),
+    10%,
+    calc(40% + 25% * var(--is-dark-mode))
+  );
 
   --color-main-grayfade: hsl(
     var(--color-hue),

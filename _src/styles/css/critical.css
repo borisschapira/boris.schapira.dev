@@ -693,9 +693,8 @@ hr {
 .button-inversed,
 .menu-open .menu-trigger {
   color: var(--color-main);
-  background-color: var(--color-compliment-text);
   border-color: var(--color-main);
-  background-color: var(--color-compliment-text); }
+  background-color: transparent; }
   .button-inversed:hover, .button-inversed:focus,
   .menu-open .menu-trigger:hover,
   .menu-open .menu-trigger:focus {
@@ -1175,7 +1174,7 @@ body.menu-open {
   .post:last-of-type:not(:only-of-type) {
     border-bottom: none; }
   .post header {
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     color: var(--color-main-gray); }
     .post header > span::before {
       content: "\00a0·\00a0"; }

@@ -141,7 +141,7 @@ layout: microtypo
           <span class="menu-label">{{ "menu" | t: page.locale }}</span>
           <span class="close-label">{{ "fermer" | t: page.locale }}</span>
         </button>
-        <ul class="menu">
+        <ul class="menu" id="main-nav">
           <li {% if page.type == 'post' or page.layout == 'index' %}class="active"{% endif %} itemprop="itemListElement" itemscope
           itemtype="http://schema.org/ListItem"><a href="{{ page.baseurl | relative_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "Notes" | t: page.locale }}</a></li>
 
