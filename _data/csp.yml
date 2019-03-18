@@ -46,6 +46,8 @@
       comment: "Twitter"
     - value: "*.algolianet.com"
       comment: "Algolia – for search"
+    - value: "instant.page"
+      comment: "Instant.page"
     - value: "speakerdeck.com"
       comment: "Speakerdeck, for slides"
     - value: "blackhole.webpagetest.org"
