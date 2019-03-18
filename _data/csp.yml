@@ -42,8 +42,6 @@
       comment: "Injection script de search.min.js"
     - value: "'sha256-4RZbsHZj3mmis52ABTtkFzcAV9UxhvUE0NeKQMXPHrY='"
       comment: "Jekyll PWA Plugin SW declaration"
-    - value: "'sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp'"
-      comment: "Instant.page"
     - value: "*.twimg.com"
       comment: "Twitter"
     - value: "*.algolianet.com"
