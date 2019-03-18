@@ -1,10 +1,10 @@
 ---
 title: '«&#160;What Would Google Do&#160;», Jeff Jarvis'
 tags:
-  - Littérature
-  - Technologie
-  - Medias
-  - Web
+    - Littérature
+    - Technologie
+    - Medias
+    - Web
 ---
 
 _**What Would Google Do**, que vous trouverez en français sous le titre \_\_La
@@ -27,12 +27,12 @@ riche idée). Mais l'ouvrage est horriblement redondant, comme si Jarvis essayai
 d'étaler au travers de 40 exemples les principes qu'il énumère au cours des 50
 premières pages&nbsp;:
 
-- produire du gratuit
-- offrir une grande réactivité
-- savoir faire amende honorable
-- louer la simplicité
-- donner du contrôle aux utilisateurs
-- éliminer les intermédiaires
-- ne pas aller contre le marché mais lui offrir une plate-forme
-- … Bref, une réflexion intéressante mais qui se renouvelle peu de chapitres en
-  chapitres.
+-   produire du gratuit
+-   offrir une grande réactivité
+-   savoir faire amende honorable
+-   louer la simplicité
+-   donner du contrôle aux utilisateurs
+-   éliminer les intermédiaires
+-   ne pas aller contre le marché mais lui offrir une plate-forme
+-   … Bref, une réflexion intéressante mais qui se renouvelle peu de chapitres
+    en chapitres.

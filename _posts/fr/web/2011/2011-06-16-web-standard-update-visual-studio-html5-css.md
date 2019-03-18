@@ -1,7 +1,7 @@
 ---
 title: 'Web Standard Update pour Visual Studio 2010 : support de HTML5 & CSS3'
 tags:
-  - Front-End
+    - Front-End
 ---
 
 Il n'y a rien qui vous empêchait, dès hier, de créer des sites Web HTML5 et CSS3

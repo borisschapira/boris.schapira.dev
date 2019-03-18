@@ -1,8 +1,8 @@
 ---
 title: '8 choses que vous ne savez pas sur Mme Schapira'
 tags:
-  - "Billet d'humeur"
-  - 'Me, myself and I'
+    - "Billet d'humeur"
+    - 'Me, myself and I'
 ---
 
 Vivre en couple est parfois difficile mais souvent amusant. Marié depuis

@@ -2,7 +2,7 @@
 title: 'Une mort triviale'
 i18n-key: death-the-trivial-way
 tags:
-  - 'Intelligence Artificielle'
+    - 'Intelligence Artificielle'
 slug: une-mort-triviale
 ---
 

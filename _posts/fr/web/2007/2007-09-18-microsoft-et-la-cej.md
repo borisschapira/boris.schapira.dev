@@ -1,9 +1,9 @@
 ---
 title: 'Microsoft et la CEJ'
 tags:
-  - Technologie
-  - Loi
-  - Microsoft
+    - Technologie
+    - Loi
+    - Microsoft
 ---
 
 Je pourrais rester discret, ne pas parler du jugement que vient de rendre la CEJ

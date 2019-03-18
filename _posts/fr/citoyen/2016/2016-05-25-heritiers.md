@@ -1,7 +1,7 @@
 ---
 title: 'Les héritiers'
 tags:
-  - Égalité
+    - Égalité
 ---
 
 > La méritocratie, au bout du compte, apparaît comme une forme de justification

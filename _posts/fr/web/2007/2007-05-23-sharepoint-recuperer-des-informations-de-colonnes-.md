@@ -1,9 +1,9 @@
 ---
 title:
-  '[SharePoint] Récupérer des informations de colonnes personnalisées dans des
-  Librairies SharePoint à travers XSLT'
+    '[SharePoint] Récupérer des informations de colonnes personnalisées dans des
+    Librairies SharePoint à travers XSLT'
 tags:
-  - Sharepoint
+    - Sharepoint
 slug: sharepoint-recuperer-des-informations-de-colonnes-personnalisees-dans-des-librairies-sharepoint-a-travers-xslt
 ---
 

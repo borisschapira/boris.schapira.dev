@@ -1,8 +1,8 @@
 ---
 title: 'Coup de cœur musical : Nameless'
 tags:
-  - Musique
-  - Nameless
+    - Musique
+    - Nameless
 ---
 
 J'ai eu l'occasion de passer mes journées de la semaine dernière aux côtés de

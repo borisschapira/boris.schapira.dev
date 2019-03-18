@@ -1,8 +1,8 @@
 ---
 title: 'Retour sur la session MSP (partie 1)'
 tags:
-  - 'Imagine Cup'
-  - MSP
+    - 'Imagine Cup'
+    - MSP
 ---
 
 Petit retour sur la session MSP et la journée Imagine Cup. Toutes les photos que

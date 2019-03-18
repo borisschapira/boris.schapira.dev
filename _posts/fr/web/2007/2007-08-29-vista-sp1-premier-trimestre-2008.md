@@ -1,8 +1,8 @@
 ---
 title: '(Exclusif) Vista SP1 : premier trimestre 2008'
 tags:
-  - Technologie
-  - 'Windows Vista'
+    - Technologie
+    - 'Windows Vista'
 ---
 
 Windows Vista &amp; Windows Server 2008 ont été construit à partir de la même

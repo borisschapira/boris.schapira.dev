@@ -1,9 +1,9 @@
 ---
 title: 'Réflexions autour de Note2Be'
 tags:
-  - Société
-  - Éducation
-  - Note2Be
+    - Société
+    - Éducation
+    - Note2Be
 ---
 
 Prenez votre shaker. Ajoutez une grosse cuillerée d'Internet, cet espace virtuel

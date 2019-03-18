@@ -1,7 +1,7 @@
 ---
 title:
-  'Backlog : analyse multi-dimensionnelle pour faciliter la valorisation des
-  User Stories'
+    'Backlog : analyse multi-dimensionnelle pour faciliter la valorisation des
+    User Stories'
 slug: backlog-analyse-multi-dimensionnelle-pour-faciliter-la-valorisation-des-us
 subtitle: Valorisation vs. Priorisation
 ---
@@ -53,57 +53,58 @@ quelque chose de complexe.
 
 ### 5 points
 
-- Très important pour l'ensemble des utilisateurs
-- Impact important sur la perception de la marque
-- Critique pour les objectifs du projet
+-   Très important pour l'ensemble des utilisateurs
+-   Impact important sur la perception de la marque
+-   Critique pour les objectifs du projet
 
 ### 4 points
 
-- Important pour de nombreux utilisateurs
-- Impact significatif sur la perception de la marque
-- Critique pour le fonctionnement de services spécifiques
+-   Important pour de nombreux utilisateurs
+-   Impact significatif sur la perception de la marque
+-   Critique pour le fonctionnement de services spécifiques
 
 ### 3 points
 
-- Important pour un nombre modéré de citoyens
-- Impact modéré sur la perception de la marque
-- Ne correspond pas à un service rendu
+-   Important pour un nombre modéré de citoyens
+-   Impact modéré sur la perception de la marque
+-   Ne correspond pas à un service rendu
 
 ### 2 points
 
-- Important pour très peu d'utilisateurs
-- Dérangeant pour la perception
+-   Important pour très peu d'utilisateurs
+-   Dérangeant pour la perception
 
 ### 1 point
 
-- Si ce n'est pas présent, personne ne s'en rendra compte
+-   Si ce n'est pas présent, personne ne s'en rendra compte
 
 ## Matrice d'urgence de démarrage
 
 ### 5 points
 
-- On anticipe un grosse charge
-- Il s'agit d'un pré-requis fonctionnel à de nombreuses fonctionnalités
-- Il faut le faire maintenant ou jamais (par exemple, une ressource clé s'en va)
+-   On anticipe un grosse charge
+-   Il s'agit d'un pré-requis fonctionnel à de nombreuses fonctionnalités
+-   Il faut le faire maintenant ou jamais (par exemple, une ressource clé s'en
+    va)
 
 ### 4 points
 
-- La charge est potentiellement importante
-- Il s'agit d'un prérequis fonctionnel à quelques autres fonctionnalités
-- Les délais d'obtention d'informations peuvent être longs
+-   La charge est potentiellement importante
+-   Il s'agit d'un prérequis fonctionnel à quelques autres fonctionnalités
+-   Les délais d'obtention d'informations peuvent être longs
 
 ### 3 points
 
-- La charge est modérée, mais glissante (il faut commencer pour lever des
-  questions, mais les réponses pourront prendre du temps)
-- Il s'agit d'une dépendance pour au moins deux autres fonctionnalités
+-   La charge est modérée, mais glissante (il faut commencer pour lever des
+    questions, mais les réponses pourront prendre du temps)
+-   Il s'agit d'une dépendance pour au moins deux autres fonctionnalités
 
 ### 2 points
 
-- La charge associée est faible
-- La fonctionnalité en introduit une autre
+-   La charge associée est faible
+-   La fonctionnalité en introduit une autre
 
 ### 1 point
 
-- Extrêmement rapide
-- Toutes les informations sont disponibles
+-   Extrêmement rapide
+-   Toutes les informations sont disponibles

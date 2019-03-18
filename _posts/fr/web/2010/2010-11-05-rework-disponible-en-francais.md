@@ -1,7 +1,7 @@
 ---
 title: '«&#160;Rework, réussir autrement&#160;», disponible en français'
 tags:
-  - Management
+    - Management
 ---
 
 Une petite note pour signaler que l'ouvrage

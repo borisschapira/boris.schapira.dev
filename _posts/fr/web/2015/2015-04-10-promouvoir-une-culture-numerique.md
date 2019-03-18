@@ -1,8 +1,8 @@
 ---
 title: 'Promouvoir une culture numérique'
 tags:
-  - Education
-  - 'Transformation numérique'
+    - Education
+    - 'Transformation numérique'
 subtitle: il n'est jamais trop tard
 ---
 
@@ -47,9 +47,9 @@ l'école de mes enfants et dans mon ancien lycée pour sensibiliser les étudian
 à l'informatique et au numérique. Les approches sont différentes suivant les
 âges&nbsp;:
 
-- initiation à l'algorithmique chez les plus jeunes, par le biais de jeux et
-  d'activités ;
-- sensibilisation aux risques et opportunités à partir de 13-14 ans.
+-   initiation à l'algorithmique chez les plus jeunes, par le biais de jeux et
+    d'activités ;
+-   sensibilisation aux risques et opportunités à partir de 13-14 ans.
 
 Les sujets abordés dépendent, quant-à-eux, des cursus dans lesquels ces
 interventions peuvent s'inscrire (encore une fois, l'idée n'est pas de créer un
@@ -60,17 +60,17 @@ Ci-dessous, quelques exemples.
 
 ## Education Civique
 
-- Informatique et libertés&nbsp;: un sujet qui aborde les notions de
-  citoyenneté, vie en collectivité, égalité et justice abordés en 4e
-- Internet comme un medium&nbsp;: rappel du rôle des médias et de la protection
-  assurée par leur pluralité. Notion de _doute_ sur les informations trouvées et
-  technique de recoupement.
-- Données personnelles&nbsp;: modélisation et traitement, ce qu'il est possible
-  de savoir sur vous sans le savoir…
-- Harcèlement&nbsp;: en ligne aussi, vous en êtes peut-être victime… ou
-  bourreau. Que faire&nbsp;?
-- Démocratie&nbsp;: de la démocratie représentative à la démocratie
-  participative
+-   Informatique et libertés&nbsp;: un sujet qui aborde les notions de
+    citoyenneté, vie en collectivité, égalité et justice abordés en 4e
+-   Internet comme un medium&nbsp;: rappel du rôle des médias et de la
+    protection assurée par leur pluralité. Notion de _doute_ sur les
+    informations trouvées et technique de recoupement.
+-   Données personnelles&nbsp;: modélisation et traitement, ce qu'il est
+    possible de savoir sur vous sans le savoir…
+-   Harcèlement&nbsp;: en ligne aussi, vous en êtes peut-être victime… ou
+    bourreau. Que faire&nbsp;?
+-   Démocratie&nbsp;: de la démocratie représentative à la démocratie
+    participative
 
 ## Philosophie
 
@@ -80,21 +80,22 @@ et Devoir, la Morale, l'Identité…
 
 ## Histoire-Géographie
 
-- La Démocratie sous toute ses formes
-- Révolution industrielle, révolution numérique&nbsp;: impacts sur l'évolution
-  du marché de l'emploi et sur la (dé)centralisation
+-   La Démocratie sous toute ses formes
+-   Révolution industrielle, révolution numérique&nbsp;: impacts sur l'évolution
+    du marché de l'emploi et sur la (dé)centralisation
 
 ## Technologie
 
-- Appareils mobiles, géolocalisation et techniques de ciblages
-- Modélisation des visiteurs d'un site et Teen Marketing
-- Fonctionnement des SPAM et des arnaques
+-   Appareils mobiles, géolocalisation et techniques de ciblages
+-   Modélisation des visiteurs d'un site et Teen Marketing
+-   Fonctionnement des SPAM et des arnaques
 
 ## Mathématiques et données
 
-- Calcul littéral, factorisation/développement&nbsp;: travail pratique
-  ([exemple avec Scratch](https://youtu.be/FNBDtxOlgnw))
-- Usage des statistiques dans un exemple de calcul dédié à la publicité en ligne
+-   Calcul littéral, factorisation/développement&nbsp;: travail pratique
+    ([exemple avec Scratch](https://youtu.be/FNBDtxOlgnw))
+-   Usage des statistiques dans un exemple de calcul dédié à la publicité en
+    ligne
 
 ## Français
 

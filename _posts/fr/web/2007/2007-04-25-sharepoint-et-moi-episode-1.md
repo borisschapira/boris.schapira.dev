@@ -1,10 +1,10 @@
 ---
 title: 'SharePoint et moi - Episode 1'
 tags:
-  - Technologie
-  - 'Microsoft Office'
-  - Sharepoint
-  - 'Visual Basic'
+    - Technologie
+    - 'Microsoft Office'
+    - Sharepoint
+    - 'Visual Basic'
 ---
 
 Deux mois de stages chez Microsoft France, c'est déjà beaucoup et en même temps

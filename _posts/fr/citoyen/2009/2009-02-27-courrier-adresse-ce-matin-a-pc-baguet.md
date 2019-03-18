@@ -1,7 +1,7 @@
 ---
 title: 'Courrier adressé ce matin à P.C. BAGUET'
 tags:
-  - Numérique
+    - Numérique
 series: Hadopi
 ---
 

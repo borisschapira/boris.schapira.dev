@@ -1,7 +1,7 @@
 ---
 title: 'Présentation de Windows8 à la conférence //BUILD/'
 tags:
-  - Outils
+    - Outils
 ---
 
 Hier était présentée en grandes pompes la prochaine mouture de l’OS de

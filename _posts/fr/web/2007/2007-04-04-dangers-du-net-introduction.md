@@ -1,7 +1,7 @@
 ---
 title: 'Dangers du Net : Introduction'
 tags:
-  - Vulgarisation
+    - Vulgarisation
 series: 'Dangers du Net'
 ---
 

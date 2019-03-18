@@ -1,8 +1,8 @@
 ---
 title: 'La blockchain expliquée à un enfant de cinq ans'
 categories:
-  - web
-  - papa
+    - web
+    - papa
 ---
 
 Le concept de <span lang="en">blockchain</span> est suffisement peu intuitif
@@ -50,4 +50,7 @@ passer par un consensus mais par une décision rapide d'un acteur unique.
 On n'est pas sortis de l'auberge. Finalement, même à cinq ans, les avantages ne
 sont pas évidents à appréhender…
 
-[^parfait]: Je ne parle que de moi, ma femme étant, bien sûr, parfaite, comme chacun sait.
+[^parfait]:
+
+    Je ne parle que de moi, ma femme étant, bien sûr, parfaite, comme chacun
+    sait.

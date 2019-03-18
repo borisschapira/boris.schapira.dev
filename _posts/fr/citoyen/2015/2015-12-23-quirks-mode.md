@@ -1,7 +1,7 @@
 ---
 title: 'Quirks Mode'
 tags:
-  - Égalité
+    - Égalité
 ---
 
 Discussion avec ma femme cet après-midi. Elle a eu ces mots très justes à propos

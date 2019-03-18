@@ -1,7 +1,7 @@
 ---
 title: 'Des crèches dans les mairies'
 tags:
-  - Laïcité
+    - Laïcité
 ---
 
 Je suis contre la mise en place d'une crèche dans une mairie. Par respect pour

@@ -1,8 +1,8 @@
 ---
 title: Citations
 tags:
-  - Égalité
-  - Citations
+    - Égalité
+    - Citations
 ---
 
 Extraits de "Réflexions sur la question juive", de Sartre, publié en 1946, où

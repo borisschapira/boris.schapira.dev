@@ -1,7 +1,7 @@
 ---
 title: 'Dangers du Net : le <span lang="en">Phishing</span>'
 tags:
-  - Vulgarisation
+    - Vulgarisation
 series: 'Dangers du Net'
 ---
 

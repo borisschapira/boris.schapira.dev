@@ -1,7 +1,7 @@
 ---
 title: "Réformer l'Education&nbsp;?"
 tags:
-  - Education
+    - Education
 subtitle: parce que bon, là, on rate un truc…
 ---
 

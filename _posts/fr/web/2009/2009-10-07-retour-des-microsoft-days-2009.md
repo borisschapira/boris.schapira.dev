@@ -1,9 +1,9 @@
 ---
 title: 'Retour des Microsoft Days 2009'
 tags:
-  - Technologie
-  - Microsoft
-  - MSDays
+    - Technologie
+    - Microsoft
+    - MSDays
 ---
 
 Du 6 au 8 octobre ont lieu les

@@ -2,7 +2,7 @@
 title: 'Netflix : augmenter la luminosité des vidéos'
 i18n-key: bookmark-netflix-brightness
 tags:
-  - Netflix
+    - Netflix
 slug: bookmark-netflix-luminosite
 ---
 
@@ -16,19 +16,23 @@ Du coup, entre une partie de PS4[^ps4] et un chapitre de roman[^lire] (parce
 qu'il y a une vie en dehors de Netflix), j'ai préparé un petit bookmarklet qui
 augmente la luminosité de la vidéo en cours de 50 %. Pour en profiter :
 
-[^ps4]: Je joue à "Arkham Knight", de Rocksteady, et c'est une tuerie. Je passe
-  d'excellents moments et je pense énormément à mon ex-collègue Stéphane,
-  [auteur génial du célèbre "Batou" que le Joker utilise pour s'adresser à Batman](https://nota-bene.org/Trois-jolis-souvenirs-de-traduction),
-  ce qui donne au jeu une saveur particulière.
+[^ps4]:
 
-[^lire]: Je lis en anglais "The Golden Fool" de Robin Hobb, deuxième tome de la "Tawny
-  Man Trilogy" (en français, le découpage est différent. D'après Wikipédia, je
-  suis en train de lire
-  "[Serments et Deuils](https://fr.wikipedia.org/wiki/Serments_et_Deuils)"), qui
-  elle-même fait partie de la saga "The Realm of the Elderlings" dont j'ai déjà
-  lu les sept livres précédents (en français, cela fait 18 livres). Et je compte
-  bien lire les huit suivant aussi (soit l'équivalent de 17 livres français)
-  dans l'année !
+    Je joue à "Arkham Knight", de Rocksteady, et c'est une tuerie. Je passe
+    d'excellents moments et je pense énormément à mon ex-collègue Stéphane,
+    [auteur génial du célèbre "Batou" que le Joker utilise pour s'adresser à Batman](https://nota-bene.org/Trois-jolis-souvenirs-de-traduction),
+    ce qui donne au jeu une saveur particulière.
+
+[^lire]:
+
+    Je lis en anglais "The Golden Fool" de Robin Hobb, deuxième tome de la
+    "Tawny Man Trilogy" (en français, le découpage est différent. D'après
+    Wikipédia, je suis en train de lire
+    "[Serments et Deuils](https://fr.wikipedia.org/wiki/Serments_et_Deuils)"),
+    qui elle-même fait partie de la saga "The Realm of the Elderlings" dont j'ai
+    déjà lu les sept livres précédents (en français, cela fait 18 livres). Et je
+    compte bien lire les huit suivant aussi (soit l'équivalent de 17 livres
+    français) dans l'année !
 
 Cliquez-glissez le lien suivant dans votre barre de favoris :
 

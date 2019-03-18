@@ -1,7 +1,7 @@
 ---
 title: 'Guide de survie aux discussions'
 tags:
-  - guide
+    - guide
 subtitle: (sur les réseaux sociaux)
 ---
 
@@ -30,8 +30,10 @@ la preuve lui permettant de commencer à douter, ainsi que les critères de
 crédibilité lui permettant de considérer cette preuve comme valide ?[^nt]<br/>
 **Non** → Arrêt de la discussion.</ins>
 
-[^nt]: "[Critère de Neil deGrasse Tyson](https://www.youtube.com/watch?time_continue=60&v=Zni00B36f7E)",
-  tel que remonté sur Twitter par [Cahnory ツ](https://twitter.com/cahnory).
+[^nt]:
+
+    "[Critère de Neil deGrasse Tyson](https://www.youtube.com/watch?time_continue=60&v=Zni00B36f7E)",
+    tel que remonté sur Twitter par [Cahnory ツ](https://twitter.com/cahnory).
 
 Le discutant cesse-t-il d’utiliser un argument qui a été invalidé ?  
 **Non** → Arrêt de la discussion.
@@ -71,8 +73,10 @@ rationnelle.
 
 ## Les caractéristiques de la pensée critique[^1]
 
-[^1]: d’après Parker, Richard, and Brooke Noel Moore. "Critical thinking".
-  McGraw-Hill Humanities, 2014.
+[^1]:
+
+    d’après Parker, Richard, and Brooke Noel Moore. "Critical thinking".
+    McGraw-Hill Humanities, 2014.
 
 **Différenciez** les affirmations rationnelles et celles qui font appel à
 l'émotion.

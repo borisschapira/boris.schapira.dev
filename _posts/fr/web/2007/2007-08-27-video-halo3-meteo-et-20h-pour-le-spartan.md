@@ -1,8 +1,8 @@
 ---
 title: '[Vidéo Halo3] Météo et 20h pour le Spartan'
 tags:
-  - Buzz
-  - Halo3
+    - Buzz
+    - Halo3
 ---
 
 Deux nouvelles vidéo virales (à l'heure où j'écris, Lapytsh n'en n'a vu qu'une,

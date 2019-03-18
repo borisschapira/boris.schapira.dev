@@ -1,17 +1,17 @@
 ---
 title: 'Budget 2010 et litanie sur la Dette Publique'
 tags:
-  - 'Dette publique'
-  - Économie
+    - 'Dette publique'
+    - Économie
 ---
 
 François Fillon vient de présenter le budget 2010 et, comme on s'y attendait,
 l'évaluation de la [Dette Publique](/2009/01/dette-publique/) laisse songueur.
 Attendez-vous donc à la stupide rengaine habituelle sur la Dette :
 
-- la Dette Publique, c'est nos enfants qui devront la payer ;
-- la Dette Publique, c'est mal ;
-- chaque nouveau français nait avec plusieurs milliers d'euros à rembourser.
+-   la Dette Publique, c'est nos enfants qui devront la payer ;
+-   la Dette Publique, c'est mal ;
+-   chaque nouveau français nait avec plusieurs milliers d'euros à rembourser.
 
 Je ne dirais jamais à quel point ces **idées préconçues** sont fausses. La Dette
 Publique n'a rien à voir avec votre petit emprunt à la banque. La Dette Publique

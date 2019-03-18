@@ -1,8 +1,8 @@
 ---
 title: "L'Economie, c'est pas si compliqué"
 tags:
-  - Économie
-  - Subprime
+    - Économie
+    - Subprime
 ---
 
 On parle beaucoup en ce moment des "Subprimes" qui feraient s'écrouler les

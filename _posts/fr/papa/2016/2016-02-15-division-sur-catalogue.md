@@ -1,8 +1,8 @@
 ---
 title: Division
 tags:
-  - HeForShe
-  - Égalité
+    - HeForShe
+    - Égalité
 series: Diviser
 subtitle: sur catalogue
 ---

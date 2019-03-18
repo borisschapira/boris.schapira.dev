@@ -1,8 +1,8 @@
 ---
 title: "DRM, l'autorité indépendante est mise en place"
 tags:
-  - 'Vie privée'
-  - Numérique
+    - 'Vie privée'
+    - Numérique
 ---
 
 Après un précédent débat sur la gestion des droits numériques et le rôle de
@@ -25,17 +25,17 @@ problèmes au cas par cas.
 
 Pour information, les six membres de cette commission sont:
 
-- Jean Musitelli&nbsp;: conseiller d'État.\* Marie-Françoise Marais&nbsp;:
-  conseillère à la Cour de cassation, spécialiste des questions de propriété
-  littéraire et artistique.
-- Patrick Bouquet&nbsp;: conseiller-maître à la Cour des comptes._ Pierre
-  Sirinelli&nbsp;: membre du Conseil supérieur de la propriété littéraire et
-  artistique._ Christian Saguez&nbsp;: président de la Commision des
-  technologies de l'information et de la communication de l'Académie des
-  technologies. Professeur à l'Ecole centrale.\* Tristan d'Albis&nbsp;:
-  président de la Commision de la rémunération pour la copie privée (chargée de
-  fixer les montants perçus sur les supports vierges au titre de la copie
-  privée).
+-   Jean Musitelli&nbsp;: conseiller d'État.\* Marie-Françoise Marais&nbsp;:
+    conseillère à la Cour de cassation, spécialiste des questions de propriété
+    littéraire et artistique.
+-   Patrick Bouquet&nbsp;: conseiller-maître à la Cour des comptes._ Pierre
+    Sirinelli&nbsp;: membre du Conseil supérieur de la propriété littéraire et
+    artistique._ Christian Saguez&nbsp;: président de la Commision des
+    technologies de l'information et de la communication de l'Académie des
+    technologies. Professeur à l'Ecole centrale.\* Tristan d'Albis&nbsp;:
+    président de la Commision de la rémunération pour la copie privée (chargée
+    de fixer les montants perçus sur les supports vierges au titre de la copie
+    privée).
 
 L'UFC-Que Choisir s'est déjà dite déçu de ce choix et craint un penchant pour la
 protection des fichiers numériques au détriment du consommateur.

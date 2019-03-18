@@ -3,7 +3,7 @@ title: 'De qui suis-je le territoire ?'
 slug: de-qui-suis-je-le-territoire
 i18n-key: territory
 tags:
-  - Web
+    - Web
 ---
 
 > Une carte _n'est pas_ le territoire qu'elle représente mais, si elle est

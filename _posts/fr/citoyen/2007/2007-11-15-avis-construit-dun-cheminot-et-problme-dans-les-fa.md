@@ -1,9 +1,9 @@
 ---
 title: "Avis construit d'un cheminot et problème dans les facs"
 tags:
-  - Emploi
-  - Etudiants
-  - Grève
+    - Emploi
+    - Etudiants
+    - Grève
 slug: avis-construit-dun-cheminot-et-problme-dans-les-facs
 ---
 

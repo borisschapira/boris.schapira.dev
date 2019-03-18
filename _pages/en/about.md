@@ -31,4 +31,7 @@ users.
 
 I care a lot, so [I also share a lot](/en/sharing/).
 
-[^1]: my full <em lang="en">résumé</em> is available, in french, [on LinkedIn](https://www.linkedin.com/in/borisschapira/?locale=en_US 'CV de Boris SCHAPIRA sur LinkedIn')
+[^1]:
+
+    my full <em lang="en">résumé</em> is available, in french,
+    [on LinkedIn](https://www.linkedin.com/in/borisschapira/?locale=en_US 'CV de Boris SCHAPIRA sur LinkedIn')

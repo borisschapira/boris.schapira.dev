@@ -1,10 +1,10 @@
 ---
 title: 'Rencontre avec Sébastien Bourdais'
 tags:
-  - 'Jeu Video'
-  - 'Forza Motorsport 2'
-  - 'Sébastien Bourdais'
-  - XBox360
+    - 'Jeu Video'
+    - 'Forza Motorsport 2'
+    - 'Sébastien Bourdais'
+    - XBox360
 ---
 
 Hier, j'ai rencontré [Sébastien Bourdais](http://www.sebastien-bourdais.com/),

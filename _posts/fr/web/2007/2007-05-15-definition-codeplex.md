@@ -1,11 +1,11 @@
 ---
 title: 'Définition : CodePlex'
 tags:
-  - Développement
-  - Technologie
-  - CodePlex
-  - Microsoft
-  - 'Open Source'
+    - Développement
+    - Technologie
+    - CodePlex
+    - Microsoft
+    - 'Open Source'
 ---
 
 CodePlex est le site d'hébergement de projets Open Source\*\* sponsorisé par

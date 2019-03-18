@@ -2,8 +2,8 @@
 title: "Les femmes dans l'Histoire"
 main_image: /assets/images/2016-04-20/0.jpg
 tags:
-  - HeForShe
-  - Égalité
+    - HeForShe
+    - Égalité
 ---
 
 Plusieurs initiatives récentes permettent de rappeler que l'Histoire est écrite

@@ -1,7 +1,7 @@
 ---
 title: 'Merci, Pierre-Christophe Baguet'
 tags:
-  - Numérique
+    - Numérique
 series: Hadopi
 ---
 

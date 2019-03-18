@@ -1,9 +1,9 @@
 ---
 title: 'Travail dominical… sur ordre du Président'
 tags:
-  - Emploi
-  - France
-  - Sarkozy
+    - Emploi
+    - France
+    - Sarkozy
 ---
 
 Selon moi, le travail dominical mérite une réflexion calme et concertée de

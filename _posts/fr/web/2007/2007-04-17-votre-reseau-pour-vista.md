@@ -1,8 +1,8 @@
 ---
 title: 'Votre réseau pour Vista'
 tags:
-  - Technologie
-  - 'Windows Vista'
+    - Technologie
+    - 'Windows Vista'
 ---
 
 Vous avez chez vous un réseau privé et vous ne savez pas si votre routeur actuel
@@ -18,12 +18,12 @@ pouvoir bénéficier de l'ensemble des nouveautés de Vista.
 
 Liste des tests effectués&nbsp;:
 
-- Connexion basique à Internet
-- Type NAT
-- Test de montée en charge
-- Test de haute performance TCP
-- Test du support UPnP
-- Test de multiples états de connexion simultanés
+-   Connexion basique à Internet
+-   Type NAT
+-   Test de montée en charge
+-   Test de haute performance TCP
+-   Test du support UPnP
+-   Test de multiples états de connexion simultanés
 
 Mon réseau personnel a passé tous les tests de l'Internet Connectivity
 Evaluation Tool et le vôtre&nbsp;?

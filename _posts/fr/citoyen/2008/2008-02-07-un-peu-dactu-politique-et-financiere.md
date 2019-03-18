@@ -1,7 +1,7 @@
 ---
 title: "Un peu d'actu politique et financière"
 tags:
-  - France
+    - France
 ---
 
 **S&#233;gol&#232;ne Royal** s'exprime sur **l'affaire Soci&#233;t&#233;

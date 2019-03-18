@@ -4,9 +4,9 @@ i18n-key: optimisation-compilation-jekyll
 main_image: /assets/images/2018-11-28/jekyll.png
 canonical: 'https://jamstatic.fr/2018/11/28/optimisation-compilation-jekyll/'
 tags:
-  - Jekyll
-  - JAMStatic
-  - Outils
+    - Jekyll
+    - JAMStatic
+    - Outils
 ---
 
 Il y a trois ans, fatigué par WordPress et de sa galaxie de plugins douteux,
@@ -38,12 +38,12 @@ lent.
 
 ## TL;DR
 
-- Constatant que ma compilation Jekyll était des plus lentes, j'ai contacté la
-  communauté JAMstack francophone pour des conseils.
-- Plusieurs choses ont émergé, chaque conseil permettant d'optimiser le temps de
-  compilation.
-- Le plus gros gain provient des évolutions de Jekyll lui-même, sur lequel
-  l'équipe est en train de faire un énorme travail.
+-   Constatant que ma compilation Jekyll était des plus lentes, j'ai contacté la
+    communauté JAMstack francophone pour des conseils.
+-   Plusieurs choses ont émergé, chaque conseil permettant d'optimiser le temps
+    de compilation.
+-   Le plus gros gain provient des évolutions de Jekyll lui-même, sur lequel
+    l'équipe est en train de faire un énorme travail.
 
 ---
 
@@ -150,10 +150,10 @@ gemmes à votre Gemfile pour tirer parti de ces améliorations.
 
 Il en existe certainement d'autres, mais en voici au moins deux&nbsp;:
 
-- [la gemme `liquid-c`](https://github.com/Shopify/liquid-c), pour optimiser la
-  compilation Liquid&nbsp;;
-- [la gemme `sassc`](https://github.com/sass/sassc-ruby), si vous avez besoin de
-  Jekyll pour compiler des fichiers Sass plus efficacement.
+-   [la gemme `liquid-c`](https://github.com/Shopify/liquid-c), pour optimiser
+    la compilation Liquid&nbsp;;
+-   [la gemme `sassc`](https://github.com/sass/sassc-ruby), si vous avez besoin
+    de Jekyll pour compiler des fichiers Sass plus efficacement.
 
 Je n'ai pas besoin de Jekyll pour mes fichiers Sass mais en utilisant
 `liquid-c`, j'ai économisé **9&nbsp;%** du temps de compilation.
@@ -330,18 +330,29 @@ Voici les données brutes, si certains veulent jouer avec&nbsp;:
 | Test 10 | 4 - Switch to CommonMark | 1332,547     |
 | Test 10 | 5 - Switch to master     | 69,022       |
 
-[^parole]: Vous allez devoir me croire sur parole, parce que mon protocole
-  d'expérimentation ne contenait pas de test avec et sans inclusions. Il s'agit
-  donc d'une estimation personnelle.
+[^parole]:
 
-[^rake]: Rake est un orchestrateur similaire à make, mais en Ruby
-  ([en savoir plus](https://rubygems.org/gems/rake/)).
+    Vous allez devoir me croire sur parole, parce que mon protocole
+    d'expérimentation ne contenait pas de test avec et sans inclusions. Il
+    s'agit donc d'une estimation personnelle.
 
-[^gsl]: Il semblerait que [la gemme gsl](https://rubygems.org/gems/gsl) permette
-  d'améliorer cela, mais je ne l'ai pas testé. Vos retours m'intéressent.
+[^rake]:
 
-[^netlimit]: 15 minutes, comme confirmé par Chris McCraw dans son article
-  "[How Our Build Bots Build Sites](https://www.netlify.com/blog/2016/10/18/how-our-build-bots-build-sites/)".
+    Rake est un orchestrateur similaire à make, mais en Ruby
+    ([en savoir plus](https://rubygems.org/gems/rake/)).
 
-[^analytics]: Parce que je n'ai pas besoin de ça pour connaître les personnes qui me lisent,
-  car elles interagissent souvent avec moi dans les commentaires ou sur Twitter.
+[^gsl]:
+
+    Il semblerait que [la gemme gsl](https://rubygems.org/gems/gsl) permette
+    d'améliorer cela, mais je ne l'ai pas testé. Vos retours m'intéressent.
+
+[^netlimit]:
+
+    15 minutes, comme confirmé par Chris McCraw dans son article
+    "[How Our Build Bots Build Sites](https://www.netlify.com/blog/2016/10/18/how-our-build-bots-build-sites/)".
+
+[^analytics]:
+
+    Parce que je n'ai pas besoin de ça pour connaître les personnes qui me
+    lisent, car elles interagissent souvent avec moi dans les commentaires ou
+    sur Twitter.

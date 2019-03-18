@@ -1,8 +1,8 @@
 ---
 title: 'DRM, le rôle de Microsoft'
 tags:
-  - 'Vie privée'
-  - Numérique
+    - 'Vie privée'
+    - Numérique
 ---
 
 Maxime, un ami Esieen, pose de justes questions dans un commentaire de mon

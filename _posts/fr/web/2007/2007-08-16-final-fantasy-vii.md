@@ -1,9 +1,9 @@
 ---
 title: 'Final Fantasy VII'
 tags:
-  - 'Jeu Video'
-  - 'Final Fantasy'
-  - Playstation
+    - 'Jeu Video'
+    - 'Final Fantasy'
+    - Playstation
 ---
 
 _Il y a des livres qui vous marquent, des films qui vous hantent. De la même

@@ -1,8 +1,8 @@
 ---
 title: 'Presse & Google'
 tags:
-  - 'Transformation numérique'
-  - Presse
+    - 'Transformation numérique'
+    - Presse
 ---
 
 Depuis des années, le monde de la Culture tente de se prémunir des tendances du
@@ -36,17 +36,17 @@ manière à la rendre plus attirante.
 La Presse aussi devrait innover, en offrant ce qui n'existe pas encore, ou très
 peu&nbsp;:
 
-- Des abonnements évolutifs, et à la carte ("le sport et l'international ne
-  m'intéressent pas, donc je les retire et je paie moins cher").
-- Une meilleures inclusions sociales et je ne parle pas de simples commentaires.
-  Je pense plutôt à une fonctionnalité de partage "à la Tumblr" qui permettrait
-  à chacun de re-publier des articles et de créer son propre magasine à proposer
-  aux autres, sur des thèmes de niches.
-- Un rapport différent aux auteurs, qu'on connait aujourd'hui peu, et créer le
-  dialogue entre l'auteur et le lecteur, notamment sur les sujets de fond.
-- Davantage d’interactivité de manière à permettre aux lecteurs d'entrer dans
-  les rédactions et de dicter la politique éditoriale.
-- etc.
+-   Des abonnements évolutifs, et à la carte ("le sport et l'international ne
+    m'intéressent pas, donc je les retire et je paie moins cher").
+-   Une meilleures inclusions sociales et je ne parle pas de simples
+    commentaires. Je pense plutôt à une fonctionnalité de partage "à la Tumblr"
+    qui permettrait à chacun de re-publier des articles et de créer son propre
+    magasine à proposer aux autres, sur des thèmes de niches.
+-   Un rapport différent aux auteurs, qu'on connait aujourd'hui peu, et créer le
+    dialogue entre l'auteur et le lecteur, notamment sur les sujets de fond.
+-   Davantage d’interactivité de manière à permettre aux lecteurs d'entrer dans
+    les rédactions et de dicter la politique éditoriale.
+-   etc.
 
 Il s'agit de modifications de fond cruciales, adaptées à la façon dont notre
 société consomme l'information (attention, "consommer" est un gros mot dans le

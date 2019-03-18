@@ -1,8 +1,8 @@
 ---
 title: 'Chrome DevTools ne se repose pas sur ses lauriers'
 tags:
-  - Outils
-  - 'Performance Web'
+    - Outils
+    - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2013/07/15/chrome-devtools-ne-se-repose-pas-sur-ses-lauriers/'
 ---
 
@@ -21,18 +21,18 @@ sur la branche _stable_.
 
 Au menu, quatre innovations majeures&nbsp;:
 
-- [Workspaces](https://plus.google.com/+GoogleChromeDevelopers/posts/644qQuBKZeL),
-  qui permet d’utiliser DevTools comme éditeur de code, en définissant une
-  relation en dur entre un dossier local et un dossier web
-- La possibilité d’éditer Sass en temps-réel, avec compilation des modifications
-  à la volée
-- L’[extension ADP](https://chrome.google.com/webstore/detail/adb/dpngiggdglpdnjdoaefidgiigpemgage/details?hl=fr) qui
-  simplifie le débogage à distance des applications Android (en embarquant
-  le *Debug Bridge*, notamment)
-- Une amélioration des outils de mesure de la Performance Web comme Flame Chart
-  (visualisation du traitement JavaScript), la possibilité de visualiser le
-  rendu en temps-réel ou en simulant un *repaint* en continu, un compteur de
-  FPS, un profiler Canvas…
+-   [Workspaces](https://plus.google.com/+GoogleChromeDevelopers/posts/644qQuBKZeL),
+    qui permet d’utiliser DevTools comme éditeur de code, en définissant une
+    relation en dur entre un dossier local et un dossier web
+-   La possibilité d’éditer Sass en temps-réel, avec compilation des
+    modifications à la volée
+-   L’[extension ADP](https://chrome.google.com/webstore/detail/adb/dpngiggdglpdnjdoaefidgiigpemgage/details?hl=fr) qui
+    simplifie le débogage à distance des applications Android (en embarquant
+    le *Debug Bridge*, notamment)
+-   Une amélioration des outils de mesure de la Performance Web comme Flame
+    Chart (visualisation du traitement JavaScript), la possibilité de visualiser
+    le rendu en temps-réel ou en simulant un *repaint* en continu, un compteur
+    de FPS, un profiler Canvas…
 
 Les documentations de ces outils sont encore balbutiantes, quand elles ne sont
 pas absentes, de la documentation officielle. Mais vous pouvez regarder

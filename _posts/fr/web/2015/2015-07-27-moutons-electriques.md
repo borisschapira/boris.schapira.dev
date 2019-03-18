@@ -1,7 +1,7 @@
 ---
 title: 'Moutons électriques'
 tags:
-  - 'Intelligence Artificielle'
+    - 'Intelligence Artificielle'
 ---
 
 Deux articles m'ont récemment fait réfléchir, tous les deux traitants de

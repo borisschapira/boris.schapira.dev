@@ -1,8 +1,8 @@
 ---
 title: 'Scripts tiers&nbsp;: on ne lâche rien !'
 tags:
-  - 'Scripts Tiers'
-  - 'Performance Web'
+    - 'Scripts Tiers'
+    - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2013/11/28/scripts-tiers-on-ne-lache-rien/'
 ---
 

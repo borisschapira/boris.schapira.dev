@@ -1,8 +1,8 @@
 ---
 title: 'Passage en Next-Gen'
 tags:
-  - Technologie
-  - XBox360
+    - Technologie
+    - XBox360
 ---
 
 Et oui, ceux qui viennent lire mes articles le savent&nbsp;: l'image sous le nom

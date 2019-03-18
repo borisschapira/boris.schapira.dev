@@ -1,7 +1,7 @@
 ---
 title: 'Comme un mec'
 tag:
-  - 'Wonder Woman'
+    - 'Wonder Woman'
 ---
 
 Depuis quelques jours, mon aîné a une nouvelle manie. Dès qu'il réussit quelque

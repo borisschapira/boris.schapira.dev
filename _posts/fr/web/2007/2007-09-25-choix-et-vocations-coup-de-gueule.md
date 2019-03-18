@@ -1,8 +1,8 @@
 ---
 title: 'Choix et vocations (coup de gueule)'
 tags:
-  - "Billet d'humeur"
-  - Éducation
+    - "Billet d'humeur"
+    - Éducation
 ---
 
 J&#x2019;ai choisi d&#x2019;être un jeune cadre dynamique. Je gagne bien ma vie

@@ -1,8 +1,8 @@
 ---
 title: Législatives
 tags:
-  - election
-  - legislatives
+    - election
+    - legislatives
 ---
 
 Rappelons le principe d'un député : il est censé prendre l'avis de sa

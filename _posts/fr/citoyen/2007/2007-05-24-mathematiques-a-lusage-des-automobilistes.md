@@ -1,8 +1,8 @@
 ---
 title: "Mathématiques à l'usage des automobilistes"
 tags:
-  - Société
-  - 'Sécurité routière'
+    - Société
+    - 'Sécurité routière'
 ---
 
 Sur la nationale que j'emprunte tous les matins, peu sont les automobilistes à

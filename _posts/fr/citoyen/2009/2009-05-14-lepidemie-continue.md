@@ -1,8 +1,8 @@
 ---
 title: "L'épidémie continue"
 tags:
-  - Finance
-  - Économie
+    - Finance
+    - Économie
 ---
 
 J'avais déjà parlé de l'[épidémie](/2009/01/lepidemie/), pronostiquant une

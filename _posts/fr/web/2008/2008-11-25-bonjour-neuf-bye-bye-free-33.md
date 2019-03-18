@@ -1,10 +1,10 @@
 ---
 title: 'Bonjour Neuf ! (Bye-bye Free 3/3)'
 tags:
-  - Boulogne
-  - FAI
-  - Free
-  - 'Me, myself and I'
+    - Boulogne
+    - FAI
+    - Free
+    - 'Me, myself and I'
 ---
 
 _**Free** et moi, c’était une grande et belle histoire. Mais quand j’ai voulu**

@@ -1,7 +1,7 @@
 ---
 title: 'HTML 5, Silverlight et Microsoft'
 tags:
-  - Front-End
+    - Front-End
 ---
 
 C’est pendant la conférence D9 d’All Things Digital que Microsoft a dévoilé

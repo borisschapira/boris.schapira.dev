@@ -1,7 +1,7 @@
 ---
 title: 'Enfermés dans un sous-sol'
 tags:
-  - anecdotes
+    - anecdotes
 ---
 
 Alors que je m'apprête à tourner une page professionnelle, je ressens le besoin

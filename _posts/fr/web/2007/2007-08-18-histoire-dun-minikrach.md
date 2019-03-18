@@ -1,9 +1,9 @@
 ---
 title: "Histoire d'un minikrach"
 tags:
-  - Finance
-  - Économie
-  - Subprime
+    - Finance
+    - Économie
+    - Subprime
 ---
 
 J'ai tenté d'expliquer dans un précédent article les raisons de la crise des

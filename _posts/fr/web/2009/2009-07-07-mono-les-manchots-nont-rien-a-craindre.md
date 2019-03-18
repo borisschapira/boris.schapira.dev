@@ -2,7 +2,7 @@
 title: 'Mono : les manchots n’ont rien à craindre'
 canonical: 'https://www.nexeo.fr/blog/2009/07/07/mono-les-manchots-nont-rien-a-craindre/'
 tags:
-  - Nexdotnet
+    - Nexdotnet
 ---
 
 Les partisans du libre peuvent souffler. Après la montée au créneau de Richard

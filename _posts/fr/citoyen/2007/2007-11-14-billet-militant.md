@@ -1,8 +1,8 @@
 ---
 title: 'Billet militant'
 tags:
-  - Société
-  - Grève
+    - Société
+    - Grève
 ---
 
 Aujourd'hui, demain, et tous les autres jours où vous ferez grève, j'irais

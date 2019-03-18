@@ -2,7 +2,7 @@
 title: '[Vécu] Le virus du développeur'
 canonical: 'https://www.nexeo.fr/blog/2009/09/30/vecu-le-virus-du-developpeur/'
 tags:
-  - Nexdotnet
+    - Nexdotnet
 ---
 
 Je ne sais pas vous, mais moi je suis toujours très excité quand j’apprends un

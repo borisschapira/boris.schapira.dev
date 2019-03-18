@@ -1,9 +1,9 @@
 ---
 title: "Popfly s'ouvre à tous les internautes"
 tags:
-  - Technologie
-  - Popfly
-  - Silverlight
+    - Technologie
+    - Popfly
+    - Silverlight
 ---
 
 [Popfly](http://popfly.ms/) est un outil de &quot;création d'applications pour

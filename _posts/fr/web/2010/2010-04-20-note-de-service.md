@@ -1,7 +1,7 @@
 ---
 title: 'En province'
 tags:
-  - 'Me, myself and I'
+    - 'Me, myself and I'
 ---
 
 En ce moment, j'ai plein d'envies. Depuis que je suis parti de Paris, en fait.

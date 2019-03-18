@@ -1,10 +1,10 @@
 ---
 title: "L'IT au service du Trading"
 tags:
-  - Finance
-  - Technologie
-  - Emploi
-  - Nexeo
+    - Finance
+    - Technologie
+    - Emploi
+    - Nexeo
 ---
 
 La **salle de marché** s'excite. La courbe de taux se retourne et le Trading a

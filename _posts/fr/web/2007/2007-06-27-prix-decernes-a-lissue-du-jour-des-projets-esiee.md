@@ -1,7 +1,7 @@
 ---
 title: 'Jour des Projets ESIEE : les prix'
 tags:
-  - ESIEE
+    - ESIEE
 subtitle: Prix de l'innovation 2007
 ---
 
@@ -13,14 +13,14 @@ projet (I3) de **synchronisation d'agenda électronique par RFID**
 Les trois autres projets finalistes en seconde place et troisième place ex aequo
 étaient :
 
-- **Animation en 3 D par projection laser**, projet I3 présenté par Rémi Bin,
-  Mathieu Stephan, Lyse Talbottier ;
-- **Application middleware pour des patients atteints d'Alzheimer**, projet
-  <abbr title="Institut Supérieur des Technologies et de Management, devenu ESIEE Management">ISTM</abbr>
-  présenté par Mathieu Ah-Sing, Florent Coquelin, Alexandre Pistre ;
-- **Authentification d'image numérique**, projet
-  <abbr title="Institut Supérieur des BioSciences">ISBS</abbr> présenté par
-  Marie-Charlotte Poilpre.
+-   **Animation en 3 D par projection laser**, projet I3 présenté par Rémi Bin,
+    Mathieu Stephan, Lyse Talbottier ;
+-   **Application middleware pour des patients atteints d'Alzheimer**, projet
+    <abbr title="Institut Supérieur des Technologies et de Management, devenu ESIEE Management">ISTM</abbr>
+    présenté par Mathieu Ah-Sing, Florent Coquelin, Alexandre Pistre ;
+-   **Authentification d'image numérique**, projet
+    <abbr title="Institut Supérieur des BioSciences">ISBS</abbr> présenté par
+    Marie-Charlotte Poilpre.
 
 Le jury a de plus décidé d'attribuer une mention spéciale au **jeu d'aventure en
 2 D** construit par des élèves I1&nbsp;: Tugdual De Kerviler, Thibault François,

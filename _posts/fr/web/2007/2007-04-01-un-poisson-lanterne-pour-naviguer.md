@@ -1,7 +1,7 @@
 ---
 title: 'Deepfish : le poisson lanterne de Microsoft'
 tags:
-  - Outils
+    - Outils
 ---
 
 Ne vous inquiétez pas, je ne suis pas parti dans un pur délire maritime. Je

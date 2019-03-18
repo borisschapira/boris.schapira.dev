@@ -1,8 +1,8 @@
 ---
 title: 'Mentalités, informatique et réunion de famille'
 tags:
-  - 'Amis et famille'
-  - Facebook
+    - 'Amis et famille'
+    - Facebook
 ---
 
 Pour tout esprit normalement constitué ces trois mots n'ont rien à faire

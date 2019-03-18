@@ -1,7 +1,7 @@
 ---
 title: 'Les anti-système'
 tags:
-  - Présidentielle
+    - Présidentielle
 ---
 
 > Je suis le candidat anti-système, donc votez pour moi.

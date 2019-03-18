@@ -1,8 +1,8 @@
 ---
 title: 'PhotoSynth est désormais ouvert au public'
 tags:
-  - Technologie
-  - PhotoSynth
+    - Technologie
+    - PhotoSynth
 ---
 
 Je serais peut-être le 100e à vous parler de

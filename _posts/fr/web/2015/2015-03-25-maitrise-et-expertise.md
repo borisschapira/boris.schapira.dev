@@ -1,7 +1,7 @@
 ---
 title: 'Maîtrise et expertise'
 tags:
-  - Management
+    - Management
 ---
 
 Tous les enseignants ont vécu ce moment. Parfois, lors de la première répétition

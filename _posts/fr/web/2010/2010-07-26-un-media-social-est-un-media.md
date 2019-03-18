@@ -1,7 +1,7 @@
 ---
 title: 'Un média social est un canal'
 tags:
-  - 'Transformation numérique'
+    - 'Transformation numérique'
 ---
 
 Malgré sa nature sociale (c'est-à-dire qu'il intègre le concept de réseau entre

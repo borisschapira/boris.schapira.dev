@@ -1,18 +1,21 @@
 ---
 title: 'La Performance Web, pourquoi et surtout, comment ?'
-subtitle: un sujet pour tous les gens du Web qui veulent que leurs sites aillent plus vite
-description:
-  "Avec le déplacement d'un certain nombre d'usages vers des périphérique
-  nomades (téléphones, montres, appareils connectés), la fluidité d'utilisation
-  devient une problématique critique. La performance Web est une des composantes
-  de cette fluidité. Nous verrons ensemble comment l'optimiser. Ceci étant,
-  suivant l’organisation et la culture de votre entreprise, conserver ce gain
-  dans le temps peut être délicat et tenir davantage de la conduite du
-  changement que de l’identification et l'implémentation d'optimisations."
+subtitle:
+    un sujet pour tous les gens du Web qui veulent que leurs sites aillent plus
+    vite
+description: >-
+    Avec le déplacement d'un certain nombre d'usages vers des périphérique
+    nomades (téléphones, montres, appareils connectés), la fluidité
+    d'utilisation devient une problématique critique. La performance Web est une
+    des composantes de cette fluidité. Nous verrons ensemble comment
+    l'optimiser. Ceci étant, suivant l’organisation et la culture de votre
+    entreprise, conserver ce gain dans le temps peut être délicat et tenir
+    davantage de la conduite du changement que de l’identification et
+    l'implémentation d'optimisations.
 last_date: 2012-05-25
 events:
-  - name: 'Sud Web 2012'
-    date: 2012-05-25
+    - name: 'Sud Web 2012'
+      date: 2012-05-25
 ---
 
 {% include media/vimeo.html.liquid id="56931059" title="Mettre en place une strat&eacute;gie de performance web, Boris Shapira - Sud Web 2012" %}
@@ -71,12 +74,13 @@ temps à sortir des métriques, mais bien d’améliorer rapidement les choses. 
 la peine de réinventer la roue, vous pouvez utiliser des outils publics, souvent
 gratuits et en ligne comme :
 
-- pour l’analyse de Waterfall : [WebPageTest.org](http://www.webpagetest.org/),
-  [Pingdom Tools](http://tools.pingdom.com/fpt/)
-- pour le respect des bonnes pratiques :
-  [Dareboost](https://www.dareboost.com/ 'Analyse de site Web, Test de Performance et Audit qualité - DareBoost'),
-  [Page Speed Online](https://developers.google.com/speed/pagespeed/insights/),
-  [YSlow](https://developer.yahoo.com/yslow/)
+-   pour l’analyse de Waterfall :
+    [WebPageTest.org](http://www.webpagetest.org/),
+    [Pingdom Tools](http://tools.pingdom.com/fpt/)
+-   pour le respect des bonnes pratiques :
+    [Dareboost](https://www.dareboost.com/ 'Analyse de site Web, Test de Performance et Audit qualité - DareBoost'),
+    [Page Speed Online](https://developers.google.com/speed/pagespeed/insights/),
+    [YSlow](https://developer.yahoo.com/yslow/)
 
 ### Niveau 1 - la réaction
 

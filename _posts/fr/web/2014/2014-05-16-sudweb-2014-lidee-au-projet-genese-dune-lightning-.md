@@ -1,9 +1,9 @@
 ---
 title: "Préparation d'une miniconférence"
 tags:
-  - Conférences
+    - Conférences
 series:
-  - 'Sud Web 2014'
+    - 'Sud Web 2014'
 slug: sudweb-2014-lidee-au-projet-genese-dune-lightning-talk
 subtitle: génèse de ma conférence pour Sud Web 2014
 ---
@@ -59,9 +59,9 @@ l'introduction dure 30 secondes. Il faut donc être clair et précis dans la
 présentation d'une trame. Dans les quelques minutes que je vais avoir à ma
 disposition, il faut que j'arrive à faire passer trois idées&nbsp;:
 
-- Les idées sont volatiles, les capturer est difficile
-- Formaliser son idée en utilisant un modèle (exemple&nbsp;: Lean Canvas)
-- Transmettre son idée pour l'expérimenter&nbsp;: à qui, comment&nbsp;?
+-   Les idées sont volatiles, les capturer est difficile
+-   Formaliser son idée en utilisant un modèle (exemple&nbsp;: Lean Canvas)
+-   Transmettre son idée pour l'expérimenter&nbsp;: à qui, comment&nbsp;?
 
 ### J-23&nbsp;: La répétition
 
@@ -72,10 +72,11 @@ pouvoir en parler sous une forme qui sonne juste. J'ai opté pour des verbes,
 symboles d'action, et je les ai pris commençant tous trois par un "C"… parce que
 c'est marrant&nbsp;:
 
-- Capturer,
-- Conceptualiser,
-- Confronter. Ça me semble pas mal, même si je ne suis pas pleinement satisfait
-  du "conceptualiser". Mais ça servira son objectif&nbsp;: imposer un rythme.
+-   Capturer,
+-   Conceptualiser,
+-   Confronter. Ça me semble pas mal, même si je ne suis pas pleinement
+    satisfait du "conceptualiser". Mais ça servira son objectif&nbsp;: imposer
+    un rythme.
 
 ### J-20&nbsp;: La rédaction
 
@@ -89,20 +90,21 @@ Le plan à "trois C" me convient bien, mais avant de rédiger, il faut que je
 développe un peu les idées-clés, et que j'attribue à chaque partie une longueur,
 pour être sûr de ne pas avoir un contenu déséquilibré&nbsp;:
 
-- Introduction (~120 mots)&nbsp;: les idées dans ma vie de consultant, pourquoi
-  elles n'arrivent que rarement jusqu'au statut de PMV
-- Capturer (~180 mots)&nbsp;: parler de la volatilité, de l'agacement et/ou de
-  l'impatience de l'auteur. Inciter à s'équiper d'un crayon et d'un carnet pour
-  griffonner, présenter des outils méthodo comme le Mind Mapping ou l'Affinity
-  Diagram.
-- Conceptualiser (~180 mots)&nbsp;: introduire le Lean Canvas comme un modèle,
-  parmi d'autres, de formalisation. Insister sur les forces du modèle&nbsp;:
-  notamment celle de mettre en exergue les zones d'inconfort dans notre concept.
-- Confronter (~180 mots)&nbsp;: importance de l'interlocuteur, outils de
-  formalisation pouvant être complétés par des outils méthodologies dédiés à
-  l'échanges qui souvent complètent le projet
-- Conclusion (~120 mots)&nbsp;: ne laissez pas vos idées s'envoler sans leur
-  avoir donné leur chance. Exemple&nbsp;: Sud Web, une bien bonne idée.
+-   Introduction (~120 mots)&nbsp;: les idées dans ma vie de consultant,
+    pourquoi elles n'arrivent que rarement jusqu'au statut de PMV
+-   Capturer (~180 mots)&nbsp;: parler de la volatilité, de l'agacement et/ou de
+    l'impatience de l'auteur. Inciter à s'équiper d'un crayon et d'un carnet
+    pour griffonner, présenter des outils méthodo comme le Mind Mapping ou
+    l'Affinity Diagram.
+-   Conceptualiser (~180 mots)&nbsp;: introduire le Lean Canvas comme un modèle,
+    parmi d'autres, de formalisation. Insister sur les forces du modèle&nbsp;:
+    notamment celle de mettre en exergue les zones d'inconfort dans notre
+    concept.
+-   Confronter (~180 mots)&nbsp;: importance de l'interlocuteur, outils de
+    formalisation pouvant être complétés par des outils méthodologies dédiés à
+    l'échanges qui souvent complètent le projet
+-   Conclusion (~120 mots)&nbsp;: ne laissez pas vos idées s'envoler sans leur
+    avoir donné leur chance. Exemple&nbsp;: Sud Web, une bien bonne idée.
 
 ### J-17&nbsp;: Premier jet rédactionnel
 

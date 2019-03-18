@@ -1,14 +1,14 @@
 ---
 title:
-  'Content Encoding: why and how to use the meta charset tag and the
-  Content-Type header'
+    'Content Encoding: why and how to use the meta charset tag and the
+    Content-Type header'
 i18n-key: content-encoding
 main_image: /assets/images/2018-11-16/hiragana-blur.png
 canonical: 'https://blog.dareboost.com/en/2018/11/content-encoding-meta-charset-content-type-header/'
 tags:
-  - WebPerf
-  - Headers
-  - Encoding
+    - WebPerf
+    - Headers
+    - Encoding
 slug: content-encoding-how-why
 cloudinary_logo: dareboost-logo
 ---
@@ -218,10 +218,10 @@ most of them don’t pass on the headers they find on your servers._
 
 ## Additional Resources
 
-- [The IANA Media Types list](https://www.iana.org/assignments/media-types/media-types.xhtml)
-- [The Unicode website](http://www.unicode.org/)
-- "[Character encodings: Essential concepts](https://www.w3.org/International/articles/definitions-characters/#httpheader)",
-  on the W3C Internationalization website
-- Still thinking that Character Encoding is a trivial issue? Look at
-  "[Anatomy of a Critical Security Bug](https://www.youtube.com/watch?v=yQaRUEwEKxE)",
-  by Andrew Nacin at Loop Conf 2015.
+-   [The IANA Media Types list](https://www.iana.org/assignments/media-types/media-types.xhtml)
+-   [The Unicode website](http://www.unicode.org/)
+-   "[Character encodings: Essential concepts](https://www.w3.org/International/articles/definitions-characters/#httpheader)",
+    on the W3C Internationalization website
+-   Still thinking that Character Encoding is a trivial issue? Look at
+    "[Anatomy of a Critical Security Bug](https://www.youtube.com/watch?v=yQaRUEwEKxE)",
+    by Andrew Nacin at Loop Conf 2015.

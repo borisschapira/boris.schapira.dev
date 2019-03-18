@@ -1,8 +1,8 @@
 ---
 title: CitySpeaker
 tags:
-  - Culture
-  - Publicité
+    - Culture
+    - Publicité
 ---
 
 A l'approche des **vacances** d'été et alors que les petits week-ends font

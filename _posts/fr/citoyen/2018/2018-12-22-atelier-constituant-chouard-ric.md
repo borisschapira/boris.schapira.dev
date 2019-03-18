@@ -1,8 +1,8 @@
 ---
 title: "De retour d'une conférence d'Étienne Chouard"
-subtitle: "critique de fond et de forme"
+subtitle: 'critique de fond et de forme'
 tags:
-  - Démocratie
+    - Démocratie
 ---
 
 Depuis quelques jours, dans le sillage des revendications des Gilets Jaunes
@@ -124,11 +124,13 @@ bénéfices à nos détriments, leur retirer demain l'exploitation ne nous prive
 pas de devoir continuer à entretenir le réseau (pour un coût allant de 5 à
 9&nbsp;M€ du kilomètre, suivant les contraintes du site[^autoroute])
 
-[^autoroute]: On trouve beaucoup de ressources en ligne sur le coût de l'entretien des
-  routes, du
-  [rapport annuel de l'Union Routière de France](http://www.unionroutiere.fr/wp-content/uploads/2017/11/faits-et-chiffres-2017_Basse-def.pdf)
-  à des comparaisons européennes, comme
-  [celle du Ministère des transports, en 2006](https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/074000038.pdf).
+[^autoroute]:
+
+    On trouve beaucoup de ressources en ligne sur le coût de l'entretien des
+    routes, du
+    [rapport annuel de l'Union Routière de France](http://www.unionroutiere.fr/wp-content/uploads/2017/11/faits-et-chiffres-2017_Basse-def.pdf)
+    à des comparaisons européennes, comme
+    [celle du Ministère des transports, en 2006](https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/074000038.pdf).
 
 Mais évidemment, rapidement, c'est Emmanuel Macron, étant à la fois un ancien
 banquier très riche et un détenteur du pouvoir par l'élection, qui fut
@@ -137,13 +139,15 @@ Souverain ou le Prince (bien qu'il n'ait pas été désigné de droit divin, ou 
 "au-dessus des lois"), il cristallise l'ensemble de la critique du système
 anti-démocratique[^hyperpresident].
 
-[^hyperpresident]: Pour ma part, si j'avais voulu critiquer le Président, j'aurais utilisé le
-  terme de "Monarque", mais cela ne date pas de Macron. Tel que je le conçois,
-  c'est sous Sarkozy que le Premier Ministre a cessé d'être le chef opérationnel
-  du Gouvernement et est devenu le simple exécutant, non pas d'une ligne
-  directrice politique, mais bien des décisions précises du seul Président. Le
-  système politique qu'on appelle désormais "omniprésident" se rapproche donc
-  d'une monarchie constitutionnelle à mandat de durée limitée.
+[^hyperpresident]:
+
+    Pour ma part, si j'avais voulu critiquer le Président, j'aurais utilisé le
+    terme de "Monarque", mais cela ne date pas de Macron. Tel que je le conçois,
+    c'est sous Sarkozy que le Premier Ministre a cessé d'être le chef
+    opérationnel du Gouvernement et est devenu le simple exécutant, non pas
+    d'une ligne directrice politique, mais bien des décisions précises du seul
+    Président. Le système politique qu'on appelle désormais "omniprésident" se
+    rapproche donc d'une monarchie constitutionnelle à mandat de durée limitée.
 
 Une rhétorique déjà entendue, donc, de l'extrême droite à l'extrême gauche, mais
 pour Chouard, hors de question d'envisager de faire du mouvements des Gilets

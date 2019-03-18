@@ -1,9 +1,9 @@
 ---
 title: 'Forza 2 Motorsport : preview'
 tags:
-  - 'Jeu Video'
-  - 'Forza Motorsport 2'
-  - XBox360
+    - 'Jeu Video'
+    - 'Forza Motorsport 2'
+    - XBox360
 ---
 
 Voilà , ma fabuleuse Saab-900 toute neuve et personnalisée (sans commentaires).

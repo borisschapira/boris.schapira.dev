@@ -1,9 +1,9 @@
 ---
 title: 'Ces bénéfices qui font tâche'
 tags:
-  - Société
-  - Publicité
-  - Tabac
+    - Société
+    - Publicité
+    - Tabac
 ---
 
 Comme beaucoup d'entre vous, je

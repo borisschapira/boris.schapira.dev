@@ -1,6 +1,6 @@
 ---
 title:
-  'Scripts tiers & appels induits : ne perdez pas le contrôle de votre site'
+    'Scripts tiers & appels induits : ne perdez pas le contrôle de votre site'
 canonical: 'https://letrainde13h37.fr/6/scripts-tiers-appels-induits-ne-perdez-pas-le-controle-de-votre-site/'
 slug: scripts-tiers-appels-induits-ne-perdez-pas-le-controle-de-votre-site
 ---
@@ -72,7 +72,7 @@ pages une iFrame qui ressemble à ça :
 
 ```html
 <iframe
-  src="https://maregie.com/0/4563/ad.htmlAccueil=0&Comportemental=1&urlsrc=monsite.com/about"
+    src="https://maregie.com/0/4563/ad.htmlAccueil=0&Comportemental=1&urlsrc=monsite.com/about"
 ></iframe>
 ```
 
@@ -103,11 +103,12 @@ inutiles peut être bien plus important, de l'ordre de plusieurs dizaines, voire
 de plus d'une centaine de redirections, scripts, images… Ces appels ont
 différentes conséquences sur la performance Web :
 
-- Les redirections, toutes inutiles, qui gâchent un temps précieux ;
-- Les appels sécurisés, qui impliquent le chargement des différents certificats
-  attenants et leurs interprétations souvent coûteuses ;
-- La multiplication des domaines différents qui induit un nombre important de
-  résolutions<abbr alt="Domain Name System">DNS</abbr> nécessaires à leur appel.
+-   Les redirections, toutes inutiles, qui gâchent un temps précieux ;
+-   Les appels sécurisés, qui impliquent le chargement des différents
+    certificats attenants et leurs interprétations souvent coûteuses ;
+-   La multiplication des domaines différents qui induit un nombre important de
+    résolutions<abbr alt="Domain Name System">DNS</abbr> nécessaires à leur
+    appel.
 
 Peu importe comment vous attaquez le problème : l'inclusion d'un script tiers et
 les appels qu'il induit dégradent l'expérience de vos visiteurs. La seule
@@ -307,7 +308,7 @@ visiteur qui, sans en avoir jamais conscience, l'exécute.
 
 ## Ressources additionnelles
 
-- "[How vulnerable is your site to third-party failure? [EN]](http://www.webperformancetoday.com/2011/10/13/how-vulnerable-is-your-site-to-third-party-failure/)",
-  Joshua Bixby
-- "[Facebook Outage: Wake Up Call For Websites! [EN]](http://blog.catchpoint.com/2012/06/01/facebook-outage-wake-up-call-for-websites/)",
-  Mehdi Daoudi
+-   "[How vulnerable is your site to third-party failure? [EN]](http://www.webperformancetoday.com/2011/10/13/how-vulnerable-is-your-site-to-third-party-failure/)",
+    Joshua Bixby
+-   "[Facebook Outage: Wake Up Call For Websites! [EN]](http://blog.catchpoint.com/2012/06/01/facebook-outage-wake-up-call-for-websites/)",
+    Mehdi Daoudi

@@ -1,7 +1,7 @@
 ---
 title: 'Mes résolutions'
 tags:
-  - 'Me, myself & I'
+    - 'Me, myself & I'
 subtitle: pour 2016
 ---
 

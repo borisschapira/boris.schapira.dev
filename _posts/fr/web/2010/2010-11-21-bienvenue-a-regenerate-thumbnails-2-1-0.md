@@ -1,8 +1,8 @@
 ---
 title: 'Bienvenue à / Welcome to Regenerate Thumbnails 2.1.0'
 tags:
-  - 'Me, myself and I'
-  - Projets
+    - 'Me, myself and I'
+    - Projets
 ---
 
 Une nouvelle version du plugin Wordpress

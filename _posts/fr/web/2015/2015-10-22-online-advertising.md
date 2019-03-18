@@ -2,10 +2,10 @@
 title: 'Publicité en ligne&nbsp;: un point sur la situation'
 i18n-key: online-advertising
 tags:
-  - Publicité
-  - 'Scripts Tiers'
-  - 'Transformation numérique'
-  - Presse
+    - Publicité
+    - 'Scripts Tiers'
+    - 'Transformation numérique'
+    - Presse
 canonical: 'https://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-point-sur-la-situation/'
 slug: publicite-en-ligne-un-point
 subtitle: Une guerre aux multiples facettes
@@ -31,13 +31,17 @@ smartphones[^mobile]. Face à ce phénomène, certains producteurs n’hésitent
 à bloquer l’accès à leurs contenus aux utilisateurs refusant la publicité,
 envoyant ainsi un signal extrêmement négatif à leur audience.
 
-[^chiffres]: D’après une étude PageFair, ces AdBlockers seraient installés chez 35 % des
-  internautes européens, 41 % des 16-29 ans. UCBrowser et Maxthon, qui
-  revendiquent plus de 600 millions d’utilisateurs en Asie, sont également
-  partenaires de solutions de blocage.
+[^chiffres]:
 
-[^mobile]: L’Ad Blocker d’iOS 9, par exemple, repose sur un modèle commercial où les
-  annonceurs devront payer pour voir leurs pubs affichées.
+    D’après une étude PageFair, ces AdBlockers seraient installés chez 35 % des
+    internautes européens, 41 % des 16-29 ans. UCBrowser et Maxthon, qui
+    revendiquent plus de 600 millions d’utilisateurs en Asie, sont également
+    partenaires de solutions de blocage.
+
+[^mobile]:
+
+    L’Ad Blocker d’iOS 9, par exemple, repose sur un modèle commercial où les
+    annonceurs devront payer pour voir leurs pubs affichées.
 
 Cette guerre, extrêmement coûteuse, est le résultat d’un pari sur des sources de
 revenus alternatives (basées sur la publicité) plutôt que sur la mise en avant
@@ -64,11 +68,13 @@ la publicité en ligne, représentée par l’IAB[^iab], le confirme :
 > <cite>Scott Cunningham dans <a href="http://www.iab.com/news/lean/">Getting
 > LEAN with Digital Ad UX</a></cite>
 
-[^iab]: L’Internet Advertising Bureau, la principale association de professionnels de
-  la publicité en ligne regroupant de nombreux acteurs de l’écosystème
-  publicitaire : agences, régies, partenaires, hébergeurs. Habituellement, l’IAB
-  promeut massivement la publicité en ligne en finançant des études sur son
-  efficacité. Ce constat d’échec est un séisme.
+[^iab]:
+
+    L’Internet Advertising Bureau, la principale association de professionnels
+    de la publicité en ligne regroupant de nombreux acteurs de l’écosystème
+    publicitaire : agences, régies, partenaires, hébergeurs. Habituellement,
+    l’IAB promeut massivement la publicité en ligne en finançant des études sur
+    son efficacité. Ce constat d’échec est un séisme.
 
 ## Des alternatives difficiles
 
@@ -108,13 +114,13 @@ contenus sur une plate-forme valorisée par son audience mais en contrepartie, l
 producteur devient dépendant d’un nouveau canal. Cette relation créé de nouveaux
 équilibres :
 
-- le contenu est visuellement dépouillé, ce qui améliore la lisibilité mais
-  réduit l’identité de marque et la fidélisation ;
-- l’audience est potentiellement très large mais l’éditeur n’a que très peu
-  d’impact sur son ciblage et sur sa capacité à atteindre ses cibles (on est ici
-  sur la même problématique de place de marché qu’avec Google Adwords) ;
-- la monétisation est simplifiée mais en échange, l’éditeur n’a, en général, pas
-  de contrôle sur les contrats publicitaires.
+-   le contenu est visuellement dépouillé, ce qui améliore la lisibilité mais
+    réduit l’identité de marque et la fidélisation ;
+-   l’audience est potentiellement très large mais l’éditeur n’a que très peu
+    d’impact sur son ciblage et sur sa capacité à atteindre ses cibles (on est
+    ici sur la même problématique de place de marché qu’avec Google Adwords) ;
+-   la monétisation est simplifiée mais en échange, l’éditeur n’a, en général,
+    pas de contrôle sur les contrats publicitaires.
 
 Facebook ([Instant Articles](https://instantarticles.fb.com/)) et Apple
 ([News](http://www.apple.com/news/)) sont les premiers à se lancer sur ce type
@@ -164,10 +170,12 @@ déterminer. Ce qui est sûr, c’est que le potentiel de nuisance des bloqueurs
 l’industrie dans une impasse, obligeant à une refonte des modèles économiques
 vers des pratiques plus respectueuses des lecteurs, comme L.E.A.N.[^lean].
 
-[^lean]: L.E.A.N., pour "Light, Encrypted, Ad choice supported, Non-invasive ads", que
-  l’on peut traduire par "des publicités légères, sécurisées, respectueuse des
-  choix de l’utilisateur et non-invasives", est une nouvelle bonne pratique mise
-  en avant par l’IAB.
+[^lean]:
+
+    L.E.A.N., pour "Light, Encrypted, Ad choice supported, Non-invasive ads",
+    que l’on peut traduire par "des publicités légères, sécurisées, respectueuse
+    des choix de l’utilisateur et non-invasives", est une nouvelle bonne
+    pratique mise en avant par l’IAB.
 
 De nombreuses alternatives au modèle publicitaire sont en réflexion, considérant
 par exemple que l’attention du lecteur doit être entièrement dédiée à évaluer la
@@ -192,7 +200,8 @@ frais : vous envoyez un mauvais signal et il est dur d’en sortir _a posteriori
 
 Quelques liens proposés par des lecteurs :
 
-- ["What will happend next will amaze you"](http://idlewords.com/talks/what_happens_next_will_amaze_you.htm)
-  de Maciej Cegłowski, proposé par [@akramfares](https://twitter.com/akramfares)
-- ["Publicité en ligne : où va l'argent ?"](https://piacentino.com/jb/2015/publicite-en-ligne-ou-va-largent)
-  de Jb Piacentino, proposé par [@eliesl](https://twitter.com/eliesl)
+-   ["What will happend next will amaze you"](http://idlewords.com/talks/what_happens_next_will_amaze_you.htm)
+    de Maciej Cegłowski, proposé par
+    [@akramfares](https://twitter.com/akramfares)
+-   ["Publicité en ligne : où va l'argent ?"](https://piacentino.com/jb/2015/publicite-en-ligne-ou-va-largent)
+    de Jb Piacentino, proposé par [@eliesl](https://twitter.com/eliesl)

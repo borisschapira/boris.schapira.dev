@@ -50,8 +50,9 @@ alt=alt_text
 Le grand enchaine.
 
 > – Papa, tu peux tout voir sur ton téléphone ?  
-> – Oui, enfin presque tout. – Ah donc tu peux voir des photos et des vidéos de
-> dames qui montrent leurs titis, si tu veux ?  
+> – Oui, enfin presque tout.  
+> – Ah donc tu peux voir des photos et des vidéos de dames qui montrent leurs
+> titis, si tu veux ?  
 > – Euh, probablement…  
 > – Pourquoi est-ce que nous, les enfants, on n'a pas le droit de voir des
 > photos de dames qui montrent leurs titis et que les adultes, ils peuvent ?

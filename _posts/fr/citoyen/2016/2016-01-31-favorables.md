@@ -1,7 +1,7 @@
 ---
 title: 'Favorables ?'
 tags:
-  - "État d'Urgence"
+    - "État d'Urgence"
 main_image: /assets/images/2016-01-31/1.png
 ---
 
@@ -38,7 +38,9 @@ autant dire pour toujours.
 > 4 enquêtes anti-terroristes.  
 > 1 mise en examen.
 
-[^1]: [Est-ce que c'est encore l'État d'Urgence ?](https://estcequecestencoreletatdurgence.fr/)
+[^1]:
+
+    [Est-ce que c'est encore l'État d'Urgence ?](https://estcequecestencoreletatdurgence.fr/)
 
 Plusieurs milliers de personnes violées dans leur intimité, des dizaines de
 personnes enfermées chez elles pour avoir

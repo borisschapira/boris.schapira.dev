@@ -1,22 +1,22 @@
 ---
 title: 'Industrialiser le dév. Front-End'
 subtitle: un sujet pour les développeurs·euses qui mangent du HTML
-description:
-  "Qu'on parle d'intégration HTML ou de développement Front-End, on ne s'outille
-  plus en 2015 comme en 2005. De nombreux outils existent désormais pour
-  faciliter les processus de démarrage, composition, construction et
-  déploiement. Prenons quelques minutes pour en parler."
+description: >-
+    Qu'on parle d'intégration HTML ou de développement Front-End, on ne
+    s'outille plus en 2015 comme en 2005. De nombreux outils existent désormais
+    pour faciliter les processus de démarrage, composition, construction et
+    déploiement. Prenons quelques minutes pour en parler.
 last_date: 2015-10-16
 events:
-  - name: 'Bdx.IO 2015'
-    date: 2015-10-16
+    - name: 'Bdx.IO 2015'
+      date: 2015-10-16
 ---
 
 Transcription de mon <em lang="en">lightning talk</em> pour Bdx.io 2015 pour les
 absents, les malentendants ou les gens qui s'ennuient !
 
-- [Slides](http://www.slideshare.net/bschapira/industrialiser-le-dev-front-end-54151018)
-- [Site officiel de Bdx.io](https://www.bdx.io/)
+-   [Slides](http://www.slideshare.net/bschapira/industrialiser-le-dev-front-end-54151018)
+-   [Site officiel de Bdx.io](https://www.bdx.io/)
 
 <!-- more -->
 
@@ -39,7 +39,11 @@ de démonstrations à connaître par cœur. À la fin de l’année, nous en avi
 de 70 et il fallait en reproduire 4 en moins d’une heure pour espérer obtenir
 un 20.
 
-[^1]: également orthographié "khôlles", il s'agit des interrogations orales que l'on impose aux étudiants pour les maintenir sous pression et leur apprendre à gérer le stress des examens
+[^1]:
+
+    également orthographié "khôlles", il s'agit des interrogations orales que
+    l'on impose aux étudiants pour les maintenir sous pression et leur apprendre
+    à gérer le stress des examens
 
 L'explication de notre professeur était très simple :
 
@@ -79,7 +83,11 @@ l’enrichissement avec les fonctionnalités offertes par les nouveaux. Le tout 
 prenant en compte le futur pour ne pas être complètement à la rue quand les Web
 Components viendront tout écraser sur leur passage (quoi, on peut rêver non ?).
 
-[^2]: Ce qui n'est pas la même chose, même si les deux métiers sont concernés par ce que j'ai à dire (pour plus d'infos, voir [cet article de Marie Guillaumet](http://marieguillaumet.com/les-mots-qui-fachent-2-integrateur-web-vs-developpeur-front-end/)).
+[^2]:
+
+    Ce qui n'est pas la même chose, même si les deux métiers sont concernés par
+    ce que j'ai à dire (pour plus d'infos, voir
+    [cet article de Marie Guillaumet](http://marieguillaumet.com/les-mots-qui-fachent-2-integrateur-web-vs-developpeur-front-end/)).
 
 Bref, développer des pages et/ou des applications Web en 2015, c'est une
 compétence d'artisan, un savoir qui se partage mais que peu peuvent se targuer
@@ -169,7 +177,10 @@ réflexion la **maintenance** de votre solution, en intégrant éventuellement �
 votre processus la génération automatique d'une **documentation** à l'usage des
 futurs mainteneurs, mais aussi des explications pour le **débogage**[^3].
 
-[^3]: Lire à ce sujet ["Développeurs front : vous n’utilisez pas de proxy ?" de Stéphane Tessier](https://blog.clever-age.com/fr/2015/07/29/developpeurs-front-vous-nutilisez-pas-de-proxy/).
+[^3]:
+
+    Lire à ce sujet
+    ["Développeurs front : vous n’utilisez pas de proxy ?" de Stéphane Tessier](https://blog.clever-age.com/fr/2015/07/29/developpeurs-front-vous-nutilisez-pas-de-proxy/).
 
 Une fois qu'on réassemble, cela donne la chaine complète :
 
@@ -237,28 +248,28 @@ Si vous me montrez la vôtre, je vous montre la mienne.
 
 Toutes les icônes sont soumises aux licences Creative Commons BY 3.0-US :
 
-- [documents](https://thenounproject.com/search/?q=document&i=183509) par John
-  Slater ;
-- [Gear](https://thenounproject.com/search/?q=automation&i=5009) par Dmitry
-  Baranovskiy ;
-- [Building blocks](https://thenounproject.com/search/?q=building+blocks&i=84244)
-  par Olivier Rooker ;
-- [Process](https://thenounproject.com/search/?q=process&i=194045) par Rflor
-  Baranovskiy ;
-- [Box](https://thenounproject.com/search/?q=package&i=91784) par Nicolas Vicent
-  ;
-- [Crosshair](https://thenounproject.com/search/?q=deploy&i=78984) par Chris, NZ
-  ;
-- [Observation](https://thenounproject.com/search/?q=eyes&i=145619) par Arthur
-  Shlain ;
-- [Accept File](https://thenounproject.com/search/?q=file&i=116576) par
-  mantisshrimpdesign ;
-- [Browser Upload](https://thenounproject.com/search/?q=browser&i=89766) par
-  Tahsin Tahil, BD ;
-- [Browser](https://thenounproject.com/search/?q=browsers&i=106830) par Zlatko
-  Najdenovski, MK ;
-- [Cloud](https://thenounproject.com/search/?q=cloud&i=166562) par Viktor Fedyuk
-  ;
-- User icons par [Wilson Joseph](https://thenounproject.com/wilsonjoseph/) ;
-- [Discussion](https://thenounproject.com/search/?q=discussion&i=105771) par
-  Milky - Digital innovation.
+-   [documents](https://thenounproject.com/search/?q=document&i=183509) par John
+    Slater ;
+-   [Gear](https://thenounproject.com/search/?q=automation&i=5009) par Dmitry
+    Baranovskiy ;
+-   [Building blocks](https://thenounproject.com/search/?q=building+blocks&i=84244)
+    par Olivier Rooker ;
+-   [Process](https://thenounproject.com/search/?q=process&i=194045) par Rflor
+    Baranovskiy ;
+-   [Box](https://thenounproject.com/search/?q=package&i=91784) par Nicolas
+    Vicent ;
+-   [Crosshair](https://thenounproject.com/search/?q=deploy&i=78984) par Chris,
+    NZ ;
+-   [Observation](https://thenounproject.com/search/?q=eyes&i=145619) par Arthur
+    Shlain ;
+-   [Accept File](https://thenounproject.com/search/?q=file&i=116576) par
+    mantisshrimpdesign ;
+-   [Browser Upload](https://thenounproject.com/search/?q=browser&i=89766) par
+    Tahsin Tahil, BD ;
+-   [Browser](https://thenounproject.com/search/?q=browsers&i=106830) par Zlatko
+    Najdenovski, MK ;
+-   [Cloud](https://thenounproject.com/search/?q=cloud&i=166562) par Viktor
+    Fedyuk ;
+-   User icons par [Wilson Joseph](https://thenounproject.com/wilsonjoseph/) ;
+-   [Discussion](https://thenounproject.com/search/?q=discussion&i=105771) par
+    Milky - Digital innovation.

@@ -1,9 +1,9 @@
 ---
 title: 'France 2 et Facebook'
 tags:
-  - Société
-  - Technologie
-  - Facebook
+    - Société
+    - Technologie
+    - Facebook
 ---
 
 Il y a quelques semaines, France 2 décrivait Facebook comme "_Un site de

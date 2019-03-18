@@ -1,9 +1,9 @@
 ---
 title: "Communautar'r'us"
 tags:
-  - "Billet d'humeur"
-  - France
-  - Religion
+    - "Billet d'humeur"
+    - France
+    - Religion
 ---
 
 Le document envoyé par Eric Besson aux préfets pour la conduite des débats sur

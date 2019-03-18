@@ -1,8 +1,8 @@
 ---
 title: 'Préparation au mariage religieux'
 tags:
-  - 'Me, myself and I'
-  - Mariage
+    - 'Me, myself and I'
+    - Mariage
 ---
 
 Bon, je vais être honnête, les trucs religieux bien-pensants, ce n'est pas ma

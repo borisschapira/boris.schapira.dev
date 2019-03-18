@@ -1,8 +1,8 @@
 ---
 title: 'La performance Web, sur Mobile avant tout'
 tags:
-  - Mobilité
-  - 'Performance Web'
+    - Mobilité
+    - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2013/09/25/la-performance-web-sur-mobile-avant-tout/'
 ---
 

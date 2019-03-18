@@ -1,9 +1,9 @@
 ---
 title: 'Les européens sont nuls en Finance'
 tags:
-  - Finance
-  - Économie
-  - 'Parlement Européen'
+    - Finance
+    - Économie
+    - 'Parlement Européen'
 ---
 
 En période de crise, tout le monde donne son avis sur ce que devrait ou ne

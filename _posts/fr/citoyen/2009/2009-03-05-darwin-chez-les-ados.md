@@ -1,9 +1,9 @@
 ---
 title: 'FaisMesDevoirs : darwin chez les Ados'
 tags:
-  - Société
-  - Éducation
-  - Note2Be
+    - Société
+    - Éducation
+    - Note2Be
 ---
 
 Un an après la polémique soulevée par le site

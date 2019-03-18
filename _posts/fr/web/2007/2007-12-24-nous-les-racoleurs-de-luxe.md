@@ -1,9 +1,9 @@
 ---
 title: 'Nous… les racoleurs de luxe'
 tags:
-  - Technologie
-  - Buzz
-  - Web
+    - Technologie
+    - Buzz
+    - Web
 ---
 
 Qualit&#233; &#233;ditoriale et mon&#233;tisation du contenu semblent deux

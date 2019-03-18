@@ -1,10 +1,10 @@
 ---
 title: "L'iPhone, vous allez l'acheter (même si vous n'en voulez pas)"
 tags:
-  - "Billet d'humeur"
-  - Buzz
-  - iPhone
-  - Publicité
+    - "Billet d'humeur"
+    - Buzz
+    - iPhone
+    - Publicité
 slug: liphone-vous-allez-lacheter-mme-si-vous-nen-voulez-pas
 ---
 

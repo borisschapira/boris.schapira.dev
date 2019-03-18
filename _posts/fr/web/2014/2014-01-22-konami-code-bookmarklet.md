@@ -1,7 +1,7 @@
 ---
 title: 'Konami Code Bookmarklet'
 tags:
-  - Projets
+    - Projets
 ---
 
 Je me suis amusé à écrire un petit bookmarklet qui simule le Konami Code, afin

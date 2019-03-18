@@ -1,7 +1,7 @@
 ---
 title:
-  'Les Entretiens de l’AMF 2008 (3/3) : suivi du contrôle dans les sociétés
-  cotées.'
+    'Les Entretiens de l’AMF 2008 (3/3) : suivi du contrôle dans les sociétés
+    cotées.'
 slug: les-entretiens-de-lamf-2008-33-suivi-du-controle-dans-les-societes-cotees
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 'Astuce Vista : mise en veille prolongée'
 tags:
-  - Technologie
-  - 'Windows Vista'
+    - Technologie
+    - 'Windows Vista'
 ---
 
 Aujourd'hui j'ai eu besoin de place sur mon disque dur pour une installation

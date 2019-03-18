@@ -1,8 +1,8 @@
 ---
 title: "La nomination de NKM n'est pas *forcément* une bonne nouvelle"
 categories:
-  - citoyen
-  - web
+    - citoyen
+    - web
 slug: la-nomination-de-nkm-nest-pas-forcement-une-bonne-nouvelle
 ---
 

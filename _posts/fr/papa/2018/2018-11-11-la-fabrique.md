@@ -27,10 +27,12 @@ est reparti.
 
 Qu'ils grandissent vite.
 
-[^lego]: Il y a deux ans, pour son grand frère, j'avais vulgarisé la génétique en
-  disant que leur mère et moi étions construits avec des sortes de notices de
-  Lego et que pour les fabriquer eux, on avait pris une page sur deux, au
-  hasard, entre les deux notices. C'est pour ça que certains enfants ressemblent
-  à leurs deux parents génétiques et d'autres davantage à leur mère ou à leur
-  père (parce qu'au tirage au sort, les pages de l'un ont été tirées plus
-  souvent que les pages de l'autre).
+[^lego]:
+
+    Il y a deux ans, pour son grand frère, j'avais vulgarisé la génétique en
+    disant que leur mère et moi étions construits avec des sortes de notices de
+    Lego et que pour les fabriquer eux, on avait pris une page sur deux, au
+    hasard, entre les deux notices. C'est pour ça que certains enfants
+    ressemblent à leurs deux parents génétiques et d'autres davantage à leur
+    mère ou à leur père (parce qu'au tirage au sort, les pages de l'un ont été
+    tirées plus souvent que les pages de l'autre).

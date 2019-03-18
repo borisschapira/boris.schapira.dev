@@ -1,7 +1,7 @@
 ---
 title: 'Hadopi : les «&#160;Pirates&#160;» ont bon dos'
 tags:
-  - Numérique
+    - Numérique
 series: Hadopi
 ---
 

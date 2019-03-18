@@ -1,9 +1,9 @@
 ---
 title: 'Sharepoint et interopérabilité'
 tags:
-  - Développement
-  - Interopérabilité
-  - Sharepoint
+    - Développement
+    - Interopérabilité
+    - Sharepoint
 ---
 
 Certaines questions sur SharePoint sont récurrentes&nbsp;: comment le connecter

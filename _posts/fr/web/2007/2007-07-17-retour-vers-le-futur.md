@@ -1,7 +1,7 @@
 ---
 title: 'Retour vers le futur'
 tags:
-  - .NET
+    - .NET
 ---
 
 C'est un véritable défi spatio-temporel auquel se livrent les commerciaux de

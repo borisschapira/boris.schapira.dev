@@ -1,11 +1,11 @@
 ---
 title:
-  "Community Pack pour SharePoint : vers le «&#160;2.0&#160;» pour l'usine ECM
-  de Microsoft ?"
+    "Community Pack pour SharePoint : vers le «&#160;2.0&#160;» pour l'usine ECM
+    de Microsoft ?"
 tags:
-  - AJAX
-  - CodePlex
-  - Sharepoint
+    - AJAX
+    - CodePlex
+    - Sharepoint
 slug: community-pack-pour-sharepoint-vers-le-20-pour-lusine-ecm-de-microsoft
 ---
 

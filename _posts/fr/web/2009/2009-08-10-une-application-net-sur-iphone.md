@@ -2,7 +2,7 @@
 title: 'Une application .NET sur iPhone ?!'
 canonical: 'https://www.nexeo.fr/blog/2009/08/10/une-application-net-sur-iphone/'
 tags:
-  - Nexdotnet
+    - Nexdotnet
 ---
 
 Non, vous ne rêvez pas. Les joies du .NET seront bientôt accessibles aux

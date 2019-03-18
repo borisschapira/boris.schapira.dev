@@ -1,10 +1,10 @@
 ---
 title: "L'Imagine Cup, c'est quoi au juste ?"
 tags:
-  - Développement
-  - 'Imagine Cup'
-  - 'Project Hoshimi'
-  - 'Tour Eiffel'
+    - Développement
+    - 'Imagine Cup'
+    - 'Project Hoshimi'
+    - 'Tour Eiffel'
 ---
 
 A l'occasion de la finale française de l'Imagine Cup Project Hoshimi le 6 juin à

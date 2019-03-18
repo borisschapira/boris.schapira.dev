@@ -1,8 +1,8 @@
 ---
 title: 'La route sera longue (mais les femmes vont apprécier)'
 tags:
-  - Finance
-  - Économie
+    - Finance
+    - Économie
 slug: la-route-sera-longue-mais-les-femmes-vont-apprecier
 ---
 

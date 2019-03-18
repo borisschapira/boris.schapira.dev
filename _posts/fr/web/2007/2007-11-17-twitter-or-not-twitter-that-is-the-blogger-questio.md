@@ -1,9 +1,9 @@
 ---
 title: 'Que vaut Twitter ?'
 tags:
-  - Technologie
-  - "Billet d'humeur"
-  - Microblogging
+    - Technologie
+    - "Billet d'humeur"
+    - Microblogging
 slug: twitter-or-not-twitter-that-is-the-blogger-question
 ---
 

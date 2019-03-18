@@ -1,9 +1,9 @@
 ---
 title: 'PhotoSynth et grand public'
 tags:
-  - Buzz
-  - PhotoSynth
-  - 'Windows Live'
+    - Buzz
+    - PhotoSynth
+    - 'Windows Live'
 ---
 
 J'ai tenté de reprendre un article pas si vieux (j'en ai juste posté 280

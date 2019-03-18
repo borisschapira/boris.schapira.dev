@@ -1,9 +1,9 @@
 ---
 title: "Recherche d'un coupable"
 tags:
-  - Société
-  - 'Vie privée'
-  - Sécurité
+    - Société
+    - 'Vie privée'
+    - Sécurité
 ---
 
 La sortie de dizaines de milliers de documents confidentiels par

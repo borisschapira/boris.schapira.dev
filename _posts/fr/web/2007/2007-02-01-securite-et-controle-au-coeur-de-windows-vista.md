@@ -1,9 +1,9 @@
 ---
 title: 'Sécurité et contrôle au cœur de Windows Vista'
 tags:
-  - Conférences
-  - Windows
-  - 'Me, myself and I'
+    - Conférences
+    - Windows
+    - 'Me, myself and I'
 ---
 
 Le 30 Janvier 2007, Microsoft livrera au grand public la dernière version de son
@@ -26,8 +26,8 @@ d'appréhender les problématiques de sécurité et de contrôle du système tan
 les utilisateurs courants que pour les développeurs ou les directeurs de
 systèmes d'information :
 
-- Jeudi 1er février 2007
-- 14h à l'ESIEE-Paris, amphithéâtre 110
-- Durée : ±1h + questions/réponses autour des problématique abordées
+-   Jeudi 1er février 2007
+-   14h à l'ESIEE-Paris, amphithéâtre 110
+-   Durée : ±1h + questions/réponses autour des problématique abordées
 
 N'hésitez pas à me contacter pour me prévenir de votre présence !

@@ -4,7 +4,7 @@ i18n-key: where-is-the-western-wechat
 main_image: /assets/images/2017-06-20/touch.jpg
 canonical: 'https://blog.clever-age.com/fr/2017/06/20/ou-est-le-wechat-occidental/'
 tags:
-  - 'User eXperience'
+    - 'User eXperience'
 slug: ou-est-le-wechat-occidental
 ---
 
@@ -48,11 +48,15 @@ balbutiante, les normes de contrôle très réduites et les réglementations
 laxistes, quand elles existent (au contraire de l’Union Européenne, qui suis
 exactement le chemin inverse)[^rgdp].
 
-[^gf]: Dont nous parlions dans notre article
-  "[S'implanter en Chine : état des lieux](https://blog.clever-age.com/fr/2014/07/28/s-implanter-en-chine-etat-des-lieux/)".
+[^gf]:
 
-[^rgdp]: Nous en parlions plus en détails dans notre article
-  "[Réglement Général sur la Protection des Données Personnelles : petit guide pour les entreprises](https://blog.clever-age.com/fr/2017/04/04/reglement-general-sur-la-protection-des-donnees-personnel-petit-guide-pour-entreprises_rgpd/)".
+    Dont nous parlions dans notre article
+    "[S'implanter en Chine : état des lieux](https://blog.clever-age.com/fr/2014/07/28/s-implanter-en-chine-etat-des-lieux/)".
+
+[^rgdp]:
+
+    Nous en parlions plus en détails dans notre article
+    "[Réglement Général sur la Protection des Données Personnelles : petit guide pour les entreprises](https://blog.clever-age.com/fr/2017/04/04/reglement-general-sur-la-protection-des-donnees-personnel-petit-guide-pour-entreprises_rgpd/)".
 
 Autre élément de réponse : les barrières à l’entrée constituée par les App
 Store. Le système de rémunération applicatif d’Apple, mis en place il y a près
@@ -112,12 +116,12 @@ de Twitter qui n'a pas grand-chose à envier à l'application native).
 Même en prenant en compte ces possibilités, la disparition des App Stores
 poserait encore certains problèmes :
 
-- disparition de la "présence de marque", c’est-à-dire de la capacité pour les
-  utilisateurs de retrouver leurs marques préférées dans un annuaire de services
-  ;
-- absence d’un module applicatif donnant les mêmes capacités de paiement à une
-  <abbr lang="en" title="Progressive Web App">PWA</abbr> que ce qu’on trouve sur
-  un App Store.
+-   disparition de la "présence de marque", c’est-à-dire de la capacité pour les
+    utilisateurs de retrouver leurs marques préférées dans un annuaire de
+    services ;
+-   absence d’un module applicatif donnant les mêmes capacités de paiement à une
+    <abbr lang="en" title="Progressive Web App">PWA</abbr> que ce qu’on trouve
+    sur un App Store.
 
 Rien de plus facile, pour Apple ou Google, que de transformer leurs annuaires
 applicatifs en annuaire de
@@ -188,8 +192,10 @@ Autant d'indices concordant laissant à penser que les
 <abbr lang="en" title="Progressive Web Apps">PWA</abbr> s’intégreront
 progressivement à l'offre applicative de Google Play.
 
-[^amp]: Lire à ce sujet :
-  "[AMP Project booste le chargement des pages web](https://blog.clever-age.com/fr/2016/02/08/amp-project-booste-le-chargement-des-pages-web/)"
+[^amp]:
+
+    Lire à ce sujet :
+    "[AMP Project booste le chargement des pages web](https://blog.clever-age.com/fr/2016/02/08/amp-project-booste-le-chargement-des-pages-web/)"
 
 ## TL;DR : Google est sur les rails, et il va vite
 

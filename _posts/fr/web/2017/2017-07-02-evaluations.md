@@ -17,23 +17,23 @@ Quelle que soit la taille de la classe (de 8 à 40 élèves), le type de cursus 
 temps plein ou en alternance) ou l'année d'enseignement (de BAC+1 à BAC+5 ou
 auprès de professionnels en formation continue) :
 
-- même si on veut tous être
-  [Robin Williams](https://www.youtube.com/watch?v=4lj185DaZ_o), il est
-  difficile de se passer de réaliser un enseignement classique avec des cours
-  magistraux ;
-- les élèves ne sont souvent pas, ou mal, formé·e·s à la prise de notes. Elles
-  et ils **se dispersent très vite** sur les réseaux sociaux si on leur en
-  laisse l'occasion ;
-- être né·e·s avec Internet ne signifie pas savoir s'en servir, ou avoir le
-  recul pour
-  [comprendre et mettre en perspective ce qu'on y lit](/2016/11/infobesite-et-rebellion/).
-  Il faut donc **reprendre tout ce qu'on considère soi-même comme une base** ;
-- le cours et les exercices ne suffisent pas : **les élèves ont besoin de
-  supports**. Adrien fournit son cours. Je le fais aussi, a posteriori, en
-  ligne. Je me rends compte, cependant, que la plupart du temps ce sont les
-  supports de TD qui sont les plus demandés. Les élèves sont parfois d'apprentis
-  artisans : elles et ils ont besoin de répéter pour **acquérir la mémoire du
-  geste**.
+-   même si on veut tous être
+    [Robin Williams](https://www.youtube.com/watch?v=4lj185DaZ_o), il est
+    difficile de se passer de réaliser un enseignement classique avec des cours
+    magistraux ;
+-   les élèves ne sont souvent pas, ou mal, formé·e·s à la prise de notes. Elles
+    et ils **se dispersent très vite** sur les réseaux sociaux si on leur en
+    laisse l'occasion ;
+-   être né·e·s avec Internet ne signifie pas savoir s'en servir, ou avoir le
+    recul pour
+    [comprendre et mettre en perspective ce qu'on y lit](/2016/11/infobesite-et-rebellion/).
+    Il faut donc **reprendre tout ce qu'on considère soi-même comme une base** ;
+-   le cours et les exercices ne suffisent pas : **les élèves ont besoin de
+    supports**. Adrien fournit son cours. Je le fais aussi, a posteriori, en
+    ligne. Je me rends compte, cependant, que la plupart du temps ce sont les
+    supports de TD qui sont les plus demandés. Les élèves sont parfois
+    d'apprentis artisans : elles et ils ont besoin de répéter pour **acquérir la
+    mémoire du geste**.
 
 ## Mes expériences
 
@@ -54,10 +54,10 @@ heures").
 
 ### Des QCM "rigoureux"
 
-- succès binaire (pas de ½ ou ¼ de points) ;
-- des questions liées entre elles (si l'élève ratait une question mais en
-  réussissait une autre sur le même sujet, je ne mettais aucun point,
-  considérant qu'il s'agissait de chance)
+-   succès binaire (pas de ½ ou ¼ de points) ;
+-   des questions liées entre elles (si l'élève ratait une question mais en
+    réussissait une autre sur le même sujet, je ne mettais aucun point,
+    considérant qu'il s'agissait de chance)
 
 C'était le type de questionnaires avec lesquels j'avais été moi-même formé en
 cursus d'ingénieur
@@ -72,21 +72,23 @@ contribué sur [Traindrop](https://traindrop.github.io/). Le résultat ne m'a pa
 satisfait : les disparités entre les élèves ne représentaient pas leur niveau
 mais plutôt :
 
-- leur disponibilité : les élèves occupés par une activité autre (par exemple,
-  de l'entrepreunariat pour payer l'École ou leur loyer) n'avaient pas autant de
-  temps à consacrer au projet ;
-- leur capacité à s'organiser en groupes sociaux : les élèves constitués en
-  groupes soudés s'échangaient les réponses (ce qui était assez facile à voir
-  une fois leur code passé dans mon Sonar[^sonar]). Les élèves plus isolés
-  n'avaient pas accès au même niveau d'informations. Ils trichaient moins mais
-  avançaient moins vite ;
-- collectivement : leur faible investissement sur le projet (parfois, même les
-  points vus en cours n'étaient pas traités).
+-   leur disponibilité : les élèves occupés par une activité autre (par exemple,
+    de l'entrepreunariat pour payer l'École ou leur loyer) n'avaient pas autant
+    de temps à consacrer au projet ;
+-   leur capacité à s'organiser en groupes sociaux : les élèves constitués en
+    groupes soudés s'échangaient les réponses (ce qui était assez facile à voir
+    une fois leur code passé dans mon Sonar[^sonar]). Les élèves plus isolés
+    n'avaient pas accès au même niveau d'informations. Ils trichaient moins mais
+    avançaient moins vite ;
+-   collectivement : leur faible investissement sur le projet (parfois, même les
+    points vus en cours n'étaient pas traités).
 
-[^sonar]: [SonarQube](https://www.sonarqube.org/) est un outil d'inspection continue de
-  la qualité de code. Je m'en sers surtout pour sa fonctionnalité de détection
-  de code dupliqué, qui permet de découvrir assez rapidement les "petits
-  raccourcis" que prennent des étudiants en "s'empruntant" du code.
+[^sonar]:
+
+    [SonarQube](https://www.sonarqube.org/) est un outil d'inspection continue
+    de la qualité de code. Je m'en sers surtout pour sa fonctionnalité de
+    détection de code dupliqué, qui permet de découvrir assez rapidement les
+    "petits raccourcis" que prennent des étudiants en "s'empruntant" du code.
 
 ### Des rédactions (oui, oui)
 
@@ -117,9 +119,11 @@ réguliers. Google Forms[^alt] est très pratique pour ça, puisque depuis cette
 année, on peut pré-affecter des points aux questions. La correction est ainsi
 immédiate.
 
-[^alt]: Je serais ravi d'utiliser un autre service que Google pour cet usage. Je
-  surveille les évolutions de [FramaForms](https://framaforms.org/) pour,
-  justement, me défaire de cette dépendance.
+[^alt]:
+
+    Je serais ravi d'utiliser un autre service que Google pour cet usage. Je
+    surveille les évolutions de [FramaForms](https://framaforms.org/) pour,
+    justement, me défaire de cette dépendance.
 
 Je demande aux élèves de pratiquer une veille sur le sujet en cours. Je leur
 impose **un ou plusieurs oraux "de veille"**. Elles et ils doivent choisir une

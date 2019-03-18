@@ -1,7 +1,7 @@
 ---
 title: '[PS3] Heavy Rain'
 tags:
-  - 'Jeu Video'
+    - 'Jeu Video'
 ---
 
 Heavy Rain est une exclusivité PS3 réalisée par Quantic Dream, studio à

@@ -1,8 +1,8 @@
 ---
 title: 'Elections présidentielles 2007 #1'
 tags:
-  - Débat
-  - Présidentielles
+    - Débat
+    - Présidentielles
 ---
 
 Je suis revenu du travail vers 20h, pour être sûr de ne pas rater le débat

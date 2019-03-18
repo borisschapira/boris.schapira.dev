@@ -114,9 +114,9 @@ site. This means that if version B does not fulfill expectations, the impact on
 business will be limited. Matthew realizes that, under the guise of objectivity,
 the team has made a number of highly subjective choices:
 
-- the nature of the test itself;
-- the way of measuring how successful each version is;
-- the way in which visitors are sorted and distributed.
+-   the nature of the test itself;
+-   the way of measuring how successful each version is;
+-   the way in which visitors are sorted and distributed.
 
 In the end, A/B testing is not that easy. Oh well, too late to stop now!
 
@@ -205,9 +205,10 @@ Unfortunately, this request adds to the pile of other requests, some of which
 actually concern similar pages. Potentially, users could unknowingly undergo
 several A/B tests within a single page. On the product page, for example:
 
-- one A/B test relating to the font for the product name;
-- one A/B test relating to the call-to-action text for the add-to-cart feature;
-- one last test that would influence the real-time display of product data.
+-   one A/B test relating to the font for the product name;
+-   one A/B test relating to the call-to-action text for the add-to-cart
+    feature;
+-   one last test that would influence the real-time display of product data.
 
 While it is technically possible (by stretching the concepts that are already in
 place for single tests), this multivariate analysis does raise the issue of the
@@ -215,9 +216,9 @@ increasing complexity of statistical analysis, which was already a delicate
 task. Because with all these tests, the number of versions of the site increases
 exceedingly fast. Matthew is now in charge of:
 
-- one A/B/C split test on the home page;
-- three A/B tests on the product page;
-- one A/B test involving a variation of the navigation structure...
+-   one A/B/C split test on the home page;
+-   three A/B tests on the product page;
+-   one A/B test involving a variation of the navigation structure...
 
 ... this means 18 different possible combinations for each visitor and a
 significant increase in maintenance costs (because now, to reproduce a bug you
@@ -235,19 +236,19 @@ campaigns and end them once a meaningful result has been obtained. Unfortunately
 it is very difficult to determine the value of a solution over another, since
 each of them seems to be adapted to a particular need:
 
-- For commercial teams, some solutions come on top of the Front End to modify
-  the page viewed by the customer on the fly. The concept seems appealing at
-  first, but users sometimes end up experiencing slowdowns, page flashes and
-  even, in the most extreme cases, SPOF situations (Single Point of Failure: a
-  situation in which the site relies heavily on one or more external resources;
-  if these resources are not available or a technical problem makes it
-  impossible to access them from the client — network problem, unreliable
-  gateways — then the page can no longer be viewed);
-- other more "injection-oriented" solutions make it possible to easily create
-  switches between multiple software architectures;
-- finally, other solutions make it possible to quickly switch from one
-  architecture to another, but they introduce additional gateways into the
-  system, leading to increased risks and decreased performance.
+-   For commercial teams, some solutions come on top of the Front End to modify
+    the page viewed by the customer on the fly. The concept seems appealing at
+    first, but users sometimes end up experiencing slowdowns, page flashes and
+    even, in the most extreme cases, SPOF situations (Single Point of Failure: a
+    situation in which the site relies heavily on one or more external
+    resources; if these resources are not available or a technical problem makes
+    it impossible to access them from the client — network problem, unreliable
+    gateways — then the page can no longer be viewed);
+-   other more "injection-oriented" solutions make it possible to easily create
+    switches between multiple software architectures;
+-   finally, other solutions make it possible to quickly switch from one
+    architecture to another, but they introduce additional gateways into the
+    system, leading to increased risks and decreased performance.
 
 So Matthew knows that he will need to do some more research on these products
 and select the best solution to address the issues he faces. But beyond that, he
@@ -289,21 +290,21 @@ interactive medium. Promoting A/B testing is certainly a good thing... as long
 as you ask professionals to help you understand how to interpret their results!
 In addition, there are a number of other obvious limitations:
 
-- A/B testing knows nothing about your visitors. It does not know whether they
-  are old, young, tech-savvy, loyal... yet different profiles can have entirely
-  different behaviors and decision-making processes, and you will only get an
-  overall view of this. You will need to complete your A/B testing system with a
-  quality analytics tool or a tracker, allowing you to properly segment feedback
-  from these different types of visitors;
-- Running an extravagant number of multivariate analyses requires an increasing
-  amount of visitors: for this reason, it is not possible to "test everything"
-  in the hope of finding the right formula, especially considering that
-  calculating the conversion rate is probably more complex than simply adding up
-  all scenarios;
-- A/B testing is a short-termist solution that does not take into account the
-  learning curve of your visitors. Therefore it does not have the same relevance
-  for mass retailers and for companies with sophisticated products and a
-  thoroughly planned sales process.
+-   A/B testing knows nothing about your visitors. It does not know whether they
+    are old, young, tech-savvy, loyal... yet different profiles can have
+    entirely different behaviors and decision-making processes, and you will
+    only get an overall view of this. You will need to complete your A/B testing
+    system with a quality analytics tool or a tracker, allowing you to properly
+    segment feedback from these different types of visitors;
+-   Running an extravagant number of multivariate analyses requires an
+    increasing amount of visitors: for this reason, it is not possible to "test
+    everything" in the hope of finding the right formula, especially considering
+    that calculating the conversion rate is probably more complex than simply
+    adding up all scenarios;
+-   A/B testing is a short-termist solution that does not take into account the
+    learning curve of your visitors. Therefore it does not have the same
+    relevance for mass retailers and for companies with sophisticated products
+    and a thoroughly planned sales process.
 
 ## A/B Testing, in the end
 

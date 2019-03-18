@@ -1,7 +1,7 @@
 ---
 title: 'Découvrez et formez-vous avec le Coach C#'
 tags:
-  - .NET
+    - .NET
 ---
 
 Source&nbsp;:

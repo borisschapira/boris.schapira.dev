@@ -1,9 +1,9 @@
 ---
 title: 'Patchs pré-SP1 pour Vista disponibles'
 tags:
-  - Technologie
-  - Compatibilité
-  - 'Windows Vista'
+    - Technologie
+    - Compatibilité
+    - 'Windows Vista'
 ---
 
 Deux patchs pour Vista font la une des buzz autour du dernier né des Windows car

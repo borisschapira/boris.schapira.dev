@@ -1,8 +1,8 @@
 ---
 title: 'Supermarchés : une grande supercherie ?'
 tags:
-  - Société
-  - "Billet d'humeur"
+    - Société
+    - "Billet d'humeur"
 ---
 
 Je voudrais bien qu'on m'explique une chose&nbsp;: comment certaines grandes

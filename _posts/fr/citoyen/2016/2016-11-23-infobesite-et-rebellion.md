@@ -1,7 +1,7 @@
 ---
 title: 'Infobésité et rébellion'
 tags:
-  - Éducation
+    - Éducation
 ---
 
 Trois lectures qui se font écho et rappellent que seule l'éducation permet de se

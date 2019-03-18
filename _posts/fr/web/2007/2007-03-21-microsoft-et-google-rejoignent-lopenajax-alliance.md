@@ -1,7 +1,7 @@
 ---
 title: "Microsoft et Google rejoignent l'OpenAjax Alliance"
 tags:
-  - 'Open Source'
+    - 'Open Source'
 ---
 
 On parle beaucoup de "Web 2.0" dans les médias, et un des arguments mis en avant

@@ -3,8 +3,8 @@ title: 'Optimize your MP4 video for better performance'
 i18n-key: optimize-mp4
 canonical: 'https://blog.dareboost.com/en/2018/01/optimize-your-mp4-video-for-better-performance/'
 tags:
-  - 'Performance Web'
-  - Video
+    - 'Performance Web'
+    - Video
 cloudinary_logo: dareboost-logo
 slug: optimize-your-mp4-video-for-better-performance
 ---
@@ -242,13 +242,13 @@ as it is an explicit browser opt-in into a reduced data usage mode.
 
 ## TL;DR
 
-- **Reduce the weight of your files** by using optimization strategies that
-  depend on the content and purpose of your videos.
-- **Optimize streaming** by encoding your videos to serve metadata as soon as
-  possible.
-- **Propose alternatives to MP4**, such as WebM.
-- Be careful with autoplay, consider dedicated solutions for Full HD and don't
-  hesitate to hide videos when needed.
+-   **Reduce the weight of your files** by using optimization strategies that
+    depend on the content and purpose of your videos.
+-   **Optimize streaming** by encoding your videos to serve metadata as soon as
+    possible.
+-   **Propose alternatives to MP4**, such as WebM.
+-   Be careful with autoplay, consider dedicated solutions for Full HD and don't
+    hesitate to hide videos when needed.
 
 ---
 

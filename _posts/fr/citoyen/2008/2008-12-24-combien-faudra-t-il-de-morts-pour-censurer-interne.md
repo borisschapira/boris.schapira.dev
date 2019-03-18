@@ -1,9 +1,9 @@
 ---
 title: 'Combien faudra-t-il de morts pour censurer Internet…'
 tags:
-  - Numérique
-  - Publicité
-  - Web
+    - Numérique
+    - Publicité
+    - Web
 slug: combien-faudra-t-il-de-morts-pour-censurer-internet
 ---
 

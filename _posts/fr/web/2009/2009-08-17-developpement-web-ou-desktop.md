@@ -1,8 +1,8 @@
 ---
 title: 'Développement Web ou Desktop ?'
 tags:
-  - Développement
-  - Web
+    - Développement
+    - Web
 ---
 
 C'est le grand débat qui anime les communauté de développeurs depuis plusieurs

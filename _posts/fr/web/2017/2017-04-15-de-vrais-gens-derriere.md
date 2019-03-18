@@ -1,7 +1,7 @@
 ---
 title: 'De vrais gens, derrière'
 tags:
-  - anecdotes
+    - anecdotes
 ---
 
 Il y a parfois des souvenirs, des échanges, qui font de vous le professionnel

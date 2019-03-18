@@ -1,8 +1,8 @@
 ---
 title: 'Stage «&#160;Développeur&#160;» : 7 conseils pour améliorer votre CV'
 tags:
-  - Emploi
-  - 'Trouver un stage ou une alternance'
+    - Emploi
+    - 'Trouver un stage ou une alternance'
 ---
 
 1.  Privil&#233;giez les **en-t&#234;tes concis et lisible**. N'&#233;crivez pas

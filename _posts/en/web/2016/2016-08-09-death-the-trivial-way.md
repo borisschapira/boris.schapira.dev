@@ -2,7 +2,7 @@
 title: 'Death: the trivial way'
 i18n-key: death-the-trivial-way
 tags:
-  - 'Intelligence Artificielle'
+    - 'Intelligence Artificielle'
 ---
 
 > On the one hand, it’s possible we’ll develop ASI that’s like a god in a box,

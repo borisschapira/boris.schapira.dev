@@ -1,9 +1,9 @@
 ---
 title: 'SharePoint : petite explication'
 tags:
-  - Technologie
-  - 'Microsoft Office'
-  - Sharepoint
+    - Technologie
+    - 'Microsoft Office'
+    - Sharepoint
 ---
 
 J'avais promis de rédiger un article de présentation de SharePoint, le voici.
@@ -14,11 +14,11 @@ vaste et complète. Pour faire simple, voici les grandes lignes.
 SharePoint est une solution de gestion de contenu collaborative qui se décline
 en deux versions&nbsp;:
 
-- WSS (Windows SharePoint Services), version gratuite mais fonctionnellement
-  limitée.
-- MOSS (Microsoft Office SharePoint Server), ajoute à WSS des fonctionnalités
-  avancées de Business Intelligence, de Collaboration, de gestion de Portail, de
-  sauvegardes légales, et de processus métiers.
+-   WSS (Windows SharePoint Services), version gratuite mais fonctionnellement
+    limitée.
+-   MOSS (Microsoft Office SharePoint Server), ajoute à WSS des fonctionnalités
+    avancées de Business Intelligence, de Collaboration, de gestion de Portail,
+    de sauvegardes légales, et de processus métiers.
 
 SharePoint est une solution qui permet de créer, pour les collaborateurs de
 l'entreprise, un environnement de travail collaboratif permettant la gestion de
@@ -31,17 +31,17 @@ La gestion de contenu, dans SharePoint, s'étend à de nombreux types de donnée
 Du calendrier collaboratif à la publication de document, SharePoint permet aux
 collaborateurs de&nbsp;:
 
-- Stocker des documents personnels ou d'équipe et les partager
-- Créer des blogs, des sites personnels ou d'équipe et gérer le contenu s'y
-  liant&nbsp;: calendriers, documents, t&acirc;ches, liens, images
-- Alimenter des bases de connaissances (KB) collaborative (de type Wiki)
-- Rechercher des personnes
-- Gérer les étapes de vie des documents stockés (durée de disponibilité,
-  processus légaux de conservation)
-- Créer des formulaires intégrés à l'interface
-- Lier des publications et des formulaires avec des données issues de bases de
-  données Microsoft (SQL Server) ou non (SAP, Siebel) via le BDC (Business Data
-  Catalog)
+-   Stocker des documents personnels ou d'équipe et les partager
+-   Créer des blogs, des sites personnels ou d'équipe et gérer le contenu s'y
+    liant&nbsp;: calendriers, documents, t&acirc;ches, liens, images
+-   Alimenter des bases de connaissances (KB) collaborative (de type Wiki)
+-   Rechercher des personnes
+-   Gérer les étapes de vie des documents stockés (durée de disponibilité,
+    processus légaux de conservation)
+-   Créer des formulaires intégrés à l'interface
+-   Lier des publications et des formulaires avec des données issues de bases de
+    données Microsoft (SQL Server) ou non (SAP, Siebel) via le BDC (Business
+    Data Catalog)
 
 En plus de pouvoir gérer les documents produits avec Microsoft Office 2007,
 SharePoint et la suite bureautique s'intègrent mutuellement. Les utilisateurs

@@ -1,7 +1,7 @@
 ---
 title: 'Dangers du Net : les logiciels espions'
 tags:
-  - Vulgarisation
+    - Vulgarisation
 series: 'Dangers du Net'
 ---
 

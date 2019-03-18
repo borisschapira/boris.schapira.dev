@@ -1,9 +1,9 @@
 ---
 title: 'Il faut repenser Windows'
 tags:
-  - Outils
+    - Outils
 series:
-  - 'Windows Phone'
+    - 'Windows Phone'
 canonical: 'https://blog.clever-age.com/fr/2013/05/14/il-faut-repenser-windows/'
 ---
 

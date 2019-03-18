@@ -1,8 +1,8 @@
 ---
 title: 'Vagrant, Windows et NFS'
 tags:
-  - Outils
-  - Windows
+    - Outils
+    - Windows
 ---
 
 Si vous développez avec Vagrant sous Windows, vous avez probablement déjà vu ce

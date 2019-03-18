@@ -1,8 +1,8 @@
 ---
 title:
-  'Changement de statut de la Poste : des craintes plus ou moins justifiées'
+    'Changement de statut de la Poste : des craintes plus ou moins justifiées'
 tags:
-  - France
+    - France
 slug: changement-de-statut-de-la-poste-des-craintes-plus-ou-moins-justifiees
 ---
 

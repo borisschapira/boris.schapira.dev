@@ -1,10 +1,10 @@
 ---
 title: "Chromium : l'âge adulte"
 tags:
-  - Technologie
-  - Google
-  - Navigateurs
-  - Web
+    - Technologie
+    - Google
+    - Navigateurs
+    - Web
 ---
 
 A la maison, ma femme et moi avons une règle&nbsp;: je peux bidouiller ce que je

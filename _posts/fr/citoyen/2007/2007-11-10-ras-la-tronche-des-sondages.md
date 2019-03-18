@@ -1,8 +1,8 @@
 ---
 title: 'Ras la tronche des sondages'
 tags:
-  - Société
-  - France
+    - Société
+    - France
 ---
 
 C'est un peu mon sujet récurrent du moment mais pour une fois ce n'est pas ma

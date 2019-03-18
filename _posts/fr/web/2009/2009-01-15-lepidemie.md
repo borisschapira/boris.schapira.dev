@@ -1,8 +1,8 @@
 ---
 title: "L'épidémie"
 tags:
-  - Finance
-  - Économie
+    - Finance
+    - Économie
 ---
 
 Le problème a été découvert sur le tard, beaucoup étaient déjà atteints. Les

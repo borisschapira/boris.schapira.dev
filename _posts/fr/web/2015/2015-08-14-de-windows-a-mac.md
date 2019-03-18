@@ -1,9 +1,9 @@
 ---
 title: 'De Windows à Mac'
 tags:
-  - 'Me, myself and I'
-  - Outils
-  - Productivité
+    - 'Me, myself and I'
+    - Outils
+    - Productivité
 ---
 
 J'ai récemment migré mon environnement de travail de Windows à Mac OS X. De

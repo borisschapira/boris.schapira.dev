@@ -1,10 +1,10 @@
 ---
 title: 'Gérer ses dépendances avec Bower ?'
 tags:
-  - Front-End
-  - Outils
+    - Front-End
+    - Outils
 series:
-  - 'Industrialisation du Front-End'
+    - 'Industrialisation du Front-End'
 canonical: 'https://blog.clever-age.com/fr/2015/06/29/gerer-ses-dependances-avec-bower/'
 subtitle: Un besoin d’industrialisation
 ---

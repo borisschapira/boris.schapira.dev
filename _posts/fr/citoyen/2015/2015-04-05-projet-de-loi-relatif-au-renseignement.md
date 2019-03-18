@@ -1,9 +1,9 @@
 ---
 title: '«&#160;Projet de Loi relatif au renseignement&#160;»'
 tags:
-  - Numérique
+    - Numérique
 series:
-  - 'Loi Renseignement'
+    - 'Loi Renseignement'
 ---
 
 Ce projet m'inquiète pour de nombreuses raisons qui se résument rapidement
@@ -25,11 +25,11 @@ Je ne suis pas le seul à craindre ce texte.
 La liste des opposants est longue, dont des gens qui savent _a priori_ de quoi
 ils parlent&nbsp;:
 
-- le Conseil National du Numérique ;
-- le Syndicat de la Magistrature ;
-- la Commission Nationale Consultative des Droits de l'Homme ;
-- la Commission Nationale de l'Information et des Libertés ;
-- la Commission Nationale de Contrôle des Interceptions de Sécurité…
+-   le Conseil National du Numérique ;
+-   le Syndicat de la Magistrature ;
+-   la Commission Nationale Consultative des Droits de l'Homme ;
+-   la Commission Nationale de l'Information et des Libertés ;
+-   la Commission Nationale de Contrôle des Interceptions de Sécurité…
 
 Pour autant, nos députés sont-ils stupides ou mal renseignés&nbsp;? Bien sûr que
 non. Nous ignorent-ils&nbsp;? Je ne le pense pas. En réalité, **nous sommes dans

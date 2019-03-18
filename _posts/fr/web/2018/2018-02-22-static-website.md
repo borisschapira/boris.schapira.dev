@@ -1,11 +1,11 @@
 ---
 title:
-  'Meilleure UX, meilleures performances : la nouvelle donne du web statique'
+    'Meilleure UX, meilleures performances : la nouvelle donne du web statique'
 i18n-key: static-website
 canonical: 'https://blog.dareboost.com/fr/2018/02/site-statique-performance-web/'
 tags:
-  - 'Performance Web'
-  - JAMStack
+    - 'Performance Web'
+    - JAMStack
 loadTwitterWjs: true
 cloudinary_logo: dareboost-logo
 slug: site-statique-performance-web
@@ -142,11 +142,11 @@ seulement pour stocker et exposer les données. On les appelle les CMS Headless.
 
 Un CMS Headless est constitué :
 
-> - d’un système de stockage de données ;
-> - d’une interface CRUD ;
-> - d’une API pour accéder au données.
->   <cite>"[What is a Headless CMS? (EN)](https://css-tricks.com/what-is-a-headless-cms/)",
->   Chris Coyier</cite>
+> -   d’un système de stockage de données ;
+> -   d’une interface CRUD ;
+> -   d’une API pour accéder au données.
+>     <cite>"[What is a Headless CMS? (EN)](https://css-tricks.com/what-is-a-headless-cms/)",
+>     Chris Coyier</cite>
 
 Et vous pouvez fabriquer des CMS Headless à partir de vos solutions habituelles.
 Wordpress, par exemple, a une [API REST](http://v2.wp-api.org/). Côté Drupal, il
@@ -375,7 +375,7 @@ conseils._
 
 ## Ressources additionnelles
 
-- "[Why Static Site Generators Are The Next Big Thing (EN)](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)",
-  Matt Biilmann
-- "[Contentful n'est pas un CMS](https://bertrandkeller.info/2018/01/30/contentful-pas-un-cms/)",
-  Michelle Gienow, adapté par Bertrand Keller
+-   "[Why Static Site Generators Are The Next Big Thing (EN)](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)",
+    Matt Biilmann
+-   "[Contentful n'est pas un CMS](https://bertrandkeller.info/2018/01/30/contentful-pas-un-cms/)",
+    Michelle Gienow, adapté par Bertrand Keller

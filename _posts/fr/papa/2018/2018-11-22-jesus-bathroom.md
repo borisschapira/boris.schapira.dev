@@ -11,11 +11,14 @@ nous permet de comprendre ce qu'ils retiennent de la façon dont on les éduque 
 <!-- more -->
 
 > – Il y a une dame, à la garderie, qui dit que la pluie, c'est Jésus qui prend
-> sa douche. – Il doit pas être content, Dieu. – Ah oui, parce que si l'eau
-> tombe par terre, c'est que Jésus en met partout. Et son Papa doit être fâché.
-> – Tu crois qu'il se fait gronder, Jésus ? – C'est pas obligé. S'il sait que
-> c'est la salle de bain de toute la famille, alors il est un gentil garçon et
-> il nettoie après. – Ah ben oui. Et quand ça brille, ça fait des arcs en ciel !
+> sa douche.  
+> – Il doit pas être content, Dieu.  
+> – Ah oui, parce que si l'eau tombe par terre, c'est que Jésus en met partout.
+> Et son Papa doit être fâché.  
+> – Tu crois qu'il se fait gronder, Jésus ?  
+> – C'est pas obligé. S'il sait que c'est la salle de bain de toute la famille,
+> alors il est un gentil garçon et il nettoie après.  
+> – Ah ben oui. Et quand ça brille, ça fait des arcs en ciel !
 
 {% capture alt_text%}Un homme danse en nettoyant sa salle de
 bain.{% endcapture %} {% capture caption_text%}J'ai dû raté le "miracle de la

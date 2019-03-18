@@ -11,7 +11,8 @@ Le petit se jette dans ses bras :
 > – Ça va, Maman ?  
 > – Oui, oui.  
 > – Tu n'as rien ?  
-> – Non. – Alors ne soit pas triste, Maman. Tu sais, c'est juste un objet. Nous,
-> on est là !
+> – Non.  
+> – Alors ne soit pas triste, Maman. Tu sais, c'est juste un objet. Nous, on est
+> là !
 
 Je ne sais pas s'il se rappellera un jour d'à quel point elle l'a serré fort.

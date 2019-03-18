@@ -8,12 +8,15 @@ Le petit, 5 ans 1/2, a voulu l'accompagner.
 
 <!-- more -->
 
-> – Alors, c'était comment le cours de danse avec Maman ? – C'était trop bien,
-> j'ai appris à faire ça, et ça, et puis ça… bon pas ça, parce que c'est un peu
-> dur… – Vous êtes restés tard ; vous avez mangé, un peu ? – Oui ! On a mangé
-> des chocolats, des caramels, des bonbons, et même des petits chiens morts ! –
-> Des chiens morts ? – Oui, que t'as dit l'autre jour que c'était ça. Les petits
-> sandwich à la saucisse !
+> – Alors, c'était comment le cours de danse avec Maman ?  
+> – C'était trop bien, j'ai appris à faire ça, et ça, et puis ça… bon pas ça,
+> parce que c'est un peu dur…  
+> – Vous êtes restés tard ; vous avez mangé, un peu ?  
+> – Oui ! On a mangé des chocolats, des caramels, des bonbons, et même des
+> petits chiens morts !  
+> – Des chiens morts ?  
+> – Oui, que t'as dit l'autre jour que c'était ça. Les petits sandwich à la
+> saucisse !
 
 {% capture alt_text%}Denzel Washington est soulagé.{% endcapture %}
 {% include video_as_a_gif.html.liquid

@@ -1,7 +1,7 @@
 ---
 title: "Mon propre guide d'écriture inclusive"
 tags:
-  - guide
+    - guide
 ---
 
 Cet article me servira de note à moi-même ou d'explication vers laquelle pointer
@@ -9,16 +9,17 @@ si j'ai besoin d'expliquer ma façon de procéder.
 
 <!-- more -->
 
-- Lorsque le masculin et le féminin sont présents, les ordonner selon l'ordre
-  alphabétique "l'égalité femmes-hommes".
-- Utiliser l'accord de proximité : "les auditeurs et les auditrices ont été
-  appelées à s'exprimer".
-- Exprimer tous les mots s'ils ont plus d'une ou deux lettres de différences, le
-  [point médian](https://fr.m.wikipedia.org/wiki/Point_médian#Saisie_au_clavier)
-  sinon : "les acteurs et les actrices" ; les "salarié·e·s".
-- Utiliser "humains" plutôt que "Hommes" pour désigner l'humanité ; utiliser
-  "les femmes" plutôt que "la femme" pour parler des femmes autrement que dans
-  leurs sensualités.
+-   Lorsque le masculin et le féminin sont présents, les ordonner selon l'ordre
+    alphabétique "l'égalité femmes-hommes".
+-   Utiliser l'accord de proximité : "les auditeurs et les auditrices ont été
+    appelées à s'exprimer".
+-   Exprimer tous les mots s'ils ont plus d'une ou deux lettres de différences,
+    le
+    [point médian](https://fr.m.wikipedia.org/wiki/Point_médian#Saisie_au_clavier)
+    sinon : "les acteurs et les actrices" ; les "salarié·e·s".
+-   Utiliser "humains" plutôt que "Hommes" pour désigner l'humanité ; utiliser
+    "les femmes" plutôt que "la femme" pour parler des femmes autrement que dans
+    leurs sensualités.
 
 ---
 

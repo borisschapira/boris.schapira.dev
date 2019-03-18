@@ -1,11 +1,11 @@
 ---
 title: 'Un(e) journaliste indélicat(e) du Monde ne vérifie pas ses infos'
 tags:
-  - Technologie
-  - "Billet d'humeur"
-  - Etudiants
-  - Microsoft
-  - MSP
+    - Technologie
+    - "Billet d'humeur"
+    - Etudiants
+    - Microsoft
+    - MSP
 slug: une-journaliste-indlicat-du-monde-ne-vrifie-pas-ses-infos
 ---
 

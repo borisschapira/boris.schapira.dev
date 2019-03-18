@@ -1,8 +1,8 @@
 ---
 title: '[Test] Microsoft Wireless Mobile Mouse 6000'
 tags:
-  - Hardware
-  - Test
+    - Hardware
+    - Test
 ---
 
 {% capture img_alt %}Photos de la souris sous toutes les

@@ -1,11 +1,11 @@
 ---
 title: 'Convenances et bonnes manières'
 tags:
-  - HeForShe
-  - Égalité
-  - Humour
-  - Insolite
-  - Société
+    - HeForShe
+    - Égalité
+    - Humour
+    - Insolite
+    - Société
 ---
 
 En visite chez mon grand-père, je suis tombé sur un ouvrage de sa bibliothèque

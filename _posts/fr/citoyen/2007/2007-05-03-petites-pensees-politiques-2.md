@@ -1,9 +1,9 @@
 ---
 title: 'Elections présidentielles 2007 #2'
 tags:
-  - Débat
-  - IPol
-  - Présidentielles
+    - Débat
+    - IPol
+    - Présidentielles
 ---
 
 Je regarde les commentaires du matin sur les chaines d'info de la Freebox.

@@ -1,7 +1,7 @@
 ---
 title: 'Achetez français'
 tags:
-  - Économie
+    - Économie
 ---
 
 Le principe de la relance par la demande, façon Keynes, c'est une solution parmi

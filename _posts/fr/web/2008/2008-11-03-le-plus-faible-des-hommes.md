@@ -1,8 +1,8 @@
 ---
 title: 'Le plus faible des hommes'
 tags:
-  - 'Me, myself and I'
-  - Mariage
+    - 'Me, myself and I'
+    - Mariage
 ---
 
 Les films mentent. Le moment parfait ne vient jamais tout seul. Les mots les

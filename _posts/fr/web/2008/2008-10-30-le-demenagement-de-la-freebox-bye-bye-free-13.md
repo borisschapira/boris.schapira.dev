@@ -1,10 +1,10 @@
 ---
 title: 'Le déménagement de la Freebox (Bye-bye Free 1/3)'
 tags:
-  - Boulogne
-  - FAI
-  - Free
-  - 'Me, myself and I'
+    - Boulogne
+    - FAI
+    - Free
+    - 'Me, myself and I'
 ---
 
 Mon histoire avec **Free** est aussi longue que ma relation au **Web**. Free m'a

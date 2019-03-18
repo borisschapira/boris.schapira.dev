@@ -1,9 +1,9 @@
 ---
 title: 'Microsoft Arc Mouse, avis personnel'
 tags:
-  - Technologie
-  - Souris
-  - Test
+    - Technologie
+    - Souris
+    - Test
 ---
 
 J'ai reçu, il y a quelques jours, un proposition de [Heaven](http://heaven.fr/)

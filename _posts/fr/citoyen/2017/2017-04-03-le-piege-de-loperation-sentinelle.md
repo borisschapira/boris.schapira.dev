@@ -1,9 +1,9 @@
 ---
 title: "Le piège de l'opération Sentinelle"
 tags:
-  - Police
-  - Armée
-  - "État d'Urgence"
+    - Police
+    - Armée
+    - "État d'Urgence"
 ---
 
 Dans le

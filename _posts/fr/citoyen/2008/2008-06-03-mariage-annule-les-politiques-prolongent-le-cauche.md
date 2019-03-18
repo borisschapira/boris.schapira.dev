@@ -1,8 +1,8 @@
 ---
 title: 'Mariage annulé : les politiques prolongent le cauchemar de la mariée'
 tags:
-  - Justice
-  - Religion
+    - Justice
+    - Religion
 slug: mariage-annule-les-politiques-prolongent-le-cauchemar-de-la-mariee
 ---
 

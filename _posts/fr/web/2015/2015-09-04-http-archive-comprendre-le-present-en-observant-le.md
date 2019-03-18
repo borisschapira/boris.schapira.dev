@@ -1,8 +1,8 @@
 ---
 title: 'HTTP Archive : comprendre le présent en observant le passé'
 tags:
-  - Front-End
-  - 'Performance Web'
+    - Front-End
+    - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2015/09/04/http-archive-comprendre-le-present-en-observant-le-passe/'
 slug: http-archive-comprendre-le-present-en-observant-le-passe
 ---

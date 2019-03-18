@@ -1,8 +1,8 @@
 ---
 title: "Que vaut vraiment l'action Google ?"
 tags:
-  - Finance
-  - Google
+    - Finance
+    - Google
 ---
 
 On parle beaucoup du cours de l'action Google, qui avoisine dernièrement les 600

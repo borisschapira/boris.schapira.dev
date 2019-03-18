@@ -1,8 +1,8 @@
 ---
 title: 'Photos : merci'
 tags:
-  - 'Me, myself and I'
-  - Mariage
+    - 'Me, myself and I'
+    - Mariage
 ---
 
 Merci à Fernand Clavero pour ses photos fantastiques. Après divers rendez-vous,

@@ -1,7 +1,7 @@
 ---
 title: Résolutions
 tags:
-  - 'Me, myself & I'
+    - 'Me, myself & I'
 subtitle: Retour sur 2016
 ---
 
@@ -10,15 +10,15 @@ est temps de voir où j'en suis alors que 2017 <del>se profile</del> démarre.
 
 <!-- more -->
 
-- [Dégager plus de temps en dehors du travail](#temps)
-- [Formaliser mes processus](#formalisme)
-- [Mieux gérer mon énergie](#energie)
-- [Me tenir droit, mieux manger](#alimentation)
-- [Promouvoir l'égalité, lutter contre les inégalités](#egalite)
-  - [Le ménage devant ma porte](#biais)
-  - [En tant que citoyen](#politique)
-  - [Au travail aussi](#travail)
-  - [Dans mes échanges quotidiens](#echanges)
+-   [Dégager plus de temps en dehors du travail](#temps)
+-   [Formaliser mes processus](#formalisme)
+-   [Mieux gérer mon énergie](#energie)
+-   [Me tenir droit, mieux manger](#alimentation)
+-   [Promouvoir l'égalité, lutter contre les inégalités](#egalite)
+    -   [Le ménage devant ma porte](#biais)
+    -   [En tant que citoyen](#politique)
+    -   [Au travail aussi](#travail)
+    -   [Dans mes échanges quotidiens](#echanges)
 
 ## <span id="temps">Dégager plus de temps en dehors du travail</span>
 
@@ -36,8 +36,10 @@ et de la responsable RH, Hélène Gat. Leur réaction a été immédiatement pos
 et ils m'ont soutenu en me proposant un avenant à temps partiel (à 92%, pour
 être précis) ! Parfait !
 
-[^1]: J'ai donné des cours sur mes congés de salarié Clever Age pendant cinq
-  ans… vous connaissez le principe de la solution temporaire qui dure ?
+[^1]:
+
+    J'ai donné des cours sur mes congés de salarié Clever Age pendant cinq
+    ans… vous connaissez le principe de la solution temporaire qui dure ?
 
 Sauf que… l'idée de dégager du temps en dehors du travail était principalement
 motivée par mon envie de passer du temps avec mes garçons. Nous avons donc
@@ -51,8 +53,10 @@ le trajet. Le week-end, nous avons introduit davantage d'activités extérieures
 Enfin, nous avons supprimer les routines liées à la télévision[^2] et introduit
 à la place un rituel impliquant un long métrage en famille en fin de week-end.
 
-[^2]: Elle est toujours là mais ne sert qu'exceptionellement, et jamais pour les
-  programmes entrecoupés de publicité.
+[^2]:
+
+    Elle est toujours là mais ne sert qu'exceptionellement, et jamais pour les
+    programmes entrecoupés de publicité.
 
 **Constat : résolution tenue !**
 
@@ -174,8 +178,8 @@ d'humilité. Chaque navigation au clavier est un exercice de patience. Réaliser
 des audits complets sur le RGAA permet de se rendre compte du chemin à parcourir
 pour rendre le Web accessible à tous.
 
-[Passer la certification Opquast](/2016/05/un-retour-sur-opquast-certified/)
-m'a également permis de confirmer ce que je faisais depuis des années, à savoir
+[Passer la certification Opquast](/2016/05/un-retour-sur-opquast-certified/) m'a
+également permis de confirmer ce que je faisais depuis des années, à savoir
 regarder le Web par les yeux des utilisateurs qui ne le maitrisent pas, ou mal,
 et qui se retrouvent démunis face à des produits applicatifs mal pensés. Les
 différents audits réalisés dans l'année m'ont permis de mettre le doigt sur des

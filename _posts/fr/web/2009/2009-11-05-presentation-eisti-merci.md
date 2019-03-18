@@ -1,10 +1,10 @@
 ---
 title: 'Présentation EISTI - Merci'
 tags:
-  - Emploi
-  - Finance
-  - Éducation
-  - Nexeo
+    - Emploi
+    - Finance
+    - Éducation
+    - Nexeo
 ---
 
 Un billet rapide pour remercier les quelques étudiants des

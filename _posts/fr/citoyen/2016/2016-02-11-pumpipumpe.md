@@ -1,7 +1,7 @@
 ---
 title: Pumpipumpe
 tags:
-  - Collaboration
+    - Collaboration
 ---
 
 J'ai commandé des [Pumpipumpe](http://www.pumpipumpe.ch/ca-functionne-ainsi/),

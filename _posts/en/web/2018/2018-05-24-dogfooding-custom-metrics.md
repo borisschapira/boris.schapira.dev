@@ -3,8 +3,8 @@ title: '[Dogfooding] How Dareboost has benefited from Custom Timings monitoring'
 i18n-key: dogfooding-custom-metrics
 canonical: 'https://blog.dareboost.com/en/2018/05/dogfooding-dareboost-custom-timings/'
 tags:
-  - 'Performance Web'
-  - Metrics
+    - 'Performance Web'
+    - Metrics
 cloudinary_logo: dareboost-logo
 slug: dogfooding-dareboost-custom-timings
 ---
@@ -59,12 +59,13 @@ retrieve the user’s context.
 
 We decided to set up several Custom Timings:
 
-- When AngularJS begins its bootstrapping: `angular_boostrap_start`
-- When AngularJS is bootstrapped (and starts doing what we want him to do to
-  present Dareboost’s interface): `angular_boostrap_end`
-- When we ask Angular to fetch the current user’s context: `userinfo_xhr_start`
-- When the context is effectively recovered: `userinfo_xhr_stop`
-- When the content is displayed in the main area: `view_content_loaded`
+-   When AngularJS begins its bootstrapping: `angular_boostrap_start`
+-   When AngularJS is bootstrapped (and starts doing what we want him to do to
+    present Dareboost’s interface): `angular_boostrap_end`
+-   When we ask Angular to fetch the current user’s context:
+    `userinfo_xhr_start`
+-   When the context is effectively recovered: `userinfo_xhr_stop`
+-   When the content is displayed in the main area: `view_content_loaded`
 
 Setting up these marks is so simple that some customers ask us if these are
 really the only actions to take. Check it by yourself: once you have found which
@@ -133,9 +134,10 @@ appearing simultaneously with the determination of the user context.
 
 ## In a nutshell
 
-- **Setting up Custom Timings takes a few seconds** and does not require any
-  special configuration in Dareboost
-- Custom Timings are new indicators to **understand what was invisible before**.
-- Custom Timings are particularly suitable for **monitoring the performance of
-  SPAs**
-- The shoemaker’s children don’t always go barefoot!
+-   **Setting up Custom Timings takes a few seconds** and does not require any
+    special configuration in Dareboost
+-   Custom Timings are new indicators to **understand what was invisible
+    before**.
+-   Custom Timings are particularly suitable for **monitoring the performance of
+    SPAs**
+-   The shoemaker’s children don’t always go barefoot!

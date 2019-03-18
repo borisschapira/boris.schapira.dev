@@ -1,8 +1,8 @@
 ---
 title: 'La candidature qui fait mouche'
 tags:
-  - Emploi
-  - 'Trouver un stage ou une alternance'
+    - Emploi
+    - 'Trouver un stage ou une alternance'
 ---
 
 De biens bons conseils pour tous les étudiants qui peaufinent actuellement leurs

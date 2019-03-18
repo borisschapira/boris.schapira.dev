@@ -23,14 +23,17 @@ caption=img_caption
 Je connais à peine ⅓ des outils de l'infographie[^others], mais l'exercice est
 intéressant.
 
-[^others]: Si ce genre d'infographies vous intéressent, vous devriez également apprécier
-  [IT Landscape for sysadmins](http://sysadmin.it-landscape.info/) d'Alen Krmelj
-  et
-  [The Periodic Table of Devops Tools](https://xebialabs.com/Periodic-Table-of-devops-Tools)
-  de XebiaLabs. <ins datetime="2017-03-27" title="Ajout au 27 mars 2017">Pierre
-  me signale également
-  [The Web Developer Roadmap - 2017](https://github.com/kamranahmedse/developer-roadmap)
-  qui n'est pas orienté que Devops, mais apporte des choses aussi.</ins>
+[^others]:
+
+    Si ce genre d'infographies vous intéressent, vous devriez également
+    apprécier [IT Landscape for sysadmins](http://sysadmin.it-landscape.info/)
+    d'Alen Krmelj et
+    [The Periodic Table of Devops Tools](https://xebialabs.com/Periodic-Table-of-devops-Tools)
+    de XebiaLabs.
+    <ins datetime="2017-03-27" title="Ajout au 27 mars 2017">Pierre me signale
+    également
+    [The Web Developer Roadmap - 2017](https://github.com/kamranahmedse/developer-roadmap)
+    qui n'est pas orienté que Devops, mais apporte des choses aussi.</ins>
 
 ## Il me permet de mieux diagnostiquer mon degré d'autonomie
 

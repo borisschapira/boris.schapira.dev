@@ -1,15 +1,15 @@
 ---
 title: 'Les dernières technos Microsoft ? Un enjeu de Civilization'
 tags:
-  - Humour
-  - Technologie
-  - Deepfish
-  - 'Microsoft Office'
-  - PhotoSynth
-  - Popfly
-  - Silverlight
-  - 'Windows Phone'
-  - 'Windows Vista'
+    - Humour
+    - Technologie
+    - Deepfish
+    - 'Microsoft Office'
+    - PhotoSynth
+    - Popfly
+    - Silverlight
+    - 'Windows Phone'
+    - 'Windows Vista'
 ---
 
 Il y a quelques jours sont venus dans les locaux de Microsoft des enseignants en
@@ -29,13 +29,13 @@ de Benjamin Gauthey, en déplacement à Marseille.
 
 Nous avons donc fait une rapide présentation de :
 
-- Silverlight
-- Popfly
-- Windows Vista
-- Photosynth
-- Office 2007
-- Windows Mobile 6 et Deepfish
-- Communication Server
+-   Silverlight
+-   Popfly
+-   Windows Vista
+-   Photosynth
+-   Office 2007
+-   Windows Mobile 6 et Deepfish
+-   Communication Server
 
 Je n'ai malheureusement aucune photo mais c'était très sympathique. De
 nombreuses questions m'avaient déjà été posées par mes amis de l'ESIEE ou

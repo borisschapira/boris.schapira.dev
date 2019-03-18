@@ -1,7 +1,7 @@
 ---
 title: 'G20 et régulation'
 tags:
-  - Finance
+    - Finance
 ---
 
 Lors du **G20**, qui démarrera d'ici quelques minutes, les chefs d'État des plus

@@ -2,7 +2,7 @@
 title: 'PowerShell 2.0 RTM'
 canonical: 'https://www.nexeo.fr/blog/2009/07/31/powershell-2-0-rtm/'
 tags:
-  - Nexdotnet
+    - Nexdotnet
 ---
 
 A l’instar des systèmes d’exploitation Windows 7 et Windows Server 2008 R2,

@@ -1,7 +1,7 @@
 ---
 title: "Vindicte populaire : l'affaire S. Duchemontul"
 tags:
-  - Égalité
+    - Égalité
 ---
 
 Personne ne se serait intéressé à S. Duchemontul si on n'avait pas arrêté sa

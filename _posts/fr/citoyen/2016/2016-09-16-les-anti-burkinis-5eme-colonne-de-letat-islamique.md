@@ -1,8 +1,8 @@
 ---
 title: 'Les anti-burkinis, 5ème colonne de l’État Islamique'
 tags:
-  - "État d'Urgence"
-  - Terrorisme
+    - "État d'Urgence"
+    - Terrorisme
 ---
 
 > Nous pouvons continuer d’apposer des rustines sécuritaires, nous pouvons

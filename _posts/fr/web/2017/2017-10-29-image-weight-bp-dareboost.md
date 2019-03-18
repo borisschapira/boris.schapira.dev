@@ -4,8 +4,8 @@ i18n-key: image-weight-bp-dareboost
 main_image: /assets/images/2017-10-29/square.jpg
 canonical: 'https://blog.dareboost.com/fr/2017/10/optimiser-les-images-et-reduire-leur-poids-formats-outils-et-rwd/'
 tags:
-  - 'Performance Web'
-  - Images
+    - 'Performance Web'
+    - Images
 cloudinary_logo: dareboost-logo
 slug: optimiser-les-images-et-reduire-leur-poids-formats-outils-et-rwd
 ---
@@ -161,8 +161,8 @@ un impact visuel spécifique.
 Voici quelques formats de fichiers et certains outils d'optimisation adaptés,
 dont certains sont inclus dans les outils graphiques comme Photoshop ou GIMP :
 
-- PNG: Zopfli-png, PNGOUT, OptiPNG, AdvPNG, PNGCrush, PNGQuant
-- JPG: JPEGOptim, MozJPEG, Jpegtran, Guetzli
+-   PNG: Zopfli-png, PNGOUT, OptiPNG, AdvPNG, PNGCrush, PNGQuant
+-   JPG: JPEGOptim, MozJPEG, Jpegtran, Guetzli
 
 <a href="http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer">FileOptimizer</a>
 (Windows), <a href="https://imageoptim.com/mac">ImageOptim</a> (Mac) ou

@@ -1,8 +1,8 @@
 ---
 title: 'L’e-commerce reste lent'
 tags:
-  - E-Commerce
-  - 'Performance Web'
+    - E-Commerce
+    - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2012/01/27/l-e-commerce-reste-lent/'
 ---
 

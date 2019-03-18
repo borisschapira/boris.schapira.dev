@@ -1,7 +1,7 @@
 ---
 title: 'Société recherche stagiaire expérimenté'
 tags:
-  - Emploi
+    - Emploi
 ---
 
 J'ai reçu aujourd'hui, sur Viadeo, une offre digne de

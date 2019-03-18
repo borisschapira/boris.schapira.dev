@@ -28,10 +28,10 @@ mon avis en amont pour éviter de l'influencer.
 
 ## Quelques signes que le ou la candidate "joue le jeu"
 
-- Tenue correcte
-- Posture
-- Calme
-- Qualité d'écoute
+-   Tenue correcte
+-   Posture
+-   Calme
+-   Qualité d'écoute
 
 Un entretien, qu'on le fasse par Skype ou en face-à-face, est constitué d'un
 ensemble de règles culturelles et consensuelles auxquelles un·e candidat·e doit
@@ -42,10 +42,10 @@ dans le monde professionnel.
 
 ## S'exprimer
 
-- Expression claire (à l'oral ou par écrit)
-- Vocabulaire adapté au contexte et précis
-- Discours sincère, authentique
-- Capacité de synthèse, concision
+-   Expression claire (à l'oral ou par écrit)
+-   Vocabulaire adapté au contexte et précis
+-   Discours sincère, authentique
+-   Capacité de synthèse, concision
 
 Peu importe le poste occupé, tout le monde a besoin de savoir s'exprimer d'une
 manière ou d'une autre, à l'écrit ou à l'oral. De nombreuses choses seront
@@ -54,10 +54,10 @@ l'expression, qu'elle soit orale ou écrite, soit précise, concise et agréable
 
 ## Travailler en équipe
 
-- Évite les jugements, exprime de la bienveillance
-- Apprécie la vie en groupe, le dialogue
-- Exprime un sens du "commun", de l'intérêt général
-- Ouvert à l'égalité, à la diversité
+-   Évite les jugements, exprime de la bienveillance
+-   Apprécie la vie en groupe, le dialogue
+-   Exprime un sens du "commun", de l'intérêt général
+-   Ouvert à l'égalité, à la diversité
 
 Un·e candidat·e ne connait pas, <span lang="la">a priori</span>, l'organisation
 du travail et les profils de ses futurs collaborateurs. Même s'il a le profil
@@ -67,9 +67,9 @@ du recul, d'être patient avant de juger…
 
 ## Curiosité, exhaustivité
 
-- Se pose des questions sur le poste, le secteur, le marché…
-- Cherche à s'informer sur les savoir-faire
-- S'informe sur l'organisation du travail
+-   Se pose des questions sur le poste, le secteur, le marché…
+-   Cherche à s'informer sur les savoir-faire
+-   S'informe sur l'organisation du travail
 
 Les tâches confiées et l'équipe à qui elles sont confiées ne sont qu'une partie
 du travail. L'organisation du travail, à la fois dans la méthode que dans les
@@ -80,10 +80,10 @@ pour le collectif.
 
 ## Capacité à affirmer des positions
 
-- Développe des points de vue personnels
-- Assume ses choix, se prononce clairement
-- Illustre, argumente et remet en question
-- Reconnait ses limites
+-   Développe des points de vue personnels
+-   Assume ses choix, se prononce clairement
+-   Illustre, argumente et remet en question
+-   Reconnait ses limites
 
 Pour enrichir l'équipe un·e candidat·e doit aussi être capable d'émettre une
 analyse non-stéréotypée et de l'assumer par des explications claires et
@@ -96,11 +96,11 @@ hypothèses construites.
 
 ## Capacité d'investissement
 
-- Capacité à prendre des décisions et les assumer
-- Maitrise de l'effort (ténacité, endurance, mais aussi remise en cause et
-  repos)
-- Investissement dans un projet
-- Prise de recul sur la valeur ajoutée des autres individus
+-   Capacité à prendre des décisions et les assumer
+-   Maitrise de l'effort (ténacité, endurance, mais aussi remise en cause et
+    repos)
+-   Investissement dans un projet
+-   Prise de recul sur la valeur ajoutée des autres individus
 
 Ces points nécessitent presque toujours de faire parler la personne de ses
 projets précédents pour savoir si elle sait prendre du recul sur sa propre
@@ -111,8 +111,8 @@ commun.
 
 ## Capacité d'innovation (?)
 
-- Capacité à identifier le cadre
-- Capacité à proposer des alternatives
+-   Capacité à identifier le cadre
+-   Capacité à proposer des alternatives
 
 C'est encore un des points que j'ai le plus de mal à évaluer car j'ai souvent
 moi-même l'impression de manquer de fantaisie. L'idée ici est d'estimer la
@@ -123,9 +123,9 @@ sujet, donc je ne vais pas m'attarder dessus ici.
 
 ## Positionnement personnel par rapport au positionnement de l'entreprise
 
-- S'est renseigné sur l'entreprise, connait ses valeurs
-- Explique clairement son intérêt propre
-- Se projette dans l'avenir dans une construction commune
+-   S'est renseigné sur l'entreprise, connait ses valeurs
+-   Explique clairement son intérêt propre
+-   Se projette dans l'avenir dans une construction commune
 
 Cette dernière partie est souvent la plus délicate pour le candidat ou la
 candidate car il ne connait jamais aussi bien l'entreprise qu'après la

@@ -1,7 +1,7 @@
 ---
 title: 'Pendant que les hommes posent'
 tag:
-  - 'Wonder Woman'
+    - 'Wonder Woman'
 ---
 
 Au supermarché, un jeu de figurines "Justice League", dont Wonder Woman est,

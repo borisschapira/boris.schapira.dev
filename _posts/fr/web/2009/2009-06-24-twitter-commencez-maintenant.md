@@ -1,8 +1,8 @@
 ---
 title: 'Twitter : commencez maintenant'
 tags:
-  - Technologie
-  - Microblogging
+    - Technologie
+    - Microblogging
 ---
 
 Twitter est un peu plus qu'un phénomène de mode. C'est un outil disruptif qui

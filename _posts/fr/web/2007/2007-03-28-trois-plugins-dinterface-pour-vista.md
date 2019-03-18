@@ -1,7 +1,7 @@
 ---
 title: 'Marre du classique Alt+Tab ?'
 tags:
-  - Outils
+    - Outils
 ---
 
 Aéro, l'interface graphique de Windows Vista, propose par défaut une expérience

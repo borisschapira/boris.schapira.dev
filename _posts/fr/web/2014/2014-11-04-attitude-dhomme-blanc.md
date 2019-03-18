@@ -1,8 +1,8 @@
 ---
 title: "Attitude d'homme blanc"
 tags:
-  - Front-End
-  - Accessibilité
+    - Front-End
+    - Accessibilité
 ---
 
 > En juin dernier, Fiona Taylor Gorringe soulevait une question intéressante sur

@@ -1,9 +1,9 @@
 ---
 title: 'Le Paradoxe du Smartphone'
 tags:
-  - Mobilité
+    - Mobilité
 series:
-  - 'Windows Phone'
+    - 'Windows Phone'
 ---
 
 Il y a quelques semaines a été annoncé Windows Phone 7 Series, devenu depuis

@@ -3,9 +3,9 @@ title: 'Optimizing Jekyll build time'
 i18n-key: optimisation-compilation-jekyll
 main_image: /assets/images/2018-11-28/jekyll.png
 tags:
-  - Jekyll
-  - JAMStatic
-  - Outils
+    - Jekyll
+    - JAMStatic
+    - Outils
 slug: jekyll-build-optimization
 ---
 
@@ -30,12 +30,12 @@ strings, slowly moving as it moans.
 
 ## TL;DR
 
-- Noting that my Jekyll compilation was very slow, I asked the French JAMstack
-  community for advice.
-- Several things have emerged, each tip allowing me to optimize the compilation
-  time.
-- The biggest gain comes from Jekyll's own evolutions, because the Core Team is
-  doing a huge amount of work.
+-   Noting that my Jekyll compilation was very slow, I asked the French JAMstack
+    community for advice.
+-   Several things have emerged, each tip allowing me to optimize the
+    compilation time.
+-   The biggest gain comes from Jekyll's own evolutions, because the Core Team
+    is doing a huge amount of work.
 
 ---
 
@@ -132,10 +132,10 @@ So far, I’ve heard about two of them:
 
 There are undoubtedly others, but I heard about at least two of them:
 
-- [the `liquid-c` gem](https://github.com/Shopify/liquid-c), to optimize the
-  liquid compilation.
-- [the `sassc` gem](https://github.com/sass/sassc-ruby), if you need Jekyll to
-  compile SASS files more efficiently.
+-   [the `liquid-c` gem](https://github.com/Shopify/liquid-c), to optimize the
+    liquid compilation.
+-   [the `sassc` gem](https://github.com/sass/sassc-ruby), if you need Jekyll to
+    compile SASS files more efficiently.
 
 I don't need Jekyll for my SASS files but by using `liquid-c`, I saved **9%** of
 compilation time.
@@ -296,18 +296,28 @@ Here is the raw data:
 | Test 10 | 4 - Switch to CommonMark | 1332,547     |
 | Test 10 | 5 - Switch to master     | 69,022       |
 
-[^parole]: You're going to have to take my word for it, because my experimental protocol
-  didn't contain a test with and without inclusions. It is therefore a personal
-  estimate.
+[^parole]:
 
-[^rake]: Rake is a make-like orchestrator, in Ruby
-  ([learn more](https://rubygems.org/gems/rake/)).
+    You're going to have to take my word for it, because my experimental
+    protocol didn't contain a test with and without inclusions. It is therefore
+    a personal estimate.
 
-[^gsl]: It seems that [the gem gsl](https://rubygems.org/gems/gsl) is improving this,
-  but I haven't tested it. I am interested in your feedback.
+[^rake]:
 
-[^netlimit]: 15 minutes, as confirmed by Chris McCraw in
-  "[How Our Build Bots Build Sites](https://www.netlify.com/blog/2016/10/18/how-our-build-bots-build-sites/)".
+    Rake is a make-like orchestrator, in Ruby
+    ([learn more](https://rubygems.org/gems/rake/)).
 
-[^analytics]: Because I don’t need them to learn about my readers, as they often interact
-  with me on Twitter or through comments
+[^gsl]:
+
+    It seems that [the gem gsl](https://rubygems.org/gems/gsl) is improving
+    this, but I haven't tested it. I am interested in your feedback.
+
+[^netlimit]:
+
+    15 minutes, as confirmed by Chris McCraw in
+    "[How Our Build Bots Build Sites](https://www.netlify.com/blog/2016/10/18/how-our-build-bots-build-sites/)".
+
+[^analytics]:
+
+    Because I don’t need them to learn about my readers, as they often interact
+    with me on Twitter or through comments

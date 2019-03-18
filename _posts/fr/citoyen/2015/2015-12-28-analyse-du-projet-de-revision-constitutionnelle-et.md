@@ -1,7 +1,7 @@
 ---
 title: "L'analyse du projet de révision constitutionnelle : l'État d'urgence"
 tags:
-  - "État d'Urgence"
+    - "État d'Urgence"
 slug: analyse-du-projet-de-revision-constitutionnelle-etat-urgence
 ---
 

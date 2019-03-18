@@ -3,15 +3,15 @@ layout: index
 title: Writings
 permalink: /en/
 description: >-
-  My blog, containing personal opinions on the Web but also on my life as a
-  parent and a citizen.
+    My blog, containing personal opinions on the Web but also on my life as a
+    parent and a citizen.
 
 displayCustomHead: true
 displayCustomTitle: false
 i18n-key: home
 pagination:
-  enabled: true
-  locale: en
+    enabled: true
+    locale: en
 ---
 
 <!-- @format -->

@@ -1,9 +1,9 @@
 ---
 title: "Appartement, c'est plus possible"
 tags:
-  - Appartement
-  - "Billet d'humeur"
-  - 'Me, myself and I'
+    - Appartement
+    - "Billet d'humeur"
+    - 'Me, myself and I'
 ---
 
 Gros ras-le-bol et article très personnel (j'aurais prévenu). C'est fini, j'en

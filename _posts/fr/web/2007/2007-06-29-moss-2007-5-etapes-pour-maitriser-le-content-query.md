@@ -1,9 +1,9 @@
 ---
 title: '[MOSS 2007] 5 étapes pour le Content Query Web Part'
 tags:
-  - Développement
-  - 'Content Query Web Part'
-  - 'MOSS 2007'
+    - Développement
+    - 'Content Query Web Part'
+    - 'MOSS 2007'
 slug: moss-2007-5-etapes-pour-maitriser-le-content-query-web-part
 ---
 

@@ -48,6 +48,8 @@ profit.
 Mais bon, n'allons pas trop vite, des fois qu'_expliquer_ le vote F.N., _ce
 serait déjà vouloir un peu excuser_[^1].
 
-[^1]: en référence à nôtre Premier Ministre Manuel Valls et son "_Expliquer, c'est
-  déjà vouloir un peu excuser_" en parlant des français qui versent dans le
-  terrorisme.
+[^1]:
+
+    en référence à nôtre Premier Ministre Manuel Valls et son "_Expliquer, c'est
+    déjà vouloir un peu excuser_" en parlant des français qui versent dans le
+    terrorisme.

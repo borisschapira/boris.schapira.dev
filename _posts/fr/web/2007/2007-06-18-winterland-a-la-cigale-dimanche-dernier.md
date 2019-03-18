@@ -1,8 +1,8 @@
 ---
 title: 'Winterland à la Cigale dimanche dernier…'
 tags:
-  - Musique
-  - 'Silent Fall (ex Winterland)'
+    - Musique
+    - 'Silent Fall (ex Winterland)'
 ---
 
 … est arrivé sixième dans un concours de Rock/Métal qui s'est transformé en

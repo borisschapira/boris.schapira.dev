@@ -1,7 +1,7 @@
 ---
 title: "Vous n'avez pas besoin d'un site web"
 tags:
-  - 'Transformation numérique'
+    - 'Transformation numérique'
 ---
 
 > **Vous n’avez pas besoin d’un site web.**
@@ -59,8 +59,10 @@ maintenabilité, la réversibilité, l'utilisabilité, la performance et
 l'interopérabilité qu'il est toujours nécessaire d'avoir recours à des
 professionnels[^clever].
 
-[^clever]: si vous voulez en parler,
-  [je suis par là](https://www.clever-age.com/fr/briefez-nous/).
+[^clever]:
+
+    si vous voulez en parler,
+    [je suis par là](https://www.clever-age.com/fr/briefez-nous/).
 
 Cependant, dans certains cas, communiquer par mail avec ses clients et leur
 envoyer directement des PDFs, ça marche très bien aussi et ça peut permettre de

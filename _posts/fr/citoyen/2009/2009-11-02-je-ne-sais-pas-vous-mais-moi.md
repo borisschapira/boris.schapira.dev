@@ -1,10 +1,10 @@
 ---
 title: 'Publicités stupides'
 tags:
-  - Société
-  - "Billet d'humeur"
-  - Publicité
-  - Télévision
+    - Société
+    - "Billet d'humeur"
+    - Publicité
+    - Télévision
 ---
 
 Plus ça va, moins je comprends les publicités à la télévision. Outre quelques
@@ -53,13 +53,13 @@ gens sont sensibles à ce genre de réclames. Ou alors il faudrait faire des
 **campagnes croisées**, qui mélangeraient les spots pour plus
 d'efficacité&nbsp;:
 
-- Juste avant une campagne de la SPA, une réclame pour un chocolat bien connu
-  emballé par des marmottes
-- Au milieu de la campagne "Dites non à la drogue", la réclame des produits
-  laitiers avec les petits bonhommes blanc qui prennent une douche de lait aux
-  mamelles de la vache. Efficacité garantie.
-- Vous connaissez cette pub pour du pain de mie où un conducteur freine
-  brutalement tandis que le passager arrière se voit sauver par le moelleux
-  d'une tartine&nbsp;? Imaginez qu'elle passe juste avant une pub "choc" de la
-  sécurité routière… Avouez que ça aurait de la gueule&nbsp;! Ce serait de
-  mauvais goût, certes, mais ça resterait dans les mémoires…
+-   Juste avant une campagne de la SPA, une réclame pour un chocolat bien connu
+    emballé par des marmottes
+-   Au milieu de la campagne "Dites non à la drogue", la réclame des produits
+    laitiers avec les petits bonhommes blanc qui prennent une douche de lait aux
+    mamelles de la vache. Efficacité garantie.
+-   Vous connaissez cette pub pour du pain de mie où un conducteur freine
+    brutalement tandis que le passager arrière se voit sauver par le moelleux
+    d'une tartine&nbsp;? Imaginez qu'elle passe juste avant une pub "choc" de la
+    sécurité routière… Avouez que ça aurait de la gueule&nbsp;! Ce serait de
+    mauvais goût, certes, mais ça resterait dans les mémoires…

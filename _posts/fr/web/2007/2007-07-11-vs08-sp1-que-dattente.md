@@ -1,8 +1,8 @@
 ---
 title: "Visual Studio 2008, SP1 : que d'attente !"
 tags:
-  - .NET
-  - Windows
+    - .NET
+    - Windows
 ---
 
 La Toile est magique lorsqu'elle est capable de transformer quelques mots de
@@ -20,9 +20,9 @@ Non, la grande question c'est : **la date de sortie** de ce SP1\. Plusieurs
 rumeurs circulent, mais les spécialistes s'accordaient jusqu'ici sur deux choses
 :
 
-- Le SP1 ne sortira pas avant le dernier trimestre 2007
-- Le SP1 sortira probablement en même temps que Windows Server 2008, dont Vista
-  partage le noyau
+-   Le SP1 ne sortira pas avant le dernier trimestre 2007
+-   Le SP1 sortira probablement en même temps que Windows Server 2008, dont
+    Vista partage le noyau
 
 Mais attention : c'est désormais officiel, Windows Server 2008 sortira le _27
 février 2008_ lors d'un évènement à Los Angeles. Toutes les hypothèses sont donc

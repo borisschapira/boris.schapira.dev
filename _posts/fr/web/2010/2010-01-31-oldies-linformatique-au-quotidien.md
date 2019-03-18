@@ -1,7 +1,7 @@
 ---
 title: "1979&nbsp;: bientôt l'informatique au quotidien"
 tags:
-  - Histoire
+    - Histoire
 ---
 
 > Si vous avez des idées sur comment utiliser ces ordinateurs, vous pouvez

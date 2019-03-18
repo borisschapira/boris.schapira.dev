@@ -53,10 +53,12 @@ Ce phénomène anthropologique est souvent utilisé en informatique pour moquer 
 développeurs qui copient du code d'autres et le réutilisent sans pleinement
 maitriser son impact[^tzi].
 
-[^tzi]: Si vous ne l'avez jamais vue, je vous conseille la conférence
-  "[Le culte du cargo](https://vimeo.com/70060075)" par
-  [Thomas Zilliox](https://twitter.com/iamtzi 'Compte Twitter de Thomas Zilliox')
-  à Sud Web 2013.
+[^tzi]:
+
+    Si vous ne l'avez jamais vue, je vous conseille la conférence
+    "[Le culte du cargo](https://vimeo.com/70060075)" par
+    [Thomas Zilliox](https://twitter.com/iamtzi 'Compte Twitter de Thomas Zilliox')
+    à Sud Web 2013.
 
 Il a clairement une attitude similaire dans de nombreuses structures qui
 cherchent à adopter l'Agile, choisissent Scrum, puis enchainent les

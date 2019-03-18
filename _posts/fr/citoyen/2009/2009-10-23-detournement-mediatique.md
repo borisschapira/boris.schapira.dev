@@ -1,7 +1,7 @@
 ---
 title: 'Détournement médiatique'
 tags:
-  - Numérique
+    - Numérique
 series: Hadopi
 ---
 

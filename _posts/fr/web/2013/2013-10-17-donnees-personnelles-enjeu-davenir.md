@@ -1,8 +1,8 @@
 ---
 title: "Nos données personnelles, enjeu d'avenir"
 tags:
-  - 'Vie privée'
-  - 'Scripts Tiers'
+    - 'Vie privée'
+    - 'Scripts Tiers'
 ---
 
 J'écrivais l'année dernière, pour

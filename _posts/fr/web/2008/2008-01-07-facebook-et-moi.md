@@ -1,9 +1,9 @@
 ---
 title: 'Facebook et moi'
 tags:
-  - 'Médias Sociaux'
-  - Technologie
-  - Facebook
+    - 'Médias Sociaux'
+    - Technologie
+    - Facebook
 ---
 
 Quand j&#8217;ai commenc&#233; &#224; l&#8217;utiliser je trouvais le concept

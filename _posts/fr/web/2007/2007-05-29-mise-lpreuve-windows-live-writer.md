@@ -1,9 +1,9 @@
 ---
 title: "Mise à l'épreuve : Windows Live Writer"
 tags:
-  - Technologie
-  - 'Windows Live Writer'
-  - Wordpress
+    - Technologie
+    - 'Windows Live Writer'
+    - Wordpress
 ---
 
 Même quand on travaille dans l'informatique et qu'on met un point d'honneur à se

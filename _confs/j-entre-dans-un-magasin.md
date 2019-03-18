@@ -1,17 +1,17 @@
 ---
 title: "J'entre dans un magasin"
 subtitle: un sujet pour consommateurs·ices responsables
-description:
-  "Que se passerait-il si on transposait les pratiques du e-commerce aux
-  commerces physiques ? Et si on discutait un peu des pratiques du e-commerce
-  aujourd'hui ? Chaque fois que je vais sur un site, j'essaie d'imaginer ce qui
-  se passerait si j'étais, en fait, dans un magasin physique. Parfois, les
-  résultats sont surprenants. D'autre fois, ils permettent de comprendre comment
-  le e-commerce pourrait évoluer pour mieux satisfaire ses clients."
+description: >-
+    Que se passerait-il si on transposait les pratiques du e-commerce aux
+    commerces physiques ? Et si on discutait un peu des pratiques du e-commerce
+    aujourd'hui ? Chaque fois que je vais sur un site, j'essaie d'imaginer ce
+    qui se passerait si j'étais, en fait, dans un magasin physique. Parfois, les
+    résultats sont surprenants. D'autre fois, ils permettent de comprendre
+    comment le e-commerce pourrait évoluer pour mieux satisfaire ses clients.
 last_date: 2017-10-06
 events:
-  - name: 'Paris Web 2017'
-    date: 2017-10-06
+    - name: 'Paris Web 2017'
+      date: 2017-10-06
 ---
 
 J'avais envie de proposer quelque chose d'humoristique, sur la base d'un

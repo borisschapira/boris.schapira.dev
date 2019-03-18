@@ -1,7 +1,7 @@
 ---
 title: "Les Entretiens de l'AMF 2009"
 tags:
-  - Finance
+    - Finance
 ---
 
 Le _16 décembre_ dernier avaient lieu les **Entretiens de
@@ -20,34 +20,34 @@ J'ai identifié dans le discours de clotûre de cette demi-journée 3 grandes
 tendances qui je pense guideront l'évolution de la régulation ces prochains
 années&nbsp;:
 
-- **Relancer l'investissement en qualifiant l'information**&nbsp;: En renforçant
-  sa volonté d'appliquer la directive
-  <abbr title="Marchés d'Instruments Financiers">MIF</abbr> et en soutenant la
-  mise en concurrence des
-  <abbr title="Prestataires de Services d'Investissement">PSI</abbr>,
-  l'<abbr title="Autorité des Marchés Financiers">AMF</abbr> espère enrichir et
-  qualifier l'information de l'épargnant concernat l'état des Marchés, les
-  produits qu'on lui propose et la santé des entreprises émettrices (la
-  transparence dans ce domaine était déjà
-  [un sujet de l'année dernière](/2008/12/les-entretiens-de-lamf-2008-33-suivi-du-controle-dans-les-societes-cotees/))
-  L'<abbr title="Autorité des Marchés Financiers">AMF</abbr> espère ainsi
-  relancer les marchés dans une logique d’investissement de long terme et de
-  financement des PME, plutôt que sur une efficacité à court terme notamment
-  popularisée par le développement de l'arbitrage.
-- **Mieux contrôler, mieux sanctionner**&nbsp;: En soutenant la création d'une
-  Organisation mondiale de la Finance chargée de contrôler la bonne application
-  des règles mondiales de la Finance (une des propositions du
-  [G20 d'avril 2009](/2009/04/g20-et-regulation/)),
-  l'<abbr title="Autorité des Marchés Financiers">AMF</abbr> croit en une
-  globalisation du contrôle qui passera d'abord par une convergence des normes
-  comptables européennes et américaines mais aussi par une révision des
-  procedures d'enquêtes et de sanctions tout en augmentant les ressources du
-  régulateur.
-- **Mieux gouverner**&nbsp;: En réduisant le nombre d'intermédiaires et en
-  ré-organisant ses structures pour qu'elles s'adaptent aux risques et enjeux
-  des nouveaux marchés,
-  l'<abbr title="Autorité des Marchés Financiers">AMF</abbr> espère gagner en
-  transparence, en gouvernance et en efficacité.
+-   **Relancer l'investissement en qualifiant l'information**&nbsp;: En
+    renforçant sa volonté d'appliquer la directive
+    <abbr title="Marchés d'Instruments Financiers">MIF</abbr> et en soutenant la
+    mise en concurrence des
+    <abbr title="Prestataires de Services d'Investissement">PSI</abbr>,
+    l'<abbr title="Autorité des Marchés Financiers">AMF</abbr> espère enrichir
+    et qualifier l'information de l'épargnant concernat l'état des Marchés, les
+    produits qu'on lui propose et la santé des entreprises émettrices (la
+    transparence dans ce domaine était déjà
+    [un sujet de l'année dernière](/2008/12/les-entretiens-de-lamf-2008-33-suivi-du-controle-dans-les-societes-cotees/))
+    L'<abbr title="Autorité des Marchés Financiers">AMF</abbr> espère ainsi
+    relancer les marchés dans une logique d’investissement de long terme et de
+    financement des PME, plutôt que sur une efficacité à court terme notamment
+    popularisée par le développement de l'arbitrage.
+-   **Mieux contrôler, mieux sanctionner**&nbsp;: En soutenant la création d'une
+    Organisation mondiale de la Finance chargée de contrôler la bonne
+    application des règles mondiales de la Finance (une des propositions du
+    [G20 d'avril 2009](/2009/04/g20-et-regulation/)),
+    l'<abbr title="Autorité des Marchés Financiers">AMF</abbr> croit en une
+    globalisation du contrôle qui passera d'abord par une convergence des normes
+    comptables européennes et américaines mais aussi par une révision des
+    procedures d'enquêtes et de sanctions tout en augmentant les ressources du
+    régulateur.
+-   **Mieux gouverner**&nbsp;: En réduisant le nombre d'intermédiaires et en
+    ré-organisant ses structures pour qu'elles s'adaptent aux risques et enjeux
+    des nouveaux marchés,
+    l'<abbr title="Autorité des Marchés Financiers">AMF</abbr> espère gagner en
+    transparence, en gouvernance et en efficacité.
 
 Je ne peux m'empêcher d'être **déçu**. D'abord, par le format&nbsp;: **une
 demi-journée, ça n'est pas suffisant** pour traiter de l'ensemble de ces points

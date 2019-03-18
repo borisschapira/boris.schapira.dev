@@ -1,7 +1,7 @@
 ---
 title: 'TechDays : les nouveautés de la plénière #2'
 tags:
-  - Conférences
+    - Conférences
 ---
 
 Plusieurs milliers de personnes se sont déplacées aujourd’hui pour assister à la

@@ -1,7 +1,7 @@
 ---
 title: 'Egalité et Liberté mises à mal'
 tags:
-  - Égalité
+    - Égalité
 ---
 
 > "La France est une République indivisible, laïque, démocratique et sociale.

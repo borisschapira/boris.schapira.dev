@@ -1,8 +1,8 @@
 ---
 title: 'Stéréotypes de BAC+5'
 tags:
-  - "Billet d'humeur"
-  - Publicité
+    - "Billet d'humeur"
+    - Publicité
 ---
 
 Depuis quelques jours de nouveaux messages ornent les couloirs de circulation du

@@ -1,9 +1,9 @@
 ---
 title: 'Rentrée du Hardware chez Microsoft'
 tags:
-  - Technologie
-  - Hardware
-  - Microsoft
+    - Technologie
+    - Hardware
+    - Microsoft
 ---
 
 Il y a peu se tenait la soirée de rentrée Microsoft Hardware, en l’honneur de la

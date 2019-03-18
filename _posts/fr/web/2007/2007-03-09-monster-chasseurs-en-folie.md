@@ -1,8 +1,8 @@
 ---
 title: 'Monster : chasseurs en folie'
 tags:
-  - Emploi
-  - 'Me, myself and I'
+    - Emploi
+    - 'Me, myself and I'
 ---
 
 Il y a quelques jours Benjamin Gauthey me confirmait autour d'un café que faire

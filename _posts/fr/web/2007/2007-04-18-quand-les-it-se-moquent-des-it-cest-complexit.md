@@ -1,8 +1,8 @@
 ---
 title: 'ComplexIT : les IT se moquent des IT'
 tags:
-  - Développement
-  - TechNet
+    - Développement
+    - TechNet
 ---
 
 Lorsque deux IT se rencontrent autour d'une émission du type "Question pour un

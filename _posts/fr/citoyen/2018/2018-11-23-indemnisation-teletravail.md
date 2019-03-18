@@ -3,14 +3,16 @@ title: 'Les indemnités liées au télétravail à domicile'
 subtitle: 'stop ou encore ?'
 loadTwitterWjs: true
 tags:
-  - Travail
+    - Travail
 ---
 
 ---
 
-***Aux employeurs et employeuses souhaitant mettre en place le télétravail***
+**_Aux employeurs et employeuses souhaitant mettre en place le télétravail_**
 
-*[Cet article de ma princière colocataire conjuguale](https://libelilou.github.io/2018/12/18/teletravail.html) sera une meilleure introduction au sujet que ce que vous pourriez lire ci-dessous.*
+_[Cet article de ma princière colocataire conjuguale](https://libelilou.github.io/2018/12/18/teletravail.html)
+sera une meilleure introduction au sujet que ce que vous pourriez lire
+ci-dessous._
 
 ---
 
@@ -121,15 +123,17 @@ dialogue avec vos salarié·e·s, en toute transparence, et convenez avec eux de
 forfaits justes. Ils et elles seront plus heureux et heureuses, et en parleront
 autour d'eux !
 
-[^1]: Comme par exemple
-  [cet article de Service-Public.fr](https://www.service-public.fr/particuliers/actualites/A12068)
-  de la Direction de l'information légale et administrative (Premier ministre),
-  stipulant explicitement : "L'article L 1222-10 du code du travail est
-  également modifié : l'employeur n'est plus dans l'obligation (vis-à-vis de son
-  salarié en télétravail) de prendre en charge tous les coûts découlant
-  directement de l'exercice du télétravail (coût des matériels, logiciels,
-  abonnements, communications et outils, maintenance...)" ce qui est faux, comme
-  je viens de le démontrer.
+[^1]:
+
+    Comme par exemple
+    [cet article de Service-Public.fr](https://www.service-public.fr/particuliers/actualites/A12068)
+    de la Direction de l'information légale et administrative (Premier
+    ministre), stipulant explicitement : "L'article L 1222-10 du code du travail
+    est également modifié : l'employeur n'est plus dans l'obligation (vis-à-vis
+    de son salarié en télétravail) de prendre en charge tous les coûts découlant
+    directement de l'exercice du télétravail (coût des matériels, logiciels,
+    abonnements, communications et outils, maintenance...)" ce qui est faux,
+    comme je viens de le démontrer.
 
 ---
 
@@ -283,8 +287,10 @@ perdu ?
 </tbody>
 </table>
 
-[^exemple]: L'exemple d'origine du site de
-  l'<abbr title="Unions de Recouvrement des Cotisations de Sécurité Sociale et d'Allocations Familiales">URSSAF</abbr>
-  ne correspondait pas à la réalité du coût locatif ou, selon moi, de la surface
-  dédiée à un bureau. Je me suis permis de le modifier
-  [avec des données plus récentes](https://immobilier.lefigaro.fr/article/le-loyer-moyen-des-francais-est-de-628-euros-par-mois_6cf97d06-d1cf-11e6-b36e-ce717b784d0d/ '"Le loyer moyen des Français est de 628 euros par mois", Guillaume Errard dans Le Figaro Immobilier').
+[^exemple]:
+
+    L'exemple d'origine du site de
+    l'<abbr title="Unions de Recouvrement des Cotisations de Sécurité Sociale et d'Allocations Familiales">URSSAF</abbr>
+    ne correspondait pas à la réalité du coût locatif ou, selon moi, de la
+    surface dédiée à un bureau. Je me suis permis de le modifier
+    [avec des données plus récentes](https://immobilier.lefigaro.fr/article/le-loyer-moyen-des-francais-est-de-628-euros-par-mois_6cf97d06-d1cf-11e6-b36e-ce717b784d0d/ '"Le loyer moyen des Français est de 628 euros par mois", Guillaume Errard dans Le Figaro Immobilier').

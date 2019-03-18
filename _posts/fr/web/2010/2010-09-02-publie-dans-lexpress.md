@@ -1,7 +1,7 @@
 ---
 title: "Publié dans L'Express"
 tags:
-  - 'Me, myself and I'
+    - 'Me, myself and I'
 ---
 
 L'article sur [« Métronome » de Lorànt Deutsch](/2010/03/livre-metronome/) a

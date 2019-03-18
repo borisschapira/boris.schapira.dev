@@ -6,11 +6,11 @@ Il commence à m'énerver, à ne pas vouloir lâcher son modèle de contrat bas�
 la défiance.  
 Jugez vous-même :
 
-- feuilles de présences quotidienne
-- carnet de santé remis sous pli cacheté
-- toutes les demandes à l'écrit
-- calcul d'indemnisation erroné car basé sur un loi cassée depuis par la Cour de
-  Cassation
+-   feuilles de présences quotidienne
+-   carnet de santé remis sous pli cacheté
+-   toutes les demandes à l'écrit
+-   calcul d'indemnisation erroné car basé sur un loi cassée depuis par la Cour
+    de Cassation
 
 Et au milieu de tout ça, il a planqué une clause de maintien de salaire en cas
 de maladie des enfants. Sachant qu'il refuse de les prendre s'ils sont malades.

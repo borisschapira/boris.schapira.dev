@@ -1,7 +1,7 @@
 ---
 title: 'Colocation avec avantages'
 tags:
-  - Boulogne
+    - Boulogne
 ---
 
 **EDIT&nbsp;:** La réponse de l'intéressée

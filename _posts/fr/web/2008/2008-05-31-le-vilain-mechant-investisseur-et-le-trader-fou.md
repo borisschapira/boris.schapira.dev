@@ -1,8 +1,8 @@
 ---
 title: 'Le vilain méchant investisseur et le trader fou'
 tags:
-  - Finance
-  - "Billet d'humeur"
+    - Finance
+    - "Billet d'humeur"
 ---
 
 La Finance de marché n’a pas bonne image et ce ne sont pas les récents

@@ -1,8 +1,8 @@
 ---
 title: '[HTML5] Barre latérale'
 tags:
-  - Front-End
-  - Projets
+    - Front-End
+    - Projets
 ---
 
 Ces derniers jours, deux ouvrages alimentent mes temps libres: **Dive Into HTML

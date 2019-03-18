@@ -9,7 +9,8 @@ came to me, excited.
 <!-- more -->
 
 > – Dad, I wanted to go through the curtains in the labyrinth!  
-> – And? – t'was no curtains, t'was a wall!
+> – And?  
+> – t'was no curtains, t'was a wall!
 
 {% capture alt_text%}Clip from Star Wars during which R2D2 throws himself
 against a wall.{% endcapture %} {% include video_as_a_gif.html.liquid

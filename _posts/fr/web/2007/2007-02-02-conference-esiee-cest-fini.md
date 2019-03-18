@@ -1,12 +1,12 @@
 ---
 title: "Conférence ESIEE - C'est fini !"
 tags:
-  - Technologie
-  - ESIEE
-  - 'Imagine Cup'
-  - MSP
-  - 'Project Hoshimi'
-  - 'Windows Vista'
+    - Technologie
+    - ESIEE
+    - 'Imagine Cup'
+    - MSP
+    - 'Project Hoshimi'
+    - 'Windows Vista'
 ---
 
 Et voilà , après plusieurs mois de travail et plusieurs semaines d'organisation,

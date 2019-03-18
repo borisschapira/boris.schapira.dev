@@ -1,7 +1,7 @@
 ---
 title: "Facebook n'a rien à voir là-dedans"
 tags:
-  - Emploi
+    - Emploi
 ---
 
 Il y a en ce moment une affaire qui fait scandale, où une salariée est

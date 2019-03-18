@@ -1,9 +1,9 @@
 ---
 title: 'PJL Sécurité Routière'
 tags:
-  - Numérique
+    - Numérique
 series:
-  - 'Loi Renseignement'
+    - 'Loi Renseignement'
 ---
 
 Ainsi commença l'histoire…

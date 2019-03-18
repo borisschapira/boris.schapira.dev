@@ -1,10 +1,11 @@
 ---
 title:
-  'Une journée de boulot ordinaire chez Microsoft France (ou alors pas du tout)'
+    'Une journée de boulot ordinaire chez Microsoft France (ou alors pas du
+    tout)'
 tags:
-  - Emploi
-  - Microsoft
-  - Stage
+    - Emploi
+    - Microsoft
+    - Stage
 slug: une-journee-de-boulot-ordinaire-chez-microsoft-france-ou-alors-pas-du-tout
 ---
 

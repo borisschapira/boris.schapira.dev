@@ -1,9 +1,9 @@
 ---
 title: 'Rencontre des communautés à Boulogne'
 tags:
-  - Technologie
-  - Boulogne
-  - Microsoft
+    - Technologie
+    - Boulogne
+    - Microsoft
 ---
 
 Lundi avait lieu la première réunion des Communautés Microsoft au Bureau à

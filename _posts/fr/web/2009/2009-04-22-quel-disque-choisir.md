@@ -1,10 +1,10 @@
 ---
 title: 'Quel disque choisir ?'
 tags:
-  - Technologie
-  - NAS
-  - 'Ready Nas Duo'
-  - Stockage
+    - Technologie
+    - NAS
+    - 'Ready Nas Duo'
+    - Stockage
 ---
 
 Maintenant que j'ai commandé mon
@@ -15,9 +15,9 @@ pas à faire un lien sur ce terme, j'ai décidé que c'était mon
 
 Mes critères&nbsp;:
 
-- Capacité &gt;= 1To
-- Interface avec l'ordinateur&nbsp;: SATA II
-- Vitesse de rotation&nbsp;: 7200 RPM
+-   Capacité &gt;= 1To
+-   Interface avec l'ordinateur&nbsp;: SATA II
+-   Vitesse de rotation&nbsp;: 7200 RPM
 
 J'ai fait un petit tout chez LDLC mais j'ai besoin de vous : je n'y connais rien
 en marques… avez-vous eu des expériences désastreuses ; avez-vous lu des

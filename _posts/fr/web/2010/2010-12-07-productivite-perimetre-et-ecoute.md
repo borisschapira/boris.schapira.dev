@@ -1,7 +1,7 @@
 ---
 title: 'Productivité, périmètre et écoute'
 tags:
-  - Management
+    - Management
 ---
 
 La plupart des projets informatiques échouent à cause d'un mauvais management.

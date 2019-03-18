@@ -1,7 +1,7 @@
 ---
 title: "Lancement presse de l'Imagine Cup 2007"
 tags:
-  - MSP
+    - MSP
 ---
 
 Ce soir a eu lieu le lancement officiel de l'Imagine Cup 2007, dont la finale se

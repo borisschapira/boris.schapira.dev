@@ -1,7 +1,7 @@
 ---
 title: 'Expert ou pas ?'
 tags:
-  - Management
+    - Management
 ---
 
 En entreprise, une compétence est rarement absolue, elle s'évalue souvent en

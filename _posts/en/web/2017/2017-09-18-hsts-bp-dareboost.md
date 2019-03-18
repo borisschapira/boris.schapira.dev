@@ -4,7 +4,7 @@ i18n-key: hsts-bp-dareboost
 main_image: /assets/images/2017-09-18/1.jpg
 canonical: 'https://blog.dareboost.com/en/2017/09/hsts-ensure-secured-connections/'
 tags:
-  - 'Performance Web'
+    - 'Performance Web'
 cloudinary_logo: dareboost-logo
 slug: hsts-ensure-secured-connections
 ---
@@ -126,18 +126,22 @@ following set of requirements:
 2.  Automatically redirect from to HTTPS on the same host
 3.  Serve all subdomains over HTTPS
 4.  Respond an HSTS header on the base domain for HTTPS requests:
-    - The max-age must be at least
-      <del datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">10886400
-      seconds (18 weeks)</del>
-      <ins datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">31536000
-      seconds (a year)</ins[^twalle].
-    - The directive header must include the subdomains.
-    - The preload directive must be specified.
-    - If you are serving an additional redirect from your HTTPS site, that
-      redirect must still have the HSTS header (rather than the page it
-      redirects to).
+    -   The max-age must be at least
+        <del datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">10886400
+        seconds (18 weeks)</del>
+        <ins datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">31536000
+        seconds (a year)</ins[^twalle].
+    -   The directive header must include the subdomains.
+    -   The preload directive must be specified.
+    -   If you are serving an additional redirect from your HTTPS site, that
+        redirect must still have the HSTS header (rather than the page it
+        redirects to).
 
-[^twalle]: The value was 18 weeks when I wrote the post. It has been changed to a year between october 11<sup>th</sup> and october 16<sup>th</sup>. Thanks to [@Thibault_Walle](https://twitter.com/Thibault_Walle) for pointing that out.
+[^twalle]:
+
+    The value was 18 weeks when I wrote the post. It has been changed to a year
+    between october 11<sup>th</sup> and october 16<sup>th</sup>. Thanks to
+    [@Thibault_Walle](https://twitter.com/Thibault_Walle) for pointing that out.
 
 If your website is eligible, you can submit its domain for inclusion
 [over this form](https://hstspreload.org/ 'HSTS Preload List Submission').
@@ -181,5 +185,5 @@ thus protecting your visitors.
 
 ## Further information about HSTS
 
-- [HTTP Strict Transport Security – The Chromium Projects](https://www.chromium.org/hsts)
-- [HTTP Strict Transport Security Cheat Sheet – OWASP](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet)
+-   [HTTP Strict Transport Security – The Chromium Projects](https://www.chromium.org/hsts)
+-   [HTTP Strict Transport Security Cheat Sheet – OWASP](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet)

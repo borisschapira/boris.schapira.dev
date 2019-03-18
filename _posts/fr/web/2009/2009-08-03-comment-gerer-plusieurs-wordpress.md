@@ -1,8 +1,8 @@
 ---
 title: 'Comment gérer plusieurs Wordpress ?'
 tags:
-  - Technologie
-  - Wordpress
+    - Technologie
+    - Wordpress
 ---
 
 En tant que webmaster de plusieurs blogs Wordpress, je me heurte à un problème

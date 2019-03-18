@@ -1,8 +1,8 @@
 ---
 title: 'Identité, utilisateurs, idéologie : un très bon article sur Linux'
 tags:
-  - Technologie
-  - Liens
+    - Technologie
+    - Liens
 slug: identite-utilisateurs-ideologie-un-tres-bon-article-sur-linux
 ---
 

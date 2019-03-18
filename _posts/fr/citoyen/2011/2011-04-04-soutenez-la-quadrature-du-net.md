@@ -1,8 +1,8 @@
 ---
 title: 'Soutenez la Quadrature du Net'
 tags:
-  - Société
-  - 'Transformation numérique'
+    - Société
+    - 'Transformation numérique'
 ---
 
 La **[Quadrature du Net](https://support.laquadrature.net/)** informe et donne

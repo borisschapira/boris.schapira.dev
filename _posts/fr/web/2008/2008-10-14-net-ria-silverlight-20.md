@@ -1,8 +1,8 @@
 ---
 title: '.NET + RIA = Silverlight 2.0. Flash killer ?'
 tags:
-  - Développement
-  - Silverlight
+    - Développement
+    - Silverlight
 ---
 
 Prenez une solution existante, principalement dédiée aux graphistes possèdant

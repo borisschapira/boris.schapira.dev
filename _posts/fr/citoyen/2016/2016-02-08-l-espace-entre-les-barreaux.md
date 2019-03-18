@@ -1,7 +1,7 @@
 ---
 title: "L'espace entre les barreaux"
 tags:
-  - "État d'Urgence"
+    - "État d'Urgence"
 ---
 
 > [...] chacune de ces mesures réduit insensiblement l’espacement des barreaux,

@@ -1,8 +1,8 @@
 ---
 title: 'Un polochon contre la crise ?'
 tags:
-  - Finance
-  - Crise
+    - Finance
+    - Crise
 ---
 
 A force de diaboliser la profession, ça devait arriver. Ce qui est bien, c'est

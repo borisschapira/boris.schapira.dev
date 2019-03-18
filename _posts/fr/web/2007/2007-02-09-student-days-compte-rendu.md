@@ -1,7 +1,7 @@
 ---
 title: 'Student Days : compte-rendu'
 tags:
-  - Conférences
+    - Conférences
 ---
 
 Dans un amphithéâtre suréquipé du Palais des Congrès de Paris, Benjamin Gauthey

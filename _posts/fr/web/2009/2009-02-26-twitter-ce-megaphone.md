@@ -1,9 +1,9 @@
 ---
 title: 'Twitter, ce mégaphone'
 tags:
-  - Technologie
-  - "Billet d'humeur"
-  - Microblogging
+    - Technologie
+    - "Billet d'humeur"
+    - Microblogging
 ---
 
 Pour certains, Twitter est un instrument social. Il leur permet de garder le

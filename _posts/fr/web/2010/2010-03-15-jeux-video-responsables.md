@@ -1,7 +1,7 @@
 ---
 title: 'Jeux vidéo responsables'
 tags:
-  - 'Jeu Video'
+    - 'Jeu Video'
 ---
 
 Une polémique enfle depuis quelques temps autour d'une scène particulièrement

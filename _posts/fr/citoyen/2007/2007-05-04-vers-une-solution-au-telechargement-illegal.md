@@ -1,7 +1,7 @@
 ---
 title: 'Vers une solution au téléchargement illégal'
 tags:
-  - Numérique
+    - Numérique
 ---
 
 Tandis que le débat présidentiel fait rage,

@@ -1,7 +1,7 @@
 ---
 title:
-  "L'analyse du projet de révision constitutionnelle : la déchéance de
-  nationalité"
+    "L'analyse du projet de révision constitutionnelle : la déchéance de
+    nationalité"
 tags: null
 loadTwitterWjs: true
 slug: analyse-du-projet-de-revision-constitutionnelle-decheance-de-nationalite

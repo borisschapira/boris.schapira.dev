@@ -1,7 +1,7 @@
 ---
 title: '[VS2010] Productivity Power Tools'
 tags:
-  - Outils
+    - Outils
 ---
 
 Visual Studio 2010 est assez riche en fonctionnalités à l’origine mais on trouve
@@ -83,45 +83,47 @@ extraite, traduite et enrichie à partir de
 vice-président de la division Développement de Microsoft notamment connu pour sa
 participation au projet ASP.NET, qu’il a créé avec Mark Anders)&nbsp;:
 
-- **Surlignage d’une Ligne Entière**&nbsp;: Facilite le suivi du curseur dans
-  l’éditeur
-- **Sélection d’une Ligne Entière**&nbsp;: Un triple-clic sur une ligne permet
-  de la sélectionner (comme dans MS Word)
-- **Déplacement d’un bloc de code**&nbsp;: Utilisez Alt+Haut/Bas pour déplacer
-  un bloc de code dans l’éditeur
-- **Usage Consistant des Tabulations et des Espaces**&nbsp;: Assure une
-  utilisation consistante des tabulations et des espaces entre vos projets
-- **Fermeture Automatiques**&nbsp;: Créez automatiquement le complément fermant
-  d’un élément d’ouverture (comme (), , [], &lt;&gt;, "", et ‘’)
-- **Paramètres Colorés**&nbsp;: Facilite l’identification des paramètres de
-  méthodes
-- **Indicateurs de Colonnes**&nbsp;: Ajoute, si vous le voulez, des indicateurs
-  visuels verticaux (de couleurs différentes) facilitant l’alignement du texte
-- **Affectations Alignées**&nbsp;: Facilite l’alignement de vos affectations de
-  variables dans le code
-- **Presse-Papier HTML**&nbsp;: Copiez/Collez votre code depuis Visual Studio
-  vers un tampon HTML (utile pour blogger)
-- **Ctrl + Clic pour Aller à la Definition**&nbsp;: Maintenez Control enfoncé en
-  cliquant sur un type pour aller à sa définition
+-   **Surlignage d’une Ligne Entière**&nbsp;: Facilite le suivi du curseur dans
+    l’éditeur
+-   **Sélection d’une Ligne Entière**&nbsp;: Un triple-clic sur une ligne permet
+    de la sélectionner (comme dans MS Word)
+-   **Déplacement d’un bloc de code**&nbsp;: Utilisez Alt+Haut/Bas pour déplacer
+    un bloc de code dans l’éditeur
+-   **Usage Consistant des Tabulations et des Espaces**&nbsp;: Assure une
+    utilisation consistante des tabulations et des espaces entre vos projets
+-   **Fermeture Automatiques**&nbsp;: Créez automatiquement le complément
+    fermant d’un élément d’ouverture (comme (), , [], &lt;&gt;, "", et ‘’)
+-   **Paramètres Colorés**&nbsp;: Facilite l’identification des paramètres de
+    méthodes
+-   **Indicateurs de Colonnes**&nbsp;: Ajoute, si vous le voulez, des
+    indicateurs visuels verticaux (de couleurs différentes) facilitant
+    l’alignement du texte
+-   **Affectations Alignées**&nbsp;: Facilite l’alignement de vos affectations
+    de variables dans le code
+-   **Presse-Papier HTML**&nbsp;: Copiez/Collez votre code depuis Visual Studio
+    vers un tampon HTML (utile pour blogger)
+-   **Ctrl + Clic pour Aller à la Definition**&nbsp;: Maintenez Control enfoncé
+    en cliquant sur un type pour aller à sa définition
 
 L’extension inclut également quelques améliorations dans la gestion des onglets
 par l’IDE :
 
-- **Affichage du Bouton Fermer dans l’Onglet**&nbsp;: Affiche un bouton de
-  fermeture dans l’onglet actif (comme c’était le cas dans VS 2008)
-- **Onglets Colorés**&nbsp;: Vous pouvez désormais affecté une couleur à chaque
-  onglet de votre projet ou déterminer une couleur via une expression régulière
-- **Accrochage des Onglets**&nbsp;: Vous permet d’accrocher un onglet à l’IDE,
-  afin qu’il soit toujours visible et disponible
-- **Onglets Verticaux**&nbsp;: Affiche les onglets verticalement, ce qui permet
-  d’en afficher davantage
-- **Retrait des Onglets en Fonction de l’Usage**&nbsp;: Retire les onglets les
-  moins utiliser lorsque l’ajout de nouveaux onglets implique des contraintes
-  d’espace
-- **Tri des Onglets par Projet**&nbsp;: Les onglets peuvent être triés en
-  fonction du projet auquel ils appartiennent
-- **Tri Alphabétique des Onglets**&nbsp;: Les onglets peuvent être triés
-  alphabétiquement
+-   **Affichage du Bouton Fermer dans l’Onglet**&nbsp;: Affiche un bouton de
+    fermeture dans l’onglet actif (comme c’était le cas dans VS 2008)
+-   **Onglets Colorés**&nbsp;: Vous pouvez désormais affecté une couleur à
+    chaque onglet de votre projet ou déterminer une couleur via une expression
+    régulière
+-   **Accrochage des Onglets**&nbsp;: Vous permet d’accrocher un onglet à l’IDE,
+    afin qu’il soit toujours visible et disponible
+-   **Onglets Verticaux**&nbsp;: Affiche les onglets verticalement, ce qui
+    permet d’en afficher davantage
+-   **Retrait des Onglets en Fonction de l’Usage**&nbsp;: Retire les onglets les
+    moins utiliser lorsque l’ajout de nouveaux onglets implique des contraintes
+    d’espace
+-   **Tri des Onglets par Projet**&nbsp;: Les onglets peuvent être triés en
+    fonction du projet auquel ils appartiennent
+-   **Tri Alphabétique des Onglets**&nbsp;: Les onglets peuvent être triés
+    alphabétiquement
 
 ### Installation
 

@@ -1,7 +1,7 @@
 ---
 title: "Hadopi : vote demain à l'Assemblée"
 tags:
-  - Numérique
+    - Numérique
 series: Hadopi
 ---
 

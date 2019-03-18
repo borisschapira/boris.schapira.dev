@@ -1,11 +1,11 @@
 ---
 title: 'Départ de SGCIB'
 tags:
-  - Emploi
-  - Finance
-  - Emploi
-  - Nexeo
-  - SGCIB
+    - Emploi
+    - Finance
+    - Emploi
+    - Nexeo
+    - SGCIB
 ---
 
 Vendredi dernier a eu lieu un grand pot de départ dans ma salle de marché.

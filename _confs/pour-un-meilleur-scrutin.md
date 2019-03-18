@@ -1,16 +1,16 @@
 ---
 title: 'Pour un meilleur scrutin'
 subtitle: pour les citoyens et citoyennes qui s'interrogent
-description:
-  "Le mode de scrutin utilisé en France pour les élections présidentielles a des
-  avantages et des inconvénients. Peu importe qu'on l'apprécie ou non, il modèle
-  la vie politique et, parfois, nous oblige à mentir. Comment mieux le faire
-  comprendre qu'au travers d'un exercice pratique ?"
+description: >-
+    Le mode de scrutin utilisé en France pour les élections présidentielles a
+    des avantages et des inconvénients. Peu importe qu'on l'apprécie ou non, il
+    modèle la vie politique et, parfois, nous oblige à mentir. Comment mieux le
+    faire comprendre qu'au travers d'un exercice pratique ?
 url: https://pour-un-meilleur-scrutin.fr/
 last_date: 2017-04-01
 events:
-  - name: 'Site Web open source CC0'
-    date: 2017-04-01
+    - name: 'Site Web open source CC0'
+      date: 2017-04-01
 ---
 
 _Une fois n'est pas coutume, il ne s'agit pas d'une conférence mais de la

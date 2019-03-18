@@ -1,7 +1,7 @@
 ---
 title: 'Revenu de base'
 tags:
-  - Emploi
+    - Emploi
 ---
 
 > Le revenu universel suppose la primauté de l’équité et du social sur
@@ -16,13 +16,15 @@ aborder politiquement le sujet : nous vivons dans une société qui préfère
 que d'indemniser des chômeurs sans contrepartie. Le social n'a pas la primauté
 sur l'économie.
 
-[^dossier]: Si le sujet vous intéresse mais qu'il vous manque les bases, lisez
-  [ce dossier](http://www.controverses-minesparistech-4.fr/~groupe16/ 'Revenu de base : Utopie ou pragmatisme')
-  d'étudiants, que je trouve très bien réalisé et, chose rare, très neutre. Si
-  vous n'avez pas le courage de lire tout leur travail,
-  [leur synthèse](http://www.controverses-minesparistech-4.fr/~groupe16/2015/06/01/en-bref/)
-  vous donnera les clés nécessaires à une compréhension générale de la
-  problématique.
+[^dossier]:
+
+    Si le sujet vous intéresse mais qu'il vous manque les bases, lisez
+    [ce dossier](http://www.controverses-minesparistech-4.fr/~groupe16/ 'Revenu de base : Utopie ou pragmatisme')
+    d'étudiants, que je trouve très bien réalisé et, chose rare, très neutre. Si
+    vous n'avez pas le courage de lire tout leur travail,
+    [leur synthèse](http://www.controverses-minesparistech-4.fr/~groupe16/2015/06/01/en-bref/)
+    vous donnera les clés nécessaires à une compréhension générale de la
+    problématique.
 
 J'attends avec impatience d'en savoir plus sur l'expérimentation
 [négociée par Les Verts en Aquitaine](http://rue89bordeaux.com/2015/12/le-revenu-de-base-dans-laccord-ps-eelv-pour-la-region/ '"Le revenu de base dans l’accord PS-EELV pour la région", Walid Salem').

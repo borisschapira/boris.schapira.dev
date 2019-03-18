@@ -1,8 +1,8 @@
 ---
 title: '.NET ouvre son code'
 tags:
-  - Développement
-  - .NET
+    - Développement
+    - .NET
 ---
 
 Un des gros reproches (parfois à raison) du monde du libre envers le Framework
@@ -14,11 +14,11 @@ février 2008.
 
 La mesure s'apliquera dans un premier temps aux namespaces suivants&nbsp;:
 
-- Base class libraries
-- Windows Forms
-- ASP .NET
-- System.Data
-- Windows Presentation Foundation
+-   Base class libraries
+-   Windows Forms
+-   ASP .NET
+-   System.Data
+-   Windows Presentation Foundation
 
 Bien sûr, il y a des conditions mais l'annonce de ce partage du code permettra
 aux développeurs de lire le code du Framework et d'enfin comprendre parfaitement

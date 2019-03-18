@@ -1,7 +1,7 @@
 ---
 title: 'Hadopi en Commission Mixte Paritaire'
 tags:
-  - Numérique
+    - Numérique
 series: Hadopi
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Emploi, précarité, stages et auto-rêve'
 tags:
-  - Emploi
+    - Emploi
 ---
 
 Aujourd'hui en France, certains luttent contre la précarité et essaie de

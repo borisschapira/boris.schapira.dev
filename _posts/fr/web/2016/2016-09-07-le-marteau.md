@@ -1,7 +1,7 @@
 ---
 title: 'Le syndrôme du marteau'
 tags:
-  - Conseil
+    - Conseil
 ---
 
 Dans une mission de conseil en choix de solutions, il y a toujours une des

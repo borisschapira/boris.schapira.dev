@@ -1,10 +1,10 @@
 ---
 title:
-  'Avec TypeScript, Microsoft espère offrir à JavaScript les outils pour se
-  développer'
+    'Avec TypeScript, Microsoft espère offrir à JavaScript les outils pour se
+    développer'
 tags:
-  - Outils
-  - Front-End
+    - Outils
+    - Front-End
 canonical: 'https://blog.clever-age.com/fr/2012/10/03/avec-typescript-microsoft-espere-offrir-a-javascript-les-outils-pour-se-developper/'
 slug: avec-typescript-microsoft-espere-offrir-a-javascript-les-outils-pour-se-developper
 ---
@@ -56,19 +56,19 @@ objet. En somme, un cri d’amour de Microsoft envers une technologie en pleine
 
 De plus :
 
-- Respectant la syntaxe JavaScript, il peut être utilisé dès maintenant sur des
-  projets en Production, sans coût de migration
-- Quand c’est possible, TypeScript infère le type. Cela veut dire que même si
-  vous lui passez vos JavaScripts actuels, il les validera en vérifiant que les
-  types sont respectés
-- Il n’exclut pas de continuer à utiliser les outils JavaScript déjà présent
-  dans votre intégration continue : compilateurs, réducteurs, concaténeurs
-  s’appliqueront sur le JavaScript en sortie de TypeScript.
-- En ajoutant un compilateur, il ajoute une sécurité supplémentaire contre les
-  erreurs de développement
-- Son compilateur est lui-même en JavaScript, ouvrant la porte à des
-  compilations à la volée
-- Il est livré avec des add-ins pour la coloration syntaxique sous Sublime Text
-  2, Vim et Emacs
+-   Respectant la syntaxe JavaScript, il peut être utilisé dès maintenant sur
+    des projets en Production, sans coût de migration
+-   Quand c’est possible, TypeScript infère le type. Cela veut dire que même si
+    vous lui passez vos JavaScripts actuels, il les validera en vérifiant que
+    les types sont respectés
+-   Il n’exclut pas de continuer à utiliser les outils JavaScript déjà présent
+    dans votre intégration continue : compilateurs, réducteurs, concaténeurs
+    s’appliqueront sur le JavaScript en sortie de TypeScript.
+-   En ajoutant un compilateur, il ajoute une sécurité supplémentaire contre les
+    erreurs de développement
+-   Son compilateur est lui-même en JavaScript, ouvrant la porte à des
+    compilations à la volée
+-   Il est livré avec des add-ins pour la coloration syntaxique sous Sublime
+    Text 2, Vim et Emacs
 
 A vous d’essayer désormais, et de vous faire une idée…

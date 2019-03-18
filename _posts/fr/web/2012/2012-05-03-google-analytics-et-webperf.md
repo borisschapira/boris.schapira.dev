@@ -1,7 +1,7 @@
 ---
 title: 'Google Analytics et la performance Web'
 tags:
-  - 'Performance Web'
+    - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2012/05/03/google-analytics-et-la-performance-web/'
 ---
 

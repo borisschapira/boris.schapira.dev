@@ -1,7 +1,7 @@
 ---
 title: 'TechDays 2008 : bloquez votre planning'
 tags:
-  - Techdays
+    - Techdays
 ---
 
 Les Microsoft TechDays 2008 se dérouleront les **11, 12 et 13 février 2008 au

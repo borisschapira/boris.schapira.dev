@@ -1,7 +1,7 @@
 ---
 title: 'Quelles nouveautés pour C# 4.0'
 tags:
-  - .NET
+    - .NET
 ---
 
 Le langage C# (qui arrive gentiment sur ses 10 ans) évolue de version en
@@ -12,11 +12,11 @@ tout ce qui était nécessaire à son intégration.
 
 _Quelques infos sur cette présentation_ :
 
-- Mitsu semble avoir utiliser les slides de la présentation TechEd 08 "**The
-  future of C#**" (par Mads Torgersen). Nous devrions donc la voir apparaitre
-  rapidement sur TechNet.
-- Pour les anglophones, un article très complet est disponibles sur
-  [MSDN : C# Futures](https://code.msdn.microsoft.com:443/csharpfuture).
+-   Mitsu semble avoir utiliser les slides de la présentation TechEd 08 "**The
+    future of C#**" (par Mads Torgersen). Nous devrions donc la voir apparaitre
+    rapidement sur TechNet.
+-   Pour les anglophones, un article très complet est disponibles sur
+    [MSDN : C# Futures](https://code.msdn.microsoft.com:443/csharpfuture).
 
 ## Quelle surprise nous réserve C# 4.0 ?
 
@@ -25,24 +25,24 @@ mardi en session aux Microsoft TechDays 2009\. Pour répondre à cette question,
 Mitsu nous a proposé d’analyser les grandes tendances actuelles en matière de
 développement :
 
-- L’envie de développer sur
-  [des langages de plus en plus déclaratifs](https://fr.wikipedia.org/wiki/Programmation_d%C3%A9clarative),
-  facilement compréhensibles.  Les développeurs peuvent ainsi se concentrer
-  d’avantage sur ce qu'ils doivent faire, pas sur la façon dont ils pourront
-  rendre leur
-  [code impératif](https://fr.wikipedia.org/wiki/Programmation_imp%C3%A9rative)
-  fonctionnel.
-- L’attrait pour les langages dynamiques. Php, Javascript, Ruby… connaissent un
-  succès qui ne se dément pas. La simplicité du développement, le typage
-  implicite et l’absence de compilation y sont pour beaucoup.
-- Paradoxalement, un intérêt sans cesse renouvelé pour les langages statiques.
-  Ils apportent leur lot de robustesse, de performance et d’outils intelligents
-  comme IntelliSense dans Visual Studio, ainsi que, généralement, une meilleure
-  capacité à* monté en charge*
-  ([ce point a été développé par Mitsu en commentaire](/2009/02/quelles-nouveautes-pour-c-40/)).
-- Enfin, un besoin important d’économiser de l’énergie en privilégiant les
-  technologie multicores, et donc de maitriser les problématiques d’accès
-  concurrent et de gestion de ressources démultipliées.
+-   L’envie de développer sur
+    [des langages de plus en plus déclaratifs](https://fr.wikipedia.org/wiki/Programmation_d%C3%A9clarative),
+    facilement compréhensibles.  Les développeurs peuvent ainsi se concentrer
+    d’avantage sur ce qu'ils doivent faire, pas sur la façon dont ils pourront
+    rendre leur
+    [code impératif](https://fr.wikipedia.org/wiki/Programmation_imp%C3%A9rative)
+    fonctionnel.
+-   L’attrait pour les langages dynamiques. Php, Javascript, Ruby… connaissent
+    un succès qui ne se dément pas. La simplicité du développement, le typage
+    implicite et l’absence de compilation y sont pour beaucoup.
+-   Paradoxalement, un intérêt sans cesse renouvelé pour les langages statiques.
+    Ils apportent leur lot de robustesse, de performance et d’outils
+    intelligents comme IntelliSense dans Visual Studio, ainsi que, généralement,
+    une meilleure capacité à* monté en charge*
+    ([ce point a été développé par Mitsu en commentaire](/2009/02/quelles-nouveautes-pour-c-40/)).
+-   Enfin, un besoin important d’économiser de l’énergie en privilégiant les
+    technologie multicores, et donc de maitriser les problématiques d’accès
+    concurrent et de gestion de ressources démultipliées.
 
 C# 4.0 s’efforcera donc de répondre à l’ensemble de ses problématiques.  Il
 poursuivra le travail de C# 3.0 et continuera à promouvoir l'utilisation de

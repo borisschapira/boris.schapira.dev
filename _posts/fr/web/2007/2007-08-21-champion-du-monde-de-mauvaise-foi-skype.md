@@ -1,8 +1,8 @@
 ---
 title: 'Skype révèle les raisons du crash'
 tags:
-  - Technologie
-  - Crash
+    - Technologie
+    - Crash
 ---
 
 Je trouve Skype génial. Sérieusement, je suis un utilisateur assez satisfait.

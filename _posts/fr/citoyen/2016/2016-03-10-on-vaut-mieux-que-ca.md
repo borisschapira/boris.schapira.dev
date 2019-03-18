@@ -1,7 +1,7 @@
 ---
 title: '#OnVautMieuxQueCa'
 tags:
-  - Emploi
+    - Emploi
 ---
 
 > Mais quels effets aurait cette réforme sur un entrepreneur ?
@@ -33,9 +33,11 @@ au forfait jour pour un quasi-doublement du temps de travail compensé par une
 majoration de 20% du salaire), pour finalement être licenciés quand l'employeur
 n'arrivera pas à décrocher un second gros contrat[^2].
 
-[^2]: lire, sur le même site, l'exercice côté salarié
-  "[Ce qui changerait pour Michel, 50 ans, salarié, avec la 'loi travail'](http://www.lemonde.fr/les-decodeurs/article/2016/03/04/concretement-que-changerait-la-reforme-el-khomri-du-droit-du-travail-pour-un-salarie_4876899_4355770.html#jV2hiYF7KXWTqDGl.99)",
-  d'Alexandre Pouchard.
+[^2]:
+
+    lire, sur le même site, l'exercice côté salarié
+    "[Ce qui changerait pour Michel, 50 ans, salarié, avec la 'loi travail'](http://www.lemonde.fr/les-decodeurs/article/2016/03/04/concretement-que-changerait-la-reforme-el-khomri-du-droit-du-travail-pour-un-salarie_4876899_4355770.html#jV2hiYF7KXWTqDGl.99)",
+    d'Alexandre Pouchard.
 
 On ne parle pas d'estime de soi, des gens qui se ruineront en garde d'enfant
 pour ne les voir au final qu'une heure par jour (s'ils en ont le temps), du lien
@@ -51,10 +53,12 @@ plafonné le montant maximal de l'indemnité pour licenciement abusif. La
 précarité au service de la mobilité salariale et tant pis si ceux qui le font ne
 sont pas des modèles à suivre[^allemagne].
 
-[^allemagne]: l'Allemagne est un de ces pays où tout a été fait pour augmenter la mobilité
-  des travailleurs. Avec plus de
-  [12,5 millions de personnes sous le seuil de pauvreté](http://www.lesechos.fr/20/02/2015/lesechos.fr/0204174006166_allemagne---12-5-millions-de-personnes-sous-le-seuil-de-pauvrete--un-record.htm),
-  le bilan est amer.
+[^allemagne]:
+
+    l'Allemagne est un de ces pays où tout a été fait pour augmenter la mobilité
+    des travailleurs. Avec plus de
+    [12,5 millions de personnes sous le seuil de pauvreté](http://www.lesechos.fr/20/02/2015/lesechos.fr/0204174006166_allemagne---12-5-millions-de-personnes-sous-le-seuil-de-pauvrete--un-record.htm),
+    le bilan est amer.
 
 C'est vraiment dommage, car ce texte cherche à étendre à un maximum de salarié
 ce qui a déjà cours ailleurs. Alors que vient de se clore l'enquête sur les
@@ -79,12 +83,16 @@ leur limitation temporelle (pas de reconduction tacite).
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1674229897/size=large/bgcol=ffffff/linkcol=d00b6d/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://l1consolable.bandcamp.com/track/on-vaut-mieux-que-a">On vaut mieux que ça! by L&#39;1consolable</a></iframe>
 
-[^pierre]: y compris dans les rangs de la Ministre dont la plume,
-  [Pierre Jacquemain, a claqué la porte du cabinet](http://www.humanite.fr/pourquoi-jai-demissionne-du-cabinet-el-khomri-600542).
+[^pierre]:
 
-[^rapport]: Rapport
-  "[La négociation collective, le travail et l’emploi](/assets/docs/2016-03-10/rapport_combrexelle.pdf)",
-  dont une [synthèse](/assets/docs/2016-03-10/synthese_combrexelle.pdf) est
-  également disponible.
+    y compris dans les rangs de la Ministre dont la plume,
+    [Pierre Jacquemain, a claqué la porte du cabinet](http://www.humanite.fr/pourquoi-jai-demissionne-du-cabinet-el-khomri-600542).
+
+[^rapport]:
+
+    Rapport
+    "[La négociation collective, le travail et l’emploi](/assets/docs/2016-03-10/rapport_combrexelle.pdf)",
+    dont une [synthèse](/assets/docs/2016-03-10/synthese_combrexelle.pdf) est
+    également disponible.
 
 [^1]: en français : syndrome d'épuisement professionnel.

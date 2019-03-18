@@ -1,9 +1,9 @@
 ---
 title: 'Quel serveur NAS pour la maison ?'
 tags:
-  - Technologie
-  - NAS
-  - Stockage
+    - Technologie
+    - NAS
+    - Stockage
 ---
 
 Ce n'est plus possible. Entre les Isos des build de Seven et de Vista, les

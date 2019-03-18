@@ -1,7 +1,7 @@
 ---
 title: 'Développeurs Web : 10 conseils ultimes…'
 tags:
-  - Front-End
+    - Front-End
 ---
 
 Je pointe à nouveau vers une excellente ressource extérieure. Cette fois

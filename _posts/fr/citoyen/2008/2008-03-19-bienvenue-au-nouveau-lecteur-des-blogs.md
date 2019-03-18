@@ -1,7 +1,7 @@
 ---
 title: 'Bienvenue au nouveau lecteur des blogs'
 tags:
-  - Sarkozy
+    - Sarkozy
 ---
 
 Toutes mes félicitations à toi,

@@ -1,8 +1,8 @@
 ---
 title: 'Carrington Blog 2.0 FR'
 tags:
-  - Développement
-  - Wordpress
+    - Développement
+    - Wordpress
 ---
 
 [Crowd Favorite](http://crowdfavorite.com/) vient de livrer son thème wordpress
@@ -20,8 +20,8 @@ images et les scripts modifiés. N'hésitez pas à laissez un petit commentaire 
 
 Au menu des améliorations par rapport à la version 1.x&nbsp;:
 
-- Commentaires imbriqués
-- Couleurs personnalisables
-- Header personnalisable
-- Lightbox pour la gallerie
-- et plein d'autres trucs dont vous aurez [le détail ici](http://theme.co/x/).
+-   Commentaires imbriqués
+-   Couleurs personnalisables
+-   Header personnalisable
+-   Lightbox pour la gallerie
+-   et plein d'autres trucs dont vous aurez [le détail ici](http://theme.co/x/).

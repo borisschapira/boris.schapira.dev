@@ -3,7 +3,7 @@ title: 'Premier Test de mise en forme'
 subtitle: 'un test de suivi'
 i18n-key: test-of-layout
 tags:
-  - Typographie
+    - Typographie
 sitemap: false
 norobots: true
 slug: test-typo
@@ -27,15 +27,27 @@ slug: test-typo
 
 ## Horizontal Rules
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor, animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor,
+animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea
+ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat
+inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil
+erat, quod Zeno commutare gestiret.
 
-***
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor, animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor,
+animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea
+ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat
+inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil
+erat, quod Zeno commutare gestiret.
 
-***
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor, animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor,
+animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea
+ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat
+inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil
+erat, quod Zeno commutare gestiret.
 
 ## Typographic replacements
 
@@ -78,8 +90,8 @@ Si je double le 2ème, je deviens 1er.
 
 **Currencies**
 
-- 599\$, donc 599 €.
-- \$599, so € 599
+-   599\$, donc 599 €.
+-   \$599, so € 599
 
 **Multiply**
 
@@ -111,13 +123,13 @@ _This is italic text_
 
 Unordered
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    - Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-- Very easy!
+-   Create a list by starting a line with `+`, `-`, or `*`
+-   Sub-lists are made by indenting 2 spaces:
+    -   Marker character change forces new list start:
+        -   Ac tristique libero volutpat at
+        *   Facilisis in pretium nisl aliquet
+        -   Nulla volutpat aliquam velit
+-   Very easy!
 
 Ordered
 
@@ -149,7 +161,7 @@ Syntax highlighting
 
 ```js
 var foo = function(bar) {
-  return bar++;
+    return bar++;
 };
 
 console.log(foo(5));
@@ -188,10 +200,13 @@ Footnote 2 link[^second].
 Duplicated footnote reference[^second].
 
 [^first]: Footnote **can have markup**
+[^second]:
 
-  and multiple paragraphs.
-
-[^second]: Footnote text.
+    Footnote text can be long lorem ipsum dolor sit amet, consectetur adipiscing
+    elit. Primum cur ista res digna odio est, nisi quod est turpis? Ita nemo
+    beato beatior. Duo Reges: constructio interrete. Sed tu istuc dixti bene
+    Latine, parum plane. Polemoni et iam ante Aristoteli ea prima visa sunt,
+    quae paulo ante dixi
 
 ### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
 
@@ -215,7 +230,8 @@ Term 2 ~ Definition 2a ~ Definition 2b
 
 ### Abbreviations
 
-This is <abbr title="Hypertext Markup Language">HTML</abbr> abbreviation example.
+This is <abbr title="Hypertext Markup Language">HTML</abbr> abbreviation
+example.
 
 ### Custom containers
 

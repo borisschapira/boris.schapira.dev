@@ -1,8 +1,8 @@
 ---
 title: 'Infusion numérique'
 tags:
-  - 'Transformation numérique'
-  - Emploi
+    - 'Transformation numérique'
+    - Emploi
 ---
 
 > L’idée centrale de [l']ouvrage [de Tyler Cowen] est que l’évolution

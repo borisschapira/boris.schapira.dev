@@ -1,8 +1,8 @@
 ---
 title: 'Adobe Shadow, le Graal du développement Front-End mobile ?'
 tags:
-  - Front-End
-  - Outils
+    - Front-End
+    - Outils
 canonical: 'https://blog.clever-age.com/fr/2012/03/09/adobe-shadow-le-graal-du-developpement-front-end-mobile/'
 slug: adobe-shadow-le-graal-du-developpement-front-end-mobile
 ---

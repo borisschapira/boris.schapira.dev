@@ -1,7 +1,7 @@
 ---
 title: 'Un collègue rejoint les MSP !'
 tags:
-  - MSP
+    - MSP
 ---
 
 La communauté Microsoft Student Partner intègre régulièrement de nouveaux

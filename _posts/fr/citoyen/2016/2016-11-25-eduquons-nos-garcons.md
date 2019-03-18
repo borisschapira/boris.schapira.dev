@@ -1,7 +1,7 @@
 ---
 title: 'Éduquons nos garçons'
 tags:
-  - Éducation
+    - Éducation
 loadTwitterWjs: true
 ---
 

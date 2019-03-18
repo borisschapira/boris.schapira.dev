@@ -1,7 +1,7 @@
 ---
 title: 'Groupes, causes et amis dans Facebook'
 tags:
-  - Facebook
+    - Facebook
 ---
 
 Depuis quelques semaines, je me pose des questions sur l'utilisation de

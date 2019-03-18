@@ -1,10 +1,10 @@
 ---
 title: Workholics
 tags:
-  - Emploi
-  - Technologie
-  - "Billet d'humeur"
-  - SmartPhone
+    - Emploi
+    - Technologie
+    - "Billet d'humeur"
+    - SmartPhone
 ---
 
 L'**avènement** des nouvelles technologies de **mobilité** (ordinateurs de plus

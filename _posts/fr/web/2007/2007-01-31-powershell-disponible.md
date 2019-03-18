@@ -1,9 +1,9 @@
 ---
 title: 'Powershell disponible'
 tags:
-  - Développement
-  - Technologie
-  - .NET
+    - Développement
+    - Technologie
+    - .NET
 ---
 
 Comme certains d'entre vous le savent, Powershell est une interface en ligne de

@@ -1,7 +1,7 @@
 ---
 title: 'Dangers du Net : le Cheval de Troie'
 tags:
-  - Vulgarisation
+    - Vulgarisation
 series: 'Dangers du Net'
 ---
 

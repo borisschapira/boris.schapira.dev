@@ -1,7 +1,7 @@
 ---
 title: 'Quels écouteurs choisir ? A votre avis ?'
 tags:
-  - 'Me, myself and I'
+    - 'Me, myself and I'
 ---
 
 Mon adaptateur USB Mini/Jack commence sérieusement à rendre l'âme et mon

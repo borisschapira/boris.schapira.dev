@@ -1,8 +1,8 @@
 ---
 title: 'Elections présidentielles 2007 #3'
 tags:
-  - Débat
-  - Présidentielles
+    - Débat
+    - Présidentielles
 ---
 
 Je retire ce que je disais, les médias n'ont pas attendu la fin de l'élection

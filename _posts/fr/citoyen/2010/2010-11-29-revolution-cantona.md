@@ -1,7 +1,7 @@
 ---
 title: 'Révolution Cantona'
 tags:
-  - Finance
+    - Finance
 ---
 
 Imaginez que, par hasard où

@@ -1,8 +1,8 @@
 ---
 title: 'Envois postaux : attention aux tarifs'
 tags:
-  - 'Me, myself and I'
-  - Mariage
+    - 'Me, myself and I'
+    - Mariage
 slug: envois-postaux-faire-part-remerciement-attention-aux-tarifs
 ---
 

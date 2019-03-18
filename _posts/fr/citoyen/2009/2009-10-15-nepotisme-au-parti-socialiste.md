@@ -1,8 +1,8 @@
 ---
 title: 'Népotisme au Parti Socialiste'
 tags:
-  - France
-  - 'Jean Sarkozy'
+    - France
+    - 'Jean Sarkozy'
 ---
 
 _Honte, scandale, malheur : Martine Aubry, fille de Jacques Delors, serait
@@ -13,27 +13,28 @@ père&nbsp;!_
 
 Jugez plutôt son parcours, et vous comprendrez&nbsp;:
 
-- **1972, 22 ans** : elle obtient sa licence de sciences économiques, ainsi que
-  des diplômes de l'Institut des sciences sociales du travail et de de
-  l'Institut d'études politiques de Paris. C'est en fait Jacques qui secrètement
-  étudie à sa place et passe les examens. Quand cela n'est pas possible, il
-  influence les examinateurs en leur expliquant que tout refus d'attribution de
-  diplôme à sa fille pourrait être sanctionné par un procès pour discrimination
-  sexuelle. L'arguement fait mouche, Martinette obtient toutes ses U.V.
-- **1975, 25 ans**&nbsp;: elle finit l'ENA et acquiert un poste
-  d'administratrice civile au Ministère du Travail et des Affaires sociales.
-  L'ENA est une institution de piètre qualité. Mamine n'assiste pas vraiment aux
-  cours, ou alors elle y dort, comme l'attestent d'anciens camarades se
-  souvenant de ses bruyants ronflements. Évidemment, Jacques la remplace au
-  Ministère du Travail, Martine n'ayant aucune compétence pour le poste. Il y
-  tissera des relations importantes qui justifieront sa nomination comme
-  ministre des Finances en 1981.
-- **1978, 28 ans**&nbsp;: elle devient professeur à l'ENA. En réalité, Mâtine,
-  qui ne sait pas quoi faire de ses journées depuis 3 ans, vit littéralement
-  dans les locaux de son ancien établissement d'éducation. Par pitié, le doyen
-  demande sa titularisation et Tartine commence alors à former la classe
-  politique naissante, son absence de compétence se reflétant sur plusieurs
-  générations d'énarques.
+-   **1972, 22 ans** : elle obtient sa licence de sciences économiques, ainsi
+    que des diplômes de l'Institut des sciences sociales du travail et de de
+    l'Institut d'études politiques de Paris. C'est en fait Jacques qui
+    secrètement étudie à sa place et passe les examens. Quand cela n'est pas
+    possible, il influence les examinateurs en leur expliquant que tout refus
+    d'attribution de diplôme à sa fille pourrait être sanctionné par un procès
+    pour discrimination sexuelle. L'arguement fait mouche, Martinette obtient
+    toutes ses U.V.
+-   **1975, 25 ans**&nbsp;: elle finit l'ENA et acquiert un poste
+    d'administratrice civile au Ministère du Travail et des Affaires sociales.
+    L'ENA est une institution de piètre qualité. Mamine n'assiste pas vraiment
+    aux cours, ou alors elle y dort, comme l'attestent d'anciens camarades se
+    souvenant de ses bruyants ronflements. Évidemment, Jacques la remplace au
+    Ministère du Travail, Martine n'ayant aucune compétence pour le poste. Il y
+    tissera des relations importantes qui justifieront sa nomination comme
+    ministre des Finances en 1981.
+-   **1978, 28 ans**&nbsp;: elle devient professeur à l'ENA. En réalité, Mâtine,
+    qui ne sait pas quoi faire de ses journées depuis 3 ans, vit littéralement
+    dans les locaux de son ancien établissement d'éducation. Par pitié, le doyen
+    demande sa titularisation et Tartine commence alors à former la classe
+    politique naissante, son absence de compétence se reflétant sur plusieurs
+    générations d'énarques.
 
 Comme vous pouvez le voir, il n'y a pas qu'à l'UMP que de jeunes premiers sans
 expérience et sans diplôme supérieur finissent par occuper des postes où ils ont

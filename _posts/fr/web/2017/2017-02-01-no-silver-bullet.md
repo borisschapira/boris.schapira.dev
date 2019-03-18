@@ -119,13 +119,15 @@ non, on trouve aussi un haut budget dans une application de bureautique
 semi-hybride. Impossible de savoir s'il s'agit d'un investissement choisi ou des
 conséquences d'un mauvais choix de technologie couplé à un entêtement[^ci].
 
-[^ci]: Il est courant de voir des acteurs de tout niveau d'information se refuser à
-  abandonner une technologie qui est pourtant manifestement inadaptée à un
-  projet. Cela n'a rien d'étonnant et ce n'est pas simplement de la mauvaise
-  foi. Il s'agit d'un mélange de biais comportementaux très connus :
-  [le biais des coûts irrécupérables](https://fr.wikipedia.org/wiki/Co%C3%BBt_irr%C3%A9cup%C3%A9rable)
-  et le
-  [le biais de confirmation](https://fr.wikipedia.org/wiki/Biais_de_confirmation).
+[^ci]:
+
+    Il est courant de voir des acteurs de tout niveau d'information se refuser à
+    abandonner une technologie qui est pourtant manifestement inadaptée à un
+    projet. Cela n'a rien d'étonnant et ce n'est pas simplement de la mauvaise
+    foi. Il s'agit d'un mélange de biais comportementaux très connus :
+    [le biais des coûts irrécupérables](https://fr.wikipedia.org/wiki/Co%C3%BBt_irr%C3%A9cup%C3%A9rable)
+    et le
+    [le biais de confirmation](https://fr.wikipedia.org/wiki/Biais_de_confirmation).
 
 Autre tendance visible : on trouve des hauts budgets dans les applications
 e-commerce. Mais cela ne permet pas de savoir si ce sont les applications
@@ -142,9 +144,11 @@ importe les groupes constitués (prix, objectif, satisfaction…), les corrélat
 observées en combiné ne sont pas cohérentes avec ce qui s'observe dans chacun
 des groupes. Il manque des informations qui influencent l'ensemble des facteurs.
 
-[^ys]: Un paradoxe statistique très perturbant, très bien décrit par David Louapre
-  dans
-  [l'épisode 7 de Science Étonnante](https://www.youtube.com/watch?v=vs_Zzf_vL2I).
+[^ys]:
+
+    Un paradoxe statistique très perturbant, très bien décrit par David Louapre
+    dans
+    [l'épisode 7 de Science Étonnante](https://www.youtube.com/watch?v=vs_Zzf_vL2I).
 
 Un très bon exemple est _l'application impossible_ : cette application dont vous
 savez qu'elle va demander l'ensemble des compétences, des équipes, des accès aux

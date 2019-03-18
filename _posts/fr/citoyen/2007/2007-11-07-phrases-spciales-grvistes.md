@@ -1,7 +1,7 @@
 ---
 title: 'Phrases… (spéciales grévistes)'
 tags:
-  - Grève
+    - Grève
 ---
 
 _Un représentant d&#x2019;un syndicat de cheminots sur France2, le 19

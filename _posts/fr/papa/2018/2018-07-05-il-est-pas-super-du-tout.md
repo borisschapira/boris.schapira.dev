@@ -19,8 +19,9 @@ emporté par son hubris, abandonnait sa famille pour revivre sa jeunesse de
 super-héros. Dans ce deuxième opus, on reprend la même recette… avec la mère !
 Qui reste donc à la maison pour s'occuper des enfants… plutôt lamentablement ?
 
-> – Papa, pourquoi il est nul ? – Qui est nul ? – Bah, le papa ! Il sait rien
-> faire. C'est pas un papa, ça !
+> – Papa, pourquoi il est nul ?  
+> – Qui est nul ?  
+> – Bah, le papa ! Il sait rien faire. C'est pas un papa, ça !
 
 Visiblement, les personnages du film s'en rendent compte et, à un moment, sa
 fille vient le réconforter et lui dire qu'il est un super père. Colère de mon

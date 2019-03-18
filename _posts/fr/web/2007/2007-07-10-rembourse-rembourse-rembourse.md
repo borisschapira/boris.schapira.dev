@@ -1,8 +1,8 @@
 ---
 title: 'Remboursé, remboursé, remboursé !!!'
 tags:
-  - Technologie
-  - XBox360
+    - Technologie
+    - XBox360
 ---
 
 Microsoft a annoncé que 1,15 milliards de dollars seront investis dans les

@@ -1,8 +1,8 @@
 ---
 title: Stupéfaction
 tags:
-  - Société
-  - Égalité
+    - Société
+    - Égalité
 ---
 
 Jeune papa pour la seconde fois, je décide ce soir de porter mon fils en

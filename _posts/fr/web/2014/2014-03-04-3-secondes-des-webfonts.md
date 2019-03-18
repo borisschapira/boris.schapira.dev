@@ -1,8 +1,8 @@
 ---
 title: '3 secondes & des WebFonts'
 tags:
-  - Front-End
-  - 'Performance Web'
+    - Front-End
+    - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2014/03/04/3-secondes-des-webfonts/'
 ---
 

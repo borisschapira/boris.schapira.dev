@@ -1,8 +1,8 @@
 ---
 title: "Désirs d'Avenirs : un vrai raté"
 tags:
-  - Numérique
-  - "Billet d'humeur"
+    - Numérique
+    - "Billet d'humeur"
 ---
 
 Je ne peux pas m'empêcher de rire à la vue du nouveau site de _Désirs d'Avenir_,

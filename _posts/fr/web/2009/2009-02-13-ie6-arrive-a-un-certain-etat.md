@@ -1,9 +1,9 @@
 ---
 title: 'IE6 : «&#160;Arrivé à un certain état…&#160;»'
 tags:
-  - Développement
-  - Flash
-  - 'Internet Explorer'
+    - Développement
+    - Flash
+    - 'Internet Explorer'
 ---
 
 > Arrivé à un certain état, il est indécent de vivre plus longtemps.  

@@ -295,7 +295,7 @@ layout: microtypo
       </aside>
     </section>
     <footer class="main-footer">
-      <nav class="nav-footer">
+      <div class="nav-footer">
         <p>
           {{ "Retrouvez-moi" | t: page.locale }} {{ "sur" | t: page.locale }} <a class="npe" rel="me nofollow" href="{{ site.author.github }}">Github</a>, <a class="npe" rel="me nofollow" href="{{ site.author.twitter }}">Twitter</a>, <a class="npe" rel="me nofollow" href="{{ site.author.mastodon }}">Mastodon</a>, <a class="npe" rel="me nofollow" href="{{ site.author.linkedin }}">LinkedIn</a> {{ "et" | t: page.locale }} <a class="npe" rel="me nofollow" href="{{ site.author.flickr }}">Flickr</a>.
           <br />
@@ -303,7 +303,7 @@ layout: microtypo
           <br />
           <a class="npe" rel="me nofollow" href="{{ feed_url | prepend: page.baseurl | relative_url }}">{{ "Abonnez-vous au flux" | t: page.locale }}</a>
         </p>
-      </nav>
+      </div>
     </footer>
     {% include footer.html.liquid type=page.type loadTwitterWjs=page.loadTwitterWjs loadSearch=page.loadSearch %}
     <script src="//instant.page/1.2.2" type="module" integrity="sha384-2xV8M5griQmzyiY3CDqh1dn4z3llDVqZDqzjzcY+jCBCk/a5fXJmuZ/40JJAPeoU"></script>

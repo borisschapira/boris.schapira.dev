@@ -1,8 +1,8 @@
 ---
 title: 'Week-end prolongé sur Bordeaux'
 tags:
-  - 'Me, myself and I'
-  - 'Amis et famille'
+    - 'Me, myself and I'
+    - 'Amis et famille'
 ---
 
 Ca faisait longtemps que je n'étais pas redescendu dans le sud-ouest voir la

@@ -1,8 +1,8 @@
 ---
 title: 'Trouver une alternance'
 tags:
-  - Emploi
-  - 'Trouver un stage ou une alternance'
+    - Emploi
+    - 'Trouver un stage ou une alternance'
 ---
 
 En tant qu'intervenant dans une école post-BAC, je suis sollicité par de

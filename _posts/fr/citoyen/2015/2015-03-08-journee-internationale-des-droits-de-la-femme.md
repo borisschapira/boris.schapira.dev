@@ -2,9 +2,9 @@
 title: 'Journée Internationale des Droits des Femmes'
 main_image: /assets/images/shared/he-for-she-logo.jpg
 tags:
-  - HeForShe
-  - Société
-  - Égalité
+    - HeForShe
+    - Société
+    - Égalité
 ---
 
 J'ai beaucoup réfléchi à ce que je pourrais faire d'utile de cette "journée".

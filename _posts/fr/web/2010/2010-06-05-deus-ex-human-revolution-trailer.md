@@ -1,7 +1,7 @@
 ---
 title: '«&#160;Deus Ex : Human Revolution&#160;» Trailer'
 tags:
-  - 'Jeu Video'
+    - 'Jeu Video'
 ---
 
 Deus Ex est un excellent jeu, sorti sur PC et Mac en 2000, utilisant de manière

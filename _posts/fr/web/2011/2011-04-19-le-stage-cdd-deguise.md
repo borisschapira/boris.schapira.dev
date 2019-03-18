@@ -1,7 +1,7 @@
 ---
 title: 'Le stage, CDD déguisé'
 tags:
-  - Emploi
+    - Emploi
 ---
 
 > Les entreprises ne proposent plus de stages, elles recherchent des stagiaires.

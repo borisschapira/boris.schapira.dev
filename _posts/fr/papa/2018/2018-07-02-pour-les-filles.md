@@ -17,7 +17,8 @@ Parfois, ils posent la question :
 
 Et notre réponse est toujours la même :
 
-> – Est-ce que tu as besoin de ton pénis pour jouer avec ? – Bah non { rires } !
+> – Est-ce que tu as besoin de ton pénis pour jouer avec ?  
+> – Bah non { rires } !  
 > – Alors c'est un jouet pour tout le monde, chéri.
 
 ---

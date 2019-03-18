@@ -1,7 +1,7 @@
 ---
 title: 'Le rendez-vous'
 tags:
-  - anecdotes
+    - anecdotes
 ---
 
 [Le souvenir du mois dernier](/2017/04/de-vrais-gens-derriere/) en a appelé un

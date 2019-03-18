@@ -15,8 +15,10 @@ n'est pas très branchés foot à la maison, ils n'avaient jamais vu un match…
 Du coup, ils ont insisté pour voir le match. J'en ai profité pour poser des
 questions :
 
-> – Tu joues, toi, au foot ? – Oui, à l'école ! – Et tu joues à quelle position
-> ? – Euh… debout ?
+> – Tu joues, toi, au foot ?  
+> – Oui, à l'école !  
+> – Et tu joues à quelle position?  
+> – Euh… debout ?
 
 Le match commence, l'occasion de repérer les joueurs.
 

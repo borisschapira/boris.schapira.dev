@@ -1,7 +1,7 @@
 ---
 title: 'Microsoft Seadragon : un Hippocampe au cœur de la Toile'
 tags:
-  - Outils
+    - Outils
 ---
 
 Seadragon est un projet en cours aux Microsoft Live Labs. Il est issu du rachat

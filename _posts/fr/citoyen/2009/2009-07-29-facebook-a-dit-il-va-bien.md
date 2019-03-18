@@ -1,10 +1,10 @@
 ---
 title: 'Facebook a dit : il va bien'
 tags:
-  - Numérique
-  - "Billet d'humeur"
-  - Facebook
-  - France
+    - Numérique
+    - "Billet d'humeur"
+    - Facebook
+    - France
 ---
 
 Ils en ont tous fait un titre ce matin. Le

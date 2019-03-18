@@ -1,9 +1,9 @@
 ---
 title: 'Grand méchant capital'
 tags:
-  - Finance
-  - Société
-  - "Billet d'humeur"
+    - Finance
+    - Société
+    - "Billet d'humeur"
 ---
 
 A la fin de la seconde guerre mondiale, la France a subi deux phénomènes

@@ -1,9 +1,9 @@
 ---
 title: 'A la rentrée…'
 tags:
-  - Education
-  - Société
-  - Chaine
+    - Education
+    - Société
+    - Chaine
 ---
 
 _À la rentrée_, les sacs n'étaient pas chargés de décorations pré-inscrites. Ils

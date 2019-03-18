@@ -2,7 +2,7 @@
 title: 'Entrées distinctes et DataTable'
 canonical: 'https://www.nexeo.fr/blog/2009/11/24/entrees-distinctes-et-datatabl/'
 tags:
-  - Nexdotnet
+    - Nexdotnet
 ---
 
 Vous avez souvent eu un `DataSet` dont vous vouliez considérer une colonne pour

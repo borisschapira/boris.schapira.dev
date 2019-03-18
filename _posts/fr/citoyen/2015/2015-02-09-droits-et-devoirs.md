@@ -1,8 +1,8 @@
 ---
 title: 'Droits et devoirs'
 tags:
-  - Société
-  - Emploi
+    - Société
+    - Emploi
 ---
 
 > Chacun a le **devoir** de travailler et le **droit** d'obtenir un emploi.  

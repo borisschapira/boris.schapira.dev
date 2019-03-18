@@ -18,13 +18,13 @@ votre code de ceux qui sont au plus haut niveau. Par exemple, si je manipule un
 objet de type Pizza chez Domino et que je veux vérifier qu'une commande engendre
 bien une livraison, je peux :
 
-- soit tester `Commande(Pizza)` et constater si la pizza est livrée (test en
-  boîte
-  <span style="text-decoration: line-through" title="Désolé pour l'humour.">en
-  carton</span> noire) ;
-- soit lancer successivement les étapes de prise de commande, préparation,
-  cuisson et livraison parce que **je sais à l'avance** que c'est à ça que
-  correspond une commande (test en boite blanche).
+-   soit tester `Commande(Pizza)` et constater si la pizza est livrée (test en
+    boîte
+    <span style="text-decoration: line-through" title="Désolé pour l'humour.">en
+    carton</span> noire) ;
+-   soit lancer successivement les étapes de prise de commande, préparation,
+    cuisson et livraison parce que **je sais à l'avance** que c'est à ça que
+    correspond une commande (test en boite blanche).
 
 ### Classification par qualité
 
@@ -34,15 +34,15 @@ peux pas mieux l'écrire.
 
 ### Classification par phase
 
-- **Tests unitaires** : tests qui touchent de toutes petites unités ou
-  composants du logiciel
-- **Tests d'intégration** : les petits composants fonctionnent bien les uns avec
-  les autres
-- Tests du système (ou **tests d'intégration fonctionnels**) : tests consistant
-  à vérifier que l'ensemble fonctionne correctement
-- **Tests d'acceptance** (souvent appelés Recette) : vérifie que le le logiciel
-  respecte des critères précis (critères d'acceptance) définis à l'avance par le
-  client
+-   **Tests unitaires** : tests qui touchent de toutes petites unités ou
+    composants du logiciel
+-   **Tests d'intégration** : les petits composants fonctionnent bien les uns
+    avec les autres
+-   Tests du système (ou **tests d'intégration fonctionnels**) : tests
+    consistant à vérifier que l'ensemble fonctionne correctement
+-   **Tests d'acceptance** (souvent appelés Recette) : vérifie que le le
+    logiciel respecte des critères précis (critères d'acceptance) définis à
+    l'avance par le client
 
 ### Autres classifications
 
@@ -55,13 +55,13 @@ souvent <em>client-side</em>, quant l'autre partie se fait <em>server-side</em>.
 
 #### Classification par modalités d'exécution
 
-- **Tests de simulation** : des tests qui visent à reproduire le modèle abstrait
-  de l'interaction. Par exemple, si je veux tester un clic sur un bouton, je
-  teste la méthode qui est lancée lors du clic en question.
-- **Tests d'émulation** : des tests qui produisent concrètement l'action à la
-  place d'un utilisateur.
-- **Tests manuels** : des tests, manuels (merci
-  <em>[Captain Obvious](/assets/images/2015-12-10/captain_obvious.jpg))</em>.
+-   **Tests de simulation** : des tests qui visent à reproduire le modèle
+    abstrait de l'interaction. Par exemple, si je veux tester un clic sur un
+    bouton, je teste la méthode qui est lancée lors du clic en question.
+-   **Tests d'émulation** : des tests qui produisent concrètement l'action à la
+    place d'un utilisateur.
+-   **Tests manuels** : des tests, manuels (merci
+    <em>[Captain Obvious](/assets/images/2015-12-10/captain_obvious.jpg))</em>.
 
 ## Exemples ?
 

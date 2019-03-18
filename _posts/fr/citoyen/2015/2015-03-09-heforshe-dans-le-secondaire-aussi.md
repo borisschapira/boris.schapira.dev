@@ -2,9 +2,9 @@
 title: '#HeForShe, dans le secondaire aussi'
 main_image: /assets/images/shared/he-for-she-logo.jpg
 tags:
-  - HeForShe
-  - Société
-  - Égalité
+    - HeForShe
+    - Société
+    - Égalité
 ---
 
 La classe est bondée. Le vacarme, assourdissant. Personne n'a l'air de vouloir

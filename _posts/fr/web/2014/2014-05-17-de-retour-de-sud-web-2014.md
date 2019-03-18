@@ -1,9 +1,9 @@
 ---
 title: 'De retour de Sud Web 2014'
 tags:
-  - Conférences
+    - Conférences
 series:
-  - 'Sud Web 2014'
+    - 'Sud Web 2014'
 subtitle: De beaux projets, de belles personnes
 ---
 

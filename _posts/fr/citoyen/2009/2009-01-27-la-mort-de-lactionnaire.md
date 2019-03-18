@@ -1,8 +1,8 @@
 ---
 title: "La mort de l'actionnaire"
 tags:
-  - Finance
-  - Crise
+    - Finance
+    - Crise
 ---
 
 Je lis beaucoup, à propos de la manifestation de jeudi prochain, qu'elle aurait

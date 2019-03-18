@@ -1,7 +1,7 @@
 ---
 title: "L'Imagine Cup s'offre une soirée virtuelle"
 tags:
-  - 'Imagine Cup'
+    - 'Imagine Cup'
 ---
 
 Je suis loin d'être un spécialiste des MMO et j'avoue avoir du mal avec la

@@ -1,9 +1,9 @@
 ---
 title: 'Rencontre avec le généticien Spencer Wells'
 tags:
-  - Science
-  - Science
-  - Société
+    - Science
+    - Science
+    - Société
 ---
 
 Il y a quelques jours, Mme Schapira et moi-même nous sommes rendus à une

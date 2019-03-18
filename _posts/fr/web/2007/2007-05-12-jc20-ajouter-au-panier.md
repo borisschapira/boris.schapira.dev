@@ -1,8 +1,8 @@
 ---
 title: 'JC2.0 : Ajouter au panier ?'
 tags:
-  - Humour
-  - ESIEE
+    - Humour
+    - ESIEE
 ---
 
 Vous connaissez _JC2.0_&nbsp;? Le produit a l'air fonctionnel, on sent qu'il a

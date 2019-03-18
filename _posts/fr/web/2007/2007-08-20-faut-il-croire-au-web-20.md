@@ -1,8 +1,8 @@
 ---
 title: 'Faut-il croire au Web 2.0 ?'
 tags:
-  - Technologie
-  - Web
+    - Technologie
+    - Web
 ---
 
 Alors que les spéculations vont bon train sur les sociétés du Web 2.0 (n'est-ce

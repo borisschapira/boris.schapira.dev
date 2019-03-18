@@ -1,7 +1,7 @@
 ---
 title: 'De nouveaux défis pour l’intégration web'
 tags:
-  - Front-End
+    - Front-End
 canonical: 'https://blog.clever-age.com/fr/2013/11/14/github-l-open-source-qui-conquiert-le-monde/'
 ---
 
@@ -14,12 +14,14 @@ rattraper ou concurrencer l'expérience native mobile, mais que cette course aux
 fonctionnalités épuise les développeurs qui n'ont plus le temps de penser à
 l'expérience utilisateur.
 
-[^1]: Peter-Paul KOCH (connu également sous le pseudonyme ppk) est un chercheur,
-  auteur, consultant en stratégie web et développement web mobile. Quirksmode
-  est un des plus anciens blogs parlant d'intégration HTML connu notamment pour
-  avoir populariser le concept de tables de compatibilité entre navigateurs, que
-  beaucoup connaissent aujourd'hui au travers de
-  (caniuse.com](http://caniuse.com/).
+[^1]:
+
+    Peter-Paul KOCH (connu également sous le pseudonyme ppk) est un chercheur,
+    auteur, consultant en stratégie web et développement web mobile. Quirksmode
+    est un des plus anciens blogs parlant d'intégration HTML connu notamment
+    pour avoir populariser le concept de tables de compatibilité entre
+    navigateurs, que beaucoup connaissent aujourd'hui au travers de
+    (caniuse.com](http://caniuse.com/).
 
 <!-- more -->
 
@@ -47,9 +49,11 @@ course puisque
 régulièrement ajoutées, à l'image des politiques d'innovation de Chrome et
 Firefox.
 
-[^2]: Pour comparer les différentes versions des navigateurs de Microsoft, n'hésitez
-  pas à recourir au très pertinent
-  [canisuse.com](http://caniuse.com/#compare=ie+8,ie+9,ie+10,ie+11,edge+12,edge+13 'Comparaison de IE8, IE9, IE10, IE11, MSE12 et MSE13 sur caniuse.com').
+[^2]:
+
+    Pour comparer les différentes versions des navigateurs de Microsoft,
+    n'hésitez pas à recourir au très pertinent
+    [canisuse.com](http://caniuse.com/#compare=ie+8,ie+9,ie+10,ie+11,edge+12,edge+13 'Comparaison de IE8, IE9, IE10, IE11, MSE12 et MSE13 sur caniuse.com').
 
 Au marché de jauger désormais la capacité des acteurs du Web à mettre en place
 les processus et structures leur permettant d'assimiler cette innovation

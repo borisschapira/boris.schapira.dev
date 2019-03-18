@@ -1,8 +1,8 @@
 ---
 title: 'Le mythe de la giga-communauté Open Source'
 tags:
-  - Développement
-  - 'Logiciel Libre'
+    - Développement
+    - 'Logiciel Libre'
 ---
 
 Je trouvais que le blog était un peu en manque de commentaires alors je me suis

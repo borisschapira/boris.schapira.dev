@@ -1,8 +1,8 @@
 ---
 title: 'Atelier Faire-Part'
 tags:
-  - 'Me, myself and I'
-  - Mariage
+    - 'Me, myself and I'
+    - Mariage
 ---
 
 Lorsque j'en ai parlé à Bibou, il n'était franchement pas enchanté par l'idée,

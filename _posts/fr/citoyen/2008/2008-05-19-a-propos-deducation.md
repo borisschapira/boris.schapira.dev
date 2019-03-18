@@ -1,10 +1,10 @@
 ---
 title: "A propos d'Education…"
 tags:
-  - Société
-  - "Billet d'humeur"
-  - Éducation
-  - Grève
+    - Société
+    - "Billet d'humeur"
+    - Éducation
+    - Grève
 ---
 
 Mon grand-père me racontait souvent son internat lycéen. Séparé de sa famille de

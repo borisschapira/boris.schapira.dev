@@ -3,9 +3,9 @@ title: 'Where is the Western WeChat?'
 i18n-key: where-is-the-western-wechat
 canonical: 'https://blog.clever-age.com/en/2017/12/06/where-is-the-western-wechat/'
 tags:
-  - 'Performance Web'
-  - 'User eXperience'
-  - Images
+    - 'Performance Web'
+    - 'User eXperience'
+    - Images
 publishDate: '2017-10-29'
 cloudinary_logo: clever-logo
 ---
@@ -160,12 +160,18 @@ is at the cutting edge of these four fields.
 And this new revolution cannot take place without significant progress being
 made in terms of web payment standards, a topic the W3C is actively working on.
 
-[^1]: See Clever Age's article:
-  "[How to operate in China?](https://blog.clever-age.com/en/2014/07/28/how-to-operate-in-china/)".
+[^1]:
 
-[^2]: See Clever Age's article:
-  "[General Data Protection Regulation: Small guide for Business](https://blog.clever-age.com/en/2017/01/19/general-data-protection-regulation-small-guide-for-business/)".
+    See Clever Age's article:
+    "[How to operate in China?](https://blog.clever-age.com/en/2014/07/28/how-to-operate-in-china/)".
 
-[^3]: On this topic, also see:
-  "[AMP Project booste le chargement des pages web](https://blog.clever-age.com/fr/2016/02/08/amp-project-booste-le-chargement-des-pages-web/)"
-  (In french).
+[^2]:
+
+    See Clever Age's article:
+    "[General Data Protection Regulation: Small guide for Business](https://blog.clever-age.com/en/2017/01/19/general-data-protection-regulation-small-guide-for-business/)".
+
+[^3]:
+
+    On this topic, also see:
+    "[AMP Project booste le chargement des pages web](https://blog.clever-age.com/fr/2016/02/08/amp-project-booste-le-chargement-des-pages-web/)"
+    (In french).

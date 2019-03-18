@@ -1,7 +1,7 @@
 ---
 title: "L'histoire d'Hadopi se répète"
 tags:
-  - Hadopi
+    - Hadopi
 ---
 
 Alors qu'Hadopi 2 fait parler de lui, il est bon de regarder du côté d'Hadopi

@@ -1,9 +1,9 @@
 ---
 title: 'Coup de Gueule et petite explication économique'
 tags:
-  - Finance
-  - "Billet d'humeur"
-  - Économie
+    - Finance
+    - "Billet d'humeur"
+    - Économie
 ---
 
 **Petit bilan de la situation&nbsp;: la crise sème le doute parmi l'ensemble des

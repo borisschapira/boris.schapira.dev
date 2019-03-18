@@ -5,19 +5,19 @@ permalink: /partager/
 i18n-key: about-share
 ---
 
-Je suis convaincu que le partage de l'information est bénéfique à tous : j'enseigne à l'[ECV Digital](http://www.ecvdigital.fr/) mais nous avons pu nous croiser auparavant à [Ingésup Bordeaux](https://www.ingesup.com/ "Ingesup") ; je me déplace [pour discuter d'un sujet technique en échange d'un sandwich](http://www.brownbaglunch.fr/baggers.html#Boris_Schapira_Bordeaux "BrownBagLunch France") ; vous pouvez m'avoir croisé dans plusieurs conférences, de Barcelone à Paris, mais ma <del>petite</del> grosse préférence reste [Sud Web](https://sudweb.fr/ "SudWeb.fr").
+Je suis convaincu que le partage de l'information est bénéfique à tous :
+j'enseigne à l'[ECV Digital](http://www.ecvdigital.fr/) mais nous avons pu nous
+croiser auparavant à [Ingésup Bordeaux](https://www.ingesup.com/ 'Ingesup') ; je
+me déplace
+[pour discuter d'un sujet technique en échange d'un sandwich](http://www.brownbaglunch.fr/baggers.html#Boris_Schapira_Bordeaux 'BrownBagLunch France')
+; vous pouvez m'avoir croisé dans plusieurs conférences, de Barcelone à Paris,
+mais ma <del>petite</del> grosse préférence reste
+[Sud Web](https://sudweb.fr/ 'SudWeb.fr').
 
-
-{% assign done = ''|split:''%}
-{% assign todo = ''|split:''%}
-{% for conf in site.confs %}
-    {% if conf.last_date %}
-        {% assign done = done|push:conf%}
-    {% else %}
-        {% assign todo = todo|push:conf%}
-    {% endif %}
-{% endfor %}
-
+{% assign done = ''|split:''%} {% assign todo = ''|split:''%}
+{% for conf in site.confs %} {% if conf.last_date %}
+{% assign done = done|push:conf%} {% else %} {% assign todo = todo|push:conf%}
+{% endif %} {% endfor %}
 
 ## Les sujets jamais abordés
 

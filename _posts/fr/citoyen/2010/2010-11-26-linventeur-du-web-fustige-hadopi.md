@@ -1,7 +1,7 @@
 ---
 title: "L'inventeur du Web fustige Hadopi"
 tags:
-  - 'Vie privée'
+    - 'Vie privée'
 ---
 
 > Les régimes totalitaires ne sont pas les seuls qui violent les droits du

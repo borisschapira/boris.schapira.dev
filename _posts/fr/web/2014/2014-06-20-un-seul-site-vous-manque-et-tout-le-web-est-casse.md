@@ -1,8 +1,8 @@
 ---
 title: 'Un seul site vous manque, et tout le web est cassé'
 tags:
-  - Front-End
-  - 'Performance Web'
+    - Front-End
+    - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2014/06/20/un-seul-site-vous-manque-et-tout-le-web-est-casse/'
 ---
 
@@ -35,15 +35,17 @@ passé à côté d'une dégradation de l'expérience de vos utilisateurs.
 Heureusement, des outils peuvent vous aider à détecter cette faiblesse en dehors
 de tout incident chez un tiers :
 
-- [L'extension Chrome SPoF-o-matic](https://chrome.google.com/webstore/detail/spof-o-matic/plikhggfbplemddobondkeogomgoodeg),
-  par exemple, vous permettra de détecter les domaines problématiques ;
-- [L'onglet SPOF de WebPageTest.org](http://www.webpagetest.org/) vous permettra
-  de réaliser un test de performance en plaçant le domaine de votre choix en
-  indisponibilité[^1].
+-   [L'extension Chrome SPoF-o-matic](https://chrome.google.com/webstore/detail/spof-o-matic/plikhggfbplemddobondkeogomgoodeg),
+    par exemple, vous permettra de détecter les domaines problématiques ;
+-   [L'onglet SPOF de WebPageTest.org](http://www.webpagetest.org/) vous
+    permettra de réaliser un test de performance en plaçant le domaine de votre
+    choix en indisponibilité[^1].
 
-[^1]: En réalité, il interpose un proxy renvoyant les appels vers un
-  <a href="https://blackhole.webpagetest.org">site "trou noir"</a> recréant ces
-  conditions
+[^1]:
+
+    En réalité, il interpose un proxy renvoyant les appels vers un
+    <a href="https://blackhole.webpagetest.org">site "trou noir"</a> recréant
+    ces conditions
 
 Evidemment, cette liste n'est pas exhaustive et Facebook est loin d'être le seul
 service tiers concerné (vous pouvez aussi avoir le problème avec des ressources

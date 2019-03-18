@@ -1,8 +1,8 @@
 ---
 title: 'Souvenirs de fumeur'
 tags:
-  - 'Memory Lane'
-  - Tabac
+    - 'Memory Lane'
+    - Tabac
 ---
 
 J’avais promis de jogger. J’avais promis de perdre du poids et de ne pas

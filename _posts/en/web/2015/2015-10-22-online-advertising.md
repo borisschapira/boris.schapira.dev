@@ -2,10 +2,10 @@
 title: 'Online Advertising: The Current Status'
 i18n-key: online-advertising
 tags:
-  - Publicité
-  - 'Scripts Tiers'
-  - 'Transformation numérique'
-  - Presse
+    - Publicité
+    - 'Scripts Tiers'
+    - 'Transformation numérique'
+    - Presse
 canonical: 'https://blog.clever-age.com/en/2015/12/14/online-advertising-the-current-status/'
 cloudinary_logo: clever-logo
 slug: online-advertising-current-status
@@ -31,13 +31,17 @@ browsers as well as on smartphones[^0]. Faced with this phenomenon, some online
 editors no longer hesitate to block access to their content to users running ad
 blockers, which sends a very negative signal to their audience.
 
-[^0]: The ad blocker of iOS 9, for example, relies on a business model in which
-  advertisers must pay to have their ads displayed.
+[^0]:
 
-[^1]: According to a survey by PageFair, these ad blockers would be installed on the
-  computers of 35% of European Internet users and 41% of 16-29 year olds.
-  UCBrowser and Maxthon, who claim more than 600 million users in Asia, are also
-  partnering with ad blocking solutions.
+    The ad blocker of iOS 9, for example, relies on a business model in which
+    advertisers must pay to have their ads displayed.
+
+[^1]:
+
+    According to a survey by PageFair, these ad blockers would be installed on
+    the computers of 35% of European Internet users and 41% of 16-29 year olds.
+    UCBrowser and Maxthon, who claim more than 600 million users in Asia, are
+    also partnering with ad blocking solutions.
 
 This war is extremely costly and is the result of a gamble on alternative
 sources of income (based on advertising) rather than promoting the real added
@@ -57,12 +61,14 @@ coming in.
 To make things clear, this solution has become so unacceptable that even the
 online advertising industry, represented by the IAB[^2], confirms it:
 
-[^2]: The Internet Advertising Bureau is the leading association for online
-  advertising professionals, bringing together many players in the advertising
-  ecosystem: creative agencies, media sales agencies, partners, hosting service
-  providers. Generally the IAB massively promotes online advertising by funding
-  studies on its effectiveness. This acknowledgement of failure is a real
-  earthquake in the industry.
+[^2]:
+
+    The Internet Advertising Bureau is the leading association for online
+    advertising professionals, bringing together many players in the advertising
+    ecosystem: creative agencies, media sales agencies, partners, hosting
+    service providers. Generally the IAB massively promotes online advertising
+    by funding studies on its effectiveness. This acknowledgement of failure is
+    a real earthquake in the industry.
 
 > We messed up. As technologists, tasked with delivering content and services to
 > users, we lost track of the user experience.  
@@ -156,8 +162,10 @@ sure. What is certain is that the harmful potential of ad blockers is driving
 the industry down a blind alley, forcing it to rethink business models towards
 more reader-friendly practices, such as L.E.A.N.[^3].
 
-[^3]: L.E.A.N. — for "Light, Encrypted, Ad choice supported, Non-invasive ads" — is
-  a new best practice put forward by the IAB.
+[^3]:
+
+    L.E.A.N. — for "Light, Encrypted, Ad choice supported, Non-invasive ads" —
+    is a new best practice put forward by the IAB.
 
 Many alternatives to the traditional advertising model are being contemplated,
 considering for example that the reader's attention must be entirely focused on
@@ -182,8 +190,8 @@ wrong signal and it is hard to move away from this model _afterward_.
 
 A few links suggested by readers:
 
-- ["What Happens Next Will Amaze You"](http://idlewords.com/talks/what_happens_next_will_amaze_you.htm)
-  by Maciej Cegłowski, suggested by @akramfares
-- ["Publicité en ligne : où va l’argent ?"](https://piacentino.com/jb/2015/publicite-en-ligne-ou-va-largent)
-  ("Online Advertising: Where Does the Money Go?" — in French) by Jb Piacentino,
-  suggested by [@eliesl](https://twitter.com/eliesl)
+-   ["What Happens Next Will Amaze You"](http://idlewords.com/talks/what_happens_next_will_amaze_you.htm)
+    by Maciej Cegłowski, suggested by @akramfares
+-   ["Publicité en ligne : où va l’argent ?"](https://piacentino.com/jb/2015/publicite-en-ligne-ou-va-largent)
+    ("Online Advertising: Where Does the Money Go?" — in French) by Jb
+    Piacentino, suggested by [@eliesl](https://twitter.com/eliesl)

@@ -3,7 +3,7 @@ title: '"J''entre dans un magasin"'
 date: '2017-01-11'
 type: post
 categories:
-  - web
+    - web
 ---
 
 Et si le e-commerce se produisait dans la vraie vie (ou comment prendre du recul

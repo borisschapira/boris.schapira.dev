@@ -1,7 +1,7 @@
 ---
 title: 'Drôle de coincidence'
 tags:
-  - 'Me, myself and I'
+    - 'Me, myself and I'
 ---
 
 J'ai passé la soirée d'hier chez une amie qui m'a présenter à

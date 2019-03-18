@@ -1,8 +1,8 @@
 ---
 title: "Impressionnant traitement d'images"
 tags:
-  - Technologie
-  - Web
+    - Technologie
+    - Web
 ---
 
 Une extraordinnaire nouvelle technique de redimensionnement d'images que nous

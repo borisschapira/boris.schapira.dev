@@ -8,8 +8,8 @@ carnet de santé.
 <!-- more -->
 
 > – Un carnet de… santé ?  
-> – Oui, on note dedans tout ce qui est en rapport avec la santé. – Ah ben
-> Mamie, il doit être gros son carnet. Elle dit tout le temps "Santé !"
+> – Oui, on note dedans tout ce qui est en rapport avec la santé.  
+> – Ah ben Mamie, il doit être gros son carnet. Elle dit tout le temps "Santé !"
 
 {% capture alt_text%}Joseph Gordon Levit incline son verre.{% endcapture %}
 {% capture caption_text%}Santé !{% endcapture %}

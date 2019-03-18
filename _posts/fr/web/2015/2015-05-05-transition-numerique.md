@@ -1,8 +1,8 @@
 ---
 title: 'Transition numérique'
 tags:
-  - 'Transformation numérique'
-  - Presse
+    - 'Transformation numérique'
+    - Presse
 ---
 
 > Aujourd’hui stratégie IT et stratégie d’affaire ne font plus qu’un. Fini

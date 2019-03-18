@@ -1,7 +1,7 @@
 ---
 title: "The world's best bottom (Sloggi)"
 tags:
-  - Sexy
+    - Sexy
 ---
 
 Le concours **Show Me You Sloggi** organisé par la marque éponyme vient de se

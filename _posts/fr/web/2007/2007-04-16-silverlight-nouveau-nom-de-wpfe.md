@@ -1,8 +1,8 @@
 ---
 title: 'Silverlight, nouveau nom de WPF/E'
 tags:
-  - Développement
-  - Silverlight
+    - Développement
+    - Silverlight
 ---
 
 WPF existait en version embarquable sur XP et MacOS sous le nom WPF/E ("E" pour

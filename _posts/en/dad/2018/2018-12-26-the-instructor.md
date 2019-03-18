@@ -9,7 +9,8 @@ about basketball last week, they ask me again for a basketball film today....
 <!-- more -->
 
 > – Oh, you saw Dad, the instructor has the same name as the one from the last
-> movie! – That's quite a coincidence. What's his name? Coach!
+> movie!  
+> – That's quite a coincidence. What's his name? Coach!
 
 I had to explain…
 

@@ -1,9 +1,9 @@
 ---
 title: 'Microsoft aide les pays émergeants'
 tags:
-  - Technologie
-  - Microsoft
-  - 'Microsoft Office'
+    - Technologie
+    - Microsoft
+    - 'Microsoft Office'
 ---
 
 Bill Gates a annoncé aujourd'hui à Beijing le lancement d'un programme

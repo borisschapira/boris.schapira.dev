@@ -1,8 +1,8 @@
 ---
 title: 'La stratégie de la mouche'
 tags:
-  - "État d'Urgence"
-  - Terrorisme
+    - "État d'Urgence"
+    - Terrorisme
 ---
 
 > Les terroristes tiennent notre imagination captive, et l’utilisent contre

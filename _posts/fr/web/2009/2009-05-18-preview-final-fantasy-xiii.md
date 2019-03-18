@@ -1,9 +1,9 @@
 ---
 title: 'Preview - Final Fantasy XIII'
 tags:
-  - 'Jeu Video'
-  - 'Final Fantasy'
-  - Playstation
+    - 'Jeu Video'
+    - 'Final Fantasy'
+    - Playstation
 ---
 
 La soirée Final Fantasy à laquelle Playstation m'a convié m'a donné l'occasion

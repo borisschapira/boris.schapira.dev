@@ -14,7 +14,9 @@ une explication…
 > – Ah non. L'idée principale, c'est quand même que tu ne meurs pas.  
 > – Mais si Papa, dans l'anesthésie, le méchant, il revient de chez les morts
 > !  
-> – Hein ?! – Avec sa chauve-souris ! – Quoi ?!
+> – Hein ?!  
+> – Avec sa chauve-souris !  
+> – Quoi ?!
 
 J'ai réfléchi un bon moment avant de comprendre. Il a confondu "anesthésie" et…
 le dessin animé "Anastasia".

@@ -1,7 +1,7 @@
 ---
 title: "Rejet d'Hadopi. Faut-il se réjouir ?"
 tags:
-  - Numérique
+    - Numérique
 series: Hadopi
 ---
 

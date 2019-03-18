@@ -1,7 +1,7 @@
 ---
 title: 'BootScout : poisson ou véritable révolution ?'
 tags:
-  - Outils
+    - Outils
 ---
 
 Les équipes de développement de Microsoft apprennent de la concurrence. En

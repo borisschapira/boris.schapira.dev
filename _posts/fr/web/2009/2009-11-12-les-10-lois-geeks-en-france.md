@@ -1,8 +1,8 @@
 ---
 title: 'Les 10 lois Geeks… en France (v1.1)'
 tags:
-  - Culture
-  - Geek
+    - Culture
+    - Geek
 ---
 
 Je suis tombé, via le [Twitter de Laurent Suply](https://twitter.com/lsuply) sur

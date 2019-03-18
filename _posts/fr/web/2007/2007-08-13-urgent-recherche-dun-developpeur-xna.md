@@ -1,8 +1,8 @@
 ---
 title: "URGENT : Recherche d'un développeur XNA"
 tags:
-  - 'Imagine Cup'
-  - XNA
+    - 'Imagine Cup'
+    - XNA
 ---
 
 Message de

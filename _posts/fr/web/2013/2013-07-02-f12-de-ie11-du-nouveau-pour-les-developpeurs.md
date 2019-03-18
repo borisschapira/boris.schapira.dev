@@ -1,8 +1,8 @@
 ---
 title: 'F12 de IE11&nbsp;: du nouveau pour les développeurs'
 tags:
-  - Outils
-  - 'Performance Web'
+    - Outils
+    - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2013/07/02/f12-de-ie11-du-nouveau-pour-les-developpeurs/'
 ---
 

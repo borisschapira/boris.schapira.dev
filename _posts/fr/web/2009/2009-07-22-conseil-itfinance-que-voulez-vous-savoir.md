@@ -1,9 +1,9 @@
 ---
 title: 'Présentation EISTI - Que voulez-vous savoir ?'
 tags:
-  - Emploi
-  - Finance
-  - Consulting
+    - Emploi
+    - Finance
+    - Consulting
 ---
 
 Une Ecole d'Ingénieurs m'a récemment proposé d'animer, à la rentrée 2009, une

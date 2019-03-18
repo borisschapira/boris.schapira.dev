@@ -1,8 +1,8 @@
 ---
 title: "L'avenir est un long passé"
 tags:
-  - Société
-  - Histoire
+    - Société
+    - Histoire
 ---
 
 Le monde subit une crise financière depuis 5 ans, qui touche principalement les

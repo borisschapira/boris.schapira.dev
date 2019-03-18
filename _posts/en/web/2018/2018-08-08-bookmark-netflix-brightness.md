@@ -2,7 +2,7 @@
 title: 'Netflix: how to increase video brightness'
 i18n-key: bookmark-netflix-brightness
 tags:
-  - Netflix
+    - Netflix
 ---
 
 My kids are on vacation with their grandmothers, which leaves me a lot of free
@@ -15,16 +15,21 @@ So, between a PS4 game[^ps4] and a novel chapter[^lire] (because there's a life
 outside Netflix), I made a little bookmarklet that increases the brightness of
 the current video by 50%. To use it:
 
-[^ps4]: I am playing "Arkham Knight" by Rocksteady, and it's a blast. I have a great
-  time and I think a lot about my former colleague Stéphane,
-  [brilliant inventor of the famous "Batou" that the Joker uses to address Batman – the French equivalent to "Bats" –](https://nota-bene.org/Trois-jolis-souvenirs-de-traduction),
-  which gives the game a special flavor.
+[^ps4]:
 
-[^lire]: I'm reading "[The Golden Fool](https://en.wikipedia.org/wiki/The_Golden_Fool)"
-  by Robin Hobb, second volume of the "Tawny Man Trilogy", which itself is part
-  of the "The Realm of the Elderlings" series from which I have already read the
-  seven previous books. And I plan to also read the next eight right within a
-  year.
+    I am playing "Arkham Knight" by Rocksteady, and it's a blast. I have a great
+    time and I think a lot about my former colleague Stéphane,
+    [brilliant inventor of the famous "Batou" that the Joker uses to address Batman – the French equivalent to "Bats" –](https://nota-bene.org/Trois-jolis-souvenirs-de-traduction),
+    which gives the game a special flavor.
+
+[^lire]:
+
+    I'm reading
+    "[The Golden Fool](https://en.wikipedia.org/wiki/The_Golden_Fool)" by Robin
+    Hobb, second volume of the "Tawny Man Trilogy", which itself is part of the
+    "The Realm of the Elderlings" series from which I have already read the
+    seven previous books. And I plan to also read the next eight right within a
+    year.
 
 Click and drag the following link in your bookmarks bar :
 

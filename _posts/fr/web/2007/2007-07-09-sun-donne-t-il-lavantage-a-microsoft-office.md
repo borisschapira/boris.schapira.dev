@@ -1,8 +1,8 @@
 ---
 title: "Sun donne-t-il l'avantage à Microsoft Office ?"
 tags:
-  - Technologie
-  - 'Microsoft Office'
+    - Technologie
+    - 'Microsoft Office'
 ---
 
 Sun a livré la version finale 1.0 de son traducteur au format ODF pour Office.

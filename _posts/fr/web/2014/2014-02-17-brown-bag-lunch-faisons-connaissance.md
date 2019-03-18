@@ -1,8 +1,8 @@
 ---
 title: 'Brown Bag Lunch, faisons connaissance'
 tags:
-  - 'Me, myself and I'
-  - Conférences
+    - 'Me, myself and I'
+    - Conférences
 ---
 
 Je rejoins une nouvelle initiative, celle des

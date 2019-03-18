@@ -1,7 +1,7 @@
 ---
 title: 'Modèle et dialogue'
 tags:
-  - Société
+    - Société
 ---
 
 > Our ordinary conceptual system, in terms of which we both think and act, is
