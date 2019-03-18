@@ -32,9 +32,9 @@ a {
   --color-main: hsl(
     var(--color-hue),
     var(--color-saturation),
-    calc(var(--color-lightning) + var(--is-dark-mode) * 10%)
+    calc(var(--color-lightning) + var(--is-dark-mode) * 5%)
   );
-  --color-main-text: hsl(0, 0%, calc(5% + 90% * var(--is-dark-mode)));
+  --color-main-text: hsl(0, 0%, calc(5% + 70% * var(--is-dark-mode)));
   --color-compliment-text: hsl(0, 0%, calc(95% - 90% * var(--is-dark-mode)));
   --color-main-desaturate: hsl(
     var(--color-hue),
