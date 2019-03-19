@@ -81,12 +81,13 @@ a {
   --color-main-background: hsl(
     var(--color-hue),
     30%,
-    calc(99% - var(--is-dark-mode) * 99%)
+    calc(99% - var(--is-dark-mode) * 85%)
   );
-  --color-main-background: hsl(
+
+  --color-compliment-background: hsl(
     calc(var(--color-hue) + 180),
     30%,
-    calc(99% - var(--is-dark-mode) * 99%)
+    calc(99% - var(--is-dark-mode) * 85%)
   );
 
   --color-main-gray: hsl(
