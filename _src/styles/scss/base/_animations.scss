@@ -125,13 +125,25 @@
     @include animation(browsup 40s linear infinite);
   }
 
+  .g .eyebrows {
+    @include animation(browsup 30s linear infinite);
+  }
+
   .eye-closed {
     opacity: 0;
     @include animation(showclosed 20s linear infinite);
   }
 
+  .g .eye-closed {
+    @include animation(showclosed 15s linear infinite);
+  }
+
   .eye-open {
     @include animation(hideopen 20s linear infinite);
+  }
+
+  .g .eye-open {
+    @include animation(hideopen 15s linear infinite);
   }
 
   .kids,
@@ -140,16 +152,13 @@
   }
 
   .kids,
-  .db-logo {
+  .db-logo,
+  .bs-hoodie {
     display: none;
   }
 
   .boris {
     display: block;
-  }
-
-  .bg {
-    fill: #65c9ff;
   }
 
   .shirt {
@@ -165,10 +174,6 @@
     .boris {
       display: none;
     }
-
-    .bg {
-      fill: #293324;
-    }
   }
 
   .web & {
@@ -178,6 +183,17 @@
 
     .shirt {
       fill: #1a252f;
+    }
+  }
+
+  .citoyen &,
+  .citizen & {
+    .bs-shirt {
+      display: none;
+    }
+
+    .bs-hoodie {
+      display: block;
     }
   }
 }

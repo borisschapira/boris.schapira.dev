@@ -801,16 +801,31 @@ hr {
     @media screen and (prefers-reduced-motion: reduce) {
       .avatar .eyebrows {
         animation: none; } }
+  .avatar .g .eyebrows {
+    animation: browsup 30s linear infinite; }
+    @media screen and (prefers-reduced-motion: reduce) {
+      .avatar .g .eyebrows {
+        animation: none; } }
   .avatar .eye-closed {
     opacity: 0;
     animation: showclosed 20s linear infinite; }
     @media screen and (prefers-reduced-motion: reduce) {
       .avatar .eye-closed {
         animation: none; } }
+  .avatar .g .eye-closed {
+    animation: showclosed 15s linear infinite; }
+    @media screen and (prefers-reduced-motion: reduce) {
+      .avatar .g .eye-closed {
+        animation: none; } }
   .avatar .eye-open {
     animation: hideopen 20s linear infinite; }
     @media screen and (prefers-reduced-motion: reduce) {
       .avatar .eye-open {
+        animation: none; } }
+  .avatar .g .eye-open {
+    animation: hideopen 15s linear infinite; }
+    @media screen and (prefers-reduced-motion: reduce) {
+      .avatar .g .eye-open {
         animation: none; } }
   .avatar .kids,
   .avatar .boris {
@@ -820,12 +835,11 @@ hr {
       .avatar .boris {
         transition: none; } }
   .avatar .kids,
-  .avatar .db-logo {
+  .avatar .db-logo,
+  .avatar .bs-hoodie {
     display: none; }
   .avatar .boris {
     display: block; }
-  .avatar .bg {
-    fill: #65c9ff; }
   .avatar .shirt {
     fill: #ff488e; }
   .papa .avatar .kids,
@@ -834,13 +848,16 @@ hr {
   .papa .avatar .boris,
   .dad .avatar .boris {
     display: none; }
-  .papa .avatar .bg,
-  .dad .avatar .bg {
-    fill: #293324; }
   .web .avatar .db-logo {
     display: block; }
   .web .avatar .shirt {
     fill: #1a252f; }
+  .citoyen .avatar .bs-shirt,
+  .citizen .avatar .bs-shirt {
+    display: none; }
+  .citoyen .avatar .bs-hoodie,
+  .citizen .avatar .bs-hoodie {
+    display: block; }
 
 html,
 input,
