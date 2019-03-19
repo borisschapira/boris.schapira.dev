@@ -16,7 +16,7 @@ dès 1605…_
 > touch it, or hold it… ideas do not bleed, they do not feel pain, they do not
 > love… And it is not an idea that I miss, it is a man… A man that made me
 > remember the Fifth of November. À man that I will never forget."  
-> Evey Hammond, _V for Vendetta (2005)_
+> <cite>Evey Hammond, in "V for Vendetta" (2005)</cite>
 
 Évidemment, la solution de Fawkes, que l'on pourrait résumer par "tuer et tout
 faire péter", bien qu'elle ait été parfaitement logique en son époque,
@@ -24,6 +24,6 @@ semblerait aujourd'hui plus difficile à mettre en place, et bien inutile.
 
 Cependant l'idée est là. Quand l'exécutif prépare à l'avance la notice sur la
 réforme des collectivités territoriales alors qu'elle n'a pas encore été
-discutée par les députés, ne peut-on pas douter de l'utilité du Parlement ?
+discutée et votée par les députés, ne peut-on pas douter de l'utilité du Parlement ?
 
 _"Remember, remember, the fifth of November…"_
