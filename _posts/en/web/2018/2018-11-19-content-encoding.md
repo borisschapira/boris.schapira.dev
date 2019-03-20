@@ -6,7 +6,7 @@ i18n-key: content-encoding
 main_image: /assets/images/2018-11-16/hiragana-blur.png
 canonical: 'https://blog.dareboost.com/en/2018/11/content-encoding-meta-charset-content-type-header/'
 tags:
-    - WebPerf
+    - 'Performance Web'
     - Headers
     - Encoding
 slug: content-encoding-how-why

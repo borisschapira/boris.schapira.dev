@@ -24,6 +24,7 @@ semblerait aujourd'hui plus difficile à mettre en place, et bien inutile.
 
 Cependant l'idée est là. Quand l'exécutif prépare à l'avance la notice sur la
 réforme des collectivités territoriales alors qu'elle n'a pas encore été
-discutée et votée par les députés, ne peut-on pas douter de l'utilité du Parlement ?
+discutée et votée par les députés, ne peut-on pas douter de l'utilité du
+Parlement ?
 
 _"Remember, remember, the fifth of November…"_
