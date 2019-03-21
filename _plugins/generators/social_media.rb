@@ -84,28 +84,33 @@ module Jekyll
         end
       end
 
-      imgtitle = URI.escape(title).gsub(" ", '%20').gsub(".", '%2e').gsub(",", '%252C').gsub("'", '%E2%80%99').gsub('?', '%3F')
+      imgtitle = URI.escape(title).gsub(" ", '%20').gsub(".", '%2e').gsub(",", '%E2%80%9A').gsub("'", '%E2%80%99').gsub('?', '%3F')
 
       if page.data.key?("main_image")
-        image = page.data["main_image"]
-        color = 'tata'
+        category = page.data["category"]
+        image = get_configuration['url'] + page.data["main_image"]
       elsif page.data.key?("category")
         category = page.data["category"]
         image = get_configuration['url'] + '/assets/images/category/' + category + '.jpg'
-        color = site.data["styles"][category]["color"]
       elsif page.data.key?("pagination")
         category = page.data["pagination"]["category"]
         unless category.nil?
           image = get_configuration['url'] + '/assets/images/category/' + category + '.jpg'
-          color = site.data["styles"][category]["color"]
         end
+      end
+      unless category.nil?
+        color = site.data["styles"][category]["color"]
+      else
+        color = site.data["styles"]["main"]["color"]
       end
 
       if page.data.key?("cloudinary_logo")
         logo = page.data["cloudinary_logo"]
       end
 
-      image = 'https://res.cloudinary.com/' + get_configuration['cloudinary']['cloud_name'] + '/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:' + color + ',o_40/w_1000,c_fit,l_text:PT%20Sans_' + imgtitle.size .to_s + ':' + imgtitle + ',x_2,y_-98,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_' + imgtitle.size.to_s + ':' + imgtitle + ',y_-100,co_white/l_text:PT%20Sans_50:borisschapira,g_south_east,x_44,y_75,co_black,o_40/l_text:PT%20Sans_50:borisschapira,g_south_east,x_46,y_77,co_white/c_fill,g_south_east,r_max,h_45,l_twitter,w_45,x_336,y_80/c_scale,g_south_west,h_150,l_'+ logo +',w_150,x_40,y_40/' + image
+      font_size = Integer(-0.86 * title.size + 145)
+
+      image = 'https://res.cloudinary.com/' + get_configuration['cloudinary']['cloud_name'] + '/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:' + color + ',o_20/w_1000,c_fit,l_text:PT%20Sans_' + font_size.to_s + ':' + imgtitle + ',x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_' + font_size.to_s + ':' + imgtitle + ',y_-70,co_white/l_text:PT%20Sans_50:borisschapira,g_south_east,x_64,y_55,co_black,o_20/l_text:PT%20Sans_50:borisschapira,g_south_east,x_66,y_57,co_white/c_fill,g_south_east,r_max,h_45,l_twitter,w_45,x_356,y_60/c_scale,g_south_west,l_'+ logo +',w_150,x_60,y_40/' + image
 
       result = {
         'title' => strip_html(title) + " &middot; " + get_configuration['title'],

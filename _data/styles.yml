@@ -1,13 +1,13 @@
 ---
 citoyen:
   css: citoyen
-  color: '157584'
+  color: '11626e'
 papa:
   css: papa
-  color: '009900'
+  color: '008000'
 web:
   css: web
-  color: '000099'
+  color: '1773cf'
 main:
   css: main
-  color: '91084d'
+  color: '790640'
