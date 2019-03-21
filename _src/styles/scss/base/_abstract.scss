@@ -1,3 +1,5 @@
+@import "../vendors/include-media";
+
 %ul-reset {
   margin: 0;
   padding: 0;
@@ -8,6 +10,13 @@
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   gap: $global-gutters;
+
+  @include media("<=small") {
+    gap: $global-gutters/2;
+  }
+  @include media("<=xsmall") {
+    gap: 0;
+  }
 }
 
 // https://unfetteredthoughts.net/2017/09/26/voiceover-and-list-style-type-none/

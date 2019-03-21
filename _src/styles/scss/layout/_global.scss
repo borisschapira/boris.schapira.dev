@@ -16,6 +16,7 @@ html {
   &.full-width-content {
     .content {
       grid-column: 2 / 12;
+      width: 100%;
       max-width: 38rem;
       margin: auto;
     }
@@ -27,21 +28,21 @@ html {
 
   .content {
     padding-bottom: 3rem;
-    grid-column: 2 / 9;
+    grid-column: 2 / 12;
 
-    @include media("<large") {
-      grid-column: 2 / 12;
+    @include media(">=large") {
+      grid-column: 2 / 9;
     }
   }
 
   aside {
-    grid-column: 9 / 12;
-    border-left: $border-separators solid var(--color-main-grayfade);
+    grid-column: 2 / 12;
     padding: 0 $global-gutters;
     display: block;
 
-    @include media("<large") {
-      grid-column: 2 / 12;
+    @include media(">=large") {
+      grid-column: 9 / 12;
+      border-left: $border-separators solid var(--color-main-grayfade);
     }
   }
 }

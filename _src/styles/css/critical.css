@@ -11,6 +11,12 @@
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   gap: 2rem; }
+  @media (max-width: 480px) {
+    .container, .nav-footer, .nav-header {
+      gap: 1rem; } }
+  @media (max-width: 220px) {
+    .container, .nav-footer, .nav-header {
+      gap: 0; } }
 
 blockquote li,
 .inline-note li, .socials {
@@ -911,6 +917,17 @@ caption,
 .inline-note {
   margin: 1.7em 0; }
 
+pre {
+  white-space: pre-wrap;
+  /* css-3 */
+  white-space: -moz-pre-wrap;
+  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;
+  /* Opera 4-6 */
+  white-space: -o-pre-wrap;
+  /* Opera 7 */
+  word-wrap: break-word; }
+
 .lang {
   text-transform: uppercase;
   font-size: 0.8em; }
@@ -1045,24 +1062,25 @@ html {
   background-image: none; }
   .container.full-width-content .content {
     grid-column: 2 / 12;
+    width: 100%;
     max-width: 38rem;
     margin: auto; }
   .container.full-width-content aside {
     display: none; }
   .container .content {
     padding-bottom: 3rem;
-    grid-column: 2 / 9; }
-    @media (max-width: 959px) {
+    grid-column: 2 / 12; }
+    @media (min-width: 960px) {
       .container .content {
-        grid-column: 2 / 12; } }
+        grid-column: 2 / 9; } }
   .container aside {
-    grid-column: 9 / 12;
-    border-left: 2px solid var(--color-main-grayfade);
+    grid-column: 2 / 12;
     padding: 0 2rem;
     display: block; }
-    @media (max-width: 959px) {
+    @media (min-width: 960px) {
       .container aside {
-        grid-column: 2 / 12; } }
+        grid-column: 9 / 12;
+        border-left: 2px solid var(--color-main-grayfade); } }
 
 .widget {
   padding: 1rem;
