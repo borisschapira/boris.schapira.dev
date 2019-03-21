@@ -1364,7 +1364,8 @@ a:hover {
   white-space: nowrap;
   /* 1 */
   clip: rect(0 0 0 0);
-  clip-path: inset(50%); }
+  clip-path: inset(50%);
+  text-transform: none; }
 
 a:focus {
   outline-color: var(--color-compliment-light); }
