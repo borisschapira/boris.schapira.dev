@@ -1,6 +1,6 @@
 ---
 title: 'Ma première radio'
-main_image: 2016/11/premiere-radio/radio.png
+main_image: /assets/images/2016-11-10/radio.png
 ---
 
 J'ai été invité par les enfants du club radio de
