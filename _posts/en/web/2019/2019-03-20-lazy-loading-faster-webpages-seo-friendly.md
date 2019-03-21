@@ -244,8 +244,10 @@ very, very complex. So anyway, you should not enter this HTML code manually:
 dealing automatically with this kind of complexity should be the work of your
 CMS or a task of your contribution workflow whatever it is.
 
-{% capture img_alt %}About fifty lines of very dense HTML.{% endcapture %}{% capture img_caption %}Mark-up an image from The Guardian, even before the implementation of a Lazy
-Loading{% endcapture %} {% include rwd-image.html.liquid
+{% capture img_alt %}About fifty lines of very dense
+HTML.{% endcapture %}{% capture img_caption %}Mark-up an image from The
+Guardian, even before the implementation of a Lazy Loading{% endcapture %}
+{% include rwd-image.html.liquid
 path="/assets/images/2019-03-20/guardians_rwd_image.png"
 alt=img_alt
 caption=img_caption

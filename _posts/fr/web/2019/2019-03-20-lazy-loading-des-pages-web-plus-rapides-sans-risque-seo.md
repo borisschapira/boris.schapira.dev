@@ -263,14 +263,14 @@ la main : gérer cette complexité automatiquement devrait être de la
 responsabilité de votre CMS, ou une tâche dédié de votre processus de
 contribution.
 
-{% capture img_alt %}Un cinquantaine de lignes de HTML bien dense.{% endcapture %}{% capture img_caption %}Balisage d’une image de The Guardian, avant-même la mise en place d’un Lazy
-Loading{% endcapture %} {% include rwd-image.html.liquid
+{% capture img_alt %}Un cinquantaine de lignes de HTML bien
+dense.{% endcapture %}{% capture img_caption %}Balisage d’une image de The
+Guardian, avant-même la mise en place d’un Lazy Loading{% endcapture %}
+{% include rwd-image.html.liquid
 path="/assets/images/2019-03-20/guardians_rwd_image.png"
 alt=img_alt
 caption=img_caption
 %}
-
-
 
 ## Tester l’implémentation
 
