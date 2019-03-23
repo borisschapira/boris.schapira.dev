@@ -22,9 +22,9 @@ rapporté
 >
 > Je voudrais vous faire part de ma propre expérience, celle de devenir
 > française, ayant été une étrangère pendant une moitié de ma vie.
->
-> […]
->
+
+[…]
+
 > Ma première fascination et mon premier amour pour la France ont été la langue
 > et la création à la française. J'aimais et j'aime le français, même s'il est
 > difficile. C'était et cela reste une langue de liberté, de tolérance et
@@ -34,15 +34,17 @@ rapporté
 > ce sens, la France, c'était pour moi un pays qui ne subissait pas le
 > changement mais le pratiquait par la culture. D'une certaine façon, la France
 > me faisait rêver.
->
+
+[…]
+
 > Ma deuxième découverte et mon deuxième sentiment ont été, à vingt ans, le fait
 > que je me sente à l'aise dans le pays lui-même. En venant d'abord à Grenoble,
 > puis à Paris et au Mans pour mes études, j'ai eu d'emblée le sentiment que je
 > pourrais y vivre pour toujours, chose que je ne pouvais savoir avant d'y être.
 > C'est un sentiment fort, que nul État ne peut prescrire ni interdire.
->
-> […]
->
+
+[…]
+
 > Mon troisième sentiment pour la France a été le plaisir de me savoir reconnue
 > pour ce que j'étais.
 >
@@ -62,9 +64,9 @@ rapporté
 > est en passe de le faire, qui veut constamment dominer et qui se comporte
 > comme tous les riches et les puissants du monde, ce n'est pas cela qui m'a
 > fait choisir la France.
->
-> […]
->
+
+[…]
+
 > Mon quatrième sentiment à l'égard de la France a été le bonheur d'être dans un
 > pays ayant le goût des autres. Ce pays a encore la réputation d'aimer les
 > autres, de les reconnaître et de les accueillir quand ils en ont envie ou
@@ -79,15 +81,15 @@ rapporté
 > partageais quelques mots de français. D'une certaine façon, la France a su
 > donner l'exemple ; c'est parce qu'elle sait être ouverte qu'elle rayonne et
 > est aimée.
->
-> […]
->
+
+[…]
+
 > Selon moi, **parler de l'identité nationale comme de quelque chose d'objectif
 > et d'immuable qu'on pourrait «&nbsp;valoriser&nbsp;», comme le dit le site du
 > ministère, c'est impossible**.
->
-> […]
->
+
+[…]
+
 > Selon l'historien Gombrich, l'histoire humaine est un fleuve qui parcourt des
 > paysages différents et jamais les mêmes. **Il nous faut donc admettre que nos
 > valeurs, y compris celles que nous appelons nationales, puissent avancer sur
