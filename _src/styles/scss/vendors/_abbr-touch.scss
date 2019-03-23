@@ -11,8 +11,8 @@
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
   text-align: center;
-  border-bottom: 1px solid var(--compliment-darken-color);
-  background-color: var(--compliment-lighten-color);
+  border-bottom: 1px solid var(--color-compliment-highlight);
+  background-color: var(--color-compliment-discrete);
 
   &.visible {
     top: 0;

@@ -39,19 +39,25 @@ a {
   --color-main-desaturate: hsl(
     var(--color-hue),
     var(--color-saturation),
-    calc(var(--color-lightning) + 40%)
+    calc(var(--color-lightning) * (1 + var(--is-dark-mode)) + 40%)
   );
 
-  --color-main-dark: hsl(
+  --color-main-highlight: hsl(
     var(--color-hue),
     var(--color-saturation),
-    calc(var(--color-lightning) - 10%)
+    calc(
+      var(--color-lightning) * (1 + var(--is-dark-mode)) - 10% + 20% *
+        var(--is-dark-mode)
+    )
   );
 
-  --color-main-light: hsl(
+  --color-main-discrete: hsl(
     var(--color-hue),
     var(--color-saturation),
-    calc(var(--color-lightning) + 10%)
+    calc(
+      var(--color-lightning) * (1 + var(--is-dark-mode)) + 10% - 20% *
+        var(--is-dark-mode)
+    )
   );
 
   --color-compliment: hsl(
@@ -66,16 +72,16 @@ a {
     calc(var(--color-lightning) + 40%)
   );
 
-  --color-compliment-dark: hsl(
+  --color-compliment-highlight: hsl(
     calc(var(--color-hue) + 180),
     var(--color-saturation),
-    calc(var(--color-lightning) - 10%)
+    calc(var(--color-lightning) - 10% + 20% * var(--is-dark-mode))
   );
 
-  --color-compliment-light: hsl(
+  --color-compliment-discrete: hsl(
     calc(var(--color-hue) + 180),
     var(--color-saturation),
-    calc(var(--color-lightning) + 10%)
+    calc(var(--color-lightning) + 10% - 20% * var(--is-dark-mode))
   );
 
   --color-main-background: hsl(

@@ -558,8 +558,8 @@ hr {
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
   text-align: center;
-  border-bottom: 1px solid var(--compliment-darken-color);
-  background-color: var(--compliment-lighten-color); }
+  border-bottom: 1px solid var(--color-compliment-highlight);
+  background-color: var(--color-compliment-discrete); }
   #abbr-tooltip.visible {
     top: 0; }
 
@@ -1144,7 +1144,7 @@ body.menu-open {
   body.menu-open a {
     color: var(--color-main); }
     body.menu-open a:hover {
-      color: var(--color-main-dark); }
+      color: var(--color-main-highlight); }
   body.menu-open nav ul {
     display: block;
     position: fixed;
@@ -1323,7 +1323,7 @@ a.reversefootnote {
   background: none; }
 
 a:hover {
-  color: var(--color-main-dark); }
+  color: var(--color-main-highlight); }
 
 [aria-hidden="true"] {
   speak: none; }
