@@ -23,6 +23,17 @@ function perfmark(callback, key) {
   );
 }
 
+(function darkModeSwitcher() {
+  var checkbox = document.getElementById('dark-mode-input');
+  checkbox.addEventListener(
+    'change',
+    function() {
+      localStorage.setItem('dark_mode', this.checked);
+    },
+    false
+  );
+})();
+
 (function switchlang() {
   perfmark(function() {
     // Detect user language and redirect, if first time, to the right page ----------------
@@ -45,6 +56,16 @@ function perfmark(callback, key) {
         }
       }
     } catch (e) {}
+
+    document.addEventListener(
+      'click',
+      function(event) {
+        if (event.target.matches('[lang][href*="/"]')) {
+          localStorage.setItem('lang_user', event.target.getAttribute('lang'));
+        }
+      },
+      false
+    );
   }, 'switchlang');
 })();
 

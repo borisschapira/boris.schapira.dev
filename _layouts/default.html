@@ -128,183 +128,192 @@ layout: microtypo
     <!-- endnomicrotypo -->
   </head>
 
-  <body class="colorized menu-state {% if page.category %}{{page.category}}{% else %}main{% endif %}">
-    <a class="skip-main" href="#main">{{ "Aller directement au contenu principal" | t: page.locale }}</a>
+  <body>
+    <input id="dark-mode-input" type="checkbox" name="dark-mode"/>
+    <script>
+      if (window.matchMedia('(color-index: 48), (prefers-color-scheme: dark)').matches || localStorage.getItem('dark_mode')) {
+        document.getElementById('dark-mode-input').checked = JSON.parse(localStorage.getItem('dark_mode'));
+      }
+    </script>
+    <div class="menu-state colorized {% if page.category %}{{page.category}}{% else %}main{% endif %} color-container">
+      <a class="skip-main" href="#main">{{ "Aller directement au contenu principal" | t: page.locale }}</a>
+      <header class="nav-header">
+        <a href="{{ page.baseurl | relative_url }}" itemprop="url" class="title">
+          {{ site.title }}
+        </a>
+        <nav>
+          <button class="menu-trigger button" aria-controls="main-nav" aria-expanded="false" id="menu-trigger" data-toggle-class="menu-open"
+          data-toggle-escape data-toggle-target-all=".menu-state">
+            <span class="menu-label">{{ "menu" | t: page.locale }}</span>
+            <span class="close-label">{{ "fermer" | t: page.locale }}</span>
+          </button>
+          <ul class="menu" id="main-nav">
+            <li {% if page.type == 'post' or page.layout == 'index' %}class="active"{% endif %} itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem"><a href="{{ page.baseurl | relative_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "Notes" | t: page.locale }}</a></li>
 
-    <header class="nav-header">
-      <a href="{{ page.baseurl | relative_url }}" itemprop="url" class="title">
-        {{ site.title }}
-      </a>
-      <nav>
-        <button class="menu-trigger button" aria-controls="main-nav" aria-expanded="false" id="menu-trigger" data-toggle-class="menu-open"
-        data-toggle-escape data-toggle-target-all=".menu-state">
-          <span class="menu-label">{{ "menu" | t: page.locale }}</span>
-          <span class="close-label">{{ "fermer" | t: page.locale }}</span>
-        </button>
-        <ul class="menu" id="main-nav">
-          <li {% if page.type == 'post' or page.layout == 'index' %}class="active"{% endif %} itemprop="itemListElement" itemscope
-          itemtype="http://schema.org/ListItem"><a href="{{ page.baseurl | relative_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "Notes" | t: page.locale }}</a></li>
+            <li {% if page.i18n-key == 'about' %}class="active"{% endif %} itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem">
+              <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}/">{{ "À propos" | t: page.locale }}</a>
+            </li>
 
-          <li {% if page.i18n-key == 'about' %}class="active"{% endif %} itemprop="itemListElement" itemscope
-          itemtype="http://schema.org/ListItem">
-            <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}/">{{ "À propos" | t: page.locale }}</a>
-          </li>
+            <li {% if page.i18n-key == 'about' %}class="active"{% endif %} itemprop="itemListElement" itemscope
+            itemtype="http://schema.org/ListItem">
+              <a href="{{ "partager" | t:page.locale | prepend: page.baseurl | relative_url }}/">{{ "Partager" | t: page.locale }}</a>
+            </li>
 
-          <li {% if page.i18n-key == 'about' %}class="active"{% endif %} itemprop="itemListElement" itemscope
-          itemtype="http://schema.org/ListItem">
-            <a href="{{ "partager" | t:page.locale | prepend: page.baseurl | relative_url }}/">{{ "Partager" | t: page.locale }}</a>
-          </li>
+            <li {% if page.i18n-key == 'search' %}class="active"{% endif %} 
+            itemprop="itemSearchResultsPage" itemscope
+            itemtype="http://schema.org/SearchResultsPage">
+            <a href="{{ 'recherche' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{{ "Recherche" | t: page.locale }}</a>
+            </li>
 
-          <li {% if page.i18n-key == 'search' %}class="active"{% endif %} 
-          itemprop="itemSearchResultsPage" itemscope
-          itemtype="http://schema.org/SearchResultsPage">
-          <a href="{{ 'recherche' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{{ "Recherche" | t: page.locale }}</a>
-          </li>
+            {% if page.translation %}
+            <li>{% include read_in.html.liquid 
+                    locale=page.translation.locale
+                    url=page.translation.url %}</li>
+            {% endif %}
 
-          {% if page.translation %}
-          <li>{% include read_in.html.liquid 
-                  locale=page.translation.locale
-                  url=page.translation.url %}</li>
-          {% endif %}
-        </ul>
-      </nav>
-    </header>
-    <h1 class="page-title">{{ page.title }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>
-    <section class="container{% if page.layout=='post' or page.layout=='page' or page.layout=='conf' %} full-width-content{% endif %}">
-      <div class="content" role="main" id="main">
-        {{ content }}
-        
-      {% if paginator %}
-        {% capture url_prefix %}{% if page.category %}/{{page.category}}{% endif %}{% endcapture %}
-        {% if paginator.total_pages > 1 %}
-        <ul class="pagination">
-          {% comment %} Page précédente {% endcomment %}
-          {% if paginator.previous_page %} 
-            {% if paginator.previous_page == 1 %}
-              {% comment %} Si on est sur la page 2, la page précédente est la 1 {% endcomment %}
-              <li>
-                <a href="{{ url_prefix }}/" rel="prev" ><span class="sr-only">{{ "Accueil" | t: page.locale }}</span>&lsaquo;</a>
+            <li><label for="dark-mode-input" tabindex="0" role="button"><span class="sr-only">Dark Mode</span><!-- nomicrotypo -->{% include dark-mode.svg %}<!-- endnomicrotypo --></label></li>
+          </ul>
+        </nav>
+      </header>
+      <h1 class="page-title">{{ page.title }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>
+      <section class="container{% if page.layout=='post' or page.layout=='page' or page.layout=='conf' %} full-width-content{% endif %}">
+        <div class="content" role="main" id="main">
+          {{ content }}
+          
+        {% if paginator %}
+          {% capture url_prefix %}{% if page.category %}/{{page.category}}{% endif %}{% endcapture %}
+          {% if paginator.total_pages > 1 %}
+          <ul class="pagination">
+            {% comment %} Page précédente {% endcomment %}
+            {% if paginator.previous_page %} 
+              {% if paginator.previous_page == 1 %}
+                {% comment %} Si on est sur la page 2, la page précédente est la 1 {% endcomment %}
+                <li>
+                  <a href="{{ url_prefix }}/" rel="prev" ><span class="sr-only">{{ "Accueil" | t: page.locale }}</span>&lsaquo;</a>
+                </li>
+              {% else %}
+                {% comment %} Sinon, c'est la page d'avant {% endcomment %}
+                <li>
+                  <a href="{{ site.pagination.permalink | replace:':num', paginator.previous_page | prepend: url_prefix }}" rel="prev"><span class="sr-only">{{ "Page précédente" | t: page.locale }}</span>&lsaquo;</a>
+                </li>
+              {% endif %}
+            {% else %}
+              {% comment %} Si on est sur la page 1, pas de précédente {% endcomment %}
+              <li class="disabled">&lsaquo;</li>
+            {% endif %}
+            
+            {% if paginator.page == 1 %}
+              {% comment %} Si on est sur la page 1 {% endcomment %}
+              <li class="disabled">
+                <strong>1</strong>
               </li>
             {% else %}
-              {% comment %} Sinon, c'est la page d'avant {% endcomment %}
+              {% comment %} Sinon, afficher le lien {% endcomment %}
               <li>
-                <a href="{{ site.pagination.permalink | replace:':num', paginator.previous_page | prepend: url_prefix }}" rel="prev"><span class="sr-only">{{ "Page précédente" | t: page.locale }}</span>&lsaquo;</a>
+                <a href="{{ url_prefix }}/" ><span class="sr-only">{{ "Accueil" | t: page.locale }}</span>1</a>
               </li>
             {% endif %}
-          {% else %}
-            {% comment %} Si on est sur la page 1, pas de précédente {% endcomment %}
-            <li class="disabled">&lsaquo;</li>
-          {% endif %}
+            
+            {% comment %} À partir de la page 2 {% endcomment %}
+            {% assign page_start = 2 %}
+            {% if paginator.page > 5 %}
+              {% comment %} Si on est plus loin que la page 5, 
+              on affiche "…" et on démarre 2 pages avant {% endcomment %}
+              {% assign page_start = paginator.page | minus: 2 %}
+              <li class="disabled">
+                …
+              </li>
+            {% endif %}
+            
+            {% comment %} La dernière page de cette liste, c'est 2 pages avant la fin (mais on commence à compter à 0) {% endcomment %}
+            {% assign page_end = paginator.total_pages | minus: 1 %}
           
-          {% if paginator.page == 1 %}
-            {% comment %} Si on est sur la page 1 {% endcomment %}
-            <li class="disabled">
-              <strong>1</strong>
-            </li>
-          {% else %}
-            {% comment %} Sinon, afficher le lien {% endcomment %}
-            <li>
-              <a href="{{ url_prefix }}/" ><span class="sr-only">{{ "Accueil" | t: page.locale }}</span>1</a>
-            </li>
-          {% endif %}
+            {% comment %} La distance entre la page courante et la dernière page dans l'absolu {% endcomment %}
+            {% assign to_end = paginator.total_pages | minus: paginator.page %} 
           
-          {% comment %} À partir de la page 2 {% endcomment %}
-          {% assign page_start = 2 %}
-          {% if paginator.page > 5 %}
-            {% comment %} Si on est plus loin que la page 5, 
-            on affiche "…" et on démarre 2 pages avant {% endcomment %}
-            {% assign page_start = paginator.page | minus: 2 %}
-            <li class="disabled">
-              …
-            </li>
-          {% endif %}
+            {% comment %} Si cette distance est supérieure à 4, on s'arrêtera 2 pages après la page courante et on affichera "…" {% endcomment %}
+            {% if to_end > 4 %} 
+              {% assign page_end = paginator.page | plus: 2 %}
+            {% endif %}
           
-          {% comment %} La dernière page de cette liste, c'est 2 pages avant la fin (mais on commence à compter à 0) {% endcomment %}
-          {% assign page_end = paginator.total_pages | minus: 1 %}
-        
-          {% comment %} La distance entre la page courante et la dernière page dans l'absolu {% endcomment %}
-          {% assign to_end = paginator.total_pages | minus: paginator.page %} 
-        
-          {% comment %} Si cette distance est supérieure à 4, on s'arrêtera 2 pages après la page courante et on affichera "…" {% endcomment %}
-          {% if to_end > 4 %} 
-            {% assign page_end = paginator.page | plus: 2 %}
-          {% endif %}
-        
-          {% comment %} Production de la liste "du milieu" {% endcomment %}
-          {% for index in (page_start..page_end) %} 
-            {% if index == paginator.page %}
-            <li >
-              <strong>{{index}}</strong>
-            </li>
-            {% else %}
-            <li>
-              <a href="{{ site.pagination.permalink | replace:':num', index | prepend: url_prefix }}" ><span class="sr-only">Page</span>{{index}}</a>
-            </li>
+            {% comment %} Production de la liste "du milieu" {% endcomment %}
+            {% for index in (page_start..page_end) %} 
+              {% if index == paginator.page %}
+              <li >
+                <strong>{{index}}</strong>
+              </li>
+              {% else %}
+              <li>
+                <a href="{{ site.pagination.permalink | replace:':num', index | prepend: url_prefix }}" ><span class="sr-only">Page</span>{{index}}</a>
+              </li>
+              {% endif %} 
+            {% endfor %}
+            {% if to_end > 4 %}
+              <li class="disabled">…</li>
             {% endif %} 
-          {% endfor %}
-          {% if to_end > 4 %}
-            <li class="disabled">…</li>
-          {% endif %} 
-        
-          {% if paginator.page == paginator.total_pages %}
-            <li >
-              <strong>{{paginator.page}}</strong>
-            </li>
-          {% else %}
-            {% assign tp1 = paginator.page | plus: 1 %}
-            <li>
-              <a href="{{ site.pagination.permalink | replace:':num', paginator.total_pages | prepend: url_prefix }}" {% if paginator.total_pages == tp1 %}rel="next"{% endif %}><span class="sr-only">{{ "Dernière page" | t: page.locale }}</span>{{paginator.total_pages}}</a>
-            </li>
-          {% endif %} 
-          {% if paginator.next_page %} 
-            {% if paginator.next_page == paginator.total_pages %}
-              <li class="disabled">&raquo;</li>
+          
+            {% if paginator.page == paginator.total_pages %}
+              <li >
+                <strong>{{paginator.page}}</strong>
+              </li>
             {% else %}
-            <li>
-              <a href="{{ site.pagination.permalink | replace:':num', paginator.next_page | prepend: url_prefix }}" rel="next"><span class="sr-only">{{ "Page suivante" | t: page.locale }}</span>&rsaquo;</a>
-            </li>
+              {% assign tp1 = paginator.page | plus: 1 %}
+              <li>
+                <a href="{{ site.pagination.permalink | replace:':num', paginator.total_pages | prepend: url_prefix }}" {% if paginator.total_pages == tp1 %}rel="next"{% endif %}><span class="sr-only">{{ "Dernière page" | t: page.locale }}</span>{{paginator.total_pages}}</a>
+              </li>
             {% endif %} 
-          {% else %}
-            <li class="disabled">&rsaquo;</li>
-          {% endif %}
-        </ul>
-        {% endif %}
-      {% endif %}
-      </div>
-      <aside>
-        <div class="widget" aria-hidden="true">
-          <!-- nomicrotypo -->{% include avatar.svg %}<!-- endnomicrotypo -->
-        </div>
-        <div class="widget">
-          <h3>{{ "Catégories" | t: page.locale }}</h3>
-          <ul>
-            <li itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem"><a class="{% unless page.category %}active{% endunless %}" href="{{ '' | prepend: page.baseurl | relative_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "toutes" | t: page.locale }}</a></li>
-            <li itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem"><a class="web {% if page.category == 'web' %}active{% endif %}" href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "web" | t: page.locale }}</a></li>
-            <li itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem">
-            <a class="citoyen {% if page.category == 'citoyen' %}active{% endif %}" href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "citoyen" | t: page.locale }}</a>
-            </li>
-            <li itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem">
-            <a class="papa {% if page.category == 'papa' %}active{% endif %}" href="{{ 'papa' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "papa" | t: page.locale }}</a>
-            </li>
+            {% if paginator.next_page %} 
+              {% if paginator.next_page == paginator.total_pages %}
+                <li class="disabled">&raquo;</li>
+              {% else %}
+              <li>
+                <a href="{{ site.pagination.permalink | replace:':num', paginator.next_page | prepend: url_prefix }}" rel="next"><span class="sr-only">{{ "Page suivante" | t: page.locale }}</span>&rsaquo;</a>
+              </li>
+              {% endif %} 
+            {% else %}
+              <li class="disabled">&rsaquo;</li>
+            {% endif %}
           </ul>
+          {% endif %}
+        {% endif %}
         </div>
-      </aside>
-    </section>
-    <footer class="main-footer">
-      <div class="nav-footer">
-        <p>
-          {{ "Retrouvez-moi" | t: page.locale }} {{ "sur" | t: page.locale }} <a class="npe" rel="me nofollow" href="{{ site.author.github }}">Github</a>, <a class="npe" rel="me nofollow" href="{{ site.author.twitter }}">Twitter</a>, <a class="npe" rel="me nofollow" href="{{ site.author.mastodon }}">Mastodon</a>, <a class="npe" rel="me nofollow" href="{{ site.author.linkedin }}">LinkedIn</a> {{ "et" | t: page.locale }} <a class="npe" rel="me nofollow" href="{{ site.author.flickr }}">Flickr</a>.
-          <br />
-          {{ "Site statique" | t: page.locale }} <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}/site/">{{ "compilé par Jekyll, propulsé par Netlify et Cloudinary" | t: page.locale }}</a>.
-          <br />
-          <a class="npe" rel="me nofollow" href="{{ feed_url | prepend: page.baseurl | relative_url }}">{{ "Abonnez-vous au flux" | t: page.locale }}</a>
-        </p>
-      </div>
-    </footer>
+        <aside>
+          <div class="widget" aria-hidden="true">
+            <!-- nomicrotypo -->{% include avatar.svg %}<!-- endnomicrotypo -->
+          </div>
+          <div class="widget">
+            <h2>{{ "Catégories" | t: page.locale }}</h2>
+            <ul>
+              <li itemprop="itemListElement" itemscope
+              itemtype="http://schema.org/ListItem"><a class="main {% unless page.category %}active{% endunless %}" href="{{ '' | prepend: page.baseurl | relative_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "toutes" | t: page.locale }}</a></li>
+              <li itemprop="itemListElement" itemscope
+              itemtype="http://schema.org/ListItem"><a class="web {% if page.category == 'web' %}active{% endif %}" href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "web" | t: page.locale }}</a></li>
+              <li itemprop="itemListElement" itemscope
+              itemtype="http://schema.org/ListItem">
+              <a class="citoyen {% if page.category == 'citoyen' %}active{% endif %}" href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "citoyen" | t: page.locale }}</a>
+              </li>
+              <li itemprop="itemListElement" itemscope
+              itemtype="http://schema.org/ListItem">
+              <a class="papa {% if page.category == 'papa' %}active{% endif %}" href="{{ 'papa' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "papa" | t: page.locale }}</a>
+              </li>
+            </ul>
+          </div>
+        </aside>
+      </section>
+      <footer class="main-footer">
+        <div class="nav-footer">
+          <p>
+            {{ "Retrouvez-moi" | t: page.locale }} {{ "sur" | t: page.locale }} <a class="npe" rel="me nofollow" href="{{ site.author.github }}">Github</a>, <a class="npe" rel="me nofollow" href="{{ site.author.twitter }}">Twitter</a>, <a class="npe" rel="me nofollow" href="{{ site.author.mastodon }}">Mastodon</a>, <a class="npe" rel="me nofollow" href="{{ site.author.linkedin }}">LinkedIn</a> {{ "et" | t: page.locale }} <a class="npe" rel="me nofollow" href="{{ site.author.flickr }}">Flickr</a>.
+            <br />
+            {{ "Site statique" | t: page.locale }} <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}/site/">{{ "compilé par Jekyll, propulsé par Netlify et Cloudinary" | t: page.locale }}</a>.
+            <br />
+            <a class="npe" rel="me nofollow" href="{{ feed_url | prepend: page.baseurl | relative_url }}">{{ "Abonnez-vous au flux" | t: page.locale }}</a>
+          </p>
+        </div>
+      </footer>
+    </div>
     {% include footer.html.liquid type=page.type loadTwitterWjs=page.loadTwitterWjs loadSearch=page.loadSearch %}
     <script src="//instant.page/1.2.2" type="module" integrity="sha384-2xV8M5griQmzyiY3CDqh1dn4z3llDVqZDqzjzcY+jCBCk/a5fXJmuZ/40JJAPeoU"></script>
   </body></html>

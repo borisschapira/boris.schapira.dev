@@ -13,6 +13,7 @@
   text-align: center;
   font-weight: bold;
   @include transition(top 0.1s linear);
+  background-color: var(--color-main-background);
 
   &:focus {
     top: 0;
@@ -42,6 +43,6 @@
   text-transform: none;
 }
 
-a:focus {
+:focus {
   outline-color: var(--color-compliment-light);
 }

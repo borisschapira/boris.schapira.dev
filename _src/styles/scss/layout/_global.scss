@@ -8,6 +8,10 @@ html {
   box-sizing: inherit;
 }
 
+#dark-mode-input {
+  display: none;
+}
+
 .container {
   background-color: var(--color-main-background);
   background-image: none;
@@ -89,11 +93,20 @@ html {
 
 .nav-header,
 .nav-footer {
-  a {
+  a,
+  label {
     color: var(--color-compliment-text);
 
     &:hover {
       color: var(--color-compliment-text);
+    }
+  }
+
+  label {
+    user-select: none;
+    svg {
+      height: auto;
+      width: 1.4rem;
     }
   }
 }
@@ -101,10 +114,14 @@ html {
 .nav-footer {
   @extend %main-grid;
   font-size: 0.8rem;
-  color: #fff;
+  color: var(--color-compliment-text);
 
   h3 {
-    color: #fff;
+    color: var(--color-compliment-text);
+  }
+
+  a {
+    text-decoration: underline;
   }
 
   p {

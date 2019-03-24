@@ -1,9 +1,9 @@
-body,
+.color-container,
 .menu-trigger {
   @include transition(transform 0.25s ease-out);
 }
 
-body.menu-open {
+.color-container.menu-open {
   transform: translateX(-100vw);
   .menu-trigger {
     transform: translateX(100vw);
@@ -12,9 +12,17 @@ body.menu-open {
   .menu {
     font-size: 2rem;
     text-align: center;
+    margin: 0;
+    padding: 10vh 0 0 0;
+    position: absolute;
+    top: 0;
+    bottom: -100vh;
+    right: 0;
+    background-color: var(--color-main-background);
   }
 
-  a {
+  a,
+  label {
     color: var(--color-main);
     &:hover {
       color: var(--color-main-highlight);
@@ -68,6 +76,10 @@ body.menu-open {
 
     a {
       padding: 0.5rem 1rem;
+    }
+
+    li {
+      white-space: nowrap;
     }
   }
 
