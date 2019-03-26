@@ -291,26 +291,25 @@ optimisations. Parfois,
 <a title="Perceptual Image Compression at Flickr" href="http://code.flickr.net/2015/09/25/perceptual-image-compression-at-flickr/">comme
 ce fut le cas chez Flickr</a>, le bon réglage peut prendre plusieurs mois.
 
-## Le lazy-load quand c’est possible (avec ou sans effet visuel)
+## Le <span lang="en">Lazy Load</span> quand c’est possible (avec ou sans effet visuel)
 
 Une autre façon d’améliorer les performances d'une page Web, consiste à se
 passer des images inutiles lors du chargement initial. Par exemple, vous pouvez
 retarder le chargement de toutes les images qui ne sont pas affichées dans la
-zone visible de la page Web (Lazy Loading). Il y a beaucoup de bibliothèques JS
+zone visible de la page Web (<span lang="en">Lazy Loading</span>). Il y a beaucoup de bibliothèques JS
 pour faire cela mais toutes ne seront pas compatibles avec votre code existant :
 demandez son avis à votre équipe de développement ou suggérez-leur une librairie
 sans dépendance comme <a href="https://apoorv.pro/lozad.js/">Lozad</a>. Une
-fonctionnalité de lazy loading est également disponible sur Apache et nginx :
-<a href="https://www.modpagespeed.com/doc/filter-lazyload-images">ModPageSpeed
-​​Lazyload</a>.
+fonctionnalité de <span lang="en">Lazy Loading</span> est également disponible sur Apache et nginx :
+<a href="https://www.modpagespeed.com/doc/filter-lazyload-images" lang="en">ModPageSpeed Lazyload</a>.
 
-Un des problèmes du Lazy Loading est que la zone dédiée à l’image reste souvent
+Un des problèmes du <span lang="en">Lazy Loading</span> est que la zone dédiée à l’image reste souvent
 vide jusqu’à ce que, brutalement, l’image apparaisse. Il faut donc déterminer
 quand et comment charger les images ainsi retardées pour que l’utilisateur soit
 le moins possible témoin de ce phénomène : après le chargement initial
 (<a href="https://www.dareboost.com/fr/doc/test-performance-web/indicateurs/onload">onload</a>)
 de la page Web ? Lorsque l'utilisateur fait défiler le contenu et s’apprête donc
-à rendre visible la zone concernée ? Le lazy-loading doit être discuté avec les
+à rendre visible la zone concernée ? Le <span lang="en">Lazy Loading</span> doit être discuté avec les
 concepteurs UX qui peuvent avoir des idées sur la façon de l’animer pour le
 rendre moins abrupt.
 
