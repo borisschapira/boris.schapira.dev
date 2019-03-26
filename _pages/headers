@@ -11,7 +11,7 @@ permalink: /_headers
   Report-To: { "group"; "csp-endpoint", "max-age": 10886400, "endpoints": [ "url": "https://borisschapira.report-uri.com/r/d/csp/enforce"]}
   Content-Security-Policy: {% include csp.html.liquid %}
 
-/search
+/en/search
   Content-Security-Policy: {% include csp.html.liquid specific="search" %}
 
 /recherche
