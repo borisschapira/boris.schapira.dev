@@ -2,7 +2,7 @@
 title: 'Le roi de la Knacki'
 tags:
     - Égalité
-    - HeForShe
+    - Allié
 ---
 
 Je rentre dans le bus et m'installe. Comme tous les jours, je porte un casque

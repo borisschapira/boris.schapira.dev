@@ -4,7 +4,7 @@ title:
     faire ?'
 main_image: /assets/images/shared/he-for-she-logo.jpg
 tags:
-    - HeForShe
+    - Allié
     - Égalité
 ---
 

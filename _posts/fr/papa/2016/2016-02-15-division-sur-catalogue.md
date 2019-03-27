@@ -1,7 +1,7 @@
 ---
 title: Division
 tags:
-    - HeForShe
+    - Allié
     - Égalité
 series: Diviser
 subtitle: sur catalogue

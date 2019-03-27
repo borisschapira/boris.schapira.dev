@@ -9,6 +9,7 @@ description: >-
 last_date: 2015-10-16
 events:
     - name: 'Bdx.IO 2015'
+      url: https://www.bdx.io/
       date: 2015-10-16
 ---
 

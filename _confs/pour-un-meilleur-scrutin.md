@@ -6,10 +6,10 @@ description: >-
     des avantages et des inconvénients. Peu importe qu'on l'apprécie ou non, il
     modèle la vie politique et, parfois, nous oblige à mentir. Comment mieux le
     faire comprendre qu'au travers d'un exercice pratique ?
-url: https://pour-un-meilleur-scrutin.fr/
 last_date: 2017-04-01
 events:
-    - name: 'Site Web open source CC0'
+    - name: 'Site Web'
+      url: https://pour-un-meilleur-scrutin.fr/
       date: 2017-04-01
 ---
 

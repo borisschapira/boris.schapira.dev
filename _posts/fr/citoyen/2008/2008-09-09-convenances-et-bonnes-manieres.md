@@ -1,7 +1,7 @@
 ---
 title: 'Convenances et bonnes manières'
 tags:
-    - HeForShe
+    - Allié
     - Égalité
     - Humour
     - Insolite

@@ -20,8 +20,10 @@ description: >-
 last_date: 2019-03-23
 events:
     - name: 'Wordcamp Bordeaux 2019'
+      url: https://2019.bordeaux.wordcamp.org/
       date: 2019-03-23
     - name: 'SEOCamp Day Lyon 2018'
+      url: https://www.seo-camp.org/evenement/seo-campus-lyon-2018/
       date: 2018-06-06
 ---
 

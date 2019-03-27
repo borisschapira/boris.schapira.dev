@@ -2,19 +2,26 @@
 layout: page
 ---
 
-{% if page.events %}
+<h2>De quoi s'agit-il ?</h2>
 <header>
+    {% if page.events %}
     <ul>
     {% for event in page.events %}
       {% assign datetime = event.date | date_to_xmlschema %}
-      <li>{{ event.name }}&nbsp;— <time class="dt-published" datetime="{{ datetime }}">{{ event.date | l: '%A %-d %B %Y', page.locale }}</time></li>
+      <li><a href="{{ event.url }}">{{ event.name }}</a> — <time class="dt-published" datetime="{{ datetime }}">{{ event.date | l: '%A %-d %B %Y', page.locale }}</time></li>
     {% endfor %}
   </ul>
+  {% else %}
+    Pour l'instant, d'un simple projet. En serez-vous un support ?
+  {% endif %}
 </header>
-{% endif %}
 
-{% if page.content.size > 1 %}
-{{ page.content }}
-{% else %}
+<hr>
+
+<h2>En synthèse</h2>
 {{ page.description | raw }}
-{% endif %}
+
+<hr>
+
+{{ page.content }}
+

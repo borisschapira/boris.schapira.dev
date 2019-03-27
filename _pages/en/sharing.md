@@ -6,12 +6,9 @@ i18n-key: about-share
 ---
 
 I'm deeply convinced that sharing and teaching are the only way to truly
-understand something. I teach at the [ECV Digital](http://www.ecvdigital.fr/)
-School but you could have met me before at
-[Ingésup Bordeaux](https://www.ingesup.com/ 'Ingesup'). I can
-[speack about a technical subject in exchange of a sandwich](https://www.brownbaglunch.fr/baggers.html#Boris_Schapira_Bordeaux 'BrownBagLunch France')
-and I participated to many conferences, both as attendee, team member or
-speacker, from Barcelona to Paris. My favorite one is
-[Sud Web](https://sudweb.fr/ 'SudWeb.fr').
+understand something. I teached ([ECV Digital](https://www.ecvdigital.fr/), [Ingésup](https://www.ingesup.com/ 'Ingesup')), 
+[I like sandwiches](https://www.brownbaglunch.fr/baggers.html#Boris_Schapira_Bordeaux 'BrownBagLunch France')
+and I attend too many conferences, both as attendee or
+speacker, and organized both [Sud Web](https://sudweb.fr/ 'SudWeb.fr') and [We Love Speed](https://www.welovespeed.com/ 'We Love Speed').
 
 Most of my contributions are [in French](/partager/).

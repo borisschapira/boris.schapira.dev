@@ -2,7 +2,7 @@
 title: 'Journée Internationale des Droits des Femmes'
 main_image: /assets/images/shared/he-for-she-logo.jpg
 tags:
-    - HeForShe
+    - Allié
     - Société
     - Égalité
 ---

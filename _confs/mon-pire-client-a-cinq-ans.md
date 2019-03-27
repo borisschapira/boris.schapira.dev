@@ -11,8 +11,10 @@ description: >-
 last_date: 2016-10-28
 events:
     - name: 'Sud Web 2016'
+      url: https://sudweb.fr/2016/
       date: 2016-05-27
     - name: 'Agile Tour Bordeaux 2016'
+      url: http://agiletourbordeaux.fr/
       date: 2016-10-28
 ---
 

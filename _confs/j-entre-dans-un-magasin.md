@@ -11,6 +11,7 @@ description: >-
 last_date: 2017-10-06
 events:
     - name: 'Paris Web 2017'
+      url: https://www.paris-web.fr/2017/
       date: 2017-10-06
 ---
 

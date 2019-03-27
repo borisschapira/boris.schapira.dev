@@ -2,7 +2,7 @@
 title: 'Chaque jour'
 main_image: /assets/images/shared/he-for-she-logo.jpg
 tags:
-    - HeForShe
+    - Allié
     - Société
     - Égalité
 subtitle: \#HeForShe
