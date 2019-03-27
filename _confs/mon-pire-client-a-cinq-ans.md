@@ -1,7 +1,7 @@
 ---
 title: 'Mon pire client a cinq ans'
 subtitle:
-    un sujet les chefs de projet qui font des nuits de moins de cinq heures
+    un sujet pour les chefs de projet qui font des nuits de moins de cinq heures
 description: >-
     Devenir Papa a profondément changé la vision que j’avais de mon métier et de
     moi même. Être un bon père est un défi de chaque jour qui fait de moi une
