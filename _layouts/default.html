@@ -131,9 +131,7 @@ layout: microtypo
   <body>
     <input id="dark-mode-input" type="checkbox" name="dark-mode"/>
     <script>
-      if (window.matchMedia('(color-index: 48), (prefers-color-scheme: dark)').matches || localStorage.getItem('dark_mode')) {
-        document.getElementById('dark-mode-input').checked = JSON.parse(localStorage.getItem('dark_mode'));
-      }
+      document.getElementById('dark-mode-input').checked = !(localStorage.getItem('dark_mode') === null) ? !!JSON.parse(localStorage.getItem('dark_mode')) : false ;
     </script>
     <div class="menu-state colorized {% if page.category %}{{page.category}}{% else %}main{% endif %} color-container">
       <a class="skip-main" href="#main">{{ "Aller directement au contenu principal" | t: page.locale }}</a>

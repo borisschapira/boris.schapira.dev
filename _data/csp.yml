@@ -42,7 +42,7 @@
       comment: "Injection script de search.min.js"
     - value: "'sha256-4RZbsHZj3mmis52ABTtkFzcAV9UxhvUE0NeKQMXPHrY='"
       comment: "Jekyll PWA Plugin SW declaration"
-    - value: "'sha256-6m552HMOtHwo//1XAdUduR/jexe6XyLPZmwNsd3nHi8='"
+    - value: "'sha256-S7xFQdOGazPX20pWcW6BF8+JaWTadF+OPbLDJ/7Ga00='"
       comment: "Switch to Dark Mode"
     - value: "*.twimg.com"
       comment: "Twitter"

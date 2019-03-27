@@ -19,11 +19,11 @@
   --dark-mode-lightup: 15%;
 }
 
-// @media (color-index: 48), (prefers-color-scheme: dark) {
-//   :root {
-//     --is-dark-mode: 1;
-//   }
-// }
+@media (color-index: 48), (prefers-color-scheme: dark) {
+  .color-container {
+    --is-dark-mode: 1;
+  }
+}
 
 #dark-mode-input:checked ~ .color-container {
   --is-dark-mode: 1;
