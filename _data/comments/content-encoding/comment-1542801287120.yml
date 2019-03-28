@@ -6,7 +6,7 @@ message: >-
   
   Je conseille de le conserver pour des questions de rétrocompatibilité (et que ça ne coûte pas cher) mais si le serveur est mal configuré et ne renvoie pas la bonne information dans l'en-tête, ce n'est pas cette règle qui corrigera le tir.
 name: Boris
-email: e884b2ba7d66cfea7cb2185922c7a183
+email: 1120e6a8f9ccf0d018775756050abb7a
 url: 'https://boris.schapira.dev'
 replying_to: '1'
 date: '2018-11-21T11:54:47.120Z'
