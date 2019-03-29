@@ -91,7 +91,7 @@ les métriques de votre domaine. Corrigez les problèmes constatés.
 Voici un exemple d’implémentation avec Apache, pour une rétention de 5 minutes :
 
 ```
-Header always set Strict-Transport-Security "max-age=300; includeSubDomains;"
+Header always set Strict-Transport-Security "max-age=300; includeSubDomains;"
 ```
 
 Le paramètre `includeSubDomains` permet de forcer le HTTPS pour l’ensemble des
