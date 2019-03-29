@@ -25,8 +25,29 @@
   }
 }
 
-#dark-mode-input:checked ~ .color-container {
+label.dark-mode,
+label.light-mode {
+  display: none;
+}
+
+#color-mode-dark:checked ~ .color-container {
   --is-dark-mode: 1;
+  label.auto-mode {
+    display: none;
+  }
+  label.dark-mode {
+    display: inline-block;
+  }
+}
+
+#color-mode-light:checked ~ .color-container {
+  --is-dark-mode: 0;
+  label.auto-mode {
+    display: none;
+  }
+  label.light-mode {
+    display: inline-block;
+  }
 }
 
 .colorized,

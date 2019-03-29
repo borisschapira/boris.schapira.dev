@@ -1057,7 +1057,7 @@ html {
 *::before {
   box-sizing: inherit; }
 
-#dark-mode-input {
+[name="dark-mode-input"] {
   display: none; }
 
 .container {
@@ -1125,7 +1125,7 @@ html {
   user-select: none; }
   .nav-header label svg,
   .nav-footer label svg {
-    height: auto;
+    height: 1.4rem;
     width: 1.4rem; }
 
 .nav-footer {

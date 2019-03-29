@@ -129,9 +129,16 @@ layout: microtypo
   </head>
 
   <body>
-    <input id="dark-mode-input" type="checkbox" name="dark-mode"/>
+    <input type="radio" id="color-mode-auto" name="dark-mode-input" value="auto">
+    <input type="radio" id="color-mode-dark" name="dark-mode-input" value="true">
+    <input type="radio" id="color-mode-light" name="dark-mode-input" value="false">
     <script>
-      document.getElementById('dark-mode-input').checked = !(localStorage.getItem('dark_mode') === null) ? !!JSON.parse(localStorage.getItem('dark_mode')) : false ;
+      (function(){
+        var ls = localStorage.getItem('dark_mode');
+        if (ls !== null) {
+          document.querySelector('[name="dark-mode-input"][value="'+ ls +'"]').checked = true;
+        }
+      })()
     </script>
     <div class="menu-state colorized {% if page.category %}{{page.category}}{% else %}main{% endif %} color-container">
       <a class="skip-main" href="#main">{{ "Aller directement au contenu principal" | t: page.locale }}</a>
@@ -171,7 +178,15 @@ layout: microtypo
                     url=page.translation.url %}</li>
             {% endif %}
 
-            <li><label for="dark-mode-input" tabindex="0" role="button"><span class="sr-only">Dark Mode</span><!-- nomicrotypo -->{% include dark-mode.svg %}<!-- endnomicrotypo --></label></li>
+            <li class="color-mode-labels"><!-- nomicrotypo -->{% include dark-mode.svg %}<!-- endnomicrotypo -->
+              
+              <label class="auto-mode" for="color-mode-dark" data-value="true" tabindex="0" role="button"><span class="sr-only">Auto Mode</span><svg class="icon"><use xlink:href="#icon-mode-auto" /></svg></label>
+              
+              <label class="dark-mode" for="color-mode-light" data-value="false" tabindex="0" role="button"><span class="sr-only">Dark Mode</span><svg class="icon"><use xlink:href="#icon-mode-dark" /></svg></label>
+
+              <label class="light-mode" for="color-mode-auto" data-value="auto" tabindex="0" role="button"><span class="sr-only">Light Mode</span><svg class="icon"><use xlink:href="#icon-mode-light" /></svg></label>
+              
+            </li>
           </ul>
         </nav>
       </header>

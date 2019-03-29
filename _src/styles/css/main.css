@@ -27,8 +27,23 @@
   .color-container {
     --is-dark-mode: 1; } }
 
-#dark-mode-input:checked ~ .color-container {
+label.dark-mode,
+label.light-mode {
+  display: none; }
+
+#color-mode-dark:checked ~ .color-container {
   --is-dark-mode: 1; }
+  #color-mode-dark:checked ~ .color-container label.auto-mode {
+    display: none; }
+  #color-mode-dark:checked ~ .color-container label.dark-mode {
+    display: inline-block; }
+
+#color-mode-light:checked ~ .color-container {
+  --is-dark-mode: 0; }
+  #color-mode-light:checked ~ .color-container label.auto-mode {
+    display: none; }
+  #color-mode-light:checked ~ .color-container label.light-mode {
+    display: inline-block; }
 
 .colorized,
 .ais-hits--item,

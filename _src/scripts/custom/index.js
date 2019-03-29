@@ -24,14 +24,12 @@ function perfmark(callback, key) {
 }
 
 (function darkModeSwitcher() {
-  var checkbox = document.getElementById('dark-mode-input');
-  checkbox.addEventListener(
-    'change',
-    function() {
-      localStorage.setItem('dark_mode', this.checked);
-    },
-    false
-  );
+  var labels = document.querySelectorAll('.color-mode-labels label');
+  labels.forEach(function(label) {
+    label.addEventListener('click', function() {
+      localStorage.setItem('dark_mode', this.dataset.value);
+    });
+  });
 })();
 
 (function switchlang() {
