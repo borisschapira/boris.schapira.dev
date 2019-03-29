@@ -10,7 +10,7 @@ tags:
 
 **_Aux employeurs et employeuses souhaitant mettre en place le télétravail_**
 
-_[Cet article de ma princière colocataire conjuguale](https://libelilou.github.io/2018/12/18/teletravail.html)
+_[Cet article de ma princière colocataire conjugale](https://libelilou.github.io/2018/12/18/teletravail.html)
 sera une meilleure introduction au sujet que ce que vous pourriez lire
 ci-dessous._
 
@@ -28,7 +28,7 @@ modifications du Code du Travail.
 
 Pour être honnête, ils ont sûrement raison. Je vois
 [Princesse RH](https://libelilou.github.io/) écrire sur le sujet régulièrement,
-et loin de moi l'idée de penser que maitriser le Code du Travail est simple.
+et loin de moi l'idée de penser que maîtriser le Code du Travail est simple.
 
 J'ai indiqué à mes interlocuteurs
 [l'Accord National Interprofessionnel du 19 juillet 2005 relatif au télétravail – 86 Ko](/assets/docs/2018-10-13/6780383.pdf),
@@ -82,7 +82,7 @@ communications", ne serait-ce qu'en accord avec le principe général selon lequ
 "les frais professionnels engagés par le salarié doivent être supportés par
 l’employeur".
 
-Que cela nous apprend-t-il ?
+Que cela nous apprend-il ?
 
 D'après le cabinet CMS Francis Lefebvre Avocats :
 
@@ -91,7 +91,7 @@ D'après le cabinet CMS Francis Lefebvre Avocats :
 > frais professionnels supplémentaires induits par ce dernier, mais permet
 > d’envisager une indemnisation forfaitaire.
 > <cite>"<a href="https://business.lesechos.fr/directions-ressources-humaines/partenaire/partenaire-1574-teletravail-une-mise-en-oeuvre-simplifiee-mais-a-quels-couts-pour-l-entreprise-321022.php">Télétravail
-> : une mise en oeuvre simplifiée mais à quels coûts pour l'entreprise ?</a>",
+> : une mise en œuvre simplifiée mais à quels coûts pour l'entreprise ?</a>",
 > Maïté Ollivier et Delphine Pannetier, avocates</cite>
 
 Et c'est à peu près la conclusion à laquelle j'arrive aussi, à laquelle j'ajoute
@@ -118,7 +118,7 @@ vous exposez à des poursuites qui fragilisent vos entreprises et peuvent donner
 une mauvaise image de votre structure.
 
 N'ayez pas peur : vous avez déjà mis en place le télétravail. Vous êtes des
-innovateurs, qui osez prendre des risques ! Prenez donc celui d'entâmer le
+innovateurs, qui osez prendre des risques ! Prenez donc celui d’entamer le
 dialogue avec vos salarié·e·s, en toute transparence, et convenez avec eux de
 forfaits justes. Ils et elles seront plus heureux et heureuses, et en parleront
 autour d'eux !
@@ -132,7 +132,7 @@ autour d'eux !
     est également modifié : l'employeur n'est plus dans l'obligation (vis-à-vis
     de son salarié en télétravail) de prendre en charge tous les coûts découlant
     directement de l'exercice du télétravail (coût des matériels, logiciels,
-    abonnements, communications et outils, maintenance...)" ce qui est faux,
+    abonnements, communications et outils, maintenance…)" ce qui est faux,
     comme je viens de le démontrer.
 
 ---
@@ -142,14 +142,14 @@ autour d'eux !
 Gardez en tête que la compréhension du Code du Travail n'est pas simple et
 permanente. Ne considérez donc pas que votre employeur vous a "arnaqué" mais
 invitez-le plutôt à contacter son cabinet comptable ou son service de gestion
-des Ressources Humaines avec ces éléments, pour entâmer une discussion.
+des Ressources Humaines avec ces éléments, pour entamer une discussion.
 
 Le télétravail à temps complet est un sujet sensible, avec ses totems et ses
 tabous, mais également un sujet fondamental pour la société. Il est porteur de
 modifications profondes dans les mécaniques de confiance entre employeurs et
 salarié·e·s et accompagne la définition d'un nouvel urbanisme décentralisé.
 
-Il m'a été fait le reproche de jeter l'opprobe sur des employeurs qui font déjà
+Il m'a été fait le reproche de jeter l’opprobre sur des employeurs qui font déjà
 l'énorme pas en avant d'accepter le télétravail.  
 Je l'entends.  
 Rien ne vous oblige, une fois ces informations connues, à agir et loin de moi
@@ -159,7 +159,7 @@ possibilité de télétravail à temps complet qu'il compte ou vous a déjà acc
 
 Cependant, tel que je le conçois, le télétravail à temps complet est, par
 essence, réservé à une poignée de professions privilégié·e·s (si vous y êtes
-éligible, soyez-en consicent·e) et aujourd'hui accessible, aux sein de ces
+éligible, soyez-en conscient·e) et aujourd'hui accessible, au sein de ces
 professions, par une partie infime de personnes qui ont la main haute dans les
 négociations (donc encore plus privilégiée).  
 J'ai l'intime conviction que si ces personnes abandonnent leurs droits et
@@ -249,7 +249,7 @@ perdu ?
     <td>
         <p><strong>Frais liés à l’adaptation du local.</strong></p>
         <p><strong>Frais de diagnostic de conformité électrique.<br>
-        Installations de prises (téléphoniques, électriques...)<br>
+        Installations de prises (téléphoniques, électriques…)<br>
         Modifications liées à la mise en conformité avec la législation du travail.</strong>
         </p>
     </td>
@@ -277,11 +277,11 @@ perdu ?
     </td>
     </tr>
     <tr>
-    <td><strong>Consommables (ramettes de papier, cartouches d’encre...).</strong></td>
+    <td><strong>Consommables (ramettes de papier, cartouches d’encre…).</strong></td>
     <td>Remboursement sur justificatifs des frais et déduction de l’assiette.</td>
     </tr>
     <tr>
-    <td><strong>Frais de connexion au réseau téléphonique, frais d’abonnement (téléphonique, Internet...)</strong>.</td>
+    <td><strong>Frais de connexion au réseau téléphonique, frais d’abonnement (téléphonique, Internet…)</strong>.</td>
     <td>Remboursement sur présentation des justificatifs de frais.</td>
     </tr>
 </tbody>
