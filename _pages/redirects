@@ -19,3 +19,5 @@ permalink: /_redirects
 /mstile-150x150.png /.well-known/mstile-150x150.png 200
 /robots.txt /.well-known/robots.txt 200
 /wcbdx /confs/performance-web-vers-la-speed-update-un-pas-aprs-lautre/ 301
+/wcbdx%20 /confs/performance-web-vers-la-speed-update-un-pas-aprs-lautre/ 301
+/wcbdx%20?mc_cid=935c873d9a&mc_eid=69ff201d64 /confs/performance-web-vers-la-speed-update-un-pas-aprs-lautre/ 301
