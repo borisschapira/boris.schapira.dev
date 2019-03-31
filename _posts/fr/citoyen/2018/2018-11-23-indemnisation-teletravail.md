@@ -132,8 +132,8 @@ autour d'eux !
     est également modifié : l'employeur n'est plus dans l'obligation (vis-à-vis
     de son salarié en télétravail) de prendre en charge tous les coûts découlant
     directement de l'exercice du télétravail (coût des matériels, logiciels,
-    abonnements, communications et outils, maintenance…)" ce qui est faux,
-    comme je viens de le démontrer.
+    abonnements, communications et outils, maintenance…)" ce qui est faux, comme
+    je viens de le démontrer.
 
 ---
 

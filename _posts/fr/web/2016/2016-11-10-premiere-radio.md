@@ -17,7 +17,7 @@ connaissent pas du tout le sujet sur lequel ils posent des questions.
 
 J'ai essayé d'être le plus vulgarisateur possible, au risque de passer pour un
 simplet à certains moments (et de parler beaucoup plus lentement que
-d'habitude). J'ai été pris de cours par le direct quand un des enfants m'a
+d'habitude). J'ai été pris de court par le direct quand un des enfants m'a
 annoncé qu'il faisait du Scratch en classe, et je me suis retrouvé à dire que
 c'était une bonne chose
 [alors que je pense le contraire](/2014/06/le-code-a-change/). Les aléas du

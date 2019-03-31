@@ -29,7 +29,7 @@
     "sass": "node-sass $npm_package_config_scss_dir -o $npm_package_config_css_dir",
     "pretty:css": "prettier --write '_src/styles/scss/**/*.scss'",
     "pretty:js": "prettier --single-quote es5 --write '_src/scripts/custom/**/*.js'",
-    "pretty:md": "prettier --tab-width 4 --single-quote  --prose-wrap always --write ./**/*.md",
+    "pretty:md": "prettier --tab-width 4 --single-quote --prose-wrap always --write './**/*.md'",
     "build:js": "npm run eslint && npm run concat && npm run uglify",
     "build:css": "npm run sass && npm run postcss",
     "build": "npm run vendors && npm run build:css && npm run build:js",

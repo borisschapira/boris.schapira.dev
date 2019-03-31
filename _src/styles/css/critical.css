@@ -1005,7 +1005,6 @@ button.btn--link-like {
 blockquote,
 .inline-note {
   padding: 0 1rem;
-  font-size: 1.1em;
   border: none;
   border-left: 0.25rem solid var(--color-main); }
   blockquote li::before,

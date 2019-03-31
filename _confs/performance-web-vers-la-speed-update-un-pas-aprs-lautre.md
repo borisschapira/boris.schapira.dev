@@ -27,11 +27,12 @@ events:
       date: 2018-06-06
 ---
 
-Les slides du [WordCamp Bordeaux 2019](https://2019.bordeaux.wordcamp.org/session/wp-super-cache-rocket-reloaded-ou-comment-suivre-et-ameliorer-la-performance-web-de-son-site-wordpress-sans-sarracher-les-cheveux/).
+Les slides du
+[WordCamp Bordeaux 2019](https://2019.bordeaux.wordcamp.org/session/wp-super-cache-rocket-reloaded-ou-comment-suivre-et-ameliorer-la-performance-web-de-son-site-wordpress-sans-sarracher-les-cheveux/).
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/dU3lAFAz34HFaI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bschapira/wp-super-cache-rocket-reloaded-wordcamp-bordeaux-2019-137821377" title="&quot;WP Super Cache Rocket Reloaded…&quot; – WordCamp Bordeaux 2019" target="_blank">&quot;WP Super Cache Rocket Reloaded…&quot; – WordCamp Bordeaux 2019</a> </strong> from <strong><a href="https://www.slideshare.net/bschapira" target="_blank">Boris SCHAPIRA</a></strong> </div>
 
-***
+---
 
 Les slides, plus anciennes, du
 [SEOCamp Day Lyon 2018](https://www.seo-camp.org/evenement/seo-campus-lyon-2018/)

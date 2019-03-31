@@ -12,13 +12,15 @@ cloudinary_logo: dareboost-logo
 
 Les images sont au cœur de votre site web ? Si vous prenez la performance de
 votre site au sérieux, vous les avez probablement optimisées. Mais avez-vous
-pensé à les charger en <span lang="en">Lazy Load</span> ? Le <span lang="en">Lazy Load</span> des images améliore l’expérience
-utilisateur en libérant de la bande passante pour le contenu important.
+pensé à les charger en <span lang="en">Lazy Load</span> ? Le
+<span lang="en">Lazy Load</span> des images améliore l’expérience utilisateur en
+libérant de la bande passante pour le contenu important.
 
-Certains rejettent la technique pour des questions de SEO. Mais un <span lang="en">Lazy Load</span> de
-vos images ne les empêche pas d’être indexées. Voyons pourquoi vous devriez
-implémenter un <span lang="en">Lazy Load</span> d’images et comment vous assurer qu’il soit compatible
-avec votre SEO.
+Certains rejettent la technique pour des questions de SEO. Mais un
+<span lang="en">Lazy Load</span> de vos images ne les empêche pas d’être
+indexées. Voyons pourquoi vous devriez implémenter un <span lang="en">Lazy
+Load</span> d’images et comment vous assurer qu’il soit compatible avec votre
+SEO.
 
 <!-- more -->
 
@@ -33,10 +35,10 @@ contexte courant peut s’avérer très difficile.
 [L’image doit être optimisée](https://blog.dareboost.com/fr/2017/10/optimiser-les-images-et-reduire-leur-poids-formats-outils-et-rwd/),
 adaptée à sa zone de rendu et chargée uniquement si nécessaire.
 
-Le **<span lang="en">Lazy Loading d’images</span>** est un ensemble de techniques conçues pour répondre
-à ce dernier besoin en différant le téléchargement de chaque image jusqu’au
-moment où elle est nécessaire : après une interaction spécifique, à la suite
-d’un défilement… ou jamais.
+Le **<span lang="en">Lazy Loading d’images</span>** est un ensemble de
+techniques conçues pour répondre à ce dernier besoin en différant le
+téléchargement de chaque image jusqu’au moment où elle est nécessaire : après
+une interaction spécifique, à la suite d’un défilement… ou jamais.
 
 [Selon HTTPArchive \[EN\]](https://httparchive.org/reports/state-of-images#offscreenImages),
 420 Ko (valeur médiane) pourraient être sauvegardés par page en chargeant ainsi
@@ -51,24 +53,26 @@ alt=img_alt
 
 ## Quelques cas d’usage
 
-Il y a de nombreux cas concrets du <span lang="en">Lazy Loading</span>. Prenons quelques minutes pour
-citer quelques exemples.
+Il y a de nombreux cas concrets du <span lang="en">Lazy Loading</span>. Prenons
+quelques minutes pour citer quelques exemples.
 
 **Résultats de recherche E-commerce**. Ces pages contiennent souvent tellement
 de résultats que beaucoup de produits se trouvent en dehors de la fenêtre.
-Est-il utile de télécharger leurs images ? Avec le <span lang="en">Lazy Loading</span>, vous pouvez
-retarder leur chargement jusqu’à ce que la page soit déroulée.
+Est-il utile de télécharger leurs images ? Avec le <span lang="en">Lazy
+Loading</span>, vous pouvez retarder leur chargement jusqu’à ce que la page soit
+déroulée.
 
 **Les carrousels**, vous connaissez ? Pourquoi l’utilisateur devrait-il charger
 toutes les images alors qu’il ne visualise que la première pendant quelques
-secondes ? Utilisez le <span lang="en">Lazy Load</span> ! Chargez la première image normalement, et
-lancez le téléchargement de l’image suivante en arrière-plan, quelques secondes
-avant l’animation du carrousel. Et ainsi de suite.
+secondes ? Utilisez le <span lang="en">Lazy Load</span> ! Chargez la première
+image normalement, et lancez le téléchargement de l’image suivante en
+arrière-plan, quelques secondes avant l’animation du carrousel. Et ainsi de
+suite.
 
 **Menus et onglets**. Les images contenues dans un menu ou un onglet sont
-souvent masquées, affichées seulement après un clic. Avec le <span lang="en">Lazy Loading</span>, vous
-pouvez retarder le chargement de ces images jusqu’à ce que le bouton affichant
-l’élément soit survolé ou cliqué.
+souvent masquées, affichées seulement après un clic. Avec le
+<span lang="en">Lazy Loading</span>, vous pouvez retarder le chargement de ces
+images jusqu’à ce que le bouton affichant l’élément soit survolé ou cliqué.
 
 Suivant la nature de votre page, d’autres cas sont envisageables. Aucune image
 ne devrait être incluse à vos pages sans que vous ne vous soyez posé la question
@@ -86,18 +90,19 @@ sont aussi présents côté serveur : le processeur et la bande passante
 nécessaires pour fournir les ressources sont moins sollicités, réduisant les
 coûts d’hébergement et/ou de CDN.
 
-Comme indiqué dans l’introduction, utiliser du <span lang="en">Lazy Loading</span> n’empêche pas vos
-images d’être indexées par les moteurs de recherche. Mais cela peut être
-compliqué. Toutes les techniques ne se valent pas car les différentes
-bibliothèques et plugins disponibles sur le marché ne respectent pas
-nécessairement toutes les bonnes pratiques. Pour préserver votre référencement
-naturel, il est donc essentiel de comprendre comment le <span lang="en">Lazy Loading</span> fonctionne,
-et comment l’utiliser sans risque.
+Comme indiqué dans l’introduction, utiliser du <span lang="en">Lazy
+Loading</span> n’empêche pas vos images d’être indexées par les moteurs de
+recherche. Mais cela peut être compliqué. Toutes les techniques ne se valent pas
+car les différentes bibliothèques et plugins disponibles sur le marché ne
+respectent pas nécessairement toutes les bonnes pratiques. Pour préserver votre
+référencement naturel, il est donc essentiel de comprendre comment le
+<span lang="en">Lazy Loading</span> fonctionne, et comment l’utiliser sans
+risque.
 
 ## Utiliser JavaScript pour le LazyLoad
 
-Dans un monde parfait, le <span lang="en">Lazy Loading</span> des images serait automatiquement assuré
-par le navigateur. Ça sera peut-être bientôt le cas, car
+Dans un monde parfait, le <span lang="en">Lazy Loading</span> des images serait
+automatiquement assuré par le navigateur. Ça sera peut-être bientôt le cas, car
 [une Feature Policy dédiée au Lazyload \[EN\]](https://github.com/w3c/webappsec-feature-policy/issues/193)
 est à l’étude, mais nous ne pouvons pas encore compter dessus. En attendant,
 nous devons explorer d’autres solutions, chacune d’entre elles impliquant une
@@ -106,9 +111,9 @@ modification du balisage HTML et l’ajout d’une dépendance JS.
 {% capture note %} **IMPORTANT** Vous n’avez pas besoin – et ne devriez pas –
 appliquer un lazyload à toutes vos images. Si vous savez que certains images
 seront affichées la plupart du temps, laissez-les être chargées et rendues
-normalement. Le <span lang="en">Lazy Loading</span> est uniquement recommandé pour les autres images.
-N’ajoutez pas de complexité si ça n’est pas nécessaire ! {% endcapture note %}
-{% include note.html.liquid content=note %}
+normalement. Le <span lang="en">Lazy Loading</span> est uniquement recommandé
+pour les autres images. N’ajoutez pas de complexité si ça n’est pas nécessaire !
+{% endcapture note %} {% include note.html.liquid content=note %}
 
 Traditionnellement, on utilise JS pour évaluer, à intervalles réguliers, si
 chaque image (ou chaque élément affichant une image en arrière-plan) doit être
@@ -196,10 +201,11 @@ d’attendre plusieurs jours.
 Comme certaines images.
 
 Parce que si JavaScript n’est pas disponible, les images qui devraient être
-chargées en <span lang="en">Lazy Load</span> ne le seront pas, car l’attribut `src` ne sera jamais
-rempli, empêchant le navigateur de démarrer le téléchargement et d’afficher les
-images. Ne pas télécharger et afficher les images en lazyload impliquent
-malheureusement qu’elles ne seront pas indexées par les moteurs de recherche.
+chargées en <span lang="en">Lazy Load</span> ne le seront pas, car l’attribut
+`src` ne sera jamais rempli, empêchant le navigateur de démarrer le
+téléchargement et d’afficher les images. Ne pas télécharger et afficher les
+images en lazyload impliquent malheureusement qu’elles ne seront pas indexées
+par les moteurs de recherche.
 
 Comment servir ces images malgré l’absence de JavaScript ? Il y a un élément
 HTML spécifique que vous pouvez utiliser : `<noscript>`. Le contenu d’un élément
@@ -265,8 +271,8 @@ contribution.
 
 {% capture img_alt %}Un cinquantaine de lignes de HTML bien
 dense.{% endcapture %}{% capture img_caption %}Balisage d’une image de The
-Guardian, avant-même la mise en place d’un <span lang="en">Lazy Loading</span>{% endcapture %}
-{% include rwd-image.html.liquid
+Guardian, avant-même la mise en place d’un <span lang="en">Lazy
+Loading</span>{% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2019-03-20/guardians_rwd_image.png"
 alt=img_alt
 caption=img_caption
@@ -274,8 +280,8 @@ caption=img_caption
 
 ## Tester l’implémentation
 
-Une fois le <span lang="en">Lazy Load</span> implémenté, vous devrez tester qu’il fonctionne. La
-solution la plus simple est, bien sûr, d’exécuter
+Une fois le <span lang="en">Lazy Load</span> implémenté, vous devrez tester
+qu’il fonctionne. La solution la plus simple est, bien sûr, d’exécuter
 [un audit complet de performance web](https://www.dareboost.com/fr/service/analyse-site-web)
 avec Dareboost pour détecter si toutes les images hors du viewport sont chargées
 tardivement ou à la demande. Si ce n’est pas le cas, l’outil vous remontera les
@@ -295,15 +301,16 @@ l’onglet Réseau (tous les navigateurs modernes le proposent). Videz la pile
 réseau pour mieux visualiser les nouveaux appels, puis provoquez l’interaction
 destinée à démarrer le <span lang="en">Lazy Loading</span>.
 
-Voici un exemple sur Chrome, avec un <span lang="en">Lazy Loading</span> activé au défilement :
+Voici un exemple sur Chrome, avec un <span lang="en">Lazy Loading</span> activé
+au défilement :
 
 {% include media/youtube.html.liquid id="Z4jRe3KRcf4" title="Visualization of lazyloading during scrolling in the Chrome DevTools Network tab" %}
 
 Vous pouvez envisager d’automatiser ces tests en utilisant des outils basés sur
 un navigateur. Puppeteer est l’un d’entre eux et
 [peut être utilisé pour tester le comportement](https://github.com/GoogleChromeLabs/puppeteer-examples/blob/master/lazyimages_without_scroll_events.js)
-de votre <span lang="en">Lazy Loading</span> avec Chrome ou Chromium, pour s’assurer que vos vrai·e·s
-visiteurs·euses verront vos images.
+de votre <span lang="en">Lazy Loading</span> avec Chrome ou Chromium, pour
+s’assurer que vos vrai·e·s visiteurs·euses verront vos images.
 
 Pour vérifier que les robots d’indexation verront également vos images, vous
 pouvez demander à Google lui-même, en utilisant l’outil Inspecteur d’URL de la
@@ -315,6 +322,6 @@ une capture d’écran du résultat pour confirmer que votre contournement
 
 ---
 
-Et voilà, vous savez maintenant tout ce qu’il y a à savoir sur le <span lang="en">Lazy Loading</span>
-d’images, son impact SEO et la meilleure façon de le contourner. Il est temps de
-faire un peu de ménage !
+Et voilà, vous savez maintenant tout ce qu’il y a à savoir sur le
+<span lang="en">Lazy Loading</span> d’images, son impact SEO et la meilleure
+façon de le contourner. Il est temps de faire un peu de ménage !

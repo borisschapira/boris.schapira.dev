@@ -6,8 +6,13 @@ i18n-key: about-share
 ---
 
 Je suis convaincu que le partage de l'information est bénéfique à tous :
-j'enseigne ([ECV Digital](https://www.ecvdigital.fr/), [Ingésup](https://www.ingesup.com/ 'Ingesup')), 
-[j'aime les sandwichs](https://www.brownbaglunch.fr/baggers.html#Boris_Schapira_Bordeaux 'BrownBagLunch France'), je vais aux conférences tant comme participant que [comme orateur](#les-sujets-d%C3%A9j%C3%A0-abord%C3%A9s). Parfois, j'organise aussi [Sud Web](https://sudweb.fr/ 'SudWeb.fr') ou [We Love Speed](https://www.welovespeed.com/ 'We Love Speed').
+j'enseigne ([ECV Digital](https://www.ecvdigital.fr/),
+[Ingésup](https://www.ingesup.com/ 'Ingesup')),
+[j'aime les sandwichs](https://www.brownbaglunch.fr/baggers.html#Boris_Schapira_Bordeaux 'BrownBagLunch France'),
+je vais aux conférences tant comme participant que
+[comme orateur](#les-sujets-d%C3%A9j%C3%A0-abord%C3%A9s). Parfois, j'organise
+aussi [Sud Web](https://sudweb.fr/ 'SudWeb.fr') ou
+[We Love Speed](https://www.welovespeed.com/ 'We Love Speed').
 
 {% assign done = ''|split:''%} {% assign todo = ''|split:''%}
 {% for conf in site.confs %} {% if conf.last_date %}
