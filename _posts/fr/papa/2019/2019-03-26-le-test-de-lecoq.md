@@ -3,7 +3,7 @@ title: 'Le test de Lecoq'
 ---
 
 Alison Bechdel est une autrice de bande dessinée américaine. Elle a inventé un
-test qui permet d'évaluer si un filme a une présence féminine décente en trois
+test qui permet d'évaluer si un film a une présence féminine décente en trois
 questions simples :
 
 1. Y a-t-il au moins deux personnages féminins portant des noms ?
