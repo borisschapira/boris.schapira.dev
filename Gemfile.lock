@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/Shopify/liquid.git
-  revision: f2f467bdbc248e7bf26b4f5e552cfbce6052f811
+  revision: b0629f17f79a96eb7001b55ea0877b14b53b67a0
   branch: master
   specs:
     liquid (4.0.3)
@@ -23,8 +23,8 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: e522f54e539c1c40c7ad93503d4b95113cf516c7
-  branch: master
+  revision: f3cb41b65ad70371e4cc750719c0789590e0bdfc
+  ref: f3cb41b65ad70371e4cc750719c0789590e0bdfc
   specs:
     jekyll (3.8.5)
       addressable (~> 2.4)
@@ -44,7 +44,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.2.2.1)
+    activesupport (5.2.3)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -97,29 +97,29 @@ GEM
       nokogiri (~> 1.6)
       progressbar (~> 1.9)
       verbal_expressions (~> 0.1.5)
-    jekyll-archives (2.1.1)
-      jekyll (>= 2.4)
+    jekyll-archives (2.2.1)
+      jekyll (>= 3.6, < 5.0)
     jekyll-cloudinary (1.13.0)
       fastimage (~> 2.0)
       jekyll (~> 3.6)
-    jekyll-commonmark (1.2.0)
+    jekyll-commonmark (1.3.1)
       commonmarker (~> 0.14)
-      jekyll (>= 3.0, < 4.0)
-    jekyll-include-cache (0.1.0)
-      jekyll (~> 3.3)
+      jekyll (>= 3.7, < 5.0)
+    jekyll-include-cache (0.2.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-microtypo (0.2.4)
       jekyll (>= 3.0, < 4.0)
     jekyll-pwa-plugin (2.2.3)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-sitemap (1.2.0)
-      jekyll (~> 3.3)
+    jekyll-sitemap (1.3.1)
+      jekyll (>= 3.7, < 5.0)
     jekyll-tagging (1.1.0)
       nuggets
     jekyll-tagging-related_posts (1.0.0)
       jekyll (~> 3.0)
       jekyll-tagging (~> 1.0)
-    jekyll-watch (2.1.2)
+    jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.2.0)
     kramdown (2.1.0)
@@ -135,7 +135,7 @@ GEM
     nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
     nuggets (1.6.0)
-    parallel (1.14.0)
+    parallel (1.17.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     progressbar (1.10.0)
@@ -160,7 +160,7 @@ GEM
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     verbal_expressions (0.1.5)
-    yell (2.0.7)
+    yell (2.1.0)
 
 PLATFORMS
   ruby

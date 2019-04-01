@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
 ruby '2.6.2' unless Gem.win_platform?
 
-gem 'jekyll', :git => 'https://github.com/jekyll/jekyll.git', branch: 'master'
+gem 'jekyll', 
+  :git => 'https://github.com/jekyll/jekyll.git', 
+  :ref => "f3cb41b65ad70371e4cc750719c0789590e0bdfc"
 
 # Optimize Liquid compilation
 gem 'liquid', :git => 'https://github.com/Shopify/liquid.git', branch: 'master'
