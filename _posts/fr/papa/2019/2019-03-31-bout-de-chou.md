@@ -16,6 +16,12 @@ title: 'Bout de chou'
 > – Tu ne sais plus vraiment… ce que tu veux ?  
 > – Je ne sais plus vraiment qui je suis, dans le coeur.
 
+{% capture alt_text%}Nick, de la série New Girl, dit "Je n'aime pas ça, c'est
+trop de responsabilités".{% endcapture %} {% include video_as_a_gif.html.liquid
+url="/assets/images/papa/2019-03-31/responsability"
+alt=alt_text
+%}
+
 ---
 
 Nous avons beaucoup parlé, pendant plusieurs jours, à différents moments. J'ai
@@ -58,6 +64,12 @@ sourire de la Terre. En rentrant à la maison, il m'a expliqué.
 > – Bah, je serais triste, mais je lui dirais d'accord. Si elle a plus envie,
 > c'est elle qui décide. On peut par forcer les gens à être amoureux.
 
+{% capture alt_text%}Dix points pour Gryffondor.{% endcapture %}
+{% include video_as_a_gif.html.liquid
+url="/assets/images/papa/2019-03-31/10-points"
+alt=alt_text
+%}
+
 ---
 
 Un soir en le couchant, il décide de me raconter une dernière anecdote.
@@ -72,10 +84,12 @@ Un soir en le couchant, il décide de me raconter une dernière anecdote.
 > après il a arrêté. Julie m'a fait un bisou sur la joue. Elle a dit qu'elle
 > veut qu'on aura des enfants quand on sera des grands.  
 > – C'est peut-être un peu tôt, pour se genre de décisions, non ?  
-> – { il rit } Oui ! { Puis se reprend, déterminé } Mais quand je serai grand, j'aurai des enfants.
+> – { il rit } Oui ! { Puis se reprend, déterminé } Mais quand je serai grand,
+> j'aurai des enfants.
 
-Comme tous les soirs, je l'embrasse dans le cou, lui fait plusieurs caresses
-sur les joues et les cheveux et me lève pour éteindre la lumière en quittant sa chambre.
+Comme tous les soirs, je l'embrasse dans le cou, lui fait plusieurs caresses sur
+les joues et les cheveux et me lève pour éteindre la lumière en quittant sa
+chambre.
 
 > Papa, quand j'aura des enfants, tu voudras bien être leur papy ?
 
@@ -84,4 +98,13 @@ poserait cette question dont la réponse semble être évidente… Il rajoute :
 
 > T'es un super papa, je veux qu'ils aient un papy super comme toi.
 
-En tentant de contrôler ma voix, j'ai dit "ça marche !" et éteint la lumière sans me retourner, pour ne pas qu'il voit mes larmes de joie. Il n'aurait pas compris.
+En tentant de contrôler ma voix, j'ai dit "ça marche !" et éteint la lumière
+sans me retourner, pour ne pas qu'il voit mes larmes de joie. Il n'aurait pas
+compris.
+
+{% capture alt_text%}Troy Barnes (Donald Glover dans Community) dit "Pourquoi
+vous nous faites ressentir ces choses ?".{% endcapture %}
+{% include video_as_a_gif.html.liquid
+url="/assets/images/papa/2019-03-31/why-feeling"
+alt=alt_text
+%}

@@ -27,3 +27,9 @@ Inspiré par ce test, je propose le test de Lecoq, du nom de
 Je viens de surprendre une conversation de ce type entre mes garçons, quand ils
 rangeaient leur linge.  
 Je suis fierté.
+
+{% capture alt_text%}Dans une assemblée, un homme seul se met à applaudir puis
+s'interrompt.{% endcapture %} {% include video_as_a_gif.html.liquid
+url="/assets/images/papa/2019-03-26/dad-applause"
+alt=alt_text
+%}

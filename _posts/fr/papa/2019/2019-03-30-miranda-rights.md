@@ -30,3 +30,11 @@ imaginez ?
 > interrompte et de demander un bisou, un câlin, ou un temps calme.
 
 Je pense que je tiens un truc.
+
+{% capture alt_text%}Les policiers des Simpsons ont mis en place une panneau
+publicitaire mouvant où il est écrit "On vous surveille, les enfants. Les
+policiers ne dorment jamais."{% endcapture %}
+{% include video_as_a_gif.html.liquid
+url="/assets/images/papa/2019-03-30/cop-kids"
+alt=alt_text
+%}

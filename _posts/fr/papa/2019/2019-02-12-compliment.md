@@ -33,4 +33,9 @@ il arrive à court d'idées :
 > Papa… Tu, euh, tu sais très bien ouvrir les bières, tu t'es sûrement beaucoup
 > entrainé !
 
-Euh, merci ?
+{% capture alt_text%}Mike Shinoda dit "Merci ?" d'un air
+interrogateur.{% endcapture %} {% include video_as_a_gif.html.liquid
+url="/assets/images/papa/2019-02-12/er-thanks"
+alt=alt_text
+caption="Euh, merci ?"
+%}

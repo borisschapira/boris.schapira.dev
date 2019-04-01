@@ -16,8 +16,20 @@ Je craque :
 
 Il réfléchit une seconde et se met à énumérer sur ses doigts :
 
+{% capture alt_text%}Fabian Nolte compte sur ses doigts en
+louchant.{% endcapture %} {% include video_as_a_gif.html.liquid
+url="/assets/images/papa/2019-02-16/enum"
+alt=alt_text
+%}
+
 > Arrêter de crier, arrêter d'être méchant avec mon frère, arrêter de parler,
 > pas me coucher sur lui, pas salir mes lunettes, pas rentrer dans la bulle des
 > gens, pas dire des gros mots, dire bonjour aux gens qui me disent bonjour…
 
-Tout le wagon était plié.
+Tout le wagon :
+
+{% capture alt_text%}Plusieurs personnes rient à gorge déployée.{% endcapture %}
+{% include video_as_a_gif.html.liquid
+url="/assets/images/papa/2019-02-16/people-laugh"
+alt=alt_text
+%}
