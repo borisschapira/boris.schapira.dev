@@ -6,13 +6,13 @@ Début des vacances scolaires, les garçons et moi prenons le train pour aller
 voir leurs mamies. Le grand est _légèrement_ insupportable.
 
 > – Papa, on arrive ?  
-> – Non, je t'ai dis, on va à Bordeaux. Là ils n'annoncent pas Bordeaux. Donc on
+> – Non, je t'ai dit, on va à Bordeaux. Là ils n'annoncent pas Bordeaux. Donc on
 > n'arrive pas.  
 > – … et là, on arrive ?
 
 Je craque :
 
-> Stop, arrête. Qu'est-ce que je t'ai dis **dix fois** depuis qu'on est partis ?
+> Stop, arrête. Qu'est-ce que je t'ai dit **dix fois** depuis qu'on est partis ?
 
 Il réfléchit une seconde et se met à énumérer sur ses doigts :
 

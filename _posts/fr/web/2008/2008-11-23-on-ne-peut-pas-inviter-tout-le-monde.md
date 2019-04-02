@@ -17,7 +17,7 @@ occasionnels…. Reste à choisir le comportement à adopter avec les personnes 
 on sait déjà qu'elles ne seront pas invitées à la réception… leur dire ou leur
 laisser la surprise du faire-part sans invitation&nbsp;?
 
-Hier j'ai dis à mes copains d'Ecole qu'ils ne seraient très probablement pas
+Hier j'ai dit à mes copains d'Ecole qu'ils ne seraient très probablement pas
 invités à la réception. Et comme ils vivent à Paris et que le mariage aura lieu
 dans le Sud-Ouest, ils ont vite compris qu'ils ne seraient pas présent pour
 l'ensemble du mariage… ça a jeté un froid naturel, mais désagréable.

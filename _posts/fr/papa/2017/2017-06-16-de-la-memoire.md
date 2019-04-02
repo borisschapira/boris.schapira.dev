@@ -15,7 +15,7 @@ beaucoup de mémoire car il faut se rappeler de tout, tout ce qu'on a dit.
 > — Le bonhomme _Green Arrow_ que tu as eu le mois dernier ?  
 > — Oui ! Il a des topains, tu as dis.  
 > — _Speedy_ et _Red Arrow_ ?  
-> — Oui, c'est ce que j'ai dis !
+> — Oui, c'est ce que j'ai dit !
 
 {% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2017-06-16/of-course"

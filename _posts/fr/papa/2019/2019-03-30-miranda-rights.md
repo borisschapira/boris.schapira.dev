@@ -27,7 +27,7 @@ imaginez ?
 > Si vous n’y arrivez pas, un rouleau de PQ en pleine tête vous sera fourni
 > d'office.  
 > Durant chaque caprice, vous pourrez décider à n’importe quel moment de vous
-> interrompte et de demander un bisou, un câlin, ou un temps calme.
+> interrompre et de demander un bisou, un câlin, ou un temps calme.
 
 Je pense que je tiens un truc.
 

@@ -20,8 +20,8 @@ Inspiré par ce test, je propose le test de Lecoq, du nom de
 :
 
 1. Y a-t-il au moins deux personnages masculins portant des noms ?
-2. Ces deux personnages se parlent-il ?
-3. Leur conversation porte-elle sur la meilleur manière de collaborer pour les
+2. Ces deux personnages se parlent-ils ?
+3. Leur conversation porte-elle sur la meilleure manière de collaborer pour les
    tâches ménagères ?
 
 Je viens de surprendre une conversation de ce type entre mes garçons, quand ils

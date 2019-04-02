@@ -78,12 +78,12 @@ Un soir en le couchant, il décide de me raconter une dernière anecdote.
 > – C'était bien ?  
 > – Non, Nico[^chang] a essayé plein de fois de faire des bisous à Julie sur la
 > bouche. Et Julie elle aime pas ça.  
-> – Et il ne faut jamais forcé quelqu'un, tu as raison. Tu l'as dit à la
+> – Et il ne faut jamais forcer quelqu'un, tu as raison. Tu l'as dit à la
 > maitresse ?  
 > – Je l'ai dit à Nico et comme il écoutait pas, je l'ai dit à la maitresse et
 > après il a arrêté. Julie m'a fait un bisou sur la joue. Elle a dit qu'elle
 > veut qu'on aura des enfants quand on sera des grands.  
-> – C'est peut-être un peu tôt, pour se genre de décisions, non ?  
+> – C'est peut-être un peu tôt, pour ce genre de décisions, non ?  
 > – { il rit } Oui ! { Puis se reprend, déterminé } Mais quand je serai grand,
 > j'aurai des enfants.
 
