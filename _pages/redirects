@@ -4,6 +4,7 @@ permalink: /_redirects
 /assets/styles/vendors/instantsearch.min_{{ site.time | date: "%s" }}.css /assets/styles/vendors/instantsearch.min.css 200
 /assets/styles/vendors/instantsearch-theme-algolia.min_{{ site.time | date: "%s" }}.css /assets/styles/vendors/instantsearch-theme-algolia.min.css 200
 /assets/styles/critical_{{ site.time | date: "%s" }}.css /assets/styles/critical.css 200
+/assets/styles/hl_{{ site.time | date: "%s" }}.css /assets/styles/hl.css 200
 /assets/styles/main_{{ site.time | date: "%s" }}.css /assets/styles/main.css 200
 /assets/styles/vendors/highlightjs_{{ site.time | date: "%s" }}.css /assets/styles/vendors/highlightjs.css 200
 /2015/10/industrialiser-le-dev-front-end/ /confs/industrialiser-le-dev-front-end/ 301

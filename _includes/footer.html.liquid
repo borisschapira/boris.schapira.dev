@@ -6,9 +6,18 @@
     e.async = true;
     document.head.insertBefore(e, document.head.childNodes[document.head.childNodes.length - 1].nextSibling);
   };
-</script>{% if include.type == 'post' %}
+  function injectStyle(path) {
+    var e = document.createElement('link');
+    e.rel = 'stylesheet';
+    e.type = 'text/css';
+    e.href = path;
+    document.head.insertBefore(e, document.head.childNodes[document.head.childNodes.length - 1].nextSibling);
+  };
+</script>{% if include.layout == 'post' %}
 <script>injectScript('/assets/scripts/comments.min.js');</script>{% endif %}
+<script>injectStyle('/assets/styles/hl.css');</script>
 <script>injectScript('/assets/scripts/index.min.js');</script>
+
 
 {% if include.loadTwitterWjs %}<script>injectScript('/assets/scripts/vendors/twitter-wjs.min.js');</script>
 {% endif %}

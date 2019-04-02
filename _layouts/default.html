@@ -30,7 +30,7 @@ layout: microtypo
     <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/pt-serif-italic.woff2" crossorigin>
     <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/critical' %}" data-proofer-ignore>
     <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/main' %}" data-proofer-ignore>
-    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/highlightjs' %}" data-proofer-ignore>
+    <link rel="preload" as="style" href="/assets/styles/hl.css" data-proofer-ignore>
     <link rel="prefetch" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch.min' %}" data-proofer-ignore>
     <link rel="prefetch" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch-theme-algolia.min' %}" data-proofer-ignore>
     {% comment %} / Preloading the fonts and styles for later use {% endcomment %}
@@ -38,13 +38,11 @@ layout: microtypo
     {% comment %} Styles {% endcomment %}
     <script>performance.mark('mark_declare_css_start');</script>
     <link href="{% include assets/css.html.liquid name='/assets/styles/critical' %}" rel="stylesheet" data-proofer-ignore>
-    {% capture themeColor %}{{ site.data.styles.main.color }}{% endcapture %}
     <link href="{% include assets/css.html.liquid name='/assets/styles/main' %}" rel="stylesheet" data-proofer-ignore>
     {% if page.i18n-key == "search" %}
     <link href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch.min' %}" rel="stylesheet" data-proofer-ignore>
     <link href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch-theme-algolia.min' %}" rel="stylesheet" data-proofer-ignore>
     {% endif %}
-    <link href="{% include assets/css.html.liquid name='/assets/styles/vendors/highlightjs' %}" rel="stylesheet" data-proofer-ignore>
     <script>performance.mark('mark_declare_css_end');performance.measure('mark_declare_css', 'mark_declare_css_start', 'mark_declare_css_end');</script>
     {% comment %} / Styles {% endcomment %}
 
@@ -327,6 +325,6 @@ layout: microtypo
         </div>
       </footer>
     </div>
-    {% include footer.html.liquid type=page.type loadTwitterWjs=page.loadTwitterWjs loadSearch=page.loadSearch %}
+    {% include footer.html.liquid layout=page.layout loadTwitterWjs=page.loadTwitterWjs loadSearch=page.loadSearch %}
     <script src="//instant.page/1.2.2" type="module" integrity="sha384-2xV8M5griQmzyiY3CDqh1dn4z3llDVqZDqzjzcY+jCBCk/a5fXJmuZ/40JJAPeoU"></script>
   </body></html>

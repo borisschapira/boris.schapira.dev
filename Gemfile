@@ -20,7 +20,7 @@ group :jekyll_plugins do
   gem 'classifier-reborn'
   gem 'jekyll-algolia'
   gem 'jekyll-archives'
-  gem 'jekyll-commonmark'
+  gem 'jekyll-commonmark', :git => 'https://github.com/ashmaroli/jekyll-commonmark/', :branch => 'highlighter-rouge'
   gem 'jekyll-cloudinary'
   gem "jekyll-include-cache"
   gem 'jekyll-microtypo'

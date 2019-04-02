@@ -171,8 +171,4 @@ ready(function() {
       }
     }
   })();
-
-  perfmark(function() {
-    window.hljs.initHighlighting();
-  }, 'highlightjs');
 });
