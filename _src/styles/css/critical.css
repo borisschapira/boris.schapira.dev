@@ -1127,8 +1127,24 @@ html {
       display: inline;
       font-size: 0.8em; }
 
+.nav-arrow {
+  margin: 1vw;
+  position: fixed;
+  bottom: 30vh;
+  font-size: 1.5rem; }
+  @media (min-width: 480px) {
+    .nav-arrow {
+      font-size: 2rem; } }
+  @media (min-width: 960px) {
+    .nav-arrow {
+      margin: 5vw; } }
+  .nav-arrow.prev {
+    left: 0; }
+  .nav-arrow.next {
+    right: 0; }
+
 .post {
-  padding-top: 2rem;
+  padding: 2rem 0;
   border-bottom: 2px solid var(--color-main-grayfade); }
   .post:last-of-type:not(:only-of-type) {
     border-bottom: none; }
@@ -1240,6 +1256,9 @@ figure {
     margin-right: auto;
     margin-left: auto;
     text-align: center; }
+
+.post-footer {
+  border-bottom: 2px solid var(--color-main-grayfade); }
 
 strong {
   color: var(--color-main); }

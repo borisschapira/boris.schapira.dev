@@ -3,7 +3,7 @@
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
     prefix: 'boris-schapira-dev',
-    suffix: '6A4lQllKGpdBwToH',
+    suffix: 'EsRguMhm1Ygz3/T3',
     precache: 'precache',
     runtime: 'runtime-cache'
 });
@@ -50,4 +50,10 @@ self.addEventListener("activate", function (event) {
             );
         })
     );
+});
+
+self.addEventListener('installed', function (event) {
+  if (event.isUpdate) {
+    window.location.reload();
+  }
 });

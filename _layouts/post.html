@@ -14,19 +14,6 @@ layout: default
   date=page.date
 %}
 
-{% if page.next_context or page.prev_context %}
-
-<hr>
-
-<div class="category-navigation post-footer">
-  <h3>{{ "Dans la même catégorie :" | t: page.locale }}</h3>
-  <ul class="page-navigation">
-    {% if page.prev_context %}<li>{{ "Précédent :" | t: page.locale }} <a href="{{page.prev_context.url}}">{{ page.prev_context.title }}</a></li>{% endif %}
-    {% if page.next_context %}<li>{{ "Suivant :" | t: page.locale }} <a href="{{page.next_context.url}}">{{ page.next_context.title }}</a></li>{% endif %}
-  </ul>
-</div>
-{% endif %}
-
 {% comment %}
 {% assign related_locale = site.related_posts | where:"locale", page.locale %}
 {% assign related_locale_notnav = "" | split:"" %}
