@@ -69,18 +69,18 @@ module Jekyll
 
         if page.data.key?("description")
           description = page.data["description"]
-        end
-
-        if page.data.key?("excerpt")
-          description = markdown_converter.convert(page.data["excerpt"].content)
-        elsif page.content.size < 1000
-          if page.content.include? "<figure>"
-            description = markdown_converter.convert(page.content.split(/<figure>/).first)
-          else
-            description = markdown_converter.convert(page.content)
-          end
         else
-          description = markdown_converter.convert(truncatewords(page.content, 40))
+          if page.data.key?("excerpt")
+            description = markdown_converter.convert(page.data["excerpt"].content)
+          elsif page.content.size < 1000
+            if page.content.include? "<figure>"
+              description = markdown_converter.convert(page.content.split(/<figure>/).first)
+            else
+              description = markdown_converter.convert(page.content)
+            end
+          else
+            description = markdown_converter.convert(truncatewords(page.content, 40))
+          end
         end
       end
 
