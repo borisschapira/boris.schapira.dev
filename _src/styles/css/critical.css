@@ -493,7 +493,7 @@ abbr[title],
 acronym[title] {
   cursor: help;
   text-decoration: inherit;
-  border-bottom: 0.1em dotted var(--color-main-light); }
+  border-bottom: 0.1em dotted var(--color-main-discrete); }
 
 figure {
   margin: 0; }
