@@ -740,7 +740,8 @@ hr {
         transition: none; } }
   .avatar .kids,
   .avatar .db-logo,
-  .avatar .bs-hoodie {
+  .avatar .bs-hoodie,
+  .avatar .blue-hair {
     display: none; }
   .avatar .boris {
     display: block; }
@@ -760,7 +761,9 @@ hr {
   .citizen .avatar .bs-shirt {
     display: none; }
   .citoyen .avatar .bs-hoodie,
-  .citizen .avatar .bs-hoodie {
+  .citoyen .avatar .blue-hair,
+  .citizen .avatar .bs-hoodie,
+  .citizen .avatar .blue-hair {
     display: block; }
 
 html,
