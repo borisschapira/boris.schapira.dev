@@ -1,5 +1,6 @@
 ---
 title: 'Miranda Rights'
+i18n-key: miranda
 ---
 
 Les "<span lang="en">Miranda Rights</span>" sont 5 phrases que toutes les

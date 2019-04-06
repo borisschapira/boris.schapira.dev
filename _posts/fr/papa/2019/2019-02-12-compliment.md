@@ -3,8 +3,8 @@ title: 'Compliments'
 ---
 
 Notre grand a deux défauts. Il a assez avare de compliments, et il a du mal avec
-les tournure "il y a", qu'il abrège souvent en "a". Cela donne des phrases comme
-:
+les tournures en "il y a", qu'il abrège souvent en "a". Cela donne des phrases
+comme :
 
 > Aujourd'hui, avaient deux enfants dans la cours, et…
 

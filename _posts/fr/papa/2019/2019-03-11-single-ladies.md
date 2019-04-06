@@ -1,5 +1,6 @@
 ---
 title: 'Single Ladies'
+i18n-key: single-ladies
 ---
 
 > Papa, c'est quoi ma danse préférée ?

@@ -1,5 +1,6 @@
 ---
 title: 'Dans le train'
+i18n-key: 'taking-the-train'
 ---
 
 Début des vacances scolaires, les garçons et moi prenons le train pour aller

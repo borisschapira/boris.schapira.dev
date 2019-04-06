@@ -1,0 +1,30 @@
+---
+title: "Kids' Miranda Rights"
+i18n-key: 'miranda'
+---
+
+The Miranda Rights are 5 sentences that anyone who have watched an American
+TVShow with cops knows pretty well, because they are pronounced systematically
+during an arrest.
+
+Sometimes I think that we should apply the same thing to children. Can you
+imagine?
+
+> You have the right – really, I insist – to silence.  
+> If you waive this right, anything you say can be questioned, and it better not
+> be a lie.  
+> You have the right to let your parents go to the toilet with the door
+> closed.  
+> If you can't do this, a roll of toilet paper thrown to your head will
+> automatically be provided.  
+> During each whim, you can decide at any time to discontinue and ask for a
+> kiss, a hug, or a quiet time.
+
+I think I'm on to something.
+
+{% capture alt_text%}The Simpsons police have set up a moving billboard saying
+"We're watching you, kids. The police officers never sleep."{% endcapture %}
+{% include video_as_a_gif.html.liquid
+url="/assets/images/papa/2019-03-30/cop-kids"
+alt=alt_text
+%}

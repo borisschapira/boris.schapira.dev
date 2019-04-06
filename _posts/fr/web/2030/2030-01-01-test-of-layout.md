@@ -117,7 +117,7 @@ _This is italic text_
 > >
 > > > ...or with spaces between arrows.
 >
-> <cite>"[Book](#)", Author</cite> 
+> <cite>"[Book](#)", Author</cite>
 
 ## Lists
 
