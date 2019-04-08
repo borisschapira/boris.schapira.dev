@@ -23,7 +23,7 @@ imagine?
 I think I'm on to something.
 
 {% capture alt_text%}The Simpsons police have set up a moving billboard saying
-"We're watching you, kids. The police officers never sleep."{% endcapture %}
+"We're watching you, kids. Cops never sleep."{% endcapture %}
 {% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2019-03-30/cop-kids"
 alt=alt_text
