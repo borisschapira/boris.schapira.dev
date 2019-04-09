@@ -9,5 +9,5 @@ layout: default
 </section>
 
 {% if page.comments == true %}
-{% include comments.html.liquid slug=page.slug url=page.url %}
+{% include comments.html.liquid slug=page.slug url=page.url locale=page.locale %}
 {% endif %}
