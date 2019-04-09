@@ -23,15 +23,6 @@ GIT
       jekyll (~> 3.0)
 
 GIT
-  remote: https://github.com/borisschapira/jekyll-cloudinary
-  revision: 2554f235ac4084b189ee2c021c1c600518bb4556
-  branch: support-loading
-  specs:
-    jekyll-cloudinary (1.13.0)
-      fastimage (~> 2.0)
-      jekyll (~> 3.6)
-
-GIT
   remote: https://github.com/borisschapira/jekyll-paginate-v2.git
   revision: 3d4d25e9da713e377b8ba2ae690f2dca07fa2808
   branch: default-values
@@ -117,6 +108,9 @@ GEM
       verbal_expressions (~> 0.1.5)
     jekyll-archives (2.2.1)
       jekyll (>= 3.6, < 5.0)
+    jekyll-cloudinary (1.14.0)
+      fastimage (~> 2.0)
+      jekyll (~> 3.6)
     jekyll-include-cache (0.2.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-microtypo (0.2.5)
@@ -184,7 +178,7 @@ DEPENDENCIES
   jekyll!
   jekyll-algolia
   jekyll-archives
-  jekyll-cloudinary!
+  jekyll-cloudinary
   jekyll-commonmark!
   jekyll-include-cache
   jekyll-microtypo
