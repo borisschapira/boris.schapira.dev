@@ -280,12 +280,23 @@ ready(function() {
   function decorate_footnotes() {
     var lang = document.getElementsByTagName('html')[0].getAttribute('lang'),
       alternatives = {
-        en: 'return to the text',
-        fr: 'retour au texte'
+        to: {
+          en: 'footnote',
+          fr: 'note de bas de page'
+        },
+        back: {
+          en: 'return to the text',
+          fr: 'retour au texte'
+        }
       };
+
+    var textnots = document.querySelectorAll('.footnote-ref a');
+    for (var i = 0; i < footnotes.length; i++) {
+      footnotes[i].setAttribute('title', alternatives.to[lang]);
+    }
     var footnotes = document.getElementsByClassName('footnote-backref');
     for (var i = 0; i < footnotes.length; i++) {
-      footnotes[i].setAttribute('title', alternatives[lang]);
+      footnotes[i].setAttribute('title', alternatives.back[lang]);
     }
   }
   decorate_footnotes();
