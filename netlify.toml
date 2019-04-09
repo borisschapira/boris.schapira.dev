@@ -5,3 +5,8 @@
 
 [context.branch-deploy]
   command = "yarn comments:get; bundle exec rake build:generate[integ]; yarn run lambda:build"
+
+[dev]
+  command = "bundle exec rake"
+  port = 10443
+  publish = "_site"
