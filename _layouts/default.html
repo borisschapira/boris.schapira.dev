@@ -2,7 +2,7 @@
 layout: microtypo
 ---
 <!DOCTYPE html>
-<html lang="{{ page.locale | default: site.locale | default: "fr_FR" }}" itemscope itemtype="https://schema.org/WebPage">
+<html lang="{{ page.locale | default: site.locale | default: "fr_FR" }}">
   <head>
     <!-- nomicrotypo -->
     
@@ -68,7 +68,7 @@ layout: microtypo
     <meta name="robots" content="noindex,follow">
     {% endif %}
 
-    <title itemprop="name">{{ page.social.title | strip_html }}</title>
+    <title>{{ page.social.title | strip_html }}</title>
     {% if page.canonical %}
       <link rel="canonical" href="{{ page.canonical }}" data-proofer-ignore/>
     {% else %}
@@ -141,7 +141,7 @@ layout: microtypo
     <div class="menu-state colorized {% if page.category %}{{page.category}}{% else %}main{% endif %} color-container">
       <a class="skip-main" href="#main">{{ "Aller directement au contenu principal" | t: page.locale }}</a>
       <header class="nav-header">
-        <a href="{{ page.baseurl | relative_url }}" itemprop="url" class="title">
+        <a href="{{ page.baseurl | relative_url }}" class="title">
           {{ site.title }}
         </a>
         <nav>
@@ -151,23 +151,18 @@ layout: microtypo
             <span class="close-label">{{ "fermer" | t: page.locale }}</span>
           </button>
           <ul class="menu" id="main-nav">
-            <li {% if page.type == 'post' or page.layout == 'index' %}class="active"{% endif %} itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem"><a href="{{ page.baseurl | relative_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "Notes" | t: page.locale }}</a></li>
+            <li {% if page.type == 'post' or page.layout == 'index' %}class="active"{% endif %}><a href="{{ page.baseurl | relative_url }}">{{ "Notes" | t: page.locale }}</a></li>
 
-            <li {% if page.i18n-key == 'about' %}class="active"{% endif %} itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem">
+            <li {% if page.i18n-key == 'about' %}class="active"{% endif %}>
               <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}/">{{ "À propos" | t: page.locale }}</a>
             </li>
 
-            <li {% if page.i18n-key == 'about' %}class="active"{% endif %} itemprop="itemListElement" itemscope
-            itemtype="http://schema.org/ListItem">
+            <li {% if page.i18n-key == 'about' %}class="active"{% endif %}>
               <a href="{{ "partager" | t:page.locale | prepend: page.baseurl | relative_url }}/">{{ "Partager" | t: page.locale }}</a>
             </li>
 
-            <li {% if page.i18n-key == 'search' %}class="active"{% endif %} 
-            itemprop="itemSearchResultsPage" itemscope
-            itemtype="http://schema.org/SearchResultsPage">
-            <a href="{{ 'recherche' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/SearchResultsPage" itemprop="item">{{ "Recherche" | t: page.locale }}</a>
+            <li {% if page.i18n-key == 'search' %}class="active"{% endif %}>
+            <a href="{{ 'recherche' | t: page.locale | prepend: page.baseurl | relative_url }}/">{{ "Recherche" | t: page.locale }}</a>
             </li>
 
             {% if page.translation %}
@@ -303,17 +298,13 @@ layout: microtypo
           <div class="widget">
             <h2>{{ "Catégories" | t: page.locale }}</h2>
             <ul>
-              <li itemprop="itemListElement" itemscope
-              itemtype="http://schema.org/ListItem"><a class="main {% unless page.category %}active{% endunless %}" href="{{ '' | prepend: page.baseurl | relative_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "toutes" | t: page.locale }}</a></li>
-              <li itemprop="itemListElement" itemscope
-              itemtype="http://schema.org/ListItem"><a class="web {% if page.category == 'web' %}active{% endif %}" href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "web" | t: page.locale }}</a></li>
-              <li itemprop="itemListElement" itemscope
-              itemtype="http://schema.org/ListItem">
+              <li><a class="main {% unless page.category %}active{% endunless %}" href="{{ '' | prepend: page.baseurl | relative_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "toutes" | t: page.locale }}</a></li>
+              <li><a class="web {% if page.category == 'web' %}active{% endif %}" href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "web" | t: page.locale }}</a></li>
+              <li>
               <a class="citoyen {% if page.category == 'citoyen' %}active{% endif %}" href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "citoyen" | t: page.locale }}</a>
               </li>
-              <li itemprop="itemListElement" itemscope
-              itemtype="http://schema.org/ListItem">
-              <a class="papa {% if page.category == 'papa' %}active{% endif %}" href="{{ 'papa' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "papa" | t: page.locale }}</a>
+              <li>
+              <a class="papa {% if page.category == 'papa' %}active{% endif %}" href="{{ 'papa' | t: page.locale | prepend: page.baseurl | relative_url }}/">{{ "papa" | t: page.locale }}</a>
               </li>
             </ul>
           </div>
@@ -333,6 +324,15 @@ layout: microtypo
     </div>
     {% include footer.html.liquid layout=page.layout loadTwitterWjs=page.loadTwitterWjs loadSearch=page.loadSearch %}
     <script src="//instant.page/1.2.2" type="module" integrity="sha384-2xV8M5griQmzyiY3CDqh1dn4z3llDVqZDqzjzcY+jCBCk/a5fXJmuZ/40JJAPeoU"></script>
+    <script type="application/ld+json">
+      {
+          "@context": "http://schema.org",
+          "@type": "WebPage",
+          "name": "{{ page.social.title | strip_html }}",
+          "description": "{{ page.social.description | strip_html }}",
+          "url": "{{ page.baseurl | absolute_url }}"
+      }
+    </script>
     <!-- Matomo -->
     <script type="text/javascript">
       var _paq = window._paq || [];

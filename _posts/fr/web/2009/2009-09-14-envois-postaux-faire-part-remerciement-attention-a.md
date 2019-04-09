@@ -4,6 +4,7 @@ tags:
     - 'Me, myself and I'
     - Mariage
 slug: envois-postaux-faire-part-remerciement-attention-aux-tarifs
+author: Libellule
 ---
 
 Un mariage, ça coûte cher. Alors si en plus on se loupe sur le prix des choses,
