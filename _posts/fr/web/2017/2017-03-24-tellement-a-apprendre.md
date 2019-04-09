@@ -1,6 +1,6 @@
 ---
 title: 'Tellement à apprendre'
-last_modified: "2017-03-27"
+last_modified: '2017-03-27'
 ---
 
 Un de mes collègues a partagé une synthèse de différents outils Devops qu'il a

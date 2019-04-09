@@ -13,8 +13,8 @@ petit, lui, reste au bord.
 > — Yi, la piyine elle m'a mouillé le pied, Papa !
 
 {% capture img_alt %}Le Captain Obvious de South Park{% endcapture %}
-{% capture img_caption %}Merci, <span lang="en">Captain Obvious</span>, votre travail est fini !{% endcapture %}
-{% include rwd-image.html.liquid
+{% capture img_caption %}Merci, <span lang="en">Captain Obvious</span>, votre
+travail est fini !{% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/papa/2016-07-09/1.jpg"
 alt=img_alt
 caption=img_caption

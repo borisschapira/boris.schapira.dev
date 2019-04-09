@@ -1,6 +1,6 @@
 ---
 title: 'Tread softly because you tread on my dreams'
-last_modified: "2017-10-23"
+last_modified: '2017-10-23'
 ---
 
 À la place d'une lutte entre la droite et la gauche, nous sommes désormais

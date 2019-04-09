@@ -3,7 +3,7 @@ title: 'Guide de survie aux discussions'
 tags:
     - guide
 subtitle: (sur les réseaux sociaux)
-last_modified: "2018-06-20"
+last_modified: '2018-06-20'
 ---
 
 Sur un de ses profils, **Yann Leroux**, auteur de
