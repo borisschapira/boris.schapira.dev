@@ -126,8 +126,8 @@ ready(function() {
         }
       };
 
-    var textnots = document.querySelectorAll('.footnote-ref a');
-    for (var i = 0; i < footnotes.length; i++) {
+    var textnotes = [...document.querySelectorAll('.footnote-ref a')];
+    for (var i = 0; i < textnotes.length; i++) {
       footnotes[i].setAttribute('title', alternatives.to[lang]);
     }
     var footnotes = document.getElementsByClassName('footnote-backref');
