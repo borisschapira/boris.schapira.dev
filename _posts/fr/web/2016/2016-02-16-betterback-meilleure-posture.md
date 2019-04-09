@@ -1,5 +1,6 @@
 ---
 title: 'BetterBack : pour une meilleure posture'
+last_modified: "2016-02-18"
 ---
 
 Suite aux conseils de mon cousin, je me suis procuré un
