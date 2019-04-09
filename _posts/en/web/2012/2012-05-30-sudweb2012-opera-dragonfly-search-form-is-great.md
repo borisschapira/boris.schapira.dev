@@ -24,4 +24,4 @@ with Opera Dragonfly Developer tool
 
 And here is a short video of what this workshop looked like&nbsp;:
 
-<iframe src="https://player.vimeo.com/video/42885321" frameborder="0" width="500" height="281"></iframe>
+{% include media/vimeo.html.liquid id="42885321" title="Améliorer les outils de débug dans les navigateurs Web" %}
