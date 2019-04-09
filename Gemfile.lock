@@ -23,11 +23,20 @@ GIT
       jekyll (~> 3.0)
 
 GIT
+  remote: https://github.com/borisschapira/jekyll-cloudinary
+  revision: 2554f235ac4084b189ee2c021c1c600518bb4556
+  branch: support-loading
+  specs:
+    jekyll-cloudinary (1.13.0)
+      fastimage (~> 2.0)
+      jekyll (~> 3.6)
+
+GIT
   remote: https://github.com/borisschapira/jekyll-paginate-v2.git
-  revision: 0a8b8f9a6615cbabfdaffeff816bab23ad49ec71
+  revision: 3d4d25e9da713e377b8ba2ae690f2dca07fa2808
   branch: default-values
   specs:
-    jekyll-paginate-v2 (2.0.0)
+    jekyll-paginate-v2 (2.1.0)
       jekyll (~> 3.0)
 
 GIT
@@ -70,7 +79,7 @@ GEM
       fast-stemmer (~> 1.0)
     colorator (1.1.0)
     colorize (0.8.1)
-    commonmarker (0.18.2)
+    commonmarker (0.20.0)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.5)
     em-websocket (0.5.1)
@@ -108,9 +117,6 @@ GEM
       verbal_expressions (~> 0.1.5)
     jekyll-archives (2.2.1)
       jekyll (>= 3.6, < 5.0)
-    jekyll-cloudinary (1.13.0)
-      fastimage (~> 2.0)
-      jekyll (~> 3.6)
     jekyll-include-cache (0.2.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-microtypo (0.2.5)
@@ -155,7 +161,7 @@ GEM
       i18n
     ruby_dep (1.5.0)
     safe_yaml (1.0.5)
-    sass (3.7.3)
+    sass (3.7.4)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -178,7 +184,7 @@ DEPENDENCIES
   jekyll!
   jekyll-algolia
   jekyll-archives
-  jekyll-cloudinary
+  jekyll-cloudinary!
   jekyll-commonmark!
   jekyll-include-cache
   jekyll-microtypo

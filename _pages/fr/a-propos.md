@@ -22,7 +22,7 @@ Performance Web ou au choix d'une solution référentielle
 d'un <em lang="en">framework</em>).
 
 <figure>
-  <a href="https://certified.opquast.com/certificate/V085B7/"><img role="img" src="/assets/images/shared/issuer_v085b7.svg" width="200" height="200" alt="Un certificat OpQuast composé de 5 étoiles, avec écrit &quote;Expert&quote;"></a>
+  <a href="https://certified.opquast.com/certificate/V085B7/"><img role="img" src="/assets/images/shared/issuer_v085b7.svg" loading="lazy" width="200" height="200" alt="Un certificat OpQuast composé de 5 étoiles, avec écrit &quote;Expert&quote;"></a>
   <figcaption>Certificat Qualité web - niveau Expert</figcaption>
 </figure>
 

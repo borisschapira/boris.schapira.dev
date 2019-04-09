@@ -248,7 +248,6 @@ customizable Content Platform (here, reusable slices). Contents or layouts,
 everything is contributed on the platform. During the build, the SSG requests
 the Prismic.io API to retrieve the information.{% endcapture %}
 {% include video_as_a_gif.html.liquid
-controls="true"
 url="/assets/images/2018-02-21/4_prismic"
 alt=img_alt
 caption=img_caption

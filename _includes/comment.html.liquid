@@ -5,11 +5,11 @@
   <header>
   <div class="avatar__container">
   {% if include.avatar %}
-    <img src="{{ include.avatar }}" alt="{{ include.name | escape }}">
+    <img src="{{ include.avatar }}" loading="lazy" alt="{{ include.name | escape }}">
   {% elsif include.email %}
-    <img src="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=60" srcset="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=120 2x" alt="{{ include.name | replace: "·", "&#x00B7;" | escape }}">
+    <img src="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=60" srcset="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=120 2x" loading="lazy" alt="{{ include.name | replace: "·", "&#x00B7;" | escape }}">
   {% else %}
-    <img src="https://www.gravatar.com/avatar/?d=mm&s=60" srcset="https://www.gravatar.com/avatar/?d=mm&s=120 2x" alt="{{ include.name | escape }}">
+    <img src="https://www.gravatar.com/avatar/?d=mm&s=60" loading="lazy" srcset="https://www.gravatar.com/avatar/?d=mm&s=120 2x" alt="{{ include.name | escape }}">
   {% endif %}
   </div>
   {% if include.date %}

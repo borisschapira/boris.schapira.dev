@@ -21,7 +21,7 @@ group :jekyll_plugins do
   gem 'jekyll-algolia'
   gem 'jekyll-archives'
   gem 'jekyll-commonmark', :git => 'https://github.com/ashmaroli/jekyll-commonmark/', :branch => 'highlighter-rouge'
-  gem 'jekyll-cloudinary'
+  gem 'jekyll-cloudinary', :git => 'https://github.com/borisschapira/jekyll-cloudinary', :branch => 'support-loading'
   gem "jekyll-include-cache"
   gem 'jekyll-microtypo'
   gem 'jekyll-paginate-v2', :git => 'https://github.com/borisschapira/jekyll-paginate-v2.git', :branch => 'default-values'

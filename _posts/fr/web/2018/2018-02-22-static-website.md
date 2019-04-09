@@ -280,7 +280,6 @@ plates-formes de contenu les plus personnalisables (ici, des
 sont contribués sur la plateforme. Pendant la compilation, le SSG requête l’API
 de Prismic.io pour récupérer les informations.{% endcapture %}
 {% include video_as_a_gif.html.liquid
-controls="true"
 url="/assets/images/2018-02-21/4_prismic"
 alt=img_alt
 caption=img_caption

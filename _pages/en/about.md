@@ -21,7 +21,7 @@ Finance, e-Commerce or the choice of a data management solution :
 <abbr lang="en" title="Online Video Platform">OVP</abbr>)…
 
 <figure>
-  <a href="https://certified.opquast.com/certificate/V085B7/"><img role="img" src="/assets/images/shared/issuer_v085b7.svg" width="200" height="200" alt="An OpQuast certificate composed of 5 stars. &quote;Expert&quote; is written on top of it"></a>
+  <a href="https://certified.opquast.com/certificate/V085B7/"><img role="img" src="/assets/images/shared/issuer_v085b7.svg" loading="lazy" width="200" height="200" alt="An OpQuast certificate composed of 5 stars. &quote;Expert&quote; is written on top of it"></a>
   <figcaption>Web Quality certificate - Expert level</figcaption>
 </figure>
 

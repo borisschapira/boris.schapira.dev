@@ -105,6 +105,6 @@ s'imposer naturellement comme un étalon de l'investissement web des entreprises
 du numérique. Nous avons tous à y gagner.
 
 <figure>
-  <a href="https://certified.opquast.com/certificate/V085B7/"><img role="img" src="/assets/images/shared/issuer_v085b7.svg" width="200" height="200" alt="Un certificat Opquast composé de 5 étoiles, avec écrit &quote;Expert&quote;"></a>
+  <a href="https://certified.opquast.com/certificate/V085B7/"><img role="img" src="/assets/images/shared/issuer_v085b7.svg" loading="lazy" width="200" height="200" alt="Un certificat Opquast composé de 5 étoiles, avec écrit &quote;Expert&quote;"></a>
   <figcaption>Certificat Qualité web - niveau Expert</figcaption>
 </figure>
