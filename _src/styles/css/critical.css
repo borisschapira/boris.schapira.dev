@@ -963,13 +963,15 @@ html {
 .container {
   background-color: var(--color-main-background);
   background-image: none; }
-  .container.full-width-content .content {
-    grid-column: 2 / 12;
-    width: 100%;
-    max-width: 38rem;
-    margin: auto; }
-  .container.full-width-content aside {
-    display: none; }
+  .container.full-width-content {
+    position: relative; }
+    .container.full-width-content .content {
+      grid-column: 2 / 12;
+      width: 100%;
+      max-width: 38rem;
+      margin: auto; }
+    .container.full-width-content aside {
+      display: none; }
   .container .content {
     padding-bottom: 3rem;
     grid-column: 2 / 12; }
@@ -1133,7 +1135,7 @@ html {
 .nav-arrow {
   margin: 1vw;
   position: fixed;
-  bottom: 30vh;
+  height: 70vh;
   font-size: 1.5rem; }
   @media (min-width: 480px) {
     .nav-arrow {
@@ -1141,6 +1143,17 @@ html {
   @media (min-width: 960px) {
     .nav-arrow {
       margin: 5vw; } }
+  .nav-arrow a {
+    line-height: 70vh; }
+    .nav-arrow a:before {
+      content: " ";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      cursor: pointer;
+      background-color: transparent; }
   .nav-arrow.prev {
     left: 0; }
   .nav-arrow.next {

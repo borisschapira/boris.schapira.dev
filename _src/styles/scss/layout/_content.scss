@@ -19,7 +19,7 @@
 .nav-arrow {
   margin: 1vw;
   position: fixed;
-  bottom: 30vh;
+  height: 70vh;
   font-size: 1.5rem;
 
   @include media(">=small") {
@@ -28,6 +28,20 @@
 
   @include media(">=large") {
     margin: 5vw;
+  }
+
+  a {
+    line-height: 70vh;
+    &:before {
+      content: " ";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      cursor: pointer;
+      background-color: transparent;
+    }
   }
 
   &.prev {
