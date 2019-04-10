@@ -31,9 +31,9 @@ workbox.routing.registerRoute(
 //  suggests that could be a problem in Safari.)
 // We need access to the video data in the response body, so opaque responses are a no-no.
 workbox.routing.registerRoute(
-  /\.mp4$/,
+  ({ event }) => event.request.destination === "video",
   new workbox.strategies.CacheFirst({
-    cacheName: 'mp4',
+    cacheName: 'video',
     plugins: [
       new workbox.cacheableResponse.Plugin({statuses: [200]}),
       new workbox.rangeRequests.Plugin(),
