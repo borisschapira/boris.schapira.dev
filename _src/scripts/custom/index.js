@@ -126,12 +126,13 @@ ready(function() {
         }
       };
 
-    var textnotes = [...document.querySelectorAll('.footnote-ref a')];
-    for (var i = 0; i < textnotes.length; i++) {
-      footnotes[i].setAttribute('title', alternatives.to[lang]);
+    var i,
+      textnotes = [...document.querySelectorAll('.footnote-ref a')],
+      footnotes = [...document.getElementsByClassName('footnote-backref')];
+    for (i = 0; i < textnotes.length; i++) {
+      textnotes[i].setAttribute('title', alternatives.to[lang]);
     }
-    var footnotes = document.getElementsByClassName('footnote-backref');
-    for (var i = 0; i < footnotes.length; i++) {
+    for (i = 0; i < footnotes.length; i++) {
       footnotes[i].setAttribute('title', alternatives.back[lang]);
     }
   }

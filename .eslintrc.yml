@@ -3,7 +3,7 @@ env:
   commonjs: true
 extends: 'eslint:recommended'
 parserOptions:
-  ecmaVersion: 5
+  ecmaVersion: 6
 rules:
   accessor-pairs: error
   array-bracket-newline: error

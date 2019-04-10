@@ -28,6 +28,8 @@ permalink: /_headers
 /*.js
   X-Content-Type-Options: nosniff
   Cache-Control: max-age=31536000, private
+/service-worker.js
+  Cache-Control: max-age=0, private
 /*.ico
   Cache-Control: max-age=31536000, private
 /*.jpg
