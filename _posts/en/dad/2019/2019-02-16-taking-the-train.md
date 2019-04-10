@@ -1,5 +1,5 @@
 ---
-title: 'Taking th train'
+title: 'Taking the train'
 i18n-key: 'taking-the-train'
 ---
 
