@@ -1,1 +1,1 @@
-{% unless jekyll.environment == "development" %}{{ include.name }}_{{ site.time | date: "%s" }}.{{ include.extension }}{% else %}{{ include.name }}.{{ include.extension }}{% endunless %}
+{% unless jekyll.environment == "development" %}{{ include.name }}.{{ include.extension }}?version={{ site.time | date: "%s" }}{% else %}{{ include.name }}.{{ include.extension }}{% endunless %}
