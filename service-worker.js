@@ -1,5 +1,9 @@
 // service-worker.js
 
+workbox.setConfig({
+  debug: true
+});
+
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
     prefix: 'boris-schapira-dev',
