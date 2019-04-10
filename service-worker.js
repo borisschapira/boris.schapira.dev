@@ -3,7 +3,7 @@
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
     prefix: 'boris-schapira-dev',
-    suffix: 'MegDTlXUvdnXE',
+    suffix: 'VnPg45QZuBj22r',
     precache: 'precache',
     runtime: 'runtime-cache'
 });
@@ -21,10 +21,26 @@ workbox.routing.registerRoute(
     workbox.strategies.networkFirst()
 );
 
+// use a special strategy for mp4
+// This is only going to work reliably for same-origin video requests.
+// (Or maybe CORS-enabled ones, but https://bugs.webkit.org/show_bug.cgi?id=184447
+//  suggests that could be a problem in Safari.)
+// We need access to the video data in the response body, so opaque responses are a no-no.
+workbox.routing.registerRoute(
+  /\.mp4$/,
+  new workbox.strategies.CacheFirst({
+    cacheName: 'mp4',
+    plugins: [
+      new workbox.cacheableResponse.Plugin({statuses: [200]}),
+      new workbox.rangeRequests.Plugin(),
+    ],
+  })
+);
+
 // use `cacheFirst` strategy for images and fonts
 workbox.routing.registerRoute(
     /assets\/(images|fonts)/,
-    workbox.strategies.cacheFirst()
+    workbox.strategies.staleWhileRevalidate()
 );
 
 let currentCacheNames = Object.assign({
