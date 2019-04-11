@@ -107,9 +107,7 @@
   /* 16:9 */
   padding-top: 25px;
   padding-bottom: 56.25%;
-  width: 100vw;
-  margin-left: 50%;
-  transform: translateX(-50%);
+  @include bleed(100vw);
 
   iframe,
   object,
@@ -122,11 +120,19 @@
   }
 }
 
+div.highlighter-rouge {
+  @include bleed(80vw);
+  border: 1px solid var(--color-main-gray);
+
+  .highlight {
+    margin: 0;
+    padding: 1rem;
+  }
+}
+
 figure {
   text-align: center;
-  width: 80vw;
-  margin-left: 50%;
-  transform: translateX(-50%);
+  @include bleed(80vw);
 
   /** http://www.24joursdeweb.fr/2015/pseudo-elements-pseudos-mais-puissants/ **/
   > a,
@@ -183,6 +189,7 @@ figure {
     margin-right: auto;
     margin-bottom: 0;
     margin-left: auto;
+    border: 1px solid var(--color-main-gray);
   }
 
   .gallery {
@@ -203,6 +210,7 @@ figure {
 }
 
 table {
+  @include bleed(80vw);
   border: solid 1px var(--color-main-text);
   border-collapse: collapse;
   border-spacing: 0;

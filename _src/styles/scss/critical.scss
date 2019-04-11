@@ -4,7 +4,7 @@
 @import "vendors/include-media";
 
 // Variables and mixins
-@import "base/config", "base/abstract", "mixins/animations";
+@import "base/config", "base/abstract", "mixins/content", "mixins/animations";
 
 // Reset
 @import "vendors/normalize/normalize/import-now", "base/fonts", "base/init",

@@ -1,0 +1,5 @@
+@mixin bleed($width) {
+  width: $width;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
