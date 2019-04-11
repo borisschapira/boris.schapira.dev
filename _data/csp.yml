@@ -30,7 +30,7 @@
       comment: "Injection de la CSS de mise en forme du code"
     - value: "'sha256-LDnlgL6UeEG0Blbxa7sjb1atHsbcqtZeyWPqKo40rzo='"
       comment: "Recaptcha script"
-    - value: "'sha256-8xzceUcolEULaoGVsZ+/zh41EdalJmTbD2VZ1xHUIr0='"
+    - value: "'sha256-QhQocRZ1CjI2GSvi8xJIOwXEbYhT9bPZu+iWZtNwP88='"
       comment: "fid test"
     - value: "'sha256-wRiYRnaaEyqKxosvlmLc/4vtkkRUZ+KitW7yW3yCEFc='"
       comment: "perf mark : parcing css start"
