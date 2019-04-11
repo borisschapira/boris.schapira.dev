@@ -25,7 +25,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem 'jekyll-microtypo'
   gem 'jekyll-paginate-v2', :git => 'https://github.com/borisschapira/jekyll-paginate-v2.git', :branch => 'default-values'
-  gem 'jekyll-pwa-plugin'
+  gem 'jekyll-pwa-plugin', :git => 'https://github.com/borisschapira/jekyll-pwa', :branch => 'workbox-4.2.0'
   gem 'jekyll-sitemap'
   gem 'jekyll-tagging-related_posts'
 end

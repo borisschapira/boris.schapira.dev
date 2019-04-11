@@ -42,6 +42,9 @@
       cursor: pointer;
       background-color: transparent;
     }
+    background-color: var(--color-main-background);
+    border-radius: 50%;
+    padding: 0.5rem;
   }
 
   &.prev {
@@ -97,6 +100,10 @@
       letter-spacing: 0;
       text-transform: lowercase;
     }
+
+    > .videoWrapper {
+      @include bleed(100vw);
+    }
   }
 }
 
@@ -107,7 +114,6 @@
   /* 16:9 */
   padding-top: 25px;
   padding-bottom: 56.25%;
-  @include bleed(100vw);
 
   iframe,
   object,

@@ -1149,7 +1149,10 @@ html {
     .nav-arrow {
       margin: 5vw; } }
   .nav-arrow a {
-    line-height: 70vh; }
+    line-height: 70vh;
+    background-color: var(--color-main-background);
+    border-radius: 50%;
+    padding: 0.5rem; }
     .nav-arrow a:before {
       content: " ";
       position: absolute;
@@ -1192,6 +1195,10 @@ html {
     margin-bottom: 1em;
     letter-spacing: 0;
     text-transform: lowercase; }
+  .post .post-content > .videoWrapper {
+    width: 100vw;
+    margin-left: 50%;
+    transform: translateX(-50%); }
 
 .videoWrapper {
   position: relative;
@@ -1199,10 +1206,7 @@ html {
   margin: 2em 0;
   /* 16:9 */
   padding-top: 25px;
-  padding-bottom: 56.25%;
-  width: 100vw;
-  margin-left: 50%;
-  transform: translateX(-50%); }
+  padding-bottom: 56.25%; }
   .videoWrapper iframe,
   .videoWrapper object,
   .videoWrapper embed {
