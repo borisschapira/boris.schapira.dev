@@ -1194,7 +1194,10 @@ html {
   margin: 2em 0;
   /* 16:9 */
   padding-top: 25px;
-  padding-bottom: 56.25%; }
+  padding-bottom: 56.25%;
+  width: 100vw;
+  margin-left: 50%;
+  transform: translateX(-50%); }
   .videoWrapper iframe,
   .videoWrapper object,
   .videoWrapper embed {
@@ -1206,6 +1209,9 @@ html {
 
 figure {
   text-align: center;
+  width: 80vw;
+  margin-left: 50%;
+  transform: translateX(-50%);
   /** http://www.24joursdeweb.fr/2015/pseudo-elements-pseudos-mais-puissants/ **/
   /** **/ }
   figure > a,

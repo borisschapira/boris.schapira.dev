@@ -107,6 +107,9 @@
   /* 16:9 */
   padding-top: 25px;
   padding-bottom: 56.25%;
+  width: 100vw;
+  margin-left: 50%;
+  transform: translateX(-50%);
 
   iframe,
   object,
@@ -121,6 +124,9 @@
 
 figure {
   text-align: center;
+  width: 80vw;
+  margin-left: 50%;
+  transform: translateX(-50%);
 
   /** http://www.24joursdeweb.fr/2015/pseudo-elements-pseudos-mais-puissants/ **/
   > a,

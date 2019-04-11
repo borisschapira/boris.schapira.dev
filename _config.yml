@@ -248,7 +248,7 @@ cloudinary:
   cloud_name: borisschapira
   presets:
     default:
-      sizes: "(min-width:20em) and (max-width:50em) 20em, (min-width:50em) 30em"
+      sizes: "80vw"
 
 dareboost:
   monitoring : …
