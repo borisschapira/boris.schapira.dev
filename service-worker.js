@@ -7,7 +7,7 @@ workbox.setConfig({
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
     prefix: 'boris-schapira-dev',
-    suffix: 'ikOkf2py8SLAsOcH',
+    suffix: 'rzM7pDrsU2cBRiNH',
     precache: 'precache',
     runtime: 'runtime-cache'
 });
@@ -17,7 +17,13 @@ workbox.core.skipWaiting()
 workbox.core.clientsClaim()
 
 // let Workbox handle our precache list
-workbox.precaching.precacheAndRoute(self.__precacheManifest);
+workbox.precaching.precacheAndRoute(self.__precacheManifest,
+  {
+    // Ignore all URL parameters:
+    // https://developers.google.com/web/tools/workbox/modules/workbox-precaching#ignore_url_parameters
+    ignoreURLParametersMatching: [/.*/]
+  }
+);
 
 // use `networkFirst` strategy for `*.html`, like all my posts
 workbox.routing.registerRoute(
