@@ -16,7 +16,7 @@ n'ai abouti qu'à une seule conclusion logique :
 {% capture cap %}Les féés existent, et elles se font payer des
 <span lang="en">royalties</span>.{% endcapture %}
 {% include video_as_a_gif.html.liquid
-url="/assets/image/papa/2016-01-25/1"
+url="/assets/images/papa/2016-01-25/1"
 alt="Gros plan sur le visage de la fée clochette, visiblement en colère"
 caption=cap
 %}

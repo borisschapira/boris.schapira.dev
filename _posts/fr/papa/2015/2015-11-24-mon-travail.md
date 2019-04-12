@@ -24,7 +24,7 @@ de deux ans 1/2.
 > — Ah ben oui !
 
 {% include video_as_a_gif.html.liquid
-url="/assets/image/papa/2015-11-24/1"
+url="/assets/images/papa/2015-11-24/1"
 alt="Gif animé présentant Mal, le héros de la série Firefly en train d'hésiter à intervenir dans une conversation"
 caption="Euh… non, rien."
 %}
