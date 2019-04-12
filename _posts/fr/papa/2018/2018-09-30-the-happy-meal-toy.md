@@ -65,6 +65,6 @@ caption=caption_text
 > faim.
 
 Sur ce, satisfait, il leur lance un "Bonne soirée !" et me prend la main, signe
-qu'il a finit et est prêt à partir. Nous avons rejoint notre véhicule et sommes
+qu'il a fini et est prêt à partir. Nous avons rejoint notre véhicule et sommes
 rentrés à la maison. Je crois que j'ai entendu la jeune femme rire à gorge
-déployée jusqu'à ce qu'on quitte le parking.
+déployée jusqu'à ce qu'on quitte le parking.<>

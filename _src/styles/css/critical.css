@@ -1020,6 +1020,7 @@ html {
 .nav-header label,
 .nav-footer a,
 .nav-footer label {
+  cursor: pointer;
   color: var(--color-compliment-text); }
   .nav-header a:hover,
   .nav-header label:hover,

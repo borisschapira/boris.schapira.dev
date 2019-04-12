@@ -97,6 +97,7 @@ html {
 .nav-footer {
   a,
   label {
+    cursor: pointer;
     color: var(--color-compliment-text);
 
     &:hover {

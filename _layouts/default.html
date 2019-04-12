@@ -197,9 +197,6 @@ layout: microtypo
       </header>
       <h1 class="page-title">{{ page.title }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>
       <section class="container{% if page.layout=='post' or page.layout=='page' or page.layout=='conf' %} full-width-content{% endif %}">
-        {% if page.layout=='post' and page.prev_context %}
-          <div class="nav-arrow previous"><a href="{{page.prev_context.url}}" title="{{ page.prev_context.title }}"><span class="sr-only">{{ "Précédent :" | t: page.locale }}</span><span aria-hidden="true">&#8672;</span></a></div>
-        {% endif %}
         <div class="content" role="main" id="main">
           {{ content }}
           
@@ -300,6 +297,9 @@ layout: microtypo
           {% endif %}
         {% endif %}
         </div>
+        {% if page.layout=='post' and page.prev_context %}
+          <div class="nav-arrow prev"><a href="{{page.prev_context.url}}" title="{{ page.prev_context.title }}"><span class="sr-only">{{ "Précédent :" | t: page.locale }}</span><span aria-hidden="true">&#8672;</span></a></div>
+        {% endif %}
         {% if page.layout=='post' and page.next_context %}
           <div class="nav-arrow next"><a href="{{page.next_context.url}}" title="{{ page.next_context.title }}"><span class="sr-only">{{ "Suivant :" | t: page.locale }}</span><span aria-hidden="true">&#8674;</span></a>
         {% endif %}
