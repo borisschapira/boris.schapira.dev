@@ -32,8 +32,8 @@ GIT
 
 GIT
   remote: https://github.com/borisschapira/jekyll-pwa
-  revision: 8c82bab670e1bd9758a30f88d4dcb37cde67bf79
-  branch: workbox-4.2.0
+  revision: 16a9842d17f9631730a0145664737464dbd98c12
+  branch: workbox-4.3.0
   specs:
     jekyll-pwa-plugin (2.1.1)
 
