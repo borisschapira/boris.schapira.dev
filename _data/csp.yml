@@ -146,6 +146,8 @@
       comment: "Algolia – for search"
     - value: "cdn.jsdelivr.net"
       comment: "required by Algolia – for search"
+    - value: "analytics.schapira.dev"
+      comment: "Matomo analytics"
 - name: font-src
   values:
     - value: "'self'"
