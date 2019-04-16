@@ -101,7 +101,7 @@
       comment: "Google user contents (for maps)"
     - value: "analytics.schapira.dev"
       comment: "Matomo analytics"
-- name: child-src
+- name: frame-src
   values:
     - value: "'self'"
       comment: "This domain"
@@ -111,29 +111,20 @@
       comment: "Video from Youtube, without cookies set"
     - value: "*.dailymotion.com"
       comment: "Video from dailymotion"
-    - value: "open.spotify.com embed.spotify.com"
+    - value: "*.twitter.com"
+      comment: "Twitter"
+    - value: "*.spotify.com"
       comment: "Players from Spotify"
+    - value: "www.instagram.com"
+    - value: "www.slideshare.net"
+    - value: "fusiontables.googleusercontent.com"
+    - value: "fusiontables.google.com"
     - value: "static01.nyt.com"
       comment: "NYT videos"
     - value: "bandcamp.com"
       comment: "Bandcamp songs"
-    - value: "platform.twitter.com syndication.twitter.com"
-      comment: "Twitter"
     - value: "www.google.com"
       comment: "Google"
-- name: frame-src
-  values:
-    - value: "*.vimeo.com"
-    - value: "www.instagram.com"
-    - value: "www.slideshare.net"
-    - value: "twitter.com"
-    - value: "fusiontables.googleusercontent.com"
-    - value: "fusiontables.google.com"
-    - value: "www.google.com"
-    - value: "disqus.com"
-    - value: "www.youtube-nocookie.com"
-    - value: "syndication.twitter.com"
-    - value: "platform.twitter.com"
 - name: frame-ancestors
   values:
     - value: "'self'"
