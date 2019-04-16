@@ -1,13 +1,13 @@
 // service-worker.js
 
 workbox.setConfig({
-  debug: true
+  debug: false
 });
 
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
     prefix: 'boris-schapira-dev',
-    suffix: 'rzM7pDrsU2cBRiNH',
+    suffix: 'Cue02eKaIPDJHQs',
     precache: 'precache',
     runtime: 'runtime-cache'
 });

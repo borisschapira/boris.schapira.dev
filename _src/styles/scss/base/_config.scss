@@ -39,16 +39,17 @@ $default-line-height: 1.7;
 $font-weight-normal: 400;
 $font-weight-bold: 700;
 
-$default-font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+$default-font-family: "PT Serif", Georgia, Cambria, "Times New Roman", Times,
+  serif;
 $default-font-weight: $font-weight-normal;
 $default-font-style: normal;
 
-$title-font-family: "PT Serif", serif;
+$title-font-family: $default-font-family;
 $title-font-weight: $font-weight-bold;
 $title-font-style: normal;
 $title-line-height: 1.2;
 
-$button-font-family: "PT Serif", serif; //'PT Sans',Helvetica,Arial,sans-serif;
+$button-font-family: $default-font-family;
 $button-font-weight: $font-weight-normal;
 $button-font-style: normal;
 $button-line-height: 1.2;
