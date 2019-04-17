@@ -7,7 +7,7 @@ tags:
     - 'Performance Web'
 cloudinary_logo: dareboost-logo
 slug: hsts-ensure-secured-connections
-last_modified: '2017-10-16'
+last_modified_at: '2017-10-16'
 ---
 
 Our regular readers [of the Dareboost blog](https://blog.dareboost.com/en/)

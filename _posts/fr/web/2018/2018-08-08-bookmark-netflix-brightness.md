@@ -4,7 +4,7 @@ i18n-key: bookmark-netflix-brightness
 tags:
     - Netflix
 slug: bookmark-netflix-luminosite
-last_modified: '2019-04-18'
+last_modified_at: '2019-04-18'
 ---
 
 Mes enfants sont en vacances chez leurs grand-mères, ce qui me laisse beaucoup

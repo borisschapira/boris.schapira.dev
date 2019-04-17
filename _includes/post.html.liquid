@@ -22,7 +22,7 @@
     "@type":"BlogPosting",
     "@id": "{{ include.post.url | absolute_url }}",
     "datePublished":"{{ datetime }}",
-    "dateModified":"{% if include.post.last_modified %}{{ include.post.last_modified }}{% else %}{{ datetime }}{% endif %}",
+    "dateModified":"{% if include.post.last_modified_at %}{{ include.post.last_modified_at }}{% else %}{{ datetime }}{% endif %}",
     "name":"{{ include.post.title }}",
     "headline":"{{ page.social.description }}",
     "author": {
