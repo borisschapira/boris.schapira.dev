@@ -3,17 +3,18 @@ title: 'Netflix: how to increase video brightness'
 i18n-key: bookmark-netflix-brightness
 tags:
     - Netflix
+last_modified: '2019-04-18'
 ---
 
 My kids are on vacation with their grandmothers, which leaves me a lot of free
 time to binge-watch TV shows on Netflix. Except I often get the impression that
-the Netflix videos are darker than they ought to be, aren't they?
+the Netflix videos are too dark, or at least darker than they ought to be, aren't they?
 
 <!-- more -->
 
 So, between a PS4 game[^ps4] and a novel chapter[^lire] (because there's a life
-outside Netflix), I made a little bookmarklet that increases the brightness of
-the current video by 50%. To use it:
+outside Netflix), I made a little bookmarklet that brightens the videos of the
+current page. To use it:
 
 [^ps4]:
 
@@ -33,10 +34,9 @@ the current video by 50%. To use it:
 
 Click and drag the following link in your bookmarks bar :
 
-<!-- nomicrotypo --><a href="javascript:(function(){[...document.getElementsByTagName('video')].forEach(function(video){video.setAttribute('style',video.getAttribute('style')%7C%7C''+'filter: brightness(150%);');})})()" title="Increase Video Brightness">Netflix☀️</a><!-- endnomicrotypo -->
+<!-- nomicrotypo --><a href="javascript:(function(){var a=prompt("Video brightness?","100%");a=/^\d+(\.\d+)?%$/.test(a)?a:"100%";Array.from(document.getElementsByTagName("video")).forEach(function(b){b.setAttribute("style",b.getAttribute("style")+"filter: brightness("+a+");")})})();" title="Manage Video Brightness">☀️</a><!-- endnomicrotypo -->
 
-Then go to Netflix, launch your favorite series or movie and click on
-"Netflix☀️"!
+Then go to Netflix, launch your favorite series or movie and click on "☀️"!
 
 {% include video_as_a_gif.html.liquid
 url="/assets/images/2018-08-08/joker"
@@ -46,9 +46,11 @@ alt="The Joker is clapping."
 Please note that this bookmarklet should work widely, not just on Netflix. One
 click on the bookmarklet and your browser will increase the brightness of all
 the videos on the current page, provided that the page itself does not
-[prevent style injection with a Content-Security-Policy](https://blog.dareboost.com/en/2016/08/content-security-policy-secure-your-website)
-(it won't work on this blog, for example).
+[prevent style injection with a Content-Security-Policy](https://blog.dareboost.com/en/2016/08/content-security-policy-secure-your-website).
 
 I tested on Firefox and Chrome, latest versions, on Mac. I will not go any
 further, nor will I provide support. Consider this snippet of code as being
 under [WTFPL license](https://en.wikipedia.org/wiki/WTFPL).
+
+<ins datetime="2019-04-18">In a hurry? There is also a bookmark to
+[speed up your Netflix video](/2019/04/bookmark-netflix-speed/) ?</ins>

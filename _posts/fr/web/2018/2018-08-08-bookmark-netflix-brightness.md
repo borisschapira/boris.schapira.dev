@@ -4,6 +4,7 @@ i18n-key: bookmark-netflix-brightness
 tags:
     - Netflix
 slug: bookmark-netflix-luminosite
+last_modified: '2019-04-18'
 ---
 
 Mes enfants sont en vacances chez leurs grand-mères, ce qui me laisse beaucoup
@@ -14,7 +15,7 @@ que sur Netflix, l'image est souvent trop sombre. Pas vous ?
 
 Du coup, entre une partie de PS4[^ps4] et un chapitre de roman[^lire] (parce
 qu'il y a une vie en dehors de Netflix), j'ai préparé un petit bookmarklet qui
-augmente la luminosité de la vidéo en cours de 50 %. Pour en profiter :
+augmente la luminosité des vidéos de la page courante. Pour en profiter :
 
 [^ps4]:
 
@@ -36,10 +37,10 @@ augmente la luminosité de la vidéo en cours de 50 %. Pour en profiter :
 
 Cliquez-glissez le lien suivant dans votre barre de favoris :
 
-<!-- nomicrotypo --><a href="javascript:(function(){[...document.getElementsByTagName('video')].forEach(function(video){video.setAttribute('style',video.getAttribute('style')%7C%7C''+'filter: brightness(150%);');})})()" title="Increase Video Brightness">Netflix☀️</a><!-- endnomicrotypo -->
+<!-- nomicrotypo --><a href="javascript:(function(){var a=prompt("Video brightness?","100%");a=/^\d+(\.\d+)?%$/.test(a)?a:"100%";Array.from(document.getElementsByTagName("video")).forEach(function(b){b.setAttribute("style",b.getAttribute("style")+"filter: brightness("+a+");")})})();" title="Gérer la luminosité des vidéos">☀️</a><!-- endnomicrotypo -->
 
 Ensuite rendez-vous sur Netflix, lancez votre série ou film préféré et cliquez
-sur "Netflix☀️" !
+sur "☀️" !
 
 {% include video_as_a_gif.html.liquid
 url="/assets/images/2018-08-08/joker"
@@ -49,9 +50,11 @@ alt="Le Joker applaudit"
 Notez que cela doit marcher un peu partout, pas que sur Netflix. Un clic sur le
 bookmarklet et votre navigateur augmentera la luminosité de toutes les vidéos
 présentes sur la page, à condition que la page
-[ne verrouille pas les injections de style à l'aide d'une Content-Security-Policy](https://blog.dareboost.com/fr/2016/08/content-security-policy-securiser-site-web-xss/)
-(ça ne marche pas sur ce blog, par exemple).
+[ne verrouille pas les injections de style à l'aide d'une Content-Security-Policy](https://blog.dareboost.com/fr/2016/08/content-security-policy-securiser-site-web-xss/).
 
 J'ai testé sur Firefox et Chrome, dernières versions, sur Mac. Je n'irai pas
 plus loin et n'assurerai pas le support ; considérez ce petit bout de code comme
 étant sous [licence WTFPL](https://fr.wikipedia.org/wiki/WTFPL).
+
+<ins datetime="2019-04-18">Pressé·e ? Il y a aussi un bookmark pour
+[accélerer votre vidéo Netflix](/2019/04/bookmark-netflix-vitesse/) ?</ins>
