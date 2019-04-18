@@ -13,6 +13,7 @@ events:
     - name: 'Paris Web 2017'
       url: https://www.paris-web.fr/2017/
       date: 2017-10-06
+last_modified_at: 2017-10-06
 ---
 
 J'avais envie de proposer quelque chose d'humoristique, sur la base d'un

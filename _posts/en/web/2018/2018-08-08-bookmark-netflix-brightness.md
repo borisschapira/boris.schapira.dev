@@ -8,7 +8,8 @@ last_modified_at: '2019-04-18'
 
 My kids are on vacation with their grandmothers, which leaves me a lot of free
 time to binge-watch TV shows on Netflix. Except I often get the impression that
-the Netflix videos are too dark, or at least darker than they ought to be, aren't they?
+the Netflix videos are too dark, or at least darker than they ought to be,
+aren't they?
 
 <!-- more -->
 

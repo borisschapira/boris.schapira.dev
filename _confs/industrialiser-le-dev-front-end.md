@@ -11,6 +11,7 @@ events:
     - name: 'Bdx.IO 2015'
       url: https://www.bdx.io/
       date: 2015-10-16
+last_modified_at: 2015-10-16
 ---
 
 Transcription de mon <em lang="en">lightning talk</em> pour Bdx.io 2015 pour les

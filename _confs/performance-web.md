@@ -16,6 +16,7 @@ last_date: 2012-05-25
 events:
     - name: 'Sud Web 2012'
       date: 2012-05-25
+last_modified_at: 2012-05-25
 ---
 
 {% include media/vimeo.html.liquid id="56931059" title="Mettre en place une strat&eacute;gie de performance web, Boris Shapira - Sud Web 2012" %}

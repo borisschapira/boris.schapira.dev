@@ -25,6 +25,7 @@ events:
     - name: 'SEOCamp Day Lyon 2018'
       url: https://www.seo-camp.org/evenement/seo-campus-lyon-2018/
       date: 2018-06-06
+last_modified_at: 2019-03-23
 ---
 
 Les slides du

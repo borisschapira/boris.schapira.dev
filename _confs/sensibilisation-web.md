@@ -8,6 +8,7 @@ description: >-
     d'une quinzaine de problématiques dans lesquelles piocher, je vous propose
     de monter des ateliers d'échanges et d'information pour mieux sensibiliser
     aux usages d'Internet.
+last_modified_at: 2017-01-01
 ---
 
 <!-- @format -->

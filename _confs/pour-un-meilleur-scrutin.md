@@ -11,6 +11,7 @@ events:
     - name: 'Site Web'
       url: https://pour-un-meilleur-scrutin.fr/
       date: 2017-04-01
+last_modified_at: 2017-04-01
 ---
 
 _Une fois n'est pas coutume, il ne s'agit pas d'une conférence mais de la

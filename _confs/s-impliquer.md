@@ -18,6 +18,7 @@ description: >-
     faillible. Qu'il s'agisse de la Direction ou des salariés, tout le monde a
     des biais d'interprétation qui ne peuvent se corriger que d'une seule façon
     : la formation, et le dialogue.
+last_modified_at: 2017-04-01
 ---
 
 ## Voir aussi

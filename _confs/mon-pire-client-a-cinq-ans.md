@@ -16,6 +16,7 @@ events:
     - name: 'Agile Tour Bordeaux 2016'
       url: http://agiletourbordeaux.fr/
       date: 2016-10-28
+last_modified_at: 2016-10-28
 ---
 
 {% include media/vimeo.html.liquid id="170005229" title="Mon pire client a 5 ans - Boris Schapira - Sud Web 2016" %}

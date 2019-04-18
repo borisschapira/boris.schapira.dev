@@ -10,6 +10,7 @@ events:
     - name: 'Sud Web 2014'
       url: https://sudweb.fr/2014/
       date: 2014-05-16
+last_modified_at: 2014-05-16
 ---
 
 _Une génèse de ce Lightning Talk est disponible
