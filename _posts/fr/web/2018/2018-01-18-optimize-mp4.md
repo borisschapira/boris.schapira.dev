@@ -208,7 +208,7 @@ ffmpeg -i origin.mp4 -acodec copy -vcodec copy -movflags faststart fast_start.mp
 ```
 
 Si vous voulez en savoir plus sur l'atome `moov`, ne manquez pas
-"[Understanding the MPEG-4 Movie Atom (EN)](http://www.adobe.com/devnet/video/articles/mp4_movie_atom.html)"
+"[Understanding the MPEG-4 Movie Atom (EN)](https://www.adobe.com/devnet/video/articles/mp4_movie_atom.html)"
 de Maxim Levkov.
 
 ## Des sources multiples pour une performance ciblée

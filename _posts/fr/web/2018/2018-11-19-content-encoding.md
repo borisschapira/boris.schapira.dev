@@ -37,7 +37,7 @@ transcription sans ambiguïté de la langue japonaise.
 {% capture img_alt %}Hiraganas{% endcapture %} {% capture img_caption %}Tableau
 montrant le sens d'écriture des hiraganas  
 par Karine WIDMER
-([CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/) ·
+([CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/) ·
 [Source](https://commons.wikimedia.org/wiki/File:Table_hiragana.svg)){% endcapture %}
 {% include rwd-image.html.liquid
 path="/assets/images/2018-11-16/hiragana.png"

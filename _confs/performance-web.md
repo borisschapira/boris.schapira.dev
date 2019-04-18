@@ -76,8 +76,8 @@ la peine de réinventer la roue, vous pouvez utiliser des outils publics, souven
 gratuits et en ligne comme :
 
 -   pour l’analyse de Waterfall :
-    [WebPageTest.org](http://www.webpagetest.org/),
-    [Pingdom Tools](http://tools.pingdom.com/fpt/)
+    [WebPageTest.org](https://www.webpagetest.org/),
+    [Pingdom Tools](https://tools.pingdom.com/fpt/)
 -   pour le respect des bonnes pratiques :
     [Dareboost](https://www.dareboost.com/ 'Analyse de site Web, Test de Performance et Audit qualité - DareBoost'),
     [Page Speed Online](https://developers.google.com/speed/pagespeed/insights/),
@@ -106,7 +106,7 @@ autre en bénéficiant.
 Mais tout n’est pas rose : grâce aux indicateurs que vous avez mis en place,
 vous détectez des problèmes qui passaient inaperçus jusqu’à présent, dans la
 jungle des autres problèmes. Et dans la pure logique
-"[Shooting The Messenger](http://en.wikipedia.org/wiki/Shooting_the_messenger)",
+"[Shooting The Messenger](https://en.wikipedia.org/wiki/Shooting_the_messenger)",
 vous serez souvent rendu responsable de ne pas avoir déjà corrigé tous ces
 problèmes. La situation, qui semble assez positive, peut rapidement se retourner
 contre vous si vous vous retrouvez submergé par la tâche, ou si ne vous savez
@@ -152,10 +152,7 @@ d’automatiser l’utilisation des mêmes outils que précédemment. Plutôt qu
 lancer vos analyses WebPageTest à la main, vous passez désormais par leur
 [API REST](https://sites.google.com/a/webpagetest.org/docs/advanced-features/webpagetest-restful-apis),
 et vous pouvez également imaginer le téléchargement et traitement des résultats
-HAR applicativement, pour générer une levée d’alerte automatique. Autres
-solutions possibles, utiliser [WPT Monitor](http://www.wptmonitor.org/) ou une
-instance privée d’[HttpArchive.org](http://httparchive.org/), qui fournissent
-tous deux des services similaires. Si vous n'avez pas envie de déployer une
+HAR applicativement, pour générer une levée d’alerte automatique. Vous pouvez aussi déployer votre propre instance de WebPageTest, mais alors vous ne disposerez que d'une sonde (à multiplier suivant vos besoins, et les coûts de maintenance qui en découlent). Si vous n'avez pas envie de déployer une
 usine à gaz,
 [Dareboost](https://www.dareboost.com/ 'Analyse de site Web, Test de Performance et Audit qualité - DareBoost')
 fournira le même service en mode
@@ -169,10 +166,10 @@ la façon d’un Focus Group), ou de mesures réalisées en JavaScript et renvoy
 vos serveurs ou à un service externe.
 
 On peut citer, dans ce domaine :
-[Gomez RUM](http://www.compuware.com/en_us/application-performance-management/products/user-experience-management/real-user-monitoring-enterprise.html),
-[Google Analytics](http://www.google.com/intl/fr/analytics/),[Boomerang](http://www.lognormal.com/boomerang/doc/),
-[New Relic RUM](http://newrelic.com/browser-monitoring),
-[Episodes 2](http://stevesouders.com/episodes2/)…
+[Gomez RUM](https://www.compuware.com/en_us/application-performance-management/products/user-experience-management/real-user-monitoring-enterprise.html),
+[Google Analytics](https://analytics.google.com/analytics/web/),[Boomerang](https://www.lognormal.com/boomerang/doc/),
+[New Relic RUM](https://newrelic.com/browser-monitoring),
+[Episodes 2](https://stevesouders.com/episodes2/)…
 
 L’avantage est évident : vous n’êtes plus dans un contexte de test provoqué,
 mais bien dans une visualisation de l’expérience réelle de vos visiteurs, qui

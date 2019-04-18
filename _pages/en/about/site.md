@@ -16,7 +16,7 @@ individual.
 
 If you wish to copy, modify or redistribute certain content, you must comply
 with the terms of the
-[creative commons CC-BY license](http://creativecommons.org/licenses/by/3.0/).
+[creative commons CC-BY license](https://creativecommons.org/licenses/by/3.0/).
 
 ## Under the hood
 

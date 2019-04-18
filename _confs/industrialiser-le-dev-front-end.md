@@ -17,7 +17,7 @@ last_modified_at: 2015-10-16
 Transcription de mon <em lang="en">lightning talk</em> pour Bdx.io 2015 pour les
 absents, les malentendants ou les gens qui s'ennuient !
 
--   [Slides](http://www.slideshare.net/bschapira/industrialiser-le-dev-front-end-54151018)
+-   [Slides](https://www.slideshare.net/bschapira/industrialiser-le-dev-front-end-54151018)
 -   [Site officiel de Bdx.io](https://www.bdx.io/)
 
 <!-- more -->
@@ -89,7 +89,7 @@ Components viendront tout écraser sur leur passage (quoi, on peut rêver non ?)
 
     Ce qui n'est pas la même chose, même si les deux métiers sont concernés par
     ce que j'ai à dire (pour plus d'infos, voir
-    [cet article de Marie Guillaumet](http://marieguillaumet.com/les-mots-qui-fachent-2-integrateur-web-vs-developpeur-front-end/)).
+    [cet article de Marie Guillaumet](https://marieguillaumet.com/les-mots-qui-fachent-2-integrateur-web-vs-developpeur-front-end/)).
 
 Bref, développer des pages et/ou des applications Web en 2015, c'est une
 compétence d'artisan, un savoir qui se partage mais que peu peuvent se targuer
@@ -229,8 +229,8 @@ End. Analyser les compétences en interne. Vous avez probablement déjà des
 sensibilités sur le sujet, des personnes qui ont déjà essayé certaines
 solutions. Si ce n'est pas le cas, le passage de Node.js en
 <abbr lang="en" title="Long Time Support">LTS</abbr> est une bonne occasion de
-partir dans cette direction avec par exemple [Yeoman](http://yeoman.io/) ou
-[Brunch](http://brunch.io/) (respectivement pour les intégrateurs et les
+partir dans cette direction avec par exemple [Yeoman](https://yeoman.io/) ou
+[Brunch](https://brunch.io/) (respectivement pour les intégrateurs et les
 développeurs Front End). Utilisez, critiquez, itérez et construisez votre propre
 industrialisation, celle qui correspond à vos pratiques et valorisent vos
 savoir-faire.

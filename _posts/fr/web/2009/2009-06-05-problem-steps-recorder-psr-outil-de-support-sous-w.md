@@ -29,7 +29,7 @@ Windows Seven à propos d’une erreur dans une de vos applications. Mais PSR ne
 limite pas à cette utilisation, puisque les fonctionnalités décrites peuvent
 également servir à la rédaction d’une documentation ou d’un guide d’utilisation,
 voire même d’une
-[recette utilisateur](<http://fr.wikipedia.org/wiki/Recette_(informatique)#La_Recette_Utilisateur.2C_VA_ou_VABF>)
+[recette utilisateur](<https://fr.wikipedia.org/wiki/Recette_(informatique)#La_Recette_Utilisateur.2C_VA_ou_VABF>)
 !
 
 C’est toujours très excitant de voir un nouveau système d’exploitation arriver

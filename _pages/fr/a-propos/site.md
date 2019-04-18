@@ -16,7 +16,7 @@ physique ou morale.
 
 Si vous souhaitez copier, modifier ou redistribuer certains contenus, vous devez
 respecter les termes de la
-[licence creative commons CC-BY](http://creativecommons.org/licenses/by/3.0/fr/).
+[licence creative commons CC-BY](https://creativecommons.org/licenses/by/3.0/fr/).
 
 ## Sous le capot
 

@@ -74,7 +74,7 @@ cases.
 L'objectif de cette phase est de vérifier que votre idée de projet est complète,
 c’est-à-dire qu’elle n’omet aucune des grandes questions que vous devriez vous
 poser. Prenons l'exemple du
-[Lean Canvas](http://leanstack.com/ 'Business Model Canvas Optimized for Lean Startup ", Lean Canvas'),
+[Lean Canvas](https://leanstack.com/ 'Business Model Canvas Optimized for Lean Startup ", Lean Canvas'),
 déjà
 [présenté par Camille Roux lors de Sud Web 2012](https://vimeo.com/53160076 '"Testez votre idée en quelques heures", Camille Roux ", Sud Web 2012')&nbsp;:
 il vous propose des définir votre projet au travers de grands axes&nbsp;: vos
@@ -112,7 +112,7 @@ chaque cible, il vous faudra donc adapter la complexité et la durée, en ciblan
 Ici aussi, des outils méthodologiques existent. Par exemple, pour faciliter la
 présentation d'un contexte complexe, vous pouvez utiliser une carte systémique
 comme
-[ici celle de Flickr](http://www.servicedesigntools.org/tools/28 'Carte Systémique de Flickr sur ServiceDesignTools.org').
+[ici celle de Flickr](https://www.servicedesigntools.org/tools/28 'Carte Systémique de Flickr sur ServiceDesignTools.org').
 
 ## Beaucoup d'efforts&nbsp;!
 

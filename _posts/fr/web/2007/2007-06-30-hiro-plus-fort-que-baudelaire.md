@@ -15,7 +15,7 @@ déferler sur les pauvres français qui ne s'attendent pas encore à ce
 raz-de-marée.
 
 Pour justifier le titre&nbsp;: l'article sur le personnage fictif de
-[Hiro Nakamura](http://en.wikipedia.org/wiki/Hiro_Nakamura) dans Wikipédia est
+[Hiro Nakamura](https://en.wikipedia.org/wiki/Hiro_Nakamura) dans Wikipédia est
 plus long que celui sur cet inconnu de
 [Charles Baudelaire](https://fr.wikipedia.org/wiki/Charles_Baudelaire)…
 décidément, tout se perd…

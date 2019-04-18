@@ -127,9 +127,9 @@ souvent écrits avec une syntaxe légère comme
 responsabilité de la conversion en HTML est attribuée à la fois à un moteur de
 templating (Liquid, Go Template, Nunjucks) - responsable de la logique - et à un
 moteur de rendu ([kramdown](https://kramdown.gettalong.org/),
-[commonmark](http://commonmark.org/),
+[commonmark](https://commonmark.org/),
 [blackfriday](https://github.com/russross/blackfriday),
-[Asciidoctor](http://asciidoctor.org/...)) responsable de la transformation du
+[Asciidoctor](https://asciidoctor.org/)…) responsable de la transformation du
 balisage en HTML. Les SSG ne sont rien de plus que les orchestrateurs techniques
 de la génération du site web. Par conséquent, ils sont principalement un terrain
 de jeu pour les développeurs front-end qui en connaissent les rouages.
@@ -149,7 +149,7 @@ Un CMS Headless est constitué :
 >     Chris Coyier</cite>
 
 Et vous pouvez fabriquer des CMS Headless à partir de vos solutions habituelles.
-Wordpress, par exemple, a une [API REST](http://v2.wp-api.org/). Côté Drupal, il
+Wordpress, par exemple, a une [API REST](https://developer.wordpress.org/rest-api/). Côté Drupal, il
 y a tout un [groupe de travail](https://groups.drupal.org/headless-drupal) qui
 travaille sur le Headless. Là encore, le marché est en plein essor avec de
 nombreux nouveaux [logiciels et services](https://www.headlesscms.org/).

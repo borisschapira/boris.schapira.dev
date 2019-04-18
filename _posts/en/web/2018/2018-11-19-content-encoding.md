@@ -36,7 +36,7 @@ system intended for the unambiguous transcription of the Japanese language.
 
 {% capture img_alt %}Hiraganas{% endcapture %} {% capture img_caption %}Table
 showing the writing direction of hiraganas  
-by Karine WIDMER ([CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+by Karine WIDMER ([CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 ·
 [Source](https://commons.wikimedia.org/wiki/File:Table_hiragana.svg)){% endcapture %}
 {% include rwd-image.html.liquid
@@ -204,7 +204,7 @@ charset_types text/html text/css application/javascript
 
 Of course, you can also configure the `Content-Type` HTTP header from your
 server-side scripting code. For example, in **PHP**, you can use
-[the header() network function](http://php.net/manual/en/function.header.php).
+[the header() network function](https://php.net/manual/en/function.header.php).
 Don’t forget to define the Media Type (or MIME type) of the body of the
 response, in addition to the character set.
 

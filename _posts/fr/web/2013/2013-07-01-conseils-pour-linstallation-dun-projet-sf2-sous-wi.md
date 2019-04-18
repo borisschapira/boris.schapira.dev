@@ -39,7 +39,7 @@ Voici les points de vigilance&nbsp;:
 En effet, de nombreux forums répondront tout simplement&nbsp;: "t'es sous
 Windows, il n'y a pas de liens symboliques", ce qui est faux depuis Windows
 Vista (qui introduit le
-[lien symbolique dans NTFS](http://en.wikipedia.org/wiki/NTFS_symbolic_link 'NTFS Symbolic Link on Wikipedia'))
+[lien symbolique dans NTFS](https://en.wikipedia.org/wiki/NTFS_symbolic_link 'NTFS Symbolic Link on Wikipedia'))
  et ne faisait pas avancer mon problème. D'autres parlaient de faire tourner
 l'exécutable PHP en mode de compatibilité XP. Cela ne fonctionnait pas davantage
 et pour cause, en réalité, c'est PHP 5.3.0 qui régresse sur cette fonction, et

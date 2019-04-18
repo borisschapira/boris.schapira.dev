@@ -111,9 +111,9 @@ syntax like [Markdown](https://daringfireball.net/projects/markdown/) or
 Asciidoc. The responsibility for the conversion to HTML is assigned to both a
 templating engine (Liquid, Go Template, Nunjucks) – responsible for the logic –
 and a converter ([kramdown](https://kramdown.gettalong.org/),
-[commonmark](http://commonmark.org/),
+[commonmark](https://commonmark.org/),
 [blackfriday](https://github.com/russross/blackfriday),
-[Asciidoctor](http://asciidoctor.org/)…) responsible for transforming the markup
+[Asciidoctor](https://asciidoctor.org/)…) responsible for transforming the markup
 into HTML. SSGs are nothing more than the technical orchestrators of the
 website's generation and, therefore, are mainly a playground for front-end
 developers who know how they tick.
@@ -130,7 +130,7 @@ Headless CMS are:
 > Chris Coyier</cite>
 
 And they can often be obtained by using your usual systems. Wordpress, for
-instance, has a [REST API](http://v2.wp-api.org/). Drupal has a whole
+instance, has a [REST API](https://developer.wordpress.org/rest-api/). Drupal has a whole
 [working group](https://groups.drupal.org/headless-drupal) working on Headless.
 However, here again, the market is booming with
 [software and services](https://www.headlesscms.org/).

@@ -10,7 +10,7 @@ Quelques jours à peine après la divulgation par Microsoft de son projet
 que la technologie impliquée n'est pas une propriété exclusive de l'éditeur. En
 effet, en cherchant un peu, on trouve de nombreux projets similaires chez
 d'autres grands labos de recherche, comme par exemple le Mitsubishi Electric
-Research Lab et sa [DiamondTouch](http://en.wikipedia.org/wiki/DiamondTouch).
+Research Lab et sa [DiamondTouch](https://en.wikipedia.org/wiki/DiamondTouch).
 
 <!-- more -->
 

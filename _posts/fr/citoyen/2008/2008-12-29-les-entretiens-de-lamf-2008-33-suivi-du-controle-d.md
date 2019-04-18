@@ -24,7 +24,7 @@ Une définition objective consiste à dénombrer les titres possédés par les
 personnes et actionnaires. Mais elle ne prend pas en compte tous les** moyens
 dérivés permettant d'aboutir à un contrôle de fait** de l'entreprise : les
 [options d'achat](https://fr.wikipedia.org/wiki/Call) les
-[equity swaps [en]](http://en.wikipedia.org/wiki/Equity_swap) ou les
+[equity swaps [en]](https://en.wikipedia.org/wiki/Equity_swap) ou les
 [contrats de différence](https://fr.wikipedia.org/wiki/Contrat_de_diff%C3%A9rence)
 sont des exemples d'instruments permettant un contrôle masqué de l'entreprise,
 sans aucune obligation de déclaration de seuil puisque l'actionnaire ne possède

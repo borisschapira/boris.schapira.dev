@@ -40,6 +40,6 @@ niveau d'exigence au profit de la quantité d'information. Est-ce que les
 mécanisme de contrôle sont à la hauteur ?
 
 Comme je le disais dans un précédent article, l'article sur le personnage fictif
-de [Hiro Nakamura](http://en.wikipedia.org/wiki/Hiro_Nakamura) dans Wikipédia
+de [Hiro Nakamura](https://en.wikipedia.org/wiki/Hiro_Nakamura) dans Wikipédia
 est plus long que celui sur
 [Charles Baudelaire](https://fr.wikipedia.org/wiki/Charles_Baudelaire)…
