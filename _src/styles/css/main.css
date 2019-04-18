@@ -23,6 +23,9 @@
   --is-dark-mode: 0;
   --dark-mode-lightup: 15%; }
 
+::selection {
+  background-color: var(--color-selection); }
+
 @media (color-index: 48), (prefers-color-scheme: dark) {
   .color-container {
     --is-dark-mode: 1; } }
@@ -102,6 +105,11 @@ a {
     calc(var(--color-hue) + 180),
     var(--color-saturation),
     calc(var(--color-lightning) + 10% - 20% * var(--is-dark-mode))
+  );
+  --color-selection: hsl(
+    calc(var(--color-hue) + 180),
+    var(--color-saturation),
+    calc(60% - 15% * var(--is-dark-mode))
   );
   --color-main-background: hsl(
     var(--color-hue),
