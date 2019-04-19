@@ -30,6 +30,7 @@
     "pretty:js": "prettier --single-quote es5 --write '_src/scripts/custom/**/*.js'",
     "pretty": "npm run pretty:js && npm run pretty:css",
     "pretty:md": "prettier --tab-width 4 --single-quote --prose-wrap always --write '{,!(vendor)/**/*.md}'",
+    "pretty:md:2019": "prettier --tab-width 4 --single-quote --prose-wrap always --write '{,!(vendor)/**/2019/*.md}'",
     "build:js": "npm run eslint && npm run concat && npm run uglify",
     "build:css": "npm run sass && npm run postcss",
     "build": "npm run vendors && npm run pretty && npm run build:css && npm run build:js",
@@ -47,6 +48,9 @@
     "_src/scripts/custom/**/*.js": [
       "pretty:js",
       "build:js"
+    ],
+    "_posts/**/2019/*.md": [
+      "pretty:md:2019"
     ]
   },
   "config": {
