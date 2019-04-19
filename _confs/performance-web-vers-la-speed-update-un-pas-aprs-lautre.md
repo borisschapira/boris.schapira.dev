@@ -31,7 +31,7 @@ last_modified_at: 2019-03-23
 ## [WordCamp Bordeaux 2019](https://2019.bordeaux.wordcamp.org/session/wp-super-cache-rocket-reloaded-ou-comment-suivre-et-ameliorer-la-performance-web-de-son-site-wordpress-sans-sarracher-les-cheveux/).
 
 <div class="videoWrapper">
-  <iframe width="560" height="315" src="https://videopress.com/embed/a82odk3e" frameborder="0" allowfullscreen></iframe>
+  <iframe loading="lazy" width="560" height="315" src="https://videopress.com/embed/a82odk3e" frameborder="0" allowfullscreen></iframe>
   <script src="https://videopress.com/videopress-iframe.js"></script>
 </div>
 
