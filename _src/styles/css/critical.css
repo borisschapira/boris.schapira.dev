@@ -927,21 +927,25 @@ blockquote,
     margin-top: 1em; }
 
 .inline-note {
-  width: 80vw;
-  margin-left: 50%;
-  transform: translateX(-50%);
   border-left-style: dotted; }
+  @media (min-width: 480px) {
+    .inline-note {
+      width: 80vw;
+      margin-left: 50%;
+      transform: translateX(-50%); } }
   .inline-note strong {
     text-transform: capitalize; }
 
 .canonical {
-  width: 80vw;
-  margin-left: 50%;
-  transform: translateX(-50%);
   display: block;
   padding: 1rem;
   font-style: italic;
   border: 1px dotted var(--color-main); }
+  @media (min-width: 480px) {
+    .canonical {
+      width: 80vw;
+      margin-left: 50%;
+      transform: translateX(-50%); } }
 
 ins {
   padding: 3px;
@@ -1163,15 +1167,16 @@ html {
     background-color: var(--color-main-background);
     border-radius: 50%;
     padding: 0.5rem; }
-    .nav-arrow a:before {
-      content: " ";
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      cursor: pointer;
-      background-color: transparent; }
+    @media (max-width: 480px) {
+      .nav-arrow a:before {
+        content: " ";
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        cursor: pointer;
+        background-color: transparent; } }
   .nav-arrow.prev {
     left: 0; }
   .nav-arrow.next {
@@ -1205,18 +1210,19 @@ html {
     margin-bottom: 1em;
     letter-spacing: 0;
     text-transform: lowercase; }
-  .post .post-content > .videoWrapper {
+
+@media (min-width: 480px) {
+  .post-content > .videoWrapper {
     width: 100vw;
     margin-left: 50%;
-    transform: translateX(-50%); }
+    transform: translateX(-50%); } }
 
 .videoWrapper {
   position: relative;
   height: 0;
   margin: 2em 0;
-  /* 16:9 */
   padding-top: 25px;
-  padding-bottom: 56.25%; }
+  padding-bottom: 70%; }
   .videoWrapper iframe,
   .videoWrapper object,
   .videoWrapper embed {
@@ -1227,21 +1233,25 @@ html {
     height: 100%; }
 
 div.highlighter-rouge {
-  width: 80vw;
-  margin-left: 50%;
-  transform: translateX(-50%);
   border: 1px solid var(--color-main-gray); }
+  @media (min-width: 480px) {
+    div.highlighter-rouge {
+      width: 80vw;
+      margin-left: 50%;
+      transform: translateX(-50%); } }
   div.highlighter-rouge .highlight {
     margin: 0;
     padding: 1rem; }
 
 figure {
   text-align: center;
-  width: 80vw;
-  margin-left: 50%;
-  transform: translateX(-50%);
   /** http://www.24joursdeweb.fr/2015/pseudo-elements-pseudos-mais-puissants/ **/
   /** **/ }
+  @media (min-width: 480px) {
+    figure {
+      width: 80vw;
+      margin-left: 50%;
+      transform: translateX(-50%); } }
   figure > a,
   figure .video-container {
     position: relative;
@@ -1291,13 +1301,15 @@ figure {
     text-align: center; }
 
 table {
-  width: 80vw;
-  margin-left: 50%;
-  transform: translateX(-50%);
   border: solid 1px var(--color-main-text);
   border-collapse: collapse;
   border-spacing: 0;
   color: var(--color-main-text); }
+  @media (min-width: 480px) {
+    table {
+      width: 80vw;
+      margin-left: 50%;
+      transform: translateX(-50%); } }
   table thead th {
     border: solid 1px var(--color-main-text);
     padding: 0.5rem; }

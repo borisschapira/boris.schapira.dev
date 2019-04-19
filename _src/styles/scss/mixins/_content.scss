@@ -1,5 +1,7 @@
 @mixin bleed($width) {
-  width: $width;
-  margin-left: 50%;
-  transform: translateX(-50%);
+  @include media(">=small") {
+    width: $width;
+    margin-left: 50%;
+    transform: translateX(-50%);
+  }
 }

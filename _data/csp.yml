@@ -75,6 +75,8 @@
       comment: "required by Google services, like Maps"
     - value: "www.google.com"
       comment: "required by Google services, like Maps"
+    - value: "https://videopress.com"
+      comment: "Wordpress TV"
 - name: style-src
   values:
     - value: "'self'"
@@ -125,6 +127,8 @@
       comment: "Bandcamp songs"
     - value: "www.google.com"
       comment: "Google"
+    - value: "https://videopress.com"
+      comment: "Wordpress TV"
 - name: frame-ancestors
   values:
     - value: "'self'"

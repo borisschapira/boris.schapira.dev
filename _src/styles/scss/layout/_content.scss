@@ -32,16 +32,19 @@
 
   a {
     line-height: 70vh;
-    &:before {
-      content: " ";
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      cursor: pointer;
-      background-color: transparent;
+    @include media("<=small") {
+      &:before {
+        content: " ";
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        cursor: pointer;
+        background-color: transparent;
+      }
     }
+
     background-color: var(--color-main-background);
     border-radius: 50%;
     padding: 0.5rem;
@@ -100,20 +103,19 @@
       letter-spacing: 0;
       text-transform: lowercase;
     }
-
-    > .videoWrapper {
-      @include bleed(100vw);
-    }
   }
+}
+
+.post-content > .videoWrapper {
+  @include bleed(100vw);
 }
 
 .videoWrapper {
   position: relative;
   height: 0;
   margin: 2em 0;
-  /* 16:9 */
   padding-top: 25px;
-  padding-bottom: 56.25%;
+  padding-bottom: 70%;
 
   iframe,
   object,
