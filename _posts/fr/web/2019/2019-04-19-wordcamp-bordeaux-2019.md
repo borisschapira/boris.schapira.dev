@@ -44,7 +44,7 @@ grande tristesse. J'ai trouvé que la très juste critique du bilan carbone du W
 ne s'accompagnait pas toujours d'une réflexion, qui me semble pourtant utile,
 sur l'évolution des usages qui en sont faits.
 
-Trop eu de gens restèrent pour l'intervention de
+Trop peu de gens restèrent pour l'intervention de
 [l'accessibilité, par Marie Guillaumet](https://wordpress.tv/2019/04/18/marie-guillaumet-8-conseils-pour-rendre-votre-theme-wordpress-plus-accessible/).
 Je préfère me dire que les participant·e·s ont préféré assister à la conférence
 de Daniel Roch sur l'audit de sites Wordpress mais en réalité, je sais qu'il y a
