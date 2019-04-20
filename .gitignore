@@ -6,3 +6,7 @@ _site
 _config_prod.yml
 /node_modules
 /lambda
+/_captures/diff
+/_captures/test
+
+

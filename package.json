@@ -37,7 +37,7 @@
     "lambda:serve": "netlify-lambda serve functions",
     "lambda:build": "netlify-lambda build functions",
     "comments:get": "node ./scripts/get-comments.js",
-    "css:test": "find ./assets/styles/ -name '*.css' -d 1 | xargs -I % purifycss % _site/**/*.html -r %",
+    "test:visual": "mocha --timeout 15000 scripts/visual-regression.js",
     "watch": "npm-scripts-watcher"
   },
   "watch": {
@@ -71,6 +71,7 @@
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^1.1.0",
     "autoprefixer": "^9.2.1",
+    "chai": "^4.2.0",
     "concat-cli": "^4.0.0",
     "csswring": "^7.0.0",
     "dotenv": "^6.1.0",
@@ -81,13 +82,16 @@
     "first-input-delay": "^0.1.3",
     "include-media": "^1.4.9",
     "install": "^0.12.2",
+    "mocha": "^6.1.4",
     "netlify-lambda": "^1.0.3",
     "node-sass": "^4.9.4",
     "normalize-scss": "^7.0.1",
     "npm": "^6.5.0",
+    "pixelmatch": "^4.0.2",
     "postcss": "^7.0.5",
     "postcss-cli": "^6.0.0",
     "prettier": "^1.16.1",
+    "puppeteer": "^1.14.0",
     "uglify-es": "mishoo/UglifyJS2#harmony"
   },
   "dependencies": {
