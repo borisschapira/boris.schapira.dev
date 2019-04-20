@@ -508,7 +508,9 @@ figure {
   margin: 0; }
 
 img {
-  height: auto; }
+  height: auto;
+  max-width: 100%;
+  border: 1px solid var(--color-main-gray); }
 
 svg {
   display: inline-block;
@@ -1282,12 +1284,10 @@ figure {
     opacity: 1; }
   figure picture,
   figure img {
-    max-width: 100%;
     height: auto;
     margin-right: auto;
     margin-bottom: 0;
-    margin-left: auto;
-    border: 1px solid var(--color-main-gray); }
+    margin-left: auto; }
   figure .gallery {
     display: flex; }
     figure .gallery img {

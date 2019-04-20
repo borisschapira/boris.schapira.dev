@@ -45,6 +45,8 @@ figure {
 
 img {
   height: auto;
+  max-width: 100%;
+  border: 1px solid var(--color-main-gray);
 }
 
 svg {
