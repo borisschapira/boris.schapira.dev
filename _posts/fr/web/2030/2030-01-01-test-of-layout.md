@@ -262,12 +262,12 @@ genere, quae prosunt.</ins>
 
 {% capture img_alt %}Deux post-its, comparant l'Agile façon Cargo Cult et les
 vraies livraisons successives{% endcapture %}
-{% capture img_caption %}"<a href="https://www.flickr.com/photos/psd/9588038559" title="Lien vers la photo sur Flickr">Doing
-Agile, being Agile</a>", par
-<a href="https://www.flickr.com/photos/psd/" title="Profil Flickr de Paul Downey">Paul
-Downey</a> —
-<a href="https://creativecommons.org/licenses/by/2.0/" class="photo-license-url" rel="license cc:license" target="_newtab" ><span>Certains
-droits réservés</span></a>{% endcapture %} {% include rwd-image.html.liquid
+{% capture img_caption %}"[Doing
+Agile, being Agile](https://www.flickr.com/photos/psd/9588038559)", par
+[Paul
+Downey](https://www.flickr.com/photos/psd/) —
+[Certains
+droits réservés](https://creativecommons.org/licenses/by/2.0/){% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2017-04-02/doing_vs_being_agile.jpg"
 alt=img_alt
 caption=img_caption
