@@ -158,6 +158,7 @@ exclude:
   - _posts/**/*.ogv
   - boris.schapira.local+3.pem
   - boris.schapira.local+3-key.pem
+  - _captures
 include:
   - ".well-known"
   - "_pages"
