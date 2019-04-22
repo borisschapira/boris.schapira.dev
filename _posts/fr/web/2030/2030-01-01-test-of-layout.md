@@ -4,6 +4,8 @@ subtitle: 'un test de suivi'
 i18n-key: test-of-layout
 tags:
     - Typographie
+    - 'Test of layout'
+serie: 'Test of layout'
 sitemap: false
 norobots: true
 slug: test-typo

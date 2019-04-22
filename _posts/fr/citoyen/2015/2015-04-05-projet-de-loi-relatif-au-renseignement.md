@@ -2,8 +2,8 @@
 title: '«&#160;Projet de Loi relatif au renseignement&#160;»'
 tags:
     - Numérique
-series:
     - 'Loi Renseignement'
+serie: 'Loi Renseignement'
 ---
 
 Ce projet m'inquiète pour de nombreuses raisons qui se résument rapidement

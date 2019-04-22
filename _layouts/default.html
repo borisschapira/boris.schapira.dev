@@ -192,7 +192,9 @@ layout: microtypo
           </ul>
         </nav>
       </header>
-      <h1 class="page-title">{{ page.title }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>
+      <div class="page-title"><h1>{{ page.title }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>{% if page.layout=='post'%}<div class="meta"><time class="dt-published" datetime="{{ datetime }}">{% unless page.locale =='fr' %}{% include date_en.html.liquid postDate=page.date locale=page.locale %}{% else %}{{ page.date | l: '%A %-d', page.locale }} <a href="{{ page.date | l: '%Y/%m/', page.locale | relative_url }}" title="{{ "Articles de" | t: page.locale }} {{ page.date | l: '%B %Y', page.locale }}">{{ page.date | l: '%B', page.locale }}</a> <a href="{{ page.date | l: '%Y/', page.locale | relative_url }}" title="{{ "Articles de" | t: page.locale }} {{ page.date | l: '%Y', page.locale }}">{{ page.date | l: '%Y', page.locale }}</a>{% endunless %}</time>{% if displayCategory %}<span><a href="{{ page.category | t: page.locale | prepend: page.baseurl | relative_url }}/" title="{{ "Articles de" | t: page.locale }} {{ "la catégorie" | t: page.locale }} {{ page.category }}" class="category {% if page.category %}{{page.category}}{% else %}main{% endif %}">{{ page.category | t: page.locale }}</a></span>{% endif %}{% if page.translation %}<span>{% include read_in.html.liquid 
+        locale=page.translation.locale
+        url=page.translation.url %}</span>{% endif %}</div>{% endif %}</div>
       <section class="container{% if page.layout=='post' or page.layout=='page' or page.layout=='conf' %} full-width-content{% endif %}">
         <div class="content" role="main" id="main">
           {{ content }}
@@ -342,6 +344,7 @@ layout: microtypo
           "url": "{{ page.baseurl | absolute_url }}"
       }
     </script>
+    {% unless jekyll.environment == "development" %}
     <!-- Matomo -->
     <script type="text/javascript">
       var _paq = window._paq || [];
@@ -357,4 +360,5 @@ layout: microtypo
       })();
     </script>
     <!-- End Matomo Code -->
+    {% endunless %}
   </body></html>

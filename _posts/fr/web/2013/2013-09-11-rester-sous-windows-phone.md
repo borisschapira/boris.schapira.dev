@@ -3,8 +3,8 @@ title: 'Rester sous Windows Phone…'
 tags:
     - 'Me, myself and I'
     - Mobilité
-series:
     - 'Windows Phone'
+serie: 'Windows Phone'
 ---
 
 Je ne sais plus quoi penser de Windows Phone. J'aime beaucoup la plate-forme,

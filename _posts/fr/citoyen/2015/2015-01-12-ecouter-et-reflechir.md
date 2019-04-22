@@ -2,8 +2,8 @@
 title: 'Ecouter et réfléchir'
 tags:
     - Société
-series:
     - 'Charlie Hebdo'
+serie: 'Charlie Hebdo'
 loadTwitterWjs: true
 ---
 

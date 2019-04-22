@@ -2,7 +2,8 @@
 title: 'Dangers du Net : les PC-Zombies'
 tags:
     - Vulgarisation
-series: 'Dangers du Net'
+    - 'Dangers du Net'
+serie: 'Dangers du Net'
 ---
 
 Depuis que j'ai orienté mes études dans l'informatique, mes amis m'appellent

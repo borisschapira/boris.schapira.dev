@@ -1,5 +1,8 @@
 ---
 title: 'De retour du Wordcamp Bordeaux 2019'
+tags:
+    - Wordpress
+    - Conferences
 ---
 
 Il y a quelques semaines, j'ai participé au

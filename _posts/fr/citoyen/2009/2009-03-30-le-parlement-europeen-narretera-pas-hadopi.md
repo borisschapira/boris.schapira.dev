@@ -2,7 +2,8 @@
 title: "Le Parlement Européen n'arrêtera pas Hadopi"
 tags:
     - Numérique
-series: Hadopi
+    - Hadopi
+serie: Hadopi
 ---
 
 Depuis l'adoption, le 26 mars 2009, du rapport Lambrinidis au Parlement

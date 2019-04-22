@@ -2,7 +2,8 @@
 title: 'Hadopi : les «&#160;Pirates&#160;» ont bon dos'
 tags:
     - Numérique
-series: Hadopi
+    - Hadopi
+serie: Hadopi
 ---
 
 C'est quand même bien pratique, le vocabulaire. Prenez un groupe de gens qui

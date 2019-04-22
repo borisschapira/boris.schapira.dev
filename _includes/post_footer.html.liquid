@@ -3,10 +3,22 @@
 {% capture url %}{{ include.url | absolute_url }}{% endcapture %}
 
 <footer class="post-footer">
+  {% if include.serie %}
+    <div class="serie">
+    <p>{{ 'Cet article fait partie de la série "%s".' | t: include.locale | replace: '%s', include.serie }} {{ "Ne ratez pas ces autres articles :" | t: include.locale }}</p>
+    <ul>
+    {% for p in site.tags[include.serie] %}
+      {% unless p.url==include.url %}
+      <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+      {% endunless %}
+    {% endfor %}
+    </ul>
+    </div>
+  {% endif %}
   <div class="contrib">
     <p>
-      <em>{{ "Si vous détectez une erreur et que vous avez un compte Github" | t: include.locale }}, {{ "vous pouvez proposer une" | t: include.locale }} <a rel="nofollow" href="{{ site.author.github|raw }}/borisschapira.com/tree/master/_posts/{{ include.locale | downcase }}/{{ include.category | downcase }}/{{ include.date | date: "%Y" }}/{{ source.last }}">{{ "modification des" | t: include.locale }} <span class="nowrap">{{ "sources" | t: include.locale }}</span></a>
-      {{ "ou ouvrir un" | t: include.locale }} <a class="nowrap" href="{{ site.author.github|raw }}/borisschapira.com/issues/new?title=Article%20%22{{include.url}}%22" rel="nofollow">{{ "ticket" | t: include.locale }}</a>.</em>
+      {{ "Si vous détectez une erreur et que vous avez un compte Github" | t: include.locale }}, {{ "vous pouvez proposer une" | t: include.locale }} <a rel="nofollow" href="{{ site.author.github|raw }}/borisschapira.com/tree/master/_posts/{{ include.locale | downcase }}/{{ include.category | downcase }}/{{ include.date | date: "%Y" }}/{{ source.last }}">{{ "modification des" | t: include.locale }} <span class="nowrap">{{ "sources" | t: include.locale }}</span></a>
+      {{ "ou ouvrir un" | t: include.locale }} <a class="nowrap" href="{{ site.author.github|raw }}/borisschapira.com/issues/new?title=Article%20%22{{include.url}}%22" rel="nofollow">{{ "ticket" | t: include.locale }}</a>.
     </p>
   </div>
 </footer>

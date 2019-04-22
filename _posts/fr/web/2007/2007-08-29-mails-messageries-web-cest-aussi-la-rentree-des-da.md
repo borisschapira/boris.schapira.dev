@@ -2,7 +2,8 @@
 title: "Mails, Messageries, Web… C'est aussi la rentrée des dangers"
 tags:
     - Vulgarisation
-series: 'Dangers du Net'
+    - 'Dangers du Net'
+serie: 'Dangers du Net'
 slug: mails-messageries-web-cest-aussi-la-rentree-des-dangers
 ---
 

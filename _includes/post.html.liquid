@@ -1,17 +1,16 @@
 {% assign datetime = include.post.date | date_to_xmlschema %}
 
 <article class="colorized post" {% if include.postPage %} id="content"{% else %} aria-labelledby="{{ include.post.slug }}"{% endif %}>
-  <header>
-      <time class="dt-published" datetime="{{ datetime }}">{% unless include.post.locale =='fr' %}{% include date_en.html.liquid postDate=include.post.date locale=include.post.locale %}{% else %}{{ include.post.date | l: '%A %-d', include.post.locale }} <a href="{{ include.post.date | l: '%Y/%m/', include.post.locale | relative_url }}" title="{{ "Articles de" | t: include.locale }} {{ include.post.date | l: '%B %Y', include.post.locale }}">{{ include.post.date | l: '%B', include.post.locale }}</a> <a href="{{ include.post.date | l: '%Y/', include.post.locale | relative_url }}" title="{{ "Articles de" | t: include.locale }} {{ include.post.date | l: '%Y', include.post.locale }}">{{ include.post.date | l: '%Y', include.post.locale }}</a>{% endunless %}</time>{% if displayCategory %}<span><a href="{{ include.post.category | t: include.post.locale | prepend: page.baseurl | relative_url }}/" title="{{ "Articles de" | t: include.locale }} {{ "la catégorie" | t: include.locale }} {{ include.post.category }}" class="category {% if include.post.category %}{{include.post.category}}{% else %}main{% endif %}">{{ include.post.category | t: include.post.locale }}</a></span>{% endif %}{% if include.post.translation %}<span>{% include read_in.html.liquid 
-                      locale=include.post.translation.locale
-                      url=include.post.translation.url %}</span>{% endif %}
-  </header>
-
   {% if include.postPage %}
   <div class="post-content">
     {{ include.post.content }}
   </div>
   {% else %}
+    <header class="meta">
+      <time class="dt-published" datetime="{{ datetime }}">{% unless include.post.locale =='fr' %}{% include date_en.html.liquid postDate=include.post.date locale=include.post.locale %}{% else %}{{ include.post.date | l: '%A %-d', include.post.locale }} <a href="{{ include.post.date | l: '%Y/%m/', include.post.locale | relative_url }}" title="{{ "Articles de" | t: include.locale }} {{ include.post.date | l: '%B %Y', include.post.locale }}">{{ include.post.date | l: '%B', include.post.locale }}</a> <a href="{{ include.post.date | l: '%Y/', include.post.locale | relative_url }}" title="{{ "Articles de" | t: include.locale }} {{ include.post.date | l: '%Y', include.post.locale }}">{{ include.post.date | l: '%Y', include.post.locale }}</a>{% endunless %}</time>{% if displayCategory %}<span><a href="{{ include.post.category | t: include.post.locale | prepend: page.baseurl | relative_url }}/" title="{{ "Articles de" | t: include.locale }} {{ "la catégorie" | t: include.locale }} {{ include.post.category }}" class="category {% if include.post.category %}{{include.post.category}}{% else %}main{% endif %}">{{ include.post.category | t: include.post.locale }}</a></span>{% endif %}{% if include.post.translation %}<span>{% include read_in.html.liquid 
+                      locale=include.post.translation.locale
+                      url=include.post.translation.url %}</span>{% endif %}
+    </header>
     <h2 class="post-title" id="{{ include.post.slug }}">
       <a href="{{ include.post.url }}">{{ include.post.title }}{% if include.post.subtitle %}<br><small>{{ include.post.subtitle }}</small>{% endif %}</a>	
     </h2>

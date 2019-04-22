@@ -2,7 +2,8 @@
 title: "Hadopi : vote demain à l'Assemblée"
 tags:
     - Numérique
-series: Hadopi
+    - Hadopi
+serie: Hadopi
 ---
 
 Cela fait des semaines que ça dure, et où en sommes-nous&nbsp;? Malgré l'absence

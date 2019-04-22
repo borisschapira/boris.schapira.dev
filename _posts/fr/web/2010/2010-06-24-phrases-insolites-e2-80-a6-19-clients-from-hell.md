@@ -1,7 +1,8 @@
 ---
 title: 'Phrases Insolites… #19 : Clients From Hell'
-series:
-    - 'Phrases insolites'
+tags:
+   - 'Phrases insolites'
+serie: 'Phrases insolites'
 ---
 
 C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;! Et quand c'est

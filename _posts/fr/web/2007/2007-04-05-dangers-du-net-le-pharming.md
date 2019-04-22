@@ -2,7 +2,8 @@
 title: 'Dangers du Net : le Pharming'
 tags:
     - Vulgarisation
-series: 'Dangers du Net'
+    - 'Dangers du Net'
+serie: 'Dangers du Net'
 ---
 
 _Depuis que j'ai orienté mes études dans l'informatique, mes amis m'appellent

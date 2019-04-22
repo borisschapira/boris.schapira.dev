@@ -5,6 +5,10 @@
   margin: 0;
   padding: $global-gutters/2;
 
+  h1 {
+    margin: 0;
+  }
+
   small {
     display: block;
     font-size: 0.9em;
@@ -12,6 +16,29 @@
     &.page {
       display: inline;
       font-size: 0.8em;
+    }
+  }
+}
+
+.meta {
+  font-size: 0.95rem;
+  color: var(--color-main-gray);
+  margin-top: $global-gutters/2;
+
+  > span {
+    &::before {
+      content: "\00a0·\00a0";
+    }
+  }
+
+  > span,
+  > time {
+    display: inline-block;
+    margin-bottom: 0;
+    color: var(--color-main-gray);
+
+    a:not(.category) {
+      color: var(--color-main-gray);
     }
   }
 }
@@ -60,39 +87,22 @@
 }
 
 .post {
-  padding: 2rem 0;
+  &:not(#content) {
+    padding: 2rem 0;
+    .meta {
+      margin-top: 0;
+    }
+  }
+
   border-bottom: $border-separators solid var(--color-main-grayfade);
 
   &:last-of-type:not(:only-of-type) {
     border-bottom: none;
   }
 
-  header {
-    font-size: 0.95rem;
-    color: var(--color-main-gray);
-
-    > span {
-      &::before {
-        content: "\00a0·\00a0";
-      }
-    }
-
-    > span,
-    > time {
-      display: inline-block;
-      margin-bottom: 0;
-      color: var(--color-main-gray);
-
-      a:not(.category) {
-        color: var(--color-main-gray);
-      }
-    }
-  }
-
   .post-title {
     margin-top: 0;
   }
-
   .post-content {
     h2:first-child {
       font-size: 1.6rem;
@@ -240,7 +250,7 @@ table {
   }
 }
 
-.post-footer {
+.post-footer > div {
   border-bottom: 2px solid var(--color-main-grayfade);
 }
 

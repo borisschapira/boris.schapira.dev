@@ -2,7 +2,8 @@
 title: "Windows Phone 7 : Tour d'horizon"
 tags:
     - Mobilité
-series: 'Windows Phone'
+    - 'Windows Phone'
+serie: 'Windows Phone'
 canonical: 'https://blog.clever-age.com/fr/2010/05/19/tour-d-horizon-de-windows-phone-7/'
 ---
 

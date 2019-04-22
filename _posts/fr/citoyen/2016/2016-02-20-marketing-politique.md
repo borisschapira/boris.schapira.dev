@@ -2,7 +2,8 @@
 title: Diviser
 tags:
     - Égalité
-series: Diviser
+    - 'Diviser'
+serie: 'Diviser'
 loadTwitterWjs: true
 loadTwitter: true
 subtitle: pour mieux régner

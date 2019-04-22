@@ -1,7 +1,8 @@
 ---
 title: 'Phrases Insolites… #20'
-series:
-    - 'Phrases insolites'
+tags:
+   - 'Phrases insolites'
+serie: 'Phrases insolites'
 ---
 
 _C’est fou ce qu’on peut entendre quand on tend l’oreille…_

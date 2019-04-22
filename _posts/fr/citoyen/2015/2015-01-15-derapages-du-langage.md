@@ -2,8 +2,8 @@
 title: 'Dérapages du langage'
 tags:
     - Société
-series:
     - 'Charlie Hebdo'
+serie: 'Charlie Hebdo'
 ---
 
 > C'est justement ceux qui "ne sont pas Charlie" qu'il faut repérer. Ceux qui

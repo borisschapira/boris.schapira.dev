@@ -2,7 +2,8 @@
 title: "Franck, le gentil rapporteur d'Hadopi"
 tags:
     - Numérique
-series: Hadopi
+    - Hadopi
+serie: Hadopi
 ---
 
 Cher Franck, toi le rapporteur du texte "Création et internet", toi qui viens de

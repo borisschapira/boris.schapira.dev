@@ -1,8 +1,8 @@
 ---
 title: 'Phrases insolites… #2'
 tags:
-    - Humour
-    - Insolite
+   - 'Phrases insolites'
+serie: 'Phrases insolites'
 ---
 
 C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!

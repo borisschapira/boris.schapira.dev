@@ -2,8 +2,8 @@
 title: "Préparation d'une miniconférence"
 tags:
     - Conférences
-series:
     - 'Sud Web 2014'
+serie: 'Sud Web 2014'
 slug: sudweb-2014-lidee-au-projet-genese-dune-lightning-talk
 subtitle: génèse de ma conférence pour Sud Web 2014
 ---

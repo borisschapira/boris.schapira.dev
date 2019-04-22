@@ -2,8 +2,8 @@
 title: 'Je ne suis pas Charlie, je suis français.'
 tags:
     - Société
-series:
     - 'Charlie Hebdo'
+serie: 'Charlie Hebdo'
 loadTwitterWjs: true
 subtitle: précisions pour ceux qui s'offusquent
 ---

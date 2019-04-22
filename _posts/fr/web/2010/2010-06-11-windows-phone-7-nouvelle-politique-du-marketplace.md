@@ -2,8 +2,8 @@
 title: 'Windows Phone 7 : MarketPlace'
 tags:
     - Mobilité
-series:
     - 'Windows Phone'
+serie: 'Windows Phone'
 ---
 
 La situation est tendue pour Microsoft&nbsp;: le Windows Phone Marketplace est

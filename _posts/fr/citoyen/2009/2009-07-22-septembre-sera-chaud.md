@@ -2,7 +2,8 @@
 title: 'Septembre sera chaud'
 tags:
     - Numérique
-series: Hadopi
+    - Hadopi
+serie: Hadopi
 ---
 
 Alors que s'entament les discussions autour d'Hadopi 2 à l'Assemblée Nationale,

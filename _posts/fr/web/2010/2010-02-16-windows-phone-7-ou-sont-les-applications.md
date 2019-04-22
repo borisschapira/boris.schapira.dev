@@ -2,8 +2,8 @@
 title: 'Windows Phone 7 : où sont les applications ?'
 tags:
     - Mobilité
-series:
     - 'Windows Phone'
+serie: 'Windows Phone'
 ---
 
 Microsoft a présenté hier, lors du Mobile World Congress, son nouveau système

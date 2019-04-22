@@ -2,7 +2,8 @@
 title: "Rejet d'Hadopi. Faut-il se réjouir ?"
 tags:
     - Numérique
-series: Hadopi
+    - Hadopi
+serie: Hadopi
 ---
 
 **Je n'aime pas du tout la façon dont l'opposition traite le projet de loi

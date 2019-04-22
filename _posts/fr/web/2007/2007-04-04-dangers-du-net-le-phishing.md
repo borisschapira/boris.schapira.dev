@@ -2,7 +2,8 @@
 title: 'Dangers du Net : le <span lang="en">Phishing</span>'
 tags:
     - Vulgarisation
-series: 'Dangers du Net'
+    - 'Dangers du Net'
+serie: 'Dangers du Net'
 ---
 
 Dans cette série d'articles de vulgarisation sur les dangers du Net, nous allons

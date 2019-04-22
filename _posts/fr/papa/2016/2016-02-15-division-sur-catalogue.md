@@ -3,7 +3,8 @@ title: Division
 tags:
     - Allié
     - Égalité
-series: Diviser
+    - 'Diviser'
+serie: 'Diviser'
 subtitle: sur catalogue
 ---
 
