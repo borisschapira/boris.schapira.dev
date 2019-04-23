@@ -149,10 +149,11 @@ Un CMS Headless est constitué :
 >     Chris Coyier</cite>
 
 Et vous pouvez fabriquer des CMS Headless à partir de vos solutions habituelles.
-Wordpress, par exemple, a une [API REST](https://developer.wordpress.org/rest-api/). Côté Drupal, il
-y a tout un [groupe de travail](https://groups.drupal.org/headless-drupal) qui
-travaille sur le Headless. Là encore, le marché est en plein essor avec de
-nombreux nouveaux [logiciels et services](https://www.headlesscms.org/).
+Wordpress, par exemple, a une
+[API REST](https://developer.wordpress.org/rest-api/). Côté Drupal, il y a tout
+un [groupe de travail](https://groups.drupal.org/headless-drupal) qui travaille
+sur le Headless. Là encore, le marché est en plein essor avec de nombreux
+nouveaux [logiciels et services](https://www.headlesscms.org/).
 
 Mais pourquoi diable voudrions-nous séparer l'environnement contributif et
 l'outil de production? Pour une meilleure séparation des préoccupations.

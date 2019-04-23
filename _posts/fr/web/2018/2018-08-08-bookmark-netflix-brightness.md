@@ -35,9 +35,14 @@ augmente la luminosité des vidéos de la page courante. Pour en profiter :
     compte bien lire les huit suivant aussi (soit l'équivalent de 17 livres
     français) dans l'année !
 
-Cliquez-glissez le lien suivant dans votre barre de favoris :
+Cliquez-glissez le lien suivant dans votre barre de favoris[^rename] :
 
-<!-- nomicrotypo --><a href="javascript:(function(){var a=prompt("Video brightness?","100%");a=/^\d+(\.\d+)?%$/.test(a)?a:"100%";Array.from(document.getElementsByTagName("video")).forEach(function(b){b.setAttribute("style",b.getAttribute("style")+"filter: brightness("+a+");")})})();" title="Gérer la luminosité des vidéos">☀️</a><!-- endnomicrotypo -->
+<!-- nomicrotypo --><a href="javascript:(function(){var a=prompt("Video brightness?","100%");a=/^\d+(\.\d+)?%$/.test(a)?a:"100%";Array.from(document.getElementsByTagName("video")).forEach(function(b){b.setAttribute("style",b.getAttribute("style")+"filter: brightness("+a+");")})})();" title="Gérer la luminosité des vidéos">Gérer la luminosité des vidéos</a><!-- endnomicrotypo -->
+
+[^rename]:
+
+    N'hésitez pas à renommer le favori avec un libellé plus court. Par exemple,
+    j'utilise l'émoji ☀️ (soleil).
 
 Ensuite rendez-vous sur Netflix, lancez votre série ou film préféré et cliquez
 sur "☀️" !

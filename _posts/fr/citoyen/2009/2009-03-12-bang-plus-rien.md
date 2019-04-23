@@ -3,7 +3,6 @@ title: 'Hadopi : BANG, plus rien'
 tags:
     - Numérique
     - Hadopi
-serie: Hadopi
 ---
 
 Coupables, innocents, inconscients, mal informés… nous seront tous demain, avec

@@ -3,7 +3,6 @@ title: 'Détournement médiatique'
 tags:
     - Numérique
     - Hadopi
-serie: Hadopi
 ---
 
 > It might not even have made much difference to them if they'd known exactly

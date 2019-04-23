@@ -3,7 +3,6 @@ title: 'Merci, Pierre-Christophe Baguet'
 tags:
     - Numérique
     - Hadopi
-serie: Hadopi
 ---
 
 Je me joins à l'initiative de

@@ -51,8 +51,8 @@ vides pour 99 % des citoyens.
 Évidemment, cette
 [taxonomie](https://fr.wikipedia.org/wiki/Taxonomie#Homonymie_en_informatique)
 maladroite a fait un flop. La machine médiatique s'emballe et brandit le spectre
-[des mauvais souvenirs](https://fr.answers.yahoo.com/question/index?qid=20080903095407AAd3yfr).\*\*
-\*\*Le Net est le premier à réagir et la
+[des mauvais souvenirs](https://fr.answers.yahoo.com/question/index?qid=20080903095407AAd3yfr).
+Le Net est le premier à réagir et la
 [pétition contre EDVIGE](http://web.archive.org/web/20090412070052///nonaedvige.ras.eu.org:80/)
 sévit pendant 3 mois avant qu'un média papier ne relaie l'information. Comme à
 chaque couac, notre président reprend le dossier,

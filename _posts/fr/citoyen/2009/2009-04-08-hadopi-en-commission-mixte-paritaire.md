@@ -3,7 +3,6 @@ title: 'Hadopi en Commission Mixte Paritaire'
 tags:
     - Numérique
     - Hadopi
-serie: Hadopi
 ---
 
 > Les députés peuvent donc modifier le texte comme ils le veulent, transformer

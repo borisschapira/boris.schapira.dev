@@ -152,8 +152,11 @@ d’automatiser l’utilisation des mêmes outils que précédemment. Plutôt qu
 lancer vos analyses WebPageTest à la main, vous passez désormais par leur
 [API REST](https://sites.google.com/a/webpagetest.org/docs/advanced-features/webpagetest-restful-apis),
 et vous pouvez également imaginer le téléchargement et traitement des résultats
-HAR applicativement, pour générer une levée d’alerte automatique. Vous pouvez aussi déployer votre propre instance de WebPageTest, mais alors vous ne disposerez que d'une sonde (à multiplier suivant vos besoins, et les coûts de maintenance qui en découlent). Si vous n'avez pas envie de déployer une
-usine à gaz,
+HAR applicativement, pour générer une levée d’alerte automatique. Vous pouvez
+aussi déployer votre propre instance de WebPageTest, mais alors vous ne
+disposerez que d'une sonde (à multiplier suivant vos besoins, et les coûts de
+maintenance qui en découlent). Si vous n'avez pas envie de déployer une usine à
+gaz,
 [Dareboost](https://www.dareboost.com/ 'Analyse de site Web, Test de Performance et Audit qualité - DareBoost')
 fournira le même service en mode
 <abbr title="Software as a Service" lang="en">SaaS</abbr>.

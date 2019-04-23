@@ -3,7 +3,6 @@ title: 'Piratage : et le jeu vidéo ?'
 tags:
     - Numérique
     - Hadopi
-serie: Hadopi
 ---
 
 Ces derniers jours ont lieu de nombreux débats autour de la loi "Hadopi", de la

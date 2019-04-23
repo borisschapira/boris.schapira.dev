@@ -23,7 +23,7 @@ Les trois autres projets finalistes en seconde place et troisième place ex aequ
     Marie-Charlotte Poilpre.
 
 Le jury a de plus décidé d'attribuer une mention spéciale au **jeu d'aventure en
-2 D** construit par des élèves I1&nbsp;: Tugdual De Kerviler, Thibault François,
+2 D** construit par des élèves I1 : Tugdual De Kerviler, Thibault François,
 Thibaud Gagnayre et Othman Moukhlisse.
 
 ## Prix des <abbr title="Bureaux des Élèves">BDE</abbr>
@@ -31,7 +31,7 @@ Thibaud Gagnayre et Othman Moukhlisse.
 Le prix des <abbr title="Bureaux des Élèves">BDE</abbr> a été remis à l'équipe
 I2 composée de Charles Capon, Omar Givernaud, Anthony Rosetto
 ([MSP](https://msdn.microsoft.com/en-us/microsoftstudentpartners.aspx)),
-Jean-Louis Phekekara pour leur projet "\*\*architecture systèmes mobiles et
+Jean-Louis Phekekara pour leur projet "architecture systèmes mobiles et
 multimédia".
 
 ## Prix "Coup de cœur"

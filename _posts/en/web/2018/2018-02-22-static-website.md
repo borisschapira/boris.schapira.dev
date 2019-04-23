@@ -113,8 +113,8 @@ templating engine (Liquid, Go Template, Nunjucks) – responsible for the logic 
 and a converter ([kramdown](https://kramdown.gettalong.org/),
 [commonmark](https://commonmark.org/),
 [blackfriday](https://github.com/russross/blackfriday),
-[Asciidoctor](https://asciidoctor.org/)…) responsible for transforming the markup
-into HTML. SSGs are nothing more than the technical orchestrators of the
+[Asciidoctor](https://asciidoctor.org/)…) responsible for transforming the
+markup into HTML. SSGs are nothing more than the technical orchestrators of the
 website's generation and, therefore, are mainly a playground for front-end
 developers who know how they tick.
 
@@ -130,9 +130,9 @@ Headless CMS are:
 > Chris Coyier</cite>
 
 And they can often be obtained by using your usual systems. Wordpress, for
-instance, has a [REST API](https://developer.wordpress.org/rest-api/). Drupal has a whole
-[working group](https://groups.drupal.org/headless-drupal) working on Headless.
-However, here again, the market is booming with
+instance, has a [REST API](https://developer.wordpress.org/rest-api/). Drupal
+has a whole [working group](https://groups.drupal.org/headless-drupal) working
+on Headless. However, here again, the market is booming with
 [software and services](https://www.headlesscms.org/).
 
 Why on earth would we want to separate the contributive environment and the

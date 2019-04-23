@@ -3,7 +3,6 @@ title: 'Madame la Ministre,'
 tags:
     - Numérique
     - Hadopi
-serie: Hadopi
 ---
 
 Le projet de loi "Création et Internet" ou "HADOPI" sera bientôt examiné à

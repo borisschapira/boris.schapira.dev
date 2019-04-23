@@ -33,11 +33,16 @@ current page. To use it:
     seven previous books. And I plan to also read the next eight right within a
     year.
 
-Click and drag the following link in your bookmarks bar :
+Click and drag the following link in your bookmarks bar[^rename] :
 
-<!-- nomicrotypo --><a href="javascript:(function(){var a=prompt("Video brightness?","100%");a=/^\d+(\.\d+)?%$/.test(a)?a:"100%";Array.from(document.getElementsByTagName("video")).forEach(function(b){b.setAttribute("style",b.getAttribute("style")+"filter: brightness("+a+");")})})();" title="Manage Video Brightness">☀️</a><!-- endnomicrotypo -->
+<!-- nomicrotypo --><a href="javascript:(function(){var a=prompt("Video brightness?","100%");a=/^\d+(\.\d+)?%$/.test(a)?a:"100%";Array.from(document.getElementsByTagName("video")).forEach(function(b){b.setAttribute("style",b.getAttribute("style")+"filter: brightness("+a+");")})})();" title="Manage Video Brightness">Manage Video Brightness</a><!-- endnomicrotypo -->
 
-Then go to Netflix, launch your favorite series or movie and click on "☀️"!
+[^rename]:
+
+    Feel free to rename the bookmark with a shorter label. For example, I use
+    the ☀️ (sun) emoji (and only that).
+
+Then go to Netflix, launch your favorite series or movie and click on it!
 
 {% include video_as_a_gif.html.liquid
 url="/assets/images/2018-08-08/joker"

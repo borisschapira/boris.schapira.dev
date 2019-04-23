@@ -1,38 +1,47 @@
 ---
 title: 'Phrases insolites… #5'
 tags:
-   - 'Phrases insolites'
+    - 'Phrases insolites'
 serie: 'Phrases insolites'
 ---
 
-_C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!_
+_C'est fou ce qu'on peut entendre quand on tend l'oreille !_
 
-\*\*<!-- more -->
+<!-- more -->
 
-Finance ou jeux vidéos \*\*" - … et ça s’appelle les Hedge Funds.
+## Finance ou jeux vidéos
 
--   Comme les hérissons&nbsp;?
--   Quoi&nbsp;?
--   Mais, rappelle-toi la Game Gear&nbsp;: Sonic the Hedge Hog&nbsp;!"
+> – … et ça s’appelle les Hedge Funds.  
+> – Comme les hérissons ?  
+> – Quoi ?  
+> – Mais, rappelle-toi la Game Gear : Sonic the Hedge Hog !
 
-**Poutinerie **" - Tu connais les RSS&nbsp;?
+## Poutinerie
 
--   Ça va merci, j’ai été en cours d’Histoire comme tout le monde."
+> – Tu connais les RSS ?  
+> – Ça va merci, j’ai été en cours d’Histoire comme tout le monde.
 
-**On ne dit pas… " **- Tu sais qu’untel s’est marié&nbsp;?
+## On ne dit pas…
 
--   Ah bon, avec quoi&nbsp;?"
+> – Tu sais qu’untel s’est marié ?  
+> – Ah bon, avec quoi ?
 
-**On ne dit pas… le retour** " - Ça tu vois, c’est vous qui peut savoir, pas
-moi."
+## On ne dit pas… le retour
 
-**Croqueuse **"Les mecs avec qui je sors, c’est comme les quotidiens
-gratuits&nbsp;: je les lis et après je les laisse. Mais j’ai du respect pour
-eux, tu vois, je suis pas méchante, je les rends comme je les ai trouvé pour
-qu’ils puissent être lus à nouveau."
+> Ça tu vois, c’est vous qui peut savoir, pas moi.
 
-**Gastronomie **" L’offre de vente que je te fais, c’est du Fauchon à un cochon.
-Alors si t’es pas content t’as qu’à aller au McDo."
+## Littéraire
 
-**Mon beau-père et la technologie** "C'est vrai que le phone il prend pas les
-MnM's&nbsp;?"
+> Les mecs avec qui je sors, c’est comme les quotidiens gratuits : je les lis et
+> après je les laisse. Mais j’ai du respect pour eux, tu vois, je suis pas
+> méchante, je les rends comme je les ai trouvé pour qu’ils puissent être lus à
+> nouveau.
+
+## Gastronomie
+
+> L’offre de vente que je te fais, c’est du Fauchon à un cochon. Alors si t’es
+> pas content t’as qu’à aller au McDo.
+
+## Mon beau-père et la technologie
+
+> C'est vrai que le phone il prend pas les M&M's ?"

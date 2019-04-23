@@ -3,7 +3,6 @@ title: 'Et les livres piratés ?'
 tags:
     - Numérique
     - Hadopi
-serie: Hadopi
 ---
 
 Les industries culturelles ont peur de la numérisation des médias. Elles font

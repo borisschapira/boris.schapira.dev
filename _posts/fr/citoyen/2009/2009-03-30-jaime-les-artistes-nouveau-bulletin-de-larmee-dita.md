@@ -3,7 +3,6 @@ title: "«&#160;J'aime les artistes&#160;», nouveau bulletin de l'Armée d'Ital
 tags:
     - Numérique
     - Hadopi
-serie: Hadopi
 slug: jaime-les-artistes-nouveau-bulletin-de-larmee-ditalie
 ---
 

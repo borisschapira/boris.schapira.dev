@@ -32,8 +32,8 @@ Bref, pas mal de détente autour des technologies de la firme. Lorsque
 [Ravana](http://www.hugedomains.com/domain_profile.cfm?d=geekementcorrect&e=com)
 arrive, nous nous isolons un peu pour manger, nous raconter nos vies (ça faisait
 bien un mois, dis donc. C'est qu'on en a des choses à se dire) et je dois avouez
-que prendre un verre avec un pote, b\*\*\*\*l, ça fait du bien. De retour chez
-moi (merci au scooter de Rav'), j'offre un café au bronzé.
+que prendre un verre avec un pote, bordell, ça fait du bien. De retour chez moi
+(merci au scooter de Rav'), j'offre un café au bronzé.
 [Teulliac ](http://www.teulliac.com/)nous rejoint en rentrant chez lui (c'est
 pas très loin), ce qui me permet d'enfin le rencontrer. Mais comme il a
 d'[autres](https://fr.wikipedia.org/wiki/Couche_culotte)
@@ -43,4 +43,4 @@ s'écourte.
 En résumé, une excellente soirée qui m'a permis de papoter techno, de revoir des
 potes et de rencontrer un voisin. Comptez sur moi pour la prochaine (on abordera
 les problématiques des Front Office qui ne veulent pas décoller d'Office
-2003&nbsp;:D)&nbsp;!
+2003:D)!

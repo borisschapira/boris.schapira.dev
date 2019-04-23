@@ -16,7 +16,11 @@ dans HOMECOMING ? Pas de problème.
 <!-- more -->
 
 **Cliquez-glissez ce lien dans vos favoris**:
--><!-- nomicrotypo --><a href="javascript:(function(){var b=Number(prompt('Video playback rate?','1'))%7C%7C1;Array.from(document.getElementsByTagName('video')).forEach(function(a){a.playbackRate=b;a.play()})})();" title="Gérer la vitesse de lecture des vidéos">🏃</a><!-- endnomicrotypo --><-
+
+<!-- nomicrotypo --><a href="javascript:(function(){var b=Number(prompt('Video playback rate?','1'))%7C%7C1;Array.from(document.getElementsByTagName('video')).forEach(function(a){a.playbackRate=b;a.play()})})();" title="Gérer la vitesse de lecture des vidéos">Gérer la vitesse de lecture des vidéos</a><!-- endnomicrotypo -->
+
+N'hésitez pas à renommer le favori avec un libellé plus court. Par exemple,
+j'utilise seulement les émojis ☀️ (soleil) and 🏃‍ (course).
 
 Allez ensuite sur Netflix, OCS, Molotov, ou n'importe quel service de streaming
 utilisant des vidéos HTML[^1], lancez votre série ou film préféré, et cliquez

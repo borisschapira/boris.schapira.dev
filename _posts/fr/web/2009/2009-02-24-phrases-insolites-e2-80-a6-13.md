@@ -1,7 +1,7 @@
 ---
 title: 'Phrases Insolites… #13'
 tags:
-   - 'Phrases insolites'
+    - 'Phrases insolites'
 serie: 'Phrases insolites'
 ---
 
