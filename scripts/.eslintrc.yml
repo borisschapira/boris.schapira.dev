@@ -1,0 +1,9 @@
+parserOptions:
+  ecmaVersion: 8
+extends: 'eslint:recommended'
+env:
+  es6: true
+  node: true
+  mocha: true
+plugins:
+    - chai-expect
