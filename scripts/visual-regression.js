@@ -112,7 +112,7 @@ async function takeAndCompareScreenshot(page, route, routeUrl, filePrefix) {
   const fileName = filePrefix + '/' + (route ? route : 'index');
 
   // Start the browser, go to the test page, and take a screenshot.
-  await page.goto(`${testUrl}/${routeUrl}`);
+  await page.goto(`${testUrl}/${routeUrl}`, {"waitUntil" : "networkidle0"});
   await page.screenshot({
     path: `${testDir}/${fileName}.png`,
     fullPage: true
