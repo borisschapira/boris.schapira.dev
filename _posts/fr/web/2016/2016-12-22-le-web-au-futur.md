@@ -2,6 +2,7 @@
 title: 'Un Web au Futur'
 tags:
     - nowwwel
+loadTwitterWjs: true
 ---
 
 Cet article a été rédigé dans le cadre de

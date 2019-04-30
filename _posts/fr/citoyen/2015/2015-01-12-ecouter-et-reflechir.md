@@ -5,6 +5,7 @@ tags:
     - 'Charlie Hebdo'
 serie: 'Charlie Hebdo'
 loadTwitterWjs: true
+loadTwitterWjs: true
 ---
 
 Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers

@@ -7,6 +7,7 @@ canonical: 'https://blog.dareboost.com/en/2018/02/static-website-web-performance
 tags:
     - 'Performance Web'
     - JAMStack
+loadTwitterWjs: true
 cloudinary_logo: dareboost-logo
 slug: static-website-web-performance
 ---

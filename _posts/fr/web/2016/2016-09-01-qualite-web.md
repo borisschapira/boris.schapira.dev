@@ -2,6 +2,7 @@
 title: 'Qualité Web, deuxième édition'
 tags:
     - Qualité
+loadTwitterWjs: true
 ---
 
 Quel que soit votre rôle dans la chaine de valeur du Web, je ne saurais que trop
