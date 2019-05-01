@@ -13,7 +13,7 @@ en:
   "ce flux": "this feed"
   "Ces articles peuvent également vous intéresser": "You may also be interested by this posts"
   "cet article a d'abord été publié sur" : "this post first appeared in"
-  'Cet article fait partie de la série "%s".': 'This post is part of the "%s" series.'
+  'Cet article fait partie de la série "[%s](/tag/%s)".': 'This post is part of the "[%s](/tag/%s)" series.'
   "citoyen": "citizen"
   "compilé par Jekyll, propulsé par Netlify et Cloudinary": "compiled by Jekyll, propulsed by Netlify and Cloudinary"
   "Commentaire posté avec succès !": "You comment has been successfuly posted"

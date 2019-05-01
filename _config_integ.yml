@@ -1,6 +1,6 @@
 # Development configuration (comment for Production)
 limit_posts: 50
 profile: true
-future: true
+future: false
 norobots: true
 url: "https://dev.boris.schapira.dev"
