@@ -1,6 +1,6 @@
 ---
 title: 'Mona Chollet'
-subtitle: 'Sorcière des sorcières'
+subtitle: 'sorcières et féminisme'
 tags:
     - Égalité
     - Sorcières

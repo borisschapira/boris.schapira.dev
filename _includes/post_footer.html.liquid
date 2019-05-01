@@ -4,12 +4,13 @@
 
 <footer class="post-footer">
   {% if include.serie %}
-    {% assign series_post_size = site.tags[include.serie] | size %}
-    {% if series_post_size >= 2 %}
+    {% assign series_posts = site.tags[include.serie] | where:"locale", page.locale }
+    {% assign series_posts_size = series_posts | size %}
+    {% if series_posts_size >= 2 %}
       <div class="serie">
       <p>{{ 'Cet article fait partie de la série "[%s](/tag/%s)".' | t: include.locale | replace: '%s', include.serie | markdownify }} {{ "Ne ratez pas ces autres articles :" | t: include.locale }}</p>
       <ul>
-      {% for p in site.tags[include.serie] %}
+      {% for p in series_posts %}
         {% unless p.url==include.url %}
         <li><a href="{{ p.url }}">{{ p.title }}</a></li>
         {% endunless %}
