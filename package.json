@@ -31,12 +31,14 @@
     "pretty": "npm run pretty:js && npm run pretty:css",
     "pretty:md": "prettier --tab-width 4 --single-quote --prose-wrap always --write '{,!(vendor)/**/*.md}'",
     "pretty:md:2019": "prettier --tab-width 4 --single-quote --prose-wrap always --write '{,!(vendor)/**/2019/*.md}'",
+    "pretty:md:bookmark": "prettier --tab-width 4 --single-quote --prose-wrap always --write '_bookmarks/**/*.md'",
     "build:js": "npm run eslint && npm run concat && npm run uglify",
     "build:css": "npm run sass && npm run postcss",
     "build": "npm run vendors && npm run pretty && npm run build:css && npm run build:js",
     "lambda:serve": "netlify-lambda serve functions",
     "lambda:build": "netlify-lambda build functions",
     "comments:get": "node ./scripts/get-comments.js",
+    "bookmarks:get": "node ./scripts/get-bookmarks.js && npm run pretty:md:bookmark",
     "test:visual": "mocha --timeout 15000 scripts/visual-regression.js",
     "watch": "npm-scripts-watcher"
   },
@@ -93,6 +95,7 @@
     "postcss-cli": "^6.0.0",
     "prettier": "^1.16.1",
     "puppeteer": "^1.14.0",
+    "rss-parser": "^3.7.0",
     "uglify-es": "mishoo/UglifyJS2#harmony"
   },
   "dependencies": {

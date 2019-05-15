@@ -218,6 +218,8 @@ pagination:
 collections:
   confs:
     output: true
+  bookmarks:
+    output: false
 
 jekyll-archives:
   enabled:
