@@ -28,7 +28,8 @@ dans l'obscurité et le silence, et finit souvent arrêté ou tué.
 
 Il m'a fallu des années pour comprendre que ce modèle de masculinité ne
 correspondait pas au genre d'homme que je voulais devenir, qu'il était issu
-d'une construction des relation hommes-femmes qui invisibilise les violences qui sont faites à ces dernières. Mais je n'avais pas forcément compris à quel point.
+d'une construction des relation hommes-femmes qui invisibilise les violences qui
+sont faites à ces dernières. Mais je n'avais pas forcément compris à quel point.
 
 Il m'a fallu encore des années pour comprendre que les violeurs étaient
 principalement des proches, que les viols n'avaient pas lieu dans des ruelles
@@ -43,6 +44,11 @@ documenté, d'une densité folle mais sans jamais être difficile à lire, autre
 que par son sujet. Je ne sais pas comment le résumer ou le synthétiser autrement
 qu'en en conseillant la lecture.
 
-Son autrice écrit depuis des années sur son blog "[Crêpe Georgette](http://www.crepegeorgette.com/)" qui fourmille d'informations, et n'hésite pas à partager et éduquer [sur Twitter](https://twitter.com/valerieCG). Il est très rare qu'il se passe une semaine sans qu'elle ne pointe une lecture qui me bouleverse ou me fait regarder le monde différemment.
+Son autrice écrit depuis des années sur son blog
+"[Crêpe Georgette](http://www.crepegeorgette.com/)" qui fourmille
+d'informations, et n'hésite pas à partager et éduquer
+[sur Twitter](https://twitter.com/valerieCG). Il est très rare qu'il se passe
+une semaine sans qu'elle ne pointe une lecture qui me bouleverse ou me fait
+regarder le monde différemment.
 
 {% include media/youtube.html.liquid id="cWzriBhhfAo" title="Trois minutes avec Valérie Rey-Robert" %}
