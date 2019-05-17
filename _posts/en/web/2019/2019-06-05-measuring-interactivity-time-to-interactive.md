@@ -242,7 +242,7 @@ JavaScript algorithms to
 making them run in background tasks, therefore not occupying the JavaScript main
 thread).
 
-## **Common misconception about Time To Interactive**
+## Common misconception about Time To Interactive
 
 ### Time to Interactive is not the time until a page is interactive
 
@@ -307,7 +307,7 @@ a "TTI" label on other metrics (such as
 [the domInteractive event](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming/domInteractive))
 that have nothing to do with Google’s TTI.
 
-### **Time to Interactive is not easy to stabilize**
+### Time to Interactive is not easy to stabilize
 
 A metric that is not predictable is difficult to understand. In researching this
 article, we have gathered this evidence that suggests that the TTI is one of
@@ -387,10 +387,7 @@ depends on the nature of the delay. Interaction delays are perceived after
 [Nielsen’s 1993 post, based on Miller & Card et al. studies](https://www.nngroup.com/articles/response-times-3-important-limits/).
 
 If the perceived delay is 100ms, why consider a JS task as long from 50ms? The
-explanation lies in the Long Task API specification:  
-Mais si un délai n’est remarqué quà partir de 100 ms, pourquoi considérer une
-tâche JS longue à partir de 50 ms ? L’explication se trouve dans la
-spécification Long Task API :
+explanation lies in the Long Task API specification:
 
 > The RAIL performance model suggests that applications should respond in under
 > 100ms to user input (for touch move and scrolling, in under 16ms). Our goal
@@ -433,7 +430,7 @@ TTI without bothering end-users but the page may also be unusable. You just
 don’t have any way to distinguish the two possibilities without further
 investigation.
 
-{% capture img_alt %} A microscopic image zooming on a sample. {% endcapture %}
+{% capture img_alt %} A microscope zooming on a sample. {% endcapture %}
 {% capture img_caption %} A bad TTI is a sign that not all conditions are
 perfect for interactivity. This does not mean that interactions will necessarily
 be degraded. More investigation is always needed. {% endcapture %}
@@ -476,6 +473,8 @@ Remember: if you need to understand what’s happening with your JavaScript code
 in Synthetic Monitoring, you can still
 [use Custom Timings to deploy a full instrumentation](https://blog.dareboost.com/en/2018/05/dogfooding-dareboost-custom-timings/).
 It’s the best way to grasp what matters to your business.
+
+---
 
 ## More about interactivity and the Time To Interactive:
 
