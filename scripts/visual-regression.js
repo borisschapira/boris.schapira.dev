@@ -1,30 +1,31 @@
 // Iteration from https://meowni.ca/posts/2017-puppeteer-tests/#the-thing-that-does-the-diffing (thanks a lot, @notwaldorf!)
 
-const fs = require('fs');
-const {expect} = require('chai');
-const pixelmatch = require('pixelmatch');
-const {PNG} = require('pngjs');
-const puppeteer = require('puppeteer');
-const rimraf = require('rimraf');
+const fs = require("fs");
+const { expect } = require("chai");
+const pixelmatch = require("pixelmatch");
+const { PNG } = require("pngjs");
+const puppeteer = require("puppeteer");
+const path = require("path");
+const rmfr = require("rmfr");
 
-const testDir = './_captures/test';
-const prodDir = './_captures/reference';
-const diffDir = './_captures/diff';
-const testUrl = 'https://boris.schapira.local:10443';
+const testDir = "./_captures/test";
+const prodDir = "./_captures/reference";
+const diffDir = "./_captures/diff";
+const testUrl = "https://boris.schapira.local:10443";
 const tests = {
   fr: {
-    locale: 'fr-FR,fr',
+    locale: "fr-FR,fr",
     routes: {
-      home: '',
-      web: 'web/',
-      post: '/2030/01/test-typo/'
+      home: "",
+      web: "web/",
+      post: "/2030/01/test-typo/"
     }
   },
   en: {
-    locale: 'en-US,en',
+    locale: "en-US,en",
     routes: {
-      home: '',
-      citizen: '/en/citizen/'
+      home: "",
+      citizen: "/en/citizen/"
     }
   }
 };
@@ -39,39 +40,16 @@ const contexts = {
   }
 };
 
-describe('👀 screenshots are correct', () => {
+describe("👀 screenshots are correct", () => {
   let browser;
   let page;
 
   // This is ran when the suite starts up.
-  before(() => {
-
+  before(async () => {
     // Create the test directory if needed. This and the prodDir
     // variables are global somewhere.
-    if (!fs.existsSync(testDir)) {
-      fs.mkdirSync(testDir);
-    } else {
-      rimraf.sync(testDir);
-    }
-    rimraf.sync(diffDir);
-
-    // And its wide screen/small screen subdirectories.
-    const rootDirs = [testDir, prodDir, diffDir];
-    for (let i = 0; i < rootDirs.length; i++) {
-      const rootDir = rootDirs[i];
-      if (!fs.existsSync(`${rootDir}`)) {
-        fs.mkdirSync(`${rootDir}`);
-      }
-      
-      for (const t in tests) {
-        for (const c in contexts) {
-
-          if (!fs.existsSync(`${rootDir}/${t}_${c}`)) {
-            fs.mkdirSync(`${rootDir}/${t}_${c}`);
-          }
-        }
-      }
-    }
+    await rmfr(testDir);
+    await rmfr(diffDir);
   });
 
   // This is ran after every test; clean up after your browser.
@@ -89,7 +67,7 @@ describe('👀 screenshots are correct', () => {
       });
 
       for (const c in contexts) {
-        const {routes} = tests[t];
+        const { routes } = tests[t];
         describe(`${c} screen`, () => {
           beforeEach(async () => {
             return page.setViewport({
@@ -114,10 +92,11 @@ describe('👀 screenshots are correct', () => {
 // - filePrefix is either "wide" or "narrow", since I'm automatically testing both.
 async function takeAndCompareScreenshot(page, route, routeUrl, filePrefix) {
   // If you didn't specify a file, use the name of the route.
-  const fileName = filePrefix + '/' + (route ? route : 'index');
+  const fileName = filePrefix + "/" + (route ? route : "index");
 
   // Start the browser, go to the test page, and take a screenshot.
-  await page.goto(`${testUrl}/${routeUrl}`, {"waitUntil" : "networkidle0"});
+  ensureDirectoryExistence(`${testDir}/${fileName}.png`);
+  await page.goto(`${testUrl}/${routeUrl}`, { waitUntil: "networkidle0" });
   await page.screenshot({
     path: `${testDir}/${fileName}.png`,
     fullPage: true
@@ -128,9 +107,15 @@ async function takeAndCompareScreenshot(page, route, routeUrl, filePrefix) {
 }
 
 async function compareScreenshots(fileName) {
-  return new Promise((resolve) => {
-    const img1 = fs.createReadStream(`${testDir}/${fileName}.png`).pipe(new PNG()).on('parsed', doneReading);
-    const img2 = fs.createReadStream(`${prodDir}/${fileName}.png`).pipe(new PNG()).on('parsed', doneReading);
+  return new Promise(resolve => {
+    const img1 = fs
+      .createReadStream(`${testDir}/${fileName}.png`)
+      .pipe(new PNG())
+      .on("parsed", doneReading);
+    const img2 = fs
+      .createReadStream(`${prodDir}/${fileName}.png`)
+      .pipe(new PNG())
+      .on("parsed", doneReading);
 
     let filesRead = 0;
 
@@ -146,21 +131,37 @@ async function compareScreenshots(fileName) {
         height: Math.max(img1.height, img2.height)
       });
       const numDiffPixels = pixelmatch(
-        img1.data, img2.data, diff.data, img1.width, img1.height, {
+        img1.data,
+        img2.data,
+        diff.data,
+        img1.width,
+        img1.height,
+        {
           threshold: 0.2
-        });
+        }
+      );
 
       if (numDiffPixels > 200) {
+        ensureDirectoryExistence(`${diffDir}/${fileName}.png`);
         diff.pack().pipe(fs.createWriteStream(`${diffDir}/${fileName}.png`));
       }
 
       // The files should be the same size.
-      expect(img1.width, 'image widths are the same').equal(img2.width);
-      expect(img1.height, 'image heights are the same').equal(img2.height);
+      expect(img1.width, "image widths are the same").equal(img2.width);
+      expect(img1.height, "image heights are the same").equal(img2.height);
 
       // The files should look the same.
-      expect(numDiffPixels, 'number of different pixels').below(200);
+      expect(numDiffPixels, "number of different pixels").below(200);
       resolve();
     }
   });
+}
+
+function ensureDirectoryExistence(filePath) {
+  var dirname = path.dirname(filePath);
+  if (fs.existsSync(dirname)) {
+    return true;
+  }
+  ensureDirectoryExistence(dirname);
+  fs.mkdirSync(dirname);
 }
