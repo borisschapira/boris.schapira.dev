@@ -4,7 +4,7 @@ subtitle: 'Time To (consistently) Interactive'
 i18n-key: time-to-interactive
 canonical: https://blog.dareboost.com/fr/2019/05/mesurer-interactivite-time-to-interactive/
 cloudinary_logo: dareboost-logo
-main_image: /assets/images/2019-06-05/danse.jpg
+main_image: /assets/images/2019-05-16/carnival.jpg
 tags:
     - 'Performance Web'
     - JavaScript
@@ -38,7 +38,7 @@ l’interactivité, c’est comme monter sur un manège en marche. Quand peut-on
 considérer que le manège a suffisamment ralenti pour qu’on puisse monter dessus.
 Il n’y a pas de réponse précise. {% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/2019-06-05/carnival.jpg"
+path="/assets/images/2019-05-16/carnival.jpg"
 alt=img_alt
 caption=img_caption
 %}
@@ -121,7 +121,7 @@ corrélation linéaire évidente entre les clics "de rage" et les clics situés 
 page est prête pour une interaction –
 [voir la définition complète sur la documentation Boomerang \[EN\]](https://akamai.github.io/boomerang/BOOMR.plugins.Continuity.html#toc9__anchor)).{% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/2019-06-05/nic.png"
+path="/assets/images/2019-05-16/rage.png"
 alt=img_alt
 caption=img_caption
 %}
@@ -173,7 +173,7 @@ le continuum sur une image statique. {% endcapture %} {% capture img_caption %}
 Comme les choses en mouvement sont difficiles à appréhender, nous nous appuyons
 souvent sur des approximations et des modèles. {% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/2019-06-05/danse.jpg"
+path="/assets/images/2019-05-16/danse.jpg"
 alt=img_alt
 caption=img_caption
 %}
@@ -226,7 +226,7 @@ choisi comme valeur définitive du Time To Interactive.
 {% endcapture %} {% capture img_caption %} Schéma de principe de la définition,
 dans le "Time To Interactive Explainer". {% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/2019-06-05/tti.png"
+path="/assets/images/2019-05-16/tti.png"
 alt=img_alt
 caption=img_caption
 %}
@@ -399,7 +399,7 @@ Toutefois, à chaque fois qu’on définit un seuil, cela a un impact.
 {% capture img_alt %} Capture de WebPageTest. L'évaluation du "Page Interactive"
 est verte très tôt dans la page, mais perturbée par une partie rouge beaucoup
 plus tard dans le chargement. {% endcapture %} {% include rwd-image.html.liquid
-path="/assets/images/2019-06-05/wpt.png"
+path="/assets/images/2019-05-16/wpt.png"
 alt=img_alt
 %}
 
@@ -476,7 +476,7 @@ toutes les conditions ne sont pas parfaites pour l’interactivité. Cela ne
 signifie pas que les interactions seront forcément dégradées. Une analyse
 approfondie est toujours nécessaire. {% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/2019-06-05/observe.jpg"
+path="/assets/images/2019-05-16/observe.jpg"
 alt=img_alt
 caption=img_caption
 %}
@@ -499,7 +499,7 @@ J’espère que nous progresserons sur ce point dans les années à venir.
 diminution de la conversion tant que les Long Task de la première page étaient
 plus courtes que… 100 ms (et pas 50 ms). Intéressant, non ? {% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/2019-06-05/nic.png"
+path="/assets/images/2019-05-16/nic.png"
 alt=img_alt
 caption=img_caption
 %}

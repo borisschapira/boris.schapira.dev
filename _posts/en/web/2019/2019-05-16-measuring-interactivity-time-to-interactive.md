@@ -4,7 +4,7 @@ subtitle: 'Time To (consistently) Interactive'
 i18n-key: time-to-interactive
 canonical: https://blog.dareboost.com/en/2019/05/measuring-interactivity-time-to-interactive/
 cloudinary_logo: dareboost-logo
-main_image: /assets/images/2019-06-05/danse.jpg
+main_image: /assets/images/2019-05-16/carnival.jpg
 tags:
     - 'Performance Web'
     - JavaScript
@@ -36,12 +36,12 @@ merry-go-round. {% endcapture %} {% capture img_caption %} Measuring
 interactivity is like getting on a moving ride. When can we consider that the
 carousel is slow enough to consider that we can jump on it? There’s no precise
 answer. {% endcapture %} {% include rwd-image.html.liquid
-path="/assets/images/2019-06-05/carnival.jpg"
+path="/assets/images/2019-05-16/carnival.jpg"
 alt=img_alt
 caption=img_caption
 %}
 
-## TL;DR (SUMMARY)
+## TL;DR
 
 The measurement of interactiveness is a pregnant challenge for Web Performance
 experts. Synthetic monitoring solution vendors, especially, find it difficult to
@@ -110,7 +110,7 @@ between rage clicks and 1.2 to 1.5× the time to Visually Ready (when the page
 would look to the user like they could interact with it –
 [see the full definition on Boomerang documentation](https://akamai.github.io/boomerang/BOOMR.plugins.Continuity.html#toc9__anchor)).
 {% endcapture %} {% include rwd-image.html.liquid
-path="/assets/images/2019-06-05/nic.png"
+path="/assets/images/2019-05-16/rage.png"
 alt=img_alt
 caption=img_caption
 %}
@@ -156,7 +156,7 @@ Each movement is captured and yet it is impossible to grasp the continuum on a
 static image. {% endcapture %} {% capture img_caption %} As moving things are
 difficult to grasp, we often rely on approximations and models. {% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/2019-06-05/danse.jpg"
+path="/assets/images/2019-05-16/danse.jpg"
 alt=img_alt
 caption=img_caption
 %}
@@ -208,7 +208,7 @@ is chosen as the final value for Time To Interactive.
 in the
 "[Time To Interactive Explainer](https://github.com/WICG/time-to-interactive#definition)".
 {% endcapture %} {% include rwd-image.html.liquid
-path="/assets/images/2019-06-05/tti.png"
+path="/assets/images/2019-05-16/tti.png"
 alt=img_alt
 caption=img_caption
 %}
@@ -367,7 +367,7 @@ However, the definition of any threshold has impact.
 {% capture img_alt %} Capture from WebPageTest. The evaluation of the
 "Interactive Page" is green very early in the page, but disturbed by a red part
 much later in the loading. {% endcapture %} {% include rwd-image.html.liquid
-path="/assets/images/2019-06-05/wpt.png"
+path="/assets/images/2019-05-16/wpt.png"
 alt=img_alt
 %}
 
@@ -435,7 +435,7 @@ investigation.
 perfect for interactivity. This does not mean that interactions will necessarily
 be degraded. More investigation is always needed. {% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/2019-06-05/observe.jpg"
+path="/assets/images/2019-05-16/observe.jpg"
 alt=img_alt
 caption=img_caption
 %}
@@ -457,7 +457,7 @@ First Page LongTask Time vs. Session Length (right) {% endcapture %}
 {% capture img_caption %} Nic’s study did not observe a decrease in conversion
 as long as the First Page Long Tasks were shorter than – not 50ms – but 100ms.
 Isn’t that interesting? {% endcapture %} {% include rwd-image.html.liquid
-path="/assets/images/2019-06-05/nic.png"
+path="/assets/images/2019-05-16/nic.png"
 alt=img_alt
 caption=img_caption
 %}
