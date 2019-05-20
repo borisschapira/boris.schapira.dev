@@ -33,7 +33,7 @@ d’expliquer comment et quand l’utiliser (ou non).
 
 {% capture img_alt %} Photo d'un manège qui tourne. Le mouvement de rotation
 créé un effet de flou : il est impossible de déterminer avec certitude la
-vitesse du manège. {% endcapture %} {% capture img_caption %} Measuring Mesurer
+vitesse du manège. {% endcapture %} {% capture img_caption %} Mesurer
 l’interactivité, c’est comme monter sur un manège en marche. Quand peut-on
 considérer que le manège a suffisamment ralenti pour qu’on puisse monter dessus.
 Il n’y a pas de réponse précise. {% endcapture %}
