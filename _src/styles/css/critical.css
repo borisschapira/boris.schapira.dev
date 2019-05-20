@@ -1333,6 +1333,9 @@ table {
 strong {
   color: var(--color-main); }
 
+.post-content a {
+  text-decoration: underline; }
+
 a.reversefootnote {
   background: none; }
 

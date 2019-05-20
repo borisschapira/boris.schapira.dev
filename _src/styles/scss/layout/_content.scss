@@ -259,6 +259,10 @@ strong {
 }
 
 a {
+  .post-content & {
+    text-decoration: underline;
+  }
+
   &.reversefootnote {
     background: none;
   }

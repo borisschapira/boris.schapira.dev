@@ -5,6 +5,7 @@ const {expect} = require('chai');
 const pixelmatch = require('pixelmatch');
 const {PNG} = require('pngjs');
 const puppeteer = require('puppeteer');
+const rimraf = require('rimraf');
 
 const testDir = './_captures/test';
 const prodDir = './_captures/reference';
@@ -44,11 +45,15 @@ describe('👀 screenshots are correct', () => {
 
   // This is ran when the suite starts up.
   before(() => {
+
     // Create the test directory if needed. This and the prodDir
     // variables are global somewhere.
     if (!fs.existsSync(testDir)) {
       fs.mkdirSync(testDir);
+    } else {
+      rimraf.sync(testDir);
     }
+    rimraf.sync(diffDir);
 
     // And its wide screen/small screen subdirectories.
     const rootDirs = [testDir, prodDir, diffDir];
