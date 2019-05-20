@@ -226,7 +226,7 @@ choisi comme valeur définitive du Time To Interactive.
 {% endcapture %} {% capture img_caption %} Schéma de principe de la définition,
 dans le "Time To Interactive Explainer". {% endcapture %}
 {% include rwd-image.html.liquid
-path="/assets/images/2019-05-16/tti.png"
+path="/assets/images/2019-05-16/tti_w.png"
 alt=img_alt
 caption=img_caption
 %}

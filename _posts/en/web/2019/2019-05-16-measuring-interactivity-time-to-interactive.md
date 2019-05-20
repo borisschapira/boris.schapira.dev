@@ -208,7 +208,7 @@ is chosen as the final value for Time To Interactive.
 in the
 "[Time To Interactive Explainer](https://github.com/WICG/time-to-interactive#definition)".
 {% endcapture %} {% include rwd-image.html.liquid
-path="/assets/images/2019-05-16/tti.png"
+path="/assets/images/2019-05-16/tti_w.png"
 alt=img_alt
 caption=img_caption
 %}
