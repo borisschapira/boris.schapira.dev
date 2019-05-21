@@ -199,3 +199,19 @@
     }
   }
 }
+
+@keyframes bgtarget {
+  0% {
+    background-color: inherit;
+  }
+  50% {
+    background-color: var(--color-selection);
+  }
+  100% {
+    background-color: inherit;
+  }
+}
+
+:target {
+  @include animation(bgtarget 1s linear 1);
+}

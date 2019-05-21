@@ -776,6 +776,20 @@ hr {
   .citizen .avatar .blue-hair {
     display: block; }
 
+@keyframes bgtarget {
+  0% {
+    background-color: inherit; }
+  50% {
+    background-color: var(--color-selection); }
+  100% {
+    background-color: inherit; } }
+
+:target {
+  animation: bgtarget 1s linear 1; }
+  @media screen and (prefers-reduced-motion: reduce) {
+    :target {
+      animation: none; } }
+
 html,
 input,
 textarea,
@@ -933,7 +947,9 @@ blockquote,
     .inline-note {
       width: 80vw;
       margin-left: 50%;
-      transform: translateX(-50%); } }
+      transform: translateX(-50%);
+      margin-top: 1.7em;
+      margin-bottom: 1.7em; } }
   .inline-note strong {
     text-transform: capitalize; }
 
@@ -946,7 +962,9 @@ blockquote,
     .canonical {
       width: 80vw;
       margin-left: 50%;
-      transform: translateX(-50%); } }
+      transform: translateX(-50%);
+      margin-top: 1.7em;
+      margin-bottom: 1.7em; } }
 
 ins {
   padding: 3px;
@@ -1223,7 +1241,9 @@ html {
   .post-content > .videoWrapper {
     width: 100vw;
     margin-left: 50%;
-    transform: translateX(-50%); } }
+    transform: translateX(-50%);
+    margin-top: 1.7em;
+    margin-bottom: 1.7em; } }
 
 .videoWrapper {
   position: relative;
@@ -1246,7 +1266,9 @@ div.highlighter-rouge {
     div.highlighter-rouge {
       width: 80vw;
       margin-left: 50%;
-      transform: translateX(-50%); } }
+      transform: translateX(-50%);
+      margin-top: 1.7em;
+      margin-bottom: 1.7em; } }
   div.highlighter-rouge .highlight {
     margin: 0;
     padding: 1rem; }
@@ -1259,7 +1281,9 @@ figure {
     figure {
       width: 80vw;
       margin-left: 50%;
-      transform: translateX(-50%); } }
+      transform: translateX(-50%);
+      margin-top: 1.7em;
+      margin-bottom: 1.7em; } }
   figure > a,
   figure .video-container {
     position: relative;
@@ -1315,7 +1339,9 @@ table {
     table {
       width: 80vw;
       margin-left: 50%;
-      transform: translateX(-50%); } }
+      transform: translateX(-50%);
+      margin-top: 1.7em;
+      margin-bottom: 1.7em; } }
   table thead th {
     border: solid 1px var(--color-main-text);
     padding: 0.5rem; }

@@ -45,30 +45,31 @@ caption=img_caption
 
 ## Synthèse
 
-La mesure de l’interactivité est un véritable défi pour les experts de la
-Performance Web. Les éditeurs de solutions de monitoring synthétique, en
+La mesure de l’interactivité est un [véritable défi](#pourquoi) pour les experts
+de la Performance Web. Les éditeurs de solutions de monitoring synthétique, en
 particulier, rencontrent des difficultés puisque leurs solutions ne reposent pas
 sur des interactions d’utilisateurs.
 
 Le Time To Interactive de Google est un indicateur sophistiqué, construit pour
 déterminer les conditions idéales d’interaction en surveillant à la fois
 l’activité du fil d’exécution principal de JavaScript et l’activité réseau. Il
-permet de déterminer avec efficacité un moment à partir duquel on peut être
-sûr·e qu’une interaction pourra avoir lieu de manière fluide.
+permet de déterminer avec efficacité
+[un moment à partir duquel on peut être sûr·e qu’une interaction pourra avoir lieu de manière fluide](#comment-utiliser-le-tti).
 
 Néanmoins, le Time To Interactive est un indicateur dont la construction est
-compliquée à comprendre et à exploiter, et qui ne mesure pas ce que la plupart
-des gens pensent qu’il mesure : le moment à partir duquel une page devient
-interactive.
+compliquée à comprendre et à exploiter, et
+[qui ne mesure pas ce que la plupart des gens pensent qu’il mesure](#malentendus)
+: le moment à partir duquel une page devient interactive.
 
 La seule manière de capturer des actions utilisateurs est d’en disposer, donc
-d’utiliser du Real User Monitoring (RUM). Mais même là, il n’existe pas un
-unique KPI qui décrit simplement la relation entre le comportement des
-utilisateurs et l’interactivité de la page dans le temps.
+d’utiliser du Real User Monitoring (RUM). Mais même là,
+[il n’existe pas un unique KPI](#alternatives) qui décrit simplement la relation
+entre le comportement des utilisateurs et l’interactivité de la page dans le
+temps.
 
 ---
 
-## En quête d’un nouvel indicateur
+## <span id="pourquoi">En quête d’un nouvel indicateur</span>
 
 ### Qu’essayons-nous de mesurer ?
 
@@ -231,7 +232,7 @@ alt=img_alt
 caption=img_caption
 %}
 
-### Comment utiliser le TTI ?
+### <span id="comment-utiliser-le-tti">Comment utiliser le TTI ?</span>
 
 Un des premiers indicateurs que l’on découvre quand on s’intéresse aux
 performance d’affichage est le Visuellement Complet, c’est-à-dire le moment où
@@ -261,7 +262,7 @@ exemple, vous pouvez déléguer des algorithmes JavaScript complexes aux Web
 Workers, les faisant exécuter en tâche de fond sans occuper le thread principal
 JavaScript).
 
-## Quelques malentendus fréquents concernant le Time To Interactive
+## <span id="malentendus">Quelques malentendus fréquents concernant le Time To Interactive</span>
 
 ### Le Time To Interactive n’est pas le temps qui s’écoule avant qu’une page soit interactive.
 
@@ -449,7 +450,7 @@ En réalité, tous les navigateurs et les contextes de navigation sont différen
 et de nombreux facteurs peuvent influer sur le temps pris par le navigateur pour
 traiter une tâche.
 
-## Mesure de l’interactivité : le TTI suffit-il ?
+## <span id="alternatives">Mesure de l’interactivité : le TTI suffit-il</span> ?
 
 ### Le TTI comme nouvel indicateur de référence ?
 

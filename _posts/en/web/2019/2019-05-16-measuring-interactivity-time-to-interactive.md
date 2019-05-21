@@ -43,26 +43,27 @@ caption=img_caption
 
 ## TL;DR
 
-The measurement of interactiveness is a pregnant challenge for Web Performance
-experts. Synthetic monitoring solution vendors, especially, find it difficult to
-provide a computable metric in the absence of user input.
+The measurement of interactiveness is a [pregnant challenge](#why) for Web
+Performance experts. Synthetic monitoring solution vendors, especially, find it
+difficult to provide a computable metric in the absence of user input.
 
 Google’s Time To Interactive is a sophisticated measure designed to determine
 the ideal conditions for interactivity by monitoring both the JS main thread
-activity and the network. It’s quite effective at determining a time when you
-are sure that an interaction will be seamless.
+activity and the network. It’s quite effective at determining
+[a time when you are sure that an interaction will be seamless](#how-to-use-the-tti).
 
-However, TTI is also a complex metric to understand and to exploit that does not
-measure what most people think it measures, which is the time it takes for a
-page to become interactive.<>
+However, TTI is also a complex metric to understand and to exploit that
+[does not measure what most people think it measures](#disambiguation), which is
+the time it takes for a page to become interactive.
 
 Real User Monitoring (RUM) remains the only way to capture user’s actions and
-even there, we still don’t have a single KPI which simply depicts the
-relationship between users behavior and the interactivity of the page over time.
+even there, [we still don’t have a single KPI](#alternatives) which simply
+depicts the relationship between users behavior and the interactivity of the
+page over time.
 
 ---
 
-## The quest for a new metric
+## <span id="why">The quest for a new metric</span>
 
 ### What are we trying to measure?
 
@@ -213,7 +214,7 @@ alt=img_alt
 caption=img_caption
 %}
 
-### How to use the TTI?
+### <span id="how-to-use-the-tti">How to use the TTI?</span>
 
 When you start to look at the performance in terms of display, you quickly
 discover the Visually Complete, i.e. the moment when the entire rendering of the
@@ -242,7 +243,7 @@ JavaScript algorithms to
 making them run in background tasks, therefore not occupying the JavaScript main
 thread).
 
-## Common misconception about Time To Interactive
+## <span id="disambiguation">Common misconception about Time To Interactive</span>
 
 ### Time to Interactive is not the time until a page is interactive
 
@@ -411,7 +412,7 @@ input.
 But in practice, all browsers and browsing contexts are different and there are
 many factors that can influence the time taken by the browser to process a task.
 
-## Interactivity measurement: is TTI enough?
+## <span id="alternatives">Interactivity measurement: is TTI enough?</span>
 
 ### TTI as a new reference metric?
 
