@@ -261,6 +261,10 @@ strong {
 a {
   .post-content & {
     text-decoration: underline;
+
+    &:hover {
+      text-decoration: dotted;
+    }
   }
 
   &.reversefootnote {

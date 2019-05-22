@@ -1361,6 +1361,8 @@ strong {
 
 .post-content a {
   text-decoration: underline; }
+  .post-content a:hover {
+    text-decoration: dotted; }
 
 a.reversefootnote {
   background: none; }
