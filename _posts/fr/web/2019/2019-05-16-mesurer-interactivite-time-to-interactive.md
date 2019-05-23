@@ -235,7 +235,7 @@ caption=img_caption
 ### <span id="comment-utiliser-le-tti">Comment utiliser le TTI ?</span>
 
 Un des premiers indicateurs que l’on découvre quand on s’intéresse aux
-performance d’affichage est le Visuellement Complet, c’est-à-dire le moment où
+performances d’affichage est le Visuellement Complet, c’est-à-dire le moment où
 le rendu de la zone visible de la page est terminé.
 
 Le Time To Interactive est comme le Visuellement Complet : un marqueur de la fin
