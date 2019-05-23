@@ -8,6 +8,7 @@
     /* add zero-width space */ }
 
 :root {
+  color-scheme: light dark;
   --color-main-hue: 330;
   --color-main-saturation: 90%;
   --color-main-lightning: 25%;
