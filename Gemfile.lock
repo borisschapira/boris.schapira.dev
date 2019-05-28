@@ -150,8 +150,8 @@ GEM
     parallel (1.17.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    progressbar (1.10.0)
-    public_suffix (3.0.3)
+    progressbar (1.10.1)
+    public_suffix (3.1.0)
     rake (12.3.2)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
@@ -172,7 +172,7 @@ GEM
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     verbal_expressions (0.1.5)
-    yell (2.1.0)
+    yell (2.2.0)
 
 PLATFORMS
   ruby
