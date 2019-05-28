@@ -85,7 +85,7 @@
     "include-media": "^1.4.9",
     "install": "^0.12.2",
     "mocha": "^6.1.4",
-    "netlify-lambda": "^1.0.3",
+    "netlify-lambda": "^1.4.13",
     "node-sass": "^4.9.4",
     "normalize-scss": "^7.0.1",
     "npm": "^6.5.0",
