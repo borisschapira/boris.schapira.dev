@@ -88,7 +88,7 @@ GEM
     eventmachine (1.2.7)
     fast-stemmer (1.0.2)
     fastimage (2.1.5)
-    ffi (1.11.0)
+    ffi (1.11.1)
     filesize (0.2.0)
     forwardable-extended (2.6.0)
     html-proofer (3.9.3)
@@ -179,7 +179,7 @@ PLATFORMS
 
 DEPENDENCIES
   classifier-reborn
-  ffi (~> 1.9, >= 1.9.18)
+  ffi (~> 1.11)
   html-proofer
   jekyll!
   jekyll-algolia
