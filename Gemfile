@@ -12,7 +12,7 @@ gem 'liquid-c', :git => 'https://github.com/Shopify/liquid-c.git', branch: 'mast
 gem 'rake'
 
 group :jekyll_tests do
-  gem 'ffi', '~> 1.9', '>= 1.9.18'
+  gem 'ffi', '~> 1.11'
   gem 'html-proofer'
 end
 
