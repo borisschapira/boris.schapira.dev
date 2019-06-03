@@ -25,7 +25,7 @@ projet est le début d'une grande aventure…
 
 Dois-je parler de mes expériences ou plutôt insister sur ma mission Commando de
 18 mois chez SGCIB (ou j'ai participé - c'est fou ce que le monde est petit - au
-recrutement de deux stagiaires issus de cette Ecole)&nbsp;?  Si vous êtes
+recrutement de deux stagiaires issus de cette Ecole)&nbsp;? Si vous êtes
 étudiant, si vous avez des questions à poser sur le métier de Consultant
 IT/Finance, n'hésitez pas à laisser un commentaire pour que je sois sûr
 d'aborder des thèmes qui pourront intéresser (j'essaierais ensuite de mettre la

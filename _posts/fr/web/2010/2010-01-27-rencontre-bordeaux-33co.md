@@ -14,9 +14,9 @@ En tant que consultant pour
 [Clever-Age Bordeaux](https://www.clever-age.com/fr/agencies/bordeaux/), je
 risque d'être souvent au contact des entreprises locales. Mieux vaut donc
 connaitre leur taille moyenne, les secteurs porteurs, les inconvénients et les
-avantages de la position géographique…  Je me suis dit qu'une bonne solution
-pour remédier à ce manque de connaissances serait de rencontrer des gens et de
-leur poser la question.
+avantages de la position géographique… Je me suis dit qu'une bonne solution pour
+remédier à ce manque de connaissances serait de rencontrer des gens et de leur
+poser la question.
 
 C'est tout bête, mais il paraît que ça marche assez bien.
 

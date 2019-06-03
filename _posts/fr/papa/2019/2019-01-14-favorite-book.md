@@ -1,6 +1,7 @@
 ---
 title: 'Son livre favori'
-i18n-key: 'favorite-book'
+i18n-key: favorite-book
+slug: livre-favori
 ---
 
 Je découvre que mon petit dernier a le droit d'amener des livres à l'école.

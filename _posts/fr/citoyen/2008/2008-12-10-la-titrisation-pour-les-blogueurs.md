@@ -28,7 +28,7 @@ nombreux :
     mais ça génèrera autant de flux, promis !"
 -   … Submergé par tous ces risques, vous décidez alors de **revendre cette
     "dette" à une régie publicitaire** spécialisée pour 200€ pour récupérer
-    votre espace publicitaire.  La régie découpe les risques associés à ces 200€
+    votre espace publicitaire. La régie découpe les risques associés à ces 200€
     de pub suivant deux axes : la **nature** (décrite ci-dessus) et le
     **terme**. En effet, le risque de fermeture de blog sera plus grand à court
     terme ("Pas assez de visiteurs, je ferme") et à long terme ("J'en ai marre

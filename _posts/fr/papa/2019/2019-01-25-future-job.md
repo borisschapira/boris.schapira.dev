@@ -1,6 +1,7 @@
 ---
 title: 'Le futur métier'
 i18n-key: future-job
+slug: le-futur-metier
 ---
 
 Aujourd'hui, discussion sur son futur métier avec mon grand de 8 ans.

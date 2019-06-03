@@ -1,6 +1,7 @@
 ---
 title: 'Le médecin du foot'
-i18n-key: 'soccer-doctor'
+i18n-key: soccer-doctor
+slug: medecin-du-foot
 ---
 
 Petit koala est malade, je l'emmène chez le médecin traitant, qu'il a donc déjà

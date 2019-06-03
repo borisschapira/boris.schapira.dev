@@ -2,12 +2,13 @@
 title: 'Measuring Interactivity with TTI'
 subtitle: 'Time To (consistently) Interactive'
 i18n-key: time-to-interactive
-canonical: https://blog.dareboost.com/en/2019/05/measuring-interactivity-time-to-interactive/
+canonical: 'https://blog.dareboost.com/en/2019/05/measuring-interactivity-time-to-interactive/'
 cloudinary_logo: dareboost-logo
 main_image: /assets/images/2019-05-16/carnival.jpg
 tags:
     - 'Performance Web'
     - JavaScript
+slug: measuring-interactivity-time-to-interactive
 ---
 
 When we talk about web performance measurement, what we’re actually trying to
