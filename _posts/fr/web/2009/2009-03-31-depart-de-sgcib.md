@@ -45,4 +45,4 @@ mois et je suis pleinement décidé à m'en resservir ailleurs. Il est temps pou
 moi de voir d'autres organisations, de travailler sur d'autres technologies,
 dans d'autres environnements.
 
-Au revoir, SGCIB&nbsp;!
+Au revoir, SGCIB !

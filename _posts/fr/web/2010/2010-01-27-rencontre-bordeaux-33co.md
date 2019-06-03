@@ -23,7 +23,7 @@ C'est tout bête, mais il paraît que ça marche assez bien.
 <!-- more -->
 
 Je me suis inscrit sur le
-[Hub Viadeo "Bordeaux 33&nbsp;: Carrières et Opportunités"](http://fr.viadeo.com/fr/groups/?containerId=0021ve6urf16tmgs)
+[Hub Viadeo "Bordeaux 33 : Carrières et Opportunités"](http://fr.viadeo.com/fr/groups/?containerId=0021ve6urf16tmgs)
 (en fait j'étais déjà inscrit depuis un moment mais pour être parfaitement
 honnête, je lisais les publications d'un œil distrait) et me suis rendu ce soir
 à une réunion de ses membres. Arrivé avec une heure de retard (je ne suis pas
@@ -35,7 +35,7 @@ une heure et demi avec les mêmes personnes (très agréables et intéressantes 
 ailleurs).
 
 En une heure et demi, voici ce que je peux déduire (l'avenir confirmera ou non
-ces déductions "à chaud")&nbsp;:
+ces déductions "à chaud") :
 
 -   Bordeaux est une ville de TPE et PME. Les grands comptes sont rares et leur
     nom revient souvent dans les conversations ;
@@ -53,8 +53,8 @@ ces déductions "à chaud")&nbsp;:
     passe pas uniquement par le salaire ou la constitution d'un plan de
     carrière. Les gens parlent de leur vie, de leurs enfants.
 
-Enfin, dernier constat&nbsp;: il est difficile de retrouver un emploi pour une
-femme qui suit son conjoint. Ca n'est pas inhérent à Bordeaux mais pour une
-moitié des personnes rencontrées ce soir dans ce cas, c'est flagrant.
+Enfin, dernier constat : il est difficile de retrouver un emploi pour une femme
+qui suit son conjoint. Ca n'est pas inhérent à Bordeaux mais pour une moitié des
+personnes rencontrées ce soir dans ce cas, c'est flagrant.
 
-Merci aux organisateurs de la soirée et rendez-vous la prochaine fois&nbsp;!
+Merci aux organisateurs de la soirée et rendez-vous la prochaine fois !

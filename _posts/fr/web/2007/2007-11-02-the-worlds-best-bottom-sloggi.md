@@ -11,4 +11,4 @@ La gagnante internationale est Kristina Dimitrova, une jeune bulgare. Andrei
 Andrei remporte le prix c&#xF4;té homme et défendait les paires de fesses
 roumaines. Ca fait plaisir de voir une manifestation qui met les deux sexes en
 petite tenue. Ca sera moins difficile de convaincre ma dulcinée de m'accompagner
-dans le public l'année prochaine&nbsp;:p
+dans le public l'année prochaine :p

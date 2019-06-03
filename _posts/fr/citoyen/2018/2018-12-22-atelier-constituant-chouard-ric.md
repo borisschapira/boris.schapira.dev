@@ -121,8 +121,8 @@ des assertions :
 
 Une contre-vérité puisque même si les sociétés d'autoroute dégagent de grands
 bénéfices à nos détriments, leur retirer demain l'exploitation ne nous priverait
-pas de devoir continuer à entretenir le réseau (pour un coût allant de 5 à
-9&nbsp;M€ du kilomètre, suivant les contraintes du site[^autoroute])
+pas de devoir continuer à entretenir le réseau (pour un coût allant de 5 à 9 M€
+du kilomètre, suivant les contraintes du site[^autoroute])
 
 [^autoroute]:
 
@@ -361,9 +361,9 @@ en général plus conservateur. Les fragilisés d'aujourd'hui, ceux qui paient
 aujourd'hui les décisions d'urbanisme automobile des 60 dernières années, ont de
 fortes chances d'être les victimes de demain.
 
-> « cela signifie que l’absence de compétence des électeurs, quand elle est
+> "cela signifie que l’absence de compétence des électeurs, quand elle est
 > démontrée, ne favorise pas des propositions irrationnelles ou
-> contre-productives, mais simplement le statu quo »
+> contre-productives, mais simplement le statu quo"
 > <cite>"[Démocraties libérales](https://www.economica.fr/livre-democraties-liberales-magni-berton-raul,fr,4,9782717864700.cfm)",
 > Raul Magni-Berton. Propos cités par Fabien Escalona dans l'article
 > "[Le référendum d’initiative citoyenne, un outil utile mais partiel pour enrichir la démocratie](https://www.mediapart.fr/journal/france/211218/le-referendum-d-initiative-citoyenne-un-outil-utile-mais-partiel-pour-enrichir-la-democratie?onglet=full)".</cite>

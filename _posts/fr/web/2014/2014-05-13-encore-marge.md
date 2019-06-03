@@ -7,22 +7,22 @@ subtitle: Pour mieux apprivoiser nos matériels
 ---
 
 Déjà 7 ou 8 ans que les premiers articles ont été écrits sur le _design_ des
-applications web en fonction des capteurs disponibles. L'idée&nbsp;: utiliser
-tous les services dérivés des capteurs disponibles pour offrir des sites web
+applications web en fonction des capteurs disponibles. L'idée : utiliser tous
+les services dérivés des capteurs disponibles pour offrir des sites web
 réactifs.
 
-Où en sommes-nous&nbsp;?
+Où en sommes-nous ?
 
 <!-- more -->
 
-**Les services plutôt bien utilisés aujourd'hui&nbsp;:**
+**Les services plutôt bien utilisés aujourd'hui :**
 
 -   la localisation ;
 -   le gyroscope ;
 -   l'orientation du matériel ;
 -   la capture image et vidéo (mais on peut mieux faire niveau partage).
 
-**Les services encore très peu utilisés&nbsp;:**
+**Les services encore très peu utilisés :**
 
 -   [le multi-tactile](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Touch_events 'Touch Events ", MDN')
     (encore assez peu utilisé en dehors du _pinch_) ;

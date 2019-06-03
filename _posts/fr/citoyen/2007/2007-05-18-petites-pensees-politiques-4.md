@@ -18,7 +18,7 @@ l'Intérieur ou la Justice pour pas qu'il n'y aie de problèmes dans les
 banlieues, c'est déjà plus discutable. J'espère qu'il ne s'agit pas de ça.
 
 La première intervention du Premier Ministre sur une chaine privée (TF1), c'est
-aussi un symbole. Mais est-ce le bon&nbsp;?
+aussi un symbole. Mais est-ce le bon ?
 
 Un président qui le jour de la nomination de son gouvernement prend les dossiers
 en mains, c'est bien. À ce demander pourquoi aucun président de droite comme de
@@ -30,14 +30,13 @@ Formidable.
 
 Une maghrébine au gouvernement, une parité ministérielle, un message d'Ingrid
 Bétancourt, la reprise en main du dossier EADS… très grosse journée. Choix de
-communication pour impressionner les français ou pur hasard&nbsp;?
+communication pour impressionner les français ou pur hasard ?
 
 Limoger l'instigateur de Médecins du Monde par qu'il a rejoint un gouvernement
 de droite (mais qu'il n'a pas encore commencé à prendre des décisions de
 droite), c'est un peu comme ces étudiants qui occupent une fac pour lutter
-contre une proposition qui n'a encore débouché sur aucune loi&nbsp;: qu'ils
-gardent leurs forces pour le moment où il faudra vraiment lutter contre quelque
-chose.
+contre une proposition qui n'a encore débouché sur aucune loi : qu'ils gardent
+leurs forces pour le moment où il faudra vraiment lutter contre quelque chose.
 
 Enfin, **ma pensée la plus amicale** va aux artistes des Guignols et autres
 humoristes qui vont devoir sacrément bosser pour assimiler les voix de toutes

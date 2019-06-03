@@ -32,13 +32,13 @@ J'ai encore une fois appelé. Il ne s'est encore une fois rien passé.
 
 Quand **le concierge, "expert technique"** envoyé par le propriétaire, m'a
 proposé de faire **des trous dans les fenêtres** pour améliorer la circulation
-de l'air, je n'ai rien dit. Après tout, cela pouvait-il être pire&nbsp;?
+de l'air, je n'ai rien dit. Après tout, cela pouvait-il être pire ?
 
 Oui, ça peut être pire. Depuis hier soir, j'ai une **fuite de canalisation**. De
 l'eau coule chez le voisin d'en dessous. J'ai contacté l'agence à midi, qui m'a
 fait rappelé par un plombier à midi. Il m'a proposé d'intervenir lundi matin…
 
-J'ai rappelé l'agence. En substance, ça a donné ça&nbsp;:
+J'ai rappelé l'agence. En substance, ça a donné ça :
 
 > <span style="color: #000080">- On vous a envoyé **quelqu'un prêt à intervenir
 > immédiatement**.  
@@ -48,17 +48,16 @@ J'ai rappelé l'agence. En substance, ça a donné ça&nbsp;:
 > de dispo assez serrés. De toutes façons, je travaille. J'ai coupé l'arrivée
 > d'eau en partant, ça ne craint rien, mais il faut intervenir.  
 > — **On peut rien faire de plus.**  
-> — Personne ne peut intervenir demain&nbsp;?  
+> — Personne ne peut intervenir demain ?  
 > — Non, **les interventions le week-end, le propriétaire est contre. C'est trop
 > cher.**  
-> — Et si on a une canalisation qui explose ce soir, on fait comment&nbsp;?  
+> — Et si on a une canalisation qui explose ce soir, on fait comment ?  
 > — **Vous coupez l'eau** et vous attendez lundi.  
-> — Mais je travaille aussi lundi&nbsp;!  
+> — Mais je travaille aussi lundi !  
 > — Et bien **vous laissez vos clés à quelqu'un**.  
 > — Mais je n'ai aucune obligation de donner mes clés à quelqu'un que je ne
 > connais pas. Sans parler de l'assurance ou du vol. Vous n'allez pas m'obliger
-> à prendre un jour de congé quand même&nbsp;? Et je ne vais pas vivre sans
-> eau…  
+> à prendre un jour de congé quand même ? Et je ne vais pas vivre sans eau…  
 > — Non monsieur, nous ne pouvons pas vous obliger à être présent. Mais dans ce
 > cas-là **vous vous débrouillez avec le voisin. Ce n'est pas le problème du
 > propriétaire.**  

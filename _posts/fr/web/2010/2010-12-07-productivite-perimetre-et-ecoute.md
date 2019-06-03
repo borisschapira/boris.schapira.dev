@@ -21,7 +21,7 @@ credo. Certains n'hésitent pas à jongler pour déplacer des collaborateurs d'u
 exact de jours nécessaires pour réaliser une tâche et calculant les plannings au
 jour près.
 
-Seulement voilà&nbsp;: déplacer des collaborateurs pour remplir des besoins
+Seulement voilà : déplacer des collaborateurs pour remplir des besoins
 verbalisés ne fonctionne pas. D'abord, parce qu'il est excessivement difficile
 de prévoir le coût d'un projet au jour près avant d'en avoir atteint environ le
 tiers. Le cône d'incertitude est trop large, et les estimations varient d'un
@@ -30,22 +30,21 @@ incertitudes autour des spécifications du projet entrainent des aller-retour
 avec les commanditaires et que ces aller-retour peuvent entrainer des
 ré-évaluation du temps nécessaire. Même en itérant des petites tâches avec un
 modèle agile. Enfin, cela ne fonctionne pas parce qu'un collaborateur n'est pas
-un poids que l'on déplace sur une balance pour la faire pencher&nbsp;: sa
-contribution n'est pas égale, d'un projet à un autre. Pire&nbsp;: sur un projet
-qu'il maitrise peu, un collaborateur peut freiner la dynamique d'une équipe qui
+un poids que l'on déplace sur une balance pour la faire pencher : sa
+contribution n'est pas égale, d'un projet à un autre. Pire : sur un projet qu'il
+maitrise peu, un collaborateur peut freiner la dynamique d'une équipe qui
 n'hésitera pas à l'aider à prendre ses marques en dépit de sa productivité
 immédiate.
 
 Si vous souhaitez réellement améliorer la productivité de vos collaborateurs, ne
-modifiez pas la taille de vos équipes. Concentrez-vous plutôt sur deux
-choses&nbsp;: la motivation et le <span lang="en">leadership</span>. Donnez une
-direction à vos équipes, faites-leur entrevoir une finalité à laquelle ils
-auront contribué. Une fois qu'il auront une bonne idée de l'objectif et de
-l'importance de leur participation, donnez-leur une voix à suivre (celle de leur
-responsable, du technicien le plus expérimenté, du collaborateur le plus
-passionné) qui sera leur guide. Si un de vos développeurs a besoin d'aide,
-faites en sorte qu'il se sente libre de le dire et donner lui des opportunités
-de l'exprimer.
+modifiez pas la taille de vos équipes. Concentrez-vous plutôt sur deux choses :
+la motivation et le <span lang="en">leadership</span>. Donnez une direction à
+vos équipes, faites-leur entrevoir une finalité à laquelle ils auront contribué.
+Une fois qu'il auront une bonne idée de l'objectif et de l'importance de leur
+participation, donnez-leur une voix à suivre (celle de leur responsable, du
+technicien le plus expérimenté, du collaborateur le plus passionné) qui sera
+leur guide. Si un de vos développeurs a besoin d'aide, faites en sorte qu'il se
+sente libre de le dire et donner lui des opportunités de l'exprimer.
 
 N'hésitez pas, également, à mettre en place une stratégie de montée en
 compétences communes. Pour cela, favoriser l'échange plutôt que la rédaction de
@@ -68,14 +67,14 @@ projet décale la date de livraison. Le retard devient alors réellement
 problématique alors que s'il avait été communiqué plus tôt, il aurait pu être
 anticipé par le commanditaire.
 
-La raison de ce comportement est simple et compréhensible&nbsp;: la peur de
-décevoir. La solution est simple aussi&nbsp;: communiquer. Si vous communiquer
-régulièrement avec vos commanditaires sur les difficultés rencontrées, et
-l'énergie que vous dégagez à essayer de les résoudre, leur déception en cas
-d'imprévu sera moindre, car cela ne sera pas une surprise. Mieux, ils seront en
-mesure de comprendre ce qui, dans leur demande, a pu générer des difficultés.
-Ils pourront ainsi, sur certains projets dont la date de livraison est cruciale,
-réfléchir avec vous, en amont, à l'élimination des risques.
+La raison de ce comportement est simple et compréhensible : la peur de décevoir.
+La solution est simple aussi : communiquer. Si vous communiquer régulièrement
+avec vos commanditaires sur les difficultés rencontrées, et l'énergie que vous
+dégagez à essayer de les résoudre, leur déception en cas d'imprévu sera moindre,
+car cela ne sera pas une surprise. Mieux, ils seront en mesure de comprendre ce
+qui, dans leur demande, a pu générer des difficultés. Ils pourront ainsi, sur
+certains projets dont la date de livraison est cruciale, réfléchir avec vous, en
+amont, à l'élimination des risques.
 
 L'équilibre est délicat à trouver car un commanditaire trop présent peut nuire à
 un projet en ajustant trop souvent sa demande ou en analysant les zones
@@ -87,8 +86,8 @@ vos commanditaires sous contrôle.
 
 Un chef de projet doit penser plus loin que ses développeurs, mais ce n'est pas
 une raison pour ne pas les écouter. Dans le développement logiciel, vos
-collaborateurs sont votre seule ressource&nbsp;: il n'y a rien de plus important
-que de vérifier qu'ils ont tout ce qu'il leur faut pour faire leur travail.
+collaborateurs sont votre seule ressource : il n'y a rien de plus important que
+de vérifier qu'ils ont tout ce qu'il leur faut pour faire leur travail.
 Malheureusement, de nombreux chefs de projet préfèrent se focaliser sur des
 dates, des réunions ou des échéances, ce qui est aussi une bonne chose car cela
 permet de pousser le projet en avant, mais parfois le retour des développeurs

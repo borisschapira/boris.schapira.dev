@@ -14,16 +14,15 @@ servir.
 
 <!-- more -->
 
-Les modalités d'affichage sont de deux types : _la sélection et la mise en
+Les modalités d'affichage sont de deux types : _la sélection et la mise en
 page_.
 
 La _sélection_ consiste à filtrer et grouper les éléments, à partir des
 propriétés renseignées dans les colonnes de la liste, pour n'afficher que ceux
-que l'on désire afficher. Dans une liste de « documents publiés dans la
-Presse », on pourra ainsi choisir d'afficher sur la page dédiée à un magasine
-uniquement les articles qui y ont été publiés (filtrage sur la source de
-l'article) ou seulement les articles du mois de mai (filtrage sur la date de
-parution).
+que l'on désire afficher. Dans une liste de "documents publiés dans la Presse",
+on pourra ainsi choisir d'afficher sur la page dédiée à un magasine uniquement
+les articles qui y ont été publiés (filtrage sur la source de l'article) ou
+seulement les articles du mois de mai (filtrage sur la date de parution).
 
 La _mise en page_ définit la façon dont les éléments vont être affichés. Elle se
 définit principalement dans la feuille de style de votre site et dans le fichier
@@ -33,7 +32,7 @@ fonctions XML.
 
 Les mises en page définies dans ItemStyle.xsl apparaissent ensuite dans
 l'attribut Style d'élément (ItemStyle) du Content Query Web Part, dans
-« Présentation ».
+"Présentation".
 
 **Ce qu'il faut savoir**
 
@@ -49,7 +48,7 @@ Ouvrez SharePoint Designer et rendez vous dans &lt;SiteSP&gt;/\_catalogs/wp.
 
 Copiez l'actuel ContentQuery.Web Part puis éditez la copie renommée avec un nom
 qui fait sens. Le code de ce fichier est composé de balises XML. Modifiez ou
-ajoutez la propriété suivante :
+ajoutez la propriété suivante :
 
 ```
 <property name="CommonViewFields" type= »string »></property>
@@ -57,16 +56,16 @@ ajoutez la propriété suivante :
 
 Cette propriété concerne les colonnes qui devront exceptionnellement être
 considérées. Vous devez connaitre le nom en dur de votre colonne et son type
-puis les entrer sous le modèle « Nom, Type ; ». Pour connaitre le nom de votre
+puis les entrer sous le modèle "Nom, Type ;". Pour connaitre le nom de votre
 colonne en dur (qui peut être différent du nom affiché), rendez vous en mode
 interface dans les paramètres de votre liste, puis éditez la colonne qui vous
 intéresse. Dans la barre d'adresse de votre navigateur, notez ce qui est noté
-entre « &amp;Field= » (et « &amp; »).
+entre "&amp;Field=" (et "&amp;").
 
 Attention, certains caractères sont traduits par leurs valeurs HTML. Par
-exemple, la colonne « Type de Publication » deviendra
-« Type%5Fx0020%5Fde%5Fx0020%5Fpublication ». Évitez donc, au moment de nommer
-vos colonnes, les espaces et caractères spéciaux.
+exemple, la colonne "Type de Publication" deviendra
+"Type%5Fx0020%5Fde%5Fx0020%5Fpublication". Évitez donc, au moment de nommer vos
+colonnes, les espaces et caractères spéciaux.
 
 Sachez également que le nom en dur (celui qu'on retrouve dans la barre
 d'adresse) ne se changera pas si vous renommez votre colonne.
@@ -80,8 +79,8 @@ supérieurdes à 200 avec pour chaque article la photo Image Report de l'article
 le nom de l'auteur, son email, et un aperçu du contenu de son article.
 
 1)<span> </span>Vérifiez que votre bibliothèque contient bien une colonne
-« Auteur » et une colonne « Courrier Electronique » (d'origine sur MOSS 2007).
-Vérifiez la présence de votre colonne personnalisée « Ref » et son renseignement
+"Auteur" et une colonne "Courrier Electronique" (d'origine sur MOSS 2007).
+Vérifiez la présence de votre colonne personnalisée "Ref" et son renseignement
 correct pour chacun des articles.
 
 2)<span> </span>Ouvrez ItemStyle.xsl et ajoutez ce nouveau style à la fin, juste
@@ -96,7 +95,7 @@ définition sera composée des mots entamés dans les 150 premières lettres de
 l'article).
 
 3)<span> </span>Copiez ContentQuery.Web Part et renommez en
-customArticleQuery.Web Part. Ouvrez customArticleQuery.Web Part et ajoutez :
+customArticleQuery.Web Part. Ouvrez customArticleQuery.Web Part et ajoutez :
 
 ```
 <property name= »CommonViewFields » type= »string »> PublishingPageContent,Note; _Author,Text; EMail, Text; Ref, Integer; </property>
@@ -105,7 +104,7 @@ customArticleQuery.Web Part. Ouvrez customArticleQuery.Web Part et ajoutez :
 Pour que votre Content Query Web Part requête, en plus des champs habituels, le
 contenu des pages, l'auteur, son email et la référence de la page.
 
-Profitez-en pour redéfinir les propriétés « Title » et « Description » de
+Profitez-en pour redéfinir les propriétés "Title" et "Description" de
 customArticleQuery.Web Part afin de le rendre facilement trouvable dans votre
 galerie de Web Parts.
 
@@ -113,7 +112,7 @@ galerie de Web Parts.
 la colonne de référence pour n'afficher que les éléments dont la référence est
 supérieure à 200.
 
-5)<span> </span>Choisissez le style d'élément (Item Style) « customItemStyle ».
+5)<span> </span>Choisissez le style d'élément (Item Style) "customItemStyle".
 
 Et voilà , vous maitrisez votre Content Query Web Part. À vous la puissance des
-listes sans avoir ouvert Visual Studio. Elle est pas belle la vie ?
+listes sans avoir ouvert Visual Studio. Elle est pas belle la vie ?

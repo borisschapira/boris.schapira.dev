@@ -33,7 +33,7 @@ Wordpress et sa plateforme de blog Wordpress.com. Alex a décidé
 [d'en intégrer quelques-unes et de s'inspirer des autres](https://plugins.trac.wordpress.org/changeset/314024 'Changeset de Regenerate Thumbnails 2.1.0')
 pour améliorer un peu plus
 [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/).
-Essayez-le&nbsp;!
+Essayez-le !
 
 ---
 
@@ -53,4 +53,4 @@ decided
 to[ include some of them and redevelop the others](https://plugins.trac.wordpress.org/changeset/314024 'Regenerate Thumbnails 2.1.0 Changeset')
 to improve
 [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/)
-even more. Try it&nbsp;!
+even more. Try it !

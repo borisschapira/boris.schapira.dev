@@ -15,7 +15,7 @@ précisions de la part de ce journal que j'apprécie.
 
 # Pas de rémunération
 
-Un journaliste du Monde a écrit dans un article publié récemment&nbsp;:
+Un journaliste du Monde a écrit dans un article publié récemment :
 
 > 1445 : nombre d'étudiants dans le monde rémunérés par Microsoft pour propager
 > la bonne parole dans leurs universités.

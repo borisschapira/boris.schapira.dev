@@ -13,12 +13,12 @@ boulot.
 
 Et bien pour être parfaitement honnête, ça ne me choque pas plus que ça et je
 trouve même la décision cohérente avec l'orientation prise par la commission dès
-le début de l'affaire. La grande question que je me pose est&nbsp;: la CEJ
+le début de l'affaire. La grande question que je me pose est : la CEJ
 rend-t-elle jugement pour sanctionner la position dominante de Microsoft ou son
-abus de position dominante&nbsp;? Les deux notions sont clairement différentes
-et je reste sceptique, surtout quand je lis cette dépêche de l'AFP (original
-ici)&nbsp;: "_La Commission a indiqué clairement qu'elle voulait maintenant voir
-"une baisse substantielle" des parts de marché du géant américain_".
+abus de position dominante ? Les deux notions sont clairement différentes et je
+reste sceptique, surtout quand je lis cette dépêche de l'AFP (original ici) :
+"_La Commission a indiqué clairement qu'elle voulait maintenant voir "une baisse
+substantielle" des parts de marché du géant américain_".
 
 Alors Windows sans Media Player, ok. Davantages de documentation pour les
 serveurs, je suis à 200 % pour. Plus d'interopérabilité pour Windows, ça ne peut

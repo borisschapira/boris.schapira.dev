@@ -14,7 +14,7 @@ d'exploitation vendus par Microsoft…
 
 <!-- more -->
 
-### 1985&nbsp;: naissance d'un mythe
+### 1985 : naissance d'un mythe
 
 En 1985 apparaît le premier opus de la série Windows, une interface graphique
 tournant sur le système d'exploitation MS-DOS. Windows 1.0 est très limité dans
@@ -22,16 +22,16 @@ ses fonctionnalités et doit faire face à de sévères concurrents tels que
 VisioCorp, Quaterdeck, Digital Research, IBM (TopView) et bien sûr Apple
 Macintosh sorti un an auparavant.
 
-Windows bénéficiait déjà des atouts qu'on lui connaît aujourd'hui&nbsp;:
-interface graphique, gestion unifiée des périphériques, transferts de données
-entre programme, icônes, support de la souris ou système de menus communs
-(Fichier, Édition, Outils, Affichage…)
+Windows bénéficiait déjà des atouts qu'on lui connaît aujourd'hui : interface
+graphique, gestion unifiée des périphériques, transferts de données entre
+programme, icônes, support de la souris ou système de menus communs (Fichier,
+Édition, Outils, Affichage…)
 
 A l'époque, la configuration requise (512Ko de RAM et un disque dur) était assez
 haut-de-gamme mais devait permettre l'exécution en simultanée de plusieurs
 programmes.
 
-### 1987&nbsp;: la relève
+### 1987 : la relève
 
 Windows 2.0 permit à plusieurs fenêtres de se chevaucher en 1987 puis
 Windows/386 avec le support du processeur Intel (80)386\. Jusqu'à la fin des
@@ -44,19 +44,19 @@ En 1990 est introduit sur le marché Windows 3.0\. Les pentiums x386 se
 démocratisent et les limites tombent, laissant libre champ aux développeurs qui
 peuvent enfin dépasser le Mo d'allocation mémoire. Windows propose alors un
 gestionnaire de programmes, mais également de fichiers, ce qui existe toujours
-sous le nom « d'explorer ».
+sous le nom "d'explorer".
 
 De l'avis même de Microsoft plusieurs années plus tard, OS/2 d'IBM était le
 projet le plus avancé, mais Big Blue n'avait pas su motiver les développeurs
 d'applications. Windows commença ainsi à s'imposer.
 
-### 1992&nbsp;: Windows 3.1, 95, 98, la période Grand Public
+### 1992 : Windows 3.1, 95, 98, la période Grand Public
 
-Windows 3.1 et Windows for Workgroups apparurent en 1992&nbsp;: plus stables,
-les systèmes étaient plus axés multimédia. C'est avec ces versions qu'on vit
+Windows 3.1 et Windows for Workgroups apparurent en 1992 : plus stables, les
+systèmes étaient plus axés multimédia. C'est avec ces versions qu'on vit
 apparaître les premiers OEM comme Compaq.
 
-Août 1995 chamboula définitivement la donne&nbsp;: Windows 95 représentait une
+Août 1995 chamboula définitivement la donne : Windows 95 représentait une
 évolution massive qui séduisit le grand public comme les professionnels.
 Devenant enfin 32 bits, Windows 95 sortit en parfaite harmonie avec l'arrivée de
 PC plus puissants à des coûts abordables. Ce fut le début de l'équipement de
@@ -77,8 +77,8 @@ deux ingénieurs Digital. C'est ainsi qu'en 1993, la firme commercialise Windows
 NT 3.1.
 
 A partir de ce moment le développement de Windows s'effecte sur deux axes
-séparés&nbsp;: d'un côté, le prolongement des versions 3.1 et 95 en Win32 et de
-l'autre, les systèmes basés sur ce nouveau noyau&nbsp;: les systèmes NT.
+séparés : d'un côté, le prolongement des versions 3.1 et 95 en Win32 et de
+l'autre, les systèmes basés sur ce nouveau noyau : les systèmes NT.
 
 Notons d'ailleurs qu'à l'origine Windows NT devait supporter plusieurs API dont
 OS/2 Presentation Manager et Posix. Après les succès rencontré par Windows 95 et
@@ -88,7 +88,7 @@ applications Windows.
 NT 4.0 arrive en 1996 et rencontre le succès auprès des entreprises, séduites
 par l'orientation réseau du système, sa stabilité et sa sécurité, éminemment
 absentes des versions grand public qui connurent pourtant deux nouvelles
-versions&nbsp;: Windows 98 qui apporta l'USB, l'AGP, mais également sa mauvaise
+versions : Windows 98 qui apporta l'USB, l'AGP, mais également sa mauvaise
 gestion du partage de la mémoire entre processus et le très critiqué Me, qui
 incorporait pourtant un mécanisme de restauration permettant de revenir à un
 état précédent du système en cas de plantage
@@ -105,7 +105,7 @@ annonce finalement une sortie en 2007.
 
 5 années pendant lesquelles il a fallu consolider XP et Internet Explorer, 5 ans
 pendant lesquels les technologies développées par la firme de Redmond ont été
-intégrées à XP plutôt que portées sur un nouveau système&nbsp;: le pare-feu du
+intégrées à XP plutôt que portées sur un nouveau système : le pare-feu du
 Service Pack 2, Media Center, le support 64 bits, les Tablet PC, le Shell de
 commande PowerShell, sans oublier Internet Explorer et toutes ses versions, 7
 comprise.
@@ -118,4 +118,4 @@ renouveau complet a eu lieu mi 2003\. Après cette mise à plat, il n'aura fallu
 que trois ans pour proposer une version exécutable de Vista et désormais le
 système est commercialisé.
 
-_Que nous prévoit Microsoft pour l'avenir&nbsp;?_
+_Que nous prévoit Microsoft pour l'avenir ?_

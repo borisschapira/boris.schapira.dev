@@ -5,7 +5,7 @@ tags:
 serie: 'Phrases insolites'
 ---
 
-C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
+C’est fou ce qu’on peut entendre quand on tend l’oreille !
 
 <!-- more -->
 
@@ -13,16 +13,16 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
 
 > — Non mais toi de toutes façons, t'es toujours là à faire ton prétentieux,
 > c'est insupportable.  
-> — Qu'est-ce que j'ai dit&nbsp;?  
+> — Qu'est-ce que j'ai dit ?  
 > — Non mais c'est même pas dans ce que tu dis, c'est toi… ta façon d'écrire des
 > mails par exemple. Toujours à mettre des "S'il vous plait" et à essayer de pas
-> faire de fautes d'orthographe. Tu te crois meilleur que les autres&nbsp;?
+> faire de fautes d'orthographe. Tu te crois meilleur que les autres ?
 
 ## Emplacement stratégique
 
 > — Tu sais, les cabinets de médecins qui sont basés à la défense, ils ne sont
 > pas là par hasard…  
-> — Ah non&nbsp;?  
+> — Ah non ?  
 > — En fait, ce sont des observatoires du pétage de plomb. Ils ont déterminé que
 > c'était ici qu'il y avait le plus de mecs susceptibles de craquer et ils
 > attendent dans l'ombre…
@@ -36,16 +36,16 @@ C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
 
 ## Une autre façon de voir les choses
 
-> — Ça va, pas trop à la ramasse dans ton taf&nbsp;?  
+> — Ça va, pas trop à la ramasse dans ton taf ?  
 > — Non, ça peut aller. Disons que là, métaphoriquement, je fais la course avec
 > un mec.  
-> — Et&nbsp;?  
+> — Et ?  
 > — Ben il court vachement vite…
 
 ## Matrix Reloaded
 
 > — Ok donc la nouvelle version de notre appli porte le nom de code 'Morpheus'.
-> Woaw, après 'Neo', c'est super original&nbsp;! Et pourquoi pas Trinity,
-> pendant qu'on y est&nbsp;?  
+> Woaw, après 'Neo', c'est super original ! Et pourquoi pas Trinity, pendant
+> qu'on y est ?  
 > — Trinity, c'est contre mes convictions religieuses.  
 > — Mouais, encore une histoire de minorité visible…

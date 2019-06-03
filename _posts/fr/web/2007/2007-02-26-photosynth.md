@@ -14,19 +14,19 @@ Microsoft Research). Avec l'avènement de la technique par
 
 <!-- more -->
 
-Principe de l'application&nbsp;: il est possible, à partir de la donnée de
-certains points-clés sur plusieurs images d'un même objet de définir les
-caractéristiques spatiales (et internes, mais c'est un autre problème) des
-appareils ayant pris les photos. Exploitant une énorme base de données de
-photos, [PhotoSynth](https://en.wikipedia.org/wiki/Photosynth) calcule de
-lui-même les points clés et extrapole la position dans l'espace des appareils
-photos et des photos elle-même, élaborant par là-même une reconstitution 3D de
-l'espace considéré suivant l'ensemble des prises de vue capturées par les
-différents photographes.
+Principe de l'application : il est possible, à partir de la donnée de certains
+points-clés sur plusieurs images d'un même objet de définir les caractéristiques
+spatiales (et internes, mais c'est un autre problème) des appareils ayant pris
+les photos. Exploitant une énorme base de données de photos,
+[PhotoSynth](https://en.wikipedia.org/wiki/Photosynth) calcule de lui-même les
+points clés et extrapole la position dans l'espace des appareils photos et des
+photos elle-même, élaborant par là-même une reconstitution 3D de l'espace
+considéré suivant l'ensemble des prises de vue capturées par les différents
+photographes.
 
 En soi, la technologie autorise une réplication locale mais pour être
 pertinente, la base de données de photos se devrait d'être gigantesque. Ce qui
-pourra donner tout son sens à la technologie est l'aspect collaboratif&nbsp;: à
+pourra donner tout son sens à la technologie est l'aspect collaboratif : à
 supposer qu'un groupe de personnes fiables (afin d'éviter les abus) charge ses
 photos sur un serveur équipé de Photosynth. Si l'une de ces personnes applique
 un mot-clé à une photo (portant par exemple le nom de l'objet qu'elle
@@ -38,4 +38,4 @@ avec le reste du monde, de profiter des connaissances de chacun et de recréer l
 monde en 3D, pour le plaisir de tous.
 
 En attendant, on ne peut encore qu'essayer PhotoSynth, mais le résultat laisse
-rêveur&nbsp;!
+rêveur !

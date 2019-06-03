@@ -8,8 +8,8 @@ regards bas. Le boulot étant passé, il reste métro et dodo… La rame vient d
 s'arrêter en station quand les hauts-parleurs grésillent…
 
 > " Mesdames et messieurs, mesdames et messieurs, votre attention s'il vous
-> plait. Ici, votre conducteur préféré&nbsp;! Nous allons devoir patienter un
-> peu en raison d'un… euh… objet sur la voie devant nous. Donc bon ben, on va
-> attendre un peu…"</p>
+> plait. Ici, votre conducteur préféré ! Nous allons devoir patienter un peu en
+> raison d'un… euh… objet sur la voie devant nous. Donc bon ben, on va attendre
+> un peu…"</p>
 
-<p>Pour lire la suite, [rendez-vous sur Blog-En-Commun](http://www.blogencommun.fr/?2008/02/15/1345-ligne-1-l-art-de-detendre-ses-usagers)&nbsp;!
+<p>Pour lire la suite, [rendez-vous sur Blog-En-Commun](http://www.blogencommun.fr/?2008/02/15/1345-ligne-1-l-art-de-detendre-ses-usagers) !

@@ -9,7 +9,7 @@ tags:
 
 La **salle de marché** s'excite. La courbe de taux se retourne et le Trading a
 besoin d'**outils** pour prendre les bonnes **décisions**. Appels téléphonique
-aux Commandos, envois de mails ou cris à travers la salle&nbsp;: nous sommes
+aux Commandos, envois de mails ou cris à travers la salle : nous sommes
 immédiatement au courant. En croisant divers référentiels, nous extrayons la
 liste d'**opérations** concernées, puis lançons nos applicatifs et fournissons
 quelques minutes plus tard les indicateurs désirés.
@@ -19,8 +19,8 @@ Cela a l'air simple et la plupart des utilisateurs ne se doutent pas de la
 Elle provient elle-même d'une application reliée à des **flux d'information**
 sur les taux d'intérêt influencés en **temps réel** par l'offre et la demande.
 
-Nous traduisons la demande en briques logiques&nbsp;: **périmètre** de positions
-issu du croisement de divers référentiels, **monnaies** concernées, type
+Nous traduisons la demande en briques logiques : **périmètre** de positions issu
+du croisement de divers référentiels, **monnaies** concernées, type
 d'**analyse** et paramètres dédiés, **stock** considéré pour la prise en compte
 des fixings, date de **valorisation**, heure de modification des produits… que
 nous envoyons à une application chargée du calcul.

@@ -8,8 +8,8 @@ canonical: 'https://blog.clever-age.com/fr/2013/08/06/l-e-commerce-toujours-plus
 
 StrangeLoop (faisant désormais partie de Radware) vient de publier son rapport
 annuel sur la performance Web des sites e-commerces. Se basant sur le classement
-Alexa, ils ont moyenné les performances de plus de 500 vendeurs. Et
-comme [l’année dernière](/2012/01/le-commerce-reste-lent/), les résultats sont
+Alexa, ils ont moyenné les performances de plus de 500 vendeurs. Et comme
+[l’année dernière](/2012/01/le-commerce-reste-lent/), les résultats sont
 décevants.
 
 <!-- more -->
@@ -36,7 +36,7 @@ nombreuses (91 en moyenne) et insuffisamment optimisées. Consolidation,
 minification, compression, retaillage… sont autant d’actions simples mais
 cruciales qu’il faut mettre en place.
 
-Ce rapport me désole autant qu’il me passionne&nbsp;: nous avons encore beaucoup
-à faire pour améliorer l’expérience utilisateur !
+Ce rapport me désole autant qu’il me passionne : nous avons encore beaucoup à
+faire pour améliorer l’expérience utilisateur !
 
 [Livre blanc de Radware sur les performances Web des sites e-commerce](http://www.radware.com/SiteCode/Templates/rclp.aspx?id=6442452054)

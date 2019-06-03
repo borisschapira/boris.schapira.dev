@@ -19,7 +19,7 @@ l'habitude de travailler". Mais il n'intervient pas le week-end et ne dispose
 d'aucun document officiel attestant d'un rattachement à l'agence. Idem pour le
 concierge.
 
-Nous pouvons donc, au choix&nbsp;: ne rien faire et porter plainte contre notre
+Nous pouvons donc, au choix : ne rien faire et porter plainte contre notre
 agence (avec moultes procédures à la clé qui nous fatiguerons davantage qu'eux,
 et le risque que le voisin, le propriétaire ou le syndic s'en prenne à nous dans
 le même temps) ou essayer de faire quelque chose. Impossible de prendre un jour

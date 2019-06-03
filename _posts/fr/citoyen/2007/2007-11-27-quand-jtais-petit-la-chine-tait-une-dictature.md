@@ -5,8 +5,8 @@ title: "Quand j'étais petit, la Chine était une dictature"
 Quand j&#8217;&#233;tais petit, la Chine &#233;tait une dictature. On parlait de
 camps de travaux forc&#233;s, de dirigeants corrompus alli&#233;s de
 l&#8217;URSS… &#199;a me faisait un peu penser aux histoires de mon
-grand-p&#232;re sur l&#8217;Italie fasciste&nbsp;: &#231;a me navrait et
-surtout, &#231;a m&#8217;ennuyait.
+grand-p&#232;re sur l&#8217;Italie fasciste : &#231;a me navrait et surtout,
+&#231;a m&#8217;ennuyait.
 
 Pendant quelques ann&#233;es, qui ont sans doute co&#239;ncid&#233; avec la
 chute de l&#8217;empire sovi&#233;tique, je n&#8217;ai plus entendu parler de la
@@ -48,8 +48,8 @@ remplacent peu &#224; peu les &#171; ritals &#187; et les &#171; arabes &#187;
 dans les discours x&#233;nophobes. Certains y voient la nouvelle invasion,
 pensant qu'ils surgissent de nulle part et oubliant que notre petit pays, nos
 petites entreprises et notre petite &#233;conomie ne sont pas grand-chose devant
-une si massive population tourn&#233;e (de force&nbsp;?) vers un unique objectif
-de r&#233;ussite &#233;conomique.
+une si massive population tourn&#233;e (de force ?) vers un unique objectif de
+r&#233;ussite &#233;conomique.
 
 L&#8217;image de la Chine a d&#233;cid&#233;ment bien chang&#233; depuis le
 temps o&#249; j&#8217;&#233;tais petit.

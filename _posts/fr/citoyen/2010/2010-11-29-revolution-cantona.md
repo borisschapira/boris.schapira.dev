@@ -21,7 +21,7 @@ consommation, une augmentation du chômage.
 
 Vous croyez à un mauvais scénario, que tout cela est impossible. Et pourtant…
 [c'est déjà arrivé](https://fr.wikipedia.org/wiki/Krach_de_1929 'Article sur le Krach de 1929 sur Wikipédia').
-Heureusement, il est fort peu probable que cela réussisse et pour cause&nbsp;:
-les liquidités en question ne sont pas disponibles car probablement même pas
+Heureusement, il est fort peu probable que cela réussisse et pour cause : les
+liquidités en question ne sont pas disponibles car probablement même pas
 imprimées. Une très grande partie de notre capital est virtuel. La révolution
 attendra.

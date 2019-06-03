@@ -25,15 +25,15 @@ qu’on ne l’attendait pas sur du JavaScript, à tort.
 %}
 
 [**TypeScript**](http://www.typescriptlang.org/), le nouveau bébé de Hejlsbernt
-chez Microsoft, est un **sur-ensemble de JavaScript** ajoutant au langage un
+chez Microsoft, est un **sur-ensemble de JavaScript** ajoutant au langage un
 certain nombre d’extensions conceptuelles dont notamment le typage statique, et
 une orientation objet centrée sur les classes et non plus les prototypes.
 
 Pour passer de TypeScript à JavaScript, le développeur utilisera un compilateur,
 mais TypeScript ne doit pas être confondu avec d’autres langages générant du
-JavaScript : il n’est ni une réinterprétation de JavaScript dans une syntaxe
-différente, comme [CoffeeScript](http://coffeescript.org), ni destiné à être
-exécuté dans son propre runtime comme [Dart](https://www.dartlang.org)
+JavaScript : il n’est ni une réinterprétation de JavaScript dans une syntaxe
+différente, comme [CoffeeScript](http://coffeescript.org), ni destiné à être
+exécuté dans son propre runtime comme [Dart](https://www.dartlang.org)
 
 Le langage semble pensé pour l’avenir. La syntaxe de déclaration des classes,
 par exemple, est issue de
@@ -49,12 +49,12 @@ TypeScript) est sous licence Apache 2.0 et que le langage est sous licence Open
 Web Foundation (OWFa 1.0).
 
 TypeScript n’est pas le seul dans la course à la succession de JavaScript mais
-il se démarque en se positionnant **non pas comme un remplaçant, mais plutôt
-comme une extension facilitant l’usage de JavaScript** pour du développement
+il se démarque en se positionnant **non pas comme un remplaçant, mais plutôt
+comme une extension facilitant l’usage de JavaScript** pour du développement
 objet. En somme, un cri d’amour de Microsoft envers une technologie en pleine
 émancipation sur le Web, côté client comme côté serveur.
 
-De plus :
+De plus :
 
 -   Respectant la syntaxe JavaScript, il peut être utilisé dès maintenant sur
     des projets en Production, sans coût de migration
@@ -62,7 +62,7 @@ De plus :
     vous lui passez vos JavaScripts actuels, il les validera en vérifiant que
     les types sont respectés
 -   Il n’exclut pas de continuer à utiliser les outils JavaScript déjà présent
-    dans votre intégration continue : compilateurs, réducteurs, concaténeurs
+    dans votre intégration continue : compilateurs, réducteurs, concaténeurs
     s’appliqueront sur le JavaScript en sortie de TypeScript.
 -   En ajoutant un compilateur, il ajoute une sécurité supplémentaire contre les
     erreurs de développement

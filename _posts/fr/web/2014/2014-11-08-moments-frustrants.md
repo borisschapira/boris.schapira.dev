@@ -37,7 +37,7 @@ Ensuite, c'est la conférence de **David Rousset** qui m'a laissé sur ma faim.
 Car le pauvre, durant
 "**[Introduction à TypeScript et retour d'expérience sur le portage de BabylonJS](http://www.paris-web.fr/2014/conferences/sponsor-microsoft.php)**",
 s'est retrouvé privé de connexion Internet et même son PC s'est mis à faire des
-siennes (la panne de ZoomIt!, un classique). Résultat&nbsp;: une présentation où
+siennes (la panne de ZoomIt!, un classique). Résultat : une présentation où
 l'assistance n'a probablement pas compris à quel point le typage peut améliorer
 la productivité et la relecture, n'a pas probablement pas saisi le gain que peut
 apporter le compilateur ou les opportunités en termes de gestion des
@@ -58,9 +58,9 @@ les mesures de perfomance comparatives de manière automatisée. C’est
 hyper-intéressant en théorie mais en pratique cela impose d’expliquer longtemps
 le protocole, de faire installer de très (trop) nombreuses dépendances aux
 participants… Je pense qu’il faut vraiment garder l’idée mais changer la forme,
-du moins pour les participants&nbsp;: les faire travailler dans un sous-dépôt ou
-sur une branche isolée moins complexe à prendre en main pour qu’ils puissent
-aller plus rapidement à la contribution d’optimisations. Là, le protocole a
-gâché la fête et c'était vraiment dommage. Je suis sûr que Nicolas et Matthias
-ont passé un temps fou à mettre en place tout ça et j'étais déçu de voir que
-finalement, les _commits_ n'arrivaient pas.
+du moins pour les participants : les faire travailler dans un sous-dépôt ou sur
+une branche isolée moins complexe à prendre en main pour qu’ils puissent aller
+plus rapidement à la contribution d’optimisations. Là, le protocole a gâché la
+fête et c'était vraiment dommage. Je suis sûr que Nicolas et Matthias ont passé
+un temps fou à mettre en place tout ça et j'étais déçu de voir que finalement,
+les _commits_ n'arrivaient pas.

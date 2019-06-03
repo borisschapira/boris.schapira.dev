@@ -85,7 +85,7 @@ l’ajout ou la modification de composants visuels (ô, designs obliques, je pen
 d’expérience est si importante qu’il devient impossible de modifier l’un sans
 affecter l’autre. Pourtant, un site n'est souvent réalisé qu'en envisageant en
 amont des <span lang="lat">personas</span> qui schématisent les utilisateurs
-réels… dont on peut affiner le profil par le biais des analytiques. Il y a donc
+réels… dont on peut affiner le profil par le biais des analytiques. Il y a donc
 de fortes chances qu'il faille adapter le <span lang="en">design</span> a
 posteriori…
 

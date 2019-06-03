@@ -25,10 +25,10 @@ suivants _Lost in crazy day_ et _My better side_.
 
 Après un sympathique _Interlude_, l'album reprend sur des titres à mon sens
 moins originaux (_Different life ages_ et _Season's madness_) et se pose
-plusieurs minutes sur une chanson calme (un peu trop à mon goût)&nbsp;:
-_Confession_. Alors que j'étais déçu d'avoir atteint la fin de l'album, j'ai
-heureusement découvert _After All_ qui m'a à nouveau renvoyé au tapis pour mieux
-me relever avec son _Bonus_ qui se livrera aux plus patients.
+plusieurs minutes sur une chanson calme (un peu trop à mon goût) : _Confession_.
+Alors que j'étais déçu d'avoir atteint la fin de l'album, j'ai heureusement
+découvert _After All_ qui m'a à nouveau renvoyé au tapis pour mieux me relever
+avec son _Bonus_ qui se livrera aux plus patients.
 
 Dire que la musique de Nameless me rappelle parfois Franz Fernidand, Lenny
 Kravitz, Eagle-Eye Cherry serait faux, car ce serait assimiler la musique du

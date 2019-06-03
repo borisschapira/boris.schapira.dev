@@ -147,13 +147,13 @@ récolte :
         <td>Version de contrôle (A)</td>
         <td class="numeric ">34 217</td>
         <td class="numeric ">6234</td>
-        <td>18,21 %</td>
+        <td>18,21 %</td>
       </tr>
       <tr>
         <td>Version avec vidéo (B)</td>
         <td class="numeric ">327</td>
         <td class="numeric ">68</td>
-        <td>20,79 %</td>
+        <td>20,79 %</td>
     </tr>
   </tbody>
 </table>
@@ -254,7 +254,7 @@ Malheureusement, il est très difficile de déterminer l’intérêt d’une sol
 plutôt qu’une autre, car chacune semble adaptée à un type de besoin :
 
 <ul>
-	<li>Pour les équipes commerciales, certaines solutions se superposent au Front-End pour modifier à la volée la page visualisée par le client. Si le concept est séduisant, il peut parfois aboutir à des lenteurs ressenties par l'utilisateur, des "flashs" de la page et même des situations de SPOF ( Single Point of Failure : situation dans laquelle le site repose fortement sur une ou plusieurs ressources externes. Si ces ressources ne sont pas disponibles ou qu'un problème technique rend impossible leur acheminent jusqu'au client &amp;#8211; problème réseau, passerelles capricieuses &amp;#8211; alors la page n'est plus consultable) dans les cas les plus extrêmes ;</li>
+	<li>Pour les équipes commerciales, certaines solutions se superposent au Front-End pour modifier à la volée la page visualisée par le client. Si le concept est séduisant, il peut parfois aboutir à des lenteurs ressenties par l'utilisateur, des "flashs" de la page et même des situations de SPOF ( Single Point of Failure : situation dans laquelle le site repose fortement sur une ou plusieurs ressources externes. Si ces ressources ne sont pas disponibles ou qu'un problème technique rend impossible leur acheminent jusqu'au client &amp;#8211; problème réseau, passerelles capricieuses &amp;#8211; alors la page n'est plus consultable) dans les cas les plus extrêmes ;</li>
 	<li>d'autres solutions plus orientées "injection" permettent de réaliser simplement des bascules entre plusieurs architectures logicielles ;</li>
 	<li>enfin, d'autres solutions permettent de basculer rapidement vers une architecture plutôt qu'une autre, mais introduisent des passerelles supplémentaires dans le système, entraînant à la fois des risque et des baisses de performance.</li>
 </ul>

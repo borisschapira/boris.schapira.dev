@@ -10,11 +10,11 @@ tags:
 >  <cite>["Les URLs sympas ne changent pas", Karl Dubost](http://www.la-grange.net/w3c/Style/URI '"Les URLs sympas ne changent pas", Karl Dubost')</cite>
 
 > Vous voulez référencer un contenu publié par l’ancien président, l’ancien
-> gouvernement&nbsp;? Oubliez, il a été supprimé.  
+> gouvernement ? Oubliez, il a été supprimé.  
 >  <cite>["Faire table rase, et cacher le passé", Eric Daspet](https://n.survol.fr/n/faire-table-rase-et-cacher-le-passe '"Faire table rase, et cacher le passé", Eric Daspet')</cite>
 
-Ne l'oublions pas&nbsp;: si l'information est une responsabilité, son contrôle,
-voire sa rétention, est un pouvoir.
+Ne l'oublions pas : si l'information est une responsabilité, son contrôle, voire
+sa rétention, est un pouvoir.
 
 > Son travail consiste à remanier les archives historiques afin de faire
 > correspondre le passé à la version officielle du Parti.  

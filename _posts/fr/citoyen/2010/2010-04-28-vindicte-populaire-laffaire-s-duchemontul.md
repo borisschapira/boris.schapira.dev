@@ -28,7 +28,7 @@ droits constitutionnels pour des **affaires obscures d'allocations chômage**.
 > jusqu'à ce que l'on trouve ce que l'on y cherche", aurait déclaré un
 > porte-parole du Ministère.
 
-Cela vous semble aberrant&nbsp;? A moi aussi. Pourtant, S.Duchemontul existe
-mais il s'appelle Liès Hebbad. Et il n'est pas catholique, mais musulman. Ah,
-mais ça change tout, alors&nbsp;? En tout cas, j'en connais
+Cela vous semble aberrant ? A moi aussi. Pourtant, S.Duchemontul existe mais il
+s'appelle Liès Hebbad. Et il n'est pas catholique, mais musulman. Ah, mais ça
+change tout, alors ? En tout cas, j'en connais
 [un qui voudrait bien lui parler](http://cestlagene.com/2010/04/27/petite-explication-entre-quatre-yeux/)…

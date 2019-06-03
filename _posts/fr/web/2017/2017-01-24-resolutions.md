@@ -38,8 +38,8 @@ et ils m'ont soutenu en me proposant un avenant à temps partiel (à 92%, pour
 
 [^1]:
 
-    J'ai donné des cours sur mes congés de salarié Clever Age pendant cinq
-    ans… vous connaissez le principe de la solution temporaire qui dure ?
+    J'ai donné des cours sur mes congés de salarié Clever Age pendant cinq ans…
+    vous connaissez le principe de la solution temporaire qui dure ?
 
 Sauf que… l'idée de dégager du temps en dehors du travail était principalement
 motivée par mon envie de passer du temps avec mes garçons. Nous avons donc

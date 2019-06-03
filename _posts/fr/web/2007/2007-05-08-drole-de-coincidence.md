@@ -6,7 +6,7 @@ tags:
 
 J'ai passé la soirée d'hier chez une amie qui m'a présenter à
 [Joachim](http://joachimesque.com/fr/), auteur de la fameuse et connue de
-plusieurs millions d'internautes [Boitam.eu](http://www.boitam.eu)&nbsp;! La
+plusieurs millions d'internautes [Boitam.eu](http://www.boitam.eu) ! La
 [Boitam.eu](http://www.boitam.eu) existe en plusieurs versions, de la page Web
 au composant NetVibes, de l'intégration iGoogle à l'intégration dans un site. La
 coincidence, c'est que j'ai justement installé le composant iGoogle

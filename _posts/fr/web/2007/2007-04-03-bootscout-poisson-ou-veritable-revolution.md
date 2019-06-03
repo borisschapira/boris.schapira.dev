@@ -25,8 +25,8 @@ d'exécuter sur un Mac les systèmes Windows et notamment Vista depuis la bêta
 Pour beaucoup, Microsoft et Apple ne sont pas de parfaits concurrents dans le
 monde des systèmes d'exploitation. Là où Microsoft développe une politique
 orientée vers une large plage d'utilisateurs, le positionnement d'Apple est la
-«&nbsp;différence&nbsp;». Par le design, par le prix... mais rien n'est figé
-dans le marbre, et Apple pourrait commencé à séduire le grand public.
+"différence". Par le design, par le prix... mais rien n'est figé dans le marbre,
+et Apple pourrait commencé à séduire le grand public.
 
 De quoi réfléchir avec plus de recul à cette surenchère de rumeurs en attendant
 une éventuelle annonce, ou un démenti.

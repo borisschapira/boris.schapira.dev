@@ -32,28 +32,27 @@ jamais.
 
 Ca fait un moment que je n'ai plus fait de stage mais peut-être que pour le
 plaisir d'un salaire réduit et de quelques remarques désobligeantes, je vais
-remettre le couvert. Et puis c'est logique&nbsp;: qui, mieux qu'un stagiaire,
-pourrait prendre en main la gestion d'un parc informatique&nbsp;? C'est
-tellement plus rassurant (et bien moins cher) que quelqu'un d'expérimenté.
+remettre le couvert. Et puis c'est logique : qui, mieux qu'un stagiaire,
+pourrait prendre en main la gestion d'un parc informatique ? C'est tellement
+plus rassurant (et bien moins cher) que quelqu'un d'expérimenté.
 
-> Vos tâches récurrentes sont&nbsp;: la préparation de PC, la création de
-> compte…
+> Vos tâches récurrentes sont : la préparation de PC, la création de compte…
 
 Écoutez, je suis épaté, ça correspond parfaitement à mon profil de consultant en
 développement .NET avec un historique dans la Finance, tout ça. C'en est presque
 magique.
 
-> Votre profil&nbsp;: vous possédez de bonnes connaissances en système et
-> réseaux (vous avez déjà fait des stages)
+> Votre profil : vous possédez de bonnes connaissances en système et réseaux
+> (vous avez déjà fait des stages)
 
 Il va quand même falloir que je révise un peu. Les diagrammes de couches, les
 archi réseaux… je n'ai pas fait tout ça depuis l'Ecole d'Ingénieur mais bon, ça
 devrait revenir sans problème. Et puis si j'avais vraiment déjà fait **des**
 stages (comme dans **plusieurs**), j'aurais peut-être fini par avoir un contrat,
-non&nbsp;? Donc finalement c'est pas plus mal.
+non ? Donc finalement c'est pas plus mal.
 
-> Vous êtes autonome, rigoureux,«&nbsp;jusqu'au bout&nbsp;» et possédez un bon
-> sens du service
+> Vous êtes autonome, rigoureux,"jusqu'au bout" et possédez un bon sens du
+> service
 
 Pas de souci, je n'ai pas de vie. Je commence le boulot à 6h le matin, finis à
 minuit et entre les deux, je me contente d'aller prendre une douche, de
@@ -61,7 +60,7 @@ m'alimenter, et de faire quelques courses pour mon maître de stage.
 
 > Ne connaissant pas votre projet professionnel …
 
-Ah&nbsp;? Je n'avais pas remarqué…
+Ah ? Je n'avais pas remarqué…
 
 > Je vous propose d'échanger par téléphone
 

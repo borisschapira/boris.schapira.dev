@@ -25,10 +25,10 @@ tags:
 > [blog de veille de Clever Age](https://blog.clever-age.com/fr/)</cite>
 
 La **P**resse **Q**uotidienne (éventuellement **R**égionale) est un formidable
-terrain d'expérimentation pour une transition numérique pleinement
-assumée&nbsp;: souffrant d'un modèle historique "papier" se détachant de plus en
-plus des usages de ses lecteurs, mise sous pression par des acteurs du Web comme
-Google et souffrant d'une dépendance très forte à la publicité, la Presse a
+terrain d'expérimentation pour une transition numérique pleinement assumée :
+souffrant d'un modèle historique "papier" se détachant de plus en plus des
+usages de ses lecteurs, mise sous pression par des acteurs du Web comme Google
+et souffrant d'une dépendance très forte à la publicité, la Presse a
 désespéramment besoin de renouveler sa stratégie d'affaire et cela semble
 définitivement passer par le numérique.
 
@@ -40,8 +40,8 @@ parfois reproché que l'accompagnement que j'offre quotidiennement à mes client
 était destructeur et si l'on ne regarde la réalité que par cet angle, c'est
 probablement vrai pour tout un ensemble de personnes qui ne voudront ou ne
 pourront pas s'adapter. Je n'ai jamais été témoin d'un tel problème mais je n'ai
-pas d’œillère&nbsp;: je sais que cela doit arriver et je suis content qu'avec la
-mise en place du CPF, on se donne les moyens de former tout au long de la vie.
+pas d’œillère : je sais que cela doit arriver et je suis content qu'avec la mise
+en place du CPF, on se donne les moyens de former tout au long de la vie.
 
 Cependant, il est important de signaler que la Presse n'est qu'un exemple parmi
 d'autres et, finalement, un des plus chanceux. Peu d'entreprises peuvent
@@ -53,8 +53,8 @@ restructuration. Le risque pour l'emploi est alors bien plus grand.
 
 Le numérique, comme la révolution industrielle en son temps, offre des solutions
 permettant aux entreprises de rester concurrentielles en étant plus performantes
-tout en conservant leur gouvernance sur ce qui les constituent vraiment&nbsp;:
-la valeur qu'elles apportent à leurs clients. Le numérique n'est pas une menace
+tout en conservant leur gouvernance sur ce qui les constituent vraiment : la
+valeur qu'elles apportent à leurs clients. Le numérique n'est pas une menace
 mais une opportunité que tous les grands analystes économiques incitent à
 comprendre (rien n'est magique, le croire est dangereux) et à saisir. Faisons
 dès aujourd'hui les choses bien pour demain les faire mieux.

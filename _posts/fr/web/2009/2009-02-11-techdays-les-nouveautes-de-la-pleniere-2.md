@@ -13,23 +13,23 @@ et la stratégie Software + Service** ont conclu cette keynote.
 S’enchaine une présentation de
 [Visual Studio 2010](http://web.archive.org/web/20120215000631///www.microsoft.com:80/presspass/press/2008/sep08/09-29vs10pr.mspx).
 On se rappellera de ce difficile retour au réel, en clin d’œil au passage de
-[NaY](http://blogs.msdn.com/b/nay/)&nbsp;: "Pas de jupe, pas de belle robe, un
-peu de bide&nbsp;: c’est aussi ça le développeur"…
+[NaY](http://blogs.msdn.com/b/nay/) : "Pas de jupe, pas de belle robe, un peu de
+bide : c’est aussi ça le développeur"…
 
 [Visual Studio 2010](http://web.archive.org/web/20120215000631///www.microsoft.com:80/presspass/press/2008/sep08/09-29vs10pr.mspx)
 introduira de nouvelles
 [possibilités d’extension en .NET, développés avec Managed Extensibility Framework](http://www.e-naxos.com/Blog/post/2008/11/08/MEF-Managed-Extensibility-Framework-De-la-magie-est-des-plugins-!.aspx).
 D’ailleurs, si j’ai bien compris, l’interface de l’IDE sera entièrement en WPF,
 autorisant zoom, commentaire multimédias, contrôles avancés… L’IDE offrira de
-[nouvelles possibilités autour du parallélisme](http://msdn.microsoft.com/fr-fr/vstudio/msdn.parallelisme.introduction.aspx)&nbsp;:
-analyse des temps d’exécution, des blocages de threads, des utilisations
+[nouvelles possibilités autour du parallélisme](http://msdn.microsoft.com/fr-fr/vstudio/msdn.parallelisme.introduction.aspx)
+: analyse des temps d’exécution, des blocages de threads, des utilisations
 processeur, des répartitions des threads sur les cœurs, en lien avec le code
-exécuté. D’autres outils seront plutôt dédiés aux testeurs fonctionnels&nbsp;:
-les tests seront pensés par les développeurs puis joués par les utilisateurs,
-qui peuvent créer automatiquement des fiches de bug contenant la vidéo complète
-du test. [Team Foundation Server 2010](http://technet.microsoft.com/en-us/video)
+exécuté. D’autres outils seront plutôt dédiés aux testeurs fonctionnels : les
+tests seront pensés par les développeurs puis joués par les utilisateurs, qui
+peuvent créer automatiquement des fiches de bug contenant la vidéo complète du
+test. [Team Foundation Server 2010](http://technet.microsoft.com/en-us/video)
 apporterait ainsi une solution au problème récurrent des erreurs
-non-reproductibles&nbsp;?
+non-reproductibles ?
 
 La dernière partie de la plénière introduisait le
 [Cloud Computing](http://blogs.msdn.com/b/cloudcomputing/) et le S+S (Sofware +

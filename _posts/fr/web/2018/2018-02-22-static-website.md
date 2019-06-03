@@ -276,10 +276,10 @@ performance du site web ciblé.
 
 {% capture img_alt %}Prismic.io slices{% endcapture %}
 {% capture img_caption %}[Prismic.io](https://prismic.io/) est l'une des
-plates-formes de contenu les plus personnalisables (ici, des
-&laquo;&nbsp;slices&nbsp;&raquo; réutilisables). Les contenus comme les gabarits
-sont contribués sur la plateforme. Pendant la compilation, le SSG requête l’API
-de Prismic.io pour récupérer les informations.{% endcapture %}
+plates-formes de contenu les plus personnalisables (ici, des &laquo; slices
+&raquo; réutilisables). Les contenus comme les gabarits sont contribués sur la
+plateforme. Pendant la compilation, le SSG requête l’API de Prismic.io pour
+récupérer les informations.{% endcapture %}
 {% include video_as_a_gif.html.liquid
 url="/assets/images/2018-02-21/4_prismic"
 alt=img_alt

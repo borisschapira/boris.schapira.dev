@@ -15,15 +15,15 @@ plaisir aux rejetons. Enfin, pour que ce soit marrant, laissez tout autour
 d'autres machines, des écrans, de la paperasse et surtout des gens qui essaient
 de travailler (essaient).
 
-Le plus drôle dans tout ça, ce sont les réflexions des enfants&nbsp;:
+Le plus drôle dans tout ça, ce sont les réflexions des enfants :
 
-> &#45; Papa pourquoi tu cries dans le téléphone&nbsp;?
+> &#45; Papa pourquoi tu cries dans le téléphone ?
 >
 > -   Parce que ma chérie, le monsieur m'énerve. - Mais alors pourquoi tu lui
 >     parles
 
 Ou encore :
 
-> &#45; Maman, je peux me batailler avec mon épée-ballon&nbsp;?
+> &#45; Maman, je peux me batailler avec mon épée-ballon ?
 >
 > -   Oui chéri, mais ne dérange pas les messieurs qui crient.

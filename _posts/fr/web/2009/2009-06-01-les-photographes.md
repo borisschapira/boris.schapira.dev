@@ -15,10 +15,9 @@ avec album 70+ photos à la clé. Les prix des retirages varient énormément (d
 0,5 à 9,5€ par photo), comme ceux des albums supplémentaires (entre 40€ pour un
 livre photo "grand commerce" et 250€ pour un bel album en cuir relié réalisé à
 la main avec parfois un peu de scrapbooking) mais ce n'est rien par rapport au
-prix d'un CD contenant les photos HD libres de droits (de 0 à… 800 €&nbsp;!).
+prix d'un CD contenant les photos HD libres de droits (de 0 à… 800 € !).
 
-Pour vous évitez de tomber dans le panneau, voici les photographe à
-éviter&nbsp;:
+Pour vous évitez de tomber dans le panneau, voici les photographe à éviter :
 
 ### "L'artiste"
 
@@ -55,14 +54,14 @@ grande enseigne connue pour ses alléchant tarifs. Son argument de choc, c'est l
 réduction des prix. Concrètement, il vous propose exactement les mêmes tarifs
 que ses collègues (voire même plus cher), mais parce que c'est vous, que vous
 êtes unique et qu'il vous aime bien, il vous fait une réduction de X pourcent
-sur les deux albums des parents. Formidable, non&nbsp;?
+sur les deux albums des parents. Formidable, non ?
 
-Bon, là, vous commencez normalement à vous poser la question&nbsp;: X %, c'est
-cool, mais sur quel montant&nbsp;? Et c'est là que l'Ultra-Discount vous allume.
-Il vous propose en fait une réduction à partir du tarif de l'album initial (aux
-environs de 800 €). Donc si on prend une réduction de -50 % ("Enorme", vous
-répetera le photographe), cela vous fait l'album supplémentaire à… deux fois
-plus cher qu'ailleurs&nbsp;!
+Bon, là, vous commencez normalement à vous poser la question : X %, c'est cool,
+mais sur quel montant ? Et c'est là que l'Ultra-Discount vous allume. Il vous
+propose en fait une réduction à partir du tarif de l'album initial (aux environs
+de 800 €). Donc si on prend une réduction de -50 % ("Enorme", vous répetera le
+photographe), cela vous fait l'album supplémentaire à… deux fois plus cher
+qu'ailleurs !
 
 ### Conclusion
 

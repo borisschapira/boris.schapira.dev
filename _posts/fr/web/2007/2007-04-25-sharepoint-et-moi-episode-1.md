@@ -8,9 +8,9 @@ tags:
 ---
 
 Deux mois de stages chez Microsoft France, c'est déjà beaucoup et en même temps
-peu. Il y a tant à apprendre ici&nbsp;!
+peu. Il y a tant à apprendre ici !
 
-**Aaaah, le code VBA&nbsp;!**
+**Aaaah, le code VBA !**
 
 Dans un premier temps, j'ai **développé une application managériale sous Excel**
 (le langage s'appelle VBA et n'est pas aussi abouti que des langages plus
@@ -24,12 +24,12 @@ habitudes de travail de leurs salariés.
 
 Toujours est-il qu'après m'être appliqué à comprendre, développer, améliorer et
 débugger ce petit outil managérial, j'ai commencé à travailler sur un tout autre
-projet&nbsp;: le développement d'un portail basé sur **SharePoint**.
+projet : le développement d'un portail basé sur **SharePoint**.
 
 **Colle à bords h&acirc;tifs**
 
 Le jeu de mots est naze, mais il aura au moins eu le mérite de faire rentrer le
-concept dans vos têtes&nbsp;: **collaborer**.
+concept dans vos têtes : **collaborer**.
 
 Historiquement, l'informatique est histoire de travail individuel. Les
 applications que _vous_ utilisez tournent sur _vos_ machines, pour _vous_. Mais
@@ -42,13 +42,12 @@ applications personnelles pour leur richesse fonctionnelle et technique, mais
 vous ne connaissez rien qui fasse passerelle entre votre monde individuel et le
 travail d'équipe.
 
-SharePoint, c'est exactement ça&nbsp;: **une solution de collaboration qui tire
-parti des réseaux d'entreprises pour permettre aux personnes de travailler
-ensemble** en tant que groupes, équipes ou simples collègues. Du partage de
-planning pour les rendez-vous communs à l'écriture d'un document par plusieurs
-personnes de l'entreprise avec gestion des différentes versions, SharePoint est
-une véritable machine à tout faire qui devrait résoudre bien des problèmes en
-entreprises.
+SharePoint, c'est exactement ça : **une solution de collaboration qui tire parti
+des réseaux d'entreprises pour permettre aux personnes de travailler ensemble**
+en tant que groupes, équipes ou simples collègues. Du partage de planning pour
+les rendez-vous communs à l'écriture d'un document par plusieurs personnes de
+l'entreprise avec gestion des différentes versions, SharePoint est une véritable
+machine à tout faire qui devrait résoudre bien des problèmes en entreprises.
 
 **Le produit est jeune et moi aussi**
 
@@ -62,15 +61,15 @@ tous. Non pas qu'elle soit aisée, mais tout se fait via une très fournie
 interface d'administration (elle-même un portail SharePoint pré-formaté) qui, si
 on la connait bien, montre toute la puissance de la solution.
 
-De plus, le produit SharePoint existe en deux versions&nbsp;: le **gratuit**
-«&nbsp;_Windows SharePoint Services v3_&nbsp;» et le **payant** (mais **plus
-riche fonctionnellement**) «&nbsp;_Microsoft Office SharePoint Server 2007 _».
-De quoi satisfaire particuliers et organisations de tous poils (une liste
-non-exhaustive de portails Web construits via SharePoint est disponible
+De plus, le produit SharePoint existe en deux versions : le **gratuit**
+"_Windows SharePoint Services v3_" et le **payant** (mais **plus riche
+fonctionnellement**) "_Microsoft Office SharePoint Server 2007 _». De quoi
+satisfaire particuliers et organisations de tous poils (une liste non-exhaustive
+de portails Web construits via SharePoint est disponible
 [ici](http://blogs.msdn.com/b/nay/archive/2007/01/04/des-sites-internet-avec-moss-2007-en-production-moss-based-internet-sites-live.aspx).
 Leur diversité est la preuve même de la richesse du produit).
 
 Je vais continuer à découvrir **MOSS 2007** (oui, on va l'appeller par son petit
 nom maintenant qu'on est entre nous) et je vous en reparlerai plus tard. En
 attendant, si certains d'entre vous ont déjà utilisé la solution ou s'ils
-souhaitent parler des alternatives concurrentes, place à vos commentaires&nbsp;!
+souhaitent parler des alternatives concurrentes, place à vos commentaires !

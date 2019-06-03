@@ -11,7 +11,7 @@ un article de Wired intitulé
 J'ai tellement rigolé que j'ai voulu le traduire aussitôt. J'ai modifié certains
 points d'origine qui me semblaient inadaptés pour un public français (et
 j'hésite encore pour le point 6, pas tellement représenté dans la culture geek
-francophone) et voilà le résultat. Qu'est-ce que vous en pensez ?
+francophone) et voilà le résultat. Qu'est-ce que vous en pensez ?
 
 1.  **Loi de Van Damne** : Durant un débat entre geeks, une personne appuyant
     son avis par une citation de JCVD gagne automatiquement. Cette loi rend
@@ -43,4 +43,4 @@ francophone) et voilà le résultat. Qu'est-ce que vous en pensez ?
     médiatique qui a publié plus d’un tweet se croit geek et le revendique à
     partir du moment où il a acheté au moins un produit Apple. La seule
     conclusion raisonnable est la suivante : nous avons encore beaucoup de
-    chemin à parcourir !
+    chemin à parcourir !

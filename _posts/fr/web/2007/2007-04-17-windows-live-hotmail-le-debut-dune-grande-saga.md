@@ -29,6 +29,6 @@ Bref, avec
 [Windows Live Hotmail](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1414112641&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai),
 ce sont 2Go de messagerie et une interface disposant de fonctionnalités proche
 d'une application installée sur votre machine… mais de n'importe où dans le
-monde&nbsp;!
+monde !
 
-source&nbsp;: _[Heaven](http://heaven.fr/)_
+source : _[Heaven](http://heaven.fr/)_

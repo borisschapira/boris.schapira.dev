@@ -9,7 +9,7 @@ tags:
 Tout le foin autour de la sortie du firmware 3.0 et de l'iPhone 3Gs m'exaspère,
 mais je dois reconnaître que les commerciaux d'Apple savent jouer avec
 l'alchimie des multitudes. Pour preuve, les meilleurs vendeurs d'iPhone sont les
-propriétaires d'iPhone. Il faut les voir essayer de vous convaincre que&nbsp;:
+propriétaires d'iPhone. Il faut les voir essayer de vous convaincre que :
 
 -   l'iPhone correspond parfaitement à vos besoins puisqu'il peut tout faire ;
 -   l'iPhone est beaucoup moins cher que les autres smartphones ;
@@ -18,8 +18,7 @@ propriétaires d'iPhone. Il faut les voir essayer de vous convaincre que&nbsp;:
 -   ceux qui n'aiment pas l'iPhone ne l'ont soit pas testé, soit sont aigris de
     ne pas l'avoir.
 
-Malheureusement, je me vois dans l'obligation de rétablir une certaine
-vérité&nbsp;:
+Malheureusement, je me vois dans l'obligation de rétablir une certaine vérité :
 
 -   il y a une grosse nuance entre "tout faire" et "correspondre à un besoin".
     Essayez de transformer un homme-orchestre en ensemble philarmonique, vous
@@ -44,5 +43,5 @@ vérité&nbsp;:
     reste un très bon SmartPhone, doté d'une logithèque incroyable), ils en ont
     peut-être juste ras-le-bol qu'un ensemble de moutons leur rabâche à tout
     bout de champ que l'iPhone est génial. Après tout, la devise d'Apple
-    n'est-elle pas&nbsp;: "**Think Different**"&nbsp;? Il serait peut-être temps
-    que les iPhone-addicts s'en rappellent…
+    n'est-elle pas : "**Think Different**" ? Il serait peut-être temps que les
+    iPhone-addicts s'en rappellent…

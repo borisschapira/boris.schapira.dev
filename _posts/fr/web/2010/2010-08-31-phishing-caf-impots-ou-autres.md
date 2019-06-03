@@ -4,7 +4,7 @@ loadTwitterWjs: true
 subtitle: Ceci n'est pas une pipe
 ---
 
-Je me permets aujourd'hui de citer une fameuse légende d'un tableau de 
+Je me permets aujourd'hui de citer une fameuse légende d'un tableau de
 [René Magritte](https://fr.wikipedia.org/wiki/Ren%C3%A9_Magritte) pour vous
 parler d'un mail reçu par un collègue il y a peu. Ce mail représente une
 tentative de hameçonnage (phishing en anglais), dont j'ai déjà donné la
@@ -12,10 +12,10 @@ tentative de hameçonnage (phishing en anglais), dont j'ai déjà donné la
 
 <!-- more -->
 
-Ce mail n'a bien sûr rien à voir avec la CAF. En cliquant sur le lien fourni, 
-la victime arrive sur une page qui imite le site de la CAF et l'incite à entrer
-des informations confidentielles. Nul doute que quelqu'un de mal attentionné
-passera après pour détourner ses prestations sociales…
+Ce mail n'a bien sûr rien à voir avec la CAF. En cliquant sur le lien fourni, la
+victime arrive sur une page qui imite le site de la CAF et l'incite à entrer des
+informations confidentielles. Nul doute que quelqu'un de mal attentionné passera
+après pour détourner ses prestations sociales…
 
 {% capture img_alt %}Capture d'écran de la tentative de phishing{% endcapture %}
 {% capture img_caption %}Tentative de Phishing imitant un courrier de la

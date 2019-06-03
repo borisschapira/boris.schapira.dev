@@ -4,12 +4,12 @@ tags:
     - 'Me, myself and I'
 ---
 
-> We know that happiness is mainly being satisfied with people that we
-> like, spending time with people that we like. There are other pleasures, but
-> this is dominant.
+> We know that happiness is mainly being satisfied with people that we like,
+> spending time with people that we like. There are other pleasures, but this is
+> dominant.
 >
-> ["The riddle of experience vs. memory"](http://www.ted.com/talks/daniel_kahneman_the_riddle_of_experience_vs_memory '"The riddle of experience vs. memory", Daniel Kahneman ", TED'), Daniel
-> Kahneman &quot;, TED
+> ["The riddle of experience vs. memory"](http://www.ted.com/talks/daniel_kahneman_the_riddle_of_experience_vs_memory '"The riddle of experience vs. memory", Daniel Kahneman ", TED'),
+> Daniel Kahneman &quot;, TED
 
 Ma présence sur le Web est un paradoxe pour certains de mes proches.
 Perpétuellement connecté, ils s'étonnent de ne pas recevoir plus de nouvelles de
@@ -20,7 +20,7 @@ ma part…
 Je ne pense pas que mon cas soit isolé, mais il est parfois difficile de mettre
 les mots sur ce que l'on ressent. J'essaie d'écrire cette article depuis
 plusieurs semaines sans en être totalement satisfait. Peu importe, autant le
-publier comme cela&nbsp;: s'il génère une discussion, peut-être que d'autres
+publier comme cela : s'il génère une discussion, peut-être que d'autres
 arriveront à dire les choses mieux que moi.
 
 Internet n'est plus un outil pour moi. Il tient une place dans mon identité. Je
@@ -39,7 +39,7 @@ alt=img_alt
 Mais Internet n'est pas qu'un outil consultatif, c'est également une magnifique,
 peut-être la plus incroyable, plate-forme sociale de tous les temps. Et j'y ai
 un réseau de contacts avec lesquels j'entretiens des relations via divers
-outils. Ces relations sont particulières. Elles s'organisent dans une
+outils. Ces relations sont particulières. Elles s'organisent dans une
 chronologie affective et professionnelle basée sur une temporalité particulière
 (profondément asynchrone) et le dialogue. Elles s'expriment dans les réseaux
 sociaux, sur des messageries instantanées. Elles définissent une communauté

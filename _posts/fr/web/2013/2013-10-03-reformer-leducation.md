@@ -1,5 +1,5 @@
 ---
-title: "Réformer l'Education&nbsp;?"
+title: "Réformer l'Education ?"
 tags:
     - Education
 subtitle: parce que bon, là, on rate un truc…
@@ -25,4 +25,4 @@ parfois l’inverse.
 
 Alors, ils peuvent réformer l’Education autant qu’ils veulent, mais il faudrait
 peut-être réévaluer ses objectifs, ou la compléter avec des dispositifs
-d'apprentissage tout au long de la vie, non&nbsp;?
+d'apprentissage tout au long de la vie, non ?

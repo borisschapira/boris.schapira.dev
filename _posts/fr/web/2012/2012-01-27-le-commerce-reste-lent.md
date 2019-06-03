@@ -26,7 +26,7 @@ performances de plus de 2000 sites. Les résultats sont plutôt surprenants.
     chargement associé à une première visite s’est amélioré, celui associé à une
     seconde visite (avec cache) s’est dégradé. Les commerçants souhaitent donc
     offrir la meilleure expérience immédiate, quitte à négliger les visites
-    ultérieures. En 2012, il faut vendre vite : la fidélité ne rapporte plus.
+    ultérieures. En 2012, il faut vendre vite : la fidélité ne rapporte plus.
 3.  **La Perf ne rapporte pas**. Les sites les mieux classés sont plus lents,
     leurs pages sont plus lourdes et ils respectent de moins en moins les bonnes
     pratiques du Web. Il est regrettable que ce classement n’inclue pas les
@@ -38,7 +38,7 @@ performances de plus de 2000 sites. Les résultats sont plutôt surprenants.
     sur un CDN pour assurer la performance, soit que les sites les plus lents
     (pour diverses raisons autres qu’un problème de ressource) ont davantage
     tendance à recourir aux CDN, d’où leur surreprésentation. Dans les deux cas,
-    le constat est le même : utiliser un CDN ne permet pas de se passer d’une
+    le constat est le même : utiliser un CDN ne permet pas de se passer d’une
     réflexion interne.
 
 [Article sur le blog de StangeLoop](http://www.radware.com/Products/FastView/?utm_source=strangeloop&utm_medium=slforward&utm_campaign=slmoving)

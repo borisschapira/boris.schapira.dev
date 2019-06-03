@@ -12,7 +12,7 @@ précision l'ensemble des possibilités de SharePoint, tant la solution semble
 vaste et complète. Pour faire simple, voici les grandes lignes.
 
 SharePoint est une solution de gestion de contenu collaborative qui se décline
-en deux versions&nbsp;:
+en deux versions :
 
 -   WSS (Windows SharePoint Services), version gratuite mais fonctionnellement
     limitée.
@@ -29,11 +29,11 @@ travail autorise certaines actions automatiques sans recourir au codage.
 
 La gestion de contenu, dans SharePoint, s'étend à de nombreux types de données.
 Du calendrier collaboratif à la publication de document, SharePoint permet aux
-collaborateurs de&nbsp;:
+collaborateurs de :
 
 -   Stocker des documents personnels ou d'équipe et les partager
 -   Créer des blogs, des sites personnels ou d'équipe et gérer le contenu s'y
-    liant&nbsp;: calendriers, documents, t&acirc;ches, liens, images
+    liant : calendriers, documents, t&acirc;ches, liens, images
 -   Alimenter des bases de connaissances (KB) collaborative (de type Wiki)
 -   Rechercher des personnes
 -   Gérer les étapes de vie des documents stockés (durée de disponibilité,

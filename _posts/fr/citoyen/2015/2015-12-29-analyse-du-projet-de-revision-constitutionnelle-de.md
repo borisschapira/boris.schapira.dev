@@ -8,11 +8,11 @@ slug: analyse-du-projet-de-revision-constitutionnelle-decheance-de-nationalite
 ---
 
 > Nous n’épiloguerons pas sur les promesses du gouvernement selon lesquelles
-> «&nbsp;seules les infractions criminelles les plus graves peuvent justifier
-> une sanction telle que la déchéance de nationalité prononcée à l’encontre de
-> Français de naissance&nbsp;» puisqu’il appartiendra à la Loi de les fixer, et
-> que rien n’interdit à ce que d’éventuelles réformes législatives n’en
-> élargissent l’application.  
+> "seules les infractions criminelles les plus graves peuvent justifier une
+> sanction telle que la déchéance de nationalité prononcée à l’encontre de
+> Français de naissance" puisqu’il appartiendra à la Loi de les fixer, et que
+> rien n’interdit à ce que d’éventuelles réformes législatives n’en élargissent
+> l’application.  
 > [...]  
 > La déchéance de la nationalité prévue dans le projet de loi constitutionnelle
 > ne renforcera donc pas la sécurité du pays et constitue un désastre symbolique

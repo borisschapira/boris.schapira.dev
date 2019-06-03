@@ -33,6 +33,6 @@ registre de la violence psychologique, au même titre qu'un bon thriller. Les
 premières minutes sont oppressantes à souhait, d'une violence subtile et
 omniprésente.
 
-**P.S.&nbsp;:** A noter, comme si ces deux-là étaient faits pour s'entendre, que
+**P.S. :** A noter, comme si ces deux-là étaient faits pour s'entendre, que
 [le producteur d'Heavy Rain est venu apporter son soutien aux développeurs de Modern Warfare 2](http://www.gameblog.fr/news/12267-le-producteur-d-heavy-rain-defend-modern-warfare-2)
 à propos de cette fameuse scène.

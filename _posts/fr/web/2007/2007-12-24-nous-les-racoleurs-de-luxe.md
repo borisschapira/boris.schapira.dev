@@ -17,9 +17,9 @@ mon&#233;taire est un plus mais j'en aurais parl&#233; de toutes
 fa&#231;ons&quot;_ et _&quot;en plus, je suis mal pay&#233;&quot;_).
 
 Le d&#233;bat avait conclu avec humour &#224; l'apparition des &quot;putes de
-luxe&quot;&nbsp;: blogueurs influents car tr&#232;s lus et int&#233;ress&#233;s
-par le gain d'argent et/ou le gain m&#233;diatique. Depuis ce d&#233;bat, il
-faut bien avouer que c'est de pire en pire&nbsp;: on lit des articles
+luxe&quot; : blogueurs influents car tr&#232;s lus et int&#233;ress&#233;s par
+le gain d'argent et/ou le gain m&#233;diatique. Depuis ce d&#233;bat, il faut
+bien avouer que c'est de pire en pire : on lit des articles
 &quot;sponsoris&#233;s&quot; mais d&#233;sormais ils sont pourris de
 justifications et tout genre qui nuisent non seulement au message commercial
 d'origine mais &#233;galement &#224; la r&#233;putation du blogueur qui avoue
@@ -27,7 +27,7 @@ ainsi &#234;tre assez l&#226;che pour publier un article qu'il prend bien soin
 de critiquer.
 
 Vous pensiez que cela avait servi de le&#231;on &#224; la blogosph&#232;re, au
-contraire&nbsp;! Ces derniers jours, de nombreux &#233;v&#233;nements ont
+contraire ! Ces derniers jours, de nombreux &#233;v&#233;nements ont
 boulevers&#233; la Toile et ont fait exploser le compteur de certains
 mots-cl&#233;s. Je ne les recopierais pas ici, ce sont &#224; peu de choses
 pr&#232;s les m&#234;me que ceux qui font la couverture de vos magazines people.
@@ -55,4 +55,4 @@ financier.
 Faire de l'argent, oui, mais surtout ne pas en parler. Cr&#233;er de la valeur,
 oui, mais ne pas le dire. Surtout ne jamais, jamais parler de revenus. À
 d&#233;faut d'&#234;tre des putes de luxes, sommes-nous, nous les blogueurs, des
-racoleurs haut-de-gamme&nbsp;?
+racoleurs haut-de-gamme ?

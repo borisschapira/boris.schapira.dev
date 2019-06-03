@@ -19,10 +19,10 @@ mais Sun compte sortir des versions multilingues rapidement.
 
 Avec cette annonce, Sun met en avant le format ODF (concurrent du format
 Microsoft Open XML et pilier d'Open Office et Star Office) mais fragilise
-l'avenir des migrations vers Open Office du monde entrepreneurial et
-public&nbsp;: pourquoi migrer un parc informatique déjà sous Microsoft Office si
-la suite bureautique déjà installée permet d'enregistrer de manière durable et
+l'avenir des migrations vers Open Office du monde entrepreneurial et public :
+pourquoi migrer un parc informatique déjà sous Microsoft Office si la suite
+bureautique déjà installée permet d'enregistrer de manière durable et
 interopérable (car ce sont souvent là les arguments d'une migration à Open
 Office, celui du co&ucirc;t étant rapidement rattrapé par la nécessaire
 formation des salariés et le redéveloppement des applications métiers perdues
-dans la migration), facile à utiliser et familière aux utilisateurs&nbsp;?
+dans la migration), facile à utiliser et familière aux utilisateurs ?

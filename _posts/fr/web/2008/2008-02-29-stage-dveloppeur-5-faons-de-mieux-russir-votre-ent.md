@@ -17,8 +17,8 @@ slug: stage-dveloppeur-5-faons-de-mieux-russir-votre-entretien
     maternelle. Passez rapidement sur votre Bac et vos premi&#232;res
     ann&#233;es d&#8217;&#233;tudes. **Insistez sur ce que vous avez appris**
     plus que sur ce qu&#8217;on vous a enseign&#233;. **Expliquez vos choix**
-    rapidement tout en &#233;tant pr&#234;t &#224; approfondir&nbsp;: pourquoi
-    cette pr&#233;pa, pourquoi cette &#233;cole, pourquoi cette majeure…
+    rapidement tout en &#233;tant pr&#234;t &#224; approfondir : pourquoi cette
+    pr&#233;pa, pourquoi cette &#233;cole, pourquoi cette majeure…
 
 3.  Ne dites pas que vous avez choisi un emploi/stage parce que c'&#233;tait
     proche de votre maman ou de votre copine, m&#234;me si c'est vrai.
@@ -27,10 +27,10 @@ slug: stage-dveloppeur-5-faons-de-mieux-russir-votre-entretien
     m&#234;me critiquer si cela est constructif et que vous proposez des pistes
     d'am&#233;lioration.
 
-4.  &#199;a m&#233;rite toujours de le rappeler&nbsp;: **ne mentez pas sur vos
+4.  &#199;a m&#233;rite toujours de le rappeler : **ne mentez pas sur vos
     comp&#233;tences ou sur vos exp&#233;riences.** Si je le dis c'est que
-    certains essaient encore, m&#234;me aujourd'hui. Attention&nbsp;: si vous
-    avez particip&#233; durant un pr&#233;c&#233;dent stage &#224; un projet
+    certains essaient encore, m&#234;me aujourd'hui. Attention : si vous avez
+    particip&#233; durant un pr&#233;c&#233;dent stage &#224; un projet
     confidentiel, trouvez quelque chose &#224; dire ou ne faites pas figurer
     l'exp&#233;rience sur votre CV.
 

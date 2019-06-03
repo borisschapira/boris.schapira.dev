@@ -1,5 +1,5 @@
 ---
-title: 'Utilisabilité&nbsp;: le cas Firefox'
+title: 'Utilisabilité : le cas Firefox'
 tags:
     - 'Logiciel Libre'
     - 'Service Design'
@@ -37,13 +37,13 @@ gestionnaire. Je n'ai pas hésité à faire part de ma déception sur Twitter.
 
 <blockquote class="twitter-tweet" lang="fr"><p lang="fr" dir="ltr">Ah par contre visiblement le gestionnaire de profil de <a href="https://twitter.com/hashtag/Firefox?src=hash">#Firefox</a> n&#39;autorise pas plusieurs profils simultanés. <a href="https://twitter.com/hashtag/Arg?src=hash">#Arg</a></p>&mdash; Boris (@borisschapira) <a href="https://twitter.com/borisschapira/status/516871050404298752">30 Septembre 2014</a></blockquote>
 
-J'avais bien évidemment tort&nbsp;: Firefox n'a aucun problème à gérer plusieurs
+J'avais bien évidemment tort : Firefox n'a aucun problème à gérer plusieurs
 profils simultanés, il faut juste le lui dire en ligne de commande (encore) ou
 en créant des raccourcis contenant les bons arguments (ce qui revient au même).
 
 La conversation qui s'est déclenchée sur Twitter à la suite de ce message
 reflète très bien la vision que j'ai d'une partie de la Communauté du Logiciel
-Libre&nbsp;: d'une part, j'ai reçu une avalanche de conseils bienveillants, mais
+Libre : d'une part, j'ai reçu une avalanche de conseils bienveillants, mais
 partageant tous une certaine technicité. Certains me conseillaient de lancer mes
 navigateurs en ligne de commande, d'autres me conseillaient de passer sous Mac
 où un module gère ça très bien.
@@ -60,7 +60,7 @@ J'ai en tête immédiatement LibreOffice et GIMP, mais la liste est longue.
 
 Sauf que mon problème n'est absolument pas là. La technique n'est pas un souci.
 Je suis sous Windows, mais je sais me servir de ma CLI, merci bien. La question
-que je soulevais était avant tout une problématique d'utilisabilité&nbsp;: il ne
+que je soulevais était avant tout une problématique d'utilisabilité : il ne
 suffit pas que l'alternative fasse ce que la solution de référence fait. Il faut
 qu'elle le fasse bien et qu'elle donne à l'usager la sensation de gagner du
 temps. Tout le monde n'a pas des convictions suffisamment puissantes pour
@@ -86,13 +86,13 @@ je suis allé voir les
 mais là, malheureusement, je n'ai réussi à séparer les tickets relatifs au
 développement de ceux relatifs à l'expérience utilisateur.
 
-Alors j'ai posé directement la question à l'équipe UX de Firefox&nbsp;:
+Alors j'ai posé directement la question à l'équipe UX de Firefox :
 
 <blockquote class="twitter-tweet" lang="fr"><p lang="en" dir="ltr"><a href="https://twitter.com/MozillaUX">@MozillaUX</a> Hi ! I was wondering, is there something planned to improve the Profile Manager in FF ? (1/2)</p>&mdash; Boris (@borisschapira) <a href="https://twitter.com/borisschapira/status/516956859434274816">30 Septembre 2014</a></blockquote>
 
-J'espère une réponse. Au pire, si elle ne vient pas, ce ne sera pas très
-grave&nbsp;: Firefox a d'autres besoins plus urgents que celui de remettre une
-couche d'UX sur son gestionnaire de profils. Je suis parfaitement conscient que
-**mon** besoin n'est pas celui du plus grand nombre et le mieux que je puisse
-souhaiter à Firefox c'est de continuer à les convaincre, eux. Moi, je sais déjà
-que Firefox est formidable, malgré cela.
+J'espère une réponse. Au pire, si elle ne vient pas, ce ne sera pas très grave :
+Firefox a d'autres besoins plus urgents que celui de remettre une couche d'UX
+sur son gestionnaire de profils. Je suis parfaitement conscient que **mon**
+besoin n'est pas celui du plus grand nombre et le mieux que je puisse souhaiter
+à Firefox c'est de continuer à les convaincre, eux. Moi, je sais déjà que
+Firefox est formidable, malgré cela.

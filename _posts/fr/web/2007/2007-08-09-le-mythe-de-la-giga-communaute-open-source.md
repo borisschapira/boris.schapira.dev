@@ -7,13 +7,13 @@ tags:
 
 Je trouvais que le blog était un peu en manque de commentaires alors je me suis
 dit que j'allais faire un petit article polémique, histoire de lever la
-critique. Aujourd'hui, je veux revenir sur un mythe qui m'énerve&nbsp;: les
-logiciels libres seraient le fruit du travail de millions de développeurs unis
-tous ensemble, main dans la main en chantant. C'est bien sûr faux.
+critique. Aujourd'hui, je veux revenir sur un mythe qui m'énerve : les logiciels
+libres seraient le fruit du travail de millions de développeurs unis tous
+ensemble, main dans la main en chantant. C'est bien sûr faux.
 
 Le modèle de développement Libre est souvent perçu comme encourageant
 l'amélioration et la contribution, certains allant même jusqu'à clamer la
-supériorité du Libre et de ses « millions de contributeurs ». La réalité est
+supériorité du Libre et de ses "millions de contributeurs". La réalité est
 légèrement différente car il ne suffit pas que le code soit partagé pour que
 naisse une communauté ayant **la volonté, l'organisation et les compétences
 nécessaires** à sa compréhension et à son amélioration, d'autant que tout cela
@@ -33,7 +33,7 @@ pourquoi les communautés open source sont bien souvent le fruit de la réunion 
 plus petites communautés professionnelles ou d'organisations à but non lucratif
 sponsorisées par des organisations à but très lucratif (qui voient par là le
 moyen de financer à co&ucirc;ts partagés un développement qui pourrait leur
-co&ucirc;ter plus cher en interne) très structurées qui gèrent
+co&ucirc;ter plus cher en interne) très structurées qui gèrent
 l'industrialisation du développement de l'application.
 
 Comme vous pouvez l'imaginer, difficile de réunir dans ces conditions le travail

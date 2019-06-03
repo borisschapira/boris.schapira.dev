@@ -8,8 +8,8 @@ tags:
 Je rejoins une nouvelle initiative, celle des
 [Brown Bag Lunches](http://www.brownbaglunch.fr).
 
-Le concept est simple&nbsp;: mettre en relation entreprises et experts autour
-d'un déjeuner.
+Le concept est simple : mettre en relation entreprises et experts autour d'un
+déjeuner.
 
 <!-- more -->
 

@@ -18,5 +18,5 @@ de faire un échange.
 Farrugia.{% endcapture %} {% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2017-12-08/tromper"
 alt=alt_text
-caption="&laquo;&nbsp;Mange ça ! Pourriture communiste !&nbsp;&raquo;"
+caption="&laquo; Mange ça ! Pourriture communiste ! &raquo;"
 %}

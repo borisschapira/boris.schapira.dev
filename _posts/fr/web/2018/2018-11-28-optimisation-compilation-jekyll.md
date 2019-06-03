@@ -21,10 +21,9 @@ plugins, j'ai intégré des éléments d'architecture piochés chez des amis… 
 que je suis désormais assez à l'aise.
 
 Par contre, à force de manipulations, mon Jekyll ressemblait moins au célèbre
-docteur qu'au monstre de Frankenstein&nbsp;: un assemblage de portions de code
+docteur qu'au monstre de Frankenstein : un assemblage de portions de code
 grossièrement liées entre elles par des liens fragiles, se déplaçant lentement
-en gémissant… En un mot comme en cent&nbsp;: mon <em lang="en">build</em> était
-lent.
+en gémissant… En un mot comme en cent : mon <em lang="en">build</em> était lent.
 
 <!-- more -->
 
@@ -55,14 +54,13 @@ configurer la compilation en conséquence, de vérifier l'intégrité des en-tê
 front matter de mes articles, de générer le site avec Jekyll et, enfin, de
 contrôler ce qui est produit en utilisant
 [la gemme `html-proofer`](https://rubygems.org/gems/html-proofer/). Je n'exécute
-pas tout cela sur mon ordinateur&nbsp;: à la place, je délègue cette tâche à
-Netlify, branché sur mon dépôt GitHub pour compiler et déployer mes branches.
+pas tout cela sur mon ordinateur : à la place, je délègue cette tâche à Netlify,
+branché sur mon dépôt GitHub pour compiler et déployer mes branches.
 
 Toutes ces tâches prenaient individuellement du temps, mais la partie dédiée à
 la génération avec Jekyll restait la plus consommatrice de CPU, prenant
-plusieurs minutes. Résultat&nbsp;: pendant des mois, mes compilations Netlify
-ont duré plus de 10 minutes. Chaque compilation était plus lente que la
-précédente.
+plusieurs minutes. Résultat : pendant des mois, mes compilations Netlify ont
+duré plus de 10 minutes. Chaque compilation était plus lente que la précédente.
 
 Il y a quelques jours, Netlify a complètement arrêté le déploiement du site web
 car mes compilations prenaient tellement de temps qu'elles dépassaient la limite
@@ -72,7 +70,7 @@ Il était temps d'agir.
 
 ---
 
-Un proverbe africain dit&nbsp;:
+Un proverbe africain dit :
 
 > Seul, on va plus vite. Ensemble, on va plus loin.
 
@@ -83,12 +81,12 @@ possibilités que nous n'avions même pas envisagées.
 ---
 
 Quand j'ai pensé que j'atteignais la limite de mes compétences, j'ai demandé
-l'aide à la communauté que je connais le mieux&nbsp;: les membres de JAMstatic.
-Et parmi eux, un membre de la <span lang="en">Core Team</span> de Jekyll,
+l'aide à la communauté que je connais le mieux : les membres de JAMstatic. Et
+parmi eux, un membre de la <span lang="en">Core Team</span> de Jekyll,
 [Frank](https://github.com/DirtyF). Il m'a beaucoup aidé (et continue de le
 faire) en me montrant des possibilités que je n'avais pas envisagées.
 
-## Inclusions&nbsp;: à consommer avec modération
+## Inclusions : à consommer avec modération
 
 L'expérience m'a appris qu'il est souvent plus difficile de maintenir un projet
 que de le réaliser en premier lieu. Pour augmenter ses chances de succès, mieux
@@ -103,25 +101,25 @@ visualiser avec le
 [profileur Liquid [EN]](https://jekyllrb.com/docs/configuration/options/#build-command-options).
 
 D'après [Pat Hawks](https://github.com/pathawks/), membre de la
-<span lang="en">Core Team</span> Jekyll&nbsp;:
+<span lang="en">Core Team</span> Jekyll :
 
 > Chaque fois que vous utilisez une balise `{% raw %}{% include %}{% endraw %}`,
 > Jekyll doit ouvrir le fichier concerné, lire son contenu en mémoire, puis
 > analyser le gabarit avec Liquid. Cela se produit à chaque
-> `{% raw %}{% include %}{% endraw %}`, et pas une seule fois par fichier&nbsp;!
-> Donc l'utilisation d'une même inclusion sur 100 pages provoquera le chargement
-> et l'analyse de cette inclusion 100 fois. Le problème s'aggrave très
-> rapidement si vous commencez à faire des inclusions dans vos inclusions…
+> `{% raw %}{% include %}{% endraw %}`, et pas une seule fois par fichier ! Donc
+> l'utilisation d'une même inclusion sur 100 pages provoquera le chargement et
+> l'analyse de cette inclusion 100 fois. Le problème s'aggrave très rapidement
+> si vous commencez à faire des inclusions dans vos inclusions…
 
 Une façon de surmonter ce coût supplémentaire est de mettre en cache les blocs
 compilés pendant l'interprétation de votre `{% raw %}{% include %}{% endraw %}`.
-Il y a un plugin pour cela&nbsp;: le plugin
+Il y a un plugin pour cela : le plugin
 [jekyll-include-cache](https://github.com/benbalter/jekyll-include-cache) de Ben
-Balter. Mais attention à deux choses très importantes&nbsp;:
+Balter. Mais attention à deux choses très importantes :
 
 1. assurez-vous de passer toutes les données nécessaires à votre
    `{% raw %}{% include %}{% endraw %}` en paramètres, car elles seront
-   utilisées comme clés pour le cache&nbsp;;
+   utilisées comme clés pour le cache ;
 2. si vous le pouvez, n'utilisez des inclusions que pour générer des portions de
    code réutilisables. Si les paramètres de l'inclusion la rendent si spécifique
    qu'elle n'est pas réutilisable ailleurs, alors le cache relatif à cette
@@ -132,8 +130,7 @@ Ces deux contraintes sont si fortes qu'elles m'ont obligé à réintégrer plus 
 la moitié de mes inclusions dans mes gabarits (_\_layouts_). Je ne suis pas
 entièrement satisfait de cette situation (car, en conséquence, je trouve que les
 capacités de maintenance sont dégradées) mais je dois avouer que j'ai gagné près
-de **10&nbsp;%** de temps de compilation[^parole] en sacrifiant ce petit
-confort.
+de **10 %** de temps de compilation[^parole] en sacrifiant ce petit confort.
 
 Et avec des commentaires Liquid
 (`{% raw %}{% comment %}This is a comment{% endcomment %}{% endraw %}`), je peux
@@ -148,15 +145,15 @@ d'ajouter des tests conditionnels dans le générateur pour utiliser ces gemmes 
 elles sont référencées dans votre Gemfile. Vous n'avez donc qu'à ajouter les
 gemmes à votre Gemfile pour tirer parti de ces améliorations.
 
-Il en existe certainement d'autres, mais en voici au moins deux&nbsp;:
+Il en existe certainement d'autres, mais en voici au moins deux :
 
 -   [la gemme `liquid-c`](https://github.com/Shopify/liquid-c), pour optimiser
-    la compilation Liquid&nbsp;;
+    la compilation Liquid ;
 -   [la gemme `sassc`](https://github.com/sass/sassc-ruby), si vous avez besoin
     de Jekyll pour compiler des fichiers Sass plus efficacement.
 
 Je n'ai pas besoin de Jekyll pour mes fichiers Sass mais en utilisant
-`liquid-c`, j'ai économisé **9&nbsp;%** du temps de compilation.
+`liquid-c`, j'ai économisé **9 %** du temps de compilation.
 
 ## Si vous pouvez l'éviter, n'utilisez pas LSI
 
@@ -169,14 +166,14 @@ il fonctionnera lentement, très lentement[^gsl].
 
 Après une très rapide non-analyse des données analytiques dont je ne dispose
 pas[^analytics], j'ai décidé de me séparer de la proposition d'articles associés
-et d'économiser **17&nbsp;%** du temps de compilation.
+et d'économiser **17 %** du temps de compilation.
 
-## Markdown&nbsp;: choisissez la bonne variante
+## Markdown : choisissez la bonne variante
 
 Markdown est un langage à balisage léger vraiment sympa mais il lui manque une
-chose très importante&nbsp;: une standardisation. Il existe des douzaines de
-parseurs Markdown, chacun avec ses caractéristiques spécifiques. Depuis quelque
-temps, une initiative de standardisation émerge autour de
+chose très importante : une standardisation. Il existe des douzaines de parseurs
+Markdown, chacun avec ses caractéristiques spécifiques. Depuis quelque temps,
+une initiative de standardisation émerge autour de
 [CommonMark](https://commonmark.org/), et les projets l'implémentant
 fleurissent.
 
@@ -189,15 +186,15 @@ Jekyll, vous pouvez utiliser
 [le plugin jekyll-commonmark de Pat Hawks](https://github.com/jekyll/jekyll-commonmark).
 
 Attention, la transition n'est pas sans adaptations. kramdown et CommonMark sont
-assez différents&nbsp;: en passant de l'un à l'autre, j'ai dû sacrifier quelques
+assez différents : en passant de l'un à l'autre, j'ai dû sacrifier quelques
 sucres syntaxiques.
 
 Par exemple, CommonMark ne supporte pas les attributs de bloc tels que
 `{% raw %}{ :.myclass}{% endraw %}` pour décorer un paragraphe de contenu. Vous
 aurez besoin d'utiliser de bonnes vieilles balises HTML. N'oubliez pas d'activer
 l'option `UNSAFE` dans votre configuration Jekyll (`_config.yml`) si vous ne
-voulez pas générer beaucoup de commentaires du type
-`<!-- raw HTML omitted -->`&nbsp;:
+voulez pas générer beaucoup de commentaires du type `<!-- raw HTML omitted -->`
+:
 
 ```
 markdown: CommonMark
@@ -212,29 +209,29 @@ cet analyseur m'a aidé à détecter des problèmes dans mes articles que je n'a
 jamais remarqué auparavant. Si vous avez un contenu conséquent, attendez-vous à
 devoir corriger quelques coquilles.
 
-Un petit prix à payer pour gagner encore **9&nbsp;%** de temps de compilation.
+Un petit prix à payer pour gagner encore **9 %** de temps de compilation.
 
 ## Faites confiance à la <em lang="en">Team</em> pour aller dans la bonne direction
 
 Enfin, l'une des dernières améliorations apportées a été le passage à la version
 `master` de Jekyll. Depuis la version 3.8.5 (ma version précédente), de
 nombreuses améliorations ont été apportées, et le gain de performance est
-vraiment considérable&nbsp;: **93&nbsp;%**&nbsp;!
+vraiment considérable : **93 %** !
 
 Je n'arrivais tellement pas à y croire que j'ai temporairement versionné mon
 dossier `_site` et vérifié qu'il n'y avait rien de cassé en changeant de
-version. Et dans mon cas&nbsp;: rien à redire, tout est parfait.
+version. Et dans mon cas : rien à redire, tout est parfait.
 
 Si vous ne deviez retenir, ou tester, qu'une seule optimisation, c'est celle-ci.
 Faites confiance à la <span lang="en">Core Team</span>, la performance est une
 de leurs priorités.
 
-## Qu'en est-il de mon chantier multilingue&nbsp;?
+## Qu'en est-il de mon chantier multilingue ?
 
 Avec toutes ces optimisations, ma compilation Jekyll est passée de plus de 15
-minutes à environ une minute. C'est encore beaucoup, et je sais pourquoi&nbsp;:
-ma gestion "fait maison" de l'internationalisation, et plus particulièrement de
-la traduction de mes articles, est sous-optimale.
+minutes à environ une minute. C'est encore beaucoup, et je sais pourquoi : ma
+gestion "fait maison" de l'internationalisation, et plus particulièrement de la
+traduction de mes articles, est sous-optimale.
 
 Elle est basée sur une clé front matter `i18n-key` qui me permet de faire se
 correspondre mes articles et pages d'une langue à l'autre et sur un plugin qui,
@@ -246,7 +243,7 @@ compilation.
 [Ashwin Maroli](https://github.com/ashmaroli), l'un des membres de la
 <em lang="en">Jekyll Plugin Core Team</em>, travaille sur un plugin qui utilise
 une convention d'organisation des fichiers pour trouver les traductions, ce qui
-devrait considérablement améliorer les choses&nbsp;:
+devrait considérablement améliorer les choses :
 [jekyll-locale](https://github.com/ashmaroli/jekyll-locale). J'ai essayé
 d'implémenter le plugin sur mon blog mais j'ai rencontré quelques impondérables
 lors de cette première tentative. J'y reviendrai plus tard, une fois que
@@ -267,15 +264,15 @@ optimisations. J'ai attendu d'avoir complètement terminé, et donc d'avoir le
 contenu final, puis j'ai repris ma configuration d'avant optimisation et j'ai
 analysé les gains étape par étape.
 
-Voici mon protocole de test&nbsp;: Je suis parti d'une installation sans aucune
-de ces optimisations, puis j'ai écrit un script implémentant les optimisations
-une par une et compilant le site (sauf la suppression des inclusions, car…
-j'étais trop paresseux pour scripter la modification des gabarits, je l'avoue).
-J'ai ensuite programmé l'exécution du script 10 fois et je me suis couché
-pendant que mon ordinateur passait près de 16 heures à passer ces optimisations
-au banc d'essai.
+Voici mon protocole de test : Je suis parti d'une installation sans aucune de
+ces optimisations, puis j'ai écrit un script implémentant les optimisations une
+par une et compilant le site (sauf la suppression des inclusions, car… j'étais
+trop paresseux pour scripter la modification des gabarits, je l'avoue). J'ai
+ensuite programmé l'exécution du script 10 fois et je me suis couché pendant que
+mon ordinateur passait près de 16 heures à passer ces optimisations au banc
+d'essai.
 
-Voici les données brutes, si certains veulent jouer avec&nbsp;:
+Voici les données brutes, si certains veulent jouer avec :
 
 | Run     | Step                     | Done in… (s) |
 | ------- | ------------------------ | ------------ |

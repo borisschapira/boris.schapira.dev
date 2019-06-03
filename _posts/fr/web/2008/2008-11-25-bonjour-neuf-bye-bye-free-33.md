@@ -19,7 +19,7 @@ chose…_
 
 Grosso modo, j'ai le choix entre Neuf et Orange. L'argument du prix étant
 important, **je contacte Neuf** via le site du FAI. Première surprise, c'est
-**Neuf qui me rappelle**&nbsp;! Un conseiller se présente et nous commençons à
+**Neuf qui me rappelle** ! Un conseiller se présente et nous commençons à
 discuter. Il m'explique que mon adresse est éligible à une offre dégroupée mais
 que le **DSLAM** auquel je devrais être connecté est **saturé**. Paul (le
 conseiller Neuf, donc), me présente les modalités pour demander une **ouverture
@@ -37,25 +37,24 @@ rendez-vous, et arrive à l'heure. En 11 minutes dont 3 passées à l'extérieur
 l'appartement, la ligne est opérationnelle.
 
 Je rappelle Paul (sur sa ligne professionnelle directe) et il entame pour moi un
-dossier d'ouverture de ligne Neuf. **Enfin&nbsp;!** Plus de 20 jours après mon
+dossier d'ouverture de ligne Neuf. **Enfin !** Plus de 20 jours après mon
 emménagement, et alors que j'avais tout prévu pour une interruption d'Internet
-minimale, j'allais enfin retrouver le réseau à la maison&nbsp;!
+minimale, j'allais enfin retrouver le réseau à la maison !
 
 **C'était sans compter sur la pugnacité de Free**. Car oui, malgré le renvoi
 avec accusé de réception de la Freebox et le retour de l'accusé, l'information
 n'avait visiblement pas circulé à tous les niveaux. Environ 5 jours après
-l'inscription Neuf, je reçois un coup de fil d'un conseiller Neuf&nbsp;:
-"Monsieur, nous ne comprenons pas. Conformément à votre inscription, nous avons
-commencé à créer la ligne mais nous avons un problème&nbsp;: apparemment, Free a
-déjà commencé."
+l'inscription Neuf, je reçois un coup de fil d'un conseiller Neuf : "Monsieur,
+nous ne comprenons pas. Conformément à votre inscription, nous avons commencé à
+créer la ligne mais nous avons un problème : apparemment, Free a déjà commencé."
 
 **J'appelle Free et hurle**. Incapables de m'aider à créer ma ligne, ils
 m'avaient demandé de résilier. J'avais dû me battre et les menacer pour ne pas
 avoir à payer les 90 euros de résiliation, et maintenant ils s'amusaient à
-construire une ligne que je ne leur avais pas demandé&nbsp;! Le lendemain, j'ai
-rappelé Neuf&nbsp;: tout était rentré dans l'ordre.
+construire une ligne que je ne leur avais pas demandé ! Le lendemain, j'ai
+rappelé Neuf : tout était rentré dans l'ordre.
 
 Aujourd'hui, je suis **très content** de ma Neufbox et notamment des fonctions
 **magnétoscope** et **Media Center**, bien plus sympathiques à utiliser que
 leurs équivalents Free. En espérant ne pas avoir autant de problème à la
-résiliation&nbsp;!
+résiliation !

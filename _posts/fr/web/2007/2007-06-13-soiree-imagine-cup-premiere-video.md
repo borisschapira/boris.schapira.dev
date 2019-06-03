@@ -4,7 +4,7 @@ tags:
     - 'Imagine Cup'
 ---
 
-Benjamin m'a mis la puce à l'oreille&nbsp;: il parait
+Benjamin m'a mis la puce à l'oreille : il parait
 qu'[Onesque](http://www.onesque.net/blog/) aurait fait une vidéo de la soirée
 Imagine Cup pour [Clubic](http://www.clubic.com). Qu'à cela ne tienne, je
 vérifie. Et en effet, elle existe bel et bien (et on y voit presque des MSP de

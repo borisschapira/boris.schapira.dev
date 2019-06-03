@@ -17,5 +17,5 @@ mais plus aujourd'hui. Internet Explorer 6
 [plante comme un rien](http://secunia.com/advisories/product/12366/),
 [ne supporte pas la transparence des PNG](http://support.microsoft.com/kb/294714),
 n'implémente pas correctement les CSS, rencontre des problèmes absurdes avec
-Flash et ne propose pas de navigation par onglet. Comment faut-il le dire&nbsp;?
+Flash et ne propose pas de navigation par onglet. Comment faut-il le dire ?
 Internet Explorer 6 est complètement dépassé, un point c'est tout.

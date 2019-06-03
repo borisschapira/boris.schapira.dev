@@ -21,13 +21,13 @@ aux journalistes la technique qu'il a employé pour exfiltrer les informations
 (_Lady Gaga_, quelle arme de destruction massive), ses préférences sexuelles
 (sûrement très important pour l'enquête), les détails d'une enfance perturbée
 (évidemment, vous n'aviez pas cru qu'un individu sain d'esprit aurait pu
-commettre un tel crime, si&nbsp;?)… Comme il a reconnu les faits, les américains
+commettre un tel crime, si ?)… Comme il a reconnu les faits, les américains
 peuvent tout lui coller sur le dos, c'est bien pratique.
 
 Si je ne nie pas l'implication du soldat et sa responsabilité, je reste
 dubitatif sur la facilité avec laquelle il a pu sortir autant de fichiers des
 serveurs de la plus grande force armée du monde. N'y a-t-il pas eu négligence,
 pendant de nombreuses années, pour que ces informations hautement sensibles se
-retrouvent si facilement dans les mains d'un soldat&nbsp;? C'est dommage parce
-que s'ils cherchaient des experts en sécurité informatique, justement, on en a
+retrouvent si facilement dans les mains d'un soldat ? C'est dommage parce que
+s'ils cherchaient des experts en sécurité informatique, justement, on en a
 [un qu'on aurait été ravis de leur envoyer](http://www.linformaticien.com/actualites/newsid496/4284/kerviel-embauche-comme-expert-en-securite-informatique.aspx)…

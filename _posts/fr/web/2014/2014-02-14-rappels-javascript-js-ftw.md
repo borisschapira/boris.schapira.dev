@@ -1,5 +1,5 @@
 ---
-title: 'Rappels JavaScript&nbsp;: JS FTW !'
+title: 'Rappels JavaScript : JS FTW !'
 tags:
     - Conférences
 ---
@@ -11,7 +11,7 @@ L'idée assumée était d'enfoncer des portes ouvertes mais comme toujours dans 
 cas-là, la présentation a permis de lever d'intéressantes questions ou de lever
 le voile que certains n'avaient pas eu le temps d'effleurer sur des syntaxes
 qu'ils croisaient parfois. Bref, c'était une super expérience et si vous voulez
-la vivre aussi, n'hésiter pas à&nbsp;:
+la vivre aussi, n'hésiter pas à :
 
 -   [Visualiser la présentation](http://borisschapira.github.io/slides/rappelsJS/)
 -   [Forker le code sur GitHub](https://github.com/borisschapira/slides/tree/gh-pages)

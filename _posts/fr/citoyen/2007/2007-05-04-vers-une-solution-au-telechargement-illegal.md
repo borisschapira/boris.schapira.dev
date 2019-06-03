@@ -15,10 +15,9 @@ rapport commandé par le ministère de la Culture et consacré au téléchargeme
 sur Internet ridiculise cette solution.
 
 En effet, ce rapport explique que la répression du piratage est quasi impossible
-d'un point de vue technique et juridique. Il propose au contraire
-d'«&nbsp;encourager&nbsp;» les offres de téléchargement légales et de supprimer
-les logiciels de protection (comme les DRM). De plus, le rapport insiste sur
-l'importance de la prévention.
+d'un point de vue technique et juridique. Il propose au contraire "d'encourager"
+les offres de téléchargement légales et de supprimer les logiciels de protection
+(comme les DRM). De plus, le rapport insiste sur l'importance de la prévention.
 
 Concrètement, cela voudrait dire que le gouvernement devrais mieux aider les PME
 comme les grands groupes à démocratiser leurs plateformes de vente en ligne pour

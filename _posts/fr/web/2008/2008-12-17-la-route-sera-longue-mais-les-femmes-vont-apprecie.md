@@ -19,7 +19,7 @@ et ce ne sont pas les
 [récentes découvertes transatlantiques](http://tempsreel.nouvelobs.com/?xtmc=madoff&xtcr=4)
 qui vont changer la donne. Avant même l'affaire Madoff, le crédit n'était pas au
 beau fixe. Comme l'expliquait Christian Noyer, gouverneur de la Banque de
-France, le 10 décembre dernier&nbsp;:
+France, le 10 décembre dernier :
 
 > "En zone euro, les banques déposent à la BCE tous les jours environ 200
 > milliards d’euros de liquidités. Ce sont des sommes qu’en temps normal elles
@@ -27,10 +27,10 @@ France, le 10 décembre dernier&nbsp;:
 > restaurée quand ce chiffre se sera rapproché de zéro"  
 > [Interview accordée au Figaro](http://www.lefigaro.fr/economie/2008/12/10/04001-20081210ARTFIG00545-les-banques-francaises-sont-solides-.php)
 
-Et les crédits aux ménages et entreprises dans tout ça&nbsp;? Les foyers doivent
+Et les crédits aux ménages et entreprises dans tout ça ? Les foyers doivent
 montrer patte blanche (apport personnel élevé, garanties importantes) pour
 emprunter à des taux nominaux qui, s'ils ont ralenti leur croissance, restent
-très élevés (et surtout, ne reflètent pas -encore&nbsp;?- les baisses des taux
+très élevés (et surtout, ne reflètent pas -encore ?- les baisses des taux
 directeurs). Les PME aussi souffrent de difficultés,
 [malgré l'aide de leur Secrétaire d'État](http://tempsreel.nouvelobs.com/). La
 croissance des crédits va assurément marquer un repli.
@@ -44,6 +44,6 @@ aux banques accordés par l'État. La situation est très tendue et il va nous
 falloir un certain temps pour nous en sortir. D'autant qu'il faudra, en même
 temps, enrayer la progression du chômage.
 
-Seule bonne nouvelle&nbsp;: si nous suivons la tendance américaine,
+Seule bonne nouvelle : si nous suivons la tendance américaine,
 [le marché de l'emploi devrait favoriser les femmes](http://www.antagoniste.net/2008/12/16/la-recession-a-t-elle-un-sexe/).
 Mais c'est vraiment pour trouver un point positif à la crise…

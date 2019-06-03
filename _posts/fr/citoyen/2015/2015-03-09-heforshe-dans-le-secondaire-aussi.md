@@ -14,12 +14,12 @@ visiblement gênée.
 
 <!-- more -->
 
-Je n'attends pas qu'ils se taisent et lance&nbsp;:
+Je n'attends pas qu'ils se taisent et lance :
 
 > &#45; Bonjour à tous, j'espère que vous allez bien.
 
 Je m'adresse ensuite plus directement à lui, mais suffisamment fort pour que
-tout le monde entende&nbsp;:
+tout le monde entende :
 
 > — Et je voulais te dire, il est très sympa, ton sweat !  
 > — Ah merci m'sieur, je l'ai acheté sur un site US.  
@@ -31,25 +31,25 @@ La classe est désormais toute ouïe, on entendrait une mouche volée…
 
 > &#45; Et j'ajouterais même qu'il va très bien avec ton jean, qui lui, met en
 > valeur tes fesses.  
-> — Mais, euh… monsieur&nbsp;?!  
-> — Ça te gêne, les compliments&nbsp;? Pourquoi&nbsp;? Parce que tu ne m'as rien
-> demandé&nbsp;? Et bien dis-toi que elle, c'est pareil. C'est valable pour toi
-> mais aussi pour les autres.
+> — Mais, euh… monsieur ?!  
+> — Ça te gêne, les compliments ? Pourquoi ? Parce que tu ne m'as rien demandé ?
+> Et bien dis-toi que elle, c'est pareil. C'est valable pour toi mais aussi pour
+> les autres.
 
-Puis, à toute la classe&nbsp;:
+Puis, à toute la classe :
 
-> Vous trouvez qu'on a trop de femmes dans l'informatique&nbsp;? Parfait, alors
+> Vous trouvez qu'on a trop de femmes dans l'informatique ? Parfait, alors
 > continuez comme ça, vous comprendrez que ça ne risquera pas de changer. Si
 > elles vous disent non, c'est non. Et si elles ne vous disent pas oui, posez la
 > question. Le consentement, c'est la clé.
 >
-> On ne parle que de ça, ensemble, depuis des semaines&nbsp;: comment se mettre
-> à la place des utilisateurs, comment s'assurer qu'ils comprennent nos produits
+> On ne parle que de ça, ensemble, depuis des semaines : comment se mettre à la
+> place des utilisateurs, comment s'assurer qu'ils comprennent nos produits
 > plutôt que d'essayer d'imposer notre vision…
 >
-> Faites pareil dans votre vie personnelle&nbsp;: draguez en prenant soin de ne
-> pas vous imposer. Je suis sûr que vous êtes vachement plus intéressants quand
-> vous parlez de vous que quand vous faites vos boloss, là !
+> Faites pareil dans votre vie personnelle : draguez en prenant soin de ne pas
+> vous imposer. Je suis sûr que vous êtes vachement plus intéressants quand vous
+> parlez de vous que quand vous faites vos boloss, là !
 
 Grand silence, bouches ouvertes. Visiblement, on n'a pas souvent l'habitude de
 leur parler comme ça. J'ai enchaîné rapidement sur le début du cours, on n'avait

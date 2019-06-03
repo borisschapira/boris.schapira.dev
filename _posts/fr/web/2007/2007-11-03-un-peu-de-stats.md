@@ -5,15 +5,15 @@ tags:
     - Wikio
 ---
 
--   Un pagerank **PR4** depuis environ… **8h**&nbsp;! Après tout, ça fait juste
-    1 an que le blog existe. Il était temps que Google se réveille (on va voir
-    si ça change quelque chose dans les mois qui viennent).</p>
+-   Un pagerank **PR4** depuis environ… **8h** ! Après tout, ça fait juste 1 an
+    que le blog existe. Il était temps que Google se réveille (on va voir si ça
+    change quelque chose dans les mois qui viennent).</p>
 
 -   **846e** au **[classement général des blogs - Wikio](http://www.wikio.fr/)**
     (42331 blogs recensés)
 
 -   **417e** au **classement des blogs francophones ayant la bannière rotative
-    Critéo** (oui mais sur combien en tout&nbsp;?)
+    Critéo** (oui mais sur combien en tout ?)
 
 -   2216 visiteurs uniques pour Octobre… dont 545 le 26 Octobre grâce à un lien
     en provenance semble-t-il de [Kokipol](http://www.kopikol.net/?id=34147)
@@ -24,7 +24,7 @@ tags:
 -   En dehors de ce pic, une stable moyenne de visiteurs uniques à environ 75
     VU/jour, à pondérer avec les 75 adhérents
     <abbr title="Really Simple Syndication" lang="en">RSS</abbr> (mais je doute
-    que ce soit les même sinon quel intérêt&nbsp;?)
+    que ce soit les même sinon quel intérêt ?)
 
 -   Ceux qui arrivent ici passent pour 60 % par un lien sur un autre site, 20 %
     par un moteur de recherche et les autres connaissent déjà.
@@ -40,5 +40,5 @@ tags:
 
 -   Je suis étonné de voir que certains couples &quot;prénom nom&quot; mènent à
     mon site et pas au site de leur propriétaire (Einstein14, si tu me lis, des
-    visiteurs à toi s'égarent chez moi&nbsp;:D). Idem pour quelques RH citées
-    dans un vieil article.
+    visiteurs à toi s'égarent chez moi :D). Idem pour quelques RH citées dans un
+    vieil article.

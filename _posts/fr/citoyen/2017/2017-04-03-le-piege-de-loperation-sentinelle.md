@@ -36,8 +36,8 @@ l'entrée en État d'Urgence…
 > lui-même est anonyme, aura presque toujours l’initiative.
 >
 > […] L’opération Sentinelle est en réalité soumise à une contradiction. Une
-> patrouille de soldats est la preuve visible que le gouvernement « fait quelque
-> chose » mais que ce quelque chose soit efficace est une autre question.
+> patrouille de soldats est la preuve visible que le gouvernement "fait quelque
+> chose" mais que ce quelque chose soit efficace est une autre question.
 >
 > <cite>"[Le piège de l'opération Sentinelle](http://lavoiedelepee.blogspot.fr/2017/02/le-piege-de-loperation-sentinelle.html)",
 > Michel Goya sur son blog "La voie de l'épée"</cite>

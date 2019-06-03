@@ -5,7 +5,7 @@ tags:
 ---
 
 On parle beaucoup de "Web 2.0" dans les médias, et un des arguments mis en avant
-est le design interactionnel que devrait avoir le "Web 2.0"&nbsp;: des éléments
+est le design interactionnel que devrait avoir le "Web 2.0" : des éléments
 dynamiques et un design léché offrant arrondis, ombrages et reflets là où on
 n'avait que du carré, du terne et du figé.
 
@@ -15,7 +15,7 @@ certainement remarqué que finalement, depuis les premières bribes du Dynamic
 HTML (avec Internet Explorer 4) puis l'objet XMLHttpRequest permettant de faire
 des requêtes client-serveur de manière asynchrone (IE5.5), la donne n'avait pas
 réellement changé. Mais alors pourquoi un tel enthousiasme pour le design
-applicatif web&nbsp;?
+applicatif web ?
 
 Tout simplement parce qu'à l'époque, les développeurs Web faisaient un peu comme
 ils pouvaient. Certes, les éléments étaient là pour réaliser un site
@@ -26,10 +26,9 @@ fantastique, mais encore fallait-il savoir comment les assembler.
 le webmaster avait de l'expérience, mais pas toujours.
 
 De nombreuses compagnies ont ainsi commencé, il y a plusieurs années, à produire
-des solutions à ce problème. Le but&nbsp;: fournir aux webmasters des ensembles
-de fonctions préprogrammées leur permettant d'intégrer des composants qu'on
-appelle désormais
-[AJAX](https://fr.wikipedia.org/wiki/Asynchronous_JavaScript_And_XML)
+des solutions à ce problème. Le but : fournir aux webmasters des ensembles de
+fonctions préprogrammées leur permettant d'intégrer des composants qu'on appelle
+désormais [AJAX](https://fr.wikipedia.org/wiki/Asynchronous_JavaScript_And_XML)
 ("Asynchronous JavaScript and XML", mais en plus marketing) à leurs sites Web.
 Et au milieu de toutes ses sociétés, dont bien s&ucirc;r Microsoft, Google, IBM
 et les autres cadors du milieu, le webmaster pouvait un peu se perdre…

@@ -15,7 +15,7 @@ Néanmoins, je tenais à féliciter Nicolas Sarkozy pour cette fabuleuse citatio
 (prise sur
 [20Minutes.fr](http://www.20minutes.fr/france/336070-20090701-faut-travailler-dimanche-faute-michelle-obama)),
 quasiment digne d'un
-[prix Busiris](http://www.maitre-eolas.fr/category/Prix-busiris)&nbsp;:
+[prix Busiris](http://www.maitre-eolas.fr/category/Prix-busiris) :
 
 > Est-ce qu'il est normal que le dimanche, quand Mme Obama veut avec ses filles
 > visiter les magasins parisiens, je dois passer un coup de téléphone pour les
@@ -29,7 +29,7 @@ se sente obligé de faire pression sur des citoyens ayant mérité leur repos ou
 moins, se l'ayant vu promis par la loi. En effet, le travail dominical sur la
 base du volontariat est-il vraiment "volontaire" lorsqu'il est imposé par le
 chef de l'État ? J'ai hâte d'avoir l'avis d'[Eolas](http://www.maitre-eolas.fr/)
-là-dessus. Mais de toutes façons, Nicolas Sarkozy l'a dit&nbsp;:
+là-dessus. Mais de toutes façons, Nicolas Sarkozy l'a dit :
 
 > Il ne s'agit pas de dire que tout le monde va travailler le dimanche, je n'ai
 > jamais dit ça.  

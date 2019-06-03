@@ -7,7 +7,7 @@ tags:
 
 Après un précédent débat sur la gestion des droits numériques et le rôle de
 Microsoft, l'actualité nous rattrape. C'est en effet aujourd'hui qu'a été
-officialisée l'autorité en charge de la copie privée. Elle se compose de&nbsp;:
+officialisée l'autorité en charge de la copie privée. Elle se compose de :
 
 Cette autorité administrative indépendante, composée de six membres élus pour
 des mandats de 6 ans, aura pour mission d'assurer l'interopérabilité des mesures
@@ -25,22 +25,21 @@ problèmes au cas par cas.
 
 Pour information, les six membres de cette commission sont:
 
--   Jean Musitelli&nbsp;: conseiller d'État.\* Marie-Françoise Marais&nbsp;:
-    conseillère à la Cour de cassation, spécialiste des questions de propriété
-    littéraire et artistique.
--   Patrick Bouquet&nbsp;: conseiller-maître à la Cour des comptes._ Pierre
-    Sirinelli&nbsp;: membre du Conseil supérieur de la propriété littéraire et
-    artistique._ Christian Saguez&nbsp;: président de la Commision des
-    technologies de l'information et de la communication de l'Académie des
-    technologies. Professeur à l'Ecole centrale.\* Tristan d'Albis&nbsp;:
-    président de la Commision de la rémunération pour la copie privée (chargée
-    de fixer les montants perçus sur les supports vierges au titre de la copie
-    privée).
+-   Jean Musitelli : conseiller d'État.\* Marie-Françoise Marais : conseillère à
+    la Cour de cassation, spécialiste des questions de propriété littéraire et
+    artistique.
+-   Patrick Bouquet : conseiller-maître à la Cour des comptes._ Pierre Sirinelli
+    : membre du Conseil supérieur de la propriété littéraire et artistique._
+    Christian Saguez : président de la Commision des technologies de
+    l'information et de la communication de l'Académie des technologies.
+    Professeur à l'Ecole centrale.\* Tristan d'Albis : président de la Commision
+    de la rémunération pour la copie privée (chargée de fixer les montants
+    perçus sur les supports vierges au titre de la copie privée).
 
 L'UFC-Que Choisir s'est déjà dite déçu de ce choix et craint un penchant pour la
 protection des fichiers numériques au détriment du consommateur.
 
-Voir aussi&nbsp;:
+Voir aussi :
 [Un arbitre pour régler les litiges liés à la copie privée](http://www.01net.com/editorial/345814/un-arbitre-pour-regler-les-litiges-lies-a-la-copie-privee/)
 01net
 [Un nouveau régulateur pour les droits d'auteur](http://www.lefigaro.fr/medias/20070407.FIG000001150_un_nouveau_regulateur_pour_les_droits_d_auteur.html)

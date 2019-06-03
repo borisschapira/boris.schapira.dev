@@ -9,8 +9,7 @@ Palais des Congrès de Paris**.
 
 [](http://blogs.technet.com/b/mstechdays/archive/2007/06/20/exclu-microsoft-techdays-2008-r-servez-d-j-les-dates.aspx)
 
-Pour ceux qui ne connaissent pas, je rappelle ce qu'était les TechDays
-2007&nbsp;:
+Pour ceux qui ne connaissent pas, je rappelle ce qu'était les TechDays 2007 :
 
 > Ce sont plusieurs milliers de personnes qui sï¿½EURTMétaient donnéés
 > rendez-vous au Palais des Congrès de Paris (Porte Maillot) pour assister à la
@@ -20,4 +19,4 @@ Pour ceux qui ne connaissent pas, je rappelle ce qu'était les TechDays
 > Gold (dont les plus grosses SSII et agences de consulting françaises)ï¿½EURï¿½
 > LE rendez-vous à ne pas louper si vous cherchez des spécialistes…
 
-Allez, avec un peu de chance je serais speaker aux TechDays 2012&nbsp;:D&nbsp;!
+Allez, avec un peu de chance je serais speaker aux TechDays 2012 :D !

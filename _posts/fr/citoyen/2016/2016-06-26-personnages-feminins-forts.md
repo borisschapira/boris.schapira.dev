@@ -31,7 +31,7 @@ pouvait également tuer s'il le fallait.
 
 {% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2016-06-26/2"
-alt="Buffy joue au Football américain avec un gros naze… elle lui envoie le ballon en pleine tête, il chute."
+alt="Buffy joue au Football américain avec un gros naze… elle lui envoie le ballon en pleine tête, il chute."
 caption="Faut **vraiment** pas la faire ch…"
 %}
 

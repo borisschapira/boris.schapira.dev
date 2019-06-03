@@ -23,17 +23,17 @@ est un passionné d'Histoire, cultivé et drôle. Il expliqua à plusieurs repri
 des anecdotes passionnantes sur la capitale en y attachant toujours une pointe
 d'humour et parfois une dose de nostalgie.
 
-L'investissement dans son best-seller (plus de 300 000 exemplaires&nbsp;!)
-"Métronome&nbsp;: L'histoire de France au rythme du métro parisien" n'a pas
-trainé. De station en station, l'auteur nous explique la ville de façon
-chronologique, même si quelques anecdotes plus modernes viennent parfois
-bousculer des chroniques du passé. **On y apprend beaucoup, on rigole souvent.**
-L'Histoire y apparait, et c'est important dans un ouvrage du genre, légère et
-finalement, assez contemporaine.
+L'investissement dans son best-seller (plus de 300 000 exemplaires !) "Métronome
+: L'histoire de France au rythme du métro parisien" n'a pas trainé. De station
+en station, l'auteur nous explique la ville de façon chronologique, même si
+quelques anecdotes plus modernes viennent parfois bousculer des chroniques du
+passé. **On y apprend beaucoup, on rigole souvent.** L'Histoire y apparait, et
+c'est important dans un ouvrage du genre, légère et finalement, assez
+contemporaine.
 
 Je voudrais tout de même corriger une assertion qui transpire dans le titre et
-l'ouvrage en général&nbsp;: **l'histoire de France n'est pas l'histoire de
-Paris&nbsp;!** C'est bien une mentalité de parisien, ça&nbsp;!&nbsp;:)
+l'ouvrage en général : **l'histoire de France n'est pas l'histoire de Paris !**
+C'est bien une mentalité de parisien, ça ! :)
 
 P.S.: J'ai conseillé ce livre à quelques personnes dont Teulliac, qui s'est
 empressé de le dévorer et d'en faire un très bon article (avec le générique des

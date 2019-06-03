@@ -18,11 +18,11 @@ interpréteur en ligne de commande de haute volée. Outil de script, il permet d
 actions simples et précises sur les fichiers mais également sur les processus,
 la base de registre… bref, tout le système.
 
-L'avantage de Powershell&nbsp;? Une orientation totale vers l'objet avec un
+L'avantage de Powershell ? Une orientation totale vers l'objet avec un
 développement autour de .NET 2.0 et des instances de classe. Et là , vous vous
-dites&nbsp;: "Mais .NET 2.0 est disponible sur XP, ça voudrait dire que…" et
-vous auriez totalement raison&nbsp;! Powershell est également
-[disponible pour Windows XP ici&nbsp;](http://www.microsoft.com/fr-fr/download/details.aspx?id=9591)!
+dites : "Mais .NET 2.0 est disponible sur XP, ça voudrait dire que…" et vous
+auriez totalement raison ! Powershell est également
+[disponible pour Windows XP ici ](http://www.microsoft.com/fr-fr/download/details.aspx?id=9591)!
 
 Je pense qu'on n'a pas fini d'entendre parler de ce projet : de nombreux
 <span lang="en">power-user</span> vont se l'approprier rapidement pour tout un

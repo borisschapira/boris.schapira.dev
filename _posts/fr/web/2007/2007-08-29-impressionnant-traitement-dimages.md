@@ -17,7 +17,7 @@ Il existe différents moyen de ramener une image à un ensemble de valeurs
 comparables (qu'on représente par des niveaux de gris). L'idée ici et d'évaluer
 l'image pour donner une grande valeur aux pixels qui présentent de l'intérêt et
 une faible aux négligeables (toute l'astuce étant dans le calcul de cette
-valeur, d'où le nom donné à cette méthode&nbsp;: **content-aware**).
+valeur, d'où le nom donné à cette méthode : **content-aware**).
 
 Plutôt que d'enlever des lignes ou colonnes entières de pixels lors d'un
 redimensionnement (méthode traditionnelle), on ne supprime que les tracés

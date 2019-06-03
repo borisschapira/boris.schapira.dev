@@ -22,8 +22,7 @@ du héros est traitée de manière assez positive et sa folie plus comique
 qu'inquiétante. Will Smith est un héros positif et charismatique qui n'a pas
 grand-chose à voir avec le Robert Neville original. Bref, toute la force du
 roman passe à la trappe pour ne servir que de support à une histoire manichéenne
-et bourrée de créatures improbables (les lions, ils sont arrivés à la
-nage&nbsp;?).
+et bourrée de créatures improbables (les lions, ils sont arrivés à la nage ?).
 
 _A noter que la dernière image de cette bande-annonce a visiblement été censurée
 ou coupée au montage, puisque je peux confirmer qu'elle n'apparaît pas dans le

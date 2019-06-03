@@ -20,7 +20,7 @@ extrêmement recherché. Avec en plus une expérience directement chez Microsoft
 (bien que je ne fasse pas de .NET actuellement, mais plutôt du VBA et bientôt du
 Sharepoint), les chasseurs n'en peuvent plus.
 
-Deux conclusions s'imposent donc suite à cette expérience&nbsp;:
+Deux conclusions s'imposent donc suite à cette expérience :
 
 1.  il faut faire confiance à Benjamin ;
 2.  je risque d'enchainer assez rapidement sur un job à la sortie d'ici, donc

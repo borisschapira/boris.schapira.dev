@@ -113,8 +113,8 @@ Microsoft pour cet effort.
 Benjamin a repris la parole pour un petit aparté sur Zune, le lecteur MP3 de la
 firme. Dommage, toute la démo était virtuelle sur une petite application pour
 l'occasion. Une manipulation réelle retransmise par Webcam eut été plus
-sympathique mais beaucoup d'étudiants ont néanmoins été ravis de
-«&nbsp;voir&nbsp;» l'appareil pour la première fois. S'en est suivie une démo de
-Photosynth, un excellent projet des labos Microsoft que je vous invite à tester.
-But : reconstituer à partir d'images une scène 3D dans laquelle se déplacer.
-Nous aurons sûrement l'occasion d'en reparler…
+sympathique mais beaucoup d'étudiants ont néanmoins été ravis de "voir"
+l'appareil pour la première fois. S'en est suivie une démo de Photosynth, un
+excellent projet des labos Microsoft que je vous invite à tester. But :
+reconstituer à partir d'images une scène 3D dans laquelle se déplacer. Nous
+aurons sûrement l'occasion d'en reparler…

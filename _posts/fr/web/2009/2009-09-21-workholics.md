@@ -15,17 +15,17 @@ leurs collaborateurs n'importe où et n'importe quand**.
 
 <!-- more -->
 
-Jusqu'ici, les entreprises étaient plutôt friandes de ce type de
-salarié. Imaginez l'aubaine&nbsp;: même en vacances, votre cadre travaille pour
-vous&nbsp;! Il n'était donc pas rare de voir des managers offrir à leur cadres
-un smartphone dédié à la connectivité au travail, comme le Blackberry dont les
-ventes explosent littéralement depuis 2001\. Mais **la situation change**, et
-elle ne va pas plaire aux entreprises qui pour l'instant n'y voient que du feu.
+Jusqu'ici, les entreprises étaient plutôt friandes de ce type de salarié.
+Imaginez l'aubaine : même en vacances, votre cadre travaille pour vous ! Il
+n'était donc pas rare de voir des managers offrir à leur cadres un smartphone
+dédié à la connectivité au travail, comme le Blackberry dont les ventes
+explosent littéralement depuis 2001\. Mais **la situation change**, et elle ne
+va pas plaire aux entreprises qui pour l'instant n'y voient que du feu.
 
 Cet été, j'ai compté plusieurs personnes dire " Je pars X semaines en vacances.
 S'il y a un problème, n'hésitez pas à m'appeler". Ces collaborateurs n'étaient
 pas irremplaçables. Leurs compétences existaient ailleurs dans l'entreprise mais
-par commodité, on les a appelé plutôt que de se demander qui pouvait aider à
+par commodité, on les a appelé plutôt que de se demander qui pouvait aider à
 leur place. Évidemment, on se souviendra qu'ils ont répondu, ce qui les rendra
 encore plus indispensable aux yeux de leurs responsables.
 
@@ -33,8 +33,8 @@ Le problème, c'est que la plupart de ces cas, les raisons pour lesquelles
 l'entreprise ressent le besoin d'appeler le collaborateur est qu'il lui manque
 une information et que le collaborateur n'a désigné personne en mesure de la
 délivrer rapidement en son absence, impactant l'organisation des réseaux de
-l'entreprise, une des clés d'une bonne intelligence économique. Cela porte un
-nom&nbsp;: la **rétention d'information**.
+l'entreprise, une des clés d'une bonne intelligence économique. Cela porte un
+nom : la **rétention d'information**.
 
 Mais la rétention d'information n'est pas la seule conséquence. En absence de
 déconnexion complète, de plus en plus de cadres souffrent d'un **stress

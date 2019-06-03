@@ -15,7 +15,7 @@ choses…_
 
 <!-- more -->
 
-**Description&nbsp;:**
+**Description :**
 
 Le Pharming est une attaque quasiment indétectable par l'utilisateur. Elle
 consiste à remplacer totalement un site commercial existant par une parfaite
@@ -23,7 +23,7 @@ copie. L'attaque va encore plus loin car une fois que l'utilisateur a saisi ses
 identifiant et mot de passe, il est redirigé automatiquement vers le site réel,
 et continue sa navigation sans se douter de rien.
 
-**Conseil&nbsp;:**
+**Conseil :**
 
 Ce type d'attaque est extrêmement redouté aujourd'hui. Peu de solutions sont
 connues qui seraient efficaces à 100%. Cependant vous pouvez raisonnablement
@@ -32,7 +32,7 @@ faire confiance à un site sécurisé (http**s**://…) dont le certificat est v
 vous serez explicitement prévenu si le certificat n'est pas valide et la barre
 d'adresse deviendra rouge).
 
-**En résumé&nbsp;:**
+**En résumé :**
 
 Le pharming vise à totalement remplacer un site commercial par une version
 factice sur laquelle vous naviguerez sans ne vous douter de rien. Soyez

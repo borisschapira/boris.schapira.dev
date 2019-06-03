@@ -16,7 +16,7 @@ puisqu'il s'agit de sauvegarder l'intégralité de l'état actuel de l'ordinateu
 pour ensuite l'éteindre et récupérer cet état plus rapidement au démarrage
 suivant. Pour gagner de la place, je supprime.
 
-Et bien sachez une chose&nbsp;:
+Et bien sachez une chose :
 
 > Le nettoyage des fichiers de mise en veille prolongée désactive
 > automatiquement toute possibilité de mise en veille prolongée et entraine

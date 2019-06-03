@@ -12,7 +12,7 @@ février 2008.
 
 <!-- more -->
 
-La mesure s'apliquera dans un premier temps aux namespaces suivants&nbsp;:
+La mesure s'apliquera dans un premier temps aux namespaces suivants :
 
 -   Base class libraries
 -   Windows Forms

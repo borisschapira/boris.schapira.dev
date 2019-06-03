@@ -11,17 +11,17 @@ problématiques liées à l'intelligence.
 
 > Une des réalisations les plus poussées et les plus spectaculaires du
 > <span lang="en">deep learning</span> a eu lieu en 2012, quand Google Brain, le
-> projet de deep learning de la firme américaine, a été capable de
-> «&nbsp;découvrir&nbsp;», par lui-même, le concept de chat.
+> projet de deep learning de la firme américaine, a été capable de "découvrir",
+> par lui-même, le concept de chat.
 >
 > […]
 >
-> «&nbsp;Ce qui est remarquable, c'est que le système a découvert le concept de
-> chat lui-même. Personne ne lui a jamais dit que c'était un chat. Ça a marqué
-> un tournant dans le machine learning&nbsp;», a expliqué Andrew Ng, fondateur
-> du projet Google Brain, dans les colonnes du magazine Forbes.  
+> "Ce qui est remarquable, c'est que le système a découvert le concept de chat
+> lui-même. Personne ne lui a jamais dit que c'était un chat. Ça a marqué un
+> tournant dans le machine learning", a expliqué Andrew Ng, fondateur du projet
+> Google Brain, dans les colonnes du magazine Forbes.  
 > <cite>layout:
-> post[Comment le 'deep learning' révolutionne l'intelligence artificielle](http://mobile.lemonde.fr/pixels/article/2015/07/24/comment-le-deep-learning-revolutionne-l-intelligence-artificielle_4695929_4408996.html?xtref=acc_dir&utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook)&nbsp;»,
+> post[Comment le 'deep learning' révolutionne l'intelligence artificielle](http://mobile.lemonde.fr/pixels/article/2015/07/24/comment-le-deep-learning-revolutionne-l-intelligence-artificielle_4695929_4408996.html?xtref=acc_dir&utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook)",
 > Morgane Tual pour Le Monde</cite>
 
 Je trouve passionnante cette percée dans le monde de l'intelligence. Qu'il
@@ -30,9 +30,9 @@ s'agisse de <span lang="en">Deep Dream</span> (plus globalement, du projet
 [Microsoft Adam](http://research.microsoft.com/en-us/news/features/dnnvision-071414.aspx)
 ou de Facebook qui cherche à se servir de réseaux de neurones pour traiter plus
 efficacement les publications de ses abonnés. Les découvertes sont passionnantes
-même si planent au dessus de fortes inquiétudes&nbsp;: le soulèvement des
-machines, la prise de contrôle par une entité sur-rationelle, incapable
-d'émotions, _étrangère_ à l'homme.
+même si planent au dessus de fortes inquiétudes : le soulèvement des machines,
+la prise de contrôle par une entité sur-rationelle, incapable d'émotions,
+_étrangère_ à l'homme.
 
 > Marié, entouré d'amis, Elliot mène sa barque. Mais un jour, il se met à
 > souffrir de migraines épouvantables qui révèlent un méningiome, une tumeur
@@ -49,21 +49,21 @@ d'émotions, _étrangère_ à l'homme.
 >
 > C'est là qu'il tombe sur Antonio Damasio, le célèbre neurologue. L'ablation de
 > sa tumeur a emporté une partie de ses lobes frontaux et Damasio constate son
-> apathie&nbsp;: Elliot peut toujours apprendre, mais ne peut plus ressentir.
-> Sur quoi Damasio formula sa théorie sur les émotions comme fondement de la
+> apathie : Elliot peut toujours apprendre, mais ne peut plus ressentir. Sur
+> quoi Damasio formula sa théorie sur les émotions comme fondement de la
 > rationalité. Point de bonnes décisions sans les sentiments… et Elliot obtient
 > sa pension d'invalidité.  
 > <cite>layout:
-> post[Comment arrêter de gamberger la nuit, définitivement](http://lavventura.blog.lemonde.fr/2015/07/24/comment-arreter-de-gamberger-la-nuit/)&nbsp;»,
+> post[Comment arrêter de gamberger la nuit, définitivement](http://lavventura.blog.lemonde.fr/2015/07/24/comment-arreter-de-gamberger-la-nuit/)",
 > Fiamma Luzzati</cite>
 
 Dans le cerveau humain, pas de prise de décision sans émotion. La rationalité
 n'est donc qu'un leurre sémantique. Est-ce qu'un réseau de neurones sera un jour
-capable de décisions&nbsp;? Certainement. Mais une machine ne peut pas
-ressentir&nbsp;: elle applique une série de mécanismes pré-inscrits qui
-supervisent son processus décisionnel. Elle se retrouve donc investie d'un
-pouvoir émotionnel qui n'est que le reflet du ressenti du programmeur l'ayant
-construite. Et c'est là qu'il faut que nous soyons vigileants.
+capable de décisions ? Certainement. Mais une machine ne peut pas ressentir :
+elle applique une série de mécanismes pré-inscrits qui supervisent son processus
+décisionnel. Elle se retrouve donc investie d'un pouvoir émotionnel qui n'est
+que le reflet du ressenti du programmeur l'ayant construite. Et c'est là qu'il
+faut que nous soyons vigileants.
 
 Comme pour les boites noires de la Loi Renseignement, le problème ne réside pas
 dans la technologie. Il est dans l'humain faillible ou mal intentionné, tapi

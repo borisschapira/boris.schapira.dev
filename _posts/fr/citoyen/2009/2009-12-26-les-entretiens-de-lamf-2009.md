@@ -6,22 +6,22 @@ tags:
 
 Le _16 décembre_ dernier avaient lieu les **Entretiens de
 l’<abbr title="Autorité des Marchés Financiers">AMF</abbr> 2009**. Dans la plus
-grande discrétion, ce sont deux sujets très importants qui ont été
-discutés&nbsp;: la réforme la régulation financière en Europe et le bilan sur la
-directive <abbr title="Marchés d'Instruments Financiers">MIF</abbr> qui impose
-de nouvelles règles visant à faciliter l'européanisation des services offerts
-par les <abbr title="Prestataires de Services d'Investissement">PSI</abbr> et
-une meilleure compatibilité avec les évolutions récentes des Marchés, dont la
+grande discrétion, ce sont deux sujets très importants qui ont été discutés : la
+réforme la régulation financière en Europe et le bilan sur la directive
+<abbr title="Marchés d'Instruments Financiers">MIF</abbr> qui impose de
+nouvelles règles visant à faciliter l'européanisation des services offerts par
+les <abbr title="Prestataires de Services d'Investissement">PSI</abbr> et une
+meilleure compatibilité avec les évolutions récentes des Marchés, dont la
 multiplication de lieux d'exécution.
 
 <!-- more -->
 
 J'ai identifié dans le discours de clotûre de cette demi-journée 3 grandes
 tendances qui je pense guideront l'évolution de la régulation ces prochains
-années&nbsp;:
+années :
 
--   **Relancer l'investissement en qualifiant l'information**&nbsp;: En
-    renforçant sa volonté d'appliquer la directive
+-   **Relancer l'investissement en qualifiant l'information** : En renforçant sa
+    volonté d'appliquer la directive
     <abbr title="Marchés d'Instruments Financiers">MIF</abbr> et en soutenant la
     mise en concurrence des
     <abbr title="Prestataires de Services d'Investissement">PSI</abbr>,
@@ -34,7 +34,7 @@ années&nbsp;:
     relancer les marchés dans une logique d’investissement de long terme et de
     financement des PME, plutôt que sur une efficacité à court terme notamment
     popularisée par le développement de l'arbitrage.
--   **Mieux contrôler, mieux sanctionner**&nbsp;: En soutenant la création d'une
+-   **Mieux contrôler, mieux sanctionner** : En soutenant la création d'une
     Organisation mondiale de la Finance chargée de contrôler la bonne
     application des règles mondiales de la Finance (une des propositions du
     [G20 d'avril 2009](/2009/04/g20-et-regulation/)),
@@ -43,13 +43,13 @@ années&nbsp;:
     comptables européennes et américaines mais aussi par une révision des
     procedures d'enquêtes et de sanctions tout en augmentant les ressources du
     régulateur.
--   **Mieux gouverner**&nbsp;: En réduisant le nombre d'intermédiaires et en
+-   **Mieux gouverner** : En réduisant le nombre d'intermédiaires et en
     ré-organisant ses structures pour qu'elles s'adaptent aux risques et enjeux
     des nouveaux marchés,
     l'<abbr title="Autorité des Marchés Financiers">AMF</abbr> espère gagner en
     transparence, en gouvernance et en efficacité.
 
-Je ne peux m'empêcher d'être **déçu**. D'abord, par le format&nbsp;: **une
+Je ne peux m'empêcher d'être **déçu**. D'abord, par le format : **une
 demi-journée, ça n'est pas suffisant** pour traiter de l'ensemble de ces points
 avec sérieux. À mon avis de tels débats devraient impliquer davantage d'acteurs
 et devraient être plus nourris. De plus, je ne peux m'empêcher de voir dans
@@ -63,8 +63,8 @@ discussions impliquent une vision à long terme…
 Que sont devenus les points de réflexion de l'année dernière comme la
 [régulation des marchés de gré-à-gré](/2008/12/les-entretiens-de-lamf-2008-23-regulation-des-produits-traites-de-gre-a-gre/)
 et
-[la régulation des <abbr title="Exchange Traded Fund">ETF</abbr>](/2008/11/les-entretiens-de-lamf-2008-13-regulation-de-la-gestion-dactifs/)&nbsp;?
-Je m'interroge également sur le rôle de
+[la régulation des <abbr title="Exchange Traded Fund">ETF</abbr>](/2008/11/les-entretiens-de-lamf-2008-13-regulation-de-la-gestion-dactifs/)
+? Je m'interroge également sur le rôle de
 l'<abbr title="Autorité des Marchés Financiers">AMF</abbr> face à
 [la prolifération du crédit chez les particuliers](/2009/05/lepidemie-continue/)
 et

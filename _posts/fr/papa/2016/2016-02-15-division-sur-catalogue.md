@@ -163,8 +163,8 @@ arriveront jamais), voire les pousseront plus loin que ce que nous craignons
 déjà.
 
 > Les viviers d’hommes pour les métiers de la petite enfance sont à chercher
-> notamment du côté des réorientations et des «&nbsp;secondes carrières&nbsp;»
-> (Flandre, Allemagne, Écosse). Il est plus facile de transgresser les normes
+> notamment du côté des réorientations et des "secondes carrières" (Flandre,
+> Allemagne, Écosse). Il est plus facile de transgresser les normes
 > professionnelles masculines à l’âge adulte qu’à l’adolescence.  
 > <cite>"[Lutter contre les stéréotypes filles-garçons, un enjeu d'égalité et de mixité dès l'enfance](http://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/archives/CGSP_Stereotypes_filles_garcons_web.pdf)",
 > travaux coordonnés par Marie-Cécile Naves et Vanessa Wisnia-Weill en janvier

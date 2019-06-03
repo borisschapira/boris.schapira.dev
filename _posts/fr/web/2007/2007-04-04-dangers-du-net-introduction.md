@@ -16,10 +16,10 @@ choses…
 <!-- more -->
 
 C'est pourquoi désormais je vais essayer de publier de manière régulière des
-articles simples et brefs pour expliquer les principaux dangers
-d'Internet&nbsp;: phishing, pharming, spear phishing, addwares, keyloggers,
-browser hijacher, chevaux de troie, rootkits, virus, PC zombies… vous verrez que
-tout cela n'est pas si compliqué.
+articles simples et brefs pour expliquer les principaux dangers d'Internet :
+phishing, pharming, spear phishing, addwares, keyloggers, browser hijacher,
+chevaux de troie, rootkits, virus, PC zombies… vous verrez que tout cela n'est
+pas si compliqué.
 
 N'oubliez pas, le meilleur moyen de se protéger est de maintenir son système
 d'exploitation à jour et d'installer les dernières versions de ses logiciels et

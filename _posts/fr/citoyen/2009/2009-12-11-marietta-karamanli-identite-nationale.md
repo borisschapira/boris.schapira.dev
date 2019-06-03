@@ -16,9 +16,8 @@ rapporté
 > Il est […] toujours complexe de définir ce qu'est le sentiment d'être
 > français. Le mot sentiment désigne lui-même à la fois des sensations et une
 > conscience. **Il est périlleux que ce soit l'État qui cherche à dire ce que
-> cela signifie et, ainsi, à «&nbsp;cadrer&nbsp;» des sentiments.** En la
-> matière, il ne peut dire «&nbsp;le vrai&nbsp;» car il ne peut y avoir
-> d'objectivité.
+> cela signifie et, ainsi, à "cadrer" des sentiments.** En la matière, il ne
+> peut dire "le vrai" car il ne peut y avoir d'objectivité.
 >
 > Je voudrais vous faire part de ma propre expérience, celle de devenir
 > française, ayant été une étrangère pendant une moitié de ma vie.
@@ -50,12 +49,12 @@ rapporté
 >
 > Plus tard, en lisant Ferdinand Buisson, philosophe, pédagogue, et ministre de
 > la IIIe République, j'ai découvert que c'était ce qu'il nommait
-> «&nbsp;l'individualisme de conscience&nbsp;». **Ici, vous pouvez être
-> vous-même et ne pas être défini exclusivement par votre famille, votre
-> religion, votre travail ou votre entreprise, votre pays d'origine, ou encore
-> vos préférences sexuelles. Vous êtes, quelque part, «&nbsp;indépendant&nbsp;»
-> d'eux. On y pratique non pas la coexistence des particularismes mais le
-> partage de ce qu'il y a de meilleur dans les individualités et les valeurs.**
+> "l'individualisme de conscience". **Ici, vous pouvez être vous-même et ne pas
+> être défini exclusivement par votre famille, votre religion, votre travail ou
+> votre entreprise, votre pays d'origine, ou encore vos préférences sexuelles.
+> Vous êtes, quelque part, "indépendant" d'eux. On y pratique non pas la
+> coexistence des particularismes mais le partage de ce qu'il y a de meilleur
+> dans les individualités et les valeurs.**
 >
 > Par ailleurs, **cet individualisme n'est pas l'individualisme de concurrence**
 > qui est aujourd'hui valorisé et vanté partout, jusqu'aux plus hauts sommets de
@@ -85,8 +84,8 @@ rapporté
 […]
 
 > Selon moi, **parler de l'identité nationale comme de quelque chose d'objectif
-> et d'immuable qu'on pourrait «&nbsp;valoriser&nbsp;», comme le dit le site du
-> ministère, c'est impossible**.
+> et d'immuable qu'on pourrait "valoriser", comme le dit le site du ministère,
+> c'est impossible**.
 
 […]
 

@@ -24,8 +24,7 @@ et j'espère qu'il sera massivement adopté, notamment pour le développement
 d'applications de bureau ou mobiles. Enfin, j'apprécie énormément la liberté
 offerte par un système comme
 [Android](http://www.linformaticien.com/actualites/newsid496/8069/android-progresse-fort.aspx),
-tant au niveau des développements qu'au niveau business (il y a tout à
-faire&nbsp;!).
+tant au niveau des développements qu'au niveau business (il y a tout à faire !).
 
 Alors quand je vois Apple qui
 [verrouille son système](http://www.generation-nt.com/eff-contrat-developpeurs-apple-app-store-applications-actualite-977361.html)

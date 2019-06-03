@@ -18,7 +18,7 @@ Pour commencer, disons qu'il y a deux façons d'explorer le temps à la recherch
 de notre Histoire. Nous pouvons soit observer des éléments du passé que nous
 trouvons (corps, outils, pièces de poterie, écritures…) et tenter de comprendre
 comment les choses se sont passées, soit **partir de ce que nous avons
-aujourd'hui** et remontrer le cours du temps. Le plus simple, quand on pratique
+aujourd'hui** et remontrer le cours du temps. Le plus simple, quand on pratique
 cette seconde méthode, est de commencer par ce qu'on sait, puis de continuer
 avec les écrits que l'on trouve. Certains arrivent à construire avec cette
 technique des arbres généalogiques impressionnants. Le problème, c'est qu'on ne
@@ -34,15 +34,15 @@ héritons de nos parents et que nos enfants donneront à leurs propres enfants. 
 chaque génération, de grandes mutations ont lieu au sein de notre ADN, offrant à
 l'Humanité la variété qu'elle possède aujourd'hui.
 
-Tout notre ADN mute-t-il autant&nbsp;? Non, **deux petits villages de bases ACTG
-varient très peu**&nbsp;: l'ADN mitochondrial (donnant des informations sur la
-mère) et le chromosome Y (donnant des informations sur le père). En déterminant
-les séquences de certaines portions de ces éléments et en menant d'incroyables
+Tout notre ADN mute-t-il autant ? Non, **deux petits villages de bases ACTG
+varient très peu** : l'ADN mitochondrial (donnant des informations sur la mère)
+et le chromosome Y (donnant des informations sur le père). En déterminant les
+séquences de certaines portions de ces éléments et en menant d'incroyables
 calculs statistiques, les équipes du Genographic Project sont parvenues à
 **remonter le cours du temps**, dessinant les principaux flux migratoires de
-l'Humanité à l'envers jusqu'au continent où tout à démarrer&nbsp;: l'Afrique. Et
-ils ont même donné une estimation de la date à laquelle les premiers hommes ont
-quitté le continent&nbsp;: entre **il y a 60'000 et 200'000 ans, ce qui est
+l'Humanité à l'envers jusqu'au continent où tout à démarrer : l'Afrique. Et ils
+ont même donné une estimation de la date à laquelle les premiers hommes ont
+quitté le continent : entre **il y a 60'000 et 200'000 ans, ce qui est
 extraordinairement peu** au regard de ce qu'on estimait jusqu'à présent.
 
 Pour arriver à ce résultat, les généticiens du Genographic Project ont analysé
@@ -55,9 +55,9 @@ est faible. 50'000 échantillons proviennent quant-à-eux de populations plus
 Evidemment, **des problèmes éthiques se posent**, comme à chaque fois dans ce
 genre de situation. Quel droit ont les scientifiques d'aller expliquer à des
 populations indigènes qui croient qu'elles ont toujours vécu à un endroit
-particulier que leurs ancêtres venaient de bien plus loin&nbsp;?… et si nous les
+particulier que leurs ancêtres venaient de bien plus loin ?… et si nous les
 épargnons, eux, de la vérité, quel traitement devons-nous réserver aux
-créationnistes&nbsp;? Combien de temps les échantillons peuvent-ils être gardés,
-et pour quels usages futurs&nbsp;? Comment réagir face à ceux qui se serviront
-des infimes différences constatées entre deux prélèvements pour justifier un
-conflit, une guerre, un génocide&nbsp;?
+créationnistes ? Combien de temps les échantillons peuvent-ils être gardés, et
+pour quels usages futurs ? Comment réagir face à ceux qui se serviront des
+infimes différences constatées entre deux prélèvements pour justifier un
+conflit, une guerre, un génocide ?

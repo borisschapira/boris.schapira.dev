@@ -9,10 +9,10 @@ tags:
 Création et Internet. Il fallait que je le dise.**
 
 La gauche se félicite déjà d'un rejet historique. Les internautes tapent dans
-leurs mains en souriant, et les FAI soufflent un grand coup&nbsp;: par 21 voix
-contre 15,
+leurs mains en souriant, et les FAI soufflent un grand coup : par 21 voix contre
+15,
 [le projet de loi Création et Internet sorti de la Commission Mixte Paritaire](http://www.assemblee-nationale.fr/13/rapports/r1589.asp)
-n'est pas passé. Faut-il pour autant se féliciter&nbsp;: je ne pense pas.
+n'est pas passé. Faut-il pour autant se féliciter : je ne pense pas.
 
 Autant je suis opposé à la loi Création et Internet, autant je trouve qu'on
 assiste ici à un grand déni de démocratie. La démocratie, c'est aussi
@@ -25,13 +25,13 @@ d'un député, ce n'est pas de ne pas faire son travail quand il sait le débat
 perdu d'avance. Malgré cela, Hadopi, c'était juste
 [seize gus dans un hémicycle](http://jaffiche.fr/hadopi-cest-16-gus-dans-un-hemicycle-279).
 
-Et aujourd'hui, que voit-on&nbsp;? Plus d'une quinzaine de députés qui ont
-ramené leur postérieur sur les bancs de l'Assemblée pour voter contre le projet
-de loi parce qu'ils n'auraient pas aimé que la CMP soit revenue sur la double
-peine supprimée lors des débats&nbsp;? Mais où étaient-ils
-[à ce moment-là](http://www.numerama.com/magazine/12527-la-loi-hadopi-votee-a-la-sauvette-par-16-deputes.html)&nbsp;?
-Pourquoi ne sont-ils pas venus pour faire entendre les voix qu'ils représentent
-au moment où cela comptait&nbsp;?
+Et aujourd'hui, que voit-on ? Plus d'une quinzaine de députés qui ont ramené
+leur postérieur sur les bancs de l'Assemblée pour voter contre le projet de loi
+parce qu'ils n'auraient pas aimé que la CMP soit revenue sur la double peine
+supprimée lors des débats ? Mais où étaient-ils
+[à ce moment-là](http://www.numerama.com/magazine/12527-la-loi-hadopi-votee-a-la-sauvette-par-16-deputes.html)
+? Pourquoi ne sont-ils pas venus pour faire entendre les voix qu'ils
+représentent au moment où cela comptait ?
 
 Je suis contre le projet de loi Hadopi mais l'attitude de l'opposition ne vaut
 pas mieux que celle du gouvernement. De tous les côtés, ce dossier est traité

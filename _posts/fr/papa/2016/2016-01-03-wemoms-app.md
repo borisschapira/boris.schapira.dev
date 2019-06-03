@@ -17,7 +17,7 @@ vivait dans le déni depuis des années. Sans elle, je ne sais pas ce que je
 serais devenu. Plus sérieusement, je ne vois pas pourquoi je devrais en prendre
 ombrage : les femmes utilisent depuis des années des services qui sont
 entièrement orientés vers les hommes, avec des pubs destinées aux hommes et des
-codes très masculins. Alors pourquoi l'inverse serait dégradant ? Ce dont je me
+codes très masculins. Alors pourquoi l'inverse serait dégradant ? Ce dont je me
 rends compte, c'est qu'en revanche certaines femmes publient des questions qui
 touchent à l'intime et que l'intervention d'un homme peut les gêner : je le
 respecte et n'interviens que dans les questions parlant de la relation à

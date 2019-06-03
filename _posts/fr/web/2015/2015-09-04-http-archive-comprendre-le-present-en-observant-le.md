@@ -29,10 +29,10 @@ utilisées, les scores face à des référentiels de bonnes pratiques comme
 PageSpeed… <em>etc</em>.
 
 Je recommande à quiconque d'ajouter son site à l'index de HTTP Archive. À court
-terme, le gain est faible à nul&nbsp;: les analyses sont réalisées à une
-fréquence très basse (tous les 15 jours), et dans des contextes très différents
-de ceux des utilisateurs des sites. HTTP Archive ne remplacera en aucun cas un
-audit détaillé ou une véritable solution de suivi des performances Web.
+terme, le gain est faible à nul : les analyses sont réalisées à une fréquence
+très basse (tous les 15 jours), et dans des contextes très différents de ceux
+des utilisateurs des sites. HTTP Archive ne remplacera en aucun cas un audit
+détaillé ou une véritable solution de suivi des performances Web.
 
 En revanche, lorsqu'on cherche à comprendre certaines évolutions longues (de
 l'ordre de l'année ou sur plusieurs années) en terme de dette technique, de

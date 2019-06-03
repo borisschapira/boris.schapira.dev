@@ -11,9 +11,9 @@ degré), il est donc grand temps pour moi de renouveler l'un comme l'autre.
 
 <!-- more -->
 
-Problème&nbsp;: je n'y connais absolument rien. À priori, j'opte pour des
-écouteurs intra-auriculaires mais c'est surtout parce que j'ai l'impression que
-ce sont les seuls qui ne ressortent pas quand on court. Ayant déjà essayé les
+Problème : je n'y connais absolument rien. À priori, j'opte pour des écouteurs
+intra-auriculaires mais c'est surtout parce que j'ai l'impression que ce sont
+les seuls qui ne ressortent pas quand on court. Ayant déjà essayé les
 oreillettes tour-d'oreille avec les
 [Sony MDR-J10](http://www.amazon.fr/Sony-Ecouteurs-intra-auriculaires-MDR-J10L-Couleur/dp/B00007EDM8),
 j'ai été assez déçu parce qu'elles ne tiennent pas et le son n'est pas d'une
@@ -27,4 +27,4 @@ possibilité de ranger le tout dans ma sacoche en arrivant au travail.
 Évidemment, si ça pouvait être un peu design tout en ne me coûtant pas une
 semaine de vacances…
 
-Vous, qu'en pensez-vous&nbsp;? Un conseil pour moi&nbsp;?
+Vous, qu'en pensez-vous ? Un conseil pour moi ?

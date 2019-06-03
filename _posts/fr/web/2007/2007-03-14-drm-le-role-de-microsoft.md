@@ -34,9 +34,9 @@ ici.
 >
 > […]
 >
-> Est-ce que c'est au contraire un sujet tabou [les libertés]&nbsp;? Pourquoi
+> Est-ce que c'est au contraire un sujet tabou [les libertés] ? Pourquoi
 > Microsoft n'utilise pas sa formidable popularité planétaire pour répandre de
-> meilleures idées&nbsp;?
+> meilleures idées ?
 
 Je vais répondre en tant que non-connaisseur. Je ne travaille pas du tout sur
 les DRM dans le cadre de mon stage et ce n'est pas au département Services (au
@@ -53,13 +53,13 @@ jeu vidéo de savoir quelle carte graphique est installée sur la machine que de
 savoir si le DRM (qui n'est jamais qu'un certificat) est valide. Le débat n'est
 clairement pas là .
 
-Alors où est-il vraiment&nbsp;? D'abord, il faut comprendre que les DRM ne sont
-pas un caprice de Redmond. Ils proviennent d'une volonté des producteurs de
-contenus de protéger leurs œuvres, suite aux dérives de cette dernière décennie
-en termes de pillage de patrimoine (téléchargements illégaux, problèmes de
-droits d'auteur sur les fichiers numériques). La France elle-même, du moins son
-système législatif poussé par les professionnels des médias (et je te rejoins
-sur ce point), a soutenu cette entreprise via la loi DADVSI.
+Alors où est-il vraiment ? D'abord, il faut comprendre que les DRM ne sont pas
+un caprice de Redmond. Ils proviennent d'une volonté des producteurs de contenus
+de protéger leurs œuvres, suite aux dérives de cette dernière décennie en termes
+de pillage de patrimoine (téléchargements illégaux, problèmes de droits d'auteur
+sur les fichiers numériques). La France elle-même, du moins son système
+législatif poussé par les professionnels des médias (et je te rejoins sur ce
+point), a soutenu cette entreprise via la loi DADVSI.
 
 Maintenant, il ne faut pas gober tout ce qu'on raconte sur Internet. Vista ne
 vous empêchera pas plus de lire vos fichiers musicaux ou vidéo que ne le faisait
@@ -68,11 +68,11 @@ pour être lu. Mais il s'agit encore une fois ici d'une volonté extérieure à
 Microsoft).
 
 Qu'il s'agisse de WGA ou de Windows Defender, ils ne mettent pas en danger
-l'utilisateur. Ce genre «&nbsp;d'espion&nbsp;» est notamment ce qui peut
-protéger les usagers d'un détournement de leur système à leur insu car
-contrairement à ce qu'on peut lire ici et là sur la toile, les modifications
-opérées sur les systèmes Windows par ces applications sont toutes signifiées à
-l'utilisateur par des messages claires et des demandes.
+l'utilisateur. Ce genre "d'espion" est notamment ce qui peut protéger les
+usagers d'un détournement de leur système à leur insu car contrairement à ce
+qu'on peut lire ici et là sur la toile, les modifications opérées sur les
+systèmes Windows par ces applications sont toutes signifiées à l'utilisateur par
+des messages claires et des demandes.
 
 Je dirais que Windows n'est pas un OS de liberté pour les techniciens acharnés
 de l'informatique, mais ce n'est pas son rôle. Il permet aux utilisateurs de
@@ -80,10 +80,10 @@ trouver une plateforme conviviale, qui leur permet de gérer leur contenu
 (légal), leurs loisirs, leurs emplois et leurs outils. Les systèmes libres sont
 bien plus pertinents lorsqu'on veut rentrer dans la technique (attention, je
 n'ai pas dit qu'ils étaient complexes). Y compris pour un meilleur contrôle de
-ce qui a lieu derrière l'utilisation. Mais là où la question se pose
-c'est&nbsp;: les gens veulent-ils ce contrôle absolu qui les empêcherait
-d'autant s'amuser (vu les réactions autour de l'UAC qui est vraiment un outil de
-contrôle poussé par rapport à ce qui se faisait avant sur XP, j'émets un doute).
+ce qui a lieu derrière l'utilisation. Mais là où la question se pose c'est : les
+gens veulent-ils ce contrôle absolu qui les empêcherait d'autant s'amuser (vu
+les réactions autour de l'UAC qui est vraiment un outil de contrôle poussé par
+rapport à ce qui se faisait avant sur XP, j'émets un doute).
 
 Et le Monde ne s'y trompe pas. Si les DRM ne permettent pas d'atteindre leurs
 objectifs, ils seront abandonnés à l'image de ce qui se fait déjà sur de

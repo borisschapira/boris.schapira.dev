@@ -26,7 +26,7 @@ En ce moment, je teste [IL.Spy](http://ilspy.net/ 'Site officiel de IL.Spy'),
 une solution gratuite et open-source, pas aussi développée que Reflector mais
 qui convient à mes besoins. J'ai également installé dans un coin
 [dotPeek de JetBrains](http://www.jetbrains.com/decompiler/ 'Site officiel de dotPeek, le décompiler de JetBrains'),
-mais les premiers lancements ne sont pas concluants&nbsp;: la solution est très
+mais les premiers lancements ne sont pas concluants : la solution est très
 lente.
 
-Si vous avez d'autres propositions, je suis preneur&nbsp;!
+Si vous avez d'autres propositions, je suis preneur !

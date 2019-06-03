@@ -11,5 +11,5 @@ régulation de la Finance internationale. À cette occasion, je vous invite à l
 conclusions pourront servir lors des réflexions de ces prochains jours.
 
 1.  [_Régulation de la gestion d’actifs face aux défis européens et internationaux._](/2008/11/les-entretiens-de-lamf-2008-13-regulation-de-la-gestion-dactifs/)
-2.  [_Régulation pour les produits traités de gré à gré&nbsp;?_](/2008/12/les-entretiens-de-lamf-2008-23-regulation-des-produits-traites-de-gre-a-gre/)
-3.  [_Transparence et opérations financières&nbsp;: le suivi du contrôle dans les sociétés cotées._](/2008/12/les-entretiens-de-lamf-2008-33-suivi-du-controle-dans-les-societes-cotees/)
+2.  [_Régulation pour les produits traités de gré à gré ?_](/2008/12/les-entretiens-de-lamf-2008-23-regulation-des-produits-traites-de-gre-a-gre/)
+3.  [_Transparence et opérations financières : le suivi du contrôle dans les sociétés cotées._](/2008/12/les-entretiens-de-lamf-2008-33-suivi-du-controle-dans-les-societes-cotees/)

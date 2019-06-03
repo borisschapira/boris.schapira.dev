@@ -16,10 +16,10 @@ ensuite, le trader fou.
 
 En effet, une croyance fortement ancrée limite les motivations de l'investisseur
 aux profits rapides issus d'une forte pression sur la direction, quitte à
-épuiser le patrimoine de l'entreprise. Sa vision est à court-terme&nbsp;:
-quelques mois, au mieux quelques années. Les conséquences de son action sont
-invariablement les mêmes&nbsp;: licenciements (pour réduire les coups sociaux)
-et/ou délocalisation (vers un pays où la main-d'œuvre est moins chère).
+épuiser le patrimoine de l'entreprise. Sa vision est à court-terme : quelques
+mois, au mieux quelques années. Les conséquences de son action sont
+invariablement les mêmes : licenciements (pour réduire les coups sociaux) et/ou
+délocalisation (vers un pays où la main-d'œuvre est moins chère).
 
 Quand ce n'est pas cette vision qui domine, c'est celle du trader fou,
 spéculateur au possible, responsable de toutes les pertes de repères de
@@ -28,13 +28,11 @@ fou, c'est qu'il ne joue pas la transparence et réalise des profits immérités
 masquant des opérations, en saisissant des contreparties invalides ou en
 manipulant les prix des matières premières…
 
-Et ce ne sont pas nos chefs d'État qui aident à changer cette image&nbsp;:
+Et ce ne sont pas nos chefs d'État qui aident à changer cette image :
 
 > On fait de l’argent sur le dos des gens et après on fiche tout le monde
 > dehors. La dictature financière, ça suffit.  
 > <cite>Jacques Chirac, Le Monde, 30 mai 2006</cite>
-
-&nbsp;
 
 > La libre concurrence n’est pas plus compatible avec les dumpings de toutes
 > sortes que le capitalisme entrepreneurial n’est compatible avec la prise

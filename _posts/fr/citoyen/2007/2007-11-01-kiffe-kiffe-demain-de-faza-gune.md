@@ -25,14 +25,13 @@ et de s'appeler Ducon, Trouduc, Fatma ou Mohammed.
 Donc voilà, je suis mitigé. D'un côté j'ai ressenti des choses en lisant ce
 livre et j'ai apprécié le ton dénonciateur. Mais de l'autre trop, c'est trop.
 Doria/Faïza m'a insupporté avec sa "Haine". Je n'aime pas les gens qui ont la
-"Haine". T'as la haine&nbsp;? Et bien bosse plus à l'école pour t'en sortir.
-T'as la haine&nbsp;? Rêve et essaie d'atteindre tes objectifs (non, gagner la
-voiture au BigDil n'est pas ce que j'appelle un objectif). T'as la haine&nbsp;?
-Ecris des livres avec plus d'espoir pour ne pas entretenir la "Haine" des
-autres.
+"Haine". T'as la haine ? Et bien bosse plus à l'école pour t'en sortir. T'as la
+haine ? Rêve et essaie d'atteindre tes objectifs (non, gagner la voiture au
+BigDil n'est pas ce que j'appelle un objectif). T'as la haine ? Ecris des livres
+avec plus d'espoir pour ne pas entretenir la "Haine" des autres.
 
 Une jolie phrase tout de même, que je garde précieusement pour me rappeler la
-chance que j'ai&nbsp;:
+chance que j'ai :
 
 > "Pour Maman réussir, c'est travailler dans un bureau où il y a une chaise qui
 > tourne et qui roule, avec un téléphone et un chauffage pas loin du fauteil qui

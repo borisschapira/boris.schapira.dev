@@ -24,8 +24,8 @@ N'hésitez pas à l'acheter
 ([sur Amazon, par exemple](http://www.amazon.com/Notes-Big-Country-Bill-Bryson/dp/0552997862)),
 vous ne le regretterez pas.
 
-P.S.&nbsp;: je viens de voir que le livre avait été traduit en français sous le
-titre **American rigolos&nbsp;: Chroniques d'un grand pays**… Le titre est d'une
-niaiserie incroyable, mais les
+P.S. : je viens de voir que le livre avait été traduit en français sous le titre
+**American rigolos : Chroniques d'un grand pays**… Le titre est d'une niaiserie
+incroyable, mais les
 [commentaires d'Amazon.fr](http://www.amazon.fr/product-reviews/2228897310/ref=dp_top_cm_cr_acr_txt?ie=UTF8&showViewpoints=1)
 finiront de vous convaincre si vous êtes encore sceptique.

@@ -7,10 +7,10 @@ tags:
 
 Au
 [Salon du Mariage de la Porte de Cham­per­ret](http://www.salonmariagefete.com/),
-nous avons pu discuter avec de nombreux acteurs du mariage : maquilleurs,
+nous avons pu discuter avec de nombreux acteurs du mariage : maquilleurs,
 décorateurs, traiteurs, préparateurs religieux, couturiers…
 
-Ils sont tous d'accord sur une chose : la date sera fixée par la réservation de
+Ils sont tous d'accord sur une chose : la date sera fixée par la réservation de
 la salle de réception. Si on obtient la salle, on obtient le sésame pour le
 reste. Évidemment, il faut s’y prendre tôt. Hors de question de réserver la
 salle 2 jours avant le mariage et d'aller ensuite à la Mairie la bouche en cœur.
@@ -27,6 +27,6 @@ notre arrivée. Espérons que cela se passe bien, et qu'aucune d’entre elles n
 décroche le [quickening](https://fr.wikipedia.org/wiki/Quickening). Restera à
 réserver, et nous aurons fait un grand pas en avant.
 
-**Note pour plus tard :** penser la jouer fine avec nos divers fournisseurs de
+**Note pour plus tard :** penser la jouer fine avec nos divers fournisseurs de
 produits non-périssables (si nous en avons). Je pense qu’en annonçant une date
 de mariage avancée de 10 à 15 jours, on évitera bien des désagréments.

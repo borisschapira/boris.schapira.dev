@@ -5,7 +5,7 @@ tags:
     - Emploi
 ---
 
-> L’idée centrale de [l']ouvrage [de Tyler Cowen] est que l’évolution
+> L’idée centrale de [l']ouvrage [de Tyler Cowen] est que l’évolution
 > technologique va totalement polariser le monde du travail entre des
 > travailleurs hyper complémentaires aux machines intelligentes et très bien
 > rémunérés et une masse informe d’individus peu compatibles et clairement
@@ -31,10 +31,10 @@ connaitre les bases de la recherche d'information, du traitement de données
 ciblées comme plus générales, de l'automatisation de la production de livrables
 ou de la modularisation de la boite à outils de l'entreprise.
 
-> D’ici 2020 – autant dire demain – 90 % des emplois nécessiteront des
+> D’ici 2020 – autant dire demain – 90 % des emplois nécessiteront des
 > compétences numériques, et nous ne sommes pas prêts.
 >
-> <cite>[Neelie Kroes, vice-présidente de la Commission européenne chargée de la stratégie numérique](http://frenchweb.fr/labsence-de-competences-numeriques-est-une-nouvelle-forme-dillettrisme/147096 'Neelie Kroes: « L’absence de compétences numériques est une nouvelle forme d’illettrisme » ", FrenchWeb.fr')</cite>
+> <cite>[Neelie Kroes, vice-présidente de la Commission européenne chargée de la stratégie numérique](http://frenchweb.fr/labsence-de-competences-numeriques-est-une-nouvelle-forme-dillettrisme/147096 'Neelie Kroes: "L’absence de compétences numériques est une nouvelle forme d’illettrisme" ", FrenchWeb.fr')</cite>
 
 Ces profils existent déjà. Je les croise lors de mes missions. Ils ne sont pas
 informaticiens, mais comptables, secrétaires, commerciaux, politiques,
@@ -74,9 +74,9 @@ pas à l'échelle des 10 prochaines années. Tout me laisse à penser que le sys
 éducatif n'est pas davantage prêt pour cette Infusion Numérique qu'il n'était
 prêt pour la Révolution Industrielle. L'Education dans le primaire et le
 secondaire a d'autres objectifs et le suivi d'étudiants en Grandes Écoles de
-Commerce ou en d'Informatique me le confirme&nbsp;: nous produisons encore
-beaucoup de profils très orientés vers l'informatique ou vers la réalisation des
-missions confiées, rarement les deux. Certains étudiants s'en sortent mieux à
+Commerce ou en d'Informatique me le confirme : nous produisons encore beaucoup
+de profils très orientés vers l'informatique ou vers la réalisation des missions
+confiées, rarement les deux. Certains étudiants s'en sortent mieux à
 l'Université où ils arrivent à composer leur cursus en fonction de leurs
 besoins. Mais ce n'est pas le système qui les aide, ce sont eux qui l'utilisent.
 Quand ils ne se perdent pas en essayant de rentrer leur profil dans une des
@@ -87,7 +87,7 @@ métiers, des associations ou des arts auxquels ils donnent un souffle nouveau.
 Tout se jouera donc, à court terme, sur la capacité de quelques individus à se
 former seuls (et en continu) via, par exemple, des cours en ligne (avec
 notamment
-[un plein essor des MOOC en France](http://www.franceculture.fr/emission-pixel-mooc-les-profs-face-aux-nouveaux-cours-en-ligne-2013-10-04 '"MOOC : les profs face aux nouveaux cours en ligne", Eric Chaverou ", France Culture'))
+[un plein essor des MOOC en France](http://www.franceculture.fr/emission-pixel-mooc-les-profs-face-aux-nouveaux-cours-en-ligne-2013-10-04 '"MOOC : les profs face aux nouveaux cours en ligne", Eric Chaverou ", France Culture'))
 ou le recours à la formation continue ; à encourager leurs enfants pour qu'ils
 intègrent au plus tôt les gains à l'usage comme intellectuels permis par la
 découverte de la programmation (par le biais de Coding Goûter par exemple) ; à
@@ -97,7 +97,7 @@ Reste une inconnue, la rencontre sur le marché de l'emploi entre ces profils et
 leurs futurs employeurs. Il y a fort à parier qu'elle ne se passera pas dans les
 infrastructures d'État comme le Pôle Emploi, ne disposant déjà pas des
 ressources suffisantes pour analyser correctement les profils plus "classiques"
-qui s'y inscrivent. Plus probablement, le recrutement se fera par le biais de
+qui s'y inscrivent. Plus probablement, le recrutement se fera par le biais de
 cabinets spécialisés à qui je souhaite bien du courage. Car l'_homo numericus_
 ne se trouve pas dans les listings de diplômés. Il est nulle part et partout à
 la fois, probablement là, derrière son écran, à changer le monde sans le savoir.

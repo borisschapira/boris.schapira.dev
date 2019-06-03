@@ -14,7 +14,7 @@ certains UMPC le font tourner sans problème avec un peu plus de 800MO…
 
 Pour expliquer ce phénomène, petite interview
 d'[EricMitt](http://blogs.msdn.com/b/ericmitt/archive/2007/10/30/superfetch.aspx)
-par Benjamin Gauthey&nbsp;:
+par Benjamin Gauthey :
 
 <div>
 **[Windows Vista - Superfetch](http://www.dailymotion.com/video/x3bweq_windows-vista-superfetch_tech)**

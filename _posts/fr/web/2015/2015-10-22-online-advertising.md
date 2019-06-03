@@ -1,5 +1,5 @@
 ---
-title: 'Publicité en ligne&nbsp;: un point sur la situation'
+title: 'Publicité en ligne : un point sur la situation'
 i18n-key: online-advertising
 tags:
     - Publicité
@@ -198,10 +198,10 @@ frais : vous envoyez un mauvais signal et il est dur d’en sortir _a posteriori
 
 ## Aller plus loin, en savoir plus
 
-Quelques liens proposés par des lecteurs :
+Quelques liens proposés par des lecteurs :
 
 -   ["What will happend next will amaze you"](http://idlewords.com/talks/what_happens_next_will_amaze_you.htm)
     de Maciej Cegłowski, proposé par
     [@akramfares](https://twitter.com/akramfares)
--   ["Publicité en ligne : où va l'argent ?"](https://piacentino.com/jb/2015/publicite-en-ligne-ou-va-largent)
+-   ["Publicité en ligne : où va l'argent ?"](https://piacentino.com/jb/2015/publicite-en-ligne-ou-va-largent)
     de Jb Piacentino, proposé par [@eliesl](https://twitter.com/eliesl)
