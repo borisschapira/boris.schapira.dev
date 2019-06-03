@@ -12,7 +12,7 @@ installation), les photos de vacances et les scans de documents officiels, les
 films de famille <span style="text-decoration: line-through">et les
 autres</span>, le disque de mon PC explose. Je me bats régulièrement pour faire
 de la place sur le disque de 260Go mais c'est aussi ça l'inconvénient d'un
-portable&nbsp;: ce n'est pas très extensible…
+portable : ce n'est pas très extensible…
 
 Je suis donc à la recherche d'une bonne solution de stockage et il m'a semblé
 que l'installation d'un serveur NAS à la maison faisait partie des meilleures.
@@ -33,7 +33,7 @@ disques locaux des PC de la maison (pas question de se servir du NAS pour lire
 et travailler sur des fichiers à travers le réseau) donc ça ne m'inquiète pas
 trop (mais un peu quand même).
 
-**Et vous, quelle solution utilisez-vous pour stocker vos données&nbsp;? Un gros
-disque, un serveur&nbsp;? Avez-vous un serveur NAS&nbsp;? Si oui, lequel et
-pourquoi&nbsp;? Quels en sont selon vous les avantages (extensibilité,
-multimédia…) et les inconvénients (bruit, espace….)&nbsp;? **
+**Et vous, quelle solution utilisez-vous pour stocker vos données ? Un gros
+disque, un serveur ? Avez-vous un serveur NAS ? Si oui, lequel et pourquoi ?
+Quels en sont selon vous les avantages (extensibilité, multimédia…) et les
+inconvénients (bruit, espace….) ? **

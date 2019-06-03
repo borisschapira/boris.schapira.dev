@@ -20,4 +20,4 @@ plus s'en passer…
 Venez nous rejoindre. [Nous n'attendons que vous](https://twitter.com/). Et si
 vous êtes perdus, faites un tour
 [par ici pour savoir comment débuter](http://www.aspectgeek.com/tech/twitter).
-Après, libre à vous de suivre qui vous voulez&nbsp;!
+Après, libre à vous de suivre qui vous voulez !

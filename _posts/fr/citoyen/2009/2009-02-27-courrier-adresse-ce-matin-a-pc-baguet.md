@@ -9,7 +9,7 @@ Monsieur le député,
 
 Tout d'abord, je souhaiterais vous remercier pour le travail que vous effectuez
 à l'Assemblée et notamment pour votre intervention du 17 février dernier durant
-laquelle vous expliquiez que&nbsp;:
+laquelle vous expliquiez que :
 
 > les éditeurs de CD et de DVD devront réaliser des efforts considérables, faute
 > de quoi l'internaute sera effectivement poussé au piratage. Les éditeurs

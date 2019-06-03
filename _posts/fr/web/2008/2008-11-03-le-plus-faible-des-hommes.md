@@ -13,7 +13,7 @@ J'ai pensé à cet instant pendant plusieurs semaines. Plusieurs mois, même. El
 l'attendait sans l'attendre, se doutant que ça arriverait rapidement, sans
 savoir ce que ce "rapidement" voulait dire. J'avais dissimulé tous les éléments
 : la demande à son père, à un moment où elle n'était pas là ; l'achat de la
-bague et la demande de mise à bonne taille (plusieurs semaines&nbsp;!), un parc
+bague et la demande de mise à bonne taille (plusieurs semaines !), un parc
 sympathique pour une promenade, un bon restaurant pour le soir-même (j'avais
 pensé à un ballet, sans trouver quelque chose de bien).
 
@@ -21,14 +21,14 @@ Bref, nous étions le jour J. Celui où j'avais prévu d'être beau, d'être
 irrésistible (objectif : rendre impossible tout "non" éventuel). La journée
 commence tranquillement, au creux du lit. Nous mettons du temps à attaquer ce
 samedi et préférons nous prélasser. Je ne sais plus quoi faire. J'oublie ce que
-j'avais prévu. Lui demanderais-je ici&nbsp;? Au parc&nbsp;? Au restaurant&nbsp;?
-Entre le parc et la maison&nbsp;? Entre la maison et le restaurant&nbsp;? C'est
-le bordel dans ma tête, j'ai la plus grosse pression de ma vie.
+j'avais prévu. Lui demanderais-je ici ? Au parc ? Au restaurant ? Entre le parc
+et la maison ? Entre la maison et le restaurant ? C'est le bordel dans ma tête,
+j'ai la plus grosse pression de ma vie.
 
 Je la tanne pour qu'on aille au parc. Il est magnifique, parait-il. Elle finit
 par accepter mais le temps passant, nous partons sans que j'ai le temps de me
 raser ou de me coiffer… tu parles d'un Apollon avec ma barbe d'adamantium et mes
-cheveux en bazar sur la tête… pas vraiment ce que j'avais en tête&nbsp;!
+cheveux en bazar sur la tête… pas vraiment ce que j'avais en tête !
 
 Le parc est magnifique. Bagatelle, une adresse sûre. Un écureil nous surprend
 entre deux visites aux paons. Les arbres, dont certains arborent des feuilles

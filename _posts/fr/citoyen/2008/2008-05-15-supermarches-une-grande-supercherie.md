@@ -5,10 +5,10 @@ tags:
     - "Billet d'humeur"
 ---
 
-Je voudrais bien qu'on m'explique une chose&nbsp;: comment certaines grandes
+Je voudrais bien qu'on m'explique une chose : comment certaines grandes
 enseignes de supermarché arrivent-elles à rembourser jusqu'à 20 % des chariots
 des clients en bons d'achat et dire qu'il s'agit d'une mesure pour lutter contre
-la "vie chère" et la "baisse du pouvoir d'achat"&nbsp;?
+la "vie chère" et la "baisse du pouvoir d'achat" ?
 
 <!-- more -->
 

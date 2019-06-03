@@ -92,10 +92,10 @@ mais plutôt :
 
 ### Des rédactions (oui, oui)
 
-> Vous postulez chez {&nbsp;insérer ici une société au site plus ou moins adapté
-> à la navigation sur mobiles ou tablettes&nbsp;}. La responsable vous demande
-> de rédiger vos recommandations argumentées sur les pistes d'amélioration que
-> vous envisagez sur le _Front_ du site web. Vous soulignerez les problèmes
+> Vous postulez chez { insérer ici une société au site plus ou moins adapté à la
+> navigation sur mobiles ou tablettes }. La responsable vous demande de rédiger
+> vos recommandations argumentées sur les pistes d'amélioration que vous
+> envisagez sur le _Front_ du site web. Vous soulignerez les problèmes
 > identifiés, les solutions possibles et les modalités de la direction de projet
 > qui en découlent.
 

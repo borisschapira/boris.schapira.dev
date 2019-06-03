@@ -21,17 +21,17 @@ qui n'est pas évident, car je n'ai pas vraiment de définition moi-même. Alors
 leur apprends surtout à devenir des chouettes êtres humains et à explorer leurs
 possibilités à eux, sans se soucier de l'extérieur.
 
-Ils ont des caractères bien différents&nbsp;: mon aîné est aujourd'hui le plus
+Ils ont des caractères bien différents : mon aîné est aujourd'hui le plus
 introverti et indépendant, celui qui exprime le moins ses sentiments et réalise
 les choses pour lui-même. Je lui apprends à prendre le temps de formuler ce
 qu'il ressent et s'il n'y arrive pas et s'énerve, je lui propose des câlins pour
 qu'il sente qu'il n'est pas seul.
 
-Mon second est plus extraverti&nbsp;: du genre à se lever brutalement pendant un
-jeu pour venir faire un bisou parce que bon, ça fait longtemps. Il est moins
+Mon second est plus extraverti : du genre à se lever brutalement pendant un jeu
+pour venir faire un bisou parce que bon, ça fait longtemps. Il est moins
 indépendant et agit souvent pour nous faire plaisir. Je le mets régulièrement au
 défi face à de nouvelles choses et prends le temps de le féliciter en cas de
-succès comme d'échec&nbsp;: l'important est qu'il continue à essayer.
+succès comme d'échec : l'important est qu'il continue à essayer.
 
 Dans leurs jeux, ils s'imaginent tantôt en policiers, en pompiers, en ninjas,
 tantôt au foyer, à faire la cuisine, passer le balai ou l’aspirateur, faire le
@@ -46,7 +46,7 @@ leur explique alors que Maman fait de la pâtisserie parce qu'elle adore ça, pa
 parce qu'elle est Maman ; que Papa les jette en l'air parce qu'il est assez fort
 et que Maman le ferait aussi si elle pouvait ; qu'il faut faire attention avant
 de faire les fous avec Papa ou Maman, parce qu'il faut d'abord obtenir une forme
-de consentement. C'est aussi valable entre eux&nbsp;: souvent, je les laisse se
+de consentement. C'est aussi valable entre eux : souvent, je les laisse se
 jouer, n'intervenant que si la situation dégénère mais parfois, je ressens le
 besoin de l'un d'eux de s'isoler alors j'interviens pour expliquer à l'autre que
 chacun a besoin, parfois, d'un moment et d'un espace pour lui.
@@ -66,9 +66,9 @@ société lui dicte qui il doit être et à quoi il doit ressembler et qu’ils 
 droit de souffrir de tout ça et de le refuser et de venir me voir pour en
 parler.
 
-Est-ce que je suis tolérant&nbsp;? Non. Je suis aussi intransigeant que la
-plupart des gens, sur plein de choses, et je suis très souvent condescendant,
-même. Est-ce que je suis féministe&nbsp;? Probablement.
+Est-ce que je suis tolérant ? Non. Je suis aussi intransigeant que la plupart
+des gens, sur plein de choses, et je suis très souvent condescendant, même.
+Est-ce que je suis féministe ? Probablement.
 
 Et je ferai chaque jour les efforts qu'il faut pour que mes fils grandissent
 avec ces valeurs.

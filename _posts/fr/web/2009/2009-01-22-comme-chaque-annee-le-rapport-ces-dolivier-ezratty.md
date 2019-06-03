@@ -13,7 +13,7 @@ récapitulatifs.
 
 Pour le lire, rendez-vous
 [chez Olivier](http://www.oezratty.net/wordpress/2009/rapport-ces-2009/) ou
-téléchargez directement les PDF&nbsp;: la
+téléchargez directement les PDF : la
 [version avec image dédiée à l'impression (18,6Mo)](<http://www.oezratty.net/wordpress/wp-content/themes/Ezratty2/forcedownload.php?file=/Files/Publications/Olivier%20Ezratty%20CR%20du%20CES%20Jan2009%20(print).pdf>)
 et la
 [version à lire sur vos écrans (6,6Mo)](<http://www.oezratty.net/wordpress/wp-content/themes/Ezratty2/forcedownload.php?file=/Files/Publications/Olivier%20Ezratty%20CR%20du%20CES%20Jan2009%20(web).pdf>).

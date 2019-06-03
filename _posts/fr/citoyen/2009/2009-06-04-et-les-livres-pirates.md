@@ -15,10 +15,9 @@ Dans cette lutte sans merci du consommateur contre les industries culturelles,
 le monde de l'édition papier fait figure de nouvel acteur. Alors que le piratage
 des données musicales est devenu un lieu commun (sérieusement, vous pensez
 vraiment que ces millions d'acheteurs d'iPod/iPhone les remplissent de musique
-achetée sur iTunes&nbsp;?) favorisé par l'essor des appareils de lecture
-nomades, la consultation de livres piratés et embarqués sur les nouvelles
-machines du type Kindle augure une nouvelle ère&nbsp;: celle du piratage des
-œuvres rédactionnelles.
+achetée sur iTunes ?) favorisé par l'essor des appareils de lecture nomades, la
+consultation de livres piratés et embarqués sur les nouvelles machines du type
+Kindle augure une nouvelle ère : celle du piratage des œuvres rédactionnelles.
 
 Et côté offre légale, quasiment rien.
 

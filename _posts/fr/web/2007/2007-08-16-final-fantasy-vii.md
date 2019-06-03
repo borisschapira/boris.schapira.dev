@@ -40,4 +40,4 @@ raisonnable (je l'avais trouvé sur Paris à 96€… "Un classique très rare" 
 le vendeur pour se justifier). Je l'ai fini à nouveau et j'y ai pris autant de
 plaisir que 7 ans plus tôt (purée, ça me rajeunit pas tout ça).
 
-Peut-être émulerais-je un jour FF VII sous Windows VII, qui sait&nbsp;?
+Peut-être émulerais-je un jour FF VII sous Windows VII, qui sait ?

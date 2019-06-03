@@ -25,14 +25,13 @@ même vachement plus couillu. Si j'y pense, je dois bien pouvoir citer
 immédiatement une quinzaine de causes fondamentales pour l'Humanité, risquées et
 où ma présence pourrait peut-être changer les choses. Mais au quotidien, je fais
 peu, si ce n'est prendre le temps d'y penser. Parfois, ça m'empêche de dormir la
-nuit mais il faut être honnête&nbsp;: très souvent, non. J'ai d'autres priorités
-dans ma vie&nbsp;: ma famille, mes enfants, mon boulot, mes loisirs.
-Égoïste&nbsp;? Complètement. Un mec comme Charb', lui, avait fait le choix de
-défendre des valeurs fondamentales pour notre Société, au péril de sa vie. Il
-avait renoncé au confort psychologique dans lequel je me prélasse. Ce mec-là a
-fait don de sa vie à notre société remplie de fainéants comme moi. Le Panthéon
-pour lui&nbsp;? Immédiatement. La dénomination "Charlie" pour moi&nbsp;? Pas
-méritée.
+nuit mais il faut être honnête : très souvent, non. J'ai d'autres priorités dans
+ma vie : ma famille, mes enfants, mon boulot, mes loisirs. Égoïste ?
+Complètement. Un mec comme Charb', lui, avait fait le choix de défendre des
+valeurs fondamentales pour notre Société, au péril de sa vie. Il avait renoncé
+au confort psychologique dans lequel je me prélasse. Ce mec-là a fait don de sa
+vie à notre société remplie de fainéants comme moi. Le Panthéon pour lui ?
+Immédiatement. La dénomination "Charlie" pour moi ? Pas méritée.
 
 _Je ne suis par Charlie_ parce que Charlie n'est qu'un lanceur d'alertes parmi
 d'autres et que pendant qu'on soutient ce journal satirique, on oublie de penser
@@ -50,12 +49,12 @@ devenu un slogan. Les radios demandent à leurs auditeurs de finir
 systématiquement leurs interventions à l'antenne par "Je suis Charlie". Des
 tee-shirts se vendent avec l'inscription. "Je suis Charlie" est un buzz, un
 _hashtag_, un réceptacle facile à atteindre pour déverser ses émotions. "Cliquez
-sur J'aime pour envoyer un soutien", à qui, comment&nbsp;? "Envoie ce SMS pour
-marquer ton respect", ah&nbsp;? Et si je ne le fais pas, je suis un gros
-bâtard&nbsp;? Et si je prends 3 de secondes pour le faire, je deviens un mec
-bien automatiquement&nbsp;? "Je suis Charlie", c'est l'expression populaire d'un
-deuil mélangé à la passion d'une grande manifestation de la pensée unique. Et du
-coup, "Je suis Charlie", ce n'est pas toujours très "Charlie", justement.
+sur J'aime pour envoyer un soutien", à qui, comment ? "Envoie ce SMS pour
+marquer ton respect", ah ? Et si je ne le fais pas, je suis un gros bâtard ? Et
+si je prends 3 de secondes pour le faire, je deviens un mec bien automatiquement
+? "Je suis Charlie", c'est l'expression populaire d'un deuil mélangé à la
+passion d'une grande manifestation de la pensée unique. Et du coup, "Je suis
+Charlie", ce n'est pas toujours très "Charlie", justement.
 
 _Je ne suis pas Charlie_ parce qu'être Charlie, ça va passer de mode. Peu en
 parleront encore dans deux ans ou alors comme d'une référence historique à un
@@ -74,10 +73,10 @@ n'est pas un journal que je défends, mais un idéal. Cet idéal, il n'est pas
 "Charlie", il est d'intérêt public, il est laïc, il est issu d'une Culture
 héritée de la Révolution… française. Oui, cet idéal est français. Il n'est pas
 QUE français, bien sûr, mais il trouve ses racines dans un équilibre culturel et
-des valeurs qui perdurent depuis plusieurs centaines d'années dans notre
-pays&nbsp;: _Liberté_ de la Presse, _Egalité_ entre tous les citoyens (peu
-importe leur religion), _Fraternité_ (envers les familles de toutes les
-victimes, envers tous les citoyens concernés par cette horreur).
+des valeurs qui perdurent depuis plusieurs centaines d'années dans notre pays :
+_Liberté_ de la Presse, _Egalité_ entre tous les citoyens (peu importe leur
+religion), _Fraternité_ (envers les familles de toutes les victimes, envers tous
+les citoyens concernés par cette horreur).
 
 Alors non, définitivement, je ne suis pas Charlie. Je suis français. Mon pays
 est celui où tous les "Charlie" sont chez eux et je préférerais qu'ils se

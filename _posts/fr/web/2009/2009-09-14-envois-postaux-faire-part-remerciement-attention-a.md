@@ -28,4 +28,4 @@ J'ai mis 8 minutes à saisir ma commande complète (bloquant la moitié de La
 Poste, au détriment de la conseillère dont le guichet se remplissait à vue
 d'œil), mêlant carnets, vignettes à 56 centimes et vignettes spéciales à 90
 centimes, 1,05€, 1,23€ et 1,35€. Au final, j'ai économisé 5,76€. Ça n'a l'air de
-rien, mais c'est **_15 % du montant final_**&nbsp;!
+rien, mais c'est **_15 % du montant final_** !

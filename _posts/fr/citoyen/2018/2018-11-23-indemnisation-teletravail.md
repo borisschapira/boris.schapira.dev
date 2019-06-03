@@ -200,7 +200,7 @@ perdu ?
     </td>
     <td>
         <p><strong>Valeur réelle</strong></p>
-        <p>Quote-part de&nbsp;l’ensemble des frais fixes réellement supportés au titre du local affecté à un usage professionnel au prorata de la superficie totale de l’habitation principale.</p>
+        <p>Quote-part de l’ensemble des frais fixes réellement supportés au titre du local affecté à un usage professionnel au prorata de la superficie totale de l’habitation principale.</p>
         <p><em>Exemple :<br>
         Appartement de 70 m² dont 3 m² pour l’usage professionnel.<br>
         Le loyer s’élève à 628 €&#8239;/&#8239;mois, la taxe d’habitation à 50 €&#8239;/&#8239;mois et la prime d’assurance à 22 €&#8239;/&#8239;mois.<br>
@@ -230,18 +230,18 @@ perdu ?
         <p><strong>Lampe de bureau.</strong></p>
     </td>
     <td>
-        <p><strong>Prêt de mobilier&nbsp;:</strong></p>
+        <p><strong>Prêt de mobilier :</strong></p>
         <ul class="bulletPointed">
-        <li>absence de dépenses supplémentaires du salarié&nbsp;: pas de remboursement de frais possible&nbsp;;</li>
+        <li>absence de dépenses supplémentaires du salarié : pas de remboursement de frais possible ;</li>
         <li>avantage en nature à évaluer sur une base réelle (valeur résiduelle = valeur nette comptable) s’il y a abandon définitif du mobilier au travailleur salarié ou assimilé.</li>
         </ul>
-        <p><strong>Achat du mobilier par le salarié pour le compte de l’entreprise, le salarié en restant toutefois propriétaire&nbsp;:</strong></p>
+        <p><strong>Achat du mobilier par le salarié pour le compte de l’entreprise, le salarié en restant toutefois propriétaire :</strong></p>
         <ul class="bulletPointed">
-        <li>remboursement des frais exclu de l’assiette dans la limite de 50&nbsp;% de la dépense réelle sur justificatifs.</li>
+        <li>remboursement des frais exclu de l’assiette dans la limite de 50 % de la dépense réelle sur justificatifs.</li>
         </ul>
-        <p><strong>Modalités de déduction&nbsp;:</strong></p>
+        <p><strong>Modalités de déduction :</strong></p>
         <p>Annuités d’amortissement du mobilier (pratique comptable et fiscale).<br>
-        Pour le petit mobilier non amortissable&nbsp;: valeur réelle de l’année d’acquisition.
+        Pour le petit mobilier non amortissable : valeur réelle de l’année d’acquisition.
         </p>
     </td>
     </tr>
@@ -254,25 +254,25 @@ perdu ?
         </p>
     </td>
     <td>
-        <p><strong>Valeur réelle&nbsp;:</strong></p>
+        <p><strong>Valeur réelle :</strong></p>
         <p>L’exclusion de l’assiette des cotisations de ces frais est admise sur présentation de la facture (travaux aménagement).</p>
     </td>
     </tr>
     <tr>
-    <td><strong>Matériels informatiques et périphériques&nbsp;: ordinateur, imprimante, modem.</strong></td>
+    <td><strong>Matériels informatiques et périphériques : ordinateur, imprimante, modem.</strong></td>
     <td>
-        <p><strong>Prêt de matériel&nbsp;:</strong></p>
+        <p><strong>Prêt de matériel :</strong></p>
         <ul class="bulletPointed">
-        <li>absence de dépenses supplémentaires du travailleur salarié ou assimilé, pas de remboursement de frais possible&nbsp;;</li>
+        <li>absence de dépenses supplémentaires du travailleur salarié ou assimilé, pas de remboursement de frais possible ;</li>
         <li>avantage en nature à évaluer sur une base réelle (valeur résiduelle = valeur nette comptable) s’il y a abandon définitif du mobilier au travailleur salarié ou assimilé.</li>
         </ul>
         <p><strong>Achat de matériel par le salarié pour le compte de l’entreprise, le salarié en restant toutefois propriétaire</strong></p>
         <ul class="bulletPointed">
-        <li>remboursement des frais et exclusion de l’assiette dans la limite de 50&nbsp;% de la dépense réelle sur justificatifs.</li>
+        <li>remboursement des frais et exclusion de l’assiette dans la limite de 50 % de la dépense réelle sur justificatifs.</li>
         </ul>
-        <p><strong>Modalités de déduction&nbsp;:</strong></p>
+        <p><strong>Modalités de déduction :</strong></p>
         <p>Annuités d’amortissement du matériel (pratique comptable et fiscale).<br>
-        Pour le petit matériel non amortissable&nbsp;: valeur réelle de l’année d’acquisition.
+        Pour le petit matériel non amortissable : valeur réelle de l’année d’acquisition.
         </p>
     </td>
     </tr>

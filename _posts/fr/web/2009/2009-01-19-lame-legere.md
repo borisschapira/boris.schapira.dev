@@ -2,15 +2,15 @@
 title: "L'âme légère"
 ---
 
-Parfois, mon âme s'envole. Ca ne vous arrive pas, à vous&nbsp;? Les symptômes
-sont pourtant évidents&nbsp;! Vous faisiez quelque chose d'important et la
-minute d'après, vous vous retrouvez le regard vide, concentré sur un élément
-flottant dans l'air dont seul votre cerveau perçoit l'existence invisible. Vous
-vous réveillez soudain de votre torpeur et reprenez votre activité… Vous sentez
-le léger sommeil qui vous parcourt&nbsp;? C'est votre âme qui retrouve son
-enveloppe après un petit tour…
+Parfois, mon âme s'envole. Ca ne vous arrive pas, à vous ? Les symptômes sont
+pourtant évidents ! Vous faisiez quelque chose d'important et la minute d'après,
+vous vous retrouvez le regard vide, concentré sur un élément flottant dans l'air
+dont seul votre cerveau perçoit l'existence invisible. Vous vous réveillez
+soudain de votre torpeur et reprenez votre activité… Vous sentez le léger
+sommeil qui vous parcourt ? C'est votre âme qui retrouve son enveloppe après un
+petit tour…
 
-**Où part votre âme, quand elle s'envole&nbsp;?**
+**Où part votre âme, quand elle s'envole ?**
 
 Mon âme à moi, elle part loin, très loin. En quelques secondes, elle peut faire
 cent fois le tour de la Terre. En ce moment, elle m'emmène dans des endroits pas

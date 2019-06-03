@@ -4,7 +4,7 @@ tags:
     - Education
 ---
 
-Une initiative à souligner&nbsp;: le
+Une initiative à souligner : le
 <abbr lang="en" title="Massachusetts Institute Of Technology">MIT</abbr> ouvre
 ses cours aux internautes via sa plate-forme
 [MIT Open Course Ware](http://ocw.mit.edu/index.htm).

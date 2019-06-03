@@ -7,20 +7,20 @@ tags:
 Depuis quelques semaines, je me pose des questions sur l'utilisation de
 Facebook, des groupes, des causes et des amis.
 
-Par exemple le profil limité&nbsp;: à quoi sert-il&nbsp;? Moi quand je n'aime
-pas ou quand je ne connais pas quelqu'un je ne l'ajoute pas à mes amis, c'est
-tout. Bien s&#xFB;r, je sais que de nombreuses personnes cultivent des habitudes
-opposées et ajoutent à tout va des gens avec qui ils ont vaguement une relation.
-Mais comment gérer au bout de quelques mois ces centaines de contacts auxquels
-vous ne parlez jamais&nbsp;?
+Par exemple le profil limité : à quoi sert-il ? Moi quand je n'aime pas ou quand
+je ne connais pas quelqu'un je ne l'ajoute pas à mes amis, c'est tout. Bien
+s&#xFB;r, je sais que de nombreuses personnes cultivent des habitudes opposées
+et ajoutent à tout va des gens avec qui ils ont vaguement une relation. Mais
+comment gérer au bout de quelques mois ces centaines de contacts auxquels vous
+ne parlez jamais ?
 
-Pour les groupes et les causes, même combat&nbsp;: combien d'adhérents à la
-cause &quot;Unicef&quot; donnent vraiment à l'Unicef&nbsp;? Combien postent sur
-la page du groupe un message d'encouragement&nbsp;? Encore, s'ils avaient
-adhérer à une cause qui signifie quelque chose de manière explicite mais même
-pas… Là il s'agit juste de bon sentiment. En soi ce n'est pas si mal mais soyons
-lucide&nbsp;: ça donne à ces internautes le faux sentiment de participer à
-quelque chose qu'ils ne font que contempler.
+Pour les groupes et les causes, même combat : combien d'adhérents à la cause
+&quot;Unicef&quot; donnent vraiment à l'Unicef ? Combien postent sur la page du
+groupe un message d'encouragement ? Encore, s'ils avaient adhérer à une cause
+qui signifie quelque chose de manière explicite mais même pas… Là il s'agit
+juste de bon sentiment. En soi ce n'est pas si mal mais soyons lucide : ça donne
+à ces internautes le faux sentiment de participer à quelque chose qu'ils ne font
+que contempler.
 
 Au final, j'ai souvent l'impression qu'on n'arrive pas à créer sur Facebook un
 vrai nouveau système relationnel comme celui qui pourrait exister entre les

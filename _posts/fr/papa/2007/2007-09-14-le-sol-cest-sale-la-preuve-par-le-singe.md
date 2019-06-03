@@ -11,8 +11,8 @@ d'années que les doigts d'une main…
 > sol comme ça.  
 > – Mais papa, les animaux ils touchent le sol.  
 > – Oui, mais avec leurs pieds et nous on a des chaussures. Tu connais des
-> animaux qui ont des mains&nbsp;?  
-> – Ben euh… huuum… les singes papa&nbsp;!  
-> – Et ils vivent où les singes&nbsp;?  
-> – Ben dans les arbres… aaaah, alors c’est pour ça&nbsp;! Ils veulent pas
-> toucher le sol parce que c’est sale&nbsp;!
+> animaux qui ont des mains ?  
+> – Ben euh… huuum… les singes papa !  
+> – Et ils vivent où les singes ?  
+> – Ben dans les arbres… aaaah, alors c’est pour ça ! Ils veulent pas toucher le
+> sol parce que c’est sale !

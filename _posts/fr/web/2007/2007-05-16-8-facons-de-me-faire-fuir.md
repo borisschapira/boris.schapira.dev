@@ -10,7 +10,7 @@ la plupart très bien rédigés, s'accompagnent de coup de fils aimables et donn
 suite à des entretiens.
 
 Malheureusement, ce n'est pas le cas de tous. Petit guide des choses qui m'ont
-fait fuir ces derniers temps&nbsp;:
+fait fuir ces derniers temps :
 
 > Nous avons une offre à vous faire, veuillez consulter la référence 23402CP45
 > de nos offres d'emplois sur notre site "machin" en cliquant sur "truc"
@@ -20,8 +20,8 @@ fait fuir ces derniers temps&nbsp;:
 -   Poussez les gens à visiter votre site en cliquant sur un lien perdu de la
     page d'accueil, ça ne donne pas très envie.
 
-> Nous recrutons plus de X000 collaborateurs issus d'Ecoles d'Ingénieur&nbsp;:
-> rejoignez-nous&nbsp;!
+> Nous recrutons plus de X000 collaborateurs issus d'Ecoles d'Ingénieur :
+> rejoignez-nous !
 
 -   Quand on est jeune et qu'on cherche un premier emploi, on souvent une
     structure où nos projets de carrière vont être pris en considération de
@@ -35,7 +35,7 @@ fait fuir ces derniers temps&nbsp;:
 -   Après une Ecole d'Ingénieur généraliste et une formation complémentaire en
     Management des NTIC, des réalisations en Java, un stage en développement
     C#/ASP.NET et maintenant sur SharePoint, où diable est-il inscrit dans mon
-    CV que je suis un technicien en langage C&nbsp;?
+    CV que je suis un technicien en langage C ?
 
 > Votre profil Monster fait état d'une recherche de stage de fin d'études
 
@@ -44,7 +44,7 @@ fait fuir ces derniers temps&nbsp;:
 
 > Votre profil Monster fait état d'une recherche de stage ouvrier en industrie
 
--   … ou de plusieurs années&nbsp;!
+-   … ou de plusieurs années !
 
 > Nous voudrions vous rencontrer afin d'établir avec vous votre projet
 > professionnel et de vous présenter immédiatement un de nos clients pour qui
@@ -58,8 +58,8 @@ fait fuir ces derniers temps&nbsp;:
 > Nous vous présenterons rapidement des projets de grande ampleur appuyés
 > d'objectifs forts vous impliquant réellement.
 
--   Traduction&nbsp;: on ne vous forme pas et on vous donne une mission avec
-    salaire sur objectifs. Si vous ratez la mission, c'est votre salaire qui en
+-   Traduction : on ne vous forme pas et on vous donne une mission avec salaire
+    sur objectifs. Si vous ratez la mission, c'est votre salaire qui en
     souffrira et si vous y arrivez, nous aurons eu raison : vous n'aviez pas
     besoin d'une formation !
 

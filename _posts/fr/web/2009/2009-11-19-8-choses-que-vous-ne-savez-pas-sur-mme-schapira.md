@@ -16,8 +16,7 @@ ce petit échange. Un peu d'amour et d'humour ne font jamais de mal…
 Mme Schapira (qui ne s'appelle pas Violette, malgré ce qu'on pourrait penser),
 est une femme formidable dont j'ai entrepris de faire la découverte quotidienne.
 Voici les premiers résultats de l'observation de la bête dans son habitat
-naturel (pour un équivalent me concernant, vous pouvez aller voir chez
-elle)&nbsp;:
+naturel (pour un équivalent me concernant, vous pouvez aller voir chez elle) :
 
 1.  Mme Schapira adore regarder D&amp;Co, du moment qu'elle peut critiquer en
     même temps. Elle est capable de regarder 3 rediffusions consécutives, et

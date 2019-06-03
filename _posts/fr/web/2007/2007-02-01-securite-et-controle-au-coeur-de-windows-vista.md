@@ -28,6 +28,6 @@ systèmes d'information :
 
 -   Jeudi 1er février 2007
 -   14h à l'ESIEE-Paris, amphithéâtre 110
--   Durée : ±1h + questions/réponses autour des problématique abordées
+-   Durée : ±1h + questions/réponses autour des problématique abordées
 
 N'hésitez pas à me contacter pour me prévenir de votre présence !

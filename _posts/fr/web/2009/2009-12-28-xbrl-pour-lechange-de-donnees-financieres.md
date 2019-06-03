@@ -21,7 +21,7 @@ pour les organismes réglementaires et les banques qui peinent aujourd'hui à
 échanger leurs données dans les formats Texte, Excel, PDF, HMTL…
 <abbr title="eXtensible Business Reporting Language">XBRL</abbr> est un format
 ouvert, dirigé par des régulateurs, des agences gouvernementales et des vendeurs
-de logiciels réunis sous la forme d'un consortium&nbsp;:
+de logiciels réunis sous la forme d'un consortium :
 [XBRL International Incorporated](https://www.xbrl.org/). Ce consortium se
 subdivise en juridictions indépendantes, souvent nationales, dont le but est
 double. D'une part, ces juridictions sont chargées de développer les
@@ -31,21 +31,20 @@ l'adoption du standard.
 
 L'idée est <abbr title="eXtensible Business Reporting Language">XBRL</abbr>
 n'est pas seulement de **faciliter l'échange de données financières mais
-également d'en accélérer et faciliter l'analyse**. Cette
-problématique, inhérente au Web des Données dont on parle depuis plusieurs
-années (plus souvent sous le nom Web Sémantique), est toujours la même&nbsp;:
-celle de l'œuf ou la poule. Car pour réaliser des analyses intéressantes, il
-faut disposer d'une grande quantité de données mais pour disposer de telles
-données, il faut qu'elles aient été produites. Or les organismes réglementaires
-et les banques ne voient pas forcément l'intérêt de produire ces données,
-puisque pour l'instant, aucune analyse de masse n'est possible.
+également d'en accélérer et faciliter l'analyse**. Cette problématique,
+inhérente au Web des Données dont on parle depuis plusieurs années (plus souvent
+sous le nom Web Sémantique), est toujours la même : celle de l'œuf ou la poule.
+Car pour réaliser des analyses intéressantes, il faut disposer d'une grande
+quantité de données mais pour disposer de telles données, il faut qu'elles aient
+été produites. Or les organismes réglementaires et les banques ne voient pas
+forcément l'intérêt de produire ces données, puisque pour l'instant, aucune
+analyse de masse n'est possible.
 
 Mais pour <abbr title="eXtensible Business Reporting Language">XBRL</abbr>,
-cette barrière à l'entrée sera bientôt totalement contournée&nbsp;:
-d'importantes structures, comme la
-<abbr title="Securities and Exchange Commission">SEC</abbr> aux États-Unis,
-l'ont déjà inscrit dans leur logique d'échange et n'hésitent pas à partager leur
-connaissance du standard sur des portails (comme
+cette barrière à l'entrée sera bientôt totalement contournée : d'importantes
+structures, comme la <abbr title="Securities and Exchange Commission">SEC</abbr>
+aux États-Unis, l'ont déjà inscrit dans leur logique d'échange et n'hésitent pas
+à partager leur connaissance du standard sur des portails (comme
 [ici, celui de la <abbr title="Securities and Exchange Commission">SEC</abbr>)](http://xbrl.sec.gov/),
 entrainant l'adhésion de quelques **cabinets d'experts comptables et de CAC**
 (comme ici
@@ -82,9 +81,9 @@ production des données en
 
 L'autre intérêt du
 <abbr title="eXtensible Business Reporting Language">XBRL</abbr>, c'est qu'il
-introduit une couche d'abstraction extrêmement structurante. Résultat&nbsp;:
-**il est très facile de traduire les libellés des données**. La traduction des
-mots-clés, garantie par
+introduit une couche d'abstraction extrêmement structurante. Résultat : **il est
+très facile de traduire les libellés des données**. La traduction des mots-clés,
+garantie par
 l’<abbr title="International Accounting Standards Board">IASB</abbr>, assure
 ainsi qu'un document normé
 <abbr title="International Financial Reporting Standards">IFRS</abbr> français

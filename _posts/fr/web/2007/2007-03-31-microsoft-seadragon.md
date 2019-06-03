@@ -10,15 +10,15 @@ et de son concept novateur de navigation.
 
 <!-- more -->
 
-Le but avoué de ce projet&nbsp;: changer radicalement la manière dont un
-utilisateur peut visualiser du contenu, depuis l'énorme surface d'un
-rétroprojecteur pointé sur un mur à l'écran réduit des périphériques mobiles.
-Seadragon devrait ainsi permettre de naviguer dans une information visuelle
-quelle que soit la quantité de données qu'elle représente ou les capacités du
-réseau par lequel ces données circulent.
+Le but avoué de ce projet : changer radicalement la manière dont un utilisateur
+peut visualiser du contenu, depuis l'énorme surface d'un rétroprojecteur pointé
+sur un mur à l'écran réduit des périphériques mobiles. Seadragon devrait ainsi
+permettre de naviguer dans une information visuelle quelle que soit la quantité
+de données qu'elle représente ou les capacités du réseau par lequel ces données
+circulent.
 
 Si cela vous semble encore un peu vague, voilà comment résumer le concept en 4
-points&nbsp;:
+points :
 
 1.  vitesse de navigation indépendante de la taille ou de la quantité des objets
     considérés ;

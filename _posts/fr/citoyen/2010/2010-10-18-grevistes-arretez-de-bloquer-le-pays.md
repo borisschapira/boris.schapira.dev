@@ -14,7 +14,7 @@ c'est
 Vous pouvez même faire de même avec
 [vos sénateurs](http://www.senat.fr/senateurs/sencir.html 'Ecrire à ses sénateurs').
 
-**Ne prenez pas vos concitoyens en otage&nbsp;: effrayez vos élus.**
+**Ne prenez pas vos concitoyens en otage : effrayez vos élus.**
 
 <!-- more -->
 
@@ -359,7 +359,7 @@ M. Bernard Accoyer (président de l’Assemblée nationale).
 -   M. Thierry Mariani ;
 
 qui étaient présents au moment du scrutin ou qui avaient délégué leur droit de
-vote ont fait savoir qu’ils avaient voulu voter «&nbsp;pour&nbsp;»
+vote ont fait savoir qu’ils avaient voulu voter "pour"
 
 #### Contre
 

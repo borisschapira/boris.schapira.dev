@@ -19,9 +19,9 @@ and are frustrated not to be able to search a specified group of selectors
 without using javascript in the Dev. Tools Console. In fact, what I was
 expressing already exists in Opera Dragonfly.
 
-Wanna see more&nbsp;? Read this article written by Karl&nbsp;: Search DOM Nodes
-with Opera Dragonfly Developer tool
+Wanna see more? Read this article written by Karl: Search DOM Nodes with Opera
+Dragonfly Developer tool
 
-And here is a short video of what this workshop looked like&nbsp;:
+And here is a short video of what this workshop looked like:
 
 {% include media/vimeo.html.liquid id="42885321" title="Améliorer les outils de débug dans les navigateurs Web" %}

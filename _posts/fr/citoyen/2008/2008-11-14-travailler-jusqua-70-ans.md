@@ -22,22 +22,22 @@ trimestres (164 en 2012) ou d'en avoir
 [racheté](http://www.dossierfamilial.com/emploi/retraite/racheter-des-trimestres-pour-votre-retraite,1161)
 pour arriver au même nombre. Seul bémol, la fonction publique n'est pas
 concernée, le gouvernement ayant déjà fort à faire pour que l'âge légal passe à
-65 ans pour tous les régimes&nbsp;!
+65 ans pour tous les régimes !
 
 **Ce qui m'inquiète est le risque de sclérose de notre société**. Cette mesure
 étant avant tout destinée aux cadres, qui prolongent souvent leur durée de
 travail au-delà de l'âge légal, on risque donc de voir d'ici quelques années des
 populations dirigeantes vieillissantes et faiblement renouvelées. Un grand
 patron de 69 ans poussé à la retraite par plusieurs "jeunes loups" de 63 ans…
-surréaliste&nbsp;? Pas tant que ça.
+surréaliste ? Pas tant que ça.
 
 Évidemment, **le problème n'est pas simple** et je ne suis pas le seul à me
 poser des questions. On pourrait peut-être imaginer, parallèlement à la
 prolongation de l'âge maximal de départ en retraite, une **"seconde vie
-professionnelle"**&nbsp;? S'il le souhaite, le directeur d'agence pourrait ainsi
+professionnelle"** ? S'il le souhaite, le directeur d'agence pourrait ainsi
 assouvir sa passion pour les jeux en ligne en tenant un cyber-café tandis que le
 postier ouvrirait une galerie d'art. Les personnes ayant l'**expérience**
 pourrait se joindre aux créateurs de start-up pour leur apporter leur **aide**…
 
 Une vision, certes **utopique**, mais qui me laisse penser que **l'avenir est et
-sera toujours devant moi, même à 60 ans**&nbsp;!
+sera toujours devant moi, même à 60 ans** !

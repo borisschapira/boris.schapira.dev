@@ -7,7 +7,7 @@ tags:
 Tous les enseignants ont vécu ce moment. Parfois, lors de la première répétition
 d'un cours mais plus souvent à la première question posée par un élève. Ce
 moment où l'enseignant se rend compte qu'il ne maîtrise pas complètement son
-sujet. Tous les gens qui ont enseigné m'ont fait le même témoignage&nbsp;:
+sujet. Tous les gens qui ont enseigné m'ont fait le même témoignage :
 
 > Je ne maîtrisais pas réellement le sujet avant de devoir l'enseigner
 
@@ -19,8 +19,8 @@ profondément différentes. L'une fait appel à la raison, l'autre à l'intuitio
 et cela fait toute la différence entre un chef de projet et un expert en
 développement.
 
-Le premier est dans une posture pédagogique&nbsp;: il doit pouvoir expliquer à
-tout moment la situation du projet par rapport aux délais, aux coûts et à la
+Le premier est dans une posture pédagogique : il doit pouvoir expliquer à tout
+moment la situation du projet par rapport aux délais, aux coûts et à la
 couverture fonctionnelle et technique en s'adaptant au vocabulaire de ses
 interlocuteurs car son objectif est la _compréhension_ par l'ensemble des
 acteurs des problématiques qui les concernent. Le second doit avoir une vision

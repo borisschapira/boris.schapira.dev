@@ -30,11 +30,11 @@ Ce qu'il manquait à cette grandes messe en l'honneur du nouvel OS, ce sont les
 informations nécessaires aux développeurs pour commencer à produire des
 applications. WP7 supportera-t-il Flash (c'est la question à la mode en ce
 moment) ou Silverlight (ou les deux), exécutera-t-il des applications .NET
-Compact Framework, permettra-t-il le multitâche&nbsp;? Je ne sais pas quoi en
-penser. D'un côté je me dis que Microsoft ne ferait jamais un nouvel OS
-disposant de moins de fonctionnalités que le précédent (Windows Mobile 6.5.3 qui
-supporte Flash et le multitâche). De l'autre, Windows Mobile est-il vraiment un
-exemple à suivre par Microsoft&nbsp;? Je ne le pense pas.
+Compact Framework, permettra-t-il le multitâche ? Je ne sais pas quoi en penser.
+D'un côté je me dis que Microsoft ne ferait jamais un nouvel OS disposant de
+moins de fonctionnalités que le précédent (Windows Mobile 6.5.3 qui supporte
+Flash et le multitâche). De l'autre, Windows Mobile est-il vraiment un exemple à
+suivre par Microsoft ? Je ne le pense pas.
 
 {% capture img_alt %}Des captures d'écran sur Windows Phone 7{% endcapture %}
 {% capture img_caption %}Le Hub People devrait réunir toutes les informations de

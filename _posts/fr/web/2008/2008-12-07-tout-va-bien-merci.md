@@ -15,7 +15,7 @@ majoration et parfois, je prends aussi mon stylo pour demander de l'aide à mon
 assurance, ou indiquer à quelques organismes difficiles à convaincre que oui,
 mon adresse a changé il y a six mois, comme l'indiquait mon premier courrier…
 
-Mais quand j'y repense à deux fois&nbsp;: ça ne va pas si mal. Je suis follement
+Mais quand j'y repense à deux fois : ça ne va pas si mal. Je suis follement
 amoureux de la femme avec qui je vis. Elle m'accompagne à chaque minute de ma
 vie et nous nous donnons mutuellement de la force et du courage. Je ne parle pas
 souvent avec mes amis ou ma famille mais je sais qu'ils sont présents, dans le

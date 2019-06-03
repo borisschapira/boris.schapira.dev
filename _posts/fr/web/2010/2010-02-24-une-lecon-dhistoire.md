@@ -26,16 +26,16 @@ m'a demandé de noter mes questions et de venir le voir à la fin du cours.
 
 Tout le monde est sorti et je suis arrivé avec ma feuille. Il m'a regardé droit
 dans les yeux, d'un regard provoquant quand je lui connaissais bien et m'a dit
-de sa voix cynique&nbsp;:
+de sa voix cynique :
 
 > Tes questions sont complètement connes.
 
 Son regard m'a glacé le sang tandis que mes oreilles devenaient brûlantes de
-rage et de honte. Il a enchaîné avec sa gouaille habituelle&nbsp;:
+rage et de honte. Il a enchaîné avec sa gouaille habituelle :
 
-> Si je répondais à toutes tes questions, t'en ferais quoi&nbsp;? Tu apprendrais
-> ce que je te dis comme un benêt&nbsp;? Pour comprendre quelque chose, il va
-> t'en falloir plus que ça sinon tu vas encore devenir un de ses petits cons qui
+> Si je répondais à toutes tes questions, t'en ferais quoi ? Tu apprendrais ce
+> que je te dis comme un benêt ? Pour comprendre quelque chose, il va t'en
+> falloir plus que ça sinon tu vas encore devenir un de ses petits cons qui
 > répètent ce qu'on leur dit de répéter. Dégage, je vais voir ce que je peux
 > faire.
 

@@ -49,9 +49,9 @@ ou pas collées. Alors on a fini par rouler à la main.
 tabac gratuitement. Certains le prenaient comme un encouragement. En réalité, et
 comme je n’avais pas besoin de me cacher, je pouvais fumer quand je voulais, y
 compris à la maison. Aucun interdit, donc pas d'excitation. Et du coup je ne
-fumais pas ou peu, à la maison comme à l’extérieur. Durant toutes mes
-«&nbsp;années de fumeur&nbsp;» j’ai rarement dépassé les 4 cigarettes par jour.
-Les médecins me disaient même que j’étais un non-fumeur qui s’ignore.
+fumais pas ou peu, à la maison comme à l’extérieur. Durant toutes mes "années de
+fumeur" j’ai rarement dépassé les 4 cigarettes par jour. Les médecins me
+disaient même que j’étais un non-fumeur qui s’ignore.
 
 Ça m’amusait beaucoup de rouler mes cigarettes. Ça retardait le plaisir. Comme
 un dessert qu’on regarde longtemps avant de le dévorer, ma cigarette n’en était

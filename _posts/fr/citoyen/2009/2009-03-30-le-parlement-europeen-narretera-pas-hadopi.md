@@ -16,7 +16,7 @@ caduque (même cela reste à prouver, la France n'étant pas obligée d'approuve
 systématiquement tout texte du Parlement Européen).
 
 Seulement je voudrais rappeler que la sanction n'était qu'un des nombreux
-problèmes soulevés par ce texte, dont notamment&nbsp;:
+problèmes soulevés par ce texte, dont notamment :
 
 -   Un bénéfice économique très discutable qui entretient un modèle de
     rémunération des arts audiovisuels en constat d'échec.

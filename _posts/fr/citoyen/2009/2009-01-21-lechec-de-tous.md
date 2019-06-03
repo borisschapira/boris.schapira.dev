@@ -5,7 +5,7 @@ title: "L'échec de tous"
 Il y a quelque chose profondément dérangeant dans
 [le chahut organisé par certains députés PS hier soir au Parlement](http://tempsreel.nouvelobs.com/libertes-sous-pression/20090121.OBS0698/travail-legislatif-les-deputes-ps-manifestent.html).
 Est-on revenu à une époque si bridée politiquement que certains parlementaires
-éprouveraient le besoin de mener une révolution dans l'hémicycle&nbsp;?
+éprouveraient le besoin de mener une révolution dans l'hémicycle ?
 
 En jouant les Dantons sans Révolution, les députés PS donnent une très mauvaise
 image de l'institution. Pour une fois qu''on parle de l'action du Parlement,
@@ -20,7 +20,7 @@ consolidation d'un parti qui se rend compte qu'il est minoritaire et divisé. Le
 passage en force de quelques fortes têtes se présente alors comme la seule
 alternative, si tant est qu'il soit médiatisé -et supporté- dans les médias.
 
-Quel véritable gâchis, y compris pour la majorité&nbsp;! Le Parlement est une
+Quel véritable gâchis, y compris pour la majorité ! Le Parlement est une
 institution respectable, une des clés de voûte de la démocratie où se joue le
 destins des lois et le contrôle du gouvernement. Tout échec en son sein est
 **l'échec de tous**.

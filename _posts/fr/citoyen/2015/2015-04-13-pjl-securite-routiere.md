@@ -8,18 +8,18 @@ serie: 'Loi Renseignement'
 
 Ainsi commença l'histoire…
 
-"La menace sur nos routes était insupportable&nbsp;: plus de 3000 morts par an,
-vous imaginez&nbsp;?
+"La menace sur nos routes était insupportable : plus de 3000 morts par an, vous
+imaginez ?
 
 <!-- more -->
 
 J'ai donc été le premier à soutenir ce projet lors de sa présentation au Sénat,
 puis, en procédure accélérée, à l'Assemblée Nationale. Il s'agissait d'installer
 dans chaque véhicule un dispositif de captation des pratiques automobiles.
-Évidemment, il n'était pas question de mettre en place une surveillance de
-masse&nbsp;: les données étaient récupérées de manière anonyme sur les serveurs
-de l'État, dans le seul objectif de réaliser des analyses statistiques et de
-déterminer, éventuellement, les comportements déviants.
+Évidemment, il n'était pas question de mettre en place une surveillance de masse
+: les données étaient récupérées de manière anonyme sur les serveurs de l'État,
+dans le seul objectif de réaliser des analyses statistiques et de déterminer,
+éventuellement, les comportements déviants.
 
 Pour cela, étaient enregistrés les accélérations, le freinage, la position
 géographique, l’utilisation des phares et des essuie-glaces, l'allumage de la
@@ -33,12 +33,12 @@ mobilisèrent pour demander davantage de fonds afin de financer l'inclusion du
 boitier jaune d'à peine quelques centimètres. Ils furent rapidement rejoints par
 les opérateurs Télécom car la transmission se faisant par le biais du réseau de
 téléphonie (une carte SIM était présente dans chaque boite jaune), ils
-craignaient un engorgement des réseaux. Et ils avaient raison&nbsp;: les 38
-millions de véhicules en circulation étaient connectés à tout instant, ce qui
-généra un flux d'informations énorme au regard de l'existant composés
-principalement de téléphones transmettant des informations au réseau de manière
-temporaire. Renault, qui ne s'en remis pas, fût racheté complètement par Nissan
-trois ans plus tard.
+craignaient un engorgement des réseaux. Et ils avaient raison : les 38 millions
+de véhicules en circulation étaient connectés à tout instant, ce qui généra un
+flux d'informations énorme au regard de l'existant composés principalement de
+téléphones transmettant des informations au réseau de manière temporaire.
+Renault, qui ne s'en remis pas, fût racheté complètement par Nissan trois ans
+plus tard.
 
 Rapidement, les services de Police et de Gendarmerie demandèrent l'accès aux
 données enregistrées pour des questions de coûts. En ouvrant ces données aux
@@ -48,18 +48,18 @@ mauvais conducteurs et encourager les bonnes conduites. Devant la pertinence des
 arguments et malgré les manifestations de la société civile, le Gouvernement
 accepta.
 
-Les résultats furent immédiatement positifs&nbsp;: le nombre de morts sur les
-routes baissât de 30 % et le covoiturage explosa, en raison de polices
-d'assurance moins coûteuses lors de la présence de passagers dans le véhicule.
+Les résultats furent immédiatement positifs : le nombre de morts sur les routes
+baissât de 30 % et le covoiturage explosa, en raison de polices d'assurance
+moins coûteuses lors de la présence de passagers dans le véhicule.
 Parallèlement, plusieurs personnes se plaignirent de sanctions à la marge comme
 ce cas étrange d'un quinquagénaire verbalisé pour avoir téléphoné au volant
-alors… qu'il n'avait pas de téléphone. En cause&nbsp;: la capture d'une
-conversation de 6 minutes sans présence de passager. Sauf que l'accusé ne
-téléphonait pas, il parlait simplement tout seul…
+alors… qu'il n'avait pas de téléphone. En cause : la capture d'une conversation
+de 6 minutes sans présence de passager. Sauf que l'accusé ne téléphonait pas, il
+parlait simplement tout seul…
 
 Le nombre de vols de véhicules réduisit également énormément en quelques mois,
 les policiers étant capables de déterminer la position des véhicules subtilisés.
-Cela ne dura pas longtemps&nbsp;: en moins d'un semestre, le banditisme s'était
+Cela ne dura pas longtemps : en moins d'un semestre, le banditisme s'était
 équipé de solutions techniques permettant la reprogrammation des boites jaunes.
 Cela posa d'ailleurs un véritable problème sur le marché de l'occasion qui se
 vit extrêmement pénalisé par l'obligation légale de procéder à un contrôle du

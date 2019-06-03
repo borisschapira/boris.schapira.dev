@@ -11,8 +11,8 @@ mais je me dis que j&#x2019;accederais s&#xFB;rement plus vite à la propriété
 que j&#x2019;aurais moins de mal à financer les évolutions de ma vie que si
 j'avais emprunté une autre voie.
 
-70 % de mes proches amis ont fait un autre choix&nbsp;: ils ont décidé de tout
-faire pour entrer dans l&#x2019;Education Nationale. Souvent, je les entends se
+70 % de mes proches amis ont fait un autre choix : ils ont décidé de tout faire
+pour entrer dans l&#x2019;Education Nationale. Souvent, je les entends se
 plaindre de leur future condition salariale. Lorsque je leur dis de profiter de
 leurs temps libre, de leurs vacances, ils me répondent qu&#x2019;ils
 n&#x2019;auront pas assez d&#x2019;argent pour le faire (avec un petit accent de
@@ -25,7 +25,7 @@ retraite. À l'inverse, pour eux, je ne dois pas me plaindre puisque je gagne
 bien ma vie. Peu importe que mes horaires soient larges et très variables ou mon
 environnement de travail parfois stressant car inconnu ou nouveau. À leur yeux
 j&#x2019;ai &#xAB; choisi &#xBB; ma vie. Après tout, si je ne suis pas content,
-c&#x2019;est ma faute&nbsp;: je n&#x2019;avais qu&#x2019;à faire prof.
+c&#x2019;est ma faute : je n&#x2019;avais qu&#x2019;à faire prof.
 
 &quot;Travailler plus, gagner plus&quot;… à force de le dire les français ont
 bien compris que c'était un choix. Travailler moins et gagner moins l'est aussi,

@@ -13,11 +13,11 @@ XML situé à l&#039;adresse _&lt;root&gt;/Style Library/XSL Style
 Sheet/ItemStyle.xsl_, entre les balises _&lt;xsl:template
 name=&quot;Default&quot;…_ et _&lt;/xsl:template&gt;._
 
-Cette mise en page par défaut a donc cette tête&nbsp;:
+Cette mise en page par défaut a donc cette tête :
 
 `&lt;div id=&quot;linkitem&quot; class=&quot;item&quot;&gt;
 
-&lt;xsl:if test=&quot;string-length(\$SafeImageUrl)&nbsp;!= 0&quot;&gt;
+&lt;xsl:if test=&quot;string-length(\$SafeImageUrl) != 0&quot;&gt;
 
 &lt;div class=&quot;image-area-left&quot;&gt;
 

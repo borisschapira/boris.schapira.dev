@@ -11,14 +11,14 @@ donner
 il faut qu'on parle. Sais-tu que tes réponses m'ont tellement choqué que j'ai
 décidé d'arrêter le
 [Black Out](http://www.laquadrature.net/fr/black-out-et-apres) complet de mon
-site&nbsp;? De toutes façons, l'examen est en train d'être saucissonné en
-nombreuses séances éparses, comme tout texte sensible qu'on essaie d'étouffer,
-et il devient de plus en plus dur de marquer le coup médiatiquement… Au moins
-les medias se sont-il décidé à en parler, ce n'est déjà pas si mal.
+site ? De toutes façons, l'examen est en train d'être saucissonné en nombreuses
+séances éparses, comme tout texte sensible qu'on essaie d'étouffer, et il
+devient de plus en plus dur de marquer le coup médiatiquement… Au moins les
+medias se sont-il décidé à en parler, ce n'est déjà pas si mal.
 
 Tu m'as déçu Franck. Si toi, qui dois connaitre le dossier mieux que personne,
 n'a pas réussi à me convaincre par ne serait-ce qu'une seule bonne réponse, qui
-le pourra&nbsp;? En effet, j'ai à redire sur tous les points abordés&nbsp;:
+le pourra ? En effet, j'ai à redire sur tous les points abordés :
 
 -   _La solution de l'amende est pour toi "plus répressive et moins dissuasive
     que la suspension" et engendre de plus des inégalités suivant les revenus de
@@ -33,12 +33,12 @@ le pourra&nbsp;? En effet, j'ai à redire sur tous les points abordés&nbsp;:
     la solution du squat chez des amis… Tout cela en laissant le chômeur payer
     30 euros d'abonnement par mois car c'est bien connu, les chômeurs ont de
     l'argent à perdre. Finalement Franck, ton texte il est un peu inégalitaire,
-    tu ne trouves pas &nbsp;?
+    tu ne trouves pas ?
 -   _Il n'y aura pas de condition d'existence d'une offre légale en ligne
     préliminaire à la sanction. Cela remettrait en cause le système existant._
-    Et si justement il était temps d'y penser&nbsp;? Remarque, Franck, tu as au
-    moins l'honnêteté de dire que ce texte n'existe que pour protéger le système
-    en place.
+    Et si justement il était temps d'y penser ? Remarque, Franck, tu as au moins
+    l'honnêteté de dire que ce texte n'existe que pour protéger le système en
+    place.
 -   _On ne donne pas à l'internaute le détail des éléments téléchargés pour
     protéger sa vie privée. Enfin, sauf s'ils demandent poliement._ Donc en
     fait, les infos sont collectées et disponibles mais la commission ne les
@@ -46,7 +46,7 @@ le pourra&nbsp;? En effet, j'ai à redire sur tous les points abordés&nbsp;:
     pour qu'on arrête de les espionner pour leur couper leur connexion, faut pas
     pousser).
 -   _L'opposition du PS est un problème de clivage politique_. Et l'opposition
-    interne qui règne à l'UMP, c'est de la choucroute&nbsp;?
+    interne qui règne à l'UMP, c'est de la choucroute ?
 
 Je t'en prie Franck, sors de ce monde de Bisounours et propose-nous des
 arguments concrets. Le dialogue ne peut se faire qu'au prix de l'effort d'un

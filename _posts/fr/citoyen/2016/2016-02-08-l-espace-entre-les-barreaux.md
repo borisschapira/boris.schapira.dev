@@ -19,7 +19,7 @@ eux plongés dans des conséquences d'actions qu'ils ne comprennent pas. Peur de
 mêmes choses contre lesquelles je voulais manifester.
 
 Me voici donc face à ma propre lâcheté : jusqu'où suis-je prêt à regarder les
-barreaux se resserer ? Est-ce qu'au final, en dépit de mes belles paroles, je ne
+barreaux se resserer ? Est-ce qu'au final, en dépit de mes belles paroles, je ne
 réagirai que quand ma famille sera directement concernée ?
 
 Il ne fait pas bon se regarder dans le miroir, parfois.

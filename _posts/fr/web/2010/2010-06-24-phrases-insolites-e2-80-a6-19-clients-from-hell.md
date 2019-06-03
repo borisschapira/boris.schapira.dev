@@ -5,10 +5,10 @@ tags:
 serie: 'Phrases insolites'
 ---
 
-C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;! Et quand c'est
-une oreille de consultant en informatique ou de développeur, c'est encore plus
+C’est fou ce qu’on peut entendre quand on tend l’oreille ! Et quand c'est une
+oreille de consultant en informatique ou de développeur, c'est encore plus
 délicieux. Que celui qui n'a jamais entendu ces quelques phrases me jette le
-premier bug&nbsp;!
+premier bug !
 
 <!-- more -->
 
@@ -25,15 +25,14 @@ premier bug&nbsp;!
 > est conforme à vos attentes.  
 > **Client** : Hum, je pense qu'en fait cette fonctionnalité est inutile, nous
 > ne l'utiliserons donc pas.  
-> **Développeur** : Je la supprime alors&nbsp;?  
+> **Développeur** : Je la supprime alors ?  
 > **Client** : Non, on va la laisser. On ne sait jamais.
 
 ## Panique
 
-> **Développeur** : La machine est complètement bloquée, que s'est-il
-> passé&nbsp;?  
+> **Développeur** : La machine est complètement bloquée, que s'est-il passé ?  
 > **Client** : Je ne sais pas, j'ai juste cliqué.  
-> **Développeur** : Vous avez _juste_ cliqué&nbsp;?  
+> **Développeur** : Vous avez _juste_ cliqué ?  
 > **Client** : Oui enfin, j'ai cliqué, ça n'allait pas assez vite, alors j'ai
 > re-cliqué. Huit fois. Au cas où.
 
@@ -43,29 +42,29 @@ premier bug&nbsp;!
 > pouvez corriger l'entrée en base, parce que les informations saisies sont
 > inexactes et ça pourrait faire planter l'application sur certains postes…  
 > **Développeur** : Et dans vos processus métier, vous ne vérifiez jamais avant
-> de valider vos saisies&nbsp;?  
+> de valider vos saisies ?  
 > **Utilisateur** : Non, pas vraiment. Mais c'est pas grave parce que je connais
 > une faille dans l'application et ça finit par marcher quand même.  
-> **Développeur** : Et vous n'avez rien dit ? Vous faites ça depuis
-> longtemps&nbsp;?!  
-> **Utilisateur** : Environ 2 ans, pourquoi&nbsp;?
+> **Développeur** : Et vous n'avez rien dit ? Vous faites ça depuis longtemps
+> ?!  
+> **Utilisateur** : Environ 2 ans, pourquoi ?
 
 ## Secrétariat de luxe
 
 > **Client** : J'aimerais qu'on modifie la documentation. Paragraphe 3, ligne 5,
 > il faudrait écrire 'les différences' en bleu. Merci  
 > **Consultant** : Voilà le document avec la modification effectuée.
-> Permettez-moi tout de même cette question&nbsp;: pourquoi ne pas l'avoir
-> corrigé vous-même&nbsp;?  
-> **Client** : Mais nous vous payons pour ça&nbsp;!
+> Permettez-moi tout de même cette question : pourquoi ne pas l'avoir corrigé
+> vous-même ?  
+> **Client** : Mais nous vous payons pour ça !
 
 ## Homeland Security
 
 > **_Division Sécurité_** : Il faut revoir entièrement l'application, elle n'est
 > pas cohérente en terme de sécurité avec le document 45b-3 paragraphe 12 rangé
-> dans le tiroir du bas du meuble à gauche dans le bureau 'Eloise', Etage
-> 4, bâtiment B.  
-> **Consultant** : Ce document m'a-t-il été remis&nbsp;? Je n'en ai pas le
+> dans le tiroir du bas du meuble à gauche dans le bureau 'Eloise', Etage 4,
+> bâtiment B.  
+> **Consultant** : Ce document m'a-t-il été remis ? Je n'en ai pas le
 > souvenir.  
 > **_Division Sécurité_** : Vous n'avez pas le droit de consulter ce document,
 > vous n'êtes pas assez accrédité.

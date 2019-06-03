@@ -47,7 +47,7 @@ personnes enfermées chez elles pour avoir
 [pris des photos avec leur téléphone portable](http://www.lemonde.fr/police-justice/article/2016/01/22/etat-d-urgence-le-conseil-d-etat-suspend-pour-la-premiere-fois-une-assignation-a-residence_4852070_1653578.html '"Etat d’urgence : le Conseil d’Etat suspend pour la première fois une assignation à résidence
 En savoir plus sur http://www.lemonde.fr/police-justice/article/2016/01/22/etat-d-urgence-le-conseil-d-etat-suspend-pour-la-premiere-fois-une-assignation-a-residence_4852070_1653578.html#wZxy4cY9Fqtg9l62.99", Camille Bordenet pour LeMonde.fr')
 ou avoir des opinions différentes,
-[privées de travail, d'étude, de vie familiale](http://www.bastamag.net/Vivre-sous-l-etat-d-urgence-le-recit-des-assignes-a-residence-et-des-interdits '"Vivre sous l’état d’urgence : le récit des assignés à résidence et des « interdits d’Île-de-France »" par Nolwenn Weiler pour Bastamag.net')
+[privées de travail, d'étude, de vie familiale](http://www.bastamag.net/Vivre-sous-l-etat-d-urgence-le-recit-des-assignes-a-residence-et-des-interdits '"Vivre sous l’état d’urgence : le récit des assignés à résidence et des "interdits d’Île-de-France"" par Nolwenn Weiler pour Bastamag.net')
 ,
 [ne pouvant se rendre à leur propre procès sans enfreindre cette assignation](http://delinquance.blog.lemonde.fr/2015/12/08/etat-durgence-un-assigne-en-garde-a-vue-pour-avoir-assiste-a-son-refere-liberte/ '"Etat d’urgence : un assigné en garde à vue pour avoir assisté à son référé-liberté", Laurent Borredon')…
 pour une seule mise en examen ?

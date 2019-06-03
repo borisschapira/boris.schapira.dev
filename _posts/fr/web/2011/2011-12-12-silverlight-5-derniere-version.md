@@ -5,7 +5,7 @@ tags:
 ---
 
 L’équipe de développement de Silverlight a annoncé vendredi la disponibilité de
-Silverlight 5\. Au niveau des nouveautés : l’intégration des objets 3D déjà
+Silverlight 5\. Au niveau des nouveautés : l’intégration des objets 3D déjà
 présents dans XNA, quelques avancées qui rapprochent les expériences dans et
 hors du navigateur et de nouvelles fonctionnalités pour la lecture vidéo (mode
 avance rapide avec correction du pitch, par exemple). Mais la vraie plus-value

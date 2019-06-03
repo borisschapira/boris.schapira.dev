@@ -14,11 +14,11 @@ thème.
 Cette version contient les fichiers d'internationalisation (.mo et .po,
 éditables avec [PoEdit](http://poedit.net/download)) , les pages .php, les
 images et les scripts modifiés. N'hésitez pas à laissez un petit commentaire si
-ça vous a servi, ou si vous voulez apporter des améliorations&nbsp;!
+ça vous a servi, ou si vous voulez apporter des améliorations !
 
 **[Télécharger Carrington Blog 2.0 FR](https://codeload.github.com/borisschapira/wordpress-theme-carring-tonBlog2Fr/zip/master)**
 
-Au menu des améliorations par rapport à la version 1.x&nbsp;:
+Au menu des améliorations par rapport à la version 1.x :
 
 -   Commentaires imbriqués
 -   Couleurs personnalisables

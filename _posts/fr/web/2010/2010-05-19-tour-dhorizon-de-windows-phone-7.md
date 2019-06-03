@@ -21,23 +21,22 @@ comme un acteur majeur du mobile grand public.
     canonical=page.canonical
 %}
 
-### Matériel&nbsp;: un cahier des charges très strict
+### Matériel : un cahier des charges très strict
 
 Les constructeurs de terminaux Windows Phone, tels que Samsung ou LG qui ont
 participé à la réalisation des prototypes présentés au MIX[^1], voient leur
 marge d’innovation réduire. En effet, les spécifications des combinés destinés
-au nouveau système devront respecter certains impératifs&nbsp;: un écran
-capacitif quatre points WGA d’une résolution de 800x480 pixels (une version HVGA
-de résolution inférieure sera envisagée par la suite), six boutons
-(«&nbsp;Démarrer&nbsp;», «&nbsp;Retour&nbsp;» et «&nbsp;Recherche (Bing)&nbsp;»
-auxquels s’ajoutent les désormais traditionnels boutons dédiés à la Photo, au
-Volume et bien sûr à l’allumage), un processeur ARMv7 Cortex (de 600MHz à 1GHz)
-ou Scorpion (1GHz), un chipset graphique supportant DirectX 9, 256Mo de RAM, 8Go
-de mémoire Flash au minimum, un appareil photo 5 mégapixels, un capteur Assisted
-GPS, un accéléromètre, une boussole, un chipset Wifi, et un module Radio FM.
-Différentes formes de combinés seront proposées, offrant parfois des
-fonctionnalités supplémentaires ou améliorées comme un clavier physique ou une
-webcam en façade.
+au nouveau système devront respecter certains impératifs : un écran capacitif
+quatre points WGA d’une résolution de 800x480 pixels (une version HVGA de
+résolution inférieure sera envisagée par la suite), six boutons ("Démarrer",
+"Retour" et "Recherche (Bing)" auxquels s’ajoutent les désormais traditionnels
+boutons dédiés à la Photo, au Volume et bien sûr à l’allumage), un processeur
+ARMv7 Cortex (de 600MHz à 1GHz) ou Scorpion (1GHz), un chipset graphique
+supportant DirectX 9, 256Mo de RAM, 8Go de mémoire Flash au minimum, un appareil
+photo 5 mégapixels, un capteur Assisted GPS, un accéléromètre, une boussole, un
+chipset Wifi, et un module Radio FM. Différentes formes de combinés seront
+proposées, offrant parfois des fonctionnalités supplémentaires ou améliorées
+comme un clavier physique ou une webcam en façade.
 
 {% capture img_alt %}Capture de l'écran d’accueil de Windows Phone 7 présentant
 plusieurs tuiles applicatives{% endcapture %} {% capture img_caption %}Écran
@@ -57,7 +56,7 @@ consommateurs, ce serait une bonne nouvelle dans un marché du SmartPhone assez
 onéreux pour l’utilisateur (hors subventions des opérateurs de téléphonie
 mobile).
 
-### Métro&nbsp;: le visage de la mobilité made in Microsoft
+### Métro : le visage de la mobilité made in Microsoft
 
 Windows Mobile 6.5 (rebaptisé _Windows Phone Classic_), prédécesseur de Windows
 Phone 7, n’a jamais été reconnu pour son interface. Portage mobile des systèmes
@@ -84,10 +83,10 @@ ambitieux nommé Métro. Derrière ce nom évocateur de "_modernisme rétro_" se
 cache une interface bien pensée, faisant une grande place aux contenus, aux
 espaces, aux couleurs primaires et entièrement manipulable au doigt.
 
-{% capture img_alt %}Capture de l'écran Application Word pour Windows
-Phone&nbsp;: saisie d’un commentaire{% endcapture %}
-{% capture img_caption %}Application Word pour Windows Phone&nbsp;: saisie d’un
-commentaire{% endcapture %} {% include rwd-image.html.liquid
+{% capture img_alt %}Capture de l'écran Application Word pour Windows Phone :
+saisie d’un commentaire{% endcapture %} {% capture img_caption %}Application
+Word pour Windows Phone : saisie d’un commentaire{% endcapture %}
+{% include rwd-image.html.liquid
 path="/assets/images/2010-05-19/3.jpg"
 alt=img_alt
 caption=img_caption
@@ -121,27 +120,27 @@ d’assimiler la diversité des informations, alors que dans la plupart des
 systèmes existants aujourd’hui différentes sources de données s’expriment sur
 différents supports.
 
-### Applications&nbsp;: une large ouverture vers le MarketPlace
+### Applications : une large ouverture vers le MarketPlace
 
 Le parc d’applications disponibles dans le système regroupe les classiques
 E-Mail (multi-comptes), Calendrier, SMS/MMS, Téléphone, Contacts, Cartographie
-et Recherche, avec à chaque fois plusieurs ressemblances&nbsp;: un fort
-minimalisme, l’appel à une gamme de couleurs très réduite et un ensemble de
-fonctionnalités simples disponibles immédiatement dans une barre d’icônes en bas
-de l’écran (navigation dans Internet Explorer, ajout de rendez-vous dans le
-calendrier…). En faisant glisser cette barre vers le haut apparaissent les
-options plus complexes. Pour toute tâche relative à la recherche, l’utilisateur
-se tournera vers le bouton dédié. Contextuelle, la recherche triera vos
-rendez-vous en mode calendrier ou cherchera dans [Bing](http://www.bing.com/) si
-vous êtes dans le navigateur ou que vous venez de sélectionner une adresse à
-géolocaliser. Le navigateur, d’ailleurs, sera une version "7.5" d’Internet
-Explorer. Basée sur le moteur d’IE7, elle offrira la navigation par onglets, le
-support de Javascript et le zoom par pincement du pouce et de l’index.
+et Recherche, avec à chaque fois plusieurs ressemblances : un fort minimalisme,
+l’appel à une gamme de couleurs très réduite et un ensemble de fonctionnalités
+simples disponibles immédiatement dans une barre d’icônes en bas de l’écran
+(navigation dans Internet Explorer, ajout de rendez-vous dans le calendrier…).
+En faisant glisser cette barre vers le haut apparaissent les options plus
+complexes. Pour toute tâche relative à la recherche, l’utilisateur se tournera
+vers le bouton dédié. Contextuelle, la recherche triera vos rendez-vous en mode
+calendrier ou cherchera dans [Bing](http://www.bing.com/) si vous êtes dans le
+navigateur ou que vous venez de sélectionner une adresse à géolocaliser. Le
+navigateur, d’ailleurs, sera une version "7.5" d’Internet Explorer. Basée sur le
+moteur d’IE7, elle offrira la navigation par onglets, le support de Javascript
+et le zoom par pincement du pouce et de l’index.
 
-{% capture img_alt %}Capture de l'écran Application Excel pour Windows
-Phone&nbsp;: capture du menu contextuel{% endcapture %}
-{% capture img_caption %}Application Excel pour Windows Phone&nbsp;: capture du
-menu contextuel{% endcapture %} {% include rwd-image.html.liquid
+{% capture img_alt %}Capture de l'écran Application Excel pour Windows Phone :
+capture du menu contextuel{% endcapture %} {% capture img_caption %}Application
+Excel pour Windows Phone : capture du menu contextuel{% endcapture %}
+{% include rwd-image.html.liquid
 path="/assets/images/2010-05-19/excel.jpg"
 alt=img_alt
 caption=img_caption
@@ -151,12 +150,11 @@ Le copier-coller et le support de Flash seront absents de Windows Phone 7 à sa
 sortie. Plus qu’une véritable volonté de ne pas offrir ces fonctionnalités à ses
 utilisateurs, il semblerait qu’il s’agisse d’un manque de temps au niveau des
 développements. Cependant Microsoft assure que le système disposera de modules
-de reconnaissance des éléments interactifs dans les textes&nbsp;: adresses,
-numéros de téléphone ou images et proposera à chaque fois le comportement
-adéquat, Adobe annonçant de son côté travailler au support de Flash avec
-Microsoft. Reste à voir si ces promesses seront tenues et si ces deux absents
-seront rapidement implémentés, dans un patch du système ou dans une version
-ultérieure.
+de reconnaissance des éléments interactifs dans les textes : adresses, numéros
+de téléphone ou images et proposera à chaque fois le comportement adéquat, Adobe
+annonçant de son côté travailler au support de Flash avec Microsoft. Reste à
+voir si ces promesses seront tenues et si ces deux absents seront rapidement
+implémentés, dans un patch du système ou dans une version ultérieure.
 
 {% capture img_alt %}Capture de l'écran "Pictures Hub" (Univers
 Images){% endcapture %} {% capture img_caption %}"Pictures Hub" (Univers
@@ -169,21 +167,21 @@ caption=img_caption
 Concernant les applications externes et pour la première fois, Microsoft ose
 l’absence totale de rétro-compatibilité. Qu’on se le dise, les applications
 développées pour Windows Mobile 6.5 n’auront pas leur place dans Windows Phone
-7\. Évidemment, cela n’est qu’en partie vrai&nbsp;: on voit mal Microsoft
-tourner le dos à l’ensemble des partenaires et développeurs ayant travaillé
-pendant des années à développer des applications en .NET Compact Framework. En
-réalité, leurs applications ne tourneront pas sur Windows Phone 7 et cela n’est
-pas plus mal, car elles n’auraient pas du tout été adaptées aux nouveaux
-paradigmes d’interface de Métro. Leur code métier développé en .NET restera en
-revanche utilisable dans les programmes .NET en XNA ou Silverlight supportés par
-Windows Phone. Il n’y aura ainsi que les interfaces à reprendre en choisissant
-bien son support de développement. XNA s’articule autour du concept de temps
-réel avec une gestion fine de l’affichage, des rafraichissement et des
-performances&nbsp;: on le destinera plus facilement aux jeux (XNA est d’ailleurs
-le langage de développement du XBox Live Arcade). Silverlight facilite la mise
-en place d’applications respectant le style du système d’exploitation tout en
-apportant des fonctionnalités riches en termes de médias ou d’animations&nbsp;:
-on l’utilisera massivement pour les applications à contenus et les services.
+7\. Évidemment, cela n’est qu’en partie vrai : on voit mal Microsoft tourner le
+dos à l’ensemble des partenaires et développeurs ayant travaillé pendant des
+années à développer des applications en .NET Compact Framework. En réalité,
+leurs applications ne tourneront pas sur Windows Phone 7 et cela n’est pas plus
+mal, car elles n’auraient pas du tout été adaptées aux nouveaux paradigmes
+d’interface de Métro. Leur code métier développé en .NET restera en revanche
+utilisable dans les programmes .NET en XNA ou Silverlight supportés par Windows
+Phone. Il n’y aura ainsi que les interfaces à reprendre en choisissant bien son
+support de développement. XNA s’articule autour du concept de temps réel avec
+une gestion fine de l’affichage, des rafraichissement et des performances : on
+le destinera plus facilement aux jeux (XNA est d’ailleurs le langage de
+développement du XBox Live Arcade). Silverlight facilite la mise en place
+d’applications respectant le style du système d’exploitation tout en apportant
+des fonctionnalités riches en termes de médias ou d’animations : on l’utilisera
+massivement pour les applications à contenus et les services.
 
 {% capture img_alt %}Capture de l'écran de l'application Associated
 Press{% endcapture %} {% capture img_caption %}Application Associated
@@ -200,12 +198,12 @@ similaire à un gestionnaire de cookies, permettant aux applications de retrouve
 un contexte lorsque l’utilisateur les ré-ouvrira mais entre les deux, elles ne
 s’exécuteront pas. Le multi-threading au sein d’une application, quant-à-lui,
 sera bel et bien supporté en tant qu’élément du Framework .NET. Les
-notifications dites "push" (comprendre&nbsp;: à l’initiative du serveur
-applicatif et non du téléphone) devront passer systématiquement par le
-_Microsoft Notification Service_ et ne nécessiteront pas qu’une application soit
-ouverte pour être reçues. Leur nombre s’affichera dans une barre en haut de
-l’écran, de manière non-intrusive tandis que leur lecture passera a priori par
-une application capable de décoder leur contenu.
+notifications dites "push" (comprendre : à l’initiative du serveur applicatif et
+non du téléphone) devront passer systématiquement par le _Microsoft Notification
+Service_ et ne nécessiteront pas qu’une application soit ouverte pour être
+reçues. Leur nombre s’affichera dans une barre en haut de l’écran, de manière
+non-intrusive tandis que leur lecture passera a priori par une application
+capable de décoder leur contenu.
 
 {% capture img_alt %}Capture de l'écran Univers Microsoft
 MarketPlace{% endcapture %} {% capture img_caption %}Univers Microsoft
@@ -247,7 +245,7 @@ d’une licence annuelle de développement comprenant 5 comptes pour
 99$. Le développeur souhaitant proposer des applications gratuites n’aura pas d’autres coûts et pourra ajouter de la publicité. La soumission d’une application payante coûtera en revanche 99$
 supplémentaires.
 
-### Développements&nbsp;: des portages sur tous les écrans
+### Développements : des portages sur tous les écrans
 
 Le développement sous Windows Phone 7 se réalise via une version spécifique de
 Visual Studio, en XNA ou en Silverlight mais la plupart des applications seront
@@ -298,11 +296,11 @@ apparaître sur les écrans de télévision en plus des écrans d’ordinateurs.
 Microsoft dépense beaucoup d’énergie pour unifier son écosystème de développeurs
 autour d’expérience utilisateur riches et partagées entre plusieurs matériels,
 le tout en conservant les avantages de son environnement de développement Visual
-Studio et du Framework .NET&nbsp;: une très importante communauté arrivée à
-maturité, de fortes capacités multimédia et des bibliothèques de contrôles RIA
-riches et innovantes, dont certaines Open-Source.
+Studio et du Framework .NET : une très importante communauté arrivée à maturité,
+de fortes capacités multimédia et des bibliothèques de contrôles RIA riches et
+innovantes, dont certaines Open-Source.
 
-### Conclusion&nbsp;: une stratégie intéressante, mais qui oublie le Web
+### Conclusion : une stratégie intéressante, mais qui oublie le Web
 
 Windows Phone 7 s’annonce comme un acteur de poids dans le monde du Smartphone,
 sans en révolutionner les paradigmes. Livré avec des fonctionnalités

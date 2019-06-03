@@ -9,11 +9,11 @@ tags:
 Quand j&#8217;ai commenc&#233; &#224; l&#8217;utiliser je trouvais le concept
 frais, novateur et int&#233;ressant. Avoir en un clin d&#8217;&#339;il un
 contact permanent avec les personnes de sa vie &#233;tait tout de m&#234;me une
-sacr&#233;e promesse&nbsp;! Un ou deux groupes marrants, l&#8217;inscription
-&#224; quelques Network pour parfaire mon profil puis quelques applications pour
-rendre la page de profil plus personnelle, plus riche et voil&#224; que je
-faisais partie de la communaut&#233; et que je pouvais retrouver mes potes.
-Grisant. </p>
+sacr&#233;e promesse ! Un ou deux groupes marrants, l&#8217;inscription &#224;
+quelques Network pour parfaire mon profil puis quelques applications pour rendre
+la page de profil plus personnelle, plus riche et voil&#224; que je faisais
+partie de la communaut&#233; et que je pouvais retrouver mes potes. Grisant.
+</p>
 
 Puis avec le temps, mon Facebook s&#8217;est enfl&#233; comme une baudruche.
 Alors que je ne me servais de Facebook que pour discuter avec quelques amis je
@@ -42,7 +42,7 @@ Heureusement j&#8217;avais d&#233;couvert la fonction de blocage des
 applications. J'en avais bloqu&#233; plus de 180 et m&#234;me si j'avais
 toujours quelques invitations chaque soir cela constituait un r&#233;pis.
 L'augmentation du nombre de visiteur permit &#224; Facebook d&#8217;obtenir un
-nouveau statut officiel&nbsp;: application grand public. Reportages
+nouveau statut officiel : application grand public. Reportages
 t&#233;l&#233;vis&#233;s, d&#233;bat, couvertures de magasines… ce qui
 n&#8217;&#233;tait rien d&#8217;autre qu&#8217;une gigantesque cours de
 r&#233;cr&#233; pour 90 % des utilisateurs est devenu la coqueluche des
@@ -51,8 +51,8 @@ m&#233;diatisation dit toujours plus d&#8217;inscrits, toujours plus
 d&#8217;applications d&#233;biles et moins de contenu int&#233;ressant. De plus
 les m&#233;dias qui essaient d&#8217;analyser le ph&#233;nom&#232;ne n&#8217;ont
 pas les comp&#233;tences ou la qualit&#233; d'investigation requise pour le
-faire. Ils mettent ainsi en avant le plus &#233;vident&nbsp;: l'aspect
-&quot;copains d'avant&quot;, les applications et un ou deux
+faire. Ils mettent ainsi en avant le plus &#233;vident : l'aspect &quot;copains
+d'avant&quot;, les applications et un ou deux
 [arrivistes culott&#233;s et affabulateurs](http://www.zdnet.fr/actualites/reseau-social-un-president-fantoche-pour-facebook-39377023.htm)
 rapidement d&#233;nonc&#233;s.
 

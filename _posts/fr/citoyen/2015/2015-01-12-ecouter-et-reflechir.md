@@ -17,14 +17,14 @@ jours.
 > celui dont on parle est justement le musulman – je suppose que tous les autres
 > ne l’étaient pas alors pour eux c’est juste de la discipline. Pour le musulman
 > par contre, c’est forcément à cause de la religion.  
->  <cite>["Le désarroi d’une prof qui parle de «&nbsp;Charlie&nbsp;» à ses élèves – Amalgame au quotidien"](https://n.survol.fr/n/le-desarroi-dune-prof-qui-parle-de-charlie-a-ses-eleves-amalgame-au-quotidien),
+>  <cite>["Le désarroi d’une prof qui parle de "Charlie" à ses élèves – Amalgame au quotidien"](https://n.survol.fr/n/le-desarroi-dune-prof-qui-parle-de-charlie-a-ses-eleves-amalgame-au-quotidien),
 > Eric Daspet</cite>
 
 ---
 
 > — Dans la majorité des quartiers musulmans, il ne se passe rien.  
 > — Intéressant cette notion de "quartier musulman", tu veux parler de quartier
-> populaire&nbsp;?  
+> populaire ?  
 > — Oui, c'est pareil. Enfin c'est souvent comme ça, quoi.
 
 ---
@@ -33,14 +33,14 @@ jours.
 > — En même temps, à force de croire qu'il y a 30 % de musulmans en France, ça
 > choque quand on se rend compte que c'est pas le cas.  
 > — Moi ce que j'aimerais bien comprendre, c'est comment il compte "voir" des
-> musulmans. Ils ont des badges&nbsp;? Comment ça se passe&nbsp;?
+> musulmans. Ils ont des badges ? Comment ça se passe ?
 
 ---
 
 > — On manifeste parce qu'on s'identifie. Ces victimes, c'est un peu nous. C'est
 > une attaque contre les valeurs de la France.  
 > — Tu sais combien de victimes a fait Merah en tirant à la sortie des écoles
-> juives&nbsp;?  
+> juives ?  
 > — Je vois pas le rapport…  
 > — Le rapport, c'est que ces juifs étaient aussi français que les journalistes
 > de Charlie. Mais il n'y avait pas 3 millions de personne dans les rues pour
@@ -52,7 +52,7 @@ jours.
 > vie pour la nôtre.  
 > — Oui, ils risquent leur vie pour nous. Dommage qu'on ne les respecte par
 > toujours.  
-> — De quoi tu parles&nbsp;?  
+> — De quoi tu parles ?  
 > — Des gens qui les ont traité d'assassins quand Rémi Fraisse est mort,
 > oubliant que ça pouvait être une erreur, impardonnable certes, mais une erreur
 > quand même.  

@@ -18,12 +18,12 @@ slug: jaime-les-artistes-nouveau-bulletin-de-larmee-ditalie
 
 [Comme je le disais](/2009/03/hadopi-les-pirates-ont-bon-dos/), le gouvernement
 utilise l'homographie existant entre deux notions pour substituer deux
-populations qui n'ont rien à voir&nbsp;: le citoyen qui télécharge un mp3 et le
+populations qui n'ont rien à voir : le citoyen qui télécharge un mp3 et le
 pirate qui
 _[qui contourne ou détruit les protections d’un logiciel, d’un ordinateur ou d’un réseau informatique](http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19990402&pageDebut=03905&pageFin=&pageCourante=03907)._
 
 Il n'y a qu'une façon de vous dire ce que je pense de ce site. Pour cela, je
-vais reprendre une autre définition&nbsp;:
+vais reprendre une autre définition :
 
 > "Ensemble des actions menées dans le cadre d'une stratégie de communication
 > par un pouvoir politique ou militaire pour influencer la population dans sa
@@ -32,7 +32,7 @@ vais reprendre une autre définition&nbsp;:
 > divers moyens tout au long de l'histoire dans les régimes politiques
 > institutionnalisés."
 
-Vous avez trouvé de quel mot il s'agissait&nbsp;? Oui, il s'agit bien de la
+Vous avez trouvé de quel mot il s'agissait ? Oui, il s'agit bien de la
 définition du mot [Propagande](https://fr.wikipedia.org/wiki/Propagande).
 
 \_ \_

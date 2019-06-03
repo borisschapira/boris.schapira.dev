@@ -10,8 +10,8 @@ metro. "Je suis poursuivi", "Je suis convoitée", "Je suis adulé"… Des phrase
 issues de jeunes BAC+5 ayant fait leur recherche d'emploi sur les sites de
 l'annonceur…
 
-On y apprend ainsi le bestiaire stéréotypé des cadres moyens&nbsp;: l'ingénieur
-en sécurité informatique est un paranoïaque adepte du noir et entouré de l'aura
+On y apprend ainsi le bestiaire stéréotypé des cadres moyens : l'ingénieur en
+sécurité informatique est un paranoïaque adepte du noir et entouré de l'aura
 mystique du hacker. Son collègue des télécoms est un glandeur mégalo qui confond
 plage et bureau tandis qu'il se balance sur sa chaise. Quant au commercial,
 c'est avant tout une femme qui évolue dans un décor mièvre et passe sa journée à

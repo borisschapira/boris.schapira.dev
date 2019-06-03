@@ -6,36 +6,35 @@ tags:
 ---
 
 C'est un peu mon sujet récurrent du moment mais pour une fois ce n'est pas ma
-faute&nbsp;: c'est celle d'un sondeur qui m'a appelé ce matin pour me demander
-ce que je pensais des grèves en série… le pauvre.
+faute : c'est celle d'un sondeur qui m'a appelé ce matin pour me demander ce que
+je pensais des grèves en série… le pauvre.
 
 <!-- more -->
 
-> — Bonjour Mr Schapira, je ne vous dérange pas&nbsp;?  
+> — Bonjour Mr Schapira, je ne vous dérange pas ?  
 > — Bonjour. Vous me réveillez.  
 > [silence]  
 > — Désolé de vous déranger mais je représente…
 
 Il m'introduit le nom de son institut (BVS ou un truc comme ça. Je me réveille
 doucement tandis qu'il balance son discours préparé), puis enchaine des
-questions sur les grèves en cours et à venir&nbsp;:
+questions sur les grèves en cours et à venir :
 
-> — Que pensez-vous des revendications des grévistes&nbsp;?  
-> — Lesquels&nbsp;?  
+> — Que pensez-vous des revendications des grévistes ?  
+> — Lesquels ?  
 > — Oui, excusez-moi, que pensez-vous des grèves qui ont lieu dans les transport
-> en commun&nbsp;?  
-> — Ce que je pense des grèves ou des grévistes&nbsp;?  
+> en commun ?  
+> — Ce que je pense des grèves ou des grévistes ?  
 > — Attendez. Recommençons. Que pensez-vous des revendications des salariés qui
-> font grève dans les transports en commun&nbsp;?  
+> font grève dans les transports en commun ?  
 > — Ça dépend quelle grève.  
-> — Pardon&nbsp;?  
+> — Pardon ?  
 > — Vous parlez des grèves autour des régimes spéciaux ou de celle pour la
-> réévaluation des salaires&nbsp;?  
+> réévaluation des salaires ?  
 > — Celles sur les régime spéciaux, excusez-moi.  
 > — Donc vous me demandez ce que je pense des revendications de ceux qui font la
 > grève pour que le gouvernement les inclut dans les discussions autour de la
-> réforme ou de ceux qui font la grève pour conserver leur régime
-> spécial&nbsp;?  
+> réforme ou de ceux qui font la grève pour conserver leur régime spécial ?  
 > — Ecoutez, Mr Schapira, si vous ne voulez pas participer, dites-le tout de
 > suite.  
 > — Je suis ravi de participer, mais posez-moi des vraies questions. Je suis

@@ -4,7 +4,7 @@ title: 'La solution au malaise social ?'
 
 **1\. Trouver des coupables et les rabaisser**
 
-> Les responsables sont connus&nbsp;; les coupables aussi. Un public composé en
+> Les responsables sont connus ; les coupables aussi. Un public composé en
 > grande partie de jeunes Français issus de l'immigration maghrébine, qui voient
 > là l'occasion de se défouler. La culture de l'excuse conduit Marie-George
 > Buffet et quelques rares politiques à leur trouver de bonnes raisons (ratés de
@@ -24,11 +24,11 @@ title: 'La solution au malaise social ?'
 
 **3\. Déporter le problème là où il se verra moins**
 
-> François Fillon avait donné le ton dès hier matin&nbsp;: «&nbsp;Il aurait
-> fallu arrêter le match&nbsp;», gronde le Premier ministre. Dans la foulée, son
-> secrétaire d’État aux Sports, Bernard Laporte, allait plus loin, recommandant
-> de ne plus disputer à Paris de matchs avec les ex-colonies du Maghreb. Sa
-> proposition&nbsp;? Les jouer «&nbsp;chez eux ou alors en province&nbsp;».
+> François Fillon avait donné le ton dès hier matin : "Il aurait fallu arrêter
+> le match", gronde le Premier ministre. Dans la foulée, son secrétaire d’État
+> aux Sports, Bernard Laporte, allait plus loin, recommandant de ne plus
+> disputer à Paris de matchs avec les ex-colonies du Maghreb. Sa proposition ?
+> Les jouer "chez eux ou alors en province".
 >
 > [Le Parisien](http://www.leparisien.fr/une/marseillaise-huee-80-des-francais-choques-16-10-2008-277626.php)
 

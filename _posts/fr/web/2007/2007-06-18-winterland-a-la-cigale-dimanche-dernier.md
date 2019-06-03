@@ -17,7 +17,7 @@ découvertes sur le Net.
 
 Un manque de tact de la part des organisateurs qui ont clairement privilégié les
 groupes ayant un potentiel commercial (c'est-à -dire finalement assez proche des
-standars radio, mais n'était-ce pas ici le but&nbsp;?), mais tout de même une
+standars radio, mais n'était-ce pas ici le but ?), mais tout de même une
 excellente occasion, pour cet encore jeune groupe qui répète dans les locaux du
 Club Musique de l'ESIEE-Paris de montrer son talent et de se faire repérer. Ils
 ont cette fois-ci perdu devant des groupes qui, moins idéalistes, avaient mis

@@ -20,4 +20,4 @@ Quelques mots des deux papas du bébé (Daniel Marhely et Jonathan Benassaya) :
 > auteurs, compositeurs, maisons de disques,…) via les revenus publicitaires
 > générés.
 
-Longue vie à Deezer&nbsp;!
+Longue vie à Deezer !

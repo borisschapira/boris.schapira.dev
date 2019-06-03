@@ -6,9 +6,9 @@ tags:
     - Web
 ---
 
-Microsoft l'a annoncé au Mix 2007&nbsp;: le projet Astoria va révolutionner le
-Web. Oui, bon, on nous l'a déjà faite cent fois celle-là , alors on va creuser
-un peu plus le concept…
+Microsoft l'a annoncé au Mix 2007 : le projet Astoria va révolutionner le Web.
+Oui, bon, on nous l'a déjà faite cent fois celle-là , alors on va creuser un peu
+plus le concept…
 
 Pour l'instant, les pages web sont composées d'une partie statique, c'est-à
 -dire qui ne change pas et dont le code est visible chez l'internaute tel que le
@@ -17,17 +17,17 @@ lorsque l'internaute le veut.
 
 Par exemple, sur ce blog, la façon dont sont agencés les articles ou le design
 général de la page est plus ou moins statique. Par contre, les articles sont
-dynamiques&nbsp;: lorsque vous demandez la page, votre navigateur chargera
-toujours le même design, mais les 10 derniers articles affichés peuvent être
-différents suivant l'heure de votre requête.
+dynamiques : lorsque vous demandez la page, votre navigateur chargera toujours
+le même design, mais les 10 derniers articles affichés peuvent être différents
+suivant l'heure de votre requête.
 
-Pour l'instant, cet «&nbsp;ailleurs&nbsp;» où sont stockés les éléments
-dynamiques (et croyez moi si je vous dis que presque tous les sites que vous
-visitez en contiennent) est assez contraignant à aller chercher. Il faut avoir
-quelques bases (rien de bien méchant mais tout de même) ne serait-ce que pour
-gentiment demander ses données à la machine qui les stocke, et je ne vous parle
-même pas de les manipuler pour les afficher un peu différement (par exemple si
-on voulait n'afficher que l'intro des articles).
+Pour l'instant, cet "ailleurs" où sont stockés les éléments dynamiques (et
+croyez moi si je vous dis que presque tous les sites que vous visitez en
+contiennent) est assez contraignant à aller chercher. Il faut avoir quelques
+bases (rien de bien méchant mais tout de même) ne serait-ce que pour gentiment
+demander ses données à la machine qui les stocke, et je ne vous parle même pas
+de les manipuler pour les afficher un peu différement (par exemple si on voulait
+n'afficher que l'intro des articles).
 
 Le projet Astoria est un projet d'incubation visant à démocratiser ces accès et
 traitements. Pour l'instant il se définit par la possibilité de requêter ses

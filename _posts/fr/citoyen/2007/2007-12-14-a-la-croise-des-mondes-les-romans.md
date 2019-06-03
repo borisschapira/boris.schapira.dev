@@ -1,5 +1,5 @@
 ---
-title: '«&nbsp;A la Croisée des Mondes&nbsp;», Philip Pullman'
+title: '"A la Croisée des Mondes", Philip Pullman'
 tags:
     - Littérature
 ---
@@ -11,9 +11,9 @@ revanche, les romans sont excellents dans les deux langues.
 
 <!-- more -->
 
-Avant de commencer, je tiens à vous prévenir&nbsp;: n'allez pas sur Wikipédia
-pour avoir des informations sur cette saga. L'article s'attarde énormément sur
-le côté polémique de l'œuvre et se permet de dévoiler certaines informations
+Avant de commencer, je tiens à vous prévenir : n'allez pas sur Wikipédia pour
+avoir des informations sur cette saga. L'article s'attarde énormément sur le
+côté polémique de l'œuvre et se permet de dévoiler certaines informations
 capitales… c'est maladroit.
 
 Ce qu'il y a en revanche de très bien est à l'initiative de l’équipe de
@@ -33,10 +33,10 @@ activités de son oncle Lord Asriel dans le Grand Nord, pays des ours en armure.
 S'en suivent de nombreuses rencontres extraordinaires avec des gitans, des
 sorcières et bien d'autres personnages que vous aurez, j'espère, l'occasion de
 découvrir. Vous en apprendrez plus sur les dæmons ainsi que sur le phénomène
-mystérieux qui inquiète tant les scientifiques que les religieux&nbsp;: la
+mystérieux qui inquiète tant les scientifiques que les religieux : la
 "Poussière".
 
-## Pourquoi en parler&nbsp;?
+## Pourquoi en parler ?
 
 On y trouve, et c'est une chose rare dans les romans de Fantasy, une importante
 mise en valeur des femmes. Qu'elle soit sauveuse de l'humanité, sage tentatrice
@@ -52,7 +52,7 @@ foi en Dieu prend au contraire le dessus sur la pensée individuelle et critique
 Je pense que je lirais d'ici peu quelques-uns des romans pour me faire ma propre
 idée.
 
-## Et le film&nbsp;?
+## Et le film ?
 
 J'espère que l'adaptation cinéma ne se laissera pas aller à la niaiserie car les
 romans sont loin d'être des modèles de littérature infantile. Au contraire, j'ai

@@ -17,7 +17,7 @@ Deux petits calculs s'imposent.
 
 Un automobiliste A roule à 100km/h sur 480m, freine de manière linéaire jusqu'à
 70km/h sur 20m, puis stabilise sa vitesse sur 200m. Cet automobiliste a une
-vitesse moyenne de&nbsp;:
+vitesse moyenne de :
 
 ```
 700/(480/100+20/85+200/70) = 88,69 km/h
@@ -26,7 +26,7 @@ vitesse moyenne de&nbsp;:
 Un automobiliste B rel&acirc;che l'accélérateur et freine progressivement de
 100km/h à 90km/h sur 500m, puis stabilise sa vitesse sur les 200m suivants (et
 sur la suite du trajet, puisqu'il n'a pas ressenti la frustration du coup de
-frein imposé). B a alors une vitesse moyenne de&nbsp;:
+frein imposé). B a alors une vitesse moyenne de :
 
 ```
 700/(500/95+200/90) = 93,5km/h

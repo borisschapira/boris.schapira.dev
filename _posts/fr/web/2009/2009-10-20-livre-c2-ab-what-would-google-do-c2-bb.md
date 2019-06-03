@@ -25,7 +25,7 @@ pertinentes et je pense que certaines propositions méritent d'être considéré
 (je pense notamment à la _Google-ification_ des restaurants, à mon avis une
 riche idée). Mais l'ouvrage est horriblement redondant, comme si Jarvis essayait
 d'étaler au travers de 40 exemples les principes qu'il énumère au cours des 50
-premières pages&nbsp;:
+premières pages :
 
 -   produire du gratuit
 -   offrir une grande réactivité

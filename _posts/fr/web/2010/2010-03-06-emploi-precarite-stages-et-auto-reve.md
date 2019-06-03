@@ -19,9 +19,9 @@ et beaucoup de travail ne suffisent pas à devenir entrepreneur. Ça se réfléc
 certains luttent pour un CDI qui en coûte deux à l'employeur, d'autres
 prostituent leurs services pour faire vivre leur auto-entreprise.
 
-Mais comment leur en vouloir&nbsp;? Après des années passées à se faire prendre
-pour des cons dans des stages qui n'en sont pas, sous-rémunérés et
-sur-responsabilisés&nbsp;?
+Mais comment leur en vouloir ? Après des années passées à se faire prendre pour
+des cons dans des stages qui n'en sont pas, sous-rémunérés et
+sur-responsabilisés ?
 
 > Défonce-toi et tu auras peut-être un CDD ou un CDI après un renouvellement de
 > ton stage de 6 mois. On changera juste l'intitulé du poste pour que tu fasses

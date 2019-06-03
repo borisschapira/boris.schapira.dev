@@ -8,18 +8,18 @@ slug: mariage-annule-les-politiques-prolongent-le-cauchemar-de-la-mariee
 
 Je tiens à féliciter personnellement le sous-ensemble de la classe politique
 française qui s'opposait à l'annulation de mariage. Grâce à ces courageux hommes
-et femmes, la mariée (peut-on encore l'appeler ainsi&nbsp;?) va subir les joies
-d'un second procès qui démarrera certainement en septembre (l'été n'étant pas
-propice à l'actualité, autant garder le meilleur pour la rentrée).
+et femmes, la mariée (peut-on encore l'appeler ainsi ?) va subir les joies d'un
+second procès qui démarrera certainement en septembre (l'été n'étant pas propice
+à l'actualité, autant garder le meilleur pour la rentrée).
 
 Dans ce second procès, le parquet tentera de prouver que la non-virginité n'est
 pas une raison suffisante pour annuler un mariage, déplaçant ainsi le débat d'un
 problème de confiance entre époux à un problème de fesse et de religion.
-L'ex-mariée s'est déclarée indignée, instrumentalisée, mais elle n'y pourra
-rien&nbsp;: journalistes, politiques et associations ont décidé de se servir
-d'elle pour vendre, faire voter et rallier à leur cause.
+L'ex-mariée s'est déclarée indignée, instrumentalisée, mais elle n'y pourra rien
+: journalistes, politiques et associations ont décidé de se servir d'elle pour
+vendre, faire voter et rallier à leur cause.
 
-L'argument récurrent est le même qu'en tout combat politique&nbsp;: ceux qui
+L'argument récurrent est le même qu'en tout combat politique : ceux qui
 défendent cette annulation sont présentés comme d'incorrigibles conservateurs
 dont les courants de pensée sont soit teintés d'Islam, soit dépassés par
 l'époque. Les mots utilisés sont violents, empruntant même librement à un

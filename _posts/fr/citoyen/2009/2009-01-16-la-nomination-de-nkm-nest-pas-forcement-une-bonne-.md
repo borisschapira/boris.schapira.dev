@@ -7,8 +7,7 @@ slug: la-nomination-de-nkm-nest-pas-forcement-une-bonne-nouvelle
 ---
 
 **Et si finalement, la nomination de NKM n'était pas une bonne nouvelle pour le
-Web&nbsp;? Réfléchissons à la suite d'évènement qui a amené à cette
-nomination…**
+Web ? Réfléchissons à la suite d'évènement qui a amené à cette nomination…**
 
 Xavier Bertrand devant quitter son poste pour prendre la direction de l'UMP,
 Nicolas Sarkozy a orchestré un remaniement de l'équipe gouvernementale. Grand
@@ -19,14 +18,13 @@ Ministre
 [aux critiques de l'opposition et aux mépris de nombreux français](http://www.lefigaro.fr/flash-actu/2009/01/14/01011-20090114FILWWW00511-bilan-immigration-truque-et-inhumain.php).
 Il fallait quelqu'un qui n'a pas peur d'être haï tout en sachant rester fidèle à
 Nicolas Sarkozy. Eric Besson était le candidat idéal. Mais qui pour lui succéder
-au poste de secrétaire d'État chargé du développement de l'Economie
-Numérique&nbsp;?
+au poste de secrétaire d'État chargé du développement de l'Economie Numérique ?
 
-Le nom de Fréderic Lefebvre commence à circuler… Problème&nbsp;: Lefebvre fait
-peur. Son discours est bien trop radical et ses détracteurs très nombreux sur le
-web. Il faut dire que l'homme a la langue bien pendue et cela lui joue parfois
-des tours quand un journaliste taquin s'amuse à poser des questions sur le
-sujet… Lefebvre est peut-être qualifié en Economie, mais le personnage énerve et
+Le nom de Fréderic Lefebvre commence à circuler… Problème : Lefebvre fait peur.
+Son discours est bien trop radical et ses détracteurs très nombreux sur le web.
+Il faut dire que l'homme a la langue bien pendue et cela lui joue parfois des
+tours quand un journaliste taquin s'amuse à poser des questions sur le sujet…
+Lefebvre est peut-être qualifié en Economie, mais le personnage énerve et
 [la Toile ne rate pas une occasion](http://blog.lefigaro.fr/hightech/2008/12/quand-frederic-lefebvre-pille.html)
 d'en faire ses choux gras, d'autant que
 [l'homme politique est actionnaire majoritaire d'un cabinet de lobbying](http://www.lexpress.fr/actualite/politique/a-la-crois-eacute-e-des-couloirs_480371.html).
@@ -67,13 +65,13 @@ chaines publiques par une taxe sur les revenus du Web.
 Armée d'un tel entourage, NKM s'oppose complètement à Lefebvre et nul ne doute
 que sa nomination sera bien accueillie sur la Toile. Mais
 [qu'en est-il de sa crédibilité ](http://www.liberation.fr/politiques/2009/01/15/nkm-a-l-economie-numerique-conflit-d-interet_302835)?
-Tout comme Lefebvre, il lui sera constamment reproché d'être sous
-influence&nbsp;: celle de son frère
+Tout comme Lefebvre, il lui sera constamment reproché d'être sous influence :
+celle de son frère
 [que l'on commence déjà à interroger sur ses compétences](http://www.lexpress.fr/actualite/politique/nathalie-kosciusko-morizet-connait-bien-internet-selon-son-frere_731958.html).
 Quel crédit pourra-t-on accordée à NKM lorsqu'elle abordera la régulation du
-Net, la taxation des FAI ou l'adoption des technologies libres&nbsp;? Condamnée
-à se taire sous peine d'être accusée de conflit d'intérêt, NKM risque d'être
+Net, la taxation des FAI ou l'adoption des technologies libres ? Condamnée à se
+taire sous peine d'être accusée de conflit d'intérêt, NKM risque d'être
 contrainte à appliquer sans un mot les volontés du Gouvernement…
 
 Et si finalement, la nomination de NKM n'était pas une bonne nouvelle pour le
-Web&nbsp;?
+Web ?

@@ -24,7 +24,7 @@ formaliser davantage certains processus, voire de les automatiser.
 Plus précisément, avec l’arrivée depuis quelques années de librairies
 HTML/CSS/JS très ciblées dans leurs objectifs, il devient de plus en plus
 intéressant de construire son projet <span lang="en">front</span> comme on
-construisait avant son projet <span lang="en">back</span> : en architecturant sa
+construisait avant son projet <span lang="en">back</span> : en architecturant sa
 solution à partir de dépendances et d’un processus de compilation permettant de
 produire la solution qui les utilisera au mieux.
 
@@ -39,7 +39,7 @@ moins suivra-t-il une syntaxe de gestion sémantique des versions lui permettant
 de déterminer la meilleure version à installer pour chaque librairie).
 
 Imaginons par exemple que vous ayez besoin de <span lang="en">jQuery UI</span>.
-Un simple :
+Un simple :
 
 <pre><code class="bash">bower install jquery-ui --save</code></pre>
 
@@ -60,7 +60,7 @@ version.
 UI</span> dans le répertoire de dépendances. Que se passera-t-il donc si on
 demande à <strong>Bower</strong> d’installer une autre librairie, ayant
 également <span lang="en">jQuery</span> comme dépendance, mais dans une autre
-version ? <strong>Bower</strong> ne saura pas répondre et aura besoin d’une
+version ? <strong>Bower</strong> ne saura pas répondre et aura besoin d’une
 confirmation humaine pour déterminer s’il doit conserver la version de
 <span lang="en">jQuery</span> déjà téléchargée ou la remplacer par l’autre
 version. Au développeur de prendre sa décision.
@@ -69,7 +69,7 @@ Ce comportement est souvent décrié par une partie de la communauté
 <span lang="en">front</span>, notamment celle proche de
 <span lang="en">npm</span>, le gestionnaire de paquet lié à
 <span lang="en">node</span>. Pourtant, le fonctionnement de
-<strong>Bower</strong> est tout à fait logique quand on comprend son objectif :
+<strong>Bower</strong> est tout à fait logique quand on comprend son objectif :
 être un gestionnaire de dépendances pour le <span lang="en">front</span>, tout
 le <span lang="en">front</span>.
 
@@ -78,7 +78,7 @@ Car autant il est désormais admis dans la communauté
 contextes bien séparés (il y a quelques années, on écrivait des plugins
 <span lang="en">jQuery</span> aux responsabilités limitées, désormais on
 préférera travailler avec des modules CommonJS), autant le monde CSS est moins
-bien loti : impossible, pour l’instant((Avec l’émergence des <span lang="en">Web
+bien loti : impossible, pour l’instant((Avec l’émergence des <span lang="en">Web
 Components</span>, on devrait voir arriver ce genre de choses, mais cela ne sera
 probablement pas d’usage courant avant plusieurs années encore, si ça l’est un
 jour.)), de charger une feuille de style spécifique pour ne l’appliquer qu’à une
@@ -90,7 +90,7 @@ d’une librairie CSS.
 Un autre problème levé par cette démarche, c’est qu’elle impose une mécanique de
 pensée au développeur qui, par économie d’effort, cherchera à provoquer le moins
 de conflits possible entre les dépendances. Quoi de plus efficace pour cela que
-de réduire son nombre de dépendances ?
+de réduire son nombre de dépendances ?
 
 Sans forcément penser à mal, le développeur en viendra alors souvent à l’exact
 opposé de ce qui était voulu en installant des dépendances monolithiques et très
@@ -114,7 +114,7 @@ utilisez ou en changeant le système de numérotation des versions((Ces pratique
 extrêmement déconseillées par l’ensemble des développeurs, arrivent
 malheureusement régulièrement.)).
 
-Autre détail ayant son importance : <strong>Bower</strong> rapatrie sur le poste
+Autre détail ayant son importance : <strong>Bower</strong> rapatrie sur le poste
 du développeur l’intégralité des fichiers du dépôts source, et pas uniquement
 les fichiers nécessaires (y compris les fichiers permettant à l’auteur de votre
 dépendance de la générer). Cette installation systématique de fichiers n’ayant
@@ -123,7 +123,7 @@ d’espace disque, certains auteurs n’hésitant pas à versionner leurs builds
 le dépot lui-même((Une autre pratique rare, mais que nous avons déjà
 rencontré.)).
 
-## Bower dans votre architecture projet ?
+## Bower dans votre architecture projet ?
 
 D’abord, <strong>Bower</strong> nécessite ses propres dépendances, dont
 <span lang="en">node</span>. L’information est triviale mais peut avoir du sens
@@ -142,13 +142,13 @@ développement <span lang="en">front</span>. Vous avez peut-être déjà un
 gestionnaire de dépendances dans votre projet <span lang="en">PHP</span>,
 <span lang="en">Ruby</span>, <span lang="en">C#</span>,
 <span lang="en">Java</span>… pourquoi ne pas envisager de l’utiliser pour le
-<span lang="en">front</span> ? Par exemple, si vous utilisez Compass pour
+<span lang="en">front</span> ? Par exemple, si vous utilisez Compass pour
 compiler votre code SASS, vous utilisez déjà <span lang="en">RubyGems</span>.
 
-## Faut-il utiliser <strong>Bower</strong> ?
+## Faut-il utiliser <strong>Bower</strong> ?
 
 Maintenant que vous en connaissez les limitations et si elles n’entrent pas en
-conflit avec la façon dont vous gérez vos projets : pourquoi pas ?
+conflit avec la façon dont vous gérez vos projets : pourquoi pas ?
 
 En revanche, si vous l’utilisez pour un projet que vous vous apprêtez à livrer
 entre les mains d’un tiers, soyez vigilant sur la bonne documentation du

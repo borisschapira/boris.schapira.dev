@@ -7,20 +7,20 @@ tags:
 ---
 
 J'ai tenté d'expliquer dans un précédent article les raisons de la crise des
-Subprimes. Depuis, les choses ont évolué et il est nécessaire d'aller un peu
+Subprimes. Depuis, les choses ont évolué et il est nécessaire d'aller un peu
 plus loin dans la compréhension des personnages…
 
-Pour ceux qui auraient peur de la longeur de l'article&nbsp;: pas de panique, ça
-se lit vite.
+Pour ceux qui auraient peur de la longeur de l'article : pas de panique, ça se
+lit vite.
 
 ---
 
 C'est d'abord l'histoire de Mickael. Mickael est marié. Il a trois enfants, peu
 de revenus, et sa voiture vient de le lâcher. Il souscrit un prêt auprès d'une
 banque qui lui explique que dans sa situation précaire, seul un prêt à taux
-élevé est possible. Mickael acquiesce&nbsp;: il devra rembourser les intérêts
-dans les deux ans puis le solde la troisième année… mais il ne sait pas trop
-s'il y arrivera…
+élevé est possible. Mickael acquiesce : il devra rembourser les intérêts dans
+les deux ans puis le solde la troisième année… mais il ne sait pas trop s'il y
+arrivera…
 
 ---
 
@@ -28,8 +28,8 @@ Mary et son conjoint viennent d'acheter une maison et n'ont pas encore eu le
 temps de mettre de côté des fonds pour financer un deuxième grand projet qui
 leur tient pourtant à cœur et pour lequel une occasion en or se présente. Comme
 ils sont sérieux et que la maison qu'ils possèdent prend de la valeur, leur
-banquier accepte de leur prêter de l'argent, en échange d'une caution&nbsp;:
-leur bien immobilier.
+banquier accepte de leur prêter de l'argent, en échange d'une caution : leur
+bien immobilier.
 
 ---
 
@@ -57,11 +57,11 @@ personnes sont dans situation de Mickael. Elle décide donc de les vendre.
 
 Tayaka conseille un fond d'investissement asiatique. Elle suit l'activité et
 voit que de nombreux fonds, comme celui de Lucia, vendent leurs titres. Elle
-décide des les vendre aussi mais c'est déjà trop tard&nbsp;: tout le monde
-semble savoir que ces titres s'effondrent et personne ne veut les acheter.
-Tayaka décide donc de les vendre en les groupant avec d'autres titres, plus
-intéressants, quitte à les brader légèrement. «&nbsp;Une petite perte maintenant
-vaut mieux qu'une grosse plus tard&nbsp;», se dit-elle.
+décide des les vendre aussi mais c'est déjà trop tard : tout le monde semble
+savoir que ces titres s'effondrent et personne ne veut les acheter. Tayaka
+décide donc de les vendre en les groupant avec d'autres titres, plus
+intéressants, quitte à les brader légèrement. "Une petite perte maintenant vaut
+mieux qu'une grosse plus tard", se dit-elle.
 
 ---
 

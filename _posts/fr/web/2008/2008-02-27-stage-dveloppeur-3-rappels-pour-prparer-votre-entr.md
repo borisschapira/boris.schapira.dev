@@ -18,7 +18,7 @@ slug: stage-dveloppeur-3-rappels-pour-prparer-votre-entretien
     Quelques notions, m&#234;me tr&#232;s vagues, pourront vous permettre de
     mieux comprendre votre interlocuteur et de lui faire comprendre que vous
     &#234;tes r&#233;ellement int&#233;ress&#233;.
-3.  **R&#233;visez vos fondamentaux**&nbsp;: les bases de la POO, les BDD, soyez
+3.  **R&#233;visez vos fondamentaux** : les bases de la POO, les BDD, soyez
     &#224; l&#8217;aise pour parler de technologies Web ou de CSS si le poste le
     requiert. Bref, pr&#233;parez-vous &#224; donner des r&#233;ponses
     pertinentes qui montreront non pas que vous savez d&#233;velopper, mais

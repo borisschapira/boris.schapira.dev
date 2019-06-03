@@ -25,19 +25,19 @@ réactions postérieures au vote d'excessives et de caricaturales, puis les
 considère comme l'expression d'une "_méfiance viscérale pour tout ce qui vient
 du peuple_". Si je trouve que les Suisses ont fait preuve d'islamophobie en
 votant la semaine dernière, est-ce donc que je suis un clown exagérant le
-résultat d'une expression démocratique&nbsp;? Je ne m'en rendais vraiment pas
-compte&nbsp;!
+résultat d'une expression démocratique ? Je ne m'en rendais vraiment pas compte
+!
 
 Maintenant qu'il est établi que je suis un ennemi du peuple, Nicolas Sarkozy
 s'appuie sur le vote suisse pour justifier le besoin d'un débat national (en
 France, cette fois) sur l'identité nationale. Le glissement est subtil et
 suffisamment flou pour ne pas que l'on puisse précisément y identifier la
-bascule mais le constat final est sans appel&nbsp;: il y a, pour Nicolas
-Sarkozy, un paradoxe entre identité nationale et islam induisant une perte des
-repères français… manifestement chrétiens. Le mot est laché&nbsp;: la France, et
-plus généralement l'Europe, sont des "_civilisation[s] chrétienne[s]_" qui
-justifient qu'on les protège à coup de tirades présidentielles écrites dans Le
-Monde à destination des "_compatriotes musulmans_"
+bascule mais le constat final est sans appel : il y a, pour Nicolas Sarkozy, un
+paradoxe entre identité nationale et islam induisant une perte des repères
+français… manifestement chrétiens. Le mot est laché : la France, et plus
+généralement l'Europe, sont des "_civilisation[s] chrétienne[s]_" qui justifient
+qu'on les protège à coup de tirades présidentielles écrites dans Le Monde à
+destination des "_compatriotes musulmans_"
 ([les juifs feraient bien de s'inquiéter](http://www.lefigaro.fr/editos/2009/12/03/01031-20091203ARTFIG00019-minarets-l-europe-doit-changer-son-regard-sur-l-islam-.php),
 leur répit ne saurait durer).
 
@@ -47,13 +47,14 @@ l'idée vient de bien plus haut et cela m'inquiète d'autant plus. La liberté d
 culte est une valeur à laquelle je tiens particulièrement. Non pas que cela me
 concerne particulièrement, puisque je suis agnostique, mais parce que sa remise
 en question pose la question du renfermement sur soi, du cloisonnement de la
-pensée sur un modèle unique. Evidemment, à quelques semaines d'élections
+pensée sur un modèle unique. Evidemment, à quelques semaines d'élections
 importantes, cela n'étonne plus. Les réflexes idéologiques justifiant les pires
 élans de conservatisme sont davantage qu'un choix idéologique. Il y a évidemment
 dans cette communication la volonté politique de "ratisser large" à droite aux
 prochaines élections. Après tout, la gauche ne fait-elle pas pareil en
 s'abaissant devant
-[celui qui insulta les harkis](http://www.lefigaro.fr/politique/2009/12/10/01002-20091210ARTFIG00135-georges-freche-met-le-ps-face-a-ses-contradictions-.php)&nbsp;?
+[celui qui insulta les harkis](http://www.lefigaro.fr/politique/2009/12/10/01002-20091210ARTFIG00135-georges-freche-met-le-ps-face-a-ses-contradictions-.php)
+?
 
 Décidement, il y a quelques choses qui ne tourne pas rond en France. J'en
 connais une qui doit cependant être ravie. Quand tous les français à qui on aura

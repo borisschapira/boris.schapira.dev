@@ -4,9 +4,9 @@ slug: data-structures-and-algorithms-en-telechargement-gratuit
 ---
 
 Vous ne retrouvez plus les avantages et les inconvénients d'une **liste
-chaînée** par rapport à une **tableau dynamique**&nbsp;? Vous hésitez à
-équilibrer votre **arbre** et ne savez plus comment implémenter un **tri par
-base**. Voilà de quoi revoir vos classiques.
+chaînée** par rapport à une **tableau dynamique** ? Vous hésitez à équilibrer
+votre **arbre** et ne savez plus comment implémenter un **tri par base**. Voilà
+de quoi revoir vos classiques.
 
 <!-- more -->
 

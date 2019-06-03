@@ -12,5 +12,5 @@ tags:
 > pire, à celui déposé par le gouvernement au début de la procédure.  
 > <cite>[Authueil](http://www.authueil.org/?2009/03/04/1254-les-mefaits-de-l-urgence)</cite>
 
-Authueil a beau jouer les trolls, il a encore une
-fois [raison](http://www.assemblee-nationale.fr/13/rapports/r1589.asp).
+Authueil a beau jouer les trolls, il a encore une fois
+[raison](http://www.assemblee-nationale.fr/13/rapports/r1589.asp).

@@ -6,12 +6,11 @@ tags:
     - Web
 ---
 
-C'est annonc&#233; depuis quelques jours par l'&#233;quipe de
-d&#233;veloppement&nbsp;: une version en d&#233;veloppement d'Internet Explorer
-valide le test Acid2 de compatibilit&#233; CSS2\. Ca veut dire, dans les grandes
-lignes, qu'Internet Explorer 8 respectera les standards de la programmation Web
-d&#233;finit mondialement (ce qui n'est pas tout-&#224;-fait le cas
-aujourd'hui). </p>
+C'est annonc&#233; depuis quelques jours par l'&#233;quipe de d&#233;veloppement
+: une version en d&#233;veloppement d'Internet Explorer valide le test Acid2 de
+compatibilit&#233; CSS2\. Ca veut dire, dans les grandes lignes, qu'Internet
+Explorer 8 respectera les standards de la programmation Web d&#233;finit
+mondialement (ce qui n'est pas tout-&#224;-fait le cas aujourd'hui). </p>
 
 Cette &#233;volution (plus de d&#233;tails chez
 [Pinnula](http://www.pinnula.fr/news/01076-internet-explorer-8-passe-avec-succes-le-test-acid2/fr/))

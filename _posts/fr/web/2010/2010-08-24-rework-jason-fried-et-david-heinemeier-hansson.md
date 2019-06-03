@@ -15,7 +15,7 @@ alt=img_alt
 caption=img_caption
 %}
 
-<!-- more -->"Rework" compile une centaine de conseils accessibles à toute personne souhaitant créer ou développer une entreprise. Présenté comme un concentré des bonnes pratiques, il reprend l'essentiel des méthodologies agiles&nbsp;: Scrum évidemment, mais aussi GTD et même Kanban. S'y ajoutent les expériences de ses auteurs chez [37Signals](http://37signals.com/), start-up au succès reconnu, spécialisée dans le développement logiciel et les service associés. Motivant et facile à lire (comptez deux à trois jours en dilettante), le livre renouvelle le plaisir de la lecture en bousculant à chaque page les idées reçues sur le monde de l'entreprise, ce qu'il faut et ne faut pas faire, égratignant au passage le carcan des règles communément établies.
+<!-- more -->"Rework" compile une centaine de conseils accessibles à toute personne souhaitant créer ou développer une entreprise. Présenté comme un concentré des bonnes pratiques, il reprend l'essentiel des méthodologies agiles : Scrum évidemment, mais aussi GTD et même Kanban. S'y ajoutent les expériences de ses auteurs chez [37Signals](http://37signals.com/), start-up au succès reconnu, spécialisée dans le développement logiciel et les service associés. Motivant et facile à lire (comptez deux à trois jours en dilettante), le livre renouvelle le plaisir de la lecture en bousculant à chaque page les idées reçues sur le monde de l'entreprise, ce qu'il faut et ne faut pas faire, égratignant au passage le carcan des règles communément établies.
 
 Jason et David ont acquis une certaine notabilité entrepreneuriale, qui leur
 donne l'aplomb pour enfoncer des portes et casser des codes établis. Mais ce qui
@@ -32,8 +32,7 @@ prendre ce recul, d'être patient et de trouver parmi toutes ces nouvelles règl
 la combinaison la plus adaptée à son activité.
 
 "Rework" est un ouvrage qui pourra ainsi servir de support de réflexion, non de
-guide. Considéré en tant que tel (colibri&nbsp;?), il remplira parfaitement son
-rôle de grain de sable dans les rouages de l'organisation d'entreprise bien
-pensante.
+guide. Considéré en tant que tel (colibri ?), il remplira parfaitement son rôle
+de grain de sable dans les rouages de l'organisation d'entreprise bien pensante.
 
 [Voir la fiche Amazon.com](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745)

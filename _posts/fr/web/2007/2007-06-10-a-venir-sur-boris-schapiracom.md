@@ -9,7 +9,7 @@ title: 'A venir sur Boris-Schapira.com'
 -   Il faudrait que je finisse mes articles sur mes aventures à Boulogne… ma
     semi-inondation, mes aventures policières, mes galères de stationnement…
     bref, tous les trucs qui permettent aux autres bloggeurs de se foutre de moi
-    en soirée&nbsp;!
+    en soirée !
 -   Parler un peu de mon avenir professionnel, histoire de rappeler que jusqu'il
     n'y a pas longtemps, j'étais à la recherche d'un job et que peut-être très
     bientôt, ce ne sera plus le cas.
@@ -20,4 +20,4 @@ title: 'A venir sur Boris-Schapira.com'
     sujet technique pour ne pas passer pour un rigolo)
 -   Et toujours l'actu du moment vue par mes petits yeux de jeune actif.
 
-Bref, encore pas mal de choses à vous raconter&nbsp;!
+Bref, encore pas mal de choses à vous raconter !

@@ -6,10 +6,10 @@ tags:
     - Sharepoint
 ---
 
-Certaines questions sur SharePoint sont récurrentes&nbsp;: comment le connecter
-à des ERP comme SAP, Oracle Financials ou encore Siebel&nbsp;? Comment effectuer
-une recherche dans une base de données Lotus Notes&nbsp;? Quels webpart utiliser
-pour optimiser ces connections&nbsp;?
+Certaines questions sur SharePoint sont récurrentes : comment le connecter à des
+ERP comme SAP, Oracle Financials ou encore Siebel ? Comment effectuer une
+recherche dans une base de données Lotus Notes ? Quels webpart utiliser pour
+optimiser ces connections ?
 
 <!-- more -->
 

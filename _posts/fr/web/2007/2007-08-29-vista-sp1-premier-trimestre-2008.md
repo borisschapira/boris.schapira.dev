@@ -6,8 +6,8 @@ tags:
 ---
 
 Windows Vista &amp; Windows Server 2008 ont été construit à partir de la même
-souche de code, l'annonce suivante était donc des plus prévisibles&nbsp;: le
-**SP1 de Windows Vista sera disponible au premier trimestre 08**.
+souche de code, l'annonce suivante était donc des plus prévisibles : le **SP1 de
+Windows Vista sera disponible au premier trimestre 08**.
 
 <!-- more -->
 

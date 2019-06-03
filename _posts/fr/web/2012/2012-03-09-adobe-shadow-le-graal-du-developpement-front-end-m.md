@@ -10,11 +10,11 @@ slug: adobe-shadow-le-graal-du-developpement-front-end-mobile
 Adobe vient de publier la bêta de Shadow, un outil de développement facilitant
 les tests et la visualisation sur de multiples plate-formes. Basé sur un projet
 Open Source du nom de WeInRe, la solution d’Adobe arrive sur un marché émergent
-et concurrentiel, déjà occupé par le très
-récent [Chrome Beta for Android](http://www.androidcentral.com/chrome-beta-android-brings-remote-debugging-tools-mobile-web-developers) ou
-le plus éprouvé [Opera Dragonfly](http://www.opera.com/dragonfly/) (dont
-la [documentation](http://www.opera.com/dragonfly/documentation/remote/) est
-très complète).
+et concurrentiel, déjà occupé par le très récent
+[Chrome Beta for Android](http://www.androidcentral.com/chrome-beta-android-brings-remote-debugging-tools-mobile-web-developers)
+ou le plus éprouvé [Opera Dragonfly](http://www.opera.com/dragonfly/) (dont la
+[documentation](http://www.opera.com/dragonfly/documentation/remote/) est très
+complète).
 
 <!-- more -->
 
@@ -27,10 +27,10 @@ très complète).
 Avec Shadow, l’utilisateur peut brancher plusieurs périphériques (mobiles,
 tablettes…) sur son ordinateur de bureau et lancer la page qu’il souhaite
 tester. Une routine JavaScript se charge alors de maintenir la synchronisation
-entre le PC et les périphériques. Ce fonctionnement, qui rappellera à
-certains [LiveJS](http://www.livejs.com/), va néanmoins plus loin car il
-synchronise également les changements d’URLs (qui sont alors répercutés sur tous
-les périphériques) et le contenu du DOM des navigateurs périphériques. Ces DOM
+entre le PC et les périphériques. Ce fonctionnement, qui rappellera à certains
+[LiveJS](http://www.livejs.com/), va néanmoins plus loin car il synchronise
+également les changements d’URLs (qui sont alors répercutés sur tous les
+périphériques) et le contenu du DOM des navigateurs périphériques. Ces DOM
 peuvent alors être visualisés et modifiés en temps-réel via l’inspecteur WeInRe
 (fortement inspiré de l’inspecteur Webkit, vous ne serez pas dépaysés)
 disponible sur l’ordinateur de bureau.

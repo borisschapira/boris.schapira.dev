@@ -4,7 +4,7 @@ tags:
     - 'Me, myself and I'
 ---
 
-L'article sur [« Métronome » de Lorànt Deutsch](/2010/03/livre-metronome/) a
+L'article sur ["Métronome" de Lorànt Deutsch](/2010/03/livre-metronome/) a
 attiré l'attention d'Annabel Benhaiem, journaliste de L'Express qui m'a
 interviewé par téléphone début juin. Suite à ce sympathique échange et à ceux
 qu'elle a sans doute eu avec d'autres blogueurs et/ou lecteurs, elle a rédigé un

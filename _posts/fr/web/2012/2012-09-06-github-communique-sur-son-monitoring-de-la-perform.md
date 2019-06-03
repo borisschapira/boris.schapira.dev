@@ -20,7 +20,7 @@ dédié à la Performance Web.
 
 La société y présente notamment son tableau de bord dont le design est assez
 pertinent et les données traitées de manière statistiques. Mieux, elle y
-rappelle l’essentiel&nbsp;: un tableau de bord est fait pour informer, pas pour
+rappelle l’essentiel : un tableau de bord est fait pour informer, pas pour
 expliquer. L’explication se fait au moyen d’autres outils, plus fins, page par
 page et surtout, plus manuels.
 

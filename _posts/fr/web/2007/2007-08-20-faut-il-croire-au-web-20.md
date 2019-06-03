@@ -20,8 +20,8 @@ source d'information se retrouvant dangereusement concentrée dans un goulot
 d'étranglement est considérée par la masse comme une force de vérité absolue.
 Allant encore plus loin, on peut assimiler la croyance populaire en la véracité
 des produits collaboratifs à la foi ressentie à la lecture des Grands Livres
-religieux&nbsp;: le contenu y est là aussi clair et troublant d'omniscience,
-mais c'est bien les voix de multiples hommes imparfaits qui transpirent de ces
+religieux : le contenu y est là aussi clair et troublant d'omniscience, mais
+c'est bien les voix de multiples hommes imparfaits qui transpirent de ces
 ouvrages.
 
 Dès lors, nous assistons en ce moment à une véritable guerre de religions ayant
@@ -30,9 +30,9 @@ les autres… chacune voulant devenir la référence des autres
 ([Facebook](http://www.facebook.com/) semble aujourd'hui en tête de cette course
 à l'assimilation des services Web 2.0 ne sera-t-il pas assimilé lui aussi par
 des méta-moteurs de recherche d'individus comme
-[Spock](http://www.zabasearch.com)&nbsp;?).
+[Spock](http://www.zabasearch.com) ?).
 
-Le danger&nbsp;: cette croyance en l'intelligence collective qui rend l'individu
+Le danger : cette croyance en l'intelligence collective qui rend l'individu
 irresponsable (puisque masqué par le collectif). Mais plus grave est la
 gymnastique d'esprit pratiquée par ces croyants qui les pousse à accepter
 n'importe qui et n'importe quoi dans leur communauté, rabaissant au maximum le

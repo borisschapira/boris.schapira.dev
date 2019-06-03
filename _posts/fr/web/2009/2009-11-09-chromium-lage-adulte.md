@@ -7,12 +7,12 @@ tags:
     - Web
 ---
 
-A la maison, ma femme et moi avons une règle&nbsp;: je peux bidouiller ce que je
-veux sur l'ordinateur, tant que je lui permets d'avoir en permanence un
-navigateur qui fonctionne, qui contient sa bibliothèque de mots de passe et une
-connexion à [notre compte Delicious](https://delicious.com/BSchap) pour la
-gestion des favoris. J'ai donc décidé, il y a quelques mois, de lui laisser le
-meilleur navigateur que je connaissais&nbsp;:
+A la maison, ma femme et moi avons une règle : je peux bidouiller ce que je veux
+sur l'ordinateur, tant que je lui permets d'avoir en permanence un navigateur
+qui fonctionne, qui contient sa bibliothèque de mots de passe et une connexion à
+[notre compte Delicious](https://delicious.com/BSchap) pour la gestion des
+favoris. J'ai donc décidé, il y a quelques mois, de lui laisser le meilleur
+navigateur que je connaissais :
 [Firefox](https://www.mozilla.org/fr/firefox/new/). De mon côté, je me suis
 aventuré du côté du rapide mais encore très jeune
 [Google Chrome](https://www.google.fr/chrome/browser/).
@@ -39,9 +39,9 @@ Un
 est même disponible, tout comme des extensions GMail et Google Reader avec
 actualisation automatique du nombre de non-lus.
 
-Un vrai bonheur&nbsp;!
+Un vrai bonheur !
 
 Bref, si vous avez donné sa chance à Chrome il y a quelques mois pour vérifier
 les affirmations de Mountain View concernant les performances de son bébé,
 n'hésitez pas à tester les dernières compilations de Chromium, vous ne serez pas
-déçus&nbsp;!
+déçus !

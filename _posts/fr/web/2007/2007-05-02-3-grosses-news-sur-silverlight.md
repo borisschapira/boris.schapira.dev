@@ -21,7 +21,7 @@ On notera une certaine mise à l'honneur de Silverlight avec une bonne vingtaine
 de vidéos de prise en main de Silverlight (ex-WPF/E) (à voir
 [ici](http://msdn.microsoft.com/en-us/silverlight/bb187401.aspx) ou ici) où l'on
 apprend que la technologie est interopérable avec ASP.NET, PHP et JAVA (belle
-initiative&nbsp;!). Notons aussi l'ouverture d'un
+initiative !). Notons aussi l'ouverture d'un
 [nouveau service Live! dédié à Silverlight](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1414112705&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Fshowunauth%3D1%26rru%3Dinbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai),
 pour permettre aux développeurs de facilement intégrer des vidéos à leurs
 productions grâce à un service de streaming (pour les néophytes, disons que ce

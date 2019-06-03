@@ -1,5 +1,5 @@
 ---
-title: 'Scripts tiers&nbsp;: on ne lâche rien !'
+title: 'Scripts tiers : on ne lâche rien !'
 tags:
     - 'Scripts Tiers'
     - 'Performance Web'
@@ -14,7 +14,7 @@ de conformité aux politiques de développement interne, de maintenance… Chaqu
 inclusion est donc la conséquence d’une analyse du "pour" et du "contre"… à
 condition de savoir mesurer le "contre".
 
-[JS Manners](http://jsmanners.com) est un formulaire qui permet de noter les
+[JS Manners](http://jsmanners.com) est un formulaire qui permet de noter les
 scripts tiers, de manière à savoir où on met les pieds. Rien d’extrêmement
 innovant dans ce procédé que beaucoup d’entre nous pratiquions isolément, mais
 un vrai travail de rationalisation de la part d’Andrew Betts, son auteur, qu’on

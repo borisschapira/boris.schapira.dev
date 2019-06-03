@@ -9,7 +9,7 @@ Aujourd’hui, retour sur une question fondamentale : faut-il utiliser `Thread` 
 `ThreadPool` ?
 
 Contrairement à ce que la
-[francisation du mot anglais «&nbsp;thread&nbsp;»](https://fr.wikipedia.org/wiki/Processus_l%C3%A9ger)
+[francisation du mot anglais "thread"](https://fr.wikipedia.org/wiki/Processus_l%C3%A9ger)
 laisse entendre, la création de threads n’est pas vraiment sans conséquences. Si
 vous démarrez beaucoup de <span lang="en">threads</span> réalisant des tâches
 simples dont le seul objectif est d’être asynchrones, le coût de la création va

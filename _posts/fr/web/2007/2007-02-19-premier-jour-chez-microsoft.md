@@ -9,13 +9,13 @@ Microsoft France. Accueilli par Jean-Marc Sennechael, j'ai été conduit à trav
 quelques étapes administratives avant de profiter d'une présentation de la
 structure de cette grande entreprise et de mon rôle…
 
-Première surprise&nbsp;: il n'y a aucun bureau attribué. Chacun se positionne
-comme il veut sur des tables en libre accès. C'est très américain, semble-t-il
-mais au risque de paraître un peu bête, ça m'a perturbé au début… d'autant que
-tout le monde bouge tout le temps autour et s'exprime librement. Mais au final,
-c'est plutôt agréable&nbsp;: les personnes se parlent et on profite de la joie
-de vivre de ses collègues tout comme ils profitent de la vôtre. Ça perturbe
-quand même la concentration. Peut-être que ça passera après quelques jours…
+Première surprise : il n'y a aucun bureau attribué. Chacun se positionne comme
+il veut sur des tables en libre accès. C'est très américain, semble-t-il mais au
+risque de paraître un peu bête, ça m'a perturbé au début… d'autant que tout le
+monde bouge tout le temps autour et s'exprime librement. Mais au final, c'est
+plutôt agréable : les personnes se parlent et on profite de la joie de vivre de
+ses collègues tout comme ils profitent de la vôtre. Ça perturbe quand même la
+concentration. Peut-être que ça passera après quelques jours…
 
 Les locaux sont extrêmement bien éclairés à la fois par la lumière naturelle et
 des éclairages artificiels, offrant en permanence un confort visuel appréciable,

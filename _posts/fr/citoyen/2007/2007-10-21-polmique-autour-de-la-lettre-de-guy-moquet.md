@@ -4,7 +4,7 @@ title: 'Polémique autour de la «&#160;Lettre de Guy Moquet&#160;»'
 
 Lundi doit être lue aux lycéens la &quot;Lettre de Guy Moquet&quot; et on entend
 déjà plusieurs groupes enseignants qui se refusent à lire la lettre aux élèves.
-Mais pourquoi&nbsp;?
+Mais pourquoi ?
 
 ## Son passé
 
@@ -21,9 +21,9 @@ pour un jeune si politisé et si loin de leur propre réalité.
 
 Pas de quoi être fiers. Même si la France vivait l'occupation ce sont tout de
 même des français qui ont arrêté l'adolescent, qui l'ont jugé et désigné pour
-l'exécution allemande. Comment expliquer cela aux adolescents&nbsp;? Faut-il le
-leur cacher, leur dire qu'il a été abattu par l'occupant sans mentionner ce
-lourd héritage&nbsp;?
+l'exécution allemande. Comment expliquer cela aux adolescents ? Faut-il le leur
+cacher, leur dire qu'il a été abattu par l'occupant sans mentionner ce lourd
+héritage ?
 
 ## Celui qui l'a ressuscité
 
@@ -48,9 +48,8 @@ dans le présent) mais aussi parce que la lecture d'une lettre un jour ne
 changera pas fondamentalement la perception d'une matière (voir deux si on
 ajoute l'instruction civique) dans les yeux des lycéens le reste de l'année.
 
-Alors que faut-il faire&nbsp;? Ne pas lire la lettre&nbsp;? Non, je ne pense pas
-que ça serve à grand-chose si ce n'est à frustrer les élèves dont les amis leur
-en parleront plus tard. Non, autant la lire et leur donner une vraie
-explication, complète et sans vérités cachées, y compris sur le r&#xF4;le de la
-France collabo. Prévoir plusieurs dizaines de minutes pour répondre aux
-questions…
+Alors que faut-il faire ? Ne pas lire la lettre ? Non, je ne pense pas que ça
+serve à grand-chose si ce n'est à frustrer les élèves dont les amis leur en
+parleront plus tard. Non, autant la lire et leur donner une vraie explication,
+complète et sans vérités cachées, y compris sur le r&#xF4;le de la France
+collabo. Prévoir plusieurs dizaines de minutes pour répondre aux questions…

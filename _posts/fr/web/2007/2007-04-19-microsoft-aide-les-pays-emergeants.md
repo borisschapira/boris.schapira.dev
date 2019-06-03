@@ -30,5 +30,5 @@ point de vue mondial, ce sont près d'**un milliard d'utilisateurs** qui seraien
 concernés par cette offre, avec en ligne de mire pour Redmond l'objectif d'un
 milliard d'utilisateurs en plus avant 2015.
 
-Source&nbsp;:
+Source :
 [The New York Times](https://myaccount.nytimes.com/auth/login?URI=www-nc.nytimes.com/2007/04/19/technology/19soft.html&REFUSE_COOKIE_ERROR=SHOW_ERROR)

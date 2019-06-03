@@ -20,5 +20,5 @@ beaucoup de mémoire car il faut se rappeler de tout, tout ce qu'on a dit.
 {% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2017-06-16/of-course"
 alt="Jess (New Girl) dit : bien sûr que tu l'as fait !"
-caption="Oui, bien sûr&nbsp;!"
+caption="Oui, bien sûr !"
 %}

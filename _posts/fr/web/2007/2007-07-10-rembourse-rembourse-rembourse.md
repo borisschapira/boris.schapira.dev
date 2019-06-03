@@ -11,10 +11,10 @@ a lui-même qualifié "d'inacceptable" le nombre de consoles commercialisées ay
 subi des avaries même si la majorité des utilisateurs n'ont jamais rencontré le
 moindre problème.
 
-Symptôme&nbsp;: le cercle vert qui normalement entoure le bouton d'allumage
-devient rouge au 3/4 et noir au quart restant, et la console refuse de se
-rallumer. Après le célèbre Blue Screen of Death (BSoD pour les intimes), voici
-donc le "Red Ring of Death" comme le surnomment déjà grand nombre de fans déçus.
+Symptôme : le cercle vert qui normalement entoure le bouton d'allumage devient
+rouge au 3/4 et noir au quart restant, et la console refuse de se rallumer.
+Après le célèbre Blue Screen of Death (BSoD pour les intimes), voici donc le
+"Red Ring of Death" comme le surnomment déjà grand nombre de fans déçus.
 
 Microsoft a donc décidé d'étendre la garantie de 1 à 3 ans pour toutes les
 machines, y compris déjà vendues, et de rembourser les frais précédemment engagé

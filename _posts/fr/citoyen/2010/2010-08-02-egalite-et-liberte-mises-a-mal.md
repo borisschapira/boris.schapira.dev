@@ -15,4 +15,5 @@ au regard de son origine.
 [N'en déplaise au gouvernement](http://www.lemonde.fr/politique/article/2010/07/30/nicolas-sarkozy-met-la-decheance-de-nationalite-au-cœur-de-sa-politique-securitaire_1393949_823448.html '" Sarkozy met la déchéance de nationalité au cœur de sa politique sécuritaire " - Le Monde').
 Je ne doute pas que la Presse se fera l'écho de l'absurdité des propos de notre
 président.
-[Tant qu'elle le peut encore](http://www.numerama.com/magazine/16209_2-la-deputee-ump-marland-militello-veut-reguler-la-liberte-de-la-presse.html '" La députée UMP Marland-Militello veut réguler la liberté de la presse " - Numerama')&nbsp;!
+[Tant qu'elle le peut encore](http://www.numerama.com/magazine/16209_2-la-deputee-ump-marland-militello-veut-reguler-la-liberte-de-la-presse.html '" La députée UMP Marland-Militello veut réguler la liberté de la presse " - Numerama')
+!

@@ -57,10 +57,9 @@ comme la possibilité de personnaliser son profil ou celle de s’inscrire à
 l’activité d’un autre utilisateur.
 
 {% capture img_alt %}Un dessin représentant une chimère chat/poulpe, déguisée en
-développeur{% endcapture %} {% capture img_caption %}&laquo;&nbsp;The
-CoderCat&nbsp;&raquo;, un des très nombreux détournements de la mascotte de
-GitHub, l’Octocat, par Cameron McEfee.{% endcapture %}
-{% include rwd-image.html.liquid
+développeur{% endcapture %} {% capture img_caption %}&laquo; The CoderCat
+&raquo;, un des très nombreux détournements de la mascotte de GitHub, l’Octocat,
+par Cameron McEfee.{% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2013-11-14/2.jpg"
 alt=img_alt
 caption=img_caption
@@ -72,14 +71,15 @@ fulgurant. Arrivé au million d’utilisateurs en trois ans environ, GitHub en
 héberge désormais plus de trois millions et met moins de cinq mois à acquérir
 chaque million d’utilisateurs supplémentaire.
 
-Comment l’expliquer&nbsp;? La force de GitHub a été de proposer une plate-forme
+Comment l’expliquer ? La force de GitHub a été de proposer une plate-forme
 centralisée pour ces tâches qui, par définition, se produisent de pair à pair
 (en se basant sur Git) tout en offrant une interface sympathique (là où
 SourceForge est un peu poussiéreux) et des fonctionnalités qui complétaient
 l’offre classique (comme Gist, ou GitHub.io). Et tout cela en présentant des
 conditions d’utilisation très claires qui laissent la totale propriété du
 contenu produit à leurs auteurs, comme l'indiquent les
-[_Terms Of Service_](https://help.github.com/articles/github-terms-of-service/ 'GitHub Terms of Service')&nbsp;:
+[_Terms Of Service_](https://help.github.com/articles/github-terms-of-service/ 'GitHub Terms of Service')
+:
 
 > We claim no intellectual property rights over the material you provide to the
 > Service. Your profile and materials uploaded remain yours. However, by setting
@@ -87,18 +87,16 @@ contenu produit à leurs auteurs, comme l'indiquent les
 > Content. By setting your repositories to be viewed publicly, you agree to
 > allow others to view and fork your repositories.
 
-A cela s’ajoute qu’il est plus motivant de travailler à plusieurs que
-seul&nbsp;: les dépôts des comptes gratuits étant publics, ils sont autant
-d’invitation à venir lire la production de camarades ou de collègues et leur
-proposer des évolutions. Autre conséquence&nbsp;: une grande majorité des
-statistiques des personnes, des organismes ou des entreprises présentes sur
-GitHub sont publiques, permettant à GitHub de devenir un vrai CV d’aptitude
-auprès des communautés concernées.
+A cela s’ajoute qu’il est plus motivant de travailler à plusieurs que seul : les
+dépôts des comptes gratuits étant publics, ils sont autant d’invitation à venir
+lire la production de camarades ou de collègues et leur proposer des évolutions.
+Autre conséquence : une grande majorité des statistiques des personnes, des
+organismes ou des entreprises présentes sur GitHub sont publiques, permettant à
+GitHub de devenir un vrai CV d’aptitude auprès des communautés concernées.
 
 Mais si GitHub remporte autant de succès, c’est aussi qu’il intervient au bon
-moment&nbsp;: ce second âge d’or de l’Open Source. Ces dernières années ont vu à
-la fois naître des projets de qualité qui sont toujours en cours de
-développement
+moment : ce second âge d’or de l’Open Source. Ces dernières années ont vu à la
+fois naître des projets de qualité qui sont toujours en cours de développement
 ([Android](https://github.com/android 'Profil GitHub pour le projet Android'),
 [Hadoop](https://github.com/apache/hadoop-common 'Dépôt du projet Hadoop Common'),
 [MongoDb](https://github.com/mongodb/mongo 'Dépôt du projet MongoDB'), …) mais
@@ -114,20 +112,20 @@ gouvernements (comme le
 [les États-Unis](https://github.com/unitedstates 'Profil GitHub des États-Unis')).
 
 {% capture img_alt %}Un dessin représentant une chimère chat/poulpe, pasticheant
-la campagne &laquo;&nbsp;Yes We Can&nbsp;&raquo; de Barack Obama{% endcapture %}
-{% capture img_caption %}&laquo;&nbsp;The Baraktocat&nbsp;&raquo;, par Cameron
+la campagne &laquo; Yes We Can &raquo; de Barack Obama{% endcapture %}
+{% capture img_caption %}&laquo; The Baraktocat &raquo;, par Cameron
 McEfee{% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2013-11-14/3.jpg"
 alt=img_alt
 caption=img_caption
 %}
 
-L’inverse se produit également&nbsp;: des entreprises,
+L’inverse se produit également : des entreprises,
 [comme OVH](http://www.ovh.com/fr/a1136.interview-github-octave-klaba-ovh 'Interview d'),
-refusent que leurs salariés participent à des projets sur GitHub.
-Pourquoi&nbsp;? Tout simplement parce qu’elles reconnaissent la capacité de
-GitHub à valoriser un profil et craignent la fuite des cerveaux. Une opposition
-en forme de succès pour la plate-forme.
+refusent que leurs salariés participent à des projets sur GitHub. Pourquoi ?
+Tout simplement parce qu’elles reconnaissent la capacité de GitHub à valoriser
+un profil et craignent la fuite des cerveaux. Une opposition en forme de succès
+pour la plate-forme.
 
 ## Un business-model éprouvé
 
@@ -155,11 +153,11 @@ La problématique de la production distribuée d’un contenu au sein d’un pro
 n’est pas liée purement au monde du développement logiciel. Dans d’autres
 domaines, la production puis la mise en commun de contenus écrits à plusieurs
 mains relèvent du défi, car la culture et l’outillage Open Source n’existe pas.
-Et si une plate-forme comme GitHub pouvait solutionner ce problème&nbsp;?
+Et si une plate-forme comme GitHub pouvait solutionner ce problème ?
 
 Certains,
 [comme Loren](https://www.penflip.com/ "Article de Loren sur la possibilité d'étendre GitHub pour les écrivains"),
-ont déjà essayé d’imaginer l’utilisation de GitHub pour l’écriture&nbsp;:
+ont déjà essayé d’imaginer l’utilisation de GitHub pour l’écriture :
 
 -   L’auteur principal créé la structure basique d’un document et quelques
     éléments de base (branche _master_);
@@ -180,11 +178,11 @@ initiatives, plus orientées vers le design visuel ou industriel, la musique.
 C'est par exemple le cas de
 [Splice](https://splice.com/ 'Splice, plate-forme de production musicale collaborative'),
 qui devrait ouvrir ses portes prochainement. Y retrouvera-t-on les grands de
-l'Electro française (et mondiale)&nbsp;?
+l'Electro française (et mondiale) ?
 
 {% capture img_alt %}Un dessin représentant une chimère chat/poulpe, déguisée en
-un des Daft Punk{% endcapture %} {% capture img_caption %}&laquo;&nbsp;The
-Daftpunktocat (Thomas)&nbsp;&raquo;, par James Kang{% endcapture %}
+un des Daft Punk{% endcapture %} {% capture img_caption %}&laquo; The
+Daftpunktocat (Thomas) &raquo;, par James Kang{% endcapture %}
 {% include rwd-image.html.liquid
 path="/assets/images/2013-11-14/4.gif"
 alt=img_alt

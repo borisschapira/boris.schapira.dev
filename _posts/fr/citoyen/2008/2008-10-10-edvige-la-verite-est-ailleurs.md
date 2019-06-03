@@ -6,27 +6,27 @@ tags:
 
 On a beaucoup parlé d'EDVIGE. Certains sont contre et se font entendre,
 craignant la mise en place lente et silencieuse d'un État sécuritaire porteur de
-nombreuses dérives. Faut-il vraiment aller jusque-là&nbsp;?
+nombreuses dérives. Faut-il vraiment aller jusque-là ?
 
 **Fusion et refonte du Système d'Information**
 
 La Direction Centrale de la Sécurité Publique (fusion des Renseignements
 Généraux et de la DST) a procédé à un audit de son système d'information et a
-détecté plusieurs failles&nbsp;: redondances des données dans plusieurs bases
-dont les coûts de maintenance s'additionnent, aucune traçabilité des
-consultations, manque d'un référentiel commun sur la typologie des informations
-impliquant une mise en correspondance puis une nouvelle saisie manuelle à chaque
-transfert de données, persistance des données papiers…
+détecté plusieurs failles : redondances des données dans plusieurs bases dont
+les coûts de maintenance s'additionnent, aucune traçabilité des consultations,
+manque d'un référentiel commun sur la typologie des informations impliquant une
+mise en correspondance puis une nouvelle saisie manuelle à chaque transfert de
+données, persistance des données papiers…
 
-Traduction en langage non-technique&nbsp;: il y a des fiches partout car elles
-sont saisies plusieurs fois à plusieurs endroits différents, sur papier comme
+Traduction en langage non-technique : il y a des fiches partout car elles sont
+saisies plusieurs fois à plusieurs endroits différents, sur papier comme
 informatiquement.En plus d'être ingérable, cela coûte extrêmement cher au
 contribuable. Ajoutons que tout le monde peut les consulter à sa guise et au
 diable la vérification à priori ou à posteriori des informations. Bien sûr,
 comme on n'a aucune trace de leur date de saisie, on abandonne toute idée de
 péremption.
 
-Les objectifs de la refonte alors envisagée sont assez simples à énumérer&nbsp;:
+Les objectifs de la refonte alors envisagée sont assez simples à énumérer :
 
 1.  Unifier les informations écrites/numériques
 2.  Définir une
@@ -62,7 +62,7 @@ demande qu'on fasse une
 et propose même de le défendre
 [devant un organisme de contrôle indépendant](http://tempsreel.nouvelobs.com/).
 
-**Mais que fait la CNIL&nbsp;?**
+**Mais que fait la CNIL ?**
 
 Alors que
 [le Modem récupère la balle au bond](http://web.archive.org/web/20081020002935///www.mouvementdemocrate.fr:80/actualites/bayrou-modem-retrait-decret-edvige-100908.html?),
@@ -84,14 +84,13 @@ vient pas d'EDVIGE ou des autres fichiers gouvernementaux.
 
 EDVIGE est renseigné par les forces de l'ordre, dont les effectifs sont limités.
 Les informations contenues dans EDVIGE sont connues, même si elles prêtet à
-controverse. L'alimentation du fichier EDVIGE est asynchrone et
-dématérialisée&nbsp;: les données sont saisies après les faits depuis un endroit
-différent.
+controverse. L'alimentation du fichier EDVIGE est asynchrone et dématérialisée :
+les données sont saisies après les faits depuis un endroit différent.
 
 Facebook, Skyblogs, MySpace, LinkedIn, MyBlogLog… sont autant d'applications
 dont les bases recèlent de contenus illimités. L'alimentation en information est
 synchrone avec la réalité. Le type de contenu récupérable est potentiellement
 infini. Les données sont entretenues et parfois, localisées… Mais là personne ne
-dit rien…&nbsp;?
+dit rien… ?
 
 A suivre…

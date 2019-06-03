@@ -20,9 +20,9 @@ HTML5, quand je ne lis pas des bouquins sur le CSS. C'est très enrichissant).
 Au niveau personnel ensuite, puisqu'il va être temps pour me femme et moi de
 nous trouver une maison ou un appartement et que ça n'est pas une mince affaire
 à trouver (propriétaires d'un 75m² sur Bordeaux cherchant à vendre, n'hésitez
-pas à me contacter&nbsp;!). Je prends aussi un peu de temps pour m'amuser et je
+pas à me contacter !). Je prends aussi un peu de temps pour m'amuser et je
 re-découvre les jeux vidéos sur ma PS3 (une belle console moderne sur laquelle
-je joue aussi bien à _Uncharted2_ qu'à… _l'Odyssée d'Abe_&nbsp;!).
+je joue aussi bien à _Uncharted2_ qu'à… _l'Odyssée d'Abe_ !).
 
 Et puis revenir à Bordeaux, c'est aussi l'occasion de reprendre contact avec les
 amis perdus de vue. Ça n'est pas évident, après autant d'années d'absence, mais

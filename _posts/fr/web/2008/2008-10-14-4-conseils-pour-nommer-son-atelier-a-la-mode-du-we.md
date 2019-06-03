@@ -19,7 +19,7 @@ Rien de plus simple.
     autres pourcents. 20 pourcents répondront à leur mails en faisant semblant
     d'écouter. Les autres ne seront même pas dans les ateliers de réflexion,
     trop occupés par le buffet. Mais ils diront tous que c'était très
-    intéressant&nbsp;!
+    intéressant !
 3.  N'oublie pas de préciser l'année, tes invités, trop étourdis, pourraient se
     tromper de 365 jours dans leurs agendas (les idiots). Au pire, si tu dois en
     organiser une seconde dans les 12 mois, tu colleras "#2" derrière. Ça ne
@@ -27,9 +27,9 @@ Rien de plus simple.
     "#1 qui ne s'appelait pas encore comme ça hihi".
 4.  Tout cela doit bien évidemment sonner anglais, sinon tes invités du bout du
     monde ne pourront pas refuser de venir dans la langue de Shakespeare, et tu
-    ne pourras pas te faire comprendre de tes amis Facebook (ô rage&nbsp;!). Et
+    ne pourras pas te faire comprendre de tes amis Facebook (ô rage !). Et
     voilà, tu viens d'inventer la
 
 <span style="font-size: large">**BarKnackwurstCamp2008**</span>
 
-Incroyable comme ça sonne bien&nbsp;!
+Incroyable comme ça sonne bien !

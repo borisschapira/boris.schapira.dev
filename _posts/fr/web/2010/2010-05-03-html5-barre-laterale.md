@@ -26,10 +26,10 @@ contenu englobant. Il peut être utilisé pour des effets typographiques comme l
 citations incrustées, les barres latérales ou tout autre contenu pouvant être
 séparé du contenu principal.
 
-Après de telles définitions, le découpage est aisé&nbsp;: au sein d'une balise
+Après de telles définitions, le découpage est aisé : au sein d'une balise
 `section` définissant le corps du site, la barre latérale sera contenue dans un
 élément de type `aside`. Attention cependant, tout ce que contient votre barre
-latérale n'a pas vocation à être contenu dans un élément `nav`&nbsp;!
+latérale n'a pas vocation à être contenu dans un élément `nav` !
 
 {% capture img_alt %}Une capture de la sidebar du blog au moment où j'écris ces
 ligne, avec des zones numérotées{% endcapture %} {% capture img_caption %}La
@@ -52,4 +52,4 @@ aux liens externes.
 Comme vous le voyez dans cet exemple très simple, HTML5 apporte de nouvelles
 balises qui vous permettront de définir un meilleur découpage sémantique de vos
 contenus, facilitant leur identification par les navigateurs et améliorant
-l'accessibilité de votre site. Vivement demain&nbsp;!
+l'accessibilité de votre site. Vivement demain !

@@ -27,7 +27,7 @@ Je lis souvent des notes sur les conflits qui peuvent opposer Linux aux autre
 systèmes. Ces discussions ne m'intéressent pas énormément. En revanche, quand je
 lis un **article intéressant sur Linux**, ses distributions, ses utilisateurs (y
 compris les déçus -mais habitués- de Windows) et son devenir, je ne peux faire
-qu'une chose&nbsp;:
+qu'une chose :
 [le partager avec vous](http://www.framablog.org/index.php/post/2008/12/27/linux-influence-anciens-utilisateurs-windows).
 
 Bonne lecture.

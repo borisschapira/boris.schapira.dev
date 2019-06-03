@@ -17,14 +17,14 @@ entreprises et des pratiques.
 Rien, sauf une culture du numérique globalement défaillante au sein de la
 population. Cela se traduit par une **vision complètement paradoxale du
 numérique**. D'un côté, j'ai l'impression d'une très grande immaturité des
-personnes et des organisations&nbsp;: divulgation d'informations personnelles
-sur les réseaux sociaux ; entreprises qui se jettent à corps perdu sur Facebook
-sans savoir ce qu'elles y font ; nouvelle bulle French Tech qui finance des
-start-ups aux propositions de valeur nulles. De l'autre coté du miroir se
-manifestent les craintes les plus fortes, soulevées soit par un profond
-obscurantisme, soit par une volonté de contrôle désormais illusoire&nbsp;:
-manipulations politiques, mise sous surveillance généralisée du Web, résistance
-à l'innovation économique quand elle est destructrice de rentes ou de monopoles.
+personnes et des organisations : divulgation d'informations personnelles sur les
+réseaux sociaux ; entreprises qui se jettent à corps perdu sur Facebook sans
+savoir ce qu'elles y font ; nouvelle bulle French Tech qui finance des start-ups
+aux propositions de valeur nulles. De l'autre coté du miroir se manifestent les
+craintes les plus fortes, soulevées soit par un profond obscurantisme, soit par
+une volonté de contrôle désormais illusoire : manipulations politiques, mise
+sous surveillance généralisée du Web, résistance à l'innovation économique quand
+elle est destructrice de rentes ou de monopoles.
 
 J'ai le sentiment que mon devoir de **citoyen**, c'est de ne pas s'arrêter à ce
 constat. C'est une des raisons pour lesquelles je m'emploie chaque jour à aider
@@ -45,7 +45,7 @@ J'ai donc décidé de réfléchir plutôt à une approche plus légère et ouver
 transdisciplinarité. Je propose donc, depuis plusieurs mois, des activités à
 l'école de mes enfants et dans mon ancien lycée pour sensibiliser les étudiants
 à l'informatique et au numérique. Les approches sont différentes suivant les
-âges&nbsp;:
+âges :
 
 -   initiation à l'algorithmique chez les plus jeunes, par le biais de jeux et
     d'activités ;
@@ -60,17 +60,16 @@ Ci-dessous, quelques exemples.
 
 ## Education Civique
 
--   Informatique et libertés&nbsp;: un sujet qui aborde les notions de
-    citoyenneté, vie en collectivité, égalité et justice abordés en 4e
--   Internet comme un medium&nbsp;: rappel du rôle des médias et de la
-    protection assurée par leur pluralité. Notion de _doute_ sur les
-    informations trouvées et technique de recoupement.
--   Données personnelles&nbsp;: modélisation et traitement, ce qu'il est
-    possible de savoir sur vous sans le savoir…
--   Harcèlement&nbsp;: en ligne aussi, vous en êtes peut-être victime… ou
-    bourreau. Que faire&nbsp;?
--   Démocratie&nbsp;: de la démocratie représentative à la démocratie
-    participative
+-   Informatique et libertés : un sujet qui aborde les notions de citoyenneté,
+    vie en collectivité, égalité et justice abordés en 4e
+-   Internet comme un medium : rappel du rôle des médias et de la protection
+    assurée par leur pluralité. Notion de _doute_ sur les informations trouvées
+    et technique de recoupement.
+-   Données personnelles : modélisation et traitement, ce qu'il est possible de
+    savoir sur vous sans le savoir…
+-   Harcèlement : en ligne aussi, vous en êtes peut-être victime… ou bourreau.
+    Que faire ?
+-   Démocratie : de la démocratie représentative à la démocratie participative
 
 ## Philosophie
 
@@ -81,8 +80,8 @@ et Devoir, la Morale, l'Identité…
 ## Histoire-Géographie
 
 -   La Démocratie sous toute ses formes
--   Révolution industrielle, révolution numérique&nbsp;: impacts sur l'évolution
-    du marché de l'emploi et sur la (dé)centralisation
+-   Révolution industrielle, révolution numérique : impacts sur l'évolution du
+    marché de l'emploi et sur la (dé)centralisation
 
 ## Technologie
 
@@ -92,7 +91,7 @@ et Devoir, la Morale, l'Identité…
 
 ## Mathématiques et données
 
--   Calcul littéral, factorisation/développement&nbsp;: travail pratique
+-   Calcul littéral, factorisation/développement : travail pratique
     ([exemple avec Scratch](https://youtu.be/FNBDtxOlgnw))
 -   Usage des statistiques dans un exemple de calcul dédié à la publicité en
     ligne
@@ -100,7 +99,7 @@ et Devoir, la Morale, l'Identité…
 ## Français
 
 L'e-mail est-il une nouvelle forme de communication épistolaire ou s'inscrit-il
-dans l'immédiateté d'une conversation&nbsp;?
+dans l'immédiateté d'une conversation ?
 
 ---
 
@@ -111,8 +110,8 @@ carte_, et j'essaie d'investir les responsables d'établissement et les
 professeurs mais pour l'instant, j'ai assez peu de retour, même en proposant
 d'**offrir gratuitement** mes services.
 
-J'espère que cela va changer bientôt (si vous voulez aider&nbsp;: dialoguez avec
-les professeurs ou chefs d'établissement des établissement que vos enfants
+J'espère que cela va changer bientôt (si vous voulez aider : dialoguez avec les
+professeurs ou chefs d'établissement des établissement que vos enfants
 fréquentent). Il est urgent qu'une majorité de la population saisisse les
 opportunités et les risques du numérique pour arrêter de prendre des décisions
 basées sur des perceptions magiques.

@@ -30,10 +30,10 @@ Windows qui se suivaient et se ressemblaient, en ajoutant de nouvelles
 fonctionnalités bienvenue mais dont l’innovation était marginale du point de vue
 des usages.
 
-{% capture img_alt %}L’interface graphique fenêtrée&nbsp;: depuis la naissance
-de Windows, la GUI n’a pas énormément évolué{% endcapture %}
-{% capture img_caption %}L’interface graphique fenêtrée&nbsp;: depuis la
-naissance de Windows, la GUI n’a pas énormément évolué{% endcapture %}
+{% capture img_alt %}L’interface graphique fenêtrée : depuis la naissance de
+Windows, la GUI n’a pas énormément évolué{% endcapture %}
+{% capture img_caption %}L’interface graphique fenêtrée : depuis la naissance de
+Windows, la GUI n’a pas énormément évolué{% endcapture %}
 {% include rwd-image.html.liquid
 path="/assets/images/2013-05-14/1.png"
 alt=img_alt
@@ -70,29 +70,27 @@ avait bien eu des tentatives liées à la mobilité, très innovantes d’ailleu
 Microsoft avait investi le terrain dès 1992, mais elles n’étaient plus
 convaincantes face au révolutionnaire iPhone.
 
-{% capture img_alt %}Windows Mobile 5.0 Macallan (fin 2004)&nbsp;: l’interface
-de Windows Mobile était pensée pour la productivité bureautique et rien
+{% capture img_alt %}Windows Mobile 5.0 Macallan (fin 2004) : l’interface de
+Windows Mobile était pensée pour la productivité bureautique et rien
 d’autre{% endcapture %} {% capture img_caption %}Windows Mobile 5.0 Macallan
-(fin 2004)&nbsp;: l’interface de Windows Mobile était pensée pour la
-productivité bureautique et rien d’autre{% endcapture %}
-{% include rwd-image.html.liquid
+(fin 2004) : l’interface de Windows Mobile était pensée pour la productivité
+bureautique et rien d’autre{% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2013-05-14/2.png"
 alt=img_alt
 caption=img_caption
 %}
 
 Windows 8 (et Windows Phone) est né de ce manque, de cette absence. Microsoft
-expliquant au monde&nbsp;: "nos produits n’étaient pas pensés pour la mobilité
-et l’utilisation fun ou occasionnelle. Nos produits n’étaient pas adaptés à la
+expliquant au monde : "nos produits n’étaient pas pensés pour la mobilité et
+l’utilisation fun ou occasionnelle. Nos produits n’étaient pas adaptés à la
 façon dont vous souhaitez utiliser vos ordinateurs aujourd’hui. Nous vous avons
-écoutés, nous avons compris et voilà ce que nous vous proposons&nbsp;: Modern
-UI".
+écoutés, nous avons compris et voilà ce que nous vous proposons : Modern UI".
 
-{% capture img_alt %}L’écran d’accueil de Windows 8&nbsp;: l’écran d’accueil de
+{% capture img_alt %}L’écran d’accueil de Windows 8 : l’écran d’accueil de
 Windows 8 est un bel exemple d’interface &quot;Modern UI&quot; en Flat
-Design{% endcapture %} {% capture img_caption %}L’écran d’accueil de Windows
-8&nbsp;: l’écran d’accueil de Windows 8 est un bel exemple d’interface "Modern
-UI" en Flat Design{% endcapture %} {% include rwd-image.html.liquid
+Design{% endcapture %} {% capture img_caption %}L’écran d’accueil de Windows 8 :
+l’écran d’accueil de Windows 8 est un bel exemple d’interface "Modern UI" en
+Flat Design{% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2013-05-14/3.jpg"
 alt=img_alt
 caption=img_caption
@@ -116,11 +114,11 @@ les utilisateurs s’attendent à pouvoir conserver leurs habitudes. De la
 nouveauté, ils en veulent, mais tant que les logiciels Windows 98 continuent à
 s’exécuter.
 
-{% capture img_alt %}L’interface graphique fenêtrée de Windows 8&nbsp;: derrière
+{% capture img_alt %}L’interface graphique fenêtrée de Windows 8 : derrière le
+design Modern UI se dévoile une GUI Windows très classique{% endcapture %}
+{% capture img_caption %}L’interface graphique fenêtrée de Windows 8 : derrière
 le design Modern UI se dévoile une GUI Windows très classique{% endcapture %}
-{% capture img_caption %}L’interface graphique fenêtrée de Windows 8&nbsp;:
-derrière le design Modern UI se dévoile une GUI Windows très
-classique{% endcapture %} {% include rwd-image.html.liquid
+{% include rwd-image.html.liquid
 path="/assets/images/2013-05-14/4.png"
 alt=img_alt
 caption=img_caption
@@ -129,12 +127,12 @@ caption=img_caption
 Ainsi, le "problème" de Windows 8 ne vient pas nécessairement de sa nouvelle
 interface, il vient de la mixité forcée entre cette nouvelle ergonomie et
 l’ancienne. Il suffit de voir la plus grosse critique des utilisateurs de
-Windows envers cette nouvelle mouture&nbsp;: l’absence du bouton "Démarrer". Une
+Windows envers cette nouvelle mouture : l’absence du bouton "Démarrer". Une
 question que ne se posent probablement pas les utilisateurs de tablettes ou les
 utilisateurs "tactiles/occasionnels". C’est bien du monde "bureau" que vient le
 rejet.
 
-## Et pour le prochain Windows&nbsp;?
+## Et pour le prochain Windows ?
 
 {% capture img_alt %}Un Rubik's Cube{% endcapture %}
 {% capture img_caption %}Agencer les sensibilités peut-être un sacré
@@ -144,16 +142,15 @@ alt=img_alt
 caption=img_caption
 %}
 
-Faut-il faire table rase de ce Windows pour préparer le suivant&nbsp;? Non, bien
-sûr, et j’irais même plus loin en disant qu’il faudrait peu de choses pour
-redonner de la cohérence au produit. Il est juste nécessaire de séparer les
-usages. D’un côté, un Windows dédié aux tablettes et 100 % Modern UI (c’est déjà
-le cas de Windows RT, mais avec des contraintes de développement pénibles). De
-l’autre, un Windows en pur "bureau", sans mixité forcée avec la nouvelle
-interface et qui assure la rétro-compatibilité nécessaire à de nombreux usages
-bureautiques.
+Faut-il faire table rase de ce Windows pour préparer le suivant ? Non, bien sûr,
+et j’irais même plus loin en disant qu’il faudrait peu de choses pour redonner
+de la cohérence au produit. Il est juste nécessaire de séparer les usages. D’un
+côté, un Windows dédié aux tablettes et 100 % Modern UI (c’est déjà le cas de
+Windows RT, mais avec des contraintes de développement pénibles). De l’autre, un
+Windows en pur "bureau", sans mixité forcée avec la nouvelle interface et qui
+assure la rétro-compatibilité nécessaire à de nombreux usages bureautiques.
 
-Malheureusement, je sais également que ce que je préconise est impossible&nbsp;:
+Malheureusement, je sais également que ce que je préconise est impossible :
 toute division de la marque ou de la gamme nuira à l’image de marque de Windows,
 en plus de coûter très cher en maintenance à Microsoft. Mais imposer aux
 utilisateurs cette double interface ne fonctionnera pas longtemps. Nous avons
@@ -161,9 +158,9 @@ tous des schémas mentaux associés aux produits que nous utilisons. Deux schém
 pour un même produit, cela ne fonctionne pas.
 
 Alors il ne reste qu’une solution. Il faut prolonger le support de Windows 8
-(pour en faire une version rétro-compatible durable) et dans le futur
-Windows&nbsp;: achever le bureau, ou le réserver à une petite minorité
-d’utilisateurs en le désactivant par défaut.
+(pour en faire une version rétro-compatible durable) et dans le futur Windows :
+achever le bureau, ou le réserver à une petite minorité d’utilisateurs en le
+désactivant par défaut.
 
 Le risque est grand et Microsoft a beaucoup à perdre dans l’opération mais il
 n’y a qu’à ce prix que Redmond transformera l’essai de Modern UI et adressera

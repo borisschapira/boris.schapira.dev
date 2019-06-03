@@ -33,11 +33,11 @@ le potentiel et non la valeur, s'est bien trop détâché du réel et nécessite
 réajustements réguliers qu'on appelle "crise" et qui sont destructeurs, car
 difficilement identifiables. Il faut évidemment réguler, il faut évidemment
 mettre en place un "nouveau capitalisme" mieux connecté aux réalités. Mais que
-l'on ne s'y trompe pas&nbsp;: les acteurs du capitalisme d'aujourd'hui seront à
-peu de choses près ceux du capitalisme de demain.
+l'on ne s'y trompe pas : les acteurs du capitalisme d'aujourd'hui seront à peu
+de choses près ceux du capitalisme de demain.
 
 Le "tout financier" ne cèdera pas la place au "tout État". Si le libéralisme
 s'égare en financiarisation, en agences de notations, en effets de levier
 douteux et en actifs pourris, c'est que le chemin était mal balisé. N'est-il pas
 plus simple de tracer de nouvelles routes dans ce chaos que demander à ce qu'on
-le rase&nbsp;?
+le rase ?
