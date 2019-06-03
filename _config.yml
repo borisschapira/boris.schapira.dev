@@ -148,6 +148,7 @@ exclude:
   - "tmp"
   - "vendor"
   - "yarn.lock"
+  - _posts/**/*.json
   - _posts/**/*.jpg
   - _posts/**/*.jpeg
   - _posts/**/*.png
