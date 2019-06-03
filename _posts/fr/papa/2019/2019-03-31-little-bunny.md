@@ -1,6 +1,7 @@
 ---
 title: 'Bout de chou'
 i18n-key: little-bunny
+slug: bout-de-chou
 ---
 
 Ça fait plusieurs jours que ça le travaille, alors il a fini par nous en parler.

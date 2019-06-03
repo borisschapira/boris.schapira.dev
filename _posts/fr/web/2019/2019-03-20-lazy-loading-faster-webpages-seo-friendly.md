@@ -1,13 +1,14 @@
 ---
 title: 'Lazy Loading, des pages web plus rapides sans impact SEO'
 i18n-key: lazy-loading-faster-webpages-seo-friendly
-canonical: https://blog.dareboost.com/fr/2019/03/lazy-loading-des-pages-web-plus-rapides-sans-risque-seo/
+canonical: 'https://blog.dareboost.com/fr/2019/03/lazy-loading-des-pages-web-plus-rapides-sans-risque-seo/'
 tags:
     - 'Performance Web'
     - Images
     - SEO
 loadTwitterWjs: true
 cloudinary_logo: dareboost-logo
+slug: lazy-loading-des-pages-web-plus-rapides-sans-risque-seo
 ---
 
 Les images sont au cœur de votre site web ? Si vous prenez la performance de

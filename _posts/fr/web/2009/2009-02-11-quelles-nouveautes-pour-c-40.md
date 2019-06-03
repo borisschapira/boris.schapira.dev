@@ -27,7 +27,7 @@ développement :
 
 -   L’envie de développer sur
     [des langages de plus en plus déclaratifs](https://fr.wikipedia.org/wiki/Programmation_d%C3%A9clarative),
-    facilement compréhensibles.  Les développeurs peuvent ainsi se concentrer
+    facilement compréhensibles. Les développeurs peuvent ainsi se concentrer
     d’avantage sur ce qu'ils doivent faire, pas sur la façon dont ils pourront
     rendre leur
     [code impératif](https://fr.wikipedia.org/wiki/Programmation_imp%C3%A9rative)
@@ -44,7 +44,7 @@ développement :
     technologie multicores, et donc de maitriser les problématiques d’accès
     concurrent et de gestion de ressources démultipliées.
 
-C# 4.0 s’efforcera donc de répondre à l’ensemble de ses problématiques.  Il
+C# 4.0 s’efforcera donc de répondre à l’ensemble de ses problématiques. Il
 poursuivra le travail de C# 3.0 et continuera à promouvoir l'utilisation de
 [LINQ](http://msdn.microsoft.com/fr-fr/library/bb397933.aspx), afin de rendre le
 code facilement compréhensible. Il fournira également des capacités nouvelles en
@@ -78,7 +78,7 @@ dynamic calc = GetCalculator();
 int sum = calc.add(10,20);
 ```
 
-C’est pas franchement mieux ?  C# 4.0 introduira également les paramètres
+C’est pas franchement mieux ? C# 4.0 introduira également les paramètres
 optionnels et nommés (oui, il aura fallu un certain temps…). Plus la peine
 d’écrire des appels COM à rallonge (quel enfer), ou de développer 8 signatures
 d’une même méthode pour définir des valeurs par défaut.

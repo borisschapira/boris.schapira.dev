@@ -1,5 +1,5 @@
 ---
-title: 'Dictionnaire'
+title: Dictionnaire
 ---
 
 Depuis qu'il est rentré à l'école, le petit de 5 ans apprend beaucoup, beaucoup

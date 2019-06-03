@@ -20,7 +20,7 @@ Tu m'as déçu Franck. Si toi, qui dois connaitre le dossier mieux que personne,
 n'a pas réussi à me convaincre par ne serait-ce qu'une seule bonne réponse, qui
 le pourra&nbsp;? En effet, j'ai à redire sur tous les points abordés&nbsp;:
 
--   _La solution de l'amende est pour toi  "plus répressive et moins dissuasive
+-   _La solution de l'amende est pour toi "plus répressive et moins dissuasive
     que la suspension" et engendre de plus des inégalités suivant les revenus de
     l'internaute._ Bien sûr, l'idée même que certains internautes aient
     davantage besoin du web que d'autres (développeurs, professeurs qui y

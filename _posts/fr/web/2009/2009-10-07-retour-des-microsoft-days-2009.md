@@ -115,7 +115,7 @@ Nous nous sommes également retrouvé debout dans les couloirs venteux à de
 nombreuses reprises, interdits que nous étions de rentrer dans des salles vides,
 climatisées et bercées d'une ambiance musicale. Or contrairement au Tech Days,
 **il n'y a rien à faire aux MS Days entre les sessions**, à part du networking.
-Autant dire qu'on peut attendre jusqu'à 20 minutes devant une porte fermée  et
+Autant dire qu'on peut attendre jusqu'à 20 minutes devant une porte fermée et
 gardée par un hotesse (où attendre que l'hotesse tourne la tête de l'autre côté
 pour rentrer quand même, mais c'est mal).
 

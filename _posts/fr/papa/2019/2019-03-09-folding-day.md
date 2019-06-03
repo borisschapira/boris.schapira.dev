@@ -1,6 +1,7 @@
 ---
-title: 'Pliage'
-i18n-key: 'folding-day'
+title: Pliage
+i18n-key: folding-day
+slug: pliage
 ---
 
 Aujourd'hui, avec le grand, c'est pliage de linge. D'habitude, c'est quelque

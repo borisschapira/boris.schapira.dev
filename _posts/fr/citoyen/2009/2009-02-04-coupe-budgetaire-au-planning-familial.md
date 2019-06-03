@@ -34,6 +34,6 @@ vous mélanger les deux…
 Alors c'est sûr, ça va relancer la consommation de couches-culottes, de
 biberons, de talkie-walkie roses, de peluches et des tri-thérapies (ah oui,
 j'avais oublié de parlé de ça aussi). Mais si ça fait chuter le marché de la
-pilule,  du préservatif, des loisirs pour les jeunes (c'est moins facile avec un
+pilule, du préservatif, des loisirs pour les jeunes (c'est moins facile avec un
 enfant à charge) je ne suis pas sûr que ça fasse remonter le PIB… Et on ne parle
 même pas du **moral des français** !

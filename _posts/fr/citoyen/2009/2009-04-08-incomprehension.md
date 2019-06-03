@@ -25,6 +25,6 @@ s'adressait aux enfants de la vidéo, et tandis que les rires continuent, pleure
 seul et en silence dans un coin de la pièce.
 
 J'ai eu vent quelques heures plus tard de la situation. L'adolescent hospitalisé
-a subi une intervention chirurgicale  et a pu repartir avec sa famille. Il n'a
+a subi une intervention chirurgicale et a pu repartir avec sa famille. Il n'a
 jamais risqué la mort, mais sa famille ne pouvait pas le savoir : aucun d'entre
 eux ne parlait français.

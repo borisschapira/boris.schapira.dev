@@ -9,7 +9,7 @@ slug: la-route-sera-longue-mais-les-femmes-vont-apprecier
 La BCE réduit ses taux autant qu'elle peut (le taux directeur est passé de 4,25
 % à 2,50 % en cinq mois), prête davantage et plus longtemps et accepte un plus
 grand nombre d'actifs en garantie. L'État a souscrit des titres pour 10,5
-milliards d'euros  dont plus de 5 milliards ont déjà été fournis afin de
+milliards d'euros dont plus de 5 milliards ont déjà été fournis afin de
 renforcer les fonds propres de nos banques et la caisse de refinancement dispose
 d'une capacité totale d'emprunt-prêt de 320 milliards.
 

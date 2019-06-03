@@ -1,6 +1,6 @@
 ---
 title: 'Jésus et la salle de bain'
-i18n-key: 'jesus-bathroom'
+i18n-key: jesus-bathroom
 slug: jesus-et-la-salle-de-bain
 ---
 

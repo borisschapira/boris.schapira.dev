@@ -15,10 +15,10 @@ Voici la liste des améliorations&nbsp;:
     Microsoft, Windows Live Hotmail propose dorénavant le contrôle parental !
     Ainsi, les parents peuvent grâce au logiciel One Care Family Safety gérer
     les contacts de leurs enfants. Seuls les contacts autorisés par les parents
-    pourront être utilisés par les enfants et,  inversement, les enfants ne
+    pourront être utilisés par les enfants et, inversement, les enfants ne
     pourront recevoir des e-mails uniquement de la part des contacts autorisés.
--   **Capacité de stockage de  5Go pour les comptes gratuits et  à 10 Go pour
-    les comptes premium** : GMail, actuelle référence pour beaucoup, offre
+-   **Capacité de stockage de 5Go pour les comptes gratuits et à 10 Go pour les
+    comptes premium** : GMail, actuelle référence pour beaucoup, offre
     aujourd'hui 2,8Go.
 -   **Possibilité de répondre aux « rendez-vous » envoyés depuis Outlook**
 -   **Gestion des contacts** : l’assistant de gestion des contacts permet
@@ -27,7 +27,7 @@ Voici la liste des améliorations&nbsp;:
 -   <span>**Délais d’expiration de compte rallongés** : désormais, pour garder
     son compte Windows Live Hotmail actif, il suffit de se connecter seulement
     une fois tous les 120 jours au lieu de 90 jours</span>
--   <span>l’option de  **transfert automatique des e-mails** de certains
+-   <span>l’option de **transfert automatique des e-mails** de certains
     expéditeurs vers une autre adresse e-mail : les utilisateurs peuvent
     dorénavant sélectionner les expéditeurs, dont les e-mails seront
     automatiquement transférés de Windows Live Hotmail vers l’email de leur

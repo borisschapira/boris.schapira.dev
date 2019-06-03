@@ -51,7 +51,7 @@ Une autre démarche naturelle face au problème est de **renforcer l'information
 des investisseurs** sur les sous-jacents manipulés. Dans le cas d'une
 titrisation de type _subprimes_ par exemple, les risques auraient été moins
 difficiles à définir si l'information avaient été de meilleure qualité. Mais que
-faire pour les titres actuellement détenus par les banques,  à l'origine des
+faire pour les titres actuellement détenus par les banques, à l'origine des
 doutes d'aujourd'hui&nbsp;? L'AMF se propose d'étudier la possibilité de mettre
 en place d'un **système de centralisation des informations relatives aux
 échanges de produits structurés**. La question de la faisabilité reste cependant

@@ -49,7 +49,7 @@ Comme avant, 70 % du C.A. reviendra au développeur, Microsoft et ses partenaire
 télécoms se partageant les 30 % restant. Le paiement se fera sur une base
 mensuelle, à partir de 200\$ cumulés internationalement.
 
-### …  mais une validation de contenu toujours obligatoire
+### … mais une validation de contenu toujours obligatoire
 
 Malheureusement, si on trouve davantage de libertés au cœur des possibilités
 commerciales, il n'en est pas de même concernant la validation des applications
@@ -65,7 +65,7 @@ longue&nbsp;: décapitation, morceaux de corps, strangulation, manuels expliquan
 comment être violent avec un autre être humain… ils sont précis chez Microsoft).
 Même les injures sont interdites.
 
-De quoi voir de beaux dérapages,  à l'instar du MarketPlace d'Apple, avec des
+De quoi voir de beaux dérapages, à l'instar du MarketPlace d'Apple, avec des
 interdictions de dictionnaires (contenant forcément des références sexuelles et
 éventuellement des grossièretés), de jeux (GTA&nbsp;?) ou de manuels de karaté.
 Espérons que Microsoft saura être plus fin que la firme de Cupertino…

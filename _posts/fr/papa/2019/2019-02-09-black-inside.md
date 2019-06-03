@@ -1,6 +1,7 @@
 ---
-title: 'Noir'
-i18n-key: 'black-inside'
+title: Noir
+i18n-key: black-inside
+slug: noir
 ---
 
 Mon grand adore les Bleus. Il ne sait pas vraiment pourquoi – vu qu'il n'a

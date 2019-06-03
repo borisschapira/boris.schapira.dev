@@ -35,7 +35,7 @@ empruntée : c'est le taux d'intérêt.
 ## Comment l'État emprunte-t-il cet argent auprès des particuliers ?
 
 L'État propose des contrats d'emprunt où il s'engage à verser des intérêts
-pendant X années, puis à rembourser l'emprunt.  Le montant des intérêts est
+pendant X années, puis à rembourser l'emprunt. Le montant des intérêts est
 généralement exprimé en pourcentage du montant initial emprunté, mais pas
 toujours. On dit que l'État émet des titres et plus précisément, des Obligations
 d'État. La somme que l'investisseur reçoit chaque année est appelée coupon. Les

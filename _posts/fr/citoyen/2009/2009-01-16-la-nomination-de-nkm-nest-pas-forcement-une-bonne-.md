@@ -61,7 +61,7 @@ période de crise économique, à la création
 d'[un fonds d'investissement dédié à l'amorçage et au développement de startups Web](http://www.isai.fr/).
 Lobbyiste, il est membre de l'ACSIL et de
 [Renaissance Numérique](http://www.renaissancenumerique.org/), un Think Tank qui
-s'est récemment mis en avant en s'opposant  aux propositions de financement des
+s'est récemment mis en avant en s'opposant aux propositions de financement des
 chaines publiques par une taxe sur les revenus du Web.
 
 Armée d'un tel entourage, NKM s'oppose complètement à Lefebvre et nul ne doute
