@@ -18,14 +18,14 @@ end
 
 group :jekyll_plugins do
   gem 'classifier-reborn'
-  gem 'jekyll-algolia'
+  gem 'jekyll-algolia', :git => 'git@github.com:ashmaroli/jekyll-algolia.git', :branch => 'delete-key-not-reset'
   gem 'jekyll-archives'
   gem 'jekyll-commonmark', :git => 'https://github.com/ashmaroli/jekyll-commonmark/', :branch => 'highlighter-rouge'
   gem 'jekyll-cloudinary'
   gem "jekyll-include-cache"
   gem 'jekyll-microtypo'
   gem 'jekyll-paginate-v2', :git => 'https://github.com/borisschapira/jekyll-paginate-v2.git', :branch => 'default-values'
-  gem 'jekyll-pwa-plugin', :git => 'https://github.com/borisschapira/jekyll-pwa', :branch => 'workbox-4.3.0'
+  gem 'jekyll-pwa-plugin'
   gem 'jekyll-sitemap'
   gem 'jekyll-tagging-related_posts'
 end
