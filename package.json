@@ -89,7 +89,7 @@
     "node-sass": "^4.9.4",
     "normalize-scss": "^7.0.1",
     "npm": "^6.5.0",
-    "pixelmatch": "^4.0.2",
+    "pixelmatch": "^5.0.1",
     "pngjs": "^3.4.0",
     "postcss": "^7.0.5",
     "postcss-cli": "^6.0.0",
