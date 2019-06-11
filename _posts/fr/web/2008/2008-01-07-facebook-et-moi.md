@@ -13,6 +13,7 @@ sacr&#233;e promesse ! Un ou deux groupes marrants, l&#8217;inscription &#224;
 quelques Network pour parfaire mon profil puis quelques applications pour rendre
 la page de profil plus personnelle, plus riche et voil&#224; que je faisais
 partie de la communaut&#233; et que je pouvais retrouver mes potes. Grisant.
+
 </p>
 
 Puis avec le temps, mon Facebook s&#8217;est enfl&#233; comme une baudruche.
