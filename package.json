@@ -93,7 +93,7 @@
     "pngjs": "^3.4.0",
     "postcss": "^7.0.5",
     "postcss-cli": "^6.0.0",
-    "prettier": "^1.16.1",
+    "prettier": "^1.18.2",
     "puppeteer": "^1.17.0",
     "rmfr": "^2.0.0",
     "rss-parser": "^3.7.1",
