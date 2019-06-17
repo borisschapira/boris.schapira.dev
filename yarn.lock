@@ -2350,10 +2350,10 @@ duplexify@^3.4.2, duplexify@^3.6.0:
     readable-stream "^2.0.0"
     stream-shift "^1.0.0"
 
-easy-toggle-state@^1.9.5:
-  version "1.10.3"
-  resolved "https://registry.yarnpkg.com/easy-toggle-state/-/easy-toggle-state-1.10.3.tgz#a77bd18abcaf8f77d4e0f2bc18e5d715d1b84cc3"
-  integrity sha512-wbfgVQ8tx1AiVhgNqa5WHa3zMfx76G8rSawOYg5Bz4aUoiEfj7o/WnLYsHn7/OPtOQ1gCp0MbXIavNW8lMMRBQ==
+easy-toggle-state@^1.10.4:
+  version "1.10.4"
+  resolved "https://registry.yarnpkg.com/easy-toggle-state/-/easy-toggle-state-1.10.4.tgz#f68fb3333eddcf0b75f065440f1cd036b4f52e2f"
+  integrity sha512-l1Rwixj1G9u00a8XU41sFt5/hp2sv+gT/2MTU30dus2YrOLRSLtpGR8K4Qj073b8HbwpQosl6aE4NtkodVsqQw==
 
 ecc-jsbn@~0.1.1:
   version "0.1.2"

@@ -107,7 +107,7 @@
   },
   "dependencies": {
     "abbr-touch": "^2.1.6",
-    "easy-toggle-state": "^1.9.5",
+    "easy-toggle-state": "^1.10.4",
     "instantsearch.js": "^2.7.2",
     "jquery": "^3.4",
     "js-md5": "^0.7.3",
