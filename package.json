@@ -94,7 +94,7 @@
     "postcss": "^7.0.5",
     "postcss-cli": "^6.0.0",
     "prettier": "^1.16.1",
-    "puppeteer": "^1.17.0",
+    "puppeteer": "^1.18.0",
     "rmfr": "^2.0.0",
     "rss-parser": "^3.7.1",
     "uglify-es": "mishoo/UglifyJS2#harmony",
