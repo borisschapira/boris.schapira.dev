@@ -147,7 +147,7 @@ exclude:
   - "Rakefile"
   - "tmp"
   - "vendor"
-  - "yarn.lock"
+  - "package-lock.json"
   - _posts/**/*.json
   - _posts/**/*.jpg
   - _posts/**/*.jpeg
