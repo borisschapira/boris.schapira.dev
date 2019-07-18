@@ -21,7 +21,7 @@ group :jekyll_plugins do
   gem 'jekyll-algolia'
 # gem 'jekyll-algolia', :git => 'git@github.com:ashmaroli/jekyll-algolia.git', :branch => 'delete-key-not-reset'
   gem 'jekyll-archives'
-  gem 'jekyll-commonmark'
+  gem 'jekyll-commonmark', :git => 'https://github.com/jekyll/jekyll-commonmark/', :branch => 'master'
   gem 'jekyll-cloudinary'
   gem "jekyll-include-cache"
   gem 'jekyll-microtypo'

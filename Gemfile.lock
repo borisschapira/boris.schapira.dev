@@ -22,6 +22,15 @@ GIT
       jekyll (~> 3.0)
 
 GIT
+  remote: https://github.com/jekyll/jekyll-commonmark/
+  revision: 6c9ae3a9cc0f46762ffd6a361317a718a47fb47f
+  branch: master
+  specs:
+    jekyll-commonmark (1.3.1)
+      commonmarker (~> 0.14)
+      jekyll (>= 3.7, < 5.0)
+
+GIT
   remote: https://github.com/jekyll/jekyll.git
   revision: f3cb41b65ad70371e4cc750719c0789590e0bdfc
   ref: f3cb41b65ad70371e4cc750719c0789590e0bdfc
@@ -144,7 +153,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
-    rouge (3.5.1)
+    rouge (3.6.0)
     ruby-enum (0.7.2)
       i18n
     ruby_dep (1.5.0)
