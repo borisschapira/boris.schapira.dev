@@ -14,21 +14,21 @@ GIT
     liquid (4.0.3)
 
 GIT
-  remote: https://github.com/ashmaroli/jekyll-commonmark/
-  revision: 738206a6e9007037a1e3afa2d2d3fe036968ff46
-  branch: highlighter-rouge
-  specs:
-    jekyll-commonmark (1.2.0)
-      commonmarker (~> 0.14)
-      jekyll (~> 3.0)
-
-GIT
   remote: https://github.com/borisschapira/jekyll-paginate-v2.git
   revision: 3d4d25e9da713e377b8ba2ae690f2dca07fa2808
   branch: default-values
   specs:
     jekyll-paginate-v2 (2.1.0)
       jekyll (~> 3.0)
+
+GIT
+  remote: https://github.com/jekyll/jekyll-commonmark/
+  revision: 6c9ae3a9cc0f46762ffd6a361317a718a47fb47f
+  branch: master
+  specs:
+    jekyll-commonmark (1.3.1)
+      commonmarker (~> 0.14)
+      jekyll (>= 3.7, < 5.0)
 
 GIT
   remote: https://github.com/jekyll/jekyll.git
@@ -145,12 +145,12 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     progressbar (1.10.1)
-    public_suffix (3.1.0)
+    public_suffix (3.1.1)
     rake (12.3.2)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
-    rouge (3.4.1)
+    rouge (3.6.0)
     ruby-enum (0.7.2)
       i18n
     ruby_dep (1.5.0)
