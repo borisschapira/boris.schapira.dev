@@ -15,7 +15,9 @@ moves to better learn one of her routine in HOMECOMING? No problem.
 
 **Click and drag the following link in your favorites**:
 
-<!-- nomicrotypo --><a href="javascript:(function(){var b=Number(prompt('Video playback rate?','1'))%7C%7C1;Array.from(document.getElementsByTagName('video')).forEach(function(a){a.playbackRate=b;a.play()})})();" title="Manage Video Playback Rate">Manage Video Playback Rate</a><!-- endnomicrotypo -->
+<!-- nomicrotypo -->
+<a href="javascript:(function(){var b=Number(prompt('Video playback rate?','1'))%7C%7C1;Array.from(document.getElementsByTagName('video')).forEach(function(a){a.playbackRate=b;a.play()})})();" title="Manage Video Playback Rate">Manage Video Playback Rate</a>
+<!-- endnomicrotypo -->
 
 Then go to Netflix, HBO Now, Hulu, or pretty much any streaming service using
 HTML videos[^1], launch your favorite series or movie, and click it!
