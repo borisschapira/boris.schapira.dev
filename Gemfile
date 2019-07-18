@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 ruby '2.6.2' unless Gem.win_platform?
 
-gem 'jekyll', 
-  :git => 'https://github.com/jekyll/jekyll.git', 
+gem 'jekyll',
+  :git => 'https://github.com/jekyll/jekyll.git',
   :ref => "f3cb41b65ad70371e4cc750719c0789590e0bdfc"
 
 # Optimize Liquid compilation
@@ -18,7 +18,8 @@ end
 
 group :jekyll_plugins do
   gem 'classifier-reborn'
-  gem 'jekyll-algolia', :git => 'git@github.com:ashmaroli/jekyll-algolia.git', :branch => 'delete-key-not-reset'
+  gem 'jekyll-algolia'
+# gem 'jekyll-algolia', :git => 'git@github.com:ashmaroli/jekyll-algolia.git', :branch => 'delete-key-not-reset'
   gem 'jekyll-archives'
   gem 'jekyll-commonmark', :git => 'https://github.com/ashmaroli/jekyll-commonmark/', :branch => 'highlighter-rouge'
   gem 'jekyll-cloudinary'

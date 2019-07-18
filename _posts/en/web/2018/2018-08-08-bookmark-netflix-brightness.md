@@ -35,7 +35,9 @@ current page. To use it:
 
 Click and drag the following link in your bookmarks bar[^rename] :
 
-<!-- nomicrotypo --><a href="javascript:(function(){var a=prompt("Video brightness?","100%");a=/^\d+(\.\d+)?%$/.test(a)?a:"100%";Array.from(document.getElementsByTagName("video")).forEach(function(b){b.setAttribute("style",b.getAttribute("style")+"filter: brightness("+a+");")})})();" title="Manage Video Brightness">Manage Video Brightness</a><!-- endnomicrotypo -->
+<!-- nomicrotypo -->
+<a href="javascript:(function(){var a=prompt("Video brightness?","100%");a=/^\d+(\.\d+)?%$/.test(a)?a:"100%";Array.from(document.getElementsByTagName("video")).forEach(function(b){b.setAttribute("style",b.getAttribute("style")+"filter: brightness("+a+");")})})();" title="Manage Video Brightness">Manage Video Brightness</a>
+<!-- endnomicrotypo -->
 
 [^rename]:
 
