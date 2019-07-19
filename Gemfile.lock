@@ -14,6 +14,13 @@ GIT
     liquid (4.0.3)
 
 GIT
+  remote: https://github.com/borisschapira/jekyll-microtypo
+  revision: 81764c651afec161c14ecdcf7e35d2d212802053
+  specs:
+    jekyll-microtypo (1.1.0)
+      jekyll (>= 3.0, < 4.0)
+
+GIT
   remote: https://github.com/borisschapira/jekyll-paginate-v2.git
   revision: 3d4d25e9da713e377b8ba2ae690f2dca07fa2808
   branch: default-values
@@ -111,13 +118,8 @@ GEM
     jekyll-cloudinary (1.14.0)
       fastimage (~> 2.0)
       jekyll (~> 3.6)
-    jekyll-commonmark (1.3.1)
-      commonmarker (~> 0.14)
-      jekyll (>= 3.7, < 5.0)
     jekyll-include-cache (0.2.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-microtypo (1.1.0)
-      jekyll (>= 3.0, < 4.0)
     jekyll-pwa-plugin (2.2.3)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
@@ -182,9 +184,9 @@ DEPENDENCIES
   jekyll-algolia
   jekyll-archives
   jekyll-cloudinary
-  jekyll-commonmark
+  jekyll-commonmark!
   jekyll-include-cache
-  jekyll-microtypo
+  jekyll-microtypo!
   jekyll-paginate-v2!
   jekyll-pwa-plugin
   jekyll-sitemap

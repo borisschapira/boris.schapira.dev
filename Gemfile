@@ -24,7 +24,7 @@ group :jekyll_plugins do
   gem 'jekyll-commonmark', :git => 'https://github.com/jekyll/jekyll-commonmark/', :branch => 'master'
   gem 'jekyll-cloudinary'
   gem "jekyll-include-cache"
-  gem 'jekyll-microtypo'
+  gem 'jekyll-microtypo', :git => 'https://github.com/borisschapira/jekyll-microtypo'
   gem 'jekyll-paginate-v2', :git => 'https://github.com/borisschapira/jekyll-paginate-v2.git', :branch => 'default-values'
   gem 'jekyll-pwa-plugin'
   gem 'jekyll-sitemap'
