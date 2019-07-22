@@ -8,16 +8,16 @@ GIT
 
 GIT
   remote: https://github.com/Shopify/liquid.git
-  revision: b3b63a683f6daaea7e70f1602ee829abdf970ef3
+  revision: 248c54a3864eb9756d1b97e258e92e6db33d3eb3
   branch: master
   specs:
     liquid (4.0.3)
 
 GIT
   remote: https://github.com/borisschapira/jekyll-microtypo
-  revision: 81764c651afec161c14ecdcf7e35d2d212802053
+  revision: d73fb15736ff92b07b44aa54b0f9a3cc05138146
   specs:
-    jekyll-microtypo (1.1.0)
+    jekyll-microtypo (1.2.0)
       jekyll (>= 3.0, < 4.0)
 
 GIT
@@ -151,7 +151,7 @@ GEM
       forwardable-extended (~> 2.6)
     progressbar (1.10.1)
     public_suffix (3.1.1)
-    rake (12.3.2)
+    rake (12.3.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
