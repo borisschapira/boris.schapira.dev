@@ -15,7 +15,7 @@ GIT
 
 GIT
   remote: https://github.com/borisschapira/jekyll-microtypo
-  revision: 81764c651afec161c14ecdcf7e35d2d212802053
+  revision: 423a7ce709540a2644032618c0c50f59c4c878b7
   specs:
     jekyll-microtypo (1.1.0)
       jekyll (>= 3.0, < 4.0)
