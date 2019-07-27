@@ -8,6 +8,8 @@ tags:
     - Images
 publishDate: '2017-10-29'
 cloudinary_logo: clever-logo
+translations:
+    fr: ou-est-le-wechat-occidental
 ---
 
 China is unquestionably changing the way Internet integrates our daily lives

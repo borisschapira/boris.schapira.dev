@@ -2,6 +2,8 @@
 title: 'Le jouet du Happy Meal'
 i18n-key: the-happy-meal-toy
 slug: le-jouet-du-happy-meal
+translations:
+    en: the-happy-meal-toy
 ---
 
 J'emmène le petit chez Mc Donald. Il prend un _Happy Meal_ "garçon" et se voit

@@ -1,6 +1,8 @@
 ---
 title: 'Independence injection'
 i18n-key: independence-injection
+translations:
+    fr: injection-d-independance
 ---
 
 At home, my main job is to keep the kids from overflowing our home and give them

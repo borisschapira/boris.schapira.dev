@@ -7,6 +7,8 @@ tags:
     - Jekyll
     - JAMStatic
     - Outils
+translations:
+    en: jekyll-build-optimization
 ---
 
 Il y a trois ans, fatigué par WordPress et de sa galaxie de plugins douteux,

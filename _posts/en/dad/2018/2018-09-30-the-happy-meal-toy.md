@@ -1,6 +1,8 @@
 ---
 title: "Happy Meal's toy"
 i18n-key: the-happy-meal-toy
+translations:
+    fr: le-jouet-du-happy-meal
 ---
 
 I'm taking my boy to McDonald's. He takes a "Happy Meal for boys" and is offered

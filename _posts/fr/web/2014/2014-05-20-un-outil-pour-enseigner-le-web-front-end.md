@@ -8,7 +8,7 @@ tags:
     - 'Sud Web 2014'
 serie: 'Sud Web 2014'
 loadTwitterWjs: true
-subtitle: suite d'un atelier Sud Web 2014
+subtitle: "suite d'un atelier Sud Web 2014"
 ---
 
 [Romy](http://romy.tetue.net/ 'Romy, conceptrice web, parisienne et têtue'),

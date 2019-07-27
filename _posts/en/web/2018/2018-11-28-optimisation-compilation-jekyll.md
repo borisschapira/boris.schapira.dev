@@ -7,6 +7,8 @@ tags:
     - JAMStatic
     - Outils
 slug: jekyll-build-optimization
+translations:
+    fr: optimisation-compilation-jekyll
 ---
 
 Being more and more tired of WordPress and its galaxy of dubious-quality

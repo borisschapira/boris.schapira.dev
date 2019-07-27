@@ -1,6 +1,8 @@
 ---
 title: 'Mobile carrier'
 i18n-key: mobile-carrier
+translations:
+    fr: operateur
 ---
 
 The eldest discovered the theatre a few weeks ago. He's spending his time acting

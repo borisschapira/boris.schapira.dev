@@ -9,6 +9,8 @@ tags:
     - 'Performance Web'
     - JavaScript
 slug: measuring-interactivity-time-to-interactive
+translations:
+    fr: mesurer-interactivite-time-to-interactive
 ---
 
 When we talk about web performance measurement, what we’re actually trying to

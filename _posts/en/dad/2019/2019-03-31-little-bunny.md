@@ -1,6 +1,8 @@
 ---
 title: 'Little bunny'
 i18n-key: little-bunny
+translations:
+    fr: bout-de-chou
 ---
 
 My 6-year old had been struggling for several days, so he ended up telling us

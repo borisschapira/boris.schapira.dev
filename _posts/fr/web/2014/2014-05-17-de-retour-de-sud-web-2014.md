@@ -4,7 +4,7 @@ tags:
     - Conférences
     - 'Sud Web 2014'
 serie: 'Sud Web 2014'
-subtitle: De beaux projets, de belles personnes
+subtitle: 'De beaux projets, de belles personnes'
 ---
 
 [Sud Web](http://sudweb.fr/2014/ 'Site de Sud Web, édition 2014') fait partie de

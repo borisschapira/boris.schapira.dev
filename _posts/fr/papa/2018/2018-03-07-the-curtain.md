@@ -2,6 +2,8 @@
 title: 'Le rideau'
 i18n-key: the-curtain
 slug: le-labyrinthe
+translations:
+    en: the-curtain
 ---
 
 Nous étions au Mc Donald's, ils jouaient dans les jeux d'intérieur. Il vint me

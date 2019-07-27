@@ -7,6 +7,8 @@ tags:
     - Video
 cloudinary_logo: dareboost-logo
 slug: video-optimisez-vos-mp4-pour-de-meilleures-performances
+translations:
+    en: optimize-your-mp4-video-for-better-performance
 ---
 
 Le format MP4 représente plus de 75 % des vidéos diffusées sur Internet

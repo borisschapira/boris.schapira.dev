@@ -5,7 +5,7 @@ tags:
     - 'Charlie Hebdo'
 serie: 'Charlie Hebdo'
 loadTwitterWjs: true
-subtitle: précisions pour ceux qui s'offusquent
+subtitle: "précisions pour ceux qui s'offusquent"
 ---
 
 <!-- more -->

@@ -2,6 +2,8 @@
 title: 'Comme un super-héros'
 i18n-key: the-superhero-technique
 slug: comme-un-super-heros
+translations:
+    en: the-superhero-technique
 ---
 
 Ce soir, restaurant pour toute la famille. En rentrant, je vois le grand rentrer

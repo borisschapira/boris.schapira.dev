@@ -4,6 +4,8 @@ slug: de-qui-suis-je-le-territoire
 i18n-key: territory
 tags:
     - Web
+translations:
+    en: whose-territory-am-i
 ---
 
 > Une carte _n'est pas_ le territoire qu'elle représente mais, si elle est

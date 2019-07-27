@@ -8,6 +8,8 @@ tags:
     - Images
 cloudinary_logo: dareboost-logo
 slug: optimize-images-to-reduce-page-weight-file-formats-tools-and-rwd
+translations:
+    fr: optimiser-les-images-et-reduire-leur-poids-formats-outils-et-rwd
 ---
 
 "Reduce the page weight": here is one of the most usual tips in Dareboost

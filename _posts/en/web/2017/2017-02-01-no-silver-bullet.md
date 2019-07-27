@@ -4,6 +4,8 @@ i18n-key: no-silver-bullet
 canonical: 'https://blog.clever-age.com/en/2017/07/07/web-apps-there-is-no-silver-bullet/'
 cloudinary_logo: clever-logo
 slug: apps-vs-webapps-no-silver-bullet
+translations:
+    fr: apps-vs-web-apps
 ---
 
 I recently read an article that proclaimed the end of mobile apps, insisting

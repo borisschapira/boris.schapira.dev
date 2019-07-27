@@ -5,6 +5,8 @@ tags:
     - Netflix
 slug: bookmark-netflix-luminosite
 last_modified_at: '2019-04-18'
+translations:
+    en: bookmark-netflix-brightness
 ---
 
 Mes enfants sont en vacances chez leurs grand-mères, ce qui me laisse beaucoup
@@ -38,7 +40,12 @@ augmente la luminosité des vidéos de la page courante. Pour en profiter :
 Cliquez-glissez le lien suivant dans votre barre de favoris[^rename] :
 
 <!-- nomicrotypo -->
-<a href="javascript:(function(){var a=prompt("Video brightness?","100%");a=/^\d+(\.\d+)?%$/.test(a)?a:"100%";Array.from(document.getElementsByTagName("video")).forEach(function(b){b.setAttribute("style",b.getAttribute("style")+"filter: brightness("+a+");")})})();" title="Gérer la luminosité des vidéos">Gérer la luminosité des vidéos</a>
+
+<a href="javascript:(function(){var a=prompt("Video
+brightness?","100%");a=/^\d+(\.\d+)?%\$/.test(a)?a:"100%";Array.from(document.getElementsByTagName("video")).forEach(function(b){b.setAttribute("style",b.getAttribute("style")+"filter:
+brightness("+a+");")})})();" title="Gérer la luminosité des vidéos">Gérer la
+luminosité des vidéos</a>
+
 <!-- endnomicrotypo -->
 
 [^rename]:

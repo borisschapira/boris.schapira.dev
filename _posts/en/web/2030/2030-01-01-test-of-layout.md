@@ -9,6 +9,8 @@ serie: 'Test of layout'
 sitemap: false
 norobots: true
 slug: typo-test
+translations:
+    fr: test-typo
 ---
 
 > This is a test post for typographic matters.

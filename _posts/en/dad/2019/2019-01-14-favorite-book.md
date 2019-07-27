@@ -1,6 +1,8 @@
 ---
 title: 'His favorite book'
-i18n-key: 'favorite-book'
+i18n-key: favorite-book
+translations:
+    fr: livre-favori
 ---
 
 I discover that my youngest child is allowed to bring books to school. When a

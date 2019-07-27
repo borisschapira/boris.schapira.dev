@@ -2,11 +2,11 @@
 title: Diviser
 tags:
     - Égalité
-    - 'Diviser'
-serie: 'Diviser'
+    - Diviser
+serie: Diviser
 loadTwitterWjs: true
 loadTwitter: true
-subtitle: pour mieux régner
+subtitle: 'pour mieux régner'
 ---
 
 > En politique et en sociologie, **diviser pour régner** (du latin

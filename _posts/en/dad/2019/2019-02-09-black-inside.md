@@ -1,6 +1,8 @@
 ---
 title: 'Black inside'
-i18n-key: 'black-inside'
+i18n-key: black-inside
+translations:
+    fr: noir
 ---
 
 My big one loves Les Bleus. He doesn't really know why - since he's never

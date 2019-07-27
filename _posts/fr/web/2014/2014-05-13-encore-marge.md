@@ -3,7 +3,7 @@ title: 'Encore de la marge…'
 tags:
     - Front-End
     - Mobilité
-subtitle: Pour mieux apprivoiser nos matériels
+subtitle: 'Pour mieux apprivoiser nos matériels'
 ---
 
 Déjà 7 ou 8 ans que les premiers articles ont été écrits sur le _design_ des

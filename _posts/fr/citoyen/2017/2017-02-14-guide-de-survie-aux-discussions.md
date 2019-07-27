@@ -2,7 +2,7 @@
 title: 'Guide de survie aux discussions'
 tags:
     - guide
-subtitle: (sur les réseaux sociaux)
+subtitle: '(sur les réseaux sociaux)'
 last_modified_at: '2018-06-20'
 ---
 

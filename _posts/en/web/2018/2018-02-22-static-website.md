@@ -10,6 +10,8 @@ tags:
 loadTwitterWjs: true
 cloudinary_logo: dareboost-logo
 slug: static-website-web-performance
+translations:
+    fr: site-statique-performance-web
 ---
 
 For several years now, a new range of solutions have emerged in the web

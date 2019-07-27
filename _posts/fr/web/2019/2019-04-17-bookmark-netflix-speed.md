@@ -4,6 +4,8 @@ i18n-key: bookmark-netflix-speed
 tags:
     - Netflix
 slug: bookmark-netflix-vitesse
+translations:
+    en: bookmark-netflix-speed
 ---
 
 Il y a quelques mois, j'ai publié un article sur
@@ -18,7 +20,10 @@ dans HOMECOMING ? Pas de problème.
 **Cliquez-glissez ce lien dans vos favoris**:
 
 <!-- nomicrotypo -->
-<a href="javascript:(function(){var b=Number(prompt('Video playback rate?','1'))%7C%7C1;Array.from(document.getElementsByTagName('video')).forEach(function(a){a.playbackRate=b;a.play()})})();" title="Gérer la vitesse de lecture des vidéos">Gérer la vitesse de lecture des vidéos</a>
+
+<a href="javascript:(function(){var b=Number(prompt('Video playback rate?','1'))%7C%7C1;Array.from(document.getElementsByTagName('video')).forEach(function(a){a.playbackRate=b;a.play()})})();" title="Gérer la vitesse de lecture des vidéos">Gérer
+la vitesse de lecture des vidéos</a>
+
 <!-- endnomicrotypo -->
 
 N'hésitez pas à renommer le favori avec un libellé plus court. Par exemple,
@@ -39,7 +44,10 @@ Et si vous voulez gérer à la fois la luminosité et la vitesse de lecture vid�
 sans multiplier les signets, en voici un qui fait les deux à la fois:
 
 <!-- nomicrotypo -->
-<a href="javascript:(function(){var c=Number(prompt('Video playback rate?','1'))%7C%7C1,a=prompt('Video brightness?','100%');a=/^\d+(\.\d+)?%$/.test(a)?a:'100%';Array.from(document.getElementsByTagName('video')).forEach(function(b){b.playbackRate=c;b.play();b.setAttribute('style',b.getAttribute('style')+'filter: brightness('+a+');')})})();" title="Gérer la luminosité et la vitesse de lecture des vidéos">Gestion de la luminosité et de la vitesse de lecture vidéo</a>
+
+<a href="javascript:(function(){var c=Number(prompt('Video playback rate?','1'))%7C%7C1,a=prompt('Video brightness?','100%');a=/^\d+(\.\d+)?%$/.test(a)?a:'100%';Array.from(document.getElementsByTagName('video')).forEach(function(b){b.playbackRate=c;b.play();b.setAttribute('style',b.getAttribute('style')+'filter: brightness('+a+');')})})();" title="Gérer la luminosité et la vitesse de lecture des vidéos">Gestion
+de la luminosité et de la vitesse de lecture vidéo</a>
+
 <!-- endnomicrotypo -->
 
 {% include video_as_a_gif.html.liquid

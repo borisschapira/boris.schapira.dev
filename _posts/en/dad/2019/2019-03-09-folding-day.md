@@ -1,6 +1,8 @@
 ---
 title: 'Folding day'
-i18n-key: 'folding-day'
+i18n-key: folding-day
+translations:
+    fr: pliage
 ---
 
 Today, with the big one, we have laundry to fold. Usually it's something I do

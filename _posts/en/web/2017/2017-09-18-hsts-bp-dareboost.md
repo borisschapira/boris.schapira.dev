@@ -8,6 +8,8 @@ tags:
 cloudinary_logo: dareboost-logo
 slug: hsts-ensure-secured-connections
 last_modified_at: '2017-10-16'
+translations:
+    fr: hsts-fiabiliser-connexions-securisees
 ---
 
 Our regular readers [of the Dareboost blog](https://blog.dareboost.com/en/)

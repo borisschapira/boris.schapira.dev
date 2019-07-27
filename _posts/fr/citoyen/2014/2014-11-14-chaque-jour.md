@@ -5,7 +5,7 @@ tags:
     - Allié
     - Société
     - Égalité
-subtitle: \#HeForShe
+subtitle: '\#HeForShe'
 ---
 
 > Gender equality is your issue too  

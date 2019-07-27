@@ -4,6 +4,8 @@ i18n-key: death-the-trivial-way
 tags:
     - 'Intelligence Artificielle'
 slug: une-mort-triviale
+translations:
+    en: death-the-trivial-way
 ---
 
 > D'un côté, il est possible que nous développions une superintelligence qui

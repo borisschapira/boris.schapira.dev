@@ -2,7 +2,7 @@
 title: 'Mes résolutions'
 tags:
     - 'Me, myself & I'
-subtitle: pour 2016
+subtitle: 'pour 2016'
 ---
 
 2015 n'était pas une année très agréable pour énormément de raisons. Pour que

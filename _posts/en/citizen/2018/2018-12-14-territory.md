@@ -1,9 +1,11 @@
 ---
 title: 'Whose territory am I?'
-slug: 'whose-territory-am-i'
+slug: whose-territory-am-i
 i18n-key: territory
 tags:
     - Web
+translations:
+    fr: de-qui-suis-je-le-territoire
 ---
 
 > A map is _not_ the territory it represents, but, if correct, it has a _similar

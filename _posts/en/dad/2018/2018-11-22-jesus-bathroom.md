@@ -1,6 +1,8 @@
 ---
 title: "Jesus' bathroom"
-i18n-key: 'jesus-bathroom'
+i18n-key: jesus-bathroom
+translations:
+    fr: jesus-et-la-salle-de-bain
 ---
 
 When the kids talk about Jesus and God with each other (I would like to point

@@ -3,9 +3,9 @@ title: Division
 tags:
     - Allié
     - Égalité
-    - 'Diviser'
-serie: 'Diviser'
-subtitle: sur catalogue
+    - Diviser
+serie: Diviser
+subtitle: 'sur catalogue'
 ---
 
 Ça fait plusieurs fois que j'évoque la problématique des jouets ciblés pour des

@@ -2,7 +2,7 @@
 title: "Réformer l'Education ?"
 tags:
     - Education
-subtitle: parce que bon, là, on rate un truc…
+subtitle: 'parce que bon, là, on rate un truc…'
 ---
 
 Je suis sorti du lycée en sachant me servir d’un compas et d’une équerre, mais

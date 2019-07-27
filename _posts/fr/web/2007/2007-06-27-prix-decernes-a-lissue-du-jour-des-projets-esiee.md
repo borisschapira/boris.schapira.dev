@@ -2,7 +2,7 @@
 title: 'Jour des Projets ESIEE : les prix'
 tags:
     - ESIEE
-subtitle: Prix de l'innovation 2007
+subtitle: "Prix de l'innovation 2007"
 ---
 
 Le prix de l'innovation 2007, décerné par le jury présidé par Jean-Luc Polleux,

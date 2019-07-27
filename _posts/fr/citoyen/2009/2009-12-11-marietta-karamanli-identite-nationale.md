@@ -3,7 +3,7 @@ title: 'Marietta Karamanli - Identité Nationale'
 tags:
     - Égalité
     - Religion
-subtitle: Merci pour ce témoignage, Madame
+subtitle: 'Merci pour ce témoignage, Madame'
 ---
 
 Merci égalemment à

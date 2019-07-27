@@ -3,7 +3,7 @@ title:
     'Backlog : analyse multi-dimensionnelle pour faciliter la valorisation des
     User Stories'
 slug: backlog-analyse-multi-dimensionnelle-pour-faciliter-la-valorisation-des-us
-subtitle: Valorisation vs. Priorisation
+subtitle: 'Valorisation vs. Priorisation'
 ---
 
 Dans la constitution d'un <span lang="en">Backlog</span>, un

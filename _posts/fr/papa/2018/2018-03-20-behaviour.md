@@ -2,6 +2,8 @@
 title: Attitude
 i18n-key: behaviour
 slug: attitude
+translations:
+    en: behavior
 ---
 
 Ce matin, nous surprenons les enfants en train de jouer au Scrabble. Évidemment,

@@ -3,7 +3,7 @@ title: 'Promouvoir une culture numérique'
 tags:
     - Education
     - 'Transformation numérique'
-subtitle: il n'est jamais trop tard
+subtitle: "il n'est jamais trop tard"
 ---
 
 Je suis profondémment convaincu que **le numérique est une des clés de la

@@ -1,6 +1,9 @@
 ---
 title: 'The soccer doctor'
-i18n-key: 'soccer-doctor'
+i18n-key: soccer-doctor
+slug: the-soccer-doctor
+translations:
+    fr: medecin-du-foot
 ---
 
 My little koala is sick, so I take him to the family doctor. He's seen him a few

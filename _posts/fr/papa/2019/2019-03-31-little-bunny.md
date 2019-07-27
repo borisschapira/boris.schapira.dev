@@ -2,6 +2,8 @@
 title: 'Bout de chou'
 i18n-key: little-bunny
 slug: bout-de-chou
+translations:
+    en: little-bunny
 ---
 
 Ça fait plusieurs jours que ça le travaille, alors il a fini par nous en parler.

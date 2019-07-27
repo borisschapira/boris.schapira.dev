@@ -1,6 +1,8 @@
 ---
 title: Retirement
 i18n-key: retirement
+translations:
+    fr: la-retraite
 ---
 
 My wife's retired parents are working on a property renovation....

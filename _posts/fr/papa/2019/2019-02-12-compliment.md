@@ -1,5 +1,5 @@
 ---
-title: 'Compliments'
+title: Compliments
 ---
 
 Notre grand a deux défauts. Il a assez avare de compliments, et il a du mal avec

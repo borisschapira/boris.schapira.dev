@@ -1,6 +1,8 @@
 ---
 title: 'The curtain'
 i18n-key: the-curtain
+translations:
+    fr: le-labyrinthe
 ---
 
 We were at the Mc Donald's and they were playing in the indoor playground. He

@@ -2,6 +2,8 @@
 title: 'Docteur des pas morts'
 i18n-key: doctor-of-the-not-dead
 slug: docteur-des-pas-morts
+translations:
+    en: doctor-to-the-dead
 ---
 
 Ma femme couche le petit dernier. Elle lui fait un dernier câlin avant d'aller

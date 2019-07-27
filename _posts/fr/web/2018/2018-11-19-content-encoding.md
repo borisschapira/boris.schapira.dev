@@ -10,6 +10,8 @@ tags:
     - Headers
     - Encoding
 cloudinary_logo: dareboost-logo
+translations:
+    en: content-encoding-how-why
 ---
 
 Améliorer la vitesse à laquelle une page Web est affichée implique souvent de

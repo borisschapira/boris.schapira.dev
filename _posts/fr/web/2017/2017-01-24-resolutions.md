@@ -2,7 +2,7 @@
 title: Résolutions
 tags:
     - 'Me, myself & I'
-subtitle: Retour sur 2016
+subtitle: 'Retour sur 2016'
 ---
 
 En ce début d'année 2016, j'ai décidé de prendre quelques bonnes résolutions. Il

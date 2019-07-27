@@ -6,6 +6,8 @@ canonical: 'https://blog.clever-age.com/fr/2017/06/20/ou-est-le-wechat-occidenta
 tags:
     - 'User eXperience'
 slug: ou-est-le-wechat-occidental
+translations:
+    en: where-is-the-western-wechat
 ---
 
 Il devient de plus en plus évident que la Chine est train de changer la façon

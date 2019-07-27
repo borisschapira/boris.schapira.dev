@@ -1,6 +1,9 @@
 ---
 title: Behavior
 i18n-key: behaviour
+slug: behavior
+translations:
+    fr: attitude
 ---
 
 This morning, we surprise the children playing Scrabble. Obviously, the game is

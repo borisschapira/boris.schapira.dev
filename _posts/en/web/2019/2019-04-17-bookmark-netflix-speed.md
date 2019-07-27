@@ -3,6 +3,8 @@ title: 'Netflix: how to increase video speed'
 i18n-key: bookmark-netflix-speed
 tags:
     - Netflix
+translations:
+    fr: bookmark-netflix-vitesse
 ---
 
 A few month ago, I published a blog post about
@@ -16,7 +18,10 @@ moves to better learn one of her routine in HOMECOMING? No problem.
 **Click and drag the following link in your favorites**:
 
 <!-- nomicrotypo -->
-<a href="javascript:(function(){var b=Number(prompt('Video playback rate?','1'))%7C%7C1;Array.from(document.getElementsByTagName('video')).forEach(function(a){a.playbackRate=b;a.play()})})();" title="Manage Video Playback Rate">Manage Video Playback Rate</a>
+
+<a href="javascript:(function(){var b=Number(prompt('Video playback rate?','1'))%7C%7C1;Array.from(document.getElementsByTagName('video')).forEach(function(a){a.playbackRate=b;a.play()})})();" title="Manage Video Playback Rate">Manage
+Video Playback Rate</a>
+
 <!-- endnomicrotypo -->
 
 Then go to Netflix, HBO Now, Hulu, or pretty much any streaming service using

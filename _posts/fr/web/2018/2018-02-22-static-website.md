@@ -9,6 +9,8 @@ tags:
 loadTwitterWjs: true
 cloudinary_logo: dareboost-logo
 slug: site-statique-performance-web
+translations:
+    en: static-website-web-performance
 ---
 
 Générateurs de sites statiques, CMS "headless", plateformes d'intégration

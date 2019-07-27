@@ -7,6 +7,8 @@ tags:
     - Video
 cloudinary_logo: dareboost-logo
 slug: optimize-your-mp4-video-for-better-performance
+translations:
+    fr: video-optimisez-vos-mp4-pour-de-meilleures-performances
 ---
 
 Representing more than 75% of the videos served on the Internet, MP4 is the most

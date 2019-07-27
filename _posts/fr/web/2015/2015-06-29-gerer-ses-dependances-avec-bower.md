@@ -4,7 +4,7 @@ tags:
     - Front-End
     - Outils
 canonical: 'https://blog.clever-age.com/fr/2015/06/29/gerer-ses-dependances-avec-bower/'
-subtitle: Un besoin d’industrialisation
+subtitle: 'Un besoin d’industrialisation'
 ---
 
 Le développement <span lang="en">front-end</span> se complexifie un peu plus

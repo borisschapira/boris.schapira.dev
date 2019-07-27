@@ -2,6 +2,8 @@
 title: 'Son livre favori'
 i18n-key: favorite-book
 slug: livre-favori
+translations:
+    en: favorite-book
 ---
 
 Je découvre que mon petit dernier a le droit d'amener des livres à l'école.

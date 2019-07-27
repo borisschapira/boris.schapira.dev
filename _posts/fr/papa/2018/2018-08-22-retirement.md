@@ -2,6 +2,8 @@
 title: 'À la retraite'
 i18n-key: retirement
 slug: la-retraite
+translations:
+    en: retirement
 ---
 
 Les parents de ma femme, retraités, travaillent à la rénovation d'une propriété…

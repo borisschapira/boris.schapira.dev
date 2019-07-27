@@ -2,6 +2,8 @@
 title: "Injection d'indépendance"
 i18n-key: independence-injection
 slug: injection-d-independance
+translations:
+    en: independence-injection
 ---
 
 À la maison, mon rôle principal est d'éviter que les enfants ne dépassent du

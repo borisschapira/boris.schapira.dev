@@ -2,6 +2,8 @@
 title: 'Dans le train'
 i18n-key: taking-the-train
 slug: dans-le-train
+translations:
+    en: taking-the-train
 ---
 
 Début des vacances scolaires, les garçons et moi prenons le train pour aller

@@ -4,6 +4,8 @@ i18n-key: bookmark-netflix-brightness
 tags:
     - Netflix
 last_modified_at: '2019-04-18'
+translations:
+    fr: bookmark-netflix-luminosite
 ---
 
 My kids are on vacation with their grandmothers, which leaves me a lot of free
@@ -36,7 +38,12 @@ current page. To use it:
 Click and drag the following link in your bookmarks bar[^rename] :
 
 <!-- nomicrotypo -->
-<a href="javascript:(function(){var a=prompt("Video brightness?","100%");a=/^\d+(\.\d+)?%$/.test(a)?a:"100%";Array.from(document.getElementsByTagName("video")).forEach(function(b){b.setAttribute("style",b.getAttribute("style")+"filter: brightness("+a+");")})})();" title="Manage Video Brightness">Manage Video Brightness</a>
+
+<a href="javascript:(function(){var a=prompt("Video
+brightness?","100%");a=/^\d+(\.\d+)?%\$/.test(a)?a:"100%";Array.from(document.getElementsByTagName("video")).forEach(function(b){b.setAttribute("style",b.getAttribute("style")+"filter:
+brightness("+a+");")})})();" title="Manage Video Brightness">Manage Video
+Brightness</a>
+
 <!-- endnomicrotypo -->
 
 [^rename]:

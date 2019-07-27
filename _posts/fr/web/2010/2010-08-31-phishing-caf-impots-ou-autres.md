@@ -1,7 +1,7 @@
 ---
 title: 'Phishing CAF, Impôts ou autres…'
 loadTwitterWjs: true
-subtitle: Ceci n'est pas une pipe
+subtitle: "Ceci n'est pas une pipe"
 ---
 
 Je me permets aujourd'hui de citer une fameuse légende d'un tableau de

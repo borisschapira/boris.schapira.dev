@@ -1,6 +1,8 @@
 ---
 title: 'Single Ladies'
 i18n-key: single-ladies
+translations:
+    en: heels
 ---
 
 > Papa, c'est quoi ma danse préférée ?

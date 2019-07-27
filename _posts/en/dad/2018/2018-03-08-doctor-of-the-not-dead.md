@@ -1,6 +1,9 @@
 ---
 title: 'Doctor of the not dead'
 i18n-key: doctor-of-the-not-dead
+slug: doctor-to-the-dead
+translations:
+    fr: docteur-des-pas-morts
 ---
 
 My wife's putting the youngest to bed. She gives him one last hug before going

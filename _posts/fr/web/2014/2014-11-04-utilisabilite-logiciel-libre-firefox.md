@@ -4,7 +4,7 @@ tags:
     - 'Logiciel Libre'
     - 'Service Design'
 loadTwitterWjs: true
-subtitle: L'UX, souvent un tabou dans les communautés du logiciel libre
+subtitle: "L'UX, souvent un tabou dans les communautés du logiciel libre"
 ---
 
 Chrome est mon navigateur principal. À croire que
