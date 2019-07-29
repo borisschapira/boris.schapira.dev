@@ -1,8 +1,8 @@
-{% capture the-hash %}{% hash include.url %}{% endcapture %}
+{%- capture the-hash  -%}{%- hash include.url  -%}{%- endcapture  -%}
 <figure>
-  <div class="videoWrapper gif"><video crossOrigin="anonymous" muted controls loop playsinline preload="auto" poster="{{ include.url }}.jpg"{% if include.alt %} aria-describedBy="{{ the-hash }}"{% endif %}>
+  <div class="videoWrapper gif"><video crossOrigin="anonymous" muted controls loop playsinline preload="auto" poster="{{ include.url }}.jpg"{%- if include.alt  -%} aria-describedBy="{{ the-hash }}"{%- endif  -%}>
   <source src="{{ include.url }}.webm" type="video/webm">
   <source src="{{ include.url }}.mp4" type="video/mp4"></video></div>
-  {% if include.alt %}<em id="{{ the-hash }}" class="sr-only">GIF: {{ include.alt }}</em>{% endif %}
-  {% if include.caption %}<figcaption>{{ include.caption | markdownify }}</figcaption>{% endif %}
+  {%- if include.alt  -%}<em id="{{ the-hash }}" class="sr-only">GIF: {{ include.alt }}</em>{%- endif  -%}
+  {%- if include.caption  -%}<figcaption>{{ include.caption | markdownify }}</figcaption>{%- endif  -%}
 </figure>

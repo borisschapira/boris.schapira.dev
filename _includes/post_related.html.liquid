@@ -1,16 +1,16 @@
-{% if include.posts.size >= 1 %}
+{%- if include.posts.size >= 1  -%}
 <div class="related">
     <h2>{{ "Ces articles peuvent également vous intéresser" | t: include.locale }}</h2>
     <ul>
-    {% for related in include.posts limit: 5 %}
+    {%- for related in include.posts limit: 5  -%}
         <li class="relatedPost">
             <a href="{{ related.url }}">{{ related.title }}
-            {% if related.series %}
+            {%- if related.series  -%}
                 ({{ "Série" | t: include.locale }}: {{ related.series }})
-            {% endif %}
+            {%- endif  -%}
             </a>
         </li>
-    {% endfor %}
+    {%- endfor  -%}
     </ul>
 </div>
-{% endif %}
+{%- endif  -%}

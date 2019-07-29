@@ -1,7 +1,7 @@
-{% capture url %}https://www.youtube-nocookie.com/embed/{{ include.id }}{% endcapture %}
-{% include media/video_iframe.html.liquid
+{%- capture url  -%}https://www.youtube-nocookie.com/embed/{{ include.id }}{%- endcapture  -%}
+{%- include media/video_iframe.html.liquid
     width=560
     height=315
     title=include.title
     url=url
-%}
+ -%}

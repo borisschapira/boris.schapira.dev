@@ -1,2 +1,2 @@
-{% capture alternative %}{{ "lire en" | t: include.locale }} {% if include.locale == "en" %}{{ "anglais" | t: include.locale }}{% else %}{{ "français" | t: include.locale }}{% endif %}{% endcapture %}
+{%- capture alternative  -%}{{ "lire en" | t: include.locale }} {%- if include.locale == "en"  -%}{{ "anglais" | t: include.locale }}{%- else  -%}{{ "français" | t: include.locale }}{%- endif  -%}{%- endcapture  -%}
 <a class="lang {{ include.locale }}" href="{{ include.url }}" lang="{{ include.locale }}" title="{{ alternative }}"><span class="sr-only">{{ alternative }}</span>{{ include.locale }}</a>
