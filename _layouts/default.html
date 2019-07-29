@@ -5,7 +5,7 @@ layout: microtypo
 <html lang="{{ page.locale | default: site.locale | default: "fr_FR" }}">
   <head>
     <!-- nomicrotypo -->
-    
+
     <meta charset="utf-8" />
 
     <script>
@@ -20,13 +20,13 @@ layout: microtypo
     </script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    
+
     {% comment %} Prefetching of domains that I am likely to use {% endcomment %}
     <link rel="preconnect dns-prefetch" href="https://res.cloudinary.com">
     {% comment %} / Prefetching of domains that I am likely to use {% endcomment %}
 
     {% comment %} Prefetching previous and next pages {% endcomment %}
-    <link rel='preconnect dns-prefetch' href="https://analytics.schapira.dev/matomo.js">
+    <link rel="preconnect dns-prefetch" href="https://analytics.schapira.dev/matomo.js">
     {% if page.next_context or page.prev_context %}
         {% if page.prev_context %}
     <link rel="prefetch" href="{{page.prev_context.url}}">
@@ -176,36 +176,36 @@ layout: microtypo
             </li>
 
             {% if page.translation %}
-            <li>{% include read_in.html.liquid 
+            <li>{% include read_in.html.liquid
                     locale=page.translation.locale
                     url=page.translation.url %}</li>
             {% endif %}
 
             <li class="color-mode-labels"><!-- nomicrotypo -->{% include dark-mode.svg %}<!-- endnomicrotypo -->
-              
+
               <label class="auto-mode" for="color-mode-dark" data-value="true" tabindex="0" role="button"><span class="sr-only">Auto Mode</span><svg class="icon"><use xlink:href="#icon-mode-auto" /></svg></label>
-              
+
               <label class="dark-mode" for="color-mode-light" data-value="false" tabindex="0" role="button"><span class="sr-only">Dark Mode</span><svg class="icon"><use xlink:href="#icon-mode-dark" /></svg></label>
 
               <label class="light-mode" for="color-mode-auto" data-value="auto" tabindex="0" role="button"><span class="sr-only">Light Mode</span><svg class="icon"><use xlink:href="#icon-mode-light" /></svg></label>
-              
+
             </li>
           </ul>
         </nav>
       </header>
-      <div class="page-title"><h1>{{ page.title }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>{% if page.layout=='post'%}<div class="meta"><time class="dt-published" datetime="{{ datetime }}">{% unless page.locale =='fr' %}{% include date_en.html.liquid postDate=page.date locale=page.locale %}{% else %}{{ page.date | l: '%A %-d', page.locale }} <a href="{{ page.date | l: '%Y/%m/', page.locale | relative_url }}" title="{{ "Articles de" | t: page.locale }} {{ page.date | l: '%B %Y', page.locale }}">{{ page.date | l: '%B', page.locale }}</a> <a href="{{ page.date | l: '%Y/', page.locale | relative_url }}" title="{{ "Articles de" | t: page.locale }} {{ page.date | l: '%Y', page.locale }}">{{ page.date | l: '%Y', page.locale }}</a>{% endunless %}</time>{% if displayCategory %}<span><a href="{{ page.category | t: page.locale | prepend: page.baseurl | relative_url }}/" title="{{ "Articles de" | t: page.locale }} {{ "la catégorie" | t: page.locale }} {{ page.category }}" class="category {% if page.category %}{{page.category}}{% else %}main{% endif %}">{{ page.category | t: page.locale }}</a></span>{% endif %}{% if page.serie %}<span><a href="/tag/{{ page.serie | slugify }}">{{ page.serie }}</a></span>{% endif %}{% if page.translation %}<span>{% include read_in.html.liquid 
+      <div class="page-title"><h1>{{ page.title }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>{% if page.layout=='post'%}<div class="meta"><time class="dt-published" datetime="{{ datetime }}">{% unless page.locale =='fr' %}{% include date_en.html.liquid postDate=page.date locale=page.locale %}{% else %}{{ page.date | l: '%A %-d', page.locale }} <a href="{{ page.date | l: '%Y/%m/', page.locale | relative_url }}" title="{{ "Articles de" | t: page.locale }} {{ page.date | l: '%B %Y', page.locale }}">{{ page.date | l: '%B', page.locale }}</a> <a href="{{ page.date | l: '%Y/', page.locale | relative_url }}" title="{{ "Articles de" | t: page.locale }} {{ page.date | l: '%Y', page.locale }}">{{ page.date | l: '%Y', page.locale }}</a>{% endunless %}</time>{% if displayCategory %}<span><a href="{{ page.category | t: page.locale | prepend: page.baseurl | relative_url }}/" title="{{ "Articles de" | t: page.locale }} {{ "la catégorie" | t: page.locale }} {{ page.category }}" class="category {% if page.category %}{{page.category}}{% else %}main{% endif %}">{{ page.category | t: page.locale }}</a></span>{% endif %}{% if page.serie %}<span><a href="/tag/{{ page.serie | slugify }}">{{ page.serie }}</a></span>{% endif %}{% if page.translation %}<span>{% include read_in.html.liquid
         locale=page.translation.locale
         url=page.translation.url %}</span>{% endif %}</div>{% endif %}</div>
       <section class="container{% if page.layout=='post' or page.layout=='page' or page.layout=='conf' %} full-width-content{% endif %}">
         <div class="content" role="main" id="main">
           {{ content }}
-          
+
         {% if paginator %}
           {% capture url_prefix %}{% if page.category %}/{{page.category}}{% endif %}{% endcapture %}
           {% if paginator.total_pages > 1 %}
           <ul class="pagination">
             {% comment %} Page précédente {% endcomment %}
-            {% if paginator.previous_page %} 
+            {% if paginator.previous_page %}
               {% if paginator.previous_page == 1 %}
                 {% comment %} Si on est sur la page 2, la page précédente est la 1 {% endcomment %}
                 <li>
@@ -221,7 +221,7 @@ layout: microtypo
               {% comment %} Si on est sur la page 1, pas de précédente {% endcomment %}
               <li class="disabled">&lsaquo;</li>
             {% endif %}
-            
+
             {% if paginator.page == 1 %}
               {% comment %} Si on est sur la page 1 {% endcomment %}
               <li class="disabled">
@@ -233,31 +233,31 @@ layout: microtypo
                 <a href="{{ url_prefix }}/" ><span class="sr-only">{{ "Accueil" | t: page.locale }}</span>1</a>
               </li>
             {% endif %}
-            
+
             {% comment %} À partir de la page 2 {% endcomment %}
             {% assign page_start = 2 %}
             {% if paginator.page > 5 %}
-              {% comment %} Si on est plus loin que la page 5, 
+              {% comment %} Si on est plus loin que la page 5,
               on affiche "…" et on démarre 2 pages avant {% endcomment %}
               {% assign page_start = paginator.page | minus: 2 %}
               <li class="disabled">
                 …
               </li>
             {% endif %}
-            
+
             {% comment %} La dernière page de cette liste, c'est 2 pages avant la fin (mais on commence à compter à 0) {% endcomment %}
             {% assign page_end = paginator.total_pages | minus: 1 %}
-          
+
             {% comment %} La distance entre la page courante et la dernière page dans l'absolu {% endcomment %}
-            {% assign to_end = paginator.total_pages | minus: paginator.page %} 
-          
+            {% assign to_end = paginator.total_pages | minus: paginator.page %}
+
             {% comment %} Si cette distance est supérieure à 4, on s'arrêtera 2 pages après la page courante et on affichera "…" {% endcomment %}
-            {% if to_end > 4 %} 
+            {% if to_end > 4 %}
               {% assign page_end = paginator.page | plus: 2 %}
             {% endif %}
-          
+
             {% comment %} Production de la liste "du milieu" {% endcomment %}
-            {% for index in (page_start..page_end) %} 
+            {% for index in (page_start..page_end) %}
               {% if index == paginator.page %}
               <li >
                 <strong>{{index}}</strong>
@@ -266,12 +266,12 @@ layout: microtypo
               <li>
                 <a href="{{ site.pagination.permalink | replace:':num', index | prepend: url_prefix }}" ><span class="sr-only">Page</span>{{index}}</a>
               </li>
-              {% endif %} 
+              {% endif %}
             {% endfor %}
             {% if to_end > 4 %}
               <li class="disabled">…</li>
-            {% endif %} 
-          
+            {% endif %}
+
             {% if paginator.page == paginator.total_pages %}
               <li >
                 <strong>{{paginator.page}}</strong>
@@ -281,15 +281,15 @@ layout: microtypo
               <li>
                 <a href="{{ site.pagination.permalink | replace:':num', paginator.total_pages | prepend: url_prefix }}" {% if paginator.total_pages == tp1 %}rel="next"{% endif %}><span class="sr-only">{{ "Dernière page" | t: page.locale }}</span>{{paginator.total_pages}}</a>
               </li>
-            {% endif %} 
-            {% if paginator.next_page %} 
+            {% endif %}
+            {% if paginator.next_page %}
               {% if paginator.next_page == paginator.total_pages %}
                 <li class="disabled">&raquo;</li>
               {% else %}
               <li>
                 <a href="{{ site.pagination.permalink | replace:':num', paginator.next_page | prepend: url_prefix }}" rel="next"><span class="sr-only">{{ "Page suivante" | t: page.locale }}</span>&rsaquo;</a>
               </li>
-              {% endif %} 
+              {% endif %}
             {% else %}
               <li class="disabled">&rsaquo;</li>
             {% endif %}
