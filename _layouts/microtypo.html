@@ -1,4 +1,4 @@
 ---
 layout: compress
 ---
-{{ content }}
+{% if page.locale == 'fr' %}{{ content | microtypo: 'fr_FR' }}{% else %}{{ content | microtypo: 'en_US' }}{% endif %}
