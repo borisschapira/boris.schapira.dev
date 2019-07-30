@@ -45,7 +45,7 @@ géographiques de consultation ou de la gestion des sous-titres (formats gérés
 collaboration dans l'édition).
 
 Enfin, si on ne parle pas de vidéo publique mais de vidéo située derrière un
-firewall ou destinée à une sphère plus réduite, alors Youtube n'est ppur le
+firewall ou destinée à une sphère plus réduite, alors Youtube n'est pour le
 moment pas la bonne solution et peut même présenter un sérieux danger en terme
 de diffusion incontrôlée d'informations. Sans compter qu'il ne dispose d'aucune
 fonctionnalité pour optimiser la diffusion sur les
