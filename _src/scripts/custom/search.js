@@ -3,15 +3,10 @@ var search = instantsearch({
   appId: document.getElementById('algolia-app-id').innerHTML,
   apiKey: document.getElementById('algolia-api-key').innerHTML,
   indexName: document.getElementById('algolia-index-name').innerHTML,
-  urlSync: true
+  routing: true
 });
 
 search.addWidgets([
-  instantsearch.widgets.refinementList({
-    container: '#refinement-list',
-    attributeName: 'categories'
-  }),
-
   instantsearch.widgets.searchBox({
     container: '#search-box',
     placeholder: 'Recherche',
@@ -19,6 +14,11 @@ search.addWidgets([
     poweredBy: true,
     reset: true,
     loadingIndicator: false
+  }),
+
+  instantsearch.widgets.refinementList({
+    container: '#refinement-list',
+    attributeName: 'categories'
   }),
 
   instantsearch.widgets.hits({

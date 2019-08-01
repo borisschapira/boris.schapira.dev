@@ -99,7 +99,7 @@ async function takeAndCompareScreenshot(page, route, routeUrl, filePrefix) {
   await page.goto(`${testUrl}/${routeUrl}`, { waitUntil: "networkidle0" });
   await page.screenshot({
     path: `${testDir}/${fileName}.png`,
-    fullPage: true
+    fullPage: false
   });
 
   // Test to see if it's right.
