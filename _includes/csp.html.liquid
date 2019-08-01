@@ -1,7 +1,7 @@
 {%- capture csp-string  -%}
-{%- assign directives = site.data.csp | sort: 'name'  -%}
-{%- for directive in directives  -%}{{ directive.name }}
-    {%- assign directive_values = "" | split: ','  -%}
+{% assign directives = site.data.csp | sort: 'name'  -%}
+{% for directive in directives  %}{{ directive.name }}
+    {% assign directive_values = "" | split: ','  -%}
     {%- if include.specific  -%}
         {%- capture expression  -%}item.for == '{{ include.specific }}'{%- endcapture  -%}
         {%- assign specific_values = directive.values | where_exp: 'item', expression  -%}
