@@ -8,7 +8,7 @@ permalink: /_headers
   X-Champcevinel: "Squirrel powa!"
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security{% unless jekyll.environment == "production" %}-Report-Only{% endunless%}: max-age=63072000; includeSubDomains; preload
-  Report-To: { "group"; "csp-endpoint", "max-age": 10886400, "endpoints": [ "url": "https://borisschapira.report-uri.com/r/d/csp/enforce"]}
+  Report-To: {"group":"default","max_age":31536000,"endpoints":[{"url":"https://borisschapira.report-uri.com/a/d/g"}],"include_subdomains":true}
   Content-Security-Policy: {% include csp.html.liquid %}
 
 /en/search
