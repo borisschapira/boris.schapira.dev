@@ -32,44 +32,44 @@ defaults:
       aside: true
   -
     scope:
-      path: "_pages/fr"
+      path: "{_pages,_drafts}/fr"
     values:
       baseurl: "/"
       locale: fr
   -
     scope:
-      path: "_pages/fr/web"
+      path: "{_pages,_drafts}/fr/web"
     values:
       category: web
   -
     scope:
-      path: "_pages/fr/papa"
+      path: "{_pages,_drafts}/fr/papa"
     values:
       category: papa
   -
     scope:
-      path: "_pages/fr/citoyen"
+      path: "{_pages,_drafts}/fr/citoyen"
     values:
       category: citoyen
   -
     scope:
-      path: "_pages/en"
+      path: "{_pages,_drafts}/en"
     values:
       baseurl: "/en/"
       locale: en
   -
     scope:
-      path: "_pages/en/web"
+      path: "{_pages,_drafts}/en/web"
     values:
       category: web
   -
     scope:
-      path: "_pages/en/dad"
+      path: "{_pages,_drafts}/en/dad"
     values:
       category: papa
   -
     scope:
-      path: "_pages/en/citizen"
+      path: "{_pages,_drafts}/en/citizen"
     values:
       category: citoyen
   -
