@@ -17,6 +17,7 @@ permalink: /_redirects
 /favicon.ico  /.well-known/favicon.ico 200
 /google04fb98c69ffff6cb.html  /.well-known/google04fb98c69ffff6cb.html 200
 /manifest.json  /.well-known/manifest.json 200
+/boris.schapira.dev.webmanifest  /.well-known/manifest.json 200
 /mstile-150x150.png /.well-known/mstile-150x150.png 200
 /robots.txt /.well-known/robots.txt 200
 /wcbdx /confs/performance-web-vers-la-speed-update-un-pas-aprs-lautre/ 301

@@ -17,6 +17,11 @@ permalink: /_headers
 /recherche
   Content-Security-Policy: {% include csp.html.liquid specific="search" %}
 
+/manifest.json
+  Content-Type: application/manifest+json
+/*.webmanifest
+  Content-Type: application/manifest+json
+
 /*.woff2
   Access-Control-Allow-Origin: "*"
   Cache-Control: max-age=31536000, private
