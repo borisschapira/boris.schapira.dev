@@ -24,3 +24,5 @@ Blanche, blonde, obéissant aux canons de la beauté occidentaux, Lauren Bastide
 Cette utilisation de ses privilèges et de sa force de travail pour être une meilleure alliée m'inspire, et me donne envie, à mon tour, de me mettre à la disposition de collectifs féministes. Merci pour ça.
 
 Envie de suivre le travail de Lauren Bastide ? Vous pouvez la retrouver sur Twitter : [@laurenbastide]([@laurenbastide](https://twitter.com/laurenbastide)), [@LaPoudreNE](https://twitter.com/lapoudreNE), [@NouvEcoutes](https://twitter.com/nouvecoutes), [@PrenonsLa1](https://twitter.com/prenonsla1).
+
+{% include media/youtube.html.liquid id="dPhh79H9I7E" title="Nouvelle École #45 - LAUREN BASTIDE : FAIT PARLER LA POUDRE" %}
