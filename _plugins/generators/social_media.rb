@@ -112,8 +112,11 @@ module Jekyll
 
       image = 'https://res.cloudinary.com/' + get_configuration['cloudinary']['cloud_name'] + '/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:' + color + ',o_20/w_1000,c_fit,l_text:PT%20Sans_' + font_size.to_s + ':' + imgtitle + ',x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_' + font_size.to_s + ':' + imgtitle + ',y_-70,co_white/l_text:PT%20Sans_50:borisschapira,g_south_east,x_64,y_55,co_black,o_20/l_text:PT%20Sans_50:borisschapira,g_south_east,x_66,y_57,co_white/c_fill,g_south_east,r_max,h_45,l_twitter,w_45,x_356,y_60/c_scale,g_south_west,l_'+ logo +',w_150,x_60,y_40/' + image
 
+      title = strip_html(title) + " &middot; " + get_configuration['title']
+      title = title.gsub! '"', '&quot;'
+
       result = {
-        'title' => strip_html(title) + " &middot; " + get_configuration['title'],
+        'title' => title,
         'description' => strip_html(description),
         'image' => image,
         'color' => color
