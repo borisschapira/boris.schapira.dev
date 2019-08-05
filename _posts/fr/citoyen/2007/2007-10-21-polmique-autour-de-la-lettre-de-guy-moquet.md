@@ -1,5 +1,5 @@
 ---
-title: 'Polémique autour de la «&#160;Lettre de Guy Moquet&#160;»'
+title: 'Polémique autour de la "Lettre de Guy Moquet"'
 ---
 
 Lundi doit être lue aux lycéens la &quot;Lettre de Guy Moquet&quot; et on entend

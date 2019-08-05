@@ -1,5 +1,5 @@
 ---
-title: 'Antilles «&#160;françaises&#160;» ?'
+title: 'Antilles "françaises" ?'
 ---
 
 Petite pensée pour la partie de ma famille qui vit en Martinique et pour ma sœur

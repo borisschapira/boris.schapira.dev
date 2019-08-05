@@ -1,6 +1,6 @@
 ---
 title: 'Victoire Touaillon'
-subtitle: 'l''orchidoclaste'
+subtitle: "l'orchidoclaste"
 tags:
     - Égalité
     - Sorcières

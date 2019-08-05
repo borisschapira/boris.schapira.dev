@@ -1,6 +1,5 @@
 ---
-title:
-    'Stage «&#160;Développeur&#160;» : 3 rappels pour préparer votre entretien'
+title: 'Stage "Développeur" : 3 rappels pour préparer votre entretien'
 tags:
     - Emploi
     - 'Trouver un stage ou une alternance'

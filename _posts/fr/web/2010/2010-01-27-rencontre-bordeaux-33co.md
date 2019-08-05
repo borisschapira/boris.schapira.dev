@@ -1,5 +1,5 @@
 ---
-title: 'Rencontre Viadeo «&#160;Bordeaux 33CO&#160;»'
+title: 'Rencontre Viadeo "Bordeaux 33CO"'
 tags:
     - Emploi
     - 'Me, myself and I'

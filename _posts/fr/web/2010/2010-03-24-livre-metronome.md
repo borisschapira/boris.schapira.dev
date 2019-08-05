@@ -1,5 +1,5 @@
 ---
-title: '«&#160;Métronome&#160;», Lorànt Deutsch'
+title: '"Métronome", Lorànt Deutsch'
 tags:
     - Histoire
 ---

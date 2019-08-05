@@ -1,5 +1,5 @@
 ---
-title: '«&#160;What Would Google Do&#160;», Jeff Jarvis'
+title: '"What Would Google Do", Jeff Jarvis'
 tags:
     - Littérature
     - Technologie

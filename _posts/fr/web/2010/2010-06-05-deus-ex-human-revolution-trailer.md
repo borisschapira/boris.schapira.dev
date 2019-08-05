@@ -1,5 +1,5 @@
 ---
-title: '«&#160;Deus Ex : Human Revolution&#160;» Trailer'
+title: '"Deus Ex : Human Revolution" Trailer'
 tags:
     - 'Jeu Video'
 ---

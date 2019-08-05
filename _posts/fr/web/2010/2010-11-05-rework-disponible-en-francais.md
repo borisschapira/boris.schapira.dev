@@ -1,5 +1,5 @@
 ---
-title: '«&#160;Rework, réussir autrement&#160;», disponible en français'
+title: '"Rework, réussir autrement", disponible en français'
 tags:
     - Management
 ---

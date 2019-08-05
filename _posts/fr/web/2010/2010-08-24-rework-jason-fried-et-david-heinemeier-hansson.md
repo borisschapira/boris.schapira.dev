@@ -1,5 +1,5 @@
 ---
-title: '«&#160;Rework&#160;», Jason Fried et David Heinemeier Hansson'
+title: '"Rework", Jason Fried et David Heinemeier Hansson'
 tags:
     - Management
 ---

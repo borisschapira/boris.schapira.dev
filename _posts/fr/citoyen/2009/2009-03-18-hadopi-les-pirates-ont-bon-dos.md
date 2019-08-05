@@ -1,5 +1,5 @@
 ---
-title: 'Hadopi : les «&#160;Pirates&#160;» ont bon dos'
+title: 'Hadopi : les "Pirates" ont bon dos'
 tags:
     - Numérique
     - Hadopi

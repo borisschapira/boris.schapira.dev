@@ -1,5 +1,5 @@
 ---
-title: '«&#160;Projet de Loi relatif au renseignement&#160;»'
+title: '"Projet de Loi relatif au renseignement"'
 tags:
     - Numérique
     - 'Loi Renseignement'

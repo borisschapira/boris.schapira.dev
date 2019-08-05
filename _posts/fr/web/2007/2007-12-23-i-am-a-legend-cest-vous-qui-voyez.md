@@ -1,5 +1,5 @@
 ---
-title: "«&#160;I am Legend&#160;» : c'est vous qui voyez"
+title: '"I am Legend" : c''est vous qui voyez'
 ---
 
 Après le fabuleux cocktail de mardi dernier, direction une petite salle obscure

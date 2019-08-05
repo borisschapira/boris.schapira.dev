@@ -1,12 +1,12 @@
 ---
-title: "«&#160;L'affaire Gidéon&#160;», Russel Andrews"
+title: '"L''affaire Gidéon", Russel Andrews'
 tags:
     - Littérature
 ---
 
-_Heureusement que ma Libellule est là pour me rappeller à l’ordre : cela fait
+Heureusement que ma Libellule est là pour me rappeller à l’ordre : cela fait
 plus d’une semaine que j’ai dévoré l’Affaire Gideon, et pas un article pour en
-parler. J’ai une excuse : je m’en remettais._
+parler. J’ai une excuse : je m’en remettais.
 
 <!-- more -->
 
@@ -41,4 +41,4 @@ Prochain achat ? Déjà commis. Je me suis jeté sur le livre de
 [Bénédicte](http://police.etc.over-blog.net/) (présidente du fan-club des
 [Bleus, sur M6](http://police.etc.over-blog.net/article-12835909.html)) : un
 ouvrage (très) dur mais (très) vrai, simple, cru mais pas vulgaire. Du moins
-d'après les 35 pages que j'ai lues dans le Métro au retour du boulot hier.
+d'après les 35 pages que j'ai lues dans le métro au retour du boulot hier.

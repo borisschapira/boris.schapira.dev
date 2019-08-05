@@ -1,5 +1,5 @@
 ---
-title: "«&#160;J'aime les artistes&#160;», nouveau bulletin de l'Armée d'Italie"
+title: '"J''aime les artistes", nouveau bulletin de l''Armée d''Italie'
 tags:
     - Numérique
     - Hadopi
@@ -12,14 +12,13 @@ slug: jaime-les-artistes-nouveau-bulletin-de-larmee-ditalie
 > Internet, aux groupes de pression qui en sont les adversaires. Il illustre une
 > nouvelle fois la nécessité d’un "Internet civilisé", où tous les points de vue
 > peuvent librement s’exprimer sans risquer d’être les victimes de la loi du
-> plus fort."  
-> <cite>Communiqué du site jaimelesartistes.fr après l'attaque DDOS dont il a
-> été la victime</cite>
+> plus fort. <cite>Communiqué du site jaimelesartistes.fr après l'attaque DDOS
+> dont il a été la victime</cite>
 
 [Comme je le disais](/2009/03/hadopi-les-pirates-ont-bon-dos/), le gouvernement
 utilise l'homographie existant entre deux notions pour substituer deux
 populations qui n'ont rien à voir : le citoyen qui télécharge un mp3 et le
-pirate qui
+pirate
 _[qui contourne ou détruit les protections d’un logiciel, d’un ordinateur ou d’un réseau informatique](http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19990402&pageDebut=03905&pageFin=&pageCourante=03907)._
 
 Il n'y a qu'une façon de vous dire ce que je pense de ce site. Pour cela, je
@@ -34,5 +33,3 @@ vais reprendre une autre définition :
 
 Vous avez trouvé de quel mot il s'agissait ? Oui, il s'agit bien de la
 définition du mot [Propagande](https://fr.wikipedia.org/wiki/Propagande).
-
-\_ \_

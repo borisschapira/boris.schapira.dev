@@ -1,6 +1,5 @@
 ---
-title:
-    'Stage «&#160;Développeur&#160;» : 5 façons de mieux réussir votre entretien'
+title: 'Stage "Développeur" : 5 façons de mieux réussir votre entretien'
 tags:
     - Emploi
     - 'Trouver un stage ou une alternance'

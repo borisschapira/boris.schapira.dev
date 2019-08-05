@@ -1,5 +1,5 @@
 ---
-title: '«&#160;Kiffe kiffe demain&#160;», Faïza Guène'
+title: '"Kiffe kiffe demain", Faïza Guène'
 tags:
     - Littérature
 ---

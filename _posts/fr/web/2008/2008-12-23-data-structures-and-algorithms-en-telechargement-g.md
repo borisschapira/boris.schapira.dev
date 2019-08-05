@@ -1,5 +1,5 @@
 ---
-title: '«&#160;Data Structures and Algorithms&#160;» en téléchargement gratuit'
+title: '"Data Structures and Algorithms" en téléchargement gratuit'
 slug: data-structures-and-algorithms-en-telechargement-gratuit
 ---
 

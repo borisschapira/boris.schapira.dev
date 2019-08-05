@@ -1,5 +1,5 @@
 ---
-title: '«&#160;Notes From a Big Country&#160;», Bill Bryson'
+title: '"Notes From a Big Country", Bill Bryson'
 tags:
     - Humour
     - Littérature

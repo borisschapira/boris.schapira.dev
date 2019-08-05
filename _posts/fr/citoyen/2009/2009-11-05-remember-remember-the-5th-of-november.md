@@ -1,5 +1,5 @@
 ---
-title: '«&#160;Remember², the 5th of November…&#160;»'
+title: '"Remember², the 5th of November…"'
 ---
 
 _**Frednetick** se posait hier la question

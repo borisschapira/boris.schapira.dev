@@ -1,5 +1,5 @@
 ---
-title: 'IE6 : «&#160;Arrivé à un certain état…&#160;»'
+title: 'IE6 : "Arrivé à un certain état…"'
 tags:
     - Développement
     - Flash
