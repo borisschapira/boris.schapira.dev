@@ -43,10 +43,11 @@ incarne, extérieurement, la norme. Elle ne _parait_ pas subversive. Ce
 privilège, elle pourrait l'utiliser pour elle-même, en se conformant à des
 stéréotypes sexistes (comme on lui a suggéré, d'ailleurs, au Grand Journal – cf.
 l'interview ci-dessous). À la place, elle l'utilise pour offrir la parole qu'on
-lui offre à celles qui ne l'ont pas, ou pour produire elle-même, à la force de
+lui donne à celles qui ne l'ont pas, ou pour produire elle-même, à la force de
 son travail et de ses multiples projets, les conditions d'une expression qui,
-sans cela, ne pourrait pas voir le jour. Porte-parole du collectif de femmes
-journalistes "Prenons la une"
+sans cela, ne pourrait pas voir le jour.
+
+Porte-parole du collectif de femmes journalistes "Prenons la une"
 ([@PrenonsLa1](https://twitter.com/prenonsla1?lang=fr)), Lauren Bastide est
 citée dans presque tous les médias féministes que je consulte comme une
 personne-clé, qui a trouvé le bon mot, apporter la bonne aide, au moment où
