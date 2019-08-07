@@ -22,7 +22,7 @@ group :jekyll_plugins do
 # gem 'jekyll-algolia', :git => 'git@github.com:ashmaroli/jekyll-algolia.git', :branch => 'delete-key-not-reset'
   gem 'jekyll-archives'
   gem 'jekyll-commonmark', :git => 'https://github.com/jekyll/jekyll-commonmark/', :branch => 'master'
-  gem 'jekyll-cloudinary'
+  gem 'jekyll-cloudinary', :git => 'https://github.com/nhoizey/jekyll-cloudinary', :branch => 'master'
   gem "jekyll-include-cache"
   gem 'jekyll-microtypo', :git => 'https://github.com/borisschapira/jekyll-microtypo'
   gem 'jekyll-paginate-v2', :git => 'https://github.com/borisschapira/jekyll-paginate-v2.git', :branch => 'default-values'

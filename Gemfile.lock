@@ -57,6 +57,15 @@ GIT
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
 
+GIT
+  remote: https://github.com/nhoizey/jekyll-cloudinary
+  revision: 7b673944dd4d6343bbe650d16e8f933db9406849
+  branch: master
+  specs:
+    jekyll-cloudinary (1.14.0)
+      fastimage (~> 2.0)
+      jekyll (~> 3.6)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -115,9 +124,6 @@ GEM
       verbal_expressions (~> 0.1.5)
     jekyll-archives (2.2.1)
       jekyll (>= 3.6, < 5.0)
-    jekyll-cloudinary (1.14.0)
-      fastimage (~> 2.0)
-      jekyll (~> 3.6)
     jekyll-include-cache (0.2.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-pwa-workbox (0.0.6)
@@ -183,7 +189,7 @@ DEPENDENCIES
   jekyll!
   jekyll-algolia
   jekyll-archives
-  jekyll-cloudinary
+  jekyll-cloudinary!
   jekyll-commonmark!
   jekyll-include-cache
   jekyll-microtypo!
