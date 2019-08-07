@@ -59,7 +59,7 @@ disposition de collectifs féministes. Merci pour ça.
 
 Envie de suivre le travail de Lauren Bastide ? Vous pouvez la retrouver sur
 Twitter :
-[@laurenbastide](<[@laurenbastide](https://twitter.com/laurenbastide)>),
+[@laurenbastide](https://twitter.com/laurenbastide),
 [@LaPoudreNE](https://twitter.com/lapoudreNE),
 [@NouvEcoutes](https://twitter.com/nouvecoutes),
 [@PrenonsLa1](https://twitter.com/prenonsla1).
