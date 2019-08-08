@@ -22,11 +22,12 @@ layout: microtypo
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     {% comment %} Prefetching of domains that I am likely to use {% endcomment %}
-    <link rel="preconnect dns-prefetch" href="https://res.cloudinary.com">
+    <link rel="preconnect" href="https://res.cloudinary.com">
     {% comment %} / Prefetching of domains that I am likely to use {% endcomment %}
 
-    {% comment %} Prefetching previous and next pages {% endcomment %}
-    <link rel="preconnect dns-prefetch" href="https://analytics.schapira.dev/matomo.js">
+    {% comment %} Prefetching previous and next pages, and analytics {% endcomment %}
+    <link rel="preload" as="script" href="https://analytics.schapira.dev/matomo.js">
+
     {% if page.next_context or page.prev_context %}
         {% if page.prev_context %}
     <link rel="prefetch" href="{{page.prev_context.url}}">
