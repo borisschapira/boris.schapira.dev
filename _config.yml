@@ -32,44 +32,86 @@ defaults:
       aside: true
   -
     scope:
-      path: "{_pages,_drafts}/fr"
+      path: "_pages/fr"
     values:
       baseurl: "/"
       locale: fr
   -
     scope:
-      path: "{_pages,_drafts}/fr/web"
+      path: "_pages/fr/web"
     values:
       category: web
   -
     scope:
-      path: "{_pages,_drafts}/fr/papa"
+      path: "_pages/fr/papa"
     values:
       category: papa
   -
     scope:
-      path: "{_pages,_drafts}/fr/citoyen"
+      path: "_pages/fr/citoyen"
     values:
       category: citoyen
   -
     scope:
-      path: "{_pages,_drafts}/en"
+      path: "_pages/en"
     values:
       baseurl: "/en/"
       locale: en
   -
     scope:
-      path: "{_pages,_drafts}/en/web"
+      path: "_pages/en/web"
     values:
       category: web
   -
     scope:
-      path: "{_pages,_drafts}/en/dad"
+      path: "_pages/en/dad"
     values:
       category: papa
   -
     scope:
-      path: "{_pages,_drafts}/en/citizen"
+      path: "_pages/en/citizen"
+    values:
+      category: citoyen
+  -
+    scope:
+      path: "_drafts/fr"
+    values:
+      baseurl: "/"
+      locale: fr
+  -
+    scope:
+      path: "_drafts/fr/web"
+    values:
+      category: web
+  -
+    scope:
+      path: "_drafts/fr/papa"
+    values:
+      category: papa
+  -
+    scope:
+      path: "_drafts/fr/citoyen"
+    values:
+      category: citoyen
+  -
+    scope:
+      path: "_drafts/en"
+    values:
+      baseurl: "/en/"
+      locale: en
+  -
+    scope:
+      path: "_drafts/en/web"
+    values:
+      category: web
+  -
+    scope:
+      path: "_drafts/en/dad"
+    values:
+      category: papa
+  -
+    scope:
+      path: "_drafts/en/citizen"
     values:
       category: citoyen
   -

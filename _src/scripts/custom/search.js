@@ -1,9 +1,10 @@
-/* global instantsearch */
+/* global instantsearch,algoliasearch */
 var search = instantsearch({
-  appId: document.getElementById('algolia-app-id').innerHTML,
-  apiKey: document.getElementById('algolia-api-key').innerHTML,
   indexName: document.getElementById('algolia-index-name').innerHTML,
-  routing: true
+  searchClient: algoliasearch(
+    document.getElementById('algolia-app-id').innerHTML,
+    document.getElementById('algolia-api-key').innerHTML
+  )
 });
 
 search.addWidgets([
@@ -18,7 +19,7 @@ search.addWidgets([
 
   instantsearch.widgets.refinementList({
     container: '#refinement-list',
-    attributeName: 'categories'
+    attribute: 'categories'
   }),
 
   instantsearch.widgets.hits({

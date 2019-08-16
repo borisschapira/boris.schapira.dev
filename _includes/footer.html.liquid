@@ -19,5 +19,12 @@
 <script>injectScript('/assets/scripts/index.min.js');</script>
 {%- if include.loadTwitterWjs  -%}<script>injectScript('/assets/scripts/vendors/twitter-wjs.min.js');</script>
 {%- endif  -%}
-{%- if include.loadSearch  -%}<script>injectScript('/assets/scripts/search.min.js');</script>{%- endif  -%}
+
+{%- if include.loadSearch  -%}
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@3.33.0/dist/algoliasearchLite.min.js" integrity="sha256-3Laj91VXexjTlFLgL8+vvIq27laXdRmFIcO2miulgEs=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@3.4.0/dist/instantsearch.production.min.js" integrity="sha256-pM0n88cBFRHpSn0N26ETsQdwpA7WAXJDvkHeCLh3ujI=" crossorigin="anonymous"></script>
+<script>injectScript('/assets/scripts/search.min.js');
+</script>
+{%- endif  -%}
+
 <script>performance.mark('mark_declare_js_end');performance.measure('mark_declare_js', 'mark_declare_js_start', 'mark_declare_js_end');</script>

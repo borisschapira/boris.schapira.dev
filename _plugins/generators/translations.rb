@@ -11,17 +11,23 @@ module Jekyll
         name = page.data['i18n-key']
         locale = page.data['locale']
         next unless name
-        if translations.key?(name)
-          translations[name].each do |translation|
-            if translation.data['locale'] != locale
-              page.data['translation'] = translation
-              translation.data['translation'] = page
-            end
-          end
-        else
-          translations[name] = []
+        unless translations.key?(name)
+          translations[name] = {}
         end
-        translations[name].push(page)
+        translations[name][locale] = page.url
+      end
+
+      site.pages.each do |page|
+        name = page.data['i18n-key']
+        locale = page.data['locale']
+        next unless name
+        if translations.key?(name)
+          transLang = (locale=="fr")? "en" : "fr"
+          page.data['translation'] = {
+            'locale' => transLang,
+            'url' => translations[name][transLang]
+          }
+        end
       end
 
       site.posts.docs.each do |post|

@@ -42,8 +42,6 @@ layout: microtypo
     <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/critical' %}" data-proofer-ignore>
     <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/main' %}" data-proofer-ignore>
     <link rel="preload" as="style" href="/assets/styles/hl.css" data-proofer-ignore>
-    <link rel="prefetch" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch.min' %}" data-proofer-ignore>
-    <link rel="prefetch" as="style" href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch-theme-algolia.min' %}" data-proofer-ignore>
     {% comment %} / Preloading the fonts and styles for later use {% endcomment %}
 
     {% comment %} Styles {% endcomment %}
@@ -51,8 +49,7 @@ layout: microtypo
     <link href="{% include assets/css.html.liquid name='/assets/styles/critical' %}" rel="stylesheet" data-proofer-ignore>
     <link href="{% include assets/css.html.liquid name='/assets/styles/main' %}" rel="stylesheet" data-proofer-ignore>
     {% if page.i18n-key == "search" %}
-    <link href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch.min' %}" rel="stylesheet" data-proofer-ignore>
-    <link href="{% include assets/css.html.liquid name='/assets/styles/vendors/instantsearch-theme-algolia.min' %}" rel="stylesheet" data-proofer-ignore>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/reset-min.css" integrity="sha256-t2ATOGCtAIZNnzER679jwcFcKYfLlw01gli6F6oszk8=" crossorigin="anonymous">
     {% endif %}
     <script>performance.mark('mark_declare_css_end');performance.measure('mark_declare_css', 'mark_declare_css_start', 'mark_declare_css_end');</script>
     {% comment %} / Styles {% endcomment %}

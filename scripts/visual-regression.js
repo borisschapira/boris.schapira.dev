@@ -6,7 +6,7 @@ const pixelmatch = require("pixelmatch");
 const { PNG } = require("pngjs");
 const puppeteer = require("puppeteer");
 const path = require("path");
-const rmfr = require("rmfr");
+const rimraf = require("rimraf");
 
 const testDir = "./_captures/test";
 const prodDir = "./_captures/reference";
@@ -25,7 +25,7 @@ const tests = {
     locale: "en-US,en",
     routes: {
       home: "",
-      citizen: "/en/citizen/"
+      dad: "/en/dad/"
     }
   }
 };
@@ -48,8 +48,8 @@ describe("👀 screenshots are correct", () => {
   before(async () => {
     // Create the test directory if needed. This and the prodDir
     // variables are global somewhere.
-    await rmfr(testDir);
-    await rmfr(diffDir);
+    rimraf.sync(testDir);
+    rimraf.sync(diffDir);
   });
 
   // This is ran after every test; clean up after your browser.
@@ -64,6 +64,9 @@ describe("👀 screenshots are correct", () => {
           args: [`--lang=${tests[t].locale}`]
         });
         page = await browser.newPage();
+        await page.setExtraHTTPHeaders({
+          "Accept-Language": tests[t].locale
+        });
       });
 
       for (const c in contexts) {
@@ -99,7 +102,7 @@ async function takeAndCompareScreenshot(page, route, routeUrl, filePrefix) {
   await page.goto(`${testUrl}/${routeUrl}`, { waitUntil: "networkidle0" });
   await page.screenshot({
     path: `${testDir}/${fileName}.png`,
-    fullPage: false
+    fullPage: route == "post"
   });
 
   // Test to see if it's right.
