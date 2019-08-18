@@ -15,10 +15,10 @@ GIT
 
 GIT
   remote: https://github.com/borisschapira/jekyll-microtypo
-  revision: 3872285e68e14303c345bc461ce6bf3d2fa09a68
+  revision: 3d632dfa7adc625fbae730274234cdaee3bbed88
   specs:
-    jekyll-microtypo (1.2.4)
-      jekyll (>= 3.0, < 4.0)
+    jekyll-microtypo (1.2.5)
+      jekyll (>= 3.0, < 5.0)
 
 GIT
   remote: https://github.com/borisschapira/jekyll-paginate-v2.git
