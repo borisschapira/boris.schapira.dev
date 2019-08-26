@@ -59,12 +59,12 @@ GIT
 
 GIT
   remote: https://github.com/nhoizey/jekyll-cloudinary
-  revision: 7b673944dd4d6343bbe650d16e8f933db9406849
+  revision: 3b26b2b9560fae8749dd071fc4ed8181d599c287
   branch: master
   specs:
-    jekyll-cloudinary (1.14.0)
+    jekyll-cloudinary (1.14.1)
       fastimage (~> 2.0)
-      jekyll (~> 3.6)
+      jekyll (>= 3.6, < 5)
 
 GEM
   remote: https://rubygems.org/
@@ -161,7 +161,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
-    rouge (3.8.0)
+    rouge (3.9.0)
     ruby-enum (0.7.2)
       i18n
     ruby_dep (1.5.0)
