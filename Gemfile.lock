@@ -29,6 +29,13 @@ GIT
       jekyll (~> 3.0)
 
 GIT
+  remote: https://github.com/jekyll/jekyll-archives/
+  revision: 74a66073ca1fe180743c728e87eb6c0655e638ce
+  specs:
+    jekyll-archives (2.2.1)
+      jekyll (>= 3.6, < 5.0)
+
+GIT
   remote: https://github.com/jekyll/jekyll-commonmark/
   revision: 6c9ae3a9cc0f46762ffd6a361317a718a47fb47f
   branch: master
@@ -59,12 +66,12 @@ GIT
 
 GIT
   remote: https://github.com/nhoizey/jekyll-cloudinary
-  revision: 7b673944dd4d6343bbe650d16e8f933db9406849
+  revision: 3b26b2b9560fae8749dd071fc4ed8181d599c287
   branch: master
   specs:
-    jekyll-cloudinary (1.14.0)
+    jekyll-cloudinary (1.14.1)
       fastimage (~> 2.0)
-      jekyll (~> 3.6)
+      jekyll (>= 3.6, < 5)
 
 GEM
   remote: https://rubygems.org/
@@ -76,16 +83,9 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.6.0)
       public_suffix (>= 2.0.2, < 4.0)
-    algolia_html_extractor (2.6.1)
-      json (~> 2.0)
-      nokogiri (~> 1.8.2)
-    algoliasearch (1.26.1)
-      httpclient (~> 2.8, >= 2.8.3)
-      json (>= 1.5.1)
     classifier-reborn (2.2.0)
       fast-stemmer (~> 1.0)
     colorator (1.1.0)
-    colorize (0.8.1)
     commonmarker (0.20.1)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.5)
@@ -98,32 +98,19 @@ GEM
     fast-stemmer (1.0.2)
     fastimage (2.1.5)
     ffi (1.11.1)
-    filesize (0.2.0)
     forwardable-extended (2.6.0)
-    html-proofer (3.9.3)
+    html-proofer (3.11.1)
       activesupport (>= 4.2, < 6.0)
       addressable (~> 2.3)
-      colorize (~> 0.8)
       mercenary (~> 0.3.2)
-      nokogiri (~> 1.8.1)
+      nokogiri (~> 1.9)
       parallel (~> 1.3)
+      rainbow (~> 3.0)
       typhoeus (~> 1.3)
       yell (~> 2.0)
     http_parser.rb (0.6.0)
-    httpclient (2.8.3)
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
-    jekyll-algolia (1.4.11)
-      algolia_html_extractor (~> 2.6)
-      algoliasearch (~> 1.25)
-      filesize (~> 0.1)
-      jekyll (~> 3.0)
-      json (~> 2.0)
-      nokogiri (~> 1.6)
-      progressbar (~> 1.9)
-      verbal_expressions (~> 0.1.5)
-    jekyll-archives (2.2.1)
-      jekyll (>= 3.6, < 5.0)
     jekyll-include-cache (0.2.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-pwa-workbox (0.0.6)
@@ -131,14 +118,8 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (1.3.1)
       jekyll (>= 3.7, < 5.0)
-    jekyll-tagging (1.1.0)
-      nuggets
-    jekyll-tagging-related_posts (1.1.0)
-      jekyll (>= 3.5, < 5.0)
-      jekyll-tagging (~> 1.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    json (2.2.0)
     kramdown (2.1.0)
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -147,21 +128,20 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
-    mini_portile2 (2.3.0)
+    mini_portile2 (2.4.0)
     minitest (5.11.3)
-    nokogiri (1.8.5)
-      mini_portile2 (~> 2.3.0)
-    nuggets (1.6.0)
+    nokogiri (1.10.4)
+      mini_portile2 (~> 2.4.0)
     parallel (1.17.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    progressbar (1.10.1)
     public_suffix (3.1.1)
+    rainbow (3.0.0)
     rake (12.3.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
-    rouge (3.8.0)
+    rouge (3.9.0)
     ruby-enum (0.7.2)
       i18n
     ruby_dep (1.5.0)
@@ -176,7 +156,6 @@ GEM
       ethon (>= 0.9.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    verbal_expressions (0.1.5)
     yell (2.2.0)
 
 PLATFORMS
@@ -187,8 +166,7 @@ DEPENDENCIES
   ffi (~> 1.11)
   html-proofer
   jekyll!
-  jekyll-algolia
-  jekyll-archives
+  jekyll-archives!
   jekyll-cloudinary!
   jekyll-commonmark!
   jekyll-include-cache
@@ -196,7 +174,6 @@ DEPENDENCIES
   jekyll-paginate-v2!
   jekyll-pwa-workbox
   jekyll-sitemap
-  jekyll-tagging-related_posts
   liquid!
   liquid-c!
   rake
