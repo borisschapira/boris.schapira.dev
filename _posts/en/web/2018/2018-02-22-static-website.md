@@ -202,10 +202,11 @@ those featuring a specific set of services: [Stripe](https://stripe.com/) for
 the payment, [Algolia](https://www.algolia.com/) for instant search,
 [Disqus](https://disqus.com/) or [IntenseDebate](https://www.intensedebate.com/)
 for comments, [Snipcart](https://snipcart.com/) for e-commerce,
-[Cloudinary](https://cloudinary.com/) for media management,
-[Formspree](https://formspree.io/) or [Staticman](https://staticman.net/) for
-forms… Note that not all of those products are designed for the JAMStack: you
-can perfectly use Algolia blazing fast API from the server-side.
+[Cloudinary](https://cloudinary.com/) or [Twicpics](https://www.twicpics.com/)
+for media management, [Formspree](https://formspree.io/) or
+[Staticman](https://staticman.net/) for forms… Note that not all of those
+products are designed for the JAMStack: you can perfectly use Algolia blazing
+fast API from the server-side.
 
 JAMStack is a real paradigm shift. The website being served to the visitor
 becomes, more than ever, a shell in which services, whether self-hosted or third

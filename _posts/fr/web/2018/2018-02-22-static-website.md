@@ -226,11 +226,11 @@ services bien spécifique : [Stripe](https://stripe.com/) pour le paiement,
 [Algolia](https://www.algolia.com/) pour la recherche instantanée,
 [Disqus](https://disqus.com/) ou [IntenseDebate](https://www.intensedebate.com/)
 pour les commentaires, [Snipcart](https://snipcart.com/) pour le e-commerce,
-[Cloudinary](https://cloudinary.com/) pour la gestion des médias,
-[Formspree](https://formspree.io/) ou [Staticman](https://staticman.net/) pour
-les formulaires... Notez que tous ces produits ne sont pas conçus pour la
-JAMStack à proprement parler : vous pouvez parfaitement utiliser les fulgurantes
-API d'Algolia côté serveur.
+[Cloudinary](https://cloudinary.com/) ou [Twicpics](https://www.twicpics.com/)
+pour la gestion des médias, [Formspree](https://formspree.io/) ou
+[Staticman](https://staticman.net/) pour les formulaires... Notez que tous ces
+produits ne sont pas conçus pour la JAMStack à proprement parler : vous pouvez
+parfaitement utiliser les fulgurantes API d'Algolia côté serveur.
 
 JAMStack est un véritable changement de paradigme. Le site Web servi au visiteur
 devient plus que jamais une coquille dans lequel des services, qu’ils soient
