@@ -106,7 +106,7 @@
   },
   "dependencies": {
     "abbr-touch": "^2.1.6",
-    "easy-toggle-state": "^1.12.1",
+    "easy-toggle-state": "^1.12.2",
     "jquery": "^3.4",
     "js-md5": "^0.7.3",
     "js-yaml": "^3.12.0",
