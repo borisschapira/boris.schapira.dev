@@ -66,7 +66,7 @@ GIT
 
 GIT
   remote: https://github.com/nhoizey/jekyll-cloudinary
-  revision: 3b26b2b9560fae8749dd071fc4ed8181d599c287
+  revision: 5965a8a053e5d360ed17936085eebc9654a7f000
   branch: master
   specs:
     jekyll-cloudinary (1.14.1)
@@ -81,8 +81,8 @@ GEM
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-    addressable (2.6.0)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.7.0)
+      public_suffix (>= 2.0.2, < 5.0)
     classifier-reborn (2.2.0)
       fast-stemmer (~> 1.0)
     colorator (1.1.0)
@@ -135,7 +135,7 @@ GEM
     parallel (1.17.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (3.1.1)
+    public_suffix (4.0.1)
     rainbow (3.0.0)
     rake (12.3.3)
     rb-fsevent (0.10.3)
