@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/Shopify/liquid-c.git
-  revision: e77102d2e6159418e80b4fc083d10a63b4fde9f2
+  revision: 5d59bd511e02006268cfa468120b13e100d2c4fc
   branch: master
   specs:
     liquid-c (4.0.0)
@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/Shopify/liquid.git
-  revision: 831355dfbd4f78c5365f2e3f919e57993209ad76
+  revision: c34f7c9b2c0a057e3bb440872e31a221aba4d1c7
   branch: master
   specs:
     liquid (4.0.3)
@@ -66,7 +66,7 @@ GIT
 
 GIT
   remote: https://github.com/nhoizey/jekyll-cloudinary
-  revision: 3b26b2b9560fae8749dd071fc4ed8181d599c287
+  revision: 5965a8a053e5d360ed17936085eebc9654a7f000
   branch: master
   specs:
     jekyll-cloudinary (1.14.1)
@@ -76,13 +76,8 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.2.3)
-      concurrent-ruby (~> 1.0, >= 1.0.2)
-      i18n (>= 0.7, < 2)
-      minitest (~> 5.1)
-      tzinfo (~> 1.1)
-    addressable (2.6.0)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.7.0)
+      public_suffix (>= 2.0.2, < 5.0)
     classifier-reborn (2.2.0)
       fast-stemmer (~> 1.0)
     colorator (1.1.0)
@@ -99,13 +94,13 @@ GEM
     fastimage (2.1.5)
     ffi (1.11.1)
     forwardable-extended (2.6.0)
-    html-proofer (3.11.1)
-      activesupport (>= 4.2, < 6.0)
+    html-proofer (3.12.0)
       addressable (~> 2.3)
-      mercenary (~> 0.3.2)
-      nokogiri (~> 1.9)
+      mercenary (~> 0.3)
+      nokogiri (~> 1.10)
       parallel (~> 1.3)
       rainbow (~> 3.0)
+      timerizer (~> 0.3)
       typhoeus (~> 1.3)
       yell (~> 2.0)
     http_parser.rb (0.6.0)
@@ -129,19 +124,18 @@ GEM
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
     mini_portile2 (2.4.0)
-    minitest (5.11.3)
     nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
     parallel (1.17.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (3.1.1)
+    public_suffix (4.0.1)
     rainbow (3.0.0)
     rake (12.3.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
-    rouge (3.9.0)
+    rouge (3.10.0)
     ruby-enum (0.7.2)
       i18n
     ruby_dep (1.5.0)
@@ -151,11 +145,9 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    thread_safe (0.3.6)
+    timerizer (0.3.2)
     typhoeus (1.3.1)
       ethon (>= 0.9.0)
-    tzinfo (1.2.5)
-      thread_safe (~> 0.1)
     yell (2.2.0)
 
 PLATFORMS
