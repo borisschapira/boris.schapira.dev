@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/Shopify/liquid-c.git
-  revision: 5d59bd511e02006268cfa468120b13e100d2c4fc
+  revision: 8c5ad175b7db288b9132b24c470f260c027e7a2e
   branch: master
   specs:
     liquid-c (4.0.0)
