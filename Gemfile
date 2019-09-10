@@ -24,7 +24,7 @@ group :jekyll_plugins do
   # gem 'jekyll-tagging-related_posts'
   # gem 'jekyll-algolia', :git => 'git@github.com:ashmaroli/jekyll-algolia.git', :branch => 'delete-key-not-reset'
   gem 'jekyll-archives', git: 'https://github.com/jekyll/jekyll-archives/'
-  gem 'jekyll-cloudinary', git: 'https://github.com/nhoizey/jekyll-cloudinary', branch: 'master'
+  gem 'jekyll-cloudinary'
   gem 'jekyll-commonmark', git: 'https://github.com/jekyll/jekyll-commonmark/', branch: 'master'
   gem 'jekyll-include-cache'
   gem 'jekyll-microtypo', git: 'https://github.com/borisschapira/jekyll-microtypo'

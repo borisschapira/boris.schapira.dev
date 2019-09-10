@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/Shopify/liquid-c.git
-  revision: 5d59bd511e02006268cfa468120b13e100d2c4fc
+  revision: 8c5ad175b7db288b9132b24c470f260c027e7a2e
   branch: master
   specs:
     liquid-c (4.0.0)
@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/Shopify/liquid.git
-  revision: c34f7c9b2c0a057e3bb440872e31a221aba4d1c7
+  revision: 806b2622da6acdfd236478a2e90bedf999868f8d
   branch: master
   specs:
     liquid (4.0.3)
@@ -64,15 +64,6 @@ GIT
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
 
-GIT
-  remote: https://github.com/nhoizey/jekyll-cloudinary
-  revision: 5965a8a053e5d360ed17936085eebc9654a7f000
-  branch: master
-  specs:
-    jekyll-cloudinary (1.14.1)
-      fastimage (~> 2.0)
-      jekyll (>= 3.6, < 5)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -91,21 +82,23 @@ GEM
       ffi (>= 1.3.0)
     eventmachine (1.2.7)
     fast-stemmer (1.0.2)
-    fastimage (2.1.5)
+    fastimage (2.1.7)
     ffi (1.11.1)
     forwardable-extended (2.6.0)
-    html-proofer (3.12.0)
+    html-proofer (3.12.2)
       addressable (~> 2.3)
       mercenary (~> 0.3)
       nokogiri (~> 1.10)
       parallel (~> 1.3)
       rainbow (~> 3.0)
-      timerizer (~> 0.3)
       typhoeus (~> 1.3)
       yell (~> 2.0)
     http_parser.rb (0.6.0)
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
+    jekyll-cloudinary (1.14.1)
+      fastimage (~> 2.0)
+      jekyll (>= 3.6, < 5)
     jekyll-include-cache (0.2.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-pwa-workbox (0.0.6)
@@ -145,7 +138,6 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    timerizer (0.3.2)
     typhoeus (1.3.1)
       ethon (>= 0.9.0)
     yell (2.2.0)
@@ -159,7 +151,7 @@ DEPENDENCIES
   html-proofer
   jekyll!
   jekyll-archives!
-  jekyll-cloudinary!
+  jekyll-cloudinary
   jekyll-commonmark!
   jekyll-include-cache
   jekyll-microtypo!
