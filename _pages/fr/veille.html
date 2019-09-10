@@ -1,0 +1,23 @@
+---
+layout: page
+title: Veille
+permalink: /veille/
+i18n-key: watch
+---
+
+{% assign bks = site.bookmarks|sort: 'date'| reverse %}
+
+{% for bk in bks %}
+<article class="colorized post">
+    <h2 class="post-title" id="{{ bk._id }}">
+      <a href="{{ bk.link }}">{{ bk.title }}</a>
+    </h2>
+    {{ bk.content | markdownify }}
+    <p class="tags">
+      {%- for tag in bk.tags -%}
+        #{{ tag }}
+        {%- unless forloop.last %}, {% endunless -%}
+      {%- endfor -%}
+    </p>
+</article>
+{% endfor %}
