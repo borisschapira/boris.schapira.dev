@@ -603,6 +603,10 @@ hr {
     color: var(--color-main);
     background-color: var(--color-compliment-text);
     text-decoration: none; }
+  .button:active, .button.active,
+  .button-inversed:active,
+  .button-inversed.active {
+    border-color: var(--color-main-text); }
 
 .button-inversed,
 .menu-open .menu-trigger {
@@ -985,6 +989,42 @@ ins {
       background-color: var(--dazzled-color);
       border-left: 1px dashed var(--lightgray-color);
       border-top: 1px dashed var(--lightgray-color); }
+
+.tagcount-0 {
+  font-size: 0.8rem; }
+
+.tagcount-1 {
+  font-size: 0.84rem; }
+
+.tagcount-2 {
+  font-size: 0.88rem; }
+
+.tagcount-3 {
+  font-size: 0.92rem; }
+
+.tagcount-4 {
+  font-size: 0.96rem; }
+
+.tagcount-5 {
+  font-size: 1rem; }
+
+.tagcount-6 {
+  font-size: 1.04rem; }
+
+.tagcount-7 {
+  font-size: 1.08rem; }
+
+.tagcount-8 {
+  font-size: 1.12rem; }
+
+.tagcount-9 {
+  font-size: 1.16rem; }
+
+.tagcount-10 {
+  font-size: 1.2rem; }
+
+.tagcount {
+  display: none; }
 
 html {
   box-sizing: border-box; }

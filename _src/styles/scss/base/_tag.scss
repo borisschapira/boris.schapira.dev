@@ -1,0 +1,9 @@
+@for $i from 0 through 10 {
+  .tagcount-#{$i} {
+    font-size: #{0.8rem + 0.04rem * $i};
+  }
+}
+
+.tagcount {
+  display: none;
+}

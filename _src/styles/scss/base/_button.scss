@@ -28,6 +28,11 @@
     background-color: var(--color-compliment-text);
     text-decoration: none;
   }
+
+  &:active,
+  &.active {
+    border-color: var(--color-main-text);
+  }
 }
 
 .button-inversed,

@@ -5,6 +5,9 @@ var mkdirp = require("mkdirp");
 let Parser = require("rss-parser");
 let parser = new Parser();
 const crypto = require("crypto");
+const slugify = require("slugify");
+const escapeStringRegexp = require("escape-string-regexp");
+const removals = "<>.~\":/?#[]{}()@!$'()*+,;=";
 
 /*
   Collect and stash comments for the build
@@ -16,10 +19,20 @@ const crypto = require("crypto");
     "https://my.framasoft.org/u/borisschapira/?do=rss&searchtags=sharemarks&nb=10000"
   ];
 
-  feeds.forEach(async feed_url => {
+  let tags = new Array();
+
+  await asyncForEach(feeds, async feed_url => {
     var feed = await parser.parseURL(feed_url);
     feed.items.forEach(createBookmarkFile);
   });
+
+  createBookmarksTagsFile();
+
+  async function asyncForEach(array, callback) {
+    for (let index = 0; index < array.length; index++) {
+      await callback(array[index], index, array);
+    }
+  }
 
   function cleanMyFramaContent(content) {
     return content
@@ -37,17 +50,72 @@ const crypto = require("crypto");
   function getDate(d) {
     return [
       d.getFullYear(),
-      (d.getMonth() + 1).padLeft(),
-      d.getDate().padLeft()
+      ("00" + (d.getMonth() + 1)).slice(-2),
+      ("00" + (d.getDate())).slice(-2)
     ].join("-");
   }
 
-  Number.prototype.padLeft = function(base, chr) {
-    var len = String(base || 10).length - String(this).length + 1;
-    return len > 0 ? new Array(len).join(chr || "0") + this : this;
-  };
+  function tagSlug(tag) {
+    return slugify(tag, {
+      replacement: "-",
+      remove: new RegExp(
+        "[" + escapeStringRegexp(removals) + "]",
+        "g"
+      ),
+      lower: true
+    });
+  }
+
+  function createBookmarksTagsFile() {
+    console.log({ tags });
+
+    let tagCount = tags.reduce(function(tagsCount, currentTag) {
+      if (typeof tagsCount[currentTag] !== "undefined") {
+        tagsCount[currentTag]++;
+        return tagsCount;
+      } else {
+        tagsCount[currentTag] = 1;
+        return tagsCount;
+      }
+    }, {});
+
+    let orderedTagObjects = [...new Set(tags)].sort().map(tag => {
+      return {
+        name: tag,
+        slug: tagSlug(tag),
+        count: tagCount[tag]
+      };
+    });
+
+    console.log({ orderedTagObjects });
+
+    fs.writeFile(
+      path.resolve(__dirname, "../_data/tagsCount.yml"),
+      "---\n" +
+        yaml.safeDump(orderedTagObjects, {
+          styles: {
+            "!!null": "canonical" // dump null as ~
+          },
+          sortKeys: false // sort object keys
+        }),
+      {
+        flag: "w"
+      },
+      function(err) {
+        if (err) {
+          console.log(err);
+        } else {
+          console.log("Bookmark tags data saved.");
+        }
+      }
+    );
+  }
 
   function createBookmarkFile(bookmark) {
+    let thisTags = [...new Set(bookmark.categories.map(x => x["_"]))];
+
+    tags = [...tags, ...thisTags];
+
     // Each comment is stored in a single file with a timestamp-based file path
     var dateString = getDate(new Date(bookmark.isoDate));
     var yearString = "" + new Date(bookmark.isoDate).getFullYear();
@@ -71,9 +139,7 @@ const crypto = require("crypto");
             title: bookmark.title,
             link: bookmark.link,
             date: getDate(new Date(bookmark.isoDate)),
-            tags: bookmark.categories.map(x => {
-              return x["_"];
-            })
+            tags: thisTags.map(t=>{return {name:t,slug:tagSlug(t)}})
           },
           {
             styles: {
@@ -90,8 +156,6 @@ const crypto = require("crypto");
       function(err) {
         if (err) {
           console.log(err);
-        } else {
-          console.log("Bookmark data saved.");
         }
       }
     );
