@@ -79,7 +79,7 @@ const removals = "<>.~\":/?#[]{}()@!$'()*+,;=";
       }
     }, {});
 
-    let orderedTagObjects = [...new Set(tags)].sort().map(tag => {
+    let orderedTagObjects = [...new Set(tags)].sort((a,b)=>a.toLowerCase().localeCompare(b.toLowerCase())).map(tag => {
       return {
         name: tag,
         slug: tagSlug(tag),

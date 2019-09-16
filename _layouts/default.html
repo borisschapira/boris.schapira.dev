@@ -161,17 +161,15 @@ layout: microtypo
           <ul class="menu" id="main-nav">
             <li {% if page.type == 'post' or page.layout == 'index' %}class="active"{% endif %}><a href="{{ page.baseurl | relative_url }}">{{ "Notes" | t: page.locale }}</a></li>
 
-            <li {% if page.i18n-key == 'about' %}class="active"{% endif %}>
-              <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}/">{{ "À propos" | t: page.locale }}</a>
-            </li>
+            <li {% if page.i18n-key == 'about' %}class="active"{% endif %}><a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}/">{{ "À propos" | t: page.locale }}</a></li>
 
-            <li {% if page.i18n-key == 'about' %}class="active"{% endif %}>
-              <a href="{{ "partager" | t:page.locale | prepend: page.baseurl | relative_url }}/">{{ "Partager" | t: page.locale }}</a>
-            </li>
+            <li {% if page.i18n-key == 'about' %}class="active"{% endif %}><a href="{{ "partager" | t:page.locale | prepend: page.baseurl | relative_url }}/">{{ "Partager" | t: page.locale }}</a></li>
 
             <li {% if page.i18n-key == 'search' %}class="active"{% endif %}>
-            <a href="{{ 'recherche' | t: page.locale | prepend: page.baseurl | relative_url }}/">{{ "Recherche" | t: page.locale }}</a>
-            </li>
+            <a href="{{ 'recherche' | t: page.locale | prepend: page.baseurl | relative_url }}/">{{ "Recherche" | t: page.locale }}</a></li>
+
+            <li {% if page.i18n-key == 'bookmarks' %}class="active"{% endif %}>
+              <a href="{{ '/bookmarks' | relative_url }}/">Bookmarks</a></li>
 
             {% if page.translation %}
             <li>{% include read_in.html.liquid
