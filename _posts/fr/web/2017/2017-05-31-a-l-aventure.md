@@ -91,9 +91,9 @@ potentiel professionnel.
 paraitre qu'il a été au préalable brisé{% endcapture %}
 {% capture img_caption %}Un exemple de <span lang="ja">kintsugi</span>. Au lieu
 de cacher les cicatrices d'un objet brisé ou fragilisé, le
-<span lang="ja">kintsugi</span> les valorise. Au lieu de n’avoir une existence
+<span lang="ja">kintsugi</span> les valorise. Au lieu de n’avoir qu’une existence
 dans l’instant, l’objet s’enrichit d’une histoire qui raconte ses faiblesses et
-le rendent unique.{% endcapture %} {% include rwd-image.html.liquid
+le rend unique.{% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2016-12-26/kintsugi.jpg"
 alt=img_alt
 caption=img_caption
@@ -121,9 +121,9 @@ lettre.
 > bordelaise et la confiance que tu m’as témoigné et me témoigne encore dans
 > l’accomplissement de mes missions.
 
-J'en ensuite appelé Olivier, pour le remercier également de l'opportunité que je
+J'ai ensuite appelé Olivier, pour le remercier également de l'opportunité que je
 venais de refuser. Enfin, j'ai laissé un message sur le répondeur de Frédéric
-Bon, le Président de Clever Age. Ce fût la demi-heure ma plus longue depuis la
+Bon, le Président de Clever Age. Ce fut la demi-heure ma plus longue depuis la
 naissance de mon fils aîné et probablement un des moments de ma vie où j'ai dû
 faire preuve du plus de détermination. Plusieurs mois plus tard, j'ai encore une
 grande émotion en l'écrivant.
