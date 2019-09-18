@@ -17,6 +17,10 @@
   padding: 0 5px;
   @include transition();
 
+  .save-data & {
+    font-family: $button-font-family-save-data;
+  }
+
   color: var(--color-compliment-text);
   background-color: var(--color-main);
   border-color: var(--color-compliment-text);

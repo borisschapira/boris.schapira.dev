@@ -187,6 +187,17 @@ function perfmark(callback, key) {
   );
 }
 
+(function saveData() {
+  if (navigator.connection.saveData == true) {
+    // Add class to document
+    document.documentElement.classList.add('save-data');
+    // use default img src
+    [...document.querySelectorAll('[srcset]')].forEach(img => {
+      img.removeAttribute('srcset');
+    });
+  }
+})();
+
 (function darkModeSwitcher() {
   var labels = document.querySelectorAll('.color-mode-labels label');
   labels.forEach(function(label) {
@@ -318,8 +329,8 @@ ready(function() {
         // Display articles
         [...document.querySelectorAll('article')].forEach(article => {
           if (
-            activeTags.length == 0
-            || activeTags.reduce(
+            activeTags.length == 0 ||
+            activeTags.reduce(
               (accumulator, currentValue) =>
                 accumulator || article.classList.contains(currentValue),
               false

@@ -597,6 +597,9 @@ hr {
     .button,
     .button-inversed {
       transition: none; } }
+  .save-data .button, .save-data
+  .button-inversed {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif; }
   .button:hover, .button:focus,
   .button-inversed:hover,
   .button-inversed:focus {
@@ -795,10 +798,38 @@ hr {
       animation: none; } }
 
 html,
+body,
+input,
+textarea,
+select,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "PT Serif", Georgia, Cambria, "Times New Roman", Times, serif; }
+  .save-data html, html.save-data, .save-data
+  body,
+  body.save-data, .save-data
+  input,
+  input.save-data, .save-data
+  textarea,
+  textarea.save-data, .save-data
+  select,
+  select.save-data, .save-data
+  h3,
+  h3.save-data, .save-data
+  h4,
+  h4.save-data, .save-data
+  h5,
+  h5.save-data, .save-data
+  h6,
+  h6.save-data {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif; }
+
+html,
 input,
 textarea,
 select {
-  font-family: "PT Serif", Georgia, Cambria, "Times New Roman", Times, serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.7; }
@@ -817,12 +848,15 @@ h2,
   font-style: normal;
   font-weight: 700;
   line-height: 1.2; }
+  .save-data h1, .save-data
+  h2, .save-data
+  .h-like {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif; }
 
 h3,
 h4,
 h5,
 h6 {
-  font-family: "PT Serif", Georgia, Cambria, "Times New Roman", Times, serif;
   font-style: normal;
   font-weight: 400; }
 

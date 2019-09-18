@@ -1,8 +1,24 @@
 html,
+body,
+input,
+textarea,
+select,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $default-font-family;
+
+  .save-data &,
+  &.save-data {
+    font-family: $default-font-family-save-data;
+  }
+}
+
+html,
 input,
 textarea,
 select {
-  font-family: $default-font-family;
   font-style: $default-font-style;
   font-weight: $default-font-weight;
   line-height: $default-line-height;
@@ -23,13 +39,16 @@ h2,
   font-style: $title-font-style;
   font-weight: $title-font-weight;
   line-height: $title-line-height;
+
+  .save-data & {
+    font-family: $title-font-family-save-data;
+  }
 }
 
 h3,
 h4,
 h5,
 h6 {
-  font-family: $default-font-family;
   font-style: $default-font-style;
   font-weight: $default-font-weight;
 }

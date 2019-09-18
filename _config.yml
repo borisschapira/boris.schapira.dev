@@ -294,6 +294,10 @@ cloudinary:
   cloud_name: borisschapira
   presets:
     default:
+      min_width: 320
+      max_width: 1600
+      fallback_max_width: 540
+      steps: 5
       sizes: "80vw"
 
 dareboost:
