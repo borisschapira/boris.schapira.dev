@@ -296,7 +296,7 @@ cloudinary:
     default:
       min_width: 320
       max_width: 1600
-      fallback_max_width: 540
+      fallback_max_width: 320
       steps: 5
       sizes: "80vw"
 
