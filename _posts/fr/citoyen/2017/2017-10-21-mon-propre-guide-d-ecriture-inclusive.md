@@ -17,9 +17,7 @@ si j'ai besoin d'expliquer ma façon de procéder.
     le
     [point médian](https://fr.m.wikipedia.org/wiki/Point_médian#Saisie_au_clavier)
     sinon : "les acteurs et les actrices" ; les "salarié·e·s".
--   Utiliser "humains" plutôt que "Hommes" pour désigner l'humanité ; utiliser
-    "les femmes" plutôt que "la femme" pour parler des femmes autrement que dans
-    leurs sensualités.
+-   Utiliser les pronoms "iel" et "iels" si et uniquement si cela permet d'alléger la lecture, dans un contexte contraint (sinon, privilégier "elle et il").
 
 ---
 
