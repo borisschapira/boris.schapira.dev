@@ -24,13 +24,15 @@ function perfmark(callback, key) {
 }
 
 (function saveData() {
-  if (navigator.connection.saveData == true) {
-    // Add class to document
-    document.documentElement.classList.add('save-data');
-    // use default img src
-    [...document.querySelectorAll('[srcset]')].forEach(img => {
-      img.removeAttribute('srcset');
-    });
+  if ('connection' in navigator) {
+    if (navigator.connection.saveData == true) {
+      // Add class to document
+      document.documentElement.classList.add('save-data');
+      // use default img src
+      [...document.querySelectorAll('[srcset]')].forEach(img => {
+        img.removeAttribute('srcset');
+      });
+    }
   }
 })();
 
