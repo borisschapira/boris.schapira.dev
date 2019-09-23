@@ -31,7 +31,9 @@ function perfmark(callback, key) {
       // use default img src
       [...document.querySelectorAll('[srcset]')].forEach(img => {
         // eslint-disable-next-line require-unicode-regexp
-        img.srcset = img.srcset.replace(/q_auto/g,'q_0').replace(/\/fetch\//g,'/fetch/e_grayscale/');
+        img.srcset = img.srcset
+          .replace(/q_auto/g, 'q_0')
+          .replace(/\/fetch\//g, '/fetch/e_grayscale/');
       });
     }
   }
