@@ -237,7 +237,7 @@ is not available, hiding the non-lazy-loaded images.
 You may be afraid of the resulting verbose HTML related to code duplication.
 Don’t worry, your HTML documents have to be compressed with gzip or brotli
 before being sent on the network, hence a marginal impact in transfer size (if
-you’re not sure you’re website is properly using compression,
+you’re not sure your website is properly using compression,
 [audit your pages on Dareboost](https://www.dareboost.com/)).
 
 Of course, it remains true that entering all these tags is tedious. When
