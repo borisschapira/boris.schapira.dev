@@ -80,18 +80,18 @@
 - name: analysis
   slug: analysis
   count: 3
-- name: analytics
-  slug: analytics
-  count: 4
 - name: Analytics
   slug: analytics
   count: 4
-- name: android
-  slug: android
+- name: analytics
+  slug: analytics
   count: 4
 - name: Android
   slug: android
   count: 5
+- name: android
+  slug: android
+  count: 4
 - name: angular
   slug: angular
   count: 5
@@ -109,7 +109,7 @@
   count: 4
 - name: animation
   slug: animation
-  count: 6
+  count: 7
 - name: animations
   slug: animations
   count: 6
@@ -146,12 +146,12 @@
 - name: AppStore
   slug: appstore
   count: 1
-- name: Architecture
-  slug: architecture
-  count: 1
 - name: architecture
   slug: architecture
   count: 5
+- name: Architecture
+  slug: architecture
+  count: 1
 - name: Archive
   slug: archive
   count: 2
@@ -194,10 +194,10 @@
 - name: attente
   slug: attente
   count: 1
-- name: audience
+- name: Audience
   slug: audience
   count: 1
-- name: Audience
+- name: audience
   slug: audience
   count: 1
 - name: audit
@@ -290,12 +290,12 @@
 - name: bigquery
   slug: bigquery
   count: 1
-- name: binary
-  slug: binary
-  count: 1
 - name: Binary
   slug: binary
   count: 2
+- name: binary
+  slug: binary
+  count: 1
 - name: Bing
   slug: bing
   count: 1
@@ -331,7 +331,7 @@
   count: 1
 - name: boostmarks
   slug: boostmarks
-  count: 567
+  count: 570
 - name: Boostrap
   slug: boostrap
   count: 2
@@ -356,12 +356,12 @@
 - name: brotli
   slug: brotli
   count: 1
-- name: Browser
-  slug: browser
-  count: 1
 - name: browser
   slug: browser
   count: 13
+- name: Browser
+  slug: browser
+  count: 1
 - name: browserify
   slug: browserify
   count: 1
@@ -422,19 +422,19 @@
 - name: CanIUse
   slug: caniuse
   count: 3
-- name: Canvas
+- name: canvas
   slug: canvas
   count: 2
-- name: canvas
+- name: Canvas
   slug: canvas
   count: 2
 - name: capabilities
   slug: capabilities
   count: 1
-- name: capture
+- name: Capture
   slug: capture
   count: 1
-- name: Capture
+- name: capture
   slug: capture
   count: 1
 - name: CardSpace
@@ -452,15 +452,15 @@
 - name: cd
   slug: cd
   count: 1
+- name: Cdn
+  slug: cdn
+  count: 2
 - name: CDN
   slug: cdn
   count: 2
 - name: cdn
   slug: cdn
   count: 3
-- name: Cdn
-  slug: cdn
-  count: 2
 - name: censorship
   slug: censorship
   count: 1
@@ -479,10 +479,10 @@
 - name: chapters
   slug: chapters
   count: 1
-- name: charting
+- name: Charting
   slug: charting
   count: 1
-- name: Charting
+- name: charting
   slug: charting
   count: 1
 - name: Charts
@@ -506,12 +506,12 @@
 - name: China
   slug: china
   count: 1
-- name: Chrome
-  slug: chrome
-  count: 6
 - name: chrome
   slug: chrome
   count: 10
+- name: Chrome
+  slug: chrome
+  count: 6
 - name: ci
   slug: ci
   count: 2
@@ -527,12 +527,12 @@
 - name: Clevermarks
   slug: clevermarks
   count: 1
-- name: CLI
-  slug: cli
-  count: 2
 - name: cli
   slug: cli
   count: 10
+- name: CLI
+  slug: cli
+  count: 2
 - name: client-hint
   slug: client-hint
   count: 1
@@ -554,12 +554,12 @@
 - name: cls
   slug: cls
   count: 1
-- name: cms
-  slug: cms
-  count: 7
 - name: CMS
   slug: cms
   count: 3
+- name: cms
+  slug: cms
+  count: 7
 - name: CNIL
   slug: cnil
   count: 2
@@ -581,24 +581,24 @@
 - name: cognitive
   slug: cognitive
   count: 1
-- name: collaboration
-  slug: collaboration
-  count: 1
 - name: Collaboration
   slug: collaboration
   count: 2
+- name: collaboration
+  slug: collaboration
+  count: 1
 - name: Collections
   slug: collections
   count: 1
 - name: collections
   slug: collections
   count: 1
-- name: Color
-  slug: color
-  count: 1
 - name: color
   slug: color
   count: 7
+- name: Color
+  slug: color
+  count: 1
 - name: colorblind
   slug: colorblind
   count: 1
@@ -626,10 +626,10 @@
 - name: commonJs
   slug: commonjs
   count: 2
-- name: Communication
+- name: communication
   slug: communication
   count: 1
-- name: communication
+- name: Communication
   slug: communication
   count: 1
 - name: community
@@ -689,12 +689,12 @@
 - name: consulting
   slug: consulting
   count: 4
-- name: content
-  slug: content
-  count: 4
 - name: Content
   slug: content
   count: 3
+- name: content
+  slug: content
+  count: 4
 - name: contentmanagement
   slug: contentmanagement
   count: 1
@@ -716,12 +716,12 @@
 - name: contribution
   slug: contribution
   count: 1
-- name: control
-  slug: control
-  count: 3
 - name: Control
   slug: control
   count: 1
+- name: control
+  slug: control
+  count: 3
 - name: Controls
   slug: controls
   count: 1
@@ -785,13 +785,13 @@
 - name: crossorigin
   slug: crossorigin
   count: 1
-- name: crux
-  slug: crux
-  count: 1
 - name: CrUX
   slug: crux
   count: 1
 - name: crUX
+  slug: crux
+  count: 1
+- name: crux
   slug: crux
   count: 1
 - name: cryptocurrency
@@ -808,7 +808,7 @@
   count: 1
 - name: css
   slug: css
-  count: 105
+  count: 106
 - name: CSS
   slug: css
   count: 2
@@ -824,10 +824,10 @@
 - name: cURL
   slug: curl
   count: 1
-- name: Custom
+- name: custom
   slug: custom
   count: 1
-- name: custom
+- name: Custom
   slug: custom
   count: 1
 - name: custom-timings
@@ -854,12 +854,12 @@
 - name: dashboard
   slug: dashboard
   count: 5
-- name: Data
-  slug: data
-  count: 6
 - name: data
   slug: data
   count: 22
+- name: Data
+  slug: data
+  count: 6
 - name: database
   slug: database
   count: 1
@@ -872,12 +872,12 @@
 - name: Debt
   slug: debt
   count: 1
-- name: debug
-  slug: debug
-  count: 4
 - name: Debug
   slug: debug
   count: 2
+- name: debug
+  slug: debug
+  count: 4
 - name: debugging
   slug: debugging
   count: 1
@@ -908,12 +908,12 @@
 - name: deployment
   slug: deployment
   count: 1
-- name: design
-  slug: design
-  count: 46
 - name: Design
   slug: design
   count: 1
+- name: design
+  slug: design
+  count: 46
 - name: designers
   slug: designers
   count: 1
@@ -986,12 +986,12 @@
 - name: dns
   slug: dns
   count: 2
-- name: documentation
-  slug: documentation
-  count: 2
 - name: Documentation
   slug: documentation
   count: 4
+- name: documentation
+  slug: documentation
+  count: 2
 - name: doh
   slug: doh
   count: 1
@@ -1016,15 +1016,15 @@
 - name: du
   slug: du
   count: 1
-- name: E-Commerce
-  slug: e-commerce
-  count: 1
 - name: E-commerce
   slug: e-commerce
   count: 9
 - name: e-commerce
   slug: e-commerce
   count: 2
+- name: E-Commerce
+  slug: e-commerce
+  count: 1
 - name: early-flush
   slug: early-flush
   count: 1
@@ -1043,12 +1043,12 @@
 - name: Edge
   slug: edge
   count: 1
-- name: editor
-  slug: editor
-  count: 6
 - name: Editor
   slug: editor
   count: 1
+- name: editor
+  slug: editor
+  count: 6
 - name: effects
   slug: effects
   count: 3
@@ -1061,12 +1061,12 @@
 - name: Elements
   slug: elements
   count: 1
-- name: email
-  slug: email
-  count: 10
 - name: Email
   slug: email
   count: 4
+- name: email
+  slug: email
+  count: 10
 - name: Emailing
   slug: emailing
   count: 1
@@ -1091,10 +1091,10 @@
 - name: encoding
   slug: encoding
   count: 1
-- name: engine
+- name: Engine
   slug: engine
   count: 1
-- name: Engine
+- name: engine
   slug: engine
   count: 1
 - name: enhancement
@@ -1106,10 +1106,10 @@
 - name: entrepreneurship
   slug: entrepreneurship
   count: 1
-- name: entreprise
+- name: Entreprise
   slug: entreprise
   count: 1
-- name: Entreprise
+- name: entreprise
   slug: entreprise
   count: 1
 - name: epi
@@ -1154,12 +1154,12 @@
 - name: example
   slug: example
   count: 1
-- name: examples
-  slug: examples
-  count: 1
 - name: Examples
   slug: examples
   count: 3
+- name: examples
+  slug: examples
+  count: 1
 - name: execution
   slug: execution
   count: 1
@@ -1187,12 +1187,12 @@
 - name: Explorer
   slug: explorer
   count: 2
-- name: Expressions
-  slug: expressions
-  count: 2
 - name: expressions
   slug: expressions
   count: 1
+- name: Expressions
+  slug: expressions
+  count: 2
 - name: Extension
   slug: extension
   count: 2
@@ -1202,18 +1202,18 @@
 - name: extensions
   slug: extensions
   count: 1
+- name: Eye
+  slug: eye
+  count: 1
 - name: eye
   slug: eye
   count: 1
-- name: Eye
-  slug: eye
+- name: facebook
+  slug: facebook
   count: 1
 - name: Facebook
   slug: facebook
   count: 2
-- name: facebook
-  slug: facebook
-  count: 1
 - name: factor
   slug: factor
   count: 1
@@ -1226,12 +1226,12 @@
 - name: favicon
   slug: favicon
   count: 1
-- name: feedback
-  slug: feedback
-  count: 7
 - name: Feedback
   slug: feedback
   count: 3
+- name: feedback
+  slug: feedback
+  count: 7
 - name: féminisme
   slug: feminisme
   count: 1
@@ -1253,24 +1253,24 @@
 - name: filters
   slug: filters
   count: 1
-- name: Firefox
-  slug: firefox
-  count: 2
 - name: firefox
   slug: firefox
   count: 1
+- name: Firefox
+  slug: firefox
+  count: 2
 - name: firefoxos
   slug: firefoxos
   count: 2
 - name: flash
   slug: flash
   count: 1
-- name: flat
-  slug: flat
-  count: 2
 - name: Flat
   slug: flat
   count: 1
+- name: flat
+  slug: flat
+  count: 2
 - name: flavoured
   slug: flavoured
   count: 1
@@ -1310,12 +1310,12 @@
 - name: fold
   slug: fold
   count: 1
-- name: font
-  slug: font
-  count: 17
 - name: Font
   slug: font
   count: 4
+- name: font
+  slug: font
+  count: 17
 - name: font-face
   slug: font-face
   count: 1
@@ -1325,12 +1325,12 @@
 - name: FontFace
   slug: fontface
   count: 2
-- name: Fonts
-  slug: fonts
-  count: 4
 - name: fonts
   slug: fonts
   count: 10
+- name: Fonts
+  slug: fonts
+  count: 4
 - name: footnotes
   slug: footnotes
   count: 1
@@ -1343,12 +1343,12 @@
 - name: format
   slug: format
   count: 1
-- name: forms
-  slug: forms
-  count: 8
 - name: Forms
   slug: forms
   count: 1
+- name: forms
+  slug: forms
+  count: 8
 - name: FOUT
   slug: fout
   count: 4
@@ -1358,12 +1358,12 @@
 - name: framentation
   slug: framentation
   count: 1
-- name: framework
-  slug: framework
-  count: 16
 - name: Framework
   slug: framework
   count: 6
+- name: framework
+  slug: framework
+  count: 16
 - name: frameworks
   slug: frameworks
   count: 3
@@ -1412,10 +1412,10 @@
 - name: gallery
   slug: gallery
   count: 2
-- name: Game
+- name: game
   slug: game
   count: 1
-- name: game
+- name: Game
   slug: game
   count: 1
 - name: gatsby
@@ -1433,18 +1433,18 @@
 - name: gif
   slug: gif
   count: 8
-- name: git
-  slug: git
-  count: 12
 - name: Git
   slug: git
   count: 6
-- name: github
-  slug: github
-  count: 17
+- name: git
+  slug: git
+  count: 12
 - name: Github
   slug: github
   count: 2
+- name: github
+  slug: github
+  count: 17
 - name: GitHub
   slug: github
   count: 1
@@ -1457,12 +1457,12 @@
 - name: goiglr
   slug: goiglr
   count: 1
-- name: Google
-  slug: google
-  count: 2
 - name: google
   slug: google
   count: 17
+- name: Google
+  slug: google
+  count: 2
 - name: GoogleApis
   slug: googleapis
   count: 2
@@ -1487,12 +1487,12 @@
 - name: graphs
   slug: graphs
   count: 1
-- name: Grid
-  slug: grid
-  count: 1
 - name: grid
   slug: grid
   count: 13
+- name: Grid
+  slug: grid
+  count: 1
 - name: Grids
   slug: grids
   count: 3
@@ -1646,10 +1646,10 @@
 - name: hugo
   slug: hugo
   count: 7
-- name: Humain
+- name: humain
   slug: humain
   count: 1
-- name: humain
+- name: Humain
   slug: humain
   count: 1
 - name: humans
@@ -1664,16 +1664,16 @@
 - name: Icon
   slug: icon
   count: 2
-- name: icons
-  slug: icons
-  count: 2
 - name: Icons
   slug: icons
   count: 2
-- name: ide
+- name: icons
+  slug: icons
+  count: 2
+- name: IDE
   slug: ide
   count: 3
-- name: IDE
+- name: ide
   slug: ide
   count: 3
 - name: Identité
@@ -1772,10 +1772,10 @@
 - name: interactivity
   slug: interactivity
   count: 1
-- name: Interface
+- name: interface
   slug: interface
   count: 1
-- name: interface
+- name: Interface
   slug: interface
   count: 1
 - name: Internet
@@ -1790,12 +1790,12 @@
 - name: iojs
   slug: iojs
   count: 2
-- name: ios
-  slug: ios
-  count: 1
 - name: iOS
   slug: ios
   count: 2
+- name: ios
+  slug: ios
+  count: 1
 - name: iot
   slug: iot
   count: 1
@@ -1808,12 +1808,12 @@
 - name: isomorphic
   slug: isomorphic
   count: 1
-- name: issue
-  slug: issue
-  count: 1
 - name: Issue
   slug: issue
   count: 2
+- name: issue
+  slug: issue
+  count: 1
 - name: Issues
   slug: issues
   count: 1
@@ -1844,12 +1844,12 @@
 - name: job
   slug: job
   count: 1
-- name: jquery
-  slug: jquery
-  count: 10
 - name: jQUery
   slug: jquery
   count: 1
+- name: jquery
+  slug: jquery
+  count: 10
 - name: jQuery
   slug: jquery
   count: 7
@@ -1858,19 +1858,19 @@
   count: 13
 - name: js
   slug: js
-  count: 187
+  count: 188
 - name: jshint
   slug: jshint
   count: 1
 - name: jslint
   slug: jslint
   count: 1
-- name: JSON
-  slug: json
-  count: 5
 - name: json
   slug: json
   count: 2
+- name: JSON
+  slug: json
+  count: 5
 - name: Kanban
   slug: kanban
   count: 1
@@ -1886,12 +1886,12 @@
 - name: labels
   slug: labels
   count: 1
-- name: Language
-  slug: language
-  count: 1
 - name: language
   slug: language
   count: 2
+- name: Language
+  slug: language
+  count: 1
 - name: languages
   slug: languages
   count: 1
@@ -1904,10 +1904,10 @@
 - name: Layers
   slug: layers
   count: 1
-- name: layout
+- name: Layout
   slug: layout
   count: 3
-- name: Layout
+- name: layout
   slug: layout
   count: 3
 - name: lazy
@@ -2000,12 +2000,12 @@
 - name: loading
   slug: loading
   count: 3
-- name: local
-  slug: local
-  count: 3
 - name: Local
   slug: local
   count: 2
+- name: local
+  slug: local
+  count: 3
 - name: localstorage
   slug: localstorage
   count: 1
@@ -2042,10 +2042,10 @@
 - name: m6web
   slug: m6web
   count: 1
-- name: magento
+- name: Magento
   slug: magento
   count: 1
-- name: Magento
+- name: magento
   slug: magento
   count: 1
 - name: mail
@@ -2057,10 +2057,10 @@
 - name: Mails
   slug: mails
   count: 1
-- name: maintenance
+- name: Maintenance
   slug: maintenance
   count: 1
-- name: Maintenance
+- name: maintenance
   slug: maintenance
   count: 1
 - name: man
@@ -2084,19 +2084,19 @@
 - name: mark
   slug: mark
   count: 2
-- name: markdown
-  slug: markdown
-  count: 6
 - name: Markdown
   slug: markdown
   count: 2
+- name: markdown
+  slug: markdown
+  count: 6
 - name: market
   slug: market
   count: 2
-- name: marketing
+- name: Marketing
   slug: marketing
   count: 2
-- name: Marketing
+- name: marketing
   slug: marketing
   count: 2
 - name: marks
@@ -2135,10 +2135,10 @@
 - name: Methodologie
   slug: methodologie
   count: 2
-- name: methodology
+- name: Methodology
   slug: methodology
   count: 1
-- name: Methodology
+- name: methodology
   slug: methodology
   count: 1
 - name: métiers
@@ -2180,10 +2180,10 @@
 - name: mobile
   slug: mobile
   count: 46
-- name: mock
+- name: Mock
   slug: mock
   count: 1
-- name: Mock
+- name: mock
   slug: mock
   count: 1
 - name: Modelling
@@ -2225,12 +2225,12 @@
 - name: Movable
   slug: movable
   count: 2
-- name: Mozilla
-  slug: mozilla
-  count: 1
 - name: mozilla
   slug: mozilla
   count: 3
+- name: Mozilla
+  slug: mozilla
+  count: 1
 - name: multicanal
   slug: multicanal
   count: 2
@@ -2261,12 +2261,12 @@
 - name: native
   slug: native
   count: 4
-- name: Navigation
-  slug: navigation
-  count: 1
 - name: navigation
   slug: navigation
   count: 2
+- name: Navigation
+  slug: navigation
+  count: 1
 - name: neo4j
   slug: neo4j
   count: 1
@@ -2294,12 +2294,12 @@
 - name: node
   slug: node
   count: 20
-- name: node.js
-  slug: nodejs
-  count: 2
 - name: Node.js
   slug: nodejs
   count: 1
+- name: node.js
+  slug: nodejs
+  count: 2
 - name: NodeJS
   slug: nodejs
   count: 1
@@ -2336,12 +2336,12 @@
 - name: numbers
   slug: numbers
   count: 1
-- name: numérique
-  slug: numerique
-  count: 3
 - name: Numérique
   slug: numerique
   count: 1
+- name: numérique
+  slug: numerique
+  count: 3
 - name: oauth
   slug: oauth
   count: 1
@@ -2396,12 +2396,12 @@
 - name: Opera
   slug: opera
   count: 1
-- name: opquast
-  slug: opquast
-  count: 1
 - name: OpQuast
   slug: opquast
   count: 2
+- name: opquast
+  slug: opquast
+  count: 1
 - name: ops
   slug: ops
   count: 1
@@ -2411,12 +2411,12 @@
 - name: Optimisation
   slug: optimisation
   count: 4
-- name: optimization
-  slug: optimization
-  count: 6
 - name: Optimization
   slug: optimization
   count: 2
+- name: optimization
+  slug: optimization
+  count: 7
 - name: optimize
   slug: optimize
   count: 1
@@ -2471,10 +2471,10 @@
 - name: Parties
   slug: parties
   count: 8
-- name: Password
+- name: password
   slug: password
   count: 1
-- name: password
+- name: Password
   slug: password
   count: 1
 - name: Path
@@ -2486,21 +2486,21 @@
 - name: Pattern
   slug: pattern
   count: 1
-- name: Patterns
-  slug: patterns
-  count: 5
 - name: patterns
   slug: patterns
   count: 4
+- name: Patterns
+  slug: patterns
+  count: 5
 - name: payment
   slug: payment
   count: 2
-- name: PDF
-  slug: pdf
-  count: 3
 - name: pdf
   slug: pdf
   count: 4
+- name: PDF
+  slug: pdf
+  count: 3
 - name: percentage
   slug: percentage
   count: 1
@@ -2522,15 +2522,15 @@
 - name: Phone
   slug: phone
   count: 1
-- name: php
-  slug: php
-  count: 10
-- name: Php
-  slug: php
-  count: 1
 - name: PHP
   slug: php
   count: 4
+- name: Php
+  slug: php
+  count: 1
+- name: php
+  slug: php
+  count: 10
 - name: phpbb
   slug: phpbb
   count: 1
@@ -2549,12 +2549,12 @@
 - name: platform
   slug: platform
   count: 4
-- name: Plugin
-  slug: plugin
-  count: 1
 - name: plugin
   slug: plugin
   count: 4
+- name: Plugin
+  slug: plugin
+  count: 1
 - name: Plugins
   slug: plugins
   count: 1
@@ -2606,10 +2606,10 @@
 - name: preload
   slug: preload
   count: 3
-- name: presentation
+- name: Presentation
   slug: presentation
   count: 1
-- name: Presentation
+- name: presentation
   slug: presentation
   count: 1
 - name: présentation
@@ -2657,12 +2657,12 @@
 - name: progressive
   slug: progressive
   count: 3
-- name: Project
-  slug: project
-  count: 2
 - name: project
   slug: project
   count: 3
+- name: Project
+  slug: project
+  count: 2
 - name: promises
   slug: promises
   count: 2
@@ -2840,10 +2840,10 @@
 - name: respect
   slug: respect
   count: 1
-- name: Responsive
+- name: responsive
   slug: responsive
   count: 2
-- name: responsive
+- name: Responsive
   slug: responsive
   count: 2
 - name: Responsive-Ready
@@ -2873,15 +2873,15 @@
 - name: revolution
   slug: revolution
   count: 1
+- name: REX
+  slug: rex
+  count: 2
 - name: Rex
   slug: rex
   count: 2
 - name: rex
   slug: rex
   count: 5
-- name: REX
-  slug: rex
-  count: 2
 - name: rfc
   slug: rfc
   count: 1
@@ -2900,10 +2900,10 @@
 - name: Ribbon
   slug: ribbon
   count: 1
-- name: rich
+- name: Rich
   slug: rich
   count: 1
-- name: Rich
+- name: rich
   slug: rich
   count: 1
 - name: Risk
@@ -2927,12 +2927,12 @@
 - name: Ruby
   slug: ruby
   count: 1
-- name: rum
-  slug: rum
-  count: 5
 - name: RUM
   slug: rum
   count: 1
+- name: rum
+  slug: rum
+  count: 5
 - name: rwd
   slug: rwd
   count: 92
@@ -2945,12 +2945,12 @@
 - name: Samples
   slug: samples
   count: 1
-- name: sass
-  slug: sass
-  count: 2
 - name: SASS
   slug: sass
   count: 1
+- name: sass
+  slug: sass
+  count: 2
 - name: satis
   slug: satis
   count: 1
@@ -2984,12 +2984,12 @@
 - name: scripts
   slug: scripts
   count: 1
-- name: Scroll
-  slug: scroll
-  count: 1
 - name: scroll
   slug: scroll
   count: 2
+- name: Scroll
+  slug: scroll
+  count: 1
 - name: scrolling
   slug: scrolling
   count: 1
@@ -3014,12 +3014,12 @@
 - name: Sécurité
   slug: securite
   count: 4
-- name: Security
-  slug: security
-  count: 3
 - name: security
   slug: security
   count: 29
+- name: Security
+  slug: security
+  count: 3
 - name: Select
   slug: select
   count: 1
@@ -3035,12 +3035,12 @@
 - name: sensio
   slug: sensio
   count: 2
-- name: SEO
-  slug: seo
-  count: 5
 - name: seo
   slug: seo
   count: 9
+- name: SEO
+  slug: seo
+  count: 5
 - name: Serious
   slug: serious
   count: 1
@@ -3050,24 +3050,24 @@
 - name: Server
   slug: server
   count: 1
-- name: Server-Side
-  slug: server-side
-  count: 1
 - name: server-side
   slug: server-side
   count: 2
+- name: Server-Side
+  slug: server-side
+  count: 1
 - name: server-timing
   slug: server-timing
   count: 1
 - name: server-timings
   slug: server-timings
   count: 1
-- name: service
-  slug: service
-  count: 2
 - name: Service
   slug: service
   count: 4
+- name: service
+  slug: service
+  count: 2
 - name: service-workers
   slug: service-workers
   count: 1
@@ -3128,10 +3128,10 @@
 - name: skills
   slug: skills
   count: 2
-- name: sla
+- name: SLA
   slug: sla
   count: 1
-- name: SLA
+- name: sla
   slug: sla
   count: 1
 - name: slider
@@ -3188,12 +3188,12 @@
 - name: sourcing
   slug: sourcing
   count: 1
-- name: SPA
-  slug: spa
-  count: 8
 - name: spa
   slug: spa
   count: 2
+- name: SPA
+  slug: spa
+  count: 8
 - name: specification
   slug: specification
   count: 2
@@ -3227,12 +3227,12 @@
 - name: ssh
   slug: ssh
   count: 2
-- name: SSL
-  slug: ssl
-  count: 1
 - name: ssl
   slug: ssl
   count: 6
+- name: SSL
+  slug: ssl
+  count: 1
 - name: ssr
   slug: ssr
   count: 1
@@ -3257,22 +3257,22 @@
 - name: stateof
   slug: stateof
   count: 2
-- name: Static
-  slug: static
-  count: 2
 - name: static
   slug: static
   count: 15
+- name: Static
+  slug: static
+  count: 2
 - name: statistics
   slug: statistics
   count: 2
 - name: sticker
   slug: sticker
   count: 1
-- name: Storage
+- name: storage
   slug: storage
   count: 2
-- name: storage
+- name: Storage
   slug: storage
   count: 2
 - name: Stories
@@ -3284,18 +3284,18 @@
 - name: storytelling
   slug: storytelling
   count: 1
-- name: stratégie
-  slug: strategie
-  count: 1
 - name: Stratégie
   slug: strategie
   count: 2
-- name: strategy
-  slug: strategy
-  count: 6
+- name: stratégie
+  slug: strategie
+  count: 1
 - name: Strategy
   slug: strategy
   count: 3
+- name: strategy
+  slug: strategy
+  count: 6
 - name: streaming
   slug: streaming
   count: 2
@@ -3344,12 +3344,12 @@
 - name: switch
   slug: switch
   count: 1
-- name: Symfony
-  slug: symfony
-  count: 9
 - name: symfony
   slug: symfony
   count: 14
+- name: Symfony
+  slug: symfony
+  count: 9
 - name: synthese
   slug: synthese
   count: 2
@@ -3404,10 +3404,10 @@
 - name: testing
   slug: testing
   count: 5
-- name: Tests
+- name: tests
   slug: tests
   count: 2
-- name: tests
+- name: Tests
   slug: tests
   count: 2
 - name: text
@@ -3497,12 +3497,12 @@
 - name: TPE
   slug: tpe
   count: 1
-- name: Tracking
-  slug: tracking
-  count: 3
 - name: tracking
   slug: tracking
   count: 2
+- name: Tracking
+  slug: tracking
+  count: 3
 - name: transformation
   slug: transformation
   count: 5
@@ -3554,18 +3554,18 @@
 - name: twig
   slug: twig
   count: 1
-- name: Twitter
-  slug: twitter
-  count: 1
 - name: twitter
   slug: twitter
   count: 2
-- name: Type
-  slug: type
-  count: 3
+- name: Twitter
+  slug: twitter
+  count: 1
 - name: type
   slug: type
   count: 1
+- name: Type
+  slug: type
+  count: 3
 - name: typeof
   slug: typeof
   count: 1
@@ -3575,24 +3575,24 @@
 - name: typo3
   slug: typo3
   count: 1
-- name: typography
-  slug: typography
-  count: 9
 - name: Typography
   slug: typography
   count: 3
+- name: typography
+  slug: typography
+  count: 9
 - name: uberisation
   slug: uberisation
   count: 1
 - name: Ubisoft
   slug: ubisoft
   count: 1
-- name: ui
-  slug: ui
-  count: 6
 - name: UI
   slug: ui
   count: 8
+- name: ui
+  slug: ui
+  count: 6
 - name: underline
   slug: underline
   count: 1
@@ -3641,21 +3641,21 @@
 - name: utilities
   slug: utilities
   count: 1
-- name: ux
-  slug: ux
-  count: 37
 - name: UX
   slug: ux
   count: 17
+- name: ux
+  slug: ux
+  count: 38
 - name: uxdesign
   slug: uxdesign
-  count: 1
-- name: Vagrant
-  slug: vagrant
   count: 1
 - name: vagrant
   slug: vagrant
   count: 2
+- name: Vagrant
+  slug: vagrant
+  count: 1
 - name: Valeurs
   slug: valeurs
   count: 1
@@ -3695,10 +3695,10 @@
 - name: versions
   slug: versions
   count: 1
-- name: vertical
+- name: Vertical
   slug: vertical
   count: 1
-- name: Vertical
+- name: vertical
   slug: vertical
   count: 1
 - name: vh
@@ -3740,12 +3740,12 @@
 - name: vizualization
   slug: vizualization
   count: 1
-- name: VM
-  slug: vm
-  count: 2
 - name: vm
   slug: vm
   count: 1
+- name: VM
+  slug: vm
+  count: 2
 - name: vpn
   slug: vpn
   count: 1
@@ -3791,24 +3791,24 @@
 - name: web-workers
   slug: web-workers
   count: 2
-- name: WebApp
-  slug: webapp
-  count: 2
 - name: webapp
   slug: webapp
   count: 7
+- name: WebApp
+  slug: webapp
+  count: 2
 - name: webapps
   slug: webapps
   count: 1
-- name: webDesign
-  slug: webdesign
-  count: 2
 - name: webdesign
   slug: webdesign
   count: 11
 - name: Webdesign
   slug: webdesign
   count: 1
+- name: webDesign
+  slug: webdesign
+  count: 2
 - name: WebDesign
   slug: webdesign
   count: 5
@@ -3857,15 +3857,15 @@
 - name: windows
   slug: windows
   count: 10
-- name: Wireframe
-  slug: wireframe
-  count: 3
-- name: wireframe
-  slug: wireframe
-  count: 1
 - name: WireFrame
   slug: wireframe
   count: 1
+- name: wireframe
+  slug: wireframe
+  count: 1
+- name: Wireframe
+  slug: wireframe
+  count: 3
 - name: wireframes
   slug: wireframes
   count: 1
