@@ -15,12 +15,14 @@ function ready(fn) {
 function perfmark(callback, key) {
   performance.mark('mark_' + key + '_start');
   callback();
-  performance.mark('mark_' + key + '_end');
-  performance.measure(
-    'mark_' + key,
-    'mark_' + key + '_start',
-    'mark_' + key + '_end'
-  );
+  requestAnimationFrame(function() {
+    performance.mark('mark_' + key + '_end');
+    performance.measure(
+      'mark_' + key,
+      'mark_' + key + '_start',
+      'mark_' + key + '_end'
+    );
+  });
 }
 
 (function saveData() {
