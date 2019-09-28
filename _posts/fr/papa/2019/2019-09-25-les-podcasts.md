@@ -7,7 +7,7 @@ Hier soir j'ai écouté le début de l'épisode de
 [La Poudre](https://boris.schapira.dev/2019/08/lauren-bastide/) avec Sarah
 Ourahmoune, sur le retour de l'école.
 
-<div class="videoWrapper">
+<div class="videoWrapper" style="padding-bottom: 30%;">
 <iframe loading="lazy" src="https://art19.com/shows/la-poudre/episodes/46871438-36d3-42dd-8c53-9f06f0a60840/embed?theme=dark-custom" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe>
 </div>
 
