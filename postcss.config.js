@@ -1,10 +1,7 @@
-const autoprefixer = require('autoprefixer')
-const csswring = require('csswring')
+const autoprefixer = require("autoprefixer");
+const csswring = require("csswring");
+const purgeCss = require("postcss-purgecss");
 
 module.exports = {
-  plugins: [
-    require('autoprefixer'),
-    require('postcss-purgecss'),
-    require('csswring')
-  ]
-}
+  plugins: [autoprefixer, purgeCss, csswring]
+};
