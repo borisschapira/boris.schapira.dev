@@ -525,14 +525,14 @@ button svg {
   pointer-events: none; }
 
 hr {
-  color: var(--color-main-grayfade);
-  background-color: var(--color-main-grayfade);
+  color: var(--color-main-text);
+  background-color: var(--color-main-text);
   border: 0;
   height: 1px;
   margin: 1.7em 0; }
 
 .footnotes {
-  border-top: 1px solid var(--color-main-grayfade);
+  border-top: 1px solid var(--color-main-text);
   margin: 1.7em 0; }
 
 [target="_blank"]:not(.npe)::after {
@@ -1293,7 +1293,7 @@ html {
     right: 0; }
 
 .post {
-  border-bottom: 2px solid var(--color-main-grayfade); }
+  border-bottom: 2px solid var(--color-main-text); }
   .post:not(#content) {
     padding: 2rem 0; }
     .post:not(#content) .meta {
@@ -1426,7 +1426,7 @@ table {
     padding: 0.5rem; }
 
 .post-footer > div {
-  border-bottom: 2px solid var(--color-main-grayfade); }
+  border-bottom: 2px solid var(--color-main-text); }
 
 strong {
   color: var(--color-main); }

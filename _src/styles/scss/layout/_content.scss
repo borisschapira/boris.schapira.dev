@@ -94,7 +94,7 @@
     }
   }
 
-  border-bottom: $border-separators solid var(--color-main-grayfade);
+  border-bottom: $border-separators solid var(--color-main-text);
 
   &:last-of-type:not(:only-of-type) {
     border-bottom: none;
@@ -246,7 +246,7 @@ table {
 }
 
 .post-footer > div {
-  border-bottom: 2px solid var(--color-main-grayfade);
+  border-bottom: 2px solid var(--color-main-text);
 }
 
 strong {
