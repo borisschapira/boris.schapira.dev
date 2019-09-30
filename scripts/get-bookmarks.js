@@ -51,24 +51,19 @@ const removals = "<>.~\":/?#[]{}()@!$'()*+,;=";
     return [
       d.getFullYear(),
       ("00" + (d.getMonth() + 1)).slice(-2),
-      ("00" + (d.getDate())).slice(-2)
+      ("00" + d.getDate()).slice(-2)
     ].join("-");
   }
 
   function tagSlug(tag) {
     return slugify(tag, {
       replacement: "-",
-      remove: new RegExp(
-        "[" + escapeStringRegexp(removals) + "]",
-        "g"
-      ),
+      remove: new RegExp("[" + escapeStringRegexp(removals) + "]", "g"),
       lower: true
     });
   }
 
   function createBookmarksTagsFile() {
-    console.log({ tags });
-
     let tagCount = tags.reduce(function(tagsCount, currentTag) {
       if (typeof tagsCount[currentTag] !== "undefined") {
         tagsCount[currentTag]++;
@@ -79,15 +74,15 @@ const removals = "<>.~\":/?#[]{}()@!$'()*+,;=";
       }
     }, {});
 
-    let orderedTagObjects = [...new Set(tags)].sort((a,b)=>a.toLowerCase().localeCompare(b.toLowerCase())).map(tag => {
-      return {
-        name: tag,
-        slug: tagSlug(tag),
-        count: tagCount[tag]
-      };
-    });
-
-    console.log({ orderedTagObjects });
+    let orderedTagObjects = [...new Set(tags)]
+      .sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()))
+      .map(tag => {
+        return {
+          name: tag,
+          slug: tagSlug(tag),
+          count: tagCount[tag]
+        };
+      });
 
     fs.writeFile(
       path.resolve(__dirname, "../_data/tagsCount.yml"),
@@ -125,6 +120,9 @@ const removals = "<>.~\":/?#[]{}()@!$'()*+,;=";
       dateString + "-" + stringToHash(bookmark.guid) + ".md";
     var bookmark_path = path.resolve(bookmark_year_folder, bookmark_filename);
 
+    if (fs.existsSync(bookmark_path)) {
+      return;
+    }
     // If the file does not exist, we create it.
     // Else, we do nothing. The bookmark has already been
     // saved and, maybe, altered. So we don't override the file.
@@ -139,7 +137,9 @@ const removals = "<>.~\":/?#[]{}()@!$'()*+,;=";
             title: bookmark.title,
             link: bookmark.link,
             date: getDate(new Date(bookmark.isoDate)),
-            tags: thisTags.map(t=>{return {name:t,slug:tagSlug(t)}})
+            tags: thisTags.map(t => {
+              return { name: t, slug: tagSlug(t) };
+            })
           },
           {
             styles: {

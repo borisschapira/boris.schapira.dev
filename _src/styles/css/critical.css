@@ -1380,8 +1380,6 @@ figure {
       min-height: 250px;
       max-width: 100%;
       border: none; }
-    figure > .videoWrapper.gif.playing::before, figure > .videoWrapper.gif.playing::before {
-      opacity: 0; }
     figure > .videoWrapper.gif {
       cursor: pointer; }
   figure > a:hover::before,

@@ -184,11 +184,6 @@ figure {
       border: none;
     }
 
-    &.gif.playing::before,
-    &.gif.playing::before {
-      opacity: 0;
-    }
-
     &.gif {
       cursor: pointer;
     }
