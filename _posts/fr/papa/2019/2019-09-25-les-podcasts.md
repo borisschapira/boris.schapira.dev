@@ -7,7 +7,7 @@ Hier soir j'ai écouté le début de l'épisode de
 [La Poudre](https://boris.schapira.dev/2019/08/lauren-bastide/) avec Sarah
 Ourahmoune, sur le retour de l'école.
 
-<div class="videoWrapper" style="padding-bottom: 30%;">
+<div class="videoWrapper" style="padding-bottom: 40%;">
 <iframe loading="lazy" src="https://art19.com/shows/la-poudre/episodes/46871438-36d3-42dd-8c53-9f06f0a60840/embed?theme=dark-custom" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe>
 </div>
 
@@ -22,7 +22,7 @@ Pour être honnête, il n'a pas pensé seul au podcast de la veille. Il y a pens
 parce qu'avec son grand frère, on écoutait "Besoin de rien, envie de droit" sur
 le droit des animaux.
 
-<div class="videoWrapper" style="padding-bottom: 30%;>
+<div class="videoWrapper" style="padding-bottom: 40%;">
 <iframe loading="lazy" src="https://embed.acast.com/besoin-de-rien-envie-de-droit/a-t-onledroitdemangersonchat-" frameBorder="0" width="100%" height="110px" allow="autoplay"></iframe>
 </div>
 
@@ -39,7 +39,7 @@ Honnêtement, j'aurais **jamais** pensé que les podcasts, ça les intéresserai
 Là on enchaine avec l'épisode d'Émotions sur le pouvoir, et je me retrouve à
 expliquer ce qu'est un juré, et ils sont hyper attentifs tous les deux.
 
-<div class="videoWrapper" style="padding-bottom: 30%;>
+<div class="videoWrapper" style="padding-bottom: 40%;">
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/577062075&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 </div>
 
