@@ -193,106 +193,7 @@ layout: microtypo
         locale=page.translation.locale
         url=page.translation.url %}</span>{% endif %}</div>{% endif %}</div>
       <section class="container{% if page.layout=='post' or page.layout=='page' or page.layout=='conf' %} full-width-content{% endif %}">
-        <div class="content" role="main" id="main">
-          {{ content }}
-
-        {% if paginator %}
-          {% capture url_prefix %}{{ page.baseurl }}{% if page.category %}{{page.category}}/{% endif %}{% endcapture %}
-          {% if paginator.total_pages > 1 %}
-          <ul class="pagination">
-            {% comment %} Page précédente {% endcomment %}
-            {% if paginator.previous_page %}
-              {% if paginator.previous_page == 1 %}
-                {% comment %} Si on est sur la page 2, la page précédente est la 1 {% endcomment %}
-                <li>
-                  <a href="{{ url_prefix }}" rel="prev" ><span class="sr-only">{{ "Accueil" | t: page.locale }}</span>&lsaquo;</a>
-                </li>
-              {% else %}
-                {% comment %} Sinon, c'est la page d'avant {% endcomment %}
-                <li>
-                  <a href="{{ site.pagination.permalink | replace:':num', paginator.previous_page | prepend: url_prefix | replace: '//', '/' }}" rel="prev"><span class="sr-only">{{ "Page précédente" | t: page.locale }}</span>&lsaquo;</a>
-                </li>
-              {% endif %}
-            {% else %}
-              {% comment %} Si on est sur la page 1, pas de précédente {% endcomment %}
-              <li class="disabled">&lsaquo;</li>
-            {% endif %}
-
-            {% if paginator.page == 1 %}
-              {% comment %} Si on est sur la page 1 {% endcomment %}
-              <li class="disabled">
-                <strong>1</strong>
-              </li>
-            {% else %}
-              {% comment %} Sinon, afficher le lien {% endcomment %}
-              <li>
-                <a href="{{ url_prefix }}" ><span class="sr-only">{{ "Accueil" | t: page.locale }}</span>1</a>
-              </li>
-            {% endif %}
-
-            {% comment %} À partir de la page 2 {% endcomment %}
-            {% assign page_start = 2 %}
-            {% if paginator.page > 5 %}
-              {% comment %} Si on est plus loin que la page 5,
-              on affiche "…" et on démarre 2 pages avant {% endcomment %}
-              {% assign page_start = paginator.page | minus: 2 %}
-              <li class="disabled">
-                …
-              </li>
-            {% endif %}
-
-            {% comment %} La dernière page de cette liste, c'est 2 pages avant la fin (mais on commence à compter à 0) {% endcomment %}
-            {% assign page_end = paginator.total_pages | minus: 1 %}
-
-            {% comment %} La distance entre la page courante et la dernière page dans l'absolu {% endcomment %}
-            {% assign to_end = paginator.total_pages | minus: paginator.page %}
-
-            {% comment %} Si cette distance est supérieure à 4, on s'arrêtera 2 pages après la page courante et on affichera "…" {% endcomment %}
-            {% if to_end > 4 %}
-              {% assign page_end = paginator.page | plus: 2 %}
-            {% endif %}
-
-            {% comment %} Production de la liste "du milieu" {% endcomment %}
-            {% for index in (page_start..page_end) %}
-              {% if index == paginator.page %}
-              <li >
-                <strong>{{index}}</strong>
-              </li>
-              {% else %}
-              <li>
-                <a href="{{ site.pagination.permalink | replace:':num', index | prepend: url_prefix | replace: '//', '/' }}" ><span class="sr-only">Page</span>{{index}}</a>
-              </li>
-              {% endif %}
-            {% endfor %}
-            {% if to_end > 4 %}
-              <li class="disabled">…</li>
-            {% endif %}
-
-            {% if paginator.page == paginator.total_pages %}
-              <li >
-                <strong>{{paginator.page}}</strong>
-              </li>
-            {% else %}
-              {% assign tp1 = paginator.page | plus: 1 %}
-              <li>
-                <a href="{{ site.pagination.permalink | replace:':num', paginator.total_pages | prepend: url_prefix | replace: '//', '/' }}" {% if paginator.total_pages == tp1 %}rel="next"{% endif %}><span class="sr-only">{{ "Dernière page" | t: page.locale }}</span>{{paginator.total_pages}}</a>
-              </li>
-            {% endif %}
-            {% if paginator.next_page %}
-              {% if paginator.next_page == paginator.total_pages %}
-                <li class="disabled">&raquo;</li>
-              {% else %}
-              <li>
-                <a href="{{ site.pagination.permalink | replace:':num', paginator.next_page | prepend: url_prefix }}" rel="next"><span class="sr-only">{{ "Page suivante" | t: page.locale }}</span>&rsaquo;</a>
-              </li>
-              {% endif %}
-            {% else %}
-              <li class="disabled">&rsaquo;</li>
-            {% endif %}
-          </ul>
-          {% endif %}
-        {% endif %}
-        </div>
+        {{ content }}
         {% if page.layout=='post' and page.prev_context %}
           <div class="nav-arrow prev"><a href="{{page.prev_context.url}}" title="{{ page.prev_context.title }}"><span class="sr-only">{{ "Précédent :" | t: page.locale }}</span><span aria-hidden="true">&#8672;</span></a></div>
         {% endif %}
@@ -300,13 +201,10 @@ layout: microtypo
           <div class="nav-arrow next"><a href="{{page.next_context.url}}" title="{{ page.next_context.title }}"><span class="sr-only">{{ "Suivant :" | t: page.locale }}</span><span aria-hidden="true">&#8674;</span></a>
         {% endif %}
         <aside>
-          <div class="widget" aria-hidden="true">
-            <!-- nomicrotypo -->{% include avatar.svg %}<!-- endnomicrotypo -->
-          </div>
           <div class="widget">
-            <h2>{{ "Catégories" | t: page.locale }}</h2>
+            <h2>{{ "Articles" | t: page.locale }}</h2>
             <ul>
-              <li><a class="main {% unless page.category %}active{% endunless %}" href="{{ '' | prepend: page.baseurl | relative_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "toutes" | t: page.locale }}</a></li>
+              <li><a class="main {% unless page.category %}active{% endunless %}" href="{{ '' | prepend: page.baseurl | relative_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "Récents" | t: page.locale }}</a></li>
               <li><a class="web {% if page.category == 'web' %}active{% endif %}" href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "web" | t: page.locale }}</a></li>
               <li>
               <a class="citoyen {% if page.category == 'citoyen' %}active{% endif %}" href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "citoyen" | t: page.locale }}</a>
@@ -315,6 +213,9 @@ layout: microtypo
               <a class="papa {% if page.category == 'papa' %}active{% endif %}" href="{{ 'papa' | t: page.locale | prepend: page.baseurl | relative_url }}/">{{ "papa" | t: page.locale }}</a>
               </li>
             </ul>
+          </div>
+          <div class="widget" aria-hidden="true">
+            <!-- nomicrotypo -->{% include avatar.svg %}<!-- endnomicrotypo -->
           </div>
         </aside>
       </section>

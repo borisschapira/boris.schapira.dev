@@ -1,6 +1,6 @@
 {%- assign datetime = include.post.date | date_to_xmlschema  -%}
 
-<article class="colorized post" {%- if include.postPage  -%} id="content"{%- else  -%} aria-labelledby="{{ include.post.slug }}"{%- endif  -%}>
+<article class="{{ post.category }} colorized post" {%- if include.postPage  -%} id="content"{%- else  -%} aria-labelledby="{{ include.post.slug }}"{%- endif  -%}>
   {%- if include.postPage  -%}
   <div class="post-content">
     {{ include.post.content }}

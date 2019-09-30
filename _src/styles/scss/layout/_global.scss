@@ -21,7 +21,7 @@ html {
     position: relative;
 
     .content {
-      grid-column: 2 / 12;
+      grid-column: 1 / 13;
       width: 100%;
       max-width: 38rem;
       margin: auto;
@@ -34,27 +34,70 @@ html {
 
   .content {
     padding-bottom: 3rem;
-    grid-column: 2 / 12;
+    grid-column: 1 / 13;
 
     @include media(">=large") {
-      grid-column: 2 / 9;
+      grid-column: 1 / 10;
+    }
+  }
+
+  .web-content {
+    padding-bottom: 3rem;
+
+    @include media(">=medium") {
+      grid-column: 1 / 7;
+    }
+  }
+
+  .other-content {
+    padding-bottom: 3rem;
+    grid-column: 9 / 12;
+    font-size: 0.8em;
+
+    @include media(">=medium") {
+      grid-column: 7 / 10;
+    }
+
+    .meta {
+      font-size: 0.75rem;
+    }
+
+    .post:not(#content) {
+      padding: 1rem 0;
+
+      &:first-of-type {
+        padding-top: 2rem;
+      }
     }
   }
 
   aside {
-    grid-column: 2 / 12;
-    padding: 0 $global-gutters;
+    grid-column: 1 / 13;
+    padding: 0 0 0 $global-gutters;
     display: block;
 
-    @include media(">=large") {
-      grid-column: 9 / 12;
+    @include media(">=medium") {
+      grid-column: 10 / 13;
       border-left: $border-separators solid var(--color-main-grayfade);
+    }
+  }
+
+  .over-medium {
+    display: none;
+    @include media(">=medium") {
+      display: block;
+    }
+  }
+
+  .under-medium {
+    @include media(">medium") {
+      display: none;
     }
   }
 }
 
 .widget {
-  padding: $global-gutters/2;
+  padding: $global-gutters 0;
   border-bottom: $border-separators solid var(--color-main-grayfade);
 
   &:last-of-type:not(:only-of-type) {
@@ -66,7 +109,7 @@ html {
     margin-left: 1rem;
   }
 
-  h3 {
+  h2, h3 {
     margin-top: 0;
   }
 
