@@ -8,9 +8,9 @@ surfeur.
 
 > – Tu dois te déguiser en surfeur, ce soir ? Tu pourras mettre ton jersey.  
 > – Ah oui. D'ailleurs, je peux le prendre ce matin ?  
-> – Ah non, tu es allé à la piscine ce soir, laisse-moi le temps de le laver et
-> on te l'amène ce soir.  
-> – Mais il est propre, je le mets jamais !  
+> – Ah non, tu es allé à la piscine hier, laisse-moi le temps de le laver et on
+> te l'amène ce soir, pour le spectacle.  
+> – Mais, mais… il est propre, je le mets jamais !  
 > – Comment ça ? Tu l'as ramené hier de la piscine, mouillé.  
 > – Oui, parce que je le mets dans mon sac. Le maillot est mouillé, la serviette
 > est mouillée, alors il devient mouillé.  

@@ -3,7 +3,7 @@ title: 'Dans les mouches'
 slug: dans-les-mouches
 ---
 
-Mon koala est encore en pleine réflexion, ce soir.
+Ce soir, le petit a l'air pensif. Sa mère l'interroge :
 
 > – Maman, il y a quoi dedans les mouches ?  
 > – Comme nous, des organes, du sang…  
