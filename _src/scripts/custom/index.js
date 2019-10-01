@@ -3,49 +3,51 @@
 function ready(fn) {
   if (
     document.attachEvent
-      ? document.readyState === 'complete'
-      : document.readyState !== 'loading'
+      ? document.readyState === "complete"
+      : document.readyState !== "loading"
   ) {
     fn();
   } else {
-    document.addEventListener('DOMContentLoaded', fn);
+    document.addEventListener("DOMContentLoaded", fn);
   }
 }
 
 function perfmark(callback, key) {
-  performance.mark('mark_' + key + '_start');
+  performance.mark("mark_" + key + "_start");
   callback();
   requestAnimationFrame(function() {
-    performance.mark('mark_' + key + '_end');
-    performance.measure(
-      'mark_' + key,
-      'mark_' + key + '_start',
-      'mark_' + key + '_end'
-    );
+    requestAnimationFrame(() => {
+      performance.mark("mark_" + key + "_end");
+      performance.measure(
+        "mark_" + key,
+        "mark_" + key + "_start",
+        "mark_" + key + "_end"
+      );
+    });
   });
 }
 
 (function saveData() {
-  if ('connection' in navigator) {
+  if ("connection" in navigator) {
     if (navigator.connection.saveData == true) {
       // Add class to document
-      document.documentElement.classList.add('save-data');
+      document.documentElement.classList.add("save-data");
       // use default img src
-      [...document.querySelectorAll('[srcset]')].forEach(img => {
+      [...document.querySelectorAll("[srcset]")].forEach(img => {
         // eslint-disable-next-line require-unicode-regexp
         img.srcset = img.srcset
-          .replace(/q_auto/g, 'q_0')
-          .replace(/\/fetch\//g, '/fetch/e_grayscale/');
+          .replace(/q_auto/g, "q_0")
+          .replace(/\/fetch\//g, "/fetch/e_grayscale/");
       });
     }
   }
 })();
 
 (function darkModeSwitcher() {
-  var labels = document.querySelectorAll('.color-mode-labels label');
+  var labels = document.querySelectorAll(".color-mode-labels label");
   labels.forEach(function(label) {
-    label.addEventListener('click', function() {
-      localStorage.setItem('dark_mode', this.dataset.value);
+    label.addEventListener("click", function() {
+      localStorage.setItem("dark_mode", this.dataset.value);
     });
   });
 })();
@@ -55,7 +57,7 @@ function perfmark(callback, key) {
     // Detect user language and redirect, if first time, to the right page ----------------
     try {
       var lang_user;
-      lang_user = localStorage.getItem('lang_user');
+      lang_user = localStorage.getItem("lang_user");
       if (!lang_user) {
         lang_user = (
           window.navigator.userLanguage ||
@@ -63,8 +65,8 @@ function perfmark(callback, key) {
             window.navigator.languages[0]) ||
           window.navigator.language
         ).slice(0, 2);
-        localStorage.setItem('lang_user', lang_user);
-        var lang_site = document.getElementsByTagName('html')[0].lang;
+        localStorage.setItem("lang_user", lang_user);
+        var lang_site = document.getElementsByTagName("html")[0].lang;
         if (lang_user != lang_site) {
           window.location = document.querySelector(
             '[hreflang][rel="alternate"]'
@@ -74,41 +76,41 @@ function perfmark(callback, key) {
     } catch (e) {}
 
     document.addEventListener(
-      'click',
+      "click",
       function(event) {
         if (event.target.matches('[lang][href*="/"]')) {
-          localStorage.setItem('lang_user', event.target.getAttribute('lang'));
+          localStorage.setItem("lang_user", event.target.getAttribute("lang"));
         }
       },
       false
     );
-  }, 'switchlang');
+  }, "switchlang");
 })();
 
 ready(function() {
   perfmark(function() {
     window.initEasyToggleState();
-  }, 'easy_toggle');
+  }, "easy_toggle");
 
   (function(abbrTouch) {
     var tooltipTimeout;
 
     function getTooltipElement() {
-      var tooltip = document.querySelector('#abbr-tooltip');
+      var tooltip = document.querySelector("#abbr-tooltip");
       if (!tooltip) {
-        tooltip = document.createElement('div');
-        tooltip.id = 'abbr-tooltip';
+        tooltip = document.createElement("div");
+        tooltip.id = "abbr-tooltip";
         // Technically this is duplicate content, just exposing it on mobile
-        tooltip.setAttribute('aria-hidden', 'true');
+        tooltip.setAttribute("aria-hidden", "true");
         document.body.appendChild(tooltip);
       }
       return tooltip;
     }
 
     function updateTooltip(tooltip, term, expandedTerm) {
-      var text = term + ': ' + expandedTerm;
+      var text = term + ": " + expandedTerm;
       tooltip.innerHTML = text;
-      tooltip.classList.add('visible');
+      tooltip.classList.add("visible");
 
       if (tooltipTimeout) {
         clearTimeout(tooltipTimeout);
@@ -116,61 +118,61 @@ ready(function() {
 
       var timeoutLength = text.length * 120;
       tooltipTimeout = setTimeout(function() {
-        tooltip.classList.remove('visible');
+        tooltip.classList.remove("visible");
       }, timeoutLength);
     }
 
     perfmark(function() {
-      abbrTouch(document.querySelector('article'), function(target, title) {
+      abbrTouch(document.querySelector("article"), function(target, title) {
         var tooltip = getTooltipElement();
         // Ensure the tooltip is ready so that the initial transition works
         setTimeout(function() {
           updateTooltip(tooltip, target.innerHTML, title);
         }, 0);
       });
-    }, 'abbrTouch');
+    }, "abbrTouch");
   })(abbrTouch);
 
   function decorate_footnotes() {
-    var lang = document.getElementsByTagName('html')[0].getAttribute('lang'),
+    var lang = document.getElementsByTagName("html")[0].getAttribute("lang"),
       alternatives = {
         to: {
-          en: 'footnote',
-          fr: 'note de bas de page'
+          en: "footnote",
+          fr: "note de bas de page"
         },
         back: {
-          en: 'return to the text',
-          fr: 'retour au texte'
+          en: "return to the text",
+          fr: "retour au texte"
         }
       };
 
     var i,
-      textnotes = [...document.querySelectorAll('.footnote-ref a')],
-      footnotes = [...document.getElementsByClassName('footnote-backref')];
+      textnotes = [...document.querySelectorAll(".footnote-ref a")],
+      footnotes = [...document.getElementsByClassName("footnote-backref")];
     for (i = 0; i < textnotes.length; i++) {
-      textnotes[i].setAttribute('title', alternatives.to[lang]);
+      textnotes[i].setAttribute("title", alternatives.to[lang]);
     }
     for (i = 0; i < footnotes.length; i++) {
-      footnotes[i].setAttribute('title', alternatives.back[lang]);
+      footnotes[i].setAttribute("title", alternatives.back[lang]);
     }
   }
   decorate_footnotes();
 
-  const tagcountElement = document.getElementById('tagcount');
+  const tagcountElement = document.getElementById("tagcount");
   if (tagcountElement) {
-    tagcountElement.style.display = 'block';
+    tagcountElement.style.display = "block";
 
-    [...document.querySelectorAll('.tagcount button')].forEach(b => {
-      b.addEventListener('click', e => {
-        e.target.classList.toggle('active');
+    [...document.querySelectorAll(".tagcount button")].forEach(b => {
+      b.addEventListener("click", e => {
+        e.target.classList.toggle("active");
 
         // Get active tags
         const activeTags = [
-          ...document.querySelectorAll('.tagcount .active')
-        ].reduce((acc, x) => [...acc, 'tag-' + x.dataset['tagSlug']], []);
+          ...document.querySelectorAll(".tagcount .active")
+        ].reduce((acc, x) => [...acc, "tag-" + x.dataset["tagSlug"]], []);
 
         // Display articles
-        [...document.querySelectorAll('article')].forEach(article => {
+        [...document.querySelectorAll("article")].forEach(article => {
           if (
             activeTags.length == 0 ||
             activeTags.reduce(
@@ -179,9 +181,9 @@ ready(function() {
               false
             )
           ) {
-            article.style.display = 'block';
+            article.style.display = "block";
           } else {
-            article.style.display = 'none';
+            article.style.display = "none";
           }
         });
       });

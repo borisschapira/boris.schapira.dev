@@ -27,4 +27,4 @@
 </script>
 {%- endif  -%}
 
-<script>performance.mark('mark_declare_js_end');performance.measure('mark_declare_js', 'mark_declare_js_start', 'mark_declare_js_end');</script>
+<script>requestAnimationFrame(function(){performance.mark("mark_declare_js_end");performance.measure("mark_declare_js","mark_declare_js_start","mark_declare_js_end")});</script>
