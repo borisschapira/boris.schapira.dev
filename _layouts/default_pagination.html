@@ -6,7 +6,7 @@ layout: default
   {{ content }}
 
 {% if paginator %}
-  {% capture url_prefix %}{{ page.baseurl }}{% if page.category %}{{page.category}}/{% endif %}{% endcapture %}
+  {% capture url_prefix %}{{ page.baseurl }}{% if page.category %}{{ page.category | t: page.locale }}/{% endif %}{% endcapture %}
   {% if paginator.total_pages > 1 %}
   <ul class="pagination">
     {% comment %} Page précédente {% endcomment %}
@@ -92,7 +92,7 @@ layout: default
         <li class="disabled">&raquo;</li>
       {% else %}
       <li>
-        <a href="{{ site.pagination.permalink | replace:':num', paginator.next_page | prepend: url_prefix }}" rel="next"><span class="sr-only">{{ "Page suivante" | t: page.locale }}</span>&rsaquo;</a>
+        <a href="{{ site.pagination.permalink | replace:':num', paginator.next_page | prepend: url_prefix | replace: '//', '/' }}" rel="next"><span class="sr-only">{{ "Page suivante" | t: page.locale }}</span>&rsaquo;</a>
       </li>
       {% endif %}
     {% else %}
