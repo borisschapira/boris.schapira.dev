@@ -226,3 +226,10 @@ ins {
     }
   }
 }
+
+small {
+  font-size: 80%;
+  br + & {
+    line-height: 2;
+  }
+}

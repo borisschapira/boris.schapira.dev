@@ -1025,6 +1025,11 @@ ins {
       border-left: 1px dashed var(--lightgray-color);
       border-top: 1px dashed var(--lightgray-color); }
 
+small {
+  font-size: 80%; }
+  br + small {
+    line-height: 2; }
+
 .tagcount-0 {
   font-size: 0.8rem; }
 
@@ -1132,7 +1137,8 @@ html {
     border-bottom: none; }
   .widget ul {
     margin-left: 1rem; }
-  .widget h2, .widget h3 {
+  .widget h2,
+  .widget h3 {
     margin-top: 0; }
   .widget ul {
     margin-bottom: 0; }
@@ -1268,11 +1274,9 @@ html {
   .page-title h1 {
     margin: 0; }
   .page-title small {
-    display: block;
-    font-size: 0.9em; }
+    display: block; }
     .page-title small.page {
-      display: inline;
-      font-size: 0.8em; }
+      display: inline; }
 
 .meta {
   font-size: 0.95rem;
