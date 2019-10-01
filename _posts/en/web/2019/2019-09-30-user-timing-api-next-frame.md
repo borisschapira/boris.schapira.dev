@@ -11,9 +11,19 @@ translations:
     fr: ~
 ---
 
-The usual web performance metrics (First Byte, Speed Index…) are very interesting but I often use the User Timing API ([see on <abbr title="Mozilla Developer Network">MDN</abbr>](https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API)) to create my own timestamps that belong to the browser's performance timeline. Using this API, I can create custom metrics, which are based on events that make sense from a business point of view, and [track their evolution over time](https://blog.dareboost.com/en/2018/05/custom-timings-monitoring/) in Dareboost.
+The usual web performance metrics (First Byte, Speed Index…) are very interesting but I often need to add custom temporal markers, based on events that make sense from a business point of view.
 
 <!-- more -->
+
+I use the User Timing API ([see on <abbr title="Mozilla Developer Network">MDN</abbr>](https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API)) to create named timestamps that belong to the browser's performance timeline. As I can retrieve this timeline in Dareboost, I can [track their evolution over time](https://blog.dareboost.com/en/2018/05/custom-timings-monitoring/).
+
+{% capture img_alt %}Two curves in a graph. On the x-axis, a date range of one month. On the Y-axis, the time between 0 and 3s. The orange curve shows timing "mark_declare_js_end" while the green curve corresponds to timing "mark_switchlang_end".{% endcapture %}
+{% capture img_caption %}Some Custom Timings of this site{% endcapture %}
+{% include rwd-image.html.liquid
+path="/assets/images/2019-09-30/custom-timings-dareboost.png"
+alt=img_alt
+caption=img_caption
+%}
 
 Using the API in JavaScript is quite simple (and [broadly supported](https://caniuse.com/#feat=user-timing)), for example:
 
@@ -31,11 +41,11 @@ console.dir(performance.getEntriesByType('mark'));
 ```
 
 
-However, I recently[^1] realized that I often forgot something important: **just because the JavaScript code has been executed does not mean that the user can see the results of this execution**. The browser must update the display, and its ability to do so depends on the JavaScript code that follows the piece of code we're interested in.
+However, I recently[^1] realized that I often forgot something important: **just because the browser execute some JavaScript code does not mean that the user can see the results of this execution**. The browser must update the display, and its ability to do so depends on the JavaScript code that follows the piece of code we're interested in.
 
 [^1]: Reading "[Performance metrics for blazingly fast web apps](https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps-ec12efa26bcb)", by Conrad Irwin
 
-In the following example, a whole second is injected between my performance mark and the browser update of the display.
+In the following example, I inject a whole second between my performance mark and the browser update of the display.
 
 ```js
     // The thing you want to monitor the occurrence of
@@ -48,7 +58,7 @@ In the following example, a whole second is injected between my performance mark
     while (performance.now() - n < 1000) {}
 ```
 
-Of course, in real life, you won't have a simple loop. You will have some other time-consuming task. You won't even know what, because it could be in a library on which your code depends, and you have no idea.
+Of course, in real life, you won't have a simple loop. You will have some other time-consuming tasks. You won't even know what, because it could be in a library on which your code depends, and you have no idea.
 
 As we're not going to analyze all the code that follows the stuff we're interested in to know when to put the timestamp, we need a workaround.
 
@@ -78,4 +88,4 @@ If you want to see this for yourself, here's [a test page](https://tests.boris.s
 ## In a nutshell
 
 - Call the User Timings API to create custom business-related timestamps.
-- Encapsulate them  inside `requestAnimationFrame()` callbacks to get to understand how the IU behaves, rather than the code execution. If you really want to understand the code, attach two marks: you will have an idea of the display latency.
+- Encapsulate them  inside `requestAnimationFrame()` callbacks to get to understand how the IU behaves, rather than the code execution. If you want to understand the code, attach two marks: you will have an idea of the display latency.
