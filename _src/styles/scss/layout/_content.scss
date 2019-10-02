@@ -210,7 +210,7 @@ figure {
   }
 
   figcaption {
-    font-style: italic;
+    @extend %italic
     max-width: 80%;
     margin-right: auto;
     margin-left: auto;

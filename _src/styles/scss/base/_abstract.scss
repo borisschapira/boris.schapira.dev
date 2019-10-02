@@ -27,3 +27,10 @@
     content: "\200B"; /* add zero-width space */
   }
 }
+
+%italic {
+  font-style: italic;
+  i {
+    font-style: normal;
+  }
+}

@@ -1030,6 +1030,11 @@ small {
   br + small {
     line-height: 2; }
 
+i {
+  font-style: italic; }
+  i i {
+    font-style: normal; }
+
 .tagcount-0 {
   font-size: 0.8rem; }
 
