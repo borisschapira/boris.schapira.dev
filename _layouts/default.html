@@ -39,15 +39,15 @@ layout: microtypo
     {% comment %} / Prefetching previous and next pages {% endcomment %}
 
     {% comment %} Preloading the fonts and styles for later use {% endcomment %}
-    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/critical' %}" data-proofer-ignore>
-    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='/assets/styles/main' %}" data-proofer-ignore>
+    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='critical' %}" data-proofer-ignore>
+    <link rel="preload" as="style" href="{% include assets/css.html.liquid name='main' %}" data-proofer-ignore>
     <link rel="preload" as="style" href="/assets/styles/hl.css" data-proofer-ignore>
     {% comment %} / Preloading the fonts and styles for later use {% endcomment %}
 
     {% comment %} Styles {% endcomment %}
     <script>performance.mark('mark_declare_css_start');</script>
-    <link href="{% include assets/css.html.liquid name='/assets/styles/critical' %}" rel="stylesheet" data-proofer-ignore>
-    <link href="{% include assets/css.html.liquid name='/assets/styles/main' %}" rel="stylesheet" data-proofer-ignore>
+    <link href="{% include assets/css.html.liquid name='critical' %}" rel="stylesheet" data-proofer-ignore>
+    <link href="{% include assets/css.html.liquid name='main' %}" rel="stylesheet" data-proofer-ignore>
     {% if page.i18n-key == "search" %}
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/reset-min.css" integrity="sha256-t2ATOGCtAIZNnzER679jwcFcKYfLlw01gli6F6oszk8=" crossorigin="anonymous">
     {% endif %}

@@ -1,1 +1,3 @@
-{%- include assets/asset name=include.name extension='js'  -%}
+{%- assign pathname = include.name | prepend: '/assets/scripts/' -%}
+{%- assign hash = site.data.hashes.scripts[include.name] -%}
+{%- include assets/asset name=pathname extension='js' hash=hash -%}
