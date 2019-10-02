@@ -1,0 +1,19 @@
+/* Author */
+Name: Boris Schapira
+Site: https://borischapira.com
+Twitter: @borisschapira
+Location: Made with <3 between Bordeaux & Perigueux, France
+
+/* THANKS */
+Many thanks to all the people that have helped me understand 
+how to do this. Nicolas Hoizey, Sylvain Durand, Adams Clarkson,
+Nicolas Hoffman… thank you very much!
+
+/* SITE */
+Last update:  2019-10-02
+
+Standards: HTML5, CSS3, JavaScript
+Components: Abbr Touch, jQuery, touchtap
+Building tools: Jekyll, Bundler, Ruby, SASS, HTML-proofer
+Software used during development: Visual Studio Code, Cyberduck,
+and Spotify!
