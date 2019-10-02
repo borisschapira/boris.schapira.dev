@@ -2,10 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Citizen RSS · Boris Schapira</title>
-    <link>https://boris.schapira.local:10443/en/citizen/feed.xml</link>
+    <link>https://boris.schapira.dev/en/citizen/feed.xml</link>
     <description> I am a citizen of the world and the Internet. I try to understand society in its political, economic and cultural dimensions.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Oct 2019 22:43:12 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2019 22:49:46 +0200</lastBuildDate>
+    
+    <item>
+      <title>Whose territory am I?</title>
+      
+      <description>
+          &lt;blockquote&gt;
+&lt;p&gt;A map is &lt;em&gt;not&lt;/em&gt; the territory it represents, but, if correct, it has a &lt;em&gt;similar
+structure&lt;/em&gt; to the territory, which accounts for its usefulness. &lt;cite&gt;Alfred
+Korzybski, Science and Sanity, p. 58.&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;I know I’m tilting at windmills but I also think this needs to be reiterated.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We know that an increasing number of private and public organizations are
+modeling us. Online tracking, connected devices, ghost profiles, cohort
+analyses… We are incompletely defined, wrongly (in both senses of the word)
+mapped.&lt;/p&gt;
+&lt;p&gt;What we still have to understand and assimilate in Popular Culture is the
+usefulness and use of these maps by and for those who design them. Because in
+the same way that a path indicated on a map becomes more frequented, and
+therefore more clearly marked on the territory than a non-mapped path, the
+aberrations of our models become, due to the manipulations of our publication
+timelines and filtered bubbles, our own mental pathways.&lt;/p&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  &lt;li&gt;from the category Citizen&lt;/li&gt;
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Fri, 14 Dec 2018 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2018/12/whose-territory-am-i/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2018/12/whose-territory-am-i/</guid>
+      
+      <category>Web</category>
+      
+      <category>citoyen</category>
+      
+    </item>
     
   </channel>
 </rss>

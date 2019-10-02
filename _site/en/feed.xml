@@ -2,96 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boris Schapira EN RSS · Boris Schapira</title>
-    <link>https://boris.schapira.local:10443/en/feed.xml</link>
+    <link>https://boris.schapira.dev/en/feed.xml</link>
     <description> My blog, containing personal opinions on the Web but also on my life as a parent and a citizen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Oct 2019 22:43:12 +0200</lastBuildDate>
-    
-    <item>
-      <title>First test of the layout</title>
-      
-      <description>
-          &lt;blockquote&gt;
-&lt;p&gt;This is a test post for typographic matters.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;!-- more --&gt;
-&lt;h1&gt;Test&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;“foo” ‘bar’&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;more tests&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;3rd at the 4 % run&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;html&quot;&gt;Oh, some encoded &quot;code&quot; but not double encoded: &lt;span class=&quot;ni&quot;&gt;&amp;amp;amp;&lt;/span&gt;!
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;I arrived in 2’33’’ vs. 2’44’’ for my competitors !&lt;/p&gt;
-&lt;h2&gt;Has he arrived 3rd, or 1st ? He’s 1st. No: 3rd.&lt;/h2&gt;
-&lt;p&gt;I’m “very happy” that you &lt;a href=&quot;https://www.google.fr&quot;&gt;invited&lt;/a&gt; yourself!&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;amp;lt;a href=&quot;&quot;&amp;amp;gt;
-&amp;lt;a href=&quot;&quot;&amp;gt;
-pre
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;His living room measure 4x5m, which is quite small.&lt;/p&gt;
-&lt;p&gt;Some JS code:&lt;/p&gt;
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;js&quot;&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;monObjet&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// On entrera que si monObjet n'est pas considéré comme faux&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// donc différent de false, &quot;&quot;, undefined, null ou NaN&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// équivaut à&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;monObjet&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// portion de code&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// équivaut à&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;!!&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;monObjet&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// portion de code&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Some CSS:&lt;/p&gt;
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nc&quot;&gt;.container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#fff&lt;/span&gt; &lt;span class=&quot;sx&quot;&gt;url('background.png')&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;repeat-y&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;50%&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;I am fond of &lt;strong&gt;typography&lt;/strong&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I am fond of &lt;strong&gt;typography&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;Espace fine insécable&lt;/h2&gt;
-&lt;p&gt;Case glutonny : &lt;strong&gt;“Citation forte !”&lt;/strong&gt; vs “Citation forte !”.&lt;/p&gt;
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaaaaa a&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;section class=&quot;footnotes&quot;&gt;
-&lt;ol&gt;
-&lt;li id=&quot;fn1&quot;&gt;
-&lt;p&gt;&lt;code&gt;toto&lt;/code&gt; &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  You subscribed to my posts&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;written in French.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.local:10443/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/typo-test/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/typo-test/</guid>
-      
-      <category>Typographie</category>
-      
-      <category>Test of layout</category>
-      
-      <category>web</category>
-      
-    </item>
+    <lastBuildDate>Wed, 02 Oct 2019 22:49:46 +0200</lastBuildDate>
     
     <item>
       <title>Performance timing: wait for the next frame</title>
@@ -100,8 +14,14 @@ pre
           &lt;p&gt;The usual web performance metrics (First Byte, Speed Index…) are very interesting but I often need to add custom temporal markers, based on events that make sense from a business point of view.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;I use the User Timing API (&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API&quot;&gt;see on &lt;abbr title=&quot;Mozilla Developer Network&quot;&gt;MDN&lt;/abbr&gt;&lt;/a&gt;) to create named timestamps that belong to the browser’s performance timeline. As I can retrieve this timeline in Dareboost, I can &lt;a href=&quot;https://blog.dareboost.com/en/2018/05/custom-timings-monitoring/&quot;&gt;track their evolution over time&lt;/a&gt;.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&quot;/assets/images/2019-09-30/custom-timings-dareboost.png&quot; loading=&quot;lazy&quot; alt=&quot;Two curves in a graph. On the x-axis, a date range of one month. On the Y-axis, the time between 0 and 3s. The orange curve shows timing &amp;quot;mark_declare_js_end&amp;quot; while the green curve corresponds to timing &amp;quot;mark_switchlang_end&amp;quot;.&quot;&gt;&lt;figcaption&gt;&lt;p&gt;Some Custom Timings of this site&lt;/p&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;
+&lt;img src=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-09-30/custom-timings-dareboost.png&quot; srcset=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-09-30/custom-timings-dareboost.png 320w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_640/https://boris.schapira.dev/assets/images/2019-09-30/custom-timings-dareboost.png 640w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_960/https://boris.schapira.dev/assets/images/2019-09-30/custom-timings-dareboost.png 960w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1137/https://boris.schapira.dev/assets/images/2019-09-30/custom-timings-dareboost.png 1137w&quot; sizes=&quot;80vw&quot;  alt=&quot;Two curves in a graph. On the x-axis, a date range of one month. On the Y-axis, the time between 0 and 3s. The orange curve shows timing &amp;quot;mark_declare_js_end&amp;quot; while the green curve corresponds to timing &amp;quot;mark_switchlang_end&amp;quot;.&quot; loading=&quot;lazy&quot; width=&quot;1137&quot; height=&quot;535&quot; /&gt;
+&lt;figcaption&gt;&lt;p&gt;Some Custom Timings of this site&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;Using the API in JavaScript is quite simple (and &lt;a href=&quot;https://caniuse.com/#feat=user-timing&quot;&gt;broadly supported&lt;/a&gt;), for example:&lt;/p&gt;
 &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;js&quot;&gt;    &lt;span class=&quot;c1&quot;&gt;// The thing you want to monitor the occurrence of&lt;/span&gt;
     &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;classList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;blue&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
@@ -164,14 +84,14 @@ pre
                   &lt;li&gt;written in French.&lt;/li&gt;
               &lt;/ul&gt;
               &lt;p&gt;
-                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.local:10443/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
               &lt;/p&gt;
           &lt;/div&gt;
           
       </description>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0200</pubDate>
-      <link>https://boris.schapira.local:10443/2019/09/user-timing-api-next-frame/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2019/09/user-timing-api-next-frame/</guid>
+      <link>https://boris.schapira.dev/2019/09/user-timing-api-next-frame/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/09/user-timing-api-next-frame/</guid>
       
       <category>Performance Web</category>
       
@@ -201,13 +121,20 @@ use it (or not).&lt;/p&gt;
 &lt;div class=&quot;canonical&quot;&gt;
 &lt;strong&gt;Note:&lt;/strong&gt; this post first appeared in &lt;a href=&quot;https://blog.dareboost.com/en/2019/05/measuring-interactivity-time-to-interactive/&quot;&gt;Measuring Interactivity with TTI&lt;/a&gt;.
 &lt;/div&gt;
-  &lt;figure&gt;&lt;img src=&quot;/assets/images/2019-05-16/carnival.jpg&quot; loading=&quot;lazy&quot; alt=&quot; Photo of a carousel in action. The rotational movement
+&lt;figure &gt;
+&lt;img src=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-05-16/carnival.jpg&quot; srcset=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-05-16/carnival.jpg 320w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_640/https://boris.schapira.dev/assets/images/2019-05-16/carnival.jpg 640w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_960/https://boris.schapira.dev/assets/images/2019-05-16/carnival.jpg 960w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1280/https://boris.schapira.dev/assets/images/2019-05-16/carnival.jpg 1280w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1600/https://boris.schapira.dev/assets/images/2019-05-16/carnival.jpg 1600w&quot; sizes=&quot;80vw&quot;  alt=&quot; Photo of a carousel in action. The rotational movement
 creates a fuzzy effect: it is impossible to know with certainty the speed of the
-merry-go-round. &quot;&gt;&lt;figcaption&gt;&lt;p&gt;Measuring
+merry-go-round. &quot; loading=&quot;lazy&quot; width=&quot;4077&quot; height=&quot;2713&quot; /&gt;
+&lt;figcaption&gt;&lt;p&gt;Measuring
 interactivity is like getting on a moving ride. When can we consider that the
 carousel is slow enough to consider that we can jump on it? There’s no precise
 answer.&lt;/p&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;h2&gt;TL;DR&lt;/h2&gt;
 &lt;p&gt;The measurement of interactiveness is a &lt;a href=&quot;#why&quot;&gt;pregnant challenge&lt;/a&gt; for Web
 Performance experts. Synthetic monitoring solution vendors, especially, find it
@@ -259,13 +186,20 @@ collecting to measure page responsiveness: Rage Clicks, Missed Clicks, Dead
 Clicks, and Cursor Trashing. By analyzing the distribution of this data
 qualifying user frustration, we can infer approximately when the user expects
 the page, or a particular component, to be interactive.&lt;/p&gt;
-  &lt;figure&gt;&lt;img src=&quot;/assets/images/2019-05-16/rage.png&quot; loading=&quot;lazy&quot; alt=&quot; Rage Clicks by First Interaction and Visually Ready :
+&lt;figure &gt;
+&lt;img src=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-05-16/rage.png&quot; srcset=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-05-16/rage.png 320w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_640/https://boris.schapira.dev/assets/images/2019-05-16/rage.png 640w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_960/https://boris.schapira.dev/assets/images/2019-05-16/rage.png 960w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1280/https://boris.schapira.dev/assets/images/2019-05-16/rage.png 1280w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1500/https://boris.schapira.dev/assets/images/2019-05-16/rage.png 1500w&quot; sizes=&quot;80vw&quot;  alt=&quot; Rage Clicks by First Interaction and Visually Ready :
 there&amp;#39;s a clear linear correlation ; the slope varies between 1.2 and 1.5.
-&quot;&gt;&lt;figcaption&gt;&lt;p&gt;There’s a clear linear correlation
+&quot; loading=&quot;lazy&quot; width=&quot;1500&quot; height=&quot;843&quot; /&gt;
+&lt;figcaption&gt;&lt;p&gt;There’s a clear linear correlation
 between rage clicks and 1.2 to 1.5× the time to Visually Ready (when the page
 would look to the user like they could interact with it –
 &lt;a href=&quot;https://akamai.github.io/boomerang/BOOMR.plugins.Continuity.html#toc9__anchor&quot;&gt;see the full definition on Boomerang documentation&lt;/a&gt;).&lt;/p&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;This type of correlation requires large amounts of data collected from real
 users, either through JavaScript libraries like Boomerang, or in-browser RUM
 like the Chrome UX Report. This data can only be collected on production
@@ -294,11 +228,18 @@ interactions can take place in a satisfactory way.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Time To Interactive&lt;/strong&gt;, previously known as “Time To Consistently Interactive”,
 is an experimental synthetic metric that attempts to measure when your web
 application is both visually rendered and interactive.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&quot;/assets/images/2019-05-16/danse.jpg&quot; loading=&quot;lazy&quot; alt=&quot; Superposition of several photos of a dancer in movement.
+&lt;figure &gt;
+&lt;img src=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-05-16/danse.jpg&quot; srcset=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-05-16/danse.jpg 320w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_640/https://boris.schapira.dev/assets/images/2019-05-16/danse.jpg 640w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_960/https://boris.schapira.dev/assets/images/2019-05-16/danse.jpg 960w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1280/https://boris.schapira.dev/assets/images/2019-05-16/danse.jpg 1280w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1600/https://boris.schapira.dev/assets/images/2019-05-16/danse.jpg 1600w&quot; sizes=&quot;80vw&quot;  alt=&quot; Superposition of several photos of a dancer in movement.
 Each movement is captured and yet it is impossible to grasp the continuum on a
-static image. &quot;&gt;&lt;figcaption&gt;&lt;p&gt;As moving things are
+static image. &quot; loading=&quot;lazy&quot; width=&quot;3872&quot; height=&quot;2592&quot; /&gt;
+&lt;figcaption&gt;&lt;p&gt;As moving things are
 difficult to grasp, we often rely on approximations and models.&lt;/p&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;TTI is an interactivity metric that does not rely on real users interactions.
 Instead, the algorithm makes an approximation by considering that a satisfactory
 interaction can only happen in specific conditions, and focuses on determining
@@ -335,11 +276,17 @@ the last observed Long Task.&lt;/p&gt;
 interactive until the browser has finished parsing the document so if the
 DOMContentLoadedEnd event occurs after our candidate value for TTI, this moment
 is chosen as the final value for Time To Interactive.&lt;/p&gt;
-  &lt;figure&gt;&lt;img src=&quot;/assets/images/2019-05-16/tti_w.png&quot; loading=&quot;lazy&quot; alt=&quot; A graph summarizing the above explanations.
-&quot;&gt;&lt;figcaption&gt;&lt;p&gt;Schematic diagram of the definition,
+&lt;figure &gt;
+&lt;img src=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-05-16/tti_w.png&quot; srcset=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-05-16/tti_w.png 320w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_640/https://boris.schapira.dev/assets/images/2019-05-16/tti_w.png 640w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_960/https://boris.schapira.dev/assets/images/2019-05-16/tti_w.png 960w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1139/https://boris.schapira.dev/assets/images/2019-05-16/tti_w.png 1139w&quot; sizes=&quot;80vw&quot;  alt=&quot; A graph summarizing the above explanations.
+&quot; loading=&quot;lazy&quot; width=&quot;1139&quot; height=&quot;555&quot; /&gt;
+&lt;figcaption&gt;&lt;p&gt;Schematic diagram of the definition,
 in the
-“&lt;a href=&quot;https://github.com/WICG/time-to-interactive#definition&quot;&gt;Time To Interactive Explainer&lt;/a&gt;”.&lt;/p&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
+&amp;quot;&lt;a href=&quot;https://github.com/WICG/time-to-interactive#definition&quot;&gt;Time To Interactive Explainer&lt;/a&gt;&amp;quot;.&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;h3&gt;&lt;span id=&quot;how-to-use-the-tti&quot;&gt;How to use the TTI?&lt;/span&gt;&lt;/h3&gt;
 &lt;p&gt;When you start to look at the performance in terms of display, you quickly
 discover the Visually Complete, i.e. the moment when the entire rendering of the
@@ -461,9 +408,11 @@ performance budgets. TTI is kind of a
 &lt;a href=&quot;https://blog.dareboost.com/en/2015/10/performance-budget/&quot;&gt;performance budget&lt;/a&gt;:
 “the main thread activity must stay under the 50ms budget”.&lt;/p&gt;
 &lt;p&gt;However, the definition of any threshold has impact.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/2019-05-16/wpt.png&quot; loading=&quot;lazy&quot; alt=&quot; Capture from WebPageTest. The evaluation of the
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-05-16/wpt.png&quot; srcset=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-05-16/wpt.png 320w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_640/https://boris.schapira.dev/assets/images/2019-05-16/wpt.png 640w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_944/https://boris.schapira.dev/assets/images/2019-05-16/wpt.png 944w&quot; sizes=&quot;80vw&quot;   alt=&quot; Capture from WebPageTest. The evaluation of the
 &amp;quot;Interactive Page&amp;quot; is green very early in the page, but disturbed by a red part
-much later in the loading. &quot;&gt;&lt;/p&gt;
+much later in the loading. &quot; loading=&quot;lazy&quot; width=&quot;944&quot; height=&quot;192&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Let’s take a really simple blog post page, and test it on Desktop with
 WebPageTest. The page is visually ready and completely interactive as soon as
 1.2s. At that moment and during several seconds, a visitor can read and scroll
@@ -514,10 +463,17 @@ investigate further to know what is happening. Some tasks can be delaying the
 TTI without bothering end-users but the page may also be unusable. You just
 don’t have any way to distinguish the two possibilities without further
 investigation.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&quot;/assets/images/2019-05-16/observe.jpg&quot; loading=&quot;lazy&quot; alt=&quot; A microscope zooming on a sample. &quot;&gt;&lt;figcaption&gt;&lt;p&gt;A bad TTI is a sign that not all conditions are
+&lt;figure &gt;
+&lt;img src=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-05-16/observe.jpg&quot; srcset=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-05-16/observe.jpg 320w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_640/https://boris.schapira.dev/assets/images/2019-05-16/observe.jpg 640w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_960/https://boris.schapira.dev/assets/images/2019-05-16/observe.jpg 960w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1280/https://boris.schapira.dev/assets/images/2019-05-16/observe.jpg 1280w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1600/https://boris.schapira.dev/assets/images/2019-05-16/observe.jpg 1600w&quot; sizes=&quot;80vw&quot;  alt=&quot; A microscope zooming on a sample. &quot; loading=&quot;lazy&quot; width=&quot;2784&quot; height=&quot;1848&quot; /&gt;
+&lt;figcaption&gt;&lt;p&gt;A bad TTI is a sign that not all conditions are
 perfect for interactivity. This does not mean that interactions will necessarily
 be degraded. More investigation is always needed.&lt;/p&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;h3&gt;A milestone more than an evaluation of a continuum&lt;/h3&gt;
 &lt;p&gt;Time To Interactive is to interactivity what the Visually Complete is to
 display: a final milestone. What we’re missing is “a Speed Index of
@@ -527,11 +483,18 @@ to infer the user’s frustration.&lt;/p&gt;
 &lt;p&gt;In the previously mentioned study, Nic Jansma observed the distribution of Long
 Task durations and found a correlation with conversion. I hope that we will make
 progress on this subject in the coming years.&lt;/p&gt;
- &lt;figure&gt;&lt;img src=&quot;/assets/images/2019-05-16/nic.png&quot; loading=&quot;lazy&quot; alt=&quot; First Page LongTask Time vs. Conversion Rate (left) ;
-First Page LongTask Time vs. Session Length (right) &quot;&gt;&lt;figcaption&gt;&lt;p&gt;Nic’s study did not observe a decrease in conversion
+&lt;figure &gt;
+&lt;img src=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-05-16/nic.png&quot; srcset=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-05-16/nic.png 320w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_640/https://boris.schapira.dev/assets/images/2019-05-16/nic.png 640w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_960/https://boris.schapira.dev/assets/images/2019-05-16/nic.png 960w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1280/https://boris.schapira.dev/assets/images/2019-05-16/nic.png 1280w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1500/https://boris.schapira.dev/assets/images/2019-05-16/nic.png 1500w&quot; sizes=&quot;80vw&quot;  alt=&quot; First Page LongTask Time vs. Conversion Rate (left) ;
+First Page LongTask Time vs. Session Length (right) &quot; loading=&quot;lazy&quot; width=&quot;1500&quot; height=&quot;843&quot; /&gt;
+&lt;figcaption&gt;&lt;p&gt;Nic’s study did not observe a decrease in conversion
 as long as the First Page Long Tasks were shorter than – not 50ms – but 100ms.
 Isn’t that interesting?&lt;/p&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;In the meantime, a lot of other metrics exist regarding interactivity, mainly in
 RUM, where real user activity can be monitored. For example, I think the
 distribution of
@@ -596,7 +559,7 @@ advice.&lt;/p&gt;
                   &lt;li&gt;written in French.&lt;/li&gt;
               &lt;/ul&gt;
               &lt;p&gt;
-                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.local:10443/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
               &lt;/p&gt;
           &lt;/div&gt;
           
@@ -660,18 +623,1581 @@ this won’t work, sorry! &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-ba
                   &lt;li&gt;written in French.&lt;/li&gt;
               &lt;/ul&gt;
               &lt;p&gt;
-                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.local:10443/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
               &lt;/p&gt;
           &lt;/div&gt;
           
       </description>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0200</pubDate>
-      <link>https://boris.schapira.local:10443/2019/04/bookmark-netflix-speed/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2019/04/bookmark-netflix-speed/</guid>
+      <link>https://boris.schapira.dev/2019/04/bookmark-netflix-speed/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/04/bookmark-netflix-speed/</guid>
       
       <category>Netflix</category>
       
       <category>web</category>
+      
+    </item>
+    
+    <item>
+      <title>Little bunny</title>
+      
+      <description>
+          &lt;p&gt;My 6-year old had been struggling for several days, so he ended up telling us
+about it.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– In fact, it’s hard for me to make decisions. I don’t know, I just want to
+please everyone.&lt;br /&gt;
+– But what do you really want?&lt;br /&gt;
+– I want everyone to be happy. I want to be nice to everyone, but then
+everyone wants to be my friend, or my lover and they call me constantly: “Come
+play with me”, “no, come with me instead” and then I don’t really know
+anymore.&lt;br /&gt;
+– You don’t really know what you want anymore?&lt;br /&gt;
+– I don’t really know who I am anymore, in my heart.&lt;/p&gt;
+&lt;/blockquote&gt;
+ &lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-03-31/responsability.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-03-31/responsability.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-03-31/responsability.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: Nick, from the New Girl show, says, &quot;I don't like it, it's
+too much responsibility&quot;.&lt;/em&gt;&lt;/figure&gt;
+&lt;hr /&gt;
+&lt;p&gt;We talked a lot, for several days, at different times. I learned, amongst other
+things, that he had several “girlfriends”… but that in fact, he had not.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– But, uh, do you mean… friends?&lt;br /&gt;
+– No, girlfriends.&lt;br /&gt;
+– But there are… many of them?&lt;br /&gt;
+– There’s… { he lists }… so 6, that’s 6. But everyone has one in the
+classroom. Except Nico&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; who doesn’t because he sticks his boogers on
+girls.&lt;br /&gt;
+– Oh yes, that’s a good reason. But do the others have six girlfriends?&lt;br /&gt;
+– No, sometimes girls have one or two boyfriends, and boys have one or two
+girlfriends. But I have six. I don’t know why.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;After a while, I tried to focus my questions a little bit to find out more:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– And you, are you in love too?&lt;br /&gt;
+– I only love Julie&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;br /&gt;
+– And what are you two doing?&lt;br /&gt;
+– She’s funny. She takes my hand sometimes, and we play Daddy and Mom with
+Theo&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; who is the baby. She calls me “Little Bunny.”&lt;br /&gt;
+– And you like that, “Little Bunny”?&lt;br /&gt;
+– No, I don’t, but if it’s her, it’s fine. If it’s her, I like it, it’s ok.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;p&gt;A few days later, I met Julie&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. She offered me her greatest smile, it was
+so cute. When we came home, my boy explained some things to me.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– You know, Dad, we won’t be in love for the rest of our lives, probably.&lt;br /&gt;
+– Perhaps, darling. That’s why you have to make the most of it.&lt;br /&gt;
+– Yes, because one day she may not want me to be her boyfriend no more.&lt;br /&gt;
+– Yes, it can happen. What are you gonna tell her that day?&lt;br /&gt;
+– Well, I’d be sad, but I’d tell her it’s okay. If she doesn’t want to be my
+girlfriend anymore, it is she who decides. We can’t force people to be in
+love.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-03-31/10-points.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-03-31/10-points.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-03-31/10-points.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: Ten points for Gryffindor.&lt;/em&gt;&lt;/figure&gt;
+&lt;hr /&gt;
+&lt;p&gt;Then one night, while he was in bed, he decided to tell me one last anecdote.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– We played Mom and Dad again today.&lt;br /&gt;
+– Was it nice?&lt;br /&gt;
+– No, Nico tried many times to kiss Julie on the mouth. And Julie doesn’t like
+it.&lt;br /&gt;
+– And you should never force anyone, you’re right. You told the teacher?&lt;br /&gt;
+– I told Nico and since he wasn’t listening, I told the teacher and then he
+stopped. Julie kissed me on the cheek. She said that she wants us to have
+children when we grow up.&lt;br /&gt;
+– Maybe it’s a little early for these kinds of decisions, isn’t it?&lt;br /&gt;
+– Yes, but when I grow up, I’ll have children!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Like every night, I kissed him goodnight and get up to turn off the light while
+leaving the room.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dad, when I have kids, will you please be their grandpa?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I felt surprised and moved. I never imagined that one day one of them would ask
+me this question… He added:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You’re a great dad, I want them to have a great grandpa like you.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;While trying to master my voice, I said “ok!” and turned off the light without
+turning around, so he wouldn’t see my tears of joy. He wouldn’t have understood.&lt;/p&gt;
+ &lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-03-31/why-feeling.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-03-31/why-feeling.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-03-31/why-feeling.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: Troy Barnes (Donald Glover in Community) says &quot;Why you make
+us feel these things?&quot;.&lt;/em&gt;&lt;/figure&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn1&quot;&gt;
+&lt;p&gt;for obvious reasons, I changed the names. &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2019/03/little-bunny/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/03/little-bunny/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Kids' Miranda Rights</title>
+      
+      <description>
+          &lt;p&gt;The Miranda Rights are 5 sentences that anyone who have watched an American
+TVShow with cops knows pretty well, because they are pronounced systematically
+during an arrest.&lt;/p&gt;
+&lt;p&gt;Sometimes I think that we should apply the same thing to children. Can you
+imagine?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You have the right – really, I insist – to silence.&lt;br /&gt;
+If you waive this right, anything you say can be questioned, and it better not
+be a lie.&lt;br /&gt;
+You have the right to let your parents go to the toilet with the door
+closed.&lt;br /&gt;
+If you can’t do this, a roll of toilet paper thrown to your head will
+automatically be provided.&lt;br /&gt;
+During each whim, you can decide at any time to discontinue and ask for a
+kiss, a hug, or a quiet time.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I think I’m on to something.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-03-30/cop-kids.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-03-30/cop-kids.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-03-30/cop-kids.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: The Simpsons police have set up a moving billboard saying
+&quot;We're watching you, kids. Cops never sleep.&quot;&lt;/em&gt;&lt;/figure&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2019/03/kids-miranda-rights/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/03/kids-miranda-rights/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Lazy Loading, faster webpages, SEO friendly</title>
+      
+      <description>
+          &lt;p&gt;Images are a key content on your website? If you’re serious about your website
+performance, you have probably optimized them. But have you considered to lazy
+load your images? Lazy loading images improves the user experience by saving
+bandwidth for important content first.&lt;/p&gt;
+&lt;p&gt;Some reject the technique for SEO considerations. But properly lazy loading your
+images does not prevent them from being indexed. Let’s find out why you should
+implement lazy load, and how to make sure you build it in a SEO friendly way.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;div class=&quot;canonical&quot;&gt;
+&lt;strong&gt;Note:&lt;/strong&gt; this post first appeared in &lt;a href=&quot;https://blog.dareboost.com/en/2019/03/lazy-loading-faster-webpages-seo-friendly/&quot;&gt;Lazy Loading, faster webpages, SEO friendly&lt;/a&gt;.
+&lt;/div&gt;
+&lt;p&gt;Images are everywhere on the Web. Serving the right image in the right context
+can be really challenging.
+&lt;a href=&quot;https://blog.dareboost.com/en/2017/10/optimize-images-to-reduce-page-weight-file-formats-tools-and-rwd/&quot;&gt;Images need to be optimized&lt;/a&gt;,
+adapted to its rendering area, and only loaded if required.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Images Lazy Loading&lt;/strong&gt; is a set of techniques designed to answer this last
+requirement. An image will be loaded only if it is useful for the visitor: the
+download of an image is triggered when it’s needed: after a specific
+interaction, as a result of a scroll… or never.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://httparchive.org/reports/state-of-images#offscreenImages&quot;&gt;According to HTTPArchive&lt;/a&gt;,
+420 KB (median value) could be saved per page by lazy-loading offscreen and
+hidden images.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-03-20/offscreen-images.png&quot; srcset=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-03-20/offscreen-images.png 320w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_640/https://boris.schapira.dev/assets/images/2019-03-20/offscreen-images.png 640w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_960/https://boris.schapira.dev/assets/images/2019-03-20/offscreen-images.png 960w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1200/https://boris.schapira.dev/assets/images/2019-03-20/offscreen-images.png 1200w&quot; sizes=&quot;80vw&quot;   alt=&quot;Graph showing the amount of data that could be saved by not
+loading off-screen images.&quot; loading=&quot;lazy&quot; width=&quot;1200&quot; height=&quot;800&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Some use cases&lt;/h2&gt;
+&lt;p&gt;There are many concrete cases where Lazy Loading is involved. Let us take a few
+minutes to cite a few examples.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;E-Commerce Search Results&lt;/strong&gt;. These pages often contain so many results that a
+lot of products are outside the viewport. Is it useful to download their images?
+With Lazy Loading, you can delay their loading until the page is scrolled.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Carousels&lt;/strong&gt;. You know about them, right? Why should the user load all of the
+images whereas it will only showcase the first one during several seconds… Lazy
+load them! Load the first one, and trigger the download of the next when in the
+background a couple of seconds before the carousel animation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Menus and tabs.&lt;/strong&gt; Images contained in a menu or a tab are often hidden, only
+displayed after a click. With Lazy Loading, you can delay the loading of the
+images until the button displaying the element is hovered or clicked.&lt;/p&gt;
+&lt;p&gt;Depending on the nature of your page, other cases are possible. No images should
+be included on your pages without previously asking yourself the question of
+delaying their download. Because at the end of the day, there are significant
+performance gains.&lt;/p&gt;
+&lt;h2&gt;The bare necessities&lt;/h2&gt;
+&lt;p&gt;By postponing the loading of images that are not immediately required – or, in
+some cases, not loading them at all – the browser saves resources (bandwidth as
+well as CPU). The page loads faster and the user experience is improved as saved
+resources can be affected to more critical content. There are also server-side
+gains. The CPU and bandwidth required to delivered the resources are subjected
+to less stress, reducing the hosting and/or CDN costs.&lt;/p&gt;
+&lt;p&gt;As said in the introduction, Lazy Loading do not prevent your images from being
+indexed by search engines. But it can be tricky and all the techniques are not
+equals, as all the best practices are not implemented by the various libraries
+and plugins available on the market. To preserve your organic SEO, you need to
+understand how Lazy Loading works, and how to use it safely.&lt;/p&gt;
+&lt;h2&gt;LazyLoad with JavaScript&lt;/h2&gt;
+&lt;p&gt;In a perfect world, the browser would automatically lazy load the images. This
+may be the case in the future, as a
+&lt;a href=&quot;https://github.com/w3c/webappsec-feature-policy/issues/193&quot;&gt;Lazyload Feature Policy&lt;/a&gt;
+is under study, but we’re not there yet. In the meantime, we have to explore
+other solutions, every one of them implying a modification of the HTML markup
+and the addition of a JavaScript (JS) dependency.&lt;/p&gt;
+&lt;div class=&quot;inline-note&quot;&gt;&lt;p&gt;&lt;strong&gt;IMPORTANT&lt;/strong&gt;&lt;br /&gt;
+You don’t need to – and &lt;strong&gt;shouldn’t&lt;/strong&gt; – lazy load all your images. If you know
+that some images will be displayed most of the time , let them be loaded and
+rendered normally. Lazy Loading is only recommended for the other images. Do not
+add complexity when it’s not required!&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;The most traditional solution consists of using JS to reassess, at regular
+intervals and for each image (or each element displaying an image as a
+background), if it needs to be loaded. High-performance libraries such as
+&lt;a href=&quot;https://github.com/aFarkas/lazysizes&quot;&gt;lazysizes&lt;/a&gt; are built on this paradigm and
+are compatible with older browsers. lazysizes can even detect if the User-Agent
+is able to scroll and, if not, load the images right away.&lt;/p&gt;
+&lt;p&gt;However, running those tests so regularly has a cost. This cost can be avoided
+for web browsers supporting the Intersection and Mutation Observer APIs (that
+provide the ability to react to specific DOM situations rather than having to
+test continuously). &lt;a href=&quot;https://github.com/malchata/yall.js&quot;&gt;yall.js&lt;/a&gt; and
+&lt;a href=&quot;https://apoorv.pro/lozad.js/&quot;&gt;lozad.js&lt;/a&gt; are good examples of this
+condition-based technique (they are only compatible
+&lt;a href=&quot;https://caniuse.com/#feat=intersectionobserver&quot;&gt;with modern browsers&lt;/a&gt;, but you
+can use
+&lt;a href=&quot;https://github.com/w3c/IntersectionObserver/tree/master/polyfill&quot;&gt;a polyfill&lt;/a&gt;
+to emulate the missing feature for older browsers).&lt;/p&gt;
+&lt;div class=&quot;inline-note&quot;&gt;&lt;p&gt;&lt;strong&gt;TIP&lt;/strong&gt;&lt;br /&gt;
+As the browser may interpret any omission of &lt;code&gt;src&lt;/code&gt; as an error, I strongly
+recommend that you still define the &lt;code&gt;src&lt;/code&gt; attribute value, using a really small
+transparent image placeholder, even inline, like:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&quot;&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;…&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Whichever JavaScript solution you choose on the client side, you must modify
+your backend to return the right HTML code. The HTML markup for the lazy-loading
+of an image is always similar: the final value of the &lt;code&gt;src&lt;/code&gt; attribute is
+temporarily placed in a &lt;code&gt;data-src&lt;/code&gt; attribute which prevents the &lt;code&gt;&amp;lt;img&amp;gt;&lt;/code&gt; element
+from loading the final image right away.&lt;/p&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;html&quot;&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- Lazy loaded image: before --&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;data-src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;garden.jpg&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;placeholder.jpg&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;js-lazyload&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;data…&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- Lazy loaded background image: before --&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;bg-image-garden&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;container js-lazyload&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;…&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;The library identifies its target images through an attribute, quite often using
+a specific class (for example, here, we are using the &lt;code&gt;js-lazyload&lt;/code&gt; class). When
+the library detects it’s time to load the image, the &lt;code&gt;data-src&lt;/code&gt; attribute is
+used to populate the &lt;code&gt;src&lt;/code&gt; attribute and the browser starts loading the image.
+The technique is the same for other media types (video, iframes) or images
+adapted for responsive web design (for example, the &lt;code&gt;data-srcset&lt;/code&gt; attribute can
+be used to temporarily retain the final value of the &lt;code&gt;srcset&lt;/code&gt; attribute).&lt;/p&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;html&quot;&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- Lazy loaded image: after --&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;garden.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;js-lazyload&quot;&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;…&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- Lazy loaded background image: after --&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;container js-lazyload bg-image-garden&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;…&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2&gt;No JavaScript? Fallback with style (and &lt;code&gt;&amp;lt;noscript&amp;gt;&lt;/code&gt;).&lt;/h2&gt;
+&lt;p&gt;Search engine bots, such as Googlebots, are crawlers that browse the web for the
+purpose of content indexing. No one knows for sure when the Googlebots will
+execute JavaScript on their pages, and at what capacity. As
+&lt;a href=&quot;https://www.stephanboyer.com/post/122/does-google-execute-javascript&quot;&gt;demonstrated by Stephan Boyer in 2016&lt;/a&gt;
+and later confirmed by
+&lt;a href=&quot;https://youtu.be/PFwUbgvpdaQ?t=845&quot;&gt;Tom Greenaway at Google IO 2018&lt;/a&gt;,
+Googlebots do not execute JavaScript during their first visit. The final render
+can actually arrive several days later.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Because Googlebots actually runs two waves of indexing across web content,
+it’s possible some details might be missed. &lt;cite&gt;Tom Greeaway&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Like some images.&lt;/p&gt;
+&lt;p&gt;Because if JavaScript properly executed, lazy loaded images will not be handled
+by it and the &lt;code&gt;src&lt;/code&gt; attribute is never populated, preventing the browser from
+starting the download and displaying the images.&lt;/p&gt;
+&lt;p&gt;How to serve these images despite the absence of JavaScript? There’s a specific
+HTML element you can use: &lt;code&gt;&amp;lt;noscript&amp;gt;&lt;/code&gt;. The content of an &lt;code&gt;&amp;lt;noscript&amp;gt;&lt;/code&gt; element
+is displayed only if scripting features are not supported or are disabled.
+That’s exactly what we need!&lt;/p&gt;
+&lt;p&gt;So if your HTML response contains:&lt;/p&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;data-src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;garden.jpg&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;data/…&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;A spacious garden dominated by a large pine tree.&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;lazyload&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;noscript&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;garden.jpg&quot;&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;A spacious garden dominated by a large pine tree.&quot;&lt;/span&gt;
+        &lt;span class=&quot;err&quot;&gt;…&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/noscript&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;then:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;when JavaScript is available, only the first &lt;code&gt;&amp;lt;img&amp;gt;&lt;/code&gt; element will be
+displayed;&lt;/li&gt;
+&lt;li&gt;when JavaScript is not available, both &lt;code&gt;&amp;lt;img&amp;gt;&lt;/code&gt; elements are considered
+during the page display. The second one (in the &lt;code&gt;&amp;lt;noscript&amp;gt;&lt;/code&gt; element), is
+displayed and indexable by search engines. The technique,
+&lt;a href=&quot;https://www.youtube.com/watch?time_continue=4308&amp;amp;v=7m-cd8XXovQ&quot;&gt;confirmed by John Mueller&lt;/a&gt;,
+Webmaster Trends Analyst at Google, is exactly the same for background
+images:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;bg-image-garden&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;container js-lazyload&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;…&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;noscript&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;container bg-image-garden&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+        … A spacious garden dominated by a large pine tree. …
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/noscript&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Beware: don’t miss adding a specific style that will be applied when JavaScript
+is not available, hiding the non-lazy-loaded images.&lt;/p&gt;
+&lt;p&gt;You may be afraid of the resulting verbose HTML related to code duplication.
+Don’t worry, your HTML documents have to be compressed with gzip or brotli
+before being sent on the network, hence a marginal impact in transfer size (if
+you’re not sure your website is properly using compression,
+&lt;a href=&quot;https://www.dareboost.com/&quot;&gt;audit your pages on Dareboost&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Of course, it remains true that entering all these tags is tedious. When
+managing responsive images, artistic direction… the markup of images can be
+very, very complex. So anyway, you should not enter this HTML code manually:
+dealing automatically with this kind of complexity should be the work of your
+CMS or a task of your contribution workflow whatever it is.&lt;/p&gt;
+&lt;figure &gt;
+&lt;img src=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-03-20/guardians_rwd_image.png&quot; srcset=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-03-20/guardians_rwd_image.png 320w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_640/https://boris.schapira.dev/assets/images/2019-03-20/guardians_rwd_image.png 640w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_686/https://boris.schapira.dev/assets/images/2019-03-20/guardians_rwd_image.png 686w&quot; sizes=&quot;80vw&quot;  alt=&quot;About fifty lines of very dense
+HTML.&quot; loading=&quot;lazy&quot; width=&quot;686&quot; height=&quot;420&quot; /&gt;
+&lt;figcaption&gt;&lt;p&gt;Mark-up an image from The
+Guardian, even before the implementation of a Lazy Loading&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Testing the implementation&lt;/h2&gt;
+&lt;p&gt;Once you’ve implemented Lazy Loading, you’ll need to test that it works. The
+simplest solution is, of course to run a
+&lt;a href=&quot;https://www.dareboost.com/en/tool/website-analysis&quot;&gt;full web performance diagnosis&lt;/a&gt;
+with Dareboost to detect if all the images outside of the viewport are
+lazyloaded. If it’s not the case, we’ll tell you and give you the URLs of the
+images for which loading can be postponed.&lt;/p&gt;
+&lt;p&gt;If you have conditioned the loading of your images to a browser or a custom
+event, feel free to use
+&lt;a href=&quot;https://www.dareboost.com/en/doc/analysis-report/timeline-waterfall&quot;&gt;your report’s Waterfall&lt;/a&gt;
+to check that the loading of images follows the correct sequence. In the case of
+a custom event, feel free to also use a
+&lt;a href=&quot;https://blog.dareboost.com/en/2018/05/custom-timings-monitoring/&quot;&gt;Custom Timing&lt;/a&gt;:
+you’ll be able to find the event in the Waterfall.&lt;/p&gt;
+&lt;p&gt;It may also need to do manual tests. Open your browser on the concerned webpage,
+open the Developper Tools and select the Network tab (every modern browser
+features it). Empty the network stack to better visualize new calls, then
+provoke the interaction meant to start the lazy loading.&lt;/p&gt;
+&lt;p&gt;Here is an example on Chrome, with the Lazy Loading activated during scrolling:&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+    &lt;iframe loading=&quot;lazy&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/Z4jRe3KRcf4&quot; title=&quot;Visualization of lazyloading during scrolling in the Chrome DevTools Network tab&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;You may consider automating these tests by using browser-based tools to perform
+tests. Puppeteer is one of them and
+&lt;a href=&quot;https://github.com/GoogleChromeLabs/puppeteer-examples/blob/master/lazyimages_without_scroll_events.js&quot;&gt;can be used to test&lt;/a&gt;
+the behavior of your lazy loading on Chrome or Chromium, to make sure that your
+real users will see your images.&lt;/p&gt;
+&lt;p&gt;To verify that crawler bots will also see your images, you can ask Google
+itself, using the URL Inspector tool of the
+&lt;a href=&quot;https://search.google.com/search-console&quot;&gt;Google Search Console&lt;/a&gt;. You will view
+your page exactly as fetch by Google. Just insert your URL for Googlebot to test
+your page and screenshot the result to confirm that your &lt;code&gt;&amp;lt;noscript&amp;gt;&lt;/code&gt; fallback
+is working.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Here we are, you now know everything there is to know about Images Lazy Load,
+its SEO impact and the best way to get around it. Let’s trim some pages!&lt;/p&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0100</pubDate>
+      <link>https://blog.dareboost.com/en/2019/03/lazy-loading-faster-webpages-seo-friendly/</link>
+      <guid isPermaLink="true">https://blog.dareboost.com/en/2019/03/lazy-loading-faster-webpages-seo-friendly/</guid>
+      
+      <category>Performance Web</category>
+      
+      <category>Images</category>
+      
+      <category>SEO</category>
+      
+      <category>web</category>
+      
+    </item>
+    
+    <item>
+      <title>Heels</title>
+      
+      <description>
+          &lt;blockquote&gt;
+&lt;p&gt;Dad, what’s my favorite dance?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;My 5-year-old son asks me.&lt;/p&gt;
+&lt;p&gt;Caught off guard, I immediately thought of “Single Ladies”. We had played the
+song to him when he was barely an 18-month-old, he had shaken his tiny little
+butt so much that all the grown-ups had laught out loud.&lt;/p&gt;
+&lt;p&gt;So we watched the clip again together. Once again, he loved the song and the
+choreography.&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+    &lt;iframe loading=&quot;lazy&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/4m1EFMoRFvY&quot; title=&quot;Beyoncé - Single Ladies (Put a Ring on It) (Video Version)&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Woaw, they dance too well. In addition, they have heels and it’s very hard to
+dance with heels, everyone knows that&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;! When I grow up, I want to dance
+just like them!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Learn respect, there’s no age.&lt;/p&gt;
+&lt;p&gt;He quickly asked me if there were boys dancing with heels. So we spent some time
+watching videos of Yanis Marshall.&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+    &lt;iframe loading=&quot;lazy&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/kc17H68IKMs&quot; title=&quot;YANIS MARSHALL CHOREOGRAPHY. MUSIC BY BEYONCE. FEAT ARNAUD &amp; MEHDI. STUDIO68 LONDON #BGT REHEARSAL&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;This guy is amazing.&lt;/p&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn1&quot;&gt;
+&lt;p&gt;Especially children who listen to their mother. &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2019/03/heels/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/03/heels/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Folding day</title>
+      
+      <description>
+          &lt;p&gt;Today, with the big one, we have laundry to fold. Usually it’s something I do
+alone, during lunchtime, when the boys are not there, or with my wife at night
+chatting about our day. This week, I was caught by other activities and the pile
+of laundry to be folded seems to be endless. He proposed himself as a
+reinforcement.&lt;/p&gt;
+&lt;p&gt;Each of us has his own basket (I takes the grown-up’s clothes, while he takes
+the children’s). We’re starting out by separating the clothes by type (pants,
+tee-shirts, underwear) then, as he forgot since last time, I show him again how
+to fold everything.&lt;/p&gt;
+&lt;p&gt;I leave him to his folding and whistle while folding my own pile. From time to
+time, I turn my head, and I see that he does a good job. Quickly, he complains.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– Our clothes are too easy. Can I try it with your own clothes? – Of course.
+Come on, let’s swap our buckets.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And here we go again, I separate the clothes of the little one and those of the
+big one and he folds one of my jeans. We whistle and sometimes he sings. At the
+end of the song, I watch him. He folded two jeans and two t-sh…&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– Why did you fold my T-shirts the wrong way?&lt;br /&gt;
+– Aaaah no Dad, it’s just that they’re big, so I found another technique. I
+put them down, then I fold them like that, you know, then like that.&lt;br /&gt;
+– Uh… okay, but then you’ re gonna make me huge folding marks. Look, when
+you unfold, it makes a cross in the middle of the shirt!&lt;br /&gt;
+– Oh, yeah, but that’s okay. You work from home, no one sees you!&lt;/p&gt;
+&lt;/blockquote&gt;
+ &lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-03-09/fair-point.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-03-09/fair-point.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-03-09/fair-point.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: A man says to another man, &quot;Okay, you got a point. Let's
+move on.&quot;&lt;/em&gt;&lt;/figure&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2019/03/folding-day/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/03/folding-day/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Taking the train</title>
+      
+      <description>
+          &lt;p&gt;At the beginning of the school holidays, the boys and I take the train to see
+their grandmothers. The older one is &lt;em&gt;slightly&lt;/em&gt; unbearable.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– Dad, are we there?&lt;br /&gt;
+– No, I told you, we’re going to Bordeaux. Now they’re not announcing
+Bordeaux. So we’re not there yet.&lt;br /&gt;
+– … and now, are we there?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I’m breaking down:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Stop, no more. Stop. What have I told you &lt;strong&gt;ten times&lt;/strong&gt; since we left?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;He pondered for a second and began to list on his fingers:&lt;/p&gt;
+ &lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-02-16/enum.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-02-16/enum.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-02-16/enum.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: Fabian Nolte counts on his fingers while
+squinting.&lt;/em&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Stop screaming, stop being mean to my brother, stop talking, stop lying on
+him, stop getting my glasses dirty, stop getting into people’s private space,
+stop saying dirty words, say hello to people who say hello to me…&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The whole wagon:&lt;/p&gt;
+&lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-02-16/people-laugh.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-02-16/people-laugh.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-02-16/people-laugh.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: Several people laugh out loud.&lt;/em&gt;&lt;/figure&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2019/02/taking-the-train/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/02/taking-the-train/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Black inside</title>
+      
+      <description>
+          &lt;p&gt;My big one loves Les Bleus. He doesn’t really know why - since he’s never
+watched a game before - but he loves Les Bleus. He often repeats that he’s
+Griezmann.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;The youngest, who also wants to participate in the role-playing game, has
+therefore also chosen a hero:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– If you’re Grizemann, I’m Mbappé!&lt;br /&gt;
+– No way! Mbappé he’s black!&lt;br /&gt;
+– So what, he’s black in his heart?&lt;br /&gt;
+– Uh, no, he’s not a bad guy, I don’t think so.&lt;br /&gt;
+– Well, then it’s okay. We’re both not black in our hearts so it’s okay, we’re
+the same color!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-02-09/mbappe.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-02-09/mbappe.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-02-09/mbappe.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: Killian Mbappé does a victory dance.&lt;/em&gt;&lt;figcaption&gt;&lt;p&gt;Bam !&lt;/p&gt;
+&lt;/figcaption&gt;&lt;/figure&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2019/02/black-inside/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/02/black-inside/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>The soccer doctor</title>
+      
+      <description>
+          &lt;p&gt;My little koala is sick, so I take him to the family doctor. He’s seen him a few
+months earlier for a routine visit before starting soccer trainings. Amazed, he
+asked him:&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Oh, but you’re the soccer doctor?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To which our doctor, so awesome, replied, super cheerful:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Yes, I’m the soccer and flu doctor.&lt;br /&gt;
+These are my two majors.&lt;/p&gt;
+&lt;/blockquote&gt;
+ &lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-02-08/neil-thumb-up.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-02-08/neil-thumb-up.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-02-08/neil-thumb-up.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: Neil Patrick-Harris raises his thumb of
+approval.&lt;/em&gt;&lt;/figure&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2019/02/the-soccer-doctor/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/02/the-soccer-doctor/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>The best a man can be</title>
+      
+      <description>
+          &lt;p&gt;If you haven’t seen it yet, I strongly encourage you to look at Gillette’s new
+ad.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+    &lt;iframe loading=&quot;lazy&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/koPmuEyP3a0&quot; title=&quot;We Believe: The Best Men Can Be | Gillette (Short Film)&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;Many things have been said and will continue to be said about this ad. No,
+Gillette can’t make up for a hundred years of body shaming women. Gillette can’t
+explain to men how to be better and, in the same time, objectify women or make
+them pay a 15 % &lt;a href=&quot;https://www.listenmoneymatters.com/the-pink-tax/&quot;&gt;pink tax&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I do not recommend Gillette products. That’s not what this is about.&lt;/p&gt;
+&lt;p&gt;But whether we like it or not, advertising, the media, are part of our
+children’s cultural environment. The French are nowadays concerned about the
+environment because they watched Ushuaïa in the 1980s, financed by
+Rhône-Poulenc, one of the most polluting companies of the time. Good can come
+from evil.&lt;/p&gt;
+&lt;p&gt;We can’t wait anymore. Like it or not, advertising is part of our children’s
+cultural environment. We need to see these messages on TV and billboards right
+now because toxic masculinity has to stop. We must use all possible means to
+make our boys understand that they must become the decent human beings that not
+all of us are.&lt;/p&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2019/01/the-best-men-can-be/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/01/the-best-men-can-be/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Like a man</title>
+      
+      <description>
+          &lt;p&gt;“I want to sit like a dude” he said while we were dining.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;His mother and I looked at each other, immediately on the same page. We put our
+chairs next to him and showed him how some men spread their legs to dominate
+people around them, as if they had crystal-made testicles. It made him laugh for
+thirty seconds, but he quickly felt oppressed.&lt;/p&gt;
+&lt;p&gt;He doesn’t want to be that kind of guy.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-01-19/manspreading.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-01-19/manspreading.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-01-19/manspreading.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: A man sitting in the subway annoys the woman next to him
+with his legs spread out. So she lifts her leg and places it, stretched out, on
+his thigh, making him feel inconfortable.&lt;/em&gt;&lt;/figure&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2019/01/like-a-man/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/01/like-a-man/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>His favorite book</title>
+      
+      <description>
+          &lt;p&gt;I discover that my youngest child is allowed to bring books to school. When a
+pupil does so, the teacher does the reading in class.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– Why didn’t you ever say anything, don’t you want to take one?&lt;br /&gt;
+– No, the schoolteacher said to bring our favorite book.&lt;br /&gt;
+– Well, you’ve got plenty of books!&lt;br /&gt;
+– Yes, but I… I don’t have ONE FAVORITE BOOK! I love them all, I can’t choose
+ONE!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-01-14/cant.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-01-14/cant.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-01-14/cant.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: A man throwing himself on the ground, outplaying an
+unresolvable inner conflict.&lt;/em&gt;&lt;/figure&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2019/01/favorite-book/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/01/favorite-book/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>The instructor</title>
+      
+      <description>
+          &lt;p&gt;These days, my sons like sports movies. After a film about a gymnast and one
+about basketball last week, they ask me again for a basketball film today….&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– Oh, you saw Dad, the instructor has the same name as the one from the last
+movie!&lt;br /&gt;
+– That’s quite a coincidence. What’s his name? Coach!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I had to explain…&lt;/p&gt;
+ &lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2018-12-26/or.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2018-12-26/or.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2018-12-26/or.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: Un homme disant à un autre homme : &quot;Euh, oui, ou
+alors…&quot;&lt;/em&gt;&lt;/figure&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2018/12/the-instructor/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2018/12/the-instructor/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Dead dogs</title>
+      
+      <description>
+          &lt;p&gt;Today, my wife’s contemporary dance class welcomes children. My 5 and a half
+wanted to go with her.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– So, how was the dance class with Mom?&lt;br /&gt;
+– Dope! I learned to do that, and that, and then that… well, not that,
+because it’s a little too hard…&lt;br /&gt;
+– You stayed late; did you ate, a little bit?&lt;br /&gt;
+– Yes, we ate chocolates, toffees, other candies, and even dead little dogs!&lt;br /&gt;
+– Dead dogs?&lt;br /&gt;
+– Yes, you talked about it the other day: the little sausage sandwiches!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-12-21/relieved.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-12-21/relieved.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-12-21/relieved.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: Denzel Washington is relieved.&lt;/em&gt;&lt;/figure&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2018/12/dead-dogs/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2018/12/dead-dogs/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Whose territory am I?</title>
+      
+      <description>
+          &lt;blockquote&gt;
+&lt;p&gt;A map is &lt;em&gt;not&lt;/em&gt; the territory it represents, but, if correct, it has a &lt;em&gt;similar
+structure&lt;/em&gt; to the territory, which accounts for its usefulness. &lt;cite&gt;Alfred
+Korzybski, Science and Sanity, p. 58.&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;I know I’m tilting at windmills but I also think this needs to be reiterated.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We know that an increasing number of private and public organizations are
+modeling us. Online tracking, connected devices, ghost profiles, cohort
+analyses… We are incompletely defined, wrongly (in both senses of the word)
+mapped.&lt;/p&gt;
+&lt;p&gt;What we still have to understand and assimilate in Popular Culture is the
+usefulness and use of these maps by and for those who design them. Because in
+the same way that a path indicated on a map becomes more frequented, and
+therefore more clearly marked on the territory than a non-mapped path, the
+aberrations of our models become, due to the manipulations of our publication
+timelines and filtered bubbles, our own mental pathways.&lt;/p&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Fri, 14 Dec 2018 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2018/12/whose-territory-am-i/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2018/12/whose-territory-am-i/</guid>
+      
+      <category>Web</category>
+      
+      <category>citoyen</category>
+      
+    </item>
+    
+    <item>
+      <title>Optimizing Jekyll build time</title>
+      
+      <description>
+          &lt;p&gt;Being more and more tired of WordPress and its galaxy of dubious-quality
+plugins, I decided to migrate to a static site generator three years ago. After
+a few tries with other solutions, I decided to migrate to Jekyll, whose
+community seemed more mature to me.&lt;/p&gt;
+&lt;p&gt;After three years working on Jekyll, I’m starting to understand the strengths
+and weaknesses of the solution, but I am far from mastering its mysteries. I
+tweaked it to publish multilingual content, developed my own plugins, integrated
+pieces of architecture I discovered in some of my friends’ repos… Let’s say I’m
+quite used to it now.&lt;/p&gt;
+&lt;p&gt;But nowadays, my Jekyll build looked less like the famous doctor than the
+Frankenstein monster: a patchwork of code roughly tied together by delicate
+strings, slowly moving as it moans.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;hr /&gt;
+&lt;h2&gt;TL;DR&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Noting that my Jekyll compilation was very slow, I asked the French JAMstack
+community for advice.&lt;/li&gt;
+&lt;li&gt;Several things have emerged, each tip allowing me to optimize the
+compilation time.&lt;/li&gt;
+&lt;li&gt;The biggest gain comes from Jekyll’s own evolutions, because the Core Team
+is doing a huge amount of work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;To generate my site, I developed a set of rake commands to clean the workspace,
+determine the destination environment and configure the build accordingly, check
+the integrity of the front-matter headers of my posts, generate the site with
+Jekyll and, finally, control what’s produced using
+&lt;a href=&quot;https://rubygems.org/gems/html-proofer/&quot;&gt;the &lt;code&gt;html-proofer&lt;/code&gt; gem&lt;/a&gt;. I don’t run
+all this on my computer: instead, I delegate this task to Netlify, connected to
+my GitHub repository to compile and deploy my branches.&lt;/p&gt;
+&lt;p&gt;All these tasks obviously take time, but the part dedicated to the generation
+with Jekyll remained the most CPU-consuming. For months, my Netlify builds had
+been over 10 minutes. Every build was slower than the previous one.&lt;/p&gt;
+&lt;p&gt;A few days ago, Netlify stopped deploying the website altogether. The build took
+too long and exceeded the limit imposed by Netlify’s continuous deployment
+system&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;It was time to act.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;An African proverb says:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you want to go fast, go alone. If you want to go far, go together.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I don’t think that’s entirely true. I believe that when we surround ourselves
+with the right people, we can go elsewhere, towards possibilities we had not
+even considered.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;So when I thought I was reaching the limit of my skills, I asked for help from
+the community I know best: the JAMstatic Slack members. And among them, a member
+of the Jekyll’s core team, &lt;a href=&quot;https://github.com/DirtyF&quot;&gt;Frank&lt;/a&gt;. He helped me a
+lot (and still does) by pointing out possibilities that I hadn’t contemplated.&lt;/p&gt;
+&lt;h2&gt;Includes: to be consumed in moderation&lt;/h2&gt;
+&lt;p&gt;Experience has taught me that it is often more difficult to maintain a project
+than to carry it out in the first place. To increase your chances of success, it
+is better to find techniques for organizing the code that are adapted to your
+long-term understanding. In my opinion, dividing the code into significant
+portions is one of the most effective maintenance tips.&lt;/p&gt;
+&lt;p&gt;In Jekyll, this is achieved via the &lt;code&gt;{% include %}&lt;/code&gt; tag.
+However, be careful, an overly ambitious code break-down will have a cost on
+your compilation time, which you can view with
+&lt;a href=&quot;https://jekyllrb.com/docs/configuration/options/#build-command-options&quot;&gt;the Liquid profiler&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;According to &lt;a href=&quot;https://github.com/pathawks/&quot;&gt;Pat Hawks&lt;/a&gt;, a member of the Jekyll
+&lt;span lang=&quot;en&quot;&gt;Core Team&lt;/span&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Every time you use an &lt;code&gt;{% include %}&lt;/code&gt; tag, Jekyll has to
+open the included file, read its contents into memory, and then parse the
+template with Liquid. This happens once per
+&lt;code&gt;{% include %}&lt;/code&gt; tag not per file! This means that using
+the same include on 100 pages will cause that include to be loaded/parsed 100
+times. The problem gets worse very quickly if you start including includes in
+your includes…&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;One way to overcome this additional cost is to cache the blocks compiled during
+the interpretation of your &lt;code&gt;{% include %}&lt;/code&gt; and there’s a
+plugin for that:
+&lt;a href=&quot;https://github.com/benbalter/jekyll-include-cache&quot;&gt;Ben Balter’s jekyll-include-cache&lt;/a&gt;.
+But beware of two very important things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Be sure to pass all the data necessary for your
+&lt;code&gt;{% include %}&lt;/code&gt; as parameters, because they will be used
+as keys for the cache.&lt;/li&gt;
+&lt;li&gt;use includes only to generate reusable portions or code. If the parameters of
+the include make it so specific that it’s not reusable, the
+&lt;code&gt;{% include %}&lt;/code&gt; cache will have been built for nothing.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These two constraints are strong enough to force me to reintegrate more than
+half of my includes into layouts. I am not entirely satisfied with this
+situation (because, as a result, maintenance capacities are degraded) but I must
+admit that I saved nearly &lt;strong&gt;10%&lt;/strong&gt; of compilation time&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn2&quot; id=&quot;fnref2&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; by sacrificing
+this little comfort.&lt;/p&gt;
+&lt;p&gt;And with liquid comments
+(&lt;code&gt;{% comment %}This is a comment{% endcomment %}&lt;/code&gt;), I can
+still efficiently organize my code, even if it’s in a single file.&lt;/p&gt;
+&lt;h2&gt;Trust the gems compiled in C&lt;/h2&gt;
+&lt;p&gt;Out of the box, Jekyll is based on a set of gems written in Ruby. Recently, new
+gems have appeared, partially written in C, thus, more efficient. The Jekyll
+team was kind enough to add conditional tests in the generator to use these gems
+if they are referenced in your Gemfile.&lt;/p&gt;
+&lt;p&gt;So far, I’ve heard about two of them:&lt;/p&gt;
+&lt;p&gt;There are undoubtedly others, but I heard about at least two of them:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Shopify/liquid-c&quot;&gt;the &lt;code&gt;liquid-c&lt;/code&gt; gem&lt;/a&gt;, to optimize the
+liquid compilation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/sass/sassc-ruby&quot;&gt;the &lt;code&gt;sassc&lt;/code&gt; gem&lt;/a&gt;, if you need Jekyll to
+compile SASS files more efficiently.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I don’t need Jekyll for my SASS files but by using &lt;code&gt;liquid-c&lt;/code&gt;, I saved &lt;strong&gt;9%&lt;/strong&gt; of
+compilation time.&lt;/p&gt;
+&lt;h2&gt;If you can avoid it, don’t use LSI&lt;/h2&gt;
+&lt;p&gt;Jekyll comes with a very handy option called Latent Semantic Indexing (LSI)
+which role is to parse all the content before generating the site, in order to
+feed, for each post, a qualitative collection of related posts (instead of the
+ten most recent posts). LSI does a very good job but if you have hundreds of
+posts like I do, it will run slowly, very slowly.&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn3&quot; id=&quot;fnref3&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;After a very quick non-analysis of the analytics I don’t have&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn4&quot; id=&quot;fnref4&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;, I
+decided to part with the related articles and save &lt;strong&gt;17%&lt;/strong&gt; of compilation time.&lt;/p&gt;
+&lt;h2&gt;Markdown, choose the right flavor&lt;/h2&gt;
+&lt;p&gt;Markdown is a really nice light markup language but it’s missing one thing very
+badly: standardization. There are dozens of Markdown parsers, each with their
+own specific features. For some time now, a standardization initiative has been
+emerging around &lt;a href=&quot;https://commonmark.org/&quot;&gt;CommonMark&lt;/a&gt;, and projects implementing
+it are flourishing.&lt;/p&gt;
+&lt;p&gt;By default, Jekyll uses &lt;a href=&quot;https://kramdown.gettalong.org/&quot;&gt;kramdown&lt;/a&gt;, a Markdown
+superset developed in Ruby that does a very good job. To replace it with
+CommonMark, I used &lt;a href=&quot;https://github.com/gjtorikian/commonmarker&quot;&gt;commonmarker&lt;/a&gt;
+which is, again, a Ruby wrapper for a C implementation. To take advantage of it
+in Jekyll, you can use
+&lt;a href=&quot;https://github.com/jekyll/jekyll-commonmark&quot;&gt;Pat Hawks’ jekyll-commonmark plugin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Be careful, the transition may require adaptations. kramdown and CommonMark are
+quite different: while switching from one to the other, I had to sacrifice some
+syntaxic sugars.&lt;/p&gt;
+&lt;p&gt;For example, CommonMark does not support block attributes such as
+&lt;code&gt;{ :.myclass}&lt;/code&gt; to decorate a content paragraph. You will
+need to use good old HTML tags. Don’t forget to enable the &lt;code&gt;UNSAFE&lt;/code&gt; option in
+your Jekyll configuration (&lt;code&gt;_config.yml&lt;/code&gt;) if you don’t want to generate a lot of
+&lt;code&gt;&amp;lt;!-- raw HTML omitted --&amp;gt;&lt;/code&gt; comments:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;markdown: CommonMark
+commonmark:
+  options: [&quot;SMART&quot;, &quot;FOOTNOTES&quot;, &quot;UNSAFE&quot;, &quot;HARDBREAKS&quot;]
+  extensions: [&quot;strikethrough&quot;, &quot;autolink&quot;, &quot;table&quot;]
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;You may also notice that CommonMark is less tolerant than kramdown. Switching to
+this parser helped me to detect problems in my post that I had never noticed
+before because kramdown was fixing them for me. If you have a significant amount
+of content, be prepared to fix a few typos.&lt;/p&gt;
+&lt;p&gt;A small price to pay to save another &lt;strong&gt;9%&lt;/strong&gt; of compilation time.&lt;/p&gt;
+&lt;h2&gt;Trust the team for going in the right direction&lt;/h2&gt;
+&lt;p&gt;Finally, one of the last improvements made was to switch to the &lt;code&gt;master&lt;/code&gt; version
+of Jekyll. Since 3.8.5 (my previous version), many improvements have been made,
+and the performance gain is really considerable: &lt;strong&gt;93%&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I versioned my &lt;code&gt;_site&lt;/code&gt; folder and checked that nothing was breaking when
+switching versions because I couldn’t believe in such a gain and yet, it’s real.&lt;/p&gt;
+&lt;p&gt;If you were to retain – or test – only one optimization, it is this one: trust
+the Core Team, performance is on the way.&lt;/p&gt;
+&lt;h2&gt;What about my multilingual mess?&lt;/h2&gt;
+&lt;p&gt;After all these optimizations, my Jekyll compilation went from more than 15
+minutes to about a minute. That’s still a lot, and I know why: my “homemade”
+management of internationalization, and more particularly of the translation of
+my articles, is suboptimal.&lt;/p&gt;
+&lt;p&gt;It is based on an &lt;code&gt;i18n-key&lt;/code&gt; value that I place in the front-matter of my
+content files to match them across languages, as well as on a home-made plugin
+that, for each content, scans all the other contents to find which ones are
+translations of the current content. This O(n²) strategy, while easy to
+implement, is not effective at all and penalizes my build performance.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ashmaroli&quot;&gt;Ashwin Maroli&lt;/a&gt;, one of the Jekyll Plugin Core
+Team member, is working on a filepath-convention-based plugin that should
+considerably improve i18n:
+&lt;a href=&quot;https://github.com/ashmaroli/jekyll-locale&quot;&gt;jekyll-locale&lt;/a&gt;. I tried to
+implement the plugin on my blog but encountered some drawbacks. I will come back
+to this later, especially when some plugins have been modified to be compatible,
+such as
+&lt;a href=&quot;https://github.com/sverrirs/jekyll-paginate-v2&quot;&gt;Sverrir Sigmundarson’s jekyll-paginate-v2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I’ll be sure to mention it when everything will work out as it should!&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Experimental protocol&lt;/h2&gt;
+&lt;p&gt;Since the above optimizations also require to modify the content, I did not
+carry out a benchmark during the optimizations. I waited until I was completely
+finished and then, I went back and evaluated the gains step by step.&lt;/p&gt;
+&lt;p&gt;Here’s my test protocol: I started from an installation without any of these
+optimizations, then I wrote a script implementing the optimizations one by one
+(except the removal of the includes, because… I was too lazy to script the
+modification of my layouts) and, each time, compiled the website. I scheduled
+the script to be executed 10 times and went to bed while my computer spent
+nearly 16 hours benchmarking all this.&lt;/p&gt;
+&lt;p&gt;Here is the raw data:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Run&lt;/th&gt;
+&lt;th&gt;Step&lt;/th&gt;
+&lt;th&gt;Done in… (s)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 1&lt;/td&gt;
+&lt;td&gt;1 - Before&lt;/td&gt;
+&lt;td&gt;1337,872&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 1&lt;/td&gt;
+&lt;td&gt;2 - Switch to liquid-c&lt;/td&gt;
+&lt;td&gt;1509,997&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 1&lt;/td&gt;
+&lt;td&gt;3 - Remove LSI&lt;/td&gt;
+&lt;td&gt;1264,981&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 1&lt;/td&gt;
+&lt;td&gt;4 - Switch to CommonMark&lt;/td&gt;
+&lt;td&gt;1282,607&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 1&lt;/td&gt;
+&lt;td&gt;5 - Switch to master&lt;/td&gt;
+&lt;td&gt;64,949&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 2&lt;/td&gt;
+&lt;td&gt;1 - Before&lt;/td&gt;
+&lt;td&gt;1510,356&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 2&lt;/td&gt;
+&lt;td&gt;2 - Switch to liquid-c&lt;/td&gt;
+&lt;td&gt;1457,161&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 2&lt;/td&gt;
+&lt;td&gt;3 - Remove LSI&lt;/td&gt;
+&lt;td&gt;1239,278&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 2&lt;/td&gt;
+&lt;td&gt;4 - Switch to CommonMark&lt;/td&gt;
+&lt;td&gt;1058,934&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 2&lt;/td&gt;
+&lt;td&gt;5 - Switch to master&lt;/td&gt;
+&lt;td&gt;72,335&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 3&lt;/td&gt;
+&lt;td&gt;1 - Before&lt;/td&gt;
+&lt;td&gt;2148,253&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 3&lt;/td&gt;
+&lt;td&gt;2 - Switch to liquid-c&lt;/td&gt;
+&lt;td&gt;1465,446&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 3&lt;/td&gt;
+&lt;td&gt;3 - Remove LSI&lt;/td&gt;
+&lt;td&gt;1253,785&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 3&lt;/td&gt;
+&lt;td&gt;4 - Switch to CommonMark&lt;/td&gt;
+&lt;td&gt;886,152&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 3&lt;/td&gt;
+&lt;td&gt;5 - Switch to master&lt;/td&gt;
+&lt;td&gt;92,384&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 4&lt;/td&gt;
+&lt;td&gt;1 - Before&lt;/td&gt;
+&lt;td&gt;1621,322&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 4&lt;/td&gt;
+&lt;td&gt;2 - Switch to liquid-c&lt;/td&gt;
+&lt;td&gt;1506,737&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 4&lt;/td&gt;
+&lt;td&gt;3 - Remove LSI&lt;/td&gt;
+&lt;td&gt;1225,414&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 4&lt;/td&gt;
+&lt;td&gt;4 - Switch to CommonMark&lt;/td&gt;
+&lt;td&gt;1057,497&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 4&lt;/td&gt;
+&lt;td&gt;5 - Switch to master&lt;/td&gt;
+&lt;td&gt;87,943&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 5&lt;/td&gt;
+&lt;td&gt;1 - Before&lt;/td&gt;
+&lt;td&gt;1589,323&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 5&lt;/td&gt;
+&lt;td&gt;2 - Switch to liquid-c&lt;/td&gt;
+&lt;td&gt;1607,33&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 5&lt;/td&gt;
+&lt;td&gt;3 - Remove LSI&lt;/td&gt;
+&lt;td&gt;1261,815&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 5&lt;/td&gt;
+&lt;td&gt;4 - Switch to CommonMark&lt;/td&gt;
+&lt;td&gt;914,124&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 5&lt;/td&gt;
+&lt;td&gt;5 - Switch to master&lt;/td&gt;
+&lt;td&gt;77,526&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 6&lt;/td&gt;
+&lt;td&gt;1 - Before&lt;/td&gt;
+&lt;td&gt;1643,596&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 6&lt;/td&gt;
+&lt;td&gt;2 - Switch to liquid-c&lt;/td&gt;
+&lt;td&gt;1481,98&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 6&lt;/td&gt;
+&lt;td&gt;3 - Remove LSI&lt;/td&gt;
+&lt;td&gt;1237,843&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 6&lt;/td&gt;
+&lt;td&gt;4 - Switch to CommonMark&lt;/td&gt;
+&lt;td&gt;1336,47&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 6&lt;/td&gt;
+&lt;td&gt;5 - Switch to master&lt;/td&gt;
+&lt;td&gt;69,099&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 7&lt;/td&gt;
+&lt;td&gt;1 - Before&lt;/td&gt;
+&lt;td&gt;1456,432&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 7&lt;/td&gt;
+&lt;td&gt;2 - Switch to liquid-c&lt;/td&gt;
+&lt;td&gt;1487,558&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 7&lt;/td&gt;
+&lt;td&gt;3 - Remove LSI&lt;/td&gt;
+&lt;td&gt;1268,737&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 7&lt;/td&gt;
+&lt;td&gt;4 - Switch to CommonMark&lt;/td&gt;
+&lt;td&gt;1106,233&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 7&lt;/td&gt;
+&lt;td&gt;5 - Switch to master&lt;/td&gt;
+&lt;td&gt;69,562&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 8&lt;/td&gt;
+&lt;td&gt;1 - Before&lt;/td&gt;
+&lt;td&gt;2943,453&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 8&lt;/td&gt;
+&lt;td&gt;2 - Switch to liquid-c&lt;/td&gt;
+&lt;td&gt;1492,383&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 8&lt;/td&gt;
+&lt;td&gt;3 - Remove LSI&lt;/td&gt;
+&lt;td&gt;1229,34&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 8&lt;/td&gt;
+&lt;td&gt;4 - Switch to CommonMark&lt;/td&gt;
+&lt;td&gt;1321,156&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 8&lt;/td&gt;
+&lt;td&gt;5 - Switch to master&lt;/td&gt;
+&lt;td&gt;70,332&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 9&lt;/td&gt;
+&lt;td&gt;1 - Before&lt;/td&gt;
+&lt;td&gt;1587,532&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 9&lt;/td&gt;
+&lt;td&gt;2 - Switch to liquid-c&lt;/td&gt;
+&lt;td&gt;1586,698&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 9&lt;/td&gt;
+&lt;td&gt;3 - Remove LSI&lt;/td&gt;
+&lt;td&gt;1264,424&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 9&lt;/td&gt;
+&lt;td&gt;4 - Switch to CommonMark&lt;/td&gt;
+&lt;td&gt;950,634&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 9&lt;/td&gt;
+&lt;td&gt;5 - Switch to master&lt;/td&gt;
+&lt;td&gt;69,907&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 10&lt;/td&gt;
+&lt;td&gt;1 - Before&lt;/td&gt;
+&lt;td&gt;1643,22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 10&lt;/td&gt;
+&lt;td&gt;2 - Switch to liquid-c&lt;/td&gt;
+&lt;td&gt;1581,063&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 10&lt;/td&gt;
+&lt;td&gt;3 - Remove LSI&lt;/td&gt;
+&lt;td&gt;1229,119&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 10&lt;/td&gt;
+&lt;td&gt;4 - Switch to CommonMark&lt;/td&gt;
+&lt;td&gt;1332,547&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Test 10&lt;/td&gt;
+&lt;td&gt;5 - Switch to master&lt;/td&gt;
+&lt;td&gt;69,022&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn1&quot;&gt;
+&lt;p&gt;15 minutes, as confirmed by Chris McCraw in
+“&lt;a href=&quot;https://www.netlify.com/blog/2016/10/18/how-our-build-bots-build-sites/&quot;&gt;How Our Build Bots Build Sites&lt;/a&gt;”. &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn2&quot;&gt;
+&lt;p&gt;You’re going to have to take my word for it, because my experimental
+protocol didn’t contain a test with and without inclusions. It is therefore
+a personal estimate. &lt;a href=&quot;#fnref2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn3&quot;&gt;
+&lt;p&gt;It seems that &lt;a href=&quot;https://rubygems.org/gems/gsl&quot;&gt;the gem gsl&lt;/a&gt; is improving
+this, but I haven’t tested it. I am interested in your feedback. &lt;a href=&quot;#fnref3&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn4&quot;&gt;
+&lt;p&gt;Because I don’t need them to learn about my readers, as they often interact
+with me on Twitter or through comments &lt;a href=&quot;#fnref4&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2018/11/jekyll-build-optimization/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2018/11/jekyll-build-optimization/</guid>
+      
+      <category>Jekyll</category>
+      
+      <category>JAMStatic</category>
+      
+      <category>Outils</category>
+      
+      <category>web</category>
+      
+    </item>
+    
+    <item>
+      <title>Noisette</title>
+      
+      <description>
+          &lt;p&gt;On the table next to us, the waitress bring a “noisette” (an espresso with a
+dash of hot milk). My 7-year old, outragely whispering:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dad, you should say something. I think they’re lying to the poor lady who
+doesn’t know the difference between coffee and hazelnut!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2018-11-28/outraged.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2018-11-28/outraged.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2018-11-28/outraged.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: Jimmy Fallon, playing the outraged guy.&lt;/em&gt;&lt;/figure&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2018/11/noisette-coffee/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2018/11/noisette-coffee/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Jesus' bathroom</title>
+      
+      <description>
+          &lt;p&gt;When the kids talk about Jesus and God with each other (I would like to point
+out that we are not believers, but there is nothing disrespectful in these
+words), it helps us to understand what they are learning from the way they are
+being educated:&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– There is a lady at the daycare who says that the rain is Jesus taking a
+shower.&lt;br /&gt;
+– He must not be happy, God.&lt;br /&gt;
+– Oh yes, because if the water falls to the ground, it is because Jesus puts
+it everywhere. And his daddy must be angry.&lt;br /&gt;
+– Do you think he’s being scolded, Jesus?&lt;br /&gt;
+– Not necessarily. If he knows it’s the whole family’s bathroom, then Jesus
+behaves as a good boy and he cleans up after himself.&lt;br /&gt;
+– Oh, yes, you’re right. And when the bathroom shines, we see rainbows!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2018-11-22/bathroom-dance.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2018-11-22/bathroom-dance.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2018-11-22/bathroom-dance.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: A man dances while cleaning his bathroom.&lt;/em&gt;&lt;figcaption&gt;&lt;p&gt;I must have missed the “miracle of the Bathroom that
+shines” in the New Testament.&lt;/p&gt;
+&lt;/figcaption&gt;&lt;/figure&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  You subscribed to my posts&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;written in French.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  If you only want to receive my web-relative posts, you might prefer to follow &lt;a href=&quot;https://boris.schapira.dev/en/web/feed.xml&quot;&gt;this feed&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0100</pubDate>
+      <link>https://boris.schapira.dev/2018/11/jesus-bathroom/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2018/11/jesus-bathroom/</guid>
+      
+      <category>papa</category>
       
     </item>
     

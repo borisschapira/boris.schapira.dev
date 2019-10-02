@@ -2,851 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boris Schapira FR RSS · Boris Schapira</title>
-    <link>https://boris.schapira.local:10443/feed.xml</link>
+    <link>https://boris.schapira.dev/feed.xml</link>
     <description> Mes opinions sur le Web mais aussi sur ma vie de parent et de citoyen.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 02 Oct 2019 22:43:12 +0200</lastBuildDate>
-    
-    <item>
-      <title>Premier Test de mise en forme</title>
-      
-      <description>
-          &lt;p&gt;Ceci est un article destiné à tester le respect de certaines règles
-microtypographiques par mon site.&lt;br /&gt;
-Ne tenez pas compte du contenu ci-dessous.&lt;/p&gt;
-&lt;!-- more --&gt;
-&lt;h2&gt;h2 Heading&lt;/h2&gt;
-&lt;h3&gt;h3 Heading&lt;/h3&gt;
-&lt;h4&gt;h4 Heading&lt;/h4&gt;
-&lt;h5&gt;h5 Heading&lt;/h5&gt;
-&lt;h6&gt;h6 Heading&lt;/h6&gt;
-&lt;h2&gt;Horizontal Rules&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor,
-animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea
-ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat
-inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil
-erat, quod Zeno commutare gestiret.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor,
-animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea
-ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat
-inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil
-erat, quod Zeno commutare gestiret.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor,
-animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea
-ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat
-inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil
-erat, quod Zeno commutare gestiret.&lt;/p&gt;
-&lt;h2&gt;Typographic replacements&lt;/h2&gt;
-&lt;p&gt;Enable typographer option to see result.&lt;/p&gt;
-&lt;p&gt;(c) (C) (r) (R) (tm) (TM) (p) (P) +-&lt;/p&gt;
-&lt;p&gt;test.. test… test….. test?….. test!….&lt;/p&gt;
-&lt;p&gt;!!!!!! ???? ,, – —&lt;/p&gt;
-&lt;p&gt;“Smartypants, double quotes” and ‘single quotes’&lt;/p&gt;
-&lt;h3&gt;Jekyll microtypo&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Thin spaces&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hello ! 4 px, 5 % ?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Median point (french)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Il·Elle est intéressé·e.&lt;br /&gt;
-Ils·Elles sont intéressé·e·s.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Numeral&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;She’s n°3.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ellipsis&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I’m good…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ordinals (french)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Si je double le 2ème, je deviens 1er.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Non-break spaces&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2001 : l’odysée de l’espace&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Currencies&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;599$, donc 599 €.&lt;/li&gt;
-&lt;li&gt;$599, so € 599&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Multiply&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Resolution: 1024x768.&lt;/p&gt;
-&lt;h2&gt;Emphasis&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;del&gt;Strikethrough&lt;/del&gt;&lt;/p&gt;
-&lt;h2&gt;Blockquotes&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Blockquotes can also be nested…&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;…by using additional greater-than signs right next to each other…&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;…or with spaces between arrows.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;cite&gt;”&lt;a href=&quot;#&quot;&gt;Book&lt;/a&gt;”, Author&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;Lists&lt;/h2&gt;
-&lt;p&gt;Unordered&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Create a list by starting a line with &lt;code&gt;+&lt;/code&gt;, &lt;code&gt;-&lt;/code&gt;, or &lt;code&gt;*&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Sub-lists are made by indenting 2 spaces:
-&lt;ul&gt;
-&lt;li&gt;Marker character change forces new list start:
-&lt;ul&gt;
-&lt;li&gt;Ac tristique libero volutpat at&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Facilisis in pretium nisl aliquet&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Nulla volutpat aliquam velit&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Very easy!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Ordered&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
-&lt;li&gt;Consectetur adipiscing elit&lt;/li&gt;
-&lt;li&gt;Integer molestie lorem at massa&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ol start=&quot;4&quot;&gt;
-&lt;li&gt;You can use sequential numbers…&lt;/li&gt;
-&lt;li&gt;…or keep all the numbers as &lt;code&gt;1.&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code&lt;/h2&gt;
-&lt;p&gt;Inline &lt;code&gt;code&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Indented code&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// Some comments
-line 1 of code
-line 2 of code
-line 3 of code
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Block code “fences”&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Sample text here...
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Syntax highlighting&lt;/p&gt;
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;js&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;bar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bar&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
-
-&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2&gt;Tables&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Option&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;data&lt;/td&gt;
-&lt;td&gt;path to data files to supply the data that will be passed into templates.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;engine&lt;/td&gt;
-&lt;td&gt;engine to be used for processing templates. Handlebars is the default.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ext&lt;/td&gt;
-&lt;td&gt;extension to be used for dest files.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Right aligned columns&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&quot;right&quot;&gt;Option&lt;/th&gt;
-&lt;th align=&quot;right&quot;&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&quot;right&quot;&gt;data&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;path to data files to supply the data that will be passed into templates.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;right&quot;&gt;engine&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;engine to be used for processing templates. Handlebars is the default.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;right&quot;&gt;ext&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;extension to be used for dest files.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;Links&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.autolink.com&quot;&gt;https://www.autolink.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://boris.schapira.dev&quot;&gt;link text&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://boris.schapira.dev&quot; title=&quot;title text!&quot;&gt;link with title&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-footnote&quot;&gt;Footnotes&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Footnote 1 link&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;Footnote 2 link&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn2&quot; id=&quot;fnref2&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;Duplicated footnote reference&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn2&quot; id=&quot;fnref2&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;h3&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-deflist&quot;&gt;Definition lists&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Term 1&lt;/p&gt;
-&lt;p&gt;: Definition 1 with lazy continuation.&lt;/p&gt;
-&lt;p&gt;Term 2 with &lt;em&gt;inline markup&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;: Definition 2&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    { some code, part of Definition 2 }
-
-Third paragraph of definition 2.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;em&gt;Compact style:&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Term 1 ~ Definition 1&lt;/p&gt;
-&lt;p&gt;Term 2 ~ Definition 2a ~ Definition 2b&lt;/p&gt;
-&lt;h3&gt;Abbreviations&lt;/h3&gt;
-&lt;p&gt;This is &lt;abbr title=&quot;Hypertext Markup Language&quot;&gt;HTML&lt;/abbr&gt; abbreviation
-example.&lt;/p&gt;
-&lt;h3&gt;Custom containers&lt;/h3&gt;
-&lt;div class=&quot;canonical&quot;&gt;
-&lt;strong&gt;Note :&lt;/strong&gt; cet article a d'abord été publié sur &lt;a href=&quot;&quot;&gt;Premier Test de mise en forme&lt;/a&gt;.
-&lt;/div&gt;
-&lt;h3&gt;Insertion&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, &lt;ins datetime=&quot;2018-12-26&quot;&gt;consectetur&lt;/ins&gt;
-adipiscing elit. Addebat etiam se in legem Voconiam iuratum contra eam facere
-non audere, nisi aliter amicis videretur. Traditur, inquit, ab Epicuro ratio
-neglegendi doloris. Amicitiam autem adhibendam esse censent, quia sit ex eo
-genere, quae prosunt.&lt;/p&gt;
-&lt;p&gt;&lt;ins class=&quot;bloc&quot; datetime=&quot;2018-12-26&quot;&gt;Lorem ipsum dolor sit amet, consectetur
-adipiscing elit. Addebat etiam se in legem Voconiam iuratum contra eam facere
-non audere, nisi aliter amicis videretur. Traditur, inquit, ab Epicuro ratio
-neglegendi doloris. Amicitiam autem adhibendam esse censent, quia sit ex eo
-genere, quae prosunt.&lt;/ins&gt;&lt;/p&gt;
-&lt;h2&gt;Rich figcaptions&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&quot;/assets/images/2017-04-02/doing_vs_being_agile.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Deux post-its, comparant l&amp;#39;Agile façon Cargo Cult et les
-vraies livraisons successives&quot;&gt;&lt;figcaption&gt;&lt;p&gt;“&lt;a href=&quot;https://www.flickr.com/photos/psd/9588038559&quot;&gt;Doing Agile, being Agile&lt;/a&gt;”,
-par &lt;a href=&quot;https://www.flickr.com/photos/psd/&quot;&gt;Paul Downey&lt;/a&gt; —
-&lt;a href=&quot;https://creativecommons.org/licenses/by/2.0/&quot;&gt;Certains droits réservés&lt;/a&gt;&lt;/p&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;section class=&quot;footnotes&quot;&gt;
-&lt;ol&gt;
-&lt;li id=&quot;fn1&quot;&gt;
-&lt;p&gt;Footnote &lt;strong&gt;can have markup&lt;/strong&gt; &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn2&quot;&gt;
-&lt;p&gt;Footnote text can be long lorem ipsum dolor sit amet, consectetur adipiscing
-elit. Primum cur ista res digna odio est, nisi quod est turpis? Ita nemo
-beato beatior. Duo Reges: constructio interrete. Sed tu istuc dixti bene
-Latine, parum plane. Polemoni et iam ante Aristoteli ea prima visa sunt,
-quae paulo ante dixi &lt;a href=&quot;#fnref2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/test-typo/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/test-typo/</guid>
-      
-      <category>Typographie</category>
-      
-      <category>Test of layout</category>
-      
-      <category>web</category>
-      
-    </item>
-    
-    <item>
-      <title>Roselyne Bachelot</title>
-      
-      <description>
-          &lt;p&gt;TODO&lt;/p&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/roselyne-bachelot/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/roselyne-bachelot/</guid>
-      
-      <category>Égalité</category>
-      
-      <category>Sorcières</category>
-      
-      <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Rama Yade</title>
-      
-      <description>
-          &lt;p&gt;TODO&lt;/p&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/rama-yade/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/rama-yade/</guid>
-      
-      <category>Égalité</category>
-      
-      <category>Sorcières</category>
-      
-      <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Najat Vallaud-Belkacem</title>
-      
-      <description>
-          &lt;p&gt;TODO&lt;/p&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/najat-vallaud-belkacem/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/najat-vallaud-belkacem/</guid>
-      
-      <category>Égalité</category>
-      
-      <category>Sorcières</category>
-      
-      <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Danièle Obono</title>
-      
-      <description>
-          &lt;p&gt;TODO&lt;/p&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/daniele-obono/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/daniele-obono/</guid>
-      
-      <category>Égalité</category>
-      
-      <category>Sorcières</category>
-      
-      <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Roselyne Bachelot</title>
-      
-      <description>
-          &lt;p&gt;TODO&lt;/p&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/anne-hidalgo/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/anne-hidalgo/</guid>
-      
-      <category>Égalité</category>
-      
-      <category>Sorcières</category>
-      
-      <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Victoire Touaillon</title>
-      
-      <description>
-          &lt;p&gt;TODO&lt;/p&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/victoire-touaillon/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/victoire-touaillon/</guid>
-      
-      <category>Égalité</category>
-      
-      <category>Sorcières</category>
-      
-      <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Pénélope Bagieu</title>
-      
-      <description>
-          &lt;p&gt;TODO&lt;/p&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/penelope-bagieu/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/penelope-bagieu/</guid>
-      
-      <category>Égalité</category>
-      
-      <category>Sorcières</category>
-      
-      <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Marie Dasylva</title>
-      
-      <description>
-          &lt;p&gt;TODO&lt;/p&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/marie-dasylva/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/marie-dasylva/</guid>
-      
-      <category>Égalité</category>
-      
-      <category>Sorcières</category>
-      
-      <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Laélia Véron</title>
-      
-      <description>
-          &lt;p&gt;TODO&lt;/p&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/laelia-veron/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/laelia-veron/</guid>
-      
-      <category>Égalité</category>
-      
-      <category>Sorcières</category>
-      
-      <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Jennifer Padjemi</title>
-      
-      <description>
-          &lt;p&gt;TODO&lt;/p&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/jennifer-padjemi/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/jennifer-padjemi/</guid>
-      
-      <category>Égalité</category>
-      
-      <category>Sorcières</category>
-      
-      <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Jack Parker</title>
-      
-      <description>
-          &lt;p&gt;TODO&lt;/p&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/jack-parker/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/jack-parker/</guid>
-      
-      <category>Égalité</category>
-      
-      <category>Sorcières</category>
-      
-      <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Grace Ly</title>
-      
-      <description>
-          &lt;p&gt;TODO&lt;/p&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/grace-ly/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/grace-ly/</guid>
-      
-      <category>Égalité</category>
-      
-      <category>Sorcières</category>
-      
-      <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Emma</title>
-      
-      <description>
-          &lt;p&gt;TODO&lt;/p&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/emma/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/emma/</guid>
-      
-      <category>Égalité</category>
-      
-      <category>Sorcières</category>
-      
-      <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Anaïs Bourdé</title>
-      
-      <description>
-          &lt;p&gt;TODO&lt;/p&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/anais-bourde/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/anais-bourde/</guid>
-      
-      <category>Égalité</category>
-      
-      <category>Sorcières</category>
-      
-      <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Amandine Gay</title>
-      
-      <description>
-          &lt;p&gt;TODO&lt;/p&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 +0100</pubDate>
-      <link>https://boris.schapira.local:10443/2030/01/amandine-gay/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2030/01/amandine-gay/</guid>
-      
-      <category>Égalité</category>
-      
-      <category>Sorcières</category>
-      
-      <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Custom Timing : attendez la prochaine frame</title>
-      
-      <description>
-          &lt;p&gt;Les indicateurs habituels de performance web (Premier Octet, Speed Index…) sont très intéressants mais j’ai souvent besoin d’ajouter des marqueurs temporels personnalisés, basés sur des événements qui ont un sens du point de vue métier.&lt;/p&gt;
-&lt;!-- more --&gt;
-&lt;p&gt;J’utilise la User Timing API (&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API&quot;&gt;voir sur &lt;abbr title=&quot;Mozilla Developer Network&quot; lang=&quot;en&quot;&gt;MDN&lt;/abbr&gt; [EN]&lt;/a&gt;) pour insérer des &lt;i lang=&quot;en&quot;&gt;timings&lt;/i&gt; dans la  &lt;i lang=&quot;en&quot;&gt;performance timeline&lt;/i&gt; du navigatuer. Comme on peut récupérer tous ces indicateurs dans Dareboost, je peux ensuite &lt;a href=&quot;https://blog.dareboost.com/fr/2018/05/monitoring-custom-timings/&quot;&gt;surveiller leur évolution sur la durée&lt;/a&gt;.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&quot;/assets/images/2019-09-30/custom-timings-dareboost.png&quot; loading=&quot;lazy&quot; alt=&quot;Deux courbes dans un graphique. Sur l&amp;#39;axe des abscisses, une période d&amp;#39;un mois. Sur l&amp;#39;axe des Y, le temps entre 0 et 3 s. La courbe orange indique la valeur du marqueur &amp;quot;mark_declare_js_end&amp;quot; tandis que la courbe verte correspond au marqueur &amp;quot;mark_switchlang_end&amp;quot;.&quot;&gt;&lt;figcaption&gt;&lt;p&gt;Quelques &lt;i lang=&quot;en&quot;&gt;Custom Timings&lt;/i&gt; issus de ce site&lt;/p&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;En utilisant l’API avec JavaScript, c’est assez simple (et &lt;a href=&quot;https://caniuse.com/#feat=user-timing&quot;&gt;bien supporté&lt;/a&gt;). Par exemple :&lt;/p&gt;
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;js&quot;&gt;    &lt;span class=&quot;c1&quot;&gt;// Le truc dont vous voulez mesurer l'occurence&lt;/span&gt;
-    &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;classList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;blue&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// Le marqueur temporel&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mark&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;mark-blue&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Vous pouvez ensuite récupérer la valeur dans les outils de développement de votre navigateur, en utilisant :&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;console.dir(performance.getEntriesByType('mark'));
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;However, I recently&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; realized that I often forgot something important: &lt;strong&gt;just because the browser execute some JavaScript code does not mean that the user can see the results of this execution&lt;/strong&gt;. The browser must update the display, and its ability to do so depends on the JavaScript code that follows the piece of code we’re interested in.&lt;/p&gt;
-&lt;p&gt;In the following example, I inject a whole second between my performance mark and the browser update of the display.&lt;/p&gt;
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;js&quot;&gt;    &lt;span class=&quot;c1&quot;&gt;// The thing you want to monitor the occurrence of&lt;/span&gt;
-    &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;classList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;blue&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// The timestamp&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mark&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;mark-blue-sync&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-    &lt;span class=&quot;c1&quot;&gt;// A snippet of code that consumes resources during 1 second&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Of course, in real life, you won’t have a simple loop. You will have some other time-consuming tasks. You won’t even know what, because it could be in a library on which your code depends, and you have no idea.&lt;/p&gt;
-&lt;p&gt;As we’re not going to analyze all the code that follows the stuff we’re interested in to know when to put the timestamp, we need a workaround.&lt;/p&gt;
-&lt;p&gt;We can use &lt;code&gt;requestAnimationFrame()&lt;/code&gt; to ask for our mark to be put set before the browser performs the next repaint:&lt;/p&gt;
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;js&quot;&gt;    &lt;span class=&quot;c1&quot;&gt;// The thing you want to monitor the occurrence of&lt;/span&gt;
-    &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;classList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;blue&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mark&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;mark-blue-sync&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// The timestamp, before the next repaint&lt;/span&gt;
-    &lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;requestAnimationFrame&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-      &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mark&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;mark-blue-frame&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-
-    &lt;span class=&quot;c1&quot;&gt;// A snippet of code that consumes resources during 1 second&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// but we don't care anymore&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;hr /&gt;
-&lt;p&gt;If you want to see this for yourself, here’s &lt;a href=&quot;https://tests.boris.schapira.dev/perfmark-animationframe/&quot;&gt;a test page&lt;/a&gt;.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;In a nutshell&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Call the User Timings API to create custom business-related timestamps.&lt;/li&gt;
-&lt;li&gt;Encapsulate them  inside &lt;code&gt;requestAnimationFrame()&lt;/code&gt; callbacks to get to understand how the IU behaves, rather than the code execution. If you want to understand the code, attach two marks: you will have an idea of the display latency.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;section class=&quot;footnotes&quot;&gt;
-&lt;ol&gt;
-&lt;li id=&quot;fn1&quot;&gt;
-&lt;p&gt;Reading “&lt;a href=&quot;https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps-ec12efa26bcb&quot;&gt;Performance metrics for blazingly fast web apps&lt;/a&gt;”, by Conrad Irwin &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0200</pubDate>
-      <link>https://boris.schapira.local:10443/2019/09/custom-timing-prochaine-frame/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2019/09/custom-timing-prochaine-frame/</guid>
-      
-      <category>Performance Web</category>
-      
-      <category>JavaScript</category>
-      
-      <category>UX</category>
-      
-      <category>web</category>
-      
-    </item>
+    <lastBuildDate>Wed, 02 Oct 2019 22:49:46 +0200</lastBuildDate>
     
     <item>
       <title>Les dessins</title>
@@ -875,14 +34,14 @@ sais, ou une branche.”&lt;/p&gt;
                   &lt;li&gt;rédigés en français.&lt;/li&gt;
               &lt;/ul&gt;
               &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
               &lt;/p&gt;
           &lt;/div&gt;
           
       </description>
       <pubDate>Sat, 28 Sep 2019 00:00:00 +0200</pubDate>
-      <link>https://boris.schapira.local:10443/2019/09/les-dessins/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2019/09/les-dessins/</guid>
+      <link>https://boris.schapira.dev/2019/09/les-dessins/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/09/les-dessins/</guid>
       
       <category>papa</category>
       
@@ -942,14 +101,14 @@ l’humilité nécessaire quand on essaie d’élever correctement
                   &lt;li&gt;rédigés en français.&lt;/li&gt;
               &lt;/ul&gt;
               &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
               &lt;/p&gt;
           &lt;/div&gt;
           
       </description>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0200</pubDate>
-      <link>https://boris.schapira.local:10443/2019/09/les-podcasts/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2019/09/les-podcasts/</guid>
+      <link>https://boris.schapira.dev/2019/09/les-podcasts/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/09/les-podcasts/</guid>
       
       <category>papa</category>
       
@@ -1004,14 +163,898 @@ passer.”&lt;/p&gt;
                   &lt;li&gt;rédigés en français.&lt;/li&gt;
               &lt;/ul&gt;
               &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.local:10443/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
               &lt;/p&gt;
           &lt;/div&gt;
           
       </description>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0200</pubDate>
-      <link>https://boris.schapira.local:10443/2019/09/le-sarcasme/</link>
-      <guid isPermaLink="true">https://boris.schapira.local:10443/2019/09/le-sarcasme/</guid>
+      <link>https://boris.schapira.dev/2019/09/le-sarcasme/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/09/le-sarcasme/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Rokhaya Diallo</title>
+      
+      <description>
+          &lt;p&gt;J’ai passé les premières années de ma vie aux Antilles, en Martinique. Pour des
+raisons qui ne nous intéressent pas ici, quand je suis rentré en CP, c’était à
+Carnac, dans le Morbihan. Le choc était total tant pour moi que pour mes
+camarades, qui m’ont accueilli avec beaucoup de violence : j’étais un étranger
+dans un tout petit village.&lt;/p&gt;
+&lt;p&gt;Je passe très vite sur cette anecdote pour enchainer sur une autre.&lt;/p&gt;
+&lt;p&gt;Très tôt, j’ai (et surtout, on) m’a fait remarqué que j’avais un “type”
+pieds-noirs&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Du point de vue de mes origines, c’était vrai, mais je me suis
+surtout construit en sachant que cela se voyait sur mon visage.&lt;/p&gt;
+&lt;p&gt;Ce n’était pas évident à porter, d’autant que je porte un nom juif plutôt
+ashkénaze (une communauté juive qu’on trouve plutôt en Europe centrale, de la
+Pologne à la Russie). Pour les juifs comme pour les antisémites, qui ont souvent
+pour point commun de vouloir très vite retracer la généalogie de leur
+interlocuteur, ça ne collait pas.&lt;/p&gt;
+&lt;p&gt;Moi, ça m’allait parfaitement de mettre un peu de bazar dans leurs schémas de
+pensée. Et pour mes potes du collège, puis du lycée privé où ma mère m’avait
+scolarisé, j’étais “le juif pas juif”, et souvent le seul à ne pas se réclamer
+chrétien.&lt;/p&gt;
+&lt;p&gt;Avec les années, en vieillissant, mon passing&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn2&quot; id=&quot;fnref2&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; non-juif (“blanc” ?)
+s’est affirmé. Il est aujourd’hui très rare qu’on me rattache aussi rapidement à
+l’Afrique du Nord et je n’ai pas eu affaire à un antisémite depuis près de 15
+ans (ou alors ça vient moins aux gens d’aller poser des questions à un gaillard
+d’1m83, allez savoir).&lt;/p&gt;
+&lt;p&gt;Pourquoi je vous raconte ça ? Parce que c’est la seule expérience intime,
+personnelle, que j’ai de la race. Une construction purement sociale, dans mon
+cas, très mouvante. Et c’est &lt;strong&gt;un privilège incroyable&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;En effet, je suis libre de vouloir approfondir la connaissance que j’ai de
+l’histoire de ma famille si j’en ai envie, quand j’en ai envie. Je n’ai jamais
+été handicapé dans mon travail, dans ma recherche de logement. On n’a pas
+attendu de moi un certain type de résultats intellectuels ou physiques, personne
+ne m’a jamais réduit à un fantasme qu’il ou elle pourrait avoir sur moi, basé
+seulement sur mes origines.&lt;/p&gt;
+&lt;p&gt;Quand on me demande d’où je viens, c’est pour savoir de quelle pièce j’arrive.&lt;/p&gt;
+&lt;p&gt;Or, je ne vous apprends rien, ce n’est pas le cas de tout le monde en France et
+ailleurs.&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+    &lt;iframe loading=&quot;lazy&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/YgpH7ycdnQk&quot; title=&quot;Don't try to fit in: make the world embrace who you are | Rokhaya Diallo | TEDxUBIWiltz&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;Certaines personnes vivent des injustices quotidiennes, liées à leur race ou
+plutôt, devrais-je dire, à la race à laquelle on les affecte. Ils et elles
+apprennent à vivre avec cette, voire ces identités qui sont souvent en partie
+familiales, mais très largement fantasmées par le groupe dominant. Cette
+situation les prive d’une égalité des chances qu’on souhaiterait à tou·te·s, et
+les place dans une situation psychologique complexe, remplie d’injonctions
+contraires à réconcilier.&lt;/p&gt;
+&lt;p&gt;Je ne suis pas familier de l’ensemble du travail de &lt;strong&gt;Rokhaya Diallo&lt;/strong&gt; (oui, on
+y arrive), mais elle est l’une des personnes qui m’aident le plus, aujourd’hui,
+à être l’allié des personnes racisées en France. Je l’ai découverte en 2010,
+dans La Matinale de Canal+.
+&lt;a href=&quot;https://www.mediapart.fr/studio/videos/emissions/alter-egaux&quot;&gt;Sa série d’interviews “Alter-Égaux” sur Mediapart&lt;/a&gt;
+m’a emballé et c’est assez naturellement que j’ai commencé à la suivre sur les
+réseaux sociaux, pour continuer à être au courant de son travail.&lt;/p&gt;
+&lt;p&gt;Depuis un an, j’écoute avec attention chaque épisode de
+“&lt;a href=&quot;https://www.binge.audio/category/kiffetarace/&quot;&gt;Kiffe ta race&lt;/a&gt;”, un podcast
+coanimé avec Grace Ly, diffusé sur Binge audio.&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+    &lt;iframe loading=&quot;lazy&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/VgqwMe5ebgg&quot; title=&quot;Les Blancs ont-ils une couleur ?&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;Rokhaya Diallo est tenante d’un féminisme intersectionnel, antiraciste,
+décolonial proche du féminisme noir nord-américain des années 70. Elle en
+appelle à la déconstruction des stéréotypes de races par une meilleure
+connaissance de ces constructions plutôt que par une vision universaliste.&lt;/p&gt;
+&lt;p&gt;Une position qui lui est régulièrement reprochée par celles et ceux qui trouvent
+qu’insister sur les constructions de race tient d’une démarche identitaire, mais
+que je trouve extrêmement intéressante dans la mesure où elle permet de mieux
+comprendre à la fois la construction du racisme systémique en France, mais
+également son impact sur la (dé)construction des identité de race des individus
+qui composent la République, ou, souvent pour les blancs, de l’absence de cette
+déconstruction.&lt;/p&gt;
+&lt;p&gt;Si vous souhaitez vous faire une idée, être touché par ses prises de positions,
+découvrir son travail, n’hésitez pas à la suivre sur Twitter :
+&lt;a href=&quot;https://twitter.com/RokhayaDiallo&quot;&gt;@RokhayaDiallo&lt;/a&gt;.&lt;/p&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn1&quot;&gt;
+&lt;p&gt;“pieds-noirs” est un adjectif qui qualifie les Français·e·s d’origine
+européenne installé en Afrique du Nord jusqu’à l’époque de l’indépendance. &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn2&quot;&gt;
+&lt;p&gt;Le passing est la capacité d’une personne à être considérée en un seul coup
+d’œil comme membre d’un groupe social autre que le sien propre dans le but
+d’obtenir l’acceptation sociale. &lt;a href=&quot;#fnref2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/09/rokhaya-diallo/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/09/rokhaya-diallo/</guid>
+      
+      <category>Égalité</category>
+      
+      <category>Sorcières</category>
+      
+      <category>citoyen</category>
+      
+    </item>
+    
+    <item>
+      <title>Interrogatoire</title>
+      
+      <description>
+          &lt;blockquote&gt;
+&lt;p&gt;– Aujourd’hui, on a appris que la Police, elle arrête les gens et après elle
+les interroge. Si tu fais des blagues à la Police, t’es mal, hein. Ils
+t’emmenent dans leur maison, t’as intérêt à connaître tes tables de
+multiplication, hein !&lt;br /&gt;
+– De multiplication ?!&lt;br /&gt;
+– Bah oui, s’ils t’interrogent !&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Il n’avait jamais entendu le verbe “interroger” autrement que pour ça !&lt;/p&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/09/interrogatoire/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/09/interrogatoire/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Linge sale</title>
+      
+      <description>
+          &lt;p&gt;Préparation de la fête de fin de centre aéré. Le petit a besoin d’une tenue de
+surfeur.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– Tu dois te déguiser en surfeur, ce soir ? Tu pourras mettre ton jersey.&lt;br /&gt;
+– Ah oui. D’ailleurs, je peux le prendre ce matin ?&lt;br /&gt;
+– Ah non, tu es allé à la piscine hier, laisse-moi le temps de le laver et on
+te l’amène ce soir, pour le spectacle.&lt;br /&gt;
+– Mais, mais… il est propre, je le mets jamais !&lt;br /&gt;
+– Comment ça ? Tu l’as ramené hier de la piscine, mouillé.&lt;br /&gt;
+– Oui, parce que je le mets dans mon sac. Le maillot est mouillé, la serviette
+est mouillée, alors il devient mouillé.&lt;br /&gt;
+– Mais, mais… mais nous on le lave à chaque fois ! Tous les jours ! Depuis 15
+jours ! À quoi ça sert qu’on le lave ?&lt;br /&gt;
+– Je pensais que vous le laviez &lt;strong&gt;pour le plaisir&lt;/strong&gt; !&lt;/p&gt;
+&lt;/blockquote&gt;
+ &lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-08-30/frustrated.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-08-30/frustrated.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-08-30/frustrated.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: Un homme extrêmement frustré garde son
+calme&lt;/em&gt;&lt;figcaption&gt;&lt;p&gt;Garder son calme… garder son calme…&lt;/p&gt;
+&lt;/figcaption&gt;&lt;/figure&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/08/linge-sale/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/08/linge-sale/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>La sucette molle</title>
+      
+      <description>
+          &lt;blockquote&gt;
+&lt;p&gt;Maman ! Quand j’ai mangé une sucette, l’autre jour, j’avais l’impression que
+c’était mou (tu sais comme les crocodiles) alors que c’est dur, normalement,
+les sucettes… mais je ressentais que c’était mou… alors, je me dis, je sais
+pas, peut-être que j’ai déjà mes dents d’adulte ?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sait-on jamais !&lt;/p&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/08/la-sucette-molle/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/08/la-sucette-molle/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Dans les mouches</title>
+      
+      <description>
+          &lt;p&gt;Ce soir, le petit a l’air pensif. Sa mère l’interroge :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– Maman, il y a quoi dedans les mouches ?&lt;br /&gt;
+– Comme nous, des organes, du sang…&lt;br /&gt;
+– Et dans les serpents ?&lt;br /&gt;
+– Oh pareil, sûrement.&lt;br /&gt;
+– Mais, pourtant, on a l’air très différents !&lt;br /&gt;
+– Oui mais nous sommes tous des êtres vivants.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Il réfléchit un petit moment, pour intégrer l’information.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ah, mais alors : les serpents, ils font caca ?&lt;br /&gt;
+Mais comment ils font caca ?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-08-24/pooping.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-08-24/pooping.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-08-24/pooping.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: Une marionette velue danse sur les WC.&lt;/em&gt;&lt;figcaption&gt;&lt;p&gt;Les vraies questions !&lt;/p&gt;
+&lt;/figcaption&gt;&lt;/figure&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/08/dans-les-mouches/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/08/dans-les-mouches/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>La future maison</title>
+      
+      <description>
+          &lt;p&gt;Mon koala est encore en pleine réflexion ce soir.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– Je me pose une question… comment je vais faire quand je serai grand ?&lt;br /&gt;
+– C’est-à-dire ?&lt;br /&gt;
+– Bah, quand j’aurais trouvé une amoureuse, comment je vais faire pour
+construire ma maison ? Je sais pas construire une maison, moi ! Alors voilà,
+ça me pose un problème.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Je comprends.&lt;/p&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/08/la-future-maison/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/08/la-future-maison/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Lauren Bastide</title>
+      
+      <description>
+          &lt;p&gt;Dans cette série consacrée aux femmes qui changent ma vision du monde, Lauren
+Bastide a une place toute particulière, parce que je l’ai longtemps connue sans
+la reconnaitre. Et puis, un jour, je l’ai écoutée plutôt que de juste
+l’entendre, et je ne pense pas que je pourrais aujourd’hui oublier… sa voix.&lt;/p&gt;
+&lt;p&gt;En effet, pour moi, Lauren est la voix du podcast
+“&lt;a href=&quot;https://www.nouvellesecoutes.fr/la-poudre/&quot;&gt;La Poudre&lt;/a&gt;”, de Nouvelles Écoutes
+(dont elle est cofondatrice, et qui produit
+&lt;a href=&quot;https://www.nouvellesecoutes.fr/&quot;&gt;plein de podcasts géniaux&lt;/a&gt;), une émission
+dans laquelle elle interview avec beaucoup de talent des femmes inspirantes.&lt;br /&gt;
+Artistes, intellectuelles, activistes… en quelques mots, elle arrive à créer un
+cocon &lt;em&gt;safe&lt;/em&gt; leur permettant d’aborder librement leur enfance, leur parcours
+professionnel, leurs objectifs et la place du féminisme dans leur vie. Chaque
+épisode est d’une qualité folle, et je suis sans cesse effaré par la
+(re)découverte dont je pensais pourtant avoir une vague idée du parcours. Le
+vivre au travers de leur témoignage est une toute autre expérience.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-08-01/lapoudre.jpg&quot; srcset=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-08-01/lapoudre.jpg 320w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_640/https://boris.schapira.dev/assets/images/2019-08-01/lapoudre.jpg 640w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_960/https://boris.schapira.dev/assets/images/2019-08-01/lapoudre.jpg 960w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1280/https://boris.schapira.dev/assets/images/2019-08-01/lapoudre.jpg 1280w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1600/https://boris.schapira.dev/assets/images/2019-08-01/lapoudre.jpg 1600w&quot; sizes=&quot;80vw&quot;   alt=&quot;Bandeau avec le logo de La
+Poudre&quot; loading=&quot;lazy&quot; width=&quot;2022&quot; height=&quot;300&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Je pense que j’ai dû écouter la première trentaine d’épisodes de “La Poudre”
+avant de me rendre compte que je connaissais déjà Lauren Bastide pour l’avoir
+entendue sur France Inter dans
+“&lt;a href=&quot;https://www.franceinter.fr/emissions/les-savantes&quot;&gt;Les Savantes&lt;/a&gt;”, un exercice
+similaire mais cette fois appliqué aux chercheuses, afin de montrer que oui, les
+femmes sont aussi présentes et distinguées dans le monde scientifique. Si vous
+n’avez jamais écouté cette émission, je vous la recommande également.&lt;/p&gt;
+&lt;p&gt;Blanche, blonde, obéissant aux canons de la beauté occidentaux, Lauren Bastide
+incarne, extérieurement, la norme. Elle ne &lt;em&gt;parait&lt;/em&gt; pas subversive. Ce
+privilège, elle pourrait l’utiliser pour elle-même, en se conformant à des
+stéréotypes sexistes (comme on lui a suggéré, d’ailleurs, au Grand Journal – cf.
+l’interview ci-dessous). À la place, elle l’utilise pour offrir la parole qu’on
+lui donne à celles qui ne l’ont pas, ou pour produire elle-même, à la force de
+son travail et de ses multiples projets, les conditions d’une expression qui,
+sans cela, ne pourrait pas voir le jour.&lt;/p&gt;
+&lt;p&gt;Porte-parole du collectif de femmes journalistes “Prenons la une”
+(&lt;a href=&quot;https://twitter.com/prenonsla1?lang=fr&quot;&gt;@PrenonsLa1&lt;/a&gt;), Lauren Bastide est
+citée dans presque tous les médias féministes que je consulte comme une
+personne-clé, qui a trouvé le bon mot, apporter la bonne aide, au moment où
+c’était nécessaire, pour aider l’émergence d’une parole afrofem, racisée, trans…&lt;/p&gt;
+&lt;p&gt;Cette utilisation de ses privilèges et de sa force de travail pour être une
+meilleure alliée m’inspire, et me donne envie, à mon tour, de me mettre à la
+disposition de collectifs féministes. Merci pour ça.&lt;/p&gt;
+&lt;p&gt;Envie de suivre le travail de Lauren Bastide ? Vous pouvez la retrouver sur
+Twitter : &lt;a href=&quot;https://twitter.com/laurenbastide&quot;&gt;@laurenbastide&lt;/a&gt;,
+&lt;a href=&quot;https://twitter.com/lapoudreNE&quot;&gt;@LaPoudreNE&lt;/a&gt;,
+&lt;a href=&quot;https://twitter.com/nouvecoutes&quot;&gt;@NouvEcoutes&lt;/a&gt;,
+&lt;a href=&quot;https://twitter.com/prenonsla1&quot;&gt;@PrenonsLa1&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+    &lt;iframe loading=&quot;lazy&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/dPhh79H9I7E&quot; title=&quot;Nouvelle École #45 - LAUREN BASTIDE : FAIT PARLER LA POUDRE&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/08/lauren-bastide/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/08/lauren-bastide/</guid>
+      
+      <category>Égalité</category>
+      
+      <category>Sorcières</category>
+      
+      <category>citoyen</category>
+      
+    </item>
+    
+    <item>
+      <title>Valérie Rey Robert</title>
+      
+      <description>
+          &lt;p&gt;Le fantasme de ma mère, c’était Sean Connery dans James Bond. “Un homme, un
+vrai”, qui sait mieux que les femmes quand elles le désirent et n’hésite pas à
+les “prendre”, ne leur en déplaise, malgré leur refus.&lt;br /&gt;
+Au lycée, j’ai lu “Histoire de ma vie”, de Casanova. Galant séducteur,
+manipulateur libertin, Casanova s’y décrit comme un génie qui aboutit (presque
+toujours) à ses fins (sexuelles) par la ruse et, quand cela ne fonctionne pas,
+l’agression.&lt;/p&gt;
+&lt;p&gt;Des exemples comme ces deux-là, je pourrais en sortir des centaines. À chaque
+fois, l’homme y est prépondérant et la femme décrite comme un bien à conquérir,
+à acheter, ou – en tant qu’incarnation de l’honneur du héros – à protéger ou à
+venger. Un homme fort et beau garçon est forcément désiré, et désire à son tour,
+à tout moment. Son sexe, ses muscles et son pistolet sont tendus, prêts à bondir
+sur toutes les femmes dont les attraits “justifient” qu’elles puissent être
+manipulées par un jeu de pouvoir et d’émotions, ou carrément “forcées”. Car
+attention, dans ces fictions, les femmes ne sont jamais violées par les héros.
+Le viol, c’est le ressort du méchant, moche, patibulaire, différent, qui évolue
+dans l’obscurité et le silence, et finit souvent arrêté ou tué.&lt;/p&gt;
+&lt;p&gt;Il m’a fallu des années pour comprendre que ce modèle de masculinité ne
+correspondait pas au genre d’homme que je voulais devenir, qu’il était issu
+d’une construction des relation hommes-femmes qui invisibilise les violences qui
+sont faites à ces dernières. Mais je n’avais pas forcément compris à quel point.&lt;/p&gt;
+&lt;p&gt;Il m’a fallu encore des années pour comprendre que les violeurs étaient
+principalement des proches, que les viols n’avaient pas lieu dans des ruelles
+sombres et qu’ils étaient souvent le fait d’hommes ayant une vie sexuelle.&lt;br /&gt;
+À ce moment-là, je pensais savoir, et pourtant je ne savais pas.&lt;br /&gt;
+Je pensais me rendre compte, et ce n’était pas le cas.&lt;/p&gt;
+&lt;p&gt;“&lt;a href=&quot;http://editionslibertalia.com/catalogue/hors-collection/une-culture-du-viol-a-la-francaise&quot;&gt;Une culture du viol à la française – Du troussage de domestiques à la liberté d’importuner&lt;/a&gt;”
+(Libertalia, 2019), de Valérie Rey-Robert est un ouvrage remarquable qui m’a
+profondément perturbé. Le livre est remarquablement écrit, incroyablement
+documenté, d’une densité folle mais sans jamais être difficile à lire, autrement
+que par son sujet. Je ne sais pas comment le résumer ou le synthétiser autrement
+qu’en en conseillant la lecture.&lt;/p&gt;
+&lt;p&gt;Valérie Rey Robert écrit depuis des années sur son blog
+“&lt;a href=&quot;http://www.crepegeorgette.com/&quot;&gt;Crêpe Georgette&lt;/a&gt;” qui fourmille
+d’informations, et n’hésite pas à partager et éduquer
+&lt;a href=&quot;https://twitter.com/valerieCG&quot;&gt;sur Twitter&lt;/a&gt;. Il est très rare qu’il se passe
+une semaine sans qu’elle ne pointe une lecture qui me bouleverse ou me fait
+regarder le monde différemment.&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+    &lt;iframe loading=&quot;lazy&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/RjaPdi7nBGE&quot; title=&quot;Trois minutes avec Valérie Rey-Robert&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/07/valerie-rey-robert/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/07/valerie-rey-robert/</guid>
+      
+      <category>Égalité</category>
+      
+      <category>Sorcières</category>
+      
+      <category>citoyen</category>
+      
+    </item>
+    
+    <item>
+      <title>Pas si simple</title>
+      
+      <description>
+          &lt;blockquote&gt;
+&lt;p&gt;Quand même, le passé simple, c’est dur, en fait. Alors si au CE2 on apprend le
+“passé dur”, je sais pas si je vais y arriver.&lt;br /&gt;
+Je préfère le passé composé, moi !&lt;/p&gt;
+&lt;/blockquote&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/06/pas-si-simple/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/06/pas-si-simple/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Confession</title>
+      
+      <description>
+          &lt;p&gt;Le petit est embêté. Je vois à son expression que quelque chose le tracasse et
+qu’il a besoin d’y réfléchir seul. Au bout de quelques heures, il vient me voir.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Papa, j’ai pas envie de le dire, mais je n’arrive plus à garder tout ça
+secret. { garçon } n’arrête pas d’embêter { fille1 } et
+{ fille2 }, il leur fait une vie d’enfer&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Elles pleurent, alors
+ça me fait de la peine, alors je les défends.&lt;br /&gt;
+Mais aujourd’hui je lui ai mis un coup de pied et je déteste ça parce que la
+violence, ça fait de moi un mauvais enfant. J’aime pas qui je suis quand je
+tape.&lt;br /&gt;
+Mais je suis obligé de taper { garçon } pour défendre { fille2 }, je
+ne sais pas quoi faire ! { fille2 } est la plus embêtée. Elle ne
+veut pas le dire à la Maîtresse, elle préfère garder tout ça secret, mais &lt;strong&gt;ça
+ne peut plus durer&lt;/strong&gt; !&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Je suis profondément fier de sa réaction, très (trop ?) matûre pour son âge.
+J’aimerai vous dire que tout s’est arrangé mais je suis allé parlé avec la maman
+de { fille2 } et la situation est compliquée. { garçon } a
+clairement des problèmes, et l’école est au courant, sans pouvoir faire grand
+chose. L’impuissance, dès la maternelle, à lutter contre les comportements de
+harcèlement des garçons, est tout bonnement révoltante.&lt;/p&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn1&quot;&gt;
+&lt;p&gt;Je sais que ça sonne faux, mais il parle vraiment comme ça. Il utilise aussi
+des expressions comme “trop peu pour moi”… ça fait bizarre dans la bouche
+d’un enfant de 6 ans ! &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/06/confession/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/06/confession/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>L'exposé</title>
+      
+      <description>
+          &lt;p&gt;&lt;strong&gt;20h10&lt;/strong&gt; : “Papa, j’ai un exposé, faut que je demande à tous les Papys et
+Mamies comment c’était quand ils étaient petits”.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Challenge accepted!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;On prend le téléphone, et on commence à appeler tout le monde…&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;&lt;strong&gt;21h00&lt;/strong&gt; : , après avoir appeler tout le monde, je lui fais relire mes notes.
+Il relit doucement, déchiffre, mais y arrive.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– Ça te va ? Tu vas pouvoir les lire à la maitresse ?&lt;br /&gt;
+– Mais, pourquoi tu veux que je les lise à la maitresse ? Moi je vais lire les
+réponse de la feuille !&lt;br /&gt;
+– QUELLE FEUILLE ?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Il va chercher la fameuse feuille, absolument pas mentionnée jusque-là.
+Évidemment, pas une seule question en commun avec celles qu’on a posé.&lt;/p&gt;
+&lt;p&gt;On a rappelé, on a fini à &lt;strong&gt;22h30&lt;/strong&gt;.&lt;/p&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/06/expose/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/06/expose/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Mariage</title>
+      
+      <description>
+          &lt;p&gt;Gros ras-le-bol de mon aîné. Je lui demande de m’expliquer son sentiment
+d’injustice. Il refuse, boude, puis finalement accepte.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Non mais c’est pas juste ! Le mariage de cousin Mathieu, c’était comme le
+mariage de Marraine, c’était du copié ! Il y avait même la dame qui disait
+comme le Maire “Mr Loulou est-ce que tu voulais devenir le mari de Mme
+Marraine ?”.&lt;br /&gt;
+C’était du copier, et personne n’a rien dit. Alors que copier, c’est pas bien,
+la maîtresse l’a dit, hein. Alors pourquoi les grands, ils ont le droit ?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/06/mariage/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/06/mariage/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>L'attaque tique</title>
+      
+      <description>
+          &lt;p&gt;Depuis quelques semaines, notre chatte rentre de ses périples nocturnes avec des
+tiques. Nous faisons donc attention à l’attraper dès qu’elle entre, pour
+l’inspecter et lui enlever ces nuisibles.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– Pourquoi Maman elle regarde si Loïs à des tiques ?&lt;br /&gt;
+– Parce qu’elle a senti une boule sur son cou.&lt;br /&gt;
+– Il faut appeler tonton ! Il va faire l’attaque !&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Après une conversation confuse que je ne saurai transcrire, j’ai compris. Il ont
+écouté une vieille chanson de Bourvil à l’école : “La tactique du gendarme”. Il
+avait donc retenu que les gendarmes attaquent les tiques.&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+    &lt;iframe loading=&quot;lazy&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/QSMVDK56Nt8&quot; title=&quot;La tactique du gendarme&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/06/l-attaque-tique/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/06/l-attaque-tique/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Le copain</title>
+      
+      <description>
+          &lt;blockquote&gt;
+&lt;p&gt;– On pourrait retourner chez… tu sais, Louis, mon copain. Mais pas Louis…
+comme Louis mais de mon ancienne école !&lt;br /&gt;
+– Quelqu’un qui ressemble à Louis ?&lt;br /&gt;
+– Non, c’est des gâteaux mais ça s’appelle avec le prénom d’un copain !&lt;br /&gt;
+– Aaaah, Paul !&lt;br /&gt;
+– Oui, voilà. On pourrait retourner chez Paul ?&lt;br /&gt;
+– Le copain ?&lt;br /&gt;
+– Non, les gâteaux !&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Évidemment, où avais-je la tête !&lt;/p&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/06/le-copain/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/06/le-copain/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Le nettoyage</title>
+      
+      <description>
+          &lt;p&gt;Le grand est une éponge, il intègre pas mal de choses. Mais pour être honnête,
+parfois, ça ressort vraiment dans le désordre.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hier, on a nettoyé autour de l’école pour pas salir la planète et, moi, j’me
+dis : les gens ont trop d’argent s’ils l’utilisent pour acheter des trucs et
+ensuite les jeter. Robin des Bois, il vole aux riches pour donner aux pauvres.
+En fait, il est écologiste ? Moi j’espère qu’il vole des bouteilles d’eau pour
+les donner aux gens qu’on pas de maison et qui dorment dehors la nuit.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/06/le-nettoyage/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/06/le-nettoyage/</guid>
+      
+      <category>papa</category>
+      
+    </item>
+    
+    <item>
+      <title>Mona Chollet</title>
+      
+      <description>
+          &lt;p&gt;Depuis les années 70, une figure revient souvent dans la littérature féministe :
+la sorcière. Devenue objet d’étude, la sorcière incarne tout ce qui est reproché
+aux femmes dans notre société. Indépendantes et autonomes, elles refusent les
+injonctions des hommes (notamment les injonctions procréatrices et maternelles),
+détiennent davantage de savoir – et donc de pouvoir – qu’eux et mettent ce
+pouvoir au service de la sororité.&lt;/p&gt;
+&lt;p&gt;Découverte &lt;a href=&quot;https://twitter.com/monachollet&quot;&gt;sur Twitter&lt;/a&gt;, Mona Chollet est une
+journaliste (cheffe de rédaction au Monde Diplomatique) et essayiste
+franco-suisse, notamment autrice de
+&lt;a href=&quot;https://www.editionsladecouverte.fr/catalogue/index-Sorci__res-9782355221224.html&quot;&gt;“Sorcières, la puissance invaincue des femmes”, la Découverte&lt;/a&gt;,
+mais aussi de “Chez soi” et de “Beauté fatale”. Dans ses ouvrages, elle
+s’interroge sur de nombreux sujets, de la figure de la sorcière au contrôle du
+corps des femmes.&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+    &lt;iframe loading=&quot;lazy&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/cWzriBhhfAo&quot; title=&quot;La sorcière, icône féministe par Mona Chollet&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;Dans “Sorcières”, vous apprendrez beaucoup sur le sort réservé aux sorcières,
+mais surtout sur la condition contemporainne des femmes occidentales, toujours
+ostracisées et pour les mêmes raisons. Au moment où j’écris ces lignes,
+j’apprends le décès d’Anémone, grande actrice mais également femme souvent
+critiquée pour ses prises de paroles nécessaires sur
+&lt;a href=&quot;https://www.nouvelobs.com/rue89/20190430.OBS12321/anemone-je-me-suis-fait-un-enfant-dans-le-dos.html&quot;&gt;l’injonction faite aux femmes à devenir mères&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;J’ai donc envie de partager, de “Sorcières”, ce passage :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[Ne pas avoir d’enfant] ne signifie pas ne rien transmettre. Le même manque
+d’imagination nous empêche de voir que la transmission - outre que les enfants
+ne s’en chargent pas toujours, ou pas forcément d’une façon qui vous
+satisfait - emprunte de nombreux chemins : chaque existence humaine bouscule
+une infinité de quilles et laisse une empreinte profonde, qu’il n’est pas
+toujours en notre pouvoir de cartographier. &lt;cite&gt;Mona Chollet, “Sorcières -
+La Puissance invaincue des femmes”, La Découverte, 2018&lt;cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/06/mona-chollet/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/06/mona-chollet/</guid>
+      
+      <category>Égalité</category>
+      
+      <category>Sorcières</category>
+      
+      <category>citoyen</category>
+      
+    </item>
+    
+    <item>
+      <title>Petits noms</title>
+      
+      <description>
+          &lt;p&gt;Grande discussion avec le petit sur les petits noms que certaines personnes
+donnent à d’autres. Pour lui faire en prendre conscience, je lui demande
+comment, d’habitude, les membres de la famille m’interpelle.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– Comment elle m’appelle, Mamie ?&lt;br /&gt;
+– “Mon chéri”, “Petit bout”, viens ici !&lt;br /&gt;
+– Et maman, comment elle m’appelle ?&lt;br /&gt;
+– Elle dit “Bibou, tu peux venir ?”&lt;br /&gt;
+– Et moi, quand je vous appelle, ça fait comment ?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Il réfléchit, puis :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;QUI C’EST QUI A FAIT PIPI SUR LA CUVETTE, VENEZ ICI TOUT DE SUITE !&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-05-28/true.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-05-28/true.webm&quot; type=&quot;video/webm&quot;&gt;
+  &lt;source src=&quot;/assets/images/papa/2019-05-28/true.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: Un homme dit : &quot;Oui, c'est vrai&quot;&lt;/em&gt;&lt;figcaption&gt;&lt;p&gt;Oui, voilà.&lt;/p&gt;
+&lt;/figcaption&gt;&lt;/figure&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/05/petits-noms/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/05/petits-noms/</guid>
       
       <category>papa</category>
       
