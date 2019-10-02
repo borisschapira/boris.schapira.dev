@@ -1,1 +1,3 @@
-{%- include assets/asset.html.liquid name=include.name extension='css'  -%}
+{%- assign pathname = include.name | prepend: '/assets/styles/' -%}
+{%- assign hash = site.data.hashes.styles[include.name] -%}
+{%- include assets/asset.html.liquid name=pathname extension='css' hash=hash -%}
