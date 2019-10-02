@@ -151,7 +151,7 @@ button.btn--link-like {
 }
 
 .text-italic {
-  @extend %italic
+  @extend %italic;
 }
 
 .text-nowrap {
@@ -199,7 +199,7 @@ blockquote,
   @include bleed(80vw);
   display: block;
   padding: 1rem;
-  @extend %italic
+  @extend %italic;
   border: 1px dotted var(--color-main);
 }
 

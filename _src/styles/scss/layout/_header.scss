@@ -61,7 +61,7 @@
     line-height: 4rem;
     font-size: 1.7rem;
 
-    @include media(">=medium") {
+    @include media(">=large") {
       grid-column: 1 / 5;
     }
   }

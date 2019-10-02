@@ -27,6 +27,11 @@ blockquote li,
     content: "\200B";
     /* add zero-width space */ }
 
+.text-italic, .canonical, figure figcaption {
+  font-style: italic; }
+  .text-italic i, .canonical i, figure figcaption i {
+    font-style: normal; }
+
 /*! normalize-scss | MIT/GPLv2 License | bit.ly/normalize-scss */
 /* Document
        ========================================================================== */
@@ -951,9 +956,6 @@ button.btn--link-like {
 .text-bold {
   font-weight: 700; }
 
-.text-italic {
-  font-style: italic; }
-
 .text-nowrap {
   white-space: nowrap; }
 
@@ -995,7 +997,6 @@ blockquote,
 .canonical {
   display: block;
   padding: 1rem;
-  font-style: italic;
   border: 1px dotted var(--color-main); }
   @media (min-width: 480px) {
     .canonical {
@@ -1029,11 +1030,6 @@ small {
   font-size: 80%; }
   br + small {
     line-height: 2; }
-
-i {
-  font-style: italic; }
-  i i {
-    font-style: normal; }
 
 .tagcount-0 {
   font-size: 0.8rem; }
@@ -1245,7 +1241,7 @@ html {
     grid-column: 1 / 10;
     line-height: 4rem;
     font-size: 1.7rem; }
-    @media (min-width: 720px) {
+    @media (min-width: 960px) {
       .nav-header a.title {
         grid-column: 1 / 5; } }
   .nav-header nav {
@@ -1433,7 +1429,6 @@ figure {
     figure .gallery img {
       min-width: none; }
   figure figcaption {
-    font-style: italic;
     max-width: 80%;
     margin-right: auto;
     margin-left: auto;
