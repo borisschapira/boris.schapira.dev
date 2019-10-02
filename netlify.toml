@@ -1,5 +1,5 @@
 [build]
-  command = "bundle exec rake test; npm run lambda:build"
+  command = "npm run lambda:build"
   publish = "_site"
   functions = "lambda"
 
