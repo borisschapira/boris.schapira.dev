@@ -8,7 +8,7 @@ tags:
     - UX
 slug: user-timing-api-next-frame
 translations:
-    fr: ~
+    fr: custom-timing-prochaine-frame
 ---
 
 The usual web performance metrics (First Byte, Speed Index…) are very interesting but I often need to add custom temporal markers, based on events that make sense from a business point of view.
@@ -37,7 +37,7 @@ Using the API in JavaScript is quite simple (and [broadly supported](https://can
 You can then retrieve the value in your browser developers tools, using:
 
 ```
-console.dir(performance.getEntriesByType('mark'));
+performance.getEntriesByType('mark');
 ```
 
 
@@ -45,7 +45,7 @@ However, I recently[^1] realized that I often forgot something important: **just
 
 [^1]: Reading "[Performance metrics for blazingly fast web apps](https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps-ec12efa26bcb)", by Conrad Irwin
 
-In the following example, I inject a whole second between my performance mark and the browser update of the display.
+In the following example, I inject a 1-second blocking loop after my performance mark, preventing the browser to update of the display.
 
 ```js
     // The thing you want to monitor the occurrence of
@@ -58,11 +58,9 @@ In the following example, I inject a whole second between my performance mark an
     while (performance.now() - n < 1000) {}
 ```
 
-Of course, in real life, you won't have a simple loop. You will have some other time-consuming tasks. You won't even know what, because it could be in a library on which your code depends, and you have no idea.
+Of course, in real life, you won't have a simple loop. You will have other tasks that may or may not take a long time. You can't know it and, in fact, you can't even test it, because it all depends on the customer context that you don't control.
 
-As we're not going to analyze all the code that follows the stuff we're interested in to know when to put the timestamp, we need a workaround.
-
-We can use `requestAnimationFrame()` to ask for our mark to be put set before the browser performs the next repaint:
+To get around this problem, we can use `requestAnimationFrame()` to ask for our mark to be put set before the browser performs the next repaint:
 
 ```js
     // The thing you want to monitor the occurrence of
@@ -79,13 +77,13 @@ We can use `requestAnimationFrame()` to ask for our mark to be put set before th
     while (performance.now() - n < 1000) {}
 ```
 
-***
-
 If you want to see this for yourself, here's [a test page](https://tests.boris.schapira.dev/perfmark-animationframe/).
 
-***
 
-## In a nutshell
+{% capture note %} **IN A NUTSHELL**
 
-- Call the User Timings API to create custom business-related timestamps.
-- Encapsulate them  inside `requestAnimationFrame()` callbacks to get to understand how the IU behaves, rather than the code execution. If you want to understand the code, attach two marks: you will have an idea of the display latency.
+**Call the User Timings API** to create custom business-related timestamps.
+
+**Encapsulate them** inside `requestAnimationFrame()` callbacks to get to understand how the UI behaves, rather than the code execution.
+
+If you want to have an idea of the display latency, attach two marks: one after the event to be followed, the other in a `requestAnimationFrame()` callback.{% endcapture note %} {% include note.html.liquid content=note %}

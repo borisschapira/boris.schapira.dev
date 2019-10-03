@@ -5,7 +5,7 @@
     <link>https://boris.schapira.dev/en/web/feed.xml</link>
     <description> I am a Web professionnal that tries to understand what people need to make the web a better place.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Oct 2019 22:49:46 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2019 15:48:54 +0200</lastBuildDate>
     
     <item>
       <title>Performance timing: wait for the next frame</title>
@@ -29,10 +29,10 @@ https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_113
     &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mark&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;mark-blue&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;You can then retrieve the value in your browser developers tools, using:&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;console.dir(performance.getEntriesByType('mark'));
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;performance.getEntriesByType('mark');
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;However, I recently&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; realized that I often forgot something important: &lt;strong&gt;just because the browser execute some JavaScript code does not mean that the user can see the results of this execution&lt;/strong&gt;. The browser must update the display, and its ability to do so depends on the JavaScript code that follows the piece of code we’re interested in.&lt;/p&gt;
-&lt;p&gt;In the following example, I inject a whole second between my performance mark and the browser update of the display.&lt;/p&gt;
+&lt;p&gt;In the following example, I inject a 1-second blocking loop after my performance mark, preventing the browser to update of the display.&lt;/p&gt;
 &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;js&quot;&gt;    &lt;span class=&quot;c1&quot;&gt;// The thing you want to monitor the occurrence of&lt;/span&gt;
     &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;classList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;blue&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
     &lt;span class=&quot;c1&quot;&gt;// The timestamp&lt;/span&gt;
@@ -42,9 +42,8 @@ https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_113
     &lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Of course, in real life, you won’t have a simple loop. You will have some other time-consuming tasks. You won’t even know what, because it could be in a library on which your code depends, and you have no idea.&lt;/p&gt;
-&lt;p&gt;As we’re not going to analyze all the code that follows the stuff we’re interested in to know when to put the timestamp, we need a workaround.&lt;/p&gt;
-&lt;p&gt;We can use &lt;code&gt;requestAnimationFrame()&lt;/code&gt; to ask for our mark to be put set before the browser performs the next repaint:&lt;/p&gt;
+&lt;p&gt;Of course, in real life, you won’t have a simple loop. You will have other tasks that may or may not take a long time. You can’t know it and, in fact, you can’t even test it, because it all depends on the customer context that you don’t control.&lt;/p&gt;
+&lt;p&gt;To get around this problem, we can use &lt;code&gt;requestAnimationFrame()&lt;/code&gt; to ask for our mark to be put set before the browser performs the next repaint:&lt;/p&gt;
 &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;js&quot;&gt;    &lt;span class=&quot;c1&quot;&gt;// The thing you want to monitor the occurrence of&lt;/span&gt;
     &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;classList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;blue&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
     &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mark&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;mark-blue-sync&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
@@ -58,14 +57,12 @@ https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_113
     &lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;hr /&gt;
 &lt;p&gt;If you want to see this for yourself, here’s &lt;a href=&quot;https://tests.boris.schapira.dev/perfmark-animationframe/&quot;&gt;a test page&lt;/a&gt;.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;In a nutshell&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Call the User Timings API to create custom business-related timestamps.&lt;/li&gt;
-&lt;li&gt;Encapsulate them  inside &lt;code&gt;requestAnimationFrame()&lt;/code&gt; callbacks to get to understand how the IU behaves, rather than the code execution. If you want to understand the code, attach two marks: you will have an idea of the display latency.&lt;/li&gt;
-&lt;/ul&gt;
+ &lt;div class=&quot;inline-note&quot;&gt;&lt;p&gt;&lt;strong&gt;IN A NUTSHELL&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Call the User Timings API&lt;/strong&gt; to create custom business-related timestamps.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Encapsulate them&lt;/strong&gt; inside &lt;code&gt;requestAnimationFrame()&lt;/code&gt; callbacks to get to understand how the UI behaves, rather than the code execution.&lt;/p&gt;
+&lt;p&gt;If you want to have an idea of the display latency, attach two marks: one after the event to be followed, the other in a &lt;code&gt;requestAnimationFrame()&lt;/code&gt; callback.&lt;/p&gt;
+&lt;/div&gt;
 &lt;section class=&quot;footnotes&quot;&gt;
 &lt;ol&gt;
 &lt;li id=&quot;fn1&quot;&gt;

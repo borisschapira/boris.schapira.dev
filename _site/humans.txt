@@ -10,7 +10,7 @@ how to do this. Nicolas Hoizey, Sylvain Durand, Adams Clarkson,
 Nicolas Hoffman… thank you very much!
 
 /* SITE */
-Last update:  2019-10-02
+Last update:  2019-10-03
 
 Standards: HTML5, CSS3, JavaScript
 Components: Abbr Touch, jQuery, touchtap

@@ -5,7 +5,102 @@
     <link>https://boris.schapira.dev/feed.xml</link>
     <description> Mes opinions sur le Web mais aussi sur ma vie de parent et de citoyen.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 02 Oct 2019 22:49:46 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2019 15:48:54 +0200</lastBuildDate>
+    
+    <item>
+      <title>Custom Timing : attendez la prochaine frame</title>
+      
+      <description>
+          &lt;p&gt;Les indicateurs habituels de performance web (Premier Octet, Speed Index…) sont très intéressants mais j’ai souvent besoin d’ajouter des marqueurs temporels personnalisés, basés sur des événements qui ont un sens du point de vue métier.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;J’utilise la User Timing API (&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API&quot;&gt;voir sur &lt;abbr title=&quot;Mozilla Developer Network&quot; lang=&quot;en&quot;&gt;MDN&lt;/abbr&gt; [EN]&lt;/a&gt;) pour insérer des &lt;i lang=&quot;en&quot;&gt;timings&lt;/i&gt; dans la  &lt;i lang=&quot;en&quot;&gt;performance timeline&lt;/i&gt; du navigatuer. Comme on peut récupérer tous ces indicateurs dans Dareboost, je peux ensuite &lt;a href=&quot;https://blog.dareboost.com/fr/2018/05/monitoring-custom-timings/&quot;&gt;surveiller leur évolution sur la durée&lt;/a&gt;.&lt;/p&gt;
+&lt;figure &gt;
+&lt;img src=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-09-30/custom-timings-dareboost.png&quot; srcset=&quot;https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_320/https://boris.schapira.dev/assets/images/2019-09-30/custom-timings-dareboost.png 320w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_640/https://boris.schapira.dev/assets/images/2019-09-30/custom-timings-dareboost.png 640w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_960/https://boris.schapira.dev/assets/images/2019-09-30/custom-timings-dareboost.png 960w,
+https://res.cloudinary.com/borisschapira/image/fetch/c_limit,f_auto,q_auto,w_1137/https://boris.schapira.dev/assets/images/2019-09-30/custom-timings-dareboost.png 1137w&quot; sizes=&quot;80vw&quot;  alt=&quot;Deux courbes dans un graphique. Sur l&amp;#39;axe des abscisses, une période d&amp;#39;un mois. Sur l&amp;#39;axe des Y, le temps entre 0 et 3 s. La courbe orange indique la valeur du marqueur &amp;quot;mark_declare_js_end&amp;quot; tandis que la courbe verte correspond au marqueur &amp;quot;mark_switchlang_end&amp;quot;.&quot; loading=&quot;lazy&quot; width=&quot;1137&quot; height=&quot;535&quot; /&gt;
+&lt;figcaption&gt;&lt;p&gt;Quelques &lt;i lang=&amp;quot;en&amp;quot;&gt;Custom Timings&lt;/i&gt; issus de ce site&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;En utilisant l’API avec JavaScript, poser un marqueur est assez simple (et &lt;a href=&quot;https://caniuse.com/#feat=user-timing&quot;&gt;bien supporté&lt;/a&gt;).&lt;br /&gt;
+Par exemple :&lt;/p&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;js&quot;&gt;    &lt;span class=&quot;c1&quot;&gt;// Le truc dont vous voulez mesurer l'occurence&lt;/span&gt;
+    &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;classList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;blue&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// Le marqueur temporel&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mark&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;mark-blue&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Vous pouvez ensuite récupérer la valeur dans les outils de développement de votre navigateur, en utilisant :&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;performance.getEntriesByType('mark');
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Cependant, j’ai récemment&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; réalisé quelque chose d’important. &lt;strong&gt;Le simple fait que le navigateur exécute du code JavaScript ne signifie pas que l’utilisateur puisse voir les résultats de cette exécution&lt;/strong&gt;. Le navigateur doit, entre temps, mettre à jour l’affichage. Or, sa capacité à le faire dépend du code JavaScript qui suit le morceau de code qui nous intéresse…&lt;/p&gt;
+&lt;p&gt;Dans l’exemple suivant, j’injecte une boucle bloquante d’une seconde après mon &lt;i lang=&quot;en&quot;&gt;timing&lt;/i&gt; de performance, ce qui bloque le rendu par le navigateur.&lt;/p&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;js&quot;&gt;    &lt;span class=&quot;c1&quot;&gt;// Le truc dont vous voulez mesurer l'occurence&lt;/span&gt;
+    &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;classList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;blue&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// The timestamp&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mark&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;mark-blue-sync&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+    &lt;span class=&quot;c1&quot;&gt;// Un bout de code qui coûte des ressources au navigateur&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// pendant 1 seconde&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Bien sûr, dans la vraie vie, vous n’aurez pas une simple boucle. Vous aurez d’autres tâches qui prendront peut-être beaucoup de temps, ou peut-être pas. Vous ne pouvez pas le savoir et, même, vous ne pouvez pas le tester, car tout cela dépend du contexte client que vous ne contrôlez pas.&lt;/p&gt;
+&lt;p&gt;Pour contourner ce problème, nous pouvons utiliser &lt;code&gt;requestAnimationFrame()&lt;/code&gt; afin de demander au navigateur de poser notre &lt;i lang=&quot;en&quot;&gt;timing&lt;/i&gt; juste avant le prochain rendu (la prochaine &lt;i lang=&quot;en&quot;&gt;frame&lt;/i&gt;) :&lt;/p&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code data-lang=&quot;js&quot;&gt;    &lt;span class=&quot;c1&quot;&gt;// Le truc dont vous voulez mesurer l'occurence&lt;/span&gt;
+    &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;classList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;blue&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mark&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;mark-blue-sync&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// Le Custom Timing, avant la prochaine frame&lt;/span&gt;
+    &lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;requestAnimationFrame&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mark&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;mark-blue-frame&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+    &lt;span class=&quot;c1&quot;&gt;// Un bout de code qui coûte des ressources au navigateur &lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// pendant 1 seconde&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;performance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Si vous voulez voir comment ça fonctionne par vous-même, voici &lt;a href=&quot;https://tests.boris.schapira.dev/perfmark-animationframe/&quot;&gt;une page de test&lt;/a&gt;.&lt;/p&gt;
+ &lt;div class=&quot;inline-note&quot;&gt;&lt;p&gt;&lt;strong&gt;EN UN MOT&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Utilisez l’API User Timings&lt;/strong&gt; pour créer des &lt;i lang=&quot;en&quot;&gt;Custom Timings&lt;/i&gt; liés à votre activité.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Encapsulez-les&lt;/strong&gt; dans des &lt;i lang=&quot;en&quot;&gt;callbacks&lt;/i&gt; &lt;code&gt;requestAnimationFrame()&lt;/code&gt; pour comprendre le comportement de l’interface, plutôt que l’exécution du code.&lt;/p&gt;
+&lt;p&gt;Si vous voulez avoir une idée de la latence de l’affichage, attachez deux marques : l’une après l’événement à suivre, l’autre dans un &lt;i lang=&quot;en&quot;&gt;callback&lt;/i&gt; &lt;code&gt;requestAnimationFrame()&lt;/code&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn1&quot;&gt;
+&lt;p&gt;En lisant “&lt;a href=&quot;https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps-ec12efa26bcb&quot;&gt;Performance metrics for blazingly fast web apps&lt;/a&gt;” [EN], de Conrad Irwin &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+          &lt;hr&gt;
+          &lt;div style=&quot;font-style:italic&quot;&gt;
+              &lt;p&gt;
+                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
+              &lt;/p&gt;
+              &lt;ul&gt;
+                  
+                  &lt;li&gt;rédigés en français.&lt;/li&gt;
+              &lt;/ul&gt;
+              &lt;p&gt;
+                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
+              &lt;/p&gt;
+          &lt;/div&gt;
+          
+      </description>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0200</pubDate>
+      <link>https://boris.schapira.dev/2019/09/custom-timing-prochaine-frame/</link>
+      <guid isPermaLink="true">https://boris.schapira.dev/2019/09/custom-timing-prochaine-frame/</guid>
+      
+      <category>Performance Web</category>
+      
+      <category>JavaScript</category>
+      
+      <category>UX</category>
+      
+      <category>web</category>
+      
+    </item>
     
     <item>
       <title>Les dessins</title>
@@ -1009,54 +1104,6 @@ La Puissance invaincue des femmes”, La Découverte, 2018&lt;cite&gt;&lt;/p&gt;
       <category>Sorcières</category>
       
       <category>citoyen</category>
-      
-    </item>
-    
-    <item>
-      <title>Petits noms</title>
-      
-      <description>
-          &lt;p&gt;Grande discussion avec le petit sur les petits noms que certaines personnes
-donnent à d’autres. Pour lui faire en prendre conscience, je lui demande
-comment, d’habitude, les membres de la famille m’interpelle.&lt;/p&gt;
-&lt;!-- more --&gt;
-&lt;blockquote&gt;
-&lt;p&gt;– Comment elle m’appelle, Mamie ?&lt;br /&gt;
-– “Mon chéri”, “Petit bout”, viens ici !&lt;br /&gt;
-– Et maman, comment elle m’appelle ?&lt;br /&gt;
-– Elle dit “Bibou, tu peux venir ?”&lt;br /&gt;
-– Et moi, quand je vous appelle, ça fait comment ?&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Il réfléchit, puis :&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;QUI C’EST QUI A FAIT PIPI SUR LA CUVETTE, VENEZ ICI TOUT DE SUITE !&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;figure&gt;
-  &lt;div class=&quot;videoWrapper gif&quot;&gt;&lt;video crossOrigin=&quot;anonymous&quot; muted controls loop playsinline preload=&quot;auto&quot; poster=&quot;/assets/images/papa/2019-05-28/true.jpg&quot;aria-describedBy=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot;&gt;
-  &lt;source src=&quot;/assets/images/papa/2019-05-28/true.webm&quot; type=&quot;video/webm&quot;&gt;
-  &lt;source src=&quot;/assets/images/papa/2019-05-28/true.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;em id=&quot;80b874742cf9858a6cd668d6a20edabc0dca2e6e&quot; class=&quot;sr-only&quot;&gt;GIF: Un homme dit : &quot;Oui, c'est vrai&quot;&lt;/em&gt;&lt;figcaption&gt;&lt;p&gt;Oui, voilà.&lt;/p&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
-
-          &lt;hr&gt;
-          &lt;div style=&quot;font-style:italic&quot;&gt;
-              &lt;p&gt;
-                  Vous êtes abonné·e au flux des articles&amp;nbsp;:
-              &lt;/p&gt;
-              &lt;ul&gt;
-                  
-                  &lt;li&gt;rédigés en français.&lt;/li&gt;
-              &lt;/ul&gt;
-              &lt;p&gt;
-                  Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre &lt;a href=&quot;https://boris.schapira.dev/web/feed.xml&quot;&gt;ce flux&lt;/a&gt;.
-              &lt;/p&gt;
-          &lt;/div&gt;
-          
-      </description>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0200</pubDate>
-      <link>https://boris.schapira.dev/2019/05/petits-noms/</link>
-      <guid isPermaLink="true">https://boris.schapira.dev/2019/05/petits-noms/</guid>
-      
-      <category>papa</category>
       
     </item>
     
