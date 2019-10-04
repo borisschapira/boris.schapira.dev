@@ -5,7 +5,7 @@
     <link>https://boris.schapira.dev/en/feed.xml</link>
     <description> My blog, containing personal opinions on the Web but also on my life as a parent and a citizen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Oct 2019 15:48:54 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2019 13:50:13 +0200</lastBuildDate>
     
     <item>
       <title>Performance timing: wait for the next frame</title>
