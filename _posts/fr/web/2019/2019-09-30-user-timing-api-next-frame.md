@@ -21,7 +21,7 @@ vue métier.
 J'utilise la User Timing API
 ([voir sur <abbr title="Mozilla Developer Network" lang="en">MDN</abbr> [EN]](https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API))
 pour insérer des <i lang="en">timings</i> dans la <i lang="en">performance
-timeline</i> du navigatuer. Comme on peut récupérer tous ces indicateurs dans
+timeline</i> du navigateur. Comme on peut récupérer tous ces indicateurs dans
 Dareboost, je peux ensuite
 [surveiller leur évolution sur la durée](https://blog.dareboost.com/fr/2018/05/monitoring-custom-timings/).
 
