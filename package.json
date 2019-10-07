@@ -32,7 +32,8 @@
     "pretty:md:2019": "prettier --tab-width 4 --single-quote --prose-wrap always --loglevel silent --write '{,!(vendor)/**/2019/*.md}' > /dev/null",
     "pretty:md:bookmark": "prettier --tab-width 4 --single-quote --prose-wrap always --write '_bookmarks/**/*.md' > /dev/null",
     "build:js": "npm run eslint && npm run concat && npm run uglify",
-    "build:css": "npm run sass && npm run postcss && node ./scripts/compute-hashes.js",
+    "build:css": "npm run sass && NODE_ENV=production npm run postcss && node ./scripts/compute-hashes.js",
+    "build:css:dev": "npm run sass && NODE_ENV=development npm run postcss && node ./scripts/compute-hashes.js",
     "build": "npm run vendors && npm run pretty && npm run build:css && npm run build:js",
     "lambda:serve": "netlify-lambda serve functions",
     "lambda:build": "netlify-lambda build functions",
@@ -44,13 +45,16 @@
   "watch": {
     "_src/styles/scss/**/*.scss": [
       "pretty:css",
-      "build:css"
+      "build:css:dev"
     ],
     "_src/scripts/custom/**/*.js": [
       "pretty:js",
       "build:js"
     ],
     "_posts/**/2019/*.md": [
+      "pretty:md:2019"
+    ],
+    "_drafts/**/*.md": [
       "pretty:md:2019"
     ]
   },
