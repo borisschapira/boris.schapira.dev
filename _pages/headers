@@ -10,7 +10,7 @@ permalink: /_headers
   Strict-Transport-Security{% unless jekyll.environment == "production" %}-Report-Only{% endunless%}: max-age=63072000; includeSubDomains; preload
   Report-To: {"group":"default","max_age":31536000,"endpoints":[{"url":"https://borisschapira.report-uri.com/a/d/g"}],"include_subdomains":true}
   Content-Security-Policy: {% include csp.html.liquid %}
-  Link: <{% include assets/css.html.liquid name='critical' %}>; rel=preload; as=style; nopush, <{% include assets/css.html.liquid name='main' %}>; rel=preload; as=style; nopush, <{% include assets/css.html.liquid name='hl' %}>; rel=preload; as=style; nopush, <https://analytics.schapira.dev/matomo.js>; rel=preload; as=script; nopush
+  Link: <{% include assets/css.html.liquid name='critical' %}>; rel=preload; as=style; nopush, <{% include assets/css.html.liquid name='main' %}>; rel=preload; as=style; nopush, <{% include assets/css.html.liquid name='hl' %}>; rel=preload; as=style; nopush, <https://analytics.schapira.dev/matomo.js>; rel=preload; as=script; nopush, <https://instant.page/2.0.0>; rel=preload; as=script; integrity="sha384-D7B5eODAUd397+f4zNFAVlnDNDtO1ppV8rPnfygILQXhqu3cUndgHvlcJR2Bhig8"; nopush
 
 /en/search
   Content-Security-Policy: {% include csp.html.liquid specific="search" %}
