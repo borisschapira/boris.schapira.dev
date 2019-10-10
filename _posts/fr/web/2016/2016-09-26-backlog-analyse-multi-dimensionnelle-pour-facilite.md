@@ -82,7 +82,7 @@ quelque chose de complexe.
 
 ### 5 points
 
--   On anticipe un grosse charge
+-   On anticipe une grosse charge
 -   Il s'agit d'un pré-requis fonctionnel à de nombreuses fonctionnalités
 -   Il faut le faire maintenant ou jamais (par exemple, une ressource clé s'en
     va)
