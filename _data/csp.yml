@@ -26,6 +26,8 @@
       comment: "Injection du script index.min.js"
     - value: "'sha256-V8SBer6vQYIdb9s3Mk1MGe3ChfXQopwjko6Az6HcMBI='"
       comment: "Injection du script comments.min.jd"
+    - value: "'sha256-69vfkoYH4VdkXJN87GH0QSLGwpMPO3L6v4x69+Fg7d8='"
+      comment: "Injection du script de widgets Twitter"
     - value: "'sha256-/gTtkpNmNQKj0DTBfWs5P0nwTyY/EZSliGw0IRSpWTs='"
       comment: "Injection de la CSS de mise en forme du code"
     - value: "'sha256-LDnlgL6UeEG0Blbxa7sjb1atHsbcqtZeyWPqKo40rzo='"
