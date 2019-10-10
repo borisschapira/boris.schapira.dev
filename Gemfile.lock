@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/Shopify/liquid.git
-  revision: 1aa7d3d2bab67defbf61b0f3d014a610b233e506
+  revision: 2bfeed2b00b7eacb466598f5098472898106f460
   branch: master
   specs:
     liquid (4.0.3)
@@ -37,12 +37,11 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll-commonmark/
-  revision: 6c9ae3a9cc0f46762ffd6a361317a718a47fb47f
+  revision: bb96c49ab42826961d2a6621a0ba27f3b88bfa85
   branch: master
   specs:
     jekyll-commonmark (1.3.1)
       commonmarker (~> 0.14)
-      jekyll (>= 3.7, < 5.0)
 
 GIT
   remote: https://github.com/jekyll/jekyll.git
@@ -118,7 +117,7 @@ GEM
     mini_portile2 (2.4.0)
     nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
-    parallel (1.17.0)
+    parallel (1.18.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.1)

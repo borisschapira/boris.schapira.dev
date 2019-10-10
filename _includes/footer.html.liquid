@@ -17,7 +17,7 @@
 {%- if include.layout == 'post'  -%}<script>injectScript('/assets/scripts/comments.min.js');</script>{%- endif  -%}
 <script>injectStyle('/assets/styles/hl.css');</script>
 <script>injectScript('/assets/scripts/index.min.js');</script>
-{%- if include.loadTwitterWjs  -%}<script>injectScript('/assets/scripts/vendors/twitter-wjs.min.js');</script>
+{%- if include.loadTwitterWjs  -%}<script>injectScript('https://platform.twitter.com/widgets.js');</script>
 {%- endif  -%}
 
 {%- if include.loadSearch  -%}

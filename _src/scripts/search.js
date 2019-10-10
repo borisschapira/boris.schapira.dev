@@ -1,4 +1,5 @@
-/* global instantsearch,algoliasearch */
+import instantsearch, { widgets } from 'instantsearch.js'
+
 var search = instantsearch({
   indexName: document.getElementById('algolia-index-name').innerHTML,
   searchClient: algoliasearch(
@@ -8,7 +9,7 @@ var search = instantsearch({
 });
 
 search.addWidgets([
-  instantsearch.widgets.searchBox({
+  widgets.searchBox({
     container: '#search-box',
     placeholder: 'Recherche',
     autofocus: false,
@@ -17,12 +18,12 @@ search.addWidgets([
     loadingIndicator: false
   }),
 
-  instantsearch.widgets.refinementList({
+  widgets.refinementList({
     container: '#refinement-list',
     attribute: 'categories'
   }),
 
-  instantsearch.widgets.hits({
+  widgets.hits({
     container: '#hits',
     templates: {
       empty: 'Aucun résultat&nbsp;!',
@@ -30,7 +31,7 @@ search.addWidgets([
     }
   }),
 
-  instantsearch.widgets.pagination({
+  widgets.pagination({
     container: '#pagination-container',
     maxPages: 20,
     scrollTo: false,
