@@ -8,3 +8,4 @@ _config_prod.yml
 /_posts/**/*.json
 /_captures/diff
 /_captures/test
+/_site

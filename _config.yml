@@ -170,6 +170,8 @@ defaults:
 exclude:
   - "postcss.config.js"
   - "purgecss.config.js"
+  - "babel.config.js"
+  - "webpack.config.js"
   - ".ruby-version"
   - ".cache"
   - ".editorconfig"
