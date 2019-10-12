@@ -91,9 +91,9 @@ potentiel professionnel.
 paraitre qu'il a été au préalable brisé{% endcapture %}
 {% capture img_caption %}Un exemple de <span lang="ja">kintsugi</span>. Au lieu
 de cacher les cicatrices d'un objet brisé ou fragilisé, le
-<span lang="ja">kintsugi</span> les valorise. Au lieu de n’avoir qu’une existence
-dans l’instant, l’objet s’enrichit d’une histoire qui raconte ses faiblesses et
-le rend unique.{% endcapture %} {% include rwd-image.html.liquid
+<span lang="ja">kintsugi</span> les valorise. Au lieu de n’avoir qu’une
+existence dans l’instant, l’objet s’enrichit d’une histoire qui raconte ses
+faiblesses et le rend unique.{% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2016-12-26/kintsugi.jpg"
 alt=img_alt
 caption=img_caption
