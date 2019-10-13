@@ -1,7 +1,9 @@
-const autoprefixer = require("autoprefixer");
-const csswring = require("csswring");
-const purgeCss = require("postcss-purgecss");
-
-module.exports = {
-  plugins: [autoprefixer, purgeCss, csswring]
+module.exports = ctx => {
+  return {
+    plugins: [
+      require('autoprefixer'),
+      ...(ctx.webpack.mode === 'production' ? [require('postcss-purgecss')] : []),
+      require('csswring')
+    ]
+  };
 };

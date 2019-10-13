@@ -1,13 +1,13 @@
 @charset "utf-8";
 
 // Vendors
-@import "vendors/include-media";
+@import "~include-media/dist/include-media";
 
 // Variables and mixins
 @import "base/config", "base/abstract", "mixins/content", "mixins/animations";
 
 // Reset
-@import "vendors/normalize/normalize/import-now", "base/fonts", "base/init",
+@import "~normalize-scss/sass/normalize/import-now", "base/fonts", "base/init",
   "base/links", "base/print";
 
 // Vendors
