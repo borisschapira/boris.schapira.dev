@@ -23,6 +23,8 @@ ultérieurement.
 -   J'ai suivi des études qui correspondaient à mes envies.
 -   J'ai fait des études supérieures me donnant accès à des emplois bien
     rémunérés.
+-   J'ai eu la chance de choisir un métier d'ingénierie privilégié qui me 
+    laissait faire du télé-travail, où trouver un travail est facile.
 -   Je peux avoir une conversation sérieuse avec n'importe quel·le anglophone.
 -   Je travaille dans un domaine qui me plait.
 -   Les frais relatifs à mes études ont été couverts par mes parents et par la
@@ -80,6 +82,10 @@ ultérieurement.
     s'il m'arrive quelque chose de grave, qu'il s'agisse de ma famille, de mes
     amis ou de connaissance professionnelles.
 -   J'ai voyagé dans plusieurs pays, rencontré plusieurs cultures.
+-   Je suis né dans un pays avec un niveau de vie plus élevé que les autres,
+    ce qui facilite les voyages. Je peux passer 3 semaines de vacances au 
+    Cambodge, un Cambodgien ne peut pas facilement passer 3 semaines de 
+    vacances en France.
 -   J'ai pu avoir des enfants quand je les ai voulus.
 -   Mes enfants sont nés en bonne santé. Je ne m'inquiète pas aujourd'hui pour
     leur santé.
