@@ -85,7 +85,7 @@
     "sass-loader": "^8.0.0",
     "touchtap-event": "^2.0.2",
     "uglify-es": "github:mishoo/UglifyJS2#harmony",
-    "var": "^0.3.2",
+    "var": "^0.4.0",
     "webpack": "^4.41.1",
     "webpack-cli": "^3.3.9"
   },
