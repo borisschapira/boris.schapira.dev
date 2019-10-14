@@ -53,14 +53,14 @@
     "@fullhuman/postcss-purgecss": "^1.3.0",
     "abbr-touch": "^2.1.6",
     "algoliasearch": "^3.35.1",
-    "autoprefixer": "^9.6.4",
+    "autoprefixer": "^9.6.5",
     "babel-eslint": "^10.0.3",
     "babel-loader": "^8.0.6",
     "chai": "^4.2.0",
     "concat-cli": "^4.0.0",
     "csswring": "^7.0.0",
     "easy-toggle-state": "^1.12.2",
-    "eslint": "^5.16.0",
+    "eslint": "^6.5.1",
     "eslint-config-prettier": "^6.4.0",
     "eslint-plugin-import": "^2.18.2",
     "first-input-delay": "^0.1.3",
@@ -85,7 +85,7 @@
     "sass-loader": "^8.0.0",
     "touchtap-event": "^2.0.2",
     "uglify-es": "github:mishoo/UglifyJS2#harmony",
-    "var": "^0.3.2",
+    "var": "^0.4.0",
     "webpack": "^4.41.1",
     "webpack-cli": "^3.3.9"
   },
@@ -101,7 +101,7 @@
     "npm": "^6.12.0",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5",
-    "rss-parser": "^3.7.2",
+    "rss-parser": "^3.7.3",
     "slugify": "^1.3.5"
   }
 }
