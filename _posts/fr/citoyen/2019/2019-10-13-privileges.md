@@ -89,3 +89,4 @@ ultérieurement.
 -   J'ai pu avoir des enfants quand je les ai voulus.
 -   Mes enfants sont nés en bonne santé. Je ne m'inquiète pas aujourd'hui pour
     leur santé.
+-   Mes parents comme ceux de ma femme sont encore en vie. Ils et elles nous soutiennent et sont présents pour nos enfants.
