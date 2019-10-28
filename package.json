@@ -60,7 +60,7 @@
     "concat-cli": "^4.0.0",
     "csswring": "^7.0.0",
     "easy-toggle-state": "^1.12.3",
-    "eslint": "^6.5.1",
+    "eslint": "^6.6.0",
     "eslint-config-prettier": "^6.4.0",
     "eslint-plugin-import": "^2.18.2",
     "first-input-delay": "^0.1.3",
