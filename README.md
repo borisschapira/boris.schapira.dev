@@ -10,25 +10,30 @@ My Jekyll v3 setup.
 ### Prerequisites
 
 -   Bundler
--   Docker (for SonarQube code coverage only)
--   Homebrew (for SonarQube code coverage only)
+-   npm (I recommend installing node via nvm)
+-   globally install puppeteer for visual tests
 
 ### Installation
 
 ```
-bundle install
+bundle install;
+npm install;
 ```
 
 ### Local development/writing
 
 ```
-bundle exec rake
+bundle exec rake;
 ```
 
 ### Build for Production
 
 ```
-bundle exec rake build:generate
+npm run bookmarks:get;
+npm run comments:get;
+bundle exec rake "build:generate[prod]";
+npm run build;
+bundle exec rake test;
 ```
 
 ## License
