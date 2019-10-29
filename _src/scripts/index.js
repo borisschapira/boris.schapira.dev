@@ -1,45 +1,14 @@
 import 'easy-toggle-state';
 import 'touchtap-event';
-import 'abbr-touch';
 import { ready, perfmark } from './subscripts/utils';
-import './subscripts/save-data-images';
-import './subscripts/dark-mode-local-save';
+
+import './subscripts/savedataSwitchImages';
+import './subscripts/localstorageSaveLang';
+import './subscripts/localstorageSaveDarkMode';
+import './subscripts/footnotesAlternatives';
 import { abbrTouch } from './vendors/abbr-touch';
 
-(function switchlang() {
-  perfmark(function() {
-    // Detect user language and redirect, if first time, to the right page ----------------
-    try {
-      var lang_user;
-      lang_user = localStorage.getItem('lang_user');
-      if (!lang_user) {
-        lang_user = (
-          window.navigator.userLanguage ||
-          (window.navigator.languages.length > 0 &&
-            window.navigator.languages[0]) ||
-          window.navigator.language
-        ).slice(0, 2);
-        localStorage.setItem('lang_user', lang_user);
-        var lang_site = document.getElementsByTagName('html')[0].lang;
-        if (lang_user != lang_site) {
-          window.location = document.querySelector(
-            '[hreflang][rel="alternate"]'
-          ).href;
-        }
-      }
-    } catch (e) {}
-
-    document.addEventListener(
-      'click',
-      function(event) {
-        if (event.target.matches('[lang][href*="/"]')) {
-          localStorage.setItem('lang_user', event.target.getAttribute('lang'));
-        }
-      },
-      false
-    );
-  }, 'switchlang');
-})();
+import './subscripts/tagCloudManagement';
 
 ready(function() {
   perfmark(function() {
@@ -84,58 +53,4 @@ ready(function() {
       }, 0);
     });
   });
-
-  var lang = document.getElementsByTagName('html')[0].getAttribute('lang'),
-    alternatives = {
-      to: {
-        en: 'footnote',
-        fr: 'note de bas de page'
-      },
-      back: {
-        en: 'return to the text',
-        fr: 'retour au texte'
-      }
-    };
-
-  var i,
-    textnotes = [...document.querySelectorAll('.footnote-ref a')],
-    footnotes = [...document.getElementsByClassName('footnote-backref')];
-  for (i = 0; i < textnotes.length; i++) {
-    textnotes[i].setAttribute('title', alternatives.to[lang]);
-  }
-  for (i = 0; i < footnotes.length; i++) {
-    footnotes[i].setAttribute('title', alternatives.back[lang]);
-  }
-
-  const tagcountElement = document.getElementById('tagcount');
-  if (tagcountElement) {
-    tagcountElement.style.display = 'block';
-
-    [...document.querySelectorAll('.tagcount button')].forEach(b => {
-      b.addEventListener('click', e => {
-        e.target.classList.toggle('active');
-
-        // Get active tags
-        const activeTags = [
-          ...document.querySelectorAll('.tagcount .active')
-        ].reduce((acc, x) => [...acc, 'tag-' + x.dataset['tagSlug']], []);
-
-        // Display articles
-        [...document.querySelectorAll('article')].forEach(article => {
-          if (
-            activeTags.length == 0 ||
-            activeTags.reduce(
-              (accumulator, currentValue) =>
-                accumulator || article.classList.contains(currentValue),
-              false
-            )
-          ) {
-            article.style.display = 'block';
-          } else {
-            article.style.display = 'none';
-          }
-        });
-      });
-    });
-  }
 });

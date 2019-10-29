@@ -1,6 +1,7 @@
 {
   "extends": ["prettier"],
   "parserOptions": {
-    "sourceType": "module"
+    "sourceType": "module",
+    "ecmaVersion": 6
   }
 }

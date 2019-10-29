@@ -46,6 +46,7 @@ module.exports = {
   mode: 'production',
   optimization: {
     minimize: true
-  }
+  },
+  devtool: 'source-map'
 };
 
