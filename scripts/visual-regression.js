@@ -15,6 +15,7 @@ const testUrl = "https://boris.schapira.local:10443";
 const tests = {
   fr: {
     locale: "fr-FR,fr",
+    mode: "light",
     routes: {
       home: "",
       web: "web/",
@@ -23,6 +24,7 @@ const tests = {
   },
   en: {
     locale: "en-US,en",
+    mode: "dark",
     routes: {
       home: "",
       dad: "/en/dad/"
@@ -64,6 +66,7 @@ describe("👀 screenshots are correct", () => {
           args: [`--lang=${tests[t].locale}`]
         });
         page = await browser.newPage();
+        await page.emulateMediaFeatures([{ name: 'prefers-color-scheme', value: tests[t].mode }]);
         await page.setExtraHTTPHeaders({
           "Accept-Language": tests[t].locale
         });
