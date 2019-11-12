@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/Shopify/liquid-c.git
-  revision: 8c5ad175b7db288b9132b24c470f260c027e7a2e
+  revision: 5a89f8ff805296574b09ad3cb34e7e698844aa33
   branch: master
   specs:
     liquid-c (4.0.0)
@@ -15,9 +15,9 @@ GIT
 
 GIT
   remote: https://github.com/borisschapira/jekyll-microtypo
-  revision: 3d632dfa7adc625fbae730274234cdaee3bbed88
+  revision: ca3f0390fb8f344fa3e437f10416621523245691
   specs:
-    jekyll-microtypo (1.2.5)
+    jekyll-microtypo (1.2.6)
       jekyll (>= 3.0, < 5.0)
 
 GIT
@@ -30,7 +30,7 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll-archives/
-  revision: 74a66073ca1fe180743c728e87eb6c0655e638ce
+  revision: b4bae67af1b2721e5fb4d949585cf147cdd7784c
   specs:
     jekyll-archives (2.2.1)
       jekyll (>= 3.6, < 5.0)
@@ -62,7 +62,7 @@ GEM
     eventmachine (1.2.7)
     fast-stemmer (1.0.2)
     fastimage (2.1.7)
-    ffi (1.11.1)
+    ffi (1.11.2)
     forwardable-extended (2.6.0)
     html-proofer (3.13.0)
       addressable (~> 2.3)
@@ -117,7 +117,7 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (4.0.1)
     rainbow (3.0.0)
-    rake (13.0.0)
+    rake (13.0.1)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -158,4 +158,4 @@ RUBY VERSION
    ruby 2.6.2p47
 
 BUNDLED WITH
-   1.17.2
+   1.17.3
