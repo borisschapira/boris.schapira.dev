@@ -97,7 +97,8 @@ scripts malgré vos manipulations, et refuseront de cautionner ces usages.
 Si cela ne vous convainc toujours pas, je vous encourage à
 [la surveillance minutieuse de votre Performance Web](https://www.dareboost.com/fr/).
 Si, ces parties tierces venaient à répondre de manière lente, alors cela
-ralentirait la perception que Google a de l'ensemble de votre domaine.
+pourrait ralentir la perception que Google a de l'ensemble de votre domaine, et
+provoquer l'affichage d'un badge "page lente".
 
 Nous savons déjà que
 [la dégradation de la Performance Web a un impact sur le ranking](https://blog.dareboost.com/fr/2018/01/google-speed-update-vitesse-ranking/).
