@@ -23,7 +23,7 @@ ultérieurement.
 -   J'ai suivi des études qui correspondaient à mes envies.
 -   J'ai fait des études supérieures me donnant accès à des emplois bien
     rémunérés.
--   J'ai eu la chance de choisir un métier d'ingénierie privilégié qui me 
+-   J'ai eu la chance de choisir un métier d'ingénierie privilégié qui me
     laissait faire du télé-travail, où trouver un travail est facile.
 -   Je peux avoir une conversation sérieuse avec n'importe quel·le anglophone.
 -   Je travaille dans un domaine qui me plait.
@@ -68,8 +68,7 @@ ultérieurement.
 -   J'ai toujours été bien dans mon genre, qui est mon genre de naissance, et
     celui-ci n'a jamais été ne serait-ce que discuté par mon entourage.
 -   La société ne m'a jamais fermé de portes en raison de mes capacités
-    physiques. Je vis sans subir le regard négatif de la société sur
-    mon corps.
+    physiques. Je vis sans subir le regard négatif de la société sur mon corps.
 -   J'ai un travail en CDI, avec un salaire brut fixe sur lequel je peux
     compter.
 -   En tant qu'homme, je suis statistiquement mieux payé que mes consoeurs, à
@@ -82,11 +81,12 @@ ultérieurement.
     s'il m'arrive quelque chose de grave, qu'il s'agisse de ma famille, de mes
     amis ou de connaissance professionnelles.
 -   J'ai voyagé dans plusieurs pays, rencontré plusieurs cultures.
--   Je suis né dans un pays avec un niveau de vie plus élevé que les autres,
-    ce qui facilite les voyages. Je peux passer 3 semaines de vacances au 
-    Cambodge, un Cambodgien ne peut pas facilement passer 3 semaines de 
-    vacances en France.
+-   Je suis né dans un pays avec un niveau de vie plus élevé que les autres, ce
+    qui facilite les voyages. Je peux passer 3 semaines de vacances au Cambodge,
+    un Cambodgien ne peut pas facilement passer 3 semaines de vacances en
+    France.
 -   J'ai pu avoir des enfants quand je les ai voulus.
 -   Mes enfants sont nés en bonne santé. Je ne m'inquiète pas aujourd'hui pour
     leur santé.
--   Mes parents comme ceux de ma femme sont encore en vie. Ils et elles nous soutiennent et sont présents pour nos enfants.
+-   Mes parents comme ceux de ma femme sont encore en vie. Ils et elles nous
+    soutiennent et sont présents pour nos enfants.
