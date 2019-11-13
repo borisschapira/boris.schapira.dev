@@ -47,7 +47,7 @@ l'organisation les envoie vers `43bdf.mon_domaine.com` puis s'assure que
 `43bdf.mon_domaine.com` pointe bien vers `mon_domaine.eulerian.net`.
 
 Le nombre de problèmes éthiques soulevés par cette pratique est important, mais
-elle pose aussi des problèmes de sécurités puisque, mal implémentée, elle peut
+elle pose aussi des problèmes de sécurité puisque, mal implémentée, elle peut
 transmettre des données de sessions à un tiers, permettant une usurpation de la
 session utilisateur, le vol de données critiques ou le défaçage de la
 plate-forme. Un risque que les prestataires se gardent bien de mettre en avant.
