@@ -11,7 +11,8 @@ translations:
     en: trackers-sur-votre-domaine-ca-en-danger
 ---
 
-News that may not seem related sometimes, in fact, are. If the law does not prevail, money will.
+News that may not seem related sometimes, in fact, are. If the law does not
+prevail, money will.
 
 ## 1<sup>st</sup> Party Trackers
 
@@ -28,7 +29,7 @@ News that may not seem related sometimes, in fact, are. If the law does not prev
 > party?
 
 Here is the introduction you can read on the page
-"[How To Avoid Missing Out On Data Due to GDPR TO AVOID MISSING OUT ON DATA DUE TO GDPR](https://www.eulerian.com/en/blog/tricks/avoid-missing-data-due-to-gdpr/)"
+"[How To Avoid Missing Out On Data Due to GDPR](https://www.eulerian.com/en/blog/tricks/avoid-missing-data-due-to-gdpr/)"
 on Eulerian's blog, one of the leading solutions for attribution (meaning,
 tracking).
 
