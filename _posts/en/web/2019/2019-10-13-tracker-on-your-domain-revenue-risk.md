@@ -86,7 +86,7 @@ If you work in an organization that is considering masking third parties in a
 
 If this is not enough for you, know that you will quickly lose experienced users
 who will develop and equip themselves with software that detect these scripts
-despite your manipulations, and will refuse to support these usages.
+despite your manipulations, and will refuse to condone these schemes.
 
 If you are still not convinced, I encourage you to
 [carefully monitor your Web Performance](https://www.dareboost.com/fr/). If
@@ -94,10 +94,10 @@ these third parties respond slowly, then it would slow Google's perception of
 your entire domain.
 
 We already know that
-[the degradation of Web Performance has an impact on ranking](https://blog.dareboost.com/fr/2018/01/google-speed-update-vitesse-ranking/).
-With Chrome's experiments, it will have an explicit impact on visits to your
-entire domain. We are no longer talking about people who will think that their
-connection may be temporarily poor, but about people who **will be notified by
-Google that your site is slow**, and will leave.
+[the degradation of Web Performance impacts ranking](https://blog.dareboost.com/fr/2018/01/google-speed-update-vitesse-ranking/).
+With Chrome's experiments, it could impact visits to your entire _origin_. We
+are no longer talking about people who will think that their connection may be
+temporarily poor, but about people who **will be notified by Google that your
+site is slow**, and will leave.
 
 Do you really want to take that risk?
