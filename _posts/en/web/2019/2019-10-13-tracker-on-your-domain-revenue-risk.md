@@ -46,7 +46,7 @@ The amount of ethical issues raised by this practice is significant, but it also
 raises security issues since, if not properly implemented, the manipulation can
 leak session data to a third party, leading to usurpation of the user session,
 critical data theft or defacing of the platform. A risk that tracking solutions
-providers are careful not to highlight.
+providers don't highlight so much.
 
 ## A "Slow Page" Badge on Chrome?
 
