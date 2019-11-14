@@ -89,7 +89,7 @@ who will develop and equip themselves with software that detect these scripts
 despite your manipulations, and will refuse to condone these schemes.
 
 If you are still not convinced, I encourage you to
-[carefully monitor your Web Performance](https://www.dareboost.com/fr/). If
+[carefully monitor your Web Performance](https://www.dareboost.com/en/). If
 these third parties respond slowly, then it would slow Google's perception of
 your entire domain.
 
