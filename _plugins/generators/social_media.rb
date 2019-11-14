@@ -112,7 +112,8 @@ module Jekyll
 
       twitter_nick = 'borisschapira'
       twitter_left = 64
-      if page.data["category"] == 'web'
+      p page.data
+      if page.data["layout"] == 'post' and page.data["tags"].include? 'Performance Web'
         twitter_nick = 'boostmarks'
         twitter_left = 98
       end
