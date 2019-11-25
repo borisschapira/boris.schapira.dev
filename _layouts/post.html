@@ -4,17 +4,35 @@ layout: default_no_pagination
 
 {% include post.html.liquid postPage=true post=page %}
 
-{% include post_footer.html.liquid
-  path=page.path
-  title=page.title
-  baseurl=page.baseurl
-  url=page.url
-  locale=page.locale
-  category=page.category
-  date=page.date
-  serie=page.serie
-%}
+{%- assign source = page.path | split: '/'  -%}
+{%- assign title_encoded = page.title | url_encode  -%}
+{%- capture url  -%}{{ page.url | absolute_url }}{%- endcapture  -%}
 
+<footer class="post-footer">
+  {%- if page.serie  -%}
+    {%- assign series_posts = site.tags[page.serie] | where:"locale", page.locale }
+    {%- assign series_posts_size = series_posts | size  -%}
+    {%- if series_posts_size >= 2  -%}
+      <div class="serie">
+      {%- assign serie_slug = page.serie | slugify  -%}
+      <p>{{ 'Cet article fait partie de la série "[%s](/tag/%s)".' | t: page.locale | replace: '%s', serie_slug | markdownify }} {{ "Ne ratez pas ces autres articles :" | t: page.locale }}</p>
+      <ul>
+      {%- for p in series_posts  -%}
+        {%- unless p.url==page.url  -%}
+        <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+        {%- endunless  -%}
+      {%- endfor  -%}
+      </ul>
+      </div>
+    {%- endif  -%}
+  {%- endif  -%}
+  <div class="contrib">
+    <p>
+      {{ "Si vous détectez une erreur et que vous avez un compte Github" | t: page.locale }}, {{ "vous pouvez proposer une" | t: page.locale }} <a rel="nofollow" href="{{ site.author.github|raw }}/borisschapira.com/tree/master/_posts/{{ page.locale | downcase }}/{{ page.category | downcase }}/{{ page.date | date: "%Y" }}/{{ source.last }}">{{ "modification des" | t: page.locale }} <span class="nowrap">{{ "sources" | t: page.locale }}</span></a>
+      {{ "ou ouvrir un" | t: page.locale }} <a class="nowrap" href="{{ site.author.github|raw }}/borisschapira.com/issues/new?title=Article%20%22{{page.url}}%22" rel="nofollow">{{ "ticket" | t: page.locale }}</a>.
+    </p>
+  </div>
+</footer>
 {% comment %}
 {% assign related_locale = site.related_posts | where:"locale", page.locale %}
 {% assign related_locale_notnav = "" | split:"" %}
@@ -25,7 +43,23 @@ layout: default_no_pagination
     {% endunless %}
   {% endunless %}
 {% endfor %}
-{% include post_related.html.liquid posts=related_locale_notnav %}
+{%- if related_locale_notnav.size >= 1  -%}
+<div class="related">
+    <h2>{{ "Ces articles peuvent également vous intéresser" | t: include.locale }}</h2>
+    <ul>
+    {%- for related in include.posts limit: 5  -%}
+        <li class="relatedPost">
+            <a href="{{ related.url }}">{{ related.title }}
+            {%- if related.series  -%}
+                ({{ "Série" | t: include.locale }}: {{ related.series }})
+            {%- endif  -%}
+            </a>
+        </li>
+    {%- endfor  -%}
+    </ul>
+</div>
+{%- endif  -%}
+
 {% endcomment %}
 
 {% include comments.html.liquid slug=page.slug url=page.url locale=page.locale %}
