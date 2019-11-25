@@ -319,7 +319,7 @@
   count: 1
 - name: boostmarks
   slug: boostmarks
-  count: 587
+  count: 589
 - name: Boostrap
   slug: boostrap
   count: 2
@@ -382,7 +382,7 @@
   count: 2
 - name: cache
   slug: cache
-  count: 17
+  count: 18
 - name: Cache
   slug: cache
   count: 1
@@ -1753,7 +1753,7 @@
   count: 1
 - name: javascript
   slug: javascript
-  count: 2
+  count: 3
 - name: jekyll
   slug: jekyll
   count: 2
