@@ -72,7 +72,7 @@ ultérieurement.
 -   J'ai un travail en CDI, avec un salaire brut fixe sur lequel je peux
     compter.
 -   En tant qu'homme, je suis statistiquement mieux payé que mes consoeurs, à
-    compétences équivalentes, et ait plus de facilités à décrocher des emplois
+    compétences équivalentes, et j'ai plus de facilités à décrocher des emplois
     mieux rémunérés.
 -   J'ai toujours vécu dans une maison, eu de quoi manger, un accès à de l'eau
     chaude. J'ai rarement eu froid, et jamais parce que je ne pouvais pas payer
