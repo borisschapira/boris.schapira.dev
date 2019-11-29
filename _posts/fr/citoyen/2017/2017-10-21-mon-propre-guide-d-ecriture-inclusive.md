@@ -33,9 +33,12 @@ règles.
 Je suis intimement convaincu que l'écriture inclusive n'est pas un problème pour
 la lecture d'un grand nombre de personnes valides.
 
-Les textes ci-dessous, par exemple, sont difficiles à lire, mais ce n'est pas impossible. Au fil de la lecture, le cerveau est en mesure de s'adapter et rapidement, oublie la graphie particulière :
+Les textes ci-dessous, par exemple, sont difficiles à lire, mais ce n'est pas
+impossible. Au fil de la lecture, le cerveau est en mesure de s'adapter et
+rapidement, oublie la graphie particulière :
 
-> Ça mrahce tèrs bein aevc un txtee éicrt cmome ça. Du memomnt que la pmrerièe et la dreinère lrette snot les bnones.
+> Ça mrahce tèrs bein aevc un txtee éicrt cmome ça. Du memomnt que la pmrerièe
+> et la dreinère lrette snot les bnones.
 
 D'ailleurs cela "marche" aussi :
 

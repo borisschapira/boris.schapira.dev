@@ -10,9 +10,9 @@ layout: default_no_pagination
 
 <footer class="post-footer">
   {%- if page.serie  -%}
-    {%- assign series_posts = site.tags[page.serie] | where:"locale", page.locale }
-    {%- assign series_posts_size = series_posts | size  -%}
-    {%- if series_posts_size >= 2  -%}
+    {%- assign series_posts = site.tags[page.serie] | where:"locale", page.locale -%}
+    {%- assign series_posts_size = series_posts | size -%}
+    {%- if series_posts_size >= 2 -%}
       <div class="serie">
       {%- assign serie_slug = page.serie | slugify  -%}
       <p>{{ 'Cet article fait partie de la série "[%s](/tag/%s)".' | t: page.locale | replace: '%s', serie_slug | markdownify }} {{ "Ne ratez pas ces autres articles :" | t: page.locale }}</p>

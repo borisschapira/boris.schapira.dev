@@ -62,7 +62,7 @@ GEM
     eventmachine (1.2.7)
     fast-stemmer (1.0.2)
     fastimage (2.1.7)
-    ffi (1.11.2)
+    ffi (1.11.3)
     forwardable-extended (2.6.0)
     html-proofer (3.14.1)
       addressable (~> 2.3)

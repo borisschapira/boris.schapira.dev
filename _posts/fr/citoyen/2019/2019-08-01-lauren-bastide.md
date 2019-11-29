@@ -38,8 +38,8 @@ similaire mais cette fois appliqué aux chercheuses, afin de montrer que oui, le
 femmes sont aussi présentes et distinguées dans le monde scientifique. Si vous
 n'avez jamais écouté cette émission, je vous la recommande également.
 
-Blanche, blonde, obéissant aux canons de la beauté occidentaux, Lauren Bastide
-incarne, extérieurement, la norme. Elle ne _parait_ pas subversive. Ce
+Blanche, blonde, correspondant aux canons de la beauté occidentaux, Lauren
+Bastide incarne, extérieurement, la norme. Elle ne _parait_ pas subversive. Ce
 privilège, elle pourrait l'utiliser pour elle-même, en se conformant à des
 stéréotypes sexistes (comme on lui a suggéré, d'ailleurs, au Grand Journal – cf.
 l'interview ci-dessous). À la place, elle l'utilise pour offrir la parole qu'on
