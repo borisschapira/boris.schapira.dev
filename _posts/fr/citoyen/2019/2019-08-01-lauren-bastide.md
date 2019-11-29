@@ -20,9 +20,9 @@ dans laquelle elle interview avec beaucoup de talent des femmes inspirantes.
 Artistes, intellectuelles, activistes… en quelques mots, elle arrive à créer un
 cocon _safe_ leur permettant d'aborder librement leur enfance, leur parcours
 professionnel, leurs objectifs et la place du féminisme dans leur vie. Chaque
-épisode est d'une qualité folle, et je suis sans cesse effaré par la
-(re)découverte dont je pensais pourtant avoir une vague idée du parcours. Le
-vivre au travers de leur témoignage est une toute autre expérience.
+épisode est d'une qualité folle et je suis sans cesse effaré par la
+(re)découverte de personnes dont je pensais pourtant avoir une vague idée du
+parcours. Le vivre au travers de leur témoignage est une toute autre expérience.
 
 {% capture img_alt %}Bandeau avec le logo de La
 Poudre{% endcapture %}{% include rwd-image.html.liquid
