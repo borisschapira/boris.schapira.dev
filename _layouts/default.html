@@ -2,7 +2,7 @@
 layout: microtypo
 ---
 <!DOCTYPE html>
-<html lang="{{ page.locale | default: site.locale | default: "fr_FR" }}">
+<html lang="{{ page.locale | default: site.locale | default: "fr" }}">
   <head>
     <!-- nomicrotypo -->
 
@@ -221,6 +221,9 @@ layout: microtypo
         </div>
       </footer>
     </div>
+    {%- if page.locale == "fr" -%}
+      {%- include strikebanner.html.liquid -%}
+    {%- endif -%}
     {%- comment -%} -----------------------------
     --------------  Footer ----------------------
     ----------------------------{%- endcomment -%}

@@ -93,6 +93,8 @@
     - value: "cdn.jsdelivr.net"
       comment: "Algolia – for search"
       specific: "search"
+    - value: "fonts.googleapis.com"
+      comment: "strike512"
 - name: img-src
   values:
     - value: "'self'"

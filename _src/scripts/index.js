@@ -5,6 +5,7 @@ import { ready, perfmark } from './subscripts/utils';
 import './subscripts/savedataSwitchImages';
 import './subscripts/localstorageSaveLang';
 import './subscripts/localstorageSaveDarkMode';
+import './subscripts/strike512';
 import './subscripts/footnotesAlternatives';
 import { abbrTouch } from './vendors/abbr-touch';
 
