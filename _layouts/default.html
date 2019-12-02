@@ -56,9 +56,10 @@ layout: microtypo
     {% endif %}
     <link rel="alternate" type="application/rss+xml" href="{{ feed_url | prepend: page.baseurl | relative_url }}">
 
-    {% if page.translation %}
+    {%- if page.translation -%}
     <link rel="alternate" hreflang="{{ page.translation.locale }}" href="{{ page.translation.url | absolute_url }}"/>
-    {% endif %}
+    {%- endif -%}
+    <link rel="alternate" hreflang="{{ page.locale }}" href="{{ page.url | absolute_url }}"/>
 
     {% if site.norobots or page.norobots %}
     <meta name="robots" content="noindex,nofollow">
