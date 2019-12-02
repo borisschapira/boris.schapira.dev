@@ -1916,6 +1916,9 @@
 - name: load
   slug: load
   count: 1
+- name: load-testing
+  slug: load-testing
+  count: 1
 - name: loader
   slug: loader
   count: 1
@@ -3022,7 +3025,7 @@
   count: 1
 - name: sharemarks
   slug: sharemarks
-  count: 1094
+  count: 1095
 - name: SharePoint
   slug: sharepoint
   count: 1
@@ -3403,7 +3406,7 @@
   count: 3
 - name: tooling
   slug: tooling
-  count: 2
+  count: 3
 - name: toolkit
   slug: toolkit
   count: 1
