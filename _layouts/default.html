@@ -57,7 +57,7 @@ layout: microtypo
     <link rel="alternate" type="application/rss+xml" href="{{ feed_url | prepend: page.baseurl | relative_url }}">
 
     {% if page.translation %}
-    <link rel="alternate" hreflang="{{ page.translation.locale }}" href="{{ page.translation.url }}"/>
+    <link rel="alternate" hreflang="{{ page.translation.locale }}" href="{{ page.translation.url | absolute_url }}"/>
     {% endif %}
 
     {% if site.norobots or page.norobots %}
