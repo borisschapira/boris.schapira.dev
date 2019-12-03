@@ -1,5 +1,5 @@
 <!-- --------------------------------------- -->
-<!-- ---------- Banner starts here --------- -->
+<!-- - Commencer à copier à partir de là --- -->
 <!-- --------------------------------------- -->
 <link href="https://fonts.googleapis.com/css?family=Homemade+Apple&display=swap&txt=pournteavei!" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Pangolin&display=swap&txt=5décembreGRÈVENAL" rel="stylesheet">
@@ -127,12 +127,20 @@
   .strike512-fist4 {
     color: red
   }
-</style>
-<noscript><style>
-  .strike512-container {
-    display: flex;
+
+  a.strike512-copylink {
+    color: white;
+    font-size: 0.9rem;
+    text-align: right;
+    position: absolute;
+    bottom: 2rem;
+    right: 2rem;
   }
-</style></noscript>
+
+  a.strike512-copylink:visited {
+    color: yellow;
+  }
+</style>
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
     <symbol id="fist" viewBox="0 0 100 100" fill="currentColor">
         <path d="M-192 0H-7v99h-185zM0-36h100v30H0z"/>
@@ -198,7 +206,7 @@
 </svg>
 <input type="checkbox" class="strike512-closeinput" id="strike512-close" />
 <div class="strike512-container">
-  <label class="strike512-closelabel" for="strike512-close" alt="fermer" aria-label="Fermer">✗</label>
+  <label class="strike512-closelabel" for="strike512-close" alt="fermer" aria-label="Masquer">✗</label>
   <div class="strike512-textcontainer">
     <span class="strike512-line strike512-line1">5 décembre 2019</span>
     <span class="strike512-line strike512-line2">Grève Générale</span>
@@ -209,8 +217,9 @@
     <svg class="strike512-fist strike512-fist2" width="23" height="23"><use xlink:href="#fist" /></svg>
     <svg class="strike512-fist strike512-fist3" width="23" height="23"><use xlink:href="#fist" /></svg>
     <svg class="strike512-fist strike512-fist4" width="23" height="23"><use xlink:href="#fist" /></svg>
+    <a class="strike512-copylink" href="https://codepen.io/borisschapira/pen/NWPKXdv?editors=1000">copier le code de cette bannière</a>
   </div>
 </div>
 <!-- --------------------------------------- -->
-<!-- --------- Banner ends here ------------ -->
+<!-- -------- Et voilà, c'est fini ! ------- -->
 <!-- --------------------------------------- -->
