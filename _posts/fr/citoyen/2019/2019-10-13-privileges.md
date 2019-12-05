@@ -1,6 +1,5 @@
 ---
 title: 'Mes privilèges'
-subtitle: ''
 tags:
     - Égalité
 ---
