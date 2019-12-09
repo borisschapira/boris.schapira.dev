@@ -209,7 +209,8 @@ ins {
   border: 1px dashed var(--lightgray-color);
   &.bloc {
     display: block;
-    padding: 15px 15px 2em 15px;
+    padding: 1rem 1rem 2rem 1rem;
+    border: .25rem dotted var(--color-main);
     position: relative;
 
     &::after {
