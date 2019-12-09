@@ -58,7 +58,7 @@
     "babel-loader": "^8.0.6",
     "concat-cli": "^4.0.0",
     "csswring": "^7.0.0",
-    "easy-toggle-state": "^1.12.3",
+    "easy-toggle-state": "^1.12.4",
     "eslint": "^6.7.2",
     "eslint-config-prettier": "^6.7.0",
     "eslint-plugin-chai-expect": "^2.0.1",
