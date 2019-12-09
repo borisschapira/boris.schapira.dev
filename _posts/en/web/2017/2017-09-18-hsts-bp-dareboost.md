@@ -133,7 +133,7 @@ following set of requirements:
         <del datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">10886400
         seconds (18 weeks)</del>
         <ins datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">31536000
-        seconds (a year)</ins[^twalle].
+        seconds (a year)</ins>[^twalle].
     -   The directive header must include the subdomains.
     -   The preload directive must be specified.
     -   If you are serving an additional redirect from your HTTPS site, that
