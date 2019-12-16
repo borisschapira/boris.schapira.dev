@@ -16,7 +16,7 @@ module Jekyll
               post.data['next_context'] = nil
             else
               post.data['next_context'] = {
-                'title' => locale_cat_posts[index - 1].data['title'], 
+                'title' => locale_cat_posts[index - 1].data['title'].gsub('"', '&quot;'),
                 'url' => locale_cat_posts[index - 1].url
               }
             end
@@ -25,7 +25,7 @@ module Jekyll
               post.data['prev_context'] = nil
             else
               post.data['prev_context'] = {
-                'title' => locale_cat_posts[index + 1].data['title'], 
+                'title' => locale_cat_posts[index + 1].data['title'].gsub('"', '&quot;'),
                 'url' => locale_cat_posts[index + 1].url
               }
             end

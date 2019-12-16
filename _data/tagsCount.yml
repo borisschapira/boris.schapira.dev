@@ -4,7 +4,7 @@
   count: 12
 - name: a11y
   slug: a11y
-  count: 7
+  count: 8
 - name: ab-testing
   slug: ab-testing
   count: 3
@@ -319,7 +319,7 @@
   count: 1
 - name: boostmarks
   slug: boostmarks
-  count: 592
+  count: 593
 - name: Boostrap
   slug: boostrap
   count: 2
@@ -568,7 +568,7 @@
   count: 1
 - name: color
   slug: color
-  count: 7
+  count: 8
 - name: Color
   slug: color
   count: 1
@@ -682,7 +682,7 @@
   count: 2
 - name: contrast
   slug: contrast
-  count: 2
+  count: 3
 - name: Contraste
   slug: contraste
   count: 1
@@ -793,7 +793,7 @@
   count: 1
 - name: culture
   slug: culture
-  count: 5
+  count: 6
 - name: curation
   slug: curation
   count: 1
@@ -1636,7 +1636,7 @@
   count: 1
 - name: inclusion
   slug: inclusion
-  count: 2
+  count: 3
 - name: inclusive
   slug: inclusive
   count: 3
@@ -3028,7 +3028,7 @@
   count: 1
 - name: sharemarks
   slug: sharemarks
-  count: 1096
+  count: 1097
 - name: SharePoint
   slug: sharepoint
   count: 1
@@ -3728,6 +3728,9 @@
 - name: web
   slug: web
   count: 64
+- name: web-for-all
+  slug: web-for-all
+  count: 1
 - name: web-workers
   slug: web-workers
   count: 2
