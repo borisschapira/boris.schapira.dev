@@ -22,8 +22,9 @@ ultérieurement.
 -   J'ai suivi des études qui correspondaient à mes envies.
 -   J'ai fait des études supérieures me donnant accès à des emplois bien
     rémunérés.
--   J'ai eu la chance de choisir un métier d'ingénierie privilégié qui me
-    laissait faire du télé-travail, où trouver un travail est facile.
+-   Mon métier est valorisé par la société, il est bien rémunéré. Ses modalités
+    sont pratiques et autorisent le télétravail. La demande est forte, trouver
+    un travail est plus facile que dans d'autres branches.
 -   Je peux avoir une conversation sérieuse avec n'importe quel·le anglophone.
 -   Je travaille dans un domaine qui me plait.
 -   Les frais relatifs à mes études ont été couverts par mes parents et par la
@@ -64,6 +65,9 @@ ultérieurement.
 -   Je n'ai jamais eu besoin de cacher qui je suis ou ce en quoi je crois. Ma
     survie ou même mon intégrité physique a rarement été mise en danger dans
     l'espace public.
+-   Je suis libre d'exprimer mes opinions politiques sans conséquences sur ma
+    santé ou ma sécurité. L'impact de cette expression sur mon cadre
+    professionnel n'est pas nul, mais il n'est pas non plus critique.
 -   J'ai toujours été bien dans mon genre, qui est mon genre de naissance, et
     celui-ci n'a jamais été ne serait-ce que discuté par mon entourage.
 -   La société ne m'a jamais fermé de portes en raison de mes capacités
