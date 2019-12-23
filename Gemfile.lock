@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/Shopify/liquid.git
-  revision: 57c9cf64ebc777fe5e92d4408d31a911f087eeb4
+  revision: b7f0f158ab3f5c8c51baea00418a275380a1ff9c
   branch: master
   specs:
     liquid (4.0.3)
@@ -51,7 +51,7 @@ GEM
     classifier-reborn (2.2.0)
       fast-stemmer (~> 1.0)
     colorator (1.1.0)
-    commonmarker (0.20.1)
+    commonmarker (0.20.2)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.5)
     em-websocket (0.5.1)
