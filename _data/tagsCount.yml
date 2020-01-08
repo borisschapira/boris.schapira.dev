@@ -319,7 +319,7 @@
   count: 1
 - name: boostmarks
   slug: boostmarks
-  count: 593
+  count: 594
 - name: Boostrap
   slug: boostrap
   count: 2
@@ -824,6 +824,9 @@
 - name: Dark
   slug: dark
   count: 1
+- name: dark-mode
+  slug: dark-mode
+  count: 1
 - name: dark-patterns
   slug: dark-patterns
   count: 1
@@ -937,7 +940,7 @@
   count: 1
 - name: digital
   slug: digital
-  count: 1
+  count: 2
 - name: Digital
   slug: digital
   count: 1
@@ -1000,7 +1003,7 @@
   count: 2
 - name: ecology
   slug: ecology
-  count: 1
+  count: 2
 - name: ecommerce
   slug: ecommerce
   count: 25
@@ -1027,7 +1030,7 @@
   count: 1
 - name: email
   slug: email
-  count: 14
+  count: 15
 - name: Emailing
   slug: emailing
   count: 1
@@ -1423,6 +1426,9 @@
   count: 2
 - name: graphs
   slug: graphs
+  count: 1
+- name: green-it
+  slug: green-it
   count: 1
 - name: grid
   slug: grid
@@ -2423,6 +2429,9 @@
 - name: Patterns
   slug: patterns
   count: 5
+- name: payload
+  slug: payload
+  count: 1
 - name: payment
   slug: payment
   count: 2
@@ -3007,7 +3016,7 @@
   count: 1
 - name: service-workers
   slug: service-workers
-  count: 2
+  count: 3
 - name: Services
   slug: services
   count: 1
@@ -3028,7 +3037,7 @@
   count: 1
 - name: sharemarks
   slug: sharemarks
-  count: 1098
+  count: 1100
 - name: SharePoint
   slug: sharepoint
   count: 1
