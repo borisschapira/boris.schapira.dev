@@ -319,7 +319,7 @@
   count: 1
 - name: boostmarks
   slug: boostmarks
-  count: 594
+  count: 595
 - name: Boostrap
   slug: boostrap
   count: 2
@@ -358,7 +358,7 @@
   count: 2
 - name: budgets
   slug: budgets
-  count: 1
+  count: 2
 - name: Bug
   slug: bug
   count: 1
@@ -1408,7 +1408,7 @@
   count: 2
 - name: governance
   slug: governance
-  count: 18
+  count: 19
 - name: Gow
   slug: gow
   count: 1
