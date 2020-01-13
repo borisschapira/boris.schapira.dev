@@ -80,7 +80,7 @@
     "prettier": "^1.19.1",
     "purify-css": "^1.2.5",
     "rimraf": "^3.0.0",
-    "sass-loader": "^8.0.0",
+    "sass-loader": "^8.0.1",
     "touchtap-event": "^2.0.2",
     "uglify-es": "github:mishoo/UglifyJS2#harmony",
     "var": "^0.4.0",
