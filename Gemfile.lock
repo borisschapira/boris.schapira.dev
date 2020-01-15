@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/Shopify/liquid.git
-  revision: 48a155a21310631c90b6ab2d73348be948ddb212
+  revision: dbaef5e79bd865a8082c63053e73bb6ce2c7b44f
   branch: master
   specs:
     liquid (4.0.3)
@@ -62,7 +62,7 @@ GEM
     eventmachine (1.2.7)
     fast-stemmer (1.0.2)
     fastimage (2.1.7)
-    ffi (1.11.3)
+    ffi (1.12.1)
     forwardable-extended (2.6.0)
     html-proofer (3.15.0)
       addressable (~> 2.3)
@@ -123,7 +123,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rouge (3.14.0)
+    rouge (3.15.0)
     ruby-enum (0.7.2)
       i18n
     safe_yaml (1.0.5)
