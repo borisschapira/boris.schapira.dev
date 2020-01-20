@@ -1,7 +1,7 @@
 ---
 - name: 3p
   slug: 3p
-  count: 12
+  count: 14
 - name: a11y
   slug: a11y
   count: 8
@@ -113,6 +113,9 @@
 - name: api
   slug: api
   count: 28
+- name: api-platform
+  slug: api-platform
+  count: 1
 - name: app
   slug: app
   count: 2
@@ -221,6 +224,9 @@
 - name: Back-End
   slug: back-end
   count: 4
+- name: backend
+  slug: backend
+  count: 1
 - name: background
   slug: background
   count: 1
@@ -319,7 +325,7 @@
   count: 1
 - name: boostmarks
   slug: boostmarks
-  count: 594
+  count: 606
 - name: Boostrap
   slug: boostrap
   count: 2
@@ -358,7 +364,7 @@
   count: 2
 - name: budgets
   slug: budgets
-  count: 1
+  count: 2
 - name: Bug
   slug: bug
   count: 1
@@ -446,6 +452,9 @@
 - name: center
   slug: center
   count: 1
+- name: certificates
+  slug: certificates
+  count: 1
 - name: certification
   slug: certification
   count: 1
@@ -466,7 +475,7 @@
   count: 1
 - name: charts
   slug: charts
-  count: 2
+  count: 3
 - name: Charts
   slug: charts
   count: 1
@@ -640,7 +649,7 @@
   count: 2
 - name: conference
   slug: conference
-  count: 3
+  count: 4
 - name: Conference
   slug: conference
   count: 1
@@ -838,7 +847,7 @@
   count: 5
 - name: data
   slug: data
-  count: 28
+  count: 29
 - name: database
   slug: database
   count: 1
@@ -994,6 +1003,9 @@
   count: 1
 - name: early-flush
   slug: early-flush
+  count: 1
+- name: ebay
+  slug: ebay
   count: 1
 - name: eBook
   slug: ebook
@@ -1157,6 +1169,9 @@
 - name: Expressions
   slug: expressions
   count: 2
+- name: extended-validation
+  slug: extended-validation
+  count: 1
 - name: Extension
   slug: extension
   count: 2
@@ -1282,7 +1297,7 @@
   count: 2
 - name: fonts
   slug: fonts
-  count: 41
+  count: 42
 - name: footnotes
   slug: footnotes
   count: 1
@@ -1369,7 +1384,7 @@
   count: 1
 - name: gatsby
   slug: gatsby
-  count: 1
+  count: 2
 - name: generator
   slug: generator
   count: 7
@@ -1402,13 +1417,13 @@
   count: 1
 - name: google
   slug: google
-  count: 20
+  count: 21
 - name: GoogleApis
   slug: googleapis
   count: 2
 - name: governance
   slug: governance
-  count: 18
+  count: 20
 - name: Gow
   slug: gow
   count: 1
@@ -1579,7 +1594,7 @@
   count: 1
 - name: hugo
   slug: hugo
-  count: 7
+  count: 8
 - name: humain
   slug: humain
   count: 1
@@ -1625,12 +1640,15 @@
 - name: ieee754
   slug: ieee754
   count: 2
+- name: image
+  slug: image
+  count: 1
 - name: Image
   slug: image
   count: 3
 - name: images
   slug: images
-  count: 28
+  count: 29
 - name: img
   slug: img
   count: 2
@@ -1786,7 +1804,7 @@
   count: 1
 - name: js
   slug: js
-  count: 199
+  count: 200
 - name: jshint
   slug: jshint
   count: 1
@@ -1843,7 +1861,7 @@
   count: 1
 - name: lazy-loading
   slug: lazy-loading
-  count: 3
+  count: 4
 - name: lazyload
   slug: lazyload
   count: 6
@@ -1969,6 +1987,9 @@
   count: 1
 - name: lorem
   slug: lorem
+  count: 1
+- name: lquip
+  slug: lquip
   count: 1
 - name: m-commerce
   slug: m-commerce
@@ -2227,6 +2248,9 @@
   count: 1
 - name: 'No'
   slug: 'no'
+  count: 1
+- name: no-js
+  slug: no-js
   count: 1
 - name: node
   slug: node
@@ -2620,7 +2644,7 @@
   count: 3
 - name: proxy
   slug: proxy
-  count: 2
+  count: 3
 - name: Proxy
   slug: proxy
   count: 1
@@ -2689,7 +2713,7 @@
   count: 1
 - name: react
   slug: react
-  count: 19
+  count: 20
 - name: React
   slug: react
   count: 3
@@ -2807,11 +2831,20 @@
 - name: retina
   slug: retina
   count: 1
+- name: reveal
+  slug: reveal
+  count: 1
 - name: revenge
   slug: revenge
   count: 1
+- name: reverse-proxy
+  slug: reverse-proxy
+  count: 1
 - name: reversibilité
   slug: reversibilite
+  count: 1
+- name: revocation
+  slug: revocation
   count: 1
 - name: revolution
   slug: revolution
@@ -3037,7 +3070,7 @@
   count: 1
 - name: sharemarks
   slug: sharemarks
-  count: 1100
+  count: 1104
 - name: SharePoint
   slug: sharepoint
   count: 1
@@ -3088,7 +3121,7 @@
   count: 2
 - name: slides
   slug: slides
-  count: 6
+  count: 7
 - name: Slides
   slug: slides
   count: 1
@@ -3178,7 +3211,7 @@
   count: 2
 - name: ssl
   slug: ssl
-  count: 6
+  count: 7
 - name: SSL
   slug: ssl
   count: 1
@@ -3211,7 +3244,7 @@
   count: 2
 - name: static
   slug: static
-  count: 15
+  count: 16
 - name: Static
   slug: static
   count: 2
@@ -3298,7 +3331,7 @@
   count: 1
 - name: symfony
   slug: symfony
-  count: 14
+  count: 15
 - name: Symfony
   slug: symfony
   count: 9
@@ -3334,6 +3367,9 @@
   count: 1
 - name: tbt
   slug: tbt
+  count: 1
+- name: teaching
+  slug: teaching
   count: 1
 - name: team
   slug: team
@@ -3424,7 +3460,7 @@
   count: 1
 - name: tools
   slug: tools
-  count: 24
+  count: 26
 - name: Tools
   slug: tools
   count: 8
@@ -3595,7 +3631,7 @@
   count: 1
 - name: ux
   slug: ux
-  count: 58
+  count: 59
 - name: uxdesign
   slug: uxdesign
   count: 1
@@ -3610,7 +3646,7 @@
   count: 1
 - name: validation
   slug: validation
-  count: 4
+  count: 5
 - name: validator
   slug: validator
   count: 1
@@ -3757,6 +3793,9 @@
   count: 1
 - name: WebKit
   slug: webkit
+  count: 1
+- name: webp
+  slug: webp
   count: 1
 - name: WebP
   slug: webp
