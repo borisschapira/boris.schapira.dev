@@ -325,7 +325,7 @@
   count: 1
 - name: boostmarks
   slug: boostmarks
-  count: 606
+  count: 607
 - name: Boostrap
   slug: boostrap
   count: 2
@@ -1804,7 +1804,7 @@
   count: 1
 - name: js
   slug: js
-  count: 200
+  count: 201
 - name: jshint
   slug: jshint
   count: 1
@@ -2270,6 +2270,9 @@
 - name: Noel
   slug: noel
   count: 1
+- name: nojs
+  slug: nojs
+  count: 1
 - name: Nokia
   slug: nokia
   count: 1
@@ -2713,7 +2716,7 @@
   count: 1
 - name: react
   slug: react
-  count: 20
+  count: 21
 - name: React
   slug: react
   count: 3
@@ -3775,6 +3778,9 @@
   count: 64
 - name: web-for-all
   slug: web-for-all
+  count: 1
+- name: web-standards
+  slug: web-standards
   count: 1
 - name: web-workers
   slug: web-workers
