@@ -15,7 +15,6 @@ defaults:
       locale: fr
       baseurl: "/"
       by: 'Boris Schapira'
-      aside: false
       robots:
         noindex: false
         nofollow: false
@@ -24,12 +23,6 @@ defaults:
       path: "_pages"
     values:
       type: pages
-  -
-    scope:
-      path: "_pages"
-      layout: index
-    values:
-      aside: true
   -
     scope:
       path: "_pages/fr"
