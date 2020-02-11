@@ -9,7 +9,7 @@
 
 .container, .nav-footer, .nav-header {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
+  grid-template-columns: repeat(12, minmax(0, 1fr));
   padding: 0 2rem;
   gap: 2rem; }
   @media (max-width: 480px) {
