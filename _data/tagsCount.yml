@@ -325,7 +325,7 @@
   count: 1
 - name: boostmarks
   slug: boostmarks
-  count: 607
+  count: 609
 - name: Boostrap
   slug: boostrap
   count: 2
@@ -454,7 +454,7 @@
   count: 1
 - name: certificates
   slug: certificates
-  count: 1
+  count: 2
 - name: certification
   slug: certification
   count: 1
@@ -1117,7 +1117,7 @@
   count: 1
 - name: ev
   slug: ev
-  count: 1
+  count: 2
 - name: Evaluation
   slug: evaluation
   count: 1
@@ -1553,6 +1553,9 @@
 - name: hooks
   slug: hooks
   count: 1
+- name: hosting
+  slug: hosting
+  count: 1
 - name: hosts
   slug: hosts
   count: 1
@@ -1588,7 +1591,7 @@
   count: 1
 - name: https
   slug: https
-  count: 10
+  count: 11
 - name: hubot
   slug: hubot
   count: 1
@@ -1999,7 +2002,7 @@
   count: 1
 - name: magento
   slug: magento
-  count: 1
+  count: 2
 - name: Magento
   slug: magento
   count: 1
@@ -3664,6 +3667,9 @@
   count: 1
 - name: variable-fonts
   slug: variable-fonts
+  count: 1
+- name: varnish
+  slug: varnish
   count: 1
 - name: Varnish
   slug: varnish
