@@ -85,7 +85,7 @@
     "uglify-es": "github:mishoo/UglifyJS2#harmony",
     "var": "^0.4.0",
     "webpack": "^4.41.6",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.11"
   },
   "optionalDependencies": {
     "mocha": "^7.0.1",
