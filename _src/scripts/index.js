@@ -2,7 +2,7 @@ import 'easy-toggle-state';
 import 'touchtap-event';
 import { ready, perfmark } from './subscripts/utils';
 
-import './subscripts/savedataSwitchImages';
+import './subscripts/savedata';
 import './subscripts/localstorageSaveLang';
 import './subscripts/localstorageSaveDarkMode';
 import './subscripts/strike512';
