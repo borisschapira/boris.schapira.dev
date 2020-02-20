@@ -4,11 +4,14 @@
 ************************************************/
 (function saveData() {
   let saveData = false;
-  if (window.matchMedia('(prefers-reduced-data: reduce)')) {
+  let prefersReducedData = window.matchMedia('(prefers-reduced-data: reduce)');
+  if (prefersReducedData.matches) {
+    console.info('(prefers-reduced-data: reduce) media query detected');
     saveData = true;
   }
   if ('connection' in navigator) {
     if (navigator.connection.saveData == true) {
+      console.info('save-data connection');
       saveData = true;
     }
   }
