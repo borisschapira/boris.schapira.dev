@@ -325,7 +325,7 @@
   count: 1
 - name: boostmarks
   slug: boostmarks
-  count: 609
+  count: 614
 - name: Boostrap
   slug: boostrap
   count: 2
@@ -790,7 +790,7 @@
   count: 2
 - name: css
   slug: css
-  count: 107
+  count: 109
 - name: CSS
   slug: css
   count: 2
@@ -1208,6 +1208,9 @@
 - name: favicon
   slug: favicon
   count: 1
+- name: feature-policy
+  slug: feature-policy
+  count: 1
 - name: feedback
   slug: feedback
   count: 8
@@ -1397,6 +1400,9 @@
 - name: Geolocalisation
   slug: geolocalisation
   count: 2
+- name: geolocation
+  slug: geolocation
+  count: 1
 - name: gif
   slug: gif
   count: 8
@@ -1426,7 +1432,7 @@
   count: 2
 - name: governance
   slug: governance
-  count: 20
+  count: 21
 - name: Gow
   slug: gow
   count: 1
@@ -1654,7 +1660,7 @@
   count: 3
 - name: images
   slug: images
-  count: 29
+  count: 31
 - name: img
   slug: img
   count: 2
@@ -2072,6 +2078,9 @@
 - name: Media
   slug: media
   count: 4
+- name: media-queries
+  slug: media-queries
+  count: 2
 - name: medias
   slug: medias
   count: 1
@@ -3079,7 +3088,7 @@
   count: 1
 - name: sharemarks
   slug: sharemarks
-  count: 1106
+  count: 1108
 - name: SharePoint
   slug: sharepoint
   count: 1
@@ -3824,6 +3833,9 @@
 - name: webpef
   slug: webpef
   count: 2
+- name: webperf
+  slug: webperf
+  count: 1
 - name: WebRTC
   slug: webrtc
   count: 2
