@@ -206,7 +206,7 @@ blockquote,
 ins {
   padding: 3px;
   text-decoration: none;
-  border: 1px dashed var(--lightgray-color);
+  border: 1px dashed var(--color-main-grayfade);
   &.bloc {
     display: block;
     padding: 1rem 1rem 2rem 1rem;
@@ -216,14 +216,14 @@ ins {
     &::after {
       content: attr(datetime);
       position: absolute;
-      padding: 5px;
+      padding: 0.3rem 0.5rem;
       font-size: 0.8em;
       right: 0;
       bottom: 0;
-      color: var(--compliment-color);
-      background-color: var(--dazzled-color);
-      border-left: 1px dashed var(--lightgray-color);
-      border-top: 1px dashed var(--lightgray-color);
+      color: var(--color-compliment);
+      background-color: var(--color-main-grayfade);
+      border-left: 1px dashed var(--color-main-grayfade);
+      border-top: 1px dashed var(--color-main-grayfade);
     }
   }
 }

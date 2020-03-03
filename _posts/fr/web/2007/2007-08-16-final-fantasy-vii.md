@@ -57,7 +57,7 @@ si celui-ci gardera toujours une place dans mon cœur.
 
 Peut-être émulerais-je un jour FF VII sous Windows VII, qui sait ?
 
-<ins datetime="2020-03-03" title="Ajout du 3 mars 2020">Nous sommes désormais en
+<ins datetime="2020-03-03" title="Ajout du 3 mars 2020" class="bloc">Nous sommes désormais en
 2020 et je viens d'installer la démo de Final Fantasy VII Remake, sur PS4. Je
 ressens les mêmes frissons. À ce rythme, je devrais finir FFVII Re-Remake vers
 2036, sur PS10. Est-ce que mes petits-enfants me regarderont jouer d'un air
