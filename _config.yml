@@ -305,7 +305,6 @@ algolia:
   index_name: jekyll
   api_key: 121a196f122a96cba48609ba6cee2839
   max_record_size: 70000
-  nodes_to_index: 'p,blockquote,li,div.paragraph'
   settings:
     highlightPreTag: '<mark>'
     highlightPostTag: '</mark>'

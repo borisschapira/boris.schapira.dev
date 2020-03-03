@@ -20,7 +20,7 @@ end
 
 group :jekyll_plugins do
   gem 'classifier-reborn'
-  # gem 'jekyll-algolia'
+  gem 'jekyll-algolia', '~> 1.0'
   # gem 'jekyll-tagging-related_posts'
   # gem 'jekyll-algolia', :git => 'git@github.com:ashmaroli/jekyll-algolia.git', :branch => 'delete-key-not-reset'
   gem 'jekyll-archives', git: 'https://github.com/jekyll/jekyll-archives/'
