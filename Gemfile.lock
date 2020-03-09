@@ -23,7 +23,7 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll-archives/
-  revision: b4bae67af1b2721e5fb4d949585cf147cdd7784c
+  revision: 5c4f4885e9655cddf65184abd3d94fadec022c54
   specs:
     jekyll-archives (2.2.1)
       jekyll (>= 3.6, < 5.0)
