@@ -1,5 +1,4 @@
 const axios = require('axios');
-const qs = require('qs');
 const { existsSync, writeFile } = require('fs');
 const { resolve } = require('path');
 const yaml = require('js-yaml');

@@ -325,7 +325,7 @@
   count: 1
 - name: boostmarks
   slug: boostmarks
-  count: 615
+  count: 616
 - name: Boostrap
   slug: boostrap
   count: 2
@@ -3805,7 +3805,7 @@
   count: 1
 - name: web-workers
   slug: web-workers
-  count: 2
+  count: 3
 - name: webapp
   slug: webapp
   count: 7
