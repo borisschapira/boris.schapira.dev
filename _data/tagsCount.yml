@@ -325,7 +325,7 @@
   count: 1
 - name: boostmarks
   slug: boostmarks
-  count: 616
+  count: 619
 - name: Boostrap
   slug: boostrap
   count: 2
@@ -1303,7 +1303,7 @@
   count: 2
 - name: fonts
   slug: fonts
-  count: 43
+  count: 44
 - name: footnotes
   slug: footnotes
   count: 1
@@ -1585,7 +1585,7 @@
   count: 2
 - name: html
   slug: html
-  count: 34
+  count: 35
 - name: http
   slug: http
   count: 3
@@ -1660,7 +1660,7 @@
   count: 3
 - name: images
   slug: images
-  count: 31
+  count: 33
 - name: img
   slug: img
   count: 2
@@ -1739,6 +1739,9 @@
 - name: Internet
   slug: internet
   count: 2
+- name: intersection-observer
+  slug: intersection-observer
+  count: 1
 - name: Interview
   slug: interview
   count: 1
@@ -3088,7 +3091,7 @@
   count: 1
 - name: sharemarks
   slug: sharemarks
-  count: 1109
+  count: 1110
 - name: SharePoint
   slug: sharepoint
   count: 1
@@ -3190,7 +3193,7 @@
   count: 1
 - name: spa
   slug: spa
-  count: 2
+  count: 3
 - name: SPA
   slug: spa
   count: 8
@@ -3337,6 +3340,9 @@
   count: 4
 - name: surcouche
   slug: surcouche
+  count: 1
+- name: svelte
+  slug: svelte
   count: 1
 - name: svg
   slug: svg
@@ -3682,7 +3688,7 @@
   count: 1
 - name: variable-fonts
   slug: variable-fonts
-  count: 1
+  count: 2
 - name: varnish
   slug: varnish
   count: 1
