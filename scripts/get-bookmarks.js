@@ -15,8 +15,8 @@ const removals = "<>.~\":/?#[]{}()@!$'()*+,;=";
 (async function() {
   // Set up our request with appropriate auth token and Form ID
   const feeds = [
-    "https://my.framasoft.org/u/borisschapira/?do=rss&searchtags=boostmarks&nb=10000",
-    "https://my.framasoft.org/u/borisschapira/?do=rss&searchtags=sharemarks&nb=10000"
+    "https://bookmarks.boris.schapira.dev/?do=rss&searchtags=boostmarks&nb=10000",
+    "https://bookmarks.boris.schapira.dev/?do=rss&searchtags=sharemarks&nb=10000"
   ];
 
   let tags = new Array();
