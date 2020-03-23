@@ -109,9 +109,9 @@ defaults:
       category: citoyen
   -
     scope:
-      path: "_confs"
+      path: "_contribute"
     values:
-      layout: conf
+      layout: contribute
   -
     scope:
       type: "posts"
