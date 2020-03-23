@@ -31,7 +31,7 @@ namespace :prebuild do
       Dir.glob('_posts/**/*.{md,markdown}').each do |p|
         @contents << p
       end
-      Dir.glob('_confs/*.{md,markdown}').each do |p|
+      Dir.glob('_community/*.{md,markdown}').each do |p|
         @contents << p
       end
       Dir.glob('_quotes/*.{md,markdown}').each do |p|

@@ -109,9 +109,9 @@ defaults:
       category: citoyen
   -
     scope:
-      path: "_contribute"
+      path: "_community"
     values:
-      layout: contribute
+      layout: community
   -
     scope:
       type: "posts"
@@ -254,7 +254,7 @@ pagination:
 
 # Collections
 collections:
-  confs:
+  community:
     output: true
   bookmarks:
     output: false

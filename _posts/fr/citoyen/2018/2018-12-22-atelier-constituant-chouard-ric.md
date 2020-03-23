@@ -287,7 +287,7 @@ sens, une bonne chose.
 Le deuxième point de fond qui me chagrine est l'idée selon laquelle la
 démocratie représentative nous vole la démocratie. Je ne pense pas que notre
 mode d'élection soit bon, et je le dis souvent en mettant en avant le
-[vote par approbation ou par valeurs](/confs/pour-un-meilleur-scrutin/). Mais
+[vote par approbation ou par valeurs](/community/pour-un-meilleur-scrutin/). Mais
 nos représentants ne le sont pas à vie, et nous conservons le droit de les
 retirer du pouvoir en ne votant pas, à nouveau, pour eux.
 

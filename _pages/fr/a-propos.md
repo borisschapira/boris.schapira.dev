@@ -35,7 +35,7 @@ car le numérique présente aussi ses dangers. L'autre est de
 pas grand-chose et que c'est à la portée de beaucoup d'autres personnes.
 
 D'un point de vue plus personnel, je suis Papa de deux formidables garçons
-[dont je parle souvent](/confs/mon-pire-client-a-cinq-ans/ 'Mon pire client a cinq ans | Boris Schapira')
+[dont je parle souvent](/community/mon-pire-client-a-cinq-ans/ 'Mon pire client a cinq ans | Boris Schapira')
 et qui me ravissent par [leurs anecdotes croustillantes](/papa/). Leur mère,
 l'amour de ma vie est une princesse qui écrit
 [des articles de RH](https://libelilou.github.io/ 'Princesse RH'). Les

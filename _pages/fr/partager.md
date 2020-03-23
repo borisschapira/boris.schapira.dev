@@ -15,7 +15,7 @@ aussi [Sud Web](https://sudweb.fr/ 'SudWeb.fr') ou
 [We Love Speed](https://www.welovespeed.com/ 'We Love Speed').
 
 {% assign done = ''|split:''%} {% assign todo = ''|split:''%}
-{% for conf in site.confs %} {% if conf.last_date %}
+{% for conf in site.community %} {% if conf.last_date %}
 {% assign done = done|push:conf%} {% else %} {% assign todo = todo|push:conf%}
 {% endif %} {% endfor %}
 
