@@ -4,13 +4,16 @@
   count: 14
 - name: a11y
   slug: a11y
-  count: 9
+  count: 10
 - name: ab-testing
   slug: ab-testing
   count: 3
 - name: accessibility
   slug: accessibility
   count: 54
+- name: accumulator
+  slug: accumulator
+  count: 1
 - name: adaptive
   slug: adaptive
   count: 1
@@ -127,7 +130,7 @@
   count: 1
 - name: apple
   slug: apple
-  count: 1
+  count: 2
 - name: Applications
   slug: applications
   count: 1
@@ -262,7 +265,7 @@
   count: 1
 - name: best-practices
   slug: best-practices
-  count: 3
+  count: 4
 - name: BestOf
   slug: bestof
   count: 1
@@ -325,7 +328,7 @@
   count: 1
 - name: boostmarks
   slug: boostmarks
-  count: 619
+  count: 621
 - name: Boostrap
   slug: boostrap
   count: 2
@@ -1390,7 +1393,7 @@
   count: 1
 - name: gatsby
   slug: gatsby
-  count: 2
+  count: 3
 - name: generator
   slug: generator
   count: 7
@@ -1426,7 +1429,7 @@
   count: 1
 - name: google
   slug: google
-  count: 21
+  count: 22
 - name: GoogleApis
   slug: googleapis
   count: 2
@@ -1654,7 +1657,7 @@
   count: 2
 - name: image
   slug: image
-  count: 1
+  count: 2
 - name: Image
   slug: image
   count: 3
@@ -2753,6 +2756,9 @@
 - name: recrutement
   slug: recrutement
   count: 1
+- name: recursive
+  slug: recursive
+  count: 1
 - name: Rédaction
   slug: redaction
   count: 1
@@ -3091,7 +3097,7 @@
   count: 1
 - name: sharemarks
   slug: sharemarks
-  count: 1110
+  count: 1112
 - name: SharePoint
   slug: sharepoint
   count: 1
@@ -3383,6 +3389,9 @@
 - name: Tablettes
   slug: tablettes
   count: 1
+- name: tail
+  slug: tail
+  count: 1
 - name: talk
   slug: talk
   count: 1
@@ -3550,7 +3559,7 @@
   count: 1
 - name: ttfb
   slug: ttfb
-  count: 1
+  count: 2
 - name: tti
   slug: tti
   count: 4
