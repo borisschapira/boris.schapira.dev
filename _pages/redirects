@@ -22,4 +22,4 @@ permalink: /_redirects
 /psconnect-bayonne /assets/docs/2019-07-05/psconnect-bayonne.pdf 301!
 /mariage /tag/mariage/ 301!
 /confs/* /community/:splat 301!
-/webinar-papis-du-web /assets/docs/2020-04-07/clever-age-papis.pdf
+/webinar-papis-du-web /assets/docs/2020-04-07/clever-age-papis.pdf 301!
