@@ -239,15 +239,15 @@ layout: microtypo
         document.head.insertBefore(e, document.head.childNodes[document.head.childNodes.length - 1].nextSibling);
       };
     </script>
-    <script>injectScript('/assets/scripts/index.min.js');</script>
-    {%- if page.loadTwitterWjs  -%}<script>injectScript('https://platform.twitter.com/widgets.js');</script>
-    {%- endif  -%}
+    <script src="{% include assets/js.html.liquid name='index.min' %}" defer></script>
+    {%- if page.loadTwitterWjs -%}
+      <script src="https://platform.twitter.com/widgets.js" defer></script>
+    {%- endif -%}
     {%- if page.loadSearch -%}
     <script src="https://cdn.jsdelivr.net/npm/algoliasearch@3.33.0/dist/algoliasearchLite.min.js" integrity="sha256-3Laj91VXexjTlFLgL8+vvIq27laXdRmFIcO2miulgEs=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@3.4.0/dist/instantsearch.production.min.js" integrity="sha256-pM0n88cBFRHpSn0N26ETsQdwpA7WAXJDvkHeCLh3ujI=" crossorigin="anonymous"></script>
-    <script>injectScript('/assets/scripts/search.min.js');
-    </script>
-    {%- endif  -%}
+    <script src="{% include assets/js.html.liquid name='search.min' %}" defer></script>
+    {%- endif -%}
     <script>requestAnimationFrame(function(){performance.mark("mark_declare_js_end");performance.measure("mark_declare_js","mark_declare_js_start","mark_declare_js_end")});</script>
     <script type="application/ld+json">
       {

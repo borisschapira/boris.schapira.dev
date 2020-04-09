@@ -1,38 +1,38 @@
-{%- comment  -%}
+{%- comment -%}
   Completly snatched from Michael Rose's MadeMistake blog post https://mademistakes.com/articles/improving-jekyll-static-comments/
-{%- endcomment  -%}
+{%- endcomment -%}
 <section class="reactions post-footer">
-  {%- if site.data.comments[include.slug]  -%}
+  {%- if site.data.comments[include.slug] -%}
     <!-- Start static comments -->
     <div id="comments">
       <h2>
-        {%- if site.data.comments[include.slug].size > 1  -%}
+        {%- if site.data.comments[include.slug].size > 1 -%}
           {{ site.data.comments[include.slug] | size }} {{ "commentaires" | t: include.locale }}
-        {%- else  -%}
+        {%- else -%}
           {{ "Commentaire" | t: include.locale }}
-        {%- endif  -%}
+        {%- endif -%}
       </h2>
-      {%- if site.data.comments[include.slug].size > 0  -%}
+      {%- if site.data.comments[include.slug].size > 0 -%}
         <ul class="comments">
-        {%- assign comments = site.data.comments[include.slug] | where_exp: 'item', "item.replying_to == ''"  -%}
-        {%- assign sortedcomments = comments | sort: 'date'  -%}
-        {%- for comment in sortedcomments  -%}
-          {%- assign index       = forloop.index  -%}
-          {%- assign r           = comment.replying_to  -%}
-          {%- assign replying_to = r | to_integer  -%}
-          {%- assign avatar      = comment.avatar  -%}
-          {%- assign email       = comment.email  -%}
-          {%- assign name        = comment.name  -%}
-          {%- assign url         = comment.url  -%}
-          {%- assign date        = comment.date  -%}
-          {%- assign message     = comment.message  -%}
-          {%- include comment.html.liquid index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message  slug=include.slug  -%}
-        {%- endfor  -%}
+        {%- assign comments = site.data.comments[include.slug] | where_exp: 'item', "item.replying_to == ''" -%}
+        {%- assign sortedcomments = comments | sort: 'date' -%}
+        {%- for comment in sortedcomments -%}
+          {%- assign index       = forloop.index -%}
+          {%- assign r           = comment.replying_to -%}
+          {%- assign replying_to = r | to_integer -%}
+          {%- assign avatar      = comment.avatar -%}
+          {%- assign email       = comment.email -%}
+          {%- assign name        = comment.name -%}
+          {%- assign url         = comment.url -%}
+          {%- assign date        = comment.date -%}
+          {%- assign message     = comment.message -%}
+          {%- include comment.html.liquid index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message  slug=include.slug -%}
+        {%- endfor -%}
         </ul>
-      {%- endif  -%}
+      {%- endif -%}
     </div>
     <!-- End static comments -->
-  {%- endif  -%}
+  {%- endif -%}
 
   <!-- Start new comment form -->
   <div id="respond">

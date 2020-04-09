@@ -3,3 +3,14 @@ styles:
   critical: 4367f999df91f3aba19f31cb66396449
   hl: 26cd895873290dc2a8ffd0981682f1b9
   main: bf5fefdf9fdac547dff1b97d2a906922
+scripts:
+  comments.min: 554b4bb3959ca17f56a658a0147a93ff
+  comments.min.js: d8e5a234874f19f9606802be069104b6
+  critical.min: b02cc5fe5e199fd0cf012170d5b68d4b
+  critical.min.js: 671158fd7ce511e14e5b80793e248c70
+  index.min: da365dc53f6aabbf8ba6705ea3bfcc38
+  index.min.js: 9d4cbc6bbb4a62b9edf3b32d24d80228
+  main.min: 85be49c32ed668c78c96da2efb0815c3
+  main.min.js: 9239517d81e020d272c8258e76072598
+  search.min: dd150487fcc146051d3f9911d785a6f5
+  search.min.js: 9f40b5a0a1c399c4d6e325ef688eeac9
