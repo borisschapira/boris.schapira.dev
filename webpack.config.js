@@ -3,7 +3,6 @@ const path = require('path');
 module.exports = {
   entry: {
     index: './_src/scripts/index.js',
-    comments: './_src/scripts/comments.js',
     search: './_src/scripts/search.js',
     critical: './_src/styles/scss/critical.scss',
     main: './_src/styles/scss/main.scss'
