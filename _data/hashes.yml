@@ -4,7 +4,11 @@ styles:
   hl: 26cd895873290dc2a8ffd0981682f1b9
   main: bf5fefdf9fdac547dff1b97d2a906922
 scripts:
-  index.min: 67e01740142e7028f1428e78c2f0563f
-  index.min.js: 76ba1b10228628eaee27a9d5f8ff038d
-  search.min: d629a92686084d1f595cc379d9abca2a
-  search.min.js: ee3c2a2efb0ac0539119488cc63df6e5
+  critical.min: 47b9ac05cb687e9567d5d0ac80e05352
+  critical.min.js: 592564b28c692f5cf40476fa409e85b9
+  index.min: aa7ba57ea482e51cb141e75a7b61d8b4
+  index.min.js: af730df924a28b2bdc473e1529327c47
+  main.min: d477065e6230cd69e2581d8b93114491
+  main.min.js: 37326d6711ea4adf0214b99c9099e0df
+  search.min: e6c5c082c27a7981761e7f0ad8b77032
+  search.min.js: 26ba070f07d8b843901a0634fa955866
