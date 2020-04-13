@@ -95,7 +95,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
-    "escape-string-regexp": "^2.0.0",
+    "escape-string-regexp": "^3.0.0",
     "file-loader": "^6.0.0",
     "hasha": "^5.2.0",
     "js-md5": "^0.7.3",
