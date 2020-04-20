@@ -90,7 +90,7 @@
   "optionalDependencies": {
     "mocha": "^7.1.1",
     "chai": "^4.2.0",
-    "puppeteer": "^2.1.1"
+    "puppeteer": "^3.0.0"
   },
   "dependencies": {
     "axios": "^0.19.2",
