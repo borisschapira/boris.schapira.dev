@@ -30,7 +30,7 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll-commonmark/
-  revision: fd7b5ee4cf39258a560ec80e12013eb5443a4e52
+  revision: 6708e5fc89294ddad7f5b55c478daeb6cf792bb0
   branch: master
   specs:
     jekyll-commonmark (1.3.1)
