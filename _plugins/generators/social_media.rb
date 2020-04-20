@@ -47,7 +47,7 @@ module Jekyll
       title = get_configuration['title']
       description = get_configuration['description']
       logo = get_configuration['cloudinary']['logo']
-      image = 'https://avatars.borisschapira.com/avataaars_1200.png'
+      image = 'https://avatars.schapira.dev/avataaars/pink/avatar.png'
       color = site.data["styles"]["main"]["color"]
 
       if page.data['layout'] == "archives"

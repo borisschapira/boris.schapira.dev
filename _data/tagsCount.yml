@@ -328,7 +328,7 @@
   count: 1
 - name: boostmarks
   slug: boostmarks
-  count: 621
+  count: 622
 - name: Boostrap
   slug: boostrap
   count: 2
@@ -793,12 +793,15 @@
   count: 2
 - name: css
   slug: css
-  count: 109
+  count: 111
 - name: CSS
   slug: css
   count: 2
 - name: Css
   slug: css
+  count: 1
+- name: css-framework
+  slug: css-framework
   count: 1
 - name: css-in-js
   slug: css-in-js
@@ -2147,6 +2150,9 @@
 - name: Minify
   slug: minify
   count: 2
+- name: minimal
+  slug: minimal
+  count: 1
 - name: mining
   slug: mining
   count: 1
@@ -2737,7 +2743,7 @@
   count: 1
 - name: react
   slug: react
-  count: 21
+  count: 22
 - name: React
   slug: react
   count: 3
@@ -3097,7 +3103,7 @@
   count: 1
 - name: sharemarks
   slug: sharemarks
-  count: 1112
+  count: 1114
 - name: SharePoint
   slug: sharepoint
   count: 1
@@ -3784,7 +3790,7 @@
   count: 1
 - name: w3c
   slug: w3c
-  count: 1
+  count: 2
 - name: waiting
   slug: waiting
   count: 1
