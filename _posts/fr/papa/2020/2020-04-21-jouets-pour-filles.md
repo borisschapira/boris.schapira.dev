@@ -9,7 +9,7 @@ maitresse de son enfant, en CP, basé sur l'album
 
 <figure>
 {% capture img_alt %}La consigne est d'écrire F sur les jouets pour filles et G sur les jouets pour garçons puis sont énumérés un service à thé, un aspirateur, un bulldozer…{% endcapture %}{% include rwd-image.html.liquid
-path="/assets/images/papa/2020-04-21/dinette.png"
+path="/assets/images/papa/2020-04-21/dinette.jpg"
 alt=img_alt
 %}
 </figure>
