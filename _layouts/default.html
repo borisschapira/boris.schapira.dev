@@ -37,7 +37,7 @@ layout: microtypo
     <link href="{% include assets/css.html.liquid name='critical' %}" rel="stylesheet" data-proofer-ignore>
     <link href="{% include assets/css.html.liquid name='main' %}" rel="stylesheet" data-proofer-ignore>
     {% comment %} Async CSS {% endcomment %}
-    <link href="{% include assets/css.html.liquid name='hl' %}" rel="stylesheet" media="print" onload="this.media='all'" data-proofer-ignore>
+    <link href="{% include assets/css.html.liquid name='hl' %}" rel="stylesheet" data-proofer-ignore>
 
     <script>requestAnimationFrame(function(){performance.mark("mark_declare_css_end");performance.measure("mark_declare_css","mark_declare_css_start","mark_declare_css_end")});</script>
     {% comment %} / Styles {% endcomment %}
@@ -224,21 +224,6 @@ layout: microtypo
     --------------  Footer ----------------------
     ----------------------------{%- endcomment -%}
     <script>performance.mark('mark_declare_js_start');</script>
-    <script>
-      function injectScript(path) {
-        var e = document.createElement('script');
-        e.src = path;
-        e.async = true;
-        document.head.insertBefore(e, document.head.childNodes[document.head.childNodes.length - 1].nextSibling);
-      };
-      function injectStyle(path) {
-        var e = document.createElement('link');
-        e.rel = 'stylesheet';
-        e.type = 'text/css';
-        e.href = path;
-        document.head.insertBefore(e, document.head.childNodes[document.head.childNodes.length - 1].nextSibling);
-      };
-    </script>
     <script src="{% include assets/js.html.liquid name='index.min' %}" defer></script>
     {%- if page.loadTwitterWjs -%}
       <script src="https://platform.twitter.com/widgets.js" defer></script>
@@ -276,4 +261,12 @@ layout: microtypo
     <!-- End Matomo Code -->
     {% endunless %}
     <script src="//instant.page/3.0.0" type="module" defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
+    <script defer>
+      (function(){
+        var e = document.createElement('script');
+        e.src = '{{'sw-register.js'|relative_url}}?v=' + Date.now();
+        e.defer = true;
+        document.body.appendChild(e);
+      })()
+    </script>
   </body></html>
