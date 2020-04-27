@@ -4,7 +4,7 @@
   count: 14
 - name: a11y
   slug: a11y
-  count: 10
+  count: 12
 - name: ab-testing
   slug: ab-testing
   count: 3
@@ -232,7 +232,7 @@
   count: 1
 - name: background
   slug: background
-  count: 1
+  count: 2
 - name: balance
   slug: balance
   count: 1
@@ -328,7 +328,7 @@
   count: 1
 - name: boostmarks
   slug: boostmarks
-  count: 622
+  count: 624
 - name: Boostrap
   slug: boostrap
   count: 2
@@ -734,6 +734,9 @@
 - name: Couleur
   slug: couleur
   count: 1
+- name: covid
+  slug: covid
+  count: 2
 - name: CPP
   slug: cpp
   count: 2
@@ -1118,6 +1121,9 @@
 - name: ES6
   slug: es6
   count: 3
+- name: ethics
+  slug: ethics
+  count: 1
 - name: éthique
   slug: ethique
   count: 1
@@ -1322,6 +1328,9 @@
 - name: format
   slug: format
   count: 1
+- name: formation
+  slug: formation
+  count: 1
 - name: forms
   slug: forms
   count: 8
@@ -1339,7 +1348,7 @@
   count: 1
 - name: framework
   slug: framework
-  count: 22
+  count: 23
 - name: frameworks
   slug: frameworks
   count: 3
@@ -1438,7 +1447,7 @@
   count: 2
 - name: governance
   slug: governance
-  count: 21
+  count: 22
 - name: Gow
   slug: gow
   count: 1
@@ -1825,7 +1834,7 @@
   count: 1
 - name: js
   slug: js
-  count: 202
+  count: 203
 - name: jshint
   slug: jshint
   count: 1
@@ -2105,6 +2114,9 @@
 - name: memory
   slug: memory
   count: 2
+- name: méritocratie
+  slug: meritocratie
+  count: 1
 - name: messaging
   slug: messaging
   count: 1
@@ -2473,7 +2485,7 @@
   count: 1
 - name: pattern
   slug: pattern
-  count: 1
+  count: 2
 - name: Pattern
   slug: pattern
   count: 1
@@ -3103,7 +3115,7 @@
   count: 1
 - name: sharemarks
   slug: sharemarks
-  count: 1114
+  count: 1123
 - name: SharePoint
   slug: sharepoint
   count: 1
@@ -3176,6 +3188,9 @@
 - name: Social
   slug: social
   count: 2
+- name: sociologie
+  slug: sociologie
+  count: 1
 - name: Socket
   slug: socket
   count: 1
@@ -3358,7 +3373,7 @@
   count: 1
 - name: svg
   slug: svg
-  count: 7
+  count: 8
 - name: SVG
   slug: svg
   count: 5
@@ -3643,7 +3658,7 @@
   count: 1
 - name: usability
   slug: usability
-  count: 3
+  count: 4
 - name: Usage
   slug: usage
   count: 1

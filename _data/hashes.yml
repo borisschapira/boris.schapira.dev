@@ -1,14 +1,10 @@
 styles:
   core: c9e6cb7cd7fb87d1822c7b931b2f5172
-  critical: 64547700555b133fb6e96d2966ce4099
+  critical: 90e303706f5280f2986be6628a86bb47
   hl: 26cd895873290dc2a8ffd0981682f1b9
   main: bf5fefdf9fdac547dff1b97d2a906922
 scripts:
-  critical.min: 47b9ac05cb687e9567d5d0ac80e05352
-  critical.min.js: 592564b28c692f5cf40476fa409e85b9
   index.min: b6afea3ee60e5515afec288b6fce352b
   index.min.js: ef1718b234f7acbbbcf9e35d7d581bd6
-  main.min: d477065e6230cd69e2581d8b93114491
-  main.min.js: 37326d6711ea4adf0214b99c9099e0df
   search.min: d629a92686084d1f595cc379d9abca2a
   search.min.js: 379f23d2c5de865281d5003a377e1889
