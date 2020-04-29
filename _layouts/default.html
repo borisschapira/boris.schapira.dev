@@ -157,8 +157,8 @@ layout: microtypo
             <li {% if page.i18n-key == 'search' %}class="active"{% endif %}>
             <a href="{{ 'recherche' | t: page.locale | prepend: page.baseurl | relative_url }}/">{{ "Recherche" | t: page.locale }}</a></li>
 
-            <li {% if page.i18n-key == 'bookmarks' %}class="active"{% endif %}>
-              <a href="{{ '/bookmarks' | relative_url }}/">Bookmarks</a></li>
+            <li>
+              <a href="https://bookmarks.boris.schapira.dev/">Bookmarks</a></li>
 
             {% if page.translation %}
             <li>{% include read_in.html.liquid

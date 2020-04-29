@@ -256,8 +256,6 @@ pagination:
 collections:
   community:
     output: true
-  bookmarks:
-    output: false
 
 jekyll-archives:
   enabled:

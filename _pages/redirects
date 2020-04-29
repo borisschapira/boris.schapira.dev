@@ -1,6 +1,7 @@
 ---
 permalink: /_redirects
 ---
+/bookmarks/ https://bookmarks.boris.schapira.dev/ 302
 /2015/10/industrialiser-le-dev-front-end/ /confs/industrialiser-le-dev-front-end/ 301
 /android-chrome-192x192.png /.well-known/android-chrome-192x192.png 200
 /android-chrome-512x512.png /.well-known/android-chrome-512x512.png 200
