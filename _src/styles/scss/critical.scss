@@ -1,23 +1,23 @@
 @charset "utf-8";
 
 // Vendors
-@import "~include-media/dist/include-media";
+@import '~include-media/dist/include-media';
 
 // Variables and mixins
-@import "base/config", "base/abstract", "mixins/content", "mixins/animations";
+@import 'base/config', 'base/abstract', 'mixins/content', 'mixins/animations';
 
 // Reset
-@import "~normalize-scss/sass/normalize/import-now", "base/fonts", "base/init",
-  "base/links", "base/print";
+@import '~normalize-scss/sass/normalize/import-now', 'base/fonts', 'base/init',
+  'base/links', 'base/print';
 
 // Vendors
-@import "vendors/abbr-touch";
+@import 'vendors/abbr-touch';
 
 // Base
-@import "base/button", "base/animations", "base/typo", "base/tag";
+@import 'base/button', 'base/animations', 'base/typo', 'base/tag';
 
 // Main layout
-@import "layout/global", "layout/header", "layout/content";
+@import 'layout/global', 'layout/header', 'layout/content';
 
 // Helpers
-@import "helpers/a11y";
+@import 'helpers/a11y';

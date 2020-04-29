@@ -1,4 +1,4 @@
-@import "../vendors/include-media";
+@import '../vendors/include-media';
 
 %ul-reset {
   margin: 0;
@@ -12,10 +12,10 @@
   padding: 0 $global-gutters;
   gap: $global-gutters;
 
-  @include media("<=small") {
+  @include media('<=small') {
     gap: $global-gutters/2;
   }
-  @include media("<=xsmall") {
+  @include media('<=xsmall') {
     gap: 0;
   }
 }
@@ -24,7 +24,7 @@
 %li-no-list-style {
   list-style-type: none;
   &:before {
-    content: "\200B"; /* add zero-width space */
+    content: '\200B'; /* add zero-width space */
   }
 }
 

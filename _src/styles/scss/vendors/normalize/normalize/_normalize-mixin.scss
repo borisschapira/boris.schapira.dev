@@ -11,12 +11,12 @@
     // Sass doesn't have static variables, so the work-around is to stuff these
     // values into global variables so we can access them in future calls.
     $_normalize-include: if(
-      type-of($include) == "list",
+      type-of($include) == 'list',
       $include,
       ($include)
     ) !global;
     $_normalize-exclude: if(
-      type-of($exclude) == "list",
+      type-of($exclude) == 'list',
       $exclude,
       ($exclude)
     ) !global;
@@ -39,7 +39,7 @@
 
 @mixin normalize(
   $include: (
-    all
+    all,
   ),
   $exclude: ()
 ) {
@@ -50,7 +50,7 @@
   @if $base-line-height !=
     24px or
     $base-unit !=
-    "em" or
+    'em' or
     $h2-font-size !=
     1.5 *
     $base-font-size or
@@ -485,9 +485,9 @@
     }
 
     button,
-    [type="button"],
-    [type="reset"],
-    [type="submit"] {
+    [type='button'],
+    [type='reset'],
+    [type='submit'] {
       /**
        * Remove the inner border and padding in Firefox.
        */
@@ -519,8 +519,8 @@
      * 2. Remove the padding in IE 10-.
      */
 
-    [type="checkbox"],
-    [type="radio"] {
+    [type='checkbox'],
+    [type='radio'] {
       box-sizing: border-box; /* 1 */
       padding: 0; /* 2 */
     }
@@ -529,8 +529,8 @@
      * Correct the cursor style of increment and decrement buttons in Chrome.
      */
 
-    [type="number"]::-webkit-inner-spin-button,
-    [type="number"]::-webkit-outer-spin-button {
+    [type='number']::-webkit-inner-spin-button,
+    [type='number']::-webkit-outer-spin-button {
       height: auto;
     }
 
@@ -539,7 +539,7 @@
      * 2. Correct the outline style in Safari.
      */
 
-    [type="search"] {
+    [type='search'] {
       -webkit-appearance: textfield; /* 1 */
       outline-offset: -2px; /* 2 */
 

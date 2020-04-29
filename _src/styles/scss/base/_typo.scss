@@ -89,6 +89,23 @@ pre {
   font-size: 0.8em;
 }
 
+p,
+pre,
+li,
+div {
+  &:not(.highlight) > code {
+    margin: 0 0.15em;
+    padding: 0em 0.3em;
+    margin-right: 0.6ch;
+    white-space: pre-wrap;
+    border: 1px solid var(--color-main-discrete);
+    border-radius: 3px;
+    display: inline-block;
+    font-size: 0.75em;
+    /* added to fix Yahoo block display of inline code */
+  }
+}
+
 dt {
   margin-top: $default-line-height * 1em;
 }
@@ -123,8 +140,8 @@ button.btn--link-like {
 }
 
 @each $size in $font-sizes {
-  $class: map-get($size, "class");
-  $size: map-get($size, "size");
+  $class: map-get($size, 'class');
+  $size: map-get($size, 'size');
 
   .text-#{$class} {
     font-size: $size;
@@ -179,7 +196,7 @@ blockquote,
     @extend %li-no-list-style;
   }
   li::before {
-    content: "—";
+    content: '—';
   }
   cite {
     font-size: 1rem;
@@ -211,7 +228,7 @@ ins {
   &.bloc {
     display: block;
     padding: 1rem 1rem 2rem 1rem;
-    border: .25rem dotted var(--color-main);
+    border: 0.25rem dotted var(--color-main);
     position: relative;
 
     &::after {

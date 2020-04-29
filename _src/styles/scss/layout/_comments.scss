@@ -19,9 +19,9 @@
     display: table-cell;
   }
   textarea,
-  [type="text"],
-  [type="email"],
-  [type="url"] {
+  [type='text'],
+  [type='email'],
+  [type='url'] {
     font-size: 1rem;
     display: block;
     width: 100%;
@@ -101,7 +101,7 @@ ul.comments {
     padding-top: 3px;
 
     &::after {
-      content: " ";
+      content: ' ';
       display: block;
       clear: both;
     }

@@ -7,12 +7,12 @@ var lang = document.getElementsByTagName('html')[0].getAttribute('lang'),
   alternatives = {
     to: {
       en: 'footnote',
-      fr: 'note de bas de page'
+      fr: 'note de bas de page',
     },
     back: {
       en: 'return to the text',
-      fr: 'retour au texte'
-    }
+      fr: 'retour au texte',
+    },
   };
 
 var i,

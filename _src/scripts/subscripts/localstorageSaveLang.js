@@ -6,7 +6,7 @@ import { perfmark } from './utils';
   exist). Saves the lang in localstorage.
 ************************************************/
 
-perfmark(function() {
+perfmark(function () {
   let lang_user;
   try {
     lang_user = localStorage.getItem('lang_user');
@@ -31,7 +31,7 @@ perfmark(function() {
 
   document.addEventListener(
     'click',
-    event => {
+    (event) => {
       if (event.target.matches('[lang][href*="/"]')) {
         try {
           localStorage.setItem('lang_user', event.target.getAttribute('lang'));

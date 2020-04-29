@@ -6,17 +6,17 @@ const tagcountElement = document.getElementById('tagcount');
 if (tagcountElement) {
   tagcountElement.style.display = 'block';
 
-  [...document.querySelectorAll('.tagcount button')].forEach(b => {
-    b.addEventListener('click', e => {
+  [...document.querySelectorAll('.tagcount button')].forEach((b) => {
+    b.addEventListener('click', (e) => {
       e.target.classList.toggle('active');
 
       // Get active tags
       const activeTags = [
-        ...document.querySelectorAll('.tagcount .active')
+        ...document.querySelectorAll('.tagcount .active'),
       ].reduce((acc, x) => [...acc, 'tag-' + x.dataset['tagSlug']], []);
 
       // Display articles
-      [...document.querySelectorAll('article')].forEach(article => {
+      [...document.querySelectorAll('article')].forEach((article) => {
         if (
           activeTags.length == 0 ||
           activeTags.reduce(

@@ -14,21 +14,21 @@ $zindex-nav: 2;
 // Responsive
 
 $media-ratio: (
-  "xsmall": 0.85,
-  "small": 0.9,
-  "medium": 1,
-  "large": 1.05,
-  "xlarge": 1.1,
-  "xxlarge": 1.15
+  'xsmall': 0.85,
+  'small': 0.9,
+  'medium': 1,
+  'large': 1.05,
+  'xlarge': 1.1,
+  'xxlarge': 1.15,
 );
 
 $breakpoints: (
-  "xsmall": 220px,
-  "small": 480px,
-  "medium": 720px,
-  "large": 960px,
-  "xlarge": 1200px,
-  "xxlarge": 1440px
+  'xsmall': 220px,
+  'small': 480px,
+  'medium': 720px,
+  'large': 960px,
+  'xlarge': 1200px,
+  'xxlarge': 1440px,
 );
 
 // Typo
@@ -39,9 +39,9 @@ $default-line-height: 1.7;
 $font-weight-normal: 400;
 $font-weight-bold: 700;
 
-$default-font-family: "PT Serif", Georgia, Cambria, "Times New Roman", Times,
+$default-font-family: 'PT Serif', Georgia, Cambria, 'Times New Roman', Times,
   serif;
-$default-font-family-save-data: Georgia, Cambria, "Times New Roman", Times,
+$default-font-family-save-data: Georgia, Cambria, 'Times New Roman', Times,
   serif;
 $default-font-weight: $font-weight-normal;
 $default-font-style: normal;
@@ -50,34 +50,34 @@ $title-font-family: $default-font-family;
 $title-font-family-save-data: $default-font-family-save-data;
 $title-font-weight: $font-weight-bold;
 $title-font-style: normal;
-$title-line-height: 1.2;
+$title-line-height: 1.7;
 
 $button-font-family: $default-font-family;
 $button-font-family-save-data: $default-font-family-save-data;
 $button-font-weight: $font-weight-normal;
 $button-font-style: normal;
-$button-line-height: 1.2;
+$button-line-height: 1.7;
 
 $font-sizes: (
   (
-    "class": "xxl",
-    "size": 1.75rem
+    'class': 'xxl',
+    'size': 1.75rem,
   ),
   (
-    "class": "xl",
-    "size": 1.5rem
+    'class': 'xl',
+    'size': 1.5rem,
   ),
   (
-    "class": "lg",
-    "size": 1.25rem
+    'class': 'lg',
+    'size': 1.25rem,
   ),
   (
-    "class": "sm",
-    "size": 0.875rem
+    'class': 'sm',
+    'size': 0.875rem,
   ),
   (
-    "class": "xs",
-    "size": 0.75rem
+    'class': 'xs',
+    'size': 0.75rem,
   )
 );
 

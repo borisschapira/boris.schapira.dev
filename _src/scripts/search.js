@@ -1,12 +1,17 @@
-import instantsearch from 'instantsearch.js'
-import { searchBox, refinementList, hits, pagination } from 'instantsearch.js/es/widgets'
+import instantsearch from 'instantsearch.js';
+import {
+  searchBox,
+  refinementList,
+  hits,
+  pagination,
+} from 'instantsearch.js/es/widgets';
 
 var search = instantsearch({
   indexName: document.getElementById('algolia-index-name').innerHTML,
   searchClient: algoliasearch(
     document.getElementById('algolia-app-id').innerHTML,
     document.getElementById('algolia-api-key').innerHTML
-  )
+  ),
 });
 
 search.addWidgets([
@@ -16,27 +21,27 @@ search.addWidgets([
     autofocus: false,
     poweredBy: true,
     reset: true,
-    loadingIndicator: false
+    loadingIndicator: false,
   }),
 
   refinementList({
     container: '#refinement-list',
-    attribute: 'categories'
+    attribute: 'categories',
   }),
 
   hits({
     container: '#hits',
     templates: {
       empty: 'Aucun résultat&nbsp;!',
-      item: document.getElementById('hit-template').innerHTML
-    }
+      item: document.getElementById('hit-template').innerHTML,
+    },
   }),
 
   pagination({
     container: '#pagination-container',
     maxPages: 20,
     scrollTo: false,
-    showFirstLast: false
-  })
+    showFirstLast: false,
+  }),
 ]);
 search.start();

@@ -11,8 +11,8 @@ import { abbrTouch } from './vendors/abbr-touch';
 import './subscripts/tagCloudManagement';
 import './subscripts/nakedDay';
 
-ready(function() {
-  perfmark(function() {
+ready(function () {
+  perfmark(function () {
     initEasyToggleState();
   }, 'easy_toggle');
 
@@ -40,16 +40,16 @@ ready(function() {
     }
 
     var timeoutLength = text.length * 120;
-    tooltipTimeout = setTimeout(function() {
+    tooltipTimeout = setTimeout(function () {
       tooltip.classList.remove('visible');
     }, timeoutLength);
   }
 
-  perfmark(function() {
-    abbrTouch(document.querySelector('article'), function(target, title) {
+  perfmark(function () {
+    abbrTouch(document.querySelector('article'), function (target, title) {
       var tooltip = getTooltipElement();
       // Ensure the tooltip is ready so that the initial transition works
-      setTimeout(function() {
+      setTimeout(function () {
         updateTooltip(tooltip, target.innerHTML, title);
       }, 0);
     });

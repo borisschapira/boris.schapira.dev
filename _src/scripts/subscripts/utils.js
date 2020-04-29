@@ -1,5 +1,5 @@
 module.exports = {
-  ready: function(fn) {
+  ready: function (fn) {
     if (
       document.attachEvent
         ? document.readyState === 'complete'
@@ -10,10 +10,10 @@ module.exports = {
       document.addEventListener('DOMContentLoaded', fn);
     }
   },
-  perfmark: function(callback, key) {
+  perfmark: function (callback, key) {
     performance.mark('mark_' + key + '_start');
     callback();
-    requestAnimationFrame(function() {
+    requestAnimationFrame(function () {
       requestAnimationFrame(() => {
         performance.mark('mark_' + key + '_end');
         performance.measure(
@@ -23,5 +23,5 @@ module.exports = {
         );
       });
     });
-  }
+  },
 };

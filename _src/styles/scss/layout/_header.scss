@@ -61,7 +61,7 @@
     line-height: 4rem;
     font-size: 1.7rem;
 
-    @include media(">=large") {
+    @include media('>=large') {
       grid-column: 1 / 5;
     }
   }
@@ -91,7 +91,7 @@
     z-index: $zindex-nav-trigger;
   }
 
-  @include media(">=large") {
+  @include media('>=large') {
     .menu-trigger {
       display: none;
     }

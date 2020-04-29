@@ -5,7 +5,7 @@
  * Released under the MIT license <http://github.com/Tyriar/abbr-touch/blob/master/LICENSE>
  */
 module.exports = {
-  abbrTouch: (function() {
+  abbrTouch: (function () {
     // eslint-disable-line no-unused-vars
     'use strict';
 
@@ -15,7 +15,7 @@ module.exports = {
      * @returns {function}
      */
     function generateTouchtapHandler(handler) {
-      return function(e) {
+      return function (e) {
         handler(
           e.currentTarget,
           e.currentTarget.title,
@@ -66,5 +66,5 @@ module.exports = {
       }
     }
     return init;
-  })()
+  })(),
 };

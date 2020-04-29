@@ -8,7 +8,7 @@ html {
   box-sizing: inherit;
 }
 
-[name="dark-mode-input"] {
+[name='dark-mode-input'] {
   display: none;
 }
 
@@ -36,7 +36,7 @@ html {
     padding-bottom: 3rem;
     grid-column: 1 / 13;
 
-    @include media(">=large") {
+    @include media('>=large') {
       grid-column: 1 / 10;
     }
   }
@@ -44,7 +44,7 @@ html {
   .web-content {
     padding-bottom: 3rem;
 
-    @include media(">=medium") {
+    @include media('>=medium') {
       grid-column: 1 / 7;
     }
   }
@@ -54,7 +54,7 @@ html {
     grid-column: 9 / 12;
     font-size: 0.8em;
 
-    @include media(">=medium") {
+    @include media('>=medium') {
       grid-column: 7 / 10;
     }
 
@@ -76,7 +76,7 @@ html {
     padding: 0 0 0 $global-gutters;
     display: block;
 
-    @include media(">=medium") {
+    @include media('>=medium') {
       grid-column: 10 / 13;
       border-left: $border-separators solid var(--color-main-grayfade);
     }
@@ -84,13 +84,13 @@ html {
 
   .over-medium {
     display: none;
-    @include media(">=medium") {
+    @include media('>=medium') {
       display: block;
     }
   }
 
   .under-medium {
-    @include media(">medium") {
+    @include media('>medium') {
       display: none;
     }
   }
@@ -122,17 +122,17 @@ html {
     font-weight: bold;
 
     &:before {
-      content: "<";
+      content: '<';
       margin-left: -1ch;
     }
     &:after {
-      content: " />";
+      content: ' />';
     }
   }
 }
 
 .clearfix::after {
-  content: " ";
+  content: ' ';
   display: block;
   clear: both;
 }
