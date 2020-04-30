@@ -1,15 +1,15 @@
 ---
-title: 'Preload et les Resource Hints'
+title: 'Preload, Prefetch et Preconnect : accélerez votre site avec les Resource Hints'
 i18n-key: preload-resource-hints
 main_image: '/assets/images/2020-04-29/people-doing-swim-race-1263349.jpg'
-canonical: ''
+canonical: 'https://blog.dareboost.com/fr/2020/05/preload-prefetch-et-preconnect-resource-hints/'
 tags:
     - 'Performance Web'
     - Network
 cloudinary_logo: dareboost-logo
-slug: preload-et-resource-hints
+slug: preload-prefetch-et-preconnect-resource-hints
 translations:
-    en: preload-and-resource-hints
+    en: preload-prefetch-preconnect-resource-hints
 ---
 
 _Pour charger une page web complète, il faut un ensemble de ressources qui,

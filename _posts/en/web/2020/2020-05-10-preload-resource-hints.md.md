@@ -1,16 +1,15 @@
 ---
-title: 'Preload and Resource Hints'
+title: 'Preload, Prefetch and Preconnect: Speed Up your Website with Resource Hints'
 i18n-key: preload-resource-hints
 main_image: '/assets/images/2020-04-29/people-doing-swim-race-1263349.jpg'
-draft: true
-canonical: ''
+canonical: 'https://blog.dareboost.com/en/2020/05/preload-prefetch-preconnect-resource-hints/'
 tags:
     - 'Performance Web'
     - Network
 cloudinary_logo: dareboost-logo
-slug: preload-and-resource-hints
+slug: preload-prefetch-preconnect-resource-hints
 translations:
-    fr: preload-et-resource-hints
+    fr: preload-prefetch-et-preconnect-resource-hints
 ---
 
 _Loading a web page requires fetching a whole set of resources which
