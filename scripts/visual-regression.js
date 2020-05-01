@@ -11,7 +11,7 @@ const rimraf = require("rimraf");
 const testDir = "./_captures/test";
 const prodDir = "./_captures/reference";
 const diffDir = "./_captures/diff";
-const testUrl = "https://127.0.0.1:4000";
+const testUrl = "https://boris.schapira.local:10443";
 const tests = {
   fr: {
     locale: "fr-FR,fr",
