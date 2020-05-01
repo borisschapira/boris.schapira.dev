@@ -183,7 +183,7 @@ figure {
       width: auto;
       min-width: 250px;
       min-height: 250px;
-      max-width: 100%;
+      max-width: unquote('min(28rem, 100%)');
       border: none;
     }
 

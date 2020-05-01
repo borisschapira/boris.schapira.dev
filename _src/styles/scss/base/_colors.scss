@@ -18,11 +18,11 @@ $small-triangles: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   --color-main-lightning: 25%;
 
   --color-citoyen-hue: 188;
-  --color-citoyen-saturation: 73%;
+  --color-citoyen-saturation: 75%;
   --color-citoyen-lightning: 25%;
 
   --color-papa-hue: 120;
-  --color-papa-saturation: 100%;
+  --color-papa-saturation: 75%;
   --color-papa-lightning: 25%;
 
   --color-web-hue: 210;
@@ -30,7 +30,8 @@ $small-triangles: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   --color-web-lightning: 35%;
 
   --is-dark-mode: 0;
-  --dark-mode-lightup: 15%;
+  --dark-mode-desaturate: 20%;
+  --dark-mode-lightup: 45%;
 }
 
 ::selection {
@@ -73,7 +74,10 @@ label.light-mode {
 a {
   --color-main: hsl(
     var(--color-hue),
-    var(--color-saturation),
+    calc(
+      var(--color-saturation) - var(--dark-mode-desaturate) *
+        var(--is-dark-mode)
+    ),
     calc(
       var(--color-lightning) + (var(--dark-mode-lightup) * var(--is-dark-mode))
     )

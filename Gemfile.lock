@@ -23,7 +23,7 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll-archives/
-  revision: 5ae016be5defc2838d0297c28e3c24cb303bea1d
+  revision: 81788bfe4d023a82f18defa62965d9c7fd87c964
   specs:
     jekyll-archives (2.2.1)
       jekyll (>= 3.6, < 5.0)
@@ -134,7 +134,7 @@ GEM
     public_suffix (4.0.4)
     rainbow (3.0.0)
     rake (13.0.1)
-    rb-fsevent (0.10.3)
+    rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.4)
