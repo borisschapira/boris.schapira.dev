@@ -12,7 +12,7 @@ parole :
 > sois toujours avec moi ! Parce que quand je voudrai des bébés, je saurai pas
 > comment faire !  
 > – Je serai là, mon bonhomme. Si tu demandes mon aide, tout comme quand vous
-> êtes nés et que j’ai demandé à Mamie Annie. Mais je suis sure que tu seras un
+> êtes nés et que j’ai demandé à Mamie A. Mais je suis sure que tu seras un
 > super Papa, tu sais !
 
 Il a l'air agacé. Visiblement, la conversation de va pas dans le sens attendu.
