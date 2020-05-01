@@ -185,6 +185,7 @@ figure {
       min-height: 250px;
       max-width: unquote('min(28rem, 100%)');
       border: none;
+      border-radius: 0.5rem;
     }
 
     &.gif {
