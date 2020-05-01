@@ -190,8 +190,8 @@ layout: microtypo
           <div class="nav-arrow next"><a href="{{page.next_context.url}}" title="{{ page.next_context.title }}"><span class="sr-only">{{ "Suivant :" | t: page.locale }}</span><span aria-hidden="true">&#8674;</span></a>
         {% endif %}
         <aside>
-          <div class="widget">
-            <h2>{{ "Articles" | t: page.locale }}</h2>
+          <div class="widget categories">
+            <h2>{{ "Catégories" | t: page.locale }}</h2>
             <ul>
               <li><a class="main {% unless page.category %}active{% endunless %}" href="{{ '' | prepend: page.baseurl | relative_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "Récents" | t: page.locale }}</a></li>
               <li><a class="web {% if page.category == 'web' %}active{% endif %}" href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ "web" | t: page.locale }}</a></li>
@@ -203,7 +203,7 @@ layout: microtypo
               </li>
             </ul>
           </div>
-          <div class="widget" aria-hidden="true">
+          <div class="widget svg-me" aria-hidden="true">
             <!-- nomicrotypo -->{% include avatar.svg %}<!-- endnomicrotypo -->
           </div>
         </aside>
@@ -260,7 +260,7 @@ layout: microtypo
     </script>
     <!-- End Matomo Code -->
     {% endunless %}
-    <script src="//instant.page/3.0.0" type="module" defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
+    <script src="//instant.page/3.0.0" type="module" integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
     <script defer>
       (function(){
         var e = document.createElement('script');

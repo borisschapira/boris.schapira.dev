@@ -11,7 +11,7 @@ const rimraf = require("rimraf");
 const testDir = "./_captures/test";
 const prodDir = "./_captures/reference";
 const diffDir = "./_captures/diff";
-const testUrl = "https://boris.schapira.local:10443";
+const testUrl = "https://127.0.0.1:4000";
 const tests = {
   fr: {
     locale: "fr-FR,fr",
@@ -19,7 +19,7 @@ const tests = {
     routes: {
       home: "",
       web: "web/",
-      post: "/2030/01/test-typo/"
+      post: "1900/01/test-typo/"
     }
   },
   en: {
@@ -27,7 +27,7 @@ const tests = {
     mode: "dark",
     routes: {
       home: "",
-      dad: "/en/dad/"
+      dad: "en/dad/"
     }
   }
 };
