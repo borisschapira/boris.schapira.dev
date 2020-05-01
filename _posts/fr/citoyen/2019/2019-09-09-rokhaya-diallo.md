@@ -20,7 +20,6 @@ pieds-noirs[^pn]. Du point de vue de mes origines, c'était vrai, mais je me sui
 surtout construit en sachant que cela se voyait sur mon visage.
 
 [^pn]:
-
     "pieds-noirs" est un adjectif qui qualifie les Français·e·s d'origine
     européenne installé en Afrique du Nord jusqu'à l'époque de l'indépendance.
 
@@ -42,7 +41,6 @@ ans (ou alors ça vient moins aux gens d'aller poser des questions à un gaillar
 d'1m83, allez savoir).
 
 [^passing]:
-
     Le passing est la capacité d'une personne à être considérée en un seul coup
     d’œil comme membre d'un groupe social autre que le sien propre dans le but
     d'obtenir l'acceptation sociale.

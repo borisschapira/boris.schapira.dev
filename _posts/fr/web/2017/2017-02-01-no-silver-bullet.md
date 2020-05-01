@@ -122,7 +122,6 @@ semi-hybride. Impossible de savoir s'il s'agit d'un investissement choisi ou des
 conséquences d'un mauvais choix de technologie couplé à un entêtement[^ci].
 
 [^ci]:
-
     Il est courant de voir des acteurs de tout niveau d'information se refuser à
     abandonner une technologie qui est pourtant manifestement inadaptée à un
     projet. Cela n'a rien d'étonnant et ce n'est pas simplement de la mauvaise
@@ -147,7 +146,6 @@ observées en combiné ne sont pas cohérentes avec ce qui s'observe dans chacun
 des groupes. Il manque des informations qui influencent l'ensemble des facteurs.
 
 [^ys]:
-
     Un paradoxe statistique très perturbant, très bien décrit par David Louapre
     dans
     [l'épisode 7 de Science Étonnante](https://www.youtube.com/watch?v=vs_Zzf_vL2I).

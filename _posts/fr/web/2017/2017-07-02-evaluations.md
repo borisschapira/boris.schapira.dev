@@ -84,7 +84,6 @@ mais plutôt :
     points vus en cours n'étaient pas traités).
 
 [^sonar]:
-
     [SonarQube](https://www.sonarqube.org/) est un outil d'inspection continue
     de la qualité de code. Je m'en sers surtout pour sa fonctionnalité de
     détection de code dupliqué, qui permet de découvrir assez rapidement les
@@ -120,7 +119,6 @@ année, on peut pré-affecter des points aux questions. La correction est ainsi
 immédiate.
 
 [^alt]:
-
     Je serais ravi d'utiliser un autre service que Google pour cet usage. Je
     surveille les évolutions de [FramaForms](https://framaforms.org/) pour,
     justement, me défaire de cette dépendance.

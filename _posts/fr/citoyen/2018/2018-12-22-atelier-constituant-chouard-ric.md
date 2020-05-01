@@ -125,7 +125,6 @@ pas de devoir continuer à entretenir le réseau (pour un coût allant de 5 à 9
 du kilomètre, suivant les contraintes du site[^autoroute])
 
 [^autoroute]:
-
     On trouve beaucoup de ressources en ligne sur le coût de l'entretien des
     routes, du
     [rapport annuel de l'Union Routière de France](http://www.unionroutiere.fr/wp-content/uploads/2017/11/faits-et-chiffres-2017_Basse-def.pdf)
@@ -140,7 +139,6 @@ Souverain ou le Prince (bien qu'il n'ait pas été désigné de droit divin, ou 
 anti-démocratique[^hyperpresident].
 
 [^hyperpresident]:
-
     Pour ma part, si j'avais voulu critiquer le Président, j'aurais utilisé le
     terme de "Monarque", mais cela ne date pas de Macron. Tel que je le conçois,
     c'est sous Sarkozy que le Premier Ministre a cessé d'être le chef
@@ -287,8 +285,8 @@ sens, une bonne chose.
 Le deuxième point de fond qui me chagrine est l'idée selon laquelle la
 démocratie représentative nous vole la démocratie. Je ne pense pas que notre
 mode d'élection soit bon, et je le dis souvent en mettant en avant le
-[vote par approbation ou par valeurs](/community/pour-un-meilleur-scrutin/). Mais
-nos représentants ne le sont pas à vie, et nous conservons le droit de les
+[vote par approbation ou par valeurs](/community/pour-un-meilleur-scrutin/).
+Mais nos représentants ne le sont pas à vie, et nous conservons le droit de les
 retirer du pouvoir en ne votant pas, à nouveau, pour eux.
 
 Il ne s'agit pas, je le concède, d'une destitution. Mais à supposer que le

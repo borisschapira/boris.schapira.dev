@@ -20,14 +20,12 @@ outside Netflix), I made a little bookmarklet that brightens the videos of the
 current page. To use it:
 
 [^ps4]:
-
     I am playing "Arkham Knight" by Rocksteady, and it's a blast. I have a great
     time and I think a lot about my former colleague Stéphane,
     [brilliant inventor of the famous "Batou" that the Joker uses to address Batman – the French equivalent to "Bats" –](https://nota-bene.org/Trois-jolis-souvenirs-de-traduction),
     which gives the game a special flavor.
 
 [^lire]:
-
     I'm reading
     "[The Golden Fool](https://en.wikipedia.org/wiki/The_Golden_Fool)" by Robin
     Hobb, second volume of the "Tawny Man Trilogy", which itself is part of the
@@ -45,7 +43,6 @@ Video Brightness</a>
 <!-- endnomicrotypo -->
 
 [^rename]:
-
     Feel free to rename the bookmark with a shorter label. For example, I use
     the ☀️ (sun) emoji (and only that).
 

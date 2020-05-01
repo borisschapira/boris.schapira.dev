@@ -60,7 +60,6 @@ l'interopérabilité qu'il est toujours nécessaire d'avoir recours à des
 professionnels[^clever].
 
 [^clever]:
-
     si vous voulez en parler,
     [je suis par là](https://www.clever-age.com/fr/briefez-nous/).
 

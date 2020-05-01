@@ -42,7 +42,6 @@ de 70 et il fallait en reproduire 4 en moins d’une heure pour espérer obtenir
 un 20.
 
 [^1]:
-
     également orthographié "khôlles", il s'agit des interrogations orales que
     l'on impose aux étudiants pour les maintenir sous pression et leur apprendre
     à gérer le stress des examens
@@ -86,7 +85,6 @@ prenant en compte le futur pour ne pas être complètement à la rue quand les W
 Components viendront tout écraser sur leur passage (quoi, on peut rêver non ?).
 
 [^2]:
-
     Ce qui n'est pas la même chose, même si les deux métiers sont concernés par
     ce que j'ai à dire (pour plus d'infos, voir
     [cet article de Marie Guillaumet](https://marieguillaumet.com/les-mots-qui-fachent-2-integrateur-web-vs-developpeur-front-end/)).
@@ -180,7 +178,6 @@ votre processus la génération automatique d'une **documentation** à l'usage d
 futurs mainteneurs, mais aussi des explications pour le **débogage**[^3].
 
 [^3]:
-
     Lire à ce sujet
     ["Développeurs front : vous n’utilisez pas de proxy ?" de Stéphane Tessier](https://blog.clever-age.com/fr/2015/07/29/developpeurs-front-vous-nutilisez-pas-de-proxy/).
 

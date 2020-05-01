@@ -28,7 +28,6 @@ Then go to Netflix, HBO Now, Hulu, or pretty much any streaming service using
 HTML videos[^1], launch your favorite series or movie, and click it!
 
 [^1]:
-
     As explained in [the previous post](/2018/08/bookmark-netflix-brightness/),
     if the website has defined a Content-Security-Policy blocking bookmarks,
     this won't work, sorry!

@@ -34,7 +34,6 @@ I decided to migrate to [Jekyll](https://jekyllrb.com/) whose community seemed
 more mature to me.
 
 [^static]:
-
     Frank Taillandier has beautifully sketched the
     [static movement [FR]](http://frank.taillandier.me/2016/03/08/les-gestionnaires-de-contenu-statique/)
     on his blog.
@@ -53,7 +52,6 @@ I probably forget some of them, but you can find all the dependencies
 Internationalization is enabled by `i18n` and the `i18n_filter`[^2].
 
 [^2]:
-
     The localization technique is detailed in the
     [Thomas Brelet's Jekyll Starter Guide [FR]](http://www.toam.fr/20-05-2013-guide-demarrage-jekyll/#localiser-jekyll).
 
@@ -81,7 +79,6 @@ using
 [a technique popularized by Phil Hawksworth](https://github.com/philhawksworth/jamstack-comments-engine).
 
 [^3]:
-
     On this subject, you should read
     [this excellent article by Romy on light syntaxes [FR]](http://romy.tetue.net/syntaxes-legeres-pour-rediger)
 
@@ -108,7 +105,6 @@ A daily monitoring via [Dareboost](https://www.dareboost.com/) on several pages
 informs me of possible performance regressions through configured alerts.
 
 [^7]:
-
     Thanks to [Nicolas Hoffman](https://twitter.com/Nico3333fr) for making me
     aware of this issue during
     [his talk at Paris Web 2015](http://www.nicolas-hoffmann.net/content-security-policy-parisweb-2015/ 'CSP: Content Security Policy').

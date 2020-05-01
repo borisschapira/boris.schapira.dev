@@ -34,7 +34,6 @@ utilisant des vidéos HTML[^1], lancez votre série ou film préféré, et cliqu
 dessus !
 
 [^1]:
-
     Comme expliqué dans
     [le billet précédent](/2018/08/bookmark-netflix-luminosite/), si le site Web
     a défini une Content-Security-Policy bloquant les favoris, cela ne marchera

@@ -51,6 +51,5 @@ On n'est pas sortis de l'auberge. Finalement, même à cinq ans, les avantages n
 sont pas évidents à appréhender…
 
 [^parfait]:
-
     Je ne parle que de moi, ma femme étant, bien sûr, parfaite, comme chacun
     sait.

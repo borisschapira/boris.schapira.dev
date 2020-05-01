@@ -49,6 +49,5 @@ n'avancent pas, les processus qui les favorisent et les choux fleurs.
 
 [^choc]: Mais si vous appelez ça autrement, c'est bien aussi.
 [^1]:
-
     Mon CV complet est disponible
     [sur LinkedIn](https://www.linkedin.com/in/borisschapira/?locale=fr_FR 'CV de Boris SCHAPIRA sur LinkedIn')

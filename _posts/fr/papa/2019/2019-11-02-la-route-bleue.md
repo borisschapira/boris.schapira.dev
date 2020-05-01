@@ -33,7 +33,10 @@ commence à douter.
 > – Oui, un peu, mais à chaque fois que je me réveille, on est toujours sur la
 > route bleue !
 
-{% capture alt_text%}James Franco lance un regard interrogateur et surpris à son interlocuteur en disant "Attendez… ?!".{% endcapture %}{% capture caption_text%}Attends… quoi ?!{% endcapture %}{% include video_as_a_gif.html.liquid
+{% capture alt_text%}James Franco lance un regard interrogateur et surpris à son
+interlocuteur en disant "Attendez…
+?!".{% endcapture %}{% capture caption_text%}Attends… quoi
+?!{% endcapture %}{% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2019-11-02/wait"
 alt=alt_text
 caption=caption_text

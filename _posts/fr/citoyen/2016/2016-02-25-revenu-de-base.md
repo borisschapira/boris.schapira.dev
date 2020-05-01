@@ -17,7 +17,6 @@ que d'indemniser des chômeurs sans contrepartie. Le social n'a pas la primauté
 sur l'économie.
 
 [^dossier]:
-
     Si le sujet vous intéresse mais qu'il vous manque les bases, lisez
     [ce dossier](http://www.controverses-minesparistech-4.fr/~groupe16/ 'Revenu de base : Utopie ou pragmatisme')
     d'étudiants, que je trouve très bien réalisé et, chose rare, très neutre. Si

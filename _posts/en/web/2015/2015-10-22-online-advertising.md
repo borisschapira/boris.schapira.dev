@@ -34,12 +34,10 @@ editors no longer hesitate to block access to their content to users running ad
 blockers, which sends a very negative signal to their audience.
 
 [^0]:
-
     The ad blocker of iOS 9, for example, relies on a business model in which
     advertisers must pay to have their ads displayed.
 
 [^1]:
-
     According to a survey by PageFair, these ad blockers would be installed on
     the computers of 35% of European Internet users and 41% of 16-29 year olds.
     UCBrowser and Maxthon, who claim more than 600 million users in Asia, are
@@ -64,7 +62,6 @@ To make things clear, this solution has become so unacceptable that even the
 online advertising industry, represented by the IAB[^2], confirms it:
 
 [^2]:
-
     The Internet Advertising Bureau is the leading association for online
     advertising professionals, bringing together many players in the advertising
     ecosystem: creative agencies, media sales agencies, partners, hosting
@@ -165,7 +162,6 @@ the industry down a blind alley, forcing it to rethink business models towards
 more reader-friendly practices, such as L.E.A.N.[^3].
 
 [^3]:
-
     L.E.A.N. — for "Light, Encrypted, Ad choice supported, Non-invasive ads" —
     is a new best practice put forward by the IAB.
 

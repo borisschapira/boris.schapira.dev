@@ -165,7 +165,7 @@ Sample text here...
 Syntax highlighting
 
 ```js
-var foo = function(bar) {
+var foo = function (bar) {
     return bar++;
 };
 
@@ -206,7 +206,6 @@ Duplicated footnote reference[^second].
 
 [^first]: Footnote **can have markup**
 [^second]:
-
     Footnote text can be long lorem ipsum dolor sit amet, consectetur adipiscing
     elit. Primum cur ista res digna odio est, nisi quod est turpis? Ita nemo
     beato beatior. Duo Reges: constructio interrete. Sed tu istuc dixti bene

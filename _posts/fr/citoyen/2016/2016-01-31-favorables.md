@@ -39,7 +39,6 @@ autant dire pour toujours.
 > 1 mise en examen.
 
 [^1]:
-
     [Est-ce que c'est encore l'État d'Urgence ?](https://estcequecestencoreletatdurgence.fr/)
 
 Plusieurs milliers de personnes violées dans leur intimité, des dizaines de

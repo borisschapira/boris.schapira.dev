@@ -124,7 +124,6 @@ forfaits justes. Ils et elles seront plus heureux et heureuses, et en parleront
 autour d'eux !
 
 [^1]:
-
     Comme par exemple
     [cet article de Service-Public.fr](https://www.service-public.fr/particuliers/actualites/A12068)
     de la Direction de l'information légale et administrative (Premier
@@ -288,7 +287,6 @@ perdu ?
 </table>
 
 [^exemple]:
-
     L'exemple d'origine du site de
     l'<abbr title="Unions de Recouvrement des Cotisations de Sécurité Sociale et d'Allocations Familiales">URSSAF</abbr>
     ne correspondait pas à la réalité du coût locatif ou, selon moi, de la

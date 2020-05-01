@@ -25,7 +25,6 @@ Je connais à peine ⅓ des outils de l'infographie[^others], mais l'exercice es
 intéressant.
 
 [^others]:
-
     Si ce genre d'infographies vous intéressent, vous devriez également
     apprécier [IT Landscape for sysadmins](http://sysadmin.it-landscape.info/)
     d'Alen Krmelj et

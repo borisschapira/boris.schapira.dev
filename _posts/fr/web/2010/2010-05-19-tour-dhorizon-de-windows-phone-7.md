@@ -316,19 +316,16 @@ spécifique et donc une multiplication des coûts de développement, fussent
 ceux-ci rapides et facilités par la maturité d’un IDE qui a fait ses preuves.
 
 [^1]:
-
     Le MIX est une conférence annuelle de Microsoft à destination des
     développeurs et créatifs Web durant laquelle l’entreprise dévoile ses
     dernières technologies
 
 [^2]:
-
     Le Cloud Computing ou Informatique Dématérialisée est un concept utilisant
     l’ensemble de la puissance, de la mémoire et des services disponibles sur
     Internet ou sur un autre réseau pour simuler l’existence et la persistance
     de programmes et de données sur le matériel de l’utilisateur
 
 [^3]:
-
     Windows Presentation Foundation, une couche de .NET utilisée pour le
     développement d’applications de bureau Windows proche de Silverlight

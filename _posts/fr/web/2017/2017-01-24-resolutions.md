@@ -37,7 +37,6 @@ et ils m'ont soutenu en me proposant un avenant à temps partiel (à 92%, pour
 être précis) ! Parfait !
 
 [^1]:
-
     J'ai donné des cours sur mes congés de salarié Clever Age pendant cinq ans…
     vous connaissez le principe de la solution temporaire qui dure ?
 
@@ -54,7 +53,6 @@ Enfin, nous avons supprimer les routines liées à la télévision[^2] et introd
 à la place un rituel impliquant un long métrage en famille en fin de week-end.
 
 [^2]:
-
     Elle est toujours là mais ne sert qu'exceptionellement, et jamais pour les
     programmes entrecoupés de publicité.
 

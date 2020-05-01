@@ -21,7 +21,6 @@ salon. À quand des serveurs plus sexy, pour faciliter la vie des geeks en coupl
 ?
 
 [^waf]:
-
     Woman Acceptance Factor : indice mesurant la probabilité que votre chère et
     tendre saute de joie à la vue de votre nouveau gadget ou, au contraire, vous
     jette dehors en criant : "Jamais, expèce de $^%\* $¨°#£ !". D'autres détails

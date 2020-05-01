@@ -25,7 +25,6 @@ utilisez tous les jours[^firefox]. Ils ne sont pas toujours isolés, font parfoi
 partie de structures qui ont de forts intérêts dans ces projets[^giga].
 
 [^giga]:
-
     dire que j'écrivais déjà ça
     [il y a 9 ans](/2007/08/le-mythe-de-la-giga-communaute-open-source/ 'Le mythe de la giga-communauté open source'),
     les mythes ont la vie dure.
@@ -43,11 +42,9 @@ est ailleurs. Mais un peu de gratitude ne fait pas de mal.
 **Merci**.
 
 [^bower]:
-
     Bower, un des projets <span lang="en">front end</span> les plus utilisés au
     monde, est également maintenu par une seule personne,
     [Adam Stankiewicz](https://twitter.com/sheerun)).
 
 [^firefox]:
-
     Firefox, Wikipédia… ne sont pas des acquis et peuvent disparaître un jour.

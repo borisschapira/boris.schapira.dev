@@ -141,7 +141,6 @@ following set of requirements:
         redirects to).
 
 [^twalle]:
-
     The value was 18 weeks when I wrote the post. It has been changed to a year
     between october 11<sup>th</sup> and october 16<sup>th</sup>. Thanks to
     [@Thibault_Walle](https://twitter.com/Thibault_Walle) for pointing that out.

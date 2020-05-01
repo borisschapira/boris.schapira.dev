@@ -132,7 +132,6 @@ Chromium maintient une liste des domaines "valides HSTS", c’est-à-dire :
     spécifiant l’attribut `preload`.
 
 [^twalle]:
-
     La valeur était de 18 semaines lorsque j'ai écrit l'article. Elle a été
     repoussée à une année entre le 11 et le 16 octobre 2017. Merci à
     [@Thibault_Walle](https://twitter.com/Thibault_Walle) de me l'avoir signalé

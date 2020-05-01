@@ -7,9 +7,9 @@ Le déconfinement approchant, les garçons commencent à envisager l'idée de re
 leurs mamies, ce qui réveille quelques souvenirs. En soi, c'est mignon, sauf que
 mon grand parle en continu alors parfois, on craque…
 
-> – Une fois, Mamie m'a fait faire un jeu : elle me bandait les yeux et
-> elle me faisait goûter des trucs… et je devais deviner ! Et parfois, c’était
-> du sirop !  
+> – Une fois, Mamie m'a fait faire un jeu : elle me bandait les yeux et elle me
+> faisait goûter des trucs… et je devais deviner ! Et parfois, c’était du sirop
+> !  
 > – Ah ben, si tu veux, on peut faire une variante. On te bande la bouche.  
 > – Et puis ?  
 > – Et puis rien, fin du jeu.

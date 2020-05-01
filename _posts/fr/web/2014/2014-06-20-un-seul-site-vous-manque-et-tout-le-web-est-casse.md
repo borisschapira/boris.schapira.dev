@@ -42,7 +42,6 @@ de tout incident chez un tiers :
     choix en indisponibilité[^1].
 
 [^1]:
-
     En réalité, il interpose un proxy renvoyant les appels vers un
     <a href="https://blackhole.webpagetest.org">site "trou noir"</a> recréant
     ces conditions

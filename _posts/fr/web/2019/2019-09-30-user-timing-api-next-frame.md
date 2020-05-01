@@ -61,7 +61,6 @@ doit, entre temps, mettre à jour l'affichage. Or, sa capacité à le faire dép
 du code JavaScript qui suit le morceau de code qui nous intéresse…
 
 [^1]:
-
     En lisant
     "[Performance metrics for blazingly fast web apps](https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps-ec12efa26bcb)"
     [EN], de Conrad Irwin

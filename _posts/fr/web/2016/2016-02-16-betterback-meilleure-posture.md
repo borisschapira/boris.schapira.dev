@@ -15,7 +15,6 @@ d'une seule utilisation pour "piger le truc" [^nda]. Plusieurs collègues me
 l'ont emprunté pour essayer et ont confirmé la facilité d'utilisation[^nda2].
 
 [^nda]:
-
     Il y a plein de choses comme ça dans la vie, moins compliquées qu'elles en
     ont l'air. Donc les enfants, sortez couverts.
 

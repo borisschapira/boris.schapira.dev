@@ -29,7 +29,7 @@ bundle exec rake;
 ### Build for Production
 
 ```
-npm run comments:get;
+npm run get-comments;
 bundle exec rake "build:generate[prod]";
 npm run build;
 bundle exec rake test;

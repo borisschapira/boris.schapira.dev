@@ -26,7 +26,6 @@ chose. L'impuissance, dès la maternelle, à lutter contre les comportements de
 harcèlement des garçons, est tout bonnement révoltante.
 
 [^1]:
-
     Je sais que ça sonne faux, mais il parle vraiment comme ça. Il utilise aussi
     des expressions comme "trop peu pour moi"… ça fait bizarre dans la bouche
     d'un enfant de 6 ans !

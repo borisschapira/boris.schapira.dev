@@ -56,7 +56,6 @@ its ability to do so depends on the JavaScript code that follows the piece of
 code we're interested in.
 
 [^1]:
-
     Reading
     "[Performance metrics for blazingly fast web apps](https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps-ec12efa26bcb)",
     by Conrad Irwin
