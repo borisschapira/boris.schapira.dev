@@ -8,18 +8,18 @@ de leur cahier de vacances. Aujourd'hui, le grand a un texte à lire (et à
 comprendre) sur les fleurs comestibles.
 
 > – Ils sont fous, regarde, ils disent que des gens mangent des fleurs !  
-> – Et bien, oui. Nous aussi, on mange des fleurs. La confiture de violettes,
-> par exemple, qui est au frigo… Et bien la violette, c'est une fleur.  
+> – Eh bien, oui. Nous aussi, on mange des fleurs. La confiture de violettes,
+> par exemple, qui est au frigo… Eh bien la violette, c'est une fleur.  
 > – Euh non, Papa, le violet, c'est une couleur, hein.  
 > – Oui, c'est aussi une couleur. Mais… attends… la confiture de violettes, tu
 > avais bien compris que c'était parce qu'il y avait des violettes dedans,
-> rassure-moi ? Elle transparente, on les voit bien !  
+> rassure-moi ? Elle est transparente, on les voit bien !  
 > – Non, moi j'avais compris que c'était une confiture violette.  
 > – Mais… elle n'est pas du tout violette !  
 > – Bah je sais, ça explique pourquoi elle n'a aucun goût !
 
-{% capture alt_text%}David Tennant acquiece la tête tout en la
-dodinant.{% endcapture %}{% capture caption_text%}Oui, ok, ça se
+{% capture alt_text%}David Tennant acquiesce de la tête tout en 
+dodelinant.{% endcapture %}{% capture caption_text%}Oui, ok, ça se
 tient.{% endcapture %}{% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2020-04-29/legit"
 alt=alt_text
