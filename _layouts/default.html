@@ -8,6 +8,10 @@ layout: microtypo
 
     <meta charset="utf-8" />
 
+    <link href="{% include assets/css.html.liquid name='critical' %}" rel="preload" as="style">
+    <link href="https://boris.schapira.dev" rel="preconnect" crossorigin="anonymous">
+    <link href="https://res.cloudinary.com" rel="preconnect">
+
     <script>
       {% include first-input-delay.min.js %}
       perfMetrics.onFirstInputDelay(function(delay, evt) {
