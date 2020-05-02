@@ -3,10 +3,10 @@ title: 'Restaurants'
 slug: restaurants
 ---
 
-En cette période de confinement, nous avons lâché du leste sur les
-long-métrages, et les garçons en regardent un par jour, souvent après le goûter.
+En cette période de confinement, nous avons lâché du lest sur les
+longs-métrages, et les garçons en regardent un par jour, souvent après le goûter.
 Le rituel est fixé : chaque jour, un des frères choisit trois films dans la
-quarantaine que nous avons. L'autre fait son choix parmis ces trois films. Et le
+quarantaine que nous avons. L'autre fait son choix parmi ces trois films. Et le
 lendemain, on alterne.
 
 Aujourd'hui, c'est le tour du grand de proposer, et le petit doit choisir. Comme
