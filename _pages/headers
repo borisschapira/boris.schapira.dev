@@ -25,26 +25,17 @@ permalink: /_headers
 
 /*.woff2
   Access-Control-Allow-Origin: "*"
-  Cache-Control: max-age=31536000, private
-/*.mp4
-  Cache-Control: max-age=31536000, private
+
 /*.css
   X-Content-Type-Options: nosniff
-  Cache-Control: max-age=31536000, private
+
 /*.js
   X-Content-Type-Options: nosniff
+
+/*.*"
   Cache-Control: max-age=31536000, private
+  Link: ""
+  Content-Security-Policy: ""
+
 /service-worker.js
   Cache-Control: max-age=0, private
-/*.ico
-  Cache-Control: max-age=31536000, private
-/*.jpg
-  Cache-Control: max-age=31536000, private
-/*.jpeg
-  Cache-Control: max-age=31536000, private
-/*.png
-  Cache-Control: max-age=31536000, private
-/*.gif
-  Cache-Control: max-age=31536000, private
-/*.svg
-  Cache-Control: max-age=31536000, private
