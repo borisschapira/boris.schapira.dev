@@ -58,7 +58,7 @@ plusieurs étapes, dont :
     évaluation et utilisation**.
 
 Pour permettre au navigateur de télécharger de manière plus efficace les
-ressources, vous pouvez indiquer au navigateur comment optimiser ces différentes
+ressources, vous pouvez lui indiquer comment optimiser ces différentes
 étapes.
 
 Vous pouvez même indiquer au navigateur de télécharger certaines ressources en
