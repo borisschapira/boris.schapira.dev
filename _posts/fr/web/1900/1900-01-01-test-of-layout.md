@@ -122,7 +122,9 @@ _This is italic text_
 > >
 > > > ...or with spaces between arrows.
 >
-> <cite>"[Book](#)", Author</cite>
+> <cite>"[Book](#the-book)", Author</cite>
+
+<a id="the-book">The book</a>.
 
 ## Lists
 
