@@ -89,7 +89,7 @@ In the HTML page body:
 />
 ```
 
-Via un en-tête HTTP :
+Through an HTTP header:
 
 ```
 Link: <ressource-url>; rel="prefetch"; as="ressource-type"; crossorigin="value"
