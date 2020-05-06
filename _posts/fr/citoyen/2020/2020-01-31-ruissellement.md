@@ -2,6 +2,9 @@
 title: 'Ruissellement'
 tags:
     - Économie
+i18n-key: trickle-down
+translations:
+    fr: trickle-down
 ---
 
 Certains économistes utilisent la notion de ruissellement pour justifier les
