@@ -156,7 +156,9 @@ layout: microtypo
 
             <li {% if page.i18n-key == 'about' %}class="active"{% endif %}><a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}/">{{ "À propos" | t: page.locale }}</a></li>
 
-            <li {% if page.i18n-key == 'about' %}class="active"{% endif %}><a href="{{ "partager" | t:page.locale | prepend: page.baseurl | relative_url }}/">{{ "Partager" | t: page.locale }}</a></li>
+            {%- if page.locale == "fr" -%}
+            <li {% if page.i18n-key == 'about' %}class="active"{% endif %}><a href="{{ "partager" | prepend: page.baseurl | relative_url }}/">Partager</a></li>
+            {%- endif -%}
 
             <li {% if page.i18n-key == 'search' %}class="active"{% endif %}>
             <a href="{{ 'recherche' | t: page.locale | prepend: page.baseurl | relative_url }}/">{{ "Recherche" | t: page.locale }}</a></li>
@@ -184,7 +186,10 @@ layout: microtypo
       </header>
       <div class="page-title"><h1>{{ page.title }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>{% if page.layout=='post'%}<div class="meta"><time class="dt-published" datetime="{{ datetime }}">{% unless page.locale =='fr' %}{% include date_en.html.liquid postDate=page.date locale=page.locale %}{% else %}{{ page.date | l: '%A %-d', page.locale }} <a href="{{ page.date | l: '%Y/%m/', page.locale | relative_url }}" title="{{ "Articles de" | t: page.locale }} {{ page.date | l: '%B %Y', page.locale }}">{{ page.date | l: '%B', page.locale }}</a> <a href="{{ page.date | l: '%Y/', page.locale | relative_url }}" title="{{ "Articles de" | t: page.locale }} {{ page.date | l: '%Y', page.locale }}">{{ page.date | l: '%Y', page.locale }}</a>{% endunless %}</time>{% if displayCategory %}<span><a href="{{ page.category | t: page.locale | prepend: page.baseurl | relative_url }}/" title="{{ "Articles de" | t: page.locale }} {{ "la catégorie" | t: page.locale }} {{ page.category }}" class="category {% if page.category %}{{page.category}}{% else %}main{% endif %}">{{ page.category | t: page.locale }}</a></span>{% endif %}{% if page.serie %}<span><a href="/tag/{{ page.serie | slugify }}">{{ page.serie }}</a></span>{% endif %}{% if page.translation %}<span>{% include read_in.html.liquid
         locale=page.translation.locale
-        url=page.translation.url %}</span>{% endif %}</div>{% endif %}</div>
+        url=page.translation.url %}</span>{% endif %}<span class="webshare"><button aria-label="{{ "partager" | t: page.locale }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 483 483">
+            <title>{{ "partager" | t: page.locale }}</title>
+            <path d="M396 0c-48 0-88 39-88 87l1 6-161 76A87 87 0 000 232a87 87 0 00129 77l70 58a87 87 0 0083 116 87 87 0 10-42-164l-70-59c3-9 5-18 5-28l-1-6 161-76a87 87 0 00148-63c0-48-39-87-87-87z"/>
+          </svg></button></span></div>{% endif %}</div>
       <section class="container{% if page.layout=='post' or page.layout=='page' or page.layout=='conf' %} full-width-content{% endif %}">
         {{ content }}
         {% if page.layout=='post' and page.prev_context %}

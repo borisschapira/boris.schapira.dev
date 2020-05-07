@@ -2,7 +2,6 @@
 layout: page
 title: Partager, encore et toujours
 permalink: /partager/
-i18n-key: about-share
 ---
 
 Je suis convaincu que le partage de l'information est bénéfique à tous :
