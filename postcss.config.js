@@ -9,7 +9,7 @@ module.exports = ctx => {
             purgecss({
               content: ['./_site/**/*.html'],
               css: ['./_src/styles/css/*.css'],
-              whitelistPatternsChildren: [/save-data$/]
+              whitelistPatternsChildren: [/save-data$/, /webshare$/]
             })
           ]
         : []),

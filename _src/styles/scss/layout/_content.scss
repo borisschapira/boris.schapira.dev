@@ -39,6 +39,38 @@
       color: var(--color-main-gray);
     }
   }
+
+  .webshare {
+    visibility: hidden;
+
+    &.visible {
+      visibility: visible;
+    }
+
+    button {
+      background: none !important;
+      border: none;
+      padding: 0 !important;
+
+      color: #069;
+      text-decoration: none;
+      cursor: pointer;
+
+      color: var(--main-color);
+      font-family: $default-font-family;
+
+      .save-data &,
+      &.save-data {
+        font-family: $default-font-family-save-data;
+      }
+
+      &:hover,
+      &:focus {
+        text-decoration: underline;
+        color: var(--compliment-color);
+      }
+    }
+  }
 }
 
 .nav-arrow {
