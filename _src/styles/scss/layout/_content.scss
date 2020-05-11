@@ -78,6 +78,7 @@
   margin: 1vw;
   position: fixed;
   height: 70vh;
+  top: 15vh;
   font-size: 1.5rem;
 
   @include media('>=small') {
