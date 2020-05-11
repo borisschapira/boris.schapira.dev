@@ -4,11 +4,16 @@ title:
 i18n-key: preload-resource-hints
 main_image: '/assets/images/2020-04-29/people-doing-swim-race-1263349.jpg'
 canonical: 'https://blog.dareboost.com/en/2020/05/preload-prefetch-preconnect-resource-hints/'
+description: >-
+    Use preload and the Resource Hints to increase the perception of speed by
+    influencing the order in which these resources are fetched and executed.
 tags:
     - 'Performance Web'
     - Network
+    - 'Third Parties and Resource Hints'
 cloudinary_logo: dareboost-logo
 slug: preload-prefetch-preconnect-resource-hints
+serie: 'Third Parties and Resource Hints'
 translations:
     fr: preload-prefetch-et-preconnect-resource-hints
 ---
@@ -74,9 +79,9 @@ because `preload' is not just a hint to the browser, but rather a command.
 
 To write these directives, you can use either the `<link>` HTML tag or the
 `Link` HTTP response header. As for
-[specifying the character set](https://blog.dareboost.com/en/2018/11/content-encoding-meta-charset-content-type-header/),
-we recommend you to use the HTTP header, since it will be taken into account by
-the browser before it starts interpreting the HTML code for the page.
+[specifying the character set](/2018/11/content-encoding-how-why/), we recommend
+you to use the HTTP header, since it will be taken into account by the browser
+before it starts interpreting the HTML code for the page.
 
 In the HTML page body:
 

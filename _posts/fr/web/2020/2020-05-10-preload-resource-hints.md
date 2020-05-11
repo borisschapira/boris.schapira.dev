@@ -5,11 +5,17 @@ title:
 i18n-key: preload-resource-hints
 main_image: '/assets/images/2020-04-29/people-doing-swim-race-1263349.jpg'
 canonical: 'https://blog.dareboost.com/fr/2020/05/preload-prefetch-et-preconnect-resource-hints/'
+description: >-
+    Utilisez preload et les Resource Hints pour améliorer la vitesse de
+    chargement en influençant l'ordre de récupération et exécution des
+    ressources.
 tags:
     - 'Performance Web'
     - Network
+    - 'Parties Tierces et Resource Hints'
 cloudinary_logo: dareboost-logo
 slug: preload-prefetch-et-preconnect-resource-hints
+serie: 'Parties Tierces et Resource Hints'
 translations:
     en: preload-prefetch-preconnect-resource-hints
 ---
@@ -58,8 +64,7 @@ plusieurs étapes, dont :
     évaluation et utilisation**.
 
 Pour permettre au navigateur de télécharger de manière plus efficace les
-ressources, vous pouvez lui indiquer comment optimiser ces différentes
-étapes.
+ressources, vous pouvez lui indiquer comment optimiser ces différentes étapes.
 
 Vous pouvez même indiquer au navigateur de télécharger certaines ressources en
 amont, de manière à
@@ -78,9 +83,9 @@ plutôt un ordre.
 
 Pour écrire ces directives, vous pouvez utiliser soit la balise HTML `<link>`,
 soit l’en-tête HTTP `Link`.
-[Comme pour spécifier le jeu de caractères](https://blog.dareboost.com/fr/2018/11/encodage-meta-charset-content-type-header/),
-nous vous recommandons l’en-tête de réponse HTTP, puisqu’il sera pris en compte
-par le navigateur avant le début de l’interprétation du code HTML de la page.
+[Comme pour spécifier le jeu de caractères](/2018/11/content-encoding/), nous
+vous recommandons l’en-tête de réponse HTTP, puisqu’il sera pris en compte par
+le navigateur avant le début de l’interprétation du code HTML de la page.
 
 Dans le corps de page HTML :
 
