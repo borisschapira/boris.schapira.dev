@@ -39,15 +39,14 @@ $default-line-height: 1.7;
 $font-weight-normal: 400;
 $font-weight-bold: 700;
 
-$default-font-family: 'PT Serif', Georgia, Cambria, 'Times New Roman', Times,
-  serif;
+$default-font-family: 'Lora', serif;
 $default-font-family-save-data: Georgia, Cambria, 'Times New Roman', Times,
   serif;
 $default-font-weight: $font-weight-normal;
 $default-font-style: normal;
 
-$title-font-family: $default-font-family;
-$title-font-family-save-data: $default-font-family-save-data;
+$title-font-family: 'Lemonada', cursive;
+$title-font-family-save-data: sans-serif;
 $title-font-weight: $font-weight-bold;
 $title-font-style: normal;
 $title-line-height: 1.7;
@@ -108,3 +107,15 @@ $nav-toggle-timing-function: ceaser(easeOutCubic);
 // Separators
 
 $border-separators: 2px;
+
+// title font size
+
+// The font sizes for h1-h6.
+$base-font-size: 16px;
+$base-unit: 'rem';
+$h1-font-size: 1.6 * $base-font-size;
+$h2-font-size: 1.4 * $base-font-size;
+$h3-font-size: 1.2 * $base-font-size;
+$h4-font-size: 1 * $base-font-size;
+$h5-font-size: 0.8 * $base-font-size;
+$h6-font-size: 0.67 * $base-font-size;

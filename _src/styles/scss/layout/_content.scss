@@ -1,4 +1,5 @@
 .page-title {
+  font-family: $title-font-family;
   grid-column: 1 / 13;
   text-align: center;
   background-color: var(--color-main-grayfade);
@@ -19,7 +20,7 @@
 }
 
 .meta {
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   color: var(--color-main-gray);
   margin-top: $global-gutters/2;
 
@@ -281,10 +282,6 @@ table {
     border: solid 1px var(--color-main-text);
     padding: 0.5rem;
   }
-}
-
-.post-footer > div {
-  border-bottom: 2px solid var(--color-main-text);
 }
 
 strong {

@@ -48,6 +48,8 @@
 }
 
 .nav-header {
+  font-family: $title-font-family;
+  font-size: clamp(14px,1.6vw,22px);
   position: relative;
   @extend %main-grid;
 
@@ -59,10 +61,10 @@
     display: flex;
     grid-column: 1 / 10;
     line-height: 4rem;
-    font-size: 1.7rem;
+    font-size: 1.3em;
 
     @include media('>=large') {
-      grid-column: 1 / 5;
+      grid-column: 1 / 4;
     }
   }
 
@@ -72,6 +74,7 @@
     margin-left: auto;
     justify-content: center;
     flex-direction: column;
+    line-height: 4rem;
   }
 
   ul {
@@ -99,7 +102,7 @@
       display: flex;
     }
     nav {
-      grid-column: 5 / 13;
+      grid-column: 4 / 13;
     }
   }
 }

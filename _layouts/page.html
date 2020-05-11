@@ -8,6 +8,6 @@ layout: default_no_pagination
   </div>
 </section>
 
-{% if page.comments == true %}
+{%- comment %} {% if page.comments == true %}
 {% include comments.html.liquid slug=page.slug url=page.url locale=page.locale %}
-{% endif %}
+{% endif %} {% endcomment -%}

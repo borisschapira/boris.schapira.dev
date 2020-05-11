@@ -1,176 +1,181 @@
 - name: 'report-to'
   values:
-    - value: "default"
+    - value: 'default'
 - name: 'base-uri'
   values:
     - value: "'self'"
-      comment: "This domain"
+      comment: 'This domain'
 - name: default-src
   values:
     - value: "'self'"
 - name: object-src
   values:
     - value: "'self'"
-      comment: "This domain"
+      comment: 'This domain'
 - name: script-src
   values:
     - value: "'self'"
-      comment: "This domain"
+      comment: 'This domain'
     - value: "'unsafe-eval'"
-      for: "search"
+      for: 'search'
     - value: "'sha256-8KNm+dQAGYbDur5TAQP2NeGj++e8hwKuri0+mzPyYpY='"
-      comment: "csspreload inline"
+      comment: 'csspreload inline'
     - value: "'sha256-Oq8k3FaFfXC/VOBt/MYJTHWT4l5j577MJMzecDE6jl4='"
-      comment: "Injection du SW"
+      comment: 'Injection du SW'
     - value: "'sha256-42YhTxdvIqBKunoGTRm2oR8l6Y8BmeOEA1GdeMhkz0U='"
-      comment: "FID log"
+      comment: 'FID log'
     - value: "'sha256-wRiYRnaaEyqKxosvlmLc/4vtkkRUZ+KitW7yW3yCEFc='"
-      comment: "perf mark : parsing css start"
+      comment: 'perf mark : parsing css start'
     - value: "'sha256-b5hOYBmhRLCDYyLkS1CLxHNOM5WM8a6qQ07jept0pKc='"
-      comment: "perf mark : parsing css end & measure"
+      comment: 'perf mark : parsing css end & measure'
     - value: "'sha256-zDmGctlEN4JPwYUNPNKBfQXeG4jlALO5SknIxHg4+0k='"
-      comment: "perf mark : parsing js start"
+      comment: 'perf mark : parsing js start'
     - value: "'sha256-DAnx807CklcokOJ6duM15GEYqgrDb3NtzVGjre2WPgE='"
-      comment: "perf mark : parsing js end & measure"
+      comment: 'perf mark : parsing js end & measure'
     - value: "'sha256-y9FG8a4W4phHevsIyHC4PWbDBnyVsG8XUzgZB/1t3FM='"
-      comment: "Required for Algolia"
-      specific: "search"
+      comment: 'Required for Algolia'
+      specific: 'search'
     - value: "'sha256-4RZbsHZj3mmis52ABTtkFzcAV9UxhvUE0NeKQMXPHrY='"
-      comment: "Jekyll PWA Plugin SW declaration"
+      comment: 'Jekyll PWA Plugin SW declaration'
     - value: "'sha256-O/7NBXBUAE2ZPlQUelDQ9rIGiJJfdkD3jdJlygZOUks='"
-      comment: "Switch to Dark Mode"
+      comment: 'Switch to Dark Mode'
     - value: "'sha256-TfVxxWG/LjsHb5qDYMMyaCrVksrcaUHBXQVVncPJZXA='"
-      comment: "Matomo analytics"
-    - value: "*.twimg.com"
-      comment: "Twitter"
-    - value: "*.algolianet.com"
-      comment: "Algolia – for search"
-      specific: "search"
-    - value: "cdn.jsdelivr.net"
-      comment: "Algolia – for search"
-      specific: "search"
-    - value: "analytics.schapira.dev"
-      comment: "Matomo analytics"
-    - value: "instant.page"
-      comment: "Instant.page"
-    - value: "speakerdeck.com"
-      comment: "Speakerdeck, for slides"
-    - value: "blackhole.webpagetest.org"
-    - value: "syndication.twitter.com"
-      comment: "Twitter"
-    - value: "ajax.googleapis.com"
-      comment: "required by Google Maps"
-    - value: "platform.twitter.com"
-      comment: "Twitter"
-    - value: "gist.github.com"
-      comment: "Gist, from Github"
-    - value: "www.gstatic.com"
-      comment: "required by Google services, like Maps"
-    - value: "www.google.com"
-      comment: "required by Google services, like Maps"
-    - value: "https://videopress.com"
-      comment: "Wordpress TV"
+      comment: 'Matomo analytics'
+    - value: '*.twimg.com'
+      comment: 'Twitter'
+    - value: '*.algolianet.com'
+      comment: 'Algolia – for search'
+      specific: 'search'
+    - value: 'cdn.jsdelivr.net'
+      comment: 'Algolia – for search'
+      specific: 'search'
+    - value: 'analytics.schapira.dev'
+      comment: 'Matomo analytics'
+    - value: 'instant.page'
+      comment: 'Instant.page'
+    - value: 'speakerdeck.com'
+      comment: 'Speakerdeck, for slides'
+    - value: 'blackhole.webpagetest.org'
+    - value: 'syndication.twitter.com'
+      comment: 'Twitter'
+    - value: 'ajax.googleapis.com'
+      comment: 'required by Google Maps'
+    - value: 'platform.twitter.com'
+      comment: 'Twitter'
+    - value: 'gist.github.com'
+      comment: 'Gist, from Github'
+    - value: 'www.gstatic.com'
+      comment: 'required by Google services, like Maps'
+    - value: 'www.google.com'
+      comment: 'required by Google services, like Maps'
+    - value: 'https://videopress.com'
+      comment: 'Wordpress TV'
 - name: style-src
   values:
     - value: "'self'"
-      comment: "This domain"
+      comment: 'This domain'
     - value: "'unsafe-inline'"
-      comment: "Inline styles (if I block that, I have thousand of errors…)"
-    - value: "platform.twitter.com"
-      comment: "Embed twitter using loadTwitterWjs"
-    - value: "cdn.jsdelivr.net"
-      comment: "Algolia – for search"
-      specific: "search"
+      comment: 'Inline styles (if I block that, I have thousand of errors…)'
+    - value: 'fonts.googleapis.com fonts.gstatic.com'
+      comment: 'Google Fonts'
+    - value: 'platform.twitter.com'
+      comment: 'Embed twitter using loadTwitterWjs'
+    - value: 'cdn.jsdelivr.net'
+      comment: 'Algolia – for search'
+      specific: 'search'
 - name: img-src
   values:
     - value: "'self'"
-      comment: "This domain"
-    - value: "data:"
-      comment: "Inline images"
-    - value: "res.cloudinary.com"
-      comment: "Cloudinary proxy images"
-    - value: "avatars.schapira.dev"
-      comment: "My avatars"
-    - value: "www.gravatar.com"
-      comment: "Gravatars, for comments"
-    - value: "*.ytimg.com *.twimg.com platform.twitter.com syndication.twitter.com"
-      comment: "Twitter avatars and inclusions"
-    - value: "*.googleusercontent.com"
-      comment: "Google user contents (for maps)"
-    - value: "analytics.schapira.dev"
-      comment: "Matomo analytics"
+      comment: 'This domain'
+    - value: 'data:'
+      comment: 'Inline images'
+    - value: 'res.cloudinary.com'
+      comment: 'Cloudinary proxy images'
+    - value: 'avatars.schapira.dev'
+      comment: 'My avatars'
+    - value: 'www.gravatar.com'
+      comment: 'Gravatars, for comments'
+    - value: '*.ytimg.com *.twimg.com platform.twitter.com syndication.twitter.com'
+      comment: 'Twitter avatars and inclusions'
+    - value: '*.googleusercontent.com'
+      comment: 'Google user contents (for maps)'
+    - value: 'analytics.schapira.dev'
+      comment: 'Matomo analytics'
 - name: frame-src
   values:
     - value: "'self'"
-      comment: "This domain"
-    - value: "*.vimeo.com"
-      comment: "Video from Vimeo"
-    - value: "*.youtube-nocookie.com"
-      comment: "Video from Youtube, without cookies set"
-    - value: "*.dailymotion.com"
-      comment: "Video from dailymotion"
-    - value: "*.twitter.com"
-      comment: "Twitter"
-    - value: "*.spotify.com"
-      comment: "Players from Spotify"
-    - value: "*.soundcloud.com"
-      comment: "Players from Soundcloup"
-    - value: "art19.com"
-      comment: "Players from LaPoudre"
-    - value: "embed.acast.com"
-      comment: "Players from ACast"
-    - value: "www.instagram.com"
-    - value: "www.slideshare.net"
-    - value: "fusiontables.googleusercontent.com"
-    - value: "fusiontables.google.com"
-    - value: "static01.nyt.com"
-      comment: "NYT videos"
-    - value: "bandcamp.com"
-      comment: "Bandcamp songs"
-    - value: "www.google.com"
-      comment: "Google"
-    - value: "https://videopress.com"
-      comment: "Wordpress TV"
+      comment: 'This domain'
+    - value: '*.vimeo.com'
+      comment: 'Video from Vimeo'
+    - value: '*.youtube-nocookie.com'
+      comment: 'Video from Youtube, without cookies set'
+    - value: '*.dailymotion.com'
+      comment: 'Video from dailymotion'
+    - value: '*.twitter.com'
+      comment: 'Twitter'
+    - value: '*.spotify.com'
+      comment: 'Players from Spotify'
+    - value: '*.soundcloud.com'
+      comment: 'Players from Soundcloup'
+    - value: 'art19.com'
+      comment: 'Players from LaPoudre'
+    - value: 'embed.acast.com'
+      comment: 'Players from ACast'
+    - value: 'www.instagram.com'
+    - value: 'www.slideshare.net'
+    - value: 'fusiontables.googleusercontent.com'
+    - value: 'fusiontables.google.com'
+    - value: 'static01.nyt.com'
+      comment: 'NYT videos'
+    - value: 'bandcamp.com'
+      comment: 'Bandcamp songs'
+    - value: 'www.google.com'
+      comment: 'Google'
+    - value: 'https://videopress.com'
+      comment: 'Wordpress TV'
 - name: frame-ancestors
   values:
     - value: "'self'"
 - name: connect-src
   values:
     - value: "'self'"
-    - value: "*.algolianet.com"
-      comment: "Algolia – for search"
-      specific: "search"
-    - value: "*.algolia.net"
-      comment: "Algolia – for search"
-      specific: "search"
-    - value: "*.ytimg.com *.twimg.com platform.twitter.com syndication.twitter.com"
-      comment: "Twitter avatars and inclusions"
-    - value: "*.googleusercontent.com"
-      comment: "Google user contents (for maps)"
-    - value: "cdn.jsdelivr.net"
-      comment: "required by Algolia – for search"
-      specific: "search"
-    - value: "analytics.schapira.dev"
-      comment: "Matomo analytics"
-    - value: "instant.page"
-      comment: "Instant page"
-    - value: "res.cloudinary.com"
-      comment: "Cloudinary proxy images"
-    - value: "avatars.schapira.dev"
-      comment: "My avatars"
-    - value: "www.gravatar.com"
-      comment: "Gravatars, for comments"
+    - value: '*.algolianet.com'
+      comment: 'Algolia – for search'
+      specific: 'search'
+    - value: '*.algolia.net'
+      comment: 'Algolia – for search'
+      specific: 'search'
+    - value: '*.ytimg.com *.twimg.com platform.twitter.com syndication.twitter.com'
+      comment: 'Twitter avatars and inclusions'
+    - value: '*.googleusercontent.com'
+      comment: 'Google user contents (for maps)'
+    - value: 'fonts.googleapis.com fonts.gstatic.com'
+      comment: 'Google Fonts'
+    - value: 'cdn.jsdelivr.net'
+      comment: 'required by Algolia – for search'
+      specific: 'search'
+    - value: 'analytics.schapira.dev'
+      comment: 'Matomo analytics'
+    - value: 'instant.page'
+      comment: 'Instant page'
+    - value: 'res.cloudinary.com'
+      comment: 'Cloudinary proxy images'
+    - value: 'avatars.schapira.dev'
+      comment: 'My avatars'
+    - value: 'www.gravatar.com'
+      comment: 'Gravatars, for comments'
 - name: font-src
   values:
     - value: "'self'"
-    - value: "cdnjs.cloudflare.com"
-    - value: "fonts.gstatic.com"
-    - value: "fonts.googleapis.com"
+    - value: 'cdnjs.cloudflare.com'
+    - value: 'fonts.gstatic.com'
+    - value: 'fonts.googleapis.com fonts.gstatic.com'
+      comment: 'Google Fonts'
 - name: form-action
   values:
     - value: "'self'"
-    - value: "syndication.twitter.com"
-      comment: "Twitter"
+    - value: 'syndication.twitter.com'
+      comment: 'Twitter'
 - name: manifest-src
   values:
     - value: "'self'"
@@ -187,5 +192,5 @@
 - name: upgrade-insecure-requests
 - name: report-uri
   values:
-    - value: "https://borisschapira.report-uri.com/r/d/csp/enforce"
-      comment: "report-uri is deprecated in CSP3 but kept here for support"
+    - value: 'https://borisschapira.report-uri.com/r/d/csp/enforce'
+      comment: 'report-uri is deprecated in CSP3 but kept here for support'

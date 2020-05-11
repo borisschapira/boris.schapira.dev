@@ -26,7 +26,7 @@ select {
 
 html {
   font-size: calc(16px + (22 - 16) * (100vw - 400px) / (1920 - 400));
-  font-size: clamp(16px, 1.7vw, 22px);
+  font-size: clamp(16px, 3.8vw, 22px);
   line-height: $default-line-height;
   text-rendering: optimizeSpeed;
   -webkit-font-smoothing: auto;
@@ -113,7 +113,7 @@ dt {
 strong,
 b,
 dt {
-  font-weight: $font-weight-bold;
+  font-weight: bold;
 }
 
 a,
@@ -165,7 +165,7 @@ button.btn--link-like {
 }
 
 .text-bold {
-  font-weight: $font-weight-bold;
+  font-weight: bold;
 }
 
 .text-italic {

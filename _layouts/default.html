@@ -11,6 +11,8 @@ layout: microtypo
     <link href="{% include assets/css.html.liquid name='critical' %}" rel="preload" as="style">
     <link href="https://boris.schapira.dev" rel="preconnect" crossorigin="anonymous">
     <link href="https://res.cloudinary.com" rel="preconnect">
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
     <script>
       {% include first-input-delay.min.js %}
@@ -38,6 +40,9 @@ layout: microtypo
 
     {% comment %} Styles {% endcomment %}
     <script>performance.mark('mark_declare_css_start');</script>
+
+    <link href="https://fonts.googleapis.com/css2?family=Lemonada:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
     <link href="{% include assets/css.html.liquid name='critical' %}" rel="stylesheet" data-proofer-ignore>
     <link href="{% include assets/css.html.liquid name='main' %}" rel="stylesheet" data-proofer-ignore>
     {% comment %} Async CSS {% endcomment %}
