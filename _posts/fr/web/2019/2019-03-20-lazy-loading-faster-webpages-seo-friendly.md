@@ -35,7 +35,7 @@ SEO.
 
 Les images sont partout sur le Web, mais servir l’image la plus adaptée au
 contexte courant peut s’avérer très difficile.
-[L’image doit être optimisée](https://blog.dareboost.com/fr/2017/10/optimiser-les-images-et-reduire-leur-poids-formats-outils-et-rwd/),
+[L’image doit être optimisée](/2017/10/optimiser-les-images-et-reduire-leur-poids-formats-outils-et-rwd/),
 adaptée à sa zone de rendu et chargée uniquement si nécessaire.
 
 Le **<span lang="en">Lazy Loading d’images</span>** est un ensemble de

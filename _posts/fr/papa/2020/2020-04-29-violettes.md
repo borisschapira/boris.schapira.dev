@@ -18,7 +18,7 @@ comprendre) sur les fleurs comestibles.
 > – Mais… elle n'est pas du tout violette !  
 > – Bah je sais, ça explique pourquoi elle n'a aucun goût !
 
-{% capture alt_text%}David Tennant acquiesce de la tête tout en 
+{% capture alt_text%}David Tennant acquiesce de la tête tout en
 dodelinant.{% endcapture %}{% capture caption_text%}Oui, ok, ça se
 tient.{% endcapture %}{% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2020-04-29/legit"

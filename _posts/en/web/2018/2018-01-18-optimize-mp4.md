@@ -196,7 +196,7 @@ by Maxim Levkov.
 
 Although h264 is the most widely used and supported codec, it is not necessarily
 the most effective in every cases. We have already seen that
-[the `<image>` tag accepts several sources, allowing the browser to fetch WebP images for Chrome users](https://blog.dareboost.com/en/2017/10/optimize-images-to-reduce-page-weight-file-formats-tools-and-rwd/).
+[the `<image>` tag accepts several sources, allowing the browser to fetch WebP images for Chrome users](/2017/10/optimiser-les-images-et-reduire-leur-poids-formats-outils-et-rwd/).
 The `<video>` element can also accept multiple sources and the WebP equivalent
 for videos is WebM.
 

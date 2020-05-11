@@ -3,6 +3,10 @@ title: 'Measuring Interactivity with TTI'
 subtitle: 'Time To (consistently) Interactive'
 i18n-key: time-to-interactive
 canonical: 'https://blog.dareboost.com/en/2019/05/measuring-interactivity-time-to-interactive/'
+description: >-
+    For a few years now, Google has been pushing an ambiguous metric: Time To
+    Interactive (TTI). What does it mean? Let's define it and explain how and
+    when to use it (or not).﻿
 cloudinary_logo: dareboost-logo
 main_image: /assets/images/2019-05-16/carnival.jpg
 tags:
@@ -238,10 +242,10 @@ consequence of some newly-implemented third-party dependency?
 
 As we’ll demonstrate later in the article, this Long Task is not necessarily
 harmful to your UX (for example, if you
-[defer your scripts](https://blog.dareboost.com/en/2017/12/defer-scripts-to-speed-up-rendering/),
-then the Long Tasks they produced will occur later) but you can certainly
-optimize to make sure they don’t happen (for example, you can delegate complex
-JavaScript algorithms to
+[defer your scripts](/2017/12/defer-script-to-speed-up-rendering/), then the
+Long Tasks they produced will occur later) but you can certainly optimize to
+make sure they don’t happen (for example, you can delegate complex JavaScript
+algorithms to
 [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers),
 making them run in background tasks, therefore not occupying the JavaScript main
 thread).

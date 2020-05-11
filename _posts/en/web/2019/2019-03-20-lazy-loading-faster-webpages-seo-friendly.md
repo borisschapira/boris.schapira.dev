@@ -30,7 +30,7 @@ implement lazy load, and how to make sure you build it in a SEO friendly way.
 
 Images are everywhere on the Web. Serving the right image in the right context
 can be really challenging.
-[Images need to be optimized](https://blog.dareboost.com/en/2017/10/optimize-images-to-reduce-page-weight-file-formats-tools-and-rwd/),
+[Images need to be optimized](/2017/10/optimize-images-to-reduce-page-weight-file-formats-tools-and-rwd/),
 adapted to its rendering area, and only loaded if required.
 
 **Images Lazy Loading** is a set of techniques designed to answer this last
