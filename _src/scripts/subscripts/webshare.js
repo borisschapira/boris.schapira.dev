@@ -19,7 +19,11 @@ if (navigator && navigator.share) {
         url: url,
       };
 
-      if (navigator.canShare(sharedData)) {
+      let canShare = true;
+      if (!!navigator.canShare) {
+        canShare = navigator.canShare(sharedData);
+      }
+      if (canShare) {
         shareElement
           .querySelector('button')
           .addEventListener('click', function shareContent() {

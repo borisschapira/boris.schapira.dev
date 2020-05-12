@@ -46,7 +46,7 @@ html {
   .web-content {
     padding-bottom: 3rem;
 
-    @include media('>=medium') {
+    @include media('>=large') {
       grid-column: 1 / 7;
     }
   }
@@ -57,7 +57,7 @@ html {
     grid-row: 2;
     font-size: 0.8em;
 
-    @include media('>=medium') {
+    @include media('>=large') {
       grid-column: 7 / 10;
       grid-row: 1;
     }
@@ -82,7 +82,7 @@ html {
     margin: 0 -1rem;
     display: block;
 
-    @include media('>=medium') {
+    @include media('>=large') {
       margin: 0;
       padding: 0 0 0 $global-gutters;
       grid-column: 10 / 13;
@@ -90,7 +90,9 @@ html {
     }
 
     .categories {
-      @include media('<medium') {
+      font-family: monospace;
+
+      @include media('<large') {
         h2 {
           display: none;
         }
@@ -106,7 +108,7 @@ html {
 
     .svg-me {
       display: none;
-      @include media('>=medium') {
+      @include media('>=large') {
         display: block;
       }
     }
@@ -114,13 +116,13 @@ html {
 
   .over-medium {
     display: none;
-    @include media('>=medium') {
+    @include media('>=large') {
       display: block;
     }
   }
 
   .under-medium {
-    @include media('>medium') {
+    @include media('>large') {
       display: none;
     }
   }
@@ -153,10 +155,14 @@ html {
 
     &:before {
       content: '<';
-      margin-left: -1ch;
+      font-size: 0.8em;
+      @include media('>large') {
+        margin-left: -1ch;
+      }
     }
     &:after {
-      content: ' />';
+      content: '/>';
+      font-size: 0.8em;
     }
   }
 }
