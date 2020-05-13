@@ -2,7 +2,7 @@
 title: 'Comment optimiser le chargement des Parties tierces'
 i18n-key: how-to-efficiently-load-third-parties
 main_image: '/assets/images/2020-05-20/swimmers-on-body-water-3772419.jpg'
-canonical: ''
+canonical: 'https://blog.dareboost.com/fr/2020/05/optimiser-performance-parties-tierces/'
 description: >-
     Pourquoi et comment utiliser la directive preload et les Resource Hints pour
     optimiser la charge de vos ressources tierces (polices, vidéos,

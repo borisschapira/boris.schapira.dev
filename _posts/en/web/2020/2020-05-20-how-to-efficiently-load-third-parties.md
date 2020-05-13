@@ -2,7 +2,7 @@
 title: 'How to Improve the Loading of Third Parties'
 i18n-key: how-to-efficiently-load-third-parties
 main_image: '/assets/images/2020-05-20/swimmers-on-body-water-3772419.jpg'
-canonical: ''
+canonical: 'https://blog.dareboost.com/en/2020/05/optimize-third-parties-performance/'
 description: >-
     Why and how to use the preload directive and the Resource Hints to optimize
     the load of your third party resources (fonts, videos, analytics…) and speed
