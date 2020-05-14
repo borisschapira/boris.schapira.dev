@@ -114,14 +114,14 @@ html {
     }
   }
 
-  .over-medium {
+  .over-large {
     display: none;
     @include media('>=large') {
       display: block;
     }
   }
 
-  .under-medium {
+  .under-large {
     @include media('>large') {
       display: none;
     }

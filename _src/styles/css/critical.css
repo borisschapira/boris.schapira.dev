@@ -1399,16 +1399,16 @@ html {
     border-left: 2px solid var(--color-main-grayfade);
   }
 }
-.container .over-medium {
+.container .over-large {
   display: none;
 }
 @media (min-width: 720px) {
-  .container .over-medium {
+  .container .over-large {
     display: block;
   }
 }
 @media (min-width: 721px) {
-  .container .under-medium {
+  .container .under-large {
     display: none;
   }
 }

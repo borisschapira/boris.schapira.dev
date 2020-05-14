@@ -2,19 +2,19 @@
 layout: default
 ---
 
-<div class="content under-medium" role="main" id="main">
+<div class="content under-large" role="main" id="main">
   {% assign count = 0 %}{% for post in site.posts %}{% if post.locale ==
   page.locale %}{% include post.html.liquid postPage=false post=post
   displayCategory=false %}{% assign count = count | plus: 1 %}{% if count > 10
   %}{% break %}{% endif %}{% endif %}{% endfor %}
 </div>
-<div class="web-content over-medium" role="main" id="main">
+<div class="web-content over-large" role="main" id="main">
   {% assign count = 0 %}{% for post in site.categories['web'] %}{% if
   post.locale == page.locale %}{% include post.html.liquid postPage=false
   post=post displayCategory=false %}{% assign count = count | plus: 1 %}{% if
   count > 10 %}{% break %}{% endif %}{% endif %}{% endfor %}
 </div>
-<div class="other-content over-medium">
+<div class="other-content over-large">
   {% assign count = 0 %}{% for post in site.posts %}{% if post.locale ==
   page.locale and post.category <> 'web' %}{% include post.html.liquid
   postPage=false post=post displayCategory=false %}{% assign count = count |
