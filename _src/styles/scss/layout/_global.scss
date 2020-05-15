@@ -63,7 +63,7 @@ html {
     }
 
     .meta {
-      font-size: 0.75rem;
+      font-size: 0.85rem;
     }
 
     .post:not(#content) {
@@ -188,8 +188,10 @@ html {
   label {
     user-select: none;
     svg {
-      height: 1.4rem;
+      line-height: 4rem;
       width: 1.4rem;
+      height: 4rem;
+      vertical-align: middle;
     }
   }
 }

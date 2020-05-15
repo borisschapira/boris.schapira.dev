@@ -91,6 +91,10 @@
     }
   }
 
+  .lang {
+    text-transform: uppercase;
+  }
+
   .menu-trigger {
     z-index: $zindex-nav-trigger;
   }

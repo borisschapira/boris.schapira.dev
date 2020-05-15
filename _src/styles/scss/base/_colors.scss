@@ -14,21 +14,9 @@ $small-triangles: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   color-scheme: light dark;
 
   --color-main-hue: 330;
-  --color-main-saturation: 90%;
-  --color-main-lightning: 25%;
-
   --color-citoyen-hue: 185;
-  --color-citoyen-saturation: 75%;
-  --color-citoyen-lightning: 25%;
-
   --color-papa-hue: 120;
-  --color-papa-saturation: 75%;
-  --color-papa-lightning: 25%;
-
   --color-web-hue: 210;
-  --color-web-saturation: 90%;
-  --color-web-lightning: 35%;
-
   --is-dark-mode: 0;
   --dark-mode-desaturate: 20%;
   --dark-mode-lightup: 45%;
@@ -74,13 +62,8 @@ label.light-mode {
 a {
   --color-main: hsl(
     var(--color-hue),
-    calc(
-      var(--color-saturation) - var(--dark-mode-desaturate) *
-        var(--is-dark-mode)
-    ),
-    calc(
-      var(--color-lightning) + (var(--dark-mode-lightup) * var(--is-dark-mode))
-    )
+    calc(75% - var(--dark-mode-desaturate) * var(--is-dark-mode)),
+    calc(25% + (var(--dark-mode-lightup) * var(--is-dark-mode)))
   );
 
   --color-main-text: hsl(0, 0%, calc(5% + 70% * var(--is-dark-mode)));
@@ -88,60 +71,49 @@ a {
 
   --color-main-desaturate: hsl(
     var(--color-hue),
-    var(--color-saturation),
-    calc(
-      var(--color-lightning) + (var(--dark-mode-lightup) * var(--is-dark-mode)) +
-        40%
-    )
+    75%,
+    calc(25% + (var(--dark-mode-lightup) * var(--is-dark-mode)) + 40%)
   );
 
   --color-main-highlight: hsl(
     var(--color-hue),
-    var(--color-saturation),
-    calc(
-      var(--color-lightning) - 10% + (20% + var(--dark-mode-lightup)) *
-        var(--is-dark-mode)
-    )
+    75%,
+    calc(25% - 10% + (20% + var(--dark-mode-lightup)) * var(--is-dark-mode))
   );
 
   --color-main-discrete: hsl(
     var(--color-hue),
-    var(--color-saturation),
-    calc(
-      var(--color-lightning) + 10% - (20% + var(--dark-mode-lightup)) *
-        var(--is-dark-mode)
-    )
+    75%,
+    calc(25% + 10% - (20% + var(--dark-mode-lightup)) * var(--is-dark-mode))
   );
 
   --color-compliment: hsl(
     calc(var(--color-hue) + 180),
-    var(--color-saturation),
-    calc(
-      var(--color-lightning) + (var(--dark-mode-lightup) * var(--is-dark-mode))
-    )
+    75%,
+    calc(25% + (var(--dark-mode-lightup) * var(--is-dark-mode)))
   );
 
   --color-compliment-desaturate: hsl(
     calc(var(--color-hue) + 180),
-    var(--color-saturation),
-    calc(var(--color-lightning) + (10% * var(--is-dark-mode)) 40%)
+    75%,
+    calc(25% + (10% * var(--is-dark-mode)) 40%)
   );
 
   --color-compliment-highlight: hsl(
     calc(var(--color-hue) + 180),
-    var(--color-saturation),
-    calc(var(--color-lightning) - 10% + 20% * var(--is-dark-mode))
+    75%,
+    calc(25% - 10% + 20% * var(--is-dark-mode))
   );
 
   --color-compliment-discrete: hsl(
     calc(var(--color-hue) + 180),
-    var(--color-saturation),
-    calc(var(--color-lightning) + 10% - 20% * var(--is-dark-mode))
+    75%,
+    calc(25% + 10% - 20% * var(--is-dark-mode))
   );
 
   --color-selection: hsl(
     calc(var(--color-hue) + 180),
-    var(--color-saturation),
+    75%,
     calc(60% - 15% * var(--is-dark-mode))
   );
 
@@ -171,26 +143,18 @@ a {
 
   &.main {
     --color-hue: var(--color-main-hue);
-    --color-saturation: var(--color-main-saturation);
-    --color-lightning: var(--color-main-lightning);
   }
 
   &.citoyen {
     --color-hue: var(--color-citoyen-hue);
-    --color-saturation: var(--color-citoyen-saturation);
-    --color-lightning: var(--color-citoyen-lightning);
   }
 
   &.papa {
     --color-hue: var(--color-papa-hue);
-    --color-saturation: var(--color-papa-saturation);
-    --color-lightning: var(--color-papa-lightning);
   }
 
   &.web {
     --color-hue: var(--color-web-hue);
-    --color-saturation: var(--color-web-saturation);
-    --color-lightning: var(--color-web-lightning);
   }
 }
 
