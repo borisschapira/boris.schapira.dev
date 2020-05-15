@@ -20,7 +20,7 @@
 }
 
 .meta {
-  font-size: unquote('max(16px, 0.75rem)');
+  font-size: unquote('max(16px, 0.85rem)');
   color: var(--color-main-gray);
   margin-top: $global-gutters/2;
 
@@ -134,7 +134,7 @@
   }
 
   .post-title {
-    margin-top: 0;
+    margin: 0 0 0.5rem 0;
   }
   .post-content {
     h2:first-child {

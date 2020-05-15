@@ -3,9 +3,9 @@ layout: default_pagination
 ---
 
 {% if page.category %}
-  {% assign displayCategory = false %}
+  {% assign displayCategory="false" %}
 {% else %}
-  {% assign displayCategory = true %}
+  {% assign displayCategory="true" %}
 {% endif %}
 
 {% for post in paginator.posts %}

@@ -1,6 +1,6 @@
 {%- assign d = include.postDate | l: "%-d", include.locale -%}
 {%- assign m = include.postDate | l: "%B", include.locale -%}
-{{ include.postDate | l: "%A", include.locale }}&nbsp;{%- case m -%}
+{%- case m -%}
   {%- when 'April' or 'May' or 'June' or 'July' -%}{{ m }}
   {%- when 'September' -%}Sept.
   {%- else -%}{{ include.postDate | l: "%b", include.locale }}.
