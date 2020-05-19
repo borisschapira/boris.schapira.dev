@@ -1,6 +1,6 @@
 ---
-title: 'Comment optimiser le chargement des Parties tierces'
-i18n-key: how-to-efficiently-load-third-parties
+title: 'Comment optimiser les performance de vos parties tierces'
+i18n-key: optimize-third-parties-performance
 main_image: '/assets/images/2020-05-20/swimmers-on-body-water-3772419.jpg'
 canonical: 'https://blog.dareboost.com/fr/2020/05/optimiser-performance-parties-tierces/'
 description: >-
@@ -15,7 +15,7 @@ cloudinary_logo: dareboost-logo
 slug: optimiser-parties-tierces
 serie: 'Parties Tierces et Resource Hints'
 translations:
-    en: how-to-efficiently-load-third-parties
+    en: optimize-third-parties-performance
 ---
 
 _Intégrer des librairies ou services existants de parties tierces permet de
