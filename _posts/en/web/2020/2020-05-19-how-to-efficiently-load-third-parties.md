@@ -16,6 +16,7 @@ slug: optimize-third-parties-performance
 serie: 'Third Parties and Resource Hints'
 translations:
     en: optimiser-parties-tierces
+last_modified_at: '2020-05-20T07:26:39.150Z'
 ---
 
 _Embedding an existing library or service as a third party can increase
@@ -177,6 +178,13 @@ data). With such a tool, you serve fonts from your domain, while benefiting from
 Google Fonts content negotiation. This technique, also available for JavaScript
 scripts, is well described in this article from Decitre Tech team:
 "[Limiting the damage of third party JS loading [FR]](https://tech.decitre.fr/posts/optimiser-chargement-js-tiers)".
+
+Cette technique, complexe, n’est pas à la portée de tout le monde. Une
+alternative est donc d’utiliser un mélange de `preload` (pour la feuille de
+style CSS) et de `preconnect` (au domaine servant les polices) pour bénéficier
+de la meilleur optimisation possible. Harry Roberts traite ce sujet en détail
+dans un article paru aujourd’hui-même :
+"[The Fastest Google Fonts](https://csswizardry.com/2020/05/the-fastest-google-fonts/)".
 
 ## Conclusion
 

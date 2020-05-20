@@ -16,6 +16,7 @@ slug: optimiser-parties-tierces
 serie: 'Parties Tierces et Resource Hints'
 translations:
     en: optimize-third-parties-performance
+last_modified_at: '2020-05-20T07:26:39.150Z'
 ---
 
 _Intégrer des librairies ou services existants de parties tierces permet de
@@ -197,6 +198,8 @@ polices depuis votre domaine, tout en bénéficiant de la négociation de conten
 de Google Fonts. Cette technique, également disponible pour les JavaScript, est
 bien décrite dans cet article de l’équipe Tech de Décitre :
 "[Limiter les dégâts du chargement d’un JS tiers](https://tech.decitre.fr/posts/optimiser-chargement-js-tiers)".
+
+Cette technique, complexe, n’est pas à la portée de tout le monde. Une alternative est donc d’utiliser un mélange de `preload` (pour la feuille de style CSS) et de `preconnect` (au domaine servant les polices) pour bénéficier de la meilleur optimisation possible. Harry Roberts traite ce sujet en détail dans un article paru aujourd’hui-même : "[The Fastest Google Fonts](https://csswizardry.com/2020/05/the-fastest-google-fonts/)".
 
 ## Conclusion
 
