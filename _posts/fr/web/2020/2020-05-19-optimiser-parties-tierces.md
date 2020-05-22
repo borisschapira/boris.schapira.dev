@@ -19,11 +19,11 @@ translations:
 last_modified_at: '2020-05-20T07:26:39.150Z'
 ---
 
-_Intégrer des librairies ou services existants de parties tierces permet de
+Intégrer des librairies ou services existants de parties tierces permet de
 gagner en productivité, mais a souvent un coût sur la performance ressentie. Dès
 lors que vous intégrez du code externe, comment vous assurer que ce code ne
 viendra pas nuire au rendu et à l’interactivité de votre site ? Explications et
-propositions pour un code tiers plus performant._
+propositions pour un code tiers plus performant.
 
 <!-- more -->
 

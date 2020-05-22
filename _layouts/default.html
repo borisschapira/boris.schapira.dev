@@ -10,6 +10,7 @@ layout: microtypo
 
     <link href="https://fonts.googleapis.com/css2?family=Lemonada:wght@300..700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="preload" as="style">
     <link href="{% include assets/css.html.liquid name='critical' %}" rel="preload" as="style">
+
     <link href="https://boris.schapira.dev" rel="preconnect" crossorigin="anonymous">
     <link href="https://res.cloudinary.com" rel="preconnect">
     <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -41,8 +42,24 @@ layout: microtypo
 
     {% comment %} Styles {% endcomment %}
     <script>performance.mark('mark_declare_css_start');</script>
-
-    <link href="https://fonts.googleapis.com/css2?family=Lemonada:wght@300..700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+    <script>
+      (function(d, l) {
+        l = d.createElement('link');
+        l.rel = 'stylesheet';
+        l.media='print';
+        l.addEventListener('load', function (e) {
+          l.media = "all";
+        });
+        l.href = 'https://fonts.googleapis.com/css2?family=Lemonada:wght@300..700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap';
+        d.getElementsByTagName('head')[0].appendChild(l);
+      }(document));
+    </script>
+    <noscript>
+      <link
+        href="https://fonts.googleapis.com/css2?family=Lemonada:wght@300..700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap"
+        rel="stylesheet"
+      />
+    </noscript>
 
     <link href="{% include assets/css.html.liquid name='critical' %}" rel="stylesheet" data-proofer-ignore>
     <link href="{% include assets/css.html.liquid name='main' %}" rel="stylesheet" data-proofer-ignore>

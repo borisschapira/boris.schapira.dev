@@ -18,11 +18,11 @@ translations:
     fr: preload-prefetch-et-preconnect-resource-hints
 ---
 
-_Loading a web page requires fetching a whole set of resources which
+Loading a web page requires fetching a whole set of resources which
 collectively allow the page to be displayed and interacted with. To increase the
 user’s perception of speed, you may need to influence the order in which these
 resources are fetched and executed. And that’s where `preload` and Resource
-Hints come in._
+Hints come in.
 
 <!-- more -->
 

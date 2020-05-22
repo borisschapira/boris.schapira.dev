@@ -20,11 +20,11 @@ translations:
     en: preload-prefetch-preconnect-resource-hints
 ---
 
-_Pour charger une page web complète, il faut un ensemble de ressources qui,
+Pour charger une page web complète, il faut un ensemble de ressources qui,
 collectivement, permettent l’affichage et l’interaction avec la page. Pour que
 l’utilisateur ait une impression de vitesse, il peut être nécessaire
 d’influencer l’ordre de récupération et d’exécution de ces ressources. C’est là
-que `preload` et les Resource Hints entrent en jeu._
+que `preload` et les Resource Hints entrent en jeu.
 
 <!-- more -->
 
