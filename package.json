@@ -96,7 +96,7 @@
     "file-loader": "^6.0.0",
     "hasha": "^5.2.0",
     "js-md5": "^0.7.3",
-    "js-yaml": "^3.12.0",
+    "js-yaml": "^3.14.0",
     "mkdirp": "^1.0.4",
     "netlify-lambda": "^1.6.3",
     "rss-parser": "^3.8.0",
