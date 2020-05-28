@@ -10,3 +10,8 @@
   command = "bundle exec rake"
   port = 10443
   publish = "_site"
+
+[[plugins]]
+package = "netlify-build-plugin-dareboost"
+  [plugins.inputs]
+  monitoringIds = "7134"
