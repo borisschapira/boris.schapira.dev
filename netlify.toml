@@ -1,37 +1,30 @@
 [build]
-  command = "bundle exec rake build:generate[prod]; npm run lambda:build"
-  publish = "_site"
-  functions = "lambda"
+command = "bundle exec rake build:generate[prod]; npm run lambda:build"
+publish = "_site"
+functions = "lambda"
 
-[context.branch-deploy]
+[context]
+
+  [context.branch-deploy]
   command = "bundle exec rake build:generate[integ]; npm run lambda:build"
 
 [dev]
-  command = "bundle exec rake"
-  port = 10443
-  publish = "_site"
+command = "bundle exec rake"
+port = 10443
+publish = "_site"
 
 [[plugins]]
 package = "netlify-build-plugin-dareboost"
 
-[plugins.inputs]
-monitoringIds = "7134"
+  [plugins.inputs]
+  monitoringIds = "7134"
 
-[[plugins.inputs.configurations]]
-url = "https://boris.schapira.dev"
-lang = "en"
-location = "San Jose"
-isPrivate = "true"
-visualMetrics = "true"
+    [[plugins.inputs.configurations]]
+    url = "https://boris.schapira.dev"
+    lang = "en"
+    location = "San Jose"
+    isPrivate = "true"
+    visualMetrics = "true"
 
-[plugins.inputs.configurations.browser]
-name = "Galaxy S6"
-
-[[plugins.inputs.configurations]]
-url = "https://boris.schapira.dev"
-lang = "en"
-location = "San Jose"
-isPrivate = "true"
-
-[plugins.inputs.configurations.browser]
-name = "Chrome"
+      [plugins.inputs.configurations.browser]
+      name = "Chrome"
