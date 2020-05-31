@@ -121,6 +121,8 @@
       comment: 'Players from Soundcloup'
     - value: 'art19.com'
       comment: 'Players from LaPoudre'
+    - value: 'www.arteradio.com'
+      comment : 'Arte Radio'
     - value: 'embed.acast.com'
       comment: 'Players from ACast'
     - value: 'www.instagram.com'
