@@ -48,7 +48,7 @@ Que pour changer cela, il va falloir nous comprendre nous-mêmes, et donc que je
 me comprenne moi-même.
 
 Sans savoir d'où viennent ces conditionnements, comment me déconstruire ? C'est
-là qu'est intervenu le travail de Victoire Touaillon dans ma vie.
+là qu'est intervenu le travail de Victoire Tuaillon dans ma vie.
 
 ---
 
@@ -84,7 +84,7 @@ Mon double épisode préféré est
 probablement parce que c'est le premier épisode que j'ai entendu. Plus
 récemment, je recommande
 [cet épisode sur le patrimoine](https://www.binge.audio/le-patrimoine-enjeu-capital/)
-où Victoire Touaillon reçoit Céline Bessière, professeure de sociologie à
+où Victoire Tuaillon reçoit Céline Bessière, professeure de sociologie à
 l’Université Paris Dauphine et Sibylle Gollac, sociologue et chercheuse au CNRS.
 On y parle de couples, de revenus, de séparations et d'inégalités et de
 valorisation du travail domestique :
