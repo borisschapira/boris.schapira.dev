@@ -24,3 +24,4 @@ permalink: /_redirects
 /mariage /tag/mariage/ 301!
 /confs/* /community/:splat 301!
 /webinar-papis-du-web /assets/docs/2020-04-07/clever-age-papis.pdf 301!
+/2020/05/victoire-touaillon/ /2020/05/victoire-tuaillon/ 301!
