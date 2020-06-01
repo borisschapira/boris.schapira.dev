@@ -1,5 +1,5 @@
 ---
-title: 'Victoire Touaillon'
+title: 'Victoire Tuaillon'
 subtitle: "l'orchidoclaste"
 tags:
     - Égalité
@@ -8,7 +8,7 @@ serie: Sorcières
 ---
 
 _Cette introduction est un peu longue. N'hésitez pas à
-[sauter directement à la partie sur Victoire Touaillon](#victoire)._
+[sauter directement à la partie sur Victoire Tuaillon](#victoire)._
 
 Plus que je vieillis, plus je m'interroge sur la manière dont je réagis aux
 choses.
@@ -52,7 +52,7 @@ là qu'est intervenu le travail de Victoire Touaillon dans ma vie.
 
 ---
 
-**<span id="victoire">Victoire Touaillon</span>** est aux commandes du podcast
+**<span id="victoire">Victoire Tuaillon</span>** est aux commandes du podcast
 ["Les Couilles sur la Table" de Binge Audio](https://www.binge.audio/category/les-couilles-sur-la-table/).
 Toutes les deux semaines, elle invite une personne pour parler des masculinités
 contemporaines et aborder ce qui fait que les hommes deviennent des hommes.
@@ -64,7 +64,7 @@ premiers épisodes du podcast. **Je pense que c'est un excellent cadeau à faire
 un homme**, et que certains passages mériteraient à être étudiés plus largement,
 au lycée par exemple.
 
-Dans le travail de Victoire Touaillon, il n'y a pas de généralisation, il n'y a
+Dans le travail de Victoire Tuaillon, il n'y a pas de généralisation, il n'y a
 pas "une" masculinité, il y a des masculinités. Comme dans beaucoup de travaux
 féministes, on y trouve des hommes qui ne savent plus comment être des hommes,
 qui sont violents, qui donnent des ordres, qui harcèlent.  
@@ -80,7 +80,7 @@ certains épisodes plusieurs fois, ou que je ressente le besoin d'en parler parc
 que certaines choses, une fois exposées, sont complexes à assimiler.
 
 Mon double épisode préféré est
-[l'entretien de Victoire Touaillon avec Eric Fassin](https://www.binge.audio/cours-particulier-avec-eric-fassin-12/),
+[l'entretien de Victoire Tuaillon avec Eric Fassin](https://www.binge.audio/cours-particulier-avec-eric-fassin-12/),
 probablement parce que c'est le premier épisode que j'ai entendu. Plus
 récemment, je recommande
 [cet épisode sur le patrimoine](https://www.binge.audio/le-patrimoine-enjeu-capital/)
