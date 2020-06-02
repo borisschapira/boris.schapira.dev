@@ -30,8 +30,8 @@ des solutions à ce problème. Le but : fournir aux webmasters des ensembles de
 fonctions préprogrammées leur permettant d'intégrer des composants qu'on appelle
 désormais [AJAX](https://fr.wikipedia.org/wiki/Asynchronous_JavaScript_And_XML)
 ("Asynchronous JavaScript and XML", mais en plus marketing) à leurs sites Web.
-Et au milieu de toutes ses sociétés, dont bien s&ucirc;r Microsoft, Google, IBM
-et les autres cadors du milieu, le webmaster pouvait un peu se perdre…
+Et au milieu de toutes ses sociétés, dont bien sûr Microsoft, Google, IBM et les
+autres cadors du milieu, le webmaster pouvait un peu se perdre…
 
 Ce ne sera désormais plus un problème puisque un grand nombre des sociétés, dont
 Microsoft, développant des Frameworks Ajax (c'est le nom qu'on donnera aux jeux

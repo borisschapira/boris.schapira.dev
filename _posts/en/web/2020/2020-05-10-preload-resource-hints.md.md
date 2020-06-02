@@ -18,9 +18,9 @@ translations:
     fr: preload-prefetch-et-preconnect-resource-hints
 ---
 
-Loading a web page requires fetching a whole set of resources which
-collectively allow the page to be displayed and interacted with. To increase the
-user’s perception of speed, you may need to influence the order in which these
+Loading a web page requires fetching a whole set of resources which collectively
+allow the page to be displayed and interacted with. To increase the user’s
+perception of speed, you may need to influence the order in which these
 resources are fetched and executed. And that’s where `preload` and Resource
 Hints come in.
 
@@ -215,5 +215,7 @@ domains are concerned.
 As you can see, _with great power comes great responsibility_. If you want to
 get your hands on the priorities generated natively by the browser, then you
 must proceed in a moderate and responsible way, in order to avoid reproducing
-network congestion and CPU consumption that would affect your users. This can be very profitable, especially to [optimize third party services (analytics, web fonts, etc.)](https://blog.dareboost.com/en/2020/05/optimize-third-parties-performance/).  
+network congestion and CPU consumption that would affect your users. This can be
+very profitable, especially to
+[optimize third party services (analytics, web fonts, etc.)](https://blog.dareboost.com/en/2020/05/optimize-third-parties-performance/).  
 Like many web performance topics: test, measure and iterate!

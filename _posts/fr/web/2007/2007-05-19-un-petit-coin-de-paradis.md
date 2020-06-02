@@ -15,10 +15,10 @@ rez-de-chaussé plat et à la douche adaptée aux personnes handicapées en pass
 par une décoration des plus reposantes et une esthétique générale irréprochable.
 
 Donc je récapitule : un propriétaire civique propose de louer des chambres dans
-un très mignon petit chalet au cœur des Vosges. Là , vous êtes s&ucirc;rement en
-train de vous dire que tout cela est hors de prix. Et bien pas du tout. C'est
-pourquoi je vous invite à appeler, si vous cherchez un bon plan pour prendre
-l'air à la montagne :
+un très mignon petit chalet au cœur des Vosges. Là , vous êtes sûrement en train
+de vous dire que tout cela est hors de prix. Et bien pas du tout. C'est pourquoi
+je vous invite à appeler, si vous cherchez un bon plan pour prendre l'air à la
+montagne :
 
 [G&icirc;te du Grand Chêne M. et Mme WIEDER FISCHER 28, le bas de la Goulotte 70270 MELISEY Tél : 03 84 20 08 37 - Fax : 03 84 20 08 37 ](http://www.vosges-saonoises.eu/annuaire_page.php?NumPage=65)
 

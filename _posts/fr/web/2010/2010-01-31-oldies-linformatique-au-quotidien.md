@@ -18,4 +18,4 @@ Jean-Pierre Nizard en est l'éditeur, Bernard Savonet le rédacteur en chef et
 Jean-Luc Verhoye le directeur. Son nom ?
 L'[Ordinateur Individuel](http://www.01net.com/magazines/01net/) bien sûr !
 
-<iframe loading="lazy" width='560' height='315' frameborder='0' marginheight ='0' marginwidth='0' scrolling ='no' src='https://player.ina.fr/player/embed/CAA7900280001/1/1b0bd203fbcd702f9bc9b10ac3d0fc21/560/315/0' ></iframe>
+<iframe loading="lazy" title="1979, l'informatique au quotidien" width='560' height='315' frameborder='0' marginheight ='0' marginwidth='0' scrolling ='no' src='https://player.ina.fr/player/embed/CAA7900280001/1/1b0bd203fbcd702f9bc9b10ac3d0fc21/560/315/0' ></iframe>

@@ -12,6 +12,7 @@
     "lambda:serve": "netlify-lambda serve functions",
     "lambda:build": "netlify-lambda build functions",
     "get-comments": "node ./scripts/get-comments.js",
+    "pretest:visual": "npm install puppeteer --no-save",
     "test:visual": "mocha --timeout 15000 scripts/visual-regression.js",
     "watch": "npm-scripts-watcher"
   },

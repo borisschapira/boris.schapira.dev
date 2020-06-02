@@ -8,7 +8,7 @@ tags:
 La Toile est magique lorsqu'elle est capable de transformer quelques mots de
 [Marie-Jo Foley](https://en.wikipedia.org/wiki/Mary_Jo_Foley) en un évènement
 secouant toutes la communauté des développeurs MS. À tel point que les
-responsables produit Vista ont même d&ucirc; s'en expliquer sur leur
+responsables produit Vista ont même dû s'en expliquer sur leur
 [blog officiel](https://login.live.com/login.srf?wa=wsignin1.0&wtrealm=blogs.technet.com&wreply=https%3a%2f%2fblogs.technet.com%2fb%2fwindows_vista_france%2farchive%2f2007%2f07%2f10%2fla-beta-1-du-sp1-bient-t-disponible.aspx%3fstoAI%3d10&wp=MBI_FED_SSL&wlcxt=microsoft%24microsoft%24microsoft)…
 pour finalement ne répéter que ce que tout le monde savait déjà : le SP1 de
 Vista (un SP ou Service Pack est, rappelons-le, un ensemble de modifications et

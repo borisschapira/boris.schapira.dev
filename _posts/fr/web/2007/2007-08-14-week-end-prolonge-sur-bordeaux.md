@@ -23,10 +23,10 @@ bronzette pour s'occuper de ses fringues) étaient de la partie.
 Samedi : courses en ville. Pour ça, rien de mieux qu'une présence féminine. Il y
 a deux avantages à aller faire ses courses avec une ex (quand on n'a pas sa
 chérie sous la main) : d'abord, c'est une femme (donc à fortiori elle a plus de
-go&ucirc;t que moi) et 2) et ensuite : elle connait à peu près ma façon de
-m'habiller. Résultat : l'achat d'un très sympathique maillot (qui me servira à
-traverser la Seine les soirs d'ivresse) et d'une nouvelle paire de chaussures
-italiennes qui seront parfaites pour aller travailler.
+goût que moi) et 2) et ensuite : elle connait à peu près ma façon de m'habiller.
+Résultat : l'achat d'un très sympathique maillot (qui me servira à traverser la
+Seine les soirs d'ivresse) et d'une nouvelle paire de chaussures italiennes qui
+seront parfaites pour aller travailler.
 
 J'en profite d'ailleurs pour lancer un **appel** : je suis à la recherche du
 costume noir qui irait avec. Si vous avez des bonnes adresses de sur Paris, je

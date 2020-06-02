@@ -23,6 +23,6 @@ l'avenir des migrations vers Open Office du monde entrepreneurial et public :
 pourquoi migrer un parc informatique déjà sous Microsoft Office si la suite
 bureautique déjà installée permet d'enregistrer de manière durable et
 interopérable (car ce sont souvent là les arguments d'une migration à Open
-Office, celui du co&ucirc;t étant rapidement rattrapé par la nécessaire
-formation des salariés et le redéveloppement des applications métiers perdues
-dans la migration), facile à utiliser et familière aux utilisateurs ?
+Office, celui du coût étant rapidement rattrapé par la nécessaire formation des
+salariés et le redéveloppement des applications métiers perdues dans la
+migration), facile à utiliser et familière aux utilisateurs ?

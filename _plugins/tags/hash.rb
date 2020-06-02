@@ -7,8 +7,15 @@ module Jekyll
       @text = text.strip
     end
 
-    def render(_context)
-      Digest::SHA1.hexdigest(@text)
+    # Lookup allows access to the page/post variables through the tag context
+    def lookup(context, name)
+      lookup = context
+      name.split(".").each { |value| lookup = lookup[value] }
+      lookup
+    end
+
+    def render(context)
+      Digest::SHA1.hexdigest("#{lookup(context, @text)}")
     end
   end
 end

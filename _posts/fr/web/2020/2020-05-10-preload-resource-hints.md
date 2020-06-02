@@ -235,6 +235,7 @@ Vous l’aurez compris, _un grand pouvoir implique de grandes responsabilités_.
 vous souhaitez prendre la main sur les priorités attribuées nativement par le
 navigateur, alors vous devez le faire de manière modérée et responsable, afin
 d’éviter de reproduire des engorgements réseau et des consommations CPU
-desservant vos utilisateurs·ices. Cela peut s'avérer très payant, notamment pour [optimiser les services tiers (comme vos analytics ou vos polices d'écriture web)](https://blog.dareboost.com/fr/2020/05/optimiser-performance-parties-tierces/).
+desservant vos utilisateurs·ices. Cela peut s'avérer très payant, notamment pour
+[optimiser les services tiers (comme vos analytics ou vos polices d'écriture web)](https://blog.dareboost.com/fr/2020/05/optimiser-performance-parties-tierces/).
 Comme de nombreux sujets relatifs à la performance web : testez, mesurez et
 itérez !

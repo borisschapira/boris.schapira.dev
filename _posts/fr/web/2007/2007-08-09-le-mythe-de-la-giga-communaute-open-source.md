@@ -32,9 +32,9 @@ conditions sont difficilement remplies par des novices du développement, c'est
 pourquoi les communautés open source sont bien souvent le fruit de la réunion de
 plus petites communautés professionnelles ou d'organisations à but non lucratif
 sponsorisées par des organisations à but très lucratif (qui voient par là le
-moyen de financer à co&ucirc;ts partagés un développement qui pourrait leur
-co&ucirc;ter plus cher en interne) très structurées qui gèrent
-l'industrialisation du développement de l'application.
+moyen de financer à coûts partagés un développement qui pourrait leur coûter
+plus cher en interne) très structurées qui gèrent l'industrialisation du
+développement de l'application.
 
 Comme vous pouvez l'imaginer, difficile de réunir dans ces conditions le travail
 de millions de développeurs (quelques centaines et c'est déjà sévèrement

@@ -79,7 +79,7 @@ développait l'idée que la représentation sociale devait être mieux valorisé
 permettre des accords à l'avantage de l'entreprise en assurant, en contrepartie,
 leur limitation temporelle (pas de reconduction tacite).
 
-<iframe loading="lazy" style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1674229897/size=large/bgcol=ffffff/linkcol=d00b6d/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://l1consolable.bandcamp.com/track/on-vaut-mieux-que-a">On vaut mieux que ça! by L&#39;1consolable</a></iframe>
+<iframe loading="lazy" title="Audio Player" style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1674229897/size=large/bgcol=ffffff/linkcol=d00b6d/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://l1consolable.bandcamp.com/track/on-vaut-mieux-que-a">On vaut mieux que ça! by L&#39;1consolable</a></iframe>
 
 [^pierre]:
     y compris dans les rangs de la Ministre dont la plume,

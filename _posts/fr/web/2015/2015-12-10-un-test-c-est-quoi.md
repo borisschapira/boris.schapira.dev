@@ -66,7 +66,7 @@ souvent <em>client-side</em>, quant l'autre partie se fait <em>server-side</em>.
 ## Exemples ?
 
 | **Technique** | **Caractéristique** | **Niveau**  | **Exemple de tests**                                                                                                                                         |
-| :------------ | :------------------ | :---------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------- | ------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Boîte blanche | Technique           | Unitaire    | Vérifier que la fonction `réserverVoiture(voiture)` change bien le statut de l'objet `voiture` de "DISPONIBLE" à "RESERVEE".                                 |
 | Boîte noire   | Technique           | Unitaire    | Lorsqu’une voiture est disponible, la fonction `verifierDisponibilité(voiture)` renvoie vrai.                                                                |
 | Boîte blanche | Performance         | Unitaire    | Vérifier que la fonction `réserverVoiture(voiture)` s'exécute bien en moins de 120&#8239;ms.                                                                 |

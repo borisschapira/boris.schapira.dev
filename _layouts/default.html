@@ -91,7 +91,15 @@ layout: microtypo
     <meta name="robots" content="noindex,follow">
     {% endif %}
 
-    <title>{{ page.social.title | strip_html }}</title>
+    {%- if page.type == 'year'-%}
+      {%- capture pageTitle -%}{{ page.date | l: "%Y" }}· Boris Schapira{%- endcapture -%}
+    {%- elsif page.type == 'month' -%}
+      {%- capture pageTitle -%}{{ page.date | l: "%B %Y" }}· Boris Schapira{%- endcapture -%}
+    {%- else -%}
+      {%- capture pageTitle -%}{{ page.social.title | strip_html | default: page.title }}{%- endcapture -%}
+    {%- endif -%}
+    <title>{{ pageTitle }}</title>
+
     {% if page.canonical %}
       <link rel="canonical" href="{{ page.canonical }}" data-proofer-ignore/>
     {% else %}
@@ -101,7 +109,7 @@ layout: microtypo
     <meta name="description" content="{{ page.social.description }}" />
     <meta property="og:url" content="{{ page.url }}" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="{{ page.social.title }}" />
+    <meta property="og:title" content="{{ pageTitle }}" />
     <meta property="og:image" content="{{ page.social.image }}" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
@@ -120,7 +128,7 @@ layout: microtypo
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:domain" content="{{ site.domain }}" />
-    <meta name="twitter:title" content="{{ page.social.title }}" />
+    <meta name="twitter:title" content="{{ pageTitle }}" />
     <meta name="twitter:description" content="{{ page.social.description }}" />
     <meta property="twitter:label1" content="Par" />
     <meta property="twitter:data1" content="{{ page.author.name | default: site.author.name }}" />
@@ -206,7 +214,7 @@ layout: microtypo
           </ul>
         </nav>
       </header>
-      <div class="page-title"><h1>{{ page.title }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>{% if page.layout=='post'%}<div class="meta"><time class="dt-published" datetime="{{ datetime }}">{% unless page.locale =='fr' %}{% include date_en.html.liquid postDate=page.date locale=page.locale %}{% else %}{{ page.date | l: '%A %-d', page.locale }} <a href="{{ page.date | l: '%Y/%m/', page.locale | relative_url }}" title="{{ "Articles de" | t: page.locale }} {{ page.date | l: '%B %Y', page.locale }}">{{ page.date | l: '%B', page.locale }}</a> <a href="{{ page.date | l: '%Y/', page.locale | relative_url }}" title="{{ "Articles de" | t: page.locale }} {{ page.date | l: '%Y', page.locale }}">{{ page.date | l: '%Y', page.locale }}</a>{% endunless %}</time>{% if page.serie %}<span><a href="/tag/{{ page.serie | slugify }}">{{ page.serie }}</a></span>{% endif %}{% if page.translation %}<span>{% include read_in.html.liquid
+      <div class="page-title"><h1>{{ page.title | default: pageTitle }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>{% if page.layout=='post'%}<div class="meta"><time class="dt-published" datetime="{{ datetime }}">{% unless page.locale =='fr' %}{% include date_en.html.liquid postDate=page.date locale=page.locale %}{% else %}{{ page.date | l: '%A %-d', page.locale }} <a href="{{ page.date | l: '%Y/%m/', page.locale | relative_url }}" title="{{ "Articles de" | t: page.locale }} {{ page.date | l: '%B %Y', page.locale }}">{{ page.date | l: '%B', page.locale }}</a> <a href="{{ page.date | l: '%Y/', page.locale | relative_url }}" title="{{ "Articles de" | t: page.locale }} {{ page.date | l: '%Y', page.locale }}">{{ page.date | l: '%Y', page.locale }}</a>{% endunless %}</time>{% if page.serie %}<span><a href="/tag/{{ page.serie | slugify }}">{{ page.serie }}</a></span>{% endif %}{% if page.translation %}<span>{% include read_in.html.liquid
         format="verbose"
         locale=page.translation.locale
         url=page.translation.url %}</span>{% endif %}<span class="webshare"><button aria-label="{{ "partager" | t: page.locale }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 483 483">
@@ -270,7 +278,7 @@ layout: microtypo
       {
           "@context": "http://schema.org",
           "@type": "WebPage",
-          "name": "{{ page.social.title | strip_html }}",
+          "name": "{{ pageTitle }}",
           "description": "{{ page.social.description | strip_html }}",
           "url": "{{ page.baseurl | absolute_url }}"
       }

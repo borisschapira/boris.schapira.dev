@@ -25,13 +25,11 @@ _Dernière mise à jour : {{ page.last_modified | l: "%B %Y" }}_
     contexte contraint.  
     Exemples : "toustes", "celleux", "iels", "læ"…
 
-
 {% capture note %} **Sur ce blog**  
 L'ensemble de ce blog ne respecte pas forcément ces règles. Certains articles
 ont été écrits avant que mes valeurs féministes ne m'emmènent sur ces contrées.
 Je ne m'interdis pas de reprendre certains articles récents pour y appliquer ces
-règles.{% endcapture note %}
-{% include note.html.liquid content=note %}
+règles.{% endcapture note %} {% include note.html.liquid content=note %}
 
 ## Écriture inclusive ≠ Abbréviations inclusives
 

@@ -17,13 +17,13 @@ grand. Ils ont peut-être déjà un antécédent de non-remboursement ou alors
 plusieurs crédits, et du coup essuient les refus des organismes de crédit
 traditionnels ("prime market"). Heureusement, le "subprime market" est là .
 
-Alors bien s&ucirc;r vous me direz : "Mais quel intérêt pour une banque
-d'accorder un crédit si c'est pour être s&ucirc;r de ne pas être remboursée ?"
-Et bien tout simplement parce que le bénéfice réalisé sur ces crédit à fort taux
-d'intérêt est grand et que de toutes façons, ces crédits sont garantis sur
-l'élément immobilier acheté par l'emprunteur. Ainsi, si l'emprunteur ne peut
-plus payer ses dettes, il doit vendre sa maison ce qui, avec la flambée de
-l'immobilier, ramène plus que ce que la la banque a prêté pour l'acheter.
+Alors bien sûr vous me direz : "Mais quel intérêt pour une banque d'accorder un
+crédit si c'est pour être sûr de ne pas être remboursée ?" Et bien tout
+simplement parce que le bénéfice réalisé sur ces crédit à fort taux d'intérêt
+est grand et que de toutes façons, ces crédits sont garantis sur l'élément
+immobilier acheté par l'emprunteur. Ainsi, si l'emprunteur ne peut plus payer
+ses dettes, il doit vendre sa maison ce qui, avec la flambée de l'immobilier,
+ramène plus que ce que la la banque a prêté pour l'acheter.
 
 Et là , une deuxième question devrait vous assaillir (c'est violent une
 question) : "Pourquoi souscrire un crédit si on se sait incapable d'en supporter

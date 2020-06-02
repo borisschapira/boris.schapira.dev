@@ -25,10 +25,10 @@ nous, c'est surtout l'occasion de rencontrer des gens de chez Microsoft France
 pseudo ou un nom croisé maintes fois sur notre forum dédié. L'entente des MSP
 entre eux est primordiale et fait parfois naitre entre nous une saine émulation.
 
-Nous n'avons bien s&ucirc;r pas coupé au rappel du programme par Laurent
-Ellerbach. Mais j'avoue que ça avait rarement été aussi naturel. Ségolène, notre
-fabuleuse responsable enn interne, nous a ensuite présenté les quelques
-points-clés qui feraient la rentrée 2007 (chuuuut, nous ne dirons rien !).
+Nous n'avons bien sûr pas coupé au rappel du programme par Laurent Ellerbach.
+Mais j'avoue que ça avait rarement été aussi naturel. Ségolène, notre fabuleuse
+responsable enn interne, nous a ensuite présenté les quelques points-clés qui
+feraient la rentrée 2007 (chuuuut, nous ne dirons rien !).
 
 Les nouveaux sont venus récupérer leur diplôme (oui, on se la joue un peu avec
 ça mais ça renforce l'idée d'appartenance et d'honneur). Ils ont même pu se

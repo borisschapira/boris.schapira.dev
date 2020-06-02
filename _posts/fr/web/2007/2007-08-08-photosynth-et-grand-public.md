@@ -10,11 +10,11 @@ J'ai tenté de reprendre un article pas si vieux (j'en ai juste posté 280 depui
 pour rendre son argumentaire plus clair. Voyons-voir si j'y arrive.
 
 Pour avoir un peu travaillé avec mes amis esieens sur un projet de calibrage de
-caméra par stéréovision (en Java, si si), j'ai une petite idée des
-<strike>coups</strike> co&ucirc;ts que peuvent représenter les innombrables
-calculs nécessaires à la reconstitution offerte par PhotoSynth d'une galerie de
-photos (d'autant que nous avions en grande partie travaillé à partir des
-recherches d'un salarié de Microsoft Research).
+caméra par stéréovision (en Java, si si), j'ai une petite idée des coûts que
+peuvent représenter les innombrables calculs nécessaires à la reconstitution
+offerte par PhotoSynth d'une galerie de photos (d'autant que nous avions en
+grande partie travaillé à partir des recherches d'un salarié de Microsoft
+Research).
 
 La première difficulté à la mise en place d'un service ouvert au grand public
 est ainsi indéniablement technologique : offrir espace et puissance pour une
@@ -36,15 +36,14 @@ elles-mêmes des éléments de décor reconnus par PhotoSynth. Pour continuer av
 l'exemple de la Tour Eiffel, on pourrait très bien imaginer dé-zoomer d'une
 photo prise d'un des pieds et finir sur cette publicité du Club Med.
 
-PhotoSynth est donc un service qu'il sera s&ucirc;rement difficile de proposer
-au grand public dans une vision de collaboration globale. À l'inverse, il est
-plus aisé d'imaginer une vision plus réduite de cet esprit communautaire : on
-aurait ainsi plusieurs espaces de stockage limités à quelques gigas et réservés
-chacun à certaines communautés de partage. Vous pourriez ainsi décider, à votre
-retour de vacances organisées sur Paris, de partager vos photos avec les
-personnes qui vous accompagnaient. Les sources des photos sont ainsi
-identifiables et vous profitez instantanément de l'ensemble du patrimoine de
-mémoire du voyage.
+PhotoSynth est donc un service qu'il sera sûrement difficile de proposer au
+grand public dans une vision de collaboration globale. À l'inverse, il est plus
+aisé d'imaginer une vision plus réduite de cet esprit communautaire : on aurait
+ainsi plusieurs espaces de stockage limités à quelques gigas et réservés chacun
+à certaines communautés de partage. Vous pourriez ainsi décider, à votre retour
+de vacances organisées sur Paris, de partager vos photos avec les personnes qui
+vous accompagnaient. Les sources des photos sont ainsi identifiables et vous
+profitez instantanément de l'ensemble du patrimoine de mémoire du voyage.
 
 L'étape suivante est une mise à disposition de votre galerie PhotoSynth à la
 consultation des autres utilisateurs et, entre deux communautés de partage dont

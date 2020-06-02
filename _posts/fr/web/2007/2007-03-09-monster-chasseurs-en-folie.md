@@ -10,7 +10,7 @@ un stage chez Microsoft France allait me rapporter beaucoup d'offres de
 chasseurs de profils. Voulant tester, j'ai mis ce matin mon CV à jour sur
 [Monster.fr](http://www.monster.fr/)…
 
-A 15:30, j'ai d&ucirc; retourner sur [Monster.fr](http://www.monster.fr/) pour
+A 15:30, j'ai dû retourner sur [Monster.fr](http://www.monster.fr/) pour
 supprimer toute trace de mon numéro de téléphone mobile. 8 recruteurs avaient
 déjà appelé pour que l'on fixe un entretien (sachant que je ne suis disponible
 qu'en Septembre ils s'y prennent tôt). Nul doute que cela tient avant tout à ma

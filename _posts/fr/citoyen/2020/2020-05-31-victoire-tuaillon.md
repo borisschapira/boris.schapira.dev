@@ -90,7 +90,7 @@ On y parle de couples, de revenus, de séparations et d'inégalités et de
 valorisation du travail domestique :
 
 <div class="videoWrapper" style="padding-bottom: 40%;">
-<iframe loading="lazy" src="https://embed.acast.com/les-couilles-sur-la-table/df278725-479b-48d4-9d8a-1ae8ddac2e6f" frameBorder="0" width="100%" height="110px" allow="autoplay"></iframe>
+<iframe loading="lazy" title="Le patrimoine, enjeu capital" src="https://embed.acast.com/les-couilles-sur-la-table/df278725-479b-48d4-9d8a-1ae8ddac2e6f" frameBorder="0" width="100%" height="110px" allow="autoplay"></iframe>
 </div>
 
 ---
@@ -101,5 +101,5 @@ j'avais beaucoup aimé à sa sortie sur la "voix" très spéciale que prennent l
 journalistes. Devinez qui en était l'autrice ?_
 
 <div class="videoWrapper" style="padding-bottom: 40%;">
-<iframe title="Arte Radio" src="https://www.arteradio.com/son/61658634/et_la_c_est_le_drame?embed" style="border:1px #DADADA solid;" name="" scrolling="no" scrolling="no" align="bottom" width="600" height="125"></iframe>
+<iframe loading="lazy" title="Arte Radio" src="https://www.arteradio.com/son/61658634/et_la_c_est_le_drame?embed" style="border:1px #DADADA solid;" name="" scrolling="no" scrolling="no" width="600" height="125"></iframe>
 </div>
