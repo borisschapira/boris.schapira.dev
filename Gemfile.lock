@@ -23,7 +23,7 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll-archives/
-  revision: 81788bfe4d023a82f18defa62965d9c7fd87c964
+  revision: 9d3d3cb0bca5c3c169699676200278c4159091d1
   specs:
     jekyll-archives (2.2.1)
       jekyll (>= 3.6, < 5.0)
@@ -142,7 +142,7 @@ GEM
     ruby-enum (0.8.0)
       i18n
     safe_yaml (1.0.5)
-    sassc (2.3.0)
+    sassc (2.4.0)
       ffi (~> 1.9)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
