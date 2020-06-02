@@ -1,8 +1,10 @@
 ---
-title: "Que penser des Core Web Vitals ?"
+title: 'Que penser des Core Web Vitals ?'
 i18n-key: web-vitals
 description: >-
-    Au travers des Core Web Vitals, Google explicite, pour la première fois, les indicateurs qui lui serviront à évaluer Performance Web et Expérience Utilisateur. Cela change-t-il le paysage de la Performance Web ?
+    Au travers des Core Web Vitals, Google explicite, pour la première fois, les
+    indicateurs qui lui serviront à évaluer Performance Web et Expérience
+    Utilisateur. Cela change-t-il le paysage de la Performance Web ?
 tags:
     - 'Performance Web'
     - Google
@@ -66,10 +68,19 @@ calculé à l'échelle par Google, pour évaluer le <em lang="en">ranking</em>.
 ---
 
 **Dernier préambule** : je pense que cette nouvelle dénomination de Signaux
-Essentiels est moins une opportunité pour le monde du SEO que pour celui de
+Essentiels ne va pas constituer une opportunité pour le monde du SEO. Comme le
+dit Olivier Andrieu :
+
+> L'UX ne sera jamais un critère SEO majeur.
+> <cite>"[Core Web Vitals : l’UX bientôt pris en compte par Google ? Prenons du recul…](https://www.abondance.com/20200529-42880-core-web-vitals-lux-sera-t-il-bientot-pris-en-compte-par-google-prenons-du-recul.html)"</cite>
+
+En revanche, c'est une opportunité intéressante pour les professionnels de
 l'Expérience Utilisateur, qui pourrait y voir une première phase peu coûteuse
 d'approche quantitative, préliminaire à une phase d'étude qualitative plus
 spécifique à l'usage étudié.
+
+Et si c'est une clé pour l'UX, c'est donc aussi une clé pour le SXO
+(<em lang="en">Search Experience Optimization</em>).
 
 ---
 
