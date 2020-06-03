@@ -2,7 +2,7 @@
 title: 'Self Restraint'
 i18n-key: self-restraint
 description: >-
-    A brief reflection on the state of the Web and our individual responsibilities.
+    A short thought on the state of the Web and our individual responsibilities.
 tags:
     - 'Performance Web'
     - JavaScript
