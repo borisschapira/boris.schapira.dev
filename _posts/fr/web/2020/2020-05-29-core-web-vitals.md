@@ -9,6 +9,7 @@ tags:
     - 'Performance Web'
     - Google
 slug: core-web-vitals-qu-en-penser
+last_modified_at: '2020-06-03T10:20:00.000Z'
 ---
 
 Il y a quelques semaines, Google a créé une nouvelle appellation pour un jeu
@@ -152,9 +153,15 @@ modifications visuelles susceptibles de tromper ou frustrer l’utilisateur parc
 qu'elles déplacent des éléments. Si l’intention derrière le CLS est géniale – et
 que des propriétés CSS commencent à apparaitre pour limiter ces mouvements
 ([comme `contain`](https://css-tricks.com/lets-take-a-deep-dive-into-the-css-contain-property/)) –
-je pense que nous manquons collectivement de recul sur l’algorithme et donc sur
-l'indicateur lui-même. Pour le coup, les spécialistes de l'UX sauront peut-être
-nous en dire plus.
+je pense que nous manquons collectivement de recul sur l’algorithme, et donc sur
+l'indicateur lui-même.
+
+Des choses seraient à creuser sur sa sensibilité à l'orientation, son rapport
+aux interactions et aux animations. J'ai en tête des exemple de pages très
+désagréables en termes de déplacement d'éléments, mais qui auraient un bon CLS.
+Le sujet est très complexe. Je ne suis pas certain que l'algorithme soit
+suffisament complexe pour être pertinent dans un contexte de
+<em lang="en">ranking</em>.
 
 ---
 
