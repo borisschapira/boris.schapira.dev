@@ -190,3 +190,41 @@ footer {
     background-image: $small-triangles;
   }
 }
+
+td {
+  &.veryhigh {
+    background-color: hsl(
+      10,
+      calc(60% - var(--dark-mode-desaturate) * var(--is-dark-mode)),
+      calc(85% - (60% * var(--is-dark-mode)))
+    );
+  }
+  &.high {
+    background-color: hsl(
+      0,
+      calc(60% - var(--dark-mode-desaturate) * var(--is-dark-mode)),
+      calc(85% - (60% * var(--is-dark-mode)))
+    );
+  }
+  &.medium {
+    background-color: hsl(
+      30,
+      calc(60% - var(--dark-mode-desaturate) * var(--is-dark-mode)),
+      calc(85% - (60% * var(--is-dark-mode)))
+    );
+  }
+  &.low {
+    background-color: hsl(
+      210,
+      calc(60% - var(--dark-mode-desaturate) * var(--is-dark-mode)),
+      calc(85% - (60% * var(--is-dark-mode)))
+    );
+  }
+  &.lowest {
+    background-color: hsl(
+      178,
+      calc(60% - var(--dark-mode-desaturate) * var(--is-dark-mode)),
+      calc(85% - (60% * var(--is-dark-mode)))
+    );
+  }
+}
