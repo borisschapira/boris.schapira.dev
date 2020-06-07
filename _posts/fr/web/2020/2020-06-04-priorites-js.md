@@ -7,6 +7,7 @@ tags:
     - 'Performance Web'
     - JavaScript
 slug: priorites-js
+main_image: /assets/images/2020-06-04/synthese.png
 ---
 
 _Je relis et conseille souvent cet article d'Addy Osmani de **février 2019**
