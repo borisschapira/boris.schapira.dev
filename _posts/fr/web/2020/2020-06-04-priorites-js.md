@@ -8,6 +8,9 @@ tags:
     - JavaScript
 slug: priorites-js
 main_image: /assets/images/2020-06-04/synthese.png
+header1: "Priorité de chargement (network/Blink)"
+header2: "Priorité d'exécution"
+header3: "Comment l'utiliser ?"
 ---
 
 _Je relis et conseille souvent cet article d'Addy Osmani de **février 2019**
@@ -25,29 +28,30 @@ des scripts, il peut également être utile de savoir comment les navigateurs le
 interprètent. Grâce à Kouhei Ueno, nous disposons maintenant d'un résumé
 actualisé de la manière dont les scripts sont ordonnancés dans Chrome.
 
-<table>
-  <tbody>
+<table class="responsive">
+  <thead>
     <tr>
       <td></td>
       <td>
         <strong
-          >Priorité de chargement<br />
-          (network/Blink)</strong
+          >{{ page.header1 }}</strong
         >
       </td>
-      <td><strong>Priorité d'exécution</strong></td>
-      <td><strong>Comment l'utiliser?</strong></td>
+      <td><strong>{{ page.header2 }}</strong></td>
+      <td><strong>{{ page.header3 }}</strong></td>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <td class="heading">
         <code>&lt;script&gt;</code> dans <code>&lt;head&gt;</code>
       </td>
-      <td class="medium">Moyenne/Haute</td>
-      <td class="veryhigh">
+      <td data-label="{{ page.header1 }}" class="medium">Moyenne/Haute</td>
+      <td data-label="{{ page.header2 }}" class="veryhigh">
         Très Haute -<br />
         Interrompt l'analyse
       </td>
-      <td>
+      <td data-label="{{ page.header3 }}">
         <ul>
           <li>
             Scripts ayant une incidence sur le rendu du
@@ -90,12 +94,12 @@ actualisé de la manière dont les scripts sont ordonnancés dans Chrome.
         <br>
           <code>&lt;script type=module async&gt;</code>
       </td>
-      <td class="medium">Moyenne/Haute</td>
-      <td class="high">
+      <td data-label="{{ page.header1 }}" class="medium">Moyenne/Haute</td>
+      <td data-label="{{ page.header2 }}" class="high">
         Haute -<br />
         Interrompt l'analyse
       </td>
-      <td>
+      <td data-label="{{ page.header3 }}">
         <ul>
           <li>
             Scripts qui produisent un contenu critique (requis pour le FMP)
@@ -119,12 +123,12 @@ actualisé de la manière dont les scripts sont ordonnancés dans Chrome.
     </tr>
     <tr>
       <td class="heading"><code>&lt;script async&gt;</code></td>
-      <td class="low">La plus basse/Basse</td>
-      <td class="high">
+      <td data-label="{{ page.header1 }}" class="low">La plus basse/Basse</td>
+      <td data-label="{{ page.header2 }}" class="high">
         Haute -<br />
         Interrompt l'analyse
       </td>
-      <td>
+      <td data-label="{{ page.header3 }}">
         Faites
         <a href="https://calendar.perfplanet.com/2016/prefer-defer-over-async/"
           >attention</a
@@ -134,13 +138,13 @@ actualisé de la manière dont les scripts sont ordonnancés dans Chrome.
     </tr>
     <tr>
       <td class="heading"><code>&lt;script defer&gt;</code></td>
-      <td class="low">La plus basse/Basse</td>
-      <td class="lowest">
+      <td data-label="{{ page.header1 }}" class="low">La plus basse/Basse</td>
+      <td data-label="{{ page.header2 }}" class="lowest">
         Très basse -<br />
         S'exécute après les <code>&lt;script&gt;</code>s en fin de
         <code>&lt;body&gt;</code>
       </td>
-      <td>
+      <td data-label="{{ page.header3 }}">
         <ul>
           <li>Scripts qui génèrent du contenu non-critique</li>
           <li>
@@ -170,12 +174,12 @@ actualisé de la manière dont les scripts sont ordonnancés dans Chrome.
       <td class="heading">
         <code>&lt;script&gt;</code> en fin de <code>&lt;body&gt;</code>
       </td>
-      <td class="medium">Moyenne/Haute</td>
-      <td class="low">
+      <td data-label="{{ page.header1 }}" class="medium">Moyenne/Haute</td>
+      <td data-label="{{ page.header2 }}" class="low">
         Basse -<br />
         Attend la fin de l'analyse
       </td>
-      <td>
+      <td data-label="{{ page.header3 }}">
         Attention, quand vous utilisez <code>&lt;script&gt;</code> à la fin de 
         <code>&lt;body&gt;</code> et que vous pensez définir une priorité basse. Ces scripts sont ordonnancés avec une priorité Moyenne/Haute.
       </td>
@@ -185,16 +189,16 @@ actualisé de la manière dont les scripts sont ordonnancés dans Chrome.
         <code>&lt;script defer&gt;</code> en fin de
         <code>&lt;body&gt;</code>
       </td>
-      <td class="lowest">
+      <td data-label="{{ page.header1 }}" class="lowest">
         La plus basse/Basse -<br />
         fin de queue
       </td>
-      <td class="lowest">
+      <td data-label="{{ page.header2 }}" class="lowest">
         Très basse -<br />
         S'exécute après les <code>&lt;script&gt;</code>s en fin de
         <code>&lt;body&gt;</code>
       </td>
-      <td>
+      <td data-label="{{ page.header3 }}">
         <ul>
           <li>
             Scripts offrant des fonctionnalités interactives utilisées occasionnellement
@@ -212,9 +216,9 @@ actualisé de la manière dont les scripts sont ordonnancés dans Chrome.
       <td>
         <code>&lt;link rel=prefetch&gt;</code> + <code>&lt;script&gt;</code> lors d'une navigation vers la page suivante
       </td>
-      <td class="lowest">Inactive / La plus basse</td>
-      <td class="medium">Dépend du moment et de la manière dont le script est consommé.</td>
-      <td>
+      <td data-label="{{ page.header1 }}" class="lowest">Inactive / La plus basse</td>
+      <td data-label="{{ page.header2 }}" class="medium">Dépend du moment et de la manière dont le script est consommé.</td>
+      <td data-label="{{ page.header3 }}">
         Des scripts très susceptibles d'apporter des fonctionnalités importantes à une page visitée ultérieurement.
         <br><br>
         <strong>Exemples&nbsp;:</strong>

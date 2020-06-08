@@ -282,6 +282,59 @@ table {
     border: solid 1px var(--color-main-text);
     padding: 0.5rem;
   }
+
+  @include media('<=medium') {
+    &.responsive {
+      display: block;
+      thead,
+      tbody,
+      th,
+      td,
+      tr {
+        display: block;
+      }
+      /* Hide table headers (but not display: none;, for accessibility) */
+      thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+      }
+
+      tbody {
+        tr {
+          border: 1px solid #ccc;
+        }
+
+        td {
+          /* Behave  like a "row" */
+          position: relative;
+          border-style: double;
+          border-width: 0.5rem;
+        }
+
+        td[data-label] {
+          padding-top: 2rem;
+          border: none;
+        }
+
+        td:before {
+          /* Now like a table header */
+          position: absolute;
+          /* Top/left values mimic padding */
+          top: 6px;
+          left: 6px;
+          padding-right: 10px;
+          white-space: nowrap;
+          font-weight: bold;
+        }
+
+        /* Label the data */
+        td:before {
+          content: attr(data-label);
+        }
+      }
+    }
+  }
 }
 
 strong {
