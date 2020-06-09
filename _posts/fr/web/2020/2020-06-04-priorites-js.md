@@ -17,7 +17,7 @@ _Je relis et conseille souvent cet article d'Addy Osmani de **février 2019**
 mais mes interlocuteurs et interlocutrices ne sont pas forcément anglophones.
 J'ai donc décidé de le traduire._
 
-<div class="canonical">
+<div class="emphasis">
 <strong>Retrouvez l'original sur le blog d'Addy Osmani&nbsp;:</strong> <a href="https://addyosmani.com/blog/script-priorities/" lang="en">JavaScript Loading Priorities in Chrome</a>.
 </div>
 

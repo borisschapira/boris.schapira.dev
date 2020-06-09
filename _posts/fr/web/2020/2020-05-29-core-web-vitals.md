@@ -9,7 +9,7 @@ tags:
     - 'Performance Web'
     - Google
 slug: core-web-vitals-qu-en-penser
-last_modified_at: '2020-06-03T10:20:00.000Z'
+last_modified_at: '2020-06-09T12:48:00.000Z'
 ---
 
 Il y a quelques semaines, Google a créé une nouvelle appellation pour un jeu
@@ -22,6 +22,10 @@ souhaite
 l'année prochaine.
 
 Prenons un peu de recul.
+
+<div class="emphasis">
+Ceci est un avis personnel sur les Core Web Vitals. Retrouvez un avis complémentaire sur <strong>le blog de Dareboost</strong>&nbsp;: <a href="https://blog.dareboost.com/fr/2020/06/signaux-web-essentiels-core-web-vitals/">Signaux Web essentiels (Core Web Vitals) : un nouveau facteur SEO axé sur la vitesse des pages web</a>.
+</div>
 
 **Préambule 1** : qu'est-ce qu'un bon indicateur pour le marché ? À mon sens,
 c'est un indicateur qui mesure ce qu'il dit mesurer et qui, une fois cette

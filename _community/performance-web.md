@@ -21,7 +21,7 @@ last_modified_at: 2012-05-25
 
 {% include media/vimeo.html.liquid id="56931059" title="Mettre en place une strat&eacute;gie de performance web, Boris Shapira - Sud Web 2012" %}
 
-<em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur
+<em class="emphasis">**Note&nbsp;:** l'article ci-dessous a été publié sur
 [Clever Age](https://www.clever-age.com/fr/) dans
 [Mettre en place une stratégie de Performance Web](https://blog.clever-age.com/fr/2012/11/16/comment-mettre-en-place-une-strategie-de-performance-web/)
 plusieurs mois après la conférence. Son contenu est donc plus élaboré.</em>
