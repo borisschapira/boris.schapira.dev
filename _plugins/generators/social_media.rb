@@ -108,7 +108,7 @@ module Jekyll
         logo = page.data["cloudinary_logo"]
       end
 
-      font_size = Integer(-0.86 * title.size + 145)
+      font_size = Integer(-0.86 * title.size + 135)
 
       twitter_nick = 'borisschapira'
       twitter_left = 64
