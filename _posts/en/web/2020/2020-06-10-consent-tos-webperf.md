@@ -9,7 +9,7 @@ tags:
     - GDPR
 slug: consent-tos-webperf
 translations:
-    fr: consentement-cgu-webperf
+    fr: consentement-tests
 ---
 
 Let's imagine that you deploy on your site a consent collection mechanism tied
