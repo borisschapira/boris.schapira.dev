@@ -118,7 +118,7 @@ browsers:
 -   `preconnect`: indicates to the browser that it should connect a given
     origin, before that domain is used to download resources. Preconnecting
     involves, like - `dns-prefetch`, the DNS resolution, but also the TCP
-    handshake and TSL negotiation (if the page is secure)
+    handshake and TLS negotiation (if the page is secure)
 -   `prefetch`: indicates to the browser that it can download a given resource,
     even if it is not detected in the page. The resource is downloaded with a
     low priority

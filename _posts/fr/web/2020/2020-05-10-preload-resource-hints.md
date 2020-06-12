@@ -124,7 +124,7 @@ des navigateurs récents :
 -   `preconnect` : indique au navigateur qu’il pourrait se connecter à l’origine
     fournie, avant que celle-ci ne soit utilisée pour télécharger des
     ressources. Cela implique, comme `dns-prefetch`, la résolution DNS, mais
-    également l’établissement de la connexion TCP et la négociation TSL (si la
+    également l’établissement de la connexion TCP et la négociation TLS (si la
     page est en HTTPS) ;
 -   `prefetch` : indique au navigateur qu’il pourrait télécharger une ressource
     donnée, même si elle n’est pas détectée dans la page. La priorité de ce
