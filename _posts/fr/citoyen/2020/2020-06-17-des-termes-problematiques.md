@@ -15,7 +15,7 @@ _Je ne suis pas linguiste ni concerné, ceci n'est qu'une opinion située._
 
 <strong id="p1">1.</strong> Chaque communauté a son vocabulaire. Des termes et
 des constructions apparaissent ou tombent en désuétude suivant les époques. Le
-français que nous parlont aujourd'hui n'a rien à voir avec celui d'il y a 200
+français que nous parlons aujourd'hui n'a rien à voir avec celui d'il y a 200
 ans. Si nous avons un jour créé des termes, nous pouvons en créer de nouveaux et
 en réhabiliter des anciens sans problème. La langue est vivante.
 
