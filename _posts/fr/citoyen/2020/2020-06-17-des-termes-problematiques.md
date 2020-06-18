@@ -83,9 +83,11 @@ habitude ne dit pas grand-chose d'une personne, ça dit quelque chose de
 l'environnement dans lequel il ou elle évolue.
 
 Mais une fois que la nature problématique d'un terme a été évoquée, la manière
-dont les individus réagissent créée des perceptions différentes. Celleux qui
-soutiennent le changement ou se placeront dans une posture d'opposition verront
-leurs revendications sur un échiquier politique, qu'ils le veuille ou non.  
+dont les individus réagissent fait qu'ils seront perçus différemment. Qu'ils
+soutiennent le changement ou, au contraire, se placent dans une posture
+d'opposition, ils seront perçus, de l'extérieur, comme appuyant une position
+politique, qu'ils le veuillent ou non.
+
 Ce n'est cependant pas la seule façon de réagir. Voir [point 2](#p2).
 
 ---
