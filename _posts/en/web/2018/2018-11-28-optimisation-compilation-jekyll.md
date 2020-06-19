@@ -194,7 +194,7 @@ A small price to pay to save another **9%** of compilation time.
 
 ## Trust the team for going in the right direction
 
-Finally, one of the last improvements made was to switch to the `master` version
+Finally, one of the last improvements made was to switch to the `main` version
 of Jekyll. Since 3.8.5 (my previous version), many improvements have been made,
 and the performance gain is really considerable: **93%**.
 
@@ -251,52 +251,52 @@ Here is the raw data:
 | Test 1  | 2 - Switch to liquid-c   | 1509,997     |
 | Test 1  | 3 - Remove LSI           | 1264,981     |
 | Test 1  | 4 - Switch to CommonMark | 1282,607     |
-| Test 1  | 5 - Switch to master     | 64,949       |
+| Test 1  | 5 - Switch to main       | 64,949       |
 | Test 2  | 1 - Before               | 1510,356     |
 | Test 2  | 2 - Switch to liquid-c   | 1457,161     |
 | Test 2  | 3 - Remove LSI           | 1239,278     |
 | Test 2  | 4 - Switch to CommonMark | 1058,934     |
-| Test 2  | 5 - Switch to master     | 72,335       |
+| Test 2  | 5 - Switch to main       | 72,335       |
 | Test 3  | 1 - Before               | 2148,253     |
 | Test 3  | 2 - Switch to liquid-c   | 1465,446     |
 | Test 3  | 3 - Remove LSI           | 1253,785     |
 | Test 3  | 4 - Switch to CommonMark | 886,152      |
-| Test 3  | 5 - Switch to master     | 92,384       |
+| Test 3  | 5 - Switch to main       | 92,384       |
 | Test 4  | 1 - Before               | 1621,322     |
 | Test 4  | 2 - Switch to liquid-c   | 1506,737     |
 | Test 4  | 3 - Remove LSI           | 1225,414     |
 | Test 4  | 4 - Switch to CommonMark | 1057,497     |
-| Test 4  | 5 - Switch to master     | 87,943       |
+| Test 4  | 5 - Switch to main       | 87,943       |
 | Test 5  | 1 - Before               | 1589,323     |
 | Test 5  | 2 - Switch to liquid-c   | 1607,33      |
 | Test 5  | 3 - Remove LSI           | 1261,815     |
 | Test 5  | 4 - Switch to CommonMark | 914,124      |
-| Test 5  | 5 - Switch to master     | 77,526       |
+| Test 5  | 5 - Switch to main       | 77,526       |
 | Test 6  | 1 - Before               | 1643,596     |
 | Test 6  | 2 - Switch to liquid-c   | 1481,98      |
 | Test 6  | 3 - Remove LSI           | 1237,843     |
 | Test 6  | 4 - Switch to CommonMark | 1336,47      |
-| Test 6  | 5 - Switch to master     | 69,099       |
+| Test 6  | 5 - Switch to main       | 69,099       |
 | Test 7  | 1 - Before               | 1456,432     |
 | Test 7  | 2 - Switch to liquid-c   | 1487,558     |
 | Test 7  | 3 - Remove LSI           | 1268,737     |
 | Test 7  | 4 - Switch to CommonMark | 1106,233     |
-| Test 7  | 5 - Switch to master     | 69,562       |
+| Test 7  | 5 - Switch to main       | 69,562       |
 | Test 8  | 1 - Before               | 2943,453     |
 | Test 8  | 2 - Switch to liquid-c   | 1492,383     |
 | Test 8  | 3 - Remove LSI           | 1229,34      |
 | Test 8  | 4 - Switch to CommonMark | 1321,156     |
-| Test 8  | 5 - Switch to master     | 70,332       |
+| Test 8  | 5 - Switch to main       | 70,332       |
 | Test 9  | 1 - Before               | 1587,532     |
 | Test 9  | 2 - Switch to liquid-c   | 1586,698     |
 | Test 9  | 3 - Remove LSI           | 1264,424     |
 | Test 9  | 4 - Switch to CommonMark | 950,634      |
-| Test 9  | 5 - Switch to master     | 69,907       |
+| Test 9  | 5 - Switch to main       | 69,907       |
 | Test 10 | 1 - Before               | 1643,22      |
 | Test 10 | 2 - Switch to liquid-c   | 1581,063     |
 | Test 10 | 3 - Remove LSI           | 1229,119     |
 | Test 10 | 4 - Switch to CommonMark | 1332,547     |
-| Test 10 | 5 - Switch to master     | 69,022       |
+| Test 10 | 5 - Switch to main       | 69,022       |
 
 [^parole]:
     You're going to have to take my word for it, because my experimental

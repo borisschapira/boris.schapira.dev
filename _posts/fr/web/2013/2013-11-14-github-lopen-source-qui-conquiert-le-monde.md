@@ -160,7 +160,7 @@ Certains,
 ont déjà essayé d’imaginer l’utilisation de GitHub pour l’écriture :
 
 -   L’auteur principal créé la structure basique d’un document et quelques
-    éléments de base (branche _master_);
+    éléments de base (sur la branche par défaut);
 -   Chaque collaborateur voulant contribuer peut démarrer en un clic la
     contribution sans se préoccuper de gêner les autres contributeurs (en
     réalisant un _fork_);

@@ -31,7 +31,7 @@ votre mode de fonctionnement (IDE, outil de virtualisation… que sais-je encore
 ## Comment faire ?
 
 1.  Créer ce `.gitignore` global. Par exemple, sous Mac, ça donnerait
-    [au moins ça](https://github.com/github/gitignore/blob/master/Global/macOS.gitignore).
+    [au moins ça](https://github.com/github/gitignore/blob/main/Global/macOS.gitignore).
     Perso, je stocke ça dans `~/.gitignore` et considère que ça fait partie de
     mon profil utilisateur (même si ça se discute, mais c’est surtout pour être
     capable de retrouver facilement le fichier et qu'il soit sauvegardé en même

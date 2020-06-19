@@ -46,5 +46,5 @@ _C’est fou ce qu’on peut entendre quand on tend l’oreille !_
 ## Bug Master Fail
 
 > — Fais voir ton code, je vais le trouver moi le bug.  
-> — Tu sais quoi faire pour le corriger ? –> \ Non mais je m'y connais en bugs :
-> normalement, c'est moi qui les code.
+> — Tu sais quoi faire pour le corriger ?  
+> – Non mais je m'y connais en bugs : normalement, c'est moi qui les code.
