@@ -22,7 +22,7 @@ package = "netlify-build-plugin-dareboost"
     [[plugins.inputs.configurations]]
     url = "https://boris.schapira.dev"
     lang = "en"
-    location = "San Jose"
+    location = "Paris"
     isPrivate = "true"
     visualMetrics = "true"
 
