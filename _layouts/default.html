@@ -155,6 +155,8 @@ layout: microtypo
     <meta name="theme-color" content="#{{ page.social.color }}">
 
     <!-- endnomicrotypo -->
+
+    <script src="{% include assets/js.html.liquid name='navigation.min' %}" defer></script>
   </head>
 
   <body>
@@ -263,7 +265,6 @@ layout: microtypo
     {%- comment -%} -----------------------------
     --------------  Footer ----------------------
     ----------------------------{%- endcomment -%}
-    <script>performance.mark('mark_declare_js_start');</script>
     <script src="{% include assets/js.html.liquid name='index.min' %}" defer></script>
     {%- if page.loadTwitterWjs -%}
       <script src="https://platform.twitter.com/widgets.js" defer></script>
@@ -273,7 +274,6 @@ layout: microtypo
     <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@3.4.0/dist/instantsearch.production.min.js" integrity="sha256-pM0n88cBFRHpSn0N26ETsQdwpA7WAXJDvkHeCLh3ujI=" crossorigin="anonymous"></script>
     <script src="{% include assets/js.html.liquid name='search.min' %}" defer></script>
     {%- endif -%}
-    <script>requestAnimationFrame(function(){performance.mark("mark_declare_js_end");performance.measure("mark_declare_js","mark_declare_js_start","mark_declare_js_end")});</script>
     <script type="application/ld+json">
       {
           "@context": "http://schema.org",
@@ -300,8 +300,7 @@ layout: microtypo
     </script>
     <!-- End Matomo Code -->
     {% endunless %}
-    <script src="//instant.page/5.0.1" type="module" integrity="sha384-0DvoZ9kNcB36fWcQApIMIGQoTzoBDYTQ85e8nmsfFOGz4RHAdUhADqJt4k3K2uLS"></script>
-    <script defer>
+    <script>
       (function(){
         var e = document.createElement('script');
         e.src = '{{'sw-register.js'|relative_url}}?v=' + Date.now();

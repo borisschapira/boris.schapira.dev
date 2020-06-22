@@ -3,6 +3,7 @@ const path = require('path');
 var scriptsConfig = {
   entry: {
     index: './_src/scripts/index.js',
+    navigation: './_src/scripts/navigation.js',
     search: './_src/scripts/search.js',
   },
   module: {
