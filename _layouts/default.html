@@ -156,6 +156,7 @@ layout: microtypo
 
     <!-- endnomicrotypo -->
 
+    <script src="{% include assets/js.html.liquid name='index.min' %}" defer></script>
     <script src="{% include assets/js.html.liquid name='navigation.min' %}" defer></script>
   </head>
 
@@ -265,7 +266,6 @@ layout: microtypo
     {%- comment -%} -----------------------------
     --------------  Footer ----------------------
     ----------------------------{%- endcomment -%}
-    <script src="{% include assets/js.html.liquid name='index.min' %}" defer></script>
     {%- if page.loadTwitterWjs -%}
       <script src="https://platform.twitter.com/widgets.js" defer></script>
     {%- endif -%}
