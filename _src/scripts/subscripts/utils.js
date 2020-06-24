@@ -9,6 +9,7 @@ module.exports = {
     } else {
       document.addEventListener('DOMContentLoaded', fn);
     }
+    document.addEventListener('turbolinks:load', fn);
   },
   perfmark: function (callback, key) {
     performance.mark('mark_' + key + '_start');
