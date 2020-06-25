@@ -91,11 +91,6 @@ contexts in mind (for example, I use the
 that gives mobile users the ability to read the definition of an abbreviation or
 acronym.
 
-The instant search is achieved by [Algolia](https://www.algolia.com/), a very
-efficient indexing and search solution that has the advantage of offering an
-[example implementation for Jekyll](https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/ 'Add instant search to your blog or documentation using our Jekyll plugin')
-that fits perfectly with my needs.
-
 In order to control what is happening on my site (including detecting attempted
 injections), I have configured specific directives in my
 [Content Security Policy](https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9curit%C3%A9/CSP)

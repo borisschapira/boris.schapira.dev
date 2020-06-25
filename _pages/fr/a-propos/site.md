@@ -92,12 +92,6 @@ exemple, j'utilise la librairie
 pour permettre aux personnes en situation de mobilité de visualiser la
 définition d'une abréviation ou d'un acronyme.
 
-La recherche instantanée est le fruit du branchement du site sur
-[Algolia](https://www.algolia.com/), une solution très performante d'indexation
-et de recherche côté client qui a le mérite de proposer un
-[exemple d'implémentation pour Jekyll](https://blog.algolia.com/instant-search-blog-documentation-jekyll-plugin/ 'Add instant search to your blog or documentation using our Jekyll plugin')
-qui cadrait parfaitement avec mon besoin.
-
 Afin de contrôler ce qui se passe sur mon site (notamment pour détecter des
 tentatives d'injections), j'ai positionné un certain nombre de règles
 [Content Security Policy](https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9/CSP)

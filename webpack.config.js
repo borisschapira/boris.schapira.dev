@@ -4,7 +4,6 @@ var scriptsConfig = {
   entry: {
     index: './_src/scripts/index.js',
     navigation: './_src/scripts/navigation.js',
-    search: './_src/scripts/search.js',
   },
   module: {
     rules: [
@@ -17,7 +16,7 @@ var scriptsConfig = {
             envName: 'modern',
           },
         },
-      }
+      },
     ],
   },
   output: {
@@ -34,7 +33,7 @@ var scriptsConfig = {
 var cssConfig = {
   entry: {
     critical: './_src/styles/scss/critical.scss',
-    main: './_src/styles/scss/main.scss'
+    main: './_src/styles/scss/main.scss',
   },
   module: {
     rules: [
@@ -63,7 +62,7 @@ var cssConfig = {
   mode: 'production',
   optimization: {
     minimize: true,
-  }
+  },
 };
 
 var swConfig = {
@@ -82,8 +81,8 @@ var swConfig = {
             envName: 'modern',
           },
         },
-      }
-    ]
+      },
+    ],
   },
   output: {
     filename: '[name].js',
@@ -96,8 +95,4 @@ var swConfig = {
   devtool: 'source-map',
 };
 
-module.exports = [
-  scriptsConfig,
-  cssConfig,
-  swConfig,
-];
+module.exports = [scriptsConfig, cssConfig, swConfig];

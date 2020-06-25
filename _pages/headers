@@ -11,12 +11,6 @@ permalink: /_headers
   Report-To: {"group":"default","max_age":31536000,"endpoints":[{"url":"https://borisschapira.report-uri.com/a/d/g"}],"include_subdomains":true}
   Content-Security-Policy: {% include csp.html.liquid %}
 
-/en/search
-  Content-Security-Policy: {% include csp.html.liquid specific="search" %}
-
-/recherche
-  Content-Security-Policy: {% include csp.html.liquid specific="search" %}
-
 /manifest.json
   Content-Type: application/manifest+json
 /*.webmanifest
