@@ -14,7 +14,7 @@ last_modified_at: 2014-05-16
 ---
 
 _Une génèse de ce Lightning Talk est disponible
-[sur le blog](/2014/05/sudweb-2014-lidee-au-projet-genese-dune-lightning-talk/ "Préparation d'une miniconférence")._
+[sur le blog](/notes/2014-05-sudweb-2014-lidee-au-projet-genese-dune-lightning-talk/ "Préparation d'une miniconférence")._
 
 {% include media/vimeo.html.liquid id="104818641" title="Boris Schapira - De l&#039;id&eacute;e au projet" %}
 

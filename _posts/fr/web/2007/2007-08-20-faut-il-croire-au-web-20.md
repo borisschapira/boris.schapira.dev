@@ -1,7 +1,6 @@
 ---
 title: 'Faut-il croire au Web 2.0 ?'
 tags:
-    - Technologie
     - Web
 ---
 

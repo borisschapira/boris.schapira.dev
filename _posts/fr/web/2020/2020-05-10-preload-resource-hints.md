@@ -83,9 +83,9 @@ plutôt un ordre.
 
 Pour écrire ces directives, vous pouvez utiliser soit la balise HTML `<link>`,
 soit l’en-tête HTTP `Link`.
-[Comme pour spécifier le jeu de caractères](/2018/11/content-encoding/), nous
-vous recommandons l’en-tête de réponse HTTP, puisqu’il sera pris en compte par
-le navigateur avant le début de l’interprétation du code HTML de la page.
+[Comme pour spécifier le jeu de caractères](/notes/2018-11-content-encoding/),
+nous vous recommandons l’en-tête de réponse HTTP, puisqu’il sera pris en compte
+par le navigateur avant le début de l’interprétation du code HTML de la page.
 
 Dans le corps de page HTML :
 

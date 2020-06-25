@@ -94,7 +94,7 @@ des CDN : elles sont parmi les ressources les plus efficacement servies, avec
 une minification et une obfuscation efficaces, souvent couplée à des CDNs
 permettant une faible latence dans l’accès aux données. Bien que leur
 utilisation détériore souvent Start Render, cela est plus souvent dû au fait que
-[ces scripts sont chargés de manière synchrone](/2017/12/comment-differer-l-execution-d-un-script/)
+[ces scripts sont chargés de manière synchrone](/notes/2017-12-comment-differer-l-execution-d-un-script/)
 plutôt qu’à leur statut de parties tierces.
 
 Le plus gros impact sur les performances vient des publicités et des scripts de
@@ -125,7 +125,7 @@ ce que cette inclusion soit plus tardive : soit par rapport à un évènement le
 pendant le chargement d’autres ressources, soit par rapport à un événement lié à
 l’utilisation de la page par l’internaute (une problématique de Lazy-Loading
 déjà abordée
-[pour le chargement des images](/2019/03/lazy-loading-des-pages-web-plus-rapides-sans-risque-seo/)).
+[pour le chargement des images](/notes/2019-03-lazy-loading-des-pages-web-plus-rapides-sans-risque-seo/)).
 
 ## Prioriser une ressource ou un service chargé trop tard
 
@@ -141,7 +141,7 @@ ces ressources est ralentie par :
 
 Comment indiquer au navigateur le comportement à adopter pour optimiser leur
 chargement ? Jetez un œil à
-[mon précédent article sur Preload et les Resource Hints](/2020/05/preload-prefetch-et-preconnect-resource-hints/)
+[mon précédent article sur Preload et les Resource Hints](/notes/2020-05-preload-prefetch-et-preconnect-resource-hints/)
 !
 
 ## Le cas des Googles Fonts

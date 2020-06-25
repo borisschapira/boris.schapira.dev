@@ -16,8 +16,8 @@ bien d'autres l'affirment : Nicolas Sarkozy va bien, puisqu'_il_ l'a dit sur
 Facebook.
 
 Car évidemment, Nicolas Sarkozy n'est pas comme ces autres people qui embauchent
-des [petites mains](/2008/03/bienvenue-au-nouveau-lecteur-des-blogs/) afin de
-faire vivre leur vie numérique. Nicolas, lui, vit en permanence avec son
+des [petites mains](/notes/2008-03-bienvenue-au-nouveau-lecteur-des-blogs/) afin
+de faire vivre leur vie numérique. Nicolas, lui, vit en permanence avec son
 téléphone portable (au point de ne jamais l'éteindre, même
 [pendant les discours](http://www.dailymotion.com/video/x3ebmm_le-portable-de-nicolas-sarkozy)).
 Il est ultra-connecté et met à jour son profil en temps réel à partir d'un

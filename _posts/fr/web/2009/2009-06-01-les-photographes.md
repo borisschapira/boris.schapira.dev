@@ -1,7 +1,6 @@
 ---
 title: 'Les Photographes'
 tags:
-    - 'Me, myself and I'
     - Mariage
 ---
 

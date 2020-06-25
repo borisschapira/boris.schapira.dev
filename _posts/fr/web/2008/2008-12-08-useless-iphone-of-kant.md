@@ -2,7 +2,6 @@
 title: 'Useless iPhone of Kant'
 tags:
     - Humour
-    - Technologie
     - iPhone
 ---
 

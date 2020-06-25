@@ -56,8 +56,8 @@ comme neige (c'est le principal argument qu'on m'a opposé). Je dis juste que ce
 n'est pas à moi ou à la Police d'en décider et que la Justice doit faire son
 travail indépendamment de l'exécutif. Mélangez les pouvoirs, et vous obtenez les
 fondements d'une dictature et
-[une Police radicalisée qui me fait peur](/2016/01/enlisement/ 'Enlisement').
-[Inscrivez tout cela dans la Constitution](/2015/12/analyse-du-projet-de-revision-constitutionnelle-etat-urgence/ "Analyse du projet de révision constitutionnelle : l'État d'Urgence")
+[une Police radicalisée qui me fait peur](/notes/2016-01-enlisement/ 'Enlisement').
+[Inscrivez tout cela dans la Constitution](/notes/2015-12-analyse-du-projet-de-revision-constitutionnelle-etat-urgence/ "Analyse du projet de révision constitutionnelle : l'État d'Urgence")
 et vous offrez au prochain gouvernement radical des moyens qu'il n'aurait pas eu
 sinon.
 

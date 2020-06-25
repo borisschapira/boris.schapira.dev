@@ -5,7 +5,7 @@ tags:
     - Économie
 ---
 
-J'avais déjà parlé de l'[épidémie](/2009/01/lepidemie/), pronostiquant une
+J'avais déjà parlé de l'[épidémie](/notes/2009-01-lepidemie/), pronostiquant une
 aggravation de la situation suite à la multiplication des comportements à
 risques.
 

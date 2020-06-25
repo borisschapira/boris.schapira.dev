@@ -239,7 +239,7 @@ author:
   mailto: 'boris%40schapira.dev'
 
 # Posts links and pagination
-permalink: :year/:month/:title/
+permalink: notes/:year-:month-:title/
 
 pagination:
   enabled: true
@@ -259,28 +259,10 @@ collections:
 
 jekyll-archives:
   enabled:
-    - "year"
-    - "month"
     - "tags"
   layout: "archives"
   permalinks:
-    year: "/:year/"
-    month: "/:year/:month/"
     tag: "/tag/:name/"
-
-pwa:
-  dest_js_directory: assets/scripts
-  precache_recent_posts_num: 5
-  precache_glob_patterns:
-    - "assets/{scripts,fonts,styles}/**/*.{html,js,css,,svg,woff2,jpg}"
-    - index.html
-    - web/index.html
-    - citoyen/index.html
-    - papa/index.html
-    - en/index.html
-    - en/web/index.html
-    - en/citizen/index.html
-    - en/dad/index.html
 
 cloudinary:
   logo: avataar
@@ -292,20 +274,6 @@ cloudinary:
       fallback_max_width: 320
       steps: 5
       sizes: "80vw"
-
-dareboost:
-  monitoring : …
-  token: '…'
-
-# Other parameters are defined through environment variables
-algolia:
-  application_id: 97EL687MDM
-  index_name: jekyll
-  api_key: 121a196f122a96cba48609ba6cee2839
-  max_record_size: 70000
-  settings:
-    highlightPreTag: '<mark>'
-    highlightPostTag: '</mark>'
 
 compress_html:
   ignore:

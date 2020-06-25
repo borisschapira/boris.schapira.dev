@@ -1,8 +1,6 @@
 ---
 title: "Devenez pro d'un Web plus Net"
 tags:
-    - Développement
-    - Technologie
     - .NET
     - AJAX
     - Microsoft

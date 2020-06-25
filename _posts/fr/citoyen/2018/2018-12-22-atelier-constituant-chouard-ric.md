@@ -333,7 +333,7 @@ pouvoir n'appartient plus au peuple (Demos), mais à la foule (Okhlos) à
 l'opinion manipulable. Cela me semble être un risque à considérer, quand on vit
 dans un monde où l'émotion (par adhésion totale ou indignation complète) semble
 avoir pris le pas sur le dialogue, et où notre construction intime devient
-[le territoire](/2018/12/de-qui-suis-je-le-territoire/) d'enjeux qui nous
+[le territoire](/notes/2018-12-de-qui-suis-je-le-territoire/) d'enjeux qui nous
 dépassent.
 
 ### Du soutien de ceux qui souffriraient le plus

@@ -1,7 +1,6 @@
 ---
 title: 'Le plus faible des hommes'
 tags:
-    - 'Me, myself and I'
     - Mariage
 ---
 

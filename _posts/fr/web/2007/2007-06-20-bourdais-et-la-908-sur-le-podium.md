@@ -2,9 +2,6 @@
 title: 'Bourdais et la 908 sur le podium'
 tags:
     - 'Jeu Video'
-    - 'Forza Motorsport 2'
-    - 'Sébastien Bourdais'
-    - XBox360
 ---
 
 Sébastien Bourdais, qui nous avait rendu visite il y a quelques jours pour la

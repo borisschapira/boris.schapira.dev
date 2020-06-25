@@ -1,7 +1,6 @@
 ---
 title: 'ComplexIT : les IT se moquent des IT'
 tags:
-    - Développement
     - TechNet
 ---
 

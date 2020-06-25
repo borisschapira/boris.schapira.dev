@@ -7,7 +7,7 @@ title: 'Les petites bêtes (suite)'
 <!-- more -->
 
 Il parle bien sûr des bactéries dont je lui ai parlé
-[la veille](/2017/12/les-petites-betes/).
+[la veille](/notes/2017-12-les-petites-betes/).
 
 > Tu ne leur parles pas vraiment chéri. Tu peux leur dire des choses avec ce que
 > tu manges, par exemple. Si tu manges des fruits, des légumes, des yahourts,

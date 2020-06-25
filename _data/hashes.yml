@@ -1,8 +1,8 @@
 styles:
   core: c9e6cb7cd7fb87d1822c7b931b2f5172
-  critical: efe7ad12403cbc85179b168aa5e0f77e
+  critical: 518a9f0fb06ade62a22a84b57894c021
   hl: e8c20d692fd3f03fa42f8a7e58466a45
-  main: b84a41e6b9e4f37378399fd85a790be3
+  main: bff953eccc827836c24f205ae7089672
 scripts:
   index.min: 5a72867337be37510772086f83a4298f
   index.min.js: 841e2a54f9eb4d2c030fdafcfbc4c087

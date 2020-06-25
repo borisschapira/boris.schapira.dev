@@ -1,9 +1,5 @@
 ---
 title: 'Astoria : un Live SQL ?'
-tags:
-    - Technologie
-    - MIX07
-    - Web
 ---
 
 Microsoft l'a annoncé au Mix 2007 : le projet Astoria va révolutionner le Web.

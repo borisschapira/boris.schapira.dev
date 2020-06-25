@@ -1,7 +1,6 @@
 ---
 title: 'Passage en Next-Gen'
 tags:
-    - Technologie
     - XBox360
 ---
 

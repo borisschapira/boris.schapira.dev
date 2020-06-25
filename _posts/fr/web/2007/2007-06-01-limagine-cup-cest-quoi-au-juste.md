@@ -1,7 +1,6 @@
 ---
 title: "L'Imagine Cup, c'est quoi au juste ?"
 tags:
-    - Développement
     - 'Imagine Cup'
     - 'Project Hoshimi'
     - 'Tour Eiffel'

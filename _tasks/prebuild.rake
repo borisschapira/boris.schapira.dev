@@ -8,15 +8,6 @@ require 'yaml'
 namespace :prebuild do
   task test: ['test:doctor']
 
-  desc 'Generate prod configuration from ENV variables'
-  task :config do
-    configs = [
-      "dareboost:\n  monitoring: '$JEKYLL_SITE_DAREBOOST_MONITORING'",
-      "  token: '$JEKYLL_SITE_DAREBOOST_TOKEN'"
-    ]
-    sh 'echo "' + configs.join('\n') + '" > _config_prod.yml'
-  end
-
   namespace :test do
     desc 'Executes the jekyll doctor'
     task :doctor, [:env] do |_t, args|

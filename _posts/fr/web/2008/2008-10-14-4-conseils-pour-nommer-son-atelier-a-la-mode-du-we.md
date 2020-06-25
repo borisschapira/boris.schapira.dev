@@ -2,7 +2,6 @@
 title: '4 conseils pour nommer son atelier à la mode du Web'
 tags:
     - Humour
-    - Technologie
     - "Billet d'humeur"
     - Web
 slug: 4-conseils-pour-nommer-son-atelier-a-la-mode-du-web

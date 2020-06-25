@@ -62,8 +62,9 @@ des discours accompagnent les photos qui mettent les enfants en situation.
 
 Même les magasins U, dont l'initiative de remise en question de ce sexisme a été
 très médiatisée, continuent à maintenir des catégories séparant filles et
-garçons. Contrairement à ce que [leur vidéo](/2015/12/quirks-mode/) laissait
-penser, les images non-stéréotypées sont très minoritaires dans leur catalogue.
+garçons. Contrairement à ce que [leur vidéo](/notes/2015-12-quirks-mode/)
+laissait penser, les images non-stéréotypées sont très minoritaires dans leur
+catalogue.
 
 Avec un peu de recul, on distingue très facilement, en plus du genre, d'autres
 stéréotypes imposés par le marketing : tranches d'âges, couleurs de peau ou de

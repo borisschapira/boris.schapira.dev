@@ -140,9 +140,9 @@ Une fois vos dépendances gérées et votre propre contenu produit, comment
 orchestrez-vous les **tâches récurrentes** comme les constructions des pages par
 emboitement de blocs (parce qu'on est des gens biens, on ne manipule pas des
 copier/coller), l'application des (pré·post)compilateurs, la génération de vos
-images RWD à partir des images d'origine, les optimisations des
-ressources de tous types, l'auto-formatage du code source ou à l'inverse, le jeu
-de test de certains validateurs de mise en forme du code ?
+images RWD à partir des images d'origine, les optimisations des ressources de
+tous types, l'auto-formatage du code source ou à l'inverse, le jeu de test de
+certains validateurs de mise en forme du code ?
 
 Une fois ces tâches accomplies, disposez-vous d'un **observateur de
 modifications** capable de recharger les contenus ? Il peut s'agir d'un

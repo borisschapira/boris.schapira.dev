@@ -42,12 +42,12 @@ destination des "_compatriotes musulmans_"
 leur répit ne saurait durer).
 
 Il y a quelques temps, je m'inquiétais qu'Eric Besson ne s'engage dans un
-[chemin très éloigné de la laïcité](/2009/11/communautar-r-us/). Je vois que
-l'idée vient de bien plus haut et cela m'inquiète d'autant plus. La liberté de
-culte est une valeur à laquelle je tiens particulièrement. Non pas que cela me
-concerne particulièrement, puisque je suis agnostique, mais parce que sa remise
-en question pose la question du renfermement sur soi, du cloisonnement de la
-pensée sur un modèle unique. Evidemment, à quelques semaines d'élections
+[chemin très éloigné de la laïcité](/notes/2009-11-communautar-r-us/). Je vois
+que l'idée vient de bien plus haut et cela m'inquiète d'autant plus. La liberté
+de culte est une valeur à laquelle je tiens particulièrement. Non pas que cela
+me concerne particulièrement, puisque je suis agnostique, mais parce que sa
+remise en question pose la question du renfermement sur soi, du cloisonnement de
+la pensée sur un modèle unique. Evidemment, à quelques semaines d'élections
 importantes, cela n'étonne plus. Les réflexes idéologiques justifiant les pires
 élans de conservatisme sont davantage qu'un choix idéologique. Il y a évidemment
 dans cette communication la volonté politique de "ratisser large" à droite aux

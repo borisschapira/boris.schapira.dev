@@ -1,1 +1,1 @@
-{%- assign slug = include.tag | slugify -%}<a href="{{ site.jekyll-archives.permalinks.tag | replace: ':name', slug }}">{{ include.tag }}{%- if include.nb -%} ({{ include.nb }}){%- endif -%}</a>
+{%- assign slug = include.tag | slugify -%}<a href="{{ site.jekyll-archives.permalinks.tag | replace: ':name', slug }}">{{ include.tag }}{%- if include.nb %} ({{ include.nb }}){%- endif -%}</a>

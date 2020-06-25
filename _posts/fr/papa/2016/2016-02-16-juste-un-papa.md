@@ -14,8 +14,8 @@ title: 'Juste un papa'
 > Ashley Miller</cite>
 
 Ce texte m'a ému et résume bien les motivations derrière ce blog et ma présence
-sur [WeMoms](/2016/01/wemoms-app/). De la même manière qu'il n'existe pas de
-terme non-péjoratif pour une femme qui aurait d'autres centres d'intérêts que
+sur [WeMoms](/notes/2016-01-wemoms-app/). De la même manière qu'il n'existe pas
+de terme non-péjoratif pour une femme qui aurait d'autres centres d'intérêts que
 ses enfants, il n'en existe pas non plus de non-mélioratif pour un homme qui
 voudrait être proche de ses enfants. Il est temps que les mentalités changent,
 non ?

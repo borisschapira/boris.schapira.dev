@@ -4,7 +4,6 @@ tags:
     - Boulogne
     - FAI
     - Free
-    - 'Me, myself and I'
 ---
 
 **Free** et moi, c'était une grande et belle histoire. Mais quand j'ai voulu

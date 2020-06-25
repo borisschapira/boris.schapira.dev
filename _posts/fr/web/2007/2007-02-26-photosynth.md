@@ -1,7 +1,6 @@
 ---
 title: "PhotoSynth : déjà fait à l'ESIEE"
 tags:
-    - 'Me, myself and I'
 ---
 
 L'année dernière, deux camarades et moi-même avons réalisé un projet de

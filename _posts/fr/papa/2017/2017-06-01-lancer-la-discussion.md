@@ -3,7 +3,7 @@ title: 'Lancer la discussion'
 ---
 
 > Woaw, tu as trop de chances, tu as plein de discussions super avec tes fils !
-> <cite>Une maman, sur [WeMoms](/2016/01/wemoms-app/)</cite>
+> <cite>Une maman, sur [WeMoms](/notes/2016-01-wemoms-app/)</cite>
 
 Je vous rassure, c'est loin d'être toujours le cas. Si on enlève tous les
 moments où ils se battent, parlent pour faire exprès de couper la parole de

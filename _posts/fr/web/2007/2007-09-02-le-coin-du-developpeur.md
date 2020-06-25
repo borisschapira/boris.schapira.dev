@@ -1,7 +1,6 @@
 ---
 title: 'Le coin du développeur'
 tags:
-    - Développement
     - .NET
 ---
 

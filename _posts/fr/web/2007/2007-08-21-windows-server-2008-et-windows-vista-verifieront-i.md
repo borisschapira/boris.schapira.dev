@@ -2,7 +2,6 @@
 title:
     'Windows Server 2008 et Windows Vista vérifieront-ils les Critères Communs ?'
 tags:
-    - Technologie
     - 'Windows Server 2008'
     - 'Windows Vista'
 slug: windows-server-2008-et-windows-vista-verifieront-ils-les-criteres-communs

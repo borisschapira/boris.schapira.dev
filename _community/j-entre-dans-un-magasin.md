@@ -17,7 +17,7 @@ last_modified_at: 2017-10-06
 ---
 
 J'avais envie de proposer quelque chose d'humoristique, sur la base d'un
-[article publié en janvier](/2017/01/j-entre-dans-un-magasin/ "J'entre dans un magasin - Boris Schapira"),
+[article publié en janvier](/notes/2017-01-j-entre-dans-un-magasin/ "J'entre dans un magasin - Boris Schapira"),
 agrémenté d'exemples concrets de mauvaises pratiques ou de pratiques qui sont
 communément admises mais, quand on les interroge avec du bon sens, assez
 ridicules.

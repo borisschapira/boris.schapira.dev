@@ -2,8 +2,6 @@
 title: 'Sécurité et contrôle au cœur de Windows Vista'
 tags:
     - Conférences
-    - Windows
-    - 'Me, myself and I'
 ---
 
 Le 30 Janvier 2007, Microsoft livrera au grand public la dernière version de son

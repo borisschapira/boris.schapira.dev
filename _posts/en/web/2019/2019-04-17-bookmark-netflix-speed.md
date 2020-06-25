@@ -8,7 +8,7 @@ translations:
 ---
 
 A few month ago, I published a blog post about
-[increasing Netflix videos' brightness](/2018/08/bookmark-netflix-brightness/)
+[increasing Netflix videos' brightness](/notes/2018-08-bookmark-netflix-brightness/)
 and people seems to really dig it. But what if you really need to speed up your
 current episode to finish it before your bae arrives or slow down Beyoncé's
 moves to better learn one of her routine in HOMECOMING? No problem.
@@ -28,9 +28,10 @@ Then go to Netflix, HBO Now, Hulu, or pretty much any streaming service using
 HTML videos[^1], launch your favorite series or movie, and click it!
 
 [^1]:
-    As explained in [the previous post](/2018/08/bookmark-netflix-brightness/),
-    if the website has defined a Content-Security-Policy blocking bookmarks,
-    this won't work, sorry!
+    As explained in
+    [the previous post](/notes/2018-08-bookmark-netflix-brightness/), if the
+    website has defined a Content-Security-Policy blocking bookmarks, this won't
+    work, sorry!
 
 And if you want to manage both brightness and video playback rate without
 multiplying bookmarks, here's one that do both:

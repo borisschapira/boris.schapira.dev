@@ -2,7 +2,6 @@
 title: '"What Would Google Do", Jeff Jarvis'
 tags:
     - Littérature
-    - Technologie
     - Medias
     - Web
 ---

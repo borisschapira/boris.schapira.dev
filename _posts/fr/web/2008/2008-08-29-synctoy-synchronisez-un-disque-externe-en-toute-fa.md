@@ -1,7 +1,6 @@
 ---
 title: 'SyncToy : synchronisez un disque externe en toute facilité'
 tags:
-    - Technologie
     - Microsoft
 slug: synctoy-synchronisez-un-disque-externe-en-toute-facilite
 ---

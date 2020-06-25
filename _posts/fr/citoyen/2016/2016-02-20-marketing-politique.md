@@ -25,7 +25,7 @@ subtitle: 'pour mieux régner'
 ### Nous ne sommes jamais que de grands enfants
 
 Les hommes politiques nous divisent de la même manière que le marketing
-[manipule des catalogues de jouets](/2016/02/division-sur-catalogue/ 'Division sur catalogue').
+[manipule des catalogues de jouets](/notes/2016-02-division-sur-catalogue/ 'Division sur catalogue').
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">- QUI SOMMES-NOUS?<br>- DES MINISTRES !<br>- QUE VOULONS-NOUS ?<br>- INVERSER LA COURBE DU CHÔMAGE !<br>- QUAND ?<br>- QUAND L&#39;OPPOSITION SERA AU POUVOIR !</p>&mdash; PacoDelo (@Francisdelo) <a href="https://twitter.com/Francisdelo/status/700281351975649280">18 Février 2016</a></blockquote>
 
@@ -80,7 +80,7 @@ derrière le mot "musulman" : origine ethnique, sociale, politique, géographiqu
 inclination spirituelle, dogme… Le musulman est juste un nouvel "autre". Comme
 l'immigré, il est un "barbare" dont l'existence suffit à définir, par
 opposition, la nôtre.
-[Le musulman n'est qu'un nouveau juif](/2016/02/citations/ 'Citations').
+[Le musulman n'est qu'un nouveau juif](/notes/2016-02-citations/ 'Citations').
 
 Mais la xénophobie n'est pas le seul schéma narratif du moment. Nous avons aussi
 les "fonctionnaires fainéants", la "lutte des classes", l'Europe qui étouffe ses

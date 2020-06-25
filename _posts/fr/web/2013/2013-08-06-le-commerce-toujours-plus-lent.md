@@ -9,7 +9,7 @@ canonical: 'https://blog.clever-age.com/fr/2013/08/06/l-e-commerce-toujours-plus
 StrangeLoop (faisant désormais partie de Radware) vient de publier son rapport
 annuel sur la performance Web des sites e-commerces. Se basant sur le classement
 Alexa, ils ont moyenné les performances de plus de 500 vendeurs. Et comme
-[l’année dernière](/2012/01/le-commerce-reste-lent/), les résultats sont
+[l’année dernière](/notes/2012-01-le-commerce-reste-lent/), les résultats sont
 décevants.
 
 <!-- more -->
@@ -23,7 +23,7 @@ décevants.
 Les temps de chargement e-commerce sont de plus en plus lents, avec encore cette
 année une perte de 13,7 % sur le Load Time des nouveaux visiteurs (qui atteint
 7,72s en moyenne). Même si cette mesure n’est pas suffisante à elle seule
-([lire ici pourquoi](/2012/07/a-quelle-vitesse-ma-page-se-charge-t-elle/)),
+([lire ici pourquoi](/notes/2012-07-a-quelle-vitesse-ma-page-se-charge-t-elle/)),
 cette détérioration est inquiétante. Si on complète cette mesure en analysant le
 temps avant interaction, c’est bien mieux (de l’ordre de 5s), mais nous sommes
 encore loin d’un idéal (situé pour certains à 3s, mais qui peut atteindre 1s si

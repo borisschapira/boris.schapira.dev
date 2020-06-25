@@ -2,7 +2,6 @@
 title: Workholics
 tags:
     - Emploi
-    - Technologie
     - "Billet d'humeur"
     - SmartPhone
 ---

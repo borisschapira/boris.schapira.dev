@@ -1,7 +1,6 @@
 ---
 title: 'Rencontre des communautés à Boulogne'
 tags:
-    - Technologie
     - Boulogne
     - Microsoft
 ---

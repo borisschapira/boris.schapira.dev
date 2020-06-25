@@ -66,4 +66,5 @@ plus loin et n'assurerai pas le support ; considérez ce petit bout de code comm
 étant sous [licence WTFPL](https://fr.wikipedia.org/wiki/WTFPL).
 
 <ins datetime="2019-04-18">Pressé·e ? Il y a aussi un bookmark pour
-[accélerer votre vidéo Netflix](/2019/04/bookmark-netflix-vitesse/) ?</ins>
+[accélerer votre vidéo Netflix](/notes/2019-04-bookmark-netflix-vitesse/)
+?</ins>

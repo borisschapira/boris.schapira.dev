@@ -2,6 +2,7 @@
 title: 'Et la reine ?'
 tag:
     - 'Wonder Woman'
+serie: 'Wonder Woman'
 ---
 
 Les garçons jouent à la bataille avec leur mère.

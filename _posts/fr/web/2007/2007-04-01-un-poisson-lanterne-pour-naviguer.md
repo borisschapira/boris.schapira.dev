@@ -13,7 +13,7 @@ modifier vôtre façon d'appréhender Internet sur un périphérique mobile.
 
 [Deepfish](https://en.wikipedia.org/wiki/Microsoft_Live_Labs_Deepfish) est basé
 sur [Seadragon](https://en.wikipedia.org/wiki/Seadragon_Software), dont je vous
-ai parlé dans [un article précédent](/2007/03/microsoft-seadragon/). Il se
+ai parlé dans [un article précédent](/notes/2007-03-microsoft-seadragon/). Il se
 présente comme un nouveau genre de navigateur embarqué, proposant une vue de la
 page telle que son concepteur l'a pensée (contrairement aux navigateurs mobiles
 actuels, qui offrent une vue interprétée de la page réelle).

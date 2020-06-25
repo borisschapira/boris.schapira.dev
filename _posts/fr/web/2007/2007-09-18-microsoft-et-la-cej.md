@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft et la CEJ'
 tags:
-    - Technologie
     - Loi
     - Microsoft
 ---

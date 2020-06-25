@@ -2,7 +2,6 @@
 title: 'Les dernières technos Microsoft ? Un enjeu de Civilization'
 tags:
     - Humour
-    - Technologie
     - Deepfish
     - 'Microsoft Office'
     - PhotoSynth

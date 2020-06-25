@@ -1,8 +1,6 @@
 ---
 title: 'Powershell disponible'
 tags:
-    - Développement
-    - Technologie
     - .NET
 ---
 

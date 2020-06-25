@@ -3,7 +3,6 @@ title: 'Appartement, c’est plus possible #2'
 tags:
     - Appartement
     - "Billet d'humeur"
-    - 'Me, myself and I'
 ---
 
 3 jours que ma Libellule et moi coupons l'arrivée d'eau de l'appartement après

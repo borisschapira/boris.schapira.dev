@@ -7,9 +7,9 @@ loadTwitterWjs: true
 ---
 
 J'écrivais, il y a peu, que je pensais que
-[les français n'avaient pas soif de laïcité](/2016/01/laicite/ 'Laïcité') mais
-étaient, en réalité, terrifiés par un ennemi imaginaire. Dimanche, je découvrais
-ce terrifiant sondage du _Journal du Dimanche_ (en fin d'article).
+[les français n'avaient pas soif de laïcité](/notes/2016-01-laicite/ 'Laïcité')
+mais étaient, en réalité, terrifiés par un ennemi imaginaire. Dimanche, je
+découvrais ce terrifiant sondage du _Journal du Dimanche_ (en fin d'article).
 
 Les réponses ne me surprennent pas, elles soulignent ce que que je craignais
 déjà : pour beaucoup la "normalité française" est réprésentée par une persone
@@ -24,7 +24,7 @@ d'altercations, d'insultes et de violences. Moi, les rares fois où j'ai affaire
 pour leur demander d'où ils viennent et comprendre leurs croyances…
 
 J'en viens donc au vrai scandale : qu'un sondage pareil soit réalisé. Comme
-[celui sur la prolongation de l'État d'Urgence](/2016/01/favorables/ 'Favorables ?'),
+[celui sur la prolongation de l'État d'Urgence](/notes/2016-01-favorables/ 'Favorables ?'),
 il me semble évident que la question est mal posée. Qui est le pyromane qui, au
 _JDD_, s'est dit que la réalisation de ce sondage et sa publication, sachant
 tous les biais qu'il comporte et tous les stéréotypes qu'il véhicule, était une

@@ -1,13 +1,5 @@
 ---
 title: 'Jeu-Concours : Jamais 203'
-tags:
-    - Technologie
-    - Buzz
-    - Concours
-    - Jeu
-    - Messenger
-    - 'Windows Live'
-    - XBox360
 ---
 
 Après le mini-concours pour tester Monster Madness en avant première et celui

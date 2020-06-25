@@ -1,9 +1,5 @@
 ---
-title: "Qu'est-ce qu'un RSS ?"
-tags:
-    - Technologie
-    - RSS
-    - Web
+title: "Qu'est-ce qu'un flux RSS ?"
 ---
 
 Tous vos amis créent leurs blogs, vous croulez sous les sites de news et vous

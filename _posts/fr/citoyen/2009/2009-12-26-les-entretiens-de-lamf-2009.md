@@ -29,7 +29,7 @@ années :
     et qualifier l'information de l'épargnant concernat l'état des Marchés, les
     produits qu'on lui propose et la santé des entreprises émettrices (la
     transparence dans ce domaine était déjà
-    [un sujet de l'année dernière](/2008/12/les-entretiens-de-lamf-2008-33-suivi-du-controle-dans-les-societes-cotees/))
+    [un sujet de l'année dernière](/notes/2008-12-les-entretiens-de-lamf-2008-33-suivi-du-controle-dans-les-societes-cotees/))
     L'<abbr title="Autorité des Marchés Financiers">AMF</abbr> espère ainsi
     relancer les marchés dans une logique d’investissement de long terme et de
     financement des PME, plutôt que sur une efficacité à court terme notamment
@@ -37,7 +37,7 @@ années :
 -   **Mieux contrôler, mieux sanctionner** : En soutenant la création d'une
     Organisation mondiale de la Finance chargée de contrôler la bonne
     application des règles mondiales de la Finance (une des propositions du
-    [G20 d'avril 2009](/2009/04/g20-et-regulation/)),
+    [G20 d'avril 2009](/notes/2009-04-g20-et-regulation/)),
     l'<abbr title="Autorité des Marchés Financiers">AMF</abbr> croit en une
     globalisation du contrôle qui passera d'abord par une convergence des normes
     comptables européennes et américaines mais aussi par une révision des
@@ -61,12 +61,12 @@ sujets soulevés soient si **opportunistes**. C'est un comble quand les
 discussions impliquent une vision à long terme…
 
 Que sont devenus les points de réflexion de l'année dernière comme la
-[régulation des marchés de gré-à-gré](/2008/12/les-entretiens-de-lamf-2008-23-regulation-des-produits-traites-de-gre-a-gre/)
+[régulation des marchés de gré-à-gré](/notes/2008-12-les-entretiens-de-lamf-2008-23-regulation-des-produits-traites-de-gre-a-gre/)
 et
-[la régulation des <abbr title="Exchange Traded Fund">ETF</abbr>](/2008/11/les-entretiens-de-lamf-2008-13-regulation-de-la-gestion-dactifs/)
+[la régulation des <abbr title="Exchange Traded Fund">ETF</abbr>](/notes/2008-11-les-entretiens-de-lamf-2008-13-regulation-de-la-gestion-dactifs/)
 ? Je m'interroge également sur le rôle de
 l'<abbr title="Autorité des Marchés Financiers">AMF</abbr> face à
-[la prolifération du crédit chez les particuliers](/2009/05/lepidemie-continue/)
+[la prolifération du crédit chez les particuliers](/notes/2009-05-lepidemie-continue/)
 et
-[l'absence de contrôle des investissements des collectivités territoriales](/2009/11/collectivite-qui-controle-les-investissements/).
+[l'absence de contrôle des investissements des collectivités territoriales](/notes/2009-11-collectivite-qui-controle-les-investissements/).
 J'espère que ces points seront abordés l'année prochaine.

@@ -12,6 +12,6 @@ title: 'Anesthésier les consciences'
 > par Sébastien Desbenoit</cite>
 
 Faire le bilan culturel de cette
-[ère de l'attention](/2017/03/une-culture-de-l-attention/ "Une culture de l'attention")
+[ère de l'attention](/notes/2017-03-une-culture-de-l-attention/ "Une culture de l'attention")
 n'est pas une fin en soi. Il faut aussi comprendre comment nous sommes manipulés
 par cette progressive disparition de l'esprit critique.

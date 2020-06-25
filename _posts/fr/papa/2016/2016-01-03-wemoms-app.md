@@ -11,17 +11,17 @@ des choses à apporter. Du coup, j'y publie rarement des statuts mais j'essaie d
 répondre aux questions d'autres membres quand je peux.
 
 Récemment, quelqu'un m'a fait remarquer que je n'étais pas une "Maman" (un de
-ceux qui pensent que [je suis une femme](/2016/01/salaires-femmes-inegalites/)).
-Je remercie profondément cette personne, je ne m'étais rendu compte de rien et
-vivait dans le déni depuis des années. Sans elle, je ne sais pas ce que je
-serais devenu. Plus sérieusement, je ne vois pas pourquoi je devrais en prendre
-ombrage : les femmes utilisent depuis des années des services qui sont
-entièrement orientés vers les hommes, avec des pubs destinées aux hommes et des
-codes très masculins. Alors pourquoi l'inverse serait dégradant ? Ce dont je me
-rends compte, c'est qu'en revanche certaines femmes publient des questions qui
-touchent à l'intime et que l'intervention d'un homme peut les gêner : je le
-respecte et n'interviens que dans les questions parlant de la relation à
-l'enfant.
+ceux qui pensent que
+[je suis une femme](/notes/2016-01-salaires-femmes-inegalites/)). Je remercie
+profondément cette personne, je ne m'étais rendu compte de rien et vivait dans
+le déni depuis des années. Sans elle, je ne sais pas ce que je serais devenu.
+Plus sérieusement, je ne vois pas pourquoi je devrais en prendre ombrage : les
+femmes utilisent depuis des années des services qui sont entièrement orientés
+vers les hommes, avec des pubs destinées aux hommes et des codes très masculins.
+Alors pourquoi l'inverse serait dégradant ? Ce dont je me rends compte, c'est
+qu'en revanche certaines femmes publient des questions qui touchent à l'intime
+et que l'intervention d'un homme peut les gêner : je le respecte et n'interviens
+que dans les questions parlant de la relation à l'enfant.
 
 Ceci étant, je note quand même certaines choses qui m'attristent dans les
 messages (mais tout est une question de point de vue, bien sûr, et mon avis ne

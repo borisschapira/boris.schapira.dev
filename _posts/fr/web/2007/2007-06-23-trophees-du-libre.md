@@ -1,10 +1,5 @@
 ---
 title: 'Trophées du Libre'
-tags:
-    - Développement
-    - Concours
-    - 'Imagine Cup'
-    - 'Open Source'
 ---
 
 > Avec **113** participants issus de 18 pays, les Trophées du libre sont sans

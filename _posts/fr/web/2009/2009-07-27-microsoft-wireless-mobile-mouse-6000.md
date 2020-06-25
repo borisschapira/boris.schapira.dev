@@ -11,7 +11,8 @@ path="/assets/images/2009-07-27/1.jpg"
 alt=img_alt
 %}
 
-Après le [test de l'Arc Mouse](/2009/02/microsoft-arc-mouse-avis-personnel/)],
+Après le
+[test de l'Arc Mouse](/notes/2009-02-microsoft-arc-mouse-avis-personnel/)],
 voici que Microsoft Hardware m'envoie la Wireless Mobile Mouse 6000 en test. En
 voyant arriver cette souris d'un design assez commun, je sous-estimais
 profondément sa capacité à me rendre accro…

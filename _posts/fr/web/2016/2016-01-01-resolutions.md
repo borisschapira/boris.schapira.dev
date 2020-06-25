@@ -73,6 +73,6 @@ j'assiste souvent impuissant aux difficultés des femmes, des homosexuels, des
 noirs, des musulmans et des handicapés (liste non-exhaustive, malheureusement).
 En 2016, j'ai décidé de trouver au moins une action concrète pour promouvoir
 l'égalité. En espérant que j'ai plus de chance que lorsque j'ai voulu
-[promouvoir le numérique auprès des jeunes](/2015/04/promouvoir-une-culture-numerique/ 'Promouvoir une culture numérique')...
+[promouvoir le numérique auprès des jeunes](/notes/2015-04-promouvoir-une-culture-numerique/ 'Promouvoir une culture numérique')...
 Le chantier est d'autant plus crucial que
-[l'année commence très, très mal](/2015/12/analyse-du-projet-de-revision-constitutionnelle-decheance-de-nationalite/ "L'analyse du projet de révision constitutionnelle : la déchéance de nationalité").
+[l'année commence très, très mal](/notes/2015-12-analyse-du-projet-de-revision-constitutionnelle-decheance-de-nationalite/ "L'analyse du projet de révision constitutionnelle : la déchéance de nationalité").

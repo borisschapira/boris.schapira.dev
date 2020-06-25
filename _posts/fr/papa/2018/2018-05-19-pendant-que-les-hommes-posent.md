@@ -2,6 +2,7 @@
 title: 'Pendant que les hommes posent'
 tag:
     - 'Wonder Woman'
+serie: 'Wonder Woman'
 ---
 
 Au supermarché, un jeu de figurines "Justice League", dont Wonder Woman est,
@@ -20,8 +21,8 @@ alt=alt_text
 caption=caption_text
 %}
 
-Un peu choqué de sa réponse "[de mec](/2017/10/comme-un-mec/)", je le regarde,
-interloqué, puis lui demande une explication.
+Un peu choqué de sa réponse "[de mec](/notes/2017-10-comme-un-mec/)", je le
+regarde, interloqué, puis lui demande une explication.
 
 > Bah, c'est simple ! Pour faire les jouets, les héros doivent s'arrêter pour
 > qu'on les regarde bien de partout et qu'on les fait en bonshommes. Wonder

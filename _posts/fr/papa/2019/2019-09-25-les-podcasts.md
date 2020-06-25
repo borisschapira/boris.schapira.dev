@@ -50,4 +50,4 @@ On a tellement à faire pour mieux élever nos fils !
 
 Heureusement que je fréquente les mêmes toilettes qu'eux pour être ramené à
 l'humilité nécessaire quand on essaie d'élever correctement
-[deux bousiers](/2019/05/petits-noms/) !
+[deux bousiers](/notes/2019-05-petits-noms/) !

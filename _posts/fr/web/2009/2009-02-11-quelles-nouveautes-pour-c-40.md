@@ -39,7 +39,7 @@ développement :
     Ils apportent leur lot de robustesse, de performance et d’outils
     intelligents comme IntelliSense dans Visual Studio, ainsi que, généralement,
     une meilleure capacité à* monté en charge*
-    ([ce point a été développé par Mitsu en commentaire](/2009/02/quelles-nouveautes-pour-c-40/)).
+    ([ce point a été développé par Mitsu en commentaire](/notes/2009-02-quelles-nouveautes-pour-c-40/)).
 -   Enfin, un besoin important d’économiser de l’énergie en privilégiant les
     technologie multicores, et donc de maitriser les problématiques d’accès
     concurrent et de gestion de ressources démultipliées.

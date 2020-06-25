@@ -1,7 +1,6 @@
 ---
 title: 'Imagine Cup 2008 : site en ligne'
 tags:
-    - Technologie
     - 'Imagine Cup'
 ---
 

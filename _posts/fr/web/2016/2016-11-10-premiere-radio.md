@@ -20,8 +20,8 @@ simplet à certains moments (et de parler beaucoup plus lentement que
 d'habitude). J'ai été pris de court par le direct quand un des enfants m'a
 annoncé qu'il faisait du Scratch en classe, et je me suis retrouvé à dire que
 c'était une bonne chose
-[alors que je pense le contraire](/2014/06/le-code-a-change/). Les aléas du
-direct !
+[alors que je pense le contraire](/notes/2014-06-le-code-a-change/). Les aléas
+du direct !
 
 Heureusement, j'ai pu préciser ma pensée avec les enfants : ils étaient
 insatiables de questions et nous avons échangé pendant bien 45 minutes après

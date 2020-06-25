@@ -2,7 +2,6 @@
 title: 'Facebook et moi'
 tags:
     - 'Médias Sociaux'
-    - Technologie
     - Facebook
 ---
 

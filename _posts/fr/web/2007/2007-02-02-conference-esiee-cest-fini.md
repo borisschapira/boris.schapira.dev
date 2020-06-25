@@ -1,7 +1,6 @@
 ---
 title: "Conférence ESIEE - C'est fini !"
 tags:
-    - Technologie
     - ESIEE
     - 'Imagine Cup'
     - MSP

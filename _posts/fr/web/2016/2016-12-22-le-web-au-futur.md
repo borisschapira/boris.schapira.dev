@@ -233,11 +233,11 @@ sont possibles : souvent, **une petite répétition vaut mieux qu'une énorme us
 à gaz**.
 
 Ça a l'air simple mais ça ne l'est pas : certains d'entre vous ont un
-[très bon niveau](/2015/09/expert-ou-pas/ 'Expert ou pas ?') et ce qui peut leur
-sembler naturel ne l'est pas forcément pour les autres. Sachez donc adapter la
-complexité de votre code au projet. Un projet important à plusieurs centaines de
-jours&times;personne nécessitera une toute autre architecture que celle à mettre
-en place pour un projet réalisé en deux mois !
+[très bon niveau](/notes/2015-09-expert-ou-pas/ 'Expert ou pas ?') et ce qui
+peut leur sembler naturel ne l'est pas forcément pour les autres. Sachez donc
+adapter la complexité de votre code au projet. Un projet important à plusieurs
+centaines de jours&times;personne nécessitera une toute autre architecture que
+celle à mettre en place pour un projet réalisé en deux mois !
 
 N'oubliez pas : un projet de qualité est aussi un projet à
 [Bus Factor](https://vimeo.com/187568897 '"Le Bus Factor", Laurence Wagner à Sud Web 2016')

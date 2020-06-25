@@ -95,7 +95,7 @@ croquis).
 ## Humilité
 
 J'ai le sentiment d'avoir un peu participé à Sud Web. Moins par
-[ma prestation](/2014/05/sudweb-2014-lidee-au-projet-genese-dune-lightning-talk/ 'Beaucoup de bruit pour rien'),
+[ma prestation](/notes/2014-05-sudweb-2014-lidee-au-projet-genese-dune-lightning-talk/ 'Beaucoup de bruit pour rien'),
 relativement courte, que par mes interventions (beaucoup moins sous contrôle) et
 les nombreux échanges que j'ai pu avoir avec les personnes présentes. Mais j'ai
 surtout été submergé par ce que j'ai vu autour de moi. Il y avait de belles

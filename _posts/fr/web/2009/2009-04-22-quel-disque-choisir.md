@@ -1,15 +1,14 @@
 ---
 title: 'Quel disque choisir ?'
 tags:
-    - Technologie
     - NAS
     - 'Ready Nas Duo'
     - Stockage
 ---
 
 Maintenant que j'ai commandé mon
-[grille-pain à disques](/2009/02/quel-serveur-nas-pour-la-maison/) (n'hésitez
-pas à faire un lien sur ce terme, j'ai décidé que c'était mon
+[grille-pain à disques](/notes/2009-02-quel-serveur-nas-pour-la-maison/)
+(n'hésitez pas à faire un lien sur ce terme, j'ai décidé que c'était mon
 [émulsion de volaille](http://www.teulliac.com/killzone-2-sinvite-au-sony-style-store/)
 à moi), il ne me reste plus qu'à trouver quoi mettre dedans.
 

@@ -1,9 +1,5 @@
 ---
 title: 'Nouveautés Live Hotmail de Septembre'
-tags:
-    - Buzz
-    - 'Windows Live'
-    - 'Windows Live Hotmail'
 ---
 
 J'avais déjà annoncé de nombreuses améliorations pour la future version de Live

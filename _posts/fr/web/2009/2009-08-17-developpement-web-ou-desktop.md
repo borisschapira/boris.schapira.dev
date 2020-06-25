@@ -1,7 +1,6 @@
 ---
 title: 'Développement Web ou Desktop ?'
 tags:
-    - Développement
     - Web
 ---
 

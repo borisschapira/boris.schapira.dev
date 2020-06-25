@@ -8,7 +8,7 @@ tags:
     - JavaScript
 slug: priorites-js
 main_image: /assets/images/2020-06-04/synthese.png
-header1: "Priorité de chargement (network/Blink)"
+header1: 'Priorité de chargement (network/Blink)'
 header2: "Priorité d'exécution"
 header3: "Comment l'utiliser ?"
 ---
@@ -267,6 +267,6 @@ contributions permettant de mieux expliquer la pile réseau de Chrome.
 
 _[Note de Boris] Et j'ajoute mes propres articles, en français_ :
 
--   [Preload, Prefetch et Preconnect : accélerez votre site avec les Resource Hints](/2020/05/preload-prefetch-et-preconnect-resource-hints/)
--   [Comment optimiser les performance de vos parties tierces](/2020/05/optimiser-parties-tierces/)
--   [Comment différer l’exécution d’un script ?](/2017/12/comment-differer-l-execution-d-un-script/)
+-   [Preload, Prefetch et Preconnect : accélerez votre site avec les Resource Hints](/notes/2020-05-preload-prefetch-et-preconnect-resource-hints/)
+-   [Comment optimiser les performance de vos parties tierces](/notes/2020-05-optimiser-parties-tierces/)
+-   [Comment différer l’exécution d’un script ?](/notes/2017-12-comment-differer-l-execution-d-un-script/)

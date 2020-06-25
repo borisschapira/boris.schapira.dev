@@ -50,37 +50,26 @@ module Jekyll
       image = 'https://avatars.schapira.dev/avataaars/pink/avatar.png'
       color = site.data["styles"]["main"]["color"]
 
-      if page.data['layout'] == "archives"
-        case page.data['type']
-        when 'year'
-          title = I18NFilter.translate("Année", page.data["locale"]) + ' ' + I18nDateFilter.localize(page.date, "%Y", page.data["locale"])
-          description = I18NFilter.translate("Articles de", page.data["locale"]) + ' ' + I18nDateFilter.localize(page.date, "%Y", page.data["locale"])
-        when 'month'
-          title = I18nDateFilter.localize(page.date, "%B %Y", page.data["locale"])
-          description = I18NFilter.translate("Articles de", page.data["locale"]) + ' ' + title
+      if page.data.key?("title")
+        title = page.data["title"]
+        if page.data.key?("subtitle")
+          title = title + ' – ' + page.data["subtitle"]
         end
-      else
-        if page.data.key?("title")
-          title = page.data["title"]
-          if page.data.key?("subtitle")
-            title = title + ' – ' + page.data["subtitle"]
-          end
-        end
+      end
 
-        if page.data.key?("description")
-          description = page.data["description"]
-        else
-          if page.data.key?("excerpt")
-            description = markdown_converter.convert(page.data["excerpt"].content)
-          elsif page.content.size < 1000
-            if page.content.include? "<figure>"
-              description = markdown_converter.convert(page.content.split(/<figure>/).first)
-            else
-              description = markdown_converter.convert(page.content)
-            end
+      if page.data.key?("description")
+        description = page.data["description"]
+      else
+        if page.data.key?("excerpt")
+          description = markdown_converter.convert(page.data["excerpt"].content)
+        elsif page.content.size < 1000
+          if page.content.include? "<figure>"
+            description = markdown_converter.convert(page.content.split(/<figure>/).first)
           else
-            description = markdown_converter.convert(truncatewords(page.content, 40))
+            description = markdown_converter.convert(page.content)
           end
+        else
+          description = markdown_converter.convert(truncatewords(page.content, 40))
         end
       end
 

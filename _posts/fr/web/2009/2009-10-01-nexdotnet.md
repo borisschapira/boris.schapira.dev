@@ -1,7 +1,6 @@
 ---
 title: 'Projet NexDotNet : présentation'
 tags:
-    - 'Me, myself and I'
     - Nexeo
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: '.NET ouvre son code'
 tags:
-    - Développement
     - .NET
 ---
 

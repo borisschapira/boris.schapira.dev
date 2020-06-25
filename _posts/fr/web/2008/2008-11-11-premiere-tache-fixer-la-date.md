@@ -1,7 +1,6 @@
 ---
 title: 'Première tâche : fixer la date'
 tags:
-    - 'Me, myself and I'
     - Mariage
 ---
 

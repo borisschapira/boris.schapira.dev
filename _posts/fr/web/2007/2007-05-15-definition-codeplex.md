@@ -1,9 +1,6 @@
 ---
 title: 'Définition : CodePlex'
 tags:
-    - Développement
-    - Technologie
-    - CodePlex
     - Microsoft
     - 'Open Source'
 ---

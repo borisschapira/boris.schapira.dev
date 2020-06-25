@@ -1,7 +1,6 @@
 ---
 title: 'Twitter, ce mégaphone'
 tags:
-    - Technologie
     - "Billet d'humeur"
     - Microblogging
 ---

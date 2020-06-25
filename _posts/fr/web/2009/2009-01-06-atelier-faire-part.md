@@ -1,7 +1,6 @@
 ---
 title: 'Atelier Faire-Part'
 tags:
-    - 'Me, myself and I'
     - Mariage
 author: Libellule
 ---

@@ -6,8 +6,8 @@ tags:
 ---
 
 François Fillon vient de présenter le budget 2010 et, comme on s'y attendait,
-l'évaluation de la [Dette Publique](/2009/01/dette-publique/) laisse songueur.
-Attendez-vous donc à la stupide rengaine habituelle sur la Dette :
+l'évaluation de la [Dette Publique](/notes/2009-01-dette-publique/) laisse
+songueur. Attendez-vous donc à la stupide rengaine habituelle sur la Dette :
 
 -   la Dette Publique, c'est nos enfants qui devront la payer ;
 -   la Dette Publique, c'est mal ;
@@ -22,4 +22,4 @@ système de santé, éducation…). **La Dette Publique ne s'évalue pas à l'é
 de l'individu**.
 
 Bref, j'avais déjà fait un article "Questions &amp; Réponses" sur le sujet et
-[je vous y renvoie.](/2009/01/dette-publique/)
+[je vous y renvoie.](/notes/2009-01-dette-publique/)

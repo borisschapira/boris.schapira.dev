@@ -1,7 +1,6 @@
 ---
 title: 'MOSS 2007 certifié par la Défense américaine'
 tags:
-    - Sharepoint
 ---
 
 La solution de gestion de contenu d'entreprise Microsoft Office SharePoint

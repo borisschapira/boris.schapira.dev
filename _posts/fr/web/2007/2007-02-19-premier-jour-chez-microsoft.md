@@ -1,7 +1,6 @@
 ---
 title: 'Premier jour chez Microsoft !'
 tags:
-    - 'Me, myself and I'
 ---
 
 J'ai passé aujourd'hui ma première journée au cœur du département Services de

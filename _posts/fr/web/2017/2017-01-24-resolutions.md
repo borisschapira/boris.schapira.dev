@@ -125,9 +125,9 @@ Du côté de ma posture, j'ai noté une vraie amélioration et des conséquences
 mon bien-être au travail : meilleure digestion (plus de syndrome
 d'endormissement après un déjeuner copieux), meilleure concentration,
 disparition des douleurs lombaires. Le
-[Better Back](/2016/02/betterback-meilleure-posture/) m'a beaucoup aidé comme
-tuteur le temps que certains muscles dorsaux se remettent en ordre de marche,
-mais n'est plus utile très souvent aujourd'hui.
+[Better Back](/notes/2016-02-betterback-meilleure-posture/) m'a beaucoup aidé
+comme tuteur le temps que certains muscles dorsaux se remettent en ordre de
+marche, mais n'est plus utile très souvent aujourd'hui.
 
 En revanche, mon activité physique est toujours faible : j'ai beaucoup pratiqué
 la trottinette quand les températures étaient plus clémentes (au point de faire
@@ -176,8 +176,8 @@ d'humilité. Chaque navigation au clavier est un exercice de patience. Réaliser
 des audits complets sur le RGAA permet de se rendre compte du chemin à parcourir
 pour rendre le Web accessible à tous.
 
-[Passer la certification Opquast](/2016/05/un-retour-sur-opquast-certified/) m'a
-également permis de confirmer ce que je faisais depuis des années, à savoir
+[Passer la certification Opquast](/notes/2016-05-un-retour-sur-opquast-certified/)
+m'a également permis de confirmer ce que je faisais depuis des années, à savoir
 regarder le Web par les yeux des utilisateurs qui ne le maitrisent pas, ou mal,
 et qui se retrouvent démunis face à des produits applicatifs mal pensés. Les
 différents audits réalisés dans l'année m'ont permis de mettre le doigt sur des
@@ -188,8 +188,9 @@ certains projets un peu meilleurs.
 
 En 2016, j'ai également été plus vocal dans l'expression de mes valeurs, sans
 pour autant y adjoindre de violence, de manière à ne plus laisser se dérouler
-sous mes yeux [des situations qui me déplaisent](/2016/01/enlisement/). Ce n'est
-pas évident, il faut prendre son courage à deux mains, trouver les mots justes…
+sous mes yeux [des situations qui me déplaisent](/notes/2016-01-enlisement/). Ce
+n'est pas évident, il faut prendre son courage à deux mains, trouver les mots
+justes…
 
 J'ai également essayé d'agrandir mon cercle d'échange et d'inclusion en
 m'intéressant aux initiatives qui valorisent les femmes, mais également en

@@ -9,7 +9,7 @@ du recrutement d'un·e futur·e collaborateur·trice. Il existe des personnes tr
 compétentes qui sont incapables de travailler avec des personnes novices et
 d'autres qui sont, à l'inverse, de très bonnes facilitatrices et ont un rôle à
 jouer dans une équipe sans détenir
-[d'expertise](/2015/09/expert-ou-pas/ 'Expert ou pas ?') particulière.
+[d'expertise](/notes/2015-09-expert-ou-pas/ 'Expert ou pas ?') particulière.
 
 Au fil des années, j'ai donc établi une grille d'évaluation personnelle qui me
 permet de mieux cerner les candidat·e·s, en dehors de leurs simples compétences

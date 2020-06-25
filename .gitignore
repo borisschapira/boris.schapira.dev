@@ -2,7 +2,6 @@
 .jekyll-cache
 .jekyll-metadata
 /vendor
-_config_prod.yml
 /node_modules
 /lambda
 /_posts/**/*.json

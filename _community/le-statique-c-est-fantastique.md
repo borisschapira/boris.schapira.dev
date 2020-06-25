@@ -42,4 +42,4 @@ tous les jours.
 
 ## Lire, à ce propos :
 
--   [Meilleure UX, meilleures performances : la nouvelle donne du web statique](/2018/02/site-statique-performance-web/)
+-   [Meilleure UX, meilleures performances : la nouvelle donne du web statique](/notes/2018-02-site-statique-performance-web/)

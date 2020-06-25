@@ -79,9 +79,9 @@ because `preload' is not just a hint to the browser, but rather a command.
 
 To write these directives, you can use either the `<link>` HTML tag or the
 `Link` HTTP response header. As for
-[specifying the character set](/2018/11/content-encoding-how-why/), we recommend
-you to use the HTTP header, since it will be taken into account by the browser
-before it starts interpreting the HTML code for the page.
+[specifying the character set](/notes/2018-11-content-encoding-how-why/), we
+recommend you to use the HTTP header, since it will be taken into account by the
+browser before it starts interpreting the HTML code for the page.
 
 In the HTML page body:
 

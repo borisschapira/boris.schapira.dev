@@ -1,7 +1,6 @@
 ---
 title: 'Rentrée du Hardware chez Microsoft'
 tags:
-    - Technologie
     - Hardware
     - Microsoft
 ---

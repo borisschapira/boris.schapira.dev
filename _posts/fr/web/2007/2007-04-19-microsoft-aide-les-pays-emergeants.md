@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft aide les pays émergeants'
 tags:
-    - Technologie
     - Microsoft
     - 'Microsoft Office'
 ---

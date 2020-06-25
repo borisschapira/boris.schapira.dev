@@ -1,7 +1,6 @@
 ---
 title: 'Rester sous Windows Phone…'
 tags:
-    - 'Me, myself and I'
     - Mobilité
     - 'Windows Phone'
 serie: 'Windows Phone'

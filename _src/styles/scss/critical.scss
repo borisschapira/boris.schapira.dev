@@ -7,8 +7,8 @@
 @import 'base/config', 'base/abstract', 'mixins/content', 'mixins/animations';
 
 // Reset
-@import '~normalize-scss/sass/normalize/import-now', 'base/init',
-  'base/links', 'base/print';
+@import '~normalize-scss/sass/normalize/import-now', 'base/init', 'base/links',
+  'base/print';
 
 // Vendors
 @import 'vendors/abbr-touch';

@@ -1,7 +1,6 @@
 ---
 title: 'Un(e) journaliste indélicat(e) du Monde ne vérifie pas ses infos'
 tags:
-    - Technologie
     - "Billet d'humeur"
     - Etudiants
     - Microsoft

@@ -2,7 +2,6 @@
 title: "Visual Studio 2008, SP1 : que d'attente !"
 tags:
     - .NET
-    - Windows
 ---
 
 La Toile est magique lorsqu'elle est capable de transformer quelques mots de

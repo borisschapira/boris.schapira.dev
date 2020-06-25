@@ -150,7 +150,7 @@ L'isolation géographique ne m'inquiète pas. J'ai, depuis longtemps, pris
 conscience que mon identité était indissociable du Réseau et que je serais un
 peu chez moi partout, tant que j'aurais une connexion. Que les gens soient
 physiquement proches de moi ne renforce pas mes relations avec eux et
-[mes amitiés les plus sincères sont virtuelles](/2014/04/relations-virtuelles/).
+[mes amitiés les plus sincères sont virtuelles](/notes/2014-04-relations-virtuelles/).
 
 {% capture img_alt %}Une forêt{% endcapture %} {% capture img_caption %}par Nejc
 Košir

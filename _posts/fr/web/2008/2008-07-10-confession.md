@@ -2,7 +2,6 @@
 title: Confession
 tags:
     - Insolite
-    - 'Me, myself and I'
 ---
 
 Je n'en ai jamais assez, car c'est un fait : je suis un gros consommateur. Je

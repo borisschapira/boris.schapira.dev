@@ -1,7 +1,6 @@
 ---
 title: 'Relations [virtuelles]'
 tags:
-    - 'Me, myself and I'
 ---
 
 > We know that happiness is mainly being satisfied with people that we like,

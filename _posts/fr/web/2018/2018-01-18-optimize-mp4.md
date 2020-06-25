@@ -217,7 +217,7 @@ de Maxim Levkov.
 
 Bien que H.264 soit le codec le plus largement utilisé et supporté, il n'est pas
 nécessairement le plus efficace à chaque fois. Nous avons déjà vu que
-[la balise `<image>` accepte plusieurs sources](/2017/10/optimiser-les-images-et-reduire-leur-poids-formats-outils-et-rwd/),
+[la balise `<image>` accepte plusieurs sources](/notes/2017-10-optimiser-les-images-et-reduire-leur-poids-formats-outils-et-rwd/),
 ce qui lui permet d’offrir des images WebP aux utilisateurs et utilisatrices de
 Chrome. L'élément `<video>` peut également accepter plusieurs sources.
 L’équivalent de WebP pour les vidéos est WebM.

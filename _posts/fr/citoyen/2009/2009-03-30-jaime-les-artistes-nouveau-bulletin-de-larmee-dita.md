@@ -15,9 +15,9 @@ slug: jaime-les-artistes-nouveau-bulletin-de-larmee-ditalie
 > plus fort. <cite>Communiqué du site jaimelesartistes.fr après l'attaque DDOS
 > dont il a été la victime</cite>
 
-[Comme je le disais](/2009/03/hadopi-les-pirates-ont-bon-dos/), le gouvernement
-utilise l'homographie existant entre deux notions pour substituer deux
-populations qui n'ont rien à voir : le citoyen qui télécharge un mp3 et le
+[Comme je le disais](/notes/2009-03-hadopi-les-pirates-ont-bon-dos/), le
+gouvernement utilise l'homographie existant entre deux notions pour substituer
+deux populations qui n'ont rien à voir : le citoyen qui télécharge un mp3 et le
 pirate
 _[qui contourne ou détruit les protections d’un logiciel, d’un ordinateur ou d’un réseau informatique](http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19990402&pageDebut=03905&pageFin=&pageCourante=03907)._
 

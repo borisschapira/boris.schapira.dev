@@ -4,7 +4,6 @@ tags:
     - Boulogne
     - FAI
     - Free
-    - 'Me, myself and I'
 ---
 
 Mon histoire avec **Free** est aussi longue que ma relation au **Web**. Free m'a

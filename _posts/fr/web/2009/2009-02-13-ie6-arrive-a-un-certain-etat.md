@@ -1,7 +1,6 @@
 ---
 title: 'IE6 : "Arrivé à un certain état…"'
 tags:
-    - Développement
     - Flash
     - 'Internet Explorer'
 ---

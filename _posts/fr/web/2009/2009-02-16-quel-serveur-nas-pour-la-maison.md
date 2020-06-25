@@ -1,7 +1,6 @@
 ---
 title: 'Quel serveur NAS pour la maison ?'
 tags:
-    - Technologie
     - NAS
     - Stockage
 ---

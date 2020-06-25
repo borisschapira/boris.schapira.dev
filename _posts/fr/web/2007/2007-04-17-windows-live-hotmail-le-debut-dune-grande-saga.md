@@ -1,8 +1,6 @@
 ---
 title: "Windows Live Hotmail à l'affiche"
 tags:
-    - Technologie
-    - 'Windows Live Hotmail'
 ---
 
 Alors que nombre d'entre nous utilise le service bêta depuis belle lurette,

@@ -1,7 +1,6 @@
 ---
 title: "Popfly s'ouvre à tous les internautes"
 tags:
-    - Technologie
     - Popfly
     - Silverlight
 ---

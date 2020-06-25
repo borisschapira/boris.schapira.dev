@@ -34,8 +34,8 @@ très difficile à faire sur le court terme. Alors je me suis dit que j'allais
 voir loin, en pensant d'abord aux plus jeunes.
 
 Je me suis déjà prononcé sur
-[l'apprentissage du code informatique](/2014/06/le-code-a-change/), que je pense
-inutile pour le plus grand nombre (au mieux, il sera utilisé comme
+[l'apprentissage du code informatique](/notes/2014-06-le-code-a-change/), que je
+pense inutile pour le plus grand nombre (au mieux, il sera utilisé comme
 [un signal](<https://fr.wikipedia.org/wiki/Signal_(%C3%A9conomie)>), à l'image
 de ce qui se fait dans de nombreux établissements pour l'Allemand en première
 langue ou les langues mortes, ce qui n'est pas forcément très intéressant au

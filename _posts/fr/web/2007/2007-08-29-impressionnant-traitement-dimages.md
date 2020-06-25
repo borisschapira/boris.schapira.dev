@@ -1,7 +1,6 @@
 ---
 title: "Impressionnant traitement d'images"
 tags:
-    - Technologie
     - Web
 ---
 

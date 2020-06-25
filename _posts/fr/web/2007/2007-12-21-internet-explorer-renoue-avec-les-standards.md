@@ -1,7 +1,6 @@
 ---
 title: 'Internet Explorer renoue avec les standards'
 tags:
-    - Technologie
     - 'Internet Explorer'
     - Web
 ---

@@ -2,7 +2,6 @@
 title: 'France 2 et Facebook'
 tags:
     - Société
-    - Technologie
     - Facebook
 ---
 

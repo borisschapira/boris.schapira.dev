@@ -92,13 +92,13 @@ validation d'une information et de sa pertinence ?
 Mon métier est un métier d'information. Nous ne manipulons pas les faits divers,
 mais nous échangons du savoir, et croyez-moi si je vous dis qu'une fois submergé
 par différents signaux, il faut toujours prendre du recul et
-[envisager les situations dans la durée](/2016/12/le-web-au-futur/).
+[envisager les situations dans la durée](/notes/2016-12-le-web-au-futur/).
 
 Il en est de même pour l'actualité, encore plus quand elle vous fait peur ou
 vous agace, bref, quand elle génère chez vous des pulsions de violence. Cette
 violence imposée ou qui ne demande qu'à sortir est un des bruits les plus forts,
 car il résonne à l'intérieur de nous, et c'est aujourd'hui l'arme
-[que les terroristes retournent contre nous-mêmes](/2016/08/la-strategie-de-la-mouche/ 'La Stratégie de la mouche').
+[que les terroristes retournent contre nous-mêmes](/notes/2016-08-la-strategie-de-la-mouche/ 'La Stratégie de la mouche').
 
 ## Comment garder l'esprit critique ?
 
@@ -107,7 +107,7 @@ que je peux.
 
 J'utilise Internet et les réseaux sociaux comme des outils de communication en
 étant conscient des
-[images imparfaites qu'ils me présentent de mes interlocuteurs](/2017/02/comparaison-numerique/)
+[images imparfaites qu'ils me présentent de mes interlocuteurs](/notes/2017-02-comparaison-numerique/)
 et de l'actualité. Je m'interroge sur chaque idée qu'on m'impose. J'ai, par
 exemple, pris l'habitude de lire des études plutôt que de m'intéresser aux
 synthèses qui en sont faites. Cela me prend beaucoup de temps, m'oblige à me

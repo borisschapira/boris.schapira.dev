@@ -1,8 +1,6 @@
 ---
 title: 'De MS-DOS à Vista'
 tags:
-    - Technologie
-    - Windows
 ---
 
 On décrie souvent les systèmes d'exploitation de Microsoft, et c'est vrai qu'ils

@@ -2,7 +2,6 @@
 title: "XBRL pour l'échange de données financières"
 tags:
     - Finance
-    - Technologie
     - Économie
 ---
 

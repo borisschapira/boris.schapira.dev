@@ -1,7 +1,6 @@
 ---
 title: "Mise à l'épreuve : Windows Live Writer"
 tags:
-    - Technologie
     - 'Windows Live Writer'
     - Wordpress
 ---

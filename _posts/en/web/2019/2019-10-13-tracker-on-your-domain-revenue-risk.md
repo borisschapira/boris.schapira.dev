@@ -75,7 +75,7 @@ Performance. Since 2017, however, I have felt an acceleration, probably due to
 their desire to index the Web more accurately using probes
 [always equipped with the latest version of Chrome and running JavaScript](https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html).
 A tendency around which new indicators have even been created, such as the
-[Time To (Consistently) Interactive](/2019/05/measuring-interactivity-time-to-interactive/)
+[Time To (Consistently) Interactive](/notes/2019-05-measuring-interactivity-time-to-interactive/)
 which, while not being a good UX indicator, is an excellent end-of-load
 indicator for a bot.
 

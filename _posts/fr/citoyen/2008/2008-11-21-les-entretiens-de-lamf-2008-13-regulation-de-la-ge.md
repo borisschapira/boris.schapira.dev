@@ -9,8 +9,8 @@ par l'air du temps :_
 
 1.  _Régulation de la gestion d’actifs face aux défis européens et
     internationaux._
-2.  [_Régulation pour les produits traités de gré à gré ?_](/2008/12/les-entretiens-de-lamf-2008-23-regulation-des-produits-traites-de-gre-a-gre/)
-3.  [_Transparence et opérations financières : le suivi du contrôle dans les sociétés cotées._](/2008/12/les-entretiens-de-lamf-2008-33-suivi-du-controle-dans-les-societes-cotees/)
+2.  [_Régulation pour les produits traités de gré à gré ?_](/notes/2008-12-les-entretiens-de-lamf-2008-23-regulation-des-produits-traites-de-gre-a-gre/)
+3.  [_Transparence et opérations financières : le suivi du contrôle dans les sociétés cotées._](/notes/2008-12-les-entretiens-de-lamf-2008-33-suivi-du-controle-dans-les-societes-cotees/)
 
 Sur le **premier point** a été abordé le problème le plus évident : la
 **complexité des produits**…

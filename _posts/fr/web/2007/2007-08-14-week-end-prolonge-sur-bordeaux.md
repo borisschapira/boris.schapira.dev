@@ -1,7 +1,6 @@
 ---
 title: 'Week-end prolongé sur Bordeaux'
 tags:
-    - 'Me, myself and I'
     - 'Amis et famille'
 ---
 

@@ -2,7 +2,8 @@
 title: 'Les anbibiotiques'
 ---
 
-Suite à [l'accident](/2017/12/a-l-hopital/), le traitement du petit continue.
+Suite à [l'accident](/notes/2017-12-a-l-hopital/), le traitement du petit
+continue.
 
 <!-- more -->
 
@@ -10,5 +11,5 @@ Suite à [l'accident](/2017/12/a-l-hopital/), le traitement du petit continue.
 > – Quoi ? Quels moustiques ?  
 > – Mais les moustiques ! Ceux qui vont aller dans mes doigts !
 
-Des antibiotiques contre [les bactéries](/2017/12/les-petites-betes/).  
+Des antibiotiques contre [les bactéries](/notes/2017-12-les-petites-betes/).  
 Bien sûr.

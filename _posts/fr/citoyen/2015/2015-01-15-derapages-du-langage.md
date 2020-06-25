@@ -16,7 +16,7 @@ serie: 'Charlie Hebdo'
 
 Nathalie, je suis là, je vous attends. Mais je dois être parfaitement honnête
 avec vous : vos propos me font vraiment peur, et j'ai l'impression que
-[les raisons pour lesquelles je pourrais rentrer dans l'une de ces petites cases](/2015/01/je-ne-suis-pas-charlie-je-suis-francais/)
+[les raisons pour lesquelles je pourrais rentrer dans l'une de ces petites cases](/notes/2015-01-je-ne-suis-pas-charlie-je-suis-francais/)
 sont infiniment plus humaines, honnêtes et porteuses d'espoir pour l'unité
 nationale que le message que vous avez fait passer à l'antenne.
 

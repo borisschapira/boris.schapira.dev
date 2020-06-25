@@ -26,7 +26,7 @@ auprès de professionnels en formation continue) :
     laisse l'occasion ;
 -   être né·e·s avec Internet ne signifie pas savoir s'en servir, ou avoir le
     recul pour
-    [comprendre et mettre en perspective ce qu'on y lit](/2016/11/infobesite-et-rebellion/).
+    [comprendre et mettre en perspective ce qu'on y lit](/notes/2016-11-infobesite-et-rebellion/).
     Il faut donc **reprendre tout ce qu'on considère soi-même comme une base** ;
 -   le cours et les exercices ne suffisent pas : **les élèves ont besoin de
     supports**. Adrien fournit son cours. Je le fais aussi, a posteriori, en

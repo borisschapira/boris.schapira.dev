@@ -21,6 +21,6 @@ prochain. Pour ceux qui voudraient m'y rencontrer, voici mon planning :
     Services
 
 N'hésitez pas à me contacter
-[en commentaires](/2009/09/retrouvez-moi-le-6-octobre-aux-ms-days/), sur
+[en commentaires](/notes/2009-09-retrouvez-moi-le-6-octobre-aux-ms-days/), sur
 [Twitter](https://twitter.com/borisschapira) ou par mail si vous voulez qu'on se
 donne rendez-vous pour discuter là-bas, ou tout simplement une **invitation** !

@@ -1,7 +1,5 @@
 ---
 title: 'Etude VTech sur la fréquentation des blogs'
-tags:
-    - RSS
 ---
 
 Accessoblog a annoncé aujourd'hui la mise en ligne du résultat d'un sondage

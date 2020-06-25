@@ -1,7 +1,6 @@
 ---
 title: 'Retour des Microsoft Days 2009'
 tags:
-    - Technologie
     - Microsoft
     - MSDays
 ---

@@ -37,9 +37,9 @@ parce que je :
     passer du temps avec mes enfants.
 
 Je vais vous dire une choses : non seulement ça ne me choque pas d'être qualifié
-de "femme" (ça me change de [maman](/2016/01/wemoms-app/)), mais je me dis qu'en
-plus, être un homme qui se comporte "comme une femme" laissera peut-être plus de
-place, un jour, à une femme qui se comporte "comme un homme" :
+de "femme" (ça me change de [maman](/notes/2016-01-wemoms-app/)), mais je me dis
+qu'en plus, être un homme qui se comporte "comme une femme" laissera peut-être
+plus de place, un jour, à une femme qui se comporte "comme un homme" :
 
 -   qui prend des décisions (et pas : _"qui se prend pour le chef"_) ;
 -   qui sait ce qu'elle veut (et pas : _"qui fait chier tout le monde"_) ;

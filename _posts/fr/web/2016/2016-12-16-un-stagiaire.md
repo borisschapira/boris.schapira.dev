@@ -107,7 +107,7 @@ Je jette ce à quoi je pense, j'essaierai d'alimenter davantage ultérieurement 
         s'appelle un marteau. Dans le numérique, un outil qui enfonce des clous
         s'appelles un OQEDC (Outil Qui Enfonce Des Clous). Résultat : parfois,
         on s'en sort plus trop. Pourtant ça reste
-        [des marteaux](/2016/09/le-marteau/).
+        [des marteaux](/notes/2016-09-le-marteau/).
 -   Organisation du travail :
     -   Le Web : un domaine, **plein** de métiers :
         -   le(s) graphistes (illustrateurs, webdesigners…) ;

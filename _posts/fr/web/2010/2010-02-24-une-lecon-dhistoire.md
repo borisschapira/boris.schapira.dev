@@ -1,7 +1,6 @@
 ---
 title: "Une leçon d'Histoire"
 tags:
-    - 'Me, myself and I'
 ---
 
 Mon père est juif, ma mère est catholique. Aucun des deux n'est pratiquant aussi

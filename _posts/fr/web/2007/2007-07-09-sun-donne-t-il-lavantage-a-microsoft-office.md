@@ -1,7 +1,6 @@
 ---
 title: "Sun donne-t-il l'avantage à Microsoft Office ?"
 tags:
-    - Technologie
     - 'Microsoft Office'
 ---
 

@@ -21,7 +21,7 @@ atteintes aux libertés, la durée et les causes d'application.
 
 Malheureusement (ou insidieusement), des deux articles que contient ce projet,
 on ne parlera que de
-[la déchéance de nationalité](/2015/12/analyse-du-projet-de-revision-constitutionnelle-decheance-de-nationalite/ "L'analyse du projet de révision constitutionnelle : la déchéance de nationalité"),
+[la déchéance de nationalité](/notes/2015-12-analyse-du-projet-de-revision-constitutionnelle-decheance-de-nationalite/ "L'analyse du projet de révision constitutionnelle : la déchéance de nationalité"),
 elle aussi dramatique mais surtout bien plus médiatique car moins technique.
 
 {% capture img_alt %}Un panneau jaune indiquant une diversion posé sur un

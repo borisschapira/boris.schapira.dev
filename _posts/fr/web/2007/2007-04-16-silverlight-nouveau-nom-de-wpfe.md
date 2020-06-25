@@ -1,7 +1,6 @@
 ---
 title: 'Silverlight, nouveau nom de WPF/E'
 tags:
-    - Développement
     - Silverlight
 ---
 

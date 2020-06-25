@@ -80,7 +80,7 @@ sûrement dûe à la volonté d'indexer plus fidèlement le Web en utilisant des
 sondes
 [toujours équipées de la dernière version de Chrome et exécutant JavaScript \[EN\]](https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html).
 Une tendance pour laquelle de nouveaux indicateurs ont même été créés, comme le
-[Time To (Consistently) Interactive](/2019/05/mesurer-interactivite-time-to-interactive/)
+[Time To (Consistently) Interactive](/notes/2019-05-mesurer-interactivite-time-to-interactive/)
 qui, à défaut d'être un bon indicateur d'UX, est un excellent indicateur de fin
 de chargement pour un robot.
 

@@ -5460,7 +5460,7 @@ registerRoute(/^https:\/\/analytics\.schapira\.dev/, new NetworkOnly_NetworkOnly
 cleanupOutdatedCaches(); // default strategy
 
 setDefaultHandler(new StaleWhileRevalidate_StaleWhileRevalidate({
-  cacheName: 'bsc-k1o5',
+  cacheName: 'bsc-r2d2',
   plugins: [new BroadcastUpdatePlugin_BroadcastUpdatePlugin()]
 })); // specialized strategies
 

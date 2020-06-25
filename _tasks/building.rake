@@ -25,7 +25,7 @@ namespace :build do
   task serve: :preview
 
   desc 'Generate for deployment (but do not deploy)'
-  task :generate, %i[env deployment_configuration] => [:clean, 'prebuild:config', 'prebuild:test'] do |_t, args|
+  task :generate, %i[env deployment_configuration] => [:clean, 'prebuild:test'] do |_t, args|
     args.with_defaults(env: 'prod')
     config_file = "_config_#{args[:env]}.yml"
     if rake_running

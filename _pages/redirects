@@ -1,8 +1,9 @@
 ---
 permalink: /_redirects
 ---
+
 /bookmarks/ https://bookmarks.boris.schapira.dev/ 302
-/2015/10/industrialiser-le-dev-front-end/ /confs/industrialiser-le-dev-front-end/ 301
+{% comment %} Well known {% endcomment -%}
 /android-chrome-192x192.png /.well-known/android-chrome-192x192.png 200
 /android-chrome-512x512.png /.well-known/android-chrome-512x512.png 200
 /apple-touch-icon.png /.well-known/apple-touch-icon.png 200
@@ -15,13 +16,16 @@ permalink: /_redirects
 /boris.schapira.dev.webmanifest  /.well-known/manifest.json 200
 /mstile-150x150.png /.well-known/mstile-150x150.png 200
 /robots.txt /.well-known/robots.txt 200
+{% comment %} / well known {% endcomment -%}
+{% comment %} minilinks {% endcomment -%}
 /wcbdx /community/performance-web-vers-la-speed-update-un-pas-aprs-lautre/ 301!
 /wcbdx%20 /community/performance-web-vers-la-speed-update-un-pas-aprs-lautre/ 301!
 /wcbdx%20?mc_cid=935c873d9a&mc_eid=69ff201d64 /community/performance-web-vers-la-speed-update-un-pas-aprs-lautre/ 301!
 /wcbdx%20?mc_cid=935c873d9a&mc_eid=69ff201d64 /community/performance-web-vers-la-speed-update-un-pas-aprs-lautre/ 301!
 /20190611-node /assets/docs/2019-06-11/20190611-node.pdf 301!
 /psconnect-bayonne /assets/docs/2019-07-05/psconnect-bayonne.pdf 301!
-/mariage /tag/mariage/ 301!
-/confs/* /community/:splat 301!
 /webinar-papis-du-web /assets/docs/2020-04-07/clever-age-papis.pdf 301!
-/2020/05/victoire-touaillon/ /2020/05/victoire-tuaillon/ 301!
+{% comment %} /minilinks {% endcomment -%}
+{% comment %} Notes {% endcomment -%}
+/notes/ / 302
+/:year/:month/:slug/ /notes/:year-:month-:slug/ 301

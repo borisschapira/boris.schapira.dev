@@ -1,7 +1,6 @@
 ---
 title: 'VBA, Extensions OpenOffice… les langages de script bureautiques'
 tags:
-    - Développement
     - 'Microsoft Office'
     - 'Visual Basic'
 slug: vba-extensions-openoffice-les-langages-de-script-bureautiques

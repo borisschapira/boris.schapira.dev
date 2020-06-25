@@ -1,7 +1,6 @@
 ---
 title: "Chromium : l'âge adulte"
 tags:
-    - Technologie
     - Google
     - Navigateurs
     - Web

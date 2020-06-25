@@ -1,8 +1,5 @@
 ---
 title: 'Adobe Vs. Microsoft, le combat continue'
-tags:
-    - Technologie
-    - Interopérabilité
 ---
 
 Il n'aura pas échappé à certains d'entre vous que Silverlight, la nouvelle

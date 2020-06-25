@@ -1,9 +1,7 @@
 ---
 title: 'SharePoint et moi - Episode 1'
 tags:
-    - Technologie
     - 'Microsoft Office'
-    - Sharepoint
     - 'Visual Basic'
 ---
 

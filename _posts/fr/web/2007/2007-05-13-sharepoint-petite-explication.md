@@ -1,9 +1,7 @@
 ---
 title: 'SharePoint : petite explication'
 tags:
-    - Technologie
     - 'Microsoft Office'
-    - Sharepoint
 ---
 
 J'avais promis de rédiger un article de présentation de SharePoint, le voici.

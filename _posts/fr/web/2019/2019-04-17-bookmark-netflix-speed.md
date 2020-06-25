@@ -9,7 +9,7 @@ translations:
 ---
 
 Il y a quelques mois, j'ai publié un article sur
-[l'augmentation de la luminosité des vidéos Netflix](/2018/08/bookmark-netflix-luminosite/)
+[l'augmentation de la luminosité des vidéos Netflix](/notes/2018-08-bookmark-netflix-luminosite/)
 et il a eu un certain succès. Mais que faire si vous avez vraiment besoin
 d'accélérer votre épisode en cours pour le terminer avant que votre bae arrive
 ou ralentir les mouvements de Beyoncé pour mieux apprendre une de ses chorés
@@ -35,9 +35,9 @@ dessus !
 
 [^1]:
     Comme expliqué dans
-    [le billet précédent](/2018/08/bookmark-netflix-luminosite/), si le site Web
-    a défini une Content-Security-Policy bloquant les favoris, cela ne marchera
-    pas, désolé !
+    [le billet précédent](/notes/2018-08-bookmark-netflix-luminosite/), si le
+    site Web a défini une Content-Security-Policy bloquant les favoris, cela ne
+    marchera pas, désolé !
 
 Et si vous voulez gérer à la fois la luminosité et la vitesse de lecture vidéo
 sans multiplier les signets, en voici un qui fait les deux à la fois:

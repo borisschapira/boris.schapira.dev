@@ -1,7 +1,6 @@
 ---
 title: 'Bienvenue à / Welcome to Regenerate Thumbnails 2.1.0'
 tags:
-    - 'Me, myself and I'
     - Projets
 ---
 

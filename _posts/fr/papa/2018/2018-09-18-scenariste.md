@@ -10,4 +10,4 @@ histoire qu'il déroule à voix haute…
 > Mais il se retourna, et il a vu le méchant. La terreur pouvait se lire dans
 > son visage. Il sourit plus du tout. Plus du tout **DU TOUT**.
 
-[Futur scénariste](/2018/05/futur-scenariste/).
+[Futur scénariste](/notes/2018-05-futur-scenariste/).

@@ -2,7 +2,6 @@
 title: "L'IT au service du Trading"
 tags:
     - Finance
-    - Technologie
     - Emploi
     - Nexeo
 ---

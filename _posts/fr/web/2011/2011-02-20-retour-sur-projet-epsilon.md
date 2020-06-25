@@ -1,7 +1,6 @@
 ---
 title: 'Retour sur : Projet Epsilon'
 tags:
-    - 'Me, myself and I'
 ---
 
 Plus d'un mois après la livraison en Production du projet **Epsilon**, beaucoup

@@ -49,7 +49,7 @@
 
 .nav-header {
   font-family: $title-font-family;
-  font-size: clamp(16px,1.7vw,22px);
+  font-size: clamp(16px, 1.7vw, 22px);
   position: relative;
   @extend %main-grid;
 

@@ -242,8 +242,8 @@ consequence of some newly-implemented third-party dependency?
 
 As we’ll demonstrate later in the article, this Long Task is not necessarily
 harmful to your UX (for example, if you
-[defer your scripts](/2017/12/defer-script-to-speed-up-rendering/), then the
-Long Tasks they produced will occur later) but you can certainly optimize to
+[defer your scripts](/notes/2017-12-defer-script-to-speed-up-rendering/), then
+the Long Tasks they produced will occur later) but you can certainly optimize to
 make sure they don’t happen (for example, you can delegate complex JavaScript
 algorithms to
 [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers),

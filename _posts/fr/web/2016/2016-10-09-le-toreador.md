@@ -55,9 +55,9 @@ la stupidité : vous ne vous rendez compte de rien, ce sont les autres qui
 souffrent.
 
 Le "problème du Toréador" n'est pas tant
-[une question d'expertise](/2015/09/expert-ou-pas/) qu'une question d'équilibre
-et de partage de la connaissance entre une équipe opérationnelle et un
-intervenant externe. Quand vous intervenez sur un projet, prenez toujours le
+[une question d'expertise](/notes/2015-09-expert-ou-pas/) qu'une question
+d'équilibre et de partage de la connaissance entre une équipe opérationnelle et
+un intervenant externe. Quand vous intervenez sur un projet, prenez toujours le
 temps de comprendre comment il fonctionne ou est architecturé, et prenez le
 temps de discuter avec l'équipe pour déterminer une solution qui corresponde à
 leurs processus.

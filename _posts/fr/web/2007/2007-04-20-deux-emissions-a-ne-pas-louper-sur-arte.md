@@ -1,7 +1,6 @@
 ---
 title: 'Deux émissions à ne pas louper sur Arte'
 tags:
-    - Technologie
     - Apple
     - Google
     - IBM

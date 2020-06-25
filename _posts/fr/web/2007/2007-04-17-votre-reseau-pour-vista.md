@@ -1,7 +1,6 @@
 ---
 title: 'Votre réseau pour Vista'
 tags:
-    - Technologie
     - 'Windows Vista'
 ---
 

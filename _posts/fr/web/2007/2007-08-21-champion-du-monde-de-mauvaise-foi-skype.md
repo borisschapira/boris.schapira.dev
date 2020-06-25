@@ -1,7 +1,6 @@
 ---
 title: 'Skype révèle les raisons du crash'
 tags:
-    - Technologie
     - Crash
 ---
 

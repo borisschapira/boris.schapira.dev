@@ -1,7 +1,6 @@
 ---
 title: 'Windows Media Center : Beta Test'
 tags:
-    - Technologie
     - GUWIV
 ---
 

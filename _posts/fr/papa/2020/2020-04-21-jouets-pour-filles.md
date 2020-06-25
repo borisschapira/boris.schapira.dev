@@ -30,4 +30,4 @@ que je le teste.
 > – Bah je réponds pas. C'est un aspirateur où on met son zizi ? Non ? Bah alors
 > c'est complètement bête, comme question.
 
-C'est bon, cette fois [il a pigé le truc](/2018/07/pour-les-filles/).
+C'est bon, cette fois [il a pigé le truc](/notes/2018-07-pour-les-filles/).

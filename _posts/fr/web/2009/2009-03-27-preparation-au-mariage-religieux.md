@@ -1,7 +1,6 @@
 ---
 title: 'Préparation au mariage religieux'
 tags:
-    - 'Me, myself and I'
     - Mariage
 ---
 

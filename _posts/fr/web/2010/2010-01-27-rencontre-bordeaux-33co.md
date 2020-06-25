@@ -2,7 +2,6 @@
 title: 'Rencontre Viadeo "Bordeaux 33CO"'
 tags:
     - Emploi
-    - 'Me, myself and I'
 ---
 
 Maintenant que la page parisienne de ma vie est tournée (et je ne suis pas

@@ -1,7 +1,6 @@
 ---
 title: "Les Microsoft Student Partners se démarquent à l'Imagine Cup"
 tags:
-    - Technologie
     - 'Imagine Cup'
     - 'Project Hoshimi'
     - Web

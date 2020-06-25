@@ -26,7 +26,7 @@ partie de structures qui ont de forts intérêts dans ces projets[^giga].
 
 [^giga]:
     dire que j'écrivais déjà ça
-    [il y a 9 ans](/2007/08/le-mythe-de-la-giga-communaute-open-source/ 'Le mythe de la giga-communauté open source'),
+    [il y a 9 ans](/notes/2007-08-le-mythe-de-la-giga-communaute-open-source/ 'Le mythe de la giga-communauté open source'),
     les mythes ont la vie dure.
 
 Ce n'est pas la première fois que j'entends l'histoire d'un projet open source

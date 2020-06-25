@@ -92,7 +92,7 @@ common JS libraries, served as third parties by CDNs: they are among the most
 efficiently delivered resources, with efficient minification and obfuscation,
 often coupled with low-latency CDNs. Although their use often degrades the Start
 Render, this is more often because
-[these scripts are loaded synchronously](/2017/12/defer-script-to-speed-up-rendering/)
+[these scripts are loaded synchronously](/notes/2017-12-defer-script-to-speed-up-rendering/)
 rather than to their third-party status.
 
 The biggest impact on performance comes from ads and social network scripts
@@ -120,7 +120,7 @@ In this case, it will be necessary to revise the declaration of the `<script>`,
 in the site, so that this inclusion occurs later, deferred: either in reaction
 to an event raised during the loading of other resources or after an event
 provoked by the user (an issue of Lazy-Loading already discussed for
-[the loading of images](/2019/03/lazy-loading-faster-webpages-seo-friendly/)).
+[the loading of images](/notes/2019-03-lazy-loading-faster-webpages-seo-friendly/)).
 
 ## Prioritizing a resource or service that is too late in the queue
 
@@ -136,7 +136,7 @@ down by:
 
 How to tell the browser the behavior to adopt to optimize their loading? Have a
 look at
-[my previous article on Preload and Resource Hints](/2020/05/preload-prefetch-preconnect-resource-hints/)!
+[my previous article on Preload and Resource Hints](/notes/2020-05-preload-prefetch-preconnect-resource-hints/)!
 
 ## The Googles Fonts case
 

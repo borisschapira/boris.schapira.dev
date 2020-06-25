@@ -1,7 +1,6 @@
 ---
 title: 'Nous… les racoleurs de luxe'
 tags:
-    - Technologie
     - Buzz
     - Web
 ---

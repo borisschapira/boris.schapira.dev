@@ -7,9 +7,9 @@ favorite et meilleur ami de notre aîné (et de nos nuits).
 
 <!-- more -->
 
-Vous vous rappelez [du réveil du 24](/2016/01/au-reveil/) ? Et bien disons que
-notre réaction a été un peu… virulente. Les garçons n'étant pas habitués à nous
-voir pousser des cris de bêtes sauvages aussi tôt le matin, ils ont compris
+Vous vous rappelez [du réveil du 24](/notes/2016-01-au-reveil/) ? Et bien disons
+que notre réaction a été un peu… virulente. Les garçons n'étant pas habitués à
+nous voir pousser des cris de bêtes sauvages aussi tôt le matin, ils ont compris
 qu'ils avaient fait une bêtise et se sont mis en tête de ranger leur chambre
 seuls. Ils s'en sont très bien sorti, d'ailleurs, allant jusqu'à secouer les
 tapis et passer le balai eux-mêmes.

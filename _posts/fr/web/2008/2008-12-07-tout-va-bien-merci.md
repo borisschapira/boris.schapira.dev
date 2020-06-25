@@ -1,7 +1,6 @@
 ---
 title: 'Tout va bien, merci.'
 tags:
-    - 'Me, myself and I'
 ---
 
 Cher Père Noël,

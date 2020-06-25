@@ -63,4 +63,4 @@ further, nor will I provide support. Consider this snippet of code as being
 under [WTFPL license](https://en.wikipedia.org/wiki/WTFPL).
 
 <ins datetime="2019-04-18">In a hurry? There is also a bookmark to
-[speed up your Netflix video](/2019/04/bookmark-netflix-speed/) ?</ins>
+[speed up your Netflix video](/notes/2019-04-bookmark-netflix-speed/) ?</ins>

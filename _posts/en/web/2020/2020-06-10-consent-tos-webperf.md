@@ -38,7 +38,10 @@ advertisements", "advertisements only" .
 1. What happens if the user refuses or does not consent?
 2. What happens if the user consent to all usages?
 
-Very often, the acceptance of all uses leads to a situation where the user experience is disastrous, and users are not offered any new feature to
+Very often, the acceptance of all uses leads to a situation where the user
+experience is disastrous, and users are not offered any new feature to
 compensate for this degradation of their experience.
 
-This is an opportunity for Product Managers to reflect on the ethics of this type of implementation. Is it normal that **we offer the most degraded experience to our most loyal users**?
+This is an opportunity for Product Managers to reflect on the ethics of this
+type of implementation. Is it normal that **we offer the most degraded
+experience to our most loyal users**?
