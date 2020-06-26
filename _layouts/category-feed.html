@@ -1,17 +1,17 @@
---- 
-layout: null 
---- 
+---
+layout: null
+---
 {% if page.locale %}
   {% assign locale_size = page.locale|size %}
   {% if locale_size > 0 %}{% assign has_locale = true %}{% else %}{% assign has_locale = false %}{% endif %}
 {% endif %}{% if page.category %}
-  {% assign the_posts=site.categories[page.category] %} 
-{% else %} 
+  {% assign the_posts=site.categories[page.category] %}
+{% else %}
   {% assign the_posts=site.posts %}
 {% endif %}{% if has_locale %}
-  {% assign the_posts=the_posts| where:"locale", page.locale %} 
-{% else %} 
-  {% assign the_posts=the_posts %} 
+  {% assign the_posts=the_posts| where:"locale", page.locale %}
+{% else %}
+  {% assign the_posts=the_posts %}
 {% endif %}{% if page.url %}
   {% assign the_url = page.url %}
 {% else %}
@@ -39,7 +39,7 @@ layout: null
               </p>
               <ul>
                   {% if page.category %}<li>{{ "de la catégorie&nbsp;:" | t: page.locale }} {{ page.category | t: page.locale | capitalize}}</li>{% endif %}
-                  {% if has_locale %}<li>{{ "rédigés en" | t: page.locale }} {{ "français" | t: page.locale }}.</li>{% endif %}
+                  {% if has_locale %}<li>{{ "rédigés en" | t: page.locale }} {% if page.locale == "fr" %}français{% else %}English{% endif %}.</li>{% endif %}
               </ul>
               {% if page.category != 'web' %}<p>
                   {{ "Si vous voulez uniquement suivre les articles en rapport avec le Web, vous préférerez sûrement suivre" | t: page.locale }} <a href="{{ "web/feed.xml" | prepend: page.baseurl | absolute_url }}">{{ "ce flux" | t: page.locale }}</a>.
