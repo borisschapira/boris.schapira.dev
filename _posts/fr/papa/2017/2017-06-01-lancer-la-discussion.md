@@ -53,7 +53,8 @@ Euh, ok…
 À table :
 
 > — Papa, Maman ?  
-> — (en cœur) Oui ? — C'est bon mais je préfère les pâtes.
+> — (en cœur) Oui ?  
+> — C'est bon mais je préfère les pâtes.
 
 ---
 

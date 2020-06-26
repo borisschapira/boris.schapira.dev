@@ -19,8 +19,8 @@ to fold everything.
 I leave him to his folding and whistle while folding my own pile. From time to
 time, I turn my head, and I see that he does a good job. Quickly, he complains.
 
-> – Our clothes are too easy. Can I try it with your own clothes? – Of course.
-> Come on, let's swap our buckets.
+> – Our clothes are too easy. Can I try it with your own clothes?  
+> – Of course. Come on, let's swap our buckets.
 
 And here we go again, I separate the clothes of the little one and those of the
 big one and he folds one of my jeans. We whistle and sometimes he sings. At the

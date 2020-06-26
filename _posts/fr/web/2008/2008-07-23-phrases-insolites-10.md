@@ -21,13 +21,14 @@ celles que tu réalises au bénéfice de ta propre personne.
 
 ## Petit Robert
 
-> – Je m'absentiens de répondre – S'absentiendre, c'est quand on dit rien parce
-> qu'on est pas là ?
+> – Je m'absentiens de répondre  
+> – S'absentiendre, c'est quand on dit rien parce qu'on est pas là ?
 
 ## Vision d'employé
 
-> – Non, tout le monde ne fait pas 35 heures, tu sais. – Je sais. Mais toi c'est
-> différent, tu es cadre, tu restes travailler parce que t'aime bien ça.
+> – Non, tout le monde ne fait pas 35 heures, tu sais.  
+> – Je sais. Mais toi c'est différent, tu es cadre, tu restes travailler parce
+> que t'aime bien ça.
 
 ## Logique inébranlable
 

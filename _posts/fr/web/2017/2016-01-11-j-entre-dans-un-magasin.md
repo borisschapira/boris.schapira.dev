@@ -171,9 +171,9 @@ pleine palette de TorcheCulcul en stock, à remettre en rayon.
 perplexe. Il finit par s'approcher et me demande :
 
 > — Excusez-moi, êtes vous un homme ou une femme ?  
-> — Pardon ? — Êtes-vous un homme ou une femme ? J'ai besoin de cette
-> information pour vous accueillir et vous diriger vers les produits qui vous
-> intéressent.  
+> — Pardon ?  
+> — Êtes-vous un homme ou une femme ? J'ai besoin de cette information pour vous
+> accueillir et vous diriger vers les produits qui vous intéressent.  
 > — Euh, je suis un homme…  
 > — Très bien.
 

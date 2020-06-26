@@ -12,14 +12,14 @@ _C'est fou ce qu'on peut entendre quand on tend l'oreille !_
 ## Le temps est relatif
 
 > – Ne le prends pas mal mais tu as une petite mine.  
-> – Ah bon ? Pourtant je suis rentré de vacances il n'y a pas longtemps. –
-> C’est-à-dire ?  
+> – Ah bon ? Pourtant je suis rentré de vacances il n'y a pas longtemps.  
+> – C’est-à-dire ?  
 > – Hum… 6, non 7 mois… ah oui. Déjà."
 
 ## Parfums chimiques
 
-> – Et comme boisson, vous avez quoi ? – Avec bulles ? Comme une pharmacie :
-> Coca, Fanta, Orangina…
+> – Et comme boisson, vous avez quoi ?  
+> – Avec bulles ? Comme une pharmacie : Coca, Fanta, Orangina…
 
 ## Addiction
 
@@ -57,7 +57,8 @@ _C'est fou ce qu'on peut entendre quand on tend l'oreille !_
 
 ## Vive [Fonebook](https://sites.google.com/site/rossdargan/)
 
-> – Tu t’amuses à récupérer les photos de tout le monde sur ton téléphone ? –
-> Euh, non, c’est une appli qui synchronise mes contacts Outlook avec Facebook.
+> – Tu t’amuses à récupérer les photos de tout le monde sur ton téléphone ?  
+> – Euh, non, c’est une appli qui synchronise mes contacts Outlook avec
+> Facebook.  
 > – Va falloir que je m’inscrive sur ce truc-là alors sinon personne ne va plus
 > m’appeler…
