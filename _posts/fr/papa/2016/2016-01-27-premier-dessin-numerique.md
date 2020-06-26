@@ -38,8 +38,17 @@ caption=img_caption
 Il a ensuite appris à dessiner des traits et a décidé de réaliser son propre
 dessin, complètement réalisé par lui.
 
-Mesdames et messieurs, j'ai l'honneur de vous présenter…
-<a data-featherlight="image" href="/assets/images/papa/2016-01-27/3.png">le
-pistolet à bonbons</a>. Je pense qu'il tient un concept :D
+Mesdames et messieurs, j'ai l'honneur de vous présenter… **le pistolet à
+bonbons**. Je pense qu'il tient un concept.
+
+{% capture img_alt %}On va pas se mentir, il a dessiné une bite.{% endcapture %}
+{% capture img_caption %}Quel talent.{% endcapture %}
+{% include rwd-image.html.liquid
+path="/assets/images/papa/2016-01-27/3.png"
+alt=img_alt
+caption=img_caption
+%}
+
+---
 
 {% include media/youtube.html.liquid id="OiXwDXvXiKg" title="Mauricio Ricardo - dessins" %}
