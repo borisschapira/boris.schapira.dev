@@ -7,5 +7,5 @@ enfants de maternelle, il a vu "des grands jouer avec leurs boules". Bien sûr,
 il me mime ce que vous imaginez, poing fermé bougeant de haut en bas.
 
 Je marque un temps d'arrêt, et lui demande s'ils les lancent en l'air, après,
-les boules.
-["Ben oui", me répond-il, agacé](https://media.giphy.com/media/ufNg4TNoNseVa/giphy.gif).
+les boules.  
+"Ben oui", me répond-il, agacé.
