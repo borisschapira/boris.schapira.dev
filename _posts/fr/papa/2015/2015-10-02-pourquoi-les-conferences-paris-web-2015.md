@@ -10,7 +10,7 @@ sieste et le grand à son film pour me mater une conférence…
 > — Papa, fais quoi là ?  
 > — Ah, euh, je regarde une conférence. Enfin, j'essaie.  
 > — C'est quoi une onférence ?  
-> — Un **c**onférence. C'est une personne qui est debout devant les autres et
+> — Une **c**onférence. C'est une personne qui est debout devant les autres et
 > qui raconte un truc intéressant.  
 > — Pourquoi tu regardes les conférences ?  
 > — Euh, et bien, parce que c'est intéressant. Et après, je fais mieux mon
