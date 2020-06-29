@@ -16,7 +16,6 @@ description: >-
 
 
     En route pour un Web plus rapide !
-
 last_date: 2019-03-23
 events:
     - name: 'Wordcamp Bordeaux 2019'

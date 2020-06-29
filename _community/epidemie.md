@@ -8,7 +8,7 @@ description: >-
     comprendre, voire de ressentir ces enjeux.
 last_date: 2020-03-22
 events:
-    - name: 'Site Web'
+    - name: 'Site Web · 2020'
       url: https://epidemie.schapira.dev/
       date: 2020-03-22
 last_modified_at: 2020-03-23

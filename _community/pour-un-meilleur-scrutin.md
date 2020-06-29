@@ -8,7 +8,7 @@ description: >-
     faire comprendre qu'au travers d'un exercice pratique ?
 last_date: 2017-04-01
 events:
-    - name: 'Site Web'
+    - name: 'Site Web · 2017'
       url: https://pour-un-meilleur-scrutin.fr/
       date: 2017-04-01
 last_modified_at: 2017-04-01
