@@ -17,7 +17,20 @@ l'<abbr title="Établissement d'Hébergement pour Personnes Âgées">EHPA</abbr>
 Saint Vincent et l'Oasis (une structure hotelière attenante) avait besoin d'aide
 pour faire connaitre les deux établissements.
 
-J'ai donc aidé à réaliser le site de
-[L'Oasis Saint Vincent à Château-L'Évêque](https://oasis.maisonstvincent.fr/)
-ainsi que le site de la Maison de Retraite sur une base très simple Jekyll +
-Netlify + Netlify CMS.
+J'ai donc aidé à réaliser les sites sur une stack Jekyll + Netlify + Netlify
+CMS.
+
+---
+
+[L’Oasis Saint Vincent, située à Château-L'Évêque](https://oasis.maisonstvincent.fr/)
+est une structure hôtelière de petite taille au sein d’un parc appartenant à la
+Maison Saint Vincent, un EHPA (jusqu’à récemment géré par la Compagnie des
+Filles de la Charité et réservé aux Soeurs aînées mais ouvert aux laïcs depuis
+fin 2019).
+
+L’Oasis Saint Vincent, ouverte à toutes et tous, convient particulièrement à un
+public souhaitant découvrir la région et/ou ayant des affinités avec la
+communauté chrétienne (car situé dans la commune où Saint Vincent de Paul fut
+ordonné prêtre et à quelques mètres de l’ancien château des évêques de
+Périgueux - ayant donné son nom à la commune) : touristes, mais aussi groupes
+spirituels et/ou sportifs.
