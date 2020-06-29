@@ -17,7 +17,7 @@ Culture</span>.
 <!-- more -->
 
 {% include video_as_a_gif.html.liquid
-url="/assets/images/papa/2016-06-26/1"
+url="/assets/images/citoyen/2016-06-26/1"
 alt="Gros plan sur les yeux de Buffy, regard noir"
 caption="Faut pas la faire ch…"
 %}
@@ -30,7 +30,7 @@ interest</span> qu'elle sauvait elle-même avant qu'il ne la sauve et qu'elle
 pouvait également tuer s'il le fallait.
 
 {% include video_as_a_gif.html.liquid
-url="/assets/images/papa/2016-06-26/2"
+url="/assets/images/citoyen/2016-06-26/2"
 alt="Buffy joue au Football américain avec un gros naze… elle lui envoie le ballon en pleine tête, il chute."
 caption="Faut **vraiment** pas la faire ch…"
 %}
@@ -43,7 +43,7 @@ contrôle de Maths du lendemain. Ses plus gros problèmes étaient ceux de tout
 adolescent : l'émancipation, l'apprentissage de la sexualité, l'amitié…
 
 {% include video_as_a_gif.html.liquid
-url="/assets/images/papa/2016-06-26/3"
+url="/assets/images/citoyen/2016-06-26/3"
 alt="Quiproquo dans cet épisode silencieux. Buffy mime l'action d'enfoncer un pieu, les autres comprennent qu'elle parle de masturbation"
 caption="L'art subtil de ne pas l'être au bon moment. Un vrai talent d'écriture."
 %}
