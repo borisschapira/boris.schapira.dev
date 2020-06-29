@@ -101,7 +101,7 @@
     "netlify-build-plugin-dareboost": "^1.2.1",
     "netlify-lambda": "^1.6.3",
     "rss-parser": "^3.8.0",
-    "slugify": "^1.4.2",
+    "slugify": "^1.4.4",
     "touchtap-event": "^2.0.2",
     "turbolinks": "^5.2.0",
     "workbox-broadcast-update": "^5.1.3",
