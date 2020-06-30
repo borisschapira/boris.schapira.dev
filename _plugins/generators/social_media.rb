@@ -60,18 +60,18 @@ module Jekyll
       if page.data.key?("description")
         description = page.data["description"]
       else
+        description = page.content
+
         if page.data.key?("excerpt")
-          description = markdown_converter.convert(page.data["excerpt"].content)
+          description = page.data["excerpt"].content
         elsif page.content.size < 1000
           if page.content.include? "<figure>"
-            description = markdown_converter.convert(page.content.split(/<figure>/).first)
-          else
-            description = markdown_converter.convert(page.content)
+            description = page.content.split(/<figure>/).first
           end
-        else
-          description = markdown_converter.convert(truncatewords(page.content, 40))
         end
       end
+      description = description.gsub(/\r?\n/, ' ');
+      description = markdown_converter.convert(truncatewords(description, 40));
 
       imgtitle = URI.escape(title).gsub(" ", '%20').gsub(".", '%2e').gsub(",", '%E2%80%9A').gsub("'", '%E2%80%99').gsub('?', '%3F')
 
