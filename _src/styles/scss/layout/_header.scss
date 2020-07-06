@@ -1,6 +1,6 @@
 .color-container,
 .menu-trigger {
-  @include transition(transform 0.25s ease-out);
+  @include transition('transform 0.25s ease-out');
 }
 
 .color-container.menu-open {

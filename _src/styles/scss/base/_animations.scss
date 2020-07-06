@@ -148,7 +148,7 @@
 
   .kids,
   .boris {
-    @include transition(transform 1s);
+    @include transition('transform 1s');
   }
 
   .kids,

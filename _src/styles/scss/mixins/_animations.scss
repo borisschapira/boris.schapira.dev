@@ -7,7 +7,7 @@
   }
 }
 
-@mixin transition($transition...) {
+@mixin transition($transition: 'all #{$default-duration} #{$default-timing-function}') {
   @if $enable-transitions {
     transition: $transition;
     @media screen and (prefers-reduced-motion: reduce) {
