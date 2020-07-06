@@ -78,7 +78,7 @@
     "prettier": "^2.0.5",
     "purify-css": "^1.2.5",
     "rimraf": "^3.0.2",
-    "sass-loader": "^8.0.2",
+    "sass-loader": "^9.0.1",
     "uglify-es": "github:mishoo/UglifyJS2#harmony",
     "var": "^0.4.0",
     "webpack": "^4.43.0",
