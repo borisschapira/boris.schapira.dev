@@ -4,9 +4,7 @@ styles:
   hl: e8c20d692fd3f03fa42f8a7e58466a45
   main: ac4d3269018b14b24d19a23c599dbc21
 scripts:
-  index.min: 5a72867337be37510772086f83a4298f
-  index.min.js: 841e2a54f9eb4d2c030fdafcfbc4c087
+  index.min: 164ba3420f49babb6b84dac0a3b7cccf
+  index.min.js: 14027414895ebd88f15cf9fce8719d06
   navigation.min: c780053cd7f91075736f9084d077a492
   navigation.min.js: 56ebfbd1c68af0633d57bcc9995230b3
-  search.min: e0b060b5f74cbd857603b7c1a8dbdc0f
-  search.min.js: ec1f800bc0623b1047dfba0428e4ab08

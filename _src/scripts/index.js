@@ -1,6 +1,6 @@
 import 'easy-toggle-state';
 import 'touchtap-event';
-import { ready, perfmark } from './subscripts/utils';
+import { ready } from './subscripts/utils';
 
 import './subscripts/savedata';
 import './subscripts/localstorageSaveLang';
@@ -8,14 +8,8 @@ import './subscripts/localstorageSaveDarkMode';
 import './subscripts/footnotesAlternatives';
 import { abbrTouch } from './vendors/abbr-touch';
 
-import './subscripts/tagCloudManagement';
-import './subscripts/webshare';
-import './subscripts/nakedDay';
-
 ready(function () {
-  perfmark(function () {
-    initEasyToggleState();
-  }, 'easy_toggle');
+  initEasyToggleState();
 
   var tooltipTimeout;
 
@@ -46,13 +40,15 @@ ready(function () {
     }, timeoutLength);
   }
 
-  perfmark(function () {
-    abbrTouch(document.querySelector('article'), function (target, title) {
-      var tooltip = getTooltipElement();
-      // Ensure the tooltip is ready so that the initial transition works
-      setTimeout(function () {
-        updateTooltip(tooltip, target.innerHTML, title);
-      }, 0);
-    });
+  abbrTouch(document.querySelector('article'), function (target, title) {
+    var tooltip = getTooltipElement();
+    // Ensure the tooltip is ready so that the initial transition works
+    setTimeout(function () {
+      updateTooltip(tooltip, target.innerHTML, title);
+    }, 0);
   });
 });
+
+import './subscripts/webshare';
+import './subscripts/nakedDay';
+import './subscripts/lazyNetworkLoad';

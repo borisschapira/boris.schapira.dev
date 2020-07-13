@@ -8,7 +8,8 @@ layout: microtypo
 
     <meta charset="utf-8" />
 
-    <link href="https://fonts.googleapis.com/css2?family=Lemonada:wght@300..700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="preload" as="style">
+    {%- assign gFontsUrl="https://fonts.googleapis.com/css2?family=Lemonada:wght@300..700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" -%}
+    <link href="{{ gFontsUrl }}" rel="preload" as="style">
     <link href="{% include assets/css.html.liquid name='critical' %}" rel="preload" as="style">
 
     <link href="https://boris.schapira.dev" rel="preconnect" crossorigin="anonymous">
@@ -29,19 +30,18 @@ layout: microtypo
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    {% comment %} Prefetching previous and next pages, and analytics {% endcomment %}
+    {% comment %} Prefetching previous and next pages {% endcomment %}
     {% if page.next_context or page.prev_context %}
         {% if page.prev_context %}
-    <link rel="prefetch" href="{{page.prev_context.url}}">
+    <link rel="temp" data-rel="prefetch" href="{{page.prev_context.url}}">
         {% endif %}
         {% if page.next_context %}
-    <link rel="prefetch" href="{{page.next_context.url}}">
+    <link rel="temp" data-rel="prefetch" href="{{page.next_context.url}}">
         {% endif %}
     {% endif %}
     {% comment %} / Prefetching previous and next pages {% endcomment %}
 
     {% comment %} Styles {% endcomment %}
-    <script>performance.mark('mark_declare_css_start');</script>
     <script>
       (function(d, l) {
         l = d.createElement('link');
@@ -50,22 +50,21 @@ layout: microtypo
         l.addEventListener('load', function (e) {
           l.media = "all";
         });
-        l.href = 'https://fonts.googleapis.com/css2?family=Lemonada:wght@300..700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap';
+        l.href = '{{ gFontsUrl }}';
         d.getElementsByTagName('head')[0].appendChild(l);
       }(document));
     </script>
     <noscript>
       <link
-        href="https://fonts.googleapis.com/css2?family=Lemonada:wght@300..700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap"
+        href="{{ gFontsUrl }}"
         rel="stylesheet"
       />
     </noscript>
 
     <link href="{% include assets/css.html.liquid name='critical' %}" rel="stylesheet" data-proofer-ignore>
     <link href="{% include assets/css.html.liquid name='main' %}" rel="stylesheet" data-proofer-ignore>
-    <link href="{% include assets/css.html.liquid name='hl' %}" rel="stylesheet" data-proofer-ignore>
+    <link href="{% include assets/css.html.liquid name='hl' %}" rel="stylesheet" media="none" data-media="screen" data-proofer-ignore>
 
-    <script>requestAnimationFrame(function(){performance.mark("mark_declare_css_end");performance.measure("mark_declare_css","mark_declare_css_start","mark_declare_css_end")});</script>
     {% comment %} / Styles {% endcomment %}
 
     {% comment %} Webmentions (for later use ?) {% endcomment %}
@@ -288,6 +287,7 @@ layout: microtypo
     </script>
     <!-- End Matomo Code -->
     {% endunless %}
+    <!-- Service Worker Registration -->
     <script>
       (function(){
         var e = document.createElement('script');
@@ -296,4 +296,5 @@ layout: microtypo
         document.body.appendChild(e);
       })()
     </script>
+    <!-- End Service Worker Registration -->
   </body></html>

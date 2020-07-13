@@ -11,18 +11,4 @@ module.exports = {
     }
     document.addEventListener('turbolinks:load', fn);
   },
-  perfmark: function (callback, key) {
-    performance.mark('mark_' + key + '_start');
-    callback();
-    requestAnimationFrame(function () {
-      requestAnimationFrame(() => {
-        performance.mark('mark_' + key + '_end');
-        performance.measure(
-          'mark_' + key,
-          'mark_' + key + '_start',
-          'mark_' + key + '_end'
-        );
-      });
-    });
-  },
 };
