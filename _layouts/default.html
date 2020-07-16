@@ -63,7 +63,8 @@ layout: microtypo
 
     <link href="{% include assets/css.html.liquid name='critical' %}" rel="stylesheet" data-proofer-ignore>
     <link href="{% include assets/css.html.liquid name='main' %}" rel="stylesheet" data-proofer-ignore>
-    <link href="{% include assets/css.html.liquid name='hl' %}" rel="stylesheet" media="none" data-media="screen" data-proofer-ignore>
+    <link href="{% include assets/css.html.liquid name='hl' %}" rel="stylesheet" media="print" data-media="all" data-proofer-ignore>
+    <noscript><link href="{% include assets/css.html.liquid name='hl' %}" rel="stylesheet" media="all" data-proofer-ignore></noscript>
 
     {% comment %} / Styles {% endcomment %}
 
