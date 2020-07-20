@@ -96,7 +96,7 @@
     "js-yaml": "^3.14.0",
     "mkdirp": "^1.0.4",
     "netlify-build-plugin-dareboost": "^1.2.1",
-    "netlify-lambda": "^1.6.3",
+    "netlify-lambda": "^2.0.0",
     "rss-parser": "^3.8.0",
     "slugify": "^1.4.4",
     "touchtap-event": "^2.0.2",
