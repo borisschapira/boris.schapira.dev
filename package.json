@@ -51,7 +51,7 @@
     "@babel/preset-env": "^7.10.4",
     "@fullhuman/postcss-purgecss": "^2.3.0",
     "abbr-touch": "^2.1.6",
-    "autoprefixer": "^9.8.5",
+    "autoprefixer": "^9.8.6",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.1.0",
     "concat-cli": "^4.0.0",
