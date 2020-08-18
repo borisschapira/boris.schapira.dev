@@ -103,7 +103,7 @@ unreachable.
 Do not worry. If you make mistakes, you can deactivate the HSTS policy by
 setting a "0" value to the `max-age`.
 
-> A max-age value of zero (i.e., `max-age=0`) signals the UA to cease regarding
+> A max-age value of zero (i.e., `max-age=0`) signals the UA to cease regarding
 > the host as a Known HSTS Host, including the includeSubDomains directive (if
 > asserted for that HSTS Host).  
 > <cite>[RFC 6797, Section 6.1.1](https://tools.ietf.org/html/rfc6797#section-6.1.1)</cite>
