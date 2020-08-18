@@ -24,6 +24,14 @@ consentement" sur la Performance Web, alors il faut faire le tour de tous les
 cas d'usage, en fonction de la relation qu'entretient la personne concernée avec
 votre site.
 
+<ins class="bloc" datetime="2020-08-18">Pour mesurer les performances de ces cas
+d'utilisation, vous aurez besoin soit de mesures réelles, soit de solutions de
+surveillance synthétique. La plupart des outils ignoreront la bannière de
+cookies et testeront donc sans charger ces dépendances supplémentaires. Vous
+devrez donc configurer vos tests de manière à ce qu'ils commencent par une
+configuration spécifique (souvent un cookie) pour reproduire tous les cas
+d'utilisation :</ins>
+
 1. Cette personne bloque le script de demande du consentement (via un adblocker,
    par exemple).
 2. Cette persone a donné son consentement à cette version des CGU.
@@ -50,3 +58,19 @@ fonctionnalités compensant cette dégradation.
 L'occasion pour les Responsables Produit de réfléchir à l'éthique de ce type
 d'implémentation. Est-il normal que nous offrions **l'expérience la plus
 dégradée à nos utilisateurs et utilisatrices les plus fidèles** ?
+
+<ins class="bloc" datetime="2020-08-18">
+  <p>
+    Cette réflexion peut aboutir à une transformation de l'offre, soit vers un
+    modèle où les utilisateurs et utilisatrices fidèles sont récompensé·e·s
+    pour leur sacrifice (en ayant accès à des fonctionnalités qui ne sont
+    disponibles que pour celles et ceux qui acceptent la collecte de données
+    par des tiers), soit vers un modèle payant, plus protecteur mais moins
+    accessible à tous.
+  </p>
+  <p>
+    Philosophiquement, nous entrons alors dans des considérations très
+    actuelles sur la vie privée en tant que capitale ou en tant que commune. Un
+    sujet fascinant.
+  </p>
+</ins>

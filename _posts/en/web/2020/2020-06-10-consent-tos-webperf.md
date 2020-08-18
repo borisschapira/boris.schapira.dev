@@ -10,6 +10,7 @@ tags:
 slug: consent-tos-webperf
 translations:
     fr: consentement-tests
+last_modified_at: 2020-08-18
 ---
 
 Let's imagine that you deploy on your site a consent collection mechanism tied
@@ -20,6 +21,13 @@ to the transmission of information to third parties...
 If you want to finely measure the impact of these different "levels of consent"
 on Web Performance, then you need to look at all the use cases, depending on the
 relationship the subject has with your site.
+
+<ins class="bloc" datetime="2020-08-18">To measure the performance of these uses
+cases, you're going to need either Real User Metrics, or Synthetic Monitoring
+solutions. Most tools will ignore the cookie banner and so test without loading
+those extra dependencies, so you'll need to configure your tests so that they
+start with a specific configuration (often a cookie) to reproduce all the use
+cases:</ins>
 
 1. The user blocks the consent request script (via an adblocker, for example).
 2. The user has given their consent to this version of the TC.
@@ -45,3 +53,18 @@ compensate for this degradation of their experience.
 This is an opportunity for Product Managers to reflect on the ethics of this
 type of implementation. Is it normal that **we offer the most degraded
 experience to our most loyal users**?
+
+<ins class="bloc" datetime="2020-08-18">
+  <p>
+    This reflection may result in a
+    transformation of the offer, either towards a model where loyal users are
+    rewarded for their sacrifice (by gaining access to features that
+    are only available to those who accept third parties data collection), or
+    towards a paid model, more protective but less accessible to
+    all.
+  </p>
+  <p>
+    Philosophically, we then enter into very up-to-date considerations on
+    privacy as a capital or as a common. A fascinating subject.
+  </p>
+</ins>
