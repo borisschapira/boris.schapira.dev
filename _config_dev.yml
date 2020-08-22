@@ -4,4 +4,4 @@ host: 'boris.schapira.local'
 port: 10443
 future: true
 show_drafts: false
-profile: true
+profile: false

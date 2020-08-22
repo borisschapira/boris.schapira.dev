@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/Shopify/liquid.git
-  revision: a1d982ca76ed5cd9656719ba647d961ee20d195d
+  revision: 5532df880fda804c838a35324ba7b8ea6cf0e34f
   branch: master
   specs:
     liquid (4.0.3)
