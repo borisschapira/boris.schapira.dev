@@ -574,10 +574,11 @@ en juillet 2020. Nous n’avons trouvé aucune mention de l’API
 -   [Mes propres expérimentations sur le <span lang="en">Cumulative Layout Shift</span>](https://tests.boris.schapira.dev/cls/)
 -   "[<span lang="en">Layout Instability API specification</span>](https://wicg.github.io/layout-instability/)",
     par Steve Kobes, Nicolás Peña Moreno et Emily Hanley
--   "[<span lang="en">Cumulative Layout Shift</span>](https://web.dev/cls/)", par
-    [Philip Walton](https://twitter.com/philwalton) et
+-   "[<span lang="en">Cumulative Layout Shift</span>](https://web.dev/cls/)",
+    par [Philip Walton](https://twitter.com/philwalton) et
     [Milica Mihajlija](https://twitter.com/bibydigital)
--   "[<span lang="en">Optimize Cumulative Layout Shift</span>](https://web.dev/optimize-cls/)"<br> et
+-   "[<span lang="en">Optimize Cumulative Layout Shift</span>](https://web.dev/optimize-cls/)"<br>
+    et
     "[<span lang="en">Infinite Scroll without Layout Shifts</span>](https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/)",
     par [Addy Osmani](https://twitter.com/addyosmani)
 -   "[<span lang="en">Web Vitals - A New Hope in Web Performance Measurement</span>](https://tamethebots.com/blog-n-bits/web-perf-iv-a-new-hope)",
