@@ -73,7 +73,7 @@
     "postcss": "^7.0.32",
     "postcss-cli": "^7.1.1",
     "postcss-loader": "^3.0.0",
-    "prettier": "^2.1.0",
+    "prettier": "^2.1.1",
     "purify-css": "^1.2.5",
     "sass": "^1.26.10",
     "sass-loader": "^9.0.3",
