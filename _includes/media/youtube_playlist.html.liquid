@@ -1,0 +1,7 @@
+{%- capture url -%}https://www.youtube-nocookie.com/embed/videoseries?list={{ include.id }}&loop=1{%- endcapture -%}
+{%- include media/video_iframe.html.liquid
+    width=560
+    height=315
+    title=include.title
+    url=url
+ -%}

@@ -202,8 +202,8 @@ blockquote,
 
 .inline-note {
   @include bleed(80vw);
-  strong {
-    text-transform: capitalize;
+  p:first-child > strong {
+    text-transform: uppercase;
   }
   border-left-style: dotted;
 }
@@ -246,4 +246,11 @@ small {
   br + & {
     line-height: 2;
   }
+}
+
+kbd {
+  border: 1px solid var(--color-main);
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 0.8em;
 }
