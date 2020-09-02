@@ -281,6 +281,12 @@ left by the content of the site, out of the page flow. If your ad has a fixed
 position in the page template, and that position does not interfere with the
 flow of the rest of the content, then inserting the ad does not cause any shift.
 
+{% capture img_alt %}A capture of a page from LeMonde.fr where a space is reserved for an advertisement in the margin. If the advertisement is larger than expected, it takes up more space in the margin, but does not shift the content.{% endcapture -%}{% capture img_caption %}Using negative space to position ads.{% endcapture -%} {% include rwd-image.html.liquid
+path="/assets/images/web/2020-09-15/negative_en.png"
+alt=img_alt
+caption=img_caption
+%}
+
 You can also move your advertising slots lower down on your pages. This will
 prevent the layout shift impact fraction from being too large, but this will
 likely reduce your revenue.

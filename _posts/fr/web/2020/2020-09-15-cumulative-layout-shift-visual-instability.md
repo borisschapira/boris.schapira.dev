@@ -321,6 +321,12 @@ Si votre publicité a une position figée dans le gabarit de page, et que cette
 position n’interfère pas avec l’agencement du reste du contenu, alors
 l’insertion de la publicité ne provoque aucun décalage.
 
+{% capture img_alt %}Une capture d’une page du Monde.fr où un espace est réservé pour une publicité dans la marge. Si la publicité est plus grande que prévue, elle occupe davantage de place dans la marge, mais ne décale pas le contenu.{% endcapture -%}{% capture img_caption %}Utilisation de l’espace négatif pour positionner les annonces.{% endcapture -%} {% include rwd-image.html.liquid
+path="/assets/images/web/2020-09-15/negative_fr.png"
+alt=img_alt
+caption=img_caption
+%}
+
 Enfin, vous pouvez décider de déplacer vos espaces publicitaires plus bas sur
 vos pages. Cela évitera que la fraction d’impact du Layout Shift ne soit trop
 importante, mais cela réduira probablement vos revenus.
