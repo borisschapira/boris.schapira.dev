@@ -13,6 +13,7 @@ tags:
     - CLS
 slug: cumulative-layout-shift-stabilite-page
 loadTwitterWjs: true
+canonical: https://blog.dareboost.com/fr/2020/09/cumulative-layout-shift-stabilite-page/
 translations:
     en: cumulative-layout-shift-visual-instability
 ---
@@ -23,6 +24,14 @@ souvent, surtout à cause des publicités qui se chargent au-dessus du contenu._
 _Ce type d’expérience utilisateur peut être frustrant, mais jusqu’à présent,
 nous avons eu du mal à la mesurer quantitativement. Le
 <span lang="en">Cumulative Layout Shift</span> relève ce défi._
+
+<!-- more -->
+
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 Lorsque vous voyez une page web, votre cerveau décompose l’information visuelle
 en éléments. L’agencement de la page vous donne des informations sur leurs
@@ -142,8 +151,10 @@ _score de <span lang="en">Layout Shift</span> = 110&nbsp;%
 (<span lang="en">impact fraction</span>) &times; 34&nbsp;%
 (<span lang="en">distance fraction</span>) = **0,374**_
 
-Le <span lang="en">Cumulative Layout Shift</span> (CLS) est la somme des scores
-de (presque) tous les <span lang="en">Layout Shifts</span>.
+Le
+<a href="https://www.dareboost.com/fr/doc/test-performance-web/indicateurs/cumulative-layout-shift-cls" lang="en">Cumulative
+Layout Shift</a> (CLS) est la somme des scores de (presque) tous les
+<span lang="en">Layout Shifts</span>.
 
 {% capture note %} **La fenêtre de 500 millisecondes**
 

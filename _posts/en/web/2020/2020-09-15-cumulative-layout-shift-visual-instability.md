@@ -12,6 +12,7 @@ tags:
     - CLS
 slug: cumulative-layout-shift-visual-instability
 loadTwitterWjs: true
+canonical: https://blog.dareboost.com/en/2020/09/cumulative-layout-shift-visual-instability/
 translations:
     fr: cumulative-layout-shift-stabilite-page
 ---
@@ -22,6 +23,14 @@ of ads loading around the content I'm reading._
 _This kind of user experience can be frustrating, but until now we've had
 trouble measuring it quantitatively. Cumulative Layout Shift addresses this
 challenge._
+
+<!-- more -->
+
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 When you see a web page, you automatically break it down into visual elements.
 You perceive their relationship to each other according to their arrangement on
@@ -127,8 +136,8 @@ score** is:
 _layout shift score = 110&nbsp;% (impact fraction) &times; 34&nbsp;% (distance
 fraction) = **0.374**_
 
-The Cumulative Layout Shift (CLS) metric is the sum of (nearly) all individual
-layout shift scores.
+[The Cumulative Layout Shift (CLS)](https://www.dareboost.com/en/doc/website-speed-test/metrics/cumulative-layout-shift-cls)
+metric is the sum of (nearly) all individual layout shift scores.
 
 {% capture note %} **The 500-millisecond window**
 
