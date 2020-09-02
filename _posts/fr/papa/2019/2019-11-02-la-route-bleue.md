@@ -34,9 +34,9 @@ commence à douter.
 > route bleue !
 
 {% capture alt_text%}James Franco lance un regard interrogateur et surpris à son
-interlocuteur en disant "Attendez…
-?!".{% endcapture %}{% capture caption_text%}Attends… quoi
-?!{% endcapture %}{% include video_as_a_gif.html.liquid
+interlocuteur en disant
+"Attendez… ?!".{% endcapture %}{% capture caption_text%}Attends…
+quoi ?!{% endcapture %}{% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2019-11-02/wait"
 alt=alt_text
 caption=caption_text

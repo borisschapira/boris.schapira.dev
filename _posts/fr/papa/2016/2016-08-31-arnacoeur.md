@@ -12,8 +12,8 @@ title: Arnacœur
 > fais mieux que les autres…  
 > — Papa, tu fais les meilleures pâtes de la Terre !
 
-Je rigole un bon coup, comment voulez-vous vous retenir ? Et puis je lui demande
-:
+Je rigole un bon coup, comment voulez-vous vous retenir ? Et puis je lui
+demande :
 
 > — Et pour Maman ? Elle aime quoi, Maman ? Tu vas lui dire quoi ?  
 > — Maman elle aime les vêtements et les chaussures ! Elle a les plus belles

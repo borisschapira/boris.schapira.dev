@@ -65,8 +65,8 @@ permet de déterminer avec efficacité
 
 Néanmoins, le Time To Interactive est un indicateur dont la construction est
 compliquée à comprendre et à exploiter, et
-[qui ne mesure pas ce que la plupart des gens pensent qu’il mesure](#malentendus)
-: le moment à partir duquel une page devient interactive.
+[qui ne mesure pas ce que la plupart des gens pensent qu’il mesure](#malentendus) :
+le moment à partir duquel une page devient interactive.
 
 La seule manière de capturer des actions utilisateurs est d’en disposer, donc
 d’utiliser du Real User Monitoring (RUM). Mais même là,
@@ -91,10 +91,10 @@ décrit généralement comme étant composée de 4 "moments" :
 4.  L’interaction de l’utilisateur avec la page est sans effort et intuitive,
     sans délai et sans agitation.
 
-Plusieurs signaux peuvent indiquer à l’utilisateur que le chargement a commencé
-: la mise-à-jour du titre et de l’URL, une éventuelle animation de l’onglet ou
-du favicon, l’apparition des premiers pixels non blancs, puis du reste de la
-page…
+Plusieurs signaux peuvent indiquer à l’utilisateur que le chargement a
+commencé : la mise-à-jour du titre et de l’URL, une éventuelle animation de
+l’onglet ou du favicon, l’apparition des premiers pixels non blancs, puis du
+reste de la page…
 
 Pour estimer la perception visuelle des visiteurs, on peut utiliser le
 [Speed Index](https://blog.dareboost.com/fr/2018/02/speed-index-performance-web/)

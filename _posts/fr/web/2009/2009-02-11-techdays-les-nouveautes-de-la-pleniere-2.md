@@ -21,8 +21,8 @@ introduira de nouvelles
 [possibilités d’extension en .NET, développés avec Managed Extensibility Framework](http://www.e-naxos.com/Blog/post/2008/11/08/MEF-Managed-Extensibility-Framework-De-la-magie-est-des-plugins-!.aspx).
 D’ailleurs, si j’ai bien compris, l’interface de l’IDE sera entièrement en WPF,
 autorisant zoom, commentaire multimédias, contrôles avancés… L’IDE offrira de
-[nouvelles possibilités autour du parallélisme](http://msdn.microsoft.com/fr-fr/vstudio/msdn.parallelisme.introduction.aspx)
-: analyse des temps d’exécution, des blocages de threads, des utilisations
+[nouvelles possibilités autour du parallélisme](http://msdn.microsoft.com/fr-fr/vstudio/msdn.parallelisme.introduction.aspx) :
+analyse des temps d’exécution, des blocages de threads, des utilisations
 processeur, des répartitions des threads sur les cœurs, en lien avec le code
 exécuté. D’autres outils seront plutôt dédiés aux testeurs fonctionnels : les
 tests seront pensés par les développeurs puis joués par les utilisateurs, qui

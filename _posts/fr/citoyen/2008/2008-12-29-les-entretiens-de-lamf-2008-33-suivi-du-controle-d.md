@@ -55,9 +55,9 @@ faire le contraire dans les 12 mois qui suivent. Autant dire que l'outil de
 protection des entreprises qu'est **la déclaration d'intention ne joue pas son
 rôle** à la perfection…
 
-Pour rassurer les actionnaires les plus inquiets, il existe une porte de sortie
-: l'obligation d'offre d'achat. Elle impose à tout actionnaire disposant de plus
-de 30 % du capital et augmentant sa participation de 2 % dans l'année de
+Pour rassurer les actionnaires les plus inquiets, il existe une porte de
+sortie : l'obligation d'offre d'achat. Elle impose à tout actionnaire disposant
+de plus de 30 % du capital et augmentant sa participation de 2 % dans l'année de
 proposer un prix d'achat pour l'ensemble des actions de l'entreprise. Mais cela
 pose également des problèmes. D'abord, les **seuils** ne sont **pas harmonisés
 au niveau européen**. Ensuite, la participation en titres au capital est mesurée

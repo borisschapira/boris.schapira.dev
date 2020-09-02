@@ -28,6 +28,6 @@ programmes, ce sont deux personnalités qui s'affrontent.
 
 Je me demande qui va aller voter dimanche : les spectateurs, avides de
 spectacle, qui jugeront sur la performance d'une soirée ou les électeurs qui
-voteront en toute connaissance des programmes, pour le meilleur ou le moins pire
-? Une chose me rassure : en ouvrant mon reader RSS, je vois que je ne suis pas
-le seul blogueur à m'inquiéter.
+voteront en toute connaissance des programmes, pour le meilleur ou le moins
+pire ? Une chose me rassure : en ouvrant mon reader RSS, je vois que je ne suis
+pas le seul blogueur à m'inquiéter.

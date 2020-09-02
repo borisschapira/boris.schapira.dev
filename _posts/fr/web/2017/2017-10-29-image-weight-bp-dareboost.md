@@ -303,8 +303,8 @@ beaucoup de bibliothèques JS pour faire cela mais toutes ne seront pas
 compatibles avec votre code existant : demandez son avis à votre équipe de
 développement ou suggérez-leur une librairie sans dépendance comme
 <a href="https://apoorv.pro/lozad.js/">Lozad</a>. Une fonctionnalité de
-<span lang="en">Lazy Loading</span> est également disponible sur Apache et nginx
-:
+<span lang="en">Lazy Loading</span> est également disponible sur Apache et
+nginx :
 <a href="https://www.modpagespeed.com/doc/filter-lazyload-images" lang="en">ModPageSpeed
 Lazyload</a>.
 

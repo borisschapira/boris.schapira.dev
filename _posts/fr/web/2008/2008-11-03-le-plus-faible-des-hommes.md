@@ -10,9 +10,9 @@ déroulent jamais comme prévues. Hugh Grant est un tricheur.
 
 J'ai pensé à cet instant pendant plusieurs semaines. Plusieurs mois, même. Elle
 l'attendait sans l'attendre, se doutant que ça arriverait rapidement, sans
-savoir ce que ce "rapidement" voulait dire. J'avais dissimulé tous les éléments
-: la demande à son père, à un moment où elle n'était pas là ; l'achat de la
-bague et la demande de mise à bonne taille (plusieurs semaines !), un parc
+savoir ce que ce "rapidement" voulait dire. J'avais dissimulé tous les
+éléments : la demande à son père, à un moment où elle n'était pas là ; l'achat
+de la bague et la demande de mise à bonne taille (plusieurs semaines !), un parc
 sympathique pour une promenade, un bon restaurant pour le soir-même (j'avais
 pensé à un ballet, sans trouver quelque chose de bien).
 

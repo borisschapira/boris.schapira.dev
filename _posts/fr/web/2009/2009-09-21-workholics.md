@@ -48,6 +48,4 @@ heureux de savoir tout éteindre quand je pars.
 Sur ce, je vous laisse, je viens de recevoir un mail sur mon Blackberry et il
 <span style="text-decoration: underline">faut</span>
 <span style="text-decoration: underline">absolument</span> que je regarde
-<span style="text-decoration: underline">maintenant</span> de quoi il s'agit
-
-;)
+<span style="text-decoration: underline">maintenant</span> de quoi il s'agit  ;)

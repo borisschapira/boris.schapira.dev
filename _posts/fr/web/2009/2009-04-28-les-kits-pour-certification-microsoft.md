@@ -25,8 +25,8 @@ dernière, on trouve ainsi assez facilement :
 -   un
     [ensemble de kits (MCPD) sur Amazon.com contenant le kit 70-536](http://www.amazon.com/Self-Paced-Training-70-536-70-528-70-547/dp/0735623767/ref=sr_1_2?ie=UTF8&s=books&qid=1236176209&sr=1-2).
 
-Nous conseillons de passer les certifications en anglais pour plusieurs raisons
-:
+Nous conseillons de passer les certifications en anglais pour plusieurs
+raisons :
 
 -   cela aide à la maitrise de l’anglais technique, aujourd’hui pré-requis pour
     la majorité des entretiens ;

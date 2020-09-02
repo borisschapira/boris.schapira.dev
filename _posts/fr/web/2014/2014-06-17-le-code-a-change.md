@@ -89,8 +89,8 @@ grammaire, la conjugaison, l'analyse de textes de grandes auteurs…
 
 ### Non, l'informatique n'est pas essentielle
 
-Avez-vous la moindre idée de la façon dont l'eau est acheminée jusque chez vous
-? Non, et pourtant vous ne pourriez pas vivre sans. Savez-vous comment
+Avez-vous la moindre idée de la façon dont l'eau est acheminée jusque chez
+vous ? Non, et pourtant vous ne pourriez pas vivre sans. Savez-vous comment
 fonctionne un moteur à injection ? Probablement que non, ou mal, mais votre
 emploi en dépend sûrement (directement ou non). Savez-vous gérer une prison ?
 J'en doute, pourtant les métiers du pénitentiaire ont de vrais besoins de
@@ -111,8 +111,8 @@ que vous avez _a priori_ un peu de temps à passer à ce sujet). L'informatique
 est évidemment importante comme outil pour réaliser autre chose (en tant que
 savoir-faire, donc) mais son enseignement en tant que savoir est probablement
 moins important aujourd'hui que celui du Français ou des Mathématiques (qui sont
-des fondamentaux. Vous vous imaginez vivre sans savoir écrire et compter, vous
-?).
+des fondamentaux. Vous vous imaginez vivre sans savoir écrire et compter,
+vous ?).
 
 ### Les cordonniers sont des gens qui n'ont vraiment pas de bol
 

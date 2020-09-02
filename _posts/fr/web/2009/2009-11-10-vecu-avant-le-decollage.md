@@ -122,10 +122,10 @@ niais les uns que les autres en enfilant leur gilet de sauvetage jaune. Le
 problème, avec moi, c'est que j'ai toujours un peu de mal à tenir ma langue et
 je finis toujours pas lâcher un truc stupide : _"Je ne vois pas l'intérêt de ce
 genre de vidéos. Tu as déjà entendu parler d'un vol long courrier échoué au
-milieu de l'océan dont les passagers ont été sauvés par des toboggans gonflables
-?"_. Ma chérie prend alors son air le plus inquiet. Vous savez, celui avec les
-yeux au bord des larmes et la lèvre inférieure légèrement boudeuse : _"Ca veut
-dire qu'on va tous mourir ?"._ J'aurais mieux fait de me taire.
+milieu de l'océan dont les passagers ont été sauvés par des toboggans
+gonflables ?"_. Ma chérie prend alors son air le plus inquiet. Vous savez, celui
+avec les yeux au bord des larmes et la lèvre inférieure légèrement boudeuse :
+_"Ca veut dire qu'on va tous mourir ?"._ J'aurais mieux fait de me taire.
 
 Et le pire, c'est que je n'apprends absolument pas de mes erreurs. Après
 plusieurs minutes passées à la rassurer et à la prendre dans mes bras (ce qui

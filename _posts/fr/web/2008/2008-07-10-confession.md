@@ -26,5 +26,5 @@ C'est un des privilèges lorsqu'on travaille beaucoup : on peut parfois s'en
 offrir un peu.
 
 Je ne sais pas si je suis plus dépendant que les autres, mais j'ai toujours
-l'impression de courir après sans jamais le rattraper. D'ailleurs je vous laisse
-: je n'en ai plus assez pour continuer.
+l'impression de courir après sans jamais le rattraper. D'ailleurs je vous
+laisse : je n'en ai plus assez pour continuer.

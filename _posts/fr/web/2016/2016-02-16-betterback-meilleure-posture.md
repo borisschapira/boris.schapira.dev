@@ -22,13 +22,13 @@ l'ont emprunté pour essayer et ont confirmé la facilité d'utilisation[^nda2].
 
 {% include media/youtube.html.liquid id="hh7FRU3Qjzw" title="BetterBack—Perfect Posture Effortlessly" %}
 
-Je me sers du <span lang="en">BetterBack</span> comme d'un outil de rééducation
-: par sessions de 10 à 15 minutes toutes les 3 ou 4 heures. Je m'installe à mon
-poste, "enfile" les anses et me concentre sur ma tâche en cours. Les premiers
-temps, au bout de 5 minutes, je sentais mon dos chauffer, mais ce n'est plus le
-cas. Les premiers jours, j'ai également eu des courbatures à des endroits
-étranges. Je pensais être un peu timbré jusqu'à ce que mes collègues me
-confirment les mêmes symptômes.
+Je me sers du <span lang="en">BetterBack</span> comme d'un outil de
+rééducation : par sessions de 10 à 15 minutes toutes les 3 ou 4 heures. Je
+m'installe à mon poste, "enfile" les anses et me concentre sur ma tâche en
+cours. Les premiers temps, au bout de 5 minutes, je sentais mon dos chauffer,
+mais ce n'est plus le cas. Les premiers jours, j'ai également eu des courbatures
+à des endroits étranges. Je pensais être un peu timbré jusqu'à ce que mes
+collègues me confirment les mêmes symptômes.
 
 Au fil des utilisations, j'ai commencé à me corriger. Au début, j'avais un
 déclic une fois par jour, et corrigeais ma posture. Maintenant, c'est plus

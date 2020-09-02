@@ -30,8 +30,8 @@ Nous parlons de la mort quand ils nous le demandent ou quand ils l'évoquent de
 manière trop légère. Nous en parlons toujours avec calme et tendresse, car nous
 considérons que la mort est une composante essentielle de la vie. Nous en
 parlons comme des feuilles qui tombent en automne ou des papillons qui sortent
-de leurs cocons. Nous parlons aussi des différentes choses qui entourent la mort
-: l'absence de tout ou la vie après la mort, le souvenir du défunt ou de la
+de leurs cocons. Nous parlons aussi des différentes choses qui entourent la
+mort : l'absence de tout ou la vie après la mort, le souvenir du défunt ou de la
 défunte chez les survivants, l'héritage laissé par les bonnes ou mauvaises
 actions réalisées de son vivant…
 

@@ -12,8 +12,8 @@ grand me dit qu'il reconnait l'odeur.
 > – Mais si, ça sent le vin !
 
 Comme l'abruti que je suis, je glousse. Son frère lui lance un "Ah mais non,
-c'est pas du vin, t'es bête" qui l'énerve au plus haut point. Il se met à crier
-:
+c'est pas du vin, t'es bête" qui l'énerve au plus haut point. Il se met à
+crier :
 
 > Mais si, c'est du vin ! C'est le vin des grosses bouteilles du mariage de
 > Marraine, même qu'il y avait des fruits avec.

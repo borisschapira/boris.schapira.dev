@@ -223,15 +223,15 @@ Prenons
 l'[exemple du train de 13h37](http://www.webpagetest.org/result/120610_SP_B17/1/details/#waterfall).
 Au moment où j'écris ces lignes, le train a un _Waterfall_ assez simple et
 facile à comprendre : on y voit le temps de chargement du code HTML (1050ms),
-puis le chargement des ressources JS et CSS quand soudain un élément sort du lot
-: un.gif appartenant au domaine www.google-analytics.com. S'en suivent diverses
-autres ressources. Ici, l'élément étranger est facilement identifiable car il y
-a peu de ressources dans l'absolu : on sent qu'un soin particulier a été apporté
-à la réduction de leur nombre et des dépendances du site à leur égard. Il est
-même assez aisé de valider que l'indisponibilité éventuelle de Google Analytics
-n'est pas bloquante pour le site en se servant de WebPageTest et de l'option
-"_Block_" permettant de verrouiller un ou plusieurs éléments durant le
-chargement. Comme l'atteste
+puis le chargement des ressources JS et CSS quand soudain un élément sort du
+lot : un.gif appartenant au domaine www.google-analytics.com. S'en suivent
+diverses autres ressources. Ici, l'élément étranger est facilement identifiable
+car il y a peu de ressources dans l'absolu : on sent qu'un soin particulier a
+été apporté à la réduction de leur nombre et des dépendances du site à leur
+égard. Il est même assez aisé de valider que l'indisponibilité éventuelle de
+Google Analytics n'est pas bloquante pour le site en se servant de WebPageTest
+et de l'option "_Block_" permettant de verrouiller un ou plusieurs éléments
+durant le chargement. Comme l'atteste
 [ce Waterfall](http://www.webpagetest.org/result/120610_99_B20/1/details/#waterfall),
 Google Analytics n'est pas, pour le Train, un _Single Point Of Failure_.
 

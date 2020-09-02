@@ -22,7 +22,7 @@ J'ai fait un petit tout chez LDLC mais j'ai besoin de vous : je n'y connais rien
 en marques… avez-vous eu des expériences désastreuses ; avez-vous lu des
 articles peu élogieux ?
 
-J'ai lu aussi que certains disques étaient plus "greens" que d'autres. Pourquoi
-?
+J'ai lu aussi que certains disques étaient plus "greens" que d'autres.
+Pourquoi ?
 
 Vous l'aurez compris, je suis preneur de tout conseil. Alors n'hésitez pas !

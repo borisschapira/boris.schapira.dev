@@ -16,8 +16,8 @@ par une population réduite avant d'être dévoilé au grand public, et ces test
 commenceront bientôt.
 
 Non, la grande question c'est : **la date de sortie** de ce SP1\. Plusieurs
-rumeurs circulent, mais les spécialistes s'accordaient jusqu'ici sur deux choses
-:
+rumeurs circulent, mais les spécialistes s'accordaient jusqu'ici sur deux
+choses :
 
 -   Le SP1 ne sortira pas avant le dernier trimestre 2007
 -   Le SP1 sortira probablement en même temps que Windows Server 2008, dont
@@ -44,7 +44,7 @@ armez-vous de patience et attendez le SP1 pour investir, ou la version suivante
 de Windows, qui devrait arriver dans un ou deux ans.
 
 Si malgré tout vous n'en pouvez plus d'attendre, voici le
-[Vista Hardware Assessment 2.0](http://www.microsoft.com/en-us/download/details.aspx?id=7826)
-: il réalise un inventaire, une analyse et un rapport concernant la capacité des
+[Vista Hardware Assessment 2.0](http://www.microsoft.com/en-us/download/details.aspx?id=7826) :
+il réalise un inventaire, une analyse et un rapport concernant la capacité des
 ordinateurs de votre réseau à faire tourner Windows Vista ou Microsoft Office
 2007\. Cela peut être utile avant de lancer une installation globale.

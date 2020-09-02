@@ -44,8 +44,8 @@ manifestations, appuyées par un corps enseignant qui incite les lycéens (se
 motivant facilement à 1\. Se rebeller et 2\. Sécher les cours) à le soutenir.
 Comment ne pas induire ces jeunes, appelés sans cesse à "penser par eux-même" à
 ne pas
-[confondre la libre réflexion et l'opposition systématique (vidéo)](http://www.dailymotion.com/video/x5161t_manifestations-lyceennes-a-paris-le_news)
-? Après tout,
+[confondre la libre réflexion et l'opposition systématique (vidéo)](http://www.dailymotion.com/video/x5161t_manifestations-lyceennes-a-paris-le_news) ?
+Après tout,
 [leurs ainés et professeurs le font bien (vidéo)](http://www.dailymotion.com/video/x538od_les-enseignants-a-la-manif-du-15-av_news)
 ! Normal, ce sont encore une fois les plus extrémistes qui sont écoutés,
 représentants

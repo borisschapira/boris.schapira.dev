@@ -195,8 +195,8 @@ Par exemple, CommonMark ne supporte pas les attributs de bloc tels que
 `{% raw %}{ :.myclass}{% endraw %}` pour décorer un paragraphe de contenu. Vous
 aurez besoin d'utiliser de bonnes vieilles balises HTML. N'oubliez pas d'activer
 l'option `UNSAFE` dans votre configuration Jekyll (`_config.yml`) si vous ne
-voulez pas générer beaucoup de commentaires du type `<!-- raw HTML omitted -->`
-:
+voulez pas générer beaucoup de commentaires du type
+`<!-- raw HTML omitted -->` :
 
 ```
 markdown: CommonMark

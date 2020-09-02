@@ -12,13 +12,13 @@ influents&#x2026;_
 **Conseil n&#xB0;4 : Comment gérer le blogueur sympa (mais lourd) ?**
 
 Il avait l'air amical, vous avez entamé la conversation. Mais après quelques
-échanges, il n'a plus qu'une phrase au bout de la langue _&quot;T'as une carte
-?&quot;_. Visiblement, il ne cherche pas à mieux vous connaitre, à discuter de
-ce que vous pourriez avoir en commun. Il veut une carte, un morceau de papier
-non-communicant auquel il ne sera pas obligé de répondre mais qui lui permettra,
-au moment qu'il jugera opportun, de vous envoyer un mail pour faire la com' du
-tout dernier produit de sa boite. À ce stade, vous n'avez plus qu'une solution :
-trouver une excuse pour vous esquiver.
+échanges, il n'a plus qu'une phrase au bout de la langue _&quot;T'as une
+carte ?&quot;_. Visiblement, il ne cherche pas à mieux vous connaitre, à
+discuter de ce que vous pourriez avoir en commun. Il veut une carte, un morceau
+de papier non-communicant auquel il ne sera pas obligé de répondre mais qui lui
+permettra, au moment qu'il jugera opportun, de vous envoyer un mail pour faire
+la com' du tout dernier produit de sa boite. À ce stade, vous n'avez plus qu'une
+solution : trouver une excuse pour vous esquiver.
 
 -   L'essai loupé : \_&quot;Non, mais ce n'est pas la peine. La carte c'est pour
     les blogs importants, pas pour moi&quot;.\_Erreur. La modestie ne fonctionne

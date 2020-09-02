@@ -29,9 +29,9 @@ Et aujourd'hui, que voit-on ? Plus d'une quinzaine de députés qui ont ramené
 leur postérieur sur les bancs de l'Assemblée pour voter contre le projet de loi
 parce qu'ils n'auraient pas aimé que la CMP soit revenue sur la double peine
 supprimée lors des débats ? Mais où étaient-ils
-[à ce moment-là](http://www.numerama.com/magazine/12527-la-loi-hadopi-votee-a-la-sauvette-par-16-deputes.html)
-? Pourquoi ne sont-ils pas venus pour faire entendre les voix qu'ils
-représentent au moment où cela comptait ?
+[à ce moment-là](http://www.numerama.com/magazine/12527-la-loi-hadopi-votee-a-la-sauvette-par-16-deputes.html) ?
+Pourquoi ne sont-ils pas venus pour faire entendre les voix qu'ils représentent
+au moment où cela comptait ?
 
 Je suis contre le projet de loi Hadopi mais l'attitude de l'opposition ne vaut
 pas mieux que celle du gouvernement. De tous les côtés, ce dossier est traité

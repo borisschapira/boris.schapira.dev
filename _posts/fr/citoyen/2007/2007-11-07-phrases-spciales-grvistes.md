@@ -4,8 +4,8 @@ tags:
     - Grève
 ---
 
-_Un représentant d&#x2019;un syndicat de cheminots sur France2, le 19 octobre
-:  
+_Un représentant d&#x2019;un syndicat de cheminots sur France2, le 19
+octobre :  
 _&quot;Poser un nouveau préavis lundi ? Non… et puis bon, si on calcule avec les
 délais de préavis, ça nous mène à Dimanche. &#xC7;a servirait à rien une grève
 le dimanche, ça gêne personne.&quot;

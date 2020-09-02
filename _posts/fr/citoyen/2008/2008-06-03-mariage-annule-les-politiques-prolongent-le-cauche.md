@@ -15,9 +15,9 @@ second procès qui démarrera certainement en septembre (l'été n'étant pas pr
 Dans ce second procès, le parquet tentera de prouver que la non-virginité n'est
 pas une raison suffisante pour annuler un mariage, déplaçant ainsi le débat d'un
 problème de confiance entre époux à un problème de fesse et de religion.
-L'ex-mariée s'est déclarée indignée, instrumentalisée, mais elle n'y pourra rien
-: journalistes, politiques et associations ont décidé de se servir d'elle pour
-vendre, faire voter et rallier à leur cause.
+L'ex-mariée s'est déclarée indignée, instrumentalisée, mais elle n'y pourra
+rien : journalistes, politiques et associations ont décidé de se servir d'elle
+pour vendre, faire voter et rallier à leur cause.
 
 L'argument récurrent est le même qu'en tout combat politique : ceux qui
 défendent cette annulation sont présentés comme d'incorrigibles conservateurs

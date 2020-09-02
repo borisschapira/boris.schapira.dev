@@ -11,8 +11,8 @@ projet mais uniquement votre environnement ou machine.
 
 ## Comment ça marche ?
 
-Chaque projet sur lequel vous intervenez hérite de trois niveau de configuration
-:
+Chaque projet sur lequel vous intervenez hérite de trois niveau de
+configuration :
 
 -   La configuration de votre machine : `git config --system --edit`
 -   Votre configuration utilisateur : `git config --global --edit`

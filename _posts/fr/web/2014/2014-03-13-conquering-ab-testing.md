@@ -76,9 +76,9 @@ spécifiquement une modification qui ne nécessite pas de changement
 d’infrastructure : un variante visuelle au sein d’une page.
 
 {% capture img_alt %}Un prototype visuel d'une page produit d'un site
-e-commerce{% endcapture %} {% capture img_caption %}Maquette de la fiche produit
-: la zone jaune incluera soit un visuel du produit (version A), soit une vidéo
-(version B){% endcapture %} {% include rwd-image.html.liquid
+e-commerce{% endcapture %} {% capture img_caption %}Maquette de la fiche
+produit : la zone jaune incluera soit un visuel du produit (version A), soit une
+vidéo (version B){% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2014-03-13/2.png"
 alt=img_alt
 caption=img_caption
@@ -109,10 +109,10 @@ lit à l’intérieur la valeur à lui afficher.
 Reste à choisir la version qui sera affichée à la première visite d’un client.
 De nouveau, une décision doit être prise pour savoir comment seront traités les
 utilisateurs : quelle quantité de visiteurs verra la version B, sur quels
-critères seront-ils choisis et sur quel périmètre du site le test aura-t-il lieu
-: toutes les fiches produit ou seulement certaines ? Pour ne pas influencer les
-résultats, la technique du test A/B impose de trouver un critère parfaitement
-indépendant, mais ce n’est pas évident !
+critères seront-ils choisis et sur quel périmètre du site le test aura-t-il
+lieu : toutes les fiches produit ou seulement certaines ? Pour ne pas influencer
+les résultats, la technique du test A/B impose de trouver un critère
+parfaitement indépendant, mais ce n’est pas évident !
 
 Matthieu et son équipe décident de s’en remettre à un tirage au sort, qui
 délivrera la version de contrôle à 99 % des utilisateurs et la version B à 1 %

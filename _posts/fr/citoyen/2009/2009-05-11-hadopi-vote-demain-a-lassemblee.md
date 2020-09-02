@@ -56,5 +56,4 @@ et j'ai du mal à être optimistre. D'abord parce que la solution est pire que l
 mal et ensuite parce qu'elle donne l'impression d'être la conclusion d'une
 aventure. Il n'en est rien. Les problèmes des industries médiatiques ne font que
 commencer. Certes,
-[Hadopi est en route… et après](http://owni.fr/2009/04/30/hadopi-et-ha-pres-les-industries-culturelle-face-a-leur-responsabilite-citoyenne/)
-?
+[Hadopi est en route… et après](http://owni.fr/2009/04/30/hadopi-et-ha-pres-les-industries-culturelle-face-a-leur-responsabilite-citoyenne/) ?

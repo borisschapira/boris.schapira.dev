@@ -18,6 +18,6 @@ offrant un ensembe de threads déjà initialisés, et qui n’attendent que vos
 instructions pour démarrer.
 
 Si théorie ne vous suffit pas, n’hésitez pas à consulter
-[l’article de Vko sur le sujet](http://blogs.codes-sources.com/vko/archive/2009/09/16/thread-ou-threadpool.aspx)
-: il y a mesuré la différence de performance entre l’utilisation de `Thread` et
-de `ThreadPool`. C’est édifiant.
+[l’article de Vko sur le sujet](http://blogs.codes-sources.com/vko/archive/2009/09/16/thread-ou-threadpool.aspx) :
+il y a mesuré la différence de performance entre l’utilisation de `Thread` et de
+`ThreadPool`. C’est édifiant.

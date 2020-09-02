@@ -6,8 +6,8 @@ Suite à un précédent mouvement de la blogosphère pour diffuser le message
 d'Alerte Enlèvement relatif à la disparition du petit Enis, plusieurs blogueurs
 ont reçu une injonction des autorités compétentes demandant poliment mais
 fermement la suppression de la photo du petit garçon afin de ne pas encourir de
-risques juridiques. Suite à cette démarche, une **petite réaction personnelle**
-:
+risques juridiques. Suite à cette démarche, une **petite réaction
+personnelle** :
 
 L'image que j'utilisais pour relayer l'info est toujours hébergée par **TF1** à
 l'heure actuelle. TF1 est, contrairement à nous les blogueurs, un partenaire

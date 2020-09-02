@@ -22,8 +22,8 @@ mêmes raisons.
 
 Pour être productif, j'ai besoin d'outils. 95 % de mes usages sont liés à Chrome
 et à mes comptes Google (j'utiliserai volontiers Firefox mais
-[il ne correspond pas à mes besoins](/notes/2014-11-utilisabilite-logiciel-libre-firefox/))
-: il m'a fallu très peu de temps pour les récupérer sous Mac.
+[il ne correspond pas à mes besoins](/notes/2014-11-utilisabilite-logiciel-libre-firefox/)) :
+il m'a fallu très peu de temps pour les récupérer sous Mac.
 
 Les éditeurs que j'utilise sous Windows sont disponibles partout (_Sublime Text_
 ou _Atom_, _PHPStorm_), ma gestion de source repose sur _git_ (pour lequel

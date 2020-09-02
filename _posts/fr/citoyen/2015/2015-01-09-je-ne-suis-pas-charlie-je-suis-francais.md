@@ -51,10 +51,10 @@ tee-shirts se vendent avec l'inscription. "Je suis Charlie" est un buzz, un
 _hashtag_, un réceptacle facile à atteindre pour déverser ses émotions. "Cliquez
 sur J'aime pour envoyer un soutien", à qui, comment ? "Envoie ce SMS pour
 marquer ton respect", ah ? Et si je ne le fais pas, je suis un gros bâtard ? Et
-si je prends 3 de secondes pour le faire, je deviens un mec bien automatiquement
-? "Je suis Charlie", c'est l'expression populaire d'un deuil mélangé à la
-passion d'une grande manifestation de la pensée unique. Et du coup, "Je suis
-Charlie", ce n'est pas toujours très "Charlie", justement.
+si je prends 3 de secondes pour le faire, je deviens un mec bien
+automatiquement ? "Je suis Charlie", c'est l'expression populaire d'un deuil
+mélangé à la passion d'une grande manifestation de la pensée unique. Et du coup,
+"Je suis Charlie", ce n'est pas toujours très "Charlie", justement.
 
 _Je ne suis pas Charlie_ parce qu'être Charlie, ça va passer de mode. Peu en
 parleront encore dans deux ans ou alors comme d'une référence historique à un

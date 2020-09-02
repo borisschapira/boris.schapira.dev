@@ -16,8 +16,8 @@ relire les articles de [Teulliac](http://www.teulliac.com/search/ReadyNas) pour
 
 Bon par contre le RND n'a pas vraiment un WAF[^waf] élevé. Il me va donc falloir
 user de tous mes charmes pour que la miss accepte ce nouvel intrus dans notre
-salon. À quand des serveurs plus sexy, pour faciliter la vie des geeks en couple
-?
+salon. À quand des serveurs plus sexy, pour faciliter la vie des geeks en
+couple ?
 
 [^waf]:
     Woman Acceptance Factor : indice mesurant la probabilité que votre chère et

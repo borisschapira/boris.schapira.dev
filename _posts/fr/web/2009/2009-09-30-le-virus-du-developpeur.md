@@ -12,8 +12,8 @@ implémentation dans une solution existante prendrait du temps…
 
 Je pense qu’on passe tous par ce genre de phases de temps en temps. Vous savez,
 quand vous réalisez que ce nouveau truc que vous avez appris est génial et que
-vous vous mettez à l’implémenter partout. Ca devient votre plus grande obsession
-: comment tirer partie au maximum de ce truc.
+vous vous mettez à l’implémenter partout. Ca devient votre plus grande
+obsession : comment tirer partie au maximum de ce truc.
 
 D’un coup, tous vos objets sont anonymes, tous vos callback sont lambda, toutes
 vos méthodes sont génériques, la plupart de vos processus sont asynchrones, tous

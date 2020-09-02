@@ -16,8 +16,7 @@ _Malheureusement, le nombre de films qui passe le test est ridiculement bas._
 
 Inspiré par ce test, je propose le test de Lecoq, du nom de
 [Titiou](https://twitter.com/titiou), autrice du livre
-"[Libérées, le combat féministe se gagne devant le panier de linge sale](https://www.fayard.fr/documents-temoignages/liberees-9782213705347)"
-:
+"[Libérées, le combat féministe se gagne devant le panier de linge sale](https://www.fayard.fr/documents-temoignages/liberees-9782213705347)" :
 
 1. Y a-t-il au moins deux personnages masculins portant des noms ?
 2. Ces deux personnages se parlent-ils ?

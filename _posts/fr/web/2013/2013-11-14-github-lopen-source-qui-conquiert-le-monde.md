@@ -78,8 +78,7 @@ SourceForge est un peu poussiéreux) et des fonctionnalités qui complétaient
 l’offre classique (comme Gist, ou GitHub.io). Et tout cela en présentant des
 conditions d’utilisation très claires qui laissent la totale propriété du
 contenu produit à leurs auteurs, comme l'indiquent les
-[_Terms Of Service_](https://help.github.com/articles/github-terms-of-service/ 'GitHub Terms of Service')
-:
+[_Terms Of Service_](https://help.github.com/articles/github-terms-of-service/ 'GitHub Terms of Service') :
 
 > We claim no intellectual property rights over the material you provide to the
 > Service. Your profile and materials uploaded remain yours. However, by setting

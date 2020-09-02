@@ -12,9 +12,9 @@ l'été. Et si c'était dans votre lecteur mp3 qu'il fallait chercher ?
 J'ai personnellement découvert le guide Métrophone via un de ses créateurs qui
 s'avérait être à l'époque mon professeur de marketing (et on peut dire, au vu de
 cet article, qu'il connait son métier). Il s'agit d'un **guide audio mp3** que
-l'ont peut chargé sur son lecteur et emporter où on veut. Pratique et très sympa
-: vous pouvez visiter, vous arrêter, reprendre, écouter ce qui vous intéresse et
-zapper le reste. Testé dans Paris et approuvé.
+l'ont peut chargé sur son lecteur et emporter où on veut. Pratique et très
+sympa : vous pouvez visiter, vous arrêter, reprendre, écouter ce qui vous
+intéresse et zapper le reste. Testé dans Paris et approuvé.
 
 Aujourd'hui,** les guides Métrophone deviennent
 [CitySpeaker](http://amis.cityspeaker.fr/)**, et la liste des régions couvertes

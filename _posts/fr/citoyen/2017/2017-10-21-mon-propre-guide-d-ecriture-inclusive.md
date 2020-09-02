@@ -43,8 +43,8 @@ rapidement, oublie la graphie particulière :
 > Ça mrahce tèrs bein aevc un txtee éicrt cmome ça. Du memomnt que la pmrerièe
 > et la dreinère lrette snot les bnones.
 
-D'ailleurs cela "marche" aussi en remplaçant certaines lettres par des chiffres
-:
+D'ailleurs cela "marche" aussi en remplaçant certaines lettres par des
+chiffres :
 
 > 4U D3P4R7, C3 73X73 V4 V0U5 P4R417R3 D1FF1C1L3 4 L1R3, PU15 V07R3 C3RV34U V4
 > R4P1D3M3N7 5'4D4PT73R 37 V07R3 L3C7UR3 V4 37R3 D3 PLU5 EN PLU5 FLU1D3.  

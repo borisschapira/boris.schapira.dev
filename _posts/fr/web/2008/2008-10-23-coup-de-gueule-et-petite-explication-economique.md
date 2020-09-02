@@ -12,8 +12,8 @@ entreprises et des particuliers. Quelle solution le gouvernement propose-t-il?
 Petite réflexion personnelle qui vous permettra, peut-être, de plomber vos
 prochains diners entre amis… **
 
-<span style="text-decoration: underline">Pourquoi l'État prête-il aux riches
-?</span>
+<span style="text-decoration: underline">Pourquoi l'État prête-il aux
+riches ?</span>
 
 Les banquiers sont rationnels : d'un côté, ils ont envie de prêter et
 d'emprunter aux autres banquiers pour relancer leurs activités de financement

@@ -192,8 +192,7 @@ de sites parviennent à déjà contrôler les trois premiers points…
 
 Mais alors pourquoi inventer de nouveaux indicateurs alors qu'on pourrait
 continuer avec des indicateurs existants et des
-[indicateurs personnalisés](https://boris.schapira.dev/2019/09/custom-timing-prochaine-frame/)
-?
+[indicateurs personnalisés](https://boris.schapira.dev/2019/09/custom-timing-prochaine-frame/) ?
 
 Tout simplement, pour rendre le domaine de la Performance Web plus vivant, pour
 l'intégrer toujours davantage dans l'Expérience Utilisateur et créer de

@@ -6,8 +6,7 @@ tags:
 ---
 
 J'écrivais l'année dernière, pour
-[le Train de 13h37](http://letrainde13h37.fr/6/scripts-tiers-appels-induits-ne-perdez-pas-le-controle-de-votre-site/ '"Scripts tiers & appels induits : ne perdez pas le contrôle de votre site" ", LeTrainDe13h37')
-:
+[le Train de 13h37](http://letrainde13h37.fr/6/scripts-tiers-appels-induits-ne-perdez-pas-le-controle-de-votre-site/ '"Scripts tiers & appels induits : ne perdez pas le contrôle de votre site" ", LeTrainDe13h37') :
 
 > La diminution de votre performance et les risques qui pèsent sur la
 > disponibilité de votre site sont des inconvénients fâcheux mais techniques.

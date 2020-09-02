@@ -63,8 +63,8 @@ discussions impliquent une vision à long terme…
 Que sont devenus les points de réflexion de l'année dernière comme la
 [régulation des marchés de gré-à-gré](/notes/2008-12-les-entretiens-de-lamf-2008-23-regulation-des-produits-traites-de-gre-a-gre/)
 et
-[la régulation des <abbr title="Exchange Traded Fund">ETF</abbr>](/notes/2008-11-les-entretiens-de-lamf-2008-13-regulation-de-la-gestion-dactifs/)
-? Je m'interroge également sur le rôle de
+[la régulation des <abbr title="Exchange Traded Fund">ETF</abbr>](/notes/2008-11-les-entretiens-de-lamf-2008-13-regulation-de-la-gestion-dactifs/) ?
+Je m'interroge également sur le rôle de
 l'<abbr title="Autorité des Marchés Financiers">AMF</abbr> face à
 [la prolifération du crédit chez les particuliers](/notes/2009-05-lepidemie-continue/)
 et

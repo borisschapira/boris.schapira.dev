@@ -89,9 +89,8 @@ Qu’on s’oppose à l’ouverture à la concurrence des activités de courrier
 comprendre. La nécessité pour l’État de maitriser tous les flux nécessaires au
 fonctionnement du pays se conçoit (d’ailleurs, n’est-ce pas la base des textes
 [Hadopi](https://fr.wikipedia.org/wiki/Loi_Hadopi) et
-[Loppsi](https://fr.wikipedia.org/wiki/Loi_d%27orientation_et_de_programmation_pour_la_s%C3%A9curit%C3%A9_int%C3%A9rieure)
-?). Bon c’est vrai qu’entre l’électricité, le gaz, les télécoms, les autoroutes,
-le
+[Loppsi](https://fr.wikipedia.org/wiki/Loi_d%27orientation_et_de_programmation_pour_la_s%C3%A9curit%C3%A9_int%C3%A9rieure) ?).
+Bon c’est vrai qu’entre l’électricité, le gaz, les télécoms, les autoroutes, le
 [chemin de fer](http://jen-airienadireetalors.20minutes-blogs.fr/archive/2009/03/08/la-mise-en-concurrence-est-sur-les-rails.html)
 et l’eau, on est déjà bien foutus de ce côté-là, mais rien n’empêche de
 continuer à se battre. Mais accepter l’ouverture à la concurrence des activités

@@ -53,8 +53,7 @@ importantes, cela n'étonne plus. Les réflexes idéologiques justifiant les pir
 dans cette communication la volonté politique de "ratisser large" à droite aux
 prochaines élections. Après tout, la gauche ne fait-elle pas pareil en
 s'abaissant devant
-[celui qui insulta les harkis](http://www.lefigaro.fr/politique/2009/12/10/01002-20091210ARTFIG00135-georges-freche-met-le-ps-face-a-ses-contradictions-.php)
-?
+[celui qui insulta les harkis](http://www.lefigaro.fr/politique/2009/12/10/01002-20091210ARTFIG00135-georges-freche-met-le-ps-face-a-ses-contradictions-.php) ?
 
 Décidement, il y a quelques choses qui ne tourne pas rond en France. J'en
 connais une qui doit cependant être ravie. Quand tous les français à qui on aura

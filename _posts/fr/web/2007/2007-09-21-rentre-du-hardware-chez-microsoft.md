@@ -19,13 +19,13 @@ fil haut de gamme Wireless Desktop Entertainment 8000 et la souris avec/sans fil
 Mobile Memory Mouse 8000 (ce qui est très original puisque 99 % des blogueurs
 présents ce soir-là ont flashé sur… exactement les mêmes produits).
 
-Le clavier est somptueusement inspiré de ce que fait Apple avec ses ordinateurs
-: finesse extrême, design argenté et lissé, rétro-éclairage intelligent… un
-produit haut de gamme pour acheteurs fortunés principalement destiné à un usage
-"Media Center". Dommage car pour moi le Media Center, c'est surtout sur la
-XBox360\. Ca limite l'intérêt, surtout à 320€. Mais pour la forme, voici un
-(tout) petit montage vidéo, réalisé pendant la présentation d'une souris
-pro-gamer dont je me fichais un peu..
+Le clavier est somptueusement inspiré de ce que fait Apple avec ses
+ordinateurs : finesse extrême, design argenté et lissé, rétro-éclairage
+intelligent… un produit haut de gamme pour acheteurs fortunés principalement
+destiné à un usage "Media Center". Dommage car pour moi le Media Center, c'est
+surtout sur la XBox360\. Ca limite l'intérêt, surtout à 320€. Mais pour la
+forme, voici un (tout) petit montage vidéo, réalisé pendant la présentation
+d'une souris pro-gamer dont je me fichais un peu..
 
 La petite souris est plus abordable, mais surtout mignonne et confortable. Son
 design rend assez mal en photo où elle donne l’impression d’être grosse et

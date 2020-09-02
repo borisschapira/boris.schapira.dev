@@ -16,8 +16,8 @@ rapporte.
 Ainsi ce qu'il serait intéressant de savoir avant de crier sur tous les toits
 qu'une action vaut 600 dollars (ce qui n'est pas porteur de sens), c'est par
 exemple le rapport du cours sur le bénéfice par action. Plus simplement : ce
-qu'elle rapporte aux actionnaires par rapport à ce qu'elle leur coûte. Et encore
-: cet indice, qu'on appelle
+qu'elle rapporte aux actionnaires par rapport à ce qu'elle leur coûte. Et
+encore : cet indice, qu'on appelle
 [PER](https://fr.wikipedia.org/wiki/Price_Earning_Ratio), n'est qu'un indicateur
 parmi des dizaines d'autres qui permettent de connaitre l'intérêt d'un titre.
 

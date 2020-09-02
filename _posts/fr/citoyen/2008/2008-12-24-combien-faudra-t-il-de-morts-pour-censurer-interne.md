@@ -25,8 +25,8 @@ Président pense tout bas.
 A-t-il profondément tort ? Non. Internet représente effectivement un danger de
 chaque jour. Il y a sûrement des violeurs qui essaient de séduire leurs
 victimes, des vendeurs de poisons, des terroristes… Faut-il assimiler les
-personnes qui téléchargent illégalement des contenus numériques à ces criminels
-? **Bien sûr que non**.
+personnes qui téléchargent illégalement des contenus numériques à ces
+criminels ? **Bien sûr que non**.
 
 Heureusement pour Mr Lefebvre d'ailleurs, car sinon
 [il aurait](http://blog.lefigaro.fr/hightech/2008/12/quand-frederic-lefebvre-pille.html)

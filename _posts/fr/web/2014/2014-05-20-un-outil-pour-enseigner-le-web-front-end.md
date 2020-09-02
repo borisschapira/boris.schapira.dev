@@ -114,10 +114,10 @@ templates HTML et de Web Components dédiés à la pédagogie. Une brique serait
 exemple dédiée à l'apprentissage des formulaires, de leur intégration à leur
 contrôle en JS. Une autre à l'utilisation des grilles typographiques ; une autre
 à l'importance de la sémantique, avec possibilité depuis l'éditeur pédagogique
-de lancer un scrapper qui présenterait le "sens" qu'il aurait compris de la page
-; une autre à la performance Web, avec un test rapide des bonnes pratiques (rien
-d'exhaustif, encore une fois : enseigner et pratiquer sont deux choses vraiment
-différentes)… vous avez compris l'idée.
+de lancer un scrapper qui présenterait le "sens" qu'il aurait compris de la
+page ; une autre à la performance Web, avec un test rapide des bonnes pratiques
+(rien d'exhaustif, encore une fois : enseigner et pratiquer sont deux choses
+vraiment différentes)… vous avez compris l'idée.
 
 On pourrait ensuite introduire ces briques dans le cadre d'exemple concrets de
 plus en plus complexes à la fois en terme de techniques pures, d'environnement
