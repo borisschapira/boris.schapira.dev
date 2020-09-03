@@ -196,14 +196,15 @@ caption=img_caption
 
 Il existe plusieurs méthodes pour déplacer l'atome `moov` en première position.
 Un logiciel comme Handbrake offre une option "Optimiser pour le Web"
-([documentation d’Handbrake en anglais](https://handbrake.fr/docs/en/latest/advanced/web-optimised.html)).
-Dans d'autres logiciels, cette option est appelée "<span lang="en">MP4 Fast
-Start</span>".
+(<a href="https://handbrake.fr/docs/en/latest/advanced/web-optimised.html" hreflang="en">documentation
+d’Handbrake</a>). Dans d'autres logiciels, cette option est appelée
+"<span lang="en">MP4 Fast Start</span>".
 
 ffmpeg peut rapidement corriger une vidéo grâce à l'option
 `-movflags faststart`, qui exécute une seconde passe et déplace l’atome `moov`
 au début du fichier
-([documentation de ffmpeg en anglais](https://ffmpeg.org/ffmpeg-formats.html#toc-Options-8)):
+(<a href="https://ffmpeg.org/ffmpeg-formats.html#toc-Options-8" hreflang="en">documentation
+de ffmpeg</a>):
 
 ```shell
 ffmpeg -i origin.mp4 -acodec copy -vcodec copy -movflags faststart fast_start.mp4

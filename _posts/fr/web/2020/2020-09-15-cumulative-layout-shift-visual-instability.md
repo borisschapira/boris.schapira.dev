@@ -94,17 +94,19 @@ vestibulaires.{% endcapture note %} {% include note.html.liquid content=note %}
 {% include media/youtube.html.liquid id="dndeRnzkJDU" title="Gecko Reflow Visualization: the Wikipedia example" %}
 
 Pour déterminer le moment où une page est chargée/stable,
-[vous pouviez utiliser l’événement `onload`, mais c’est loin d’être parfait \[EN\]](https://bugs.chromium.org/p/chromium/issues/detail?id=581518).
-[L’API <span lang="en">Layout Instability</span>](https://wicg.github.io/layout-instability/)
-de Chrome répond à cette limite. L’idée ici est de s’intéresser à d’autres
-signaux. Plus particulièrement, à la stabilité de la mise en page, ou "l’absence
-de sursauts d’interface". Comme indiqué dans le résumé de l’API, elle "offre aux
-auteurs de pages web un aperçu de la stabilité de leurs pages, à partir des
-mouvements des éléments de la page". Pour ce faire, l’API surveille les nœuds du
-DOM qui sont visibles dans le viewport. Si la représentation visuelle d’un nœud
-se décale, entre deux frames, de 3 pixels ou plus dans le sens horizontal ou
-vertical, l’API enregistre un <em lang="en">layout-shif</em> (un décalage) et
-**lui attribue un score**.
+<a href="https://bugs.chromium.org/p/chromium/issues/detail?id=581518" hreflang="en">vous
+pouviez utiliser l’événement <code>onload</code>, mais c’est loin d’être
+parfait</a>. L’API
+<a href="https://wicg.github.io/layout-instability/" hreflang="en" lang="en">Layout
+Instability</a> de Chrome répond à cette limite. L’idée ici est de s’intéresser
+à d’autres signaux. Plus particulièrement, à la stabilité de la mise en page, ou
+"l’absence de sursauts d’interface". Comme indiqué dans le résumé de l’API, elle
+"offre aux auteurs de pages web un aperçu de la stabilité de leurs pages, à
+partir des mouvements des éléments de la page". Pour ce faire, l’API surveille
+les nœuds du DOM qui sont visibles dans le viewport. Si la représentation
+visuelle d’un nœud se décale, entre deux frames, de 3 pixels ou plus dans le
+sens horizontal ou vertical, l’API enregistre un <em lang="en">layout-shif</em>
+(un décalage) et **lui attribue un score**.
 
 ## <span id="cls-compute">... utilisé pour pénaliser les saccades</span>
 
@@ -265,7 +267,9 @@ img[width][height] {
 }*/
 ```
 
-[Pour en savoir plus sur `aspect-ratio` lisez cet article de Chris Coyier sur <span lang="en">CSS Tricks</span> \[EN\].](https://css-tricks.com/a-first-look-at-aspect-ratio/)
+Pour en savoir plus sur `aspect-ratio` lisez
+<a href="https://css-tricks.com/a-first-look-at-aspect-ratio/" hreflang="en">cet
+article de Chris Coyier sur <span lang="en">CSS Tricks</span></a>
 {% endcapture note %} {% include note.html.liquid content=note %}
 
 Et bien sûr, n’oubliez pas de
@@ -321,7 +325,12 @@ Si votre publicité a une position figée dans le gabarit de page, et que cette
 position n’interfère pas avec l’agencement du reste du contenu, alors
 l’insertion de la publicité ne provoque aucun décalage.
 
-{% capture img_alt %}Une capture d’une page du Monde.fr où un espace est réservé pour une publicité dans la marge. Si la publicité est plus grande que prévue, elle occupe davantage de place dans la marge, mais ne décale pas le contenu.{% endcapture -%}{% capture img_caption %}Utilisation de l’espace négatif pour positionner les annonces.{% endcapture -%} {% include rwd-image.html.liquid
+{% capture img_alt %}Une capture d’une page du Monde.fr où un espace est réservé
+pour une publicité dans la marge. Si la publicité est plus grande que prévue,
+elle occupe davantage de place dans la marge, mais ne décale pas le
+contenu.{% endcapture -%}{% capture img_caption %}Utilisation de l’espace
+négatif pour positionner les annonces.{% endcapture -%}
+{% include rwd-image.html.liquid
 path="/assets/images/web/2020-09-15/negative_fr.png"
 alt=img_alt
 caption=img_caption
@@ -357,7 +366,8 @@ le flux de page, et entraîner des <span lang="en">Layout Shifts</span>.
 
 {% capture note %}Chaque fois que j’ai besoin de me rappeler comment fonctionne
 la gestion de l’affichage des polices, je retourne voir le
-[the font-display playground \[EN\]](https://font-display.glitch.me/), de
+<a href="https://font-display.glitch.me/" hreflang="en" lang="en">the
+font-display playground</a>, de
 [Monica Dinculescu](https://twitter.com/notwaldorf). {% endcapture note %}
 {% include note.html.liquid content=note %}
 
@@ -368,8 +378,9 @@ système. Vous pouvez également considérer la police web comme optionnelle lor
 du premier chargement de la page. Elle ne sera alors pas utilisée sur cette
 page, même si elle est téléchargée et mise en cache. En revanche, elle sera
 disponible pour la page suivante. À ce sujet, vous pouvez lire
-"[<span lang="en">eBay’s Font Loading Strategy</span> \[EN\]](https://tech.ebayinc.com/engineering/ebays-font-loading-strategy/)"
-de [Senthil Padmanabhan](https://twitter.com/senthil_hi).
+"<a href="https://tech.ebayinc.com/engineering/ebays-font-loading-strategy/" hreflang="en" lang="en">eBay’s
+Font Loading Strategy</a>" de
+[Senthil Padmanabhan](https://twitter.com/senthil_hi).
 
 ### Contenu injecté plus de 500 ms après une interaction
 
@@ -395,19 +406,22 @@ Pour optimiser votre CLS :
     réservant l’espace associé au(x) résultat(s) durant les 500 ms qui suivent
     l’interaction, quitte à ce que cet espace soit rempli ultérieurement, à la
     manière de
-    [l’<span lang="en">optimistic UI</span> \[EN\]](https://uxdesign.cc/the-optimistic-ui-with-react-f1420e317d54).
+    <a href="https://uxdesign.cc/the-optimistic-ui-with-react-f1420e317d54" hreflang="en">l’<span lang="en">optimistic
+    UI</a>.
 -   Implémentez un paradigme d’interface utilisateur spécifique aux longs
     traitements et un appel réseau (mise en file d’attente et notification
     d’achèvement, affichage des résultats dans des pop-ins, etc.)
--   N’animez que des
-    [propriétés CSS qui ne déclenchent pas de changements de mise en page dans Blink \[EN\]](https://csstriggers.com/).
+-   N’animez que des <a href="https://csstriggers.com/" hreflang="en">propriétés
+    CSS qui ne déclenchent pas de changements de mise en page dans Blink</a>.
 
 Bien sûr, **testez toujours** vos optimisations. En menant quelques expériences
 pour écrire cet article, j’ai découvert que
-[lorsque la durée d’une transition `translate` est de 0, des <span lang="en">Layout Shifts</span> apparaissent](https://bugs.chromium.org/p/chromium/issues/detail?id=1099895)
-(un problème désormais résolu). Des cas-limites comme celui-ci existeront
-toujours. N’hésitez pas à
-[les signaler à l’équipe Chromium](https://bugs.chromium.org/p/chromium/issues/list).
+<a href="https://bugs.chromium.org/p/chromium/issues/detail?id=1099895" hreflang="en">lorsque
+la durée d’une transition <code>translate</code> est de 0, des
+<span lang="en">Layout Shifts</span> apparaissent</a> (un problème désormais
+résolu). Des cas-limites comme celui-ci existeront toujours. N’hésitez pas à
+<a href="https://bugs.chromium.org/p/chromium/issues/list" hreflang="en">les
+signaler à l’équipe Chromium</a>.
 
 {% capture note %} **Astuce: un traitement en deux étapes**
 
@@ -444,10 +458,10 @@ le contenu évolue au fil des interactions. C’est ce qu’on appelle des
 
 Sur les SPA (y compris les applications qui utilisent des bibliothèques
 d’amélioration progressives comme
-[turbolinks](https://github.com/turbolinks/turbolinks)), le
-<span lang="en">Cumulative Layout Shift</span> **augmente en continu** pendant
-la session d’un utilisateur, puisque la navigation entre les contenus ne se fait
-pas en naviguant entre des pages. Le <span lang="en">Cumulative Layout
+<a href="https://github.com/turbolinks/turbolinks" hreflang="en" lang="en">turbolinks</a>),
+le <span lang="en">Cumulative Layout Shift</span> **augmente en continu**
+pendant la session d’un utilisateur, puisque la navigation entre les contenus ne
+se fait pas en naviguant entre des pages. Le <span lang="en">Cumulative Layout
 Shift</span> n’est donc collecté que lorsque l’utilisateur quitte la page. Si la
 valeur du <span lang="en">Cumulative Layout Shift</span> que vous observez
 [dans la <span lang="en">Search Console</span> (rubrique "Signaux Web essentiels")](https://blog.dareboost.com/fr/2020/06/signaux-web-essentiels-core-web-vitals/)
@@ -467,7 +481,8 @@ longues, plus le CLS mesuré sera élevé.{% endcapture note %}
 Bien que cela puisse paraître contre-intuitif, les barres de défilement
 horizontales et verticales font partie du <span lang="en">viewport</span>. Elles
 sont notamment incluses dans
-[les dimensions de pourcentage du viewport `vw` et `vh` \[EN\]](https://drafts.csswg.org/css-values-3/#viewport-relative-lengths).
+<a href="https://drafts.csswg.org/css-values-3/#viewport-relative-lengths" hreflang="en">les
+dimensions de pourcentage du viewport <code>vw</code> et <code>vh</code></a>.
 L’apparition ou la disparition des barres de défilement ne modifie donc pas le
 viewport, et ne sont donc pas éligibles aux "500 ms sans accumulation de CLS".
 Pourtant, l’apparition et la disparition des barres de défilement modifient la
@@ -485,7 +500,8 @@ puis apparaître au cours du chargement de la page et provoquer des
 Pour éviter ce comportement, vous pouvez ajouter `html { overflow-y: scroll }`
 afin de forcer l’apparition d’une barre de défilement au <span lang="en">First
 Paint</span>, ou attendre l’implémentation du module CSS Overflow de niveau 4 et
-[la nouvelle propriété `scrollbar-gutter` \[EN\]](https://www.w3.org/TR/css-overflow-4/#scollbar-gutter-property).
+<a href="https://www.w3.org/TR/css-overflow-4/#scollbar-gutter-property" hreflang="en">la
+nouvelle propriété <code>scrollbar-gutter</code></a>.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cumulative Layout Shift <a href="https://twitter.com/hashtag/CLS?src=hash&amp;ref_src=twsrc%5Etfw">#CLS</a> tuning tip<br><br>Add html{overflow-y:scroll} to enforce a scrollbar at first paint.<br><br>Pages with a layout shift drastically reduced as soon as the above CSS rule was added. <a href="https://twitter.com/hashtag/WebPerf?src=hash&amp;ref_src=twsrc%5Etfw">#WebPerf</a> <a href="https://twitter.com/hashtag/AimForZero?src=hash&amp;ref_src=twsrc%5Etfw">#AimForZero</a> <a href="https://t.co/k4KCUnmzPo">pic.twitter.com/k4KCUnmzPo</a></p>&mdash; Tim Vereecke (@TimVereecke) <a href="https://twitter.com/TimVereecke/status/1239454788116533248?ref_src=twsrc%5Etfw">March 16, 2020</a></blockquote>
 
@@ -502,7 +518,8 @@ Comme vous pouvez le voir, le deuxième exemple génère beaucoup moins de
 Cumulative Layout Shift. Pour l’expliquer, nous devons revenir à la
 spécification de l’API <span lang="en">Layout Shift</span>, et plus précisément
 à ce que l’on appelle les "nœuds instables"
-("[<span lang="en">Unstable nodes</span>](https://wicg.github.io/layout-instability/#sec-unstable-nodes)".
+("<a href="https://wicg.github.io/layout-instability/#sec-unstable-nodes" hreflang="en" lang="en">Unstable
+nodes</a>").
 
 <blockquote lang="en">A Node N has shifted in a coordinate space C if the 
 starting point of N in C differs from the previous frame starting point of N 
@@ -541,7 +558,7 @@ caption=img_caption
     l’utilisateur (par exemple, s’ils ont une couleur qui se fond avec
     l’arrière-plan). Mais si vous utilisez `visibility: hidden`, ce ne sera pas
     le cas.
--   [La page web.dev du CLS \[EN\]](https://web.dev/cls/)
+-   <a href="https://web.dev/cls/" hreflang="en">La page web.dev du CLS</a>
     ([traduite en français](https://www.fasterize.com/fr/blog/core-web-vitals-google-quest-ce-que-le-cumulative-layout-shift-cls/)
     par Sarah Salis pour Fasterize) recommande d’utiliser `transform` et
     `translate` pour créer des animations qui ne produisent pas de
@@ -586,20 +603,23 @@ en septembre 2019. Daniel Holbert a créé
 en juillet 2020. Nous n’avons trouvé aucune mention de l’API
 <span lang="en">Layout Instability</span> parmi les tickets publics de Safari.
 
-## Resources (en anglais)
+## Resources
 
 -   [Mes propres expérimentations sur le <span lang="en">Cumulative Layout Shift</span>](https://tests.boris.schapira.dev/cls/)
--   "[<span lang="en">Layout Instability API specification</span>](https://wicg.github.io/layout-instability/)",
-    par Steve Kobes, Nicolás Peña Moreno et Emily Hanley
--   "[<span lang="en">Cumulative Layout Shift</span>](https://web.dev/cls/)",
-    par [Philip Walton](https://twitter.com/philwalton) et
+-   "<a href="https://wicg.github.io/layout-instability/" hreflang="en" lang="en">Layout
+    Instability API specification</a>", par Steve Kobes, Nicolás Peña Moreno et
+    Emily Hanley
+-   "<a href="https://web.dev/cls/" hreflang="en" lang="en">Cumulative Layout
+    Shift</a>", par [Philip Walton](https://twitter.com/philwalton) et
     [Milica Mihajlija](https://twitter.com/bibydigital)
--   "[<span lang="en">Optimize Cumulative Layout Shift</span>](https://web.dev/optimize-cls/)"<br>
-    et
-    "[<span lang="en">Infinite Scroll without Layout Shifts</span>](https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/)",
-    par [Addy Osmani](https://twitter.com/addyosmani)
--   "[<span lang="en">Web Vitals - A New Hope in Web Performance Measurement</span>](https://tamethebots.com/blog-n-bits/web-perf-iv-a-new-hope)",
-    par [Dave Smart](https://twitter.com/davewsmart)
+-   "<a href="https://web.dev/optimize-cls/" hreflang="en" lang="en">Optimize
+    Cumulative Layout Shift</a>"<br> et
+    "<a href="https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/" hreflang="en" lang="en">Infinite
+    Scroll without Layout Shifts</a>", par
+    [Addy Osmani](https://twitter.com/addyosmani)
+-   "<a href="https://tamethebots.com/blog-n-bits/web-perf-iv-a-new-hope" hreflang="en" lang="en">Web
+    Vitals - A New Hope in Web Performance Measurement</a>", par
+    [Dave Smart](https://twitter.com/davewsmart)
 
 ---
 

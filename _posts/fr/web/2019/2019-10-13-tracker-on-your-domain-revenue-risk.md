@@ -58,10 +58,10 @@ Google a annoncé le déploiement d'initiatives du type "badge de la honte",
 pénalisant les sites lents. L'idée d'un signalement de ce type, des
 expérimentations avaient déjà été menées en 2015. Des badges
 "<span lang="en">Slow To Load</span>" et "<span lang="en">Red Slow Label</span>"
-avaient été affichés
-[sur des résultats de recherche \[EN\]](http://www.redslowlabel.com/). Cette
-fois,
-[Google annonce démarrer des expérimentations au niveau de Chrome \[EN\]](https://blog.chromium.org/2019/11/moving-towards-faster-web.html).
+avaient été affichés <a href="http://www.redslowlabel.com/" hreflang="en">sur
+des résultats de recherche</a>. Cette fois,
+<a href="https://blog.chromium.org/2019/11/moving-towards-faster-web.html" hreflang="en">Google
+annonce démarrer des expérimentations au niveau de Chrome</a>.
 
 {% capture img_alt %}Captures d'écran mobiles{% endcapture %}
 {% capture img_caption %}Exemple d'expérimentation qui pourrait être menée :
@@ -78,8 +78,9 @@ Depuis la fin des années 2000, Google multiplie les initiatives autour de la
 Performance Web. Depuis 2017, j'ai néanmoins l'impression d'une accélération,
 sûrement dûe à la volonté d'indexer plus fidèlement le Web en utilisant des
 sondes
-[toujours équipées de la dernière version de Chrome et exécutant JavaScript \[EN\]](https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html).
-Une tendance pour laquelle de nouveaux indicateurs ont même été créés, comme le
+<a href="https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html" hreflang="en">toujours
+équipées de la dernière version de Chrome et exécutant JavaScript</a>. Une
+tendance pour laquelle de nouveaux indicateurs ont même été créés, comme le
 [Time To (Consistently) Interactive](/notes/2019-05-mesurer-interactivite-time-to-interactive/)
 qui, à défaut d'être un bon indicateur d'UX, est un excellent indicateur de fin
 de chargement pour un robot.

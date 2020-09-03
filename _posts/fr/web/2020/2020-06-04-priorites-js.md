@@ -18,7 +18,7 @@ mais mes interlocuteurs et interlocutrices ne sont pas forcément anglophones.
 J'ai donc décidé de le traduire._
 
 <div class="emphasis">
-<strong>Retrouvez l'original sur le blog d'Addy Osmani&nbsp;:</strong> <a href="https://addyosmani.com/blog/script-priorities/" lang="en">JavaScript Loading Priorities in Chrome</a>.
+<strong>Retrouvez l'original sur le blog d'Addy Osmani&nbsp;:</strong> <a href="https://addyosmani.com/blog/script-priorities/" hreflang="en" lang="en">JavaScript Loading Priorities in Chrome</a>.
 </div>
 
 La façon dont les navigateurs ordonnancent et exécutent les scripts peut avoir
@@ -56,12 +56,12 @@ actualisé de la manière dont les scripts sont ordonnancés dans Chrome.
           <li>
             Scripts ayant une incidence sur le rendu du
             <a
-              href="https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics#first_meaningful_paint_and_hero_element_timing"
+              href="https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics#first_meaningful_paint_and_hero_element_timing" hreflang="en" lang="en"
               >First Meaningful Paint</a
             >
             (FMP) /
             <a
-              href="https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics#first_paint_and_first_contentful_paint"
+              href="https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics#first_paint_and_first_contentful_paint" hreflang="en" lang="en"
               >First Contentful Paint</a
             >
             (FCP) content
@@ -74,7 +74,7 @@ actualisé de la manière dont les scripts sont ordonnancés dans Chrome.
               <li>
                 Runtime de Framework (s'il n'y a pas de 
                 <a
-                  href="https://developers.google.com/web/updates/2019/02/rendering-on-the-web"
+                  href="https://developers.google.com/web/updates/2019/02/rendering-on-the-web" hreflang="en"
                   >rendu statique</a
                 >)
               </li>
@@ -156,12 +156,12 @@ actualisé de la manière dont les scripts sont ordonnancés dans Chrome.
               <li>
                 Runtime de Framework (rendu
                 <a
-                  href="https://developers.google.com/web/updates/2019/02/rendering-on-the-web#csr"
+                  href="https://developers.google.com/web/updates/2019/02/rendering-on-the-web#csr" hreflang="en"
                   >côté client</a
                 >
                 comme
                 <a
-                  href="https://developers.google.com/web/updates/2019/02/rendering-on-the-web#server-rendering"
+                  href="https://developers.google.com/web/updates/2019/02/rendering-on-the-web#server-rendering" hreflang="en"
                   >côté serveur</a
                 >)
               </li>
@@ -258,10 +258,14 @@ contributions permettant de mieux expliquer la pile réseau de Chrome.
 
 ## En savoir plus
 
--   [Scheduling Scripts Intuitively and Performantly](https://bit.ly/script-scheduling)
--   [Chrome Resource Priorities and Scheduling](https://docs.google.com/document/d/1bCDuq9H1ih9iNjgzyAL0gpwNFiEP4TZS-YLRp_RuMlc/edit#)
--   [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
--   [Priorities for rel=preload in Chrome and WebKit](https://twitter.com/yoavweiss/status/1096075414697639936)
+-   <a href="https://bit.ly/script-scheduling" hreflang="en" lang="en">Scheduling
+    Scripts Intuitively and Performantly</a>
+-   <a href="https://docs.google.com/document/d/1bCDuq9H1ih9iNjgzyAL0gpwNFiEP4TZS-YLRp_RuMlc/edit#" hreflang="en" lang="en">Chrome
+    Resource Priorities and Scheduling</a>
+-   <a href="https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf" hreflang="en" lang="en">Preload,
+    Prefetch And Priorities in Chrome</a>
+-   <a href="https://twitter.com/yoavweiss/status/1096075414697639936" hreflang="en" lang="en">Priorities
+    for rel=preload in Chrome and WebKit</a>
 
 ---
 

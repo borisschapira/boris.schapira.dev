@@ -43,9 +43,9 @@ techniques conçues pour répondre à ce dernier besoin en différant le
 téléchargement de chaque image jusqu’au moment où elle est nécessaire : après
 une interaction spécifique, à la suite d’un défilement… ou jamais.
 
-[Selon HTTPArchive \[EN\]](https://httparchive.org/reports/state-of-images#offscreenImages),
-420 Ko (valeur médiane) pourraient être sauvegardés par page en chargeant ainsi
-les images hors écran et/ou masquées.
+<a href="https://httparchive.org/reports/state-of-images#offscreenImages" hreflang="en">Selon
+HTTPArchive</a>, 420 Ko (valeur médiane) pourraient être sauvegardés par page en
+chargeant ainsi les images hors écran et/ou masquées.
 
 {% capture img_alt %}Graphique présentant la quantité de données qui pourrait
 être sauvegardées en ne chargeant pas les images hors-champ.{% endcapture %}
@@ -106,10 +106,11 @@ risque.
 
 Dans un monde parfait, le <span lang="en">Lazy Loading</span> des images serait
 automatiquement assuré par le navigateur. Ça sera peut-être bientôt le cas, car
-[une Feature Policy dédiée au Lazyload \[EN\]](https://github.com/w3c/webappsec-feature-policy/issues/193)
-est à l’étude, mais nous ne pouvons pas encore compter dessus. En attendant,
-nous devons explorer d’autres solutions, chacune d’entre elles impliquant une
-modification du balisage HTML et l’ajout d’une dépendance JS.
+<a href="https://github.com/w3c/webappsec-feature-policy/issues/193" hreflang="en">une
+Feature Policy dédiée au Lazyload</a> est à l’étude, mais nous ne pouvons pas
+encore compter dessus. En attendant, nous devons explorer d’autres solutions,
+chacune d’entre elles impliquant une modification du balisage HTML et l’ajout
+d’une dépendance JS.
 
 {% capture note %} **IMPORTANT** Vous n’avez pas besoin – et ne devriez pas –
 appliquer un lazyload à toutes vos images. Si vous savez que certains images
@@ -191,12 +192,12 @@ Les robots d’indexation, comme par exemple les Googlebots, sont des logiciels
 qui parcourent le Web dans le but d’en indexer le contenu. Personne ne sait avec
 certitude quand les Googlebots vont exécuter le code JavaScript de leurs pages,
 et sous quelles contraintes. Comme
-[démontré par Stephan Boyer en 2016 \[EN\]](https://www.stephanboyer.com/post/122/does-google-execute-javascript)
-et confirmé plus tard par
-[Tom Greenaway pendant Google IO 2018 \[EN\]](https://youtu.be/PFwUbgvpdaQ?t=845),
-les Googlebots n’exécutent pas JavaScript durant leur première visite. Pour
-obtenir une indexation se basant sur un rendu complet, il est parfois nécessaire
-d’attendre plusieurs jours.
+<a href="https://www.stephanboyer.com/post/122/does-google-execute-javascript" hreflang="en">démontré
+par Stephan Boyer en 2016</a> et confirmé plus tard par
+<a href="https://youtu.be/PFwUbgvpdaQ?t=845" hreflang="en">Tom Greenaway pendant
+Google IO 2018</a>, les Googlebots n’exécutent pas JavaScript durant leur
+première visite. Pour obtenir une indexation se basant sur un rendu complet, il
+est parfois nécessaire d’attendre plusieurs jours.
 
 > Comme les Googlebots indexent le contenu web en deux temps, il est possible
 > que certains détails nous échappent. <cite>Tom Greeaway</cite>
@@ -241,9 +242,9 @@ alors :
     en compte lors de l’affichage de la page. Le second (dans l’élément
     `<noscript>`), est affiché et indexé par les moteurs de recherche. La
     technique,
-    [confirmée par John Mueller \[EN\]](https://www.youtube.com/watch?time_continue=4308&v=7m-cd8XXovQ),
-    Webmaster Trends Analyst chez Google, est exactement la même pour les images
-    de fond :
+    <a href="https://www.youtube.com/watch?time_continue=4308&v=7m-cd8XXovQ" hreflang="en">confirmée
+    par John Mueller</a>, Webmaster Trends Analyst chez Google, est exactement
+    la même pour les images de fond :
 
 ```html
 <div data-class="bg-image-garden" class="container js-lazyload">…</div>

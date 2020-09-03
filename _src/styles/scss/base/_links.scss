@@ -1,16 +1,31 @@
-[target='_blank']:not(.npe)::after {
-  content: '\2197';
+:lang(fr),
+:lang(en) {
+  [target='_blank']:not(.npe)::after {
+    content: '\2197';
+  }
+  [href^='http:']:not(.npe)::after {
+    content: '\00A0(http)';
+    font-size: 70%;
+    vertical-align: super;
+  }
+  [href$='.pdf']:not(.npe)::after {
+    content: '\00A0(pdf)';
+    font-size: 70%;
+    vertical-align: super;
+  }
+  [href$='.zip']:not(.npe)::after {
+    content: '\00A0(zip)';
+    font-size: 70%;
+    vertical-align: super;
+  }
 }
-[href^='http:']:not(.npe)::after {
-  content: '\00A0(http)';
-  font-size: 0.8em;
-  display: inline-block;
-}
-[href$='.pdf']:not(.npe)::after {
-  font-size: 0.8em;
-  content: '\00A0(pdf)';
-}
-[href$='.zip']:not(.npe)::after {
-  font-size: 0.8em;
-  content: '\00A0(zip)';
+
+/* Select links written in French that target a non-French page */
+:lang(fr) > :link[hreflang]:not([hreflang="fr"])::after,
+/* Select links written in English that target a non-English page */
+:lang(en) > :link[hreflang]:not([hreflang="en"])::after {
+  /* Display the target language */
+  content: '\00A0('attr(hreflang) ')';
+  font-size: 70%;
+  vertical-align: super;
 }

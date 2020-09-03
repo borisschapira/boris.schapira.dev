@@ -99,11 +99,11 @@ reste de la page…
 Pour estimer la perception visuelle des visiteurs, on peut utiliser le
 [Speed Index](https://blog.dareboost.com/fr/2018/02/speed-index-performance-web/)
 et le
-[First Contentful Paint \[EN\]](https://www.w3.org/TR/paint-timing/#first-contentful-paint),
-deux indicateurs qui aident à comprendre la manière dont un utilisateur perçoit
-le chargement de la page. Comme leurs modes de calcul sont liés à la manière
-dont les éléments sont affichés, leurs limitations peuvent être identifiées en
-un clin d’œil par un être humain.
+<a href="https://www.w3.org/TR/paint-timing/#first-contentful-paint" hreflang="en">First
+Contentful Paint</a>, deux indicateurs qui aident à comprendre la manière dont
+un utilisateur perçoit le chargement de la page. Comme leurs modes de calcul
+sont liés à la manière dont les éléments sont affichés, leurs limitations
+peuvent être identifiées en un clin d’œil par un être humain.
 
 En revanche, lorsqu’il s’agit de mesurer l’interactivité – les points 3 et 4 –
 ça devient plus difficile. Nous ne savons pas vraiment comment la mesurer. La
@@ -127,7 +127,8 @@ entre 1.2 and 1.5. {% endcapture %} {% capture img_caption %} Il y a une
 corrélation linéaire évidente entre les clics "de rage" et les clics situés 1,2
 à 1,5 fois après le Visually Ready (le moment où l’utilisateur perçoit que la
 page est prête pour une interaction –
-[voir la définition complète sur la documentation Boomerang \[EN\]](https://akamai.github.io/boomerang/BOOMR.plugins.Continuity.html#toc9__anchor)).{% endcapture %}
+<a href="https://akamai.github.io/boomerang/BOOMR.plugins.Continuity.html#toc9__anchor" hreflang="en">voir
+la définition complète sur la documentation Boomerang</a>).{% endcapture %}
 {% include rwd-image.html.liquid
 path="/assets/images/2019-05-16/rage.png"
 alt=img_alt
@@ -276,8 +277,8 @@ JavaScript).
 "Time To Interactive" est un nom vraiment ambigu.
 
 Même dans la
-[documentation de Lighthouse \[EN\]](https://developers.google.com/web/tools/lighthouse/audits/time-to-interactive),
-vous pouvez lire de courtes définitions trompeuses comme :
+<a href="https://developers.google.com/web/tools/lighthouse/audits/time-to-interactive" hreflang="en">documentation
+de Lighthouse</a>, vous pouvez lire de courtes définitions trompeuses comme :
 
 > Le paramètre Time to Interactive (TTI) mesure le temps qu’il faut à une page
 > pour devenir interactive.
@@ -338,8 +339,8 @@ Time To Interactive mais, comme pour
 il faut toujours vérifier leur définition. Au cours de mes recherches, j’ai
 constaté que certaines d’entre elles n’hésitent pas à apposer une étiquette
 "TTI" sur d’autres indicateurs (comme
-[l’événement domInteractive \[EN\]](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming/domInteractive)),
-qui n’ont rien à voir.
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming/domInteractive" hreflang="en">l’événement
+domInteractive</a>), qui n’ont rien à voir.
 
 ### Le Time to Interactive manque de stabilité
 
@@ -370,11 +371,12 @@ indicateurs plus stables comme le FCP, la corrélation entre les données de
 terrain et de tests n’est pas bonne.
 
 J’ai trouvé
-[une étude de 2017, de Nic Jansma \[EN\]](https://www.slideshare.net/nicjansma/reliably-measuring-responsiveness),
-[citée récemment par Addy Osmani \[EN\]](https://addyosmani.com/blog/usability/),
-où il explique que l’amélioration du TTI a un impact réel sur le taux de
-conversion dans un cas d’utilisation réel. Malheureusement, les diapositives ne
-donnent pas accès aux données ni aux conditions expérimentales.
+<a href="https://www.slideshare.net/nicjansma/reliably-measuring-responsiveness" hreflang="en">une
+étude de 2017, de Nic Jansma</a>,
+<a href="https://addyosmani.com/blog/usability/" hreflang="en">citée récemment
+par Addy Osmani</a>, où il explique que l’amélioration du TTI a un impact réel
+sur le taux de conversion dans un cas d’utilisation réel. Malheureusement, les
+diapositives ne donnent pas accès aux données ni aux conditions expérimentales.
 
 D’autres cas d’utilisation, disponibles en ligne, consistent souvent à supprimer
 tout le JavaScript des Landing Pages. Une modification assez drastique, là où
@@ -442,8 +444,8 @@ spécification Long Task API :
 > reçue et moins de 50 ms pour exécuter la tâche qui réagit à cette
 > sollicitation.
 >
-> <cite>[Long Task API 1 \[EN\]](https://w3c.github.io/longtasks/#intro),
-> traduction</cite>
+> <cite><a href="https://w3c.github.io/longtasks/#intro" hreflang="en" lang="en">Long
+> Task API 1</a>, traduction</cite>
 
 En d’autres termes : la gestion d’une interaction nécessite à la fois que le
 navigateur soit capable de gérer l’entrée utilisateur en n’étant pas déjà occupé
@@ -515,9 +517,9 @@ caption=img_caption
 En attendant, il existe beaucoup d’autres mesures concernant l’interactivité,
 principalement en RUM où l’activité réelle des utilisateurs peut être observée.
 Par exemple, je pense que la distribution des
-[First Input Delay \[EN\]](https://developers.google.com/web/updates/2018/05/first-input-delay)
-est une information extrêmement pertinente, facile à comprendre, mais ce serait
-un vaste sujet, digne d’un autre article de blog.
+<a href="https://developers.google.com/web/updates/2018/05/first-input-delay" hreflang="en" lang="en">First
+Input Delay</a> est une information extrêmement pertinente, facile à comprendre,
+mais ce serait un vaste sujet, digne d’un autre article de blog.
 
 N’oubliez pas : si vous avez besoin de comprendre ce qui se passe avec
 JavaScript dans du Monitoring Synthétique, vous pouvez toujours

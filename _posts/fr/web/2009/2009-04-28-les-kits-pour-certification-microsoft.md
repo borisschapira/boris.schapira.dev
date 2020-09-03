@@ -10,20 +10,7 @@ Il se peut que vous soyez tentés par les
 mais comment se former avant l’examen ? Avez-vous regardé du côté des kits de
 formation ? Beaucoûp sont disponibles sur Amazon. Il vous suffit de chercher :
 "Certification .Net", "Kit certification .Net" ou directement le numéro de la
-certification qui vous intéresse, comme par exemple la 70-536. Pour cette
-dernière, on trouve ainsi assez facilement :
-
--   un
-    [kit 70-536 en français sur Amazon.fr](http://www.amazon.fr/bases-d%C3%A9veloppement-dapplications-avec-NET/dp/2100506161/ref=sr_1_1?ie=UTF8&s=books&qid=1236176048&sr=8-1)
-    ;
--   un
-    [kit 70-536 en anglais sur Amazon.fr](http://www.amazon.fr/MCTS-Self-Paced-Training-Exam-70-536/dp/0735622779/ref=sr_1_3?ie=UTF8&s=english-books&qid=1236176048&sr=8-3)
-    ;
--   un
-    [kit 70-536 en anglais sur Amazon.com](http://www.amazon.com/MCTS-Self-Paced-Training-Exam-70-536/dp/0735622779/ref=sr_1_1?ie=UTF8&s=books&qid=1236176209&sr=1-1)
-    ;
--   un
-    [ensemble de kits (MCPD) sur Amazon.com contenant le kit 70-536](http://www.amazon.com/Self-Paced-Training-70-536-70-528-70-547/dp/0735623767/ref=sr_1_2?ie=UTF8&s=books&qid=1236176209&sr=1-2).
+certification qui vous intéresse, comme par exemple la 70-536.
 
 Nous conseillons de passer les certifications en anglais pour plusieurs
 raisons :
