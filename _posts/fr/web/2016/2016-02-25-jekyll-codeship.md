@@ -1,6 +1,6 @@
 ---
 title: 'Un blog avec Jekyll et Codeship'
-main_image: /assets/images/2016-02-25/jekyll.png
+thumbnail_background: /assets/images/2016-02-25/jekyll.png
 ---
 
 Depuis plusieurs mois, ce blog est propulsé par Jekyll et Codeship. Une page

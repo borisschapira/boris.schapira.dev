@@ -1,7 +1,7 @@
 ---
 title: 'Comment optimiser les performance de vos parties tierces'
 i18n-key: optimize-third-parties-performance
-main_image: '/assets/images/2020-05-20/swimmers-on-body-water-3772419.jpg'
+thumbnail_background: '/assets/images/2020-05-20/swimmers-on-body-water-3772419.jpg'
 canonical: 'https://blog.dareboost.com/fr/2020/05/optimiser-performance-parties-tierces/'
 description: >-
     Pourquoi et comment utiliser la directive preload et les Resource Hints pour

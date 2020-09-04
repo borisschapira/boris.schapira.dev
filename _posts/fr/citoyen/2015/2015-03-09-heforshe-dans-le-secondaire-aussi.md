@@ -1,6 +1,6 @@
 ---
 title: '#HeForShe, dans le secondaire aussi'
-main_image: /assets/images/shared/he-for-she-logo.jpg
+thumbnail_background: /assets/images/shared/he-for-she-logo.jpg
 tags:
     - Allié
     - Société

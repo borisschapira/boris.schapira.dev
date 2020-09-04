@@ -1,6 +1,6 @@
 ---
 title: 'Son choix (suite)'
-main_image: /assets/images/papa/2015-11-21/1.jpg
+thumbnail_background: /assets/images/papa/2015-11-21/1.jpg
 ---
 
 Suite de l'aventure des [chaussures roses](/notes/2015-11-son-choix/). On

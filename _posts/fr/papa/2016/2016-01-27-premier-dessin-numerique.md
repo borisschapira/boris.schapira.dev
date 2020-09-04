@@ -1,6 +1,6 @@
 ---
 title: 'Premier dessin numérique'
-main_image: /assets/images/papa/2016-01-27/1.png
+thumbnail_background: /assets/images/papa/2016-01-27/1.png
 ---
 
 Pendant que le petit faisait sa sieste, j'ai appris au grand à utiliser le

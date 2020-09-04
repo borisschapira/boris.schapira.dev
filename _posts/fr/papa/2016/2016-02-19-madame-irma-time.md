@@ -1,6 +1,6 @@
 ---
 title: 'Madame Irma'
-main_image: /assets/images/papa/2016-02-19/irma.jpg
+thumbnail_background: /assets/images/papa/2016-02-19/irma.jpg
 ---
 
 Dictateur, 5 ans, n'est pas très patient. Pour qu'il apprenne à gérer le temps

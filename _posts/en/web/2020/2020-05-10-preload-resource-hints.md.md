@@ -2,7 +2,7 @@
 title:
     'Preload, Prefetch and Preconnect: Speed Up your Website with Resource Hints'
 i18n-key: preload-resource-hints
-main_image: '/assets/images/2020-04-29/people-doing-swim-race-1263349.jpg'
+thumbnail_background: '/assets/images/2020-04-29/people-doing-swim-race-1263349.jpg'
 canonical: 'https://blog.dareboost.com/en/2020/05/preload-prefetch-preconnect-resource-hints/'
 description: >-
     Use preload and the Resource Hints to increase the perception of speed by

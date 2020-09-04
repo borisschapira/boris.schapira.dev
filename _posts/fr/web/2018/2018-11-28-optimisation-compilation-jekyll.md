@@ -1,7 +1,7 @@
 ---
 title: 'Optimisation du temps de compilation de Jekyll'
 i18n-key: optimisation-compilation-jekyll
-main_image: /assets/images/2018-11-28/jekyll.png
+thumbnail_background: /assets/images/2018-11-28/jekyll.png
 canonical: 'https://jamstatic.fr/2018/11/28/optimisation-compilation-jekyll/'
 tags:
     - Jekyll

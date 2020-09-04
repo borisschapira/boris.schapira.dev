@@ -1,6 +1,6 @@
 ---
 title: "À l'aventure"
-main_image: /assets/images/2017-05-31/forest.jpg
+thumbnail_background: /assets/images/2017-05-31/forest.jpg
 ---
 
 J'ai tourné et retourné dix fois la manière dont j'allais écrire ça, mais je

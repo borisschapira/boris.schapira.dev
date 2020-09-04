@@ -7,7 +7,7 @@ tags:
     - 'Performance Web'
     - JavaScript
 slug: priorites-js
-main_image: /assets/images/2020-06-04/synthese.png
+thumbnail_background: /assets/images/2020-06-04/synthese.png
 header1: 'Priorité de chargement (network/Blink)'
 header2: "Priorité d'exécution"
 header3: "Comment l'utiliser ?"

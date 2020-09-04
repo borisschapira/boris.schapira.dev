@@ -8,7 +8,7 @@ description: >-
     Interactive (TTI). What does it mean? Let's define it and explain how and
     when to use it (or not).﻿
 cloudinary_logo: dareboost-logo
-main_image: /assets/images/2019-05-16/carnival.jpg
+thumbnail_background: /assets/images/2019-05-16/carnival.jpg
 tags:
     - 'Performance Web'
     - JavaScript

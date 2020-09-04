@@ -2,7 +2,7 @@
 title: 'Favorables ?'
 tags:
     - "État d'Urgence"
-main_image: /assets/images/2016-01-31/1.png
+thumbnail_background: /assets/images/2016-01-31/1.png
 ---
 
 Hier avaient lieu des manifestations partout en France pour appeler à l'arrêt de
