@@ -1,5 +1,5 @@
 ---
-title: Gros
+title: "C'est pas grave t'es beau à l'intérieur"
 thumbnail_image: https://boris.schapira.dev/assets/images/papa/2018-06-22/garagedeloffre.jpg
 ---
 

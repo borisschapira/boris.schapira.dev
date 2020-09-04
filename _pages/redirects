@@ -29,3 +29,4 @@ permalink: /_redirects
 {% comment %} Notes {% endcomment -%}
 /notes/ / 302
 /:year/:month/:slug/ /notes/:year-:month-:slug/ 301
+/notes/2018-06-gros/ /notes/2018-06-beau-a-l-interieur/ 301
