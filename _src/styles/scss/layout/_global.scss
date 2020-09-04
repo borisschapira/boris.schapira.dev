@@ -108,6 +108,7 @@ html {
 
     .svg-me {
       display: none;
+      content-visibility: auto;
       @include media('>=large') {
         display: block;
       }
@@ -115,6 +116,7 @@ html {
   }
 
   .over-large {
+    content-visibility: auto;
     display: none;
     @include media('>=large') {
       display: block;
@@ -122,6 +124,7 @@ html {
   }
 
   .under-large {
+    content-visibility: auto;
     @include media('>large') {
       display: none;
     }
@@ -198,6 +201,9 @@ html {
 
 .nav-footer {
   @extend %main-grid;
+
+  content-visibility: auto;
+
   font-size: 0.8rem;
   color: var(--color-compliment-text);
 
