@@ -127,7 +127,7 @@ entre 1.2 and 1.5. {% endcapture %} {% capture img_caption %} Il y a une
 corrélation linéaire évidente entre les clics "de rage" et les clics situés 1,2
 à 1,5 fois après le Visually Ready (le moment où l’utilisateur perçoit que la
 page est prête pour une interaction –
-<a href="https://akamai.github.io/boomerang/BOOMR.plugins.Continuity.html#toc9__anchor" hreflang="en">voir
+<a href="https://akamai.github.io/boomerang/BOOMR.plugins.Continuity.html#toc9" hreflang="en">voir
 la définition complète sur la documentation Boomerang</a>).{% endcapture %}
 {% include rwd-image.html.liquid
 path="/assets/images/2019-05-16/rage.png"

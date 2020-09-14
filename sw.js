@@ -92,7 +92,7 @@
 
 // @ts-ignore
 try {
-    self['workbox:core:5.1.3'] && _();
+    self['workbox:core:5.1.4'] && _();
 }
 catch (e) { }
 
@@ -105,7 +105,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:precaching:5.1.3'] && _();
+    self['workbox:precaching:5.1.4'] && _();
 }
 catch (e) { }
 
@@ -118,7 +118,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:routing:5.1.3'] && _();
+    self['workbox:routing:5.1.4'] && _();
 }
 catch (e) { }
 
@@ -131,7 +131,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:strategies:5.1.3'] && _();
+    self['workbox:strategies:5.1.4'] && _();
 }
 catch (e) { }
 
@@ -144,7 +144,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:broadcast-update:5.1.3'] && _();
+    self['workbox:broadcast-update:5.1.4'] && _();
 }
 catch (e) { }
 
@@ -157,7 +157,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:range-requests:5.1.3'] && _();
+    self['workbox:range-requests:5.1.4'] && _();
 }
 catch (e) { }
 
@@ -170,7 +170,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:expiration:5.1.3'] && _();
+    self['workbox:expiration:5.1.4'] && _();
 }
 catch (e) { }
 
@@ -183,7 +183,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:cacheable-response:5.1.3'] && _();
+    self['workbox:cacheable-response:5.1.4'] && _();
 }
 catch (e) { }
 
@@ -1671,6 +1671,16 @@ function skipWaiting() {
 }
 
 
+// CONCATENATED MODULE: ./node_modules/workbox-core/types.js
+/*
+  Copyright 2019 Google LLC
+
+  Use of this source code is governed by an MIT-style
+  license that can be found in the LICENSE file or at
+  https://opensource.org/licenses/MIT.
+*/
+
+
 // CONCATENATED MODULE: ./node_modules/workbox-core/index.js
 /*
   Copyright 2018 Google LLC
@@ -1694,6 +1704,7 @@ function skipWaiting() {
  *
  * @module workbox-core
  */
+
 
 
 // CONCATENATED MODULE: ./node_modules/workbox-core/index.mjs

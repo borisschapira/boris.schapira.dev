@@ -116,7 +116,7 @@ there's a clear linear correlation ; the slope varies between 1.2 and 1.5.
 {% endcapture %} {% capture img_caption %} There’s a clear linear correlation
 between rage clicks and 1.2 to 1.5× the time to Visually Ready (when the page
 would look to the user like they could interact with it –
-[see the full definition on Boomerang documentation](https://akamai.github.io/boomerang/BOOMR.plugins.Continuity.html#toc9__anchor)).
+[see the full definition on Boomerang documentation](https://akamai.github.io/boomerang/BOOMR.plugins.Continuity.html#toc9)).
 {% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2019-05-16/rage.png"
 alt=img_alt
