@@ -105,7 +105,7 @@
     "turbolinks": "^5.2.0",
     "workbox-broadcast-update": "^5.1.3",
     "workbox-cacheable-response": "^5.1.3",
-    "workbox-core": "^5.1.3",
+    "workbox-core": "^5.1.4",
     "workbox-expiration": "^5.1.3",
     "workbox-precaching": "^5.1.3",
     "workbox-range-requests": "^5.1.3",
