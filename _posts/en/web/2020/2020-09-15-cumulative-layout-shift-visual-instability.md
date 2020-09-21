@@ -10,6 +10,7 @@ tags:
     - 'Performance Web'
     - Metrics
     - CLS
+cloudinary_logo: dareboost-logo
 slug: cumulative-layout-shift-visual-instability
 loadTwitterWjs: true
 canonical: https://blog.dareboost.com/en/2020/09/cumulative-layout-shift-visual-instability/

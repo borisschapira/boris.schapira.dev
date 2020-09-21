@@ -11,6 +11,7 @@ tags:
     - 'Performance Web'
     - Metrics
     - CLS
+cloudinary_logo: dareboost-logo
 slug: cumulative-layout-shift-stabilite-page
 loadTwitterWjs: true
 canonical: https://blog.dareboost.com/fr/2020/09/cumulative-layout-shift-stabilite-page/
