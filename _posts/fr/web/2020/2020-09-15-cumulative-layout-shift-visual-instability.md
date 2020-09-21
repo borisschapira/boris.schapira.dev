@@ -566,7 +566,7 @@ caption=img_caption
     <span lang="en">Layout Shifts</span> lorsque le temps de transition est de
     0, jusqu’à Chrome 86.
 
-## Conclusion
+## <span id="conclusion">Conclusion</span>
 
 Le <span lang="en">Cumulative Layout Shift</span> est un indicateur qui mesure
 les instabilités de la mise en page d’une page web. Pour l’optimiser et

@@ -477,7 +477,7 @@ caption=img_caption
     seems to create layout-shifts when the transition time is 0 in Chrome, until
     version 86.
 
-## Conclusion
+## <span id="conclusion">Conclusion</span>
 
 Cumulative Layout Shift is a metric that measures the layout instabilities of a
 web page. To optimize it, and **improve the user experience**, you should avoid
