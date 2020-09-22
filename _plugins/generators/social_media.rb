@@ -73,7 +73,7 @@ module Jekyll
       description = description.gsub(/\r?\n/, ' ');
       description = markdown_converter.convert(truncatewords(description, 40));
 
-      imgtitle = URI.escape(title).gsub(" ", '%20').gsub(".", '%2e').gsub(",", '%E2%80%9A').gsub("'", '%E2%80%99').gsub('?', '%3F')
+      imgtitle = URI.escape(title).gsub(" ", '%20').gsub(".", '%2e').gsub(",%20", '%0A').gsub("'", '%0A').gsub('?', '%3F').gsub('%2C%20','%0A')
 
       if page.data.key?("thumbnail_background")
         category = page.data["category"]
@@ -106,10 +106,10 @@ module Jekyll
         twitter_left = 98
       end
 
-      image = 'https://res.cloudinary.com/' + get_configuration['cloudinary']['cloud_name'] + '/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:' + color + ',o_20/w_1000,c_fit,l_text:PT%20Sans_' + font_size.to_s + ':' + imgtitle + ',x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_' + font_size.to_s + ':' + imgtitle + ',y_-70,co_white/l_text:PT%20Sans_50:' + twitter_nick + ',g_south_east,x_' + twitter_left.to_s + ',y_55,co_black,o_20/l_text:PT%20Sans_50:' + twitter_nick + ',g_south_east,x_' + (twitter_left + 2).to_s + ',y_57,co_white/c_fill,g_south_east,r_max,h_45,l_twitter,w_45,x_356,y_60/c_scale,g_south_west,l_'+ logo +',w_150,x_60,y_40/' + image
+      image = 'https://res.cloudinary.com/' + get_configuration['cloudinary']['cloud_name'] + '/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:' + color + ',o_20/w_1000,c_fit,l_text:PT%20Sans_' + font_size.to_s + ':' + imgtitle + ',x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_' + font_size.to_s + ':' + imgtitle + ',y_-70,co_white/l_text:PT%20Sans_50:' + twitter_nick + ',g_south_east,x_' + twitter_left.to_s + ',y_65,co_black,o_20/l_text:PT%20Sans_50:' + twitter_nick + ',g_south_east,x_' + (twitter_left + 2).to_s + ',y_67,co_white/c_fill,g_south_east,r_max,h_45,l_twitter,w_45,x_356,y_60/c_scale,g_south_west,l_'+ logo +',w_150,x_60,y_40/' + image
 
       if page.data.key?("thumbnail_image")
-        image = 'https://res.cloudinary.com/' + get_configuration['cloudinary']['cloud_name'] + '/image/fetch/c_crop,ar_1200:600,b_white/w_1200/l_text:PT%20Sans_50:' + twitter_nick + ',g_south_east,x_' + twitter_left.to_s + ',y_55,co_black,o_20/l_text:PT%20Sans_50:' + twitter_nick + ',g_south_east,x_' + (twitter_left + 2).to_s + ',y_57,co_black/c_fill,g_south_east,r_max,h_45,l_twitter,w_45,x_356,y_60/c_scale,g_south_west,l_'+ logo +',w_150,x_60,y_40/' + page.data["thumbnail_image"]
+        image = 'https://res.cloudinary.com/' + get_configuration['cloudinary']['cloud_name'] + '/image/fetch/c_crop,ar_1200:600,b_white/w_1200/l_text:PT%20Sans_50:' + twitter_nick + ',g_south_east,x_' + twitter_left.to_s + ',y_65,co_black,o_20/l_text:PT%20Sans_50:' + twitter_nick + ',g_south_east,x_' + (twitter_left + 2).to_s + ',y_67,co_black/c_fill,g_south_east,r_max,h_45,l_twitter,w_45,x_356,y_60/c_scale,g_south_west,l_'+ logo +',w_150,x_60,y_40/' + page.data["thumbnail_image"]
       end
 
       title = strip_html(title) + " &middot; " + get_configuration['title']
