@@ -92,7 +92,7 @@
     "dotenv": "^8.2.0",
     "escape-string-regexp": "^4.0.0",
     "file-loader": "^6.1.0",
-    "hasha": "^5.2.0",
+    "hasha": "^5.2.1",
     "instant.page": "^5.1.0",
     "js-md5": "^0.7.3",
     "js-yaml": "^3.14.0",
