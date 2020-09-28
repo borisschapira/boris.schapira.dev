@@ -59,7 +59,7 @@
     "csswring": "^7.0.0",
     "easy-toggle-state": "^1.12.7",
     "eslint": "^7.9.0",
-    "eslint-config-prettier": "^6.11.0",
+    "eslint-config-prettier": "^6.12.0",
     "eslint-plugin-chai-expect": "^2.2.0",
     "eslint-plugin-import": "^2.22.0",
     "fast-xml-parser": "^3.17.4",
