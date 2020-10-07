@@ -25,7 +25,10 @@ events:
     - name: 'traduction du chapitre "JavaScript"'
       url: https://almanac.httparchive.org/fr/2019/javascript
       date: 2020-08-20
-last_modified_at: 2020-05-20
+    - name: 'traduction du chapitre "Média"'
+      url: https://almanac.httparchive.org/fr/2019/media
+      date: 2020-10-06
+last_modified_at: 2020-10-07
 ---
 
 _Projet Open Source._
