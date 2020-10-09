@@ -1,6 +1,5 @@
 ---
 title: 'Retour sur : Projet Epsilon'
-tags:
 ---
 
 Plus d'un mois après la livraison en Production du projet **Epsilon**, beaucoup
