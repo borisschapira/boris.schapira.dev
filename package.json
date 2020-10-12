@@ -78,7 +78,7 @@
     "sass": "^1.27.0",
     "sass-loader": "^10.0.3",
     "webpack": "^4.44.2",
-    "webpack-cli": "^3.3.12"
+    "webpack-cli": "^4.0.0"
   },
   "optionalDependencies": {
     "chai": "^4.2.0",
