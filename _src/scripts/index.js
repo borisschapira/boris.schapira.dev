@@ -1,4 +1,4 @@
-import 'easy-toggle-state';
+import easyToggle from 'easy-toggle-state';
 import 'touchtap-event';
 import { ready } from './subscripts/utils';
 
@@ -9,7 +9,7 @@ import './subscripts/footnotesAlternatives';
 import { abbrTouch } from './vendors/abbr-touch';
 
 ready(function () {
-  initEasyToggleState();
+  easyToggle();
 
   var tooltipTimeout;
 

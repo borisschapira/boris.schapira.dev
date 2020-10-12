@@ -1,146 +1,10 @@
-/******/ (function(modules) { // webpackBootstrap
-/******/ 	// The module cache
-/******/ 	var installedModules = {};
-/******/
-/******/ 	// The require function
-/******/ 	function __webpack_require__(moduleId) {
-/******/
-/******/ 		// Check if module is in cache
-/******/ 		if(installedModules[moduleId]) {
-/******/ 			return installedModules[moduleId].exports;
-/******/ 		}
-/******/ 		// Create a new module (and put it into the cache)
-/******/ 		var module = installedModules[moduleId] = {
-/******/ 			i: moduleId,
-/******/ 			l: false,
-/******/ 			exports: {}
-/******/ 		};
-/******/
-/******/ 		// Execute the module function
-/******/ 		modules[moduleId].call(module.exports, module, module.exports, __webpack_require__);
-/******/
-/******/ 		// Flag the module as loaded
-/******/ 		module.l = true;
-/******/
-/******/ 		// Return the exports of the module
-/******/ 		return module.exports;
-/******/ 	}
-/******/
-/******/
-/******/ 	// expose the modules object (__webpack_modules__)
-/******/ 	__webpack_require__.m = modules;
-/******/
-/******/ 	// expose the module cache
-/******/ 	__webpack_require__.c = installedModules;
-/******/
-/******/ 	// define getter function for harmony exports
-/******/ 	__webpack_require__.d = function(exports, name, getter) {
-/******/ 		if(!__webpack_require__.o(exports, name)) {
-/******/ 			Object.defineProperty(exports, name, { enumerable: true, get: getter });
-/******/ 		}
-/******/ 	};
-/******/
-/******/ 	// define __esModule on exports
-/******/ 	__webpack_require__.r = function(exports) {
-/******/ 		if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
-/******/ 			Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
-/******/ 		}
-/******/ 		Object.defineProperty(exports, '__esModule', { value: true });
-/******/ 	};
-/******/
-/******/ 	// create a fake namespace object
-/******/ 	// mode & 1: value is a module id, require it
-/******/ 	// mode & 2: merge all properties of value into the ns
-/******/ 	// mode & 4: return value when already ns object
-/******/ 	// mode & 8|1: behave like require
-/******/ 	__webpack_require__.t = function(value, mode) {
-/******/ 		if(mode & 1) value = __webpack_require__(value);
-/******/ 		if(mode & 8) return value;
-/******/ 		if((mode & 4) && typeof value === 'object' && value && value.__esModule) return value;
-/******/ 		var ns = Object.create(null);
-/******/ 		__webpack_require__.r(ns);
-/******/ 		Object.defineProperty(ns, 'default', { enumerable: true, value: value });
-/******/ 		if(mode & 2 && typeof value != 'string') for(var key in value) __webpack_require__.d(ns, key, function(key) { return value[key]; }.bind(null, key));
-/******/ 		return ns;
-/******/ 	};
-/******/
-/******/ 	// getDefaultExport function for compatibility with non-harmony modules
-/******/ 	__webpack_require__.n = function(module) {
-/******/ 		var getter = module && module.__esModule ?
-/******/ 			function getDefault() { return module['default']; } :
-/******/ 			function getModuleExports() { return module; };
-/******/ 		__webpack_require__.d(getter, 'a', getter);
-/******/ 		return getter;
-/******/ 	};
-/******/
-/******/ 	// Object.prototype.hasOwnProperty.call
-/******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
-/******/
-/******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "";
-/******/
-/******/
-/******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 9);
-/******/ })
-/************************************************************************/
-/******/ ([
-/* 0 */
-/***/ (function(module, exports, __webpack_require__) {
+/******/ (() => { // webpackBootstrap
+/******/ 	"use strict";
+/******/ 	var __webpack_modules__ = ({
 
-"use strict";
+/***/ 294:
+/***/ (() => {
 
-// @ts-ignore
-try {
-    self['workbox:core:5.1.4'] && _();
-}
-catch (e) { }
-
-
-/***/ }),
-/* 1 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-// @ts-ignore
-try {
-    self['workbox:precaching:5.1.4'] && _();
-}
-catch (e) { }
-
-
-/***/ }),
-/* 2 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-// @ts-ignore
-try {
-    self['workbox:routing:5.1.4'] && _();
-}
-catch (e) { }
-
-
-/***/ }),
-/* 3 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-// @ts-ignore
-try {
-    self['workbox:strategies:5.1.4'] && _();
-}
-catch (e) { }
-
-
-/***/ }),
-/* 4 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
 
 // @ts-ignore
 try {
@@ -150,36 +14,10 @@ catch (e) { }
 
 
 /***/ }),
-/* 5 */
-/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
+/***/ 895:
+/***/ (() => {
 
-// @ts-ignore
-try {
-    self['workbox:range-requests:5.1.4'] && _();
-}
-catch (e) { }
-
-
-/***/ }),
-/* 6 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-// @ts-ignore
-try {
-    self['workbox:expiration:5.1.4'] && _();
-}
-catch (e) { }
-
-
-/***/ }),
-/* 7 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
 
 // @ts-ignore
 try {
@@ -189,17 +27,115 @@ catch (e) { }
 
 
 /***/ }),
-/* 8 */,
-/* 9 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-"use strict";
-// ESM COMPAT FLAG
-__webpack_require__.r(__webpack_exports__);
+/***/ 913:
+/***/ (() => {
+
+
+// @ts-ignore
+try {
+    self['workbox:core:5.1.4'] && _();
+}
+catch (e) { }
+
+
+/***/ }),
+
+/***/ 550:
+/***/ (() => {
+
+
+// @ts-ignore
+try {
+    self['workbox:expiration:5.1.4'] && _();
+}
+catch (e) { }
+
+
+/***/ }),
+
+/***/ 977:
+/***/ (() => {
+
+
+// @ts-ignore
+try {
+    self['workbox:precaching:5.1.4'] && _();
+}
+catch (e) { }
+
+
+/***/ }),
+
+/***/ 762:
+/***/ (() => {
+
+
+// @ts-ignore
+try {
+    self['workbox:range-requests:5.1.4'] && _();
+}
+catch (e) { }
+
+
+/***/ }),
+
+/***/ 80:
+/***/ (() => {
+
+
+// @ts-ignore
+try {
+    self['workbox:routing:5.1.4'] && _();
+}
+catch (e) { }
+
+
+/***/ }),
+
+/***/ 873:
+/***/ (() => {
+
+
+// @ts-ignore
+try {
+    self['workbox:strategies:5.1.4'] && _();
+}
+catch (e) { }
+
+
+/***/ })
+
+/******/ 	});
+/************************************************************************/
+/******/ 	// The module cache
+/******/ 	var __webpack_module_cache__ = {};
+/******/ 	
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/ 		// Check if module is in cache
+/******/ 		if(__webpack_module_cache__[moduleId]) {
+/******/ 			return __webpack_module_cache__[moduleId].exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = __webpack_module_cache__[moduleId] = {
+/******/ 			// no module.id needed
+/******/ 			// no module.loaded needed
+/******/ 			exports: {}
+/******/ 		};
+/******/ 	
+/******/ 		// Execute the module function
+/******/ 		__webpack_modules__[moduleId](module, module.exports, __webpack_require__);
+/******/ 	
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/ 	
+/************************************************************************/
+(() => {
 
 // EXTERNAL MODULE: ./node_modules/workbox-core/_version.js
-var _version = __webpack_require__(0);
-
+var _version = __webpack_require__(913);
 // CONCATENATED MODULE: ./node_modules/workbox-core/_private/logger.js
 /*
   Copyright 2019 Google LLC
@@ -208,7 +144,7 @@ var _version = __webpack_require__(0);
   https://opensource.org/licenses/MIT.
 */
 
-const logger = ( true ? null : undefined);
+const logger_logger = ( true ? null : 0);
 
 
 // CONCATENATED MODULE: ./node_modules/workbox-core/models/messages/messages.js
@@ -220,7 +156,7 @@ const logger = ( true ? null : undefined);
   https://opensource.org/licenses/MIT.
 */
 
-const messages = {
+const messages_messages = {
     'invalid-value': ({ paramName, validValueDescription, value }) => {
         if (!paramName || !validValueDescription) {
             throw new Error(`Unexpected input to 'invalid-value' error.`);
@@ -450,7 +386,7 @@ const generatorFunction = (code, details = {}) => {
     return message(details);
 };
 const messageGenerator = ( true) ?
-    fallback : undefined;
+    fallback : 0;
 
 // CONCATENATED MODULE: ./node_modules/workbox-core/_private/WorkboxError.js
 /*
@@ -507,37 +443,37 @@ class WorkboxError_WorkboxError extends Error {
  */
 const isArray = (value, details) => {
     if (!Array.isArray(value)) {
-        throw new WorkboxError_WorkboxError('not-an-array', details);
+        throw new WorkboxError('not-an-array', details);
     }
 };
 const hasMethod = (object, expectedMethod, details) => {
     const type = typeof object[expectedMethod];
     if (type !== 'function') {
         details['expectedMethod'] = expectedMethod;
-        throw new WorkboxError_WorkboxError('missing-a-method', details);
+        throw new WorkboxError('missing-a-method', details);
     }
 };
 const isType = (object, expectedType, details) => {
     if (typeof object !== expectedType) {
         details['expectedType'] = expectedType;
-        throw new WorkboxError_WorkboxError('incorrect-type', details);
+        throw new WorkboxError('incorrect-type', details);
     }
 };
 const isInstance = (object, expectedClass, details) => {
     if (!(object instanceof expectedClass)) {
         details['expectedClass'] = expectedClass;
-        throw new WorkboxError_WorkboxError('incorrect-class', details);
+        throw new WorkboxError('incorrect-class', details);
     }
 };
 const isOneOf = (value, validValues, details) => {
     if (!validValues.includes(value)) {
         details['validValueDescription'] =
             `Valid values are ${JSON.stringify(validValues)}.`;
-        throw new WorkboxError_WorkboxError('invalid-value', details);
+        throw new WorkboxError('invalid-value', details);
     }
 };
 const isArrayOfClass = (value, expectedClass, details) => {
-    const error = new WorkboxError_WorkboxError('not-array-of-class', details);
+    const error = new WorkboxError('not-array-of-class', details);
     if (!Array.isArray(value)) {
         throw error;
     }
@@ -547,7 +483,7 @@ const isArrayOfClass = (value, expectedClass, details) => {
         }
     }
 };
-const finalAssertExports =  true ? null : undefined;
+const finalAssertExports =  true ? null : 0;
 
 
 // CONCATENATED MODULE: ./node_modules/workbox-core/models/quotaErrorCallbacks.js
@@ -615,7 +551,7 @@ const eachCacheNameDetail = (fn) => {
         fn(key);
     }
 };
-const cacheNames = {
+const cacheNames_cacheNames = {
     updateDetails: (details) => {
         eachCacheNameDetail((key) => {
             if (typeof details[key] === 'string') {
@@ -882,7 +818,7 @@ const putWrapper = async ({ cacheName, request, response, event, plugins = [], m
         });
     }
 };
-const cacheWrapper = {
+const cacheWrapper_cacheWrapper = {
     put: putWrapper,
     match: matchWrapper,
 };
@@ -941,7 +877,7 @@ let canConstructResponseFromBodyStream_supportStatus;
  *
  * @private
  */
-function canConstructResponseFromBodyStream() {
+function canConstructResponseFromBodyStream_canConstructResponseFromBodyStream() {
     if (canConstructResponseFromBodyStream_supportStatus === undefined) {
         const testResponse = new Response('');
         if ('body' in testResponse) {
@@ -1401,7 +1337,7 @@ const wrappedFetch = async ({ request, fetchOptions, event, plugins = [], }) => 
         throw error;
     }
 };
-const fetchWrapper = {
+const fetchWrapper_fetchWrapper = {
     fetch: wrappedFetch,
 };
 
@@ -1529,21 +1465,21 @@ async function resultingClientExists(resultingClientId) {
  *
  * @memberof module:workbox-core
  */
-const cacheNames_cacheNames = {
+const workbox_core_cacheNames_cacheNames = {
     get googleAnalytics() {
-        return cacheNames.getGoogleAnalyticsName();
+        return cacheNames_cacheNames.getGoogleAnalyticsName();
     },
     get precache() {
-        return cacheNames.getPrecacheName();
+        return cacheNames_cacheNames.getPrecacheName();
     },
     get prefix() {
-        return cacheNames.getPrefix();
+        return cacheNames_cacheNames.getPrefix();
     },
     get runtime() {
-        return cacheNames.getRuntimeName();
+        return cacheNames_cacheNames.getRuntimeName();
     },
     get suffix() {
-        return cacheNames.getSuffix();
+        return cacheNames_cacheNames.getSuffix();
     },
 };
 
@@ -1574,7 +1510,7 @@ const cacheNames_cacheNames = {
  * @param {Function} modifier
  * @memberof module:workbox-core
  */
-async function copyResponse(response, modifier) {
+async function copyResponse_copyResponse(response, modifier) {
     const clonedResponse = response.clone();
     // Create a fresh `ResponseInit` object by cloning the headers.
     const responseInit = {
@@ -1710,8 +1646,7 @@ function skipWaiting() {
 // CONCATENATED MODULE: ./node_modules/workbox-core/index.mjs
 
 // EXTERNAL MODULE: ./node_modules/workbox-broadcast-update/_version.js
-var workbox_broadcast_update_version = __webpack_require__(4);
-
+var workbox_broadcast_update_version = __webpack_require__(294);
 // CONCATENATED MODULE: ./node_modules/workbox-broadcast-update/responsesAreSame.js
 /*
   Copyright 2018 Google LLC
@@ -1814,7 +1749,7 @@ function defaultPayloadGenerator(data) {
  *
  * @memberof module:workbox-broadcast-update
  */
-class BroadcastCacheUpdate_BroadcastCacheUpdate {
+class BroadcastCacheUpdate {
     /**
      * Construct a BroadcastCacheUpdate instance with a specific `channelName` to
      * broadcast messages on
@@ -1922,7 +1857,7 @@ class BroadcastCacheUpdate_BroadcastCacheUpdate {
  *
  * @memberof module:workbox-broadcast-update
  */
-class BroadcastUpdatePlugin_BroadcastUpdatePlugin {
+class BroadcastUpdatePlugin {
     /**
      * Construct a BroadcastCacheUpdate instance with the passed options and
      * calls its [`notifyIfUpdated()`]{@link module:workbox-broadcast-update.BroadcastCacheUpdate~notifyIfUpdated}
@@ -1953,7 +1888,7 @@ class BroadcastUpdatePlugin_BroadcastUpdatePlugin {
         this.cacheDidUpdate = async (options) => {
             dontWaitFor(this._broadcastUpdate.notifyIfUpdated(options));
         };
-        this._broadcastUpdate = new BroadcastCacheUpdate_BroadcastCacheUpdate(options);
+        this._broadcastUpdate = new BroadcastCacheUpdate(options);
     }
 }
 
@@ -1978,8 +1913,7 @@ class BroadcastUpdatePlugin_BroadcastUpdatePlugin {
 // CONCATENATED MODULE: ./node_modules/workbox-broadcast-update/index.mjs
 
 // EXTERNAL MODULE: ./node_modules/workbox-precaching/_version.js
-var workbox_precaching_version = __webpack_require__(1);
-
+var workbox_precaching_version = __webpack_require__(977);
 // CONCATENATED MODULE: ./node_modules/workbox-precaching/utils/precachePlugins.js
 /*
   Copyright 2019 Google LLC
@@ -1989,21 +1923,21 @@ var workbox_precaching_version = __webpack_require__(1);
   https://opensource.org/licenses/MIT.
 */
 
-const precachePlugins_plugins = [];
-const precachePlugins = {
+const plugins = [];
+const precachePlugins_precachePlugins = {
     /*
      * @return {Array}
      * @private
      */
     get() {
-        return precachePlugins_plugins;
+        return plugins;
     },
     /*
      * @param {Array} newPlugins
      * @private
      */
     add(newPlugins) {
-        precachePlugins_plugins.push(...newPlugins);
+        plugins.push(...newPlugins);
     },
 };
 
@@ -2050,9 +1984,9 @@ const REVISION_SEARCH_PARAM = '__WB_REVISION__';
  * @private
  * @memberof module:workbox-precaching
  */
-function createCacheKey(entry) {
+function createCacheKey_createCacheKey(entry) {
     if (!entry) {
-        throw new WorkboxError_WorkboxError('add-to-cache-list-unexpected-type', { entry });
+        throw new WorkboxError('add-to-cache-list-unexpected-type', { entry });
     }
     // If a precache manifest entry is a string, it's assumed to be a versioned
     // URL, like '/app.abcd1234.js'. Return as-is.
@@ -2065,7 +1999,7 @@ function createCacheKey(entry) {
     }
     const { revision, url } = entry;
     if (!url) {
-        throw new WorkboxError_WorkboxError('add-to-cache-list-unexpected-type', { entry });
+        throw new WorkboxError('add-to-cache-list-unexpected-type', { entry });
     }
     // If there's just a URL and no revision, then it's also assumed to be a
     // versioned URL.
@@ -2237,7 +2171,7 @@ class PrecacheController_PrecacheController {
                 'reload' : 'default';
             if (this._urlsToCacheKeys.has(url) &&
                 this._urlsToCacheKeys.get(url) !== cacheKey) {
-                throw new WorkboxError_WorkboxError('add-to-cache-list-conflicting-entries', {
+                throw new WorkboxError('add-to-cache-list-conflicting-entries', {
                     firstEntry: this._urlsToCacheKeys.get(url),
                     secondEntry: cacheKey,
                 });
@@ -2245,7 +2179,7 @@ class PrecacheController_PrecacheController {
             if (typeof entry !== 'string' && entry.integrity) {
                 if (this._cacheKeysToIntegrities.has(cacheKey) &&
                     this._cacheKeysToIntegrities.get(cacheKey) !== entry.integrity) {
-                    throw new WorkboxError_WorkboxError('add-to-cache-list-conflicting-integrities', {
+                    throw new WorkboxError('add-to-cache-list-conflicting-integrities', {
                         url,
                     });
                 }
@@ -2382,7 +2316,7 @@ class PrecacheController_PrecacheController {
         // Consider this a failure, leading to the `install` handler failing, if
         // we get back an invalid response.
         if (!isValidResponse) {
-            throw new WorkboxError_WorkboxError('bad-precaching-response', {
+            throw new WorkboxError('bad-precaching-response', {
                 url,
                 status: response.status,
             });
@@ -2485,7 +2419,7 @@ class PrecacheController_PrecacheController {
                 }
                 // This shouldn't normally happen, but there are edge cases:
                 // https://github.com/GoogleChrome/workbox/issues/1441
-                throw new WorkboxError_WorkboxError('missing-precache-entry', {
+                throw new WorkboxError('missing-precache-entry', {
                     cacheName: this._cacheName,
                     url: request instanceof Request ? request.url : request,
                 });
@@ -2516,7 +2450,7 @@ class PrecacheController_PrecacheController {
     createHandlerBoundToURL(url, fallbackToNetwork = true) {
         const cacheKey = this.getCacheKeyForURL(url);
         if (!cacheKey) {
-            throw new WorkboxError_WorkboxError('non-precached-url', { url });
+            throw new WorkboxError('non-precached-url', { url });
         }
         const handler = this.createHandler(fallbackToNetwork);
         const request = new Request(url);
@@ -2535,16 +2469,16 @@ class PrecacheController_PrecacheController {
 */
 
 
-let getOrCreatePrecacheController_precacheController;
+let precacheController;
 /**
  * @return {PrecacheController}
  * @private
  */
-const getOrCreatePrecacheController = () => {
-    if (!getOrCreatePrecacheController_precacheController) {
-        getOrCreatePrecacheController_precacheController = new PrecacheController_PrecacheController();
+const getOrCreatePrecacheController_getOrCreatePrecacheController = () => {
+    if (!precacheController) {
+        precacheController = new PrecacheController();
     }
-    return getOrCreatePrecacheController_precacheController;
+    return precacheController;
 };
 
 // CONCATENATED MODULE: ./node_modules/workbox-precaching/utils/removeIgnoredSearchParams.js
@@ -2568,7 +2502,7 @@ const getOrCreatePrecacheController = () => {
  * @private
  * @memberof module:workbox-precaching
  */
-function removeIgnoredSearchParams(urlObject, ignoreURLParametersMatching = []) {
+function removeIgnoredSearchParams_removeIgnoredSearchParams(urlObject, ignoreURLParametersMatching = []) {
     // Convert the iterable into an array at the start of the loop to make sure
     // deletion doesn't mess up iteration.
     for (const paramName of [...urlObject.searchParams.keys()]) {
@@ -2599,7 +2533,7 @@ function removeIgnoredSearchParams(urlObject, ignoreURLParametersMatching = []) 
  * @private
  * @memberof module:workbox-precaching
  */
-function* generateURLVariations(url, { ignoreURLParametersMatching, directoryIndex, cleanURLs, urlManipulation, } = {}) {
+function* generateURLVariations_generateURLVariations(url, { ignoreURLParametersMatching, directoryIndex, cleanURLs, urlManipulation, } = {}) {
     const urlObject = new URL(url, location.href);
     urlObject.hash = '';
     yield urlObject.href;
@@ -2645,7 +2579,7 @@ function* generateURLVariations(url, { ignoreURLParametersMatching, directoryInd
  *
  * @private
  */
-const getCacheKeyForURL = (url, options) => {
+const getCacheKeyForURL_getCacheKeyForURL = (url, options) => {
     const precacheController = getOrCreatePrecacheController();
     const urlsToCacheKeys = precacheController.getURLsToCacheKeys();
     for (const possibleURL of generateURLVariations(url, options)) {
@@ -2696,7 +2630,7 @@ const getCacheKeyForURL = (url, options) => {
  * This is a function that should take a URL and return an array of
  * alternative URLs that should be checked for precache matches.
  */
-const addFetchListener = ({ ignoreURLParametersMatching = [/^utm_/], directoryIndex = 'index.html', cleanURLs = true, urlManipulation, } = {}) => {
+const addFetchListener_addFetchListener = ({ ignoreURLParametersMatching = [/^utm_/], directoryIndex = 'index.html', cleanURLs = true, urlManipulation, } = {}) => {
     const cacheName = cacheNames.getPrecacheName();
     // See https://github.com/Microsoft/TypeScript/issues/28357#issuecomment-436484705
     self.addEventListener('fetch', ((event) => {
@@ -2760,7 +2694,7 @@ let listenerAdded = false;
  *
  * @memberof module:workbox-precaching
  */
-function addRoute(options) {
+function addRoute_addRoute(options) {
     if (!listenerAdded) {
         addFetchListener(options);
         listenerAdded = true;
@@ -2829,7 +2763,7 @@ const deleteOutdatedCaches = async (currentPrecacheName, substringToFind = SUBST
 function cleanupOutdatedCaches() {
     // See https://github.com/Microsoft/TypeScript/issues/28357#issuecomment-436484705
     self.addEventListener('activate', ((event) => {
-        const cacheName = cacheNames.getPrecacheName();
+        const cacheName = cacheNames_cacheNames.getPrecacheName();
         event.waitUntil(deleteOutdatedCaches(cacheName).then((cachesDeleted) => {
             if (false) {}
         }));
@@ -2930,7 +2864,7 @@ function createHandlerBoundToURL(url) {
  *
  * @memberof module:workbox-precaching
  */
-function getCacheKeyForURL_getCacheKeyForURL(url) {
+function workbox_precaching_getCacheKeyForURL_getCacheKeyForURL(url) {
     const precacheController = getOrCreatePrecacheController();
     return precacheController.getCacheKeyForURL(url);
 }
@@ -3012,7 +2946,7 @@ const activateListener = (event) => {
  *
  * @memberof module:workbox-precaching
  */
-function precache(entries) {
+function precache_precache(entries) {
     const precacheController = getOrCreatePrecacheController();
     precacheController.addToCacheList(entries);
     if (entries.length > 0) {
@@ -3093,8 +3027,7 @@ function precacheAndRoute(entries, options) {
 // CONCATENATED MODULE: ./node_modules/workbox-precaching/index.mjs
 
 // EXTERNAL MODULE: ./node_modules/workbox-routing/_version.js
-var workbox_routing_version = __webpack_require__(2);
-
+var workbox_routing_version = __webpack_require__(80);
 // CONCATENATED MODULE: ./node_modules/workbox-routing/utils/constants.js
 /*
   Copyright 2018 Google LLC
@@ -3120,14 +3053,14 @@ const defaultMethod = 'GET';
  *
  * @private
  */
-const validMethods = [
+const validMethods = (/* unused pure expression or super */ null && ([
     'DELETE',
     'GET',
     'HEAD',
     'PATCH',
     'POST',
     'PUT',
-];
+]));
 
 // CONCATENATED MODULE: ./node_modules/workbox-routing/utils/normalizeHandler.js
 /*
@@ -3228,7 +3161,7 @@ class Route_Route {
  * @memberof module:workbox-routing
  * @extends module:workbox-routing.Route
  */
-class NavigationRoute_NavigationRoute extends Route_Route {
+class NavigationRoute extends (/* unused pure expression or super */ null && (Route)) {
     /**
      * If both `denylist` and `allowlist` are provided, the `denylist` will
      * take precedence and the request will not match this route.
@@ -3310,7 +3243,7 @@ class NavigationRoute_NavigationRoute extends Route_Route {
  * @memberof module:workbox-routing
  * @extends module:workbox-routing.Route
  */
-class RegExpRoute_RegExpRoute extends Route_Route {
+class RegExpRoute extends Route_Route {
     /**
      * If the regular expression contains
      * [capture groups]{@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp#grouping-back-references},
@@ -3382,7 +3315,7 @@ class RegExpRoute_RegExpRoute extends Route_Route {
  *
  * @memberof module:workbox-routing
  */
-class Router_Router {
+class Router {
     /**
      * Initializes a new Router.
      */
@@ -3622,7 +3555,7 @@ class Router_Router {
 */
 
 
-let getOrCreateDefaultRouter_defaultRouter;
+let defaultRouter;
 /**
  * Creates a new, singleton Router instance if one does not exist. If one
  * does already exist, that instance is returned.
@@ -3630,14 +3563,14 @@ let getOrCreateDefaultRouter_defaultRouter;
  * @private
  * @return {Router}
  */
-const getOrCreateDefaultRouter = () => {
-    if (!getOrCreateDefaultRouter_defaultRouter) {
-        getOrCreateDefaultRouter_defaultRouter = new Router_Router();
+const getOrCreateDefaultRouter_getOrCreateDefaultRouter = () => {
+    if (!defaultRouter) {
+        defaultRouter = new Router();
         // The helpers that use the default Router assume these listeners exist.
-        getOrCreateDefaultRouter_defaultRouter.addFetchListener();
-        getOrCreateDefaultRouter_defaultRouter.addCacheListener();
+        defaultRouter.addFetchListener();
+        defaultRouter.addCacheListener();
     }
-    return getOrCreateDefaultRouter_defaultRouter;
+    return defaultRouter;
 };
 
 // CONCATENATED MODULE: ./node_modules/workbox-routing/registerRoute.js
@@ -3687,7 +3620,7 @@ function registerRoute(capture, handler, method) {
     }
     else if (capture instanceof RegExp) {
         // If `capture` is a `RegExp` then `handler` and `method` must be present.
-        route = new RegExpRoute_RegExpRoute(capture, handler, method);
+        route = new RegExpRoute(capture, handler, method);
     }
     else if (typeof capture === 'function') {
         // If `capture` is a function then `handler` and `method` must be present.
@@ -3703,7 +3636,7 @@ function registerRoute(capture, handler, method) {
             paramName: 'capture',
         });
     }
-    const defaultRouter = getOrCreateDefaultRouter();
+    const defaultRouter = getOrCreateDefaultRouter_getOrCreateDefaultRouter();
     defaultRouter.registerRoute(route);
     return route;
 }
@@ -3757,7 +3690,7 @@ function setCatchHandler(handler) {
  * @memberof module:workbox-routing
  */
 function setDefaultHandler(handler) {
-    const defaultRouter = getOrCreateDefaultRouter();
+    const defaultRouter = getOrCreateDefaultRouter_getOrCreateDefaultRouter();
     defaultRouter.setDefaultHandler(handler);
 }
 
@@ -3786,8 +3719,7 @@ function setDefaultHandler(handler) {
 // CONCATENATED MODULE: ./node_modules/workbox-routing/index.mjs
 
 // EXTERNAL MODULE: ./node_modules/workbox-strategies/_version.js
-var workbox_strategies_version = __webpack_require__(3);
-
+var workbox_strategies_version = __webpack_require__(873);
 // CONCATENATED MODULE: ./node_modules/workbox-strategies/utils/messages.js
 /*
   Copyright 2018 Google LLC
@@ -3799,13 +3731,13 @@ var workbox_strategies_version = __webpack_require__(3);
 
 
 
-const messages_messages = {
+const utils_messages_messages = {
     strategyStart: (strategyName, request) => `Using ${strategyName} to respond to '${getFriendlyURL(request.url)}'`,
     printFinalResponse: (response) => {
         if (response) {
-            logger.groupCollapsed(`View the final response here.`);
-            logger.log(response || '[No response returned]');
-            logger.groupEnd();
+            logger_logger.groupCollapsed(`View the final response here.`);
+            logger_logger.log(response || '[No response returned]');
+            logger_logger.groupEnd();
         }
     },
 };
@@ -3840,7 +3772,7 @@ const messages_messages = {
  *
  * @memberof module:workbox-strategies
  */
-class CacheFirst_CacheFirst {
+class CacheFirst {
     /**
      * @param {Object} options
      * @param {string} options.cacheName Cache name to store and retrieve
@@ -3854,7 +3786,7 @@ class CacheFirst_CacheFirst {
      * @param {Object} options.matchOptions [`CacheQueryOptions`](https://w3c.github.io/ServiceWorker/#dictdef-cachequeryoptions)
      */
     constructor(options = {}) {
-        this._cacheName = cacheNames.getRuntimeName(options.cacheName);
+        this._cacheName = cacheNames_cacheNames.getRuntimeName(options.cacheName);
         this._plugins = options.plugins || [];
         this._fetchOptions = options.fetchOptions;
         this._matchOptions = options.matchOptions;
@@ -3875,7 +3807,7 @@ class CacheFirst_CacheFirst {
             request = new Request(request);
         }
         if (false) {}
-        let response = await cacheWrapper.match({
+        let response = await cacheWrapper_cacheWrapper.match({
             cacheName: this._cacheName,
             request,
             event,
@@ -3912,7 +3844,7 @@ class CacheFirst_CacheFirst {
      * @private
      */
     async _getFromNetwork(request, event) {
-        const response = await fetchWrapper.fetch({
+        const response = await fetchWrapper_fetchWrapper.fetch({
             request,
             event,
             fetchOptions: this._fetchOptions,
@@ -3920,7 +3852,7 @@ class CacheFirst_CacheFirst {
         });
         // Keep the service worker while we put the request to the cache
         const responseClone = response.clone();
-        const cachePutPromise = cacheWrapper.put({
+        const cachePutPromise = cacheWrapper_cacheWrapper.put({
             cacheName: this._cacheName,
             request,
             response: responseClone,
@@ -3967,7 +3899,7 @@ class CacheFirst_CacheFirst {
  *
  * @memberof module:workbox-strategies
  */
-class CacheOnly_CacheOnly {
+class CacheOnly {
     /**
      * @param {Object} options
      * @param {string} options.cacheName Cache name to store and retrieve
@@ -4006,7 +3938,7 @@ class CacheOnly_CacheOnly {
         });
         if (false) {}
         if (!response) {
-            throw new WorkboxError_WorkboxError('no-response', { url: request.url });
+            throw new WorkboxError('no-response', { url: request.url });
         }
         return response;
     }
@@ -4074,7 +4006,7 @@ const cacheOkAndOpaquePlugin = {
  *
  * @memberof module:workbox-strategies
  */
-class NetworkFirst_NetworkFirst {
+class NetworkFirst {
     /**
      * @param {Object} options
      * @param {string} options.cacheName Cache name to store and retrieve
@@ -4094,7 +4026,7 @@ class NetworkFirst_NetworkFirst {
      * scenarios.
      */
     constructor(options = {}) {
-        this._cacheName = cacheNames.getRuntimeName(options.cacheName);
+        this._cacheName = cacheNames_cacheNames.getRuntimeName(options.cacheName);
         if (options.plugins) {
             const isUsingCacheWillUpdate = options.plugins.some((plugin) => !!plugin.cacheWillUpdate);
             this._plugins = isUsingCacheWillUpdate ?
@@ -4187,7 +4119,7 @@ class NetworkFirst_NetworkFirst {
         let error;
         let response;
         try {
-            response = await fetchWrapper.fetch({
+            response = await fetchWrapper_fetchWrapper.fetch({
                 request,
                 event,
                 fetchOptions: this._fetchOptions,
@@ -4208,7 +4140,7 @@ class NetworkFirst_NetworkFirst {
         else {
             // Keep the service worker alive while we put the request in the cache
             const responseClone = response.clone();
-            const cachePut = cacheWrapper.put({
+            const cachePut = cacheWrapper_cacheWrapper.put({
                 cacheName: this._cacheName,
                 request,
                 response: responseClone,
@@ -4239,7 +4171,7 @@ class NetworkFirst_NetworkFirst {
      * @private
      */
     _respondFromCache({ event, request }) {
-        return cacheWrapper.match({
+        return cacheWrapper_cacheWrapper.match({
             cacheName: this._cacheName,
             request,
             event,
@@ -4276,7 +4208,7 @@ class NetworkFirst_NetworkFirst {
  *
  * @memberof module:workbox-strategies
  */
-class NetworkOnly_NetworkOnly {
+class NetworkOnly {
     /**
      * @param {Object} options
      * @param {string} options.cacheName Cache name to store and retrieve
@@ -4310,7 +4242,7 @@ class NetworkOnly_NetworkOnly {
         let error;
         let response;
         try {
-            response = await fetchWrapper.fetch({
+            response = await fetchWrapper_fetchWrapper.fetch({
                 request,
                 event,
                 fetchOptions: this._fetchOptions,
@@ -4367,7 +4299,7 @@ class NetworkOnly_NetworkOnly {
  *
  * @memberof module:workbox-strategies
  */
-class StaleWhileRevalidate_StaleWhileRevalidate {
+class StaleWhileRevalidate {
     /**
      * @param {Object} options
      * @param {string} options.cacheName Cache name to store and retrieve
@@ -4381,7 +4313,7 @@ class StaleWhileRevalidate_StaleWhileRevalidate {
      * @param {Object} options.matchOptions [`CacheQueryOptions`](https://w3c.github.io/ServiceWorker/#dictdef-cachequeryoptions)
      */
     constructor(options = {}) {
-        this._cacheName = cacheNames.getRuntimeName(options.cacheName);
+        this._cacheName = cacheNames_cacheNames.getRuntimeName(options.cacheName);
         this._plugins = options.plugins || [];
         if (options.plugins) {
             const isUsingCacheWillUpdate = options.plugins.some((plugin) => !!plugin.cacheWillUpdate);
@@ -4412,7 +4344,7 @@ class StaleWhileRevalidate_StaleWhileRevalidate {
         }
         if (false) {}
         const fetchAndCachePromise = this._getFromNetwork({ request, event });
-        let response = await cacheWrapper.match({
+        let response = await cacheWrapper_cacheWrapper.match({
             cacheName: this._cacheName,
             request,
             event,
@@ -4455,13 +4387,13 @@ class StaleWhileRevalidate_StaleWhileRevalidate {
      * @private
      */
     async _getFromNetwork({ request, event }) {
-        const response = await fetchWrapper.fetch({
+        const response = await fetchWrapper_fetchWrapper.fetch({
             request,
             event,
             fetchOptions: this._fetchOptions,
             plugins: this._plugins,
         });
-        const cachePutPromise = cacheWrapper.put({
+        const cachePutPromise = cacheWrapper_cacheWrapper.put({
             cacheName: this._cacheName,
             request,
             response: response.clone(),
@@ -4506,8 +4438,7 @@ class StaleWhileRevalidate_StaleWhileRevalidate {
 // CONCATENATED MODULE: ./node_modules/workbox-strategies/index.mjs
 
 // EXTERNAL MODULE: ./node_modules/workbox-cacheable-response/_version.js
-var workbox_cacheable_response_version = __webpack_require__(7);
-
+var workbox_cacheable_response_version = __webpack_require__(895);
 // CONCATENATED MODULE: ./node_modules/workbox-cacheable-response/CacheableResponse.js
 /*
   Copyright 2018 Google LLC
@@ -4592,7 +4523,7 @@ class CacheableResponse {
  *
  * @memberof module:workbox-cacheable-response
  */
-class CacheableResponsePlugin_CacheableResponsePlugin {
+class CacheableResponsePlugin {
     /**
      * To construct a new CacheableResponsePlugin instance you must provide at
      * least one of the `config` properties.
@@ -4644,8 +4575,7 @@ class CacheableResponsePlugin_CacheableResponsePlugin {
 // CONCATENATED MODULE: ./node_modules/workbox-cacheable-response/index.mjs
 
 // EXTERNAL MODULE: ./node_modules/workbox-range-requests/_version.js
-var workbox_range_requests_version = __webpack_require__(5);
-
+var workbox_range_requests_version = __webpack_require__(762);
 // CONCATENATED MODULE: ./node_modules/workbox-range-requests/utils/calculateEffectiveBoundaries.js
 /*
   Copyright 2018 Google LLC
@@ -4832,7 +4762,7 @@ async function createPartialResponse(request, originalResponse) {
  *
  * @memberof module:workbox-range-requests
  */
-class RangeRequestsPlugin_RangeRequestsPlugin {
+class RangeRequestsPlugin {
     constructor() {
         /**
          * @param {Object} options
@@ -4892,15 +4822,14 @@ registerRoute((_ref) => {
     event
   } = _ref;
   return event.request.destination === 'video';
-}, new CacheFirst_CacheFirst({
+}, new CacheFirst({
   cacheName: 'videos',
-  plugins: [new CacheableResponsePlugin_CacheableResponsePlugin({
+  plugins: [new CacheableResponsePlugin({
     statuses: [200]
-  }), new RangeRequestsPlugin_RangeRequestsPlugin()]
+  }), new RangeRequestsPlugin()]
 }));
 // EXTERNAL MODULE: ./node_modules/workbox-expiration/_version.js
-var workbox_expiration_version = __webpack_require__(6);
-
+var workbox_expiration_version = __webpack_require__(550);
 // CONCATENATED MODULE: ./node_modules/workbox-expiration/models/CacheTimestampsModel.js
 /*
   Copyright 2018 Google LLC
@@ -4924,7 +4853,7 @@ const normalizeURL = (unNormalizedUrl) => {
  *
  * @private
  */
-class CacheTimestampsModel_CacheTimestampsModel {
+class CacheTimestampsModel {
     /**
      *
      * @param {string} cacheName
@@ -5089,7 +5018,7 @@ class CacheTimestampsModel_CacheTimestampsModel {
  *
  * @memberof module:workbox-expiration
  */
-class CacheExpiration_CacheExpiration {
+class CacheExpiration {
     /**
      * To construct a new CacheExpiration instance you must provide at least
      * one of the `config` properties.
@@ -5108,7 +5037,7 @@ class CacheExpiration_CacheExpiration {
         this._maxEntries = config.maxEntries;
         this._maxAgeSeconds = config.maxAgeSeconds;
         this._cacheName = cacheName;
-        this._timestampModel = new CacheTimestampsModel_CacheTimestampsModel(cacheName);
+        this._timestampModel = new CacheTimestampsModel(cacheName);
     }
     /**
      * Expires entries for the given cache and given criteria.
@@ -5215,7 +5144,7 @@ class CacheExpiration_CacheExpiration {
  *
  * @memberof module:workbox-expiration
  */
-class ExpirationPlugin_ExpirationPlugin {
+class ExpirationPlugin {
     /**
      * @param {Object} config
      * @param {number} [config.maxEntries] The maximum number of entries to cache.
@@ -5299,12 +5228,12 @@ class ExpirationPlugin_ExpirationPlugin {
      * @private
      */
     _getCacheExpiration(cacheName) {
-        if (cacheName === cacheNames.getRuntimeName()) {
+        if (cacheName === cacheNames_cacheNames.getRuntimeName()) {
             throw new WorkboxError_WorkboxError('expire-custom-caches-only');
         }
         let cacheExpiration = this._cacheExpirations.get(cacheName);
         if (!cacheExpiration) {
-            cacheExpiration = new CacheExpiration_CacheExpiration(cacheName, this._config);
+            cacheExpiration = new CacheExpiration(cacheName, this._config);
             this._cacheExpirations.set(cacheName, cacheExpiration);
         }
         return cacheExpiration;
@@ -5416,9 +5345,9 @@ registerRoute((_ref) => {
     request
   } = _ref;
   return request.destination === 'image';
-}, new CacheFirst_CacheFirst({
+}, new CacheFirst({
   cacheName: 'images',
-  plugins: [new ExpirationPlugin_ExpirationPlugin({
+  plugins: [new ExpirationPlugin({
     maxEntries: 60,
     maxAgeSeconds: 30 * 24 * 60 * 60 // 30 Days
 
@@ -5433,10 +5362,10 @@ registerRoute((_ref) => {
     request
   } = _ref;
   return request.destination === 'document';
-}, new NetworkFirst_NetworkFirst({
+}, new NetworkFirst({
   cacheName: 'pages',
   networkTimeoutSeconds: 5,
-  plugins: [new BroadcastUpdatePlugin_BroadcastUpdatePlugin()]
+  plugins: [new BroadcastUpdatePlugin()]
 }));
 // CONCATENATED MODULE: ./_src/sw/subscripts/cache-google-fonts.js
 
@@ -5444,15 +5373,15 @@ registerRoute((_ref) => {
 
  // Cache the Google Fonts stylesheets with a stale-while-revalidate strategy.
 
-registerRoute(/^https:\/\/fonts\.googleapis\.com/, new StaleWhileRevalidate_StaleWhileRevalidate({
+registerRoute(/^https:\/\/fonts\.googleapis\.com/, new StaleWhileRevalidate({
   cacheName: 'google-fonts-stylesheets'
 })); // Cache the underlying font files with a cache-first strategy for 1 year.
 
-registerRoute(/^https:\/\/fonts\.gstatic\.com/, new CacheFirst_CacheFirst({
+registerRoute(/^https:\/\/fonts\.gstatic\.com/, new CacheFirst({
   cacheName: 'google-fonts-webfonts',
-  plugins: [new CacheableResponsePlugin_CacheableResponsePlugin({
+  plugins: [new CacheableResponsePlugin({
     statuses: [0, 200]
-  }), new ExpirationPlugin_ExpirationPlugin({
+  }), new ExpirationPlugin({
     maxAgeSeconds: 60 * 60 * 24 * 365,
     maxEntries: 30
   })]
@@ -5461,7 +5390,7 @@ registerRoute(/^https:\/\/fonts\.gstatic\.com/, new CacheFirst_CacheFirst({
 
  // Never cache Matomo calls
 
-registerRoute(/^https:\/\/analytics\.schapira\.dev/, new NetworkOnly_NetworkOnly());
+registerRoute(/^https:\/\/analytics\.schapira\.dev/, new NetworkOnly());
 // CONCATENATED MODULE: ./_src/sw/sw.js
 
 
@@ -5470,9 +5399,9 @@ registerRoute(/^https:\/\/analytics\.schapira\.dev/, new NetworkOnly_NetworkOnly
 
 cleanupOutdatedCaches(); // default strategy
 
-setDefaultHandler(new StaleWhileRevalidate_StaleWhileRevalidate({
+setDefaultHandler(new StaleWhileRevalidate({
   cacheName: 'bsc-r2d2',
-  plugins: [new BroadcastUpdatePlugin_BroadcastUpdatePlugin()]
+  plugins: [new BroadcastUpdatePlugin()]
 })); // specialized strategies
 
 
@@ -5490,7 +5419,8 @@ self.addEventListener('message', event => {
 });
 skipWaiting();
 clientsClaim();
+})();
 
-/***/ })
-/******/ ]);
+/******/ })()
+;
 //# sourceMappingURL=sw.js.map
