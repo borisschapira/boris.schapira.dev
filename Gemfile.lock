@@ -1,19 +1,4 @@
 GIT
-  remote: https://github.com/Shopify/liquid-c.git
-  revision: ad9b8c2a86a1225ec6f25d8dbb35673f527ea857
-  branch: master
-  specs:
-    liquid-c (4.0.0)
-      liquid (>= 3.0.0)
-
-GIT
-  remote: https://github.com/Shopify/liquid.git
-  revision: ca4b9b43af999a7f9577ff07a4b190ad50d9088b
-  branch: master
-  specs:
-    liquid (4.0.3)
-
-GIT
   remote: https://github.com/borisschapira/jekyll-paginate-v2.git
   revision: a61041868640dafe45513d28549499dfdad5d64e
   branch: default-values
@@ -100,6 +85,9 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
+    liquid (4.0.3)
+    liquid-c (4.0.0)
+      liquid (>= 3.0.0)
     listen (3.2.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -147,8 +135,8 @@ DEPENDENCIES
   jekyll-microtypo
   jekyll-paginate-v2!
   jekyll-sitemap
-  liquid!
-  liquid-c!
+  liquid (~> 4.0)
+  liquid-c
   rake
 
 RUBY VERSION

@@ -6,8 +6,8 @@ ruby '2.6.2' unless Gem.win_platform?
 gem 'jekyll'
 
 # Optimize Liquid compilation
-gem 'liquid', git: 'https://github.com/Shopify/liquid.git', branch: 'master'
-gem 'liquid-c', git: 'https://github.com/Shopify/liquid-c.git', branch: 'master' unless Gem.win_platform?
+gem 'liquid', '~> 4.0'
+gem 'liquid-c' unless Gem.win_platform?
 
 gem 'rake'
 
