@@ -167,7 +167,9 @@ Le sujet est très complexe. Je ne suis pas certain que l'algorithme soit
 suffisament complexe pour être pertinent dans un contexte de
 <em lang="en">ranking</em>.
 
-<ins class="bloc" datetime="2020-09-15">Depuis, j'ai pris le temps de décortiquer l'indicateur et son algorithme pour en liver une analyse : "[Cumulative Layout Shift, l’indicateur de stabilité de la mise en page](/notes/2020-09-cumulative-layout-shift-stabilite-page/)".</ins>
+<ins class="bloc" datetime="2020-09-15">Depuis, j'ai pris le temps de
+décortiquer l'indicateur et son algorithme pour en liver une analyse :
+"[Cumulative Layout Shift, l’indicateur de stabilité de la mise en page](/notes/2020-09-cumulative-layout-shift-stabilite-page/)".</ins>
 
 ---
 

@@ -25,8 +25,8 @@ J'en suis resté muet, effrayé par les raccourcis de cette simple phrase. Pour 
 Néandertal, puisque je m'occupe de mon nouveau-né, c'est donc que je suis
 homosexuel : c'est bien connu, les hétéros virils ne s'occupent de leurs enfants
 qu'à partir de 6 ans. Connerie pure et homophobie flagrante. Mais ce n'est pas
-ce qui m'inquiète. Des cons, il y en a toujours eu, et il faut, tant que
-c'est possible, les ignorer.
+ce qui m'inquiète. Des cons, il y en a toujours eu, et il faut, tant que c'est
+possible, les ignorer.
 
 En revanche, depuis tous ces débats sur le mariage pour tous et surtout, les
 "Manifs pour tous", la parole des homophobes semble décomplexée. Il y a deux
