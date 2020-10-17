@@ -183,6 +183,7 @@ exclude:
   - "README.md"
   - "Rakefile"
   - "tmp"
+  - "tests"
   - "vendor"
   - "package-lock.json"
   - _posts/**/*.json

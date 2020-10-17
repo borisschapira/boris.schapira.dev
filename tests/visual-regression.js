@@ -8,9 +8,9 @@ const puppeteer = require("puppeteer");
 const path = require("path");
 const rimraf = require("rimraf");
 
-const testDir = "./_captures/test";
-const prodDir = "./_captures/reference";
-const diffDir = "./_captures/diff";
+const testDir = "./captures/test";
+const prodDir = "./captures/reference";
+const diffDir = "./captures/diff";
 const testUrl = "https://localhost:4000";
 const tests = {
   fr: {

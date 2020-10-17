@@ -11,11 +11,6 @@ gem 'liquid-c' unless Gem.win_platform?
 
 gem 'rake'
 
-group :jekyll_tests do
-  gem 'ffi', '~> 1.11'
-  gem 'html-proofer'
-end
-
 group :jekyll_plugins do
   gem 'classifier-reborn'
   # gem 'jekyll-tagging-related_posts'

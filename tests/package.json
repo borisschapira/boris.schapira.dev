@@ -1,0 +1,22 @@
+{
+  "name": "boris-schapira-dev-tests",
+  "version": "1.0.0",
+  "description": "Post-build tests",
+  "scripts": {
+    "test:feeds": "node validate-feeds.js",
+    "test:visual": "mocha --timeout 15000 visual-regression.js",
+    "test:generatedContent": "bundle exec htmlproofer ../_site  --disable-external --empty-alt-ignore true",
+    "test": "npm-run-all 'test:*'"
+  },
+  "author": "borisschapira",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3",
+    "npm-run-all": "^4.1.5",
+    "pixelmatch": "^5.2.1",
+    "pngjs": "^5.0.0",
+    "puppeteer": "^5.3.1",
+    "rimraf": "^3.0.2"
+  }
+}
