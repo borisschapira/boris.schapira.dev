@@ -76,4 +76,7 @@ hr {
 .footnotes {
   border-top: 1px solid var(--color-main-text);
   margin: 1.7em 0;
+  &::before {
+    content: " "
+  }
 }
