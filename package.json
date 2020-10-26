@@ -98,7 +98,7 @@
     "netlify-build-plugin-dareboost": "^1.2.1",
     "netlify-lambda": "^2.0.1",
     "pixelmatch": "^5.2.1",
-    "pngjs": "^5.0.0",
+    "pngjs": "^6.0.0",
     "rimraf": "^3.0.2",
     "rss-parser": "^3.9.0",
     "slugify": "^1.4.5",
