@@ -47,7 +47,7 @@ My Ruby dependencies are managed by [Bundler](http://bundler.io/) :
 -   the micro-typography is managed by : `jekyll-microtypo`.
 
 I probably forget some of them, but you can find all the dependencies
-[on my Github repo](https://github.com/borisschapira/boris.schapira.dev/blob/prod/Gemfile 'Jekyll code for boris.schapira.dev').
+[on my Github repo](https://github.com/borisschapira/boris.schapira.dev/blob/main/Gemfile 'Jekyll code for boris.schapira.dev').
 
 Internationalization is enabled by `i18n` and the `i18n_filter`[^2].
 
