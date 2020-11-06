@@ -1,6 +1,5 @@
 ---
 title: 'Relations [virtuelles]'
-tags:
 ---
 
 > We know that happiness is mainly being satisfied with people that we like,

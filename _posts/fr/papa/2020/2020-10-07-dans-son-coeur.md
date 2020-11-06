@@ -1,5 +1,5 @@
 ---
-title: "Dans son cœur"
+title: 'Dans son cœur'
 slug: dans-son-coeur
 ---
 
@@ -17,7 +17,8 @@ Il réfléchit…
 
 Nous sommes donc en dessous des pommes.
 
-{% capture alt_text%}Une pomme qui danse.{% endcapture %}{% include video_as_a_gif.html.liquid
+{% capture alt_text%}Une pomme qui
+danse.{% endcapture %}{% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2020-10-07/pommes"
 alt=alt_text
 %}
