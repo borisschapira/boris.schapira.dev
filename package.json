@@ -95,7 +95,7 @@
     "js-md5": "^0.7.3",
     "js-yaml": "^3.14.0",
     "mkdirp": "^1.0.4",
-    "mocha": "^8.2.0",
+    "mocha": "^8.2.1",
     "netlify-build-plugin-dareboost": "^1.2.1",
     "netlify-lambda": "^2.0.1",
     "pixelmatch": "^5.2.1",
