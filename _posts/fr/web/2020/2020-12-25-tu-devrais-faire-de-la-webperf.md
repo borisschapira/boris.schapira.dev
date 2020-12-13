@@ -178,7 +178,7 @@ sujet dans sa globalité, il faut :
     ou externe), afin que chaque personne reçoive une image adaptée à son
     contexte
 
-Et je n’ai même pas encore parlé de <span lang="en">lazy loading</span>.
+Et je n’ai même pas encore parlé de <a href="https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/" lang="en" hreflang="en">lazy loading</a>.
 
 {% include rwd-image.html.liquid
 path="/assets/images/web/2020-12-02/undraw_image_viewer_wxce.png"
@@ -320,11 +320,14 @@ relectures et leurs suggestions.
 [^5]:
     [Dareboost](https://www.dareboost.com), sur lequel je travaille, est un de
     ces outils et j’en suis très fier, mais c’est loin d’être le seul.
-    <span lang="en">GTMetrix</span>, <span lang="en">Pingdom</span>,
-    <span lang="en">Speedcurve</span>, <span lang="en">Calibre</span>, entre
-    autres, proposent également des rapports instantanés et du suivi. Les
+    <a href="https://calibreapp.com/" lang="en" hreflang="en">Calibre</a>,
+    <a href="https://speedcurve.com/" lang="en" hreflang="en">Speedcurve</a>,
+    <a href="https://gtmetrix.com/" lang="en" hreflang="en">GTMetrix</a>,
+    <a href="https://www.pingdom.com/" lang="en" hreflang="en">Pingdom</a>,
+    entre autres, proposent également des rapports instantanés et du suivi. Les
     équipes de développement peuvent également utiliser
-    <span lang="en">Lighthouse</span> ou <span lang="en">WebHint</span> sur
+    <a href="https://developers.google.com/web/tools/lighthouse/" lang="en" hreflang="en">Lighthouse</a>
+    ou <a href="https://webhint.io/" lang="en" hreflang="en">WebHint</a> sur
     leurs postes.
 
 [^6]:
