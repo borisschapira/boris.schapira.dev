@@ -21,12 +21,13 @@ les détails de la mise-à-jour de ce Marketplace, destinée à corriger le tir.
 La soumission d'application supportera les formats commerciaux connus : gratuit,
 gratuit avec publicités et payant, avec la possibilité de définir via une API
 les modalités de test (notamment le sous-ensemble des fonctionnalités concerné).
-Il suffira de s'affranchir de
-99$ de frais annuels pour pouvoir soumettre autant d'applications payantes que voulu mais une limitation à 5 applications gratuites sera mise en place (au delà, le développeur devra s'acquitter de 19.99$
-par application). La soumission de mise-à-jour restera gratuite et illimitée.
-Enfin, afin de faciliter la distribution des applications, il sera désormais
-possible de publier une application à l'international sans que cela ne compte
-comme autant de publications que de marchés visés.
+Il suffira de s'affranchir de 99$ de frais annuels pour pouvoir soumettre autant
+d'applications payantes que voulu mais une limitation à 5 applications gratuites
+sera mise en place (au delà, le développeur devra s'acquitter de 19.99$ par
+application). La soumission de mise-à-jour restera gratuite et illimitée. Enfin,
+afin de faciliter la distribution des applications, il sera désormais possible
+de publier une application à l'international sans que cela ne compte comme
+autant de publications que de marchés visés.
 
 Ces nouvelles déclarations s'adressent à la fois aux groupes internationaux, qui
 n'auront pas à remettre la main à la poche pour la publication de leurs

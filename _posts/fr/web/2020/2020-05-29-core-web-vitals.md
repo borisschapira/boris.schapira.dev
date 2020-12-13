@@ -21,7 +21,9 @@ souhaite
 [faire de ces indicateurs des critères de <em lang="en">ranking</em>](https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html)
 l'année prochaine.
 
-<ins class="bloc" datetime="2020-11-10">Le déploiement est prévu <a href="https://webmasters.googleblog.com/2020/11/timing-for-page-experience.html" lang="en" title="Timing for bringing page experience to Google Search">en mai 2021</a>.</ins>
+<ins class="bloc" datetime="2020-11-10">Le déploiement est prévu
+<a href="https://webmasters.googleblog.com/2020/11/timing-for-page-experience.html" lang="en" title="Timing for bringing page experience to Google Search">en
+mai 2021</a>.</ins>
 
 Prenons un peu de recul.
 

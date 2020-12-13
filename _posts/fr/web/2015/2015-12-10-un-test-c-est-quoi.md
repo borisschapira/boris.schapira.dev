@@ -66,12 +66,12 @@ souvent <em>client-side</em>, quant l'autre partie se fait <em>server-side</em>.
 ## Exemples ?
 
 | **Technique** | **Caractéristique** | **Niveau**  | **Exemple de tests**                                                                                                                                         |
-| ------------- | ------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ------------- | ------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
 | Boîte blanche | Technique           | Unitaire    | Vérifier que la fonction `réserverVoiture(voiture)` change bien le statut de l'objet `voiture` de "DISPONIBLE" à "RESERVEE".                                 |
 | Boîte noire   | Technique           | Unitaire    | Lorsqu’une voiture est disponible, la fonction `verifierDisponibilité(voiture)` renvoie vrai.                                                                |
 | Boîte blanche | Performance         | Unitaire    | Vérifier que la fonction `réserverVoiture(voiture)` s'exécute bien en moins de 120&#8239;ms.                                                                 |
 | Boîte blanche | Technique           | Intégration | Si on essaie de réserver une voiture, les fonctions `peutLouerUneVoiture(personne)` et `estDisponible(voiture)` sont appelées.                               |
-| Boîte noire   | Fonctionnel         | Intégration | Si on essaie de louer une voiture déjà réservée, la fonction `réserverVoiture(voiture)` retourne une erreur.                                                 |  |
+| Boîte noire   | Fonctionnel         | Intégration | Si on essaie de louer une voiture déjà réservée, la fonction `réserverVoiture(voiture)` retourne une erreur.                                                 |     |
 | Boîte noire   | Performance         | Unitaire    | L’appel de la fonction `récupererUneVoiture` met moins de 200&#8239;ms à s’exécuter lorsque l’on a plus de 100&#8239;000 voitures.                           |
 | Boîte noire   | Performance         | Système     | L’affichage de la liste sur le site prend moins de 200&#8239;ms lorsque l’on a plus de 100&#8239;000 voitures.                                               |
 | Boîte noire   | Fonctionnel         | Acceptance  | Si on essaye de louer une voiture disponible, on obtient un message de succès.                                                                               |
