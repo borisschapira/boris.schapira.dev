@@ -214,6 +214,7 @@ blockquote,
   padding: 1rem;
   @extend %italic;
   border: 1px dotted var(--color-main);
+  text-align: center;
 }
 
 ins {
