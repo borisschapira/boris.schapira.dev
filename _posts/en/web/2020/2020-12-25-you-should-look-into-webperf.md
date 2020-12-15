@@ -5,8 +5,9 @@ i18n-key: you-should-look-into-webperf
 tags:
     - 'Web Performance'
 slug: you-should-look-into-webperf
+canonical: https://calendar.perfplanet.com/2020/you-should-look-into-webperf/
 translations:
-    en: tu-devrais-faire-de-la-webperf
+    fr: tu-devrais-faire-de-la-webperf
 ---
 
 Dear fellow web professional, you should be interested in Web Performance. It's
@@ -16,6 +17,12 @@ and you're right. So let me tell you where we stand. and why we need you to join
 us.
 
 <!-- more -->
+
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.title
+    canonical=page.canonical
+%}
 
 I have been doing Web Performance, or webperf, for more than ten years. I have
 spoken publicly for the first time in 2012 [^1]. I was suggesting that it was
