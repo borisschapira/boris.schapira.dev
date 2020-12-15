@@ -2,6 +2,7 @@
 title: 'Lazy Loading, des pages web plus rapides sans impact SEO'
 i18n-key: lazy-loading-faster-webpages-seo-friendly
 canonical: 'https://blog.dareboost.com/fr/2019/03/lazy-loading-des-pages-web-plus-rapides-sans-risque-seo/'
+canonical_title: 'le blog de Dareboost'
 tags:
     - 'Performance Web'
     - Images
@@ -29,7 +30,7 @@ SEO.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

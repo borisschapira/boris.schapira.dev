@@ -3,6 +3,7 @@ title: 'How to Optimize Third-Party Services Performance'
 i18n-key: optimize-third-parties-performance
 thumbnail_background: '/assets/images/2020-05-20/swimmers-on-body-water-3772419.jpg'
 canonical: 'https://blog.dareboost.com/en/2020/05/optimize-third-parties-performance/'
+canonical_title: "Dareboost's Blog"
 description: >-
     Why and how to use the preload directive and the Resource Hints to optimize
     the load of your third party resources (fonts, videos, analytics…) and speed
@@ -29,7 +30,7 @@ party code.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

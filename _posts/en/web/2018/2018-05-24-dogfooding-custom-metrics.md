@@ -2,6 +2,7 @@
 title: '[Dogfooding] How Dareboost has benefited from Custom Timings monitoring'
 i18n-key: dogfooding-custom-metrics
 canonical: 'https://blog.dareboost.com/en/2018/05/dogfooding-dareboost-custom-timings/'
+canonical_title: "Dareboost's Blog"
 tags:
     - 'Performance Web'
     - Metrics
@@ -24,7 +25,7 @@ alt=img_alt
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

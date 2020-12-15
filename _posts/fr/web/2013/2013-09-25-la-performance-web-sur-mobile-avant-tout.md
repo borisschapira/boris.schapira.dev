@@ -4,6 +4,7 @@ tags:
     - Mobilité
     - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2013/09/25/la-performance-web-sur-mobile-avant-tout/'
+canonical_title: 'le blog de Clever Age'
 ---
 
 Google vient de mettre à jour l’interface de
@@ -16,6 +17,6 @@ l’importance du mobile dans les stratégies WebPerf des entreprises.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}

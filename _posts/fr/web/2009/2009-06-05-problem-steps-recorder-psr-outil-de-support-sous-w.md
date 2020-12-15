@@ -1,6 +1,7 @@
 ---
 title: 'Problem Steps Recorder (PSR), outil de support sous Windows Seven'
 canonical: 'https://www.nexeo.fr/blog/2009/06/05/problem-steps-recorder-psr-outil-de-support-sous-windows-seven/'
+canonical_title: 'le blog de Nexeo'
 tags:
     - Nexdotnet
 slug: problem-steps-recorder-psr-outil-de-support-sous-windows-seven
@@ -11,6 +12,14 @@ les utilisateurs comme pour les équipes de support qui souhaiteraient disposer
 de plus d’informations pour un prodiguer les conseils les plus spécifiques à la
 situation. Windows 7 introduit un nouvel outil qui devrait faciliter cette étape
 du support : **Problem Steps Recorder**.
+
+<!-- more -->
+
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.canonical_title
+    canonical=page.canonical
+%}
 
 Problem Steps Recorder (accessible en tapant PSR dans le menu démarrer de
 Windows Seven RC), se présente sous la forme d’un magnétophone. Appuyez sur le

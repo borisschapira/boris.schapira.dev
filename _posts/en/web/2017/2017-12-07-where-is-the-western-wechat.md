@@ -2,6 +2,7 @@
 title: 'Where is the Western WeChat?'
 i18n-key: where-is-the-western-wechat
 canonical: 'https://blog.clever-age.com/en/2017/12/06/where-is-the-western-wechat/'
+canonical_title: "Clever Age's Blog"
 tags:
     - 'Performance Web'
     - 'User eXperience'
@@ -27,7 +28,7 @@ alt=img_alt
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

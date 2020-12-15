@@ -12,14 +12,6 @@ Internet Explorer 10, nouvelles modalités de login (il était temps),
 développement HTML/JS, Marketplace, compatibilité des applications Windows
 Phone… mais ce sera probablement l’objet d’un futur article.
 
-<!-- more -->
-
-{% include canonical.html.liquid
-    locale=page.locale
-    title=page.title
-    canonical=page.canonical
-%}
-
 La position commerciale, en revanche, mérite qu’on s’y attarde car le discours
 sous-jacent est :
 

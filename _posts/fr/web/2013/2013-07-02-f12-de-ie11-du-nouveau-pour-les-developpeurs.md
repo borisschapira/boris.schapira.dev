@@ -4,6 +4,7 @@ tags:
     - Outils
     - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2013/07/02/f12-de-ie11-du-nouveau-pour-les-developpeurs/'
+canonical_title: 'le blog de Clever Age'
 ---
 
 Cela fait un petit moment que je n’avais pas vu de challenger sérieux aux Dev.
@@ -19,7 +20,7 @@ la fourmilière avec le
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

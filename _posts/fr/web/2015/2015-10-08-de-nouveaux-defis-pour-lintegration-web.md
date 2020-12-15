@@ -3,6 +3,7 @@ title: 'De nouveaux défis pour l’intégration web'
 tags:
     - Front-End
 canonical: 'https://blog.clever-age.com/fr/2013/11/14/github-l-open-source-qui-conquiert-le-monde/'
+canonical_title: 'le blog de Clever Age'
 ---
 
 Fin juillet 2015, une franche polémique a enflammé la communauté des
@@ -26,7 +27,7 @@ l'expérience utilisateur.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

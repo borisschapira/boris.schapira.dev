@@ -4,6 +4,7 @@ tags:
     - Front-End
     - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2014/03/04/3-secondes-des-webfonts/'
+canonical_title: 'le blog de Clever Age'
 ---
 
 Les WebFonts, mal utilisées, sont souvent un fléau pour la performance Web.
@@ -18,7 +19,7 @@ constante pour une meilleure performance Web.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

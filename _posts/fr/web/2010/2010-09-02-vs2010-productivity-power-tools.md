@@ -1,5 +1,7 @@
 ---
 title: '[VS2010] Productivity Power Tools'
+canonical: https://blog.clever-age.com/fr/2010/10/08/productivity-power-tools-pour-visual-studio-2010/
+canonical_title: le blog de Clever Age
 tags:
     - Outils
 ---
@@ -15,7 +17,7 @@ de nombreux outils, dont les Productivity Power Tools.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

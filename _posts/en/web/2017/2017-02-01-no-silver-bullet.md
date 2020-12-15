@@ -2,6 +2,7 @@
 title: '(Web) Apps: There is no silver bullet'
 i18n-key: no-silver-bullet
 canonical: 'https://blog.clever-age.com/en/2017/07/07/web-apps-there-is-no-silver-bullet/'
+canonical_title: "Clever Age's Blog"
 cloudinary_logo: clever-logo
 slug: apps-vs-webapps-no-silver-bullet
 translations:
@@ -21,7 +22,7 @@ Let's take a look at the different logical biases related to this topic.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

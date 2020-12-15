@@ -1,12 +1,21 @@
 ---
 title: 'L’astuce du jour : Thread ou ThreadPool ?'
 canonical: 'https://www.nexeo.fr/blog/2009/10/06/lastuce-du-jour-thread-ou-threadpool/'
+canonical_title: 'le blog de Nexeo'
 tags:
     - Nexdotnet
 ---
 
 Aujourd’hui, retour sur une question fondamentale : faut-il utiliser `Thread` ou
 `ThreadPool` ?
+
+<!-- more -->
+
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.canonical_title
+    canonical=page.canonical
+%}
 
 Contrairement à ce que la
 [francisation du mot anglais "thread"](https://fr.wikipedia.org/wiki/Processus_l%C3%A9ger)

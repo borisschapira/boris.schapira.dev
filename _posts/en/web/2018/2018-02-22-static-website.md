@@ -4,6 +4,7 @@ title:
     performance'
 i18n-key: static-website
 canonical: 'https://blog.dareboost.com/en/2018/02/static-website-web-performance/'
+canonical_title: "Dareboost's Blog"
 tags:
     - 'Performance Web'
     - JAMStack
@@ -31,7 +32,7 @@ alt=img_alt
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

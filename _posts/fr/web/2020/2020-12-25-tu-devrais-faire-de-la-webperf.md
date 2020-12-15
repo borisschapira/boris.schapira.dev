@@ -6,6 +6,7 @@ tags:
     - 'Performance Web'
 slug: tu-devrais-faire-de-la-webperf
 canonical: https://www.24joursdeweb.fr/2020/tu-devrais-faire-de-la-webperf/
+canonical_title: '24 Jours de Web'
 translations:
     en: you-should-look-into-webperf
 ---
@@ -20,7 +21,7 @@ et pourquoi on a besoin de toi.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 
@@ -178,7 +179,9 @@ sujet dans sa globalité, il faut :
     ou externe), afin que chaque personne reçoive une image adaptée à son
     contexte
 
-Et je n’ai même pas encore parlé de <a href="https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/" lang="en" hreflang="en">lazy loading</a>.
+Et je n’ai même pas encore parlé de
+<a href="https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/" lang="en" hreflang="en">lazy
+loading</a>.
 
 {% include rwd-image.html.liquid
 path="/assets/images/web/2020-12-02/undraw_image_viewer_wxce.png"

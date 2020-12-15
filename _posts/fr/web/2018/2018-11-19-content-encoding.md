@@ -5,6 +5,7 @@ title:
 i18n-key: content-encoding
 thumbnail_background: /assets/images/2018-11-16/hiragana-blur.png
 canonical: 'https://blog.dareboost.com/fr/2018/11/encodage-meta-charset-content-type-header/'
+canonical_title: 'le blog de Dareboost'
 tags:
     - 'Performance Web'
     - Headers
@@ -25,7 +26,7 @@ deviner et sera susceptible d'échouer dans certains cas.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

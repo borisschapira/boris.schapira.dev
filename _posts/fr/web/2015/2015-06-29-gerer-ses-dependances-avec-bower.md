@@ -4,6 +4,7 @@ tags:
     - Front-End
     - Outils
 canonical: 'https://blog.clever-age.com/fr/2015/06/29/gerer-ses-dependances-avec-bower/'
+canonical_title: 'le blog de Clever Age'
 subtitle: 'Un besoin d’industrialisation'
 ---
 
@@ -17,7 +18,7 @@ formaliser davantage certains processus, voire de les automatiser.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

@@ -1,6 +1,7 @@
 ---
 title: 'Mono : les manchots n’ont rien à craindre'
 canonical: 'https://www.nexeo.fr/blog/2009/07/07/mono-les-manchots-nont-rien-a-craindre/'
+canonical_title: 'le blog de Nexeo'
 tags:
     - Nexdotnet
 ---
@@ -10,6 +11,14 @@ Stallman qui demandait que l’on n’intègre pas à Debian l’application Tom
 (exécutée par Mono), la polémique avait enflé, accusant Microsoft de manipuler
 les développeurs afin d’en tirer un jour profit en réclamant des brevets
 logiciels portant sur l’implémentation de ses technologies. Il n’en sera rien.
+
+<!-- more -->
+
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.canonical_title
+    canonical=page.canonical
+%}
 
 Microsoft vient en effet d’annoncer le ralliement de C# au
 [Community Promise Patent](http://www.microsoft.com/interop/cp/default.mspx),

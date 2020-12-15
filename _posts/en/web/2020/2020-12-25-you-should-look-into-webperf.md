@@ -6,6 +6,7 @@ tags:
     - 'Web Performance'
 slug: you-should-look-into-webperf
 canonical: https://calendar.perfplanet.com/2020/you-should-look-into-webperf/
+canonical_title: 'the Web Performance Advent Calendar'
 translations:
     fr: tu-devrais-faire-de-la-webperf
 ---
@@ -20,7 +21,7 @@ us.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

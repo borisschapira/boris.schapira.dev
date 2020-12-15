@@ -1,6 +1,7 @@
 ---
 title: 'Les kits pour certification Microsoft'
 canonical: 'https://www.nexeo.fr/blog/2009/04/28/les-kits-pour-certification-microsoft/'
+canonical_title: 'le blog de Nexeo'
 tags:
     - Nexdotnet
 ---
@@ -11,6 +12,14 @@ mais comment se former avant l’examen ? Avez-vous regardé du côté des kits 
 formation ? Beaucoûp sont disponibles sur Amazon. Il vous suffit de chercher :
 "Certification .Net", "Kit certification .Net" ou directement le numéro de la
 certification qui vous intéresse, comme par exemple la 70-536.
+
+<!-- more -->
+
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.canonical_title
+    canonical=page.canonical
+%}
 
 Nous conseillons de passer les certifications en anglais pour plusieurs
 raisons :

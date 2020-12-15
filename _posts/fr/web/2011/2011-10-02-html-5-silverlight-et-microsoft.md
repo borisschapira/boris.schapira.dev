@@ -1,5 +1,7 @@
 ---
 title: 'HTML 5, Silverlight et Microsoft'
+canonical: https://blog.clever-age.com/fr/2011/07/29/html-5-silverlight-et-microsoft/
+canonical_title: le blog de Clever Age
 tags:
     - Front-End
 ---
@@ -19,7 +21,7 @@ poussé par Microsoft depuis des années et sur lequel repose Windows Phone.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

@@ -4,6 +4,7 @@ tags:
     - E-Commerce
     - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2013/08/06/l-e-commerce-toujours-plus-lent/'
+canonical_title: 'le blog de Clever Age'
 ---
 
 StrangeLoop (faisant désormais partie de Radware) vient de publier son rapport
@@ -16,7 +17,7 @@ décevants.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

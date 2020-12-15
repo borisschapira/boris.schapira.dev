@@ -7,6 +7,7 @@ tags:
     - 'Transformation numérique'
     - Presse
 canonical: 'https://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-point-sur-la-situation/'
+canonical_title: 'le blog de Clever Age'
 slug: publicite-en-ligne-un-point
 subtitle: 'Une guerre aux multiples facettes'
 translations:
@@ -20,7 +21,7 @@ source de revenus de nombreux producteurs de contenus.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

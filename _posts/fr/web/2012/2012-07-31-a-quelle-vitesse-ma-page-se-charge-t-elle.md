@@ -3,6 +3,7 @@ title: '"A quelle vitesse ma page se charge-t-elle ?"'
 tags:
     - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2012/07/31/webperf-a-quelle-vitesse-ma-page-se-charge-t-elle/'
+canonical_title: 'le blog de Clever Age'
 ---
 
 Cette question est à la base de toute stratégie de WebPerf et pour autant, elle
@@ -12,7 +13,7 @@ n’admet aucune bonne réponse. Alors comment mesurer la performance Web ?
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

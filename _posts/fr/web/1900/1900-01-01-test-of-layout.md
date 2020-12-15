@@ -235,14 +235,6 @@ Term 2 ~ Definition 2a ~ Definition 2b
 This is <abbr title="Hypertext Markup Language">HTML</abbr> abbreviation
 example.
 
-### Custom containers
-
-{% include canonical.html.liquid
-    locale=page.locale
-    title=page.title
-    canonical=page.canonical
-%}
-
 ### Insertion
 
 Lorem ipsum dolor sit amet, <ins datetime="2018-12-26">consectetur</ins>

@@ -5,6 +5,7 @@ tags:
     - 'Windows Phone'
 serie: 'Windows Phone'
 canonical: 'https://blog.clever-age.com/fr/2013/05/14/il-faut-repenser-windows/'
+canonical_title: 'le blog de Clever Age'
 ---
 
 Windows 8 se vend mal. Même si une centaine de millions de licences se sont
@@ -16,7 +17,7 @@ vite.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

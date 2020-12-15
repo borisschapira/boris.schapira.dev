@@ -3,6 +3,7 @@ title: 'Mesurer l’interactivité avec le TTI'
 subtitle: 'Time To (consistently) Interactive'
 i18n-key: time-to-interactive
 canonical: 'https://blog.dareboost.com/fr/2019/05/mesurer-interactivite-time-to-interactive/'
+canonical_title: 'le blog de Dareboost'
 description: >-
     Depuis quelques années, Google met en avant un indicateur ambigu : le Time
     To Interactive (TTI). De quoi s’agit-il ? C’est ce que nous allons définir,
@@ -34,7 +35,7 @@ d’expliquer comment et quand l’utiliser (ou non).
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

@@ -14,6 +14,7 @@ cloudinary_logo: dareboost-logo
 slug: cumulative-layout-shift-visual-instability
 loadTwitterWjs: true
 canonical: https://blog.dareboost.com/en/2020/09/cumulative-layout-shift-visual-instability/
+canonical_title: "Dareboost's Blog"
 translations:
     fr: cumulative-layout-shift-stabilite-page
 ---
@@ -29,7 +30,7 @@ challenge._
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

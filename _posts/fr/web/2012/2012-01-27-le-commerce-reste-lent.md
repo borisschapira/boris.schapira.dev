@@ -4,6 +4,7 @@ tags:
     - E-Commerce
     - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2012/01/27/l-e-commerce-reste-lent/'
+canonical_title: 'le blog de Clever Age'
 ---
 
 StrangeLoop vient de publier son rapport annuel de sur la performance Web des
@@ -14,7 +15,7 @@ performances de plus de 2000 sites. Les résultats sont plutôt surprenants.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

@@ -3,6 +3,7 @@ title: 'Optimisation du temps de compilation de Jekyll'
 i18n-key: optimisation-compilation-jekyll
 thumbnail_background: /assets/images/2018-11-28/jekyll.png
 canonical: 'https://jamstatic.fr/2018/11/28/optimisation-compilation-jekyll/'
+canonical_title: 'le blog de Jamstatic.fr'
 tags:
     - Jekyll
     - JAMStatic
@@ -31,7 +32,7 @@ en gémissant… En un mot comme en cent : mon <em lang="en">build</em> était l
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

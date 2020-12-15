@@ -5,6 +5,7 @@ title:
 i18n-key: preload-resource-hints
 thumbnail_background: '/assets/images/2020-04-29/people-doing-swim-race-1263349.jpg'
 canonical: 'https://blog.dareboost.com/fr/2020/05/preload-prefetch-et-preconnect-resource-hints/'
+canonical_title: 'le blog de Dareboost'
 description: >-
     Utilisez preload et les Resource Hints pour améliorer la vitesse de
     chargement en influençant l'ordre de récupération et exécution des
@@ -30,7 +31,7 @@ que `preload` et les Resource Hints entrent en jeu.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

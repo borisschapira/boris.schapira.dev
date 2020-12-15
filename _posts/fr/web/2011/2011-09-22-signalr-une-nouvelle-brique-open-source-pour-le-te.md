@@ -1,5 +1,7 @@
 ---
 title: 'SignalR, une nouvelle brique Open Source pour le temps réel en ASP.NET'
+canonical: https://blog.clever-age.com/fr/2011/09/22/signalr-une-nouvelle-brique-open-source-pour-le-temps-reel-en-asp-net/
+canonical_title: le blog de Clever Age
 tags:
     - Back-End
 slug: signalr-une-nouvelle-brique-open-source-pour-le-temps-reel-en-asp-net
@@ -12,7 +14,7 @@ aux technologies de Web Temps Réel qui fleurissent autour de Node.js.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

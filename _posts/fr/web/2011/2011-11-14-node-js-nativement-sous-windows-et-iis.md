@@ -1,5 +1,7 @@
 ---
 title: 'Node.js, nativement sous Windows et IIS'
+canonical: https://blog.clever-age.com/fr/2011/11/14/node-js-nativement-sous-windows-et-iis/
+canonical_title: le blog de Clever Age
 tags:
     - Outils
 ---
@@ -14,7 +16,7 @@ lundi 7 novembre avoir abouti à la
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

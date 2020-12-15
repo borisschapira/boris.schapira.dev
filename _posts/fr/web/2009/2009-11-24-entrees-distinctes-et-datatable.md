@@ -1,12 +1,21 @@
 ---
 title: 'Entrées distinctes et DataTable'
 canonical: 'https://www.nexeo.fr/blog/2009/11/24/entrees-distinctes-et-datatabl/'
+canonical_title: 'le blog de Nexeo'
 tags:
     - Nexdotnet
 ---
 
 Vous avez souvent eu un `DataSet` dont vous vouliez considérer une colonne pour
 alimenter une liste déroulante pour réaliser, par exemple, un filtre ?
+
+<!-- more -->
+
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.canonical_title
+    canonical=page.canonical
+%}
 
 Prenons pour exemple la `DataTable` "MyDataTable" ci-dessous. Si vous définissez
 directement `MyDataTable` comme source de votre `DropDownList`, en précisant

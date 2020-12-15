@@ -4,6 +4,7 @@ i18n-key: conquering-ab-testing
 tags:
     - Front-End
 canonical: 'https://blog.clever-age.com/fr/2014/03/13/a-la-conquete-des-tests-a-b/'
+canonical_title: 'le blog de Clever Age'
 slug: a-la-conquete-des-tests-a-b
 translations:
     en: conquering-ab-testing
@@ -18,7 +19,7 @@ les Tests A/B.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

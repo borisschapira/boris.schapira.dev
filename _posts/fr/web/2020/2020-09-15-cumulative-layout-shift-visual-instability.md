@@ -15,6 +15,7 @@ cloudinary_logo: dareboost-logo
 slug: cumulative-layout-shift-stabilite-page
 loadTwitterWjs: true
 canonical: https://blog.dareboost.com/fr/2020/09/cumulative-layout-shift-stabilite-page/
+canonical_title: 'le blog de Dareboost'
 translations:
     en: cumulative-layout-shift-visual-instability
 ---
@@ -30,7 +31,7 @@ nous avons eu du mal à la mesurer quantitativement. Le
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

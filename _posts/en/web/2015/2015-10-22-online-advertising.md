@@ -7,6 +7,7 @@ tags:
     - 'Transformation numérique'
     - Presse
 canonical: 'https://blog.clever-age.com/en/2015/12/14/online-advertising-the-current-status/'
+canonical_title: "Clever Age's Blog"
 cloudinary_logo: clever-logo
 slug: online-advertising-current-status
 subtitle: 'A Multifaceted War'
@@ -21,7 +22,7 @@ of income for many content producers.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

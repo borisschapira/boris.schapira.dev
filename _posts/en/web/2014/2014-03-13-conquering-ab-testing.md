@@ -3,6 +3,7 @@ layout: post
 title: 'Conquering A/B Testing'
 i18n-key: conquering-ab-testing
 canonical: 'https://blog.clever-age.com/en/2015/12/14/conquering-ab-testing/'
+canonical_title: "Clever Age's Blog"
 cloudinary_logo: clever-logo
 translations:
     fr: a-la-conquete-des-tests-a-b
@@ -16,7 +17,7 @@ This is why he decided to get into A/B testing.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

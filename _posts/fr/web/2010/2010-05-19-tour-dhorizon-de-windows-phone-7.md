@@ -5,6 +5,7 @@ tags:
     - 'Windows Phone'
 serie: 'Windows Phone'
 canonical: 'https://blog.clever-age.com/fr/2010/05/19/tour-d-horizon-de-windows-phone-7/'
+canonical_title: 'le blog de Nexeo'
 ---
 
 Windows Phone est un système d’exploitation pour téléphones mobiles présenté par
@@ -17,7 +18,7 @@ comme un acteur majeur du mobile grand public.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

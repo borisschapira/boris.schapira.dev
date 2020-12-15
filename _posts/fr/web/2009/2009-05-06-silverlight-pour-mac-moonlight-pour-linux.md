@@ -1,6 +1,7 @@
 ---
 title: 'Silverlight pour Mac, Moonlight pour Linux'
 canonical: 'https://www.nexeo.fr/blog/2009/05/06/silverlight-pour-mac-moonlight-pour-linux/'
+canonical_title: 'le blog de Nexeo'
 tags:
     - Nexdotnet
 ---
@@ -9,6 +10,14 @@ Un reproche que l’on fait habituellement aux technologies de développement .N
 est qu’elles ne sont opérantes que sur des PC équipés de Windows. Silverlight,
 le framework pour Applications Internet Riches (RIA) ne déroge pas à la règle et
 pourtant…
+
+<!-- more -->
+
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.canonical_title
+    canonical=page.canonical
+%}
 
 ## Silverlight aime les manchots
 

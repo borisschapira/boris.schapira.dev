@@ -4,6 +4,7 @@ tags:
     - Front-End
     - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2014/06/20/un-seul-site-vous-manque-et-tout-le-web-est-casse/'
+canonical_title: 'le blog de Clever Age'
 ---
 
 Ce détournement de la fameuse citation d'Alphonse de Lamartine est bien sûr
@@ -18,7 +19,7 @@ géant peut avoir des effets désastreux.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

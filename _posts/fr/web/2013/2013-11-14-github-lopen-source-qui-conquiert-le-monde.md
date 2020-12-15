@@ -4,6 +4,7 @@ tags:
     - 'Transformation numérique'
     - 'Open Source'
 canonical: 'https://blog.clever-age.com/fr/2013/11/14/github-l-open-source-qui-conquiert-le-monde/'
+canonical_title: 'le blog de Clever Age'
 ---
 
 Difficile pour un développeur, en 2013, de ne pas savoir se servir de GitHub.
@@ -15,7 +16,7 @@ trois millions d’utilisateurs et six millions de dépôts.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

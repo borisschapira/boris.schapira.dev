@@ -3,6 +3,7 @@ title: 'Measuring Interactivity with TTI'
 subtitle: 'Time To (consistently) Interactive'
 i18n-key: time-to-interactive
 canonical: 'https://blog.dareboost.com/en/2019/05/measuring-interactivity-time-to-interactive/'
+canonical_title: "Dareboost's Blog"
 description: >-
     For a few years now, Google has been pushing an ambiguous metric: Time To
     Interactive (TTI). What does it mean? Let's define it and explain how and
@@ -33,7 +34,7 @@ use it (or not).
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

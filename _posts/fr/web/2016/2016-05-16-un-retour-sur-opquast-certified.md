@@ -4,6 +4,7 @@ tags:
     - Qualité
     - Certification
 canonical: 'https://blog.clever-age.com/fr/2016/05/16/un-retour-sur-opquast-certified/'
+canonical_title: 'le blog de Clever Age'
 thumbnail_background: /assets/images/2016-05-16/logo_opquast_certified.png
 ---
 
@@ -31,7 +32,7 @@ répondu à son appel le mois dernier.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

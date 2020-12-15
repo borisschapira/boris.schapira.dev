@@ -1,6 +1,7 @@
 ---
 title: '[Vécu] Le virus du développeur'
 canonical: 'https://www.nexeo.fr/blog/2009/09/30/vecu-le-virus-du-developpeur/'
+canonical_title: 'le blog de Nexeo'
 tags:
     - Nexdotnet
 ---
@@ -9,6 +10,14 @@ Je ne sais pas vous, mais moi je suis toujours très excité quand j’apprends 
 truc nouveau dans le Framework .NET. Je commence par me demander comment il
 marche, si cette nouvelle méthode est plus performante que l’ancienne, si son
 implémentation dans une solution existante prendrait du temps…
+
+<!-- more -->
+
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.canonical_title
+    canonical=page.canonical
+%}
 
 Je pense qu’on passe tous par ce genre de phases de temps en temps. Vous savez,
 quand vous réalisez que ce nouveau truc que vous avez appris est génial et que

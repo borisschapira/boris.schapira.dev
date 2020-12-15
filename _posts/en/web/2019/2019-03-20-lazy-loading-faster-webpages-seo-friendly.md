@@ -2,6 +2,7 @@
 title: 'Lazy Loading, faster webpages, SEO friendly'
 i18n-key: lazy-loading-faster-webpages-seo-friendly
 canonical: 'https://blog.dareboost.com/en/2019/03/lazy-loading-faster-webpages-seo-friendly/'
+canonical_title: "Dareboost's Blog"
 cloudinary_logo: dareboost-logo
 tags:
     - 'Performance Web'
@@ -24,7 +25,7 @@ implement lazy load, and how to make sure you build it in a SEO friendly way.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

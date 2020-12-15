@@ -4,6 +4,7 @@ tags:
     - Front-End
     - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2015/09/04/http-archive-comprendre-le-present-en-observant-le-passe/'
+canonical_title: 'le blog de Clever Age'
 slug: http-archive-comprendre-le-present-en-observant-le-passe
 ---
 
@@ -17,7 +18,7 @@ Web sont produites.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

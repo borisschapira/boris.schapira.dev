@@ -1,5 +1,7 @@
 ---
 title: 'Silverlight 5 : dernière version ?'
+canonical: https://blog.clever-age.com/fr/2011/12/12/silverlight-5-derniere-version/
+canonical_title: le blog de Clever Age
 tags:
     - Outils
 ---
@@ -16,7 +18,7 @@ avec beaucoup d’impatience par la communauté depuis de nombreux mois.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

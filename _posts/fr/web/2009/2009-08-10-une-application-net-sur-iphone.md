@@ -1,6 +1,7 @@
 ---
 title: 'Une application .NET sur iPhone ?!'
 canonical: 'https://www.nexeo.fr/blog/2009/08/10/une-application-net-sur-iphone/'
+canonical_title: 'le blog de Nexeo'
 tags:
     - Nexdotnet
 ---
@@ -8,6 +9,14 @@ tags:
 Non, vous ne rêvez pas. Les joies du .NET seront bientôt accessibles aux
 développeurs iPhone (et respectivement, les joies de l’iPhone aux développeurs
 .NET) grâce aux développeurs du projet Mono !
+
+<!-- more -->
+
+{% include canonical.html.liquid
+    locale=page.locale
+    title=page.canonical_title
+    canonical=page.canonical
+%}
 
 [MonoTouch](http://www.mono-project.com/MonoTouch), tel est le nom du projet,
 requiert un Mac et le SDK de l’iPhone pour tester les développements et les

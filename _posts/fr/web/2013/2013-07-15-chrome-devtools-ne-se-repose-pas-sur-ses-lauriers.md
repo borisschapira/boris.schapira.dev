@@ -4,6 +4,7 @@ tags:
     - Outils
     - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2013/07/15/chrome-devtools-ne-se-repose-pas-sur-ses-lauriers/'
+canonical_title: 'le blog de Clever Age'
 ---
 
 Alors qu’ils sont déjà reconnus comme étant d’excellente facture, voire même un
@@ -15,7 +16,7 @@ sur la branche _stable_.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

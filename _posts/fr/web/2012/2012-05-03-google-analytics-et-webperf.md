@@ -3,6 +3,7 @@ title: 'Google Analytics et la performance Web'
 tags:
     - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2012/05/03/google-analytics-et-la-performance-web/'
+canonical_title: 'le blog de Clever Age'
 ---
 
 L’équipe de Google Analytics a publié
@@ -17,7 +18,7 @@ interprétation.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

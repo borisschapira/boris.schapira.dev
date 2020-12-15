@@ -3,6 +3,7 @@ title: 'GitHub communique sur son monitoring de la performance'
 tags:
     - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2012/09/06/github-communique-sur-son-monitoring-de-la-performance/'
+canonical_title: 'le blog de Clever Age'
 slug: github-communique-sur-son-monitoring-de-la-performance
 ---
 
@@ -14,7 +15,7 @@ dédié à la Performance Web.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
 

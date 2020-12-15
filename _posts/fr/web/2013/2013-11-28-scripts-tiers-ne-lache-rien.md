@@ -4,6 +4,7 @@ tags:
     - 'Scripts Tiers'
     - 'Performance Web'
 canonical: 'https://blog.clever-age.com/fr/2013/11/28/scripts-tiers-on-ne-lache-rien/'
+canonical_title: 'le blog de Clever Age'
 ---
 
 Les scripts tiers que nous incluons dans nos sites nous en font perdre le
@@ -22,6 +23,6 @@ ne peut que féliciter.
 
 {% include canonical.html.liquid
     locale=page.locale
-    title=page.title
+    title=page.canonical_title
     canonical=page.canonical
 %}
