@@ -59,7 +59,7 @@
     "concat-cli": "^4.0.0",
     "csswring": "^7.0.0",
     "easy-toggle-state": "^1.15.1",
-    "eslint": "^7.15.0",
+    "eslint": "^7.16.0",
     "eslint-config-prettier": "^7.0.0",
     "eslint-plugin-chai-expect": "^2.2.0",
     "eslint-plugin-import": "^2.22.1",
