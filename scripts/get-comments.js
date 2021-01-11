@@ -71,7 +71,7 @@ require('dotenv').config();
       mkdirp(comment_folder);
       writeFile(
         comment_path,
-        yaml.safeDump(
+        yaml.dump(
           {
             _id: comment.guid,
             _parent: comment.origin,

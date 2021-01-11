@@ -37,7 +37,7 @@ jsFiles.forEach(function (file) {
 
 fs.writeFile(
   path.resolve(__dirname, '../_data/hashes.yml'),
-  yaml.safeDump(data, {
+  yaml.dump(data, {
     styles: {
       '!!null': 'canonical', // dump null as ~
     },

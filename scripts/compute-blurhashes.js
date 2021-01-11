@@ -39,7 +39,7 @@ const encodeImageToBlurhash = async (imageUrl) => {
 
   fs.writeFile(
     path.resolve(__dirname, '../_data/blurhashes.yml'),
-    yaml.safeDump(data.entries(), {
+    yaml.dump(data.entries(), {
       styles: {
         '!!null': 'canonical', // dump null as ~
       },
