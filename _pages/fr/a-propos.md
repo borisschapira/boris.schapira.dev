@@ -43,8 +43,7 @@ problématiques sociales et sociétales me tiennent à cœur, notamment celles q
 concernent l'Égalité.
 
 J'aime les chocolatines[^choc] le matin, une pizza à midi et un énorme câlin
-avec mes deux garçons et ma femme le soir. De profil
-[INTJ](https://fr.wikipedia.org/wiki/INTJ), je n'aime pas les discussions qui
+avec mes deux garçons et ma femme le soir. Je n'aime pas les discussions qui
 n'avancent pas, les processus qui les favorisent et les choux fleurs.
 
 [^choc]: Mais si vous appelez ça autrement, c'est bien aussi.
