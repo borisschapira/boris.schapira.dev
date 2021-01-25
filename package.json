@@ -80,7 +80,7 @@
     "purify-css": "^1.2.5",
     "sass": "^1.32.4",
     "sass-loader": "^10.1.1",
-    "uglify-js": "^3.12.4",
+    "uglify-js": "^3.12.5",
     "webpack": "^5.15.0",
     "webpack-cli": "^4.3.1"
   },
