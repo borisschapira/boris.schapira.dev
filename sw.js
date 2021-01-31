@@ -8,7 +8,7 @@
 
 // @ts-ignore
 try {
-    self['workbox:broadcast-update:6.0.2'] && _();
+    self['workbox:broadcast-update:6.1.0'] && _();
 }
 catch (e) { }
 
@@ -21,7 +21,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:cacheable-response:6.0.2'] && _();
+    self['workbox:cacheable-response:6.1.0'] && _();
 }
 catch (e) { }
 
@@ -34,7 +34,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:core:6.0.2'] && _();
+    self['workbox:core:6.1.0'] && _();
 }
 catch (e) { }
 
@@ -47,7 +47,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:expiration:6.0.2'] && _();
+    self['workbox:expiration:6.1.0'] && _();
 }
 catch (e) { }
 
@@ -60,7 +60,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:precaching:6.0.2'] && _();
+    self['workbox:precaching:6.1.0'] && _();
 }
 catch (e) { }
 
@@ -73,7 +73,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:range-requests:6.0.2'] && _();
+    self['workbox:range-requests:6.1.0'] && _();
 }
 catch (e) { }
 
@@ -86,7 +86,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:routing:6.0.2'] && _();
+    self['workbox:routing:6.1.0'] && _();
 }
 catch (e) { }
 
@@ -99,7 +99,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:strategies:6.0.2'] && _();
+    self['workbox:strategies:6.1.0'] && _();
 }
 catch (e) { }
 
@@ -2143,7 +2143,9 @@ class StrategyHandler {
      * - cacheDidUpdate()
      *
      * @param {Request|string} key The request or URL to use as the cache key.
-     * @param {Promise<void>} response The response to cache.
+     * @param {Response} response The response to cache.
+     * @return {Promise<boolean>} `false` if a cacheWillUpdate caused the response
+     * not be cached, and `true` otherwise.
      */
     async cachePut(key, response) {
         const request = toRequest(key);
@@ -2161,7 +2163,7 @@ class StrategyHandler {
         const responseToCache = await this._ensureResponseSafeToCache(response);
         if (!responseToCache) {
             if (false) {}
-            return;
+            return false;
         }
         const { cacheName, matchOptions } = this._strategy;
         const cache = await self.caches.open(cacheName);
@@ -2193,6 +2195,7 @@ class StrategyHandler {
                 event: this.event,
             });
         }
+        return true;
     }
     /**
      * Checks the list of plugins for the `cacheKeyWillBeUsed` callback, and
@@ -2592,11 +2595,6 @@ class Strategy_Strategy {
 
 
 
-const copyRedirectedCacheableResponsesPlugin = {
-    async cacheWillUpdate({ response }) {
-        return response.redirected ? await copyResponse(response) : response;
-    }
-};
 /**
  * A [Strategy]{@link module:workbox-strategies.Strategy} implementation
  * specifically designed to work with
@@ -2609,7 +2607,7 @@ const copyRedirectedCacheableResponsesPlugin = {
  * @extends module:workbox-strategies.Strategy
  * @memberof module:workbox-precaching
  */
-class PrecacheStrategy_PrecacheStrategy extends (/* unused pure expression or super */ null && (Strategy)) {
+class PrecacheStrategy_PrecacheStrategy extends Strategy_Strategy {
     /**
      *
      * @param {Object} [options]
@@ -2628,14 +2626,14 @@ class PrecacheStrategy_PrecacheStrategy extends (/* unused pure expression or su
      * get the response from the network if there's a precache miss.
      */
     constructor(options = {}) {
-        options.cacheName = cacheNames.getPrecacheName(options.cacheName);
+        options.cacheName = cacheNames_cacheNames.getPrecacheName(options.cacheName);
         super(options);
         this._fallbackToNetwork = options.fallbackToNetwork === false ? false : true;
         // Redirected responses cannot be used to satisfy a navigation request, so
         // any redirected response must be "copied" rather than cloned, so the new
         // response doesn't contain the `redirected` flag. See:
         // https://bugs.chromium.org/p/chromium/issues/detail?id=669363&desc=2#c1
-        this.plugins.push(copyRedirectedCacheableResponsesPlugin);
+        this.plugins.push(PrecacheStrategy_PrecacheStrategy.copyRedirectedCacheableResponsesPlugin);
     }
     /**
      * @private
@@ -2668,7 +2666,7 @@ class PrecacheStrategy_PrecacheStrategy extends (/* unused pure expression or su
         else {
             // This shouldn't normally happen, but there are edge cases:
             // https://github.com/GoogleChrome/workbox/issues/1441
-            throw new WorkboxError('missing-precache-entry', {
+            throw new WorkboxError_WorkboxError('missing-precache-entry', {
                 cacheName: this.cacheName,
                 url: request.url,
             });
@@ -2677,20 +2675,15 @@ class PrecacheStrategy_PrecacheStrategy extends (/* unused pure expression or su
         return response;
     }
     async _handleInstall(request, handler) {
-        const response = await handler.fetchAndCachePut(request);
-        // Any time there's no response, consider it a precaching error.
-        let responseSafeToPrecache = Boolean(response);
-        // Also consider it an error if the user didn't pass their own
-        // cacheWillUpdate plugin, and the response is a 400+ (note: this means
-        // that by default opaque responses can be precached).
-        if (response && response.status >= 400 &&
-            !this._usesCustomCacheableResponseLogic()) {
-            responseSafeToPrecache = false;
-        }
-        if (!responseSafeToPrecache) {
+        this._useDefaultCacheabilityPluginIfNeeded();
+        const response = await handler.fetch(request);
+        // Make sure we defer cachePut() until after we know the response
+        // should be cached; see https://github.com/GoogleChrome/workbox/issues/2737
+        const wasCached = await handler.cachePut(request, response.clone());
+        if (!wasCached) {
             // Throwing here will lead to the `install` handler failing, which
             // we want to do if *any* of the responses aren't safe to cache.
-            throw new WorkboxError('bad-precaching-response', {
+            throw new WorkboxError_WorkboxError('bad-precaching-response', {
                 url: request.url,
                 status: response.status,
             });
@@ -2698,21 +2691,71 @@ class PrecacheStrategy_PrecacheStrategy extends (/* unused pure expression or su
         return response;
     }
     /**
-     * Returns true if any users plugins were added containing their own
-     * `cacheWillUpdate` callback.
+     * This method is complex, as there a number of things to account for:
      *
-     * This method indicates whether the default cacheable response logic (i.e.
-     * <400, including opaque responses) should be used. If a custom plugin
-     * with a `cacheWillUpdate` callback is passed, then the strategy should
-     * defer to that plugin's logic.
+     * The `plugins` array can be set at construction, and/or it might be added to
+     * to at any time before the strategy is used.
+     *
+     * At the time the strategy is used (i.e. during an `install` event), there
+     * needs to be at least one plugin that implements `cacheWillUpdate` in the
+     * array, other than `copyRedirectedCacheableResponsesPlugin`.
+     *
+     * - If this method is called and there are no suitable `cacheWillUpdate`
+     * plugins, we need to add `defaultPrecacheCacheabilityPlugin`.
+     *
+     * - If this method is called and there is exactly one `cacheWillUpdate`, then
+     * we don't have to do anything (this might be a previously added
+     * `defaultPrecacheCacheabilityPlugin`, or it might be a custom plugin).
+     *
+     * - If this method is called and there is more than one `cacheWillUpdate`,
+     * then we need to check if one is `defaultPrecacheCacheabilityPlugin`. If so,
+     * we need to remove it. (This situation is unlikely, but it could happen if
+     * the strategy is used multiple times, the first without a `cacheWillUpdate`,
+     * and then later on after manually adding a custom `cacheWillUpdate`.)
+     *
+     * See https://github.com/GoogleChrome/workbox/issues/2737 for more context.
      *
      * @private
      */
-    _usesCustomCacheableResponseLogic() {
-        return this.plugins.some((plugin) => plugin.cacheWillUpdate &&
-            plugin !== copyRedirectedCacheableResponsesPlugin);
+    _useDefaultCacheabilityPluginIfNeeded() {
+        let defaultPluginIndex = null;
+        let cacheWillUpdatePluginCount = 0;
+        for (const [index, plugin] of this.plugins.entries()) {
+            // Ignore the copy redirected plugin when determining what to do.
+            if (plugin === PrecacheStrategy_PrecacheStrategy.copyRedirectedCacheableResponsesPlugin) {
+                continue;
+            }
+            // Save the default plugin's index, in case it needs to be removed.
+            if (plugin === PrecacheStrategy_PrecacheStrategy.defaultPrecacheCacheabilityPlugin) {
+                defaultPluginIndex = index;
+            }
+            if (plugin.cacheWillUpdate) {
+                cacheWillUpdatePluginCount++;
+            }
+        }
+        if (cacheWillUpdatePluginCount === 0) {
+            this.plugins.push(PrecacheStrategy_PrecacheStrategy.defaultPrecacheCacheabilityPlugin);
+        }
+        else if (cacheWillUpdatePluginCount > 1 && defaultPluginIndex !== null) {
+            // Only remove the default plugin; multiple custom plugins are allowed.
+            this.plugins.splice(defaultPluginIndex, 1);
+        }
+        // Nothing needs to be done if cacheWillUpdatePluginCount is 1
     }
 }
+PrecacheStrategy_PrecacheStrategy.defaultPrecacheCacheabilityPlugin = {
+    async cacheWillUpdate({ response }) {
+        if (!response || response.status >= 400) {
+            return null;
+        }
+        return response;
+    }
+};
+PrecacheStrategy_PrecacheStrategy.copyRedirectedCacheableResponsesPlugin = {
+    async cacheWillUpdate({ response }) {
+        return response.redirected ? await copyResponse(response) : response;
+    }
+};
 
 
 ;// CONCATENATED MODULE: ./node_modules/workbox-precaching/PrecacheController.js
@@ -3136,6 +3179,14 @@ class Route_Route {
         this.match = match;
         this.method = method;
     }
+    /**
+     *
+     * @param {module:workbox-routing-handlerCallback} handler A callback
+     * function that returns a Promise resolving to a Response
+     */
+    setCatchHandler(handler) {
+        this.catchHandler = normalizeHandler(handler);
+    }
 }
 
 
@@ -3363,10 +3414,25 @@ class Router {
         catch (err) {
             responsePromise = Promise.reject(err);
         }
-        if (responsePromise instanceof Promise && this._catchHandler) {
-            responsePromise = responsePromise.catch((err) => {
-                if (false) {}
-                return this._catchHandler.handle({ url, request, event });
+        // Get route's catch handler, if it exists
+        const catchHandler = route && route.catchHandler;
+        if (responsePromise instanceof Promise && (this._catchHandler || catchHandler)) {
+            responsePromise = responsePromise.catch(async (err) => {
+                // If there's a route catch handler, process that first
+                if (catchHandler) {
+                    if (false) {}
+                    try {
+                        return await catchHandler.handle({ url, request, event, params });
+                    }
+                    catch (catchErr) {
+                        err = catchErr;
+                    }
+                }
+                if (this._catchHandler) {
+                    if (false) {}
+                    return this._catchHandler.handle({ url, request, event });
+                }
+                throw err;
             });
         }
         return responsePromise;

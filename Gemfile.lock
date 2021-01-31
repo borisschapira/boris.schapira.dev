@@ -37,7 +37,7 @@ GEM
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
     fast-stemmer (1.0.2)
-    fastimage (2.2.1)
+    fastimage (2.2.2)
     ffi (1.14.2)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
