@@ -81,7 +81,7 @@
     "sass": "^1.32.6",
     "sass-loader": "^11.0.0",
     "uglify-js": "^3.12.7",
-    "webpack": "^5.21.1",
+    "webpack": "^5.21.2",
     "webpack-cli": "^4.5.0"
   },
   "dependencies": {
