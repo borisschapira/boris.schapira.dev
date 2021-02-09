@@ -52,6 +52,11 @@ To Interactive</em>, avant d'en revoir l'appréciation à la baisse dans des
 itérations ultérieures de leurs outils
 ([à raison](https://boris.schapira.dev/2019/05/mesurer-interactivite-time-to-interactive/)).
 
+<ins class="bloc" datetime="2020-09-15">De ce que j'ai vu du
+<a href="/notes/2020-09-cumulative-layout-shift-stabilite-page/">Cumulative Layout Shift</a>, je pense qu'il sera également remplacé à moyen terme par un indicateur de meilleure qualité.</ins>
+
+<ins class="bloc" datetime="2021-01-21">Suite aux critiques des équipes de développement de SPAs, <a href="https://web.dev/better-layout-shift-metric/" hreflang="en">la réflexion semble avoir commencé</a>.</ins>
+
 ---
 
 **Préambule 3** : bien que la Performance Web soit mise en avant depuis des
