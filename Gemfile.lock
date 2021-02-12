@@ -29,7 +29,7 @@ GEM
     classifier-reborn (2.2.0)
       fast-stemmer (~> 1.0)
     colorator (1.1.0)
-    commonmarker (0.21.1)
+    commonmarker (0.21.2)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.8)
     em-websocket (0.5.2)

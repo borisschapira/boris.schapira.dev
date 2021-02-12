@@ -81,8 +81,6 @@
       comment: 'Cloudinary proxy images'
     - value: 'avatars.schapira.dev'
       comment: 'My avatars'
-    - value: 'www.gravatar.com'
-      comment: 'Gravatars, for comments'
     - value: '*.ytimg.com *.twimg.com platform.twitter.com syndication.twitter.com'
       comment: 'Twitter avatars and inclusions'
     - value: '*.googleusercontent.com'
@@ -143,8 +141,6 @@
       comment: 'Cloudinary proxy images'
     - value: 'avatars.schapira.dev'
       comment: 'My avatars'
-    - value: 'www.gravatar.com'
-      comment: 'Gravatars, for comments'
 - name: font-src
   values:
     - value: "'self'"

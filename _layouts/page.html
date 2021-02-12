@@ -7,7 +7,3 @@ layout: default_no_pagination
     {{ content }}
   </div>
 </section>
-
-{%- comment %} {% if page.comments == true %}
-{% include comments.html.liquid slug=page.slug url=page.url locale=page.locale %}
-{% endif %} {% endcomment -%}
