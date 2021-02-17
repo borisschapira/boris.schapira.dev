@@ -1,4 +1,5 @@
 /******/ (() => { // webpackBootstrap
+var __webpack_exports__ = {};
 'serviceWorker' in navigator && navigator.serviceWorker.register('/sw.js?v=1587903381').then(function (e) {
   e.onupdatefound = function () {
     var t = e.installing;
