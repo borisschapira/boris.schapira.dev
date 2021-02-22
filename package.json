@@ -46,7 +46,7 @@
     "@babel/plugin-syntax-dynamic-import": "^7.8.3",
     "@babel/plugin-transform-runtime": "^7.12.15",
     "@babel/preset-env": "^7.12.16",
-    "@fullhuman/postcss-purgecss": "^4.0.0",
+    "@fullhuman/postcss-purgecss": "^4.0.2",
     "abbr-touch": "^2.1.6",
     "autoprefixer": "^10.2.4",
     "babel-eslint": "^10.1.0",
