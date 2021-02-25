@@ -89,7 +89,11 @@ gain lié à leur travail alors qu'en réalité, ces équipes travaillent tout
 simplement à l'amélioration de l'expérience d'utilisation, ce qui va
 mécaniquement entrainer de meilleurs conversions.
 
-Réciproquement, celles qui ne verront pas de gain remetteront en cause leur travail, principalement sur les <span lang="en">Landing Pages</span>, alors qu'il est peut-être très bon et que le problème se situe plus loin, dans le tunnel, ce qui est très difficile à savoir sans une approche plus précise de la donnée.
+Réciproquement, celles qui ne verront pas de gain remetteront en cause leur
+travail, principalement sur les <span lang="en">Landing Pages</span>, alors
+qu'il est peut-être très bon et que le problème se situe plus loin, dans le
+tunnel, ce qui est très difficile à savoir sans une approche plus précise de la
+donnée.
 
 Parce qu'il est peut-être utile de le rappeler mais **la performance web, ce
 n'est que de l'UX**. C'est travailler techniquement à assurer une navigation de

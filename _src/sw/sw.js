@@ -9,7 +9,7 @@ cleanupOutdatedCaches();
 // default strategy
 setDefaultHandler(
   new StaleWhileRevalidate({
-    cacheName: 'bsc-r2d2',
+    cacheName: 'bsc-c3po',
     plugins: [new BroadcastUpdatePlugin()],
   })
 );

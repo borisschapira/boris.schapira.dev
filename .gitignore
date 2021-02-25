@@ -8,6 +8,7 @@
 /_captures/test
 /_site
 /tests/captures/test/
+/tests/captures/diff/
 
 # Local Netlify folder
 .netlify
