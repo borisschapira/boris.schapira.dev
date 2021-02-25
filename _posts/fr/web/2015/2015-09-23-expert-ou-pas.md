@@ -39,7 +39,7 @@ erreurs sur ces dernières.
 
 En classant et triant ses expériences, le débutant créé des perspectives. Quand
 il commence à choisir de lui-même la bonne perspective, il devient compétent,
-prends le contrôle de la situation, prends des initiatives (émancipation par une
+prend le contrôle de la situation, prend des initiatives (émancipation par une
 vision instinctive de la solution). Cette phase nécessite de surmonter ses
 peurs, ce qui a également pour effet de faire entrer la gestion de ses émotions
 dans le processus décisionnel.
