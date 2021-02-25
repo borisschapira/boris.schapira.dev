@@ -52,7 +52,7 @@ Pour les individus pointés du doigt, c'est une attaque directe. C'est un
 incendie. Et il y en a toujours pour se positionner en victimes plutôt qu'en
 responsables, pour minimiser, pour pathologiser la ou les femmes s'étant
 exprimées, pour détourner l'attention en se jetant dans les flammes avec la
-ferme intention de mourir en _héros_ ou en _martyre_.
+ferme intention de mourir en _héros_ ou en _martyr_.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Cancel culture ruined me”<br>“Oh no. Out of nowhere?”<br>“No, I said some bigoted stuff”<br>“And you apologized?”<br>“No. I doubled down”<br>“So you tried to move on?”<br>“No. I harassed everyone who called me out.”<br>“So...”<br>“Canceled for no reason”</p>&mdash; Jacob 🌎💧🍁☀️ (@0x606) <a href="https://twitter.com/0x606/status/1364724206810796036?ref_src=twsrc%5Etfw">February 24, 2021</a></blockquote>
 
@@ -74,13 +74,14 @@ permettant d'expliquer tout cela.
 
 <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Responsabilité ou non (cela me semble assez confus), j&#39;espère que le <a href="https://twitter.com/DevFestToulouse?ref_src=twsrc%5Etfw">@DevFestToulouse</a> et <a href="https://twitter.com/GoogleFR?ref_src=twsrc%5Etfw">@GoogleFR</a> préparent un communiqué sur leurs valeurs et les mesures qui sont en place ou vont l&#39;être en faveur de l&#39;inclusion des femmes dans la tech. Ça ne peut être qu&#39;un excellent signal.</p>&mdash; Boris (@borisschapira) <a href="https://twitter.com/borisschapira/status/1364515065731383296?ref_src=twsrc%5Etfw">February 24, 2021</a></blockquote>
 
-Ce n'est pas simple. Lors de ma présidence de Sud Web, quand nous avons voulu
-mettre en place un Code de Conduite _opérationnel_ (j'insiste sur ce point),
-cela s'est fait dans une certaine douleur. Interne à l'organisation, d'abord,
-parce qu'il n'était pas évident pour l'ensemble de l'équipe que c'était
-nécessaire (moi le premier, même si grâce à Julia Barbelane, j'ai évolué et
-ensuite adhéré à ce projet[^1]), puis externe à l'organisation, parce que les
-mêmes agacements se sont exprimés dans la communauté.
+Ce n'est pas simple. Lors de ma présidence de
+[Sud Web 2018](https://sudweb.fr/2018/), quand nous avons voulu mettre en place
+un Code de Conduite _opérationnel_ (j'insiste sur ce point), cela s'est fait
+dans une certaine douleur. Interne à l'organisation, d'abord, parce qu'il
+n'était pas évident pour l'ensemble de l'équipe que c'était nécessaire (moi le
+premier, même si grâce à Julia Barbelane, j'ai évolué et ensuite adhéré à ce
+projet[^1]), puis externe à l'organisation, parce que les mêmes agacements se
+sont exprimés dans la communauté.
 
 [^1]: _Derrière chaque allié, il y 100 féministes épuisées._
 
