@@ -109,9 +109,5 @@ Conséquences_.
 
 ---
 
-Parce que ça peut servir, j'en profite pour partager à nouveau ce tutoriel de
-Mélanie Wanga sur la manière dont on peut s'excuser. Je l'ai écouté au moins 200 fois, c'est très bien écrit.
-
-<div class="videoWrapper" style="padding-bottom: 40%;">
-<iframe loading="lazy" title="Tuto - Comment bien s&#x27;excuser" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/575893209&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-</div>
+Parce que ça peut servir, j'en profite pour partager à nouveau [ce tutoriel de
+Mélanie Wanga sur la manière dont on peut s'excuser](/notes/2019-02-comment-bien-s-excuser-melanie-wanga/).
