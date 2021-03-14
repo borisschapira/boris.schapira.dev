@@ -8,7 +8,7 @@
 
 // @ts-ignore
 try {
-    self['workbox:broadcast-update:6.1.1'] && _();
+    self['workbox:broadcast-update:6.1.2'] && _();
 }
 catch (e) { }
 
@@ -21,7 +21,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:cacheable-response:6.1.1'] && _();
+    self['workbox:cacheable-response:6.1.2'] && _();
 }
 catch (e) { }
 
@@ -34,7 +34,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:core:6.1.1'] && _();
+    self['workbox:core:6.1.2'] && _();
 }
 catch (e) { }
 
@@ -47,7 +47,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:expiration:6.1.1'] && _();
+    self['workbox:expiration:6.1.2'] && _();
 }
 catch (e) { }
 
@@ -60,7 +60,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:precaching:6.1.1'] && _();
+    self['workbox:precaching:6.1.2'] && _();
 }
 catch (e) { }
 
@@ -73,7 +73,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:range-requests:6.1.1'] && _();
+    self['workbox:range-requests:6.1.2'] && _();
 }
 catch (e) { }
 
@@ -86,7 +86,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:routing:6.1.1'] && _();
+    self['workbox:routing:6.1.2'] && _();
 }
 catch (e) { }
 
@@ -99,7 +99,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:strategies:6.1.1'] && _();
+    self['workbox:strategies:6.1.2'] && _();
 }
 catch (e) { }
 
@@ -114,8 +114,9 @@ catch (e) { }
 /******/ 	// The require function
 /******/ 	function __webpack_require__(moduleId) {
 /******/ 		// Check if module is in cache
-/******/ 		if(__webpack_module_cache__[moduleId]) {
-/******/ 			return __webpack_module_cache__[moduleId].exports;
+/******/ 		var cachedModule = __webpack_module_cache__[moduleId];
+/******/ 		if (cachedModule !== undefined) {
+/******/ 			return cachedModule.exports;
 /******/ 		}
 /******/ 		// Create a new module (and put it into the cache)
 /******/ 		var module = __webpack_module_cache__[moduleId] = {
@@ -2022,68 +2023,66 @@ class StrategyHandler {
      * @param {Request|string} input The URL or request to fetch.
      * @return {Promise<Response>}
      */
-    fetch(input) {
-        return this.waitUntil((async () => {
-            const { event } = this;
-            let request = toRequest(input);
-            if (request.mode === 'navigate' &&
-                event instanceof FetchEvent &&
-                event.preloadResponse) {
-                const possiblePreloadResponse = await event.preloadResponse;
-                if (possiblePreloadResponse) {
-                    if (false) {}
-                    return possiblePreloadResponse;
-                }
+    async fetch(input) {
+        const { event } = this;
+        let request = toRequest(input);
+        if (request.mode === 'navigate' &&
+            event instanceof FetchEvent &&
+            event.preloadResponse) {
+            const possiblePreloadResponse = await event.preloadResponse;
+            if (possiblePreloadResponse) {
+                if (false) {}
+                return possiblePreloadResponse;
             }
-            // If there is a fetchDidFail plugin, we need to save a clone of the
-            // original request before it's either modified by a requestWillFetch
-            // plugin or before the original request's body is consumed via fetch().
-            const originalRequest = this.hasCallback('fetchDidFail') ?
-                request.clone() : null;
-            try {
-                for (const cb of this.iterateCallbacks('requestWillFetch')) {
-                    request = await cb({ request: request.clone(), event });
-                }
+        }
+        // If there is a fetchDidFail plugin, we need to save a clone of the
+        // original request before it's either modified by a requestWillFetch
+        // plugin or before the original request's body is consumed via fetch().
+        const originalRequest = this.hasCallback('fetchDidFail') ?
+            request.clone() : null;
+        try {
+            for (const cb of this.iterateCallbacks('requestWillFetch')) {
+                request = await cb({ request: request.clone(), event });
             }
-            catch (err) {
-                throw new WorkboxError_WorkboxError('plugin-error-request-will-fetch', {
-                    thrownError: err,
+        }
+        catch (err) {
+            throw new WorkboxError_WorkboxError('plugin-error-request-will-fetch', {
+                thrownError: err,
+            });
+        }
+        // The request can be altered by plugins with `requestWillFetch` making
+        // the original request (most likely from a `fetch` event) different
+        // from the Request we make. Pass both to `fetchDidFail` to aid debugging.
+        const pluginFilteredRequest = request.clone();
+        try {
+            let fetchResponse;
+            // See https://github.com/GoogleChrome/workbox/issues/1796
+            fetchResponse = await fetch(request, request.mode === 'navigate' ?
+                undefined : this._strategy.fetchOptions);
+            if (false) {}
+            for (const callback of this.iterateCallbacks('fetchDidSucceed')) {
+                fetchResponse = await callback({
+                    event,
+                    request: pluginFilteredRequest,
+                    response: fetchResponse,
                 });
             }
-            // The request can be altered by plugins with `requestWillFetch` making
-            // the original request (most likely from a `fetch` event) different
-            // from the Request we make. Pass both to `fetchDidFail` to aid debugging.
-            const pluginFilteredRequest = request.clone();
-            try {
-                let fetchResponse;
-                // See https://github.com/GoogleChrome/workbox/issues/1796
-                fetchResponse = await fetch(request, request.mode === 'navigate' ?
-                    undefined : this._strategy.fetchOptions);
-                if (false) {}
-                for (const callback of this.iterateCallbacks('fetchDidSucceed')) {
-                    fetchResponse = await callback({
-                        event,
-                        request: pluginFilteredRequest,
-                        response: fetchResponse,
-                    });
-                }
-                return fetchResponse;
+            return fetchResponse;
+        }
+        catch (error) {
+            if (false) {}
+            // `originalRequest` will only exist if a `fetchDidFail` callback
+            // is being used (see above).
+            if (originalRequest) {
+                await this.runCallbacks('fetchDidFail', {
+                    error,
+                    event,
+                    originalRequest: originalRequest.clone(),
+                    request: pluginFilteredRequest.clone(),
+                });
             }
-            catch (error) {
-                if (false) {}
-                // `originalRequest` will only exist if a `fetchDidFail` callback
-                // is being used (see above).
-                if (originalRequest) {
-                    await this.runCallbacks('fetchDidFail', {
-                        error,
-                        event,
-                        originalRequest: originalRequest.clone(),
-                        request: pluginFilteredRequest.clone(),
-                    });
-                }
-                throw error;
-            }
-        })());
+            throw error;
+        }
     }
     /**
      * Calls `this.fetch()` and (in the background) runs `this.cachePut()` on
@@ -2113,26 +2112,24 @@ class StrategyHandler {
      * @param {Request|string} key The Request or URL to use as the cache key.
      * @return {Promise<Response|undefined>} A matching response, if found.
      */
-    cacheMatch(key) {
-        return this.waitUntil((async () => {
-            const request = toRequest(key);
-            let cachedResponse;
-            const { cacheName, matchOptions } = this._strategy;
-            const effectiveRequest = await this.getCacheKey(request, 'read');
-            const multiMatchOptions = { ...matchOptions, ...{ cacheName } };
-            cachedResponse = await caches.match(effectiveRequest, multiMatchOptions);
-            if (false) {}
-            for (const callback of this.iterateCallbacks('cachedResponseWillBeUsed')) {
-                cachedResponse = (await callback({
-                    cacheName,
-                    matchOptions,
-                    cachedResponse,
-                    request: effectiveRequest,
-                    event: this.event,
-                })) || undefined;
-            }
-            return cachedResponse;
-        })());
+    async cacheMatch(key) {
+        const request = toRequest(key);
+        let cachedResponse;
+        const { cacheName, matchOptions } = this._strategy;
+        const effectiveRequest = await this.getCacheKey(request, 'read');
+        const multiMatchOptions = { ...matchOptions, ...{ cacheName } };
+        cachedResponse = await caches.match(effectiveRequest, multiMatchOptions);
+        if (false) {}
+        for (const callback of this.iterateCallbacks('cachedResponseWillBeUsed')) {
+            cachedResponse = (await callback({
+                cacheName,
+                matchOptions,
+                cachedResponse,
+                request: effectiveRequest,
+                event: this.event,
+            })) || undefined;
+        }
+        return cachedResponse;
     }
     /**
      * Puts a request/response pair in the cache (and invokes any applicable
@@ -2897,8 +2894,7 @@ class PrecacheController_PrecacheController {
      * Note: this method calls `event.waitUntil()` for you, so you do not need
      * to call it yourself in your event handlers.
      *
-     * @param {Object} options
-     * @param {Event} options.event The install event.
+     * @param {ExtendableEvent} event
      * @return {Promise<module:workbox-precaching.InstallResult>}
      */
     install(event) {
@@ -2933,7 +2929,7 @@ class PrecacheController_PrecacheController {
      * Note: this method calls `event.waitUntil()` for you, so you do not need
      * to call it yourself in your event handlers.
      *
-     * @param {ExtendableEvent}
+     * @param {ExtendableEvent} event
      * @return {Promise<module:workbox-precaching.CleanupResult>}
      */
     activate(event) {
