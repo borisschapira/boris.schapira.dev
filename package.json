@@ -106,7 +106,7 @@
     "workbox-core": "^6.1.1",
     "workbox-expiration": "^6.1.1",
     "workbox-precaching": "^6.1.1",
-    "workbox-range-requests": "^6.1.1",
+    "workbox-range-requests": "^6.1.2",
     "workbox-routing": "^6.1.1",
     "workbox-strategies": "^6.1.1",
     "workbox-sw": "^6.1.1"
