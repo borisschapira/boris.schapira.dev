@@ -9,6 +9,7 @@ import './subscripts/footnotesAlternatives';
 import { abbrTouch } from './vendors/abbr-touch';
 
 import './subscripts/tagCloudManagement';
+import './subscripts/nakedDay';
 
 ready(function() {
   perfmark(function() {
