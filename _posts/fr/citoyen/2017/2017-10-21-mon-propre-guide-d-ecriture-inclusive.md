@@ -79,8 +79,8 @@ réactionnaires d'aujourd'hui.
 **Non**, ça n'est pas parfait, ni dans l'usage ni dans la graphie, et je suis
 prêt à faire évoluer ma position si on me propose mieux.
 
-**Oui**, c'est complètement idéologique donc pas la peine de le souligner.
-Permettez moi en revanche que continuer à utiliser une langue sexiste est
+**Oui**, c'est complètement idéologique donc ce n'est pas la peine de le souligner.
+Permettez-moi, en revanche, de souligner que continuer à utiliser une langue sexiste est
 également un choix, que vous le revendiquiez ou non.
 
 **Non**, ce n'est pas absolu et je n'oblige personne à pratiquer ces techniques,
