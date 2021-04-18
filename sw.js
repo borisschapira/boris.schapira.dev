@@ -8,7 +8,7 @@
 
 // @ts-ignore
 try {
-    self['workbox:broadcast-update:6.1.2'] && _();
+    self['workbox:broadcast-update:6.1.5'] && _();
 }
 catch (e) { }
 
@@ -21,7 +21,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:cacheable-response:6.1.2'] && _();
+    self['workbox:cacheable-response:6.1.5'] && _();
 }
 catch (e) { }
 
@@ -34,7 +34,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:core:6.1.2'] && _();
+    self['workbox:core:6.1.5'] && _();
 }
 catch (e) { }
 
@@ -47,7 +47,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:expiration:6.1.2'] && _();
+    self['workbox:expiration:6.1.5'] && _();
 }
 catch (e) { }
 
@@ -60,7 +60,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:precaching:6.1.2'] && _();
+    self['workbox:precaching:6.1.5'] && _();
 }
 catch (e) { }
 
@@ -73,7 +73,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:range-requests:6.1.2'] && _();
+    self['workbox:range-requests:6.1.5'] && _();
 }
 catch (e) { }
 
@@ -86,7 +86,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:routing:6.1.2'] && _();
+    self['workbox:routing:6.1.5'] && _();
 }
 catch (e) { }
 
@@ -99,7 +99,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:strategies:6.1.2'] && _();
+    self['workbox:strategies:6.1.5'] && _();
 }
 catch (e) { }
 
@@ -3443,6 +3443,8 @@ class Router {
      *
      * @param {Object} options
      * @param {URL} options.url
+     * @param {boolean} options.sameOrigin The result of comparing `url.origin`
+     *     against the current origin.
      * @param {Request} options.request The request to match.
      * @param {Event} options.event The corresponding event.
      * @return {Object} An object with `route` and `params` properties.
