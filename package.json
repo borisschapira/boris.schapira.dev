@@ -90,7 +90,7 @@
     "hasha": "^5.2.2",
     "instant.page": "^5.1.0",
     "js-md5": "^0.7.3",
-    "js-yaml": "^4.0.0",
+    "js-yaml": "^4.1.0",
     "mkdirp": "^1.0.4",
     "mocha": "^8.3.2",
     "pixelmatch": "^5.2.1",
