@@ -57,7 +57,7 @@
     "csswring": "^7.0.0",
     "easy-toggle-state": "^1.16.0",
     "eslint": "^7.24.0",
-    "eslint-config-prettier": "^8.2.0",
+    "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-chai-expect": "^2.2.0",
     "eslint-plugin-import": "^2.22.1",
     "fast-xml-parser": "^3.19.0",
