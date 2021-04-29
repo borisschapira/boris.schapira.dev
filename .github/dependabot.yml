@@ -1,0 +1,120 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: weekly
+    time: "04:00"
+  open-pull-requests-limit: 10
+  target-branch: dev
+  ignore:
+  - dependency-name: eslint-config-prettier
+    versions:
+    - 8.0.0
+    - 8.3.0
+  - dependency-name: eslint
+    versions:
+    - 7.21.0
+    - 7.23.0
+    - 7.24.0
+    - 7.25.0
+  - dependency-name: npm
+    versions:
+    - 7.11.1
+    - 7.6.0
+    - 7.7.5
+    - 7.8.0
+    - 7.9.0
+  - dependency-name: js-yaml
+    versions:
+    - 4.1.0
+  - dependency-name: postcss
+    versions:
+    - 8.2.10
+    - 8.2.12
+    - 8.2.9
+  - dependency-name: escape-string-regexp
+    versions:
+    - 5.0.0
+  - dependency-name: sass
+    versions:
+    - 1.32.11
+    - 1.32.8
+  - dependency-name: webpack
+    versions:
+    - 5.21.2
+    - 5.23.0
+    - 5.25.1
+    - 5.27.1
+    - 5.28.0
+    - 5.30.0
+    - 5.31.2
+    - 5.35.1
+  - dependency-name: "@babel/core"
+    versions:
+    - 7.12.17
+    - 7.13.13
+    - 7.13.14
+    - 7.13.15
+    - 7.13.16
+    - 7.13.8
+  - dependency-name: "@babel/plugin-transform-runtime"
+    versions:
+    - 7.12.17
+    - 7.13.15
+    - 7.13.8
+  - dependency-name: uglify-js
+    versions:
+    - 3.13.2
+    - 3.13.3
+    - 3.13.4
+  - dependency-name: "@babel/preset-env"
+    versions:
+    - 7.12.17
+    - 7.13.12
+    - 7.13.15
+    - 7.13.8
+  - dependency-name: webpack-cli
+    versions:
+    - 4.6.0
+  - dependency-name: globby
+    versions:
+    - 11.0.3
+  - dependency-name: workbox-expiration
+    versions:
+    - 6.1.2
+  - dependency-name: workbox-sw
+    versions:
+    - 6.1.2
+  - dependency-name: workbox-broadcast-update
+    versions:
+    - 6.1.2
+  - dependency-name: slugify
+    versions:
+    - 1.4.7
+    - 1.5.0
+  - dependency-name: workbox-range-requests
+    versions:
+    - 6.1.2
+  - dependency-name: workbox-core
+    versions:
+    - 6.1.2
+  - dependency-name: workbox-cacheable-response
+    versions:
+    - 6.1.2
+  - dependency-name: workbox-routing
+    versions:
+    - 6.1.2
+  - dependency-name: "@fullhuman/postcss-purgecss"
+    versions:
+    - 4.0.2
+  - dependency-name: rss-parser
+    versions:
+    - 3.12.0
+- package-ecosystem: bundler
+  directory: "/"
+  schedule:
+    interval: weekly
+    time: "04:00"
+  open-pull-requests-limit: 10
+  target-branch: dev
