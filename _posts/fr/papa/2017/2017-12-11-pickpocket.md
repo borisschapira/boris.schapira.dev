@@ -12,6 +12,6 @@ Un pique-soquettes, donc.
 {% capture alt_text%}Homme tenant une pile de chaussette et les distribuant en
 les lançant comme des billets de banque.{% endcapture %}
 {% include video_as_a_gif.html.liquid
-url="/assets/images/papa/2017-12-11/tromper"
+url="/assets/images/papa/2017-12-08/tromper"
 alt=alt_text
 %}
