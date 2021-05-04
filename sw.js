@@ -5182,7 +5182,7 @@ class RangeRequestsPlugin {
 //  suggests that could be a problem in Safari.)
 // We need access to the video data in the response body, so opaque responses are a no-no.
 
-registerRoute_registerRoute((_ref) => {
+registerRoute_registerRoute(_ref => {
   var {
     event
   } = _ref;
@@ -5715,7 +5715,7 @@ class ExpirationPlugin {
 // while making sure you don’t cache them indefinitely,
 // consuming your users' storage.
 
-registerRoute_registerRoute((_ref) => {
+registerRoute_registerRoute(_ref => {
   var {
     request
   } = _ref;
@@ -5732,7 +5732,7 @@ registerRoute_registerRoute((_ref) => {
 
 
 
-registerRoute_registerRoute((_ref) => {
+registerRoute_registerRoute(_ref => {
   var {
     request
   } = _ref;
