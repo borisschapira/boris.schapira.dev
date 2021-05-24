@@ -184,7 +184,7 @@ button.btn--link-like {
 
 blockquote,
 .inline-note {
-  padding: 0 $global-gutters/2;
+  padding: 0 math.div($global-gutters, 2);
   border: none;
   border-left: 0.25rem solid var(--color-main);
   li {

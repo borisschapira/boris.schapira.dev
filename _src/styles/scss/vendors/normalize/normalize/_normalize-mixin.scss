@@ -90,10 +90,10 @@
       @if $base-font-size != 16px or $normalize-vertical-rhythm {
         // Correct old browser bug that prevented accessible resizing of text
         // when root font-size is set with px or em.
-        font-size: ($base-font-size / 16px) * 100%;
+        font-size: math.div($base-font-size, 16px) * 100%;
       }
       @if $normalize-vertical-rhythm {
-        line-height: ($base-line-height / $base-font-size) * 1em; /* 1 */
+        line-height: math.div($base-line-height, $base-font-size) * 1em; /* 1 */
       } @else {
         line-height: 1.15; /* 1 */
       }
@@ -445,7 +445,7 @@
       font-family: if($base-font-family, $base-font-family, sans-serif); /* 1 */
       font-size: 100%; /* 1 */
       @if $normalize-vertical-rhythm {
-        line-height: ($base-line-height / $base-font-size) * 1em; /* 1 */
+        line-height: math.div($base-line-height, $base-font-size) * 1em; /* 1 */
       } @else {
         line-height: 1.15; /* 1 */
       }

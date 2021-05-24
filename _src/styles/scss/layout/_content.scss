@@ -22,7 +22,7 @@
 .meta {
   font-size: unquote('max(16px, 0.85rem)');
   color: var(--color-main-gray);
-  margin-top: $global-gutters/2;
+  margin-top: math.div($global-gutters, 2);
 
   > span {
     &::before {

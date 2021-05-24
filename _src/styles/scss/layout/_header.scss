@@ -33,7 +33,7 @@
   nav ul {
     display: block;
     position: fixed;
-    margin: $global-gutters/2;
+    margin: math.div($global-gutters, 2);
     top: 0;
     left: 100%;
     width: 100%;

@@ -13,7 +13,7 @@
   gap: $global-gutters;
 
   @include media('<=small') {
-    gap: $global-gutters/2;
+    gap: math.div($global-gutters, 2);
   }
   @include media('<=xsmall') {
     gap: 0;
