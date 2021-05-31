@@ -14,9 +14,17 @@ GEM
       rainbow (~> 3.0)
       typhoeus (~> 1.3)
       yell (~> 2.0)
+    io-wait (0.1.0)
     mercenary (0.4.0)
-    mini_portile2 (2.5.1)
-    nokogiri (1.11.3)
+    mini_portile2 (2.5.2)
+      net-ftp (~> 0.1)
+    net-ftp (0.1.2)
+      net-protocol
+      time
+    net-protocol (0.1.1)
+      io-wait
+      timeout
+    nokogiri (1.11.6)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     nokogumbo (2.0.5)
@@ -25,6 +33,8 @@ GEM
     public_suffix (4.0.6)
     racc (1.5.2)
     rainbow (3.0.0)
+    time (0.1.0)
+    timeout (0.1.1)
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
     yell (2.2.2)
