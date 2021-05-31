@@ -1,3 +1,5 @@
+@use 'sass:math';
+
 .page-title {
   font-family: $title-font-family;
   grid-column: 1 / 13;
