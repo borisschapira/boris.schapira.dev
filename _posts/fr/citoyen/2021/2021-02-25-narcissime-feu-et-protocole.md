@@ -109,5 +109,5 @@ Conséquences_.
 
 ---
 
-Parce que ça peut servir, j'en profite pour partager à nouveau [ce tutoriel de
-Mélanie Wanga sur la manière dont on peut s'excuser](/notes/2019-02-comment-bien-s-excuser-melanie-wanga/).
+Parce que ça peut servir, j'en profite pour partager à nouveau
+[ce tutoriel de Mélanie Wanga sur la manière dont on peut s'excuser](/notes/2019-02-comment-bien-s-excuser-melanie-wanga/).

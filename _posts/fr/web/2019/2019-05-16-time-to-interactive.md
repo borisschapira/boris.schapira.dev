@@ -500,9 +500,9 @@ interactions" où, pour déduire la frustration de l’utilisateur, chaque Long 
 serait pondérée par sa durée et le moment où elle se produit, en relation avec
 d’autres indicateurs (par exemple, les indicateurs de rendu).
 
-Nic Jansma, dans l’étude mentionnée précédemment, a observé la distribution
-des durées des Long Tasks et a trouvé une corrélation avec la conversion.
-J’espère que nous progresserons sur ce point dans les années à venir.
+Nic Jansma, dans l’étude mentionnée précédemment, a observé la distribution des
+durées des Long Tasks et a trouvé une corrélation avec la conversion. J’espère
+que nous progresserons sur ce point dans les années à venir.
 
 {% capture img_alt %} Temps de la première LongTask vs. Taux de conversion
 (gauche) ; Temps de la première LongTask vs. Durée de session (droite)
