@@ -27,11 +27,11 @@ l'article.
 
 Dans notre société, tout ce qui est reproductif est associé aux femmes et la
 très grande majorité des femmes fait l'expérience d'être considérée comme une
-mère (qu'elle le veuille ou non).
+mère (qu'elles le veuillent ou non).
 
 L'horloge biologique, l'instinct maternel, sont des inventions destinées à
 inculquer aux femmes qu'elles doivent porter la charge de la procréation et de
-l'élevage des enfants. Pire, qu'elles y serait naturellement prédisposées.
+l'éducation des enfants. Pire, qu'elles y serait naturellement prédisposées.
 
 Si elles ne souhaitent pas ce destin, ou souhaitent en choisir les modalités, la
 société leur inculque qu'encore une fois, c'est à elles de faire attention en
