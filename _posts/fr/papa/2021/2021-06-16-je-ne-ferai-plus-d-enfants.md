@@ -313,3 +313,11 @@ Je suis si heureux d'avoir pu vivre ça, de les avoir vu grandir et de continuer
 
 J'ai 37 ans, une femme que j'aime a accepté de faire avec moi deux enfants que
 j'adore et maintenant, une page se tourne.
+
+---
+
+Big up à mes confrères dont j'ai découvert qu'ils y étaient passé avant moi ou
+qu'ils y avaient pensé ou y pensaient et dont les témoignages m'ont aussi aidé à
+prendre ma décision : Mikael, Thomas, Les Nicos C, D et S, Alexandre, Loïc,
+Ludo. Merci pour les conversations "entre couilles" (pour une fois, l'expression
+est pertinente).
