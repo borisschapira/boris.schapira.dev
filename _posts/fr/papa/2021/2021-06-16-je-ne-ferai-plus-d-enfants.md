@@ -294,14 +294,18 @@ tellement _simple_ qu'il m'est arrivé de douter sur le fait que ça ait marcher
 
 ### La suite ?
 
-Dans trois mois, je devrai passer un spermogramme pour vérifier que je suis bien
-stérile. S'il est à 0, l'opération aura été un succès. Sinon, nous attendrons
-quelques semaines avant d'en refaire un nouveau et si le résultat se confirme,
-je me ferai opérer de nouveau.
+Pendant trois mois, je continue à me comporter comme avant. Même si l'opération
+est une réussite, mon organisme doit se débarasser des spermatozoides déjà
+engagés dans les canaux déférents.
 
-La perspective ne m'enchante pas, mais je n'ai pas peur non plus. L'ayant déjà
-vécu, je pense que je serai encore plus en confiance pour le refaire. Et
-toujours aussi motivé.
+Ensuite, je devrai passer un spermogramme pour vérifier que je suis bien
+stérile. S'il est à 0, l'opération aura été un succès et ma femme pourra se
+débarraser de son dispositif intra-utérin.
+
+Sinon, nous attendrons quelques semaines avant de refaire un nouveau test et si
+le résultat se confirme, je me ferai opérer de nouveau. La perspective ne
+m'enchante pas, mais je n'ai pas peur non plus. L'ayant déjà vécu, je pense que
+je serai encore plus en confiance pour le refaire. Et toujours aussi motivé.
 
 Émotionellement, je crois que je n'ai pas encore assimilé l'information. Je sais
 que c'est curieux à dire, mais je garde un sanglot étouffé chaque fois que je me
@@ -318,6 +322,6 @@ j'adore et maintenant, une page se tourne.
 
 Big up à mes confrères dont j'ai découvert qu'ils y étaient passé avant moi ou
 qu'ils y avaient pensé ou y pensaient et dont les témoignages m'ont aussi aidé à
-prendre ma décision : Mikael, Thomas, Les Nicos C, D et S, Alexandre, Loïc,
-Ludo. Merci pour les conversations "entre couilles" (pour une fois, l'expression
-est pertinente).
+prendre ma décision : Mikael, Thomas, Les Nicos C, D et S, Alexandre, Loïc, Ludo
+et j'en oublie. Merci pour les conversations "entre couilles" (pour une fois,
+l'expression est pertinente).
