@@ -31,7 +31,7 @@ productions, dans les projets, dans les porte-feuilles, dans le marché, dans
 leur propre tête. Déconstruire son environnement pour mieux construire à
 l'intérieur.
 
-Certain·e·s sont parfois désemparé·e·s par mon honneteté, quand je leur dis ce
+Certain·es sont parfois désemparé·es par mon honneteté, quand je leur dis ce
 que j'attends d'eux. Il faut dire que je n'ai aucun doute sur le fait que mes
 élèves sont plus jeunes, plus dynamiques, plus intelligents et ont bien plus de
 temps libre que moi. Armés des bons outils méthodologiques et d'un jeu de

@@ -32,4 +32,4 @@ Ce à quoi le petit répond :
 > de la Chine, tu vois ! Donc faut pas s'inquiéter ! Moi, j'aimerai trop avoir
 > un copain chinois !
 
-Avis aux intéréssé·e·s !
+Avis aux intéréssé·es !

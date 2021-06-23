@@ -32,7 +32,7 @@ groupes de travail de manière dématérialisée, afin de réduire les coûts et
 faciliter la vie de leurs salariés ? Mais non, pas l'Assemblée…
 
 On continuera à faire semblant, dans les prochains jours, de découvrir le
-profils des élu·e·s. Ils et elles seront cadres, intelectuel·le·s, de
+profils des élu·es. Ils et elles seront cadres, intelectuel·le·s, de
 professions libérales. Autant dire : absolument pas représentatifs de la
 Société. Comme avant, donc. Vous pouvez "renouveller" autant que vous voulez,
 tant qu'on façonnera nos députés dans les mêmes moules…

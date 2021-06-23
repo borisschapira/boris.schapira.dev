@@ -10,7 +10,7 @@ Ingénieur de formation[^1], je suis <span lang="en">Customer Success
 Manager</span> pour
 [Dareboost](https://www.dareboost.com/ 'Analyse de site Web, Test de Performance et Audit qualité - DareBoost'),
 une solution d'audit complet de la qualité web pour un site plus performant. Mon
-rôle est d’aider mes client·e·s à améliorer leurs performances en étant attentif
+rôle est d’aider mes client·es à améliorer leurs performances en étant attentif
 à leurs questions et en les aidant à utiliser Dareboost à son plein potentiel.
 
 Vous avez pu me rencontrer précédemment autour de problématiques liées au

@@ -315,7 +315,7 @@ Vous pouvez envisager d’automatiser ces tests en utilisant des outils basés s
 un navigateur. Puppeteer est l’un d’entre eux et
 [peut être utilisé pour tester le comportement](https://github.com/GoogleChromeLabs/puppeteer-examples/blob/master/lazyimages_without_scroll_events.js)
 de votre <span lang="en">Lazy Loading</span> avec Chrome ou Chromium, pour
-s’assurer que vos vrai·e·s visiteurs·euses verront vos images.
+s’assurer que vos vrai·es visiteurs·euses verront vos images.
 
 Pour vérifier que les robots d’indexation verront également vos images, vous
 pouvez demander à Google lui-même, en utilisant l’outil Inspecteur d’URL de la

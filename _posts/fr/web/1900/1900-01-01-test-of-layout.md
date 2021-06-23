@@ -71,7 +71,7 @@ Hello ! 4 px, 5 % ?
 **Median point (french)**
 
 Il·Elle est intéressé·e.  
-Ils·Elles sont intéressé·e·s.
+Ils·Elles sont intéressé·es.
 
 **Numeral**
 

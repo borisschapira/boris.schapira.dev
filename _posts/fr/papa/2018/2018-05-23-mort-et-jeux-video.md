@@ -23,7 +23,7 @@ avant, en
 C'est donc même un sujet qui nous touche. Et parce que nous considérons que, sur
 ce sujet comme sur d'autre, il n'y a pas à avoir de tabous, nous en parlons sans
 déni, ni secret, et surtout sans honte, y compris de nos propres angoisses. Les
-enfants savent que leurs proches mourront, que certain·e·s sont déjà morts, que
+enfants savent que leurs proches mourront, que certain·es sont déjà morts, que
 nous mourrons et qu'eux aussi mourrons, un jour, de préférence dans beaucoup,
 beaucoup de dodos.
 

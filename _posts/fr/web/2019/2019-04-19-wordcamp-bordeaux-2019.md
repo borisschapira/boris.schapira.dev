@@ -27,8 +27,8 @@ Rapidement, le petit déjeuner pris place, avec son lot de réseautage.
 
 Il s'agissait de mon premier Wordcamp, à la fois comme orateur et participant.
 J'ai rapidement pris la température de l'événement : je dirais que 60 % des
-participant·e·s se connaissaient déjà (réellement ou virtuellement) et étaient
-ravi·e·s de se revoir tandis que les autres, moi vocaux, avaient parfois un peu
+participant·es se connaissaient déjà (réellement ou virtuellement) et étaient
+ravi·es de se revoir tandis que les autres, moi vocaux, avaient parfois un peu
 de mal à s'intégrer. L'ambiance s'est réchauffée assez vite mais pour une future
 édition, je recommande un petit <i lang="en">ice breaker</i>.
 
@@ -49,7 +49,7 @@ sur l'évolution des usages qui en sont faits.
 
 Trop peu de gens restèrent pour l'intervention de
 [l'accessibilité, par Marie Guillaumet](https://wordpress.tv/2019/04/18/marie-guillaumet-8-conseils-pour-rendre-votre-theme-wordpress-plus-accessible/).
-Je préfère me dire que les participant·e·s ont préféré assister à la conférence
+Je préfère me dire que les participant·es ont préféré assister à la conférence
 de Daniel Roch sur l'audit de sites Wordpress mais en réalité, je sais qu'il y a
 souvent une défection pour les sujets en rapport avec l'accessibilité, ce qui
 confirme qu'il est toujours nécessaire d'en proposer et d'en présenter.  
@@ -93,5 +93,5 @@ Le tout, sans arriver à protéger nos données
 Je n'ai malheureusement pas pu rester jusqu'à la fin de la conférence ; je
 devais retourner sur Périgueux avant une certaine heure.  
 J'ai vraiment apprécié cette conférence et je pense que je reviendrai avec
-plaisir une prochaine fois. Un grand merci à tous les participant·e·s, les
-intervenant·e·s et, bien sûr, l'équipe derrière l'événenement !
+plaisir une prochaine fois. Un grand merci à tous les participant·es, les
+intervenant·es et, bien sûr, l'équipe derrière l'événenement !

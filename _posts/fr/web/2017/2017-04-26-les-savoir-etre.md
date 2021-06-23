@@ -12,7 +12,7 @@ jouer dans une équipe sans détenir
 [d'expertise](/notes/2015-09-expert-ou-pas/ 'Expert ou pas ?') particulière.
 
 Au fil des années, j'ai donc établi une grille d'évaluation personnelle qui me
-permet de mieux cerner les candidat·e·s, en dehors de leurs simples compétences
+permet de mieux cerner les candidat·es, en dehors de leurs simples compétences
 techniques. Je m'en sers comme base d'analyse et la relis avant et après chaque
 rendez-vous pour ensuite pouvoir écrire un compte-rendu d'entretien de qualité
 aux personnes qui m'ont demandé de m'en occuper.

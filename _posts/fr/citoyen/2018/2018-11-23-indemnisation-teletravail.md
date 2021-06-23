@@ -57,7 +57,7 @@ Elle supprime notamment le premier alinéa de cette liste :
 
 La phrase, telle qu'elle existait, indiquait l'obligation d'une prise en charge
 des coûts liés à l'exécution du télétravail aux frais réels. Or dans une volonté
-de simplifier la relation des salarié·e·s et entreprises au télétravail, il
+de simplifier la relation des salarié·es et entreprises au télétravail, il
 était important de donner un signal politique fort, un "choc de simplification"
 comme dirait un certain François H., livreur Deliveroo motorisé à Paris 8.
 
@@ -72,7 +72,7 @@ _En pratique, ce "droit au télétravail" n'a aucun impact, la qualité de la
 motivation n'étant pas évaluable._
 
 Tout cela me permet de comprendre pourquoi certains pourraient penser que les
-coûts relatifs au télétravail sont désormais à la charge des salarié·e·s.
+coûts relatifs au télétravail sont désormais à la charge des salarié·es.
 
 Ceci étant, ce n'est pas parce que des modifications ont eu lieu dans le Code du
 Travail que l'Accord National Interprofessionnel de 2005 a disparu. À défaut
@@ -119,7 +119,7 @@ une mauvaise image de votre structure.
 
 N'ayez pas peur : vous avez déjà mis en place le télétravail. Vous êtes des
 innovateurs, qui osez prendre des risques ! Prenez donc celui d’entamer le
-dialogue avec vos salarié·e·s, en toute transparence, et convenez avec eux de
+dialogue avec vos salarié·es, en toute transparence, et convenez avec eux de
 forfaits justes. Ils et elles seront plus heureux et heureuses, et en parleront
 autour d'eux !
 
@@ -136,7 +136,7 @@ autour d'eux !
 
 ---
 
-**Aux salarié·e·s découvrant ces informations**
+**Aux salarié·es découvrant ces informations**
 
 Gardez en tête que la compréhension du Code du Travail n'est pas simple et
 permanente. Ne considérez donc pas que votre employeur vous a "arnaqué" mais
@@ -146,7 +146,7 @@ des Ressources Humaines avec ces éléments, pour entamer une discussion.
 Le télétravail à temps complet est un sujet sensible, avec ses totems et ses
 tabous, mais également un sujet fondamental pour la société. Il est porteur de
 modifications profondes dans les mécaniques de confiance entre employeurs et
-salarié·e·s et accompagne la définition d'un nouvel urbanisme décentralisé.
+salarié·es et accompagne la définition d'un nouvel urbanisme décentralisé.
 
 Il m'a été fait le reproche de jeter l’opprobre sur des employeurs qui font déjà
 l'énorme pas en avant d'accepter le télétravail.  
@@ -157,13 +157,13 @@ comprends que vous ne souhaitiez pas que votre employeur reviennent sur la
 possibilité de télétravail à temps complet qu'il compte ou vous a déjà accordé.
 
 Cependant, tel que je le conçois, le télétravail à temps complet est, par
-essence, réservé à une poignée de professions privilégié·e·s (si vous y êtes
+essence, réservé à une poignée de professions privilégié·es (si vous y êtes
 éligible, soyez-en conscient·e) et aujourd'hui accessible, au sein de ces
 professions, par une partie infime de personnes qui ont la main haute dans les
 négociations (donc encore plus privilégiée).  
 J'ai l'intime conviction que si ces personnes abandonnent leurs droits et
 concèdent à prendre en charge ces coûts, cela construira un précédent qui
-définira le dialogue social pour les salarié·e·s qui accéderont au télétravail
+définira le dialogue social pour les salarié·es qui accéderont au télétravail
 dans plusieurs années. Pour une personne au SMIC, cela représente chaque année
 un mois entier de salaire net.
 

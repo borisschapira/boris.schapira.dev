@@ -11,7 +11,7 @@ Le contexte est ici particulier, puisqu'il s'agit d'un télétravail d'urgence,
 lié à l'impossibilité d'utiliser les transports en commun en période de grève,
 mais je pense que l'effet signalé se produit également quand une entreprise
 décide de se lancer réellement dans le télétravail, notamment avec des
-salarié·e·s à temps plein.
+salarié·es à temps plein.
 
 [^bfm]:
     "[Pourquoi vous n'allez pas pouvoir télétravailler durant toute la grève](https://www.bfmtv.com/economie/pourquoi-vous-n-allez-pas-pouvoir-teletravailler-durant-toute-la-greve-1822176.html)"
@@ -47,7 +47,7 @@ autorisez à être négatif (les deux sont **nécessaires**).
 
 ## Le rapport au management
 
-Le rapport des salarié·e·s à leur reponsable change, évidemment, et
+Le rapport des salarié·es à leur reponsable change, évidemment, et
 réciproquement. Dans la mesure où les travailleurs·euses sont plus isoler, il
 est plus que jamais nécessaire de créer du sens autour de leur poste et de leurs
 tâches, afin de leur permettre d'acquérir la plus grande autonomie possible.
@@ -85,7 +85,7 @@ ligne à sa place en lui volant le clavier, ou en lui pointant une erreur avec l
 doigt. Difficile de présupposer du cadre de l'interlocuteur, ça nécessite un
 effort de prise de recul. Je remarque que le coworking est souvent vu comme une
 alternative. Mais attention à l'effet "béquille sur jambe de bois". Beaucoup
-sont satisfait·e·s de leur coworking sans forcément l'être de leur entreprise.
+sont satisfait·es de leur coworking sans forcément l'être de leur entreprise.
 En effet, le coworking a meilleure réputation parce qu'il corrige le premier
 point – l'isolation – et permet de gérer les frustrations des autres points en
 donnant à la personne le moyen d'avoir des interlocuteur·ice·s à qui parler de
@@ -107,10 +107,10 @@ motivé. Mais pour ça, encore faut-il pouvoir être autonome. Si le poste ne le
 permet pas, alors c'est avant tout qu'il est mal défini ou n'est pas compatible
 avec le télétravail. Du coup, managers, si à l'issue de cette première
 expérience de télétravail, la productivité baisse : ne tapez pas sur les
-salarié·e·s et leur "motivation". Prenez un grand bol d'air et réfléchissez à
+salarié·es et leur "motivation". Prenez un grand bol d'air et réfléchissez à
 votre projet d'année sabbatique sans que l'équipe s'écroule. Bon voilà, c'est
 écrit un peu vite et sans réelle construction, mais si ça peut servir à
-d'apprenti·e·s managers d'équipes en remote à se mettre dans le bon état
+d'apprenti·es managers d'équipes en remote à se mettre dans le bon état
 d'esprit, ça n'aura pas servi à rien.
 
 <3 sur vous !

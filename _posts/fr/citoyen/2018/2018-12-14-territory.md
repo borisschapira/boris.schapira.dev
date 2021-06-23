@@ -18,8 +18,8 @@ d'être réitéré._
 
 Nous savons qu'un nombre croissant d'organismes, privés ou publics, nous
 modélise. Pistage en ligne, objets connectés, profils fantômes, analyses de
-cohortes… Nous sommes défini·e·s de manière incomplète, injustement (dans les
-deux sens du termes) cartographié·e·s.
+cohortes… Nous sommes défini·es de manière incomplète, injustement (dans les
+deux sens du termes) cartographié·es.
 
 Ce qui nous reste à comprendre et à assimiler dans la Culture Populaire, c'est
 l'utilité et l'usage de ces cartes par et pour ceux qui les dessinent. Car de la

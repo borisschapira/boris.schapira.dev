@@ -20,7 +20,7 @@ pieds-noirs[^pn]. Du point de vue de mes origines, c'était vrai, mais je me sui
 surtout construit en sachant que cela se voyait sur mon visage.
 
 [^pn]:
-    "pieds-noirs" est un adjectif qui qualifie les Français·e·s d'origine
+    "pieds-noirs" est un adjectif qui qualifie les Français·es d'origine
     européenne installé en Afrique du Nord jusqu'à l'époque de l'indépendance.
 
 Ce n'était pas évident à porter, d'autant que je porte un nom juif plutôt

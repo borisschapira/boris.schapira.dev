@@ -21,10 +21,10 @@ auprès de professionnels en formation continue) :
     [Robin Williams](https://www.youtube.com/watch?v=4lj185DaZ_o), il est
     difficile de se passer de réaliser un enseignement classique avec des cours
     magistraux ;
--   les élèves ne sont souvent pas, ou mal, formé·e·s à la prise de notes. Elles
+-   les élèves ne sont souvent pas, ou mal, formé·es à la prise de notes. Elles
     et ils **se dispersent très vite** sur les réseaux sociaux si on leur en
     laisse l'occasion ;
--   être né·e·s avec Internet ne signifie pas savoir s'en servir, ou avoir le
+-   être né·es avec Internet ne signifie pas savoir s'en servir, ou avoir le
     recul pour
     [comprendre et mettre en perspective ce qu'on y lit](/notes/2016-11-infobesite-et-rebellion/).
     Il faut donc **reprendre tout ce qu'on considère soi-même comme une base** ;

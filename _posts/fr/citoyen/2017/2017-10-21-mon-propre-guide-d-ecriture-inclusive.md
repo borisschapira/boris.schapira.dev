@@ -89,11 +89,11 @@ professionnel.
 
 ---
 
-Je comprends la réticence de certain·e·s face à ces règles. Dès lors qu'on
+Je comprends la réticence de certain·es face à ces règles. Dès lors qu'on
 touche à la langue, les réactions sont violentes, on l'a vu il y a peu avec la
 réforme de l'orthographe.
 
-Nous sommes attaché·e·s à notre langue car elle est, culturellement, un marqueur
+Nous sommes attaché·es à notre langue car elle est, culturellement, un marqueur
 fort de notre patrimoine national et je comprends l'agacement de celles et ceux
 qui voient ici un danger.
 

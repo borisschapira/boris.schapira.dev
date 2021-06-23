@@ -265,7 +265,7 @@ la fluidité de la lecture. Pour réaliser ce tour de force, un script JavaScrip
 détecte la bande passante courante de l'utilisateur et le fait basculer
 dynamiquement entre plusieurs versions d'une vidéo encodée avec différents
 <span lang="en">bitrates</span>, assurant une expérience utilisateur optimale
-dans n'importe quel contexte. Si vous êtes intéressé·e·s, regardez du côté de
+dans n'importe quel contexte. Si vous êtes intéressé·es, regardez du côté de
 [Brightcove](https://www.brightcove.com/fr/),
 [Kaltura](https://fr.corp.kaltura.com/), [Qumu](https://www.qumu.com/), etc.
 
