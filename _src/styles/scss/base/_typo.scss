@@ -27,8 +27,7 @@ select {
 }
 
 html {
-  font-size: calc(16px + (22 - 16) * (100vw - 400px) / (1920 - 400));
-  font-size: clamp(16px, 3.8vw, 22px);
+  font-size: clamp(1.1rem, 0.3vw + 1rem, 1.3rem);
   line-height: $default-line-height;
   text-rendering: optimizeSpeed;
   -webkit-font-smoothing: auto;
