@@ -72,7 +72,7 @@
     "npm-scripts-watcher": "^1.0.2",
     "postcss": "^8.3.5",
     "postcss-cli": "^8.3.1",
-    "postcss-loader": "^6.1.0",
+    "postcss-loader": "^6.1.1",
     "prettier": "^2.3.2",
     "purify-css": "^1.2.5",
     "sass": "^1.35.1",
