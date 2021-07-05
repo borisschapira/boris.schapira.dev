@@ -8,7 +8,7 @@ gem 'jekyll'
 # Optimize Liquid compilation
 gem 'liquid', '~> 4.0'
 gem 'liquid-c' unless Gem.win_platform?
-
+gem 'commonmarker', '0.21.2'
 gem 'rake'
 
 group :jekyll_plugins do

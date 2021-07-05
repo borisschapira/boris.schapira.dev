@@ -24,7 +24,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.7.0)
+    addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     classifier-reborn (2.2.0)
       fast-stemmer (~> 1.0)
@@ -105,6 +105,7 @@ PLATFORMS
 
 DEPENDENCIES
   classifier-reborn
+  commonmarker (= 0.21.2)
   jekyll
   jekyll-archives!
   jekyll-cloudinary
