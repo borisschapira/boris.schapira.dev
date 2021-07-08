@@ -31,9 +31,9 @@ productions, dans les projets, dans les porte-feuilles, dans le marché, dans
 leur propre tête. Déconstruire son environnement pour mieux construire à
 l'intérieur.
 
-Certain·es sont parfois désemparé·es par mon honneteté, quand je leur dis ce
-que j'attends d'eux. Il faut dire que je n'ai aucun doute sur le fait que mes
-élèves sont plus jeunes, plus dynamiques, plus intelligents et ont bien plus de
-temps libre que moi. Armés des bons outils méthodologiques et d'un jeu de
-compétences techniques de base, il me semblerait normal qu'ils deviennent tous,
-à terme, de meilleurs professionnels que je ne le suis.
+Certain·es sont parfois désemparé·es par mon honneteté, quand je leur dis ce que
+j'attends d'eux. Il faut dire que je n'ai aucun doute sur le fait que mes élèves
+sont plus jeunes, plus dynamiques, plus intelligents et ont bien plus de temps
+libre que moi. Armés des bons outils méthodologiques et d'un jeu de compétences
+techniques de base, il me semblerait normal qu'ils deviennent tous, à terme, de
+meilleurs professionnels que je ne le suis.

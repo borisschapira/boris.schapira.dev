@@ -89,9 +89,9 @@ professionnel.
 
 ---
 
-Je comprends la réticence de certain·es face à ces règles. Dès lors qu'on
-touche à la langue, les réactions sont violentes, on l'a vu il y a peu avec la
-réforme de l'orthographe.
+Je comprends la réticence de certain·es face à ces règles. Dès lors qu'on touche
+à la langue, les réactions sont violentes, on l'a vu il y a peu avec la réforme
+de l'orthographe.
 
 Nous sommes attaché·es à notre langue car elle est, culturellement, un marqueur
 fort de notre patrimoine national et je comprends l'agacement de celles et ceux

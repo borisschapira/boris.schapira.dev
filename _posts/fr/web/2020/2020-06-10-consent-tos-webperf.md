@@ -59,10 +59,10 @@ d'implémentation. Est-il normal que nous offrions **l'expérience la plus
 dégradée à nos utilisateurs et utilisatrices les plus fidèles** ?
 
 Cette réflexion peut aboutir à une transformation de l'offre, soit vers un
-modèle où les utilisateurs et utilisatrices fidèles sont récompensé·es pour
-leur sacrifice (en ayant accès à des fonctionnalités qui ne sont disponibles que
-pour celles et ceux qui acceptent la collecte de données par des tiers), soit
-vers un modèle payant, plus protecteur mais moins accessible à tous.
+modèle où les utilisateurs et utilisatrices fidèles sont récompensé·es pour leur
+sacrifice (en ayant accès à des fonctionnalités qui ne sont disponibles que pour
+celles et ceux qui acceptent la collecte de données par des tiers), soit vers un
+modèle payant, plus protecteur mais moins accessible à tous.
 
 Philosophiquement, nous entrons alors dans des considérations très actuelles sur
 la vie privée en tant que capital ou en tant que commun. Un sujet fascinant.

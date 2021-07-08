@@ -57,9 +57,9 @@ Elle supprime notamment le premier alinéa de cette liste :
 
 La phrase, telle qu'elle existait, indiquait l'obligation d'une prise en charge
 des coûts liés à l'exécution du télétravail aux frais réels. Or dans une volonté
-de simplifier la relation des salarié·es et entreprises au télétravail, il
-était important de donner un signal politique fort, un "choc de simplification"
-comme dirait un certain François H., livreur Deliveroo motorisé à Paris 8.
+de simplifier la relation des salarié·es et entreprises au télétravail, il était
+important de donner un signal politique fort, un "choc de simplification" comme
+dirait un certain François H., livreur Deliveroo motorisé à Paris 8.
 
 Signal renforcé par l'ajout, cette fois, d'une ligne importante politiquement :
 

@@ -85,11 +85,11 @@ ligne à sa place en lui volant le clavier, ou en lui pointant une erreur avec l
 doigt. Difficile de présupposer du cadre de l'interlocuteur, ça nécessite un
 effort de prise de recul. Je remarque que le coworking est souvent vu comme une
 alternative. Mais attention à l'effet "béquille sur jambe de bois". Beaucoup
-sont satisfait·es de leur coworking sans forcément l'être de leur entreprise.
-En effet, le coworking a meilleure réputation parce qu'il corrige le premier
-point – l'isolation – et permet de gérer les frustrations des autres points en
-donnant à la personne le moyen d'avoir des interlocuteur·ice·s à qui parler de
-ses problèmes. Sans les corriger pour autant Si le poste est mal défini, peu
+sont satisfait·es de leur coworking sans forcément l'être de leur entreprise. En
+effet, le coworking a meilleure réputation parce qu'il corrige le premier point
+– l'isolation – et permet de gérer les frustrations des autres points en donnant
+à la personne le moyen d'avoir des interlocuteur·ice·s à qui parler de ses
+problèmes. Sans les corriger pour autant Si le poste est mal défini, peu
 autonome, et que le ou la salariée ne le supporte QUE parce qu'elle a des gens
 autour pour se plaindre, vous n'avez rien résolu. Vous avez juste quelqu'un de
 paumé qui trouve du réconfort avec d'autres gens, souvent paumés aussi.
