@@ -1,13 +1,12 @@
 ---
 title: 'Des termes problématiques'
 loadTwitterWjs: true
+last_modified_at: 2021-07-08
 ---
 
 Quelques réflexions, les plus générales possibles, concernant l'usage de
-certains termes historiques. Au moment où j'écris, j'ai en tête la dénomination
-_master-slave_ des bases de données et l'utilisation de _master_ comme nom de
-branche par défaut dans _git_. Mais je pense aussi aux jurons ou expressions
-homophobes, sexistes, racistes, validistes, etc.
+certains termes historiques. Expressions anciennes, jurons, jargons explicites
+ou faisant des références homophobes, sexistes, racistes, validistes, etc.
 
 _Je ne suis pas linguiste ni concerné, ceci n'est qu'une opinion située._
 
@@ -47,11 +46,6 @@ que le vocabulaire change ? Non. Mais si on ne fait rien, on ne changera rien
 non plus. Changer le vocabulaire est un signal symbolique, mais un signal quand
 même en direction des populations concernées.
 
-Et je ne parle même pas de l'invention qu'il faudrait pour trouver des mots à
-tous les maux.
-
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">En français il ne semble pas exister de mot spécifique pour désigner des parents ayant perdu leurs enfants (même si des associations avaient proposé &quot;parange&quot;). Vous auriez des idées ? Vous en connaissez dans d&#39;autres langues ? Cc <a href="https://twitter.com/LeMonde_correct?ref_src=twsrc%5Etfw">@LeMonde_correct</a></p>&mdash; Laélia Véron (@Laelia_Ve) <a href="https://twitter.com/Laelia_Ve/status/1273139894257364994?ref_src=twsrc%5Etfw">June 17, 2020</a></blockquote>
-
 ---
 
 <strong id="p4">4.</strong> De la même manière que les statues représentent des
@@ -59,7 +53,8 @@ marqueurs du passé dans l'espace public, certains termes représentent ce pass�
 dans l'espace linguistique. Je comprends qu'on puisse s'y attacher et vouloir
 les préserver, mais il y a des dictionnaires pour cela, qui peuvent rendre
 hommage à l'étymologie d'un terme, sa polysémie, le contexte social et politique
-de son usage.
+de son usage. C'est tout le rôle d'un dictionnaire : documenté le vocabulaire en
+usage (et pas le normaliser, comme certain·es voudraient nous faire croire).
 
 ---
 
@@ -67,28 +62,22 @@ de son usage.
 question politique**. Il s'agit de changer la société pour qu'elle arrête
 d'affecter la vie de celles et ceux qui souffrent d'une discrimination et
 favoriser celles et ceux qui n'en souffrent pas. Pas de faire culpabiliser
-quelques personnes, de demander des excuses ou quoi que ce soit de ce type.
+quelques personnes ou de demander des excuses.
 
 ---
 
 <strong id="p6">6.</strong> Le vocabulaire courant ou le jargon n'est pas un
-problème individuel mais un problème de communauté ou de société. C'est pourquoi
-les actions les plus symboliques vont viser à faire admettre que le terme est
-problématique à une autorité, afin que cette modification unique ait les
-répercussions les plus larges possibles.
+problème individuel mais un problème de communauté ou de société, de système. Il
+n'est pas question de parler de culpabilité, mais de responsabilité. On
+s'intéressera donc moins aux termes en eux-même qu'à l'exigence de changement et
+à la manière dont les personnes se placent par rapport à cette exigence.
 
-La question devient personnelle quand un individu décide de se positionner par
-rapport à cette exigence de changement. Avoir utilisé un terme problématique par
-habitude ne dit pas grand-chose d'une personne, ça dit quelque chose de
-l'environnement dans lequel il ou elle évolue.
-
-Mais une fois que la nature problématique d'un terme a été évoquée, la manière
-dont les individus réagissent fait qu'ils seront perçus différemment. Qu'ils
-soutiennent le changement ou, au contraire, se placent dans une posture
-d'opposition, ils seront perçus, de l'extérieur, comme appuyant une position
-politique, qu'ils le veuillent ou non.
-
-Ce n'est cependant pas la seule façon de réagir. Voir [point 2](#p2).
+Dis autrement : dans la mesure où la sémantique ne peut être séparé de la
+pragmatique, le sens des termes que nous employons, leur réception par les
+personnes en face de nous et leurs effets dépendent de leur contexte
+d'énonciation. Si ce contexte change, parce qu'une prise de conscience nait,
+alors un choix politique doit s'opérer pour savoir si le terme est conservé, ou
+non.
 
 <ins class="bloc" datetime="2020-09-18" title="Ajout du 18 septembre 2020">Je
 suis tombé depuis sur cet article, et particulièrment ce paragraphe, qui
@@ -152,6 +141,36 @@ celle-ci n'a aucun coût lié à l'apprentissage ou la communication
 d'alternatives. Si vous commencez à discuter la légitimité de l'abandon d'un
 terme problématique pour lequel une multitude d'alternatives existent, c'est
 tout simplement que vous en défendez l'usage. Voir [point 6](#p6).
+
+---
+
+<strong id="p11">11.</strong> Dans la mesure où on ne peut pas changer toute un
+langue en une fois, les actions les plus symboliques vont viser à faire admettre
+que le terme est problématique à un organisme d'autorité, afin que cette
+modification unique ait les répercussions les plus larges possibles. C'est un
+mécanisme inhérent au travail d'évolution du language.
+
+{% capture note %} **Néologismes**
+
+Certains termes jugés contextuellement problématiques peuvent être éliminé de
+l'usage par l'apparition de néologismes. Les néologismes, ce n'est pas sale,
+c'est ta langue qui change.
+
+{% endcapture note %} {% include note.html.liquid content=note %}
+
+---
+
+<strong id="p12">12.</strong> Les oppositions les plus ferventes à la
+disparition d'un mot ou à l'apparition de néologisme font référence à la beauté
+intrinsèque de la langue telle quelle est. Sauf que… il n'existe pas de
+distinction objective entre ce qui est beau et ce qui ne l'est pas. Cette
+perception diffère suivant les personnes. Son usage n'est qu'un véhicule de
+construction d'un consensus communautaire : "nous avons du goût parce que nous
+sommes d'accord sur ce qui est beau, pas comme elles et eux qui pensent qu'autre
+chose est beau alors que non".
+
+Si votre seul argument est la beauté, alors vous défendez en
+<i lang="latin">statu quo</i>.
 
 ---
 
