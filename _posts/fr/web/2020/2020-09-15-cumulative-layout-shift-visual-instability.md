@@ -13,7 +13,7 @@ tags:
     - CLS
 cloudinary_logo: dareboost-logo
 slug: cumulative-layout-shift-stabilite-page
-loadTwitterWjs: true
+load_twitter_wjs: true
 canonical: https://blog.dareboost.com/fr/2020/09/cumulative-layout-shift-stabilite-page/
 canonical_title: 'le blog de Dareboost'
 translations:

@@ -3,7 +3,7 @@ title: 'Utilisabilité : le cas Firefox'
 tags:
     - 'Logiciel Libre'
     - 'Service Design'
-loadTwitterWjs: true
+load_twitter_wjs: true
 subtitle: "L'UX, souvent un tabou dans les communautés du logiciel libre"
 ---
 

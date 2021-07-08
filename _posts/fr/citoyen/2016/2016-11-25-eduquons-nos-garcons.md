@@ -2,7 +2,7 @@
 title: 'Éduquons nos garçons'
 tags:
     - Éducation
-loadTwitterWjs: true
+load_twitter_wjs: true
 ---
 
 Ayant été moi-même élevé par ma mère avec des valeurs très féministes (bien

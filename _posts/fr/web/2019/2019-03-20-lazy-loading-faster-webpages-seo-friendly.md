@@ -7,7 +7,7 @@ tags:
     - 'Performance Web'
     - Images
     - SEO
-loadTwitterWjs: true
+load_twitter_wjs: true
 cloudinary_logo: dareboost-logo
 slug: lazy-loading-des-pages-web-plus-rapides-sans-risque-seo
 translations:

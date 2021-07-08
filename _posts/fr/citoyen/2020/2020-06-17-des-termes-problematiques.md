@@ -1,6 +1,6 @@
 ---
 title: 'Des termes problématiques'
-loadTwitterWjs: true
+load_twitter_wjs: true
 last_modified_at: 2021-07-08
 ---
 

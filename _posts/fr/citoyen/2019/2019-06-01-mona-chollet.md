@@ -5,7 +5,7 @@ tags:
     - Égalité
     - Sorcières
 serie: Sorcières
-loadTwitterWjs: true
+load_twitter_wjs: true
 ---
 
 Depuis les années 70, une figure revient souvent dans la littérature féministe :

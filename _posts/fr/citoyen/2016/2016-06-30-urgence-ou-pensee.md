@@ -2,7 +2,7 @@
 title: 'Urgence ou pensée'
 tags:
     - "État d'Urgence"
-loadTwitterWjs: true
+load_twitter_wjs: true
 ---
 
 > Et plus ça dure, plus le refrain s'épuise. Faire vite, répondre tout de suite

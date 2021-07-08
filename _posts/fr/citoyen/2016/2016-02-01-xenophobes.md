@@ -3,7 +3,7 @@ title: Xénophobes
 tags:
     - Égalité
     - "État d'Urgence"
-loadTwitterWjs: true
+load_twitter_wjs: true
 ---
 
 J'écrivais, il y a peu, que je pensais que

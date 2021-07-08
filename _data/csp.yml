@@ -70,7 +70,7 @@
     - value: 'fonts.googleapis.com fonts.gstatic.com'
       comment: 'Google Fonts'
     - value: 'platform.twitter.com'
-      comment: 'Embed twitter using loadTwitterWjs'
+      comment: 'Embed twitter using load_twitter_wjs'
 - name: img-src
   values:
     - value: "'self'"

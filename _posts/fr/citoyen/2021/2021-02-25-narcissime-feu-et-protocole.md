@@ -4,7 +4,7 @@ description: >-
     Être un ou une vrai professionnelle, c'est anticiper un protocole pour
     retomber dessus dans une situation critique. Parce que sinon, vous êtes
     tellement pris par l'émotion que vous allez faire des conneries.
-loadTwitterWjs: true
+load_twitter_wjs: true
 ---
 
 > Ce qui est incroyable \[dans l'affaire de la ciclosporine\] c'est de s'être

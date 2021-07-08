@@ -7,7 +7,7 @@ canonical_title: 'le blog de Dareboost'
 tags:
     - 'Performance Web'
     - JAMStack
-loadTwitterWjs: true
+load_twitter_wjs: true
 cloudinary_logo: dareboost-logo
 slug: site-statique-performance-web
 translations:
