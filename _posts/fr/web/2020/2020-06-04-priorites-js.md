@@ -129,11 +129,12 @@ actualisé de la manière dont les scripts sont ordonnancés dans Chrome.
         Interrompt l'analyse
       </td>
       <td data-label="{{ page.header3 }}">
-        Faites
+        <p>Faites
         <a href="https://calendar.perfplanet.com/2016/prefer-defer-over-async/"
           >attention</a
         >
-        lorsque vous utilisez <code>&lt;script async&gt;</code>. De nos jours, il est souvent utilisé pour indiquer des scripts non-critiques mais ce n'est pas cohérent car même si le script est chargé en basse priorité, il est exécuté en haute priorité.
+        lorsque vous utilisez <code>&lt;script async&gt;</code>. De nos jours, il est souvent utilisé pour indiquer des scripts non-critiques mais ce n'est pas cohérent car même si le script est chargé en basse priorité, il est exécuté en haute priorité.</p>
+        <p><em>NdBoris : la attributes ne sont pas cumulatifs. Un script <code>&lt;script async defer&gt;</code> sera perçu par le navigateur comme un <code>&lt;script async&gt;</code> partout où <code>async</code> est supporté (c'est-à-dire… <a href="https://caniuse.com/script-async" title="Support de l'attribut async pour les scripts externes sur CanIUse.com">quasiment partout</a>). La navigateur ne supportant pas <code>async</code> le considéreront comme un <code>&lt;script defer&gt;</code>.</em></p>
       </td>
     </tr>
     <tr>
