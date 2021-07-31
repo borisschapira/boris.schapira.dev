@@ -10,5 +10,4 @@ title: 'Partout chez lui'
 
 Il me montre sa tête et rajoute :
 
-> — Tout les gens dans maison à moi : papa, maman, papy, mamie, bébé, les
-> copains, les pirates, Spider-Man, Batman...
+> — Tout les gens dans maison à moi : papa, maman, papy, mamie, bébé, les copains, les pirates, Spider-Man, Batman...

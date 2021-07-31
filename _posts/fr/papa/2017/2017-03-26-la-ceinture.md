@@ -2,8 +2,7 @@
 title: 'La ceinture'
 ---
 
-Je sais que le petit arrive désormais à mettre sa ceinture de sécurité tout
-seul. Je lui dis de montrer à sa mère, il le fait, puis commente :
+Je sais que le petit arrive désormais à mettre sa ceinture de sécurité tout seul. Je lui dis de montrer à sa mère, il le fait, puis commente :
 
 > Voilà, vous servez plus à rien Papa et Maman !
 

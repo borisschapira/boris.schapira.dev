@@ -2,8 +2,7 @@
 title: 'Le tact incarné (bis)'
 ---
 
-On retrouve un microscope chez ma mère alors j'en profite pour montrer aux
-garçons quelques trucs.
+On retrouve un microscope chez ma mère alors j'en profite pour montrer aux garçons quelques trucs.
 
 <!-- more -->
 

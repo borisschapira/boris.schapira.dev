@@ -11,8 +11,7 @@ Le petit dernier et sa mère se font des bisous…
 > — Et sur la joue ?  
 > — Oui ! SMACK !  
 > — Tu me fais un bisous sur le front ?  
-> — Non parce que y'a des cheveux. Je veux pas faire des bisous sur tes cheveux.
-> J'aime pas trop ta peinture.
+> — Non parce que y'a des cheveux. Je veux pas faire des bisous sur tes cheveux. J'aime pas trop ta peinture.
 
 {% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2017-03-31/peinture"

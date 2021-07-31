@@ -2,9 +2,7 @@
 title: 'Déplacer un dépôt git'
 ---
 
-Il arrive parfois qu'on veuille déplacer un dépôt avec toutes ses branches, ses
-tags et son historique, par exemple pour changer de service entre Github,
-Gitlab, Bitbucket…
+Il arrive parfois qu'on veuille déplacer un dépôt avec toutes ses branches, ses tags et son historique, par exemple pour changer de service entre Github, Gitlab, Bitbucket…
 
 <!-- more -->
 

@@ -2,15 +2,12 @@
 title: 'Indépendance, le best-of'
 ---
 
-Petite sélection des plus beaux moments d'ingratitude de mes fils qui prennent
-leur indépendance, pour mon plus grand plaisir (mais avec un petit pincement au
-cœur quand même).
+Petite sélection des plus beaux moments d'ingratitude de mes fils qui prennent leur indépendance, pour mon plus grand plaisir (mais avec un petit pincement au cœur quand même).
 
 <!-- more -->
 
 > — Bonjour mon petit garçon,  
-> — Hummm… Tu peux sortir de mon lit, Papa, je vais me lever tout seul, c'est
-> bon.
+> — Hummm… Tu peux sortir de mon lit, Papa, je vais me lever tout seul, c'est bon.
 
 ---
 

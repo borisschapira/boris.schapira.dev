@@ -2,9 +2,7 @@
 title: "C'est presque ça"
 ---
 
-Parfois, les enfants sont très clairs dans ce qu'ils racontent. Mais 80 % du
-temps, il faut décrypter. Cet après-midi, je propose à mon fils aîné de sortir
-avec moi jouer au Nerf Vortex…
+Parfois, les enfants sont très clairs dans ce qu'ils racontent. Mais 80 % du temps, il faut décrypter. Cet après-midi, je propose à mon fils aîné de sortir avec moi jouer au Nerf Vortex…
 
 <!-- more -->
 
@@ -24,8 +22,7 @@ avec moi jouer au Nerf Vortex…
 > — C'est pour lancer les piquantes.  
 > — Ah oui. Un cochonnet.
 
-{% capture alt_text%}Sherlock dit "Élémentaire, mon cher Watson"{% endcapture %}
-{% include video_as_a_gif.html.liquid
+{% capture alt_text%}Sherlock dit "Élémentaire, mon cher Watson"{% endcapture %} {% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2017-11-25/elementary"
 alt=alt_text
 %}

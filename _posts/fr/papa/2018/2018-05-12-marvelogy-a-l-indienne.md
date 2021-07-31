@@ -10,7 +10,6 @@ Parfois, le dîner du soir, ça tourne au kamoulox entre mes deux bonhommes.
 > – Bah, c'est du curry.  
 > – Ah, comme dans Spider-Man, c'est le gentil qui a qu'un œil !  
 > – Ah oui, Nick Curry !  
-> – Oui, Nick Curry, on en a parlé à l'école. C'est lui qui s'occupe des chevaux
-> !
+> – Oui, Nick Curry, on en a parlé à l'école. C'est lui qui s'occupe des chevaux !
 
 J'ai mis du temps à comprendre la dernière phrase. Je vous laisse chercher.

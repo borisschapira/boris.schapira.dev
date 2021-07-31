@@ -17,15 +17,11 @@ _C'est fou ce qu'on peut entendre quand on tend l'oreille !_
 
 ## Un petit pas pour l'homme
 
-> Oui, le réchauffement climatique, moi, ça m’inquiète. Alors je fais des
-> petites choses, tu vois, pour pas aggraver le truc… je prends pas la voiture,
-> je fais plus le ménage avec l’aspirateur, j’utilise le micro-ondes au lieu du
-> four…
+> Oui, le réchauffement climatique, moi, ça m’inquiète. Alors je fais des petites choses, tu vois, pour pas aggraver le truc… je prends pas la voiture, je fais plus le ménage avec l’aspirateur, j’utilise le micro-ondes au lieu du four…
 
 ## Chewbacca style
 
-> Le chat, quand il n’a plus ses poils, qu’est-ce qui est maigre ! Peut-être toi
-> aussi faudrait essayer ?
+> Le chat, quand il n’a plus ses poils, qu’est-ce qui est maigre ! Peut-être toi aussi faudrait essayer ?
 
 ## L'homme en couple se repère facilement
 
@@ -35,5 +31,4 @@ _C'est fou ce qu'on peut entendre quand on tend l'oreille !_
 
 ## Question de priorités
 
-> Le conflit à Istambul ? Oui, mais tu savais que le parallélépipède a toutes
-> ses faces parallélogrammiques ?
+> Le conflit à Istambul ? Oui, mais tu savais que le parallélépipède a toutes ses faces parallélogrammiques ?

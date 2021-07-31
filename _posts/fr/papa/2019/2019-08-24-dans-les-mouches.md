@@ -17,8 +17,7 @@ Il réfléchit un petit moment, pour intégrer l'information.
 > Ah, mais alors : les serpents, ils font caca ?  
 > Mais comment ils font caca ?
 
-{% capture alt_text%}Une marionette velue danse sur les WC.{% endcapture %}
-{% include video_as_a_gif.html.liquid
+{% capture alt_text%}Une marionette velue danse sur les WC.{% endcapture %} {% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2019-08-24/pooping"
 alt=alt_text
 caption="Les vraies questions !"

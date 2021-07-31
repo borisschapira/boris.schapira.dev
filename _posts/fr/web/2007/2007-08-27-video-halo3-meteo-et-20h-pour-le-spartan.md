@@ -5,10 +5,7 @@ tags:
     - Halo3
 ---
 
-Deux nouvelles vidéo virales (à l'heure où j'écris, Lapytsh n'en n'a vu qu'une,
-ouaaais !!!) pour Halo 3 viennent de tomber. Je les préfèrent largement à la
-première et au moins on apprend un truc : les maquilleuses s'occupent aussi des
-vitres de casque (non, il n'y a pas de vanne, c'est juste une remarque inutile).
+Deux nouvelles vidéo virales (à l'heure où j'écris, Lapytsh n'en n'a vu qu'une, ouaaais !!!) pour Halo 3 viennent de tomber. Je les préfèrent largement à la première et au moins on apprend un truc : les maquilleuses s'occupent aussi des vitres de casque (non, il n'y a pas de vanne, c'est juste une remarque inutile).
 
 <div>
 **Halo à la Météo (film2)**

@@ -2,15 +2,13 @@
 title: 'En lasagne'
 ---
 
-Il y a quelques jours, j'ai revu une amie qui habite à l'étranger. Elle était de
-passage avec sa fille. Plusieurs semaines plus tard…
+Il y a quelques jours, j'ai revu une amie qui habite à l'étranger. Elle était de passage avec sa fille. Plusieurs semaines plus tard…
 
 <!-- more -->
 
 > — Est-ce que vous voulez du pistou ? Enfin, du pesto ?  
 > — Ça s'appelle du pistou ou du pesto ?  
-> — Les deux. Il y a un mot en français et l'autre en italien. Mais c'est la
-> même chose.  
+> — Les deux. Il y a un mot en français et l'autre en italien. Mais c'est la même chose.  
 > — Et ils s'appellent comment les gens qui vivent en italien ?  
 > — Ils s'appellent les italiens. Leur pays, c'est l'Italie.  
 > — Comme la petite fille de ta copine ?  

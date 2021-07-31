@@ -2,8 +2,7 @@
 title: 'La réflexion'
 ---
 
-Très souvent, nos enfants réfléchissent sur ce qui se passe à la maison pendant
-qu'ils sont à l'école…
+Très souvent, nos enfants réfléchissent sur ce qui se passe à la maison pendant qu'ils sont à l'école…
 
 <!-- more -->
 

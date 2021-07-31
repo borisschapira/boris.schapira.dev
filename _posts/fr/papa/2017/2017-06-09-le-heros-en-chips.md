@@ -10,5 +10,4 @@ Un jus, et les voilà qui demandent un accompagnement :
 
 > Papa, on peut avoir des Clotaire de l'apéro ?
 
-Ces enfants ont leurs propres
-[références](https://www.whisperies.com/fiche/clotaire-l-apprenti-fantome).
+Ces enfants ont leurs propres [références](https://www.whisperies.com/fiche/clotaire-l-apprenti-fantome).

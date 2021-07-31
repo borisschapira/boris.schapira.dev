@@ -8,12 +8,7 @@ translations:
     en: bookmark-netflix-speed
 ---
 
-Il y a quelques mois, j'ai publié un article sur
-[l'augmentation de la luminosité des vidéos Netflix](/notes/2018-08-bookmark-netflix-luminosite/)
-et il a eu un certain succès. Mais que faire si vous avez vraiment besoin
-d'accélérer votre épisode en cours pour le terminer avant que votre bae arrive
-ou ralentir les mouvements de Beyoncé pour mieux apprendre une de ses chorés
-dans HOMECOMING ? Pas de problème.
+Il y a quelques mois, j'ai publié un article sur [l'augmentation de la luminosité des vidéos Netflix](/notes/2018-08-bookmark-netflix-luminosite/) et il a eu un certain succès. Mais que faire si vous avez vraiment besoin d'accélérer votre épisode en cours pour le terminer avant que votre bae arrive ou ralentir les mouvements de Beyoncé pour mieux apprendre une de ses chorés dans HOMECOMING ? Pas de problème.
 
 <!-- more -->
 
@@ -21,31 +16,21 @@ dans HOMECOMING ? Pas de problème.
 
 <!-- nomicrotypo -->
 
-<a href="javascript:(function(){var b=Number(prompt('Video playback rate?','1'))%7C%7C1;Array.from(document.getElementsByTagName('video')).forEach(function(a){a.playbackRate=b;a.play()})})();" title="Gérer la vitesse de lecture des vidéos">Gérer
-la vitesse de lecture des vidéos</a>
+<a href="javascript:(function(){var b=Number(prompt('Video playback rate?','1'))%7C%7C1;Array.from(document.getElementsByTagName('video')).forEach(function(a){a.playbackRate=b;a.play()})})();" title="Gérer la vitesse de lecture des vidéos">Gérer la vitesse de lecture des vidéos</a>
 
 <!-- endnomicrotypo -->
 
-N'hésitez pas à renommer le favori avec un libellé plus court. Par exemple,
-j'utilise seulement les émojis ☀️ (soleil) and 🏃‍ (course).
+N'hésitez pas à renommer le favori avec un libellé plus court. Par exemple, j'utilise seulement les émojis ☀️ (soleil) and 🏃‍ (course).
 
-Allez ensuite sur Netflix, OCS, Molotov, ou n'importe quel service de streaming
-utilisant des vidéos HTML[^1], lancez votre série ou film préféré, et cliquez
-dessus !
+Allez ensuite sur Netflix, OCS, Molotov, ou n'importe quel service de streaming utilisant des vidéos HTML[^1], lancez votre série ou film préféré, et cliquez dessus !
 
-[^1]:
-    Comme expliqué dans
-    [le billet précédent](/notes/2018-08-bookmark-netflix-luminosite/), si le
-    site Web a défini une Content-Security-Policy bloquant les favoris, cela ne
-    marchera pas, désolé !
+[^1]: Comme expliqué dans [le billet précédent](/notes/2018-08-bookmark-netflix-luminosite/), si le site Web a défini une Content-Security-Policy bloquant les favoris, cela ne marchera pas, désolé !
 
-Et si vous voulez gérer à la fois la luminosité et la vitesse de lecture vidéo
-sans multiplier les signets, en voici un qui fait les deux à la fois:
+Et si vous voulez gérer à la fois la luminosité et la vitesse de lecture vidéo sans multiplier les signets, en voici un qui fait les deux à la fois:
 
 <!-- nomicrotypo -->
 
-<a href="javascript:(function(){var c=Number(prompt('Video playback rate?','1'))%7C%7C1,a=prompt('Video brightness?','100%');a=/^\d+(\.\d+)?%$/.test(a)?a:'100%';Array.from(document.getElementsByTagName('video')).forEach(function(b){b.playbackRate=c;b.play();b.setAttribute('style',b.getAttribute('style')+'filter: brightness('+a+');')})})();" title="Gérer la luminosité et la vitesse de lecture des vidéos">Gestion
-de la luminosité et de la vitesse de lecture vidéo</a>
+<a href="javascript:(function(){var c=Number(prompt('Video playback rate?','1'))%7C%7C1,a=prompt('Video brightness?','100%');a=/^\d+(\.\d+)?%$/.test(a)?a:'100%';Array.from(document.getElementsByTagName('video')).forEach(function(b){b.playbackRate=c;b.play();b.setAttribute('style',b.getAttribute('style')+'filter: brightness('+a+');')})})();" title="Gérer la luminosité et la vitesse de lecture des vidéos">Gestion de la luminosité et de la vitesse de lecture vidéo</a>
 
 <!-- endnomicrotypo -->
 

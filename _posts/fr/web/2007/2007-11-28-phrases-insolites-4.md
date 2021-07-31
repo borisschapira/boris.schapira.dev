@@ -28,20 +28,15 @@ _C'est fou ce qu'on peut entendre quand on tend l'oreille !_
 
 ## Premier film en amoureux
 
-> – Comme elle n’est pas française, on nous a posé des questions… Nos métiers,
-> nos parents, le dernier restau, le premier film, etc.  
+> – Comme elle n’est pas française, on nous a posé des questions… Nos métiers, nos parents, le dernier restau, le premier film, etc.  
 > – Et alors ?  
 > – Ben j’me suis planté sur le film.  
 > – Ah bon ?!  
-> – Ben je m’en souvenais plus. En fait moi, je ne l’ai pas vraiment vu : j’ai
-> surtout dormi.
+> – Ben je m’en souvenais plus. En fait moi, je ne l’ai pas vraiment vu : j’ai surtout dormi.
 
 ## Ma chérie résume les RPG
 
-> – Tu joues à ton jeu fabuleux, dont tu parlais sur ton blog avec les trucs
-> bizarres en ligne, où ils se tapent dessus mais pas vraiment, avec des trucs
-> qui sortent de leur dos et qui démolissent les monstres en face et après ils
-> se font massacrer ?
+> – Tu joues à ton jeu fabuleux, dont tu parlais sur ton blog avec les trucs bizarres en ligne, où ils se tapent dessus mais pas vraiment, avec des trucs qui sortent de leur dos et qui démolissent les monstres en face et après ils se font massacrer ?
 
 ## Les antibiotiques et l'iPhone…
 
@@ -58,7 +53,5 @@ _C'est fou ce qu'on peut entendre quand on tend l'oreille !_
 ## Vive [Fonebook](https://sites.google.com/site/rossdargan/)
 
 > – Tu t’amuses à récupérer les photos de tout le monde sur ton téléphone ?  
-> – Euh, non, c’est une appli qui synchronise mes contacts Outlook avec
-> Facebook.  
-> – Va falloir que je m’inscrive sur ce truc-là alors sinon personne ne va plus
-> m’appeler…
+> – Euh, non, c’est une appli qui synchronise mes contacts Outlook avec Facebook.  
+> – Va falloir que je m’inscrive sur ce truc-là alors sinon personne ne va plus m’appeler…

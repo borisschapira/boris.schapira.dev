@@ -2,8 +2,7 @@
 title: 'Les anbibiotiques'
 ---
 
-Suite à [l'accident](/notes/2017-12-a-l-hopital/), le traitement du petit
-continue.
+Suite à [l'accident](/notes/2017-12-a-l-hopital/), le traitement du petit continue.
 
 <!-- more -->
 

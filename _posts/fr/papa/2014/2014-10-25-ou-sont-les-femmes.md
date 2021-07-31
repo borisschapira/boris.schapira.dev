@@ -3,12 +3,10 @@ title: 'Où sont les femmes ?'
 ---
 
 > — Mais qu'est-ce que vous faites là ?  
-> — Je sais madame, je suis désolé d'être dans les toilettes des femmes mais il
-> n'y a pas de table à langer dans celles des hommes...  
+> — Je sais madame, je suis désolé d'être dans les toilettes des femmes mais il n'y a pas de table à langer dans celles des hommes...  
 > — Mais vous n'avez pas une femme ?!
 
-J'aime tellement ce genre de réflexions que, ni une ni deux, je lui réponds,
-d'un air abattu :
+J'aime tellement ce genre de réflexions que, ni une ni deux, je lui réponds, d'un air abattu :
 
 > — Non, elle est morte.  
 > — Oh...  

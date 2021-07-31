@@ -2,9 +2,7 @@
 title: Expressions
 ---
 
-Les enfants ont parfois du mal avec les expressions populaires. Comme leur père,
-ils mélangent les termes et inventent des tournures involontairement poétiques.
-En voici quelques unes, récentes :
+Les enfants ont parfois du mal avec les expressions populaires. Comme leur père, ils mélangent les termes et inventent des tournures involontairement poétiques. En voici quelques unes, récentes :
 
 -   "Maman a dit qu'on se retrouve à huit heures pétanque."
 -   "Moi j'ai souvent la tête dans les masses des nuages."

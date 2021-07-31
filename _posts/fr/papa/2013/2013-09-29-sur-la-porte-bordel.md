@@ -2,12 +2,10 @@
 title: 'Sur la porte, bordel'
 ---
 
-Forcément, le seul moment où ton bébé finit par dormir, il y a une gourdasse qui
-vient sonner à la porte :
+Forcément, le seul moment où ton bébé finit par dormir, il y a une gourdasse qui vient sonner à la porte :
 
 > — Bonjour, je cherche Sandrine, au XX.  
-> — Euh ok, mais ici c'est le YY. **Comme vous pouvez le voir en gros sur la
-> porte**.  
+> — Euh ok, mais ici c'est le YY. **Comme vous pouvez le voir en gros sur la porte**.  
 > — Ah bon, et c'est de quel côté ?  
 > — Probablement par là, bonne journée.
 

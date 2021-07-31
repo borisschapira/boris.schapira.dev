@@ -12,8 +12,7 @@ alt=img_alt
 %}
 </figure>
 
-> Regarde, Maman ! Papa il a changé sa tête sur son ordinateur ! Il a mis la
-> tête du Lego qui lui ressemble, à la place de sa photo.
+> Regarde, Maman ! Papa il a changé sa tête sur son ordinateur ! Il a mis la tête du Lego qui lui ressemble, à la place de sa photo.
 
 Le petit accoure pour donner son avis :
 

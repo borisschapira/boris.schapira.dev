@@ -2,8 +2,7 @@
 title: 'Comme des chiens'
 ---
 
-Je regarde "La Belle et le Clochard" avec les enfants. La scène des pâtes à la
-bolognaise leur plait beaucoup.
+Je regarde "La Belle et le Clochard" avec les enfants. La scène des pâtes à la bolognaise leur plait beaucoup.
 
 <!-- more -->
 

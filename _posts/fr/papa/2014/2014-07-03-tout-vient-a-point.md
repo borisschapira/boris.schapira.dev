@@ -3,8 +3,7 @@ title: 'Tout vient à point...'
 ---
 
 > — Papa, pas cracteur à ça !  
-> — Non chéri, tu as raison, ce n'est pas tout-à-fait un tracteur. Tu sais
-> comment ça s'appelle ?  
+> — Non chéri, tu as raison, ce n'est pas tout-à-fait un tracteur. Tu sais comment ça s'appelle ?  
 > — Attends Papa, attends. Avance Papa.
 
 10 minutes plus tard, 500 mètres plus loin :

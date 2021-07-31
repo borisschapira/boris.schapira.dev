@@ -3,10 +3,8 @@ title: 'Ressemblance #2'
 ---
 
 > — Et on t'a déjà dit que tu me ressemblais beaucoup quand j'étais petit ?  
-> — Pfff, ça nul ! Moi veux pas ressembler à Papa petit, ressembler à Papa grand
-> !  
-> — Ah ah, oui chéri, peut-être quand tu seras grand. Et ton frère, il
-> ressemblera à Papa ausi ?  
+> — Pfff, ça nul ! Moi veux pas ressembler à Papa petit, ressembler à Papa grand !  
+> — Ah ah, oui chéri, peut-être quand tu seras grand. Et ton frère, il ressemblera à Papa ausi ?  
 > — Mais non ! Ressembler à Maman !  
 > — Ah bon ? Mais ça sera une fille alors ?  
 > — Mais oui !  

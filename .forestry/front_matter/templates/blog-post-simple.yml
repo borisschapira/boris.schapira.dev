@@ -1,0 +1,14 @@
+---
+label: Blog post (simple)
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: slug
+  label: Slug
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags

@@ -10,6 +10,4 @@ Vacances des enfants chez ma mère.
 > — Oui, mon chéri.  
 > — Et papa Boris, c'est ton fils ?  
 > — Oui, mon chéri.  
-> — Et moi je suis le fils de Papa. Quand je serais grand, moi, je va commander
-> cinq bébés et c'est toi, mamie, qui tu t'en occupera comme ça tu aura encore
-> cinq petits fils parce que tu es la meilleure mamie de la Terre.
+> — Et moi je suis le fils de Papa. Quand je serais grand, moi, je va commander cinq bébés et c'est toi, mamie, qui tu t'en occupera comme ça tu aura encore cinq petits fils parce que tu es la meilleure mamie de la Terre.

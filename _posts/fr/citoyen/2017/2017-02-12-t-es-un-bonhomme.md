@@ -2,9 +2,7 @@
 title: "T'es un bonhomme"
 ---
 
-Un court-métrage présenté au
-[Mobile Film Festival](http://www.mobilefilmfestival.fr/). Beaucoup d'autres
-pépites, n'hésitez pas à y jeter un œil.
+Un court-métrage présenté au [Mobile Film Festival](http://www.mobilefilmfestival.fr/). Beaucoup d'autres pépites, n'hésitez pas à y jeter un œil.
 
 <!-- more -->
 

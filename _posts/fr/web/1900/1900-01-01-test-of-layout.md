@@ -10,8 +10,7 @@ translations:
     en: typo-test
 ---
 
-Ceci est un article destiné à tester le respect de certaines règles
-microtypographiques par mon site.  
+Ceci est un article destiné à tester le respect de certaines règles microtypographiques par mon site.  
 Ne tenez pas compte du contenu ci-dessous.
 
 <!-- more -->
@@ -28,27 +27,15 @@ Ne tenez pas compte du contenu ci-dessous.
 
 ## Horizontal Rules
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor,
-animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea
-ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat
-inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil
-erat, quod Zeno commutare gestiret.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor, animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor,
-animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea
-ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat
-inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil
-erat, quod Zeno commutare gestiret.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor, animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor,
-animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea
-ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat
-inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil
-erat, quod Zeno commutare gestiret.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. A primo, ut opinor, animantium ortu petitur origo summi boni. Portenta haec esse dicit, neque ea ratione ullo modo posse vivi; Esse enim quam vellet iniquus iustus poterat inpune. Duo Reges: constructio interrete. In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.
 
 ## Typographic replacements
 
@@ -172,19 +159,19 @@ console.log(foo(5));
 
 ## Tables
 
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
+| Option | Description |
+| --- | --- |
+| data | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext | extension to be used for dest files. |
 
 Right aligned columns
 
-| Option |                                                               Description |
-| -----: | ------------------------------------------------------------------------: |
-|   data | path to data files to supply the data that will be passed into templates. |
-| engine |    engine to be used for processing templates. Handlebars is the default. |
-|    ext |                                      extension to be used for dest files. |
+| Option | Description |
+| --: | --: |
+| data | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext | extension to be used for dest files. |
 
 ## Links
 
@@ -203,12 +190,7 @@ Footnote 2 link[^second].
 Duplicated footnote reference[^second].
 
 [^first]: Footnote **can have markup**
-[^second]:
-    Footnote text can be long lorem ipsum dolor sit amet, consectetur adipiscing
-    elit. Primum cur ista res digna odio est, nisi quod est turpis? Ita nemo
-    beato beatior. Duo Reges: constructio interrete. Sed tu istuc dixti bene
-    Latine, parum plane. Polemoni et iam ante Aristoteli ea prima visa sunt,
-    quae paulo ante dixi
+[^second]: Footnote text can be long lorem ipsum dolor sit amet, consectetur adipiscing elit. Primum cur ista res digna odio est, nisi quod est turpis? Ita nemo beato beatior. Duo Reges: constructio interrete. Sed tu istuc dixti bene Latine, parum plane. Polemoni et iam ante Aristoteli ea prima visa sunt, quae paulo ante dixi
 
 ### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
 
@@ -232,31 +214,17 @@ Term 2 ~ Definition 2a ~ Definition 2b
 
 ### Abbreviations
 
-This is <abbr title="Hypertext Markup Language">HTML</abbr> abbreviation
-example.
+This is <abbr title="Hypertext Markup Language">HTML</abbr> abbreviation example.
 
 ### Insertion
 
-Lorem ipsum dolor sit amet, <ins datetime="2018-12-26">consectetur</ins>
-adipiscing elit. Addebat etiam se in legem Voconiam iuratum contra eam facere
-non audere, nisi aliter amicis videretur. Traditur, inquit, ab Epicuro ratio
-neglegendi doloris. Amicitiam autem adhibendam esse censent, quia sit ex eo
-genere, quae prosunt.
+Lorem ipsum dolor sit amet, <ins datetime="2018-12-26">consectetur</ins> adipiscing elit. Addebat etiam se in legem Voconiam iuratum contra eam facere non audere, nisi aliter amicis videretur. Traditur, inquit, ab Epicuro ratio neglegendi doloris. Amicitiam autem adhibendam esse censent, quia sit ex eo genere, quae prosunt.
 
-<ins class="bloc" datetime="2018-12-26">Lorem ipsum dolor sit amet, consectetur
-adipiscing elit. Addebat etiam se in legem Voconiam iuratum contra eam facere
-non audere, nisi aliter amicis videretur. Traditur, inquit, ab Epicuro ratio
-neglegendi doloris. Amicitiam autem adhibendam esse censent, quia sit ex eo
-genere, quae prosunt.</ins>
+<ins class="bloc" datetime="2018-12-26">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Addebat etiam se in legem Voconiam iuratum contra eam facere non audere, nisi aliter amicis videretur. Traditur, inquit, ab Epicuro ratio neglegendi doloris. Amicitiam autem adhibendam esse censent, quia sit ex eo genere, quae prosunt.</ins>
 
 ## Rich figcaptions
 
-{% capture img_alt %}Deux post-its, comparant l'Agile façon Cargo Cult et les
-vraies livraisons successives{% endcapture %}
-{% capture img_caption %}"[Doing Agile, being Agile](https://www.flickr.com/photos/psd/9588038559)",
-par [Paul Downey](https://www.flickr.com/photos/psd/) —
-[Certains droits réservés](https://creativecommons.org/licenses/by/2.0/){% endcapture %}
-{% include rwd-image.html.liquid
+{% capture img_alt %}Deux post-its, comparant l'Agile façon Cargo Cult et les vraies livraisons successives{% endcapture %} {% capture img_caption %}"[Doing Agile, being Agile](https://www.flickr.com/photos/psd/9588038559)", par [Paul Downey](https://www.flickr.com/photos/psd/) — [Certains droits réservés](https://creativecommons.org/licenses/by/2.0/){% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2017-04-02/doing_vs_being_agile.jpg"
 alt=img_alt
 caption=img_caption

@@ -2,8 +2,7 @@
 title: 'Hier Demain'
 ---
 
-> — Tu as une petite mine, mon poussin, on dirait que tu n'as pas fait la
-> sieste…  
+> — Tu as une petite mine, mon poussin, on dirait que tu n'as pas fait la sieste…  
 > — Oui yé fais la yiete moi…  
 > — Ah bon ? Tu as fait la sieste aujourd'hui ? Quand ça ?  
 > — Mais… Mais… Demain !  

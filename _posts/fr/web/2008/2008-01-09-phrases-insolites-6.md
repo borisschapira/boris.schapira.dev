@@ -15,8 +15,7 @@ _C'est fou ce qu'on peut entendre quand on tend l'oreille !_
 
 ## Vive les gilets de survie
 
-> Pour le coup tu dois souhaiter qu’il y ait une avalanche, ça doit être super
-> marrant !
+> Pour le coup tu dois souhaiter qu’il y ait une avalanche, ça doit être super marrant !
 
 ## Sens des valeurs
 
@@ -32,16 +31,14 @@ _C'est fou ce qu'on peut entendre quand on tend l'oreille !_
 
 ## Pressé de reprendre
 
-> Ouais, ouais, bonne année, tout ça… bon on bosse où on joue au scrabble en
-> tong ?
+> Ouais, ouais, bonne année, tout ça… bon on bosse où on joue au scrabble en tong ?
 
 ## Tire-au-flanc
 
 > – Non mais vas-y, tu peux rentrer chez toi.  
 > – Tu es sûr ? Ca me dérange pas de rester…  
 > – Non non c'est bon. Tu veux rester ou quoi ?  
-> – Ben… quand c'est moi qui rentre le premier à la maison, je dois faire à
-> bouffer pour les mômes…
+> – Ben… quand c'est moi qui rentre le premier à la maison, je dois faire à bouffer pour les mômes…
 
 ## Une ange passe…
 

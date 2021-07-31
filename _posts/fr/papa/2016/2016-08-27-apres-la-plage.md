@@ -2,8 +2,7 @@
 title: 'Après la plage'
 ---
 
-Nous avions oublié de prendre un rechange à notre Koala, nous lui expliquons
-donc qu'il va resté en maillot le temps d'aller manger.
+Nous avions oublié de prendre un rechange à notre Koala, nous lui expliquons donc qu'il va resté en maillot le temps d'aller manger.
 
 <!-- more -->
 

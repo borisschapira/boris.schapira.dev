@@ -2,10 +2,7 @@
 title: 'Deurman mobile'
 ---
 
-Je joue à
-[Spiderman Unlimited](http://www.gameloft.com/minisites/spidermanunlimited-us/)
-sur mon téléphone Android, un _infinite runner_ scénarisé dans l'univers de
-Spiderman. Parfois, le petit regarde un peu...
+Je joue à [Spiderman Unlimited](http://www.gameloft.com/minisites/spidermanunlimited-us/) sur mon téléphone Android, un _infinite runner_ scénarisé dans l'univers de Spiderman. Parfois, le petit regarde un peu...
 
 > — A bat' échant ti deurman !  
 > — Oui chéri, Spider Man bat les méchants  

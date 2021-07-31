@@ -2,17 +2,14 @@
 title: 'Pas le temps'
 ---
 
-Quand on s'occupe seul·e de ses enfants, arrive toujours ce moment fatidique. Ce
-moment qu'on redoute, où la nature nous rattrape…
+Quand on s'occupe seul·e de ses enfants, arrive toujours ce moment fatidique. Ce moment qu'on redoute, où la nature nous rattrape…
 
 <!-- more -->
 
-> — Les enfants je vous laisse deux secondes, je vais faire pipi… pas de bêtises
-> dans la salle de bain !  
+> — Les enfants je vous laisse deux secondes, je vais faire pipi… pas de bêtises dans la salle de bain !  
 > — Non papa !
 
-À peine le temps d'arriver aux toilettes (la pièce adjacente, pourtant)…
-j'entends le petit qui m'appelle.
+À peine le temps d'arriver aux toilettes (la pièce adjacente, pourtant)… j'entends le petit qui m'appelle.
 
 > — Papaaaaaaaaaaaaa ?  
 > — Oui, chéri ?  
@@ -20,8 +17,7 @@ j'entends le petit qui m'appelle.
 > — Euh ben non chéri, c’est sale !  
 > — Ah, d’accord.
 
-Je finis ma petite affaire rapidement et reviens à la salle de bain.
-Visiblement, les enfants ont un peu joué…
+Je finis ma petite affaire rapidement et reviens à la salle de bain. Visiblement, les enfants ont un peu joué…
 
 > Dites les enfants, c’est quoi toute cette eau par terre ?
 

@@ -1,0 +1,64 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: ''
+webhook_url: ''
+sections:
+- type: directory
+  path: _posts/fr/papa/2021
+  label: FR · Papa · 2021
+  create: all
+  match: "**/*"
+- type: directory
+  path: _posts/fr/web/2021
+  label: FR · Web · 2021
+  create: all
+  match: "**/*"
+- type: directory
+  path: _posts/fr/citoyen/2021
+  label: FR · Citoyen · 2021
+  create: all
+  match: "**/*"
+- type: directory
+  path: _posts/en/dad/2021
+  label: EN · Dad · 2021
+  create: all
+  match: "**/*"
+- type: directory
+  path: _posts/en/web/2021
+  label: EN · Web · 2021
+  create: all
+  match: "**/*"
+- type: directory
+  path: _posts/en/citizen/2021
+  label: EN · Citizen · 2021
+  create: all
+  match: "**/*"
+- type: directory
+  path: _community
+  label: Community
+  create: all
+  match: "**/*"
+- type: jekyll-posts
+  label: All Posts
+  create: all
+- type: directory
+  path: _pages
+  label: All Pages
+  create: all
+  match: "**/*"
+upload_dir: assets/images
+public_path: "/assets/images"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - JEKYLL_ENV=staging
+  preview_output_directory: _site
+  install_dependencies_command: bundle install --path vendor/bundle
+  preview_docker_image: forestryio/ruby:2.6
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
+    -d _site

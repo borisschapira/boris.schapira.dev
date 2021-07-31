@@ -1,8 +1,8 @@
 ---
 title: 'Priorités des chargements JavaScript dans Chrome'
 description: >-
-    Traduction d'une synthèse d'Addy Osmani sur la manière dont les scripts
-    étaient téléchargés et exécutés dans Chrome jusqu'à février 2019.
+    Traduction d'une synthèse d'Addy Osmani sur la manière dont les scripts étaient téléchargés et exécutés dans Chrome jusqu'à février 2019.
+
 tags:
     - 'Performance Web'
     - JavaScript
@@ -13,20 +13,13 @@ header2: "Priorité d'exécution"
 header3: "Comment l'utiliser ?"
 ---
 
-_Je relis et conseille souvent cet article d'Addy Osmani de **février 2019**
-mais mes interlocuteurs et interlocutrices ne sont pas forcément anglophones.
-J'ai donc décidé de le traduire._
+_Je relis et conseille souvent cet article d'Addy Osmani de **février 2019** mais mes interlocuteurs et interlocutrices ne sont pas forcément anglophones. J'ai donc décidé de le traduire._
 
 <div class="emphasis">
 <strong>Retrouvez l'original sur le blog d'Addy Osmani&nbsp;:</strong> <a href="https://addyosmani.com/blog/script-priorities/" hreflang="en" lang="en">JavaScript Loading Priorities in Chrome</a>.
 </div>
 
-La façon dont les navigateurs ordonnancent et exécutent les scripts peut avoir
-un impact sur les performances des pages web. Si des techniques comme
-`<script defer>`, `<link rel=preload>` (et d'autres) influencent le chargement
-des scripts, il peut également être utile de savoir comment les navigateurs les
-interprètent. Grâce à Kouhei Ueno, nous disposons maintenant d'un résumé
-actualisé de la manière dont les scripts sont ordonnancés dans Chrome.
+La façon dont les navigateurs ordonnancent et exécutent les scripts peut avoir un impact sur les performances des pages web. Si des techniques comme `<script defer>`, `<link rel=preload>` (et d'autres) influencent le chargement des scripts, il peut également être utile de savoir comment les navigateurs les interprètent. Grâce à Kouhei Ueno, nous disposons maintenant d'un résumé actualisé de la manière dont les scripts sont ordonnancés dans Chrome.
 
 <table class="responsive">
   <thead>
@@ -231,42 +224,25 @@ actualisé de la manière dont les scripts sont ordonnancés dans Chrome.
   </tbody>
 </table>
 
-Note : Les priorités de chargement ne sont pas nécessairement cohérentes d'un
-navigateur à l'autre. Utilisez donc ces connaissances à bon escient et
-mesurez-les en cas de doute. Dans l'idéal, cherchez à offrir une expérience de
-qualité au plus grand nombre d'utilisateurs possible.
+Note : Les priorités de chargement ne sont pas nécessairement cohérentes d'un navigateur à l'autre. Utilisez donc ces connaissances à bon escient et mesurez-les en cas de doute. Dans l'idéal, cherchez à offrir une expérience de qualité au plus grand nombre d'utilisateurs possible.
 
-Si vous êtes un développeur ou une développeuse web et que vous vous demandez où
-vous pouvez voir la "Priorité de chargement", Chrome DevTools a une colonne
-"Priorité" optionnelle disponible dans le panneau Réseau. Cliquez avec le bouton
-droit de la souris sur les en-têtes de colonne et vous pourrez l'activer :
+Si vous êtes un développeur ou une développeuse web et que vous vous demandez où vous pouvez voir la "Priorité de chargement", Chrome DevTools a une colonne "Priorité" optionnelle disponible dans le panneau Réseau. Cliquez avec le bouton droit de la souris sur les en-têtes de colonne et vous pourrez l'activer :
 
-{% capture img_alt %}Une capture des outils DevTools ouverts sur Walmart.com,
-onglet Réseau. On y voit un script de polyfill et un script de header en
-priorité haute, et un script de footer en priorité
-basse.{% endcapture %}{% include rwd-image.html.liquid
+{% capture img_alt %}Une capture des outils DevTools ouverts sur Walmart.com, onglet Réseau. On y voit un script de polyfill et un script de header en priorité haute, et un script de footer en priorité basse.{% endcapture %}{% include rwd-image.html.liquid
 path="/assets/images/2020-06-04/illustration.png"
 alt=img_alt
 %}
 
-Cette [synthèse](/assets/images/2020-06-04/synthese.png) des priorités ci-dessus
-est toujours valable en février 2019. Je souhaiterais personnellement avoir une
-meilleure compréhension des priorités de chargement dans d'autres navigateurs
-également. J'espère que cet aperçu sera utile à quelqu'un·e d'autre !
+Cette [synthèse](/assets/images/2020-06-04/synthese.png) des priorités ci-dessus est toujours valable en février 2019. Je souhaiterais personnellement avoir une meilleure compréhension des priorités de chargement dans d'autres navigateurs également. J'espère que cet aperçu sera utile à quelqu'un·e d'autre !
 
-Merci à Kouhei, Dom Faralino, Pat Meenan, Kenji Baheux et Yoav Weiss pour leurs
-contributions permettant de mieux expliquer la pile réseau de Chrome.
+Merci à Kouhei, Dom Faralino, Pat Meenan, Kenji Baheux et Yoav Weiss pour leurs contributions permettant de mieux expliquer la pile réseau de Chrome.
 
 ## En savoir plus
 
--   <a href="https://bit.ly/script-scheduling" hreflang="en" lang="en">Scheduling
-    Scripts Intuitively and Performantly</a>
--   <a href="https://docs.google.com/document/d/1bCDuq9H1ih9iNjgzyAL0gpwNFiEP4TZS-YLRp_RuMlc/edit#" hreflang="en" lang="en">Chrome
-    Resource Priorities and Scheduling</a>
--   <a href="https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf" hreflang="en" lang="en">Preload,
-    Prefetch And Priorities in Chrome</a>
--   <a href="https://twitter.com/yoavweiss/status/1096075414697639936" hreflang="en" lang="en">Priorities
-    for rel=preload in Chrome and WebKit</a>
+-   <a href="https://bit.ly/script-scheduling" hreflang="en" lang="en">Scheduling Scripts Intuitively and Performantly</a>
+-   <a href="https://docs.google.com/document/d/1bCDuq9H1ih9iNjgzyAL0gpwNFiEP4TZS-YLRp_RuMlc/edit#" hreflang="en" lang="en">Chrome Resource Priorities and Scheduling</a>
+-   <a href="https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf" hreflang="en" lang="en">Preload, Prefetch And Priorities in Chrome</a>
+-   <a href="https://twitter.com/yoavweiss/status/1096075414697639936" hreflang="en" lang="en">Priorities for rel=preload in Chrome and WebKit</a>
 
 ---
 

@@ -7,6 +7,5 @@ translations:
 ---
 
 > – Dad, is there a Happy Meal for grown-ups?  
-> – With a toy inside? I don't think so. They must think grown-ups don't like
-> toys.  
+> – With a toy inside? I don't think so. They must think grown-ups don't like toys.  
 > – They've never seen your office, for sure.

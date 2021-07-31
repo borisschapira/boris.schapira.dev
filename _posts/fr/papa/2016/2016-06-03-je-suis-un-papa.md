@@ -12,6 +12,4 @@ Grosse colère du grand.
 > — Ah bon ? Et qui me punira de dessert à ton avis ?  
 > — Moi ! Parce que je suis un papa !  
 > — Euh… non. Pour l'instant, tu es mon fils, alors c'est toi qui obéis !  
-> — Oui, mais un jour, je serai grand et je serai un papa. Et moi, je travaille
-> à l'école, alors je suis un papa parce que les papas, ça travaille a l'école
-> !!!
+> — Oui, mais un jour, je serai grand et je serai un papa. Et moi, je travaille à l'école, alors je suis un papa parce que les papas, ça travaille a l'école !!!

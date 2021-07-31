@@ -32,15 +32,11 @@ _C'est fou ce qu'on peut entendre quand on tend l'oreille !_
 
 ## Littéraire
 
-> Les mecs avec qui je sors, c’est comme les quotidiens gratuits : je les lis et
-> après je les laisse. Mais j’ai du respect pour eux, tu vois, je suis pas
-> méchante, je les rends comme je les ai trouvé pour qu’ils puissent être lus à
-> nouveau.
+> Les mecs avec qui je sors, c’est comme les quotidiens gratuits : je les lis et après je les laisse. Mais j’ai du respect pour eux, tu vois, je suis pas méchante, je les rends comme je les ai trouvé pour qu’ils puissent être lus à nouveau.
 
 ## Gastronomie
 
-> L’offre de vente que je te fais, c’est du Fauchon à un cochon. Alors si t’es
-> pas content t’as qu’à aller au McDo.
+> L’offre de vente que je te fais, c’est du Fauchon à un cochon. Alors si t’es pas content t’as qu’à aller au McDo.
 
 ## Mon beau-père et la technologie
 

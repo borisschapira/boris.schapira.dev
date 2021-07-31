@@ -11,16 +11,14 @@ _C’est fou ce qu’on peut entendre quand on tend l’oreille !_
 
 ## Try Catch Fail
 
-> — Tu fais des TryCatch ?! Mais ça sert à rien ! Tu fais des TryCatch quand
-> t'es pas sûr de toi !
+> — Tu fais des TryCatch ?! Mais ça sert à rien ! Tu fais des TryCatch quand t'es pas sûr de toi !
 
 ## Règle n°1 : Mme Schapira a toujours raison
 
 > — Tu chantes faux, là.  
 > — Non, pas du tout.  
 > — Si si, je t'assure.  
-> — Impossible, je suis parfaitement la voix de Balavoine. Tu oses dire que
-> Balavoine chante faux ?
+> — Impossible, je suis parfaitement la voix de Balavoine. Tu oses dire que Balavoine chante faux ?
 
 ## Envie de passé #1
 
@@ -30,18 +28,13 @@ _C’est fou ce qu’on peut entendre quand on tend l’oreille !_
 ## Envie de passé #2
 
 > — Qu'est-ce que tu fais ?  
-> — Ben ça se voit pas, je clique ici (_sur le bouton en haut à droite du site
-> de Désirs d'Avenir_)  
+> — Ben ça se voit pas, je clique ici (_sur le bouton en haut à droite du site de Désirs d'Avenir_)  
 > — Et alors ?  
-> — Bah il se passe rien. Mon désir d'avenir, ça serait qu'il se passe quelque
-> chose. Ca serait un bon début.
+> — Bah il se passe rien. Mon désir d'avenir, ça serait qu'il se passe quelque chose. Ca serait un bon début.
 
 ## Echelle de Trehorel
 
-> Pff, tu as vu les twitts des bots qui te spamment sur Twitter ? On s'approche
-> du
-> [void](http://desencyclopedie.wikia.com/wiki/Echelle_Trehorel#Niveau_6T_code_.22Void.22),
-> là, quand-même !
+> Pff, tu as vu les twitts des bots qui te spamment sur Twitter ? On s'approche du [void](http://desencyclopedie.wikia.com/wiki/Echelle_Trehorel#Niveau_6T_code_.22Void.22), là, quand-même !
 
 ## Bug Master Fail
 
