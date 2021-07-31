@@ -15,6 +15,6 @@ translations:
 repost_: false
 canonical: ''
 canonical_title: ''
-published: false
 
 ---
+Ceci est un test
