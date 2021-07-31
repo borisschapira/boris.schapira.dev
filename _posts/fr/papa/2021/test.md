@@ -1,6 +1,7 @@
 ---
-tags: []
-cloudinary_logo: []
+tags:
+- Web Performance
+cloudinary_logo: clever-logo
 title: Test
 slug: test
 description: ''
@@ -12,7 +13,7 @@ translated: false
 i18n-key: ''
 translations:
   fr: ''
-repost_: false
+repost_: true
 canonical: ''
 canonical_title: ''
 
