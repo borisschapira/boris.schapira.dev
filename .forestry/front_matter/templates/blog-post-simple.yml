@@ -12,3 +12,5 @@ fields:
   type: tag_list
   default: []
   label: Tags
+pages:
+- _posts/fr/papa/2021/cul-de-chouette.md
