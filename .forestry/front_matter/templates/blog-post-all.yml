@@ -2,22 +2,17 @@
 label: Blog post (all fields)
 hide_body: false
 fields:
-- type: text
-  name: title
-  label: Title
-- type: text
-  name: slug
-  label: Slug
+- name: basics
+  type: include
+  config: {}
+  template: blog-post-simple
+  label: Basics
 - name: description
   type: text
   config:
     required: false
     max: 160
   label: Description
-- name: tags
-  type: tag_list
-  default: []
-  label: Tags
 - name: load_twitter_wjs
   type: boolean
   label: Load Twitter WJS
@@ -38,7 +33,7 @@ fields:
   config:
     required: false
     date_format: ''
-    time_format:
+    time_format: 
     display_utc: false
 - name: translated
   type: boolean
@@ -90,9 +85,9 @@ fields:
     - contentsquare-logo
     source:
       type: simple
-      section:
-      file:
-      path:
+      section: 
+      file: 
+      path: 
   label: Cloudinary Logo
   showOnly:
     field: repost_
