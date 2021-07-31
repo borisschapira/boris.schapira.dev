@@ -1,0 +1,11 @@
+---
+tags: []
+title: Immergé
+slug: immerge
+
+---
+Aujourd'hui, nous lisons Harry Potter. Mon ainé a déjà vu le film au moins cinq fois, on pourrait s'attendre à ce qu'il connaisse l'histoire… 
+
+Nous arrivons au moment où le choixpeau magique détermine qui doit aller dans quelle maison. À l'appel de Ron, il me regarde plein d'appréhension :
+
+> J'espère qu'il pourra aller à Gryffondor avec ses amis !
