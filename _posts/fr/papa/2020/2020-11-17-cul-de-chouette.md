@@ -1,7 +1,5 @@
 ---
-tags: []
 title: Cul de chouette
-slug: cul-de-chouette
 ---
 
 Mon petit essaie de m'expliquer un jeu qu'ils ont inventé à l'école :
