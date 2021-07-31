@@ -4,6 +4,7 @@ i18n-key: consent-tos-webperf
 description: >-
     Que se passe-t-il lorsque vos utilisateurs vous donnent leur consentement pour l'utilisation de leurs données ? Bien souvent, leur qualité de service se détériore...
 
+
 tags:
     - 'Performance Web'
     - RGPD

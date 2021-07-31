@@ -4,6 +4,7 @@ subtitle: pour un monde touché par le COVID-19
 description: >-
     Alors que le COVID-19 touche petit-à-petit l'ensemble du monde, de nombreuses personnes n'arrivent pas encore à comprendre les enjeux de l'épidémie. "Épidémie" est une simulation interactive leur permettant de comprendre, voire de ressentir ces enjeux.
 
+
 last_date: 2020-03-22
 events:
     - name: 'Site Web · 2020'

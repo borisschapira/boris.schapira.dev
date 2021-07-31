@@ -7,6 +7,7 @@ canonical_title: 'le blog de Dareboost'
 description: >-
     Utilisez preload et les Resource Hints pour améliorer la vitesse de chargement en influençant l'ordre de récupération et exécution des ressources.
 
+
 tags:
     - 'Performance Web'
     - Network

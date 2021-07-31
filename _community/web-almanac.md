@@ -4,6 +4,7 @@ subtitle: pour mieux comprendre comment le Web est fait
 description: >-
     Le Web Almanac est un rapport complet sur l’état du Web, soutenu par des données réelles et des experts du Web. J'ai rejoint le projet fin 2019, pour contribuer à la traduction française.
 
+
 last_date: 2020-05-20
 events:
     - name: 'traduction des pages génériques'

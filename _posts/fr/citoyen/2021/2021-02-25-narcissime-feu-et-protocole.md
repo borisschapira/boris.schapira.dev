@@ -3,6 +3,7 @@ title: 'Le narcissisme, le feu et le protocole'
 description: >-
     Être un ou une vrai professionnelle, c'est anticiper un protocole pour retomber dessus dans une situation critique. Parce que sinon, vous êtes tellement pris par l'émotion que vous allez faire des conneries.
 
+
 load_twitter_wjs: true
 ---
 

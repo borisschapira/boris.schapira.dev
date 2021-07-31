@@ -7,6 +7,7 @@ canonical_title: "Dareboost's Blog"
 description: >-
     Why and how to use the preload directive and the Resource Hints to optimize the load of your third party resources (fonts, videos, analytics…) and speed up your web pages.
 
+
 tags:
     - 'Performance Web'
     - 3p

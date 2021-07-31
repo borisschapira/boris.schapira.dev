@@ -4,6 +4,7 @@ subtitle: pour les citoyens et citoyennes qui s'interrogent
 description: >-
     Le mode de scrutin utilisé en France pour les élections présidentielles a des avantages et des inconvénients. Peu importe qu'on l'apprécie ou non, il modèle la vie politique et, parfois, nous oblige à mentir. Comment mieux le faire comprendre qu'au travers d'un exercice pratique ?
 
+
 last_date: 2017-04-01
 events:
     - name: 'Site Web · 2017'

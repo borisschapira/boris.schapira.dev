@@ -4,6 +4,7 @@ i18n-key: cls
 description: >-
     Cumulative Layout Shift (CLS) is one of Google's new Core Web Vitals metrics, dedicated to layout instability. How to measure CLS, optimize for it, visualize it in Chrome and what's are its limitations? Let's find answers.
 
+
 tags:
     - 'Performance Web'
     - Metrics

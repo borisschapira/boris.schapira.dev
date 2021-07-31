@@ -7,6 +7,7 @@ canonical_title: 'le blog de Dareboost'
 description: >-
     Pourquoi et comment utiliser la directive preload et les Resource Hints pour optimiser la charge de vos ressources tierces (polices, vidéos, analytics...) et accélérer vos pages web.
 
+
 tags:
     - 'Performance Web'
     - 3p

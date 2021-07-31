@@ -4,6 +4,7 @@ i18n-key: self-restraint
 description: >-
     A short thought on the state of the Web and our individual responsibilities.
 
+
 tags:
     - 'Performance Web'
     - JavaScript

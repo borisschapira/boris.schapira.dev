@@ -4,6 +4,7 @@ subtitle: un sujet pour les gens qui ont des idées
 description: >-
     Avoir une idée, c'est facile. La mémoriser, plus dur. La verbaliser, on commence à arrive dans le concret. La manipuler pour la rendre réaliste, peu de gens peuvent le faire. Et si on en faisait un projet, un vrai ?
 
+
 last_date: 2014-05-16
 events:
     - name: 'Sud Web 2014'

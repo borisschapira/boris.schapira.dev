@@ -3,6 +3,7 @@ title: 'Priorités des chargements JavaScript dans Chrome'
 description: >-
     Traduction d'une synthèse d'Addy Osmani sur la manière dont les scripts étaient téléchargés et exécutés dans Chrome jusqu'à février 2019.
 
+
 tags:
     - 'Performance Web'
     - JavaScript

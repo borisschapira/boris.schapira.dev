@@ -2,8 +2,8 @@
 tags: []
 title: Cul de chouette
 slug: cul-de-chouette
-
 ---
+
 Mon petit essaie de m'expliquer un jeu qu'ils ont inventé à l'école :
 
 > … attends je t'explique le jeu. Tu as deux lignes horizontales sur le sol avec sur chaque ligne, quatre plots. Un plot pour la girafe, un pour le phacochère, un pour le tigre et un pour la gazelle.
