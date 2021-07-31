@@ -92,5 +92,3 @@ fields:
   showOnly:
     field: repost_
     value: true
-pages:
-- _posts/fr/papa/2021/test.md

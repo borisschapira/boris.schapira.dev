@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: ''
+webhook_url: https://api.netlify.com/build_hooks/6105363ffa1df8edbf8a7db5
 sections:
 - type: directory
   path: _posts/fr/papa/2021
