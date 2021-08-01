@@ -1,0 +1,16 @@
+---
+tags: []
+title: De câble
+slug: de-cable
+published: false
+
+---
+Comme tous les étés, les garçons passent plusieurs semaines avec leurs grand-parents. Chacun chez une mamie, et à mi-durée, ils échangent (et donc se retrouvent). Demain matin, c'est le jour de l'échange et mon 8-ans est impatient de montrer à son frère comme il a mûri :
+
+> – J'ai trop hâte qu'on se vois. Tu sais, j'ai beaucoup changé, je pense. J'ai grandi maintenant. Je sais pas s'il va me reconnaitre, hein !   
+> – Ah bon, dans quel sens ? En taille ?  
+> – Non, dans mon comportement, tu vois. Je pense que j'ai compris, maintenant, comment je peux faire pour ne plus énerver mon frère. Il n'y aura plus de démontage de câble le soir.  
+> – De… pétage de câble ?  
+> – Oui, voilà.  
+> – Mais où tu apprends ces expressions, chez mamie ?  
+> – Non, dans la boite à histoire. Mais bon, ça fait longtemps que je ne l'ai pas écoutée, donc parfois j'oublie l'expression exacte.
