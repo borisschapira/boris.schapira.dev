@@ -2,9 +2,9 @@
 title: L'absurde, c'est relatif
 
 ---
-Je joue à <span lang="en">The Witcher</span>, un jeu médiéval-fantastique. On y trouve des éléments de fiction mais aussi une dépiction de la vie médiévale, du moins l'image qu'on s'en sont fait les développeurs\[^1\].
+Je joue à <span lang="en">The Witcher</span>, un jeu médiéval-fantastique. On y trouve des éléments de fiction mais aussi une dépiction de la vie médiévale, du moins l'image qu'on s'en sont fait les développeurs [^1].
 
-\[^1\]: Pour une analyse de la rigueur historique, je vous recommande [l'épisode de Montaigne in Game dédié à The Witcher III: Wild Hunt](https://www.youtube.com/watch?v=hmTEq3OJWEU).
+[^1]: Pour une analyse de la rigueur historique, je vous recommande [l'épisode de Montaigne in Game dédié à The Witcher III: Wild Hunt](https://www.youtube.com/watch?v=hmTEq3OJWEU).
 
 J'adore comme mon petit koala est capable de ne pas questionner la fiction mais part dans une colère saine à d'autres moments…
 
