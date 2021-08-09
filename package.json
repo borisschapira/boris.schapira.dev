@@ -108,6 +108,6 @@
     "workbox-range-requests": "^6.1.5",
     "workbox-routing": "^6.1.5",
     "workbox-strategies": "^6.1.5",
-    "workbox-sw": "^6.1.5"
+    "workbox-sw": "^6.2.2"
   }
 }
