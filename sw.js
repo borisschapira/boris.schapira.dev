@@ -8,7 +8,7 @@
 
 // @ts-ignore
 try {
-    self['workbox:broadcast-update:6.1.5'] && _();
+    self['workbox:broadcast-update:6.2.2'] && _();
 }
 catch (e) { }
 
@@ -21,7 +21,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:cacheable-response:6.1.5'] && _();
+    self['workbox:cacheable-response:6.2.2'] && _();
 }
 catch (e) { }
 
@@ -34,7 +34,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:core:6.1.5'] && _();
+    self['workbox:core:6.2.2'] && _();
 }
 catch (e) { }
 
@@ -47,7 +47,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:expiration:6.1.5'] && _();
+    self['workbox:expiration:6.2.2'] && _();
 }
 catch (e) { }
 
@@ -60,7 +60,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:precaching:6.1.5'] && _();
+    self['workbox:precaching:6.2.2'] && _();
 }
 catch (e) { }
 
@@ -73,7 +73,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:range-requests:6.1.5'] && _();
+    self['workbox:range-requests:6.2.2'] && _();
 }
 catch (e) { }
 
@@ -86,7 +86,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:routing:6.1.5'] && _();
+    self['workbox:routing:6.2.2'] && _();
 }
 catch (e) { }
 
@@ -99,7 +99,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:strategies:6.1.5'] && _();
+    self['workbox:strategies:6.2.2'] && _();
 }
 catch (e) { }
 
@@ -179,22 +179,24 @@ const messages_messages = {
         if (!expectedType || !paramName || !moduleName || !funcName) {
             throw new Error(`Unexpected input to 'incorrect-type' error.`);
         }
+        const classNameStr = className ? `${className}.` : '';
         return `The parameter '${paramName}' passed into ` +
-            `'${moduleName}.${className ? (className + '.') : ''}` +
+            `'${moduleName}.${classNameStr}` +
             `${funcName}()' must be of type ${expectedType}.`;
     },
-    'incorrect-class': ({ expectedClass, paramName, moduleName, className, funcName, isReturnValueProblem }) => {
-        if (!expectedClass || !moduleName || !funcName) {
+    'incorrect-class': ({ expectedClassName, paramName, moduleName, className, funcName, isReturnValueProblem }) => {
+        if (!expectedClassName || !moduleName || !funcName) {
             throw new Error(`Unexpected input to 'incorrect-class' error.`);
         }
+        const classNameStr = className ? `${className}.` : '';
         if (isReturnValueProblem) {
             return `The return value from ` +
-                `'${moduleName}.${className ? (className + '.') : ''}${funcName}()' ` +
-                `must be an instance of class ${expectedClass.name}.`;
+                `'${moduleName}.${classNameStr}${funcName}()' ` +
+                `must be an instance of class ${expectedClassName}.`;
         }
         return `The parameter '${paramName}' passed into ` +
-            `'${moduleName}.${className ? (className + '.') : ''}${funcName}()' ` +
-            `must be an instance of class ${expectedClass.name}.`;
+            `'${moduleName}.${classNameStr}${funcName}()' ` +
+            `must be an instance of class ${expectedClassName}.`;
     },
     'missing-a-method': ({ expectedMethod, paramName, moduleName, className, funcName }) => {
         if (!expectedMethod || !paramName || !moduleName || !className
@@ -218,17 +220,17 @@ const messages_messages = {
         }
         return `Two of the entries passed to ` +
             `'workbox-precaching.PrecacheController.addToCacheList()' had the URL ` +
-            `${firstEntry._entryId} but different revision details. Workbox is ` +
+            `${firstEntry} but different revision details. Workbox is ` +
             `unable to cache and version the asset correctly. Please remove one ` +
             `of the entries.`;
     },
-    'plugin-error-request-will-fetch': ({ thrownError }) => {
-        if (!thrownError) {
+    'plugin-error-request-will-fetch': ({ thrownErrorMessage }) => {
+        if (!thrownErrorMessage) {
             throw new Error(`Unexpected input to ` +
                 `'plugin-error-request-will-fetch', error.`);
         }
         return `An error was thrown by a plugins 'requestWillFetch()' method. ` +
-            `The thrown error message was: '${thrownError.message}'.`;
+            `The thrown error message was: '${thrownErrorMessage}'.`;
     },
     'invalid-cache-name': ({ cacheNameId, value }) => {
         if (!cacheNameId) {
@@ -466,9 +468,12 @@ const isType = (object, expectedType, details) => {
         throw new WorkboxError('incorrect-type', details);
     }
 };
-const isInstance = (object, expectedClass, details) => {
+const isInstance = (object, 
+// Need the general type to do the check later.
+// eslint-disable-next-line @typescript-eslint/ban-types
+expectedClass, details) => {
     if (!(object instanceof expectedClass)) {
-        details['expectedClass'] = expectedClass;
+        details['expectedClassName'] = expectedClass.name;
         throw new WorkboxError('incorrect-class', details);
     }
 };
@@ -479,7 +484,10 @@ const isOneOf = (value, validValues, details) => {
         throw new WorkboxError('invalid-value', details);
     }
 };
-const isArrayOfClass = (value, expectedClass, details) => {
+const isArrayOfClass = (value, 
+// Need general type to do check later.
+expectedClass, // eslint-disable-line
+details) => {
     const error = new WorkboxError('not-array-of-class', details);
     if (!Array.isArray(value)) {
         throw error;
@@ -503,6 +511,8 @@ const finalAssertExports =  true ? null : 0;
 */
 
 // Callbacks to be executed whenever there's a quota error.
+// Can't change Function type right now.
+// eslint-disable-next-line @typescript-eslint/ban-types
 const quotaErrorCallbacks = new Set();
 
 
@@ -525,6 +535,8 @@ const quotaErrorCallbacks = new Set();
  * @param {Function} callback
  * @memberof module:workbox-core
  */
+// Can't change Function type
+// eslint-disable-next-line @typescript-eslint/ban-types
 function registerQuotaErrorCallback(callback) {
     if (false) {}
     quotaErrorCallbacks.add(callback);
@@ -617,7 +629,7 @@ async function cacheMatchIgnoreParams(cache, request, ignoreParams, matchOptions
         return cache.match(request, matchOptions);
     }
     // Otherwise, match by comparing keys
-    const keysOptions = { ...matchOptions, ignoreSearch: true };
+    const keysOptions = Object.assign(Object.assign({}, matchOptions), { ignoreSearch: true });
     const cacheKeys = await cache.keys(request, keysOptions);
     for (const cacheKey of cacheKeys) {
         const strippedCacheKeyURL = stripParams(cacheKey.url, ignoreParams);
@@ -716,260 +728,7 @@ function canConstructResponseFromBodyStream() {
  **/
 function dontWaitFor(promise) {
     // Effective no-op.
-    promise.then(() => { });
-}
-
-;// CONCATENATED MODULE: ./node_modules/workbox-core/_private/DBWrapper.js
-/*
-  Copyright 2018 Google LLC
-
-  Use of this source code is governed by an MIT-style
-  license that can be found in the LICENSE file or at
-  https://opensource.org/licenses/MIT.
-*/
-
-/**
- * A class that wraps common IndexedDB functionality in a promise-based API.
- * It exposes all the underlying power and functionality of IndexedDB, but
- * wraps the most commonly used features in a way that's much simpler to use.
- *
- * @private
- */
-class DBWrapper {
-    /**
-     * @param {string} name
-     * @param {number} version
-     * @param {Object=} [callback]
-     * @param {!Function} [callbacks.onupgradeneeded]
-     * @param {!Function} [callbacks.onversionchange] Defaults to
-     *     DBWrapper.prototype._onversionchange when not specified.
-     * @private
-     */
-    constructor(name, version, { onupgradeneeded, onversionchange, } = {}) {
-        this._db = null;
-        this._name = name;
-        this._version = version;
-        this._onupgradeneeded = onupgradeneeded;
-        this._onversionchange = onversionchange || (() => this.close());
-    }
-    /**
-     * Returns the IDBDatabase instance (not normally needed).
-     * @return {IDBDatabase|undefined}
-     *
-     * @private
-     */
-    get db() {
-        return this._db;
-    }
-    /**
-     * Opens a connected to an IDBDatabase, invokes any onupgradedneeded
-     * callback, and added an onversionchange callback to the database.
-     *
-     * @return {IDBDatabase}
-     * @private
-     */
-    async open() {
-        if (this._db)
-            return;
-        this._db = await new Promise((resolve, reject) => {
-            // This flag is flipped to true if the timeout callback runs prior
-            // to the request failing or succeeding. Note: we use a timeout instead
-            // of an onblocked handler since there are cases where onblocked will
-            // never never run. A timeout better handles all possible scenarios:
-            // https://github.com/w3c/IndexedDB/issues/223
-            let openRequestTimedOut = false;
-            setTimeout(() => {
-                openRequestTimedOut = true;
-                reject(new Error('The open request was blocked and timed out'));
-            }, this.OPEN_TIMEOUT);
-            const openRequest = indexedDB.open(this._name, this._version);
-            openRequest.onerror = () => reject(openRequest.error);
-            openRequest.onupgradeneeded = (evt) => {
-                if (openRequestTimedOut) {
-                    openRequest.transaction.abort();
-                    openRequest.result.close();
-                }
-                else if (typeof this._onupgradeneeded === 'function') {
-                    this._onupgradeneeded(evt);
-                }
-            };
-            openRequest.onsuccess = () => {
-                const db = openRequest.result;
-                if (openRequestTimedOut) {
-                    db.close();
-                }
-                else {
-                    db.onversionchange = this._onversionchange.bind(this);
-                    resolve(db);
-                }
-            };
-        });
-        return this;
-    }
-    /**
-     * Polyfills the native `getKey()` method. Note, this is overridden at
-     * runtime if the browser supports the native method.
-     *
-     * @param {string} storeName
-     * @param {*} query
-     * @return {Array}
-     * @private
-     */
-    async getKey(storeName, query) {
-        return (await this.getAllKeys(storeName, query, 1))[0];
-    }
-    /**
-     * Polyfills the native `getAll()` method. Note, this is overridden at
-     * runtime if the browser supports the native method.
-     *
-     * @param {string} storeName
-     * @param {*} query
-     * @param {number} count
-     * @return {Array}
-     * @private
-     */
-    async getAll(storeName, query, count) {
-        return await this.getAllMatching(storeName, { query, count });
-    }
-    /**
-     * Polyfills the native `getAllKeys()` method. Note, this is overridden at
-     * runtime if the browser supports the native method.
-     *
-     * @param {string} storeName
-     * @param {*} query
-     * @param {number} count
-     * @return {Array}
-     * @private
-     */
-    async getAllKeys(storeName, query, count) {
-        const entries = await this.getAllMatching(storeName, { query, count, includeKeys: true });
-        return entries.map((entry) => entry.key);
-    }
-    /**
-     * Supports flexible lookup in an object store by specifying an index,
-     * query, direction, and count. This method returns an array of objects
-     * with the signature .
-     *
-     * @param {string} storeName
-     * @param {Object} [opts]
-     * @param {string} [opts.index] The index to use (if specified).
-     * @param {*} [opts.query]
-     * @param {IDBCursorDirection} [opts.direction]
-     * @param {number} [opts.count] The max number of results to return.
-     * @param {boolean} [opts.includeKeys] When true, the structure of the
-     *     returned objects is changed from an array of values to an array of
-     *     objects in the form {key, primaryKey, value}.
-     * @return {Array}
-     * @private
-     */
-    async getAllMatching(storeName, { index, query = null, // IE/Edge errors if query === `undefined`.
-    direction = 'next', count, includeKeys = false, } = {}) {
-        return await this.transaction([storeName], 'readonly', (txn, done) => {
-            const store = txn.objectStore(storeName);
-            const target = index ? store.index(index) : store;
-            const results = [];
-            const request = target.openCursor(query, direction);
-            request.onsuccess = () => {
-                const cursor = request.result;
-                if (cursor) {
-                    results.push(includeKeys ? cursor : cursor.value);
-                    if (count && results.length >= count) {
-                        done(results);
-                    }
-                    else {
-                        cursor.continue();
-                    }
-                }
-                else {
-                    done(results);
-                }
-            };
-        });
-    }
-    /**
-     * Accepts a list of stores, a transaction type, and a callback and
-     * performs a transaction. A promise is returned that resolves to whatever
-     * value the callback chooses. The callback holds all the transaction logic
-     * and is invoked with two arguments:
-     *   1. The IDBTransaction object
-     *   2. A `done` function, that's used to resolve the promise when
-     *      when the transaction is done, if passed a value, the promise is
-     *      resolved to that value.
-     *
-     * @param {Array<string>} storeNames An array of object store names
-     *     involved in the transaction.
-     * @param {string} type Can be `readonly` or `readwrite`.
-     * @param {!Function} callback
-     * @return {*} The result of the transaction ran by the callback.
-     * @private
-     */
-    async transaction(storeNames, type, callback) {
-        await this.open();
-        return await new Promise((resolve, reject) => {
-            const txn = this._db.transaction(storeNames, type);
-            txn.onabort = () => reject(txn.error);
-            txn.oncomplete = () => resolve();
-            callback(txn, (value) => resolve(value));
-        });
-    }
-    /**
-     * Delegates async to a native IDBObjectStore method.
-     *
-     * @param {string} method The method name.
-     * @param {string} storeName The object store name.
-     * @param {string} type Can be `readonly` or `readwrite`.
-     * @param {...*} args The list of args to pass to the native method.
-     * @return {*} The result of the transaction.
-     * @private
-     */
-    async _call(method, storeName, type, ...args) {
-        const callback = (txn, done) => {
-            const objStore = txn.objectStore(storeName);
-            // TODO(philipwalton): Fix this underlying TS2684 error.
-            // @ts-ignore
-            const request = objStore[method].apply(objStore, args);
-            request.onsuccess = () => done(request.result);
-        };
-        return await this.transaction([storeName], type, callback);
-    }
-    /**
-     * Closes the connection opened by `DBWrapper.open()`. Generally this method
-     * doesn't need to be called since:
-     *   1. It's usually better to keep a connection open since opening
-     *      a new connection is somewhat slow.
-     *   2. Connections are automatically closed when the reference is
-     *      garbage collected.
-     * The primary use case for needing to close a connection is when another
-     * reference (typically in another tab) needs to upgrade it and would be
-     * blocked by the current, open connection.
-     *
-     * @private
-     */
-    close() {
-        if (this._db) {
-            this._db.close();
-            this._db = null;
-        }
-    }
-}
-// Exposed on the prototype to let users modify the default timeout on a
-// per-instance or global basis.
-DBWrapper.prototype.OPEN_TIMEOUT = 2000;
-// Wrap native IDBObjectStore methods according to their mode.
-const methodsToWrap = {
-    readonly: ['get', 'count', 'getKey', 'getAll', 'getAllKeys'],
-    readwrite: ['add', 'put', 'clear', 'delete'],
-};
-for (const [mode, methods] of Object.entries(methodsToWrap)) {
-    for (const method of methods) {
-        if (method in IDBObjectStore.prototype) {
-            // Don't use arrow functions here since we're outside of the class.
-            DBWrapper.prototype[method] =
-                async function (storeName, ...args) {
-                    return await this._call(method, storeName, mode, ...args);
-                };
-        }
-    }
+    void promise.then(() => { });
 }
 
 ;// CONCATENATED MODULE: ./node_modules/workbox-core/_private/Deferred.js
@@ -1001,39 +760,6 @@ class Deferred {
     }
 }
 
-
-;// CONCATENATED MODULE: ./node_modules/workbox-core/_private/deleteDatabase.js
-/*
-  Copyright 2018 Google LLC
-
-  Use of this source code is governed by an MIT-style
-  license that can be found in the LICENSE file or at
-  https://opensource.org/licenses/MIT.
-*/
-
-/**
- * Deletes the database.
- * Note: this is exported separately from the DBWrapper module because most
- * usages of IndexedDB in workbox dont need deleting, and this way it can be
- * reused in tests to delete databases without creating DBWrapper instances.
- *
- * @param {string} name The database name.
- * @private
- */
-const deleteDatabase = async (name) => {
-    await new Promise((resolve, reject) => {
-        const request = indexedDB.deleteDatabase(name);
-        request.onerror = () => {
-            reject(request.error);
-        };
-        request.onblocked = () => {
-            reject(new Error('Delete blocked'));
-        };
-        request.onsuccess = () => {
-            resolve();
-        };
-    });
-};
 
 ;// CONCATENATED MODULE: ./node_modules/workbox-core/_private/executeQuotaErrorCallbacks.js
 /*
@@ -1183,8 +909,6 @@ function waitUntil_waitUntil(event, asyncFn) {
   https://opensource.org/licenses/MIT.
 */
 // We either expose defaults or we expose every named export.
-
-
 
 
 
@@ -1380,7 +1104,7 @@ function skipWaiting() {
     // Just call self.skipWaiting() directly.
     // See https://github.com/GoogleChrome/workbox/issues/2525
     if (false) {}
-    self.skipWaiting();
+    void self.skipWaiting();
 }
 
 
@@ -1776,13 +1500,16 @@ class PrecacheInstallReportPlugin_PrecacheInstallReportPlugin {
         };
         this.cachedResponseWillBeUsed = async ({ event, state, cachedResponse, }) => {
             if (event.type === 'install') {
-                // TODO: `state` should never be undefined...
-                const url = state.originalRequest.url;
-                if (cachedResponse) {
-                    this.notUpdatedURLs.push(url);
-                }
-                else {
-                    this.updatedURLs.push(url);
+                if (state && state.originalRequest
+                    && state.originalRequest instanceof Request) {
+                    // TODO: `state` should never be undefined...
+                    const url = state.originalRequest.url;
+                    if (cachedResponse) {
+                        this.notUpdatedURLs.push(url);
+                    }
+                    else {
+                        this.updatedURLs.push(url);
+                    }
                 }
             }
             return cachedResponse;
@@ -1809,6 +1536,8 @@ class PrecacheInstallReportPlugin_PrecacheInstallReportPlugin {
 class PrecacheCacheKeyPlugin_PrecacheCacheKeyPlugin {
     constructor({ precacheController }) {
         this.cacheKeyWillBeUsed = async ({ request, params, }) => {
+            // Params is type any, can't change right now.
+            // eslint-disable-next-line
             const cacheKey = params && params.cacheKey ||
                 this._precacheController.getCacheKeyForURL(request.url);
             return cacheKey ? new Request(cacheKey) : request;
@@ -2046,9 +1775,9 @@ class StrategyHandler {
             }
         }
         catch (err) {
-            throw new WorkboxError_WorkboxError('plugin-error-request-will-fetch', {
-                thrownError: err,
-            });
+            if (err instanceof Error) {
+                throw new WorkboxError_WorkboxError('plugin-error-request-will-fetch', { thrownErrorMessage: err.message });
+            }
         }
         // The request can be altered by plugins with `requestWillFetch` making
         // the original request (most likely from a `fetch` event) different
@@ -2075,7 +1804,7 @@ class StrategyHandler {
             // is being used (see above).
             if (originalRequest) {
                 await this.runCallbacks('fetchDidFail', {
-                    error,
+                    error: error,
                     event,
                     originalRequest: originalRequest.clone(),
                     request: pluginFilteredRequest.clone(),
@@ -2097,7 +1826,7 @@ class StrategyHandler {
     async fetchAndCachePut(input) {
         const response = await this.fetch(input);
         const responseClone = response.clone();
-        this.waitUntil(this.cachePut(input, responseClone));
+        void this.waitUntil(this.cachePut(input, responseClone));
         return response;
     }
     /**
@@ -2117,7 +1846,7 @@ class StrategyHandler {
         let cachedResponse;
         const { cacheName, matchOptions } = this._strategy;
         const effectiveRequest = await this.getCacheKey(request, 'read');
-        const multiMatchOptions = { ...matchOptions, ...{ cacheName } };
+        const multiMatchOptions = Object.assign(Object.assign({}, matchOptions), { cacheName });
         cachedResponse = await caches.match(effectiveRequest, multiMatchOptions);
         if (false) {}
         for (const callback of this.iterateCallbacks('cachedResponseWillBeUsed')) {
@@ -2179,11 +1908,13 @@ class StrategyHandler {
                 responseToCache.clone() : responseToCache);
         }
         catch (error) {
-            // See https://developer.mozilla.org/en-US/docs/Web/API/DOMException#exception-QuotaExceededError
-            if (error.name === 'QuotaExceededError') {
-                await executeQuotaErrorCallbacks();
+            if (error instanceof Error) {
+                // See https://developer.mozilla.org/en-US/docs/Web/API/DOMException#exception-QuotaExceededError
+                if (error.name === 'QuotaExceededError') {
+                    await executeQuotaErrorCallbacks();
+                }
+                throw error;
             }
-            throw error;
         }
         for (const callback of this.iterateCallbacks('cacheDidUpdate')) {
             await callback({
@@ -2215,6 +1946,7 @@ class StrategyHandler {
                     mode,
                     request: effectiveRequest,
                     event: this.event,
+                    // params has a type any can't change right now.
                     params: this.params,
                 }));
             }
@@ -2274,7 +2006,7 @@ class StrategyHandler {
             if (typeof plugin[name] === 'function') {
                 const state = this._pluginStateMap.get(plugin);
                 const statefulCallback = (param) => {
-                    const statefulParam = { ...param, state };
+                    const statefulParam = Object.assign(Object.assign({}, param), { state });
                     // TODO(philipwalton): not sure why `any` is needed. It seems like
                     // this should work with `as WorkboxPluginCallbackParam[C]`.
                     return plugin[name](statefulParam);
@@ -2321,7 +2053,7 @@ class StrategyHandler {
      * `waitUntil()` promises.
      */
     destroy() {
-        this._handlerDeferred.resolve();
+        this._handlerDeferred.resolve(null);
     }
     /**
      * This method will call cacheWillUpdate on the available plugins (or use
@@ -2511,10 +2243,12 @@ class Strategy_Strategy {
             }
         }
         catch (error) {
-            for (const callback of handler.iterateCallbacks('handlerDidError')) {
-                response = await callback({ error, event, request });
-                if (response) {
-                    break;
+            if (error instanceof Error) {
+                for (const callback of handler.iterateCallbacks('handlerDidError')) {
+                    response = await callback({ error, event, request });
+                    if (response) {
+                        break;
+                    }
                 }
             }
             if (!response) {
@@ -2547,13 +2281,15 @@ class Strategy_Strategy {
             await handler.doneWaiting();
         }
         catch (waitUntilError) {
-            error = waitUntilError;
+            if (waitUntilError instanceof Error) {
+                error = waitUntilError;
+            }
         }
         await handler.runCallbacks('handlerDidComplete', {
             event,
             request,
             response,
-            error,
+            error: error,
         });
         handler.destroy();
         if (error) {
@@ -2898,6 +2634,8 @@ class PrecacheController_PrecacheController {
      * @return {Promise<module:workbox-precaching.InstallResult>}
      */
     install(event) {
+        // waitUntil returns Promise<any>
+        // eslint-disable-next-line @typescript-eslint/no-unsafe-return
         return waitUntil(event, async () => {
             const installReportPlugin = new PrecacheInstallReportPlugin();
             this.strategy.plugins.push(installReportPlugin);
@@ -2933,6 +2671,8 @@ class PrecacheController_PrecacheController {
      * @return {Promise<module:workbox-precaching.CleanupResult>}
      */
     activate(event) {
+        // waitUntil returns Promise<any>
+        // eslint-disable-next-line @typescript-eslint/no-unsafe-return
         return waitUntil(event, async () => {
             const cache = await self.caches.open(this.strategy.cacheName);
             const currentlyCachedRequests = await cache.keys();
@@ -3021,7 +2761,7 @@ class PrecacheController_PrecacheController {
         }
         return (options) => {
             options.request = new Request(url);
-            options.params = { cacheKey, ...options.params };
+            options.params = Object.assign({ cacheKey }, options.params);
             return this.strategy.handle(options);
         };
     }
@@ -3342,8 +3082,9 @@ class Router {
     addCacheListener() {
         // See https://github.com/Microsoft/TypeScript/issues/28357#issuecomment-436484705
         self.addEventListener('message', ((event) => {
-            if (event.data && event.data.type === 'CACHE_URLS') {
-                const { payload } = event.data;
+            // event.data is type 'any'
+            if (event.data && event.data.type === 'CACHE_URLS') { // eslint-disable-line
+                const { payload } = event.data; // eslint-disable-line
                 if (false) {}
                 const requestPromises = Promise.all(payload.urlsToCache.map((entry) => {
                     if (typeof entry === 'string') {
@@ -3358,7 +3099,7 @@ class Router {
                 event.waitUntil(requestPromises);
                 // If a MessageChannel was used, reply to the message on success.
                 if (event.ports && event.ports[0]) {
-                    requestPromises.then(() => event.ports[0].postMessage(true));
+                    void requestPromises.then(() => event.ports[0].postMessage(true));
                 }
             }
         }));
@@ -3424,7 +3165,9 @@ class Router {
                         return await catchHandler.handle({ url, request, event, params });
                     }
                     catch (catchErr) {
-                        err = catchErr;
+                        if (catchErr instanceof Error) {
+                            err = catchErr;
+                        }
                     }
                 }
                 if (this._catchHandler) {
@@ -3455,16 +3198,19 @@ class Router {
         const routes = this._routes.get(request.method) || [];
         for (const route of routes) {
             let params;
+            // route.match returns type any, not possible to change right now.
+            // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
             const matchResult = route.match({ url, sameOrigin, request, event });
             if (matchResult) {
                 if (false) {}
                 // See https://github.com/GoogleChrome/workbox/issues/2079
+                // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
                 params = matchResult;
-                if (Array.isArray(matchResult) && matchResult.length === 0) {
+                if (Array.isArray(params) && params.length === 0) {
                     // Instead of passing an empty array in as params, use undefined.
                     params = undefined;
                 }
-                else if ((matchResult.constructor === Object &&
+                else if ((matchResult.constructor === Object && // eslint-disable-line
                     Object.keys(matchResult).length === 0)) {
                     // Instead of passing an empty object in as params, use undefined.
                     params = undefined;
@@ -4349,14 +4095,16 @@ class CacheFirst extends Strategy_Strategy {
         const logs = [];
         if (false) {}
         let response = await handler.cacheMatch(request);
-        let error;
+        let error = undefined;
         if (!response) {
             if (false) {}
             try {
                 response = await handler.fetchAndCachePut(request);
             }
             catch (err) {
-                error = err;
+                if (err instanceof Error) {
+                    error = err;
+                }
             }
             if (false) {}
         }
@@ -4583,7 +4331,9 @@ class NetworkFirst extends Strategy_Strategy {
             response = await handler.fetchAndCachePut(request);
         }
         catch (fetchError) {
-            error = fetchError;
+            if (fetchError instanceof Error) {
+                error = fetchError;
+            }
         }
         if (timeoutId) {
             clearTimeout(timeoutId);
@@ -4666,7 +4416,9 @@ class NetworkOnly extends Strategy_Strategy {
             }
         }
         catch (err) {
-            error = err;
+            if (err instanceof Error) {
+                error = err;
+            }
         }
         if (false) {}
         if (!response) {
@@ -4727,7 +4479,7 @@ class StaleWhileRevalidate extends Strategy_Strategy {
      * `fetch()` requests made by this strategy.
      * @param {Object} [options.matchOptions] [`CacheQueryOptions`](https://w3c.github.io/ServiceWorker/#dictdef-cachequeryoptions)
      */
-    constructor(options) {
+    constructor(options = {}) {
         super(options);
         // If this instance contains no plugins with a 'cacheWillUpdate' callback,
         // prepend the `cacheOkAndOpaquePlugin` plugin to the plugins list.
@@ -4764,7 +4516,9 @@ class StaleWhileRevalidate extends Strategy_Strategy {
                 response = await fetchAndCachePromise;
             }
             catch (err) {
-                error = err;
+                if (err instanceof Error) {
+                    error = err;
+                }
             }
         }
         if (false) {}
@@ -5095,7 +4849,7 @@ async function createPartialResponse(request, originalResponse) {
         });
         slicedResponse.headers.set('Content-Length', String(slicedBlobSize));
         slicedResponse.headers.set('Content-Range', `bytes ${effectiveBoundaries.start}-${effectiveBoundaries.end - 1}/` +
-            originalBlob.size);
+            `${originalBlob.size}`);
         return slicedResponse;
     }
     catch (error) {
@@ -5193,6 +4947,283 @@ registerRoute_registerRoute(_ref => {
     statuses: [200]
   }), new RangeRequestsPlugin()]
 }));
+;// CONCATENATED MODULE: ./node_modules/idb/build/esm/wrap-idb-value.js
+const instanceOfAny = (object, constructors) => constructors.some((c) => object instanceof c);
+
+let idbProxyableTypes;
+let cursorAdvanceMethods;
+// This is a function to prevent it throwing up in node environments.
+function getIdbProxyableTypes() {
+    return (idbProxyableTypes ||
+        (idbProxyableTypes = [
+            IDBDatabase,
+            IDBObjectStore,
+            IDBIndex,
+            IDBCursor,
+            IDBTransaction,
+        ]));
+}
+// This is a function to prevent it throwing up in node environments.
+function getCursorAdvanceMethods() {
+    return (cursorAdvanceMethods ||
+        (cursorAdvanceMethods = [
+            IDBCursor.prototype.advance,
+            IDBCursor.prototype.continue,
+            IDBCursor.prototype.continuePrimaryKey,
+        ]));
+}
+const cursorRequestMap = new WeakMap();
+const transactionDoneMap = new WeakMap();
+const transactionStoreNamesMap = new WeakMap();
+const transformCache = new WeakMap();
+const reverseTransformCache = new WeakMap();
+function promisifyRequest(request) {
+    const promise = new Promise((resolve, reject) => {
+        const unlisten = () => {
+            request.removeEventListener('success', success);
+            request.removeEventListener('error', error);
+        };
+        const success = () => {
+            resolve(wrap(request.result));
+            unlisten();
+        };
+        const error = () => {
+            reject(request.error);
+            unlisten();
+        };
+        request.addEventListener('success', success);
+        request.addEventListener('error', error);
+    });
+    promise
+        .then((value) => {
+        // Since cursoring reuses the IDBRequest (*sigh*), we cache it for later retrieval
+        // (see wrapFunction).
+        if (value instanceof IDBCursor) {
+            cursorRequestMap.set(value, request);
+        }
+        // Catching to avoid "Uncaught Promise exceptions"
+    })
+        .catch(() => { });
+    // This mapping exists in reverseTransformCache but doesn't doesn't exist in transformCache. This
+    // is because we create many promises from a single IDBRequest.
+    reverseTransformCache.set(promise, request);
+    return promise;
+}
+function cacheDonePromiseForTransaction(tx) {
+    // Early bail if we've already created a done promise for this transaction.
+    if (transactionDoneMap.has(tx))
+        return;
+    const done = new Promise((resolve, reject) => {
+        const unlisten = () => {
+            tx.removeEventListener('complete', complete);
+            tx.removeEventListener('error', error);
+            tx.removeEventListener('abort', error);
+        };
+        const complete = () => {
+            resolve();
+            unlisten();
+        };
+        const error = () => {
+            reject(tx.error || new DOMException('AbortError', 'AbortError'));
+            unlisten();
+        };
+        tx.addEventListener('complete', complete);
+        tx.addEventListener('error', error);
+        tx.addEventListener('abort', error);
+    });
+    // Cache it for later retrieval.
+    transactionDoneMap.set(tx, done);
+}
+let idbProxyTraps = {
+    get(target, prop, receiver) {
+        if (target instanceof IDBTransaction) {
+            // Special handling for transaction.done.
+            if (prop === 'done')
+                return transactionDoneMap.get(target);
+            // Polyfill for objectStoreNames because of Edge.
+            if (prop === 'objectStoreNames') {
+                return target.objectStoreNames || transactionStoreNamesMap.get(target);
+            }
+            // Make tx.store return the only store in the transaction, or undefined if there are many.
+            if (prop === 'store') {
+                return receiver.objectStoreNames[1]
+                    ? undefined
+                    : receiver.objectStore(receiver.objectStoreNames[0]);
+            }
+        }
+        // Else transform whatever we get back.
+        return wrap(target[prop]);
+    },
+    set(target, prop, value) {
+        target[prop] = value;
+        return true;
+    },
+    has(target, prop) {
+        if (target instanceof IDBTransaction &&
+            (prop === 'done' || prop === 'store')) {
+            return true;
+        }
+        return prop in target;
+    },
+};
+function replaceTraps(callback) {
+    idbProxyTraps = callback(idbProxyTraps);
+}
+function wrapFunction(func) {
+    // Due to expected object equality (which is enforced by the caching in `wrap`), we
+    // only create one new func per func.
+    // Edge doesn't support objectStoreNames (booo), so we polyfill it here.
+    if (func === IDBDatabase.prototype.transaction &&
+        !('objectStoreNames' in IDBTransaction.prototype)) {
+        return function (storeNames, ...args) {
+            const tx = func.call(unwrap(this), storeNames, ...args);
+            transactionStoreNamesMap.set(tx, storeNames.sort ? storeNames.sort() : [storeNames]);
+            return wrap(tx);
+        };
+    }
+    // Cursor methods are special, as the behaviour is a little more different to standard IDB. In
+    // IDB, you advance the cursor and wait for a new 'success' on the IDBRequest that gave you the
+    // cursor. It's kinda like a promise that can resolve with many values. That doesn't make sense
+    // with real promises, so each advance methods returns a new promise for the cursor object, or
+    // undefined if the end of the cursor has been reached.
+    if (getCursorAdvanceMethods().includes(func)) {
+        return function (...args) {
+            // Calling the original function with the proxy as 'this' causes ILLEGAL INVOCATION, so we use
+            // the original object.
+            func.apply(unwrap(this), args);
+            return wrap(cursorRequestMap.get(this));
+        };
+    }
+    return function (...args) {
+        // Calling the original function with the proxy as 'this' causes ILLEGAL INVOCATION, so we use
+        // the original object.
+        return wrap(func.apply(unwrap(this), args));
+    };
+}
+function transformCachableValue(value) {
+    if (typeof value === 'function')
+        return wrapFunction(value);
+    // This doesn't return, it just creates a 'done' promise for the transaction,
+    // which is later returned for transaction.done (see idbObjectHandler).
+    if (value instanceof IDBTransaction)
+        cacheDonePromiseForTransaction(value);
+    if (instanceOfAny(value, getIdbProxyableTypes()))
+        return new Proxy(value, idbProxyTraps);
+    // Return the same value back if we're not going to transform it.
+    return value;
+}
+function wrap(value) {
+    // We sometimes generate multiple promises from a single IDBRequest (eg when cursoring), because
+    // IDB is weird and a single IDBRequest can yield many responses, so these can't be cached.
+    if (value instanceof IDBRequest)
+        return promisifyRequest(value);
+    // If we've already transformed this value before, reuse the transformed value.
+    // This is faster, but it also provides object equality.
+    if (transformCache.has(value))
+        return transformCache.get(value);
+    const newValue = transformCachableValue(value);
+    // Not all types are transformed.
+    // These may be primitive types, so they can't be WeakMap keys.
+    if (newValue !== value) {
+        transformCache.set(value, newValue);
+        reverseTransformCache.set(newValue, value);
+    }
+    return newValue;
+}
+const unwrap = (value) => reverseTransformCache.get(value);
+
+
+
+;// CONCATENATED MODULE: ./node_modules/idb/build/esm/index.js
+
+
+
+/**
+ * Open a database.
+ *
+ * @param name Name of the database.
+ * @param version Schema version.
+ * @param callbacks Additional callbacks.
+ */
+function openDB(name, version, { blocked, upgrade, blocking, terminated } = {}) {
+    const request = indexedDB.open(name, version);
+    const openPromise = wrap(request);
+    if (upgrade) {
+        request.addEventListener('upgradeneeded', (event) => {
+            upgrade(wrap(request.result), event.oldVersion, event.newVersion, wrap(request.transaction));
+        });
+    }
+    if (blocked)
+        request.addEventListener('blocked', () => blocked());
+    openPromise
+        .then((db) => {
+        if (terminated)
+            db.addEventListener('close', () => terminated());
+        if (blocking)
+            db.addEventListener('versionchange', () => blocking());
+    })
+        .catch(() => { });
+    return openPromise;
+}
+/**
+ * Delete a database.
+ *
+ * @param name Name of the database.
+ */
+function deleteDB(name, { blocked } = {}) {
+    const request = indexedDB.deleteDatabase(name);
+    if (blocked)
+        request.addEventListener('blocked', () => blocked());
+    return wrap(request).then(() => undefined);
+}
+
+const readMethods = ['get', 'getKey', 'getAll', 'getAllKeys', 'count'];
+const writeMethods = ['put', 'add', 'delete', 'clear'];
+const cachedMethods = new Map();
+function getMethod(target, prop) {
+    if (!(target instanceof IDBDatabase &&
+        !(prop in target) &&
+        typeof prop === 'string')) {
+        return;
+    }
+    if (cachedMethods.get(prop))
+        return cachedMethods.get(prop);
+    const targetFuncName = prop.replace(/FromIndex$/, '');
+    const useIndex = prop !== targetFuncName;
+    const isWrite = writeMethods.includes(targetFuncName);
+    if (
+    // Bail if the target doesn't exist on the target. Eg, getAll isn't in Edge.
+    !(targetFuncName in (useIndex ? IDBIndex : IDBObjectStore).prototype) ||
+        !(isWrite || readMethods.includes(targetFuncName))) {
+        return;
+    }
+    const method = async function (storeName, ...args) {
+        // isWrite ? 'readwrite' : undefined gzipps better, but fails in Edge :(
+        const tx = this.transaction(storeName, isWrite ? 'readwrite' : 'readonly');
+        let target = tx.store;
+        if (useIndex)
+            target = target.index(args.shift());
+        // Must reject if op rejects.
+        // If it's a write operation, must reject if tx.done rejects.
+        // Must reject with op rejection first.
+        // Must resolve with op value.
+        // Must handle both promises (no unhandled rejections)
+        return (await Promise.all([
+            target[targetFuncName](...args),
+            isWrite && tx.done,
+        ]))[0];
+    };
+    cachedMethods.set(prop, method);
+    return method;
+}
+replaceTraps((oldTraps) => ({
+    ...oldTraps,
+    get: (target, prop, receiver) => getMethod(target, prop) || oldTraps.get(target, prop, receiver),
+    has: (target, prop) => !!getMethod(target, prop) || oldTraps.has(target, prop),
+}));
+
+
+
 // EXTERNAL MODULE: ./node_modules/workbox-expiration/_version.js
 var workbox_expiration_version = __webpack_require__(550);
 ;// CONCATENATED MODULE: ./node_modules/workbox-expiration/models/CacheTimestampsModel.js
@@ -5205,9 +5236,8 @@ var workbox_expiration_version = __webpack_require__(550);
 */
 
 
-
 const DB_NAME = 'workbox-expiration';
-const OBJECT_STORE_NAME = 'cache-entries';
+const CACHE_OBJECT_STORE = 'cache-entries';
 const normalizeURL = (unNormalizedUrl) => {
     const url = new URL(unNormalizedUrl, location.href);
     url.hash = '';
@@ -5226,33 +5256,40 @@ class CacheTimestampsModel {
      * @private
      */
     constructor(cacheName) {
+        this._db = null;
         this._cacheName = cacheName;
-        this._db = new DBWrapper(DB_NAME, 1, {
-            onupgradeneeded: (event) => this._handleUpgrade(event),
-        });
     }
     /**
-     * Should perform an upgrade of indexedDB.
+     * Performs an upgrade of indexedDB.
      *
-     * @param {Event} event
+     * @param {IDBPDatabase<CacheDbSchema>} db
      *
      * @private
      */
-    _handleUpgrade(event) {
-        const db = event.target.result;
+    _upgradeDb(db) {
         // TODO(philipwalton): EdgeHTML doesn't support arrays as a keyPath, so we
         // have to use the `id` keyPath here and create our own values (a
         // concatenation of `url + cacheName`) instead of simply using
         // `keyPath: ['url', 'cacheName']`, which is supported in other browsers.
-        const objStore = db.createObjectStore(OBJECT_STORE_NAME, { keyPath: 'id' });
+        const objStore = db.createObjectStore(CACHE_OBJECT_STORE, { keyPath: 'id' });
         // TODO(philipwalton): once we don't have to support EdgeHTML, we can
         // create a single index with the keyPath `['cacheName', 'timestamp']`
         // instead of doing both these indexes.
         objStore.createIndex('cacheName', 'cacheName', { unique: false });
         objStore.createIndex('timestamp', 'timestamp', { unique: false });
-        // Previous versions of `workbox-expiration` used `this._cacheName`
-        // as the IDBDatabase name.
-        deleteDatabase(this._cacheName);
+    }
+    /**
+     * Performs an upgrade of indexedDB and deletes deprecated DBs.
+     *
+     * @param {IDBPDatabase<CacheDbSchema>} db
+     *
+     * @private
+     */
+    _upgradeDbAndDeleteOldDbs(db) {
+        this._upgradeDb(db);
+        if (this._cacheName) {
+            void deleteDB(this._cacheName);
+        }
     }
     /**
      * @param {string} url
@@ -5271,19 +5308,21 @@ class CacheTimestampsModel {
             // array keyPaths.
             id: this._getId(url),
         };
-        await this._db.put(OBJECT_STORE_NAME, entry);
+        const db = await this.getDb();
+        await db.put(CACHE_OBJECT_STORE, entry);
     }
     /**
      * Returns the timestamp stored for a given URL.
      *
      * @param {string} url
-     * @return {number}
+     * @return {number | undefined}
      *
      * @private
      */
     async getTimestamp(url) {
-        const entry = await this._db.get(OBJECT_STORE_NAME, this._getId(url));
-        return entry.timestamp;
+        const db = await this.getDb();
+        const entry = await db.get(CACHE_OBJECT_STORE, this._getId(url));
+        return entry === null || entry === void 0 ? void 0 : entry.timestamp;
     }
     /**
      * Iterates through all the entries in the object store (from newest to
@@ -5297,50 +5336,42 @@ class CacheTimestampsModel {
      * @private
      */
     async expireEntries(minTimestamp, maxCount) {
-        const entriesToDelete = await this._db.transaction(OBJECT_STORE_NAME, 'readwrite', (txn, done) => {
-            const store = txn.objectStore(OBJECT_STORE_NAME);
-            const request = store.index('timestamp').openCursor(null, 'prev');
-            const entriesToDelete = [];
-            let entriesNotDeletedCount = 0;
-            request.onsuccess = () => {
-                const cursor = request.result;
-                if (cursor) {
-                    const result = cursor.value;
-                    // TODO(philipwalton): once we can use a multi-key index, we
-                    // won't have to check `cacheName` here.
-                    if (result.cacheName === this._cacheName) {
-                        // Delete an entry if it's older than the max age or
-                        // if we already have the max number allowed.
-                        if ((minTimestamp && result.timestamp < minTimestamp) ||
-                            (maxCount && entriesNotDeletedCount >= maxCount)) {
-                            // TODO(philipwalton): we should be able to delete the
-                            // entry right here, but doing so causes an iteration
-                            // bug in Safari stable (fixed in TP). Instead we can
-                            // store the keys of the entries to delete, and then
-                            // delete the separate transactions.
-                            // https://github.com/GoogleChrome/workbox/issues/1978
-                            // cursor.delete();
-                            // We only need to return the URL, not the whole entry.
-                            entriesToDelete.push(cursor.value);
-                        }
-                        else {
-                            entriesNotDeletedCount++;
-                        }
-                    }
-                    cursor.continue();
+        const db = await this.getDb();
+        let cursor = await db.transaction(CACHE_OBJECT_STORE).store.index('timestamp').openCursor(null, 'prev');
+        const entriesToDelete = [];
+        let entriesNotDeletedCount = 0;
+        while (cursor) {
+            const result = cursor.value;
+            // TODO(philipwalton): once we can use a multi-key index, we
+            // won't have to check `cacheName` here.
+            if (result.cacheName === this._cacheName) {
+                // Delete an entry if it's older than the max age or
+                // if we already have the max number allowed.
+                if ((minTimestamp && result.timestamp < minTimestamp) ||
+                    (maxCount && entriesNotDeletedCount >= maxCount)) {
+                    // TODO(philipwalton): we should be able to delete the
+                    // entry right here, but doing so causes an iteration
+                    // bug in Safari stable (fixed in TP). Instead we can
+                    // store the keys of the entries to delete, and then
+                    // delete the separate transactions.
+                    // https://github.com/GoogleChrome/workbox/issues/1978
+                    // cursor.delete();
+                    // We only need to return the URL, not the whole entry.
+                    entriesToDelete.push(cursor.value);
                 }
                 else {
-                    done(entriesToDelete);
+                    entriesNotDeletedCount++;
                 }
-            };
-        });
+            }
+            cursor = await cursor.continue();
+        }
         // TODO(philipwalton): once the Safari bug in the following issue is fixed,
         // we should be able to remove this loop and do the entry deletion in the
         // cursor loop above:
         // https://github.com/GoogleChrome/workbox/issues/1978
         const urlsDeleted = [];
         for (const entry of entriesToDelete) {
-            await this._db.delete(OBJECT_STORE_NAME, entry.id);
+            await db.delete(CACHE_OBJECT_STORE, entry.id);
             urlsDeleted.push(entry.url);
         }
         return urlsDeleted;
@@ -5358,6 +5389,19 @@ class CacheTimestampsModel {
         // Edge switches to Chromium and all browsers we support work with
         // array keyPaths.
         return this._cacheName + '|' + normalizeURL(url);
+    }
+    /**
+      * Returns an open connection to the database.
+      *
+      * @private
+      */
+    async getDb() {
+        if (!this._db) {
+            this._db = await openDB(DB_NAME, 1, {
+                upgrade: this._upgradeDbAndDeleteOldDbs.bind(this),
+            });
+        }
+        return this._db;
     }
 }
 
@@ -5461,7 +5505,7 @@ class CacheExpiration {
         else {
             const timestamp = await this._timestampModel.getTimestamp(url);
             const expireOlderThan = Date.now() - (this._maxAgeSeconds * 1000);
-            return (timestamp < expireOlderThan);
+            return timestamp !== undefined ? (timestamp < expireOlderThan) : true;
         }
     }
     /**
@@ -5519,7 +5563,7 @@ class CacheExpiration {
  */
 class ExpirationPlugin {
     /**
-     * @param {Object} config
+     * @param {ExpirationPluginOptions} config
      * @param {number} [config.maxEntries] The maximum number of entries to cache.
      * Entries used the least will be removed as the maximum is reached.
      * @param {number} [config.maxAgeSeconds] The maximum age of an entry before
