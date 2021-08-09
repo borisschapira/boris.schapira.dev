@@ -102,7 +102,7 @@
     "turbolinks": "^5.2.0",
     "workbox-broadcast-update": "^6.1.5",
     "workbox-cacheable-response": "^6.1.5",
-    "workbox-core": "^6.1.5",
+    "workbox-core": "^6.2.2",
     "workbox-expiration": "^6.1.5",
     "workbox-precaching": "^6.1.5",
     "workbox-range-requests": "^6.1.5",
