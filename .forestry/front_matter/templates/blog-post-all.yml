@@ -52,6 +52,11 @@ fields:
   - type: text
     name: fr
     label: fr
+  - name: en
+    type: text
+    config:
+      required: false
+    label: en
   showOnly:
     field: translated
     value: true
@@ -92,3 +97,5 @@ fields:
   showOnly:
     field: repost_
     value: true
+pages:
+- _posts/fr/web/2021/2021-08-10-pourquoi-mon-script-asynchrone-bloque-le-rendu-de-ma-page.md

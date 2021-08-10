@@ -1,9 +1,9 @@
 ---
-title: "Je ne ferai plus d'enfants"
-description: >-
-    Fini, je ferme l'usine. Une vasectomie plus loin, je peux le dire : je ne ferai plus d'enfants.
----
+title: Je ne ferai plus d'enfants
+description: 'Fini, je ferme l''usine. Une vasectomie plus loin, je peux le dire :
+  je ne ferai plus d''enfants.'
 
+---
 Je ne ferai plus d'enfants. J'ai 37 ans, et je viens de passer au bloc pour une vasectomie. Une page se tourne.
 
 Je sais que c'est quelque chose que beaucoup considèrent comme intime. Des ami·es, des collègues, vont lire ces mots. Je le sais, et je le fais consciemment : parler de cela est un geste politique.
@@ -30,13 +30,13 @@ Et pourtant, en tant qu'homme, je n'ai jamais eu à porter le poids de la contra
 
 Je sais que la science est positive, que c'est un des modes de contraception les plus efficaces, mais je reste perturbé par la présence de cet objet en elle dont les effets sont connus et pourtant rarement énoncés : menstruations anormalement abondantes et prolongées, saignements intermédiaires, douleurs abdominables, anémie (trop peu de globules rouges sains dans le sang).
 
-Je n'ai pas toujours su tout ça. Et parfois, je vais être honnête, je n'ai pas voulu savoir. Et puis, à un moment, ça m'est apparu comme une évidence, comme un *possible* : si je me contraceptais moi-même, elle ne serait plus obligée de vivre ça.
+Je n'ai pas toujours su tout ça. Et parfois, je vais être honnête, je n'ai pas voulu savoir. Et puis, à un moment, ça m'est apparu comme une évidence, comme un _possible_ : si je me contraceptais moi-même, elle ne serait plus obligée de vivre ça.
 
 Outre le préservatif masculin, les possibilités pour les hommes sont, à ma connaissance :
 
--   une stérilisation (définitive, très peu d'effets secondaires) ;
--   un traitement hormonal hebdomadaire de testostérone (réversible, beaucoup d'effets secondaires) ;
--   une contraception thermique (le "slip chauffant", réversible et sans effets secondaires, mais qui nécessite une certaine logistique).
+* une stérilisation (définitive, très peu d'effets secondaires) ;
+* un traitement hormonal hebdomadaire de testostérone (réversible, beaucoup d'effets secondaires) ;
+* une contraception thermique (le "slip chauffant", réversible et sans effets secondaires, mais qui nécessite une certaine logistique).
 
 L'injection d'un gel contraceptif (le Vasalgel) dans le canal déférent et la pilule contraceptive masculine sont en cours de test, mais je ne crois pas que ces tests aient lieu en France aujourd'hui. Je ne les ai donc pas envisagés.
 
@@ -54,7 +54,7 @@ Bien sûr, on ne sait pas ce que l'avenir nous réserve. Peut-être perdrais-je 
 
 À ce stade de ma vie, la contraception définitive est l'occasion de faire mon deuil d'un enfant supplémentaire pour lequel je n'ai plus l'énergie et la motivation, tout en confirmant mon investissement dans l'éducation et la vie actuelle et future de mes petits princes.
 
----
+***
 
 On m'a beaucoup demandé si je n'allais pas changer d'avis. Permettez-moi d'interroger la question. Nous passons notre vie d'adulte à prendre des décisions définitives, ou du moins qui nécessitent des années pour être contournées. Ces dernières années, nous sommes devenus propriétaires. Nous avons adopté des animaux de compagnie. Nous avons faits des choix très structurants sur nos carrières. Des choix dont très peu sont réversibles.
 
@@ -62,7 +62,7 @@ Ces décisions ont été perçues très positivement par la société. Ils sont 
 
 Sincèrement, on m'a davantage interrogé sur le fait que je ne veuille plus faire d'enfant que sur ma capacité, avant la naissance de mes fils, à bien m'en occuper. Comme s'il était plus important que je sois un potentiel géniteur qu'un bon père. Est-ce qu'il ne serait pas temps qu'on s'interroge collectivement sur ce fait ?
 
----
+***
 
 Mais ça ne répond pas à la question : suis-je parfaitement sûr de ne plus jamais vouloir d'enfants ? Aujourd'hui, la réponse est oui, mais demain ?
 
@@ -104,7 +104,7 @@ Ne vous inquiétez pas, la personne qui fait ça est une professionnelle, et ne 
 
 Ensuite, direction le bloc en brancard. Ce n'est pas la première fois que je me fais opérer, mais c'est ma première anesthésie locale. Je dois avouer que quand je me suis retrouvé couché sur le chariot brancard et que j'ai vu le plafond défiler, je me suis un peu demandé si je n'étais pas en train de faire une grosse bêtise. Ce moment était impressionnant.
 
-Arrivé au bloc, vous restez couché. Le personnel infirmier dresse au-dessus de votre tors un drap qui coupe tout votre champ de vision, puis votre pantalon est baissé, votre casaque remontée, et c'est le début de la préparation du champ opératoire.
+Arrivé au bloc, vous restez couché. Le personnel infirmier dresse au-dessus de votre torse un drap qui coupe tout votre champ de vision, puis votre pantalon est baissé, votre casaque remontée, et c'est le début de la préparation du champ opératoire.
 
 Concrètement, cela veut dire que les infirmiers et infirmières de bloc délimitent la zone à opérer avec des éléments adhésifs (et là on dit merci à la dépilation) et des linges stériles, puis appliquent des produits antiseptiques. Je ne saurais pas mieux expliquer car, rappelez-vous, le patient ne voit que le drap et le plafond.
 
@@ -143,6 +143,6 @@ Sinon, nous attendrons quelques semaines avant de refaire un nouveau test et si 
 
 J'ai 37 ans, une femme que j'aime a accepté de faire avec moi deux enfants que j'adore et maintenant, une page se tourne.
 
----
+***
 
 Big up à mes confrères dont j'ai découvert qu'ils y étaient passé avant moi ou qu'ils y avaient pensé ou y pensaient et dont les témoignages m'ont aussi aidé à prendre ma décision : Mikael, Thomas, Les Nicos C, D et S, Alexandre, Loïc, Ludo et j'en oublie. Merci pour les conversations "entre couilles" (pour une fois, l'expression est pertinente).
