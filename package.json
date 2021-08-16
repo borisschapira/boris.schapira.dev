@@ -101,7 +101,7 @@
     "touchtap-event": "^2.0.2",
     "turbolinks": "^5.2.0",
     "workbox-broadcast-update": "^6.2.3",
-    "workbox-cacheable-response": "^6.2.3",
+    "workbox-cacheable-response": "^6.2.4",
     "workbox-core": "^6.2.3",
     "workbox-expiration": "^6.2.3",
     "workbox-precaching": "^6.2.3",
