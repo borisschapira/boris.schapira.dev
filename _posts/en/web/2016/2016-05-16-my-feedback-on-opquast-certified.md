@@ -21,12 +21,6 @@ caption=img_caption
 
 In September 2015, Olivier <a href="https://blog.clever-age.com/fr/2015/09/15/plateforme-dentrainement-opquast-certified/" hreflang="fr">announced on the Clever Age blog</a> that each consultant could, if they wished, have access to the Opquast Certified® training platform. I just had time to get organized and I accepted his invitation last month.
 
-{% include canonical.html.liquid
-    locale=page.locale
-    title=page.canonical_title
-    canonical=page.canonical
-%}
-
 ## Immediate feedback
 
 ### I was surprised by the amount of information
