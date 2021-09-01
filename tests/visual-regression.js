@@ -62,7 +62,7 @@ describe("👀 screenshots are correct", () => {
       // This is ran before every test. It's where you start a clean browser.
       beforeEach(async () => {
         browser = await puppeteer.launch({
-          headless: false,
+          headless: true,
           args: [`--lang=${tests[t].locale}`]
         });
         page = await browser.newPage();
