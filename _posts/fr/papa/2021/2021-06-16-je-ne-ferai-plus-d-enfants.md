@@ -133,13 +133,13 @@ Il n'y a aucun soin particulier, aucun traitement post-opératoire, aucun pansem
 
 ### La suite ?
 
-Pendant trois mois, je continue à me comporter comme avant. Même si l'opération est une réussite, mon organisme doit se débarasser des spermatozoides déjà engagés dans les canaux déférents.
+**Mis-à-jour 3 mois après**
 
-Ensuite, je devrai passer un spermogramme pour vérifier que je suis bien stérile. S'il est à 0, l'opération aura été un succès et ma femme pourra se débarraser de son dispositif intra-utérin.
+Pendant trois mois, j'ai continué à me comporter comme avant. Même si l'opération est une réussite, mon organisme devait se débarasser des spermatozoides déjà engagés dans les canaux déférents. Pour m'assurer de la réussite de l'opération, j'ai du passer un spermogramme. 
 
-Sinon, nous attendrons quelques semaines avant de refaire un nouveau test et si le résultat se confirme, je me ferai opérer de nouveau. La perspective ne m'enchante pas, mais je n'ai pas peur non plus. L'ayant déjà vécu, je pense que je serai encore plus en confiance pour le refaire. Et toujours aussi motivé.
+Le résultat étant à 0, l'opération est un succès. Ma femme va pouvoir se débarraser de son dispositif intra-utérin et de mon côté, je suis soulagé de ne pas avoir à repasser au bloc. La perspective ne m'enchantait pas, même si j'étais prêt à le refaire si nécessaire. L'ayant déjà vécu, je pense que j'aurai été encore plus en confiance pour le refaire. Et toujours aussi motivé.
 
-Émotionellement, je crois que je n'ai pas encore assimilé l'information. Je sais que c'est curieux à dire, mais je garde un sanglot étouffé chaque fois que je me rends compte de ce que j'ai fait. Non pas que je regrette, au contraire. En fait, ça me ramène, comme par un effet de miroir, à ma famille. Je revois le moment où nous avons décidé de devenir parents, puis mes fils à leur naissance. Je suis si heureux d'avoir pu vivre ça, de les avoir vu grandir et de continuer à le faire.
+Émotionellement, je pense que j'ai assimilé l'information. Ça n'a pas été immédiat. En sortant de l'opération, je gardais un sanglot étouffé chaque fois que je me rendais compte de ce que j'avais fait. Non pas que je regrettais, au contraire. En fait, ça me ramènait, comme par un effet de miroir, à ma famille. Je revoyait le moment où nous avons décidé de devenir parents, puis mes fils à leur naissance, et ça me rendait très émotif. Je suis toujours aussi heureux d'avoir pu vivre ça, de les avoir vu grandir et de continuer à le faire, mais le quotidien a repris se place. Je suis désormais stérile. Dont acte.
 
 J'ai 37 ans, une femme que j'aime a accepté de faire avec moi deux enfants que j'adore et maintenant, une page se tourne.
 
