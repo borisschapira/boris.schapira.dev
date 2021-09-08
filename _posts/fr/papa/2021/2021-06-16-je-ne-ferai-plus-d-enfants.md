@@ -28,7 +28,7 @@ Et pourtant, en tant qu'homme, je n'ai jamais eu à porter le poids de la contra
 
 À l'inverse, depuis plusieurs années, ma femme supporte cette contraception. Elle porte un stérilet cuivre, un dispositif intra-utérin dont la réussite n'est liée qu'à une réaction inflammatoire de son endomètre.
 
-Je sais que la science est positive, que c'est un des modes de contraception les plus efficaces, mais je reste perturbé par la présence de cet objet en elle dont les effets sont connus et pourtant rarement énoncés : menstruations anormalement abondantes et prolongées, saignements intermédiaires, douleurs abdominables, anémie (trop peu de globules rouges sains dans le sang).
+Je sais que la science est positive, que c'est un des modes de contraception les plus efficaces, mais je reste perturbé par la présence de cet objet en elle dont les effets sont connus et pourtant rarement énoncés : menstruations anormalement abondantes et prolongées, saignements intermédiaires, douleurs abdominales, anémie (trop peu de globules rouges sains dans le sang).
 
 Je n'ai pas toujours su tout ça. Et parfois, je vais être honnête, je n'ai pas voulu savoir. Et puis, à un moment, ça m'est apparu comme une évidence, comme un _possible_ : si je me contraceptais moi-même, elle ne serait plus obligée de vivre ça.
 
@@ -44,11 +44,11 @@ L'injection d'un gel contraceptif (le Vasalgel) dans le canal déférent et la p
 
 D'aussi loin que je m'en souvienne, j'ai toujours voulu des enfants. J'ai eu la chance de rencontrer une femme qui en voulait aussi, avec moi (la chance !), et sans attendre. À 37 ans, père de deux garçons de 8 et 10 ans, j'ai le sentiment d'avoir accompli mon projet de paternité.
 
-Je ne dis pas que ce projet est fini, bien sûr. Je serai père aussi longtemps qu'ils me seront fils. Mais j'ai le sentiment d'être comblé par leur présence et, surtout, de ne plus souhaitez assumer l'ensemble d'un parcours pour un troisième enfant.
+Je ne dis pas que ce projet est fini, bien sûr. Je serai père aussi longtemps qu'ils me seront fils. Mais j'ai le sentiment d'être comblé par leur présence et, surtout, de ne plus souhaiter assumer l'ensemble d'un parcours pour un troisième enfant.
 
 Ma femme et moi avons tous les deux des projets et des passions qui nous animent. Certains ont été mis entre parenthèse pendant que les garçons étaient bébés. D'autres non, et nous avons dû assumer l'énorme fatigue nécessaire à les mener à bien, tout en assurant avec les garçons.
 
-Aujourd'hui, même si ce sont encore des enfants, la qualité de la relation que nous avons avec eux nous permet de les imaginer comme des adolescents responsables (on peut rêver, non ?). Et rapidemement, ils deviendront des adultes indépendants et autonomes. Nous serons toujours là pour eux, mais nous ne _sommes_ pas eux, et pouvons envisager, nous aussi, de poursuivre notre vie et nos projets.
+Aujourd'hui, même si ce sont encore des enfants, la qualité de la relation que nous avons avec eux nous permet de les imaginer comme des adolescents responsables (on peut rêver, non ?). Et rapidement, ils deviendront des adultes indépendants et autonomes. Nous serons toujours là pour eux, mais nous ne _sommes_ pas eux, et pouvons envisager, nous aussi, de poursuivre notre vie et nos projets.
 
 Bien sûr, on ne sait pas ce que l'avenir nous réserve. Peut-être perdrais-je la femme de ma vie, ou peut-être ne voudra-t-elle plus de moi… mais ça ne changera pas que mes enfants sont là, et que je souhaite être toujours présent émotionnellement et financièrement pour eux.
 
@@ -56,9 +56,9 @@ Bien sûr, on ne sait pas ce que l'avenir nous réserve. Peut-être perdrais-je 
 
 ***
 
-On m'a beaucoup demandé si je n'allais pas changer d'avis. Permettez-moi d'interroger la question. Nous passons notre vie d'adulte à prendre des décisions définitives, ou du moins qui nécessitent des années pour être contournées. Ces dernières années, nous sommes devenus propriétaires. Nous avons adopté des animaux de compagnie. Nous avons faits des choix très structurants sur nos carrières. Des choix dont très peu sont réversibles.
+On m'a beaucoup demandé si je n'allais pas changer d'avis. Permettez-moi d'interroger la question. Nous passons notre vie d'adulte à prendre des décisions définitives, ou du moins qui nécessitent des années pour être contournées. Ces dernières années, nous sommes devenus propriétaires. Nous avons adopté des animaux de compagnie. Nous avons fait des choix très structurants sur nos carrières. Des choix dont très peu sont réversibles.
 
-Ces décisions ont été perçues très positivement par la société. Ils sont des marqueurs d'émancipation, d'auto-détermination et de confiance en l'avenir. Pourquoi, quand on parle de ne pas ou ne plus vouloir d'enfants, les réactions sont-elles aussi différents ?
+Ces décisions ont été perçues très positivement par la société. Ils sont des marqueurs d'émancipation, d'auto-détermination et de confiance en l'avenir. Pourquoi, quand on parle de ne pas ou ne plus vouloir d'enfants, les réactions sont-elles aussi différentes ?
 
 Sincèrement, on m'a davantage interrogé sur le fait que je ne veuille plus faire d'enfant que sur ma capacité, avant la naissance de mes fils, à bien m'en occuper. Comme s'il était plus important que je sois un potentiel géniteur qu'un bon père. Est-ce qu'il ne serait pas temps qu'on s'interroge collectivement sur ce fait ?
 
@@ -129,20 +129,20 @@ Le lendemain matin, je vivais normalement. J'ai rangé la maison, je suis allé 
 
 La douleur "coup-de-pied" a disparu en un à deux jours. Ponctuellement, j'ai senti à nouveau une gêne pendant environ un semaine. Et parfois, c'est un point qui tire un peu, mais ça reste très anecdotique. Les activités qui sollicitent particulièrement cette zone sont à éviter pendant les 3 jours qui suivent l'opération, et les activités sexuelles pendant une semaine. J'ai personnellement attendu 10 jours avant de ne plus rien ressentir de différent dans cette zone.
 
-Il n'y a aucun soin particulier, aucun traitement post-opératoire, aucun pansement ou autre dispositif à conserver. On se douche normalement. C'est tellement _simple_ qu'il m'est arrivé de douter sur le fait que ça ait marcher.
+Il n'y a aucun soin particulier, aucun traitement post-opératoire, aucun pansement ou autre dispositif à conserver. On se douche normalement. C'est tellement _simple_ qu'il m'est arrivé de douter sur le fait que ça ait marché.
 
 ### La suite ?
 
 **Mis-à-jour 3 mois après**
 
-Pendant trois mois, j'ai continué à me comporter comme avant. Même si l'opération est une réussite, mon organisme devait se débarasser des spermatozoides déjà engagés dans les canaux déférents. Pour m'assurer de la réussite de l'opération, j'ai du passer un spermogramme. 
+Pendant trois mois, j'ai continué à me comporter comme avant. Même si l'opération est une réussite, mon organisme devait se débarrasser des spermatozoïdes déjà engagés dans les canaux déférents. Pour m'assurer de la réussite de l'opération, j'ai dû passer un spermogramme. 
 
-Le résultat étant à 0, l'opération est un succès. Ma femme va pouvoir se débarraser de son dispositif intra-utérin et de mon côté, je suis soulagé de ne pas avoir à repasser au bloc. La perspective ne m'enchantait pas, même si j'étais prêt à le refaire si nécessaire. L'ayant déjà vécu, je pense que j'aurai été encore plus en confiance pour le refaire. Et toujours aussi motivé.
+Le résultat étant à 0, l'opération est un succès. Ma femme va pouvoir se débarrasser de son dispositif intra-utérin et de mon côté, je suis soulagé de ne pas avoir à repasser au bloc. La perspective ne m'enchantait pas, même si j'étais prêt à le refaire si nécessaire. L'ayant déjà vécu, je pense que j'aurai été encore plus en confiance pour le refaire. Et toujours aussi motivé.
 
-Émotionellement, je pense que j'ai assimilé l'information. Ça n'a pas été immédiat. En sortant de l'opération, je gardais un sanglot étouffé chaque fois que je me rendais compte de ce que j'avais fait. Non pas que je regrettais, au contraire. En fait, ça me ramènait, comme par un effet de miroir, à ma famille. Je revoyait le moment où nous avons décidé de devenir parents, puis mes fils à leur naissance, et ça me rendait très émotif. Je suis toujours aussi heureux d'avoir pu vivre ça, de les avoir vu grandir et de continuer à le faire, mais le quotidien a repris se place. Je suis désormais stérile. Dont acte.
+Émotionnellement, je pense que j'ai assimilé l'information. Ça n'a pas été immédiat. En sortant de l'opération, je gardais un sanglot étouffé chaque fois que je me rendais compte de ce que j'avais fait. Non pas que je regrettais, au contraire. En fait, ça me ramenait, comme par un effet de miroir, à ma famille. Je revoyais le moment où nous avons décidé de devenir parents, puis mes fils à leur naissance, et ça me rendait très émotif. Je suis toujours aussi heureux d'avoir pu vivre ça, de les avoir vu grandir et de continuer à le faire, mais le quotidien a repris se place. Je suis désormais stérile. Dont acte.
 
 J'ai 37 ans, une femme que j'aime a accepté de faire avec moi deux enfants que j'adore et maintenant, une page se tourne.
 
 ***
 
-Big up à mes confrères dont j'ai découvert qu'ils y étaient passé avant moi ou qu'ils y avaient pensé ou y pensaient et dont les témoignages m'ont aussi aidé à prendre ma décision : Mikael, Thomas, Les Nicos C, D et S, Alexandre, Loïc, Ludo et j'en oublie. Merci pour les conversations "entre couilles" (pour une fois, l'expression est pertinente).
+Big up à mes confrères dont j'ai découvert qu'ils y étaient passés avant moi ou qu'ils y avaient pensé ou y pensaient et dont les témoignages m'ont aussi aidé à prendre ma décision : Mikael, Thomas, Les Nicos C, D et S, Alexandre, Loïc, Ludo et j'en oublie. Merci pour les conversations "entre couilles" (pour une fois, l'expression est pertinente).
