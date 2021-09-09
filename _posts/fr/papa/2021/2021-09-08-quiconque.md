@@ -2,7 +2,6 @@
 tags: []
 title: Quiconque
 slug: quiconque
-published: false
 
 ---
 10-ans est assis à côté de sa mère. Un adulte lui adresse la parole, mais il est timide.  
