@@ -1203,6 +1203,7 @@ const responsesAreSame = (firstResponse, secondResponse, headersToCheck) => {
 
 const CACHE_UPDATED_MESSAGE_TYPE = 'CACHE_UPDATED';
 const CACHE_UPDATED_MESSAGE_META = 'workbox-broadcast-update';
+const NOTIFY_ALL_CLIENTS = true;
 const DEFAULT_HEADERS_TO_CHECK = [
     'content-length',
     'etag',
@@ -1262,10 +1263,14 @@ class BroadcastCacheUpdate {
      * @param {string} [options.generatePayload] A function whose return value
      *     will be used as the `payload` field in any cache update messages sent
      *     to the window clients.
+     * @param {boolean} [options.notifyAllClients=true] If true (the default) then
+     *     all open clients will receive a message. If false, then only the client
+     *     that make the original request will be notified of the update.
      */
-    constructor({ headersToCheck, generatePayload, } = {}) {
+    constructor({ generatePayload, headersToCheck, notifyAllClients, } = {}) {
         this._headersToCheck = headersToCheck || DEFAULT_HEADERS_TO_CHECK;
         this._generatePayload = generatePayload || defaultPayloadGenerator;
+        this._notifyAllClients = notifyAllClients !== null && notifyAllClients !== void 0 ? notifyAllClients : NOTIFY_ALL_CLIENTS;
     }
     /**
      * Compares two [Responses](https://developer.mozilla.org/en-US/docs/Web/API/Response)
@@ -1332,9 +1337,18 @@ class BroadcastCacheUpdate {
                     await timeout(3500);
                 }
             }
-            const windows = await self.clients.matchAll({ type: 'window' });
-            for (const win of windows) {
-                win.postMessage(messageData);
+            if (this._notifyAllClients) {
+                const windows = await self.clients.matchAll({ type: 'window' });
+                for (const win of windows) {
+                    win.postMessage(messageData);
+                }
+            }
+            else {
+                // See https://github.com/GoogleChrome/workbox/issues/2895
+                if (options.event instanceof FetchEvent) {
+                    const client = await self.clients.get(options.event.clientId);
+                    client === null || client === void 0 ? void 0 : client.postMessage(messageData);
+                }
             }
         }
     }
@@ -1537,10 +1551,13 @@ class PrecacheCacheKeyPlugin_PrecacheCacheKeyPlugin {
     constructor({ precacheController }) {
         this.cacheKeyWillBeUsed = async ({ request, params, }) => {
             // Params is type any, can't change right now.
-            // eslint-disable-next-line
-            const cacheKey = params && params.cacheKey ||
+            /* eslint-disable */
+            const cacheKey = (params === null || params === void 0 ? void 0 : params.cacheKey) ||
                 this._precacheController.getCacheKeyForURL(request.url);
-            return cacheKey ? new Request(cacheKey) : request;
+            /* eslint-enable */
+            return cacheKey
+                ? new Request(cacheKey, { headers: request.headers })
+                : request;
         };
         this._precacheController = precacheController;
     }
@@ -2364,7 +2381,8 @@ class PrecacheStrategy_PrecacheStrategy extends Strategy_Strategy {
     constructor(options = {}) {
         options.cacheName = cacheNames_cacheNames.getPrecacheName(options.cacheName);
         super(options);
-        this._fallbackToNetwork = options.fallbackToNetwork === false ? false : true;
+        this._fallbackToNetwork =
+            options.fallbackToNetwork === false ? false : true;
         // Redirected responses cannot be used to satisfy a navigation request, so
         // any redirected response must be "copied" rather than cloned, so the new
         // response doesn't contain the `redirected` flag. See:
@@ -2380,24 +2398,40 @@ class PrecacheStrategy_PrecacheStrategy extends Strategy_Strategy {
      */
     async _handle(request, handler) {
         const response = await handler.cacheMatch(request);
-        if (!response) {
-            // If this is an `install` event then populate the cache. If this is a
-            // `fetch` event (or any other event) then respond with the cached
-            // response.
-            if (handler.event && handler.event.type === 'install') {
-                return await this._handleInstall(request, handler);
-            }
-            return await this._handleFetch(request, handler);
+        if (response) {
+            return response;
         }
-        return response;
+        // If this is an `install` event for an entry that isn't already cached,
+        // then populate the cache.
+        if (handler.event && handler.event.type === 'install') {
+            return await this._handleInstall(request, handler);
+        }
+        // Getting here means something went wrong. An entry that should have been
+        // precached wasn't found in the cache.
+        return await this._handleFetch(request, handler);
     }
     async _handleFetch(request, handler) {
         let response;
-        // Fall back to the network if we don't have a cached response
-        // (perhaps due to manual cache cleanup).
+        const params = (handler.params || {});
+        // Fall back to the network if we're configured to do so.
         if (this._fallbackToNetwork) {
             if (false) {}
-            response = await handler.fetch(request);
+            const integrityInManifest = params.integrity;
+            const integrityInRequest = request.integrity;
+            const noIntegrityConflict = !integrityInRequest || integrityInRequest === integrityInManifest;
+            response = await handler.fetch(new Request(request, {
+                integrity: integrityInRequest || integrityInManifest,
+            }));
+            // It's only "safe" to repair the cache if we're using SRI to guarantee
+            // that the response matches the precache manifest's expectations,
+            // and there's either a) no integrity property in the incoming request
+            // or b) there is an integrity, and it matches the precache manifest.
+            // See https://github.com/GoogleChrome/workbox/issues/2858
+            if (integrityInManifest && noIntegrityConflict) {
+                this._useDefaultCacheabilityPluginIfNeeded();
+                const wasCached = await handler.cachePut(request, response.clone());
+                if (false) {}
+            }
         }
         else {
             // This shouldn't normally happen, but there are edge cases:
@@ -2485,12 +2519,12 @@ PrecacheStrategy_PrecacheStrategy.defaultPrecacheCacheabilityPlugin = {
             return null;
         }
         return response;
-    }
+    },
 };
 PrecacheStrategy_PrecacheStrategy.copyRedirectedCacheableResponsesPlugin = {
     async cacheWillUpdate({ response }) {
         return response.redirected ? await copyResponse(response) : response;
-    }
+    },
 };
 
 
@@ -2718,6 +2752,14 @@ class PrecacheController_PrecacheController {
     getCacheKeyForURL(url) {
         const urlObject = new URL(url, location.href);
         return this._urlsToCacheKeys.get(urlObject.href);
+    }
+    /**
+     * @param {string} url A cache key whose SRI you want to look up.
+     * @return {string} The subresource integrity associated with the cache key,
+     * or undefined if it's not set.
+     */
+    getIntegrityForCacheKey(cacheKey) {
+        return this._cacheKeysToIntegrities.get(cacheKey);
     }
     /**
      * This acts as a drop-in replacement for
@@ -3509,7 +3551,8 @@ class PrecacheRoute_PrecacheRoute extends (/* unused pure expression or super */
             for (const possibleURL of generateURLVariations(request.url, options)) {
                 const cacheKey = urlsToCacheKeys.get(possibleURL);
                 if (cacheKey) {
-                    return { cacheKey };
+                    const integrity = precacheController.getIntegrityForCacheKey(cacheKey);
+                    return { cacheKey, integrity };
                 }
             }
             if (false) {}
@@ -5309,7 +5352,9 @@ class CacheTimestampsModel {
             id: this._getId(url),
         };
         const db = await this.getDb();
-        await db.put(CACHE_OBJECT_STORE, entry);
+        const tx = db.transaction(CACHE_OBJECT_STORE, 'readwrite', { durability: 'relaxed' });
+        await tx.store.put(entry);
+        await tx.done;
     }
     /**
      * Returns the timestamp stored for a given URL.
