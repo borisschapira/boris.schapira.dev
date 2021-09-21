@@ -2,7 +2,6 @@
 tags: []
 title: La fainéantise
 slug: ''
-published: false
 
 ---
 – \[Moi\] Là, si tu ne réussis pas l'exercice, c'est pas un problème de compétences, c'est de la fainéantise.
