@@ -75,7 +75,7 @@
     "postcss-loader": "^6.1.1",
     "prettier": "^2.4.1",
     "purify-css": "^1.2.5",
-    "sass": "^1.41.1",
+    "sass": "^1.42.1",
     "sass-loader": "^12.1.0",
     "uglify-js": "^3.14.2",
     "webpack": "^5.53.0",
