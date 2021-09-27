@@ -1,0 +1,14 @@
+---
+tags: []
+title: Furtif
+slug: ''
+published: false
+
+---
+Ils sont derrière moi, regardent une vidéo par dessus mon épaule. "C'est fini, allez préparer vos sacs". 
+
+J'entends qu'un seul des deux s'en va. Longues enjambées sur le carrelage, talons fortement marqués, c'est le grand.
+
+J'attends trois secondes puis dit : "Je sais que tu es toujours là." 
+
+Trois longues secondes s'étirent puis un murmure me répond "Non".
