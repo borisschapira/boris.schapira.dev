@@ -216,6 +216,12 @@ blockquote,
   @extend %italic;
   border: 1px dotted var(--color-main);
   text-align: center;
+  
+  ul, ol {
+    margin: 0 auto;
+    max-width: 40rem;
+    text-align: left;
+  }
 }
 
 ins {
