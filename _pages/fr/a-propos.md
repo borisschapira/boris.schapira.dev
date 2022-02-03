@@ -11,7 +11,7 @@ Ingénieur de formation[^1], je suis <span lang="en">Customer Success Manager</s
 Vous avez pu me rencontrer précédemment autour de problématiques liées au Service Design, à la Finance de Marché, à l'e-Commerce, à la Qualité et la Performance Web ou au choix d'une solution référentielle (<abbr lang="en" title="Content Management System">CMS</abbr>, <abbr lang="en" title="Digital Asset Management">DAM</abbr>, <abbr lang="en" title="Online Video Platform">OVP</abbr>) ou logicielle (choix d'un <em lang="en">framework</em>).
 
 <figure>
-  <a href="https://certified.opquast.com/certificate/V085B7/"><img role="img" src="/assets/images/shared/issuer_v085b7.svg" loading="lazy" width="200" height="200" alt="Un certificat OpQuast composé de 5 étoiles, avec écrit &quote;Expert&quote;"></a>
+  <a href="https://certified.opquast.com/certificate/JQUAG2/"><img role="img" src="/assets/images/shared/issuer_v085b7.svg" loading="lazy" width="200" height="200" alt="Un certificat OpQuast composé de 5 étoiles, avec écrit &quote;Expert&quote;"></a>
   <figcaption>Certificat Qualité web - niveau Expert</figcaption>
 </figure>
 
