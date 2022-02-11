@@ -5,33 +5,33 @@ admin_path: ''
 webhook_url: ''
 sections:
 - type: directory
-  path: _posts/fr/papa/2021
-  label: FR · Papa · 2021
+  path: _posts/fr/papa/2022
+  label: FR · Papa · 2022
   create: all
   match: "**/*"
 - type: directory
-  path: _posts/fr/web/2021
-  label: FR · Web · 2021
+  path: _posts/fr/web/2022
+  label: FR · Web · 2022
   create: all
   match: "**/*"
 - type: directory
-  path: _posts/fr/citoyen/2021
-  label: FR · Citoyen · 2021
+  path: _posts/fr/citoyen/2022
+  label: FR · Citoyen · 2022
   create: all
   match: "**/*"
 - type: directory
-  path: _posts/en/dad/2021
-  label: EN · Dad · 2021
+  path: _posts/en/dad/2022
+  label: EN · Dad · 2022
   create: all
   match: "**/*"
 - type: directory
-  path: _posts/en/web/2021
-  label: EN · Web · 2021
+  path: _posts/en/web/2022
+  label: EN · Web · 2022
   create: all
   match: "**/*"
 - type: directory
-  path: _posts/en/citizen/2021
-  label: EN · Citizen · 2021
+  path: _posts/en/citizen/2022
+  label: EN · Citizen · 2022
   create: all
   match: "**/*"
 - type: directory
