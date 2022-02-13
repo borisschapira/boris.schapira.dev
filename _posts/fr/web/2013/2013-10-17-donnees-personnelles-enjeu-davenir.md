@@ -5,7 +5,7 @@ tags:
     - 'Scripts Tiers'
 ---
 
-J'écrivais l'année dernière, pour [le Train de 13h37](http://letrainde13h37.fr/6/scripts-tiers-appels-induits-ne-perdez-pas-le-controle-de-votre-site/ '"Scripts tiers & appels induits : ne perdez pas le contrôle de votre site" ", LeTrainDe13h37') :
+J'écrivais l'année dernière, pour [le Train de 13h37](/notes/2012-06-scripts-tiers-appels-induits-ne-perdez-pas-le-controle-de-votre-site/ '"Scripts tiers & appels induits : ne perdez pas le contrôle de votre site" ", LeTrainDe13h37') :
 
 > La diminution de votre performance et les risques qui pèsent sur la disponibilité de votre site sont des inconvénients fâcheux mais techniques. **Plus inquiétante encore est l’intrusion dans votre site d’étrangers qui n’ont qu’un intérêt : collecter des données sur vous ou vos visiteurs.** Vous n’avez pas connaissance de ces ressources chargées lors d’appels issus de script tiers. Pourtant, elles peuvent voir et capturer des informations sur vos visiteurs sans votre consentement. Et la variété des informations qu’elles peuvent collecter est impressionnante. […] **C'est un _no man’s land_ sur lequel l’absence de contrôle laisse libre champ à des comportements dignes du _Far West_.**
 
