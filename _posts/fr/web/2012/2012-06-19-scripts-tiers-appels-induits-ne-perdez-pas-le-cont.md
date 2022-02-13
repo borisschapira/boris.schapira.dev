@@ -2,7 +2,7 @@
 title: 'Scripts tiers & appels induits'
 subtitle: 'ne perdez pas le contrôle de votre site'
 canonical: 'https://letrainde13h37.fr/6/scripts-tiers-appels-induits-ne-perdez-pas-le-controle-de-votre-site/'
-canonical_title: 'le blog de Clever Age'
+canonical_title: 'le train de 13h37'
 slug: scripts-tiers-appels-induits-ne-perdez-pas-le-controle-de-votre-site
 ---
 
