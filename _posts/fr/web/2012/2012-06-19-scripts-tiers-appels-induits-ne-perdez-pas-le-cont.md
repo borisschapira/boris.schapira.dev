@@ -1,20 +1,12 @@
 ---
 title: 'Scripts tiers & appels induits'
 subtitle: 'ne perdez pas le contrôle de votre site'
-canonical: 'https://letrainde13h37.fr/6/scripts-tiers-appels-induits-ne-perdez-pas-le-controle-de-votre-site/'
-canonical_title: 'le train de 13h37'
 slug: scripts-tiers-appels-induits-ne-perdez-pas-le-controle-de-votre-site
 ---
 
 Parmi tous les sujets liés à la performance des sites Web, certains sont bien connus (mise en cache, minification, etc.). Cependant, il en existe un qui, bien moins connu, peut avoir des impacts conséquents sur votre site : il s'agit des scripts tiers. On en manipule tous les jours, parfois de manière extrêmement machinale et pourtant, c'est le loup qui se cache dans la bergerie. Voyons de quoi il retourne exactement…
 
 <!-- more -->
-
-{% include canonical.html.liquid
-    locale=page.locale
-    title=page.canonical_title
-    canonical=page.canonical
-%}
 
 Parlons un peu de contenus tiers, et plus particulièrement de scripts tiers. Allons, allons, ne me dites pas que vous ne savez pas de quoi je parle… Le bouton "J'aime" de Facebook ? Le bouton "Google +1" ? Le code JavaScript de Google Analytics ou de Xiti ? Tous des scripts tiers, et presque tous présents sur la grande majorité des sites Web français. Du contenu peut-être présent également sur votre site, que vous le sachiez ou non, et qui peut nuire à votre performance technique et commerciale comme à la sécurité de l'information que vous détenez sur vos visiteurs. Comment ? C'est ce que nous allons analyser ensemble.
 
