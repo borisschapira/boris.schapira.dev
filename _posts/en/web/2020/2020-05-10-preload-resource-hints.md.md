@@ -41,7 +41,7 @@ A web page consists of a main HTML document and optional additional resources de
 
 Hence we can assume that under normal circumstances, downloading a resource is a recurring task for the browser. This task can be broken down into several steps, including:
 
--   **Revolve the DNS** of the resource’s origin  
+-   **Resolve the DNS** of the resource’s origin  
     (if necessary, i.e. if the browser has not already done so);
 -   **Connect** to the origin server  
     (if necessary, i.e. if the browser is not already connected);
