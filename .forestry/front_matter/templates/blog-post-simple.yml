@@ -13,6 +13,7 @@ fields:
   default: []
   label: Tags
 pages:
+- _posts/fr/citoyen/2022/2022-02-27-le-petit-geste-du-quotidien.md
 - _posts/fr/papa/2021/2021-07-31-de-cable.md
 - _posts/fr/papa/2021/2021-09-08-quiconque.md
 - _posts/fr/papa/2021/2021-09-14-le-physique-de-l-emploi.md
