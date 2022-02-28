@@ -2,7 +2,6 @@
 tags: []
 title: Le petit geste du quotidien
 slug: le-petit-geste-du-quotidien
-published: false
 
 ---
 À chaque fois que j'ai une discussion écologique avec des amis ou de la famille, se pose inlassablement la question de ce que nous faisons, les uns et les autres, au quotidien, pour moins polluer.
