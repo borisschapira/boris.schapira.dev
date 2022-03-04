@@ -6,7 +6,7 @@ permalink: /en/about/
 i18n-key: about-me
 ---
 
-I'm a french engineer[^1], Customer Success Manager for [Dareboost](https://www.dareboost.com/en/ 'Website speed test, Website quality analysis - Dareboost'). Dareboost is a <abbr title="Software as a Service">SaaS</abbr> auditing service that analyse your website's quality and performances. My role is to analyse customer journey(s) by gathering feedbacks, then check with customers to ensure that they are on track with their performance objectives and, if not, see if I can help with an even broader use of Dareboost.
+I'm a french engineer[^1], currently Solution Expert for [Contentsquare](https://contentsquare.com/), within the Customer Success division. I support our clients, from marketing divisions to IT departments, in the real-time audit of technical issues occurring on the client side: web performance, JS and APIS errors, relevance of displayed messages... in order to support acquisition, conversion or Time-to-Fix optimization strategies.
 
 You may have meet me during events or conferences, talking about Service Design, Finance, e-Commerce or the choice of a data management solution : (<abbr lang="en" title="Content Management System">CMS</abbr>, <abbr lang="en" title="Digital Asset Management">DAM</abbr>, <abbr lang="en" title="Online Video Platform">OVP</abbr>)…
 
