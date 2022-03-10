@@ -3,7 +3,7 @@ title: "Mon propre guide d'écriture inclusive"
 tags:
     - guide
     - Égalité
-last_modified: 2020-05-20T22:20:00Z
+last_modified: 2022-03-10T08:05:00Z
 ---
 
 Cet article date de {{ page.date | l: "%B %Y" }}. Il me servira de note à moi-même ou d'explication vers laquelle pointer si j'ai besoin d'expliquer ma façon de procéder, et je n'hésiterai pas à le mettre à jour.  
@@ -45,7 +45,9 @@ De [toutes les possibilités](https://codepen.io/vincent-valentin/full/woGLVL 'A
 
 <span id="disambiguation">Pour éviter les malentendus</span> :
 
-**Oui**, c'est une évolution de la langue française. Mais ce n'est pas une nouveauté, c'est plutôt un retour en arrière. Racine employait souvent l'accord de proximité. Voltaire n'écrivait pas dans le français jugé "légitime" par les réactionnaires d'aujourd'hui.
+**Oui**, c'est une évolution de la langue française. Mais ce n'est pas une nouveauté, c'est plutôt un retour en arrière, où les deux pratiques coexistaient avait le XVIIe siècle. Racine employait souvent l'accord de proximité. Voltaire n'écrivait pas dans le français jugé "légitime" par les réactionnaires d'aujourd'hui. Vous-même l'employez probablement souvent, en disant par exemple "des chants et des danses bretonnes" plutôt que "des chants et des danses bretons" par habitude[^proximite].
+
+[^proximite]: "[L'accord de proximité du déterminant en français](https://journals.openedition.org/discours/pdf/9542)", Anne Abeillé, Aixiu An, Aoi Shiraïshi
 
 **Non**, ça n'est pas parfait, ni dans l'usage ni dans la graphie, et je suis prêt à faire évoluer ma position si on me propose mieux.
 
