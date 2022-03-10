@@ -47,7 +47,7 @@ De [toutes les possibilités](https://codepen.io/vincent-valentin/full/woGLVL 'A
 
 **Oui**, c'est une évolution de la langue française. Mais ce n'est pas une nouveauté, c'est plutôt un retour en arrière, où les deux pratiques coexistaient avait le XVIIe siècle. Racine employait souvent l'accord de proximité. Voltaire n'écrivait pas dans le français jugé "légitime" par les réactionnaires d'aujourd'hui. Vous-même l'employez probablement souvent, en disant par exemple "des chants et des danses bretonnes" plutôt que "des chants et des danses bretons" par habitude[^proximite].
 
-[^proximite]: "[L'accord de proximité du déterminant en français](https://journals.openedition.org/discours/pdf/9542)", Anne Abeillé, Aixiu An, Aoi Shiraïshi
+[^proximite]: "[L'accord de proximité du déterminant en français](https://journals.openedition.org/discours/pdf/9542)", Anne Abeillé, Aixiu An, Aoi Shiraïshi, PDF (403 Ko)
 
 **Non**, ça n'est pas parfait, ni dans l'usage ni dans la graphie, et je suis prêt à faire évoluer ma position si on me propose mieux.
 
