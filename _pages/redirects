@@ -25,6 +25,7 @@ permalink: /_redirects
 /20190611-node /assets/docs/2019-06-11/20190611-node.pdf 301!
 /psconnect-bayonne /assets/docs/2019-07-05/psconnect-bayonne.pdf 301!
 /webinar-papis-du-web /assets/docs/2020-04-07/clever-age-papis.pdf 301!
+/ssq4 /assets/docs/2022-03-24/ssq4-boris-schapira-UX-technique.pdf 301!
 {% comment %} /minilinks {% endcomment -%}
 {% comment %} Notes {% endcomment -%}
 /notes/ / 302
