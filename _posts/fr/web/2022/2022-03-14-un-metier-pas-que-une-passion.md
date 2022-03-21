@@ -10,7 +10,7 @@ Développeurs et développeuses juniors : vos formations, [courtes ou longues](/
 
 Penser que vous pouvez être passionné·e de code et que cela suffit à en faire un métier : c'est beau, mais c'est très incomplet. Si vous vous arrêtez là, c'est un hobby.
 
-Pour que ça devienne un métier, il faut cela soit :
+Pour que ça devienne un métier, il faut que cela soit :
 
 * un ensemble de compétences techniques
 * de la formation pour en acquérir de nouvelles
