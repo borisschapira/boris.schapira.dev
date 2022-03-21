@@ -16,7 +16,6 @@ translations:
 repost_: false
 canonical: ''
 canonical_title: ''
-published: false
 
 ---
 Vendredi, je vais apprendre à des gens à se servir d'ordinateurs. On ne parlera pas de programmation, juste de comment faire des trucs de base avec des fichiers et un tableur.
