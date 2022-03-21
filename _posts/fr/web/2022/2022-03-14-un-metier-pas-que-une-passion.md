@@ -27,9 +27,9 @@ L'école ne forme souvent qu'aux compétences techniques (et encore, souvent on 
 
 Les compétences nécessaires pour naviguer dans le reste s'acquierent donc souvent avec le temps et la variété des expériences rencontrées. Même deux ans d'alternance à mi-temps, c'est en fait un an en entreprise avec moins de responsabilité qu'un·e autre salarié·e. C'est mieux, mais ça reste peu.
 
-Donc **vous allez être perdu·es**. Et c'est prévisible. Une organisation qui n'est pas prête à cela ne vous mérite pas. Mais si c'est le cas, le savoir vous fera une belle jambe. Prenez donc soin de trouver des mentors, et pas uniquement sur la technique, mais également sur le reste.
+Donc **vous allez être perdu·es**. Et c'est prévisible. Une organisation qui n'est pas prête à cela ne vous mérite pas. Mais si c'est le cas, le savoir vous fera une belle jambe. Prenez donc soin de trouver des mentor·es, et pas uniquement sur la technique, mais également sur le reste : vous allez avoir besoin d'une cellule pour vous soutenir et vous faire grandir dans votre vie professionnelle.
 
-<p class="emphasis"><strong>Employeurs·euses</strong>&nbsp;: si vous souhaitez travailler avec des devs près·tes à l'emploi, qui ont déjà un savoir-faire, du savoir-être et savent le faire savoir, n'embauchez pas de juniors. Et quand vous écrivez sur LinkedIn qu'un ou une junior devrait absolument faire ceci ou cela, pensez aux juniors qui vous lisent, et qui dépriment parce qu'ils ont <strong>déjà</strong> l'impression que le marché les méprise. Prenez-en quelques-un·es en mentorat, vous comprendrez la violence de votre propos.</p>
+<p class="emphasis"><strong>Employeurs·euses</strong> : si vous souhaitez travailler avec des devs près·tes à l'emploi, qui ont déjà un savoir-faire, du savoir-être et savent le faire savoir, n'embauchez pas de juniors. Et quand vous écrivez sur LinkedIn qu'un ou une junior devrait absolument faire ceci ou cela, pensez aux juniors qui vous lisent, et qui dépriment parce qu'ils ont <strong>déjà</strong> l'impression que le marché les méprise. Prenez-en quelques-un·es en mentorat, vous comprendrez la violence de votre propos.</p>
 
 Bien. Ceci étant dit, pourquoi les employeurs et employeuses cherchent-ils souvent ce type de profils "prêt·e-à-l'emploi", quitte à leur demander des compétences parfois très spécifiques (que même les seniors n'ont pas) ?
 
@@ -48,6 +48,6 @@ Les solutions pour s'en sortir : assumer des fiches de postes adaptées. Propose
 
 Mais également, [imaginer et proposer des <span lang="en">Graduate Programs</span>](https://www.letudiant.fr/etudes/qu-est-ce-qu-un-graduate-program.html), qui sont des formations proposées par les entreprises (et financées en dehors de budgets de financement classiques) qui permettent aux recrues d'arriver au niveau de compétence désiré par l'entreprise.
 
-Oui, pour une entreprise, ça coûte cher. Mais combien ça coûte, aujourd'hui, de recruter une personne dont le niveau de productivité n'est pas celui attendu et de devoir, à l'arrache, produire les éléments nécessaire à le ou la voir grandir tout en regardant cette personne partir à la fin.  
-  
+Oui, pour une entreprise, ça coûte cher. Mais combien ça coûte, aujourd'hui, de recruter une personne dont le niveau de productivité n'est pas celui attendu et de devoir, à l'arrache, produire les éléments nécessaire à le ou la voir grandir tout en regardant cette personne partir à la fin.
+
 Il n'y a pas de secret, dans le recrutement comme ailleurs : si vous voulez un retour sur investissement, commencez par investir.
