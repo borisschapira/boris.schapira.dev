@@ -98,5 +98,5 @@ fields:
     field: repost_
     value: true
 pages:
-- _posts/fr/citoyen/2022/volontariat.md
+- _posts/fr/citoyen/2022/2022-03-28-volontariat.md
 - _posts/fr/web/2021/2021-08-10-pourquoi-mon-script-asynchrone-bloque-le-rendu-de-ma-page.md
