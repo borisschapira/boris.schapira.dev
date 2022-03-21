@@ -2,10 +2,10 @@
 title: Un métier, pas qu'une passion
 slug: un-metier-pas-que-une-passion
 tags:
-    - 'Trouver un stage ou une alternance'
-serie: 'Trouver un stage ou une alternance'
----
+- Trouver un stage ou une alternance
+serie: Trouver un stage ou une alternance
 
+---
 Développeurs et développeuses juniors : vos formations, [courtes ou longues](/notes/2021-01-les-formations-courtes/), ne vous rendent pas autonomes et prêtes à accueillir n'importe quel défi. Et ça tombe bien, ce n'est pas le rôle de la formation initiale que de faire sortir des promotions entières de personnes immédiatement compétentes sur un projet exigeant.
 
 Un travail de développement, c'est :
@@ -27,9 +27,9 @@ Les compétences nécessaires pour naviguer dans le reste s'acquierent donc souv
 
 Donc **vous allez être perdu·es**. Et c'est prévisible. Une organisation qui n'est pas prête à cela ne vous mérite pas. Mais si c'est le cas, le savoir vous fera une belle jambe. Prenez donc soin de trouver des mentors, et pas uniquement sur la technique, mais également sur le reste.
 
-**_Employeurs·euses_** _: si vous souhaitez travailler avec des devs près·tes à l'emploi, qui ont déjà un savoir-faire, du savoir-être et savent le faire savoir, n'embauchez pas de juniors. Et quand vous écrivez sur LinkedIn qu'un ou une junior devrait absolument faire ceci ou cela, pensez aux juniors qui vous lisent, et qui dépriment parce qu'ils ont **déjà** l'impression que le marché les méprise. Prenez-en quelques-un·es en mentorat, vous comprendrez la violence de votre propos._
+<p class="emphasis"><strong>Employeurs·euses</strong>&nbsp;: si vous souhaitez travailler avec des devs près·tes à l'emploi, qui ont déjà un savoir-faire, du savoir-être et savent le faire savoir, n'embauchez pas de juniors. Et quand vous écrivez sur LinkedIn qu'un ou une junior devrait absolument faire ceci ou cela, pensez aux juniors qui vous lisent, et qui dépriment parce qu'ils ont <strong>déjà</strong> l'impression que le marché les méprise. Prenez-en quelques-un·es en mentorat, vous comprendrez la violence de votre propos.</p>
 
-Ceci étant dit, pourquoi les employeurs et employeuses cherchent-ils souvent ce type de profils "prêt·e-à-l'emploi", quitte à leur demander des compétences parfois très spécifiques ?
+Bien. Ceci étant dit, pourquoi les employeurs et employeuses cherchent-ils souvent ce type de profils "prêt·e-à-l'emploi", quitte à leur demander des compétences parfois très spécifiques (que même les seniors n'ont pas) ?
 
 Parce que notre domaine a un problème structurel avec l'idée de supporter le coût de la formation continue, qui est pourtant énorme (nos besoins techniques évoluant drastiquement très régulièrement). Dans le tissu légal (droit à la formation, OPCO), rien n'est adapté, du financement de la formation à l'offre proposée par les canaux d'État. Les catalogues ne contiennent que des formations désuètes et [les quelques formations pérennes y sont supprimées](https://www.opquast.com/france-competences-et-cpf-suite-et-fin/).
 
@@ -39,7 +39,8 @@ Cela créé énormément de problèmes :
 
 1. un sentiment d'imposture chez les salarié·es qui se traduit pas un manque de confiance dans la structure employeuse (et l'absence d'envie d'y faire carrière) ;
 2. des inégalités de genre, parce que par construction sociale, les hommes sont plus enclins à postuler à des postes pour lesquels ils n'ont pas toutes les compétences, là où les femmes vont plus facilement se remettre en question et douter d'elles-mêmes ;
-3. des juniors formé·es dans des entreprises qui ne voulaient pas d'elleux, qui finissent par partir dès que leur séniorité leur permet, ce qui ne fait que confirmer au marché qu'intégrer et former un·e junior n'est pas rentable.
+3. des juniors formé·es dans des entreprises qui ne voulaient pas d'elleux, qui finissent par partir dès que leur séniorité leur permet, ce qui ne fait que confirmer au marché qu'intégrer et former un·e junior n'est pas rentable ;
+4. et qui va remplacer ce ou cette développeuse senior, à votre avis ? La boucle est bouclée.
 
 Les solutions pour s'en sortir : assumer des fiches de postes adaptées. Proposer par exemple des postes alternatifs permettant d'entrer dans le dev et d'y gagner de l'expertise sans en faire à temps plein (exemple avec cette fiche pour un [Junior Data Consultant](https://jobs.lever.co/contentsquare/8e891be2-f21c-44dc-9514-a9551c08d010?lever-via=Jk4USoE9Eg), ce qui n'est pas très éloigné de ce par quoi j'ai commencé chez Microsoft).
 
