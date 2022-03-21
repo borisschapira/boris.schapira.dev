@@ -19,7 +19,7 @@ As part of Volunteer Day, some of my colleagues take time to collect funds or it
 Most of us won't do this for just one day a year.
 But knowing that the company supports us and decides to maintain our pay for one of these days is a very strong sign of responsibility and commitment to the #community, but also to each member of the CSquad.
 
-That's not all. @Contentsquare has also bootstrapped a Gift Matching Program to amplify CSquad's donations. 
+That's not all. Contentsquare has also bootstrapped a Gift Matching Program to amplify CSquad's donations. 
 I decided to donate €200 to [UNHCR, the UN Refugee Agency](https://www.unhcr.org/fr/). Contentsquare matched that donation 1:1, giving another €200.
 
 I'm so grateful and I just wanted to say it. 🙏
