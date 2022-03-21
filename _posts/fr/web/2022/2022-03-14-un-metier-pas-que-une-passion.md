@@ -10,6 +10,7 @@ Développeurs et développeuses juniors : vos formations, [courtes ou longues](/
 Un travail de développement, c'est :
 
 * un ensemble de compétences techniques
+* de la formation pour en acquérir de nouvelles
 * dans un cadre métier
 * avec des délais à respecter ou, en tout cas, à définir
 * au sein de gouvernances à comprendre (qui décide de quoi, en informe qui, comment…)
