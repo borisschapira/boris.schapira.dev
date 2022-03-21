@@ -8,12 +8,14 @@ serie: Trouver un stage ou une alternance
 ---
 Développeurs et développeuses juniors : vos formations, [courtes ou longues](/notes/2021-01-les-formations-courtes/), ne vous rendent pas autonomes et prêtes à accueillir n'importe quel défi. Et ça tombe bien, ce n'est pas le rôle de la formation initiale que de faire sortir des promotions entières de personnes immédiatement compétentes sur un projet exigeant.
 
-Un travail de développement, c'est :
+Penser que vous pouvez être passionné·e de code et que cela suffit à en faire un métier : c'est beau, mais c'est très incomplet. Si vous vous arrêtez là, c'est un hobby.
+
+Pour que ça devienne un métier, il faut cela soit :
 
 * un ensemble de compétences techniques
 * de la formation pour en acquérir de nouvelles
-* dans un cadre métier
-* avec des délais à respecter ou, en tout cas, à définir
+* un cadre métier dans un contexte (légal, structurel, conjoncturel, géographique, etc.)
+* avec des triptiques délais/périmètres/coût à respecter ou, en tout cas, à définir
 * au sein de gouvernances à comprendre (qui décide de quoi, en informe qui, comment…)
 * avec le bon jargon
 * utilisé lors de pratiques culturelles éventuellement historiques ayant un rôle social dans l'organisation
