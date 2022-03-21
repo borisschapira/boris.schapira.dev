@@ -1,22 +1,10 @@
 ---
-tags: []
-cloudinary_logo: []
 title: Volontariat
-slug: ''
-description: ''
-load_twitter_wjs: false
-thumbnail_background: ''
-serie: ''
-last_modified_at: 
+slug: volontariat
 translated: true
 i18n-key: volunteer-day
 translations:
-  fr: ''
   en: volunteer-day
-repost_: false
-canonical: ''
-canonical_title: ''
-
 ---
 Vendredi, je vais apprendre à des gens à se servir d'ordinateurs. On ne parlera pas de programmation, juste de comment faire des trucs de base avec des fichiers et un tableur.
 
