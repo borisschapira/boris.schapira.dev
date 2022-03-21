@@ -37,6 +37,8 @@ Parce que notre domaine a un problème structurel avec l'idée de supporter le c
 
 On se retrouve donc à devoir former en interne, ce qui est long, et cher. Comme le marché est très tendu chez les développeurs et développeuses expérimenté·es, ce sont des juniors qui sont finalement recruté·es et formé·es alors qu'ils et elles ne correspondent souvent qu'à 30 % du périmètre de l'offre publiée.
 
+<p class="emphasis"><strong>Juniors</strong> : maintenant que vous savez ça, vous savez que si un poste vous plait, vous pouvez postuler. Peu importe que vous ayez toutes les compétences. Passez des entretiens, beaucoup. Soyez prêt·es à être rejeté·e : ça arrivera, et ça ne voudra rien dire sur vous. À la fin, vous aurez engendré de l'expérience, c'est tout ce qui compte.</p>
+
 Cela créé énormément de problèmes :
 
 1. un sentiment d'imposture chez les salarié·es qui se traduit pas un manque de confiance dans la structure employeuse (et l'absence d'envie d'y faire carrière) ;
