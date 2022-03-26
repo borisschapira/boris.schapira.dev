@@ -178,12 +178,16 @@
   }
 
   .web & {
-    .db-logo {
+    .cs-logo {
+      display: block;
+    }
+
+    .bs-hoodie {
       display: block;
     }
 
     .shirt {
-      fill: #1a252f;
+      fill: #f2f2F2;
     }
   }
 
@@ -196,6 +200,10 @@
     .bs-hoodie,
     .blue-hair {
       display: block;
+    }
+
+    .hoodie-color {
+
     }
   }
 }
