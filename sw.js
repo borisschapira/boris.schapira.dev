@@ -5864,7 +5864,7 @@ registerRoute_registerRoute(/^https:\/\/analytics\.schapira\.dev/, new NetworkOn
 cleanupOutdatedCaches(); // default strategy
 
 setDefaultHandler(new StaleWhileRevalidate({
-  cacheName: 'bsc-c3po',
+  cacheName: 'bsc-c6po',
   plugins: [new BroadcastUpdatePlugin()]
 })); // specialized strategies
 
