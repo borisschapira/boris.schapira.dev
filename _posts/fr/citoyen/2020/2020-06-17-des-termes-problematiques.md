@@ -10,7 +10,7 @@ _Je ne suis pas linguiste ni concerné·e, ceci n'est qu'une opinion située._
 
 ---
 
-<strong id="p1">1.</strong> Chaque communauté a son vocabulaire. Des termes et des constructions apparaissent ou tombent en désuétude suivant les époques. Le français que nous parlons aujourd'hui n'a rien à voir avec celui d'il y a 200 ans. Si nous avons un jour créé des termes ou des grammaires, nous pouvons en créer de nouveaux et en réhabiliter des anciens sans problème. La langue est **vivante**.
+<strong id="p1">1.</strong> Chaque communauté a son vocabulaire. Des termes et des constructions apparaissent ou tombent en désuétude suivant les époques. Le français que nous parlons aujourd'hui n'a rien à voir avec celui d'il y a 200 ans. Si nous avons un jour créé des termes ou [des grammaires](/notes/2017-10-mon-propre-guide-d-ecriture-inclusive/), nous pouvons en créer de nouveaux et en réhabiliter des anciens sans problème. La langue est **vivante**.
 
 ---
 
@@ -54,7 +54,7 @@ Dis autrement : dans la mesure où la sémantique ne peut être séparé de la p
 
 <strong id="p8">8.</strong> Je ne pense pas qu'il s'agisse d'une forme inversée de domination des personnes affectées par le problème envers les personnes à qui ont demande faire un effort.
 
-Les personnes à qui on demande de faire l'effort resteront, qu'elles fassent l'effort ou non, les plus privilégiées et/ou les moins discriminées (suivant comment vous souhaitez voir les choses).
+Les personnes à qui on demande de faire l'effort resteront, qu'elles fassent l'effort ou non, [les plus privilégiées](/notes/2019-10-privileges/) et/ou les moins discriminées (suivant comment vous souhaitez voir les choses).
 
 ---
 
