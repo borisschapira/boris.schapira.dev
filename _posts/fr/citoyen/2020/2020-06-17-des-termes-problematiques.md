@@ -6,31 +6,35 @@ last_modified_at: 2021-07-08
 
 Quelques réflexions, les plus générales possibles, concernant l'usage de certains termes historiques. Expressions anciennes, jurons, jargons explicites ou faisant des références homophobes, sexistes, racistes, validistes, etc.
 
-_Je ne suis pas linguiste ni concerné, ceci n'est qu'une opinion située._
+_Je ne suis pas linguiste ni concerné·e, ceci n'est qu'une opinion située._
 
 ---
 
-<strong id="p1">1.</strong> Chaque communauté a son vocabulaire. Des termes et des constructions apparaissent ou tombent en désuétude suivant les époques. Le français que nous parlons aujourd'hui n'a rien à voir avec celui d'il y a 200 ans. Si nous avons un jour créé des termes, nous pouvons en créer de nouveaux et en réhabiliter des anciens sans problème. La langue est vivante.
+<strong id="p1">1.</strong> Chaque communauté a son vocabulaire. Des termes et des constructions apparaissent ou tombent en désuétude suivant les époques. Le français que nous parlons aujourd'hui n'a rien à voir avec celui d'il y a 200 ans. Si nous avons un jour créé des termes ou des grammaires, nous pouvons en créer de nouveaux et en réhabiliter des anciens sans problème. La langue est **vivante**.
 
 ---
 
 <strong id="p2">2.</strong> Ce qui nous interroge souvent, c'est l'émergence du caractère problématique d'un ou de termes dans notre quotidien. Après tout, nous n'y faisions pas attention avant ! Pourquoi s'en soucier aujourd'hui ? Cette question créée de la curiosité, ou de l'agacement. Je ne sais pas encore ce qui provoque l'un ou l'autre.
 
-Parfois, ce n'est pas aussi tranché. L'émotion est complexe. Elle incite à prendre du recul pour être analysée. Je crois qu'on appelle ça douter, et je pense que c'est une bonne chose quand ça invite à rester silencieux et à mûrir une réflexion.
+Parfois, ce n'est pas aussi tranché. On peut être agacé·e **et** curieux·se. On peut être sur la défensive **et** vouloir en savoir plus. L'émotion est complexe et incite à prendre du recul pour être analysée. Il faut parfois du temps, et de multiples frictions pour que la réflexion démarre. On appelle ça douter, et je pense que c'est une bonne chose quand ça invite à rester silencieux et à attendre, voire à mûrir une réflexion. On vous en voudra rarement de vous taire.
 
 ---
 
-<strong id="p3">3.</strong> Changer les termes est une manière de transformer le réel, car les mots ont une force symbolique et peuvent être les vecteurs d'oppressions. Est-ce que changer le vocabulaire est la seule manière de transformer le réel ? Je ne pense pas. Mais rien n'empêche de multiplier les moyens d'actions. On n'est pas obligés de choisir, de tout le temps hiérarchiser ses luttes.
+<strong id="p3">3.</strong> Changer les termes est une manière de transformer le réel, car les mots ont une force symbolique. Ils peuvent être des vecteurs d'oppressions comme des instruments de libération. Est-ce que changer le vocabulaire est la seule manière de transformer le réel ? Je ne pense pas. Mais rien n'empêche de multiplier les moyens d'actions sans hiérarchiser entre le symbolique et le concret en permanence.
 
-Est-ce qu'on va arrêter de lutter contre la discrimination à l'embauche, les violences sur faites aux femmes et le tabou autour des maladies mentales parce que le vocabulaire change ? Non. Mais si on ne fait rien, on ne changera rien non plus. Changer le vocabulaire est un signal symbolique, mais un signal quand même en direction des populations concernées.
-
----
-
-<strong id="p4">4.</strong> De la même manière que les statues représentent des marqueurs du passé dans l'espace public, certains termes représentent ce passé dans l'espace linguistique. Je comprends qu'on puisse s'y attacher et vouloir les préserver, mais il y a des dictionnaires pour cela, qui peuvent rendre hommage à l'étymologie d'un terme, sa polysémie, le contexte social et politique de son usage. C'est tout le rôle d'un dictionnaire : documenté le vocabulaire en usage (et pas le normaliser, comme certain·es voudraient nous faire croire).
+Est-ce qu'on va arrêter de lutter contre la discrimination à l'embauche, les violences faites aux femmes et le tabou autour des maladies mentales parce que le vocabulaire change ? Non, probablement pas. Mais si on ne fait rien, on ne changera rien non plus. Changer le vocabulaire est un signal. C'est symbolique, mais c'est déjà beaucoup pour les populations concernées et ça participe à l'éducation des autres.
 
 ---
 
-<strong id="p5">5.</strong> Ce n'est pas un problème de **morale**, c'est **une question politique**. Il s'agit de changer la société pour qu'elle arrête d'affecter la vie de celles et ceux qui souffrent d'une discrimination et favoriser celles et ceux qui n'en souffrent pas. Pas de faire culpabiliser quelques personnes ou de demander des excuses.
+<strong id="p4">4.</strong> De la même manière que les statues représentent des marqueurs du passé dans l'espace public, certains termes ou constructions mentales représentent ce passé dans l'espace linguistique. Je comprends qu'on puisse s'y attacher et vouloir les préserver dans les mémoires. Il y a des dictionnaires pour cela, qui peuvent rendre hommage à l'étymologie d'un terme, sa polysémie, le contexte social et politique de son usage. C'est tout le rôle d'un dictionnaire : documenter le vocabulaire en usage (et pas le normaliser, comme certain·es voudraient nous faire croire).
+
+Est-ce qu'on utilise, pour autant, tous les mots du dictionnaire ? Non. Certains tombent en désuétude, et ce n'est pas bien grave.
+
+---
+
+<strong id="p5">5.</strong> Ce n'est pas un problème de **morale**, c'est une question **politique**. Il s'agit de changer la société pour qu'elle arrête d'affecter la vie de celles et ceux qui souffrent d'une discrimination et de favoriser celles et ceux qui n'en souffrent pas. À titre individuel et en privé, vous avez parfaitement le droit d'utiliser des termes problématiques. Par méconnaissance, inculture, parce que vous en avez l'habitude, parce que leur côté transgressif vous amuse ou parce que sous le coup de l'émotion, c'est un réflexe… J'ai par exemple beaucoup de mal à me passer de "putain", utilisé comme une interjection, quand je marche sur un Lego à 3h du matin, et je ne pense pas être le seul.
+
+Mais ça ne me viendrait pas à l'idée d'utiliser ce mot ou n'importe quel autre de sa famille en public, à destination d'une personne. Je sais quel impact il pourrait avoir sur la personne qui le reçoit et je sais qu'il véhicule des préjugés sur les travailleuses du sexe avec lesquels je suis en désaccord.
 
 ---
 
