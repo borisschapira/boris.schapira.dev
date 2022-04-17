@@ -31,3 +31,7 @@ Son frère de 11 ans arrive. Je lui demande donc ce qu'il ferait s'il était Pr�
 – Avec moi on dirait : "Ça… rkozy ! C'est rigolo ! On a dit ça l'autre jour, et c'était super. Je voudrais qu'on dise ça tout le temps."  
 – Mais tu peux pas, c'est déjà le nom d'une personne, ça ! Un ancien président, même.  
 – Ah ben super, il sera content, on dira son nom tout le temps !
+
+Nous avons ensuite fini la conversation avec le petit. Sa solution est simple : “à chaque fois que quelqu’un dit des trucs racistes, il doit faire des cookies aux personnes concernées pour se faire pardonner”.
+
+Zemmour peut se reconvertir en boulanger.
