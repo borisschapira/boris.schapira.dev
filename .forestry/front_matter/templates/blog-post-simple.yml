@@ -5,13 +5,6 @@ fields:
 - type: text
   name: title
   label: Title
-- type: text
-  name: slug
-  label: Slug
-- name: tags
-  type: tag_list
-  default: []
-  label: Tags
 pages:
 - _posts/fr/citoyen/2022/2022-02-27-le-petit-geste-du-quotidien.md
 - _posts/fr/papa/2021/2021-07-31-de-cable.md
