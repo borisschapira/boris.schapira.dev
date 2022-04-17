@@ -1,6 +1,5 @@
 ---
 title: Moi, Président
-published: false
 
 ---
 J'ai demandé au garçons ce qu'ils feraient s'ils devenaient s'ils devenaient Présidents. Pour le petit de 9 ans :
