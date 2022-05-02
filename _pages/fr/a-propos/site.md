@@ -13,7 +13,7 @@ Si vous souhaitez copier, modifier ou redistribuer certains contenus, vous devez
 
 ## Sous le capot
 
-Spécialisé en Web Performance depuis quelques années, j'ai décidé un jour de ne pas être le cordonnier mal chaussé. Depuis, dans une saine compétition avec mon ex-collègue [Nicolas Hoizey](http://nicolas-hoizey.com/), je n'ai jamais cessé d'améliorer les performances web du site.lancés sur ce site").
+Spécialisé en Web Performance depuis quelques années, j'ai décidé un jour de ne pas être le cordonnier mal chaussé. Depuis, dans une saine compétition avec mon ex-collègue [Nicolas Hoizey](http://nicolas-hoizey.com/), je n'ai jamais cessé d'améliorer les performances web du site.
 
 ### Côté serveur
 
