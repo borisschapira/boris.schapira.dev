@@ -13,7 +13,7 @@ If you wish to copy, modify or redistribute certain content, you must comply wit
 
 ## Under the hood
 
-Specialized in Web Performance for a few years, I decided one day not to be the barefoot cobbler. Since then, in a healthy competition with my former colleague[Nicolas Hoizey](http://nicolas-hoizey.com/), I've never ceased to improve the web performance of the website.
+Specialized in Web Performance for a few years, I decided one day not to be the barefoot cobbler. Since then, in a healthy competition with my former colleague[Nicolas Hoizey](https://nicolas-hoizey.com/), I've never ceased to improve the web performance of the website.
 
 ### Server side
 
