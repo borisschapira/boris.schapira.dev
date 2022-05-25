@@ -19,7 +19,7 @@ Une de mes passions, c'est de comprendre les mécaniques de création de valeur 
 
 D'un point de vue plus personnel, je suis Papa de deux formidables garçons [dont je parle souvent](/community/mon-pire-client-a-cinq-ans/ 'Mon pire client a cinq ans | Boris Schapira') et qui me ravissent par [leurs anecdotes croustillantes](/papa/). Leur mère, l'amour de ma vie est une princesse qui écrit [des articles de RH](https://libelilou.github.io/ 'Princesse RH'). Les problématiques sociales et sociétales me tiennent à cœur, notamment celles qui concernent l'Égalité.
 
-J'aime les chocolatines[^choc] le matin, une pizza à midi et un énorme câlin avec mes deux garçons et ma femme le soir. Je n'aime pas les discussions qui n'avancent pas, les processus qui les favorisent et les choux fleurs.
+J'aime les chocolatines[^choc] le matin, une pizza à midi et un énorme câlin avec mes deux garçons et ma femme le soir. Je n'aime pas les discussions qui n'avancent pas, les processus qui les favorisent et les choux-fleurs.
 
 [^choc]: Mais si vous appelez ça autrement, c'est bien aussi.
 [^1]: Mon CV complet est disponible [sur LinkedIn](https://www.linkedin.com/in/borisschapira/?locale=fr_FR 'CV de Boris SCHAPIRA sur LinkedIn')
