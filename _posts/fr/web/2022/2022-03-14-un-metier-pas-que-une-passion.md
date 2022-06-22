@@ -52,6 +52,6 @@ Les solutions pour s'en sortir : assumer des fiches de postes adaptées. Propose
 
 Mais également, [imaginer et proposer des <span lang="en">Graduate Programs</span>](https://www.letudiant.fr/etudes/qu-est-ce-qu-un-graduate-program.html), qui sont des formations proposées par les entreprises (et financées en dehors de budgets de financement classiques) qui permettent aux recrues d'arriver au niveau de compétence désiré par l'entreprise.
 
-Oui, pour une entreprise, ça coûte cher. Mais combien ça coûte, aujourd'hui, de recruter une personne dont le niveau de productivité n'est pas celui attendu et de devoir, à l'arrache, produire les éléments nécessaire à le ou la voir grandir tout en regardant cette personne partir à la fin.
+Oui, pour une entreprise, ça coûte cher. Mais combien ça coûte, aujourd'hui, de recruter une personne dont le niveau de productivité n'est pas celui attendu et de devoir, à l'arrache, produire les éléments nécessaire à le ou la voir grandir tout en regardant cette personne partir à la fin ?
 
 Il n'y a pas de secret, dans le recrutement comme ailleurs : si vous voulez un retour sur investissement, commencez par investir.
