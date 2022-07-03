@@ -2,7 +2,7 @@
 title: 'Du vin de pirates'
 ---
 
-Je me sers un rhum vieux. Comme ils sont curieux, je leur fais sentir. Ayant un très (très) bon odorat, je suis toujours amusé de tester celui des autres. Le grand me dit qu'il reconnait l'odeur.
+Je me sers un rhum vieux. Comme ils sont curieux, je leur fais sentir. Ayant [un très (très) bon odorat](/notes/2022-07-odorat/), je suis toujours amusé de tester celui des autres. Le grand me dit qu'il reconnait l'odeur.
 
 <!-- more -->
 
