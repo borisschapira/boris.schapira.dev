@@ -1,8 +1,8 @@
 ---
 title: 'Stage "Développeur" : 3 rappels pour préparer votre entretien'
 tags:
-    - 'Trouver un stage ou une alternance'
-serie: 'Trouver un stage ou une alternance'
+    - 'Premières emb(a)uches'
+serie: 'Premières emb(a)uches'
 slug: stage-dveloppeur-3-rappels-pour-prparer-votre-entretien
 ---
 

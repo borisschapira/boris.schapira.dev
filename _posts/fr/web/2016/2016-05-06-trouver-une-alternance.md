@@ -1,8 +1,8 @@
 ---
 title: 'Trouver une alternance'
 tags:
-    - 'Trouver un stage ou une alternance'
-serie: 'Trouver un stage ou une alternance'
+    - 'Premières emb(a)uches'
+serie: 'Premières emb(a)uches'
 ---
 
 En tant qu'intervenant dans une école post-BAC, je suis sollicité par de nombreux étudiants en recherche d'une alternance. Je vais essayer de centraliser ici les retours que je leur fais :

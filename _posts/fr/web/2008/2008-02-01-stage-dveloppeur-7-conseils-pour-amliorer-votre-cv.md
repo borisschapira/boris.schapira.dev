@@ -1,8 +1,8 @@
 ---
 title: 'Stage "Développeur" : 7 conseils pour améliorer votre CV'
 tags:
-    - 'Trouver un stage ou une alternance'
-serie: 'Trouver un stage ou une alternance'
+    - 'Premières emb(a)uches'
+serie: 'Premières emb(a)uches'
 ---
 
 1.  Privil&#233;giez les **en-t&#234;tes concis et lisible**. N'&#233;crivez pas en tout petit les informations capitales que sont vos nom, pr&#233;nom, t&#233;l&#233;phone et email.

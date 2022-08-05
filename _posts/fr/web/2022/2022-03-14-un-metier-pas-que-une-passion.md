@@ -2,8 +2,8 @@
 title: Un métier, pas qu'une passion
 slug: un-metier-pas-que-une-passion
 tags:
-- Trouver un stage ou une alternance
-serie: Trouver un stage ou une alternance
+- Premières emb(a)uches
+serie: Premières emb(a)uches
 
 ---
 Développeurs et développeuses juniors : vos formations, [courtes ou longues](/notes/2021-01-les-formations-courtes/), ne vous rendent pas autonomes et prêt·es à accueillir n'importe quel défi. Et ça tombe bien, ce n'est pas le rôle de la formation initiale que de faire sortir des promotions entières de personnes immédiatement compétentes sur un projet exigeant.

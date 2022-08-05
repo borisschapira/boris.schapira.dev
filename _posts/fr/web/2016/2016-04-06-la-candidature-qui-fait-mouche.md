@@ -1,8 +1,8 @@
 ---
 title: 'La candidature qui fait mouche'
 tags:
-    - 'Trouver un stage ou une alternance'
-serie: 'Trouver un stage ou une alternance'
+    - 'Premières emb(a)uches'
+serie: 'Premières emb(a)uches'
 ---
 
 De biens bons conseils pour tous les étudiants qui peaufinent actuellement leurs CVs. Qui sait, peut-être pour venir nous voir [chez Clever Age Bordeaux](https://www.clever-age.com/fr/carriere/#jobs-panel) ?
