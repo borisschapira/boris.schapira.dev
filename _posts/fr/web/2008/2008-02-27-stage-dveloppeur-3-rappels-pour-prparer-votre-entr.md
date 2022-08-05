@@ -1,5 +1,5 @@
 ---
-title: 'Stage "Développeur" : 3 rappels pour préparer votre entretien'
+title: '3 rappels pour préparer votre entretien'
 tags:
     - 'Premières emb(a)uches'
 serie: 'Premières emb(a)uches'

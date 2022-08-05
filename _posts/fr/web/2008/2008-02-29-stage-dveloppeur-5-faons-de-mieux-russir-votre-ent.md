@@ -1,5 +1,5 @@
 ---
-title: 'Stage "Développeur" : 5 façons de mieux réussir votre entretien'
+title: '5 façons de mieux réussir votre entretien'
 tags:
     - 'Premières emb(a)uches'
 serie: 'Premières emb(a)uches'

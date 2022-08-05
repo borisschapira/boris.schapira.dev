@@ -1,5 +1,6 @@
 ---
-title: 'Stage "Développeur" : 7 conseils pour améliorer votre CV'
+title: '7 conseils pour améliorer votre CV'
+slug: 'stage-dveloppeur-7-conseils-pour-amliorer-votre-cv'
 tags:
     - 'Premières emb(a)uches'
 serie: 'Premières emb(a)uches'
