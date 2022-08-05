@@ -1,8 +1,5 @@
 ---
 title: Le meilleur
-slug: ''
-tags: []
-
 ---
 Discussion avec mon petit de 8 ans :
 
