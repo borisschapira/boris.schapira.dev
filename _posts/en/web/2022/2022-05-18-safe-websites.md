@@ -4,7 +4,7 @@ tags:
     - Client-side Errors
 ---
 
-Today, I audited three very recent sites.
+Today, I audited four very recent sites.
 
 - one had a server time of ~6 seconds for each resource
 - another had lots of front-end components and absolutely no Server-Side Rendering (SSR)
