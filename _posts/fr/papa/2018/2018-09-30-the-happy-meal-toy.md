@@ -40,4 +40,4 @@ caption=caption_text
 
 > Ah mais oui ! Tu dis rien parce que tu peux pas prendre un Happy Meal ! C'est vrai que c'est que pour les petits, le Happy Meal. Du coup, comme toi t'es grand, tu devrais prendre un autre truc avec, sinon tu vas avoir vraiment faim.
 
-Sur ce, satisfait, il leur lance un "Bonne soirée !" et me prend la main, signe qu'il a fini et est prêt à partir. Nous avons rejoint notre véhicule et sommes rentrés à la maison. Je crois que j'ai entendu la jeune femme rire à gorge déployée jusqu'à ce qu'on quitte le parking.<>
+Sur ce, satisfait, il leur lance un "Bonne soirée !" et me prend la main, signe qu'il a fini et est prêt à partir. Nous avons rejoint notre véhicule et sommes rentrés à la maison. Je crois que j'ai entendu la jeune femme rire à gorge déployée jusqu'à ce qu'on quitte le parking.
