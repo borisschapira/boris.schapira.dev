@@ -14,7 +14,8 @@ translations:
 The usual web performance metrics (First Byte, Speed Index…) are very interesting but I often need to add custom temporal markers, based on events that make sense from a business point of view, like:
 
 - the moment a specific content or feature is available to users
-- the beginning and end of the display of a loading animation
+- the beginning and end of the display of a loading animation (useful in complex funnels!)
+- in a page broken down into components retrieving their content from an API, the specific display times of each component
 - …
 
 <!-- more -->
