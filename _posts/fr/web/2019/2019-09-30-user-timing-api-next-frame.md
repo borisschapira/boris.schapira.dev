@@ -13,9 +13,13 @@ translations:
 
 Les indicateurs habituels de performance web (Premier Octet, Speed Index...) sont très intéressants mais j'ai souvent besoin d'ajouter des marqueurs temporels personnalisés, basés sur des événements qui ont un sens du point de vue métier.
 
+- le moment où un contenu (ou une fonctionnalité) spécifique est disponible pour les utilisateurs·ices
+- le début et la fin de l'affichage d'une animation de chargement
+- …
+
 <!-- more -->
 
-J'utilise la User Timing API ([voir sur <abbr title="Mozilla Developer Network" lang="en">MDN</abbr> [EN]](https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API)) pour insérer des <i lang="en">timings</i> dans la <i lang="en">performance timeline</i> du navigateur. Comme on peut récupérer tous ces indicateurs dans Dareboost, je peux ensuite [surveiller leur évolution sur la durée](https://blog.dareboost.com/fr/2018/05/monitoring-custom-timings/).
+J'utilise la User Timing API ([voir sur <abbr title="Mozilla Developer Network" lang="en">MDN</abbr> [EN]](https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API)) pour insérer des <i lang="en">timings</i> dans la <i lang="en">performance timeline</i> du navigateur. Comme on peut récupérer tous ces indicateurs dans Dareboost ou Contentsquare Speed Analysis, je peux ensuite [surveiller leur évolution sur la durée](https://blog.dareboost.com/fr/2018/05/monitoring-custom-timings/).
 
 {% capture img_alt %}Deux courbes dans un graphique. Sur l'axe des abscisses, une période d'un mois. Sur l'axe des Y, le temps entre 0 et 3 s. La courbe orange indique la valeur du marqueur "mark_declare_js_end" tandis que la courbe verte correspond au marqueur "mark_switchlang_end".{% endcapture %} {% capture img_caption %}Quelques <i lang="en">Custom Timings</i> issus de ce site{% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2019-09-30/custom-timings-dareboost.png"
