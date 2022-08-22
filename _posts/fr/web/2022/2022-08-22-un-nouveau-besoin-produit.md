@@ -17,7 +17,7 @@ Comment il mène l'étape de découverte du besoin,
 Ce que d'autres utilisateurs et utilisatrices veulent entendre
 Ce qu'ils entendent,  
 Ce qu'ils comprennent,  
-Ce qu'ils expriments,  
+Ce qu'ils expriment,  
 Ce que les designers veulent entendre,  
 Ce qu'ils entendent,  
 Ce qu'ils comprennent,  
