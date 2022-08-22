@@ -1,7 +1,5 @@
 ---
 title: Un nouveau besoin sur le Produit
-tags:
-    - humour
 translations:
     en: a-new-product-feedback
 ---
