@@ -6,15 +6,15 @@ translations:
 
 Quand je remonte un besoin pouvant donner lieu à une amélioration du produit :
 
-Entre ce que je pense, 
-Ce que je veux dire, 
-Ce que je crois dire, 
-Ce que je dis, 
+Entre ce que je pense,  
+Ce que je veux dire,  
+Ce que je crois dire,  
+Ce que je dis,  
 Ce que le département Produit a envie d'entendre,  
 Ce qu'il entend,  
 Ce qu'il comprend,  
 Comment il mène l'étape de découverte du besoin,  
-Ce que d'autres utilisateurs et utilisatrices veulent entendre
+Ce que d'autres utilisateurs et utilisatrices veulent entendre,  
 Ce qu'ils entendent,  
 Ce qu'ils comprennent,  
 Ce qu'ils expriment,  
