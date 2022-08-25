@@ -4,6 +4,7 @@ layout: microtypo
 <!DOCTYPE html>
 <html lang="{{ page.locale | default: site.locale | default: "fr" }}">
   <head>
+    <script>performance && performance.mark('mark-head-start');</script>
     <!-- nomicrotypo -->
 
     <meta charset="utf-8" />
@@ -154,6 +155,15 @@ layout: microtypo
 
     <script src="{% include assets/js.html.liquid name='index.min' %}" defer></script>
     <script src="{% include assets/js.html.liquid name='navigation.min' %}" defer></script>
+
+    <script>
+      (function(){
+        if(!!performance) return;
+        performance.mark('mark-head-end');
+        performance.measure('head-time', 'mark-head-start', 'mark-head-end');
+        console.log({performance.getEntriesByName('head-time')[0].duration});
+      })()
+    </script>
   </head>
 
   <body>
