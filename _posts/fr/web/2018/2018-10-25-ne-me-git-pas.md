@@ -26,6 +26,6 @@ Où le --force sera chain
 Où master sera main  
 Où tu seras reine  
 
-Ne me git pas
-Ne me git pas
+Ne me git pas  
+Ne me git pas  
 Ne me git pas 🎶
