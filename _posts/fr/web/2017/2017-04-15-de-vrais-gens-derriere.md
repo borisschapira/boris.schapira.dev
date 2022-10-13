@@ -1,5 +1,6 @@
 ---
 title: 'De vrais gens, derrière'
+description: Il existe peut-être encore, quelque part, quelqu’un qui me déteste même s’il ne me connait pas.
 tags:
     - anecdotes
 ---
