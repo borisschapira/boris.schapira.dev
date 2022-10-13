@@ -21,7 +21,11 @@ Agacé de ne pas retrouver son nom, je finis par lui poser la question.
 > — Ah, mais, euh… j'ai fait quelque chose de mal ? J'ai été désagréable avec toi ?  
 > — Non, enfin… sans le savoir. Et encore, c'est pas ta faute. Il y a quelques années, je travaillais dans une société qui produisait des encarts publicitaires et toi chez XXXX, un des plus gros clients de notre régie.  
 > — Oui, c'était un de mes clients. Je m'occupais d'améliorer la performance Web.  
-> — Ça, je ne sais pas. Mais nous recevions des alertes régulières pour des évolutions dans nos formats. Supprimer les `document.write`, améliorer les temps de réponse, réduire des images, ne plus reposer sur des librairies tierces… Pendant plusieurs mois, tous les tickets les plus pénibles portaient ton nom. Quand on en voyait arriver un nouveau, on rigolait jaune. Je crois que j'ai fini par te détester, alors qu'on s'était jamais vu.
+> — Ça, je ne sais pas. Mais nous recevions des alertes régulières pour des évolutions dans nos formats. Supprimer les `document.write`, améliorer les temps de réponse, réduire des images, ne plus reposer sur des librairies tierces…
+
+Il marque un temps d'arrêt et continue :
+
+> Pendant plusieurs mois, tous les tickets les plus pénibles portaient ton nom. Quand on en voyait arriver un nouveau, on rigolait jaune. Je crois que j'ai fini par te détester, alors qu'on s'était jamais vu. On avait trouvé ta photo sur Internet, elle était imprimée et pointée sur le mur. Sur la cible des fléchettes… Désolé.
 
 ---
 
