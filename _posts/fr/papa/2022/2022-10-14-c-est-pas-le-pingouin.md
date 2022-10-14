@@ -11,7 +11,7 @@ Ce soir, avec les garçons, nous avons discuté de la structure très particuli�
 
 Et ça a bien sûr fini, entre le fromage et le dessert, en concours de la meilleure création originale. Voici nos propositions :
 
-- "C'est pas le dresseur le plus fort de l'arène", référence à Pokémon, mais marche aussi en remplaçant "dresseur" par "blader" (pour les Beyblade)
+- "C'est pas le dresseur le plus fort de l'arène", référence à Pokémon, mais marche aussi en remplaçant "dresseur" par "<i lang="en">blader</i>" (pour les Beyblade)
 - "C'est pas le four qui chauffe le plus fort"
 - "C'est pas la guitare qui sonne le mieux"
 - "C'est pas le raisin qui fait l'meilleur vin", que j'aime bien parce que ça rime
