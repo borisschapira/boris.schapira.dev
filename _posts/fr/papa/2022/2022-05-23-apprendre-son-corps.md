@@ -2,7 +2,7 @@
 title: Apprendre son corps
 ---
 
-Je sors du studio DK Danse. Il y a des enfants que je ne connais pas qui s'agitent dans le parking, probablement une sortie scolaire, un atelier de découverte. Un des garçons, 10 ou 11 ans, m'interpelle :
+Je sors du [studio DK Danse](https://dkdanse.fr/). Il y a des enfants que je ne connais pas qui s'agitent dans le parking, probablement une sortie scolaire, un atelier de découverte. Un des garçons, 10 ou 11 ans, m'interpelle :
 
 > – Monsieur, monsieur, vous allez faire **DE LA DANSE** ?  
 > – Euh non, moi je viens pour du Pilates. C'est plus lent. Et puis ça étire. Mais ça pourrait être de la danse, aussi.  
