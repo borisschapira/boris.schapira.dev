@@ -12,18 +12,18 @@ command = "bundle exec rake"
 port = 10443
 publish = "_site"
 
-[[context.production.plugins]]
-package = "netlify-build-plugin-dareboost"
-
-  [context.production.plugins.inputs]
-  monitoringIds = "7134"
-
-    [[context.production.plugins.inputs.configurations]]
-    url = "https://boris.schapira.dev"
-    lang = "en"
-    location = "Paris"
-    isPrivate = "true"
-    visualMetrics = "true"
-
-      [context.production.plugins.inputs.configurations.browser]
-      name = "Chrome"
+# [[context.production.plugins]]
+# package = "netlify-build-plugin-dareboost"
+# 
+#   [context.production.plugins.inputs]
+#   monitoringIds = "7134"
+# 
+#     [[context.production.plugins.inputs.configurations]]
+#     url = "https://boris.schapira.dev"
+#     lang = "en"
+#     location = "Paris"
+#     isPrivate = "true"
+#     visualMetrics = "true"
+# 
+#       [context.production.plugins.inputs.configurations.browser]
+#       name = "Chrome"
