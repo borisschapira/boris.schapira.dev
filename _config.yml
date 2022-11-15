@@ -231,9 +231,8 @@ author:
   url: https://boris.schapira.dev/
   flickr: 'https://flickr.com/borisschapira'
   github: 'https://github.com/borisschapira'
-  twitter: 'https://twitter.com/borisschapira'
-  mastodon: https://framapiaf.org/@borisschapira
-  twitter_username: '@borisschapira'
+  mastodon_perso: https://framapiaf.org/@borisschapira
+  mastodon_pro: https://mastodon.social/@boostmarks
   gravatar: https://www.gravatar.com/avatar/1120e6a8f9ccf0d018775756050abb7a
   linkedin: 'https://linkedin.com/in/borisschapira'
   feed: '/feed.xml'

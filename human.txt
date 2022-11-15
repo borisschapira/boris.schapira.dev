@@ -5,8 +5,8 @@ permalink: /humans.txt
 /* Author */
 Name: Boris Schapira
 Site: https://borischapira.com
-Twitter: @borisschapira
-Location: Made with <3 between Bordeaux & Perigueux, France
+Mastodon: @borisschapira@framapiaf.org
+Location: Made with <3 in Perigueux, France
 
 /* THANKS */
 Many thanks to all the people that have helped me understand 
