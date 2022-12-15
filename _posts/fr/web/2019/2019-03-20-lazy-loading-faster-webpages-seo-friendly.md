@@ -1,14 +1,14 @@
 ---
 title: 'Lazy Loading, des pages web plus rapides sans impact SEO'
 i18n-key: lazy-loading-faster-webpages-seo-friendly
-canonical: 'https://blog.dareboost.com/fr/2019/03/lazy-loading-des-pages-web-plus-rapides-sans-risque-seo/'
-canonical_title: 'le blog de Dareboost'
+canonical: 'https://contentsquare.com/fr-fr/blog/lazy-loading/'
+canonical_title: 'le blog de Contentsquare'
 tags:
     - 'Performance Web'
     - Images
     - SEO
 load_twitter_wjs: true
-cloudinary_logo: dareboost-logo
+cloudinary_logo: contentsquare-logo
 slug: lazy-loading-des-pages-web-plus-rapides-sans-risque-seo
 translations:
     en: lazy-loading-faster-webpages-seo-friendly
