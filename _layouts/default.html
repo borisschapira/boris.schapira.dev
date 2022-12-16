@@ -186,7 +186,8 @@ layout: microtypo
       <a class="skip-main" href="#main">{{ "Aller directement au contenu principal" | t: page.locale }}</a>
       <header class="nav-header">
         <a href="{{ page.baseurl | relative_url }}" class="title">
-          {{ site.title }} <img alt="{{ "Un ruban rose" | t: page.locale }}" title="{{ "Octobre Rose" | t: page.locale }}" src="/assets/images/theme/ribbon.svg" style="height: 2rem;margin-top: 1rem;border: none;">
+          {{ site.title }}
+          {%- comment -%} <img alt="{{ "Un ruban rose" | t: page.locale }}" title="{{ "Octobre Rose" | t: page.locale }}" src="/assets/images/theme/ribbon.svg" style="height: 2rem;margin-top: 1rem;border: none;"> {%- endcomment -%}
         </a>
         <nav>
           <button class="menu-trigger button" aria-controls="main-nav" aria-expanded="false" id="menu-trigger" data-toggle-class="menu-open"
