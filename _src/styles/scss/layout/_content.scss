@@ -1,7 +1,6 @@
 @use 'sass:math';
 
 .page-title {
-  font-family: $title-font-family;
   grid-column: 1 / 13;
   text-align: center;
   background-color: var(--color-main-grayfade);
@@ -61,12 +60,6 @@
       cursor: pointer;
 
       color: var(--main-color);
-      font-family: $default-font-family;
-
-      .save-data &,
-      &.save-data {
-        font-family: $default-font-family-save-data;
-      }
 
       &:hover,
       &:focus {

@@ -8,18 +8,13 @@
   border: 1px solid;
   border-radius: 0.125em;
   box-shadow: 0 0 0.5em 0 var(--color-compliment-text);
-  font: $button-font-style $button-font-weight 1em /#{$default-line-height}
-    $button-font-family;
+  font: $button-font-style $button-font-weight 1em /#{$default-line-height} var(--default-font-family);
   text-align: center;
   text-decoration: none;
   vertical-align: baseline;
   text-transform: lowercase;
   padding: 0 5px;
   @include transition();
-
-  .save-data & {
-    font-family: $button-font-family-save-data;
-  }
 
   color: var(--color-compliment-text);
   background-color: var(--color-main);

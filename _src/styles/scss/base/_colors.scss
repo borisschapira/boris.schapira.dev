@@ -128,8 +128,8 @@ a {
 
   --color-main-background: hsl(
     var(--color-hue),
-    30%,
-    calc(99% - var(--is-dark-mode) * 90%)
+    15%,
+    calc(97% - var(--is-dark-mode) * 90%)
   );
 
   --color-compliment-background: hsl(
@@ -146,8 +146,8 @@ a {
 
   --color-main-grayfade: hsl(
     var(--color-hue),
-    30%,
-    calc(95% - 90% * var(--is-dark-mode))
+    25%,
+    calc(99% - 90% * var(--is-dark-mode))
   );
 
   &.main {
