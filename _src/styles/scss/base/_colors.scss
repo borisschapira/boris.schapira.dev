@@ -147,7 +147,7 @@ a {
   --color-main-grayfade: hsl(
     var(--color-hue),
     25%,
-    calc(99% - 90% * var(--is-dark-mode))
+    calc(90% - 81% * var(--is-dark-mode))
   );
 
   &.main {
