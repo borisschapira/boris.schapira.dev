@@ -65,7 +65,7 @@
     display: flex;
     grid-column: 1 / 10;
     line-height: 4rem;
-    font-size: 6vw;
+    font-size: 2em;
 
     @include media('>=large') {
       font-size: 1.3em;
