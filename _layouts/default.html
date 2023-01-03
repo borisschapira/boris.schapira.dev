@@ -205,7 +205,7 @@ layout: microtypo
       <div class="page-title"><h1>{{ page.title | default: pageTitle }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>{% if page.layout=='post'%}<div class="meta"><time class="dt-published" datetime="{{ datetime }}">{% unless page.locale =='fr' %}{% include date_en.html.liquid postDate=page.date locale=page.locale %}{% else %}{{ page.date | l: '%-d %B %Y', page.locale }}{% endunless %}</time>{% if page.serie %}<span><a href="/tag/{{ page.serie | slugify }}">{{ page.serie }}</a></span>{% endif %}{% if page.translation %}<span>{% include read_in.html.liquid
         format="verbose"
         locale=page.translation.locale
-        url=page.translation.url %}</span>{% endif %}<span class="webshare"><button aria-label="{{ "partager" | t: page.locale }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 483 483">
+        url=page.translation.url %}</span>{% endif %}<span class="webshare" data-title="{{ pageTitle }}" data-text="by Boris Schapira"><button aria-label="{{ "partager" | t: page.locale }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 483 483">
             <title>{{ "partager" | t: page.locale }}</title>
             <path d="M396 0c-48 0-88 39-88 87l1 6-161 76A87 87 0 000 232a87 87 0 00129 77l70 58a87 87 0 0083 116 87 87 0 10-42-164l-70-59c3-9 5-18 5-28l-1-6 161-76a87 87 0 00148-63c0-48-39-87-87-87z"/>
           </svg></button></span></div>{% endif %}</div>
