@@ -53,6 +53,7 @@
 .nav-header {
   font-family: var(--default-font-family);
   font-size: clamp(16px, 1.7vw, 22px);
+  font-weight: bold;
   position: relative;
   @extend %main-grid;
 
