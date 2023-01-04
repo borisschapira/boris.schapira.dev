@@ -8,7 +8,7 @@
 
 // @ts-ignore
 try {
-    self['workbox:broadcast-update:6.2.4'] && _();
+    self['workbox:broadcast-update:6.5.3'] && _();
 }
 catch (e) { }
 
@@ -21,7 +21,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:cacheable-response:6.2.4'] && _();
+    self['workbox:cacheable-response:6.5.3'] && _();
 }
 catch (e) { }
 
@@ -34,7 +34,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:core:6.2.4'] && _();
+    self['workbox:core:6.5.3'] && _();
 }
 catch (e) { }
 
@@ -47,7 +47,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:expiration:6.2.4'] && _();
+    self['workbox:expiration:6.5.3'] && _();
 }
 catch (e) { }
 
@@ -60,7 +60,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:precaching:6.2.4'] && _();
+    self['workbox:precaching:6.5.3'] && _();
 }
 catch (e) { }
 
@@ -73,7 +73,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:range-requests:6.2.4'] && _();
+    self['workbox:range-requests:6.5.3'] && _();
 }
 catch (e) { }
 
@@ -86,7 +86,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:routing:6.2.4'] && _();
+    self['workbox:routing:6.5.3'] && _();
 }
 catch (e) { }
 
@@ -99,7 +99,7 @@ catch (e) { }
 
 // @ts-ignore
 try {
-    self['workbox:strategies:6.2.4'] && _();
+    self['workbox:strategies:6.5.3'] && _();
 }
 catch (e) { }
 
@@ -147,7 +147,9 @@ var _version = __webpack_require__(913);
   https://opensource.org/licenses/MIT.
 */
 
-const logger_logger = ( true ? null : 0);
+const logger_logger = ( true
+    ? null
+    : 0);
 
 
 ;// CONCATENATED MODULE: ./node_modules/workbox-core/models/messages/messages.js
@@ -164,182 +166,183 @@ const messages_messages = {
         if (!paramName || !validValueDescription) {
             throw new Error(`Unexpected input to 'invalid-value' error.`);
         }
-        return `The '${paramName}' parameter was given a value with an ` +
+        return (`The '${paramName}' parameter was given a value with an ` +
             `unexpected value. ${validValueDescription} Received a value of ` +
-            `${JSON.stringify(value)}.`;
+            `${JSON.stringify(value)}.`);
     },
     'not-an-array': ({ moduleName, className, funcName, paramName }) => {
         if (!moduleName || !className || !funcName || !paramName) {
             throw new Error(`Unexpected input to 'not-an-array' error.`);
         }
-        return `The parameter '${paramName}' passed into ` +
-            `'${moduleName}.${className}.${funcName}()' must be an array.`;
+        return (`The parameter '${paramName}' passed into ` +
+            `'${moduleName}.${className}.${funcName}()' must be an array.`);
     },
-    'incorrect-type': ({ expectedType, paramName, moduleName, className, funcName }) => {
+    'incorrect-type': ({ expectedType, paramName, moduleName, className, funcName, }) => {
         if (!expectedType || !paramName || !moduleName || !funcName) {
             throw new Error(`Unexpected input to 'incorrect-type' error.`);
         }
         const classNameStr = className ? `${className}.` : '';
-        return `The parameter '${paramName}' passed into ` +
+        return (`The parameter '${paramName}' passed into ` +
             `'${moduleName}.${classNameStr}` +
-            `${funcName}()' must be of type ${expectedType}.`;
+            `${funcName}()' must be of type ${expectedType}.`);
     },
-    'incorrect-class': ({ expectedClassName, paramName, moduleName, className, funcName, isReturnValueProblem }) => {
+    'incorrect-class': ({ expectedClassName, paramName, moduleName, className, funcName, isReturnValueProblem, }) => {
         if (!expectedClassName || !moduleName || !funcName) {
             throw new Error(`Unexpected input to 'incorrect-class' error.`);
         }
         const classNameStr = className ? `${className}.` : '';
         if (isReturnValueProblem) {
-            return `The return value from ` +
+            return (`The return value from ` +
                 `'${moduleName}.${classNameStr}${funcName}()' ` +
-                `must be an instance of class ${expectedClassName}.`;
+                `must be an instance of class ${expectedClassName}.`);
         }
-        return `The parameter '${paramName}' passed into ` +
+        return (`The parameter '${paramName}' passed into ` +
             `'${moduleName}.${classNameStr}${funcName}()' ` +
-            `must be an instance of class ${expectedClassName}.`;
+            `must be an instance of class ${expectedClassName}.`);
     },
-    'missing-a-method': ({ expectedMethod, paramName, moduleName, className, funcName }) => {
-        if (!expectedMethod || !paramName || !moduleName || !className
-            || !funcName) {
+    'missing-a-method': ({ expectedMethod, paramName, moduleName, className, funcName, }) => {
+        if (!expectedMethod ||
+            !paramName ||
+            !moduleName ||
+            !className ||
+            !funcName) {
             throw new Error(`Unexpected input to 'missing-a-method' error.`);
         }
-        return `${moduleName}.${className}.${funcName}() expected the ` +
-            `'${paramName}' parameter to expose a '${expectedMethod}' method.`;
+        return (`${moduleName}.${className}.${funcName}() expected the ` +
+            `'${paramName}' parameter to expose a '${expectedMethod}' method.`);
     },
     'add-to-cache-list-unexpected-type': ({ entry }) => {
-        return `An unexpected entry was passed to ` +
+        return (`An unexpected entry was passed to ` +
             `'workbox-precaching.PrecacheController.addToCacheList()' The entry ` +
             `'${JSON.stringify(entry)}' isn't supported. You must supply an array of ` +
             `strings with one or more characters, objects with a url property or ` +
-            `Request objects.`;
+            `Request objects.`);
     },
     'add-to-cache-list-conflicting-entries': ({ firstEntry, secondEntry }) => {
         if (!firstEntry || !secondEntry) {
-            throw new Error(`Unexpected input to ` +
-                `'add-to-cache-list-duplicate-entries' error.`);
+            throw new Error(`Unexpected input to ` + `'add-to-cache-list-duplicate-entries' error.`);
         }
-        return `Two of the entries passed to ` +
+        return (`Two of the entries passed to ` +
             `'workbox-precaching.PrecacheController.addToCacheList()' had the URL ` +
             `${firstEntry} but different revision details. Workbox is ` +
             `unable to cache and version the asset correctly. Please remove one ` +
-            `of the entries.`;
+            `of the entries.`);
     },
     'plugin-error-request-will-fetch': ({ thrownErrorMessage }) => {
         if (!thrownErrorMessage) {
-            throw new Error(`Unexpected input to ` +
-                `'plugin-error-request-will-fetch', error.`);
+            throw new Error(`Unexpected input to ` + `'plugin-error-request-will-fetch', error.`);
         }
-        return `An error was thrown by a plugins 'requestWillFetch()' method. ` +
-            `The thrown error message was: '${thrownErrorMessage}'.`;
+        return (`An error was thrown by a plugins 'requestWillFetch()' method. ` +
+            `The thrown error message was: '${thrownErrorMessage}'.`);
     },
     'invalid-cache-name': ({ cacheNameId, value }) => {
         if (!cacheNameId) {
             throw new Error(`Expected a 'cacheNameId' for error 'invalid-cache-name'`);
         }
-        return `You must provide a name containing at least one character for ` +
+        return (`You must provide a name containing at least one character for ` +
             `setCacheDetails({${cacheNameId}: '...'}). Received a value of ` +
-            `'${JSON.stringify(value)}'`;
+            `'${JSON.stringify(value)}'`);
     },
     'unregister-route-but-not-found-with-method': ({ method }) => {
         if (!method) {
             throw new Error(`Unexpected input to ` +
                 `'unregister-route-but-not-found-with-method' error.`);
         }
-        return `The route you're trying to unregister was not  previously ` +
-            `registered for the method type '${method}'.`;
+        return (`The route you're trying to unregister was not  previously ` +
+            `registered for the method type '${method}'.`);
     },
     'unregister-route-route-not-registered': () => {
-        return `The route you're trying to unregister was not previously ` +
-            `registered.`;
+        return (`The route you're trying to unregister was not previously ` +
+            `registered.`);
     },
     'queue-replay-failed': ({ name }) => {
         return `Replaying the background sync queue '${name}' failed.`;
     },
     'duplicate-queue-name': ({ name }) => {
-        return `The Queue name '${name}' is already being used. ` +
-            `All instances of backgroundSync.Queue must be given unique names.`;
+        return (`The Queue name '${name}' is already being used. ` +
+            `All instances of backgroundSync.Queue must be given unique names.`);
     },
     'expired-test-without-max-age': ({ methodName, paramName }) => {
-        return `The '${methodName}()' method can only be used when the ` +
-            `'${paramName}' is used in the constructor.`;
+        return (`The '${methodName}()' method can only be used when the ` +
+            `'${paramName}' is used in the constructor.`);
     },
     'unsupported-route-type': ({ moduleName, className, funcName, paramName }) => {
-        return `The supplied '${paramName}' parameter was an unsupported type. ` +
+        return (`The supplied '${paramName}' parameter was an unsupported type. ` +
             `Please check the docs for ${moduleName}.${className}.${funcName} for ` +
-            `valid input types.`;
+            `valid input types.`);
     },
-    'not-array-of-class': ({ value, expectedClass, moduleName, className, funcName, paramName }) => {
-        return `The supplied '${paramName}' parameter must be an array of ` +
+    'not-array-of-class': ({ value, expectedClass, moduleName, className, funcName, paramName, }) => {
+        return (`The supplied '${paramName}' parameter must be an array of ` +
             `'${expectedClass}' objects. Received '${JSON.stringify(value)},'. ` +
             `Please check the call to ${moduleName}.${className}.${funcName}() ` +
-            `to fix the issue.`;
+            `to fix the issue.`);
     },
     'max-entries-or-age-required': ({ moduleName, className, funcName }) => {
-        return `You must define either config.maxEntries or config.maxAgeSeconds` +
-            `in ${moduleName}.${className}.${funcName}`;
+        return (`You must define either config.maxEntries or config.maxAgeSeconds` +
+            `in ${moduleName}.${className}.${funcName}`);
     },
     'statuses-or-headers-required': ({ moduleName, className, funcName }) => {
-        return `You must define either config.statuses or config.headers` +
-            `in ${moduleName}.${className}.${funcName}`;
+        return (`You must define either config.statuses or config.headers` +
+            `in ${moduleName}.${className}.${funcName}`);
     },
     'invalid-string': ({ moduleName, funcName, paramName }) => {
         if (!paramName || !moduleName || !funcName) {
             throw new Error(`Unexpected input to 'invalid-string' error.`);
         }
-        return `When using strings, the '${paramName}' parameter must start with ` +
+        return (`When using strings, the '${paramName}' parameter must start with ` +
             `'http' (for cross-origin matches) or '/' (for same-origin matches). ` +
             `Please see the docs for ${moduleName}.${funcName}() for ` +
-            `more info.`;
+            `more info.`);
     },
     'channel-name-required': () => {
-        return `You must provide a channelName to construct a ` +
-            `BroadcastCacheUpdate instance.`;
+        return (`You must provide a channelName to construct a ` +
+            `BroadcastCacheUpdate instance.`);
     },
     'invalid-responses-are-same-args': () => {
-        return `The arguments passed into responsesAreSame() appear to be ` +
-            `invalid. Please ensure valid Responses are used.`;
+        return (`The arguments passed into responsesAreSame() appear to be ` +
+            `invalid. Please ensure valid Responses are used.`);
     },
     'expire-custom-caches-only': () => {
-        return `You must provide a 'cacheName' property when using the ` +
-            `expiration plugin with a runtime caching strategy.`;
+        return (`You must provide a 'cacheName' property when using the ` +
+            `expiration plugin with a runtime caching strategy.`);
     },
     'unit-must-be-bytes': ({ normalizedRangeHeader }) => {
         if (!normalizedRangeHeader) {
             throw new Error(`Unexpected input to 'unit-must-be-bytes' error.`);
         }
-        return `The 'unit' portion of the Range header must be set to 'bytes'. ` +
-            `The Range header provided was "${normalizedRangeHeader}"`;
+        return (`The 'unit' portion of the Range header must be set to 'bytes'. ` +
+            `The Range header provided was "${normalizedRangeHeader}"`);
     },
     'single-range-only': ({ normalizedRangeHeader }) => {
         if (!normalizedRangeHeader) {
             throw new Error(`Unexpected input to 'single-range-only' error.`);
         }
-        return `Multiple ranges are not supported. Please use a  single start ` +
+        return (`Multiple ranges are not supported. Please use a  single start ` +
             `value, and optional end value. The Range header provided was ` +
-            `"${normalizedRangeHeader}"`;
+            `"${normalizedRangeHeader}"`);
     },
     'invalid-range-values': ({ normalizedRangeHeader }) => {
         if (!normalizedRangeHeader) {
             throw new Error(`Unexpected input to 'invalid-range-values' error.`);
         }
-        return `The Range header is missing both start and end values. At least ` +
+        return (`The Range header is missing both start and end values. At least ` +
             `one of those values is needed. The Range header provided was ` +
-            `"${normalizedRangeHeader}"`;
+            `"${normalizedRangeHeader}"`);
     },
     'no-range-header': () => {
         return `No Range header was found in the Request provided.`;
     },
     'range-not-satisfiable': ({ size, start, end }) => {
-        return `The start (${start}) and end (${end}) values in the Range are ` +
-            `not satisfiable by the cached response, which is ${size} bytes.`;
+        return (`The start (${start}) and end (${end}) values in the Range are ` +
+            `not satisfiable by the cached response, which is ${size} bytes.`);
     },
     'attempt-to-cache-non-get-request': ({ url, method }) => {
-        return `Unable to cache '${url}' because it is a '${method}' request and ` +
-            `only 'GET' requests can be cached.`;
+        return (`Unable to cache '${url}' because it is a '${method}' request and ` +
+            `only 'GET' requests can be cached.`);
     },
     'cache-put-with-no-response': ({ url }) => {
-        return `There was an attempt to cache '${url}' but the response was not ` +
-            `defined.`;
+        return (`There was an attempt to cache '${url}' but the response was not ` +
+            `defined.`);
     },
     'no-response': ({ url, error }) => {
         let message = `The strategy could not generate a response for '${url}'.`;
@@ -349,24 +352,33 @@ const messages_messages = {
         return message;
     },
     'bad-precaching-response': ({ url, status }) => {
-        return `The precaching request for '${url}' failed` +
-            (status ? ` with an HTTP status of ${status}.` : `.`);
+        return (`The precaching request for '${url}' failed` +
+            (status ? ` with an HTTP status of ${status}.` : `.`));
     },
     'non-precached-url': ({ url }) => {
-        return `createHandlerBoundToURL('${url}') was called, but that URL is ` +
-            `not precached. Please pass in a URL that is precached instead.`;
+        return (`createHandlerBoundToURL('${url}') was called, but that URL is ` +
+            `not precached. Please pass in a URL that is precached instead.`);
     },
     'add-to-cache-list-conflicting-integrities': ({ url }) => {
-        return `Two of the entries passed to ` +
+        return (`Two of the entries passed to ` +
             `'workbox-precaching.PrecacheController.addToCacheList()' had the URL ` +
-            `${url} with different integrity values. Please remove one of them.`;
+            `${url} with different integrity values. Please remove one of them.`);
     },
     'missing-precache-entry': ({ cacheName, url }) => {
         return `Unable to find a precached response in ${cacheName} for ${url}.`;
     },
     'cross-origin-copy-response': ({ origin }) => {
-        return `workbox-core.copyResponse() can only be used with same-origin ` +
-            `responses. It was passed a response with origin ${origin}.`;
+        return (`workbox-core.copyResponse() can only be used with same-origin ` +
+            `responses. It was passed a response with origin ${origin}.`);
+    },
+    'opaque-streams-source': ({ type }) => {
+        const message = `One of the workbox-streams sources resulted in an ` +
+            `'${type}' response.`;
+        if (type === 'opaqueredirect') {
+            return (`${message} Please do not use a navigation request that results ` +
+                `in a redirect as a source.`);
+        }
+        return `${message} Please ensure your sources are CORS-enabled.`;
     },
 };
 
@@ -394,8 +406,7 @@ const generatorFunction = (code, details = {}) => {
     }
     return message(details);
 };
-const messageGenerator = ( true) ?
-    fallback : 0;
+const messageGenerator =  true ? fallback : 0;
 
 ;// CONCATENATED MODULE: ./node_modules/workbox-core/_private/WorkboxError.js
 /*
@@ -479,8 +490,7 @@ expectedClass, details) => {
 };
 const isOneOf = (value, validValues, details) => {
     if (!validValues.includes(value)) {
-        details['validValueDescription'] =
-            `Valid values are ${JSON.stringify(validValues)}.`;
+        details['validValueDescription'] = `Valid values are ${JSON.stringify(validValues)}.`;
         throw new WorkboxError('invalid-value', details);
     }
 };
@@ -498,7 +508,9 @@ details) => {
         }
     }
 };
-const finalAssertExports =  true ? null : 0;
+const finalAssertExports =  true
+    ? null
+    : 0;
 
 
 ;// CONCATENATED MODULE: ./node_modules/workbox-core/models/quotaErrorCallbacks.js
@@ -533,7 +545,7 @@ const quotaErrorCallbacks = new Set();
  * there's a quota error.
  *
  * @param {Function} callback
- * @memberof module:workbox-core
+ * @memberof workbox-core
  */
 // Can't change Function type
 // eslint-disable-next-line @typescript-eslint/ban-types
@@ -776,7 +788,7 @@ class Deferred {
  * Runs all of the callback functions, one at a time sequentially, in the order
  * in which they were registered.
  *
- * @memberof module:workbox-core
+ * @memberof workbox-core
  * @private
  */
 async function executeQuotaErrorCallbacks() {
@@ -949,7 +961,7 @@ function waitUntil_waitUntil(event, asyncFn) {
  * @return {Object} An object with `precache`, `runtime`, `prefix`, and
  *     `googleAnalytics` properties.
  *
- * @memberof module:workbox-core
+ * @memberof workbox-core
  */
 const workbox_core_cacheNames_cacheNames = {
     get googleAnalytics() {
@@ -998,7 +1010,7 @@ const workbox_core_cacheNames_cacheNames = {
  *
  * @param {Response} response
  * @param {Function} modifier
- * @memberof module:workbox-core
+ * @memberof workbox-core
  */
 async function copyResponse(response, modifier) {
     let origin = null;
@@ -1022,8 +1034,9 @@ async function copyResponse(response, modifier) {
     // Create the new response from the body stream and `ResponseInit`
     // modifications. Note: not all browsers support the Response.body stream,
     // so fall back to reading the entire body into memory as a blob.
-    const body = canConstructResponseFromBodyStream() ?
-        clonedResponse.body : await clonedResponse.blob();
+    const body = canConstructResponseFromBodyStream()
+        ? clonedResponse.body
+        : await clonedResponse.blob();
     return new Response(body, modifiedResponseInit);
 }
 
@@ -1041,7 +1054,7 @@ async function copyResponse(response, modifier) {
  * Claim any currently available clients once the service worker
  * becomes active. This is normally used in conjunction with `skipWaiting()`.
  *
- * @memberof module:workbox-core
+ * @memberof workbox-core
  */
 function clientsClaim() {
     self.addEventListener('activate', () => self.clients.claim());
@@ -1075,7 +1088,7 @@ function clientsClaim() {
  * @param {Object} [details.googleAnalytics] The cache name to use for
  *     `workbox-google-analytics` caching.
  *
- * @memberof module:workbox-core
+ * @memberof workbox-core
  */
 function setCacheNameDetails(details) {
     if (false) {}
@@ -1098,7 +1111,7 @@ function setCacheNameDetails(details) {
  *
  * Calling self.skipWaiting() is equivalent, and should be used instead.
  *
- * @memberof module:workbox-core
+ * @memberof workbox-core
  */
 function skipWaiting() {
     // Just call self.skipWaiting() directly.
@@ -1168,13 +1181,12 @@ var workbox_broadcast_update_version = __webpack_require__(294);
  * @param {Array<string>} headersToCheck
  * @return {boolean}
  *
- * @memberof module:workbox-broadcast-update
+ * @memberof workbox-broadcast-update
  */
 const responsesAreSame = (firstResponse, secondResponse, headersToCheck) => {
     if (false) {}
     const atLeastOneHeaderAvailable = headersToCheck.some((header) => {
-        return firstResponse.headers.has(header) &&
-            secondResponse.headers.has(header);
+        return (firstResponse.headers.has(header) && secondResponse.headers.has(header));
     });
     if (!atLeastOneHeaderAvailable) {
         if (false) {}
@@ -1183,10 +1195,8 @@ const responsesAreSame = (firstResponse, secondResponse, headersToCheck) => {
         return true;
     }
     return headersToCheck.every((header) => {
-        const headerStateComparison = firstResponse.headers.has(header) ===
-            secondResponse.headers.has(header);
-        const headerValueComparison = firstResponse.headers.get(header) ===
-            secondResponse.headers.get(header);
+        const headerStateComparison = firstResponse.headers.has(header) === secondResponse.headers.has(header);
+        const headerValueComparison = firstResponse.headers.get(header) === secondResponse.headers.get(header);
         return headerStateComparison && headerValueComparison;
     });
 };
@@ -1249,7 +1259,7 @@ function defaultPayloadGenerator(data) {
  * For efficiency's sake, the underlying response bodies are not compared;
  * only specific response headers are checked.
  *
- * @memberof module:workbox-broadcast-update
+ * @memberof workbox-broadcast-update
  */
 class BroadcastCacheUpdate {
     /**
@@ -1275,8 +1285,8 @@ class BroadcastCacheUpdate {
     /**
      * Compares two [Responses](https://developer.mozilla.org/en-US/docs/Web/API/Response)
      * and sends a message (via `postMessage()`) to all window clients if the
-     * responses differ (note: neither of the Responses can be
-     * {@link http://stackoverflow.com/questions/39109789|opaque}).
+     * responses differ. Neither of the Responses can be
+     * [opaque](https://developer.chrome.com/docs/workbox/caching-resources-during-runtime/#opaque-responses).
      *
      * The message that's posted has the following format (where `payload` can
      * be customized via the `generatePayload` option the instance is created
@@ -1370,13 +1380,13 @@ class BroadcastCacheUpdate {
  * This plugin will automatically broadcast a message whenever a cached response
  * is updated.
  *
- * @memberof module:workbox-broadcast-update
+ * @memberof workbox-broadcast-update
  */
 class BroadcastUpdatePlugin {
     /**
-     * Construct a BroadcastCacheUpdate instance with the passed options and
-     * calls its [`notifyIfUpdated()`]{@link module:workbox-broadcast-update.BroadcastCacheUpdate~notifyIfUpdated}
-     * method whenever the plugin's `cacheDidUpdate` callback is invoked.
+     * Construct a {@link workbox-broadcast-update.BroadcastUpdate} instance with
+     * the passed options and calls its `notifyIfUpdated` method whenever the
+     * plugin's `cacheDidUpdate` callback is invoked.
      *
      * @param {Object} [options]
      * @param {Array<string>} [options.headersToCheck=['content-length', 'etag', 'last-modified']]
@@ -1448,7 +1458,7 @@ const REVISION_SEARCH_PARAM = '__WB_REVISION__';
  * @return {string} A URL with versioning info.
  *
  * @private
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function createCacheKey_createCacheKey(entry) {
     if (!entry) {
@@ -1514,8 +1524,9 @@ class PrecacheInstallReportPlugin_PrecacheInstallReportPlugin {
         };
         this.cachedResponseWillBeUsed = async ({ event, state, cachedResponse, }) => {
             if (event.type === 'install') {
-                if (state && state.originalRequest
-                    && state.originalRequest instanceof Request) {
+                if (state &&
+                    state.originalRequest &&
+                    state.originalRequest instanceof Request) {
                     // TODO: `state` should never be undefined...
                     const url = state.originalRequest.url;
                     if (cachedResponse) {
@@ -1591,7 +1602,7 @@ const logGroup = (groupTitle, deletedURLs) => {
  * @param {Array<string>} deletedURLs
  *
  * @private
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function printCleanupDetails(deletedURLs) {
     const deletionCount = deletedURLs.length;
@@ -1635,7 +1646,7 @@ function _nestedGroup(groupTitle, urls) {
  * @param {Array<string>} urlsAlreadyPrecached
  *
  * @private
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function printInstallDetails(urlsToPrecache, urlsAlreadyPrecached) {
     const precachedCount = urlsToPrecache.length;
@@ -1643,8 +1654,9 @@ function printInstallDetails(urlsToPrecache, urlsAlreadyPrecached) {
     if (precachedCount || alreadyPrecachedCount) {
         let message = `Precaching ${precachedCount} file${precachedCount === 1 ? '' : 's'}.`;
         if (alreadyPrecachedCount > 0) {
-            message += ` ${alreadyPrecachedCount} ` +
-                `file${alreadyPrecachedCount === 1 ? ' is' : 's are'} already cached.`;
+            message +=
+                ` ${alreadyPrecachedCount} ` +
+                    `file${alreadyPrecachedCount === 1 ? ' is' : 's are'} already cached.`;
         }
         logger.groupCollapsed(message);
         _nestedGroup(`View newly precached URLs.`, urlsToPrecache);
@@ -1673,16 +1685,16 @@ var workbox_strategies_version = __webpack_require__(873);
 
 
 function toRequest(input) {
-    return (typeof input === 'string') ? new Request(input) : input;
+    return typeof input === 'string' ? new Request(input) : input;
 }
 /**
  * A class created every time a Strategy instance instance calls
- * [handle()]{@link module:workbox-strategies.Strategy~handle} or
- * [handleAll()]{@link module:workbox-strategies.Strategy~handleAll} that wraps all fetch and
+ * {@link workbox-strategies.Strategy~handle} or
+ * {@link workbox-strategies.Strategy~handleAll} that wraps all fetch and
  * cache actions around plugin callbacks and keeps track of when the strategy
  * is "done" (i.e. all added `event.waitUntil()` promises have resolved).
  *
- * @memberof module:workbox-strategies
+ * @memberof workbox-strategies
  */
 class StrategyHandler {
     /**
@@ -1692,15 +1704,14 @@ class StrategyHandler {
      * The constructor also initializes the state that will be passed to each of
      * the plugins handling this request.
      *
-     * @param {module:workbox-strategies.Strategy} strategy
+     * @param {workbox-strategies.Strategy} strategy
      * @param {Object} options
      * @param {Request|string} options.request A request to run this strategy for.
      * @param {ExtendableEvent} options.event The event associated with the
      *     request.
      * @param {URL} [options.url]
-     * @param {*} [options.params]
-     *     [match callback]{@link module:workbox-routing~matchCallback},
-     *     (if applicable).
+     * @param {*} [options.params] The return value from the
+     *     {@link workbox-routing~matchCallback} (if applicable).
      */
     constructor(strategy, options) {
         this._cacheKeys = {};
@@ -1710,14 +1721,14 @@ class StrategyHandler {
          * @name request
          * @instance
          * @type {Request}
-         * @memberof module:workbox-strategies.StrategyHandler
+         * @memberof workbox-strategies.StrategyHandler
          */
         /**
          * The event associated with this request.
          * @name event
          * @instance
          * @type {ExtendableEvent}
-         * @memberof module:workbox-strategies.StrategyHandler
+         * @memberof workbox-strategies.StrategyHandler
          */
         /**
          * A `URL` instance of `request.url` (if passed to the strategy's
@@ -1727,19 +1738,19 @@ class StrategyHandler {
          * @name url
          * @instance
          * @type {URL|undefined}
-         * @memberof module:workbox-strategies.StrategyHandler
+         * @memberof workbox-strategies.StrategyHandler
          */
         /**
          * A `param` value (if passed to the strategy's
          * `handle()` or `handleAll()` method).
          * Note: the `param` param will be present if the strategy was invoked
          * from a workbox `Route` object and the
-         * [match callback]{@link module:workbox-routing~matchCallback} returned
+         * {@link workbox-routing~matchCallback} returned
          * a truthy value (it will be that value).
          * @name params
          * @instance
          * @type {*|undefined}
-         * @memberof module:workbox-strategies.StrategyHandler
+         * @memberof workbox-strategies.StrategyHandler
          */
         if (false) {}
         Object.assign(this, options);
@@ -1775,7 +1786,7 @@ class StrategyHandler {
         if (request.mode === 'navigate' &&
             event instanceof FetchEvent &&
             event.preloadResponse) {
-            const possiblePreloadResponse = await event.preloadResponse;
+            const possiblePreloadResponse = (await event.preloadResponse);
             if (possiblePreloadResponse) {
                 if (false) {}
                 return possiblePreloadResponse;
@@ -1784,8 +1795,9 @@ class StrategyHandler {
         // If there is a fetchDidFail plugin, we need to save a clone of the
         // original request before it's either modified by a requestWillFetch
         // plugin or before the original request's body is consumed via fetch().
-        const originalRequest = this.hasCallback('fetchDidFail') ?
-            request.clone() : null;
+        const originalRequest = this.hasCallback('fetchDidFail')
+            ? request.clone()
+            : null;
         try {
             for (const cb of this.iterateCallbacks('requestWillFetch')) {
                 request = await cb({ request: request.clone(), event });
@@ -1793,7 +1805,9 @@ class StrategyHandler {
         }
         catch (err) {
             if (err instanceof Error) {
-                throw new WorkboxError_WorkboxError('plugin-error-request-will-fetch', { thrownErrorMessage: err.message });
+                throw new WorkboxError_WorkboxError('plugin-error-request-will-fetch', {
+                    thrownErrorMessage: err.message,
+                });
             }
         }
         // The request can be altered by plugins with `requestWillFetch` making
@@ -1803,8 +1817,7 @@ class StrategyHandler {
         try {
             let fetchResponse;
             // See https://github.com/GoogleChrome/workbox/issues/1796
-            fetchResponse = await fetch(request, request.mode === 'navigate' ?
-                undefined : this._strategy.fetchOptions);
+            fetchResponse = await fetch(request, request.mode === 'navigate' ? undefined : this._strategy.fetchOptions);
             if (false) {}
             for (const callback of this.iterateCallbacks('fetchDidSucceed')) {
                 fetchResponse = await callback({
@@ -1867,13 +1880,14 @@ class StrategyHandler {
         cachedResponse = await caches.match(effectiveRequest, multiMatchOptions);
         if (false) {}
         for (const callback of this.iterateCallbacks('cachedResponseWillBeUsed')) {
-            cachedResponse = (await callback({
-                cacheName,
-                matchOptions,
-                cachedResponse,
-                request: effectiveRequest,
-                event: this.event,
-            })) || undefined;
+            cachedResponse =
+                (await callback({
+                    cacheName,
+                    matchOptions,
+                    cachedResponse,
+                    request: effectiveRequest,
+                    event: this.event,
+                })) || undefined;
         }
         return cachedResponse;
     }
@@ -1913,16 +1927,16 @@ class StrategyHandler {
         const { cacheName, matchOptions } = this._strategy;
         const cache = await self.caches.open(cacheName);
         const hasCacheUpdateCallback = this.hasCallback('cacheDidUpdate');
-        const oldResponse = hasCacheUpdateCallback ? await cacheMatchIgnoreParams(
-        // TODO(philipwalton): the `__WB_REVISION__` param is a precaching
-        // feature. Consider into ways to only add this behavior if using
-        // precaching.
-        cache, effectiveRequest.clone(), ['__WB_REVISION__'], matchOptions) :
-            null;
+        const oldResponse = hasCacheUpdateCallback
+            ? await cacheMatchIgnoreParams(
+            // TODO(philipwalton): the `__WB_REVISION__` param is a precaching
+            // feature. Consider into ways to only add this behavior if using
+            // precaching.
+            cache, effectiveRequest.clone(), ['__WB_REVISION__'], matchOptions)
+            : null;
         if (false) {}
         try {
-            await cache.put(effectiveRequest, hasCacheUpdateCallback ?
-                responseToCache.clone() : responseToCache);
+            await cache.put(effectiveRequest, hasCacheUpdateCallback ? responseToCache.clone() : responseToCache);
         }
         catch (error) {
             if (error instanceof Error) {
@@ -1956,7 +1970,8 @@ class StrategyHandler {
      * @return {Promise<Request>}
      */
     async getCacheKey(request, mode) {
-        if (!this._cacheKeys[mode]) {
+        const key = `${request.url} | ${mode}`;
+        if (!this._cacheKeys[key]) {
             let effectiveRequest = request;
             for (const callback of this.iterateCallbacks('cacheKeyWillBeUsed')) {
                 effectiveRequest = toRequest(await callback({
@@ -1964,12 +1979,12 @@ class StrategyHandler {
                     request: effectiveRequest,
                     event: this.event,
                     // params has a type any can't change right now.
-                    params: this.params,
+                    params: this.params, // eslint-disable-line
                 }));
             }
-            this._cacheKeys[mode] = effectiveRequest;
+            this._cacheKeys[key] = effectiveRequest;
         }
-        return this._cacheKeys[mode];
+        return this._cacheKeys[key];
     }
     /**
      * Returns true if the strategy has at least one plugin with the given
@@ -1994,7 +2009,7 @@ class StrategyHandler {
      * Note: since this method runs all plugins, it's not suitable for cases
      * where the return value of a callback needs to be applied prior to calling
      * the next callback. See
-     * [`iterateCallbacks()`]{@link module:workbox-strategies.StrategyHandler#iterateCallbacks}
+     * {@link workbox-strategies.StrategyHandler#iterateCallbacks}
      * below for how to handle that case.
      *
      * @param {string} name The name of the callback to run within each plugin.
@@ -2039,7 +2054,7 @@ class StrategyHandler {
      * `FetchEvent`).
      *
      * Note: you can await
-     * [`doneWaiting()`]{@link module:workbox-strategies.StrategyHandler~doneWaiting}
+     * {@link workbox-strategies.StrategyHandler~doneWaiting}
      * to know when all added promises have settled.
      *
      * @param {Promise} promise A promise to add to the extend lifetime promises
@@ -2051,7 +2066,7 @@ class StrategyHandler {
     }
     /**
      * Returns a promise that resolves once all promises passed to
-     * [`waitUntil()`]{@link module:workbox-strategies.StrategyHandler~waitUntil}
+     * {@link workbox-strategies.StrategyHandler~waitUntil}
      * have settled.
      *
      * Note: any work done after `doneWaiting()` settles should be manually
@@ -2061,7 +2076,7 @@ class StrategyHandler {
      */
     async doneWaiting() {
         let promise;
-        while (promise = this._extendLifetimePromises.shift()) {
+        while ((promise = this._extendLifetimePromises.shift())) {
             await promise;
         }
     }
@@ -2086,11 +2101,12 @@ class StrategyHandler {
         let responseToCache = response;
         let pluginsUsed = false;
         for (const callback of this.iterateCallbacks('cacheWillUpdate')) {
-            responseToCache = (await callback({
-                request: this.request,
-                response: responseToCache,
-                event: this.event,
-            })) || undefined;
+            responseToCache =
+                (await callback({
+                    request: this.request,
+                    response: responseToCache,
+                    event: this.event,
+                })) || undefined;
             pluginsUsed = true;
             if (!responseToCache) {
                 break;
@@ -2124,7 +2140,7 @@ class StrategyHandler {
 /**
  * An abstract base class that all other strategy classes must extend from:
  *
- * @memberof module:workbox-strategies
+ * @memberof workbox-strategies
  */
 class Strategy_Strategy {
     /**
@@ -2138,7 +2154,7 @@ class Strategy_Strategy {
      * @param {Object} [options]
      * @param {string} [options.cacheName] Cache name to store and retrieve
      * requests. Defaults to the cache names provided by
-     * [workbox-core]{@link module:workbox-core.cacheNames}.
+     * {@link workbox-core.cacheNames}.
      * @param {Array<Object>} [options.plugins] [Plugins]{@link https://developers.google.com/web/tools/workbox/guides/using-plugins}
      * to use in conjunction with this caching strategy.
      * @param {Object} [options.fetchOptions] Values passed along to the
@@ -2153,7 +2169,7 @@ class Strategy_Strategy {
         /**
          * Cache name to store and retrieve
          * requests. Defaults to the cache names provided by
-         * [workbox-core]{@link module:workbox-core.cacheNames}.
+         * {@link workbox-core.cacheNames}.
          *
          * @type {string}
          */
@@ -2188,7 +2204,7 @@ class Strategy_Strategy {
      * a `Response`, invoking all relevant plugin callbacks.
      *
      * When a strategy instance is registered with a Workbox
-     * [route]{@link module:workbox-routing.Route}, this method is automatically
+     * {@link workbox-routing.Route}, this method is automatically
      * called when the route matches.
      *
      * Alternatively, this method can be used in a standalone `FetchEvent`
@@ -2207,9 +2223,9 @@ class Strategy_Strategy {
         return responseDone;
     }
     /**
-     * Similar to [`handle()`]{@link module:workbox-strategies.Strategy~handle}, but
+     * Similar to {@link workbox-strategies.Strategy~handle}, but
      * instead of just returning a `Promise` that resolves to a `Response` it
-     * it will return an tuple of [response, done] promises, where the former
+     * it will return an tuple of `[response, done]` promises, where the former
      * (`response`) is equivalent to what `handle()` returns, and the latter is a
      * Promise that will resolve once any promises that were added to
      * `event.waitUntil()` as part of performing the strategy have completed.
@@ -2237,9 +2253,9 @@ class Strategy_Strategy {
             };
         }
         const event = options.event;
-        const request = typeof options.request === 'string' ?
-            new Request(options.request) :
-            options.request;
+        const request = typeof options.request === 'string'
+            ? new Request(options.request)
+            : options.request;
         const params = 'params' in options ? options.params : undefined;
         const handler = new StrategyHandler(this, { event, request, params });
         const responseDone = this._getResponse(handler, request, event);
@@ -2317,7 +2333,7 @@ class Strategy_Strategy {
 
 /**
  * Classes extending the `Strategy` based class should implement this method,
- * and leverage the [`handler`]{@link module:workbox-strategies.StrategyHandler}
+ * and leverage the {@link workbox-strategies.StrategyHandler}
  * arg to perform all fetching and cache logic, which will ensure all relevant
  * cache, cache options, fetch options and plugins are used (per the current
  * strategy instance).
@@ -2327,10 +2343,10 @@ class Strategy_Strategy {
  * @abstract
  * @function
  * @param {Request} request
- * @param {module:workbox-strategies.StrategyHandler} handler
+ * @param {workbox-strategies.StrategyHandler} handler
  * @return {Promise<Response>}
  *
- * @memberof module:workbox-strategies.Strategy
+ * @memberof workbox-strategies.Strategy
  */
 
 ;// CONCATENATED MODULE: ./node_modules/workbox-precaching/PrecacheStrategy.js
@@ -2349,16 +2365,16 @@ class Strategy_Strategy {
 
 
 /**
- * A [Strategy]{@link module:workbox-strategies.Strategy} implementation
+ * A {@link workbox-strategies.Strategy} implementation
  * specifically designed to work with
- * [PrecacheController]{@link module:workbox-precaching.PrecacheController}
+ * {@link workbox-precaching.PrecacheController}
  * to both cache and fetch precached assets.
  *
  * Note: an instance of this class is created automatically when creating a
  * `PrecacheController`; it's generally not necessary to create this yourself.
  *
- * @extends module:workbox-strategies.Strategy
- * @memberof module:workbox-precaching
+ * @extends workbox-strategies.Strategy
+ * @memberof workbox-precaching
  */
 class PrecacheStrategy_PrecacheStrategy extends Strategy_Strategy {
     /**
@@ -2366,14 +2382,14 @@ class PrecacheStrategy_PrecacheStrategy extends Strategy_Strategy {
      * @param {Object} [options]
      * @param {string} [options.cacheName] Cache name to store and retrieve
      * requests. Defaults to the cache names provided by
-     * [workbox-core]{@link module:workbox-core.cacheNames}.
-     * @param {Array<Object>} [options.plugins] [Plugins]{@link https://developers.google.com/web/tools/workbox/guides/using-plugins}
+     * {@link workbox-core.cacheNames}.
+     * @param {Array<Object>} [options.plugins] {@link https://developers.google.com/web/tools/workbox/guides/using-plugins|Plugins}
      * to use in conjunction with this caching strategy.
      * @param {Object} [options.fetchOptions] Values passed along to the
-     * [`init`]{@link https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch#Parameters}
+     * {@link https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch#Parameters|init}
      * of all fetch() requests made by this strategy.
      * @param {Object} [options.matchOptions] The
-     * [`CacheQueryOptions`]{@link https://w3c.github.io/ServiceWorker/#dictdef-cachequeryoptions}
+     * {@link https://w3c.github.io/ServiceWorker/#dictdef-cachequeryoptions|CacheQueryOptions}
      * for any `cache.match()` or `cache.put()` calls made by this strategy.
      * @param {boolean} [options.fallbackToNetwork=true] Whether to attempt to
      * get the response from the network if there's a precache miss.
@@ -2392,7 +2408,7 @@ class PrecacheStrategy_PrecacheStrategy extends Strategy_Strategy {
     /**
      * @private
      * @param {Request|string} request A request to run this strategy for.
-     * @param {module:workbox-strategies.StrategyHandler} handler The event that
+     * @param {workbox-strategies.StrategyHandler} handler The event that
      *     triggered the request.
      * @return {Promise<Response>}
      */
@@ -2419,15 +2435,23 @@ class PrecacheStrategy_PrecacheStrategy extends Strategy_Strategy {
             const integrityInManifest = params.integrity;
             const integrityInRequest = request.integrity;
             const noIntegrityConflict = !integrityInRequest || integrityInRequest === integrityInManifest;
+            // Do not add integrity if the original request is no-cors
+            // See https://github.com/GoogleChrome/workbox/issues/3096
             response = await handler.fetch(new Request(request, {
-                integrity: integrityInRequest || integrityInManifest,
+                integrity: request.mode !== 'no-cors'
+                    ? integrityInRequest || integrityInManifest
+                    : undefined,
             }));
             // It's only "safe" to repair the cache if we're using SRI to guarantee
             // that the response matches the precache manifest's expectations,
             // and there's either a) no integrity property in the incoming request
             // or b) there is an integrity, and it matches the precache manifest.
             // See https://github.com/GoogleChrome/workbox/issues/2858
-            if (integrityInManifest && noIntegrityConflict) {
+            // Also if the original request users no-cors we don't use integrity.
+            // See https://github.com/GoogleChrome/workbox/issues/3096
+            if (integrityInManifest &&
+                noIntegrityConflict &&
+                request.mode !== 'no-cors') {
                 this._useDefaultCacheabilityPluginIfNeeded();
                 const wasCached = await handler.cachePut(request, response.clone());
                 if (false) {}
@@ -2551,7 +2575,7 @@ PrecacheStrategy_PrecacheStrategy.copyRedirectedCacheableResponsesPlugin = {
 /**
  * Performs efficient precaching of assets.
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 class PrecacheController_PrecacheController {
     /**
@@ -2564,7 +2588,7 @@ class PrecacheController_PrecacheController {
      * @param {boolean} [options.fallbackToNetwork=true] Whether to attempt to
      * get the response from the network if there's a precache miss.
      */
-    constructor({ cacheName, plugins = [], fallbackToNetwork = true } = {}) {
+    constructor({ cacheName, plugins = [], fallbackToNetwork = true, } = {}) {
         this._urlsToCacheKeys = new Map();
         this._urlsToCacheModes = new Map();
         this._cacheKeysToIntegrities = new Map();
@@ -2581,7 +2605,7 @@ class PrecacheController_PrecacheController {
         this.activate = this.activate.bind(this);
     }
     /**
-     * @type {module:workbox-precaching.PrecacheStrategy} The strategy created by this controller and
+     * @type {workbox-precaching.PrecacheStrategy} The strategy created by this controller and
      * used to cache assets and respond to fetch events.
      */
     get strategy() {
@@ -2590,7 +2614,7 @@ class PrecacheController_PrecacheController {
     /**
      * Adds items to the precache list, removing any duplicates and
      * stores the files in the
-     * ["precache cache"]{@link module:workbox-core.cacheNames} when the service
+     * {@link workbox-core.cacheNames|"precache cache"} when the service
      * worker installs.
      *
      * This method can be called multiple times.
@@ -2609,7 +2633,7 @@ class PrecacheController_PrecacheController {
      * This method will add items to the precache list, removing duplicates
      * and ensuring the information is valid.
      *
-     * @param {Array<module:workbox-precaching.PrecacheController.PrecacheEntry|string>} entries
+     * @param {Array<workbox-precaching.PrecacheController.PrecacheEntry|string>} entries
      *     Array of entries to precache.
      */
     addToCacheList(entries) {
@@ -2624,8 +2648,7 @@ class PrecacheController_PrecacheController {
                 urlsToWarnAbout.push(entry.url);
             }
             const { cacheKey, url } = createCacheKey(entry);
-            const cacheMode = (typeof entry !== 'string' && entry.revision) ?
-                'reload' : 'default';
+            const cacheMode = typeof entry !== 'string' && entry.revision ? 'reload' : 'default';
             if (this._urlsToCacheKeys.has(url) &&
                 this._urlsToCacheKeys.get(url) !== cacheKey) {
                 throw new WorkboxError('add-to-cache-list-conflicting-entries', {
@@ -2665,7 +2688,7 @@ class PrecacheController_PrecacheController {
      * to call it yourself in your event handlers.
      *
      * @param {ExtendableEvent} event
-     * @return {Promise<module:workbox-precaching.InstallResult>}
+     * @return {Promise<workbox-precaching.InstallResult>}
      */
     install(event) {
         // waitUntil returns Promise<any>
@@ -2702,7 +2725,7 @@ class PrecacheController_PrecacheController {
      * to call it yourself in your event handlers.
      *
      * @param {ExtendableEvent} event
-     * @return {Promise<module:workbox-precaching.CleanupResult>}
+     * @return {Promise<workbox-precaching.CleanupResult>}
      */
     activate(event) {
         // waitUntil returns Promise<any>
@@ -2794,7 +2817,7 @@ class PrecacheController_PrecacheController {
      *
      * @param {string} url The precached URL which will be used to lookup the
      * `Response`.
-     * @return {module:workbox-routing~handlerCallback}
+     * @return {workbox-routing~handlerCallback}
      */
     createHandlerBoundToURL(url) {
         const cacheKey = this.getCacheKeyForURL(url);
@@ -2847,7 +2870,7 @@ const getOrCreatePrecacheController_getOrCreatePrecacheController = () => {
  *
  * @param {Array<Object>} plugins
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function addPlugins(plugins) {
     const precacheController = getOrCreatePrecacheController();
@@ -2938,16 +2961,16 @@ const normalizeHandler = (handler) => {
  * is called when there is a match and should return a Promise that resolves
  * to a `Response`.
  *
- * @memberof module:workbox-routing
+ * @memberof workbox-routing
  */
 class Route_Route {
     /**
      * Constructor for Route class.
      *
-     * @param {module:workbox-routing~matchCallback} match
+     * @param {workbox-routing~matchCallback} match
      * A callback function that determines whether the route matches a given
      * `fetch` event by returning a non-falsy value.
-     * @param {module:workbox-routing~handlerCallback} handler A callback
+     * @param {workbox-routing~handlerCallback} handler A callback
      * function that returns a Promise resolving to a Response.
      * @param {string} [method='GET'] The HTTP method to match the Route
      * against.
@@ -2962,7 +2985,7 @@ class Route_Route {
     }
     /**
      *
-     * @param {module:workbox-routing-handlerCallback} handler A callback
+     * @param {workbox-routing-handlerCallback} handler A callback
      * function that returns a Promise resolving to a Response
      */
     setCatchHandler(handler) {
@@ -2985,27 +3008,25 @@ class Route_Route {
 
 /**
  * RegExpRoute makes it easy to create a regular expression based
- * [Route]{@link module:workbox-routing.Route}.
+ * {@link workbox-routing.Route}.
  *
  * For same-origin requests the RegExp only needs to match part of the URL. For
  * requests against third-party servers, you must define a RegExp that matches
  * the start of the URL.
  *
- * [See the module docs for info.]{@link https://developers.google.com/web/tools/workbox/modules/workbox-routing}
- *
- * @memberof module:workbox-routing
- * @extends module:workbox-routing.Route
+ * @memberof workbox-routing
+ * @extends workbox-routing.Route
  */
 class RegExpRoute extends Route_Route {
     /**
      * If the regular expression contains
      * [capture groups]{@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp#grouping-back-references},
      * the captured values will be passed to the
-     * [handler's]{@link module:workbox-routing~handlerCallback} `params`
+     * {@link workbox-routing~handlerCallback} `params`
      * argument.
      *
      * @param {RegExp} regExp The regular expression to match against URLs.
-     * @param {module:workbox-routing~handlerCallback} handler A callback
+     * @param {workbox-routing~handlerCallback} handler A callback
      * function that returns a Promise resulting in a Response.
      * @param {string} [method='GET'] The HTTP method to match the Route
      * against.
@@ -3022,7 +3043,7 @@ class RegExpRoute extends Route_Route {
             // if it's a cross-origin request.
             // See https://github.com/GoogleChrome/workbox/issues/281 for the context
             // behind this behavior.
-            if ((url.origin !== location.origin) && (result.index !== 0)) {
+            if (url.origin !== location.origin && result.index !== 0) {
                 if (false) {}
                 return;
             }
@@ -3053,8 +3074,8 @@ class RegExpRoute extends Route_Route {
 
 
 /**
- * The Router can be used to process a FetchEvent through one or more
- * [Routes]{@link module:workbox-routing.Route} responding  with a Request if
+ * The Router can be used to process a `FetchEvent` using one or more
+ * {@link workbox-routing.Route}, responding with a `Response` if
  * a matching route exists.
  *
  * If no route matches a given a request, the Router will use a "default"
@@ -3067,7 +3088,7 @@ class RegExpRoute extends Route_Route {
  * If a request matches multiple routes, the **earliest** registered route will
  * be used to respond to the request.
  *
- * @memberof module:workbox-routing
+ * @memberof workbox-routing
  */
 class Router {
     /**
@@ -3078,7 +3099,7 @@ class Router {
         this._defaultHandlerMap = new Map();
     }
     /**
-     * @return {Map<string, Array<module:workbox-routing.Route>>} routes A `Map` of HTTP
+     * @return {Map<string, Array<workbox-routing.Route>>} routes A `Map` of HTTP
      * method name ('GET', etc.) to an array of all the corresponding `Route`
      * instances that are registered.
      */
@@ -3125,8 +3146,10 @@ class Router {
         // See https://github.com/Microsoft/TypeScript/issues/28357#issuecomment-436484705
         self.addEventListener('message', ((event) => {
             // event.data is type 'any'
-            if (event.data && event.data.type === 'CACHE_URLS') { // eslint-disable-line
-                const { payload } = event.data; // eslint-disable-line
+            // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access
+            if (event.data && event.data.type === 'CACHE_URLS') {
+                // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
+                const { payload } = event.data;
                 if (false) {}
                 const requestPromises = Promise.all(payload.urlsToCache.map((entry) => {
                     if (typeof entry === 'string') {
@@ -3158,7 +3181,7 @@ class Router {
      *     registered route can handle the request. If there is no matching
      *     route and there's no `defaultHandler`, `undefined` is returned.
      */
-    handleRequest({ request, event }) {
+    handleRequest({ request, event, }) {
         if (false) {}
         const url = new URL(request.url, location.href);
         if (!url.protocol.startsWith('http')) {
@@ -3198,7 +3221,8 @@ class Router {
         }
         // Get route's catch handler, if it exists
         const catchHandler = route && route.catchHandler;
-        if (responsePromise instanceof Promise && (this._catchHandler || catchHandler)) {
+        if (responsePromise instanceof Promise &&
+            (this._catchHandler || catchHandler)) {
             responsePromise = responsePromise.catch(async (err) => {
                 // If there's a route catch handler, process that first
                 if (catchHandler) {
@@ -3236,7 +3260,7 @@ class Router {
      *     They are populated if a matching route was found or `undefined`
      *     otherwise.
      */
-    findMatchingRoute({ url, sameOrigin, request, event }) {
+    findMatchingRoute({ url, sameOrigin, request, event, }) {
         const routes = this._routes.get(request.method) || [];
         for (const route of routes) {
             let params;
@@ -3252,8 +3276,8 @@ class Router {
                     // Instead of passing an empty array in as params, use undefined.
                     params = undefined;
                 }
-                else if ((matchResult.constructor === Object && // eslint-disable-line
-                    Object.keys(matchResult).length === 0)) {
+                else if (matchResult.constructor === Object && // eslint-disable-line
+                    Object.keys(matchResult).length === 0) {
                     // Instead of passing an empty object in as params, use undefined.
                     params = undefined;
                 }
@@ -3279,7 +3303,7 @@ class Router {
      * Without a default handler, unmatched requests will go against the
      * network as if there were no service worker present.
      *
-     * @param {module:workbox-routing~handlerCallback} handler A callback
+     * @param {workbox-routing~handlerCallback} handler A callback
      * function that returns a Promise resulting in a Response.
      * @param {string} [method='GET'] The HTTP method to associate with this
      * default handler. Each method has its own default.
@@ -3291,7 +3315,7 @@ class Router {
      * If a Route throws an error while handling a request, this `handler`
      * will be called and given a chance to provide a response.
      *
-     * @param {module:workbox-routing~handlerCallback} handler A callback
+     * @param {workbox-routing~handlerCallback} handler A callback
      * function that returns a Promise resulting in a Response.
      */
     setCatchHandler(handler) {
@@ -3300,7 +3324,7 @@ class Router {
     /**
      * Registers a route with the router.
      *
-     * @param {module:workbox-routing.Route} route The route to register.
+     * @param {workbox-routing.Route} route The route to register.
      */
     registerRoute(route) {
         if (false) {}
@@ -3314,7 +3338,7 @@ class Router {
     /**
      * Unregisters a route with the router.
      *
-     * @param {module:workbox-routing.Route} route The route to unregister.
+     * @param {workbox-routing.Route} route The route to unregister.
      */
     unregisterRoute(route) {
         if (!this._routes.has(route.method)) {
@@ -3380,19 +3404,18 @@ const getOrCreateDefaultRouter_getOrCreateDefaultRouter = () => {
  * strategy to a singleton Router instance.
  *
  * This method will generate a Route for you if needed and
- * call [registerRoute()]{@link module:workbox-routing.Router#registerRoute}.
+ * call {@link workbox-routing.Router#registerRoute}.
  *
- * @param {RegExp|string|module:workbox-routing.Route~matchCallback|module:workbox-routing.Route} capture
+ * @param {RegExp|string|workbox-routing.Route~matchCallback|workbox-routing.Route} capture
  * If the capture param is a `Route`, all other arguments will be ignored.
- * @param {module:workbox-routing~handlerCallback} [handler] A callback
+ * @param {workbox-routing~handlerCallback} [handler] A callback
  * function that returns a Promise resulting in a Response. This parameter
  * is required if `capture` is not a `Route` object.
  * @param {string} [method='GET'] The HTTP method to match the Route
  * against.
- * @return {module:workbox-routing.Route} The generated `Route`(Useful for
- * unregistering).
+ * @return {workbox-routing.Route} The generated `Route`.
  *
- * @memberof module:workbox-routing
+ * @memberof workbox-routing
  */
 function registerRoute_registerRoute(capture, handler, method) {
     let route;
@@ -3449,7 +3472,7 @@ function registerRoute_registerRoute(capture, handler, method) {
  * @return {URL} The URL with any ignored search parameters removed.
  *
  * @private
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function removeIgnoredSearchParams_removeIgnoredSearchParams(urlObject, ignoreURLParametersMatching = []) {
     // Convert the iterable into an array at the start of the loop to make sure
@@ -3480,7 +3503,7 @@ function removeIgnoredSearchParams_removeIgnoredSearchParams(urlObject, ignoreUR
  * @param {Object} options
  *
  * @private
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function* generateURLVariations_generateURLVariations(url, { ignoreURLParametersMatching = [/^utm_/, /^fbclid$/], directoryIndex = 'index.html', cleanURLs = true, urlManipulation, } = {}) {
     const urlObject = new URL(url, location.href);
@@ -3520,13 +3543,13 @@ function* generateURLVariations_generateURLVariations(url, { ignoreURLParameters
 
 
 /**
- * A subclass of [Route]{@link module:workbox-routing.Route} that takes a
- * [PrecacheController]{@link module:workbox-precaching.PrecacheController}
+ * A subclass of {@link workbox-routing.Route} that takes a
+ * {@link workbox-precaching.PrecacheController}
  * instance and uses it to match incoming requests and handle fetching
  * responses from the precache.
  *
- * @memberof module:workbox-precaching
- * @extends module:workbox-routing.Route
+ * @memberof workbox-precaching
+ * @extends workbox-routing.Route
  */
 class PrecacheRoute_PrecacheRoute extends (/* unused pure expression or super */ null && (Route)) {
     /**
@@ -3541,12 +3564,12 @@ class PrecacheRoute_PrecacheRoute extends (/* unused pure expression or super */
      * array of regex's to remove search params when looking for a cache match.
      * @param {boolean} [options.cleanURLs=true] The `cleanURLs` option will
      * check the cache for the URL with a `.html` added to the end of the end.
-     * @param {module:workbox-precaching~urlManipulation} [options.urlManipulation]
+     * @param {workbox-precaching~urlManipulation} [options.urlManipulation]
      * This is a function that should take a URL and return an array of
      * alternative URLs that should be checked for precache matches.
      */
     constructor(precacheController, options) {
-        const match = ({ request }) => {
+        const match = ({ request, }) => {
             const urlsToCacheKeys = precacheController.getURLsToCacheKeys();
             for (const possibleURL of generateURLVariations(request.url, options)) {
                 const cacheKey = urlsToCacheKeys.get(possibleURL);
@@ -3584,10 +3607,10 @@ class PrecacheRoute_PrecacheRoute extends (/* unused pure expression or super */
  * responded to, allowing the event to fall through to other `fetch` event
  * listeners.
  *
- * @param {Object} [options] See
- * [PrecacheRoute options]{@link module:workbox-precaching.PrecacheRoute}.
+ * @param {Object} [options] See the {@link workbox-precaching.PrecacheRoute}
+ * options.
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function addRoute_addRoute(options) {
     const precacheController = getOrCreatePrecacheController();
@@ -3622,14 +3645,14 @@ const SUBSTRING_TO_FIND = '-precache-';
  * @return {Array<string>} A list of all the cache names that were deleted.
  *
  * @private
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 const deleteOutdatedCaches = async (currentPrecacheName, substringToFind = SUBSTRING_TO_FIND) => {
     const cacheNames = await self.caches.keys();
     const cacheNamesToDelete = cacheNames.filter((cacheName) => {
-        return cacheName.includes(substringToFind) &&
+        return (cacheName.includes(substringToFind) &&
             cacheName.includes(self.registration.scope) &&
-            cacheName !== currentPrecacheName;
+            cacheName !== currentPrecacheName);
     });
     await Promise.all(cacheNamesToDelete.map((cacheName) => self.caches.delete(cacheName)));
     return cacheNamesToDelete;
@@ -3652,7 +3675,7 @@ const deleteOutdatedCaches = async (currentPrecacheName, substringToFind = SUBST
  * Adds an `activate` event listener which will clean up incompatible
  * precaches that were created by older versions of Workbox.
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function cleanupOutdatedCaches() {
     // See https://github.com/Microsoft/TypeScript/issues/28357#issuecomment-436484705
@@ -3688,9 +3711,9 @@ function cleanupOutdatedCaches() {
  * `Response`.
  * @param {boolean} [fallbackToNetwork=true] Whether to attempt to get the
  * response from the network if there's a precache miss.
- * @return {module:workbox-routing~handlerCallback}
+ * @return {workbox-routing~handlerCallback}
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function createHandlerBoundToURL(url) {
     const precacheController = getOrCreatePrecacheController();
@@ -3725,7 +3748,7 @@ function createHandlerBoundToURL(url) {
  * @param {string} url The URL whose cache key to look up.
  * @return {string} The cache key that corresponds to that URL.
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function getCacheKeyForURL(url) {
     const precacheController = getOrCreatePrecacheController();
@@ -3756,7 +3779,7 @@ function getCacheKeyForURL(url) {
  * to look up in the precache.
  * @return {Promise<Response|undefined>}
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function matchPrecache(request) {
     const precacheController = getOrCreatePrecacheController();
@@ -3777,21 +3800,21 @@ function matchPrecache(request) {
 /**
  * Adds items to the precache list, removing any duplicates and
  * stores the files in the
- * ["precache cache"]{@link module:workbox-core.cacheNames} when the service
+ * {@link workbox-core.cacheNames|"precache cache"} when the service
  * worker installs.
  *
  * This method can be called multiple times.
  *
  * Please note: This method **will not** serve any of the cached files for you.
  * It only precaches files. To respond to a network request you call
- * [addRoute()]{@link module:workbox-precaching.addRoute}.
+ * {@link workbox-precaching.addRoute}.
  *
  * If you have a single array of files to precache, you can just call
- * [precacheAndRoute()]{@link module:workbox-precaching.precacheAndRoute}.
+ * {@link workbox-precaching.precacheAndRoute}.
  *
  * @param {Array<Object|string>} [entries=[]] Array of entries to precache.
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function precache_precache(entries) {
     const precacheController = getOrCreatePrecacheController();
@@ -3815,14 +3838,14 @@ function precache_precache(entries) {
  * respond to fetch events.
  *
  * This is a convenience method that will call
- * [precache()]{@link module:workbox-precaching.precache} and
- * [addRoute()]{@link module:workbox-precaching.addRoute} in a single call.
+ * {@link workbox-precaching.precache} and
+ * {@link workbox-precaching.addRoute} in a single call.
  *
  * @param {Array<Object|string>} entries Array of entries to precache.
- * @param {Object} [options] See
- * [PrecacheRoute options]{@link module:workbox-precaching.PrecacheRoute}.
+ * @param {Object} [options] See the
+ * {@link workbox-precaching.PrecacheRoute} options.
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function precacheAndRoute(entries, options) {
     precache(entries);
@@ -3852,7 +3875,7 @@ function precacheAndRoute(entries, options) {
  * constructor, the default instance will be used. Generally speaking, most
  * developers will end up using the default.
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 class PrecacheFallbackPlugin {
     /**
@@ -3865,7 +3888,7 @@ class PrecacheFallbackPlugin {
      *     PrecacheController instance. If not provided, the default
      *     PrecacheController will be used.
      */
-    constructor({ fallbackURL, precacheController }) {
+    constructor({ fallbackURL, precacheController, }) {
         /**
          * @return {Promise<Response>} The precache response for the fallback URL.
          *
@@ -3873,11 +3896,68 @@ class PrecacheFallbackPlugin {
          */
         this.handlerDidError = () => this._precacheController.matchPrecache(this._fallbackURL);
         this._fallbackURL = fallbackURL;
-        this._precacheController = precacheController ||
-            getOrCreatePrecacheController();
+        this._precacheController =
+            precacheController || getOrCreatePrecacheController();
     }
 }
 
+
+;// CONCATENATED MODULE: ./node_modules/workbox-precaching/_types.js
+/*
+  Copyright 2018 Google LLC
+
+  Use of this source code is governed by an MIT-style
+  license that can be found in the LICENSE file or at
+  https://opensource.org/licenses/MIT.
+*/
+
+// * * * IMPORTANT! * * *
+// ------------------------------------------------------------------------- //
+// jdsoc type definitions cannot be declared above TypeScript definitions or
+// they'll be stripped from the built `.js` files, and they'll only be in the
+// `d.ts` files, which aren't read by the jsdoc generator. As a result we
+// have to put declare them below.
+/**
+ * @typedef {Object} InstallResult
+ * @property {Array<string>} updatedURLs List of URLs that were updated during
+ * installation.
+ * @property {Array<string>} notUpdatedURLs List of URLs that were already up to
+ * date.
+ *
+ * @memberof workbox-precaching
+ */
+/**
+ * @typedef {Object} CleanupResult
+ * @property {Array<string>} deletedCacheRequests List of URLs that were deleted
+ * while cleaning up the cache.
+ *
+ * @memberof workbox-precaching
+ */
+/**
+ * @typedef {Object} PrecacheEntry
+ * @property {string} url URL to precache.
+ * @property {string} [revision] Revision information for the URL.
+ * @property {string} [integrity] Integrity metadata that will be used when
+ * making the network request for the URL.
+ *
+ * @memberof workbox-precaching
+ */
+/**
+ * The "urlManipulation" callback can be used to determine if there are any
+ * additional permutations of a URL that should be used to check against
+ * the available precached files.
+ *
+ * For example, Workbox supports checking for '/index.html' when the URL
+ * '/' is provided. This callback allows additional, custom checks.
+ *
+ * @callback ~urlManipulation
+ * @param {Object} context
+ * @param {URL} context.url The request's URL.
+ * @return {Array<URL>} To add additional urls to test, return an Array of
+ * URLs. Please note that these **should not be strings**, but URL objects.
+ *
+ * @memberof workbox-precaching
+ */
 
 ;// CONCATENATED MODULE: ./node_modules/workbox-precaching/index.js
 /*
@@ -3902,16 +3982,17 @@ class PrecacheFallbackPlugin {
 
 /**
  * Most consumers of this module will want to use the
- * [precacheAndRoute()]{@link module:workbox-precaching.precacheAndRoute}
+ * {@link workbox-precaching.precacheAndRoute}
  * method to add assets to the cache and respond to network requests with these
  * cached assets.
  *
  * If you require more control over caching and routing, you can use the
- * [PrecacheController]{@link module:workbox-precaching.PrecacheController}
+ * {@link workbox-precaching.PrecacheController}
  * interface.
  *
  * @module workbox-precaching
  */
+
 
 
 ;// CONCATENATED MODULE: ./node_modules/workbox-precaching/index.mjs
@@ -3930,18 +4011,18 @@ class PrecacheFallbackPlugin {
 
 /**
  * NavigationRoute makes it easy to create a
- * [Route]{@link module:workbox-routing.Route} that matches for browser
+ * {@link workbox-routing.Route} that matches for browser
  * [navigation requests]{@link https://developers.google.com/web/fundamentals/primers/service-workers/high-performance-loading#first_what_are_navigation_requests}.
  *
  * It will only match incoming Requests whose
- * [`mode`]{@link https://fetch.spec.whatwg.org/#concept-request-mode}
+ * {@link https://fetch.spec.whatwg.org/#concept-request-mode|mode}
  * is set to `navigate`.
  *
  * You can optionally only apply this route to a subset of navigation requests
  * by using one or both of the `denylist` and `allowlist` parameters.
  *
- * @memberof module:workbox-routing
- * @extends module:workbox-routing.Route
+ * @memberof workbox-routing
+ * @extends workbox-routing.Route
  */
 class NavigationRoute extends (/* unused pure expression or super */ null && (Route)) {
     /**
@@ -3954,7 +4035,12 @@ class NavigationRoute extends (/* unused pure expression or super */ null && (Ro
      * and [`search`]{@link https://developer.mozilla.org/en-US/docs/Web/API/HTMLHyperlinkElementUtils/search}
      * portions of the requested URL.
      *
-     * @param {module:workbox-routing~handlerCallback} handler A callback
+     * *Note*: These RegExps may be evaluated against every destination URL during
+     * a navigation. Avoid using
+     * [complex RegExps](https://github.com/GoogleChrome/workbox/issues/3077),
+     * or else your users may see delays when navigating your site.
+     *
+     * @param {workbox-routing~handlerCallback} handler A callback
      * function that returns a Promise resulting in a Response.
      * @param {Object} options
      * @param {Array<RegExp>} [options.denylist] If any of these patterns match,
@@ -4014,10 +4100,10 @@ class NavigationRoute extends (/* unused pure expression or super */ null && (Ro
  * If a Route throws an error while handling a request, this `handler`
  * will be called and given a chance to provide a response.
  *
- * @param {module:workbox-routing~handlerCallback} handler A callback
+ * @param {workbox-routing~handlerCallback} handler A callback
  * function that returns a Promise resulting in a Response.
  *
- * @memberof module:workbox-routing
+ * @memberof workbox-routing
  */
 function setCatchHandler(handler) {
     const defaultRouter = getOrCreateDefaultRouter();
@@ -4042,10 +4128,10 @@ function setCatchHandler(handler) {
  * Without a default handler, unmatched requests will go against the
  * network as if there were no service worker present.
  *
- * @param {module:workbox-routing~handlerCallback} handler A callback
+ * @param {workbox-routing~handlerCallback} handler A callback
  * function that returns a Promise resulting in a Response.
  *
- * @memberof module:workbox-routing
+ * @memberof workbox-routing
  */
 function setDefaultHandler(handler) {
     const defaultRouter = getOrCreateDefaultRouter_getOrCreateDefaultRouter();
@@ -4113,7 +4199,7 @@ const utils_messages_messages = {
 
 
 /**
- * An implementation of a [cache-first]{@link https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/#cache-falling-back-to-network}
+ * An implementation of a [cache-first](https://developer.chrome.com/docs/workbox/caching-strategies-overview/#cache-first-falling-back-to-network)
  * request strategy.
  *
  * A cache first strategy is useful for assets that have been revisioned,
@@ -4123,14 +4209,14 @@ const utils_messages_messages = {
  * If the network request fails, and there is no cache match, this will throw
  * a `WorkboxError` exception.
  *
- * @extends module:workbox-strategies.Strategy
- * @memberof module:workbox-strategies
+ * @extends workbox-strategies.Strategy
+ * @memberof workbox-strategies
  */
 class CacheFirst extends Strategy_Strategy {
     /**
      * @private
      * @param {Request|string} request A request to run this strategy for.
-     * @param {module:workbox-strategies.StrategyHandler} handler The event that
+     * @param {workbox-strategies.StrategyHandler} handler The event that
      *     triggered the request.
      * @return {Promise<Response>}
      */
@@ -4178,23 +4264,22 @@ class CacheFirst extends Strategy_Strategy {
 
 
 /**
- * An implementation of a
- * [cache-only]{@link https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/#cache-only}
+ * An implementation of a [cache-only](https://developer.chrome.com/docs/workbox/caching-strategies-overview/#cache-only)
  * request strategy.
  *
  * This class is useful if you want to take advantage of any
- * [Workbox plugins]{@link https://developers.google.com/web/tools/workbox/guides/using-plugins}.
+ * [Workbox plugins](https://developer.chrome.com/docs/workbox/using-plugins/).
  *
  * If there is no cache match, this will throw a `WorkboxError` exception.
  *
- * @extends module:workbox-strategies.Strategy
- * @memberof module:workbox-strategies
+ * @extends workbox-strategies.Strategy
+ * @memberof workbox-strategies
  */
 class CacheOnly extends (/* unused pure expression or super */ null && (Strategy)) {
     /**
      * @private
      * @param {Request|string} request A request to run this strategy for.
-     * @param {module:workbox-strategies.StrategyHandler} handler The event that
+     * @param {workbox-strategies.StrategyHandler} handler The event that
      *     triggered the request.
      * @return {Promise<Response>}
      */
@@ -4255,26 +4340,26 @@ const cacheOkAndOpaquePlugin = {
 
 /**
  * An implementation of a
- * [network first]{@link https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/#network-falling-back-to-cache}
+ * [network first](https://developer.chrome.com/docs/workbox/caching-strategies-overview/#network-first-falling-back-to-cache)
  * request strategy.
  *
  * By default, this strategy will cache responses with a 200 status code as
- * well as [opaque responses]{@link https://developers.google.com/web/tools/workbox/guides/handle-third-party-requests}.
+ * well as [opaque responses](https://developer.chrome.com/docs/workbox/caching-resources-during-runtime/#opaque-responses).
  * Opaque responses are are cross-origin requests where the response doesn't
- * support [CORS]{@link https://enable-cors.org/}.
+ * support [CORS](https://enable-cors.org/).
  *
  * If the network request fails, and there is no cache match, this will throw
  * a `WorkboxError` exception.
  *
- * @extends module:workbox-strategies.Strategy
- * @memberof module:workbox-strategies
+ * @extends workbox-strategies.Strategy
+ * @memberof workbox-strategies
  */
 class NetworkFirst extends Strategy_Strategy {
     /**
      * @param {Object} [options]
      * @param {string} [options.cacheName] Cache name to store and retrieve
      * requests. Defaults to cache names provided by
-     * [workbox-core]{@link module:workbox-core.cacheNames}.
+     * {@link workbox-core.cacheNames}.
      * @param {Array<Object>} [options.plugins] [Plugins]{@link https://developers.google.com/web/tools/workbox/guides/using-plugins}
      * to use in conjunction with this caching strategy.
      * @param {Object} [options.fetchOptions] Values passed along to the
@@ -4302,7 +4387,7 @@ class NetworkFirst extends Strategy_Strategy {
     /**
      * @private
      * @param {Request|string} request A request to run this strategy for.
-     * @param {module:workbox-strategies.StrategyHandler} handler The event that
+     * @param {workbox-strategies.StrategyHandler} handler The event that
      *     triggered the request.
      * @return {Promise<Response>}
      */
@@ -4316,17 +4401,22 @@ class NetworkFirst extends Strategy_Strategy {
             timeoutId = id;
             promises.push(promise);
         }
-        const networkPromise = this._getNetworkPromise({ timeoutId, request, logs, handler });
+        const networkPromise = this._getNetworkPromise({
+            timeoutId,
+            request,
+            logs,
+            handler,
+        });
         promises.push(networkPromise);
         const response = await handler.waitUntil((async () => {
             // Promise.race() will resolve as soon as the first promise resolves.
-            return await handler.waitUntil(Promise.race(promises)) ||
+            return ((await handler.waitUntil(Promise.race(promises))) ||
                 // If Promise.race() resolved with null, it might be due to a network
                 // timeout + a cache miss. If that were to happen, we'd rather wait until
                 // the networkPromise resolves instead of returning null.
                 // Note that it's fine to await an already-resolved promise, so we don't
                 // have to check to see if it's still "in flight".
-                await networkPromise;
+                (await networkPromise));
         })());
         if (false) {}
         if (!response) {
@@ -4343,7 +4433,7 @@ class NetworkFirst extends Strategy_Strategy {
      *
      * @private
      */
-    _getTimeoutPromise({ request, logs, handler }) {
+    _getTimeoutPromise({ request, logs, handler, }) {
         let timeoutId;
         const timeoutPromise = new Promise((resolve) => {
             const onNetworkTimeout = async () => {
@@ -4367,7 +4457,7 @@ class NetworkFirst extends Strategy_Strategy {
      *
      * @private
      */
-    async _getNetworkPromise({ timeoutId, request, logs, handler }) {
+    async _getNetworkPromise({ timeoutId, request, logs, handler, }) {
         let error;
         let response;
         try {
@@ -4408,16 +4498,16 @@ class NetworkFirst extends Strategy_Strategy {
 
 /**
  * An implementation of a
- * [network-only]{@link https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/#network-only}
+ * [network-only](https://developer.chrome.com/docs/workbox/caching-strategies-overview/#network-only)
  * request strategy.
  *
  * This class is useful if you want to take advantage of any
- * [Workbox plugins]{@link https://developers.google.com/web/tools/workbox/guides/using-plugins}.
+ * [Workbox plugins](https://developer.chrome.com/docs/workbox/using-plugins/).
  *
  * If the network request fails, this will throw a `WorkboxError` exception.
  *
- * @extends module:workbox-strategies.Strategy
- * @memberof module:workbox-strategies
+ * @extends workbox-strategies.Strategy
+ * @memberof workbox-strategies
  */
 class NetworkOnly extends Strategy_Strategy {
     /**
@@ -4438,7 +4528,7 @@ class NetworkOnly extends Strategy_Strategy {
     /**
      * @private
      * @param {Request|string} request A request to run this strategy for.
-     * @param {module:workbox-strategies.StrategyHandler} handler The event that
+     * @param {workbox-strategies.StrategyHandler} handler The event that
      *     triggered the request.
      * @return {Promise<Response>}
      */
@@ -4447,7 +4537,9 @@ class NetworkOnly extends Strategy_Strategy {
         let error = undefined;
         let response;
         try {
-            const promises = [handler.fetch(request)];
+            const promises = [
+                handler.fetch(request),
+            ];
             if (this._networkTimeoutSeconds) {
                 const timeoutPromise = timeout(this._networkTimeoutSeconds * 1000);
                 promises.push(timeoutPromise);
@@ -4489,7 +4581,7 @@ class NetworkOnly extends Strategy_Strategy {
 
 /**
  * An implementation of a
- * [stale-while-revalidate]{@link https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/#stale-while-revalidate}
+ * [stale-while-revalidate](https://developer.chrome.com/docs/workbox/caching-strategies-overview/#stale-while-revalidate)
  * request strategy.
  *
  * Resources are requested from both the cache and the network in parallel.
@@ -4498,22 +4590,22 @@ class NetworkOnly extends Strategy_Strategy {
  * with each successful request.
  *
  * By default, this strategy will cache responses with a 200 status code as
- * well as [opaque responses]{@link https://developers.google.com/web/tools/workbox/guides/handle-third-party-requests}.
+ * well as [opaque responses](https://developer.chrome.com/docs/workbox/caching-resources-during-runtime/#opaque-responses).
  * Opaque responses are cross-origin requests where the response doesn't
- * support [CORS]{@link https://enable-cors.org/}.
+ * support [CORS](https://enable-cors.org/).
  *
  * If the network request fails, and there is no cache match, this will throw
  * a `WorkboxError` exception.
  *
- * @extends module:workbox-strategies.Strategy
- * @memberof module:workbox-strategies
+ * @extends workbox-strategies.Strategy
+ * @memberof workbox-strategies
  */
 class StaleWhileRevalidate extends Strategy_Strategy {
     /**
      * @param {Object} [options]
      * @param {string} [options.cacheName] Cache name to store and retrieve
      * requests. Defaults to cache names provided by
-     * [workbox-core]{@link module:workbox-core.cacheNames}.
+     * {@link workbox-core.cacheNames}.
      * @param {Array<Object>} [options.plugins] [Plugins]{@link https://developers.google.com/web/tools/workbox/guides/using-plugins}
      * to use in conjunction with this caching strategy.
      * @param {Object} [options.fetchOptions] Values passed along to the
@@ -4533,19 +4625,18 @@ class StaleWhileRevalidate extends Strategy_Strategy {
     /**
      * @private
      * @param {Request|string} request A request to run this strategy for.
-     * @param {module:workbox-strategies.StrategyHandler} handler The event that
+     * @param {workbox-strategies.StrategyHandler} handler The event that
      *     triggered the request.
      * @return {Promise<Response>}
      */
     async _handle(request, handler) {
         const logs = [];
         if (false) {}
-        const fetchAndCachePromise = handler
-            .fetchAndCachePut(request)
-            .catch(() => {
+        const fetchAndCachePromise = handler.fetchAndCachePut(request).catch(() => {
             // Swallow this error because a 'no-response' error will be thrown in
             // main handler return flow. This will be in the `waitUntil()` flow.
         });
+        void handler.waitUntil(fetchAndCachePromise);
         let response = await handler.cacheMatch(request);
         let error;
         if (response) {
@@ -4556,7 +4647,7 @@ class StaleWhileRevalidate extends Strategy_Strategy {
             try {
                 // NOTE(philipwalton): Really annoying that we have to type cast here.
                 // https://github.com/microsoft/TypeScript/issues/20006
-                response = await fetchAndCachePromise;
+                response = (await fetchAndCachePromise);
             }
             catch (err) {
                 if (err instanceof Error) {
@@ -4620,7 +4711,7 @@ var workbox_cacheable_response_version = __webpack_require__(895);
  * [`Response`](https://developer.mozilla.org/en-US/docs/Web/API/Response)
  * to be considered cacheable.
  *
- * @memberof module:workbox-cacheable-response
+ * @memberof workbox-cacheable-response
  */
 class CacheableResponse {
     /**
@@ -4683,7 +4774,7 @@ class CacheableResponse {
  * easier to add in cacheability checks to requests made via Workbox's built-in
  * strategies.
  *
- * @memberof module:workbox-cacheable-response
+ * @memberof workbox-cacheable-response
  */
 class CacheableResponsePlugin {
     /**
@@ -4864,7 +4955,7 @@ function parseRangeHeader(rangeHeader) {
  * `Range:` header, or a `416 Range Not Satisfiable` response if the
  * conditions of the `Range:` header can't be met.
  *
- * @memberof module:workbox-range-requests
+ * @memberof workbox-range-requests
  */
 async function createPartialResponse(request, originalResponse) {
     try {
@@ -4922,7 +5013,7 @@ async function createPartialResponse(request, originalResponse) {
  * It does this by intercepting the `cachedResponseWillBeUsed` plugin callback
  * and returning the appropriate subset of the cached response body.
  *
- * @memberof module:workbox-range-requests
+ * @memberof workbox-range-requests
  */
 class RangeRequestsPlugin {
     constructor() {
@@ -4937,7 +5028,7 @@ class RangeRequestsPlugin {
          *
          * @private
          */
-        this.cachedResponseWillBeUsed = async ({ request, cachedResponse }) => {
+        this.cachedResponseWillBeUsed = async ({ request, cachedResponse, }) => {
             // Only return a sliced response if there's something valid in the cache,
             // and there's a Range: header in the request.
             if (cachedResponse && request.headers.has('range')) {
@@ -4973,7 +5064,9 @@ class RangeRequestsPlugin {
 
 
 
- // use a special strategy for mp4
+
+
+// use a special strategy for mp4
 // This is only going to work reliably for same-origin video requests.
 // (Or maybe CORS-enabled ones, but https://bugs.webkit.org/show_bug.cgi?id=184447
 //  suggests that could be a problem in Safari.)
@@ -4990,7 +5083,7 @@ registerRoute_registerRoute(_ref => {
     statuses: [200]
   }), new RangeRequestsPlugin()]
 }));
-;// CONCATENATED MODULE: ./node_modules/idb/build/esm/wrap-idb-value.js
+;// CONCATENATED MODULE: ./node_modules/idb/build/wrap-idb-value.js
 const instanceOfAny = (object, constructors) => constructors.some((c) => object instanceof c);
 
 let idbProxyableTypes;
@@ -5177,7 +5270,7 @@ const unwrap = (value) => reverseTransformCache.get(value);
 
 
 
-;// CONCATENATED MODULE: ./node_modules/idb/build/esm/index.js
+;// CONCATENATED MODULE: ./node_modules/idb/build/index.js
 
 
 
@@ -5193,17 +5286,21 @@ function openDB(name, version, { blocked, upgrade, blocking, terminated } = {}) 
     const openPromise = wrap(request);
     if (upgrade) {
         request.addEventListener('upgradeneeded', (event) => {
-            upgrade(wrap(request.result), event.oldVersion, event.newVersion, wrap(request.transaction));
+            upgrade(wrap(request.result), event.oldVersion, event.newVersion, wrap(request.transaction), event);
         });
     }
-    if (blocked)
-        request.addEventListener('blocked', () => blocked());
+    if (blocked) {
+        request.addEventListener('blocked', (event) => blocked(
+        // Casting due to https://github.com/microsoft/TypeScript-DOM-lib-generator/pull/1405
+        event.oldVersion, event.newVersion, event));
+    }
     openPromise
         .then((db) => {
         if (terminated)
             db.addEventListener('close', () => terminated());
-        if (blocking)
-            db.addEventListener('versionchange', () => blocking());
+        if (blocking) {
+            db.addEventListener('versionchange', (event) => blocking(event.oldVersion, event.newVersion, event));
+        }
     })
         .catch(() => { });
     return openPromise;
@@ -5215,8 +5312,11 @@ function openDB(name, version, { blocked, upgrade, blocking, terminated } = {}) 
  */
 function deleteDB(name, { blocked } = {}) {
     const request = indexedDB.deleteDatabase(name);
-    if (blocked)
-        request.addEventListener('blocked', () => blocked());
+    if (blocked) {
+        request.addEventListener('blocked', (event) => blocked(
+        // Casting due to https://github.com/microsoft/TypeScript-DOM-lib-generator/pull/1405
+        event.oldVersion, event));
+    }
     return wrap(request).then(() => undefined);
 }
 
@@ -5352,7 +5452,9 @@ class CacheTimestampsModel {
             id: this._getId(url),
         };
         const db = await this.getDb();
-        const tx = db.transaction(CACHE_OBJECT_STORE, 'readwrite', { durability: 'relaxed' });
+        const tx = db.transaction(CACHE_OBJECT_STORE, 'readwrite', {
+            durability: 'relaxed',
+        });
         await tx.store.put(entry);
         await tx.done;
     }
@@ -5382,7 +5484,10 @@ class CacheTimestampsModel {
      */
     async expireEntries(minTimestamp, maxCount) {
         const db = await this.getDb();
-        let cursor = await db.transaction(CACHE_OBJECT_STORE).store.index('timestamp').openCursor(null, 'prev');
+        let cursor = await db
+            .transaction(CACHE_OBJECT_STORE)
+            .store.index('timestamp')
+            .openCursor(null, 'prev');
         const entriesToDelete = [];
         let entriesNotDeletedCount = 0;
         while (cursor) {
@@ -5436,10 +5541,10 @@ class CacheTimestampsModel {
         return this._cacheName + '|' + normalizeURL(url);
     }
     /**
-      * Returns an open connection to the database.
-      *
-      * @private
-      */
+     * Returns an open connection to the database.
+     *
+     * @private
+     */
     async getDb() {
         if (!this._db) {
             this._db = await openDB(DB_NAME, 1, {
@@ -5470,7 +5575,7 @@ class CacheTimestampsModel {
  * limit on the number of responses stored in a
  * [`Cache`](https://developer.mozilla.org/en-US/docs/Web/API/Cache).
  *
- * @memberof module:workbox-expiration
+ * @memberof workbox-expiration
  */
 class CacheExpiration {
     /**
@@ -5505,8 +5610,9 @@ class CacheExpiration {
             return;
         }
         this._isRunning = true;
-        const minTimestamp = this._maxAgeSeconds ?
-            Date.now() - (this._maxAgeSeconds * 1000) : 0;
+        const minTimestamp = this._maxAgeSeconds
+            ? Date.now() - this._maxAgeSeconds * 1000
+            : 0;
         const urlsExpired = await this._timestampModel.expireEntries(minTimestamp, this._maxEntries);
         // Delete URLs from the cache
         const cache = await self.caches.open(this._cacheName);
@@ -5549,8 +5655,8 @@ class CacheExpiration {
         }
         else {
             const timestamp = await this._timestampModel.getTimestamp(url);
-            const expireOlderThan = Date.now() - (this._maxAgeSeconds * 1000);
-            return timestamp !== undefined ? (timestamp < expireOlderThan) : true;
+            const expireOlderThan = Date.now() - this._maxAgeSeconds * 1000;
+            return timestamp !== undefined ? timestamp < expireOlderThan : true;
         }
     }
     /**
@@ -5592,19 +5698,19 @@ class CacheExpiration {
  * In other words, it can't be used to expire entries in strategy that uses the
  * default runtime cache name.
  *
- * Whenever a cached request is used or updated, this plugin will look
- * at the associated cache and remove any old or extra requests.
+ * Whenever a cached response is used or updated, this plugin will look
+ * at the associated cache and remove any old or extra responses.
  *
- * When using `maxAgeSeconds`, requests may be used *once* after expiring
+ * When using `maxAgeSeconds`, responses may be used *once* after expiring
  * because the expiration clean up will not have occurred until *after* the
- * cached request has been used. If the request has a "Date" header, then
- * a light weight expiration check is performed and the request will not be
+ * cached response has been used. If the response has a "Date" header, then
+ * a light weight expiration check is performed and the response will not be
  * used immediately.
  *
  * When using `maxEntries`, the entry least-recently requested will be removed
  * from the cache first.
  *
- * @memberof module:workbox-expiration
+ * @memberof workbox-expiration
  */
 class ExpirationPlugin {
     /**
@@ -5636,7 +5742,7 @@ class ExpirationPlugin {
          *
          * @private
          */
-        this.cachedResponseWillBeUsed = async ({ event, request, cacheName, cachedResponse }) => {
+        this.cachedResponseWillBeUsed = async ({ event, request, cacheName, cachedResponse, }) => {
             if (!cachedResponse) {
                 return null;
             }
@@ -5668,7 +5774,7 @@ class ExpirationPlugin {
          *
          * @private
          */
-        this.cacheDidUpdate = async ({ cacheName, request }) => {
+        this.cacheDidUpdate = async ({ cacheName, request, }) => {
             if (false) {}
             const cacheExpiration = this._getCacheExpiration(cacheName);
             await cacheExpiration.updateTimestamp(request.url);
@@ -5724,7 +5830,7 @@ class ExpirationPlugin {
         // If we have a valid headerTime, then our response is fresh iff the
         // headerTime plus maxAgeSeconds is greater than the current time.
         const now = Date.now();
-        return dateHeaderTimestamp >= now - (this._maxAgeSeconds * 1000);
+        return dateHeaderTimestamp >= now - this._maxAgeSeconds * 1000;
     }
     /**
      * This method will extract the data header and parse it into a useful
@@ -5799,7 +5905,9 @@ class ExpirationPlugin {
 ;// CONCATENATED MODULE: ./_src/sw/subscripts/cache-images.js
 
 
- // Images carry most of the weight for a web page.
+
+
+// Images carry most of the weight for a web page.
 // Use this rule to serve them quickly from the cache,
 // while making sure you don’t cache them indefinitely,
 // consuming your users' storage.
@@ -5814,7 +5922,6 @@ registerRoute_registerRoute(_ref => {
   plugins: [new ExpirationPlugin({
     maxEntries: 60,
     maxAgeSeconds: 30 * 24 * 60 * 60 // 30 Days
-
   })]
 }));
 ;// CONCATENATED MODULE: ./_src/sw/subscripts/cache-pages.js
@@ -5835,12 +5942,14 @@ registerRoute_registerRoute(_ref => {
 
 
 
- // Cache the Google Fonts stylesheets with a stale-while-revalidate strategy.
 
+
+// Cache the Google Fonts stylesheets with a stale-while-revalidate strategy.
 registerRoute_registerRoute(/^https:\/\/fonts\.googleapis\.com/, new StaleWhileRevalidate({
   cacheName: 'google-fonts-stylesheets'
-})); // Cache the underlying font files with a cache-first strategy for 1 year.
+}));
 
+// Cache the underlying font files with a cache-first strategy for 1 year.
 registerRoute_registerRoute(/^https:\/\/fonts\.gstatic\.com/, new CacheFirst({
   cacheName: 'google-fonts-webfonts',
   plugins: [new CacheableResponsePlugin({
@@ -5852,8 +5961,9 @@ registerRoute_registerRoute(/^https:\/\/fonts\.gstatic\.com/, new CacheFirst({
 }));
 ;// CONCATENATED MODULE: ./_src/sw/subscripts/no-cache-matomo.js
 
- // Never cache Matomo calls
 
+
+// Never cache Matomo calls
 registerRoute_registerRoute(/^https:\/\/analytics\.schapira\.dev/, new NetworkOnly());
 ;// CONCATENATED MODULE: ./_src/sw/sw.js
 
@@ -5861,13 +5971,15 @@ registerRoute_registerRoute(/^https:\/\/analytics\.schapira\.dev/, new NetworkOn
 
 
 
-cleanupOutdatedCaches(); // default strategy
+cleanupOutdatedCaches();
 
+// default strategy
 setDefaultHandler(new StaleWhileRevalidate({
   cacheName: 'bsc-c6po',
   plugins: [new BroadcastUpdatePlugin()]
-})); // specialized strategies
+}));
 
+// specialized strategies
 
 
 

@@ -5,7 +5,7 @@ permalink: /humans.txt
 /* Author */
 Name: Boris Schapira
 Site: https://borischapira.com
-Mastodon: @borisschapira@framapiaf.org
+Mastodon: {{ site.author.mastodon_perso.nick }}, {{ site.author.mastodon_pro.nick }}
 Location: Made with <3 in Perigueux, France
 
 /* THANKS */

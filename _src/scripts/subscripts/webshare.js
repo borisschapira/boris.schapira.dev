@@ -1,21 +1,19 @@
-import { ready } from './utils';
+import { ready } from "./utils";
 
 if (navigator && navigator.share) {
   ready(function setWebSharing() {
-    const shareElement = document.querySelector('.webshare');
+    const shareElement = document.querySelector(".webshare");
     if (shareElement) {
-      let url = document.location.href;
-      const canonicalElement = document.querySelector('link[rel=canonical]');
+      const urlLocation = new URL(window.location);
+      let url = urlLocation.origin + urlLocation.pathname;
+      const canonicalElement = document.querySelector("link[rel=canonical]");
       if (canonicalElement !== null) {
         url = canonicalElement.href;
       }
 
-      const title = document.querySelector('head>title').innerText;
-      const desc = document.querySelector('meta[name=description]').content;
-
       const sharedData = {
-        title: title,
-        text: desc,
+        title: shareElement.dataset.title,
+        text: shareElement.dataset.text,
         url: url,
       };
 
@@ -25,19 +23,19 @@ if (navigator && navigator.share) {
       }
       if (canShare) {
         shareElement
-          .querySelector('button')
-          .addEventListener('click', function shareContent() {
+          .querySelector("button")
+          .addEventListener("click", function shareContent() {
             navigator
               .share({
-                title: title,
-                text: desc,
-                url: url,
+                title: sharedData.title,
+                text: sharedData.text,
+                url: sharedData.url,
               })
-              .then(() => console.log('Successful share'))
-              .catch((error) => console.log('Error sharing', error));
+              .then(() => console.log("Successful share"))
+              .catch((error) => console.log("Error sharing", error));
           });
 
-        shareElement.classList.add('visible');
+        shareElement.classList.add("visible");
       }
     }
   });
