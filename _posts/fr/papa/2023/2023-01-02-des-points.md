@@ -1,5 +1,8 @@
 ---
 title: Des points
+i18n-key: chores-points
+translations:
+    en: chores-points
 ---
 
 Ma femme et moi avons installé sur nos téléphones [l'application Nipto](https://nipto.app/fr). Elle nous permet de compter des points quand les enfants font des tâches ménagères. S'ils la font ensemble, ils partagent les points. Ce qui est fait seul permet de gagner des points pour soi. Ça les amuse beaucoup, mais ça donne des discussions curieuses :

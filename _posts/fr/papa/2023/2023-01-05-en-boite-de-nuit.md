@@ -1,5 +1,8 @@
 ---
 title: En boîte de nuit
+i18n-key: nightclub
+translations:
+    en: nightclub
 ---
 
 Il y a 5 ans, se mariait ma belle-soeur. Mariage superbe, réception dans un château. Tout était très bien organisé. Les adultes dinaient et dansaient dans les anciens chais, amménagés en salle de réception. Les enfants étaient sous la surveillance d'une animatrice, dans un espace du château protégé du bruit, aménagé avec des jeux, jouets, couchages et doudous.
