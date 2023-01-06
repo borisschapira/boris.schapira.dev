@@ -52,7 +52,6 @@
 
 .nav-header {
   font-family: var(--default-font-family);
-  font-size: clamp(16px, 1.7vw, 22px);
   font-weight: bold;
   position: relative;
   @extend %main-grid;
@@ -65,10 +64,9 @@
     display: flex;
     grid-column: 1 / 10;
     line-height: 4rem;
-    font-size: 2em;
+    font-size: 1.3em;
 
     @include media('>=large') {
-      font-size: 1.3em;
       grid-column: 1 / 4;
     }
   }
