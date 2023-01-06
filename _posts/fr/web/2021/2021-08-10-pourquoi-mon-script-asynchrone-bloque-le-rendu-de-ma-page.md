@@ -1,5 +1,5 @@
 ---
-title: Pourquoi mon script asynchrone bloque le rendu de ma page ?
+title: Pourquoi mon script asynchrone bloque-t-il le rendu de ma page ?
 i18n-key: async-defer-render-blocking
 tags:
     - 'Performance Web'
