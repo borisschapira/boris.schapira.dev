@@ -75,7 +75,7 @@ a {
   );
 
 
-  --color-main-text: hsl(0, 0%, calc(5% + 70% * var(--is-dark-mode)));
+  --color-main-text: hsl(0, 0%, calc(5% + 81% * var(--is-dark-mode)));
   --color-compliment-text: hsl(0, 0%, calc(95% - 93% * var(--is-dark-mode)));
 
   --color-main-desaturate: hsl(
@@ -141,7 +141,7 @@ a {
   --color-main-gray: hsl(
     var(--color-hue),
     10%,
-    calc(40% + 25% * var(--is-dark-mode))
+    calc(30% + 50% * var(--is-dark-mode))
   );
 
   --color-main-grayfade: hsl(
