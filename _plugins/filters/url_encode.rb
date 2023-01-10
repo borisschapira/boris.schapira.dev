@@ -4,7 +4,8 @@ require 'uri'
 module Jekyll
   module URLEncodeFilter
     def url_encode(url)
-      URI.escape(url, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]"))
+      p = URI::Parser.new
+      p.escape(url, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]"))
     end
   end
 end
