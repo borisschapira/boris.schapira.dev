@@ -73,7 +73,8 @@ module Jekyll
       description = description.gsub(/\r?\n/, ' ');
       description = markdown_converter.convert(truncatewords(description, 40));
 
-      imgtitle = URI.escape(title).gsub(" ", '%20').gsub(".", '%2e').gsub(",%20", '%0A').gsub("'",'%E2%80%99').gsub('?', '%3F').gsub('%2C%20','%0A')
+      p = URI::Parser.new
+      imgtitle = p.escape(title).gsub(" ", '%20').gsub(".", '%2e').gsub(",%20", '%0A').gsub("'",'%E2%80%99').gsub('?', '%3F').gsub('%2C%20','%0A')
 
       if page.data.key?("thumbnail_background")
         category = page.data["category"]
