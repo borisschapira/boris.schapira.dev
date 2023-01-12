@@ -93,7 +93,7 @@ a {
   --color-main-discrete: hsl(
     var(--color-hue),
     75%,
-    calc(25% + 10% - (20% + var(--dark-mode-lightup)) * var(--is-dark-mode))
+    calc(25% + 10% + (20% + var(--dark-mode-lightup)) * var(--is-dark-mode))
   );
 
   --color-compliment: hsl(
