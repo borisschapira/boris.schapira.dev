@@ -40,7 +40,7 @@ _Chargement de la page d’accueil de LeMonde.fr. Les contenus insérés et en m
 
 Pire encore, vous pouvez penser que la mise en page est stable et essayer d’interagir avec la page. Par exemple en cliquant sur un bouton (image de gauche). Si un autre contenu apparaît juste avant le clic et pousse l’autre contenu vers le bas (image de droite), vous risquez d’interagir avec le mauvais élément.
 
-{% capture img_alt %}Deux images d’un utilisateur tenant un téléphone dans sa main. Dans la seconde image, un tapotement est matérialisé.{% endcapture -%}{% capture img_caption %}L’utilisateur est sur le point de tapoter sur l’image d’un fauteuil, dans une liste de produits. Soudainement, un texte avec un <abbr lang="en" title="Call to Action">CTA</abbr> est inséré en haut de page, déplaçant tout le contenu vers le bas. L’utilisateur clique involontairement sur l’image d’un sac à dos.{% endcapture -%} {% include rwd-image.html.liquid
+{% capture img_alt %}Deux images d’un utilisateur tenant un téléphone dans sa main. Dans la seconde image, un tapotement est matérialisé.{% endcapture -%}{% capture img_caption %}L’utilisateur est sur le point de tapoter sur l’image d’un fauteuil, dans une liste de produits. Soudainement, un texte avec un bouton est inséré en haut de page, déplaçant tout le contenu vers le bas. L’utilisateur clique involontairement sur l’image d’un sac à dos.{% endcapture -%} {% include rwd-image.html.liquid
 path="/assets/images/web/2020-09-15/1.png"
 alt=img_alt
 caption=img_caption
@@ -66,7 +66,7 @@ Pour déterminer le moment où une page est chargée/stable, <a href="https://bu
 
 Revenons à notre exemple :
 
-{% capture img_alt %}Deux images d’un utilisateur tenant un téléphone dans sa main. Dans la seconde image, un tapotement est matérialisé.{% endcapture -%}{% capture img_caption %}L’utilisateur est sur le point de tapoter sur l’image d’un fauteuil, dans une liste de produits. Soudainement, un texte avec un <abbr title="Call To Action" lang="en">CTA</abbr> est inséré en haut de page, déplaçant tout le contenu vers le bas. L’utilisateur clique involontairement sur l’image d’un sac à dos.{% endcapture -%} {% include rwd-image.html.liquid
+{% capture img_alt %}Deux images d’un utilisateur tenant un téléphone dans sa main. Dans la seconde image, un tapotement est matérialisé.{% endcapture -%}{% capture img_caption %}L’utilisateur est sur le point de tapoter sur l’image d’un fauteuil, dans une liste de produits. Soudainement, un texte avec un bouton est inséré en haut de page, déplaçant tout le contenu vers le bas. L’utilisateur clique involontairement sur l’image d’un sac à dos.{% endcapture -%} {% include rwd-image.html.liquid
 path="/assets/images/web/2020-09-15/1.png"
 alt=img_alt
 caption=img_caption
