@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
-ruby '2.6.2' unless Gem.win_platform?
+ruby '3.0.0' unless Gem.win_platform?
 
 gem 'html-proofer'
