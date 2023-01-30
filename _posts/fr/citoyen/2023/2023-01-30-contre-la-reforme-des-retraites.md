@@ -5,7 +5,7 @@ translations:
     en: in-protest-of-the-pension-bill
 ---
 
-Je serai en grève et en manifestant demain, pour faire pression sur le gouvernement afin d'obtenir le retrait du projet de réforme des retraites et, pourquoi pas, d'exiger une contre-réforme.
+Je serai [en grève](https://greve.cool/) et en manifestant demain, pour faire pression sur le gouvernement afin d'obtenir le retrait du projet de réforme des retraites et, pourquoi pas, d'exiger une contre-réforme.
 
 Aujourd'hui, nous devons repenser les places respectives du travail et du temps libre dans nos vies, en nous redonnant du temps pour nous et pour les autres.
 
