@@ -1,9 +1,8 @@
 ---
 title: Je ne ferai plus d'enfants
-description: 'Fini, je ferme l''usine. Une vasectomie plus loin, je peux le dire :
-  je ne ferai plus d''enfants.'
-
+description: "Fini, je ferme l'usine. Une vasectomie plus loin, je peux le dire : je ne ferai plus d'enfants."
 ---
+
 Je ne ferai plus d'enfants. J'ai 37 ans, et je viens de passer au bloc pour une vasectomie. Une page se tourne.
 
 Je sais que c'est quelque chose que beaucoup considèrent comme intime. Des ami·es, des collègues, vont lire ces mots. Je le sais, et je le fais consciemment : parler de cela est un geste politique.
@@ -38,13 +37,13 @@ Et pourtant, en tant qu'homme, je n'ai jamais eu à porter le poids de la contra
 
 Je sais que la science est positive, que c'est un des modes de contraception les plus efficaces, mais je reste perturbé par la présence de cet objet en elle dont les effets sont connus et pourtant rarement énoncés : menstruations anormalement abondantes et prolongées, saignements intermédiaires, douleurs abdominales, anémie (trop peu de globules rouges sains dans le sang).
 
-Je n'ai pas toujours su tout ça. Et parfois, je vais être honnête, je n'ai pas voulu savoir. Et puis, à un moment, ça m'est apparu comme une évidence, comme un _possible_ : si je me contraceptais moi-même, elle ne serait plus obligée de vivre ça.
+Je n'ai pas toujours su tout ça. Et parfois, je vais être honnête, je n'ai pas voulu savoir. Et puis, à un moment, ça m'est apparu comme une évidence, comme un *possible* : si je me contraceptais moi-même, elle ne serait plus obligée de vivre ça.
 
 Outre le préservatif masculin, les possibilités pour les hommes sont, à ma connaissance :
 
-* une stérilisation (définitive, très peu d'effets secondaires) ;
-* un traitement hormonal hebdomadaire de testostérone (réversible, beaucoup d'effets secondaires) ;
-* une contraception thermique (le "slip chauffant", réversible et sans effets secondaires, mais qui nécessite une certaine logistique).
+-   une stérilisation (définitive, très peu d'effets secondaires) ;
+-   un traitement hormonal hebdomadaire de testostérone (réversible, beaucoup d'effets secondaires) ;
+-   une contraception thermique (le "slip chauffant", réversible et sans effets secondaires, mais qui nécessite une certaine logistique).
 
 L'injection d'un gel contraceptif (le Vasalgel) dans le canal déférent et la pilule contraceptive masculine sont en cours de test, mais je ne crois pas que ces tests aient lieu en France aujourd'hui. Je ne les ai donc pas envisagés.
 
@@ -62,7 +61,7 @@ Bien sûr, on ne sait pas ce que l'avenir nous réserve. Peut-être perdrais-je 
 
 À ce stade de ma vie, la contraception définitive est l'occasion de faire mon deuil d'un enfant supplémentaire pour lequel je n'ai plus l'énergie et la motivation, tout en confirmant mon investissement dans l'éducation et la vie actuelle et future de mes petits princes.
 
-***
+---
 
 On m'a beaucoup demandé si je n'allais pas changer d'avis. Permettez-moi d'interroger la question. Nous passons notre vie d'adulte à prendre des décisions définitives, ou du moins qui nécessitent des années pour être contournées. Ces dernières années, nous sommes devenus propriétaires. Nous avons adopté des animaux de compagnie. Nous avons fait des choix très structurants sur nos carrières. Des choix dont très peu sont réversibles.
 
@@ -70,7 +69,7 @@ Ces décisions ont été perçues très positivement par la société. Ils sont 
 
 Sincèrement, on m'a davantage interrogé sur le fait que je ne veuille plus faire d'enfant que sur ma capacité, avant la naissance de mes fils, à bien m'en occuper. Comme s'il était plus important que je sois un potentiel géniteur qu'un bon père. Est-ce qu'il ne serait pas temps qu'on s'interroge collectivement sur ce fait ?
 
-***
+---
 
 Mais ça ne répond pas à la question : suis-je parfaitement sûr de ne plus jamais vouloir d'enfants ? Aujourd'hui, la réponse est oui, mais demain ?
 
@@ -143,7 +142,7 @@ Il n'y a aucun soin particulier, aucun traitement post-opératoire, aucun pansem
 
 **Mis-à-jour 3 mois après**
 
-Pendant trois mois, j'ai continué à me comporter comme avant. Même si l'opération est une réussite, mon organisme devait se débarrasser des spermatozoïdes déjà engagés dans les canaux déférents. Pour m'assurer de la réussite de l'opération, j'ai dû passer un spermogramme. 
+Pendant trois mois, j'ai continué à me comporter comme avant. Même si l'opération est une réussite, mon organisme devait se débarrasser des spermatozoïdes déjà engagés dans les canaux déférents. Pour m'assurer de la réussite de l'opération, j'ai dû passer un spermogramme.
 
 Le résultat étant à 0, l'opération est un succès. Ma femme va pouvoir se débarrasser de son dispositif intra-utérin et de mon côté, je suis soulagé de ne pas avoir à repasser au bloc. La perspective ne m'enchantait pas, même si j'étais prêt à le refaire si nécessaire. L'ayant déjà vécu, je pense que j'aurai été encore plus en confiance pour le refaire. Et toujours aussi motivé.
 
@@ -151,6 +150,6 @@ Le résultat étant à 0, l'opération est un succès. Ma femme va pouvoir se d�
 
 J'ai 37 ans, une femme que j'aime a accepté de faire avec moi deux enfants que j'adore et maintenant, une page se tourne.
 
-***
+---
 
 Big up à mes confrères dont j'ai découvert qu'ils y étaient passés avant moi ou qu'ils y avaient pensé ou y pensaient et dont les témoignages m'ont aussi aidé à prendre ma décision : Mikael, Thomas, Les Nicos C, D et S, Alexandre, Loïc, Ludo et j'en oublie. Merci pour les conversations "entre couilles" (pour une fois, l'expression est pertinente).

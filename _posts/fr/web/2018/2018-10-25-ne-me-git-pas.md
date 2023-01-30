@@ -14,17 +14,17 @@ alt="Capture vidéo de Chrome où l'on voit l'onglet s'animer"
 🎶 Moi je t'offrirai  
 des commits ciselés  
 sur des branches forkées  
-Où on ne rebase pas !  
+Où on ne rebase pas !
 
 Je ferai des pull  
-Jusqu'après ma mort   
+Jusqu'après ma mort  
 Pour avoir tes tags  
-Jusque dans mon stash !  
+Jusque dans mon stash !
 
 Je ferai un HEAD  
 Où le --force sera chain  
 Où master sera main  
-Où tu seras reine  
+Où tu seras reine
 
 Ne me git pas  
 Ne me git pas  

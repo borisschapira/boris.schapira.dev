@@ -2,24 +2,24 @@
 title: Un métier, pas qu'une passion
 slug: un-metier-pas-que-une-passion
 tags:
-- Premières emb(a)uches
+    - Premières emb(a)uches
 serie: Premières emb(a)uches
-
 ---
+
 Développeurs et développeuses juniors : vos formations, [courtes ou longues](/notes/2021-01-les-formations-courtes/), ne vous rendent pas autonomes et prêt·es à accueillir n'importe quel défi. Et ça tombe bien, ce n'est pas le rôle de la formation initiale que de faire sortir des promotions entières de personnes immédiatement compétentes sur un projet exigeant.
 
 Vous êtes peut-être passionné·e de code, mais cela ne suffit à en faire un métier. Si vous vous arrêtez là, c'est un hobby.
 
 Pour que ça devienne un métier, il faut que cela s'inscrive dans un cadre :
 
-* un ensemble de compétences techniques ;
-* de la formation pour en acquérir de nouvelles ;
-* un cadre métier avec un contexte (légal, structurel, conjoncturel, géographique, etc.) ;
-* des engagements de cadre / coûts / délai à respecter ou, en tout cas, à définir ;
-* une organisation régie par une gouvernance à adopter (définissant qui décide de quoi, en informe qui, comment, qui est responsable en cas d'échec…) ;
-* souvent, un jargon mélangeant des composantes locales et plus consensuelles ;
-* des pratiques organisationnelles, parfois historiques, ayant un rôle social dans l'organisation ;
-* un portefeuille de projets orientés par une vision stratégique et des tactiques adaptées à chaque situation et inscrites dans des plans sur la durée (parfois pluriannuels).
+-   un ensemble de compétences techniques ;
+-   de la formation pour en acquérir de nouvelles ;
+-   un cadre métier avec un contexte (légal, structurel, conjoncturel, géographique, etc.) ;
+-   des engagements de cadre / coûts / délai à respecter ou, en tout cas, à définir ;
+-   une organisation régie par une gouvernance à adopter (définissant qui décide de quoi, en informe qui, comment, qui est responsable en cas d'échec…) ;
+-   souvent, un jargon mélangeant des composantes locales et plus consensuelles ;
+-   des pratiques organisationnelles, parfois historiques, ayant un rôle social dans l'organisation ;
+-   un portefeuille de projets orientés par une vision stratégique et des tactiques adaptées à chaque situation et inscrites dans des plans sur la durée (parfois pluriannuels).
 
 Mais ce n'est pas tout.
 
@@ -27,7 +27,7 @@ Mais ce n'est pas tout.
 
 L'école ne forme souvent qu'aux compétences techniques (et encore, souvent on en sort [débutant·e avancé·e](https://boris.schapira.dev/notes/2015-09-expert-ou-pas/)), en s'assurant de donner un bagage intellectuel théorique pour le reste, mais sans expérience. Et c'est déjà beaucoup.
 
-Donc les compétences nécessaires pour naviguer avec aisance dans le reste s'acquièrent souvent avec le temps et la variété des expériences rencontrées. Elles s'acquièrent donc… lentement. Même deux ans d'alternance à mi-temps ne changent pas grand chose. Il s'agit souvent de deux ans pendant lesquels le ou la junior a travaillé  temps partiel avec un jeu de responsabilité plus limité qu'un·e autre salarié·e. Ou alors l'étudiant·e a travaillé dans une petite start-up, a eu beaucoup de responsabilité mais aucun regard sur ce qu'il ou elle faisait. C'est la recette parfait pour un burn-out avant même son premier CDI…
+Donc les compétences nécessaires pour naviguer avec aisance dans le reste s'acquièrent souvent avec le temps et la variété des expériences rencontrées. Elles s'acquièrent donc… lentement. Même deux ans d'alternance à mi-temps ne changent pas grand chose. Il s'agit souvent de deux ans pendant lesquels le ou la junior a travaillé temps partiel avec un jeu de responsabilité plus limité qu'un·e autre salarié·e. Ou alors l'étudiant·e a travaillé dans une petite start-up, a eu beaucoup de responsabilité mais aucun regard sur ce qu'il ou elle faisait. C'est la recette parfait pour un burn-out avant même son premier CDI…
 
 Moralité : **vous allez être perdu·es**. Et c'est prévisible. Une organisation qui n'est pas prête à cela ne vous mérite pas. Mais vous dire ça, ça ne vous avance pas trop, hein ? Alors voici un vrai conseil : entourez-vous. Trouvez des mentor·es, dans ou à l'extérieur de l'entreprise, sur des sujets techniques ou non : si vous voulez vous épanouir, vous allez avoir besoin d'une cellule pour vous soutenir et vous faire grandir dans votre vie professionnelle.
 

@@ -6,7 +6,7 @@ title: Clavicule
 
 > – Papa, c'est pourquoi la clavicule ?  
 > – "C'est quoi", plutôt, non ?  
-> – Oui, peut-être.  
+> – Oui, peut-être.
 
 J'explique.
 

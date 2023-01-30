@@ -45,7 +45,7 @@ I had three fears when I started the training:
 
 Instead, the training does not impose its way of thinking but subtly puts forward relevant arguments, anchored in reality. It covers a wide variety of subjects without ever going too deeply into implementation details, without ever overwhelming the reader who would not feel concerned. Even better, the materials regularly emphasize the hindsight required to assess the relevance of the practices. In short, Opquast Certified® encourages reflection.
 
-I realized how much it echoed my current position as a project manager. When talking about skills, you both need to be a jack of all trades but also to understand  how the sausage is made, aka how a project is governed: with pragmatism and method, to achieve a goal that is rarely technical.
+I realized how much it echoed my current position as a project manager. When talking about skills, you both need to be a jack of all trades but also to understand how the sausage is made, aka how a project is governed: with pragmatism and method, to achieve a goal that is rarely technical.
 
 ## <span lang="la">In fine</span>
 

@@ -17,7 +17,7 @@ Il revient deux minutes plus tard, les mains vides.
 
 Il revient deux minutes plus tard avec une feuille. J'écris la phrase "Les tâches ménagères sont l'affaire de toutes et tous. Vider un lave-vaisselle n'est pas une maltraitance. x 25".
 
-Il me regarde et assène : 
+Il me regarde et assène :
 
 > Faire des lignes, ça c'est une maltraitance.
 

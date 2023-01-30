@@ -16,8 +16,7 @@ Et ce n'est pas moi qui le dis, c'est dans la loi de finances 2023, forcée par 
 > Ainsi, la poursuite du déploiement du plan « France 2030 » permettra de stimuler l’économie et de soutenir la croissance potentielle en accélérant la transition écologique, en favorisant l’investissement, l’innovation, la cohésion sociale et territoriale et en assurant la souveraineté numérique et industrielle.  
 > […]  
 > Cette maîtrise de la dépense permettra, sans remettre en cause l'objectif de normalisation des comptes publics, de poursuivre la stratégie de baisses des prélèvements obligatoires engagée sous le mandat précédent afin de soutenir le pouvoir d'achat des Français et la compétitivité des entreprises.  
-> <cite>[Projet de loi de finances n°273 pour 2023
-](https://www.assemblee-nationale.fr/dyn/16/textes/l16b0273_projet-loi)</cite>
+> <cite>[Projet de loi de finances n°273 pour 2023 ](https://www.assemblee-nationale.fr/dyn/16/textes/l16b0273_projet-loi)</cite>
 
 La France comme une start-up : un pays qui n'existe dans ce qu'il attire le désir dans les yeux des investisseurs et des plus fortunés, et qui fera tout pour que leur fortune, qui s'accroit à une vitesse toujours plus vertigineuse, continue d'absorber [les richesses ruisselantes](/notes/2020-01-ruissellement/) de notre pays.
 

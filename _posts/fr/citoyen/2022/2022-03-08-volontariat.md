@@ -4,8 +4,9 @@ slug: volontariat
 translated: true
 i18n-key: volunteer-day
 translations:
-  en: volunteer-day
+    en: volunteer-day
 ---
+
 Vendredi, je vais apprendre à des gens à se servir d'ordinateurs. On ne parlera pas de programmation, juste de comment faire des trucs de base avec des fichiers et un tableur.
 
 Pour vous, ce n'est peut-être pas grand chose, mais pour le personnel et les résidentes de la maison de retraite à but non lucratif que j'accompagne, c'est énorme.  

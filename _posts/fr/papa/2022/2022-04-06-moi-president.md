@@ -25,7 +25,7 @@ Son frère de 11 ans arrive. Je lui demande donc ce qu'il ferait s'il était Pr�
 > – Ah non mais moi je ne veux pas être Président. Je veux être le chef des sports.  
 > – Ministre des Sports ?  
 > – Non, c'est trop… gros. Moi, je veux être Ministre du Ping-Pong.  
-> – C'est très… spécifique, mais ok. Et c'est quoi, ta première décision de Ministre du Ping-Pong ?   
+> – C'est très… spécifique, mais ok. Et c'est quoi, ta première décision de Ministre du Ping-Pong ?  
 > – Bah tu vois, quand on joue en tournant autour de la table, parfois, on crie "Ça repart !", pour aller dans l'autre sens.  
 > – \[Faisant semblant de comprendre\] Ok… et ?  
 > – Avec moi on dirait : "Ça… rkozy ! C'est rigolo ! On a dit ça l'autre jour, et c'était super. Je voudrais qu'on dise ça tout le temps."  

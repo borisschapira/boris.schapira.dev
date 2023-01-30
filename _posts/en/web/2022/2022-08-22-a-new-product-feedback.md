@@ -41,6 +41,6 @@ What they understand,
 What they buy,  
 And the uses to which they will be trained by the Customer Success team...
 
-… there's still a good chance we'll have trouble communicating. 
+… there's still a good chance we'll have trouble communicating.
 
 But let's try anyway!

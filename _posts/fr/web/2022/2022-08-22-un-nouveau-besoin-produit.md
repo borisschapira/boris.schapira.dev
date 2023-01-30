@@ -41,6 +41,6 @@ Ce qu'elle comprend,
 Ce qu'elle achète,  
 Et les usages auxquels elle sera formé par l'équipe Customer Success…
 
-… il y a quand même une grand chance qu'on ait des difficultés à communiquer. 
+… il y a quand même une grand chance qu'on ait des difficultés à communiquer.
 
 Mais essayons quand même !

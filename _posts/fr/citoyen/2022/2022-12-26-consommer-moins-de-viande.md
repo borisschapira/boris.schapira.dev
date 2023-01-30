@@ -2,11 +2,11 @@
 title: Consommer moins de viande
 ---
 
-En 2022, je m'étais lancé comme bonne résolution de devenir pisci-végétarien, comme première étape vers le végétarisme. L'année touche à son terme, et je n'ai jamais été aussi proche de l'objectif. 
+En 2022, je m'étais lancé comme bonne résolution de devenir pisci-végétarien, comme première étape vers le végétarisme. L'année touche à son terme, et je n'ai jamais été aussi proche de l'objectif.
 
 Quand j'ai arrêté de fumer, je suis passé par cette étape d'abstinence difficile pendant laquelle je ne fumais plus, donc je n'étais plus un "fumeur". Mais je rêvais tellement de fumer que je n'avais pas vraiment l'impression d'être un "non-fumeur". J'en suis là aussi avec les produits carnés.
 
-Il faut dire que je ne me mets pas non plus une pression énorme. Même si je pense que l'expérience crée la pensée, et qu'il faut donc expérimenter soi-même pour comprendre, je sais aussi que le monde ne se portera pas mieux si moi, Boris, je deviens un *vrai* végétarien.
+Il faut dire que je ne me mets pas non plus une pression énorme. Même si je pense que l'expérience crée la pensée, et qu'il faut donc expérimenter soi-même pour comprendre, je sais aussi que le monde ne se portera pas mieux si moi, Boris, je deviens un _vrai_ végétarien.
 
 Il y a environ 5 % de végétariens et de végans sur Terre. Si, au prix de lourds efforts, on double ce nombre, on baissera la consommation mondiale de 5,2 %[^optimiste]. Si on convainct le reste de la population de manger moins de viande (par exemple, en enlevant une consommation sur cinq), alors on baissera la consommation de… 19 %.
 

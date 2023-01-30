@@ -1,7 +1,11 @@
 {
+  "env": {
+    "browser": true,
+    "es2021": true
+  },
   "extends": ["prettier"],
   "parserOptions": {
     "sourceType": "module",
-    "ecmaVersion": 6
+    "ecmaVersion": "latest"
   }
 }
