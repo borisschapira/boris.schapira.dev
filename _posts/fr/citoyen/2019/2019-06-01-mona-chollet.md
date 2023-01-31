@@ -5,7 +5,6 @@ tags:
     - Égalité
     - Sorcières
 serie: Sorcières
-load_twitter_wjs: true
 ---
 
 Depuis les années 70, une figure revient souvent dans la littérature féministe : la sorcière. Devenue objet d'étude, la sorcière incarne tout ce qui est reproché aux femmes dans notre société. Indépendantes et autonomes, elles refusent les injonctions des hommes (notamment les injonctions procréatrices et maternelles), détiennent davantage de savoir – et donc de pouvoir – qu'eux et mettent ce pouvoir au service de la sororité.

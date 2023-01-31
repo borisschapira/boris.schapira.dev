@@ -1,6 +1,5 @@
 ---
 title: 'Phishing CAF, Impôts ou autres…'
-load_twitter_wjs: true
 subtitle: "Ceci n'est pas une pipe"
 ---
 

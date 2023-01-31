@@ -13,9 +13,6 @@ fields:
     required: false
     max: 160
   label: Description
-- name: load_twitter_wjs
-  type: boolean
-  label: Load Twitter WJS
 - name: thumbnail_background
   type: text
   config:
@@ -33,7 +30,7 @@ fields:
   config:
     required: false
     date_format: ''
-    time_format: 
+    time_format:
     display_utc: false
 - name: translated
   type: boolean
@@ -90,9 +87,9 @@ fields:
     - contentsquare-logo
     source:
       type: simple
-      section: 
-      file: 
-      path: 
+      section:
+      file:
+      path:
   label: Cloudinary Logo
   showOnly:
     field: repost_

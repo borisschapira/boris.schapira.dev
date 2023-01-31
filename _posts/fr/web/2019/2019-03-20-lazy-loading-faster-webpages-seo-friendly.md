@@ -7,7 +7,6 @@ tags:
     - 'Performance Web'
     - Images
     - SEO
-load_twitter_wjs: true
 cloudinary_logo: contentsquare-logo
 slug: lazy-loading-des-pages-web-plus-rapides-sans-risque-seo
 translations:

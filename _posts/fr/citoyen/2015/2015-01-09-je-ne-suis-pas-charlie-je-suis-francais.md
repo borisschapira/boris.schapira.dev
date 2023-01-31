@@ -4,7 +4,6 @@ tags:
     - Société
     - 'Charlie Hebdo'
 serie: 'Charlie Hebdo'
-load_twitter_wjs: true
 subtitle: "précisions pour ceux qui s'offusquent"
 ---
 

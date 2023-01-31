@@ -4,7 +4,6 @@ tags:
     - Société
     - 'Charlie Hebdo'
 serie: 'Charlie Hebdo'
-load_twitter_wjs: true
 ---
 
 Citations d'articles ou morceaux de dialogue entendus ou vécus ces derniers jours.

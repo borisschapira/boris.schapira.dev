@@ -2,7 +2,6 @@
 title: "État d'urgence permanent"
 tags:
     - "État d'Urgence"
-load_twitter_wjs: true
 ---
 
 Je ne comprends pas.

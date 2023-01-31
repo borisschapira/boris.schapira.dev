@@ -7,7 +7,6 @@ tags:
     - Conférences
     - 'Sud Web 2014'
 serie: 'Sud Web 2014'
-load_twitter_wjs: true
 subtitle: "suite d'un atelier Sud Web 2014"
 ---
 

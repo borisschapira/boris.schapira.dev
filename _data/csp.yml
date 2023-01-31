@@ -36,8 +36,6 @@
       comment: 'Switch to Dark Mode'
     - value: "'sha256-TfVxxWG/LjsHb5qDYMMyaCrVksrcaUHBXQVVncPJZXA='"
       comment: 'Matomo analytics'
-    - value: '*.twimg.com'
-      comment: 'Twitter'
     - value: 'analytics.schapira.dev'
       comment: 'Matomo analytics'
     - value: 'instant.page'
@@ -45,12 +43,8 @@
     - value: 'speakerdeck.com'
       comment: 'Speakerdeck, for slides'
     - value: 'blackhole.webpagetest.org'
-    - value: 'syndication.twitter.com'
-      comment: 'Twitter'
     - value: 'ajax.googleapis.com'
       comment: 'required by Google Maps'
-    - value: 'platform.twitter.com'
-      comment: 'Twitter'
     - value: 'gist.github.com'
       comment: 'Gist, from Github'
     - value: 'www.gstatic.com'
@@ -67,8 +61,6 @@
       comment: 'Inline styles (if I block that, I have thousand of errors…)'
     - value: 'fonts.googleapis.com fonts.gstatic.com'
       comment: 'Google Fonts'
-    - value: 'platform.twitter.com'
-      comment: 'Embed twitter using load_twitter_wjs'
 - name: img-src
   values:
     - value: "'self'"
@@ -95,8 +87,6 @@
       comment: 'Video from Youtube, without cookies set'
     - value: '*.dailymotion.com'
       comment: 'Video from dailymotion'
-    - value: '*.twitter.com'
-      comment: 'Twitter'
     - value: '*.spotify.com'
       comment: 'Players from Spotify'
     - value: '*.soundcloud.com'
@@ -125,8 +115,6 @@
 - name: connect-src
   values:
     - value: "'self'"
-    - value: '*.ytimg.com *.twimg.com platform.twitter.com syndication.twitter.com'
-      comment: 'Twitter avatars and inclusions'
     - value: '*.googleusercontent.com'
       comment: 'Google user contents (for maps)'
     - value: 'fonts.googleapis.com fonts.gstatic.com'
@@ -149,8 +137,6 @@
 - name: form-action
   values:
     - value: "'self'"
-    - value: 'syndication.twitter.com'
-      comment: 'Twitter'
 - name: manifest-src
   values:
     - value: "'self'"

@@ -3,7 +3,6 @@ title: Xénophobes
 tags:
     - Égalité
     - "État d'Urgence"
-load_twitter_wjs: true
 ---
 
 J'écrivais, il y a peu, que je pensais que [les français n'avaient pas soif de laïcité](/notes/2016-01-laicite/ 'Laïcité') mais étaient, en réalité, terrifiés par un ennemi imaginaire. Dimanche, je découvrais ce terrifiant sondage du _Journal du Dimanche_ (en fin d'article).

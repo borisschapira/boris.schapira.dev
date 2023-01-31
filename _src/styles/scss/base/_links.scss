@@ -20,6 +20,13 @@
   }
 }
 
+a[href^="https://twitter.com"]::after
+{
+  content: '\00A0(Twitter)';
+  font-size: 70%;
+  vertical-align: super;
+}
+
 /* Select links written in French that target a non-French page */
 :lang(fr) > :link[hreflang]:not([hreflang="fr"])::after,
 /* Select links written in English that target a non-English page */

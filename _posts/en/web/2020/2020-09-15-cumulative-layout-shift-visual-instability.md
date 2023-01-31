@@ -11,7 +11,6 @@ tags:
     - CLS
 cloudinary_logo: dareboost-logo
 slug: cumulative-layout-shift-visual-instability
-load_twitter_wjs: true
 canonical: https://blog.dareboost.com/en/2020/09/cumulative-layout-shift-visual-instability/
 canonical_title: "Dareboost's Blog"
 translations:

@@ -2,7 +2,6 @@
 title: 'Un Web au Futur'
 tags:
     - nowwwel
-load_twitter_wjs: true
 ---
 
 Cet article a été rédigé dans le cadre de [#nowwwel](https://twitter.com/hashtag/nowwwel?src=hash), une initiative lancée par Rémi Parmentier ([@hteumeuleu](https://twitter.com/hteumeuleu)) pour remplacer cette année les [24 jours de Web](http://www.24joursdeweb.fr/), les deux événement ayant pour but d'inciter les professionnels du Web à écrire et partager.
