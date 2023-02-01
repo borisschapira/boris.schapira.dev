@@ -30,7 +30,7 @@ GEM
       fast-stemmer (~> 1.0)
       matrix (~> 0.4)
     colorator (1.1.0)
-    commonmarker (0.23.7)
+    commonmarker (0.23.8)
     concurrent-ruby (1.2.0)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
