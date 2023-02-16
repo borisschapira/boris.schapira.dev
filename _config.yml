@@ -231,12 +231,12 @@ author:
   url: https://boris.schapira.dev/
   flickr: 'https://flickr.com/borisschapira'
   github: 'https://github.com/borisschapira'
-  mastodon_perso: 
+  mastodon_perso:
     url: https://framapiaf.org/@borisschapira
     nick: "@borisschapira@framapiaf.org"
-  mastodon_pro: 
-    url: https://webperf.social/@boostmarks
-    nick: "@boostmarks@webperf.social"
+  mastodon_pro:
+    url: https://hachyderm.io/@boostmarks
+    nick: "@boostmarks@hachyderm.io"
   gravatar: https://www.gravatar.com/avatar/1120e6a8f9ccf0d018775756050abb7a
   linkedin: 'https://linkedin.com/in/borisschapira'
   feed: '/feed.xml'
