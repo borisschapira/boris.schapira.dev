@@ -12,7 +12,7 @@ Je vais utiliser cet article pour jeter mes points d'attention. Je ne m'interdis
 
 ## Intro
 
-Besoin d'une intro sur ChatGPT ? J'ai trouvé personellement que cette vidéo était très bien construite, et accessible pour des néophytes :
+Besoin d'une intro sur ChatGPT ? J'ai trouvé personnellement que cette vidéo était très bien construite, et accessible pour des néophytes :
 
 {% include media/youtube.html.liquid id="R2fjRbc9Sa0" title="De quoi ChatGPT est-il VRAIMENT capable ? | Ft. Science4All" %}
 
@@ -20,7 +20,7 @@ Besoin d'une intro sur ChatGPT ? J'ai trouvé personellement que cette vidéo é
 
 ## Contribution invisible
 
-Dans la chaine de production de valeur autour des LLM, on trouve bien sûr l'algorithme. Mais il n'est rien sans le renforcement par des humains (on parle de Reinforcement Learning from Human Feedback, aka RLHF). Pour ChatGPT, on parle de Kenyan payés 2$ de l'heure pour répondre à des scrutins et "éduquer" le système.
+Dans la chaîne de production de valeur autour des LLM, on trouve bien sûr l'algorithme. Mais il n'est rien sans le renforcement par des humains (on parle de Reinforcement Learning from Human Feedback, aka RLHF). Pour ChatGPT, on parle de Kenyan payés 2$ de l'heure pour répondre à des scrutins et "éduquer" le système.
 
 Si, à termes, un LLM comme ChatGPT permet de supprimer des emplois en répondant à la place d'interlocuteur·ices humain·es à des questions, ce n'est que grâce à d'autres emplois, moins rémunérés, invisibles à un·e consommateur·ice occidental·e.
 
@@ -28,7 +28,7 @@ On reproduit le modèle de sous-traitance de l'industrie textile, dans des propo
 
 ## Consensualité violente
 
-La contribution caractéristique de ces systèmes en fait de très bon baratineurs, statistiquement capables de nous dire avec une très grand certitude les choses qu'on veut entendre.
+La contribution caractéristique de ces systèmes en fait de très bon baratineurs, statistiquement capables de nous dire avec une très grande certitude les choses qu'on veut entendre.
 
 Et pour savoir ce que nous voulons entendre, ils se basent sur des corpus monstrueux de données.
 
@@ -65,7 +65,7 @@ Quand je lis l'article d'un confrère ou d'une consoeur spécialisée dans un de
 
 Cela n'est pas possible avec du contenu produit par ces systèmes. Le contenu peut être incroyablement juste et m'inspirer confiance puis, deux lignes plus loin, complètement faux, sans que je n'ai aucun moyen de le savoir.
 
-Et contrairement à un·e professionnel·le, tant qu'il ne se trompe pas sur des choses incroyablements consensuelles, le système n'a pas à craindre pour sa réputation.
+Et contrairement à un·e professionnel·le, tant qu'il ne se trompe pas sur des choses incroyablement consensuelles, le système n'a pas à craindre pour sa réputation.
 
 Pire, il peut produire les pires absurdités et dire, parce que c'est crédible, que **vous** les avez dites. Il peut détruire sa propre autorité, mais aussi la nôtre.
 
@@ -87,7 +87,7 @@ Comment gérons-nous ce volume important de contenus dont il ne sera rapidement 
 
 ## Reproduction des inégalités
 
-Dans un monde où le marché est inondé de produits (ici des contenus textuels) de qualité médiocres, la capacité à distinguer la qualité n'a plus de valeur. Cela prend trop de temps. Il est plus rentable de chercher des sources de qualité.
+Dans un monde où le marché est inondé de produits (ici des contenus textuels) de qualité médiocre, la capacité à distinguer la qualité n'a plus de valeur. Cela prend trop de temps. Il est plus rentable de chercher des sources de qualité.
 
 Réussir au mérite est déjà difficile : demain, cela sera quasiment impossible. Non pas qu'on ne veuille pas vous laisser votre chance mais il est tout bonnement inconcevable de trouver la bonne prestation, le bon CV, le bon service, au milieu de l'ensemble des générations automatiques. Tout comme il est très difficile de trouver un bon produit sur une <i lang="en">marketplace</i>.
 
@@ -95,20 +95,20 @@ Les réseaux les plus établis, comme les cercles bourgeois et/ou les groupes de
 
 ## Réseaux de distribution
 
-Quand le contenu n'a plus de valeur, c'est le réseau de distribution qui gagne en valeur d'usage. Les réseaux sociaux sont désormais payants ou en voie de l'être. Les éditeurs de livres augmentent leurs marges pour assumer de nouveaux coûts. Les réseaux immobiliers améliorent leur pourcentage vs. celui des agents. La mise en compétition de la production originale avec des copycats sans coût d'exploitaiton détruit tout espace de création.
+Quand le contenu n'a plus de valeur, c'est le réseau de distribution qui gagne en valeur d'usage. Les réseaux sociaux sont désormais payants ou en voie de l'être. Les éditeurs de livres augmentent leurs marges pour assumer de nouveaux coûts. Les réseaux immobiliers améliorent leur pourcentage vs. celui des agents. La mise en compétition de la production originale avec des copycats sans coût d'exploitation détruit tout espace de création.
 
 Il est impossible de penser une stratégie de contenus non-quantitatives, car elle n'aura aucune visibilité dans la masse.
 
 ## Empoisonnement de l'espace public
 
-Si tous les contenus produits sont reconnus et acceptés comme étant des vérités car extrêmement consensuels, que se passe-t-il quand, volontairement ou non, le système est empoisonné ? Seules quelques franges d'extrême gauche dénoncent la manière dont les assistants vocaux valorisent déjà le capitalisme effrené. Qui détectera un glissement sémantique des IA, quand leur utilisation sera totalement normalisée et leur parole d'or ?
+Si tous les contenus produits sont reconnus et acceptés comme étant des vérités car extrêmement consensuels, que se passe-t-il quand, volontairement ou non, le système est empoisonné ? Seules quelques franges d'extrême gauche dénoncent la manière dont les assistants vocaux valorisent déjà le capitalisme effréné. Qui détectera un glissement sémantique des IA, quand leur utilisation sera totalement normalisée et leur parole d'or ?
 
 ## Le prix de l'humanité
 
 Si nous arrivons à contourner les limites et risques actuels de ces systèmes et que la productivité mondiale croît, qui en bénéficiera ? Est-ce que nous travaillerons d'autant moins ?
 
-Est-ce que les entreprises propriétaires des ces systèmes se mettront spontanément à payer des impôts dans les pays qui ont éduqué et maintenu en bonne santé et en sécurité les ingénieur·euses qui ont créés ces systèmes ?
+Est-ce que les entreprises propriétaires de ces systèmes se mettent spontanément à payer des impôts dans les pays qui ont éduqué et maintenu en bonne santé et en sécurité les ingénieur·euses qui ont créés ces systèmes ?
 
-Est-ce qu'elles en paieront dans les pays où elles embauchent à bas coût des forçats pour en améliorer les réponses ?
+Est-ce qu'elles en paient dans les pays où elles embauchent à bas coût des forçats pour en améliorer les réponses ?
 
-Est-ce qu'elles paieront des impôts pour rembourser les infrastructures sociales, éducatives, médicales, qui sont détruites par leur adoption ?
+Est-ce qu'elles paient des impôts pour rembourser les infrastructures sociales, éducatives, médicales, qui sont détruites par leur adoption ?
