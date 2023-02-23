@@ -38,6 +38,20 @@ La plupart des contenus produits par des humain·es sont biaisés, violents, et 
 
 Au mieux, s'ils ne sont ni biaisés ni violents, les contenus seront juste plats, globalement ininstructifs. Une usine à produire un consensus mou et sans réelle dialectique.
 
+## Consensualité utile
+
+Il existe des domaines où la consensualité créé de l'inclusion, et nous allons peut-être voir des choses positives dans ce domaine.
+
+Comme prendre le sous-titrage automatique d'une conférence et demander à un LLM de corriger le contenu pour qu'il soit :
+
+- plus intelligible
+- découpé de manière à être lu dans des sous-titres de manière efficace
+
+Demander à un LLM de décrire automatiquement des images qui n'auraient pas de descriptions accessibles au personnes aveugles ou mal-voyantes.
+
+Accompagner un juriste dans la production de conditions générales d'utilisation en Facile à lire et à comprendre (FALC).
+
+
 ## À 100 à l'heure sur l'autoroute du totalitarisme
 
 Dans un monde où il est facile d'inonder le marché de l'information avec des données qui se contredisent, la démocratie ne peut pas survivre.
