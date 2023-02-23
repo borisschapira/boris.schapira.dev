@@ -81,7 +81,7 @@ Que se passe-t-il quand un LLM se nourrit en continu ? Soit il se retrouve expos
 
 ## Volumes
 
-Le <i lang="en">copywriting<i> était hier un métier avec divers critères de qualité. Avec ces innovations, c'est désormais un marché industriel où inonder les consommateurs de contenus a un coût fixe plutôt que variable.
+Le <i lang="en">copywriting</i> était hier un métier avec divers critères de qualité. Avec ces innovations, c'est désormais un marché industriel où inonder les consommateurs de contenus a un coût fixe plutôt que variable.
 
 Comment gérons-nous ce volume important de contenus dont il ne sera rapidement plus possible de savoir s'ils proviennent d'humains ou de machines (si tant est que ce soit possible aujourd'hui) ?
 
