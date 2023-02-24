@@ -1,5 +1,6 @@
 ---
 title: Des questions
+last_modified: 2023-02-24T07:25:32.586Z
 ---
 
 Depuis plusieurs semaines, il ne se passe pas une journée sans que ChatGPT ne fasse irruption dans les discussions que j'ai avec de très nombreux professionnel·les du numérique.
@@ -16,15 +17,62 @@ Besoin d'une intro sur ChatGPT ? J'ai trouvé personnellement que cette vidéo �
 
 {% include media/youtube.html.liquid id="R2fjRbc9Sa0" title="De quoi ChatGPT est-il VRAIMENT capable ? | Ft. Science4All" %}
 
----
+En quelques mots, si vous préférez me lire : un LLM est un système à modèle d'apprentissage automatique dont l'objectif est de manipuler le langage naturel (on parle de Natural Language Processing ou NLP).
+
+Une fois le modèle alimenté et entrainé statistiquement, il peut servir à :
+
+-   classifier des contenus
+-   élaborer de nouveaux contenus textuels à partir d'un contexte interactionnel : à partir d'une consigne ou dans le cadre d'un échange textuel (chat)
+-   modifier des contenues existants
+
+Ces systèmes ne comprennent pas ce qu'ils écrivent, en tout cas pas dans le sens où nous l'entendons. Ils se basent sur des analyses statistiques pour prédire le prochain élément d'une phrase, compte tenu du contexte à leur disposition (constitué de la consigne d'origine et d'une partie de l'historique d'interaction).
+
+Leur nature profonde les amène à produire des contenus très consensuels (au regard des données qui les ont alimentées).
+
+## Le positif
+
+Ces systèmes sont utilisés ou peuvent l'être de manière à profiter aux organisations et la société.
+
+Les usages décrits ici doivent tous êtres validés par un·e opérateur·ice humain·e doué de compétences spécifiques, qui se chargera de corriger les défauts éventuels. L'outil lui apporte une productivité importante sur la partie la plus fastidieuse de la tâche.
+
+### Inclusion
+
+Quand on est capable de créer ou de modifier un contenu à partir d'un autre, alors on peut fabrique des correspondances multimédia.
+
+On peut, par exemple, prendre le sous-titrage automatique d'une conférence et corriger son contenu pour qu'il soit :
+
+-   plus intelligible
+-   découpé de manière optimale pour la lecture
+
+On peut aussi faire décrire automatiquement des images qui n'auraient pas de description textuelle sans cela, par défaut d'éducation des contributeur·ices.
+
+On peut aussi prendre un texte légal, comme les conditions générales d'utilisation d'un service, et demander au LLM de le convertir en français Facile à lire et à comprendre (FALC).
+
+### Manipulation de large jeux de données
+
+La puissance de calcul de ces outils, couplées à l'analyse textuelle, peut également service à classer de très nombreux commentaires pour en faciliter l'analyse ou l'exclusion (par exemple dans le cadre de la modération).
+
+Ils peuvent ainsi aider à acheminer une question vers la personne la plus susceptible d'y répondre ou améliorer les réponses d'un moteur de recherche sur une base de connaissance bien délimitée.
+
+### Appariement de consensus
+
+Un domaine dans lequel il est très pertinent d'établir du consensus linguistique c'est… la langue elle-même. Ces solutions améliorent tout ce que nous avons en termes de correction orthographique, grammaticale, ainsi que nos outils de traduction, du moins dans une compréhension universaliste de la langue (qu'on le veuille ou non, certaines spécificité seront intraduisibles car n'ayant pas d'équivalent dans la langue de destination).
+
+## Ce qui m'inquiète
+
+Une fois qu'on a dit ce qui va pousser l'adoption de ce type de solutions, voyons les conséquences.
 
 ## Contribution invisible
 
-Dans la chaîne de production de valeur autour des LLM, on trouve bien sûr l'algorithme. Mais il n'est rien sans le renforcement par des humains (on parle de Reinforcement Learning from Human Feedback, aka RLHF). Pour ChatGPT, on parle de Kenyan payés 2$ de l'heure pour répondre à des scrutins et "éduquer" le système.
+Dans la chaîne de production de valeur autour des LLM, on trouve bien sûr l'algorithme. Mais il n'est rien sans le renforcement par des humains (on parle de Reinforcement Learning from Human Feedback, aka RLHF). Pour ChatGPT, on parle de Kenyan payés 2$ de l'heure pour répondre à des scrutins et "éduquer" le système[^kenyanworkers].
+
+[^kenyanworkers]: "[OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxix](https://time.com/6247678/openai-chatgpt-kenya-workers/)", Billy Perrigo dans Time
 
 Si, à termes, un LLM comme ChatGPT permet de supprimer des emplois en répondant à la place d'interlocuteur·ices humain·es à des questions, ce n'est que grâce à d'autres emplois, moins rémunérés, invisibles à un·e consommateur·ice occidental·e.
 
 On reproduit le modèle de sous-traitance de l'industrie textile, dans des proportions inégalées mais en conservant sa toxicité.
+
+<ins datetime="2023-02-24T07:25:32.586Z">Je parle de toxicité du modèle, pas écologique. En termes d'impact écologique, l'industrie textile est difficile à dépasser.</ins>
 
 ## Consensualité violente
 
@@ -32,32 +80,17 @@ La contribution caractéristique de ces systèmes en fait de très bon baratineu
 
 Et pour savoir ce que nous voulons entendre, ils se basent sur des corpus monstrueux de données.
 
-Je ne sais pas qui fournit les données. Je ne connais pas la nature des données. 
+Je ne sais pas qui fournit les données. Je ne connais pas la nature des données.
 
 La plupart des contenus produits par des humain·es sont biaisés, violents, et je ne vois pas ce qui pourrait résulter d'une telle éducation, si ce n'est de nouveaux contenus consensuellement biaisés et violents.
 
 Au mieux, s'ils ne sont ni biaisés ni violents, les contenus seront juste plats, globalement ininstructifs. Une usine à produire un consensus mou et sans réelle dialectique.
 
-## Consensualité utile
-
-Il existe des domaines où la consensualité créé de l'inclusion, et nous allons peut-être voir des choses positives dans ce domaine.
-
-Comme prendre le sous-titrage automatique d'une conférence et demander à un LLM de corriger le contenu pour qu'il soit :
-
-- plus intelligible
-- découpé de manière à être lu dans des sous-titres de manière efficace
-
-Demander à un LLM de décrire automatiquement des images qui n'auraient pas de descriptions accessibles au personnes aveugles ou mal-voyantes.
-
-Accompagner un juriste dans la production de conditions générales d'utilisation en Facile à lire et à comprendre (FALC).
-
-
 ## À 100 à l'heure sur l'autoroute du totalitarisme
 
 Dans un monde où il est facile d'inonder le marché de l'information avec des données qui se contredisent, la démocratie ne peut pas survivre.
 
-> Quand tout le monde vous ment en permanence, le résultat n'est pas que vous croyez ces mensonges mais que plus personne ne croit plus rien (...). Un peuple qui ne peut plus rien croire ne peut se faire une opinion. Il est privé non seulement de sa capacité d'agir mais aussi de sa capacité de penser et de juger. Et avec un tel peuple, vous pouvez faire ce que vous voulez.
-> <cite>Hannah Arendt</cite>
+> Quand tout le monde vous ment en permanence, le résultat n'est pas que vous croyez ces mensonges mais que plus personne ne croit plus rien (...). Un peuple qui ne peut plus rien croire ne peut se faire une opinion. Il est privé non seulement de sa capacité d'agir mais aussi de sa capacité de penser et de juger. Et avec un tel peuple, vous pouvez faire ce que vous voulez. <cite>Hannah Arendt</cite>
 
 ## Autorité
 
@@ -67,7 +100,9 @@ Cela n'est pas possible avec du contenu produit par ces systèmes. Le contenu pe
 
 Et contrairement à un·e professionnel·le, tant qu'il ne se trompe pas sur des choses incroyablement consensuelles, le système n'a pas à craindre pour sa réputation.
 
-Pire, il peut produire les pires absurdités et dire, parce que c'est crédible, que **vous** les avez dites. Il peut détruire sa propre autorité, mais aussi la nôtre.
+Pire, il peut produire les pires absurdités et dire, parce que c'est crédible, que **vous** les avez dites. Ou expliquer que votre entreprise produit un service qu'elle ne produit pas, et ainsi détériorer à la fois votre stratégie d'acquisition et votre réputation[^opencage]. Il peut détruire sa propre autorité, mais aussi la nôtre.
+
+[^opencage]: "[Don't believe ChatGPT - we do NOT offer a "phone lookup" service](https://blog.opencagedata.com/post/dont-believe-chatgpt)", The OpenCage Blog
 
 ## Loi de Brandolini
 
