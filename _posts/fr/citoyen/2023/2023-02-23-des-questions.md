@@ -1,5 +1,5 @@
 ---
-title: ChatGPT, Stable Diffusion et autres modèles…
+title: GPT, Cédille et autres modèles…
 subtitle: du potentiel, des questions et des inquiétudes
 slug: des-questions
 last_modified: 2023-02-27T11:45:00Z
@@ -7,7 +7,7 @@ last_modified: 2023-02-27T11:45:00Z
 
 Depuis plusieurs semaines, il ne se passe pas une journée sans que ChatGPT ne fasse irruption dans les discussions que j'ai avec de très nombreux professionnel·les du numérique.
 
-Et sincèrement, l'émergence de ces LLM (Large Language Model) capable de produire du contenu (sous la forme d'une discussion ou non) m'interroge.
+L'émergence des LLM (Large Language Model) comme GPT ou Cédille, capables de produire du contenu (sous la forme d'une discussion ou non) m'interroge.
 
 Je vais utiliser cet article pour jeter mes points d'attention. Je ne m'interdis pas de le mettre à jour plus tard avec de nouveaux éléments. Je parle au présent parce que ces solutions sont déjà là. Nous ne parlons pas d'un problème du futur. Ce n'est pas de la science-fiction, mais un problème politique.
 
