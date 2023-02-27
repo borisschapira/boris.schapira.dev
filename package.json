@@ -91,7 +91,7 @@
     "instant.page": "^5.1.1",
     "js-md5": "^0.7.3",
     "js-yaml": "^4.1.0",
-    "pngjs": "^6.0.0",
+    "pngjs": "^7.0.0",
     "slugify": "^1.6.0",
     "touchtap-event": "^2.0.2",
     "turbolinks": "^5.2.0",
