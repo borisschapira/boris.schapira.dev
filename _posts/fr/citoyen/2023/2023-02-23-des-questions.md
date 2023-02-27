@@ -86,7 +86,9 @@ On reproduit le modèle de sous-traitance de l'industrie textile, dans des propo
 
 ### Dilution de la responsabilité
 
-Beaucoup de plate-formes et des décideurs parlent "d'algorithmes" pour cacher des décisions de mise en avant bien humaines[^algorithmes]. Parler d'algorithmes permet de cacher la responsabilités des personnes qui dirigent les paramètres de ces programmes, et est également utilisé quand on parle d'Intelligence Artificielle (IA) pour diluer le rôle de ces agents dans les apprentissages de leurs LLM.
+Beaucoup de plate-formes et des décideurs parlent "d'algorithmes" pour cacher des décisions de mise en avant bien humaines. Parler d'algorithmes permet de cacher la responsabilités des personnes qui dirigent les paramètres de ces programmes[^smbc], et est également utilisé quand on parle d'Intelligence Artificielle (IA) pour diluer le rôle de ces agents dans les apprentissages de leurs LLM[^algorithmes].
+
+[^smbc]: Voir le comic "[Algo](https://www.smbc-comics.com/comic/algo)", par Zach Weinersmith.
 
 [^algorithmes]: "[On entend trop le mot algorithme](https://framablog.org/2022/09/29/on-entend-trop-le-mot-algorithme/)", Stéphane Bortzmeyer pour Framablog
 
