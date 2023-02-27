@@ -104,7 +104,9 @@ Au mieux, s'ils ne sont ni biaisés ni violents, les contenus seront juste plats
 
 Le consensus peut également être, sans mauvaise intention, un outil d'invisibilisation de la réalité.
 
-Si vous demandez à un LLM de vous produire un paragraphe décrivant les chats, il vous expliquera que ce sont des créatures adorables, de très bons compagnons, de vraies peluches ronronnantes. Et c'est sûrement vrai.
+Si vous demandez à un LLM de vous produire un paragraphe décrivant les chats, il vous expliquera que ce sont des créatures adorables, de très bons compagnons, de vraies peluches ronronnantes[^eminemcats]. Et c'est sûrement vrai.
+
+[^eminemcats]: "[I asked AI to write an Eminem rap about cats](https://youtu.be/jnQ0zEQPu_A)", Grandayy
 
 Mais les chats sont aussi un fléau pour la biodiversité, car ce sont des prédateurs ultimes responsables de la disparition de nombreuses espèces et en menaçant beaucoup d'autres[^cats]. On en parle moins.
 
