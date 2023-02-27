@@ -62,7 +62,7 @@ Un domaine dans lequel il est très pertinent d'établir du consensus linguistiq
 
 ### Régulation
 
-Oui, la régulation, je mets ça dans le positif, parce que je ne suis pas convaincu que le libéralisme (économique ou des mœurs) puisse exister sans un cadre bien défini. Et comme pour la souveraineté des données personnelles, il y a un marché à prendre : celui de la réflexion et de l'implémentation d'une cadre légal autour des intelligences artificielles. 
+Oui, la régulation, je mets ça dans le positif, parce que je ne suis pas convaincu que le libéralisme (économique ou des mœurs) puisse exister sans un cadre bien défini. Et comme pour la souveraineté des données personnelles, il y a un marché à prendre : celui de la réflexion et de l'implémentation d'une cadre légal autour des intelligences artificielles.
 
 Comme pour les données personnelles, c'est un sujet très sensible pour les organisations, parce qu'il touche à leur capacité d'innovation. Mais pour toutes les raisons ci-dessous, je pense qu'il faut aller dans ce sens, et le plus vite sera le mieux, pour le développement d'outils éthiques dont le bénéfice sert la société.
 
@@ -174,7 +174,6 @@ Il n'y a aucune raison pour que des LLM entrainés à partir de nos conversation
 
 [^harassment]: [‘My AI Is Sexually Harassing Me’: Replika Users Say the Chatbot Has Gotten Way Too Horny](https://www.vice.com/en/article/z34d43/my-ai-is-sexually-harassing-me-replika-chatbot-nudes), Samantha Cole pour VICE
 
-
 ### Réseaux de distribution
 
 Quand le contenu n'a plus de valeur, c'est le réseau de distribution qui gagne en valeur d'usage. Les réseaux sociaux sont désormais payants ou en voie de l'être. Les éditeurs de livres augmentent leurs marges pour assumer de nouveaux coûts. Les réseaux immobiliers améliorent leur pourcentage vs. celui des agents. La mise en compétition de la production originale avec des copycats sans coût d'exploitation détruit tout espace de création.
@@ -204,3 +203,5 @@ Est-ce que les entreprises propriétaires de ces systèmes se mettent spontaném
 Est-ce qu'elles en paient dans les pays où elles embauchent à bas coût des forçats pour en améliorer les réponses ?
 
 Est-ce qu'elles paient des impôts pour rembourser les infrastructures sociales, éducatives, médicales, qui sont détruites par leur adoption ?
+
+{% include media/youtube.html.liquid id="Sqa8Zo2XWc4" title="Artificial Intelligence: Last Week Tonight with John Oliver (HBO)" %}
