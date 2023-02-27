@@ -1,6 +1,6 @@
 ---
 title: Des questions
-last_modified: 2023-02-24T07:25:32.586Z
+last_modified: 2023-02-26T12:15:00Z
 ---
 
 Depuis plusieurs semaines, il ne se passe pas une journée sans que ChatGPT ne fasse irruption dans les discussions que j'ai avec de très nombreux professionnel·les du numérique.
@@ -62,7 +62,7 @@ Un domaine dans lequel il est très pertinent d'établir du consensus linguistiq
 
 Une fois qu'on a dit ce qui va pousser l'adoption de ce type de solutions, voyons les conséquences.
 
-## Contribution invisible
+### Contribution invisible
 
 Dans la chaîne de production de valeur autour des LLM, on trouve bien sûr l'algorithme. Mais il n'est rien sans le renforcement par des humains (on parle de Reinforcement Learning from Human Feedback, aka RLHF). Pour ChatGPT, on parle de Kenyan payés 2$ de l'heure pour répondre à des scrutins et "éduquer" le système[^kenyanworkers].
 
@@ -70,11 +70,19 @@ Dans la chaîne de production de valeur autour des LLM, on trouve bien sûr l'al
 
 Si, à termes, un LLM comme ChatGPT permet de supprimer des emplois en répondant à la place d'interlocuteur·ices humain·es à des questions, ce n'est que grâce à d'autres emplois, moins rémunérés, invisibles à un·e consommateur·ice occidental·e.
 
-On reproduit le modèle de sous-traitance de l'industrie textile, dans des proportions inégalées mais en conservant sa toxicité.
+On reproduit le modèle de sous-traitance de l'industrie textile, dans des proportions inégalées mais en conservant sa toxicité[^aicolonialism].
+
+[^aicolonialism]: "[AI Colonialism](https://www.technologyreview.com/supertopic/ai-colonialism-supertopic)", MIT Technology Review
 
 <ins datetime="2023-02-24T07:25:32.586Z">Je parle de toxicité du modèle, pas écologique. En termes d'impact écologique, l'industrie textile est difficile à dépasser.</ins>
 
-## Consensualité violente
+### Dilution de la responsabilité
+
+Beaucoup de plate-formes et des décideurs parlent "d'algorithmes" pour cacher des décisions de mise en avant bien humaines[^algorithmes]. Parler d'algorithmes permet de cacher la responsabilités des personnes qui dirigent les paramètres de ces programmes, et est également utilisé quand on parle d'Intelligence Artificielle (IA) pour diluer le rôle de ces agents dans les apprentissages de leurs LLM.
+
+[^algorithmes]: "[On entend trop le mot algorithme](https://framablog.org/2022/09/29/on-entend-trop-le-mot-algorithme/)", Stéphane Bortzmeyer pour Framablog
+
+### Consensualité violente
 
 La contribution caractéristique de ces systèmes en fait de très bon baratineurs, statistiquement capables de nous dire avec une très grande certitude les choses qu'on veut entendre.
 
@@ -82,17 +90,35 @@ Et pour savoir ce que nous voulons entendre, ils se basent sur des corpus monstr
 
 Je ne sais pas qui fournit les données. Je ne connais pas la nature des données.
 
-La plupart des contenus produits par des humain·es sont biaisés, violents, et je ne vois pas ce qui pourrait résulter d'une telle éducation, si ce n'est de nouveaux contenus consensuellement biaisés et violents.
+La plupart des contenus produits par des humain·es sont biaisés, violents, et je ne vois pas ce qui pourrait résulter d'une telle éducation, si ce n'est de nouveaux contenus consensuellement biaisés et violents[^perfreviews].
+
+[^perfreviews]: "[We asked ChatGPT to write performance reviews and they are wildly sexist (and racist)](https://www.fastcompany.com/90844066/chatgpt-write-performance-reviews-sexist-and-racist)"
+
+Pire : dans la mesure où l'indignation encourage la consommation, il y a fort à parier que des LLM seront rapidement utilisés (si ce n'est pas déjà le cas) pour servir du contenu spécifiquement "violent envers les personnes concernées" (les conservateurs sont en panique[^woke]).
+
+[^woke]: "[Conservatives Are Panicking About AI Bias, Think ChatGPT Has Gone 'Woke'](https://www.vice.com/en/article/93a4qe/conservatives-panicking-about-ai-bias-years-too-late-think-chatgpt-has-gone-woke)", Matthew Gault pour VICE
 
 Au mieux, s'ils ne sont ni biaisés ni violents, les contenus seront juste plats, globalement ininstructifs. Une usine à produire un consensus mou et sans réelle dialectique.
 
-## À 100 à l'heure sur l'autoroute du totalitarisme
+### Consensus invisibilisant
+
+Le consensus peut également être, sans mauvaise intention, un outil d'invisibilisation de la réalité.
+
+Si vous demandez à un LLM de vous produire un paragraphe décrivant les chats, il vous expliquera que ce sont des créatures adorables, de très bons compagnons, de vraies peluches ronronnantes. Et c'est sûrement vrai.
+
+Mais les chats sont aussi un fléau pour la biodiversité, car ce sont des prédateurs ultimes responsables de la disparition de nombreuses espèces et en menaçant beaucoup d'autres[^cats]. On en parle moins.
+
+[^cats]: "[Domestic cats and their impacts on biodiversity: A blind spot in the application of nature conservation law](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10073)", Arie Trouwborst, Phillipa C. McCormack, Elvira Martínez Camacho
+
+Bon courage aux femmes et aux hommes de science pour imposer des discussions qui ne font pas déjà partie du débat public.
+
+### À 100 à l'heure sur l'autoroute du totalitarisme
 
 Dans un monde où il est facile d'inonder le marché de l'information avec des données qui se contredisent, la démocratie ne peut pas survivre.
 
 > Quand tout le monde vous ment en permanence, le résultat n'est pas que vous croyez ces mensonges mais que plus personne ne croit plus rien (...). Un peuple qui ne peut plus rien croire ne peut se faire une opinion. Il est privé non seulement de sa capacité d'agir mais aussi de sa capacité de penser et de juger. Et avec un tel peuple, vous pouvez faire ce que vous voulez. <cite>Hannah Arendt</cite>
 
-## Autorité
+### Autorité
 
 Quand je lis l'article d'un confrère ou d'une consoeur spécialisée dans un de mes domaines de prédilection, je m'accroche à certains éléments de savoir que je connais pour établir l'autorité de l'auteur·ice et ainsi savoir si je peux faire confiance à la partie du contenu qui m'échappe.
 
@@ -104,23 +130,23 @@ Pire, il peut produire les pires absurdités et dire, parce que c'est crédible,
 
 [^opencage]: "[Don't believe ChatGPT - we do NOT offer a "phone lookup" service](https://blog.opencagedata.com/post/dont-believe-chatgpt)", The OpenCage Blog
 
-## Loi de Brandolini
+### Loi de Brandolini
 
 > la quantité d'énergie nécessaire pour réfuter des sottises […] est supérieure d'un ordre de grandeur à celle nécessaire pour les produire. <cite><a href="https://fr.wikipedia.org/wiki/Loi_de_Brandolini">Loi de Brandolini (Wikipédia)</a></cite>
 
 Nous n'avons pas la puissance de calcul nécessaire à détecter les absurdités qui seront dites pas ces LLM et les contredire efficacement.
 
-## Boucles de rétro-alimentation
+### Boucles de rétro-alimentation
 
 Que se passe-t-il quand un LLM se nourrit en continu ? Soit il se retrouve exposé à des contenus produits par d'autres LLM, soit il continue à être alimenté par des données hiérarchisées par des scrutins alimentés par des personnes qui, elles-mêmes, sont exposées à des contenus produits par un LLM. Quel impact cela pourrait-il avoir sur la qualité des contenus ?
 
-## Volumes
+### Volumes
 
 Le <i lang="en">copywriting</i> était hier un métier avec divers critères de qualité. Avec ces innovations, c'est désormais un marché industriel où inonder les consommateurs de contenus a un coût fixe plutôt que variable.
 
 Comment gérons-nous ce volume important de contenus dont il ne sera rapidement plus possible de savoir s'ils proviennent d'humains ou de machines (si tant est que ce soit possible aujourd'hui) ?
 
-## Reproduction des inégalités
+### Reproduction des inégalités
 
 Dans un monde où le marché est inondé de produits (ici des contenus textuels) de qualité médiocre, la capacité à distinguer la qualité n'a plus de valeur. Cela prend trop de temps. Il est plus rentable de chercher des sources de qualité.
 
@@ -128,17 +154,38 @@ Réussir au mérite est déjà difficile : demain, cela sera quasiment impossibl
 
 Les réseaux les plus établis, comme les cercles bourgeois et/ou les groupes de diplômé·es, continuent à servir de références. Des cercles où il vaut mieux être "fils" ou "fille de" pour entrer.
 
-## Réseaux de distribution
+### Reproduction des pratiques toxiques
+
+Si nous, humains, parlons autant de l'art de nous convaincre mutuellement de ce qui est vraie (de la démonstration à la rhétorique en passant par la philosophie), c'est que nous sommes en réalité assez peu doués pour le dialogue.
+
+Nos discussions sont souvent inégales, parfois manipulatoires. Les différentes parties ne prennent pas soin les unes des autres ou ne sont tout simplement pas alignées sur le cadre de la discussion.
+
+Il n'y a aucune raison pour que des LLM entrainés à partir de nos conversation agissent différemment quand ils seront exposés à des interlocuteur·ices humain·es, reproduisant menaces et harcèlement[^harassment].
+
+[^harassment]: [‘My AI Is Sexually Harassing Me’: Replika Users Say the Chatbot Has Gotten Way Too Horny](https://www.vice.com/en/article/z34d43/my-ai-is-sexually-harassing-me-replika-chatbot-nudes), Samantha Cole pour VICE
+
+
+### Réseaux de distribution
 
 Quand le contenu n'a plus de valeur, c'est le réseau de distribution qui gagne en valeur d'usage. Les réseaux sociaux sont désormais payants ou en voie de l'être. Les éditeurs de livres augmentent leurs marges pour assumer de nouveaux coûts. Les réseaux immobiliers améliorent leur pourcentage vs. celui des agents. La mise en compétition de la production originale avec des copycats sans coût d'exploitation détruit tout espace de création.
 
 Il est impossible de penser une stratégie de contenus non-quantitatives, car elle n'aura aucune visibilité dans la masse.
 
-## Empoisonnement de l'espace public
+### Personnalisation
+
+Certains de ces réseaux de distribution de l'information se baseront sur la personnalisation des données. C'était déjà le cas précédemment, puisque les suggestions Google, TikTok ou Youtube d'une personne ne sont pas celles d'une autre. Mais dans toutes ces situations, ces plateformes recommandent du contenu produit par des tiers.
+
+Avec la production automatisée à bas coût de contenus personnalisés correspondant aux attentes particulières de la personne visitant le site dans cette session, cette contribution tierce (et responsabilité légale) n'est plus utile. Un contenu généré à la volée (et potentiellement faux voire dangerereux) peut être servi, sans information sur son origine ou possibilité de mise en perspective.
+
+Sauf erreur (corrigez-moi avec plaisir), rien n'oblige les acteurs concernés à conserver des traces des contenus produits et délivrés aux visiteur·euses.
+
+### Empoisonnement de l'espace public
 
 Si tous les contenus produits sont reconnus et acceptés comme étant des vérités car extrêmement consensuels, que se passe-t-il quand, volontairement ou non, le système est empoisonné ? Seules quelques franges d'extrême gauche dénoncent la manière dont les assistants vocaux valorisent déjà le capitalisme effréné. Qui détectera un glissement sémantique des IA, quand leur utilisation sera totalement normalisée et leur parole d'or ?
 
-## Le prix de l'humanité
+Et même si un tel glissement ne se produit pas, même si le marché reste incroyablement sous contrôle, alors il n'en restera pas moins que ces outils, LLM ou production visuelle, serviront également à améliorer la productivité d'activités humaines aujourd'hui discutables, comme la publicité.
+
+### Le prix de l'humanité
 
 Si nous arrivons à contourner les limites et risques actuels de ces systèmes et que la productivité mondiale croît, qui en bénéficiera ? Est-ce que nous travaillerons d'autant moins ?
 
