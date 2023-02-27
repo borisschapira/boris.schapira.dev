@@ -1,5 +1,7 @@
 ---
-title: Des questions
+title: ChatGPT, Stable Diffusion et autres modèles…
+subtitle: du potentiel, des questions et des inquiétudes
+slug: des-questions
 last_modified: 2023-02-27T11:45:00Z
 ---
 
