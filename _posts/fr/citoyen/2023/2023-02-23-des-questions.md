@@ -1,6 +1,6 @@
 ---
 title: Des questions
-last_modified: 2023-02-26T12:15:00Z
+last_modified: 2023-02-27T11:45:00Z
 ---
 
 Depuis plusieurs semaines, il ne se passe pas une journée sans que ChatGPT ne fasse irruption dans les discussions que j'ai avec de très nombreux professionnel·les du numérique.
@@ -57,6 +57,12 @@ Ils peuvent ainsi aider à acheminer une question vers la personne la plus susce
 ### Appariement de consensus
 
 Un domaine dans lequel il est très pertinent d'établir du consensus linguistique c'est… la langue elle-même. Ces solutions améliorent tout ce que nous avons en termes de correction orthographique, grammaticale, ainsi que nos outils de traduction, du moins dans une compréhension universaliste de la langue (qu'on le veuille ou non, certaines spécificité seront intraduisibles car n'ayant pas d'équivalent dans la langue de destination).
+
+### Régulation
+
+Oui, la régulation, je mets ça dans le positif, parce que je ne suis pas convaincu que le libéralisme (économique ou des mœurs) puisse exister sans un cadre bien défini. Et comme pour la souveraineté des données personnelles, il y a un marché à prendre : celui de la réflexion et de l'implémentation d'une cadre légal autour des intelligences artificielles. 
+
+Comme pour les données personnelles, c'est un sujet très sensible pour les organisations, parce qu'il touche à leur capacité d'innovation. Mais pour toutes les raisons ci-dessous, je pense qu'il faut aller dans ce sens, et le plus vite sera le mieux, pour le développement d'outils éthiques dont le bénéfice sert la société.
 
 ## Ce qui m'inquiète
 
