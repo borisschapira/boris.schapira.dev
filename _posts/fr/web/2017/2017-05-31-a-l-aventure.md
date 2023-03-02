@@ -72,5 +72,3 @@ caption=img_caption
 Sept ans, c'est long. Il restera sûrement toujours un peu de Clever Age en moi, cette entreprise dans laquelle je me suis tant investi et qui me l'a bien rendu. Mes collègues bordelais me manqueront, mais aussi les nantais, les lyonnais, les parisiens, les montpelliérains de Clever Institut, les visites en Suisse, les conf-call avec Hong-Kong ou Singapour. Hasard du calendrier, je quitte Clever tandis que par le biais [d'un autre rachat](https://www.clever-age.com/fr/news/clevertoday-rejoint-le-groupe-cleverage/), un ami d'un autre temps rejoint le navire depuis le Québec. Puisque je vous dis que le monde virtuel est tout petit !
 
 Je me sens comme celui qui attaque le dernier chapitre d'un livre qu'il a beaucoup aimé et dans lequel il a corné les pages les plus mémorables pour pouvoir s'y plonger, par nostalgie, un autre jour. J'ai plusieurs pistes pour de futures lectures, mais je compte bien profiter de celle-ci jusqu'à la dernière ligne.
-
-{% include media/youtube.html.liquid id="rnAvdZJ-gRU" title="MT 2012" %}
