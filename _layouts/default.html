@@ -138,7 +138,6 @@ layout: microtypo
         if(!!performance) return;
         performance.mark('mark-head-end');
         performance.measure('head-time', 'mark-head-start', 'mark-head-end');
-        console.log({performance.getEntriesByName('head-time')[0].duration});
       })()
     </script>
 
