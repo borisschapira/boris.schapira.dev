@@ -17,25 +17,17 @@
     - value: "'self'"
       comment: 'This domain'
     - value: "'sha256-4eDthUzkpBeVm+NnJvTvwxqxbEKC/hzHCLuNQfY+Qso='"
-      comment: 'Injection du SW'
+      comment: 'permark: mark-head-start'
     - value: "'sha256-42YhTxdvIqBKunoGTRm2oR8l6Y8BmeOEA1GdeMhkz0U='"
       comment: 'FID log'
-    - value: "'sha256-wRiYRnaaEyqKxosvlmLc/4vtkkRUZ+KitW7yW3yCEFc='"
-      comment: 'perf mark : parsing css start'
-    - value: "'sha256-b5hOYBmhRLCDYyLkS1CLxHNOM5WM8a6qQ07jept0pKc='"
+    - value: "'sha256-AbxA4tJvygLU9yzt/mapIEayc+iaLH2z4X36XNtAHXk='"
       comment: 'perf mark : parsing css end & measure'
-    - value: "'sha256-zDmGctlEN4JPwYUNPNKBfQXeG4jlALO5SknIxHg4+0k='"
-      comment: 'perf mark : parsing js start'
-    - value: "'sha256-DAnx807CklcokOJ6duM15GEYqgrDb3NtzVGjre2WPgE='"
-      comment: 'perf mark : parsing js end & measure'
-    - value: "'sha256-DO2lXX3OMHYW7jffODguBnNsjq3CQmM+ToAHJELUa+0='"
-      comment: 'Jekyll PWA Plugin SW declaration'
-    - value: "'sha256-Oq8k3FaFfXC/VOBt/MYJTHWT4l5j577MJMzecDE6jl4='"
-      comment: 'TBD'
     - value: "'sha256-O/7NBXBUAE2ZPlQUelDQ9rIGiJJfdkD3jdJlygZOUks='"
       comment: 'Switch to Dark Mode'
     - value: "'sha256-TfVxxWG/LjsHb5qDYMMyaCrVksrcaUHBXQVVncPJZXA='"
       comment: 'Matomo analytics'
+    - value: "'sha256-Oq8k3FaFfXC/VOBt/MYJTHWT4l5j577MJMzecDE6jl4='"
+      comment: 'SW registration'
     - value: 'analytics.schapira.dev'
       comment: 'Matomo analytics'
     - value: 'instant.page'
