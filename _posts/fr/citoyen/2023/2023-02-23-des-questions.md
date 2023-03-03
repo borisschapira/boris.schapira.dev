@@ -2,7 +2,7 @@
 title: GPT, Cédille et autres modèles…
 subtitle: du potentiel, des questions et des inquiétudes
 slug: des-questions
-last_modified: 2023-02-27T11:45:00Z
+last_modified: 2023-03-03T12:28:00Z
 ---
 
 Depuis plusieurs semaines, il ne se passe pas une journée sans que ChatGPT ne fasse irruption dans les discussions que j'ai avec de très nombreux professionnel·les du numérique.
@@ -194,6 +194,14 @@ Sauf erreur (corrigez-moi avec plaisir), rien n'oblige les acteurs concernés à
 Si tous les contenus produits sont reconnus et acceptés comme étant des vérités car extrêmement consensuels, que se passe-t-il quand, volontairement ou non, le système est empoisonné ? Seules quelques franges d'extrême gauche dénoncent la manière dont les assistants vocaux valorisent déjà le capitalisme effréné. Qui détectera un glissement sémantique des IA, quand leur utilisation sera totalement normalisée et leur parole d'or ?
 
 Et même si un tel glissement ne se produit pas, même si le marché reste incroyablement sous contrôle, alors il n'en restera pas moins que ces outils, LLM ou production visuelle, serviront également à améliorer la productivité d'activités humaines aujourd'hui discutables, comme la publicité.
+
+### Tous les problèmes des assistants vocaux actuels
+
+Ces LLM vont rapidement se doter d'une voix et rejoindre le large domaine existant des assistants vocaux.
+
+Or d'après l'UNESCO, les voix féminines de Siri, Cortana, Alexa ou encore Google Assistant reflètent et renforcent les stéréotypes de genre chez les usagers, parce qu'elles sous-tendent qu'une femme est toujours disponible, docile, patiente et attentionnée[^blush].
+
+[^blush]: "[I'd blush if I could: closing gender divides in digital skills through education](https://unesdoc.unesco.org/ark:/48223/pf0000367416.page=1)", UNESCO, EQUALS Skills Coalition
 
 ### Le prix de l'humanité
 
