@@ -20,7 +20,7 @@ last_modified_at: 2012-05-25
 
 Avant d’aller plus loin, explicitons deux non-dits.
 
-Le premier est assez simple : on ne peut mettre en place une stratégie d’amélioration de la performance Web que dans une entreprise qui est consciente des ses avantages. Et avant d’y arriver, il faut souvent convaincre de l’intérêt de la performance Web. Cela pourrait être le sujet d’un article à part entière, mais pour l’instant partons du principe que l’entreprise est sensible à l’argument.
+Le premier est assez simple : on ne peut mettre en place une stratégie d’amélioration de la performance Web que dans une entreprise qui est consciente de ses avantages. Et avant d’y arriver, il faut souvent convaincre de l’intérêt de la performance Web. Cela pourrait être le sujet d’un article à part entière, mais pour l’instant partons du principe que l’entreprise est sensible à l’argument.
 
 Le deuxième non-dit est que la performance Web n’est pas qu’un développement ou un ensemble de développements. Vous pouvez auditer un site, conseiller des corrections ou proposer de nouvelles implémentations, et la performance s’améliorera temporairement. C’est une première étape essentielle. Mais si le site ciblé est vivant, s’il évolue, alors la performance Web est plus compliquée à atteindre car elle devient un enjeu qualitatif à chaque livraison, voire même à chaque contribution (côté Back ou Front).
 
