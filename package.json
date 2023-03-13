@@ -47,7 +47,7 @@
     "@babel/preset-env": "^7.15.6",
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "abbr-touch": "^2.1.6",
-    "autoprefixer": "^10.3.6",
+    "autoprefixer": "^10.4.14",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^9.1.2",
     "blurhash": "^2.0.4",
