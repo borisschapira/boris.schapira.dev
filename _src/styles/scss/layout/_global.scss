@@ -98,7 +98,7 @@ html {
         }
         ul {
           display: flex;
-          justify-content: space-around;
+          justify-content: space-between;
         }
         li {
           display: inline-block;
@@ -141,7 +141,7 @@ html {
 
   ul {
     @extend %ul-reset;
-    margin-left: 1rem;
+    margin: 0 1rem;
   }
 
   h2,
