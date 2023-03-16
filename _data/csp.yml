@@ -24,7 +24,7 @@
       comment: 'perf mark : parsing css end & measure'
     - value: "'sha256-O/7NBXBUAE2ZPlQUelDQ9rIGiJJfdkD3jdJlygZOUks='"
       comment: 'Switch to Dark Mode'
-    - value: "'sha256-TfVxxWG/LjsHb5qDYMMyaCrVksrcaUHBXQVVncPJZXA='"
+    - value: "'sha256-hrqHfxUq6GUlUufkbC9L26zgi3VaM4zuO6X/CVuieL4='"
       comment: 'Matomo analytics'
     - value: "'sha256-Oq8k3FaFfXC/VOBt/MYJTHWT4l5j577MJMzecDE6jl4='"
       comment: 'SW registration'
