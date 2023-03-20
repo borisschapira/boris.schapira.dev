@@ -78,7 +78,7 @@
     "prettier": "^2.4.1",
     "rimraf": "^4.1.2",
     "rss-parser": "^3.12.0",
-    "sass": "^1.57.1",
+    "sass": "^1.59.3",
     "sass-loader": "^13.2.0",
     "uglify-js": "^3.14.2",
     "webpack": "^5.54.0",
