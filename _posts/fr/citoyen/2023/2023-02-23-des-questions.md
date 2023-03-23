@@ -2,7 +2,7 @@
 title: GPT, Cédille et autres modèles…
 subtitle: du potentiel, des questions et des inquiétudes
 slug: des-questions
-last_modified: 2023-03-16T09:18:00Z
+last_modified: 2023-03-23T07:49:00Z
 ---
 
 Depuis plusieurs semaines, il ne se passe pas une journée sans que ChatGPT ne fasse irruption dans les discussions que j'ai avec de très nombreux professionnel·les du numérique.
@@ -43,12 +43,17 @@ Quand on est capable de créer ou de modifier un contenu à partir d'un autre, a
 
 On peut, par exemple, prendre le sous-titrage automatique d'une conférence et corriger son contenu pour qu'il soit :
 
--   plus intelligible
--   découpé de manière optimale pour la lecture
+-   plus synthétique ;
+-   plus intelligible ;
+-   découpé de manière optimale pour la lecture.
 
 On peut aussi faire décrire automatiquement des images qui n'auraient pas de description textuelle sans cela, par défaut d'éducation des contributeur·ices.
 
 On peut aussi prendre un texte légal, comme les conditions générales d'utilisation d'un service, et demander au LLM de le convertir en français Facile à lire et à comprendre (FALC).
+
+Non seulement ces usages pourraient augmenter la productivité des utilisateurs, mais ils permettraient surtout un accès facilité à l'information pour une immense partie de la population qui en est aujourd'hui privée : personnes mal ou non-voyantes, ne sachant pas lire ou ayant des troubles de la lecture, neuroatypique avec des troubles de la concentration… pour elles et eux, la capacité de synthèse et de restitution de l'information est cruciale.
+
+À condition que l'information soit de qualité.
 
 ### Manipulation de large jeux de données
 
@@ -160,7 +165,13 @@ Nous n'avons pas la puissance de calcul nécessaire à détecter les absurdités
 
 ### Boucles de rétro-alimentation
 
-Que se passe-t-il quand un LLM se nourrit en continu ? Soit il se retrouve exposé à des contenus produits par d'autres LLM, soit il continue à être alimenté par des données hiérarchisées par des scrutins alimentés par des personnes qui, elles-mêmes, sont exposées à des contenus produits par un LLM. Quel impact cela pourrait-il avoir sur la qualité des contenus ?
+Que se passe-t-il quand un LLM se nourrit en continu ? Soit il se retrouve exposé à des contenus produits par d'autres LLM (soit directement, soit par le biais d'intermédiaires qui les citent), soit il continue à être alimenté par des données hiérarchisées par des scrutins alimentés par des personnes qui, elles-mêmes, sont exposées à des contenus produits par un LLM (donc leur jugement est biaisé). 
+
+Quel impact cela pourrait-il avoir sur la qualité des contenus ?
+
+Nous avons déjà des exemples : une using à générer de fausses informations[^bingbard].
+
+[^bingbard]: "[Google and Microsoft’s chatbots are already citing one another in a misinformation shitshow](https://www.theverge.com/2023/3/22/23651564/google-microsoft-bard-bing-chatbots-misinformation)", James Vincent, The Verge
 
 ### Volumes
 
