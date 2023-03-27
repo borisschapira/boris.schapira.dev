@@ -88,7 +88,7 @@
     "dotenv": "^16.0.3",
     "escape-string-regexp": "^5.0.0",
     "file-loader": "^6.2.0",
-    "instant.page": "^5.1.1",
+    "instant.page": "^5.2.0",
     "js-md5": "^0.7.3",
     "js-yaml": "^4.1.0",
     "pngjs": "^6.0.0",
