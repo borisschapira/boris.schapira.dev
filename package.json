@@ -92,7 +92,7 @@
     "js-md5": "^0.7.3",
     "js-yaml": "^4.1.0",
     "pngjs": "^6.0.0",
-    "slugify": "^1.6.0",
+    "slugify": "^1.6.6",
     "touchtap-event": "^2.0.2",
     "turbolinks": "^5.2.0",
     "workbox-broadcast-update": "^6.3.0",
