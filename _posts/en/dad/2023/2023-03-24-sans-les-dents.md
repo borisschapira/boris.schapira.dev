@@ -1,0 +1,16 @@
+---
+title: Ready
+i18n-key: ready
+translations:
+    en: sans-les-dents
+---
+
+I wasn't ready on Friday when the school called for me to pick you up.
+
+I wasn't ready either when I saw you, holding your bloody handkerchief to your mouth. I didn't know what to tell you, how to tell you. That we were going to figure it out, that there was no turning back, that metal poles are not your friends. Obviously, you learned _that_ lesson.
+
+I told your mom. We didn't know what to do, so we called 15, French number for medical emergencies. And we spent hours getting answering machines, meeting with people, in several places, who didn't know what to do either. And then after many hours and trips, we finally got an X-ray, a dentist and then we looked at possibilities, and then we imagined your future, and we held your hand the whole time.
+
+And at night, when I put you to bed, you told me that you loved me, that I was the best dad in the world, because I always knew what to do.
+
+So I went to bed knowing that maybe one day you'll be a dad too. And that you won't know what to do either. But that our example might give you the strength to do it anyway.

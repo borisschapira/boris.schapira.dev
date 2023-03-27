@@ -1,5 +1,8 @@
 ---
 title: Sans les dents
+i18n-key: ready
+translations:
+    en: ready
 ---
 
 Je n'étais pas prêt, vendredi, quand l'école a appelé pour que je vienne te chercher. 
