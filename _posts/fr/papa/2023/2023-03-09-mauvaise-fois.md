@@ -2,7 +2,7 @@
 title: Mauvaise foi
 ---
 
-8-ans et sa répartie de classe internationale…
+9-ans et sa répartie de classe internationale…
 
 > – Hier matin, je t'ai bien demandé de mettre ta trousse et ton classeur dans ton cartable ?  
 > – Oui.  
