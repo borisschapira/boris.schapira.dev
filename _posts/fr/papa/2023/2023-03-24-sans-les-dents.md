@@ -10,4 +10,4 @@ J'ai prévenu ta mère. On ne savait pas quoi faire, alors on a appelé le 15. E
 
 Et le soir, quand je t'ai couché, tu m'as dis que tu m'aimais, que j'étais le meilleur papa du monde, parce que je savais toujours quoi faire.
 
-Alors je suis allé me coucher en sachant que toi aussi, peut-être, un jour, tu seras peut-être papa. Et que tu ne sauras pas quoi faire non plus. Mais qu'on t'aura peut-être donné la force de le faire quand même.
+Alors je suis allé me coucher en sachant que toi aussi, peut-être, un jour, tu seras papa. Et que tu ne sauras pas quoi faire non plus. Mais qu'on t'aura peut-être donné la force de le faire quand même.
