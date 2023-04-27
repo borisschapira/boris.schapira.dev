@@ -99,13 +99,11 @@ Beaucoup de plate-formes et des décideurs parlent "d'algorithmes" pour cacher d
 Prenons un exemple concret : la discrimination à l'embauche. De nombreux algorithmes ont été créés, au fil des années, pour automatiser le tri des CVs, faisant apparaitre des discriminations avérées[^mozaikrh]. Ces abus ont amené la Défenseure des Droits à replacer le principe de discrimination au cœur du projet de réglementation de la commission européenne[^defdroits] dès 2022. Mais pour l'instant, rien n'est acté, et les recours contre ces discriminations n'ont pas de cadre légal.
 
 > **Annexe: Étude de cas**  
-> La candidature de Khadija, jeunes diplômées, mariées un enfant, est éliminé par un système d'IA de présélection automatique de CV. La sélection finale étant humaine, cette procédure est autorisée par le RGPD qui oblige par ailleurs l'entreprise à informer Khadija de son utilisation. Le SIA concerné est jugé à haut risque (art. 6 AIA) mais, dépendant de l'annexe III, il ne nécessite pas un audit ex ante pour obtenir la conformité; seule l'existence de la documentation (art. 11 AIA) est nécessaire. Quel est le recours possible de Khadija s'estimant discriminée par son genre, son origine ou les deux? L'analyse ci-dessus montre que ses chances d'obtenir gain de cause sont nulles.
-> <cite>"[Les Réglementations Européennes des Systèmes d’IA à Haut Risque 'oublient' la Défense des Droits Fondamentaux](https://www.linkedin.com/pulse/les-r%2525C3%2525A9glementations-europ%2525C3%2525A9ennes-des-syst%2525C3%2525A8mes-dia-%2525C3%2525A0-haut-besse%3FtrackingId=bHN6kP0NS42xjGPGI7HXBQ%253D%253D/?trackingId=bHN6kP0NS42xjGPGI7HXBQ%3D%3D)", Philippe Besse
+> La candidature de Khadija, jeunes diplômées, mariées un enfant, est éliminé par un système d'IA de présélection automatique de CV. La sélection finale étant humaine, cette procédure est autorisée par le RGPD qui oblige par ailleurs l'entreprise à informer Khadija de son utilisation. Le SIA concerné est jugé à haut risque (art. 6 AIA) mais, dépendant de l'annexe III, il ne nécessite pas un audit ex ante pour obtenir la conformité; seule l'existence de la documentation (art. 11 AIA) est nécessaire. Quel est le recours possible de Khadija s'estimant discriminée par son genre, son origine ou les deux? L'analyse ci-dessus montre que ses chances d'obtenir gain de cause sont nulles.  
+> <cite>"[Les Réglementations Européennes des Systèmes d’IA à Haut Risque 'oublient' la Défense des Droits Fondamentaux](https://www.linkedin.com/pulse/les-r%2525C3%2525A9glementations-europ%2525C3%2525A9ennes-des-syst%2525C3%2525A8mes-dia-%2525C3%2525A0-haut-besse%3FtrackingId=bHN6kP0NS42xjGPGI7HXBQ%253D%253D/?trackingId=bHN6kP0NS42xjGPGI7HXBQ%3D%3D)", Philippe Besse</cite>
 
 [^mozaikrh]: "[Recruter avec des algorithmes pour moins discriminer : bonne ou mauvaise idée ?](https://mozaikrh.com/recruter-avec-des-algorithmes-pour-moins-discriminer-bonne-ou-mauvaise-idee/)", Mozaik RH
 [^defdroits]: "[Intelligence artificielle : la Défenseure des droits appelle à replacer le principe de non-discrimination au cœur du projet de règlement de la Commission européenne](https://www.defenseurdesdroits.fr/fr/communique-de-presse/2022/06/intelligence-artificielle-la-defenseure-des-droits-appelle-a-replacer)", Communiqué de Presse
-
-
 
 ### Consensualité violente
 
@@ -165,7 +163,7 @@ Nous n'avons pas la puissance de calcul nécessaire à détecter les absurdités
 
 ### Boucles de rétro-alimentation
 
-Que se passe-t-il quand un LLM se nourrit en continu ? Soit il se retrouve exposé à des contenus produits par d'autres LLM (soit directement, soit par le biais d'intermédiaires qui les citent), soit il continue à être alimenté par des données hiérarchisées par des scrutins alimentés par des personnes qui, elles-mêmes, sont exposées à des contenus produits par un LLM (donc leur jugement est biaisé). 
+Que se passe-t-il quand un LLM se nourrit en continu ? Soit il se retrouve exposé à des contenus produits par d'autres LLM (soit directement, soit par le biais d'intermédiaires qui les citent), soit il continue à être alimenté par des données hiérarchisées par des scrutins alimentés par des personnes qui, elles-mêmes, sont exposées à des contenus produits par un LLM (donc leur jugement est biaisé).
 
 Quel impact cela pourrait-il avoir sur la qualité des contenus ?
 
