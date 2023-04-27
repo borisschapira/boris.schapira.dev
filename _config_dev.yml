@@ -1,6 +1,5 @@
 # Development configuration (comment for Production)
-limit_posts: 20
-host: 'boris.schapira.local'
+limit_posts: 100
 port: 10443
 future: true
 show_drafts: false
