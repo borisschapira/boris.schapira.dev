@@ -27,3 +27,5 @@ if Gem.win_platform?
   gem 'tzinfo-data'
   gem 'wdm', '~> 0.1.0'
 end
+
+gem "html-proofer", "~> 4.4"

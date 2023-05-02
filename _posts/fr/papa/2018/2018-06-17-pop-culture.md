@@ -17,4 +17,4 @@ Pendant leur jeu de rôles d'aujourd'hui, les références s'enchainaient. J'ai 
 [^2]: [La Grand Aventure Lego](https://www.youtube.com/watch?v=NebLEBYigm4)
 [^3]: [Steven Universe](https://www.youtube.com/watch?v=wSaoXwQzHnY) (meilleur dessin animé de la décennie, et [une communauté de fans](https://www.youtube.com/watch?v=MKGdqmevC5M) juste dingue)
 [^4]: [Voltron: Le Défenseur Légendaire](https://www.youtube.com/watch?v=ODt9WOrB10s)
-[^5]: [Les nouvelles aventures du Bus Magique]() et… le camping-car de leurs grand-parents !
+[^5]: Les nouvelles aventures du Bus Magique et… le camping-car de leurs grand-parents !

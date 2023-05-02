@@ -8,6 +8,7 @@ description: >-
 last_date: 2012-05-25
 events:
     - name: 'Sud Web 2012'
+      url: https://sudweb.fr/2012/
       date: 2012-05-25
 last_modified_at: 2012-05-25
 ---

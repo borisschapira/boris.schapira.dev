@@ -84,7 +84,7 @@ caption=img_caption
 
 ## Quelques liens, pour en savoir plus
 
--   [[ReadWrite] GitHub For Beginners: Don't Get Scared, Get Started](//readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1 '[ReadWrite] GitHub For Beginners: Don')
+-   [[ReadWrite] GitHub For Beginners: Don't Get Scared, Get Started](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1 '[ReadWrite] GitHub For Beginners: Don')
 -   [[Wired] The GitHub Revolution: Why We’re All in Open Source Now](http://www.wired.com/2013/03/github/ '[Wired] The GitHub Revolution: Why We’re All in Open Source Now')
 -   [[Radar O'Reilly] GitHub gains new prominence as the use of open source within governments grows](http://radar.oreilly.com/2013/03/github-government-bureaucat-open-source.html '[Radar O')
 -   [[NY Times Bits Blog] Dreams of ‘Open’ Everything](http://bits.blogs.nytimes.com/2012/12/28/github-has-big-dreams-for-open-source-software-and-more/?_r=5 '[NY Times Bits Blog] Dreams of ‘Open’ Everything')

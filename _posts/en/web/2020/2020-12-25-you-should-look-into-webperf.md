@@ -123,7 +123,7 @@ This is especially true, since it is sometimes difficult to talk about the same 
 
 Often the best way of addressing your own, specific needs is when you use your own metrics using _customized time milestones_. On the server side, these are called Server Timings [^10]. On the browser side, these are called User Timings [^11]. Contrary to other metrics, they correspond to what your team chooses to monitor. You can find them when you analyze the page in your browser's development tools and they are collectable by all the analysis tools. Why not use them?
 
-[^10]: "[MDN Server-Timing Documentation](//developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Server-Timing)".
+[^10]: "[MDN Server-Timing Documentation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Server-Timing)".
 [^11]: "[Custom Timing : attendez la prochaine frame quand vous utilisez la User Timing API](https://boris.schapira.dev/notes/2019-09-custom-timing-prochaine-frame/)".
 
 {% include rwd-image.html.liquid
