@@ -4,15 +4,15 @@ layout: microtypo
 <!DOCTYPE html>
 <html lang="{{ page.locale | default: site.locale | default: "fr" }}">
   <head>
-    <script>performance && performance.mark('mark-head-start');</script>
     <!-- nomicrotypo -->
-
     <meta charset="utf-8" />
-
-    <link href="{% include assets/css.html.liquid name='critical' %}" rel="preload" as="style">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {%- capture pageTitle -%}{{ page.social.title | strip_html | default: page.title }}{%- endcapture -%}
+    <title>{{ pageTitle }}</title>
     <link href="https://boris.schapira.dev" rel="preconnect" crossorigin="anonymous">
     <link href="https://res.cloudinary.com" rel="preconnect">
+
+    <script>performance && performance.mark('mark-head-start');</script>
 
     <script>
       {% include first-input-delay.min.js %}
@@ -24,8 +24,6 @@ layout: microtypo
         _paq && _paq.push(['trackEvent', 'Performance', 'FID', 'Delay', Math.round(delay)]);
       });
     </script>
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     {% comment %} Prefetching previous and next pages {% endcomment %}
     {% if page.next_context or page.prev_context %}
@@ -42,6 +40,18 @@ layout: microtypo
     <link href="{% include assets/css.html.liquid name='critical' %}" rel="stylesheet" data-proofer-ignore>
     <link href="{% include assets/css.html.liquid name='main' %}" rel="stylesheet" data-proofer-ignore>
     <link href="{% include assets/css.html.liquid name='hl' %}" rel="stylesheet" media="print" data-media="all" data-proofer-ignore>
+
+    <script src="{% include assets/js.html.liquid name='index.min' %}" defer></script>
+    <script src="{% include assets/js.html.liquid name='navigation.min' %}" defer></script>
+
+    <script>
+      (function(){
+        if(!!performance) return;
+        performance.mark('mark-head-end');
+        performance.measure('head-time', 'mark-head-start', 'mark-head-end');
+      })()
+    </script>
+
     <noscript><link href="{% include assets/css.html.liquid name='hl' %}" rel="stylesheet" media="all" data-proofer-ignore></noscript>
 
     {% comment %} / Styles {% endcomment %}
@@ -68,11 +78,6 @@ layout: microtypo
     {% elsif paginator and paginator.page > 1 %}
     <meta name="robots" content="noindex,follow">
     {% endif %}
-
-
-    {%- capture pageTitle -%}{{ page.social.title | strip_html | default: page.title }}{%- endcapture -%}
-
-    <title>{{ pageTitle }}</title>
 
     {% if page.canonical %}
       <link rel="canonical" href="{{ page.canonical }}" data-proofer-ignore/>
@@ -129,17 +134,6 @@ layout: microtypo
     <meta name="theme-color" content="#{{ page.social.color }}">
 
     <!-- endnomicrotypo -->
-
-    <script src="{% include assets/js.html.liquid name='index.min' %}" defer></script>
-    <script src="{% include assets/js.html.liquid name='navigation.min' %}" defer></script>
-
-    <script>
-      (function(){
-        if(!!performance) return;
-        performance.mark('mark-head-end');
-        performance.measure('head-time', 'mark-head-start', 'mark-head-end');
-      })()
-    </script>
 
     <link rel="me" href="{{ site.author.mastodon_perso.url }}"/>
     <link rel="me" href="{{ site.author.mastodon_pro.url }}"/>
