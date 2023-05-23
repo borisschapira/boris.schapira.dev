@@ -6,7 +6,7 @@ title: Traces perdues
 
 Suite à [l'annulation de SudWeb 2023](https://sudweb.fr/2023/), il se dit plein de choses intéressantes sur les conférences et la communauté qui gravite autour de l'événement. Difficile pour moi de rester parfaitement neutre, d'une part parce que quelqu'un a décidé de me pointer du doigt. D'autre part, aussi parce que j'ai été moi-même organisateur d'une édition de SudWeb qui m'a beaucoup appris, mais aussi beaucoup coûté. Enfin parce que chaque action, y compris ma proposition de tenir 5 minutes sur scène, a des conséquences qu'il faut assumer.
 
-***
+---
 
 Je me souviens, j'avais écris un long article sur l'organisation de cette édition 2018, ma dernière dans l'équipe et en tant que président. Je l'avais écrit tout au long de l'édition, et j'avais noté tout ce que nous faisions.
 
@@ -16,8 +16,7 @@ Le temps investi, qui m'avait éloigné de mes enfants pendant des mois, enferm�
 
 [Le travail de préparation et d'organisation, sur place, pour faire dormir les gens et les nourrir pendant deux jours et trois nuits](https://sudweb.fr/blog/2018/un-lieu-plutot-qu-une-ville/)… et la trouille constante qu'il arrive quelque chose à quelqu'un·e dans les dortoirs, sous notre responsabilité (trouille qui n'a jamais disparu. Je m'attendrai tout ma vie à ce que quelqu'un·e se sente prêt·e et dise quelque chose qu'on ne sait pas).
 
-> J’espère que nous y sommes arrivés concrètement, mais je suis prêt (même si ça me terrifie) à entendre demain ou dans 10 ans quelqu’un·e nous dire que non, qu’il s’est passé un truc qui n’était pas ok, le ou la croire et l’aider parce que c’est ça aussi, assumer.
-> <cite>"[Le narcissisme, le feu et le protocole](/notes/2021-02-narcissime-feu-et-protocole/)"</cite>
+> J’espère que nous y sommes arrivés concrètement, mais je suis prêt (même si ça me terrifie) à entendre demain ou dans 10 ans quelqu’un·e nous dire que non, qu’il s’est passé un truc qui n’était pas ok, le ou la croire et l’aider parce que c’est ça aussi, assumer. <cite>"[Le narcissisme, le feu et le protocole](/notes/2021-02-narcissime-feu-et-protocole/)"</cite>
 
 La peur, aussi, que notre proposition ne prenne pas, que j'en sois pour 50 000 euros de ma poche en tant que président ou que l'asso crame son maigre pécule et disparaisse.
 
@@ -37,7 +36,7 @@ Tout ça pour dire que cet article sur SudWeb 2018, à l'époque, je l'avais fin
 
 _On ne sait jamais ce qu'on perd qu'une fois qu'on l'a perdu._
 
-***
+---
 
 Dans ce commentaire de fond sur SudWeb 2023, je note pour ma part que l'événement ne laisse pas indifférent dans la communauté des gens pour qui il a eu une place particulière, à un moment de leur vie. Je ne sais pas quoi en penser, mais je ne me rappelle pas avoir lu autant de commentaires sur d'autres annulations.
 
