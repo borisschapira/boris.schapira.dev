@@ -2,8 +2,7 @@ const path = require('path');
 
 var scriptsConfig = {
   entry: {
-    index: './_src/scripts/index.js',
-    navigation: './_src/scripts/navigation.js',
+    index: './_src/scripts/index.js'
   },
   module: {
     rules: [
