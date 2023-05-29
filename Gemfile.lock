@@ -131,7 +131,7 @@ PLATFORMS
 DEPENDENCIES
   classifier-reborn
   commonmarker
-  html-proofer (~> 4.4)
+  html-proofer
   jekyll
   jekyll-archives!
   jekyll-cloudinary
