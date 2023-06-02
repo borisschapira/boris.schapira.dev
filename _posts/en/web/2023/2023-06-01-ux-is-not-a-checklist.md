@@ -4,7 +4,7 @@ translations:
     fr: l-ux-n-est-pas-une-checklist
 ---
 
-I was talking yesterday to a customer that is about finding an equivalent to Largest Contentful Paint on Safari.
+I was talking yesterday to a customer that was looking for an equivalent to Largest Contentful Paint on Safari.
 
 > _From an SEO point of view_, even if you have a tiny bit of traffic on Chrome, _it's this traffic that shapes the way Google perceives the page's web performance_. But if you want to measure and improve your users’ experience, then I'd say: **why limit yourself to LCP?**
 >
