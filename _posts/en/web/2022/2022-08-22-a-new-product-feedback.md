@@ -1,7 +1,7 @@
 ---
 title: A New Product Feedback
 translations:
-    en: un-nouveau-besoin-produit
+    fr: un-nouveau-besoin-produit
 ---
 
 When I come up with a product feedback that could lead to a product improvement:
