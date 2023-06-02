@@ -63,7 +63,7 @@ GEM
       yell (~> 2.0)
       zeitwerk (~> 2.5)
     http_parser.rb (0.8.0)
-    i18n (1.13.0)
+    i18n (1.14.0)
       concurrent-ruby (~> 1.0)
     io-event (1.2.2)
     jekyll (4.3.2)
@@ -127,7 +127,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
-    rouge (4.1.1)
+    rouge (4.1.2)
     ruby-rc4 (0.1.5)
     safe_yaml (1.0.5)
     sass-embedded (1.62.1)
@@ -150,7 +150,7 @@ PLATFORMS
 DEPENDENCIES
   classifier-reborn
   commonmarker
-  html-proofer
+  html-proofer (~> 5.0.0)
   jekyll
   jekyll-archives!
   jekyll-cloudinary
@@ -164,4 +164,4 @@ DEPENDENCIES
   rake
 
 BUNDLED WITH
-   2.4.3
+   2.4.10

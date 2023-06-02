@@ -2,3 +2,4 @@
 BUNDLE_CLEAN: "true"
 BUNDLE_PATH: "vendor"
 BUNDLE_BUILD_NOKOGIRI: "--with-xml2-dir=/usr/local/opt/libxml2/include/libxml2/"
+BUNDLE_BUILD__EVENTMACHINE: "--with-openssl-dir=/usr/local/opt/openssl@1.1"
