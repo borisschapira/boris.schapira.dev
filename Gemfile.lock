@@ -38,7 +38,8 @@ GEM
     colorator (1.1.0)
     commonmarker (0.23.9)
     concurrent-ruby (1.2.2)
-    console (1.16.2)
+    console (1.17.0)
+      fiber-annotation
       fiber-local
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
@@ -49,6 +50,7 @@ GEM
     fast-stemmer (1.0.2)
     fastimage (2.2.7)
     ffi (1.15.5)
+    fiber-annotation (0.2.0)
     fiber-local (1.0.0)
     forwardable-extended (2.6.0)
     google-protobuf (3.23.2)
@@ -63,7 +65,7 @@ GEM
       yell (~> 2.0)
       zeitwerk (~> 2.5)
     http_parser.rb (0.8.0)
-    i18n (1.14.0)
+    i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     io-event (1.2.2)
     jekyll (4.3.2)
