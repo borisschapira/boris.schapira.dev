@@ -9,11 +9,13 @@ GEM
       console (~> 1.10)
       io-event (~> 1.1)
       timers (~> 4.1)
-    console (1.16.2)
+    console (1.17.0)
+      fiber-annotation
       fiber-local
     ethon (0.16.0)
       ffi (>= 1.15.0)
     ffi (1.15.5)
+    fiber-annotation (0.2.0)
     fiber-local (1.0.0)
     hashery (2.1.2)
     html-proofer (5.0.7)
