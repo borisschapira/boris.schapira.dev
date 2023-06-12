@@ -93,7 +93,7 @@
     "slugify": "^1.6.0",
     "touchtap-event": "^2.0.2",
     "turbolinks": "^5.2.0",
-    "workbox-broadcast-update": "^6.3.0",
+    "workbox-broadcast-update": "^7.0.0",
     "workbox-cacheable-response": "^6.3.0",
     "workbox-core": "^7.0.0",
     "workbox-expiration": "^6.3.0",
