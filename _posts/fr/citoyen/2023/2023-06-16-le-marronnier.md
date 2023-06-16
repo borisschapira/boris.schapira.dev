@@ -16,6 +16,10 @@ images:
     caption: Jacob, expert du Truc les jours pairs.
 ---
 
+{% capture note %}**Mes excuses pour le sarcasme**
+
+Toute ressemblance avec une typologie d'articles d'une Presse politique qui ne mérite pas son nom n'a rien de fortuite.{% endcapture note %} {% include note.html.liquid content=note %}
+
 _Faut-il clore ce débat sur l'existence de ce truc dont personne n'a prouvé l'existence ? L’analyse chiffrée des faits permet de sortir d'un débat uniquement idéologique sur le concept._
 
 Le débat n'en finit plus, les partisans comme les opposants aux concepts en conviendront. Disqualifié sans analyse par une partie de la classe politique sous prétexte qu'il ferait le jeu des extrêmes et qu'il a été utilisé par un essayiste décrié dans l'un de ses ouvrages polémiques, ce concept n'en ai pas moins réel.
@@ -49,7 +53,3 @@ caption=page.images.jacob.caption
 ### En conclusion
 
 Quel bilan tirer de l'analyse de ces chiffres ? Qu'à défaut de confirmer l'existence de cette réalité, ils participent à montrer qu'elle est difficilement quantifiable. Mais tant que les gens auront un doute, il semble important de l'alimenter régulièrement d'un questionnement sain. Ne cloturons pas trop tôt ce débat, la société –et surtout la Presse– en a besoin.
-
-{% capture note %}**Mes excuses pour le sarcasme**
-
-Toute ressemblance avec une typologie d'articles d'une Presse politique qui ne mérite pas son nom n'a rien de fortuite.{% endcapture note %} {% include note.html.liquid content=note %}
