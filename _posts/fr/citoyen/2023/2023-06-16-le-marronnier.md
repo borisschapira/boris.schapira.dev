@@ -42,7 +42,7 @@ alt=page.images.data.alt
 caption=page.images.data.caption
 %}
 
-C'est ce que nous avons fait et le résultat est sans appel : des données ont été produites. Vous trouverez ci-dessous trois graphiques issus du travail de l'Institut du Truc qui permettent de les visualiser et de tirer des conclusions. Jacob Nubilé, directeur, responsable de la production des données, président du comité d'Éthique indépendant de l'Institut et du groupe international des experts du Truc le confirme.
+C'est ce que nous avons fait et le résultat est sans appel : des données ont été produites. Vous trouverez ci-dessus trois graphiques issus du travail de l'Institut du Truc qui permettent de les visualiser et de tirer des conclusions. Jacob Nubilé, directeur, responsable de la production des données, président du comité d'Éthique indépendant de l'Institut et du groupe international des experts du Truc le confirme.
 
 {% include rwd-image.html.liquid
 path=page.images.jacob.path
