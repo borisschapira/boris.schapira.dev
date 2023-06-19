@@ -34,7 +34,7 @@ Le débat est pourtant un élément important permettant l’avancée des sujets
 
 ### Des chiffres
 
-Deux Français sur dix jugent que ce phénomène est en forte progression. Parmi eux, trois sur cinq affirment en avoir probablement été victime. Parmi eux, tous confirment en avoir entendu parler en amont mais seulement 12 % affirment maitriser totalement le concept, ce qui en dit long sur notre société contemporaine. Ces chiffres, impressionnants, confirment qu'il faut prendre cela au sérieux et regarder, dans les faits si on l'observe bel et bien.
+Deux Français sur dix jugent que ce phénomène est en forte progression. Parmi eux, trois sur cinq affirment en avoir probablement été victime. Ces victimes confirment en avoir entendu parler en amont mais seulement 12 % affirment maitriser totalement le concept, ce qui en dit long sur notre société contemporaine. Ces chiffres, impressionnants, confirment qu'il faut prendre cela au sérieux et regarder, dans les faits si on l'observe bel et bien.
 
 {% include rwd-image.html.liquid
 path=page.images.data.path
