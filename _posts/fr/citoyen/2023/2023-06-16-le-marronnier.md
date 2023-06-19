@@ -22,7 +22,7 @@ Toute ressemblance avec une typologie d'articles d'une Presse politique qui ne m
 
 _Faut-il clore ce débat sur l'existence de ce truc dont personne n'a prouvé l'existence ? L’analyse chiffrée des faits permet de sortir d'un débat uniquement idéologique sur le concept._
 
-Le débat n'en finit plus, les partisans comme les opposants aux concepts en conviendront. Disqualifié sans analyse par une partie de la classe politique sous prétexte qu'il ferait le jeu des extrêmes et qu'il a été utilisé par un essayiste décrié dans l'un de ses ouvrages polémiques, ce concept n'en ai pas moins réel.
+Le débat n'en finit plus, les partisans comme les opposants aux concepts en conviendront. Disqualifié sans analyse par une partie de la classe politique sous prétexte qu'il ferait le jeu des extrêmes et qu'il a été utilisé par un essayiste décrié dans l'un de ses ouvrages polémiques, ce concept n'en est pas moins réel.
 
 {% include rwd-image.html.liquid
 path=page.images.dessin.path
