@@ -134,9 +134,6 @@
 - name: worker-src
   values:
     - value: "'self'"
-- name: prefetch-src
-  values:
-    - value: "'self'"
 - name: block-all-mixed-content
 - name: upgrade-insecure-requests
 - name: report-uri
