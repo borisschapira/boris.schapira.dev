@@ -39,7 +39,7 @@ GEM
     colorator (1.1.0)
     commonmarker (0.23.10)
     concurrent-ruby (1.2.2)
-    console (1.21.0)
+    console (1.23.1)
       fiber-annotation
       fiber-local
     em-websocket (0.5.3)
@@ -54,7 +54,7 @@ GEM
     fiber-annotation (0.2.0)
     fiber-local (1.0.0)
     forwardable-extended (2.6.0)
-    google-protobuf (3.23.4)
+    google-protobuf (3.24.0)
     hashery (2.1.2)
     html-proofer (5.0.8)
       addressable (~> 2.3)
