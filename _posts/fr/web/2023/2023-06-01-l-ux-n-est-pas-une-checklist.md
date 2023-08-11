@@ -27,9 +27,9 @@ C'est l'une des raisons pour lesquelles je pense que l'acquisition de Dareboost 
 Hier soir, je suis tombé sur un article de Tim qui résume très élégamment la situation (traduction maison) :
 
 > Les organisations ont parfois tendance à considérer les performances comme une sorte de checklist, d'autant plus que les Core Web Vitals attirent plus que jamais l'attention sur les performances. On essaie de cocher les cases de ces indicateurs pour qu'ils passent au vert, puis on s'arrête là.
-> 
+>  
 > […]
-> 
+>  
 > Mais tout cela est sans importance si ces mesures ne donnent pas une image exhaustive de la manière dont les utilisateurs interagissent avec nos sites.
 >
 > La performance, comme l'accessibilité, n'est pas une question de conformité.

@@ -2,18 +2,18 @@
 title: Le marronnier
 
 images:
-  dessin:
-    path: /assets/images/citoyen/2023-06-16/dessin.jpg
-    alt: Dessin, ligne claire, deux groupes de personnes sont séparées par un individu, au milieu, bras écartés. Des nuages planent au dessus des deux groupes. Un autre individu est représenté dans les airs entre les deux nuages, sans qu'on sache s'il s'élève ou s'écrace.
-    caption: Le dessin du jour de Planté
-  data:
-    path: /assets/images/citoyen/2023-06-16/data.jpg
-    alt: Aperçu de trois groupes de graphiques confus. Aucune donnée n'est vraiment lisible.
-    caption: Le constat est clair.
-  jacob:
-    path: /assets/images/citoyen/2023-06-16/jacob.jpg
-    alt: Homme blanc d'une quarantaine d'année, habillé d'un costume bleu marine, chemise blanche, cravate bleue, assis à une table, mains jointes par dessus un journal posé grand ouvert.
-    caption: Jacob, expert du Truc les jours pairs.
+    dessin:
+        path: /assets/images/citoyen/2023-06-16/dessin.jpg
+        alt: Dessin, ligne claire, deux groupes de personnes sont séparées par un individu, au milieu, bras écartés. Des nuages planent au dessus des deux groupes. Un autre individu est représenté dans les airs entre les deux nuages, sans qu'on sache s'il s'élève ou s'écrace.
+        caption: Le dessin du jour de Planté
+    data:
+        path: /assets/images/citoyen/2023-06-16/data.jpg
+        alt: Aperçu de trois groupes de graphiques confus. Aucune donnée n'est vraiment lisible.
+        caption: Le constat est clair.
+    jacob:
+        path: /assets/images/citoyen/2023-06-16/jacob.jpg
+        alt: Homme blanc d'une quarantaine d'année, habillé d'un costume bleu marine, chemise blanche, cravate bleue, assis à une table, mains jointes par dessus un journal posé grand ouvert.
+        caption: Jacob, expert du Truc les jours pairs.
 ---
 
 {% capture note %}**Mes excuses pour le sarcasme**
