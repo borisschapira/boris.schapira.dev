@@ -10,7 +10,7 @@ GEM
       fiber-annotation
       io-event (~> 1.1)
       timers (~> 4.1)
-    console (1.23.1)
+    console (1.23.2)
       fiber-annotation
       fiber-local
     ethon (0.16.0)
@@ -30,7 +30,7 @@ GEM
       zeitwerk (~> 2.5)
     io-event (1.2.3)
     mini_portile2 (2.8.4)
-    nokogiri (1.15.3)
+    nokogiri (1.15.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     pdf-reader (2.11.0)
