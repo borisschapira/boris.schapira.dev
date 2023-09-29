@@ -1,2 +1,3 @@
 User-agent: GPTBot
+User-agent: Google-Extended
 Disallow: /
