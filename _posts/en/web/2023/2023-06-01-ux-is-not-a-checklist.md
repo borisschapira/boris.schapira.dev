@@ -27,9 +27,9 @@ This is one of the reasons why I feel that Contentsquare's acquisition of Darebo
 Last night, I came across Tim's article that put it very elegantly:
 
 > There’s an tendency at times for organizations to treat performance as a checklist of sorts, particularly as we’ve seen the core web vitals metrics bring more attention to performance than ever before. You try to tick the box on those metrics to get them green, then call it a day.
->  
+>
 > […]
->  
+>
 > But none of that matters if those metrics aren’t painting a complete picture of how users interact with our sites.
 >
 > Performance, like accessibility, is not about conformance.
