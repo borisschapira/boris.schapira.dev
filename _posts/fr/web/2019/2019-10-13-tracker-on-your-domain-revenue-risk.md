@@ -21,7 +21,7 @@ Dans le Web, des actualités qui peuvent n'avoir rien à voir en apparence peuve
 
 Voici l'introduction qu'on peut trouver sur la page "[Comment éviter de passer à côté de données avec l’arrivée du RGPD](https://www.eulerian.com/blog/astuces/comment-eviter-perte-donnees-avec-rgpd/)" d'Eulerian, une des solutions phares de recoupement de données de surveillance d'internautes.
 
-Si vous n'avez pas compris le discours, il s'agit simplement de se demander comment contourner l'absence de consentement des internautes (voire l'expression claire de leur non-consentement quand ils et elles installent des adblockers) pour collecter des données malgré tout. La "solution" proposée : [cacher les saletés sous le tapis](https://reflets.info/articles/affreux-sales-et-mechants) en les masquant dans un sous-domaine appartenant à la marque.
+Si vous n'avez pas compris le discours, il s'agit simplement de se demander comment contourner l'absence de consentement des internautes (voire l'expression claire de leur non-consentement quand elles et ils installent des adblockers) pour collecter des données malgré tout. La "solution" proposée : [cacher les saletés sous le tapis](https://reflets.info/articles/affreux-sales-et-mechants) en les masquant dans un sous-domaine appartenant à la marque.
 
 Par exemple, au lieu d'envoyer des données à `mon_domaine.eulerian.net`, l'organisation les envoie vers `43bdf.mon_domaine.com` puis s'assure que `43bdf.mon_domaine.com` pointe bien vers `mon_domaine.eulerian.net`.
 
