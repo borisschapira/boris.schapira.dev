@@ -15,10 +15,10 @@ _Dernière mise à jour : {{ page.last_modified | l: "%B %Y" }}_
 -   Utiliser l'accord de proximité : "les auditeurs et les auditrices ont été appelées à s'exprimer".
 -   Recourir autant que possible aux épicènes et mots génériques qui permettent d'utiliser des formulations qui ne marquent pas le genre.  
     Exemple : "le personnel" plutôt que "les salariés". "L'équipe de développement" plutôt que "les développeurs".
--   Utiliser le point médian quand il peut être lu comme un féminin générique :
--   Exemple : "les invité·es"
--   Utiliser des néologismes si cela permet d'alléger la lecture, dans un contexte contraint.
--   Exemple : "celleux", "iels".
+-   Utiliser le point médian quand il peut être lu comme un féminin générique :  
+    Exemple : "les invité·es"
+-   Utiliser des néologismes si cela permet d'alléger la lecture, dans un contexte contraint.  
+    Exemple : "celleux", "iels".
 
 {% capture note %} **Sur ce blog**  
 L'ensemble de ce blog ne respecte pas forcément ces règles. Certains articles ont été écrits avant que mes valeurs féministes ne m'emmènent sur ces contrées. Je ne m'interdis pas de reprendre certains articles récents pour y appliquer ces règles.{% endcapture note %} {% include note.html.liquid content=note %}
