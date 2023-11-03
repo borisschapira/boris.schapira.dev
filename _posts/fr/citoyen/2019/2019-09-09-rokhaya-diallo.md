@@ -33,7 +33,7 @@ Or, je ne vous apprends rien, ce n'est pas le cas de tout le monde en France et 
 
 {% include media/youtube.html.liquid id="YgpH7ycdnQk" title="Don't try to fit in: make the world embrace who you are | Rokhaya Diallo | TEDxUBIWiltz" %}
 
-Certaines personnes vivent des injustices quotidiennes, liées à leur race ou plutôt, devrais-je dire, à la race à laquelle on les affecte. Ils et elles apprennent à vivre avec cette, voire ces identités qui sont souvent en partie familiales, mais très largement fantasmées par le groupe dominant. Cette situation les prive d'une égalité des chances qu'on souhaiterait à tou·te·s, et les place dans une situation psychologique complexe, remplie d'injonctions contraires à réconcilier.
+Certaines personnes vivent des injustices quotidiennes, liées à leur race ou plutôt, devrais-je dire, à la race à laquelle on les affecte. Ils et elles apprennent à vivre avec cette, voire ces identités qui sont souvent en partie familiales, mais très largement fantasmées par le groupe dominant. Cette situation les prive d'une égalité des chances qu'on souhaiterait à tous e toutes, et les place dans une situation psychologique complexe, remplie d'injonctions contraires à réconcilier.
 
 Je ne suis pas familier de l'ensemble du travail de **Rokhaya Diallo** (oui, on y arrive), mais elle est l'une des personnes qui m'aident le plus, aujourd'hui, à être l'allié des personnes racisées en France. Je l'ai découverte en 2010, dans La Matinale de Canal+. [Sa série d'interviews "Alter-Égaux" sur Mediapart](https://www.mediapart.fr/studio/videos/emissions/alter-egaux) m'a emballé et c'est assez naturellement que j'ai commencé à la suivre sur les réseaux sociaux, pour continuer à être au courant de son travail.
 
