@@ -63,7 +63,7 @@ Voilà messieurs, vous avez mes éléments démontrant que ces frais sont à vot
 
 Tout cela va changer vite, je ne me fais aucune illusion : par souci de flexibilité, et en agitant le spectre du chômage, les droits des salariés seront rapidement réduits (on voit déjà que sans même changer les obligations légales, une communication efficace[^1] fait déjà de gros dégâts). En attendant, vous vous exposez à des poursuites qui fragilisent vos entreprises et peuvent donner une mauvaise image de votre structure.
 
-N'ayez pas peur : vous avez déjà mis en place le télétravail. Vous êtes des innovateurs, qui osez prendre des risques ! Prenez donc celui d’entamer le dialogue avec vos salarié·es, en toute transparence, et convenez avec eux de forfaits justes. Ils et elles seront plus heureux et heureuses, et en parleront autour d'eux !
+N'ayez pas peur : vous avez déjà mis en place le télétravail. Vous êtes des innovateurs, qui osez prendre des risques ! Prenez donc celui d’entamer le dialogue avec vos salarié·es, en toute transparence, et convenez avec eux de forfaits justes. Elles et ils seront plus heureux et heureuses, et en parleront autour d'eux !
 
 [^1]: Comme par exemple [cet article de Service-Public.fr](https://www.service-public.fr/particuliers/actualites/A12068) de la Direction de l'information légale et administrative (Premier ministre), stipulant explicitement : "L'article L 1222-10 du code du travail est également modifié : l'employeur n'est plus dans l'obligation (vis-à-vis de son salarié en télétravail) de prendre en charge tous les coûts découlant directement de l'exercice du télétravail (coût des matériels, logiciels, abonnements, communications et outils, maintenance…)" ce qui est faux, comme je viens de le démontrer.
 

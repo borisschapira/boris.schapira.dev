@@ -31,7 +31,7 @@ J'admire les gens qui savent faire un bilan sur leur carrière, pivoter vers une
 
 **Est-ce que les entreprises n'ont pas un rôle à jouer** dans la situation ? Certainement. Peu sont enclines à l'embauche de ses profils, parce qu'elles ne veulent pas porter la formation de ces salarié·es ?
 
-Elles en viennent à réclamer qu'ils et elles se forment sur leur temps libre, alors même qu'elles ont l'obligation légale de maintenir leurs salariés au niveau pour leurs postes. Mais bon, à ce niveau, c'est une culture de toute l'industrie du développement où la perception de la montée en compétence est à revoir. Nous sommes souvent traités comme des clients de nos propres entreprises, responsables de notre formation avec le levier d'aller voir ailleurs si on n'est pas content·e.
+Elles en viennent à réclamer de la formation sur le temps libre du personnel, alors même qu'elles ont l'obligation légale de maintenir leurs salarié·es au niveau pour leurs postes. Mais bon, à ce niveau, c'est une culture de toute l'industrie du développement où la perception de la montée en compétence est à revoir. Nous sommes souvent traités comme des client·es de nos propres entreprises, responsables de notre formation avec le levier d'aller voir ailleurs si on n'est pas content·e.
 
 Cette dynamique de turn-over fait que les entreprises embauchent des juniors en continu pour leur demande d'exécuter des tâches que des personnes désormais seniors faisaient, mais qu'elles ne font plus puisqu'elles sont parties chercher de la reconnaissance ailleurs.
 

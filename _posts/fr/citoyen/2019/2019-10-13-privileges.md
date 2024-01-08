@@ -44,4 +44,4 @@ L'exercice de lister mes privilèges est délicat, et imparfait. En le faisant, 
 -   Je suis né dans un pays avec un niveau de vie plus élevé que les autres, ce qui facilite les voyages. Je peux passer 3 semaines de vacances au Cambodge, un Cambodgien ne peut pas facilement passer 3 semaines de vacances en France.
 -   J'ai pu avoir des enfants quand je les ai voulus.
 -   Mes enfants sont nés en bonne santé. Je ne m'inquiète pas aujourd'hui pour leur santé.
--   Mes parents comme ceux de ma femme sont encore en vie. Ils et elles nous soutiennent et sont présents pour nos enfants.
+-   Mes parents comme ceux de ma femme sont encore en vie. Elles et ils nous soutiennent et sont présents pour nos enfants.
