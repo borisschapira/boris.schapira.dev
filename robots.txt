@@ -1,1 +1,2 @@
 Sitemap: https://boris.schapira.dev/sitemap.xml
+Crawl-delay: 600
