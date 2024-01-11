@@ -1,5 +1,5 @@
 ---
-title: GPT, Cédille et autres modèles…
+title: GPT et autres modèles…
 subtitle: du potentiel, des questions et des inquiétudes
 slug: des-questions
 last_modified: 2023-03-23T07:49:00Z
