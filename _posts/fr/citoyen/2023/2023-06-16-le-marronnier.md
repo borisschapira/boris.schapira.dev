@@ -1,6 +1,5 @@
 ---
 title: Le marronnier
-
 images:
     dessin:
         path: /assets/images/citoyen/2023-06-16/dessin.jpg
@@ -16,19 +15,15 @@ images:
         caption: Jacob, expert du Truc les jours pairs.
 ---
 
-{% capture note %}**Mes excuses pour le sarcasme**
-
-Toute ressemblance avec une typologie d'articles d'une Presse politique qui ne mérite pas son nom n'a rien de fortuite.{% endcapture note %} {% include note.html.liquid content=note %}
+{%- capture note %}**Mes excuses pour le sarcasme**  
+Toute ressemblance avec une typologie d'articles d'une Presse politique qui ne mérite pas son nom n'a rien de fortuite.{% endcapture note -%}
+{% include note.html.liquid content=note %}
 
 _Faut-il clore ce débat sur l'existence de ce truc dont personne n'a prouvé l'existence ? L’analyse chiffrée des faits permet de sortir d'un débat uniquement idéologique sur le concept._
 
 Le débat n'en finit plus, les partisans comme les opposants aux concepts en conviendront. Disqualifié sans analyse par une partie de la classe politique sous prétexte qu'il ferait le jeu des extrêmes et qu'il a été utilisé par un essayiste décrié dans l'un de ses ouvrages polémiques, ce concept n'en est pas moins réel.
 
-{% include rwd-image.html.liquid
-path=page.images.dessin.path
-alt=page.images.dessin.alt
-caption=page.images.dessin.caption
-%}
+{% include rwd-image.html.liquid path=page.images.dessin.path alt=page.images.dessin.alt caption=page.images.dessin.caption %}
 
 Le débat est pourtant un élément important permettant l’avancée des sujets de préoccupations contemporaines. Il permet de confronter les points de vue, d’écouter d’autres témoignages, de réfléchir aux arguments exposés et de faire travailler son esprit critique. Cette réaction de refus s'apparente donc à un réflexe automatique d'une classe sociale éloignée des préoccupations concrètes des Français et vise à étouffer une question pourtant cruciale dans la société.
 
@@ -36,19 +31,11 @@ Le débat est pourtant un élément important permettant l’avancée des sujets
 
 Deux Français sur dix jugent que ce phénomène est en forte progression. Parmi eux, trois sur cinq affirment en avoir probablement été victime. Ces victimes confirment en avoir entendu parler en amont mais seulement 12 % affirment maitriser totalement le concept, ce qui en dit long sur notre société contemporaine. Ces chiffres, impressionnants, confirment qu'il faut prendre cela au sérieux et regarder, dans les faits si on l'observe bel et bien.
 
-{% include rwd-image.html.liquid
-path=page.images.data.path
-alt=page.images.data.alt
-caption=page.images.data.caption
-%}
+{% include rwd-image.html.liquid path=page.images.data.path alt=page.images.data.alt caption=page.images.data.caption %}
 
 C'est ce que nous avons fait et le résultat est sans appel : des données ont été produites. Vous trouverez ci-dessus trois graphiques issus du travail de l'Institut du Truc qui permettent de les visualiser et de tirer des conclusions. Jacob Nubilé, directeur, responsable de la production des données, président du comité d'Éthique indépendant de l'Institut et du groupe international des experts du Truc le confirme.
 
-{% include rwd-image.html.liquid
-path=page.images.jacob.path
-alt=page.images.jacob.alt
-caption=page.images.jacob.caption
-%}
+{% include rwd-image.html.liquid path=page.images.jacob.path alt=page.images.jacob.alt caption=page.images.jacob.caption %}
 
 ### En conclusion
 
