@@ -41,7 +41,7 @@ De toute façon, le marché s'emballe probablement trop fortement sur la personn
 
 Dernière piste que je vois émerger poussée par des "IA" : **la personnalisation demandée**. Les outils d'analyse en langage naturel permettent dès aujourd'hui de comprendre une phrase comme :
 
-> Je souhaite consommer des produits fabriqués en France et produits de manière écorécoresponsable.
+> Je souhaite consommer des produits fabriqués en France et produits de manière écoresponsable.
 
 et de non seulement filtrer le catalogue en fonction, mais surtout de générer une partie de la description des produits de manière adaptée. Par exemple :
 
