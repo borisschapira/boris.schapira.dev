@@ -17,7 +17,7 @@ slug: optimize-third-parties-performance
 serie: 'Third Parties and Resource Hints'
 translations:
     fr: optimiser-parties-tierces
-last_modified_at: '2020-05-20T07:26:39.150Z'
+last_modified_at: 2020-05-20 07:26:00 +0000
 ---
 
 Embedding an existing library or service as a third party can increase productivity, but often has a cost on perceived performance. Once you embed external code, how can you ensure that this code will not affect the performance and interactivity of your site? Here are some ideas for a more efficient third party code.

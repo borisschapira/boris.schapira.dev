@@ -17,7 +17,7 @@ slug: optimiser-parties-tierces
 serie: 'Parties Tierces et Resource Hints'
 translations:
     en: optimize-third-parties-performance
-last_modified_at: '2020-05-20T07:26:39.150Z'
+last_modified_at: 2020-05-20 07:26:00 +0000
 ---
 
 Intégrer des librairies ou services existants de parties tierces permet de gagner en productivité, mais a souvent un coût sur la performance ressentie. Dès lors que vous intégrez du code externe, comment vous assurer que ce code ne viendra pas nuire au rendu et à l’interactivité de votre site ? Explications et propositions pour un code tiers plus performant.

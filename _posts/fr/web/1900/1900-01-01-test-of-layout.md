@@ -5,7 +5,7 @@ i18n-key: test-of-layout
 sitemap: false
 norobots: true
 slug: test-typo
-last_modified_at: '2019-04-09'
+last_modified_at: 2019-04-09
 translations:
     en: typo-test
 ---

@@ -3,7 +3,7 @@ title: 'Guide de survie aux discussions'
 tags:
     - guide
 subtitle: '(sur les réseaux sociaux)'
-last_modified_at: '2018-06-20'
+last_modified_at: 2018-06-20
 ---
 
 Sur un de ses profils, **Yann Leroux**, auteur de [Psy et Geek](http://www.psyetgeek.com/), [Superhéros sur le divan](http://superherossurledivan.blogspot.fr/) (entre autres) a partagé un guide de survie aux discussions sur les réseaux sociaux.

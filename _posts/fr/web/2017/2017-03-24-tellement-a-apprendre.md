@@ -1,6 +1,6 @@
 ---
 title: 'Tellement à apprendre'
-last_modified_at: '2017-03-27'
+last_modified_at: 2017-03-27
 ---
 
 Un de mes collègues a partagé une synthèse de différents outils Devops qu'il a trouvé sur LinkedIn… J'ai mis en exergue les outils que j'avais déjà utilisé dans le cadre de projets.

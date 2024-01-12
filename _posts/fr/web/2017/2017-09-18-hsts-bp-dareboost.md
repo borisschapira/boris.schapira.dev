@@ -7,7 +7,7 @@ canonical_title: 'le blog de Dareboost'
 tags:
     - 'Performance Web'
 slug: hsts-fiabiliser-connexions-securisees
-last_modified_at: '2017-10-16'
+last_modified_at: 2017-10-16
 translations:
     en: hsts-ensure-secured-connections
 ---

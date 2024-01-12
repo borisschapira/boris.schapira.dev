@@ -3,11 +3,11 @@ title: "Mon propre guide d'écriture inclusive"
 tags:
     - guide
     - Égalité
-last_modified_at: 2023-11-03T13:55:00Z
+last_modified_at: 2023-11-03 13:55:00 +0000
 ---
 
 Cet article date de {{ page.date | l: "%B %Y" }}. Il me servira de note à moi-même ou d'explication vers laquelle pointer si j'ai besoin d'expliquer ma façon de procéder, et je n'hésiterai pas à le mettre à jour.  
-_Dernière mise à jour : {{ page.last_modified | l: "%B %Y" }}_
+_Dernière mise à jour : {{ page.last_modified_at | l: "%B %Y" }}_
 
 ## Les règle que j'essaie de suivre
 

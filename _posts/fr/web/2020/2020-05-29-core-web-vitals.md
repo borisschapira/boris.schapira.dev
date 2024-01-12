@@ -9,7 +9,7 @@ tags:
     - 'Performance Web'
     - Google
 slug: core-web-vitals-qu-en-penser
-last_modified_at: '2020-11-10T12:48:00.000Z'
+last_modified_at: 2020-11-10 12:48:00 +0000
 ---
 
 Il y a quelques semaines, Google a créé une nouvelle appellation pour un jeu d'indicateurs de mesure de l'expérience utilisateur : les [<em lang="en">Core Web Vitals</em>](https://web.dev/vitals/), ou **Signaux Web Essentiels**. La nouvelle fait grand bruit dans le monde du <abbr title="Search Engine Optimization" lang="en">SEO</abbr>, car Google souhaite [faire de ces indicateurs des critères de <em lang="en">ranking</em>](https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html) l'année prochaine.
