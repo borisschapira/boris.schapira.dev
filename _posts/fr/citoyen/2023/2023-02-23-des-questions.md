@@ -2,7 +2,7 @@
 title: GPT et autres modèles…
 subtitle: du potentiel, des questions et des inquiétudes
 slug: des-questions
-last_modified: 2023-03-23T07:49:00Z
+last_modified_at: 2023-03-23T07:49:00Z
 ---
 
 Depuis plusieurs semaines, il ne se passe pas une journée sans que ChatGPT ne fasse irruption dans les discussions que j'ai avec de très nombreux professionnel·les du numérique.
