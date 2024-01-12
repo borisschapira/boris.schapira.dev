@@ -11,8 +11,7 @@ When the hype started to build around what is commonly referred to as "Artificia
 
 The public understands "software that makes decisions without us being able to question its inner workings". I suppose that once a certain lack of transparency is reached, it doesn't matter how the sausage is made.
 
-> Any sufficiently advanced technology is indistinguishable from magic.
-> <cite>Arthur C. Clarke</cite>
+> Any sufficiently advanced technology is indistinguishable from magic. <cite>Arthur C. Clarke</cite>
 
 **Image description**, we're there. Cloudinary automatically generates captions for images for which descriptions have not been provided at upload ([demo](https://ai.cloudinary.com/demos/captions)). Ice Cubes, Mastodon's iOS client ([in the App Store](https://apps.apple.com/app/ice-cubes-for-mastodon/id6444915884)), offers on-the-fly image caption at upload time, to help with entering alternatives. The official Mastodon Web app does it too.
 

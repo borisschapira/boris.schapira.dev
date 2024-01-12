@@ -20,7 +20,7 @@ module.exports = {
           e.currentTarget,
           e.currentTarget.title,
           e.customData.touchX,
-          e.customData.touchY
+          e.customData.touchY,
         );
       };
     }

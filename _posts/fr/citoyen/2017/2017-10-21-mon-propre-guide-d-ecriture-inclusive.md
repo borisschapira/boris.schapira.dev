@@ -41,7 +41,6 @@ Pour mon propre usage des abbréviations inclusives, à savoir le point médian,
 
 De [toutes les possibilités](https://codepen.io/vincent-valentin/full/woGLVL 'Abbréviations inclusives, un CodePen par Vincent Valentin'), cela m'a semblé être la plus efficace à mettre en œuvre _pour moi_, étant donné que j'étais capable d'en surmonter la complexité technique.
 
-
 ## <span id="disambiguation">Pour éviter les malentendus</span>
 
 **Oui**, c'est une évolution de la langue française. Mais ce n'est pas une nouveauté, c'est plutôt un retour à une innovation cosntante qui ne s'est arrêté que très récemment. Ni Voltaire ni Rabelais n'écrivaient pas dans le français jugé "légitime" par les réactionnaires d'aujourd'hui. Racine employait souvent l'accord de proximité, ce même accord que vous employez probablement souvent, en disant par exemple "des chants et des danses bretonnes" plutôt que "des chants et des danses bretons"[^proximite].

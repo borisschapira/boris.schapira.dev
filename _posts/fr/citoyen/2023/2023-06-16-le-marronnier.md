@@ -16,8 +16,7 @@ images:
 ---
 
 {%- capture note %}**Mes excuses pour le sarcasme**  
-Toute ressemblance avec une typologie d'articles d'une Presse politique qui ne mérite pas son nom n'a rien de fortuite.{% endcapture note -%}
-{% include note.html.liquid content=note %}
+Toute ressemblance avec une typologie d'articles d'une Presse politique qui ne mérite pas son nom n'a rien de fortuite.{% endcapture note -%} {% include note.html.liquid content=note %}
 
 _Faut-il clore ce débat sur l'existence de ce truc dont personne n'a prouvé l'existence ? L’analyse chiffrée des faits permet de sortir d'un débat uniquement idéologique sur le concept._
 

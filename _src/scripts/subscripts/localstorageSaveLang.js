@@ -20,7 +20,7 @@ if (!lang_user) {
   var lang_site = document.getElementsByTagName('html')[0].lang;
   if (lang_user != lang_site) {
     window.location = document.querySelector(
-      '[hreflang][rel="alternate"]'
+      '[hreflang][rel="alternate"]',
     ).href;
   }
 }
@@ -34,5 +34,5 @@ document.addEventListener(
       } catch (e) {}
     }
   },
-  false
+  false,
 );

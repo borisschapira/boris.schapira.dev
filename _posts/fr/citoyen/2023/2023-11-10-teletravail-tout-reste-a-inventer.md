@@ -2,7 +2,7 @@
 title: Télétravail, tout reste à inventer
 ---
 
-Je suis assis sur une chaise ergonomique à plus de 500€[^ref], en face d'un bureau assis-debout, dans une pièce isolée de ma maison, maintenue à bonne température et lumineuse (*référence en commentaire).
+Je suis assis sur une chaise ergonomique à plus de 500€[^ref], en face d'un bureau assis-debout, dans une pièce isolée de ma maison, maintenue à bonne température et lumineuse (\*référence en commentaire).
 
 [^ref]: Il s'agit de la NeueChair™ [dont SecretLab est le distributeur en Europe](https://secretlab.eu/fr/collections/neue). Vous pouvez parfois la trouver d'occasion sur des plateformes de seconde main comme [Adopte Un Bureau](https://www.adopteunbureau.fr/), et faire une très bonne affaire.
 

@@ -1,43 +1,48 @@
-var fs = require('fs');
-var path = require('path');
-var yaml = require('js-yaml');
-const hasha = require('hasha');
+import { hashFileSync } from 'hasha';
+import { readdirSync, writeFile } from 'fs';
+import { dirname, resolve, extname, basename } from 'path';
+import { dump } from 'js-yaml';
+import { fileURLToPath } from 'url';
+
+// Get __dirname back
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 // CSS assets folder
-const cssFolder = path.resolve(__dirname, '../assets/styles/');
-const jsFolder = path.resolve(__dirname, '../assets/scripts/');
+const cssFolder = resolve(__dirname, '../assets/styles/');
+const jsFolder = resolve(__dirname, '../assets/scripts/');
 let data = { styles: {}, scripts: {} };
 
 // Get files
-const cssDirents = fs.readdirSync(cssFolder, { withFileTypes: true });
+const cssDirents = readdirSync(cssFolder, { withFileTypes: true });
 const cssFiles = cssDirents
   .filter((dirent) => !dirent.isDirectory())
-  .map((dirent) => path.resolve(__dirname, '../assets/styles/', dirent.name));
+  .map((dirent) => resolve(__dirname, '../assets/styles/', dirent.name));
 
-const jsDirents = fs.readdirSync(jsFolder, { withFileTypes: true });
+const jsDirents = readdirSync(jsFolder, { withFileTypes: true });
 const jsFiles = jsDirents
   .filter((dirent) => !dirent.isDirectory())
-  .map((dirent) => path.resolve(__dirname, '../assets/scripts/', dirent.name));
+  .map((dirent) => resolve(__dirname, '../assets/scripts/', dirent.name));
 
 cssFiles.forEach(function (file) {
   // Get the MD5 hash of a file
-  const hash = hasha.fromFileSync(file, { algorithm: 'md5' });
-  const filename = path.basename(file, path.extname(file));
+  const hash = hashFileSync(file, { algorithm: 'md5' });
+  const filename = basename(file, extname(file));
 
   data.styles[filename] = hash;
 });
 
 jsFiles.forEach(function (file) {
   // Get the MD5 hash of file
-  const hash = hasha.fromFileSync(file, { algorithm: 'md5' });
-  const filename = path.basename(file, path.extname(file));
+  const hash = hashFileSync(file, { algorithm: 'md5' });
+  const filename = basename(file, extname(file));
 
   data.scripts[filename] = hash;
 });
 
-fs.writeFile(
-  path.resolve(__dirname, '../_data/hashes.yml'),
-  yaml.dump(data, {
+writeFile(
+  resolve(__dirname, '../_data/hashes.yml'),
+  dump(data, {
     styles: {
       '!!null': 'canonical', // dump null as ~
     },
@@ -52,5 +57,5 @@ fs.writeFile(
     } else {
       console.log('Hashes data saved.');
     }
-  }
+  },
 );

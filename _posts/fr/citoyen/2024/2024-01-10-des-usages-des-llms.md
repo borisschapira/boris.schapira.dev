@@ -12,8 +12,7 @@ Quand la hype s'est emballée autour de ce qu'on appelle couramment les "Intelli
 
 Le public comprend "des logiciels qui prennent des décisions sans trop qu'on soit en mesure d'en questionner les rouages". J'imagine qu'à partir d'un certain manque de transparence, peu importe comment le résultat est obtenu.
 
-> Toute technologie suffisamment avancée est indiscernable de la magie.
-> <cite>Arthur C. Clarke</cite>
+> Toute technologie suffisamment avancée est indiscernable de la magie. <cite>Arthur C. Clarke</cite>
 
 **La description d'images**, on y est. Cloudinary génère automatiquement des descriptions pour des images pour lesquelles des descriptions n'ont pas été fournies à l'upload ([démo](https://ai.cloudinary.com/demos/captions)). Ice Cubes, client Mastodon sur iOS ([dans l'App Store](https://apps.apple.com/app/ice-cubes-for-mastodon/id6444915884)), propose une description à la volée des images lors de l'upload, pour aider à la saisie d'alternatives. L'application Web officielle de Mastodon le fait aussi.
 

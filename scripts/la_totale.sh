@@ -1,1 +1,1 @@
-bundle up; npm up; npx browserslist@latest --update-db; bundle exec rake "build:generate[prod]"; npm run build; say "Site généré, à tester."
+bundle up; npm up; cd tests; bundle up; npm up; cd ..; npx browserslist@latest --update-db; bundle exec rake "build:generate[prod]"; npm run build; bundle exec rake "build:generate[prod]"; say "Site généré, à tester."

@@ -32,7 +32,7 @@ a[href^="https://twitter.com"]::after
 /* Select links written in English that target a non-English page */
 :lang(en) > :link[hreflang]:not([hreflang="en"])::after {
   /* Display the target language */
-  content: '\00A0('attr(hreflang) ')';
+  content: '\00A0(' attr(hreflang) ')';
   font-size: 70%;
   vertical-align: super;
 }
