@@ -1,5 +1,6 @@
 ---
 title: IA et LLMs, quels usages en 2024 ?
+last_modified_at: '2024-01-12T08:13:39.150Z'
 ---
 
 Quand la hype s'est emballée autour de ce qu'on appelle couramment les "Intelligence Artificielles" (IA), j'ai écrit [un premier article pour souligner quelques opportunités et risques que j'y voyais](/notes/2023-02-des-questions/). Le marché a mûri, la perception du monde aussi. Qu'en dire de plus en 2024 ?
