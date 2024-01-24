@@ -38,7 +38,7 @@ GEM
       matrix (~> 0.4)
     colorator (1.1.0)
     commonmarker (0.23.10)
-    concurrent-ruby (1.2.2)
+    concurrent-ruby (1.2.3)
     console (1.23.3)
       fiber-annotation
       fiber-local
@@ -133,7 +133,7 @@ GEM
     rouge (4.2.0)
     ruby-rc4 (0.1.5)
     safe_yaml (1.0.5)
-    sass-embedded (1.69.7)
+    sass-embedded (1.70.0)
       google-protobuf (~> 3.25)
       rake (>= 13.0.0)
     terminal-table (3.0.2)
