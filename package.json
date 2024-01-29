@@ -85,7 +85,7 @@
     "webpack-cli": "^5.1.3"
   },
   "dependencies": {
-    "dotenv": "^16.1.4",
+    "dotenv": "^16.4.1",
     "escape-string-regexp": "^5.0.0",
     "file-loader": "^6.2.0",
     "js-md5": "^0.7.3",
