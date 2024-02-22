@@ -130,6 +130,10 @@
     }
   }
 
+  li {
+    margin: 0.7em 0;
+  }
+
   border-bottom: $border-separators solid var(--color-main-text);
 
   &:last-of-type:not(:only-of-type) {
