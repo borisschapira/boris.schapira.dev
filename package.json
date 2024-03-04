@@ -43,7 +43,7 @@
   "devDependencies": {
     "@babel/core": "^7.23.9",
     "@babel/plugin-syntax-dynamic-import": "^7.8.3",
-    "@babel/plugin-transform-runtime": "^7.23.9",
+    "@babel/plugin-transform-runtime": "^7.24.0",
     "@babel/preset-env": "^7.23.9",
     "@biere/normalize-scss": "^7.0.1",
     "@fullhuman/postcss-purgecss": "^5.0.0",
