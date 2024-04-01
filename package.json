@@ -46,7 +46,7 @@
     "@babel/plugin-transform-runtime": "^7.23.9",
     "@babel/preset-env": "^7.23.9",
     "@biere/normalize-scss": "^7.0.1",
-    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "@fullhuman/postcss-purgecss": "^6.0.0",
     "abbr-touch": "^2.1.6",
     "autoprefixer": "^10.4.17",
     "babel-eslint": "^10.1.0",
