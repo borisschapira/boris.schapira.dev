@@ -77,7 +77,7 @@
     "rimraf": "^5.0.5",
     "rss-parser": "^3.13.0",
     "sass": "^1.70.0",
-    "sass-loader": "^14.1.0",
+    "sass-loader": "^14.2.1",
     "uglify-js": "^3.17.4",
     "webpack": "^5.90.1",
     "webpack-cli": "^5.1.4"
