@@ -1,6 +1,6 @@
 version: 2
 updates:
-- package-ecosystem: npm
+- package-ecosystem: pnpm
   directory: "/"
   schedule:
     interval: weekly
@@ -10,7 +10,7 @@ updates:
   schedule:
     interval: weekly
   target-branch: dev
-- package-ecosystem: npm
+- package-ecosystem: pnpm
   directory: "/tests/"
   schedule:
     interval: weekly
