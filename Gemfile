@@ -15,7 +15,7 @@ group :jekyll_plugins do
   # gem 'jekyll-tagging-related_posts'
   gem 'jekyll-archives', git: 'https://github.com/jekyll/jekyll-archives/'
   gem 'jekyll-cloudinary'
-  gem 'jekyll-commonmark', git: 'https://github.com/jekyll/jekyll-commonmark/', branch: 'master'
+  gem 'jekyll-commonmark'
   gem 'jekyll-include-cache'
   gem 'jekyll-microtypo'
   gem 'jekyll-paginate-v2', git: 'https://github.com/borisschapira/jekyll-paginate-v2.git', branch: 'default-values'

@@ -10,14 +10,14 @@ My Jekyll blog setup.
 ### Prerequisites
 
 -   Bundler
--   npm (I recommend installing node via nvm)
+-   pnpm
 -   globally install puppeteer for visual tests
 
 ### Installation
 
 ```
 bundle install;
-npm install;
+pnpm install;
 ```
 
 ### Local development/writing
@@ -30,7 +30,7 @@ bundle exec rake;
 
 ```
 bundle exec rake "build:generate[prod]";
-npm run build;
+pnpm run build;
 bundle exec rake test;
 ```
 

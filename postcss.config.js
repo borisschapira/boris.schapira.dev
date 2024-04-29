@@ -15,7 +15,7 @@ module.exports = (ctx) => {
             }),
           ]
         : []),
-      require('csswring'),
+      require('cssnano'),
     ],
   };
 };
