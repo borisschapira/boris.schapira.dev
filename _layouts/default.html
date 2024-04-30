@@ -14,17 +14,6 @@ layout: microtypo
 
     <script>performance && performance.mark('mark-head-start');</script>
 
-    <script>
-      {% include first-input-delay.min.js %}
-      perfMetrics.onFirstInputDelay(function(delay, evt) {
-        console.log('FID', evt.type, Math.round(evt.timeStamp) + 'ms' , Math.round(delay));
-        var _paq = window._paq || [];
-        _paq && _paq.push(['trackEvent', 'Performance', 'FID', evt.type]);
-        _paq && _paq.push(['trackEvent', 'Performance', 'FID', 'Timestamp', Math.round(evt.timeStamp)]);
-        _paq && _paq.push(['trackEvent', 'Performance', 'FID', 'Delay', Math.round(delay)]);
-      });
-    </script>
-
     {% comment %} Prefetching previous and next pages {% endcomment %}
     {% if page.next_context or page.prev_context %}
         {% if page.prev_context %}

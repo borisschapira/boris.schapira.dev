@@ -117,9 +117,6 @@ importers:
       fast-xml-parser:
         specifier: ^4.3.6
         version: 4.3.6
-      first-input-delay:
-        specifier: ^0.1.3
-        version: 0.1.3
       globby:
         specifier: ^14.0.1
         version: 14.0.1
@@ -1738,9 +1735,6 @@ packages:
   find-up@6.3.0:
     resolution: {integrity: sha512-v2ZsoEuVHYy8ZIlYqwPe/39Cy+cFDzp4dXPaxNvkEuouymu+2Jbz0PxpKarJHYJTmv2HWT3O382qY8l4jMWthw==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
-
-  first-input-delay@0.1.3:
-    resolution: {integrity: sha512-hZ1mI+BWYIBr8jlp2bDPnRvnmSICBxpZRwdc0nhiQn2uyMxSKZEBbkO8V0/s26AMeX8p/AD4g09+liRrhXvKKQ==}
 
   flat-cache@3.2.0:
     resolution: {integrity: sha512-CYcENa+FtcUKLmhhqyctpclsq7QF38pKjZHsGNiSQF5r4FtoKDWabFDl3hzaEQMvT1LHEysw5twgLvpYYb4vbw==}
@@ -5621,8 +5615,6 @@ snapshots:
       locate-path: 7.2.0
       path-exists: 5.0.0
 
-  first-input-delay@0.1.3: {}
-
   flat-cache@3.2.0:
     dependencies:
       flatted: 3.3.1
@@ -5745,7 +5737,7 @@ snapshots:
       fs.realpath: 1.0.0
       inflight: 1.0.6
       inherits: 2.0.4
-      minimatch: 3.0.8
+      minimatch: 3.1.2
       once: 1.4.0
       path-is-absolute: 1.0.1
     optional: true

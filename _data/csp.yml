@@ -18,8 +18,6 @@
       comment: 'This domain'
     - value: "'sha256-4eDthUzkpBeVm+NnJvTvwxqxbEKC/hzHCLuNQfY+Qso='"
       comment: 'permark: mark-head-start'
-    - value: "'sha256-42YhTxdvIqBKunoGTRm2oR8l6Y8BmeOEA1GdeMhkz0U='"
-      comment: 'FID log'
     - value: "'sha256-AbxA4tJvygLU9yzt/mapIEayc+iaLH2z4X36XNtAHXk='"
       comment: 'perf mark : parsing css end & measure'
     - value: "'sha256-O/7NBXBUAE2ZPlQUelDQ9rIGiJJfdkD3jdJlygZOUks='"
