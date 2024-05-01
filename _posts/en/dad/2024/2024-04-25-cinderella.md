@@ -12,7 +12,7 @@ translations:
 > – You did not ask, you ordered. I do everything! I'm Cinderella.  
 > – No, you're Cinderella's father.  
 > – What?! There is no Cinderella's father.  
-> – Oh there is. Who do you think married the awful godmother?  
+> – Oh there is. Who do you think married the awful godmother, and why?  
 > – I don't know. Because his wife died?  
 > – And ?  
 > – And he needed someone to look after his daughter?  
