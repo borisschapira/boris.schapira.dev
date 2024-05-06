@@ -61,4 +61,9 @@
   text-align: inherit;
   vertical-align: baseline;
   appearance: none;
+
+  &::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+  }
 }

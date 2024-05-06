@@ -40,27 +40,27 @@ html {
   }
 }
 
-label.dark-mode,
-label.light-mode {
+button.dark-mode,
+button.light-mode {
   display: none;
 }
 
 #color-mode-dark:checked ~ .color-container {
   --is-dark-mode: 1;
-  label.auto-mode {
+  button.auto-mode {
     display: none;
   }
-  label.dark-mode {
+  button.dark-mode {
     display: inline-block;
   }
 }
 
 #color-mode-light:checked ~ .color-container {
   --is-dark-mode: 0;
-  label.auto-mode {
+  button.auto-mode {
     display: none;
   }
-  label.light-mode {
+  button.light-mode {
     display: inline-block;
   }
 }
