@@ -71,8 +71,6 @@ layout: microtypo
       <link rel="canonical" href="{{ page.canonical }}" data-proofer-ignore/>
     {% endif %}
 
-    <meta name="view-transition" content="same-origin" />
-
     <meta name="description" content="{{ page.social.description }}" />
     <meta property="og:url" content="{{ page.url }}" />
     <meta property="og:type" content="website" />
@@ -182,7 +180,7 @@ layout: microtypo
           </ul>
         </nav>
       </header>
-      <div class="page-title" style="view-transition-name: item-{%- if page.layout=='post' %}{{ page.slug }}{% else %}{{ page.title | slugify }}{% endif -%}"><h1>{{ page.title | default: pageTitle }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>{% if page.layout=='post'%}<div class="meta"><time style="view-transition-name: itemTime-{{ page.slug }}" class="dt-published" datetime="{{ datetime }}">{% unless page.locale =='fr' %}{% include date_en.html.liquid postDate=page.date locale=page.locale %}{% else %}{{ page.date | l: '%-d %B %Y', page.locale }}{% endunless %}</time>{% if page.serie %}<span><a href="/tag/{{ page.serie | slugify }}">{{ page.serie }}</a></span>{% endif %}{% if page.translation %}<span>{% include read_in.html.liquid
+      <div class="page-title"><h1>{{ page.title | default: pageTitle }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>{% if page.layout=='post'%}<div class="meta"><time class="dt-published" datetime="{{ datetime }}">{% unless page.locale =='fr' %}{% include date_en.html.liquid postDate=page.date locale=page.locale %}{% else %}{{ page.date | l: '%-d %B %Y', page.locale }}{% endunless %}</time>{% if page.serie %}<span><a href="/tag/{{ page.serie | slugify }}">{{ page.serie }}</a></span>{% endif %}{% if page.translation %}<span>{% include read_in.html.liquid
         format="verbose"
         locale=page.translation.locale
         url=page.translation.url %}</span>{% endif %}<span class="webshare" data-title="Web Sharing" data-text="&quot;{{ page.title | replace: '"', "&quot;" }}&quot;, Boris Schapira ({% if page.category == 'web' %}{{ site.author.mastodon_pro.nick }}{% else %}{{ site.author.mastodon_perso.nick }}{% endif %})"><button aria-label="{{ "partager" | t: page.locale }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 483 483">
@@ -201,10 +199,10 @@ layout: microtypo
           <div class="widget categories">
             <h2>{{ "Catégories" | t: page.locale }}</h2>
             <ul>
-              <li><a class="main {% unless page.category %}active{% endunless %}" href="{{ page.baseurl | default: "/" | relative_url }}" itemscope itemtype="http://schema.org/Thing" itemprop="item" {%- if page.category %}style="view-transition-name: item-{{ "notes" | t: page.locale | slugify }}"{% endif %}>{{ "Récents" | t: page.locale }}</a></li>
-              <li><a class="web {% if page.category == 'web' %}active{% endif %}" href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item" {%- unless page.category == 'web' %}style="view-transition-name: item-{{ "web" | t: page.locale | slugify }}"{% endunless %}>{{ "web" | t: page.locale }}</a></li>
-              <li><a class="citoyen {% if page.category == 'citoyen' %}active{% endif %}" href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item" {%- unless page.category == 'citoyen' %}style="view-transition-name: item-{{ "citoyen" | t: page.locale | slugify }}"{% endunless %}>{{ "citoyen" | t: page.locale }}</a></li>
-              <li><a class="papa {% if page.category == 'papa' %}active{% endif %}" href="{{ 'papa' | t: page.locale | prepend: page.baseurl | relative_url }}/" {%- unless page.category == 'papa' %}style="view-transition-name: item-{{ "papa" | t: page.locale | slugify }}"{% endunless %}>{{ "papa" | t: page.locale }}</a></li>
+              <li><a class="main {% unless page.category %}active{% endunless %}" href="{{ page.baseurl | default: "/" | relative_url }}" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "Récents" | t: page.locale }}</a></li>
+              <li><a class="web {% if page.category == 'web' %}active{% endif %}" href="{{ 'web' | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "web" | t: page.locale }}</a></li>
+              <li><a class="citoyen {% if page.category == 'citoyen' %}active{% endif %}" href="{{ 'citoyen' | t: page.locale | prepend: page.baseurl | relative_url }}/" itemscope itemtype="http://schema.org/Thing" itemprop="item">{{ "citoyen" | t: page.locale }}</a></li>
+              <li><a class="papa {% if page.category == 'papa' %}active{% endif %}" href="{{ 'papa' | t: page.locale | prepend: page.baseurl | relative_url }}/">{{ "papa" | t: page.locale }}</a></li>
             </ul>
           </div>
           <div class="widget svg-me" aria-hidden="true">
