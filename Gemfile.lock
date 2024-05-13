@@ -16,7 +16,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    Ascii85 (1.1.0)
+    Ascii85 (1.1.1)
     addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
     afm (0.2.2)
@@ -25,7 +25,7 @@ GEM
       fiber-annotation
       io-event (~> 1.5, >= 1.5.1)
       timers (~> 4.1)
-    bigdecimal (3.1.7)
+    bigdecimal (3.1.8)
     classifier-reborn (2.3.0)
       fast-stemmer (~> 1.0)
       matrix (~> 0.4)
@@ -53,7 +53,7 @@ GEM
     google-protobuf (4.26.1)
       rake (>= 13)
     hashery (2.1.2)
-    html-proofer (5.0.8)
+    html-proofer (5.0.9)
       addressable (~> 2.3)
       async (~> 2.1)
       nokogiri (~> 1.13)
@@ -111,7 +111,7 @@ GEM
     matrix (0.4.2)
     mercenary (0.4.0)
     mini_portile2 (2.8.6)
-    nokogiri (1.16.4)
+    nokogiri (1.16.5)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     pathutil (0.16.2)
@@ -154,7 +154,7 @@ PLATFORMS
 DEPENDENCIES
   classifier-reborn
   commonmarker
-  html-proofer (~> 5.0.0)
+  html-proofer (~> 5.0.9)
   jekyll
   jekyll-archives!
   jekyll-cloudinary
