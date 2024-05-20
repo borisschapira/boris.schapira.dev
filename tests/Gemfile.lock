@@ -21,7 +21,7 @@ GEM
     fiber-annotation (0.2.0)
     fiber-local (1.1.0)
       fiber-storage
-    fiber-storage (0.1.0)
+    fiber-storage (0.1.1)
     hashery (2.1.2)
     html-proofer (5.0.9)
       addressable (~> 2.3)
@@ -45,7 +45,7 @@ GEM
       ruby-rc4
       ttfunk
     public_suffix (5.0.5)
-    racc (1.7.3)
+    racc (1.8.0)
     rainbow (3.1.1)
     ruby-rc4 (0.1.5)
     timers (4.3.5)
@@ -54,7 +54,7 @@ GEM
     typhoeus (1.4.1)
       ethon (>= 0.9.0)
     yell (2.2.2)
-    zeitwerk (2.6.13)
+    zeitwerk (2.6.14)
 
 PLATFORMS
   ruby
