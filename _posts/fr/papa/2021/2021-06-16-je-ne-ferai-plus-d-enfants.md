@@ -14,7 +14,7 @@ Dans cet article, j'aborderai à la fois mes raisons (le "pourquoi ?") mais éga
 <div class="emphasis">
   <p>Hello, cher lecteur·ice&nbsp;! Si tu es ici, c'est probablement que tu cherches des témoignages sur ce sujet. N'hésite pas à lire également ceux d'autres personnes ayant suivi le mê me parcours ou en train de le suivre&nbsp;:</p> <ul>
   <li>Luc : "<a href="https://fiat-tux.fr/2021/01/01/contraception-masculine-la-vasectomie/">Contraception masculine&nbsp;: la vasectomie</a>"</li>
-  <li>Nicolas : "<a href="https://nicolas.loeuillet.org/billets/vasectomie">Vasectomie</a>"</li>
+  <li>Nicolas : "<a href="https://nicolas.loeuillet.org/billets/2021/03/19/vasectomie/">Vasectomie</a>"</li>
   <li>Loïc : "<a href="https://loic.mathaud.fr/yoop/2021/05/homo-contraceptionemsis/">Homo Contraceptionemsis</a>"</li>
   <li>Thomas : "<a href="https://oncletom.io/2021/12/29/vasectomie/">☕️ Journal&nbsp;: Deuxième "premier" rendez-vous chez l'urologue pour une vasectomie</a>"</li>
 </div>
