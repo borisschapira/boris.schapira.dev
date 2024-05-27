@@ -123,6 +123,17 @@ layout: microtypo
 
     <link rel="me" href="{{ site.author.mastodon_perso.url }}"/>
     <link rel="me" href="{{ site.author.mastodon_pro.url }}"/>
+
+    <script type="speculationrules">
+    {
+      "prerender": [{
+        "where": {
+          "href_matches": "/*"
+        },
+        "eagerness": "moderate"
+      }]
+    }
+    </script>
   </head>
 
   <body>
