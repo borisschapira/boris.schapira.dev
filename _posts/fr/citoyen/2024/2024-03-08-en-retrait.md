@@ -1,5 +1,8 @@
 ---
-title: Temporaire
+title: En retrait
+i18n-key: back-seat
+translations:
+    en: back-seat
 ---
 
 L'égalité femmes-hommes. On n'y est pas. C'est pourtant un impératif éthique[^ethique], social[^social] et économique[^economique]. Mais pour y arriver, nous avons besoin de décentrer le monde des hommes.
@@ -8,7 +11,7 @@ L'égalité femmes-hommes. On n'y est pas. C'est pourtant un impératif éthique
 
 [^social]: L'émancipation des femmes est importante pour leur réalisation personnelle et la lutte contre toutes les conséquences de la discrimination comme violences sexistes et sexuelles, les violences psychologiques, les violences éducatives, mais aussi et on y pense moins, les violences économiques (contrôle de l'argent, de l'accès aux comptes) et patrimoniales (destruction de bien).
 
-[^economique]: L'égalité entre les femmes et les hommes accroit la diversité dans les entreprises et enrichit la créativité, améliore l'organisation du travail, et améliore les perspectives financières des foyers hétérosexuels et lesbiens.
+[^economique]: L'égalité entre les femmes et les hommes accroit la diversité dans les entreprises et enrichit la créativité, améliore l'organisation du travail, et améliore les perspectives financières des foyers non-hétéronormés.
 
 Les démarches politiques actuelles, qui ont toutes le même défaut : elles observent l'égalité femme-homme par le prisme des hommes. Même quand il s'agit de mesurer une inégalité, on continue à la mesurer en prenant l'homme comme référence
 
