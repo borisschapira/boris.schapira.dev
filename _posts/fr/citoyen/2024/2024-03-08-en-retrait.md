@@ -10,17 +10,13 @@ L'égalité femmes-hommes. On n'y est pas. C'est pourtant un impératif éthique
 
 [^economique]: L'égalité entre les femmes et les hommes accroit la diversité dans les entreprises et enrichit la créativité, améliore l'organisation du travail, et améliore les perspectives financières des foyers hétérosexuels et lesbiens.
 
-Les démarches politiques actuelles, qui ont toutes le même défaut : elles observent l'égalité femme-homme par le prisme des hommes. Même quand il s'agit de mesurer une inégalité, on continue à la mesurer en prenant l'homme comme référence. Et
-
-
+Les démarches politiques actuelles, qui ont toutes le même défaut : elles observent l'égalité femme-homme par le prisme des hommes. Même quand il s'agit de mesurer une inégalité, on continue à la mesurer en prenant l'homme comme référence
 
 Imaginez, vous avancez sur un chemin sinueux et une amie qui connait aussi le chemin vous suit. Vous cherchez à ce que cet amie arrive en même temps que vous donc vous vous retournez souvent pour vérifier si vous la voyez bien, et jauger la distance qui vous sépare. Vous avez plusieurs manières d'envisager cette situation.
 
-1. Soit vous choisissez de rester devant et passez votre temps à évaluer la distance pour constamment accélérer.
+1. Soit vous choisissez de rester devant et passez votre temps à évaluer la distance pour constamment re-accélérer au moment opportun et rester devant.
 2. Soit vous décidez de vous arrêter quelques secondes, le temps que cette amie vous rejoignent et que vous avanciez main dans la main, mais cela implique que vous sacrifiez une partie de votre avance.
 
-On voit déjà ce qui serait nécessaire pour que les hommes, collectivement, permettent aux femmes de les rattraper mais ce n'est pas tout.
+Sauf que le chemin, parfois n'est pas que sinueux. Il est aussi étroit, et on ne passe qu'à une personne. Pour atteindre l'égalité entre les femmes et les hommes, il faut que les hommes acceptent de laisser passer ponctuellement et temporairement les femmes devant. Et tant pis si elles accélèrent après et nous dépassent.
 
-Car le chemin n'est pas que sinueux. Parfois, il est aussi étroit, et on ne passe qu'à une personne. Que faire ?
-
-Pour atteindre l'égalité entre les femmes et les hommes, il faut que les hommes acceptent de laisser passer ponctuellement et temporairement les femmes devant.
+Sans cela et même avec la meilleure volontée du monde, nous garderons toujours les femmes dans notre rétroviseur.
