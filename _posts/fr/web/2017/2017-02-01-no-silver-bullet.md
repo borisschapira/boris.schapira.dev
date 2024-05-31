@@ -1,6 +1,5 @@
 ---
 title: "(Web) Apps : il n'y a pas de balle en argent"
-i18n-key: no-silver-bullet
 canonical: 'https://blog.clever-age.com/fr/2017/02/01/app-ou-web-apps-il-ny-a-pas-de-balle-en-argent/'
 canonical_title: 'le blog de Clever Age'
 slug: apps-vs-web-apps

@@ -1,7 +1,6 @@
 ---
 title: 'Performance timing: wait for the next frame'
 subtitle: 'when using the User Timing API'
-i18n-key: user-timing-api-next-frame
 tags:
     - 'Performance Web'
     - JavaScript

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Le sac à dos caché'
-i18n-key: hidden-backpack
 slug: le-sac-a-dos-cache
 translations:
     en: the-hidden-backpack

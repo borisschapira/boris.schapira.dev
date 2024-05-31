@@ -1,6 +1,5 @@
 ---
 title: Nightclub
-i18n-key: nightclub
 translations:
     fr: en-boite-de-nuit
 ---

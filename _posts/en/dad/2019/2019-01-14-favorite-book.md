@@ -1,6 +1,5 @@
 ---
 title: 'His favorite book'
-i18n-key: favorite-book
 translations:
     fr: livre-favori
 ---

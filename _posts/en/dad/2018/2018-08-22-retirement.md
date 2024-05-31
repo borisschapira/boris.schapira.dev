@@ -1,6 +1,5 @@
 ---
 title: Retirement
-i18n-key: retirement
 translations:
     fr: la-retraite
 ---

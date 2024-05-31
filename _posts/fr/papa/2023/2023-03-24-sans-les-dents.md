@@ -1,6 +1,5 @@
 ---
 title: Sans les dents
-i18n-key: ready
 translations:
     en: ready
 ---

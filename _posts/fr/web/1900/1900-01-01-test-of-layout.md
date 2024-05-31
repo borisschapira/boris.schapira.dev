@@ -1,7 +1,6 @@
 ---
 title: 'Premier Test de mise en forme'
 subtitle: 'un test de suivi'
-i18n-key: test-of-layout
 sitemap: false
 norobots: true
 slug: test-typo

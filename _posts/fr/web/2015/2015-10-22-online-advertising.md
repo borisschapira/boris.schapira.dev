@@ -1,6 +1,5 @@
 ---
 title: 'Publicité en ligne : un point sur la situation'
-i18n-key: online-advertising
 tags:
     - Publicité
     - 'Scripts Tiers'

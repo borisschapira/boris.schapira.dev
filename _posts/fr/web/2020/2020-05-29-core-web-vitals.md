@@ -1,6 +1,5 @@
 ---
 title: 'Que penser des Core Web Vitals ?'
-i18n-key: web-vitals
 description: >-
     Au travers des Core Web Vitals, Google explicite, pour la première fois, les indicateurs qui lui serviront à évaluer Performance Web et Expérience Utilisateur. Cela change-t-il le paysage de la Performance Web ?
 

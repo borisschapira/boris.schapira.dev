@@ -3,7 +3,6 @@ title: >-
     Cumulative Layout Shift, l’indicateur de stabilité de la mise en page
 
 
-i18n-key: cls
 description: >-
     Le Cumulative Layout Shift (CLS) est un des nouveaux Signaux Web Essentiels mis en avant par Google, dédié à la stabilité de la mise en page. Comment le mesurer, l’optimiser, le visualiser dans Chrome ? Quelles sont ses limitations ? Enquêtons.
 

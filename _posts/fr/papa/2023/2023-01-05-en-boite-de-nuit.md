@@ -1,6 +1,5 @@
 ---
 title: En boîte de nuit
-i18n-key: nightclub
 translations:
     en: nightclub
 ---

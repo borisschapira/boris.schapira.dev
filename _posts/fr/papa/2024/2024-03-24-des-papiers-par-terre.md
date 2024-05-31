@@ -1,6 +1,5 @@
 ---
 title: Des papiers par terre
-i18n-key: papers
 translations:
     en: papers-on-the-floor
 ---

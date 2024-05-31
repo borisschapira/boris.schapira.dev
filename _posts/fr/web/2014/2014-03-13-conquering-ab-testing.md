@@ -1,6 +1,5 @@
 ---
 title: 'A la conquête des Tests A/B'
-i18n-key: conquering-ab-testing
 tags:
     - Front-End
 canonical: 'https://blog.clever-age.com/fr/2014/03/13/a-la-conquete-des-tests-a-b/'

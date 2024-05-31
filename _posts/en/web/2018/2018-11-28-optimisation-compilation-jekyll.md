@@ -1,6 +1,5 @@
 ---
 title: 'Optimizing Jekyll build time'
-i18n-key: optimisation-compilation-jekyll
 thumbnail_background: /assets/images/2018-11-28/jekyll.png
 tags:
     - Jekyll

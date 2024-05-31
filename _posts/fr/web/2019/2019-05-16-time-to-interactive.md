@@ -1,7 +1,6 @@
 ---
 title: 'Mesurer l’interactivité avec le TTI'
 subtitle: 'Time To (consistently) Interactive'
-i18n-key: time-to-interactive
 canonical: 'https://blog.dareboost.com/fr/2019/05/mesurer-interactivite-time-to-interactive/'
 canonical_title: 'le blog de Dareboost'
 description: >-

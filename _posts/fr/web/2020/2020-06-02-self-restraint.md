@@ -1,6 +1,5 @@
 ---
 title: 'Maîtrise de soi'
-i18n-key: self-restraint
 description: >-
     Une brève réflexion sur l'état du Web et nos responsabilités individuelles.
 

@@ -1,6 +1,5 @@
 ---
 title: À tes souhaits
-i18n-key: bless-you
 translations:
     en: bless-you
 ---

@@ -1,6 +1,5 @@
 ---
 title: Opérateur
-i18n-key: mobile-carrier
 slug: operateur
 translations:
     en: mobile-carrier

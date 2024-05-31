@@ -1,6 +1,5 @@
 ---
 title: 'Lazy Loading, des pages web plus rapides sans impact SEO'
-i18n-key: lazy-loading-faster-webpages-seo-friendly
 canonical: 'https://contentsquare.com/fr-fr/blog/lazy-loading/'
 canonical_title: 'le blog de Contentsquare'
 tags:

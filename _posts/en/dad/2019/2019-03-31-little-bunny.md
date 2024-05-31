@@ -1,6 +1,5 @@
 ---
 title: 'Little bunny'
-i18n-key: little-bunny
 translations:
     fr: bout-de-chou
 ---

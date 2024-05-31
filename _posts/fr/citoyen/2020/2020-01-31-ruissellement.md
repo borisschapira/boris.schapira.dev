@@ -2,7 +2,6 @@
 title: 'Ruissellement'
 tags:
     - Économie
-i18n-key: trickle-down
 translations:
     fr: trickle-down
 ---

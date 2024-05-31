@@ -1,7 +1,6 @@
 ---
 title: 'Whose territory am I?'
 slug: whose-territory-am-i
-i18n-key: territory
 tags:
     - Web
 translations:

@@ -1,6 +1,5 @@
 ---
 title: 'Mobile carrier'
-i18n-key: mobile-carrier
 translations:
     fr: operateur
 ---

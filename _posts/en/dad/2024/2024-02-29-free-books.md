@@ -1,6 +1,5 @@
 ---
 title: Free Books
-i18n-key: cheat-code
 translations:
     fr: des-pages
 ---

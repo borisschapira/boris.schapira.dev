@@ -1,6 +1,5 @@
 ---
 title: Les Core Web Vitals partout
-i18n-key: core-web-vitals-everywhere
 tags:
     - 'Performance Web'
 slug: les-core-web-vitals-partout

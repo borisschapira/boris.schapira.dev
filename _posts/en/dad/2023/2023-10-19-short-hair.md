@@ -1,6 +1,5 @@
 ---
 title: Short Hair
-i18n-key: short-hair
 translations:
     fr: cheveux-courts
 ---

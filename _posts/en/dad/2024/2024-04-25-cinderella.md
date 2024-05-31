@@ -1,6 +1,5 @@
 ---
 title: Cinderella
-i18n-key: cinderella
 translations:
     fr: cendrillon
 ---

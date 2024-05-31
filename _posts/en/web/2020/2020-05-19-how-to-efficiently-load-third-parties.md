@@ -1,6 +1,5 @@
 ---
 title: 'How to Optimize Third-Party Services Performance'
-i18n-key: optimize-third-parties-performance
 thumbnail_background: '/assets/images/2020-05-20/swimmers-on-body-water-3772419.jpg'
 canonical: 'https://blog.dareboost.com/en/2020/05/optimize-third-parties-performance/'
 canonical_title: "Dareboost's Blog"

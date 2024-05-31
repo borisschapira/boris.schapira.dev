@@ -1,6 +1,5 @@
 ---
 title: Hep hep hep
-i18n-key: hep-hep
 translations:
     fr: hep-hep
 ---

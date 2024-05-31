@@ -1,7 +1,6 @@
 ---
 title: IA et LLMs, quels usages en 2024 ?
 last_modified_at: 2024-01-12 12:45:00 +0000
-i18n-key: about-ai-and-llms
 translations:
     en: about-ai-and-llms
 ---

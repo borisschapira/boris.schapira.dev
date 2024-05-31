@@ -1,6 +1,5 @@
 ---
 title: 'A Happy Meal for grown-ups'
-i18n-key: happy-meal
 slug: a-happy-meal-for-grown-ups
 translations:
     fr: des-happy-meals-pour-adultes

@@ -1,6 +1,5 @@
 ---
 title: 'Le jouet du Happy Meal'
-i18n-key: the-happy-meal-toy
 slug: le-jouet-du-happy-meal
 translations:
     en: the-happy-meal-toy

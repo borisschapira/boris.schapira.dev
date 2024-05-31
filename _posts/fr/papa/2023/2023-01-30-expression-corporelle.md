@@ -1,6 +1,5 @@
 ---
 title: Expression corporelle
-i18n-key: body-expression
 translations:
     en: body-expression
 ---

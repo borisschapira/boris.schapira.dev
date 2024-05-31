@@ -1,6 +1,5 @@
 ---
 title: 'Lazy Loading, faster webpages, SEO friendly'
-i18n-key: lazy-loading-faster-webpages-seo-friendly
 canonical: 'https://blog.dareboost.com/en/2019/03/lazy-loading-faster-webpages-seo-friendly/'
 canonical_title: "Dareboost's Blog"
 cloudinary_logo: dareboost-logo

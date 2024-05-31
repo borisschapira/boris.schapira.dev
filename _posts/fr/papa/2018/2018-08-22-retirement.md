@@ -1,6 +1,5 @@
 ---
 title: 'À la retraite'
-i18n-key: retirement
 slug: la-retraite
 translations:
     en: retirement

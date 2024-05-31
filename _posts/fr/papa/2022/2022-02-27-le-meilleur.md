@@ -1,6 +1,5 @@
 ---
 title: Le meilleur
-i18n-key: the-best
 translations:
     en: the-best
 ---

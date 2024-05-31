@@ -1,6 +1,5 @@
 ---
 title: 'Netflix : augmenter la vitesse des vidéos'
-i18n-key: bookmark-netflix-speed
 tags:
     - Netflix
 slug: bookmark-netflix-vitesse

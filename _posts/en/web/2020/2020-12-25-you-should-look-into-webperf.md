@@ -1,7 +1,6 @@
 ---
 title: You should look into WebPerf
 
-i18n-key: you-should-look-into-webperf
 tags:
     - 'Web Performance'
 slug: you-should-look-into-webperf

@@ -1,6 +1,5 @@
 ---
 title: 'Où est le WeChat occidental ?'
-i18n-key: where-is-the-western-wechat
 thumbnail_background: /assets/images/2017-06-20/touch.jpg
 canonical: 'https://blog.clever-age.com/fr/2017/06/20/ou-est-le-wechat-occidental/'
 canonical_title: 'le blog de Clever Age'

@@ -1,6 +1,5 @@
 ---
 title: Héritages
-i18n-key: legacies
 translations:
     en: legacies
 ---

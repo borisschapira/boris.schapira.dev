@@ -1,6 +1,5 @@
 ---
 title: 'Independence injection'
-i18n-key: independence-injection
 translations:
     fr: injection-d-independance
 ---

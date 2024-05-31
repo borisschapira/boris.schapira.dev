@@ -1,6 +1,5 @@
 ---
 title: 'Au cinéma'
-i18n-key: at-the-movies
 slug: au-cinema
 ---
 

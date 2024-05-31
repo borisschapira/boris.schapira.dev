@@ -4,7 +4,6 @@ tags:
     - Quality
     - Certification
 thumbnail_background: /assets/images/2016-05-16/logo_opquast_certified.png
-i18n-key: my-feedback-on-opquast-certified
 translations:
     fr: un-retour-sur-opquast-certified
 ---

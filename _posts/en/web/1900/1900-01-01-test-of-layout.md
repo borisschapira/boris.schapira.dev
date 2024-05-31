@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'First test of the layout'
-i18n-key: test-of-layout
 sitemap: false
 norobots: true
 slug: typo-test

@@ -1,6 +1,5 @@
 ---
 title: 'Le futur métier'
-i18n-key: future-job
 slug: le-futur-metier
 ---
 

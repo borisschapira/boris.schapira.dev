@@ -1,6 +1,5 @@
 ---
 title: 'Dans le train'
-i18n-key: taking-the-train
 slug: dans-le-train
 translations:
     en: taking-the-train

@@ -1,6 +1,5 @@
 ---
 title: 'Netflix: how to increase video brightness'
-i18n-key: bookmark-netflix-brightness
 tags:
     - Netflix
 last_modified_at: 2019-04-18

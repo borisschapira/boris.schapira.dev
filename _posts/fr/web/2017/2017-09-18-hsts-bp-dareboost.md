@@ -1,6 +1,5 @@
 ---
 title: 'Fiabiliser les connexions sécurisées avec HSTS (HTTP Strict Transport Security)'
-i18n-key: hsts-bp-dareboost
 thumbnail_background: /assets/images/2017-09-18/1.jpg
 canonical: 'https://blog.dareboost.com/fr/2017/09/hsts-fiabiliser-connexions-securisees/'
 canonical_title: 'le blog de Dareboost'

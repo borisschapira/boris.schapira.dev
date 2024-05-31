@@ -1,6 +1,5 @@
 ---
 title: Papers on the floor
-i18n-key: papers
 translations:
     fr: des-papiers-par-terre
 ---

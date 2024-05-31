@@ -1,7 +1,6 @@
 ---
 title: Future Of Tech
 subtitle: the challenges of digital tech… without it
-i18n-key: volunteer-day-2024
 translations:
     fr: volontariat-2024-future-of-tech
 ---

@@ -1,6 +1,5 @@
 ---
 title: AI and LLMs, uses I see in 2024
-i18n-key: about-ai-and-llms
 translations:
     fr: des-usages-des-llms
 ---

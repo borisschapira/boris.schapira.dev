@@ -1,7 +1,6 @@
 ---
 title: 'Custom Timing : attendez la prochaine frame'
 subtitle: 'quand vous utilisez la User Timing API'
-i18n-key: user-timing-api-next-frame
 tags:
     - 'Performance Web'
     - JavaScript

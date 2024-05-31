@@ -1,6 +1,5 @@
 ---
 title: 'Optimize Images to Reduce Page Weight: File Formats, Tools and RWD'
-i18n-key: image-weight-bp-dareboost
 thumbnail_background: /assets/images/2017-10-29/square.jpg
 canonical: 'https://blog.dareboost.com/en/2017/10/optimize-images-to-reduce-page-weight-file-formats-tools-and-rwd/'
 canonical_title: "Dareboost's Blog"

@@ -1,6 +1,5 @@
 ---
 title: 'Le rideau'
-i18n-key: the-curtain
 slug: le-labyrinthe
 translations:
     en: the-curtain

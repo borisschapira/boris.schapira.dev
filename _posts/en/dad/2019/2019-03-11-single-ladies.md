@@ -1,6 +1,5 @@
 ---
 title: Heels
-i18n-key: single-ladies
 slug: heels
 translations:
     fr: single-ladies

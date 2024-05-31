@@ -6,7 +6,6 @@ tags:
 canonical: 'https://blog.clever-age.com/fr/2016/05/16/un-retour-sur-opquast-certified/'
 canonical_title: 'le blog de Clever Age'
 thumbnail_background: /assets/images/2016-05-16/logo_opquast_certified.png
-i18n-key: my-feedback-on-opquast-certified
 translations:
     en: my-feedback-on-opquast-certified
 ---

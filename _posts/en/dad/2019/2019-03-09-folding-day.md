@@ -1,6 +1,5 @@
 ---
 title: 'Folding day'
-i18n-key: folding-day
 translations:
     fr: pliage
 ---

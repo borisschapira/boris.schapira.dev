@@ -1,6 +1,5 @@
 ---
 title: 'Death: the trivial way'
-i18n-key: death-the-trivial-way
 tags:
     - 'Intelligence Artificielle'
 translations:

@@ -1,6 +1,5 @@
 ---
 title: 'Petits noms'
-i18n-key: little-names
 slug: petits-noms
 ---
 

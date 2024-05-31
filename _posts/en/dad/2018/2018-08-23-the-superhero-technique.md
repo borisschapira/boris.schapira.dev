@@ -1,6 +1,5 @@
 ---
 title: 'The superhero technique'
-i18n-key: the-superhero-technique
 translations:
     fr: comme-un-super-heros
 ---

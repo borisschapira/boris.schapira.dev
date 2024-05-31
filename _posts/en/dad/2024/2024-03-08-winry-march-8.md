@@ -1,6 +1,5 @@
 ---
 title: Winry
-i18n-key: winry
 translations:
     en: winry-8-mars
 ---

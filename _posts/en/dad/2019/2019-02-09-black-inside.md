@@ -1,6 +1,5 @@
 ---
 title: 'Black inside'
-i18n-key: black-inside
 translations:
     fr: noir
 ---

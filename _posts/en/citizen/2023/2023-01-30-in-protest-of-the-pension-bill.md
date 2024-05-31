@@ -1,6 +1,5 @@
 ---
 title: In protest of the pension reform
-i18n-key: pension-strike
 translations:
     fr: contre-la-reforme-des-retraites
 ---

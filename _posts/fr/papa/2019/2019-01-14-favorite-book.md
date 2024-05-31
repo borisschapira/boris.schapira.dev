@@ -1,6 +1,5 @@
 ---
 title: 'Son livre favori'
-i18n-key: favorite-book
 slug: livre-favori
 translations:
     en: favorite-book

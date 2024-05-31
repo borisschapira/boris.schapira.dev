@@ -2,7 +2,6 @@
 title: Volunteer Day
 slug: volunteer-day
 translated: true
-i18n-key: volunteer-day
 translations:
     fr: volontariat
 ---

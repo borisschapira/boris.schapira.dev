@@ -1,6 +1,5 @@
 ---
 title: Des points
-i18n-key: chores-points
 translations:
     en: chores-points
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Injection d'indépendance"
-i18n-key: independence-injection
 slug: injection-d-independance
 translations:
     en: independence-injection

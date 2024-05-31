@@ -1,6 +1,5 @@
 ---
 title: "Jesus' bathroom"
-i18n-key: jesus-bathroom
 translations:
     fr: jesus-et-la-salle-de-bain
 ---

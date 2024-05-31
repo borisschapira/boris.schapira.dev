@@ -1,6 +1,5 @@
 ---
 title: Cheveux courts
-i18n-key: short-hair
 translations:
     en: short-hair
 ---

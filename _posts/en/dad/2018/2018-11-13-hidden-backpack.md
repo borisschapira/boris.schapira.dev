@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'The hidden backpack'
-i18n-key: hidden-backpack
 slug: the-hidden-backpack
 translations:
     fr: le-sac-a-dos-cache

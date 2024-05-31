@@ -1,6 +1,5 @@
 ---
 title: 'Ensure secured connections with HSTS (HTTP Strict Transport Security)'
-i18n-key: hsts-bp-dareboost
 thumbnail_background: /assets/images/2017-09-18/1.jpg
 canonical: 'https://blog.dareboost.com/en/2017/09/hsts-ensure-secured-connections/'
 canonical_title: "Dareboost's Blog"

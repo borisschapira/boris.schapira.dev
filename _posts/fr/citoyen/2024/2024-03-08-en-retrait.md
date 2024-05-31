@@ -1,6 +1,5 @@
 ---
 title: En retrait
-i18n-key: back-seat
 translations:
     en: back-seat
 ---

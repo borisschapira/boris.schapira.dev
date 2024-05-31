@@ -1,6 +1,5 @@
 ---
 title: '(Web) Apps: There is no silver bullet'
-i18n-key: no-silver-bullet
 canonical: 'https://blog.clever-age.com/en/2017/07/07/web-apps-there-is-no-silver-bullet/'
 canonical_title: "Clever Age's Blog"
 cloudinary_logo: clever-logo

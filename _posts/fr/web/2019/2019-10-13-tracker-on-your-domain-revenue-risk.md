@@ -1,6 +1,5 @@
 ---
 title: "Trackers sur votre domaine, chiffre d'affaire en danger"
-i18n-key: tracker-on-your-domain-revenue-risk
 tags:
     - 'Performance Web'
     - SEO

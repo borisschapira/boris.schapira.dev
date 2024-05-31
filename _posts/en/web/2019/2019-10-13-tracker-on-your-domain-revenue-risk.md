@@ -1,6 +1,5 @@
 ---
 title: 'Trackers on Your Domain, Revenue Risk'
-i18n-key: tracker-on-your-domain-revenue-risk
 tags:
     - 'Performance Web'
     - SEO

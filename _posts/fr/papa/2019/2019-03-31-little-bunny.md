@@ -1,6 +1,5 @@
 ---
 title: 'Bout de chou'
-i18n-key: little-bunny
 slug: bout-de-chou
 translations:
     en: little-bunny

@@ -2,7 +2,6 @@
 title: 'Trickle-Down'
 tags:
     - Economy
-i18n-key: trickle-down
 translations:
     fr: ruissellement
 ---

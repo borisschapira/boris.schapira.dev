@@ -1,7 +1,6 @@
 ---
 title: Future Of Tech
 subtitle: les enjeux du numérique sans numérique
-i18n-key: volunteer-day-2024
 translations:
     en: volunteer-day-2024-future-of-tech
 ---

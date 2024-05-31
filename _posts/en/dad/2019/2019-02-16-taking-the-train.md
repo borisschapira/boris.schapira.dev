@@ -1,6 +1,5 @@
 ---
 title: 'Taking the train'
-i18n-key: taking-the-train
 translations:
     fr: dans-le-train
 ---

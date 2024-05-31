@@ -1,6 +1,5 @@
 ---
 title: Seth from Radiant
-i18n-key: seth-from-radiant
 translations:
     fr: seth-de-radiant
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Happy Meal's toy"
-i18n-key: the-happy-meal-toy
 translations:
     fr: le-jouet-du-happy-meal
 ---

@@ -1,6 +1,5 @@
 ---
 title: Noir
-i18n-key: black-inside
 slug: noir
 translations:
     en: black-inside

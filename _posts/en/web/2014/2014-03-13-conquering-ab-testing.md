@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Conquering A/B Testing'
-i18n-key: conquering-ab-testing
 canonical: 'https://blog.clever-age.com/en/2015/12/14/conquering-ab-testing/'
 canonical_title: "Clever Age's Blog"
 cloudinary_logo: clever-logo

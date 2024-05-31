@@ -1,6 +1,5 @@
 ---
 title: Contre la réforme des retraites
-i18n-key: pension-strike
 translations:
     en: in-protest-of-the-pension-bill
 ---

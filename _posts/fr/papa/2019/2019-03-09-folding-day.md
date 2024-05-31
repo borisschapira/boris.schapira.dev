@@ -1,6 +1,5 @@
 ---
 title: Pliage
-i18n-key: folding-day
 slug: pliage
 translations:
     en: folding-day

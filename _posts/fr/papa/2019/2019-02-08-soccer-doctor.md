@@ -1,6 +1,5 @@
 ---
 title: 'Le médecin du foot'
-i18n-key: soccer-doctor
 slug: medecin-du-foot
 translations:
     en: the-soccer-doctor

@@ -1,6 +1,5 @@
 ---
 title: 'The curtain'
-i18n-key: the-curtain
 translations:
     fr: le-labyrinthe
 ---

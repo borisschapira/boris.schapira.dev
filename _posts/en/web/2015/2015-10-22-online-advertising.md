@@ -1,6 +1,5 @@
 ---
 title: 'Online Advertising: The Current Status'
-i18n-key: online-advertising
 tags:
     - Publicité
     - 'Scripts Tiers'

@@ -1,6 +1,5 @@
 ---
 title: Attitude
-i18n-key: behaviour
 slug: attitude
 translations:
     en: behavior
