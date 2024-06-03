@@ -17,7 +17,7 @@ GEM
       json
     ethon (0.16.0)
       ffi (>= 1.15.0)
-    ffi (1.16.3)
+    ffi (1.17.0)
     fiber-annotation (0.2.0)
     fiber-local (1.1.0)
       fiber-storage
@@ -34,7 +34,7 @@ GEM
       zeitwerk (~> 2.5)
     io-event (1.5.1)
     json (2.7.2)
-    mini_portile2 (2.8.6)
+    mini_portile2 (2.8.7)
     nokogiri (1.16.5)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
