@@ -16,7 +16,7 @@
   values:
     - value: "'self'"
       comment: 'This domain'
-    - value: "'sha256-+YB+DyNFhdE/tPSomYPVPRiLLExTa1CjkKdnOAUkNYQ='"
+    - value: "'sha256-2GxkpPp8dVWKaLvzpTG22beEvUklr9yO1/HnZpFaC8Y='"
       comment: 'Speculation Rules'
     - value: "'sha256-4eDthUzkpBeVm+NnJvTvwxqxbEKC/hzHCLuNQfY+Qso='"
       comment: 'permark: mark-head-start'
