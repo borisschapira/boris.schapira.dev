@@ -27,9 +27,9 @@ Compte tenu de l'efficacité de ces solutions et de leur faible besoin de mainte
 
 L'API <span lang="en">Speculative Rules</span> introduit une nouvelle méthode déclarative pour indiquer au navigateur quel contenu doit être préchargé et/ou pré-rendu à la demande du concepteur ou de la conceptrice du site.
 
-L'API comprend un paramètre appelé `eagerness` (qu'on peut traduire par "degré d'impatience") qui détermine quand le navigateur doit télécharger le contenu. Doit-il le faire immédiatement (comme le faisait FasterFox), ou doit-il attendre un signal supplémentaire, tel qu'un survol (comme InstantClick), ou même le déplacement du pointeur de la souris _vers_ le lien ?
+Les règles de spéculation contiennent un paramètre appelé `eagerness` (qu'on peut traduire par "degré d'impatience") qui détermine quand le navigateur doit télécharger le contenu. Doit-il le faire immédiatement (comme le faisait FasterFox), ou doit-il attendre un signal supplémentaire, tel qu'un survol (comme InstantClick), ou même le déplacement du pointeur de la souris _vers_ le lien ?
 
-Je trouve que les règles établies par cette API sont **élégamment définies** et faciles à comprendre. Prenons l'exemple suivant :
+Je trouve que les règles établies par cette API sont **élégamment définies** et faciles à comprendre. Prenons l'exemple suivant, directement à la fin du `<body>` :
 
 ```
 <script type="speculationrules">
@@ -44,13 +44,33 @@ Je trouve que les règles établies par cette API sont **élégamment définies*
 </script>
 ```
 
+Ou sous la forme d'un snippet à intégrer dans votre tag manager (pour un A/B test, par exemple) :
+
+```
+(function () {
+  const script = document.createElement("script");
+  script.type = "speculationrules"
+  script.textContent = JSON.stringify({
+    prefetch: [
+      {
+        where: { 'href_matches': '/*' },
+        eagerness: 'moderate'
+      }
+    ]
+  });
+  document.body.appendChild(script);
+})()
+```
+
 Il indique au navigateur que pour toutes les URLs du domaine courant `/*`, il peut faire du `prefetch` s'il pense que l'utilisateur va avoir besoin du contenu. Avec une impatience "modérée" (`moderate`), cela se produira principalement lorsque l'utilisateur survolera le lien.
 
-Est-ce si simple ? Oui, c'est simple.
+Est-ce vraiment si simple ? Oui.
 
 Vous avez également la possibilité d'utiliser `prerender` au lieu de `prefetch`. Cependant, permettez-moi d'insister sur le fait que si la règle `prerender$ est appliquée, elle récupère **et traite** la ressource à l'avance, ce qui inclut _la récupération des sous-ressources_ également, qu'elles proviennent d'une première ou d'une troisième partie.
 
 ## Devons-nous attendre un peu ?
+
+Déjà, précisions que même si la fonctionnalité est déployée dans Chrome depuis quelques mois, **elle reste récente**. Certaines alchimies, comme la spéculation `prefetch` couplée à un Service Worker, ne fonctionnent pas encore. Rien de dramatique, mais précaution est mère de sûreté.
 
 Le préchargement et le rendu spéculatif, bien que bénéfiques pour l'expérience de certains utilisateurs, **comportent le risque de gaspiller des ressourses** : de la bande passante et des ressources du serveur si les données extraites ne sont pas utilisées parce que l'utilisateur ne navigue pas jusqu'à la page ainsi optimisée.
 
@@ -58,7 +78,7 @@ Si votre objectif est d'améliorer la sobriété de votre site web ou si vous ê
 
 [^press]: A l'inverse, vous pouvez avoir un intérêt particulier à gonfler ces chiffres. En France, par exemple, les aides publiques à la Presse sont calculées en fonction du nombre de pages vues. Il est évident que certaines entités exploiteront ces règles pour "générer des pages vues", tout comme elles le faisaient auparavant avec des rafraîchissements excessifs.
 
-Du côté du serveur, l'utilisation de règles spéculatives peut potentiellement présenter un risque pour votre site web. Si une règle est trop gourmande, elle peut déclencher un grand nombre de chargements de pages et de ressources pour chaque utilisateur. **Cette charge accrue** peut mettre à rude épreuve la capacité de votre serveur à fournir rapidement du contenu à tous les utilisateurs, en particulier si vous n'avez pas mis en place de fonctionnalités de mise en cache au préalable. Dans les cas extrêmes, cela peut vous conduire à **vous infliger à vous-même un déni de service distribué (DDoS)**.
+Du côté du serveur, l'utilisation de règles de spéculation peut potentiellement présenter un risque pour votre site web. Si une règle est trop gourmande, elle peut déclencher un grand nombre de chargements de pages et de ressources pour chaque utilisateur. **Cette charge accrue** peut mettre à rude épreuve la capacité de votre serveur à fournir rapidement du contenu à tous les utilisateurs, en particulier si vous n'avez pas mis en place de fonctionnalités de mise en cache au préalable. Dans les cas extrêmes, cela peut vous conduire à **vous infliger à vous-même un déni de service distribué (DDoS)**.
 
 L'utilisation de l'API <span lang="en">Speculative Rules</span> ne doit se faire uniquement au regard des impératifs d'amélioration de l'UX, mais aussi en prenant en compte d'autres facteurs. Nous pouvons aussi optimiser les règles : en tant qu'administrateurs de sites web, nous pouvons utiliser l'analyse comportementale pour mieux connaître les pages les plus populaires et les parcours de navigation des utilisateur·ices. Ces informations peuvent nous aider à déterminer si l'utilisation de l'API <span lang="en">Speculative Rules</span> améliorerait ou nuirait à l'UX.
 

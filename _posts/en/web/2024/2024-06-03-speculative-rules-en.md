@@ -25,11 +25,11 @@ Considering the effectiveness of these solutions and their minimal need for upda
 
 ## Introducing Speculative Rules API
 
-The Speculative Rules API introduces a new, declarative method for instructing the browser on wat content should be prefetched and/or prerendered on behald of the site designer.
+The Speculative Rules API introduces a new, declarative method for instructing the browser on what content should be prefetched and/or prerendered on behalf of the site designer.
 
-The API includes a parameter called `eagerness` that determines when the browser should download the content. Should it do so immediately (as FasterFox did), or should it wait for an additional signal, such as a hover (like InstantClick), or even the mouse pointer moving _toward_ the link?
+The speculation rules includes a parameter called `eagerness` that determines when the browser should download the content. Should it do so immediately (as FasterFox did), or should it wait for an additional signal, such as a hover (like InstantClick), or even the mouse pointer moving _toward_ the link?
 
-I find that the rules set by this API are **elegantly designed** and easy to comprehend. For instance, consider the following example:
+I find that the rules set by this API are **elegantly designed** and easy to comprehend. For instance, consider the following example, at the end of `<body>`:
 
 ```
 <script type="speculationrules">
@@ -44,13 +44,33 @@ I find that the rules set by this API are **elegantly designed** and easy to com
 </script>
 ```
 
+Or in the form of a snippet to be integrated into your tag manager (for an A/B test, for example) 
+
+```
+(function () {
+  const script = document.createElement("script");
+  script.type = "speculationrules"
+  script.textContent = JSON.stringify({
+    prefetch: [
+      {
+        where: { 'href_matches': '/*' },
+        eagerness: 'moderate'
+      }
+    ]
+  });
+  document.body.appendChild(script);
+})()
+```
+
 Tell the browser that for all the URLs in the current domain `/*`, it can prefetch if it thinks the user is going to need the content. With a `moderate` eagerness, mostly when the user is going to hover the link.
 
 Is it that simple? It is.
 
-You also have the option to use `prerender` instead of `prefetch`. However, let me emphasis that if the `prerender$ rule is applied, it would fetch **and process** the resource in advance, which includes _fetching subresources_ as well, whether they're from first or third parties.
+You also have the option to use `prerender` instead of `prefetch`. However, let me emphasis that if the `prerender` rule is applied, it would fetch **and process** the resource in advance, which includes _fetching subresources_ as well, whether they're from first or third parties.
 
 ## Should We Hold Your Horses?
+
+First of all, it's worth pointing out that even though the functionality has been deployed in Chrome for a few months, **it's still new**. Certain alchemies, such as the `prefetch` speculation coupled with a Service Worker, don't work yet. Nothing dramatic, but caution is the better part of valour.
 
 Speculative prefetching and prerendering, while beneficial for some users' experience, **carries the risk of wasting resources**: bandwidth and server resources if the prefetched data isn't used because the user doesn't navigate to the prefetched page. 
 
