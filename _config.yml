@@ -237,6 +237,9 @@ author:
   mastodon_pro:
     url: https://hachyderm.io/@boostmarks
     nick: "@boostmarks@hachyderm.io"
+  pixelfed:
+    url: https://pixelfed.social/i/web/profile/679082835117558304
+    nick: "@borisschapira@pixelfed.social"
   gravatar: https://www.gravatar.com/avatar/1120e6a8f9ccf0d018775756050abb7a
   linkedin: 'https://linkedin.com/in/borisschapira'
   feed: '/feed.xml'

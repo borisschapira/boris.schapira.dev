@@ -123,6 +123,7 @@ layout: microtypo
 
     <link rel="me" href="{{ site.author.mastodon_perso.url }}"/>
     <link rel="me" href="{{ site.author.mastodon_pro.url }}"/>
+    <link rel="me" href="{{ site.author.pixelfed.url }}"/>
 
     <script type="speculationrules">
     {
@@ -224,7 +225,7 @@ layout: microtypo
       <footer class="main-footer">
         <div class="nav-footer">
           <p>
-            {{ "Retrouvez-moi" | t: page.locale }} {{ "sur" | t: page.locale }} <a class="npe" rel="me nofollow" href="{{ site.author.github }}">Github</a>, <a class="npe" rel="me nofollow" href="{{ site.author.mastodon_perso.url }}">{{ site.author.mastodon_perso.nick }} (perso)</a>, <a class="npe" rel="me nofollow" href="{{ site.author.mastodon_pro.url }}">{{ site.author.mastodon_pro.nick }} (pro)</a>, <a class="npe" rel="me nofollow" href="{{ site.author.linkedin }}">LinkedIn</a> {{ "et" | t: page.locale }} <a class="npe" rel="me nofollow" href="{{ site.author.flickr }}">Flickr</a>.
+            {{ "Retrouvez-moi" | t: page.locale }} {{ "sur" | t: page.locale }} <a class="npe" rel="me nofollow" href="{{ site.author.github }}">Github</a>, <a class="npe" rel="me nofollow" href="{{ site.author.mastodon_perso.url }}">{{ site.author.mastodon_perso.nick }} (Mastodon Perso)</a>, <a class="npe" rel="me nofollow" href="{{ site.author.mastodon_pro.url }}">{{ site.author.mastodon_pro.nick }} (Mastodon Pro)</a>, <a class="npe" rel="me nofollow" href="{{ site.author.pixelfed.url }}">{{ site.author.pixelfed.nick }} (pixelfed)</a>, <a class="npe" rel="me nofollow" href="{{ site.author.linkedin }}">LinkedIn</a> {{ "et" | t: page.locale }} <a class="npe" rel="me nofollow" href="{{ site.author.flickr }}">Flickr</a>.
             <br />
             {{ "Site statique" | t: page.locale }} <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}/site/">{{ "compilé par Jekyll, propulsé par Netlify et Cloudinary" | t: page.locale }}</a>.
             <br />
