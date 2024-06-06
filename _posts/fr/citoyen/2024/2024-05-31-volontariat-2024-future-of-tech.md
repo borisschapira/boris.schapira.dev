@@ -5,7 +5,7 @@ translations:
     en: volunteer-day-2024-future-of-tech
 ---
 
-En fin de semaine dernière, je suis intervenu 2h dans la classe de Gaëlle Dupont au Lycée Philippe Cousteau[^blog]. J'y ai co-animé un atelier avec une vingtaine d'élèves, organisé autour d'un jeu de cartes synthétisant, au travers d'un parcours de construction d'une application mobile, les grands enjeux du numérique.
+En fin de semaine dernière, je suis intervenu 2h dans la classe de Gaëlle Vandenberghe au Lycée Philippe Cousteau[^blog]. J'y ai co-animé un atelier avec une vingtaine d'élèves, organisé autour d'un jeu de cartes synthétisant, au travers d'un parcours de construction d'une application mobile, les grands enjeux du numérique.
 
 [^blog]: Il y a même [un article sur le blog du lycée](https://blogpeda.ac-bordeaux.fr/lyceesphilippecousteau/2024/05/24/atelier-future-of-tech/).
 

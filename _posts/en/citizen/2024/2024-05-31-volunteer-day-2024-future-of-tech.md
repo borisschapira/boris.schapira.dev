@@ -5,7 +5,7 @@ translations:
     fr: volontariat-2024-future-of-tech
 ---
 
-At the end of last week, I spent 2 hours with Gaëlle Dupont's class at the Philippe Cousteau High School[^blog]. I co-facilitated a workshop with about twenty teens, organised around a card game that summarised the major challenges of digital technology through the construction of a mobile application.
+At the end of last week, I spent 2 hours with Gaëlle Vandenberghe's class at the Philippe Cousteau High School[^blog]. I co-facilitated a workshop with about twenty teens, organised around a card game that summarised the major challenges of digital technology through the construction of a mobile application.
 
 [^blog]: There's even [an article on the school blog (in French)](https://blogpeda.ac-bordeaux.fr/lyceesphilippecousteau/2024/05/24/atelier-future-of-tech/).
 
