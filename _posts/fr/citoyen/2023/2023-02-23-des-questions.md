@@ -94,6 +94,7 @@ On reproduit le modèle de sous-traitance de l'industrie textile, dans des propo
 Beaucoup de plate-formes et des décideurs parlent "d'algorithmes" pour cacher des décisions de mise en avant bien humaines. Parler d'algorithmes permet de cacher la responsabilités des personnes qui dirigent les paramètres de ces programmes[^smbc], et est également utilisé quand on parle d'Intelligence Artificielle (IA) pour diluer le rôle de ces agents dans les apprentissages de leurs LLM[^algorithmes].
 
 [^smbc]: Voir le comic "[Algo](https://www.smbc-comics.com/comic/algo)", par Zach Weinersmith.
+
 [^algorithmes]: "[On entend trop le mot algorithme](https://framablog.org/2022/09/29/on-entend-trop-le-mot-algorithme/)", Stéphane Bortzmeyer pour Framablog
 
 Prenons un exemple concret : la discrimination à l'embauche. De nombreux algorithmes ont été créés, au fil des années, pour automatiser le tri des CVs, faisant apparaitre des discriminations avérées[^mozaikrh]. Ces abus ont amené la Défenseure des Droits à replacer le principe de discrimination au cœur du projet de réglementation de la commission européenne[^defdroits] dès 2022. Mais pour l'instant, rien n'est acté, et les recours contre ces discriminations n'ont pas de cadre légal.
@@ -103,6 +104,7 @@ Prenons un exemple concret : la discrimination à l'embauche. De nombreux algori
 > <cite>"[Les Réglementations Européennes des Systèmes d’IA à Haut Risque 'oublient' la Défense des Droits Fondamentaux](https://www.linkedin.com/pulse/les-r%2525C3%2525A9glementations-europ%2525C3%2525A9ennes-des-syst%2525C3%2525A8mes-dia-%2525C3%2525A0-haut-besse%3FtrackingId=bHN6kP0NS42xjGPGI7HXBQ%253D%253D/?trackingId=bHN6kP0NS42xjGPGI7HXBQ%3D%3D)", Philippe Besse</cite>
 
 [^mozaikrh]: "[Recruter avec des algorithmes pour moins discriminer : bonne ou mauvaise idée ?](https://mozaikrh.com/recruter-avec-des-algorithmes-pour-moins-discriminer-bonne-ou-mauvaise-idee/)", Mozaik RH
+
 [^defdroits]: "[Intelligence artificielle : la Défenseure des droits appelle à replacer le principe de non-discrimination au cœur du projet de règlement de la Commission européenne](https://www.defenseurdesdroits.fr/fr/communique-de-presse/2022/06/intelligence-artificielle-la-defenseure-des-droits-appelle-a-replacer)", Communiqué de Presse
 
 ### Consensualité violente

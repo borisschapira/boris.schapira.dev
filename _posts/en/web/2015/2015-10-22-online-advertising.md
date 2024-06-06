@@ -27,6 +27,7 @@ Online advertising has become — for lack of a better solution — the main sou
 In the absence of any regulations, online advertising increasingly oversteps the blurred lines of privacy, at the expense of users who then express their feeling of being abused through massive resort to ad blockers[^1]. A true ad blocking market is emerging, consisting of technical solutions and secret agreements, in browsers as well as on smartphones[^0]. Faced with this phenomenon, some online editors no longer hesitate to block access to their content to users running ad blockers, which sends a very negative signal to their audience.
 
 [^0]: The ad blocker of iOS 9, for example, relies on a business model in which advertisers must pay to have their ads displayed.
+
 [^1]: According to a survey by PageFair, these ad blockers would be installed on the computers of 35% of European Internet users and 41% of 16-29 year olds. UCBrowser and Maxthon, who claim more than 600 million users in Asia, are also partnering with ad blocking solutions.
 
 This war is extremely costly and is the result of a gamble on alternative sources of income (based on advertising) rather than promoting the real added value of content. Many players are actually giving in to "everything-for-free" mentality, mass-producing content with low informational value and maximizing advertising revenues through real clickbait with no editorial line. Empires are built, going as far as acquiring websites to spread advertising trojans, to the detriment of historical readers, who are rarely fooled by this.

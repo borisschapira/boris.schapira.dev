@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # I18n configuration
 locale: fr
 defaults:
@@ -229,19 +222,22 @@ author:
   name: 'Boris Schapira'
   avatar: 'https://avatars.schapira.dev/avataars_1200.png'
   url: https://boris.schapira.dev/
-  flickr: 'https://flickr.com/borisschapira'
-  github: 'https://github.com/borisschapira'
-  mastodon_perso:
-    url: https://framapiaf.org/@borisschapira
-    nick: "@borisschapira@framapiaf.org"
-  mastodon_pro:
-    url: https://hachyderm.io/@boostmarks
-    nick: "@boostmarks@hachyderm.io"
-  pixelfed:
-    url: https://pixelfed.social/i/web/profile/679082835117558304
-    nick: "@borisschapira@pixelfed.social"
-  gravatar: https://www.gravatar.com/avatar/1120e6a8f9ccf0d018775756050abb7a
-  linkedin: 'https://linkedin.com/in/borisschapira'
+  social:
+    - name: github
+      title: Github
+      url: https://github.com/borisschapira
+    - name: linkedin
+      title: LinkedIn
+      url: 'https://linkedin.com/in/borisschapira'
+    - name: mastodon
+      title: "Mastodon (perso)"
+      url: https://framapiaf.org/@borisschapira
+    - name: mastodon
+      title: "Mastodon (pro)"
+      url: https://hachyderm.io/@boostmarks
+    - name: pixelfed
+      title: Pixelfed
+      url: https://pixelfed.social/i/web/profile/679082835117558304
   feed: '/feed.xml'
   mailto: 'boris%40schapira.dev'
 

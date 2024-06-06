@@ -118,12 +118,7 @@ layout: microtypo
     <link rel="manifest" href="/manifest.json?v=E6jXRBAgkK" data-proofer-ignore>
     <link rel="shortcut icon" href="/favicon.ico?v=E6jXRBAgkK" data-proofer-ignore>
     <meta name="theme-color" content="#{{ page.social.color }}">
-
     <!-- endnomicrotypo -->
-
-    <link rel="me" href="{{ site.author.mastodon_perso.url }}"/>
-    <link rel="me" href="{{ site.author.mastodon_pro.url }}"/>
-    <link rel="me" href="{{ site.author.pixelfed.url }}"/>
 
     <script type="speculationrules">
     {
@@ -195,7 +190,7 @@ layout: microtypo
       <div class="page-title"><h1>{{ page.title | default: pageTitle }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>{% if page.layout=='post'%}<div class="meta"><time class="dt-published" datetime="{{ datetime }}">{% unless page.locale =='fr' %}{% include date_en.html.liquid postDate=page.date locale=page.locale %}{% else %}{{ page.date | l: '%-d %B %Y', page.locale }}{% endunless %}</time>{% if page.serie %}<span><a href="/tag/{{ page.serie | slugify }}">{{ page.serie }}</a></span>{% endif %}{% if page.translation %}<span>{% include read_in.html.liquid
         format="verbose"
         locale=page.translation.locale
-        url=page.translation.url %}</span>{% endif %}<span class="webshare" data-title="Web Sharing" data-text="&quot;{{ page.title | replace: '"', "&quot;" }}&quot;, Boris Schapira ({% if page.category == 'web' %}{{ site.author.mastodon_pro.nick }}{% else %}{{ site.author.mastodon_perso.nick }}{% endif %})"><button aria-label="{{ "partager" | t: page.locale }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 483 483">
+        url=page.translation.url %}</span>{% endif %}<span class="webshare" data-title="Web Sharing" data-text="&quot;{{ page.title | replace: '"', "&quot;" }}&quot;, Boris Schapira"><button aria-label="{{ "partager" | t: page.locale }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 483 483">
             <title>{{ "partager" | t: page.locale }}</title>
             <path d="M396 0c-48 0-88 39-88 87l1 6-161 76A87 87 0 000 232a87 87 0 00129 77l70 58a87 87 0 0083 116 87 87 0 10-42-164l-70-59c3-9 5-18 5-28l-1-6 161-76a87 87 0 00148-63c0-48-39-87-87-87z"/>
           </svg></button></span></div>{% endif %}</div>
@@ -225,7 +220,10 @@ layout: microtypo
       <footer class="main-footer">
         <div class="nav-footer">
           <p>
-            {{ "Retrouvez-moi" | t: page.locale }} {{ "sur" | t: page.locale }} <a class="npe" rel="me nofollow" href="{{ site.author.github }}">Github</a>, <a class="npe" rel="me nofollow" href="{{ site.author.mastodon_perso.url }}">{{ site.author.mastodon_perso.nick }} (Mastodon Perso)</a>, <a class="npe" rel="me nofollow" href="{{ site.author.mastodon_pro.url }}">{{ site.author.mastodon_pro.nick }} (Mastodon Pro)</a>, <a class="npe" rel="me nofollow" href="{{ site.author.pixelfed.url }}">{{ site.author.pixelfed.nick }} (pixelfed)</a>, <a class="npe" rel="me nofollow" href="{{ site.author.linkedin }}">LinkedIn</a> {{ "et" | t: page.locale }} <a class="npe" rel="me nofollow" href="{{ site.author.flickr }}">Flickr</a>.
+            {{ "Retrouvez-moi" | t: page.locale }} {{ "sur" | t: page.locale }}
+            {%- for social in site.author.social -%}
+              {% unless forloop.first %}{% if forloop.last %} et{% else %},{% endif %} {% endunless %}<a class="npe" rel="me nofollow" href="{{ social.url }}">{{social.title}}</a>
+            {%- endfor -%}.
             <br />
             {{ "Site statique" | t: page.locale }} <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}/site/">{{ "compilé par Jekyll, propulsé par Netlify et Cloudinary" | t: page.locale }}</a>.
             <br />

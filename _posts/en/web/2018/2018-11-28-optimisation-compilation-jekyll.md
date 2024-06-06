@@ -189,7 +189,11 @@ Here is the raw data:
 | Test 10 | 5 - Switch to main       | 69,022       |
 
 [^parole]: You're going to have to take my word for it, because my experimental protocol didn't contain a test with and without inclusions. It is therefore a personal estimate.
+
 [^rake]: Rake is a make-like orchestrator, in Ruby ([learn more](https://rubygems.org/gems/rake/)).
+
 [^gsl]: It seems that [the gem gsl](https://rubygems.org/gems/gsl) is improving this, but I haven't tested it. I am interested in your feedback.
+
 [^netlimit]: 15 minutes, as confirmed by Chris McCraw in "[How Our Build Bots Build Sites](https://www.netlify.com/blog/2016/10/18/how-our-build-bots-build-sites/)".
+
 [^analytics]: Because I don’t need them to learn about my readers, as they often interact with me on Twitter or through comments

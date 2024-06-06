@@ -24,4 +24,5 @@ Cette confusion injuste mais naturelle, qu'on retrouve également dans [les déb
 **Merci**.
 
 [^bower]: Bower, un des projets <span lang="en">front end</span> les plus utilisés au monde, est également maintenu par une seule personne, [Adam Stankiewicz](https://twitter.com/sheerun)).
+
 [^firefox]: Firefox, Wikipédia… ne sont pas des acquis et peuvent disparaître un jour.

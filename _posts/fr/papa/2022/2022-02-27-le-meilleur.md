@@ -15,6 +15,6 @@ Discussion avec mon petit de 8 ans :
 > – ... ouais hum, ok. Mais du coup, on peut dire que t'es le meilleur… à être moyen ?  
 > – Oui, c'est un peu ça 😅
 
-Se tournant vers son grand frère : 
+Se tournant vers son grand frère :
 
 > Tu vois, je t'avais dit que papa était le meilleur !

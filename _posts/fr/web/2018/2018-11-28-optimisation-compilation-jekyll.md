@@ -194,7 +194,11 @@ Voici les données brutes, si certains veulent jouer avec :
 | Test 10 | 5 - Switch to main       | 69,022       |
 
 [^parole]: Vous allez devoir me croire sur parole, parce que mon protocole d'expérimentation ne contenait pas de test avec et sans inclusions. Il s'agit donc d'une estimation personnelle.
+
 [^rake]: Rake est un orchestrateur similaire à make, mais en Ruby ([en savoir plus](https://rubygems.org/gems/rake/)).
+
 [^gsl]: Il semblerait que [la gemme gsl](https://rubygems.org/gems/gsl) permette d'améliorer cela, mais je ne l'ai pas testé. Vos retours m'intéressent.
+
 [^netlimit]: 15 minutes, comme confirmé par Chris McCraw dans son article "[How Our Build Bots Build Sites](https://www.netlify.com/blog/2016/10/18/how-our-build-bots-build-sites/)".
+
 [^analytics]: Parce que je n'ai pas besoin de ça pour connaître les personnes qui me lisent, car elles interagissent souvent avec moi dans les commentaires ou sur Twitter.

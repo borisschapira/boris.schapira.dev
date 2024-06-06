@@ -46,6 +46,7 @@ Ce dépôt, mis à jour, lance également une opération sur [Codeship](https://
 Si cette étape d'intégration est valide et que le code est bien contribué sur la branche `master`, alors [Codeship](https://codeship.com/) s'occupe du déploiement du site statique ainsi généré chez mon hébergeur, <a href="https://www.alwaysdata.com/">alwaysdata</a>. Le dernier déploiement a été réalisé le {{ site.time | localize: '%A %-d %B %Y' }}.
 
 [^3]: Lire à ce propos [cet excellent article de Romy sur les syntaxes légères](http://romy.tetue.net/syntaxes-legeres-pour-rediger)
+
 [^4]: Ne ratez pas cette [présentation complète des submodules git par Christophe Porteneuve](http://www.git-attitude.fr/2014/12/31/git-submodules/)
 
 Si tout se passe bien, alors le site se retrouve en Production.

@@ -33,6 +33,7 @@ Facebook n’est pas à sa première tentative, sans que la magie n’opère, ca
 D’abord notre marché est plus contraint. Bien que la Chine soit limitée dans son accès au monde extérieur par la présence du Great Firewall[^gf], son marché intérieur est assez, voire très libéral. La protection de la vie privée y est balbutiante, les normes de contrôle très réduites et les réglementations laxistes, quand elles existent (au contraire de l’Union Européenne, qui suis exactement le chemin inverse)[^rgdp].
 
 [^gf]: Dont nous parlions dans notre article "[S'implanter en Chine : état des lieux](https://blog.clever-age.com/fr/2014/07/28/s-implanter-en-chine-etat-des-lieux/)".
+
 [^rgdp]: Nous en parlions plus en détails dans notre article "[Réglement Général sur la Protection des Données Personnelles : petit guide pour les entreprises](https://blog.clever-age.com/fr/2017/04/04/reglement-general-sur-la-protection-des-donnees-personnel-petit-guide-pour-entreprises_rgpd/)".
 
 Autre élément de réponse : les barrières à l’entrée constituée par les App Store. Le système de rémunération applicatif d’Apple, mis en place il y a près de 10 ans et copié par Google pour Android, est aujourd’hui très bien implanté et génère plusieurs milliards de dollars de revenus. Il offre aux éditeurs la possibilité de commercialiser leur production et d’inclure des modalités d'achat à la volée au sein de l'application via des App Stores. Le gestionnaire de l'App Store assure la rotation de l'offre, la cohérence de l’expérience utilisateur et touche une commission.

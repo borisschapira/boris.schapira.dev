@@ -4,7 +4,7 @@ translations:
     en: winry-8-mars
 ---
 
-10yo's contribution to International Women's Day, Winry from Fullmetal Alchemist. 
+10yo's contribution to International Women's Day, Winry from Fullmetal Alchemist.
 
 She has her own story, apprentices to become the best in her profession, makes mistakes and corrects them responsibly, is in love but that doesn't change her determination to achieve her goals. She rocks!
 

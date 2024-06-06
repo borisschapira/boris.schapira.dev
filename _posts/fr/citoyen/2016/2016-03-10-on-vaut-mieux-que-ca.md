@@ -32,5 +32,7 @@ J'en arrive au plus triste : au risque de perdre une partie de la gauche[^pierre
 <iframe loading="lazy" title="Audio Player" style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1674229897/size=large/bgcol=ffffff/linkcol=d00b6d/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://l1consolable.bandcamp.com/track/on-vaut-mieux-que-a">On vaut mieux que ça! by L&#39;1consolable</a></iframe>
 
 [^pierre]: y compris dans les rangs de la Ministre dont la plume, [Pierre Jacquemain, a claqué la porte du cabinet](http://www.humanite.fr/pourquoi-jai-demissionne-du-cabinet-el-khomri-600542).
+
 [^rapport]: Rapport "[La négociation collective, le travail et l’emploi](/assets/docs/2016-03-10/rapport_combrexelle.pdf)", dont une [synthèse](/assets/docs/2016-03-10/synthese_combrexelle.pdf) est également disponible.
+
 [^1]: en français : syndrome d'épuisement professionnel.

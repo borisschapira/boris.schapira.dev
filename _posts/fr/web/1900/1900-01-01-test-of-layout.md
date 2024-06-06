@@ -189,6 +189,7 @@ Footnote 2 link[^second].
 Duplicated footnote reference[^second].
 
 [^first]: Footnote **can have markup**
+
 [^second]: Footnote text can be long lorem ipsum dolor sit amet, consectetur adipiscing elit. Primum cur ista res digna odio est, nisi quod est turpis? Ita nemo beato beatior. Duo Reges: constructio interrete. Sed tu istuc dixti bene Latine, parum plane. Polemoni et iam ante Aristoteli ea prima visa sunt, quae paulo ante dixi
 
 ### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)

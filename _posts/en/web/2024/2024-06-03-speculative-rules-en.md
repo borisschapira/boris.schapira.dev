@@ -44,7 +44,7 @@ I find that the rules set by this API are **elegantly designed** and easy to com
 </script>
 ```
 
-Or in the form of a snippet to be integrated into your tag manager (for an A/B test, for example) 
+Or in the form of a snippet to be integrated into your tag manager (for an A/B test, for example)
 
 ```
 (function () {
@@ -72,7 +72,7 @@ You also have the option to use `prerender` instead of `prefetch`. However, let 
 
 First of all, it's worth pointing out that even though the functionality has been deployed in Chrome for a few months, **it's still new**. Certain alchemies, such as the `prefetch` speculation coupled with a Service Worker, don't work yet. Nothing dramatic, but caution is the better part of valour.
 
-Speculative prefetching and prerendering, while beneficial for some users' experience, **carries the risk of wasting resources**: bandwidth and server resources if the prefetched data isn't used because the user doesn't navigate to the prefetched page. 
+Speculative prefetching and prerendering, while beneficial for some users' experience, **carries the risk of wasting resources**: bandwidth and server resources if the prefetched data isn't used because the user doesn't navigate to the prefetched page.
 
 If your goal is to enhance your website's sustainability or if you're required to report on it (for instance, due to the European corporate sustainability reporting directive), it might not be the best strategy to artificially inflate the number of pages your servers compute and deliver and your users load.[^press]
 

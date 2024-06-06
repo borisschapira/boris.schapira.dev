@@ -68,6 +68,7 @@ To get to the heart of the matter faster, you can use one of the many _analysis 
 But the strength of these services is also their weakness: they only measure what they are asked to measure. They can't tell if the sites are fast _for people_. If you need to get this information, you will have to turn to analytics or real user metrics (RUM). The analytics services you already use, like Google Analytics, may track sufficient web performance Real User Metrics (RUM) [^5], but to go further in assessing user frustration, you will have to turn to more elaborate solutions [^6]. However, you'll often need to get your hands into your code to implement this.
 
 [^5]: For example, [Google Analytics](https://support.google.com/analytics/answer/1205784?hl=en). Personally, I use Matomo.
+
 [^6]: About this, see "[User Experience & Performance: Metrics that Matter](https://www.youtube.com/watch?v=nEHsHioWY1U&feature=youtu.be)", by Philip Tellis.
 
 However, if your website is public and receives a lot of visits, you can use _field data collected by others_. These datasets are handy, because they are accessible without installing anything on the sites and therefore, as with synthetic tools, you can make comparisons between sites. The data is not necessarily difficult to retrieve, but may be incomplete (for example, only reporting the performance of Chrome's users, not the other browsers [^7]).
@@ -123,6 +124,7 @@ This is especially true, since it is sometimes difficult to talk about the same 
 Often the best way of addressing your own, specific needs is when you use your own metrics using _customized time milestones_. On the server side, these are called Server Timings [^10]. On the browser side, these are called User Timings [^11]. Contrary to other metrics, they correspond to what your team chooses to monitor. You can find them when you analyze the page in your browser's development tools and they are collectable by all the analysis tools. Why not use them?
 
 [^10]: "[MDN Server-Timing Documentation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Server-Timing)".
+
 [^11]: "[Custom Timing : attendez la prochaine frame quand vous utilisez la User Timing API](https://boris.schapira.dev/notes/2019-09-custom-timing-prochaine-frame/)".
 
 {% include rwd-image.html.liquid

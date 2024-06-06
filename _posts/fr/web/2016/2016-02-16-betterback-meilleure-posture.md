@@ -10,6 +10,7 @@ Suite aux conseils de mon cousin, je me suis procuré un [<span lang="en">Better
 Au début, je me suis demandé comment ça se mettait mais en réalité, il suffit d'une seule utilisation pour "piger le truc" [^nda]. Plusieurs collègues me l'ont emprunté pour essayer et ont confirmé la facilité d'utilisation[^nda2].
 
 [^nda]: Il y a plein de choses comme ça dans la vie, moins compliquées qu'elles en ont l'air. Donc les enfants, sortez couverts.
+
 [^nda2]: Bon, là, clairement, il faut arrêter la blague, ça devient sale.
 
 {% include media/youtube.html.liquid id="hh7FRU3Qjzw" title="BetterBack—Perfect Posture Effortlessly" %}

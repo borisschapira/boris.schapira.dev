@@ -157,17 +157,31 @@ Les illustrations présentes dans cet article sont issues du [projet Undraw](htt
 Merci à [Carine Sobisiak](https://twitter.com/CarineSobisiak), Olivier Rundstadler et [Nicolas Goutay](https://twitter.com/Phacks) pour leurs relectures et leurs suggestions.
 
 [^1]: « [Mettre en place une stratégie de performance web](https://boris.schapira.dev/community/performance-web/) » lors de Sud Web 2012.
+
 [^2]: Romuald Priol en parle très bien dans l’article « [Les impacts du numérique : bonnes pratiques pour un Web plus écologique](https://news.infomaniak.com/web-ecologique/) ».
+
 [^3]: [WPOStats.com](https://wpostats.com/) recense des études de cas et expériences démontrant l’impact de l’optimisation des performances web sur l’expérience d’utilisation et le succès commercial.
+
 [^4]: « [Front-End Performance Checklist 2020: the PDF](https://www.dropbox.com/s/k1oxe5vyrli83zf/performance-checklist-1.3.pdf?dl=0) », 166 Ko.
+
 [^5]: [Dareboost](https://www.dareboost.com), sur lequel je travaille, est un de ces outils et j’en suis très fier, mais c’est loin d’être le seul. <a href="https://calibreapp.com/" lang="en" hreflang="en">Calibre</a>, <a href="https://speedcurve.com/" lang="en" hreflang="en">Speedcurve</a>, <a href="https://gtmetrix.com/" lang="en" hreflang="en">GTMetrix</a>, <a href="https://www.pingdom.com/" lang="en" hreflang="en">Pingdom</a>, entre autres, proposent également des rapports instantanés et du suivi. Les équipes de développement peuvent également utiliser <a href="https://developers.google.com/web/tools/lighthouse/" lang="en" hreflang="en">Lighthouse</a> ou <a href="https://webhint.io/" lang="en" hreflang="en">WebHint</a> sur leurs postes.
+
 [^6]: Exemple avec « [Analyser la vitesse de chargement d’un site web via Google Analytics](https://www.fasterize.com/fr/blog/analyser-la-performance-dun-site-web-via-google-analytics/) » par Anthony Barré mais personnellement, je collecte avec Matomo.
+
 [^7]: Voir à ce sujet « [User Experience & Performance: Metrics that Matter](https://www.youtube.com/watch?v=nEHsHioWY1U&feature=youtu.be) », par Philip Tellis.
+
 [^8]: Il s’agit ici du [Chrome User Experience Report](https://developers.google.com/web/tools/chrome-user-experience-report), ou CrUX pour les intimes.
+
 [^9]: « [Comment interpréter les mesures de performance réelles (RUM metrics)](https://www.youtube.com/watch?reload=9&v=9PBeqHXk7zw&feature=youtu.be) », par Gilles Dubuc.
+
 [^10]: « [Speed Index : tout savoir sur cet indicateur majeur de la performance web](https://blog.dareboost.com/fr/2018/02/speed-index-performance-web/) », par Damien Jubeau.
+
 [^11]: « [MDN Server-Timing Documentation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Server-Timing) ».
+
 [^12]: « [Custom Timing : attendez la prochaine frame quand vous utilisez la User Timing API](https://boris.schapira.dev/notes/2019-09-custom-timing-prochaine-frame/) ».
+
 [^13]: « [Mind over Matter: Optimize Performance Without Code](https://stephaniewalter.design/blog/mind-over-matter-optimize-performance-without-code-csscamp-2019/) », par Stéphanie Walter.
+
 [^14]: La solution française de référence, c’est [Fasterize](https://www.fasterize.com/fr/comment-ca-marche/).
+
 [^15]: [Opquast](https://www.opquast.com/), la certification des <abbr title="professionels" aria-hidden="true">professionnel·les</abbr> du Web.
