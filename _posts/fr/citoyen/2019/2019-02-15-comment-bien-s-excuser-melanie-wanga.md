@@ -2,6 +2,8 @@
 title: '"Comment bien s''excuser", par Mélanie Wanga'
 description: >-
     Pour tous ceux qui savent qu'ils ont merdé mais qui n'ont jamais appris à s'excuser, ou qui ne sont pas sûrs de savoir comment faire, quelques recommandations.
+translations:
+    en: comment-bien-s-excuser-melanie-wanga
 ---
 
 Ce tutoriel de Mélanie Wanga sur la manière dont on peut s'excuser est une perle. Je l'ai écouté au moins 200 fois. Il est court, précis et m'a permis, plus qu'à mon tour, d'interroger la manière dont je présentais des excuses, dans le milieu professonnel comme auprès de mes proches.

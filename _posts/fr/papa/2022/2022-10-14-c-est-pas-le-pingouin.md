@@ -1,5 +1,7 @@
 ---
 title: C'est pas le pingouin…
+translations:
+    en: they-are-not-the-penguin
 ---
 
 Vous connaissez ces expressions méchantes mais assez drôles qui permettent de dire, sans vraiment le dire, que quelqu'un n'est pas vraiment exceptionnel ?
