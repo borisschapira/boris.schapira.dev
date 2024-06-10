@@ -201,6 +201,7 @@ title: 'Boris Schapira'
 email: borisschapira@gmail.com
 description: "Site de Boris Schapira. Notes personnelles, professionnelles, citoyennes et autres répertoires de ma vie numérique."
 url: "https://boris.schapira.dev"
+prod_url: "https://boris.schapira.dev"
 timezone: Europe/Paris
 incremental: true
 encoding: utf-8

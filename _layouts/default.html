@@ -69,6 +69,9 @@ layout: microtypo
 
     {% if page.canonical %}
       <link rel="canonical" href="{{ page.canonical }}" data-proofer-ignore/>
+      {% else %}
+      {% capture url_path %}{{site.prod_url}}{{page.url}}{% endcapture %}
+      <link rel="canonical" href="{{ url_path }}" data-proofer-ignore/>
     {% endif %}
 
     <meta name="description" content="{{ page.social.description }}" />
