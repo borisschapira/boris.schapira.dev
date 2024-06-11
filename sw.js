@@ -134,8 +134,6 @@ catch (e) { }
 /******/ 	
 /************************************************************************/
 var __webpack_exports__ = {};
-// This entry need to be wrapped in an IIFE because it need to be isolated against other modules in the chunk.
-(() => {
 
 // EXTERNAL MODULE: ./node_modules/.pnpm/workbox-core@7.1.0/node_modules/workbox-core/_version.js
 var _version = __webpack_require__(508);
@@ -5995,8 +5993,6 @@ self.addEventListener('message', event => {
 });
 skipWaiting();
 clientsClaim();
-})();
-
 /******/ })()
 ;
 //# sourceMappingURL=sw.js.map
