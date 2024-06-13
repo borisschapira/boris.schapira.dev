@@ -25,11 +25,6 @@
       "prettier --write '{,!(vendor)/**/2019/*.md}'"
     ]
   },
-  "config": {
-    "css_dir": "_src/styles/css/",
-    "scss_dir": "_src/styles/scss/",
-    "dist_dir": "assets/styles/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/borisschapira/jekyll-bs.git"
