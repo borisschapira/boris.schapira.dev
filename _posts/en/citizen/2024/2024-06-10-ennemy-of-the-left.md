@@ -1,7 +1,7 @@
 ---
 title: Emmanuel Macron wants to see the left die
 translations:
-  fr: ennemi-de-la-gauche
+    fr: ennemi-de-la-gauche
 ---
 
 A few hours ago, Emmanuel Macron dissolved the National Assembly following the French result in the European elections1[^resultats]. A part of me doesn't understand this decision, and the other is afraid of understanding it too well...
@@ -68,17 +68,17 @@ Whether it's via Emmanuel Macron or the RN, the far right is getting more entren
 
 ## And if the left "wins"?
 
-So let's be honest for a minute. "Winning", in this context, will be bettersweet. 
+So let's be honest for a minute. "Winning", in this context, will be bettersweet.
 
 Since 2022, in the National Assembly, we have:
 
-- ~90 RN
-- ~60 LR
-- ~250 Renaissance (presidential party)
-- ~30 LIOT/non-attached members
-- and ~150 Nupes
+-   ~90 RN
+-   ~60 LR
+-   ~250 Renaissance (presidential party)
+-   ~30 LIOT/non-attached members
+-   and ~150 Nupes
 
-Knowing that ~290 MPs are needed for an absolute majority, the left is currently not a sufficient force to defend a text. Even if we add Liot and the Non-attached Members. 
+Knowing that ~290 MPs are needed for an absolute majority, the left is currently not a sufficient force to defend a text. Even if we add Liot and the Non-attached Members.
 
 For the left to really "win" these elections, i.e. to become a real reservoir of votes for the presidential party, many constituencies would have to be convinced that the left is a better alternative than remaining loyal to Renaissance or voting RN. I'd like to see that happen, but in view of what's just happened in the European elections, I don't think it's going to happen.
 
@@ -92,41 +92,41 @@ For the moment, RN MPs have little say in the drafting of the law. On the other 
 
 On wages and living standards, **the RN is making the French poorer** by voting:
 
-- against increases in the minimum wage, civil servants' pay and housing benefit
-- for the tightening of all unemployment conditions (end of rights after giving up a job, tightening and abolition of benefits)
-- against indexation of wages (on the cost of living)
-- against freezing rents or freezing the price of basic necessities
-- against free school meals and supplies
-- against increasing student grants (despite supposedly meritocratic values)
+-   against increases in the minimum wage, civil servants' pay and housing benefit
+-   for the tightening of all unemployment conditions (end of rights after giving up a job, tightening and abolition of benefits)
+-   against indexation of wages (on the cost of living)
+-   against freezing rents or freezing the price of basic necessities
+-   against free school meals and supplies
+-   against increasing student grants (despite supposedly meritocratic values)
 
 **The RN supports the order of capital and high wages**, voting :
 
-- against wage controls
-- against the wealth tax
-- against the abolition of public subsidies for companies that pay dividends without increasing their workforce
-- against the fight against tax fraud
-- in favour of video surveillance
+-   against wage controls
+-   against the wealth tax
+-   against the abolition of public subsidies for companies that pay dividends without increasing their workforce
+-   against the fight against tax fraud
+-   in favour of video surveillance
 
 And as a result, the RN votes **for anything that weakens and privatises public services**:
 
-- against funding for universities, hospitals, fire brigades, the National Financial Prosecutor's Office or court clerks ( you betcha...)
-- against lowering VAT on public transport
-- for the abolition of the audiovisual licence fee, leading to a radical overhaul of public broadcasting at a time when it has never been so successful
+-   against funding for universities, hospitals, fire brigades, the National Financial Prosecutor's Office or court clerks ( you betcha...)
+-   against lowering VAT on public transport
+-   for the abolition of the audiovisual licence fee, leading to a radical overhaul of public broadcasting at a time when it has never been so successful
 
 Finally, the RN is **the enemy of social responsibility and ecological transition**, voting:
 
-- against the conditioning of public aid to companies complyinh with ecological constraints
-- against regulating the installation of doctors in areas where there are already enough of them
-- against gender equality measures such as increasing women's access to positions of responsibility in the civil service
-- against the vegetarian option in canteens (even though it would reduce costs for all children)
-- against abolishing the niche tax on aviation fuel
-- against a climate wealth tax
-- against taxing yachts and private jets
-- against the obligation for companies financed by the France 2030 plan to publish a carbon balance sheet
-- for the exclusion of kitchen utensils from the ban on eternal pollutants (PFAS)
-- against combating sectarian organisations
-- for oil-fired heating, for limiting the use of wind turbines, including in the open sea, and against the compulsory installation of solar panels on large car parks;
-- and against all forms of inclusive writing.
+-   against the conditioning of public aid to companies complyinh with ecological constraints
+-   against regulating the installation of doctors in areas where there are already enough of them
+-   against gender equality measures such as increasing women's access to positions of responsibility in the civil service
+-   against the vegetarian option in canteens (even though it would reduce costs for all children)
+-   against abolishing the niche tax on aviation fuel
+-   against a climate wealth tax
+-   against taxing yachts and private jets
+-   against the obligation for companies financed by the France 2030 plan to publish a carbon balance sheet
+-   for the exclusion of kitchen utensils from the ban on eternal pollutants (PFAS)
+-   against combating sectarian organisations
+-   for oil-fired heating, for limiting the use of wind turbines, including in the open sea, and against the compulsory installation of solar panels on large car parks;
+-   and against all forms of inclusive writing.
 
 Finally, during the debate on **the pension reform**, their opposition was superficial. They applauded the conclusion and even though in their programme they propose retirement at 62, it is under the guise of drastic conditions. When it came to the vote on the revaluation of small pensions, they voted... against.
 

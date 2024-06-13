@@ -1,7 +1,7 @@
 ---
 title: Emmanuel Macron veut voir la gauche mourir
 translations:
-  en: ennemy-of-the-left
+    en: ennemy-of-the-left
 ---
 
 Il y a quelques heures, Emmanuel Macron a dissous l'Assemblée Nationale à la suite du résultat français aux élections européennes[^resultats]. Une part de moi ne comprends pas cette décision et l'autre a peur de trop bien comprendre…
@@ -12,9 +12,9 @@ Il y a quelques heures, Emmanuel Macron a dissous l'Assemblée Nationale à la s
 
 Déjà, posons la réalité des impacts : **le groupe d'extrême droite au Parlement européen est ridicule**.
 
-Même avec 30 siège de plus, le groupe identitaire reste très petit (à peine 8 % des sièges), très loin derrière les 180+ députés populistes (<i lang="en">European Populist Party</i>, aka la droite pour nous puisque c'est là que siège encore les Républicains) et les 130 parlementaires socialistes et démocrates (<i lang="en">S&D</i>). 
+Même avec 30 siège de plus, le groupe identitaire reste très petit (à peine 8 % des sièges), très loin derrière les 180+ députés populistes (<i lang="en">European Populist Party</i>, aka la droite pour nous puisque c'est là que siège encore les Républicains) et les 130 parlementaires socialistes et démocrates (<i lang="en">S&D</i>).
 
-**L'activité des élus RN est négligeable**, avec une très faible force de proposition. Jordan Bardella a signé 21 amendements entre 2019 et 2024 contre plusieurs centaines, voire milliers, pour Manon Aubry ou François-Xavier Bellamy. Il n'est rapporteur d'aucun texte contre trois pour la parlementaire écologiste Marie Toussaint. 
+**L'activité des élus RN est négligeable**, avec une très faible force de proposition. Jordan Bardella a signé 21 amendements entre 2019 et 2024 contre plusieurs centaines, voire milliers, pour Manon Aubry ou François-Xavier Bellamy. Il n'est rapporteur d'aucun texte contre trois pour la parlementaire écologiste Marie Toussaint.
 
 Ce n'est pas que la faute du RN : les autres groupes appliquent une forme de cordon sanitaire et bloquent les marges de manœuvre du groupe identitaire (et à mon sens, c'est une bonne chose). L'élu RN fait donc acte de présence pour éviter un nouveau procès pour emploi fictif, Marine Le Pen venant de rembourser 300k€ au Parlement…
 
@@ -60,23 +60,23 @@ La Nouvelle Union Populaire Écologique et Sociale (Nupes) est une coalition de 
 
 **C'est une nécessité**, car peu importe ce qu'on pense de tel ou tel candidat de gauche, ce sont globalement des démocrates. Oui, il y a des gens de gauche qui discrimine, il y a des agresseurs sexuels, des charlatans, des influenceurs populistes et des écocidaires. Mais si vous le savez, c'est que l'information circule. C'est qu'il y a des enquêtes. C'est qu'il y a **des processus internes** et **une perméabilité au travail journalistique** pour permettre cette transparence, sans équivalent à droite et à l'extrême droite. On ne vois pas des problèmes parce qu'ils existent, on les voit parce que la loi du silence n'y est pas aussi forte.
 
-Évidemment, nous, les gens de gauche devrions faire le ménage plus vite. Franchement, aller militer à gauche sachant que machin ou bidule, dont on sait pertinemment qu'ils sont très problématiques, sont en lice pour un nouveau poste, ça me fait mal. Peut-on attendre d'avoir fait ce ménage avant de remettre la gauche au pouvoir ? J'en doute. 
+Évidemment, nous, les gens de gauche devrions faire le ménage plus vite. Franchement, aller militer à gauche sachant que machin ou bidule, dont on sait pertinemment qu'ils sont très problématiques, sont en lice pour un nouveau poste, ça me fait mal. Peut-on attendre d'avoir fait ce ménage avant de remettre la gauche au pouvoir ? J'en doute.
 
 Que ce soit via Emmanuel Macron ou le RN, l'extrême droite s'installe davantage chaque jour et les portes se referment d'élection en élection. **Quand nous aurons enfin notre gauche idéale sous la main, nous n'aurons plus le droit de voter pour elle**.
 
 ## Et si la gauche "gagne" ?
 
-Alors on va être honnête deux minutes. "Gagner", dans ce contexte, c'est pas non plus la panacée. 
+Alors on va être honnête deux minutes. "Gagner", dans ce contexte, c'est pas non plus la panacée.
 
 Depuis 2022, à l'Assemblée Nationale, on est à :
 
-- ~90 RN ;
-- ~60 LR ;
-- ~250 Renaissance ;
-- ~30 LIOT/non-inscrits ;
-- et ~150 Nupes.
+-   ~90 RN ;
+-   ~60 LR ;
+-   ~250 Renaissance ;
+-   ~30 LIOT/non-inscrits ;
+-   et ~150 Nupes.
 
-Sachant qu'il faut ~290 députés pour une majorité absolue, la gauche n'est aujourd'hui pas une force suffisante pour défendre un texte. Même en ajoutant Liot et les non-inscrits. 
+Sachant qu'il faut ~290 députés pour une majorité absolue, la gauche n'est aujourd'hui pas une force suffisante pour défendre un texte. Même en ajoutant Liot et les non-inscrits.
 
 Pour que la gauche "gagne" vraiment ces élections, c'est-à-dire qu'elle devienne un vrai réservoir de voix pour le parti présidentiel, il faudrait convaincre de nombreuses circonscriptions que la gauche est une meilleure alternative que de rester fidèle à Renaissance ou de voter RN. J'aimerais qu'on y arrive, mais au regard de ce qui vient de se passer pour les européennes, je n'ai pas l'intuition qu'on y arrive.
 
@@ -90,41 +90,41 @@ Pour l'instant, les députés RN participent peu à l'écriture de la loi. En re
 
 Sur les salaires et le pouvoir d'achat, **le RN paupérise les français·es** :
 
-- contre l'augmentation du SMIC, du salaire des fonctionnaires, des APL ;
-- pour le durcissement de toutes les conditions du chômage (fin des droits après un abandon de poste, durcissement et suppression des allocations) ;
-- contre l'indexation des salaires ;
-- contre le gel des loyers ou le blocage du prix des produits de première nécessité ;
-- contre la gratuité des cantines et fournitures scolaires ;
-- contre la revalorisation des bourses étudiantes (en dépit de valeurs soi-disant méritocrates).
+-   contre l'augmentation du SMIC, du salaire des fonctionnaires, des APL ;
+-   pour le durcissement de toutes les conditions du chômage (fin des droits après un abandon de poste, durcissement et suppression des allocations) ;
+-   contre l'indexation des salaires ;
+-   contre le gel des loyers ou le blocage du prix des produits de première nécessité ;
+-   contre la gratuité des cantines et fournitures scolaires ;
+-   contre la revalorisation des bourses étudiantes (en dépit de valeurs soi-disant méritocrates).
 
 **Le RN soutient l'ordre du capital et des hauts salaires**, votant :
 
-- contre l'encadrement des salaires ;
-- contre l'ISF ;
-- contre la suppression des aides publiques aux entreprises qui versent des dividendes sans augmenter leurs salariés ;
-- contre la lutte contre la fraude fiscale ;
-- pour la vidéosurveillance.
+-   contre l'encadrement des salaires ;
+-   contre l'ISF ;
+-   contre la suppression des aides publiques aux entreprises qui versent des dividendes sans augmenter leurs salariés ;
+-   contre la lutte contre la fraude fiscale ;
+-   pour la vidéosurveillance.
 
 Et par incidence, le RN vote tout ce qui permet **d'affaiblir et de privatiser les services publics** votant :
 
-- contre le financement de l'Université, des hôpitaux, des sapeurs-pompiers, du Parquet National Financier ou des greffiers (tu m'étonnes…) ;
-- contre la baisse de la TVA sur les transports en commun ;
-- pour la suppression de la redevance audiovisuelle, amenant à une refonte profonde de l'audiovisuel public alors même qu'il n'a jamais eu autant de succès.
+-   contre le financement de l'Université, des hôpitaux, des sapeurs-pompiers, du Parquet National Financier ou des greffiers (tu m'étonnes…) ;
+-   contre la baisse de la TVA sur les transports en commun ;
+-   pour la suppression de la redevance audiovisuelle, amenant à une refonte profonde de l'audiovisuel public alors même qu'il n'a jamais eu autant de succès.
 
 Enfin, le RN est **l'ennemi de la responsabilité sociale et de la transition écologique**, votant :
 
-- contre le conditionnement des aides publiques aux entreprises sous couvert de respect de contraintes écologiques ;
-- contre la régulation de l'installation des médécins dans les zones déjà pourvues ;
-- contre les dispositions d'égalité femmes-hommes comme le renfort de l'accès aux femmes aux postes à responsabilité de la fonction publique ;
-- contre l'option végétarienne à la cantine (alors même que ça réduirait les coûts pour l'ensemble des enfants);
-- contre la suppression de la niche fiscale sur le kérosène aérien ;
-- contre un impôt sur la fortune climatique ;
-- contre la taxation des yachts et jets privés ;
-- contre l'obligation pour les entreprises financées par le plan France 2030 à publier un bilan carbone
-- pour l'exclusion des ustensiles de cuisine de l'interdiction des polluants éternels (PFAS) ;
-- contre la luttte contre les dérives sectaires ;
-- pour le chauffauge au fuel, pour la limitation des éoliennes, y compris en pleine mer et contre l'obligation d'installation de panneaux solaires sur les grands parkings ;
-- et contre toute forme d'écriture inclusive.
+-   contre le conditionnement des aides publiques aux entreprises sous couvert de respect de contraintes écologiques ;
+-   contre la régulation de l'installation des médécins dans les zones déjà pourvues ;
+-   contre les dispositions d'égalité femmes-hommes comme le renfort de l'accès aux femmes aux postes à responsabilité de la fonction publique ;
+-   contre l'option végétarienne à la cantine (alors même que ça réduirait les coûts pour l'ensemble des enfants);
+-   contre la suppression de la niche fiscale sur le kérosène aérien ;
+-   contre un impôt sur la fortune climatique ;
+-   contre la taxation des yachts et jets privés ;
+-   contre l'obligation pour les entreprises financées par le plan France 2030 à publier un bilan carbone
+-   pour l'exclusion des ustensiles de cuisine de l'interdiction des polluants éternels (PFAS) ;
+-   contre la luttte contre les dérives sectaires ;
+-   pour le chauffauge au fuel, pour la limitation des éoliennes, y compris en pleine mer et contre l'obligation d'installation de panneaux solaires sur les grands parkings ;
+-   et contre toute forme d'écriture inclusive.
 
 Enfin, lors du débat sur **les retraites**, leur opposition était de façade. Ils ont applaudi la conclusion et même si dans leur programme, ils proposent la retraite à 62 ans, c'est sous couvert de conditions drastiques. Lors du vote sur la revalorisation des petites retraites, ils ont voté… contre.
 
