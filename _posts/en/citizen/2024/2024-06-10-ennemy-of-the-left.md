@@ -115,7 +115,7 @@ And as a result, the RN votes **for anything that weakens and privatises public 
 
 Finally, the RN is **the enemy of social responsibility and ecological transition**, voting:
 
--   against the conditioning of public aid to companies complyinh with ecological constraints
+-   against the conditioning of public aid to companies complying with ecological constraints
 -   against regulating the installation of doctors in areas where there are already enough of them
 -   against gender equality measures such as increasing women's access to positions of responsibility in the civil service
 -   against the vegetarian option in canteens (even though it would reduce costs for all children)

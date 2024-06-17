@@ -90,7 +90,7 @@ Today, the technical knowledge on web performance is largely consensual and test
 
 And yet... if you look at the field data, you can see that the performance of most sites isn't really improving, for example looking at First Contentful Paint, one of the well-known metrics for measuring when the page starts becoming useful, we see no real change over time:
 
-{% capture img_alt %}Evolution of the First Contentful Paint metric from January 2017 to August 2020, measured in Mobile and Desktop contexts.In both cases, fluctuations are present and often correlated between the two contexts, but overall, the average value shows little variation or even deterioration.{% endcapture -%}{% capture img_caption %}Evolution of the First Contentful Paint metric from January 2017 to August 2020. Source: <a href="https://httparchive.org/reports/loading-speed#fcp">HttpArchive</a>{% endcapture -%} {% include rwd-image.html.liquid
+{% capture img_alt %}Evolution of the First Contentful Paint metric from January 2017 to August 2020, measured in Mobile and Desktop contexts. In both cases, fluctuations are present and often correlated between the two contexts, but overall, the average value shows little variation or even deterioration.{% endcapture -%}{% capture img_caption %}Evolution of the First Contentful Paint metric from January 2017 to August 2020. Source: <a href="https://httparchive.org/reports/loading-speed#fcp">HttpArchive</a>{% endcapture -%} {% include rwd-image.html.liquid
 path="/assets/images/web/2020-12-02/timeseries_fcp.png"
 alt=img_alt
 caption=img_caption

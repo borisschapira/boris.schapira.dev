@@ -66,7 +66,7 @@ Tell the browser that for all the URLs in the current domain `/*`, it can prefet
 
 Is it that simple? It is.
 
-You also have the option to use `prerender` instead of `prefetch`. However, let me emphasis that if the `prerender` rule is applied, it would fetch **and process** the resource in advance, which includes _fetching subresources_ as well, whether they're from first or third parties.
+You also have the option to use `prerender` instead of `prefetch`. However, let me emphasis that if the `prerender` rule is applied, it would fetch **and process** the resource in advance, which includes _fetching sub-resources_ as well, whether they're from first or third parties.
 
 ## Should We Hold Your Horses?
 
@@ -82,7 +82,7 @@ From the server side, the use of Speculative Rules can potentially pose a risk t
 
 Using the Speculative Rules API is therefore not just about enhancing UX, but should be the fruit of an informed decision-making. We can also optimise the rules: as website administrators, we can use behavioral analytics to gain insights into popular pages and user navigation patterns. This information can help us determine whether prefetching would enhance or detract from our users' experience.
 
-Last but not least, the use of the Speculative Rules API can be likened to a form of user hover tracking. If hovering over a link or dragging the mouse pointer over a link triggers a `prefetch` or a `prerender` then all we need to do is consult the server logs to find out what interested a user, or users, whether they visit the pagew... or not[^gdpr].
+Last but not least, the use of the Speculative Rules API can be likened to a form of user hover tracking. If hovering over a link or dragging the mouse pointer over a link triggers a `prefetch` or a `prerender` then all we need to do is consult the server logs to find out what interested a user, or users, whether they visit the page... or not[^gdpr].
 
 [^gdpr]: If the data is processed in this way, it should –at least in the European Union– be subject to consent.
 
