@@ -5,7 +5,6 @@ permalink: /_headers
   Cache-Control: max-age=7200, private
   X-Frame-Options: SAMEORIGIN
   X-XSS-Protection: 1; mode=block
-  X-Champcevinel: "Squirrel powa!"
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security{% unless jekyll.environment == "production" %}-Report-Only{% endunless%}: max-age=63072000; includeSubDomains; preload
   Report-To: {"group":"default","max_age":31536000,"endpoints":[{"url":"https://borisschapira.report-uri.com/a/d/g"}],"include_subdomains":true}
