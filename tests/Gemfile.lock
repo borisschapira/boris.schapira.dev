@@ -20,7 +20,7 @@ GEM
     fiber-annotation (0.2.0)
     fiber-local (1.1.0)
       fiber-storage
-    fiber-storage (0.1.1)
+    fiber-storage (0.1.2)
     hashery (2.1.2)
     html-proofer (5.0.9)
       addressable (~> 2.3)
@@ -34,7 +34,7 @@ GEM
     io-event (1.6.4)
     json (2.7.2)
     mini_portile2 (2.8.7)
-    nokogiri (1.16.5)
+    nokogiri (1.16.6)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     pdf-reader (2.12.0)
@@ -43,7 +43,7 @@ GEM
       hashery (~> 2.0)
       ruby-rc4
       ttfunk
-    public_suffix (5.0.5)
+    public_suffix (5.1.0)
     racc (1.8.0)
     rainbow (3.1.1)
     ruby-rc4 (0.1.5)
@@ -52,7 +52,7 @@ GEM
     typhoeus (1.4.1)
       ethon (>= 0.9.0)
     yell (2.2.2)
-    zeitwerk (2.6.15)
+    zeitwerk (2.6.16)
 
 PLATFORMS
   ruby
