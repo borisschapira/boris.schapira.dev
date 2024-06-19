@@ -3,6 +3,7 @@ title: "'How to apologise properly', translated"
 description: >-
     For all those who know they've screwed up but have never learned to apologise, or who aren't sure how to do it, here are a few recommendations.
 
+
 translations:
     fr: comment-bien-s-excuser-melanie-wanga
 ---
