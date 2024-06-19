@@ -22,9 +22,9 @@ $small-triangles: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   --dark-mode-lightup: 45%;
 }
 
-// ::selection {
-//   background-color: var(--color-selection);
-// }
+::selection {
+   background-color: var(--color-selection);
+}
 
 html {
   scrollbar-color: light;
@@ -119,11 +119,11 @@ a {
     calc(25% + 10% - 20% * var(--is-dark-mode))
   );
 
-  // --color-selection: hsl(
-  //   calc(var(--color-hue) + 180),
-  //   75%,
-  //   calc(60% - 15% * var(--is-dark-mode))
-  // );
+  --color-selection: hsl(
+     var(--color-hue),
+     100%,
+     calc(85% - var(--is-dark-mode) * 67%)
+   );
 
   --color-main-background: hsl(
     var(--color-hue),
