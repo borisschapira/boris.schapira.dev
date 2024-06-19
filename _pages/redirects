@@ -1,9 +1,7 @@
 ---
 permalink: /_redirects
 ---
-
 /bookmarks/ https://bookmarks.boris.schapira.dev/ 301!
-
 {% comment %} Well known {% endcomment -%}
 /android-chrome-192x192.png /.well-known/android-chrome-192x192.png 200
 /android-chrome-512x512.png /.well-known/android-chrome-512x512.png 200
@@ -18,16 +16,15 @@ permalink: /_redirects
 /mstile-150x150.png /.well-known/mstile-150x150.png 200
 /robots.txt /.well-known/robots.txt 200
 {% comment %} / well known {% endcomment -%}
-
-
 /wcbdx /community/performance-web-vers-la-speed-update-un-pas-aprs-lautre/ 301!
 /20190611-node /assets/docs/2019-06-11/20190611-node.pdf 301!
 /psconnect-bayonne /assets/docs/2019-07-05/psconnect-bayonne.pdf 301!
 /webinar-papis-du-web /assets/docs/2020-04-07/clever-age-papis.pdf 301!
 /ssq4 /assets/docs/2022-03-24/ssq4-boris-schapira-UX-technique.pdf 301!
 /notes/ / 301!
-/:year/:month/:slug/ /notes/:year-:month-:slug/ 301!
 /notes/2018-06-gros/ /notes/2018-06-beau-a-l-interieur/ 301!
 /notes/2022-02-/ /notes/2022-02-le-meilleur/ 301!
 /bdxio2022 /assets/docs/2022-12-02/bdxio-imposture-formation-continue.pdf 301!
 /wls2023 /assets/docs/2023-05-10/wls2023-parlons-de-valeur.pdf 301!
+{% comment %}301 instead of 301! to make sure styles are not rewrited{% endcomment -%}
+/:year/:month/:slug/ /notes/:year-:month-:slug/ 301
