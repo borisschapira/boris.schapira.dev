@@ -14,7 +14,7 @@ _Dernière mise à jour : {{ page.last_modified_at | l: "%B %Y" }}_
 -   **L'ordre non-genré** : lorsque le masculin et le féminin sont présents, les ordonner selon l'ordre alphabétique "l'égalité femmes-hommes".
 -   **L'accord de proximité** : accorder avec le dernier groupe nominal plutôt qu'à un masculin qui n'a rien de neutre.  
     Exemple : "les auditeurs et les auditrices ont été appelées à s'exprimer".
--   **Les épicènes** : recourir autant que possible aux mots permettent d'utiliser des formulations qui ne marquent pas le genre.  
+-   **Les épicènes** : recourir autant que possible aux mots permettant d'utiliser des formulations qui ne marquent pas le genre.  
     Exemple : "le personnel" plutôt que "les salariés". "L'équipe de développement" plutôt que "les développeurs".
 -   **Le point médian** quand, si on l'enlève, la phonétique du mot est proche du féminin. À l'usage, c'est ce qui est le moins gênant pour la lecture et permet de subtilement rappeler à l'existence de femmes dans le groupe.  
     Exemple : "les invité·es", "les amateur·ices", "les intelectuel·les", "les ingénieur·es"
