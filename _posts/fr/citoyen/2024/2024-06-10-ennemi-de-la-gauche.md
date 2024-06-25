@@ -2,6 +2,7 @@
 title: Emmanuel Macron veut voir la gauche mourir
 translations:
     en: ennemy-of-the-left
+last_modified_at: 2024-06-25
 ---
 
 Il y a quelques heures, Emmanuel Macron a dissous l'Assemblée Nationale à la suite du résultat français aux élections européennes[^resultats]. Une part de moi ne comprends pas cette décision et l'autre a peur de trop bien comprendre…
@@ -26,7 +27,7 @@ Mais alors pourquoi Macron agit-il comme il le fait ? Quelle est l'urgence ?
 
 Créer un rempart républicain pour lutter contre l'extrême droite, ce n'est pas pareil que créer une situation d'opposition à l'extrême droite pour créer un front républicain autour de lui.
 
-Déjà, auand on veut créer un rempart contre un adversaire politique, on emprunte pas la moitié de ses propositions. On ne propose pas des textes de lois en misant sur une majorité dans laquelle on inclut le RN.
+Déjà, quand on veut créer un rempart contre un adversaire politique, on n'emprunte pas la moitié de ses propositions. On ne propose pas des textes de lois en misant sur une majorité qui n'existe que si on inclut le RN.
 
 Mais sur une échéance comme une dissolution, si on veut permettre la construction d'un rempart, on lui donne les moyens d'exister, y compris en lui laissant le temps de se construire.
 
@@ -36,7 +37,7 @@ On s'oriente donc vers un second tour qui mettrait dans de nombreuses circonscri
 
 Dans les circonscriptions où un candidat RN sera face à une personne d'un autre parti que Renaissance, les consignes de vote seront données au cas par cas, en fonction de la prétendue compatibilité de cette personne avec la République (une qualification des plus subjectives, et qui sous-entend qu'on pourrait être moins compatible avec la République que le Rassemblement National). En réalité, il s'agira pour Renaissance de choisir qui sera le plus à même de voter les futurs projets de loi du Gouvernement.
 
-Bien sûr, cela va fonctionner. Et nous aurons le droit à un discours de la même trempe que "ce vote m'oblige", aussi vite prononcé qu'oublié, et **Emmanuel Macron considéra ensuite ce vote d'opposition au RN comme un vote d'adhésion**.
+Bien sûr, cela va fonctionner. Et nous aurons le droit à un discours de la même trempe que "ce vote m'oblige", aussi vite prononcé qu'oublié, et **Emmanuel Macron considéra ensuite ce vote d'opposition comme un vote d'adhésion**.
 
 Mais ce n'est pas tout. Cela permet de renforcer, encore une fois, le **bipartisme** qu'Emmanuel Macron appelle de ses vœux. D'un côté les démocrates, dont il se revendique, et de l'autre un parti de droite réactionnaire qu'il s'est choisi comme adversaire. Et la gauche ? Qu'elle disparaisse.
 
@@ -46,7 +47,7 @@ Ce pari extrêmement risqué, Emmanuel Macron l'a déjà pris, et il a toujours 
 
 Cette construction narrative lui permet d'intégrer progressivement tout ce que la politique comportait de socialistes et de démocrates (y compris de droite) et a vu une reconfiguration majeure du paysage à droite, avec un parti Les Républicains qui glisse vers les extrêmes au point d'en être difficilement distinguable et l'émergence d'un bloc identitaire à plusieurs facettes (le Rassemblement National, Reconquête…).
 
-Ce bloc qu'Emmanuel Macron renforce régulièrement à grand renfort de casse sociale (toujours du pain béni pour les populistes), de prises de paroles virilistes et de projets de loi xénophobe lui permet d'instrumentaliser la démocratie pour rester à la tête **d'un pays qu'il dirige ensuite d'une manière fort peu démocratique**, enchaînant les 49.3.
+Ce bloc qu'Emmanuel Macron renforce régulièrement à grands coups de casse sociale (toujours du pain béni pour les populistes), de prises de paroles virilistes et de projets de loi xénophobe lui permet d'instrumentaliser la démocratie pour rester à la tête **d'un pays qu'il dirige ensuite d'une manière fort peu démocratique**, enchaînant les 49.3.
 
 Des gens se demandent **si** Macron veut mettre l'extrême-droite au pouvoir pour prouver qu'elle est incapable de gouverner, d'autres les contredisent. Pour moi, ce n'est pas **"si"**, c'est **"quand"**.
 
@@ -58,9 +59,9 @@ Finalement, le vrai ennemi d'Emmanuel Macron, le courant politique qui n'existe 
 
 La Nouvelle Union Populaire Écologique et Sociale (Nupes) est une coalition de partis politiques de la gauche française, née en 2022 à la veille des dernières législatives. C'est **une union de circonstance**, dont l'objectif est la mise en place de candidatures uniques dans la majorité des circonscriptions. On garde les sortants peu importe leurs casseroles, et pour les autres circonscriptions, on prend les résultats des partis aux précédentes élections pour savoir qui on aligne.
 
-**C'est une nécessité**, car peu importe ce qu'on pense de tel ou tel candidat de gauche, ce sont globalement des démocrates. Oui, il y a des gens de gauche qui discrimine, il y a des agresseurs sexuels, des charlatans, des influenceurs populistes et des écocidaires. Mais si vous le savez, c'est que l'information circule. C'est qu'il y a des enquêtes. C'est qu'il y a **des processus internes** et **une perméabilité au travail journalistique** pour permettre cette transparence, sans équivalent à droite et à l'extrême droite. On ne vois pas des problèmes parce qu'ils existent, on les voit parce que la loi du silence n'y est pas aussi forte.
+**C'est une nécessité**, car peu importe ce qu'on pense de tel ou tel candidat de gauche, ce sont globalement des démocrates. Oui, il y a des gens de gauche qui discriminent, il y a des agresseurs sexuels, des charlatans, des influenceurs populistes et des écocidaires. Mais si vous le savez, c'est que l'information circule. C'est qu'il y a des enquêtes. C'est qu'il y a **des processus internes** et **une perméabilité au travail journalistique** pour permettre cette transparence, sans équivalent à droite et à l'extrême droite. On ne vois pas des problèmes parce qu'ils existent, on les voit parce que la loi du silence n'y est pas aussi forte.
 
-Évidemment, nous, les gens de gauche devrions faire le ménage plus vite. Franchement, aller militer à gauche sachant que machin ou bidule, dont on sait pertinemment qu'ils sont très problématiques, sont en lice pour un nouveau poste, ça me fait mal. Peut-on attendre d'avoir fait ce ménage avant de remettre la gauche au pouvoir ? J'en doute.
+Évidemment, nous, les gens de gauche, devrions faire le ménage plus vite. Franchement, aller militer à gauche sachant que machin ou bidule, dont on sait pertinemment qu'ils sont très problématiques, sont en lice pour un nouveau poste, ça me fait mal. Peut-on attendre d'avoir fait ce ménage avant de remettre la gauche au pouvoir ? J'en doute.
 
 Que ce soit via Emmanuel Macron ou le RN, l'extrême droite s'installe davantage chaque jour et les portes se referment d'élection en élection. **Quand nous aurons enfin notre gauche idéale sous la main, nous n'aurons plus le droit de voter pour elle**.
 
@@ -78,11 +79,11 @@ Depuis 2022, à l'Assemblée Nationale, on est à :
 
 Sachant qu'il faut ~290 députés pour une majorité absolue, la gauche n'est aujourd'hui pas une force suffisante pour défendre un texte. Même en ajoutant Liot et les non-inscrits.
 
-Pour que la gauche "gagne" vraiment ces élections, c'est-à-dire qu'elle devienne un vrai réservoir de voix pour le parti présidentiel, il faudrait convaincre de nombreuses circonscriptions que la gauche est une meilleure alternative que de rester fidèle à Renaissance ou de voter RN. J'aimerais qu'on y arrive, mais au regard de ce qui vient de se passer pour les européennes, je n'ai pas l'intuition qu'on y arrive.
+Pour que la gauche "gagne" vraiment ces élections, c'est-à-dire qu'elle devienne un vrai réservoir de voix pour le parti présidentiel, il faudrait convaincre de nombreuses circonscriptions que la gauche est une meilleure alternative que de rester fidèle à Renaissance ou de voter RN. J'aimerais qu'on y arrive, mais au regard de ce qui vient de se passer pour les européennes, je n'y crois pas.
 
 **Ce qui se joue ici, c'est la survie du groupe de gauche**, avec un groupe RN qui pourrait potentiellement doubler et composer le plus gros réservoir de voix pour faire passer des textes de loi.
 
-## Que fera le Rassemblement National
+## Que fera le Rassemblement National ?
 
 Pour l'instant, les députés RN participent peu à l'écriture de la loi. En revanche, leurs votes sont réels et devraient en toute logique être de plus en plus puissants[^votesRN].
 
@@ -132,6 +133,6 @@ Régulièrement interrogés sur ce qu'ils feraient de la réforme, ils annoncent
 
 Paradoxalement, le RN ne propose rien pour améliorer le niveau d'études, directement corrélé aux revenus, et donc aux futures retraites. Marine Le Pen a plusieurs fois insisté sur le fait que les jeunes devaient plus rapidement entrer sur le marché du travail, ce qui réduirait mécaniquement les coûts de l'Éducation Supérieure publique. C'est une constante pour l'extrême droite partout dans le monde : on ne finance pas les institutions susceptibles de former des opposants.
 
-Ce qui nous attend n'est donc pas glorieux : davantage d'inégalités, des services publics démantelés, une dette qui ne cesse de se creuser faute d'investissement sur des projets de long terme comme la transition écologique et aux prochaines élections, à nouveau, le choix entre la peste et le choléra.
+**Ce qui nous attend n'est donc pas glorieux : davantage d'inégalités, des services publics démantelés, une dette qui ne cesse de se creuser faute d'investissement sur des projets de long terme comme la transition écologique et aux prochaines élections, à nouveau, le choix entre la peste et le choléra.**
 
-Une seule solution : votez à gauche, maintenant et durablement.
+Une seule solution : votez à gauche, maintenant mais surtout durablement.
