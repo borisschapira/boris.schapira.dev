@@ -118,8 +118,8 @@ importers:
         specifier: ^4.4.0
         version: 4.4.0
       globby:
-        specifier: ^14.0.1
-        version: 14.0.1
+        specifier: ^14.0.2
+        version: 14.0.2
       hasha:
         specifier: ^6.0.0
         version: 6.0.0
@@ -1866,8 +1866,8 @@ packages:
     resolution: {integrity: sha512-DpLKbNU4WylpxJykQujfCcwYWiV/Jhm50Goo0wrVILAv5jOr9d+H+UR3PhSCD2rCCEIg0uc+G+muBTwD54JhDQ==}
     engines: {node: '>= 0.4'}
 
-  globby@14.0.1:
-    resolution: {integrity: sha512-jOMLD2Z7MAhyG8aJpNOpmziMOP4rPLcc95oQPKXBazW82z+CEgPFBQvEpRUa1KeIMUJo4Wsm+q6uzO/Q/4BksQ==}
+  globby@14.0.2:
+    resolution: {integrity: sha512-s3Fq41ZVh7vbbe2PN3nrW7yC7U7MFVc5c98/iTl9c2GawNMKx/J648KQRW6WKkuU8GIbbh2IXfIRQjOZnXcTnw==}
     engines: {node: '>=18'}
 
   globule@1.3.4:
@@ -5817,7 +5817,7 @@ snapshots:
       fs.realpath: 1.0.0
       inflight: 1.0.6
       inherits: 2.0.4
-      minimatch: 3.0.8
+      minimatch: 3.1.2
       once: 1.4.0
       path-is-absolute: 1.0.1
     optional: true
@@ -5851,7 +5851,7 @@ snapshots:
       define-properties: 1.2.1
       gopd: 1.0.1
 
-  globby@14.0.1:
+  globby@14.0.2:
     dependencies:
       '@sindresorhus/merge-streams': 2.3.0
       fast-glob: 3.3.2
@@ -6696,7 +6696,7 @@ snapshots:
       dependency-graph: 0.11.0
       fs-extra: 11.2.0
       get-stdin: 9.0.0
-      globby: 14.0.1
+      globby: 14.0.2
       picocolors: 1.0.1
       postcss: 8.4.38
       postcss-load-config: 5.1.0(jiti@1.21.6)(postcss@8.4.38)
