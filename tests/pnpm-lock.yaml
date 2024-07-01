@@ -24,8 +24,8 @@ importers:
         specifier: ^7.0.0
         version: 7.0.0
       puppeteer:
-        specifier: ^22.12.0
-        version: 22.12.0
+        specifier: ^22.12.1
+        version: 22.12.1
       rimraf:
         specifier: ^5.0.7
         version: 5.0.7
@@ -871,12 +871,12 @@ packages:
   pump@3.0.0:
     resolution: {integrity: sha512-LwZy+p3SFs1Pytd/jYct4wpv49HiYCqd9Rlc5ZVdk0V+8Yzv6jR5Blk3TRmPL1ft69TxP0IMZGJ+WPFU2BFhww==}
 
-  puppeteer-core@22.12.0:
-    resolution: {integrity: sha512-9gY+JwBW/Fp3/x9+cOGK7ZcwqjvtvY2xjqRqsAA0B3ZFMzBauVTSZ26iWTmvOQX2sk78TN/rd5rnetxVxmK5CQ==}
+  puppeteer-core@22.12.1:
+    resolution: {integrity: sha512-XmqeDPVdC5/3nGJys1jbgeoZ02wP0WV1GBlPtr/ULRbGXJFuqgXMcKQ3eeNtFpBzGRbpeoCGWHge1ZWKWl0Exw==}
     engines: {node: '>=18'}
 
-  puppeteer@22.12.0:
-    resolution: {integrity: sha512-kyUYI12SyJIjf9UGTnHfhNMYv4oVK321Jb9QZDBiGVNx5453SplvbdKI7UrF+S//3RtCneuUFCyHxnvQXQjpxg==}
+  puppeteer@22.12.1:
+    resolution: {integrity: sha512-1GxY8dnEnHr1SLzdSDr0FCjM6JQfAh2E2I/EqzeF8a58DbGVk9oVjj4lFdqNoVbpgFSpAbz7VER9St7S1wDpNg==}
     engines: {node: '>=18'}
     hasBin: true
 
@@ -1250,7 +1250,7 @@ snapshots:
 
   agent-base@7.1.1:
     dependencies:
-      debug: 4.3.4(supports-color@8.1.1)
+      debug: 4.3.5
     transitivePeerDependencies:
       - supports-color
 
@@ -1622,7 +1622,7 @@ snapshots:
 
   extract-zip@2.0.1:
     dependencies:
-      debug: 4.3.4(supports-color@8.1.1)
+      debug: 4.3.5
       get-stream: 5.2.0
       yauzl: 2.10.0
     optionalDependencies:
@@ -1704,7 +1704,7 @@ snapshots:
     dependencies:
       basic-ftp: 5.0.5
       data-uri-to-buffer: 6.0.2
-      debug: 4.3.4(supports-color@8.1.1)
+      debug: 4.3.5
       fs-extra: 11.2.0
     transitivePeerDependencies:
       - supports-color
@@ -1770,14 +1770,14 @@ snapshots:
   http-proxy-agent@7.0.2:
     dependencies:
       agent-base: 7.1.1
-      debug: 4.3.4(supports-color@8.1.1)
+      debug: 4.3.5
     transitivePeerDependencies:
       - supports-color
 
   https-proxy-agent@7.0.4:
     dependencies:
       agent-base: 7.1.1
-      debug: 4.3.4(supports-color@8.1.1)
+      debug: 4.3.5
     transitivePeerDependencies:
       - supports-color
 
@@ -2040,7 +2040,7 @@ snapshots:
     dependencies:
       '@tootallnate/quickjs-emscripten': 0.23.0
       agent-base: 7.1.1
-      debug: 4.3.4(supports-color@8.1.1)
+      debug: 4.3.5
       get-uri: 6.0.3
       http-proxy-agent: 7.0.2
       https-proxy-agent: 7.0.4
@@ -2116,7 +2116,7 @@ snapshots:
   proxy-agent@6.4.0:
     dependencies:
       agent-base: 7.1.1
-      debug: 4.3.4(supports-color@8.1.1)
+      debug: 4.3.5
       http-proxy-agent: 7.0.2
       https-proxy-agent: 7.0.4
       lru-cache: 7.18.3
@@ -2133,7 +2133,7 @@ snapshots:
       end-of-stream: 1.4.4
       once: 1.4.0
 
-  puppeteer-core@22.12.0:
+  puppeteer-core@22.12.1:
     dependencies:
       '@puppeteer/browsers': 2.2.3
       chromium-bidi: 0.5.24(devtools-protocol@0.0.1299070)
@@ -2145,12 +2145,12 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  puppeteer@22.12.0:
+  puppeteer@22.12.1:
     dependencies:
       '@puppeteer/browsers': 2.2.3
       cosmiconfig: 9.0.0
       devtools-protocol: 0.0.1299070
-      puppeteer-core: 22.12.0
+      puppeteer-core: 22.12.1
     transitivePeerDependencies:
       - bufferutil
       - supports-color
@@ -2263,7 +2263,7 @@ snapshots:
   socks-proxy-agent@8.0.3:
     dependencies:
       agent-base: 7.1.1
-      debug: 4.3.4(supports-color@8.1.1)
+      debug: 4.3.5
       socks: 2.8.3
     transitivePeerDependencies:
       - supports-color
