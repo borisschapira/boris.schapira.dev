@@ -114,6 +114,10 @@ layout: microtypo
     <meta name="twitter:dnt" content="on">
     <meta name="twitter:widgets:csp" content="on">
 
+    {% assign mastoPro = site.author.social | where: 'title', 'Mastodon (pro)' | first %}
+    {% assign mastoPerso = site.author.social | where: 'title', 'Mastodon (perso)' | first %}
+    <meta name="fediverse:creator" content="{% unless page.category == 'web' %}{{ mastoPerso.nick }}{% else %}{{ mastoPro.nick }}{% endunless %}" />
+
     <!-- Real favicon generator -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=E6jXRBAgkK" data-proofer-ignore>
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=E6jXRBAgkK" data-proofer-ignore>
