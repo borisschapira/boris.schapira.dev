@@ -73,7 +73,7 @@
   },
   "dependencies": {
     "@babel/eslint-parser": "^7.24.7",
-    "cssnano": "^7.0.3",
+    "cssnano": "^7.0.4",
     "dotenv": "^16.4.5",
     "escape-string-regexp": "^5.0.0",
     "file-loader": "^6.2.0",
