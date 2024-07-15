@@ -62,7 +62,7 @@
     "postcss": "^8.4.39",
     "postcss-cli": "^11.0.0",
     "postcss-loader": "^8.1.1",
-    "prettier": "^3.3.2",
+    "prettier": "^3.3.3",
     "rimraf": "^5.0.9",
     "rss-parser": "^3.13.0",
     "sass": "^1.77.8",
