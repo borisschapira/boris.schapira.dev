@@ -6,7 +6,7 @@ permalink: /en/about/
 i18n-key: about-me
 ---
 
-I'm a french engineer[^1], currently Solution Expert for [Contentsquare](https://contentsquare.com/), within the Customer Success division. I support our clients, from marketing divisions to IT departments, in the real-time audit of technical issues occurring on the client side: web performance, JS and APIS errors, relevance of displayed messages... in order to support acquisition, conversion or Time-to-Fix optimization strategies.
+I'm a french engineer[^1], currently Strategic Consultant for [Contentsquare](https://contentsquare.com/), within the Customer Success division. I support our clients, from marketing divisions to IT departments, in the real-time audit of technical issues occurring on the client side: web performance, JS and API errors, relevance of displayed messages... in order to support acquisition, conversion or Time-to-Fix optimization strategies.
 
 You may have meet me during events or conferences, talking about Service Design, Finance, e-Commerce or the choice of a data management solution : (<abbr lang="en" title="Content Management System">CMS</abbr>, <abbr lang="en" title="Digital Asset Management">DAM</abbr>, <abbr lang="en" title="Online Video Platform">OVP</abbr>)…
 
