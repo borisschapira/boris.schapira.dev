@@ -20,7 +20,7 @@ GEM
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
     afm (0.2.2)
-    async (2.13.0)
+    async (2.14.1)
       console (~> 1.25, >= 1.25.2)
       fiber-annotation
       io-event (~> 1.6, >= 1.6.5)
@@ -129,7 +129,7 @@ GEM
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
-    rexml (3.3.1)
+    rexml (3.3.2)
       strscan
     rouge (4.3.0)
     ruby-rc4 (0.1.5)
