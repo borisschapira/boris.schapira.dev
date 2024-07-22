@@ -22,7 +22,7 @@ importers:
         version: 5.0.0
       file-loader:
         specifier: ^6.2.0
-        version: 6.2.0(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4))
+        version: 6.2.0(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4))
       js-md5:
         specifier: ^0.8.3
         version: 0.8.3
@@ -92,7 +92,7 @@ importers:
         version: 10.4.19(postcss@8.4.39)
       babel-loader:
         specifier: ^9.1.3
-        version: 9.1.3(@babel/core@7.24.9)(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4))
+        version: 9.1.3(@babel/core@7.24.9)(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4))
       blurhash:
         specifier: ^2.0.5
         version: 2.0.5
@@ -146,7 +146,7 @@ importers:
         version: 11.0.0(jiti@1.21.6)(postcss@8.4.39)
       postcss-loader:
         specifier: ^8.1.1
-        version: 8.1.1(postcss@8.4.39)(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4))
+        version: 8.1.1(postcss@8.4.39)(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4))
       prettier:
         specifier: ^3.3.3
         version: 3.3.3
@@ -161,13 +161,13 @@ importers:
         version: 1.77.8
       sass-loader:
         specifier: ^14.2.1
-        version: 14.2.1(node-sass@9.0.0)(sass@1.77.8)(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4))
+        version: 14.2.1(node-sass@9.0.0)(sass@1.77.8)(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4))
       uglify-js:
-        specifier: ^3.18.0
-        version: 3.18.0
+        specifier: ^3.19.0
+        version: 3.19.0
       webpack:
         specifier: ^5.93.0
-        version: 5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4)
+        version: 5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4)
       webpack-cli:
         specifier: ^5.1.4
         version: 5.1.4(webpack@5.93.0)
@@ -197,8 +197,8 @@ packages:
       '@babel/core': ^7.11.0
       eslint: ^7.5.0 || ^8.0.0 || ^9.0.0
 
-  '@babel/generator@7.24.9':
-    resolution: {integrity: sha512-G8v3jRg+z8IwY1jHFxvCNhOPYPterE4XljNgdGTYfSTtzzwjIswIzIaSPSLs3R7yFuqnqNeay5rjICfqVr+/6A==}
+  '@babel/generator@7.24.10':
+    resolution: {integrity: sha512-o9HBZL1G2129luEUlG1hB4N/nlYNWHnpwlND9eOMclRqqu1YDy2sSYVCFUZwl8I1Gxh+QSRrP2vD7EpUmFVXxg==}
     engines: {node: '>=6.9.0'}
 
   '@babel/helper-annotate-as-pure@7.24.7':
@@ -909,8 +909,8 @@ packages:
   '@types/minimist@1.2.5':
     resolution: {integrity: sha512-hov8bUuiLiyFPGyFPE1lwWhmzYbirOXQNNo40+y3zow8aFVTeyn3VWL0VFFfdNddA8S4Vf0Tc062rzyNr7Paag==}
 
-  '@types/node@20.14.10':
-    resolution: {integrity: sha512-MdiXf+nDuMvY0gJKxyfZ7/6UFsETO7mGKF54MVD/ekJS6HdFtpZFBgrh6Pseu64XTb2MLyFPlbW6hj8HYRQNOQ==}
+  '@types/node@20.14.11':
+    resolution: {integrity: sha512-kprQpL8MMeszbz6ojB5/tU8PLN4kesnN8Gjzw349rDlNgsSzg90lAVj3llK99Dh7JON+t9AuscPPFW6mPbTnSA==}
 
   '@types/normalize-package-data@2.4.4':
     resolution: {integrity: sha512-37i+OaWTh9qeK4LSHPsyRC7NahnGotNuZvjLSgcPzblpHB3rrCJxAOgI5gCdKm7coonsaX1Of0ILiTcnZjbfxA==}
@@ -1228,8 +1228,8 @@ packages:
   caniuse-api@3.0.0:
     resolution: {integrity: sha512-bsTwuIg/BZZK/vreVTYYbSWoe2F+71P7K5QGEX+pT250DZbfU1MQ5prOKpPR+LL6uWKK3KMwMCAS74QB3Um1uw==}
 
-  caniuse-lite@1.0.30001642:
-    resolution: {integrity: sha512-3XQ0DoRgLijXJErLSl+bLnJ+Et4KqV1PY6JJBGAFlsNsz31zeAIncyeZfLCabHK/jtSh+671RM9YMldxjUPZtA==}
+  caniuse-lite@1.0.30001643:
+    resolution: {integrity: sha512-ERgWGNleEilSrHM6iUz/zJNSQTP8Mr21wDWpdgvRwcTXGAq6jMtOUPP4dqFPTdKqZ2wKTdtB+uucZ3MRpAUSmg==}
 
   canvas@2.11.2:
     resolution: {integrity: sha512-ItanGBMrmRV7Py2Z+Xhs7cT+FNt5K0vPL4p9EZ/UX/Mu7hFbkxSjKF2KVtPwX7UYWp7dRKnrTvReflgrItJbdw==}
@@ -1503,8 +1503,8 @@ packages:
   easy-toggle-state@1.16.0:
     resolution: {integrity: sha512-wrGQ/9E5B32ripyK7JOSblkF/hpPo3Fwju3sx6EzMzNMvKEfAiib+RoIz6lWjFPWl1mG9VgCsH6Mn/mVsYTx9g==}
 
-  electron-to-chromium@1.4.828:
-    resolution: {integrity: sha512-QOIJiWpQJDHAVO4P58pwb133Cwee0nbvy/MV1CwzZVGpkH1RX33N3vsaWRCpR6bF63AAq366neZrRTu7Qlsbbw==}
+  electron-to-chromium@1.4.832:
+    resolution: {integrity: sha512-cTen3SB0H2SGU7x467NRe1eVcQgcuS6jckKfWJHia2eo0cHIGOqHoAxevIYZD4eRHcWjkvFzo93bi3vJ9W+1lA==}
 
   emoji-regex@8.0.0:
     resolution: {integrity: sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==}
@@ -1969,15 +1969,15 @@ packages:
     resolution: {integrity: sha512-5Fytz/IraMjqpwfd34ke28PTVMjZjJG2MPn5t7OE4eUCUNf8BAa7b5WUS9/Qvr6mwOQS7Mk6vdsMno5he+T8Xw==}
     engines: {node: '>= 4'}
 
-  immutable@4.3.6:
-    resolution: {integrity: sha512-Ju0+lEMyzMVZarkTn/gqRpdqd5dOPaz1mCZ0SH3JV6iFw81PldE/PEB1hWVEA288HPt4WXW8O7AWxB10M+03QQ==}
+  immutable@4.3.7:
+    resolution: {integrity: sha512-1hqclzwYwjRDFLjcFxOM5AYkkG0rpFPpr1RLPMEuGczoS7YA8gLhy8SWXYRAA/XwfEHpfo3cw5JGioS32fnMRw==}
 
   import-fresh@3.3.0:
     resolution: {integrity: sha512-veYYhQa+D1QBKznvhUHxb8faxlrwUnxseDAbAp457E0wLNio2bOSKnjYDhMj+YiAq61xrMGhQk9iXVk5FzgQMw==}
     engines: {node: '>=6'}
 
-  import-local@3.1.0:
-    resolution: {integrity: sha512-ASB07uLtnDs1o6EHjKpX34BKYDSqnFerfTOJL2HvMqF70LnxpjkzDB8J44oT9pu4AMPkQwf8jl6szgvNd2tRIg==}
+  import-local@3.2.0:
+    resolution: {integrity: sha512-2SPlun1JUPWoM6t3F0dw0FkCF/jWY8kttcY4f599GLTSjh2OCuuhdTkJQsEcZzBqbXZGKMK2OqW1oZsjtf/gQA==}
     engines: {node: '>=8'}
     hasBin: true
 
@@ -2040,8 +2040,8 @@ packages:
     resolution: {integrity: sha512-1BC0BVFhS/p0qtw6enp8e+8OD0UrK0oFLztSjNzhcKA3WDuJxxAPXzPuPtKkjEY9UUoEWlX/8fgKeu2S8i9JTA==}
     engines: {node: '>= 0.4'}
 
-  is-core-module@2.14.0:
-    resolution: {integrity: sha512-a5dFJih5ZLYlRtDc0dZWP7RiKr6xIKzmn/oAYCDvdLThadVgyJwlaoQPmRtMSpz+rk0OGAgIu+TcM9HUF0fk1A==}
+  is-core-module@2.15.0:
+    resolution: {integrity: sha512-Dd+Lb2/zvk9SKy1TGCt1wFJFo/MWBPMX5x7KcvLajWTGuomczdQX61PvY5yK6SVACwpoexWo81IfFyoKY2QnTA==}
     engines: {node: '>= 0.4'}
 
   is-data-view@1.0.1:
@@ -2444,8 +2444,8 @@ packages:
     engines: {node: '>= 10.12.0'}
     hasBin: true
 
-  node-releases@2.0.14:
-    resolution: {integrity: sha512-y10wOWt8yZpqXmOgRo77WaHEmhYQYGNA6y421PKsKYWEK8aW+cqAphborZDhqfyKrbZEN92CN1X2KbafY2s7Yw==}
+  node-releases@2.0.18:
+    resolution: {integrity: sha512-d9VeXT4SJ7ZeOqGX6R5EM022wpL+eWPooLI+5UpWn2jCT1aosUQEhQP214x33Wkwx3JQMvIm+tIoVOdodFS40g==}
 
   node-sass@9.0.0:
     resolution: {integrity: sha512-yltEuuLrfH6M7Pq2gAj5B6Zm7m+gdZoG66wTqG6mIZV/zijq3M2OO2HswtT6oBspPyFhHDcaxWpsBm0fRNDHPg==}
@@ -3168,8 +3168,8 @@ packages:
     resolution: {integrity: sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA==}
     hasBin: true
 
-  semver@7.6.2:
-    resolution: {integrity: sha512-FNAIBWCx9qcRhoHcgcJ0gvU7SN1lYU2ZXuSfl04bSC5OpvDHFyJCjdNHomPXxjQlCBU67YW64PzY7/VIEH7F2w==}
+  semver@7.6.3:
+    resolution: {integrity: sha512-oVekP1cKtI+CTDvHWYFUcMtsK/00wmAEfyqKfNdARm8u1wNVhSgaX7A8d4UuIlUI5e84iEwOhs7ZPYRmzU9U6A==}
     engines: {node: '>=10'}
     hasBin: true
 
@@ -3407,8 +3407,8 @@ packages:
       uglify-js:
         optional: true
 
-  terser@5.31.2:
-    resolution: {integrity: sha512-LGyRZVFm/QElZHy/CPr/O4eNZOZIzsrQ92y4v9UJe/pFJjypje2yI3C2FmPtvUEnhadlSbmG2nXtdcjHOjCfxw==}
+  terser@5.31.3:
+    resolution: {integrity: sha512-pAfYn3NIZLyZpa83ZKigvj6Rn9c/vd5KfYGX7cN1mnzqgDcxWvrU5ZtAfIKhEXz9nRecw4z3LXkjaq96/qZqAA==}
     engines: {node: '>=10'}
     hasBin: true
 
@@ -3465,8 +3465,8 @@ packages:
     resolution: {integrity: sha512-4dbzIzqvjtgiM5rw1k5rEHtBANKmdudhGyBEajN01fEyhaAIhsoKNy6y7+IN93IfpFtwY9iqi7kD+xwKhQsNJA==}
     engines: {node: '>=8'}
 
-  type-fest@4.21.0:
-    resolution: {integrity: sha512-ADn2w7hVPcK6w1I0uWnM//y1rLXZhzB9mr0a3OirzclKF1Wp6VzevUmzz/NRAWunOT6E8HrnpGY7xOfc6K57fA==}
+  type-fest@4.23.0:
+    resolution: {integrity: sha512-ZiBujro2ohr5+Z/hZWHESLz3g08BBdrdLMieYFULJO+tWc437sn8kQsWLJoZErY8alNhxre9K4p3GURAG11n+w==}
     engines: {node: '>=16'}
 
   typed-array-buffer@1.0.2:
@@ -3485,8 +3485,8 @@ packages:
     resolution: {integrity: sha512-/OxDN6OtAk5KBpGb28T+HZc2M+ADtvRxXrKKbUwtsLgdoxgX13hyy7ek6bFRl5+aBs2yZzB0c4CnQfAtVypW/g==}
     engines: {node: '>= 0.4'}
 
-  uglify-js@3.18.0:
-    resolution: {integrity: sha512-SyVVbcNBCk0dzr9XL/R/ySrmYf0s372K6/hFklzgcp2lBFyXtw4I7BOdDjlLhE1aVqaI/SHWXWmYdlZxuyF38A==}
+  uglify-js@3.19.0:
+    resolution: {integrity: sha512-wNKHUY2hYYkf6oSFfhwwiHo4WCHzHmzcXsqXYTN9ja3iApYIFbb2U6ics9hBcYLHcYGQoAlwnZlTrf3oF+BL/Q==}
     engines: {node: '>=0.8.0'}
     hasBin: true
 
@@ -3734,7 +3734,7 @@ snapshots:
     dependencies:
       '@ampproject/remapping': 2.3.0
       '@babel/code-frame': 7.24.7
-      '@babel/generator': 7.24.9
+      '@babel/generator': 7.24.10
       '@babel/helper-compilation-targets': 7.24.8
       '@babel/helper-module-transforms': 7.24.9(@babel/core@7.24.9)
       '@babel/helpers': 7.24.8
@@ -3758,7 +3758,7 @@ snapshots:
       eslint-visitor-keys: 2.1.0
       semver: 6.3.1
 
-  '@babel/generator@7.24.9':
+  '@babel/generator@7.24.10':
     dependencies:
       '@babel/types': 7.24.9
       '@jridgewell/gen-mapping': 0.3.5
@@ -4493,7 +4493,7 @@ snapshots:
   '@babel/traverse@7.24.8':
     dependencies:
       '@babel/code-frame': 7.24.7
-      '@babel/generator': 7.24.9
+      '@babel/generator': 7.24.10
       '@babel/helper-environment-visitor': 7.24.7
       '@babel/helper-function-name': 7.24.7
       '@babel/helper-hoist-variables': 7.24.7
@@ -4596,7 +4596,7 @@ snapshots:
       nopt: 5.0.0
       npmlog: 5.0.1
       rimraf: 3.0.2
-      semver: 7.6.2
+      semver: 7.6.3
       tar: 6.2.1
     transitivePeerDependencies:
       - encoding
@@ -4621,13 +4621,13 @@ snapshots:
   '@npmcli/fs@1.1.1':
     dependencies:
       '@gar/promisify': 1.1.3
-      semver: 7.6.2
+      semver: 7.6.3
     optional: true
 
   '@npmcli/fs@2.1.2':
     dependencies:
       '@gar/promisify': 1.1.3
-      semver: 7.6.2
+      semver: 7.6.3
     optional: true
 
   '@npmcli/move-file@1.1.2':
@@ -4674,7 +4674,7 @@ snapshots:
   '@types/minimist@1.2.5':
     optional: true
 
-  '@types/node@20.14.10':
+  '@types/node@20.14.11':
     dependencies:
       undici-types: 5.26.5
 
@@ -4759,19 +4759,19 @@ snapshots:
       '@webassemblyjs/ast': 1.12.1
       '@xtuc/long': 4.2.2
 
-  '@webpack-cli/configtest@2.1.1(webpack-cli@5.1.4(webpack@5.93.0))(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4))':
+  '@webpack-cli/configtest@2.1.1(webpack-cli@5.1.4(webpack@5.93.0))(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4))':
     dependencies:
-      webpack: 5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4)
+      webpack: 5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4)
       webpack-cli: 5.1.4(webpack@5.93.0)
 
-  '@webpack-cli/info@2.0.2(webpack-cli@5.1.4(webpack@5.93.0))(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4))':
+  '@webpack-cli/info@2.0.2(webpack-cli@5.1.4(webpack@5.93.0))(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4))':
     dependencies:
-      webpack: 5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4)
+      webpack: 5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4)
       webpack-cli: 5.1.4(webpack@5.93.0)
 
-  '@webpack-cli/serve@2.0.5(webpack-cli@5.1.4(webpack@5.93.0))(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4))':
+  '@webpack-cli/serve@2.0.5(webpack-cli@5.1.4(webpack@5.93.0))(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4))':
     dependencies:
-      webpack: 5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4)
+      webpack: 5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4)
       webpack-cli: 5.1.4(webpack@5.93.0)
 
   '@xtuc/ieee754@1.2.0': {}
@@ -4933,7 +4933,7 @@ snapshots:
   autoprefixer@10.4.19(postcss@8.4.39):
     dependencies:
       browserslist: 4.23.2
-      caniuse-lite: 1.0.30001642
+      caniuse-lite: 1.0.30001643
       fraction.js: 4.3.7
       normalize-range: 0.1.2
       picocolors: 1.0.1
@@ -4944,12 +4944,12 @@ snapshots:
     dependencies:
       possible-typed-array-names: 1.0.0
 
-  babel-loader@9.1.3(@babel/core@7.24.9)(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4)):
+  babel-loader@9.1.3(@babel/core@7.24.9)(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4)):
     dependencies:
       '@babel/core': 7.24.9
       find-cache-dir: 4.0.0
       schema-utils: 4.2.0
-      webpack: 5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4)
+      webpack: 5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4)
 
   babel-plugin-polyfill-corejs2@0.4.11(@babel/core@7.24.9):
     dependencies:
@@ -5000,9 +5000,9 @@ snapshots:
 
   browserslist@4.23.2:
     dependencies:
-      caniuse-lite: 1.0.30001642
-      electron-to-chromium: 1.4.828
-      node-releases: 2.0.14
+      caniuse-lite: 1.0.30001643
+      electron-to-chromium: 1.4.832
+      node-releases: 2.0.18
       update-browserslist-db: 1.1.0(browserslist@4.23.2)
 
   buffer-from@1.1.2: {}
@@ -5080,11 +5080,11 @@ snapshots:
   caniuse-api@3.0.0:
     dependencies:
       browserslist: 4.23.2
-      caniuse-lite: 1.0.30001642
+      caniuse-lite: 1.0.30001643
       lodash.memoize: 4.1.2
       lodash.uniq: 4.5.0
 
-  caniuse-lite@1.0.30001642: {}
+  caniuse-lite@1.0.30001643: {}
 
   canvas@2.11.2(encoding@0.1.13):
     dependencies:
@@ -5389,7 +5389,7 @@ snapshots:
 
   easy-toggle-state@1.16.0: {}
 
-  electron-to-chromium@1.4.828: {}
+  electron-to-chromium@1.4.832: {}
 
   emoji-regex@8.0.0: {}
 
@@ -5514,7 +5514,7 @@ snapshots:
   eslint-import-resolver-node@0.3.9:
     dependencies:
       debug: 3.2.7
-      is-core-module: 2.14.0
+      is-core-module: 2.15.0
       resolve: 1.22.8
     transitivePeerDependencies:
       - supports-color
@@ -5544,7 +5544,7 @@ snapshots:
       eslint-import-resolver-node: 0.3.9
       eslint-module-utils: 2.8.1(eslint-import-resolver-node@0.3.9)(eslint@8.57.0)
       hasown: 2.0.2
-      is-core-module: 2.14.0
+      is-core-module: 2.15.0
       is-glob: 4.0.3
       minimatch: 3.1.2
       object.fromentries: 2.0.8
@@ -5666,11 +5666,11 @@ snapshots:
     dependencies:
       flat-cache: 3.2.0
 
-  file-loader@6.2.0(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4)):
+  file-loader@6.2.0(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4)):
     dependencies:
       loader-utils: 2.0.4
       schema-utils: 3.3.0
-      webpack: 5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4)
+      webpack: 5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4)
 
   fill-range@7.1.1:
     dependencies:
@@ -5907,7 +5907,7 @@ snapshots:
   hasha@6.0.0:
     dependencies:
       is-stream: 3.0.0
-      type-fest: 4.21.0
+      type-fest: 4.23.0
 
   hashmap@2.4.0: {}
 
@@ -5964,14 +5964,14 @@ snapshots:
 
   ignore@5.3.1: {}
 
-  immutable@4.3.6: {}
+  immutable@4.3.7: {}
 
   import-fresh@3.3.0:
     dependencies:
       parent-module: 1.0.1
       resolve-from: 4.0.0
 
-  import-local@3.1.0:
+  import-local@3.2.0:
     dependencies:
       pkg-dir: 4.2.0
       resolve-cwd: 3.0.0
@@ -6031,7 +6031,7 @@ snapshots:
 
   is-callable@1.2.7: {}
 
-  is-core-module@2.14.0:
+  is-core-module@2.15.0:
     dependencies:
       hasown: 2.0.2
 
@@ -6119,7 +6119,7 @@ snapshots:
 
   jest-worker@27.5.1:
     dependencies:
-      '@types/node': 20.14.10
+      '@types/node': 20.14.11
       merge-stream: 2.0.0
       supports-color: 8.1.1
 
@@ -6448,7 +6448,7 @@ snapshots:
       nopt: 5.0.0
       npmlog: 6.0.2
       rimraf: 3.0.2
-      semver: 7.6.2
+      semver: 7.6.3
       tar: 6.2.1
       which: 2.0.2
     transitivePeerDependencies:
@@ -6456,7 +6456,7 @@ snapshots:
       - supports-color
     optional: true
 
-  node-releases@2.0.14: {}
+  node-releases@2.0.18: {}
 
   node-sass@9.0.0:
     dependencies:
@@ -6493,8 +6493,8 @@ snapshots:
   normalize-package-data@3.0.3:
     dependencies:
       hosted-git-info: 4.1.0
-      is-core-module: 2.14.0
-      semver: 7.6.2
+      is-core-module: 2.15.0
+      semver: 7.6.3
       validate-npm-package-license: 3.0.4
     optional: true
 
@@ -6750,14 +6750,14 @@ snapshots:
       jiti: 1.21.6
       postcss: 8.4.39
 
-  postcss-loader@8.1.1(postcss@8.4.39)(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4)):
+  postcss-loader@8.1.1(postcss@8.4.39)(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4)):
     dependencies:
       cosmiconfig: 9.0.0
       jiti: 1.21.6
       postcss: 8.4.39
-      semver: 7.6.2
+      semver: 7.6.3
     optionalDependencies:
-      webpack: 5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4)
+      webpack: 5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4)
     transitivePeerDependencies:
       - typescript
 
@@ -7030,7 +7030,7 @@ snapshots:
 
   resolve@1.22.8:
     dependencies:
-      is-core-module: 2.14.0
+      is-core-module: 2.15.0
       path-parse: 1.0.7
       supports-preserve-symlinks-flag: 1.0.0
 
@@ -7085,18 +7085,18 @@ snapshots:
       yargs: 17.7.2
     optional: true
 
-  sass-loader@14.2.1(node-sass@9.0.0)(sass@1.77.8)(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4)):
+  sass-loader@14.2.1(node-sass@9.0.0)(sass@1.77.8)(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4)):
     dependencies:
       neo-async: 2.6.2
     optionalDependencies:
       node-sass: 9.0.0
       sass: 1.77.8
-      webpack: 5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4)
+      webpack: 5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4)
 
   sass@1.77.8:
     dependencies:
       chokidar: 3.6.0
-      immutable: 4.3.6
+      immutable: 4.3.7
       source-map-js: 1.2.0
 
   sax@1.4.1: {}
@@ -7124,7 +7124,7 @@ snapshots:
 
   semver@6.3.1: {}
 
-  semver@7.6.2: {}
+  semver@7.6.3: {}
 
   serialize-javascript@6.0.2:
     dependencies:
@@ -7379,18 +7379,18 @@ snapshots:
       mkdirp: 1.0.4
       yallist: 4.0.0
 
-  terser-webpack-plugin@5.3.10(uglify-js@3.18.0)(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4)):
+  terser-webpack-plugin@5.3.10(uglify-js@3.19.0)(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4)):
     dependencies:
       '@jridgewell/trace-mapping': 0.3.25
       jest-worker: 27.5.1
       schema-utils: 3.3.0
       serialize-javascript: 6.0.2
-      terser: 5.31.2
-      webpack: 5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4)
+      terser: 5.31.3
+      webpack: 5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4)
     optionalDependencies:
-      uglify-js: 3.18.0
+      uglify-js: 3.19.0
 
-  terser@5.31.2:
+  terser@5.31.3:
     dependencies:
       '@jridgewell/source-map': 0.3.6
       acorn: 8.12.1
@@ -7441,7 +7441,7 @@ snapshots:
   type-fest@0.8.1:
     optional: true
 
-  type-fest@4.21.0: {}
+  type-fest@4.23.0: {}
 
   typed-array-buffer@1.0.2:
     dependencies:
@@ -7475,7 +7475,7 @@ snapshots:
       is-typed-array: 1.1.13
       possible-typed-array-names: 1.0.0
 
-  uglify-js@3.18.0: {}
+  uglify-js@3.19.0: {}
 
   unbox-primitive@1.0.2:
     dependencies:
@@ -7548,18 +7548,18 @@ snapshots:
   webpack-cli@5.1.4(webpack@5.93.0):
     dependencies:
       '@discoveryjs/json-ext': 0.5.7
-      '@webpack-cli/configtest': 2.1.1(webpack-cli@5.1.4(webpack@5.93.0))(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4))
-      '@webpack-cli/info': 2.0.2(webpack-cli@5.1.4(webpack@5.93.0))(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4))
-      '@webpack-cli/serve': 2.0.5(webpack-cli@5.1.4(webpack@5.93.0))(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4))
+      '@webpack-cli/configtest': 2.1.1(webpack-cli@5.1.4(webpack@5.93.0))(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4))
+      '@webpack-cli/info': 2.0.2(webpack-cli@5.1.4(webpack@5.93.0))(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4))
+      '@webpack-cli/serve': 2.0.5(webpack-cli@5.1.4(webpack@5.93.0))(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4))
       colorette: 2.0.20
       commander: 10.0.1
       cross-spawn: 7.0.3
       envinfo: 7.13.0
       fastest-levenshtein: 1.0.16
-      import-local: 3.1.0
+      import-local: 3.2.0
       interpret: 3.1.1
       rechoir: 0.8.0
-      webpack: 5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4)
+      webpack: 5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4)
       webpack-merge: 5.10.0
 
   webpack-merge@5.10.0:
@@ -7570,7 +7570,7 @@ snapshots:
 
   webpack-sources@3.2.3: {}
 
-  webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4):
+  webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4):
     dependencies:
       '@types/eslint-scope': 3.7.7
       '@types/estree': 1.0.5
@@ -7593,7 +7593,7 @@ snapshots:
       neo-async: 2.6.2
       schema-utils: 3.3.0
       tapable: 2.2.1
-      terser-webpack-plugin: 5.3.10(uglify-js@3.18.0)(webpack@5.93.0(uglify-js@3.18.0)(webpack-cli@5.1.4))
+      terser-webpack-plugin: 5.3.10(uglify-js@3.19.0)(webpack@5.93.0(uglify-js@3.19.0)(webpack-cli@5.1.4))
       watchpack: 2.4.1
       webpack-sources: 3.2.3
     optionalDependencies:
