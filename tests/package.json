@@ -2,6 +2,7 @@
   "name": "boris-schapira-dev-tests",
   "version": "1.0.0",
   "description": "Post-build tests",
+  "type": "module",
   "scripts": {
     "test:feeds": "node validate-feeds.js",
     "test:visual": "mocha --timeout 15000 visual-regression.js",

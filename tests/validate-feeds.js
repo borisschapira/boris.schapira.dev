@@ -1,6 +1,6 @@
-const parser = require('fast-xml-parser');
-const fs = require('fs');
-const path = require('path');
+import { XMLValidator } from 'fast-xml-parser';
+import fs from 'fs';
+import path from 'path';
 
 const feedUris = [
   'feed.xml',
@@ -18,7 +18,7 @@ for (const feedUri of feedUris) {
     .readFileSync(path.resolve('../_site/', feedUri))
     .toString('utf-8');
   try {
-    const validateResult = parser.validate(feed);
+    const validateResult = XMLValidator.validate(feed);
     if (validateResult !== true) {
       throw validateResult.err;
     } else {
