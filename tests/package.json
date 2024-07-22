@@ -6,9 +6,9 @@
   "scripts": {
     "test:feeds": "node validate-feeds.js",
     "test:visual": "mocha --timeout 15000 visual-regression.js",
-    "test:generatedContent": "bundle exec htmlproofer ../_site  --disable-external --empty-alt-ignore true",
+    "test:generatedContent": "bundle exec htmlproofer --disable-external --ignore_empty_alt ../_site",
     "test": "npm-run-all 'test:*'",
-    "validate:test:visual": "npx rimraf \"./captures/reference\"; mv \"./captures/test\" \"./captures/reference\";"
+    "validate:test:visual": "rimraf \"./captures/reference\"; mv \"./captures/test\" \"./captures/reference\";"
   },
   "author": "borisschapira",
   "license": "MIT",

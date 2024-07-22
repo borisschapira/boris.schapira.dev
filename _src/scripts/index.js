@@ -3,7 +3,6 @@ import 'touchtap-event';
 import { ready } from './subscripts/utils';
 
 import './subscripts/savedata';
-import './subscripts/localstorageSaveLang';
 import './subscripts/localstorageSaveDarkMode';
 import './subscripts/footnotesAlternatives';
 import { abbrTouch } from './vendors/abbr-touch';

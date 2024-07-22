@@ -1,17 +1,17 @@
 // Iteration from https://meowni.ca/posts/2017-puppeteer-tests/#the-thing-that-does-the-diffing (thanks a lot, @notwaldorf!)
 
-const fs = require("fs");
-const { expect } = require("chai");
-const pixelmatch = require("pixelmatch");
-const { PNG } = require("pngjs");
-const puppeteer = require("puppeteer");
-const path = require("path");
-const rimraf = require("rimraf");
+import { createReadStream, createWriteStream, existsSync, mkdirSync } from "fs";
+import { expect } from "chai";
+import pixelmatch from "pixelmatch";
+import { PNG } from "pngjs";
+import { launch } from "puppeteer";
+import { dirname as _dirname } from "path";
+import { sync } from "rimraf";
 
 const testDir = "./captures/test";
 const prodDir = "./captures/reference";
 const diffDir = "./captures/diff";
-const testUrl = "https://localhost:4000";
+const testUrl = "http://localhost:8080";
 const tests = {
   fr: {
     locale: "fr-FR,fr",
@@ -50,8 +50,8 @@ describe("👀 screenshots are correct", () => {
   before(async () => {
     // Create the test directory if needed. This and the prodDir
     // variables are global somewhere.
-    rimraf.sync(testDir);
-    rimraf.sync(diffDir);
+    sync(testDir);
+    sync(diffDir);
   });
 
   // This is ran after every test; clean up after your browser.
@@ -61,7 +61,7 @@ describe("👀 screenshots are correct", () => {
     describe(`${t} tests`, () => {
       // This is ran before every test. It's where you start a clean browser.
       beforeEach(async () => {
-        browser = await puppeteer.launch({
+        browser = await launch({
           headless: true,
           args: [`--lang=${tests[t].locale}`]
         });
@@ -114,12 +114,10 @@ async function takeAndCompareScreenshot(page, route, routeUrl, filePrefix) {
 
 async function compareScreenshots(fileName) {
   return new Promise(resolve => {
-    const img1 = fs
-      .createReadStream(`${testDir}/${fileName}.png`)
+    const img1 = createReadStream(`${testDir}/${fileName}.png`)
       .pipe(new PNG())
       .on("parsed", doneReading);
-    const img2 = fs
-      .createReadStream(`${prodDir}/${fileName}.png`)
+    const img2 = createReadStream(`${prodDir}/${fileName}.png`)
       .pipe(new PNG())
       .on("parsed", doneReading);
 
@@ -149,7 +147,7 @@ async function compareScreenshots(fileName) {
 
       if (numDiffPixels > 200) {
         ensureDirectoryExistence(`${diffDir}/${fileName}.png`);
-        diff.pack().pipe(fs.createWriteStream(`${diffDir}/${fileName}.png`));
+        diff.pack().pipe(createWriteStream(`${diffDir}/${fileName}.png`));
       }
 
       // The files should be the same size.
@@ -164,10 +162,10 @@ async function compareScreenshots(fileName) {
 }
 
 function ensureDirectoryExistence(filePath) {
-  var dirname = path.dirname(filePath);
-  if (fs.existsSync(dirname)) {
+  var dirname = _dirname(filePath);
+  if (existsSync(dirname)) {
     return true;
   }
   ensureDirectoryExistence(dirname);
-  fs.mkdirSync(dirname);
+  mkdirSync(dirname);
 }
