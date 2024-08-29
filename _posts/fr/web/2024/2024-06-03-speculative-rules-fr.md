@@ -48,19 +48,23 @@ Ou sous la forme d'un snippet à intégrer dans votre tag manager (pour un A/B t
 
 ```
 (function () {
-  const script = document.createElement("script");
-  script.type = "speculationrules"
-  script.textContent = JSON.stringify({
-    prefetch: [
-      {
-        where: { 'href_matches': '/*' },
-        eagerness: 'moderate'
-      }
-    ]
-  });
-  document.body.appendChild(script);
+  if (HTMLScriptElement.supports && HTMLScriptElement.supports('speculationrules')) {
+    const script = document.createElement("script");
+    script.type = "speculationrules"
+    script.textContent = JSON.stringify({
+      prefetch: [
+        {
+          where: { 'href_matches': '/*' },
+          eagerness: 'moderate'
+        }
+      ]
+    });
+    document.body.appendChild(script);
+  }
 })()
 ```
+{% capture note %} **NOTE**  
+L'ajout d'un snippet HTML personnalisé dans Google Tag Manager ne déclenchera pas les règles de spéculation. Préférez l'option du snippet JavaScript.{% endcapture note %} {% include note.html.liquid content=note %}
 
 Il indique au navigateur que pour toutes les URLs du domaine courant `/*`, il peut faire du `prefetch` s'il pense que l'utilisateur va avoir besoin du contenu. Avec une impatience "modérée" (`moderate`), cela se produira principalement lorsque l'utilisateur survolera le lien.
 

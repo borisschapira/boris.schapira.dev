@@ -48,19 +48,23 @@ Or in the form of a snippet to be integrated into your tag manager (for an A/B t
 
 ```
 (function () {
-  const script = document.createElement("script");
-  script.type = "speculationrules"
-  script.textContent = JSON.stringify({
-    prefetch: [
-      {
-        where: { 'href_matches': '/*' },
-        eagerness: 'moderate'
-      }
-    ]
-  });
-  document.body.appendChild(script);
+  if (HTMLScriptElement.supports && HTMLScriptElement.supports('speculationrules')) {
+    const script = document.createElement("script");
+    script.type = "speculationrules"
+    script.textContent = JSON.stringify({
+      prefetch: [
+        {
+          where: { 'href_matches': '/*' },
+          eagerness: 'moderate'
+        }
+      ]
+    });
+    document.body.appendChild(script);
+  }
 })()
 ```
+{% capture note %} **NOTE**  
+Adding a custom HTML snippet in Google Tag Manager will not trigger the speculation rules. Prefer the JS snippet option.{% endcapture note %} {% include note.html.liquid content=note %}
 
 Tell the browser that for all the URLs in the current domain `/*`, it can prefetch if it thinks the user is going to need the content. With a `moderate` eagerness, mostly when the user is going to hover the link.
 
