@@ -63,6 +63,7 @@ Or in the form of a snippet to be integrated into your tag manager (for an A/B t
   }
 })()
 ```
+
 {% capture note %} **NOTE**  
 Adding a custom HTML snippet in Google Tag Manager will not trigger the speculation rules. Prefer the JS snippet option.{% endcapture note %} {% include note.html.liquid content=note %}
 

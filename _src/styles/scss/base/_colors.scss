@@ -23,7 +23,7 @@ $small-triangles: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 ::selection {
-   background-color: var(--color-selection);
+  background-color: var(--color-selection);
 }
 
 html {
@@ -120,10 +120,10 @@ a {
   );
 
   --color-selection: hsl(
-     var(--color-hue),
-     100%,
-     calc(85% - var(--is-dark-mode) * 67%)
-   );
+    var(--color-hue),
+    100%,
+    calc(85% - var(--is-dark-mode) * 67%)
+  );
 
   --color-main-background: hsl(
     var(--color-hue),
