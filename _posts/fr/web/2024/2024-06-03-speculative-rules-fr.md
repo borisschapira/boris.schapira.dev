@@ -63,6 +63,7 @@ Ou sous la forme d'un snippet à intégrer dans votre tag manager (pour un A/B t
   }
 })()
 ```
+
 {% capture note %} **NOTE**  
 L'ajout d'un snippet HTML personnalisé dans Google Tag Manager ne déclenchera pas les règles de spéculation. Préférez l'option du snippet JavaScript.{% endcapture note %} {% include note.html.liquid content=note %}
 

@@ -6,7 +6,7 @@ translations:
 
 > – Dad, I can't sleep...  
 > – I don't know what to tell you. Did you take a walk, get a glass of water from the kitchen? Is something bothering you? Do you want to talk about it?  
-> – Isn't there some kind of medicine?   
+> – Isn't there some kind of medicine?  
 > – No, not for children, for one-off cases.  
 > – Oh, so it does exist?  
 > – On the whole, yes, but we don't have any.  

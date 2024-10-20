@@ -6,7 +6,7 @@ translations:
 
 > – Papa, j'arrive pas à dormir…  
 > – Je ne sais pas quoi te dire, tu as marché un peu, pris un verre d'eau à la cuisine ? Quelque chose te tracasse, tu veux en parler ?  
-> – Il n'y a pas plutôt un médicame ?   
+> – Il n'y a pas plutôt un médicame ?  
 > – Non, pas pour les enfants sur des cas ponctuels.  
 > – Ah mais donc ça existe ?  
 > – Dans l'absolu, oui, mais nous n'en avons pas.  
