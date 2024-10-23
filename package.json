@@ -36,10 +36,10 @@
   },
   "homepage": "https://github.com/borisschapira/jekyll-bs#readme",
   "devDependencies": {
-    "@babel/core": "^7.25.8",
+    "@babel/core": "^7.25.9",
     "@babel/plugin-syntax-dynamic-import": "^7.8.3",
-    "@babel/plugin-transform-runtime": "^7.25.7",
-    "@babel/preset-env": "^7.25.8",
+    "@babel/plugin-transform-runtime": "^7.25.9",
+    "@babel/preset-env": "^7.25.9",
     "@fullhuman/postcss-purgecss": "^6.0.0",
     "abbr-touch": "^2.1.6",
     "autoprefixer": "^10.4.20",
@@ -70,7 +70,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "@babel/eslint-parser": "^7.25.8",
+    "@babel/eslint-parser": "^7.25.9",
     "cssnano": "^7.0.6",
     "dotenv": "^16.4.5",
     "escape-string-regexp": "^5.0.0",
