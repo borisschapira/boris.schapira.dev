@@ -136,7 +136,3 @@
     - value: "'self'"
 - name: block-all-mixed-content
 - name: upgrade-insecure-requests
-- name: report-uri
-  values:
-    - value: 'https://borisschapira.report-uri.com/r/d/csp/enforce'
-      comment: 'report-uri is deprecated in CSP3 but kept here for support'
