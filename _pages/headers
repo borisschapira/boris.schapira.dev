@@ -6,8 +6,7 @@ permalink: /_headers
   X-Frame-Options: SAMEORIGIN
   X-XSS-Protection: 1; mode=block
   Referrer-Policy: strict-origin-when-cross-origin
-  Strict-Transport-Security{% unless jekyll.environment == "production" %}-Report-Only{% endunless%}: max-age=63072000; includeSubDomains; preload
-  Report-To: {"group":"default","max_age":31536000,"endpoints":[{"url":"https://borisschapira.report-uri.com/a/d/g"}],"include_subdomains":true}
+  Strict-Transport-Security-Report-Only: max-age=63072000; includeSubDomains; preload
   Content-Security-Policy: {% include csp.html.liquid %}
   Feature-Policy: web-share 'self"
   Permissions-Policy: web-share=(self), interest-cohort=()
