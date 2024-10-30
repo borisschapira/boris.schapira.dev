@@ -4,7 +4,7 @@ styles:
   hl: e8c20d692fd3f03fa42f8a7e58466a45
   main: 5ffaa9b60e0cc135b5be088040ca7b36
 scripts:
-  index.min: 69f40dbcd1a57e09c16d689b4ad2900c
+  index.min: b0cd36032fd5ff27f44b5b82f9e6e3be
   index.min.js.LICENSE: 172d2e565a560e7caefb983f3ba29209
   index.min.js: 21e06c75e48eee075c7e0ab8b455fcbb
   navigation.min: b8cbb88b41c5ee3a2e9cc5f6a10a61c9
