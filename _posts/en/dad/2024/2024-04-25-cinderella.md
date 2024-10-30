@@ -4,14 +4,14 @@ translations:
     fr: cendrillon
 ---
 
-13-yo grumbles:
+13yo grumbles:
 
 > – You ask me to do all the chores, I'm Cinderella!  
 > – No, you're not. We just asked you to empty the dishwasher.  
 > – You did not ask, you ordered. I do everything! I'm Cinderella.  
 > – No, you're Cinderella's father.  
 > – What?! There is no Cinderella's father.  
-> – Oh there is. Who do you think married the awful godmother, and why?  
+> – Oh there is. Who do you think married the awful mother-in-law, and why?  
 > – I don't know. Because his wife died?  
 > – And ?  
 > – And he needed someone to look after his daughter?  

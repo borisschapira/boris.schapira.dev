@@ -11,7 +11,7 @@ translations:
 > – Vous n'avez pas demandé, vous m'avez ordonné. Je fais tout ! Je suis Cendrillon.  
 > – Non, tu es le père de Cendrillon.  
 > – Quoi ?! Le père de Cendrillon n'existe pas.  
-> – Oh que si. À ton avis, qui a épousé l'affreuse marraine ? Et pourquoi ?  
+> – Oh que si. À ton avis, qui a épousé l'affreuse belle-mère ? Et pourquoi ?  
 > – Je ne sais pas. Parce que sa femme est morte ?  
 > – Et ?  
 > – Et il avait besoin de quelqu'un pour s'occuper de sa fille ?  
