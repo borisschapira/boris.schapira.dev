@@ -63,10 +63,10 @@
     "postcss-loader": "^8.1.1",
     "prettier": "^3.3.3",
     "rss-parser": "^3.13.0",
-    "sass": "^1.80.5",
-    "sass-loader": "^16.0.2",
+    "sass": "^1.80.6",
+    "sass-loader": "^16.0.3",
     "uglify-js": "^3.19.3",
-    "webpack": "^5.95.0",
+    "webpack": "^5.96.1",
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
