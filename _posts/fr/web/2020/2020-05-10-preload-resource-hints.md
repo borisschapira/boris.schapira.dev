@@ -116,7 +116,7 @@ Utilisez `preload` avec parcimonie, car il prend le pas sur les priorités défi
 
 Même si le coût d’un `preconnect` est faible, il n’est pas nul. Si la connexion ainsi ouverte n’est pas utilisée rapidement, alors le `preconnect` aura engendré un surcoût de consommation CPU (côté client comme serveur) et de compétition réseau inutile.
 
-> […] utilisez-la à bon escient : chaque socket ouvert entraîne des coûts à la fois sur le client et sur le serveur, et vous voulez éviter d'ouvrir des sockets qui pourraient rester inutilisées. Comme toujours, faites-le, mesurez l'impact dans le monde réel et itérez pour obtenir le meilleur gain de performance possible. <cite>"<a href="https://www.igvita.com/2015/08/17/eliminating-roundtrips-with-preconnect/">Eliminating Roundtrips with Preconnect [EN]</a>", Ilya Grigorik, traduit de l’anglais.</cite>
+> […] utilisez-la à bon escient : chaque socket ouvert entraîne des coûts à la fois sur le client et sur le serveur, et vous voulez éviter d'ouvrir des sockets qui pourraient rester inutilisées. Comme toujours, faites-le, mesurez l'impact dans le monde réel et itérez pour obtenir le meilleur gain de performance possible. <cite>"<a href="https://www.igvita.com/2015/08/17/eliminating-roundtrips-with-preconnect/" hreflang="en">Eliminating Roundtrips with Preconnect [EN]</a>", Ilya Grigorik, traduit de l’anglais.</cite>
 
 Un conseil datant de 2015 mais toujours d’actualité, notamment dans le cas de connexions à des origines sécurisées, dont la validation des certificats ajoute de la charge CPU et réseau.
 
