@@ -10,7 +10,7 @@ GEM
       fiber-annotation
       io-event (~> 1.6, >= 1.6.5)
     bigdecimal (3.1.8)
-    console (1.27.0)
+    console (1.29.0)
       fiber-annotation
       fiber-local (~> 1.1)
       json
@@ -32,7 +32,7 @@ GEM
       yell (~> 2.0)
       zeitwerk (~> 2.5)
     io-event (1.7.3)
-    json (2.7.5)
+    json (2.8.1)
     mini_portile2 (2.8.7)
     nokogiri (1.16.7)
       mini_portile2 (~> 2.8.2)
