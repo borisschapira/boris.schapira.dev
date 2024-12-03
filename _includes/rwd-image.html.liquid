@@ -1,13 +1,15 @@
 {%- unless jekyll.environment == "development" -%}
   {%- if include.caption -%}
-    {%- capture img_code -%}{%- cloudinary {{ include.path }} loading="lazy" alt="{{ include.alt | escape }}" caption="{{ include.caption | replace: '"', '&quot;' }}" -%}{%- endcapture -%}
+    {%- capture img_code -%}{%- cloudinary {{ include.path }} {{ include.containerAttributes | raw }} loading="lazy" alt="{{ include.alt | escape }}" caption="{{ include.caption | replace: '"', '&quot;' }}" -%}{%- endcapture -%}
   {%- else -%}
-    {%- capture img_code -%}{%- cloudinary {{ include.path }} loading="lazy" alt="{{ include.alt | escape }}" -%}{%- endcapture -%}
+    {%- capture img_code -%}{%- cloudinary {{ include.path }} {{ include.containerAttributes }} loading="lazy" alt="{{ include.alt | escape }}" -%}{%- endcapture -%}
   {%- endif -%}
 {%- else -%}
-  {%- capture img_code -%}<img src="{{ include.path }}" loading="lazy" alt="{{ include.alt | escape }}">{%- endcapture -%}
+  {%- capture img_code -%}src="{{ include.path }}" loading="lazy" alt="{{ include.alt | escape }}"{%- endcapture -%}
   {%- if include.caption -%}
-    {%- capture img_code -%}{{ img_code }}<figcaption>{{ include.caption | markdownify }}</figcaption>{%- endcapture -%}
-    {%- capture img_code -%}<figure>{{ img_code }}</figure>{%- endcapture -%}
+    {%- capture img_code -%}<img {{ img_code }}><figcaption>{{ include.caption | markdownify }}</figcaption>{%- endcapture -%}
+    {%- capture img_code -%}<figure {% if include.containerAttributes %}{{ include.containerAttributes | raw }}{% endif %}>{{ img_code }}</figure>{%- endcapture -%}
+  {%- else -%}
+    {%- capture img_code -%}<img {{ img_code }} {% if include.containerAttributes %}{{ include.containerAttributes | raw }}{% endif %}>{%- endcapture -%}
   {%- endif -%}
 {%- endunless -%}{{ img_code }}
