@@ -266,6 +266,32 @@ layout: microtypo
         g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
       })();
     </script>
+    <script type="text/javascript">
+      // Loads CSQ tag if "csq=true" in the URL
+      var params = new URLSearchParams(new URL(location).search);
+      if (params.has('csq') && params.get('csq') == 'true') {
+        (function (c, s, q, u, a, r, e) {
+            c.hj=c.hj||function(){(c.hj.q=c.hj.q||[]).push(arguments)};
+            c._hjSettings = { hjid: a };
+            r = s.getElementsByTagName('head')[0];
+            e = s.createElement('script');
+            e.async = true;
+            e.src = q + c._hjSettings.hjid + u;
+            r.appendChild(e);
+        })(window, document, 'https://static.hj.contentsquare.net/c/csq-', '.js', 5229419);
+
+        // add the parameter on all anchors
+        [...document.querySelectorAll('a')].forEach(element => {
+          anchorHRef = new URL(element.href);
+          var params = new URLSearchParams(anchorHRef.search);
+          if (!params.has('csq')) {
+            params.append('csq','true');
+            anchorHRef.search = params.toString();
+            element.href = anchorHRef.toString();
+          }
+        });
+      }
+    </script>
     <!-- End Matomo Code -->
     {% endunless %}
     <!-- Service Worker Registration -->
