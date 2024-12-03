@@ -8,14 +8,14 @@ description: >-
 last_date: 2017-04-01
 events:
     - name: 'Site Web · 2017'
-      url: https://pour-un-meilleur-scrutin.fr/
+      url: https://xdeadc0de.github.io/ballot-fr/
       date: 2017-04-01
 last_modified_at: 2017-04-01
 ---
 
 _Une fois n'est pas coutume, il ne s'agit pas d'une conférence mais de la participation à un projet Open Source._
 
-**[Consulter le projet](https://pour-un-meilleur-scrutin.fr/)**
+**[Consulter le projet](https://xdeadc0de.github.io/ballot-fr/)**
 
 En décembre 2016, j'ai découvert [au détour d'un tweet](https://twitter.com/ncasenmare/status/807984252994330624) le travail de Nicky Case. Il s'agissait d'une page Web explicative des modes de scrutin alternatifs au scrutin uninominale majoritaire, comme j'en avais déjà vu des dizaines. La principale innovation de son format était que cette fois-ci, des portions interactives permettant de se rendre compte soi-même, en manipulant les données graphiquement, des faiblesses de chaque mode de scrutin.
 
