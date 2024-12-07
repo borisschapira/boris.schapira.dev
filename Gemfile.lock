@@ -8,9 +8,9 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll-archives
-  revision: 8e6ce0be6d0788a1add52cb91e72428c01ea8a6c
+  revision: b3050adfcd625b4eea65324e545e64ffa9d67498
   specs:
-    jekyll-archives (2.2.1)
+    jekyll-archives (2.3.0)
       jekyll (>= 3.6, < 5.0)
 
 GEM
@@ -49,7 +49,7 @@ GEM
       fiber-storage
     fiber-storage (1.0.0)
     forwardable-extended (2.6.0)
-    google-protobuf (4.29.0)
+    google-protobuf (4.29.1)
       bigdecimal
       rake (>= 13)
     hashery (2.1.2)
@@ -133,7 +133,7 @@ GEM
     rouge (4.5.1)
     ruby-rc4 (0.1.5)
     safe_yaml (1.0.5)
-    sass-embedded (1.81.1)
+    sass-embedded (1.82.0)
       google-protobuf (~> 4.28)
       rake (>= 13)
     terminal-table (3.0.2)
