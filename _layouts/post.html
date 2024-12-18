@@ -27,9 +27,10 @@ layout: default_no_pagination
     {%- endif -%}
   {%- endif -%}
   <div class="contrib">
+    {% assign github = site.author.social | where: 'title', 'Github' | first %}
     <p>
-      {{ "Si vous détectez une erreur et que vous avez un compte Github" | t: page.locale }}, {{ "vous pouvez proposer une" | t: page.locale }} <a rel="nofollow" href="{{ site.author.github|raw }}/boris.schapira.dev/tree/main/_posts/{{ page.locale | downcase }}/{{ page.category | t: page.locale | downcase }}/{{ page.date | date: "%Y" }}/{{ source.last }}">{{ "modification des" | t: page.locale }} <span class="nowrap">{{ "sources" | t: page.locale }}</span></a>
-      {{ "ou ouvrir un" | t: page.locale }} <a class="nowrap" href="{{ site.author.github|raw }}/boris.schapira.dev/issues/new?title=Article%20%22{{page.url}}%22" rel="nofollow">{{ "ticket" | t: page.locale }}</a>.
+      {{ "Si vous détectez une erreur et que vous avez un compte Github" | t: page.locale }}, {{ "vous pouvez proposer une" | t: page.locale }} <a rel="nofollow" href="{{ github.url|raw }}/boris.schapira.dev/tree/main/_posts/{{ page.locale | downcase }}/{{ page.category | t: page.locale | downcase }}/{{ page.date | date: "%Y" }}/{{ source.last }}">{{ "modification des" | t: page.locale }} <span class="nowrap">{{ "sources" | t: page.locale }}</span></a>
+      {{ "ou ouvrir un" | t: page.locale }} <a class="nowrap" href="{{ github.url|raw }}/boris.schapira.dev/issues/new?title=Article%20%22{{page.url}}%22" rel="nofollow">{{ "ticket" | t: page.locale }}</a>.
     </p>
   </div>
 </footer>

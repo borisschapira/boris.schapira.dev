@@ -94,26 +94,6 @@ layout: microtypo
     <meta property="article:tag" content="{{ tag }}" />
     {% endfor %}
 
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:domain" content="{{ site.domain }}" />
-    <meta name="twitter:title" content="{{ pageTitle }}" />
-    <meta name="twitter:description" content="{{ page.social.description }}" />
-    <meta property="twitter:label1" content="Par" />
-    <meta property="twitter:data1" content="{{ page.author.name | default: site.author.name }}" />
-
-    {% if page.category %}
-    <meta property="twitter:label2" content="{{ "Catégorie" | t:page.locale }}" />
-    <meta property="twitter:data2" content="{{ page.category | capitalize }}" />
-    {% endif %}
-
-    <meta name="twitter:image" content="{{ page.social.image }}">
-    <meta name="twitter:creator" content="{{ site.author.twitter_username }}" />
-    <meta name="twitter:site" content="{{ site.author.twitter_username }}" />
-    <meta name="twitter:widgets:link-color" content="#{{ page.social.color }}">
-    <meta name="twitter:widgets:border-color" content="#{{ page.social.color }}">
-    <meta name="twitter:dnt" content="on">
-    <meta name="twitter:widgets:csp" content="on">
-
     {% assign mastoPro = site.author.social | where: 'title', 'Mastodon (pro)' | first %}
     {% assign mastoPerso = site.author.social | where: 'title', 'Mastodon (perso)' | first %}
     <meta name="fediverse:creator" content="{% unless page.category == 'web' %}{{ mastoPerso.nick }}{% else %}{{ mastoPro.nick }}{% endunless %}" />

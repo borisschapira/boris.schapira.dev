@@ -2,22 +2,24 @@
 permalink: /humans.txt
 ---
 
+{% assign mastoPro = site.author.social | where: 'title', 'Mastodon (pro)' | first %}
+{% assign mastoPerso = site.author.social | where: 'title', 'Mastodon (perso)' | first %}
+
 /* Author */
 Name: Boris Schapira
 Site: https://borischapira.com
-Mastodon: {{ site.author.mastodon_perso.nick }}, {{ site.author.mastodon_pro.nick }}
+Mastodon: {{ mastoPerso.nick }} (perso), {{ mastoPro.nick }} (pro)
 Location: Made with <3 in Perigueux, France
 
 /* THANKS */
-Many thanks to all the people that have helped me understand 
+Many thanks to all the people that have helped me understand
 how to do this. Nicolas Hoizey, Sylvain Durand, Adams Clarkson,
 Nicolas Hoffman… thank you very much!
 
 /* SITE */
-Last update:  {{ site.time | date: "%Y-%m-%d" }}
+Last update: {{ site.time | date: "%Y-%m-%d" }}
 
 Standards: HTML5, CSS3, JavaScript
 Components: Abbr Touch, jQuery, touchtap
 Building tools: Jekyll, Bundler, Ruby, SASS, HTML-proofer
-Software used during development: Visual Studio Code, Cyberduck,
-and Spotify!
+Software used during development: Visual Studio Code, Cyberduck
