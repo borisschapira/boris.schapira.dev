@@ -252,9 +252,8 @@ layout: microtypo
       }
     </script>
     {% unless jekyll.environment == "development" %}
-    <!-- Matomo -->
+    <!-- Matomo Tag -->
     <script type="text/javascript">
-
       var _paq = window._paq = window._paq || [];
       _paq.push(['trackPageView']);
       _paq.push(['enableLinkTracking']);
@@ -266,10 +265,18 @@ layout: microtypo
         g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
       })();
     </script>
+    <!-- End Matomo Tag -->
+    <!-- Contentsquare Tag -->
     <script type="text/javascript">
-      // Loads CSQ tag if "csq=true" in the URL
       var params = new URLSearchParams(new URL(location).search);
       if (params.has('csq') && params.get('csq') == 'true') {
+
+
+        const statusCode = {{ page.statusCode | default: "200" }};
+
+        window._uxa = window._uxa || [];
+        window._uxa.push(['setCustomVariable', 1, "statusCode", statusCode]);
+
         (function (c, s, q, u, a, r, e) {
             c.hj=c.hj||function(){(c.hj.q=c.hj.q||[]).push(arguments)};
             c._hjSettings = { hjid: a };
@@ -280,7 +287,6 @@ layout: microtypo
             r.appendChild(e);
         })(window, document, 'https://static.hj.contentsquare.net/c/csq-', '.js', 5229419);
 
-        // add the parameter on all anchors
         [...document.querySelectorAll('a')].forEach(element => {
           anchorHRef = new URL(element.href);
           var params = new URLSearchParams(anchorHRef.search);
@@ -292,7 +298,8 @@ layout: microtypo
         });
       }
     </script>
-    <!-- End Matomo Code -->
+    <!-- End Contentsquare Tag -->
+
     {% endunless %}
     <!-- Service Worker Registration -->
     <script>
