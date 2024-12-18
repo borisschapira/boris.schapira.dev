@@ -40,6 +40,6 @@ Dans le modèle de Dreyfus, il n'y a pas de bonne ou de mauvaise position, mais 
 
 Il existe de nombreux autres modèles mais j'aime bien celui-là car il démonte facilement ce qu'on appelle "expert" dans le monde du numérique. Très souvent, il s'agit d'une personne qui maitrise très bien son sujet mais est encore capable d'expliquer les choses, voire aime cela. Dans la matrice de Dreyfus, il s'agit donc plutôt de quelqu'un de compétent.
 
-J'ai croisé peu d'experts dans ma vie professionnelle et je suis loin de me considérer comme l'un d'eux sur aucun sujet mais comme tout est relatif, je suis sûrement l'expert de quelqu'un (et le con d'un autre).
+J'ai croisé peu d'experts dans ma vie professionnelle et je suis loin de me considérer comme l'un d'eux sur aucun sujet mais comme tout est relatif, je suis sûrement l'expert de quelqu'un (et le novice d'un autre).
 
 J'essaie de toujours garder en tête que chaque compétence doit être évaluée individuellement et qu'on peut être compétent quelque part et un novice ailleurs. Pour ma part, le degré le plus haut ne me passionne pas : j'aime trop expliquer ce que je fais !
