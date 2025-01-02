@@ -3,6 +3,7 @@ title: "Content Encoding: pourquoi utiliser la balise meta charset et l'en-tête
 thumbnail_background: /assets/images/2018-11-16/hiragana-blur.png
 canonical: 'https://blog.dareboost.com/fr/2018/11/encodage-meta-charset-content-type-header/'
 canonical_title: 'le blog de Dareboost'
+canonical_dismissed: true
 tags:
     - 'Performance Web'
     - Headers
@@ -20,6 +21,7 @@ Améliorer la vitesse à laquelle une page Web est affichée implique souvent de
     locale=page.locale
     title=page.canonical_title
     canonical=page.canonical
+    dismissed=page.canonical_dismissed
 %}
 
 Bien que le Web se veuille universel, les différents groupes humains qui l'utilisent ont leurs propres spécificités. L'une de ces spécificités est le langage, surtout lorsqu'il est écrit. Tout contenu textuel est composé de caractères, provenant d'un répertoire destiné à un type donné d'utilisation. Les hiraganas, par exemple, constituent un système phonétique destiné à la transcription sans ambiguïté de la langue japonaise.

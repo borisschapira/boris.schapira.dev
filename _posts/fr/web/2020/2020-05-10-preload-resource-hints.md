@@ -3,6 +3,7 @@ title: 'Preload, Prefetch et Preconnect : accélerez votre site avec les Resour
 thumbnail_background: '/assets/images/2020-04-29/people-doing-swim-race-1263349.jpg'
 canonical: 'https://blog.dareboost.com/fr/2020/05/preload-prefetch-et-preconnect-resource-hints/'
 canonical_title: 'le blog de Dareboost'
+canonical_dismissed: true
 description: >-
     Utilisez preload et les Resource Hints pour améliorer la vitesse de chargement en influençant l'ordre de récupération et exécution des ressources.
 
@@ -26,6 +27,7 @@ Pour charger une page web complète, il faut un ensemble de ressources qui, coll
     locale=page.locale
     title=page.canonical_title
     canonical=page.canonical
+    dismissed=page.canonical_dismissed
 %}
 
 <figure>

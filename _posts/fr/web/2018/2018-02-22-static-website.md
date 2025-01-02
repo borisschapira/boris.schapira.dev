@@ -2,6 +2,7 @@
 title: 'Meilleure UX, meilleures performances : la nouvelle donne du web statique'
 canonical: 'https://blog.dareboost.com/fr/2018/02/site-statique-performance-web/'
 canonical_title: 'le blog de Dareboost'
+canonical_dismissed: true
 tags:
     - 'Performance Web'
     - JAMStack
@@ -26,6 +27,7 @@ alt=img_alt
     locale=page.locale
     title=page.canonical_title
     canonical=page.canonical
+    dismissed=page.canonical_dismissed
 %}
 
 Lorsqu'un utilisateur tente d'accéder à une page Web, son navigateur envoie une requête au serveur qui l'héberge. Soit le serveur retourne immédiatement la page telle qu'elle est stockée, soit le serveur la génère en exécutant du code, à la demande.

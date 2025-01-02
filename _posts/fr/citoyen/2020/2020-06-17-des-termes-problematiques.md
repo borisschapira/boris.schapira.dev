@@ -41,8 +41,6 @@ Mais ça ne me viendrait pas à l'idée d'utiliser ce mot ou n'importe quel autr
 
 Dis autrement : dans la mesure où la sémantique ne peut être séparé de la pragmatique, le sens des termes que nous employons, leur réception par les personnes en face de nous et leurs effets dépendent de leur contexte d'énonciation. Si ce contexte change, parce qu'une prise de conscience nait, alors un choix politique doit s'opérer pour savoir si le terme est conservé, ou non.
 
-<ins class="bloc" datetime="2020-09-18" title="Ajout du 18 septembre 2020">Je suis tombé depuis sur cet article, et particulièrment ce paragraphe, qui explique la problématique en 2 phrases.</ins>
-
 > Pourquoi s'attacher si désespérément à l'usage d'un mot dont le caractère offensant est incontestable ? Dès lors que l'on connaît le caractère raciste d'un mot, si l'on sait qu'il blesse et humilie une partie de la population, pour quelle raison rationnelle s'obstiner à l'employer ? Quelle privation ressentent les personnes qui s'accrochent à ce mot au point de déployer une argumentation si prolixe pour en défendre l'usage ? <cite>« [Pourquoi le changement de titre des "Dix petits nègres" indigne tant la France ?](http://www.slate.fr/story/194546/agatha-christie-dix-ptits-negres-rebaptise-ils-etaient-dix-pourquoi-france-accrocher-desesperement-racisme) », Rokhaya Diallo</cite>
 
 ---

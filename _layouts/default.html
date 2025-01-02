@@ -67,12 +67,17 @@ layout: microtypo
     <meta name="robots" content="noindex,follow">
     {% endif %}
 
-    {% if page.canonical %}
-      <link rel="canonical" href="{{ page.canonical }}" data-proofer-ignore/>
-      {% else %}
-      {% capture url_path %}{{site.prod_url}}{{page.url}}{% endcapture %}
+    {%- if page.canonical -%}
+      {%- if page.canonical_dismissed -%}
+        {%- capture url_path -%}{{site.prod_url}}{{page.url}}{%- endcapture -%}
+        <link rel="canonical" href="{{ url_path }}" data-proofer-ignore/>
+      {%- else -%}
+        <link rel="canonical" href="{{ page.canonical }}" data-proofer-ignore/>
+      {%- endif -%}
+    {%- else -%}
+      {%- capture url_path -%}{{site.prod_url}}{{page.url}}{%- endcapture -%}
       <link rel="canonical" href="{{ url_path }}" data-proofer-ignore/>
-    {% endif %}
+    {%- endif -%}
 
     <meta name="description" content="{{ page.social.description }}" />
     <meta property="og:url" content="{{ page.url }}" />

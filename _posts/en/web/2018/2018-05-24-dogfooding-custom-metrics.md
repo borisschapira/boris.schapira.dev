@@ -2,6 +2,7 @@
 title: '[Dogfooding] How Dareboost has benefited from Custom Timings monitoring'
 canonical: 'https://blog.dareboost.com/en/2018/05/dogfooding-dareboost-custom-timings/'
 canonical_title: "Dareboost's Blog"
+canonical_dismissed: true
 tags:
     - 'Performance Web'
     - Metrics
@@ -22,6 +23,7 @@ alt=img_alt
     locale=page.locale
     title=page.canonical_title
     canonical=page.canonical
+    dismissed=page.canonical_dismissed
 %}
 
 A few weeks ago, we have introduced a new feature in your page analysis reports and monitors: [Custom Timings](https://blog.dareboost.com/en/2018/05/custom-timings-monitoring/), tailor-made markers, to be placed in JavaScript using the User Timing API, that you can then display in Dareboost to visualize their evolution over time.

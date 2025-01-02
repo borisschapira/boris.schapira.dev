@@ -19,4 +19,4 @@ Je me sers du <span lang="en">BetterBack</span> comme d'un outil de rééducatio
 
 Au fil des utilisations, j'ai commencé à me corriger. Au début, j'avais un déclic une fois par jour, et corrigeais ma posture. Maintenant, c'est plus régulier et il arrive parfois que je me surprenne à être bien assis, même sans le <span lang="en">BetterBack</span>. Je n'ai plus du sensation de chaleur, ni de courbatures : la posture avec le <span lang="en">BetterBack</span> me semble naturelle.
 
-Pour ceux qui habitent Bordeaux et veulent essayer, je suis souvent disponible pour un café. C'est encore le meilleur moyen de savoir si ça vous plait et, pourquoi pas, l'acheter à deux ou trois pour le partager au bureau. <ins datetime="2016-02-18" title="Ajout au 18 février 2016">Je viens de recevoir de _BetterBack_ un coupon de réduction de 10 % : **HUGS**. De rien !</ins>
+Pour ceux qui habitent Bordeaux et veulent essayer, je suis souvent disponible pour un café. C'est encore le meilleur moyen de savoir si ça vous plait et, pourquoi pas, l'acheter à deux ou trois pour le partager au bureau.

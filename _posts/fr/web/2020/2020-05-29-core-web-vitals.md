@@ -13,7 +13,7 @@ last_modified_at: 2020-11-10 12:48:00 +0000
 
 Il y a quelques semaines, Google a créé une nouvelle appellation pour un jeu d'indicateurs de mesure de l'expérience utilisateur : les [<em lang="en">Core Web Vitals</em>](https://web.dev/vitals/), ou **Signaux Web Essentiels**. La nouvelle fait grand bruit dans le monde du <abbr title="Search Engine Optimization" lang="en">SEO</abbr>, car Google souhaite [faire de ces indicateurs des critères de <em lang="en">ranking</em>](https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html) l'année prochaine.
 
-<ins class="bloc" datetime="2020-11-10">Le déploiement est prévu <a href="https://webmasters.googleblog.com/2020/11/timing-for-page-experience.html" lang="en" title="Timing for bringing page experience to Google Search">en mai 2021</a>.</ins>
+Le déploiement est prévu <a href="https://webmasters.googleblog.com/2020/11/timing-for-page-experience.html" lang="en" title="Timing for bringing page experience to Google Search">en mai 2021</a>.
 
 Prenons un peu de recul.
 
@@ -31,9 +31,9 @@ Ceci est un avis personnel sur les Core Web Vitals. Retrouvez un avis complémen
 
 Rien ne garantit donc, même si c'est probable, que les indicateurs mis en avant aujourd'hui soient, l'année prochaine, toujours d'actualité. Pour rappel, Google a auparavant fait la promotion d'autres indicateurs, comme le <em lang="en">Time To Interactive</em>, avant d'en revoir l'appréciation à la baisse dans des itérations ultérieures de leurs outils ([à raison](https://boris.schapira.dev/2019/05/mesurer-interactivite-time-to-interactive/)).
 
-<ins class="bloc" datetime="2020-09-15">De ce que j'ai vu du <a href="/notes/2020-09-cumulative-layout-shift-stabilite-page/">Cumulative Layout Shift</a>, je pense qu'il sera également remplacé à moyen terme par un indicateur de meilleure qualité.</ins>
+De ce que j'ai vu du <a href="/notes/2020-09-cumulative-layout-shift-stabilite-page/">Cumulative Layout Shift</a>, je pense qu'il sera également remplacé à moyen terme par un indicateur de meilleure qualité.
 
-<ins class="bloc" datetime="2021-01-21">Suite aux critiques des équipes de développement de SPAs, <a href="https://web.dev/better-layout-shift-metric/" hreflang="en">la réflexion semble avoir commencé</a>.</ins>
+Suite aux critiques des équipes de développement de SPAs, <a href="https://web.dev/better-layout-shift-metric/" hreflang="en">la réflexion semble avoir commencé</a>.
 
 ---
 
@@ -83,7 +83,7 @@ Enfin, les <em lang="en">Core Web Vitals</em> intègrent le **<em lang="en">Cumu
 
 Des choses seraient à creuser sur sa sensibilité à l'orientation, son rapport aux interactions et aux animations. J'ai en tête des exemple de pages très désagréables en termes de déplacement d'éléments, mais qui auraient un bon CLS. Le sujet est très complexe. Je ne suis pas certain que l'algorithme soit suffisament complexe pour être pertinent dans un contexte de <em lang="en">ranking</em>.
 
-<ins class="bloc" datetime="2020-09-15">Depuis, j'ai pris le temps de décortiquer l'indicateur et son algorithme pour en liver une analyse : "[Cumulative Layout Shift, l’indicateur de stabilité de la mise en page](/notes/2020-09-cumulative-layout-shift-stabilite-page/)".</ins>
+Depuis, j'ai pris le temps de décortiquer l'indicateur et son algorithme pour en liver une analyse : "[Cumulative Layout Shift, l’indicateur de stabilité de la mise en page](/notes/2020-09-cumulative-layout-shift-stabilite-page/)".
 
 ---
 

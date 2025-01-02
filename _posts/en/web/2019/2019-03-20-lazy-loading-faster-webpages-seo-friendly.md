@@ -2,6 +2,7 @@
 title: 'Lazy Loading, faster webpages, SEO friendly'
 canonical: 'https://blog.dareboost.com/en/2019/03/lazy-loading-faster-webpages-seo-friendly/'
 canonical_title: "Dareboost's Blog"
+canonical_dismissed: true
 cloudinary_logo: dareboost-logo
 tags:
     - 'Performance Web'
@@ -21,6 +22,7 @@ Some reject the technique for SEO considerations. But properly lazy loading your
     locale=page.locale
     title=page.canonical_title
     canonical=page.canonical
+    dismissed=page.canonical_dismissed
 %}
 
 Images are everywhere on the Web. Serving the right image in the right context can be really challenging. [Images need to be optimized](/notes/2017-10-optimize-images-to-reduce-page-weight-file-formats-tools-and-rwd/), adapted to its rendering area, and only loaded if required.

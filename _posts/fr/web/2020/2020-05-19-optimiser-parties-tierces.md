@@ -3,6 +3,7 @@ title: 'Comment optimiser les performance de vos parties tierces'
 thumbnail_background: '/assets/images/2020-05-20/swimmers-on-body-water-3772419.jpg'
 canonical: 'https://blog.dareboost.com/fr/2020/05/optimiser-performance-parties-tierces/'
 canonical_title: 'le blog de Dareboost'
+canonical_dismissed: true
 description: >-
     Pourquoi et comment utiliser la directive preload et les Resource Hints pour optimiser la charge de vos ressources tierces (polices, vidéos, analytics...) et accélérer vos pages web.
 
@@ -27,6 +28,7 @@ Intégrer des librairies ou services existants de parties tierces permet de gagn
     locale=page.locale
     title=page.canonical_title
     canonical=page.canonical
+    dismissed=page.canonical_dismissed
 %}
 
 <figure>

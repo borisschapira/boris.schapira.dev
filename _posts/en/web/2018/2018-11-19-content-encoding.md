@@ -3,6 +3,7 @@ title: 'Content Encoding: why and how to use the meta charset tag and the Conten
 thumbnail_background: /assets/images/2018-11-16/hiragana-blur.png
 canonical: 'https://blog.dareboost.com/en/2018/11/content-encoding-meta-charset-content-type-header/'
 canonical_title: "Dareboost's Blog"
+canonical_dismissed: true
 tags:
     - 'Performance Web'
     - Headers
@@ -21,6 +22,7 @@ Improving the speed at which a web page is displayed often means making the brow
     locale=page.locale
     title=page.canonical_title
     canonical=page.canonical
+    dismissed=page.canonical_dismissed
 %}
 
 Although the Web is intended to be universal, the various human groups that use it have their own specificities. One of these specificities is language, especially when written. All textual content is composed of characters from a directory intended for a type of use. Hiraganas, for example, are phonetic system intended for the unambiguous transcription of the Japanese language.

@@ -12,6 +12,7 @@ cloudinary_logo: dareboost-logo
 slug: cumulative-layout-shift-visual-instability
 canonical: https://blog.dareboost.com/en/2020/09/cumulative-layout-shift-visual-instability/
 canonical_title: "Dareboost's Blog"
+canonical_dismissed: true
 translations:
     fr: cumulative-layout-shift-stabilite-page
 ---
@@ -25,6 +26,7 @@ _This kind of user experience can be frustrating, but until now we've had troubl
     locale=page.locale
     title=page.canonical_title
     canonical=page.canonical
+    dismissed=page.canonical_dismissed
 %}
 
 When you see a web page, you automatically break it down into visual elements. You perceive their relationship to each other according to their arrangement on the page. This is how you can identify where the relevant content is located. If this content moves by itself, or if another element is injected into the layout and moves the others, then you may lose sight of what you are focusing on.

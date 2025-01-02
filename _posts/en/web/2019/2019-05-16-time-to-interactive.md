@@ -3,6 +3,7 @@ title: 'Measuring Interactivity with TTI'
 subtitle: 'Time To (consistently) Interactive'
 canonical: 'https://blog.dareboost.com/en/2019/05/measuring-interactivity-time-to-interactive/'
 canonical_title: "Dareboost's Blog"
+canonical_dismissed: true
 description: >-
     For a few years now, Google has been pushing an ambiguous metric: Time To Interactive (TTI). What does it mean? Let's define it and explain how and when to use it (or not).﻿
 
@@ -27,6 +28,7 @@ For a few years now, Google has been pushing an ambiguous metric: **Time To Inte
     locale=page.locale
     title=page.canonical_title
     canonical=page.canonical
+    dismissed=page.canonical_dismissed
 %}
 
 {% capture img_alt %} Photo of a carousel in action. The rotational movement creates a fuzzy effect: it is impossible to know with certainty the speed of the merry-go-round. {% endcapture %} {% capture img_caption %} Measuring interactivity is like getting on a moving ride. When can we consider that the carousel is slow enough to consider that we can jump on it? There’s no precise answer. {% endcapture %} {% include rwd-image.html.liquid

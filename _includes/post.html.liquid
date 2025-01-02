@@ -36,7 +36,16 @@
     },
     "image":"{{ include.post.social.image }}",
     "keywords":"{{ include.post.categories | join: " " }} {{ include.post.tags | join: " " }}",
-    "mainEntityOfPage": "{%- unless include.post.canonical -%}{{ include.post.url | absolute_url }}{%- else -%}{{ include.post.canonical }}{%- endunless -%}"
+    "mainEntityOfPage": "
+    {%- if include.post.canonical -%}
+      {%- if include.post.canonical_dismissed -%}
+        {{ include.post.url | absolute_url }}
+      {%- else -%}
+          {{ include.post.canonical }}
+      {%- endif -%}
+    {%- else -%}
+      {{ include.post.url | absolute_url }}
+    {%- endif -%}"
   }
   </script>
 </article>

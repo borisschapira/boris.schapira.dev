@@ -3,6 +3,7 @@ title: 'Preload, Prefetch and Preconnect: Speed Up your Website with Resource Hi
 thumbnail_background: '/assets/images/2020-04-29/people-doing-swim-race-1263349.jpg'
 canonical: 'https://blog.dareboost.com/en/2020/05/preload-prefetch-preconnect-resource-hints/'
 canonical_title: "Dareboost's Blog"
+canonical_dismissed: true
 description: >-
     Use preload and the Resource Hints to increase the perception of speed by influencing the order in which these resources are fetched and executed.
 
@@ -26,6 +27,7 @@ Loading a web page requires fetching a whole set of resources which collectively
     locale=page.locale
     title=page.canonical_title
     canonical=page.canonical
+    dismissed=page.canonical_dismissed
 %}
 
 <figure>

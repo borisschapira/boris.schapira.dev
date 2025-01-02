@@ -2,6 +2,7 @@
 title: 'Vidéo : optimisez vos MP4 pour de meilleures performances'
 canonical: 'https://blog.dareboost.com/fr/2018/01/video-optimisez-vos-mp4-pour-de-meilleures-performances/'
 canonical_title: 'le blog de Dareboost'
+canonical_dismissed: true
 tags:
     - 'Performance Web'
     - Video
@@ -25,6 +26,7 @@ caption=img_caption
     locale=page.locale
     title=page.canonical_title
     canonical=page.canonical
+    dismissed=page.canonical_dismissed
 %}
 
 Que vous soyez un acteur du Luxe désireux de diffuser des vidéos de très haute qualité ou une plateforme d'information à la recherche d'une proposition de contenu accrocheuse, la vidéo est devenue en quelques années un élément incontournable du Web. Mais l'ajout d'une vidéo à un site peut être complexe.

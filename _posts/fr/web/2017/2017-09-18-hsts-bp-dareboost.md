@@ -3,6 +3,7 @@ title: 'Fiabiliser les connexions sécurisées avec HSTS (HTTP Strict Transport 
 thumbnail_background: /assets/images/2017-09-18/1.jpg
 canonical: 'https://blog.dareboost.com/fr/2017/09/hsts-fiabiliser-connexions-securisees/'
 canonical_title: 'le blog de Dareboost'
+canonical_dismissed: true
 tags:
     - 'Performance Web'
 slug: hsts-fiabiliser-connexions-securisees
@@ -26,6 +27,7 @@ alt=img_alt
     locale=page.locale
     title=page.canonical_title
     canonical=page.canonical
+    dismissed=page.canonical_dismissed
 %}
 
 ## Mise en place d’une redirection : une technique qui présente des limites

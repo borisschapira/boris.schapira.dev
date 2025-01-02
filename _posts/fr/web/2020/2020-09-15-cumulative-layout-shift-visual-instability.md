@@ -15,6 +15,7 @@ cloudinary_logo: dareboost-logo
 slug: cumulative-layout-shift-stabilite-page
 canonical: https://blog.dareboost.com/fr/2020/09/cumulative-layout-shift-stabilite-page/
 canonical_title: 'le blog de Dareboost'
+canonical_dismissed: true
 translations:
     en: cumulative-layout-shift-visual-instability
 ---
@@ -28,6 +29,7 @@ _Ce type d’expérience utilisateur peut être frustrant, mais jusqu’à prés
     locale=page.locale
     title=page.canonical_title
     canonical=page.canonical
+    dismissed=page.canonical_dismissed
 %}
 
 Lorsque vous voyez une page web, votre cerveau décompose l’information visuelle en éléments. L’agencement de la page vous donne des informations sur leurs relations les uns par rapport aux autres. C’est comme ça que vous détectez le contenu pertinent. Si ce contenu se déplace tout seul, ou si un autre élément est injecté dans la page et déplace les autres, alors vous risquez de le perdre de vue.

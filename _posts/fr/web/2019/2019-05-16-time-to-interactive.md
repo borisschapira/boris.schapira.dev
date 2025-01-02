@@ -3,6 +3,7 @@ title: 'Mesurer l’interactivité avec le TTI'
 subtitle: 'Time To (consistently) Interactive'
 canonical: 'https://blog.dareboost.com/fr/2019/05/mesurer-interactivite-time-to-interactive/'
 canonical_title: 'le blog de Dareboost'
+canonical_dismissed: true
 description: >-
     Depuis quelques années, Google met en avant un indicateur ambigu : le Time To Interactive (TTI). De quoi s’agit-il ? C’est ce que nous allons définir, avant d’expliquer comment et quand l’utiliser (ou non).
 
@@ -27,6 +28,7 @@ Depuis quelques années maintenant, Google met en avant un indicateur ambigu : l
     locale=page.locale
     title=page.canonical_title
     canonical=page.canonical
+    dismissed=page.canonical_dismissed
 %}
 
 {% capture img_alt %} Photo d'un manège qui tourne. Le mouvement de rotation créé un effet de flou : il est impossible de déterminer avec certitude la vitesse du manège. {% endcapture %} {% capture img_caption %} Mesurer l’interactivité, c’est comme monter sur un manège en marche. Quand peut-on considérer que le manège a suffisamment ralenti pour qu’on puisse monter dessus. Il n’y a pas de réponse précise. {% endcapture %} {% include rwd-image.html.liquid

@@ -2,6 +2,7 @@
 title: 'Back to static with JAMStack: a paradigm shift for better UX and web performance'
 canonical: 'https://blog.dareboost.com/en/2018/02/static-website-web-performance/'
 canonical_title: "Dareboost's Blog"
+canonical_dismissed: true
 tags:
     - 'Performance Web'
     - JAMStack
@@ -24,6 +25,7 @@ alt=img_alt
     locale=page.locale
     title=page.canonical_title
     canonical=page.canonical
+    dismissed=page.canonical_dismissed
 %}
 
 ## Where do we come from?
