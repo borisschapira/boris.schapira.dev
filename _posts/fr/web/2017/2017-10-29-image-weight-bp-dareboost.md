@@ -82,8 +82,8 @@ Comme nous l’avons vu dans l’exemple de la fusée, des optimisations avec ou
 
 Voici quelques formats de fichiers et certains outils d'optimisation adaptés, dont certains sont inclus dans les outils graphiques comme Photoshop ou GIMP :
 
--   PNG: Zopfli-png, PNGOUT, OptiPNG, AdvPNG, PNGCrush, PNGQuant
--   JPG: JPEGOptim, MozJPEG, Jpegtran, Guetzli
+- PNG: Zopfli-png, PNGOUT, OptiPNG, AdvPNG, PNGCrush, PNGQuant
+- JPG: JPEGOptim, MozJPEG, Jpegtran, Guetzli
 
 <a href="http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer">FileOptimizer</a> (Windows), <a href="https://imageoptim.com/mac">ImageOptim</a> (Mac) ou <a href="https://trimage.org/">Trimage</a> (Linux) sont des logiciels qui réunissent plusieurs algorithmes en un seul endroit. Ils vous permettront de tester ces optimisations avec différents niveaux de perte et exportent directement une image optimisée. Ils sont même capables de déterminer quand une image PNG peut être enregistrée en PNG-8 (une variante de PNG à 256 couleurs seulement) plutôt que PNG-24 pour gagner quelques précieux octets.
 

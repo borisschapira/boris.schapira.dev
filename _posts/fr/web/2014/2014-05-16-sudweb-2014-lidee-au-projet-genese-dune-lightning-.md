@@ -34,17 +34,17 @@ En proposant ce concept à Sud Web, je voulais présenter tout cela. En 5 minute
 
 Une fois qu'on a l'idée, encore faut-il démarrer l'écriture. Ma principale difficulté, dans ce genre d'exercice, est de toujours me focaliser sur l'introduction. Mais en cinq minutes, c'est ridicule. En 5 minutes, l'introduction dure 30 secondes. Il faut donc être clair et précis dans la présentation d'une trame. Dans les quelques minutes que je vais avoir à ma disposition, il faut que j'arrive à faire passer trois idées :
 
--   Les idées sont volatiles, les capturer est difficile
--   Formaliser son idée en utilisant un modèle (exemple : Lean Canvas)
--   Transmettre son idée pour l'expérimenter : à qui, comment ?
+- Les idées sont volatiles, les capturer est difficile
+- Formaliser son idée en utilisant un modèle (exemple : Lean Canvas)
+- Transmettre son idée pour l'expérimenter : à qui, comment ?
 
 ### J-23 : La répétition
 
 Dans un exercice oral comme celui-là, le rythme et la répétition sont importants, ainsi que l'utilisation de repères simples à se remémorer. Il est ainsi possible de reformuler légèrement les trois points principaux de manière à pouvoir en parler sous une forme qui sonne juste. J'ai opté pour des verbes, symboles d'action, et je les ai pris commençant tous trois par un "C"… parce que c'est marrant :
 
--   Capturer,
--   Conceptualiser,
--   Confronter. Ça me semble pas mal, même si je ne suis pas pleinement satisfait du "conceptualiser". Mais ça servira son objectif : imposer un rythme.
+- Capturer,
+- Conceptualiser,
+- Confronter. Ça me semble pas mal, même si je ne suis pas pleinement satisfait du "conceptualiser". Mais ça servira son objectif : imposer un rythme.
 
 ### J-20 : La rédaction
 
@@ -52,11 +52,11 @@ Un <span lang="en">Lightning Talk</span> est trop court pour ne pas être rédig
 
 Le plan à "trois C" me convient bien, mais avant de rédiger, il faut que je développe un peu les idées-clés, et que j'attribue à chaque partie une longueur, pour être sûr de ne pas avoir un contenu déséquilibré :
 
--   Introduction (~120 mots) : les idées dans ma vie de consultant, pourquoi elles n'arrivent que rarement jusqu'au statut de PMV
--   Capturer (~180 mots) : parler de la volatilité, de l'agacement et/ou de l'impatience de l'auteur. Inciter à s'équiper d'un crayon et d'un carnet pour griffonner, présenter des outils méthodo comme le Mind Mapping ou l'Affinity Diagram.
--   Conceptualiser (~180 mots) : introduire le Lean Canvas comme un modèle, parmi d'autres, de formalisation. Insister sur les forces du modèle : notamment celle de mettre en exergue les zones d'inconfort dans notre concept.
--   Confronter (~180 mots) : importance de l'interlocuteur, outils de formalisation pouvant être complétés par des outils méthodologies dédiés à l'échanges qui souvent complètent le projet
--   Conclusion (~120 mots) : ne laissez pas vos idées s'envoler sans leur avoir donné leur chance. Exemple : Sud Web, une bien bonne idée.
+- Introduction (~120 mots) : les idées dans ma vie de consultant, pourquoi elles n'arrivent que rarement jusqu'au statut de PMV
+- Capturer (~180 mots) : parler de la volatilité, de l'agacement et/ou de l'impatience de l'auteur. Inciter à s'équiper d'un crayon et d'un carnet pour griffonner, présenter des outils méthodo comme le Mind Mapping ou l'Affinity Diagram.
+- Conceptualiser (~180 mots) : introduire le Lean Canvas comme un modèle, parmi d'autres, de formalisation. Insister sur les forces du modèle : notamment celle de mettre en exergue les zones d'inconfort dans notre concept.
+- Confronter (~180 mots) : importance de l'interlocuteur, outils de formalisation pouvant être complétés par des outils méthodologies dédiés à l'échanges qui souvent complètent le projet
+- Conclusion (~120 mots) : ne laissez pas vos idées s'envoler sans leur avoir donné leur chance. Exemple : Sud Web, une bien bonne idée.
 
 ### J-17 : Premier jet rédactionnel
 

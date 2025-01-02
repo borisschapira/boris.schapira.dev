@@ -22,10 +22,10 @@ J'ai commencé par jeter mon blog Wordpress pour le remplacer par un générateu
 
 Mes dépendances Ruby sont gérées par [Bundler](http://bundler.io/) :
 
--   pour la gestion des ressources statiques (hors images) : `jekyll-assets` ;
--   pour la gestion des archives : `jekyll-archives` ;
--   pour la génération d'images <span lang="en">responsive</span> : `jekyll-responsive_image` ;
--   pour le `sitemap.xml` : `jekyll-sitemap`.
+- pour la gestion des ressources statiques (hors images) : `jekyll-assets` ;
+- pour la gestion des archives : `jekyll-archives` ;
+- pour la génération d'images <span lang="en">responsive</span> : `jekyll-responsive_image` ;
+- pour le `sitemap.xml` : `jekyll-sitemap`.
 
 L'internationalisation est permise par `i18n` et le `i18n_filter`[^2].
 

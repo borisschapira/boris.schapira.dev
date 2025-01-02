@@ -29,9 +29,9 @@ Par contre, à force de manipulations, mon Jekyll ressemblait moins au célèbre
 
 ## TL;DR
 
--   Constatant que ma compilation Jekyll était des plus lentes, j'ai contacté la communauté JAMstack francophone pour des conseils.
--   Plusieurs choses ont émergé, chaque conseil permettant d'optimiser le temps de compilation.
--   Le plus gros gain provient des évolutions de Jekyll lui-même, sur lequel l'équipe est en train de faire un énorme travail.
+- Constatant que ma compilation Jekyll était des plus lentes, j'ai contacté la communauté JAMstack francophone pour des conseils.
+- Plusieurs choses ont émergé, chaque conseil permettant d'optimiser le temps de compilation.
+- Le plus gros gain provient des évolutions de Jekyll lui-même, sur lequel l'équipe est en train de faire un énorme travail.
 
 ---
 
@@ -80,8 +80,8 @@ Par défaut, Jekyll est basé sur un ensemble de gemmes écrites en Ruby. Récem
 
 Il en existe certainement d'autres, mais en voici au moins deux :
 
--   [la gemme `liquid-c`](https://github.com/Shopify/liquid-c), pour optimiser la compilation Liquid ;
--   [la gemme `sassc`](https://github.com/sass/sassc-ruby), si vous avez besoin de Jekyll pour compiler des fichiers Sass plus efficacement.
+- [la gemme `liquid-c`](https://github.com/Shopify/liquid-c), pour optimiser la compilation Liquid ;
+- [la gemme `sassc`](https://github.com/sass/sassc-ruby), si vous avez besoin de Jekyll pour compiler des fichiers Sass plus efficacement.
 
 Je n'ai pas besoin de Jekyll pour mes fichiers Sass mais en utilisant `liquid-c`, j'ai économisé **9 %** du temps de compilation.
 

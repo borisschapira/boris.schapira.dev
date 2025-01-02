@@ -23,8 +23,8 @@ Car il faut bien se rendre compte que de nombreux sites sont encore liés à Fac
 
 Si vous n'avez aucun outil de surveillance sur votre site, vous pouvez être passé à côté d'une dégradation de l'expérience de vos utilisateurs. Heureusement, des outils peuvent vous aider à détecter cette faiblesse en dehors de tout incident chez un tiers :
 
--   [L'extension Chrome SPoF-o-matic](https://chrome.google.com/webstore/detail/spof-o-matic/plikhggfbplemddobondkeogomgoodeg), par exemple, vous permettra de détecter les domaines problématiques ;
--   [L'onglet SPOF de WebPageTest.org](http://www.webpagetest.org/) vous permettra de réaliser un test de performance en plaçant le domaine de votre choix en indisponibilité[^1].
+- [L'extension Chrome SPoF-o-matic](https://chrome.google.com/webstore/detail/spof-o-matic/plikhggfbplemddobondkeogomgoodeg), par exemple, vous permettra de détecter les domaines problématiques ;
+- [L'onglet SPOF de WebPageTest.org](http://www.webpagetest.org/) vous permettra de réaliser un test de performance en plaçant le domaine de votre choix en indisponibilité[^1].
 
 [^1]: En réalité, il interpose un proxy renvoyant les appels vers un <a href="https://blackhole.webpagetest.org">site "trou noir"</a> recréant ces conditions
 

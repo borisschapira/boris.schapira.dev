@@ -12,8 +12,8 @@ Avec 96 % des parts de marché des systèmes d'exploitation, le famille Microsof
 
 Étudiant à l'ESIEE-Paris en dernière année, Membre du Groupe Utilisateur Windows Vista et _Microsoft Student Partner_, je m'intéresse à ces notions depuis plusieurs mois. À travers l'étude stratégique de 10 nouveautés notables du système d'exploitation, **je vous convie** à découvrir une nouvelle façon d'appréhender les problématiques de sécurité et de contrôle du système tant pour les utilisateurs courants que pour les développeurs ou les directeurs de systèmes d'information :
 
--   Jeudi 1er février 2007
--   14h à l'ESIEE-Paris, amphithéâtre 110
--   Durée : ±1h + questions/réponses autour des problématique abordées
+- Jeudi 1er février 2007
+- 14h à l'ESIEE-Paris, amphithéâtre 110
+- Durée : ±1h + questions/réponses autour des problématique abordées
 
 N'hésitez pas à me contacter pour me prévenir de votre présence !

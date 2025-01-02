@@ -35,8 +35,8 @@ Ces indicateurs peuvent être de deux types : orientés métier ou purement tech
 
 Souvent, dans cette première phase, vous n’avez pas l’œil perpétuellement rivé sur les indicateurs, sinon vous ne feriez pas grand-chose de concret. À la place, vous faites une extraction des mesures toutes les semaines ou tous les mois, suivant la criticité, souvent manuellement. Il ne s’agit pas de perdre du temps à sortir des métriques, mais bien d’améliorer rapidement les choses. Pas la peine de réinventer la roue, vous pouvez utiliser des outils publics, souvent gratuits et en ligne comme :
 
--   pour l’analyse de Waterfall : [WebPageTest.org](https://www.webpagetest.org/), [Pingdom Tools](https://tools.pingdom.com/fpt/)
--   pour le respect des bonnes pratiques : [Dareboost](https://www.dareboost.com/ 'Analyse de site Web, Test de Performance et Audit qualité - DareBoost'), [Page Speed Online](https://developers.google.com/speed/pagespeed/insights/), [YSlow](https://developer.yahoo.com/yslow/)
+- pour l’analyse de Waterfall : [WebPageTest.org](https://www.webpagetest.org/), [Pingdom Tools](https://tools.pingdom.com/fpt/)
+- pour le respect des bonnes pratiques : [Dareboost](https://www.dareboost.com/ 'Analyse de site Web, Test de Performance et Audit qualité - DareBoost'), [Page Speed Online](https://developers.google.com/speed/pagespeed/insights/), [YSlow](https://developer.yahoo.com/yslow/)
 
 ### Niveau 1 - la réaction
 

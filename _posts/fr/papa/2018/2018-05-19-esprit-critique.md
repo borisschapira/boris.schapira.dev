@@ -8,9 +8,9 @@ Mes garçons, grandissent, ce qui me permet d'exercer leur esprit critique. Nous
 
 Le sujet du jour était les dinosaures.
 
--   "Les dinosaures portaient des vêtements" : _Fake_ ! Personne n'aurait pu tailler des vêtements aussi grands !
--   "La terre sur laquelle on marche est le fruit de leurs excréments" : ils sont pas sûrs. C'est gros, mais ça pourrait être possible.
--   "Les dinosaures lisaient des livres avec des enfants humains dedans" : crédible, puisque les enfants humains lisent des livres avec des dinosaures dedans.
+- "Les dinosaures portaient des vêtements" : _Fake_ ! Personne n'aurait pu tailler des vêtements aussi grands !
+- "La terre sur laquelle on marche est le fruit de leurs excréments" : ils sont pas sûrs. C'est gros, mais ça pourrait être possible.
+- "Les dinosaures lisaient des livres avec des enfants humains dedans" : crédible, puisque les enfants humains lisent des livres avec des dinosaures dedans.
 
 J'ai encore du boulot. Et en même temps, à leur âge, moi, je croyais bien qu'un dinosaure pouvait passer inaperçu avec une tee-shirt rouge et une casquette à l'envers…
 

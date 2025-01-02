@@ -75,9 +75,9 @@ Dans ce cas, il faudra revoir la déclaration du `<script>`, `<link>` ou `<ifram
 
 Si vous utilisez des parties tierces destinées à définir ou améliorer le design (polices d’écritures, scripts JS définissant des dimensions d’éléments dans la page), voire à récupérer une partie du contenu à afficher, vous souhaiterez en prioriser le téléchargement et l’utilisation. Or, très souvent, l’utilisation de ces ressources est ralentie par :
 
--   la **résolution DNS** de l’origine qui les héberge ;
--   la **connexion** à cette origine ;
--   le **téléchargement** de ces ressources.
+- la **résolution DNS** de l’origine qui les héberge ;
+- la **connexion** à cette origine ;
+- le **téléchargement** de ces ressources.
 
 Comment indiquer au navigateur le comportement à adopter pour optimiser leur chargement ? Jetez un œil à [mon précédent article sur Preload et les Resource Hints](/notes/2020-05-preload-prefetch-et-preconnect-resource-hints/) !
 

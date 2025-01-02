@@ -131,8 +131,8 @@ So if your HTML response contains:
 
 then:
 
--   when JavaScript is available, only the first `<img>` element will be displayed;
--   when JavaScript is not available, both `<img>` elements are considered during the page display. The second one (in the `<noscript>` element), is displayed and indexable by search engines. The technique, [confirmed by John Mueller](https://www.youtube.com/watch?time_continue=4308&v=7m-cd8XXovQ), Webmaster Trends Analyst at Google, is exactly the same for background images:
+- when JavaScript is available, only the first `<img>` element will be displayed;
+- when JavaScript is not available, both `<img>` elements are considered during the page display. The second one (in the `<noscript>` element), is displayed and indexable by search engines. The technique, [confirmed by John Mueller](https://www.youtube.com/watch?time_continue=4308&v=7m-cd8XXovQ), Webmaster Trends Analyst at Google, is exactly the same for background images:
 
 ```html
 <div data-class="bg-image-garden" class="container js-lazyload">…</div>

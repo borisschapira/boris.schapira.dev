@@ -128,8 +128,8 @@ Donc si votre réponse HTML contient :
 
 alors :
 
--   lorsque JavaScript est disponible, seul le premier élément `<img>` est affiché ;
--   lorsque JavaScript n’est pas disponible, les deux éléments `<img>` sont pris en compte lors de l’affichage de la page. Le second (dans l’élément `<noscript>`), est affiché et indexé par les moteurs de recherche. La technique, <a href="https://www.youtube.com/watch?time_continue=4308&v=7m-cd8XXovQ" hreflang="en">confirmée par John Mueller</a>, Webmaster Trends Analyst chez Google, est exactement la même pour les images de fond :
+- lorsque JavaScript est disponible, seul le premier élément `<img>` est affiché ;
+- lorsque JavaScript n’est pas disponible, les deux éléments `<img>` sont pris en compte lors de l’affichage de la page. Le second (dans l’élément `<noscript>`), est affiché et indexé par les moteurs de recherche. La technique, <a href="https://www.youtube.com/watch?time_continue=4308&v=7m-cd8XXovQ" hreflang="en">confirmée par John Mueller</a>, Webmaster Trends Analyst chez Google, est exactement la même pour les images de fond :
 
 ```html
 <div data-class="bg-image-garden" class="container js-lazyload">…</div>

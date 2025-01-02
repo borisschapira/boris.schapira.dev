@@ -4,8 +4,8 @@ title: "Blair à l'UMP… (sic)"
 
 La présence de Tony Blair au Conseil National de l'UMP est fortement symptomatique des déséquilibres politiques en France :
 
--   une droite qui se donne des moyens pour lancer des réformes (après, libre à tous d'être d'accord ou non) ;
--   une gauche complètement asservie par ses propres rivalités et que même les démocrates étrangers préfèrent fuir.
+- une droite qui se donne des moyens pour lancer des réformes (après, libre à tous d'être d'accord ou non) ;
+- une gauche complètement asservie par ses propres rivalités et que même les démocrates étrangers préfèrent fuir.
 
 D'ailleurs, les réflexions de l'opposition à l'issue du congrès étaient toutes plus aigries les unes que les autres. Chacun dénigrait la présence de l'ex-Prime Minister et se réclamait celui "_qui a à cœur de le transformer_" [comprendre : le Parti Socialiste] en référence à une citation de Tony Blair disant :
 

@@ -15,8 +15,8 @@ last_modified_at: 2015-10-16
 
 Transcription de mon <em lang="en">lightning talk</em> pour Bdx.io 2015 pour les absents, les malentendants ou les gens qui s'ennuient !
 
--   [Slides](https://www.slideshare.net/bschapira/industrialiser-le-dev-front-end-54151018)
--   [Site officiel de Bdx.io](https://www.bdx.io/)
+- [Slides](https://www.slideshare.net/bschapira/industrialiser-le-dev-front-end-54151018)
+- [Site officiel de Bdx.io](https://www.bdx.io/)
 
 <!-- more -->
 
@@ -134,16 +134,16 @@ Si vous me montrez la vôtre, je vous montre la mienne.
 
 Toutes les icônes sont soumises aux licences Creative Commons BY 3.0-US :
 
--   [documents](https://thenounproject.com/search/?q=document&i=183509) par John Slater ;
--   [Gear](https://thenounproject.com/search/?q=automation&i=5009) par Dmitry Baranovskiy ;
--   [Building blocks](https://thenounproject.com/search/?q=building+blocks&i=84244) par Olivier Rooker ;
--   [Process](https://thenounproject.com/search/?q=process&i=194045) par Rflor Baranovskiy ;
--   [Box](https://thenounproject.com/search/?q=package&i=91784) par Nicolas Vicent ;
--   [Crosshair](https://thenounproject.com/search/?q=deploy&i=78984) par Chris, NZ ;
--   [Observation](https://thenounproject.com/search/?q=eyes&i=145619) par Arthur Shlain ;
--   [Accept File](https://thenounproject.com/search/?q=file&i=116576) par mantisshrimpdesign ;
--   [Browser Upload](https://thenounproject.com/search/?q=browser&i=89766) par Tahsin Tahil, BD ;
--   [Browser](https://thenounproject.com/search/?q=browsers&i=106830) par Zlatko Najdenovski, MK ;
--   [Cloud](https://thenounproject.com/search/?q=cloud&i=166562) par Viktor Fedyuk ;
--   User icons par [Wilson Joseph](https://thenounproject.com/wilsonjoseph/) ;
--   [Discussion](https://thenounproject.com/search/?q=discussion&i=105771) par Milky - Digital innovation.
+- [documents](https://thenounproject.com/search/?q=document&i=183509) par John Slater ;
+- [Gear](https://thenounproject.com/search/?q=automation&i=5009) par Dmitry Baranovskiy ;
+- [Building blocks](https://thenounproject.com/search/?q=building+blocks&i=84244) par Olivier Rooker ;
+- [Process](https://thenounproject.com/search/?q=process&i=194045) par Rflor Baranovskiy ;
+- [Box](https://thenounproject.com/search/?q=package&i=91784) par Nicolas Vicent ;
+- [Crosshair](https://thenounproject.com/search/?q=deploy&i=78984) par Chris, NZ ;
+- [Observation](https://thenounproject.com/search/?q=eyes&i=145619) par Arthur Shlain ;
+- [Accept File](https://thenounproject.com/search/?q=file&i=116576) par mantisshrimpdesign ;
+- [Browser Upload](https://thenounproject.com/search/?q=browser&i=89766) par Tahsin Tahil, BD ;
+- [Browser](https://thenounproject.com/search/?q=browsers&i=106830) par Zlatko Najdenovski, MK ;
+- [Cloud](https://thenounproject.com/search/?q=cloud&i=166562) par Viktor Fedyuk ;
+- User icons par [Wilson Joseph](https://thenounproject.com/wilsonjoseph/) ;
+- [Discussion](https://thenounproject.com/search/?q=discussion&i=105771) par Milky - Digital innovation.

@@ -10,10 +10,10 @@ Nous sommes tous de mauvais développeurs dans la mesure où aucun code n’est 
 
 Le problème, sur un projet massif, est que personne n'ose modifier le code parce que :
 
--   cela entraîne un risque de régression ;
--   l'intégrer en branche supérieure devient plus fastidieux ;
--   on ne veut pas vexer la personne qui a fait le développement à l’origine ;
--   on attend les outils (ou leur mise-à-jour) permettant d'industrialiser la relecture de code afin d'être plus efficaces...
+- cela entraîne un risque de régression ;
+- l'intégrer en branche supérieure devient plus fastidieux ;
+- on ne veut pas vexer la personne qui a fait le développement à l’origine ;
+- on attend les outils (ou leur mise-à-jour) permettant d'industrialiser la relecture de code afin d'être plus efficaces...
 
 La liste est longue. Pourtant, meilleur sera le code contribué, plus légère sera la maintenance. En réduisant la surface de code sur laquelle des erreurs sont possibles, on limite les risques de bugs mais ce n'est pas tout : en cas d'erreur, la relecture d'un code bien écrit facilitera l'identification et la correction.
 

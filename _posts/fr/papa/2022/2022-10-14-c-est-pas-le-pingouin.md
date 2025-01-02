@@ -13,26 +13,26 @@ Ce soir, avec les garçons, nous avons discuté de la structure très particuli�
 
 Et ça a bien sûr fini, entre le fromage et le dessert, en concours de la meilleure création originale. Voici nos propositions :
 
--   "C'est pas le dresseur le plus fort de l'arène", référence à Pokémon, mais marche aussi en remplaçant "dresseur" par "<i lang="en">blader</i>" (pour les Beyblade)
--   "C'est pas le four qui chauffe le plus fort"
--   "C'est pas la guitare qui sonne le mieux"
--   "C'est pas le raisin qui fait l'meilleur vin", que j'aime bien parce que ça rime
--   "C'est pas l'bonbon l'plus sucré du paquet"
--   "C'est pas le plombier qui casse le plus de briques", <i lang="en">here we go</i>!
--   "C'est pas le hérisson avec le plus de pics", une expression toute chou(pisson).
--   "C'est pas la bille qui roule le plus loin"
--   "C'est pas l'éléphant qui a les plus grandes oreilles"
--   "C'est pas l'ordinateur qui calcule le plus vite"
--   "C'est pas le M&M's le plus croquant du paquet"
+- "C'est pas le dresseur le plus fort de l'arène", référence à Pokémon, mais marche aussi en remplaçant "dresseur" par "<i lang="en">blader</i>" (pour les Beyblade)
+- "C'est pas le four qui chauffe le plus fort"
+- "C'est pas la guitare qui sonne le mieux"
+- "C'est pas le raisin qui fait l'meilleur vin", que j'aime bien parce que ça rime
+- "C'est pas l'bonbon l'plus sucré du paquet"
+- "C'est pas le plombier qui casse le plus de briques", <i lang="en">here we go</i>!
+- "C'est pas le hérisson avec le plus de pics", une expression toute chou(pisson).
+- "C'est pas la bille qui roule le plus loin"
+- "C'est pas l'éléphant qui a les plus grandes oreilles"
+- "C'est pas l'ordinateur qui calcule le plus vite"
+- "C'est pas le M&M's le plus croquant du paquet"
 
 On nous a aussi proposé, sur les réseaux sociaux :
 
--   "C’est pas la truite la plus oxygénée de la rivière"
--   "C’est pas le galet qui fait le plus de ricochet"
--   "C'est pas la bougie la plus brillante du chandelier"
--   "C'est pas la flèche la mieux affûtée du carquois"
--   "C'est pas l'électron le plus proche du noyau" (celle-là, faut un petit niveau quand même)
+- "C’est pas la truite la plus oxygénée de la rivière"
+- "C’est pas le galet qui fait le plus de ricochet"
+- "C'est pas la bougie la plus brillante du chandelier"
+- "C'est pas la flèche la mieux affûtée du carquois"
+- "C'est pas l'électron le plus proche du noyau" (celle-là, faut un petit niveau quand même)
 
 Mention spéciale à :
 
--   "C'est pas le ministre avec le moins de casseroles au cul", qui montre qu'on a quand même placé la barre très bas dans nos idéaux politiques.
+- "C'est pas le ministre avec le moins de casseroles au cul", qui montre qu'on a quand même placé la barre très bas dans nos idéaux politiques.

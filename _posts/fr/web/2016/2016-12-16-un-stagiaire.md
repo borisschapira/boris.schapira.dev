@@ -38,29 +38,29 @@ Bien sûr, tout n'est pas toujours rose. J'ai reçu des stagiaires qui venaient 
 
 Je jette ce à quoi je pense, j'essaierai d'alimenter davantage ultérieurement :
 
--   Ambiance :
-    -   Manière dont les gens s'adressent les uns aux autres et se placent dans les bureaux.
-    -   Utilisation de l'anglais, du franglais, d'un vocabulaire un peu spécifique au <span lang="en">digital</span> (et vive les doigts).
-    -   Comment on se bat avec nos outils tout le temps !
--   Technique :
-    -   HTML (la sémantique : donne un sens aux choses qu'on écrit à l'intérieur), CSS (coordonne la présentation), JS (permet d'ajouter des comportements et des interactions ou de pallier à certains problèmes d'implémentation)
-    -   Suivi du [tutoriel HTML/CSS OpenClassRoom](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) pour avoir les bases (en tâche de fond)
-    -   <span lang="en">Front-End</span> (tout ce qui se voit) != <span lang="en">Back-End</span> (ce qui ne se voit pas)
-    -   "Architecture" = organiser toutes les tâches et machines dans le <span lang="en">Back-End</span>, pour mettre en place la logique
-    -   Une "machine virtuelle" : c'est quand on fait tourner un programme qui fait tourner tout un autre ordinateur **dans** son ordinateur. Exemple : faire tourner Windows dans un Mac.
-    -   Les machines de travail sont ultra-puissantes et très chères.
-    -   Réinventer la roue tout le temps n'est pas productif. Les développeurs passent leur temps à la fois à réutiliser des composants, des morceaux d'applications, des applications entières comme on assemble des Legos.
-    -   Il y a beaucoup de termes technique très verbeux, souvent des acronymes. Il faut prendre du recul. En bricolage, un outil qui enfonce des clous s'appelle un marteau. Dans le numérique, un outil qui enfonce des clous s'appelles un OQEDC (Outil Qui Enfonce Des Clous). Résultat : parfois, on s'en sort plus trop. Pourtant ça reste [des marteaux](/notes/2016-09-le-marteau/).
--   Organisation du travail :
-    -   Le Web : un domaine, **plein** de métiers :
-        -   le(s) graphistes (illustrateurs, webdesigners…) ;
-        -   le(s) Front-End (le Web, le mobile, autre ?) ;
-        -   le(s) Back-End : en général, du PHP (langage) mais rarement seul. Souvent, on part d'un programme existant (on a cité de Drupal, eZ Publish, Wordpress) et on essaie d'étendre…
-    -   Gestion de projet en cascade (une étape après l'autre), en V (une étape valide l'autre), en Agile (un gros projet découpé en plein de tous petits engagements de 2 à 4 semaines)
-    -   Une "équipe projet"… une définition floue entre les rôles, les emplacements physique, une tribu aux intérêts commun… le rôle du CP est de coordonner tout ce petit monde en fluidifiant leurs allées et venues sur le projet.
-    -   Comment évaluer une entreprise : les paliers en salariés, en chiffre d'affaire, en confiance bancaire…
-    -   Le différentes obligations administratives d'une entreprise, les problématiques qu'elles soulève (ne serait-ce que la paie et sa complexité), les différentes fonctions support, les entités de dialogue sociale, les budgets socio-culturels du Comité d'Entreprise…
--   Impacts sociétaux :
-    -   L'informatique détruit des emplois en automatisant des tâches. Il est donc nécessaire, lorsqu'on transforme l'organisation d'une entreprise autour du numérique, d'envisager des reconversions par la formation.
-    -   On a l'impression que le Web est partout, mais ce n'est pas vrai. Beaucoup de population sont encore hermétiques ou faiblement concernées (le Web n'existe que de manière très limitée dans leur vie).
-    -   Les gens sont intelligents, les machines sont bêtes : une personne peut faire une erreur mais quand elle s'en rend compte, elle peut revenir dessus. Les machines ne font normalement pas d'erreurs mais quand elles en font, elles s'en fichent. Sans contrôle humain, tout peut partir en cacahuètes assez rapidement.
+- Ambiance :
+    - Manière dont les gens s'adressent les uns aux autres et se placent dans les bureaux.
+    - Utilisation de l'anglais, du franglais, d'un vocabulaire un peu spécifique au <span lang="en">digital</span> (et vive les doigts).
+    - Comment on se bat avec nos outils tout le temps !
+- Technique :
+    - HTML (la sémantique : donne un sens aux choses qu'on écrit à l'intérieur), CSS (coordonne la présentation), JS (permet d'ajouter des comportements et des interactions ou de pallier à certains problèmes d'implémentation)
+    - Suivi du [tutoriel HTML/CSS OpenClassRoom](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) pour avoir les bases (en tâche de fond)
+    - <span lang="en">Front-End</span> (tout ce qui se voit) != <span lang="en">Back-End</span> (ce qui ne se voit pas)
+    - "Architecture" = organiser toutes les tâches et machines dans le <span lang="en">Back-End</span>, pour mettre en place la logique
+    - Une "machine virtuelle" : c'est quand on fait tourner un programme qui fait tourner tout un autre ordinateur **dans** son ordinateur. Exemple : faire tourner Windows dans un Mac.
+    - Les machines de travail sont ultra-puissantes et très chères.
+    - Réinventer la roue tout le temps n'est pas productif. Les développeurs passent leur temps à la fois à réutiliser des composants, des morceaux d'applications, des applications entières comme on assemble des Legos.
+    - Il y a beaucoup de termes technique très verbeux, souvent des acronymes. Il faut prendre du recul. En bricolage, un outil qui enfonce des clous s'appelle un marteau. Dans le numérique, un outil qui enfonce des clous s'appelles un OQEDC (Outil Qui Enfonce Des Clous). Résultat : parfois, on s'en sort plus trop. Pourtant ça reste [des marteaux](/notes/2016-09-le-marteau/).
+- Organisation du travail :
+    - Le Web : un domaine, **plein** de métiers :
+        - le(s) graphistes (illustrateurs, webdesigners…) ;
+        - le(s) Front-End (le Web, le mobile, autre ?) ;
+        - le(s) Back-End : en général, du PHP (langage) mais rarement seul. Souvent, on part d'un programme existant (on a cité de Drupal, eZ Publish, Wordpress) et on essaie d'étendre…
+    - Gestion de projet en cascade (une étape après l'autre), en V (une étape valide l'autre), en Agile (un gros projet découpé en plein de tous petits engagements de 2 à 4 semaines)
+    - Une "équipe projet"… une définition floue entre les rôles, les emplacements physique, une tribu aux intérêts commun… le rôle du CP est de coordonner tout ce petit monde en fluidifiant leurs allées et venues sur le projet.
+    - Comment évaluer une entreprise : les paliers en salariés, en chiffre d'affaire, en confiance bancaire…
+    - Le différentes obligations administratives d'une entreprise, les problématiques qu'elles soulève (ne serait-ce que la paie et sa complexité), les différentes fonctions support, les entités de dialogue sociale, les budgets socio-culturels du Comité d'Entreprise…
+- Impacts sociétaux :
+    - L'informatique détruit des emplois en automatisant des tâches. Il est donc nécessaire, lorsqu'on transforme l'organisation d'une entreprise autour du numérique, d'envisager des reconversions par la formation.
+    - On a l'impression que le Web est partout, mais ce n'est pas vrai. Beaucoup de population sont encore hermétiques ou faiblement concernées (le Web n'existe que de manière très limitée dans leur vie).
+    - Les gens sont intelligents, les machines sont bêtes : une personne peut faire une erreur mais quand elle s'en rend compte, elle peut revenir dessus. Les machines ne font normalement pas d'erreurs mais quand elles en font, elles s'en fichent. Sans contrôle humain, tout peut partir en cacahuètes assez rapidement.

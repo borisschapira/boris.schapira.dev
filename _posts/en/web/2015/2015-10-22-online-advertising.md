@@ -90,5 +90,5 @@ If you can, always prefer _business models_ based on the added value of your con
 
 A few links suggested by readers:
 
--   ["What Happens Next Will Amaze You"](http://idlewords.com/talks/what_happens_next_will_amaze_you.htm) by Maciej Cegłowski, suggested by @akramfares
--   ["Publicité en ligne : où va l’argent ?"](https://piacentino.com/jb/2015/publicite-en-ligne-ou-va-largent) ("Online Advertising: Where Does the Money Go?" — in French) by Jb Piacentino, suggested by [@eliesl](https://twitter.com/eliesl)
+- ["What Happens Next Will Amaze You"](http://idlewords.com/talks/what_happens_next_will_amaze_you.htm) by Maciej Cegłowski, suggested by @akramfares
+- ["Publicité en ligne : où va l’argent ?"](https://piacentino.com/jb/2015/publicite-en-ligne-ou-va-largent) ("Online Advertising: Where Does the Money Go?" — in French) by Jb Piacentino, suggested by [@eliesl](https://twitter.com/eliesl)

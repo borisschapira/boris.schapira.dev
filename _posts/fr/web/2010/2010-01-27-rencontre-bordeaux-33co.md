@@ -16,10 +16,10 @@ Je me suis inscrit sur le [Hub Viadeo "Bordeaux 33 : Carrières et Opportunités
 
 En une heure et demi, voici ce que je peux déduire (l'avenir confirmera ou non ces déductions "à chaud") :
 
--   Bordeaux est une ville de TPE et PME. Les grands comptes sont rares et leur nom revient souvent dans les conversations ;
--   les entreprises bordelaises se sous-estiment par rapport à Paris ou d'autres villes de province. Même si le bordelais a de l'amour propre (et il peut, sa ville est magnifique), quand on discute opportunités et croissance, il baisse le visage et sous-estime (à tort, je pense) ses capacités et le potentiel de son entreprise (ou alors c'est un biais qui ne réunit que ce genre de profil dans ce genre d'événement) ;
--   il y a de la place, à Bordeaux, pour de la création d'entreprise dans le domaine du service et du conseil pour les TPE/PME dans les technologies, mais pas seulement ;
--   les bordelais sont beaucoup moins carriériste que les parisiens. Même dans une réunion comme celle-ci, on retrouve une volonté de qualité de vie qui ne passe pas uniquement par le salaire ou la constitution d'un plan de carrière. Les gens parlent de leur vie, de leurs enfants.
+- Bordeaux est une ville de TPE et PME. Les grands comptes sont rares et leur nom revient souvent dans les conversations ;
+- les entreprises bordelaises se sous-estiment par rapport à Paris ou d'autres villes de province. Même si le bordelais a de l'amour propre (et il peut, sa ville est magnifique), quand on discute opportunités et croissance, il baisse le visage et sous-estime (à tort, je pense) ses capacités et le potentiel de son entreprise (ou alors c'est un biais qui ne réunit que ce genre de profil dans ce genre d'événement) ;
+- il y a de la place, à Bordeaux, pour de la création d'entreprise dans le domaine du service et du conseil pour les TPE/PME dans les technologies, mais pas seulement ;
+- les bordelais sont beaucoup moins carriériste que les parisiens. Même dans une réunion comme celle-ci, on retrouve une volonté de qualité de vie qui ne passe pas uniquement par le salaire ou la constitution d'un plan de carrière. Les gens parlent de leur vie, de leurs enfants.
 
 Enfin, dernier constat : il est difficile de retrouver un emploi pour une femme qui suit son conjoint. Ca n'est pas inhérent à Bordeaux mais pour une moitié des personnes rencontrées ce soir dans ce cas, c'est flagrant.
 

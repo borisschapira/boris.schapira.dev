@@ -14,13 +14,13 @@ translations:
 
 # Test
 
--   "foo" 'bar'[^1]
+- "foo" 'bar'[^1]
 
 [^1]: `toto`
 
 ## more tests
 
--   3rd at the 4 % run
+- 3rd at the 4 % run
 
 ```html
 Oh, some encoded "code" but not double encoded: &amp;!

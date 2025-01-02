@@ -12,11 +12,11 @@ S'il s'avère que votre installation n'est pas compatible, il vous donnera la li
 
 Liste des tests effectués :
 
--   Connexion basique à Internet
--   Type NAT
--   Test de montée en charge
--   Test de haute performance TCP
--   Test du support UPnP
--   Test de multiples états de connexion simultanés
+- Connexion basique à Internet
+- Type NAT
+- Test de montée en charge
+- Test de haute performance TCP
+- Test du support UPnP
+- Test de multiples états de connexion simultanés
 
 Mon réseau personnel a passé tous les tests de l'Internet Connectivity Evaluation Tool et le vôtre ?

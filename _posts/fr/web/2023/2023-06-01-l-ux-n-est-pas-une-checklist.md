@@ -16,11 +16,11 @@ Je discutais hier avec un client qui souhaite trouver un équivalent à Largest 
 >
 > Si j'essaie d'évaluer une page web en particulier, que je connais très bien, je ne mesurerais pas le LCP mais j'utiliserais plutôt des indicateurs personnalisés, qui répondront mieux aux défis de la page et qui m'aideront à comprendre son fonctionnement :
 >
-> -   Le moment où l'autocomplétion de recherche est fonctionnelle et affichée (dans cet ordre, espérons-le)
-> -   Sur une liste de produits, le moment où les utilisateurs peuvent voir la première ligne de produits et commencer à interagir avec les filtres.
-> -   Le moment où le spinner de chargement apparaît et le moment où il disparaît pour afficher le contenu final (utile pour les "splash" d'accueil et les interstitiels du tunnel de conversion).
-> -   Dans une page composée de modules récupérant leur contenu à partir d'une API, les temps d'affichage spécifiques de chaque composant
-> -   etc.
+> - Le moment où l'autocomplétion de recherche est fonctionnelle et affichée (dans cet ordre, espérons-le)
+> - Sur une liste de produits, le moment où les utilisateurs peuvent voir la première ligne de produits et commencer à interagir avec les filtres.
+> - Le moment où le spinner de chargement apparaît et le moment où il disparaît pour afficher le contenu final (utile pour les "splash" d'accueil et les interstitiels du tunnel de conversion).
+> - Dans une page composée de modules récupérant leur contenu à partir d'une API, les temps d'affichage spécifiques de chaque composant
+> - etc.
 
 C'est l'une des raisons pour lesquelles je pense que l'acquisition de Dareboost par Contentsquare a donné un nouveau souffle à ma carrière dans le domaine de la qualité Web. Plus encore qu'auparavant, je me suis impliqué dans les questions d'utilisabilité, dont la performance web n'est qu'une partie. Cela m'aide à garder à l'esprit que les indicateurs que nous mesurons en web performance ne sont souvent que les projections les plus génériques et les plus imparfaites de l'expérience technique d'une page web, et qu'ils ne sont pas nécessairement alignés sur les objectifs des clients et des organisations.
 

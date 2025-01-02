@@ -31,9 +31,9 @@ La politique est pourtant une affaire complexe, qui requiert à la fois des comp
 
 À la place, nous avons des conteurs qui nous narrent des récits faciles à assimiler. Dans la jungle des absurdités, citons par exemple :
 
--   un remaniement est une bonne chose : prenons un Gouvernement, fort de plusieurs mois d'expérience, et remplaçons-le par un ensemble de bleus bites ;
--   quel que soit le parti, quelle que soit la période, il existera toujours un apparatchik incarnant "le renouveau" ;
--   la Finance est l'ennemi de tous, mais elle est présente dans toutes les "affaires" internes aux partis…
+- un remaniement est une bonne chose : prenons un Gouvernement, fort de plusieurs mois d'expérience, et remplaçons-le par un ensemble de bleus bites ;
+- quel que soit le parti, quelle que soit la période, il existera toujours un apparatchik incarnant "le renouveau" ;
+- la Finance est l'ennemi de tous, mais elle est présente dans toutes les "affaires" internes aux partis…
 
 En ce moment, en France, on est à fond sur le "problème musulman". C'est un problème qu'on a construit de toute pièce ces quinze dernières années, en prenant les actions de quelques connards et en soulignant bien qu'ils étaient musulmans plutôt que, par exemple, des connards. Et plutôt que de mettre en place les mesures nécessaires à remettre les connards à leur place, nous avons stigmatisé les musulmans.
 

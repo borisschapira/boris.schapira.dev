@@ -9,15 +9,15 @@ En ce début d'année 2016, j'ai décidé de prendre quelques bonnes résolution
 
 <!-- more -->
 
--   [Dégager plus de temps en dehors du travail](#temps)
--   [Formaliser mes processus](#formalisme)
--   [Mieux gérer mon énergie](#energie)
--   [Me tenir droit, mieux manger](#alimentation)
--   [Promouvoir l'égalité, lutter contre les inégalités](#egalite)
-    -   [Le ménage devant ma porte](#biais)
-    -   [En tant que citoyen](#politique)
-    -   [Au travail aussi](#travail)
-    -   [Dans mes échanges quotidiens](#echanges)
+- [Dégager plus de temps en dehors du travail](#temps)
+- [Formaliser mes processus](#formalisme)
+- [Mieux gérer mon énergie](#energie)
+- [Me tenir droit, mieux manger](#alimentation)
+- [Promouvoir l'égalité, lutter contre les inégalités](#egalite)
+    - [Le ménage devant ma porte](#biais)
+    - [En tant que citoyen](#politique)
+    - [Au travail aussi](#travail)
+    - [Dans mes échanges quotidiens](#echanges)
 
 ## <span id="temps">Dégager plus de temps en dehors du travail</span>
 

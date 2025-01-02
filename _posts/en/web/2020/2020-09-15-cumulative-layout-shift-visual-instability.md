@@ -184,11 +184,11 @@ But you have to make sure your UI will react to the user interaction within the 
 
 To optimize your CLS:
 
--   Make sure that your transitions and animations that follow user interaction last less than 500 ms.
--   Measure and optimize your APIs response time.
--   Anticipate the result of the network call(s) or long treatment by allocating the result area during the 500 ms, even if it is to be filled later on (you can use [an optimistic UI pattern](https://uxdesign.cc/the-optimistic-ui-with-react-f1420e317d54)).
--   Implement a specific UI paradigm for long processing and network call (queuing and completion notification system, modals etc)
--   Only animate [CSS properties that do not trigger layout changes in Blink](https://csstriggers.com/).
+- Make sure that your transitions and animations that follow user interaction last less than 500 ms.
+- Measure and optimize your APIs response time.
+- Anticipate the result of the network call(s) or long treatment by allocating the result area during the 500 ms, even if it is to be filled later on (you can use [an optimistic UI pattern](https://uxdesign.cc/the-optimistic-ui-with-react-f1420e317d54)).
+- Implement a specific UI paradigm for long processing and network call (queuing and completion notification system, modals etc)
+- Only animate [CSS properties that do not trigger layout changes in Blink](https://csstriggers.com/).
 
 Of course, **always test**. While conducting some experiments to write this article, I discovered that [layout shifts are created when the duration of a `translate` transition is 0](https://bugs.chromium.org/p/chromium/issues/detail?id=1099895) (this is fixed now). Edge cases like this will always exist. [Please report them to the Chromium Team](https://bugs.chromium.org/p/chromium/issues/list).
 
@@ -246,8 +246,8 @@ caption=img_caption
 
 ### Other strange behaviors of the metric
 
--   Animated elements that create layout shifts may continue to do so if they are not visible to the user (for example, even with a color that blends with the background). But if you use `visibility: hidden`, they won't.
--   [The web.dev CLS page](https://web.dev/cls/) recommends using `transform` and `translate` to create animations that do not produce layout-shift. However, [a bug in Chromium](https://bugs.chromium.org/p/chromium/issues/detail?id=1099895&q=cls&can=2) seems to create layout-shifts when the transition time is 0 in Chrome, until version 86.
+- Animated elements that create layout shifts may continue to do so if they are not visible to the user (for example, even with a color that blends with the background). But if you use `visibility: hidden`, they won't.
+- [The web.dev CLS page](https://web.dev/cls/) recommends using `transform` and `translate` to create animations that do not produce layout-shift. However, [a bug in Chromium](https://bugs.chromium.org/p/chromium/issues/detail?id=1099895&q=cls&can=2) seems to create layout-shifts when the transition time is 0 in Chrome, until version 86.
 
 ## <span id="conclusion">Conclusion</span>
 
@@ -265,11 +265,11 @@ Steve Kobes announced that Blink (the Chrome rendering engine) [intended to impl
 
 ## Resources
 
--   [My own Cumulative Layout Shift experiments](https://tests.boris.schapira.dev/cls/)
--   "[Layout Instability API specification](https://wicg.github.io/layout-instability/)", by Steve Kobes, Nicolás Peña Moreno & Emily Hanley
--   "[Cumulative Layout Shift](https://web.dev/cls/)", by [Philip Walton](https://twitter.com/philwalton) and [Milica Mihajlija](https://twitter.com/bibydigital)
--   "[Optimize Cumulative Layout Shift](https://web.dev/optimize-cls/)"<br> and "[Infinite Scroll without Layout Shifts](https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/)", by [Addy Osmani](https://twitter.com/addyosmani)
--   "[Web Vitals - A New Hope in Web Performance Measurement](https://tamethebots.com/blog-n-bits/web-perf-iv-a-new-hope)", by [Dave Smart](https://twitter.com/davewsmart)
+- [My own Cumulative Layout Shift experiments](https://tests.boris.schapira.dev/cls/)
+- "[Layout Instability API specification](https://wicg.github.io/layout-instability/)", by Steve Kobes, Nicolás Peña Moreno & Emily Hanley
+- "[Cumulative Layout Shift](https://web.dev/cls/)", by [Philip Walton](https://twitter.com/philwalton) and [Milica Mihajlija](https://twitter.com/bibydigital)
+- "[Optimize Cumulative Layout Shift](https://web.dev/optimize-cls/)"<br> and "[Infinite Scroll without Layout Shifts](https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/)", by [Addy Osmani](https://twitter.com/addyosmani)
+- "[Web Vitals - A New Hope in Web Performance Measurement](https://tamethebots.com/blog-n-bits/web-perf-iv-a-new-hope)", by [Dave Smart](https://twitter.com/davewsmart)
 
 ---
 

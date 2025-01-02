@@ -23,11 +23,11 @@ I started by throwing away my Wordpress blog and replacing it with a static site
 
 My Ruby dependencies are managed by [Bundler](http://bundler.io/) :
 
--   for the archive management : `jekyll-archives` ;
--   to generate responsive images layout : `jekyll-cloudinary` ;
--   for the `sitemap.xml` : `jekyll-sitemap` ;
--   regarding pagination : `jekyll-paginate-v2` ;
--   the micro-typography is managed by : `jekyll-microtypo`.
+- for the archive management : `jekyll-archives` ;
+- to generate responsive images layout : `jekyll-cloudinary` ;
+- for the `sitemap.xml` : `jekyll-sitemap` ;
+- regarding pagination : `jekyll-paginate-v2` ;
+- the micro-typography is managed by : `jekyll-microtypo`.
 
 I probably forget some of them, but you can find all the dependencies [on my Github repo](https://github.com/borisschapira/boris.schapira.dev/blob/main/Gemfile 'Jekyll code for boris.schapira.dev').
 

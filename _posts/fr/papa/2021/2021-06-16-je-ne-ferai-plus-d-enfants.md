@@ -41,9 +41,9 @@ Je n'ai pas toujours su tout ça. Et parfois, je vais être honnête, je n'ai pa
 
 Outre le préservatif masculin, les possibilités pour les hommes sont, à ma connaissance :
 
--   une stérilisation (définitive, très peu d'effets secondaires) ;
--   un traitement hormonal hebdomadaire de testostérone (réversible, beaucoup d'effets secondaires) ;
--   une contraception thermique (le "slip chauffant", réversible et sans effets secondaires, mais qui nécessite une certaine logistique).
+- une stérilisation (définitive, très peu d'effets secondaires) ;
+- un traitement hormonal hebdomadaire de testostérone (réversible, beaucoup d'effets secondaires) ;
+- une contraception thermique (le "slip chauffant", réversible et sans effets secondaires, mais qui nécessite une certaine logistique).
 
 L'injection d'un gel contraceptif (le Vasalgel) dans le canal déférent et la pilule contraceptive masculine sont en cours de test, mais je ne crois pas que ces tests aient lieu en France aujourd'hui. Je ne les ai donc pas envisagés.
 

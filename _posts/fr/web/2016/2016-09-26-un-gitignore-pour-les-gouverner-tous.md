@@ -12,9 +12,9 @@ Ne mettez pas de règles dans le `.gitignore` du projet qui ne concerne pas le p
 
 Chaque projet sur lequel vous intervenez hérite de trois niveau de configuration :
 
--   La configuration de votre machine : `git config --system --edit`
--   Votre configuration utilisateur : `git config --global --edit`
--   La configuration du projet : `git config --edit`
+- La configuration de votre machine : `git config --system --edit`
+- Votre configuration utilisateur : `git config --global --edit`
+- La configuration du projet : `git config --edit`
 
 Ces configurations s'appliquent en cascade (comme les feuilles de style) : Machine puis Utilisateur puis Projet.
 

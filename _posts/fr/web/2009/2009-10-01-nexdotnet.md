@@ -14,8 +14,8 @@ J'y ai rédigé plusieurs articles et pour être parfaitement honnête, je serai
 
 Ma petite sélection (non-exhaustive) d'articles qui j'espère vous plaieront :
 
--   [[Vécu] Le virus du développeur](http://nexdotnet.nexeo.fr/2009/09/30/vecu-le-virus-du-developpeur/)
--   [6 nouveautés du Framework .NET 4.0](http://nexdotnet.nexeo.fr/2009/09/23/6-nouveautes-du-framework-net-4-0/)
--   [L'astuce du jour : rendre MSDN lisible](http://nexdotnet.nexeo.fr/2009/08/10/lastuce-du-jour-rendre-msdn-lisible/)
--   [L'astuce du jour : mettre votre code C#/VB.NET en forme](http://nexdotnet.nexeo.fr/2009/08/08/lastuce-du-jour-mettre-votre-code-cvb-net-en-forme/)
--   [Free eBook : Mastering PowerShell](http://nexdotnet.nexeo.fr/2009/08/06/free-ebook-mastering-powershell/)
+- [[Vécu] Le virus du développeur](http://nexdotnet.nexeo.fr/2009/09/30/vecu-le-virus-du-developpeur/)
+- [6 nouveautés du Framework .NET 4.0](http://nexdotnet.nexeo.fr/2009/09/23/6-nouveautes-du-framework-net-4-0/)
+- [L'astuce du jour : rendre MSDN lisible](http://nexdotnet.nexeo.fr/2009/08/10/lastuce-du-jour-rendre-msdn-lisible/)
+- [L'astuce du jour : mettre votre code C#/VB.NET en forme](http://nexdotnet.nexeo.fr/2009/08/08/lastuce-du-jour-mettre-votre-code-cvb-net-en-forme/)
+- [Free eBook : Mastering PowerShell](http://nexdotnet.nexeo.fr/2009/08/06/free-ebook-mastering-powershell/)

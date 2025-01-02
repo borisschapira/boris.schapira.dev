@@ -82,8 +82,8 @@ As we saw in the example of the rocket ship, lossy (or not-lossy) optimizations 
 
 Here are some file formats and some suitable optimization tools. Some of them are included in graphic softwares like Photoshop or GIMP:
 
--   PNG: Zopfli-png, PNGOUT, OptiPNG, AdvPNG, PNGCrush, PNQQuant
--   JPG: JPEGOptim, MozJPEG, Jpegtran, Guetzli
+- PNG: Zopfli-png, PNGOUT, OptiPNG, AdvPNG, PNGCrush, PNQQuant
+- JPG: JPEGOptim, MozJPEG, Jpegtran, Guetzli
 
 <a href="http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer">FileOptimizer</a> (Windows), <a href="https://imageoptim.com/mac">ImageOptim</a> (Mac) ou <a href="https://trimage.org/">Trimage</a> (Linux) are softwares that combine several algorithms in one place. They allow you to test these optimizations with various levels of loss and directly export an optimized image. They are even able to determine whenever a PNG image can be saved in PNG-8 (a variant of PNG with a 256-color palette) rather than PNG-24 to gain some precious bytes.
 

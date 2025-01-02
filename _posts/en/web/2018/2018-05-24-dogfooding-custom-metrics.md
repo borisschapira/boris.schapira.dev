@@ -42,11 +42,11 @@ To ensure this applicative behaviour in a web page, known as SPA (for Single Pag
 
 We decided to set up several Custom Timings:
 
--   When AngularJS begins its bootstrapping: `angular_boostrap_start`
--   When AngularJS is bootstrapped (and starts doing what we want him to do to present Dareboost’s interface): `angular_boostrap_end`
--   When we ask Angular to fetch the current user’s context: `userinfo_xhr_start`
--   When the context is effectively recovered: `userinfo_xhr_stop`
--   When the content is displayed in the main area: `view_content_loaded`
+- When AngularJS begins its bootstrapping: `angular_boostrap_start`
+- When AngularJS is bootstrapped (and starts doing what we want him to do to present Dareboost’s interface): `angular_boostrap_end`
+- When we ask Angular to fetch the current user’s context: `userinfo_xhr_start`
+- When the context is effectively recovered: `userinfo_xhr_stop`
+- When the content is displayed in the main area: `view_content_loaded`
 
 Setting up these marks is so simple that some customers ask us if these are really the only actions to take. Check it by yourself: once you have found which portion of code corresponds to the behavior you want to monitor, just add this code:
 
@@ -89,7 +89,7 @@ The situation has returned to a normal behaviour, with the main contents appeari
 
 ## In a nutshell
 
--   **Setting up Custom Timings takes a few seconds** and does not require any special configuration in Dareboost
--   Custom Timings are new indicators to **understand what was invisible before**.
--   Custom Timings are particularly suitable for **monitoring the performance of SPAs**
--   The shoemaker’s children don’t always go barefoot!
+- **Setting up Custom Timings takes a few seconds** and does not require any special configuration in Dareboost
+- Custom Timings are new indicators to **understand what was invisible before**.
+- Custom Timings are particularly suitable for **monitoring the performance of SPAs**
+- The shoemaker’s children don’t always go barefoot!

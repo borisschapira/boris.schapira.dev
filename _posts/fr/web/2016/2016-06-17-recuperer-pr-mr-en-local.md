@@ -8,13 +8,13 @@ Votre collègue a fait une <abbr title="Pull Request">PR</abbr> ou une <abbr tit
 
 Pour cela, ouvrez votre _.git/config_ (_.git_ étant un répertoire caché à la racine de votre dépôt local), puis ajoutez sur le dépôt distant (_remote_) concerné :
 
--   Pour Gitlab :
+- Pour Gitlab :
 
 ```
 fetch = +refs/merge-requests/*/head:refs/remotes/upstream/merge-requests/*
 ```
 
--   Pour Github :
+- Pour Github :
 
 ```
 fetch = +refs/pull/*/head:refs/remotes/origin/pr/*

@@ -12,14 +12,14 @@ Vous êtes peut-être passionné·e de code, mais cela ne suffit à en faire un 
 
 Pour que ça devienne un métier, il faut que cela s'inscrive dans un cadre :
 
--   un ensemble de compétences techniques ;
--   de la formation pour en acquérir de nouvelles ;
--   un cadre métier avec un contexte (légal, structurel, conjoncturel, géographique, etc.) ;
--   des engagements de cadre / coûts / délai à respecter ou, en tout cas, à définir ;
--   une organisation régie par une gouvernance à adopter (définissant qui décide de quoi, en informe qui, comment, qui est responsable en cas d'échec…) ;
--   souvent, un jargon mélangeant des composantes locales et plus consensuelles ;
--   des pratiques organisationnelles, parfois historiques, ayant un rôle social dans l'organisation ;
--   un portefeuille de projets orientés par une vision stratégique et des tactiques adaptées à chaque situation et inscrites dans des plans sur la durée (parfois pluriannuels).
+- un ensemble de compétences techniques ;
+- de la formation pour en acquérir de nouvelles ;
+- un cadre métier avec un contexte (légal, structurel, conjoncturel, géographique, etc.) ;
+- des engagements de cadre / coûts / délai à respecter ou, en tout cas, à définir ;
+- une organisation régie par une gouvernance à adopter (définissant qui décide de quoi, en informe qui, comment, qui est responsable en cas d'échec…) ;
+- souvent, un jargon mélangeant des composantes locales et plus consensuelles ;
+- des pratiques organisationnelles, parfois historiques, ayant un rôle social dans l'organisation ;
+- un portefeuille de projets orientés par une vision stratégique et des tactiques adaptées à chaque situation et inscrites dans des plans sur la durée (parfois pluriannuels).
 
 Mais ce n'est pas tout.
 

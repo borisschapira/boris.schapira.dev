@@ -22,9 +22,9 @@ But nowadays, my Jekyll build looked less like the famous doctor than the Franke
 
 ## TL;DR
 
--   Noting that my Jekyll compilation was very slow, I asked the French JAMstack community for advice.
--   Several things have emerged, each tip allowing me to optimize the compilation time.
--   The biggest gain comes from Jekyll's own evolutions, because the Core Team is doing a huge amount of work.
+- Noting that my Jekyll compilation was very slow, I asked the French JAMstack community for advice.
+- Several things have emerged, each tip allowing me to optimize the compilation time.
+- The biggest gain comes from Jekyll's own evolutions, because the Core Team is doing a huge amount of work.
 
 ---
 
@@ -75,8 +75,8 @@ So far, I’ve heard about two of them:
 
 There are undoubtedly others, but I heard about at least two of them:
 
--   [the `liquid-c` gem](https://github.com/Shopify/liquid-c), to optimize the liquid compilation.
--   [the `sassc` gem](https://github.com/sass/sassc-ruby), if you need Jekyll to compile SASS files more efficiently.
+- [the `liquid-c` gem](https://github.com/Shopify/liquid-c), to optimize the liquid compilation.
+- [the `sassc` gem](https://github.com/sass/sassc-ruby), if you need Jekyll to compile SASS files more efficiently.
 
 I don't need Jekyll for my SASS files but by using `liquid-c`, I saved **9%** of compilation time.
 

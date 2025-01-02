@@ -76,10 +76,10 @@ In order to be accepted to the HSTS preload list, a website has to meet the foll
 2.  Automatically redirect from to HTTPS on the same host
 3.  Serve all subdomains over HTTPS
 4.  Respond an HSTS header on the base domain for HTTPS requests:
-    -   The max-age must be at least <del datetime="2017-10-16" cite="https://hstspreload.org/">10886400 seconds (18 weeks)</del> <ins datetime="2017-10-16" cite="https://hstspreload.org/">31536000 seconds (a year)</ins>[^twalle].
-    -   The directive header must include the subdomains.
-    -   The preload directive must be specified.
-    -   If you are serving an additional redirect from your HTTPS site, that redirect must still have the HSTS header (rather than the page it redirects to).
+    - The max-age must be at least <del datetime="2017-10-16" cite="https://hstspreload.org/">10886400 seconds (18 weeks)</del> <ins datetime="2017-10-16" cite="https://hstspreload.org/">31536000 seconds (a year)</ins>[^twalle].
+    - The directive header must include the subdomains.
+    - The preload directive must be specified.
+    - If you are serving an additional redirect from your HTTPS site, that redirect must still have the HSTS header (rather than the page it redirects to).
 
 [^twalle]: The value was 18 weeks when I wrote the post. It has been changed to a year between october 11<sup>th</sup> and october 16<sup>th</sup>. Thanks to [@Thibault_Walle](https://twitter.com/Thibault_Walle) for pointing that out.
 
@@ -103,5 +103,5 @@ If you watch closely at InfoSec news, you may have noticed the danger represente
 
 ## Further information about HSTS
 
--   [HTTP Strict Transport Security – The Chromium Projects](https://www.chromium.org/hsts)
--   [HTTP Strict Transport Security Cheat Sheet – OWASP](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet)
+- [HTTP Strict Transport Security – The Chromium Projects](https://www.chromium.org/hsts)
+- [HTTP Strict Transport Security Cheat Sheet – OWASP](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet)

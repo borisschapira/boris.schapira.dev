@@ -15,11 +15,11 @@ La meilleure position pour l'hôtelier serait de mettre lui-même en valeur son 
 
 La Presse aussi devrait innover, en offrant ce qui n'existe pas encore, ou très peu :
 
--   Des abonnements évolutifs, et à la carte ("le sport et l'international ne m'intéressent pas, donc je les retire et je paie moins cher").
--   Une meilleures inclusions sociales et je ne parle pas de simples commentaires. Je pense plutôt à une fonctionnalité de partage "à la Tumblr" qui permettrait à chacun de re-publier des articles et de créer son propre magasine à proposer aux autres, sur des thèmes de niches.
--   Un rapport différent aux auteurs, qu'on connait aujourd'hui peu, et créer le dialogue entre l'auteur et le lecteur, notamment sur les sujets de fond.
--   Davantage d’interactivité de manière à permettre aux lecteurs d'entrer dans les rédactions et de dicter la politique éditoriale.
--   etc.
+- Des abonnements évolutifs, et à la carte ("le sport et l'international ne m'intéressent pas, donc je les retire et je paie moins cher").
+- Une meilleures inclusions sociales et je ne parle pas de simples commentaires. Je pense plutôt à une fonctionnalité de partage "à la Tumblr" qui permettrait à chacun de re-publier des articles et de créer son propre magasine à proposer aux autres, sur des thèmes de niches.
+- Un rapport différent aux auteurs, qu'on connait aujourd'hui peu, et créer le dialogue entre l'auteur et le lecteur, notamment sur les sujets de fond.
+- Davantage d’interactivité de manière à permettre aux lecteurs d'entrer dans les rédactions et de dicter la politique éditoriale.
+- etc.
 
 Il s'agit de modifications de fond cruciales, adaptées à la façon dont notre société consomme l'information (attention, "consommer" est un gros mot dans le monde de la Culture, utilisez-le avec parcimonie) qui seront douloureuses à mettre en place mais qui sont obligatoires si la Presse veut retrouver le contact qu'elle a perdu avec le lectorat. Et arrêter de tout résumer à : "Comment faire cracher Google ?"
 

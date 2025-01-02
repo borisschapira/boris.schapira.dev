@@ -139,10 +139,10 @@ From the optimized 1.2MB video of Endeavour Shuttle presented at the beginning o
 
 ## TL;DR
 
--   **Reduce the weight of your files** by using optimization strategies that depend on the content and purpose of your videos.
--   **Optimize streaming** by encoding your videos to serve metadata as soon as possible.
--   **Propose alternatives to MP4**, such as WebM.
--   Be careful with autoplay, consider dedicated solutions for Full HD and don't hesitate to hide videos when needed.
+- **Reduce the weight of your files** by using optimization strategies that depend on the content and purpose of your videos.
+- **Optimize streaming** by encoding your videos to serve metadata as soon as possible.
+- **Propose alternatives to MP4**, such as WebM.
+- Be careful with autoplay, consider dedicated solutions for Full HD and don't hesitate to hide videos when needed.
 
 ---
 

@@ -129,7 +129,7 @@ _Beware: if your pages are delivered by a Content Delivery Network (CDN), you ma
 
 ## Additional Resources
 
--   [The IANA Media Types list](https://www.iana.org/assignments/media-types/media-types.xhtml)
--   [The Unicode website](http://www.unicode.org/)
--   "[Character encodings: Essential concepts](https://www.w3.org/International/articles/definitions-characters/#httpheader)", on the W3C Internationalization website
--   Still thinking that Character Encoding is a trivial issue? Look at "[Anatomy of a Critical Security Bug](https://www.youtube.com/watch?v=yQaRUEwEKxE)", by Andrew Nacin at Loop Conf 2015.
+- [The IANA Media Types list](https://www.iana.org/assignments/media-types/media-types.xhtml)
+- [The Unicode website](http://www.unicode.org/)
+- "[Character encodings: Essential concepts](https://www.w3.org/International/articles/definitions-characters/#httpheader)", on the W3C Internationalization website
+- Still thinking that Character Encoding is a trivial issue? Look at "[Anatomy of a Critical Security Bug](https://www.youtube.com/watch?v=yQaRUEwEKxE)", by Andrew Nacin at Loop Conf 2015.

@@ -10,10 +10,10 @@ Tout commence un soir. Ma femme range un truc en bas, les enfants étant monté 
 
 Plusieurs problèmes :
 
--   le petit ne sait pas tenir un ciseau (j'ai vérifié en lui demandant comment faire : il le prend à deux mains) ;
--   cela n'explique pas comment son frère pouvait tenir une mèche non-dispersée dans sa main ;
--   dans le meilleur des cas, le petit n'aurait pas pu couper les cheveux du grand sans sa complicité ;
--   si c'était le cas, le grand n'aurait pas pleuré en accusant le petit…
+- le petit ne sait pas tenir un ciseau (j'ai vérifié en lui demandant comment faire : il le prend à deux mains) ;
+- cela n'explique pas comment son frère pouvait tenir une mèche non-dispersée dans sa main ;
+- dans le meilleur des cas, le petit n'aurait pas pu couper les cheveux du grand sans sa complicité ;
+- si c'était le cas, le grand n'aurait pas pleuré en accusant le petit…
 
 Qui a menti ?
 

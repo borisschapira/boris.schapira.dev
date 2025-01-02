@@ -12,10 +12,10 @@ Le plus drôle dans tout ça, ce sont les réflexions des enfants :
 
 > &#45; Papa pourquoi tu cries dans le téléphone ?
 >
-> -   Parce que ma chérie, le monsieur m'énerve. - Mais alors pourquoi tu lui parles
+> - Parce que ma chérie, le monsieur m'énerve. - Mais alors pourquoi tu lui parles
 
 Ou encore :
 
 > &#45; Maman, je peux me batailler avec mon épée-ballon ?
 >
-> -   Oui chéri, mais ne dérange pas les messieurs qui crient.
+> - Oui chéri, mais ne dérange pas les messieurs qui crient.

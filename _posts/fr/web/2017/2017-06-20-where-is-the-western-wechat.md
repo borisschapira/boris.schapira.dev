@@ -59,8 +59,8 @@ Google, fort de la position hégémonique de son navigateur Chrome, a pris le tr
 
 Même en prenant en compte ces possibilités, la disparition des App Stores poserait encore certains problèmes :
 
--   disparition de la "présence de marque", c’est-à-dire de la capacité pour les utilisateurs de retrouver leurs marques préférées dans un annuaire de services ;
--   absence d’un module applicatif donnant les mêmes capacités de paiement à une <abbr lang="en" title="Progressive Web App">PWA</abbr> que ce qu’on trouve sur un App Store.
+- disparition de la "présence de marque", c’est-à-dire de la capacité pour les utilisateurs de retrouver leurs marques préférées dans un annuaire de services ;
+- absence d’un module applicatif donnant les mêmes capacités de paiement à une <abbr lang="en" title="Progressive Web App">PWA</abbr> que ce qu’on trouve sur un App Store.
 
 Rien de plus facile, pour Apple ou Google, que de transformer leurs annuaires applicatifs en annuaire de <abbr lang="en" title="Progressive Web Apps">PWA</abbr>. Ils pourront garder des mécanismes de contrôle automatisé de la qualité (comme [Lighthouse](https://developers.google.com/web/tools/lighthouse/)) mais déléguer le rôle de répertoire aux éditeurs.
 

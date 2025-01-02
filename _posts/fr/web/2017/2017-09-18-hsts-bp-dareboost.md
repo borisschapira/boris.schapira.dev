@@ -68,10 +68,10 @@ Récapitulons. La directive HSTS permet, en complément d’une redirection 301,
 
 Pour sécuriser davantage l’ensemble du trafic des sites sécurisés, le projet Chromium maintient une liste des domaines "valides HSTS", c’est-à-dire :
 
--   disposant d’une version sécurisée à l’aide d’un certificat valide ;
--   ayant mis en place des redirections 301 de HTTP vers HTTPS ;
--   dont tous les sous-domaines sont sécurisés ;
--   proposant une directive HSTS (y compris sur la redirection 301) d’une validité minimale de <del datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">18 semaines (10886400 secondes)</del> <ins datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">un an (31536000 secondes)</ins>[^twalle], incluant les sous-domaines et spécifiant l’attribut `preload`.
+- disposant d’une version sécurisée à l’aide d’un certificat valide ;
+- ayant mis en place des redirections 301 de HTTP vers HTTPS ;
+- dont tous les sous-domaines sont sécurisés ;
+- proposant une directive HSTS (y compris sur la redirection 301) d’une validité minimale de <del datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">18 semaines (10886400 secondes)</del> <ins datetime="2017-10-16T07:25:54.566Z" cite="https://hstspreload.org/">un an (31536000 secondes)</ins>[^twalle], incluant les sous-domaines et spécifiant l’attribut `preload`.
 
 [^twalle]: La valeur était de 18 semaines lorsque j'ai écrit l'article. Elle a été repoussée à une année entre le 11 et le 16 octobre 2017. Merci à [@Thibault_Walle](https://twitter.com/Thibault_Walle) de me l'avoir signalé en commentaire.
 
@@ -95,5 +95,5 @@ Celles et ceux qui suivent l'actualité du Web auront remarqué le danger repré
 
 ## Lectures complémentaires
 
--   [[EN] HTTP Strict Transport Security – The Chromium Projects](https://www.chromium.org/hsts)
--   [[EN] HTTP Strict Transport Security Cheat Sheet – OWASP](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet)
+- [[EN] HTTP Strict Transport Security – The Chromium Projects](https://www.chromium.org/hsts)
+- [[EN] HTTP Strict Transport Security Cheat Sheet – OWASP](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet)

@@ -36,12 +36,6 @@ Very often, the acceptance of all uses leads to a situation where the user exper
 
 This is an opportunity for Product Managers to reflect on the ethics of this type of implementation. Is it normal that **we offer the most degraded experience to our most loyal users**?
 
-This reflection may result in a
-transformation of the offer, either towards a model where loyal users are
-rewarded for their sacrifice (by gaining access to features that
-are only available to those who accept third parties data collection), or
-towards a paid model, more protective but less accessible to
-all.
+This reflection may result in a transformation of the offer, either towards a model where loyal users are rewarded for their sacrifice (by gaining access to features that are only available to those who accept third parties data collection), or towards a paid model, more protective but less accessible to all.
 
-Philosophically, we then enter into very up-to-date considerations on
-privacy as a capital or as a common. A fascinating subject.
+Philosophically, we then enter into very up-to-date considerations on privacy as a capital or as a common. A fascinating subject.

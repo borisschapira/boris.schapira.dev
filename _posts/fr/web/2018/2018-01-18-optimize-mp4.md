@@ -140,10 +140,10 @@ ffmpeg -i source.mp4 -c:v libvpx-vp9 -b:v 1M -pass 1 -f webm /dev/null && ffmpeg
 
 ## En résumé
 
--   **Réduisez le poids** de vos vidéos en utilisant des stratégies d'optimisations qui dépendent du contenu et de l'objectif de vos vidéos.
--   **Optimisez le streaming** en encodant vos vidéos de manière à servir les métadonnées au plus tôt.
--   **Proposez des alternatives à MP4**, comme WebM, qui peuvent être plus performantes.
--   Faites attention à l'<span lang="en">autoplay</span>, envisagez des solutions dédiées pour le Full HD et n'hésitez pas à ne pas proposer de vidéos quand le contexte le demande.
+- **Réduisez le poids** de vos vidéos en utilisant des stratégies d'optimisations qui dépendent du contenu et de l'objectif de vos vidéos.
+- **Optimisez le streaming** en encodant vos vidéos de manière à servir les métadonnées au plus tôt.
+- **Proposez des alternatives à MP4**, comme WebM, qui peuvent être plus performantes.
+- Faites attention à l'<span lang="en">autoplay</span>, envisagez des solutions dédiées pour le Full HD et n'hésitez pas à ne pas proposer de vidéos quand le contexte le demande.
 
 ---
 

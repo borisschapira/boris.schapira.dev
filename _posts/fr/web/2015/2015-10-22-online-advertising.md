@@ -52,9 +52,9 @@ A l’opposée de cette logique d’union, certains montrent des voix alternativ
 
 Si les producteurs n’arrivent pas à valoriser leurs contenus faute d’une audience suffisante, pourquoi ceux qui disposent d’une audience mais n’arrivent pas à lui proposer des contenus ne viendraient pas proposer leurs services ? Ainsi émergent de nouvelles solutions permettant aux éditeurs d’intégrer leurs contenus sur une plate-forme valorisée par son audience mais en contrepartie, le producteur devient dépendant d’un nouveau canal. Cette relation créé de nouveaux équilibres :
 
--   le contenu est visuellement dépouillé, ce qui améliore la lisibilité mais réduit l’identité de marque et la fidélisation ;
--   l’audience est potentiellement très large mais l’éditeur n’a que très peu d’impact sur son ciblage et sur sa capacité à atteindre ses cibles (on est ici sur la même problématique de place de marché qu’avec Google Adwords) ;
--   la monétisation est simplifiée mais en échange, l’éditeur n’a, en général, pas de contrôle sur les contrats publicitaires.
+- le contenu est visuellement dépouillé, ce qui améliore la lisibilité mais réduit l’identité de marque et la fidélisation ;
+- l’audience est potentiellement très large mais l’éditeur n’a que très peu d’impact sur son ciblage et sur sa capacité à atteindre ses cibles (on est ici sur la même problématique de place de marché qu’avec Google Adwords) ;
+- la monétisation est simplifiée mais en échange, l’éditeur n’a, en général, pas de contrôle sur les contrats publicitaires.
 
 Facebook ([Instant Articles](https://instantarticles.fb.com/)) et Apple ([News](http://www.apple.com/news/)) sont les premiers à se lancer sur ce type d’offres, suivis de près par Twitter ([Moments](https://about.twitter.com/moments)) et Snapshat (Discover) mais rien ne laisse à penser que l’absence de transparence sur les plate-formes concernées permettra aux producteurs de contenu de maîtriser leur cible. Facebook, par exemple, [ne met déjà plus en avant les actualités de vos amis](http://lexpansion.lexpress.fr/high-tech/les-fantomes-de-facebook-ces-amis-dont-on-ne-recoit-plus-les-messages_1499174.html)_._ Comment lui faire confiance pour vos articles ?
 
@@ -86,5 +86,5 @@ Si vous le pouvez, préférez toujours des _business model_ basés sur la plus-v
 
 Quelques liens proposés par des lecteurs :
 
--   ["What will happend next will amaze you"](http://idlewords.com/talks/what_happens_next_will_amaze_you.htm) de Maciej Cegłowski, proposé par [@akramfares](https://twitter.com/akramfares)
--   ["Publicité en ligne : où va l'argent ?"](https://piacentino.com/jb/2015/publicite-en-ligne-ou-va-largent) de Jb Piacentino, proposé par [@eliesl](https://twitter.com/eliesl)
+- ["What will happend next will amaze you"](http://idlewords.com/talks/what_happens_next_will_amaze_you.htm) de Maciej Cegłowski, proposé par [@akramfares](https://twitter.com/akramfares)
+- ["Publicité en ligne : où va l'argent ?"](https://piacentino.com/jb/2015/publicite-en-ligne-ou-va-largent) de Jb Piacentino, proposé par [@eliesl](https://twitter.com/eliesl)

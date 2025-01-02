@@ -187,11 +187,11 @@ Assurez-vous donc que votre interface réagira à l’interaction utilisateur da
 
 Pour optimiser votre CLS :
 
--   Assurez-vous que vos transitions et animations qui suivent une interaction utilisateur durent moins de 500 ms.
--   Mesurez et optimisez les temps de réponse des vos API.
--   Anticipez le résultat de l’appel (ou des appels) ou du long traitement en réservant l’espace associé au(x) résultat(s) durant les 500 ms qui suivent l’interaction, quitte à ce que cet espace soit rempli ultérieurement, à la manière de <a href="https://uxdesign.cc/the-optimistic-ui-with-react-f1420e317d54" hreflang="en">l’<span lang="en">optimistic UI</a>.
--   Implémentez un paradigme d’interface utilisateur spécifique aux longs traitements et un appel réseau (mise en file d’attente et notification d’achèvement, affichage des résultats dans des pop-ins, etc.)
--   N’animez que des <a href="https://csstriggers.com/" hreflang="en">propriétés CSS qui ne déclenchent pas de changements de mise en page dans Blink</a>.
+- Assurez-vous que vos transitions et animations qui suivent une interaction utilisateur durent moins de 500 ms.
+- Mesurez et optimisez les temps de réponse des vos API.
+- Anticipez le résultat de l’appel (ou des appels) ou du long traitement en réservant l’espace associé au(x) résultat(s) durant les 500 ms qui suivent l’interaction, quitte à ce que cet espace soit rempli ultérieurement, à la manière de <a href="https://uxdesign.cc/the-optimistic-ui-with-react-f1420e317d54" hreflang="en">l’<span lang="en">optimistic UI</a>.
+- Implémentez un paradigme d’interface utilisateur spécifique aux longs traitements et un appel réseau (mise en file d’attente et notification d’achèvement, affichage des résultats dans des pop-ins, etc.)
+- N’animez que des <a href="https://csstriggers.com/" hreflang="en">propriétés CSS qui ne déclenchent pas de changements de mise en page dans Blink</a>.
 
 Bien sûr, **testez toujours** vos optimisations. En menant quelques expériences pour écrire cet article, j’ai découvert que <a href="https://bugs.chromium.org/p/chromium/issues/detail?id=1099895" hreflang="en">lorsque la durée d’une transition <code>translate</code> est de 0, des <span lang="en">Layout Shifts</span> apparaissent</a> (un problème désormais résolu). Des cas-limites comme celui-ci existeront toujours. N’hésitez pas à <a href="https://bugs.chromium.org/p/chromium/issues/list" hreflang="en">les signaler à l’équipe Chromium</a>.
 
@@ -254,8 +254,8 @@ caption=img_caption
 
 ### Autres comportements étranges de l’indicateur
 
--   Les éléments animés qui créent des <span lang="en">Layout Shifts</span> peuvent continuer à le faire, même s’ils ne sont pas visibles pour l’utilisateur (par exemple, s’ils ont une couleur qui se fond avec l’arrière-plan). Mais si vous utilisez `visibility: hidden`, ce ne sera pas le cas.
--   <a href="https://web.dev/cls/" hreflang="en">La page web.dev du CLS</a> ([traduite en français](https://www.fasterize.com/fr/blog/core-web-vitals-google-quest-ce-que-le-cumulative-layout-shift-cls/) par Sarah Salis pour Fasterize) recommande d’utiliser `transform` et `translate` pour créer des animations qui ne produisent pas de <span lang="en">Layout Shifts</span>. Chrome créer des <span lang="en">Layout Shifts</span> lorsque le temps de transition est de 0, jusqu’à Chrome 86.
+- Les éléments animés qui créent des <span lang="en">Layout Shifts</span> peuvent continuer à le faire, même s’ils ne sont pas visibles pour l’utilisateur (par exemple, s’ils ont une couleur qui se fond avec l’arrière-plan). Mais si vous utilisez `visibility: hidden`, ce ne sera pas le cas.
+- <a href="https://web.dev/cls/" hreflang="en">La page web.dev du CLS</a> ([traduite en français](https://www.fasterize.com/fr/blog/core-web-vitals-google-quest-ce-que-le-cumulative-layout-shift-cls/) par Sarah Salis pour Fasterize) recommande d’utiliser `transform` et `translate` pour créer des animations qui ne produisent pas de <span lang="en">Layout Shifts</span>. Chrome créer des <span lang="en">Layout Shifts</span> lorsque le temps de transition est de 0, jusqu’à Chrome 86.
 
 ## <span id="conclusion">Conclusion</span>
 
@@ -273,11 +273,11 @@ En octobre 2018, Steve Kobes a annoncé que Blink (le moteur de rendu Chrome) av
 
 ## Resources
 
--   [Mes propres expérimentations sur le <span lang="en">Cumulative Layout Shift</span>](https://tests.boris.schapira.dev/cls/)
--   "<a href="https://wicg.github.io/layout-instability/" hreflang="en" lang="en">Layout Instability API specification</a>", par Steve Kobes, Nicolás Peña Moreno et Emily Hanley
--   "<a href="https://web.dev/cls/" hreflang="en" lang="en">Cumulative Layout Shift</a>", par [Philip Walton](https://twitter.com/philwalton) et [Milica Mihajlija](https://twitter.com/bibydigital)
--   "<a href="https://web.dev/optimize-cls/" hreflang="en" lang="en">Optimize Cumulative Layout Shift</a>"<br> et "<a href="https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/" hreflang="en" lang="en">Infinite Scroll without Layout Shifts</a>", par [Addy Osmani](https://twitter.com/addyosmani)
--   "<a href="https://tamethebots.com/blog-n-bits/web-perf-iv-a-new-hope" hreflang="en" lang="en">Web Vitals - A New Hope in Web Performance Measurement</a>", par [Dave Smart](https://twitter.com/davewsmart)
+- [Mes propres expérimentations sur le <span lang="en">Cumulative Layout Shift</span>](https://tests.boris.schapira.dev/cls/)
+- "<a href="https://wicg.github.io/layout-instability/" hreflang="en" lang="en">Layout Instability API specification</a>", par Steve Kobes, Nicolás Peña Moreno et Emily Hanley
+- "<a href="https://web.dev/cls/" hreflang="en" lang="en">Cumulative Layout Shift</a>", par [Philip Walton](https://twitter.com/philwalton) et [Milica Mihajlija](https://twitter.com/bibydigital)
+- "<a href="https://web.dev/optimize-cls/" hreflang="en" lang="en">Optimize Cumulative Layout Shift</a>"<br> et "<a href="https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/" hreflang="en" lang="en">Infinite Scroll without Layout Shifts</a>", par [Addy Osmani](https://twitter.com/addyosmani)
+- "<a href="https://tamethebots.com/blog-n-bits/web-perf-iv-a-new-hope" hreflang="en" lang="en">Web Vitals - A New Hope in Web Performance Measurement</a>", par [Dave Smart](https://twitter.com/davewsmart)
 
 ---
 

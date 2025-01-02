@@ -75,9 +75,9 @@ In this case, it will be necessary to revise the declaration of the `<script>`, 
 
 If you are using third parties to define or improve the design (fonts, JS scripts that define the dimensions of elements in the layout), or even to retrieve part of the content to be displayed, you will want to prioritize their loading and usage. However, very often, the use of these resources is slowed down by:
 
--   the **DNS resolution** of the origin that hosts them
--   the **connection** to this origin
--   the **downloading** of these resources
+- the **DNS resolution** of the origin that hosts them
+- the **connection** to this origin
+- the **downloading** of these resources
 
 How to tell the browser the behavior to adopt to optimize their loading? Have a look at [my previous article on Preload and Resource Hints](/notes/2020-05-preload-prefetch-preconnect-resource-hints/)!
 

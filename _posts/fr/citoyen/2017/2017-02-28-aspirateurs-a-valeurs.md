@@ -13,8 +13,8 @@ Je suis conscient que ce qu'on appelle aujourd'hui _l'uberisation_ ou la disrupt
 
 Pourtant, plusieurs choses me taquinent :
 
--   d'une part, la plupart de ces solutions à grande échelle font abstraction des spécificités locales (notamment des contextes légaux et normatifs) ;
--   d'autre part, en proposant de nouvelles interactions en dehors du cadre connu, elles échappent souvent aux contraintes réglementaires qui protègent les consommateurs ;
--   enfin, ces solutions ne sont possibles que parce que les corporations concernées (taxis, medias, commerce, tourisme, médecins, restaurateurs, auto-école…) n'ont pas les capacités ou l'agilité nécessaire pour s'organiser elles-mêmes, compte-tenu de ces spécificités, et proposer une expérience cohérente à leurs clients.
+- d'une part, la plupart de ces solutions à grande échelle font abstraction des spécificités locales (notamment des contextes légaux et normatifs) ;
+- d'autre part, en proposant de nouvelles interactions en dehors du cadre connu, elles échappent souvent aux contraintes réglementaires qui protègent les consommateurs ;
+- enfin, ces solutions ne sont possibles que parce que les corporations concernées (taxis, medias, commerce, tourisme, médecins, restaurateurs, auto-école…) n'ont pas les capacités ou l'agilité nécessaire pour s'organiser elles-mêmes, compte-tenu de ces spécificités, et proposer une expérience cohérente à leurs clients.
 
 J'ai encore du mal à savoir si cette disruption est nécessaire pour favoriser l'innovation ou si elle est le symptôme d'une société qui, au contraire, ne favorise pas l'émergence de l'innovation au sein de ses propres structures.

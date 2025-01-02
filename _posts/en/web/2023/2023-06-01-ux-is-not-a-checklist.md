@@ -16,11 +16,11 @@ I was talking yesterday to a customer that was looking for an equivalent to Larg
 >
 > If I’m trying to measure a web page in particular, that I know very well, then I won’t measure the LCP but use custom timings instead. Specific indicators that will best meet the challenges of the page, and help understand how it works:
 >
-> -   The moment the search input autocomplete is functional and displayed (hopefully in that order)
-> -   On a Product List, the moment users can see the first line of products and start to interact with filters
-> -   The moment the loading spinner appears and the moment it disappears to display the final content (useful for both splash screens and funnel interstitials)
-> -   In a page broken down into components retrieving their content from an API, the specific display times of each component
-> -   etc.
+> - The moment the search input autocomplete is functional and displayed (hopefully in that order)
+> - On a Product List, the moment users can see the first line of products and start to interact with filters
+> - The moment the loading spinner appears and the moment it disappears to display the final content (useful for both splash screens and funnel interstitials)
+> - In a page broken down into components retrieving their content from an API, the specific display times of each component
+> - etc.
 
 This is one of the reasons why I feel that Contentsquare's acquisition of Dareboost has breathed new life into my career in Web Quality. Even more than before, I've become involved in usability issues, of which web performance is only a part. It helps me keep in mind that the indicators we measure are often only the most generic and imperfect projections of the technical experience of a web page, and not necessarily aligned with clients and organizations' objectives.
 

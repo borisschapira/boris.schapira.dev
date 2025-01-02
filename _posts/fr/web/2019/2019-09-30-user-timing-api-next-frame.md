@@ -12,10 +12,10 @@ translations:
 
 Les indicateurs habituels de performance web (Premier Octet, Speed Index...) sont très intéressants mais j'ai souvent besoin d'ajouter des marqueurs temporels personnalisés, basés sur des événements qui ont un sens du point de vue métier.
 
--   le moment où un contenu (ou une fonctionnalité) spécifique est disponible pour les utilisateurs·ices
--   le début et la fin de l'affichage d'une animation de chargement (très utile dans les tunnels complexe)
--   dans une page découpée en composants récupérant leur contenu dans une API, les temps d'affichage spécifiques de chaque composant
--   …
+- le moment où un contenu (ou une fonctionnalité) spécifique est disponible pour les utilisateurs·ices
+- le début et la fin de l'affichage d'une animation de chargement (très utile dans les tunnels complexe)
+- dans une page découpée en composants récupérant leur contenu dans une API, les temps d'affichage spécifiques de chaque composant
+- …
 
 <!-- more -->
 

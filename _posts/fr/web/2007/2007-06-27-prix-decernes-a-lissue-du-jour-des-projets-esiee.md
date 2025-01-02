@@ -9,9 +9,9 @@ Le prix de l'innovation 2007, décerné par le jury présidé par Jean-Luc Polle
 
 Les trois autres projets finalistes en seconde place et troisième place ex aequo étaient :
 
--   **Animation en 3 D par projection laser**, projet I3 présenté par Rémi Bin, Mathieu Stephan, Lyse Talbottier ;
--   **Application middleware pour des patients atteints d'Alzheimer**, projet <abbr title="Institut Supérieur des Technologies et de Management, devenu ESIEE Management">ISTM</abbr> présenté par Mathieu Ah-Sing, Florent Coquelin, Alexandre Pistre ;
--   **Authentification d'image numérique**, projet <abbr title="Institut Supérieur des BioSciences">ISBS</abbr> présenté par Marie-Charlotte Poilpre.
+- **Animation en 3 D par projection laser**, projet I3 présenté par Rémi Bin, Mathieu Stephan, Lyse Talbottier ;
+- **Application middleware pour des patients atteints d'Alzheimer**, projet <abbr title="Institut Supérieur des Technologies et de Management, devenu ESIEE Management">ISTM</abbr> présenté par Mathieu Ah-Sing, Florent Coquelin, Alexandre Pistre ;
+- **Authentification d'image numérique**, projet <abbr title="Institut Supérieur des BioSciences">ISBS</abbr> présenté par Marie-Charlotte Poilpre.
 
 Le jury a de plus décidé d'attribuer une mention spéciale au **jeu d'aventure en 2 D** construit par des élèves I1 : Tugdual De Kerviler, Thibault François, Thibaud Gagnayre et Othman Moukhlisse.
 

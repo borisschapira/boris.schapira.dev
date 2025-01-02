@@ -15,10 +15,10 @@ Dans un monde politique où piratage implique déficit, comment cela est-il conc
 
 Prenons quelques chiffres sur le piratage des jeux vidéo sur Torrentfreak, le blog de BitTorrent :
 
--   Spore : 1 700 000 téléchargements.
--   The Sims 2 : 1 150 000 téléchargements.
--   Assassin's Creed : 1 070 000 téléchargements.
--   Crysis : 940 000 téléchargements …
+- Spore : 1 700 000 téléchargements.
+- The Sims 2 : 1 150 000 téléchargements.
+- Assassin's Creed : 1 070 000 téléchargements.
+- Crysis : 940 000 téléchargements …
 
 Pourquoi ces jeux, qui ne sont pas forcément en tête des ventes, ont-ils été piratés ?
 
@@ -34,5 +34,5 @@ A l'inverse, de nombreux titres passionnants n'ont que peu été piratés. C'est
 
 L'exemple du jeu vidéo montre qu'on peut être très exposé à la contrefaçon numérique tout en conservant son marché captif. Pour cela, certaines pratiques devraient être encouragées :
 
--   Développer des solutions adaptées au foyer, pas à l'individu. Des solutions au forfait existent, mais sont encore peu connues. Il faut les sortir du placard.
--   Trouver de nouveaux moyens de distribuer les médias, en les accessoirisant (vente de carte SD avec album intégré, goodies) Enfin l'exemple du jeu vidéo souligne une vérité supplémentaire sur les comportements des consommateurs : plus l'industrie tentera de les en empêcher, plus ils iront vers le piratage.
+- Développer des solutions adaptées au foyer, pas à l'individu. Des solutions au forfait existent, mais sont encore peu connues. Il faut les sortir du placard.
+- Trouver de nouveaux moyens de distribuer les médias, en les accessoirisant (vente de carte SD avec album intégré, goodies) Enfin l'exemple du jeu vidéo souligne une vérité supplémentaire sur les comportements des consommateurs : plus l'industrie tentera de les en empêcher, plus ils iront vers le piratage.

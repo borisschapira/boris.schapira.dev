@@ -42,13 +42,13 @@ A web page consists of a main HTML document and optional additional resources de
 
 Hence we can assume that under normal circumstances, downloading a resource is a recurring task for the browser. This task can be broken down into several steps, including:
 
--   **Resolve the DNS** of the resource’s origin  
-    (if necessary, i.e. if the browser has not already done so);
--   **Connect** to the origin server  
-    (if necessary, i.e. if the browser is not already connected);
--   **Fetch the resource**  
-    (if necessary, i.e. if the resource is not already in the user agent cache and still valid);
--   And – according to the type of resource and the reason for which it was fetched – its evaluation and use.
+- **Resolve the DNS** of the resource’s origin  
+  (if necessary, i.e. if the browser has not already done so);
+- **Connect** to the origin server  
+  (if necessary, i.e. if the browser is not already connected);
+- **Fetch the resource**  
+  (if necessary, i.e. if the resource is not already in the user agent cache and still valid);
+- And – according to the type of resource and the reason for which it was fetched – its evaluation and use.
 
 For the browser to download resources more efficiently, you can indicate how to optimize these different steps.
 
@@ -79,17 +79,17 @@ Link: <ressource-url>; rel="prefetch"; as="ressource-type"; crossorigin="value"
 
 Whichever syntax you choose, the parameters are always the same:
 
--   **The URL** of the resource, of course
--   **The directive** to use
--   **The type** to consider for the resource, which allows you to adapt the Content-Security-Policy to the nature of the resource ([learn more](https://blog.dareboost.com/en/2016/08/how-to-implement-content-security-policy/))
--   The `crossorigin` attribute, which we'll discuss later
+- **The URL** of the resource, of course
+- **The directive** to use
+- **The type** to consider for the resource, which allows you to adapt the Content-Security-Policy to the nature of the resource ([learn more](https://blog.dareboost.com/en/2016/08/how-to-implement-content-security-policy/))
+- The `crossorigin` attribute, which we'll discuss later
 
 These settings can be used to define 4 directives supported by most modern browsers:
 
--   `dns-prefetch`: indicates to the browser that it should perform the resolution of a given domain name (determining the IP to contact) before that domain is used to download resources
--   `preconnect`: indicates to the browser that it should connect a given origin, before that domain is used to download resources. Preconnecting involves, like - `dns-prefetch`, the DNS resolution, but also the TCP handshake and TLS negotiation (if the page is secure)
--   `prefetch`: indicates to the browser that it can download a given resource, even if it is not detected in the page. The resource is downloaded with a low priority
--   `preload`: tells the browser that it **must** download a given resource as soon as possible, with high priority.
+- `dns-prefetch`: indicates to the browser that it should perform the resolution of a given domain name (determining the IP to contact) before that domain is used to download resources
+- `preconnect`: indicates to the browser that it should connect a given origin, before that domain is used to download resources. Preconnecting involves, like - `dns-prefetch`, the DNS resolution, but also the TCP handshake and TLS negotiation (if the page is secure)
+- `prefetch`: indicates to the browser that it can download a given resource, even if it is not detected in the page. The resource is downloaded with a low priority
+- `preload`: tells the browser that it **must** download a given resource as soon as possible, with high priority.
 
 Using `dns-prefetch` can be interesting in the context of critical third parties: by resolving the domain upstream, a few milliseconds can be saved cost-effectively.  
 However, in most cases, you may want to use `preconnect' instead of`dns-prefetch', so as to anticipate the whole connection.

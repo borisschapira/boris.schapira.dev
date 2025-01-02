@@ -18,9 +18,9 @@ Les attaques les plus récentes présentent des caractéristiques orientées tou
 
 Ainsi, pour lutter contre les PC zombies, il y a quelques gestes très simples qui peuvent "sauver la vie de votre PC" :
 
--   Avoir un pare-feu en service
--   Avoir un antivirus et un anti-spyware en service et à jour
--   Avoir des logiciels à jour
--   Sans oublier le contrôle parental !
+- Avoir un pare-feu en service
+- Avoir un antivirus et un anti-spyware en service et à jour
+- Avoir des logiciels à jour
+- Sans oublier le contrôle parental !
 
 Ces quelques gestes simples suffisent, dans l'immense majorité des cas, à éradiquer la plupart des problèmes de "PC zombie" dont on vient de parler. Mais pour que cela se sache, il est nécessaire de faire de la pédagogie et donc de répéter, répéter, répéter encore…

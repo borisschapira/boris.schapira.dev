@@ -9,13 +9,11 @@ From a French perspective, Asian languages such as Chinese, Japanese, and Korean
 
 To give you an order of magnitude of the weight difference, this is the latin-extended subset:
 
-> Conclusion: the median font file with Latin-extended subset of (395) characters should be a little **under 20K**. If you look at your network requests and your font is much larger, well there's work for you to do.
-> <cite>"[How many bytes is “normal” for a web font: a study using Google fonts](https://www.phpied.com/bytes-normal-web-font-study-google-fonts/)", Stoyan Stefanov</cite>
+> Conclusion: the median font file with Latin-extended subset of (395) characters should be a little **under 20K**. If you look at your network requests and your font is much larger, well there's work for you to do. <cite>"[How many bytes is “normal” for a web font: a study using Google fonts](https://www.phpied.com/bytes-normal-web-font-study-google-fonts/)", Stoyan Stefanov</cite>
 
 And this is for Chinese:
 
-> Within one Chinese font type, the smallest standard font contains 6,763 characters. A Japanese font type called Hanazono has 87,791 characters. A typical Chinese font file size is usually **at least 5MB, some times can be over 20MB**.
-> <cite>"[Chinese Typographic Design](https://medium.com/@Hynuza/typographic-design-in-asian-language-4bb1035ebb7)", Hynuza</cite>
+> Within one Chinese font type, the smallest standard font contains 6,763 characters. A Japanese font type called Hanazono has 87,791 characters. A typical Chinese font file size is usually **at least 5MB, some times can be over 20MB**. <cite>"[Chinese Typographic Design](https://medium.com/@Hynuza/typographic-design-in-asian-language-4bb1035ebb7)", Hynuza</cite>
 
 As a result, it is common to refrain from using web fonts for web pages that are accessible online in this region.
 
@@ -23,8 +21,7 @@ Optimization is still possible. One effective method is subsetting, which involv
 
 I was aware that streaming fonts was not possible, but a recent post from [Anthony](https://indieweb.social/@anthony) on the Web Performance Slack caught my attention. He was promoting a new draft specification specifically designed for that purpose.
 
-> Without this technology, a browser needs to download every last byte of a font before it can render any characters using that font
-> <cite>"[Incremental Font Transfer](https://www.w3.org/TR/IFT/)", W3C Working Draft</cite>
+> Without this technology, a browser needs to download every last byte of a font before it can render any characters using that font <cite>"[Incremental Font Transfer](https://www.w3.org/TR/IFT/)", W3C Working Draft</cite>
 
 The idea is to create a font face that can be segmented into an initial load, efficiently subsetting what's critical, then add patches that complete the font along the way. Lazy-loading, but for typefaces.
 

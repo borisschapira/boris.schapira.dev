@@ -73,11 +73,11 @@ Ces compétences sont, bien sûr, enseignées à travers plusieurs matières don
 
 > En sixième, le domaine d'application retenu est : les moyens de transports.
 >
-> -   analyse de produits (objets techniques peu complexes) pour comprendre les besoins essentiels ou créés auxquels ils répondent, leur constitution et leur fonctionnement,
-> -   découverte et la mise en œuvre de moyens élémentaires de fabrication,
-> -   usage raisonné des technologies de l’information et de la communication.
-> -   évolution des objets à travers le temps.  
->     <cite>[Wikipedia, "Technologie dans les collèges français"](https://fr.wikipedia.org/wiki/Technologie_dans_les_coll%C3%A8ges_fran%C3%A7ais)</cite>
+> - analyse de produits (objets techniques peu complexes) pour comprendre les besoins essentiels ou créés auxquels ils répondent, leur constitution et leur fonctionnement,
+> - découverte et la mise en œuvre de moyens élémentaires de fabrication,
+> - usage raisonné des technologies de l’information et de la communication.
+> - évolution des objets à travers le temps.  
+>   <cite>[Wikipedia, "Technologie dans les collèges français"](https://fr.wikipedia.org/wiki/Technologie_dans_les_coll%C3%A8ges_fran%C3%A7ais)</cite>
 
 Il serait donc peut-être pertinent qu'on offre aux professeurs de Technologie l'opportunité de mieux enseigner leur matière avant de proposer d'ajouter des choses au programme, non ?
 
@@ -85,16 +85,16 @@ Il serait donc peut-être pertinent qu'on offre aux professeurs de Technologie l
 
 Mais ce n'est pas la seule opportunité qui s'offre au législateur : l'ouverture de l'Ecole publique à des interventions (bien encadrées) de personnes du secteur privé en est une, le temps périscolaire imposé à nos élèves de primaire en est une autre. Par exemple, durant ces moments municipaux déconnectés de l'Education Nationale, il serait très facile d'enseigner les bases de l'informatique à des enfants en jouant :
 
--   Une craie et un dessin au sol suffisent à enseigner le tri par bulle.
--   Ils sont ravis d'apprendre les bases de la stéganographie. Apprenez-leur un [chiffre de César](https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage 'Chiffre de César ", Wikipedia'), vous verrez !
--   Distribuer une balle à chacun, alignez-les en file indienne et faites passer un seau dans lequel chacun pose sa balle avant de passer à son voisin. Parfait, ils ont maîtrisé l'itération. Comment décider à quel moment donner le seau, et si la file est circulaire, à quel moment le récupérer ? Parfait, vous venez de les sensibiliser à la condition de sortie.
--   … etc.
+- Une craie et un dessin au sol suffisent à enseigner le tri par bulle.
+- Ils sont ravis d'apprendre les bases de la stéganographie. Apprenez-leur un [chiffre de César](https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage 'Chiffre de César ", Wikipedia'), vous verrez !
+- Distribuer une balle à chacun, alignez-les en file indienne et faites passer un seau dans lequel chacun pose sa balle avant de passer à son voisin. Parfait, ils ont maîtrisé l'itération. Comment décider à quel moment donner le seau, et si la file est circulaire, à quel moment le récupérer ? Parfait, vous venez de les sensibiliser à la condition de sortie.
+- … etc.
 
 Cette approche à plusieurs avantages :
 
--   Elle est ludique.
--   Elle peut démarrer très tôt dans la formation des enfants.
--   Elle donne de véritables concepts, ne fait pas de nos enfants des presse-boutons.
+- Elle est ludique.
+- Elle peut démarrer très tôt dans la formation des enfants.
+- Elle donne de véritables concepts, ne fait pas de nos enfants des presse-boutons.
 
 Qu'attend-on ?
 

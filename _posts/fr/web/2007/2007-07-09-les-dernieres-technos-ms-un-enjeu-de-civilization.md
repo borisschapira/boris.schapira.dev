@@ -21,13 +21,13 @@ Afin de rendre un peu sympa leur dernier jour chez Microsoft, Michel et moi-mêm
 
 Nous avons donc fait une rapide présentation de :
 
--   Silverlight
--   Popfly
--   Windows Vista
--   Photosynth
--   Office 2007
--   Windows Mobile 6 et Deepfish
--   Communication Server
+- Silverlight
+- Popfly
+- Windows Vista
+- Photosynth
+- Office 2007
+- Windows Mobile 6 et Deepfish
+- Communication Server
 
 Je n'ai malheureusement aucune photo mais c'était très sympathique. De nombreuses questions m'avaient déjà été posées par mes amis de l'ESIEE ou d'ailleurs ces derniers mois. L'une d'entre elles m'a quand même bien fait rire, de part sa totale inadéquation au programme que nous déroulions :
 

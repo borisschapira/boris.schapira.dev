@@ -71,11 +71,11 @@ Alors on va être honnête deux minutes. "Gagner", dans ce contexte, c'est pas n
 
 Depuis 2022, à l'Assemblée Nationale, on est à :
 
--   ~90 RN ;
--   ~60 LR ;
--   ~250 Renaissance ;
--   ~30 LIOT/non-inscrits ;
--   et ~150 Nupes.
+- ~90 RN ;
+- ~60 LR ;
+- ~250 Renaissance ;
+- ~30 LIOT/non-inscrits ;
+- et ~150 Nupes.
 
 Sachant qu'il faut ~290 députés pour une majorité absolue, la gauche n'est aujourd'hui pas une force suffisante pour défendre un texte. Même en ajoutant Liot et les non-inscrits.
 
@@ -91,41 +91,41 @@ Pour l'instant, les députés RN participent peu à l'écriture de la loi. En re
 
 Sur les salaires et le pouvoir d'achat, **le RN paupérise les français·es** :
 
--   contre l'augmentation du SMIC, du salaire des fonctionnaires, des APL ;
--   pour le durcissement de toutes les conditions du chômage (fin des droits après un abandon de poste, durcissement et suppression des allocations) ;
--   contre l'indexation des salaires ;
--   contre le gel des loyers ou le blocage du prix des produits de première nécessité ;
--   contre la gratuité des cantines et fournitures scolaires ;
--   contre la revalorisation des bourses étudiantes (en dépit de valeurs soi-disant méritocrates).
+- contre l'augmentation du SMIC, du salaire des fonctionnaires, des APL ;
+- pour le durcissement de toutes les conditions du chômage (fin des droits après un abandon de poste, durcissement et suppression des allocations) ;
+- contre l'indexation des salaires ;
+- contre le gel des loyers ou le blocage du prix des produits de première nécessité ;
+- contre la gratuité des cantines et fournitures scolaires ;
+- contre la revalorisation des bourses étudiantes (en dépit de valeurs soi-disant méritocrates).
 
 **Le RN soutient l'ordre du capital et des hauts salaires**, votant :
 
--   contre l'encadrement des salaires ;
--   contre l'ISF ;
--   contre la suppression des aides publiques aux entreprises qui versent des dividendes sans augmenter leurs salariés ;
--   contre la lutte contre la fraude fiscale ;
--   pour la vidéosurveillance.
+- contre l'encadrement des salaires ;
+- contre l'ISF ;
+- contre la suppression des aides publiques aux entreprises qui versent des dividendes sans augmenter leurs salariés ;
+- contre la lutte contre la fraude fiscale ;
+- pour la vidéosurveillance.
 
 Et par incidence, le RN vote tout ce qui permet **d'affaiblir et de privatiser les services publics** votant :
 
--   contre le financement de l'Université, des hôpitaux, des sapeurs-pompiers, du Parquet National Financier ou des greffiers (tu m'étonnes…) ;
--   contre la baisse de la TVA sur les transports en commun ;
--   pour la suppression de la redevance audiovisuelle, amenant à une refonte profonde de l'audiovisuel public alors même qu'il n'a jamais eu autant de succès.
+- contre le financement de l'Université, des hôpitaux, des sapeurs-pompiers, du Parquet National Financier ou des greffiers (tu m'étonnes…) ;
+- contre la baisse de la TVA sur les transports en commun ;
+- pour la suppression de la redevance audiovisuelle, amenant à une refonte profonde de l'audiovisuel public alors même qu'il n'a jamais eu autant de succès.
 
 Enfin, le RN est **l'ennemi de la responsabilité sociale et de la transition écologique**, votant :
 
--   contre le conditionnement des aides publiques aux entreprises sous couvert de respect de contraintes écologiques ;
--   contre la régulation de l'installation des médécins dans les zones déjà pourvues ;
--   contre les dispositions d'égalité femmes-hommes comme le renfort de l'accès aux femmes aux postes à responsabilité de la fonction publique ;
--   contre l'option végétarienne à la cantine (alors même que ça réduirait les coûts pour l'ensemble des enfants);
--   contre la suppression de la niche fiscale sur le kérosène aérien ;
--   contre un impôt sur la fortune climatique ;
--   contre la taxation des yachts et jets privés ;
--   contre l'obligation pour les entreprises financées par le plan France 2030 à publier un bilan carbone
--   pour l'exclusion des ustensiles de cuisine de l'interdiction des polluants éternels (PFAS) ;
--   contre la luttte contre les dérives sectaires ;
--   pour le chauffauge au fuel, pour la limitation des éoliennes, y compris en pleine mer et contre l'obligation d'installation de panneaux solaires sur les grands parkings ;
--   et contre toute forme d'écriture inclusive.
+- contre le conditionnement des aides publiques aux entreprises sous couvert de respect de contraintes écologiques ;
+- contre la régulation de l'installation des médécins dans les zones déjà pourvues ;
+- contre les dispositions d'égalité femmes-hommes comme le renfort de l'accès aux femmes aux postes à responsabilité de la fonction publique ;
+- contre l'option végétarienne à la cantine (alors même que ça réduirait les coûts pour l'ensemble des enfants);
+- contre la suppression de la niche fiscale sur le kérosène aérien ;
+- contre un impôt sur la fortune climatique ;
+- contre la taxation des yachts et jets privés ;
+- contre l'obligation pour les entreprises financées par le plan France 2030 à publier un bilan carbone
+- pour l'exclusion des ustensiles de cuisine de l'interdiction des polluants éternels (PFAS) ;
+- contre la luttte contre les dérives sectaires ;
+- pour le chauffauge au fuel, pour la limitation des éoliennes, y compris en pleine mer et contre l'obligation d'installation de panneaux solaires sur les grands parkings ;
+- et contre toute forme d'écriture inclusive.
 
 Enfin, lors du débat sur **les retraites**, leur opposition était de façade. Ils ont applaudi la conclusion et même si dans leur programme, ils proposent la retraite à 62 ans, c'est sous couvert de conditions drastiques. Lors du vote sur la revalorisation des petites retraites, ils ont voté… contre.
 

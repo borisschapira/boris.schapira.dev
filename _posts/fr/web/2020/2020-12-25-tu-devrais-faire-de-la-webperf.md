@@ -90,9 +90,9 @@ Comme beaucoup de sujets de la Qualité Web, la performance web est l’affaire 
 
 Prenons l’exemple de l’optimisation des images. Dis comme ça, ça a l’air simple et beaucoup de gens auront l’impression de comprendre. Mais pour aborder le sujet dans sa globalité, il faut :
 
--   former les personnes à choisir le meilleur format en fonction de l’image ;
--   encadrer la contribution (pour éviter les images trop grosses) et déclencher l’optimisation et la génération de plusieurs variantes d’images en fonction du contexte et de la direction artistique ;
--   modifier le code HTML permettant d’insérer les images et éventuellement mettre en place un proxy d’images avec une négociation de contenu (interne ou externe), afin que chaque personne reçoive une image adaptée à son contexte
+- former les personnes à choisir le meilleur format en fonction de l’image ;
+- encadrer la contribution (pour éviter les images trop grosses) et déclencher l’optimisation et la génération de plusieurs variantes d’images en fonction du contexte et de la direction artistique ;
+- modifier le code HTML permettant d’insérer les images et éventuellement mettre en place un proxy d’images avec une négociation de contenu (interne ou externe), afin que chaque personne reçoive une image adaptée à son contexte
 
 Et je n’ai même pas encore parlé de <a href="https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/" lang="en" hreflang="en">lazy loading</a>.
 

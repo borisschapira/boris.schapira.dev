@@ -50,9 +50,9 @@ Ces appels de ressources induits peuvent avoir plusieurs effets négatifs sur la
 
 L'exemple de script tiers précédent avait une vocation pédagogique et simplifiait énormément la problématique. D'expérience, le nombre d'appels inutiles peut être bien plus important, de l'ordre de plusieurs dizaines, voire de plus d'une centaine de redirections, scripts, images… Ces appels ont différentes conséquences sur la performance Web :
 
--   Les redirections, toutes inutiles, qui gâchent un temps précieux ;
--   Les appels sécurisés, qui impliquent le chargement des différents certificats attenants et leurs interprétations souvent coûteuses ;
--   La multiplication des domaines différents qui induit un nombre important de résolutions<abbr alt="Domain Name System">DNS</abbr> nécessaires à leur appel.
+- Les redirections, toutes inutiles, qui gâchent un temps précieux ;
+- Les appels sécurisés, qui impliquent le chargement des différents certificats attenants et leurs interprétations souvent coûteuses ;
+- La multiplication des domaines différents qui induit un nombre important de résolutions<abbr alt="Domain Name System">DNS</abbr> nécessaires à leur appel.
 
 Peu importe comment vous attaquez le problème : l'inclusion d'un script tiers et les appels qu'il induit dégradent l'expérience de vos visiteurs. La seule question qu'il vous reste à vous poser est de savoir quel en sera l'impact sur votre efficacité opérationnelle.
 
@@ -128,5 +128,5 @@ Espérons qu'un test standard émerge rapidement, et que chaque nouveau script s
 
 ## Ressources additionnelles
 
--   "[How vulnerable is your site to third-party failure? [EN]](http://www.webperformancetoday.com/2011/10/13/how-vulnerable-is-your-site-to-third-party-failure/)", Joshua Bixby
--   "[Facebook Outage: Wake Up Call For Websites! [EN]](http://blog.catchpoint.com/2012/06/01/facebook-outage-wake-up-call-for-websites/)", Mehdi Daoudi
+- "[How vulnerable is your site to third-party failure? [EN]](http://www.webperformancetoday.com/2011/10/13/how-vulnerable-is-your-site-to-third-party-failure/)", Joshua Bixby
+- "[Facebook Outage: Wake Up Call For Websites! [EN]](http://blog.catchpoint.com/2012/06/01/facebook-outage-wake-up-call-for-websites/)", Mehdi Daoudi

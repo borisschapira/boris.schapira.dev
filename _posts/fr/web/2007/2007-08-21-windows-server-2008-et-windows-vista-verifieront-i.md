@@ -12,8 +12,8 @@ J'ai appris ce matin par [Laurent](http://blogs.msdn.com/b/laurelle/archive/2007
 
 A noter :
 
--   Pour l'instant seul un système d'exploitation XTS-400â„¢ (utilisé pour la surveillance des réseaux principalement) a atteint le niveau EAL5.
--   Windows 2000 Pro et Advanced Server, Windows 2003, Windows Server 2003 et Windows XP valident déjà le niveau EAL4.
--   L'échelle EAL contient 7 niveaux ([pdf explicatif](https://www.cetic.be/IMG/pdf/Crit_resCommuns-EricGheur-050602-V2.pdf)) : cela laisse de la marche pour développer des systèmes toujours plus sécurisés !
+- Pour l'instant seul un système d'exploitation XTS-400â„¢ (utilisé pour la surveillance des réseaux principalement) a atteint le niveau EAL5.
+- Windows 2000 Pro et Advanced Server, Windows 2003, Windows Server 2003 et Windows XP valident déjà le niveau EAL4.
+- L'échelle EAL contient 7 niveaux ([pdf explicatif](https://www.cetic.be/IMG/pdf/Crit_resCommuns-EricGheur-050602-V2.pdf)) : cela laisse de la marche pour développer des systèmes toujours plus sécurisés !
 
 [Voir la grille complète des validations aux Critères Communs](https://www.niap-ccevs.org/vpl/index.cfm?&CFID=271519&CFTOKEN=973221071fef4bd5-78A41556-051B-D9A8-D61482373D990FA9)

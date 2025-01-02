@@ -8,15 +8,15 @@ tags:
 
 Au menu aujourd'hui, des éléments de réponse aux questions suivantes :
 
--   C'est quoi la Dette Publique ?
--   Comment l'État emprunte-t-il cet argent auprès des particuliers ?
--   Peut-on faire confiance aux États ?
--   Les États, même fiables, peuvent-ils emprunter sans limite ?
--   Mon État a-t-il la côte sur le marché ?
--   Comment savoir si un État emprunte trop ?
--   Les dettes des États sont-elles limitées ?
--   Mais alors, on s'en fiche, de la dette ?
--   La dette, c'est mauvais en temps de crise ?
+- C'est quoi la Dette Publique ?
+- Comment l'État emprunte-t-il cet argent auprès des particuliers ?
+- Peut-on faire confiance aux États ?
+- Les États, même fiables, peuvent-ils emprunter sans limite ?
+- Mon État a-t-il la côte sur le marché ?
+- Comment savoir si un État emprunte trop ?
+- Les dettes des États sont-elles limitées ?
+- Mais alors, on s'en fiche, de la dette ?
+- La dette, c'est mauvais en temps de crise ?
 
 <!-- more -->
 

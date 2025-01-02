@@ -42,13 +42,13 @@ Une page web est composée d’un document principal, en HTML, et d’éventuell
 
 Il n’est donc pas absurde de dire qu’en temps normal, télécharger une ressource est une tâche récurrente pour le navigateur. Cette tâche se décompose en plusieurs étapes, dont :
 
--   **la résolution DNS** de l’origine de la ressource  
-    (si nécessaire, c’est-à-dire si le navigateur ne l’a pas déjà faite) ;
--   **la connexion au serveur** de cette origine  
-    (si nécessaire, c’est-à-dire si le navigateur n’est pas déjà connecté) ;
--   **le téléchargement** de la ressource  
-    (si nécessaire, c’est-à-dire si la ressource n’est pas déjà dans le cache client et toujours valide) ;
--   et suivant le type de ressource et la raison de la requête, **son éventuelle évaluation et utilisation**.
+- **la résolution DNS** de l’origine de la ressource  
+  (si nécessaire, c’est-à-dire si le navigateur ne l’a pas déjà faite) ;
+- **la connexion au serveur** de cette origine  
+  (si nécessaire, c’est-à-dire si le navigateur n’est pas déjà connecté) ;
+- **le téléchargement** de la ressource  
+  (si nécessaire, c’est-à-dire si la ressource n’est pas déjà dans le cache client et toujours valide) ;
+- et suivant le type de ressource et la raison de la requête, **son éventuelle évaluation et utilisation**.
 
 Pour permettre au navigateur de télécharger de manière plus efficace les ressources, vous pouvez lui indiquer comment optimiser ces différentes étapes.
 
@@ -79,17 +79,17 @@ Link: <url-de-la-ressource>; rel="prefetch"; as="type-de-la-ressource"; crossori
 
 Que vous choisissiez l’une ou l’autre des syntaxes, les paramètres à définir sont toujours les mêmes :
 
--   **l’URL** de la ressource, évidemment ;
--   **la directive** à utiliser ;
--   **le type** à considérer pour la ressource, ce qui permet de lui appliquer les Content-Security-Policy adaptées à sa nature ([en savoir plus](https://blog.dareboost.com/fr/2016/08/comment-implementer-content-security-policy/)) ;
--   l’attribut `crossorigin`, sur lequel nous reviendrons un peu plus loin.
+- **l’URL** de la ressource, évidemment ;
+- **la directive** à utiliser ;
+- **le type** à considérer pour la ressource, ce qui permet de lui appliquer les Content-Security-Policy adaptées à sa nature ([en savoir plus](https://blog.dareboost.com/fr/2016/08/comment-implementer-content-security-policy/)) ;
+- l’attribut `crossorigin`, sur lequel nous reviendrons un peu plus loin.
 
 Ces paramètres vous permettent de définir 4 directives supportées par la plupart des navigateurs récents :
 
--   `dns-prefetch` : indique au navigateur qu’il pourrait réaliser la résolution du nom de domaine fourni (déterminant l’IP à contacter) avant que ce domaine ne soit utilisé pour télécharger des ressources ;
--   `preconnect` : indique au navigateur qu’il pourrait se connecter à l’origine fournie, avant que celle-ci ne soit utilisée pour télécharger des ressources. Cela implique, comme `dns-prefetch`, la résolution DNS, mais également l’établissement de la connexion TCP et la négociation TLS (si la page est en HTTPS) ;
--   `prefetch` : indique au navigateur qu’il pourrait télécharger une ressource donnée, même si elle n’est pas détectée dans la page. La priorité de ce téléchargement est alors faible ;
--   `preload` : indique au navigateur qu’il **doit** télécharger une certaine ressource au plus tôt, avec une haute priorité.
+- `dns-prefetch` : indique au navigateur qu’il pourrait réaliser la résolution du nom de domaine fourni (déterminant l’IP à contacter) avant que ce domaine ne soit utilisé pour télécharger des ressources ;
+- `preconnect` : indique au navigateur qu’il pourrait se connecter à l’origine fournie, avant que celle-ci ne soit utilisée pour télécharger des ressources. Cela implique, comme `dns-prefetch`, la résolution DNS, mais également l’établissement de la connexion TCP et la négociation TLS (si la page est en HTTPS) ;
+- `prefetch` : indique au navigateur qu’il pourrait télécharger une ressource donnée, même si elle n’est pas détectée dans la page. La priorité de ce téléchargement est alors faible ;
+- `preload` : indique au navigateur qu’il **doit** télécharger une certaine ressource au plus tôt, avec une haute priorité.
 
 On retrouve des usages intéressant de `dns-prefetch` dans le cadre de l’utilisation de parties tierces critiques : en réalisant en amont la résolution du domaine, ce sont quelques millisecondes qui peuvent être économisées à moindre coût.  
 Cependant, dans la plupart des cas, il sera plus intéressant d’utiliser `preconnect` à la place de `dns-prefetch`, de manière à anticiper l’ensemble de la connexion.

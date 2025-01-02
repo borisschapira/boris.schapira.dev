@@ -123,7 +123,7 @@ _Attention : si vos pages sont délivrées par un Content Delivery Network (CDN)
 
 ## Additional Resources
 
--   [La liste des types de médias de l'IAN [EN]](https://www.iana.org/assignments/media-types/media-types.xhtml)
--   [Le site web d’Unicode [EN]](http://www.unicode.org/)
--   "[Character encodings: Essential concepts [EN]](https://www.w3.org/International/articles/definitions-characters/#httpheader)", sur le site du W3C dédié à l’internationalisation
--   Vous pensez toujours que l'encodage de caractères est une question triviale ? Regardez "[Anatomy of a Critical Security Bug](https://www.youtube.com/watch?v=yQaRUEwEKxE)", par Andrew Nacin lors de Loop Conf 2015.
+- [La liste des types de médias de l'IAN [EN]](https://www.iana.org/assignments/media-types/media-types.xhtml)
+- [Le site web d’Unicode [EN]](http://www.unicode.org/)
+- "[Character encodings: Essential concepts [EN]](https://www.w3.org/International/articles/definitions-characters/#httpheader)", sur le site du W3C dédié à l’internationalisation
+- Vous pensez toujours que l'encodage de caractères est une question triviale ? Regardez "[Anatomy of a Critical Security Bug](https://www.youtube.com/watch?v=yQaRUEwEKxE)", par Andrew Nacin lors de Loop Conf 2015.

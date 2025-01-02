@@ -238,16 +238,16 @@ N’oubliez pas : si vous avez besoin de comprendre ce qui se passe avec JavaScr
 
 ### Une touche d’archéologie
 
--   \[1993\] "[Response Times: The 3 Important Limits](https://www.nngroup.com/articles/response-times-3-important-limits/)", Jakob Nielsen
--   \[2015\] "[Measure Performance with the RAIL model](https://developers.google.com/web/fundamentals/performance/rail)", Meggin Kearney, Addy Osmani, Kayce Basques, Jason Miller
--   \[Juillet 2016\] "[Time To Interactive](https://docs.google.com/document/d/11sWqwdfd3u1TwyZhsc-fB2NcqMZ_59Kz4XKiivp1cIg/edit#heading=h.f294oh9v0jlx)", Tim Dresser, Paul Irish, Brendan Kenny
--   \[Décembre 2016\] "[Update on defining firstInteractive](https://docs.google.com/document/d/1jbvwxj_GJtiTTqFM8dsVzCIy5XeKL5qtIAvuimcXb1o/edit)", Deepanjan Roy
--   \[Janvier 2017\] "[Evaluating definitions of firstInteractive](https://docs.google.com/document/d/1pZsTKqcBUb1pc49J89QbZDisCmHLpMyUqElOwYqTpSI/edit)", Deepanjan Roy
--   \[Août 2017\] "[First Interactive and Consistently Interactive](https://docs.google.com/document/d/1GGiI9-7KeY3TPqS3YT271upUVimo-XiL5mwWorDUD4c/edit#heading=h.k1h25blerz3i)", Deepanjan Roy (anchor to the [definition of the TTI](https://docs.google.com/document/d/1GGiI9-7KeY3TPqS3YT271upUVimo-XiL5mwWorDUD4c/edit#bookmark=id.1d8nplewhcab))
--   \[Février 2018\] "[Time To Interactive Explainer](https://github.com/WICG/time-to-interactive#definition)", Tim Dresser, Deepanjan Roy
--   \[Mai 2018\] "[First Input Delay: Correlation with TTI](https://docs.google.com/document/d/1g0J5JIcICFyXYM6ifBF6vNd_qUPIfpf6YAfFHE1TYRE/edit#heading=h.g1vxo77py7yu)", Tim Dresser
--   \[Janvier 2019\] "[Web Page Usability Matters](https://addyosmani.com/blog/usability/)", Addy Osmani
--   \[Février 2019\] "[User-centric Performance Metrics](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics)", Philip Walton
+- \[1993\] "[Response Times: The 3 Important Limits](https://www.nngroup.com/articles/response-times-3-important-limits/)", Jakob Nielsen
+- \[2015\] "[Measure Performance with the RAIL model](https://developers.google.com/web/fundamentals/performance/rail)", Meggin Kearney, Addy Osmani, Kayce Basques, Jason Miller
+- \[Juillet 2016\] "[Time To Interactive](https://docs.google.com/document/d/11sWqwdfd3u1TwyZhsc-fB2NcqMZ_59Kz4XKiivp1cIg/edit#heading=h.f294oh9v0jlx)", Tim Dresser, Paul Irish, Brendan Kenny
+- \[Décembre 2016\] "[Update on defining firstInteractive](https://docs.google.com/document/d/1jbvwxj_GJtiTTqFM8dsVzCIy5XeKL5qtIAvuimcXb1o/edit)", Deepanjan Roy
+- \[Janvier 2017\] "[Evaluating definitions of firstInteractive](https://docs.google.com/document/d/1pZsTKqcBUb1pc49J89QbZDisCmHLpMyUqElOwYqTpSI/edit)", Deepanjan Roy
+- \[Août 2017\] "[First Interactive and Consistently Interactive](https://docs.google.com/document/d/1GGiI9-7KeY3TPqS3YT271upUVimo-XiL5mwWorDUD4c/edit#heading=h.k1h25blerz3i)", Deepanjan Roy (anchor to the [definition of the TTI](https://docs.google.com/document/d/1GGiI9-7KeY3TPqS3YT271upUVimo-XiL5mwWorDUD4c/edit#bookmark=id.1d8nplewhcab))
+- \[Février 2018\] "[Time To Interactive Explainer](https://github.com/WICG/time-to-interactive#definition)", Tim Dresser, Deepanjan Roy
+- \[Mai 2018\] "[First Input Delay: Correlation with TTI](https://docs.google.com/document/d/1g0J5JIcICFyXYM6ifBF6vNd_qUPIfpf6YAfFHE1TYRE/edit#heading=h.g1vxo77py7yu)", Tim Dresser
+- \[Janvier 2019\] "[Web Page Usability Matters](https://addyosmani.com/blog/usability/)", Addy Osmani
+- \[Février 2019\] "[User-centric Performance Metrics](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics)", Philip Walton
 
 ---
 

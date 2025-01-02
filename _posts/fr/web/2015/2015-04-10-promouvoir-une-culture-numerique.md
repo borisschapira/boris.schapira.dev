@@ -18,8 +18,8 @@ Je me suis déjà prononcé sur [l'apprentissage du code informatique](/notes/20
 
 J'ai donc décidé de réfléchir plutôt à une approche plus légère et ouverte à la transdisciplinarité. Je propose donc, depuis plusieurs mois, des activités à l'école de mes enfants et dans mon ancien lycée pour sensibiliser les étudiants à l'informatique et au numérique. Les approches sont différentes suivant les âges :
 
--   initiation à l'algorithmique chez les plus jeunes, par le biais de jeux et d'activités ;
--   sensibilisation aux risques et opportunités à partir de 13-14 ans.
+- initiation à l'algorithmique chez les plus jeunes, par le biais de jeux et d'activités ;
+- sensibilisation aux risques et opportunités à partir de 13-14 ans.
 
 Les sujets abordés dépendent, quant-à-eux, des cursus dans lesquels ces interventions peuvent s'inscrire (encore une fois, l'idée n'est pas de créer un nouvel enseignement, mais de donner une couleur numérique à l'existant). Ci-dessous, quelques exemples.
 
@@ -27,11 +27,11 @@ Les sujets abordés dépendent, quant-à-eux, des cursus dans lesquels ces inter
 
 ## Education Civique
 
--   Informatique et libertés : un sujet qui aborde les notions de citoyenneté, vie en collectivité, égalité et justice abordés en 4e
--   Internet comme un medium : rappel du rôle des médias et de la protection assurée par leur pluralité. Notion de _doute_ sur les informations trouvées et technique de recoupement.
--   Données personnelles : modélisation et traitement, ce qu'il est possible de savoir sur vous sans le savoir…
--   Harcèlement : en ligne aussi, vous en êtes peut-être victime… ou bourreau. Que faire ?
--   Démocratie : de la démocratie représentative à la démocratie participative
+- Informatique et libertés : un sujet qui aborde les notions de citoyenneté, vie en collectivité, égalité et justice abordés en 4e
+- Internet comme un medium : rappel du rôle des médias et de la protection assurée par leur pluralité. Notion de _doute_ sur les informations trouvées et technique de recoupement.
+- Données personnelles : modélisation et traitement, ce qu'il est possible de savoir sur vous sans le savoir…
+- Harcèlement : en ligne aussi, vous en êtes peut-être victime… ou bourreau. Que faire ?
+- Démocratie : de la démocratie représentative à la démocratie participative
 
 ## Philosophie
 
@@ -39,19 +39,19 @@ Suivant les séries et les sujets, de nombreux sujets abordables sur le Travail 
 
 ## Histoire-Géographie
 
--   La Démocratie sous toute ses formes
--   Révolution industrielle, révolution numérique : impacts sur l'évolution du marché de l'emploi et sur la (dé)centralisation
+- La Démocratie sous toute ses formes
+- Révolution industrielle, révolution numérique : impacts sur l'évolution du marché de l'emploi et sur la (dé)centralisation
 
 ## Technologie
 
--   Appareils mobiles, géolocalisation et techniques de ciblages
--   Modélisation des visiteurs d'un site et Teen Marketing
--   Fonctionnement des SPAM et des arnaques
+- Appareils mobiles, géolocalisation et techniques de ciblages
+- Modélisation des visiteurs d'un site et Teen Marketing
+- Fonctionnement des SPAM et des arnaques
 
 ## Mathématiques et données
 
--   Calcul littéral, factorisation/développement : travail pratique ([exemple avec Scratch](https://youtu.be/FNBDtxOlgnw))
--   Usage des statistiques dans un exemple de calcul dédié à la publicité en ligne
+- Calcul littéral, factorisation/développement : travail pratique ([exemple avec Scratch](https://youtu.be/FNBDtxOlgnw))
+- Usage des statistiques dans un exemple de calcul dédié à la publicité en ligne
 
 ## Français
 

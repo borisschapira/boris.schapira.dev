@@ -19,11 +19,11 @@ Je ne suis pas le seul à craindre ce texte.
 
 La liste des opposants est longue, dont des gens qui savent _a priori_ de quoi ils parlent :
 
--   le Conseil National du Numérique ;
--   le Syndicat de la Magistrature ;
--   la Commission Nationale Consultative des Droits de l'Homme ;
--   la Commission Nationale de l'Information et des Libertés ;
--   la Commission Nationale de Contrôle des Interceptions de Sécurité…
+- le Conseil National du Numérique ;
+- le Syndicat de la Magistrature ;
+- la Commission Nationale Consultative des Droits de l'Homme ;
+- la Commission Nationale de l'Information et des Libertés ;
+- la Commission Nationale de Contrôle des Interceptions de Sécurité…
 
 Pour autant, nos députés sont-ils stupides ou mal renseignés ? Bien sûr que non. Nous ignorent-ils ? Je ne le pense pas. En réalité, **nous sommes dans une véritable démocratie représentative : nous avons des élus qui nous ressemblent**. Et nos élus sont plutôt à l'image de ce que sont devenus les français : ils sont inquiets face aux étendues du terrorisme et pratiquent des raisonnements simples. En effet : les terroristes sont dangereux et utilisent Internet comme d'un outil de recrutement et de propagande. Nos services de renseignement ont les moyens techniques de surveiller le trafic sur Internet pour les détecter. Pourquoi ne pas le faire ?
 

@@ -23,9 +23,9 @@ En quelques mots, si vous préférez me lire : un LLM est un système à modèle
 
 Une fois le modèle alimenté et entrainé statistiquement, il peut servir à :
 
--   classifier des contenus
--   élaborer de nouveaux contenus textuels à partir d'un contexte interactionnel : à partir d'une consigne ou dans le cadre d'un échange textuel (chat)
--   modifier des contenues existants
+- classifier des contenus
+- élaborer de nouveaux contenus textuels à partir d'un contexte interactionnel : à partir d'une consigne ou dans le cadre d'un échange textuel (chat)
+- modifier des contenues existants
 
 Ces systèmes ne comprennent pas ce qu'ils écrivent, en tout cas pas dans le sens où nous l'entendons. Ils se basent sur des analyses statistiques pour prédire le prochain élément d'une phrase, compte tenu du contexte à leur disposition (constitué de la consigne d'origine et d'une partie de l'historique d'interaction).
 
@@ -43,9 +43,9 @@ Quand on est capable de créer ou de modifier un contenu à partir d'un autre, a
 
 On peut, par exemple, prendre le sous-titrage automatique d'une conférence et corriger son contenu pour qu'il soit :
 
--   plus synthétique ;
--   plus intelligible ;
--   découpé de manière optimale pour la lecture.
+- plus synthétique ;
+- plus intelligible ;
+- découpé de manière optimale pour la lecture.
 
 On peut aussi faire décrire automatiquement des images qui n'auraient pas de description textuelle sans cela, par défaut d'éducation des contributeur·ices.
 

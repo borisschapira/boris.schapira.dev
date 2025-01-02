@@ -69,10 +69,10 @@ La problématique de la production distribuée d’un contenu au sein d’un pro
 
 Certains, [comme Loren](https://www.penflip.com/ "Article de Loren sur la possibilité d'étendre GitHub pour les écrivains"), ont déjà essayé d’imaginer l’utilisation de GitHub pour l’écriture :
 
--   L’auteur principal créé la structure basique d’un document et quelques éléments de base (sur la branche par défaut);
--   Chaque collaborateur voulant contribuer peut démarrer en un clic la contribution sans se préoccuper de gêner les autres contributeurs (en réalisant un _fork_);
--   Une fois cette contribution terminée, son auteur propose à l’auteur original de valider sa contribution (via un _pull request_);
--   Si la contribution est validée, elle peut rejoindre le document. Sinon, les raisons du refus sont notifiées à son auteur, de manière à ce qu’il puisse réaliser les corrections nécessaires avant une nouvelle contribution.
+- L’auteur principal créé la structure basique d’un document et quelques éléments de base (sur la branche par défaut);
+- Chaque collaborateur voulant contribuer peut démarrer en un clic la contribution sans se préoccuper de gêner les autres contributeurs (en réalisant un _fork_);
+- Une fois cette contribution terminée, son auteur propose à l’auteur original de valider sa contribution (via un _pull request_);
+- Si la contribution est validée, elle peut rejoindre le document. Sinon, les raisons du refus sont notifiées à son auteur, de manière à ce qu’il puisse réaliser les corrections nécessaires avant une nouvelle contribution.
 
 Ce processus, classique, est entièrement supporté par la plate-forme, mais elle n'est pas forcément adaptée en termes de design. L'idée a cependant servi de support à la création de [Penflip](https://www.penflip.com/ 'Penflip, plate-forme d')… et à d'autres initiatives, plus orientées vers le design visuel ou industriel, la musique. C'est par exemple le cas de [Splice](https://splice.com/ 'Splice, plate-forme de production musicale collaborative'), qui devrait ouvrir ses portes prochainement. Y retrouvera-t-on les grands de l'Electro française (et mondiale) ?
 
@@ -84,9 +84,9 @@ caption=img_caption
 
 ## Quelques liens, pour en savoir plus
 
--   [[ReadWrite] GitHub For Beginners: Don't Get Scared, Get Started](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1 '[ReadWrite] GitHub For Beginners: Don')
--   [[Wired] The GitHub Revolution: Why We’re All in Open Source Now](http://www.wired.com/2013/03/github/ '[Wired] The GitHub Revolution: Why We’re All in Open Source Now')
--   [[Radar O'Reilly] GitHub gains new prominence as the use of open source within governments grows](http://radar.oreilly.com/2013/03/github-government-bureaucat-open-source.html '[Radar O')
--   [[NY Times Bits Blog] Dreams of ‘Open’ Everything](http://bits.blogs.nytimes.com/2012/12/28/github-has-big-dreams-for-open-source-software-and-more/?_r=5 '[NY Times Bits Blog] Dreams of ‘Open’ Everything')
--   [[The Next Web] Code-sharing site Github turns five and hits 3.5 million users, 6 million repositories](http://thenextweb.com/insider/2013/04/11/code-sharing-site-github-turns-five-and-hits-3-5-million-users-6-million-repositories/ '[The Next Web] Code-sharing site Github turns five and hits 3.5 million users, 6 million repositories')
--   [[Inc] 2 Reasons to Keep an Eye on GitHub](http://www.inc.com/magazine/201303/will-bourne/2-reasons-to-keep-an-eye-on-github_pagen_2.html '[Inc] 2 Reasons to Keep an Eye on GitHub')
+- [[ReadWrite] GitHub For Beginners: Don't Get Scared, Get Started](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1 '[ReadWrite] GitHub For Beginners: Don')
+- [[Wired] The GitHub Revolution: Why We’re All in Open Source Now](http://www.wired.com/2013/03/github/ '[Wired] The GitHub Revolution: Why We’re All in Open Source Now')
+- [[Radar O'Reilly] GitHub gains new prominence as the use of open source within governments grows](http://radar.oreilly.com/2013/03/github-government-bureaucat-open-source.html '[Radar O')
+- [[NY Times Bits Blog] Dreams of ‘Open’ Everything](http://bits.blogs.nytimes.com/2012/12/28/github-has-big-dreams-for-open-source-software-and-more/?_r=5 '[NY Times Bits Blog] Dreams of ‘Open’ Everything')
+- [[The Next Web] Code-sharing site Github turns five and hits 3.5 million users, 6 million repositories](http://thenextweb.com/insider/2013/04/11/code-sharing-site-github-turns-five-and-hits-3-5-million-users-6-million-repositories/ '[The Next Web] Code-sharing site Github turns five and hits 3.5 million users, 6 million repositories')
+- [[Inc] 2 Reasons to Keep an Eye on GitHub](http://www.inc.com/magazine/201303/will-bourne/2-reasons-to-keep-an-eye-on-github_pagen_2.html '[Inc] 2 Reasons to Keep an Eye on GitHub')

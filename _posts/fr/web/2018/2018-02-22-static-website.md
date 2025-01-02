@@ -66,9 +66,9 @@ En effet, les SSG sont des outils techniques et non des substituts aux CMS. Tout
 
 Un CMS Headless est constitué :
 
-> -   d’un système de stockage de données ;
-> -   d’une interface CRUD ;
-> -   d’une API pour accéder au données. <cite>"[What is a Headless CMS? (EN)](https://css-tricks.com/what-is-a-headless-cms/)", Chris Coyier</cite>
+> - d’un système de stockage de données ;
+> - d’une interface CRUD ;
+> - d’une API pour accéder au données. <cite>"[What is a Headless CMS? (EN)](https://css-tricks.com/what-is-a-headless-cms/)", Chris Coyier</cite>
 
 Et vous pouvez fabriquer des CMS Headless à partir de vos solutions habituelles. Wordpress, par exemple, a une [API REST](https://developer.wordpress.org/rest-api/). Côté Drupal, il y a tout un [groupe de travail](https://groups.drupal.org/headless-drupal) qui travaille sur le Headless. Là encore, le marché est en plein essor avec de nombreux nouveaux [logiciels et services](https://www.headlesscms.org/).
 
@@ -154,5 +154,5 @@ _Mes remerciements à Erin Symons, [Frank Taillandier](https://twitter.com/dirty
 
 ## Ressources additionnelles
 
--   "[Why Static Site Generators Are The Next Big Thing (EN)](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)", Matt Biilmann
--   "[Contentful n'est pas un CMS](https://bertrandkeller.info/2018/01/30/contentful-pas-un-cms/)", Michelle Gienow, adapté par Bertrand Keller
+- "[Why Static Site Generators Are The Next Big Thing (EN)](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)", Matt Biilmann
+- "[Contentful n'est pas un CMS](https://bertrandkeller.info/2018/01/30/contentful-pas-un-cms/)", Michelle Gienow, adapté par Bertrand Keller

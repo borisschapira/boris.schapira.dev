@@ -240,15 +240,15 @@ Merci à Kouhei, Dom Faralino, Pat Meenan, Kenji Baheux et Yoav Weiss pour leurs
 
 ## En savoir plus
 
--   <a href="https://bit.ly/script-scheduling" hreflang="en" lang="en">Scheduling Scripts Intuitively and Performantly</a>
--   <a href="https://docs.google.com/document/d/1bCDuq9H1ih9iNjgzyAL0gpwNFiEP4TZS-YLRp_RuMlc/edit#" hreflang="en" lang="en">Chrome Resource Priorities and Scheduling</a>
--   <a href="https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf" hreflang="en" lang="en">Preload, Prefetch And Priorities in Chrome</a>
--   <a href="https://twitter.com/yoavweiss/status/1096075414697639936" hreflang="en" lang="en">Priorities for rel=preload in Chrome and WebKit</a>
+- <a href="https://bit.ly/script-scheduling" hreflang="en" lang="en">Scheduling Scripts Intuitively and Performantly</a>
+- <a href="https://docs.google.com/document/d/1bCDuq9H1ih9iNjgzyAL0gpwNFiEP4TZS-YLRp_RuMlc/edit#" hreflang="en" lang="en">Chrome Resource Priorities and Scheduling</a>
+- <a href="https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf" hreflang="en" lang="en">Preload, Prefetch And Priorities in Chrome</a>
+- <a href="https://twitter.com/yoavweiss/status/1096075414697639936" hreflang="en" lang="en">Priorities for rel=preload in Chrome and WebKit</a>
 
 ---
 
 _[Note de Boris] Et j'ajoute mes propres articles, en français_ :
 
--   [Preload, Prefetch et Preconnect : accélerez votre site avec les Resource Hints](/notes/2020-05-preload-prefetch-et-preconnect-resource-hints/)
--   [Comment optimiser les performance de vos parties tierces](/notes/2020-05-optimiser-parties-tierces/)
--   [Comment différer l’exécution d’un script ?](/notes/2017-12-comment-differer-l-execution-d-un-script/)
+- [Preload, Prefetch et Preconnect : accélerez votre site avec les Resource Hints](/notes/2020-05-preload-prefetch-et-preconnect-resource-hints/)
+- [Comment optimiser les performance de vos parties tierces](/notes/2020-05-optimiser-parties-tierces/)
+- [Comment différer l’exécution d’un script ?](/notes/2017-12-comment-differer-l-execution-d-un-script/)

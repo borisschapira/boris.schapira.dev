@@ -104,9 +104,9 @@ Like many web quality topics, web performance is everyone's business. To improve
 
 Let's take the example of image optimization. When you say it like that, it sounds simple and a lot of people will feel like they understand. But in order to approach the topic in its entirety, you have to:
 
--   Train people to choose the best format based on the image
--   Control the addition of images and trigger the optimization and generation of several image variants depending on the context and artistic direction, to avoid oversized images
--   Modify the HTML markup and/or possibly set up an image proxy with content negotiation (internal or external), so that every user receives an image adapted to their own context.
+- Train people to choose the best format based on the image
+- Control the addition of images and trigger the optimization and generation of several image variants depending on the context and artistic direction, to avoid oversized images
+- Modify the HTML markup and/or possibly set up an image proxy with content negotiation (internal or external), so that every user receives an image adapted to their own context.
 
 And I haven't even talked about [lazy loading](https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/) yet.
 

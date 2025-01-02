@@ -13,6 +13,6 @@ Pour eux, Hadopi ne pouvait pas être votée, sa modalité de sanction étant ca
 
 Seulement je voudrais rappeler que la sanction n'était qu'un des nombreux problèmes soulevés par ce texte, dont notamment :
 
--   Un bénéfice économique très discutable qui entretient un modèle de rémunération des arts audiovisuels en constat d'échec.
--   Un postulat technique erroné, qui ne suffit pas à prouver une quelconque culpabilité.
--   Un processus de sanction qui nie les droits de la défense à un procès équitable et à une procédure contradictoire. Nous ne sommes pas encore sortis de l'auberge.
+- Un bénéfice économique très discutable qui entretient un modèle de rémunération des arts audiovisuels en constat d'échec.
+- Un postulat technique erroné, qui ne suffit pas à prouver une quelconque culpabilité.
+- Un processus de sanction qui nie les droits de la défense à un procès équitable et à une procédure contradictoire. Nous ne sommes pas encore sortis de l'auberge.

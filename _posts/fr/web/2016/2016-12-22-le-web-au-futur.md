@@ -8,9 +8,9 @@ Cet article a été rédigé dans le cadre de [#nowwwel](https://twitter.com/has
 
 Si cet article vous plait, n'hésitez pas à me remercier d'une des façons suivantes (suivant votre budget et votre temps disponible) :
 
--   publiez une offre de stage sur [Viens voir mon taf](http://www.viensvoirmontaf.fr/) pour offrir de l'espoir à des jeunes qui pensent nos métiers inaccessibles, à tort ;
--   embauchez, recommandez, rémunérez des femmes et incitez-les à s'organiser et s'auto-promouvoir, par exemple via [Girlz In Web](http://girlzinweb.com/) ;
--   formez-vous à la qualité, l'accessibilité ou l'écriture inclusive pour essayer de produire chaque jour un Web plus ouvert.
+- publiez une offre de stage sur [Viens voir mon taf](http://www.viensvoirmontaf.fr/) pour offrir de l'espoir à des jeunes qui pensent nos métiers inaccessibles, à tort ;
+- embauchez, recommandez, rémunérez des femmes et incitez-les à s'organiser et s'auto-promouvoir, par exemple via [Girlz In Web](http://girlzinweb.com/) ;
+- formez-vous à la qualité, l'accessibilité ou l'écriture inclusive pour essayer de produire chaque jour un Web plus ouvert.
 
 <!-- more -->
 
@@ -18,12 +18,12 @@ Si cet article vous plait, n'hésitez pas à me remercier d'une des façons suiv
 
 Votre dernier projet _parfait_ vient de se terminer :
 
--   une démarche utilisateur a été menée pour bien en définir les usages ;
--   une conception visuelle composée de diverses itérations a permis d’aboutir à une expression graphique traduisant parfaitement les intentions des parties prenantes ;
--   le site est adapté aux périphériques mobiles, aux tablettes et aux ordinateurs par le biais de différentes `media-queries`, d’une intégration fluide et de diverses adaptations suivant les usages supposés sur les différentes plateformes ;
--   le <span lang="en">Front</span> comme le <span lang="en">Back</span> reposent sur un socle technique solide, composé de diverses solutions spécialisées, agrémentées de nombreuses dépendances à des librairies tierces ;
--   des services tiers ont été sélectionnés et intégrés pour fournir des fonctionnalités spécifiques sans besoin de développements ;
--   enfin, le site est hébergé par une entreprise indépendante qui infogère le serveur.
+- une démarche utilisateur a été menée pour bien en définir les usages ;
+- une conception visuelle composée de diverses itérations a permis d’aboutir à une expression graphique traduisant parfaitement les intentions des parties prenantes ;
+- le site est adapté aux périphériques mobiles, aux tablettes et aux ordinateurs par le biais de différentes `media-queries`, d’une intégration fluide et de diverses adaptations suivant les usages supposés sur les différentes plateformes ;
+- le <span lang="en">Front</span> comme le <span lang="en">Back</span> reposent sur un socle technique solide, composé de diverses solutions spécialisées, agrémentées de nombreuses dépendances à des librairies tierces ;
+- des services tiers ont été sélectionnés et intégrés pour fournir des fonctionnalités spécifiques sans besoin de développements ;
+- enfin, le site est hébergé par une entreprise indépendante qui infogère le serveur.
 
 De nombreuses démarches fonctionnelles et techniques ont été entreprises, à chacune des étapes citées, pour que le site soit à l’état de l’art au moment de sa sortie…
 
@@ -75,21 +75,21 @@ Construire une solution logicielle pour répondre à un besoin, ça commence par
 
 Il vous faut également imaginer l’avenir de cette dépendance.
 
--   Sera-t-elle maintenue sur la durée ? Existe-t-elle depuis longtemps ?
--   Est-elle utilisée par de nombreux utilisateurs et qu’en pensent-ils ?
--   S’il s’agit d’un projet jeune mais qui fait parfaitement le travail, existe-t-il un projet plus ancien qui le ferait également, moyennant quelques développements supplémentaires ? Passer par cet autre projet apporterait-il quelque chose (par exemple : la communauté du projet plus ancien est-elle plus grande et la littérature plus importante) ?
--   Cette dépendance est-elle <span lang="en">open source</span> ? Est-elle régulièrement mises à jour, avec une prise en compte de la compatibilité descendante et une <span lang="en">roadmap</span> lisible ?
--   Est-elle soutenue ou maintenue par plusieurs personnes ? Par qui la gouvernance est-elle détenue ?
--   Sont-elles faciles à prendre en main pour un nouveau venu ? Quelle est la quantité de documentation qu'il vous sera nécessaire de produire pour lui mettre le pied à l'étrier ?
--   Une fois le projet en Production, les dépendances sont-elles versionnées quelque part, de manière à pouvoir les retrouver si elles venaient à disparaitre ?
+- Sera-t-elle maintenue sur la durée ? Existe-t-elle depuis longtemps ?
+- Est-elle utilisée par de nombreux utilisateurs et qu’en pensent-ils ?
+- S’il s’agit d’un projet jeune mais qui fait parfaitement le travail, existe-t-il un projet plus ancien qui le ferait également, moyennant quelques développements supplémentaires ? Passer par cet autre projet apporterait-il quelque chose (par exemple : la communauté du projet plus ancien est-elle plus grande et la littérature plus importante) ?
+- Cette dépendance est-elle <span lang="en">open source</span> ? Est-elle régulièrement mises à jour, avec une prise en compte de la compatibilité descendante et une <span lang="en">roadmap</span> lisible ?
+- Est-elle soutenue ou maintenue par plusieurs personnes ? Par qui la gouvernance est-elle détenue ?
+- Sont-elles faciles à prendre en main pour un nouveau venu ? Quelle est la quantité de documentation qu'il vous sera nécessaire de produire pour lui mettre le pied à l'étrier ?
+- Une fois le projet en Production, les dépendances sont-elles versionnées quelque part, de manière à pouvoir les retrouver si elles venaient à disparaitre ?
 
 {% include media/spotify_title.html.liquid id="1L21YTLKh6eJaIjQWRgzo7" title="&quot;Shake Your Foundations
 &quot;, AC/DC" %}
 
 La manipulation des dépendances est également un point d’attention :
 
--   Qu’utilisez-vous pour lister vos dépendances, pour les mettre à jour ?
--   Ce produit/projet étant lui-même une dépendance, répond-t-il à toutes les questions ci-dessus ?
+- Qu’utilisez-vous pour lister vos dépendances, pour les mettre à jour ?
+- Ce produit/projet étant lui-même une dépendance, répond-t-il à toutes les questions ci-dessus ?
 
 La maïeutique de ces questions peut sembler abstraite, alors autant expliciter : **vos outils de développement et la manière dont vous vous en servez font partie intégrante du projet**.  
 Que se passera-t-il dans quatre ans, quand une développeuse ou un développeur voudra installer les dépendances que vous n’aurez pas listé et qu’elle ou il ne trouvera plus rien ? Pour Noël, soyez sympas : évitez à cette personne d'être obligé·e d’aller décompiler vos ressources obfusquées pour deviner ce que vous avez utilisé et comment. Est-ce que vous êtes obligés d'utiliser un outil de gestion des dépendances ? Non, de la documentation, c'est bien aussi. Pensez-y, c'est parfois tellement plus simple !
@@ -126,10 +126,10 @@ Résultat : beaucoup d'entre nous se lancent sur de nouvelles technos pour s'amu
 
 Quelques exemples dont j'ai complètement conscience du potentiel trollesque :
 
--   **Les <span lang="en">frameworks</span> <abbr lang="en" title="Single Page Application">SPA</abbr>** sont normalement faits pour faire… des applications ! Le web étant principalement constitué de documents, inutile d'en voir partout. Si vous décidez d'en utiliser un, sachez pourquoi et exploitez-le. Un pile <span lang="en">Front-End</span>, ça se mûrit, [même chez les meilleurs](https://forum.cozy.io/t/a-propos-de-la-pile-technique-front-about-our-frontend-stack/3849). Ce n'est pas grave si vous n'êtes pas encore prêt pour la dernière nouveauté.
--   **Les <span lang="en">frameworks</span> CSS/JS de composants** : un composant bien écrit, bien documenté, validé par la communauté des développeurs et des fabricants de navigateurs au travers de réflexions et d'usages, ça s'appelle un standard. Travaillez sur les standards, apprenez à vous en servir à leur plein potentiel, bossez sur l'accessibilité pour obtenir un regard critique (comme de vous demander quels sont les cas d'usages de `<dt>` et `<dl>`, par exemple).
--   **La mode récente à la containerisation et à l'utilisation de microservices** est très sensée et peut s'expliquer par énormément de facteurs, la plupart étant liés à l'explosion des infrastructures distribuées, y compris sur des phases de développement (les containers permettant d'effectuer des tests automatisés de haute volée). Sur des petits projets, c'est clairement de la complexité pour pas grand-chose. Et ne venez pas me dire que vous avez mis en place la <span lang="en">stack</span> en "pensant à plus tard". Soyez lucide sur votre projet et posez-vous véritablement la question de la pertinence.
--   **Node est une plate-forme très prometteuse** mais les solutions répondant à des besoins métier sont peu nombreuses (voire inexistantes). La plupart des projets importants reposent sur des socles de dépendances très mouvant. Node.js lui-même n'offre des garanties que de manière très récente avec des versions [<span lang="en">Long Time Support</span>](https://github.com/nodejs/LTS/raw/master/schedule.png) disponibles uniquement depuis octobre 2015. Est-ce qu'il faut se lancer dessus ? Assurément. Est-ce que c'est une <span lang="en">Silver Bullet</span> qui viendra à bout de vos problématiques ? Probablement pas.
+- **Les <span lang="en">frameworks</span> <abbr lang="en" title="Single Page Application">SPA</abbr>** sont normalement faits pour faire… des applications ! Le web étant principalement constitué de documents, inutile d'en voir partout. Si vous décidez d'en utiliser un, sachez pourquoi et exploitez-le. Un pile <span lang="en">Front-End</span>, ça se mûrit, [même chez les meilleurs](https://forum.cozy.io/t/a-propos-de-la-pile-technique-front-about-our-frontend-stack/3849). Ce n'est pas grave si vous n'êtes pas encore prêt pour la dernière nouveauté.
+- **Les <span lang="en">frameworks</span> CSS/JS de composants** : un composant bien écrit, bien documenté, validé par la communauté des développeurs et des fabricants de navigateurs au travers de réflexions et d'usages, ça s'appelle un standard. Travaillez sur les standards, apprenez à vous en servir à leur plein potentiel, bossez sur l'accessibilité pour obtenir un regard critique (comme de vous demander quels sont les cas d'usages de `<dt>` et `<dl>`, par exemple).
+- **La mode récente à la containerisation et à l'utilisation de microservices** est très sensée et peut s'expliquer par énormément de facteurs, la plupart étant liés à l'explosion des infrastructures distribuées, y compris sur des phases de développement (les containers permettant d'effectuer des tests automatisés de haute volée). Sur des petits projets, c'est clairement de la complexité pour pas grand-chose. Et ne venez pas me dire que vous avez mis en place la <span lang="en">stack</span> en "pensant à plus tard". Soyez lucide sur votre projet et posez-vous véritablement la question de la pertinence.
+- **Node est une plate-forme très prometteuse** mais les solutions répondant à des besoins métier sont peu nombreuses (voire inexistantes). La plupart des projets importants reposent sur des socles de dépendances très mouvant. Node.js lui-même n'offre des garanties que de manière très récente avec des versions [<span lang="en">Long Time Support</span>](https://github.com/nodejs/LTS/raw/master/schedule.png) disponibles uniquement depuis octobre 2015. Est-ce qu'il faut se lancer dessus ? Assurément. Est-ce que c'est une <span lang="en">Silver Bullet</span> qui viendra à bout de vos problématiques ? Probablement pas.
 
 Si vous pensez que vous êtes prêt à utiliser quelque chose de nouveau, faites-le sur des éléments non-essentiels du projet, ou sur des projets de faible importance. Faites-le en connaissance de cause, en ayant établi une matrice des risques potentiels et faites suivre le projet par une personne de confiance qui saura vous indiquer quand vous allez trop loin dans l'obstination. Enfin, faites-le en binôme (au minimum). On n'apprend jamais aussi bien que quand on s'explique mutuellement les choses.
 
@@ -143,11 +143,11 @@ Contrairement à vous, vos commanditaires ne sont pas nécessairement des profes
 
 Prenez donc le temps, en amont, de réfléchir à la pérennité de ce que vous produisez et prenez vos décisions en gardant en tête que :
 
--   **un site, ça se maintient**, par des acteurs qui doivent avoir à la fois le savoir, le savoir-faire et informations nécessaires à l'exécution des tâches qui leurs seront confiées. Pensez au futur : pensez à elles ;
--   **la solution n'ayant aucun bug n'existe pas** : tant que les logiciels seront créés par des humains, ils contiendront des erreurs. Privilégiez les solutions mettant rapidement des correctifs à disposition et dont la communauté est saine. Vous savez peut-être distinguer un bon d'un mauvais module. Rien ne garantit que votre successeur sera dans le même cas.
--   si le code n'est pas compréhensible en l'état, **envisagez la formation nécessaire** à la mise à jour technique des solutions et maintenez l'information sur cette "dette de formation" dans le temps, ainsi que les noms des personnes pouvant la combler.
--   pensez à prévenir vos commanditaires que la maintenance a un coût et que **le marché n'est pas homogène**. Est-ce qu’il est plus facile de trouver un développeur PHP ou un développeur .NET ? Est-ce que chaque surcoût s'associe d'un avantage qui a du sens pour le projet ? Suivant la typologie financière, technique ou culturelle du client et des types de solution recherchées, cette question est pertinente !
--   La documentation d'installation, de développement, de mise en Production vous gonfle ? **Écrivez des scripts versionnés**. Ils vous serviront durant le développement et feront un excellent point d'entrée pour vos successeurs.
+- **un site, ça se maintient**, par des acteurs qui doivent avoir à la fois le savoir, le savoir-faire et informations nécessaires à l'exécution des tâches qui leurs seront confiées. Pensez au futur : pensez à elles ;
+- **la solution n'ayant aucun bug n'existe pas** : tant que les logiciels seront créés par des humains, ils contiendront des erreurs. Privilégiez les solutions mettant rapidement des correctifs à disposition et dont la communauté est saine. Vous savez peut-être distinguer un bon d'un mauvais module. Rien ne garantit que votre successeur sera dans le même cas.
+- si le code n'est pas compréhensible en l'état, **envisagez la formation nécessaire** à la mise à jour technique des solutions et maintenez l'information sur cette "dette de formation" dans le temps, ainsi que les noms des personnes pouvant la combler.
+- pensez à prévenir vos commanditaires que la maintenance a un coût et que **le marché n'est pas homogène**. Est-ce qu’il est plus facile de trouver un développeur PHP ou un développeur .NET ? Est-ce que chaque surcoût s'associe d'un avantage qui a du sens pour le projet ? Suivant la typologie financière, technique ou culturelle du client et des types de solution recherchées, cette question est pertinente !
+- La documentation d'installation, de développement, de mise en Production vous gonfle ? **Écrivez des scripts versionnés**. Ils vous serviront durant le développement et feront un excellent point d'entrée pour vos successeurs.
 
 ## Demain ne meurt jamais
 
@@ -161,7 +161,7 @@ Pour faire quelque chose de pérenne, il faut autant comprendre le présent qu'i
 
 Des ressources m'ont été proposée par [Antoine Fauchié](https://www.quaternum.net/2016/12/24/concevoir-des-sites-web-pour-le-futur/), et elles ont entièrement leur place ici. Si l'article vous a plu, n'hésitez pas à creuser en lisant :
 
--   "[Resilient Web Design](https://resilientwebdesign.com/)", de Jeremy Keith, il livre à lire en ligne (ou hors-ligne) ;
--   "[The Future Web Wants You](https://briankardell.wordpress.com/2016/08/24/the-future-web-wants-you/)", par Brian Kardell ;
--   "[The Future of the Web](http://alistapart.com/article/the-future-of-the-web)", par Matt Griffin ;
--   et enfin "[Arrêtez le Web](http://www.la-grange.net/2015/08/04/stop)", par Karl Dubost.
+- "[Resilient Web Design](https://resilientwebdesign.com/)", de Jeremy Keith, il livre à lire en ligne (ou hors-ligne) ;
+- "[The Future Web Wants You](https://briankardell.wordpress.com/2016/08/24/the-future-web-wants-you/)", par Brian Kardell ;
+- "[The Future of the Web](http://alistapart.com/article/the-future-of-the-web)", par Matt Griffin ;
+- et enfin "[Arrêtez le Web](http://www.la-grange.net/2015/08/04/stop)", par Karl Dubost.

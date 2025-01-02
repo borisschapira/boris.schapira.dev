@@ -146,5 +146,5 @@ _Thanks to Erin Symons, [Frank Taillandier](https://twitter.com/dirtyf) and the 
 
 ## Additional Resources
 
--   "[Why Static Site Generators Are The Next Big Thing](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)", Matt Biilmann
--   "[Don’t Call Contentful’s Content Infrastructure a ‘CMS’](https://thenewstack.io/dont-call-contentfuls-content-infrastructure-cms/)", Michelle Gienow
+- "[Why Static Site Generators Are The Next Big Thing](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)", Matt Biilmann
+- "[Don’t Call Contentful’s Content Infrastructure a ‘CMS’](https://thenewstack.io/dont-call-contentfuls-content-infrastructure-cms/)", Michelle Gienow

@@ -20,6 +20,6 @@ Vu la situation très délicate des technologies RIA face à HTML5, il est fort 
 
 Affaire à suivre.
 
--   [Téléchargement](http://silverlight.dlservice.microsoft.com/download/F/8/C/F8C0EACB-92D0-4722-9B18-965DD2A681E9/30514.00/Silverlight_x64.exe)
--   [Annonce officielle](http://blogs.msdn.com/b/silverlight/archive/2011/12/09/silverlight-5-available-for-download-today.aspx)
--   [System Requirements](http://www.microsoft.com/silverlight/what-is-silverlight/#sys-req)
+- [Téléchargement](http://silverlight.dlservice.microsoft.com/download/F/8/C/F8C0EACB-92D0-4722-9B18-965DD2A681E9/30514.00/Silverlight_x64.exe)
+- [Annonce officielle](http://blogs.msdn.com/b/silverlight/archive/2011/12/09/silverlight-5-available-for-download-today.aspx)
+- [System Requirements](http://www.microsoft.com/silverlight/what-is-silverlight/#sys-req)

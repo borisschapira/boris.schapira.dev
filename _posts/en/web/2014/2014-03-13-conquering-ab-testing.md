@@ -52,9 +52,9 @@ caption=img_caption
 
 After hesitating for a while, he finally decides to evaluate the display of the product image on the "Product Page" template of the e-commerce website. The current version, with the product image to the left of the description, will be considered as the control version (version A). On version B, a video of the product will be displayed instead. The Marketing Department has been insisting that we should use more video, the time has come to verify these claims! But an analytical problem then arises: how can the effectiveness of one version over the other be measured? Many indicators can be used to evaluate user experience: successful sales, abandoned carts, time-based measurements, bounce rate measurements... After careful consideration, the team makes a choice: the add-to-cart action will be the criterion for a successful version. The more a product gets added to cart, the more effective the version. Next arises a technical problem: for the sake of consistency, Matthew wants that users who have been directed to a specific version stay on that version for the entire duration of the test — displaying either a picture or a video completely at random is out of the question! So the team creates a cookie that will store the appropriate version for the current visitor at the time when that version is assigned. For each visitor, the system will then test whether the cookie exists and if it does, it will display the relevant version. The last step is to decide which version will be displayed on a customer's first visit. Again, a choice must be made regarding the way users are handled: What proportion of visitors will see version B? Based on what criteria will they be selected? What area of the website will be affected by the test: all product pages or only some of them? To avoid influencing the results, A/B testing methodology requires using a completely independent criterion, but finding one is not so easy! Matthew and his team finally decide to use a random assignment approach and display the control version to 99% of users and version B to only 1% of them, on the entire site. This means that if version B does not fulfill expectations, the impact on business will be limited. Matthew realizes that, under the guise of objectivity, the team has made a number of highly subjective choices:
 
--   the nature of the test itself;
--   the way of measuring how successful each version is;
--   the way in which visitors are sorted and distributed.
+- the nature of the test itself;
+- the way of measuring how successful each version is;
+- the way in which visitors are sorted and distributed.
 
 In the end, A/B testing is not that easy. Oh well, too late to stop now!
 
@@ -101,15 +101,15 @@ caption=img_caption
 
 Unfortunately, this request adds to the pile of other requests, some of which actually concern similar pages. Potentially, users could unknowingly undergo several A/B tests within a single page. On the product page, for example:
 
--   one A/B test relating to the font for the product name;
--   one A/B test relating to the call-to-action text for the add-to-cart feature;
--   one last test that would influence the real-time display of product data.
+- one A/B test relating to the font for the product name;
+- one A/B test relating to the call-to-action text for the add-to-cart feature;
+- one last test that would influence the real-time display of product data.
 
 While it is technically possible (by stretching the concepts that are already in place for single tests), this multivariate analysis does raise the issue of the increasing complexity of statistical analysis, which was already a delicate task. Because with all these tests, the number of versions of the site increases exceedingly fast. Matthew is now in charge of:
 
--   one A/B/C split test on the home page;
--   three A/B tests on the product page;
--   one A/B test involving a variation of the navigation structure...
+- one A/B/C split test on the home page;
+- three A/B tests on the product page;
+- one A/B test involving a variation of the navigation structure...
 
 ... this means 18 different possible combinations for each visitor and a significant increase in maintenance costs (because now, to reproduce a bug you have to use the exact same configuration as the client browser on which it occurred). The issue of tracking must also be added to these costs, because the last test has the direct consequence of distorting existing analytics, which until now were based on URLs.
 
@@ -117,9 +117,9 @@ While it is technically possible (by stretching the concepts that are already in
 
 Doing some research, Matthew discovers a few companies offering products that facilitate A/B testing. Most of them internalize two of the major issues: statistical analysis and campaign management. Some products can even automate campaigns and end them once a meaningful result has been obtained. Unfortunately it is very difficult to determine the value of a solution over another, since each of them seems to be adapted to a particular need:
 
--   For commercial teams, some solutions come on top of the Front End to modify the page viewed by the customer on the fly. The concept seems appealing at first, but users sometimes end up experiencing slowdowns, page flashes and even, in the most extreme cases, SPOF situations (Single Point of Failure: a situation in which the site relies heavily on one or more external resources; if these resources are not available or a technical problem makes it impossible to access them from the client — network problem, unreliable gateways — then the page can no longer be viewed);
--   other more "injection-oriented" solutions make it possible to easily create switches between multiple software architectures;
--   finally, other solutions make it possible to quickly switch from one architecture to another, but they introduce additional gateways into the system, leading to increased risks and decreased performance.
+- For commercial teams, some solutions come on top of the Front End to modify the page viewed by the customer on the fly. The concept seems appealing at first, but users sometimes end up experiencing slowdowns, page flashes and even, in the most extreme cases, SPOF situations (Single Point of Failure: a situation in which the site relies heavily on one or more external resources; if these resources are not available or a technical problem makes it impossible to access them from the client — network problem, unreliable gateways — then the page can no longer be viewed);
+- other more "injection-oriented" solutions make it possible to easily create switches between multiple software architectures;
+- finally, other solutions make it possible to quickly switch from one architecture to another, but they introduce additional gateways into the system, leading to increased risks and decreased performance.
 
 So Matthew knows that he will need to do some more research on these products and select the best solution to address the issues he faces. But beyond that, he is also starting to get the impression that...
 
@@ -135,9 +135,9 @@ caption=img_caption
 
 For instance, let us imagine that we proceed to a multivariate analysis consisting of two tests, each with about fifteen variations (the scenario is extreme, but it serves the demonstration well). In this case, experimenting with the variations of both tests consists in moving along the yellow plane of [the graph](https://blog.clever-age.com/wp-content/uploads/sites/2/2014/03/WebPerf-Waterfall.png), in search of the best possible performance. Once at the highest point of the yellow peak, nothing tells us that there is actually a higher peak elsewhere and that we would have found it, had we continued our tests with a greater number of variations. Moreover, an A/B test will never say what we want it to say. In Matthew's example with the product image vs. product video, the test's result was that product images were the most effective solution, but Matthew has no clue that this is probably the consequence of two factors: on the one hand, users are accustomed to viewing videos in landscape rather than portrait mode, and on the other hand, they are unable to stay focused when presented with an interactive medium. Promoting A/B testing is certainly a good thing... as long as you ask professionals to help you understand how to interpret their results! In addition, there are a number of other obvious limitations:
 
--   A/B testing knows nothing about your visitors. It does not know whether they are old, young, tech-savvy, loyal... yet different profiles can have entirely different behaviors and decision-making processes, and you will only get an overall view of this. You will need to complete your A/B testing system with a quality analytics tool or a tracker, allowing you to properly segment feedback from these different types of visitors;
--   Running an extravagant number of multivariate analyses requires an increasing amount of visitors: for this reason, it is not possible to "test everything" in the hope of finding the right formula, especially considering that calculating the conversion rate is probably more complex than simply adding up all scenarios;
--   A/B testing is a short-termist solution that does not take into account the learning curve of your visitors. Therefore it does not have the same relevance for mass retailers and for companies with sophisticated products and a thoroughly planned sales process.
+- A/B testing knows nothing about your visitors. It does not know whether they are old, young, tech-savvy, loyal... yet different profiles can have entirely different behaviors and decision-making processes, and you will only get an overall view of this. You will need to complete your A/B testing system with a quality analytics tool or a tracker, allowing you to properly segment feedback from these different types of visitors;
+- Running an extravagant number of multivariate analyses requires an increasing amount of visitors: for this reason, it is not possible to "test everything" in the hope of finding the right formula, especially considering that calculating the conversion rate is probably more complex than simply adding up all scenarios;
+- A/B testing is a short-termist solution that does not take into account the learning curve of your visitors. Therefore it does not have the same relevance for mass retailers and for companies with sophisticated products and a thoroughly planned sales process.
 
 ## A/B Testing, in the end
 

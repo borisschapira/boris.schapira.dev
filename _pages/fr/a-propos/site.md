@@ -23,11 +23,11 @@ J'ai commencé par jeter mon blog Wordpress pour le remplacer par un générateu
 
 Mes dépendances Ruby sont gérées par [Bundler](http://bundler.io/) :
 
--   pour la gestion des archives : `jekyll-archives` ;
--   pour la génération d'images <em lang="en">responsive</em> : `jekyll-cloudinary` ;
--   pour le `sitemap.xml` : `jekyll-sitemap` ;
--   pour la pagination : `jekyll-paginate-v2` ;
--   pour la micro-typographie française : `jekyll-microtypo`.
+- pour la gestion des archives : `jekyll-archives` ;
+- pour la génération d'images <em lang="en">responsive</em> : `jekyll-cloudinary` ;
+- pour le `sitemap.xml` : `jekyll-sitemap` ;
+- pour la pagination : `jekyll-paginate-v2` ;
+- pour la micro-typographie française : `jekyll-microtypo`.
 
 J'en oublie sûrement mais vous pourrez trouver l'ensemble des dépendances [sur le dépôt Github](https://github.com/borisschapira/boris.schapira.dev/blob/main/Gemfile 'Squelette Jekyll de boris.schapira.dev').
 
