@@ -238,10 +238,6 @@ author:
       title: "Mastodon (pro)"
       nick: "@boostmarks@hachyderm.io"
       url: https://hachyderm.io/@boostmarks
-    - name: pixelfed
-      title: Pixelfed
-      nick: "@borisschapira@pixelfed.social"
-      url: https://pixelfed.social/i/web/profile/679082835117558304
   feed: '/feed.xml'
   mailto: 'boris%40schapira.dev'
 
