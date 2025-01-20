@@ -34,7 +34,7 @@ GEM
     io-event (1.7.5)
     json (2.9.1)
     mini_portile2 (2.8.8)
-    nokogiri (1.18.1)
+    nokogiri (1.18.2)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     pdf-reader (2.13.0)
