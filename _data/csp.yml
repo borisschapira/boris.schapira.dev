@@ -26,8 +26,6 @@
       comment: 'Switch to Dark Mode'
     - value: "'sha256-hrqHfxUq6GUlUufkbC9L26zgi3VaM4zuO6X/CVuieL4='"
       comment: 'Matomo analytics'
-    - value: "'sha256-Oq8k3FaFfXC/VOBt/MYJTHWT4l5j577MJMzecDE6jl4='"
-      comment: 'SW registration'
     - value: 'analytics.schapira.dev'
       comment: 'Matomo analytics'
     - value: 'speakerdeck.com'

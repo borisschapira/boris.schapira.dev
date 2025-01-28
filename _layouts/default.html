@@ -284,16 +284,5 @@ layout: microtypo
       }
     </script>
     <!-- End Contentsquare Tag -->
-
     {% endunless %}
-    <!-- Service Worker Registration -->
-    <script>
-      (function(){
-        var e = document.createElement('script');
-        e.src = '{{'sw-register.js'|relative_url}}?v=' + Date.now();
-        e.defer = true;
-        document.body.appendChild(e);
-      })()
-    </script>
-    <!-- End Service Worker Registration -->
   </body></html>
