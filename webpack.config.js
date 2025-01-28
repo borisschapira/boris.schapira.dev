@@ -64,34 +64,4 @@ var cssConfig = {
   },
 };
 
-var swConfig = {
-  entry: {
-    'sw-register': './_src/sw/sw-register.js',
-    sw: './_src/sw/sw.js',
-  },
-  module: {
-    rules: [
-      {
-        test: /sw.*\.m?js$/,
-        exclude: /(node_modules|bower_components)/,
-        use: {
-          loader: 'babel-loader',
-          options: {
-            envName: 'modern',
-          },
-        },
-      },
-    ],
-  },
-  output: {
-    filename: '[name].js',
-    path: path.resolve(__dirname, './'),
-  },
-  mode: 'production',
-  optimization: {
-    minimize: false,
-  },
-  devtool: 'source-map',
-};
-
-module.exports = [scriptsConfig, cssConfig, swConfig];
+module.exports = [scriptsConfig, cssConfig];
