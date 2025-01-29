@@ -1,5 +1,8 @@
 ---
 title: 'Un stagiaire'
+tags:
+    - Premières emb(a)uches
+serie: Premières emb(a)uches
 ---
 
 Après une semaine, voici l'heure du départ pour notre futur ex-stagiaire.
