@@ -6,19 +6,19 @@ layout: default
   <div class="content under-large" role="main">
     {% assign count = 0 %}{% for post in site.posts %}{% if post.locale ==
     page.locale %}{% include post.html.liquid postPage=false post=post
-    displayCategory="true" %}{% assign count = count | plus: 1 %}{% if count >
-    10 %}{% break %}{% endif %}{% endif %}{% endfor %}
+    displayCategory="true" %}{% assign count = count | plus: 1 %}{% if count >=
+    5 %}{% break %}{% endif %}{% endif %}{% endfor %}
   </div>
   <div class="web-content over-large" role="main">
     {% assign count = 0 %}{% for post in site.categories['web'] %}{% if
     post.locale == page.locale %}{% include post.html.liquid postPage=false
     post=post displayCategory="true" %}{% assign count = count | plus: 1 %}{% if
-    count > 10 %}{% break %}{% endif %}{% endif %}{% endfor %}
+    count >= 5 %}{% break %}{% endif %}{% endif %}{% endfor %}
   </div>
 </div>
 <div class="other-content over-large">
   {% assign count = 0 %}{% for post in site.posts %}{% if post.locale ==
   page.locale and post.category <> 'web' %}{% include post.html.liquid
   postPage=false post=post displayCategory="true" %}{% assign count = count |
-  plus: 1 %} {% if count > 12 %}{% break %}{% endif %}{% endif %}{% endfor %}
+  plus: 1 %} {% if count >= 7 %}{% break %}{% endif %}{% endif %}{% endfor %}
 </div>
