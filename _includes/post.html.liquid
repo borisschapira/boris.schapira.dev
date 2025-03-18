@@ -7,7 +7,7 @@
   </div>
   {%- else -%}
     <h2 class="post-title">
-      <a href="{{ include.post.url }}">{{ include.post.title }}{%- if include.post.subtitle -%}<br><small>{{ include.post.subtitle }}</small>{%- endif -%}</a>
+      <a href="{{ include.post.url }}">{{ include.post.title }}{%- if include.post.subtitle -%}<br>, <small>{{ include.post.subtitle }}</small>{%- endif -%}</a>
     </h2>
     <footer class="meta">
       <time class="dt-published" datetime="{{ datetime }}">{%- unless include.post.locale =='fr' -%}{%- include date_en.html.liquid postDate=include.post.date locale=include.post.locale -%}{%- else -%}{{ include.post.date | l: '%-d %B %Y', include.post.locale }}{%- endunless -%}</time>{%- if include.displayCategory=="true" -%}<span><a href="{{ include.post.category | t: include.post.locale | prepend: page.baseurl | relative_url }}/" title="{{ "Articles de" | t: include.locale }} {{ "la catégorie" | t: include.locale }} {{ include.post.category }}" class="category {%- if include.post.category -%}{{include.post.category}}{%- else -%}main{%- endif -%}">{{ include.post.category | t: include.post.locale }}</a></span>{%- endif -%}
