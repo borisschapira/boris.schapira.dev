@@ -8,7 +8,6 @@ permalink: /_headers
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security-Report-Only: max-age=63072000; includeSubDomains; preload
   Content-Security-Policy: {% include csp.html.liquid %}
-  Feature-Policy: web-share 'self"
   Permissions-Policy: web-share=(self), interest-cohort=()
 
 /manifest.json
