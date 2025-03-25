@@ -1,6 +1,6 @@
 @use 'sass:math';
 
-.color-container,
+.color-container:hover,
 .menu-trigger {
   @include transition('transform 0.25s ease-out');
 }
