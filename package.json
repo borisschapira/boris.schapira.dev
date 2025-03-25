@@ -70,7 +70,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "@babel/eslint-parser": "^7.26.10",
+    "@babel/eslint-parser": "^7.27.0",
     "cssnano": "^7.0.6",
     "dotenv": "^16.4.7",
     "escape-string-regexp": "^5.0.0",

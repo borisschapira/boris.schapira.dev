@@ -38,7 +38,7 @@ GEM
       fiber-annotation
       fiber-local (~> 1.1)
       json
-    csv (3.3.2)
+    csv (3.3.3)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -119,7 +119,7 @@ GEM
     mercenary (0.4.0)
     metrics (0.12.2)
     mini_portile2 (2.8.8)
-    nokogiri (1.18.4)
+    nokogiri (1.18.6)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     pathutil (0.16.2)
