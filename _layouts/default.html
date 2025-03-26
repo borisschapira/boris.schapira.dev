@@ -179,7 +179,7 @@ layout: microtypo
           </ul>
         </nav>
       </header>
-      <div class="page-title"><h1>{{ page.title | default: pageTitle }}{%if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}</h1>{% if page.layout=='post'%}<div class="meta"><time class="dt-published" datetime="{{ datetime }}">{% unless page.locale =='fr' %}{% include date_en.html.liquid postDate=page.date locale=page.locale %}{% else %}{{ page.date | l: '%-d %B %Y', page.locale }}{% endunless %}</time>{% if page.serie %}<span><a href="/tag/{{ page.serie | slugify }}">{{ page.serie }}</a></span>{% endif %}{% if page.translation %}<span>{% include read_in.html.liquid
+      <div class="page-title"><h1>{{ page.title | default: pageTitle }}{%if page.subtitle %}, <small>{{ page.subtitle }}</small>{% endif %}</h1>{% if page.layout=='post'%}<div class="meta"><time class="dt-published" datetime="{{ datetime }}">{% unless page.locale =='fr' %}{% include date_en.html.liquid postDate=page.date locale=page.locale %}{% else %}{{ page.date | l: '%-d %B %Y', page.locale }}{% endunless %}</time>{% if page.serie %}<span><a href="/tag/{{ page.serie | slugify }}">{{ page.serie }}</a></span>{% endif %}{% if page.translation %}<span>{% include read_in.html.liquid
         format="verbose"
         locale=page.translation.locale
         url=page.translation.url %}</span>{% endif %}<span class="webshare" data-title="Web Sharing" data-text="&quot;{{ page.title | replace: '"', "&quot;" }}&quot;, Boris Schapira"><button aria-label="{{ "partager" | t: page.locale }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 483 483">
