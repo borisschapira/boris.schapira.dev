@@ -42,6 +42,7 @@ h2,
   font-weight: $title-font-weight;
   line-height: $title-line-height;
   text-wrap: balance;
+  text-wrap: pretty;
 }
 
 h3,
@@ -72,6 +73,8 @@ pre,
 caption,
 .inline-note {
   margin: $default-line-height * 1em 0;
+  text-wrap: balance;
+  text-wrap: pretty;
 }
 
 pre {

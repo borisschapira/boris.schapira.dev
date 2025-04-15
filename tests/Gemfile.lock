@@ -18,7 +18,7 @@ GEM
       json
     ethon (0.16.0)
       ffi (>= 1.15.0)
-    ffi (1.17.1)
+    ffi (1.17.2)
     fiber-annotation (0.2.0)
     fiber-local (1.1.0)
       fiber-storage
@@ -37,7 +37,7 @@ GEM
     json (2.10.2)
     metrics (0.12.2)
     mini_portile2 (2.8.8)
-    nokogiri (1.18.6)
+    nokogiri (1.18.7)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     pdf-reader (2.14.1)
