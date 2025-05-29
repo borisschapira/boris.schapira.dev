@@ -11,7 +11,7 @@ GEM
       io-event (~> 1.9)
       metrics (~> 0.12)
       traces (~> 0.15)
-    bigdecimal (3.1.9)
+    bigdecimal (3.2.0)
     console (1.30.2)
       fiber-annotation
       fiber-local (~> 1.1)
