@@ -6,7 +6,7 @@ translations:
 
 Hier matin, j'ai échange sur Mastodon à propos du modèle économique de la recherche en ligne. Mais j'ai besoin d'un peu plus d'espace pour étaler mon raisonnement.
 
-{% capture note %}Dans cet article, je vais parler de monétisation de la recherche, donc de monétisation de l'attention des internautes. Je ne considére pas que c'est souhaitable ou désirable, j'explique comment cela fonctionne aujourd'hui et comment cela fonctionnera, probablement, demain.{% endcapture note %} {% include note.html.liquid content=note %}
+{% capture note %}Dans cet article, je vais parler de monétisation de la recherche, donc de monétisation de l'attention des internautes. Je ne considère pas que c'est souhaitable ou désirable, j'explique comment cela fonctionne aujourd'hui et comment cela fonctionnera, probablement, demain.{% endcapture note %} {% include note.html.liquid content=note %}
 
 La monétisation de la recherche en ligne repose historiquement sur un paradigme éprouvé : la valorisation du trafic généré. Il s'articule principalement autour de deux axes majeurs :
 
