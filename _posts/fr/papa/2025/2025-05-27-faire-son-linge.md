@@ -19,3 +19,5 @@ On parle d'orientation avec 14-ans, et d'études supérieures :
 > – Bah non, elle sera avec Gabriel. Et puis tu la verras le week-end ! Ah, je suis vraiment trop fort pour trouver des solutions !
 
 Puis il est parti, fier comme un coq, en murmurant : "Ha ha, je suis trop bon pour trouver des solutions !
+
+[^paris]: Nous habitons à environ 6 heures de Paris.
