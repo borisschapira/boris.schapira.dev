@@ -50,6 +50,10 @@ var cssConfig = {
           },
           {
             loader: 'sass-loader',
+            options: {
+              // Prefer `dart-sass`
+              implementation: require("sass"),
+            },
           },
         ],
       },
