@@ -21,7 +21,8 @@ La pérennité de ce système est assurée par un ensemble d'outils technologiqu
 - **Un système de ciblage avancé** : le suivi du parcours des utilisateurs (<i lang="en">tracking</i>) permet de construire des profils publicitaires détaillés et de mettre en œuvre des campagnes de reciblage publicitaire (ou <i lang="en">retargeting</i>).
 
 [^rtb]: Connues sous l'acronyme anglais RTB pour <i lang="en">Real-Time Bidding</i>.
-[^conflit]:  Je reste persuadé qu'il y a conflit d'intérêt quand les outils appartenant au vendeur de la publicité sont considérés comme les seuls à même d'en juger l'efficacité. Je n'ai jamais connu d'outils vantant autant les vertues de la publicité sur l'acquisition que Google Analytics lui-même.
+
+[^conflit]: Je reste persuadé qu'il y a conflit d'intérêt quand les outils appartenant au vendeur de la publicité sont considérés comme les seuls à même d'en juger l'efficacité. Je n'ai jamais connu d'outils vantant autant les vertues de la publicité sur l'acquisition que Google Analytics lui-même.
 
 ---
 
@@ -35,11 +36,11 @@ Malgré ces évolutions en surface, **les fondements structurels du modèle éco
 
 ---
 
-L'intégration croissante de l'intelligence artificielle générative au cœur des moteurs de recherche marque une potentielle rupture. 
+L'intégration croissante de l'intelligence artificielle générative au cœur des moteurs de recherche marque une potentielle rupture.
 
 Ces systèmes d'IA proposent désormais des paragraphes explicatifs, rédigés dynamiquement, en réponse directe aux requêtes des utilisateurs. Dans ce nouveau paradigme, les liens traditionnels peuvent subsister, mais ils se trouvent contextualisés par une sémantique préexistante, déjà porteuse d'une partie de la réponse.
 
-Cette transformation de l'interaction utilisateur n'est pas une simple innovation d'usage ; elle implique **un changement profond et systémique pour une partie importante du modèle économique des moteurs de recherche**.  Si l'IA fournit des réponses directes et complètes, le trafic vers les sites web sources pourrait chuter drastiquement. En contrepartie, ces réponses créent un potentiel d'influence considérable, susceptible de déterminer une navigation voire un achat futur. 
+Cette transformation de l'interaction utilisateur n'est pas une simple innovation d'usage ; elle implique **un changement profond et systémique pour une partie importante du modèle économique des moteurs de recherche**. Si l'IA fournit des réponses directes et complètes, le trafic vers les sites web sources pourrait chuter drastiquement. En contrepartie, ces réponses créent un potentiel d'influence considérable, susceptible de déterminer une navigation voire un achat futur.
 
 Comment se monétisera l'influence dans ce nouveau paysage numérique ?
 
@@ -51,7 +52,7 @@ Comment se monétisera l'influence dans ce nouveau paysage numérique ?
 
 L'objectif sera alors d'identifier les champs sémantiques les plus porteurs d'engagement ou de conversion, et de déterminer à partir de quelle fréquence d'exposition un message est susceptible de provoquer un engagement ou une conversion. D'un point de vue projet, cela implique de redéfinir les indicateurs clés de performance au-delà du simple clic, pour y intégrer des mesures d'influence et de persuasion.
 
-**Évolution du ciblage** : Les outils de profilage vont, si ce n'est déjà le cas, évoluer pour intégrer la sensibilité des personnes à tel ou tel champ lexical, niveau de langue, ou type d'argumentation. Cette perspective, bien que technologiquement séduisante pour l'optimisation publicitaire, soulève une préoccupation éthique majeure : le risque de créer un internet qui enferme toujours davantage les individus dans leurs biais cognitifs ou leurs préférences existantes (les "bulles de filtres"), plutôt que de leur permettre d'exprimer et de développer leur potentiel. 
+**Évolution du ciblage** : Les outils de profilage vont, si ce n'est déjà le cas, évoluer pour intégrer la sensibilité des personnes à tel ou tel champ lexical, niveau de langue, ou type d'argumentation. Cette perspective, bien que technologiquement séduisante pour l'optimisation publicitaire, soulève une préoccupation éthique majeure : le risque de créer un internet qui enferme toujours davantage les individus dans leurs biais cognitifs ou leurs préférences existantes (les "bulles de filtres"), plutôt que de leur permettre d'exprimer et de développer leur potentiel.
 
 Cet aspect touche directement à la qualité de l'expérience utilisateur et à la responsabilité sociétale des plateformes numériques, notamment en matière d'accès équitable à l'information.
 
@@ -63,7 +64,7 @@ Google, acteur aujourd'hui hégémonique sur le marché de la recherche, pourrai
 
 La clé de son succès futur pourrait résider davantage dans la maîtrise de l'écosystème des échanges et des interactions entre intelligences artificielles que dans la possession et l'exploitation de tous les services finaux eux-mêmes. Il s'agirait alors pour Google de s'atteler à la normalisation des protocoles et des interfaces permettant à des agents intelligents, développés par divers acteurs, de communiquer et de collaborer efficacement. C'est notamment l'objectif avoué du projet Google Agentspace : définir les règles du jeu de ce nouveau marché plutôt que de chercher à dominer chaque application spécifique qui y verrait le jour.
 
-Cela me rappelle la stratégie historiquement adoptée par Google avec son Chrome. En investissant massivement dans le développement de Chrome et en proposant le navigateur gratuitement au public, Google a acquis une influence considérable sur l'évolution des standards du web, lui permettant d'orienter de nombreux chantiers de normalisation de manière favorable à son écosystème. 
+Cela me rappelle la stratégie historiquement adoptée par Google avec son Chrome. En investissant massivement dans le développement de Chrome et en proposant le navigateur gratuitement au public, Google a acquis une influence considérable sur l'évolution des standards du web, lui permettant d'orienter de nombreux chantiers de normalisation de manière favorable à son écosystème.
 
 Est-ce que Google parviendra à reproduire ce succès dans un écosystème des IA déjà beaucoup plus fragmenté et compétitif que celui des navigateurs à l'époque du lancement de Chrome ?
 

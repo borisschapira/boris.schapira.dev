@@ -66,12 +66,12 @@
     "sass": "^1.89.2",
     "sass-loader": "^16.0.5",
     "uglify-js": "^3.19.3",
-    "webpack": "^5.100.0",
+    "webpack": "^5.100.2",
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
     "@babel/eslint-parser": "^7.28.0",
-    "cssnano": "^7.0.7",
+    "cssnano": "^7.1.0",
     "dotenv": "^16.6.1",
     "escape-string-regexp": "^5.0.0",
     "file-loader": "^6.2.0",

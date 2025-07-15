@@ -1,8 +1,7 @@
 ---
 title: Les formations "courtes"
-tags:
-    - 'Performance Web'
-slug: les-formations-courtes
+translations:
+    en: short-courses
 ---
 
 Je vois régulièrement des critiques à l'emporte-pièce visant les personnes qui suivent des formations courtes en informatique[^1], et cela m'énerve. Je suis Ingénieur ESIEE Paris, filière informatique, promotion 2007. Si je mets bout-à-bout l'ensemble du temps passé à coder durant ma formation, j'arrive à quelques mois, tout-au-plus.

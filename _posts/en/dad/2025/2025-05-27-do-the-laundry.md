@@ -21,4 +21,5 @@ We're talking about career guidance with 14yo, and higher education:
 Then he left the conversation, proud as a rooster, murmuring "Ha ha, I’m just too good at finding solutions!".
 
 [^bac]: BAC is the French national examination taken at the end of secondary education.
+
 [^paris]: Paris is ~6h from where we live.

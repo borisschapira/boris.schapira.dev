@@ -2,6 +2,8 @@
 title: 'Expert ou pas ?'
 tags:
     - Management
+translations:
+    en: expert-or-not
 ---
 
 En entreprise, une compétence est rarement absolue, elle s'évalue souvent en fonction d'un savoir-faire, d'un savoir-être ou d'un savoir-communiquer qui ne peut se mesurer que par rapport à d'autres. Du novice à l'expert, il faut gérer les différents niveaux d'intuition pour constituer les meilleures équipes, celle qui permettent à chacun de s'épanouir dans le niveau de compétence ciblé (qui n'est pas nécessairement le plus haut en terme d'expertise).
@@ -32,9 +34,13 @@ Il repose de plus en plus sur l'intuition pour reconnaitre les situations, ne se
 
 L'expert réagit entièrement de manière intuitive, prend directement la bonne décision. Il n'est plus conscient des mécanismes qui conduisent à sa décision, il agit par réflexes. Il est capable d'analyser ses actions, mais cela lui demande un effort : il est plus naturel pour lui d'agir que d'expliquer ou de faire attention à la façon dont il se comporte.
 
+---
+
 ## Équilibrer une équipe
 
 Dans le modèle de Dreyfus, il n'y a pas de bonne ou de mauvaise position, mais plutôt une distribution inégale avec quelques novices, beaucoup de débutant avancés, peu de personnes efficaces et très peu d'experts. L'expertise est quasiment entièrement évaluée au regard de l'intuition de la personne, les débutants préférant l'exécution de règles. Mais cette intuition a un coût : la communication. Il est donc déconseillé de réunir directement des profils ayant plus d'un cran d'écart. Inutile par exemple de mettre ensemble des gens qui ont besoin de beaucoup de réponses (les novices) et des gens incapables d'en fournir (les experts).
+
+---
 
 ## D'autres modèles ?
 

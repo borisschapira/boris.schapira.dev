@@ -15,11 +15,11 @@ So, instead, a business is formed. We congratulate ourselves on having invented 
 
 And as always, we turn the vocabulary on its head: regulation is a prison; state aid is a prerequisite for success (we'd like to see the same logic culturally applied to social aid); moderation is a form of censorship; freedom is domination by the powerful; competition, including winning military contracts, is peace.
 
-***
+---
 
 Having said that, what's next? What issues would I have liked to see emerge from the French AI summit (and I'm not saying they weren't addressed there, just that they weren't publicized)?
 
-I don't think we can imagine a world today without generative AI. The technology has infused so many practices in such a short period of time… it seems impossible. But we can ask ourselves, collectively, what kind of AI we want. 
+I don't think we can imagine a world today without generative AI. The technology has infused so many practices in such a short period of time… it seems impossible. But we can ask ourselves, collectively, what kind of AI we want.
 
 From an ecological point of view, first of all, I think that the European Union's Corporate Sustainability Report Directive (CSRD) and, more generally, the Science-Based Targets initiative (SBTi) are going in the right direction by creating a non-financial accounting of greenhouse gas (GHG) emissions.
 
