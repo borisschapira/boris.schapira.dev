@@ -12,12 +12,17 @@ C'est un sujet encore très peu abordé, notamment entre hommes. Loin de moi l'i
 Dans cet article, j'aborderai à la fois mes raisons (le "pourquoi ?") mais également l'opération et ce qui l'entoure (le "comment"). Si vous avez des questions, n'hésitez pas à me contacter et j'en profiterai pour étoffer l'article.
 
 <div class="emphasis">
-  <p>Hello, cher lecteur·ice&nbsp;! Si tu es ici, c'est probablement que tu cherches des témoignages sur ce sujet. N'hésite pas à lire également ceux d'autres personnes ayant suivi le mê me parcours ou en train de le suivre&nbsp;:</p> <ul>
+  <p>Hello, cher lecteur·ice&nbsp;! Si tu es ici, c'est probablement que tu cherches des témoignages sur ce sujet. N'hésite pas à lire ou regarger également ceux d'autres personnes&nbsp;:</p><ul>
   <li>Luc : "<a href="https://fiat-tux.fr/2021/01/01/contraception-masculine-la-vasectomie/">Contraception masculine&nbsp;: la vasectomie</a>"</li>
   <li>Nicolas : "<a href="https://nicolas.loeuillet.org/billets/2021/03/19/vasectomie/">Vasectomie</a>"</li>
   <li>Loïc : "<a href="https://loic.mathaud.fr/yoop/2021/05/homo-contraceptionemsis/">Homo Contraceptionemsis</a>"</li>
-  <li>Thomas : "<a href="https://oncletom.io/2021/12/29/vasectomie/">☕️ Journal&nbsp;: Deuxième "premier" rendez-vous chez l'urologue pour une vasectomie</a>"</li>
-</div>
+  <li>Thomas et ça série en plusieurs épisodes : <a href="https://thom4.net/2021/03/31/vasectomie/">l'ordonnance</a>, <a href="https://thom4.net/2021/10/20/vasectomie/">le premier rendez-vous avec l'urologue</a>, <a href="https://thom4.net/2021/12/29/vasectomie/">le second</a>, <a href="https://thom4.net/2022/01/10/rendez-vous-psychologue-cecos/">la prise de rendez-vous au CEGOS</a>, <a href="https://thom4.net/2022/10/30/discussion-psychologue-cecos/">le rendez-vous</a>, <a href="https://thom4.net/2022/10/30/12-paillettes/">le prélèvement</a>, <a href="https://thom4.net/2024/04/03/anesthesiste/">le rendez-vous avec l'anesthésiste</a>, et enfin <a href="https://thom4.net/2024/04/03/vasectomie-operation/">l'opération</a>.
+  </li>
+  <li>Jérôme&nbsp;: "<a href="https://merome.net/blog/index.php?post/2019/04/11/Tirer-%C3%A0-blanc">Tirer à blanc</a>"</li>
+  <li>Vincent&nbsp;: "<a href="https://vincent.jousse.org/blog/fr/perso/vasectomie-avis-retour-experience/">Contraception masculine & vasectomie : retour d'expérience</a>"</li>
+  <li>Anthony et Matthieu&nbsp;: "<a href="https://www.youtube.com/watch?v=EEDL7TrBxMc">Nos VASECTOMIES : on vous raconte ! — Replay Twitch</a>"</li>
+  </ul>
+  </div>
 
 ## Pourquoi ?
 
