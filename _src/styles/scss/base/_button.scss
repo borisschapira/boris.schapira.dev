@@ -10,8 +10,8 @@
   border: 1px solid;
   border-radius: 0.125em;
   box-shadow: 0 0 0.5em 0 var(--color-compliment-text);
-  font: $button-font-style $button-font-weight
-    list.slash(1em, $default-line-height) var(--default-font-family);
+  font: $button-font-style $button-font-weight list.slash(1em, $default-line-height)
+    var(--default-font-family);
   text-align: center;
   text-decoration: none;
   vertical-align: baseline;

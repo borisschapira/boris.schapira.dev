@@ -22,18 +22,16 @@ if (navigator && navigator.share) {
         canShare = navigator.canShare(sharedData);
       }
       if (canShare) {
-        shareElement
-          .querySelector('button')
-          .addEventListener('click', function shareContent() {
-            navigator
-              .share({
-                title: sharedData.title,
-                text: sharedData.text,
-                url: sharedData.url,
-              })
-              .then(() => console.log('Successful share'))
-              .catch((error) => console.log('Error sharing', error));
-          });
+        shareElement.querySelector('button').addEventListener('click', function shareContent() {
+          navigator
+            .share({
+              title: sharedData.title,
+              text: sharedData.text,
+              url: sharedData.url,
+            })
+            .then(() => console.log('Successful share'))
+            .catch(error => console.log('Error sharing', error));
+        });
 
         shareElement.classList.add('visible');
       }

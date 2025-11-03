@@ -119,17 +119,9 @@ a {
     calc(25% + 10% - 20% * var(--is-dark-mode))
   );
 
-  --color-selection: hsl(
-    var(--color-hue),
-    100%,
-    calc(85% - var(--is-dark-mode) * 67%)
-  );
+  --color-selection: hsl(var(--color-hue), 100%, calc(85% - var(--is-dark-mode) * 67%));
 
-  --color-main-background: hsl(
-    var(--color-hue),
-    15%,
-    calc(97% - var(--is-dark-mode) * 90%)
-  );
+  --color-main-background: hsl(var(--color-hue), 15%, calc(97% - var(--is-dark-mode) * 90%));
 
   --color-compliment-background: hsl(
     calc(var(--color-hue) + 180),
@@ -137,17 +129,9 @@ a {
     calc(99% - var(--is-dark-mode) * 90%)
   );
 
-  --color-main-gray: hsl(
-    var(--color-hue),
-    10%,
-    calc(30% + 50% * var(--is-dark-mode))
-  );
+  --color-main-gray: hsl(var(--color-hue), 10%, calc(30% + 50% * var(--is-dark-mode)));
 
-  --color-main-grayfade: hsl(
-    var(--color-hue),
-    25%,
-    calc(90% - 81% * var(--is-dark-mode))
-  );
+  --color-main-grayfade: hsl(var(--color-hue), 25%, calc(90% - 81% * var(--is-dark-mode)));
 
   &.main {
     --color-hue: var(--color-main-hue);

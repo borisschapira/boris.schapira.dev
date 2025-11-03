@@ -16,12 +16,7 @@ module.exports = {
      */
     function generateTouchtapHandler(handler) {
       return function (e) {
-        handler(
-          e.currentTarget,
-          e.currentTarget.title,
-          e.customData.touchX,
-          e.customData.touchY,
-        );
+        handler(e.currentTarget, e.currentTarget.title, e.customData.touchX, e.customData.touchY);
       };
     }
 
