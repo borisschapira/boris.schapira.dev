@@ -16,15 +16,16 @@ GEM
       fiber-annotation
       fiber-local (~> 1.1)
       json
-    ethon (0.17.0)
+    ethon (0.18.0)
       ffi (>= 1.15.0)
+      logger
     ffi (1.17.2)
     fiber-annotation (0.2.0)
     fiber-local (1.1.0)
       fiber-storage
     fiber-storage (1.0.1)
     hashery (2.1.2)
-    html-proofer (5.0.10)
+    html-proofer (5.1.0)
       addressable (~> 2.3)
       async (~> 2.1)
       nokogiri (~> 1.13)
@@ -34,7 +35,8 @@ GEM
       yell (~> 2.0)
       zeitwerk (~> 2.5)
     io-event (1.14.0)
-    json (2.15.2)
+    json (2.16.0)
+    logger (1.7.0)
     metrics (0.15.0)
     mini_portile2 (2.8.9)
     nokogiri (1.18.10)
