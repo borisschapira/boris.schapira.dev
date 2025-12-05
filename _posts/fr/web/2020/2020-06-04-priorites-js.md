@@ -42,7 +42,7 @@ La façon dont les navigateurs ordonnancent et exécutent les scripts peut avoir
       </td>
       <td data-label="{{ page.header1 }}" class="medium">Moyenne/Haute</td>
       <td data-label="{{ page.header2 }}" class="veryhigh">
-        Très Haute -<br />
+        Très Haute -<br>
         Interrompt l'analyse
       </td>
       <td data-label="{{ page.header3 }}">
@@ -81,7 +81,7 @@ La façon dont les navigateurs ordonnancent et exécutent les scripts peut avoir
     </tr>
     <tr>
       <td class="heading">
-        astuce <code>&lt;link rel=preload&gt;</code> +<br />
+        astuce <code>&lt;link rel=preload&gt;</code> +<br>
         <code>&lt;script async&gt;</code>
         <br>
           <em>ou</em>
@@ -90,7 +90,7 @@ La façon dont les navigateurs ordonnancent et exécutent les scripts peut avoir
       </td>
       <td data-label="{{ page.header1 }}" class="medium">Moyenne/Haute</td>
       <td data-label="{{ page.header2 }}" class="high">
-        Haute -<br />
+        Haute -<br>
         Interrompt l'analyse
       </td>
       <td data-label="{{ page.header3 }}">
@@ -119,7 +119,7 @@ La façon dont les navigateurs ordonnancent et exécutent les scripts peut avoir
       <td class="heading"><code>&lt;script async&gt;</code></td>
       <td data-label="{{ page.header1 }}" class="low">La plus basse/Basse</td>
       <td data-label="{{ page.header2 }}" class="high">
-        Haute -<br />
+        Haute -<br>
         Interrompt l'analyse
       </td>
       <td data-label="{{ page.header3 }}">
@@ -135,7 +135,7 @@ La façon dont les navigateurs ordonnancent et exécutent les scripts peut avoir
       <td class="heading"><code>&lt;script defer&gt;</code></td>
       <td data-label="{{ page.header1 }}" class="low">La plus basse/Basse</td>
       <td data-label="{{ page.header2 }}" class="lowest">
-        Très basse -<br />
+        Très basse -<br>
         S'exécute après les <code>&lt;script&gt;</code>s en fin de
         <code>&lt;body&gt;</code>
       </td>
@@ -171,7 +171,7 @@ La façon dont les navigateurs ordonnancent et exécutent les scripts peut avoir
       </td>
       <td data-label="{{ page.header1 }}" class="medium">Moyenne/Haute</td>
       <td data-label="{{ page.header2 }}" class="low">
-        Basse -<br />
+        Basse -<br>
         Attend la fin de l'analyse
       </td>
       <td data-label="{{ page.header3 }}">
@@ -185,11 +185,11 @@ La façon dont les navigateurs ordonnancent et exécutent les scripts peut avoir
         <code>&lt;body&gt;</code>
       </td>
       <td data-label="{{ page.header1 }}" class="lowest">
-        La plus basse/Basse -<br />
+        La plus basse/Basse -<br>
         fin de queue
       </td>
       <td data-label="{{ page.header2 }}" class="lowest">
-        Très basse -<br />
+        Très basse -<br>
         S'exécute après les <code>&lt;script&gt;</code>s en fin de
         <code>&lt;body&gt;</code>
       </td>

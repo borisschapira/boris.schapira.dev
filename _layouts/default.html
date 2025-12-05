@@ -5,8 +5,8 @@ layout: microtypo
 <html itemscope lang="{{ page.locale | default: site.locale | default: "fr" }}">
   <head>
     <!-- nomicrotypo -->
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {%- capture pageTitle -%}{{ page.social.title | strip_html | default: page.title }}{%- endcapture -%}
     <title>{{ pageTitle }}</title>
     <link href="https://boris.schapira.dev" rel="preconnect" crossorigin="anonymous">
@@ -45,8 +45,8 @@ layout: microtypo
     {% comment %} / Styles {% endcomment %}
 
     {% comment %} Webmentions (for later use ?) {% endcomment %}
-    <link rel="pingback" href="https://webmention.io/webmention?forward=https://webmention.io/boris.schapira.dev/webmention" />
-    <link rel="webmention" href="https://webmention.io/boris.schapira.dev/webmention" />
+    <link rel="pingback" href="https://webmention.io/webmention?forward=https://webmention.io/boris.schapira.dev/webmention">
+    <link rel="webmention" href="https://webmention.io/boris.schapira.dev/webmention">
     {% comment %} / Webmentions (for later use ?) {% endcomment %}
 
     <!-- RSS -->
@@ -57,9 +57,9 @@ layout: microtypo
     <link rel="alternate" type="application/rss+xml" href="{{ feed_url | prepend: page.baseurl | relative_url }}">
 
     {%- if page.translation -%}
-    <link rel="alternate" hreflang="{{ page.translation.locale }}" href="{{ page.translation.url | absolute_url }}"/>
+    <link rel="alternate" hreflang="{{ page.translation.locale }}" href="{{ page.translation.url | absolute_url }}">
     {%- endif -%}
-    <link rel="alternate" hreflang="{{ page.locale }}" href="{{ page.url | absolute_url }}"/>
+    <link rel="alternate" hreflang="{{ page.locale }}" href="{{ page.url | absolute_url }}">
 
     {% if site.norobots or page.norobots %}
     <meta name="robots" content="noindex,nofollow">
@@ -70,38 +70,38 @@ layout: microtypo
     {%- if page.canonical -%}
       {%- if page.canonical_dismissed -%}
         {%- capture url_path -%}{{site.prod_url}}{{page.url}}{%- endcapture -%}
-        <link rel="canonical" href="{{ url_path }}" data-proofer-ignore/>
+        <link rel="canonical" href="{{ url_path }}" data-proofer-ignore>
       {%- else -%}
-        <link rel="canonical" href="{{ page.canonical }}" data-proofer-ignore/>
+        <link rel="canonical" href="{{ page.canonical }}" data-proofer-ignore>
       {%- endif -%}
     {%- else -%}
       {%- capture url_path -%}{{site.prod_url}}{{page.url}}{%- endcapture -%}
-      <link rel="canonical" href="{{ url_path }}" data-proofer-ignore/>
+      <link rel="canonical" href="{{ url_path }}" data-proofer-ignore>
     {%- endif -%}
 
-    <meta name="description" content="{{ page.social.description }}" />
-    <meta property="og:url" content="{{ page.url }}" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="{{ pageTitle }}" />
-    <meta property="og:image" content="{{ page.social.image }}" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta property="og:site_name" content="{{ site.name }}" />
+    <meta name="description" content="{{ page.social.description }}">
+    <meta property="og:url" content="{{ page.url }}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ pageTitle }}">
+    <meta property="og:image" content="{{ page.social.image }}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:site_name" content="{{ site.name }}">
 
-    <meta property="article:author" content="{{ site.author.name }}" />
-    <meta property="article:published_time" content="{{ page.date | date: "%Y-%m-%d" }}" />
+    <meta property="article:author" content="{{ site.author.name }}">
+    <meta property="article:published_time" content="{{ page.date | date: "%Y-%m-%d" }}">
 
     {% if page.category %}
-    <meta property="article:section" content="{{ page.category }}" />
+    <meta property="article:section" content="{{ page.category }}">
     {% endif %}
 
     {% for tag in page.tags %}
-    <meta property="article:tag" content="{{ tag }}" />
+    <meta property="article:tag" content="{{ tag }}">
     {% endfor %}
 
     {% assign mastoPro = site.author.social | where: 'title', 'Mastodon (pro)' | first %}
     {% assign mastoPerso = site.author.social | where: 'title', 'Mastodon (perso)' | first %}
-    <meta name="fediverse:creator" content="{% unless page.category == 'web' %}{{ mastoPerso.nick }}{% else %}{{ mastoPro.nick }}{% endunless %}" />
+    <meta name="fediverse:creator" content="{% unless page.category == 'web' %}{{ mastoPerso.nick }}{% else %}{{ mastoPro.nick }}{% endunless %}">
 
     <!-- Real favicon generator -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=E6jXRBAgkK" data-proofer-ignore>
@@ -216,9 +216,9 @@ layout: microtypo
             {%- for social in site.author.social -%}
               {% unless forloop.first %}{% if forloop.last %} et{% else %},{% endif %} {% endunless %}<a class="npe" rel="me nofollow" href="{{ social.url }}">{{social.title}}</a>
             {%- endfor -%}.
-            <br />
+            <br>
             {{ "Site statique" | t: page.locale }} <a href="{{ "a-propos" | t:page.locale | prepend: page.baseurl | relative_url }}/site/">{{ "compilé par Jekyll, propulsé par Netlify et Cloudinary" | t: page.locale }}</a>.
-            <br />
+            <br>
             <a class="npe" rel="me nofollow" href="{{ feed_url | prepend: page.baseurl | relative_url }}">{{ "Abonnez-vous au flux" | t: page.locale }}</a>
           </p>
         </div>
