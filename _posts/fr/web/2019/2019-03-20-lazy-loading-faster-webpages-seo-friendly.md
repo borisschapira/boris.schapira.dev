@@ -75,12 +75,7 @@ Quelle que soit la solution JavaScript que vous choisissez côté client, vous d
 
 ```html
 <!-- Lazy loaded image: before -->
-<img
-    data-src="garden.jpg"
-    src="placeholder.jpg"
-    class="js-lazyload"
-    src="data…"
-/>
+<img data-src="garden.jpg" src="placeholder.jpg" class="js-lazyload" src="data…" />
 
 <!-- Lazy loaded background image: before -->
 <div data-class="bg-image-garden" class="container js-lazyload">…</div>
@@ -118,11 +113,7 @@ Donc si votre réponse HTML contient :
     class="lazyload"
 />
 <noscript>
-    <img
-        src="garden.jpg"
-        alt="A spacious garden dominated by a large pine tree."
-        …
-    />
+    <img src="garden.jpg" alt="A spacious garden dominated by a large pine tree." … />
 </noscript>
 ```
 

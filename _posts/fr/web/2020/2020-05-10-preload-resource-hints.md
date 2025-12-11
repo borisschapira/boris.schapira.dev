@@ -63,12 +63,7 @@ Pour écrire ces directives, vous pouvez utiliser soit la balise HTML `<link>`, 
 Dans le corps de page HTML :
 
 ```html
-<link
-    href="url-de-la-ressource"
-    rel="directive"
-    as="type-de-la-ressource"
-    crossorigin="valeur"
-/>
+<link href="url-de-la-ressource" rel="directive" as="type-de-la-ressource" crossorigin="valeur" />
 ```
 
 Via un en-tête HTTP :

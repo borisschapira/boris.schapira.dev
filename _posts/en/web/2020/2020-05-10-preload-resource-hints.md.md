@@ -63,12 +63,7 @@ To write these directives, you can use either the `<link>` HTML tag or the `Link
 In the HTML page body:
 
 ```html
-<link
-    href="resource-url"
-    rel="directive"
-    as="ressource-type"
-    crossorigin="value"
-/>
+<link href="resource-url" rel="directive" as="ressource-type" crossorigin="value" />
 ```
 
 Through an HTTP header:

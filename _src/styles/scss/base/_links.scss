@@ -20,8 +20,7 @@
   }
 }
 
-a[href^="https://twitter.com"]::after
-{
+a[href^='https://twitter.com']::after {
   content: '\00A0(Twitter)';
   font-size: 70%;
   vertical-align: super;
