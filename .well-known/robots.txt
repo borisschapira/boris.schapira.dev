@@ -1,5 +1,4 @@
 User-agent: *
 Disallow: /_headers
-Crawl-delay: 600
 
 Sitemap: https://boris.schapira.dev/sitemap.xml
