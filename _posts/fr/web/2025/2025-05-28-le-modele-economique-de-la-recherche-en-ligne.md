@@ -22,7 +22,7 @@ La pérennité de ce système est assurée par un ensemble d'outils technologiqu
 
 [^rtb]: Connues sous l'acronyme anglais RTB pour <i lang="en">Real-Time Bidding</i>.
 
-[^conflit]: Je reste persuadé qu'il y a conflit d'intérêt quand les outils appartenant au vendeur de la publicité sont considérés comme les seuls à même d'en juger l'efficacité. Je n'ai jamais connu d'outils vantant autant les vertues de la publicité sur l'acquisition que Google Analytics lui-même.
+[^conflit]: Je reste persuadé qu'il y a conflit d'intérêt quand les outils appartenant au vendeur de la publicité sont considérés comme les seuls à même d'en juger l'efficacité. Je n'ai jamais connu d'outils vantant autant les vertus de la publicité sur l'acquisition que Google Analytics lui-même.
 
 ---
 
@@ -60,7 +60,7 @@ Cet aspect touche directement à la qualité de l'expérience utilisateur et à 
 
 ---
 
-Google, acteur aujourd'hui hégémonique sur le marché de la recherche, pourrait, parvenir à conserver sa position dominante en adaptant son modèle, mais ça n'est pas gagné. La croissance considérable de Google au cours des vingt dernières années s'est principalement construite sur la capitalisation et l'optimisation de son modèle économique existant. Cette inertie structurelle pourrait paradoxalement représenter un frein à sa capacité à se réinventer en profondeur.
+Google, acteur aujourd'hui hégémonique sur le marché de la recherche, pourrait parvenir à conserver sa position dominante en adaptant son modèle, mais ça n'est pas gagné. La croissance considérable de Google au cours des vingt dernières années s'est principalement construite sur la capitalisation et l'optimisation de son modèle économique existant. Cette inertie structurelle pourrait paradoxalement représenter un frein à sa capacité à se réinventer en profondeur.
 
 La clé de son succès futur pourrait résider davantage dans la maîtrise de l'écosystème des échanges et des interactions entre intelligences artificielles que dans la possession et l'exploitation de tous les services finaux eux-mêmes. Il s'agirait alors pour Google de s'atteler à la normalisation des protocoles et des interfaces permettant à des agents intelligents, développés par divers acteurs, de communiquer et de collaborer efficacement. C'est notamment l'objectif avoué du projet Google Agentspace : définir les règles du jeu de ce nouveau marché plutôt que de chercher à dominer chaque application spécifique qui y verrait le jour.
 
