@@ -19,6 +19,6 @@
     "pixelmatch": "^6.0.0",
     "pngjs": "^7.0.0",
     "puppeteer": "^22.15.0",
-    "rimraf": "^6.1.2"
+    "rimraf": "^6.1.3"
   }
 }
