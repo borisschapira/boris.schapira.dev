@@ -30,4 +30,4 @@ Il se nettoie, puis on se sépare. Cinq minutes après, j'entends à nouveau l'e
 > – Mais… tu es reparti dans la douche ?  
 > – Ben oui, je me nettoie le visage !  
 > – Mais tu viens de le faire !  
-> – Oui mais j'avais prévu de retourner dans la douche, donc ça servait à rien. C'est pas faut de te le dire, hein, mais tu n'écoutes pas !
+> – Oui mais j'avais prévu de retourner dans la douche, donc ça servait à rien. C'est pas faute de te le dire, hein, mais tu n'écoutes pas !
