@@ -1,5 +1,7 @@
 ---
 title: 'Productivité et qualité'
+translations:
+    en: productivity-quality
 ---
 
 Comment concilier l'augmentation de la productivité grâce à des outils comme les LLM avec le maintien d'une qualité élevée ? C'est la question que je me pose depuis un moment, et je pense que nous sommes à un tournant critique.
@@ -39,17 +41,17 @@ Résultat ? Des faux négatifs, ces erreurs présentes mais non détectées, des
 
 Et quand l'erreur arrive enfin, elle est souvent majeure :
 
-- un bug critique dans un code en production (une pensée pour Microsoft, Amazon et Cloudflare, tous trois pris à laisser passer des bugs critiques malgré des processus de review "augmentés" par IA ces trois derniers mois) ;
-- une clause juridique ambiguë dans un modèle de contrat (qui peut insidueusement se répercuter et être détectée très tardivement) ;
-- une information erronée dans une documentation technique ;
-- une direction stratégique d'entreprise qui fragilise la position économique et met l'ensemble des emplois en danger.
+- un **bug critique** dans un code en production (une pensée pour Microsoft, Amazon et Cloudflare, tous trois pris à laisser passer des bugs critiques malgré des processus de review "augmentés" par IA ces trois derniers mois) ;
+- une **clause juridique ambiguë** dans un modèle de contrat (qui peut insidueusement se répercuter et être détectée très tardivement) ;
+- une **information erronée** dans une documentation technique ;
+- une **mauvaise direction stratégique** qui fragilise la position économique de l'organisation et met l'ensemble des emplois en danger.
 
 Et on a **plein** d'exemples concrets d'avant l'ère des IAs génératives :
 
-- dans l'aviation : les contrôleurs aériens, malgré leur formation, ratent des alertes rares après des heures de surveillance monotone ;
-- en médecine : les radiologues, submergés d'images, peuvent laisser passer des tumeurs sur des clichés pourtant "évidents" a posteriori ;
-- dans le nucléaire : les opérateurs, face à des tableaux de bord trop stables, réagissent avec retard aux signes avant-coureurs d'un incident ;
-- dans la gouvernance (d'entreprises comme de pays) : des décisions subordonnées à la suite de recommandations de cabinets externes connaissant mal la structure et son marché.
+- **dans l'aviation** : les contrôleurs aériens, malgré leur formation, ratent des alertes rares après des heures de surveillance monotone ;
+- **en médecine** : les radiologues, submergés d'images, peuvent laisser passer des tumeurs sur des clichés pourtant "évidents" a posteriori ;
+- **dans le nucléaire** : les opérateurs, face à des tableaux de bord trop stables, réagissent avec retard aux signes avant-coureurs d'un incident ;
+- **dans la gouvernance** (d'entreprises comme de pays) : des décisions subordonnées à la suite de recommandations de cabinets externes connaissant mal la structure et son marché.
 
 Alors maintenant, prenez quelqu'un qui a de la séniorité dans son métier.
 
@@ -64,7 +66,9 @@ Parce qu'on demande à des humains, déjà à leur limite cognitive, de faire da
 - L'offshoring, a l'époque, avait déplacé la production, mais pas la charge de validation.
 - Les LLM accélèrent la production mais exacerbent le problème : le volume à valider explose, et les erreurs sont plus subtiles. Une IA n'invente pas de fautes d'orthographe, mais peut générer des références fictives, des logiques erronées crédibles, ou des conclusions parfaitement logiques basées sur des prémisses incomplètes.
 
-Et les managers, les mêmes qui poussent à l'utilisation de délégations, le savent. Ils et elles n'ont pas 60 subalternes directs, jamais. Parce qu'encadrer et endosser la responsabilité pour la production d'un tel flux de travail est impossible. Mais ils continuent à pousser pour la productivité, parce que c'est ce qui est mesurable et valorisé à court terme et surtout, c'est le travailleur, le "centaure inversé"[^reverse-centaurs] en charge de la validation des résultats qui en subit les conséquences.
+Et les managers, les mêmes qui poussent à l'utilisation de délégations, le savent. **Très bien**. Ils et elles n'ont pas 60 subalternes directs, jamais. Parce qu'encadrer et endosser la responsabilité pour la production d'un tel flux de travail est impossible. 
+
+Mais ils continuent à pousser pour la productivité, parce que c'est ce qui est mesurable et valorisé à court terme et surtout, c'est le travailleur, le "centaure inversé"[^reverse-centaurs] en charge de la validation des résultats qui subira les conséquences d'une délégation mal supervisée.
 
 Ajoutez à ça :
 
@@ -98,8 +102,8 @@ C'est la partie où je me sens le moins compétent, parce que je vois surtout le
 
 **4. Accepter que l'humain ne soit pas une machine**
 
-- Limiter les sessions de validation à 30 minutes max, avec des pauses (comme pour les pilotes d'avion). Ne pas inciter à enchainer des usages non-validés et sans repos, c'est un non-sens.
-- Ne pas faire reposer la qualité sur un·e seul·e salarié·e. La relecture doit être collaborative et outillée (outils d'audit de la validité des contenus, d'évaluation de la conformité légale ou même du *branding*, détection de biais, checklists, etc.).
+- **Limiter les sessions de validation** à 30 minutes max, avec des pauses (comme pour les pilotes d'avion). Ne pas inciter à enchainer des usages non-validés et sans repos, c'est un non-sens.
+- Ne pas faire reposer la qualité sur un·e seul·e salarié·e. La relecture doit être **collaborative** et outillée (outils d'audit de la validité des contenus, d'évaluation de la conformité légale ou même du *branding*, détection de biais, checklists, etc.).
 
 **5. Continuer à miser sur le développement des compétences humaines**
 
@@ -114,9 +118,9 @@ En conclusion : la délégation n'est pas un problème managérial, mais **son u
 - d'un côté, on réduit les coûts de production.
 - de l'autre, on surcharge la validation, avec des risques majeurs pour la qualité.
 
-Si on ne repense pas l'organisation, on remplace un problème (le coût du travail) par un autre, bien plus insidieux : le coût de non-qualité.
+Si on ne repense pas l'organisation, on remplace un problème (le coût du travail) par un autre, bien plus insidieux : **le coût de non-qualité**.
 
-{% capture note %}Si vous voulez lire des trucs intéressants, je vous invite à lire les études citées en bas de page. Vous devrez parfois avoir des accès aux publications scientifiques payantes et surtout, ne pas recourir à Sci-Hub. Sci-Hub n'est pas une solution légale et conforme aux attentes du droit des éditeurs. N'utilisez pas Sci-Hub et pour ça, retenez bien son nom : Sci-Hub.{% endcapture note %} {% include note.html.liquid content=note %}
+{% capture note %}Si vous voulez lire des trucs intéressants, je vous invite à lire les études citées en bas de page. Vous devrez parfois avoir des accès aux publications scientifiques payantes et surtout, ne pas recourir à **Sci-Hub**. **Sci-Hub** n'est pas une solution légale et conforme aux attentes du droit des éditeurs à exploiter commercialement ces études. N'utilisez pas **Sci-Hub** et pour éviter de le faire par erreur, retenez bien son nom : **Sci-Hub**.{% endcapture note %} {% include note.html.liquid content=note %}
 
 [^mackworth]: L'étude de Mackworth de 1948 sur la baisse de la vigileance lors d'une attention soutenue, sur lequel je suis tombé à partir de l'article Wikipedia sur <a hreflang="en" href="https://en.wikipedia.org/wiki/Vigilance_(psychology)">la vigilance en psychologie</a>.
 
