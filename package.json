@@ -42,7 +42,7 @@
     "@babel/preset-env": "^7.29.0",
     "@fullhuman/postcss-purgecss": "^6.0.0",
     "abbr-touch": "^2.1.6",
-    "autoprefixer": "^10.4.24",
+    "autoprefixer": "^10.4.27",
     "babel-loader": "^9.2.1",
     "blurhash": "^2.0.5",
     "canvas": "^2.11.2",
@@ -51,7 +51,7 @@
     "eslint-config-prettier": "^9.1.2",
     "eslint-plugin-chai-expect": "^3.1.0",
     "eslint-plugin-import": "^2.32.0",
-    "fast-xml-parser": "^4.5.3",
+    "fast-xml-parser": "^4.5.4",
     "globby": "^14.1.0",
     "hasha": "^6.0.0",
     "hashmap": "^2.4.0",
@@ -66,7 +66,7 @@
     "sass": "^1.97.3",
     "sass-loader": "^16.0.7",
     "uglify-js": "^3.19.3",
-    "webpack": "^5.105.2",
+    "webpack": "^5.105.3",
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
