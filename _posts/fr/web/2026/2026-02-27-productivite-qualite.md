@@ -77,7 +77,7 @@ Ajoutez à ça :
 
 Et vous avez une petite idée de ce qui nous attend : une **perte collective de savoir-faire** et **des risques de non-qualité** qui explosent. J'aimerais être aussi optimise qu'Élie dans [la dernière newsletter Opquast](https://www.opquast.com/edito-newsletter-n126-we-ia-pire-meilleur/), mais je ne peux pas.
 
-Nous pense que nous allons au devant d'une crise de la qualité majeure, avec des conséquences économiques et sociales considérables. Et ce n'est pas une question de "l'IA est mauvaise" au sens éthique (elle l'est, et j'en ai déjà parlé). C'est une question de **comment** on utilise ces outils et pratiques.
+Je pense que nous allons au devant d'une crise de la qualité majeure, avec des conséquences économiques et sociales considérables. Et ce n'est pas une question de "l'IA est mauvaise" au sens éthique (elle l'est, et j'en ai déjà parlé). C'est une question de **comment** on utilise ces outils et pratiques.
 
 Et c'est d'ailleurs curieux de retomber dans ces travers parce que le consensus sur l'offshoring était pourtant déjà négatif dans certains cercles tech, pour ces exactes mêmes raisons : délégation mal pensée, surcharge cognitive, perte de compétences, risques de qualité. <i lang="en">Here we go again</i>.
 
