@@ -2,7 +2,7 @@
 title: Weapons, GenAI
 slug: weapons-gen-ia
 translations:
-    fr: armers-gen-ia
+    fr: armes-gen-ia
 ---
 
 When one side develops a weapon, it is traditional for its opponents to seek to seize it, or to design an equally destructive weapon, in order to establish a balance of deterrence. The digital world is no exception: for every data-gathering or attack capability via increasingly sophisticated vectors present on one side, the other side develops countermeasures and builds its own modes of attack.
