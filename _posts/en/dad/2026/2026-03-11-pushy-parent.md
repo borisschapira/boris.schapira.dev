@@ -24,4 +24,4 @@ And I'm left with an anecdote I won't be able to post on the blog for several mo
 
 In our house, there is no "Parent 1" and "Parent 2"[^fr]. There is Parent 1, and me, "Pushy Parent".
 
-[^fr]: In French, "Parent 1" and "Parent 2" are the terms used in administrative forms to refer to the two parents in a family, without specifying their gender.
+[^fr]: In France, "Parent 1" and "Parent 2" are the terms used in administrative forms to refer to the two parents in a family, without specifying their gender.
