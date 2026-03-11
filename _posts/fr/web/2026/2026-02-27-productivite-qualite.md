@@ -66,7 +66,7 @@ Parce qu'on demande à des humains, déjà à leur limite cognitive, de faire da
 - L'offshoring, a l'époque, avait déplacé la production, mais pas la charge de validation.
 - Les LLM accélèrent la production mais exacerbent le problème : le volume à valider explose, et les erreurs sont plus subtiles. Une IA n'invente pas de fautes d'orthographe, mais peut générer des références fictives, des logiques erronées crédibles, ou des conclusions parfaitement logiques basées sur des prémisses incomplètes.
 
-Et les managers, les mêmes qui poussent à l'utilisation de délégations, le savent. **Très bien**. Ils et elles n'ont pas 60 subalternes directs, jamais. Parce qu'encadrer et endosser la responsabilité pour la production d'un tel flux de travail est impossible. 
+Et les managers, les mêmes qui poussent à l'utilisation de délégations, le savent. **Très bien**. Ils et elles n'ont pas 60 subalternes directs, jamais. Parce qu'encadrer et endosser la responsabilité pour la production d'un tel flux de travail est impossible.
 
 Mais ils continuent à pousser pour la productivité, parce que c'est ce qui est mesurable et valorisé à court terme et surtout, c'est le travailleur, le "centaure inversé"[^reverse-centaurs] en charge de la validation des résultats qui subira les conséquences d'une délégation mal supervisée.
 
@@ -103,7 +103,7 @@ C'est la partie où je me sens le moins compétent, parce que je vois surtout le
 **4. Accepter que l'humain ne soit pas une machine**
 
 - **Limiter les sessions de validation** à 30 minutes max, avec des pauses (comme pour les pilotes d'avion). Ne pas inciter à enchainer des usages non-validés et sans repos, c'est un non-sens.
-- Ne pas faire reposer la qualité sur un·e seul·e salarié·e. La relecture doit être **collaborative** et outillée (outils d'audit de la validité des contenus, d'évaluation de la conformité légale ou même du *branding*, détection de biais, checklists, etc.).
+- Ne pas faire reposer la qualité sur un·e seul·e salarié·e. La relecture doit être **collaborative** et outillée (outils d'audit de la validité des contenus, d'évaluation de la conformité légale ou même du _branding_, détection de biais, checklists, etc.).
 
 **5. Continuer à miser sur le développement des compétences humaines**
 

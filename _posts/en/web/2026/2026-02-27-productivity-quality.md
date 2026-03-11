@@ -66,7 +66,7 @@ Because we're asking humans, already at their cognitive limit, to do more:
 - Offshoring, at the time, had shifted production, but not the validation burden.
 - LLMs speed up production but make the problem worse: the volume to validate explodes, and errors are more subtle. An AI doesn't invent spelling mistakes, but can generate fake references, believable but wrong logic, or perfectly logical conclusions based on incomplete information.
 
-And managers, the same ones pushing for the use of delegation, know this. **They know**. They never have 60 direct reports, ever. Because supervising and taking responsibility for the production of such a workflow is impossible. 
+And managers, the same ones pushing for the use of delegation, know this. **They know**. They never have 60 direct reports, ever. Because supervising and taking responsibility for the production of such a workflow is impossible.
 
 But they continue to push for productivity, because it's what's measurable and valued in the short term and above all, it's the worker, the "reverse centaur"[^reverse-centaurs] in charge of validating results who will suffer the consequences of a badly supervised delegation.
 
