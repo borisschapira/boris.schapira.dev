@@ -17,7 +17,7 @@ Chez nous, interdiction d'être dans le pâté le matin au petit-déjeuner. Ce m
 > – Cool. Pourquoi les vitamines, ça s'appelle des vitamines ?  
 > – Parce qu'on savait que c'était nécessaire à la vie, qui se dit "vitae" en latin, mais on savait pas grand chose d'autre. Donc on a appelé ça comme ça.  
 > – Et ils pouvaient pas se renseigner ? Moi vous m'avez dit de ne pas inventer des mots qui voulaient rien dire, hein… Tu savais qu'il y avait un cross au collège encore cette année ?  
-> – Écoute, laisse-moi tranquille. Je n'ai mêem pas encore pris mon café, laisse s'installer un peu de silence, s'il te plait.
+> – Écoute, laisse-moi tranquille. Je n'ai même pas encore pris mon café, laisse s'installer un peu de silence, s'il te plait.
 
 Il se lève, le regard froid. Il part dans l'escalier en marquant bien chaque pas puis, arrivé à la moitié des marches : "Ah ben voilà, je pose UNE question et on m'ignore ! C'est pas possible, ça !".
 
