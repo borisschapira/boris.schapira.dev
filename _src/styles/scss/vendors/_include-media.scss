@@ -57,16 +57,19 @@ $im-no-media-expressions: ('screen', 'portrait', 'landscape') !default;
 }
 
 @mixin log($message) {
-  @if im-log($message) {}
+  @if im-log($message) {
+  }
 }
 
-@function noop() {}
+@function noop() {
+}
 
 @function im-intercepts-static-breakpoint($conditions...) {
   $no-media-breakpoint-value: map.get($breakpoints, $im-no-media-breakpoint);
 
   @if not $no-media-breakpoint-value {
-    @if im-log('`#{$im-no-media-breakpoint}` is not a valid breakpoint.') {}
+    @if im-log('`#{$im-no-media-breakpoint}` is not a valid breakpoint.') {
+    }
   }
 
   @each $condition in $conditions {
@@ -76,7 +79,8 @@ $im-no-media-expressions: ('screen', 'portrait', 'landscape') !default;
       $value: get-expression-value($condition, $operator);
 
       @if ($prefix == 'max' and $value <= $no-media-breakpoint-value) or
-          ($prefix == 'min' and $value > $no-media-breakpoint-value) {
+        ($prefix == 'min' and $value > $no-media-breakpoint-value)
+      {
         @return false;
       }
     } @else if not list.index($im-no-media-expressions, $condition) {
@@ -179,8 +183,16 @@ $im-no-media-expressions: ('screen', 'portrait', 'landscape') !default;
   $digits: 0;
   $minus: ($first-character == '-');
   $numbers: (
-    '0': 0, '1': 1, '2': 2, '3': 3, '4': 4,
-    '5': 5, '6': 6, '7': 7, '8': 8, '9': 9,
+    '0': 0,
+    '1': 1,
+    '2': 2,
+    '3': 3,
+    '4': 4,
+    '5': 5,
+    '6': 6,
+    '7': 7,
+    '8': 8,
+    '9': 9,
   );
 
   @if ($first-character == '+' or $first-character == '-') {
@@ -190,7 +202,7 @@ $im-no-media-expressions: ('screen', 'portrait', 'landscape') !default;
   @for $i from 1 through string.length($value) {
     $character: string.slice($value, $i, $i);
 
-    @if not (list.index(map.keys($numbers), $character) or $character == '.') {
+    @if not(list.index(map.keys($numbers), $character) or $character == '.') {
       @if $minus {
         @return to-length(-$result, string.slice($value, $i));
       } @else {
@@ -216,9 +228,21 @@ $im-no-media-expressions: ('screen', 'portrait', 'landscape') !default;
 
 @function to-length($value, $unit) {
   $units: (
-    'px': 1px, 'cm': 1cm, 'mm': 1mm, '%': 1%, 'ch': 1ch, 'pc': 1pc,
-    'in': 1in, 'em': 1em, 'rem': 1rem, 'pt': 1pt, 'ex': 1ex,
-    'vw': 1vw, 'vh': 1vh, 'vmin': 1vmin, 'vmax': 1vmax,
+    'px': 1px,
+    'cm': 1cm,
+    'mm': 1mm,
+    '%': 1%,
+    'ch': 1ch,
+    'pc': 1pc,
+    'in': 1in,
+    'em': 1em,
+    'rem': 1rem,
+    'pt': 1pt,
+    'ex': 1ex,
+    'vw': 1vw,
+    'vh': 1vh,
+    'vmin': 1vmin,
+    'vmax': 1vmax,
   );
 
   @if not list.index(map.keys($units), $unit) {
@@ -243,7 +267,8 @@ $im-no-media-expressions: ('screen', 'portrait', 'landscape') !default;
 
 @mixin media($conditions...) {
   @if ($im-media-support and list.length($conditions) == 0) or
-      (not $im-media-support and im-intercepts-static-breakpoint($conditions...)) {
+    (not $im-media-support and im-intercepts-static-breakpoint($conditions...))
+  {
     @content;
   } @else if ($im-media-support and list.length($conditions) > 0) {
     @media #{string.unquote(parse-expression(list.nth($conditions, 1)))} {

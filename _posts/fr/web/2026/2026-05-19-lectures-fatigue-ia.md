@@ -45,11 +45,11 @@ Mon article portait sur des dysfonctionnements organisationnels. Siddhant descen
 
 > Tu avais un objectif clair au départ. Trente minutes plus tard, tu débogues l'invite de commande au lieu de déboguer ton code. Tu optimises tes instructions pour un modèle de langage au lieu de résoudre le problème lui-même.
 
-Il appelle ça le <strong lang="en">Prompt Spiral</strong> et je serais malhonnête en disant que je ne l'ai pas ressenti. On commence avec un objectif clair. La première réponse est bonne à 70 %. À partir de là, on affine le prompt. La deuxième itération est bonne à 75 %, mais elle a cassé quelque chose que la première avait réussi. 
+Il appelle ça le <strong lang="en">Prompt Spiral</strong> et je serais malhonnête en disant que je ne l'ai pas ressenti. On commence avec un objectif clair. La première réponse est bonne à 70 %. À partir de là, on affine le prompt. La deuxième itération est bonne à 75 %, mais elle a cassé quelque chose que la première avait réussi.
 
 Et ainsi de suite. Quarante-cinq minutes plus tard, on a perdu de vue l'objectif initial, on est dans un cercle vicieux, et on n'a pas avancé d'un pouce.
 
-Ce que je trouve remarquable dans son texte, c'est que Siddhant ne s'arrête pas au diagnostic. Il propose des règles concrètes, issues de sa propre expérience : trois tentatives maximum, puis on écrit soi-même ; des sessions limitées à trente minutes. La première heure du matin sans IA, pour "échauffer" sa propre pensée avant de déléguer quoi que ce soit. 
+Ce que je trouve remarquable dans son texte, c'est que Siddhant ne s'arrête pas au diagnostic. Il propose des règles concrètes, issues de sa propre expérience : trois tentatives maximum, puis on écrit soi-même ; des sessions limitées à trente minutes. La première heure du matin sans IA, pour "échauffer" sa propre pensée avant de déléguer quoi que ce soit.
 
 Il y a quelque chose de tristement fascinant à voir à quel point ces règles sont devenues nécessaires à une bonne hygiène mentale, et à quel point elles sont difficiles à respecter.
 

@@ -3,7 +3,7 @@
 // -----------------------------------------------------------------------
 
 .pagination {
-  @extend %li-no-list-style;
+  @extend .li-no-list-style;
   display: flex;
   align-items: baseline;
   justify-content: center;

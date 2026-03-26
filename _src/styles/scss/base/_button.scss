@@ -1,5 +1,4 @@
 @use 'config' as *;
-@use '../mixins/animations' as *;
 
 @use 'sass:list';
 
@@ -20,7 +19,7 @@
   vertical-align: baseline;
   text-transform: lowercase;
   padding: 0 5px;
-  @include transition();
+  transition: all var(--default-duration) var(--default-timing-function);
 
   color: var(--color-compliment-text);
   background-color: var(--color-main);

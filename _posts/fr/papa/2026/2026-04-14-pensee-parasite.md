@@ -6,7 +6,7 @@ Je marchais dans la rue, longeant des maisons, pour récupérer mon fils chez un
 
 Je me relève, le souffle coupé, les poumons en feu, et je cours. Je cours vers les décombres, les mains nues, le coeur à vif. J'arrache, je soulève, je respire fort, évident de hurler pour entendre les gémissements. Et si je trouvais un de ses vêtements ? Son bras ? Son visage ?
 
-Mais non, tout est dans ma tête. 
+Mais non, tout est dans ma tête.
 
 Le voilà, debout, devant la maison d'à côté, sac à l'épaule, sourire aux lèvres, nonchalant, paisible.
 

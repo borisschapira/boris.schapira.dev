@@ -1,6 +1,4 @@
-
 @use 'config' as *;
-@use '../mixins/animations' as *;
 
 /* ==========================================================================
 Base styles: opinionated defaults
@@ -28,12 +26,14 @@ a:hover,
 button,
 input,
 select {
-  @include transition();
+  transition: all var(--default-duration) var(--default-timing-function);
 }
 
 textarea {
   resize: vertical;
-  @include transition('var(--default-duration) var(--default-timing-function), height 0s');
+  transition:
+    var(--default-duration) var(--default-timing-function),
+    height 0s;
 }
 
 abbr[title],

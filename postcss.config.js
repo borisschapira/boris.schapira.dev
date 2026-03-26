@@ -4,6 +4,7 @@ module.exports = (ctx) => {
   return {
     plugins: [
       require('autoprefixer'),
+      require('./postcss-prefers-reduced-motion'),
       ...(ctx.mode === 'production'
         ? [
             purgecss({

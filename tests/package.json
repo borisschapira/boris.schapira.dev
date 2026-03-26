@@ -7,15 +7,15 @@
     "test:feeds": "node validate-feeds.js",
     "test:visual": "mocha --timeout 15000 visual-regression.js",
     "test:generatedContent": "bundle exec htmlproofer ../_site  --disable-external --ignore-empty-alt --enforce-https=false --allow-missing-href --check-external-hash=false",
-    "test": "npm-run-all 'test:*'",
+    "test": "concurrently 'pn run test:feeds' 'pn run test:generatedContent'; pn run 'test:visual'",
     "validate:test:visual": "rimraf \"./captures/reference\"; mv \"./captures/test\" \"./captures/reference\";"
   },
   "author": "borisschapira",
   "license": "MIT",
   "dependencies": {
     "chai": "^6.2.2",
+    "concurrently": "^9.2.1",
     "mocha": "^11.7.6",
-    "npm-run-all": "^4.1.5",
     "open": "^11.0.0",
     "pixelmatch": "^7.2.0",
     "pngjs": "^7.0.0",

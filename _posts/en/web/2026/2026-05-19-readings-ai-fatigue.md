@@ -1,5 +1,5 @@
 ---
-title: "Further Reading on AI Fatigue"
+title: 'Further Reading on AI Fatigue'
 translations:
     fr: lectures-fatigue-ia
 ---
@@ -12,8 +12,7 @@ One of them shared with me an article by Siddhant Khare, who lived that same rea
 
 His article, "[AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)", haunts me, as it significantly completes what I had written.
 
-{% capture note %} **NOTE**
-There is no need to come tell me that AI is an ecological and economic waste; I am aware. What interests me is the fact that these tools are, today, a reality, and that this reality has human and organizational consequences.
+{% capture note %} **NOTE** There is no need to come tell me that AI is an ecological and economic waste; I am aware. What interests me is the fact that these tools are, today, a reality, and that this reality has human and organizational consequences.
 
 We can talk about how difficult it is to do without this technology in a competitive landscape where it is used massively, while also knowing it is not profitable in the long run. But that is not the subject of this specific post.{% endcapture note %} {% include note.html.liquid content=note %}
 
@@ -49,7 +48,7 @@ He calls this the **Prompt Spiral**, and I would be dishonest if I said I had ne
 
 And so on. Forty-five minutes later, you have lost sight of the initial goal, you are in a vicious cycle, and you have not moved an inch.
 
-What I find remarkable in his text is that Siddhant does not stop at the diagnosis. He proposes concrete rules, drawn from his own experience: three attempts maximum, then write it yourself; sessions capped at thirty minutes. The first hour of the morning without AI, to "warm up" his own thinking before delegating anything at all. 
+What I find remarkable in his text is that Siddhant does not stop at the diagnosis. He proposes concrete rules, drawn from his own experience: three attempts maximum, then write it yourself; sessions capped at thirty minutes. The first hour of the morning without AI, to "warm up" his own thinking before delegating anything at all.
 
 There is something sadly fascinating in seeing just how necessary these rules have become for good mental hygiene, and how difficult they are to stick to.
 
