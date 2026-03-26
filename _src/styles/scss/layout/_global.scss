@@ -24,7 +24,7 @@ html {
 .container {
   background-color: var(--color-main-background);
   background-image: none;
-  @extend %main-grid;
+  @extend .main-grid;
 
   &.full-width-content {
     position: relative;
@@ -145,7 +145,7 @@ html {
   }
 
   ul {
-    @extend %ul-reset;
+    @extend .ul-reset;
     margin: 0 1rem;
   }
 
@@ -205,7 +205,7 @@ html {
 }
 
 .nav-footer {
-  @extend %main-grid;
+  @extend .main-grid;
 
   content-visibility: auto;
 
@@ -226,7 +226,7 @@ html {
 }
 
 .socials {
-  @extend %li-no-list-style;
+  @extend .li-no-list-style;
 
   li {
     display: inline-block;

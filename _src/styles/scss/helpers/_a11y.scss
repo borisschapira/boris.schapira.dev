@@ -10,11 +10,12 @@
   left: 0;
   right: 0;
   z-index: 20;
-padding: 0.5em 1em;
+  padding: 0.5em 1em;
   font-size: 1em;
   text-align: center;
   font-weight: bold;
-  @include transition('top 0.1s linear');
+  transition: top 0.1s linear;
+
   background-color: var(--color-main-background);
 
   &:focus {

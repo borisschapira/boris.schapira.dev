@@ -4,9 +4,8 @@
 // NOTE: the $breakpoints map below must be kept in sync with $breakpoints in _config.scss.
 // Sass does not allow referencing another module's variable inside a @forward `with` clause,
 // so the values are hardcoded here.
-@forward '../vendors/include-media'
-show media, media-context
-with (
+@forward '../vendors/include-media' show media,
+  media-context with (
     $breakpoints: (
       'xsmall': 220px,
       'small': 480px,
@@ -17,17 +16,18 @@ with (
     )
   );
 
-// Local access to media() for use within this file's own placeholders.
+// Local access to media() for use within this file's own utilities.
 // No `with` needed here: Sass reuses the configuration set by @forward above.
 @use '../vendors/include-media' as im;
 
-%ul-reset {
+// Utility classes (migrated from Sass %placeholders)
+.ul-reset {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-%main-grid {
+.main-grid {
   display: grid;
   grid-template-columns: repeat(12, minmax(0, 1fr));
   padding: 0 var(--global-gutters);
@@ -42,16 +42,30 @@ with (
 }
 
 // https://unfetteredthoughts.net/2017/09/26/voiceover-and-list-style-type-none/
-%li-no-list-style {
+.li-no-list-style {
   list-style-type: none;
   &:before {
     content: '\200B'; /* add zero-width space */
   }
 }
 
-%italic {
+.italic {
   font-style: italic;
   i {
     font-style: normal;
   }
+}
+
+// Legacy placeholder aliases for backward compatibility during migration
+%ul-reset {
+  @extend .ul-reset;
+}
+%main-grid {
+  @extend .main-grid;
+}
+%li-no-list-style {
+  @extend .li-no-list-style;
+}
+%italic {
+  @extend .italic;
 }

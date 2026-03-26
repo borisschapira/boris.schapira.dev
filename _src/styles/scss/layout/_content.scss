@@ -45,7 +45,7 @@
     a:not(.category) {
       color: var(--color-main-gray);
     }
-    a.share{
+    a.share {
       color: var(--color-main);
     }
   }
@@ -268,7 +268,7 @@ figure {
   }
 
   figcaption {
-    @extend %italic;
+    @extend .italic;
     max-width: 80%;
     margin-right: auto;
     margin-left: auto;
@@ -404,7 +404,7 @@ sup {
   @include bleed(80vw);
   display: block;
   padding: 1rem;
-  @extend %italic;
+  @extend .italic;
   border: 1px dotted var(--color-main);
   text-align: center;
 

@@ -50,7 +50,12 @@ ready(function () {
   // Keyboard navigation: ← previous post, → next post
   document.addEventListener('keydown', function (e) {
     // Don't intercept if user is typing in an input/textarea or using modifiers
-    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.isContentEditable) return;
+    if (
+      e.target.tagName === 'INPUT' ||
+      e.target.tagName === 'TEXTAREA' ||
+      e.target.isContentEditable
+    )
+      return;
     if (e.metaKey || e.ctrlKey || e.altKey || e.shiftKey) return;
 
     var link;

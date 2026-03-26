@@ -70,7 +70,7 @@ GEM
     http_parser.rb (0.8.1)
     i18n (1.14.8)
       concurrent-ruby (~> 1.0)
-    io-event (1.16.0)
+    io-event (1.16.1)
     jekyll (4.4.1)
       addressable (~> 2.4)
       base64 (~> 0.2)
@@ -157,7 +157,7 @@ GEM
     unicode-display_width (2.6.0)
     webrick (1.9.2)
     yell (2.2.2)
-    zeitwerk (2.8.1)
+    zeitwerk (2.8.2)
 
 PLATFORMS
   ruby

@@ -77,8 +77,9 @@ blockquote,
 pre,
 caption,
 .inline-note {
-
-  @include animation(fadeIn linear, fadeOut linear);
+  animation:
+    fadeIn linear,
+    fadeOut linear;
   animation-timeline: view(), view();
   animation-range: entry, exit;
 
@@ -176,7 +177,7 @@ button.btn--link-like {
 }
 
 .text-italic {
-  @extend %italic;
+  @extend .italic;
 }
 
 .text-nowrap {
@@ -200,7 +201,7 @@ blockquote,
   border: none;
   border-left: 0.25rem solid var(--color-main);
   li {
-    @extend %li-no-list-style;
+    @extend .li-no-list-style;
   }
   li::before {
     content: '—';
