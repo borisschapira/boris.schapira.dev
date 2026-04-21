@@ -4,9 +4,9 @@ styles:
   hl: e8c20d692fd3f03fa42f8a7e58466a45
   main: e2d1cc5631ff7aa181890016d761778f
 scripts:
-  index.min: f54c20246a5295be86b7faf274314b81
+  index.min: 1b68542ab0f364365ac5d451de8e086b
   index.min.js.LICENSE: 172d2e565a560e7caefb983f3ba29209
-  index.min.js: 0446495bf334764c2f6eb81207a67250
+  index.min.js: 06214e151a6589aee66a72bc1b7ad56a
   navigation.min: b8cbb88b41c5ee3a2e9cc5f6a10a61c9
   navigation.min.js.LICENSE: a3865dc811421b2f1148dcae2c47addf
   navigation.min.js: 8a4bb869f71880342a80a1121f0b060b
