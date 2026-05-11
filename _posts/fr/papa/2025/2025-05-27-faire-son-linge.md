@@ -16,7 +16,7 @@ On parle d'orientation avec 14-ans, et d'études supérieures :
 > – Euh… mais si ça se trouve ton école supérieure sera loin de mon travail.  
 > – Ben tu télétravailles ! Ça change rien pour toi.  
 > – Et maman, elle reste seule ?  
-> – Bah non, elle sera avec Gabriel. Et puis tu la verras le week-end ! Ah, je suis vraiment trop fort pour trouver des solutions !
+> – Bah non, elle sera avec Ezio. Et puis tu la verras le week-end ! Ah, je suis vraiment trop fort pour trouver des solutions !
 
 Puis il est parti, fier comme un coq, en murmurant : "Ha ha, je suis trop bon pour trouver des solutions !
 
