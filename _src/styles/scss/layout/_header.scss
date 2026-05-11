@@ -1,3 +1,6 @@
+@use '../base/config' as *;
+@use '../base/abstract' as *;
+@use '../mixins/animations' as *;
 @use 'sass:math';
 
 .color-container:hover,

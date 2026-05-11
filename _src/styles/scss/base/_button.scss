@@ -1,3 +1,6 @@
+@use 'config' as *;
+@use '../mixins/animations' as *;
+
 @use 'sass:list';
 
 .button,

@@ -1,5 +1,25 @@
 @use 'sass:math';
-@import '../vendors/include-media';
+@use 'config' as c;
+
+// NOTE: the $breakpoints map below must be kept in sync with $breakpoints in _config.scss.
+// Sass does not allow referencing another module's variable inside a @forward `with` clause,
+// so the values are hardcoded here.
+@forward '../vendors/include-media'
+show media, media-context
+with (
+    $breakpoints: (
+      'xsmall': 220px,
+      'small': 480px,
+      'medium': 720px,
+      'large': 960px,
+      'xlarge': 1200px,
+      'xxlarge': 1440px,
+    )
+  );
+
+// Local access to media() for use within this file's own placeholders.
+// No `with` needed here: Sass reuses the configuration set by @forward above.
+@use '../vendors/include-media' as im;
 
 %ul-reset {
   margin: 0;
@@ -10,13 +30,13 @@
 %main-grid {
   display: grid;
   grid-template-columns: repeat(12, minmax(0, 1fr));
-  padding: 0 $global-gutters;
-  gap: $global-gutters;
+  padding: 0 c.$global-gutters;
+  gap: c.$global-gutters;
 
-  @include media('<=small') {
-    gap: math.div($global-gutters, 2);
+  @include im.media('<=small') {
+    gap: math.div(c.$global-gutters, 2);
   }
-  @include media('<=xsmall') {
+  @include im.media('<=xsmall') {
     gap: 0;
   }
 }

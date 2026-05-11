@@ -1,4 +1,8 @@
+@use 'config' as *;
+@use 'abstract' as *;
+
 @use 'sass:math';
+@use 'sass:map'; // needed for map.get() below
 
 :root {
   --default-font-family:
@@ -135,9 +139,10 @@ button.btn--link-like {
   padding: 0;
 }
 
+// FIXED: map-get() → map.get() (global built-in was deprecated)
 @each $size in $font-sizes {
-  $class: map-get($size, 'class');
-  $size: map-get($size, 'size');
+  $class: map.get($size, 'class');
+  $size: map.get($size, 'size');
 
   .text-#{$class} {
     font-size: $size;
@@ -199,67 +204,4 @@ blockquote,
     display: block;
     margin-top: 1em;
   }
-}
-
-.inline-note {
-  @include bleed(80vw);
-  p:first-child > strong {
-    text-transform: uppercase;
-  }
-  border-left-style: dotted;
-}
-
-.emphasis {
-  @include bleed(80vw);
-  display: block;
-  padding: 1rem;
-  @extend %italic;
-  border: 1px dotted var(--color-main);
-  text-align: center;
-
-  ul,
-  ol {
-    margin: 0 auto;
-    max-width: 40rem;
-    text-align: left;
-  }
-}
-
-ins {
-  padding: 3px;
-  text-decoration: none;
-  border: 1px dashed var(--color-main-grayfade);
-  &.bloc {
-    display: block;
-    padding: 1rem 1rem 2rem 1rem;
-    border: 0.25rem dotted var(--color-main);
-    position: relative;
-
-    &::after {
-      content: attr(datetime);
-      position: absolute;
-      padding: 0.3rem 0.5rem;
-      font-size: 0.8em;
-      right: 0;
-      bottom: 0;
-      color: var(--color-compliment);
-      background-color: var(--color-main-grayfade);
-      border-left: 1px dashed var(--color-main-grayfade);
-      border-top: 1px dashed var(--color-main-grayfade);
-    }
-  }
-}
-
-small {
-  font-size: 80%;
-  br + & {
-    line-height: 2;
-  }
-}
-
-kbd {
-  border: 1px solid var(--color-main);
-  border-radius: 5px;
-  padding: 5px;
-  font-size: 0.8em;
 }

@@ -1,3 +1,7 @@
+
+@use 'config' as *;
+@use '../mixins/animations' as *;
+
 /* ==========================================================================
 Base styles: opinionated defaults
 ========================================================================== */
@@ -75,6 +79,6 @@ hr {
   border-top: 1px solid var(--color-main-text);
   margin: 1.7em 0;
   &::before {
-    content: ' ';
+    content: ' ';
   }
 }

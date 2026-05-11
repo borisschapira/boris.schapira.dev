@@ -1,22 +1,31 @@
 @charset "utf-8";
 
-// Vendors
-@import '~include-media/dist/include-media';
-
-// Variables and mixins
-@import 'base/config', 'base/abstract', 'mixins/content', 'mixins/animations';
+// Variables, placeholders and media mixin
+// (include-media is already configured and forwarded by _abstract.scss — no direct npm import needed)
+@use 'base/config' as *;
+@use 'base/abstract' as *;
+@use 'mixins/content' as *;
+@use 'mixins/animations' as *;
 
 // Reset
-@import '~normalize-scss/sass/normalize/import-now', 'base/init', 'base/links', 'base/print';
+@use 'vendors/normalize';
+@use 'base/init';
+@use 'base/links';
+@use 'base/print';
 
 // Vendors
-@import 'vendors/abbr-touch';
+@use 'vendors/abbr-touch';
 
 // Base
-@import 'base/button', 'base/animations', 'base/typo', 'base/tag';
+@use 'base/button';
+@use 'base/animations';
+@use 'base/typo';
+@use 'base/tag';
 
 // Main layout
-@import 'layout/global', 'layout/header', 'layout/content';
+@use 'layout/global';
+@use 'layout/header';
+@use 'layout/content';
 
 // Helpers
-@import 'helpers/a11y';
+@use 'helpers/a11y';

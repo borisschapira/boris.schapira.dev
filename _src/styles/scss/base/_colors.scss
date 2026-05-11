@@ -104,7 +104,7 @@ a {
   --color-compliment-desaturate: hsl(
     calc(var(--color-hue) + 180),
     75%,
-    calc(25% + (10% * var(--is-dark-mode)) 40%)
+    calc(25% + (10% * var(--is-dark-mode)) + 40%)
   );
 
   --color-compliment-highlight: hsl(

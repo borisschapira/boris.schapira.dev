@@ -1,3 +1,8 @@
+// --- ADDED: explicit module dependencies (replacing @import cascade) ---
+@use '../base/config' as *;
+@use '../base/abstract' as *;
+// -----------------------------------------------------------------------
+
 html {
   box-sizing: border-box;
 }

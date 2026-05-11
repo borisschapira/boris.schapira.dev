@@ -1,3 +1,5 @@
+@use '../base/abstract' as *;
+
 @mixin bleed($width) {
   @include media('>=small') {
     width: $width;

@@ -1,3 +1,5 @@
+@use '../base/config' as *;
+
 @mixin animation($animation...) {
   @if $enable-animations {
     animation: $animation;

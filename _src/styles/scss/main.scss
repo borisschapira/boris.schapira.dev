@@ -1,6 +1,11 @@
 @charset "utf-8";
 
-// Variables and mixins
-@import 'base/config', 'base/abstract', 'mixins/content', 'mixins/animations';
+// Variables, placeholders and media mixin
+@use 'base/config' as *;
+@use 'base/abstract' as *;
+@use 'mixins/content' as *;
+@use 'mixins/animations' as *;
 
-@import 'base/colors', 'layout/pagination', 'layout/footer';
+@use 'base/colors';
+@use 'layout/pagination';
+@use 'layout/footer';

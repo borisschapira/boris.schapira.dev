@@ -1,3 +1,7 @@
+// --- ADDED: explicit module dependencies (replacing @import cascade) ---
+@use '../base/abstract' as *;
+// -----------------------------------------------------------------------
+
 .pagination {
   @extend %li-no-list-style;
   display: flex;
