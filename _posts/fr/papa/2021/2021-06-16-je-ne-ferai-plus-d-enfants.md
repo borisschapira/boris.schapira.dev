@@ -12,11 +12,11 @@ C'est un sujet encore très peu abordé, notamment entre hommes. Loin de moi l'i
 Dans cet article, j'aborderai à la fois mes raisons (le "pourquoi ?") mais également l'opération et ce qui l'entoure (le "comment"). Si vous avez des questions, n'hésitez pas à me contacter et j'en profiterai pour étoffer l'article.
 
 <div class="emphasis">
-  <p>Hello, cher lecteur·ice&nbsp;! Si tu es ici, c'est probablement que tu cherches des témoignages sur ce sujet. N'hésite pas à lire ou regarger également ceux d'autres personnes&nbsp;:</p><ul>
+  <p>Hello, cher lecteur·ice&nbsp;! Si tu es ici, c'est probablement que tu cherches des témoignages sur ce sujet. N'hésite pas à lire ou regarder également ceux d'autres personnes&nbsp;:</p><ul>
   <li>Luc : "<a href="https://fiat-tux.fr/2021/01/01/contraception-masculine-la-vasectomie/">Contraception masculine&nbsp;: la vasectomie</a>"</li>
   <li>Nicolas : "<a href="https://nicolas.loeuillet.org/billets/2021/03/19/vasectomie/">Vasectomie</a>"</li>
   <li>Loïc : "<a href="https://loic.mathaud.fr/yoop/2021/05/homo-contraceptionemsis/">Homo Contraceptionemsis</a>"</li>
-  <li>Thomas et ça série en plusieurs épisodes : <a href="https://thom4.net/2021/03/31/vasectomie/">l'ordonnance</a>, <a href="https://thom4.net/2021/10/20/vasectomie/">le premier rendez-vous avec l'urologue</a>, <a href="https://thom4.net/2021/12/29/vasectomie/">le second</a>, <a href="https://thom4.net/2022/01/10/rendez-vous-psychologue-cecos/">la prise de rendez-vous au CEGOS</a>, <a href="https://thom4.net/2022/10/30/discussion-psychologue-cecos/">le rendez-vous</a>, <a href="https://thom4.net/2022/10/30/12-paillettes/">le prélèvement</a>, <a href="https://thom4.net/2024/04/03/anesthesiste/">le rendez-vous avec l'anesthésiste</a>, et enfin <a href="https://thom4.net/2024/04/03/vasectomie-operation/">l'opération</a>.
+  <li>Thomas et sa série en plusieurs épisodes : <a href="https://thom4.net/2021/03/31/vasectomie/">l'ordonnance</a>, <a href="https://thom4.net/2021/10/20/vasectomie/">le premier rendez-vous avec l'urologue</a>, <a href="https://thom4.net/2021/12/29/vasectomie/">le second</a>, <a href="https://thom4.net/2022/01/10/rendez-vous-psychologue-cecos/">la prise de rendez-vous au CECOS</a>, <a href="https://thom4.net/2022/10/30/discussion-psychologue-cecos/">le rendez-vous</a>, <a href="https://thom4.net/2022/10/30/12-paillettes/">le prélèvement</a>, <a href="https://thom4.net/2024/04/03/anesthesiste/">le rendez-vous avec l'anesthésiste</a>, et enfin <a href="https://thom4.net/2024/04/03/vasectomie-operation/">l'opération</a>.
   </li>
   <li>Jérôme&nbsp;: "<a href="https://merome.net/blog/index.php?post/2019/04/11/Tirer-%C3%A0-blanc">Tirer à blanc</a>"</li>
   <li>Vincent&nbsp;: "<a href="https://vincent.jousse.org/blog/fr/perso/vasectomie-avis-retour-experience/">Contraception masculine & vasectomie : retour d'expérience</a>"</li>
@@ -30,11 +30,11 @@ Dans cet article, j'aborderai à la fois mes raisons (le "pourquoi ?") mais éga
 
 Dans notre société, tout ce qui est reproductif est associé aux femmes et la très grande majorité des femmes fait l'expérience d'être considérée comme une mère (qu'elles le veuillent ou non).
 
-L'horloge biologique, l'instinct maternel, sont des inventions destinées à inculquer aux femmes qu'elles doivent porter la charge de la procréation et de l'éducation des enfants. Pire, qu'elles y serait naturellement prédisposées.
+L'horloge biologique, l'instinct maternel, sont des inventions destinées à inculquer aux femmes qu'elles doivent porter la charge de la procréation et de l'éducation des enfants. Pire, qu'elles y seraient naturellement prédisposées.
 
 Si elles ne souhaitent pas ce destin, ou souhaitent en choisir les modalités, la société leur inculque qu'encore une fois, c'est à elles de faire attention en ayant recours, par exemple, à une contraception.
 
-Pourtant, une femme n'est féconde que durant 4 à 5 jours par mois, seulement, et deviennent pour la plupart infertiles entre 45 et 50 ans. Les hommes fertiles, en revanche, le sont toute leur vie (même si cette fertilité baisse) !
+Pourtant, une femme n'est féconde que durant 4 à 5 jours par mois, seulement, et devient en général infertile entre 45 et 50 ans. Les hommes fertiles, en revanche, le sont toute leur vie (même si cette fertilité baisse) !
 
 Et pourtant, en tant qu'homme, je n'ai jamais eu à porter le poids de la contraception comme le font les femmes. J'ai porté des préservatifs masculins, jeune, mais ce n'était pas que contraceptif, c'était aussi pour me protéger de maladies sexuellement transmissibles.
 
@@ -58,7 +58,7 @@ D'aussi loin que je m'en souvienne, j'ai toujours voulu des enfants. J'ai eu la 
 
 Je ne dis pas que ce projet est fini, bien sûr. Je serai père aussi longtemps qu'ils me seront fils. Mais j'ai le sentiment d'être comblé par leur présence et, surtout, de ne plus souhaiter assumer l'ensemble d'un parcours pour un troisième enfant.
 
-Ma femme et moi avons tous les deux des projets et des passions qui nous animent. Certains ont été mis entre parenthèse pendant que les garçons étaient bébés. D'autres non, et nous avons dû assumer l'énorme fatigue nécessaire à les mener à bien, tout en assurant avec les garçons.
+Ma femme et moi avons tous les deux des projets et des passions qui nous animent. Certains ont été mis entre parenthèses pendant que les garçons étaient bébés. D'autres non, et nous avons dû assumer l'énorme fatigue nécessaire à les mener à bien, tout en assurant avec les garçons.
 
 Aujourd'hui, même si ce sont encore des enfants, la qualité de la relation que nous avons avec eux nous permet de les imaginer comme des adolescents responsables (on peut rêver, non ?). Et rapidement, ils deviendront des adultes indépendants et autonomes. Nous serons toujours là pour eux, mais nous ne _sommes_ pas eux, et pouvons envisager, nous aussi, de poursuivre notre vie et nos projets.
 
@@ -70,7 +70,7 @@ Bien sûr, on ne sait pas ce que l'avenir nous réserve. Peut-être perdrais-je 
 
 On m'a beaucoup demandé si je n'allais pas changer d'avis. Permettez-moi d'interroger la question. Nous passons notre vie d'adulte à prendre des décisions définitives, ou du moins qui nécessitent des années pour être contournées. Ces dernières années, nous sommes devenus propriétaires. Nous avons adopté des animaux de compagnie. Nous avons fait des choix très structurants sur nos carrières. Des choix dont très peu sont réversibles.
 
-Ces décisions ont été perçues très positivement par la société. Ils sont des marqueurs d'émancipation, d'auto-détermination et de confiance en l'avenir. Pourquoi, quand on parle de ne pas ou ne plus vouloir d'enfants, les réactions sont-elles aussi différentes ?
+Ces décisions ont été perçues très positivement par la société. Elles sont des marqueurs d'émancipation, d'auto-détermination et de confiance en l'avenir. Pourquoi, quand on parle de ne pas ou ne plus vouloir d'enfants, les réactions sont-elles aussi différentes ?
 
 Sincèrement, on m'a davantage interrogé sur le fait que je ne veuille plus faire d'enfant que sur ma capacité, avant la naissance de mes fils, à bien m'en occuper. Comme s'il était plus important que je sois un potentiel géniteur qu'un bon père. Est-ce qu'il ne serait pas temps qu'on s'interroge collectivement sur ce fait ?
 
@@ -139,19 +139,19 @@ Les heures qui ont suivi, la zone s'est réveillée, et la douleur avec. L'impre
 
 Le lendemain matin, je vivais normalement. J'ai rangé la maison, je suis allé faire les courses pour la semaine… une journée classique. Bien sûr, on sent quelque chose, mais c'est uniquement ça, un ressenti. Ça dure moins d'une semaine, et je mentirais si je disais que ça ne fatigue pas un peu, notamment les deux premiers jours (en rentrant du bloc, j'ai fait une sieste de trois heures).
 
-La douleur "coup-de-pied" a disparu en un à deux jours. Ponctuellement, j'ai senti à nouveau une gêne pendant environ un semaine. Et parfois, c'est un point qui tire un peu, mais ça reste très anecdotique. Les activités qui sollicitent particulièrement cette zone sont à éviter pendant les 3 jours qui suivent l'opération, et les activités sexuelles pendant une semaine. J'ai personnellement attendu 10 jours avant de ne plus rien ressentir de différent dans cette zone.
+La douleur "coup-de-pied" a disparu en un à deux jours. Ponctuellement, j'ai senti à nouveau une gêne pendant environ une semaine. Et parfois, c'est un point qui tire un peu, mais ça reste très anecdotique. Les activités qui sollicitent particulièrement cette zone sont à éviter pendant les 3 jours qui suivent l'opération, et les activités sexuelles pendant une semaine. J'ai personnellement attendu 10 jours avant de ne plus rien ressentir de différent dans cette zone.
 
 Il n'y a aucun soin particulier, aucun traitement post-opératoire, aucun pansement ou autre dispositif à conserver. On se douche normalement. C'est tellement _simple_ qu'il m'est arrivé de douter sur le fait que ça ait marché.
 
 ### La suite ?
 
-**Mis-à-jour 3 mois après**
+**Mise-à-jour 3 mois après**
 
 Pendant trois mois, j'ai continué à me comporter comme avant. Même si l'opération est une réussite, mon organisme devait se débarrasser des spermatozoïdes déjà engagés dans les canaux déférents. Pour m'assurer de la réussite de l'opération, j'ai dû passer un spermogramme.
 
-Le résultat étant à 0, l'opération est un succès. Ma femme va pouvoir se débarrasser de son dispositif intra-utérin et de mon côté, je suis soulagé de ne pas avoir à repasser au bloc. La perspective ne m'enchantait pas, même si j'étais prêt à le refaire si nécessaire. L'ayant déjà vécu, je pense que j'aurai été encore plus en confiance pour le refaire. Et toujours aussi motivé.
+Le résultat étant à 0, l'opération est un succès. Ma femme va pouvoir se débarrasser de son dispositif intra-utérin et de mon côté, je suis soulagé de ne pas avoir à repasser au bloc. La perspective ne m'enchantait pas, même si j'étais prêt à le refaire si nécessaire. L'ayant déjà vécu, je pense que j'aurais été encore plus en confiance pour le refaire. Et toujours aussi motivé.
 
-Émotionnellement, je pense que j'ai assimilé l'information. Ça n'a pas été immédiat. En sortant de l'opération, je gardais un sanglot étouffé chaque fois que je me rendais compte de ce que j'avais fait. Non pas que je regrettais, au contraire. En fait, ça me ramenait, comme par un effet de miroir, à ma famille. Je revoyais le moment où nous avons décidé de devenir parents, puis mes fils à leur naissance, et ça me rendait très émotif. Je suis toujours aussi heureux d'avoir pu vivre ça, de les avoir vu grandir et de continuer à le faire, mais le quotidien a repris se place. Je suis désormais stérile. Dont acte.
+Émotionnellement, je pense que j'ai assimilé l'information. Ça n'a pas été immédiat. En sortant de l'opération, je gardais un sanglot étouffé chaque fois que je me rendais compte de ce que j'avais fait. Non pas que je regrettais, au contraire. En fait, ça me ramenait, comme par un effet de miroir, à ma famille. Je revoyais le moment où nous avons décidé de devenir parents, puis mes fils à leur naissance, et ça me rendait très émotif. Je suis toujours aussi heureux d'avoir pu vivre ça, de les avoir vu grandir et de continuer à le faire, mais le quotidien a repris sa place. Je suis désormais stérile. Dont acte.
 
 J'ai 37 ans, une femme que j'aime a accepté de faire avec moi deux enfants que j'adore et maintenant, une page se tourne.
 
