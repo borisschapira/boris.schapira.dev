@@ -1,5 +1,8 @@
 # I18n configuration
 locale: fr
+locales: [fr, en]
+post_categories: [web, citoyen, papa]
+
 defaults:
   -
     scope:
@@ -196,7 +199,6 @@ include:
   - "_pages"
 
 # Site settings
-name: 'Boris Schapira'
 title: 'Boris Schapira'
 email: borisschapira@gmail.com
 description: "Site de Boris Schapira. Notes personnelles, professionnelles, citoyennes et autres répertoires de ma vie numérique."
@@ -233,10 +235,12 @@ author:
     - name: mastodon
       title: "Mastodon (perso)"
       nick: "@borisschapira@framapiaf.org"
+      cloudinary_x_offset: 64
       url: https://framapiaf.org/@borisschapira
     - name: mastodon
       title: "Mastodon (pro)"
       nick: "@boostmarks@hachyderm.io"
+      cloudinary_x_offset: 98
       url: https://hachyderm.io/@boostmarks
   feed: '/feed.xml'
   mailto: 'boris%40schapira.dev'
