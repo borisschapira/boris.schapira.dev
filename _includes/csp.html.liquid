@@ -13,4 +13,4 @@
     {%- endif -%}
     {{ directive_values | join: ' '}};
 {%- endfor -%}
-{%- endcapture -%}{{ csp-string | strip_newlines | replace: "  ", " " | replace: "  ", " " | replace: "  ", " " | replace: "  ", " " | replace: "  ", " " }}
+{%- endcapture -%}{{ csp-string | strip_newlines | normalize_whitespace }}

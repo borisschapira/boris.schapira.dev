@@ -3,22 +3,23 @@ layout: default
 ---
 
 <div class="utility-main" id="main">
+  {%- assign locale_posts = site.posts | where: "locale", page.locale -%}
+  {%- assign web_posts = locale_posts | where: "category", "web" -%}
+  {%- assign other_posts = locale_posts | where_exp: "p", "p.category != 'web'" -%}
+
   <div class="content under-large" role="main">
-    {% assign count = 0 %}{% for post in site.posts %}{% if post.locale ==
-    page.locale %}{% include post.html.liquid postPage=false post=post
-    displayCategory="true" %}{% assign count = count | plus: 1 %}{% if count >=
-    5 %}{% break %}{% endif %}{% endif %}{% endfor %}
+    {% for post in locale_posts limit: 5 %}
+      {% include post.html.liquid postPage=false post=post displayCategory="true" %}
+    {% endfor %}
   </div>
   <div class="web-content over-large" role="main">
-    {% assign count = 0 %}{% for post in site.categories['web'] %}{% if
-    post.locale == page.locale %}{% include post.html.liquid postPage=false
-    post=post displayCategory="true" %}{% assign count = count | plus: 1 %}{% if
-    count >= 5 %}{% break %}{% endif %}{% endif %}{% endfor %}
+    {% for post in web_posts limit: 5 %}
+      {% include post.html.liquid postPage=false post=post displayCategory="true" %}
+    {% endfor %}
   </div>
 </div>
 <div class="other-content over-large">
-  {% assign count = 0 %}{% for post in site.posts %}{% if post.locale ==
-  page.locale and post.category <> 'web' %}{% include post.html.liquid
-  postPage=false post=post displayCategory="true" %}{% assign count = count |
-  plus: 1 %} {% if count >= 7 %}{% break %}{% endif %}{% endif %}{% endfor %}
+  {% for post in other_posts limit: 7 %}
+    {% include post.html.liquid postPage=false post=post displayCategory="true" %}
+  {% endfor %}
 </div>

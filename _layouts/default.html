@@ -35,7 +35,7 @@ layout: microtypo
 
     <script>
       (function(){
-        if(!!performance) return;
+        if(!performance) return;
         performance.mark('mark-head-end');
         performance.measure('head-time', 'mark-head-start', 'mark-head-end');
       })()
@@ -109,7 +109,7 @@ layout: microtypo
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=E6jXRBAgkK" data-proofer-ignore>
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=E6jXRBAgkK" data-proofer-ignore>
     <link rel="manifest" href="/manifest.json?v=E6jXRBAgkK" data-proofer-ignore>
-    <link rel="shortcut icon" href="/favicon.ico?v=E6jXRBAgkK" data-proofer-ignore>
+    <link rel="icon" href="/favicon.ico?v=E6jXRBAgkK" data-proofer-ignore>
     <meta name="theme-color" content="#{{ page.social.color }}">
     <!-- endnomicrotypo -->
 
@@ -180,6 +180,7 @@ layout: microtypo
           </ul>
         </nav>
       </header>
+      {%- assign datetime = page.date | date_to_xmlschema -%}
       <div class="page-title"><h1>{{ page.title | default: pageTitle }}{%if page.subtitle %}, <small>{{ page.subtitle }}</small>{% endif %}</h1>{% if page.layout=='post'%}<div class="meta"><time class="dt-published" datetime="{{ datetime }}">{% unless page.locale =='fr' %}{% include date_en.html.liquid postDate=page.date locale=page.locale %}{% else %}{{ page.date | l: '%-d %B %Y', page.locale }}{% endunless %}</time>{% if page.serie %}<span><a href="/tag/{{ page.serie | slugify }}">{{ page.serie }}</a></span>{% endif %}{% if page.translation %}<span>{% include read_in.html.liquid
         format="verbose"
         locale=page.translation.locale
@@ -193,7 +194,7 @@ layout: microtypo
           <div class="nav-arrow prev"><a href="{{page.prev_context.url}}" title="{{ page.prev_context.title }}"><span class="sr-only">{{ "Précédent :" | t: page.locale }}</span><span aria-hidden="true">&#8672;</span></a></div>
         {% endif %}
         {% if page.layout=='post' and page.next_context %}
-          <div class="nav-arrow next"><a href="{{page.next_context.url}}" title="{{ page.next_context.title }}"><span class="sr-only">{{ "Suivant :" | t: page.locale }}</span><span aria-hidden="true">&#8674;</span></a>
+          <div class="nav-arrow next"><a href="{{page.next_context.url}}" title="{{ page.next_context.title }}"><span class="sr-only">{{ "Suivant :" | t: page.locale }}</span><span aria-hidden="true">&#8674;</span></a></div>
         {% endif %}
         <aside>
           <div class="widget categories">
