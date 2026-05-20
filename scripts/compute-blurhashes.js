@@ -1,59 +1,66 @@
-var fs = require('fs');
-var path = require('path');
-const HashMap = require('hashmap');
-var yaml = require('js-yaml');
-const { createCanvas, loadImage } = require('canvas');
-const { encode } = require('blurhash');
-const globby = require('globby');
+import { readdir, writeFile } from 'fs/promises';
+import { resolve, relative, extname } from 'path';
+import { dirname } from 'path';
+import { fileURLToPath } from 'url';
+import { dump } from 'js-yaml';
+import { createCanvas, loadImage } from 'canvas';
+import { encode } from 'blurhash';
+import { globby } from 'globby';
 
-const getImageData = (image) => {
-  const canvas = createCanvas(200, 200);
-  canvas.width = image.width;
-  canvas.height = image.height;
-  const context = canvas.getContext('2d');
-  context.drawImage(image, 0, 0);
-  return context.getImageData(0, 0, image.width, image.height);
-};
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
-const encodeImageToBlurhash = async (imageUrl) => {
-  const image = await loadImage(imageUrl);
-  const imageData = getImageData(image);
-  return encode(imageData.data, imageData.width, imageData.height, 4, 4);
-};
+// Réduire l'image pour accélérer le calcul — le blurhash n'a pas besoin de la pleine résolution
+const THUMB_WIDTH = 64;
 
-(async () => {
-  let data = new HashMap();
+function getBlurHash(image) {
+  const ratio = THUMB_WIDTH / image.width;
+  const width = THUMB_WIDTH;
+  const height = Math.round(image.height * ratio);
 
-  const listAllImageFilesAndDirs = (dir) => globby(`${dir}/**/*.{jpg,png}`);
-  const imgFiles = await listAllImageFilesAndDirs(
-    path.resolve(__dirname, '../assets/images/')
-  );
+  const canvas = createCanvas(width, height);
+  const ctx = canvas.getContext('2d');
+  ctx.drawImage(image, 0, 0, width, height);
 
-  for (let index = 0; index < imgFiles.length; index++) {
-    const file = imgFiles[index];
-    const relativePath = path.relative(path.resolve(__dirname, '..'), file);
-    const bhEncoder = encodeImageToBlurhash(path.resolve(__dirname, file));
-    console.log(relativePath, await bhEncoder);
-    data.set(relativePath, await bhEncoder);
+  const imageData = ctx.getImageData(0, 0, width, height);
+  return encode(imageData.data, width, height, 4, 4);
+}
+
+async function encodeImageToBlurhash(filePath) {
+  const image = await loadImage(filePath);
+  return getBlurHash(image);
+}
+
+const CONCURRENCY = 8; // limiter la mémoire
+
+async function processInBatches(items, fn, concurrency) {
+  const results = [];
+  for (let i = 0; i < items.length; i += concurrency) {
+    const batch = items.slice(i, i + concurrency);
+    const batchResults = await Promise.all(batch.map(fn));
+    results.push(...batchResults);
   }
+  return results;
+}
 
-  fs.writeFile(
-    path.resolve(__dirname, '../_data/blurhashes.yml'),
-    yaml.dump(data.entries(), {
-      styles: {
-        '!!null': 'canonical', // dump null as ~
-      },
-      sortKeys: false, // sort object keys
-    }),
-    {
-      flag: 'w',
-    },
-    function (err) {
-      if (err) {
-        console.log(err);
-      } else {
-        console.log('Blurhashes data saved.');
-      }
-    }
-  );
-})();
+const rootDir = resolve(__dirname, '..');
+const imgFiles = await globby(`${resolve(rootDir, 'assets/images')}/**/*.{jpg,png}`);
+
+const entries = await processInBatches(
+  imgFiles,
+  async file => {
+    const relativePath = relative(rootDir, file);
+    const hash = await encodeImageToBlurhash(file);
+    console.log(relativePath, hash);
+    return [relativePath, hash];
+  },
+  CONCURRENCY
+);
+
+const data = Object.fromEntries(entries);
+
+await writeFile(resolve(__dirname, '../_data/blurhashes.yml'), dump(data, { sortKeys: false }), {
+  flag: 'w',
+});
+
+console.log('Blurhashes data saved.');

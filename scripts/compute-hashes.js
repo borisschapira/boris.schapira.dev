@@ -1,61 +1,36 @@
-import { hashFileSync } from 'hasha';
-import { readdirSync, writeFile } from 'fs';
+import { hashFile } from 'hasha';
+import { readdir, writeFile } from 'fs/promises';
 import { dirname, resolve, extname, basename } from 'path';
 import { dump } from 'js-yaml';
 import { fileURLToPath } from 'url';
 
-// Get __dirname back
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-// CSS assets folder
-const cssFolder = resolve(__dirname, '../assets/styles/');
-const jsFolder = resolve(__dirname, '../assets/scripts/');
-let data = { styles: {}, scripts: {} };
+async function hashFolder(folder) {
+  const dirents = await readdir(folder, { withFileTypes: true });
+  const files = dirents.filter(d => !d.isDirectory());
 
-// Get files
-const cssDirents = readdirSync(cssFolder, { withFileTypes: true });
-const cssFiles = cssDirents
-  .filter((dirent) => !dirent.isDirectory())
-  .map((dirent) => resolve(__dirname, '../assets/styles/', dirent.name));
+  const entries = await Promise.all(
+    files.map(async dirent => {
+      const filePath = resolve(folder, dirent.name);
+      const hash = await hashFile(filePath, { algorithm: 'md5' });
+      return [basename(dirent.name, extname(dirent.name)), hash];
+    })
+  );
 
-const jsDirents = readdirSync(jsFolder, { withFileTypes: true });
-const jsFiles = jsDirents
-  .filter((dirent) => !dirent.isDirectory())
-  .map((dirent) => resolve(__dirname, '../assets/scripts/', dirent.name));
+  return Object.fromEntries(entries);
+}
 
-cssFiles.forEach(function (file) {
-  // Get the MD5 hash of a file
-  const hash = hashFileSync(file, { algorithm: 'md5' });
-  const filename = basename(file, extname(file));
+const [styles, scripts] = await Promise.all([
+  hashFolder(resolve(__dirname, '../assets/styles/')),
+  hashFolder(resolve(__dirname, '../assets/scripts/')),
+]);
 
-  data.styles[filename] = hash;
-});
-
-jsFiles.forEach(function (file) {
-  // Get the MD5 hash of file
-  const hash = hashFileSync(file, { algorithm: 'md5' });
-  const filename = basename(file, extname(file));
-
-  data.scripts[filename] = hash;
-});
-
-writeFile(
+await writeFile(
   resolve(__dirname, '../_data/hashes.yml'),
-  dump(data, {
-    styles: {
-      '!!null': 'canonical', // dump null as ~
-    },
-    sortKeys: false, // sort object keys
-  }),
-  {
-    flag: 'w',
-  },
-  function (err) {
-    if (err) {
-      console.log(err);
-    } else {
-      console.log('Hashes data saved.');
-    }
-  },
+  dump({ styles, scripts }, { sortKeys: false }),
+  { flag: 'w' }
 );
+
+console.log('Hashes data saved.');
