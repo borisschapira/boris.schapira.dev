@@ -11,7 +11,7 @@ L'une d'entre elles m'a partagé un article de Siddhant Khare qui lui, a vécu l
 Son article, "<a href="https://siddhantkhare.com/writing/ai-fatigue-is-real" hreflang="en" lang="en">AI fatigue is real and nobody talks about it</a>" (en anglais : je traduirai les citations par la suite), me hante, tant il complète ce que j'avais écrit de façon significative.
 
 {% capture note %} **NOTE**  
-Ce n'est pas la peine de venir me dire que les IA sont une gabegie écologique et économique, je suis au courant. Je m'intresse au fait que ces outils sont, aujourd'hui, une réalité, et que cette réalité a des conséquences humaines et organisationnelles.
+Ce n'est pas la peine de venir me dire que les IA sont une gabegie écologique et économique, je suis au courant. Je m'intéresse au fait que ces outils sont, aujourd'hui, une réalité, et que cette réalité a des conséquences humaines et organisationnelles.
 
 On peut parler d'à quel point il est difficile de se passer de cette technologie dans une réalité compétitive où elle est utilisée massivement, tout en sachant qu'elle n'est pas rentable à long terme. Mais ce n'est pas le sujet de ce billet spécifique.{% endcapture note %} {% include note.html.liquid content=note %}
 
