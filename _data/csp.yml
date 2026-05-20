@@ -26,6 +26,10 @@
       comment: 'Switch to Dark Mode'
     - value: "'sha256-hrqHfxUq6GUlUufkbC9L26zgi3VaM4zuO6X/CVuieL4='"
       comment: 'Matomo analytics'
+    - value: "'sha256-imN9tN+C7y9BAhAZ3JJAdhBC2WMTrStiEWAJgN8OAqY='"
+      comment: 'TBD'
+    - value: "'sha256-eOdz7XsQfzTl4/RBMfwErzRz99Gibw1MrwubZHsbg6A='"
+      comment: 'TBD'
     - value: 'analytics.schapira.dev'
       comment: 'Matomo analytics'
     - value: 'speakerdeck.com'
