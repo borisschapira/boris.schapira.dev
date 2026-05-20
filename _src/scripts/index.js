@@ -46,6 +46,24 @@ ready(function () {
       updateTooltip(tooltip, target.innerHTML, title);
     }, 0);
   });
+
+  // Keyboard navigation: ← previous post, → next post
+  document.addEventListener('keydown', function (e) {
+    // Don't intercept if user is typing in an input/textarea or using modifiers
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.isContentEditable) return;
+    if (e.metaKey || e.ctrlKey || e.altKey || e.shiftKey) return;
+
+    var link;
+    if (e.key === 'ArrowLeft') {
+      link = document.querySelector('.nav-arrow.prev a');
+    } else if (e.key === 'ArrowRight') {
+      link = document.querySelector('.nav-arrow.next a');
+    }
+
+    if (link) {
+      link.click();
+    }
+  });
 });
 
 import './subscripts/webshare';
