@@ -1,5 +1,7 @@
 ---
 title: "Lectures complémentaires sur la fatigue liée à l'IA"
+translations:
+    en: readings-ai-fatigue
 ---
 
 En février dernier, j'écrivais sur [productivité et qualité](/notes/2026-02-productivite-qualite/) : la délégation mal pensée, la charge cognitive des validateurs, l'érosion silencieuse des compétences collectives. Un texte construit depuis une perspective organisationnelle à partir de mes discussions avec mes confrères et consoeurs occupant des rôles finalement périphériques au code lui-même.
@@ -47,13 +49,13 @@ Il appelle ça le <strong lang="en">Prompt Spiral</strong> et je serais malhonn�
 
 Et ainsi de suite. Quarante-cinq minutes plus tard, on a perdu de vue l'objectif initial, on est dans un cercle vicieux, et on n'a pas avancé d'un pouce.
 
-Ce que je trouve remarquable dans son texte, c'est que Siddhant ne s'arrête pas au diagnostic. Il propose des règles concrètes, issues de sa propre expérience : trois tentatives maximum, puis on écrit soi-même ; des sessions limitées à trente minutes.
+Ce que je trouve remarquable dans son texte, c'est que Siddhant ne s'arrête pas au diagnostic. Il propose des règles concrètes, issues de sa propre expérience : trois tentatives maximum, puis on écrit soi-même ; des sessions limitées à trente minutes. La première heure du matin sans IA, pour "échauffer" sa propre pensée avant de déléguer quoi que ce soit. 
 
-La première heure du matin sans IA, pour "échauffer" sa propre pensée avant de déléguer quoi que ce soit. Il y a quelque chose de tristement fascinant à voir à quel point ces règles sont devenues nécessaires à une bonne hygiène mentale, et à quel point elles sont difficiles à respecter.
+Il y a quelque chose de tristement fascinant à voir à quel point ces règles sont devenues nécessaires à une bonne hygiène mentale, et à quel point elles sont difficiles à respecter.
 
 **Mon article s'adressait aux managers et aux organisations. Le sien s'adresse aux praticien·nes, directement.** Ce n'est pas la même altitude. Les deux sont nécessaires. Les deux sont terribles.
 
-Bref, je vous invite à lire "<a href="https://siddhantkhare.com/writing/ai-fatigue-is-real" hreflang="en">AI fatigue is real and nobody talks about it</a>" parce qu'il le complète tout ce que j'avais laissé de côté : l'anxiété du déterministe face au probabiliste, l'épuisement de la veille permanente, les micro-décisions qui s'accumulent jusqu'au burn-out.
+Bref, je vous invite à lire "<a href="https://siddhantkhare.com/writing/ai-fatigue-is-real" hreflang="en" lang="en">AI fatigue is real and nobody talks about it</a>" parce qu'il le complète tout ce que j'avais laissé de côté : l'anxiété du déterministe face au probabiliste, l'épuisement de la veille permanente, les micro-décisions qui s'accumulent jusqu'au burn-out.
 
 Et si vous avez vécu ce qu'il décrit, sachez que vous n'êtes pas seul·e. Et que ce n'est pas une question de compétence ou de discipline. Ce que nous vivons, ce qui est imposé aujourd'hui par le marché est dur, et aura des conséquences notables sur notre santé mentale, notre capacité à faire du bon travail, et notre plaisir à faire ce métier. Et ce, même si la bulle éclate.
 
