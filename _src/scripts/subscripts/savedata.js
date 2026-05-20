@@ -1,5 +1,5 @@
 /************************************************
-  On save-data mode, modifyies images src to use
+  On save-data mode, modifies images src to use
   grayscale, degraded images.
 ************************************************/
 (function saveData() {
@@ -8,7 +8,7 @@
     saveData = true;
   }
   if ('connection' in navigator) {
-    if (navigator.connection.saveData == true) {
+    if (navigator.connection.saveData === true) {
       saveData = true;
     }
   }

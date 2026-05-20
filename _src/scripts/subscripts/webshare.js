@@ -18,7 +18,7 @@ if (navigator && navigator.share) {
       };
 
       let canShare = true;
-      if (!!navigator.canShare) {
+      if (navigator.canShare) {
         canShare = navigator.canShare(sharedData);
       }
       if (canShare) {
