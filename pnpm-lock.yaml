@@ -1471,8 +1471,8 @@ packages:
   easy-toggle-state@1.16.0:
     resolution: {integrity: sha512-wrGQ/9E5B32ripyK7JOSblkF/hpPo3Fwju3sx6EzMzNMvKEfAiib+RoIz6lWjFPWl1mG9VgCsH6Mn/mVsYTx9g==}
 
-  electron-to-chromium@1.5.359:
-    resolution: {integrity: sha512-8lPELWuYZIWk7NDvCNthtmMw/7Q5Wu25NpM4djFMHBmk8DubPAtL4YTOp7ou0e7HyJtwkVlWv8XMLURnrtgJQw==}
+  electron-to-chromium@1.5.360:
+    resolution: {integrity: sha512-GkcBt6YYAw9SxFWn+xVar4cLVGlXVuswwtRLBozi2zp0GjXs4ZnOrqV4zbXzg35n7w81hCkyJNYicgXlVHAmBA==}
 
   emoji-regex@8.0.0:
     resolution: {integrity: sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==}
@@ -4925,7 +4925,7 @@ snapshots:
     dependencies:
       baseline-browser-mapping: 2.10.31
       caniuse-lite: 1.0.30001793
-      electron-to-chromium: 1.5.359
+      electron-to-chromium: 1.5.360
       node-releases: 2.0.44
       update-browserslist-db: 1.2.3(browserslist@4.28.2)
 
@@ -5333,7 +5333,7 @@ snapshots:
 
   easy-toggle-state@1.16.0: {}
 
-  electron-to-chromium@1.5.359: {}
+  electron-to-chromium@1.5.360: {}
 
   emoji-regex@8.0.0: {}
 
