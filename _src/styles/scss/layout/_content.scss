@@ -45,6 +45,9 @@
     a:not(.category) {
       color: var(--color-main-gray);
     }
+    a.share{
+      color: var(--color-main);
+    }
   }
 
   .webshare {
