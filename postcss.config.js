@@ -10,7 +10,7 @@ module.exports = (ctx) => {
               content: ['./_site/**/*.html'],
               css: ['./_src/styles/css/*.css'],
               safelist: {
-                deep: [/save-data$/, /webshare$/, /turbolinks/, /:lang/],
+                deep: [/save-data$/, /webshare$/, /:lang/],
               },
             }),
           ]
