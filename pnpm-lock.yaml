@@ -97,8 +97,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       npm:
-        specifier: ^11.14.1
-        version: 11.14.1
+        specifier: ^11.15.0
+        version: 11.15.0
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -1478,8 +1478,8 @@ packages:
   end-of-stream@1.4.5:
     resolution: {integrity: sha512-ooEGc6HP26xXq/N+GCGOT0JKCLDGrq2bQUZrQ7gyrJiZANJ/8YDTxTpQBXGMn+WbIQXNVpyWymm7KYVICQnyOg==}
 
-  enhanced-resolve@5.21.5:
-    resolution: {integrity: sha512-mLCNbrQli11K1ySUmuNt4ZUB3OpGIDq4q2vTBTf5cL2lpsRjI9QKqSD0ndjW8FyvcW/Jj46gMe9syyHAsvMa/A==}
+  enhanced-resolve@5.21.6:
+    resolution: {integrity: sha512-aNnGCvbJ/RIyWo1IuhNdVjnNF+EjH9wpzpNHt+ci/m9He9LJvUN8wrCcXjp9cWsGNAuvSpVFTx/vraAFQ8qGjQ==}
     engines: {node: '>=10.13.0'}
 
   entities@2.2.0:
@@ -2426,8 +2426,9 @@ packages:
     engines: {node: '>= 10.12.0'}
     hasBin: true
 
-  node-releases@2.0.44:
-    resolution: {integrity: sha512-5WUyunoPMsvvEhS8AxHtRzP+oA8UCkJ7YRxatWKjngndhDGLiqEVAQKWjFAiAiuL8zMRGzGSJxFnLetoa43qGQ==}
+  node-releases@2.0.45:
+    resolution: {integrity: sha512-iIbHXV9eBB2nB0wa7oTsrrXq+qQt+9SIlx9AX3T96YgobtEQfis5n6TJ6vV+3QP8DwdriEAcGhARaFCu37peBg==}
+    engines: {node: '>=18'}
 
   node-sass@9.0.0:
     resolution: {integrity: sha512-yltEuuLrfH6M7Pq2gAj5B6Zm7m+gdZoG66wTqG6mIZV/zijq3M2OO2HswtT6oBspPyFhHDcaxWpsBm0fRNDHPg==}
@@ -2456,8 +2457,8 @@ packages:
     engines: {node: '>= 4'}
     hasBin: true
 
-  npm@11.14.1:
-    resolution: {integrity: sha512-aopNZ0eEl6LbxoFcrXLmTEPzNBNxfiQnVgR9RmJBqzm+5h5pFoOmRljpRJbsXxocBeSl7GLcx3MoDf2UlEOjZw==}
+  npm@11.15.0:
+    resolution: {integrity: sha512-+k0tk7lRnpMUPnC7kTuU/yrV/mnFoPhJQ75VfLtZ6fwbzOVXaPsTE/Il9Pn1DHi482byMyqkHv/XsQ76mNjXLw==}
     engines: {node: ^20.17.0 || >=22.9.0}
     hasBin: true
     bundledDependencies:
@@ -4904,7 +4905,7 @@ snapshots:
       baseline-browser-mapping: 2.10.31
       caniuse-lite: 1.0.30001793
       electron-to-chromium: 1.5.360
-      node-releases: 2.0.44
+      node-releases: 2.0.45
       update-browserslist-db: 1.2.3(browserslist@4.28.2)
 
   buffer-from@1.1.2: {}
@@ -5326,7 +5327,7 @@ snapshots:
     dependencies:
       once: 1.4.0
 
-  enhanced-resolve@5.21.5:
+  enhanced-resolve@5.21.6:
     dependencies:
       graceful-fs: 4.2.11
       tapable: 2.3.3
@@ -6414,7 +6415,7 @@ snapshots:
       - supports-color
     optional: true
 
-  node-releases@2.0.44: {}
+  node-releases@2.0.45: {}
 
   node-sass@9.0.0:
     dependencies:
@@ -6471,7 +6472,7 @@ snapshots:
       shell-quote: 1.8.3
       string.prototype.padend: 3.1.6
 
-  npm@11.14.1: {}
+  npm@11.15.0: {}
 
   npmlog@6.0.2:
     dependencies:
@@ -7603,7 +7604,7 @@ snapshots:
       acorn-import-phases: 1.0.4(acorn@8.16.0)
       browserslist: 4.28.2
       chrome-trace-event: 1.0.4
-      enhanced-resolve: 5.21.5
+      enhanced-resolve: 5.21.6
       es-module-lexer: 2.1.0
       eslint-scope: 5.1.1
       events: 3.3.0

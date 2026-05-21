@@ -1,5 +1,6 @@
 @use 'config' as *;
 @use 'abstract' as *;
+@use '../mixins/animations' as *;
 
 @use 'sass:math';
 @use 'sass:map'; // needed for map.get() below
@@ -76,6 +77,11 @@ blockquote,
 pre,
 caption,
 .inline-note {
+
+  @include animation(fadeIn linear, fadeOut linear);
+  animation-timeline: view(), view();
+  animation-range: entry, exit;
+
   margin: $default-line-height * 1em 0;
   text-wrap: balance;
   text-wrap: pretty;
