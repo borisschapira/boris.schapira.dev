@@ -4,7 +4,7 @@ title: Les appels
 
 Pour un de mes fils, le téléphone portable est une nuisance. Il le jette sur la première surface venue dès qu'il entre dans la maison, n'appelle personne, ne répond à personne. Il sait juste que c'est le prérequis de son autonomie en ville.
 
-Pour l'autre, en revanche… il apppelle tout le monde, tout le temps (voire pas du tout aux bonnes heures). Parfois, il faut remettre les pendules à l'heures.
+Pour l'autre, en revanche… il appelle tout le monde, tout le temps (voire pas du tout aux bonnes heures). Parfois, il faut remettre les pendules à l'heures.
 
 > – Bon, il faut que je te parle. Comme tu le sais, en journée, je travaille. Donc je voudrais que tu ne m'appelles que pour les urgences. Si ce n'est pas urgent, envoie-moi un SMS.  
 > – Et si je trouve un caillou ?  

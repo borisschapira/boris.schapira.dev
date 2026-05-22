@@ -23,7 +23,7 @@ Il réfléchit en silence trente secondes et assène finalement, l'air décidé 
 
 Il m'a tellement fait rire que j'ai passé commande pour encadrer ça dans le salon :
 
-{% capture img_alt %}Aquarelle. Une couronne de fleurs et à l'intérieur, le messsage "C'est pas grave, t'es beau à l'intétieur".{% endcapture %}{% capture img_caption %}Œuvre reproduite avec l'autorisation de [Sandrine @garagedeloffre](https://twitter.com/garagedeloffre).{% endcapture %} {% include rwd-image.html.liquid
+{% capture img_alt %}Aquarelle. Une couronne de fleurs et à l'intérieur, le message "C'est pas grave, t'es beau à l'intétieur".{% endcapture %}{% capture img_caption %}Œuvre reproduite avec l'autorisation de [Sandrine @garagedeloffre](https://twitter.com/garagedeloffre).{% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/papa/2018-06-22/garagedeloffre.jpg"
 alt=img_alt
 caption=img_caption

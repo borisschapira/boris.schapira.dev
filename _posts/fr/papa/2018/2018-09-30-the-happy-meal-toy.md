@@ -7,7 +7,7 @@ translations:
 
 J'emmène le petit chez Mc Donald. Il prend un _Happy Meal_ "garçon" et se voit offrir un jouet Transformers. Il a beau adorer les Transformers, il se rend compte avant de l'ouvrir que le jouet est nul. Nous allons donc l'échanger contre le jouet "fille", un "Mon Petit Poney" à peigner qui l'intéresse bien plus.
 
-En sortant du magasin, on croise un jeune homme et une jeune femmme, proches, appuyés contre le mur. Le jeune homme dévisage mon fils, s'attarde sur le poney rose dans ses mains et ricâne, avant de lancer d'un ton incroyablement sarcastique.
+En sortant du magasin, on croise un jeune homme et une jeune femme, proches, appuyés contre le mur. Le jeune homme dévisage mon fils, s'attarde sur le poney rose dans ses mains et ricâne, avant de lancer d'un ton incroyablement sarcastique.
 
 > Ah ben il est joli ton petit poney !
 

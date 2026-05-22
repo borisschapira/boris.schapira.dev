@@ -123,7 +123,7 @@ Enfin, le RN est **l'ennemi de la responsabilité sociale et de la transition é
 - contre la taxation des yachts et jets privés ;
 - contre l'obligation pour les entreprises financées par le plan France 2030 à publier un bilan carbone
 - pour l'exclusion des ustensiles de cuisine de l'interdiction des polluants éternels (PFAS) ;
-- contre la luttte contre les dérives sectaires ;
+- contre la lutte contre les dérives sectaires ;
 - pour le chauffauge au fuel, pour la limitation des éoliennes, y compris en pleine mer et contre l'obligation d'installation de panneaux solaires sur les grands parkings ;
 - et contre toute forme d'écriture inclusive.
 
