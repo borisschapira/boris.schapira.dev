@@ -22,7 +22,7 @@ importers:
         version: 5.0.0
       file-loader:
         specifier: ^6.2.0
-        version: 6.2.0(webpack@5.107.0)
+        version: 6.2.0(webpack@5.107.1)
       js-md5:
         specifier: ^0.8.3
         version: 0.8.3
@@ -59,7 +59,7 @@ importers:
         version: 10.5.0(postcss@8.5.15)
       babel-loader:
         specifier: ^10.1.1
-        version: 10.1.1(@babel/core@7.29.0)(webpack@5.107.0)
+        version: 10.1.1(@babel/core@7.29.0)(webpack@5.107.1)
       blurhash:
         specifier: ^2.0.5
         version: 2.0.5
@@ -110,7 +110,7 @@ importers:
         version: 11.0.1(jiti@2.7.0)(postcss@8.5.15)
       postcss-loader:
         specifier: ^8.2.1
-        version: 8.2.1(postcss@8.5.15)(webpack@5.107.0)
+        version: 8.2.1(postcss@8.5.15)(webpack@5.107.1)
       prettier:
         specifier: ^3.8.3
         version: 3.8.3
@@ -118,20 +118,20 @@ importers:
         specifier: ^3.13.0
         version: 3.13.0
       sass:
-        specifier: ^1.99.0
-        version: 1.99.0
+        specifier: ^1.100.0
+        version: 1.100.0
       sass-loader:
         specifier: ^16.0.8
-        version: 16.0.8(node-sass@9.0.0)(sass@1.99.0)(webpack@5.107.0)
+        version: 16.0.8(node-sass@9.0.0)(sass@1.100.0)(webpack@5.107.1)
       uglify-js:
         specifier: ^3.19.3
         version: 3.19.3
       webpack:
-        specifier: ^5.107.0
-        version: 5.107.0(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2)
+        specifier: ^5.107.1
+        version: 5.107.1(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2)
       webpack-cli:
         specifier: ^7.0.2
-        version: 7.0.2(webpack@5.107.0)
+        version: 7.0.2(webpack@5.107.1)
 
 packages:
 
@@ -1207,9 +1207,9 @@ packages:
     resolution: {integrity: sha512-7VT13fmjotKpGipCW9JEQAusEPE+Ei8nl6/g4FBAmIm0GOOLMua9NDDo/DWp0ZAxCr3cPq5ZpBqmPAQgDda2Pw==}
     engines: {node: '>= 8.10.0'}
 
-  chokidar@4.0.3:
-    resolution: {integrity: sha512-Qgzu8kfBvo+cA4962jnP1KkS6Dop5NS6g7R5LFYJr4b8Ub94PPQXUksCw9PvXoeXPRRddRNC5C1JQUR2SMGtnA==}
-    engines: {node: '>= 14.16.0'}
+  chokidar@5.0.0:
+    resolution: {integrity: sha512-TQMmc3w+5AxjpL8iIiwebF73dRDF4fBIieAqGn9RGCWaEVwQ6Fb2cGe31Yns0RRIzii5goJ1Y7xbMwo1TxMplw==}
+    engines: {node: '>= 20.19.0'}
 
   chownr@1.1.4:
     resolution: {integrity: sha512-jJ0bqzaylmJtVnNgzTeSOs8DPavpbYgEr/b0YL8/2GO3xJEhInFmhKMUnEJQjZumK7KXGFhUy89PrsJWlakBVg==}
@@ -1462,8 +1462,8 @@ packages:
   easy-toggle-state@1.16.0:
     resolution: {integrity: sha512-wrGQ/9E5B32ripyK7JOSblkF/hpPo3Fwju3sx6EzMzNMvKEfAiib+RoIz6lWjFPWl1mG9VgCsH6Mn/mVsYTx9g==}
 
-  electron-to-chromium@1.5.360:
-    resolution: {integrity: sha512-GkcBt6YYAw9SxFWn+xVar4cLVGlXVuswwtRLBozi2zp0GjXs4ZnOrqV4zbXzg35n7w81hCkyJNYicgXlVHAmBA==}
+  electron-to-chromium@1.5.361:
+    resolution: {integrity: sha512-Q6Hts7N9FnJc5LeGRINFvLhCI9xZmNtTDe5ZbcVezQz7cU4a8Aua3GH1b8J2XY8Al9PF+OCwYqhgsOOheMdvkA==}
 
   emoji-regex@8.0.0:
     resolution: {integrity: sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==}
@@ -1478,8 +1478,8 @@ packages:
   end-of-stream@1.4.5:
     resolution: {integrity: sha512-ooEGc6HP26xXq/N+GCGOT0JKCLDGrq2bQUZrQ7gyrJiZANJ/8YDTxTpQBXGMn+WbIQXNVpyWymm7KYVICQnyOg==}
 
-  enhanced-resolve@5.21.6:
-    resolution: {integrity: sha512-aNnGCvbJ/RIyWo1IuhNdVjnNF+EjH9wpzpNHt+ci/m9He9LJvUN8wrCcXjp9cWsGNAuvSpVFTx/vraAFQ8qGjQ==}
+  enhanced-resolve@5.22.0:
+    resolution: {integrity: sha512-xYcDWrpELkFzz9SpZ3PlI6Eu6eD93Yf0WLDRxikGhWJ3MAir2SNZTIVCVZqZ/NUyx8AdMc2gT9C0gPiw18kG+A==}
     engines: {node: '>=10.13.0'}
 
   entities@2.2.0:
@@ -2426,8 +2426,8 @@ packages:
     engines: {node: '>= 10.12.0'}
     hasBin: true
 
-  node-releases@2.0.45:
-    resolution: {integrity: sha512-iIbHXV9eBB2nB0wa7oTsrrXq+qQt+9SIlx9AX3T96YgobtEQfis5n6TJ6vV+3QP8DwdriEAcGhARaFCu37peBg==}
+  node-releases@2.0.46:
+    resolution: {integrity: sha512-GYVXHE2KnrzAfsAjl4uP++evGFCrAU1jta4ubEjIG7YWt/64Gqv66a30yKwWczVjA6j3bM4nBwH7Pk1JmDHaxQ==}
     engines: {node: '>=18'}
 
   node-sass@9.0.0:
@@ -2974,9 +2974,9 @@ packages:
     resolution: {integrity: sha512-hOS089on8RduqdbhvQ5Z37A0ESjsqz6qnRcffsMU3495FuTdqSm+7bhJ29JvIOsBDEEnan5DPu9t3To9VRlMzA==}
     engines: {node: '>=8.10.0'}
 
-  readdirp@4.1.2:
-    resolution: {integrity: sha512-GDhwkLfywWL2s6vEjyhri+eXmfH6j1L7JE27WhqLeYzoh/A3DBaYGEj2H/HFZCn/kMfim73FXxEJTw06WtxQwg==}
-    engines: {node: '>= 14.18.0'}
+  readdirp@5.0.0:
+    resolution: {integrity: sha512-9u/XQ1pvrQtYyMpZe7DXKv2p5CNvyVwzUB6uhLAnQwHMSgKMBR62lc7AHljaeteeHXn11XTAaLLUVZYVZyuRBQ==}
+    engines: {node: '>= 20.19.0'}
 
   rechoir@0.8.0:
     resolution: {integrity: sha512-/vxpCXddiX8NGfGO/mTafwjq4aFa/71pvamip0++IQk3zG8cbCj0fifNPrjjF1XMXUne91jL9OoxmdykoEtifQ==}
@@ -3108,9 +3108,9 @@ packages:
       webpack:
         optional: true
 
-  sass@1.99.0:
-    resolution: {integrity: sha512-kgW13M54DUB7IsIRM5LvJkNlpH+WhMpooUcaWGFARkF1Tc82v9mIWkCbCYf+MBvpIUBSeSOTilpZjEPr2VYE6Q==}
-    engines: {node: '>=14.0.0'}
+  sass@1.100.0:
+    resolution: {integrity: sha512-B5j0rYMlinhhOo9tjQebMVVn0TfyXAF+wB3b2ggZUuJ/is/Y+7+JGjirAMxHZ9Z3hIP98NPfamlAkBHa1lAaXQ==}
+    engines: {node: '>=20.19.0'}
     hasBin: true
 
   sax@1.6.0:
@@ -3136,8 +3136,8 @@ packages:
     resolution: {integrity: sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA==}
     hasBin: true
 
-  semver@7.8.0:
-    resolution: {integrity: sha512-AcM7dV/5ul4EekoQ29Agm5vri8JNqRyj39o0qpX6vDF2GZrtutZl5RwgD1XnZjiTAfncsJhMI48QQH3sN87YNA==}
+  semver@7.8.1:
+    resolution: {integrity: sha512-rkVq3IXh+4FDGch+KwzX3aV9W3kO54GyEgpvBzSyctDA6Xtd7RJQV1xmXbeQp5v7+VzLOfVqiutSE6GICgPFvg==}
     engines: {node: '>=10'}
     hasBin: true
 
@@ -3418,8 +3418,8 @@ packages:
       uglify-js:
         optional: true
 
-  terser@5.47.1:
-    resolution: {integrity: sha512-tPbLXTI6ohPASb/1YViL428oEHu6/qv1OxqYnfaonVCFHqx4+wCd95pHrQWsL5X4pl90CTyW9piSAsS2L0VoMw==}
+  terser@5.48.0:
+    resolution: {integrity: sha512-J/9An6vs9Us6wKRriSFXBWdRZapREHqFzdNUKk0pmu804EMR6dr6winwo7e5JDxN4xahxQsuysyYFwlwj4XN/Q==}
     engines: {node: '>=10'}
     hasBin: true
 
@@ -3580,12 +3580,12 @@ packages:
     resolution: {integrity: sha512-hXXvrjtx2PLYx4qruKl+kyRSLc52V+cCvMxRjmKwoA+CBbbF5GfIBtR6kCvl0fYGqTUPKB+1ktVmTHqMOzgCBg==}
     engines: {node: '>=18.0.0'}
 
-  webpack-sources@3.4.1:
-    resolution: {integrity: sha512-eACpxRN02yaawnt+uUNIF7Qje6A9zArxBbcAJjK1PK3S9Ycg5jIuJ8pW4q8EMnwNZCEGltcjkRx1QzOxOkKD8A==}
+  webpack-sources@3.5.0:
+    resolution: {integrity: sha512-HPuy+uuoTCaaoEoI1LQ3JN9+vrPBvEesnnX1jADHy728cHSMlq4wUc4afYqahq2B1mhQVZxCXOkNTnXltr+2vQ==}
     engines: {node: '>=10.13.0'}
 
-  webpack@5.107.0:
-    resolution: {integrity: sha512-PSxeHk/dmLYZlnTU+vL1Gej6Evg5RNtl3flhxBresfznFnzxinHMzHKloHnywM/3ouQv7/AlZCswWDIkNSggUA==}
+  webpack@5.107.1:
+    resolution: {integrity: sha512-mvdIWxj/H6QsfgDdH9djne3a5dYcmEmtsXGESkypaGN5jXjF/b+9KDlmTDQ2TKlFUeA2fI9Y65kihD30JOdB+Q==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     peerDependencies:
@@ -4474,13 +4474,13 @@ snapshots:
   '@npmcli/fs@1.1.1':
     dependencies:
       '@gar/promisify': 1.1.3
-      semver: 7.8.0
+      semver: 7.8.1
     optional: true
 
   '@npmcli/fs@2.1.2':
     dependencies:
       '@gar/promisify': 1.1.3
-      semver: 7.8.0
+      semver: 7.8.1
     optional: true
 
   '@npmcli/move-file@1.1.2':
@@ -4827,12 +4827,12 @@ snapshots:
     dependencies:
       possible-typed-array-names: 1.1.0
 
-  babel-loader@10.1.1(@babel/core@7.29.0)(webpack@5.107.0):
+  babel-loader@10.1.1(@babel/core@7.29.0)(webpack@5.107.1):
     dependencies:
       '@babel/core': 7.29.0
       find-up: 5.0.0
     optionalDependencies:
-      webpack: 5.107.0(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2)
+      webpack: 5.107.1(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2)
 
   babel-plugin-polyfill-corejs2@0.4.17(@babel/core@7.29.0):
     dependencies:
@@ -4904,8 +4904,8 @@ snapshots:
     dependencies:
       baseline-browser-mapping: 2.10.31
       caniuse-lite: 1.0.30001793
-      electron-to-chromium: 1.5.360
-      node-releases: 2.0.45
+      electron-to-chromium: 1.5.361
+      node-releases: 2.0.46
       update-browserslist-db: 1.2.3(browserslist@4.28.2)
 
   buffer-from@1.1.2: {}
@@ -5039,9 +5039,9 @@ snapshots:
     optionalDependencies:
       fsevents: 2.3.3
 
-  chokidar@4.0.3:
+  chokidar@5.0.0:
     dependencies:
-      readdirp: 4.1.2
+      readdirp: 5.0.0
 
   chownr@1.1.4: {}
 
@@ -5312,7 +5312,7 @@ snapshots:
 
   easy-toggle-state@1.16.0: {}
 
-  electron-to-chromium@1.5.360: {}
+  electron-to-chromium@1.5.361: {}
 
   emoji-regex@8.0.0: {}
 
@@ -5327,7 +5327,7 @@ snapshots:
     dependencies:
       once: 1.4.0
 
-  enhanced-resolve@5.21.6:
+  enhanced-resolve@5.22.0:
     dependencies:
       graceful-fs: 4.2.11
       tapable: 2.3.3
@@ -5615,11 +5615,11 @@ snapshots:
     dependencies:
       flat-cache: 3.2.0
 
-  file-loader@6.2.0(webpack@5.107.0):
+  file-loader@6.2.0(webpack@5.107.1):
     dependencies:
       loader-utils: 2.0.4
       schema-utils: 3.3.0
-      webpack: 5.107.0(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2)
+      webpack: 5.107.1(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2)
 
   fill-range@7.1.1:
     dependencies:
@@ -6387,7 +6387,7 @@ snapshots:
 
   node-abi@3.92.0:
     dependencies:
-      semver: 7.8.0
+      semver: 7.8.1
 
   node-addon-api@7.1.1: {}
 
@@ -6407,7 +6407,7 @@ snapshots:
       nopt: 5.0.0
       npmlog: 6.0.2
       rimraf: 3.0.2
-      semver: 7.8.0
+      semver: 7.8.1
       tar: 6.2.1
       which: 2.0.2
     transitivePeerDependencies:
@@ -6415,7 +6415,7 @@ snapshots:
       - supports-color
     optional: true
 
-  node-releases@2.0.45: {}
+  node-releases@2.0.46: {}
 
   node-sass@9.0.0:
     dependencies:
@@ -6454,7 +6454,7 @@ snapshots:
     dependencies:
       hosted-git-info: 4.1.0
       is-core-module: 2.16.2
-      semver: 7.8.0
+      semver: 7.8.1
       validate-npm-package-license: 3.0.4
     optional: true
 
@@ -6687,14 +6687,14 @@ snapshots:
       jiti: 2.7.0
       postcss: 8.5.15
 
-  postcss-loader@8.2.1(postcss@8.5.15)(webpack@5.107.0):
+  postcss-loader@8.2.1(postcss@8.5.15)(webpack@5.107.1):
     dependencies:
       cosmiconfig: 9.0.1
       jiti: 2.7.0
       postcss: 8.5.15
-      semver: 7.8.0
+      semver: 7.8.1
     optionalDependencies:
-      webpack: 5.107.0(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2)
+      webpack: 5.107.1(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2)
     transitivePeerDependencies:
       - typescript
 
@@ -6936,7 +6936,7 @@ snapshots:
     dependencies:
       picomatch: 2.3.2
 
-  readdirp@4.1.2: {}
+  readdirp@5.0.0: {}
 
   rechoir@0.8.0:
     dependencies:
@@ -7070,17 +7070,17 @@ snapshots:
       yargs: 17.7.2
     optional: true
 
-  sass-loader@16.0.8(node-sass@9.0.0)(sass@1.99.0)(webpack@5.107.0):
+  sass-loader@16.0.8(node-sass@9.0.0)(sass@1.100.0)(webpack@5.107.1):
     dependencies:
       neo-async: 2.6.2
     optionalDependencies:
       node-sass: 9.0.0
-      sass: 1.99.0
-      webpack: 5.107.0(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2)
+      sass: 1.100.0
+      webpack: 5.107.1(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2)
 
-  sass@1.99.0:
+  sass@1.100.0:
     dependencies:
-      chokidar: 4.0.3
+      chokidar: 5.0.0
       immutable: 5.1.5
       source-map-js: 1.2.1
     optionalDependencies:
@@ -7111,7 +7111,7 @@ snapshots:
 
   semver@6.3.1: {}
 
-  semver@7.8.0: {}
+  semver@7.8.1: {}
 
   set-blocking@2.0.0:
     optional: true
@@ -7403,19 +7403,19 @@ snapshots:
       yallist: 4.0.0
     optional: true
 
-  terser-webpack-plugin@5.6.0(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack@5.107.0):
+  terser-webpack-plugin@5.6.0(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack@5.107.1):
     dependencies:
       '@jridgewell/trace-mapping': 0.3.31
       jest-worker: 27.5.1
       schema-utils: 4.3.3
-      terser: 5.47.1
-      webpack: 5.107.0(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2)
+      terser: 5.48.0
+      webpack: 5.107.1(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2)
     optionalDependencies:
       cssnano: 7.1.9(postcss@8.5.15)
       postcss: 8.5.15
       uglify-js: 3.19.3
 
-  terser@5.47.1:
+  terser@5.48.0:
     dependencies:
       '@jridgewell/source-map': 0.3.11
       acorn: 8.16.0
@@ -7572,7 +7572,7 @@ snapshots:
       glob-to-regexp: 0.4.1
       graceful-fs: 4.2.11
 
-  webpack-cli@7.0.2(webpack@5.107.0):
+  webpack-cli@7.0.2(webpack@5.107.1):
     dependencies:
       '@discoveryjs/json-ext': 1.1.0
       commander: 14.0.3
@@ -7582,7 +7582,7 @@ snapshots:
       import-local: 3.2.0
       interpret: 3.1.1
       rechoir: 0.8.0
-      webpack: 5.107.0(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2)
+      webpack: 5.107.1(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2)
       webpack-merge: 6.0.1
 
   webpack-merge@6.0.1:
@@ -7591,9 +7591,9 @@ snapshots:
       flat: 5.0.2
       wildcard: 2.0.1
 
-  webpack-sources@3.4.1: {}
+  webpack-sources@3.5.0: {}
 
-  webpack@5.107.0(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2):
+  webpack@5.107.1(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack-cli@7.0.2):
     dependencies:
       '@types/estree': 1.0.9
       '@types/json-schema': 7.0.15
@@ -7604,7 +7604,7 @@ snapshots:
       acorn-import-phases: 1.0.4(acorn@8.16.0)
       browserslist: 4.28.2
       chrome-trace-event: 1.0.4
-      enhanced-resolve: 5.21.6
+      enhanced-resolve: 5.22.0
       es-module-lexer: 2.1.0
       eslint-scope: 5.1.1
       events: 3.3.0
@@ -7615,11 +7615,11 @@ snapshots:
       neo-async: 2.6.2
       schema-utils: 4.3.3
       tapable: 2.3.3
-      terser-webpack-plugin: 5.6.0(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack@5.107.0)
+      terser-webpack-plugin: 5.6.0(cssnano@7.1.9(postcss@8.5.15))(postcss@8.5.15)(uglify-js@3.19.3)(webpack@5.107.1)
       watchpack: 2.5.1
-      webpack-sources: 3.4.1
+      webpack-sources: 3.5.0
     optionalDependencies:
-      webpack-cli: 7.0.2(webpack@5.107.0)
+      webpack-cli: 7.0.2(webpack@5.107.1)
     transitivePeerDependencies:
       - '@minify-html/node'
       - '@swc/core'
