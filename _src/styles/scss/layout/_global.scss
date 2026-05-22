@@ -89,9 +89,9 @@ html {
 
     @include media('>=large') {
       margin: 0;
-      padding: 0 0 0 $global-gutters;
+      padding: 0 0 0 var(--global-gutters);
       grid-column: 10 / 13;
-      border-left: $border-separators solid var(--color-main-grayfade);
+      border-left: var(--border-separators) solid var(--color-main-grayfade);
     }
 
     .categories {
@@ -137,8 +137,8 @@ html {
 }
 
 .widget {
-  padding: $global-gutters 0;
-  border-bottom: $border-separators solid var(--color-main-grayfade);
+  padding: var(--global-gutters) 0;
+  border-bottom: var(--border-separators) solid var(--color-main-grayfade);
 
   &:last-of-type:not(:only-of-type) {
     border-bottom: none;

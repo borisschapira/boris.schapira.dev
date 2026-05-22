@@ -9,7 +9,7 @@
   text-align: center;
   background-color: var(--color-main-grayfade);
   margin: 0;
-  padding: $global-gutters;
+  padding: var(--global-gutters);
   border-bottom: 1px solid var(--color-main);
 
   h1 {
@@ -28,7 +28,7 @@
 .meta {
   font-size: #{string.unquote('max(16px, 0.85rem)')};
   color: var(--color-main-gray);
-  margin-top: math.div($global-gutters, 2);
+  margin-top: calc(var(--global-gutters) / 2);
 
   > span {
     &::before {
@@ -141,7 +141,7 @@
     margin: 0.7em 0;
   }
 
-  border-bottom: $border-separators solid var(--color-main-text);
+  border-bottom: var(--border-separators) solid var(--color-main-text);
 
   &:last-of-type:not(:only-of-type) {
     border-bottom: none;

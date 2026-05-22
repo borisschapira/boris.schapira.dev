@@ -2,6 +2,7 @@
 
 // Variables, placeholders and media mixin
 @use 'base/config' as *;
+@use 'custom/tokens' as *;
 @use 'base/abstract' as *;
 @use 'mixins/content' as *;
 @use 'mixins/animations' as *;

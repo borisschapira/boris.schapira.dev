@@ -1,0 +1,57 @@
+:root {
+  /* Layout */
+  --global-gutters: 2rem; /* $global-gutters */
+
+  /* Z-indexes */
+  --zindex-nav-trigger: 5; /* $zindex-nav-trigger */
+  --zindex-nav: 2; /* $zindex-nav */
+
+  /* Typography */
+  --default-font-size: 1rem; /* $default-font-size */
+  --default-line-height: 1.7; /* $default-line-height */
+  --base-font-size: 16px; /* $base-font-size */
+
+  /* Font-size helpers (from $font-sizes map) */
+  --font-size-xxl: 1.75rem;
+  --font-size-xl: 1.5rem;
+  --font-size-lg: 1.25rem;
+  --font-size-sm: 0.875rem;
+  --font-size-xs: 0.75rem;
+
+  /* Buttons & inputs */
+  --label-font-size: 0.875em;
+  --input-vmargin: 0.125em;
+  --input-hmargin: 0;
+  --input-vpadding: 0.25em;
+  --input-hpadding: 0.5em;
+  --btn-hmargin: 0.5em;
+  --btn-hpadding: 1.5em;
+
+  /* Transitions */
+  --enable-moves: 1;
+  --enable-animations: 1;
+  --enable-transitions: 1;
+  --default-duration: 0.25s; /* $default-duration */
+  --default-timing-function: cubic-bezier(0.77, 0, 0.175, 1); /* $default-timing-function */
+  --nav-toggle-duration: 0.5s;
+  --nav-toggle-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+
+  /* Separators */
+  --border-separators: 2px;
+
+  /* Breakpoints */
+  --breakpoint-xsmall: 220px;
+  --breakpoint-small: 480px;
+  --breakpoint-medium: 720px;
+  --breakpoint-large: 960px;
+  --breakpoint-xlarge: 1200px;
+  --breakpoint-xxlarge: 1440px;
+
+  /* Media ratios (numbers) */
+  --media-ratio-xsmall: 0.85;
+  --media-ratio-small: 0.9;
+  --media-ratio-medium: 1;
+  --media-ratio-large: 1.05;
+  --media-ratio-xlarge: 1.1;
+  --media-ratio-xxlarge: 1.15;
+}

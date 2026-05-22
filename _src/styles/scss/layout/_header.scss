@@ -39,11 +39,11 @@
   nav ul {
     display: block;
     position: fixed;
-    margin: math.div($global-gutters, 2);
+    margin: calc(var(--global-gutters) / 2);
     top: 0;
     left: 100%;
     width: 100%;
-    z-index: $zindex-nav;
+    z-index: var(--zindex-nav);
   }
 
   .close-label {
@@ -102,7 +102,7 @@
   }
 
   .menu-trigger {
-    z-index: $zindex-nav-trigger;
+    z-index: var(--zindex-nav-trigger);
   }
 
   @include media('>=large') {

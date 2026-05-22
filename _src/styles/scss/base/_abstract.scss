@@ -30,11 +30,11 @@ with (
 %main-grid {
   display: grid;
   grid-template-columns: repeat(12, minmax(0, 1fr));
-  padding: 0 c.$global-gutters;
-  gap: c.$global-gutters;
+  padding: 0 var(--global-gutters);
+  gap: var(--global-gutters);
 
   @include im.media('<=small') {
-    gap: math.div(c.$global-gutters, 2);
+    gap: calc(var(--global-gutters) / 2);
   }
   @include im.media('<=xsmall') {
     gap: 0;
