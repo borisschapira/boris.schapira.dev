@@ -2,6 +2,7 @@
 // (thanks a lot, @notwaldorf!)
 
 import { createReadStream, createWriteStream, mkdirSync } from 'fs';
+import { spawn } from 'child_process';
 import { expect } from 'chai';
 import pixelmatch from 'pixelmatch';
 import { PNG } from 'pngjs';
@@ -34,6 +35,7 @@ const tests = {
     routes: {
       home: '',
       dad: 'en/dad/',
+      post: 'notes/1900-01-typo-test/',
     },
   },
 };
@@ -135,22 +137,47 @@ async function parallel(tasks, concurrency) {
   return Promise.all(results);
 }
 
+/**
+ * Start http-server on the build folder and resolve once it's ready.
+ */
+function startServer() {
+  return new Promise((resolve, reject) => {
+    const proc = spawn('http-server', ['../_site', '-p', '8080'], {
+      stdio: ['ignore', 'pipe', 'pipe'],
+    });
+
+    const onData = chunk => {
+      if (chunk.toString().includes('Available on')) resolve(proc);
+    };
+
+    proc.stdout.on('data', onData);
+    proc.stderr.on('data', onData);
+    proc.on('error', reject);
+
+    // Fallback: proceed after 10s in case the ready signal was missed
+    setTimeout(() => resolve(proc), 10_000);
+  });
+}
+
 // ─── Test suite ───────────────────────────────────────────
 
 describe('👀 screenshots are correct', function () {
-  // Generous timeout — we're running many screenshots per test block
   this.timeout(120_000);
 
-  before(() => {
+  let serverProcess;
+
+  before(async () => {
     rimrafSync(TEST_DIR);
     rimrafSync(DIFF_DIR);
+    serverProcess = await startServer();
   });
+
+  after(() => serverProcess?.kill());
 
   for (const [lang, { locale, mode, routes }] of Object.entries(tests)) {
     describe(`${lang} tests`, () => {
       let browser;
 
-      // One browser per language (--lang is a browser-level flag)
       before(async () => {
         browser = await launch({
           headless: true,
@@ -160,37 +187,33 @@ describe('👀 screenshots are correct', function () {
 
       after(() => browser.close());
 
-      // All viewport × route combos run in parallel on separate pages
-      it('all routes match reference screenshots', async () => {
-        const tasks = [];
+      for (const [route, routeUrl] of Object.entries(routes)) {
+        it(`${route} matches reference screenshots`, async () => {
+          const tasks = Object.entries(contexts).map(
+            ([size, viewport]) =>
+              () =>
+                captureAndCompare(browser, {
+                  lang,
+                  locale,
+                  mode,
+                  size,
+                  viewport,
+                  route,
+                  routeUrl,
+                })
+          );
 
-        for (const [size, viewport] of Object.entries(contexts)) {
-          for (const [route, routeUrl] of Object.entries(routes)) {
-            tasks.push(() =>
-              captureAndCompare(browser, {
-                lang,
-                locale,
-                mode,
-                size,
-                viewport,
-                route,
-                routeUrl,
-              })
-            );
+          const results = await parallel(tasks, CONCURRENCY);
+
+          const failures = results.filter(r => r.numDiffPixels > MAX_ACCEPTABLE_DIFF_PIXELS);
+          if (failures.length > 0) {
+            const details = failures
+              .map(f => `  • ${f.fileName}: ${f.numDiffPixels} diff pixels`)
+              .join('\n');
+            expect.fail(`${failures.length} screenshot(s) differ from reference:\n${details}`);
           }
-        }
-
-        const results = await parallel(tasks, CONCURRENCY);
-
-        // Report all failures at once instead of stopping at the first
-        const failures = results.filter(r => r.numDiffPixels > MAX_ACCEPTABLE_DIFF_PIXELS);
-        if (failures.length > 0) {
-          const details = failures
-            .map(f => `  • ${f.fileName}: ${f.numDiffPixels} diff pixels`)
-            .join('\n');
-          expect.fail(`${failures.length} screenshot(s) differ from reference:\n${details}`);
-        }
-      });
+        });
+      }
     });
   }
 });

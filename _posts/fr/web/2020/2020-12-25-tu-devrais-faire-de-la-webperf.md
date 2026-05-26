@@ -76,7 +76,7 @@ Aujourd’hui, les connaissances techniques sur la performance web sont largemen
 
 Et pourtant… si on regarde les données de terrain, on peut voir que la performance des sites ne s’améliore pas franchement.
 
-{% capture img_alt %}Évolution de l'indicateur First Contentful Paint de janvier 2017 à août 2020, mesuré en contextes Mobile et Bureau. Dans un cas comme dans l'autre, des fluctuations sont présentes et souvent corrélées entre les deux contextes, mais dans l'ensemble, la valeur moyenne varie peu voire se dégrade.{% endcapture -%}{% capture img_caption %}Évolution de l'indicateur First Contentful Paint de 2017 à 2020. Source : <a href="https://httparchive.org/reports/loading-speed#fcp" hreflang="en" lang="en">HttpArchive</a>{% endcapture -%} {% include rwd-image.html.liquid
+{% capture img_alt %}Évolution de l'indicateur First Contentful Paint de janvier 2017 à août 2020, mesuré en contextes Mobile et Bureau. Dans un cas comme dans l'autre, des fluctuations sont présentes et souvent corrélées entre les deux contextes, mais dans l'ensemble, la valeur moyenne varie peu voire se dégrade.{% endcapture -%}{% capture img_caption %}Évolution de l'indicateur First Contentful Paint de 2017 à 2020. Source : HttpArchive{% endcapture -%} {% include rwd-image.html.liquid
 path="/assets/images/web/2020-12-02/timeseries_fcp.png"
 alt=img_alt
 caption=img_caption

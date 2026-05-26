@@ -5,8 +5,9 @@
   "scripts": {
     "pretty:css": "prettier --write '_src/styles/scss/**/*.scss'",
     "pretty:md": "prettier --write '{,!(vendor)/**/*.md}'",
-    "pretty:js": "prettier --write '_src/scripts/**/*.js'",
-    "pretty": "concurrently 'pn run pretty:css' 'pn run pretty:js' 'pn run pretty:md'",
+    "pretty:js": "prettier --write '_src/scripts/**/*.js'; prettier --write 'tests/*.js'",
+    "pretty:tests": "prettier --write 'tests/*.js'",
+    "pretty": "concurrently 'pn run pretty:css' 'pn run pretty:js' 'pn run pretty:tests' 'pn run pretty:md'",
     "build": "webpack",
     "postbuild": "node ./scripts/compute-hashes.js",
     "test:feeds": "node ./scripts/validate-feeds.js",

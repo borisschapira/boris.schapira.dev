@@ -1,6 +1,7 @@
 import { XMLValidator } from 'fast-xml-parser';
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 
 const feedUris = [
   'feed.xml',
@@ -13,18 +14,44 @@ const feedUris = [
   'en/dad/feed.xml',
 ];
 
-for (const feedUri of feedUris) {
-  const feed = fs
-    .readFileSync(path.resolve('../_site/', feedUri))
-    .toString('utf-8');
-  try {
-    const validateResult = XMLValidator.validate(feed);
-    if (validateResult !== true) {
-      throw validateResult.err;
-    } else {
-      console.log(`Valid feed: ${feedUri}`)
+export function validateFeeds() {
+  const errors = [];
+
+  for (const feedUri of feedUris) {
+    const feedPath = path.resolve('../_site/', feedUri);
+    let feed;
+    try {
+      feed = fs.readFileSync(feedPath, 'utf-8');
+    } catch (err) {
+      errors.push({ feedUri, error: `Could not read ${feedPath}: ${err.message}` });
+      continue;
     }
-  } catch (error) {
-    console.log(error);
+
+    try {
+      const validateResult = XMLValidator.validate(feed);
+      if (validateResult !== true) {
+        errors.push({ feedUri, error: validateResult.err || validateResult });
+      }
+    } catch (error) {
+      errors.push({ feedUri, error });
+    }
+  }
+
+  if (errors.length > 0) {
+    const details = errors.map(e => `• ${e.feedUri}: ${e.error}`).join('\n');
+    const err = new Error(`Feeds validation failed:\n${details}`);
+    err.details = errors;
+    throw err;
+  }
+}
+
+// CLI support so existing npm script/node invocation still works
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  try {
+    validateFeeds();
+    console.log('All feeds valid');
+  } catch (e) {
+    console.error(e);
+    process.exit(1);
   }
 }
