@@ -68,7 +68,7 @@
     "prettier": "^3.8.3",
     "rss-parser": "^3.13.0",
     "sass": "^1.100.0",
-    "sass-loader": "^16.0.8",
+    "sass-loader": "^17.0.0",
     "uglify-js": "^3.19.3",
     "webpack": "^5.107.2",
     "webpack-cli": "^7.0.2"
@@ -76,7 +76,7 @@
   "dependencies": {
     "@babel/eslint-parser": "^7.29.7",
     "concurrently": "^9.2.1",
-    "cssnano": "^7.1.9",
+    "cssnano": "^8.0.1",
     "dotenv": "^17.4.2",
     "escape-string-regexp": "^5.0.0",
     "file-loader": "^6.2.0",
