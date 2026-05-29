@@ -52,6 +52,13 @@ html {
     }
   }
 
+  .content:not(.under-large){
+    a:not(.footnote-backref) {
+      text-decoration: underline;
+      text-underline-offset: 0.2em;
+    }
+  }
+
   .web-content {
     padding-bottom: 3rem;
 
@@ -217,6 +224,7 @@ html {
 
   a {
     text-decoration: underline;
+    text-underline-offset: 0.2em;
   }
 
   p {

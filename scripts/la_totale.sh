@@ -1,1 +1,1 @@
-bundle up; pnpm up; cd tests; bundle up; pnpm up; cd ..; npx browserslist@latest; bundle exec rake "build:generate[prod]"; pnpm run build; bundle exec rake "build:generate[prod]"; say "Site généré, à tester.";
+bundle up --all; pnpm up --latest --recursive; cd tests; bundle up --all; pnpm up --latest --recursive; cd ..; npx browserslist@latest; bundle exec rake "build:generate[prod]"; pnpm run build; bundle exec rake "build:generate[prod]"; say "Site généré, à tester.";

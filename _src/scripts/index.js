@@ -48,8 +48,10 @@ ready(function () {
   });
 
   // Keyboard navigation: ← previous post, → next post
+  // with a debound/throttle to prevent accidental double navigation
+  // from a single key press
+  let navLocked = false;
   document.addEventListener('keydown', function (e) {
-    // Don't intercept if user is typing in an input/textarea or using modifiers
     if (
       e.target.tagName === 'INPUT' ||
       e.target.tagName === 'TEXTAREA' ||
@@ -65,7 +67,9 @@ ready(function () {
       link = document.querySelector('.nav-arrow.next a');
     }
 
-    if (link) {
+    if (link && !navLocked) {
+      navLocked = true;
+      setTimeout(() => (navLocked = false), 1000);
       link.click();
     }
   });

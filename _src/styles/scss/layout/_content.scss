@@ -72,6 +72,7 @@
       &:hover,
       &:focus {
         text-decoration: underline;
+        text-underline-offset: 0.2em;
         color: var(--compliment-color);
       }
     }
@@ -357,6 +358,7 @@ strong {
 a {
   .post-content & {
     text-decoration: underline;
+    text-underline-offset: 0.2em;
 
     &:hover {
       text-decoration: dotted;

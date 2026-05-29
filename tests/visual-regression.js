@@ -27,6 +27,7 @@ const tests = {
       home: '',
       web: 'web/',
       post: 'notes/1900-01-test-typo/',
+      partager: 'partager/'
     },
   },
   en: {
@@ -36,6 +37,7 @@ const tests = {
       home: '',
       dad: 'en/dad/',
       post: 'notes/1900-01-typo-test/',
+      about: 'en/about/'
     },
   },
 };

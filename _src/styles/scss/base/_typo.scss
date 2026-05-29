@@ -131,6 +131,7 @@ button.btn--link-like {
   &:hover,
   &:focus {
     text-decoration: underline;
+    text-underline-offset: 0.2em;
   }
 }
 

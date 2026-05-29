@@ -62,7 +62,7 @@
     "hasha": "^7.0.0",
     "hashmap": "^2.4.0",
     "include-media": "^2.0.0",
-    "npm": "^11.15.0",
+    "npm": "^11.16.0",
     "postcss": "^8.5.15",
     "postcss-cli": "^11.0.1",
     "postcss-loader": "^8.2.1",
@@ -72,11 +72,11 @@
     "sass-loader": "^17.0.0",
     "uglify-js": "^3.19.3",
     "webpack": "^5.107.2",
-    "webpack-cli": "^7.0.2"
+    "webpack-cli": "^7.0.3"
   },
   "dependencies": {
     "@babel/eslint-parser": "^7.29.7",
-    "concurrently": "^9.2.1",
+    "concurrently": "^10.0.0",
     "cssnano": "^8.0.1",
     "dotenv": "^17.4.2",
     "escape-string-regexp": "^5.0.0",
