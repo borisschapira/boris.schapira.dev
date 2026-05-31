@@ -1,9 +1,11 @@
 ---
 title: La mémoire, par un autre chemin
 subtitle: des outils pour m'aider à parler à mon fils
+translations:
+    en: memory-by-another-path
 ---
 
-Aujourd'hui, c'était l'oral du brevet de Rocky. Le brevet, ou Diplôme National du Brevet, c'est un examen qui a lieu à la fin de la troisième. Il est composé d'épreuves écrites et d'une épreuve orale, elle-même en deux parties : 5 minutes de présentation et 10 minutes de questions.
+Aujourd'hui, a eu lieu l'oral du brevet de Rocky. Le brevet, ou Diplôme National du Brevet, est un examen qui a lieu à la fin de la troisième. Il est composé d'épreuves écrites et d'une épreuve orale, elle-même en deux parties : 5 minutes de présentation et 10 minutes de questions.
 
 Le sujet ? Un projet interdisciplinaire que l'élève a mené au cours de l'année, s'inscrivant dans un parcours éducatif : citoyen, santé, artistique, etc. L'élève doit expliquer son travail, montrer ce qu'il a appris, et partager son engagement dans ce projet. L'objectif : évaluer la maîtrise du sujet, la capacité à s'exprimer clairement, et l'engagement personnel de l'élève.
 
@@ -13,7 +15,7 @@ Voilà pour le cadre. L'histoire, elle, commence ailleurs.
 
 ## Une histoire de famille
 
-Rocky a choisi de parler de son arrière-grand-père et de ses aventures pendant la Seconde Guerre mondiale. Mon oncle, son grand-oncle, nous a envoyé ses mémoires auto-éditées en début d'année, et Rocky a été très intéressé par ce récit de vie.
+Rocky a choisi de parler de son arrière-grand-père et de ses aventures pendant la Seconde Guerre mondiale. Mon oncle, son grand-oncle, nous avait envoyé ses mémoires auto-éditées en début d'année, et Rocky a été très intéressé par ce récit de vie.
 
 Il faut dire qu'on y trouve de quoi nourrir l'imaginaire d'un garçon de 15 ans. Un jeune homme passionné de littérature, en correspondance avec les grands auteurs de son époque, dont la vie est brusquement bousculée par la guerre. Parce qu'il est juif, il vit dans la peur des rafles.
 
@@ -31,7 +33,7 @@ Nous avons donc commencé à préparer son oral en nous appuyant sur une lecture
 
 Selon moi, il avait lu le livre de travers, ne comprenait pas les enjeux, et avec son handicap, nous n'arrivions pas à communiquer. Il restait bloqué sur sa compréhension initiale, j'étais très frustré, et lui aussi. On n'arrêtait pas de se disputer.
 
-Pourtant, j'essayais d'appliquer tout ce que je savais sur la communication avec lui : reformuler, poser des questions fermées. Mais m'y astreindre était difficile. J'ai lu tout ce que j'ai pu. Et j'ai compris, à mes dépens, que connaître les bonnes ressources et savoir comment les appliquer sont deux choses très différentes. La communication semblait souvent artificielle, et ma frustration grandissait, non pas envers lui, mais envers ma propre incapacité à me mettre à son niveau..
+Pourtant, j'essayais d'appliquer tout ce que je savais sur la communication avec lui : reformuler, poser des questions fermées. Mais m'y astreindre était difficile. J'ai lu tout ce que j'ai pu. Et j'ai compris, à mes dépens, que connaître les bonnes ressources et savoir comment les appliquer sont deux choses très différentes. La communication semblait souvent artificielle, et ma frustration grandissait, non pas envers lui, mais envers ma propre incapacité à me mettre à son niveau.
 
 Il fallait trouver autre chose.
 
@@ -41,7 +43,7 @@ Il fallait trouver autre chose.
 
 Alors je me suis outillé. J'ai créé le seul et unique agent de ma vie personnelle à ce jour : DaNuBe, un agent pour communiquer avec Rocky.
 
-L'agent est prompté sur Mistral, basé sur des ressources que j'ai pu trouver concernant la communication avec des enfants neuro divergents et sur les attendus de l'oral du DNB. Il décompose les questions en petites étapes, reformule et résume à chaque étape, et repose la même question à différents moments pour vérifier la cohérence. Il ne crée jamais de contenu pour lui. Il l'aide uniquement à trouver et structurer ses propres mots.
+L'agent est prompté sur Mistral, basé sur des ressources que j'ai trouvées concernant la communication avec des enfants neurodivergents et sur les attendus de l'oral du DNB. Il décompose les questions en petites étapes, reformule et résume à chaque étape, et repose la même question à différents moments pour vérifier la cohérence. Il ne crée jamais de contenu pour lui. Il l'aide uniquement à trouver et structurer ses propres mots.
 
 Sa définition complète est accessible ici : [DaNuBe](https://gist.github.com/borisschapira/a5cac0560c443924dcbfc7df21627157).
 
@@ -89,15 +91,15 @@ Au fil des semaines, l'oral s'est étoffé, a gagné en profondeur. Mais il lui 
 
 Première répétition : il a parlé pendant plus d'une heure. Il avait tellement de choses à dire. Nous avons donc entamé le processus d'écrémage : enlever, enlever, jusqu'à ce qu'il ne reste que l'essentiel.
 
-Pour le mettre en situation, j'ai organisé les répétitions dans les conditions d'un examen, en incarnant un jury. Je l'ai fait attendre au bout du couloir, puis je l'ai appelé par son nom de famille. J'ai présenté les bases de l'exercice, puis lui ai donné la parole sans rien dire, en prenant des notes. 
+Pour le mettre en situation, j'ai organisé les répétitions dans les conditions d'un examen, en incarnant un jury. Je l'ai fait attendre au bout du couloir, puis je l'ai appelé par son nom de famille. J'ai présenté les bases de l'exercice, puis lui ai donné la parole sans rien dire, en prenant des notes.
 
 Au début, il était très mal à l'aise. Le jeu de rôle était difficile pour lui. Il ne comprenait pas comment faire semblant et s'adressait à moi en brisant le quatrième mur. Mais après plusieurs essais, il a fini par se créer un personnage, par gagner en assurance. Il a compris à quoi servait cette mise en situation.
 
 Et pour que ce soit équitable, nous avons aussi inversé les rôles. Il a joué à faire le jury, et je suis venu présenter son oral. C'était très amusant, et ça lui a permis de mieux comprendre les attentes du jury, et de se mettre à leur place.
 
-Vint ensuite la présentation numérique. J'étais à l'aise pour l'aider : les consignes données sont cohérentes avec mes pratiques professionnelles. Si la présentation n'a pas vocation à être transmise, on privilégie peu de diapos, peu de texte, des visuels forts. L'occasion de passer deux heures ensemble, et de parler de droit en cherchant des visuels Creative Commons ou dans le domaine public. Cinq ou six visuels dans une présentation OnlyOffice, une diapositive dédiée aux sources si on lui demande. Fait.
+Est venue ensuite la présentation numérique. J'étais à l'aise pour l'aider : les consignes données sont cohérentes avec mes pratiques professionnelles. Si la présentation n'a pas vocation à être transmise, on privilégie peu de diapos, peu de texte, des visuels forts. L'occasion de passer deux heures ensemble, et de parler de droit en cherchant des visuels Creative Commons ou dans le domaine public. Cinq ou six visuels dans une présentation OnlyOffice, une diapositive dédiée aux sources si on lui demande. Fait.
 
-À deux jours de l'oral, nous étions encore à plus de 20 minutes, même avec un script bien tassé. En cause : quelques hésitations, des tics de language. 
+À deux jours de l'oral, nous étions encore à plus de 20 minutes, même avec un script bien tassé. En cause : quelques hésitations, des tics de langage.
 
 Comme l'audition est un très bon facteur de mémorisation pour lui, sa mère s'est enregistrée elle-même en lisant le script. Il l'a écouté plusieurs fois, pour mieux assimiler la structure, capturer le rythme, les intonations, les pauses.
 

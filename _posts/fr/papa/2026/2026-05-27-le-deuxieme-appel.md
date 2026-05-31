@@ -1,5 +1,7 @@
 ---
 title: Le deuxième appel
+translations:
+    en: the-second-call
 ---
 
 J'étais en réunion quand Rocky m'appelle. Je ne décroche pas. Normalement, les appels sont réservés aux urgences mais il a tendance à m'appeler pour dire qu'il fait beau. J'attends le second appel.

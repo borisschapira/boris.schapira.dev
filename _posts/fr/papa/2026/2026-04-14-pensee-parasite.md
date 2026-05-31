@@ -1,5 +1,7 @@
 ---
 title: Pensée parasite
+translations:
+    en: intrusive-thought
 ---
 
 Je marchais dans la rue, longeant des maisons, pour récupérer mon fils chez un ami. Un pas, puis l'autre, les maisons, alignées sur le côté, et soudain, un éclair dans ma tête : cette maison, là-bas, celle avec les volets bleus, elle n'est plus qu'un tas de pierres, qu'un nuage de poussière, qu'un sifflement.
