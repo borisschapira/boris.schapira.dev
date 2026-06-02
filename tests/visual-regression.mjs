@@ -7,14 +7,22 @@ import { expect } from 'chai';
 import pixelmatch from 'pixelmatch';
 import { PNG } from 'pngjs';
 import { launch } from 'puppeteer';
-import { dirname, resolve } from 'path';
+import { fileURLToPath } from 'url';
 import { rimrafSync } from 'rimraf';
 import open from 'open';
+import path from 'path';
 
-const TEST_DIR = './captures/test';
-const PROD_DIR = './captures/reference';
-const DIFF_DIR = './captures/diff';
-const TEST_URL = 'http://localhost:8080';
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const TEST_DIR = path.resolve(__dirname, '.','captures','test');
+const PROD_DIR = path.resolve(__dirname, '.','captures','reference');
+const DIFF_DIR = path.resolve(__dirname, '.','captures','diff');
+const SITE_DIR = path.resolve(__dirname, '..', '_site');
+
+const SERVER_HOST = 'localhost';
+const SERVER_PORT = 8080;
+const SERVER_URL = `http://${SERVER_HOST}:${SERVER_PORT}`;
+
 const DIFF_THRESHOLD = 0.2;
 const MAX_ACCEPTABLE_DIFF_PIXELS = 200;
 const CONCURRENCY = 4;
@@ -34,7 +42,7 @@ const tests = {
     locale: 'en-US,en',
     mode: 'dark',
     routes: {
-      home: '',
+      home: 'en/',
       dad: 'en/dad/',
       post: 'notes/1900-01-typo-test/',
       about: 'en/about/'
@@ -50,7 +58,7 @@ const contexts = {
 // ─── Helpers ──────────────────────────────────────────────
 
 function ensureDirForFile(filePath) {
-  mkdirSync(dirname(filePath), { recursive: true });
+  mkdirSync(path.dirname(filePath), { recursive: true });
 }
 
 function decodePNG(path) {
@@ -86,7 +94,7 @@ async function compareScreenshots(fileName) {
   });
 
   if (numDiffPixels > MAX_ACCEPTABLE_DIFF_PIXELS) {
-    const diffPath = resolve(`${DIFF_DIR}/${fileName}.png`);
+    const diffPath = path.resolve(`${DIFF_DIR}/${fileName}.png`);
     await writePNG(diff, diffPath);
     await open(diffPath);
   }
@@ -108,7 +116,7 @@ async function captureAndCompare(browser, { lang, locale, mode, size, viewport, 
     const testPath = `${TEST_DIR}/${fileName}.png`;
 
     ensureDirForFile(testPath);
-    await page.goto(`${TEST_URL}/${routeUrl}`, { waitUntil: 'networkidle0' });
+    await page.goto(`${SERVER_URL}/${routeUrl}`, { waitUntil: 'networkidle0' });
     await page.screenshot({ path: testPath, fullPage: route === 'post' });
 
     return compareScreenshots(fileName);
@@ -144,7 +152,7 @@ async function parallel(tasks, concurrency) {
  */
 function startServer() {
   return new Promise((resolve, reject) => {
-    const proc = spawn('http-server', ['../_site', '-p', '8080'], {
+    const proc = spawn('http-server', [SITE_DIR, '-p', SERVER_PORT], {
       stdio: ['ignore', 'pipe', 'pipe'],
     });
 

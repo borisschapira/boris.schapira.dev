@@ -14,11 +14,14 @@ const feedUris = [
   'en/dad/feed.xml',
 ];
 
-export function validateFeeds() {
+function validateFeeds() {
   const errors = [];
 
   for (const feedUri of feedUris) {
-    const feedPath = path.resolve('../_site/', feedUri);
+    const __filename = fileURLToPath(import.meta.url);
+    const __dirname = path.dirname(__filename);
+    const SITE_DIR = path.resolve(__dirname, '..', '_site');
+    const feedPath = path.resolve(SITE_DIR, feedUri);
     let feed;
     try {
       feed = fs.readFileSync(feedPath, 'utf-8');
@@ -45,13 +48,9 @@ export function validateFeeds() {
   }
 }
 
-// CLI support so existing npm script/node invocation still works
-if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  try {
+describe('🛜 Feeds are present and valid', function () {
+  it('validates feeds', function () {
+    // validateFeeds throws on failure which causes Mocha to fail the test
     validateFeeds();
-    console.log('All feeds valid');
-  } catch (e) {
-    console.error(e);
-    process.exit(1);
-  }
-}
+  });
+});
