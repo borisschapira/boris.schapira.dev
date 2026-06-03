@@ -14,9 +14,9 @@ import path from 'path';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const TEST_DIR = path.resolve(__dirname, '.','captures','test');
-const PROD_DIR = path.resolve(__dirname, '.','captures','reference');
-const DIFF_DIR = path.resolve(__dirname, '.','captures','diff');
+const TEST_DIR = path.resolve(__dirname, '.', 'captures', 'test');
+const PROD_DIR = path.resolve(__dirname, '.', 'captures', 'reference');
+const DIFF_DIR = path.resolve(__dirname, '.', 'captures', 'diff');
 const SITE_DIR = path.resolve(__dirname, '..', '_site');
 
 const SERVER_HOST = 'localhost';
@@ -35,7 +35,7 @@ const tests = {
       home: '',
       web: 'web/',
       post: 'notes/1900-01-test-typo/',
-      partager: 'partager/'
+      partager: 'partager/',
     },
   },
   en: {
@@ -45,7 +45,7 @@ const tests = {
       home: 'en/',
       dad: 'en/dad/',
       post: 'notes/1900-01-typo-test/',
-      about: 'en/about/'
+      about: 'en/about/',
     },
   },
 };
@@ -104,9 +104,18 @@ async function compareScreenshots(fileName) {
 
 /**
  * Take a screenshot for a single route/viewport combo using its own page.
+ * Accepts an optional `logs` array to capture console output from the page.
  */
-async function captureAndCompare(browser, { lang, locale, mode, size, viewport, route, routeUrl }) {
+async function captureAndCompare(
+  browser,
+  { lang, locale, mode, size, viewport, route, routeUrl },
+  logs = []
+) {
   const page = await browser.newPage();
+  // Capture all console logs from this page
+  page.on('console', msg => {
+    logs.push(msg.text());
+  });
   try {
     await page.emulateMediaFeatures([{ name: 'prefers-color-scheme', value: mode }]);
     await page.setExtraHTTPHeaders({ 'Accept-Language': locale });
@@ -187,30 +196,47 @@ describe('👀 screenshots are correct', function () {
   for (const [lang, { locale, mode, routes }] of Object.entries(tests)) {
     describe(`${lang} tests`, () => {
       let browser;
+      let page;
+      let logs = [];
 
       before(async () => {
         browser = await launch({
           headless: true,
           args: [`--lang=${locale}`],
         });
+        page = await browser.newPage();
+        page.on('console', msg => {
+          logs.push(msg.text());
+        });
       });
 
-      after(() => browser.close());
+      beforeEach(() => {
+        logs = [];
+      });
+
+      after(async () => {
+        await page.close();
+        await browser.close();
+      });
 
       for (const [route, routeUrl] of Object.entries(routes)) {
         it(`${route} matches reference screenshots`, async () => {
           const tasks = Object.entries(contexts).map(
             ([size, viewport]) =>
               () =>
-                captureAndCompare(browser, {
-                  lang,
-                  locale,
-                  mode,
-                  size,
-                  viewport,
-                  route,
-                  routeUrl,
-                })
+                captureAndCompare(
+                  browser,
+                  {
+                    lang,
+                    locale,
+                    mode,
+                    size,
+                    viewport,
+                    route,
+                    routeUrl,
+                  },
+                  logs
+                )
           );
 
           const results = await parallel(tasks, CONCURRENCY);

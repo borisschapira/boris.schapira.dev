@@ -52,7 +52,7 @@ html {
     }
   }
 
-  .content:not(.under-large){
+  .content:not(.under-large) {
     a:not(.footnote-backref) {
       text-decoration: underline;
       text-underline-offset: 0.2em;
