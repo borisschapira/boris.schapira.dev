@@ -81,7 +81,7 @@
     "escape-string-regexp": "^5.0.0",
     "file-loader": "^6.2.0",
     "js-md5": "^0.8.3",
-    "js-yaml": "^4.1.1",
+    "js-yaml": "^4.2.0",
     "slugify": "^1.6.9",
     "touchtap-event": "^2.0.2"
   }
