@@ -67,7 +67,6 @@
     "http-server": "^14.1.1",
     "include-media": "^2.0.0",
     "mocha": "^11.7.6",
-    "npm": "^11.16.0",
     "open": "^11.0.0",
     "pixelmatch": "^7.2.0",
     "pngjs": "^7.0.0",
@@ -96,5 +95,8 @@
     "js-yaml": "^4.2.0",
     "slugify": "^1.6.9",
     "touchtap-event": "^2.0.2"
+  },
+  "engines": {
+    "pnpm": ">=11"
   }
 }
