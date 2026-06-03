@@ -20,9 +20,9 @@ module Jekyll
     def strip_html(input)
       empty = ''.freeze
       input.to_s
-           .gsub(/<script.*?<\/script>/m, empty)
+           .gsub(/<script.*?<\/script>/mi, empty)
            .gsub(/<!--.*?-->/m, empty)
-           .gsub(/<style.*?<\/style>/m, empty)
+           .gsub(/<style.*?<\/style>/mi, empty)
            .gsub(/<.*?>/m, empty)
            .gsub(/\n/m, empty)
            .squeeze(' ')
