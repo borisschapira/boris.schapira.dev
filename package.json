@@ -71,7 +71,7 @@
     "sass-loader": "^16.0.8",
     "uglify-js": "^3.19.3",
     "webpack": "^5.107.2",
-    "webpack-cli": "^7.0.2"
+    "webpack-cli": "^7.0.3"
   },
   "dependencies": {
     "@babel/eslint-parser": "^7.29.7",
