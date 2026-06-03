@@ -19,7 +19,7 @@
     "open": "^11.0.0",
     "pixelmatch": "^7.2.0",
     "pngjs": "^7.0.0",
-    "puppeteer": "^24.43.1",
+    "puppeteer": "^25.1.0",
     "rimraf": "^6.1.3"
   }
 }
