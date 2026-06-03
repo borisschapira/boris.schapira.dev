@@ -61,7 +61,7 @@
     "hasha": "^7.0.0",
     "hashmap": "^2.4.0",
     "include-media": "^2.0.0",
-    "npm": "^11.15.0",
+    "npm": "^11.16.0",
     "postcss": "^8.5.15",
     "postcss-cli": "^11.0.1",
     "postcss-loader": "^8.2.1",
