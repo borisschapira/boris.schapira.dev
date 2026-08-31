@@ -125,10 +125,10 @@ importers:
         version: 17.0.0(sass@1.103.1)(webpack@5.109.2)
       webpack:
         specifier: ^5.109.2
-        version: 5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.2)
+        version: 5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.3)
       webpack-cli:
-        specifier: ^7.2.2
-        version: 7.2.2(js-yaml@5.3.0)(json5@2.2.3)(webpack@5.109.2)
+        specifier: ^7.2.3
+        version: 7.2.3(js-yaml@5.3.0)(json5@2.2.3)(webpack@5.109.2)
 
 packages:
 
@@ -1559,6 +1559,7 @@ packages:
   eslint@9.39.4:
     resolution: {integrity: sha512-XoMjdBOwe/esVgEvLmNsD3IRHkm7fbKIUGvrleloJXUZgDHig2IPWNniv+GwjyJXzuNqVjlr5+4yVUZjycJwfQ==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
+    deprecated: This version is no longer supported. Please see https://eslint.org/version-support for other options.
     hasBin: true
     peerDependencies:
       jiti: '*'
@@ -3115,14 +3116,14 @@ packages:
   webdriver-bidi-protocol@0.4.2:
     resolution: {integrity: sha512-VSV+fzfChirL3e7jay2yUC7B4HQCGtEWEg/MSSQbK+qWbqeGlRLlXTzPpYr3XGUvbpDHumWZBJxgesg4N7dbtA==}
 
-  webpack-cli@7.2.2:
-    resolution: {integrity: sha512-lD0pALneslq8FfV+rwvm1BMW0AFAJrHHhNupAGN4asYjMvqrtRsenU4iKpiBo09gS4ntMxKGUxl9jhTEzVt0oA==}
+  webpack-cli@7.2.3:
+    resolution: {integrity: sha512-vDFU7jrfCctnN7jJQWPl+V26B51GLp11prVZXg50oeonsgeBzSTJEWmXkjHsOjTgMjlPOQM8GWLh33X9RN/0ow==}
     engines: {node: '>=20.9.0'}
     hasBin: true
     peerDependencies:
       js-yaml: ^4.0.0 || ^5.0.0
       json5: ^2.2.3
-      toml: ^3.0.0 || ^4.0.0
+      toml: ^3.0.0 || ^4.0.0 || ^5.0.0
       webpack: ^5.101.0
       webpack-bundle-analyzer: ^4.0.0 || ^5.0.0
       webpack-dev-server: ^5.0.0 || ^6.0.0
@@ -4279,7 +4280,7 @@ snapshots:
       '@babel/core': 8.0.1
       find-up: 5.0.0
     optionalDependencies:
-      webpack: 5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.2)
+      webpack: 5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.3)
 
   babel-plugin-polyfill-corejs3@1.0.0(@babel/core@8.0.1):
     dependencies:
@@ -4973,7 +4974,7 @@ snapshots:
     dependencies:
       loader-utils: 2.0.4
       schema-utils: 3.3.0
-      webpack: 5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.2)
+      webpack: 5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.3)
 
   fill-range@7.1.1:
     dependencies:
@@ -5495,7 +5496,7 @@ snapshots:
       jest-worker: 27.5.1
       schema-utils: 4.3.3
       terser: 5.50.0
-      webpack: 5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.2)
+      webpack: 5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.3)
     optionalDependencies:
       cssnano: 8.0.8(postcss@8.5.26)
       csso: 5.0.5
@@ -5776,7 +5777,7 @@ snapshots:
       postcss: 8.5.26
       semver: 7.8.5
     optionalDependencies:
-      webpack: 5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.2)
+      webpack: 5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.3)
     transitivePeerDependencies:
       - typescript
 
@@ -6101,7 +6102,7 @@ snapshots:
   sass-loader@17.0.0(sass@1.103.1)(webpack@5.109.2):
     optionalDependencies:
       sass: 1.103.1
-      webpack: 5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.2)
+      webpack: 5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.3)
 
   sass@1.103.1:
     dependencies:
@@ -6441,7 +6442,7 @@ snapshots:
 
   webdriver-bidi-protocol@0.4.2: {}
 
-  webpack-cli@7.2.2(js-yaml@5.3.0)(json5@2.2.3)(webpack@5.109.2):
+  webpack-cli@7.2.3(js-yaml@5.3.0)(json5@2.2.3)(webpack@5.109.2):
     dependencies:
       '@discoveryjs/json-ext': 1.1.0
       commander: 14.0.3
@@ -6450,7 +6451,7 @@ snapshots:
       import-local: 3.2.0
       interpret: 3.1.1
       rechoir: 0.8.0
-      webpack: 5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.2)
+      webpack: 5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.3)
       webpack-merge: 6.0.1
     optionalDependencies:
       js-yaml: 5.3.0
@@ -6464,7 +6465,7 @@ snapshots:
 
   webpack-sources@3.5.1: {}
 
-  webpack@5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.2):
+  webpack@5.109.2(cssnano@8.0.8(postcss@8.5.26))(csso@5.0.5)(postcss@8.5.26)(webpack-cli@7.2.3):
     dependencies:
       '@types/estree': 1.0.9
       '@types/json-schema': 7.0.15
@@ -6487,7 +6488,7 @@ snapshots:
       watchpack: 2.5.2
       webpack-sources: 3.5.1
     optionalDependencies:
-      webpack-cli: 7.2.2(js-yaml@5.3.0)(json5@2.2.3)(webpack@5.109.2)
+      webpack-cli: 7.2.3(js-yaml@5.3.0)(json5@2.2.3)(webpack@5.109.2)
     transitivePeerDependencies:
       - '@minify-html/node'
       - '@swc/core'
