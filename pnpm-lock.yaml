@@ -43,8 +43,8 @@ importers:
         specifier: ^8.0.0
         version: 8.0.0(postcss@8.5.28)
       autoprefixer:
-        specifier: ^10.5.5
-        version: 10.5.5(postcss@8.5.28)
+        specifier: ^10.5.6
+        version: 10.5.6(postcss@8.5.28)
       babel-loader:
         specifier: ^10.1.1
         version: 10.1.1(@babel/core@8.0.1)(webpack@5.110.3)
@@ -1007,8 +1007,8 @@ packages:
   async@3.2.6:
     resolution: {integrity: sha512-htCUDlxyyCLMgaM3xXg0C0LW2xqfuQ6p05pCEIsXuyQ+a1koYKTuBMzRNwmybfLgvJDMd0r1LTn4+E0Ti6C2AA==}
 
-  autoprefixer@10.5.5:
-    resolution: {integrity: sha512-uiRYvQYe/nNSzBJ7OUnd2/TZVsAdob3blml44teEpee9Cc1f4rGZFewO+JT3Wo8mgFOSzNqes4FHZn/Qz8WOuw==}
+  autoprefixer@10.5.6:
+    resolution: {integrity: sha512-HiH4oYNc5+DQEx/b8FPfMj+WHH/WWUBmbN5r1Uf/ixtfyFkk+wGIlfJT/RD5eAyzlwkeYRtZUCI8qrEi26pl2g==}
     engines: {node: ^10 || ^12 || >=14}
     hasBin: true
     peerDependencies:
@@ -4096,7 +4096,7 @@ snapshots:
 
   async@3.2.6: {}
 
-  autoprefixer@10.5.5(postcss@8.5.28):
+  autoprefixer@10.5.6(postcss@8.5.28):
     dependencies:
       browserslist: 4.28.9
       caniuse-lite: 1.0.30001810
