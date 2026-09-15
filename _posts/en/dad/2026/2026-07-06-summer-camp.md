@@ -15,7 +15,7 @@ He pauses to think. He wants to ask me something but doesn't dare. Finally, he g
 
 I'm caught off guard. That's not your everyday question.
 
-> – Wait, can you imagine *your* mom signing *me* up for summer camp?  
+> – Wait, can you imagine _your_ mom signing _me_ up for summer camp?  
 > – Well yeah! Imagine she's fed up with you, because you're in a mood. And Mom wants some time to herself. So she signs you up for camp, packs your bag, and off you go with the other dads!  
 > – … And what would we do there?  
 > – Oh, I don't know. Old people stuff!  

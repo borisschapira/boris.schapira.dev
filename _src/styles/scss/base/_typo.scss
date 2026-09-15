@@ -212,4 +212,7 @@ blockquote,
     display: block;
     margin-top: 1em;
   }
+  cite::before {
+    content: '— ';
+  }
 }

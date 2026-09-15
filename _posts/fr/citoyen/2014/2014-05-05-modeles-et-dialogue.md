@@ -5,7 +5,7 @@ tags:
 ---
 
 > Our ordinary conceptual system, in terms of which we both think and act, is fundamentally metaphorical in nature.  
->  <cite>George Lakoff, [Metaphors We Live By](http://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html 'Metaphors We Live By, Lakoff, Johnson')</cite>
+> <cite>George Lakoff, [Metaphors We Live By](http://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html 'Metaphors We Live By, Lakoff, Johnson')</cite>
 
 Est-ce que notre monde est profondément influencé par la façon dont nous le représentons par le langage ou est-ce le langage que nous construisons pour adapter le monde à notre perception... difficile de le dire. Ce qui est sûr, c'est que la façon dont nous disons les choses explique bien des choses sur la façon dont nous les percevons ou souhaitons qu'elles évoluent.
 

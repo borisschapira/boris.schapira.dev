@@ -26,7 +26,7 @@ Bien que nos députés s'y soient mis à 35 (incroyable) pour le signer, ce text
 ## Pourquoi on pourrait _a priori_ être d'accord
 
 > Software is eating the world  
->  <cite>[Marc Andressen](https://fr.wikipedia.org/wiki/Marc_Andreessen 'Marc Andreessen ", Wikipedia')</cite>
+> <cite>[Marc Andressen](https://fr.wikipedia.org/wiki/Marc_Andreessen 'Marc Andreessen ", Wikipedia')</cite>
 
 Le monde logiciel fait partie intégrante de notre vie : la plupart des appareils qui étaient auparavant mécaniques embarque désormais des micro-contrôleurs, qui exécutent des routines écrites par des développeurs. Tous les secteurs sont progressivement concernés par cette révolution qui altère profondément le paysage économique mondial depuis une cinquantaine d'années, avec une fulgurante accélération ces 15 dernières années, grâce au Web.
 
@@ -41,7 +41,7 @@ Bref, si on s'arrêtait là, on pourrait se dire qu'en effet, le _codage_ a sa p
 ### Coder n'est pas jouer
 
 > La science informatique est une science formelle, dont l'objet d'étude est le calcul au sens large, c'est-à-dire non pas exclusivement arithmétique, mais en rapport avec tout type d'information que l'on peut représenter de manière symbolique par une suite de nombres.  
->  [Wikipedia](https://fr.wikipedia.org/wiki/Informatique#Science_informatique 'Science Informatique ", Wikipedia')
+> [Wikipedia](https://fr.wikipedia.org/wiki/Informatique#Science_informatique 'Science Informatique ", Wikipedia')
 
 L'informatique englobe un certain nombre de champs d'études qui vont bien au-delà du _code_. Car le _code_ n'est qu'une façon de dire ce qu'on veut à une machine. Là où la science informatique a une vraie valeur, c'est dans sa définition de grands concepts d'infrastructure, d'algorithmie, de stockage… qui permettent de bien définir ce qu'on veut. Apprendre le code à des élèves ne les fera pas devenir chef de chantier, ça leur donnera uniquement une pelle pour creuser. Un peu comme si, du français, on n'apprenait que les mots, mais pas la grammaire, la conjugaison, l'analyse de textes de grandes auteurs…
 

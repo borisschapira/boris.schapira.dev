@@ -9,6 +9,6 @@ title: 'Pourquoi blogger ? &#124; Why do we blog ?'
 > The blog represents the first time in human history that any individual can have a voice on a level playing field with government, religion, and corporations. One blogger can start an investigation, provide an answer, or provoke an uprising that domination systems cannot control.
 >
 > Blogs are ideal for any writer, and the blogosphere is where every writer must be.  
->  <cite>Angelo Ingrid</cite>
+> <cite>Angelo Ingrid</cite>
 
 Trouvé sur [Transnets](http://pisani.blog.lemonde.fr/2007/07/12/ecrire-bloguer/), le blog de [Francis Pisani](http://pisani.blog.lemonde.fr/a-propos/).

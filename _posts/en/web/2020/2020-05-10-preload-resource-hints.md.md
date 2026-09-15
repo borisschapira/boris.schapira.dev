@@ -7,7 +7,6 @@ canonical_dismissed: true
 description: >-
     Use preload and the Resource Hints to increase the perception of speed by influencing the order in which these resources are fetched and executed.
 
-
 tags:
     - 'Performance Web'
     - Network

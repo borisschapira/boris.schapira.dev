@@ -9,7 +9,7 @@ subtitle: '\#HeForShe'
 ---
 
 > Gender equality is your issue too  
->  <cite>Emma Watson, [Discours aux Nations Unies](https://www.youtube.com/watch?v=Q0Dg226G2Z8) ([traduction française](http://www.unwomen.org/fr/news/stories/2014/9/emma-watson-gender-equality-is-your-issue-too))</cite>
+> <cite>Emma Watson, [Discours aux Nations Unies](https://www.youtube.com/watch?v=Q0Dg226G2Z8) ([traduction française](http://www.unwomen.org/fr/news/stories/2014/9/emma-watson-gender-equality-is-your-issue-too))</cite>
 
 <!-- more -->
 

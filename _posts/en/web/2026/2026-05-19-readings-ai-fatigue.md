@@ -12,7 +12,9 @@ One of them shared with me an article by Siddhant Khare, who lived that same rea
 
 His article, "[AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)", haunts me, as it significantly completes what I had written.
 
-{% capture note %} **NOTE** There is no need to come tell me that AI is an ecological and economic waste; I am aware. What interests me is the fact that these tools are, today, a reality, and that this reality has human and organizational consequences.
+{% capture note %} **NOTE** 
+
+There is no need to come tell me that AI is an ecological and economic waste; I am aware. What interests me is the fact that these tools are, today, a reality, and that this reality has human and organizational consequences.
 
 We can talk about how difficult it is to do without this technology in a competitive landscape where it is used massively, while also knowing it is not profitable in the long run. But that is not the subject of this specific post.{% endcapture note %} {% include note.html.liquid content=note %}
 

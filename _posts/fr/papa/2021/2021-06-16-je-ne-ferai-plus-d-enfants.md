@@ -42,7 +42,7 @@ Et pourtant, en tant qu'homme, je n'ai jamais eu à porter le poids de la contra
 
 Je sais que la science est positive, que c'est un des modes de contraception les plus efficaces, mais je reste perturbé par la présence de cet objet en elle dont les effets sont connus et pourtant rarement énoncés : menstruations anormalement abondantes et prolongées, saignements intermédiaires, douleurs abdominales, anémie (trop peu de globules rouges sains dans le sang).
 
-Je n'ai pas toujours su tout ça. Et parfois, je vais être honnête, je n'ai pas voulu savoir. Et puis, à un moment, ça m'est apparu comme une évidence, comme un *possible* : si je me contraceptais moi-même, elle ne serait plus obligée de vivre ça.
+Je n'ai pas toujours su tout ça. Et parfois, je vais être honnête, je n'ai pas voulu savoir. Et puis, à un moment, ça m'est apparu comme une évidence, comme un _possible_ : si je me contraceptais moi-même, elle ne serait plus obligée de vivre ça.
 
 Outre le préservatif masculin, les possibilités pour les hommes sont, à ma connaissance :
 

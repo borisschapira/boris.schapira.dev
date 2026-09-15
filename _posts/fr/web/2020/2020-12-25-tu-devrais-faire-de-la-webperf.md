@@ -2,7 +2,6 @@
 title: >-
     Tu devrais faire de la WebPerf
 
-
 tags:
     - 'Performance Web'
 slug: tu-devrais-faire-de-la-webperf

@@ -6,7 +6,7 @@ tags:
 ---
 
 > Arrivé à un certain état, il est indécent de vivre plus longtemps.  
->  <cite>Nietzsche</cite>
+> <cite>Nietzsche</cite>
 
 Si y a bien un navigateur qui refuse de quitter proprement le monde numérique, c'est bien Internet Explorer 6.
 

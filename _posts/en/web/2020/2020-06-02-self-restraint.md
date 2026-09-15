@@ -3,7 +3,6 @@ title: 'Self Restraint'
 description: >-
     A short thought on the state of the Web and our individual responsibilities.
 
-
 tags:
     - 'Performance Web'
     - JavaScript

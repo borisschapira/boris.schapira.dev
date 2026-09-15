@@ -7,7 +7,6 @@ canonical_dismissed: true
 description: >-
     For a few years now, Google has been pushing an ambiguous metric: Time To Interactive (TTI). What does it mean? Let's define it and explain how and when to use it (or not).﻿
 
-
 cloudinary_logo: dareboost-logo
 thumbnail_background: /assets/images/2019-05-16/carnival.jpg
 tags:

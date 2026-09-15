@@ -4,7 +4,6 @@ subtitle: la web performance pour les décideur·euses Web & Marketing
 description: >-
     Les meilleures pratiques en matière de performances web sont consensuelles et largement acceptées, mais comment les valoriser d’un point de vue commercial ?
 
-
 last_date: 2023-05-10
 events:
     - name: 'We Love Speed 2023'

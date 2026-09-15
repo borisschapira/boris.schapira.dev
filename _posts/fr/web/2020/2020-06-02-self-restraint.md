@@ -3,7 +3,6 @@ title: 'Maîtrise de soi'
 description: >-
     Une brève réflexion sur l'état du Web et nos responsabilités individuelles.
 
-
 tags:
     - 'Performance Web'
     - JavaScript

@@ -17,7 +17,7 @@ Exemple des idées reçues que je rencontre chaque jour chez mon client actuel:
 - Les Traders n'ont pas de solution miracle pour gagner beaucoup d'argent très vite.
 
     > There is no such thing as a free lunch  
-    >  <cite>[Milton Friedman](https://fr.wikipedia.org/wiki/Milton_Friedman)) </cite>
+    > <cite>[Milton Friedman](https://fr.wikipedia.org/wiki/Milton_Friedman)) </cite>
 
 - Corrélation et causalité sont des termes proches mais dissociés. Si les évènements A et B interviennent en même temps à plusieurs reprises, rien ne dit que A entraine B. Garder ça en tête permet de prendre avec recul les analyses (financières, politiques ou au bistrot du coin…) qu'on nous présente comme irréfutables !
 
