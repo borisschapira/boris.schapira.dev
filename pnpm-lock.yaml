@@ -34,8 +34,8 @@ importers:
         specifier: ^7.8.3
         version: 7.8.3(@babel/core@8.0.5)
       '@babel/plugin-transform-runtime':
-        specifier: ^8.0.1
-        version: 8.0.1(@babel/core@8.0.5)
+        specifier: ^8.0.6
+        version: 8.0.6(@babel/core@8.0.5)
       '@babel/preset-env':
         specifier: ^8.0.5
         version: 8.0.5(@babel/core@8.0.5)
@@ -555,8 +555,8 @@ packages:
     peerDependencies:
       '@babel/core': ^8.0.0
 
-  '@babel/plugin-transform-runtime@8.0.1':
-    resolution: {integrity: sha512-MPDpKBrxn+thQay3eJmUiSeHswiT7MkINb48hHkX6OzodB149PKq1kred+lpMebrDzHA+G1ekCQnlYSkyEqAOw==}
+  '@babel/plugin-transform-runtime@8.0.6':
+    resolution: {integrity: sha512-2djup+i7z4taCN9VCJsmPNC0GT5A0FhI+S0tZwK+FRDZdaEOQUYVmfKOg/hIKhMBXjOFxEsBHvGE0Thqj71edA==}
     engines: {node: ^22.18.0 || >=24.11.0}
     peerDependencies:
       '@babel/core': ^8.0.0
@@ -3597,7 +3597,7 @@ snapshots:
       '@babel/core': 8.0.5
       '@babel/helper-plugin-utils': 8.0.1(@babel/core@8.0.5)
 
-  '@babel/plugin-transform-runtime@8.0.1(@babel/core@8.0.5)':
+  '@babel/plugin-transform-runtime@8.0.6(@babel/core@8.0.5)':
     dependencies:
       '@babel/core': 8.0.5
       '@babel/helper-module-imports': 8.0.0
