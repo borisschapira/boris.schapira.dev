@@ -54,7 +54,7 @@
     "chai": "^6.2.2",
     "concat-cli": "^4.0.0",
     "concurrently": "^10.0.5",
-    "cssnano": "^9.1.0",
+    "cssnano": "^9.2.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-chai-expect": "^4.1.0",
     "eslint-plugin-import": "^2.32.0",
