@@ -232,6 +232,10 @@ author:
     - name: linkedin
       title: LinkedIn
       url: 'https://linkedin.com/in/borisschapira'
+    - name: vutuv
+      title: "Vutuv"
+      nick: "@boris_schapira@vutuv.de"
+      url: https://vutuv.de/boris_schapira
     - name: mastodon
       title: "Mastodon (perso)"
       nick: "@borisschapira@framapiaf.org"
