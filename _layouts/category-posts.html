@@ -1,0 +1,21 @@
+---
+layout: default_pagination
+---
+{% if page.locale %}
+  {% assign locale_size = page.locale|size %}
+  {% if locale_size > 0 %}{% assign has_locale = true %}{% else %}{% assign has_locale = false %}{% endif %}
+{% endif %}{% if page.category %}
+  {% assign the_posts=site.categories[page.category] %}
+{% else %}
+  {% assign the_posts=site.posts %}
+{% endif %}{% if has_locale %}
+  {% assign the_posts=the_posts| where:"locale", page.locale %}
+{% endif %}{% if page.url %}
+  {% assign the_url = page.url %}
+{% else %}
+{% assign the_url = site.url %}
+{% endif %}
+
+{% for post in the_posts -%}
+   {%- include post.html.liquid postPage=false post=post displayCategory=displayCategory -%}
+{%- endfor %}

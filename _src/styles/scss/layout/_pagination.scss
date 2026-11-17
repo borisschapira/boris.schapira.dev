@@ -9,7 +9,6 @@
   justify-content: center;
   margin: 3em auto;
   padding: 0;
-  color: var(--color-text);
   max-width: 15rem;
   li {
     flex-grow: 1;
@@ -23,7 +22,7 @@
       border: 2px solid;
       border-color: var(--color-main);
       background-color: var(--color-main);
-      color: #fff;
+      color: var(--color-main-grayfade);
     }
     a:hover {
       background: none;
