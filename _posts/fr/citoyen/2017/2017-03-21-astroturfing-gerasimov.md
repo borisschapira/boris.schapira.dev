@@ -1,5 +1,6 @@
 ---
 title: 'Anesthésier les consciences'
+serie: Présidentielles
 ---
 
 > Dès lors, nous sommes bien plus sensibles à nos réactions primaires et les élections présidentielles peuvent se jouer sur les personnes. Qui sera le candidat le plus inconsciemment rassurant ? le moins effrayant ? Qui saura le mieux bercer une nation devenue anesthésiée par la multitude de petites phrases et de coups lachés par les différents camps pendant ces derniers mois de campagne ? <cite>"[Anesthésier les consciences : le web au service de la guerre politique](https://notes.desbenoit.net/astroturfing-gerasimov)", par Sébastien Desbenoit</cite>

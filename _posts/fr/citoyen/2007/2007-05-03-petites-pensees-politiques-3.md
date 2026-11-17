@@ -3,6 +3,7 @@ title: 'Elections présidentielles 2007 #3'
 tags:
     - Débat
     - Présidentielles
+serie: Présidentielles
 ---
 
 Je retire ce que je disais, les médias n'ont pas attendu la fin de l'élection présidentielle pour dire qui a été le meilleur dans le débat : un sondage Opinionway pour le Figaro et LCI leur permet d'affirmer la supériorité de Nicolas Sarkozy pour 53 % des 978 français interrogés (contre 37 % pour la candidate Mme Royal).

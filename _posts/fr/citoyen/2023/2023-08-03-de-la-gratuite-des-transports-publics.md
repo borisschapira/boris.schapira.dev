@@ -4,7 +4,7 @@ translations:
     en: public-transport-need-to-be-free
 ---
 
-Les transports publics sont un service public. Comme les routes, les écoles, les hôpitaux, les bibliothèques, les parcs et jardins, etc. 
+Les transports publics sont un service public. Comme les routes, les écoles, les hôpitaux, les bibliothèques, les parcs et jardins, etc.
 
 Et pourtant, ils sont jugés comme une activité commerciale. Et cette activité commerciale est jugée "en déficit" par les autorités publiques. Et donc, on nous dit qu'il faut faire payer les usagers dvantage pour "équilibrer les comptes".
 

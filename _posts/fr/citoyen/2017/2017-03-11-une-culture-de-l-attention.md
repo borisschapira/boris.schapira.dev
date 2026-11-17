@@ -1,5 +1,6 @@
 ---
 title: "Une culture de l'attention"
+serie: Présidentielles
 ---
 
 Notre existence numérique se mesure quasi-exclusivement à l'attention que nous arrivons à capturer. Cette tendance n'a rien de nouveau et rejoint le concept du "quart d’heure de célébrité" inventé par Andy Warhol pour désiner l'attention fugace des médias à laquelle chacun aspirerait en secret. Maintenant qu'Internet et les réseaux sociaux ont fait de nous tous des médias potentiels, je trouve que la tendance s'accélère.

@@ -4,7 +4,7 @@ title: Une soirée type
 
 Une soirée type à la maison, ça commence tôt.
 
-**18h45.**  On sonne la cloche, et c'est le signal pour que les enfants descendent à la cuisine mettre la table.
+**18h45.** On sonne la cloche, et c'est le signal pour que les enfants descendent à la cuisine mettre la table.
 
 **19h00.** On re-sonne la cloche, parce que rien ne s'est passé.
 

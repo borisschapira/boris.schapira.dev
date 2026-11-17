@@ -1,5 +1,6 @@
 ---
 title: 'Devant le (premier ?) débat du (premier ?) tour'
+serie: Présidentielles
 ---
 
 Premier débat car il en faudrait un autre pour voir l'ensemble des candidats. Premier car un second tour avec Marine Le Pen n'est pas vraiment un second tour. Notre élection est devenue une élection à un tour et nous faisons semblant de ne pas le voir.

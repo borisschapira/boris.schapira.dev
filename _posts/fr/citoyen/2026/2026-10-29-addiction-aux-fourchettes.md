@@ -31,8 +31,7 @@ Mettre tous les usages dans le même panier du "temps d'écran", ça permet d'ef
 - Les démarches administratives dématérialisées ;
 - Les conversations privées avec nos proches, nos communautés, nos collègues ou camarades ;
 - La création, l'apprentissage, la lecture ;
-- La consommation de contenus culturels, d'information, de divertissement ;
-Et, enfin, la consommation passive de flux algorithmiques.
+- La consommation de contenus culturels, d'information, de divertissement ; Et, enfin, la consommation passive de flux algorithmiques.
 
 Traiter une heure de programmation, une heure de visio avec sa grand-mère et une heure de défilement infini sur TikTok comme un seul et même comportement relevant de la pathologie relève de la paresse intellectuelle pure.
 
