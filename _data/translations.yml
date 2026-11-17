@@ -1,4 +1,5 @@
 en:
+  "Afficher les contenus": "Display content"
   "À propos": "About"
   "a-propos": "about"
   "abandonné": "discontinued"
@@ -45,6 +46,7 @@ en:
   "Suivant :": "Next:"
   "sur": "on"
   "ticket": "issue"
+  "Tout": "All"
   "Tous les articles": "All blog posts"
   "Un ruban rose": "A pink ribbon"
   "Vous êtes abonné·e au flux des articles": "You subscribed to my posts"

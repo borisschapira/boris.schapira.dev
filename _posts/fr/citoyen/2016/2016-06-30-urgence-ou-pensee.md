@@ -5,11 +5,11 @@ tags:
 ---
 
 > Et plus ça dure, plus le refrain s'épuise. Faire vite, répondre tout de suite ! Entrer dans la course-poursuite en se disant qu'après tout, on a les jambes pour reprendre le dessus. Et si finalement, c'était une partie du piège ? Tant que l'on court, on oublie de regarder autour. Si cette urgence nous empêche de penser, quelles blessures peut-elle bien panser ?  
-> <cite>"[État d'urgence : plus c'est long, moins c'est bon #DATAGUEULE 58](https://www.youtube.com/watch?v=uq72XHngz9M)"</cite>
+> <cite>"[État d'urgence : plus c'est long, moins c'est bon #DATAGUEULE 58](https://www.youtube.com/watch?v=DaRYiyQmu2o)"</cite>
 
 <!-- more -->
 
-{% include media/youtube.html.liquid id="uq72XHngz9M" title="
+{% include media/youtube.html.liquid id="DaRYiyQmu2o" title="
 État d'urgence : plus c'est long, moins c'est bon - #DATAGUEULE 58" %}
 
 Réfléchir n'est pas évident quand le monde nous incite à rester des crétins facilement manipulables. Pour ça, rien de plus simple que la peur qui, si elle a des raisons d'exister (la menace terroriste, par exemple, mais le travail est aussi un sujet angoissant), est savamment utilisée pour contenir les foules. S'en suit [une progressive dérive autoritaire](http://www.slate.fr/story/119461/france-derive-autoritaire) qui tait son nom et dans laquelle il serait facile de broyer du noir.

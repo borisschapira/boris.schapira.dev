@@ -16,6 +16,62 @@ layout: default_pagination
 {% assign the_url = site.url %}
 {% endif %}
 
+<div class="reveal-control">
+  <input type="checkbox" id="reveal-articles">
+  <label for="reveal-articles">{{ "Afficher les contenus" | t: page.locale }}</label>
+</div>
 {% for post in the_posts -%}
-   {%- include post.html.liquid postPage=false post=post displayCategory=displayCategory -%}
+   {%- include post.html.liquid postPage=true hiddenContent=true post=post displayCategory=displayCategory -%}
 {%- endfor %}
+<script>
+  (() => {
+  const content = document.getElementById('main');
+  const toggle = document.getElementById('reveal-articles');
+
+  // Abort and leave the pure-CSS fallback active if elements or API are missing
+  if (!content || !toggle || !('IntersectionObserver' in window)) return;
+
+  const articles = content.querySelectorAll('article');
+  if (!articles.length) return;
+
+  // Switch CSS from baseline mode to IntersectionObserver mode
+  content.classList.add('js-enhanced');
+
+  let observer = null;
+  let revealedCount = 0;
+
+  const startObserving = () => {
+    if (observer) return;
+
+    observer = new IntersectionObserver(
+      (entries, obs) => {
+        for (const entry of entries) {
+          if (!entry.isIntersecting) continue;
+
+          entry.target.classList.add('is-near-viewport');
+          obs.unobserve(entry.target);
+          revealedCount++;
+
+          // Clean up observer once every article has been revealed
+          if (revealedCount === articles.length) {
+            obs.disconnect();
+          }
+        }
+      },
+      { rootMargin: '400px 0px' }
+    );
+
+    articles.forEach((article) => observer.observe(article));
+  };
+
+  // Defer observer creation until the user actually checks the box
+  toggle.addEventListener('change', () => {
+    if (toggle.checked) startObserving();
+  });
+
+  // Handle browser form-state restoration on reload or back/forward navigation
+  if (toggle.checked) {
+    startObserving();
+  }
+})();
+</script>

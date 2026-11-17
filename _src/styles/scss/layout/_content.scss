@@ -456,3 +456,32 @@ kbd {
   padding: 5px;
   font-size: 0.8em;
 }
+
+/* Control layout and UX */
+.reveal-control {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.reveal-control input[type="checkbox"],
+.reveal-control label {
+  cursor: pointer;
+}
+
+.reveal-control label {
+  user-select: none;
+}
+
+/* Masked by default */
+.hidden-unless-revealed {
+  display: none;
+}
+
+/* Unmasked when the checkbox is checked */
+.content:has(#reveal-articles:checked) .hidden-unless-revealed {
+  display: block;
+  content-visibility: auto;
+  contain-intrinsic-size: auto 200px;
+}

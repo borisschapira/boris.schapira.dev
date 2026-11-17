@@ -6,4 +6,4 @@ Depuis quelques jours, je regarde l'émission "Tendances" sur W9 (vers minuit en
 
 <!-- more -->
 
-{% include media/youtube.html.liquid id="sD33vZsClgs" title="La Liste - Rose" %}
+{% include media/youtube.html.liquid id="PHDVFQnYj2Q" title="La Liste - Rose" %}

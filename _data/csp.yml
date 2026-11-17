@@ -30,6 +30,8 @@
       comment: 'TBD'
     - value: "'sha256-eOdz7XsQfzTl4/RBMfwErzRz99Gibw1MrwubZHsbg6A='"
       comment: 'TBD'
+    - value: "'sha256-THP0k8EjmfA7fhJThbHpqx5vVuN1SUbtlyEB2Pe97so='"
+      comment: 'Intersection observer on the "all" pages'
     - value: 'analytics.schapira.dev'
       comment: 'Matomo analytics'
     - value: 'speakerdeck.com'
