@@ -17,7 +17,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     Ascii85 (2.0.1)
-    addressable (2.9.2)
+    addressable (2.10.0)
       public_suffix (>= 2.0.2, < 8.0)
     afm (1.0.1)
     async (2.46.0)
@@ -131,7 +131,7 @@ GEM
       commonmarker (~> 0.22)
     jekyll-include-cache (0.3.2)
       jekyll (>= 3.7, < 5.0)
-    jekyll-microtypo (2.0.3)
+    jekyll-microtypo (2.1.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
@@ -140,7 +140,7 @@ GEM
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.21.2)
-    kramdown (2.5.2)
+    kramdown (2.6.1)
       rexml (>= 3.4.4)
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
