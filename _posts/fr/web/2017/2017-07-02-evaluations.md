@@ -18,7 +18,7 @@ Quelle que soit la taille de la classe (de 8 à 40 élèves), le type de cursus 
 
 ## Mes expériences
 
-J'ai enseigné, ces dernières années, plusieurs matières. En vrac : ASP.NET ; le développement Windows Phone ; le <span lang="en">Lean Canvas</span> ; l'introduction aux CMS .NET et PHP ; le PHP ; les <abbr title="Systèmes de gestion de bases de données relationelles">SGBDR</abbr> via l'usage de MySQL ; le framework Symfony ; le <abbr title="Responsive Web Design" lang="en">RWD</abbr> ; la gestion de projet <abbr title="Capability Maturity Model integration">CMMi</abbr> ; la gestion de projet Agile ; l'accessibilité Web ; le <span lang="en" title="gestion de version de code source">versionning</span> avec git et, une première cette année, l'obtention de la certification Opquast.
+J'ai enseigné, ces dernières années, plusieurs matières. En vrac : ASP.NET ; le développement Windows Phone ; le <span lang="en">Lean Canvas</span> ; l'introduction aux CMS .NET et PHP ; le PHP ; les SGBDR (Systèmes de gestion de bases de données relationelles) via l'usage de MySQL ; le framework Symfony ; le RWD (<span lang="en">Responsive Web Design</span>) ; la gestion de projet CMMi (Capability Maturity Model integration) ; la gestion de projet Agile ; l'accessibilité Web ; le <span lang="en" title="gestion de version de code source">versionning</span> avec git et, une première cette année, l'obtention de la certification Opquast.
 
 Au fil de ces cursus, j'ai tenté différents types d'évaluations qui me permettent de remplir mes obligations de prof ("une note toutes les trois heures").
 

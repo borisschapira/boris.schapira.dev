@@ -38,7 +38,7 @@ On va commencer par un peu de **définitions**.
 
 La webperf, c’est tout ce que tu vas pouvoir faire pour que ton site soit **ressenti** comme plus performant par une personne l’utilisant. Ça part de <span lang="en">l’expérience d’utilisation</span> de ton site ou de ta <span lang="en">web app</span> (y compris les animations), puis on redescend dans les couches, avec du code HTML, CSS et JS, de la configuration de serveurs et enfin une analyse des infrastructures et services tiers que tu t’autorises à utiliser, et de leur configuration.
 
-Attention, dans la mesure où un site performant **consomme moins de ressources**, la performance web partage 90 % de son ADN avec l’éco-conception. Mais certaines bonnes pratiques de performance web, comme l’utilisation de <abbr title="Content Delivery Network">CDN</abbr>, ne collent pas aux attentes écologiques [^2].
+Attention, dans la mesure où un site performant **consomme moins de ressources**, la performance web partage 90 % de son ADN avec l’éco-conception. Mais certaines bonnes pratiques de performance web, comme l’utilisation de CDN (Content Delivery Network), ne collent pas aux attentes écologiques [^2].
 
 {% include rwd-image.html.liquid
 path="/assets/images/web/2020-12-02/undraw_Eco_conscious_re_r2bs.png"
@@ -183,4 +183,4 @@ Merci à [Carine Sobisiak](https://twitter.com/CarineSobisiak), Olivier Rundstad
 
 [^14]: La solution française de référence, c’est [Fasterize](https://www.fasterize.com/fr/comment-ca-marche/).
 
-[^15]: [Opquast](https://www.opquast.com/), la certification des <abbr title="professionels" aria-hidden="true">professionnel·les</abbr> du Web.
+[^15]: [Opquast](https://www.opquast.com/), la certification des professionnel·les du Web.

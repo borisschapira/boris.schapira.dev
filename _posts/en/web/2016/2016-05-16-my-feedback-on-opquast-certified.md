@@ -28,7 +28,7 @@ I was already familiar with the Opquast checklists. I had used them for audit mi
 
 In addition to the label, there are explanations on the root causes of each of the best practices, its objectives, notes on how to validate it, and even anecdotes based on real-life cases. Reading the book was more interesting but also slower than I had imagined. My first piece of advice, then, if you want to take the certification: set aside some time to read with a clear head and take notes. The material is dense and deserves your attention.
 
-### The "training platform" is a full-featured <abbr title="Massive Open Online Course">MOOC</abbr>
+### The "training platform" is a full-featured MOOC (Massive Open Online Course)
 
 I was under the impression that the training platform will just be a series of small quizzes to get the hang of the checklist. It was a mistake. Of course, the little quizzes were there but also many articles about web quality, project management, user perception... which made me take a step back on the objectives and understand the more global context in which the web Quality is embedded.
 

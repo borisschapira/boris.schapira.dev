@@ -36,7 +36,7 @@ Je connaissais déjà les référentiels de bonnes pratiques Opquast. Je les ava
 
 En plus du libellé, on y trouve des explications sur l’origine de chaque bonne pratique, ses objectifs, des notes sur comment la valider et mêmes des anecdotes en situation. La lecture du livre est donc à la fois plus intéressante mais aussi moins rapide que ce que j'avais imaginé. Premier conseil, donc, si vous voulez passer la certification : aménagez-vous du temps pour lire à tête reposée et prendre des notes. Le support est dense et mérite votre attention.
 
-### La "plate-forme d’entrainement" est un vrai <abbr title="Massive Open Online Course" lang="en">MOOC</abbr>
+### La "plate-forme d’entrainement" est un vrai MOOC (<span lang="en">Massive Open Online Course</span>)
 
 Avec un nom comme ça, on pourrait penser qu’il ne s’agit que d’une série de petits questionnaire pour se faire la main. C'est une erreur. Certes, les petits questionnaires sont là mais il y a aussi de nombreux articles de fonds sur la Qualité, la gestion de projet, la perception des utilisateurs… qui permettent de prendre du recul sur les objectifs et de comprendre le contexte plus global dans lequel s'inscrit la Qualité web. C'est donc bien plus une plate-forme de formation qu'un simple entraînement au passage de la certification.
 

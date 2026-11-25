@@ -4,7 +4,7 @@ title: "Clic, Tap, l'enfer des pointeurs"
 
 ## Le problème
 
-Vous devez réaliser une interface <abbr title="Responsive Web Design" lang="en">RWD</abbr>, capable de déclencher des méthodes JavaScript au clic comme au toucher. Traditionnellement, nous faisions un test de support pour savoir si le toucher était disponible. Si oui, nous nous abonnions aux événements tactiles : `touchdown`, `touchstart`… et sinon, aux événements de la souris (`click`).
+Vous devez réaliser une interface RWD (<span lang="en">Responsive Web Design</span>), capable de déclencher des méthodes JavaScript au clic comme au toucher. Traditionnellement, nous faisions un test de support pour savoir si le toucher était disponible. Si oui, nous nous abonnions aux événements tactiles : `touchdown`, `touchstart`… et sinon, aux événements de la souris (`click`).
 
 Cette approche est valable sur les périphériques qui ne proposent que le clic (les ordinateurs de bureau, par exemple), ou que le tactile (comme les téléphones portables). Par contre, sur un périphérique qui proposerait les deux (comme un ordinateur portable à écran tactile), elle exclut du clic les utilisateurs (puisque le tactile est disponible, c'est lui qui prend le pas).
 

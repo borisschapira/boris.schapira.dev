@@ -2,7 +2,7 @@
 title: 'En attendant le Bordeaux Geek Festival'
 ---
 
-Maman finit de se préparer pendant que les garçons, déjà déguisés, poireautent en attendant de partir pour le [<abbr title="Bordeaux Geek Festival">BGF</abbr>](http://geek-festival.fr/).
+Maman finit de se préparer pendant que les garçons, déjà déguisés, poireautent en attendant de partir pour le [BGF (Bordeaux Geek Festival)](http://geek-festival.fr/).
 
 <!-- more -->
 

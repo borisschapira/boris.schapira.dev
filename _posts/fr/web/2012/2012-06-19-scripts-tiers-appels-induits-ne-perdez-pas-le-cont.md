@@ -52,7 +52,7 @@ L'exemple de script tiers précédent avait une vocation pédagogique et simplif
 
 - Les redirections, toutes inutiles, qui gâchent un temps précieux ;
 - Les appels sécurisés, qui impliquent le chargement des différents certificats attenants et leurs interprétations souvent coûteuses ;
-- La multiplication des domaines différents qui induit un nombre important de résolutions<abbr alt="Domain Name System">DNS</abbr> nécessaires à leur appel.
+- La multiplication des domaines différents qui induit un nombre important de résolutions DNS (Domain Name System) nécessaires à leur appel.
 
 Peu importe comment vous attaquez le problème : l'inclusion d'un script tiers et les appels qu'il induit dégradent l'expérience de vos visiteurs. La seule question qu'il vous reste à vous poser est de savoir quel en sera l'impact sur votre efficacité opérationnelle.
 

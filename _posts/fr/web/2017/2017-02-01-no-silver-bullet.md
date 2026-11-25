@@ -7,7 +7,7 @@ translations:
     en: apps-vs-webapps-no-silver-bullet
 ---
 
-Je suis encore tombé récemment sur un article qui annonçait calmement la fin des applications mobiles, en disant que le <abbr title="Responsive Web Design" lang="en">RWD</abbr> et les <span lang="en">Progressive Web Apps (PWA)</span> étaient la réponse à l’ensemble des besoins des organisations, chiffres d’installation des applications à la clé. Comme le disait Frederick Brooks, il n’y a pas de technique miraculeuse (<q lang="en">No silver bullet</q>) en génie logiciel. L’utilisation des chiffres n’est pas si évidente que ça et il existe de nombreux pièges qui peuvent nous inciter, par intuition, à conclure de manière erronée quant à la réalité.
+Je suis encore tombé récemment sur un article qui annonçait calmement la fin des applications mobiles, en disant que le RWD (<span lang="en">Responsive Web Design</span>) et les PWA (<span lang="en">Progressive Web App</span>) étaient la réponse à l’ensemble des besoins des organisations, chiffres d’installation des applications à la clé. Comme le disait Frederick Brooks, il n’y a pas de technique miraculeuse (<q lang="en">No silver bullet</q>) en génie logiciel. L’utilisation des chiffres n’est pas si évidente que ça et il existe de nombreux pièges qui peuvent nous inciter, par intuition, à conclure de manière erronée quant à la réalité.
 
 Faisons ensemble un petit tour d’horizon des biais de logique liés à cette pratique.
 
@@ -21,7 +21,7 @@ Faisons ensemble un petit tour d’horizon des biais de logique liés à cette p
 
 ## Web ou natif ?
 
-Imaginons que l'on mesure la satisfaction des utilisateurs d'applications de tous types : des applications natives pures, des applications cross-platform, des applications semi-hybrides à la React Native, des <abbr title="Progressive Web App" lang="en">PWA</abbr> "installées" sur Android 6, des <abbr title="Progressive Web App" lang="en">PWA</abbr> non-installées et des Web App non-progressive. Avec ces mesures, nous serions en mesure de réaliser un graphique avec en abscisse la mesure de satisfaction et en ordonnée, le degré de rapprochement avec les applications natives :
+Imaginons que l'on mesure la satisfaction des utilisateurs d'applications de tous types : des applications natives pures, des applications cross-platform, des applications semi-hybrides à la React Native, des PWA "installées" sur Android 6, des PWA non-installées et des Web App non-progressive. Avec ces mesures, nous serions en mesure de réaliser un graphique avec en abscisse la mesure de satisfaction et en ordonnée, le degré de rapprochement avec les applications natives :
 
 {% capture img_alt %}Un graphique présentant des points éparses avec une tendance vers plus d'applicatif = plus de satisfaction{% endcapture %} {% capture img_caption %}Notre premier graphique présentant la satisfaction des utilisateurs en fonction de leur rapprochement technique avec les applications natives{% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2017-02-01/1.png"
@@ -79,9 +79,9 @@ Un autre bon exemple est celui de ce client qui avait besoin d’un très grand 
 
 ## Une vision d’ensemble
 
-Pour prendre de bonnes décisions, il faut aborder l’ensemble de chaque projet : spécifications fonctionnelles et technique, analyse de la cible (en âge, <abbr title="Catégorie Socio-Professionnelle">CSP</abbr>, emplacement, culture…), niveau d’information et de compétence des équipes, plate-forme de développement existante ou acquise, pérennité du développement, chiffre d’affaire espéré, stratégie de déploiement et de maintenance…
+Pour prendre de bonnes décisions, il faut aborder l’ensemble de chaque projet : spécifications fonctionnelles et technique, analyse de la cible (en âge, CSP, Catégorie Socio-Professionnelle, emplacement, culture…), niveau d’information et de compétence des équipes, plate-forme de développement existante ou acquise, pérennité du développement, chiffre d’affaire espéré, stratégie de déploiement et de maintenance…
 
 Pour l’instant, aucun algorithme <span lang="en">Big Data</span> n’est capable de prendre le recul nécessaire par rapport à un besoin que, souvent, le commanditaire lui-même ne sait pas formaliser. Il reste nécessaire de passer du temps à affiner ce besoin, le cadrer, et déterminer au cas par cas les solutions qui ne peuvent pas être que techniques.  
-Si vous avez envie de dire que les <abbr lang="en" title="Progressive Web Apps">PWA</abbr> sont prometteuses et qu’il est temps de vous y intéresser, allez-y (j’y crois moi-même énormément). De là à dire qu’il faut abandonner les applications natives et les places de marché dans tous les cas, il y a un pas que je ne franchirai pas.
+Si vous avez envie de dire que les PWA sont prometteuses et qu’il est temps de vous y intéresser, allez-y (j’y crois moi-même énormément). De là à dire qu’il faut abandonner les applications natives et les places de marché dans tous les cas, il y a un pas que je ne franchirai pas.
 
 En cas de doute, faites-vous conseiller par des gens qui ont de l’expérience, qui sont compétents et indépendants des technologies employées. En cas d’absence de doutes : encore plus.

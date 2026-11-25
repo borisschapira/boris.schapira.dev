@@ -22,7 +22,7 @@ Let's take a look at the different logical biases related to this topic.
 
 ## Web or native?
 
-Let's imagine that we want to evaluate the user satisfaction for various applications: pure native applications, cross-platform applications, semi-hybrid applications with React Native, "installed" <abbr title="Progressive Web Apps">PWAs</abbr> on Android 6, not-installed <abbr title="Progressive Web Apps">PWAs</abbr> and non-progressive Web App. With these measurements, we would be able to produce a graph with the level of satisfaction on the x-axis while the y-axis represents how close to a "native application" the app is.
+Let's imagine that we want to evaluate the user satisfaction for various applications: pure native applications, cross-platform applications, semi-hybrid applications with React Native, "installed" PWAs (Progressive Web Apps) on Android 6, not-installed PWAs and non-progressive Web App. With these measurements, we would be able to produce a graph with the level of satisfaction on the x-axis while the y-axis represents how close to a "native application" the app is.
 
 {% capture img_alt %}Our first graph shows the user satisfaction for each group of application depending on the app technical similarities with native applications.{% endcapture %} {% capture img_caption %}Our first graph shows the user satisfaction for each group of application depending on the app technical similarities with native applications.{% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2017-02-01/en/1.png"
@@ -82,6 +82,6 @@ In order to make good decisions, we must approach each project as a whole: funct
 
 For now, there is no Big Data algorithm able to take a step back from a need that, most of the time, the sponsor himself does not know how to formalize. It's still necessary to spend time refining the need, analysing it, and to determine, every time, the different solutions (which can not be only technical).
 
-If you want to say that the <abbr title="Progressive Web Apps">PWAs</abbr> are promising and it's time to get interested into them, go ahead (I surely believe in them myself). But I won't say that we must, each time, give up the native applications and market places.
+If you want to say that the PWAs are promising and it's time to get interested into them, go ahead (I surely believe in them myself). But I won't say that we must, each time, give up the native applications and market places.
 
 Whether you have doubts or not, get advice from people who have experience, who are knowledgeable and independent of the technologies employed.

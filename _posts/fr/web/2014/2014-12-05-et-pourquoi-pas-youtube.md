@@ -2,7 +2,7 @@
 title: 'Et pourquoi pas Youtube ?'
 ---
 
-Quand on parle de vidéo publique en ligne, la plupart des gens pensent immédiatement à Youtube comme <abbr lang="en" title="Online Video Platform">OVP</abbr>, en raison de son incroyable popularité.
+Quand on parle de vidéo publique en ligne, la plupart des gens pensent immédiatement à Youtube comme OVP (<span lang="en">Online Video Platform</span>), en raison de son incroyable popularité.
 
 <!-- more -->
 
@@ -18,4 +18,4 @@ En revanche, certaines caractéristiques de Youtube peuvent poser problème :
 
 Parfois, c'est tout simplement la matrice fonctionnelle de Youtube qui n'est pas assez riche au niveau de la gestion des comptes et des droits, des limitations géographiques de consultation ou de la gestion des sous-titres (formats gérés, collaboration dans l'édition).
 
-Enfin, si on ne parle pas de vidéo publique mais de vidéo située derrière un firewall ou destinée à une sphère plus réduite, alors Youtube n'est pour le moment pas la bonne solution et peut même présenter un sérieux danger en terme de diffusion incontrôlée d'informations. Sans compter qu'il ne dispose d'aucune fonctionnalité pour optimiser la diffusion sur les <abbr lang="en" title="Local Area Network">LAN</abbr>, ce qui en fait une solution avant tout <abbr lang="en" title="Wide Area Network">WAN</abbr>.
+Enfin, si on ne parle pas de vidéo publique mais de vidéo située derrière un firewall ou destinée à une sphère plus réduite, alors Youtube n'est pour le moment pas la bonne solution et peut même présenter un sérieux danger en terme de diffusion incontrôlée d'informations. Sans compter qu'il ne dispose d'aucune fonctionnalité pour optimiser la diffusion sur les LAN (<span lang="en">Local Area Network</span>), ce qui en fait une solution avant tout WAN (<span lang="en">Wide Area Network</span>).

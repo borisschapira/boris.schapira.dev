@@ -39,7 +39,7 @@ Let's start with some _definitions_.
 
 Webperf is all you can do to make your site be _feel_ as more efficient by a user. You start from the user experience of your site or web app (including animations), then you explore the underlying layers: HTML, CSS and JS code, the server configuration and finally an analysis of the infrastructures and third party services that you allow yourself to use, and their configuration.
 
-Since a high-performance site _consumes less energy_, web performance shares 90% of its DNA with eco-design. But some good web performance practices, such as the use of <abbr title="Content Delivery Network">CDN</abbr>, are not compatible with ecological considerations [^2].
+Since a high-performance site _consumes less energy_, web performance shares 90% of its DNA with eco-design. But some good web performance practices, such as the use of CDN (Content Delivery Network), are not compatible with ecological considerations [^2].
 
 [^2]: Romuald Priol talks about it very well in his post "[The digital impact: best practices for a greener web](https://news.infomaniak.com/en/green-web/)".
 

@@ -20,6 +20,6 @@ Nicolas Hoffman… thank you very much!
 Last update: {{ site.time | date: "%Y-%m-%d" }}
 
 Standards: HTML5, CSS3, JavaScript
-Components: Abbr Touch, jQuery, touchtap
+Components: jQuery, touchtap
 Building tools: Jekyll, Bundler, Ruby, SASS, HTML-proofer
 Software used during development: Visual Studio Code, Cyberduck

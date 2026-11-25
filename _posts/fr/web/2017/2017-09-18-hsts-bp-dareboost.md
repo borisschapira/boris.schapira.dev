@@ -40,9 +40,9 @@ De plus, subir une redirection vers une version sécurisée implique que l’on 
 
 Que l’on parle de sécurité ou de performance, il est donc nécessaire d’éviter autant que possible cette redirection.
 
-## <abbr lang="en" title="HTTP Strict Transport Security">HSTS</abbr> pour forcer le trafic vers HTTPS
+## HSTS pour forcer le trafic vers HTTPS
 
-HTTP Strict Transport Security (<abbr lang="en" title="HTTP Strict Transport Security">HSTS</abbr>) est une directive, dont la spécification complète se trouve dans la [RFC 6797](https://tools.ietf.org/html/rfc6797). Elle se présente comme un entête de réponse envoyé par le serveur au navigateur **lui déclarant que le domaine interrogé est destiné à être visité uniquement en HTTPS**.
+<span lang="en">HTTP Strict Transport Security</span> (<span lang="en">HSTS</span>) est une directive, dont la spécification complète se trouve dans la [RFC 6797](https://tools.ietf.org/html/rfc6797). Elle se présente comme un entête de réponse envoyé par le serveur au navigateur **lui déclarant que le domaine interrogé est destiné à être visité uniquement en HTTPS**.
 
 Le navigateur enregistre l’information et, si à l’avenir l’URL non-sécurisée est interrogée, il effectuera automatiquement une redirection interne (code 307) vers la version HTTPS. Comme HSTS ne concerne que les appels futurs, la mise en place de redirections 301 sur les appels HTTP reste pertinente.
 

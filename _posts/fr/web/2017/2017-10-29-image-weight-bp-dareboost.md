@@ -31,7 +31,7 @@ alt=img_alt
 
 ## À chaque image son format
 
-Il n’est pas toujours simple de trouver le format d’image le plus adapté. Prenons par exemple notre logo. Nous pourrions l’enregistrer en <abbr lang="en" title="Portable Network Graphics">PNG</abbr>, en <abbr lang="en" title="Joint Photographic Experts Group">JPEG</abbr>, en WebP ou en <abbr lang="en" title="Scalar Vector Graphics">SVG</abbr>. Le poids des images serait très différent. Un test empirique nous permet de le constater :
+Il n’est pas toujours simple de trouver le format d’image le plus adapté. Prenons par exemple notre logo. Nous pourrions l’enregistrer en PNG (<span lang="en">Portable Network Graphics</span>), en JPEG (<span lang="en">Joint Photographic Experts Group</span>), en WebP ou en SVG (<span lang="en">Scalar Vector Graphics</span>). Le poids des images serait très différent. Un test empirique nous permet de le constater :
 
 {% capture img_alt %}PNG 6 Ko ; JPEG 38 Ko ; WebP 9 Ko ; SVG 2,5 Ko (1,3 gzippé){% endcapture %} {% include rwd-image.html.liquid
 path="/assets/images/2017-10-29/logo_fr_580.png"
@@ -105,7 +105,7 @@ Si vous avez néanmoins besoin du format GIF, sachez qu'un outil de compression 
 
 Choisir le bon format de fichier n'est pas suffisant pour garantir que vous servirez l'image optimale dans tous les contextes d’usage.
 
-Imaginons que vous utilisiez une image d'une largeur de 2680 pixels pour décorer le background d’un site pensé pour une consultation depuis un ordinateur de bureau à écran haute résolution (<abbr lang="en" title="Hight Dot Per Inch">HiDPI</abbr>, ex-Retina™). Sur un appareil mobile de plus faible résolution, en 3G, non seulement le navigateur chargera une quantité importante de données superflues mais, pour que l’image rentre dans la largeur du téléphone, il devra également la redimensionner avec son algorithme interne. Le résultat final sera dégradé, sans parler de la vitesse d’affichage... Ce qu’il aurait mieux valu faire, c’est produire plusieurs versions de cette image, dans différentes résolutions et laisser le navigateur choisir l’image à télécharger en fonction de son contexte d’exécution.
+Imaginons que vous utilisiez une image d'une largeur de 2680 pixels pour décorer le background d’un site pensé pour une consultation depuis un ordinateur de bureau à écran haute résolution (HiDPI, <span lang="en">High Dots Per Inch</span>, ex-Retina™). Sur un appareil mobile de plus faible résolution, en 3G, non seulement le navigateur chargera une quantité importante de données superflues mais, pour que l’image rentre dans la largeur du téléphone, il devra également la redimensionner avec son algorithme interne. Le résultat final sera dégradé, sans parler de la vitesse d’affichage... Ce qu’il aurait mieux valu faire, c’est produire plusieurs versions de cette image, dans différentes résolutions et laisser le navigateur choisir l’image à télécharger en fonction de son contexte d’exécution.
 
 On appelle « <strong>Images Responsives</strong> » ces techniques qui consistent à produire, pour la même zone d'une page Web, plusieurs images adaptées aux contextes possibles de navigation. Pour les images d'arrière-plan et décoratives, vous pouvez utiliser les media-queries CSS.
 
@@ -127,7 +127,7 @@ Avec tous les médias possibles, les questions de direction artistique, de taill
 
 Choisir le bon format d’image, générer des miniatures, utiliser parfois des formats alternatifs plus adaptés suivant le contexte (comme WebP) et donc générer encore d'autres miniatures…
 
-Réaliser manuellement ce travail sur une quantité importante d’images de base de grande qualité relève du titanesque. Très peu d’outils, qu’ils s’agissent des <abbr title="Content Management System">CMS</abbr> ou des plateformes e-commerce, intègrent des fonctionnalités abouties sur la gestion d’images. Même les solutions de Digital Asset Management, dédiées normalement à la gestion des ressources visuelle et dont cela devrait être une des prérogatives, sont souvent inutiles.
+Réaliser manuellement ce travail sur une quantité importante d’images de base de grande qualité relève du titanesque. Très peu d’outils, qu’ils s’agissent des CMS (Content Management System) ou des plateformes e-commerce, intègrent des fonctionnalités abouties sur la gestion d’images. Même les solutions de Digital Asset Management, dédiées normalement à la gestion des ressources visuelle et dont cela devrait être une des prérogatives, sont souvent inutiles.
 
 Quelques solutions existent tout-de-même, comme <a href="https://cloudinary.com/">Cloudinary</a> qui est un service tiers accessible en SaaS ou <a href="http://thumbor.org/">Thumbor</a>, qui s’installe sur un de vos serveurs. Discutez avec votre équipe de développement Web pour déterminer le meilleur outil et n'oubliez pas d’expliquer les problématiques aux contributeurs et de les former à la solution retenue.
 
@@ -163,6 +163,6 @@ Oh que non !
 
 L'état de l'art de la gestion des images responsives est loin d'être parfait. Au lieu d'envoyer beaucoup d'informations au navigateur et lui laisser choisir la bonne image en fonction du contexte, pourquoi ne pas demander au navigateur de passer le contexte lors de la requête initiale puis calculer toute la contextualisation côté serveur ?
 
-C’est ce à quoi réfléchissent certains membres du What Working Group dans <a href="http://httpwg.org/http-extensions/client-hints.html">la spécification Client Hints</a>. Le support est encore<a href="http://caniuse.com/#feat=client-hints-dpr-width-viewport"> très limité</a> mais le concept est en cours de normalisation à l’<abbr lang="en" title="Internet Engineering Task Force">IETF</abbr>. Cela ressemble beaucoup à une initiative du début du début des années 2010, appelée <a href="https://www.lukew.com/ff/entry.asp?1392">Responsive Web Design + Server Side Components, aka RESS</a>, qui essayait déjà de déporter une partie de la mécanique d’adaptation du contenu côté serveur.
+C’est ce à quoi réfléchissent certains membres du What Working Group dans <a href="http://httpwg.org/http-extensions/client-hints.html">la spécification Client Hints</a>. Le support est encore<a href="http://caniuse.com/#feat=client-hints-dpr-width-viewport"> très limité</a> mais le concept est en cours de normalisation à l’IETF (<span lang="en">Internet Engineering Task Force</span>). Cela ressemble beaucoup à une initiative du début du début des années 2010, appelée <a href="https://www.lukew.com/ff/entry.asp?1392">Responsive Web Design + Server Side Components, aka RESS</a>, qui essayait déjà de déporter une partie de la mécanique d’adaptation du contenu côté serveur.
 
 L’essai sera-t-il transformé cette fois ? La gestion des images nous réserve encore bien des surprises !

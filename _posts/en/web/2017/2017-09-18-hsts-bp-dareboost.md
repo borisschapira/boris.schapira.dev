@@ -43,7 +43,7 @@ You need to avoid as much as possible this kind of redirections, for both safety
 
 ## HSTS to force HTTPS
 
-HTTP Strict Transport Security (<abbr lang="en" title="HTTP Strict Transport Security">HSTS</abbr>) is a directive specified in [RFC 6797](https://tools.ietf.org/html/rfc6797). The security policy is transmitted by the server to the user agent via a header response **declaring that for any further call, this domain should be requested over HTTPS**.
+HTTP Strict Transport Security (HSTS) is a directive specified in [RFC 6797](https://tools.ietf.org/html/rfc6797). The security policy is transmitted by the server to the user agent via a header response **declaring that for any further call, this domain should be requested over HTTPS**.
 
 The browser (or any other user agent) stores the information then every new unsecured request to any URL of this domain will be automatically rerouted via an internal redirect (HTTP code 307) to the HTTPS scheme. Please note that the 301 redirect remains necessary, as the directive only considers future calls.
 
@@ -95,7 +95,7 @@ Beware: the modification of the directive with a 0-second `max-age` will not swi
 
 ## Protect your users with HSTS
 
-The HSTS directive exists for several years. It can secure requests and response between your server and your visitors’ browsers. The first request can be secured with HSTS Preloading, ensuring that all traffic is protected against threats. HSTS must be activated with caution but when it is done, user experience do not suffer from extended request time. As Google value security, HSTS is also an optimization for <abbr title="Search Engine Optimization">SEO</abbr>.
+The HSTS directive exists for several years. It can secure requests and response between your server and your visitors’ browsers. The first request can be secured with HSTS Preloading, ensuring that all traffic is protected against threats. HSTS must be activated with caution but when it is done, user experience do not suffer from extended request time. As Google value security, HSTS is also an optimization for SEO (Search Engine Optimization).
 
 ## Bonus: with HSTS Preload, protect your domain from SSL strip attacks
 

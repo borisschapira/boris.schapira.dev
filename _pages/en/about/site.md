@@ -43,7 +43,7 @@ My pages and articles are written in [CommonMark](https://commonmark.org/), a li
 
 The generated site is then tested via [html-proofer](https://github.com/gjtorikian/html-proofer) to check that the pages are error-free.
 
-If all goes well then Netlify deploys the generated site on its <abbr title="Content Delivery Network">CDN</abbr>.
+If all goes well then Netlify deploys the generated site on its CDN (Content Delivery Network).
 
 The last deployment was carried out on {{ site.time | l: '%A %-d %B %Y' }}.
 
@@ -53,7 +53,7 @@ Netlify is also in charge of capturing comments and sending them to a private Sl
 
 ### Client side
 
-Part of my CSS and JS code is dedicated to accessibility and I also try to contribute responsibly, to be as inclusive as possible, keeping both people and contexts in mind (for example, I use the [abbr-touch library](http://www.growingwiththeweb.com/2014/09/making-abbr-elements-touch-accessible.html) that gives mobile users the ability to read the definition of an abbreviation or acronym.
+Part of my CSS and JS code is dedicated to accessibility and I also try to contribute responsibly, to be as inclusive as possible, keeping both people and contexts in mind.
 
 In order to control what is happening on my site (including detecting attempted injections), I have configured specific directives in my [Content Security Policy](https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9curit%C3%A9/CSP)[^7].
 

@@ -6,7 +6,7 @@ tags:
     - Outils
 ---
 
-Visual Studio 2010 est assez riche en fonctionnalités à l’origine mais on trouve toujours deux ou trois choses sur lesquelles se plaindre, surtout si on est habitué à utiliser d’autres <abbr title="Integrated Development Environment : environnement de développement intégré (comme souvent, l’anagramme français EDI est moins utilisé que son équivalent anglophone)">IDE</abbr> (comme Eclipse). Heureusement, Visual Studio est extensible, et on trouve déjà de nombreux outils, dont les Productivity Power Tools.
+Visual Studio 2010 est assez riche en fonctionnalités à l’origine mais on trouve toujours deux ou trois choses sur lesquelles se plaindre, surtout si on est habitué à utiliser d’autres IDE (<i lang="en">Integrated Development Environment</i> : environnement de développement intégré) (comme Eclipse). Heureusement, Visual Studio est extensible, et on trouve déjà de nombreux outils, dont les Productivity Power Tools.
 
 <!-- more -->
 

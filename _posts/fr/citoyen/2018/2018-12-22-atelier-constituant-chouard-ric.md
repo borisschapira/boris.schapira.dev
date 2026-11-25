@@ -16,7 +16,7 @@ Le traitement des médias d'Étienne Chouard n'est pas tendre. Accusé de compla
 
 M'intéressant à ce qui fait la démocratie dans mon pays, j'étais tombé, il y a quelques années, sur une vidéo d'Étienne Chouard où il parlait de remplacer l'élection par le tirage au sort. Bien que trouvant certaines idées intéressantes, un certain nombre d'affirmations ne m'avaient pas convaincues.
 
-Il ne s'agit pas non plus de mon premier contact avec le <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr>, puisque je lis les interviews du politologue Yves Sintomer (Université Paris-8) sur le sujet depuis plusieurs années (ci-dessous, une vidéo pour l'Obs, également publiée hier).
+Il ne s'agit pas non plus de mon premier contact avec le RIC (Référendum d'Initiative Citoyenne), puisque je lis les interviews du politologue Yves Sintomer (Université Paris-8) sur le sujet depuis plusieurs années (ci-dessous, une vidéo pour l'Obs, également publiée hier).
 
 {% include media/youtube.html.liquid id="4pHYkUDrVpY" title="&quot;Le RIC, oui, mais avec des garde-fous&quot;, par le politologue Yves Sintomer" %}
 
@@ -26,7 +26,7 @@ Après un chant pour célébrer son anniversaire, puis une introduction très pe
 
 De débat, son intervention n'avait que le nom, et sur les quatre personnes sur scène, il est le seul à avoir parlé pendant plus de deux heures, chaleureusement applaudi à chaque "pique" contre "les élites" (j'y reviendrai) ou compliment destiné aux Gilets Jaunes (nombreux – les compliments et les Gilets Jaunes).
 
-Le micro a ensuite circulé une demi-heure parmi les 500 personnes présentes pour des "questions" qui étaient en réalité soit des remerciements gênants, soit des ouvertures sur des sujets d'une importance capitale mais connexes au <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr> comme la création monétaire et l'Europe. Aucune critique de fond sur les propos d'Étienne Chouard, donc aucun débat.
+Le micro a ensuite circulé une demi-heure parmi les 500 personnes présentes pour des "questions" qui étaient en réalité soit des remerciements gênants, soit des ouvertures sur des sujets d'une importance capitale mais connexes au RIC comme la création monétaire et l'Europe. Aucune critique de fond sur les propos d'Étienne Chouard, donc aucun débat.
 
 Les questions n'ont, de toutes façons, duré qu'une trentaine de minutes, à un moment où un quart des personnes étaient déjà parties (nous avions plus d'une heure de retard sur le planning).
 
@@ -68,7 +68,7 @@ Une rhétorique déjà entendue, donc, de l'extrême droite à l'extrême gauche
 
 Seul François Ruffin fût explicitement nommé comme un "exemple à suivre", un "politicien exemplaire". Un soutien aux antipodes des valeurs définies par Étienne Chouard précédemment, dont une personne de l'assistance n'a pas manqué de souligner l'absurdité et le copinage, d'ailleurs.
 
-## Le <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr>, <em lang="en">Silver Bullet</em> de la démocratie
+## Le RIC, <em lang="en">Silver Bullet</em> de la démocratie
 
 La solution proposée par Étienne Chouard pour résoudre ces problèmes est de réécrire la Constitution pour y introduire un Référendum d'Initiative Citoyenne qui serait potentiellement révocatoire (permettant de destituer un élu), constituant (permettant de changer les règles de l'exercice du pouvoir en France), législatif (permettant d'imposer ou d'annuler une loi) et dont l'application des décisions serait contrôlée.
 
@@ -78,7 +78,7 @@ La légitimité de cette solution tient d'une part au "bon sens", au "sens commu
 
 D'autre part, elle serait une bonne solution car une solution ancrée dans la démocratie athénienne. Comme si la démocratie athénienne était à la fois un standard défini – ce qui me semble difficile à prouver dans la mesure où elle a elle-même évolué au fil de nombreuses réformes – et un idéal – oubliant que le tirage au sort y était effectué "entre riches" (même si ce n'est pas exactement vrai, s'agissant plutôt de citoyens-soldats), les exploités de l'époque étant leurs esclaves, qui n'avaient pas leur mot à dire.
 
-Cette manipulation historique m'a gêné, mais n'était pas isolée. D'un point de vue plus général, j'ai été surpris de n'entendre aucun historique permettant de comprendre la construction des systèmes actuels : ni pour critiquer la Constitution existante, ni pour aborder la construction d'autres modèles de votation (comme le modèle fédéral Suisse). Le <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr>, bien qu'absolument pas défini – l'objectif de la soirée étant à la base d'y réfléchir – est _de facto_ considéré comme un idéal puisqu'issu du peuple.
+Cette manipulation historique m'a gêné, mais n'était pas isolée. D'un point de vue plus général, j'ai été surpris de n'entendre aucun historique permettant de comprendre la construction des systèmes actuels : ni pour critiquer la Constitution existante, ni pour aborder la construction d'autres modèles de votation (comme le modèle fédéral Suisse). Le RIC, bien qu'absolument pas défini – l'objectif de la soirée étant à la base d'y réfléchir – est _de facto_ considéré comme un idéal puisqu'issu du peuple.
 
 J'avais un peu l'impression d'écouter quelqu'un me dire que parce que l'homéopathie était un fléau, il fallait jeter l'ensemble de la pharmacopée moderne et revenir au bon temps de l'expérimentation sur des cadavres pour redécouvrir nous-même les fondements de la médecine…
 
@@ -88,7 +88,7 @@ Je tiens à préciser qu'il y avait, au sein de cette soirée, des choses que j'
 
 Tout d'abord, le concept même de l'atelier constituant, même si celui-ci a démarré à une heure finalement trop tardive pour que je puisse rester. L'idée même que les citoyens réfléchissent ensemble aux lois me semble cruciale. Cela permet de débattre, de confronter les idées et de se rompre aux règles de la compréhension et de l'écriture du législatif, qui ne sont pas forcément simples.
 
-Un autre point que j'ai trouvé très positif, même si je l'ai trouvé très paradoxal, est l'appel d'Étienne Chouard à dépassionner ce moment politique. Il a recommandé plusieurs fois aux Gilets Jaunes de transformer leur mouvement pour cesser les violences et les blocages et s'organiser en groupes de réflexion. Dans l'organisation des ateliers constituants, mais également par la suite, après la mise en place d'un éventuel <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr>, pour l'imaginer dans un temps long et inciter à davantage de débats (6 mois, 1 an, 2 ans) sur les questions de fond comme le nucléaire, de manière à ce que chacun se fasse un avis éclairé à son rythme et que la décision ne soit pas confisquée par de nouvelles élites de "sachants".
+Un autre point que j'ai trouvé très positif, même si je l'ai trouvé très paradoxal, est l'appel d'Étienne Chouard à dépassionner ce moment politique. Il a recommandé plusieurs fois aux Gilets Jaunes de transformer leur mouvement pour cesser les violences et les blocages et s'organiser en groupes de réflexion. Dans l'organisation des ateliers constituants, mais également par la suite, après la mise en place d'un éventuel RIC, pour l'imaginer dans un temps long et inciter à davantage de débats (6 mois, 1 an, 2 ans) sur les questions de fond comme le nucléaire, de manière à ce que chacun se fasse un avis éclairé à son rythme et que la décision ne soit pas confisquée par de nouvelles élites de "sachants".
 
 Une des meilleures interventions de la soirée est venue, à mon sens, d'un anonyme en gilet jaune qui a capturé le micro vers 23h30 (au moment du démarrage des ateliers) :
 
@@ -104,7 +104,7 @@ Je raconte ici ce que j'ai vu et entendu hier soir, il s'agit donc, pour beaucou
 
 ### Du contrôle des conséquences du vote
 
-Étienne Chouard semble convaincu que les décisions prises lors d'un éventuel <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr> pourraient être contrôlée de manière à s'assurer de leur application. Mais en parallèle, il affirme qu'il serait impossible de rendre obligatoire l'application du programme d'un élu.
+Étienne Chouard semble convaincu que les décisions prises lors d'un éventuel RIC pourraient être contrôlée de manière à s'assurer de leur application. Mais en parallèle, il affirme qu'il serait impossible de rendre obligatoire l'application du programme d'un élu.
 
 D'une part, cela signifie que nous serions capables de contrôler des choses après l'instauration du RIC que nous ne serions pas capables de contrôler avant. Cela me semble difficile à imaginer.
 
@@ -116,9 +116,9 @@ Enfin, cette réflexion, dans son contexte, me semble d'autant plus malvenue qu'
 
 Le deuxième point de fond qui me chagrine est l'idée selon laquelle la démocratie représentative nous vole la démocratie. Je ne pense pas que notre mode d'élection soit bon, et je le dis souvent en mettant en avant le [vote par approbation ou par valeurs](/community/pour-un-meilleur-scrutin/). Mais nos représentants ne le sont pas à vie, et nous conservons le droit de les retirer du pouvoir en ne votant pas, à nouveau, pour eux.
 
-Il ne s'agit pas, je le concède, d'une destitution. Mais à supposer que le <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr> existe sous le mandat actuel et que nous entamions aujourd'hui des procédures pour inscrire une proposition révocatoire envers Emmanuel Macron au registre des votations citoyennes : le temps que la question soit inscrite au programme, que la durée minimale de réflexion ait lieu (Emmanuel Chouard parlait hier soir de 12 à 18 mois), puis que la votation se fasse et, qu'enfin, nous organisions de nouvelles élections, combien de temps s'écoulerait-il ? Combien de mois "gagnerions"-nous par rapport à un mandat dans lequel il ne reste "que" trois ans et demi ?
+Il ne s'agit pas, je le concède, d'une destitution. Mais à supposer que le RIC existe sous le mandat actuel et que nous entamions aujourd'hui des procédures pour inscrire une proposition révocatoire envers Emmanuel Macron au registre des votations citoyennes : le temps que la question soit inscrite au programme, que la durée minimale de réflexion ait lieu (Emmanuel Chouard parlait hier soir de 12 à 18 mois), puis que la votation se fasse et, qu'enfin, nous organisions de nouvelles élections, combien de temps s'écoulerait-il ? Combien de mois "gagnerions"-nous par rapport à un mandat dans lequel il ne reste "que" trois ans et demi ?
 
-En tout état de cause, la mise en place d'un <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr> ne mettrait donc pas un terme à la démocratie représentative ni ne donnerait de pouvoir révocatoire au peuple sur la Présidence de la République, aujourd'hui figure tutélaire du pouvoir. Il me semble donc plus urgent de mieux élire plutôt que de se concentrer sur comment révoquer.
+En tout état de cause, la mise en place d'un RIC ne mettrait donc pas un terme à la démocratie représentative ni ne donnerait de pouvoir révocatoire au peuple sur la Présidence de la République, aujourd'hui figure tutélaire du pouvoir. Il me semble donc plus urgent de mieux élire plutôt que de se concentrer sur comment révoquer.
 
 ### De la critique injuste mais aussi incomplète des médias
 
@@ -130,9 +130,9 @@ J'ai appris récemment que Polybe, Cicéron, Rousseau, Machiavel… croyaient to
 
 ### Du soutien de ceux qui souffriraient le plus
 
-Un dernier point que je voudrais aborder ce soir, même s'il y aurait matière à débattre très longtemps : à aucun moment n'a été démontré la légitimité de l'urgence à imposer le <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr>, ni les conditions de son imposition (si ce n'est, dixit Étienne Chouard "par la force, en étant des millions dans les rues").
+Un dernier point que je voudrais aborder ce soir, même s'il y aurait matière à débattre très longtemps : à aucun moment n'a été démontré la légitimité de l'urgence à imposer le RIC, ni les conditions de son imposition (si ce n'est, dixit Étienne Chouard "par la force, en étant des millions dans les rues").
 
-Une modification de l'ampleur d'un <abbr title="Référendum d'Initiative Citoyenne">RIC</abbr> constituant est une révolution et toute révolution fragilise en premier lieu les plus faibles. Beaucoup d'entre eux étaient là, hier soir, et en étaient conscients, comme exprimé par cet autre anonyme Gilet Jaune.
+Une modification de l'ampleur d'un RIC constituant est une révolution et toute révolution fragilise en premier lieu les plus faibles. Beaucoup d'entre eux étaient là, hier soir, et en étaient conscients, comme exprimé par cet autre anonyme Gilet Jaune.
 
 > L'écologie, moi j'veux bien, mais ce n'est pas le sujet quand on n'arrive pas à boucler ses fins de mois !
 

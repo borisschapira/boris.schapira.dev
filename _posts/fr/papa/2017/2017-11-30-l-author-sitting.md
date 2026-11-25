@@ -12,7 +12,7 @@ Trente minutes plus tard, il revient avec une idée.
 
 > Dans la journée, les gens, ils écrivent des histoires pour nous, les petits. Et le soir, ils viendent nous les lire pendant que Papa et Maman, ils discutent entre grands. C'est comme pour Marion (_une baby-sitter dont on a sollicité plusieurs fois les services_) : on va lui donner de l'argent à la dame des livres, comme ça elle pourra manger et dormir dans sa maison, et en même temps, on pourra lui dire si son histoire elle est bien !
 
-<abbr title="Oh My God" lang="en">OMG</abbr>. Il vient d'inventer son premier <span lang="en">Business Model</span> foireux. Il est bientôt mûr pour LinkedIn.
+<span lang="en">Oh My God</span>, il vient d'inventer son premier <span lang="en">Business Model</span> foireux. Il est bientôt mûr pour LinkedIn.
 
 {% capture alt_text%}Sid, de "Hey Arnold!", déguisé en homme d'affaire, dit "Taking care of some business"{% endcapture %} {% include video_as_a_gif.html.liquid
 url="/assets/images/papa/2017-11-30/business"

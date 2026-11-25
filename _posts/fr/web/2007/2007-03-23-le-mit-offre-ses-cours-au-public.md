@@ -4,7 +4,7 @@ tags:
     - Education
 ---
 
-Une initiative à souligner : le <abbr lang="en" title="Massachusetts Institute Of Technology">MIT</abbr> ouvre ses cours aux internautes via sa plate-forme [MIT Open Course Ware](http://ocw.mit.edu/index.htm).
+Une initiative à souligner : le MIT (<span lang="en">Massachusetts Institute Of Technology</span>) ouvre ses cours aux internautes via sa plate-forme [MIT Open Course Ware](http://ocw.mit.edu/index.htm).
 
 <!-- more -->
 

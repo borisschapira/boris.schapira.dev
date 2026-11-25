@@ -43,7 +43,7 @@ Le dernier déploiement a été réalisé le {{ site.time | l: '%A %-d %B %Y' }}
 
 Le site généré est alors testé via [html-proofer](https://github.com/gjtorikian/html-proofer) pour vérifier que les pages ne contiennent pas d'erreurs.
 
-Si tout se passe bien alors Netlify déploie le site généré sur son <abbr title="Content Delivery Network">CDN</abbr>.
+Si tout se passe bien alors Netlify déploie le site généré sur son hébergement.
 
 Le dernier déploiement a été réalisé le {{ site.time | localize: '%A %-d %B %Y' }}.
 

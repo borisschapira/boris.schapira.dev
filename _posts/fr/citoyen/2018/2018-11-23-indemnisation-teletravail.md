@@ -51,7 +51,7 @@ D'après le cabinet CMS Francis Lefebvre Avocats :
 
 > […] la suppression de l’obligation légale de prise en charge des coûts découlant du télétravail n’exonère pas l’employeur de tout remboursement des frais professionnels supplémentaires induits par ce dernier, mais permet d’envisager une indemnisation forfaitaire. <cite>"<a href="https://business.lesechos.fr/directions-ressources-humaines/partenaire/partenaire-1574-teletravail-une-mise-en-oeuvre-simplifiee-mais-a-quels-couts-pour-l-entreprise-321022.php">Télétravail : une mise en œuvre simplifiée mais à quels coûts pour l'entreprise ?</a>", Maïté Ollivier et Delphine Pannetier, avocates</cite>
 
-Et c'est à peu près la conclusion à laquelle j'arrive aussi, à laquelle j'ajoute l'évaluation des frais engagés par le ou la salariée en télétravail de l'<abbr title="Unions de Recouvrement des Cotisations de Sécurité Sociale et d'Allocations Familiales">URSSAF</abbr>, que je reproduis en fin d'article.
+Et c'est à peu près la conclusion à laquelle j'arrive aussi, à laquelle j'ajoute l'évaluation des frais engagés par le ou la salariée en télétravail de l'URSSAF (Unions de Recouvrement des Cotisations de Sécurité Sociale et d'Allocations Familiales), que je reproduis en fin d'article.
 
 On y trouve l'ensemble des frais cités dans mon tweet d'origine, et mêmes d'autres.
 
@@ -86,7 +86,7 @@ Est-ce que les économies réalisées par ce même salarié dans le cadre du té
 
 ---
 
-## Évaluation des frais engagés par le ou la salariée en télétravail ([source <abbr title="Unions de Recouvrement des Cotisations de Sécurité Sociale et d'Allocations Familiales">URSSAF</abbr>](https://www.urssaf.fr/portail/home/taux-et-baremes/frais-professionnels/evaluation-des-frais-engages-par.html)[^exemple])
+## Évaluation des frais engagés par le ou la salariée en télétravail ([source URSSAF](https://www.urssaf.fr/portail/home/taux-et-baremes/frais-professionnels/evaluation-des-frais-engages-par.html)[^exemple])
 
 <table class="table table-striped" border="1" cellpadding="1" cellspacing="1">
 <thead>
@@ -199,4 +199,4 @@ Est-ce que les économies réalisées par ce même salarié dans le cadre du té
 </tbody>
 </table>
 
-[^exemple]: L'exemple d'origine du site de l'<abbr title="Unions de Recouvrement des Cotisations de Sécurité Sociale et d'Allocations Familiales">URSSAF</abbr> ne correspondait pas à la réalité du coût locatif ou, selon moi, de la surface dédiée à un bureau. Je me suis permis de le modifier [avec des données plus récentes](https://immobilier.lefigaro.fr/article/le-loyer-moyen-des-francais-est-de-628-euros-par-mois_6cf97d06-d1cf-11e6-b36e-ce717b784d0d/ '"Le loyer moyen des Français est de 628 euros par mois", Guillaume Errard dans Le Figaro Immobilier').
+[^exemple]: L'exemple d'origine du site de l'URSSAF ne correspondait pas à la réalité du coût locatif ou, selon moi, de la surface dédiée à un bureau. Je me suis permis de le modifier [avec des données plus récentes](https://immobilier.lefigaro.fr/article/le-loyer-moyen-des-francais-est-de-628-euros-par-mois_6cf97d06-d1cf-11e6-b36e-ce717b784d0d/ '"Le loyer moyen des Français est de 628 euros par mois", Guillaume Errard dans Le Figaro Immobilier').

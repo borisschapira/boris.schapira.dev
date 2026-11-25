@@ -10,7 +10,7 @@ Les enfants jouent à des jeux éducatifs avec leur grand-mère…
 > — Hibou ! Mouche !  
 > — Oui ! Et comment s'appelle le papa des chèvres ?
 
-Devant leur silence circonspect, elle décide de mimer la barbe de l'animal, reproduisant sans le savoir [le signe <abbr title="Langue des Signe Française">LSF</abbr> du mois de décembre](https://www.elix-lsf.fr/spip.php?page=signes&id_article=151775).
+Devant leur silence circonspect, elle décide de mimer la barbe de l'animal, reproduisant sans le savoir [le signe LSF (Langue des Signe Française) du mois de décembre](https://www.elix-lsf.fr/spip.php?page=signes&id_article=151775).
 
 > Le Père Noël !
 

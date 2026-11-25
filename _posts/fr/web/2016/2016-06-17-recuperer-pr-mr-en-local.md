@@ -2,7 +2,7 @@
 title: 'Récupérer une Pull Request (GitHub) ou une Merge Request (Gitlab) en local'
 ---
 
-Votre collègue a fait une <abbr title="Pull Request">PR</abbr> ou une <abbr title="Merge Request">MR</abbr> et vous ne comprenez pas pourquoi elle ne passe pas le _build_ ? Vous pouvez la récupérer en local pour l'exécuter.
+Votre collègue a fait une PR (<i lang="en">Pull Request</i>) ou une MR (<i lang="en">Merge Request</i>) et vous ne comprenez pas pourquoi elle ne passe pas le _build_ ? Vous pouvez la récupérer en local pour l'exécuter.
 
 ## Configurer
 
